@@ -1,19 +1,33 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "movies",
-  "now_iso": "2026-09-05T22:00:50Z",
+  "now_iso": "2026-09-07T07:00:00Z",
   "rotation": {
     "mode": "full_pool",
-    "seed": "2026-09-06",
-    "note": "Unattended run: ENTIRE section pool (core + every rotation group) used as seeds, per orchestrator override. No date rotation.",
-    "user_seeds": []
+    "seed": "2026-09-07",
+    "day_of_month": 7,
+    "note": "Unattended run: orchestrator override — ENTIRE sections.movies pool (core + every keyword) used as working set, no date sampling. Date rotation applied ONLY to which YouTube creators are emphasized (day 7 -> Corridor Crew, Matt Wolfe; Runway/Curious Refuge/fxguide were emphasized on 09-06). No WebSearch used at planning time.",
+    "user_seeds": [],
+    "recently_covered_avoid": [
+      "Runway Solaris interface world model (09-05)",
+      "Curious Refuge new-camera-angle coverage workflow (09-06)",
+      "Nice Touch V2 AI edit assistant (09-01)",
+      "Eddie AI editor-agent marketplace (09-03)",
+      "Crafty Apes CEO fxpodcast (09-06)",
+      "Danny Boyle 'Ink' generative AI photos (09-06)",
+      "Busan ACFM InnoAsia / Google DeepMind + AWS (09-06)",
+      "Caira camera generative video editing (09-04)",
+      "MPSE prompt-output copyright bill (09-01)",
+      "Corridor Crew what-makes-a-good-rotoscope (09-05)",
+      "Venice 'Be Brave' AI documentary (09-01)"
+    ]
   },
   "core": [
     "AI film",
     "AI 영화",
     "AI filmmaking"
   ],
-  "keywords": [
+  "working_keywords": [
     "AI film",
     "AI 영화",
     "AI filmmaking",
@@ -40,5 +54,107 @@
     "AI animation film",
     "AI scene generation",
     "Hollywood AI"
-  ]
+  ],
+  "expansions": {
+    "AI film": ["AI-assisted feature film", "AI 제작 영화", "AI in production case study", "machine learning on set"],
+    "AI 영화": ["AI 영화 제작", "생성형 AI 영화", "AI 영상 워크플로", "국내 AI 영화 스튜디오"],
+    "AI filmmaking": ["AI filmmaking workflow", "AI on-set tools", "indie AI filmmaker", "AI post-production pipeline"],
+    "generative video film": ["generative video model cinema", "Gen-4 / Veo / Marey", "generative b-roll", "video diffusion for narrative"],
+    "AI VFX": ["machine learning VFX pipeline", "AI compositing", "AI matchmove cleanup", "VFX vendor AI adoption"],
+    "Runway film": ["Runway Gen model", "Runway Aleph", "Runway Studios", "Runway filmmaker partnership"],
+    "Sora film": ["OpenAI Sora studio deal", "Sora 2 filmmaking", "OpenAI Hollywood", "Sora rights holders"],
+    "virtual production AI": ["LED volume AI", "real-time Unreal virtual production", "AI set extension", "virtual art department AI"],
+    "AI de-aging": ["digital de-aging VFX", "youthification neural", "AI face replacement actor", "Metaphysic-style de-aging"],
+    "AI storyboard previs": ["AI previsualization", "AI concept boards", "AI shot planning", "previs studio AI tool"],
+    "AI screenwriting": ["AI script development", "WGA AI rules", "AI coverage script analysis", "AI 각본"],
+    "deepfake film": ["digital likeness consent", "synthetic performer", "AI resurrection actor", "SAG-AFTRA digital replica"],
+    "AI color grading": ["AI grading DaVinci Resolve", "neural color match", "AI shot matching", "AI look development"],
+    "AI rotoscoping": ["AI roto matte", "auto keying segmentation", "SAM-based roto", "roto automation post house"],
+    "AI dubbing lip sync": ["AI visual dubbing", "AI localization film", "lip sync retiming AI", "AI 더빙"],
+    "AI short film": ["AI short film festival", "AI film competition winner", "AI film festival lineup", "AI 단편영화"],
+    "text-to-video film": ["text-to-video model release", "prompt-to-shot", "video generation benchmark", "T2V for narrative"],
+    "AI motion capture": ["markerless mocap AI", "video-to-animation", "AI performance capture", "Move.ai / Wonder Dynamics"],
+    "neural rendering film": ["Gaussian splatting production", "NeRF virtual production", "volumetric capture AI", "neural relighting"],
+    "AI trailer": ["AI generated trailer", "AI marketing materials studio", "AI key art poster", "AI promo campaign film"],
+    "AI film restoration": ["AI remaster archive film", "AI upscaling 4K restoration", "AI frame interpolation restoration", "AI 필름 복원"],
+    "Kling film": ["Kling AI 3.0", "Kuaishou Kling filmmakers", "Kling AI film program", "Kling short film"],
+    "Luma film": ["Luma Ray3", "Luma Dream Machine film", "Luma AI production tool", "Luma partnership studio"],
+    "AI animation film": ["AI animation pipeline studio", "2D animation AI inbetween", "AI anime production", "animation union AI"],
+    "AI scene generation": ["world model film", "3D scene generation from video", "AI environment generation", "AI set generation"],
+    "Hollywood AI": ["studio AI policy", "union AI agreement", "AI licensing studio archive", "AI 할리우드 논쟁"]
+  },
+  "plan": [
+    {
+      "category": "movies",
+      "label": "Movies",
+      "motif": "frame",
+      "accent": "#0070f3",
+      "allowed_domains": [
+        "variety.com",
+        "hollywoodreporter.com",
+        "indiewire.com",
+        "nofilmschool.com",
+        "fxguide.com",
+        "beforesandafters.com",
+        "provideocoalition.com",
+        "cartoonbrew.com",
+        "vfxvoice.com",
+        "definitionmagazine.com",
+        "postperspective.com",
+        "deadline.com",
+        "screendaily.com",
+        "theasc.com",
+        "motionographer.com",
+        "studiodaily.com",
+        "animationmagazine.net",
+        "awn.com",
+        "redsharknews.com",
+        "theverge.com",
+        "engadget.com",
+        "80.lv",
+        "youtube.com",
+        "youtu.be"
+      ],
+      "queries": [
+        "AI filmmaking workflow tool release September 2026 site:nofilmschool.com",
+        "AI 영화 제작 생성형 AI 워크플로 2026",
+        "AI film production case study site:provideocoalition.com",
+        "generative video model filmmakers narrative site:indiewire.com",
+        "AI VFX pipeline machine learning shot production site:fxguide.com",
+        "VFX studio AI adoption artists site:vfxvoice.com",
+        "Runway Gen model filmmaker partnership site:variety.com",
+        "OpenAI Sora studio licensing Hollywood site:hollywoodreporter.com",
+        "virtual production AI set extension LED volume site:definitionmagazine.com",
+        "virtual art department AI previsualization site:studiodaily.com",
+        "AI de-aging digital youth visual effects breakdown site:beforesandafters.com",
+        "AI storyboard previs concept art tool site:motionographer.com",
+        "AI screenwriting script development studio site:deadline.com",
+        "digital likeness synthetic performer consent site:screendaily.com",
+        "AI color grading shot matching Resolve site:redsharknews.com",
+        "AI rotoscoping auto matte post house workflow site:postperspective.com",
+        "AI visual dubbing lip sync localization film site:screendaily.com",
+        "AI short film festival winner lineup site:cartoonbrew.com",
+        "text-to-video model release filmmaking site:theverge.com",
+        "markerless AI motion capture performance animation site:awn.com",
+        "neural rendering Gaussian splatting virtual production site:80.lv",
+        "AI generated trailer key art studio marketing site:variety.com",
+        "AI film restoration remaster upscaling archive site:engadget.com",
+        "Kling AI Luma Ray filmmakers program site:indiewire.com",
+        "AI animation pipeline studio production site:animationmagazine.net",
+        "AI scene generation world model cinematography site:theasc.com",
+        "Hollywood studio AI policy union agreement site:hollywoodreporter.com",
+        "site:youtube.com Corridor Crew AI VFX workflow 2026",
+        "site:youtube.com Matt Wolfe AI video filmmaking tools 2026"
+      ]
+    }
+  ],
+  "wildcard": {
+    "query": "AI 영화 제작 스튜디오 도입 논란 2026",
+    "note": "Trending Korean-language sweep; librarian should still prefer movies allowed_domains and verify published time."
+  },
+  "budget": {
+    "categories": 1,
+    "queries_planned": 30,
+    "target_candidates": "16-28"
+  }
 }

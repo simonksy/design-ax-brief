@@ -1,29 +1,46 @@
 {
+  "date": "2026-09-07",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-homepod-siri",
+      "id": "gadgets-xreal-aura-android-xr",
       "type": "image",
-      "src": "pipeline/media/gadgets-homepod-siri.jpg"
+      "src": "pipeline/media/gadgets-xreal-aura-android-xr.jpg",
+      "source_url": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg",
+      "origin": "in-article lead image",
+      "credit": "Android Authority"
     },
     {
-      "id": "gadgets-vive-eagle",
+      "id": "gadgets-claude-carplay",
       "type": "image",
-      "src": "pipeline/media/gadgets-vive-eagle.jpg"
+      "src": "pipeline/media/gadgets-claude-carplay.jpg",
+      "source_url": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "origin": "in-article lead image",
+      "credit": "MacRumors"
     },
     {
-      "id": "gadgets-govee-ai-lighting",
+      "id": "gadgets-dji-romo-2",
       "type": "image",
-      "src": "pipeline/media/gadgets-govee-ai-lighting.jpg"
+      "src": "pipeline/media/gadgets-dji-romo-2.jpg",
+      "source_url": "https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg",
+      "origin": "in-article lead image",
+      "credit": "TechRadar / DJI"
     },
     {
-      "id": "gadgets-gemini-home",
+      "id": "gadgets-withings-beamo-ai",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-home.jpg"
+      "src": "pipeline/media/gadgets-withings-beamo-ai.jpg",
+      "source_url": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+      "origin": "in-article lead image",
+      "credit": "CNET / Withings"
     },
     {
-      "id": "gadgets-ugreen-homeagent",
+      "id": "gadgets-windows-project-zenith",
       "type": "image",
-      "src": "pipeline/media/gadgets-ugreen-homeagent.jpg"
+      "src": "pipeline/media/gadgets-windows-project-zenith.jpg",
+      "source_url": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+      "origin": "in-article lead image",
+      "credit": "Tom's Hardware"
     }
   ]
 }

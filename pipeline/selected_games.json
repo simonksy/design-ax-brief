@@ -1,50 +1,137 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "games",
+  "generated_by": "curator",
+  "selection_mode": "auto (user deferred)",
   "picks": [
     {
-      "url": "https://aftermath.site/artstation-owners-ownership-ai/",
-      "source": "Aftermath",
+      "rank": 1,
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New ArtStation owners commit to blocking AI scrapers by default — a concrete platform-policy shift artists can act on, and a clean break from the DLSS 5 saturation in this pool.",
-      "published_iso": "2026-09-04T01:21:18.000Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp",
-      "excerpt": "'ArtStation is making protection against AI training the default.'"
+      "headline": "Indie Devs Show Why Art Direction Still Matters In DLSS 5 Era",
+      "url": "https://80.lv/articles/indie-devs-show-why-art-direction-still-matters-in-dlss-5-era",
+      "source": "80 Level",
+      "published_iso": "2026-09-04T12:30:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50049/images/6a9ab9f77698b/contain_1200x630.jpg",
+      "excerpt": "\"No DLSS 5. Just good art direction.\"",
+      "rationale": "The one DLSS 5 card of the day, chosen for the art-direction angle no previously published DLSS story covered (perf hit, mods, KCD, No Man's Sky, NBA hands-on)."
     },
     {
-      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/",
-      "source": "PC Gamer",
+      "rank": 2,
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Freshest voice in the DLSS 5 backlash debate — a working director directly rebutting the 'AI slop' framing; one of only two DLSS 5-thread picks kept given how heavily the pool overlaps on that story.",
-      "published_iso": "2026-09-05T16:08:04Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg",
-      "excerpt": "The controversial generative AI upscaling tech can look alright when used subtly, but the 'AI look' seems inescapable to many players."
+      "headline": "'There is absolutely no generative AI in Space Marine 3' promises Saber Interactive executive",
+      "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
+      "source": "PC Gamer",
+      "published_iso": "2026-09-06T19:15:07Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1920-80.jpg",
+      "excerpt": "Saber's chief creative officer draws a hard line on generative AI in Space Marine 3 days after the studio's AI-writer controversy.",
+      "rationale": "The single strongest card from the Saber cluster: a concrete production commitment on a named title rather than comms-strategy or exec-opinion rehash."
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-      "source": "PC Gamer",
+      "rank": 3,
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A veteran indie creator's read on human-authored storytelling versus generative systems — a design-philosophy angle distinct from the hardware/backlash cluster.",
-      "published_iso": "2026-09-01T15:01:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
-      "excerpt": "Tarn Adams argues players instinctively prefer human-authored stories, but expects that instinct to be tested hard as generative systems improve."
+      "headline": "Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles",
+      "url": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-09-04T15:57:03.779129+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Tencent-Games-booth-Gamescom-2026.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "\"I think people should just not be afraid of AI\"",
+      "rationale": "How the largest publisher actually slots AI tooling into live-service and evergreen production — pipeline substance, and the stronger of the two Tencent items in the pool."
     },
     {
-      "url": "https://wccftech.com/dlss-5-now-works-on-rtx-20-30-gpus-older-graphics-apis-and-even-pcsx2/",
-      "source": "Wccftech",
+      "rank": 4,
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Concrete, actionable modding news — extends DLSS 5 neural rendering to older RTX 20/30 cards and even PCSX2; the second and final pick from the oversaturated DLSS 5 thread.",
-      "published_iso": "2026-08-31T13:15:52+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Feature-Image-5.jpg",
-      "excerpt": "Modders enable NVIDIA's leaked DLSS 5 on RTX 20, 30, and more, enhancing older games and emulators with improved neural rendering performance."
+      "headline": "DoubleDown Interactive's Faith Price on D2C growth, ageing apps and the real cost of AI",
+      "url": "https://www.pocketgamer.biz/doubledown-interactives-faith-price-on-d2c-growth-ageing-apps-and-the-real-cost-of-ai/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-09-03T15:40:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141216/89760/doubledownfaith_l1200.jpg",
+      "excerpt": "DoubleDown Interactive's Faith Price on where AI actually pays off in live-ops production - and where its real cost lands.",
+      "rationale": "Names where AI actually pays for itself in live-ops production and where the hidden cost lands — directly usable by teams planning AI spend."
+    },
+    {
+      "rank": 5,
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "headline": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse",
+      "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564",
+      "source": "Kotaku",
+      "published_iso": "2026-09-05T20:04:57+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/fortnitecollapse-1200x675.jpg",
+      "excerpt": "Usually playing the cheerleader for artificial intelligence, the Epic CEO seems to have cooled on the trend and regrets humoring NFTs",
+      "rationale": "The Unreal Engine owner publicly reversing his AI enthusiasm is a signal for every studio building on his toolchain; adds a fifth distinct outlet."
     }
-  ]
+  ],
+  "dedup": {
+    "against_days": 6,
+    "history_checked": "sections.games today(2026-09-06) + days 2026-09-01..09-05 (30 published cards)",
+    "dropped": [
+      {
+        "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
+        "reason": "Same event as published 2026-09-02 card 'Nvidia가 밝힌 DLSS 5의 값은 평균 프레임 50-60% 하락' (PC Gamer) and the DLSS 5 / NBA 2K27 release already covered 09-05."
+      },
+      {
+        "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
+        "reason": "Same DLSS 5 + NBA 2K27 release event already published (09-02 / 09-05)."
+      },
+      {
+        "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+        "reason": "Same CD Projekt Red earnings-call quote as published 2026-09-03 card '위처 4는 여전히 사람이 만든다' (GamesRadar+)."
+      },
+      {
+        "url": "https://www.destructoid.com/no-saber-says-they-wont-change-how-they-communicate-after-ceo-ignited-ai-writer-controversy/",
+        "reason": "Within-pool duplicate of the Eurogamer Saber comms story; whole Saber cluster capped at one card."
+      },
+      {
+        "url": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
+        "reason": "Saber cluster cap — superseded by the PC Gamer Space Marine 3 pick."
+      },
+      {
+        "url": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-is-still-bullish-on-ai-but-concerned-about-its-environmental-impact-elon-wants-to-put-servers-in-space-that-could-be-the-answer-right/",
+        "reason": "Saber cluster cap + exec-opinion/compute-politics noise."
+      },
+      {
+        "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
+        "reason": "DLSS 5 cluster cap; older (08-31) and weaker than the art-direction piece."
+      },
+      {
+        "url": "https://www.destructoid.com/dlss-5-finally-has-a-use-case-making-cyberpunk-2077-genuinely-dystopian/",
+        "reason": "DLSS 5 cluster cap; joke piece, Cyberpunk + DLSS 5 already covered by the 09-05 RX 9070 XT mod card."
+      },
+      {
+        "url": "https://www.pocketgamer.biz/tencent-games-showcases-ai-tools-for-game-development-at-gamescom/",
+        "reason": "Same Tencent gamescom AI-tooling story as the GamesIndustry.biz pick; kept the stronger one."
+      },
+      {
+        "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
+        "reason": "Nvidia gamescom announcements (DLSS 4.5 / ACE) already covered by the published 09-03 Nvidia ACE card; also 13 days old."
+      },
+      {
+        "url": "https://www.pocketgamer.biz/5-takeaways-from-gamescom-2026/",
+        "reason": "Gamescom AI wrap-up overlaps the published 09-05 TheGamer gamescom AI-disclosure tally; stale (08-28)."
+      },
+      {
+        "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview",
+        "reason": "Game preview, not tool/pipeline news; the Crazy Taxi gen-AI disclosure was already in the 09-05 gamescom tally."
+      },
+      {
+        "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern",
+        "reason": "Thin false-alarm item, 08-25, and the same 'accused of AI, wasn't' beat ran 09-05 (Humankind 2)."
+      }
+    ]
+  },
+  "diversity": {
+    "outlets": ["80 Level", "PC Gamer", "GamesIndustry.biz", "PocketGamer.biz", "Kotaku"],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5,
+    "cluster_caps": "DLSS 5 / neural rendering: 1 · Saber AI-writer: 1"
+  }
 }

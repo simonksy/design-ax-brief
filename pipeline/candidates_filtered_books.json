@@ -1,68 +1,91 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "books",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "url": "https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/",
+      "source": "InfoDocket",
+      "category": "books",
+      "published_iso": "2026-09-06T18:08:07+00:00",
+      "excerpt": "A new Public Library Quarterly article, 'Accountability, Integrity: AI Policy in Public Libraries,' examines how U.S. public libraries are actually writing generative-AI policy for staff and patrons.",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-06_14-05-54.png"
+    },
+    {
+      "url": "https://www.thebookseller.com/editors-letter/ai-challenges-how-we-work-and-how-we-create",
       "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-09-01T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg",
-      "excerpt": "Google has unveiled Expert Intelligence, a new initiative enabling readers to access purchased e-books and other trusted sources within its AI products, incorporating over 100,000 publisher titles."
+      "published_iso": "2026-09-04T11:00:00+00:00",
+      "excerpt": "The Bookseller's editor's letter argues AI is reshaping both the daily craft of publishing work and the creative act itself — and that human connection may end up being the differentiator.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd33.jpg"
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.unite.ai/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl/",
+      "source": "Unite.AI",
       "category": "books",
-      "published_iso": "2026-08-31T09:30:32Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
-      "excerpt": "Todd Carpenter examines Anthropic's new watermarking system for AI-generated content, arguing it addresses regulatory compliance but not the deeper problem of attribution and provenance in publishing."
+      "published_iso": "2026-09-04T12:24:02-04:00",
+      "excerpt": "Microsoft moved for summary judgment on 4 September in the consolidated copyright litigation brought by book authors and news publishers, telling a federal court that Copilot almost never reproduces books verbatim.",
+      "og_image": "https://www.unite.ai/wp-content/uploads/2026/09/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl.jpg"
     },
     {
-      "url": "https://www.oreilly.com/radar/writing-with-ai/",
-      "source": "O'Reilly Radar",
+      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
+      "source": "404 Media",
       "category": "books",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Tim O'Reilly argues AI should be treated as a creative medium rather than a threat to authorship, revealing in the afterword of an essay that 'Claude wrote every word' while he directed the collaboration."
+      "published_iso": "2026-09-02T12:47:45+00:00",
+      "excerpt": "404 Media follows up its Amazon book-destruction investigation with a worker who slices spines off printed books so they can be scanned for AI training.",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/maxres.jpg"
     },
     {
-      "url": "https://www.thecreativepenn.com/2026/09/02/how-to-redesign-your-author-business-for-the-environment-that-actually-exists-with-tracy-cooper-posey/",
-      "source": "The Creative Penn",
+      "url": "https://selfpublishingadvice.org/destroying-books-to-train-ai/",
+      "source": "Alliance of Independent Authors",
       "category": "books",
-      "published_iso": "2026-09-02T06:30:00Z",
-      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/09/redesign-author-business-v2.jpg",
-      "excerpt": "Tracy Cooper-Posey discusses forming a personal AI-use policy to cut decision fatigue, sharing how a clear framework let her stop relitigating AI questions in her author business every day."
+      "published_iso": "2026-08-27T12:00:44+00:00",
+      "excerpt": "ALLi's news summary on AI companies buying and destroying physical books to train models, plus a new textbook copyright lawsuit filed against OpenAI.",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-27.jpg"
     },
     {
-      "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
-      "source": "Good e-Reader",
+      "url": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ed%95%98%ec%a0%95%ec%9a%b0-%ea%b5%ad%ea%b0%80ai%ec%a0%84%eb%9e%b5%ec%9c%84-%eb%b6%80%ec%9c%84%ec%9b%90%ec%9e%a5-%ec%b6%9c%ed%8c%90-ax-ai-%eb%8f%84%ec%9e%85-%ec%95%84/",
+      "source": "테크42",
       "category": "books",
-      "published_iso": "2026-08-24T04:33:19Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
-      "excerpt": "Spotify rolled out three AI-driven audiobook features: Prompted Playlist lets listeners describe a mood or theme to generate a custom audiobook playlist, and a new conversational 'Just Ask Spotify' voice/text mode answers questions about a book or recommends what to listen to next."
+      "published_iso": "2026-09-01T06:33:41+09:00",
+      "excerpt": "하정우 국가AI전략위원회 상근부위원장이 대한출판문화협회 특별강연에서 ‘출판 AX’는 AI 도구 도입이 아니라 업무 재설계가 핵심이라고 강조했다.",
+      "og_image": "https://tech42.shoplic.cloud/wp-content/uploads/2026/09/280613274.png"
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/03/guest-post-a-year-of-trends-beyond-scholarly-comms-what-you-need-to-know/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=04273846645576512",
+      "source": "이데일리",
       "category": "books",
-      "published_iso": "2026-09-03T09:30:33Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2170742583.jpg",
-      "excerpt": "Laura Harvey and Chris Reid distill a year of writing about scholarly publishing's 'second digital transformation,' pointing to how news and content businesses are increasingly restructuring around AI licensing deals with the likes of Meta, following moves by NewsCorp and Le Monde."
+      "published_iso": "2026-09-03T15:18:45+09:00",
+      "excerpt": "정재욱 kt 밀리의서재 대표는 창립 10주년 컨퍼런스 ‘읽는 미래’에서 “AI는 답을 만들지만 독서는 질문을 만든다”며 AI 시대 읽기의 역할을 제시했다.",
+      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090301321.jpg"
     },
     {
-      "url": "https://www.writersdigest.com/a-conversation-with-victoria-strauss-on-how-writers-can-spot-publishing-scams-killer-writers",
-      "source": "Writer's Digest",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406515",
+      "source": "테크월드",
       "category": "books",
-      "published_iso": "2026-09-05T16:00:00Z",
-      "og_image": "",
-      "excerpt": "Writer Beware co-founder Victoria Strauss explains how AI has fueled a 'tsunami' of publishing scam solicitations and impersonations, making mass, personalized deception cheap enough that authors now need new habits to vet unsolicited offers."
+      "published_iso": "2026-09-04T08:30:00+09:00",
+      "excerpt": "kt 밀리의서재가 AI 확산에 따른 독서 경험 변화를 짚고, 경계 없는 독서·대화하는 독서 등 미래 읽기 경험의 다섯 가지 지향점을 공개했다.",
+      "og_image": "https://cdn.epnc.co.kr/news/photo/202609/406515_407012_1526.jpg"
+    },
+    {
+      "url": "https://gizmodo.com/tcl-p80-ultra-can-convert-ebooks-into-audiobooks-and-podcasts-using-ai-2000806765",
+      "source": "Gizmodo",
+      "category": "books",
+      "published_iso": "2026-09-03T14:10:04+00:00",
+      "excerpt": "TCL's P80 Pro and P80 Ultra convert e-books into AI-narrated audiobooks or podcast-style summaries on-device, and add a hardware key that drops the phone into a paper-like e-reader mode.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/tcl-p80-ultra-1200x675.jpg"
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/09/04/tcls-p80-pro-and-ultra-are-the-phones-that-replaced-your-kindle-too/",
+      "source": "Yanko Design",
+      "category": "books",
+      "published_iso": "2026-09-04T08:15:33+00:00",
+      "excerpt": "Yanko Design on TCL's NXTPAPER P80 phones, whose dedicated e-reader mode and AI book-to-audio conversion reframe the phone screen as a reading surface."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 7,
+    "kept": 10,
     "against_days": 5
   }
 }

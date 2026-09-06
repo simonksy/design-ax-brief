@@ -1,162 +1,171 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "games",
-  "now_iso": "2026-09-05T22:00:50Z",
+  "now_iso": "2026-09-06T22:00:00Z",
   "window_hours": 336,
   "generated_by": "librarian",
   "items": [
     {
-      "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291",
+      "url": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
+      "source": "Eurogamer",
+      "category": "games",
+      "headline": "Saber Interactive won't change its comms strategy despite backlash over AI writer controversy",
+      "published_iso": "2026-09-06T15:40:50.460147+00:00",
+      "excerpt": "Saber Interactive CCO Tim Willits says the studio isn't changing its communications approach after its CEO's AI writer controversy.",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview",
+      "source": "Eurogamer",
+      "category": "games",
+      "headline": "Gen-AI controversy aside, after 30 minutes with Crazy Taxi: World Tour, it feels like classic arcade Sega - and it's an absolute blast",
+      "published_iso": "2026-09-05T09:01:01.508149+00:00",
+      "excerpt": "Crazy Taxi was not my favourite Dreamcast game (please don't ask me to choose between the triumphant rhythm triptych of…",
+      "og_image": "https://assetsio.gnwcdn.com/crazy-taxi-world-tour-germany-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
+      "source": "Eurogamer",
+      "category": "games",
+      "headline": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
+      "published_iso": "2026-09-02T15:53:39.844105+00:00",
+      "excerpt": "If you own a 50-series GeForce graphics card or laptop, or use GeForce Now, you can try Nvidia's controversial new DLSS 5 tech this week.",
+      "og_image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
+      "source": "PC Gamer",
+      "category": "games",
+      "headline": "'There is absolutely no generative AI in Space Marine 3' promises Saber Interactive executive",
+      "published_iso": "2026-09-06T19:15:07Z",
+      "excerpt": "Saber's chief creative officer draws a hard line on generative AI in Space Marine 3 days after the studio's AI-writer controversy.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1920-80.jpg"
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-is-still-bullish-on-ai-but-concerned-about-its-environmental-impact-elon-wants-to-put-servers-in-space-that-could-be-the-answer-right/",
+      "source": "PC Gamer",
+      "category": "games",
+      "headline": "Saber CCO Tim Willits is still bullish on AI, but concerned about its environmental impact",
+      "published_iso": "2026-09-06T18:27:34Z",
+      "excerpt": "Willits argues AI tooling is inevitable in game production while worrying about the energy cost of running it.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3LxA2h8d8uE3JQ6RtYiCXe-2560-80.jpg"
+    },
+    {
+      "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564",
       "source": "Kotaku",
       "category": "games",
-      "headline": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
-      "published_iso": "2026-09-04T15:00:04+00:00",
-      "excerpt": "Humankind 2's big announcement trailer was called AI slop by many online, but behind-the-scenes footage shows real animals, people, and sets.",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/trailer-real-1200x675.jpg"
+      "headline": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse",
+      "published_iso": "2026-09-05T20:04:57+00:00",
+      "excerpt": "Usually playing the cheerleader for artificial intelligence, the Epic CEO seems to have cooled on the trend and regrets humoring NFTs",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/fortnitecollapse-1200x675.jpg"
     },
     {
-      "url": "https://aftermath.site/artstation-owners-ownership-ai/",
-      "source": "Aftermath",
+      "url": "https://www.pocketgamer.biz/doubledown-interactives-faith-price-on-d2c-growth-ageing-apps-and-the-real-cost-of-ai/",
+      "source": "PocketGamer.biz",
       "category": "games",
-      "headline": "ArtStation Has New Owners Who Say They'll Put Artists First By Blocking AI Scrapers",
-      "published_iso": "2026-09-04T01:21:18.000Z",
-      "excerpt": "'ArtStation is making protection against AI training the default.'",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp"
+      "headline": "DoubleDown Interactive's Faith Price on D2C growth, ageing apps and the real cost of AI",
+      "published_iso": "2026-09-03T15:40:00+01:00",
+      "excerpt": "DoubleDown Interactive's Faith Price on where AI actually pays off in live-ops production - and where its real cost lands.",
+      "og_image": "https://media.pocketgamer.biz/images/141216/89760/doubledownfaith_l1200.jpg"
     },
     {
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/",
-      "source": "GamesRadar+",
+      "url": "https://www.pocketgamer.biz/tencent-games-showcases-ai-tools-for-game-development-at-gamescom/",
+      "source": "PocketGamer.biz",
       "category": "games",
-      "headline": "Hands-on with DLSS 5 in NBA 2K27: what works and what doesn't work about Nvidia's new AI upscaler",
-      "published_iso": "2026-09-04T13:04:31Z",
-      "excerpt": "I put my apprehensions to the side to give DLSS 5 a fair shot. Here's what I found.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8cwLeMpT38BXiwbVd7rJhe-1920-80.jpg"
+      "headline": "Tencent Games showcases AI tools for game development at gamescom",
+      "published_iso": "2026-08-28T15:36:00+01:00",
+      "excerpt": "Tencent Games Central Tech made its gamescom debut as a unified brand by showcasing a portfolio of AI and technology tools covering game development",
+      "og_image": "https://media.pocketgamer.biz/images/141151/89737/tencent_l1200.jpg"
     },
     {
-      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
-      "source": "Wccftech",
+      "url": "https://www.pocketgamer.biz/5-takeaways-from-gamescom-2026/",
+      "source": "PocketGamer.biz",
       "category": "games",
-      "headline": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
-      "published_iso": "2026-09-04T18:37:44+00:00",
-      "excerpt": "DLSS 5 Neural Rendering now works on AMD RX 9070 XT, boosting FPS in Cyberpunk 2077 and GTA V: Enhanced, with a mod improving performance by 12%.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-DLSS-5.jpg"
+      "headline": "5 takeaways from Gamescom 2026: A truly global show, AI's impact, and what comes next",
+      "published_iso": "2026-08-28T15:42:00+01:00",
+      "excerpt": "Gamescom 2026 wrap-up: how generative AI tooling showed up across the show floor and what it means for studios.",
+      "og_image": "https://media.pocketgamer.biz/images/141021/89735/gamescom-2026-11_l1200.jpg"
     },
     {
-      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/",
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "Kingdom Come: Deliverance director says DLSS 5 does right by KCD 2, people are 'crazy' for thinking it's AI slop",
-      "published_iso": "2026-09-05T16:08:04Z",
-      "excerpt": "The controversial generative AI upscaling tech can look alright when used subtly, but the 'AI look' seems inescapable to many players.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg"
-    },
-    {
-      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months",
+      "url": "https://80.lv/articles/indie-devs-show-why-art-direction-still-matters-in-dlss-5-era",
       "source": "80 Level",
       "category": "games",
-      "headline": "How Agents 404 Devs Created a Prototype and Gained 120K Wishlists in Two Months",
-      "published_iso": "2026-09-03T16:00:00+00:00",
-      "excerpt": "PlayHero founder Anton Slashcev explains how Bezi helped his team prototype disguises, camera behavior, effects, and a multiplayer ragdoll system in one month.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50083/images/6aa0e15c1a1e0/contain_1200x630.jpg"
+      "headline": "Indie Devs Show Why Art Direction Still Matters In DLSS 5 Era",
+      "published_iso": "2026-09-04T12:30:00+00:00",
+      "excerpt": "\"No DLSS 5. Just good art direction.\"",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50049/images/6a9ab9f77698b/contain_1200x630.jpg"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/cd-projekt-red-isnt-planning-to-rely-on-ai-making-complete-games-and-will-still-be-predominantly-using-people-for-the-witcher-4-and-beyond/",
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "CD Projekt Red isn't 'planning to rely on AI making complete games', and will still be 'predominantly using people' for The Witcher 4",
-      "published_iso": "2026-09-03T10:40:20Z",
-      "excerpt": "\"I think everybody has to make those judgments on their own,\" says the studio on generative AI in production.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg"
-    },
-    {
-      "url": "https://gamingbolt.com/nvidia-dlss-5-launches-on-september-3-debuts-in-nba-2k27",
-      "source": "GamingBolt",
-      "category": "games",
-      "headline": "Nvidia DLSS 5 Launches on September 3, Debuts in NBA 2K27",
-      "published_iso": "2026-09-02T12:00:00+00:00",
-      "excerpt": "It might be time to see your favorite athletes in a whole new, photorealistic light as DLSS 5 brings its magic to a title that can use it well.",
-      "og_image": "https://gamingbolt.com/wp-content/uploads/2026/08/nba-2k27-cover.jpg"
-    },
-    {
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-says-its-only-targeting-photorealistic-games-with-dlss-5-but-am-i-the-only-one-who-thinks-realistic-visuals-are-worse/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "headline": "Nvidia says it's only targeting 'photorealistic' games with DLSS 5, but am I the only one who thinks 'realistic' visuals are worse?",
-      "published_iso": "2026-09-02T12:21:27Z",
-      "excerpt": "Nvidia assured me it's only intending DLSS 5 to be used in photorealistic games, but I thought we were past thinking realistic graphics were better.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WfR7f4sq73QCKqgrGp2nJ4-2560-80.jpg"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-says-nvidia-dlss-5-backlash-is-really-funny-and-that-most-talented-people-i-know-use-ai/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "headline": "Kingdom Come: Deliverance 2 lead says the DLSS 5 backlash is 'really funny' and that 'most talented people I know use AI'",
-      "published_iso": "2026-09-01T15:23:02Z",
-      "excerpt": "A senior dev pushes back on the anti-AI mood, saying the most talented people he knows already use AI in their craft.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kCQpdSfWxtvBYcqmyZru7n-1920-80.jpg"
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/",
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "Dwarf Fortress creator says we have a natural lean towards human-made stories, 'but we're all going to be very sorely tested in the coming years' by AI",
-      "published_iso": "2026-09-01T15:01:29Z",
-      "excerpt": "Tarn Adams argues players instinctively prefer human-authored stories, but expects that instinct to be tested hard as generative systems improve.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg"
-    },
-    {
-      "url": "https://wccftech.com/dlss-5-now-works-on-rtx-20-30-gpus-older-graphics-apis-and-even-pcsx2/",
-      "source": "Wccftech",
-      "category": "games",
-      "headline": "DLSS 5 Now Works on RTX 20 & 30 GPUs, Older Graphics APIs and Even PCSX2",
-      "published_iso": "2026-08-31T13:15:52+00:00",
-      "excerpt": "Modders enable NVIDIA's leaked DLSS 5 on RTX 20, 30, and more, enhancing older games and emulators with improved neural rendering performance.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Feature-Image-5.jpg"
-    },
-    {
-      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists",
+      "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
       "source": "80 Level",
       "category": "games",
-      "headline": "New Game Uses a Local AI Model Trained Entirely on the Studio's Own Artists",
-      "published_iso": "2026-08-31T20:45:00+00:00",
-      "excerpt": "Studio Atelico explains what it learned from building more than 10 game prototypes, including the need for authored constraints, on-device inference, and artist consent.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49986/images/6a961376762b8/contain_1200x630.png"
+      "headline": "NVIDIA's DLSS 5: Slop Or Not?",
+      "published_iso": "2026-08-31T10:26:00+00:00",
+      "excerpt": "People have been messing around with it in different games.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49970/images/6a9556f39c974/contain_1200x630.jpg"
     },
     {
-      "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine",
-      "source": "80 Level",
+      "url": "https://www.rockpapershotgun.com/nvidia-dlss-5-releases-this-week-with-nba-2k27-so-the-ai-yassification-filters-busy-beautifying-basketballers-early-doors",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "headline": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
-      "published_iso": "2026-08-28T05:15:00+00:00",
-      "excerpt": "Coraline Lyu explains how she built two separate node-based procedural systems to capture the identity of England's Shell Grotto.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/49918/images/6a8f9cfaa7e25/contain_1200x630.jpg"
+      "headline": "Nvidia DLSS 5 releases this week with NBA 2K27, so the AI yassification filter's busy beautifying basketballers early doors",
+      "published_iso": "2026-09-01T15:31:21.892342+00:00",
+      "excerpt": "Nvidia DLSS 5 releases this week with NBA 2K27, the controversial genAI graphics tech debuting on September 3rd.",
+      "og_image": "https://assetsio.gnwcdn.com/nvidia-dlss-5-release-date-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "url": "https://www.thegamer.com/gamescom-1-in-4-games-used-ai/",
-      "source": "TheGamer",
+      "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "headline": "24% Of Gamescom Reveals Officially Used AI",
-      "published_iso": "2026-08-27T10:34:41Z",
-      "excerpt": "23.64% of the games featured during Gamescom ONL this year used AI in some form of development or marketing.",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop"
+      "headline": "Cosmic horror and sea bird waddling sim Penguin Colony gave me a genAI fright in its release date trailer, but thankfully there's no actual cause for concern",
+      "published_iso": "2026-08-25T17:25:39.003510+00:00",
+      "excerpt": "Fool me once, shame on me!",
+      "og_image": "https://assetsio.gnwcdn.com/penguin-colony-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "url": "https://kotaku.com/atelier-just-turned-one-of-its-most-popular-rpg-protagonists-into-an-ai-chatbot-2000727898",
-      "source": "Kotaku",
+      "url": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "headline": "Popular RPG Series Turns Female Protagonist Into AI Companion",
-      "published_iso": "2026-08-26T05:00:56+00:00",
-      "excerpt": "The alchemy RPG series is turning its anime protagonist into a chatbot companion.",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg"
+      "headline": "Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles",
+      "published_iso": "2026-09-04T15:57:03.779129+00:00",
+      "excerpt": "\"I think people should just not be afraid of AI\"",
+      "og_image": "https://assetsio.gnwcdn.com/Tencent-Games-booth-Gamescom-2026.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "url": "https://aftermath.site/google-ai-video-games/",
-      "source": "Aftermath",
+      "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "headline": "Is This All You Can Conjure",
-      "published_iso": "2026-08-25T23:40:46.000Z",
-      "excerpt": "\"...we are 3-4 years into this collective descent into madness, and this is all you can come up with to support [AI's] sales pitch?\" A look at Google's push for AI-generated game worlds.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG"
+      "headline": "Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026",
+      "published_iso": "2026-08-25T18:44:44.891685+00:00",
+      "excerpt": "Nvidia used Gamescom to detail a wave of developer-facing updates across DLSS, RTX, and its GeForce Now cloud platform.",
+      "og_image": "https://assetsio.gnwcdn.com/Gamescon-Latam-(2).jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "url": "https://www.destructoid.com/dlss-5-finally-has-a-use-case-making-cyberpunk-2077-genuinely-dystopian/",
+      "source": "Destructoid",
+      "category": "games",
+      "headline": "DLSS 5 finally has a use case - making Cyberpunk 2077 genuinely dystopian",
+      "published_iso": "2026-09-02T20:04:51+00:00",
+      "excerpt": "Welcome to the Torment Nexus",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/09/dlss5-cyberpunk.jpg"
+    },
+    {
+      "url": "https://www.destructoid.com/no-saber-says-they-wont-change-how-they-communicate-after-ceo-ignited-ai-writer-controversy/",
+      "source": "Destructoid",
+      "category": "games",
+      "headline": "'No:' Saber says they won't change how they communicate after CEO ignited AI writer controversy",
+      "published_iso": "2026-09-06T17:18:05+00:00",
+      "excerpt": "Not a good look, honestly.",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/08/rideshare-stimulator-2.jpg"
+    },
+    {
+      "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+      "source": "GameSpot",
+      "category": "games",
+      "headline": "The Witcher 4 Will Be Made “Predominantly Using People” And Not AI",
+      "published_iso": "2026-09-03T15:35:08+00:00",
+      "excerpt": "AI is a tool that can help, but not for the kinds of \"complex\" games that CD Projekt makes, its joint-CEO says.",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.26.18-AM.png"
     }
   ]
 }

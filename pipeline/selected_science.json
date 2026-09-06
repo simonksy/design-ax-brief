@@ -1,66 +1,95 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "science",
+  "selected_by": "curator (user deferred)",
+  "dedup": {
+    "against_days": 5,
+    "pool_size": 18,
+    "dropped_as_duplicate": 1,
+    "dropped_notes": [
+      "STAT 'OpenEvidence launches new family of AI models' (statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/) — same source + same core topic as already-published 2026-09-04 card 'science-fda-genai-pilot' (statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/), a same-day STAT content-hub pair on the FDA TEMPO pilot; also largely a product/business launch."
+    ],
+    "within_pool_notes": [
+      "bioRxiv 'Ensemble tests mask missing dynamics in protein conformational generators' overlaps the same core topic (protein conformational ensembles vs. dynamics) as the picked Phys.org AF3-ReD story — kept the stronger, more readable one only.",
+      "Tech Xplore 'Why organic chemistry may help build AI that can explain its answers' and 'Explainable AI could help turn hidden data patterns into testable hypotheses' are the same interpretability argument from the same outlet — neither picked, to respect the ≤2-per-outlet guard and keep topic spread."
+    ]
+  },
+  "diversity_check": {
+    "outlets": {
+      "phys.org": 2,
+      "scientificamerican.com": 1,
+      "arxiv.org": 1,
+      "techxplore.com": 1
+    },
+    "distinct_outlets": 4,
+    "max_per_outlet": 2,
+    "raw_preprints": 1
+  },
   "picks": [
     {
-      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html",
+      "rank": 1,
+      "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
+      "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
       "source": "Phys.org",
+      "published_iso": "2026-09-05T17:00:05-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg",
+      "excerpt": "Researchers at Japan's Institute for Molecular Science built AF3-ReD, which adds a repulsive force between predicted structures so AlphaFold3 stops collapsing to one conformation. It recovered open, closed and intermediate states of ATP synthase that standard AlphaFold3 misses.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
-      "rationale": "St. Jude/Harvard's AdaptiveFlow screens billions of drug-like molecules at ~1,000x lower compute cost than existing ultra-large screening methods — a concrete, quantified AI-for-science advance.",
-      "published_iso": "2026-09-01T21:00:07Z",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-informed-adaptivefl-1.jpg",
-      "excerpt": "Scientists from St. Jude, the University of Pavia, Dana-Farber and Harvard unveiled AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules at roughly 1,000-fold lower computational cost than existing ultra-large screening methods."
+      "rationale": "AlphaFold3's single-shape blind spot is the field's best-known limitation, and AF3-ReD is a simple, reusable fix that changes how structural biologists run predictions tomorrow."
     },
     {
-      "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html",
+      "rank": 2,
+      "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
+      "url": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html",
       "source": "Phys.org",
+      "published_iso": "2026-09-06T13:00:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg",
+      "excerpt": "A neural network sifted more than 2 million seismic recordings from 1990-2024 and flagged about 174,929 PKP precursor signals, roughly ten times all previous global datasets combined. The haul revealed six continuous belts of deep-mantle irregularities that earlier work saw only as scattered points.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
-      "rationale": "Proposes a closed-loop ecosystem linking databases, predictive models, AI agents, simulations and automated labs — a template for how materials-science R&D pipelines are being restructured around AI.",
-      "published_iso": "2026-09-04T13:40:03Z",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/empowering-polymeric-m.jpg",
-      "excerpt": "Researchers propose a closed-loop polymer-discovery ecosystem that links databases, predictive models, AI agents, simulations and automated labs to compress years of trial-and-error materials work into much faster cycles."
+      "rationale": "A ten-fold jump in usable seismic signals turns scattered dots into six continuous belts — a vivid case of AI finding new planetary structure, not just speeding up old work."
     },
     {
-      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-      "source": "Quanta Magazine",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "rationale": "A live dispatch from the International Congress of Mathematicians on what mathematicians still value about doing math as AI systems increasingly generate proofs — high-credibility reflection on AI's frontier in a rigorous discipline.",
-      "published_iso": "2026-09-03T13:41:48Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg",
-      "excerpt": "A live recording from the International Congress of Mathematicians examines what mathematicians value about doing math as AI systems increasingly generate proofs and tackle open problems."
-    },
-    {
-      "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-      "source": "Quanta Magazine",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "headline": "In an Age of AI, a Physicist Seeks What Endures",
-      "rationale": "Yale physicist Sarah Demers is drafting an APS policy statement on AI, weighing real risks against benefits like an AI system already helping control the Mu2e experiment — a credible, policy-relevant angle on AI in physics.",
-      "published_iso": "2026-09-03T13:35:59Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg",
-      "excerpt": "Yale physicist Sarah Demers, who is drafting an American Physical Society policy statement on AI, weighs the technology's risks against emerging benefits, including an AI system that helps control the Mu2e experiment's search for a rare muon-to-electron transformation."
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202608/brain-computer-interface-aligns-better-with-humans-via-ai",
-      "source": "Psychology Today",
+      "rank": 3,
+      "title": "These smart bricks know what object they make up",
+      "url": "https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-06T07:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg",
+      "excerpt": "Researchers built modular bricks that collectively infer the shape they have been assembled into — boat, chair or guitar — by sharing local sensor signals. The work pushes machine learning out of the server and into the material itself.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Brain-Computer Interface Aligns Better with Humans via AI",
-      "rationale": "New research shows combining human motor learning with AI improves BCI calibration and performance — a novel result with direct relevance to people who've lost the ability to move or speak, rounding out the section with cognitive-science coverage.",
-      "published_iso": "2026-08-31T21:47:56Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-08/pic15u15.jpg?itok=8GIcLtKn",
-      "excerpt": "New research shows that combining human motor learning with AI improves brain-computer interface calibration and performance, offering hope for people who have lost the ability to move or speak."
+      "rationale": "Computation living inside the material rather than a server is an idea any reader can picture, and it is the most tangible physical-AI result in the pool."
+    },
+    {
+      "rank": 4,
+      "title": "Accelerating Scientific Research with Gemini in the Real-World",
+      "url": "https://arxiv.org/abs/2608.26701",
+      "source": "arXiv",
+      "published_iso": "2026-08-27T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Google reports a real-world validation of Co-Scientist, a Gemini-based multi-agent system that runs hypothesis generation, experiment design and manuscript writing end to end. The paper moves the AI co-scientist claim from in-silico demos to laboratory outcomes.",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "The AI co-scientist claim finally comes with wet-lab outcomes instead of in-silico demos — the single most consequential AI-for-science report in the pool."
+    },
+    {
+      "rank": 5,
+      "title": "Brain activity patterns could help sharpen LLM deductive reasoning",
+      "url": "https://techxplore.com/news/2026-09-brain-patterns-sharpen-llm-deductive.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-03T07:20:09-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg",
+      "excerpt": "Peking and Tsinghua University teams found LLM internal activity during reasoning partly aligns with human brain regions used for logical problem solving. Their brain-guided training framework used imaging data to push deductive reasoning past what text-only training achieved.",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Using human brain imaging as a training signal beats text-only training on deduction — a concrete neuroscience-to-AI transfer, and the pool's only cognitive-science angle."
     }
   ]
 }

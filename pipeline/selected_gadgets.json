@@ -1,75 +1,187 @@
 {
+  "date": "2026-09-07",
   "section": "gadgets",
-  "date": "2026-09-06",
+  "pass": "curator",
+  "selection_mode": "auto (user deferred)",
   "picks": [
     {
-      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
-      "source": "MacRumors",
-      "published_iso": "2026-09-04T15:25:23Z",
-      "og_image": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
-      "excerpt": "Apple is reportedly testing a new full-sized HomePod with Siri AI support, though Bloomberg's Mark Gurman says the AI speaker isn't imminent.",
+      "rank": 1,
+      "id": "gadgets-xreal-aura-android-xr",
+      "title": "I finally tried XREAL's fully-baked Android XR glasses, and now I'm counting down to launch",
+      "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-06T08:37:17+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg",
+      "excerpt": "Android Authority went hands-on with XREAL's Aura, the first fully-realized Android XR glasses, arguing the Gemini-driven eyewear points to an Android you use without pulling out a phone screen.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "애플이 직접 AI 스피커 시장에 뛰어든다는 첫 신호로, 스마트홈 허브 경쟁 구도에 바로 영향을 준다."
+      "rationale": "First hands-on with a finished Android XR device — the clearest signal yet of what a screenless, Gemini-first interface actually looks like for designers."
     },
     {
-      "url": "https://www.engadget.com/2249332/htc-vive-eagle-comes-to-the-us-europe-uk-aus/",
-      "source": "Engadget",
-      "published_iso": "2026-09-03T13:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/htc-vive-eagle-smart-glasses-finally-come-to-the-west/l-intro-1788348912.jpg",
-      "excerpt": "HTC's camera-equipped, AI-powered Vive Eagle smart glasses are finally launching in the US, Europe and Australia a year after their Taiwan debut.",
+      "rank": 2,
+      "id": "gadgets-claude-carplay",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "source": "MacRumors",
+      "published_iso": "2026-09-04T13:43:31-07:00",
+      "og_image": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "excerpt": "Anthropic added CarPlay support to the Claude iOS app, so drivers can talk to Claude through in-car infotainment now that iOS 26.4 opens CarPlay to third-party chatbots.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "카메라 내장 AI 스마트 글라스가 대만을 넘어 서구 시장에 정식 상륙한 첫 사례."
+      "rationale": "A shipped feature, not a roadmap: iOS 26.4 opening CarPlay to third-party assistants makes the car a real surface designers now have to lay out for."
     },
     {
-      "url": "https://www.digitaltrends.com/home/govees-new-ai-lighting-lineup-lets-you-build-custom-scenes-with-simple-prompts/",
-      "source": "Digital Trends",
-      "published_iso": "2026-09-04T13:12:52Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-featured.jpg?resize=1200%2C630",
-      "excerpt": "Govee unveiled three new AI-enabled smart lighting products at IFA 2026 that let users build custom lighting scenes with simple text prompts.",
+      "rank": 3,
+      "id": "gadgets-dji-romo-2",
+      "title": "DJI's second-gen Romo robot vacuum looks like the lovechild of an HR Giger drawing and an iMac G3",
+      "url": "https://www.techradar.com/home/robot-vacuums/djis-second-gen-romo-robot-vacuum-looks-like-the-lovechild-of-an-hr-giger-drawing-and-an-imac-g3-and-boasts-some-robust-new-privacy-measures-following-the-first-gen-models-hacking-embarrassment",
+      "source": "TechRadar",
+      "published_iso": "2026-09-04T11:52:31Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg",
+      "excerpt": "DJI's second-gen Romo robot vacuum borrows drone navigation know-how for precise mapping, and adds hardware privacy measures after the first generation's hacking embarrassment.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "텍스트 프롬프트로 조명 씬을 짜는 기능은 공간 연출 워크플로에 곧바로 적용된다."
+      "rationale": "Rare case of a hack forcing privacy into the industrial design itself — drone-grade perception plus physical safeguards as a visible product decision."
     },
     {
-      "url": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-02T21:41:38Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
-      "excerpt": "Gemini for Home just fixed one of its strangest limitations, with Google Home getting upgrades to media and smart home voice controls and easier automation management.",
+      "rank": 4,
+      "id": "gadgets-withings-beamo-ai",
+      "title": "Withings' 'Thermometer of the Future' Is Getting an AI Analysis Upgrade",
+      "url": "https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/",
+      "source": "CNET",
+      "published_iso": "2026-09-04T16:38:40-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+      "excerpt": "Withings' BeamO multi-scope device gains an AI analysis layer that interprets its own heart and lung recordings, pushing consumer health hardware toward on-device interpretation.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "제미나이 포 홈의 음성 제어·자동화 개선은 매일 쓰는 스마트홈 UX를 즉시 바꾼다."
+      "rationale": "Consumer health hardware moves from capturing signals to interpreting them — a hard design problem in how much a device is allowed to tell you."
     },
     {
-      "url": "https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/",
-      "source": "9to5Google",
-      "published_iso": "2026-09-03T22:00:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Ugreen announced HomeAgent, a local AI smart home ecosystem paired with a new line of cameras, pushing the accessory maker deeper into AI hardware.",
+      "rank": 5,
+      "id": "gadgets-windows-project-zenith",
+      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+      "url": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-05T17:18:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+      "excerpt": "Microsoft's stripped-down Windows 11 'Project Zenith' for AI developers demands 64GB of RAM and 250 GB/s of bandwidth, debuting on AMD's Ryzen AI Halo platform.",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "액세서리 회사가 로컬 AI 스마트홈 생태계로 확장하는 흐름을 보여주는 신제품."
+      "rationale": "Microsoft carving out an OS SKU just for local-AI work sets a concrete hardware floor for anyone planning to run models on their own machine."
     }
   ],
-  "dropped_as_duplicate": [
+  "items": [
     {
-      "url": "https://www.tomsguide.com/home/anker-just-launched-a-ton-of-new-products-at-ifa-2026-including-an-ai-powered-home-hub",
-      "reason": "same story as already-published gadgets-anker-mindbase-hub (Gizmodo, 2026-09-05 today)"
+      "rank": 1,
+      "id": "gadgets-xreal-aura-android-xr",
+      "title": "I finally tried XREAL's fully-baked Android XR glasses, and now I'm counting down to launch",
+      "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-06T08:37:17+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg",
+      "excerpt": "Android Authority went hands-on with XREAL's Aura, the first fully-realized Android XR glasses, arguing the Gemini-driven eyewear points to an Android you use without pulling out a phone screen.",
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "rationale": "First hands-on with a finished Android XR device — the clearest signal yet of what a screenless, Gemini-first interface actually looks like for designers."
     },
     {
-      "url": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-systems-approach-the-starting-line/",
-      "reason": "same Lenovo/Acer RTX Spark IFA launch as already-published gadgets-nvidia-rtx-spark-ai-pcs (WIRED, 2026-09-04)"
+      "rank": 2,
+      "id": "gadgets-claude-carplay",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "source": "MacRumors",
+      "published_iso": "2026-09-04T13:43:31-07:00",
+      "og_image": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg",
+      "excerpt": "Anthropic added CarPlay support to the Claude iOS app, so drivers can talk to Claude through in-car infotainment now that iOS 26.4 opens CarPlay to third-party chatbots.",
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "rationale": "A shipped feature, not a roadmap: iOS 26.4 opening CarPlay to third-party assistants makes the car a real surface designers now have to lay out for."
     },
     {
-      "url": "https://9to5google.com/2026/09/03/lenovos-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram/",
-      "reason": "same Lenovo RTX Spark laptop debut as already-published gadgets-nvidia-rtx-spark-ai-pcs (WIRED, 2026-09-04)"
+      "rank": 3,
+      "id": "gadgets-dji-romo-2",
+      "title": "DJI's second-gen Romo robot vacuum looks like the lovechild of an HR Giger drawing and an iMac G3",
+      "url": "https://www.techradar.com/home/robot-vacuums/djis-second-gen-romo-robot-vacuum-looks-like-the-lovechild-of-an-hr-giger-drawing-and-an-imac-g3-and-boasts-some-robust-new-privacy-measures-following-the-first-gen-models-hacking-embarrassment",
+      "source": "TechRadar",
+      "published_iso": "2026-09-04T11:52:31Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NXFMAKwRdHMVhX2YbcEHrC-1920-80.jpg",
+      "excerpt": "DJI's second-gen Romo robot vacuum borrows drone navigation know-how for precise mapping, and adds hardware privacy measures after the first generation's hacking embarrassment.",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "rationale": "Rare case of a hack forcing privacy into the industrial design itself — drone-grade perception plus physical safeguards as a visible product decision."
+    },
+    {
+      "rank": 4,
+      "id": "gadgets-withings-beamo-ai",
+      "title": "Withings' 'Thermometer of the Future' Is Getting an AI Analysis Upgrade",
+      "url": "https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/",
+      "source": "CNET",
+      "published_iso": "2026-09-04T16:38:40-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+      "excerpt": "Withings' BeamO multi-scope device gains an AI analysis layer that interprets its own heart and lung recordings, pushing consumer health hardware toward on-device interpretation.",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "rationale": "Consumer health hardware moves from capturing signals to interpreting them — a hard design problem in how much a device is allowed to tell you."
+    },
+    {
+      "rank": 5,
+      "id": "gadgets-windows-project-zenith",
+      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth — Project Zenith will debut on AMD's flagship Ryzen AI Halo platform",
+      "url": "https://www.tomshardware.com/software/windows/stripped-down-windows-11-for-ai-developers-demands-64gb-ram-and-insane-250-gb-s-bandwidth-project-zenith-will-debut-on-amds-flagship-ryzen-ai-halo-platform",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-05T17:18:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+      "excerpt": "Microsoft's stripped-down Windows 11 'Project Zenith' for AI developers demands 64GB of RAM and 250 GB/s of bandwidth, debuting on AMD's Ryzen AI Halo platform.",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Microsoft carving out an OS SKU just for local-AI work sets a concrete hardware floor for anyone planning to run models on their own machine."
     }
-  ]
+  ],
+  "dedup": {
+    "pool_size": 22,
+    "dropped_as_duplicate": 6,
+    "checked_against_days": ["2026-09-06", "2026-09-05", "2026-09-04", "2026-09-03", "2026-09-02", "2026-09-01"],
+    "drops": [
+      {
+        "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+        "reason": "Content-hub duplicate — same MacRumors/Gurman Apple smart-home report already published today as 'gadgets-homepod-siri' (macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/)."
+      },
+      {
+        "url": "https://www.notebookcheck.net/GMKtec-unveils-EVO-X5-Pro-at-IFA-2026-A-compact-powerhouse-with-192-GB-RAM-built-for-local-AI.1390527.0.html",
+        "reason": "Same story as published 'gadgets-minisforum-local-ai-boxes' (09-05) and 'gadgets-framework-192gb-desktop' (09-01): 192GB Ryzen AI Max+ Pro 495 local-AI box at IFA 2026."
+      },
+      {
+        "url": "https://www.tomshardware.com/laptops/lenovo-thinkcentre-x-ultra-packs-gorgon-halo-amd-ryzen-ai-max-pro-495-shows-up-in-mini-workstation",
+        "reason": "Already covered inside published 'gadgets-nvidia-rtx-spark-ai-pcs' (WIRED, 09-04), which reports the ThinkCentre X Ultra with Ryzen AI Max+ Pro 495 / 128GB / $3,699."
+      },
+      {
+        "url": "https://www.sammobile.com/news/galaxy-watch-9-ultra-2-offline-gemini/",
+        "reason": "Same Wear OS 7 offline-Gemini rollout already published as 'gadgets-pixel-watch5-offline-gemini' (09-03)."
+      },
+      {
+        "url": "https://gizmodo.com/us-robot-ban-is-screwing-us-out-of-the-good-robomowers-2000807817",
+        "reason": "Within-pool near-duplicate of the TechRadar Anthbot R7 robot-mower story (edge-trimming robomowers); neither selected."
+      },
+      {
+        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+        "reason": "Paired near-duplicate with the Gizmodo robomower piece; dropped in favour of category spread (DJI Romo already covers home robotics)."
+      }
+    ]
+  },
+  "diversity": {
+    "outlets": ["Android Authority", "MacRumors", "TechRadar", "CNET", "Tom's Hardware"],
+    "max_per_outlet": 1,
+    "device_categories": ["XR glasses", "in-car assistant", "home robotics", "health hardware", "PC / OS platform"]
+  },
+  "notes": "User deferred, so picks are curator-scored. Wide pool of 22 survivors; six dropped for URL/content duplication against the last 5 days of sections.gadgets (today 09-06 through 09-01). Backfilled to a full 5 with never-before-published stories. Deliberately avoided a third 'local AI box' and a second smart-glasses card (RayNeo GT Max) and the IFA home-robot cluster (Ecovacs stain robot, CNET mothership, Acemate tennis robot) so the five spread across five outlets and five device categories."
 }

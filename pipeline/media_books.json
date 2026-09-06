@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "books",
   "media": [
     {
-      "id": "books-anthropic-watermark",
+      "id": "books-copilot-mdl-filing",
       "type": "image",
-      "src": "pipeline/media/books-anthropic-watermark.jpeg"
+      "src": "pipeline/media/books-copilot-mdl-filing.jpg"
     },
     {
-      "id": "books-oreilly-ai-writing",
-      "type": "image",
-      "src": "pipeline/media/books-oreilly-ai-writing.jpeg"
+      "id": "books-amazon-book-destruction",
+      "type": "video",
+      "src": "pipeline/media/books-amazon-book-destruction.mp4",
+      "poster": "pipeline/media/books-amazon-book-destruction.jpg"
     },
     {
-      "id": "books-spotify-audiobook-ai",
+      "id": "books-tcl-p80-ebook-audio",
       "type": "image",
-      "src": "pipeline/media/books-spotify-audiobook-ai.png"
+      "src": "pipeline/media/books-tcl-p80-ebook-audio.jpg"
     },
     {
-      "id": "books-scholarly-ai-licensing-trends",
+      "id": "books-library-ai-policy-study",
       "type": "image",
-      "src": "pipeline/media/books-scholarly-ai-licensing-trends.jpg"
+      "src": "pipeline/media/books-library-ai-policy-study.png"
     },
     {
-      "id": "books-ai-publishing-scams",
+      "id": "books-millie-reading-future",
       "type": "image",
-      "src": "pipeline/media/books-ai-publishing-scams.png"
+      "src": "pipeline/media/books-millie-reading-future.jpg"
     }
   ]
 }

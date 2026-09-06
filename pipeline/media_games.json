@@ -1,26 +1,32 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "section": "games",
   "media": [
     {
-      "id": "games-artstation",
+      "id": "games-art-direction-dlss5",
       "type": "image",
-      "src": "pipeline/media/games-artstation.jpg"
+      "src": "pipeline/media/games-art-direction-dlss5.jpg"
     },
     {
-      "id": "games-dlss5-kcd",
+      "id": "games-space-marine-3-no-genai",
       "type": "image",
-      "src": "pipeline/media/games-dlss5-kcd.jpg"
+      "src": "pipeline/media/games-space-marine-3-no-genai.jpg"
     },
     {
-      "id": "games-dwarf-fortress",
+      "id": "games-tencent-ai-strategy",
       "type": "image",
-      "src": "pipeline/media/games-dwarf-fortress.jpg"
+      "src": "pipeline/media/games-tencent-ai-strategy.jpg"
     },
     {
-      "id": "games-dlss5-mods",
+      "id": "games-doubledown-ai-cost",
+      "type": "video",
+      "src": "pipeline/media/games-doubledown-ai-cost.mp4",
+      "poster": "pipeline/media/games-doubledown-ai-cost.jpg"
+    },
+    {
+      "id": "games-sweeney-ai-crash",
       "type": "image",
-      "src": "pipeline/media/games-dlss5-mods.jpg"
+      "src": "pipeline/media/games-sweeney-ai-crash.jpg"
     }
   ]
 }
