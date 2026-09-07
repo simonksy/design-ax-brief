@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "section": "games",
   "media": [
     {
-      "id": "games-art-direction-dlss5",
+      "id": "games-astroburn-microseries",
       "type": "image",
-      "src": "pipeline/media/games-art-direction-dlss5.jpg"
+      "src": "pipeline/media/games-astroburn-microseries.jpg"
     },
     {
-      "id": "games-space-marine-3-no-genai",
+      "id": "games-aggro-crab-no-genai",
       "type": "image",
-      "src": "pipeline/media/games-space-marine-3-no-genai.jpg"
+      "src": "pipeline/media/games-aggro-crab-no-genai.jpg"
     },
     {
-      "id": "games-tencent-ai-strategy",
+      "id": "games-dlss5-autopilot",
       "type": "image",
-      "src": "pipeline/media/games-tencent-ai-strategy.jpg"
+      "src": "pipeline/media/games-dlss5-autopilot.jpg"
     },
     {
-      "id": "games-doubledown-ai-cost",
+      "id": "games-katago-shin-jinseo",
+      "type": "image",
+      "src": "pipeline/media/games-katago-shin-jinseo.jpg"
+    },
+    {
+      "id": "games-penguin-colony-genai-gag",
       "type": "video",
-      "src": "pipeline/media/games-doubledown-ai-cost.mp4",
-      "poster": "pipeline/media/games-doubledown-ai-cost.jpg"
-    },
-    {
-      "id": "games-sweeney-ai-crash",
-      "type": "image",
-      "src": "pipeline/media/games-sweeney-ai-crash.jpg"
+      "src": "pipeline/media/games-penguin-colony-genai-gag.mp4",
+      "poster": "pipeline/media/games-penguin-colony-genai-gag.jpg"
     }
   ]
 }

@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-07",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-copilot-mdl-filing",
-      "type": "image",
-      "src": "pipeline/media/books-copilot-mdl-filing.jpg"
-    },
-    {
-      "id": "books-amazon-book-destruction",
-      "type": "video",
-      "src": "pipeline/media/books-amazon-book-destruction.mp4",
-      "poster": "pipeline/media/books-amazon-book-destruction.jpg"
-    },
-    {
-      "id": "books-tcl-p80-ebook-audio",
-      "type": "image",
-      "src": "pipeline/media/books-tcl-p80-ebook-audio.jpg"
-    },
-    {
-      "id": "books-library-ai-policy-study",
-      "type": "image",
-      "src": "pipeline/media/books-library-ai-policy-study.png"
-    },
-    {
-      "id": "books-millie-reading-future",
-      "type": "image",
-      "src": "pipeline/media/books-millie-reading-future.jpg"
-    }
-  ]
+ "date": "2026-09-08",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-dosdoce-audio-ai-paper",
+   "type": "image",
+   "src": "pipeline/media/books-dosdoce-audio-ai-paper.jpg"
+  },
+  {
+   "id": "books-nairobi-essay-collapse",
+   "type": "image",
+   "src": "pipeline/media/books-nairobi-essay-collapse.png"
+  },
+  {
+   "id": "books-library-upskill-ai",
+   "type": "image",
+   "src": "pipeline/media/books-library-upskill-ai.jpg"
+  },
+  {
+   "id": "books-journal-2030-ai",
+   "type": "image",
+   "src": "pipeline/media/books-journal-2030-ai.png"
+  },
+  {
+   "id": "books-aap-mosaic-amicus",
+   "type": "image",
+   "src": "pipeline/media/books-aap-mosaic-amicus.jpg"
+  }
+ ]
 }

@@ -1,34 +1,33 @@
 {
-  "date": "2026-09-07",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-reply-ai-film-festival",
-      "type": "image",
-      "src": "pipeline/media/movies-reply-ai-film-festival.jpg"
-    },
-    {
-      "id": "movies-krotos-studio-footsteps",
-      "type": "video",
-      "src": "pipeline/media/movies-krotos-studio-footsteps.mp4",
-      "poster": "pipeline/media/movies-krotos-studio-footsteps.jpg"
-    },
-    {
-      "id": "movies-weta-hotd-s3-breakdown",
-      "type": "video",
-      "src": "pipeline/media/movies-weta-hotd-s3-breakdown.mp4",
-      "poster": "pipeline/media/movies-weta-hotd-s3-breakdown.jpg"
-    },
-    {
-      "id": "movies-overgrown-open-doors",
-      "type": "video",
-      "src": "pipeline/media/movies-overgrown-open-doors.mp4",
-      "poster": "pipeline/media/movies-overgrown-open-doors.jpg"
-    },
-    {
-      "id": "movies-2026-engineering-emmys",
-      "type": "image",
-      "src": "pipeline/media/movies-2026-engineering-emmys.jpg"
-    }
-  ]
+ "date": "2026-09-08",
+ "section": "movies",
+ "media": [
+  {
+   "id": "movies-herzog-venice-ai",
+   "type": "image",
+   "src": "pipeline/media/movies-herzog-venice-ai.jpg"
+  },
+  {
+   "id": "movies-runway-full-metal-lunchbox",
+   "type": "video",
+   "src": "pipeline/media/movies-runway-full-metal-lunchbox.mp4",
+   "poster": "pipeline/media/movies-runway-full-metal-lunchbox.jpg"
+  },
+  {
+   "id": "movies-samsung-p9-ai-ad",
+   "type": "video",
+   "src": "pipeline/media/movies-samsung-p9-ai-ad.mp4",
+   "poster": "pipeline/media/movies-samsung-p9-ai-ad.jpg"
+  },
+  {
+   "id": "movies-alan-smithee-s5-ai",
+   "type": "image",
+   "src": "pipeline/media/movies-alan-smithee-s5-ai.jpg"
+  },
+  {
+   "id": "movies-ulanzi-vibekey-voice",
+   "type": "image",
+   "src": "pipeline/media/movies-ulanzi-vibekey-voice.jpg"
+  }
+ ]
 }

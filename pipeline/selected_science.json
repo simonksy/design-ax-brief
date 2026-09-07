@@ -1,95 +1,97 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "section": "science",
-  "selected_by": "curator (user deferred)",
+  "selected_by": "ax-curator (auto-pick; user deferred)",
   "dedup": {
-    "against_days": 5,
-    "pool_size": 18,
-    "dropped_as_duplicate": 1,
-    "dropped_notes": [
-      "STAT 'OpenEvidence launches new family of AI models' (statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/) — same source + same core topic as already-published 2026-09-04 card 'science-fda-genai-pilot' (statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/), a same-day STAT content-hub pair on the FDA TEMPO pilot; also largely a product/business launch."
-    ],
-    "within_pool_notes": [
-      "bioRxiv 'Ensemble tests mask missing dynamics in protein conformational generators' overlaps the same core topic (protein conformational ensembles vs. dynamics) as the picked Phys.org AF3-ReD story — kept the stronger, more readable one only.",
-      "Tech Xplore 'Why organic chemistry may help build AI that can explain its answers' and 'Explainable AI could help turn hidden data patterns into testable hypotheses' are the same interpretability argument from the same outlet — neither picked, to respect the ≤2-per-outlet guard and keep topic spread."
+    "against": "news_data.json sections.science today+days + published_urls ledger",
+    "url_dupes_dropped": 2,
+    "content_dupes_dropped": [
+      "fusion plasma AI control (dup of 2026-09-03 science-pacman-plasma-20ms)",
+      "AI digital twins vs human subjects (dup of 2026-09-04 science-silicon-subjects)",
+      "DeepMind Co-Scientist (stale + dup of 2026-09-07 science-co-scientist)"
     ]
   },
   "diversity_check": {
     "outlets": {
       "phys.org": 2,
-      "scientificamerican.com": 1,
-      "arxiv.org": 1,
-      "techxplore.com": 1
+      "medicalxpress.com": 2,
+      "allenai.org": 1
     },
-    "distinct_outlets": 4,
+    "distinct_outlets": 3,
     "max_per_outlet": 2,
-    "raw_preprints": 1
+    "topics": [
+      "protein design",
+      "weather/climate",
+      "clinical AI",
+      "cognitive neuroscience",
+      "AI evaluation"
+    ]
   },
   "picks": [
     {
       "rank": 1,
-      "title": "Breaking through AlphaFold's limits to predict how proteins change shape",
-      "url": "https://phys.org/news/2026-09-alphafold-limits-proteins.html",
+      "title": "AI-designed proteins enable a new generation of RNA transporters",
+      "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-05T17:00:05-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg",
-      "excerpt": "Researchers at Japan's Institute for Molecular Science built AF3-ReD, which adds a repulsive force between predicted structures so AlphaFold3 stops collapsing to one conformation. It recovered open, closed and intermediate states of ATP synthase that standard AlphaFold3 misses.",
+      "published_iso": "2026-09-02T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg",
+      "excerpt": "A team combined functional protein building blocks with a generative-AI-designed structural scaffold to build STV-C8, an RNA delivery vehicle. In cell culture STV-C8 delivered RNA cargo more efficiently than the virus-like particles and lipid nanoparticles tested, and in pigs it carried CRISPR/Cas9 into muscle tissue without observable toxicity.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "AlphaFold3's single-shape blind spot is the field's best-known limitation, and AF3-ReD is a simple, reusable fix that changes how structural biologists run predictions tomorrow."
+      "rationale": "A generative-AI scaffold turned into a working RNA delivery vehicle that beat lipid nanoparticles in cell culture and carried CRISPR into pig muscle — protein design crossing from prediction into a usable tool."
     },
     {
       "rank": 2,
-      "title": "Six unusual structures identified at Earth's core-mantle boundary with the help of deep learning",
-      "url": "https://phys.org/news/2026-09-unusual-earth-core-mantle-boundary.html",
+      "title": "War drama Pressure depicts D-day's weather forecast—what we found when we recreated the challenge using modern systems",
+      "url": "https://phys.org/news/2026-09-war-drama-pressure-depicts-dday.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-06T13:00:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg",
-      "excerpt": "A neural network sifted more than 2 million seismic recordings from 1990-2024 and flagged about 174,929 PKP precursor signals, roughly ten times all previous global datasets combined. The haul revealed six continuous belts of deep-mantle irregularities that earlier work saw only as scattered points.",
+      "published_iso": "2026-09-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg",
+      "excerpt": "Andrew Charlton-Perez and Ed Hawkins re-ran the D-Day forecast with ECMWF's AIFS machine-learning forecasting system using newly digitised 1944 observations. The AI captured the North Sea storm and would have supported delaying the invasion from June 5 to June 6, but it underestimated the wind and cloud on June 6 — expert interpretation still mattered.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A ten-fold jump in usable seismic signals turns scattered dots into six continuous belts — a vivid case of AI finding new planetary structure, not just speeding up old work."
+      "rationale": "A concrete, legible test of what an AI weather model can and cannot do: ECMWF's AIFS re-forecasting D-Day would have gotten the decision right but the severity wrong."
     },
     {
       "rank": 3,
-      "title": "These smart bricks know what object they make up",
-      "url": "https://www.scientificamerican.com/article/these-smart-bricks-know-what-object-they-make-up/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-06T07:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg",
-      "excerpt": "Researchers built modular bricks that collectively infer the shape they have been assembled into — boat, chair or guitar — by sharing local sensor signals. The work pushes machine learning out of the server and into the material itself.",
+      "title": "In a third of cases, AI chatbots wrongly reassure sleep apnea patients that their symptoms aren't serious",
+      "url": "https://medicalxpress.com/news/2026-09-cases-ai-chatbots-wrongly-reassure.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-06T09:00:00-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg",
+      "excerpt": "Researchers ran 700 simulated consultations across ChatGPT, Gemini, Claude, DeepSeek and Grok with fictional obstructive sleep apnea patients. Correct specialist referral advice fell to 64% when the patient downplayed symptoms, and to 22-32% in the most severe cases, with chatbots offering lifestyle tips instead. Presented at the European Respiratory Society Congress.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Computation living inside the material rather than a server is an idea any reader can picture, and it is the most tangible physical-AI result in the pool."
+      "rationale": "700 simulated consultations put a number on chatbot sycophancy: correct referral advice collapses from 100% to 22-32% when the patient downplays symptoms."
     },
     {
       "rank": 4,
-      "title": "Accelerating Scientific Research with Gemini in the Real-World",
-      "url": "https://arxiv.org/abs/2608.26701",
-      "source": "arXiv",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Google reports a real-world validation of Co-Scientist, a Gemini-based multi-agent system that runs hypothesis generation, experiment design and manuscript writing end to end. The paper moves the AI co-scientist claim from in-silico demos to laboratory outcomes.",
+      "title": "Why scientists are looking to provoke disagreement among AI brain models",
+      "url": "https://medicalxpress.com/news/2026-09-scientists-provoke-disagreement-ai-brain.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-07T09:00:00-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg",
+      "excerpt": "Columbia University researchers synthesise 'controversial stimuli' — images engineered to make competing computational brain models disagree — then show them to people to see which model matches human perception. The method indicated the visual system blends fast discriminative computation with generative modelling rather than relying on one mechanism.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "The AI co-scientist claim finally comes with wet-lab outcomes instead of in-silico demos — the single most consequential AI-for-science report in the pool."
+      "rationale": "Instead of scoring models on accuracy, Columbia synthesises images that force competing brain models to disagree — a method shift for deciding which model is actually right."
     },
     {
       "rank": 5,
-      "title": "Brain activity patterns could help sharpen LLM deductive reasoning",
-      "url": "https://techxplore.com/news/2026-09-brain-patterns-sharpen-llm-deductive.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-03T07:20:09-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg",
-      "excerpt": "Peking and Tsinghua University teams found LLM internal activity during reasoning partly aligns with human brain regions used for logical problem solving. Their brain-guided training framework used imaging data to push deductive reasoning past what text-only training achieved.",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://allenai.org/blog/benchmirt",
+      "source": "Ai2",
+      "published_iso": "2026-09-01T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Ai2 applied multidimensional item response theory across 100 LLMs and more than 34,000 benchmark questions to audit what evaluations actually measure. Safety and general reasoning emerged as the two dominant latent dimensions, and the method can cut evaluation sets by 90% while preserving predictive accuracy.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Using human brain imaging as a training signal beats text-only training on deduction — a concrete neuroscience-to-AI transfer, and the pool's only cognitive-science angle."
+      "rationale": "Ai2 audits what LLM benchmarks actually measure across 100 models and 34,000 questions, and shows evaluation sets can shrink 90% without losing signal."
     }
   ]
 }

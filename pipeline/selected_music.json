@@ -1,114 +1,76 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "section": "music",
-  "selected_by": "curator (user deferred)",
   "picks": [
     {
-      "rank": 1,
+      "id_hint": "music-scaler-eq-pro",
+      "title": "Scaler EQ Pro Announced With Note-Aware EQ And MIDI-Controlled Live Mode",
+      "url": "https://www.production-expert.com/production-expert-1/scaler-eq-pro-announced-with-note-aware-eq-and-midi-controlled-live-mode",
+      "source": "Production Expert",
+      "published_iso": "2026-09-07T00:00:00Z",
+      "category": "music",
+      "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/ab02a384-f7b1-42b1-95ec-919e832f1223/Scaler+EQ+Pro+Announced+With+Note-Aware+EQ+And+MIDI-Controlled+Live+Mode.webp",
+      "excerpt": "Scaler EQ Pro detects a track's key automatically and boosts frequencies inside that key while cutting the ones outside it. Adds MIDI-controlled Live Mode, dynamic EQ with sidechain, mid/side and zero latency. $99, ships 23 September 2026.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Roland Releases Melody Flip, an AI Melody-Generation Plug-In for DAWs",
-      "url": "https://www.unite.ai/roland-releases-melody-flip-an-ai-melody-generation-plug-in-for-daws/",
-      "source": "Unite.AI",
-      "published_iso": "2026-09-04T14:00:02-04:00",
-      "og_image": "https://www.unite.ai/wp-content/uploads/2026/09/roland-releases-melody-flip-ai-melody-generation-plug-in.jpg",
-      "excerpt": "Roland shipped Melody Flip, an AI melody-generation plug-in built with Sony CSL that analyses a reference track's key, chords and mood, then offers ~300 creative palettes of new melodic ideas exportable as MIDI or audio.",
-      "rationale": "A real plug-in from a major hardware maker that drops MIDI straight into a session — the most directly actionable release in the pool."
+      "rationale": "EQ that listens to the key of the track — a mixing decision a producer makes every session, now automated."
     },
     {
-      "rank": 2,
+      "id_hint": "music-mottune-midi",
+      "title": "Initial D artist MOTSU releases FREE zero-latency vocal tuner MotTune MIDI",
+      "url": "https://bedroomproducersblog.com/2026/09/05/mottune-midi/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-05T00:00:00Z",
+      "category": "music",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/mottune-midi-728x364.jpg",
+      "excerpt": "MOTSU of m.o.v.e and DeeJei.Tokyo released MotTune MIDI, a free real-time pitch correction and vocoder plugin with a zero-latency live mode driven from MIDI. The companion iPhone app separates vocals from songs on-device.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
-      "url": "https://musically.com/2026/09/04/suno-pulls-unapproved-mary-j-blige-ad-campaign-citing-deception/",
-      "source": "Music Ally",
-      "published_iso": "2026-09-04T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Suno pulled an ad campaign featuring Mary J. Blige after the singer said she never approved it, a reminder of how fast AI-music marketing can outrun artist consent.",
-      "rationale": "Freshest consent story of the week and a distinct event from the SOCAN suit already published on 09-05."
+      "rationale": "Free, no-account vocal tuning with a live zero-latency mode plus on-device stem separation — immediately usable."
     },
     {
-      "rank": 3,
+      "id_hint": "music-ai-slop-human-demand",
+      "title": "Is AI Slop Giving Artists and Creators a New Life?",
+      "url": "https://www.hypebot.com/is-ai-slop-giving-artists-and-creators-a-new-life/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "category": "music",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/09/9-2-Tal-Gonen.jpg",
+      "excerpt": "Fiverr data shows demand for human music trades climbing as AI output floods the market: topline writing up 466%, songwriting up 426%, strings up 116%. Olivia Rodrigo's handmade lyric-video commission became news on its own.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Yamaha Creator Pass Review: A Subscription Built For The Budding Bedroom Producer",
-      "url": "https://www.attackmagazine.com/reviews/gear-software/yamaha-creator-pass-review-a-subscription-built-for-the-budding-bedroom-producer/",
-      "source": "Attack Magazine",
-      "published_iso": "2026-08-31T12:56:31+00:00",
-      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-3-2.png",
-      "excerpt": "Attack reviews Yamaha's Creator Pass subscription, which bundles Output Arcade, LANDR sample access, AI-assisted mastering and a DAW bundle into a single monthly on-ramp for bedroom producers.",
-      "rationale": "Hands-on verdict on a bundled AI-mastering-plus-DAW subscription — a concrete buy/skip call for producers."
+      "rationale": "Hard numbers on the counter-move: as AI output saturates, hiring humans becomes the visible signal."
     },
     {
-      "rank": 4,
+      "id_hint": "music-sonos-custom-agents",
+      "title": "Sonos CEO explains how 'Custom Agents' will work for listeners",
+      "url": "https://musically.com/2026/09/07/sonos-ceo-explains-how-custom-agents-will-work-for-listeners/",
+      "source": "Music Ally",
+      "published_iso": "2026-09-07T00:00:00Z",
+      "category": "music",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T130717.620.png",
+      "excerpt": "Sonos CEO Tom Conrad described Custom Agents: listeners pick an inference engine (Anthropic, OpenAI, Gemini, Grok), give it a voice, a name and a personality, then run several at once for recommendations or live-music discovery.",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "The Three Tasks AI Can Take Off Every Artist's Plate",
-      "url": "https://www.hypebot.com/the-three-tasks-ai-can-take-off-an-artists-plate/",
-      "source": "Hypebot",
-      "published_iso": "2026-09-04T15:11:40.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/Screenshot-2026-09-03-at-2.35.44---PM.png",
-      "excerpt": "A practical breakdown of the three recurring jobs — metadata, pitch copy and content repurposing — that independent artists can hand to AI without giving up creative control.",
-      "rationale": "Names the specific admin jobs worth delegating today, so it changes an artist's workflow tomorrow rather than restating the AI debate."
+      "rationale": "Discovery moves from playlist to persona — the listening surface itself becomes a designed character."
     },
     {
-      "rank": 5,
+      "id_hint": "music-klattsch-singing",
+      "title": "klattsch Turns 1980s Speech Synthesis Into A Singing Instrument",
+      "url": "https://www.synthtopia.com/content/2026/09/03/klattsch-turns-1980s-speech-synthesis-into-a-singing-instrument/",
+      "source": "Synthtopia",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "category": "music",
+      "og_image": "",
+      "excerpt": "Crash United's klattsch rebuilds Dennis Klatt's 1980 formant synthesizer as a playable singing instrument, with a piano roll, phoneme assignment and hand-drawn pitch curves. Free in the browser, $9.99 on desktop and Android.",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "ElevenMusic Launches Composer 'Section-by-Section Song Editor'",
-      "url": "https://www.digitalmusicnews.com/2026/08/25/elevenmusic-composer-section-by-section-song-editor/",
-      "source": "Digital Music News",
-      "published_iso": "2026-08-25T20:31:26+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/elevenlabs-suno-rival-elevenmusic-launches-composer-song-editor.png",
-      "excerpt": "ElevenLabs added Composer to ElevenMusic, a section-by-section song editor that lets creators regenerate a verse or chorus in place instead of rerolling a whole track.",
-      "rationale": "Moves generative music from slot-machine rerolls to targeted editing — the structural shift producers have been waiting for."
+      "rationale": "A deliberately non-neural counterpoint to AI vocal models: every synthesis parameter exposed and editable."
     }
-  ],
-  "dropped": [
-    {
-      "url": "https://www.synthtopia.com/content/2026/08/31/dreamtonics-instrument-x-replaces-big-sample-libraries-with-neural-acoustics/",
-      "reason": "content duplicate — same Dreamtonics Instrument X launch already published 2026-09-05 via Attack Magazine (music-dreamtonics-instrument-x)"
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/donald-trumps-administration-just-sided-with-openai-in-a-key-fair-use-case-heres-what-it-means-for-musics-fight-with-anthropic-and-suno/",
-      "reason": "AI policy/politics story, out of scope per brief"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/01/david-lowery-suno-lawsuit/",
-      "reason": "third Suno-litigation card in a week (SOCAN v Suno ran 09-05); lower actionability than picks"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/08/31/sony-music-udio-lawsuit-answer/",
-      "reason": "litigation cluster; outlet cap (Digital Music News already at 1 pick)"
-    },
-    {
-      "url": "https://musically.com/2026/09/03/jola-labs-launches-ai-business-operating-system-roster/",
-      "reason": "thematic repeat of the 09-02 Hypebot 'artists need an operating system' card; also Music Ally outlet cap"
-    },
-    {
-      "url": "https://www.production-expert.com/production-expert-1/pros-discuss-ai-in-music-production-tool-threat-or-the-future",
-      "reason": "evergreen roundtable, low novelty"
-    },
-    {
-      "url": "https://www.hypebot.com/is-ai-slop-giving-artists-and-creators-a-new-life/",
-      "reason": "opinion piece; Hypebot outlet cap already used by the stronger pick"
-    }
-  ],
-  "diversity_check": {
-    "outlets": [
-      "Unite.AI",
-      "Music Ally",
-      "Attack Magazine",
-      "Hypebot",
-      "Digital Music News"
-    ],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5,
-    "distinct_urls": 5
-  }
+  ]
 }

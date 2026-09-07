@@ -1,31 +1,63 @@
 {
-  "date": "2026-09-06",
-  "section": "books",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-08-24T04:33:19Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
-      "excerpt": "Spotify rolled out three AI-driven audiobook features: Prompted Playlist lets listeners describe a mood or theme to generate a custom audiobook playlist, and a new conversational 'Just Ask Spotify' voice/text mode answers questions about a book or recommends what to listen to next."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/03/guest-post-a-year-of-trends-beyond-scholarly-comms-what-you-need-to-know/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-09-03T09:30:33Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2170742583.jpg",
-      "excerpt": "Laura Harvey and Chris Reid distill a year of writing about scholarly publishing's 'second digital transformation,' pointing to how news and content businesses are increasingly restructuring around AI licensing deals with the likes of Meta, following moves by NewsCorp and Le Monde."
-    },
-    {
-      "url": "https://www.writersdigest.com/a-conversation-with-victoria-strauss-on-how-writers-can-spot-publishing-scams-killer-writers",
-      "source": "Writer's Digest",
-      "category": "books",
-      "published_iso": "2026-09-05T16:00:00Z",
-      "og_image": "",
-      "excerpt": "Writer Beware co-founder Victoria Strauss explains how AI has fueled a 'tsunami' of publishing scam solicitations and impersonations, making mass, personalized deception cheap enough that authors now need new habits to vet unsolicited offers."
-    }
-  ]
+ "date": "2026-09-08",
+ "section": "books",
+ "window_hours": 336,
+ "note": "recovery pass — adjacent-term expansion only",
+ "items": [
+  {
+   "title": "Book, News, and Journal Publishers File Amicus Brief in In Re Mosaic LLM Litigation",
+   "url": "https://publishers.org/news/book-news-and-journal-publishers-file-amicus-brief-in-in-re-mosaic-llm-litigation/",
+   "source": "Association of American Publishers",
+   "category": "books",
+   "published_iso": "2026-08-27T23:29:46+00:00",
+   "og_image": "https://publishers.org/wp-content/uploads/2020/06/aap-default-news.jpg",
+   "status": "SELECTED",
+   "excerpt": "AAP, News/Media Alliance and STM filed an amicus brief urging Judge Charles Breyer to deny Mosaic and Databricks' summary-judgment motion and rule that training LLMs on copyrighted books is not fair use."
+  },
+  {
+   "title": "STM joins News/Media Alliance and AAP in Amicus Brief on Mosaic AI Training",
+   "url": "https://stm-assoc.org/stm-joins-news-media-alliance-and-aap-in-amicus-brief-on-mosaic-ai-training/",
+   "source": "STM Association",
+   "category": "books",
+   "published_iso": "2026-08-31T10:44:10+00:00",
+   "og_image": "",
+   "status": "dropped — same story as AAP release, weaker/secondary source"
+  },
+  {
+   "title": "German publisher Carlsen files lawsuit against Open AI",
+   "url": "https://internationalpublishers.org/german-publisher-carlsen-files-lawsuit-against-open-ai/",
+   "source": "International Publishers Association",
+   "category": "books",
+   "published_iso": "2026-08-28T14:23:39+00:00",
+   "og_image": "https://internationalpublishers.org/wp-content/uploads/2026/08/Das-NEINhorn-Carlsen-PR-Example.png",
+   "status": "dropped — CONTENT DUP of books-carlsen-openai-neinhorn published 2026-08-26 (ledger missed it: different URL)"
+  },
+  {
+   "title": "VdU wahlt neuen Vorstand",
+   "url": "https://www.boersenblatt.net/news/personalia/vdue-waehlt-neuen-vorstand-437641",
+   "source": "Boersenblatt",
+   "category": "books",
+   "published_iso": "2026-09-07T10:42:35+00:00",
+   "og_image": "",
+   "status": "dropped — board election = exec-move noise; AI only in a teaser line"
+  },
+  {
+   "title": "Gold OA continues to drive open access growth as the market matures",
+   "url": "https://stm-assoc.org/gold-oa-continues-to-drive-open-access-growth-as-the-market-matures/",
+   "source": "STM Association",
+   "category": "books",
+   "published_iso": "2026-09-07T00:00:00+00:00",
+   "og_image": "",
+   "status": "dropped — no AI hook"
+  },
+  {
+   "title": "Weekend reads: The AI ghosts 'contaminating' academic publishing",
+   "url": "https://retractionwatch.com/2026/09/05/weekend-reads-the-ai-ghosts-contaminating-academic-publishing-court-upholds-whistleblower/",
+   "source": "Retraction Watch",
+   "category": "books",
+   "published_iso": "2026-09-05T00:00:00+00:00",
+   "og_image": "",
+   "status": "dropped — link roundup pointing at 404 Media story already published 2026-09-05"
+  }
+ ]
 }

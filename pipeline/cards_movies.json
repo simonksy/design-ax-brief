@@ -1,373 +1,231 @@
 {
-  "date": "2026-09-07",
-  "section": "movies",
-  "cards": [
-    {
-      "id": "movies-reply-ai-film-festival",
-      "eyebrow": "AI NEWS",
-      "headline": "생성형 단편 6시간을 앉아서 본 심사위원의 기록",
-      "body": "생성형 단편 6시간을 심사한 기자가 지금 되는 것과 아직 무너지는 지점을 갈라 짚는다.",
-      "mini_headline": "AI 단편 6시간 심사기",
-      "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650",
-            "cap": "AI 단편 'A Face Only a Mother Could Love'의 한 장면"
-          },
-          {
-            "t": "p",
-            "x": "이번 주말 베네치아에서 Reply AI Film Festival이 열린다. 베네치아 영화제와는 무관하고, 같은 시기에 곤돌라로 잠깐 갈 거리에서 열릴 뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "IndieWire의 Brian Welk는 60편에 조금 못 미치는 AI 생성 단편을 심사했다. 오스카 수상자 Gabriele Salvatores, '라이온 킹' 공동 연출 Rob Minkoff, '트와일라잇'의 Catherine Hardwicke, AI·VFX 전문가와 기자들이 같이 앉았다."
-          },
-          {
-            "t": "p",
-            "x": "Reply AI는 생긴 지 몇 해 되지 않았는데도 올해 출품작은 2년 전 최고작과 닮은 데가 없다. 화질, 창작자가 쥐는 통제권, 오디오 생성, 러닝타임이 죄다 달라졌다."
-          },
-          {
-            "t": "p",
-            "x": "짧은 건 2분, 가장 긴 것은 30분을 조금 넘겼고 평균은 7~15분이었다. 1분만 끌어도 대단하다던 몇 해 전을 떠올리면 짧지 않다. 놀랄 만큼 좋은 것도, 몇 분인데 견디기 힘들게 늘어지는 것도 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Centenarian_.00_18_59_19.Immagine023.png?w=650",
-            "cap": "AI 단편 'Centenarian Kindergarten'"
-          },
-          {
-            "t": "p",
-            "x": "초기 AI 영상을 괴롭히던 언캐니 밸리는 지난 이야기다. 로봇 같은 오디오가 몰입을 깨기도 하지만 비주얼은 설득력을 얻었다. 모델 하나에 프롬프트를 던지는 대신 여러 모델을 섞고 VFX 도구까지 곁들이기 때문이다."
-          },
-          {
-            "t": "p",
-            "x": "결선작 중 캐나다 Robert Gaudette의 'A Face Only a Mother Could Love'는 프로테우스 증후군에 가까운 질환을 지닌 남자와, 공원에서 그가 춤추는 걸 몇 해째 보던 여자의 만남을 그린다. 그의 첫 작품이다."
-          },
-          {
-            "t": "p",
-            "x": "중국 스튜디오 2x Labs의 'Centenarian Kindergarten'은 100세 노인들이 로봇 보호사의 지시와 보상 아래 지내는 디스토피아 주간보호소를 따라간다. AI가 값싼 VFX의 연장이라면 나이 든 배우를 다시 세우는 길도 된다."
-          },
-          {
-            "t": "p",
-            "x": "제4의 벽을 깨고 AI를 썼다는 사실 자체를 소재로 삼는 단편이 이어진 건 성가셨다. 예외는 중국 감독 Jiaze Li의 'Website'. 가짜 뉴스가 현실이 되는 SF인데, 실제 그 사이트까지 만들어 둔 인터랙티브 프로젝트의 한 조각이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Kev_.00_14_05_15.Immagine017.png?w=650",
-            "cap": "AI 단편 'Kev'"
-          },
-          {
-            "t": "p",
-            "x": "출품자들은 쓴 AI 도구와 AI For Good 특별상 자격, 'AI가 아니었으면 못 만들었을 지점'을 적어야 했다. 설명마다 '물리적·재정적 장벽을 넘어섰다', '빠르게 반복했다'가 되풀이됐다."
-          },
-          {
-            "t": "p",
-            "x": "심사위원 Welk의 피드백은 단호하다. 그 정도로는 부족하다. 돈과 시간과 인력만 무제한이면 어차피 가능했을 일을 불가능을 넘었다고 하지 말라는 것. 상당수는 단편보다 장편을 향한 개념 증명에 가까웠다."
-          },
-          {
-            "t": "p",
-            "x": "영국 Mike Bennion의 'Kev'는 축구를 사랑하는 젊은 시각장애인의 다큐멘터리 형식이지만 화면 안 모든 것이 생성물이다. 실존 인물처럼 제시된 허구에 이입하는 경험이 기묘하게 불편했다고 그는 적는다."
-          },
-          {
-            "t": "p",
-            "x": "최종 10편에 들지 못한 'Field Notes'는 감독 Arielko Kotzer가 ChatGPT와 그 존재를 두고 나눈 대화를 내레이션 삼아 Midjourney와 ElevenLabs, Suno로 만들었다. Charles Dillon Ward의 'Oobado'는 '택시 드라이버', '매트릭스' 장면을 그린스크린과 얼굴 없는 초록 슈트로 재현한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Oobado-1.00_01_12_02.Immagine003.png?w=650",
-            "cap": "AI 단편 'Oobado'"
-          },
-          {
-            "t": "p",
-            "x": "Welk가 AI 영화의 자리를 짐작하는 곳은 극장보다 갤러리다. 할리우드 안이라면 VFX나 프리비즈를 덜어 주는 쪽이지 배우와 작가를 대체하는 쪽이 아니다. 영화를 흉내 내는 한 AI는 자기 매체가 되지 못한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-krotos-studio-footsteps",
-      "eyebrow": "AI NEWS",
-      "headline": "발소리 폴리를 타임라인 안에서 바로",
-      "body": "Krotos가 절차적 발소리 폴리를 Premiere Pro와 DaVinci Resolve 타임라인 안으로 들여왔다.",
-      "mini_headline": "발소리 폴리, NLE 안으로",
-      "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/krotos-studio-footsteps",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.jpg?id=67724834&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-            "cap": "Krotos Studio Footsteps"
-          },
-          {
-            "t": "p",
-            "x": "발소리를 프로젝트에 손쉽게 넣을 방법을 찾고 있다면, Premiere와 Resolve에서 바로 쓸 수 있게 된 Krotos 워크플로를 볼 만하다."
-          },
-          {
-            "t": "p",
-            "x": "발소리를 비롯한 폴리를 직접 녹음할 시간과 예산이 있으면 좋겠지만, 현실의 편집자 상당수는 로열티 프리 음원이나 손에 잡히는 소스로 효과음을 채운다."
-          },
-          {
-            "t": "p",
-            "x": "발소리 같은 요소를 붙이려는 편집자에게 요즘 선택지가 늘고 있다. Krotos Studio 플러그인의 Footsteps 워크플로도 그중 하나로, Adobe Premiere와 DaVinci Resolve 같은 주요 NLE 안에서 곧장 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "알아 둘 내용은 이렇다."
-          },
-          {
-            "t": "video",
-            "yt": "38xuysqdrd8"
-          },
-          {
-            "t": "p",
-            "x": "이번 기능은 Krotos Video to Sound를 확장한 결과다. Krotos Studio 플러그인을 거쳐 Footsteps 워크플로가 Adobe Premiere와 DaVinci Resolve로 들어왔다."
-          },
-          {
-            "t": "p",
-            "x": "Footsteps는 영상 클립 속 움직임을 읽어 발이 닿는 지점을 짚어내고, 편집본에 맞춰 동기화된 사운드 패스를 만든다."
-          },
-          {
-            "t": "p",
-            "x": "결과는 Krotos Studio 플러그인 안에서 그대로 확인한다. 제안된 바닥 재질이나 신발을 바꾸고, 레벨을 조절하고, 개별 발소리를 앞뒤로 옮기는 일까지 여기서 끝난다."
-          },
-          {
-            "t": "p",
-            "x": "발소리를 얹고 타이밍을 손보려는 편집자와 사운드 디자이너에게는 빠르고 손쉬운 축에 드는 방법이다. 바닥이 바뀌거나 걸음걸이와 속도가 고르지 않은, 손이 많이 가는 대목을 다룰 때도 자리를 옮기지 않아도 된다."
-          },
-          {
-            "t": "p",
-            "x": "가격과 이용 조건을 보면, 이 기능은 Krotos Video to Sound에 포함된다. 요금제와 가격은 Krotos 웹사이트에 정리돼 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-weta-hotd-s3-breakdown",
-      "eyebrow": "AI NEWS",
-      "headline": "Wētā FX가 뜯어 보인\n드래곤 시즌 3",
-      "body": "Wētā FX가 '하우스 오브 드래곤' 시즌 3의 함선 전투와 드래곤 작업을 숏 단위로 공개했다.",
-      "mini_headline": "드래곤 S3 브레이크다운",
-      "tool": "Movies",
-      "source": "befores & afters",
-      "url": "https://beforesandafters.com/2026/09/03/watch-weta-fxs-vfx-breakdown-for-s3-of-house-of-the-dragon/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://beforesandafters.com/wp-content/uploads/2026/09/The-Visual-Effects-of-House-of-the-Dragon-Season-3-_-Weta-FX-0-12-screenshot.jpg"
-          },
-          {
-            "t": "p",
-            "x": "befores & afters가 Wētā FX의 '하우스 오브 드래곤' 시즌 3 VFX 브레이크다운 영상을 소개했다. 붙인 한 줄은 이렇다. 함선 전투가 들어 있고, 드래곤은 넉넉하다."
-          },
-          {
-            "t": "video",
-            "yt": "-jT_JM-xPko"
-          },
-          {
-            "t": "p",
-            "x": "영상 설명에서 Wētā FX가 밝힌 작업은 시즌 3의 걸릿 해전(Battle of the Gullet)이다."
-          },
-          {
-            "t": "p",
-            "x": "이 시퀀스를 위해 드리프트마크에서 드래곤스톤까지 이어지는 거대한 환경을 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "현장에 실제로 지어 올린 선박은 연기가 자욱한 전장으로 확장했다."
-          },
-          {
-            "t": "p",
-            "x": "드래곤 십스틸러(Sheepstealer)도 여기서 처음 등장한다."
-          },
-          {
-            "t": "p",
-            "x": "참고한 그림은 터너의 '트라팔가르 해전'이다. 스케일과 스펙터클, 이야기의 분기점이 오프닝 하나에 겹쳐 있다는 것이 스튜디오의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Wētā FX는 뉴질랜드 웰링턴에 본사를, 캐나다 밴쿠버와 호주 멜버른에 창작 거점을 둔 스튜디오다. 아티스트와 엔지니어, 경영진을 합치면 2,000명이 넘는다."
-          },
-          {
-            "t": "p",
-            "x": "직접 만든 사내 파이프라인이 아티스트에게 도구와 인프라를 대는 방식으로 굴러간다."
-          },
-          {
-            "t": "p",
-            "x": "30여 년 동안 받은 상은 시각효과 부문 아카데미상 8회, 아카데미 과학기술상 17회, BAFTA 시각효과상 8회, 동료들이 주는 VES 어워드 61회다. 골룸과 콩, 네이티리, 시저, 포고, 그리고 그들이 사는 중간계와 판도라를 만든 곳이기도 하다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-overgrown-open-doors",
-      "eyebrow": "AI NEWS",
-      "headline": "OVERGROWN 제작 기록,\n한시적으로 열린다",
-      "body": "애니메이션과 리깅, 퍼, 물, 컴포지팅까지 담긴 제작 로그를 기간 한정으로 무료 공개한다.",
-      "mini_headline": "OVERGROWN 제작 로그",
-      "tool": "Movies",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/blender-studio-opens-overgrown-s-free-behind-the-scenes-archive/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/50059/images/6a9b1aee2e216/contain_1200x630.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Blender Studio가 준비 중인 애니메이션 프로젝트 OVERGROWN의 문을 열었다. 제작 뒷이야기 기사와 교육 자료를 한동안 누구나 무료로 볼 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "-hwMHF1rXvU"
-          },
-          {
-            "t": "p",
-            "x": "기간 한정으로 진행되는 Open Doors Week 동안, Blender 아티스트는 곧 나올 티저가 몇 달에 걸쳐 어떻게 조립됐는지 들여다볼 수 있다. 여섯 편의 제작 로그가 초기 개발부터 애니메이션, 셰이딩, 라이팅, 이펙트, 음악, 최종 컴포지팅까지 기록해 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "다루는 범위는 캐릭터 리그와 퍼 세팅, 보이스 캐스팅, 세트 제작, 손으로 다듬은 셰이딩 디테일, 숏 애니메이션, 최종 비주얼 개발이다."
-          },
-          {
-            "t": "p",
-            "x": "한 편은 물을 어떻게 다뤘는지에 매달린다. 라이팅과 물방울이 떨어지는 이펙트가 여기 들어간다. 마지막 편은 스코어 작곡과 완성된 컴포지트를 짚는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/0a/6a9b199084ed1.gif"
-          },
-          {
-            "t": "p",
-            "x": "Simon Thommes의 Painterly Shadows 마스터클래스도 같이 풀렸다. OVERGROWN 특유의 일러스트 같은 인상을 떠받치는 스타일라이즈드 섀도 기법을 다루는 수업이다."
-          },
-          {
-            "t": "p",
-            "x": "Blender Studio는 티저 공개를 준비하면서도 OVERGROWN을 또 하나의 완성된 Blender 오픈 무비가 아니라 장편이 될 수 있는 기획으로 소개한다."
-          },
-          {
-            "t": "p",
-            "x": "지금 단계는 콘셉트를 다듬고 비주얼 방향을 시험하며, Blender 커뮤니티가 두고두고 쓸 지식을 남기는 데 썼다."
-          },
-          {
-            "t": "p",
-            "x": "Open Doors Week에는 후원자를 더 모으려는 목적도 겹쳐 있다. 스튜디오는 아직 목표인 구독자 7,000명에 닿지 못했고, OVERGROWN을 다음 단계로 넘기려면 그 숫자가 필요하다고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/d2/images/6a9b1a551525c/widen_1840x0.png"
-          },
-          {
-            "t": "p",
-            "x": "구독료는 Blender Studio의 작품과 교육 자료, 내려받을 수 있는 에셋, 그리고 Blender 본체 개발로 이어지는 작업을 떠받친다."
-          },
-          {
-            "t": "p",
-            "x": "전체 자료는 OVERGROWN 프로젝트 페이지에서 볼 수 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-2026-engineering-emmys",
-      "eyebrow": "AI NEWS",
-      "headline": "Avid의 스무 번째 에미,\nPremiere의 첫 에미",
-      "body": "2026 엔지니어링 에미에서 Avid는 스무 번째 상을, Premiere는 첫 상을 받아 들었다.",
-      "mini_headline": "2026 엔지니어링 에미",
-      "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/avids-20th-emmy-and-adobes-first-the-2026-engineering-emmy-awards-have-some-familiar-faces/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/78th-emmys-est-900x600-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "포스트프로덕션 일을 한다면 9월 3일 텔레비전 아카데미와 NATAS가 발표한 2026 엔지니어링·과학·기술 에미 수상자 명단이 낯익을 것이다. Adobe Premiere와 Avid DNx 코덱 제품군이 나란히 올랐다. 시상식은 10월 14일 노스할리우드 사반 미디어 센터에서 열린다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe로서는 Premiere가 받은 첫 엔지니어링 에미다. 회사가 받은 에미는 통틀어 여섯 개. 1990년대 초에 첫 버전을 내고 35년째 편집 워크스테이션 위에서 돌아가는 도구치고는 늦게 온 상이다."
-          },
-          {
-            "t": "p",
-            "x": "Scott Simmons가 기억하는 초기 Premiere는 수천 달러짜리 크리에이티브 스위트 CD 상자다. 지금의 Creative Cloud 연동, AI 통합, 협업 프로덕션 소프트웨어와는 거의 닮지 않았다."
-          },
-          {
-            "t": "video",
-            "yt": "FDd0_Y6rwiY"
-          },
-          {
-            "t": "p",
-            "x": "사실 그는 앞의 말을 조금 물린다. 돈을 벌기 시작한 건 크리에이티브 스위트 시절이지만, 생애 첫 논리니어 편집은 위 영상, Adobe Premiere 4.2로 한 작업이다. CD에서 뽑아낸 뭉개진 화면과 촌스러운 와이프까지, 자랑스럽진 않아도 시대의 표본이라고 적는다."
-          },
-          {
-            "t": "p",
-            "x": "텔레비전 아카데미가 상을 준 대상은 Adobe Inc.의 Premiere 개발이다. Adobe 팀은 이 상이 '지난 35년간 Premiere를 다듬어 온 편집자, 컬러리스트, 사운드 디자이너, 엔지니어의 것'이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Premiere는 Mac에서 테이프 기반 NLE로 출발해 Mac을 떠났다가 돌아왔고, 지금은 유튜브 영상부터 에미를 받는 드라마와 장편까지 다 자른다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Vivaldi-OLXOYHXh-000145.jpg",
-            "cap": "X에 올라온 게시물 스크린샷"
-          },
-          {
-            "t": "p",
-            "x": "Avid에게는 스무 번째 에미다. 20년치 엔지니어링 에미 수상은 업계 인정이라는 면에서 거의 독보적인 자리다."
-          },
-          {
-            "t": "p",
-            "x": "이번 상의 대상은 Avid DNx 코덱 제품군 개발이다. 2004년 DNxHD가 논리니어 워크플로에 맞춘 고정 비트레이트 편집 코덱으로 나온 뒤 계속 다듬어 온 기술이다. 편집자들이 메자닌 또는 인터미디어트 코덱이라 부르며 아끼는 그 코덱."
-          },
-          {
-            "t": "p",
-            "x": "DNxHD는 2008년 SMPTE에서 VC-3로 표준화됐고, UHD 이상을 위한 DNxHR로 넓어졌다가 2025년 Avid DNx라는 이름으로 묶였다."
-          },
-          {
-            "t": "p",
-            "x": "Avid 에미에 이름을 올린 엔지니어는 Shailendra Mathur, Markus Weber, Katie Cornog, Dane Kottke, Michel Rynderman 다섯 명이다. Media Composer에서 코덱 걱정 한 번 없이 컷을 이어 본 적이 있다면 DNx 덕일 가능성이 크다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe의 에미는 수명과 생태계 이야기다. Premiere가 가장 화려한 NLE라서가 아니라 Creative Cloud와 After Effects, Audition, Frame.io로 이어지는 생태계의 척추가 됐고, 편집자와 프로듀서가 그 위에 경력과 시설을 세웠기 때문에 받았다."
-          },
-          {
-            "t": "p",
-            "x": "Avid의 에미는 인프라 이야기다. 코덱에는 UI도 마케팅 영상도 없지만 편집 아래에 깔려 라운드트립과 리뷰, 피니싱을 거치는 동안 화질을 지킨다. SMPTE 표준이 되고 Avid 생태계 밖까지 퍼졌다는 사실이 상을 받을 만한 이유다."
-          },
-          {
-            "t": "p",
-            "x": "수상자는 이들만이 아니다. 전체 명단은 텔레비전 아카데미 공식 사이트에 있다. 에미 시상식 생중계는 9월 14일 월요일 NBC."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-08",
+ "section": "movies",
+ "cards": [
+  {
+   "id": "movies-herzog-venice-ai",
+   "eyebrow": "AI NEWS",
+   "headline": "반복만 하는 자들은\nAI가 대신하라던 헤어초크",
+   "body": "베네치아에 온 헤어초크가 자기 화법을 흉내 낸 AI 다큐를 두고 실패라고 잘라 말했다.",
+   "mini_headline": "헤어초크의 AI 한마디",
+   "tool": "Movies",
+   "source": "IndieWire",
+   "url": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZNUN.jpg?w=2000",
+      "cap": "베네치아 '버킹 패스타드' 프리미어의 루니 마라, 베르너 헤어초크, 케이트 마라"
+     },
+     {
+      "t": "p",
+      "x": "베르너 헤어초크는 신작 '버킹 패스타드'를 들고 베네치아에 왔고, 홍보 일정 중에 여든넷이 됐다. 실제 자매인 케이트 마라와 루니 마라가 말과 몸짓, 욕망까지 겹쳐 사는 쌍둥이를 연기한다. 두 사람이 함께 마음을 두는 남자는 올랜도 블룸이 맡았다."
+     },
+     {
+      "t": "p",
+      "x": "칸은 이 영화를 비경쟁 부문으로 불렀지만 헤어초크는 거절했다. 두 배우가 여우주연상을 놓고 겨룰 자리를 원했기 때문이다. \"상은 이미 받을 만큼 받았다\"는 것이 그의 설명이다."
+     },
+     {
+      "t": "p",
+      "x": "연기 호흡을 맞추는 방법도 특이했다. 고대 그리스 합창처럼 호흡을 맞추는 방식은 통하지 않았고, 자매는 어릴 적 부르던 노래를 같이 흥얼거리다 박자가 맞아떨어지는 순간을 찾아냈다. 헤어초크는 슬레이트를 직접 치며 그 순간을 귀로 확인했다."
+     },
+     {
+      "t": "p",
+      "x": "이 영화는 데이비드 린치에게 바쳐졌다. 완성본을 먼저 보여 주고 싶었지만 그러지 못했다. 말년의 린치는 명상에 깊이 들어가 있었고, 마주 앉은 탁자에는 늘 구루의 사진이 놓여 있었다고 헤어초크는 회상한다."
+     },
+     {
+      "t": "p",
+      "x": "AI 이야기가 나온 건 IDFA에서 본 'About a Hero' 때문이다. 자기 영화의 공기를 AI로 되살려 보겠다며 목소리 출연을 청해 온 젊은 연출자에게 헤어초크는 이렇게 답했다고 한다. \"당신은 실패할 겁니다. 어처구니없이 멍청한 발상이에요.\""
+     },
+     {
+      "t": "p",
+      "x": "그가 겨눈 것은 기술이 아니라 반복이다. \"이야기가 없으니 AI가 끼어들 수 있을 만큼 규격화된 겁니다. 전에 있던 것을 흉내 내는 짓이죠.\" 그러니 되풀이만 하는 이들은 AI가 대신하는 편이 낫다고 그는 말한다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "movies-runway-full-metal-lunchbox",
+   "eyebrow": "AI NEWS",
+   "headline": "런웨이가 도시락으로 찍은\n4분짜리 전쟁영화",
+   "body": "런웨이가 브로콜리와 완두콩을 병사로 세운 4분짜리 AI 전쟁영화 패러디를 내놨다.",
+   "mini_headline": "도시락으로 찍은 전쟁영화",
+   "tool": "Movies",
+   "source": "Runway",
+   "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "fE59FYMIttQ"
+     },
+     {
+      "t": "p",
+      "x": "런웨이가 공식 채널에 4분 15초짜리 단편 'Full Metal Lunchbox'를 올렸다. 무단이탈한 브로콜리를 쫓는 이야기라는 한 줄 소개가 전부다."
+     },
+     {
+      "t": "p",
+      "x": "짧은 데모가 아니라 장편처럼 챕터를 나눠 놨다. '해변 교두보 돌파'로 열고 '완두콩의 마지막 헌신', '샐러드에 온 걸 환영한다', '조개 포탄 쇼크'로 이어진다."
+     },
+     {
+      "t": "p",
+      "x": "후반부는 '샐러드 세일즈맨의 죽음'과 '용융점', '전선 이상 없다'로 닫힌다. 전쟁영화의 관습을 식탁 위로 옮겨 놓은 구성이다."
+     },
+     {
+      "t": "p",
+      "x": "눈여겨볼 대목은 소재가 아니라 길이다. 한 편의 컷이 4분 넘게 캐릭터와 톤을 유지하는지가, 지금 생성 영상 도구로 무엇까지 버티는지를 보여 준다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "movies-samsung-p9-ai-ad",
+   "eyebrow": "AI NEWS",
+   "headline": "12K를 담으라는 SSD 광고를\n카메라 없이 만들었다",
+   "body": "삼성이 12K RAW용 P9 SSD 광고를 통째로 생성형 AI로 만들자 CineD가 그 모순을 짚었다.",
+   "mini_headline": "카메라 없는 SSD 광고",
+   "tool": "Movies",
+   "source": "CineD",
+   "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.cined.com/content/uploads/2026/09/Samsung-AI-SSD-Ad-1600x900.jpg",
+      "cap": "생성형 AI로 만든 삼성 Portable SSD P9 캠페인 영상"
+     },
+     {
+      "t": "p",
+      "x": "삼성 Portable SSD P9의 런칭 영상에는 러닝타임 내내 \"This content is created using generative AI\"라는 고지가 붙어 있다. 촬영본을 담으라고 파는 드라이브를, 아무도 찍지 않은 화면으로 판 셈이다."
+     },
+     {
+      "t": "video",
+      "yt": "08knIbLs5A0"
+     },
+     {
+      "t": "p",
+      "x": "제품 자체는 논점이 아니다. P9은 전문 제작 워크플로와 12K RAW 다이렉트 레코딩을 겨냥한 플래그십이고, 삼성은 이 성능을 Blackmagic URSA Mini Pro 12K로 검증했다고 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "함께 배포된 스틸도 AI가 만들었다. 이미지 안에는 'talephoto', 'vulture cirsting' 같은 정체불명의 글자가 섞여 있었다. 호주 뉴스룸은 한 장에 \"Image simulated for illustrative purposes\"라는 설명을 조용히 달아 뒀다."
+     },
+     {
+      "t": "p",
+      "x": "CineD의 Nino Leitner는 자신이 AI 원리주의 반대편에 있다고 먼저 밝힌다. 프리비주얼, 피치 덱, 스토리보드, 클린업은 괜찮다는 것이다. 문제는 하드웨어 제조사가 촬영팀을 쓰지 않으려고 AI를 쓴 뒤, 그 결과물을 다시 촬영팀에게 들이밀며 8TB에 2,699.99달러를 부르는 장면이다."
+     },
+     {
+      "t": "p",
+      "x": "삼성에게는 정반대의 전력도 있다. 2023년에는 리들리 스콧이 갤럭시 S23 울트라로 'Behold'를 찍었고, 촬영은 플라비오 라비아노가 맡았다. 그전에는 찰리 카우프만과 조 라이트가 갤럭시로 단편을 만들었다."
+     },
+     {
+      "t": "p",
+      "x": "레이트너의 제안은 단순하다. P9을 URSA Mini Pro 12K나 PYXIS에 물려 하루만 실제 현장에서 돌리고, 촬영감독이 카메라 앞에서 지속 쓰기 속도를 말하게 하라는 것이다. 글로벌 캠페인 예산에 비하면 반올림 오차에 가까운 비용이다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "movies-alan-smithee-s5-ai",
+   "eyebrow": "AI NEWS",
+   "headline": "편집실에 실제로 들어온\nAI를 셋이 앉아 셈했다",
+   "body": "포스트 베테랑 세 명이 어도비의 Topaz 인수와 현장에서 쓰는 AI를 라운드테이블에서 짚었다.",
+   "mini_headline": "포스트 라운드테이블",
+   "tool": "Movies",
+   "source": "ProVideo Coalition",
+   "url": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-what-we-did-last-summer/",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.provideocoalition.com/wp-content/uploads/aotf_0907.jpg",
+      "cap": "Art of the Frame Podcast: The Alan Smithee Round Table"
+     },
+     {
+      "t": "p",
+      "x": "Alan Smithee Round Table가 시즌 5를 열었다. 진행은 Scott Simmons, Katie Hinsen, Michael Kammes 세 사람이다. 여러 업계를 떠난 인물들을 먼저 기리고, 곧바로 할리우드 판을 흔드는 뉴스로 넘어간다."
+     },
+     {
+      "t": "p",
+      "x": "업계 쪽 숫자부터 보면 2026년 박스오피스는 전년 대비 15% 높게 가고 있다. 파라마운트와 폭스, 디즈니가 움직이면서 사업 모델은 층층이 바뀌는 중이다."
+     },
+     {
+      "t": "p",
+      "x": "기술 쪽은 소프트웨어 지형이 빠르게 갈리고 있다. AI와 이머시브 미디어에서 새 흐름이 붙었고, 포스트 도구들이 그 속도를 따라가는 모양새다."
+     },
+     {
+      "t": "p",
+      "x": "어도비가 Topaz Labs를 인수하면서 AI 업스케일링이 자사 도구 안으로 그대로 들어왔다. 반대편에서는 아비드가 프로젝트 공유에 값비싼 Media Composer Enterprise를 요구하기 시작했고, 그 틈에서 Hedge가 Mimic을 사들여 소규모 포스트 하우스용 대안으로 내놨다."
+     },
+     {
+      "t": "p",
+      "x": "이야기는 각자의 작업으로도 이어진다. Kammes가 실무에 AI를 붙여 온 방식, Hinsen이 다녀온 UCSB의 AlloSphere, Simmons가 매달려 온 EditSwitch가 차례로 나온다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "movies-ulanzi-vibekey-voice",
+   "eyebrow": "AI NEWS",
+   "headline": "편집 책상 위에 놓는\n말로 쓰는 AI 키패드",
+   "body": "울란지 AU05 VibeKey가 음성 키 하나로 ChatGPT와 Claude에 지시를 넘겨 준다.",
+   "mini_headline": "말로 부르는 AI 키패드",
+   "tool": "Movies",
+   "source": "Newsshooter",
+   "url": "https://www.newsshooter.com/2026/09/06/ulanzi-au05-vibekey-ai-voice-input-keypad/",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.newsshooter.com/wp-content/uploads/2026/09/New-Release-Ulanzi-AU05-VibeKey-A-Smarter-Way-to-Work-with-AI.jpeg",
+      "cap": "Ulanzi AU05 VibeKey"
+     },
+     {
+      "t": "p",
+      "x": "울란지 AU05 VibeKey는 분류가 애매한 물건이다. 사진과 영상 작업자를 겨냥한 소형 AI 워크플로 컨트롤러라는 것이 제조사 설명이다."
+     },
+     {
+      "t": "p",
+      "x": "울란지는 주요 음성 입력 소프트웨어와 함께 쓰라고 권한다. ChatGPT, Claude, Codex 같은 AI 에이전트와 Typeless 같은 음성 입력 도구를 지원한다."
+     },
+     {
+      "t": "p",
+      "x": "구성은 커스터마이즈 가능한 키 3개와 스마트 컨트롤 노브, 내장 마이크다. AI에게 말을 걸고 자주 쓰는 단축 동작을 눌러, 촬영 계획부터 자막과 편집 메모까지 속도를 올린다는 발상에서 나왔다."
+     },
+     {
+      "t": "p",
+      "x": "음성 키를 누르고 있는 동안 마이크가 명령을 받는다. 코드를 짜거나 글을 쓰거나 편집하는 중에도 손을 크게 옮기지 않고 프롬프트를 던질 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "키 배치는 Ulanzi Studio에서 다시 짤 수 있다. 가장 많이 쓰는 명령을 손끝에 붙여 두는 식이다."
+     },
+     {
+      "t": "p",
+      "x": "배터리는 300mAh, 3.7V, 1.1Wh다. USB-C로 약 4시간이면 충전되고, 하루 3시간씩 연속으로 쓰는 워크 모드 기준으로 최대 5일을 간다고 한다."
+     },
+     {
+      "t": "p",
+      "x": "가격은 61.59달러이고 지금 살 수 있다."
+     }
+    ]
+   }
+  }
+ ]
 }

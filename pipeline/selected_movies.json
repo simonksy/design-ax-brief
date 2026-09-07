@@ -1,75 +1,67 @@
 {
-  "date": "2026-09-07",
-  "section": "movies",
-  "count": 5,
-  "picks": [
-    {
-      "title": "What I Learned Watching Six Hours of Gen-AI Short Films for the Reply AI Film Festival",
-      "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
-      "source": "IndieWire",
-      "published_iso": "2026-09-05T15:12:10+00:00",
-      "excerpt": "An IndieWire juror reports back from six hours of AI-generated shorts at the Reply AI Film Festival — what the form can already do, and where it still falls apart.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650",
-      "tool": "Movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A juror's first-hand map of what generative shorts already nail and where they break — the most directly useful read this week for anyone budgeting AI into a cut."
-    },
-    {
-      "title": "Here's a New Way to Easily Add Footsteps to Your Projects in Premiere or Resolve",
-      "url": "https://nofilmschool.com/krotos-studio-footsteps",
-      "source": "No Film School",
-      "published_iso": "2026-09-03T17:25:02+00:00",
-      "excerpt": "Krotos brings its procedural foley footstep workflow directly into Premiere Pro and DaVinci Resolve, letting editors generate and tune footsteps in the timeline.",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67724834&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Procedural foley that lands inside the NLE timeline — changes an editor's sound pass tomorrow, no round-trip required."
-    },
-    {
-      "title": "Watch Wētā FX's VFX breakdown for season 3 of 'House of the Dragon'",
-      "url": "https://beforesandafters.com/2026/09/03/watch-weta-fxs-vfx-breakdown-for-s3-of-house-of-the-dragon/",
-      "source": "befores & afters",
-      "published_iso": "2026-09-02T22:20:09+00:00",
-      "excerpt": "Wētā FX released its shot-by-shot breakdown for 'House of the Dragon' season 3, covering the ship battle and the season's dragon work.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/The-Visual-Effects-of-House-of-the-Dragon-Season-3-_-Weta-FX-0-12-screenshot.jpg",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Wētā opens the ship battle and dragon work shot by shot — the reference point for what a hand-built pipeline still buys you at the top end."
-    },
-    {
-      "title": "Blender Studio Opens OVERGROWN's Free Behind-the-Scenes Archive",
-      "url": "https://80.lv/articles/blender-studio-opens-overgrown-s-free-behind-the-scenes-archive/",
-      "source": "80 Level",
-      "published_iso": "2026-09-04T19:24:00+00:00",
-      "excerpt": "A limited-time Open Doors Week gives free access to OVERGROWN production logs covering animation, rigging, fur, shading, sets, lighting, water effects and compositing.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50059/images/6a9b1aee2e216/contain_1200x630.jpg",
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "A full production log — rigging, fur, water, comp — unlocked for free on a clock; a rare look inside a finished animated short's decisions."
-    },
-    {
-      "title": "Avid's 20th Emmy and Adobe's first (for Premiere): the 2026 Engineering Emmy Awards",
-      "url": "https://www.provideocoalition.com/avids-20th-emmy-and-adobes-first-the-2026-engineering-emmy-awards-have-some-familiar-faces/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-06T05:35:53-07:00",
-      "excerpt": "Scott Simmons unpacks what the 2026 Engineering, Science & Technology Emmy recipients say about the post-production tools editors actually rely on.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/78th-emmys-est-900x600-1.jpg",
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "Premiere's first Engineering Emmy alongside Avid's twentieth — an editor's read on which post tools the Academy now treats as infrastructure."
-    }
-  ],
-  "dedup_notes": [
-    "Dropped 'Avid Media Composer 2026.8 at IBC' (postPerspective) — same release already published 2026-09-04 as movies-avid-mc-2026-8 (ProVideo Coalition).",
-    "Dropped fxguide and RedShark News Engineering Emmy write-ups as within-pool duplicates of the same event; kept the single strongest (ProVideo Coalition, freshest + most analytical).",
-    "Dropped 'Astro Burn' AI micro-series (Animation Magazine) — same Nura/ShowCraft core topic already published 2026-09-04 as movies-showcraft-public (AWN), which named Astro Burn as its case study.",
-    "Deprioritized Eddie AI MCP/pricing (No Film School, 08-27) — Eddie AI already ran 2026-09-03 as movies-eddie-agent-marketplace from the same outlet; distinct feature but repetitive within the 5-day window.",
-    "Kept only one Corridor Crew item out of the pool's two (Hulk CGI ranking, VFX Artists React 241) under consideration; neither made the final 5 after the Corridor rotoscope card already ran 2026-09-05.",
-    "Final 5: 5 distinct outlets, no shared URLs, no repeated domain."
-  ]
+ "date": "2026-09-08",
+ "section": "movies",
+ "count": 5,
+ "picks": [
+  {
+   "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film 'Bucking Fastard' Skipped Cannes for Venice",
+   "url": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/",
+   "source": "IndieWire",
+   "published_iso": "2026-09-07T13:15:00+00:00",
+   "excerpt": "At Venice, Herzog talks about 'Bucking Fastard' with Kate and Rooney Mara, his dedication to David Lynch, and dismisses an AI-generated documentary made in his spirit: 'I welcome AI to replace all the idiots who are into nothing but repeating.'",
+   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZNUN.jpg?w=2000",
+   "tool": "Movies",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "rationale": "A working director's sharpest framing yet of where generative video actually belongs — mimicry, not storytelling."
+  },
+  {
+   "title": "Full Metal Lunchbox | Runway",
+   "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
+   "source": "Runway",
+   "published_iso": "2026-09-04T13:37:35+00:00",
+   "excerpt": "Runway published a four-minute AI-generated war-movie parody staged entirely with food, chaptered like a feature.",
+   "og_image": "https://i.ytimg.com/vi/fE59FYMIttQ/maxresdefault.jpg",
+   "tool": "Movies",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "rationale": "A first-party look at what Runway's current stack sustains across a four-minute cut, not a ten-second demo."
+  },
+  {
+   "title": "Opinion: The AI Ad Selling Storage to the Filmmakers It's Replacing - Samsung's Portable SSD P9 Campaign",
+   "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
+   "source": "CineD",
+   "published_iso": "2026-09-03T13:30:00+00:00",
+   "excerpt": "Samsung sold its 12K-RAW-ready Portable SSD P9 with a launch film and press stills generated entirely by AI, hallucinated lens text included; CineD's Nino Leitner calls out the irony.",
+   "og_image": "https://www.cined.com/content/uploads/2026/09/Samsung-AI-SSD-Ad-featured-1300x750.jpg",
+   "tool": "Movies",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "rationale": "The clearest case study this week of brands routing commercial production — the crew's bread and butter — into generative pipelines."
+  },
+  {
+   "title": "Art of the Frame Podcast: The Alan Smithee Round Table - What We Did Last Summer",
+   "url": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-what-we-did-last-summer/",
+   "source": "ProVideo Coalition",
+   "published_iso": "2026-09-07T08:36:12-07:00",
+   "excerpt": "Scott Simmons, Katie Hinsen and Michael Kammes open Season 5 on post's shifting software: Adobe's Topaz Labs acquisition pulling AI upscaling natively into its tools, Avid's new Media Composer Enterprise project-sharing requirement pushing Hedge to acquire Mimic, plus Kammes' own practical AI integration.",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/aotf_0907.jpg",
+   "tool": "Movies",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "rationale": "Three working post pros mapping which AI shifts actually land in the edit bay this season, and what they cost."
+  },
+  {
+   "title": "Ulanzi AU05 VibeKey AI Voice Input Keypad",
+   "url": "https://www.newsshooter.com/2026/09/06/ulanzi-au05-vibekey-ai-voice-input-keypad/",
+   "source": "Newsshooter",
+   "published_iso": "2026-09-07T02:51:54+00:00",
+   "excerpt": "A $61.59 pocket keypad with a push-to-talk voice key that pipes prompts into ChatGPT, Claude or Codex, plus three remappable keys and a control knob.",
+   "og_image": "https://www.newsshooter.com/wp-content/uploads/2026/09/New-Release-Ulanzi-AU05-VibeKey-A-Smarter-Way-to-Work-with-AI.jpeg",
+   "tool": "Movies",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "rationale": "Hardware that puts an AI prompt key on the edit desk for the price of a memory card."
+  }
+ ]
 }

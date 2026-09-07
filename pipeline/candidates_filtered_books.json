@@ -1,91 +1,75 @@
 {
-  "date": "2026-09-07",
-  "section": "books",
+  "date": "2026-09-08",
   "window_hours": 336,
+  "section": "books",
   "items": [
     {
-      "url": "https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/",
-      "source": "InfoDocket",
+      "title": "Who is Narrating the Future? AI and the Audiobook Market",
+      "url": "https://publishingperspectives.com/2026/09/who-is-narrating-the-future-ai-and-the-audiobook-market/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-09-06T18:08:07+00:00",
-      "excerpt": "A new Public Library Quarterly article, 'Accountability, Integrity: AI Policy in Public Libraries,' examines how U.S. public libraries are actually writing generative-AI policy for staff and patrons.",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-06_14-05-54.png"
+      "published_iso": "2026-09-07T12:39:46+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg",
+      "excerpt": "A Frankfurter Buchmesse white paper produced by Dosdoce.com surveys 85 audio industry experts: 85% now use AI somewhere in audiobook production, but only 17% have embedded it across more than six phases."
     },
     {
-      "url": "https://www.thebookseller.com/editors-letter/ai-challenges-how-we-work-and-how-we-create",
-      "source": "The Bookseller",
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+      "source": "The Decoder",
       "category": "books",
-      "published_iso": "2026-09-04T11:00:00+00:00",
-      "excerpt": "The Bookseller's editor's letter argues AI is reshaping both the daily craft of publishing work and the creative act itself — and that human connection may end up being the differentiator.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd33.jpg"
+      "published_iso": "2026-09-07T13:18:57+00:00",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
+      "excerpt": "At its peak at least 40,000 people in Nairobi wrote academic papers for foreign students; after ChatGPT launched in 2022 prices and orders collapsed, leaving 'humanizers' who rework AI text."
     },
     {
-      "url": "https://www.unite.ai/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl/",
-      "source": "Unite.AI",
+      "title": "News Summary: Google Play Books Launches Expert Intelligence Ebook Function",
+      "url": "https://selfpublishingadvice.org/google-play-books-launches-expert-intelligence/",
+      "source": "ALLi Self-Publishing Advice Center",
       "category": "books",
-      "published_iso": "2026-09-04T12:24:02-04:00",
-      "excerpt": "Microsoft moved for summary judgment on 4 September in the consolidated copyright litigation brought by book authors and news publishers, telling a federal court that Copilot almost never reproduces books verbatim.",
-      "og_image": "https://www.unite.ai/wp-content/uploads/2026/09/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl.jpg"
+      "published_iso": "2026-09-03T12:00:22+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-3.jpg",
+      "excerpt": "Google Play Books adds Expert Intelligence, letting readers question purchased nonfiction ebooks using only the licensed text."
     },
     {
-      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/",
-      "source": "404 Media",
+      "title": "New Directions Seminar: What Is a Journal in 2030?",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/04/new-directions-seminar-what-is-a-journal-in-2030/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-09-02T12:47:45+00:00",
-      "excerpt": "404 Media follows up its Amazon book-destruction investigation with a worker who slices spines off printed books so they can be scanned for AI training.",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/maxres.jpg"
+      "published_iso": "2026-09-04T09:30:08+00:00",
+      "og_image": "",
+      "excerpt": "An SSP seminar asks what a journal becomes when AI mediates discovery and reading."
     },
     {
-      "url": "https://selfpublishingadvice.org/destroying-books-to-train-ai/",
-      "source": "Alliance of Independent Authors",
+      "title": "Authors Guild publishes survey results about copyright registration failures",
+      "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-08-27T12:00:44+00:00",
-      "excerpt": "ALLi's news summary on AI companies buying and destroying physical books to train models, plus a new textbook copyright lawsuit filed against OpenAI.",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-27.jpg"
+      "published_iso": "2026-08-26T16:00:00+00:00",
+      "og_image": "",
+      "excerpt": "An Authors Guild survey finds many publishers never registered copyrights, a gap exposed by the Anthropic settlement claims process."
     },
     {
-      "url": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ed%95%98%ec%a0%95%ec%9a%b0-%ea%b5%ad%ea%b0%80ai%ec%a0%84%eb%9e%b5%ec%9c%84-%eb%b6%80%ec%9c%84%ec%9b%90%ec%9e%a5-%ec%b6%9c%ed%8c%90-ax-ai-%eb%8f%84%ec%9e%85-%ec%95%84/",
-      "source": "테크42",
+      "title": "Around the Book World: Monday, September 7th, 2026",
+      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-7th-2026/",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-09-01T06:33:41+09:00",
-      "excerpt": "하정우 국가AI전략위원회 상근부위원장이 대한출판문화협회 특별강연에서 ‘출판 AX’는 AI 도구 도입이 아니라 업무 재설계가 핵심이라고 강조했다.",
-      "og_image": "https://tech42.shoplic.cloud/wp-content/uploads/2026/09/280613274.png"
+      "published_iso": "2026-09-07T12:26:39+00:00",
+      "og_image": "",
+      "excerpt": "Weekly roundup of international book-industry news including AI items."
     },
     {
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04273846645576512",
-      "source": "이데일리",
+      "title": "E-Books: Google Announces Launch of \"Expert Intelligence\" Feature For Gemini Notebook",
+      "url": "https://www.infodocket.com/2026/08/27/google-announces-launch-of-expert-intelligence-feature-for-gemini-notebook/",
+      "source": "Library Journal infoDOCKET",
       "category": "books",
-      "published_iso": "2026-09-03T15:18:45+09:00",
-      "excerpt": "정재욱 kt 밀리의서재 대표는 창립 10주년 컨퍼런스 ‘읽는 미래’에서 “AI는 답을 만들지만 독서는 질문을 만든다”며 AI 시대 읽기의 역할을 제시했다.",
-      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26090301321.jpg"
-    },
-    {
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406515",
-      "source": "테크월드",
-      "category": "books",
-      "published_iso": "2026-09-04T08:30:00+09:00",
-      "excerpt": "kt 밀리의서재가 AI 확산에 따른 독서 경험 변화를 짚고, 경계 없는 독서·대화하는 독서 등 미래 읽기 경험의 다섯 가지 지향점을 공개했다.",
-      "og_image": "https://cdn.epnc.co.kr/news/photo/202609/406515_407012_1526.jpg"
-    },
-    {
-      "url": "https://gizmodo.com/tcl-p80-ultra-can-convert-ebooks-into-audiobooks-and-podcasts-using-ai-2000806765",
-      "source": "Gizmodo",
-      "category": "books",
-      "published_iso": "2026-09-03T14:10:04+00:00",
-      "excerpt": "TCL's P80 Pro and P80 Ultra convert e-books into AI-narrated audiobooks or podcast-style summaries on-device, and add a hardware key that drops the phone into a paper-like e-reader mode.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/09/tcl-p80-ultra-1200x675.jpg"
-    },
-    {
-      "url": "https://www.yankodesign.com/2026/09/04/tcls-p80-pro-and-ultra-are-the-phones-that-replaced-your-kindle-too/",
-      "source": "Yanko Design",
-      "category": "books",
-      "published_iso": "2026-09-04T08:15:33+00:00",
-      "excerpt": "Yanko Design on TCL's NXTPAPER P80 phones, whose dedicated e-reader mode and AI book-to-audio conversion reframe the phone screen as a reading surface."
+      "published_iso": "2026-08-27T12:18:00+00:00",
+      "og_image": "",
+      "excerpt": "Google introduces Expert Intelligence, a cross-Google initiative surfacing licensed book content inside Gemini's notebook."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 10,
+    "dropped": 7,
+    "kept": 7,
     "against_days": 5
   }
 }
