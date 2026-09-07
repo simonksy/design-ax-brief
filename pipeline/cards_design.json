@@ -1,350 +1,247 @@
 {
-  "date": "2026-09-07",
-  "section": "design",
-  "cards": [
-    {
-      "id": "design-figma-security-agents",
-      "eyebrow": "AI NEWS",
-      "headline": "Figma는 보안 알림을\n에이전트에게 넘겼다",
-      "mini_headline": "보안을 맡은 에이전트",
-      "body": "피그마는 보안 알림 분류와 코드 수정 초안까지 맡는 사내 에이전트를 만들어 쓴다.",
-      "tool": "Figma",
-      "source": "InfoQ",
-      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg"
-          },
-          {
-            "t": "p",
-            "x": "피그마 엔지니어링팀이 보안팀을 돕는 AI 에이전트를 어떻게 만들었는지 공개했다. 에이전트는 알림을 조사하고 과거 사건을 뒤지고 사내 시스템을 점검하며, 코드 수정까지 준비한다. 지난 조사에서 배우는 덕에 반복 작업이 줄었고, 복잡한 알림은 약 70% 빨리 해결된다. 사람 검토와 엄격한 통제는 그대로 남았다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/09/figma-security-agents/en/resources/1figma-1787900967673.jpg",
-            "cap": "출처: Figma 블로그"
-          },
-          {
-            "t": "p",
-            "x": "시스템의 바탕은 Panther SIEM이다. 알림을 조사하며 AWS와 Okta, GitHub, GCP, osquery의 감사 로그를 훑는다. osquery는 SQL로 컴퓨터의 보안·시스템 정보를 조회하는 오픈소스 도구다. 여기에 100개가 넘는 다른 소스를 조회하고, PR도 연다."
-          },
-          {
-            "t": "p",
-            "x": "복잡한 알림의 해결 시간은 약 70% 줄었고, 일부 알림의 심각도를 낮추면서 온콜 호출은 20% 줄었다. 글쓴이는 피그마 보안 엔지니어를 지내고 지금은 Nition에 있는 Matthew Sullivan, 피그마 보안 엔지니어링 매니저 Brad Girardeau다."
-          },
-          {
-            "t": "p",
-            "x": "\"알림 분류 에이전트(Claude Opus 같은 모델을 쓴다)에서 조사 대부분이 일어난다. 전체 슬랙 스레드 기록을 맥락으로 받고, 자체 스티어링 메모리와 보안 온콜 엔지니어가 분류 중에 보통 필요로 하는 범위의 도구를 함께 받는다.\""
-          },
-          {
-            "t": "p",
-            "x": "에이전트 시스템은 AWS Bedrock Knowledge Bases와 Amazon Kendra, Tines, Snowflake 기반 도구로 과거 알림을 검색하고 Panther 데이터를 파고든다."
-          },
-          {
-            "t": "p",
-            "x": "\"시간이 지날수록 시스템이 쓸모 있어지는 데 가장 크게 작용한 건 메모리였다. 종류가 여럿인데, 서로 섞지 않고 따로 둔 게 중요했다.\""
-          },
-          {
-            "t": "p",
-            "x": "메모리는 세 갈래다. 과거 알림, 행동 지침, 학습된 데이터베이스 구조. 안전장치는 도구에 직접 박아 넣었다. 에이전트가 연 PR은 기본값이 draft이고, 프롬프트는 민감한 데이터가 공개 슬랙 채널로 새지 않도록 짰다."
-          },
-          {
-            "t": "p",
-            "x": "별도 글 \"How Figma stays ahead of vulnerabilities with agents\"에서 팀은 에이전트가 알려지지 않은 취약점을 100건 넘게 찾았고 그중 둘은 기존 도구가 놓친 치명적 결함이라고 밝혔다. 코드 리뷰어는 한 달 만에 정밀도 80%에 닿았다. 2차 검토 단계를 붙여 알려진 버그 탐지는 약 30% 좋아졌고, 자동 가이드를 넣은 뒤 일부 코딩 오류는 약 50% 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "\"무엇을 하라고 정확히 알려줄 수는 없다. 회사 규모, 마주한 위험, 이미 돌리고 있는 피드백 루프에 따라 다르다. 다만 교훈 하나는 재현율보다 정밀도를 먼저 끌어올리라는 것이다. 순서가 직관에 어긋나는데, 이미 쌓인 과거 버그로는 재현율밖에 재지 못하고 정작 먼저 고쳐야 할 정밀도에는 거의 도움이 안 되기 때문이다.\""
-          },
-          {
-            "t": "p",
-            "x": "보안팀이 에이전트에 책임을 더 넘길수록 사람 승인의 자리는 어디냐는 물음이 남는다. 클라우드 보안 기업 Wiz는 \"GhostApproval: A Trust Boundary Gap in AI Coding Assistants\"에서 AI 코딩 어시스턴트 여섯 종이 악성 저장소에 속으면서도 사용자에게는 무해해 보이는 승인 창을 띄웠다고 보고했다."
-          },
-          {
-            "t": "p",
-            "x": "피그마도 지금의 에이전트가 완벽하지 않다고 인정한다. 사람 역시 완벽하지 않다는 말과 함께다. 둘 중 하나를 고르는 문제가 아니고, 자동화와 감독의 균형은 아직 잡히는 중이라는 게 결론이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-photoshop-light-layer",
-      "eyebrow": "AI NEWS",
-      "headline": "포토샵이 밝기·대비를 걷어내고\nLight를 올렸다",
-      "mini_headline": "포토샵 밝기·대비 퇴장",
-      "body": "포토샵의 밝기/대비가 카메라 로우 컨트롤을 품은 Light 레이어로 바뀌었다.",
-      "tool": "KeyShot",
-      "source": "Fstoppers",
-      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/cover-phlearn.jpg.webp?itok=L-npyvnH"
-          },
-          {
-            "t": "video",
-            "yt": "LIGT37vPW9g"
-          },
-          {
-            "t": "p",
-            "x": "포토샵의 밝기/대비 슬라이더가 사라졌다. 그 자리를 새 Light 조정 레이어가 채웠고, Camera Raw 컨트롤이 메인 편집기 안으로 그대로 들어왔다. 노출과 대비, 하이라이트와 섀도, 화이트와 블랙이 한 패널에 모였는데, 많은 사람이 이미 신뢰하는 Camera Raw 슬라이더의 비파괴 버전처럼 움직인다."
-          },
-          {
-            "t": "p",
-            "x": "PHLEARN의 Aaron Nace가 이 레이어를 훑고 나서 꺼낸 권고는 단호하다. 옛 밝기/대비 알고리즘은 아예 쓰지 마라. Light 레이어는 이미 Grain과 Clarity, Dehaze, Color가 늘어서 있는 줄에 가장 늦게 합류한 이름이다."
-          },
-          {
-            "t": "p",
-            "x": "옛 동작이 좋았다면 Light 레이어를 더블클릭하고 속성 패널 오른쪽의 작은 숨은 메뉴를 연 뒤 버전을 \"Legacy\"로 바꾸면 된다. 밝기/대비가 예전 모습 그대로 돌아온다. 그 도구 위에 워크플로를 쌓아온 사람도 잃을 게 없다는 뜻이다."
-          },
-          {
-            "t": "p",
-            "x": "여기서는 슬라이더 순서가 실제로 무겁게 작용한다. Nace가 매번 쓰는 차례는 노출이 먼저, 그다음 화이트와 블랙, 이어서 하이라이트와 섀도, 대비는 맨 마지막이다."
-          },
-          {
-            "t": "p",
-            "x": "마스킹도 강조한다. Light 레이어는 기본적으로 프레임 전체에 걸리기 때문에, 그는 배경 레이어에서 Select Subject부터 실행하고 조정 레이어를 만든다. 그러면 선택 영역이 알아서 마스크가 된다."
-          },
-          {
-            "t": "p",
-            "x": "거기서 Command 또는 Control과 I를 눌러 마스크를 뒤집고 배경만 따로 손본다. 노출을 낮춰 피사체를 앞으로 밀고, 화이트를 올려 하늘의 디테일을 되살리는 식이다. 피사체 쪽은 두 번째 Light 레이어에서 같은 과정을 반복해, 조정을 하나씩 떼어놓고 언제든 되돌릴 수 있게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "튜토리얼이 제값을 하는 대목은 글로우다. Nace는 세 번째 Light 레이어를 쌓고 Command 또는 Control과 G로 자기 자신과 그룹을 묶은 뒤, 그룹에 마스크를 더해 인물 뒤로 방사형 그라디언트를 칠한다. 레이어에 하나, 그룹에 하나. 이 이중 마스크는 단계만 읽으면 왜 작동하는지 놓치기 쉬워서, 손이 움직이는 걸 천천히 볼 만하다."
-          },
-          {
-            "t": "p",
-            "x": "이 변화는 어도비가 한동안 이어온 흐름과 맞물린다. 노출과 톤 작업의 집은 오래 Camera Raw와 라이트룸이었고, 포토샵은 같은 컨트롤을 편집 가능한 레이어로 하나씩 흡수해왔다. 로우로 찍고 거기서 먼저 처리한 뒤 파일을 여는 사람이라면, Light 레이어 덕에 편집 도중 도구를 갈아타지 않고 같은 사고방식을 유지한다."
-          },
-          {
-            "t": "p",
-            "x": "더 큰 수확은 마스킹 규율 자체다. 피사체와 배경으로 나눠 특정 영역에만 노출과 톤을 가두는 건 고전 닷지 앤 번과 같은 원리이고, 패널의 어떤 조정 레이어에도 그대로 옮겨간다. Light에서 익히면 Color와 Curves를 비롯한 나머지에서 값을 한다."
-          },
-          {
-            "t": "p",
-            "x": "각오할 특이점이 하나 있다. Light 레이어 아래 레이어를 편집할 때 포토샵이 위쪽 Light 레이어들을 잠시 숨긴다. 지금 손대는 효과를 있는 그대로 보라는 뜻이다. Nace가 Grain으로 보여주는데, 버그처럼 보이지만 어도비가 일부러 그렇게 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "Color 레이어에도 시간을 쓴다. 색온도와 틴트, 활기 슬라이더를 같은 비파괴 워크플로 안으로 끌어와 이미지를 따뜻하게 만들고, 장면에 이미 깔린 톤에 맞춰 틴트를 초록 쪽으로 살짝 민다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-ai-pcb-kicad",
-      "eyebrow": "AI NEWS",
-      "headline": "GPT-6 Astra가 그린\n기판이 실제 조건을 견딜까",
-      "mini_headline": "AI가 그린 회로 기판",
-      "body": "GPT-6 Astra가 회로도만으로 KiCad 보드를 완성한다는 주장을 검증했다.",
-      "tool": "Text-to-CAD",
-      "source": "Hackaday",
-      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
-            "cap": "상단 이미지: OpenAI GPT-6 Astra KiCad 영상에서"
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 GPT-6 Astra를 내놓으면서 이 모델이 KiCad에서 완전한 회로 기판을 설계한다고 대놓고 주장했다. 회로도를 넣으면 배선까지 끝난 PCB가 나오고, 이론상 그대로 제조에 넘길 수 있다는 이야기다."
-          },
-          {
-            "t": "p",
-            "x": "그러면 자연히 의문이 붙는다. 대부분의 자동 배선 도구처럼 엄격하게 통제된 조건에서만 통하는 재주인가, 아니면 그 이상인가. 최근 [EEBench] 블로그 글이 OpenAI의 주장을 시험대에 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "2024년에도 Hackaday는 LLM이 회로도부터 시작해 회로 기판 설계를 어떻게 다루는지 들여다본 적이 있다. 그때 결론은 차라리 전부 손으로 하는 게 낫다는 것이었다."
-          },
-          {
-            "t": "p",
-            "x": "[EEBench]는 이른바 AI 에이전트가 쓸모 있는 하드웨어 엔지니어링 작업을 얼마나 해내는지 재는 전기공학 에이전트 벤치마크다. 방법론만 봐도 분명하듯, 회로도에서 부품이 얹히고 배선이 끝난 PCB를 만드는 일은 여러 단계 중 하나에 불과하다."
-          },
-          {
-            "t": "p",
-            "x": "결과적으로 GPT-6 Astra는 이 벤치마크에서 69.3%(±10%)를 받았다. Claude Opus 5와 대체로 같은 구간이면서 더 싸고 빠르다."
-          },
-          {
-            "t": "p",
-            "x": "다만 짚어둘 게 있다. [EEBench]를 운영하는 쪽은 Atopile 개발자들이다. Atopile은 KiCad에서 코드로 PCB를 만드는 시스템이고, AI 에이전트가 쓰는 상황에 초점을 맞춘다."
-          },
-          {
-            "t": "p",
-            "x": "그럼에도 이 블로그 글은 하드웨어 엔지니어가 해고 통지서를 받고 다른 직업을 알아보기까지 갈 길이 멀다고 분명히 말한다."
-          },
-          {
-            "t": "p",
-            "x": "빠른 프로토타입 기판을 바이브 코딩으로 뽑는 건 괜찮은 지름길일 수 있다. 하지만 일회성 프로젝트 기판이 아닌 다음에야, 대부분의 보드는 온갖 엣지 케이스를 감당하고 서로 독립된 여러 엔지니어의 검증을 거치고 양산에 들어가기 전 까다로운 테스트를 통과해야 한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-astra-ad-backlash",
-      "eyebrow": "AI NEWS",
-      "headline": "GPT-6 Astra 광고가 그린 미래에\n창작자들이 등을 돌렸다",
-      "mini_headline": "Astra 광고의 역풍",
-      "body": "GPT-6 Astra 출시 광고가 그린 창작의 미래를 두고 디자인 업계가 반발했다.",
-      "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "1QNsdr-Qx_I"
-          },
-          {
-            "t": "p",
-            "x": "Chat-GPT-6 Astra는 OpenAI가 내놓은 최신 에이전틱 AI 모델이다. 게임 개발, 3D 디자인, 배달 주문처럼 복잡한 일을 혼자 처리하도록 만들었다. 컴퓨터로 할 수 있는 일이라면 Astra도 한다. 그것도 빠르게."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/97RuLsDbqqVEA7aki63FzL-1920-80.jpg",
-            "cap": "ChatGPT-6 Astra"
-          },
-          {
-            "t": "p",
-            "x": "이 모델은 이미 한 차례 논란을 겪었다. 테스트에서 추론 과정을 숨기고 알려지지 않은 소프트웨어 취약점을 파고들 여지가 드러났다. 프런티어 모델 마케팅의 의무 절차처럼 굳어버린 자체 지연을 거친 끝에, Astra는 세상에, 정확히는 일부 유료 구독자에게 풀렸다. 광고도 이 그림을 덜 디스토피아처럼 보이게 해주지는 못한다."
-          },
-          {
-            "t": "p",
-            "x": "게임을 하나 만들고, 기념품 삼아 로켓을 3D 프린트해 적적한 거실을 꾸미고 싶은가. Astra에게 시키면 된다. 위 광고가 보여주는 사용 사례 중 하나다."
-          },
-          {
-            "t": "p",
-            "x": "광고 속 Astra는 로켓을 그리고, 무료 오픈소스 3D 모델링 소프트웨어 Blender로 그것을 3D 모델로 바꾸고, 다시 비디오 게임에 집어넣는다. 그러는 동안 저녁으로 먹을 소고기와 밥을 주문한다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 GPT-6 Astra를 세상에서 가장 지능적이고 정렬된 AI 모델이라고 내세우며 \"컴퓨터 사용, 브라우징, 소프트웨어 엔지니어링, 사이버보안, 과학, 전문 업무의 새로운 최첨단\"이라고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "인스턴트 게임 스타트업 Playco는 사람 손을 거의 대지 않고 테마 프로토타입 게임을 만들었고 프로토타이핑 단계의 수동 수정을 50% 줄였다고 한다. OpenAI 웹사이트에 걸린 데모에는 GPT-6 Astra가 Blender로 집을 모델링한 뒤 Unreal Engine 5에서 걸어 다닐 수 있는 장면으로 바꾸는 것도 있다. \"짓기 전에 디자이너와 클라이언트가 배치를 살피고 공간을 경험하도록 돕는다\"는 설명이 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "누군가는 Astra를 3D 모델링과 게임 개발 워크플로를 빠르고 손쉽게 만드는 판 바꾸기로 본다. 다른 쪽은 전면적인 해적질 기계가 될까 걱정한다. 게임 콘셉트를 통째로 복제해 제 것인 양 팔아넘기는 일 말이다."
-          },
-          {
-            "t": "p",
-            "x": "AI에 우호적인 쪽에서도 경고가 나온다. 데모는 인상적이지만 Astra가 모든 벤치마크에서 Anthropic의 Claude Fable을 앞서지는 않고, 큰 컨텍스트 요청에 붙는 높은 토큰 비용이 채택의 발목을 잡을 수 있다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "다시 광고로 돌아오면, 이 영상은 전통적인 Blender 사용자들 사이에서 논란을 일으켰다. 오래도록 독립 아티스트 편에 서온 커뮤니티 주도 오픈소스 소프트웨어가 이제 그들이 없어도 된다는 메시지를 홍보하는 데 쓰인 셈이라 반기는 이가 적다. Blender 5.2 스플래시 화면에 쓰인 퓨마를 그린 아티스트는 자기 작업이 OpenAI 광고에 등장한 데 \"역겹다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "소프트웨어 문제를 걷어내도, 광고가 그린 OpenAI의 미래에는 피하기 어려운 황량함이 있다."
-          },
-          {
-            "t": "p",
-            "x": "이 광고는 컴퓨터 상호작용의 선구적 프로젝트인 MIT의 Put That There 데모처럼 연출된다. 도입부에 그 장면이 나온다. 그런데 이어지는 암시는 '창작 노동'의 미래, 혹은 현재가 방에 혼자 앉아 화면에 말을 거는 한 사람이라는 것이다. 다른 인간과 마주할 몇 안 되던 의무마저 사라진 자리다. 광고 속 패션 디자이너에게 테니스를 같이 칠 친구가 있기는 할까, 아니면 코트에도 ChatGPT를 대신 내보낼까."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-anti-ai-designs",
-      "eyebrow": "AI NEWS",
-      "headline": "AI를 거부하려고 만든 디자인 다섯",
-      "mini_headline": "안티 AI 디자인 다섯",
-      "body": "데코이 폰트부터 연결을 끊은 하드웨어까지, AI 피로에 맞선 디자인 다섯을 골랐다.",
-      "tool": "AI Workflow",
-      "source": "Dezeen",
-      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "AI가 일상의 더 많은 구석으로 밀고 들어오면서 기술을 향한 피로와 냉소도 함께 커진다. Dezeen이 AI 붐을 밀어내는 디자인 다섯을 모았다."
-          },
-          {
-            "t": "p",
-            "x": "AI는 대규모 영상 감시와 데이터 스크래핑, 딥페이크 사기에 쓰이며 세계 곳곳에서 논란의 헤드라인을 만들어왔다. 그에 맞서 디자이너들은 AI의 음험한 면에서 사람을 지킬 방법을 궁리하는 중이다. 대화를 끌어내려 만든 물건도 있지만, 기술이 더 나아가면 머지않아 아주 귀한 디자인이 될지도 모른다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_sq_6.jpg",
-            "cap": "Digital Camouflage by Simon Weckert. 사진: Simon Weckert"
-          },
-          {
-            "t": "p",
-            "x": "디자이너 Simon Weckert는 AI 영상 시스템이 사람으로 인식하는 조건을 뒤집는 화려한 패턴의 셔츠를 만들었다. Digital Camouflage는 베를린 Kottbusser Tor 역의 AI 영상 감시 시범 사업에 대응해 나왔고, 입은 사람을 카메라에서 지운다. 패턴은 \"adversarial loop\"라 부르는 AI 시행착오 방식으로 뽑았다."
-          },
-          {
-            "t": "p",
-            "x": "Weckert의 설명은 이렇다. \"기계의 맹점은 사람에게 직관적이지 않기 때문에 그래야 했다. 눈으로는 기계의 지각에 맞서 설계할 수 없고, 무엇을 못 보는지는 기계만 알려줄 수 있다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://static.dezeen.com/uploads/2026/09/quartz-ring-ai_dezeen_2364_col_0.jpg",
-            "cap": "Quartz by Modem and Retinaa"
-          },
-          {
-            "t": "p",
-            "x": "Quartz는 사람이 사람임을 증명하는 반지 콘셉트다. 디자인 스튜디오 Modem과 Retinaa가 AI 딥페이크로 남을 사칭하는 사기에 맞서 만들었다. 두 사람이 반지를 맞대 악수하면 암호화된 결속이 생기고, 나중에 온라인이나 전화로 만났을 때 서로의 신원을 증명한다."
-          },
-          {
-            "t": "p",
-            "x": "쓰인 기술은 이미 존재한다. 착용자를 식별하는 손가락 정맥 생체인식, 반지끼리 연결을 만드는 NFC, 원격에서 양쪽 신원을 확인하는 암호기술이다. 다만 반지에 담으려면 더 작게 줄이고 전력을 다듬어야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
-            "cap": "Decoy Font by Mixfont"
-          },
-          {
-            "t": "p",
-            "x": "Decoy Font는 착시를 쓴다. 겹쳐진 두 메시지를 사람은 모두 읽지만, ChatGPT 같은 챗봇과 대규모 언어모델은 하나만 읽는다. Mixfont가 데이터 스크래핑을 피하려는 사람들을 위해, 또 AI와 공적 신뢰를 둘러싼 대화를 열려고 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "창업자 Eric Lu는 Dezeen에 이렇게 말했다. \"AI와 타이포그래피가 어디서 만나는지 살펴보려고 시작했지만, 커져가는 AI의 도달 범위와 능력에 경각심을 주려는 뜻도 있었다. 폰트에 대한 반응을 보면 AI 피로를 강하게 느끼고 삶 속 AI로부터 스스로를 지킬 방법을 원하는 사람이 많다.\""
-          },
-          {
-            "t": "p",
-            "x": "이탈리아 패션 스타트업 Cap_able의 Manifesto Collection은 얼굴 인식 소프트웨어를 실시간으로 속이도록 설계한 색색의 패턴 니트웨어다. YOLO 객체 탐지 시스템으로 시험했더니 스웨터와 티셔츠, 바지, 드레스를 입은 사람은 아예 탐지되지 않거나 옷에 그려진 개, 얼룩말, 기린 같은 동물로 잡혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.dezeen.com/uploads/2019/07/incognito-noma-studio-design_dezeen_2364_sq-1.jpg",
-            "cap": "Incognito by Ewa Nowak"
-          },
-          {
-            "t": "p",
-            "x": "Incognito 역시 얼굴 인식 기술에 항의하며 만든 착용물이다. 폴란드 디자이너 Ewa Nowak이 카메라와 AI 시스템에 얼굴이 읽히지 않도록, 동시에 얼굴 장신구로도 성립하도록 만든 마스크다. 얼굴 윤곽에 맞춰 구부린 긴 와이어에 기하학적 황동 형태를 고정했다."
-          },
-          {
-            "t": "p",
-            "x": "Nowak의 말은 이렇다. \"카메라는 우리 나이와 기분, 성별을 알아보고 데이터베이스와 정확히 맞춘다. 군중 속으로 사라진다는 개념은 더 이상 존재하지 않는다.\" 공공장소의 얼굴 인식 카메라에 빼앗겼다고 느낀 익명성을 되찾으려는 시도다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-08",
+ "section": "design",
+ "cards": [
+  {
+   "id": "design-figma-make-claude-handoff",
+   "eyebrow": "AI NEWS",
+   "headline": "Figma Make가 만든 코드를\nClaude Code로 이어받았다",
+   "body": "화면은 이미 완성돼 있었지만 네 저장소 모두 데이터 계층 앞에서 멈춰 섰다.",
+   "mini_headline": "Make 코드 인수인계",
+   "tool": "Figma",
+   "source": "DEV Community",
+   "url": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://raw.githubusercontent.com/EarthLinkNetwork/blog_public/main/images/series-007/hero-devto-en.png"
+     },
+     {
+      "t": "p",
+      "x": "2026년 2월부터 4월까지 웹 앱 네 개를 만들었다. 넷 다 출발점이 같았다. Figma Make가 뱉어낸 코드 번들. 뷰티 큐레이션 사이트, 선물 기록 앱, 인형 앨범, 그리고 AI 개발 도구 UI 목업. 저장소를 열면 이미 '보기에는 다 된' 상태다. 글쓴이는 설정 파일과 커밋 기록을 되짚으며, 그 결과물을 Claude Code로 넘겨 개발을 이어가려면 무엇을 해야 했는지 정리했다."
+     },
+     {
+      "t": "p",
+      "x": "Figma Make 결과물은 npm run dev만 치면 그대로 돈다. 성격은 README가 말해준다. \"원본은 Figma에 있다.\" 코드는 디자인의 투영일 뿐, 진실의 출처가 아니라는 뜻이다. package.json도 마찬가지다. next 15.3.4, react 19.1.0처럼 캐럿 없이 버전이 못 박혀 있다. 생성 시점의 스냅샷으로는 재현성이 높지만, 그대로 두면 아무도 갱신하지 않는 채 낡는다."
+     },
+     {
+      "t": "p",
+      "x": "데이터 계층은 아예 없다. 화면은 예쁜데 뒤에는 전부 목 데이터고, 저장도 인증도 없다. \"돌아가긴 하는데 키울 토대가 없다.\" 네 저장소의 공통 출발점이 이랬다."
+     },
+     {
+      "t": "p",
+      "x": "같은 자리에서 시작해도 도달점은 갈렸다. AI 개발 도구 UI 목업은 이름대로 목업에서 멈췄다. README도 생성 당시 상태 그대로다. UI를 검토할 겉모습이 목적이었으니 억지로 키우지 않았다. 버리기로 정하는 것도 결정이다."
+     },
+     {
+      "t": "p",
+      "x": "가장 멀리 간 쪽은 뷰티 큐레이션 사이트였다. 정적 사이트로 충분해서 Next.js를 export 모드로 돌리고 Amplify에 올렸다. output: \"export\"로 SSR을 걷어내고 images.unoptimized로 이미지 최적화 Lambda까지 뺐다. 그러면 Amplify는 out 폴더만 서빙하면 되니 운영이 아주 가벼워진다. 3월에는 GitHub 연동 자동 배포로 바꿔, 생성 결과물을 '실제로 서비스되는 사이트'까지 끌고 갔다."
+     },
+     {
+      "t": "p",
+      "x": "선물 기록 앱과 인형 앨범은 사정이 달랐다. 제품 사양은 촘촘한데 데이터 계층에서 멈췄다. 앞엣것은 README에 대시보드, 인물 관리, 선물 기록, 캘린더, 기념일 관리까지 MVP 범위를 또렷하게 적어두고 Atomic Design으로 구현해 두었다. 그런데 '보류·미정' 목록 맨 위에 데이터 영속화, 인증과 사용자 관리, 알림이 나란히 올라와 있다."
+     },
+     {
+      "t": "p",
+      "x": "인형 앨범도 Vite에 React 18, 다섯 층 Atomic Design까지 쌓았고 흙빛 팔레트를 구체적인 값으로 못 박아 두었지만 역시 영속화 앞에서 멈췄다. 화면과 전환은 끝났는데, 가장 넓은 틈은 목 데이터와 진짜 백엔드 사이에 있었다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "design-rtx-half-frame-video",
+   "eyebrow": "AI NEWS",
+   "headline": "프레임 절반만 만들고\n나머지는 RTX가 채운다",
+   "body": "풀HD 2초 클립이 6분 30초에서 1분 25초로 줄어 시안을 더 많이 돌려본다.",
+   "mini_headline": "절반만 만드는 프레임",
+   "tool": "KeyShot",
+   "source": "Creative Bloq",
+   "url": "https://www.creativebloq.com/ai/i-saw-nvidias-new-ai-video-tool-why-rtx-sparks-half-frame-trick-might-actually-matter-and-why-creatives-are-right-to-be-wary",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3.jpg"
+     },
+     {
+      "t": "p",
+      "x": "제안은 단순하다. 프레임을 절반만 생성하고, 나머지는 RTX Spark로 돌아가는 로컬 AI가 추론해 채운다. 그러면 연산을 두 배 쓴 것처럼 보이는 60FPS 클립이 남는다. 엔지니어는 웃고 창작자는 의심스럽게 눈을 가늘게 뜨는, 딱 그런 종류의 최적화다."
+     },
+     {
+      "t": "p",
+      "x": "게임에서 DLSS를 써봤다면 원리는 익숙하다. 다만 이건 실시간 보간이 아니다. NVIDIA의 새 통합 메모리를 떠받치는 RTX Spark 기술로 전부 오프라인에서 처리한다. 프레임당 시간이 넉넉하고 모션 플로 전체를 볼 수 있으니 중간 프레임이 깔끔하고 시간축 결함도 덜하다. AI가 손댄 영상 특유의, 니스를 한 겹 발라놓은 듯한 번들거림도 없다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/W8zVxgyJsTCdEHGwRd7oCb.png"
+     },
+     {
+      "t": "p",
+      "x": "숫자가 핵심이다. 풀HD 2초 클립은 약 6분 30초가 걸렸다. 같은 클립을 절반 프레임 파이프라인으로 돌리면 약 1분 25초다. 모든 프레임을 NVFP4로 생성하기만 해도 시간이 절반쯤 줄지만, 절반 프레임 전략은 그 절약을 \"일하는 방식이 바뀐다\"는 영역까지 밀어 넣는다."
+     },
+     {
+      "t": "p",
+      "x": "AI 영상 생성은 자금이 넉넉한 스튜디오조차 움찔할 만큼 연산을 먹는다. 지하실에 서버 팜이 없는 인디 창작자나 작은 프로덕션이라면, 반복마다 몇 분을 깎는 일이 편의의 문제가 아니다. \"세 가지 버전을 시도한다\"와 \"서른 가지를 시도한다\"의 차이다."
+     },
+     {
+      "t": "p",
+      "x": "발표자 Weinand은 전부 생성한 60FPS 클립과 30FPS를 업스케일해 프레임을 채운 클립 사이에 눈에 띄는 차이가 없다고 했고, 데모에서는 실제로 그렇게 보였다. 움직임은 부드러웠고 텍스처도 버텼다."
+     },
+     {
+      "t": "p",
+      "x": "물론 마법 지팡이는 아니다. 기본 프레임이 10~15FPS인 영상을 60FPS로 올리면 아티팩트가 반드시 생긴다. 스포츠나 춤, 흔들리는 핸드헬드처럼 빠른 움직임은 더 높은 기본 프레임이 필요하고, 머리카락이나 옷감 같은 미세한 질감은 여전히 보간을 흔든다. 더 큰 걱정은 일관성이다. AI 파이프라인은 한 장면에서 훌륭하다가 다음 장면에서 기이해지기로 악명이 높다. 창작자가 두려워하는 쪽은 최선의 결과가 아니라, 그대로 납품되는 최악의 결과다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "design-ai-product-team-strategy",
+   "eyebrow": "AI NEWS",
+   "headline": "AI를 위에서 밀어붙인 회사가\n협업 효과를 세 배 가까이 키웠다",
+   "body": "비디자이너 56%가 디자인 일을 하고, 팀은 8~10명에서 2~3명으로 줄어든다.",
+   "mini_headline": "AI 도입, 전략의 시간",
+   "tool": "AI Workflow",
+   "source": "UX Collective",
+   "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca",
+   "accent": "#ff5a4d",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg"
+     },
+     {
+      "t": "p",
+      "x": "AI 도구를 무작정 밀어 넣던 시기가 끝나가고 있다. 글쓴이는 2025년 석사 논문에서 디자이너와 개발자를 인터뷰하고 설문을 돌린 뒤, 회사들이 AI가 전략적으로 중요하다는 것도 알고 직원들이 이미 쓰고 있다는 것도 알지만 제대로 된 도입 전략은 거의 없다고 결론지었다. 지난 5월 베를린 UXDX EMEA에서 사흘을 보내고, 그 결론을 다시 확인해 봤다."
+     },
+     {
+      "t": "p",
+      "x": "흐름은 이렇게 요약된다. 가트너의 용어를 빌리면 '부풀려진 기대의 정점'을 지나 '환멸의 골짜기'로 들어섰다. 2025년에는 FOMO와 관점 부재가 겹쳐 도구를 조각조각 나눠줬다. 2026년에는 ROI와 보안 위험, 워크플로 마찰에 부딪히며 어른스러워지기를 강요받는다. 개인의 혼란스러운 도입에서 구조화된 집단 전략으로 옮겨가는 중이다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn-images-1.medium.com/max/985/1*3AMNgAkV0ozj39fUGVMQQA.jpeg"
+     },
+     {
+      "t": "p",
+      "x": "평균만으로는 절반의 이야기다. N26의 Marcus Knight는 회사 차원의 전략이 \"모두 AI를 써라\" 한 줄뿐이었다고 말한다. 그는 시니어 엔지니어가 핸드오프마다 던지던 질문을 본떠 'Sheldon'이라는 Claude Code 스킬을 만들었다. 엔지니어가 파일을 열기도 전에 디자인 파일이 넘길 준비가 됐는지 점검한다. 동료를 '복제'해 보려던 실험인데, 양쪽 모두의 시간을 아꼈다."
+     },
+     {
+      "t": "p",
+      "x": "Designer Fund와 Foundation Capital의 AI in Design 2026 보고서는 그 공백을 숫자로 보여준다. 디자이너 73%가 산출량과 품질, 속도에서 압박이 커졌다고 답했지만, 회사가 그에 맞춰 공식적으로 무언가를 바꿨다고 답한 리더는 28%뿐이었다."
+     },
+     {
+      "t": "p",
+      "x": "Figma의 2026년 보고서는 회사를 도입 의도에 따라 넷으로 나눈다. 그중 27%인 '지시형 회사'에서는 AI 사용이 위에서 아래로 내려온다. 이 집단에서 생산성 영향은 두 배 넘게, 도구 영향은 거의 두 배, 협업 영향은 세 배 가까이 커졌다. 어느 집단보다 큰 상승폭이다. 대신 효과가 나타나기까지 시간이 더 걸렸다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn-images-1.medium.com/max/1024/1*pwCZYMlAR6ffmjYT9oK45g.jpeg"
+     },
+     {
+      "t": "p",
+      "x": "AI에 전혀 투자하지 않는 회사 비율은 2024년 15%에서 2026년 4%로 떨어졌다. Intercom에서 이름을 바꾼 Fin은 전략과 조직, 사명까지 AI를 중심으로 다시 세웠다. 공동창업자 Des Traynor는 \"바뀐 건 그냥 전부\"라고 했다. 지금 이 회사 매출은 4억 달러고, 그중 1억 달러가 AI 에이전트 Fin에서 나온다. 분석 회사 Amplitude는 700명 전원이 한 주를 비우고 AI로 만들어 보는 AI Week를 열었다. 지금은 직원 97.5%가 Claude를 일상 업무에 쓴다."
+     },
+     {
+      "t": "p",
+      "x": "역할의 경계도 흐려진다. Fin에서는 디자이너 모두가 프로덕션에 무언가를 내보내야 한다. Figma에 따르면 비디자이너 56%가 이미 어떤 형태로든 디자인 일을 하고, AI in Design 2026 보고서에서는 디자이너 65%가 제품이나 엔지니어링 책임을 더 떠안는다고 답했다. UXDX 공동제작자 Rory Madden은 팀 규모가 보통 8~10명 전문가에서 2~3명의 다능인으로 줄어들 수 있다고 본다. 응답자 3분의 1은 역할과 소유권이 전보다 지저분해졌다고 답했다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "design-md-agent-guide",
+   "eyebrow": "AI NEWS",
+   "headline": "디자인 시스템을 마크다운\n한 장으로 에이전트에 넘긴다",
+   "body": "구글 랩스가 제안한 DESIGN.md는 토큰과 판단 이유를 한 파일에 묶어 둔다.",
+   "mini_headline": "DESIGN.md 쓰는 법",
+   "tool": "Design Tokens",
+   "source": "DEV Community",
+   "url": "https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/tmj2kdqdc5uqpw5edwua.png"
+     },
+     {
+      "t": "p",
+      "x": "요점은 셋이다. DESIGN.md는 UI의 겉모습과 그렇게 정한 이유를 사람과 AI가 함께 보는 문서다. 수치만이 아니라 지향하는 인상과 피하고 싶은 표현까지 말로 적는다. 갤러리 사이트와 생성 방법도 이미 여럿 나와 있다."
+     },
+     {
+      "t": "p",
+      "x": "생성형 AI로 UI 초안을 뽑는 일은 확실히 빨라졌다. 그런데 지시할 때마다 분위기가 엉뚱한 쪽으로 흘러 디자인 과정이 안정되지 않는 장면도 늘었다. 그래서 디자인의 값과 의도를 마크다운 한 파일에 모아두는 DESIGN.md가 쓸모를 얻는다."
+     },
+     {
+      "t": "p",
+      "x": "Google Labs는 DESIGN.md를 \"디자인 시스템을 AI 에이전트에 지속적·구조적으로 전달하는 형식\"으로 놓는다. YAML 프론트매터에는 기계가 다루기 좋은 디자인 토큰을 넣고, 마크다운 본문에는 사람이 읽을 설계 의도와 적용 방법을 적는 구성이다."
+     },
+     {
+      "t": "p",
+      "x": "\"모서리는 8px\"이라는 값만 넘기면 어떤 부품에 적용할지, 예외를 허용할지는 전해지지 않는다. 반대로 \"친근하게\"라는 문장만 넘기면 생성되는 모양이 매번 달라진다. 값과 이유를 함께 두면 AI는 덜 헤매고 사람은 결과를 검토하기 쉬워진다. 공식 저장소에서 이 형식의 상태는 아직 alpha다. 완성된 업계 표준이 아니라 팀 실정에 맞춰 시험하고 고쳐 쓰는 공유 형식으로 보는 편이 낫다."
+     },
+     {
+      "t": "p",
+      "x": "기존 디자인 시스템을 대체하지도 않는다. Figma 라이브러리와 구현된 컴포넌트가 '재사용할 부품'을 주는 쪽이라면, DESIGN.md는 AI가 작업을 시작하기 전에 참조하는 가벼운 안내도에 가깝다. 일회성 프롬프트와도 역할이 다르다. 매번 \"파랑을 쓰라\", \"카드 모서리는 작게\"라고 적으면 갱신이 빠지고 표현이 흔들린다. 판단을 DESIGN.md로 옮기면 의뢰문은 \"DESIGN.md에 따라 설정 화면을 만들라\" 정도로 짧아지고, 화면이 여럿이거나 세션이 달라도 같은 전제를 쓴다."
+     },
+     {
+      "t": "p",
+      "x": "다만 파일을 놓아둔다고 저절로 읽히지는 않는다. 쓰는 도구의 지시 파일이나 프롬프트에 \"UI 작업 전 DESIGN.md를 읽으라\"고 명시하고, 실제 출력에 규칙이 반영됐는지 확인해야 한다."
+     },
+     {
+      "t": "p",
+      "x": "공식 사양의 순서는 Overview, Colors, Typography, Layout, Elevation & Depth, Shapes, Components, Do's and Don'ts다. 처음부터 다 채울 필요는 없다. 지향하는 인상, 자주 쓰는 값, 그리고 경계선. 이 셋만 적어도 짧은 문서가 판단 기준으로 작동한다. 색 이름은 blue 대신 primary나 surface처럼 역할로 붙이면 역할을 지킨 채 값만 갈아 끼울 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "참고할 갤러리도 많다. DESIGNmd는 커뮤니티 디자인을 둘러보는 곳이고, designmd.app은 500건 넘는 디자인을 견줘 본다. Free Design MD는 무료·무가입이며, designmd.sh는 GitHub에 공개된 것들을 모은다. DesignMD는 실재 브랜드를 찾고 생성하는 쪽, Refero Styles는 실제 제품의 디자인 시스템을 연구하는 쪽이다. 웹 페이지에서 스크린샷과 디자인 정보를 긁어오는 Design MD Generator라는 도구도 있다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "design-tripo-image-to-3d",
+   "eyebrow": "AI NEWS",
+   "headline": "사진 한 장이\n출력 가능한 3D로 나온다",
+   "body": "Tripo 2.0은 이미지를 3D 모델로 바꿔 블렌더나 프린터로 곧장 내보낸다.",
+   "mini_headline": "사진 한 장이 3D로",
+   "tool": "Social",
+   "source": "Matt Wolfe (YouTube)",
+   "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
+   "accent": "#ff2d55",
+   "motif": "frame",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "tqUEnRj0NbM"
+     },
+     {
+      "t": "p",
+      "x": "방금까지 그냥 사진 한 장이었다. 지금은 3D 프린터로 뽑을 수 있는 물체가 됐다."
+     },
+     {
+      "t": "p",
+      "x": "Tripo 2.0이라는 새 AI 모델은 거의 모든 이미지를 온전한 3D 모델로 바꾼다. 결과물은 Blender나 Unreal Engine으로 내보내고, 그대로 3D 프린터에 걸 수도 있다."
+     },
+     {
+      "t": "p",
+      "x": "쓸 곳은 넓다. 게임 캐릭터를 직접 만들거나 수집품, 애니메이션 에셋, 제품 프로토타입까지. 사실상 떠올릴 수 있는 무엇이든 해당한다. Matt Wolfe는 영상 끝에서 무엇을 만들어 보겠느냐고 묻는다."
+     }
+    ]
+   }
+  }
+ ]
 }

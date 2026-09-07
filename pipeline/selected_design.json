@@ -1,126 +1,94 @@
 {
-  "date": "2026-09-07",
-  "section": "design",
-  "count": 5,
-  "items": [
-    {
-      "rank": 1,
-      "headline": "How Figma Uses AI Agents for Security",
-      "title": "How Figma Uses AI Agents for Security",
-      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
-      "source": "InfoQ",
-      "published_iso": "2026-09-06T06:59:00Z",
-      "og_image": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg",
-      "excerpt": "Figma's engineering team documented how it built AI agents that triage security alerts, search past incidents, check internal systems and even draft code fixes. The agents learn from previous investigations, cutting repetitive review work.",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Figma documents its own production agent stack — a concrete template for how a design org wires agents into repetitive review work."
-    },
-    {
-      "rank": 2,
-      "headline": "Photoshop Just Replaced Brightness and Contrast With Something Better",
-      "title": "Photoshop Just Replaced Brightness and Contrast With Something Better",
-      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
-      "source": "Fstoppers",
-      "published_iso": "2026-09-05T09:03:01Z",
-      "og_image": "https://cdn.fstoppers.com/styles/full/s3/lead/2026/09/cover-phlearn.jpg",
-      "excerpt": "Photoshop's Brightness/Contrast slider is now a Light adjustment layer with Camera Raw controls built in. Aaron Nace walks the optimal slider order and a double-mask glow technique.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "A shipped Photoshop change that alters a daily editing habit tomorrow, with the exact slider order and masking technique spelled out."
-    },
-    {
-      "rank": 3,
-      "headline": "Can AI Now Design PCBs That Just Work?",
-      "title": "Can AI Now Design PCBs That Just Work?",
-      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
-      "source": "Hackaday",
-      "published_iso": "2026-09-06T02:00:46Z",
-      "og_image": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
-      "excerpt": "OpenAI claims GPT-6 Astra can take a schematic and output a complete KiCad board. Hackaday tests how far that claim survives contact with real hardware design constraints.",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "A hands-on reality check on schematic-to-board generation — the sharpest test yet of where AI CAD output stops being usable."
-    },
-    {
-      "rank": 4,
-      "headline": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future",
-      "title": "OpenAI's controversial ChatGPT-6 Astra advert paints a sad vision of the future",
-      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
-      "source": "Creative Bloq",
-      "published_iso": "2026-09-06T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/97RuLsDbqqVEA7aki63FzL-1920-80.jpg",
-      "excerpt": "OpenAI's launch film for GPT-6 Astra has drawn a creative-industry backlash for the future of creative work it depicts. Creative Bloq unpacks why the ad landed so badly with designers.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "The GPT-6 Astra launch film became a referendum on how AI vendors picture creative work — the framing designers now have to answer for."
-    },
-    {
-      "rank": 5,
-      "headline": "Five anti-AI designs that give an element of control back to humans",
-      "title": "Five anti-AI designs that give an element of control back to humans",
-      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
-      "source": "Dezeen",
-      "published_iso": "2026-09-05T09:00:01Z",
-      "og_image": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
-      "excerpt": "Dezeen rounds up five products and graphics built as deliberate pushback against the AI boom, from a decoy font to hardware that refuses to connect - a design language for AI fatigue.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "A working catalogue of anti-AI design moves — decoy fonts, disconnect-by-default hardware — that designers can borrow as a stance, not just a mood."
-    }
-  ],
-  "picks": [
-    {
-      "rank": 1,
-      "url": "https://www.infoq.com/news/2026/09/figma-security-agents/",
-      "source": "InfoQ",
-      "tool": "Figma"
-    },
-    {
-      "rank": 2,
-      "url": "https://fstoppers.com/education/photoshop-just-replaced-brightness-and-contrast-something-better-904470",
-      "source": "Fstoppers",
-      "tool": "KeyShot"
-    },
-    {
-      "rank": 3,
-      "url": "https://hackaday.com/2026/09/05/can-ai-now-design-pcbs-that-just-work/",
-      "source": "Hackaday",
-      "tool": "Text-to-CAD"
-    },
-    {
-      "rank": 4,
-      "url": "https://www.creativebloq.com/ai/even-just-the-advert-for-chatgpt-6-astra-is-creating-controversy",
-      "source": "Creative Bloq",
-      "tool": "AI Workflow"
-    },
-    {
-      "rank": 5,
-      "url": "https://www.dezeen.com/2026/09/05/anti-ai-designs-roundup/",
-      "source": "Dezeen",
-      "tool": "AI Workflow"
-    }
-  ],
-  "dedup": {
-    "history_days_checked": 6,
-    "history_cards_checked": 30,
-    "dropped_as_duplicate": 0,
-    "notes": "No design-section history card covers GPT-6 Astra, Figma security agents, Photoshop Light adjustment, AI PCB generation, or the Dezeen anti-AI roundup. Nearest neighbour checked: 2026-09-05 Creative Bloq Parker anti-AI billboards vs Dezeen anti-AI product roundup — different event, different objects, kept. Within-pool: 6 GPT-6 Astra items collapsed to 2 distinct angles (Hackaday PCB test, Creative Bloq ad backlash); Vercel gateway, Parametric Architecture, and three YouTube recap videos dropped as same-event coverage or low novelty."
+ "date": "2026-09-08",
+ "section": "design",
+ "picks": [
+  {
+   "n": 1,
+   "category": "figma",
+   "tool": "Figma",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "source": "DEV Community",
+   "url": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
+   "title": "How to take over a design built in Figma Make and develop it with Claude Code",
+   "published_iso": "2026-09-07T03:21:45Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FEarthLinkNetwork%2Fblog_public%2Fmain%2Fimages%2Fseries-007%2Fhero-devto-en.png",
+   "excerpt": "Four apps started from Figma Make code bundles; the author traces via config files and commit history how far each got once development continued in Claude Code, and where they stalled.",
+   "rationale": "Concrete, reproducible handoff evidence from Figma Make output to Claude Code - directly changes how a designer plans a build."
   },
-  "diversity": {
-    "outlets": ["InfoQ", "Fstoppers", "Hackaday", "Creative Bloq", "Dezeen"],
-    "max_per_outlet": 1,
-    "categories": ["figma", "render", "cad", "workflow", "workflow"],
-    "max_per_category": 2
+  {
+   "n": 2,
+   "category": "render",
+   "tool": "KeyShot",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "source": "Creative Bloq",
+   "url": "https://www.creativebloq.com/ai/i-saw-nvidias-new-ai-video-tool-why-rtx-sparks-half-frame-trick-might-actually-matter-and-why-creatives-are-right-to-be-wary",
+   "title": "I saw NVIDIA's new AI video tool: why RTX Spark's half-frame trick might actually matter",
+   "published_iso": "2026-09-07T15:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3-2560-80.jpg",
+   "excerpt": "Generate half the frames and let local RTX Spark AI infer the rest: a Full HD two-second clip drops from about 6m30s to about 1m25s, with offline interpolation avoiding real-time frame-gen artefacts.",
+   "rationale": "Hands-on demo with hard timings; changes the economics of iterating on AI video."
+  },
+  {
+   "n": 3,
+   "category": "workflow",
+   "tool": "AI Workflow",
+   "accent": "#ff5a4d",
+   "motif": "frame",
+   "source": "UX Collective",
+   "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca",
+   "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+   "published_iso": "2026-09-06T23:47:16Z",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg",
+   "excerpt": "Companies with top-down AI mandates see the biggest gains; 56% of non-designers now do design work, 65% of designers take on product or engineering work, and team sizes may shrink from 8-10 to 2-3.",
+   "rationale": "Numbers a design org can act on when planning its own AI adoption structure."
+  },
+  {
+   "n": 4,
+   "category": "tokens",
+   "tool": "Design Tokens",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "source": "DEV Community",
+   "url": "https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c",
+   "title": "DESIGN.md - a shared UI design guide for working with AI",
+   "published_iso": "2026-09-06T11:15:00Z",
+   "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/tmj2kdqdc5uqpw5edwua.png",
+   "excerpt": "Google Labs frames DESIGN.md as a persistent structured way to hand a design system to an AI agent: machine-readable tokens in YAML front matter, human-readable intent in the markdown body. Status is alpha.",
+   "rationale": "An immediately adoptable artifact for keeping agent output on-brand."
+  },
+  {
+   "n": 5,
+   "category": "social",
+   "tool": "Social",
+   "accent": "#ff2d55",
+   "motif": "frame",
+   "source": "Matt Wolfe (YouTube)",
+   "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
+   "title": "This AI Turns Insane Ideas Into 3D Objects",
+   "published_iso": "2026-09-07T16:06:22Z",
+   "og_image": "https://i.ytimg.com/vi/tqUEnRj0NbM/hq720.jpg",
+   "excerpt": "Tripo 2.0 turns almost any image into a full 3D model you can export to Blender, Unreal Engine or a 3D printer.",
+   "rationale": "Image-to-3D that lands as an exportable asset - a real step for product and concept designers."
   }
+ ],
+ "dropped": [
+  {
+   "url": "https://80.lv/articles/open-source-substance-3d-painter-alternative-armorpaint-1-0-released/",
+   "reason": "content dup of published 2026-09-05 design-armorpaint-1-0-out-after (CG Channel, same release)"
+  },
+  {
+   "url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
+   "reason": "content dup of published 2026-09-06 design-rtx-spark (same IFA RTX Spark local-AI announcement)"
+  },
+  {
+   "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6",
+   "reason": "newsletter whose lead item is the already published 2026-09-06 design-agentic-canvas"
+  },
+  {
+   "url": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working",
+   "reason": "general AI-business/ROI noise, no design-practice hook"
+  }
+ ]
 }

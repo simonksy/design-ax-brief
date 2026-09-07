@@ -1,41 +1,41 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "section": "science",
   "media": [
     {
-      "id": "science-af3-red",
+      "id": "science-rna-scaffold-stvc8",
       "type": "image",
-      "src": "pipeline/media/science-af3-red.jpg",
-      "credit": "Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg"
+      "src": "pipeline/media/science-rna-scaffold-stvc8.jpg",
+      "credit": "Nature (2026). DOI: 10.1038/s41586-026-10952-3",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg"
     },
     {
-      "id": "science-core-mantle-belts",
+      "id": "science-aifs-dday-forecast",
       "type": "image",
-      "src": "pipeline/media/science-core-mantle-belts.jpg",
-      "credit": "Journal of Geophysical Research: Solid Earth (2026)",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg"
+      "src": "pipeline/media/science-aifs-dday-forecast.jpg",
+      "credit": "European Centre for Medium-Range Weather Forecasts",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg"
     },
     {
-      "id": "science-smart-bricks",
+      "id": "science-apnea-chatbot-referral",
       "type": "image",
-      "src": "pipeline/media/science-smart-bricks.jpg",
-      "credit": "Thomas Fuchs / Scientific American",
-      "source_url": "https://static.scientificamerican.com/dam/asset/018be4c3-54e0-4fbd-9ca5-e00fcd0e0c7a/saw1026Adva05.jpg"
+      "src": "pipeline/media/science-apnea-chatbot-referral.jpg",
+      "credit": "Unsplash/CC0 Public Domain",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg"
     },
     {
-      "id": "science-co-scientist",
+      "id": "science-controversial-stimuli",
       "type": "image",
-      "src": "pipeline/media/science-co-scientist.png",
-      "credit": "arXiv:2608.26701 Figure 1",
-      "source_url": "https://arxiv.org/html/2608.26701v1/CoScientist_Fig1.png"
+      "src": "pipeline/media/science-controversial-stimuli.jpg",
+      "credit": "Nature Reviews Neuroscience (2026). DOI: 10.1038/s41583-026-01070-0",
+      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg"
     },
     {
-      "id": "science-brain-guided-llm",
+      "id": "science-benchmirt-audit",
       "type": "image",
-      "src": "pipeline/media/science-brain-guided-llm.jpg",
-      "credit": "Zhouchen Lin, Kai Du, Mingqing Xiao",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg"
+      "src": "pipeline/media/science-benchmirt-audit.png",
+      "credit": "Ai2",
+      "source_url": "https://www.datocms-assets.com/64837/1787859394-benchmirt-blog-draft-latest-google-docs-image-1-1.png"
     }
   ]
 }
