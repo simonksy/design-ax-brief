@@ -1,75 +1,58 @@
 {
-  "date": "2026-09-08",
-  "window_hours": 336,
+  "date": "2026-09-09",
   "section": "books",
+  "now_iso": "2026-09-08T22:15:00Z",
+  "window_hours": 336,
   "items": [
     {
-      "title": "Who is Narrating the Future? AI and the Audiobook Market",
-      "url": "https://publishingperspectives.com/2026/09/who-is-narrating-the-future-ai-and-the-audiobook-market/",
-      "source": "Publishing Perspectives",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-09-07T12:39:46+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg",
-      "excerpt": "A Frankfurter Buchmesse white paper produced by Dosdoce.com surveys 85 audio industry experts: 85% now use AI somewhere in audiobook production, but only 17% have embedded it across more than six phases."
+      "headline": "Google launches Expert Intelligence with more than 100k publisher titles",
+      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "published_iso": "2026-09-01T11:00:00Z",
+      "excerpt": "Google has launched Expert Intelligence, letting readers use purchased e-books and other trusted sources directly inside its AI products. UK publishers are among the rights holders supplying the initial catalogue of over 100,000 titles.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg"
     },
     {
-      "title": "How AI wiped out an entire industry in Nairobi",
-      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
-      "source": "The Decoder",
+      "source": "TechCrunch",
       "category": "books",
-      "published_iso": "2026-09-07T13:18:57+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
-      "excerpt": "At its peak at least 40,000 people in Nairobi wrote academic papers for foreign students; after ChatGPT launched in 2022 prices and orders collapsed, leaving 'humanizers' who rework AI text."
+      "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published_iso": "2026-09-06T20:47:37Z",
+      "excerpt": "As payouts from the $1.5 billion Anthropic copyright settlement begin, authors say publishers and agents appear to be claiming more than their contractual share of the roughly $3,000 owed per infringed work.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
     },
     {
-      "title": "News Summary: Google Play Books Launches Expert Intelligence Ebook Function",
-      "url": "https://selfpublishingadvice.org/google-play-books-launches-expert-intelligence/",
-      "source": "ALLi Self-Publishing Advice Center",
-      "category": "books",
-      "published_iso": "2026-09-03T12:00:22+00:00",
-      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-3.jpg",
-      "excerpt": "Google Play Books adds Expert Intelligence, letting readers question purchased nonfiction ebooks using only the licensed text."
-    },
-    {
-      "title": "New Directions Seminar: What Is a Journal in 2030?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/04/new-directions-seminar-what-is-a-journal-in-2030/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-09-04T09:30:08+00:00",
-      "og_image": "",
-      "excerpt": "An SSP seminar asks what a journal becomes when AI mediates discovery and reading."
-    },
-    {
-      "title": "Authors Guild publishes survey results about copyright registration failures",
-      "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
       "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-08-26T16:00:00+00:00",
-      "og_image": "",
-      "excerpt": "An Authors Guild survey finds many publishers never registered copyrights, a gap exposed by the Anthropic settlement claims process."
+      "headline": "Authors Guild publishes survey results about copyright registration failures",
+      "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
+      "published_iso": "2026-08-26T16:00:00Z",
+      "excerpt": "Authors ruled ineligible for the Anthropic settlement discovered their publishers never registered their titles with the U.S. Copyright Office — an administrative failure that is now costing writers real money.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
     },
     {
-      "title": "Around the Book World: Monday, September 7th, 2026",
-      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-7th-2026/",
-      "source": "Publishing Perspectives",
+      "source": "Book Riot",
       "category": "books",
-      "published_iso": "2026-09-07T12:26:39+00:00",
-      "og_image": "",
-      "excerpt": "Weekly roundup of international book-industry news including AI items."
+      "headline": "AI Updates, Remembering Dolly Parton, and More News for Library Workers",
+      "url": "https://bookriot.com/news-for-library-workers-september-8-2026/",
+      "published_iso": "2026-09-08T10:01:00Z",
+      "excerpt": "Book Riot's weekly roundup for library workers leads with the latest AI developments hitting libraries — from vendor AI features to policy fights over AI-generated material in collections.",
+      "og_image": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg"
     },
     {
-      "title": "E-Books: Google Announces Launch of \"Expert Intelligence\" Feature For Gemini Notebook",
-      "url": "https://www.infodocket.com/2026/08/27/google-announces-launch-of-expert-intelligence-feature-for-gemini-notebook/",
-      "source": "Library Journal infoDOCKET",
+      "source": "The Digital Reader",
       "category": "books",
-      "published_iso": "2026-08-27T12:18:00+00:00",
-      "og_image": "",
-      "excerpt": "Google introduces Expert Intelligence, a cross-Google initiative surfacing licensed book content inside Gemini's notebook."
+      "headline": "How Independent Publishers Can Use AI Drawing Lip Sync to Invite Readers Into a Story",
+      "url": "https://the-digital-reader.com/how-independent-publishers-can-use-ai-drawing-lip-sync-to-invite-readers-into-a-story/",
+      "published_iso": "2026-09-08T11:26:14Z",
+      "excerpt": "A how-to for indie publishers on using AI lip-sync animation to give original book illustrations a speaking voice as a promotional on-ramp into the full text.",
+      "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/09/AI-Drawing.webp"
     }
   ],
   "dedup": {
-    "dropped": 7,
-    "kept": 7,
+    "dropped": 9,
+    "kept": 5,
     "against_days": 5
   }
 }

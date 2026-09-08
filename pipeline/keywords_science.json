@@ -1,196 +1,31 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "science",
-  "now_iso": "2026-09-07T22:05:00Z",
-  "rotation": {
-    "mode": "full_pool",
-    "seed": "2026-09-08",
-    "note": "Unattended run: working set = ALL sections.science.core + the ENTIRE sections.science.keywords list (no date slicing). Date rotation applied only to EMPHASIS: de-prioritise themes already published in the last 2 days of news_data.json (AdaptiveFlow drug screening, closed-loop polymer discovery, ICM/mathematics-in-AI-age essays, physicist-endures essay, BCI+AI alignment, AlphaFold3 conformations, core-mantle seismic ML, smart bricks, AI co-scientist arXiv, brain-guided LLM deduction)."
-  },
-  "working_keywords": [
-    "AI science",
-    "AI for science",
-    "AI 과학",
-    "AI scientific discovery",
-    "AI mental health",
-    "AI therapy chatbot",
-    "affective computing",
-    "AI and human behavior",
-    "LLM persuasion study",
-    "AI 심리",
-    "LLM reasoning study",
-    "theory of mind AI",
-    "machine cognition",
-    "AI consciousness",
-    "neuro-symbolic AI",
-    "brain-computer interface",
-    "인지과학 AI",
-    "AlphaFold",
-    "protein folding AI",
-    "AI protein design",
-    "AI drug discovery",
-    "AI genomics",
-    "single-cell AI",
-    "computational biology",
-    "AI 신약개발",
-    "AI 단백질 설계",
-    "AI materials discovery",
-    "GNoME",
-    "MatterGen",
-    "self-driving lab",
-    "autonomous materials lab",
-    "AI battery materials",
-    "AI 신소재",
-    "AI exoplanet detection",
-    "machine learning cosmology",
-    "AI telescope survey",
-    "AI galaxy classification",
-    "AI 천문학",
-    "machine learning physics",
-    "AI fusion plasma control",
-    "AI particle physics",
-    "differentiable physics",
-    "AI weather climate model",
-    "AI 물리",
-    "quantum machine learning",
-    "quantum AI",
-    "AI quantum error correction",
-    "quantum chemistry AI",
-    "양자 머신러닝",
-    "AI lab automation",
-    "foundation model for science",
-    "AI hypothesis generation",
-    "AI co-scientist",
-    "AI 연구 자동화"
-  ],
-  "expansions": {
-    "AI for science": [
-      "foundation model for science",
-      "AI scientific discovery",
-      "science agent benchmark"
-    ],
-    "AI drug discovery": [
-      "molecule generation",
-      "virtual screening",
-      "antibody design",
-      "target identification"
-    ],
-    "AI protein design": [
-      "AlphaFold3",
-      "RFdiffusion",
-      "ESM protein language model",
-      "de novo enzyme"
-    ],
-    "AI materials discovery": [
-      "MatterGen",
-      "GNoME",
-      "self-driving lab",
-      "autonomous synthesis",
-      "battery electrolyte"
-    ],
-    "AI fusion plasma control": [
-      "tokamak control",
-      "plasma disruption prediction",
-      "stellarator optimization"
-    ],
-    "quantum machine learning": [
-      "quantum error correction decoder",
-      "quantum chemistry AI",
-      "variational quantum"
-    ],
-    "AI exoplanet detection": [
-      "transit search ML",
-      "galaxy classification",
-      "radio transient FRB search"
-    ],
-    "AI weather climate model": [
-      "neural weather forecast",
-      "climate emulator",
-      "nowcasting"
-    ],
-    "LLM reasoning study": [
-      "chain-of-thought evaluation",
-      "cognitive test on LLM",
-      "theory of mind probe"
-    ],
-    "AI mental health": [
-      "therapy chatbot trial",
-      "digital mental health RCT",
-      "affective computing"
-    ],
-    "brain-computer interface": [
-      "neural decoding",
-      "speech neuroprosthesis",
-      "implant AI decoder"
-    ],
-    "AI 연구 자동화": [
-      "AI co-scientist",
-      "robot scientist",
-      "hypothesis generation agent",
-      "AI lab automation"
-    ]
+  "working_keywords": {
+    "core": ["AI science", "AI for science", "AI 과학", "AI scientific discovery"],
+    "mind_behavior": ["AI mental health", "AI therapy chatbot", "affective computing", "AI and human behavior", "LLM persuasion study", "AI 심리", "LLM reasoning study", "theory of mind AI", "machine cognition", "AI consciousness", "neuro-symbolic AI", "brain-computer interface", "인지과학 AI", "LLM cognitive science experiment", "human-AI trust study"],
+    "bio_protein_drug": ["AlphaFold", "protein folding AI", "AI protein design", "AI drug discovery", "AI genomics", "single-cell AI", "computational biology", "AI 신약개발", "AI 단백질 설계", "AI antibody design", "AI enzyme design", "virtual cell model", "AI clinical trial biomarker"],
+    "materials_labs": ["AI materials discovery", "GNoME", "MatterGen", "self-driving lab", "autonomous materials lab", "AI battery materials", "AI 신소재", "AI lab automation", "robotic chemistry lab", "AI catalyst discovery"],
+    "astronomy": ["AI exoplanet detection", "machine learning cosmology", "AI telescope survey", "AI galaxy classification", "AI 천문학", "neural network gravitational waves", "AI asteroid discovery", "Rubin Observatory machine learning"],
+    "physics_climate": ["machine learning physics", "AI fusion plasma control", "AI particle physics", "differentiable physics", "AI weather climate model", "AI 물리", "AI hurricane forecast model", "neural weather emulator", "AI tokamak control"],
+    "quantum": ["quantum machine learning", "quantum AI", "AI quantum error correction", "quantum chemistry AI", "양자 머신러닝", "neural network decoder qubit"],
+    "co_scientist": ["foundation model for science", "AI hypothesis generation", "AI co-scientist", "AI 연구 자동화", "LLM research agent benchmark", "AI mathematical proof", "AI peer review study"]
   },
   "categories": [
     {
       "category": "science",
+      "allowed_domains": ["quantamagazine.org", "phys.org", "sciencedaily.com", "newscientist.com", "scientificamerican.com", "livescience.com", "technologyreview.com", "arxiv.org", "biorxiv.org", "space.com", "universetoday.com", "skyandtelescope.org", "physicsworld.com", "physics.aps.org", "thequantuminsider.com", "statnews.com", "genengnews.com", "fiercebiotech.com", "psychologytoday.com", "apa.org", "deepmind.google", "research.google", "allenai.org"],
       "queries": [
-        "AI protein design new model 2026",
-        "AlphaFold successor protein structure prediction September 2026",
-        "AI drug discovery molecule generation results 2026",
-        "single-cell foundation model genomics AI",
-        "AI antibody design lab validation",
-        "AI materials discovery new compounds 2026",
-        "self-driving lab autonomous experiment robot chemistry",
-        "AI battery electrolyte materials model",
-        "MatterGen GNoME materials generative model",
-        "machine learning physics simulation breakthrough 2026",
-        "AI fusion plasma control tokamak",
-        "quantum machine learning algorithm result 2026",
-        "AI quantum error correction decoder",
-        "AI particle physics detector analysis LHC",
-        "AI exoplanet detection survey machine learning",
-        "machine learning cosmology galaxy survey AI 2026",
-        "AI weather forecast model climate emulator 2026",
-        "AI telescope data pipeline discovery",
-        "LLM reasoning study cognitive science experiment",
-        "theory of mind large language model study",
-        "AI therapy chatbot mental health trial results",
-        "brain-computer interface AI decoding speech",
-        "affective computing emotion recognition study 2026",
-        "LLM persuasion experiment human subjects",
-        "AI co-scientist hypothesis generation agent",
-        "foundation model for science release 2026",
-        "AI lab automation robot scientist experiment",
-        "AI peer review scientific literature model",
-        "AI 신약개발 연구 2026",
-        "AI 신소재 발견 연구",
-        "AI 과학 연구 자동화",
-        "AI scientific discovery September 2026 study"
-      ],
-      "allowed_domains": [
-        "quantamagazine.org",
-        "phys.org",
-        "sciencedaily.com",
-        "newscientist.com",
-        "scientificamerican.com",
-        "livescience.com",
-        "technologyreview.com",
-        "arxiv.org",
-        "biorxiv.org",
-        "space.com",
-        "universetoday.com",
-        "skyandtelescope.org",
-        "physicsworld.com",
-        "physics.aps.org",
-        "thequantuminsider.com",
-        "statnews.com",
-        "genengnews.com",
-        "fiercebiotech.com",
-        "psychologytoday.com",
-        "apa.org",
-        "deepmind.google",
-        "research.google",
-        "allenai.org"
+        "AI protein design breakthrough September 2026",
+        "AI drug discovery model news September 2026",
+        "AI materials discovery self-driving lab 2026",
+        "machine learning astronomy exoplanet discovery 2026",
+        "AI weather climate forecasting model 2026",
+        "quantum machine learning error correction AI 2026",
+        "AI co-scientist hypothesis generation research agent 2026",
+        "LLM reasoning cognition psychology study 2026",
+        "AI fusion plasma control physics machine learning 2026",
+        "AI genomics single-cell virtual cell model 2026"
       ]
     }
   ]

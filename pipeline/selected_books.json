@@ -1,76 +1,64 @@
 {
- "date": "2026-09-08",
- "section": "books",
- "picks": [
-  {
-   "id": "books-dosdoce-audio-ai-paper",
-   "title": "Who is Narrating the Future? AI and the Audiobook Market",
-   "url": "https://publishingperspectives.com/2026/09/who-is-narrating-the-future-ai-and-the-audiobook-market/",
-   "source": "Publishing Perspectives",
-   "category": "books",
-   "published_iso": "2026-09-07T12:39:46+00:00",
-   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg",
-   "excerpt": "Frankfurter Buchmesse white paper by Dosdoce.com: 85 audio experts, 85% use AI somewhere in production but only 17% across six or more phases; reported savings 20-50%, far below vendor claims.",
-   "tool": "Books",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "rationale": "First hard numbers on how far AI has actually moved into audiobook production workflows, and where it stalls."
-  },
-  {
-   "id": "books-nairobi-essay-collapse",
-   "title": "How AI wiped out an entire industry in Nairobi",
-   "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
-   "source": "The Decoder",
-   "category": "books",
-   "published_iso": "2026-09-07T13:18:57+00:00",
-   "og_image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
-   "excerpt": "At least 40,000 Nairobi writers made a living drafting academic papers; after ChatGPT prices and orders collapsed, and what remains is 'humanizer' work rewriting AI text.",
-   "tool": "Books",
-   "accent": "#7928ca",
-   "motif": "swatch",
-   "rationale": "The clearest case study yet of a writing trade erased by a general model, and of the humanizing work that replaces it."
-  },
-  {
-   "id": "books-library-upskill-ai",
-   "title": "Secrets of Effective Upskilling",
-   "url": "https://americanlibrariesmagazine.org/2026/09/01/secrets-of-effective-upskilling/",
-   "source": "American Libraries",
-   "category": "books",
-   "published_iso": "2026-09-01T12:56:49+00:00",
-   "og_image": "https://americanlibrariesmagazine.org/wp-content/uploads/2026/08/0926w.FEAT3-editions.jpg",
-   "excerpt": "An excerpt from Ann Medaille's ALA Editions book argues that with AI and automation reshaping library work, formal training covers only 10% of learning; the other 90% needs experiences, exposure and environment.",
-   "tool": "Books",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "rationale": "A concrete operating model for retraining a whole staff while AI shifts the job under them."
-  },
-  {
-   "id": "books-journal-2030-ai",
-   "title": "New Directions Seminar: What Is a Journal in 2030?",
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/04/new-directions-seminar-what-is-a-journal-in-2030/",
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "published_iso": "2026-09-04T09:30:08+00:00",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/og_1200x630_new-directions-26-3-1024x535.png",
-   "excerpt": "SSP's New Directions Seminar puts editorial judgment in an AI-enabled environment at the center of its program, asking publishers to co-create the near-term future rather than wait for it.",
-   "tool": "Books",
-   "accent": "#eb367f",
-   "motif": "swatch",
-   "rationale": "Frames the live question for any editorial org: what is left of human judgment once AI sits inside the workflow."
-  },
-  {
-   "id": "books-aap-mosaic-amicus",
-   "title": "Book, News, and Journal Publishers File Amicus Brief in In Re Mosaic LLM Litigation",
-   "url": "https://publishers.org/news/book-news-and-journal-publishers-file-amicus-brief-in-in-re-mosaic-llm-litigation/",
-   "source": "Association of American Publishers",
-   "category": "books",
-   "published_iso": "2026-08-27T23:29:46+00:00",
-   "og_image": "https://publishers.org/wp-content/uploads/2020/06/aap-default-news.jpg",
-   "excerpt": "AAP, News/Media Alliance and STM filed an amicus brief in In Re Mosaic LLM Litigation, urging Judge Charles Breyer to deny Mosaic and Databricks' summary-judgment motion and hold that training LLMs on copyrighted books is not fair use.",
-   "tool": "Books",
-   "accent": "#0070f3",
-   "motif": "swatch",
-   "rationale": "Publishers' trade bodies put the argument in writing: training expressive works to make competing expressive output is not transformative. Recovery pass pick."
-  }
- ]
+  "date": "2026-09-09",
+  "section": "books",
+  "picks": [
+    {
+      "tool": "Books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "headline": "Authors Guild publishes survey results about copyright registration failures",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
+      "published_iso": "2026-08-26T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Authors ruled ineligible for the Anthropic settlement discovered their publishers never registered their titles with the U.S. Copyright Office — an administrative failure that is now costing writers real money.",
+      "rationale": "500+ authors, 1,400 books: hard data showing publishers skipped a contractual duty that just cost writers $3,000 a title — directly actionable for any author's next contract."
+    },
+    {
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "published_iso": "2026-09-06T20:47:37Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "excerpt": "As payouts from the $1.5 billion Anthropic copyright settlement begin, authors say publishers and agents appear to be claiming more than their contractual share of the roughly $3,000 owed per infringed work.",
+      "rationale": "New beat beyond the publisher-error story already run: literary agencies are claiming a cut despite holding no rights, plus the Aug 10 2022 reversion cutoff authors need to dispute."
+    },
+    {
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "headline": "AI Updates, Remembering Dolly Parton, and More News for Library Workers",
+      "source": "Book Riot",
+      "url": "https://bookriot.com/news-for-library-workers-september-8-2026/",
+      "published_iso": "2026-09-08T10:01:00Z",
+      "og_image": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg",
+      "excerpt": "Book Riot's weekly roundup for library workers leads with the latest AI developments hitting libraries — from vendor AI features to policy fights over AI-generated material in collections.",
+      "rationale": "Freshest item in the pool and the only one reporting the physical-supply side: AI firms buying up secondhand stock, rare books routed to an Amazon training facility."
+    },
+    {
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "headline": "Audible Ramps Up English Translations of European Audiobooks",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/101185-audible-ramps-up-english-translations-of-european-audiobooks.html",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131280-1.PNG",
+      "excerpt": "Audible says it has quadrupled the number of titles translated into English from European languages this year, with European translations up 300% year-over-year — and a spokesperson confirmed every one of them was done by humans, not AI.",
+      "rationale": "Recovery pass pick: the only fresh, non-duplicate AI-angle books story left in the window. At the exact moment Audible is pushing AI narration and AI translation to publishers, its own fastest-growing translation slate is explicitly all-human — a hard datapoint for the human-vs-machine translation question."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "reason": "CONTENT dedup — same launch as books-google-rolls-out-ai-chatbots (Jane Friedman) published 2026-09-05, which already covered Expert Intelligence and the 100k-title catalogue."
+    },
+    {
+      "url": "https://the-digital-reader.com/how-independent-publishers-can-use-ai-drawing-lip-sync-to-invite-readers-into-a-story/",
+      "reason": "Credibility — sponsored SEO content farm page (affiliate link to lipsync.video, German browser boilerplate, sibling posts on condo sales and casino games). Not a real release, feature or finding."
+    }
+  ]
 }

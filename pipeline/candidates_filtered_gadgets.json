@@ -1,210 +1,130 @@
 {
-  "date": "2026-09-08",
-  "window_hours": 336,
+  "date": "2026-09-09",
   "section": "gadgets",
+  "now_iso": "2026-09-08T22:15:00Z",
+  "window_hours": 336,
   "items": [
     {
-      "title": "This tiny AI box could save me from upgrading my perfectly good laptop",
-      "url": "https://www.tomsguide.com/computing/laptops/violoop-hands-on-ifa-2026",
-      "source": "Tom's Guide",
-      "published_iso": "2026-09-05T14:18:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/B6hUjNrNcpYQiezaSjWsUi-2560-80.jpg",
-      "excerpt": "Violoop showed a small hardware AI assistant at IFA 2026 that plugs into an existing Windows PC or Mac, reads on-screen workflows and performs multi-step actions on your behalf while keeping its memory graph on-device.",
-      "category": "gadgets"
+      "source": "Engadget",
+      "category": "gadgets",
+      "headline": "The best things I saw at IFA 2026",
+      "url": "https://www.engadget.com/2252471/best-of-ifa-2026/",
+      "published_iso": "2026-09-08T13:15:00+00:00",
+      "excerpt": "Engadget's editors round up the concept PCs, cameras, chargers and AI-infused hardware that stood out on the show floor in Berlin. It is a snapshot of where consumer AI hardware actually is in late 2026, past the hype reels.",
+      "og_image": "https://www.engadget.com/img/gallery/the-best-things-i-saw-at-ifa-2026/l-intro-1788867447.jpg"
     },
     {
-      "title": "I just went hands-on with the Odyss N1 — a sleek AI necklace that automatically logs everything you eat",
-      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-just-went-hands-on-with-the-odyss-n1-a-sleek-ai-necklace-that-automatically-logs-everything-you-eat",
-      "source": "Tom's Guide",
-      "published_iso": "2026-09-05T16:07:23Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-2560-80.jpg",
-      "excerpt": "A triangular metal pendant with a camera and accelerometer, shown as a concept at IFA 2026, that detects what and when you eat without you photographing meals.",
-      "category": "gadgets"
-    },
-    {
-      "title": "iRobot Roomba Duo is the Transformers of robot vacuums — and we just saw it live",
-      "url": "https://www.tomsguide.com/home/irobot-roomba-duo-is-like-the-transformers-of-robot-vacuums-mechanical-arm-releases-companion-robot-for-tight-spaces",
-      "source": "Tom's Guide",
-      "published_iso": "2026-09-04T15:50:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/S6frw2h2Xh4egT2eQpmLUB-2560-80.jpg",
-      "excerpt": "iRobot's Roomba Duo prototype carries a second, smaller robot inside its body and lowers it with a mechanical arm to clean tight spaces.",
-      "category": "gadgets"
-    },
-    {
-      "title": "This New iRobot Concept Is the Matryoshka of Robot Vacuums",
-      "url": "https://gizmodo.com/this-new-irobot-concept-is-the-matryoshka-of-robot-vacuums-2000807453",
-      "source": "Gizmodo",
-      "published_iso": "2026-09-04T15:45:35+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching-1200x675.jpg",
-      "excerpt": "iRobot's Roomba Duo concept at IFA 2026 holds a smaller companion robot in a cavity and deploys it with an arm for spaces the big bot can't reach.",
-      "category": "gadgets"
-    },
-    {
-      "title": "These earbuds may be the only translation tool you need overseas",
-      "url": "https://www.androidauthority.com/timekettle-w4-plus-ai-interpreter-earbuds-launch-3706943/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-04T07:00:25+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-All-Colors-White-Background-Scaled.jpg",
-      "excerpt": "Timekettle's W4 Plus interpreter earbuds run Babel OS 3.0, cover 52 languages and 13 offline pairs, and add conversation memory and live summaries.",
-      "category": "gadgets"
-    },
-    {
-      "title": "The new W4 Plus is Timekettle's most capable AI interpreter earbuds yet",
-      "url": "https://www.androidauthority.com/timekettle-w4-plus-3706119/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-05T14:21:33+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Timekettle-W4-plus-featured.jpg",
-      "excerpt": "Hands-on with Timekettle's W4 Plus interpreter earbuds, which translate two-way conversations and calls in real time.",
-      "category": "gadgets"
-    },
-    {
-      "title": "5 new features coming to your phone with the September 2026 Android Drop",
-      "url": "https://www.androidauthority.com/september-2026-android-drop-3705528/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-01T18:00:57+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Pixel-11-vs-Galaxy-S26-scaled.jpg",
-      "excerpt": "September's Android Drop adds Gemini-powered features including item memory in Find Hub.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Roborock shows off a series of new vacuums at IFA 2026",
+      "source": "Engadget",
+      "category": "gadgets",
+      "headline": "Roborock shows off a series of new vacuums at IFA 2026",
       "url": "https://www.engadget.com/2250013/roborock-shows-off-a-series-of-new-vacuums-at-ifa-2026/",
-      "source": "Engadget",
       "published_iso": "2026-09-03T11:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/roborock-shows-off-a-series-of-new-vacuums-at-ifa-2026/l-intro-1788387970.jpg",
-      "excerpt": "Roborock brought new robovacs, a robomower and a pool cleaner to IFA 2026, including the Saros 20 Flow that recognizes 300 obstacle types.",
-      "category": "gadgets"
+      "excerpt": "Roborock unveiled several new robot vacuums, a robotic mower and a pool cleaner at IFA 2026, leaning on AI vision to recognize obstacles and adapt cleaning routes. The lineup shows how far on-device perception has moved into ordinary home appliances.",
+      "og_image": "https://www.engadget.com/img/gallery/roborock-shows-off-a-series-of-new-vacuums-at-ifa-2026/l-intro-1788387970.jpg"
     },
     {
-      "title": "iRobot's new $1,199 Roomba Max 875 Combo is its most powerful robot yet",
-      "url": "https://www.engadget.com/2249331/irobot-roomba-max-875-plus-678-combo/",
       "source": "Engadget",
-      "published_iso": "2026-09-02T11:34:36+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/irobots-new-1199-roomba-max-875-combo-is-its-most-powerful-robot-yet/l-intro-1788348805.jpg",
-      "excerpt": "iRobot launched the $1,199 Roomba Max 875 Combo and $899 Roomba Plus 678 Combo at IFA 2026.",
-      "category": "gadgets"
+      "category": "gadgets",
+      "headline": "Lenovo unveils two Yoga laptops with NVIDIA's RTX Spark",
+      "url": "https://www.engadget.com/2250161/lenovo-yoga-pro-9n-nvidia-rtx-spark-ifa-2026/",
+      "published_iso": "2026-09-03T16:00:00+00:00",
+      "excerpt": "Lenovo announced Yoga laptops built around NVIDIA's RTX Spark silicon, positioning them as local AI workstations for creators. The machines are pitched at running generative models on the device rather than in the cloud.",
+      "og_image": "https://www.engadget.com/img/gallery/lenovo-unveils-two-yoga-laptops-with-nvidias-rtx-spark/l-intro-1788430878.jpg"
     },
     {
-      "title": "Acer Project DualPlay Mini concept hands-on: Flipping from powerful handheld to powerful tiny laptop",
-      "url": "https://www.engadget.com/2251692/acer-project-dualplay-mini-concept-hands-on-ifa-2026/",
-      "source": "Engadget",
-      "published_iso": "2026-09-05T14:10:05+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/acer-project-dualplay-mini-concept-hands-on-flipping-from-powerful-handheld-to-powerful-tiny-laptop/l-intro.jpg",
-      "excerpt": "Acer's DualPlay Mini concept folds from a handheld gaming PC into a netbook-style laptop with a rotating display hinge.",
-      "category": "gadgets"
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "I just went hands-on with the viral iKarios AI pendant — and I'm still not completely sure what it's for",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-just-went-hands-on-with-the-viral-ikarios-ai-pendant-and-im-still-not-completely-sure-what-its-for",
+      "published_iso": "2026-09-08T20:44:55Z",
+      "excerpt": "The iKairos is an always-listening pendant with a small animated face, pitched at IFA 2026 as a wearable 'second memory' that transcribes and recalls your day. Tom's Guide found the hardware charming but the use case still unresolved.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/f8Xewm5XDRRZ5YXM7gSL8H-2560-80.jpg"
     },
     {
-      "title": "XDA's top tech from IFA 2026: Colorful laptops, fanless cooling, and more",
-      "url": "https://www.xda-developers.com/xda-best-in-show-ifa-2026/",
-      "source": "XDA",
-      "published_iso": "2026-09-05T13:00:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/featured-2.jpg",
-      "excerpt": "XDA's picks from IFA 2026, including Lenovo's fanless AeroBlade concept and colorful AI laptops.",
-      "category": "gadgets"
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "Anker just launched a ton of new products at IFA 2026 — including an AI-powered home hub",
+      "url": "https://www.tomsguide.com/home/anker-just-launched-a-ton-of-new-products-at-ifa-2026-including-an-ai-powered-home-hub",
+      "published_iso": "2026-09-03T02:30:00Z",
+      "excerpt": "Anker introduced MindBase, an AI smart-home hub with a 26 TOPS on-device chipset that runs a local language model for natural-language search across cameras and files. It is part of a 22-product IFA push and a brand unification.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6MxBGKhBJQL6FvKrVdBiiT-1920-80.jpg"
     },
     {
-      "title": "Lenovo's new Yoga laptops go all-in on RTX Spark, and they're only part of a massive new lineup",
-      "url": "https://www.xda-developers.com/lenovo-new-yoga-laptops-go-all-in-on-rtx-spark-new-line-up/",
-      "source": "XDA",
-      "published_iso": "2026-09-03T16:00:16Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/rtx-spark-laptop-in-tent-mode.jpg",
-      "excerpt": "Lenovo's IFA 2026 Yoga line leans on NVIDIA RTX Spark silicon for local AI work.",
-      "category": "gadgets"
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "Circular just announced two new smart rings at IFA 2026: I sat down with their CEO to find out more",
+      "url": "https://www.tomsguide.com/wellness/smart-rings/circular-just-announced-two-new-smart-rings-at-ifa-2026-i-sat-down-with-their-ceo-to-find-out-more",
+      "published_iso": "2026-09-03T16:00:00Z",
+      "excerpt": "Circular revealed the Ring 3 in Slim and Pro versions, slimmer than the Ring 2 and adding NFC contactless payments plus haptic alerts for alarms and medication. The company frames the AI health coaching as the reason to keep it on your finger.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QK2yMX4p6uBqotjSaahz44-2160-80.jpg"
     },
     {
-      "title": "Qualcomm's next Snapdragon flagship chip has 5 GHz Oryon CPU",
-      "url": "https://9to5google.com/2026/08/25/qualcomm-next-snapdragon-oryon-cpu/",
-      "source": "9to5Google",
-      "published_iso": "2026-08-25T13:00:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Qualcomm-next-Snapdragon-Oryon-CPU.jpg",
-      "excerpt": "Qualcomm previews the Oryon CPU in its next-generation Snapdragon flagship platform, the first mobile CPU at 5 GHz.",
-      "category": "gadgets"
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "headline": "Gizmodo's Best of IFA 2026 Awards: See the Winners",
+      "url": "https://gizmodo.com/gizmodos-best-of-ifa-2026-awards-see-the-winners-2000800027",
+      "published_iso": "2026-09-05T21:45:09+00:00",
+      "excerpt": "Gizmodo names the hardware that most impressed it at IFA 2026 in Berlin, with AI-assisted home devices, wearables and laptops dominating the winners list.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Gizmodo-IFA-2026-Best-of-Option-1-1200x675.jpg"
     },
     {
-      "title": "Apple will launch six major new products next week, here's what's coming",
-      "url": "https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/",
-      "source": "9to5Mac",
-      "published_iso": "2026-09-03T14:25:36+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg",
-      "excerpt": "Apple's September 9 event is expected to bring iPhone 18 Pro, a foldable iPhone, Apple Watch Series 12 and Ultra 4, and AirPods 5.",
-      "category": "gadgets"
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "headline": "Reolink Debuts OMVI 2i Ultra, Home Hub 2, and TrackFlex WiFi at IFA 2026",
+      "url": "https://gizmodo.com/reolink-debuts-omvi-2i-ultra-home-hub-2-and-trackflex-wifi-at-ifa-2026-expanding-key-product-lines-and-driving-innovation-2000802694",
+      "published_iso": "2026-09-04T11:05:59+00:00",
+      "excerpt": "Reolink expanded its security camera line at IFA 2026 with the OMVI 2i Ultra and a second-generation Home Hub, pushing AI subject detection and local processing deeper into the camera itself.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Reolink_IFA-1200x675.jpg"
     },
     {
-      "title": "Apple Watch Series 12: Three new features coming next week",
-      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-      "source": "9to5Mac",
-      "published_iso": "2026-09-01T19:18:04+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg",
-      "excerpt": "Apple Watch Series 12 is rumored to add an upgraded S-chip built for on-device Siri AI, always-on heart monitoring and expanded hypertension alerts.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Will Apple's 'revamped' Health app with AI health coach debut next month?",
-      "url": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
-      "source": "9to5Mac",
-      "published_iso": "2026-08-29T21:38:00+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg",
-      "excerpt": "Reports point to a revamped Health app with an AI health coach arriving alongside the next Apple Watch.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Best of IFA 2026: MacBook Neo competitors, monitors, and wild laptop concepts",
-      "url": "https://www.tomshardware.com/tech-industry/best-of-ifa-2026",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-05T12:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL-1999-80.png",
-      "excerpt": "Tom's Hardware's IFA 2026 picks, including a NAS built around AMD's Ryzen AI Max+ 495 for local models.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Apple Event: Six New Products to Expect on September 9",
-      "url": "https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/",
-      "source": "MacRumors",
-      "published_iso": "2026-08-27T08:00:00-07:00",
-      "og_image": "https://images.macrumors.com/t/3KxQ1Cj5B33XoyogmjHvpHDtHDE=/2048x/article-new/2026/08/Apple-Surprise-Shine.jpeg",
-      "excerpt": "Apple confirmed a September 9 event where six new products are widely expected.",
-      "category": "gadgets"
-    },
-    {
-      "title": "IFA 2026 Winner viaim Rise Launching on Indiegogo September 8 – The Future of AI Agent Hearables",
-      "url": "https://www.notebookcheck.net/IFA-2026-Winner-viaim-Rise-Launching-on-Indiegogo-September-8-The-Future-of-AI-Agent-Hearables.1392363.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-07T17:19:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/viaim-IFA-2026.jpg",
-      "excerpt": "viaim Rise earbuds pair a 'Listen, Think, Act' agent loop with ChatGPT, Claude and Gemini to turn captured conversations into drafts and tasks.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Anker soundcore AeroClip 2 launches with 12 mm driver, LDAC and Whisper Mode calls",
-      "url": "https://www.notebookcheck.net/Anker-soundcore-AeroClip-2-launches-with-12-mm-driver-LDAC-and-Whisper-Mode-calls.1386256.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-03T09:30:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Anekr-Soundcore-Aerocip-2.png",
-      "excerpt": "Anker's open-ear clip gets a Pro model with on-device note-taking and searchable local recordings.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Ugreen releases its first smart speaker with Uliya AI assistant",
-      "url": "https://www.notebookcheck.net/Ugreen-releases-its-first-smart-speaker-with-Uliya-AI-assistant.1387679.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-04T07:28:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Speaker-Ugreen.png",
-      "excerpt": "Ugreen's first Bluetooth smart speaker embeds its own Uliya AI assistant alongside a three-driver acoustic system.",
-      "category": "gadgets"
-    },
-    {
-      "title": "Vodafone's new SuperMobile plan is designed for a future in which Meta Glasses are as ubiquitous as phones",
-      "url": "https://www.techradar.com/computing/wi-fi-broadband/if-you-believe-in-the-potential-of-ai-then-you-also-believe-in-the-potential-of-supermobile-vodafones-new-premier-connectivity-plan-is-designed-for-a-future-in-which-meta-glasses-are-as-ubiquitous-as-phones",
       "source": "TechRadar",
-      "published_iso": "2026-09-02T23:01:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/d9QEcSoKNvwDX9Ju47DdJa-1780-80.jpg",
-      "excerpt": "Vodafone's SuperMobile tier is built for latency-sensitive generative-AI devices like smart glasses.",
-      "category": "gadgets"
+      "category": "gadgets",
+      "headline": "IFA 2026 'Best in Show' awards: our 25 favorite reveals at the Berlin tech expo",
+      "url": "https://www.techradar.com/tech/ifa-2026-best-in-show-awards-our-25-favorite-reveals-at-the-berlin-tech-expo-from-somersaulting-robots-to-modular-solar-batteries-for-renters",
+      "published_iso": "2026-09-04T12:33:02Z",
+      "excerpt": "TechRadar picks 25 standouts from IFA 2026, from somersaulting robots to exoskeletons and modular solar batteries. The through-line is AI moving out of apps and into physical objects.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE-2560-80.jpg"
+    },
+    {
+      "source": "Android Authority",
+      "category": "gadgets",
+      "headline": "The new W4 Plus is Timekettle's most capable AI interpreter earbuds yet",
+      "url": "https://www.androidauthority.com/timekettle-w4-plus-3706119/",
+      "published_iso": "2026-09-05T14:21:33+00:00",
+      "excerpt": "Timekettle's W4 Plus interpreter earbuds, shown at IFA 2026, run Babel OS 3.0 with conversation memory across multi-turn discussions and live summaries. Noise reduction is 32-47% better at catching low-volume voices than the standard W4.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Timekettle-W4-plus-featured.jpg"
+    },
+    {
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "headline": "Best of IFA 2026: MacBook Neo competitors, monitors, and wild laptop concepts",
+      "url": "https://www.tomshardware.com/tech-industry/best-of-ifa-2026",
+      "published_iso": "2026-09-05T12:05:00Z",
+      "excerpt": "Tom's Hardware rounds up IFA 2026's notebook news, where NPU-heavy silicon from AMD, Qualcomm and NVIDIA defined nearly every launch. Concept machines pushed local AI as the differentiator over cloud services.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL-1999-80.png"
+    },
+    {
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "headline": "XDA's top tech from IFA 2026: Colorful laptops, fanless cooling, and more",
+      "url": "https://www.xda-developers.com/xda-best-in-show-ifa-2026/",
+      "published_iso": "2026-09-05T13:00:17Z",
+      "excerpt": "XDA's best-in-show list from IFA 2026 highlights AI-capable laptops, fanless designs and home hardware. The picks emphasize what actually ships rather than concept demos.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/featured-2.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "source": "9to5Google",
+      "category": "gadgets",
+      "headline": "Sept. 2026 Android Drop: Find Hub 'Remembered' list, Motion Assist, & Keep in Google Messages",
+      "url": "https://9to5google.com/2026/09/01/september-2026-android-drop/",
+      "published_iso": "2026-09-01T18:00:00+00:00",
+      "excerpt": "Google's September Android Drop lets Gemini remember where you physically put objects and adds Guided Vision, which narrates what the camera sees for low-vision users. Motion Assist on Android 17+ overlays moving bubbles to reduce car sickness.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Sept-2026-Android-Drop.jpg?quality=82&strip=all&resize=1200,62"
     }
   ],
   "dedup": {
     "dropped": 1,
-    "kept": 22,
+    "kept": 13,
     "against_days": 5
   }
 }

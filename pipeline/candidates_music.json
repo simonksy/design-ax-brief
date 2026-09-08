@@ -1,117 +1,134 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "music",
+  "now_iso": "2026-09-08T22:15:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Scaler EQ Pro Announced With Note-Aware EQ And MIDI-Controlled Live Mode",
-      "url": "https://www.production-expert.com/production-expert-1/scaler-eq-pro-announced-with-note-aware-eq-and-midi-controlled-live-mode",
-      "source": "Production Expert",
+      "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-09-07T00:00:00Z",
-      "og_image": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/ab02a384-f7b1-42b1-95ec-919e832f1223/Scaler+EQ+Pro+Announced+With+Note-Aware+EQ+And+MIDI-Controlled+Live+Mode.webp",
-      "excerpt": "Scaler EQ Pro detects a track's key automatically and boosts frequencies inside that key while cutting the ones outside it. Adds MIDI-controlled Live Mode, dynamic EQ with sidechain, mid/side, zero latency. $99, ships 23 September 2026.",
-      "freshness": "FRESH"
+      "headline": "Suno Inks ‘Strategic Partnership’ With Believe",
+      "url": "https://www.billboard.com/pro/suno-believe-strategic-partnership/",
+      "published_iso": "2026-09-08T20:00:00+00:00",
+      "excerpt": "AI music platform Suno has signed a strategic partnership with French music giant Believe, adding another major distributor to the licensed side of its business. The deal extends Suno's push to build industry-sanctioned models and revenue paths for artists even as it fights copyright suits elsewhere.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg?w=1024"
     },
     {
-      "title": "Initial D artist MOTSU releases FREE zero-latency vocal tuner MotTune MIDI",
-      "url": "https://bedroomproducersblog.com/2026/09/05/mottune-midi/",
-      "source": "Bedroom Producers Blog",
+      "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-09-05T00:00:00Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/mottune-midi-728x364.jpg",
-      "excerpt": "MOTSU of m.o.v.e and DeeJei.Tokyo released MotTune MIDI, a free real-time pitch correction and vocoder plugin with a zero-latency live mode you drive from MIDI. The companion iPhone app separates vocals from songs on-device.",
-      "freshness": "FRESH"
+      "headline": "Armin van Buuren and Laidback Luke Partner With ‘Responsible’ AI Music Company Moises",
+      "url": "https://www.billboard.com/pro/armin-van-buuren-and-laidback-luke-partner-with-moises/",
+      "published_iso": "2026-09-02T16:00:00+00:00",
+      "excerpt": "Trance stars Armin van Buuren and Laidback Luke have partnered with Moises, an AI music company that positions itself around consent-based, artist-approved models. The tie-up puts working producers' voices and stems into the loop of how AI production tools are trained and used.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/armin-van-buuren-laidback-luke-2026-press-cr-moises-billboard-1800.jpg?w=1024"
     },
     {
-      "title": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
-      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
-      "source": "Synthtopia",
+      "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck-728x408.png",
-      "excerpt": "StemDeck is a free open-source stem separator that splits a track into six stems locally, with no account, quota or upload. It takes files or a YouTube URL and gives you a DAW-style multitrack mixer for export.",
-      "freshness": "FRESH"
+      "headline": "Jason Isbell Files Class Action Lawsuit Claiming Suno Coded AI to ‘Extract Musicians’ Identities’",
+      "url": "https://www.billboard.com/pro/jason-isbell-class-action-lawsuit-ai-music-platform-suno/",
+      "published_iso": "2026-09-01T18:17:14+00:00",
+      "excerpt": "Jason Isbell filed a class action against Suno accusing the platform of designing its generator to evoke identifiable artists' vocal and stylistic characteristics. The suit shifts the fight from training data to the output side — whether a model can legally sound like a specific human performer.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/2246607714-e1788285629641.jpg?w=1024"
     },
     {
-      "title": "Is AI Slop Giving Artists and Creators a New Life?",
-      "url": "https://www.hypebot.com/is-ai-slop-giving-artists-and-creators-a-new-life/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-09-03T00:00:00Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/09/9-2-Tal-Gonen.jpg",
-      "excerpt": "Fiverr data shows demand for human music trades climbing as AI output floods the market: topline writing up 466%, songwriting up 426%, strings up 116%. Olivia Rodrigo's handmade lyric-video commission became news on its own.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "Sonos CEO explains how 'Custom Agents' will work for listeners",
-      "url": "https://musically.com/2026/09/07/sonos-ceo-explains-how-custom-agents-will-work-for-listeners/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-09-07T00:00:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T130717.620.png",
-      "excerpt": "Sonos CEO Tom Conrad described Custom Agents: listeners pick an inference engine (Anthropic, OpenAI, Gemini, Grok), give it a voice, a name and a personality, then run several at once for recommendations or live-music discovery.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "klattsch Turns 1980s Speech Synthesis Into A Singing Instrument",
-      "url": "https://www.synthtopia.com/content/2026/09/03/klattsch-turns-1980s-speech-synthesis-into-a-singing-instrument/",
-      "source": "Synthtopia",
-      "category": "music",
-      "published_iso": "2026-09-03T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Crash United's klattsch rebuilds Dennis Klatt's 1980 formant synthesizer as a playable singing instrument, with a piano roll, phoneme assignment and hand-drawn pitch curves. Free in the browser, $9.99 on desktop and Android.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "'Human-First' Needs More Than Just a Checkbox",
-      "url": "https://www.hypebot.com/human-first-needs-more-than-just-a-checkbox/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "og_image": "",
-      "excerpt": "An argument that human-first labelling on music platforms means little without process transparency behind it.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "Mark My Words: AI Music Is the End of the Artist Economy",
-      "url": "https://www.hypebot.com/mark-my-words-ai-music-is-the-end-of-the-artist-economy/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-08-25T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Opinion piece arguing generative music tools break the economics independent artists depend on.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "Pros Discuss AI In Music Production - Tool, Threat Or The Future?",
-      "url": "https://www.production-expert.com/production-expert-1/pros-discuss-ai-in-music-production-tool-threat-or-the-future",
-      "source": "Production Expert",
-      "category": "music",
-      "published_iso": "2026-09-04T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Working engineers and producers debate where AI already sits in their sessions and where they refuse to let it in.",
-      "freshness": "FRESH"
-    },
-    {
-      "title": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians",
-      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
       "source": "Complete Music Update",
       "category": "music",
-      "published_iso": "2026-09-02T00:00:00Z",
-      "og_image": "",
-      "excerpt": "David Lowery, Jason Isbell and others sue Suno claiming it encoded musicians' identities into its model, a publicity-rights claim rather than a copyright one.",
-      "freshness": "FRESH"
+      "headline": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians rather than infringing their copyrights",
+      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
+      "published_iso": "2026-09-02T16:18:00+00:00",
+      "excerpt": "A group of musicians claim Suno violated their US publicity rights by \"encoding musicians' identities into its AI model\" — a legal theory that sidesteps copyright entirely. If it lands, it would put a new constraint on what generative music models are allowed to imitate.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/suno-v-justice.png"
     },
     {
-      "title": "Experimental Tool Promises To Give The Roland Aira Eurorack Effects Modules New Superpowers",
-      "url": "https://www.synthtopia.com/content/2026/09/01/experimental-tool-promises-to-give-the-roland-aira-eurorack-effects-modules-new-superpowers/",
+      "source": "Complete Music Update",
+      "category": "music",
+      "headline": "Universal and Sony file amended Suno lawsuit after judge gives all clear to add stream ripping claims",
+      "url": "https://completemusicupdate.com/universal-and-sony-file-amended-suno-lawsuit-after-judge-gives-all-clear-to-add-stream-ripping-claims/",
+      "published_iso": "2026-08-28T16:15:40+00:00",
+      "excerpt": "Universal and Sony have filed an amended complaint against Suno after a judge allowed them to add stream ripping allegations. The claims target how the training set was acquired, which may prove easier to demonstrate than the fair-use question at the heart of the case.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/Suno-copy-paste.png"
+    },
+    {
+      "source": "Complete Music Update",
+      "category": "music",
+      "headline": "Donald Trump’s DoJ says OpenAI should be able to do whatever it wants with copyright protected works",
+      "url": "https://completemusicupdate.com/donald-trumps-doj-says-openai-should-be-able-to-do-whatever-it-wants-with-copyright-protected-works/",
+      "published_iso": "2026-09-03T16:28:56+00:00",
+      "excerpt": "The US Department of Justice intervened in the New York Times v OpenAI case to argue that AI training is fair use under American copyright law. The position would directly weaken the music industry's central argument in its own suits against Suno and Udio.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Trump-AI.png"
+    },
+    {
+      "source": "Music Ally",
+      "category": "music",
+      "headline": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
+      "url": "https://musically.com/2026/09/04/suno-pulls-unapproved-mary-j-blige-ad-campaign-citing-deception/",
+      "published_iso": "2026-09-04T12:30:00+00:00",
+      "excerpt": "An ad campaign featuring Mary J. Blige for AI-music platform Suno was pulled after it emerged she had not approved it. Suno blamed a deceptive third party, but the episode underlines how fragile artist consent is in AI music marketing.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "source": "Music Ally",
+      "category": "music",
+      "headline": "Sonos CEO explains how ‘Custom Agents’ will work for listeners",
+      "url": "https://musically.com/2026/09/07/sonos-ceo-explains-how-custom-agents-will-work-for-listeners/",
+      "published_iso": "2026-09-07T12:30:00+00:00",
+      "excerpt": "Sonos' CEO detailed 'Custom Agents', a feature letting listeners build their own AI agents inside the system, each with its own model, persona and voice. It points at a near future where the listening layer, not just the making layer, is AI-mediated.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T130717.620.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "source": "Attack Magazine",
+      "category": "music",
+      "headline": "Dreamtonics Completes Its Trilogy With Instrument X",
+      "url": "https://www.attackmagazine.com/news/dreamtonics-completes-its-trilogy-with-instrument-x/",
+      "published_iso": "2026-09-02T13:23:20+00:00",
+      "excerpt": "Dreamtonics has launched Instrument X, a neural acoustic modelling platform for orchestral strings, woodwinds and brass. Instead of streaming multi-gigabyte sample libraries, it synthesises performances from a model that reacts to pitch, note length and musical context.",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png"
+    },
+    {
       "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "og_image": "",
-      "excerpt": "A community tool unlocks custom processing on Roland's Aira Eurorack effect modules.",
-      "freshness": "FRESH"
+      "headline": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
+      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
+      "published_iso": "2026-08-27T13:58:21+00:00",
+      "excerpt": "StemDeck is a free, open-source stem extraction platform that isolates vocals, drums, bass, piano and guitar from any mix. It brings up-to-six-stem separation — until recently a paid cloud service — into a local, cross-platform tool for practice, transcription and remixing.",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png"
+    },
+    {
+      "source": "Gearnews",
+      "category": "music",
+      "headline": "AI Music Charts 2026: Australia Bans AI-Generated Songs, Joining a Growing Global Trend",
+      "url": "https://www.gearnews.com/ai-music-charts-tech/",
+      "published_iso": "2026-08-29T12:22:15+02:00",
+      "excerpt": "Australia has barred fully AI-generated songs from its official charts, joining more than 20 countries that now exclude them. Chart bodies are becoming a de facto standards layer, forcing disclosure of how much of a track a human actually made.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg"
+    },
+    {
+      "source": "MusicRadar",
+      "category": "music",
+      "headline": "Stella Parton urges people to stop creating AI ‘endless garbage’ about her late sister Dolly",
+      "url": "https://www.musicradar.com/artists/singers-songwriters/show-more-compassion-and-wisdom-as-we-move-forward-in-life-use-my-sisters-life-as-an-example-for-tolerance-and-respect-to-towards-others-stella-parton-urges-people-to-stop-creating-ai-and-endless-garbage-about-her-late-sister",
+      "published_iso": "2026-09-07T14:41:12+00:00",
+      "excerpt": "Stella Parton has publicly asked people to stop generating AI images, songs and stories about her late sister Dolly Parton. Her appeal is a reminder that posthumous likeness is now the most exposed surface in AI music culture.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/L2GEfYzgnn3EMKjFcyu4cE-2000-80.jpg"
+    },
+    {
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "headline": "Roland releases Melody Flip, a FREE AI-assisted songwriting plugin",
+      "url": "https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/",
+      "published_iso": "2026-09-07T15:31:57+00:00",
+      "excerpt": "Roland has released Melody Flip, a free AI-assisted songwriting plugin for macOS and Windows built on technology developed with Sony Computer Science Laboratories. It analyses a musical reference and generates melody, chord, bass and drum variations you can export as MIDI and finish in your DAW.",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/roland-melody-flip-728x364.jpg"
+    },
+    {
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "headline": "SoundBoost updates its browser-based mastering service with Engine v4",
+      "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
+      "published_iso": "2026-09-08T13:51:52+00:00",
+      "excerpt": "SoundBoost's Engine v4 lets you steer a master with plain-language instructions instead of assembling a mastering chain by hand. It renders a three-minute track in roughly ten seconds and accepts iterative refinement requests without restarting the job.",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/soundboost-728x364.jpg"
     }
   ]
 }

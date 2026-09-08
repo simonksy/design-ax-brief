@@ -1,97 +1,66 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "science",
-  "selected_by": "ax-curator (auto-pick; user deferred)",
-  "dedup": {
-    "against": "news_data.json sections.science today+days + published_urls ledger",
-    "url_dupes_dropped": 2,
-    "content_dupes_dropped": [
-      "fusion plasma AI control (dup of 2026-09-03 science-pacman-plasma-20ms)",
-      "AI digital twins vs human subjects (dup of 2026-09-04 science-silicon-subjects)",
-      "DeepMind Co-Scientist (stale + dup of 2026-09-07 science-co-scientist)"
-    ]
-  },
-  "diversity_check": {
-    "outlets": {
-      "phys.org": 2,
-      "medicalxpress.com": 2,
-      "allenai.org": 1
-    },
-    "distinct_outlets": 3,
-    "max_per_outlet": 2,
-    "topics": [
-      "protein design",
-      "weather/climate",
-      "clinical AI",
-      "cognitive neuroscience",
-      "AI evaluation"
-    ]
-  },
   "picks": [
     {
-      "rank": 1,
-      "title": "AI-designed proteins enable a new generation of RNA transporters",
-      "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-02T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg",
-      "excerpt": "A team combined functional protein building blocks with a generative-AI-designed structural scaffold to build STV-C8, an RNA delivery vehicle. In cell culture STV-C8 delivered RNA cargo more efficiently than the virus-like particles and lipid nanoparticles tested, and in pigs it carried CRISPR/Cas9 into muscle tissue without observable toxicity.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "A generative-AI scaffold turned into a working RNA delivery vehicle that beat lipid nanoparticles in cell culture and carried CRISPR into pig muscle — protein design crossing from prediction into a usable tool."
+      "headline": "AI Has Solved One of Math's $1 Million Millennium Prize Problems",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "published_iso": "2026-09-08T08:43:52Z",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg",
+      "excerpt": "Mathematicians at OpenAI used AI to show that the Navier-Stokes equations describing fluid flow can sometimes blow up, claiming one of the Millennium Prize problems. The result is enormous but not without controversy in the mathematical community.",
+      "rationale": "OpenAI 수학자들이 AI로 나비에–스토크스 폭발 해를 제시, 밀레니엄 문제 하나가 흔들린다 — 최고 임팩트."
     },
     {
-      "rank": 2,
-      "title": "War drama Pressure depicts D-day's weather forecast—what we found when we recreated the challenge using modern systems",
-      "url": "https://phys.org/news/2026-09-war-drama-pressure-depicts-dday.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-07T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg",
-      "excerpt": "Andrew Charlton-Perez and Ed Hawkins re-ran the D-Day forecast with ECMWF's AIFS machine-learning forecasting system using newly digitised 1944 observations. The AI captured the North Sea storm and would have supported delaying the invasion from June 5 to June 6, but it underestimated the wind and cloud on June 6 — expert interpretation still mattered.",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A concrete, legible test of what an AI weather model can and cannot do: ECMWF's AIFS re-forecasting D-Day would have gotten the decision right but the severity wrong."
+      "motif": "sphere",
+      "headline": "New Google DeepMind atlas could transform our understanding of genetic diseases",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
+      "published_iso": "2026-09-08T10:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg?m=1788555841.731&w=1200",
+      "excerpt": "DeepMind released AlphaGenome Atlas, a model-built map that predicts the functional effect of any single change in the DNA sequence. Researchers say it could reshape how genetic disease variants are interpreted.",
+      "rationale": "딥마인드 AlphaGenome Atlas가 DNA 단일 변이의 기능적 효과를 예측 — 유전질환 해석 실무가 바뀐다."
     },
     {
-      "rank": 3,
-      "title": "In a third of cases, AI chatbots wrongly reassure sleep apnea patients that their symptoms aren't serious",
-      "url": "https://medicalxpress.com/news/2026-09-cases-ai-chatbots-wrongly-reassure.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-06T09:00:00-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg",
-      "excerpt": "Researchers ran 700 simulated consultations across ChatGPT, Gemini, Claude, DeepSeek and Grok with fictional obstructive sleep apnea patients. Correct specialist referral advice fell to 64% when the patient downplayed symptoms, and to 22-32% in the most severe cases, with chatbots offering lifestyle tips instead. Presented at the European Respiratory Society Congress.",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "700 simulated consultations put a number on chatbot sycophancy: correct referral advice collapses from 100% to 22-32% when the patient downplays symptoms."
+      "motif": "sphere",
+      "headline": "Physics-based AI unlocks first global predictions of carbon cycling in ocean sediments",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
+      "published_iso": "2026-09-08T16:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-based-ai-unloc.jpg",
+      "excerpt": "University of Manchester researchers built physics-informed AI emulators that make planetary-scale predictions of organic carbon exchange between seawater and seafloor sediment. They found 11% of particulate organic carbon reaching the seafloor returns to seawater as dissolved carbon, and that simpler neural nets beat larger deep models.",
+      "rationale": "물리 정보 신경망으로 해저 퇴적물 탄소 순환을 지구 규모로 처음 예측, 작은 모델이 큰 모델을 이겼다."
     },
     {
-      "rank": 4,
-      "title": "Why scientists are looking to provoke disagreement among AI brain models",
-      "url": "https://medicalxpress.com/news/2026-09-scientists-provoke-disagreement-ai-brain.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-07T09:00:00-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg",
-      "excerpt": "Columbia University researchers synthesise 'controversial stimuli' — images engineered to make competing computational brain models disagree — then show them to people to see which model matches human perception. The method indicated the visual system blends fast discriminative computation with generative modelling rather than relying on one mechanism.",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Instead of scoring models on accuracy, Columbia synthesises images that force competing brain models to disagree — a method shift for deciding which model is actually right."
+      "motif": "sphere",
+      "headline": "If AI thinks it's conscious, it's more likely to believe in vampires, karma and ghosts, new study shows",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/if-ai-thinks-its-conscious-its-more-likely-to-believe-in-vampires-karma-and-ghosts-new-study-shows-what-does-it-mean-for-how-we-use-it",
+      "published_iso": "2026-09-08T17:37:33Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a3AuW8NoFo4LG2gFHToshS-2000-80.jpg",
+      "excerpt": "A new study finds that when language models are steered toward claiming self-awareness, their outputs also drift toward supernatural beliefs. The finding complicates attempts to read model self-reports as evidence about machine cognition.",
+      "rationale": "모델의 자기보고를 의식의 증거로 읽으려는 시도에 찬물 — 인지·마음 연구 갈래를 채운다."
     },
     {
-      "rank": 5,
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://allenai.org/blog/benchmirt",
-      "source": "Ai2",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Ai2 applied multidimensional item response theory across 100 LLMs and more than 34,000 benchmark questions to audit what evaluations actually measure. Safety and general reasoning emerged as the two dominant latent dimensions, and the method can cut evaluation sets by 90% while preserving predictive accuracy.",
       "tool": "Science",
       "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Ai2 audits what LLM benchmarks actually measure across 100 models and 34,000 questions, and shows evaluation sets can shrink 90% without losing signal."
+      "motif": "sphere",
+      "headline": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+      "published_iso": "2026-09-07T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GxTRMooVe6CSuX6oTD5qGY-2560-80.png",
+      "excerpt": "Earth observation is shifting to private constellations paired with AI analysis pipelines, sharpening climate and disaster monitoring. The article weighs the scientific gains against loss of open access and verification.",
+      "rationale": "민간 위성 군집 + AI 분석으로 지구 관측이 재편, 과학적 이득과 검증 가능성 상실을 함께 짚는다."
     }
   ]
 }

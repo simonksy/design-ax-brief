@@ -1,32 +1,34 @@
 {
-  "date": "2026-09-08",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-astroburn-microseries",
-      "type": "image",
-      "src": "pipeline/media/games-astroburn-microseries.jpg"
-    },
-    {
-      "id": "games-aggro-crab-no-genai",
-      "type": "image",
-      "src": "pipeline/media/games-aggro-crab-no-genai.jpg"
-    },
-    {
-      "id": "games-dlss5-autopilot",
-      "type": "image",
-      "src": "pipeline/media/games-dlss5-autopilot.jpg"
-    },
-    {
-      "id": "games-katago-shin-jinseo",
-      "type": "image",
-      "src": "pipeline/media/games-katago-shin-jinseo.jpg"
-    },
-    {
-      "id": "games-penguin-colony-genai-gag",
-      "type": "video",
-      "src": "pipeline/media/games-penguin-colony-genai-gag.mp4",
-      "poster": "pipeline/media/games-penguin-colony-genai-gag.jpg"
-    }
-  ]
+ "date": "2026-09-09",
+ "section": "games",
+ "media": [
+  {
+   "id": "games-nhl27-ai-commentary-q7d",
+   "type": "image",
+   "src": "pipeline/media/games-nhl27-ai-commentary-q7d.jpg"
+  },
+  {
+   "id": "games-arm-mali-g2-nx-r4v",
+   "type": "video",
+   "src": "pipeline/media/games-arm-mali-g2-nx-r4v.mp4",
+   "poster": "pipeline/media/games-arm-mali-g2-nx-r4v.jpg"
+  },
+  {
+   "id": "games-dlss5-dual-gpu-mod-m3z",
+   "type": "video",
+   "src": "pipeline/media/games-dlss5-dual-gpu-mod-m3z.mp4",
+   "poster": "pipeline/media/games-dlss5-dual-gpu-mod-m3z.jpg"
+  },
+  {
+   "id": "games-eu-dev-ai-survey-t8c",
+   "type": "image",
+   "src": "pipeline/media/games-eu-dev-ai-survey-t8c.jpg"
+  },
+  {
+   "id": "games-murkmire-no-ai-mod-h5w",
+   "type": "video",
+   "src": "pipeline/media/games-murkmire-no-ai-mod-h5w.mp4",
+   "poster": "pipeline/media/games-murkmire-no-ai-mod-h5w.jpg"
+  }
+ ]
 }

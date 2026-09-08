@@ -1,133 +1,157 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "design",
+  "now_iso": "2026-09-08T22:15:00Z",
   "window_hours": 72,
-  "now_iso": "2026-09-07T22:05:00Z",
   "items": [
     {
-      "n": 1,
-      "category": "figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
-      "title": "How to take over a design built in Figma Make and develop it with Claude Code",
-      "published_iso": "2026-09-07T03:21:45Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FEarthLinkNetwork%2Fblog_public%2Fmain%2Fimages%2Fseries-007%2Fhero-devto-en.png",
-      "excerpt": "A step-by-step account of exporting a prototype built in Figma Make and continuing implementation in Claude Code, covering how to hand off the generated code, assets and design intent."
-    },
-    {
-      "n": 2,
-      "category": "render",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/ai/i-saw-nvidias-new-ai-video-tool-why-rtx-sparks-half-frame-trick-might-actually-matter-and-why-creatives-are-right-to-be-wary",
-      "title": "I saw NVIDIA's new AI video tool: why RTX Spark's half-frame trick might actually matter... and why creatives are right to be wary",
-      "published_iso": "2026-09-07T15:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3-2560-80.jpg",
-      "excerpt": "NVIDIA generates half the frames and lets local RTX Spark AI infer the rest: a Full HD two-second clip drops from about 6m30s to about 1m25s, with offline interpolation avoiding real-time frame-gen artefacts."
-    },
-    {
-      "n": 3,
+      "source": "The Verge",
       "category": "workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca",
-      "title": "AI in Product teams: In 2026, the growing impact on collaboration",
-      "published_iso": "2026-09-06T23:47:16Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg",
-      "excerpt": "A master's-thesis follow-up arguing companies have moved past piecemeal AI tool handouts into structured strategies, blurring design/engineering roles and shrinking team sizes."
+      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "published_iso": "2026-09-08T20:16:09+00:00",
+      "excerpt": "OpenAI's new ChatGPT Sketch mode lets you scribble a rough drawing and have Images 2.5 turn it into a detailed rendering, making a hand sketch part of the prompt. It pushes image generation toward the kind of sketch-and-refine loop designers already use.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all"
     },
     {
-      "n": 4,
-      "category": "tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c",
-      "title": "DESIGN.md — a shared UI design guide for working with AI",
-      "published_iso": "2026-09-06T11:15:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy51s6mmzk88f1s2d2ldp.png",
-      "excerpt": "Explains DESIGN.md, a repo-root markdown file that hands an AI agent the design system - tokens, type ramp, spacing, component rules - so generated UI stays on-brand."
-    },
-    {
-      "n": 5,
-      "category": "social",
-      "source": "Matt Wolfe (YouTube)",
-      "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
-      "title": "This AI Turns Insane Ideas Into 3D Objects",
-      "published_iso": "2026-09-07T16:06:22Z",
-      "og_image": "https://i.ytimg.com/vi/tqUEnRj0NbM/hq720.jpg",
-      "excerpt": "Tripo 2.0 turns almost any image into a full 3D model exportable to Blender, Unreal Engine or a 3D printer."
-    },
-    {
-      "n": 6,
+      "source": "The Verge",
       "category": "workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0",
-      "title": "Reading and writing are interfaces. And AI can reduce their friction.",
-      "published_iso": "2026-09-05T00:21:17Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5",
-      "excerpt": "Argues reading and writing are themselves interfaces, so the question is not whether AI reduces work but where the intellectual work moves."
+      "headline": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "published_iso": "2026-09-08T19:00:00+00:00",
+      "excerpt": "Meta unveiled Muse, a consumer AI agent that can shop, send email and plan trips on a user's behalf, after spending billions overhauling its AI strategy. The launch is a bet that agent-first interfaces, not chat windows, are the next product surface.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK169_Mark_Zuckerburg_CVIRGINIA_C.jpg?quality=90&strip=all"
     },
     {
-      "n": 7,
-      "category": "tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/petrilahdelma/i-audited-20-design-systems-for-spacing-drift-here-is-what-your-team-can-use-from-it-3ac7",
-      "title": "I audited 20 design systems for spacing drift. Here is what your team can use from it.",
-      "published_iso": "2026-09-05T21:14:57Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh1m9i3eiyhkhwavzmib8.png",
-      "excerpt": "An audit of 20 design systems measuring how spacing scales drift in practice, with a checklist teams can reuse."
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "headline": "Autodesk's AI blueprint for CAD",
+      "url": "https://develop3d.com/cad/autodesks-ai-blueprint-for-cad/",
+      "published_iso": "2026-09-08T08:40:38+00:00",
+      "excerpt": "Autodesk has laid out its AI blueprint for CAD, pairing geometry-aware models with project-level intelligence inside Fusion. The aim is an assistant that understands parts and constraints rather than just text, reshaping how engineers and industrial designers iterate.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/ImageGenerationFusionAutodeskAssistant.jpg"
     },
     {
-      "n": 8,
-      "category": "social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=-BomvzRo6N4",
-      "title": "13 Designs that Inspired MIT Professor Zach Lieberman I Source Material",
-      "published_iso": "2026-09-07T21:31:34Z",
-      "og_image": "https://i.ytimg.com/vi/-BomvzRo6N4/maxresdefault.jpg",
-      "excerpt": "Figma's new weekly Source Material series opens with computational artist Zach Lieberman walking through the books and systems behind his generative practice."
+      "source": "DEVELOP3D",
+      "category": "vr",
+      "headline": "Beyond headsets: Spatial computing's future",
+      "url": "https://develop3d.com/opinion/comment/beyond-headsets-spatial-computings-future/",
+      "published_iso": "2026-09-07T12:52:26+00:00",
+      "excerpt": "As spatial computing matures past the headset, designers and engineers are being asked to adopt new ways of working to realise its potential. The piece argues the real shift is in review, collaboration and how 3D data is shared, not in the hardware.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Oluwaseyi-Sosanya_comment.jpg"
     },
     {
-      "n": 9,
-      "category": "workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6",
-      "title": "AI canvas, Synthetic self, The prompt is the product",
-      "published_iso": "2026-09-06T23:49:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*EjNueOq1ewkkMptH.png",
-      "excerpt": "Weekly curated roundup for designers on agentic canvases, design-system AI-readiness evals and prompts as product surface."
-    },
-    {
-      "n": 10,
-      "category": "render",
       "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-7-september-2026/",
-      "title": "New CG software you may have missed: 7 September 2026",
-      "published_iso": "2026-09-07T00:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260907_CGSoftwareYouMayHaveMissed7September2026_f-960x480.jpg",
-      "excerpt": "Nine tool updates including Reallusion's AI Studio 1.1, which becomes a standalone 3D-guided AI rendering app driving Seedance 2.0/2.5, plus 3DGS Render 5.1 and RealityScan Mobile 1.9."
-    },
-    {
-      "n": 11,
       "category": "render",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/open-source-substance-3d-painter-alternative-armorpaint-1-0-released/",
-      "title": "Open-Source Substance 3D Painter Alternative ArmorPaint 1.0 Released",
-      "published_iso": "2026-09-07T16:45:00Z",
-      "og_image": "",
-      "excerpt": "ArmorPaint 1.0 ships with Neural Nodes for local generative AI upscaling, photo-to-material and text-to-image."
+      "headline": "Blackmagic Design releases DaVinci Resolve 21.1",
+      "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-resolve-21-1/",
+      "published_iso": "2026-09-08T13:31:33+00:00",
+      "excerpt": "Blackmagic has shipped DaVinci Resolve 21.1, a sizeable update to the free grading and editing app that adds an MCP server alongside new VFX and colour features. Exposing Resolve to AI agents over Model Context Protocol puts an agent directly inside a post-production timeline.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260908_DaVinciResolve211_MCPServer.jpg"
     },
     {
-      "n": 12,
+      "source": "CG Channel",
+      "category": "render",
+      "headline": "New CG software you may have missed: 7 September 2026",
+      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-7-september-2026/",
+      "published_iso": "2026-09-07T17:17:29+00:00",
+      "excerpt": "CG Channel's roundup covers nine tool updates, including JangaFX's real-time FX apps IlluGen and LiquiGen, the 3DGS Render add-on for Gaussian splats in Blender with real-time relighting, and Epic's RealityScan Mobile photogrammetry app. Most of the releases lean on AI-assisted capture, relighting or upscaling.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260907_CGSoftwareYouMayHaveMissed7September2026_f.jpg"
+    },
+    {
+      "source": "Creative Bloq",
+      "category": "render",
+      "headline": "This free app could become the Blender of texture painting software",
+      "url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+      "published_iso": "2026-09-08T15:00:00Z",
+      "excerpt": "ArmorPaint 1.0 arrives after eight years in early access as a lightweight, open-source Substance Painter alternative available on every platform. The rewrite adds sculpting, UV editing and AI-based image upscaling plus photo-to-material generation.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/xx9vTNdYdPAwRiqD4VgqtG-2244-80.jpg"
+    },
+    {
+      "source": "Creative Bloq",
+      "category": "render",
+      "headline": "NVIDIA's RTX Spark showcase at IFA showed how DLSS is breaking out of gaming",
+      "url": "https://www.creativebloq.com/ai/nvidias-rtx-spark-showcase-at-ifa-showed-me-a-first-hand-example-of-how-dlss-is-breaking-out-of-the-gaming-sphere",
+      "published_iso": "2026-09-08T09:00:00Z",
+      "excerpt": "At IFA, NVIDIA demonstrated RTX Spark bringing DLSS 4.5 into Blender viewports rather than just games. Neural upscaling inside a DCC viewport means 3D artists get near-final-frame feedback while they model and light.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fmZNbUfNkSfLwGGK4tuBwB-1743-80.png"
+    },
+    {
+      "source": "Creative Bloq",
       "category": "workflow",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working",
-      "title": "Companies are spending millions rewiring how AI gets used. Almost none can prove it's working.",
-      "published_iso": "2026-09-07T13:00:00Z",
-      "og_image": "",
-      "excerpt": "Enterprises are surging token spend without proving ROI - 'tokenmaxxing' - and few can measure whether the rewiring works."
+      "headline": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
+      "url": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "published_iso": "2026-09-08T07:00:00Z",
+      "excerpt": "Design agencies say AI-generated client briefs are flattening the signals they used to read when deciding which founders to take a chance on. The result is a hiring and pitching process that filters out exactly the interesting work it was meant to attract.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg"
+    },
+    {
+      "source": "UploadVR",
+      "category": "vr",
+      "headline": "Fovii showcases immersive videos and their creators on Apple Vision Pro",
+      "url": "https://www.uploadvr.com/fovii-showcases-immersive-videos-and-their-creators-on-apple-vision-pro/",
+      "published_iso": "2026-09-08T14:00:00Z",
+      "excerpt": "The Fovii app on Apple Vision Pro offers a new platform to watch 180-degree immersive video and discover the creators behind each piece. It is one of the first distribution surfaces built specifically around immersive creators rather than flat catalogues.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Film_Detail_Page-1.png"
+    },
+    {
+      "source": "UploadVR",
+      "category": "vr",
+      "headline": "VRChat wins its first Emmy with immersive theatre production Uncanny Alley: A New Day",
+      "url": "https://www.uploadvr.com/vrchat-wins-its-first-emmy-with-uncanny-alley-a-new-day-immersive-theatre-production/",
+      "published_iso": "2026-09-08T16:30:13Z",
+      "excerpt": "VRChat has taken home its first Emmy, with the immersive theatre experience Uncanny Alley: A New Day winning Outstanding Emerging Media Program. It is a mainstream award validating social-VR spaces as a legitimate production medium.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/1pMIz2Mwo6I-HD.jpg"
+    },
+    {
+      "source": "UploadVR",
+      "category": "vr",
+      "headline": "Quest's Meta Virtual Display gets a new name, input forwarding and Mac parity",
+      "url": "https://www.uploadvr.com/quests-meta-virtual-display-got-a-new-name-input-forwarding-mac-parity/",
+      "published_iso": "2026-09-08T14:50:34Z",
+      "excerpt": "Meta's Quest virtual desktop feature has been renamed and now supports input forwarding, with the Mac version gaining functionality previously exclusive to Windows. For designers it edges headset-as-monitor closer to a usable daily workstation.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Screenshot-2026-09-07-at-6.26.31---PM.png"
+    },
+    {
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "Date Slop: building a deliberately bad UX with AI",
+      "url": "https://dev.to/hdv/date-slop-building-a-deliberately-bad-ux-with-ai-3nml",
+      "published_iso": "2026-09-08T21:38:18Z",
+      "excerpt": "A developer entered a Bad UX competition for the worst possible date picker and used AI to build it. The exercise turns into a sharp read on how readily generative tools produce plausible-looking but hostile interface patterns.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc6wrjjgnhx3ywwmtirsp.png"
+    },
+    {
+      "source": "DEV Community",
+      "category": "figma",
+      "headline": "OpenAI brings template-based marketing design to ChatGPT with Adobe Express",
+      "url": "https://dev.to/alifar/openai-brings-template-based-marketing-design-to-chatgpt-with-adobe-express-5h09",
+      "published_iso": "2026-09-08T21:30:30Z",
+      "excerpt": "OpenAI is pulling template-based marketing design into ChatGPT through an Adobe Express plugin, letting users produce on-brand collateral without leaving the chat. It moves routine layout work out of design tools and into a conversational surface.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fscalevise.com%2Fresources%2Fcontent%2Fimages%2F2026%2F09%2Fchatgpt-adobe-express-templates-marketing-design.webp"
+    },
+    {
+      "source": "UX Collective",
+      "category": "figma",
+      "headline": "The model is behaving impeccably. Your information architecture isn't.",
+      "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2",
+      "published_iso": "2026-09-07T22:27:30Z",
+      "excerpt": "Using a 1960 study of how people draw city maps, the piece argues that most bad AI output is really an information-architecture failure. The model is legible only as far as the structure you hand it is legible.",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*7k7uWkUJBprr-2g-vbXMoA.jpeg"
+    },
+    {
+      "source": "UX Collective",
+      "category": "workflow",
+      "headline": "If you can externalize your design process, you can win back your time",
+      "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346",
+      "published_iso": "2026-09-08T11:13:55Z",
+      "excerpt": "A practical look at using SKILL.md files to spell out the depth of your design work for teammates and for AI agents. Writing the process down turns tacit craft into something an agent can actually execute.",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*womFByvsxWWkMHFE-u9Kyw.jpeg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 12,
+    "dropped": 1,
+    "kept": 16,
     "against_days": 5
   }
 }
