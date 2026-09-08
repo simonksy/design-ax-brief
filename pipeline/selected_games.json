@@ -1,77 +1,66 @@
 {
-  "date": "2026-09-08",
-  "section": "games",
-  "picks": [
-    {
-      "id": "games-astroburn-microseries",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/astroburn-expands-into-ai-powered-animated-vertical-micro-series/",
-      "published_iso": "2026-08-27T08:00:00Z",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/03/astro-burn.jpg",
-      "lead_image": "https://gamesbeat.com/wp-content/uploads/2026/08/Astroburn-1024x576.jpg",
-      "title": "Astroburn expands into AI-powered animated vertical micro-series",
-      "excerpt": "HaZ Dulull turned his indie game Astroburn into ten one-minute vertical episodes on Nura's Showcraft, using a model locked to his own assets while keeping human voice actors and composers.",
-      "rationale": "A concrete, reproducible workflow for indie devs extending game IP into short-form video with AI assist and human authorship intact."
-    },
-    {
-      "id": "games-aggro-crab-no-genai",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/aggro-crab-peak-new-indie-publisher-outersloth-bigmode-2000730611",
-      "published_iso": "2026-09-02T19:45:34Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/PEAK_KeyArt_No_Logo-1200x675.jpg",
-      "lead_image": "https://kotaku.com/app/uploads/2025/12/Peak.jpg",
-      "title": "Peak Devs Are Using Their Mountain Of Cash To Publish New Indie Games",
-      "excerpt": "Aggro Crab spun its Peak windfall into publishing arm Aggro Crab Presents, whose signing terms include 'And NO generative AI slop'.",
-      "rationale": "A publisher writing a no-genAI clause into its deal terms is a policy signal that lands directly on studio pipelines."
-    },
-    {
-      "id": "games-dlss5-autopilot",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance/",
-      "published_iso": "2026-09-07T09:47:59Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-Mod-Performance-Improvements-1920x1080.jpg",
-      "lead_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-Mod-Performance-Improvements-1920x1080.jpg",
-      "title": "NVIDIA DLSS 5 Cripples Most PCs in Modded Games, but DLSS 5 Autopilot Restores Playable Performance",
-      "excerpt": "DLSS 5 Autopilot runs Neural Rendering before the upscaler so Quality/Balanced/Performance modes work, and its DLSS5-Feeder injects DLSS 5 into any DX12, DX11 or DX10 game.",
-      "rationale": "Modders shipped the quality/perf tiering Nvidia hasn't, which changes what neural rendering costs in practice."
-    },
-    {
-      "id": "games-katago-shin-jinseo",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/go-grandmaster-becomes-first-human-to-win-series-against-advanced-ai-engine-in-3-hour-match/",
-      "published_iso": "2026-09-05T19:11:02Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AZa4xx8s5dWfUHYXeczBqA-1920-80.jpg",
-      "lead_image": "https://cdn.mos.cms.futurecdn.net/BTwp4b6fiCvak55Q2DxtMH.jpg",
-      "title": "Go grandmaster becomes first human to win series against advanced AI engine in 3-hour match",
-      "excerpt": "Shin Jin-seo took a three-game series 2-1 against KataGo on a two-stone handicap, and said imitating AI moves was what kept losing him games.",
-      "rationale": "The first human series win over a top engine, with a working lesson: copying the model's moves loses, playing your own board wins."
-    },
-    {
-      "id": "games-penguin-colony-genai-gag",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern",
-      "published_iso": "2026-08-25T17:25:39Z",
-      "og_image": "https://assetsio.gnwcdn.com/penguin-colony-release-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "lead_image": "https://assetsio.gnwcdn.com/penguin-colony-release-date.jpg?width=1600&quality=85&format=jpg&auto=webp",
-      "yt": "pE8nAqT1eAs",
-      "title": "Cosmic horror and sea bird waddling sim Penguin Colony gave me a genAI fright in its release date trailer",
-      "excerpt": "Penguin Colony's release date trailer flashes RTX, DLSS and genAI, then reveals them as Real Terror eXploration, Does Lovecraft Still Scare and GENeral Antarctic Isolation.",
-      "rationale": "A marketing gag that reads the industry's AI buzzword reflex back at it, and lands the Oct 8 date while doing it."
-    }
-  ]
+ "date": "2026-09-09",
+ "section": "games",
+ "picks": [
+  {
+   "tool": "Games",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "headline": "Report: EA's NHL 27 is using genAI for commentator voiceover, claims a sports broadcaster",
+   "source": "Game Developer",
+   "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+   "published_iso": "2026-09-08T18:00:00.000Z",
+   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop",
+   "excerpt": "Veteran commentator John Buccigross says EA demonstrated a system that clones his voice to generate in-game commentary lines. It would be one of the highest-profile uses of synthetic voice in a major sports franchise.",
+   "rationale": "EA가 NHL 27 중계 음성을 생성형 AI로 만든다는 증언이 나왔다 — 대형 스포츠 프랜차이즈의 합성 음성 사용 사례"
+  },
+  {
+   "tool": "Games",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "headline": "Arm explains its mobile-first AI-reconstruction tech, a different tack from the \"black box\" approach of DLSS 5",
+   "source": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
+   "published_iso": "2026-09-08T02:00:00+00:00",
+   "og_image": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "excerpt": "Arm details a neural upscaling and frame-reconstruction stack built for mobile GPUs, positioning it against Nvidia's DLSS 5. \"Our networks are not generative, so they're not of the same nature as the latest DLSS model,\" the company says.",
+   "rationale": "Arm이 재학습 가능한 공개 신경망 업스케일러를 모바일 GPU에 내놨다 — DLSS 5의 폐쇄형 접근과 정반대"
+  },
+  {
+   "tool": "Games",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "headline": "A new ReShade addon offloads DLSS 5 neural rendering to a second GPU, slashing the AI filter's performance hit",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/",
+   "published_iso": "2026-09-07T11:56:11Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/BqaADfBQgryNcBSm7MsGT4-2560-80.jpg",
+   "excerpt": "Modders have built a ReShade addon that runs DLSS 5's neural rendering pass on a secondary graphics card. The workaround recovers most of the frame-rate lost to Nvidia's generative filter.",
+   "rationale": "보조 GPU로 DLSS 5 뉴럴 렌더링을 떠넘기는 ReShade 애드온 — 성능 손실을 되돌리는 실제 기법"
+  },
+  {
+   "tool": "Games",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "headline": "European game developers fear AI will pressure them to work faster more than they fear losing their jobs",
+   "source": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+   "published_iso": "2026-09-08T13:27:23.540305+00:00",
+   "og_image": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "excerpt": "A European games employment survey finds half of respondents worried AI will erode work quality, ahead of job-loss fears. 46% also say AI output makes it harder to assess a candidate's actual skills when hiring.",
+   "rationale": "유럽 개발자 고용 조사가 AI 공포의 실체를 숫자로 보여준다 — 일자리보다 속도 압박"
+  },
+  {
+   "tool": "Games",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "headline": "It's still possible to make good Skyrim mods \"without any use of AI\" in 2026, says the maker of a DLC-sized Black Marsh expansion",
+   "source": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
+   "published_iso": "2026-09-08T10:25:25.826231+00:00",
+   "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+   "excerpt": "King of the Murkmire, a DLC-scale Skyrim expansion set in Black Marsh, shipped with its author stressing that no AI was used in its assets or writing. The release lands as AI voice and texture tools spread through the Bethesda modding scene.",
+   "rationale": "AI 없이 만든 DLC급 스카이림 확장 모드가 개인 제작자의 현재 가능선을 보여준다"
+  }
+ ]
 }

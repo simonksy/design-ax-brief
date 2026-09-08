@@ -1,32 +1,11 @@
 {
- "date": "2026-09-08",
- "section": "design",
- "media": [
-  {
-   "id": "design-figma-make-claude-handoff",
-   "type": "image",
-   "src": "pipeline/media/design-figma-make-claude-handoff.png"
-  },
-  {
-   "id": "design-rtx-half-frame-video",
-   "type": "image",
-   "src": "pipeline/media/design-rtx-half-frame-video.jpg"
-  },
-  {
-   "id": "design-ai-product-team-strategy",
-   "type": "image",
-   "src": "pipeline/media/design-ai-product-team-strategy.jpg"
-  },
-  {
-   "id": "design-md-agent-guide",
-   "type": "image",
-   "src": "pipeline/media/design-md-agent-guide.png"
-  },
-  {
-   "id": "design-tripo-image-to-3d",
-   "type": "video",
-   "src": "pipeline/media/design-tripo-image-to-3d.mp4",
-   "poster": "pipeline/media/design-tripo-image-to-3d.jpg"
-  }
- ]
+  "date": "2026-09-09",
+  "section": "design",
+  "media": [
+    {"id":"design-chatgpt-sketch-9f2","type":"video","src":"pipeline/media/design-chatgpt-sketch-9f2.mp4","poster":"pipeline/media/design-chatgpt-sketch-9f2.jpg"},
+    {"id":"design-resolve-mcp-x7k","type":"image","src":"pipeline/media/design-resolve-mcp-x7k.jpg"},
+    {"id":"design-autodesk-neural-cad-b4m","type":"image","src":"pipeline/media/design-autodesk-neural-cad-b4m.jpg"},
+    {"id":"design-date-slop-7qd","type":"image","src":"pipeline/media/design-date-slop-7qd.jpg"},
+    {"id":"design-ai-brief-agency-5rt","type":"image","src":"pipeline/media/design-ai-brief-agency-5rt.jpg"}
+  ]
 }

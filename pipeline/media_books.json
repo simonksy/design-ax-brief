@@ -1,31 +1,26 @@
 {
- "date": "2026-09-08",
- "section": "books",
- "media": [
-  {
-   "id": "books-dosdoce-audio-ai-paper",
-   "type": "image",
-   "src": "pipeline/media/books-dosdoce-audio-ai-paper.jpg"
-  },
-  {
-   "id": "books-nairobi-essay-collapse",
-   "type": "image",
-   "src": "pipeline/media/books-nairobi-essay-collapse.png"
-  },
-  {
-   "id": "books-library-upskill-ai",
-   "type": "image",
-   "src": "pipeline/media/books-library-upskill-ai.jpg"
-  },
-  {
-   "id": "books-journal-2030-ai",
-   "type": "image",
-   "src": "pipeline/media/books-journal-2030-ai.png"
-  },
-  {
-   "id": "books-aap-mosaic-amicus",
-   "type": "image",
-   "src": "pipeline/media/books-aap-mosaic-amicus.jpg"
-  }
- ]
+  "date": "2026-09-09",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-authors-guild-registration-q7m",
+      "type": "image",
+      "src": "pipeline/media/books-authors-guild-registration-q7m.jpg"
+    },
+    {
+      "id": "books-anthropic-agent-claims-v4x",
+      "type": "image",
+      "src": "pipeline/media/books-anthropic-agent-claims-v4x.jpg"
+    },
+    {
+      "id": "books-library-ai-supply-h3d",
+      "type": "image",
+      "src": "pipeline/media/books-library-ai-supply-h3d.jpg"
+    },
+    {
+      "id": "books-audible-human-translation-r6p",
+      "type": "image",
+      "src": "pipeline/media/books-audible-human-translation-r6p.png"
+    }
+  ]
 }

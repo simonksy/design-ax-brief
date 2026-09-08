@@ -1,94 +1,66 @@
 {
- "date": "2026-09-08",
- "section": "design",
- "picks": [
-  {
-   "n": 1,
-   "category": "figma",
-   "tool": "Figma",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "source": "DEV Community",
-   "url": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
-   "title": "How to take over a design built in Figma Make and develop it with Claude Code",
-   "published_iso": "2026-09-07T03:21:45Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FEarthLinkNetwork%2Fblog_public%2Fmain%2Fimages%2Fseries-007%2Fhero-devto-en.png",
-   "excerpt": "Four apps started from Figma Make code bundles; the author traces via config files and commit history how far each got once development continued in Claude Code, and where they stalled.",
-   "rationale": "Concrete, reproducible handoff evidence from Figma Make output to Claude Code - directly changes how a designer plans a build."
-  },
-  {
-   "n": 2,
-   "category": "render",
-   "tool": "KeyShot",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "source": "Creative Bloq",
-   "url": "https://www.creativebloq.com/ai/i-saw-nvidias-new-ai-video-tool-why-rtx-sparks-half-frame-trick-might-actually-matter-and-why-creatives-are-right-to-be-wary",
-   "title": "I saw NVIDIA's new AI video tool: why RTX Spark's half-frame trick might actually matter",
-   "published_iso": "2026-09-07T15:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3-2560-80.jpg",
-   "excerpt": "Generate half the frames and let local RTX Spark AI infer the rest: a Full HD two-second clip drops from about 6m30s to about 1m25s, with offline interpolation avoiding real-time frame-gen artefacts.",
-   "rationale": "Hands-on demo with hard timings; changes the economics of iterating on AI video."
-  },
-  {
-   "n": 3,
-   "category": "workflow",
-   "tool": "AI Workflow",
-   "accent": "#ff5a4d",
-   "motif": "frame",
-   "source": "UX Collective",
-   "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca",
-   "title": "AI in Product teams: In 2026, the growing impact on collaboration",
-   "published_iso": "2026-09-06T23:47:16Z",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg",
-   "excerpt": "Companies with top-down AI mandates see the biggest gains; 56% of non-designers now do design work, 65% of designers take on product or engineering work, and team sizes may shrink from 8-10 to 2-3.",
-   "rationale": "Numbers a design org can act on when planning its own AI adoption structure."
-  },
-  {
-   "n": 4,
-   "category": "tokens",
-   "tool": "Design Tokens",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "source": "DEV Community",
-   "url": "https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c",
-   "title": "DESIGN.md - a shared UI design guide for working with AI",
-   "published_iso": "2026-09-06T11:15:00Z",
-   "og_image": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/tmj2kdqdc5uqpw5edwua.png",
-   "excerpt": "Google Labs frames DESIGN.md as a persistent structured way to hand a design system to an AI agent: machine-readable tokens in YAML front matter, human-readable intent in the markdown body. Status is alpha.",
-   "rationale": "An immediately adoptable artifact for keeping agent output on-brand."
-  },
-  {
-   "n": 5,
-   "category": "social",
-   "tool": "Social",
-   "accent": "#ff2d55",
-   "motif": "frame",
-   "source": "Matt Wolfe (YouTube)",
-   "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
-   "title": "This AI Turns Insane Ideas Into 3D Objects",
-   "published_iso": "2026-09-07T16:06:22Z",
-   "og_image": "https://i.ytimg.com/vi/tqUEnRj0NbM/hq720.jpg",
-   "excerpt": "Tripo 2.0 turns almost any image into a full 3D model you can export to Blender, Unreal Engine or a 3D printer.",
-   "rationale": "Image-to-3D that lands as an exportable asset - a real step for product and concept designers."
-  }
- ],
- "dropped": [
-  {
-   "url": "https://80.lv/articles/open-source-substance-3d-painter-alternative-armorpaint-1-0-released/",
-   "reason": "content dup of published 2026-09-05 design-armorpaint-1-0-out-after (CG Channel, same release)"
-  },
-  {
-   "url": "https://www.creativebloq.com/ai/can-nvidia-and-adobe-work-together-to-get-creatives-to-actually-like-ai",
-   "reason": "content dup of published 2026-09-06 design-rtx-spark (same IFA RTX Spark local-AI announcement)"
-  },
-  {
-   "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6",
-   "reason": "newsletter whose lead item is the already published 2026-09-06 design-agentic-canvas"
-  },
-  {
-   "url": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working",
-   "reason": "general AI-business/ROI noise, no design-practice hook"
-  }
- ]
+  "date": "2026-09-09",
+  "section": "design",
+  "picks": [
+    {
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "published_iso": "2026-09-08T20:16:09+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all",
+      "excerpt": "OpenAI's new ChatGPT Sketch mode lets you scribble a rough drawing and have Images 2.5 turn it into a detailed rendering, making a hand sketch part of the prompt. It pushes image generation toward the kind of sketch-and-refine loop designers already use.",
+      "rationale": "Sketch-as-prompt lands directly in the designer's ideation loop; a real shipped mode, not a demo."
+    },
+    {
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "headline": "Blackmagic Design releases DaVinci Resolve 21.1",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-resolve-21-1/",
+      "published_iso": "2026-09-08T13:31:33+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260908_DaVinciResolve211_MCPServer.jpg",
+      "excerpt": "Blackmagic has shipped DaVinci Resolve 21.1, a sizeable update to the free grading and editing app that adds an MCP server alongside new VFX and colour features. Exposing Resolve to AI agents over Model Context Protocol puts an agent directly inside a post-production timeline.",
+      "rationale": "An MCP server inside a free NLE means agents can drive a real post timeline today."
+    },
+    {
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "headline": "Autodesk's AI blueprint for CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/cad/autodesks-ai-blueprint-for-cad/",
+      "published_iso": "2026-09-08T08:40:38+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/ImageGenerationFusionAutodeskAssistant.jpg",
+      "excerpt": "Autodesk has laid out its AI blueprint for CAD, pairing geometry-aware models with project-level intelligence inside Fusion. The aim is an assistant that understands parts and constraints rather than just text, reshaping how engineers and industrial designers iterate.",
+      "rationale": "Geometry-aware models rather than text wrappers is the first credible shape of AI inside CAD."
+    },
+    {
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "headline": "Date Slop: building a deliberately bad UX with AI",
+      "source": "DEV Community",
+      "url": "https://dev.to/hdv/date-slop-building-a-deliberately-bad-ux-with-ai-3nml",
+      "published_iso": "2026-09-08T21:38:18Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc6wrjjgnhx3ywwmtirsp.png",
+      "excerpt": "A developer entered a Bad UX competition for the worst possible date picker and used AI to build it. The exercise turns into a sharp read on how readily generative tools produce plausible-looking but hostile interface patterns.",
+      "rationale": "Backfill for a paywalled pick; a built artefact plus concrete lessons on shipping an AI feature into a real UI."
+    },
+    {
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "headline": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
+      "published_iso": "2026-09-08T07:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
+      "excerpt": "Design agencies say AI-generated client briefs are flattening the signals they used to read when deciding which founders to take a chance on. The result is a hiring and pitching process that filters out exactly the interesting work it was meant to attract.",
+      "rationale": "Changes how a brief gets written tomorrow; sourced from agencies actually rejecting the work."
+    }
+  ]
 }

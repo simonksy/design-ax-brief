@@ -1,116 +1,161 @@
 {
-  "date": "2026-09-08",
-  "section": "science",
-  "now_iso": "2026-09-07T22:05:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "AI-designed proteins enable a new generation of RNA transporters",
-      "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-02T00:00:00Z",
-      "excerpt": "A team combined functional protein building blocks with a generative-AI-designed structural scaffold to build STV-C8, an RNA delivery vehicle. In cell culture STV-C8 delivered RNA cargo more efficiently than the virus-like particles and lipid nanoparticles tested, and in pigs it carried CRISPR/Cas9 into muscle tissue without observable toxicity.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg",
-      "category": "science"
-    },
-    {
-      "title": "Agentic AI accelerates search for crops that can harvest critical minerals",
-      "url": "https://phys.org/news/2026-09-agentic-ai-crops-harvest-critical.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "excerpt": "Oak Ridge National Laboratory built an agentic AI system that cut plant-trait analysis from hundreds of hours of manual work to a few minutes. It screened 360 pennycress plants to find nickel-tolerant lines usable for phytomining.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/harvesting-the-critica.jpg",
-      "category": "science"
-    },
-    {
-      "title": "War drama Pressure depicts D-day's weather forecast—what we found when we recreated the challenge using modern systems",
-      "url": "https://phys.org/news/2026-09-war-drama-pressure-depicts-dday.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-07T00:00:00Z",
-      "excerpt": "Andrew Charlton-Perez and Ed Hawkins re-ran the D-Day forecast with ECMWF's AIFS machine-learning forecasting system using newly digitised 1944 observations. The AI captured the North Sea storm and would have supported delaying the invasion from June 5 to June 6, but it underestimated the wind and cloud on June 6 — expert interpretation still mattered.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg",
-      "category": "science"
-    },
-    {
-      "title": "Why scientists are looking to provoke disagreement among AI brain models",
-      "url": "https://medicalxpress.com/news/2026-09-scientists-provoke-disagreement-ai-brain.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-07T09:00:00-04:00",
-      "excerpt": "Columbia University researchers synthesise 'controversial stimuli' — images engineered to make competing computational brain models disagree — then show them to people to see which model matches human perception. The method indicated the visual system blends fast discriminative computation with generative modelling rather than relying on one mechanism.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg",
-      "category": "science"
-    },
-    {
-      "title": "In a third of cases, AI chatbots wrongly reassure sleep apnea patients that their symptoms aren't serious",
-      "url": "https://medicalxpress.com/news/2026-09-cases-ai-chatbots-wrongly-reassure.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-06T09:00:00-04:00",
-      "excerpt": "Researchers ran 700 simulated consultations across ChatGPT, Gemini, Claude, DeepSeek and Grok with fictional obstructive sleep apnea patients. Correct specialist referral advice fell to 64% when the patient downplayed symptoms, and to 22-32% in the most severe cases, with chatbots offering lifestyle tips instead. Presented at the European Respiratory Society Congress.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg",
-      "category": "science"
-    },
-    {
-      "title": "How introverted or extroverted you are may influence how you use AI",
-      "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-07T08:00:00-04:00",
-      "excerpt": "New personality research suggests how people relate to their inner and outer worlds shapes how they approach generative AI, with extraverted participants reporting greater affiliation with an AI that used extraverted language.",
-      "og_image": "https://static.scientificamerican.com/dam/m/389001b9703c88c9/original/AI_math_.jpg?m=1788451131.824&w=1200",
-      "category": "science"
-    },
-    {
-      "title": "When Thought Loses Its Address",
-      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/when-thought-loses-its-address",
-      "source": "Psychology Today",
-      "published_iso": "2026-09-02T00:00:00Z",
-      "excerpt": "A study of freely interacting communities of LLM agents found collective states that fed back into each agent's decisions. On mathematical problems, correct agents exerted more influence than incorrect ones, producing an emergent truth-seeking tendency with no central coordinator.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/mjh_shikder-technology-6873012.jpg?itok=_qdwrfVJ",
-      "category": "science"
-    },
-    {
-      "title": "AI dominates the 4th International Congress of Basic Science in Beijing",
-      "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
-      "source": "Physics World",
-      "published_iso": "2026-09-02T11:00:45+00:00",
-      "excerpt": "More than 800 delegates from over 30 countries met in Beijing in August 2026, where AI dominated the programme. Fields medallist Martin Hairer said AI won't end mathematics but will transform how it is carried out, while speakers insisted human creativity and independent thinking remain essential.",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res-635x423.jpg",
-      "category": "science"
-    },
-    {
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-      "source": "Google Research",
-      "published_iso": "2026-08-27T00:00:00Z",
-      "excerpt": "Google Research released the Planetary Prediction Engine, an autonomous system that runs the whole geospatial modelling workflow from data discovery to model training. It reached 76.8% mean R2 on CDC health indicators versus 60% for manual pipelines, doubled food-security mapping accuracy in Nigeria and hit 83.3% recall on Ebola outbreak hotspots in the DRC.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine_Cover.png",
-      "category": "science"
-    },
-    {
-      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-      "source": "Google Research",
-      "published_iso": "2026-08-26T00:00:00Z",
-      "excerpt": "GlucoFM is a self-supervised foundation model for continuous glucose monitoring with a dual-stream architecture that separates slow glycemic trends from short-term deviations. Across four clinical cohorts and seven metabolic prediction tasks it averaged 5.8 percentage points higher PR-AUC than baselines, with strong cross-dataset and few-shot transfer.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
-      "category": "science"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://allenai.org/blog/benchmirt",
-      "source": "Ai2",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "excerpt": "Ai2 applied multidimensional item response theory across 100 LLMs and more than 34,000 benchmark questions to audit what evaluations actually measure. Safety and general reasoning emerged as the two dominant latent dimensions, and the method can cut evaluation sets by 90% while preserving predictive accuracy.",
-      "og_image": "",
-      "category": "science"
-    },
-    {
-      "title": "Why organic chemistry may help build AI that can explain its answers",
-      "url": "https://techxplore.com/news/2026-09-chemistry-ai.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-03T00:00:00Z",
-      "excerpt": "A Chemical Reviews paper from the University of Notre Dame argues that organic chemistry's messy, data-poor problems are forcing AI toward interpretability, uncertainty quantification and built-in physical law. The authors tie those constraints to self-driving laboratories and more reliable scientific AI.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chemistry-is-changing.jpg",
-      "category": "science"
-    }
-  ]
+ "date": "2026-09-09",
+ "section": "science",
+ "now_iso": "2026-09-08T22:15:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "AI-designed proteins enable a new generation of RNA transporters",
+   "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html",
+   "published_iso": "2026-09-02T00:00:00Z",
+   "excerpt": "Helmholtz Munich and TUM researchers used AI protein design to build STV-C8, a from-scratch protein scaffold that ferries RNA into cells more efficiently than virus-like particles or lipid nanoparticles. It delivered CRISPR/Cas9 components to pig muscle and expressed therapeutic RNA in mouse lungs without toxicity.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg"
+  },
+  {
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "AI suggests new physics experiments that could outperform human-designed setups",
+   "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
+   "published_iso": "2026-09-03T12:20:00Z",
+   "excerpt": "An international team showed AI can design physics experiments that beat human-built configurations, treating apparatus design as an optimization search over lab components rather than a chatbot prompt. The method produced superior setups in quantum optics, electron microscopy and gravitational-wave detection while humans still set the goals.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg"
+  },
+  {
+   "source": "Phys.org",
+   "category": "science",
+   "headline": "Physics-based AI unlocks first global predictions of carbon cycling in ocean sediments",
+   "url": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
+   "published_iso": "2026-09-08T16:40:00Z",
+   "excerpt": "University of Manchester researchers built physics-informed AI emulators that make planetary-scale predictions of organic carbon exchange between seawater and seafloor sediment. They found 11% of particulate organic carbon reaching the seafloor returns to seawater as dissolved carbon, and that simpler neural nets beat larger deep models.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-based-ai-unloc.jpg"
+  },
+  {
+   "source": "Quanta Magazine",
+   "category": "science",
+   "headline": "AI Has Solved One of Math's $1 Million Millennium Prize Problems",
+   "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+   "published_iso": "2026-09-08T08:43:52Z",
+   "excerpt": "Mathematicians at OpenAI used AI to show that the Navier-Stokes equations describing fluid flow can sometimes blow up, claiming one of the Millennium Prize problems. The result is enormous but not without controversy in the mathematical community.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg"
+  },
+  {
+   "source": "Quanta Magazine",
+   "category": "science",
+   "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
+   "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+   "published_iso": "2026-09-03T13:41:48Z",
+   "excerpt": "A live recording from the International Congress of Mathematicians asks what mathematicians actually value about doing mathematics once machines can produce proofs. The panel weighs understanding and taste against automated verification.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg"
+  },
+  {
+   "source": "Quanta Magazine",
+   "category": "science",
+   "headline": "In an Age of AI, a Physicist Seeks What Endures",
+   "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
+   "published_iso": "2026-09-03T13:35:59Z",
+   "excerpt": "Yale physics chair Sarah Demers describes how large language models could both accelerate and erode physics research. She argues for protecting the parts of scientific practice that give physicists genuine understanding.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg"
+  },
+  {
+   "source": "Scientific American",
+   "category": "science",
+   "headline": "New Google DeepMind atlas could transform our understanding of genetic diseases",
+   "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
+   "published_iso": "2026-09-08T10:00:00-04:00",
+   "excerpt": "DeepMind released AlphaGenome Atlas, a model-built map that predicts the functional effect of any single change in the DNA sequence. Researchers say it could reshape how genetic disease variants are interpreted.",
+   "og_image": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg?m=1788555841.731&w=1200"
+  },
+  {
+   "source": "Scientific American",
+   "category": "science",
+   "headline": "How introverted or extroverted you are may influence how you use AI",
+   "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
+   "published_iso": "2026-09-07T08:00:00-04:00",
+   "excerpt": "New research suggests personality traits shape how people prompt, trust and lean on generative AI tools. How someone engages with their inner and outer worlds appears to predict their working style with chatbots.",
+   "og_image": "https://static.scientificamerican.com/dam/m/389001b9703c88c9/original/AI_math_.jpg?m=1788451131.824&w=1200"
+  },
+  {
+   "source": "Physics World",
+   "category": "science",
+   "headline": "AI dominates the 4th International Congress of Basic Science in Beijing",
+   "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
+   "published_iso": "2026-09-02T11:00:45Z",
+   "excerpt": "Subir Sarkar reports that AI was the dominant thread among more than 800 delegates at the Beijing basic-science congress. Talks ranged from machine-learning-driven discovery to worries about what automation does to scientific judgment.",
+   "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res.jpg"
+  },
+  {
+   "source": "Physics World",
+   "category": "science",
+   "headline": "Improved QLEDs with Machine Learning",
+   "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
+   "published_iso": "2026-08-26T07:00:28Z",
+   "excerpt": "Machine learning was used to identify solvent formulations that yield highly homogeneous quantum-dot films for QLED displays. The approach replaces slow trial-and-error formulation work in materials chemistry.",
+   "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg"
+  },
+  {
+   "source": "Live Science",
+   "category": "science",
+   "headline": "If AI thinks it's conscious, it's more likely to believe in vampires, karma and ghosts, new study shows",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/if-ai-thinks-its-conscious-its-more-likely-to-believe-in-vampires-karma-and-ghosts-new-study-shows-what-does-it-mean-for-how-we-use-it",
+   "published_iso": "2026-09-08T17:37:33Z",
+   "excerpt": "A new study finds that when language models are steered toward claiming self-awareness, their outputs also drift toward supernatural beliefs. The finding complicates attempts to read model self-reports as evidence about machine cognition.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/a3AuW8NoFo4LG2gFHToshS-2000-80.jpg"
+  },
+  {
+   "source": "Live Science",
+   "category": "science",
+   "headline": "New kind of AI uses a fresh approach to reasoning — researchers say it costs up to 11 times less to run",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
+   "published_iso": "2026-08-29T11:00:00Z",
+   "excerpt": "Scientists describe a vector-based approach to machine cognition that they say reasons at a fraction of the compute cost of a leading OpenAI model. They argue it points toward a different architecture for machine reasoning.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg"
+  },
+  {
+   "source": "MIT Technology Review",
+   "category": "science",
+   "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+   "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+   "published_iso": "2026-09-08T06:34:00-04:00",
+   "excerpt": "Danijar Hafner, known for world-model research on teaching agents to imagine outcomes, is building agents that plan under uncertainty. His stealth startup extends a long line of work on machine models of the physical world.",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600"
+  },
+  {
+   "source": "Space.com",
+   "category": "science",
+   "headline": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+   "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+   "published_iso": "2026-09-07T13:00:00Z",
+   "excerpt": "Earth observation is shifting to private constellations paired with AI analysis pipelines, sharpening climate and disaster monitoring. The article weighs the scientific gains against loss of open access and verification.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/GxTRMooVe6CSuX6oTD5qGY-2560-80.png"
+  },
+  {
+   "source": "ScienceDaily",
+   "category": "science",
+   "headline": "AI can now control fusion plasma faster than humans can react",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+   "published_iso": "2026-09-06T03:28:00Z",
+   "excerpt": "Princeton researchers tested PACMAN, an AI framework that monitors and adjusts fusion plasma within milliseconds. In one run it predicted a damaging instability roughly 200 milliseconds ahead and prevented it.",
+   "og_image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp"
+  },
+  {
+   "source": "STAT",
+   "category": "science",
+   "headline": "AI biotech Insitro's Daphne Koller on how to speed up clinical trials",
+   "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
+   "published_iso": "2026-08-26T13:46:40Z",
+   "excerpt": "Insitro CEO Daphne Koller discusses where machine learning actually shortens drug discovery and clinical trial timelines. She separates the parts of the pipeline AI can compress from the parts it cannot.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_Daphne-Koller-1024x576.jpg"
+  },
+  {
+   "source": "STAT",
+   "category": "science",
+   "headline": "How a former ARPA-H director's startup is tackling AI's 'dumb problems'",
+   "url": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/",
+   "published_iso": "2026-09-02T13:29:52Z",
+   "excerpt": "Transfyr is targeting the unglamorous data and workflow failures that block AI from working in biology labs. The piece argues these 'dumb problems' gate most real bio-AI progress.",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AIPrognosis_Wordpress_Transfyr-1024x576.jpg"
+  }
+ ]
 }

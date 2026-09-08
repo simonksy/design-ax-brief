@@ -1,118 +1,96 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "design",
   "working_keywords": {
     "core": ["AI Design Tool", "Design AX", "AI Workflow"],
-    "rotation_used": "FULL POOL (this run uses the entire rotation pool, not a date slice)",
+    "rotation_used": "FULL POOL (entire rotation pool: tools_creative, tools_design_code, models_labs, concepts, people, frontier_broad, social)",
+    "pool_seeds": {
+      "tools_creative": ["Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly", "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"],
+      "tools_design_code": ["Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor", "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding", "Model Context Protocol"],
+      "models_labs": ["OpenAI", "ChatGPT", "Anthropic", "Gemini", "Meta", "Ollama", "Llama", "Mistral", "Grok xAI", "DeepSeek"],
+      "concepts": ["AI Agent", "Agentic AI", "Physical AI", "Embodied AI", "World models", "Multimodal AI"],
+      "people": ["Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman", "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"],
+      "frontier_broad": ["Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics", "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing", "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face", "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation", "Enterprise AI agents"],
+      "social": ["Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage", "Fireship AI", "DesignCourse", "AI design tutorial YouTube", "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"]
+    },
     "expansions": {
-      "Figma": ["Figma AI feature", "Figma Make", "Figma design system agent", "Figma variables"],
-      "Claude Design / Claude Code": ["Claude Code design workflow", "MCP design server"],
-      "v0 Vercel": ["v0 generative UI", "Vercel AI SDK design"],
-      "Framer AI": ["Framer AI site build"],
-      "Cursor / Lovable / Bolt": ["AI coding agent UI", "vibe coding design handoff"],
-      "Design-to-code": ["design to code AI 2026", "Figma to React AI"],
-      "Generative UI": ["agentic UI pattern", "generative interface design"],
-      "Model Context Protocol": ["MCP design tool integration"],
-      "Higgsfield / Kling / Runway / Sora / Pika / Luma / Krea": ["AI video generator update", "text to video model release"],
-      "Midjourney / Adobe Firefly / Flux / Stable Diffusion": ["Midjourney update", "Firefly model update", "image model release designers"],
-      "Google Veo / Gemini": ["Veo update", "Gemini image editing designers", "Nano Banana"],
-      "OpenAI / ChatGPT": ["ChatGPT design feature", "GPT image tool"],
-      "Anthropic": ["Claude artifacts design"],
-      "Nvidia": ["Nvidia RTX AI creators", "DLSS", "Omniverse", "RTX render AI"],
-      "KeyShot / render": ["KeyShot AI render", "AI rendering 3D workflow", "denoiser 3D render AI"],
-      "Text-to-CAD": ["text to CAD AI", "generative design CAD", "AI parametric modeling", "Autodesk Fusion AI"],
-      "Design Tokens": ["design tokens AI", "design system automation", "CSS AI tooling", "tailwind design tokens"],
-      "VR / Spatial computing": ["Apple Vision Pro app", "visionOS spatial design", "VR prototyping AI", "Quest AI"],
-      "AI Agent / Agentic AI": ["agentic design workflow", "AI agent creative team"],
-      "Physical AI / Embodied AI / World models": ["world model 3D generation", "humanoid robot design"],
-      "People": ["Karpathy AI interface", "Fei-Fei Li world model", "Jensen Huang creators"],
-      "Social channels": ["Figma YouTube", "Vercel YouTube", "Fireship", "DesignCourse", "Matt Wolfe", "The AI Advantage", "Two Minute Papers", "Google Design", "Microsoft Design", "Adobe"],
-      "Korean": ["AI 디자인 툴", "생성형 UI", "디자인 시스템 자동화"]
+      "Figma": ["Figma Make", "Figma AI agent", "Figma design system MCP", "Figma Sites AI"],
+      "design_to_code": ["design to code AI 2026", "Figma to React", "generative UI component", "v0 generative UI", "Framer AI site builder"],
+      "agents": ["agentic design workflow", "AI agent creative team", "design ops AI agent", "Claude Code UI agent"],
+      "creative_models": ["image model release designers", "text to video model update", "Nano Banana image editing", "Firefly update", "Midjourney v8"],
+      "render": ["AI denoiser render", "RTX AI creators", "Omniverse", "KeyShot AI", "3D generation from image", "Gaussian splatting workflow"],
+      "cad": ["text to CAD", "generative design CAD", "Fusion AI", "AI parametric modeling", "3D printing AI design"],
+      "tokens": ["design tokens automation", "design system AI", "CSS tooling AI", "accessibility AI audit"],
+      "vr": ["visionOS spatial design", "Apple Vision Pro app design", "Quest AI creation", "VR prototyping AI", "smart glasses UI"],
+      "workflow": ["enterprise design AI adoption", "creative team AI workflow", "AI product design process", "UX research AI"],
+      "korean": ["AI 디자인 툴", "생성형 UI", "디자인 시스템 자동화", "AI 렌더링"]
     }
   },
   "categories": [
     {
       "category": "figma",
+      "allowed_domains": ["figma.com", "vercel.com", "builder.io", "logrocket.com", "uxdesign.cc", "dev.to", "creativebloq.com"],
       "queries": [
-        "site:figma.com blog AI September 2026",
-        "site:uxdesign.cc AI design workflow September 2026",
-        "site:vercel.com changelog v0 AI 2026",
-        "site:builder.io blog AI design to code 2026",
-        "site:creativebloq.com AI design tool news September 2026",
-        "site:dev.to Figma AI MCP design system 2026"
-      ],
-      "allowed_domains": ["figma.com", "vercel.com", "builder.io", "logrocket.com", "uxdesign.cc", "dev.to", "creativebloq.com"]
+        "Figma AI feature update September 2026",
+        "site:creativebloq.com AI design tool September 2026",
+        "v0 Vercel generative UI update 2026",
+        "design-to-code AI agent Figma 2026"
+      ]
     },
     {
       "category": "render",
+      "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com"],
       "queries": [
-        "site:80.lv AI tool release September 2026",
-        "site:cgchannel.com AI 3D software update September 2026",
-        "site:nvidia.com blog RTX AI creators September 2026",
-        "site:fxguide.com AI vfx workflow 2026",
-        "site:keyshot.com OR site:engadget.com AI render 2026"
-      ],
-      "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com"]
+        "site:80.lv AI 3D tool September 2026",
+        "site:cgchannel.com AI release September 2026",
+        "Nvidia RTX AI creators rendering September 2026",
+        "AI 3D generation Gaussian splatting tool 2026"
+      ]
     },
     {
       "category": "cad",
+      "allowed_domains": ["engineering.com", "getleo.ai", "autodesk.com", "all3dp.com", "develop3d.com"],
       "queries": [
-        "site:engineering.com AI CAD generative design September 2026",
-        "site:develop3d.com AI design software 2026",
-        "site:all3dp.com AI 3D modeling text to CAD 2026",
-        "site:autodesk.com news Fusion AI 2026"
-      ],
-      "allowed_domains": ["engineering.com", "getleo.ai", "autodesk.com", "all3dp.com", "develop3d.com"]
+        "site:develop3d.com AI CAD September 2026",
+        "text-to-CAD generative design AI 2026",
+        "Autodesk Fusion AI feature 2026"
+      ]
     },
     {
       "category": "tokens",
+      "allowed_domains": ["parallelhq.com", "mindstudio.ai", "smashingmagazine.com", "css-tricks.com", "dev.to"],
       "queries": [
-        "site:smashingmagazine.com AI design system tokens 2026",
-        "site:css-tricks.com AI CSS tooling 2026",
-        "site:dev.to design tokens automation AI September 2026",
-        "site:parallelhq.com OR site:mindstudio.ai AI design workflow 2026"
-      ],
-      "allowed_domains": ["parallelhq.com", "mindstudio.ai", "smashingmagazine.com", "css-tricks.com", "dev.to"]
+        "site:smashingmagazine.com AI design system September 2026",
+        "design tokens automation AI 2026",
+        "CSS AI tooling accessibility 2026"
+      ]
     },
     {
       "category": "vr",
+      "allowed_domains": ["sgwdesignworks.com", "boston-engineering.com", "roadtovr.com", "uploadvr.com", "apple.com"],
       "queries": [
-        "site:uploadvr.com AI VR September 2026",
-        "site:roadtovr.com AI spatial design September 2026",
-        "site:apple.com newsroom visionOS 2026",
-        "site:sgwdesignworks.com OR site:boston-engineering.com VR prototyping AI 2026"
-      ],
-      "allowed_domains": ["sgwdesignworks.com", "boston-engineering.com", "roadtovr.com", "uploadvr.com", "apple.com"]
+        "site:uploadvr.com AI creation tool September 2026",
+        "site:roadtovr.com spatial design AI September 2026",
+        "Apple Vision Pro visionOS design update 2026"
+      ]
     },
     {
       "category": "workflow",
+      "allowed_domains": ["orq.ai", "fastcompany.com", "cio.com", "eleken.co", "palettt.com", "theverge.com", "venturebeat.com"],
       "queries": [
-        "site:theverge.com AI creative tool September 2026",
-        "site:fastcompany.com design AI September 2026",
+        "site:theverge.com AI design creative tool September 2026",
         "site:venturebeat.com AI agent design workflow September 2026",
-        "site:cio.com AI workflow enterprise design 2026",
-        "site:eleken.co OR site:palettt.com AI UX 2026"
-      ],
-      "allowed_domains": ["orq.ai", "fastcompany.com", "cio.com", "eleken.co", "palettt.com", "theverge.com", "venturebeat.com"]
+        "OpenAI Anthropic Google creative tool release September 2026",
+        "AI image video model launch designers September 2026"
+      ]
     },
     {
       "category": "social",
+      "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"],
       "queries": [
-        "site:youtube.com Figma AI design 2026",
-        "site:youtube.com Fireship AI 2026",
-        "site:youtube.com \"Two Minute Papers\" 2026 AI",
-        "site:youtube.com DesignCourse AI UI 2026",
-        "site:instagram.com midjourney OR runway design 2026"
-      ],
-      "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"]
-    },
-    {
-      "category": "wildcard",
-      "queries": [
-        "AI design tool launch September 7 2026",
-        "generative UI agentic design news this week 2026"
-      ],
-      "allowed_domains": ["*"]
+        "site:youtube.com Figma AI 2026",
+        "AI design tutorial YouTube September 2026"
+      ]
     }
   ]
 }

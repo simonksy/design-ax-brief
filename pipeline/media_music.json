@@ -1,33 +1,11 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "music",
   "media": [
-    {
-      "id": "music-scaler-eq-pro",
-      "type": "image",
-      "src": "pipeline/media/music-scaler-eq-pro.jpg"
-    },
-    {
-      "id": "music-mottune-midi",
-      "type": "video",
-      "src": "pipeline/media/music-mottune-midi.mp4",
-      "poster": "pipeline/media/music-mottune-midi.jpg"
-    },
-    {
-      "id": "music-ai-slop-human-demand",
-      "type": "image",
-      "src": "pipeline/media/music-ai-slop-human-demand.jpg"
-    },
-    {
-      "id": "music-sonos-custom-agents",
-      "type": "image",
-      "src": "pipeline/media/music-sonos-custom-agents.jpg"
-    },
-    {
-      "id": "music-klattsch-singing",
-      "type": "video",
-      "src": "pipeline/media/music-klattsch-singing.mp4",
-      "poster": "pipeline/media/music-klattsch-singing.jpg"
-    }
+    {"id":"music-suno-believe-p4r","type":"image","src":"pipeline/media/music-suno-believe-p4r.jpg"},
+    {"id":"music-soundboost-v4-q7m","type":"video","src":"pipeline/media/music-soundboost-v4-q7m.mp4","poster":"pipeline/media/music-soundboost-v4-q7m.jpg"},
+    {"id":"music-isbell-suno-x3v","type":"image","src":"pipeline/media/music-isbell-suno-x3v.jpg"},
+    {"id":"music-chartmetric-flow-b8k","type":"image","src":"pipeline/media/music-chartmetric-flow-b8k.jpg"},
+    {"id":"music-stella-parton-ai-m6t","type":"image","src":"pipeline/media/music-stella-parton-ai-m6t.jpg"}
   ]
 }

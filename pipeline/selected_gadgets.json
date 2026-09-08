@@ -1,78 +1,66 @@
 {
- "date": "2026-09-08",
- "section": "gadgets",
- "pass": "curator",
- "selection_mode": "auto (user deferred)",
- "picks": [
-  {
-   "rank": 1,
-   "id": "gadgets-violoop-ai-box",
-   "title": "This tiny AI box could save me from upgrading my perfectly good laptop",
-   "url": "https://www.tomsguide.com/computing/laptops/violoop-hands-on-ifa-2026",
-   "source": "Tom's Guide",
-   "published_iso": "2026-09-05T14:18:20Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/B6hUjNrNcpYQiezaSjWsUi-2560-80.jpg",
-   "excerpt": "Violoop showed a small hardware AI assistant at IFA 2026 that plugs into an existing Windows PC or Mac, reads on-screen workflows, performs multi-step actions and keeps its memory graph on-device.",
-   "tool": "Gadgets",
-   "accent": "#ff5a4d",
-   "motif": "headset",
-   "rationale": "An external agent box that upgrades an old machine instead of replacing it — the most practical AI-hardware idea from IFA."
-  },
-  {
-   "rank": 2,
-   "id": "gadgets-timekettle-w4-plus",
-   "title": "These earbuds may be the only translation tool you need overseas",
-   "url": "https://www.androidauthority.com/timekettle-w4-plus-ai-interpreter-earbuds-launch-3706943/",
-   "source": "Android Authority",
-   "published_iso": "2026-09-04T07:00:25+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-All-Colors-White-Background-Scaled.jpg",
-   "excerpt": "Timekettle's W4 Plus interpreter earbuds run Babel OS 3.0, cover 52 languages with 13 offline pairs, translate calls inside Zoom and WhatsApp, and add conversation memory plus live summaries.",
-   "tool": "Gadgets",
-   "accent": "#0070f3",
-   "motif": "headset",
-   "rationale": "A shipping product, not a concept: real-time interpretation that changes how cross-language work meetings run."
-  },
-  {
-   "rank": 3,
-   "id": "gadgets-roomba-duo",
-   "title": "This New iRobot Concept Is the Matryoshka of Robot Vacuums",
-   "url": "https://gizmodo.com/this-new-irobot-concept-is-the-matryoshka-of-robot-vacuums-2000807453",
-   "source": "Gizmodo",
-   "published_iso": "2026-09-04T15:45:35+00:00",
-   "og_image": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching-1200x675.jpg",
-   "excerpt": "iRobot's Roomba Duo concept at IFA 2026 carries a smaller companion robot in a cavity and lowers it with a mechanical arm to reach spaces the main bot cannot.",
-   "tool": "Gadgets",
-   "accent": "#7928ca",
-   "motif": "headset",
-   "rationale": "A robot that deploys another robot — a concrete answer to the reach limits that have capped home robotics."
-  },
-  {
-   "rank": 4,
-   "id": "gadgets-odyss-n1",
-   "title": "I just went hands-on with the Odyss N1 — a sleek AI necklace that automatically logs everything you eat",
-   "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-just-went-hands-on-with-the-odyss-n1-a-sleek-ai-necklace-that-automatically-logs-everything-you-eat",
-   "source": "Tom's Guide",
-   "published_iso": "2026-09-05T16:07:23Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-2560-80.jpg",
-   "excerpt": "A triangular metal pendant with a camera and accelerometer, shown as a concept at IFA 2026, detects what and when the wearer eats without any manual photographing or logging.",
-   "tool": "Gadgets",
-   "accent": "#2ec5c5",
-   "motif": "headset",
-   "rationale": "Passive sensing instead of user input — the clearest example this week of AI removing a logging chore entirely."
-  },
-  {
-   "rank": 5,
-   "id": "gadgets-watch-s12-siri-chip",
-   "title": "Apple Watch Series 12: Three new features coming next week",
-   "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-   "source": "9to5Mac",
-   "published_iso": "2026-09-01T19:18:04+00:00",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg",
-   "excerpt": "Apple Watch Series 12, expected at the September 9 event, is reported to bring a faster S-series chip built for the Siri AI era, plus sensing upgrades.",
-   "tool": "Gadgets",
-   "accent": "#eb367f",
-   "motif": "headset",
-   "rationale": "The first Apple Watch silicon designed around on-device Siri AI — sets the baseline for wrist-level assistants."
-  }
- ]
+  "date": "2026-09-09",
+  "section": "gadgets",
+  "picks": [
+    {
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "headline": "Roborock shows off a series of new vacuums at IFA 2026",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2250013/roborock-shows-off-a-series-of-new-vacuums-at-ifa-2026/",
+      "published_iso": "2026-09-03T11:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/roborock-shows-off-a-series-of-new-vacuums-at-ifa-2026/l-intro-1788387970.jpg",
+      "excerpt": "Roborock unveiled several new robot vacuums, a robotic mower and a pool cleaner at IFA 2026, leaning on AI vision to recognize obstacles and adapt cleaning routes. The lineup shows how far on-device perception has moved into ordinary home appliances.",
+      "rationale": "IFA 2026 로봇청소기 신제품군 발표 — 온디바이스 AI 비전이 가정용 가전으로 내려온 사례."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "headline": "Circular just announced two new smart rings at IFA 2026: I sat down with their CEO to find out more",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/wellness/smart-rings/circular-just-announced-two-new-smart-rings-at-ifa-2026-i-sat-down-with-their-ceo-to-find-out-more",
+      "published_iso": "2026-09-03T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QK2yMX4p6uBqotjSaahz44-2160-80.jpg",
+      "excerpt": "Circular revealed the Ring 3 in Slim and Pro versions, slimmer than the Ring 2 and adding NFC contactless payments plus haptic alerts for alarms and medication. The company frames the AI health coaching as the reason to keep it on your finger.",
+      "rationale": "실제 출시되는 스마트링 2종 + NFC 결제/햅틱 추가, AI 헬스 코칭이 착용 이유로 제시됨."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "headline": "Sept. 2026 Android Drop: Find Hub 'Remembered' list, Motion Assist, & Keep in Google Messages",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/01/september-2026-android-drop/",
+      "published_iso": "2026-09-01T18:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Sept-2026-Android-Drop.jpg?quality=82&strip=all&resize=1200,62",
+      "excerpt": "Google's September Android Drop lets Gemini remember where you physically put objects and adds Guided Vision, which narrates what the camera sees for low-vision users. Motion Assist on Android 17+ overlays moving bubbles to reduce car sickness.",
+      "rationale": "내일 당장 폰에서 쓰는 기능 변화 — Gemini 물건 위치 기억, Guided Vision, Motion Assist."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "headline": "Reolink Debuts OMVI 2i Ultra, Home Hub 2, and TrackFlex WiFi at IFA 2026",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/reolink-debuts-omvi-2i-ultra-home-hub-2-and-trackflex-wifi-at-ifa-2026-expanding-key-product-lines-and-driving-innovation-2000802694",
+      "published_iso": "2026-09-04T11:05:59+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/08/Reolink_IFA-1200x675.jpg",
+      "excerpt": "Reolink expanded its security camera line at IFA 2026 with the OMVI 2i Ultra and a second-generation Home Hub, pushing AI subject detection and local processing deeper into the camera itself.",
+      "rationale": "보안 카메라 내부로 AI 피사체 인식과 로컬 처리를 밀어 넣은 실제 신제품 라인."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "headline": "IFA 2026 'Best in Show' awards: our 25 favorite reveals at the Berlin tech expo",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/ifa-2026-best-in-show-awards-our-25-favorite-reveals-at-the-berlin-tech-expo-from-somersaulting-robots-to-modular-solar-batteries-for-renters",
+      "published_iso": "2026-09-04T12:33:02Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tvdiLWHL7WaxTsWLZxFYqE-2560-80.jpg",
+      "excerpt": "TechRadar picks 25 standouts from IFA 2026, from somersaulting robots to exoskeletons and modular solar batteries. The through-line is AI moving out of apps and into physical objects.",
+      "rationale": "IFA 2026 전체 지형 요약 — AI가 앱에서 나와 물리적 사물로 옮겨간 25개 사례."
+    }
+  ]
 }

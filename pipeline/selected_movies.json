@@ -1,67 +1,66 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "section": "movies",
- "count": 5,
  "picks": [
   {
-   "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film 'Bucking Fastard' Skipped Cannes for Venice",
-   "url": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/",
-   "source": "IndieWire",
-   "published_iso": "2026-09-07T13:15:00+00:00",
-   "excerpt": "At Venice, Herzog talks about 'Bucking Fastard' with Kate and Rooney Mara, his dedication to David Lynch, and dismisses an AI-generated documentary made in his spirit: 'I welcome AI to replace all the idiots who are into nothing but repeating.'",
-   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZNUN.jpg?w=2000",
    "tool": "Movies",
    "accent": "#0070f3",
    "motif": "frame",
-   "rationale": "A working director's sharpest framing yet of where generative video actually belongs — mimicry, not storytelling."
+   "headline": "Adobe's IBC release for Premiere and After Effects",
+   "source": "ProVideo Coalition",
+   "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
+   "published_iso": "2026-09-08T06:05:04-07:00",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg",
+   "excerpt": "Adobe's IBC 2026 release brings AI-generated video directly inside the Premiere Pro timeline, alongside new AI-assisted tools across After Effects. Scott Simmons breaks down what actually lands in the edit suite.",
+   "rationale": "Generative Media Tool ships in Premiere this week and an AE AI assistant writes expression rigs — the deepest hands-on breakdown in the pool."
   },
   {
-   "title": "Full Metal Lunchbox | Runway",
-   "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
-   "source": "Runway",
-   "published_iso": "2026-09-04T13:37:35+00:00",
-   "excerpt": "Runway published a four-minute AI-generated war-movie parody staged entirely with food, chaptered like a feature.",
-   "og_image": "https://i.ytimg.com/vi/fE59FYMIttQ/maxresdefault.jpg",
    "tool": "Movies",
    "accent": "#f5a623",
    "motif": "frame",
-   "rationale": "A first-party look at what Runway's current stack sustains across a four-minute cut, not a ten-second demo."
+   "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features",
+   "source": "No Film School",
+   "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
+   "published_iso": "2026-09-08T16:10:05+00:00",
+   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+   "excerpt": "Blackmagic Design has rolled out its latest update for DaVinci Resolve (version 21.1), introducing AI assistant integration and over 100 new tools and controls. Here’s what you need to know.",
+   "rationale": "Resolve 21.1 puts an AI assistant in the NLE and quietly moves Python scripting behind Studio — both change day-one workflows."
   },
   {
-   "title": "Opinion: The AI Ad Selling Storage to the Filmmakers It's Replacing - Samsung's Portable SSD P9 Campaign",
-   "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
-   "source": "CineD",
-   "published_iso": "2026-09-03T13:30:00+00:00",
-   "excerpt": "Samsung sold its 12K-RAW-ready Portable SSD P9 with a launch film and press stills generated entirely by AI, hallucinated lens text included; CineD's Nino Leitner calls out the irony.",
-   "og_image": "https://www.cined.com/content/uploads/2026/09/Samsung-AI-SSD-Ad-featured-1300x750.jpg",
    "tool": "Movies",
    "accent": "#7928ca",
    "motif": "frame",
-   "rationale": "The clearest case study this week of brands routing commercial production — the crew's bread and butter — into generative pipelines."
+   "headline": "Origami Platform Updates Media Management, Audio Conform, Security and AI Capabilities",
+   "source": "postPerspective",
+   "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
+   "published_iso": "2026-09-08T21:54:37+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg",
+   "excerpt": "Cloud post-production platform Origami has released new capabilities spanning the full post workflow, from on-set media management to audio conform. The update adds AI capabilities aimed at cutting manual prep across the pipeline.",
+   "rationale": "Collections kills manual handoff reorganization and a native MCP endpoint lets an AI agent query pipeline metadata directly."
   },
   {
-   "title": "Art of the Frame Podcast: The Alan Smithee Round Table - What We Did Last Summer",
-   "url": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-what-we-did-last-summer/",
-   "source": "ProVideo Coalition",
-   "published_iso": "2026-09-07T08:36:12-07:00",
-   "excerpt": "Scott Simmons, Katie Hinsen and Michael Kammes open Season 5 on post's shifting software: Adobe's Topaz Labs acquisition pulling AI upscaling natively into its tools, Avid's new Media Composer Enterprise project-sharing requirement pushing Hedge to acquire Mimic, plus Kammes' own practical AI integration.",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/aotf_0907.jpg",
    "tool": "Movies",
    "accent": "#2ec5c5",
    "motif": "frame",
-   "rationale": "Three working post pros mapping which AI shifts actually land in the edit bay this season, and what they cost."
+   "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
+   "source": "befores & afters",
+   "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
+   "published_iso": "2026-09-08T10:25:53+00:00",
+   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg",
+   "excerpt": "Rising Sun Pictures' machine-learning face and performance tool REVIZE is expanding into new territory under Pitch Black. Troy Tobin explains where the ML tech is being pushed next in production.",
+   "rationale": "A proven in-house ML face tool leaves its home studio and lands at FOLKS, El Ranchito and Square One."
   },
   {
-   "title": "Ulanzi AU05 VibeKey AI Voice Input Keypad",
-   "url": "https://www.newsshooter.com/2026/09/06/ulanzi-au05-vibekey-ai-voice-input-keypad/",
-   "source": "Newsshooter",
-   "published_iso": "2026-09-07T02:51:54+00:00",
-   "excerpt": "A $61.59 pocket keypad with a push-to-talk voice key that pipes prompts into ChatGPT, Claude or Codex, plus three remappable keys and a control knob.",
-   "og_image": "https://www.newsshooter.com/wp-content/uploads/2026/09/New-Release-Ulanzi-AU05-VibeKey-A-Smarter-Way-to-Work-with-AI.jpeg",
    "tool": "Movies",
    "accent": "#eb367f",
    "motif": "frame",
-   "rationale": "Hardware that puts an AI prompt key on the edit desk for the price of a memory card."
+   "headline": "Indie VG 'Astro Burn' Starts New Level with AI-Powered Animated Micro-Series",
+   "source": "Animation Magazine",
+   "url": "https://www.animationmagazine.net/2026/08/indie-vg-astro-burn-starts-new-level-with-ai-powered-animated-micro-series/",
+   "published_iso": "2026-08-31T23:10:23+00:00",
+   "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png",
+   "excerpt": "'Astro Burn's cuddly hero is embarking on new missions in an animated micro-series from Beyond the Pixels and AI animation co. Nura.",
+   "rationale": "A concrete cost/schedule datapoint: one episode per working week from a model locked to the creator's own assets, with human voice and music kept."
   }
  ]
 }

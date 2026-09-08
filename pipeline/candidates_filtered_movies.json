@@ -1,110 +1,94 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
+  "section": "movies",
+  "now_iso": "2026-09-08T22:15:00Z",
   "window_hours": 336,
   "items": [
     {
+      "source": "befores & afters",
       "category": "movies",
-      "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film 'Bucking Fastard' Skipped Cannes for Venice",
-      "url": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/",
-      "source": "IndieWire",
-      "published_iso": "2026-09-07T13:15:00+00:00",
-      "excerpt": "Herzog, 84, talks at Venice about 'Bucking Fastard' and dismisses an AI-generated hybrid documentary made in his spirit: 'I welcome AI to replace all the idiots who are into nothing but repeating.'",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZNUN.jpg?w=2000"
+      "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
+      "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
+      "published_iso": "2026-09-08T10:25:53+00:00",
+      "excerpt": "Rising Sun Pictures' machine-learning face and performance tool REVIZE is expanding into new territory under Pitch Black. Troy Tobin explains where the ML tech is being pushed next in production.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg"
     },
     {
+      "source": "Variety",
       "category": "movies",
-      "title": "Full Metal Lunchbox | Runway",
-      "url": "https://www.youtube.com/watch?v=fE59FYMIttQ",
-      "source": "Runway",
-      "published_iso": "2026-09-04T13:37:35+00:00",
-      "excerpt": "Runway released a 4-minute AI-generated war-movie parody staged entirely with food, chaptered like a feature.",
-      "og_image": "https://i.ytimg.com/vi/fE59FYMIttQ/maxresdefault.jpg"
+      "headline": "AI Filmmaking's Future Debated by Alibaba, Sonilo and PROMPTR Executives at Venice",
+      "url": "https://variety.com/2026/tv/asia/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
+      "published_iso": "2026-09-07T05:30:00+00:00",
+      "excerpt": "Executives from Alibaba, Sonilo and PROMPTR debated AI filmmaking's future at a TapNow/Dogme23 panel in Venice, unveiling a Creator Growth Plan.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1"
     },
     {
+      "source": "Variety",
       "category": "movies",
-      "title": "Opinion: The AI Ad Selling Storage to the Filmmakers It's Replacing",
-      "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
-      "source": "CineD",
-      "published_iso": "2026-09-03T13:30:00+00:00",
-      "excerpt": "Samsung marketed its Portable SSD P9 to 12K RAW shooters with a launch film and press stills generated entirely by AI, hallucinated lens text included.",
-      "og_image": "https://www.cined.com/content/uploads/2026/09/Samsung-AI-SSD-Ad-featured-1300x750.jpg"
+      "headline": "Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan",
+      "url": "https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/",
+      "published_iso": "2026-09-03T01:00:00+00:00",
+      "excerpt": "Utopai Studios and DeNA will explore AI-assisted animation production in Japan, with artists retaining final creative control.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Utopai-Dena.jpg?w=1000&h=563&crop=1"
     },
     {
+      "source": "No Film School",
       "category": "movies",
-      "title": "This AI Turns Insane Ideas Into 3D Objects",
-      "url": "https://www.youtube.com/watch?v=tqUEnRj0NbM",
-      "source": "Matt Wolfe",
-      "published_iso": "2026-09-07T16:06:22+00:00",
-      "excerpt": "Tripo 2.0 turns a single image into an exportable 3D model for Blender, Unreal Engine or a 3D printer.",
-      "og_image": "https://i.ytimg.com/vi/tqUEnRj0NbM/maxresdefault.jpg"
+      "headline": "Adobe Unveils New Generative Media Tool in Premiere, Plus More AI-Powered Updates",
+      "url": "https://nofilmschool.com/adobe-generative-media-tool",
+      "published_iso": "2026-09-08T19:45:08+00:00",
+      "excerpt": "More AI-powered tools and upgrades are coming to Premiere and After Effects as Adobe has unveiled its latest updates at IBC 2026.",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67739708&width=1200&height=600&coordinates=124%2C0%2C124%2C0"
     },
     {
+      "source": "No Film School",
       "category": "movies",
-      "title": "Ulanzi AU05 VibeKey AI Voice Input Keypad",
-      "url": "https://www.newsshooter.com/2026/09/06/ulanzi-au05-vibekey-ai-voice-input-keypad/",
-      "source": "Newsshooter",
-      "published_iso": "2026-09-07T02:51:54+00:00",
-      "excerpt": "A $61.59 pocket keypad with a push-to-talk voice key that pipes prompts into ChatGPT, Claude or Codex from the edit desk.",
-      "og_image": "https://www.newsshooter.com/wp-content/uploads/2026/09/New-Release-Ulanzi-AU05-VibeKey-A-Smarter-Way-to-Work-with-AI.jpeg"
+      "headline": "More AI Editing Assistance Is on the Way as Eddie AI V4 Is Unveiled Ahead of IBC",
+      "url": "https://nofilmschool.com/eddie-ai-v4",
+      "published_iso": "2026-09-08T19:15:05+00:00",
+      "excerpt": "Eddie V4 has been released, promising even more features for the AI assistant editor, including some powered-up upgrades.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739810&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
     },
     {
+      "source": "No Film School",
       "category": "movies",
-      "title": "Lorenzo Mieli Talks AI-Made Diesel/Renzo Rosso Bio-Doc 'Be Brave'",
-      "url": "https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/",
-      "source": "Deadline",
-      "published_iso": "2026-09-04T08:27:51+00:00",
-      "excerpt": "The producer on making Venice's first AI-generated documentary without shooting a frame of its subject.",
-      "og_image": ""
+      "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features",
+      "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
+      "published_iso": "2026-09-08T16:10:05+00:00",
+      "excerpt": "Blackmagic Design has rolled out its latest update for DaVinci Resolve (version 21.1), introducing AI assistant integration and over 100 new tools and controls. Here’s what you need to know.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
     },
     {
-      "category": "movies",
-      "title": "Nice Touch V2: AI edit assistant for Premiere Pro & Resolve",
-      "url": "https://www.redsharknews.com/nice-touch-v2-ai-edit-assistant",
-      "source": "RedShark News",
-      "published_iso": "2026-09-07T10:48:26+00:00",
-      "excerpt": "Nice Touch's second version reads footage and assembles selects inside Premiere Pro and DaVinci Resolve.",
-      "og_image": ""
-    },
-    {
-      "category": "movies",
-      "title": "Caira Adds Generative Video Editing - Gemini Omni 1.1 Flash, Runway Aleph 2.0",
-      "url": "https://www.cined.com/caira-adds-generative-video-editing-gemini-omni-1-1-flash-runway-aleph-2-0-and-720p-or-1080p-output/",
-      "source": "CineD",
-      "published_iso": "2026-09-07T13:05:00+00:00",
-      "excerpt": "Caira Studio adds generative video editing driven by Gemini Omni 1.1 Flash and Runway Aleph 2.0.",
-      "og_image": ""
-    },
-    {
-      "category": "movies",
-      "title": "DxO PhotoLab 10: RAW photo editor expands AI-powered tools",
-      "url": "https://www.provideocoalition.com/dxo-photolab-10-raw-photo-editor-expands-ai-powered-tools/",
       "source": "ProVideo Coalition",
-      "published_iso": "2026-09-07T15:22:26+00:00",
-      "excerpt": "DxO PhotoLab 10 widens its AI denoise and masking toolset for stills workflows.",
-      "og_image": ""
+      "category": "movies",
+      "headline": "Adobe's IBC release for Premiere and After Effects",
+      "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
+      "published_iso": "2026-09-08T06:05:04-07:00",
+      "excerpt": "Adobe's IBC 2026 release brings AI-generated video directly inside the Premiere Pro timeline, alongside new AI-assisted tools across After Effects. Scott Simmons breaks down what actually lands in the edit suite.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg"
     },
     {
+      "source": "postPerspective",
       "category": "movies",
-      "title": "Indie VG 'Astro Burn' Starts New Level With AI-Powered Animated Micro-Series",
-      "url": "https://www.animationmagazine.net/2026/08/indie-vg-astro-burn-starts-new-level-with-ai-powered-animated-micro-series/",
+      "headline": "Origami Platform Updates Media Management, Audio Conform, Security and AI Capabilities",
+      "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
+      "published_iso": "2026-09-08T21:54:37+00:00",
+      "excerpt": "Cloud post-production platform Origami has released new capabilities spanning the full post workflow, from on-set media management to audio conform. The update adds AI capabilities aimed at cutting manual prep across the pipeline.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg"
+    },
+    {
       "source": "Animation Magazine",
-      "published_iso": "2026-08-31T23:10:23+00:00",
-      "excerpt": "Hasraf Dulull's game becomes an AI-assisted vertical micro-series.",
-      "og_image": ""
-    },
-    {
       "category": "movies",
-      "title": "Eddie AI adds client review, Resolve integration and pay-as-you-go",
-      "url": "https://www.redsharknews.com/eddie-ai-client-review-davinci-resolve-payg",
-      "source": "RedShark News",
-      "published_iso": "2026-08-31T12:00:00+00:00",
-      "excerpt": "Eddie AI's assistant editor gains client review and Resolve round-tripping.",
-      "og_image": ""
+      "headline": "Indie VG 'Astro Burn' Starts New Level with AI-Powered Animated Micro-Series",
+      "url": "https://www.animationmagazine.net/2026/08/indie-vg-astro-burn-starts-new-level-with-ai-powered-animated-micro-series/",
+      "published_iso": "2026-08-31T23:10:23+00:00",
+      "excerpt": "'Astro Burn's cuddly hero is embarking on new missions in an animated micro-series from Beyond the Pixels and AI animation co. Nura.",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png"
     }
   ],
   "dedup": {
-    "dropped": 7,
-    "kept": 11,
+    "dropped": 5,
+    "kept": 9,
     "against_days": 5
   }
 }

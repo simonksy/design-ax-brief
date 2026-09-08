@@ -1,41 +1,32 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "section": "science",
   "media": [
     {
-      "id": "science-rna-scaffold-stvc8",
-      "type": "image",
-      "src": "pipeline/media/science-rna-scaffold-stvc8.jpg",
-      "credit": "Nature (2026). DOI: 10.1038/s41586-026-10952-3",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg"
+      "id": "science-navier-stokes-agents-q7f",
+      "type": "video",
+      "src": "pipeline/media/science-navier-stokes-agents-q7f.mp4",
+      "poster": "pipeline/media/science-navier-stokes-agents-q7f.jpg"
     },
     {
-      "id": "science-aifs-dday-forecast",
+      "id": "science-alphagenome-atlas-b3d",
       "type": "image",
-      "src": "pipeline/media/science-aifs-dday-forecast.jpg",
-      "credit": "European Centre for Medium-Range Weather Forecasts",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg"
+      "src": "pipeline/media/science-alphagenome-atlas-b3d.jpg"
     },
     {
-      "id": "science-apnea-chatbot-referral",
+      "id": "science-seabed-carbon-emulator-w9k",
       "type": "image",
-      "src": "pipeline/media/science-apnea-chatbot-referral.jpg",
-      "credit": "Unsplash/CC0 Public Domain",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg"
+      "src": "pipeline/media/science-seabed-carbon-emulator-w9k.jpg"
     },
     {
-      "id": "science-controversial-stimuli",
+      "id": "science-mindedness-steering-p4v",
       "type": "image",
-      "src": "pipeline/media/science-controversial-stimuli.jpg",
-      "credit": "Nature Reviews Neuroscience (2026). DOI: 10.1038/s41583-026-01070-0",
-      "source_url": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg"
+      "src": "pipeline/media/science-mindedness-steering-p4v.jpg"
     },
     {
-      "id": "science-benchmirt-audit",
+      "id": "science-earth-observation-oecd-x2m",
       "type": "image",
-      "src": "pipeline/media/science-benchmirt-audit.png",
-      "credit": "Ai2",
-      "source_url": "https://www.datocms-assets.com/64837/1787859394-benchmirt-blog-draft-latest-google-docs-image-1-1.png"
+      "src": "pipeline/media/science-earth-observation-oecd-x2m.jpg"
     }
   ]
 }
