@@ -1,66 +1,85 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-12",
   "section": "design",
   "picks": [
     {
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
       "motif": "frame",
-      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "published_iso": "2026-09-08T20:16:09+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all",
-      "excerpt": "OpenAI's new ChatGPT Sketch mode lets you scribble a rough drawing and have Images 2.5 turn it into a detailed rendering, making a hand sketch part of the prompt. It pushes image generation toward the kind of sketch-and-refine loop designers already use.",
-      "rationale": "Sketch-as-prompt lands directly in the designer's ideation loop; a real shipped mode, not a demo."
+      "headline": "Bringing Design Systems into Figma Make",
+      "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-09-10T14:13:29Z",
+      "og_image": "https://i.ytimg.com/vi/cUXna9ZAfSI/maxresdefault.jpg",
+      "excerpt": "Figma Designer Advocate Anthony DiSpezio walks through building a Make kit so Figma Make generates on-brand prototypes from your own design system components, styles and variables instead of generic AI output.",
+      "rationale": "First-party, step-by-step method to make Figma Make output on-brand — directly changes how a design-system team works tomorrow."
     },
     {
       "tool": "KeyShot",
+      "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "Blackmagic Design releases DaVinci Resolve 21.1",
+      "headline": "Adobe releases After Effects 26.5, plus experimental new AI Assistant",
+      "url": "https://www.cgchannel.com/2026/09/adobe-releases-after-effects-26-5-and-new-ai-assistant-in-beta/",
       "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/09/blackmagic-design-releases-resolve-21-1/",
-      "published_iso": "2026-09-08T13:31:33+00:00",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260908_DaVinciResolve211_MCPServer.jpg",
-      "excerpt": "Blackmagic has shipped DaVinci Resolve 21.1, a sizeable update to the free grading and editing app that adds an MCP server alongside new VFX and colour features. Exposing Resolve to AI agents over Model Context Protocol puts an agent directly inside a post-production timeline.",
-      "rationale": "An MCP server inside a free NLE means agents can drive a real post timeline today."
-    },
-    {
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "headline": "Autodesk's AI blueprint for CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/cad/autodesks-ai-blueprint-for-cad/",
-      "published_iso": "2026-09-08T08:40:38+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/ImageGenerationFusionAutodeskAssistant.jpg",
-      "excerpt": "Autodesk has laid out its AI blueprint for CAD, pairing geometry-aware models with project-level intelligence inside Fusion. The aim is an assistant that understands parts and constraints rather than just text, reshaping how engineers and industrial designers iterate.",
-      "rationale": "Geometry-aware models rather than text wrappers is the first credible shape of AI inside CAD."
-    },
-    {
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "headline": "Date Slop: building a deliberately bad UX with AI",
-      "source": "DEV Community",
-      "url": "https://dev.to/hdv/date-slop-building-a-deliberately-bad-ux-with-ai-3nml",
-      "published_iso": "2026-09-08T21:38:18Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc6wrjjgnhx3ywwmtirsp.png",
-      "excerpt": "A developer entered a Bad UX competition for the worst possible date picker and used AI to build it. The exercise turns into a sharp read on how readily generative tools produce plausible-looking but hostile interface patterns.",
-      "rationale": "Backfill for a paywalled pick; a built artefact plus concrete lessons on shipping an AI feature into a real UI."
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_f-960x480.jpg",
+      "excerpt": "After Effects 26.5 ships new motion graphics and compositing features, and the current beta adds an agentic AI Assistant that can drive the app from natural-language instructions.",
+      "rationale": "A shipped major-app release plus an agentic assistant that drives After Effects by prompt — concrete news motion designers can install today."
     },
     {
       "tool": "AI Workflow",
-      "accent": "#3b6bff",
+      "category": "workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "headline": "Your AI-written brief might wreck your brand's chances of finding the right creatives",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/branding/your-ai-written-brief-might-wreck-your-brands-chances-of-finding-the-right-creatives",
-      "published_iso": "2026-09-08T07:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/M7B64KDJqXbhq5AYqBqSMJ-1920-80.jpg",
-      "excerpt": "Design agencies say AI-generated client briefs are flattening the signals they used to read when deciding which founders to take a chance on. The result is a hiring and pitching process that filters out exactly the interesting work it was meant to attract.",
-      "rationale": "Changes how a brief gets written tomorrow; sourced from agencies actually rejecting the work."
+      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge",
+      "published_iso": "2026-09-10T21:25:21Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&w=1200",
+      "excerpt": "Slack's new Surfaces feature lets anyone generate interactive charts, dashboards and mini-apps from a prompt directly in a channel — generative UI landing inside the tool teams already live in.",
+      "rationale": "Generative UI arrives where teams already work; designers now have to think about interfaces non-designers prompt into existence."
+    },
+    {
+      "tool": "Text-to-CAD",
+      "category": "cad",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "headline": "InfinitForm brings determinism back to generative design",
+      "url": "https://www.engineering.com/infinitform-brings-determinism-back-to-generative-design/",
+      "source": "Engineering.com",
+      "published_iso": "2026-09-09T19:21:06Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep8.png",
+      "excerpt": "InfinitForm's cloud platform positions AI as an assistant rather than the engine of generative design, aiming for repeatable, manufacturable geometry instead of one-off organic blobs engineers can't reproduce.",
+      "rationale": "Counter-narrative to AI-as-generator: repeatable, manufacturable geometry is the constraint industrial designers actually ship against."
+    },
+    {
+      "tool": "Design Tokens",
+      "category": "tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "headline": "8 voice AI UX patterns",
+      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0",
+      "source": "UX Collective",
+      "published_iso": "2026-09-10T22:40:55Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*yoggBwjdzBWtH9OpJjrZ9g.jpeg",
+      "excerpt": "Sharang Sharma maps eight emerging voice-AI UX patterns, the agent roles users perceive behind each, and the key design decisions and limitations that come with them.",
+      "rationale": "A reusable pattern vocabulary for voice agents — the closest thing to a spec sheet for designers starting conversational work."
     }
-  ]
+  ],
+  "dedup": {
+    "history_days_checked": 6,
+    "dropped": [
+      {
+        "url": "https://www.youtube.com/watch?v=dZnsz2RYoAQ",
+        "reason": "Same release (ChatGPT Images 2.5) already published 2026-09-09 as The Verge 'ChatGPT can now turn your sketches into photos' — duplicate event via different outlet."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=iSXeiUXiln8",
+        "reason": "Same source + same core topic as 2026-09-08 Matt Wolfe 'Tripo 2.0 image-to-3D' card; single-photo-to-3D already covered."
+      }
+    ],
+    "backfilled": true
+  }
 }

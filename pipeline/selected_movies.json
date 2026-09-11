@@ -1,66 +1,84 @@
 {
- "date": "2026-09-09",
- "section": "movies",
- "picks": [
-  {
-   "tool": "Movies",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "headline": "Adobe's IBC release for Premiere and After Effects",
-   "source": "ProVideo Coalition",
-   "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
-   "published_iso": "2026-09-08T06:05:04-07:00",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg",
-   "excerpt": "Adobe's IBC 2026 release brings AI-generated video directly inside the Premiere Pro timeline, alongside new AI-assisted tools across After Effects. Scott Simmons breaks down what actually lands in the edit suite.",
-   "rationale": "Generative Media Tool ships in Premiere this week and an AE AI assistant writes expression rigs — the deepest hands-on breakdown in the pool."
-  },
-  {
-   "tool": "Movies",
-   "accent": "#f5a623",
-   "motif": "frame",
-   "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features",
-   "source": "No Film School",
-   "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
-   "published_iso": "2026-09-08T16:10:05+00:00",
-   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-   "excerpt": "Blackmagic Design has rolled out its latest update for DaVinci Resolve (version 21.1), introducing AI assistant integration and over 100 new tools and controls. Here’s what you need to know.",
-   "rationale": "Resolve 21.1 puts an AI assistant in the NLE and quietly moves Python scripting behind Studio — both change day-one workflows."
-  },
-  {
-   "tool": "Movies",
-   "accent": "#7928ca",
-   "motif": "frame",
-   "headline": "Origami Platform Updates Media Management, Audio Conform, Security and AI Capabilities",
-   "source": "postPerspective",
-   "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
-   "published_iso": "2026-09-08T21:54:37+00:00",
-   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg",
-   "excerpt": "Cloud post-production platform Origami has released new capabilities spanning the full post workflow, from on-set media management to audio conform. The update adds AI capabilities aimed at cutting manual prep across the pipeline.",
-   "rationale": "Collections kills manual handoff reorganization and a native MCP endpoint lets an AI agent query pipeline metadata directly."
-  },
-  {
-   "tool": "Movies",
-   "accent": "#2ec5c5",
-   "motif": "frame",
-   "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
-   "source": "befores & afters",
-   "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
-   "published_iso": "2026-09-08T10:25:53+00:00",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg",
-   "excerpt": "Rising Sun Pictures' machine-learning face and performance tool REVIZE is expanding into new territory under Pitch Black. Troy Tobin explains where the ML tech is being pushed next in production.",
-   "rationale": "A proven in-house ML face tool leaves its home studio and lands at FOLKS, El Ranchito and Square One."
-  },
-  {
-   "tool": "Movies",
-   "accent": "#eb367f",
-   "motif": "frame",
-   "headline": "Indie VG 'Astro Burn' Starts New Level with AI-Powered Animated Micro-Series",
-   "source": "Animation Magazine",
-   "url": "https://www.animationmagazine.net/2026/08/indie-vg-astro-burn-starts-new-level-with-ai-powered-animated-micro-series/",
-   "published_iso": "2026-08-31T23:10:23+00:00",
-   "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png",
-   "excerpt": "'Astro Burn's cuddly hero is embarking on new missions in an animated micro-series from Beyond the Pixels and AI animation co. Nura.",
-   "rationale": "A concrete cost/schedule datapoint: one episode per working week from a model locked to the creator's own assets, with human voice and music kept."
-  }
- ]
+  "date": "2026-09-12",
+  "section": "movies",
+  "picks": [
+    {
+      "headline": "Eddie AI v4 adds Avid support, C2PA signing, and generative b-roll",
+      "url": "https://www.redsharknews.com/eddie-ai-v4-avid-c2pa-generative-features",
+      "source": "RedShark News",
+      "published_iso": "2026-09-10T11:45:00+00:00",
+      "og_image": "https://www.redsharknews.com/hubfs/eddie%20ai%20v4.jpg",
+      "excerpt": "Eddie AI v4 adds native Avid Media Composer handoff, automatic camera sync, and generative music, voiceover and b-roll. It also signs output with C2PA content credentials and offers a smaller on-premises model for facilities.",
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Assistant-editor AI now hands off natively to Avid, signs its output with C2PA, and runs on-prem — a concrete change to tomorrow's cutting-room setup."
+    },
+    {
+      "headline": "AI-Generated Verticals Are Flooding the Microdrama Apps That Kept Crews Working",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-09-10T13:05:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1440&h=810&crop=1",
+      "excerpt": "Phone-first microdramas became a post-strike lifeline for underemployed LA cast and crew. Now AI-generated verticals are saturating the same apps, and auditions are drying up.",
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "The clearest field report yet on where generative video is actually displacing paid production work — the vertical microdrama market, not features."
+    },
+    {
+      "headline": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO",
+      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/",
+      "source": "postPerspective",
+      "published_iso": "2026-09-11T15:32:23+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png",
+      "excerpt": "Studio Network Solutions expanded the AI layer inside its EVO shared storage, pushing transcription, tagging and search onto the facility's own hardware. The IBC update also widens Avid Media Composer compatibility.",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Transcription, tagging and search move into the shared storage itself and stay on the facility's own hardware — the on-prem answer to cloud media AI."
+    },
+    {
+      "headline": "Guillermo Del Toro On What Artists Lose To AI: 'You're Never A Master; You're Always An Apprentice'",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-09-10T03:11:54-07:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Pans-Labyrinth.jpg",
+      "excerpt": "Del Toro uses the Pale Man, practical effects and creative accidents to argue what disappears when process is replaced by prompting. His framing is about craft apprenticeship, not copyright.",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "A craft argument rather than a copyright one: what a creative team loses when the process that trains people is replaced by a prompt."
+    },
+    {
+      "headline": "Daniel Kwan and Joseph Gordon-Levitt's CCAI Launches a Site to Define AI's Impact",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-impact-hollywood-kwan-gordon-levitt-study-1236695085/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-09-09T13:00:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=1440&h=810&crop=1",
+      "excerpt": "The Concerned Creatives coalition led by Daniel Kwan and Joseph Gordon-Levitt is publishing a living web resource mapping how AI is actually hitting creative work. It aims to give filmmakers shared evidence rather than vibes.",
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "A filmmaker-built, continuously updated evidence base creatives can cite in real negotiations instead of trading anecdotes."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
+      "reason": "Duplicate of published 2026-09-05 card movies-tamar-ai-s-tapnow-brings — same Variety article id 1236846503 under a different section path."
+    },
+    {
+      "url": "https://nofilmschool.com/adobe-generative-media-tool",
+      "reason": "Same story as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Adobe IBC Generative Media Tool in Premiere), different outlet."
+    },
+    {
+      "url": "https://variety.com/2026/tv/markets-festivals/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
+      "reason": "Surviving but not picked — heavy topical overlap with the already-published Tamar AI / HappyHorse / Venice Production Bridge card (2026-09-05)."
+    },
+    {
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "reason": "Surviving but not picked — same source and same core topic (HOPE mocap with Vikander and Fassbender) as the published 2026-09-04 card movies-hope-mocap."
+    }
+  ]
 }

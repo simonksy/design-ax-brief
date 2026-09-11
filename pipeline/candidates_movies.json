@@ -1,134 +1,161 @@
 {
- "date": "2026-09-09",
- "section": "movies",
- "now_iso": "2026-09-08T22:15:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "source": "befores & afters",
-   "category": "movies",
-   "headline": "Nikola Todorovic on the latest developments in Autodesk's Flow Studio",
-   "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
-   "published_iso": "2026-09-01T11:50:50+00:00",
-   "excerpt": "Autodesk's Flow Studio (built by the Wonder Dynamics team) has added a 3D Editor + Canvas workspace for generating, assembling, rendering and refining scenes. Co-founder Nikola Todorovic walks through how the AI filmmaking toolset now fits a shot-based production workflow.",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg"
-  },
-  {
-   "source": "befores & afters",
-   "category": "movies",
-   "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
-   "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
-   "published_iso": "2026-09-08T10:25:53+00:00",
-   "excerpt": "Rising Sun Pictures' machine-learning face and performance tool REVIZE is expanding into new territory under Pitch Black. Troy Tobin explains where the ML tech is being pushed next in production.",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg"
-  },
-  {
-   "source": "Deadline",
-   "category": "movies",
-   "headline": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
-   "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
-   "published_iso": "2026-09-05T21:41:26+00:00",
-   "excerpt": "\"There's about 30 seconds of it in our movie,\" the Oscar winner said about using AI to bring the Kray twins and Margaret Thatcher to life on screen.",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
-  },
-  {
-   "source": "Variety",
-   "category": "movies",
-   "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking to Venice Production Bridge",
-   "url": "https://variety.com/2026/tv/news/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-   "published_iso": "2026-09-04T08:40:43+00:00",
-   "excerpt": "TapNow, HappyHorse and Glanze head to Venice Production Bridge as Tamar AI bets AI tools can turn small teams into global studios.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "source": "Variety",
-   "category": "movies",
-   "headline": "AI Filmmaking's Future Debated by Alibaba, Sonilo and PROMPTR Executives at Venice",
-   "url": "https://variety.com/2026/tv/asia/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
-   "published_iso": "2026-09-07T05:30:00+00:00",
-   "excerpt": "Executives from Alibaba, Sonilo and PROMPTR debated AI filmmaking's future at a TapNow/Dogme23 panel in Venice, unveiling a Creator Growth Plan.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "source": "Variety",
-   "category": "movies",
-   "headline": "Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan",
-   "url": "https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/",
-   "published_iso": "2026-09-03T01:00:00+00:00",
-   "excerpt": "Utopai Studios and DeNA will explore AI-assisted animation production in Japan, with artists retaining final creative control.",
-   "og_image": "https://variety.com/wp-content/uploads/2026/09/Utopai-Dena.jpg?w=1000&h=563&crop=1"
-  },
-  {
-   "source": "IndieWire",
-   "category": "movies",
-   "headline": "What I Learned Watching Six Hours of Gen-AI Short Films for the Reply AI Film Festival",
-   "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
-   "published_iso": "2026-09-05T15:12:10+00:00",
-   "excerpt": "IndieWire shares their experience serving on a jury for the Reply AI Film Festival after watching six hours worth of AI-generated short films.",
-   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650"
-  },
-  {
-   "source": "fxguide",
-   "category": "movies",
-   "headline": "The power of on-premises open-weight models for generative media",
-   "url": "https://www.fxguide.com/quicktakes/the-power-of-on-premises-open-weight-models-for-generative-media/",
-   "published_iso": "2026-08-28T10:43:50-05:00",
-   "excerpt": "A look at how VFX and post facilities are adopting open-weight generative AI models on local hardware. Running models on-premises improves workflow stability, security, cost predictability and delivery efficiency.",
-   "og_image": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-OpenWeights.jpg"
-  },
-  {
-   "source": "No Film School",
-   "category": "movies",
-   "headline": "Adobe Unveils New Generative Media Tool in Premiere, Plus More AI-Powered Updates",
-   "url": "https://nofilmschool.com/adobe-generative-media-tool",
-   "published_iso": "2026-09-08T19:45:08+00:00",
-   "excerpt": "More AI-powered tools and upgrades are coming to Premiere and After Effects as Adobe has unveiled its latest updates at IBC 2026.",
-   "og_image": "https://nofilmschool.com/media-library/image.webp?id=67739708&width=1200&height=600&coordinates=124%2C0%2C124%2C0"
-  },
-  {
-   "source": "No Film School",
-   "category": "movies",
-   "headline": "More AI Editing Assistance Is on the Way as Eddie AI V4 Is Unveiled Ahead of IBC",
-   "url": "https://nofilmschool.com/eddie-ai-v4",
-   "published_iso": "2026-09-08T19:15:05+00:00",
-   "excerpt": "Eddie V4 has been released, promising even more features for the AI assistant editor, including some powered-up upgrades.",
-   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739810&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
-  },
-  {
-   "source": "No Film School",
-   "category": "movies",
-   "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features",
-   "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
-   "published_iso": "2026-09-08T16:10:05+00:00",
-   "excerpt": "Blackmagic Design has rolled out its latest update for DaVinci Resolve (version 21.1), introducing AI assistant integration and over 100 new tools and controls. Here’s what you need to know.",
-   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
-  },
-  {
-   "source": "ProVideo Coalition",
-   "category": "movies",
-   "headline": "Adobe's IBC release for Premiere and After Effects",
-   "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
-   "published_iso": "2026-09-08T06:05:04-07:00",
-   "excerpt": "Adobe's IBC 2026 release brings AI-generated video directly inside the Premiere Pro timeline, alongside new AI-assisted tools across After Effects. Scott Simmons breaks down what actually lands in the edit suite.",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg"
-  },
-  {
-   "source": "postPerspective",
-   "category": "movies",
-   "headline": "Origami Platform Updates Media Management, Audio Conform, Security and AI Capabilities",
-   "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
-   "published_iso": "2026-09-08T21:54:37+00:00",
-   "excerpt": "Cloud post-production platform Origami has released new capabilities spanning the full post workflow, from on-set media management to audio conform. The update adds AI capabilities aimed at cutting manual prep across the pipeline.",
-   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg"
-  },
-  {
-   "source": "Animation Magazine",
-   "category": "movies",
-   "headline": "Indie VG 'Astro Burn' Starts New Level with AI-Powered Animated Micro-Series",
-   "url": "https://www.animationmagazine.net/2026/08/indie-vg-astro-burn-starts-new-level-with-ai-powered-animated-micro-series/",
-   "published_iso": "2026-08-31T23:10:23+00:00",
-   "excerpt": "'Astro Burn's cuddly hero is embarking on new missions in an animated micro-series from Beyond the Pixels and AI animation co. Nura.",
-   "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png"
-  }
- ]
+  "date": "2026-09-12",
+  "section": "movies",
+  "now_iso": "2026-09-11T22:02:15Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "source": "Deadline",
+      "category": "movies",
+      "headline": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
+      "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
+      "published_iso": "2026-09-05T21:41:26+00:00",
+      "excerpt": "Danny Boyle says roughly 30 seconds of generative AI appears in 'Ink', used to animate archival photographs of the Kray twins and Margaret Thatcher. The Venice premiere put a mainstream auteur's limited, disclosed AI use on the record.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
+    },
+    {
+      "source": "Variety",
+      "category": "movies",
+      "headline": "AI Filmmaking Debated by Alibaba, Sonilo, PROMPTR at Venice Panel",
+      "url": "https://variety.com/2026/tv/markets-festivals/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
+      "published_iso": "2026-09-07T05:30:00+00:00",
+      "excerpt": "At Venice Production Bridge, executives from Alibaba Token Hub, Sonilo and PROMPTR argued generative video is landing first in pre-production. Alibaba said HappyHorse 2.0 and a real-time 'world model' companion, HappyHorse Control, ship by end of September.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "source": "Variety",
+      "category": "movies",
+      "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking to Venice Production Bridge",
+      "url": "https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
+      "published_iso": "2026-09-04T08:40:43+00:00",
+      "excerpt": "Tamar AI pitched TapNow as an AI-native creative operating system bundling multimodal models, agents and production workflow in one environment. Three films made under its 10,000 Parallel Universes program screened at Venice.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "source": "No Film School",
+      "category": "movies",
+      "headline": "Adobe Unveils New Generative Media Tool in Premiere, Plus More AI-Powered Updates",
+      "url": "https://nofilmschool.com/adobe-generative-media-tool",
+      "published_iso": "2026-09-08T19:45:08+00:00",
+      "excerpt": "Adobe's IBC 2026 release puts a Generative Media Tool directly on the Premiere timeline, letting editors generate video and sound effects in place. It routes to Firefly plus partner models including Google Veo, Kling, Runway and Luma.",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67739708&width=1200&height=600&coordinates=124%2C0%2C124%2C0"
+    },
+    {
+      "source": "No Film School",
+      "category": "movies",
+      "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features With 21.1 Update",
+      "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
+      "published_iso": "2026-09-08T16:10:05+00:00",
+      "excerpt": "Blackmagic's free Resolve 21.1 update adds AI assistant integration and more than 100 new tools and controls across edit, color, Fusion and Fairlight. Assistants can analyze projects and organize media from inside the NLE.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
+    },
+    {
+      "source": "No Film School",
+      "category": "movies",
+      "headline": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
+      "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
+      "published_iso": "2026-09-02T20:55:01+00:00",
+      "excerpt": "Eddie AI opened an Agent Marketplace where editors can hire style-specific cutting agents modeled on well-known filmmakers' sensibilities. It reframes AI editing from one generic assistant into a roster of hireable, opinionated collaborators.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20"
+    },
+    {
+      "source": "RedShark News",
+      "category": "movies",
+      "headline": "Eddie AI v4 adds Avid support, C2PA signing, and generative b-roll",
+      "url": "https://www.redsharknews.com/eddie-ai-v4-avid-c2pa-generative-features",
+      "published_iso": "2026-09-10T11:45:00+00:00",
+      "excerpt": "Eddie AI v4 adds native Avid Media Composer handoff, automatic camera sync, and generative music, voiceover and b-roll. It also signs output with C2PA content credentials and offers a smaller on-premises model for facilities.",
+      "og_image": "https://www.redsharknews.com/hubfs/eddie%20ai%20v4.jpg"
+    },
+    {
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "headline": "Adobe's IBC Release for Premiere and After Effects",
+      "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
+      "published_iso": "2026-09-08T06:05:04-07:00",
+      "excerpt": "Beyond timeline generative video, Adobe's IBC drop brings a new AI assistant to After Effects that can write expressions and drive the app conversationally. The write-up walks through what actually shipped versus what remains beta.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg"
+    },
+    {
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO",
+      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/",
+      "published_iso": "2026-09-11T15:32:23+00:00",
+      "excerpt": "Studio Network Solutions expanded the AI layer inside its EVO shared storage, pushing transcription, tagging and search onto the facility's own hardware. The IBC update also widens Avid Media Composer compatibility.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png"
+    },
+    {
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "Origami Platform Updates MAM, Audio Conform, Security and AI Capabilities",
+      "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
+      "published_iso": "2026-09-08T21:54:37+00:00",
+      "excerpt": "Origami's cloud post platform extended machine-learning features from on-set media management through audio conform and final delivery. The release targets the unglamorous middle of the post pipeline rather than generation.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg"
+    },
+    {
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
+      "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
+      "published_iso": "2026-09-08T10:25:53+00:00",
+      "excerpt": "REVIZE, the machine-learning toolset built at Rising Sun Pictures for face and de-aging work, is being rolled out across affiliated studios FOLKS, El Ranchito and Square One. Tobin details how the ML pipeline slots into shot work.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg"
+    },
+    {
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "The director of 'HOPE' breaks down those chase scenes, and mocap with Vikander and Fassbender",
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "published_iso": "2026-09-10T10:54:01+00:00",
+      "excerpt": "A breakdown of how 'HOPE' staged its chase sequences and captured performances from Alicia Vikander and Michael Fassbender on a motion-capture stage. The piece also covers how the film's creatures were designed.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg"
+    },
+    {
+      "source": "Animation World Network",
+      "category": "movies",
+      "headline": "Nura Studios Opens Showcraft AI Production Platform to the Public",
+      "url": "https://www.awn.com/news/nura-studios-opens-showcraft-ai-production-platform-public",
+      "published_iso": "2026-09-03T15:54:00+00:00",
+      "excerpt": "Showcraft takes a story from script or shot list through storyboard, animatic, animation and final edit in one environment, orchestrating multiple image and video models around human-created IP. Public access runs on one-time credit packs, not subscriptions.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081221-rainbowhollowfuneral1-1280.jpg?itok=Tn_oPVHN"
+    },
+    {
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "headline": "AI-Generated Verticals Are Flooding the Microdrama Apps That Kept Crews Working",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/",
+      "published_iso": "2026-09-10T13:05:00+00:00",
+      "excerpt": "Phone-first microdramas became a post-strike lifeline for underemployed LA cast and crew. Now AI-generated verticals are saturating the same apps, and auditions are drying up.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "headline": "Daniel Kwan and Joseph Gordon-Levitt's CCAI Launches a Site to Define AI's Impact",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-impact-hollywood-kwan-gordon-levitt-study-1236695085/",
+      "published_iso": "2026-09-09T13:00:00+00:00",
+      "excerpt": "The Concerned Creatives coalition led by Daniel Kwan and Joseph Gordon-Levitt is publishing a living web resource mapping how AI is actually hitting creative work. It aims to give filmmakers shared evidence rather than vibes.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "source": "Cartoon Brew",
+      "category": "movies",
+      "headline": "Guillermo Del Toro On What Artists Lose To AI: 'You're Never A Master; You're Always An Apprentice'",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html",
+      "published_iso": "2026-09-10T03:11:54-07:00",
+      "excerpt": "Del Toro uses the Pale Man, practical effects and creative accidents to argue what disappears when process is replaced by prompting. His framing is about craft apprenticeship, not copyright.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Pans-Labyrinth.jpg"
+    },
+    {
+      "source": "80 Level",
+      "category": "movies",
+      "headline": "EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
+      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity",
+      "published_iso": "2026-09-11T18:10:00+00:00",
+      "excerpt": "Researchers Anamaria Buliga and Kamil Tebani combine spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable 3D environments in Unity. It suggests a location-scout-by-ear route into previs.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png"
+    }
+  ]
 }

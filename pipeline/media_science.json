@@ -1,32 +1,10 @@
 {
-  "date": "2026-09-09",
-  "section": "science",
+  "date": "2026-09-12",
   "media": [
-    {
-      "id": "science-navier-stokes-agents-q7f",
-      "type": "video",
-      "src": "pipeline/media/science-navier-stokes-agents-q7f.mp4",
-      "poster": "pipeline/media/science-navier-stokes-agents-q7f.jpg"
-    },
-    {
-      "id": "science-alphagenome-atlas-b3d",
-      "type": "image",
-      "src": "pipeline/media/science-alphagenome-atlas-b3d.jpg"
-    },
-    {
-      "id": "science-seabed-carbon-emulator-w9k",
-      "type": "image",
-      "src": "pipeline/media/science-seabed-carbon-emulator-w9k.jpg"
-    },
-    {
-      "id": "science-mindedness-steering-p4v",
-      "type": "image",
-      "src": "pipeline/media/science-mindedness-steering-p4v.jpg"
-    },
-    {
-      "id": "science-earth-observation-oecd-x2m",
-      "type": "image",
-      "src": "pipeline/media/science-earth-observation-oecd-x2m.jpg"
-    }
+    { "id": "science-lunar-open-model-k7p", "type": "image", "src": "pipeline/media/science-lunar-open-model-k7p.jpg" },
+    { "id": "science-ekg-queen-hearts-m3v", "type": "image", "src": "pipeline/media/science-ekg-queen-hearts-m3v.jpeg" },
+    { "id": "science-gpn-star-genome-b8q", "type": "image", "src": "pipeline/media/science-gpn-star-genome-b8q.jpg" },
+    { "id": "science-constitutive-laws-r4d", "type": "image", "src": "pipeline/media/science-constitutive-laws-r4d.jpg" },
+    { "id": "science-ignisqnc-quantum-w9t", "type": "image", "src": "pipeline/media/science-ignisqnc-quantum-w9t.png" }
   ]
 }

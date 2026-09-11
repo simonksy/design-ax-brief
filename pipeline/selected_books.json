@@ -1,64 +1,94 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-12",
   "section": "books",
   "picks": [
     {
+      "rank": 1,
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Authors Guild publishes survey results about copyright registration failures",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
-      "published_iso": "2026-08-26T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Authors ruled ineligible for the Anthropic settlement discovered their publishers never registered their titles with the U.S. Copyright Office — an administrative failure that is now costing writers real money.",
-      "rationale": "500+ authors, 1,400 books: hard data showing publishers skipped a contractual duty that just cost writers $3,000 a title — directly actionable for any author's next contract."
+      "category": "books",
+      "headline": "AI debate has shifted from 'can we' to 'should we', IPG Autumn Conference 2026 hears",
+      "url": "https://www.thebookseller.com/news/ai-debate-has-shifted-from-can-we-to-should-we-ipg-autumn-conference-2026-hears",
+      "source": "The Bookseller",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "og_image": null,
+      "excerpt": "AI dominated the Independent Publishers Guild Autumn Conference, with new IPG research showing adoption among indie publishers has jumped to 76% in 2026 from 42% in 2023, and 72.9% now hold a formal AI policy. The report's blunt finding: AI may have damaged trust between publishers and authors more than it has actually changed workflows.",
+      "rationale": "Fresh hard numbers on where indie publishing actually stands on AI adoption and policy — a benchmark anyone writing an AI policy can measure against."
     },
     {
+      "rank": 2,
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "category": "books",
+      "headline": "Oxford University Press updates guidelines as AI use 'measurably' under-disclosed",
+      "url": "https://www.thebookseller.com/news/oxford-university-press-updates-guidelines-as-ai-use-measurably-under-disclosed",
+      "source": "The Bookseller",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+      "excerpt": "An OUP survey found a wide gap between how often researchers actually use AI in their writing and how often they declare it, prompting the publisher to rewrite its author submission guidelines. The update pushes disclosure of AI assistance from optional courtesy toward an explicit condition of submission.",
+      "rationale": "A major publisher turning AI disclosure into a submission requirement changes what authors must write down before they submit tomorrow."
+    },
+    {
+      "rank": 3,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "published_iso": "2026-09-06T20:47:37Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "excerpt": "As payouts from the $1.5 billion Anthropic copyright settlement begin, authors say publishers and agents appear to be claiming more than their contractual share of the roughly $3,000 owed per infringed work.",
-      "rationale": "New beat beyond the publisher-error story already run: literary agencies are claiming a cut despite holding no rights, plus the Aug 10 2022 reversion cutoff authors need to dispute."
+      "category": "books",
+      "headline": "Writers' AI Fears Often Run Ahead of the Facts",
+      "url": "https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-11T09:00:00Z",
+      "og_image": null,
+      "excerpt": "Friedman takes on three of the loudest writer anxieties — agents secretly using AI, detector false positives, and proving human authorship — and finds the online panic bears little resemblance to agency and publisher practice. She notes rejections tied to detection scores generally start around 20-25%, not at a light AI touch.",
+      "rationale": "Puts concrete thresholds and real agency practice behind the detector panic, so writers can calibrate instead of guessing."
     },
     {
+      "rank": 4,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "AI Updates, Remembering Dolly Parton, and More News for Library Workers",
-      "source": "Book Riot",
-      "url": "https://bookriot.com/news-for-library-workers-september-8-2026/",
-      "published_iso": "2026-09-08T10:01:00Z",
-      "og_image": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg",
-      "excerpt": "Book Riot's weekly roundup for library workers leads with the latest AI developments hitting libraries — from vendor AI features to policy fights over AI-generated material in collections.",
-      "rationale": "Freshest item in the pool and the only one reporting the physical-supply side: AI firms buying up secondhand stock, rare books routed to an Amazon training facility."
+      "category": "books",
+      "headline": "Simon & Schuster is making indie publishing easier",
+      "url": "https://goodereader.com/blog/digital-publishing/simon-schuster-is-making-indie-publishing-easier",
+      "source": "Good e-Reader",
+      "published_iso": "2026-09-10T04:26:00Z",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10002615/pr-simonstream.png",
+      "excerpt": "Simon & Schuster relaunched Pocket Books for print deals and added Simon Stream with 50% net e-book royalties, aimed at self-published authors who want a major imprint's stamp. The pitch is explicitly positioned as a way for real books to stand out from the flood of AI-generated slop.",
+      "rationale": "A concrete new route and royalty rate for self-published authors, framed as a human-authorship signal against AI slop."
     },
     {
+      "rank": 5,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "Audible Ramps Up English Translations of European Audiobooks",
+      "category": "books",
+      "headline": "What Webtoon's New AI Partnership Could Mean for Translators",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/101185-audible-ramps-up-english-translations-of-european-audiobooks.html",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131280-1.PNG",
-      "excerpt": "Audible says it has quadrupled the number of titles translated into English from European languages this year, with European translations up 300% year-over-year — and a spokesperson confirmed every one of them was done by humans, not AI.",
-      "rationale": "Recovery pass pick: the only fresh, non-duplicate AI-angle books story left in the window. At the exact moment Audible is pushing AI narration and AI translation to publishers, its own fastest-growing translation slate is explicitly all-human — a hard datapoint for the human-vs-machine translation question."
+      "published_iso": "2026-09-09T15:00:00Z",
+      "og_image": null,
+      "excerpt": "Webtoon is rolling out AI auto-translation for self-published Canvas creators plus 'byUS', a Korea-only interactive story-chat service that lets readers generate new stories from existing webcomics. Translators interviewed say the tooling can speed localization but still misses the cultural nuance that East Asian comics depend on.",
+      "rationale": "A shipping AI localization pipeline on a major creator platform, with working translators saying exactly where it breaks."
     }
   ],
-  "dropped": [
+  "dropped_as_duplicate": [
     {
-      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
-      "reason": "CONTENT dedup — same launch as books-google-rolls-out-ai-chatbots (Jane Friedman) published 2026-09-05, which already covered Expert Intelligence and the 100k-title catalogue."
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
+      "reason": "Same story as the Anthropic settlement allocation dispute already published 2026-09-05 (Writer Beware) and 2026-09-09 (TechCrunch)."
     },
     {
-      "url": "https://the-digital-reader.com/how-independent-publishers-can-use-ai-drawing-lip-sync-to-invite-readers-into-a-story/",
-      "reason": "Credibility — sponsored SEO content farm page (affiliate link to lipsync.video, German browser boilerplate, sibling posts on condo sales and casino games). Not a real release, feature or finding."
+      "url": "https://janefriedman.com/disagreements-in-the-anthropic-settlement-were-inevitable-but-it-feels-worse-than-expected/",
+      "reason": "Same Anthropic settlement claim-allocation story already published 2026-09-05 and 2026-09-09."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
+      "reason": "Commentary on the DOJ fair-use brief already published 2026-09-05 (Publishing Perspectives)."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "reason": "Same Sept 4 summary-judgment round in the consolidated MDL already covered 2026-09-07 (Unite.AI, Microsoft filing)."
     }
   ]
 }

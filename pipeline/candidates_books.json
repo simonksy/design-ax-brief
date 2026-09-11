@@ -1,134 +1,134 @@
 {
- "date": "2026-09-09",
- "section": "books",
- "now_iso": "2026-09-08T22:15:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "source": "Publishers Weekly",
-   "category": "books",
-   "headline": "Google Launches AI Tool to Add Interactivity to E-books",
-   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101136-google-launches-expert-intelligence-adding-interactivity-to-e-books.html",
-   "published_iso": "2026-08-27T12:00:00Z",
-   "excerpt": "Google's Expert Intelligence lets readers query e-books bought from the Google Play store, run quizzes, and generate infographics from the text. It launches with more than 100,000 titles, mostly trade nonfiction, from publishers including Penguin Random House, Macmillan and Bloomsbury, with answers restricted to the book itself rather than aggregated model training data.",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131138-1.JPG"
-  },
-  {
-   "source": "Publishers Weekly",
-   "category": "books",
-   "headline": "Elsevier Launches AI Assistant for Healthcare E-books",
-   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101137-elsevier-launches-ai-assistant-for-healthcare-e-books.html",
-   "published_iso": "2026-08-31T12:00:00Z",
-   "excerpt": "Elsevier has launched Nora AI, an assistant embedded inside its e-books on VitalSource's Bookshelf platform. Healthcare students and educators can ask questions and get evidence-based answers drawn directly from Elsevier content without leaving the book.",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG"
-  },
-  {
-   "source": "The Bookseller",
-   "category": "books",
-   "headline": "Google launches Expert Intelligence with more than 100k publisher titles",
-   "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
-   "published_iso": "2026-09-01T11:00:00Z",
-   "excerpt": "Google has launched Expert Intelligence, letting readers use purchased e-books and other trusted sources directly inside its AI products. UK publishers are among the rights holders supplying the initial catalogue of over 100,000 titles.",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg"
-  },
-  {
-   "source": "Publishing Perspectives",
-   "category": "books",
-   "headline": "Who is Narrating the Future? AI and the Audiobook Market",
-   "url": "https://publishingperspectives.com/2026/09/who-is-narrating-the-future-ai-and-the-audiobook-market/",
-   "published_iso": "2026-09-07T12:39:46Z",
-   "excerpt": "A new white paper from Frankfurter Buchmesse, produced by Dosdoce.com, maps how quickly the audio industry is adopting AI narration and translation — and where publishers still hold back.",
-   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg"
-  },
-  {
-   "source": "Publishing Perspectives",
-   "category": "books",
-   "headline": "U.S. Department of Justice Files Legal Brief Urging Court to Find AI Training to Be Fair Use",
-   "url": "https://publishingperspectives.com/2026/09/u-s-department-of-justice-files-legal-brief-urging-court-to-find-ai-training-to-be-fair-use/",
-   "published_iso": "2026-09-04T12:05:20Z",
-   "excerpt": "In a 20-page Statement of Interest, DOJ lawyers told the judge in the consolidated authors' case that requiring paid licensing for training data would put U.S. AI companies at a competitive disadvantage — the first time the federal government has taken a side in an AI training copyright suit.",
-   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-03-at-11.41.14-PM.png"
-  },
-  {
-   "source": "TechCrunch",
-   "category": "books",
-   "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
-   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-   "published_iso": "2026-09-06T20:47:37Z",
-   "excerpt": "As payouts from the $1.5 billion Anthropic copyright settlement begin, authors say publishers and agents appear to be claiming more than their contractual share of the roughly $3,000 owed per infringed work.",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
-  },
-  {
-   "source": "Jane Friedman",
-   "category": "books",
-   "headline": "How Good Are AI Custom-Written Novels?",
-   "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
-   "published_iso": "2026-09-02T16:00:00Z",
-   "excerpt": "Ember Novels shows that AI can now develop and carry a plot across 300 pages with fewer continuity errors than many human-written drafts — a test of how far machine-generated long-form fiction has actually come.",
-   "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
-  },
-  {
-   "source": "Jane Friedman",
-   "category": "books",
-   "headline": "FTC asked to investigate destruction of books",
-   "url": "https://janefriedman.com/ftc-asked-to-investigate-destruction-of-books/",
-   "published_iso": "2026-08-26T16:00:00Z",
-   "excerpt": "More than a dozen groups have asked the Federal Trade Commission to examine the practice of buying, scanning and destroying physical books to build AI training corpora.",
-   "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
-  },
-  {
-   "source": "Jane Friedman",
-   "category": "books",
-   "headline": "Authors Guild publishes survey results about copyright registration failures",
-   "url": "https://janefriedman.com/authors-guild-publishes-survey-results-about-copyright-registration-failures/",
-   "published_iso": "2026-08-26T16:00:00Z",
-   "excerpt": "Authors ruled ineligible for the Anthropic settlement discovered their publishers never registered their titles with the U.S. Copyright Office — an administrative failure that is now costing writers real money.",
-   "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png"
-  },
-  {
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "headline": "When Your AI Knows You Too Well: Personalization, Sycophancy, and the Risk of an Intellectual Echo Chamber",
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/02/when-your-ai-knows-you-too-well-personalization-sycophancy-and-the-risk-of-an-intellectual-echo-chamber-in-ai-assisted-research/",
-   "published_iso": "2026-09-02T09:30:11Z",
-   "excerpt": "As AI research assistants learn a reader's preferences, they also get better at mirroring that reader's assumptions. The piece argues that avoiding an intellectual echo chamber in research reading will take more than better prompting.",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151.jpg"
-  },
-  {
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "headline": "The Human Layer: Why AI Makes Academic Libraries More Essential, Not Less",
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/01/guest-post-the-human-layer-why-ai-makes-academic-libraries-more-essential-not-less-2/",
-   "published_iso": "2026-09-01T09:30:24Z",
-   "excerpt": "A guest post arguing that AI's opportunity is not to strip the human layer out of scholarship and library curation, but to make explicit why that layer has always mattered.",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363.jpg"
-  },
-  {
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "headline": "We Can Now Track AI-generated Content. It Doesn't Solve the Real Problem.",
-   "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-   "published_iso": "2026-08-31T09:30:32Z",
-   "excerpt": "Provenance signals for AI-generated text are now embedded in Claude models, but the author argues detection alone does not answer the harder editorial question of what AI use is acceptable — and creates new problems of its own.",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg"
-  },
-  {
-   "source": "Book Riot",
-   "category": "books",
-   "headline": "AI Updates, Remembering Dolly Parton, and More News for Library Workers",
-   "url": "https://bookriot.com/news-for-library-workers-september-8-2026/",
-   "published_iso": "2026-09-08T10:01:00Z",
-   "excerpt": "Book Riot's weekly roundup for library workers leads with the latest AI developments hitting libraries — from vendor AI features to policy fights over AI-generated material in collections.",
-   "og_image": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg"
-  },
-  {
-   "source": "The Digital Reader",
-   "category": "books",
-   "headline": "How Independent Publishers Can Use AI Drawing Lip Sync to Invite Readers Into a Story",
-   "url": "https://the-digital-reader.com/how-independent-publishers-can-use-ai-drawing-lip-sync-to-invite-readers-into-a-story/",
-   "published_iso": "2026-09-08T11:26:14Z",
-   "excerpt": "A how-to for indie publishers on using AI lip-sync animation to give original book illustrations a speaking voice as a promotional on-ramp into the full text.",
-   "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/09/AI-Drawing.webp"
-  }
- ]
+  "date": "2026-09-12",
+  "section": "books",
+  "now_iso": "2026-09-11T22:02:15Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "source": "The Bookseller",
+      "category": "books",
+      "headline": "AI debate has shifted from 'can we' to 'should we', IPG Autumn Conference 2026 hears",
+      "url": "https://www.thebookseller.com/news/ai-debate-has-shifted-from-can-we-to-should-we-ipg-autumn-conference-2026-hears",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "excerpt": "AI dominated the Independent Publishers Guild Autumn Conference, with new IPG research showing adoption among indie publishers has jumped to 76% in 2026 from 42% in 2023, and 72.9% now hold a formal AI policy. The report's blunt finding: AI may have damaged trust between publishers and authors more than it has actually changed workflows.",
+      "og_image": null
+    },
+    {
+      "source": "The Bookseller",
+      "category": "books",
+      "headline": "Oxford University Press updates guidelines as AI use 'measurably' under-disclosed",
+      "url": "https://www.thebookseller.com/news/oxford-university-press-updates-guidelines-as-ai-use-measurably-under-disclosed",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "An OUP survey found a wide gap between how often researchers actually use AI in their writing and how often they declare it, prompting the publisher to rewrite its author submission guidelines. The update pushes disclosure of AI assistance from optional courtesy toward an explicit condition of submission.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg"
+    },
+    {
+      "source": "Publishers Weekly",
+      "category": "books",
+      "headline": "What Webtoon's New AI Partnership Could Mean for Translators",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
+      "published_iso": "2026-09-09T15:00:00Z",
+      "excerpt": "Webtoon is rolling out AI auto-translation for self-published Canvas creators plus 'byUS', a Korea-only interactive story-chat service that lets readers generate new stories from existing webcomics. Translators interviewed say the tooling can speed localization but still misses the cultural nuance that East Asian comics depend on.",
+      "og_image": null
+    },
+    {
+      "source": "Publishers Weekly",
+      "category": "books",
+      "headline": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "published_iso": "2026-09-09T13:00:00Z",
+      "excerpt": "The Authors Guild and author plaintiffs filed for summary judgment against OpenAI and Microsoft in the consolidated class action over books used to train large language models without license or payment. The filing lands days after the DOJ backed AI firms on fair use in the parallel NYT case.",
+      "og_image": null
+    },
+    {
+      "source": "Publishers Weekly",
+      "category": "books",
+      "headline": "Authors Guild Addresses Anthropic Settlement Concerns",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
+      "published_iso": "2026-09-09T14:50:00Z",
+      "excerpt": "Claim notices from Anthropic's $1.5bn copyright settlement have left authors and publishers fighting over how each title's award is split. Guild CEO Mary Rasenberger says a reconciliation process should fix allocation errors between rights holders, but metadata gaps are driving much of the confusion.",
+      "og_image": null
+    },
+    {
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "headline": "Ask the Chefs: AI and Copyright Licensing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
+      "published_iso": "2026-09-10T12:00:00Z",
+      "excerpt": "Four publishing experts respond to the U.S. Department of Justice statement backing OpenAI's fair-use position in the New York Times litigation. The debate turns on whether 'transformative use' can reasonably stretch to cover training a large language model on entire copyrighted corpora.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2177484002-1024x640.jpg"
+    },
+    {
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "headline": "The Unbundling of Scholarly Publishing: A Trilemma for the AI Era",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
+      "published_iso": "2026-09-09T12:00:00Z",
+      "excerpt": "AI is prying apart the bundle publishers have long held together — corpus, context and community — because each layer can now be discovered and consumed separately through third-party systems. The authors argue publishers must pick which layer they actually defend.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Steve-and-Ben-1024x729.jpg"
+    },
+    {
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "headline": "A Groupthink We Don't Talk Much About",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "excerpt": "The post argues publishing keeps applying AI to the symptoms of runaway research volume rather than the incentives producing it, creating a loop where more volume demands more AI. It names the unspoken consensus that keeps the industry from questioning its own output economics.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Simbolo_Ouroboros.png"
+    },
+    {
+      "source": "Jane Friedman",
+      "category": "books",
+      "headline": "Writers' AI Fears Often Run Ahead of the Facts",
+      "url": "https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/",
+      "published_iso": "2026-09-11T09:00:00Z",
+      "excerpt": "Friedman takes on three of the loudest writer anxieties — agents secretly using AI, detector false positives, and proving human authorship — and finds the online panic bears little resemblance to agency and publisher practice. She notes rejections tied to detection scores generally start around 20-25%, not at a light AI touch.",
+      "og_image": null
+    },
+    {
+      "source": "Jane Friedman",
+      "category": "books",
+      "headline": "How Good Are AI Custom-Written Novels?",
+      "url": "https://janefriedman.com/how-good-are-ai-custom-written-novels/",
+      "published_iso": "2026-09-02T09:00:00Z",
+      "excerpt": "A hands-on read of Ember Novels, a service that generates bespoke full-length novels, finds it can hold a plot across roughly 300 pages with noticeably better continuity than earlier AI fiction. The craft ceiling is still low, but the failure mode has moved from incoherence to blandness.",
+      "og_image": null
+    },
+    {
+      "source": "Jane Friedman",
+      "category": "books",
+      "headline": "Disagreements in the Anthropic Settlement Were Inevitable, But It Feels Worse Than Expected",
+      "url": "https://janefriedman.com/disagreements-in-the-anthropic-settlement-were-inevitable-but-it-feels-worse-than-expected/",
+      "published_iso": "2026-09-11T10:00:00Z",
+      "excerpt": "Friedman sorts the Anthropic settlement disputes into three categories and pins much of the mess on bad metadata and poor communication from the settlement administrators. Authors and publishers claiming the same titles are discovering nobody agrees on who owns what.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png"
+    },
+    {
+      "source": "The Creative Penn",
+      "category": "books",
+      "headline": "What Machines Can't Replace: Why AI Makes Us More Human, With Anna McPhee",
+      "url": "https://www.thecreativepenn.com/2026/09/09/what-machines-cant-replace-why-ai-makes-us-more-human-with-anna-mcphee/",
+      "published_iso": "2026-09-09T08:00:00Z",
+      "excerpt": "Software engineer and author Anna McPhee describes writing every word herself while running AI hard on research, editing and admin — including custom editing skills permitted only to produce reports, never to touch the text. She argues AI saturation is already driving reader demand for visibly human, imperfect work.",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/09/ai-makes-us-more-human.jpg"
+    },
+    {
+      "source": "Good e-Reader",
+      "category": "books",
+      "headline": "Simon & Schuster is making indie publishing easier",
+      "url": "https://goodereader.com/blog/digital-publishing/simon-schuster-is-making-indie-publishing-easier",
+      "published_iso": "2026-09-10T04:26:00Z",
+      "excerpt": "Simon & Schuster relaunched Pocket Books for print deals and added Simon Stream with 50% net e-book royalties, aimed at self-published authors who want a major imprint's stamp. The pitch is explicitly positioned as a way for real books to stand out from the flood of AI-generated slop.",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10002615/pr-simonstream.png"
+    },
+    {
+      "source": "Publishing Perspectives",
+      "category": "books",
+      "headline": "NYU Announces Topics and Speakers for 2027 Advanced Publishing Institute",
+      "url": "https://publishingperspectives.com/2026/09/new-york-university-announces-topics-and-speakers-for-2027-advanced-publishing-institute/",
+      "published_iso": "2026-09-11T02:00:00Z",
+      "excerpt": "NYU's January 2027 Advanced Publishing Institute centers on 'Innovation, Audience, and Analytics', with a dedicated session on how publishers are successfully leveraging AI and the controversies that come with it. Speakers include Simon & Schuster CEO Greg Greeley and Stable Book Group's Keith Reigert.",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-09-at-10.47.48-PM-793x440.png"
+    }
+  ]
 }

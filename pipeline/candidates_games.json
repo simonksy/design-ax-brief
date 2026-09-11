@@ -1,152 +1,116 @@
 {
- "date": "2026-09-09",
- "section": "games",
- "now_iso": "2026-09-08T22:15:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "headline": "\"We view AI as a sliding scale. There will always be a human in the loop\": Why Side signed an MOU with modl.ai to use AI for QA",
-   "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa",
-   "published_iso": "2026-08-27T10:34:25.496730+00:00",
-   "excerpt": "QA and localisation giant Side has signed a memorandum of understanding with modl.ai to fold automated AI agents into its game testing pipeline. Both companies argue AI bots can sweep repetitive regression passes while human testers stay responsible for judgement calls.",
-   "og_image": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "headline": "Arm explains its mobile-first AI-reconstruction tech, a different tack from the \"black box\" approach of DLSS 5",
-   "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
-   "published_iso": "2026-09-08T02:00:00+00:00",
-   "excerpt": "Arm details a neural upscaling and frame-reconstruction stack built for mobile GPUs, positioning it against Nvidia's DLSS 5. \"Our networks are not generative, so they're not of the same nature as the latest DLSS model,\" the company says.",
-   "og_image": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "GamesIndustry.biz",
-   "category": "games",
-   "headline": "European game developers fear AI will pressure them to work faster more than they fear losing their jobs",
-   "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-   "published_iso": "2026-09-08T13:27:23.540305+00:00",
-   "excerpt": "A European games employment survey finds half of respondents worried AI will erode work quality, ahead of job-loss fears. 46% also say AI output makes it harder to assess a candidate's actual skills when hiring.",
-   "og_image": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Rock Paper Shotgun",
-   "category": "games",
-   "headline": "\"Hopefully a meteor will strike the earth soon\": Game devs talk genAI witchhunts and visual literacy",
-   "url": "https://www.rockpapershotgun.com/hopefully-a-meteor-will-strike-the-earth-soon-game-devs-talk-genai-witchhunts-and-the-importance-of-honing-your-visual-literacy",
-   "published_iso": "2026-08-28T15:49:03.859771+00:00",
-   "excerpt": "Developers at Failbetter, New Blood and other studios describe being wrongly accused of using generative AI by players hunting for tells. They argue sharpening visual and technical literacy is the only durable defence for hand-made art.",
-   "og_image": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Rock Paper Shotgun",
-   "category": "games",
-   "headline": "It's still possible to make good Skyrim mods \"without any use of AI\" in 2026, says the maker of a DLC-sized Black Marsh expansion",
-   "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
-   "published_iso": "2026-09-08T10:25:25.826231+00:00",
-   "excerpt": "King of the Murkmire, a DLC-scale Skyrim expansion set in Black Marsh, shipped with its author stressing that no AI was used in its assets or writing. The release lands as AI voice and texture tools spread through the Bethesda modding scene.",
-   "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Rock Paper Shotgun",
-   "category": "games",
-   "headline": "NBA 2K27 gives DLSS 5 a more faithful-looking debut than feared — if you own the LeBron of GPUs",
-   "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-   "published_iso": "2026-09-08T15:37:46.218004+00:00",
-   "excerpt": "DLSS 5's generative neural rendering makes its first shipping-game appearance in NBA 2K27, and it is far subtler than Nvidia's demos suggested. The cost is severe: the filter remains a heavy performance brute even on top-end cards.",
-   "og_image": "https://assetsio.gnwcdn.com/NBA-2K27-DLSS-5-On-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Eurogamer",
-   "category": "games",
-   "headline": "After AI slop accusations, Humankind 2's studio proves its trailer was made by humans (and at least five chickens)",
-   "url": "https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens",
-   "published_iso": "2026-09-04T19:19:34.654057+00:00",
-   "excerpt": "Fans accused the new Humankind 2 trailer of being AI-generated, prompting the studio to publish its production breakdown. The team says traditional CG artists, a live-action crew and real animals made the spot.",
-   "og_image": "https://assetsio.gnwcdn.com/Humankind-2_wtIn2A3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Eurogamer",
-   "category": "games",
-   "headline": "Saber Interactive won't change its comms strategy despite backlash over its AI writer controversy",
-   "url": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
-   "published_iso": "2026-09-06T15:40:50.460147+00:00",
-   "excerpt": "CCO Tim Willits says Saber is not adjusting how it communicates after its CEO's dispute over replacing a writer with AI. The studio maintains its position while the row over AI in narrative work continues.",
-   "og_image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "Eurogamer",
-   "category": "games",
-   "headline": "\"This is super, super heavy\": experts test Nvidia's graphics-altering DLSS 5 and find it really does tank frame rates",
-   "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
-   "published_iso": "2026-09-07T12:34:26.929430+00:00",
-   "excerpt": "Independent benchmarking of DLSS 5's neural rendering shows a steep frame-rate cost in its first shipping title. The findings sharpen the question of whether generative post-processing is worth the GPU budget.",
-   "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-  },
-  {
-   "source": "PC Gamer",
-   "category": "games",
-   "headline": "'There is absolutely no generative AI in Space Marine 3', promises a Saber Interactive executive",
-   "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
-   "published_iso": "2026-09-06T19:15:07Z",
-   "excerpt": "Saber publicly commits that no generative AI content ships in Space Marine 3, following weeks of scrutiny over the studio's AI stance. The pledge is now a marketing position as much as a production one.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1920-80.jpg"
-  },
-  {
-   "source": "PC Gamer",
-   "category": "games",
-   "headline": "Saber CCO Tim Willits is still bullish on AI, but worried about its environmental cost",
-   "url": "https://www.pcgamer.com/gaming-industry/saber-cco-tim-willits-is-still-bullish-on-ai-but-concerned-about-its-environmental-impact-elon-wants-to-put-servers-in-space-that-could-be-the-answer-right/",
-   "published_iso": "2026-09-06T18:27:34Z",
-   "excerpt": "Willits defends AI as a production accelerator while flagging the energy and water footprint of the data centres behind it. He points to orbital server proposals as a speculative fix.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/3LxA2h8d8uE3JQ6RtYiCXe-2560-80.jpg"
-  },
-  {
-   "source": "PC Gamer",
-   "category": "games",
-   "headline": "A new ReShade addon offloads DLSS 5 neural rendering to a second GPU, slashing the AI filter's performance hit",
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/",
-   "published_iso": "2026-09-07T11:56:11Z",
-   "excerpt": "Modders have built a ReShade addon that runs DLSS 5's neural rendering pass on a secondary graphics card. The workaround recovers most of the frame-rate lost to Nvidia's generative filter.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/BqaADfBQgryNcBSm7MsGT4-2560-80.jpg"
-  },
-  {
-   "source": "Aftermath",
-   "category": "games",
-   "headline": "Video game companies keep trying to bait and switch us with AI, and it sucks",
-   "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/",
-   "published_iso": "2026-09-02T17:55:25.000Z",
-   "excerpt": "1666: Amsterdam, Blood of the Dawnwalker and others insist AI assets never reached the shipped build — a claim that quietly ignores AI used earlier in production. Aftermath argues 'no AI in the final game' has become a rhetorical dodge.",
-   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg"
-  },
-  {
-   "source": "Aftermath",
-   "category": "games",
-   "headline": "ArtStation has new owners who say they'll 'put artists first' by protecting work from AI scrapers",
-   "url": "https://aftermath.site/artstation-owners-ownership-ai/",
-   "published_iso": "2026-09-04T01:21:18.000Z",
-   "excerpt": "ArtStation's new ownership says protection against AI training will become the platform default rather than an opt-in toggle. The portfolio site is the primary shop window for most working game artists.",
-   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp"
-  },
-  {
-   "source": "Game Developer",
-   "category": "games",
-   "headline": "Report: EA's NHL 27 is using genAI for commentator voiceover, claims a sports broadcaster",
-   "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-   "published_iso": "2026-09-08T18:00:00.000Z",
-   "excerpt": "Veteran commentator John Buccigross says EA demonstrated a system that clones his voice to generate in-game commentary lines. It would be one of the highest-profile uses of synthetic voice in a major sports franchise.",
-   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop"
-  },
-  {
-   "source": "GamesRadar+",
-   "category": "games",
-   "headline": "After the Stellar Blade: Blood Rain AI backlash, Shift Up's lead says concerns are taken \"seriously\" — but AI still has \"a lot of influence\" on development",
-   "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
-   "published_iso": "2026-09-08T12:00:49Z",
-   "excerpt": "Shift Up responds to criticism of an AI-generated music video promoting Stellar Blade: Blood Rain. The studio head says player concerns are heard, while maintaining AI is now materially shaping how the game is built.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg"
-  }
- ]
+  "date": "2026-09-12",
+  "section": "games",
+  "now_iso": "2026-09-11T22:02:15Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "source": "Kotaku",
+      "category": "games",
+      "headline": "Acclaimed Visual Novel Studio Announces AI-Generated Quake Clone",
+      "url": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010",
+      "published_iso": "2026-09-11T15:30:02Z",
+      "excerpt": "Mages, the studio behind Steins;Gate, unveiled Juggernaut, a Quake-style shooter it admits was 'developed' almost entirely with AI. The reveal drew a near-unanimous negative reaction from English-speaking fans surprised at how far the generative pipeline went.",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/HRwpwtHa8AEbkT8.jpg"
+    },
+    {
+      "source": "Kotaku",
+      "category": "games",
+      "headline": "Professor Layton Fans Are Concerned After 'AI Slop' Presentation",
+      "url": "https://kotaku.com/professor-layton-ai-level-5-curious-village-remake-inazuma-eleven-2000733548",
+      "published_iso": "2026-09-11T17:31:34Z",
+      "excerpt": "Level-5's studio presentation for the Professor Layton remake set off fan accusations of AI-generated art. Scrutiny follows the CEO's earlier claim that 'around 80~90% of games are made by AI.'",
+      "og_image": "https://kotaku.com/app/uploads/2025/12/maxresdefault-1200x675.jpg"
+    },
+    {
+      "source": "Kotaku",
+      "category": "games",
+      "headline": "Twitch Plans To Shove More AI Down Creators' Throats With Stream Coach Tool",
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+      "published_iso": "2026-09-11T20:45:43Z",
+      "excerpt": "Twitch is testing an AI-powered 'stream coach' that watches broadcasts and suggests how creators can improve their channel. The rollout lands alongside questions about opting out of AI content training.",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg"
+    },
+    {
+      "source": "GamesRadar+",
+      "category": "games",
+      "headline": "Genshin Impact dev HoYoverse wins $112,000 in court after AI company stole 63 of its characters' voices",
+      "url": "https://www.gamesradar.com/games/open-world/genshin-impact-dev-hoyoverse-wins-usd112-000-in-court-after-ai-company-stole-63-of-its-characters-voices/",
+      "published_iso": "2026-09-11T21:06:50Z",
+      "excerpt": "A court awarded HoYoverse $112,000 after an AI firm cloned 63 Genshin Impact character voices with 'nearly identical characteristics.' The ruling is an early marker for how game voice IP is protected against synthetic reproduction.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Smver5XGGDMmgLbWD4dELd-1920-80.jpg"
+    },
+    {
+      "source": "Game Developer",
+      "category": "games",
+      "headline": "Report: EA's NHL 27 is using genAI to create voiceover, claims a sports commentator",
+      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+      "published_iso": "2026-09-10T17:18:45Z",
+      "excerpt": "A sports commentator says EA generated NHL 27 commentary lines with AI rather than recording them. EA frames the technique as a way to add variety to in-game voiceover.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop"
+    },
+    {
+      "source": "PC Gamer",
+      "category": "games",
+      "headline": "'Claude Strife': DLSS 5 has escaped into the wild, and things are immediately weird",
+      "url": "https://www.pcgamer.com/software/ai/claude-strife-dlss-5-has-escaped-into-the-wild-and-things-are-immediately-weird/",
+      "published_iso": "2026-08-29T00:40:26Z",
+      "excerpt": "NVIDIA's DLSS 5 neural rendering is now in players' hands, and early results swing from convincing to hallucinatory. Used subtly it holds up; pushed hard it rewrites character detail in ways artists never authored.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pFbTMiMoXfrNnBPuXux7KL-1296-80.png"
+    },
+    {
+      "source": "Destructoid",
+      "category": "games",
+      "headline": "DLSS 5 isn't just bad; it might be straight-up infected or possessed by demons",
+      "url": "https://www.destructoid.com/dlss-5-isnt-just-bad-it-might-be-straight-up-infected-or-possessed-by-demons/",
+      "published_iso": "2026-09-11T21:49:16Z",
+      "excerpt": "A hands-on with DLSS 5's generative frame reconstruction in GTA 5 catalogues grotesque artifacts and invented geometry. It is a pointed argument that neural rendering is still overwriting art direction rather than serving it.",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/09/gta-5-dlss-5.jpg"
+    },
+    {
+      "source": "Wccftech",
+      "category": "games",
+      "headline": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT; Latest Version Improves FPS By 12%",
+      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
+      "published_iso": "2026-09-04T18:37:44Z",
+      "excerpt": "A modder got DLSS 5 neural rendering running on AMD's RX 9070 XT in Cyberpunk 2077 and GTA V: Enhanced. Performance tanks versus native NVIDIA hardware, but the newest build claws back about 12% FPS.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-DLSS-5.jpg"
+    },
+    {
+      "source": "Road to VR",
+      "category": "games",
+      "headline": "TikTok Parent Reportedly Building AI Model to Rival Google's Genie for Real-Time Spatial Video",
+      "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
+      "published_iso": "2026-09-09T10:44:59Z",
+      "excerpt": "Bloomberg reports ByteDance is readying a world model for generating real-time spatial video, positioned against Google's Genie. The company hopes it becomes a 'flywheel' for immersive, generated interactive content.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg"
+    },
+    {
+      "source": "Aftermath",
+      "category": "games",
+      "headline": "'Gen-AI Controversy Aside' Is A Wild Thing To Write In A Video Game Preview",
+      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
+      "published_iso": "2026-09-09T00:04:21Z",
+      "excerpt": "A critique of games press normalizing generative AI by bracketing it off as an aside in previews. The piece argues the 'elephant is still in the room' when a game's assets were machine-made.",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5-1.large.webp"
+    },
+    {
+      "source": "80 Level",
+      "category": "games",
+      "headline": "Blizzard Workers Secure Historic Contract Covering AI Use & Layoff Protections",
+      "url": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/",
+      "published_iso": "2026-09-11T08:08:00Z",
+      "excerpt": "Blizzard's 1,900-strong union ratified a contract that puts AI usage under negotiation with developers. It is the first major studio agreement giving creative staff a formal say in how generative tools enter their pipeline.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50155/images/6aa3b6f12c991/contain_1200x630.jpg"
+    },
+    {
+      "source": "80 Level",
+      "category": "games",
+      "headline": "How ABCD Trains Large Gaussian Splat Scenes With Constant VRAM",
+      "url": "https://80.lv/articles/how-abcd-trains-large-gaussian-splat-scenes-with-constant-vram/",
+      "published_iso": "2026-09-10T20:45:00Z",
+      "excerpt": "Researcher Ka Heng Shiu details Alpha-Composited Block Coordinate Descent, which partitions huge radiance fields while keeping full-scene context during training. It lets artists train city-scale Gaussian splat environments without VRAM blowing up.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50131/images/6aa2f0f149fbf/contain_1200x630.jpg"
+    }
+  ]
 }

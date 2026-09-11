@@ -1,161 +1,116 @@
 {
- "date": "2026-09-09",
- "section": "science",
- "now_iso": "2026-09-08T22:15:00Z",
- "window_hours": 336,
- "items": [
-  {
-   "source": "Phys.org",
-   "category": "science",
-   "headline": "AI-designed proteins enable a new generation of RNA transporters",
-   "url": "https://phys.org/news/2026-09-ai-proteins-enable-generation-rna.html",
-   "published_iso": "2026-09-02T00:00:00Z",
-   "excerpt": "Helmholtz Munich and TUM researchers used AI protein design to build STV-C8, a from-scratch protein scaffold that ferries RNA into cells more efficiently than virus-like particles or lipid nanoparticles. It delivered CRISPR/Cas9 components to pig muscle and expressed therapeutic RNA in mouse lungs without toxicity.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg"
-  },
-  {
-   "source": "Phys.org",
-   "category": "science",
-   "headline": "AI suggests new physics experiments that could outperform human-designed setups",
-   "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
-   "published_iso": "2026-09-03T12:20:00Z",
-   "excerpt": "An international team showed AI can design physics experiments that beat human-built configurations, treating apparatus design as an optimization search over lab components rather than a chatbot prompt. The method produced superior setups in quantum optics, electron microscopy and gravitational-wave detection while humans still set the goals.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg"
-  },
-  {
-   "source": "Phys.org",
-   "category": "science",
-   "headline": "Physics-based AI unlocks first global predictions of carbon cycling in ocean sediments",
-   "url": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
-   "published_iso": "2026-09-08T16:40:00Z",
-   "excerpt": "University of Manchester researchers built physics-informed AI emulators that make planetary-scale predictions of organic carbon exchange between seawater and seafloor sediment. They found 11% of particulate organic carbon reaching the seafloor returns to seawater as dissolved carbon, and that simpler neural nets beat larger deep models.",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-based-ai-unloc.jpg"
-  },
-  {
-   "source": "Quanta Magazine",
-   "category": "science",
-   "headline": "AI Has Solved One of Math's $1 Million Millennium Prize Problems",
-   "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-   "published_iso": "2026-09-08T08:43:52Z",
-   "excerpt": "Mathematicians at OpenAI used AI to show that the Navier-Stokes equations describing fluid flow can sometimes blow up, claiming one of the Millennium Prize problems. The result is enormous but not without controversy in the mathematical community.",
-   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg"
-  },
-  {
-   "source": "Quanta Magazine",
-   "category": "science",
-   "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
-   "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-   "published_iso": "2026-09-03T13:41:48Z",
-   "excerpt": "A live recording from the International Congress of Mathematicians asks what mathematicians actually value about doing mathematics once machines can produce proofs. The panel weighs understanding and taste against automated verification.",
-   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Social-LOGO.jpg"
-  },
-  {
-   "source": "Quanta Magazine",
-   "category": "science",
-   "headline": "In an Age of AI, a Physicist Seeks What Endures",
-   "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
-   "published_iso": "2026-09-03T13:35:59Z",
-   "excerpt": "Yale physics chair Sarah Demers describes how large language models could both accelerate and erode physics research. She argues for protecting the parts of scientific practice that give physicists genuine understanding.",
-   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Social.jpg"
-  },
-  {
-   "source": "Scientific American",
-   "category": "science",
-   "headline": "New Google DeepMind atlas could transform our understanding of genetic diseases",
-   "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
-   "published_iso": "2026-09-08T10:00:00-04:00",
-   "excerpt": "DeepMind released AlphaGenome Atlas, a model-built map that predicts the functional effect of any single change in the DNA sequence. Researchers say it could reshape how genetic disease variants are interpreted.",
-   "og_image": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg?m=1788555841.731&w=1200"
-  },
-  {
-   "source": "Scientific American",
-   "category": "science",
-   "headline": "How introverted or extroverted you are may influence how you use AI",
-   "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
-   "published_iso": "2026-09-07T08:00:00-04:00",
-   "excerpt": "New research suggests personality traits shape how people prompt, trust and lean on generative AI tools. How someone engages with their inner and outer worlds appears to predict their working style with chatbots.",
-   "og_image": "https://static.scientificamerican.com/dam/m/389001b9703c88c9/original/AI_math_.jpg?m=1788451131.824&w=1200"
-  },
-  {
-   "source": "Physics World",
-   "category": "science",
-   "headline": "AI dominates the 4th International Congress of Basic Science in Beijing",
-   "url": "https://physicsworld.com/a/ai-dominates-the-4th-international-congress-of-basic-science-in-beijing/",
-   "published_iso": "2026-09-02T11:00:45Z",
-   "excerpt": "Subir Sarkar reports that AI was the dominant thread among more than 800 delegates at the Beijing basic-science congress. Talks ranged from machine-learning-driven discovery to worries about what automation does to scientific judgment.",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/ICBS-posters-lo-res.jpg"
-  },
-  {
-   "source": "Physics World",
-   "category": "science",
-   "headline": "Improved QLEDs with Machine Learning",
-   "url": "https://physicsworld.com/a/improved-qleds-with-machine-learning/",
-   "published_iso": "2026-08-26T07:00:28Z",
-   "excerpt": "Machine learning was used to identify solvent formulations that yield highly homogeneous quantum-dot films for QLED displays. The approach replaces slow trial-and-error formulation work in materials chemistry.",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg"
-  },
-  {
-   "source": "Live Science",
-   "category": "science",
-   "headline": "If AI thinks it's conscious, it's more likely to believe in vampires, karma and ghosts, new study shows",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/if-ai-thinks-its-conscious-its-more-likely-to-believe-in-vampires-karma-and-ghosts-new-study-shows-what-does-it-mean-for-how-we-use-it",
-   "published_iso": "2026-09-08T17:37:33Z",
-   "excerpt": "A new study finds that when language models are steered toward claiming self-awareness, their outputs also drift toward supernatural beliefs. The finding complicates attempts to read model self-reports as evidence about machine cognition.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/a3AuW8NoFo4LG2gFHToshS-2000-80.jpg"
-  },
-  {
-   "source": "Live Science",
-   "category": "science",
-   "headline": "New kind of AI uses a fresh approach to reasoning — researchers say it costs up to 11 times less to run",
-   "url": "https://www.livescience.com/technology/artificial-intelligence/new-kind-of-ai-uses-a-fresh-approach-to-reasoning-researchers-say-it-costs-up-to-11-times-less-to-run-than-a-leading-openai-model",
-   "published_iso": "2026-08-29T11:00:00Z",
-   "excerpt": "Scientists describe a vector-based approach to machine cognition that they say reasons at a fraction of the compute cost of a leading OpenAI model. They argue it points toward a different architecture for machine reasoning.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/gxwBC8zdUVFKzAfaJXhGFT-2000-80.jpg"
-  },
-  {
-   "source": "MIT Technology Review",
-   "category": "science",
-   "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-   "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-   "published_iso": "2026-09-08T06:34:00-04:00",
-   "excerpt": "Danijar Hafner, known for world-model research on teaching agents to imagine outcomes, is building agents that plan under uncertainty. His stealth startup extends a long line of work on machine models of the physical world.",
-   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600"
-  },
-  {
-   "source": "Space.com",
-   "category": "science",
-   "headline": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
-   "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
-   "published_iso": "2026-09-07T13:00:00Z",
-   "excerpt": "Earth observation is shifting to private constellations paired with AI analysis pipelines, sharpening climate and disaster monitoring. The article weighs the scientific gains against loss of open access and verification.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/GxTRMooVe6CSuX6oTD5qGY-2560-80.png"
-  },
-  {
-   "source": "ScienceDaily",
-   "category": "science",
-   "headline": "AI can now control fusion plasma faster than humans can react",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-   "published_iso": "2026-09-06T03:28:00Z",
-   "excerpt": "Princeton researchers tested PACMAN, an AI framework that monitors and adjusts fusion plasma within milliseconds. In one run it predicted a damaging instability roughly 200 milliseconds ahead and prevented it.",
-   "og_image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp"
-  },
-  {
-   "source": "STAT",
-   "category": "science",
-   "headline": "AI biotech Insitro's Daphne Koller on how to speed up clinical trials",
-   "url": "https://www.statnews.com/2026/08/26/biotech-insitro-ceo-daphne-koller-speeding-up-clinical-trials-ai-prognosis/",
-   "published_iso": "2026-08-26T13:46:40Z",
-   "excerpt": "Insitro CEO Daphne Koller discusses where machine learning actually shortens drug discovery and clinical trial timelines. She separates the parts of the pipeline AI can compress from the parts it cannot.",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_Daphne-Koller-1024x576.jpg"
-  },
-  {
-   "source": "STAT",
-   "category": "science",
-   "headline": "How a former ARPA-H director's startup is tackling AI's 'dumb problems'",
-   "url": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/",
-   "published_iso": "2026-09-02T13:29:52Z",
-   "excerpt": "Transfyr is targeting the unglamorous data and workflow failures that block AI from working in biology labs. The piece argues these 'dumb problems' gate most real bio-AI progress.",
-   "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AIPrognosis_Wordpress_Transfyr-1024x576.jpg"
-  }
- ]
+  "date": "2026-09-12",
+  "section": "science",
+  "now_iso": "2026-09-11T22:02:15Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "source": "Google DeepMind",
+      "category": "science",
+      "headline": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published_iso": "2026-09-03T15:02:08Z",
+      "excerpt": "DeepMind released WeatherNext 3, its most accurate global AI weather model to date, extending ensemble forecasting further ahead and at higher resolution than previous versions. The model is being made available through Google Cloud and Earth Engine for scientific and operational forecasting use.",
+      "og_image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47Yvg"
+    },
+    {
+      "source": "Scientific American",
+      "category": "science",
+      "headline": "New Google DeepMind atlas could transform our understanding of genetic diseases",
+      "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Google DeepMind released AlphaGenome Atlas, a free database of predicted molecular effects for nine billion single-letter DNA variants across the human genome. Researchers can now look up a variant's likely regulatory impact instead of re-running the model or hunting through raw datasets.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg"
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "science",
+      "headline": "What OpenAI's latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "OpenAI says roughly 10,000 concurrent agents cracked a long-open problem in the Navier-Stokes family, but the claim is shadowed by accusations that it failed to credit the human mathematicians whose AI-assisted work it built on. The episode raises the question of whether frontier math now requires compute only a few labs can afford.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg"
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "science",
+      "headline": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "published_iso": "2026-09-01T00:00:00Z",
+      "excerpt": "An open-source agentic system called Get Physics Done broke an interstellar trajectory problem into sub-tasks, chose which simulations to run, and found a novel route for the Fermi Explorer Mission to Alpha Centauri. The 80,000-year trajectory was discovered by AI rather than hand-derived by mission planners.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg"
+    },
+    {
+      "source": "Quanta Magazine",
+      "category": "science",
+      "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
+      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "Recorded live at the International Congress of Mathematicians, Janna Levin and Steven Strogatz press working mathematicians on what remains uniquely human about their craft now that machines generate proofs. The conversation treats AI less as a tool question than as an identity question for the discipline.",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Lede-LOGO-scaled.jpg"
+    },
+    {
+      "source": "Phys.org",
+      "category": "science",
+      "headline": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
+      "url": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "NASA and IBM released an open-source lunar foundation model trained on nearly two decades of Lunar Reconnaissance Orbiter data. It lets researchers identify ice deposits, impact craters and volcanic features with only minimal labeled training data.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/release-of-open-ai-mod.jpg"
+    },
+    {
+      "source": "Phys.org",
+      "category": "science",
+      "headline": "New AI model for DNA learns from evolution to unlock secrets of the human genome",
+      "url": "https://phys.org/news/2026-09-ai-dna-evolution-secrets-human.html",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "excerpt": "UC Berkeley's GPN-Star, a genomic language model trained on evolutionary signal, outperforms larger rivals at pinpointing the genetic variants behind inherited traits and disease. It does so while requiring far less compute to train than competing genomic foundation models.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/human-genome.jpg"
+    },
+    {
+      "source": "Phys.org",
+      "category": "science",
+      "headline": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
+      "url": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "A graph-based framework from the Eastern Institute of Technology reads raw material-test data and writes out explicit, physically interpretable equations for how alloy steels, lithium metal and filled rubbers deform. It beat mainstream empirical models on predictive accuracy without becoming a black box.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-discovers-interpret.jpg"
+    },
+    {
+      "source": "Google Research",
+      "category": "science",
+      "headline": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "Google Research and collaborators used machine-learning segmentation to map the male fruit fly's entire brain and nervous system: 166,000 neurons and 125 million synapses, the largest brain map by neuron count so far. Paired with the earlier female map, it opens up comparative studies of courtship and aggression circuits.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg"
+    },
+    {
+      "source": "Google Research",
+      "category": "science",
+      "headline": "Transfer learning for genomic prediction in underrepresented populations",
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "A Google Research study finds that borrowing European genomic data helps small underrepresented cohorts, but actively hurts accuracy once the target population's own sample size grows. Trait-specific genetic architecture determines when external data should be dropped.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png"
+    },
+    {
+      "source": "STAT News",
+      "category": "science",
+      "headline": "An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+      "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
+      "published_iso": "2026-09-11T08:30:00Z",
+      "excerpt": "The FDA granted a rare de novo clearance to Powerful Medical's 'Queen of Hearts' algorithm, which reads electrocardiograms to flag and triage heart attacks that standard criteria miss. It is one of the first AI tools authorized for occlusion-type infarcts invisible to conventional EKG rules.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_910347045-645x645.jpeg"
+    },
+    {
+      "source": "The Quantum Insider",
+      "category": "science",
+      "headline": "Lancaster University Leads Project on Quantum Neural Computing",
+      "url": "https://thequantuminsider.com/2026/09/08/lancaster-university-european-quantum-ai-research-project/",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Lancaster University is leading IgnisQNC, a EUR 1.88M three-year European project fusing quantum computing with explainable AI. The goal is to turn quantum uncertainty into a computational resource for trustworthy machine learning rather than a source of noise.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-08_16-22.png"
+    }
+  ]
 }

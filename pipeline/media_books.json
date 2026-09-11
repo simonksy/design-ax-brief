@@ -1,26 +1,29 @@
 {
-  "date": "2026-09-09",
-  "section": "books",
+  "date": "2026-09-12",
   "media": [
     {
-      "id": "books-authors-guild-registration-q7m",
+      "id": "books-ipg-autumn-q4m",
       "type": "image",
-      "src": "pipeline/media/books-authors-guild-registration-q7m.jpg"
+      "src": "pipeline/media/books-ipg-autumn-q4m.jpg"
     },
     {
-      "id": "books-anthropic-agent-claims-v4x",
+      "id": "books-oup-disclosure-h3v",
       "type": "image",
-      "src": "pipeline/media/books-anthropic-agent-claims-v4x.jpg"
+      "src": "pipeline/media/books-oup-disclosure-h3v.jpg"
     },
     {
-      "id": "books-library-ai-supply-h3d",
+      "id": "books-writer-fears-z8t",
       "type": "image",
-      "src": "pipeline/media/books-library-ai-supply-h3d.jpg"
+      "src": "pipeline/media/books-writer-fears-z8t.png"
     },
     {
-      "id": "books-audible-human-translation-r6p",
+      "id": "books-simon-stream-m5r",
+      "type": "svg"
+    },
+    {
+      "id": "books-webtoon-ai-w2n",
       "type": "image",
-      "src": "pipeline/media/books-audible-human-translation-r6p.png"
+      "src": "pipeline/media/books-webtoon-ai-w2n.jpg"
     }
   ]
 }

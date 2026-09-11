@@ -1,11 +1,10 @@
 {
-  "date": "2026-09-09",
-  "section": "music",
+  "date": "2026-09-12",
   "media": [
-    {"id":"music-suno-believe-p4r","type":"image","src":"pipeline/media/music-suno-believe-p4r.jpg"},
-    {"id":"music-soundboost-v4-q7m","type":"video","src":"pipeline/media/music-soundboost-v4-q7m.mp4","poster":"pipeline/media/music-soundboost-v4-q7m.jpg"},
-    {"id":"music-isbell-suno-x3v","type":"image","src":"pipeline/media/music-isbell-suno-x3v.jpg"},
-    {"id":"music-chartmetric-flow-b8k","type":"image","src":"pipeline/media/music-chartmetric-flow-b8k.jpg"},
-    {"id":"music-stella-parton-ai-m6t","type":"image","src":"pipeline/media/music-stella-parton-ai-m6t.jpg"}
+    { "id": "music-umg-elevenlabs-q4t", "type": "image", "src": "pipeline/media/music-umg-elevenlabs-q4t.jpg" },
+    { "id": "music-suno-v6-h2m", "type": "image", "src": "pipeline/media/music-suno-v6-h2m.png" },
+    { "id": "music-serato-5-b8k", "type": "image", "src": "pipeline/media/music-serato-5-b8k.jpg" },
+    { "id": "music-audacity-4-r6d", "type": "video", "src": "pipeline/media/music-audacity-4-r6d.mp4", "poster": "pipeline/media/music-audacity-4-r6d.jpg" },
+    { "id": "music-acoustica-8-w9j", "type": "video", "src": "pipeline/media/music-acoustica-8-w9j.mp4", "poster": "pipeline/media/music-acoustica-8-w9j.jpg" }
   ]
 }
