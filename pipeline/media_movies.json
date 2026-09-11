@@ -1,33 +1,10 @@
 {
- "date": "2026-09-09",
- "section": "movies",
- "media": [
-  {
-   "id": "movies-adobe-ibc-genmedia-a7k",
-   "type": "image",
-   "src": "pipeline/media/movies-adobe-ibc-genmedia-a7k.jpg"
-  },
-  {
-   "id": "movies-resolve-211-assistant-b3m",
-   "type": "video",
-   "src": "pipeline/media/movies-resolve-211-assistant-b3m.mp4",
-   "poster": "pipeline/media/movies-resolve-211-assistant-b3m.jpg"
-  },
-  {
-   "id": "movies-origami-collections-c9p",
-   "type": "image",
-   "src": "pipeline/media/movies-origami-collections-c9p.jpg"
-  },
-  {
-   "id": "movies-revize-pitchblack-d4t",
-   "type": "image",
-   "src": "pipeline/media/movies-revize-pitchblack-d4t.jpg"
-  },
-  {
-   "id": "movies-astro-burn-nura-e6v",
-   "type": "video",
-   "src": "pipeline/media/movies-astro-burn-nura-e6v.mp4",
-   "poster": "pipeline/media/movies-astro-burn-nura-e6v.jpg"
-  }
- ]
+  "date": "2026-09-12",
+  "media": [
+    {"id": "movies-eddie-ai-v4-h3q", "type": "video", "src": "pipeline/media/movies-eddie-ai-v4-h3q.mp4", "poster": "pipeline/media/movies-eddie-ai-v4-h3q.jpg"},
+    {"id": "movies-microdrama-ai-v9n", "type": "image", "src": "pipeline/media/movies-microdrama-ai-v9n.jpg"},
+    {"id": "movies-sns-evo-ai-t2k", "type": "image", "src": "pipeline/media/movies-sns-evo-ai-t2k.png"},
+    {"id": "movies-del-toro-craft-w6r", "type": "image", "src": "pipeline/media/movies-del-toro-craft-w6r.jpg"},
+    {"id": "movies-ccai-site-b8j", "type": "image", "src": "pipeline/media/movies-ccai-site-b8j.jpg"}
+  ]
 }

@@ -1,11 +1,32 @@
 {
-  "date": "2026-09-09",
-  "section": "design",
+  "date": "2026-09-12",
   "media": [
-    {"id":"design-chatgpt-sketch-9f2","type":"video","src":"pipeline/media/design-chatgpt-sketch-9f2.mp4","poster":"pipeline/media/design-chatgpt-sketch-9f2.jpg"},
-    {"id":"design-resolve-mcp-x7k","type":"image","src":"pipeline/media/design-resolve-mcp-x7k.jpg"},
-    {"id":"design-autodesk-neural-cad-b4m","type":"image","src":"pipeline/media/design-autodesk-neural-cad-b4m.jpg"},
-    {"id":"design-date-slop-7qd","type":"image","src":"pipeline/media/design-date-slop-7qd.jpg"},
-    {"id":"design-ai-brief-agency-5rt","type":"image","src":"pipeline/media/design-ai-brief-agency-5rt.jpg"}
+    {
+      "id": "design-figma-make-kit-k7p",
+      "type": "video",
+      "src": "pipeline/media/design-figma-make-kit-k7p.mp4",
+      "poster": "pipeline/media/design-figma-make-kit-k7p.jpg"
+    },
+    {
+      "id": "design-ae-265-assistant-q4m",
+      "type": "video",
+      "src": "pipeline/media/design-ae-265-assistant-q4m.mp4",
+      "poster": "pipeline/media/design-ae-265-assistant-q4m.jpg"
+    },
+    {
+      "id": "design-slack-surfaces-r2v",
+      "type": "image",
+      "src": "pipeline/media/design-slack-surfaces-r2v.jpg"
+    },
+    {
+      "id": "design-infinitform-x8d",
+      "type": "image",
+      "src": "pipeline/media/design-infinitform-x8d.png"
+    },
+    {
+      "id": "design-voice-ux-patterns-m3s",
+      "type": "image",
+      "src": "pipeline/media/design-voice-ux-patterns-m3s.jpg"
+    }
   ]
 }

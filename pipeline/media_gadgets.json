@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-09",
-  "section": "gadgets",
+  "date": "2026-09-12",
   "media": [
     {
-      "id": "gadgets-roborock-saros-ifa-9k3",
+      "id": "gadgets-iphone18-pro-h3q",
       "type": "image",
-      "src": "pipeline/media/gadgets-roborock-saros-ifa-9k3.jpg"
+      "src": "pipeline/media/gadgets-iphone18-pro-h3q.jpg"
     },
     {
-      "id": "gadgets-circular-ring3-p7v",
+      "id": "gadgets-live-rewind-w8m",
       "type": "image",
-      "src": "pipeline/media/gadgets-circular-ring3-p7v.jpg"
+      "src": "pipeline/media/gadgets-live-rewind-w8m.jpg"
     },
     {
-      "id": "gadgets-android-drop-sept26-m4t",
-      "type": "image",
-      "src": "pipeline/media/gadgets-android-drop-sept26-m4t.jpg"
+      "id": "gadgets-project-phoenix-r5t",
+      "type": "video",
+      "src": "pipeline/media/gadgets-project-phoenix-r5t.mp4",
+      "poster": "pipeline/media/gadgets-project-phoenix-r5t.jpg"
     },
     {
-      "id": "gadgets-reolink-omvi2i-ultra-x8d",
+      "id": "gadgets-gemini-windows-v2j",
       "type": "image",
-      "src": "pipeline/media/gadgets-reolink-omvi2i-ultra-x8d.jpg"
+      "src": "pipeline/media/gadgets-gemini-windows-v2j.jpg"
     },
     {
-      "id": "gadgets-ifa26-best-in-show-q2n",
+      "id": "gadgets-atlas-neural-c9x",
       "type": "image",
-      "src": "pipeline/media/gadgets-ifa26-best-in-show-q2n.jpg"
+      "src": "pipeline/media/gadgets-atlas-neural-c9x.jpg"
     }
   ]
 }

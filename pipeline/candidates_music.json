@@ -1,134 +1,143 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-12",
   "section": "music",
-  "now_iso": "2026-09-08T22:15:00Z",
+  "now_iso": "2026-09-11T22:02:15Z",
   "window_hours": 336,
   "items": [
     {
       "source": "Billboard",
       "category": "music",
-      "headline": "Suno Inks ‘Strategic Partnership’ With Believe",
-      "url": "https://www.billboard.com/pro/suno-believe-strategic-partnership/",
-      "published_iso": "2026-09-08T20:00:00+00:00",
-      "excerpt": "AI music platform Suno has signed a strategic partnership with French music giant Believe, adding another major distributor to the licensed side of its business. The deal extends Suno's push to build industry-sanctioned models and revenue paths for artists even as it fights copyright suits elsewhere.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg?w=1024"
+      "headline": "UMG Inks Deal With ElevenLabs to Develop AI Music Remix Platform",
+      "url": "https://www.billboard.com/pro/umg-elevenlabs-to-develop-ai-music-remix-platform/",
+      "published_iso": "2026-09-10T14:25:41+00:00",
+      "excerpt": "Universal Music Group and ElevenLabs have signed a licensing and joint product deal to build an AI platform where fans can co-create, remix and mash up tracks from artists who opt in. It is ElevenLabs' first major-label agreement, struck without prior litigation.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/Eleven-Labs-UMG-logos-Billboard-1800.jpg?w=1024"
     },
     {
-      "source": "Billboard",
+      "source": "MusicTech",
       "category": "music",
-      "headline": "Armin van Buuren and Laidback Luke Partner With ‘Responsible’ AI Music Company Moises",
-      "url": "https://www.billboard.com/pro/armin-van-buuren-and-laidback-luke-partner-with-moises/",
-      "published_iso": "2026-09-02T16:00:00+00:00",
-      "excerpt": "Trance stars Armin van Buuren and Laidback Luke have partnered with Moises, an AI music company that positions itself around consent-based, artist-approved models. The tie-up puts working producers' voices and stems into the loop of how AI production tools are trained and used.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/armin-van-buuren-laidback-luke-2026-press-cr-moises-billboard-1800.jpg?w=1024"
-    },
-    {
-      "source": "Billboard",
-      "category": "music",
-      "headline": "Jason Isbell Files Class Action Lawsuit Claiming Suno Coded AI to ‘Extract Musicians’ Identities’",
-      "url": "https://www.billboard.com/pro/jason-isbell-class-action-lawsuit-ai-music-platform-suno/",
-      "published_iso": "2026-09-01T18:17:14+00:00",
-      "excerpt": "Jason Isbell filed a class action against Suno accusing the platform of designing its generator to evoke identifiable artists' vocal and stylistic characteristics. The suit shifts the fight from training data to the output side — whether a model can legally sound like a specific human performer.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/2246607714-e1788285629641.jpg?w=1024"
-    },
-    {
-      "source": "Complete Music Update",
-      "category": "music",
-      "headline": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians rather than infringing their copyrights",
-      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
-      "published_iso": "2026-09-02T16:18:00+00:00",
-      "excerpt": "A group of musicians claim Suno violated their US publicity rights by \"encoding musicians' identities into its AI model\" — a legal theory that sidesteps copyright entirely. If it lands, it would put a new constraint on what generative music models are allowed to imitate.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/suno-v-justice.png"
-    },
-    {
-      "source": "Complete Music Update",
-      "category": "music",
-      "headline": "Universal and Sony file amended Suno lawsuit after judge gives all clear to add stream ripping claims",
-      "url": "https://completemusicupdate.com/universal-and-sony-file-amended-suno-lawsuit-after-judge-gives-all-clear-to-add-stream-ripping-claims/",
-      "published_iso": "2026-08-28T16:15:40+00:00",
-      "excerpt": "Universal and Sony have filed an amended complaint against Suno after a judge allowed them to add stream ripping allegations. The claims target how the training set was acquired, which may prove easier to demonstrate than the fair-use question at the heart of the case.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/Suno-copy-paste.png"
-    },
-    {
-      "source": "Complete Music Update",
-      "category": "music",
-      "headline": "Donald Trump’s DoJ says OpenAI should be able to do whatever it wants with copyright protected works",
-      "url": "https://completemusicupdate.com/donald-trumps-doj-says-openai-should-be-able-to-do-whatever-it-wants-with-copyright-protected-works/",
-      "published_iso": "2026-09-03T16:28:56+00:00",
-      "excerpt": "The US Department of Justice intervened in the New York Times v OpenAI case to argue that AI training is fair use under American copyright law. The position would directly weaken the music industry's central argument in its own suits against Suno and Udio.",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Trump-AI.png"
+      "headline": "ElevenLabs strikes first deal with a major label to launch AI-powered music platform and audio products",
+      "url": "https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/",
+      "published_iso": "2026-09-10T16:28:13+00:00",
+      "excerpt": "MusicTech details the ElevenLabs-UMG partnership: a licensed music platform plus new AI audio products, kept separate from ElevenLabs' existing Music API and ElevenMusic app. Artists and songwriters choose whether to participate.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/elevenlabs-umg@2000x1500-1068x801.jpg"
     },
     {
       "source": "Music Ally",
       "category": "music",
-      "headline": "Suno pulls unapproved Mary J. Blige ad campaign citing deception",
-      "url": "https://musically.com/2026/09/04/suno-pulls-unapproved-mary-j-blige-ad-campaign-citing-deception/",
-      "published_iso": "2026-09-04T12:30:00+00:00",
-      "excerpt": "An ad campaign featuring Mary J. Blige for AI-music platform Suno was pulled after it emerged she had not approved it. Suno blamed a deceptive third party, but the episode underlines how fragile artist consent is in AI music marketing.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "source": "Music Ally",
-      "category": "music",
-      "headline": "Sonos CEO explains how ‘Custom Agents’ will work for listeners",
-      "url": "https://musically.com/2026/09/07/sonos-ceo-explains-how-custom-agents-will-work-for-listeners/",
-      "published_iso": "2026-09-07T12:30:00+00:00",
-      "excerpt": "Sonos' CEO detailed 'Custom Agents', a feature letting listeners build their own AI agents inside the system, each with its own model, persona and voice. It points at a near future where the listening layer, not just the making layer, is AI-mediated.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T130717.620.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "source": "Attack Magazine",
-      "category": "music",
-      "headline": "Dreamtonics Completes Its Trilogy With Instrument X",
-      "url": "https://www.attackmagazine.com/news/dreamtonics-completes-its-trilogy-with-instrument-x/",
-      "published_iso": "2026-09-02T13:23:20+00:00",
-      "excerpt": "Dreamtonics has launched Instrument X, a neural acoustic modelling platform for orchestral strings, woodwinds and brass. Instead of streaming multi-gigabyte sample libraries, it synthesises performances from a model that reacts to pitch, note length and musical context.",
-      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png"
-    },
-    {
-      "source": "Synthtopia",
-      "category": "music",
-      "headline": "Free, Open Source StemDeck Stem Separator For Linux, Mac & Windows",
-      "url": "https://www.synthtopia.com/content/2026/08/27/free-open-source-stemdeck-stem-separator-for-linux-mac-windows/",
-      "published_iso": "2026-08-27T13:58:21+00:00",
-      "excerpt": "StemDeck is a free, open-source stem extraction platform that isolates vocals, drums, bass, piano and guitar from any mix. It brings up-to-six-stem separation — until recently a paid cloud service — into a local, cross-platform tool for practice, transcription and remixing.",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png"
-    },
-    {
-      "source": "Gearnews",
-      "category": "music",
-      "headline": "AI Music Charts 2026: Australia Bans AI-Generated Songs, Joining a Growing Global Trend",
-      "url": "https://www.gearnews.com/ai-music-charts-tech/",
-      "published_iso": "2026-08-29T12:22:15+02:00",
-      "excerpt": "Australia has barred fully AI-generated songs from its official charts, joining more than 20 countries that now exclude them. Chart bodies are becoming a de facto standards layer, forcing disclosure of how much of a track a human actually made.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg"
+      "headline": "UMG's ElevenLabs deal is latest move to AI remix experiences",
+      "url": "https://musically.com/2026/09/11/umgs-elevenlabs-deal-is-latest-move-to-ai-remix-experiences/",
+      "published_iso": "2026-09-11T11:30:00+00:00",
+      "excerpt": "Music Ally reads the ElevenLabs tie-up as part of UMG's steady push toward licensed 'AI remix' fan experiences, following its Kobalt and Merlin agreements. The pattern points to walled-garden creation tools rather than open prompt-to-song generators.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-11T114858.172.png?fit=2000%2C1500&ssl=1"
     },
     {
       "source": "MusicRadar",
       "category": "music",
-      "headline": "Stella Parton urges people to stop creating AI ‘endless garbage’ about her late sister Dolly",
-      "url": "https://www.musicradar.com/artists/singers-songwriters/show-more-compassion-and-wisdom-as-we-move-forward-in-life-use-my-sisters-life-as-an-example-for-tolerance-and-respect-to-towards-others-stella-parton-urges-people-to-stop-creating-ai-and-endless-garbage-about-her-late-sister",
-      "published_iso": "2026-09-07T14:41:12+00:00",
-      "excerpt": "Stella Parton has publicly asked people to stop generating AI images, songs and stories about her late sister Dolly Parton. Her appeal is a reminder that posthumous likeness is now the most exposed surface in AI music culture.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/L2GEfYzgnn3EMKjFcyu4cE-2000-80.jpg"
+      "headline": "Suno has rebuilt its AI music models from scratch with licensed music",
+      "url": "https://www.musicradar.com/music-tech/suno-has-rebuilt-its-ai-music-models-from-scratch-with-licensed-music",
+      "published_iso": "2026-09-09T08:55:00Z",
+      "excerpt": "Suno's V6 family was retrained on licensed catalogue with Warner Music, BMG and Believe, and ships alongside tools that let users create with and remix music from participating artists.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pXKM5ozf85eSnb7G4C6858-1600-80.png"
     },
     {
-      "source": "Bedroom Producers Blog",
+      "source": "Gearnews",
       "category": "music",
-      "headline": "Roland releases Melody Flip, a FREE AI-assisted songwriting plugin",
-      "url": "https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/",
-      "published_iso": "2026-09-07T15:31:57+00:00",
-      "excerpt": "Roland has released Melody Flip, a free AI-assisted songwriting plugin for macOS and Windows built on technology developed with Sony Computer Science Laboratories. It analyses a musical reference and generates melody, chord, bass and drum variations you can export as MIDI and finish in your DAW.",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/roland-melody-flip-728x364.jpg"
+      "headline": "Suno v6: The Next Generation of AI Music Arrives - Now With Warner Music and BMG's Blessing",
+      "url": "https://www.gearnews.com/suno-v6-tech/",
+      "published_iso": "2026-09-09T11:00:00+02:00",
+      "excerpt": "A hands-on look at what Suno v6's three new models and editing tools actually do for producers, from stem-level control to revision workflows, now that the training set is licensed.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Suno-v6-T.jpg"
     },
     {
-      "source": "Bedroom Producers Blog",
+      "source": "CMU",
       "category": "music",
-      "headline": "SoundBoost updates its browser-based mastering service with Engine v4",
-      "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
-      "published_iso": "2026-09-08T13:51:52+00:00",
-      "excerpt": "SoundBoost's Engine v4 lets you steer a master with plain-language instructions instead of assembling a mastering chain by hand. It renders a three-minute track in roughly ten seconds and accepts iterative refinement requests without restarting the job.",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/soundboost-728x364.jpg"
+      "headline": "Suno unveils upgrade developed with “music industry partners”, while continuing to battle the music industry in court",
+      "url": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
+      "published_iso": "2026-09-09T13:47:53+00:00",
+      "excerpt": "Suno launched v6 with Warner, BMG and Believe as partners even as it keeps fighting UMG and Sony in court. CMU untangles which rights the new models rest on and which remain contested.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Suno.png"
+    },
+    {
+      "source": "CMU",
+      "category": "music",
+      "headline": "Latest Suno lawsuit accuses AI company of violating the publicity rights of musicians rather than infringing their copyrights",
+      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
+      "published_iso": "2026-09-02T16:18:00+00:00",
+      "excerpt": "A new class action claims Suno encoded musicians' identities into its model and exploited them by using artists' names in prompts - a publicity-rights argument that sidesteps copyright entirely.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/suno-v-justice.png"
+    },
+    {
+      "source": "Hypebot",
+      "category": "music",
+      "headline": "Suno steals Artist Identities, Jason Isbell wants to stop it",
+      "url": "https://www.hypebot.com/suno-steals-artist-identities-jason-isbell-wants-to-stop-it/",
+      "published_iso": "2026-09-08T13:48:58+00:00",
+      "excerpt": "Jason Isbell and David Lowery's class action opens a new front in the AI music war: not training data, but the exploitation of an artist's unique sonic identity and name as a prompt handle.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/photo-1548630435-998a2cbbff67-3.jpeg"
+    },
+    {
+      "source": "Hypebot",
+      "category": "music",
+      "headline": "AI Music Disputes Need More Than a Label: 5 Records All Artists Should Keep",
+      "url": "https://www.hypebot.com/ai-music-disputes-need-more-than-a-label-5-records-all-artists-should-keep/",
+      "published_iso": "2026-09-10T12:33:23+00:00",
+      "excerpt": "A practical checklist for creators working with AI tools: keep consent records, source files, version histories, revenue trails and any challenges to unauthorised use, because platform AI labels alone won't settle a dispute.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/E6BFC2B3-0CFC-42A2-B5DC-1D0C7E2E4B15.jpeg"
+    },
+    {
+      "source": "Gearnews",
+      "category": "music",
+      "headline": "Acon Digital Acoustica 8: AI-Enhanced Post-Production",
+      "url": "https://www.gearnews.com/acon-digital-acoustica-studio/",
+      "published_iso": "2026-09-10T15:00:00+02:00",
+      "excerpt": "Acoustica 8 adds AI-powered restoration, immersive/surround support and a reworked interface, folding machine-learning repair directly into a mastering and post-production editor.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-ft.jpg"
+    },
+    {
+      "source": "Synthtopia",
+      "category": "music",
+      "headline": "Dreamtonics Instrument X Replaces Big Sample Libraries With Neural Acoustics",
+      "url": "https://www.synthtopia.com/content/2026/08/31/dreamtonics-instrument-x-replaces-big-sample-libraries-with-neural-acoustics/",
+      "published_iso": "2026-08-31T18:07:25+00:00",
+      "excerpt": "Dreamtonics' Instrument X swaps multi-gigabyte sample playback for neural acoustic modelling, promising expressive virtual instruments that respond to performance rather than triggering recorded takes.",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/08/dreamtronics-instrument-x.jpg"
+    },
+    {
+      "source": "The Decoder",
+      "category": "music",
+      "headline": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
+      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+      "published_iso": "2026-09-06T09:56:24+00:00",
+      "excerpt": "Lyria 3.5 is now available in the Gemini app and API, generating full-length tracks with verses, choruses and bridges in high-fidelity stereo. Google says it was trained only on licensed content.",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_logo.png"
+    },
+    {
+      "source": "CDM",
+      "category": "music",
+      "headline": "Audacity 4, free and open-source audio editor, arrives with a revamped UI",
+      "url": "https://cdm.link/audacity-4-and-tenacity-too/",
+      "published_iso": "2026-09-03T19:44:40+00:00",
+      "excerpt": "Audacity reaches v4 with a reworked interface and usability overhaul, alongside a suite of locally-run AI plugins for stem separation and transcription built with Intel. CDM also weighs the Tenacity fork.",
+      "og_image": "https://cdm.link/app/uploads/2026/09/audacity-4-scaled.png"
+    },
+    {
+      "source": "MusicRadar",
+      "category": "music",
+      "headline": "Serato's latest update introduces open streaming and 'Lucid Beatgrids' that can adapt to BPM changes",
+      "url": "https://www.musicradar.com/music-tech/dj-software/seratos-latest-update-introduces-open-streaming-and-lucid-beatgrids-that-can-adapt-to-bpm-changes",
+      "published_iso": "2026-09-10T07:20:37Z",
+      "excerpt": "Serato 5.0's beta brings analysis that tracks tempo drift in real time, so beatgrids follow live BPM changes instead of assuming a fixed grid - a quiet upgrade to the DJ's core workflow.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Mijmpm6ykNNENNY9mocMv9-1067-80.jpg"
+    },
+    {
+      "source": "Music Ally",
+      "category": "music",
+      "headline": "IFPI urges EU countries to fully implement AI Act's new rules",
+      "url": "https://musically.com/2026/09/11/ifpi-urges-eu-countries-to-fully-implement-ai-acts-new-rules/",
+      "published_iso": "2026-09-11T12:30:00+00:00",
+      "excerpt": "At the launch of its 'Music in the EU' report, the IFPI pressed member states to enforce the AI Act's transparency rules - the training-data disclosures that would let musicians see whether their work fed a model.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-3.png?fit=2000%2C1500&ssl=1"
     }
   ]
 }

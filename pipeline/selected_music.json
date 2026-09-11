@@ -1,66 +1,129 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-12",
   "section": "music",
   "picks": [
     {
+      "rank": 1,
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Suno Inks ‘Strategic Partnership’ With Believe",
+      "headline": "UMG Inks Deal With ElevenLabs to Develop AI Music Remix Platform",
+      "url": "https://www.billboard.com/pro/umg-elevenlabs-to-develop-ai-music-remix-platform/",
       "source": "Billboard",
-      "url": "https://www.billboard.com/pro/suno-believe-strategic-partnership/",
-      "published_iso": "2026-09-08T20:00:00+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg?w=1024",
-      "excerpt": "AI music platform Suno has signed a strategic partnership with French music giant Believe, adding another major distributor to the licensed side of its business. Participating Believe and TuneCore artists can opt in to training, share revenue, and distribute AI tracks made with the licensed model.",
-      "rationale": "Third label partnership for Suno — opt-in training plus a TuneCore distribution path is a concrete new route to market for independent artists."
+      "published_iso": "2026-09-10T14:25:41+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/Eleven-Labs-UMG-logos-Billboard-1800.jpg?w=1024",
+      "excerpt": "Universal Music Group and ElevenLabs have signed a licensing and joint product deal to build an AI platform where fans can co-create, remix and mash up tracks from artists who opt in. It is ElevenLabs' first major-label agreement, struck without prior litigation.",
+      "rationale": "ElevenLabs' first major-label deal — struck without litigation — sets the licensing template every AI music tool will now be measured against."
     },
     {
+      "rank": 2,
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "SoundBoost updates its browser-based mastering service with Engine v4",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/",
-      "published_iso": "2026-09-08T13:51:52+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/soundboost-728x364.jpg",
-      "excerpt": "SoundBoost's Engine v4 lets you steer a master with plain-language instructions instead of assembling a mastering chain by hand. It renders a three-minute track in roughly ten seconds and accepts iterative refinement requests without restarting the job.",
-      "rationale": "Highest craft actionability in the pool — a rebuilt engine, a free tier, and a seed number that carries one master's character across a whole EP."
+      "headline": "Suno has rebuilt its AI music models from scratch with licensed music",
+      "url": "https://www.musicradar.com/music-tech/suno-has-rebuilt-its-ai-music-models-from-scratch-with-licensed-music",
+      "source": "MusicRadar",
+      "published_iso": "2026-09-09T08:55:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pXKM5ozf85eSnb7G4C6858-1600-80.png",
+      "excerpt": "Suno's V6 family was retrained on licensed catalogue with Warner Music, BMG and Believe, and ships alongside tools that let users create with and remix music from participating artists.",
+      "rationale": "A full model rebuild on licensed catalogue plus new remix tooling changes both what Suno can legally output and what producers can actually ship."
     },
     {
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "headline": "Jason Isbell Files Class Action Lawsuit Claiming Suno Coded AI to ‘Extract Musicians’ Identities’",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/jason-isbell-class-action-lawsuit-ai-music-platform-suno/",
-      "published_iso": "2026-09-01T18:17:14+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/2246607714-e1788285629641.jpg?w=1024",
-      "excerpt": "Jason Isbell is leading a class action accusing Suno of encoding artists' musical personas as tokens so a name prompt returns identity-evocative output. The suit runs on rights of publicity rather than copyright, so it survives even where labels have already licensed recordings.",
-      "rationale": "Moves the legal fight from training data to the output side, and to a right artists own personally rather than through their labels."
-    },
-    {
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "headline": "Chartmetric launches AI agent Flow, priced from $60 per month: ‘Not just another AI chatbot’",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/chartmetric-launches-ai-agent-flow-priced-from-60-per-month-not-just-another-ai-chatbot/",
-      "published_iso": "2026-09-08T11:13:06+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/Sung-e1788866187311.jpeg",
-      "excerpt": "Chartmetric has launched Flow, an AI agent that answers plain-language questions against its own music dataset, builds multi-phase marketing plans, and runs automations like alerts and shortlists. It cross-references 14 million artists and starts at $60 per month standalone.",
-      "rationale": "A working analyst-replacement agent for release strategy, with credits, tiers and pricing already public — directly changes how a manager preps a campaign."
-    },
-    {
+      "rank": 3,
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "Stella Parton urges people to stop creating AI ‘endless garbage’ about her late sister Dolly",
+      "headline": "Serato's latest update introduces open streaming and 'Lucid Beatgrids' that can adapt to BPM changes",
+      "url": "https://www.musicradar.com/music-tech/dj-software/seratos-latest-update-introduces-open-streaming-and-lucid-beatgrids-that-can-adapt-to-bpm-changes",
       "source": "MusicRadar",
-      "url": "https://www.musicradar.com/artists/singers-songwriters/show-more-compassion-and-wisdom-as-we-move-forward-in-life-use-my-sisters-life-as-an-example-for-tolerance-and-respect-to-towards-others-stella-parton-urges-people-to-stop-creating-ai-and-endless-garbage-about-her-late-sister",
-      "published_iso": "2026-09-07T14:41:12+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/L2GEfYzgnn3EMKjFcyu4cE-2000-80.jpg",
-      "excerpt": "Two weeks after Dolly Parton's death, her sister Stella asked on Instagram that people stop posting the wave of AI material about her. She called it a tremendous amount of AI and endless garbage that has been challenging to absorb or ignore.",
-      "rationale": "The posthumous-likeness problem stated by a family member, not a lawyer — the culture-side counterweight to this week's licensing and litigation news."
+      "published_iso": "2026-09-10T07:20:37Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Mijmpm6ykNNENNY9mocMv9-1067-80.jpg",
+      "excerpt": "Serato 5.0's beta brings analysis that tracks tempo drift in real time, so beatgrids follow live BPM changes instead of assuming a fixed grid - a quiet upgrade to the DJ's core workflow.",
+      "rationale": "Beatgrids that follow tempo drift instead of assuming a fixed grid rewrites the one assumption every DJ prep workflow was built on."
+    },
+    {
+      "rank": 4,
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "headline": "Audacity 4, free and open-source audio editor, arrives with a revamped UI",
+      "url": "https://cdm.link/audacity-4-and-tenacity-too/",
+      "source": "CDM",
+      "published_iso": "2026-09-03T19:44:40+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/audacity-4-scaled.png",
+      "excerpt": "Audacity reaches v4 with a reworked interface and usability overhaul, alongside a suite of locally-run AI plugins for stem separation and transcription built with Intel. CDM also weighs the Tenacity fork.",
+      "rationale": "Free, offline stem separation and transcription inside a rebuilt Audacity puts locally-run AI audio tools in reach of anyone with no budget."
+    },
+    {
+      "rank": 5,
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "headline": "Acon Digital Acoustica 8: AI-Enhanced Post-Production",
+      "url": "https://www.gearnews.com/acon-digital-acoustica-studio/",
+      "source": "Gearnews",
+      "published_iso": "2026-09-10T15:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-ft.jpg",
+      "excerpt": "Acoustica 8 adds AI-powered restoration, immersive/surround support and a reworked interface, folding machine-learning repair directly into a mastering and post-production editor.",
+      "rationale": "Machine-learning repair folded straight into a mastering editor removes the round-trip to a separate restoration suite."
     }
-  ]
+  ],
+  "dedup": {
+    "checked_against_days": 5,
+    "dropped": [
+      {
+        "url": "https://www.synthtopia.com/content/2026/08/31/dreamtonics-instrument-x-replaces-big-sample-libraries-with-neural-acoustics/",
+        "reason": "Same story as published card music-dreamtonics-instrument-x (2026-09-05, Attack Magazine)"
+      },
+      {
+        "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
+        "reason": "Same story as published card music-google-lyria-3-5 (2026-09-06, Google Blog)"
+      },
+      {
+        "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
+        "reason": "Same story as published card music-isbell-suno-x3v (2026-09-09, Billboard) - Isbell publicity-rights class action"
+      },
+      {
+        "url": "https://www.hypebot.com/suno-steals-artist-identities-jason-isbell-wants-to-stop-it/",
+        "reason": "Same story as published card music-isbell-suno-x3v (2026-09-09, Billboard)"
+      },
+      {
+        "url": "https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/",
+        "reason": "Within-pool duplicate of UMG x ElevenLabs deal; kept Billboard as strongest source"
+      },
+      {
+        "url": "https://musically.com/2026/09/11/umgs-elevenlabs-deal-is-latest-move-to-ai-remix-experiences/",
+        "reason": "Within-pool duplicate of UMG x ElevenLabs deal; kept Billboard"
+      },
+      {
+        "url": "https://www.gearnews.com/suno-v6-tech/",
+        "reason": "Within-pool duplicate of Suno v6 launch; kept MusicRadar"
+      },
+      {
+        "url": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
+        "reason": "Within-pool duplicate of Suno v6 launch; kept MusicRadar"
+      }
+    ],
+    "surviving_not_picked": [
+      {
+        "url": "https://www.hypebot.com/ai-music-disputes-need-more-than-a-label-5-records-all-artists-should-keep/",
+        "reason": "Fresh and unique, but advice-checklist format with lower novelty; ranked 6th"
+      },
+      {
+        "url": "https://musically.com/2026/09/11/ifpi-urges-eu-countries-to-fully-implement-ai-acts-new-rules/",
+        "reason": "Fresh and unique, but policy-advocacy with low actionability; section already ran several AI-policy cards this week"
+      }
+    ]
+  },
+  "diversity": {
+    "outlets": {
+      "Billboard": 1,
+      "MusicRadar": 2,
+      "CDM": 1,
+      "Gearnews": 1
+    },
+    "distinct_outlets": 4,
+    "max_per_outlet": 2,
+    "note": "Topic spread: label licensing deal, generative model release, DJ software, open-source editor, post-production plugin."
+  }
 }

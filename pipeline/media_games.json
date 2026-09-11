@@ -1,34 +1,32 @@
 {
- "date": "2026-09-09",
- "section": "games",
+ "date": "2026-09-12",
  "media": [
   {
-   "id": "games-nhl27-ai-commentary-q7d",
+   "id": "games-blizzard-union-q4m",
    "type": "image",
-   "src": "pipeline/media/games-nhl27-ai-commentary-q7d.jpg"
+   "src": "pipeline/media/games-blizzard-union-q4m.jpg"
   },
   {
-   "id": "games-arm-mali-g2-nx-r4v",
-   "type": "video",
-   "src": "pipeline/media/games-arm-mali-g2-nx-r4v.mp4",
-   "poster": "pipeline/media/games-arm-mali-g2-nx-r4v.jpg"
-  },
-  {
-   "id": "games-dlss5-dual-gpu-mod-m3z",
-   "type": "video",
-   "src": "pipeline/media/games-dlss5-dual-gpu-mod-m3z.mp4",
-   "poster": "pipeline/media/games-dlss5-dual-gpu-mod-m3z.jpg"
-  },
-  {
-   "id": "games-eu-dev-ai-survey-t8c",
+   "id": "games-hoyoverse-voice-w9t",
    "type": "image",
-   "src": "pipeline/media/games-eu-dev-ai-survey-t8c.jpg"
+   "src": "pipeline/media/games-hoyoverse-voice-w9t.jpg"
   },
   {
-   "id": "games-murkmire-no-ai-mod-h5w",
+   "id": "games-abcd-splat-v3n",
    "type": "video",
-   "src": "pipeline/media/games-murkmire-no-ai-mod-h5w.mp4",
-   "poster": "pipeline/media/games-murkmire-no-ai-mod-h5w.jpg"
+   "src": "pipeline/media/games-abcd-splat-v3n.mp4",
+   "poster": "pipeline/media/games-abcd-splat-v3n.jpg"
+  },
+  {
+   "id": "games-mages-juggernaut-r6d",
+   "type": "image",
+   "src": "pipeline/media/games-mages-juggernaut-r6d.jpg"
+  },
+  {
+   "id": "games-bytedance-world-h8x",
+   "type": "video",
+   "src": "pipeline/media/games-bytedance-world-h8x.mp4",
+   "poster": "pipeline/media/games-bytedance-world-h8x.jpg"
   }
  ]
 }
