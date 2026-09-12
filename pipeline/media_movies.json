@@ -1,10 +1,33 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
+  "section": "movies",
   "media": [
-    {"id": "movies-eddie-ai-v4-h3q", "type": "video", "src": "pipeline/media/movies-eddie-ai-v4-h3q.mp4", "poster": "pipeline/media/movies-eddie-ai-v4-h3q.jpg"},
-    {"id": "movies-microdrama-ai-v9n", "type": "image", "src": "pipeline/media/movies-microdrama-ai-v9n.jpg"},
-    {"id": "movies-sns-evo-ai-t2k", "type": "image", "src": "pipeline/media/movies-sns-evo-ai-t2k.png"},
-    {"id": "movies-del-toro-craft-w6r", "type": "image", "src": "pipeline/media/movies-del-toro-craft-w6r.jpg"},
-    {"id": "movies-ccai-site-b8j", "type": "image", "src": "pipeline/media/movies-ccai-site-b8j.jpg"}
+    {
+      "id": "movies-primevideo-dub-q3m",
+      "type": "image",
+      "src": "pipeline/media/movies-primevideo-dub-q3m.jpg"
+    },
+    {
+      "id": "movies-nicetouch-v2-h8v",
+      "type": "video",
+      "src": "pipeline/media/movies-nicetouch-v2-h8v.mp4",
+      "poster": "pipeline/media/movies-nicetouch-v2-h8v.jpg"
+    },
+    {
+      "id": "movies-switchx-two-t5k",
+      "type": "video",
+      "src": "pipeline/media/movies-switchx-two-t5k.mp4",
+      "poster": "pipeline/media/movies-switchx-two-t5k.jpg"
+    },
+    {
+      "id": "movies-maxon-fall-ibc-b2r",
+      "type": "image",
+      "src": "pipeline/media/movies-maxon-fall-ibc-b2r.jpg"
+    },
+    {
+      "id": "movies-acoustica-eight-w9n",
+      "type": "image",
+      "src": "pipeline/media/movies-acoustica-eight-w9n.jpg"
+    }
   ]
 }

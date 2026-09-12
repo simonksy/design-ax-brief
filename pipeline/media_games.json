@@ -1,32 +1,34 @@
 {
- "date": "2026-09-12",
- "media": [
-  {
-   "id": "games-blizzard-union-q4m",
-   "type": "image",
-   "src": "pipeline/media/games-blizzard-union-q4m.jpg"
-  },
-  {
-   "id": "games-hoyoverse-voice-w9t",
-   "type": "image",
-   "src": "pipeline/media/games-hoyoverse-voice-w9t.jpg"
-  },
-  {
-   "id": "games-abcd-splat-v3n",
-   "type": "video",
-   "src": "pipeline/media/games-abcd-splat-v3n.mp4",
-   "poster": "pipeline/media/games-abcd-splat-v3n.jpg"
-  },
-  {
-   "id": "games-mages-juggernaut-r6d",
-   "type": "image",
-   "src": "pipeline/media/games-mages-juggernaut-r6d.jpg"
-  },
-  {
-   "id": "games-bytedance-world-h8x",
-   "type": "video",
-   "src": "pipeline/media/games-bytedance-world-h8x.mp4",
-   "poster": "pipeline/media/games-bytedance-world-h8x.jpg"
-  }
- ]
+  "date": "2026-09-13",
+  "section": "games",
+  "media": [
+    {
+      "id": "games-unity-claude-plugin-k7m",
+      "type": "video",
+      "src": "pipeline/media/games-unity-claude-plugin-k7m.mp4",
+      "poster": "pipeline/media/games-unity-claude-plugin-k7m.jpg"
+    },
+    {
+      "id": "games-roblox-reality-v3q",
+      "type": "image",
+      "src": "pipeline/media/games-roblox-reality-v3q.jpg"
+    },
+    {
+      "id": "games-echoforge-sound-b8t",
+      "type": "video",
+      "src": "pipeline/media/games-echoforge-sound-b8t.mp4",
+      "poster": "pipeline/media/games-echoforge-sound-b8t.jpg"
+    },
+    {
+      "id": "games-level5-ai-backlash-r2w",
+      "type": "image",
+      "src": "pipeline/media/games-level5-ai-backlash-r2w.jpg"
+    },
+    {
+      "id": "games-runescape-ai-clone-h9p",
+      "type": "video",
+      "src": "pipeline/media/games-runescape-ai-clone-h9p.mp4",
+      "poster": "pipeline/media/games-runescape-ai-clone-h9p.jpg"
+    }
+  ]
 }

@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
+  "section": "design",
   "media": [
     {
-      "id": "design-figma-make-kit-k7p",
+      "id": "design-supersplat-30-q4m",
       "type": "video",
-      "src": "pipeline/media/design-figma-make-kit-k7p.mp4",
-      "poster": "pipeline/media/design-figma-make-kit-k7p.jpg"
+      "src": "pipeline/media/design-supersplat-30-q4m.mp4",
+      "poster": "pipeline/media/design-supersplat-30-q4m.jpg"
     },
     {
-      "id": "design-ae-265-assistant-q4m",
+      "id": "design-morpholio-trace-b7k",
+      "type": "image",
+      "src": "pipeline/media/design-morpholio-trace-b7k.jpg"
+    },
+    {
+      "id": "design-agent-retry-x2n",
+      "type": "image",
+      "src": "pipeline/media/design-agent-retry-x2n.png"
+    },
+    {
+      "id": "design-vibe-coding-prod-m9t",
+      "type": "image",
+      "src": "pipeline/media/design-vibe-coding-prod-m9t.jpg"
+    },
+    {
+      "id": "design-ai-stack-now-j5r",
       "type": "video",
-      "src": "pipeline/media/design-ae-265-assistant-q4m.mp4",
-      "poster": "pipeline/media/design-ae-265-assistant-q4m.jpg"
-    },
-    {
-      "id": "design-slack-surfaces-r2v",
-      "type": "image",
-      "src": "pipeline/media/design-slack-surfaces-r2v.jpg"
-    },
-    {
-      "id": "design-infinitform-x8d",
-      "type": "image",
-      "src": "pipeline/media/design-infinitform-x8d.png"
-    },
-    {
-      "id": "design-voice-ux-patterns-m3s",
-      "type": "image",
-      "src": "pipeline/media/design-voice-ux-patterns-m3s.jpg"
+      "src": "pipeline/media/design-ai-stack-now-j5r.mp4",
+      "poster": "pipeline/media/design-ai-stack-now-j5r.jpg"
     }
   ]
 }

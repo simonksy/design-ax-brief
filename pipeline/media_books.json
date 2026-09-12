@@ -1,29 +1,29 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "media": [
     {
-      "id": "books-ipg-autumn-q4m",
-      "type": "image",
-      "src": "pipeline/media/books-ipg-autumn-q4m.jpg"
-    },
-    {
-      "id": "books-oup-disclosure-h3v",
-      "type": "image",
-      "src": "pipeline/media/books-oup-disclosure-h3v.jpg"
-    },
-    {
-      "id": "books-writer-fears-z8t",
-      "type": "image",
-      "src": "pipeline/media/books-writer-fears-z8t.png"
-    },
-    {
-      "id": "books-simon-stream-m5r",
+      "id": "books-spotify-narration-q7v",
       "type": "svg"
     },
     {
-      "id": "books-webtoon-ai-w2n",
+      "id": "books-pw-ai-reckoning-m3d",
       "type": "image",
-      "src": "pipeline/media/books-webtoon-ai-w2n.jpg"
+      "src": "pipeline/media/books-pw-ai-reckoning-m3d.png"
+    },
+    {
+      "id": "books-ken-liu-ai-story-t9k",
+      "type": "image",
+      "src": "pipeline/media/books-ken-liu-ai-story-t9k.jpg"
+    },
+    {
+      "id": "books-ingram-ai-rollout-b4z",
+      "type": "image",
+      "src": "pipeline/media/books-ingram-ai-rollout-b4z.png"
+    },
+    {
+      "id": "books-mcphee-workflow-h6s",
+      "type": "image",
+      "src": "pipeline/media/books-mcphee-workflow-h6s.jpg"
     }
   ]
 }

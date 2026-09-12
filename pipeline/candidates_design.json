@@ -1,143 +1,89 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "design",
-  "now_iso": "2026-09-11T22:02:15Z",
+  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 72,
   "items": [
     {
-      "source": "Figma (YouTube)",
-      "category": "figma",
-      "headline": "Bringing Design Systems into Figma Make",
-      "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
-      "published_iso": "2026-09-10T14:13:29Z",
-      "excerpt": "Figma Designer Advocate Anthony DiSpezio walks through building a Make kit so Figma Make generates on-brand prototypes from your own design system components, styles and variables instead of generic AI output.",
-      "og_image": "https://i.ytimg.com/vi/cUXna9ZAfSI/maxresdefault.jpg"
-    },
-    {
       "source": "DEV Community",
       "category": "figma",
-      "headline": "Design, Code, and AI on a Single Canvas: Modern UI Workflow Patterns",
-      "url": "https://dev.to/cathy_3c6121740b50c8a080f/design-code-and-ai-on-a-single-canvas-modern-ui-workflow-patterns-elg",
-      "published_iso": "2026-09-09T13:11:56Z",
-      "excerpt": "A breakdown of the emerging pattern where design surface, generated code and AI agent share one canvas — arguing product teams are not short on tools but on shared context between designers and engineers.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwp6v7onm3cj0f2m7or5q.png"
+      "headline": "One CLI tool that extracts an entire site's design into files so Claude Code rebuilds the UI exactly",
+      "url": "https://dev.to/sarantoon/ekhruuengmuue-cli-tawediiywthiiskaddiiaichnthangewbkmaaepnaifl-aih-claude-code-sraang-ui-trngaebbepa-531a",
+      "published_iso": "2026-09-11T16:13:06Z",
+      "excerpt": "A Thai-language walkthrough of a CLI that scrapes a live site's design language (tokens, type scale, spacing, components) into files an agent can read, so Claude Code reproduces the UI pixel-faithfully instead of guessing.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6cp0d8dp8rlfb4ycdhii.png"
     },
     {
-      "source": "Creative Bloq",
+      "source": "MindStudio",
       "category": "figma",
-      "headline": "Can you spot all the clues that prove this AI 'photo' isn't real?",
-      "url": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-      "published_iso": "2026-09-10T06:00:00Z",
-      "excerpt": "A forensic read of a viral AI image that fools most viewers at a glance, cataloguing the compositional and lighting tells designers can train themselves to catch. There are far more errors than it first seems.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg"
+      "headline": "Claude Code vs Codex vs Hermes: Choosing the Right AI Agent Harness",
+      "url": "https://www.mindstudio.ai/blog/choosing-right-ai-coding-agent-harness",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "excerpt": "Argues the harness around a model — how it plans, reads context and applies edits — matters more than the model itself, and compares Claude Code, Codex and Hermes for teams shipping UI.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/ecc8946a-65df-4b9c-b6de-a1d9db9aa584.png?fm=auto&w=1200&h=630&fit=crop"
+    },
+    {
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "Build with OpenAI Agents API on Vercel",
+      "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "excerpt": "Vercel adds a path to deploy OpenAI Agents API apps with Next.js, Functions, Queues and Sandbox — isolated, persistent execution for agent-built interfaces and prototypes.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/11LbE3TUi4bRkNrSZX1ybn/b9e6fbb9a451e2de1f96988284399c64/build_with_openai_agents_api_on_vercel_og_card.jpg"
+    },
+    {
+      "source": "Vercel",
+      "category": "figma",
+      "headline": "GitHub Copilot is now available in the AI SDK harness layer",
+      "url": "https://vercel.com/changelog/github-copilot-ai-sdk-harness-adapter",
+      "published_iso": "2026-09-10T17:39:00Z",
+      "excerpt": "Copilot now runs through Vercel's AI SDK harness via @ai-sdk/harness-github-copilot, using the same HarnessAgent interface as other agents — one swap-in interface for design-to-code pipelines.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4Msc5LoqH7tZ3Te4okDEfT/8df03c8a629b5c1e918a7856b86eff9d/github_copilot_harness_adapter_changelog_og_card.jpg"
+    },
+    {
+      "source": "MindStudio",
+      "category": "render",
+      "headline": "ChatGPT Images 2.5: What's New and How It Actually Performs",
+      "url": "https://www.mindstudio.ai/blog/chatgpt-images-2-5-review",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "excerpt": "Hands-on test of OpenAI's ChatGPT Images 2.5: sketch-to-image, stronger identity matching and multi-step edits. Details where it holds up for real design work and where it still breaks.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/7fa6e8ce-d11e-4599-b166-112f47d58233.png?fm=auto&w=1200&h=630&fit=crop"
+    },
+    {
+      "source": "Engadget",
+      "category": "render",
+      "headline": "Why is the internet so upset about NVIDIA's DLSS 5?",
+      "url": "https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/",
+      "published_iso": "2026-09-12T20:00:00Z",
+      "excerpt": "NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter. A breakdown of what the generative frame pipeline actually does to authored visuals.",
+      "og_image": "https://www.engadget.com/img/gallery/why-is-the-internet-so-upset-about-nvidias-dlss-5/l-intro-1788358512.jpg"
     },
     {
       "source": "CG Channel",
       "category": "render",
-      "headline": "Adobe releases After Effects 26.5, plus experimental new AI Assistant",
-      "url": "https://www.cgchannel.com/2026/09/adobe-releases-after-effects-26-5-and-new-ai-assistant-in-beta/",
-      "published_iso": "2026-09-09T12:00:00Z",
-      "excerpt": "After Effects 26.5 ships new motion graphics and compositing features, and the current beta adds an agentic AI Assistant that can drive the app from natural-language instructions.",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_f-960x480.jpg"
+      "headline": "SuperSplat Editor 3.0 is a huge performance update",
+      "url": "https://www.cgchannel.com/2026/09/playcanvas-releases-supersplat-editor-3-0/",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "excerpt": "PlayCanvas' free browser tool for viewing and editing 3D Gaussian splats now handles tens of millions of Gaussians smoothly, making scanned-reality assets practical in design and visualization pipelines.",
+      "og_image": null
     },
     {
-      "source": "80 Level",
+      "source": "Creative Bloq",
       "category": "render",
-      "headline": "How EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
-      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity/",
-      "published_iso": "2026-09-11T18:10:00Z",
-      "excerpt": "Researchers Anamaria Buliga and Kamil Tebani explain how EchoForge combines spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable 3D environments inside Unity.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "headline": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "published_iso": "2026-09-09T16:00:42Z",
-      "excerpt": "NVIDIA expands AI for Media at IBC with models to understand motion, verify and enhance video and localize programming — pushing generative pipelines deeper into production and post workflows.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/me-ai-for-media-kv-1920x1080-5262591.jpeg"
-    },
-    {
-      "source": "Engineering.com",
-      "category": "cad",
-      "headline": "InfinitForm brings determinism back to generative design",
-      "url": "https://www.engineering.com/infinitform-brings-determinism-back-to-generative-design/",
-      "published_iso": "2026-09-09T19:21:06Z",
-      "excerpt": "InfinitForm's cloud platform positions AI as an assistant rather than the engine of generative design, aiming for repeatable, manufacturable geometry instead of one-off organic blobs engineers can't reproduce.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep8.png"
-    },
-    {
-      "source": "80 Level",
-      "category": "cad",
-      "headline": "How MetroY Ultra Turns Physical Parts into Digital Designs Without CAD Data",
-      "url": "https://80.lv/articles/how-metroy-ultra-turns-physical-parts-into-digital-designs-without-cad-data/",
-      "published_iso": "2026-09-11T14:09:00Z",
-      "excerpt": "A look at converting physical parts into accurate 3D references when no CAD file exists — reverse engineering, custom fitment and reproduction workflows built on scanning rather than modeling from scratch.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50106/images/6aa090d73a452/contain_1200x630.png"
-    },
-    {
-      "source": "Engineering.com",
-      "category": "cad",
-      "headline": "Morpholio launches Trace for Business for enterprise users",
-      "url": "https://www.engineering.com/morpholio-launches-trace-for-business-for-enterprise-users/",
-      "published_iso": "2026-09-10T13:59:50Z",
-      "excerpt": "Morpholio's AI-assisted sketching app Trace gets an enterprise tier with centralized licensing, SSO and IT management through the Vectorworks Customer Portal, pushing the tool into larger design studios.",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Morpholio-launches-Trace-for-Business-for-enterprise-users-scaled.jpg"
-    },
-    {
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "headline": "The Death Of The Button: Why The Best Interface Is No Interface",
-      "url": "https://www.smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-      "published_iso": "2026-09-09T10:00:00Z",
-      "excerpt": "As the web moves beyond menus and forms toward intent-driven AI experiences, UX designers shift from drawing visible interfaces to guiding transparent, explainable AI behaviour.",
-      "og_image": "https://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
+      "headline": "Can you spot all the clues that prove this AI 'photo' isn't real?",
+      "url": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
+      "published_iso": "2026-09-10T06:00:00Z",
+      "excerpt": "A forensic read of a viral AI image that fools most viewers at a glance, cataloguing the lighting and composition tells designers can train themselves to catch.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XB6izpmzrsEj4xwpWoXGqP-1920-80.jpg"
     },
     {
       "source": "UX Collective",
-      "category": "tokens",
-      "headline": "8 voice AIUX patterns",
-      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0",
-      "published_iso": "2026-09-10T22:40:55Z",
-      "excerpt": "Sharang Sharma maps eight emerging voice-AI UX patterns, the agent roles users perceive behind each, and the key design decisions and limitations that come with them.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*yoggBwjdzBWtH9OpJjrZ9g.jpeg"
-    },
-    {
-      "source": "Smashing Magazine",
-      "category": "tokens",
-      "headline": "Building A UX ROI Case That Survives The Boardroom",
-      "url": "https://www.smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "published_iso": "2026-09-11T13:00:00Z",
-      "excerpt": "Alex Williams works through defining business value, calculating costs and testing causality so design initiatives can be defended with numbers when AI-era budgets get scrutinised.",
-      "og_image": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
-    },
-    {
-      "source": "Road to VR",
-      "category": "vr",
-      "headline": "TikTok Parent Reportedly Building AI Model to Rival Google's Genie for Real-Time Spatial Video",
-      "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
-      "published_iso": "2026-09-09T10:44:59Z",
-      "excerpt": "ByteDance is reportedly readying an AI model for generating real-time spatial video, a Genie-style world model that would let creators author explorable immersive scenes from prompts.",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg"
-    },
-    {
-      "source": "The Verge",
       "category": "workflow",
-      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "published_iso": "2026-09-10T21:25:21Z",
-      "excerpt": "Slack's new Surfaces feature lets anyone generate interactive charts, dashboards and mini-apps from a prompt directly in a channel — generative UI landing inside the tool teams already live in.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&w=1200"
-    },
-    {
-      "source": "The Verge",
-      "category": "workflow",
-      "headline": "Meta's Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "published_iso": "2026-09-10T15:00:00Z",
-      "excerpt": "A hands-on with Meta's Muse, an always-on contextual AI that reads what's on your screen to suggest actions — a preview of ambient, proactive interface patterns designers will soon have to design around.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&strip=all&w=1200"
+      "headline": "The real reason everyone hates the viral AI food slop images",
+      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11",
+      "published_iso": "2026-09-12T21:40:38Z",
+      "excerpt": "\"We've always made food look better than it is. So why does it feel different when AI does it?\" Slava Polonski unpacks the trust mechanics behind the backlash to AI food imagery — and what it means for brand and visual design.",
+      "og_image": "https://cdn-images-1.medium.com/max/738/1*7aYKbKqDNzrkfdBU67pMHQ.png"
     },
     {
       "source": "UX Collective",
@@ -145,7 +91,7 @@
       "headline": "Five eras of UX design and the lessons to keep in the AI era",
       "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
       "published_iso": "2026-09-10T22:38:12Z",
-      "excerpt": "Patrick Neeman compresses sixty years of UX into five eras, arguing the oldest human-factors lessons are the ones that point the way through AI-assisted design practice.",
+      "excerpt": "Sixty years of UX compressed into one horizon line: human factors has reinvented itself every decade since Bell Labs, and the oldest lessons are the ones pointing the way forward as AI resets the interface.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*Xdi3OgwGMpD_b_QXO53AoQ.png"
     },
     {
@@ -154,26 +100,125 @@
       "headline": "Your first draft now has a log",
       "url": "https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9",
       "published_iso": "2026-09-10T15:57:17Z",
-      "excerpt": "Pedro A. Brêtas on what it means for creative work that AI tools now record the thought before the thought — workplace surveillance reaching into the drafting stage of design and writing.",
+      "excerpt": "Workplace surveillance has reached the thought before the thought: every prompt and revision in an AI tool leaves a record. A hard look at what logged creative process means for designers and the products they build.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*FY8icI2migdzBvCBEzqJ3g.png"
+    },
+    {
+      "source": "MindStudio",
+      "category": "workflow",
+      "headline": "ChatGPT Images 2.5 and Astra: Automate a Full Design Workflow",
+      "url": "https://www.mindstudio.ai/blog/chatgpt-images-2-5-astra-workflow",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "excerpt": "Chains ChatGPT Images 2.5 with GPT-5 Astra across Canva, Dropbox and a print service so a single prompt runs end-to-end to a finished, print-ready poster.",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/5053d51e-8674-4a51-a200-2aa93804b792.png?fm=auto&w=1200&h=630&fit=crop"
+    },
+    {
+      "source": "OpenAI",
+      "category": "workflow",
+      "headline": "Introducing the Agents API",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "excerpt": "OpenAI ships a managed Agents API powered by the Codex harness, with orchestration, long-running sessions and tool use — the plumbing behind agents that can run a design or content workflow unattended.",
+      "og_image": null
+    },
+    {
+      "source": "OpenAI",
+      "category": "workflow",
+      "headline": "Build more natural voice experiences with GPT-Live-1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "excerpt": "GPT-Live-1 brings full-duplex voice conversation to the API with stronger instruction following, custom voices and telephony support — new raw material for voice-first interface design.",
+      "og_image": null
+    },
+    {
+      "source": "CIO",
+      "category": "workflow",
+      "headline": "Vibe coding is Topgolf. Production is Torrey Pines.",
+      "url": "https://www.cio.com/article/4220416/vibe-coding-is-topgolf-production-is-torrey-pines.html",
+      "published_iso": "2026-09-10T09:30:00Z",
+      "excerpt": "Vibe coding makes creation feel effortless; shipping it demands another level of discipline. A blueprint for keeping prompt-driven prototyping's energy while adding the guardrails production needs.",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4220416-0-76791500-1789032775-ron-guerrier-vibe-coding.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "source": "Engadget",
+      "category": "workflow",
+      "headline": "How to get started with Meta's new AI agent, Muse",
+      "url": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
+      "published_iso": "2026-09-12T14:00:00Z",
+      "excerpt": "After days of testing Meta's Muse agent, Engadget finds almost no learning curve — a look at how the assistant handles creative and everyday tasks in Meta's apps.",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-get-started-with-metas-new-ai-agent-muse/l-intro-1789165341.jpg"
+    },
+    {
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "headline": "Elon Musk's daughter's Tesla-trolling fashion advert is as cinematic as Star Wars",
+      "url": "https://www.creativebloq.com/ai/elon-musks-daughters-tesla-trolling-fashion-advert-is-as-cinematic-as-star-wars",
+      "published_iso": "2026-09-12T09:00:00Z",
+      "excerpt": "Desigual's campaign casts Vivian Wilson opposite a humanoid robot in a sci-fi spot with several layers of trolling — a case study in how brands are staging the human-versus-machine narrative.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ik7JD24ZvjvHMahi6d9mgf-1920-80.jpg"
+    },
+    {
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "Show Stop Proof Before Approving an Agent Retry",
+      "url": "https://dev.to/haaaaaley/show-stop-proof-before-approving-an-agent-retry-23oe",
+      "published_iso": "2026-09-12T17:04:39Z",
+      "excerpt": "A retry button looked harmless in Friday critique — until an agent had rewritten onboarding consent. A concrete interaction pattern for showing evidence of what an agent stopped before a designer approves another run.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8rle2urkpyjea0xmkw5i.png"
+    },
+    {
+      "source": "DEV Community",
+      "category": "tokens",
+      "headline": "AI-generated websites are the Word Art era all over again",
+      "url": "https://dev.to/adioof/ai-generated-websites-are-the-word-art-era-all-over-again-42j0",
+      "published_iso": "2026-09-12T19:11:50Z",
+      "excerpt": "Remember Word Art on every 90s school flyer? The argument that prompt-built sites are repeating the same cycle — new power, no constraints — and what design systems must supply to break it.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fres.cloudinary.com%2Fahf0v5j3%2Fimage%2Fupload%2Fv1789240127%2Fdevto-covers%2Fupkkdvmfpnwuhzjmebq6.png"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "category": "cad",
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "published_iso": "2026-09-10T16:30:35Z",
+      "excerpt": "Skild AI's S1 robot foundation model learns a new task from one demonstration video, using NVIDIA synthetic data, training and simulation — collapsing the prototype loop for anyone designing physical products and robots.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg"
+    },
+    {
+      "source": "Engineering.com",
+      "category": "cad",
+      "headline": "Morpholio launches Trace for Business for enterprise users",
+      "url": "https://www.engineering.com/morpholio-launches-trace-for-business-for-enterprise-users/",
+      "published_iso": "2026-09-10T13:59:50Z",
+      "excerpt": "The AI-assisted sketching and drawing app used by architects and industrial designers gets an enterprise tier with centralized licensing, SSO and IT management through the Vectorworks portal.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Morpholio-launches-Trace-for-Business-for-enterprise-users-scaled.jpg"
+    },
+    {
+      "source": "Jesse Showalter (YouTube)",
+      "category": "social",
+      "headline": "My Actual AI Stack Right Now",
+      "url": "https://www.youtube.com/watch?v=zwoyqvMtMSA",
+      "published_iso": "2026-09-12T04:13:00Z",
+      "excerpt": "A working designer walks through the exact AI tools he uses to design, code, edit video and run an agency — not predictions, the current stack and where each tool stops being useful.",
+      "og_image": "https://i.ytimg.com/vi/zwoyqvMtMSA/maxresdefault.jpg"
     },
     {
       "source": "Matt Wolfe (YouTube)",
       "category": "social",
-      "headline": "This AI Makes Any Photo 3D",
-      "url": "https://www.youtube.com/watch?v=iSXeiUXiln8",
-      "published_iso": "2026-09-09T12:26:29Z",
-      "excerpt": "World Labs' new Atlas model reconstructs a full 3D environment from a single photograph and lets you fly the camera through it — a fast path from reference image to explorable set.",
-      "og_image": "https://i.ytimg.com/vi/iSXeiUXiln8/maxresdefault.jpg"
+      "headline": "I Built A Tool To Detect AI Slop (You Can Have It)",
+      "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0",
+      "published_iso": "2026-09-09T22:18:17Z",
+      "excerpt": "AI video has gotten hard to spot, so Matt Wolfe builds and open-sources a detector — a hands-on look at which artifacts still betray generated footage.",
+      "og_image": "https://i.ytimg.com/vi/-KcHn0QcSb0/maxresdefault.jpg"
     },
     {
-      "source": "The AI Advantage (YouTube)",
+      "source": "Two Minute Papers (YouTube)",
       "category": "social",
-      "headline": "ChatGPT Images 2.5 Is Here. Together With Astra It's Crazy",
-      "url": "https://www.youtube.com/watch?v=dZnsz2RYoAQ",
-      "published_iso": "2026-09-11T17:30:19Z",
-      "excerpt": "A first look at ChatGPT Images 2.5 paired with GPT-6 Astra, testing how far the new image model holds typography, layout and brand consistency across edits.",
-      "og_image": "https://i.ytimg.com/vi/dZnsz2RYoAQ/maxresdefault.jpg"
+      "headline": "I Never Thought I'd See This Happen",
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "published_iso": "2026-09-10T08:47:23Z",
+      "excerpt": "Karoly Zsolnai-Feher covers an AI system contributing to a Navier-Stokes result — the fluid math that underpins simulation and VFX work designers rely on.",
+      "og_image": "https://i.ytimg.com/vi/mOvtumfyjCs/maxresdefault.jpg"
     }
   ]
 }

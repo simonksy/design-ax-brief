@@ -1,10 +1,32 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
+  "section": "science",
   "media": [
-    { "id": "science-lunar-open-model-k7p", "type": "image", "src": "pipeline/media/science-lunar-open-model-k7p.jpg" },
-    { "id": "science-ekg-queen-hearts-m3v", "type": "image", "src": "pipeline/media/science-ekg-queen-hearts-m3v.jpeg" },
-    { "id": "science-gpn-star-genome-b8q", "type": "image", "src": "pipeline/media/science-gpn-star-genome-b8q.jpg" },
-    { "id": "science-constitutive-laws-r4d", "type": "image", "src": "pipeline/media/science-constitutive-laws-r4d.jpg" },
-    { "id": "science-ignisqnc-quantum-w9t", "type": "image", "src": "pipeline/media/science-ignisqnc-quantum-w9t.png" }
+    {
+      "id": "science-pathology-o3-h4k",
+      "type": "image",
+      "src": "pipeline/media/science-pathology-o3-h4k.jpg"
+    },
+    {
+      "id": "science-odin-multi-v9t",
+      "type": "image",
+      "src": "pipeline/media/science-odin-multi-v9t.jpg"
+    },
+    {
+      "id": "science-llm-confidence-m2r",
+      "type": "image",
+      "src": "pipeline/media/science-llm-confidence-m2r.jpg"
+    },
+    {
+      "id": "science-jwst-exomoon-z7c",
+      "type": "video",
+      "src": "pipeline/media/science-jwst-exomoon-z7c.mp4",
+      "poster": "pipeline/media/science-jwst-exomoon-z7c.jpg"
+    },
+    {
+      "id": "science-disaster-forecast-p3w",
+      "type": "image",
+      "src": "pipeline/media/science-disaster-forecast-p3w.jpg"
+    }
   ]
 }

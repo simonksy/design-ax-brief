@@ -1,84 +1,96 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "movies",
   "picks": [
     {
-      "headline": "Eddie AI v4 adds Avid support, C2PA signing, and generative b-roll",
-      "url": "https://www.redsharknews.com/eddie-ai-v4-avid-c2pa-generative-features",
-      "source": "RedShark News",
-      "published_iso": "2026-09-10T11:45:00+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/eddie%20ai%20v4.jpg",
-      "excerpt": "Eddie AI v4 adds native Avid Media Composer handoff, automatic camera sync, and generative music, voiceover and b-roll. It also signs output with C2PA content credentials and offers a smaller on-premises model for facilities.",
+      "headline": "Amazon's Prime Video Is Using AI to Lip-Sync Actors' Mouths in Dubbed Titles, Starting With German Series 'Maxton Hall'",
+      "url": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/",
+      "source": "Variety",
+      "published_iso": "2026-09-09T13:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=563&crop=1",
+      "excerpt": "Prime Video is applying AI visual dubbing to alter actors' mouth movements so English dubs match the dialogue, beginning with the German series 'Maxton Hall.' It moves lip-sync dubbing from beta demos into a streamer's shipping localization pipeline.",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Assistant-editor AI now hands off natively to Avid, signs its output with C2PA, and runs on-prem — a concrete change to tomorrow's cutting-room setup."
+      "rationale": "AI visual dubbing crosses from demo reel into a major streamer's shipping localization pipeline, which resets what delivery specs and dub budgets look like."
     },
     {
-      "headline": "AI-Generated Verticals Are Flooding the Microdrama Apps That Kept Crews Working",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-10T13:05:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1440&h=810&crop=1",
-      "excerpt": "Phone-first microdramas became a post-strike lifeline for underemployed LA cast and crew. Now AI-generated verticals are saturating the same apps, and auditions are drying up.",
+      "headline": "Nice Touch V2: an AI edit assistant for professional editors",
+      "url": "https://www.provideocoalition.com/nice-touch-v2-an-ai-edit-assistant-for-professional-editors/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-09-11T08:14:39-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg",
+      "excerpt": "Nice Touch shipped V2, a full rebuild of its AI workflow/edit assistant that runs inside Adobe Premiere Pro and DaVinci Resolve. The company says the redesign came out of more than 300 conversations with editors, producers, post supervisors and studio owners.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "The clearest field report yet on where generative video is actually displacing paid production work — the vertical microdrama market, not features."
+      "rationale": "A ground-up rebuild of an assistant that lives inside Premiere and Resolve — the most directly installable change to an editor's day in this batch."
     },
     {
-      "headline": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO",
-      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-11T15:32:23+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png",
-      "excerpt": "Studio Network Solutions expanded the AI layer inside its EVO shared storage, pushing transcription, tagging and search onto the facility's own hardware. The IBC update also widens Avid Media Composer compatibility.",
+      "headline": "Beeble introduces SwitchX 2.0 with native 4K, longer shots and more",
+      "url": "https://www.provideocoalition.com/beeble-introduces-switchx-2-0-with-native-4k-longer-shots-and-more/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-09-11T02:51:19-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh002.jpg",
+      "excerpt": "Beeble's SwitchX 2.0 lets filmmakers and VFX artists change lighting, backgrounds and props in existing footage, now at native 4K, 10-bit, and up to 20-second clips at 24fps. The update also improves camera tracking, motion fidelity and lip sync.",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Transcription, tagging and search move into the shared storage itself and stay on the facility's own hardware — the on-prem answer to cloud media AI."
+      "rationale": "Native 4K, 10-bit and 20-second shots push in-footage relighting past demo length into something you can actually cut into a delivery."
     },
     {
-      "headline": "Guillermo Del Toro On What Artists Lose To AI: 'You're Never A Master; You're Always An Apprentice'",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-09-10T03:11:54-07:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Pans-Labyrinth.jpg",
-      "excerpt": "Del Toro uses the Pale Man, practical effects and creative accidents to argue what disappears when process is replaced by prompting. His framing is about craft apprenticeship, not copyright.",
+      "headline": "Maxon to Preview Fall Cinema 4D, ZBrush and Redshift Updates at IBC2026",
+      "url": "https://www.awn.com/news/maxon-preview-fall-cinema-4d-zbrush-and-redshift-updates-ibc2026",
+      "source": "Animation World Network",
+      "published_iso": "2026-09-10T20:08:55+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB",
+      "excerpt": "Maxon's October ecosystem release previews new 3D world-building in Cinema 4D, a desktop-and-iPad ZBrush sculpting workflow, procedural fur, and AI-powered relighting in Redshift. Booth visitors got the early look September 11-14.",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A craft argument rather than a copyright one: what a creative team loses when the process that trains people is replaced by a prompt."
+      "rationale": "Names what lands in Cinema 4D, ZBrush and Redshift in October — including AI relighting — early enough for 3D teams to plan the upgrade."
     },
     {
-      "headline": "Daniel Kwan and Joseph Gordon-Levitt's CCAI Launches a Site to Define AI's Impact",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-impact-hollywood-kwan-gordon-levitt-study-1236695085/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-09T13:00:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=1440&h=810&crop=1",
-      "excerpt": "The Concerned Creatives coalition led by Daniel Kwan and Joseph Gordon-Levitt is publishing a living web resource mapping how AI is actually hitting creative work. It aims to give filmmakers shared evidence rather than vibes.",
+      "headline": "Acon Acoustica 8 Provides AI-Assisted Audio Workflow Tools",
+      "url": "https://postperspective.com/acon-acoustica-8-provides-ai-assisted-audio-workflow-tools/",
+      "source": "postPerspective",
+      "published_iso": "2026-09-11T17:37:44+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
+      "excerpt": "Acon Digital released Acoustica 8, adding AI-assisted tools to its audio editing, restoration and mastering suite. The company frames the release as a direct response to technical problems raised by working audio post professionals.",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A filmmaker-built, continuously updated evidence base creatives can cite in real negotiations instead of trading anecdotes."
+      "rationale": "Restoration and mastering AI aimed at problems audio post actually reported, keeping the batch from being all picture-side tooling."
     }
   ],
   "dropped": [
     {
-      "url": "https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-      "reason": "Duplicate of published 2026-09-05 card movies-tamar-ai-s-tapnow-brings — same Variety article id 1236846503 under a different section path."
+      "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
+      "reason": "Same release as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Adobe's IBC Premiere AI / Generative Media Tool), reframed as an Adobe interview at a different outlet."
     },
     {
       "url": "https://nofilmschool.com/adobe-generative-media-tool",
-      "reason": "Same story as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Adobe IBC Generative Media Tool in Premiere), different outlet."
+      "reason": "Same release as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Generative Media Tool in the Premiere timeline), different outlet."
     },
     {
-      "url": "https://variety.com/2026/tv/markets-festivals/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
-      "reason": "Surviving but not picked — heavy topical overlap with the already-published Tamar AI / HappyHorse / Venice Production Bridge card (2026-09-05)."
+      "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
+      "reason": "Same announcement as published 2026-09-09 card movies-revize-pitchblack-d4t (REVIZE rolling out to FOLKS, El Ranchito, Square One), different outlet."
     },
     {
       "url": "https://beforesandafters.com/2026/09/10/hope/",
-      "reason": "Surviving but not picked — same source and same core topic (HOPE mocap with Vikander and Fassbender) as the published 2026-09-04 card movies-hope-mocap."
+      "reason": "Already published as the 2026-09-04 card movies-hope-mocap (same URL/story, now rolled out of the 5-day window)."
+    },
+    {
+      "url": "https://www.provideocoalition.com/colorfront-and-qumulo-at-ibc2026-metadata-does-not-have-to-die-in-transit/",
+      "reason": "Surviving but not picked — would have made a third ProVideo Coalition card, breaking the max-2-per-outlet diversity guard."
+    },
+    {
+      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+      "reason": "Surviving but not picked — published 2026-08-31, and its Media Composer 2026.8 substance already surfaced via the 2026-09-12 SNS EVO card."
+    },
+    {
+      "url": "https://www.redsharknews.com/ibc2026-top-10-things-to-see",
+      "reason": "Surviving but not picked — floor-guide roundup whose AI highlights (Adobe Generative Media Tool, Eddie AI) are already published cards."
     }
   ]
 }

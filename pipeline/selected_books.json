@@ -1,94 +1,98 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "books",
   "picks": [
     {
       "rank": 1,
       "tool": "Books",
+      "category": "books",
+      "headline": "Spotify's AI-powered audiobook narration opens up to all authors",
+      "url": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-10T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "Spotify is opening its AI audiobook narration program to all authors, using ElevenLabs voice models to produce the audio at no cost and with no exclusivity requirement — a direct challenge to Audible/ACX economics for indie authors.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "category": "books",
-      "headline": "AI debate has shifted from 'can we' to 'should we', IPG Autumn Conference 2026 hears",
-      "url": "https://www.thebookseller.com/news/ai-debate-has-shifted-from-can-we-to-should-we-ipg-autumn-conference-2026-hears",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-10T00:00:00Z",
-      "og_image": null,
-      "excerpt": "AI dominated the Independent Publishers Guild Autumn Conference, with new IPG research showing adoption among indie publishers has jumped to 76% in 2026 from 42% in 2023, and 72.9% now hold a formal AI policy. The report's blunt finding: AI may have damaged trust between publishers and authors more than it has actually changed workflows.",
-      "rationale": "Fresh hard numbers on where indie publishing actually stands on AI adoption and policy — a benchmark anyone writing an AI policy can measure against."
+      "rationale": "Highest actionability in the pool: a free, non-exclusive AI narration route that changes an author's audiobook decision this week."
     },
     {
       "rank": 2,
       "tool": "Books",
+      "category": "books",
+      "headline": "Publishing's AI Reckoning",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131354-1.PNG",
+      "excerpt": "PW's cover feature on how the book business is learning to live with generative AI, for better and worse: HarperCollins moving to automate overseas translation, Wiley booking $49M in AI licensing revenue in FY2026, and editorial teams absorbing AI into everyday production.",
       "accent": "#0070f3",
       "motif": "swatch",
-      "category": "books",
-      "headline": "Oxford University Press updates guidelines as AI use 'measurably' under-disclosed",
-      "url": "https://www.thebookseller.com/news/oxford-university-press-updates-guidelines-as-ai-use-measurably-under-disclosed",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
-      "excerpt": "An OUP survey found a wide gap between how often researchers actually use AI in their writing and how often they declare it, prompting the publisher to rewrite its author submission guidelines. The update pushes disclosure of AI assistance from optional courtesy toward an explicit condition of submission.",
-      "rationale": "A major publisher turning AI disclosure into a submission requirement changes what authors must write down before they submit tomorrow."
+      "rationale": "PW cover feature with hard numbers (Wiley's $49M AI licensing line, HarperCollins translation automation) that set the industry baseline."
     },
     {
       "rank": 3,
       "tool": "Books",
+      "category": "books",
+      "headline": "50 Things Every AI Working With Humans Should Know — Ken Liu's machine-assisted story",
+      "url": "https://lithub.com/50-things-every-ai-working-with-humans-should-know/",
+      "source": "Literary Hub",
+      "published_iso": "2026-09-09T08:03:55Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/passing-of-the-dragon.jpg",
+      "excerpt": "Lit Hub publishes Ken Liu's new story, written in explicit collaboration with AI systems and accompanied by an interview explaining the method — a rare documented craft record of literary co-writing rather than a disclosure scandal.",
       "accent": "#7928ca",
       "motif": "swatch",
-      "category": "books",
-      "headline": "Writers' AI Fears Often Run Ahead of the Facts",
-      "url": "https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-11T09:00:00Z",
-      "og_image": null,
-      "excerpt": "Friedman takes on three of the loudest writer anxieties — agents secretly using AI, detector false positives, and proving human authorship — and finds the online panic bears little resemblance to agency and publisher practice. She notes rejections tied to detection scores generally start around 20-25%, not at a light AI touch.",
-      "rationale": "Puts concrete thresholds and real agency practice behind the detector panic, so writers can calibrate instead of guessing."
+      "rationale": "Rare primary artifact: a major author publishing an AI-co-written story plus the method behind it, not another disclosure controversy."
     },
     {
       "rank": 4,
       "tool": "Books",
+      "category": "books",
+      "headline": "Ingram's AI Rollout Is a Success",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101218-ingram-s-ai-rollout-is-a-success.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131360-1.PNG",
+      "excerpt": "Fifteen months into deploying AI across its operations, Ingram says the technology is already changing how the distributor does business — from metadata and customer service to print-on-demand workflow decisions.",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "category": "books",
-      "headline": "Simon & Schuster is making indie publishing easier",
-      "url": "https://goodereader.com/blog/digital-publishing/simon-schuster-is-making-indie-publishing-easier",
-      "source": "Good e-Reader",
-      "published_iso": "2026-09-10T04:26:00Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10002615/pr-simonstream.png",
-      "excerpt": "Simon & Schuster relaunched Pocket Books for print deals and added Simon Stream with 50% net e-book royalties, aimed at self-published authors who want a major imprint's stamp. The pitch is explicitly positioned as a way for real books to stand out from the flood of AI-generated slop.",
-      "rationale": "A concrete new route and royalty rate for self-published authors, framed as a human-authorship signal against AI slop."
+      "rationale": "Supply-side evidence with a 15-month track record — metadata and print-on-demand workflow changes that reach every publisher selling through Ingram."
     },
     {
       "rank": 5,
       "tool": "Books",
+      "category": "books",
+      "headline": "What Machines Can't Replace: Why AI Makes Us More Human, with Anna McPhee",
+      "url": "https://www.thecreativepenn.com/2026/09/09/what-machines-cant-replace-why-ai-makes-us-more-human-with-anna-mcphee/",
+      "source": "The Creative Penn",
+      "published_iso": "2026-09-09T06:30:00Z",
+      "og_image": null,
+      "excerpt": "Software engineer, author and creative technologist Anna McPhee walks through an author workflow that uses AI for research, editing, admin and marketing while every word of the book stays human-written — a concrete division-of-labour model for creative work.",
       "accent": "#eb367f",
       "motif": "swatch",
-      "category": "books",
-      "headline": "What Webtoon's New AI Partnership Could Mean for Translators",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-09T15:00:00Z",
-      "og_image": null,
-      "excerpt": "Webtoon is rolling out AI auto-translation for self-published Canvas creators plus 'byUS', a Korea-only interactive story-chat service that lets readers generate new stories from existing webcomics. Translators interviewed say the tooling can speed localization but still misses the cultural nuance that East Asian comics depend on.",
-      "rationale": "A shipping AI localization pipeline on a major creator platform, with working translators saying exactly where it breaks."
+      "rationale": "A concrete, copyable division of labour between AI and human craft — the only workflow-level pick, balancing four industry/litigation-leaning stories."
     }
   ],
-  "dropped_as_duplicate": [
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
-      "reason": "Same story as the Anthropic settlement allocation dispute already published 2026-09-05 (Writer Beware) and 2026-09-09 (TechCrunch)."
-    },
-    {
-      "url": "https://janefriedman.com/disagreements-in-the-anthropic-settlement-were-inevitable-but-it-feels-worse-than-expected/",
-      "reason": "Same Anthropic settlement claim-allocation story already published 2026-09-05 and 2026-09-09."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
-      "reason": "Commentary on the DOJ fair-use brief already published 2026-09-05 (Publishing Perspectives)."
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
-      "reason": "Same Sept 4 summary-judgment round in the consolidated MDL already covered 2026-09-07 (Unite.AI, Microsoft filing)."
-    }
-  ]
+  "dedup_notes": {
+    "published_history_checked": ["2026-09-12 (today)", "2026-09-09", "2026-09-08", "2026-09-07", "2026-09-06", "2026-09-05"],
+    "dropped": [
+      {
+        "url": "https://authorsguild.org/news/plaintiffs-file-motion-for-summary-judgment-v-openai-and-microsoft/",
+        "reason": "Same 4 Sept summary-judgment round in the In re OpenAI MDL already covered twice — Microsoft's own motion (unite.ai, 2026-09-07) and the DOJ statement of interest (Publishing Perspectives, 2026-09-05). Content duplicate of a published story, and the oldest item in the pool."
+      },
+      {
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
+        "reason": "Same-day PW package sibling whose core topic (automating translation) is already carried inside pick #2's feature, and translation-vs-translators was published 2026-09-12 (Webtoon) and 2026-09-09 (Audible). Also would have made a third PW card, breaking the 2-per-outlet cap."
+      },
+      {
+        "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
+        "reason": "Reaction round-up to the DOJ NYT v. OpenAI filing already published 2026-09-05, alongside the AAP amicus (2026-09-08) — heavy topical overlap, ranked below the surviving five."
+      },
+      {
+        "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
+        "reason": "Fresh and non-duplicate but ranked 6th — abstract strategy framing with lower actionability than the five picks; held as the first backfill if any pick fails downstream."
+      }
+    ],
+    "diversity": "5 picks / 4 distinct outlets (Publishers Weekly 2 = at cap, Jane Friedman 1, Literary Hub 1, The Creative Penn 1). Single-category section, so each pick carries a distinct accent from sources.json palette."
+  }
 }

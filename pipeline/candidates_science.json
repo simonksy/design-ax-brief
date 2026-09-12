@@ -1,116 +1,188 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "science",
-  "now_iso": "2026-09-11T22:02:15Z",
+  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "source": "Google DeepMind",
+      "source": "Phys.org",
       "category": "science",
-      "headline": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "published_iso": "2026-09-03T15:02:08Z",
-      "excerpt": "DeepMind released WeatherNext 3, its most accurate global AI weather model to date, extending ensemble forecasting further ahead and at higher resolution than previous versions. The model is being made available through Google Cloud and Earth Engine for scientific and operational forecasting use.",
-      "og_image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47Yvg"
+      "headline": "AI suggests new physics experiments that could outperform human-designed setups",
+      "url": "https://phys.org/news/2026-09-ai-physics-outperform-human-setups.html",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "Machine-learning researchers report that AI can now propose experimental setups that beat human-designed ones on precision, across quantum optics, electron microscopy and gravitational-wave detection. Humans still set the objectives and interpret results; the AI optimizes how components are combined.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg"
     },
     {
-      "source": "Scientific American",
+      "source": "Phys.org",
       "category": "science",
-      "headline": "New Google DeepMind atlas could transform our understanding of genetic diseases",
-      "url": "https://www.scientificamerican.com/article/new-google-deepmind-alphagenome-atlas-could-transform-our-understanding-of-genetic-diseases/",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "excerpt": "Google DeepMind released AlphaGenome Atlas, a free database of predicted molecular effects for nine billion single-letter DNA variants across the human genome. Researchers can now look up a variant's likely regulatory impact instead of re-running the model or hunting through raw datasets.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg"
+      "headline": "PACMAN AI framework for controlling fusion systems safely makes key decisions in milliseconds",
+      "url": "https://phys.org/news/2026-09-pacman-ai-framework-fusion-safely.html",
+      "published_iso": "2026-09-02T00:00:00Z",
+      "excerpt": "Princeton researchers tested PACMAN on a real fusion device in five experiments, handing split-second plasma-control decisions to AI while keeping humans in charge of the goals and safety envelope. The framework arbitrates between competing control objectives faster than any human operator could react.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Phys.org",
       "category": "science",
-      "headline": "What OpenAI's latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "excerpt": "OpenAI says roughly 10,000 concurrent agents cracked a long-open problem in the Navier-Stokes family, but the claim is shadowed by accusations that it failed to credit the human mathematicians whose AI-assisted work it built on. The episode raises the question of whether frontier math now requires compute only a few labs can afford.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg"
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "science",
-      "headline": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "published_iso": "2026-09-01T00:00:00Z",
-      "excerpt": "An open-source agentic system called Get Physics Done broke an interstellar trajectory problem into sub-tasks, chose which simulations to run, and found a novel route for the Fermi Explorer Mission to Alpha Centauri. The 80,000-year trajectory was discovered by AI rather than hand-derived by mission planners.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg"
+      "headline": "Researchers eye AI revolution in natural disaster forecasts",
+      "url": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "Swiss researchers are pairing roughly 100 petabytes of NASA Earth-observation and climate data with supercomputing to train AI models that cut forecast turnaround to minutes. The goal is spotting precursors of floods and glacier collapses that physics-based models miss.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg"
     },
     {
       "source": "Quanta Magazine",
       "category": "science",
-      "headline": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
-      "published_iso": "2026-09-03T00:00:00Z",
-      "excerpt": "Recorded live at the International Congress of Mathematicians, Janna Levin and Steven Strogatz press working mathematicians on what remains uniquely human about their craft now that machines generate proofs. The conversation treats AI less as a tool question than as an identity question for the discipline.",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Lede-LOGO-scaled.jpg"
+      "headline": "AI Has Solved One of Math's $1 Million Millennium Prize Problems",
+      "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Mathematicians at OpenAI say AI agents found a singularity in the Navier-Stokes equations, apparently settling a Clay Millennium Prize problem. The result builds on analytic techniques from Cordoba and Martinez-Zoroa, and attribution between competing lab teams is already contested.",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/navier-stokes-light-master.webp"
     },
     {
-      "source": "Phys.org",
+      "source": "Scientific American",
       "category": "science",
-      "headline": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
-      "url": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "excerpt": "NASA and IBM released an open-source lunar foundation model trained on nearly two decades of Lunar Reconnaissance Orbiter data. It lets researchers identify ice deposits, impact craters and volcanic features with only minimal labeled training data.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/release-of-open-ai-mod.jpg"
+      "headline": "How AI can help with early schizophrenia diagnosis",
+      "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
+      "published_iso": "2026-09-12T11:00:00Z",
+      "excerpt": "Speech carries subtle acoustic and semantic markers of psychosis onset, and researchers are testing whether models can hear those differences earlier than human psychiatrists. The piece weighs the clinical upside against the risk of premature labeling.",
+      "og_image": null
     },
     {
-      "source": "Phys.org",
+      "source": "Scientific American",
       "category": "science",
-      "headline": "New AI model for DNA learns from evolution to unlock secrets of the human genome",
-      "url": "https://phys.org/news/2026-09-ai-dna-evolution-secrets-human.html",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "excerpt": "UC Berkeley's GPN-Star, a genomic language model trained on evolutionary signal, outperforms larger rivals at pinpointing the genetic variants behind inherited traits and disease. It does so while requiring far less compute to train than competing genomic foundation models.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/human-genome.jpg"
+      "headline": "AI has finally come for math—mathematicians might never recover",
+      "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+      "published_iso": "2026-09-10T07:30:00Z",
+      "excerpt": "After a summer of AI-assisted proofs, mathematicians are openly debating what remains distinctly human about their craft. The reporting tracks how proof-assistant workflows and reasoning models are reorganizing the discipline's daily practice.",
+      "og_image": null
     },
     {
-      "source": "Phys.org",
+      "source": "Scientific American",
       "category": "science",
-      "headline": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
-      "url": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "excerpt": "A graph-based framework from the Eastern Institute of Technology reads raw material-test data and writes out explicit, physically interpretable equations for how alloy steels, lithium metal and filled rubbers deform. It beat mainstream empirical models on predictive accuracy without becoming a black box.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-discovers-interpret.jpg"
+      "headline": "How introverted or extroverted you are may influence how you use AI",
+      "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
+      "published_iso": "2026-09-07T12:00:00Z",
+      "excerpt": "New behavioral research links personality traits to how people prompt and rely on generative AI, with introverts and extroverts adopting measurably different strategies. The finding suggests one-size-fits-all AI interfaces leave capability on the table.",
+      "og_image": null
+    },
+    {
+      "source": "Google DeepMind",
+      "category": "science",
+      "headline": "AlphaGenome Atlas: a predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "DeepMind released predictions for the molecular effects of 9 billion single-nucleotide variants — every possible one-letter change in the human genome — across coding and non-coding regions. Researchers can now look up a variant's predicted regulatory impact instead of running it themselves.",
+      "og_image": "https://lh3.googleusercontent.com/QgfG84W6jCtJ-CUm9zL1nLLNGTSqdCu-aQwKh-XmOQ-b-elP5oFEYEJpYi6lHRp0Ybzrh_OKHngAgv3L1lPoz8FM3FWoqGh-RnFuOgKKC-aL0sf8-No=w1440-h810-n-nu"
     },
     {
       "source": "Google Research",
       "category": "science",
-      "headline": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "headline": "A connectomics milestone: mapping the complete male fruit fly brain",
       "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
       "published_iso": "2026-09-03T00:00:00Z",
-      "excerpt": "Google Research and collaborators used machine-learning segmentation to map the male fruit fly's entire brain and nervous system: 166,000 neurons and 125 million synapses, the largest brain map by neuron count so far. Paired with the earlier female map, it opens up comparative studies of courtship and aggression circuits.",
+      "excerpt": "Machine-learning segmentation and proofreading produced a complete wiring diagram of the male fruit fly brain and central nervous system: 166,000+ neurons and about 125 million synapses. It is the largest whole-nervous-system connectome by neuron count so far.",
       "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg"
     },
     {
       "source": "Google Research",
       "category": "science",
-      "headline": "Transfer learning for genomic prediction in underrepresented populations",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-      "published_iso": "2026-09-03T00:00:00Z",
-      "excerpt": "A Google Research study finds that borrowing European genomic data helps small underrepresented cohorts, but actively hurts accuracy once the target population's own sample size grows. Trait-specific genetic architecture determines when external data should be dropped.",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png"
+      "headline": "Mapping global methane emissions from space with deep learning",
+      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "published_iso": "2026-09-01T00:00:00Z",
+      "excerpt": "MAPL-EMIT automates detection and quantification of methane plumes in NASA EMIT hyperspectral imagery, reaching 84% recall against expert annotations. It replaces manual plume-hunting that had bottlenecked global emissions accounting.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png"
     },
     {
-      "source": "STAT News",
+      "source": "Live Science",
       "category": "science",
-      "headline": "An AI tool aims to catch harder-to-detect heart attacks in EKGs",
-      "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
-      "published_iso": "2026-09-11T08:30:00Z",
-      "excerpt": "The FDA granted a rare de novo clearance to Powerful Medical's 'Queen of Hearts' algorithm, which reads electrocardiograms to flag and triage heart attacks that standard criteria miss. It is one of the first AI tools authorized for occlusion-type infarcts invisible to conventional EKG rules.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_910347045-645x645.jpeg"
+      "headline": "AI trained to 'think' like human pathologists may be better at spotting cancer",
+      "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer",
+      "published_iso": "2026-09-12T12:00:00Z",
+      "excerpt": "Pathology-o3 was trained on pathologists' actual search behavior — how they pan and zoom across a slide — rather than on pre-cropped regions. It flagged 100% of cancer-positive slides in testing, with a deliberately tolerated 15.5% false-positive rate.",
+      "og_image": null
     },
     {
-      "source": "The Quantum Insider",
+      "source": "Universe Today",
       "category": "science",
-      "headline": "Lancaster University Leads Project on Quantum Neural Computing",
-      "url": "https://thequantuminsider.com/2026/09/08/lancaster-university-european-quantum-ai-research-project/",
+      "headline": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+      "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
+      "published_iso": "2026-09-12T12:27:43Z",
+      "excerpt": "Clouds, sun angle and irregular revisit times confuse standard deep-learning pipelines for satellite Earth observation. Researchers propose bio-inspired Liquid Neural Networks, whose continuous-time dynamics adapt to inconsistent input streams onboard.",
+      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_-_clouds_cropped_cropped_20260912_122725.jpg"
+    },
+    {
+      "source": "Universe Today",
+      "category": "science",
+      "headline": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
+      "url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
+      "published_iso": "2026-09-10T14:42:29Z",
+      "excerpt": "A JWST non-detection of exomoons sets a useful upper limit, and the authors argue machine-learning analysis of repeated observations is the path to pulling real exomoon signals out of instrumental noise. It is a template for how ML changes null results into constraints.",
+      "og_image": null
+    },
+    {
+      "source": "Physics World",
+      "category": "science",
+      "headline": "Using AI to plan for climate variability in renewable energy systems",
+      "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
+      "published_iso": "2026-09-09T09:30:45Z",
+      "excerpt": "An AI model trained on 30 years of meteorological data generates realistic synthetic weather years, letting planners size batteries and hydrogen storage against tail-risk conditions rather than averages. The approach surfaces failure modes that historical-average planning hides.",
+      "og_image": null
+    },
+    {
+      "source": "Physics World",
+      "category": "science",
+      "headline": "How far ahead can we predict the weather?",
+      "url": "https://physicsworld.com/a/how-far-ahead-can-we-predict-the-weather/",
+      "published_iso": "2026-09-10T12:00:54Z",
+      "excerpt": "Physicists revisit the predictability limit of the atmosphere now that AI-based models match or beat numerical weather prediction at a fraction of the compute. The question is whether data-driven emulators push the horizon out or just get cheaper.",
+      "og_image": null
+    },
+    {
+      "source": "Psychology Today",
+      "category": "science",
+      "headline": "AI Behavior Impacted by Internal Confidence Levels",
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/ai-behavior-impacted-by-internal-confidence-levels",
       "published_iso": "2026-09-08T00:00:00Z",
-      "excerpt": "Lancaster University is leading IgnisQNC, a EUR 1.88M three-year European project fusing quantum computing with explainable AI. The goal is to turn quantum uncertainty into a computational resource for trustworthy machine learning rather than a source of noise.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-08_16-22.png"
+      "excerpt": "Google DeepMind researchers report in Nature Machine Intelligence that LLMs use internal confidence signals to decide when to abstain from answering — a form of metacognitive control paralleling humans and animals. It reframes hallucination as a calibration problem, not just a knowledge gap.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII"
+    },
+    {
+      "source": "Medical Xpress",
+      "category": "science",
+      "headline": "AI-assisted imaging tool for breast cancer could tailor screening for women according to individual risk",
+      "url": "https://medicalxpress.com/news/2026-09-ai-imaging-tool-breast-cancer.html",
+      "published_iso": "2026-09-10T00:00:00Z",
+      "excerpt": "NYU Langone's NYU-DRP reads multiple years of a patient's 3D mammograms together, beating single-scan models and traditional risk scores at predicting future breast cancer. The pitch is screening intervals set per person rather than per age bracket.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/mammography.jpg"
+    },
+    {
+      "source": "Medical Xpress",
+      "category": "science",
+      "headline": "In a third of cases, AI chatbots wrongly reassure sleep apnea patients that their symptoms aren't serious",
+      "url": "https://medicalxpress.com/news/2026-09-cases-ai-chatbots-wrongly-reassure.html",
+      "published_iso": "2026-09-06T00:00:00Z",
+      "excerpt": "Work presented at the European Respiratory Society Congress found chatbots falsely reassured simulated sleep apnea patients about a third of the time, especially when the patient downplayed symptoms. Sycophancy, not ignorance, was the failure mode.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sleep-problem.jpg"
+    },
+    {
+      "source": "bioRxiv",
+      "category": "science",
+      "headline": "Specificity-driven protein binder design with Odin-Multi",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.08.749745v1",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "excerpt": "A Technical University of Denmark team optimizes one binder sequence against many target complexes at once, applying attractive objectives to on-targets and repulsive ones to off-targets. The premise: a useful binder is defined as much by what it does not bind.",
+      "og_image": null
+    },
+    {
+      "source": "Microsoft Research",
+      "category": "science",
+      "headline": "GigaPath-Flash and GigaTIME-Flash: toward population-scale discovery with efficient pathology foundation models",
+      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "published_iso": "2026-08-31T00:00:00Z",
+      "excerpt": "Microsoft Research reports pathology foundation models running roughly 50x and 6x faster than their predecessors while holding accuracy, cutting the compute wall on whole-slide analysis. The claim is population-scale histopathology becomes practical, not just demo-scale.",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg"
     }
   ]
 }

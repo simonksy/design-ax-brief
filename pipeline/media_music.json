@@ -1,10 +1,32 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
+  "section": "music",
   "media": [
-    { "id": "music-umg-elevenlabs-q4t", "type": "image", "src": "pipeline/media/music-umg-elevenlabs-q4t.jpg" },
-    { "id": "music-suno-v6-h2m", "type": "image", "src": "pipeline/media/music-suno-v6-h2m.png" },
-    { "id": "music-serato-5-b8k", "type": "image", "src": "pipeline/media/music-serato-5-b8k.jpg" },
-    { "id": "music-audacity-4-r6d", "type": "video", "src": "pipeline/media/music-audacity-4-r6d.mp4", "poster": "pipeline/media/music-audacity-4-r6d.jpg" },
-    { "id": "music-acoustica-8-w9j", "type": "video", "src": "pipeline/media/music-acoustica-8-w9j.mp4", "poster": "pipeline/media/music-acoustica-8-w9j.jpg" }
+    {
+      "id": "music-difro-melody-k4q",
+      "type": "image",
+      "src": "pipeline/media/music-difro-melody-k4q.png"
+    },
+    {
+      "id": "music-suno-youtube-r7m",
+      "type": "image",
+      "src": "pipeline/media/music-suno-youtube-r7m.jpg"
+    },
+    {
+      "id": "music-ai-records-v2s",
+      "type": "image",
+      "src": "pipeline/media/music-ai-records-v2s.jpg"
+    },
+    {
+      "id": "music-tone3000-nam-j8d",
+      "type": "video",
+      "src": "pipeline/media/music-tone3000-nam-j8d.mp4",
+      "poster": "pipeline/media/music-tone3000-nam-j8d.jpg"
+    },
+    {
+      "id": "music-spark-pedal-b6n",
+      "type": "image",
+      "src": "pipeline/media/music-spark-pedal-b6n.jpg"
+    }
   ]
 }

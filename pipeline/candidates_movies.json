@@ -1,35 +1,107 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "movies",
-  "now_iso": "2026-09-11T22:02:15Z",
+  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "source": "Deadline",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "headline": "Danny Boyle Confirms Use Of AI In New Movie 'Ink'",
-      "url": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
-      "published_iso": "2026-09-05T21:41:26+00:00",
-      "excerpt": "Danny Boyle says roughly 30 seconds of generative AI appears in 'Ink', used to animate archival photographs of the Kray twins and Margaret Thatcher. The Venice premiere put a mainstream auteur's limited, disclosed AI use on the record.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
+      "headline": "Nice Touch V2: an AI edit assistant for professional editors",
+      "url": "https://www.provideocoalition.com/nice-touch-v2-an-ai-edit-assistant-for-professional-editors/",
+      "published_iso": "2026-09-11T08:14:39-07:00",
+      "excerpt": "Nice Touch shipped V2, a full rebuild of its AI workflow/edit assistant that runs inside Adobe Premiere Pro and DaVinci Resolve. The company says the redesign came out of more than 300 conversations with editors, producers, post supervisors and studio owners.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg"
     },
     {
-      "source": "Variety",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "headline": "AI Filmmaking Debated by Alibaba, Sonilo, PROMPTR at Venice Panel",
-      "url": "https://variety.com/2026/tv/markets-festivals/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
-      "published_iso": "2026-09-07T05:30:00+00:00",
-      "excerpt": "At Venice Production Bridge, executives from Alibaba Token Hub, Sonilo and PROMPTR argued generative video is landing first in pre-production. Alibaba said HappyHorse 2.0 and a real-time 'world model' companion, HappyHorse Control, ship by end of September.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1"
+      "headline": "Beeble introduces SwitchX 2.0 with native 4K, longer shots and more",
+      "url": "https://www.provideocoalition.com/beeble-introduces-switchx-2-0-with-native-4k-longer-shots-and-more/",
+      "published_iso": "2026-09-11T02:51:19-07:00",
+      "excerpt": "Beeble's SwitchX 2.0 lets filmmakers and VFX artists change lighting, backgrounds and props in existing footage, now at native 4K, 10-bit, and up to 20-second clips at 24fps. The update also improves camera tracking, motion fidelity and lip sync.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh002.jpg"
     },
     {
-      "source": "Variety",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "headline": "Tamar AI's TapNow Brings AI-Native Filmmaking to Venice Production Bridge",
-      "url": "https://variety.com/2026/tv/markets-festivals/tamar-ai-tapnow-happyhorse-glanze-venice-production-bridge-1236846503/",
-      "published_iso": "2026-09-04T08:40:43+00:00",
-      "excerpt": "Tamar AI pitched TapNow as an AI-native creative operating system bundling multimodal models, agents and production workflow in one environment. Three films made under its 10,000 Parallel Universes program screened at Venice.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=563&crop=1"
+      "headline": "Colorfront and Qumulo at IBC2026: metadata does not have to die in transit",
+      "url": "https://www.provideocoalition.com/colorfront-and-qumulo-at-ibc2026-metadata-does-not-have-to-die-in-transit/",
+      "published_iso": "2026-09-11T02:31:03-07:00",
+      "excerpt": "Colorfront and Qumulo showed a joint IBC2026 workflow that writes on-set information — camera settings, colour decisions, framing — directly into files so it survives every handoff and stays searchable. Colorfront's Transkoder and On-Set Dailies 2026 add AI-derived text detection and automated QC findings.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/colorfrontqumuloibc002-1024x576.jpg"
+    },
+    {
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "Acon Acoustica 8 Provides AI-Assisted Audio Workflow Tools",
+      "url": "https://postperspective.com/acon-acoustica-8-provides-ai-assisted-audio-workflow-tools/",
+      "published_iso": "2026-09-11T17:37:44+00:00",
+      "excerpt": "Acon Digital released Acoustica 8, adding AI-assisted tools to its audio editing, restoration and mastering suite. The company frames the release as a direct response to technical problems raised by working audio post professionals.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg"
+    },
+    {
+      "source": "postPerspective",
+      "category": "movies",
+      "headline": "Avid Media Composer 2026.8 Offers Agentic Workflows and More",
+      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
+      "published_iso": "2026-08-31T21:21:38+00:00",
+      "excerpt": "Media Composer 2026.8 adds 'Ready to Edit' agentic content prep plus Google Gemini integration inside the editing interface, alongside deeper Avid Content Core ties. Avid positions the automation as handling assembly chores while editorial judgement stays with the editor.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/08/AvidComposer_UI_Workstation.jpg"
+    },
+    {
+      "source": "RedShark News",
+      "category": "movies",
+      "headline": "Premiere's new AI tools, explained by Adobe",
+      "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
+      "published_iso": "2026-09-12T16:47:04+00:00",
+      "excerpt": "In an IBC interview, Adobe walks through Premiere's new AI-assisted features — timeline video generation, sound effect creation and audio cleanup — and argues they target drudgery, not judgement. Adobe's line: 'all the creative decisions remain with the editor.'",
+      "og_image": "https://www.redsharknews.com/hubfs/ibc%20adobe%20stand%202.jpg"
+    },
+    {
+      "source": "RedShark News",
+      "category": "movies",
+      "headline": "IBC2026: 10 top things to see",
+      "url": "https://www.redsharknews.com/ibc2026-top-10-things-to-see",
+      "published_iso": "2026-09-10T16:10:44+00:00",
+      "excerpt": "RedShark's IBC2026 floor list puts Adobe's Generative Media Tool and Eddie AI's review/comment export alongside cameras, lighting and QScan automated QC. The through-line: the AI worth seeing 'removes annoying bits of the process' rather than replacing craft.",
+      "og_image": "https://www.redsharknews.com/hubfs/ibc%20rai%202017.jpg"
+    },
+    {
+      "source": "Animation World Network",
+      "category": "movies",
+      "headline": "Pitch Black Rolls Out REVIZE Machine Learning Across Its Global Studios",
+      "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
+      "published_iso": "2026-09-11T18:22:14+00:00",
+      "excerpt": "The face- and body-replacement toolset Rising Sun Pictures began building in 2018 — used on 30+ films including 'Sinners' and 'Mickey 17' — is now deployed at FOLKS, El Ranchito and Square One. Longtime RSP leader Troy Tobin runs the program.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/logo_black_-_revize-1280.jpg?itok=CpaBSEqQ"
+    },
+    {
+      "source": "Animation World Network",
+      "category": "movies",
+      "headline": "Maxon to Preview Fall Cinema 4D, ZBrush and Redshift Updates at IBC2026",
+      "url": "https://www.awn.com/news/maxon-preview-fall-cinema-4d-zbrush-and-redshift-updates-ibc2026",
+      "published_iso": "2026-09-10T20:08:55+00:00",
+      "excerpt": "Maxon's October ecosystem release previews new 3D world-building in Cinema 4D, a desktop-and-iPad ZBrush sculpting workflow, procedural fur, and AI-powered relighting in Redshift. Booth visitors got the early look September 11-14.",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB"
+    },
+    {
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "Nikola Todorovic on the latest developments in Autodesk's Flow Studio",
+      "url": "https://beforesandafters.com/2026/09/01/nikola-todorovic-on-the-latest-developments-in-autodesks-flow-studio/",
+      "published_iso": "2026-09-01T11:50:50+00:00",
+      "excerpt": "Wonder Dynamics co-founder Nikola Todorovic explains how Flow Studio's new 3D Editor and Canvas work, and where generative tooling sits in a shot-based VFX pipeline. The interview details the hand-off between AI-assisted steps and artist control.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg"
+    },
+    {
+      "source": "befores & afters",
+      "category": "movies",
+      "headline": "The director of 'HOPE' breaks down those chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender",
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "published_iso": "2026-09-10T10:54:01+00:00",
+      "excerpt": "The director of 'HOPE' walks through the film's chase sequences and the performance-capture sessions with Alicia Vikander and Michael Fassbender. The piece also covers how the creatures were designed around captured performance.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg"
     },
     {
       "source": "No Film School",
@@ -37,125 +109,71 @@
       "headline": "Adobe Unveils New Generative Media Tool in Premiere, Plus More AI-Powered Updates",
       "url": "https://nofilmschool.com/adobe-generative-media-tool",
       "published_iso": "2026-09-08T19:45:08+00:00",
-      "excerpt": "Adobe's IBC 2026 release puts a Generative Media Tool directly on the Premiere timeline, letting editors generate video and sound effects in place. It routes to Firefly plus partner models including Google Veo, Kling, Runway and Luma.",
+      "excerpt": "Adobe's IBC 2026 release puts a Generative Media Tool in the Premiere timeline: draw a range on a track, describe what you need, and generate video or sound effects without leaving the app. Firefly and partner models including Google Veo sit behind it, and an After Effects AI Assistant is also coming.",
       "og_image": "https://nofilmschool.com/media-library/image.webp?id=67739708&width=1200&height=600&coordinates=124%2C0%2C124%2C0"
     },
     {
-      "source": "No Film School",
+      "source": "Variety",
       "category": "movies",
-      "headline": "DaVinci Resolve Gets AI Assistant Integration and Other New Features With 21.1 Update",
-      "url": "https://nofilmschool.com/davinci-resolve-update-21-1",
-      "published_iso": "2026-09-08T16:10:05+00:00",
-      "excerpt": "Blackmagic's free Resolve 21.1 update adds AI assistant integration and more than 100 new tools and controls across edit, color, Fusion and Fairlight. Assistants can analyze projects and organize media from inside the NLE.",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739364&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
+      "headline": "Kling AI's TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: 'The Script Is Still the Blueprint'",
+      "url": "https://variety.com/2026/film/news/kling-ai-tiff-market-ai-film-panel-1236858840/",
+      "published_iso": "2026-09-12T16:08:35+00:00",
+      "excerpt": "At Kling AI's TIFF 'The Market' panel on consistent, cinematic AI video, filmmakers argued the script still governs the work regardless of model capability. The session laid out where character consistency and shot control still break down in practice.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=563&crop=1"
     },
     {
-      "source": "No Film School",
+      "source": "Variety",
       "category": "movies",
-      "headline": "Eddie AI Launches an Agent Marketplace of Editing Agents Built on Great Filmmakers",
-      "url": "https://nofilmschool.com/eddie-ai-agent-marketplace",
-      "published_iso": "2026-09-02T20:55:01+00:00",
-      "excerpt": "Eddie AI opened an Agent Marketplace where editors can hire style-specific cutting agents modeled on well-known filmmakers' sensibilities. It reframes AI editing from one generic assistant into a roster of hireable, opinionated collaborators.",
-      "og_image": "https://nofilmschool.com/media-library/image.png?id=67720010&width=1200&height=600&coordinates=0%2C20%2C0%2C20"
-    },
-    {
-      "source": "RedShark News",
-      "category": "movies",
-      "headline": "Eddie AI v4 adds Avid support, C2PA signing, and generative b-roll",
-      "url": "https://www.redsharknews.com/eddie-ai-v4-avid-c2pa-generative-features",
-      "published_iso": "2026-09-10T11:45:00+00:00",
-      "excerpt": "Eddie AI v4 adds native Avid Media Composer handoff, automatic camera sync, and generative music, voiceover and b-roll. It also signs output with C2PA content credentials and offers a smaller on-premises model for facilities.",
-      "og_image": "https://www.redsharknews.com/hubfs/eddie%20ai%20v4.jpg"
-    },
-    {
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "headline": "Adobe's IBC Release for Premiere and After Effects",
-      "url": "https://www.provideocoalition.com/adobes-ibc-release-for-premiere-and-after-effects/",
-      "published_iso": "2026-09-08T06:05:04-07:00",
-      "excerpt": "Beyond timeline generative video, Adobe's IBC drop brings a new AI assistant to After Effects that can write expressions and drive the app conversationally. The write-up walks through what actually shipped versus what remains beta.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg"
-    },
-    {
-      "source": "postPerspective",
-      "category": "movies",
-      "headline": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO",
-      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/",
-      "published_iso": "2026-09-11T15:32:23+00:00",
-      "excerpt": "Studio Network Solutions expanded the AI layer inside its EVO shared storage, pushing transcription, tagging and search onto the facility's own hardware. The IBC update also widens Avid Media Composer compatibility.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png"
-    },
-    {
-      "source": "postPerspective",
-      "category": "movies",
-      "headline": "Origami Platform Updates MAM, Audio Conform, Security and AI Capabilities",
-      "url": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
-      "published_iso": "2026-09-08T21:54:37+00:00",
-      "excerpt": "Origami's cloud post platform extended machine-learning features from on-set media management through audio conform and final delivery. The release targets the unglamorous middle of the post pipeline rather than generation.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/ORIGAMI-main.jpg"
-    },
-    {
-      "source": "befores & afters",
-      "category": "movies",
-      "headline": "Pitch Black's Troy Tobin on where Rising Sun's REVIZE is now headed",
-      "url": "https://beforesandafters.com/2026/09/08/pitch-blacks-troy-tobin-on-where-rising-suns-revize-is-now-headed/",
-      "published_iso": "2026-09-08T10:25:53+00:00",
-      "excerpt": "REVIZE, the machine-learning toolset built at Rising Sun Pictures for face and de-aging work, is being rolled out across affiliated studios FOLKS, El Ranchito and Square One. Tobin details how the ML pipeline slots into shot work.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg"
-    },
-    {
-      "source": "befores & afters",
-      "category": "movies",
-      "headline": "The director of 'HOPE' breaks down those chase scenes, and mocap with Vikander and Fassbender",
-      "url": "https://beforesandafters.com/2026/09/10/hope/",
-      "published_iso": "2026-09-10T10:54:01+00:00",
-      "excerpt": "A breakdown of how 'HOPE' staged its chase sequences and captured performances from Alicia Vikander and Michael Fassbender on a motion-capture stage. The piece also covers how the film's creatures were designed.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg"
-    },
-    {
-      "source": "Animation World Network",
-      "category": "movies",
-      "headline": "Nura Studios Opens Showcraft AI Production Platform to the Public",
-      "url": "https://www.awn.com/news/nura-studios-opens-showcraft-ai-production-platform-public",
-      "published_iso": "2026-09-03T15:54:00+00:00",
-      "excerpt": "Showcraft takes a story from script or shot list through storyboard, animatic, animation and final edit in one environment, orchestrating multiple image and video models around human-created IP. Public access runs on one-time credit packs, not subscriptions.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081221-rainbowhollowfuneral1-1280.jpg?itok=Tn_oPVHN"
-    },
-    {
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "headline": "AI-Generated Verticals Are Flooding the Microdrama Apps That Kept Crews Working",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/",
-      "published_iso": "2026-09-10T13:05:00+00:00",
-      "excerpt": "Phone-first microdramas became a post-strike lifeline for underemployed LA cast and crew. Now AI-generated verticals are saturating the same apps, and auditions are drying up.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1440&h=810&crop=1"
-    },
-    {
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "headline": "Daniel Kwan and Joseph Gordon-Levitt's CCAI Launches a Site to Define AI's Impact",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-impact-hollywood-kwan-gordon-levitt-study-1236695085/",
+      "headline": "Amazon's Prime Video Is Using AI to Lip-Sync Actors' Mouths in Dubbed Titles, Starting With German Series 'Maxton Hall'",
+      "url": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/",
       "published_iso": "2026-09-09T13:00:00+00:00",
-      "excerpt": "The Concerned Creatives coalition led by Daniel Kwan and Joseph Gordon-Levitt is publishing a living web resource mapping how AI is actually hitting creative work. It aims to give filmmakers shared evidence rather than vibes.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=1440&h=810&crop=1"
+      "excerpt": "Prime Video is applying AI visual dubbing to alter actors' mouth movements so English dubs match the dialogue, beginning with the German series 'Maxton Hall.' It moves lip-sync dubbing from beta demos into a streamer's shipping localization pipeline.",
+      "og_image": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=563&crop=1"
     },
     {
-      "source": "Cartoon Brew",
+      "source": "Variety",
       "category": "movies",
-      "headline": "Guillermo Del Toro On What Artists Lose To AI: 'You're Never A Master; You're Always An Apprentice'",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html",
-      "published_iso": "2026-09-10T03:11:54-07:00",
-      "excerpt": "Del Toro uses the Pale Man, practical effects and creative accidents to argue what disappears when process is replaced by prompting. His framing is about craft apprenticeship, not copyright.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Pans-Labyrinth.jpg"
+      "headline": "Former Telepool Chief Yoko Higuchi-Zitzmann, Filmmaker Mark Wachholz Launch AI Production Company Dreamkite Studios",
+      "url": "https://variety.com/2026/film/news/yoko-higuchi-zitzmann-mark-wachholz-dreamkite-studios-1236855876/",
+      "published_iso": "2026-09-10T07:00:00+00:00",
+      "excerpt": "Munich- and Berlin-based Dreamkite Studios launches as an AI-native film studio combining generative tools with conventional production, employing professional directors and actors. The remit covers both AI-first and hybrid projects.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Higuchi_Zitzmann_Wacholz.jpg?w=1000&h=563&crop=1"
     },
     {
-      "source": "80 Level",
+      "source": "IndieWire",
       "category": "movies",
-      "headline": "EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
-      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity",
-      "published_iso": "2026-09-11T18:10:00+00:00",
-      "excerpt": "Researchers Anamaria Buliga and Kamil Tebani combine spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable 3D environments in Unity. It suggests a location-scout-by-ear route into previs.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png"
+      "headline": "Venice Jury President Maggie Gyllenhaal on Her Short 'Flesh Impact,' Casting Ellen Burstyn, and AI",
+      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
+      "published_iso": "2026-09-12T17:23:31+00:00",
+      "excerpt": "Maggie Gyllenhaal discusses her Venice short 'Flesh Impact' with Ellen Burstyn — and why the AI experiment she attempted on it failed. A working director's account of where generative tools broke against the material.",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650"
+    },
+    {
+      "source": "CG Channel",
+      "category": "movies",
+      "headline": "New CG software you may have missed: 7 September 2026",
+      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-7-september-2026/",
+      "published_iso": "2026-09-07T00:00:00+00:00",
+      "excerpt": "CG Channel's fortnightly roundup includes AI Studio 1.1, now available standalone and supporting Seedance 2.5 for generative image and video work, plus RE:Vision Effects' new VFR2CFR frame-rate conversion utility. Other entries cover Unity, Smooth Weights 2, RealityScan Mobile and the 3DGS Render Blender add-on.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260907_CGSoftwareYouMayHaveMissed7September2026_f-960x480.jpg"
+    },
+    {
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "headline": "OpenAI's New Image Model Is Brilliant... Until You Look Closer",
+      "url": "https://www.youtube.com/watch?v=pEYqorQrc4U",
+      "published_iso": "2026-09-11T13:50:35-07:00",
+      "excerpt": "Curious Refuge reviews GPT Image 2.5 against the leading AI image models, testing where it holds up for film work and where it visibly fails. The verdict is a working filmmaker's read on concept and keyframe generation quality.",
+      "og_image": "https://i.ytimg.com/vi/pEYqorQrc4U/maxresdefault.jpg"
+    },
+    {
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "headline": "We Found a Weird Seedance Character Hack",
+      "url": "https://www.youtube.com/watch?v=7AVUM6AR1W8",
+      "published_iso": "2026-09-01T15:00:27-07:00",
+      "excerpt": "Curious Refuge walks through a viral face-grid trick for generating AI video shots featuring real people with consistent likeness in Seedance. It's a concrete technique for holding a character across shots.",
+      "og_image": "https://i.ytimg.com/vi/7AVUM6AR1W8/maxresdefault.jpg"
     }
   ]
 }

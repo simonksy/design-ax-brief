@@ -1,66 +1,79 @@
 {
- "date": "2026-09-12",
- "section": "games",
- "picks": [
-  {
-   "tool": "Games",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "headline": "Blizzard Workers Secure Historic Contract Covering AI Use & Layoff Protections",
-   "source": "80 Level",
-   "url": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/",
-   "published_iso": "2026-09-11T08:08:00Z",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50155/images/6aa3b6f12c991/contain_1200x630.jpg",
-   "excerpt": "Blizzard's 1,900-strong union ratified a contract that puts AI usage under negotiation with developers. It is the first major studio agreement giving creative staff a formal say in how generative tools enter their pipeline.",
-   "rationale": "First ratified AAA contract that makes AI adoption a bargaining item — sets the template every other studio's artists will now point at."
-  },
-  {
-   "tool": "Games",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "headline": "Genshin Impact dev HoYoverse wins $112,000 in court after AI company stole 63 of its characters' voices",
-   "source": "GamesRadar+",
-   "url": "https://www.gamesradar.com/games/open-world/genshin-impact-dev-hoyoverse-wins-usd112-000-in-court-after-ai-company-stole-63-of-its-characters-voices/",
-   "published_iso": "2026-09-11T21:06:50Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Smver5XGGDMmgLbWD4dELd-1920-80.jpg",
-   "excerpt": "A court awarded HoYoverse $112,000 after an AI firm cloned 63 Genshin Impact character voices with 'nearly identical characteristics.' The ruling is an early marker for how game voice IP is protected against synthetic reproduction.",
-   "rationale": "A real damages ruling on cloned character voices gives studios and VO talent the first concrete precedent to cite in contracts."
-  },
-  {
-   "tool": "Games",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "headline": "How ABCD Trains Large Gaussian Splat Scenes With Constant VRAM",
-   "source": "80 Level",
-   "url": "https://80.lv/articles/how-abcd-trains-large-gaussian-splat-scenes-with-constant-vram/",
-   "published_iso": "2026-09-10T20:45:00Z",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50131/images/6aa2f0f149fbf/contain_1200x630.jpg",
-   "excerpt": "Researcher Ka Heng Shiu details Alpha-Composited Block Coordinate Descent, which partitions huge radiance fields while keeping full-scene context during training. It lets artists train city-scale Gaussian splat environments without VRAM blowing up.",
-   "rationale": "The one pick that changes an environment artist's Tuesday — city-scale splat training stops being a VRAM lottery."
-  },
-  {
-   "tool": "Games",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "headline": "Acclaimed Visual Novel Studio Announces AI-Generated Quake Clone",
-   "source": "Kotaku",
-   "url": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010",
-   "published_iso": "2026-09-11T15:30:02Z",
-   "og_image": "https://kotaku.com/app/uploads/2026/09/HRwpwtHa8AEbkT8.jpg",
-   "excerpt": "Mages, the studio behind Steins;Gate, unveiled Juggernaut, a Quake-style shooter it admits was 'developed' almost entirely with AI. The reveal drew a near-unanimous negative reaction from English-speaking fans surprised at how far the generative pipeline went.",
-   "rationale": "A named, respected studio shipping an almost fully AI-built game is the clearest read yet on where the generative pipeline breaks in public."
-  },
-  {
-   "tool": "Games",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "headline": "TikTok Parent Reportedly Building AI Model to Rival Google's Genie for Real-Time Spatial Video",
-   "source": "Road to VR",
-   "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
-   "published_iso": "2026-09-09T10:44:59Z",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg",
-   "excerpt": "Bloomberg reports ByteDance is readying a world model for generating real-time spatial video, positioned against Google's Genie. The company hopes it becomes a 'flywheel' for immersive, generated interactive content.",
-   "rationale": "A second serious world-model player means generated interactive space stops being a Google demo and becomes a platform designers must plan for."
-  }
- ]
+  "date": "2026-09-13",
+  "section": "games",
+  "picks": [
+    {
+      "tool": "Games",
+      "category": "games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "headline": "Official Unity Plugin for Claude Code",
+      "url": "https://unity.com/blog/unity-plugin-for-claude-code",
+      "source": "Unity",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Unity shipped an official Claude Code plugin that installs Unity-authored skills, the Unity CLI and live Editor control via Unity's MCP server in a single command. Agentic coding now has a sanctioned path into the Unity Editor itself.",
+      "rationale": "First-party, install-today path for an agent to drive the Unity Editor — the single most actionable change to a game designer's tooling this week."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "headline": "Roblox Reality brings greater realism to Roblox graphics",
+      "url": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/",
+      "source": "GamesBeat",
+      "published_iso": "2026-09-11T18:27:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/lights.jpg",
+      "excerpt": "At RDC 2026 Roblox exec Anupam Singh demoed Roblox Reality, a video world model that layers photoreal lighting and detail on top of blocky Roblox geometry at runtime. It reframes the art pipeline: creators keep building simple shapes while a generative render pass supplies the finish.",
+      "rationale": "A runtime world model that finishes creator geometry flips where visual quality lives in the art pipeline — the strongest single RDC 2026 announcement for designers (only one RDC item kept)."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "headline": "How EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
+      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity/",
+      "source": "80 Level",
+      "published_iso": "2026-09-11T18:10:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png",
+      "excerpt": "Researchers Anamaria Buliga and Kamil Tebani explain how EchoForge combines spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable Unity environments. A rare look at non-visual input driving level generation.",
+      "rationale": "Sound as a generation input is a genuinely new authoring modality for level design, explained with enough method detail to try."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "headline": "'You Were a Beautiful Studio' — Level-5 Dev Calls AI Backlash a 'Learning Opportunity' as Fans Worry for Professor Layton's Future",
+      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
+      "source": "IGN",
+      "published_iso": "2026-09-12T16:25:11Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/09/12/professor-layton-and-the-new-world-of-steam-1789228310265.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Level-5 has apologised for and explained its generative AI use after fans spotted AI artefacts in footage of Professor Layton and the Curious Village, DecaPolice and other reveals. A studio with a signature hand-drawn look getting caught mid-pipeline shift.",
+      "rationale": "Freshest item in the pool and a concrete cautionary case: a signature art style eroded by AI artefacts that shipped into a reveal."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "headline": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
+      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
+      "source": "Eurogamer",
+      "published_iso": "2026-09-10T14:50:43Z",
+      "og_image": "https://assetsio.gnwcdn.com/old-school-runescape-dancing-on-bridge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Elderwood, a generative-AI-built website its creator called an Old School RuneScape clone, was pulled after Jagex took notice. A live case study in what vibe-coded game production actually produces — and how fast players and IP owners react.",
+      "rationale": "Shows the ceiling of vibe-coded game production and the speed of player plus IP-holder response — a useful boundary marker for teams eyeing the same shortcut."
+    }
+  ],
+  "dedup_notes": [
+    "Dropped Eurogamer Humankind 2 'five chickens' trailer piece — same story as published 2026-09-05 card games-ai-panic-forcing-developers-prove (Kotaku).",
+    "Dropped RPS 'NBA 2K27 gives DLSS 5 a more faithful debut' and Eurogamer 'Experts test DLSS 5 frame-rates' — same DLSS 5 / NBA 2K27 debut and performance-cost event already published 09-05 (GamesRadar+ hands-on), 09-06/09-08 (Wccftech mods, autopilot) and 09-09 (PC Gamer dual-GPU mod).",
+    "Dropped PC Gamer 'EA admits to using AI voices in NHL 27' — same core story as published 09-09 card games-nhl27-ai-commentary-q7d (Game Developer).",
+    "Dropped GamesIndustry.biz Tim Willits interview — same subject and gen-AI-boundaries topic as published 09-07 card games-space-marine-3-no-genai (PC Gamer).",
+    "Roblox RDC 2026 collapsed to one card: dropped GamesBeat 'Playtest Agent', GamesBeat RDC press-briefing rundown and TechCrunch 'build games with AI / play outside Roblox' as the same event from a single source hub plus a different-outlet retelling.",
+    "Final 5 = 5 distinct outlets (Unity, GamesBeat, 80 Level, IGN, Eurogamer), no repeated URL, none matching sections.games today or the 09-05 through 09-09 days."
+  ]
 }
