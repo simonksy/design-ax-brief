@@ -1,77 +1,125 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "science",
+  "count": 5,
   "picks": [
     {
+      "headline": "AI trained to 'think' like human pathologists may be better at spotting cancer",
+      "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer",
+      "source": "Live Science",
+      "published_iso": "2026-09-12T12:00:00Z",
+      "og_image": null,
+      "excerpt": "Pathology-o3 was trained on pathologists' actual search behavior — how they pan and zoom across a slide — rather than on pre-cropped regions. It flagged 100% of cancer-positive slides in testing, with a deliberately tolerated 15.5% false-positive rate.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Release of open AI model trained on 17 years of lunar data maps ice, craters and volcanoes",
-      "url": "https://phys.org/news/2026-09-ai-years-lunar-ice-craters.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/release-of-open-ai-mod.jpg",
-      "excerpt": "NASA and IBM released an open-source lunar foundation model trained on nearly two decades of Lunar Reconnaissance Orbiter data. It lets researchers identify ice deposits, impact craters and volcanic features with only minimal labeled training data.",
-      "rationale": "An openly downloadable NASA/IBM foundation model that any lab can fine-tune on a handful of labels — the most immediately usable release in the pool."
+      "rationale": "Freshest pick and the most method-shifting: training on human search behavior instead of curated crops, with a hard sensitivity/false-positive tradeoff stated up front."
     },
     {
+      "headline": "Specificity-driven protein binder design with Odin-Multi",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.08.749745v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "og_image": null,
+      "excerpt": "A Technical University of Denmark team optimizes one binder sequence against many target complexes at once, applying attractive objectives to on-targets and repulsive ones to off-targets. The premise: a useful binder is defined as much by what it does not bind.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "headline": "An AI tool aims to catch harder-to-detect heart attacks in EKGs",
-      "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
-      "source": "STAT News",
-      "published_iso": "2026-09-11T08:30:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_910347045-645x645.jpeg",
-      "excerpt": "The FDA granted a rare de novo clearance to Powerful Medical's 'Queen of Hearts' algorithm, which reads electrocardiograms to flag and triage heart attacks that standard criteria miss. It is one of the first AI tools authorized for occlusion-type infarcts invisible to conventional EKG rules.",
-      "rationale": "A rare de novo FDA clearance moves AI diagnosis past the pilot stage into authorized clinical use for a failure mode standard EKG rules cannot see."
+      "rationale": "Primary-source protein design work that reframes the objective — negative design against off-targets — a concrete recipe other binder-design pipelines can copy."
     },
     {
+      "headline": "AI Behavior Impacted by Internal Confidence Levels",
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/ai-behavior-impacted-by-internal-confidence-levels",
+      "source": "Psychology Today",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII",
+      "excerpt": "Google DeepMind researchers report in Nature Machine Intelligence that LLMs use internal confidence signals to decide when to abstain from answering — a form of metacognitive control paralleling humans and animals. It reframes hallucination as a calibration problem, not just a knowledge gap.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "New AI model for DNA learns from evolution to unlock secrets of the human genome",
-      "url": "https://phys.org/news/2026-09-ai-dna-evolution-secrets-human.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/human-genome.jpg",
-      "excerpt": "UC Berkeley's GPN-Star, a genomic language model trained on evolutionary signal, outperforms larger rivals at pinpointing the genetic variants behind inherited traits and disease. It does so while requiring far less compute to train than competing genomic foundation models.",
-      "rationale": "Evolutionary signal beats sheer scale here — a smaller, cheaper genomic model outperforming larger rivals changes what an academic lab can afford to train."
+      "rationale": "Cognition slot with immediate practical bite: if abstention rides on internal confidence, hallucination becomes a calibration target rather than a knowledge hole."
     },
     {
+      "headline": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
+      "url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
+      "source": "Universe Today",
+      "published_iso": "2026-09-10T14:42:29Z",
+      "og_image": null,
+      "excerpt": "A JWST non-detection of exomoons sets a useful upper limit, and the authors argue machine-learning analysis of repeated observations is the path to pulling real exomoon signals out of instrumental noise. It is a template for how ML changes null results into constraints.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "AI extracts interpretable constitutive laws directly from solid-mechanics data",
-      "url": "https://phys.org/news/2026-09-ai-constitutive-laws-solid-mechanics.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-discovers-interpret.jpg",
-      "excerpt": "A graph-based framework from the Eastern Institute of Technology reads raw material-test data and writes out explicit, physically interpretable equations for how alloy steels, lithium metal and filled rubbers deform. It beat mainstream empirical models on predictive accuracy without becoming a black box.",
-      "rationale": "It returns readable equations rather than a black box, so engineers can drop the output straight into existing simulation stacks and still audit it."
+      "rationale": "Astronomy slot, and the rare story about a null result becoming a measurement — ML as the instrument that turns 'we saw nothing' into a bound."
     },
     {
+      "headline": "Researchers eye AI revolution in natural disaster forecasts",
+      "url": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg",
+      "excerpt": "Swiss researchers are pairing roughly 100 petabytes of NASA Earth-observation and climate data with supercomputing to train AI models that cut forecast turnaround to minutes. The goal is spotting precursors of floods and glacier collapses that physics-based models miss.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Lancaster University Leads Project on Quantum Neural Computing",
-      "url": "https://thequantuminsider.com/2026/09/08/lancaster-university-european-quantum-ai-research-project/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-08_16-22.png",
-      "excerpt": "Lancaster University is leading IgnisQNC, a EUR 1.88M three-year European project fusing quantum computing with explainable AI. The goal is to turn quantum uncertainty into a computational resource for trustworthy machine learning rather than a source of noise.",
-      "rationale": "Treating quantum noise as a resource for explainable AI is an inversion of the usual framing, and the only quantum item in a pool otherwise dominated by bio and materials."
+      "rationale": "Earth-science slot with hard numbers — 100 PB of NASA data, forecast turnaround down to minutes — and a stated aim of catching precursors physics models miss."
     }
   ],
   "dedup_notes": {
-    "history_days_checked": ["2026-09-09", "2026-09-08", "2026-09-07", "2026-09-06", "2026-09-05", "2026-09-04"],
+    "checked_against": "news_data.json.sections.science (today 2026-09-12 + days 2026-09-05 … 2026-09-09)",
     "dropped": [
       {
-        "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-        "reason": "Same event as already-published card science-navier-stokes-agents-q7f (Quanta Magazine, 2026-09-09): OpenAI's ~10,000-agent Navier-Stokes result and the credit dispute. Different outlet, same story."
+        "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+        "reason": "Same story as the already-published Quanta piece on the OpenAI Navier–Stokes / AI-proof claim (science-navier-stokes-agents-q7f, 2026-09-09); also overlaps science-icm-math (2026-09-06). Quanta is the stronger, earlier coverage — earliest-wins."
+      },
+      {
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "reason": "Same release as the already-published Scientific American AlphaGenome Atlas card (science-alphagenome-atlas-b3d, 2026-09-09) — different outlet, identical event."
+      },
+      {
+        "url": "https://medicalxpress.com/news/2026-09-ai-imaging-tool-breast-cancer.html",
+        "reason": "Heavy topic collision with the published Medical Xpress mammography-AI review (science-mammogram-ai-review, 2026-09-05): AI mammogram reading + individual risk-based screening. Deprioritized rather than risk a visible repeat."
+      },
+      {
+        "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+        "reason": "Within-pool duplicate topic (pathology foundation models) against the stronger, far fresher Live Science Pathology-o3 pick; also the oldest item in the pool (2026-08-31)."
+      },
+      {
+        "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
+        "reason": "Satellite Earth-observation + AI overlaps the published Space.com OECD Earth-observation card (science-earth-observation-oecd-x2m, 2026-09-09) and the Phys.org disaster-forecast pick; also would have made Universe Today a 2-card outlet."
+      },
+      {
+        "url": "https://physicsworld.com/a/how-far-ahead-can-we-predict-the-weather/",
+        "reason": "Same weather-predictability-under-AI-models theme as the Phys.org disaster-forecast pick and the published AIFS D-Day forecast card (2026-09-08); kept the single strongest weather item."
+      },
+      {
+        "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
+        "reason": "Third weather/climate-planning item; category cap (max 1–2 per domain) — surviving weather slot went to the Phys.org piece."
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
+        "reason": "Fresh and clean, but the cognition/clinical slot went to the DeepMind metacognition study; held as the first backfill candidate."
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
+        "reason": "Second personality/cognition item; category spread cap. Held as backfill."
       }
+    ]
+  },
+  "diversity_check": {
+    "outlets": [
+      "Live Science",
+      "bioRxiv",
+      "Psychology Today",
+      "Universe Today",
+      "Phys.org"
     ],
-    "backfill": "Pool exhausted after the drop — all 5 remaining candidates were unique and were selected. No padding.",
-    "diversity_guard": "Could not be fully satisfied: the filtered pool held only 6 items and 3 of the 5 survivors are Phys.org. ≥3 distinct outlets met (Phys.org, STAT News, The Quantum Insider); no under-represented-outlet candidate existed to swap in without dropping below 5."
+    "max_per_outlet": 1,
+    "domains": [
+      "medical imaging / pathology",
+      "protein design / bio",
+      "cognition / model metacognition",
+      "astronomy",
+      "earth science / climate"
+    ]
   }
 }

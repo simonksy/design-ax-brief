@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-13",
+  "section": "music",
+  "now_iso": "2026-09-12T22:05:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "category": "music",
+      "title": "Tone3000 has launched a free open-source plugin that puts hundreds of thousands of NAM A2 device captures at your fingertips",
+      "url": "https://www.musicradar.com/guitars/tone3000-has-launched-a-free-open-source-plugin-that-puts-hundreds-of-thousands-of-nam-a2-device-captures-at-your-fingertips",
+      "source": "MusicRadar",
+      "published_iso": "2026-09-03T00:00:00Z",
+      "excerpt": "Tone3000 released a free, open-source plugin (standalone + VST3/AU) that opens up hundreds of thousands of community-made Neural Amp Modeler A2 captures, with a Chains feature for stacking amp, cab and IR captures. Neural amp modelling moves from niche DIY tooling to a free, library-scale tone workflow.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a5suE56p3ZXSibAuSiJi24.jpg",
+      "why": "뉴럴 앰프 모델링이 무료·오픈소스로 풀리면서 톤 디자인의 기본기가 바뀌는 사례. 커뮤니티가 학습시킨 캡처 수십만 개를 DAW 안에서 바로 쓰는 워크플로 전환이 명확하다."
+    },
+    {
+      "category": "music",
+      "title": "Denon's Prime 4 G2 is a uniquely expressive DJ setup that borrows a few tricks from Akai's MPC range",
+      "url": "https://www.musicradar.com/music-tech/dj-gear/denons-prime-4-g2-is-a-uniquely-expressive-dj-setup-that-borrows-a-few-tricks-from-akais-mpc-range",
+      "source": "MusicRadar",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Denon's new all-in-one standalone system pairs velocity-sensitive MPCe pads with an eight-core processor that renders and manipulates track stems on the hardware itself, no laptop required. On-device stem separation turns AI unmixing into a live-performance primitive rather than a prep-time step.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WZ7r2kCaxA94oRpb9ArBNm.jpg",
+      "why": "AI 스템 분리가 랩톱을 떠나 스탠드얼론 하드웨어 안으로 들어간 순간 — DJ의 실연 설계 자체가 달라진다. 도구 릴리스이면서 크래프트 전환 훅이 있다."
+    },
+    {
+      "category": "music",
+      "title": "Positive Grid announce the Spark Pedal",
+      "url": "https://www.soundonsound.com/news/positive-grid-announce-spark-pedal",
+      "source": "Sound On Sound",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "Positive Grid squeezed its Spark amp platform into a stompbox with 33 amp models, 43 effects and access to 100,000+ community tones, backed by a companion app with Text to Tone — describe a phrase, song, artist or feeling and get matching tone suggestions — plus real-time Auto Chords. Prompt-driven tone design arrives as a pedal, not a plugin.",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/p/positive_grid_spark_pedal-DoSqQEC6WDbBVf5wAfj4ZEgEUPFfexYI.jpg",
+      "why": "'텍스트로 톤을 설명하면 만들어준다'는 프롬프트 UX가 기타 페달 하드웨어로 내려온 사례. 음악 장비에서 AI 인터페이스가 어떻게 물리화되는지 보여준다."
+    },
+    {
+      "category": "music",
+      "title": "Nopia Semi-Modular Harmony Generator Synthesizer Sneak Preview",
+      "url": "https://www.synthtopia.com/content/2026/09/11/nopia-semi-modular-harmony-generator-synthesizer-sneak-preview/",
+      "source": "Synthtopia",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "excerpt": "Developer Martin Grieco previewed Nopia, a harmony-generator instrument whose single-octave keyboard maps each key to a whole chord rather than a note, with hybrid sample/virtual-analog Keys, Bass, Arp and Pad engines feeding a master FX chain and looper. Pre-orders open via Kickstarter on 15 September from $650.",
+      "og_image": null,
+      "why": "코드·화성 보조를 알고리즘이 아니라 '건반 레이아웃 재설계'로 푸는 접근 — 음악 이론 지식의 진입장벽을 인터페이스 디자인으로 낮춘다. 하모니 어시스턴트 계열의 대안적 해법."
+    },
+    {
+      "category": "music",
+      "title": "Eminently controllable, accessible by design, Sting is now a plug-in",
+      "url": "https://cdm.link/sting-the-plugin/",
+      "source": "CDM Create Digital Music",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Sting, the algorithmic/improvisational melody and pattern generator, has left Max for Live to become a cross-platform VST3/AU/CLAP plugin with hands-on Launchpad control. It is also built accessible-by-design, with screen-reader support via VoiceOver, NVDA and OSARA.",
+      "og_image": null,
+      "why": "생성형 시퀀서를 '접근성 우선'으로 설계한 드문 사례 — 알고리즘 작곡 도구의 UI를 시각장애 사용자까지 포함해 다시 짠다. 생성 도구 디자인 윤리와 크래프트가 동시에 걸린다."
+    },
+    {
+      "category": "music",
+      "title": "Suno Steals Artist Identities, Jason Isbell Wants to Stop It",
+      "url": "https://www.hypebot.com/suno-steals-artist-identities-jason-isbell-wants-to-stop-it/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Jason Isbell is fronting a class action against Suno that sidesteps copyright and instead targets identity: the complaint alleges Suno captures and stores artists' 'voiceprints' without consent so users can generate tracks mimicking a specific singer's timbre and phrasing. It reframes AI music harm as a voice-likeness problem.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/09/photo-1548630435-998a2cbbff67-3.jpeg",
+      "why": "음성 클로닝·보이스프린트 동의 문제는 보컬 작업자에게 바로 적용되는 실무 쟁점. 저작권이 아니라 '목소리 정체성'을 축으로 삼은 새 프레임이라 기존 수노 기사군과 겹치지 않는다."
+    },
+    {
+      "category": "music",
+      "title": "Universal Audio's Topline Vocal Tune is now available for Apollo and UAD hardware",
+      "url": "https://www.musicradar.com/music-tech/universal-audios-topline-vocal-tune-is-now-available-for-apollo-and-uad-hardware",
+      "source": "MusicRadar",
+      "published_iso": "2026-09-08T00:00:00Z",
+      "excerpt": "Universal Audio brought Topline Vocal Tune to Apollo and UAD-2 DSP, giving ultra-low-latency pitch correction for tracking — from transparent fixes to hard-tuned pop and hip-hop effects — with automatic key and scale detection for the session. Tuning moves from post-production repair to a live monitoring decision.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rcfXi5DWNGFRjvGDKqBree.jpg",
+      "why": "보컬 튜닝을 녹음 중 실시간으로 처리하며 키·스케일을 자동 판별 — 어시스티브 오디오가 트래킹 단계 의사결정을 바꾼다. 다만 AI 훅은 상대적으로 약해 후순위 후보."
+    }
+  ],
+  "dedup": {
+    "dropped": 1,
+    "kept": 7,
+    "against_days": 5
+  }
+}

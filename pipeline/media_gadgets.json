@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-iphone18-pro-h3q",
+      "id": "gadgets-snapdragon-npu-k4p",
       "type": "image",
-      "src": "pipeline/media/gadgets-iphone18-pro-h3q.jpg"
+      "src": "pipeline/media/gadgets-snapdragon-npu-k4p.jpg"
     },
     {
-      "id": "gadgets-live-rewind-w8m",
-      "type": "image",
-      "src": "pipeline/media/gadgets-live-rewind-w8m.jpg"
-    },
-    {
-      "id": "gadgets-project-phoenix-r5t",
+      "id": "gadgets-quest-virtual-display-r7m",
       "type": "video",
-      "src": "pipeline/media/gadgets-project-phoenix-r5t.mp4",
-      "poster": "pipeline/media/gadgets-project-phoenix-r5t.jpg"
+      "src": "pipeline/media/gadgets-quest-virtual-display-r7m.mp4",
+      "poster": "pipeline/media/gadgets-quest-virtual-display-r7m.jpg"
     },
     {
-      "id": "gadgets-gemini-windows-v2j",
+      "id": "gadgets-honor-robot-phone-v2q",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-windows-v2j.jpg"
+      "src": "pipeline/media/gadgets-honor-robot-phone-v2q.jpg"
     },
     {
-      "id": "gadgets-atlas-neural-c9x",
+      "id": "gadgets-fcc-robomower-exemption-t9x",
       "type": "image",
-      "src": "pipeline/media/gadgets-atlas-neural-c9x.jpg"
+      "src": "pipeline/media/gadgets-fcc-robomower-exemption-t9x.jpg"
+    },
+    {
+      "id": "gadgets-siri-ai-launch-h6z",
+      "type": "image",
+      "src": "pipeline/media/gadgets-siri-ai-launch-h6z.jpg"
     }
   ]
 }

@@ -1,148 +1,202 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "section": "gadgets",
-  "now_iso": "2026-09-11T22:02:15Z",
+  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "source": "Engadget",
+      "source": "Android Authority",
       "category": "gadgets",
-      "headline": "Ugreen's new smart home ecosystem is built around local AI hubs",
-      "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
-      "published_iso": "2026-09-03T18:00:00-04:00",
-      "excerpt": "Ugreen unveiled a lineup of local-AI smart home hubs that process data on-device instead of in the cloud, spanning $1,799 to $20,000 models plus cameras, a voice assistant called Uliya and an e-ink frame.",
-      "og_image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/intro-1788468967.jpg"
+      "headline": "Qualcomm's next Snapdragon flagship chip wants your AI agents to stay on-device",
+      "url": "https://www.androidauthority.com/snapdragon-qualcomm-snapdragon-8-elite-gen-6-npu-3709726/",
+      "published_iso": "2026-09-10T13:00:51+00:00",
+      "excerpt": "Qualcomm detailed the NPU in the upcoming Snapdragon 8 Elite Gen 6, pitching a big jump in on-device model capacity. Qualcomm says the chip will run bigger models with ease so agents can work locally instead of round-tripping to the cloud.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Snapdragon-8-Gen-5-official-image.jpg"
     },
     {
-      "source": "Engadget",
+      "source": "Android Authority",
       "category": "gadgets",
-      "headline": "Anker Eufy at IFA 2026: New security cameras, plus a robot vacuum and a robot lawnmower",
-      "url": "https://www.engadget.com/2249106/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower/",
-      "published_iso": "2026-09-03T07:30:00+00:00",
-      "excerpt": "Anker's Eufy brand used IFA 2026 to push AI-driven home security, adding new cameras alongside a robot vacuum and a robotic lawnmower. Security was the focus of the lineup this year.",
-      "og_image": "https://www.engadget.com/img/gallery/anker-eufy-at-ifa-2026-new-security-cameras-plus-a-robot-vacuum-and-a-robot-lawnmower/l-intro-1788299392.jpg"
-    },
-    {
-      "source": "TechRadar",
-      "category": "gadgets",
-      "headline": "Atlas promises 'a new generation of brain wearable' with its first neural tracker",
-      "url": "https://www.techradar.com/health-fitness/the-atlas-1-0-pioneer-edition-is-a-usd499-brain-scanner-that-sits-behind-your-ear-to-measure-your-stress-attention-span-and-energy-and-the-first-batch-has-just-sold-out",
-      "published_iso": "2026-09-08T15:45:27Z",
-      "excerpt": "The $499 Atlas 1.0 Pioneer Edition is a behind-the-ear neural tracker that reads brain signals to score stress, attention and energy. The first pre-order batch sold out immediately.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/VF5DS8TSgmH7WFMDMAVtzn-1600-80.jpg"
-    },
-    {
-      "source": "TechRadar",
-      "category": "gadgets",
-      "headline": "Does Apple's Live Rewind really turn the Apple Watch into a 'mass surveillance device'?",
-      "url": "https://www.techradar.com/health-fitness/smartwatches/is-apples-live-rewind-a-privacy-nightmare-heres-how-the-apple-watch-feature-really-works-and-whether-it-violates-your-privacy",
-      "published_iso": "2026-09-11T16:25:26Z",
-      "excerpt": "Apple's new Live Rewind feature has the Apple Watch continuously buffering sensor data on-device, and TechRadar breaks down how the privacy tech behind it actually works.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pQgtyLWmytpSru3K9u6wu4-1472-80.jpg"
-    },
-    {
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "headline": "Anker just launched a ton of new products at IFA 2026 — including an AI-powered home hub",
-      "url": "https://www.tomsguide.com/home/anker-just-launched-a-ton-of-new-products-at-ifa-2026-including-an-ai-powered-home-hub",
-      "published_iso": "2026-09-03T02:30:00Z",
-      "excerpt": "Anker unified its sub-brands and announced 22 new products at IFA 2026, headlined by its own AI home hub that coordinates the company's smart-home hardware.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6MxBGKhBJQL6FvKrVdBiiT-1920-80.jpg"
-    },
-    {
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "headline": "iRobot Roomba Duo is the Transformers of robot vacuums — and we just saw it live",
-      "url": "https://www.tomsguide.com/home/irobot-roomba-duo-is-like-the-transformers-of-robot-vacuums-mechanical-arm-releases-companion-robot-for-tight-spaces",
-      "published_iso": "2026-09-04T15:50:48Z",
-      "excerpt": "iRobot's Roomba Duo prototype pairs a heavy wet-dry floor washer with a mechanical arm that lowers a smaller companion robot into tight spaces — a rethink of robovac form factor rather than spec wars.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/S6frw2h2Xh4egT2eQpmLUB-2560-80.jpg"
-    },
-    {
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "headline": "Best of IFA 2026: We found the 26 top new gadgets",
-      "url": "https://www.tomsguide.com/tech-events/best-of-ifa-2026-we-found-the-26-top-new-gadgets",
-      "published_iso": "2026-09-04T16:37:35Z",
-      "excerpt": "Tom's Guide rounds up the 26 standout devices of IFA 2026, including the Acer DualPlay Mini and Nvidia RTX Spark-class AI hardware aimed at local AI workloads.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WaMUQp4DxJLGkEywsbLwx-2560-80.jpg"
-    },
-    {
-      "source": "MacRumors",
-      "category": "gadgets",
-      "headline": "iPhone 18 Pro Launching on September 18 With These 10 New Features",
-      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-pro-max-10-new-features/",
-      "published_iso": "2026-09-10T07:05:00+00:00",
-      "excerpt": "Apple's iPhone 18 Pro pairs the 2nm A20 Pro and its 32-core Neural Engine with a variable-aperture 48MP camera, shipping with iOS 27 and the rebuilt Siri AI. Pre-orders open September 12.",
-      "og_image": "https://images.macrumors.com/t/-6YdmZRLFp5l8jHXLvqoeOf8HcM=/1600x/article-new/2026/09/iPhone-18-Pro-Burgundy-Feature.jpeg"
-    },
-    {
-      "source": "MacRumors",
-      "category": "gadgets",
-      "headline": "Everything Apple Announced at the September 2026 Event",
-      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
-      "published_iso": "2026-09-10T01:25:20+00:00",
-      "excerpt": "Apple's 'Surprise and Shine' event introduced the iPhone 18 Pro and Pro Max, the foldable iPhone Duo, new Apple Watch models and AirPods 5, with Siri AI threaded through the lineup.",
-      "og_image": "https://images.macrumors.com/t/yZA7aFJWs0V0WNgc_qgdA1xo53k=/2500x/article-new/2026/09/Everything-Announced-at-Surprise-and-Shine-Thumb.jpg"
+      "headline": "The new W4 Plus is Timekettle's most capable AI interpreter earbuds yet",
+      "url": "https://www.androidauthority.com/timekettle-w4-plus-3706119/",
+      "published_iso": "2026-09-05T14:21:33+00:00",
+      "excerpt": "Timekettle launched the W4 Plus at IFA 2026 with conversation memory that holds context across multi-turn talks, live summaries and 52 languages. Base model is $299 with an optional subscription, or $379 subscription-free.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Timekettle-W4-plus-featured.jpg"
     },
     {
       "source": "Digital Trends",
       "category": "gadgets",
-      "headline": "SwitchBot's AI MindClip is ready to ship, and early buyers can grab it for just $100",
-      "url": "https://www.digitaltrends.com/wearables/switchbots-ai-mindclip-is-ready-to-ship-and-early-buyers-can-grab-it-for-just-100/",
-      "published_iso": "2026-09-04T03:41:34-07:00",
-      "excerpt": "SwitchBot launched the AI MindClip, a clip-on wearable that transcribes conversations, identifies speakers and turns notes into tasks automatically — a $100 entry point for always-on AI capture.",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/SwitchBot-AI-MindClip-featured.jpg?resize=1200%2C630"
+      "headline": "The HONOR Robot Phone feels like the first phone I'd actually buy for its weirdest feature",
+      "url": "https://www.digitaltrends.com/phones/honor-robot-phone-hands-on/",
+      "published_iso": "2026-09-12T19:54:48+00:00",
+      "excerpt": "Hands-on with HONOR's Robot Phone, whose motorized gimbal camera module turns the handset into a semi-autonomous camera operator. The oddest part of the design turns out to be the most convincing reason to buy it.",
+      "og_image": null
     },
     {
       "source": "Digital Trends",
       "category": "gadgets",
-      "headline": "The best tech of IFA 2026: A repairable laptop, liquid-cooled power bank, AI toothbrush, and more",
-      "url": "https://www.digitaltrends.com/computing/the-best-tech-of-ifa-2026-a-repairable-laptop-liquid-cooled-power-bank-ai-toothbrush-and-more/",
-      "published_iso": "2026-09-06T23:59:34-07:00",
-      "excerpt": "Digital Trends' IFA 2026 highlights show AI seeping into unglamorous hardware — a repairable laptop, tiny ANC earbuds, giant projectors and even an AI toothbrush.",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/DT-Best-Of-IFA-2026-Feature-Image.jpg?resize=1200%2C630"
+      "headline": "Samsung's next AI glasses could finally put a screen in front of your eyes",
+      "url": "https://www.digitaltrends.com/wearables/samsungs-next-ai-glasses-could-finally-put-a-screen-in-front-of-your-eyes/",
+      "published_iso": "2026-09-11T04:50:09+00:00",
+      "excerpt": "New supply-chain details point to Samsung's second-generation smart glasses adding a color display, moving the line from audio-plus-camera AI assistance toward a head-up visual interface.",
+      "og_image": null
     },
     {
-      "source": "UploadVR",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "headline": "First Clear Visuals Of Meta's Project Phoenix Headset Found In Quest Firmware",
-      "url": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
-      "published_iso": "2026-09-10T00:00:00Z",
-      "excerpt": "Quest firmware has surfaced the first clear images of Meta's Project Phoenix: a slim headset with glasses-style nose pads tethered to a compute puck, ahead of Connect 2026.",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/09/Meta-Phoenix-headset-clear-visuals-featured.png"
+      "headline": "Apple Intelligence is getting usage limits, and here's what it means for you",
+      "url": "https://www.digitaltrends.com/phones/apple-intelligence-is-getting-usage-limits-and-heres-what-it-means-for-you/",
+      "published_iso": "2026-09-10T08:45:01+00:00",
+      "excerpt": "Apple is introducing usage caps on Apple Intelligence features as the new Siri AI rolls out, changing how much on-device and Private Cloud Compute work a user gets. The piece breaks down which features are metered and why.",
+      "og_image": null
+    },
+    {
+      "source": "Engadget",
+      "category": "gadgets",
+      "headline": "DJI launches new robot vacuums with an eye toward data privacy",
+      "url": "https://www.engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy/",
+      "published_iso": "2026-09-03T12:00:00+00:00",
+      "excerpt": "DJI's ROMO 2 line adds LiDAR-enabled mopping arms and millimeter-level floor-obstacle perception, plus local data handling after the first generation's hacking embarrassment. Suction adapts to what the robot sees on the floor.",
+      "og_image": "https://www.engadget.com/img/gallery/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy/l-intro-1788387767.jpg"
+    },
+    {
+      "source": "Engadget",
+      "category": "gadgets",
+      "headline": "LG denies accusations of smart TVs continuously recording its users",
+      "url": "https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/",
+      "published_iso": "2026-09-12T18:17:55+00:00",
+      "excerpt": "LG pushed back on claims that its AI-equipped smart TVs listen continuously, calling user privacy a fundamental principle of its products. The dispute lands as TV makers add always-available voice assistants.",
+      "og_image": "https://www.engadget.com/img/gallery/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/l-intro-1789236532.jpg"
+    },
+    {
+      "source": "TechRadar",
+      "category": "gadgets",
+      "headline": "Dyson's new Nurovi robot vacuum has a UV light to show up invisible spills",
+      "url": "https://www.techradar.com/home/robot-vacuums/itll-light-up-your-home-like-a-bowling-alley-dysons-new-nurovi-robot-vacuum-has-a-uv-light-to-show-up-invisible-spills-and-im-not-sure-im-ready-to-see-whats-on-my-floors",
+      "published_iso": "2026-09-04T08:42:01Z",
+      "excerpt": "TechRadar saw Dyson's Nurovi robot vacuum in action and got the insider story from a Dyson designer. A UV light reveals invisible spills so the robot's vision system can target what a camera alone would miss.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iBTTbbtYWzrDemQBZx4DuM-2560-80.jpg"
+    },
+    {
+      "source": "TechRadar",
+      "category": "gadgets",
+      "headline": "The Roomba Duo is iRobot's attempt at rejecting the spec wars and trying something new",
+      "url": "https://www.techradar.com/home/robot-vacuums/the-roomba-duo-is-a-floor-cleaning-behemoth-that-can-pull-a-tiny-robovac-from-its-hat-and-its-irobots-attempt-at-rejecting-the-spec-wars-and-trying-something-different-something-new",
+      "published_iso": "2026-09-10T08:12:36Z",
+      "excerpt": "iRobot's Roomba Duo carries a smaller companion robot it lowers with a mechanical arm to reach tight spaces, a form-factor bet instead of a suction-number bet. TechRadar frames it as iRobot rejecting the spec wars.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/VuzQbrQiKqggyvpkNUczSE-2560-80.jpg"
+    },
+    {
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
+      "url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
+      "published_iso": "2026-09-11T18:10:54+00:00",
+      "excerpt": "The FCC granted its first exemption under the new robotics restrictions, clearing Swedish robot mower maker Husqvarna to sell new products in the US. It sets the first precedent for how autonomous home robots get to market.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Husqvarna-mower-1200x675.jpg"
+    },
+    {
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "headline": "Google May Finally Release Laptops You Can't Just Ignore",
+      "url": "https://gizmodo.com/google-may-finally-release-laptops-you-cant-just-ignore-2000810692",
+      "published_iso": "2026-09-11T18:00:08+00:00",
+      "excerpt": "Leaks point to 'Googlebook' premium laptops built around Gemini, with features like Google facial authentication. Googlebooks are designed as higher-end machines whose special features are all about Gemini.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/05/Googlebook-Zoom-on-Keyboard-1-1200x675.jpg"
+    },
+    {
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "headline": "Gizmodo's Best of IFA 2026 Awards: See the Winners",
+      "url": "https://gizmodo.com/gizmodos-best-of-ifa-2026-awards-see-the-winners-2000800027",
+      "published_iso": "2026-09-05T21:45:09+00:00",
+      "excerpt": "Gizmodo's awards for the tech that most impressed at IFA 2026 in Berlin, heavy on AI-equipped home robots and wearables. A cross-category read on which AI devices were actually convincing on the show floor.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Gizmodo-IFA-2026-Best-of-Option-1-1200x675.jpg"
+    },
+    {
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "Dex Language-Discovery Camera review: The rare AI gadget that keeps up with my non-stop 5-year-old",
+      "url": "https://www.tomsguide.com/ai/dex-language-discovery-camera-review-the-rare-ai-gadget-that-keeps-up-with-my-non-stop-5-year-old",
+      "published_iso": "2026-09-12T09:15:00Z",
+      "excerpt": "A full review of Dex, a kid-facing AI camera that names objects aloud as children point it at the world. The reviewer says it pairs real-world curiosity with spoken vocabulary in a way that actually works.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BsnRop6hSrLbQKt68oMuYX-1672-80.png"
+    },
+    {
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "I've played for 100 hours on a VR headset lighter than my iPhone - Pimax Dream Air review",
+      "url": "https://www.tomsguide.com/computing/virtual-reality/pimax-dream-air-review",
+      "published_iso": "2026-09-12T07:30:00Z",
+      "excerpt": "The $1,999 Pimax Dream Air is an extremely light PC VR headset with an 8K display and wide field of view. The reviewer calls it an expensive breakthrough in comfort for long sessions.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/MtjjY5wJFEkLpnbFK4iYGM-2560-80.jpg"
+    },
+    {
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "headline": "The 5 coolest pieces of wearable tech I demoed at IFA 2026 in Berlin",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/the-5-coolest-pieces-of-wearable-tech-i-demoed-at-ifa-2026-in-berlin",
+      "published_iso": "2026-09-09T09:30:00Z",
+      "excerpt": "Hands-on notes on five AI wearables from IFA 2026, from smarter smart rings to AI pendants pitched as a 'second memory'. Includes the Odyss N1 food-logging pendant and the camera-equipped iKairos.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kmdbCu6najejUjwohqY9zh-2560-80.jpg"
     },
     {
       "source": "9to5Mac",
       "category": "gadgets",
       "headline": "Apple confirms Siri AI launches in English this month, will add five languages in October",
       "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
-      "published_iso": "2026-09-09T13:33:00-07:00",
-      "excerpt": "Apple says the rebuilt Siri AI ships in English with iOS 27 on September 14, with French, Japanese, Korean, Portuguese and Spanish following in October.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600"
+      "published_iso": "2026-09-09T20:33:42+00:00",
+      "excerpt": "Apple confirmed the rollout timeline for the rebuilt Siri AI, launching in English alongside iOS 27 before expanding to five more languages in October. It will not ship in China or the EU at launch.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?resize=1200,628"
     },
     {
-      "source": "9to5Google",
+      "source": "MacRumors",
       "category": "gadgets",
-      "headline": "Google brings Gemini for desktop app to Windows",
-      "url": "https://9to5google.com/2026/09/10/gemini-windows-app/",
-      "published_iso": "2026-09-10T16:33:42+00:00",
-      "excerpt": "After April's macOS debut, Google's native Gemini desktop app comes to Windows with an Alt + Space shortcut, putting the assistant a keystroke away on PCs.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-desktop-app-Windows.jpg?quality=82&strip=all&resize=1200,628"
+      "headline": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
+      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
+      "published_iso": "2026-09-09T21:23:25+00:00",
+      "excerpt": "Apple announced Audio Intelligence, a set of Apple Intelligence features for Apple Watch Series 12 and Ultra 4 that use the built-in microphone to catch missed moments in conversation and flag important sounds.",
+      "og_image": "https://images.macrumors.com/t/LwiGKIXzIwHRdHfxlK4qR1gMwVQ=/1600x/article-new/2026/09/apple-watch-series-12.jpg"
+    },
+    {
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "headline": "At IFA 2026, computing chased the high and low ends - AI and budget machines left little for the rest of us",
+      "url": "https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us",
+      "published_iso": "2026-09-11T12:44:08Z",
+      "excerpt": "A read on the IFA 2026 laptop floor: vendors split between chasing Apple's MacBook Neo at the top and cheap AI-branded machines at the bottom. The middle of the AI PC market barely got new hardware.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Xb6MzqMTgfz7fJ8QaCzSeW-1920-80.jpg"
+    },
+    {
+      "source": "UploadVR",
+      "category": "gadgets",
+      "headline": "Quest's Meta Virtual Display Got A New Name, Input Forwarding & Mac Parity",
+      "url": "https://www.uploadvr.com/quests-meta-virtual-display-got-a-new-name-input-forwarding-mac-parity/",
+      "published_iso": "2026-09-08T14:50:34.000Z",
+      "excerpt": "Meta's Quest virtual monitor feature was renamed and gained input forwarding, with the Mac version now matching Windows functionality. It makes a headset a more usable second display for desk work.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Screenshot-2026-09-07-at-6.26.31---PM.png"
+    },
+    {
+      "source": "Road to VR",
+      "category": "gadgets",
+      "headline": "TikTok Parent Reportedly Building AI Model to Rival Google's Genie for Real-Time Spatial Video",
+      "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
+      "published_iso": "2026-09-09T10:44:59+00:00",
+      "excerpt": "ByteDance is reportedly readying an AI model dedicated to generating real-time spatial video, a direct answer to Google Genie. The company hopes it becomes a flywheel across its video and XR products.",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg"
     },
     {
       "source": "Notebookcheck",
       "category": "gadgets",
-      "headline": "Aoostar teases powerful AMD-powered mini PC with up to 192GB of RAM",
-      "url": "https://www.notebookcheck.net/Aoostar-teases-powerful-AMD-powered-mini-PC-with-up-to-192GB-of-RAM.1396853.0.html",
-      "published_iso": "2026-09-11T18:03:00+02:00",
-      "excerpt": "Aoostar's Nex495S packs AMD's top Ryzen AI Max+ Pro 495 APU with up to 192GB of RAM, as much as 160GB of which can be assigned as VRAM — a desktop-sized box for running large local models.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Aoostar-teases-the-Gorgon-Halo-Nex495S.jpg"
+      "headline": "Colorful shows off AMD-powered gaming laptop with up to 128 GB RAM and Radeon 8060S iGPU",
+      "url": "https://www.notebookcheck.net/Colorful-shows-off-AMD-powered-gaming-laptop-with-up-to-128-GB-RAM-and-Radeon-8060S-iGPU.1397295.0.html",
+      "published_iso": "2026-09-12T20:43:00+02:00",
+      "excerpt": "Colorful's Lingchuang K16 pairs a Ryzen AI Max+ 395 Strix Halo APU with up to 128 GB of unified memory, the configuration that makes local large-model work practical on a laptop. No global launch is planned yet.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/colorful_gaming_laptop_k16.jpg"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 15,
+    "dropped": 4,
+    "kept": 21,
     "against_days": 5
   }
 }
