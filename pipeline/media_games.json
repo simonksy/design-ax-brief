@@ -1,34 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "games",
   "media": [
     {
-      "id": "games-unity-claude-plugin-k7m",
-      "type": "video",
-      "src": "pipeline/media/games-unity-claude-plugin-k7m.mp4",
-      "poster": "pipeline/media/games-unity-claude-plugin-k7m.jpg"
-    },
-    {
-      "id": "games-roblox-reality-v3q",
+      "id": "games-fable-npc",
       "type": "image",
-      "src": "pipeline/media/games-roblox-reality-v3q.jpg"
+      "src": "pipeline/media/games-fable-npc.jpg",
+      "poster": "pipeline/media/games-fable-npc.jpg"
     },
     {
-      "id": "games-echoforge-sound-b8t",
-      "type": "video",
-      "src": "pipeline/media/games-echoforge-sound-b8t.mp4",
-      "poster": "pipeline/media/games-echoforge-sound-b8t.jpg"
-    },
-    {
-      "id": "games-level5-ai-backlash-r2w",
+      "id": "games-saber-willits",
       "type": "image",
-      "src": "pipeline/media/games-level5-ai-backlash-r2w.jpg"
+      "src": "pipeline/media/games-saber-willits.jpg",
+      "poster": "pipeline/media/games-saber-willits.jpg"
     },
     {
-      "id": "games-runescape-ai-clone-h9p",
+      "id": "games-witcher4-ai",
       "type": "video",
-      "src": "pipeline/media/games-runescape-ai-clone-h9p.mp4",
-      "poster": "pipeline/media/games-runescape-ai-clone-h9p.jpg"
+      "src": "pipeline/media/games-witcher4-ai.mp4",
+      "poster": "pipeline/media/games-witcher4-ai.jpg"
+    },
+    {
+      "id": "games-tagforce-ai-loc",
+      "type": "video",
+      "src": "pipeline/media/games-tagforce-ai-loc.mp4",
+      "poster": "pipeline/media/games-tagforce-ai-loc.jpg"
+    },
+    {
+      "id": "games-imamura-proto",
+      "type": "image",
+      "src": "pipeline/media/games-imamura-proto.jpg",
+      "poster": "pipeline/media/games-imamura-proto.jpg"
     }
   ]
 }

@@ -1,125 +1,71 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "science",
-  "count": 5,
   "picks": [
     {
-      "headline": "AI trained to 'think' like human pathologists may be better at spotting cancer",
-      "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer",
-      "source": "Live Science",
-      "published_iso": "2026-09-12T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Pathology-o3 was trained on pathologists' actual search behavior — how they pan and zoom across a slide — rather than on pre-cropped regions. It flagged 100% of cancer-positive slides in testing, with a deliberately tolerated 15.5% false-positive rate.",
+      "url": "https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Freshest pick and the most method-shifting: training on human search behavior instead of curated crops, with a hard sensitivity/false-positive tradeoff stated up front."
+      "rationale": "Concrete result: structure-first AI search across 214M predicted proteins surfaces unrecognized GPCR-family members and assigns TM184C a function — a new discovery route, not a rehash.",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-hidden-h.jpg",
+      "excerpt": "Researchers used AI to scan over 214 million predicted proteins by 3D structure rather than sequence, surfacing unrecognized GPCR-family members including TM184C and its role in cell-to-cell bridges.",
+      "title": "AI helps find hidden human proteins and reveals what they do",
+      "category": "science"
     },
     {
-      "headline": "Specificity-driven protein binder design with Odin-Multi",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.08.749745v1",
-      "source": "bioRxiv",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "og_image": null,
-      "excerpt": "A Technical University of Denmark team optimizes one binder sequence against many target complexes at once, applying attractive objectives to on-targets and repulsive ones to off-targets. The premise: a useful binder is defined as much by what it does not bind.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "source": "ScienceDaily",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Primary-source protein design work that reframes the objective — negative design against off-targets — a concrete recipe other binder-design pipelines can copy."
+      "rationale": "Princeton's PACMAN closes the loop on fusion plasma in milliseconds — a working control system, and the only physics/fusion story in the fresh pool.",
+      "published_iso": "2026-09-06T12:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp",
+      "excerpt": "Princeton researchers tested PACMAN, an AI system that monitors and controls fusion plasma in milliseconds, reacting far faster than a human operator can.",
+      "title": "AI can now control fusion plasma faster than humans can react",
+      "category": "science"
     },
     {
-      "headline": "AI Behavior Impacted by Internal Confidence Levels",
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/ai-behavior-impacted-by-internal-confidence-levels",
-      "source": "Psychology Today",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII",
-      "excerpt": "Google DeepMind researchers report in Nature Machine Intelligence that LLMs use internal confidence signals to decide when to abstain from answering — a form of metacognitive control paralleling humans and animals. It reframes hallucination as a calibration problem, not just a knowledge gap.",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Cognition slot with immediate practical bite: if abstention rides on internal confidence, hallucination becomes a calibration target rather than a knowledge hole."
-    },
-    {
-      "headline": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
-      "url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
-      "source": "Universe Today",
-      "published_iso": "2026-09-10T14:42:29Z",
-      "og_image": null,
-      "excerpt": "A JWST non-detection of exomoons sets a useful upper limit, and the authors argue machine-learning analysis of repeated observations is the path to pulling real exomoon signals out of instrumental noise. It is a template for how ML changes null results into constraints.",
+      "url": "https://www.livescience.com/space/astronomy/see-the-highest-resolution-images-of-a-black-hole-jet-ever-taken-thanks-to-ai-and-27-years-of-observations",
+      "source": "Live Science",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Astronomy slot, and the rare story about a null result becoming a measurement — ML as the instrument that turns 'we saw nothing' into a bound."
+      "rationale": "AI reconstruction turns 27 years and 100+ frames into the sharpest blazar-jet footage ever made — a record-setting observational result, and highly visual.",
+      "published_iso": "2026-09-09T17:34:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XnqQMV6uNvaYq89t8wRYGA.gif",
+      "excerpt": "Researchers combined more than 100 images of a single black hole into an AI-reconstructed video charting the activity of a mighty blazar jet.",
+      "title": "See the highest-resolution footage of a black hole jet ever taken, thanks to AI and 27 years of observations",
+      "category": "science"
     },
     {
-      "headline": "Researchers eye AI revolution in natural disaster forecasts",
-      "url": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg",
-      "excerpt": "Swiss researchers are pairing roughly 100 petabytes of NASA Earth-observation and climate data with supercomputing to train AI models that cut forecast turnaround to minutes. The goal is spotting precursors of floods and glacier collapses that physics-based models miss.",
+      "url": "https://thequantuminsider.com/2026/09/10/researchers-and-ai-agents-cut-estimated-quantum-cost-of-attacking-bitcoin-encryption-by-86/",
+      "source": "The Quantum Insider",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "A measured 86.1% cut in quantum resource estimates from 100+ scientists working alongside coding agents — rare hard evidence of agents doing real research optimization.",
+      "published_iso": "2026-09-10T13:23:36Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/oyxis2kalvg.jpg",
+      "excerpt": "An open project pairing 100+ human scientists with AI coding agents cut the estimated quantum resources for elliptic-curve point addition by 86.1%, a rare demonstration of agents doing real research optimization.",
+      "title": "Researchers and AI agents cut estimated quantum cost of attacking Bitcoin encryption by 86%",
+      "category": "science"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "source": "ScienceDaily",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Earth-science slot with hard numbers — 100 PB of NASA data, forecast turnaround down to minutes — and a stated aim of catching precursors physics models miss."
+      "rationale": "AI reading 400,000 Reddit posts as a pharmacovigilance signal found GLP-1 side effects trials missed — a new evidence source for drug safety, freshest item in the pool.",
+      "published_iso": "2026-09-13T12:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+      "excerpt": "AI analysis of 400,000 Reddit posts found that users of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro and Zepbound reported unexpected symptoms that clinical trials had missed.",
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "category": "science"
     }
-  ],
-  "dedup_notes": {
-    "checked_against": "news_data.json.sections.science (today 2026-09-12 + days 2026-09-05 … 2026-09-09)",
-    "dropped": [
-      {
-        "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
-        "reason": "Same story as the already-published Quanta piece on the OpenAI Navier–Stokes / AI-proof claim (science-navier-stokes-agents-q7f, 2026-09-09); also overlaps science-icm-math (2026-09-06). Quanta is the stronger, earlier coverage — earliest-wins."
-      },
-      {
-        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-        "reason": "Same release as the already-published Scientific American AlphaGenome Atlas card (science-alphagenome-atlas-b3d, 2026-09-09) — different outlet, identical event."
-      },
-      {
-        "url": "https://medicalxpress.com/news/2026-09-ai-imaging-tool-breast-cancer.html",
-        "reason": "Heavy topic collision with the published Medical Xpress mammography-AI review (science-mammogram-ai-review, 2026-09-05): AI mammogram reading + individual risk-based screening. Deprioritized rather than risk a visible repeat."
-      },
-      {
-        "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-        "reason": "Within-pool duplicate topic (pathology foundation models) against the stronger, far fresher Live Science Pathology-o3 pick; also the oldest item in the pool (2026-08-31)."
-      },
-      {
-        "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
-        "reason": "Satellite Earth-observation + AI overlaps the published Space.com OECD Earth-observation card (science-earth-observation-oecd-x2m, 2026-09-09) and the Phys.org disaster-forecast pick; also would have made Universe Today a 2-card outlet."
-      },
-      {
-        "url": "https://physicsworld.com/a/how-far-ahead-can-we-predict-the-weather/",
-        "reason": "Same weather-predictability-under-AI-models theme as the Phys.org disaster-forecast pick and the published AIFS D-Day forecast card (2026-09-08); kept the single strongest weather item."
-      },
-      {
-        "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
-        "reason": "Third weather/climate-planning item; category cap (max 1–2 per domain) — surviving weather slot went to the Phys.org piece."
-      },
-      {
-        "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
-        "reason": "Fresh and clean, but the cognition/clinical slot went to the DeepMind metacognition study; held as the first backfill candidate."
-      },
-      {
-        "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
-        "reason": "Second personality/cognition item; category spread cap. Held as backfill."
-      }
-    ]
-  },
-  "diversity_check": {
-    "outlets": [
-      "Live Science",
-      "bioRxiv",
-      "Psychology Today",
-      "Universe Today",
-      "Phys.org"
-    ],
-    "max_per_outlet": 1,
-    "domains": [
-      "medical imaging / pathology",
-      "protein design / bio",
-      "cognition / model metacognition",
-      "astronomy",
-      "earth science / climate"
-    ]
-  }
+  ]
 }

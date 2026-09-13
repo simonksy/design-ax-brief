@@ -1,32 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "music",
   "media": [
     {
-      "id": "music-difro-melody-k4q",
-      "type": "image",
-      "src": "pipeline/media/music-difro-melody-k4q.png"
-    },
-    {
-      "id": "music-suno-youtube-r7m",
-      "type": "image",
-      "src": "pipeline/media/music-suno-youtube-r7m.jpg"
-    },
-    {
-      "id": "music-ai-records-v2s",
-      "type": "image",
-      "src": "pipeline/media/music-ai-records-v2s.jpg"
-    },
-    {
-      "id": "music-tone3000-nam-j8d",
+      "id": "music-sting-plugin",
       "type": "video",
-      "src": "pipeline/media/music-tone3000-nam-j8d.mp4",
-      "poster": "pipeline/media/music-tone3000-nam-j8d.jpg"
+      "src": "pipeline/media/music-sting-plugin.mp4",
+      "poster": "pipeline/media/music-sting-plugin.jpg"
     },
     {
-      "id": "music-spark-pedal-b6n",
+      "id": "music-smartchain",
+      "type": "video",
+      "src": "pipeline/media/music-smartchain.mp4",
+      "poster": "pipeline/media/music-smartchain.jpg"
+    },
+    {
+      "id": "music-sentient",
       "type": "image",
-      "src": "pipeline/media/music-spark-pedal-b6n.jpg"
+      "src": "pipeline/media/music-sentient.jpg",
+      "poster": "pipeline/media/music-sentient.jpg"
+    },
+    {
+      "id": "music-prime4-g2",
+      "type": "video",
+      "src": "pipeline/media/music-prime4-g2.mp4",
+      "poster": "pipeline/media/music-prime4-g2.jpg"
+    },
+    {
+      "id": "music-audio-intelligence",
+      "type": "image",
+      "src": "pipeline/media/music-audio-intelligence.png",
+      "poster": "pipeline/media/music-audio-intelligence.png"
     }
   ]
 }

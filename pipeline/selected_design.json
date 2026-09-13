@@ -1,99 +1,71 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "design",
   "picks": [
     {
+      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
+      "source": "CG Channel",
       "tool": "KeyShot",
-      "category": "render",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "SuperSplat Editor 3.0 is a huge performance update",
-      "url": "https://www.cgchannel.com/2026/09/playcanvas-releases-supersplat-editor-3-0/",
-      "source": "CG Channel",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": null,
-      "excerpt": "PlayCanvas' free browser tool for viewing and editing 3D Gaussian splats now handles tens of millions of Gaussians smoothly, making scanned-reality assets practical in design and visualization pipelines.",
-      "rationale": "A free, shipped release that moves Gaussian-splat scans from demo to usable asset — designers can drop scanned reality into a pipeline today."
+      "rationale": "Weekly sweep of the CG/VFX releases that slipped past, including AI-assisted lookdev and lighting tools an artist can install today.",
+      "published_iso": "2026-09-13T06:00:54Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260913_CGSoftwareYouMayHaveMissed13September2026_f-960x480.jpg",
+      "excerpt": "CG Channel's weekly roundup of the CG, VFX and motion-graphics software releases you may have missed, including new AI-assisted lookdev and lighting tools for Blender and DCC pipelines.",
+      "title": "New CG software you may have missed: 13 September 2026",
+      "category": "render"
     },
     {
-      "tool": "Text-to-CAD",
-      "category": "cad",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "headline": "Morpholio launches Trace for Business for enterprise users",
-      "url": "https://www.engineering.com/morpholio-launches-trace-for-business-for-enterprise-users/",
-      "source": "Engineering.com",
-      "published_iso": "2026-09-10T13:59:50Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Morpholio-launches-Trace-for-Business-for-enterprise-users-scaled.jpg",
-      "excerpt": "The AI-assisted sketching and drawing app used by architects and industrial designers gets an enterprise tier with centralized licensing, SSO and IT management through the Vectorworks portal.",
-      "rationale": "AI sketching crosses into managed IT procurement — the step that lets architecture and ID teams standardize on it instead of smuggling it in per seat."
+      "url": "https://80.lv/articles/this-free-blender-tool-makes-hair-rigging-easier/",
+      "source": "80 Level",
+      "tool": "KeyShot",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "A free add-on that auto-builds deform bone chains along hair strands, collapsing one of character rigging's most tedious steps into a click.",
+      "published_iso": "2026-09-12T11:00:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50123/images/6aa16cd8a1256/full.jpeg",
+      "excerpt": "A free Blender add-on automatically creates deform bone chains along stylized hair strands, cutting one of the most tedious steps in character rigging down to a click.",
+      "title": "This Free Blender Tool Makes Hair Rigging Easier",
+      "category": "render"
     },
     {
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "source": "Smashing Magazine",
       "tool": "Design Tokens",
-      "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "Show Stop Proof Before Approving an Agent Retry",
-      "url": "https://dev.to/haaaaaley/show-stop-proof-before-approving-an-agent-retry-23oe",
-      "source": "DEV Community",
-      "published_iso": "2026-09-12T17:04:39Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8rle2urkpyjea0xmkw5i.png",
-      "excerpt": "A retry button looked harmless in Friday critique — until an agent had rewritten onboarding consent. A concrete interaction pattern for showing evidence of what an agent stopped before a designer approves another run.",
-      "rationale": "A specific, copyable interaction pattern for agent retries — the kind of component rule a team can add to its system this week."
+      "rationale": "A worked example of translating design and design-system work into the financial language executives actually fund — usable in this quarter's budget conversation.",
+      "published_iso": "2026-09-11T13:00:00Z",
+      "og_image": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+      "excerpt": "Strong UX ideas do not secure investment on their own. Through a worked example, this piece shows how to frame design and design-system work in the financial language executives actually fund.",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "category": "tokens"
     },
     {
-      "tool": "AI Workflow",
-      "category": "workflow",
-      "accent": "#ff5a4d",
+      "url": "https://blog.logrocket.com/ux-design/imagined-speaker-brand-archetypes-ux-copy/",
+      "source": "LogRocket Blog",
+      "tool": "Figma",
+      "accent": "#0070f3",
       "motif": "frame",
-      "headline": "Vibe coding is Topgolf. Production is Torrey Pines.",
-      "url": "https://www.cio.com/article/4220416/vibe-coding-is-topgolf-production-is-torrey-pines.html",
-      "source": "CIO",
-      "published_iso": "2026-09-10T09:30:00Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4220416-0-76791500-1789032775-ron-guerrier-vibe-coding.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "Vibe coding makes creation feel effortless; shipping it demands another level of discipline. A blueprint for keeping prompt-driven prototyping's energy while adding the guardrails production needs.",
-      "rationale": "Names the gap every prompt-built prototype hits and gives the guardrails for handing one to engineering — directly reshapes the prototype-to-ship handoff."
+      "rationale": "Turns vague brand archetypes into an 'imagined speaker' — a concrete voice spec that both writers and AI copy tools can actually follow.",
+      "published_iso": "2026-09-10T23:00:08Z",
+      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/09/What-to-do-when-brand-archetypes-dont-help-you-write-ux-copy.png",
+      "excerpt": "Learn how to turn abstract brand archetypes into natural UX copy by creating an imagined speaker, a technique that also gives AI writing tools a concrete voice to follow.",
+      "title": "What to do when brand archetypes don't help you write UX copy",
+      "category": "figma"
     },
     {
-      "tool": "Social",
-      "category": "social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "headline": "My Actual AI Stack Right Now",
-      "url": "https://www.youtube.com/watch?v=zwoyqvMtMSA",
-      "source": "Jesse Showalter (YouTube)",
-      "published_iso": "2026-09-12T04:13:00Z",
-      "og_image": "https://i.ytimg.com/vi/zwoyqvMtMSA/maxresdefault.jpg",
-      "excerpt": "A working designer walks through the exact AI tools he uses to design, code, edit video and run an agency — not predictions, the current stack and where each tool stops being useful.",
-      "rationale": "A practicing designer's real stack with the limits of each tool named — the fastest way to audit your own toolchain against someone shipping with it."
+      "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+      "source": "Road to VR",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Valve reworked SteamVR's core system UI and input handling ahead of Steam Frame — the platform layer every VR app designer prototypes on top of.",
+      "published_iso": "2026-09-11T16:20:00Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/steam-frame-hero.jpg",
+      "excerpt": "Valve dropped a sizeable SteamVR update ahead of the Steam Frame launch, reworking core system UI and input handling that VR app designers build on top of.",
+      "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
+      "category": "vr"
     }
-  ],
-  "dedup": {
-    "history_days_checked": 6,
-    "history_source": "news_data.json sections.design (today 2026-09-12 + days 2026-09-05..2026-09-09, 30 cards)",
-    "dropped": [
-      {
-        "url": "https://www.mindstudio.ai/blog/chatgpt-images-2-5-review",
-        "reason": "Same release (ChatGPT Images 2.5) already published 2026-09-09 as The Verge 'ChatGPT can now turn your sketches into photos' — duplicate event via different outlet."
-      },
-      {
-        "url": "https://www.mindstudio.ai/blog/chatgpt-images-2-5-astra-workflow",
-        "reason": "Same release (ChatGPT Images 2.5) as the already-published 2026-09-09 card, and same-source/same-topic hub post as the MindStudio review above."
-      },
-      {
-        "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11",
-        "reason": "Same core topic as 2026-09-05 The Verge 'Why does AI-generated food look like that' — viral AI food imagery already covered."
-      },
-      {
-        "url": "https://vercel.com/changelog/build-with-openai-agents-api-on-vercel",
-        "reason": "Within-pool duplicate of the OpenAI Agents API launch (OpenAI 'Introducing the Agents API'); partner-platform rewrite of the same release."
-      },
-      {
-        "url": "https://www.creativebloq.com/ai/ai-art/can-you-spot-all-the-clues-that-prove-this-ai-photo-isnt-real",
-        "reason": "Within-pool overlap with Matt Wolfe's AI-slop detector video (same 'how to spot generated media' story); kept neither after diversity guard — lower actionability."
-      }
-    ],
-    "backfilled": true,
-    "diversity_guard": "5 distinct outlets (CG Channel, Engineering.com, DEV Community, CIO, Jesse Showalter/YouTube) and 5 distinct categories (render, cad, tokens, workflow, social) — max 1 per outlet and per category."
-  }
+  ]
 }

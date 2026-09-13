@@ -1,157 +1,264 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "games",
-  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "source": "GamesBeat",
-      "category": "games",
-      "headline": "Roblox Reality brings greater realism to Roblox graphics",
-      "url": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/",
-      "published_iso": "2026-09-11T18:27:00+00:00",
-      "excerpt": "At RDC 2026 Roblox exec Anupam Singh demoed Roblox Reality, a video world model that layers photoreal lighting and detail on top of blocky Roblox geometry at runtime. It reframes the art pipeline: creators keep building simple shapes while a generative render pass supplies the finish.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/lights.jpg"
-    },
-    {
-      "source": "GamesBeat",
-      "category": "games",
-      "headline": "Roblox shows off Playtest Agent for Roblox devs to test games",
-      "url": "https://gamesbeat.com/roblox-shows-off-playtest-agent-for-roblox-devs-to-test-games/",
-      "published_iso": "2026-09-11T18:14:00+00:00",
-      "excerpt": "Roblox announced Playtest Agent with multiplayer support, an AI agent that drives keyboard and mouse input, reads logs, captures screenshots and reports design and gameplay bugs back to Assistant for automatic fixes. QA and design iteration move from manual passes to agent loops.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/food.jpg"
-    },
-    {
-      "source": "GamesBeat",
-      "category": "games",
-      "headline": "Roblox dives into the details on its RDC: engine updates, Roblox Wallet, and offline play",
-      "url": "https://gamesbeat.com/roblox-dives-into-the-details-on-its-rdc-engine-updates-roblox-wallet-and-offline-play-press-briefing/",
-      "published_iso": "2026-09-11T19:00:00+00:00",
-      "excerpt": "A full press-briefing rundown of Roblox's RDC 2026 technology stack: engine updates, generative creation flows, NPC capability expansion, browser and offline play, and creator monetization. The clearest single map of where Roblox wants creator workflows to sit next year.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/506F69AE-E382-4B23-8B36-55587834959E.png"
-    },
-    {
-      "source": "TechCrunch",
-      "category": "games",
-      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "published_iso": "2026-09-11T19:00:00+00:00",
-      "excerpt": "Roblox is widening its prompt-to-game 'Build' feature to desktop with a new asset library and iterative control, and expanding NPC capabilities including NPCs that can playtest a game. Games built this way will also run in the browser outside Roblox.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
-    },
-    {
-      "source": "80 Level",
-      "category": "games",
-      "headline": "How EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
-      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity/",
-      "published_iso": "2026-09-11T18:10:00+00:00",
-      "excerpt": "Researchers Anamaria Buliga and Kamil Tebani explain how EchoForge combines spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable Unity environments. A rare look at non-visual input driving level generation.",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png"
-    },
-    {
-      "source": "Unity",
-      "category": "games",
-      "headline": "Official Unity Plugin for Claude Code",
-      "url": "https://unity.com/blog/unity-plugin-for-claude-code",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "excerpt": "Unity shipped an official Claude Code plugin that installs Unity-authored skills, the Unity CLI and live Editor control via Unity's MCP server in a single command. Agentic coding now has a sanctioned path into the Unity Editor itself.",
-      "og_image": null
-    },
-    {
-      "source": "PC Gamer",
-      "category": "games",
-      "headline": "Electronic Arts admits to using AI voices in NHL 27: 'This process allows us to bring more variety to the game'",
-      "url": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
-      "published_iso": "2026-09-10T20:49:19Z",
-      "excerpt": "EA says the AI commentary voices in NHL 27 were developed with the talent involved and let the team deliver far more line variety than a studio session could. The justification is a template other live-service audio teams will reuse.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Peqo72mqxSjLkxrFVRc7FY-1920-80.jpg"
-    },
-    {
-      "source": "Eurogamer",
-      "category": "games",
-      "headline": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
-      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
-      "published_iso": "2026-09-10T14:50:43Z",
-      "excerpt": "Elderwood, a generative-AI-built website its creator called an Old School RuneScape clone, was pulled after Jagex took notice. A live case study in what vibe-coded game production actually produces — and how fast players and IP owners react.",
-      "og_image": "https://assetsio.gnwcdn.com/old-school-runescape-dancing-on-bridge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "headline": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP",
-      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip",
-      "published_iso": "2026-09-11T12:40:00+00:00",
-      "excerpt": "Saber's chief creative officer lays out where the studio does and does not let generative AI into production after its CEO's comments caused a backlash. A concrete read on how a mid-size publisher is drawing craft boundaries.",
-      "og_image": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "headline": "NBA 2K27 gives DLSS 5 a more faithful-looking game debut than feared, provided it's running on the LeBron of GPUs",
-      "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
-      "published_iso": "2026-09-08T15:37:46Z",
-      "excerpt": "DLSS 5's generative neural rendering makes its first shipped appearance in NBA 2K27, and it is subtler than the demos suggested — but brutally expensive. The first real data point on what AI rendering does to an artist's intended look.",
-      "og_image": "https://assetsio.gnwcdn.com/NBA-2K27-DLSS-5-On-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "source": "Eurogamer",
-      "category": "games",
-      "headline": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
-      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
-      "published_iso": "2026-09-07T12:34:26Z",
-      "excerpt": "Independent testing confirms Nvidia's gen-AI-powered DLSS 5 imposes a heavy frame-rate cost, raising the question of whether AI-altered visuals are worth the performance trade for developers targeting it.",
-      "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "headline": "I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod",
-      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
-      "published_iso": "2026-09-09T12:00:00+00:00",
-      "excerpt": "Breaking Benjamin's Benjamin Burnley is pleading with fans to try the AI-assisted Fallout 4 first-person mod he built, after the modding community pushed back. AI-assisted UGC is now colliding with community norms about authorship.",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "source": "IGN",
-      "category": "games",
-      "headline": "'You Were a Beautiful Studio' — Level-5 Dev Calls AI Backlash a 'Learning Opportunity' as Fans Worry for Professor Layton's Future",
-      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase",
-      "published_iso": "2026-09-12T16:25:11Z",
-      "excerpt": "Level-5 has apologised for and explained its generative AI use after fans spotted AI artefacts in footage of Professor Layton and the Curious Village, DecaPolice and other reveals. A studio with a signature hand-drawn look getting caught mid-pipeline shift.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/12/professor-layton-and-the-new-world-of-steam-1789228310265.png?width=1280&format=jpg&auto=webp&quality=80"
-    },
-    {
+      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
       "source": "Kotaku",
       "category": "games",
-      "headline": "Twitch Plans To Shove More AI Down Creators' Throats With Stream Coach Tool",
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "published_iso": "2026-09-11T20:45:43+00:00",
-      "excerpt": "Twitch is testing an AI-powered stream coach that analyses a channel and suggests improvements, alongside questions about content training and opt-outs. Creative direction for game creators, delivered as an algorithmic recommendation.",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg"
+      "published_iso": "2026-09-13T20:57:12Z",
+      "og_image": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
+      "excerpt": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI",
+      "title": "Zelda Art Director Receives Backlash For AI Prototype Test"
     },
     {
+      "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
+      "source": "Eurogamer.net",
+      "category": "games",
+      "published_iso": "2026-09-13T15:32:39Z",
+      "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Level-5 CEO Akihiro Hino has confirmed the studio used generative AI in its recent Yo-Kai Watch and Professor Layton showcase, and apologised to fans.",
+      "title": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\""
+    },
+    {
+      "url": "https://www.thegamer.com/star-fox-creator-takaya-imamura-backlash-ai/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-09-13T09:47:12Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/star-fox-crew-standing-in-space-in-front-of-a-swirling-galaxy.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Takaya Imamura posted an AI experiment to X, and is now facing backlash for dabbling in this \"incredible era we've entered.\"",
+      "title": "Star Fox Creator Faces Massive Backlash Over AI Use"
+    },
+    {
+      "url": "https://www.destructoid.com/dlss-5-isnt-just-bad-it-might-be-straight-up-infected-or-possessed-by-demons/",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-09-11T21:49:16Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/09/gta-5-dlss-5.jpg",
+      "excerpt": "Nuke it from orbit.",
+      "title": "DLSS 5 isn't just bad; it might be straight-up infected or possessed by demons"
+    },
+    {
+      "url": "https://www.pcgamer.com/software/ai/openai-employee-takes-down-chatgpt-coded-runescape-clone-following-jagex-cease-and-desist/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-09-11T21:07:32Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jcNTdhh7GZ2iutVDKFXB4b-1280-80.jpg",
+      "excerpt": "Black Lodge Nintendo fan game life cycle.",
+      "title": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-09-11T12:40:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "\"Sometimes I play these games and I can just see the wasted money\"",
+      "title": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP"
+    },
+    {
+      "url": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-09-10T20:49:19Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Peqo72mqxSjLkxrFVRc7FY-1920-80.jpg",
+      "excerpt": "EA says the AI voices were developed with",
+      "title": "Electronic Arts admits to using AI voices in NHL 27:"
+    },
+    {
+      "url": "https://www.thegamer.com/yu-gi-oh-tag-force-use-of-generative-ai/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-09-10T12:29:40Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/a-character-holding-up-a-yu-gi-oh-card-in-yu-gi-oh-tag-force-gx.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Yu-Gi-Oh Tag Force GX was translated into different languages using AI, with the work being checked over by a human.",
+      "title": "Yu-Gi-Oh Tag Force GX Is The Latest Game Under Fire Over AI"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-09-10T02:54:46Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2yEXLs6WNSnNauA6NWxFKd-1200-80.png",
+      "excerpt": "At least it",
+      "title": "The next game by the creators of Steins;Gate is an entirely vibe-coded FPS slopfest"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-09T15:25:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/Overwatch-2-Zarya.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Unionised Overwatch, Diablo and WoW devs have voted through a contract with Blizzard bosses to give them protection against layoffs and a say on genAI adoption.",
+      "title": "\"The start of something greater\": hundreds of unionised Blizzard workers vote through contract that gives them a say over genAI usage and protection against layoffs"
+    },
+    {
+      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-09-09T12:59:56Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf5a01dc7ea0367b0/6aa151f531f0b7e274fa02b6/Blizzard_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Union members have secured guardrails around generative AI usage, layoff protections, remote and hybrid work benefits, and more.",
+      "title": "Blizzard union workers ratify contract covering 1,900 employees"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4.",
+      "title": "I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod"
+    },
+    {
+      "url": "https://80.lv/articles/fable-developers-hand-crafted-1-000-npcs-instead-of-using-a-randomizer-tool",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-09-09T10:06:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50113/images/6aa12fa304a7c/contain_1200x630.jpg",
+      "excerpt": "Game director Ralph Fulton said that it would save a lot of time, but randomly created NPCs \"just didn't make as much sense.\"",
+      "title": "Fable Devs Hand-Crafted 1,000 NPCs Instead of Using a Randomizer Tool"
+    },
+    {
+      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
       "source": "Aftermath",
       "category": "games",
-      "headline": "'Gen-AI Controversy Aside' Is A Wild Thing To Write In A Video Game Preview",
-      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
       "published_iso": "2026-09-09T00:04:21Z",
-      "excerpt": "A pointed critique of previews that bracket off a game's generative AI use as a footnote, using Crazy Taxi: World Tour as the example. Argues AI in the asset pipeline is a craft fact, not an aside.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5-1.large.webp"
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5-1.large.webp",
+      "excerpt": "The elephant is still in the room",
+      "title": "'Gen-AI Controversy Aside' Is A Wild Thing To Write In A Video Game Preview"
     },
     {
-      "source": "Eurogamer",
+      "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "headline": "After being accused of AI use, Humankind 2 studio proves its new trailer was made by real humans, old fashioned CGI, and at least five chickens",
+      "published_iso": "2026-09-08T15:37:46Z",
+      "og_image": "https://assetsio.gnwcdn.com/NBA-2K27-DLSS-5-On-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The AI rendering of DLSS 5 is out now in NBA 2K27, and it's a lot more subtle than previous demos - though still a performance brute.",
+      "title": "NBA 2K27 gives DLSS 5 a more faithful-looking game debut than feared, provided it’s running on the LeBron of GPUs"
+    },
+    {
+      "url": "https://www.gamespot.com/articles/ea-used-ai-to-clone-john-buccigross-voice-in-nhl-27/",
+      "source": "GameSpot",
+      "category": "games",
+      "published_iso": "2026-09-08T13:46:32Z",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/NHL.png",
+      "excerpt": "\"If it means less work and the same check, I'll take it.\"",
+      "title": "EA Used AI To Clone John Buccigross' Voice In NHL 27"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-09-08T12:00:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
+      "excerpt": "Fans previously criticized the studio for releasing an AI-generated music video promoting the game",
+      "title": "Following Stellar Blade: Blood Rain AI controversy, Shift Up lead says they"
+    },
+    {
+      "url": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-09-07T22:25:49Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/08/12/nhl27thumb-1786548045274.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "EA Sports is using generative AI to create voiceover for its in-game commentators in NHL 27, according to veteran sports commentator John Buccigross.",
+      "title": "NHL 27 Features AI-Generated Voiceover for Sports Commentators"
+    },
+    {
+      "url": "https://80.lv/articles/despite-saber-interactive-ceo-s-pro-ai-course-space-marine-3-is-genai-free",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-09-07T15:00:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50076/images/6a9ecc545c5d6/contain_1200x630.jpg",
+      "excerpt": "In a recent interview with IGN at gamescom, the studio's development chief, Tim Willits, confirmed that Saber is not using generative AI in Space Marine 3, although the studio is planning to experiment with it in other titles.",
+      "title": "Despite Saber CEO's Pro-AI Course, Space Marine 3 is GenAI-Free"
+    },
+    {
+      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
+      "source": "Eurogamer.net",
+      "category": "games",
+      "published_iso": "2026-09-07T12:34:26Z",
+      "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nvidia's new game-altering DLSS 5 technology takes a serious toll on a game's frame-rate, experts declare. So is it worth it?",
+      "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate"
+    },
+    {
+      "url": "https://www.destructoid.com/no-saber-says-they-wont-change-how-they-communicate-after-ceo-ignited-ai-writer-controversy/",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-09-06T17:18:05Z",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/08/rideshare-stimulator-2.jpg",
+      "excerpt": "Not a good look, honestly.",
+      "title": "'No:' Saber says they won't change how they communicate after CEO ignited AI writer controversy"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/rpg/fable-devs-originally-had-a-tool-to-randomize-the-rpgs-1-000-npcs-that-would-have-saved-us-so-much-time-but-that-just-didnt-make-as-much-sense/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-09-05T15:08:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mWKmDJbSyUJu2hq6nZ9Fw5-1920-80.jpg",
+      "excerpt": "The Living Population is handcrafted",
+      "title": "Fable devs originally had a tool to randomize the RPG"
+    },
+    {
       "url": "https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens",
+      "source": "Eurogamer.net",
+      "category": "games",
       "published_iso": "2026-09-04T19:19:34Z",
-      "excerpt": "Amplitude Studios published production evidence — CG artists, a human crew and live chickens — after the internet called Humankind 2's trailer AI slop. Proving human authorship is now itself a deliverable in game marketing.",
-      "og_image": "https://assetsio.gnwcdn.com/Humankind-2_wtIn2A3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "og_image": "https://assetsio.gnwcdn.com/Humankind-2_wtIn2A3.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Fans accused Humankind 2's trailer of being AI generated, but the devs say no. Old fashioned CG artists, a human production crew and at least five chickens made",
+      "title": "After being accused of AI use, Humankind 2 studio proves its new trailer was made by real humans, old fashioned CGI, and at least five chickens"
+    },
+    {
+      "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+      "source": "GameSpot",
+      "category": "games",
+      "published_iso": "2026-09-03T15:35:08Z",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.26.18-AM.png",
+      "excerpt": "AI is a tool that can help, but not for the kinds of \"complex\" games that CD Projekt makes, its joint-CEO says.",
+      "title": "The Witcher 4 Will Be Made \"Predominantly Using People\" And Not AI"
+    },
+    {
+      "url": "https://www.ign.com/articles/confirmed-no-generative-ai-in-warhammer-40000-space-marine-3",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-09-03T11:19:43Z",
+      "og_image": "https://assets-prd.ignimgs.com/2025/03/13/warhammer3thumb-1741885234601.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Following the backlash to Rideshare Stimulator’s use of generative AI, developer Saber Interactive has reassured Warhammer 40,000 fans that the technology is not in Space Marine 3 in any way.",
+      "title": "Warhammer 40,000: Space Marine 3 Developer Reassures Fans Over Generative AI After Rideshare Stimulator Backlash"
+    },
+    {
+      "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-09-01T14:30:16Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/dlss55-1200x675.jpg",
+      "excerpt": "Not only will it ruin how your games look, but it'll then run them half as fast!",
+      "title": "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Framerates In Half"
+    },
+    {
+      "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-micro-transactions-ai-assets-3966308",
+      "source": "NME",
+      "category": "games",
+      "published_iso": "2026-09-01T10:15:51Z",
+      "og_image": "https://www.nme.com/wp-content/uploads/2026/09/Jason_and_Lucia_Grand-Theft-Auto-6.jpg",
+      "excerpt": "\"No monetisations in this game”",
+      "title": "‘Grand Theft Auto 6’ won’t have any microtransactions or AI assets"
+    },
+    {
+      "url": "https://80.lv/articles/nvidia-s-dlss-5-slop-or-not",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-08-31T10:26:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/49970/images/6a9556f39c974/contain_1200x630.jpg",
+      "excerpt": "People have been messing around with it in different games.",
+      "title": "NVIDIA's DLSS 5: Slop Or Not?"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 16,
+    "dropped": 0,
+    "kept": 28,
     "against_days": 5
   }
 }

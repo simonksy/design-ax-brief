@@ -1,33 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "design",
   "media": [
     {
-      "id": "design-supersplat-30-q4m",
+      "id": "design-cg-roundup-0913",
       "type": "video",
-      "src": "pipeline/media/design-supersplat-30-q4m.mp4",
-      "poster": "pipeline/media/design-supersplat-30-q4m.jpg"
+      "src": "pipeline/media/design-cg-roundup-0913.mp4",
+      "poster": "pipeline/media/design-cg-roundup-0913.jpg"
     },
     {
-      "id": "design-morpholio-trace-b7k",
+      "id": "design-blender-hair-rig",
       "type": "image",
-      "src": "pipeline/media/design-morpholio-trace-b7k.jpg"
+      "src": "pipeline/media/design-blender-hair-rig.jpg",
+      "poster": "pipeline/media/design-blender-hair-rig.jpg"
     },
     {
-      "id": "design-agent-retry-x2n",
+      "id": "design-ux-roi-case",
       "type": "image",
-      "src": "pipeline/media/design-agent-retry-x2n.png"
+      "src": "pipeline/media/design-ux-roi-case.jpg",
+      "poster": "pipeline/media/design-ux-roi-case.jpg"
     },
     {
-      "id": "design-vibe-coding-prod-m9t",
+      "id": "design-imagined-speaker",
       "type": "image",
-      "src": "pipeline/media/design-vibe-coding-prod-m9t.jpg"
+      "src": "pipeline/media/design-imagined-speaker.jpg",
+      "poster": "pipeline/media/design-imagined-speaker.jpg"
     },
     {
-      "id": "design-ai-stack-now-j5r",
-      "type": "video",
-      "src": "pipeline/media/design-ai-stack-now-j5r.mp4",
-      "poster": "pipeline/media/design-ai-stack-now-j5r.jpg"
+      "id": "design-steamvr-update",
+      "type": "image",
+      "src": "pipeline/media/design-steamvr-update.jpg",
+      "poster": "pipeline/media/design-steamvr-update.jpg"
     }
   ]
 }

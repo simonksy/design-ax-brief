@@ -1,119 +1,71 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "gadgets",
-  "selected_by": "curator (user deferred)",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "source": "Ars Technica",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "headline": "Qualcomm's next Snapdragon flagship chip wants your AI agents to stay on-device",
-      "url": "https://www.androidauthority.com/snapdragon-qualcomm-snapdragon-8-elite-gen-6-npu-3709726/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-10T13:00:51+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Snapdragon-8-Gen-5-official-image.jpg",
-      "excerpt": "Qualcomm detailed the NPU in the upcoming Snapdragon 8 Elite Gen 6, pitching a big jump in on-device model capacity. Qualcomm says the chip will run bigger models with ease so agents can work locally instead of round-tripping to the cloud.",
-      "rationale": "Sets the 2027 Android baseline for how much agent work runs locally — the number product teams will design latency and privacy assumptions around."
+      "rationale": "First-person long-term hands-on with a $4,000 Unitree quadruped — the clearest read yet on what consumer-priced legged robotics actually does, and on the company quietly setting the category's baseline.",
+      "published_iso": "2026-09-12T11:00:53Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+      "excerpt": "Unitree might be the world’s most important robotics company.",
+      "title": "I spent $4,000 on a robot dog from China"
     },
     {
-      "rank": 2,
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/rayneos-io-camera-free-smart-glasses-boast-an-ai-agnostic-version-of-the-siri-recap-feature-coming-to-apple-watch-and-im-not-sure-if-i-love-or-hate-it",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "headline": "Quest's Meta Virtual Display Got A New Name, Input Forwarding & Mac Parity",
-      "url": "https://www.uploadvr.com/quests-meta-virtual-display-got-a-new-name-input-forwarding-mac-parity/",
-      "source": "UploadVR",
-      "published_iso": "2026-09-08T14:50:34.000Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Screenshot-2026-09-07-at-6.26.31---PM.png",
-      "excerpt": "Meta's Quest virtual monitor feature was renamed and gained input forwarding, with the Mac version now matching Windows functionality. It makes a headset a more usable second display for desk work.",
-      "rationale": "Input forwarding plus Mac parity is the point where a headset becomes a real second monitor for design work, not a demo."
+      "rationale": "RayNeo drops the camera and keeps the assistant — a concrete counter-design to Meta's glasses, plus an AI-agnostic conversation-recap feature that reframes the privacy argument for wearables.",
+      "published_iso": "2026-09-13T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ-2560-80.jpg",
+      "excerpt": "RayNeo IO are smart glasses boast an AI agnostic version of Siri Recap, but I’m not sure if I love or hate it.",
+      "title": "RayNeo iO might finally get camera-less smart glasses right — but the 'conversation assistance' is an icky future I don’t want to live in"
     },
     {
-      "rank": 3,
+      "url": "https://www.tomsguide.com/ai/dex-language-discovery-camera-review-the-rare-ai-gadget-that-keeps-up-with-my-non-stop-5-year-old",
+      "source": "Tom's Guide",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "headline": "The HONOR Robot Phone feels like the first phone I'd actually buy for its weirdest feature",
-      "url": "https://www.digitaltrends.com/phones/honor-robot-phone-hands-on/",
-      "source": "Digital Trends",
-      "published_iso": "2026-09-12T19:54:48+00:00",
-      "og_image": null,
-      "excerpt": "Hands-on with HONOR's Robot Phone, whose motorized gimbal camera module turns the handset into a semi-autonomous camera operator. The oddest part of the design turns out to be the most convincing reason to buy it.",
-      "rationale": "A motorized gimbal module that makes the phone operate its own camera is the boldest hardware-form argument of the week, and the hands-on says it works."
+      "rationale": "A full review of an AI camera built for kids that actually holds up in daily use — a rare case of on-device vision plus speech landing a real product job instead of a demo.",
+      "published_iso": "2026-09-12T09:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BsnRop6hSrLbQKt68oMuYX-1672-80.png",
+      "excerpt": "The Dex discovery camera pairs real-world curiosity with spoken vocabulary in a way that actually works for energetic kids",
+      "title": "Dex Language-Discovery Camera review: The rare AI gadget that keeps up with my non-stop 5-year-old"
     },
     {
-      "rank": 4,
+      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "source": "WIRED",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
-      "source": "Gizmodo",
-      "published_iso": "2026-09-11T18:10:54+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/09/Husqvarna-mower-1200x675.jpg",
-      "excerpt": "The FCC granted its first exemption under the new robotics restrictions, clearing Swedish robot mower maker Husqvarna to sell new products in the US. It sets the first precedent for how autonomous home robots get to market.",
-      "rationale": "First precedent for how autonomous home robots clear the new US restrictions — it decides which hardware roadmaps are shippable at all."
+      "rationale": "A reporter strips the guardrails off an open-source model and lets it loose on his own smart home — it finds real device holes, then hands over the fixes. Practical security homework for anyone with connected gear.",
+      "published_iso": "2026-09-09T18:30:00Z",
+      "og_image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
+      "excerpt": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again"
     },
     {
-      "rank": 5,
+      "url": "https://9to5google.com/2026/09/08/arms-new-cpu-cores-and-gpus-for-android-chips-promise-desktop-class-games-more-ai-power/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Apple confirms Siri AI launches in English this month, will add five languages in October",
-      "url": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
-      "source": "9to5Mac",
-      "published_iso": "2026-09-09T20:33:42+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?resize=1200,628",
-      "excerpt": "Apple confirmed the rollout timeline for the rebuilt Siri AI, launching in English alongside iOS 27 before expanding to five more languages in October. It will not ship in China or the EU at launch.",
-      "rationale": "A confirmed date and language list — plus no EU or China at launch — tells teams exactly when and where they can rely on Siri AI in a flow."
+      "rationale": "Arm's C2 cores and next Mali GPUs set the on-device AI and graphics ceiling for the next wave of Android phones — the silicon floor every mobile app and game will be designed against.",
+      "published_iso": "2026-09-08T17:35:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/arm-c2-mali-g2-header.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Arm has announced its new C2 CPUs for future Android chips as well as upgrades to its Mali GPUs that...",
+      "title": "Arm's new CPU cores and GPUs for Android chips promise 'desktop-class' games, more AI power"
     }
-  ],
-  "dedup_notes": {
-    "history_checked": ["2026-09-12 (today)", "2026-09-09", "2026-09-08", "2026-09-07", "2026-09-06", "2026-09-05"],
-    "dropped": [
-      {
-        "url": "https://www.androidauthority.com/timekettle-w4-plus-3706119/",
-        "reason": "Timekettle W4 Plus launch already published 2026-09-08 via Android Authority (gadgets-timekettle-w4-plus); same product, same outlet, different URL."
-      },
-      {
-        "url": "https://www.engadget.com/2250009/dji-launches-new-robot-vacuums-with-an-eye-toward-data-privacy/",
-        "reason": "Same DJI ROMO 2 launch (LiDAR mop arms + local data mode) already published 2026-09-07 via TechRadar (gadgets-dji-romo-2)."
-      },
-      {
-        "url": "https://www.techradar.com/home/robot-vacuums/the-roomba-duo-is-a-floor-cleaning-behemoth-that-can-pull-a-tiny-robovac-from-its-hat-and-its-irobots-attempt-at-rejecting-the-spec-wars-and-trying-something-different-something-new",
-        "reason": "Roomba Duo concept already published 2026-09-08 via Gizmodo (gadgets-roomba-duo)."
-      },
-      {
-        "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
-        "reason": "Same Apple Watch Series 12 Audio Intelligence announcement (Live Rewind et al.) already published 2026-09-12 via TechRadar (gadgets-live-rewind-w8m)."
-      },
-      {
-        "url": "https://www.tomsguide.com/wellness/fitness-trackers/the-5-coolest-pieces-of-wearable-tech-i-demoed-at-ifa-2026-in-berlin",
-        "reason": "IFA wearables roundup whose headline items (Odyss N1, iKairos) were already published 2026-09-08 and 2026-09-05; reworked coverage of the same stories."
-      },
-      {
-        "url": "https://gizmodo.com/gizmodos-best-of-ifa-2026-awards-see-the-winners-2000800027",
-        "reason": "IFA 2026 best-of awards roundup; same event roundup already published 2026-09-09 via TechRadar (gadgets-ifa26-best-in-show-q2n)."
-      }
-    ],
-    "backfilled_not_used": [
-      "https://www.digitaltrends.com/wearables/samsungs-next-ai-glasses-could-finally-put-a-screen-in-front-of-your-eyes/",
-      "https://www.digitaltrends.com/phones/apple-intelligence-is-getting-usage-limits-and-heres-what-it-means-for-you/",
-      "https://www.tomsguide.com/ai/dex-language-discovery-camera-review-the-rare-ai-gadget-that-keeps-up-with-my-non-stop-5-year-old",
-      "https://www.tomsguide.com/computing/virtual-reality/pimax-dream-air-review",
-      "https://www.techradar.com/home/robot-vacuums/itll-light-up-your-home-like-a-bowling-alley-dysons-new-nurovi-robot-vacuum-has-a-uv-light-to-show-up-invisible-spills-and-im-not-sure-im-ready-to-see-whats-on-my-floors",
-      "https://gizmodo.com/google-may-finally-release-laptops-you-cant-just-ignore-2000810692",
-      "https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/",
-      "https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us",
-      "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
-      "https://www.notebookcheck.net/Colorful-shows-off-AMD-powered-gaming-laptop-with-up-to-128-GB-RAM-and-Radeon-8060S-iGPU.1397295.0.html"
-    ],
-    "diversity_check": "5 distinct outlets (Android Authority, UploadVR, Digital Trends, Gizmodo, 9to5Mac), max 1 per outlet; clusters spread across on-device silicon, XR/headset-as-monitor, phone hardware form factor, home-robot regulation, and Apple platform AI — no cluster repeated."
-  }
+  ]
 }

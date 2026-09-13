@@ -1,96 +1,71 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "movies",
   "picks": [
     {
-      "headline": "Amazon's Prime Video Is Using AI to Lip-Sync Actors' Mouths in Dubbed Titles, Starting With German Series 'Maxton Hall'",
-      "url": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/",
-      "source": "Variety",
-      "published_iso": "2026-09-09T13:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=563&crop=1",
-      "excerpt": "Prime Video is applying AI visual dubbing to alter actors' mouth movements so English dubs match the dialogue, beginning with the German series 'Maxton Hall.' It moves lip-sync dubbing from beta demos into a streamer's shipping localization pipeline.",
+      "url": "https://www.awn.com/news/vicon-acquires-captive-devices-facial-capture-firm",
+      "source": "Animation World Network",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "AI visual dubbing crosses from demo reel into a major streamer's shipping localization pipeline, which resets what delivery specs and dub budgets look like."
+      "title": "Vicon Acquires Captive Devices Facial Capture Firm",
+      "published_iso": "2026-09-08T20:12:00Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/head_mounted_camera_image2-1280.jpg?itok=GZQGZjfu",
+      "excerpt": "The Oxford Metrics motion capture division picks up the Manchester maker of the CoreHMC head-mounted rig, which feeds performer data into Unreal Engine and MetaHuman Animator.",
+      "rationale": "Concrete performance-capture pipeline consolidation — CoreHMC feeding Unreal/MetaHuman changes what a facial-capture stage can budget for next season."
     },
     {
-      "headline": "Nice Touch V2: an AI edit assistant for professional editors",
-      "url": "https://www.provideocoalition.com/nice-touch-v2-an-ai-edit-assistant-for-professional-editors/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-11T08:14:39-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg",
-      "excerpt": "Nice Touch shipped V2, a full rebuild of its AI workflow/edit assistant that runs inside Adobe Premiere Pro and DaVinci Resolve. The company says the redesign came out of more than 300 conversations with editors, producers, post supervisors and studio owners.",
+      "url": "https://www.screendaily.com/news/mind-the-gap-selling-ai-val-kilmer-in-as-deep-as-the-grave-at-tiff/5220305.article",
+      "source": "Screen Daily",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "A ground-up rebuild of an assistant that lives inside Premiere and Resolve — the most directly installable change to an editor's day in this batch."
+      "title": "Mind The Gap selling AI Val Kilmer in 'As Deep As The Grave' at TIFF",
+      "published_iso": "2026-09-11T11:00:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/1/9/1487119_valkilmerasdeepasthegrave11_364276_crop.jpg",
+      "excerpt": "Mind The Gap arrived at TIFF: The Market selling historical drama 'As Deep As The Grave,' which uses AI to recreate the late Val Kilmer in a role he signed on for before his death — with family permission, SAG-AFTRA compliance and estate compensation.",
+      "rationale": "A synthetic-performance deal actually going to market with consent, SAG-AFTRA compliance and estate payment — the template other productions will be asked to copy."
     },
     {
-      "headline": "Beeble introduces SwitchX 2.0 with native 4K, longer shots and more",
-      "url": "https://www.provideocoalition.com/beeble-introduces-switchx-2-0-with-native-4k-longer-shots-and-more/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-11T02:51:19-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh002.jpg",
-      "excerpt": "Beeble's SwitchX 2.0 lets filmmakers and VFX artists change lighting, backgrounds and props in existing footage, now at native 4K, 10-bit, and up to 20-second clips at 24fps. The update also improves camera tracking, motion fidelity and lip sync.",
+      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
+      "source": "Variety",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Native 4K, 10-bit and 20-second shots push in-footage relighting past demo length into something you can actually cut into a delivery."
+      "title": "Kling AI's TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking",
+      "published_iso": "2026-09-12T16:08:35Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Kling AI powered and hosts the TIFF The Market panel 'New Creative Paradigm: Consistent, Cinematic AI Video' in Toronto.",
+      "rationale": "Working filmmakers naming where generative video still breaks — consistency, continuity, control — and how they route around it on real shoots."
     },
     {
-      "headline": "Maxon to Preview Fall Cinema 4D, ZBrush and Redshift Updates at IBC2026",
-      "url": "https://www.awn.com/news/maxon-preview-fall-cinema-4d-zbrush-and-redshift-updates-ibc2026",
-      "source": "Animation World Network",
-      "published_iso": "2026-09-10T20:08:55+00:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB",
-      "excerpt": "Maxon's October ecosystem release previews new 3D world-building in Cinema 4D, a desktop-and-iPad ZBrush sculpting workflow, procedural fur, and AI-powered relighting in Redshift. Booth visitors got the early look September 11-14.",
+      "url": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/",
+      "source": "Animation Magazine",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Names what lands in Cinema 4D, ZBrush and Redshift in October — including AI relighting — early enough for 3D teams to plan the upgrade."
+      "title": "Animation Vets Joel Kuwahara & Mark Evestaff Launch 'The Salty Tales of Tony & Keith' AI-Assisted Series",
+      "published_iso": "2026-09-11T17:23:42Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-kv.jpg",
+      "excerpt": "'The Salty Tales of Tony & Keith' is a hybrid traditional/AI assisted pipeline 2D series from alums of 'Bob's Burgers' and 'The Snoopy Show.'",
+      "rationale": "Veteran 2D showrunners publishing an actual hybrid hand-drawn/AI pipeline — a concrete production model rather than a manifesto."
     },
     {
-      "headline": "Acon Acoustica 8 Provides AI-Assisted Audio Workflow Tools",
-      "url": "https://postperspective.com/acon-acoustica-8-provides-ai-assisted-audio-workflow-tools/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-11T17:37:44+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
-      "excerpt": "Acon Digital released Acoustica 8, adding AI-assisted tools to its audio editing, restoration and mastering suite. The company frames the release as a direct response to technical problems raised by working audio post professionals.",
+      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
+      "source": "IndieWire",
       "tool": "Movies",
+      "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Restoration and mastering AI aimed at problems audio post actually reported, keeping the batch from being all picture-side tooling."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
-      "reason": "Same release as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Adobe's IBC Premiere AI / Generative Media Tool), reframed as an Adobe interview at a different outlet."
-    },
-    {
-      "url": "https://nofilmschool.com/adobe-generative-media-tool",
-      "reason": "Same release as published 2026-09-09 card movies-adobe-ibc-genmedia-a7k (Generative Media Tool in the Premiere timeline), different outlet."
-    },
-    {
-      "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
-      "reason": "Same announcement as published 2026-09-09 card movies-revize-pitchblack-d4t (REVIZE rolling out to FOLKS, El Ranchito, Square One), different outlet."
-    },
-    {
-      "url": "https://beforesandafters.com/2026/09/10/hope/",
-      "reason": "Already published as the 2026-09-04 card movies-hope-mocap (same URL/story, now rolled out of the 5-day window)."
-    },
-    {
-      "url": "https://www.provideocoalition.com/colorfront-and-qumulo-at-ibc2026-metadata-does-not-have-to-die-in-transit/",
-      "reason": "Surviving but not picked — would have made a third ProVideo Coalition card, breaking the max-2-per-outlet diversity guard."
-    },
-    {
-      "url": "https://postperspective.com/avid-media-composer-2026-8-at-ibc-agentic-workflows-more/",
-      "reason": "Surviving but not picked — published 2026-08-31, and its Media Composer 2026.8 substance already surfaced via the 2026-09-12 SNS EVO card."
-    },
-    {
-      "url": "https://www.redsharknews.com/ibc2026-top-10-things-to-see",
-      "reason": "Surviving but not picked — floor-guide roundup whose AI highlights (Adobe Generative Media Tool, Eddie AI) are already published cards."
+      "title": "Venice Jury President Maggie Gyllenhaal on Her Short 'Flesh Impact,' Casting Ellen Burstyn, and AI",
+      "published_iso": "2026-09-12T17:23:31Z",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
+      "excerpt": "Venice 2026 competition jury president Maggie Gyllenhaal discusses her short 'Flesh Impact,' starring Ellen Burstyn, and why her AI experiment failed.",
+      "rationale": "A director who ran the AI experiment on a real short and reports exactly where it broke — the rare negative result with craft detail attached."
     }
   ]
 }

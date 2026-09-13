@@ -1,98 +1,90 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "books",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "source": "Publishers Weekly",
       "tool": "Books",
-      "category": "books",
-      "headline": "Spotify's AI-powered audiobook narration opens up to all authors",
-      "url": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-10T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
-      "excerpt": "Spotify is opening its AI audiobook narration program to all authors, using ElevenLabs voice models to produce the audio at no cost and with no exclusivity requirement — a direct challenge to Audible/ACX economics for indie authors.",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Highest actionability in the pool: a free, non-exclusive AI narration route that changes an author's audiobook decision this week."
+      "rationale": "Both sides now move for summary judgment in the Authors Guild/OpenAI case — the ruling that will set the fair-use line every author and publisher plans around.",
+      "published_iso": "2026-09-09T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131296-1.JPG",
+      "excerpt": "The Authors Guild and 13 co-plaintiffs including Jonathan Franzen and George R.R. Martin, along with OpenAI and Microsoft, have all asked a U.S. District Court for summary judgment on data scraping, copyright, and fair use.",
+      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case",
+      "category": "books"
     },
     {
-      "rank": 2,
+      "url": "https://www.thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler",
+      "source": "The Bookseller",
       "tool": "Books",
-      "category": "books",
-      "headline": "Publishing's AI Reckoning",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131354-1.PNG",
-      "excerpt": "PW's cover feature on how the book business is learning to live with generative AI, for better and worse: HarperCollins moving to automate overseas translation, Wiley booking $49M in AI licensing revenue in FY2026, and editorial teams absorbing AI into everyday production.",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "PW cover feature with hard numbers (Wiley's $49M AI licensing line, HarperCollins translation automation) that set the industry baseline."
+      "rationale": "Axel Scheffler puts a named, working illustrator's economics on the record — the clearest creator-side case yet for why picture-book commissioning has to change now.",
+      "published_iso": "2026-09-09T11:00:00Z",
+      "og_image": "",
+      "excerpt": "Illustrator Axel Scheffler argues generative AI is a real and immediate threat to the livelihoods of book illustrators, and calls on government to act.",
+      "title": "AI is a real threat to illustrators, and the government must act",
+      "category": "books"
     },
     {
-      "rank": 3,
+      "url": "https://www.researchinformation.info/news/springer-nature-launches-framework-on-use-of-artificial-intelligence/",
+      "source": "Research Information",
       "tool": "Books",
-      "category": "books",
-      "headline": "50 Things Every AI Working With Humans Should Know — Ken Liu's machine-assisted story",
-      "url": "https://lithub.com/50-things-every-ai-working-with-humans-should-know/",
-      "source": "Literary Hub",
-      "published_iso": "2026-09-09T08:03:55Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/08/passing-of-the-dragon.jpg",
-      "excerpt": "Lit Hub publishes Ken Liu's new story, written in explicit collaboration with AI systems and accompanied by an interview explaining the method — a rare documented craft record of literary co-writing rather than a disclosure scandal.",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Rare primary artifact: a major author publishing an AI-co-written story plus the method behind it, not another disclosure controversy."
+      "rationale": "A named framework from one of the largest publishers tells authors and editors exactly which AI uses are allowed and which must be disclosed — a rulebook you can act on tomorrow.",
+      "published_iso": "2026-09-10T08:00:20+00:00",
+      "og_image": "",
+      "excerpt": "Springer Nature has published a framework setting out how AI should be used across its publishing operations and by its authors.",
+      "title": "Springer Nature launches framework on use of artificial intelligence",
+      "category": "books",
+      "_note": "The Bookseller's OUP guideline update (2026-09-12, already published) is a different publisher and a different document; kept as distinct."
     },
     {
-      "rank": 4,
-      "tool": "Books",
-      "category": "books",
-      "headline": "Ingram's AI Rollout Is a Success",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101218-ingram-s-ai-rollout-is-a-success.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101219-an-ai-company-that-picks-up-the-phone-pw-talks-with-hannah-johnson.html",
       "source": "Publishers Weekly",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131360-1.PNG",
-      "excerpt": "Fifteen months into deploying AI across its operations, Ingram says the technology is already changing how the distributor does business — from metadata and customer service to print-on-demand workflow decisions.",
+      "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Supply-side evidence with a 15-month track record — metadata and print-on-demand workflow changes that reach every publisher selling through Ingram."
+      "rationale": "Rare hard number on AI in publishing operations — 50,000 books a month through one platform — and a vendor pitching human support as the differentiator.",
+      "published_iso": "2026-09-11T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131361-1.PNG",
+      "excerpt": "Veristage says publishers now process the equivalent of more than 50,000 books per month through Insight, its AI publishing services platform — a U.S.-based AI-driven publishing services company that answers the phone.",
+      "title": "An AI Company That Picks Up the Phone: PW Talks with Hannah Johnson",
+      "category": "books"
     },
     {
-      "rank": 5,
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "source": "Ars Technica",
       "tool": "Books",
-      "category": "books",
-      "headline": "What Machines Can't Replace: Why AI Makes Us More Human, with Anna McPhee",
-      "url": "https://www.thecreativepenn.com/2026/09/09/what-machines-cant-replace-why-ai-makes-us-more-human-with-anna-mcphee/",
-      "source": "The Creative Penn",
-      "published_iso": "2026-09-09T06:30:00Z",
-      "og_image": null,
-      "excerpt": "Software engineer, author and creative technologist Anna McPhee walks through an author workflow that uses AI for research, editing, admin and marketing while every word of the book stays human-written — a concrete division-of-labour model for creative work.",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A concrete, copyable division of labour between AI and human craft — the only workflow-level pick, balancing four industry/litigation-leaning stories."
+      "rationale": "Sanctions land on a professional who shipped LLM-invented sources — the sharpest reminder that anyone drafting with AI owns every citation in the manuscript.",
+      "published_iso": "2026-09-11T19:34:09+00:00",
+      "og_image": "",
+      "excerpt": "A lawyer was sanctioned after ChatGPT-generated filings cited fake testimony from witnesses who never existed — a cautionary tale for anyone drafting with an LLM.",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "category": "books"
     }
   ],
-  "dedup_notes": {
-    "published_history_checked": ["2026-09-12 (today)", "2026-09-09", "2026-09-08", "2026-09-07", "2026-09-06", "2026-09-05"],
-    "dropped": [
-      {
-        "url": "https://authorsguild.org/news/plaintiffs-file-motion-for-summary-judgment-v-openai-and-microsoft/",
-        "reason": "Same 4 Sept summary-judgment round in the In re OpenAI MDL already covered twice — Microsoft's own motion (unite.ai, 2026-09-07) and the DOJ statement of interest (Publishing Perspectives, 2026-09-05). Content duplicate of a published story, and the oldest item in the pool."
-      },
-      {
-        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
-        "reason": "Same-day PW package sibling whose core topic (automating translation) is already carried inside pick #2's feature, and translation-vs-translators was published 2026-09-12 (Webtoon) and 2026-09-09 (Audible). Also would have made a third PW card, breaking the 2-per-outlet cap."
-      },
-      {
-        "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
-        "reason": "Reaction round-up to the DOJ NYT v. OpenAI filing already published 2026-09-05, alongside the AAP amicus (2026-09-08) — heavy topical overlap, ranked below the surviving five."
-      },
-      {
-        "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
-        "reason": "Fresh and non-duplicate but ranked 6th — abstract strategy framing with lower actionability than the five picks; held as the first backfill if any pick fails downstream."
-      }
-    ],
-    "diversity": "5 picks / 4 distinct outlets (Publishers Weekly 2 = at cap, Jane Friedman 1, Literary Hub 1, The Creative Penn 1). Single-category section, so each pick carries a distinct accent from sources.json palette."
-  }
+  "dropped_as_duplicates": [
+    {
+      "url": "https://janefriedman.com/disagreements-in-the-anthropic-settlement-were-inevitable-but-it-feels-worse-than-expected/",
+      "reason": "Same story as the already-published TechCrunch piece (2026-09-09): authors vs publishers/agents fighting over the ~$3,000-per-work Anthropic settlement shares."
+    },
+    {
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "reason": "Same event as the already-published Publishing Perspectives piece (2026-09-05): the DOJ Statement of Interest backing fair use in NYT v. OpenAI."
+    },
+    {
+      "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court/",
+      "reason": "Within-pool duplicate of the same summary-judgment filings covered by the Publishers Weekly pick; kept the stronger source."
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
+      "reason": "Same PW translation package as the already-published 'What Webtoon's AI partnership could mean for translators' (2026-09-12); treated as one content hub."
+    }
+  ]
 }
