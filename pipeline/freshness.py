@@ -1,14 +1,17 @@
 """Deterministic recency gate (UTC). Window is per-section:
-  - design: previous 72 hours (tight — the design beat moves fast and is dense).
-  - other sections (music, movies, games, books): previous 14 days (336h) — these
-    domains publish AI news less often, so a wider window fills 3-5 cards.
+  - design, politics: previous 72 hours (tight — both beats move fast and are dense,
+    and a two-week-old ruling or export-control decision is already stale news).
+  - other sections (music, movies, games, books, gadgets, science): previous 14 days
+    (336h) — these domains publish AI news less often, so a wider window fills 3-5 cards.
 Usage: freshness.py <published_iso> <now_iso> [section]   (section defaults to design)
 """
 import sys
 from datetime import datetime, timezone
 
-DESIGN_WINDOW_H = 72
-OTHER_WINDOW_H = 336  # 14 days
+FAST_WINDOW_H = 72
+SLOW_WINDOW_H = 336  # 14 days
+# Sections whose beat is dense enough to sustain the tight window.
+FAST_SECTIONS = {"design", "politics"}
 
 def _parse(iso):
     if not iso:
@@ -23,7 +26,7 @@ def _parse(iso):
         return None
 
 def window_hours(now_iso, section="design"):
-    return DESIGN_WINDOW_H if section == "design" else OTHER_WINDOW_H
+    return FAST_WINDOW_H if section in FAST_SECTIONS else SLOW_WINDOW_H
 
 def is_fresh(published_iso, now_iso, section="design"):
     pub = _parse(published_iso)

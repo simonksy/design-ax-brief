@@ -54,6 +54,13 @@
       "categories": [
         "science"
       ]
+    },
+    {
+      "section": "politics",
+      "label": "Politics",
+      "categories": [
+        "politics"
+      ]
     }
   ],
   "categories": [
@@ -383,6 +390,49 @@
         "allenai.org"
       ],
       "_note": "AI x science: psychology, cognitive science, life science, materials science, biology, astronomy, physics, quantum. Crawler-blocked/paywalled majors (nature.com, science.org) deliberately excluded — phys.org / quantamagazine / arxiv usually carry the same research with verifiable published times. Relevance test: keep only items where AI actually advances or intersects scientific research/method; drop pure AI-industry noise (funding, compute, hiring)."
+    },
+    {
+      "category": "politics",
+      "label": "Politics",
+      "motif": "cube",
+      "accent": "#3b6bff",
+      "allowed_domains": [
+        "techpolicy.press",
+        "lawfaremedia.org",
+        "brookings.edu",
+        "carnegieendowment.org",
+        "cset.georgetown.edu",
+        "ainowinstitute.org",
+        "hai.stanford.edu",
+        "iapp.org",
+        "fpf.org",
+        "epic.org",
+        "oecd.ai",
+        "nist.gov",
+        "digital-strategy.ec.europa.eu",
+        "artificialintelligenceact.eu",
+        "politico.eu",
+        "euractiv.com",
+        "theverge.com",
+        "arstechnica.com",
+        "technologyreview.com",
+        "wired.com",
+        "theregister.com",
+        "axios.com",
+        "restofworld.org",
+        "apnews.com",
+        "niemanlab.org",
+        "cjr.org",
+        "poynter.org",
+        "misinforeview.hks.harvard.edu",
+        "bellingcat.com",
+        "csis.org",
+        "rand.org",
+        "thediplomat.com",
+        "chinatalk.media",
+        "semianalysis.com"
+      ],
+      "_note": "AI x politics, on three axes only: (1) POLICY/REGULATION - AI acts, executive orders, copyright and liability litigation, national AI strategies, safety and privacy rulemaking, procurement rules; (2) AI IN ELECTIONS/PUBLIC OPINION - deepfakes, synthetic campaign media, bot-driven astroturfing, platform labelling and provenance rules, political communication; (3) AI GEOPOLITICS - chip export controls, US-China AI competition, sovereign AI programs, datacenter siting diplomacy, compute and talent flows. OUT OF SCOPE: general political news with no AI axis (elections, personnel, party politics as such). Relevance test: AI must be what makes the story happen - if you can delete AI from the headline and it still stands, drop it. NEUTRALITY (required): report what was decided/filed/published and what it changes for people who build with AI. No partisan framing, no endorsement or criticism of parties or candidates, no horse-race or polling commentary. Attribute contested claims to the named party rather than asserting them. Prefer the primary document (bill text, ruling, agency release) over commentary about it. Crawler-blocked/paywalled majors (reuters.com, bloomberg.com, ft.com, wsj.com, nytimes.com, economist.com, foreignpolicy.com) deliberately excluded - published times are unverifiable there; the outlets above usually carry the same decision with a readable timestamp."
     }
   ],
   "palette": [
