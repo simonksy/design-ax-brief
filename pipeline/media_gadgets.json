@@ -1,32 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-snapdragon-npu-k4p",
+      "id": "gadgets-unitree-robot-dog",
       "type": "image",
-      "src": "pipeline/media/gadgets-snapdragon-npu-k4p.jpg"
+      "src": "pipeline/media/gadgets-unitree-robot-dog.jpg",
+      "poster": "pipeline/media/gadgets-unitree-robot-dog.jpg"
     },
     {
-      "id": "gadgets-quest-virtual-display-r7m",
-      "type": "video",
-      "src": "pipeline/media/gadgets-quest-virtual-display-r7m.mp4",
-      "poster": "pipeline/media/gadgets-quest-virtual-display-r7m.jpg"
+      "id": "gadgets-rayneo-io-glasses",
+      "type": "image",
+      "src": "pipeline/media/gadgets-rayneo-io-glasses.jpg",
+      "poster": "pipeline/media/gadgets-rayneo-io-glasses.jpg"
     },
     {
-      "id": "gadgets-honor-robot-phone-v2q",
+      "id": "gadgets-dex-kids-camera",
       "type": "image",
-      "src": "pipeline/media/gadgets-honor-robot-phone-v2q.jpg"
+      "src": "pipeline/media/gadgets-dex-kids-camera.jpg",
+      "poster": "pipeline/media/gadgets-dex-kids-camera.jpg"
     },
     {
-      "id": "gadgets-fcc-robomower-exemption-t9x",
+      "id": "gadgets-ai-agent-home-hack",
       "type": "image",
-      "src": "pipeline/media/gadgets-fcc-robomower-exemption-t9x.jpg"
+      "src": "pipeline/media/gadgets-ai-agent-home-hack.jpg",
+      "poster": "pipeline/media/gadgets-ai-agent-home-hack.jpg"
     },
     {
-      "id": "gadgets-siri-ai-launch-h6z",
+      "id": "gadgets-arm-c2-mali",
       "type": "image",
-      "src": "pipeline/media/gadgets-siri-ai-launch-h6z.jpg"
+      "src": "pipeline/media/gadgets-arm-c2-mali.jpg",
+      "poster": "pipeline/media/gadgets-arm-c2-mali.jpg"
     }
   ]
 }

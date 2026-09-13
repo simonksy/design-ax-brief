@@ -1,33 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "movies",
   "media": [
     {
-      "id": "movies-primevideo-dub-q3m",
+      "id": "movies-vicon-captive",
       "type": "image",
-      "src": "pipeline/media/movies-primevideo-dub-q3m.jpg"
+      "src": "pipeline/media/movies-vicon-captive.jpg",
+      "poster": "pipeline/media/movies-vicon-captive.jpg"
     },
     {
-      "id": "movies-nicetouch-v2-h8v",
+      "id": "movies-val-kilmer-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-val-kilmer-ai.jpg",
+      "poster": "pipeline/media/movies-val-kilmer-ai.jpg"
+    },
+    {
+      "id": "movies-kling-tiff-panel",
+      "type": "image",
+      "src": "pipeline/media/movies-kling-tiff-panel.jpg",
+      "poster": "pipeline/media/movies-kling-tiff-panel.jpg"
+    },
+    {
+      "id": "movies-tony-keith",
       "type": "video",
-      "src": "pipeline/media/movies-nicetouch-v2-h8v.mp4",
-      "poster": "pipeline/media/movies-nicetouch-v2-h8v.jpg"
+      "src": "pipeline/media/movies-tony-keith.mp4",
+      "poster": "pipeline/media/movies-tony-keith.jpg"
     },
     {
-      "id": "movies-switchx-two-t5k",
-      "type": "video",
-      "src": "pipeline/media/movies-switchx-two-t5k.mp4",
-      "poster": "pipeline/media/movies-switchx-two-t5k.jpg"
-    },
-    {
-      "id": "movies-maxon-fall-ibc-b2r",
+      "id": "movies-gyllenhaal-flesh",
       "type": "image",
-      "src": "pipeline/media/movies-maxon-fall-ibc-b2r.jpg"
-    },
-    {
-      "id": "movies-acoustica-eight-w9n",
-      "type": "image",
-      "src": "pipeline/media/movies-acoustica-eight-w9n.jpg"
+      "src": "pipeline/media/movies-gyllenhaal-flesh.jpg",
+      "poster": "pipeline/media/movies-gyllenhaal-flesh.jpg"
     }
   ]
 }

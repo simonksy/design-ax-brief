@@ -1,139 +1,183 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "science",
-  "now_iso": "2026-09-12T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "source": "Phys.org",
-      "category": "science",
-      "headline": "Researchers eye AI revolution in natural disaster forecasts",
-      "url": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "excerpt": "Swiss researchers are pairing roughly 100 petabytes of NASA Earth-observation and climate data with supercomputing to train AI models that cut forecast turnaround to minutes. The goal is spotting precursors of floods and glacier collapses that physics-based models miss.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg"
-    },
-    {
-      "source": "Scientific American",
-      "category": "science",
-      "headline": "How AI can help with early schizophrenia diagnosis",
-      "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
-      "published_iso": "2026-09-12T11:00:00Z",
-      "excerpt": "Speech carries subtle acoustic and semantic markers of psychosis onset, and researchers are testing whether models can hear those differences earlier than human psychiatrists. The piece weighs the clinical upside against the risk of premature labeling.",
-      "og_image": null
-    },
-    {
-      "source": "Scientific American",
-      "category": "science",
-      "headline": "AI has finally come for math—mathematicians might never recover",
-      "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
-      "published_iso": "2026-09-10T07:30:00Z",
-      "excerpt": "After a summer of AI-assisted proofs, mathematicians are openly debating what remains distinctly human about their craft. The reporting tracks how proof-assistant workflows and reasoning models are reorganizing the discipline's daily practice.",
-      "og_image": null
-    },
-    {
-      "source": "Scientific American",
-      "category": "science",
-      "headline": "How introverted or extroverted you are may influence how you use AI",
-      "url": "https://www.scientificamerican.com/article/how-introverted-or-extroverted-you-are-may-influence-how-you-use-ai/",
-      "published_iso": "2026-09-07T12:00:00Z",
-      "excerpt": "New behavioral research links personality traits to how people prompt and rely on generative AI, with introverts and extroverts adopting measurably different strategies. The finding suggests one-size-fits-all AI interfaces leave capability on the table.",
-      "og_image": null
-    },
-    {
-      "source": "Google DeepMind",
-      "category": "science",
-      "headline": "AlphaGenome Atlas: a predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "excerpt": "DeepMind released predictions for the molecular effects of 9 billion single-nucleotide variants — every possible one-letter change in the human genome — across coding and non-coding regions. Researchers can now look up a variant's predicted regulatory impact instead of running it themselves.",
-      "og_image": "https://lh3.googleusercontent.com/QgfG84W6jCtJ-CUm9zL1nLLNGTSqdCu-aQwKh-XmOQ-b-elP5oFEYEJpYi6lHRp0Ybzrh_OKHngAgv3L1lPoz8FM3FWoqGh-RnFuOgKKC-aL0sf8-No=w1440-h810-n-nu"
+      "source": "Google DeepMind",
+      "published_iso": "2026-09-08T14:00:15Z",
+      "og_image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w1200-h630-n-nu-rw",
+      "title": "AlphaGenome Atlas: a predictive map of every possible DNA letter change in the human genome",
+      "excerpt": "DeepMind released AlphaGenome Atlas, molecular predictions for roughly 9 billion possible single-letter human DNA variants, turning a genome model into a browsable reference map for researchers.",
+      "category": "science"
     },
     {
-      "source": "Live Science",
-      "category": "science",
-      "headline": "AI trained to 'think' like human pathologists may be better at spotting cancer",
-      "url": "https://www.livescience.com/health/cancer/ai-trained-to-think-like-human-pathologists-may-be-better-at-spotting-cancer",
-      "published_iso": "2026-09-12T12:00:00Z",
-      "excerpt": "Pathology-o3 was trained on pathologists' actual search behavior — how they pan and zoom across a slide — rather than on pre-cropped regions. It flagged 100% of cancer-positive slides in testing, with a deliberately tolerated 15.5% false-positive rate.",
-      "og_image": null
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-09-13T12:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "excerpt": "AI analysis of 400,000 Reddit posts found that users of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro and Zepbound reported unexpected symptoms that clinical trials had missed.",
+      "category": "science"
     },
     {
-      "source": "Universe Today",
-      "category": "science",
-      "headline": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-09-06T12:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp",
+      "title": "AI can now control fusion plasma faster than humans can react",
+      "excerpt": "Princeton researchers tested PACMAN, an AI system that monitors and controls fusion plasma in milliseconds, reacting far faster than a human operator can.",
+      "category": "science"
+    },
+    {
       "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
-      "published_iso": "2026-09-12T12:27:43Z",
-      "excerpt": "Clouds, sun angle and irregular revisit times confuse standard deep-learning pipelines for satellite Earth observation. Researchers propose bio-inspired Liquid Neural Networks, whose continuous-time dynamics adapt to inconsistent input streams onboard.",
-      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_-_clouds_cropped_cropped_20260912_122725.jpg"
-    },
-    {
       "source": "Universe Today",
-      "category": "science",
-      "headline": "JWST Ruled Out Finding Tiny Moons Around An Exoplanet - That's Great News",
-      "url": "https://www.universetoday.com/articles/jwst-ruled-out-finding-tiny-moons-around-an-exoplanet-thats-great-news",
-      "published_iso": "2026-09-10T14:42:29Z",
-      "excerpt": "A JWST non-detection of exomoons sets a useful upper limit, and the authors argue machine-learning analysis of repeated observations is the path to pulling real exomoon signals out of instrumental noise. It is a template for how ML changes null results into constraints.",
-      "og_image": null
+      "published_iso": "2026-09-12T12:27:43Z",
+      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_.jpg",
+      "title": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+      "excerpt": "Monitoring Earth from orbit is messy: clouds block views, sun angles create shadows and orbits shift. Researchers propose liquid neural networks to keep Earth-observation models adapting in real time.",
+      "category": "science"
     },
     {
-      "source": "Physics World",
-      "category": "science",
-      "headline": "Using AI to plan for climate variability in renewable energy systems",
+      "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-12T11:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/7050cf6c-9ae3-49c7-a71f-0c9882daac1e/AI-face.jpg",
+      "title": "How AI can help with early schizophrenia diagnosis",
+      "excerpt": "The speech of people with schizophrenia sounds subtly different from that of healthy counterparts. Researchers are testing whether AI can hear those differences earlier and better than human psychiatrists.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-10T07:30:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/c3f3f4d8-0ca3-4b92-bb55-2d76fa7ad19a/saw0926-lead.jpg",
+      "title": "If AI can do math, what's the point of mathematicians?",
+      "excerpt": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out as AI systems start clearing research-level problems.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-08T12:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/e182ce38-ebe2-411e-b937-47f6030e4f72/AI-math-brain.jpg",
+      "title": "AI may have just solved a million-dollar math problem. The field will never be the same",
+      "excerpt": "A mathematician compared the feat to the history-making 1997 chess match in which IBM's Deep Blue beat Garry Kasparov.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.livescience.com/space/astronomy/see-the-highest-resolution-images-of-a-black-hole-jet-ever-taken-thanks-to-ai-and-27-years-of-observations",
+      "source": "Live Science",
+      "published_iso": "2026-09-09T17:34:51Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XnqQMV6uNvaYq89t8wRYGA.gif",
+      "title": "See the highest-resolution footage of a black hole jet ever taken, thanks to AI and 27 years of observations",
+      "excerpt": "Researchers combined more than 100 images of a single black hole into an AI-reconstructed video charting the activity of a mighty blazar jet.",
+      "category": "science"
+    },
+    {
       "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
-      "published_iso": "2026-09-09T09:30:45Z",
-      "excerpt": "An AI model trained on 30 years of meteorological data generates realistic synthetic weather years, letting planners size batteries and hydrogen storage against tail-risk conditions rather than averages. The approach surfaces failure modes that historical-average planning hides.",
-      "og_image": null
-    },
-    {
       "source": "Physics World",
-      "category": "science",
-      "headline": "How far ahead can we predict the weather?",
-      "url": "https://physicsworld.com/a/how-far-ahead-can-we-predict-the-weather/",
-      "published_iso": "2026-09-10T12:00:54Z",
-      "excerpt": "Physicists revisit the predictability limit of the atmosphere now that AI-based models match or beat numerical weather prediction at a fraction of the compute. The question is whether data-driven emulators push the horizon out or just get cheaper.",
-      "og_image": null
+      "published_iso": "2026-09-09T09:30:45Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/weather-119470873-shutterstock-solarseven.jpg",
+      "title": "Using AI to plan for climate variability in renewable energy systems",
+      "excerpt": "A new AI approach models how batteries and hydrogen storage can improve renewable energy reliability under a changing climate.",
+      "category": "science"
     },
     {
-      "source": "Psychology Today",
-      "category": "science",
-      "headline": "AI Behavior Impacted by Internal Confidence Levels",
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/ai-behavior-impacted-by-internal-confidence-levels",
-      "published_iso": "2026-09-08T00:00:00Z",
-      "excerpt": "Google DeepMind researchers report in Nature Machine Intelligence that LLMs use internal confidence signals to decide when to abstain from answering — a form of metacognitive control paralleling humans and animals. It reframes hallucination as a calibration problem, not just a knowledge gap.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII"
+      "url": "https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-hidden-h.jpg",
+      "title": "AI helps find hidden human proteins and reveals what they do",
+      "excerpt": "Researchers used AI to scan over 214 million predicted proteins by 3D structure rather than sequence, surfacing unrecognized GPCR-family members including TM184C and its role in cell-to-cell bridges.",
+      "category": "science"
     },
     {
-      "source": "Medical Xpress",
-      "category": "science",
-      "headline": "AI-assisted imaging tool for breast cancer could tailor screening for women according to individual risk",
-      "url": "https://medicalxpress.com/news/2026-09-ai-imaging-tool-breast-cancer.html",
-      "published_iso": "2026-09-10T00:00:00Z",
-      "excerpt": "NYU Langone's NYU-DRP reads multiple years of a patient's 3D mammograms together, beating single-scan models and traditional risk scores at predicting future breast cancer. The pitch is screening intervals set per person rather than per age bracket.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/mammography.jpg"
+      "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toward-future-ready-fo.jpg",
+      "title": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
+      "excerpt": "Researchers describe packaging that can 'see' what is happening inside a container and use AI to translate those signals into real-time spoilage information for producers and consumers.",
+      "category": "science"
     },
     {
+      "url": "https://phys.org/news/2026-09-ai-torrential-frontier-weather.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-tame-torrential.jpg",
+      "title": "Can AI tame torrential rain by 2050? The next frontier of weather control and forecasting",
+      "excerpt": "Japanese researchers are pairing AI forecasting with an unconventional plan to artificially induce heavy rainfall over the ocean to blunt extreme downpours on land.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+      "source": "Space.com",
+      "published_iso": "2026-09-12T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-2000-80.jpg",
+      "title": "NASA, IBM launch new AI model for studying the moon",
+      "excerpt": "NASA and IBM released a Lunar Foundation Model trained on 17 years of orbital data, letting scientists map ice, craters and volcanic terrain across the moon.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-09-10T08:58:01Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Ensemble-contributed-iStock-2263561985.jpg",
+      "title": "Healthcare AI's next test is integration",
+      "excerpt": "Advanced AI excels at processing clinical data, but healthcare's real test is overcoming deeply fragmented administrative workflows.",
+      "category": "science"
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/09/10/researchers-and-ai-agents-cut-estimated-quantum-cost-of-attacking-bitcoin-encryption-by-86/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-09-10T13:23:36Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/oyxis2kalvg.jpg",
+      "title": "Researchers and AI agents cut estimated quantum cost of attacking Bitcoin encryption by 86%",
+      "excerpt": "An open project pairing 100+ human scientists with AI coding agents cut the estimated quantum resources for elliptic-curve point addition by 86.1%, a rare demonstration of agents doing real research optimization.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750648v1",
       "source": "bioRxiv",
-      "category": "science",
-      "headline": "Specificity-driven protein binder design with Odin-Multi",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.08.749745v1",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "excerpt": "A Technical University of Denmark team optimizes one binder sequence against many target complexes at once, applying attractive objectives to on-targets and repulsive ones to off-targets. The premise: a useful binder is defined as much by what it does not bind.",
-      "og_image": null
+      "published_iso": "2026-09-12T12:00:00Z",
+      "og_image": "",
+      "title": "Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD-2",
+      "excerpt": "A generative model conditions molecular design on 3D intermolecular interaction profiles rather than sequence or graph descriptors, aiming at more controllable small-molecule drug design.",
+      "category": "science"
     },
     {
-      "source": "Microsoft Research",
-      "category": "science",
-      "headline": "GigaPath-Flash and GigaTIME-Flash: toward population-scale discovery with efficient pathology foundation models",
-      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
-      "published_iso": "2026-08-31T00:00:00Z",
-      "excerpt": "Microsoft Research reports pathology foundation models running roughly 50x and 6x faster than their predecessors while holding accuracy, cutting the compute wall on whole-slide analysis. The claim is population-scale histopathology becomes practical, not just demo-scale.",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg"
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.05.749576v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "",
+      "title": "DNT: Diploid Genomic Foundation Model",
+      "excerpt": "A genomic foundation model that represents both haplotypes of a diploid genome, a step past the haploid-reference assumption baked into most DNA language models.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/i-got-a-mind-to-tell-you/202609/can-ai-have-conscious-experiences",
+      "source": "Psychology Today",
+      "published_iso": "2026-09-09T16:15:39Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/brain_peshkova_shutterstock_678583375.jpg?itok=Vutpa42b",
+      "title": "Can AI Have Conscious Experiences?",
+      "excerpt": "A neuroscientist argues that asking whether AI can be programmed to be conscious misunderstands both the brain and consciousness itself.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/ai-and-the-threat-of-cognitive-inhibition",
+      "source": "Psychology Today",
+      "published_iso": "2026-09-08T15:00:10Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/mostafa_meraji-psychology-6809886.jpg?itok=zFJFSH_k",
+      "title": "AI and the Threat of Cognitive Inhibition",
+      "excerpt": "What if AI does more than compete with human thought and begins to change our propensity to engage in thinking at all?",
+      "category": "science"
     }
   ],
   "dedup": {
-    "dropped": 6,
-    "kept": 14,
+    "dropped": 0,
+    "kept": 19,
     "against_days": 5
   }
 }

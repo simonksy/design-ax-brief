@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "section": "science",
   "media": [
     {
-      "id": "science-pathology-o3-h4k",
+      "id": "science-hidden-proteins",
       "type": "image",
-      "src": "pipeline/media/science-pathology-o3-h4k.jpg"
+      "src": "pipeline/media/science-hidden-proteins.jpg"
     },
     {
-      "id": "science-odin-multi-v9t",
+      "id": "science-pacman-fusion",
       "type": "image",
-      "src": "pipeline/media/science-odin-multi-v9t.jpg"
+      "src": "pipeline/media/science-pacman-fusion.png"
     },
     {
-      "id": "science-llm-confidence-m2r",
-      "type": "image",
-      "src": "pipeline/media/science-llm-confidence-m2r.jpg"
-    },
-    {
-      "id": "science-jwst-exomoon-z7c",
+      "id": "science-blazar-jet",
       "type": "video",
-      "src": "pipeline/media/science-jwst-exomoon-z7c.mp4",
-      "poster": "pipeline/media/science-jwst-exomoon-z7c.jpg"
+      "src": "pipeline/media/science-blazar-jet.mp4",
+      "poster": "pipeline/media/science-blazar-jet.jpg"
     },
     {
-      "id": "science-disaster-forecast-p3w",
+      "id": "science-quantum-bitcoin",
       "type": "image",
-      "src": "pipeline/media/science-disaster-forecast-p3w.jpg"
+      "src": "pipeline/media/science-quantum-bitcoin.jpg"
+    },
+    {
+      "id": "science-glp1-reddit",
+      "type": "svg"
     }
   ]
 }

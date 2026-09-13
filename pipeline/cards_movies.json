@@ -1,15 +1,16 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
+  "section": "movies",
   "cards": [
     {
-      "id": "movies-primevideo-dub-q3m",
+      "id": "movies-vicon-captive",
       "eyebrow": "AI NEWS",
-      "headline": "프라임비디오, 영어 더빙 대사에\n배우 입모양을 AI로 맞춘다",
-      "body": "독일 시리즈 '맥스턴 홀'을 시작으로 영어 더빙판 입 움직임을 AI로 손본다.",
-      "mini_headline": "AI 립싱크 더빙 상용화",
+      "headline": "Vicon, 페이셜 캡처 업체\nCaptive Devices 인수",
+      "body": "옥스퍼드 메트릭스 산하 모션 캡처 사업부가 CoreHMC 헤드 리그 제작사를 사들였다.",
+      "mini_headline": "Vicon, 페이셜 캡처 인수",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/vicon-acquires-captive-devices-facial-capture-firm",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -17,45 +18,53 @@
         "blocks": [
           {
             "t": "p",
-            "x": "아마존 프라임비디오가 영어 더빙을 더 자연스럽게 보이도록 만든다. 화면 속 배우의 입이 움직이는 방식을 AI로 맞추는 방식이다."
+            "x": "Oxford Metrics의 모션 캡처 부문 Vicon이 영국 맨체스터의 Captive Devices를 인수했다. 마커 없이 얼굴 연기를 잡아내는 헤드 마운트 카메라 시스템을 만드는 회사다. Vicon은 40년 넘게 영화, 게임, 버추얼 프로덕션 스튜디오에 광학식 바디 트래킹을 공급해왔는데, 여기에 얼굴이 붙었다. Captive Devices 창업팀은 즉시 Vicon에 합류했다."
           },
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=667&crop=1",
-            "cap": "Stephan Rabhold, Prime Video"
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/head_mounted_camera_image2-1280.jpg?itok=m0-106mU",
+            "cap": "Captive Devices의 헤드 마운트 카메라"
           },
           {
             "t": "p",
-            "x": "첫 적용작은 독일어 로맨스 '맥스턴 홀'이다. 프라임비디오에서 지금까지 가장 많이 본 인터내셔널 오리지널 시리즈다. 립싱크 더빙은 수요일부터 시즌 1과 2에 전 세계 영어로 붙고, 12월 9일 공개되는 마지막 시즌 3에도 들어간다. 시즌 3는 모나 카스텐이 2018년에 쓴 소설 '세이브 미'가 원작이다."
+            "x": "주력 제품은 CoreHMC다. 스테레오 헤드 마운트 카메라로 잡은 얼굴 데이터를 Unreal Engine과 MetaHuman Animator를 비롯한 제작 파이프라인으로 곧장 넘긴다."
           },
           {
             "t": "p",
-            "x": "프라임비디오 팀은 AI와 VFX 기술을 섞어 이 기능을 만들었다. 다만 어떤 AI 도구를 썼는지는 밝히지 않았다. 아마존은 앞으로 다른 타이틀로도 넓힐 계획이라고 했다."
+            "x": "이미 Ninja Theory, Nant Studios, Animatrik, Deep Silver Dambuster Studios 같은 스튜디오가 쓰고 있다."
           },
           {
             "t": "p",
-            "x": "이 기능은 사람이 녹음한 더빙 음성에 배우의 입술 움직임을 맞춘다. 아마존은 그 결과가 \"관객이 이야기에 온전히 몰입한 채로 머물게 하는 매끄러운 시청 경험\"이라고 설명했다."
+            "x": "이번 거래로 마커리스 페이셜 캡처와 Vicon의 마커 기반 바디 트래킹이 한 지붕 아래 묶였다. 두 시스템을 모두 사내에서 만들고 지원하는 업체는 자기들뿐이라는 게 회사 설명이다."
           },
           {
             "t": "p",
-            "x": "\"프라임비디오는 고객의 시청 경험을 끌어올리는 새 도구를 끊임없이 만든다\"고 라프 솔타노비치 프라임비디오·아마존 MGM 스튜디오 기술 부문 부사장이 말했다. \"립싱크로 고객이 전 세계 콘텐츠를 더 매끄럽고 몰입감 있게 즐기는 길을 낸다. 창작자에게는 자기 이야기가 더 넓은 세계 관객에게 닿기 쉬워지는 일이다. 전부 창작자의 감독 아래 진행돼 예술적 의도의 온전함을 지킨다.\""
+            "x": "마커 방식은 여전히 Vicon 사업의 중심이다. 고객은 쓰던 장비를 그대로 두고 마커리스 기능만 얹으면 된다. Vicon은 지난 3월 GDC에서 자체 마커리스 바디 트래킹 시스템을 내놓은 바 있다."
           },
           {
             "t": "p",
-            "x": "아마존은 프라임비디오가 \"고객을 중심에 두고 창작자가 운전석에 앉은 채\" 실용적이고 쓸모 있는 AI 활용을 계속 찾겠다고 덧붙였다."
+            "x": "Vicon의 엔터테인먼트·하드웨어 제품 총괄 David “Ed” Edwards는 “영화와 게임, 버추얼 프로덕션 스튜디오가 겪어온 실제 공백이 이 조합으로 메워진다”고 했다. “바디와 페이셜 퍼포먼스 캡처는 늘 서로 다른 업체에서, 서로 다른 파이프라인으로 왔다. 이제는 시스템 하나, 팀 하나, 지원 창구 하나다.”"
+          },
+          {
+            "t": "p",
+            "x": "Captive Devices 공동창업자 Fred Isaac은 “Vicon에 합류하면서 제조 규모와 영업 유통, 글로벌 지원망이 생겼다. 우리 힘만으로 닿을 수 있던 것보다 훨씬 많은 스튜디오 앞에 CoreHMC를 놓게 된다”고 말했다. 기술도 팀도 고객을 대하는 방식도 그대로 간다는 말을 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "Oxford Metrics CEO Imogen O’Connor는 “Vicon은 이제 몸과 얼굴을 아우르는 통합 워크플로를 고객에게 줄 수 있다. 사람의 연기를 캡처하고 분석하고 애니메이션으로 옮기는 일이 전보다 한결 효율적으로 돌아간다”고 했다."
           }
         ]
       }
     },
     {
-      "id": "movies-nicetouch-v2-h8v",
+      "id": "movies-val-kilmer-ai",
       "eyebrow": "AI NEWS",
-      "headline": "나이스 터치 V2, 프리미어와\n리졸브 안에서 쓰는 AI 편집 조수",
-      "body": "대화 300여 건을 거쳐 프리미어·리졸브용 AI 편집 조수를 바닥부터 다시 짰다.",
-      "mini_headline": "편집 AI 조수 전면 개편",
+      "headline": "AI로 되살린 Val Kilmer\nTIFF 마켓에 오르다",
+      "body": "유족 동의와 SAG-AFTRA 규정, 유산 보상을 거친 AI 재현이 마켓에 올랐다.",
+      "mini_headline": "AI 배우, TIFF 마켓행",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/nice-touch-v2-an-ai-edit-assistant-for-professional-editors/",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/mind-the-gap-selling-ai-val-kilmer-in-as-deep-as-the-grave-at-tiff/5220305.article",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -63,208 +72,262 @@
         "blocks": [
           {
             "t": "p",
-            "x": "나이스 터치가 프로 후반작업 팀용 AI 편집 조수의 새 버전, 나이스 터치 V2를 내놓았다."
-          },
-          {
-            "t": "video",
-            "yt": "u1QT63Oeit8"
-          },
-          {
-            "t": "p",
-            "x": "편집자와 프로듀서, 프로덕션 슈퍼바이저, 스튜디오 대표와 나눈 300여 건의 대화가 방향을 잡았다. V2는 어도비 프리미어 프로와 다빈치 리졸브 안에서 돌아가는, 바닥부터 다시 지은 버전이다."
-          },
-          {
-            "t": "p",
-            "x": "나이스 터치는 2025년에 세운 영국 회사다. 서커스 스트리트 창업자인 리치 타운센드와 조니 타운센드가 프리시드 투자를 넣고 둘 다 이사회에 앉아 있다. 편집자가 쓰던 도구를 떠나지 않고도 편집 앞단의 기계적인 일을 넘길 수 있게 해준다."
-          },
-          {
-            "t": "p",
-            "x": "업계 12년 경력의 편집자 두 사람이 만든 V2가 가져가는 몫은 셀렉트와 스트링아웃, 어셈블리, 멀티캠 패스, 컷다운 같은 앞단 노동이다. 18개 언어를 지원한다."
+            "x": "Mind The Gap Productions And Sales가 TIFF: The Market에 시대극 ‘As Deep As The Grave’의 해외 판권을 들고 나왔다. 고인이 된 Val Kilmer를 AI로 되살려 등장시킨 작품이다."
           },
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_001.jpg",
-            "cap": "Nice Touch V2"
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/1/9/1487119_valkilmerasdeepasthegrave11_364276_crop.jpg",
+            "cap": "‘As Deep As The Grave’ / First Line Films 제공"
           },
           {
             "t": "p",
-            "x": "프로젝트의 푸티지를 분석해 단어 단위 정확도와 화자 분리까지 붙여 전사하고, 그다음엔 평범한 말로 지시를 받는다. 편집자가 원하는 컷을 말하면 타임라인에 실제 클립과 컷, 마커로 바로 쌓아준다. 그대로 이어서 작업하면 된다."
+            "x": "First Line Films의 Coerte Voorhees가 각본을 쓰고 연출했다. 고대 아메리카 문명을 좇는 고고학자들의 이야기다. 제작은 John Voorhees가 맡았고 출연진에는 Abigail Lawrie, Tom Felton, Abigail Breslin, Wes Studi, Ewen Bremner, Jacob Fortune-Lloyd가 이름을 올렸다."
           },
           {
             "t": "p",
-            "x": "300여 건의 대화에서 두 가지가 반복해 돌아왔다. 기존 AI 도구는 편집을 벗어나 다른 데서 처리한 뒤 결과를 다시 불러와야 한다는 것, 그리고 편집자가 넘기고 싶지 않은 선이 있다는 것. AI 도구를 아예 피해온 30년 경력 편집자를 돌려세운 건 나이스 터치가 \"창작 판단에는 손대지 않는다\"는 점이었다."
+            "x": "Kilmer가 맡은 배역은 새 교회를 세우려는 신부다. 팬데믹으로 제작이 밀리기 전에 이미 출연을 확정한 상태였다. 그 사이 그는 병을 얻었고 2025년 세상을 떠났다."
           },
           {
             "t": "p",
-            "x": "창업자 매튜 쿡시와 폴 사이먼은 12년 동안 서커스 스트리트의 영상 제작 조직을 200명 규모로 키웠고, 코카콜라와 나이키, 네슬레, 화이자를 위한 TV·VFX 급 콘텐츠를 만들었다. 쿡시는 50만 파운드짜리 버추얼 스튜디오를 세워 20개 언어로 60시간 분량을 50만 명 넘는 시청자에게 보냈다. 서커스 스트리트는 QA에 5천만 파운드로 팔렸다."
+            "x": "제작진은 유족에게서 AI 재현 허락을 받았고, SAG-AFTRA 가이드라인을 지켰으며, 유산 관리 측에도 보상을 지급했다."
           },
           {
             "t": "p",
-            "x": "\"12년 동안 도구가 못 하는 일을 만나면 우리가 직접 만들었다. 이번도 같은 본능인데 뒤에 더 좋은 기술이 붙었다\"고 폴 사이먼 CPO 겸 공동창업자가 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg",
-            "cap": "Nice Touch V2"
+            "x": "Mind The Gap 창립자 Giulia Prenna는 “AI 사용은 논쟁적이고, 배우가 실제로 살아내는 연기의 진정성을 결코 대신할 수 없다”면서도 “이번 경우는 Kilmer 본인과 가족의 허락을 받아 윤리적으로 썼다. Val Kilmer의 체로키 혈통과 그의 영성, 그리고 Father Fintan이라는 배역을 살려내고 싶어 했던 그의 바람을 지키는 데 AI는 없어서는 안 될 도구였다”고 말했다."
           },
           {
             "t": "p",
-            "x": "V2는 지금 nicetouch.app에서 쓸 수 있다. 닷새 무료 체험에 2,000 크레딧이 전 기능 해제로 들어가고, 유료는 프로가 월 50파운드에 7,000 크레딧, 울트라가 월 250파운드에 40,000 크레딧이다. 필요하면 크레딧을 그때그때 더 살 수도 있다. 요금은 파운드와 달러, 유로로 매긴다. 이미 포디모스와 조지아대 사회복지대학원 편집팀이 쓰고 있다."
+            "x": "Mind The Gap의 이번 TIFF 라인업에는 Robert Sayegh의 스릴러 ‘Beyond The Rush’도 들어 있다. 부패한 판사를 폭로하려 잠입하는 탐사 기자 이야기이고 Eric Roberts, Cathy Moriarty, Mena Suvari가 나온다."
+          },
+          {
+            "t": "p",
+            "x": "Prenna의 제작 이력에는 Jenna Ortega 주연으로 2021년 SXSW 최우수 극영화상과 관객상을 받은 ‘The Fallout’, Brenton Thwaites가 나온 ‘Office Uprising’이 있다."
           }
         ]
       }
     },
     {
-      "id": "movies-switchx-two-t5k",
+      "id": "movies-kling-tiff-panel",
       "eyebrow": "AI NEWS",
-      "headline": "비블 스위치X 2.0, 찍어둔 화면 조명을\n네이티브 4K 20초까지 바꾼다",
-      "body": "조명·배경·소품 교체가 네이티브 4K 10비트, 24fps 20초까지 늘었다.",
-      "mini_headline": "촬영분 조명 4K 리라이팅",
+      "headline": "Kling AI, TIFF 마켓에서\nAI 영상의 한계를 짚다",
+      "body": "TIFF 마켓 패널에서 일관성 있는 시네마틱 AI 영상 제작이 화두로 올랐다.",
+      "mini_headline": "Kling AI, TIFF 패널",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/beeble-introduces-switchx-2-0-with-native-4k-longer-shots-and-more/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "비블이 비디오-투-비디오 모델의 큰 업데이트, 스위치X 2.0을 공개했다. 바꾸고 싶은 것은 바꾸고 지켜야 할 것은 지킨다는 게 이 모델의 전제다."
-          },
-          {
-            "t": "video",
-            "yt": "eZ5wedB7pV4"
-          },
-          {
-            "t": "p",
-            "x": "이번 판에는 네이티브 4K 출력과 24fps 기준 최대 20초 클립, 10비트 색심도가 들어왔다. 카메라 트래킹도 좋아졌고 빠른 움직임과 립싱크를 다루는 정확도도 올랐다."
-          },
-          {
-            "t": "p",
-            "x": "스위치X는 원본 피사체와 연기를 그대로 둔 채 조명과 배경, 소품 같은 요소만 바꾸는 자체 모델이다. 회사는 이번을 \"우리 비디오-투-비디오 모델에 대한 가장 큰 업그레이드\"라고 부른다."
-          },
-          {
-            "t": "p",
-            "x": "\"스위치X의 핵심 발상은 늘 간단했다. 지켜야 할 것은 지키면서 바꾸고 싶은 것을 바꾸는 것\"이라고 비블 창업자 겸 CEO 훈 킴이 말했다. \"스위치X 2.0으로 그 능력을 더 길고 더 높은 품질의 시퀀스까지 늘렸다. 점점 야심 찬 프로덕션에서도 AI를 쓸 자신감을 주는 셈이다.\""
+            "x": "Kling AI가 첫 회를 맞은 TIFF: The Market 개막일 아침을 패널로 열었다. 제목은 ‘A New Creative Paradigm: Consistent, Cinematic AI Video Powered by Kling AI’. 객석은 꽉 찼다. 빠르게 바뀌는 제작 워크플로 안에서 사람의 기술이 어디쯤 남는지 알고 싶어 하는 캐나다 창작자들이 모였다."
           },
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh001.jpg",
-            "cap": "Beeble SwitchX 2.0"
+            "src": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=667&crop=1",
+            "cap": "TIFF: The Market의 Kling AI 패널"
           },
           {
             "t": "p",
-            "x": "새로 들어간 항목을 보면 출력은 1080p에서 네이티브 4K로, 최대 길이는 24fps 20초로, 색심도는 8비트에서 10비트로 올랐다. 카메라 트래킹이 개선돼 생성 결과가 원본 푸티지의 카메라 움직임을 더 가깝게 따라간다. 업레스라는 마감 워크플로도 새로 붙었다. 720p로 빠르고 크레딧 효율적으로 돌려본 뒤 원본 소스로 돌아가 최대 4K로 최종 결과를 뽑는 방식이다."
+            "x": "진행은 Kling AI의 유럽·북미 크리에이터 커뮤니티 및 산업 파트너십 총괄 Tony Pu가 맡았다. 칸 필름마켓 세션에서 시작된 이야기의 연장선이다. 당시 Kling AI는 Evolutionary Films의 애니메이션 장편 ‘Minibots’에 글로벌 독점 기술 브랜드 파트너로 참여한다고 발표했다."
           },
           {
             "t": "p",
-            "x": "비블은 최근 월드 랩스 기술을 얹은 3D 신 제너레이터도 내놨다. 텍스트와 이미지, 영상, 파노라마에서 가우시안 스플랫 환경을 만들고 3D로 둘러보다가 최대 4K로 샷을 뽑는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh003.jpg",
-            "cap": "Beeble SwitchX 2.0"
+            "x": "단상에는 ‘Minibots’ 프로듀서이자 Evolutionary Films 공동창업자 Diane Shorthouse, Amissa Studios를 세운 AI 영화감독 Issa Sissoko가 앉았다. Sissoko는 Antoine Fuqua, Darren Aronofsky, Doug Liman과 일해왔다. 두 팀 모두 Kling AI 도구를 쓴다."
           },
           {
             "t": "p",
-            "x": "시드댄스 2.5 연동과 SDR 푸티지를 16비트 HDR EXR로 바꾸는 스위치HDR도 최근 업데이트에 들어갔다. 이런 기능은 비블의 노드 기반 컴포지팅 환경 캔버스와 묶여 생성부터 VFX, 마감까지 한 흐름 안으로 들어온다."
+            "x": "프로듀서의 본업이 감독의 비전을 받쳐주는 일이라는 점은 그대로라고 Shorthouse는 말했다. 달라진 것은 도구다."
           },
           {
             "t": "p",
-            "x": "스위치X 2.0은 비블 플랫폼에서 바로 쓸 수 있다. 출시를 기념해 새 모델로 만드는 생성은 2026년 9월 23일까지 50% 할인한다."
+            "x": "“대본이 여전히 설계도예요. 그래서 저는 프롬프트가 아니라 숏을 생각합니다.” 카메라가 어디로 가야 하는지, 연기는 어때야 하는지, 무엇으로 컷이 넘어가야 하는지. 그리고 그걸 가장 잘 해낼 사람이 누구이고 어디에 AI 아티스트를 붙일지를 따진다."
+          },
+          {
+            "t": "p",
+            "x": "“프로덕션 디자이너와 먼저 그림을 짭니다. 뭔가를 스무 컷 뽑으면 열아홉 컷은 틀려요. 그런데 그 열아홉이 중요합니다. 뭐가 틀렸는지 알아보는 건 사람의 판단이니까요.”"
+          },
+          {
+            "t": "p",
+            "x": "Sissoko는 프리비주얼 단계에서 감독과 프로듀서가 문제를 미리 찾고 무엇을 찍을지, 돈을 어디에 쓸지 판단하도록 돕는다. “VFX 팀과도 같이 갑니다. 3D로 뭘 만들어두고 그 위에 껍질을 씌워달라고 하죠.”"
+          },
+          {
+            "t": "p",
+            "x": "하이브리드 제작의 지금 숙제는 모델 결과물에 덜 기대는 것, 그리고 AI와 실사 푸티지를 티 안 나게 섞는 것이다. “배우의 연기를 그대로 지키면서 거기에 뭔가를 더하도록 AI를 다루는 게 아주 까다롭습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "앞으로 몇 달 안에 두 사람이 기다리는 건 통제권이다. “좀 더 제 말을 들어줬으면 좋겠어요.” Shorthouse의 이 말에 객석이 웃었다. “이 캐릭터를 이 의상 입혀 이 배경에 두고 시선만 바꾸라고 하면, 나머지는 놔두고 딱 그것만 바꿔주길 바라는 거죠.”"
+          },
+          {
+            "t": "p",
+            "x": "Sissoko는 속도를 짚었다. “90일마다 크게 좋아집니다. 3초짜리 생성 영상에서 15초로 갔고 일관성도 올라갔으니까요.” 콘셉트 트레일러로 업계에 들어온 그는, 피치 덱을 트레일러로 붙여 기획이 픽업되면 여러 사람의 일감이 생긴다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "신인 감독들에게 Shorthouse가 건넨 조언은 몸으로 기본기를 익히라는 쪽이었다. “어떤 숏을 원하는지, 카메라와 조명과 연기가 어떻게 돌아가는지 알고 나서 AI를 실험하세요. 영화에 대해 아는 걸 전부 프롬프트에 담고요.”"
+          },
+          {
+            "t": "p",
+            "x": "Sissoko가 꼽은 가장 중요한 기술은 글쓰기다. “뭘 하든 먼저 이야기 쓰는 법을 배우세요. 프롬프트에도 그게 도움이 됩니다.”"
           }
         ]
       }
     },
     {
-      "id": "movies-maxon-fall-ibc-b2r",
+      "id": "movies-tony-keith",
       "eyebrow": "AI NEWS",
-      "headline": "맥슨, 시네마 4D·지브러시·레드시프트\n10월 업데이트를 부스에서 먼저 보여준다",
-      "body": "3D 월드빌딩과 아이패드 지브러시, 레드자이언트의 AI 리라이팅이 10월에 나온다.",
-      "mini_headline": "맥슨 10월 업데이트 예고",
+      "headline": "벤토박스 창업자가 손그림과 AI를\n섞어 만든 코미디 파일럿",
+      "body": "Joel Kuwahara와 Mark Evestaff가 손그림에 AI를 섞은 파일럿 티저를 공개했다.",
+      "mini_headline": "손그림+AI 파일럿",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/maxon-preview-fall-cinema-4d-zbrush-and-redshift-updates-ibc2026",
+      "source": "Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "맥슨이 IBC2026에서 가을 맥슨 원 릴리스를 부스에서만 미리 보여준다. 9월 11일부터 14일까지 암스테르담 RAI, 7홀 7.B24 부스다. 지난 1년간 시네마 4D와 지브러시, 레드시프트, 레드자이언트, 오토그래프에 올린 업데이트 정리도 함께 한다. 10월 릴리스 계획은 앞으로 몇 주 더 지나야 공식 발표된다."
+            "x": "FutureCel Inc.와 Curbside Entertainment가 애니메이션 코미디 파일럿 ‘The Salty Tales of Tony & Keith’의 첫 공개 영상을 내놓았다. 생성형 AI 애니메이션으로 만든 오리지널 작품이다. 오리지널 아트와 AI 보조 애니메이션으로 뽑은 1분짜리 티저, 프로듀서 인터뷰가 함께 나왔다."
           },
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB",
-            "cap": "Maxon at IBC2026"
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-kv.jpg",
+            "cap": "‘The Salty Tales of Tony & Keith’ 키 비주얼"
           },
           {
             "t": "p",
-            "x": "\"우리는 아티스트 이야기를 계속 듣고 제품 밑단의 기술을 쌓는다. 릴리스마다 창작의 가능성이 더 열리도록\"이라고 맥슨 CEO 데이비드 맥가브란이 말했다. \"큰 릴리스 사이에도 많은 일이 벌어진다. 아티스트가 1년 전에는 못 했던 것을 오늘 할 수 있게, 계속 창작을 떠받치는 기술 스택을 짓고 있다. IBC는 그동안 만든 것을 보고 최신 업데이트를 경험하고, 다음에 올 것을 부스에서만 먼저 볼 기회다.\""
+            "x": "Joel Kuwahara에게는 새 장이 열린 셈이다. 그는 지난해 9월 ‘Bob’s Burgers’ 제작사 Bento Box Entertainment를 떠났다. 2009년 자기가 공동 창업한 회사다. ‘The Simpsons’를 거친 30년 경력의 베테랑으로, 2019년 Bento Box를 Fox에 팔았고 이번에 FutureCel Inc.를 세웠다."
           },
           {
             "t": "p",
-            "x": "제품별로 보면 시네마 4D는 복잡한 3D 월드를 짓고 채우고 시뮬레이션하는 기능이 붙은 다음 세대로 넘어간다. 지브러시는 데스크톱과 아이패드를 잇는 조각 워크플로를 더 촘촘하게 메워 앱 사이를 오가는 일을 줄인다. 레드시프트는 성능과 상호작용이 크게 개선되고 프로시저럴 퍼, 더 시네마틱한 색 워크플로가 들어온다. AI 리라이팅은 레드자이언트 쪽이다. 신 라이트라는 이름으로 복잡한 조명 변경을 빠르게 하면서도 통제권은 아티스트에게 남긴다. 오토그래프는 성능과 안정성 작업을 이어가고 맥슨 도구와 더 깊게 붙는다."
+            "x": "파트너는 Mark Evestaff다. ‘The Snoopy Show’, ‘Jimmy Two Shoes’, ‘Rocket Monkeys’, ‘Cloudy with a Chance of Meatballs: The Series’를 거친 총괄 프로듀서 겸 쇼러너다. 그가 이끄는 토론토의 Curbside Entertainment가 FutureCel과 함께 제작한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-Still1.png",
+            "cap": "파일럿 스틸"
           },
           {
             "t": "p",
-            "x": "올해 이미 나온 것도 짚는다. 시네마 4D는 전문 언랩과 패킹, 심 편집, 텍셀 밀도 도구에 UDIM까지 지원하는 새 UV 에디터를 얻었고, 클로너 분배 옵션인 에지·리벳·UV 프로젝션 모드와 시뮬레이션 시스템으로 뷰포트에서 부드러운 재질을 직접 다듬는 패브릭 브러시가 더해졌다. 지브러시는 윈도우 온 Arm 네이티브 지원과 서브스턴스 페인터 직접 연동, Z모델러 개선을 받았다. 레드시프트는 조명과 재질을 조정할 때 반응이 빨라졌고 새 메모리 아키텍처와 시네마 4D 안의 재질 워크플로 정리가 따라왔다. 레드자이언트는 글로와 크로매틱 애버레이션, RGB 세퍼레이션 같은 핵심 유니버스 이펙트를 성능 위주로 현대화하고, 시네마 4D의 프로시저럴 노이즈를 맥슨 노이즈로 유니버스에 들여왔다."
+            "x": "작품을 만든 건 캐나다 코미디언 Seán Cullen과 Chris Locke, 그리고 Evestaff다. 출발은 Cullen과 Locke의 즉흥 코미디 한 토막이었다. 팬데믹 기간에 두 사람이 Tony와 Keith로 분해 주고받은 애드리브를 녹음하면서 꼴이 잡혔다. 주변이 아수라장이 돼도 꿈쩍 않는 두 인물의 성인 취향 코미디이고, 완성작에서도 두 사람이 목소리를 맡았다."
+          },
+          {
+            "t": "video",
+            "yt": "Qu7J8isbZzg"
           },
           {
             "t": "p",
-            "x": "올해 다시 내놓고 5월부터 상업적 사용까지 열어준 무료 모션그래픽·컴포지팅 앱 오토그래프는 이제 레드자이언트 이펙트를 네이티브로 쓰고, 서드파티 플러그인용 OpenFX를 전면 지원한다. 세로쓰기와 CJK 타이포그래피, USD 기반 3D 워크스페이스도 들어가 돌출 문자와 도형, 텍스처, 멀티패스 컴포지팅이 한 환경에 모였다."
+            "x": "Kuwahara는 Evestaff가 LinkedIn으로 보낸 메시지로 이 기획을 처음 봤다. 두 사람은 몇 년씩 걸리는 개발 과정을 앞당기면서도 파일럿 특유의 매력은 지킬 길을 찾았다. “캐스트의 즉흥연기 덕분에 코미디가 독특했어요. 대사는 아예 손대지 않았습니다. 이 캐릭터들이 움직이는 걸 보고 싶었던 거죠.”"
           },
           {
             "t": "p",
-            "x": "부스 발표에는 WWE와 RTL, 이매지너리 포시스, 폴 오프 더 월, BBC의 제작팀이 오른다. 맥슨 트레이너 요나스 필츠와 엘리 웨이드, 채드 퍼킨스의 시연도 있다. 맥슨과 레노버는 9월 12일 토요일 폐장 뒤 알로하 암스테르담에서 커뮤니티 밋업을 연다."
+            "x": "Evestaff는 원칙이 단순했다고 했다. “웃긴 걸 따라간다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-Cast_Concepts.jpg",
+            "cap": "캐릭터 콘셉트 아트"
+          },
+          {
+            "t": "p",
+            "x": "두 사람이 찾아간 곳은 Nura Studios와 최근 퍼블릭 베타를 연 플랫폼 Nura Showcraft였다. 대본, 캐릭터 디자인, 배경, 소품, 스토리보드는 모두 사람 아티스트가 그렸다. Nura Studios 디렉터 Elvis Deane은 이 자료와 녹음된 연기를 받아 스타일 시트를 짰다. “스토리보드를 녹음된 대사와 나란히 놓고 작업한 덕분에 손그림 스타일과 원래 연기의 타이밍을 둘 다 지켰습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "“평소라면 외주 아티스트와 일주일씩 주고받았을 일을 같이 앉아서 몇 분 만에 해치웠어요.” Kuwahara가 짚었다. “그때 알게 되죠, 창작 과정을 얼마나 빨리 통과할 수 있는지.”"
+          },
+          {
+            "t": "p",
+            "x": "“좋은 기획이 개발 단계를 못 넘고 말라 죽습니다.” Evestaff의 말이다. “조심해서 다루면 이 기술로 더 멀리 가고, 더 빨리 실패하고, 다시 시작할 수 있어요. 창작은 여전히 전부 사람 몫입니다. 각본도 스토리보드도 캐릭터 디자인도. 영혼은 거기서 나와요. 도구는 실행을 거들 뿐이고요.”"
+          },
+          {
+            "t": "p",
+            "x": "Kuwahara가 덧붙였다. “지금은 창작자에게 풍요로운 시기예요. AI는 큰 잠금 해제였습니다. 더 적은 것으로, 더 큰 통제권을 쥐고 만들게 됐어요.”"
           }
         ]
       }
     },
     {
-      "id": "movies-acoustica-eight-w9n",
+      "id": "movies-gyllenhaal-flesh",
       "eyebrow": "AI NEWS",
-      "headline": "아콘 어쿠스티카 8, 오디오 복원과\n마스터링을 머신러닝으로 거든다",
-      "body": "현장 엔지니어가 짚은 문제를 겨냥해 편집·복원·마스터링에 AI 도구를 넣었다.",
-      "mini_headline": "오디오 복원에 AI 보조",
+      "headline": "Maggie Gyllenhaal이 밝힌\nAI 실험이 무너진 지점",
+      "body": "베네치아 심사위원장이 단편 Flesh Impact에서 시도한 AI 실험의 실패를 털어놓는다.",
+      "mini_headline": "AI 실험이 실패한 이유",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/acon-acoustica-8-provides-ai-assisted-audio-workflow-tools/",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "아콘 디지털이 오디오 편집·복원·마스터링 스위트의 새 버전 어쿠스티카 8을 내놓았다."
+            "x": "Maggie Gyllenhaal은 칸에서 베를린까지 심사위원석에 앉았던 경험이 배우에서 감독으로 넘어가는 자기 변화와 겹쳐 있다고 말한다. “‘The Lost Daughter’ 색 보정 최종 믹스를 끝내고 열흘쯤 뒤에 곧바로 칸 심사위원으로 들어갔어요.” 베네치아 리도의 호텔 엑셀시오르에서 IndieWire와 만난 자리였다."
           },
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
-            "cap": "Acon Digital Acoustica 8"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
+            "cap": "Maggie Gyllenhaal"
           },
           {
             "t": "p",
-            "x": "현장 엔지니어가 말한 기술적 난제에 곧바로 답한 판이다. 음질을 깎지 않으면서 작업 속도를 올리는 보조 AI·머신러닝 도구를 한 묶음으로 담았다. 아콘은 어쿠스티카 8이 숙련된 오디오 전문가를 대체하려는 게 아니라 힘을 실어주도록 설계됐다고 말한다. 대사 정리부터 스펙트럼 복구까지 복잡한 복원 작업을 머신러닝에 맡기면서도 통제권은 엔지니어가 온전히 쥔다."
+            "x": "“첫 영화를 막 끝낸 상태로 앉아서 흥미로운 감독 스물세 명의 작품을 보는 건 대단한 경험이었어요. 지금 여기 있는 것도 확실히 자극이 됩니다.” 그의 2026년 베네치아 경쟁부문 심사위원장 임기는 이번 주말 끝난다."
           },
           {
             "t": "p",
-            "x": "구독형 소프트웨어가 흔해지는 흐름과 달리 아콘 디지털은 편집·복원·마스터링 도구에 영구 라이선스를 계속 내준다. 구독 없이 사는 선택지가 남는다."
+            "x": "심사위원 일과 별개로 그는 단편 ‘Flesh Impact’를 베네치아에서 처음 선보였다. 올해 황금사자 공로상을 받은 Ellen Burstyn이 주연이다."
           },
           {
             "t": "p",
-            "x": "기능을 훑으면 디노이즈 3과 디험 3은 머신러닝 모델로 돌아가 노이즈 프로파일을 먼저 뜨지 않아도 된다. 디클립 3과 디클릭 3은 인터페이스를 새로 입었다. 익스트랙트:다이얼로그 2는 음성과 노이즈, 리버브에 각각 슬라이더와 감도 조절을 붙였다. 오디오필은 훨씬 넓은 시간 구간을 생성 콘텐츠로 채워 복구를 매끄럽게 만든다."
+            "x": "Genesis와 함께 만든 이 작품에서 그는 Peter Sarsgaard, Dakota Johnson과 다시 뭉쳤다. ‘The Bride!’ 촬영감독 Lawrence Sher, ‘The Lost Daughter’ 편집자 Affonso Gonçalves도 같이 갔다. 탄생 100년을 맞은 Marilyn Monroe가 지금 무슨 말을 할지 상상해보는 작업이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/flesh-impact.jpg",
+            "cap": "단편 ‘Flesh Impact’"
           },
           {
             "t": "p",
-            "x": "스펙트럼 에디터에는 선택 영역과 성질이 비슷한 구간을 찾아주는 \"유사 선택\"이 들어왔고, 시간·주파수 페더링을 조절해 편집 경계의 블렌드를 다듬는다. 스테레오 뷰는 스테레오 위치를 스펙트로그램에 색으로 그려 밸런스 문제를 귀가 아니라 눈으로 보게 한다."
+            "x": "제안은 ‘The Bride!’를 한창 편집하던 때 들어왔다. 지난 6월이 Monroe의 100번째 생일이 됐을 시점이었고, 살아 있을 때 허락되지 않았던 방식으로 연기할 기회를 이 상상 속 Monroe에게 주자는 이야기였다. “그쪽은 분명 젊은 마릴린 먼로를 떠올렸을 거예요. 저는 ‘먼로에 대해 아는 게 별로 없는데’ 싶었죠.”"
           },
           {
             "t": "p",
-            "x": "이머시브 오디오는 얼티메이트 에디션에서 돌비 애트모스를 포함해 9.1.6 채널까지 받는다. UI는 전면 재설계돼 새 시작 화면과 도킹되는 프로세싱 툴 창, 마음대로 손보는 툴바가 생겼다. ARA2 통합은 모든 에디션에 들어가 어떤 ARA2 호스트 안에서도 클립 에디터를 통째로 쓸 수 있고, 전용 링크 플러그인이 아비드 프로 툴스와의 AAX 전송을 맡는다. 에디션은 스탠더드와 프리미엄, 얼티메이트 셋이고 모두 영구 라이선스로 판다."
+            "x": "머릿속에 한동안 굴려둔 끝에 지금의 아이디어가 나왔고 그는 아주 빠르게 썼다. 파고들수록 Monroe에게 공감이라 부를 만한 감정이 생겼고 자기 경험과 겹치는 지점도 찾았다."
+          },
+          {
+            "t": "p",
+            "x": "‘The Bride!’와 닮았느냐는 질문에 그는 인정했다. “말 그대로 같은 시기에 동시에 만들었으니까요. 죽은 유명 인물이 돌아와 마음에 담아뒀을 법한 다른 말을 한다는 점이 닮았죠.”"
+          },
+          {
+            "t": "p",
+            "x": "촬영은 짧았다. “Ellen과 함께한 시간이 사흘 반 정도였을 거예요. 아주 빨랐죠. 그러니 이미 아는 사람들이 필요했어요.”"
+          },
+          {
+            "t": "img",
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/KG1_3285_bsj0MYEZ_20260908123025.jpeg?w=650",
+            "cap": "베네치아의 Gyllenhaal"
+          },
+          {
+            "t": "p",
+            "x": "AI 이야기가 나온 건 그가 현지 토크에서 ‘Flesh Impact’를 만들며 AI를 만져봤다고 밝히면서다. 라이선스가 확보된 이미지만 썼고, 그럼에도 환경 부담이 걸렸다는 단서를 달았다."
+          },
+          {
+            "t": "p",
+            "x": "“제안을 받고 확신이 안 섰어요. 그러다 ‘아니야, 배워보자’ 했죠. 생각조차 하면 안 되는 건 없다고 봐요.” 결과는 분명했다. “이 프로젝트에는 쓸모없는 도구였어요. 제가 찾던 건 그게 주는 것과 정확히 반대였거든요. 아이콘의 반대편, 그 상징적 이미지에 딸린 아주 깊은 인간을 찾고 있었어요. Dakota에게서 찾고 있었는데, 기계가 만든 층을 그 위에 얹는 순간 사라져버렸습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "쓸모가 있었다면 오히려 곤란했을 거라고 그는 덧붙였다. “AI에 근본적인 우려와 유보가 크니까 윤리적 딜레마에 빠졌겠죠. 저는 전문가가 아니에요. AI가 뭔지 개념적으로 이제 막 이해하기 시작한 단계입니다. 그래서 그냥 버렸어요.”"
+          },
+          {
+            "t": "p",
+            "x": "환경 문제를 단서 한 줄로 붙이고 넘어갈 수는 없다고도 했다. “그건 진짜 엄청나게 큰 문제예요. 그리고 거기 딸려 오는 문화적 측면도요.”"
           }
         ]
       }

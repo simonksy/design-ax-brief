@@ -1,29 +1,36 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
+  "section": "books",
   "media": [
     {
-      "id": "books-spotify-narration-q7v",
-      "type": "svg"
+      "id": "books-guild-openai-sj",
+      "type": "image",
+      "src": "pipeline/media/books-guild-openai-sj.jpg",
+      "poster": "pipeline/media/books-guild-openai-sj.jpg"
     },
     {
-      "id": "books-pw-ai-reckoning-m3d",
+      "id": "books-scheffler-illustrators",
       "type": "image",
-      "src": "pipeline/media/books-pw-ai-reckoning-m3d.png"
+      "src": "pipeline/media/books-scheffler-illustrators.jpg",
+      "poster": "pipeline/media/books-scheffler-illustrators.jpg"
     },
     {
-      "id": "books-ken-liu-ai-story-t9k",
+      "id": "books-springer-framework",
       "type": "image",
-      "src": "pipeline/media/books-ken-liu-ai-story-t9k.jpg"
+      "src": "pipeline/media/books-springer-framework.jpg",
+      "poster": "pipeline/media/books-springer-framework.jpg"
     },
     {
-      "id": "books-ingram-ai-rollout-b4z",
+      "id": "books-veristage-insight",
       "type": "image",
-      "src": "pipeline/media/books-ingram-ai-rollout-b4z.png"
+      "src": "pipeline/media/books-veristage-insight.jpg",
+      "poster": "pipeline/media/books-veristage-insight.jpg"
     },
     {
-      "id": "books-mcphee-workflow-h6s",
+      "id": "books-fake-citations",
       "type": "image",
-      "src": "pipeline/media/books-mcphee-workflow-h6s.jpg"
+      "src": "pipeline/media/books-fake-citations.jpg",
+      "poster": "pipeline/media/books-fake-citations.jpg"
     }
   ]
 }
