@@ -1,36 +1,32 @@
 {
-  "date": "2026-09-14",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-vicon-captive",
-      "type": "image",
-      "src": "pipeline/media/movies-vicon-captive.jpg",
-      "poster": "pipeline/media/movies-vicon-captive.jpg"
-    },
-    {
-      "id": "movies-val-kilmer-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-val-kilmer-ai.jpg",
-      "poster": "pipeline/media/movies-val-kilmer-ai.jpg"
-    },
-    {
-      "id": "movies-kling-tiff-panel",
-      "type": "image",
-      "src": "pipeline/media/movies-kling-tiff-panel.jpg",
-      "poster": "pipeline/media/movies-kling-tiff-panel.jpg"
-    },
-    {
-      "id": "movies-tony-keith",
-      "type": "video",
-      "src": "pipeline/media/movies-tony-keith.mp4",
-      "poster": "pipeline/media/movies-tony-keith.jpg"
-    },
-    {
-      "id": "movies-gyllenhaal-flesh",
-      "type": "image",
-      "src": "pipeline/media/movies-gyllenhaal-flesh.jpg",
-      "poster": "pipeline/media/movies-gyllenhaal-flesh.jpg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "movies",
+ "media": [
+  {
+   "id": "movies-murphy",
+   "type": "video",
+   "src": "pipeline/media/movies-murphy.mp4",
+   "poster": "pipeline/media/movies-murphy.jpg"
+  },
+  {
+   "id": "movies-nle-assistants",
+   "type": "image",
+   "src": "pipeline/media/movies-nle-assistants.jpg"
+  },
+  {
+   "id": "movies-eran-dinur",
+   "type": "image",
+   "src": "pipeline/media/movies-eran-dinur.jpg"
+  },
+  {
+   "id": "movies-colorfront-qumulo",
+   "type": "image",
+   "src": "pipeline/media/movies-colorfront-qumulo.jpg"
+  },
+  {
+   "id": "movies-tilly-norwood",
+   "type": "image",
+   "src": "pipeline/media/movies-tilly-norwood.jpg"
+  }
+ ]
 }

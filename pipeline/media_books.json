@@ -1,36 +1,30 @@
 {
-  "date": "2026-09-14",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-guild-openai-sj",
-      "type": "image",
-      "src": "pipeline/media/books-guild-openai-sj.jpg",
-      "poster": "pipeline/media/books-guild-openai-sj.jpg"
-    },
-    {
-      "id": "books-scheffler-illustrators",
-      "type": "image",
-      "src": "pipeline/media/books-scheffler-illustrators.jpg",
-      "poster": "pipeline/media/books-scheffler-illustrators.jpg"
-    },
-    {
-      "id": "books-springer-framework",
-      "type": "image",
-      "src": "pipeline/media/books-springer-framework.jpg",
-      "poster": "pipeline/media/books-springer-framework.jpg"
-    },
-    {
-      "id": "books-veristage-insight",
-      "type": "image",
-      "src": "pipeline/media/books-veristage-insight.jpg",
-      "poster": "pipeline/media/books-veristage-insight.jpg"
-    },
-    {
-      "id": "books-fake-citations",
-      "type": "image",
-      "src": "pipeline/media/books-fake-citations.jpg",
-      "poster": "pipeline/media/books-fake-citations.jpg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-google-expert-intelligence",
+   "type": "image",
+   "src": "pipeline/media/books-google-expert-intelligence.jpg"
+  },
+  {
+   "id": "books-pocketfm-ai-audio",
+   "type": "image",
+   "src": "pipeline/media/books-pocketfm-ai-audio.jpg"
+  },
+  {
+   "id": "books-murakami-ai-translation",
+   "type": "image",
+   "src": "pipeline/media/books-murakami-ai-translation.jpg"
+  },
+  {
+   "id": "books-us-gov-ai-copyright",
+   "type": "svg"
+  },
+  {
+   "id": "books-chatbot-custom-fiction",
+   "type": "image",
+   "src": "pipeline/media/books-chatbot-custom-fiction.jpg"
+  }
+ ]
 }

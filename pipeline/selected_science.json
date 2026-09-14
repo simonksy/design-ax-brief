@@ -1,71 +1,61 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html",
+      "url": "https://phys.org/news/2026-09-ai-enable-species-cell-biology.html",
       "source": "Phys.org",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Concrete result: structure-first AI search across 214M predicted proteins surfaces unrecognized GPCR-family members and assigns TM184C a function — a new discovery route, not a rehash.",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-find-hidden-h.jpg",
-      "excerpt": "Researchers used AI to scan over 214 million predicted proteins by 3D structure rather than sequence, surfacing unrecognized GPCR-family members including TM184C and its role in cell-to-cell bridges.",
-      "title": "AI helps find hidden human proteins and reveals what they do",
-      "category": "science"
+      "rationale": "1억 1,200만 개 세포·12종으로 학습한 두 개의 세포 기반 모델 공개 — 종을 가로지르는 세포 지도를 바로 쓸 수 있게 만든 릴리스.",
+      "published_iso": "2026-09-14T21:30:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-enable-cross.jpg",
+      "excerpt": "Stanford Medicine researchers built two AI models of the biological cell: universal cell embedding and TranscriptFormer, trained on 112 million cells from 12 species, from yeast to humans, enabling cross-species mapping of cell biology."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-      "source": "ScienceDaily",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Princeton's PACMAN closes the loop on fusion plasma in milliseconds — a working control system, and the only physics/fusion story in the fresh pool.",
-      "published_iso": "2026-09-06T12:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp",
-      "excerpt": "Princeton researchers tested PACMAN, an AI system that monitors and controls fusion plasma in milliseconds, reacting far faster than a human operator can.",
-      "title": "AI can now control fusion plasma faster than humans can react",
-      "category": "science"
+      "rationale": "딥마인드 새 연구 — 과학 연구를 맡길 AI 에이전트 무리를 또래 압력으로 통제할 수 있는지 실험한 첫 결과.",
+      "published_iso": "2026-09-14T16:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
+      "excerpt": "Swarms of AI agents could supercharge scientific progress or wreak havoc. New research from Google DeepMind suggests that peer pressure could keep them in line."
     },
     {
-      "url": "https://www.livescience.com/space/astronomy/see-the-highest-resolution-images-of-a-black-hole-jet-ever-taken-thanks-to-ai-and-27-years-of-observations",
-      "source": "Live Science",
+      "url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
+      "source": "Phys.org",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "AI reconstruction turns 27 years and 100+ frames into the sharpest blazar-jet footage ever made — a record-setting observational result, and highly visual.",
-      "published_iso": "2026-09-09T17:34:51Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XnqQMV6uNvaYq89t8wRYGA.gif",
-      "excerpt": "Researchers combined more than 100 images of a single black hole into an AI-reconstructed video charting the activity of a mighty blazar jet.",
-      "title": "See the highest-resolution footage of a black hole jet ever taken, thanks to AI and 27 years of observations",
-      "category": "science"
+      "rationale": "원자간력현미경을 AI가 직접 운전해 볼 만한 지점으로 몰아간다 — 실험실의 측정 작업 흐름 자체가 바뀌는 사례.",
+      "published_iso": "2026-09-13T20:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-microscopes-f.jpg",
+      "excerpt": "Oak Ridge National Laboratory built an AI framework that drives atomic force microscopes autonomously, identifying nanoscale features and steering the instrument to the most informative areas of a sample."
     },
     {
-      "url": "https://thequantuminsider.com/2026/09/10/researchers-and-ai-agents-cut-estimated-quantum-cost-of-attacking-bitcoin-encryption-by-86/",
-      "source": "The Quantum Insider",
+      "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A measured 86.1% cut in quantum resource estimates from 100+ scientists working alongside coding agents — rare hard evidence of agents doing real research optimization.",
-      "published_iso": "2026-09-10T13:23:36Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/oyxis2kalvg.jpg",
-      "excerpt": "An open project pairing 100+ human scientists with AI coding agents cut the estimated quantum resources for elliptic-curve point addition by 86.1%, a rare demonstration of agents doing real research optimization.",
-      "title": "Researchers and AI agents cut estimated quantum cost of attacking Bitcoin encryption by 86%",
-      "category": "science"
+      "rationale": "말소리의 미세한 차이를 AI가 정신과 의사보다 먼저 듣는지 검증 중 — 조기 진단이라는 임상 난제를 정면으로 겨눈다.",
+      "published_iso": "2026-09-12T11:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/7050cf6c-9ae3-49c7-a71f-0c9882daac1e/AI-face.jpg?m=1783968322.206&w=1200",
+      "excerpt": "The speech of people with schizophrenia sounds subtly different from that of healthy counterparts. Researchers are testing whether AI can hear those differences earlier than human psychiatrists."
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-      "source": "ScienceDaily",
+      "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "AI reading 400,000 Reddit posts as a pharmacovigilance signal found GLP-1 side effects trials missed — a new evidence source for drug safety, freshest item in the pool.",
-      "published_iso": "2026-09-13T12:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
-      "excerpt": "AI analysis of 400,000 Reddit posts found that users of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro and Zepbound reported unexpected symptoms that clinical trials had missed.",
-      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-      "category": "science"
+      "rationale": "필즈상 수상자 25명이 공동 선언문에 서명 — 연구 분야가 AI 산업과의 관계를 집단으로 다시 정의하려는 드문 사건.",
+      "published_iso": "2026-09-14T15:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/ff6dc51d-63fd-4049-9791-c8df5aba0cd3/pushing-off-the-boot.jpg?m=1789290314.986&w=1200",
+      "excerpt": "A declaration signed by 25 Fields Medal winners reflects mathematicians' alarm over a 'severe misalignment' between the tech industry and their field, a week after AI toppled one of math's biggest open problems."
     }
   ]
 }

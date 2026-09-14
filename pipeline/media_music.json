@@ -1,36 +1,33 @@
 {
-  "date": "2026-09-14",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-sting-plugin",
-      "type": "video",
-      "src": "pipeline/media/music-sting-plugin.mp4",
-      "poster": "pipeline/media/music-sting-plugin.jpg"
-    },
-    {
-      "id": "music-smartchain",
-      "type": "video",
-      "src": "pipeline/media/music-smartchain.mp4",
-      "poster": "pipeline/media/music-smartchain.jpg"
-    },
-    {
-      "id": "music-sentient",
-      "type": "image",
-      "src": "pipeline/media/music-sentient.jpg",
-      "poster": "pipeline/media/music-sentient.jpg"
-    },
-    {
-      "id": "music-prime4-g2",
-      "type": "video",
-      "src": "pipeline/media/music-prime4-g2.mp4",
-      "poster": "pipeline/media/music-prime4-g2.jpg"
-    },
-    {
-      "id": "music-audio-intelligence",
-      "type": "image",
-      "src": "pipeline/media/music-audio-intelligence.png",
-      "poster": "pipeline/media/music-audio-intelligence.png"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "music",
+ "media": [
+  {
+   "id": "music-protools-stem-separator",
+   "type": "video",
+   "src": "pipeline/media/music-protools-stem-separator.mp4",
+   "poster": "pipeline/media/music-protools-stem-separator.jpg"
+  },
+  {
+   "id": "music-elevenlabs-music-v25",
+   "type": "image",
+   "src": "pipeline/media/music-elevenlabs-music-v25.jpg"
+  },
+  {
+   "id": "music-nopia-harmony-generator",
+   "type": "video",
+   "src": "pipeline/media/music-nopia-harmony-generator.mp4",
+   "poster": "pipeline/media/music-nopia-harmony-generator.jpg"
+  },
+  {
+   "id": "music-cuetrak-ai-cue-sheets",
+   "type": "image",
+   "src": "pipeline/media/music-cuetrak-ai-cue-sheets.jpg"
+  },
+  {
+   "id": "music-vinyl-bar-in-shibuya",
+   "type": "image",
+   "src": "pipeline/media/music-vinyl-bar-in-shibuya.jpg"
+  }
+ ]
 }

@@ -1,71 +1,61 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "games",
   "picks": [
     {
-      "url": "https://80.lv/articles/fable-developers-hand-crafted-1-000-npcs-instead-of-using-a-randomizer-tool",
-      "source": "80 Level",
+      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
+      "source": "UploadVR",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Playground deliberately dropped a working randomizer and hand-authored 1,000 NPCs — a concrete production trade-off between generated volume and authored meaning.",
-      "published_iso": "2026-09-09T10:06:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50113/images/6aa12fa304a7c/contain_1200x630.jpg",
-      "excerpt": "Game director Ralph Fulton said that it would save a lot of time, but randomly created NPCs \"just didn't make as much sense.\"",
-      "title": "Fable Devs Hand-Crafted 1,000 NPCs Instead of Using a Randomizer Tool",
-      "category": "games"
+      "rationale": "AI 보조만으로 VR 경험 0인 사람이 8일 만에 퀘스트 스토어 출시까지 갔다는 실측 사례 — 내일 당장 따라 할 수 있는 워크플로.",
+      "published_iso": "2026-09-14T15:12:36Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/809813437_28210060141977570_4776135801454871213_n--1-.jpg",
+      "excerpt": "Until a little over a week ago, Craig Storm had never built a VR app. Eight days later, his AI-assisted Quest game Punchable Face was live on Meta's store."
     },
     {
-      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip",
-      "source": "GamesIndustry.biz",
+      "url": "https://wccftech.com/qwen-38-27b-local-llm-first-person-zombie-shooter-game-5-hours/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Saber's dev chief lays out where genAI actually sits in his pipeline alongside offshoring and IP strategy — studio-level production economics, not slogans.",
-      "published_iso": "2026-09-11T12:40:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "\"Sometimes I play these games and I can just see the wasted money\"",
-      "title": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP",
-      "category": "games"
+      "rationale": "클라우드 없이 로컬 오픈웨이트 모델만으로 5시간 만에 동작하는 FPS를 뽑아낸 실험 — 개인 장비에서 가능한 프로토타이핑 한계선을 다시 그린다.",
+      "published_iso": "2026-09-14T08:36:43Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Qwen3.8-27B-local-AI-model-used-to-make-a-first-person-zombie-shooter.jpg",
+      "excerpt": "Discover how the Qwen3.8-27B local LLM was used to build a functional first-person 3D zombie shooter game in just five hours proving how far open-weight AI coding agents have come"
     },
     {
-      "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
-      "source": "GameSpot",
+      "url": "https://wccftech.com/pubg-ded-net-interview-ai-placeholder-art-replaced/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "CD Projekt's joint-CEO draws a hard line for a flagship RPG: AI as helper tool only, because complex games break under it — a policy other studios will be measured against.",
-      "published_iso": "2026-09-03T15:35:08Z",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.26.18-AM.png",
-      "excerpt": "AI is a tool that can help, but not for the kinds of \"complex\" games that CD Projekt makes, its joint-CEO says.",
-      "title": "The Witcher 4 Will Be Made \"Predominantly Using People\" And Not AI",
-      "category": "games"
+      "rationale": "AI를 최종 에셋이 아니라 플레이스홀더로 쓰고 전량 교체한다는 크리에이티브 디렉터의 실제 파이프라인 기준 — 스튜디오가 참고할 만한 선긋기.",
+      "published_iso": "2026-09-14T19:00:00Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/PUBG-DED.NET-HD-1920x1080.jpeg",
+      "excerpt": "At gamescom 2026, we interviewed PUBG DED.NET Creative Director Dave Curd to discover what this new version of PUBG is all about."
     },
     {
-      "url": "https://www.thegamer.com/yu-gi-oh-tag-force-use-of-generative-ai/",
-      "source": "TheGamer",
+      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
+      "source": "Eurogamer.net",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A shipped AI-translation-plus-human-review localisation pipeline on a major license — the practical shape of AI in production, and the backlash it draws.",
-      "published_iso": "2026-09-10T12:29:40Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/a-character-holding-up-a-yu-gi-oh-card-in-yu-gi-oh-tag-force-gx.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Yu-Gi-Oh Tag Force GX was translated into different languages using AI, with the work being checked over by a human.",
-      "title": "Yu-Gi-Oh Tag Force GX Is The Latest Game Under Fire Over AI",
-      "category": "games"
+      "rationale": "DLSS 5 뉴럴 렌더링이 실제로 얼마나 무거운지 전문가 측정치가 나왔다 — 비주얼 타깃과 성능 예산을 잡을 때 바로 들어가는 숫자.",
+      "published_iso": "2026-09-07T12:34:26Z",
+      "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Nvidia's new game-altering DLSS 5 technology takes a serious toll on a game's frame-rate, experts declare. So is it worth it?"
     },
     {
-      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
-      "source": "Kotaku",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
+      "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A veteran Nintendo art director posts an AI-assisted prototype and gets buried — the clearest test yet of whether AI is tolerated even at the sketching stage.",
-      "published_iso": "2026-09-13T20:57:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
-      "excerpt": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI",
-      "title": "Zelda Art Director Receives Backlash For AI Prototype Test",
-      "category": "games"
+      "rationale": "젤다·스타폭스를 그린 원로 아티스트가 AI에 감탄했다가 팬 반발을 맞은 장면 — 창작자 개인의 AI 공개 발언이 어떤 비용을 치르는지 보여준다.",
+      "published_iso": "2026-09-14T15:45:07Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4wenzA6wmf2f5GELcQAra7-1920-80.jpg",
+      "excerpt": "You've met with a terrible post, haven't you?"
     }
   ]
 }

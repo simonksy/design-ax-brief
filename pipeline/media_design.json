@@ -1,36 +1,33 @@
 {
-  "date": "2026-09-14",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-cg-roundup-0913",
-      "type": "video",
-      "src": "pipeline/media/design-cg-roundup-0913.mp4",
-      "poster": "pipeline/media/design-cg-roundup-0913.jpg"
-    },
-    {
-      "id": "design-blender-hair-rig",
-      "type": "image",
-      "src": "pipeline/media/design-blender-hair-rig.jpg",
-      "poster": "pipeline/media/design-blender-hair-rig.jpg"
-    },
-    {
-      "id": "design-ux-roi-case",
-      "type": "image",
-      "src": "pipeline/media/design-ux-roi-case.jpg",
-      "poster": "pipeline/media/design-ux-roi-case.jpg"
-    },
-    {
-      "id": "design-imagined-speaker",
-      "type": "image",
-      "src": "pipeline/media/design-imagined-speaker.jpg",
-      "poster": "pipeline/media/design-imagined-speaker.jpg"
-    },
-    {
-      "id": "design-steamvr-update",
-      "type": "image",
-      "src": "pipeline/media/design-steamvr-update.jpg",
-      "poster": "pipeline/media/design-steamvr-update.jpg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "design",
+ "media": [
+  {
+   "id": "design-double-diamond",
+   "type": "image",
+   "src": "pipeline/media/design-double-diamond.png"
+  },
+  {
+   "id": "design-gemini-drive",
+   "type": "image",
+   "src": "pipeline/media/design-gemini-drive.jpg"
+  },
+  {
+   "id": "design-overgrown",
+   "type": "video",
+   "src": "pipeline/media/design-overgrown.mp4",
+   "poster": "pipeline/media/design-overgrown.jpg"
+  },
+  {
+   "id": "design-colab-review",
+   "type": "image",
+   "src": "pipeline/media/design-colab-review.jpg"
+  },
+  {
+   "id": "design-elevenlabs-mcp",
+   "type": "video",
+   "src": "pipeline/media/design-elevenlabs-mcp.mp4",
+   "poster": "pipeline/media/design-elevenlabs-mcp.jpg"
+  }
+ ]
 }

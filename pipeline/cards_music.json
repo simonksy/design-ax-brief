@@ -1,358 +1,317 @@
 {
-  "date": "2026-09-14",
-  "section": "music",
-  "cards": [
-    {
-      "id": "music-sting-plugin",
-      "eyebrow": "AI NEWS",
-      "headline": "생성 멜로디 도구 Sting\nMax for Live 밖으로 나오다",
-      "body": "Sting이 Max for Live를 떠나 VST3·AU·CLAP 플러그인이 됐다.",
-      "mini_headline": "Sting, 플러그인으로",
-      "tool": "Music",
-      "source": "cdm.link",
-      "url": "https://cdm.link/sting-the-plugin/",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "생성 멜로디는 이렇게 다뤄야 한다. 표현을 더하고, 손으로 잡고, 앞이 보이지 않거나 시력이 약한 사람에게도 멜로디가 닿게 하는 것. 애시드 라인과 여러 패턴 생성기로 사랑받아온 Sting이 드디어 Max for Live를 벗어났다. VST3, AU, CLAP으로 macOS와 Windows, Linux에서 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "그동안 Sting이 자란 폭이 놀랍다. 패턴을 깎고 모듈레이션을 걸고 매핑하는 방법이 화면 가득 들어찼다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/09/sting-plugin-ui-862x1024.webp",
-            "cap": "새 Sting 플러그인 화면"
-          },
-          {
-            "t": "p",
-            "x": "애시드 베이스라인을 잘 뽑는 건 맞지만 Sting은 그 이상이다. “표현적이고, 알고리즘적이며, 즉흥적인” 시퀀스 메이커를 자처하고, 베이스라인이든 멜로디든 퍼커션 패턴이든 가리지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "‘생성형’이라는 말이 붙어도 운전대는 사람의 감각이 쥔다. 봇에게 원하는 걸 말로 설명하는 일은 기술 지원 상담원과 통화하는 것만큼이나 즐겁지 않다고 Peter Kirn은 못을 박는다. 발상 자체는 훌륭하지만 결국 근육을 쓰는 연주형 제어가 있어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "Iftah가 새로 붙인 Novation Launchpad 테이크오버 모드가 그 증거다. monome 지원도 이번에 들어갔다."
-          },
-          {
-            "t": "video",
-            "yt": "wwCPTVjfsBY"
-          },
-          {
-            "t": "p",
-            "x": "기능은 한꺼번에 늘었다. MIDI 파일을 불러올 수 있고 모듈레이션 섹션이 통째로 새로 짜였다. 두 개의 라인과 코드, 베이스를 함께 만들어내는 다성 대위법 모드도 추가됐다."
-          },
-          {
-            "t": "p",
-            "x": "접근성은 조작 전반에 깔려 있다. 색맹을 고려한 옵션을 포함한 15가지 컬러 테마가 있고 직접 테마를 만들 수도 있다. VoiceOver와 NVDA, Reaper의 OSARA 같은 스크린 리더와 호환되며, 매뉴얼도 스크린 리더로 읽히게 만들어 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "이번엔 완전 무료가 아니다. Apple이나 JUCE 같은 곳에 들어가는 플러그인 유지 비용 때문이다. 대신 사이트가 매일 일곱 개의 무료 다운로드를 푼다. 남은 수를 실시간으로 세는 카운터도 달려 있다."
-          },
-          {
-            "t": "p",
-            "x": "Sting “2022”가 나온 때가 Iftah표 Max for Live 장치 세대의 출발점이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/09/sting-2022-1024x611.jpg",
-            "cap": "Sting 2022"
-          },
-          {
-            "t": "p",
-            "x": "더 거슬러 올라가면 Iftah가 듀오 Skinnerbox의 반쪽이던 시절의 디자인이 있다. 찾아보면 아직 굴러다니지만, 2022년에 들어온 TYPE 컨트롤 없이 지내기는 이제 어렵다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdm.link/app/uploads/2026/09/sting64.jpeg",
-            "cap": "Skinnerbox 시절의 STING!64"
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-smartchain",
-      "eyebrow": "AI NEWS",
-      "headline": "sonible smart:chain\nAI가 정말 믹스를 해줄까",
-      "body": "파트너 콘텐츠로 실은 리뷰에서 smart:chain에 곡을 통째로 맡겨봤다.",
-      "mini_headline": "AI에 믹스를 맡기면",
-      "tool": "Music",
-      "source": "production-expert.com",
-      "url": "https://www.production-expert.com/production-expert-1/sonible-smartchain-can-ai-actually-mix-your-song",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Production Expert가 sonible의 smart:chain을 인서트에 통째로 걸어봤다. 손이 필요한 믹서를 겨냥한 이 플러그인은 sonible이 쌓아온 AI 노하우를 한자리에 모았고, 어떤 믹스에든 완성된 출발점을 준다고 말한다. 파트너 콘텐츠로 제작된 기사다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/f8a831af-4993-48a4-bbda-cf85bb91282a/smartchain-12.jpg",
-            "cap": "sonible smart:chain"
-          },
-          {
-            "t": "p",
-            "x": "AI는 업계 안팎을 가리지 않고 퍼져 있고 약속은 단순하다. 더 쉽게 해준다는 것. 거대 기술 기업의 속셈은 접어두더라도 스튜디오에서 AI가 준 이득은 분명하다. 스템 분리와 음성으로 조작하는 DAW 두 가지만으로도 조건이 다른 사람들에게 길이 열렸고, 난데없는 비틀즈 신곡까지 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "AI를 쓴 플러그인 자체는 오래됐다. 자동 파라미터 설정, 놀라운 수준의 노이즈 정리 같은 것들. Sonible은 리버브와 컴프레서, 이퀄라이저 같은 스튜디오 기본기를 똑똑하게 다시 짜면서 이름을 알렸다. 콘텐츠를 읽어내는 처리의 다음 수순이 채널 모양으로 나온 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "smart:chain은 지능형 채널 스트립이자 AI 믹싱 플러그인을 자처한다. EQ와 컴프레션, 디하싱, 게이팅, 인풋 라이딩, 새추레이션, 레벨링을 하나의 흐름으로 묶었다. 믹스 전체를 아우르는 제어까지 더해 바닥을 깔아주되, 최종 바운스의 판단은 엔지니어에게 남긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/033138c8-6a9e-4dda-9fa9-053d95a246fc/gui.jpg",
-            "cap": "smart:chain 인터페이스"
-          },
-          {
-            "t": "p",
-            "x": "영상에서는 균형도 처리도 전혀 손대지 않은 서브믹스와 트랙 뭉치를 그대로 넘겼다. Auto Levelling부터 시작해 여러 인스턴스가 장르에 맞춰 균형을 잡아가는 과정이 나온다."
-          },
-          {
-            "t": "video",
-            "yt": "BELM3SDitx4"
-          },
-          {
-            "t": "p",
-            "x": "프로세서를 더 파고들면 수동 제어로 엔지니어가 마무리를 얹는 방법이 이어진다. 인스턴스를 그룹으로 묶는 레이어 체계로 어떤 믹스 요소에 우선권을 줄지 정하는 대목도 보여준다."
-          },
-          {
-            "t": "p",
-            "x": "sonible 특유의 초록색 Learn 버튼이 제대로 된 채널 스트립 안으로 들어왔지만, 지난 성과를 모아둔 베스트 앨범과는 다르다. 트랙 레벨과 처리가 서로 반응하며 ‘맞는’ 균형을 찾아가게 만드는, 믹싱의 알맹이를 실행한다."
-          },
-          {
-            "t": "p",
-            "x": "사용자가 직접 정하는 그룹과 세 단계 지각적 깊이 레이어가 있고, 그 위에 수동 파라미터를 얹을 여지도 남아 있다."
-          },
-          {
-            "t": "p",
-            "x": "이제 막 오디오를 시작한 사람, 깊은 기술적 손질과 거리를 두고 싶은 사람에게 smart:chain은 쓸 만한 출발점을 주는 몇 안 되는 AI 채널 스트립이다. 곡을 믹스할 수 있느냐. 어디서 시작해야 할지 모르는 사람에게 토대가 되어 준다는 뜻이라면 답은 예스다."
-          },
-          {
-            "t": "p",
-            "x": "EQ와 컴프레션, 디하싱, 게이팅, 인풋 라이딩, 새추레이션, 클리핑, 레벨링까지 여덟 개의 지능형 프로세서가 한 플러그인에 들어간다. 한 번의 분석으로 모듈 전반의 출발점이 잡히고, 세션 전체를 아우르는 Auto Level과 깊이 배치도 지원한다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-sentient",
-      "eyebrow": "AI NEWS",
-      "headline": "주변 소리를 웨이브테이블로 바꾸는\nAUv3 뉴럴 신스 Sentient",
-      "body": "Sentient는 주변의 일상 소리를 신경망으로 들어 개인 웨이브테이블을 만든다.",
-      "mini_headline": "소리로 만든 웨이브테이블",
-      "tool": "Music",
-      "source": "synthanatomy.com",
-      "url": "https://synthanatomy.com/2026/09/sentient-an-auv3-synthesizer-for-ios-and-macos-powered-by-a-neural-network.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Sentient는 iOS와 macOS에서 돌아가는 새 AUv3 신시사이저다. 신경망이 일상의 소리를 듣고, 그 소리로 사용자마다 다른 웨이브테이블을 쌓아 올린다."
-          },
-          {
-            "t": "p",
-            "x": "최근 몇 달 사이 iOS용 신스가 쏟아졌지만 대부분은 익숙한 기능을 새 포장에 담은 쪽이다. Cellular 신스를 만든 Valery Mironov는 다른 걸 할 수 있다는 사실을 두 번째 작품으로 보여준다."
-          },
-          {
-            "t": "img",
-            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Sentient-Synthesizer-Valerymironov.jpg",
-            "cap": "Sentient"
-          },
-          {
-            "t": "p",
-            "x": "Cellular는 세포 자동자를 바탕에 둔 독특한 AUv3 플러그인이었다. Sentient도 웨이브테이블 신스지만 테이블과 소리를 만드는 방식이 다르다. 인터페이스 역시 요즘 흔한 정석적이고 무난한 화면과는 거리가 멀고 훨씬 장난스럽다."
-          },
-          {
-            "t": "p",
-            "x": "화면 위쪽에는 눈이 여러 개 달린 컨트롤러가 있다. 신경망의 학습 상태를 그대로 드러내는 장치다. 눈이 떠 있으면 학습하고 감으면 멈춘다. 길게 누르면 간단히 꺼진다."
-          },
-          {
-            "t": "p",
-            "x": "세로로 끌면 학습률이, 가로로 끌면 승자 뉴런이 이웃에 미치는 영향의 세기가 바뀐다. 떠 있는 눈의 수와 동공의 폭이 그 영향력을 나타낸다. 학습이 진행되는 동안 신경망은 눈에 보이게 부푼다."
-          },
-          {
-            "t": "p",
-            "x": "새 소리가 분석되면 그 소리에 가장 잘 맞는 뉴런이 내부 표상을 갱신하며 다른 뉴런보다 크게 부푼다. 가까운 뉴런도 조금씩 따라 바뀌면서 신경망 안에 매끄러운 소리 공간이 생긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Sentient-synth.jpg",
-            "cap": "두 개의 뉴런 그리드"
-          },
-          {
-            "t": "p",
-            "x": "그 아래 두 개의 그리드는 신경망의 두 반구다. 칸 하나가 뉴런 하나이고, 칸을 누르면 그 뉴런의 파형이 선택된다. 주황색 파형으로 해당 뉴런이 저장한 조각이 바로 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "행성이 그려진 컨트롤러는 신경망의 기억 장치에 가깝다. 시간을 오가며 저장된 상태를 훑고 저장과 삭제, 닫기를 한다. 초승달 모양 그림자가 하루 중 시각을, 달의 위치가 날짜를, 위성의 위치가 ISS를 닮은 인공 물체의 공전 주기를 나타낸다."
-          },
-          {
-            "t": "p",
-            "x": "그리드 아래에는 여섯 개의 신스 설정이 있다. 오실레이터 파형 선택과 주파수, 볼륨 슬라이더, 그리고 모듈레이션 뎁스와 레이트. 모듈레이션은 팬과 드라이브, 필터, 레조넌스로 보낸다. 별 모양 슬라이더는 가로로 필터를, 세로로 드라이브를 잡는다."
-          },
-          {
-            "t": "p",
-            "x": "맨 아래 여덟 개의 도형은 모듈레이션처럼 보이지만 아니다. 두 개의 조화 오실레이터를 겹쳐 만든 리사주 곡선으로 그린 여덟 개의 건반이고, 하나가 한 음에 대응한다."
-          },
-          {
-            "t": "p",
-            "x": "아직 데모가 없어 소리는 판단하기 어렵다. 발상이 독특해 궁금증만 커진다. 가격은 $5,99이고 iPhone과 iPad, macOS(Apple Silicon 네이티브)에서 스탠드얼론과 AUv3로 모두 돌아간다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-prime4-g2",
-      "eyebrow": "AI NEWS",
-      "headline": "Denon Prime 4 G2\nMPC 패드와 스템 분리를 품다",
-      "body": "Prime 4 G2는 MPC의 멀티터치 패드와 기기 내장 스템 분리를 함께 갖췄다.",
-      "mini_headline": "부스에 들어온 스템 분리",
-      "tool": "Music",
-      "source": "musicradar.com",
-      "url": "https://www.musicradar.com/music-tech/dj-gear/denons-prime-4-g2-is-a-uniquely-expressive-dj-setup-that-borrows-a-few-tricks-from-akais-mpc-range",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Denon DJ가 올인원 DJ 시스템의 최신작 Prime 4 G2를 내놨다. 4채널 기기이고, Akai가 최근 MPC에 넣은 기능 몇 가지를 흥미롭게 끌어왔다."
-          },
-          {
-            "t": "video",
-            "yt": "bSB4x9F-G-o"
-          },
-          {
-            "t": "p",
-            "x": "Prime 4 G2는 내장 CPU로 돌아가는 완전 독립형이다. 본체 저장장치에 담긴 음원으로 믹스하거나 Wi-Fi로 스트리밍해 틀 수 있다. ‘omnisource’라 부르는 구조 덕에 독립형 DJing과 Serato DJ Pro, Algoriddim djay 같은 소프트웨어의 컨트롤러 노릇 사이를 매끄럽게 오간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/WZ7r2kCaxA94oRpb9ArBNm-2560-80.jpg",
-            "cap": "Denon DJ Prime 4 G2"
-          },
-          {
-            "t": "p",
-            "x": "2세대로 넘어오며 Denon은 같은 inMusic 식구인 Akai Pro를 참고했다. 최근 MPC 라인에 들어간 개선을 상당 부분 옮겨왔는데, 그중 가장 눈길이 가는 건 MPC Live III와 MPC XL에 실린 멀티 익스프레션 MPCe 패드다."
-          },
-          {
-            "t": "p",
-            "x": "MPCe 패드는 벨로시티와 압력을 함께 읽고 X/Y 축을 따라 네 구역으로 나뉜다. 16개 패드 하나하나에서 여러 기능을 굴린다는 뜻이다. 핫큐나 샘플을 여럿 띄우고, 스템을 주무르고, 롤을 걸고, 이펙트로 연주하고, 조명까지 만진다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/RrhUg6QzeaHVPaZVgy7PYG-1200-80.jpg",
-            "cap": "MPCe 패드를 얹은 상판"
-          },
-          {
-            "t": "p",
-            "x": "이런 다중 표현 제어가 부스에서 얼마나 쓸모 있을지는 본인이 얼마나 ‘퍼포먼스’ 쪽 DJ인가에 달렸다. 16개 패드에 기능을 여러 겹 얹는 건 많은 사용자에게 과할 수 있다. 손이 빠른 연주형 DJ라면 셋을 넓힐 재미난 방법을 찾아낼 것이다."
-          },
-          {
-            "t": "p",
-            "x": "MPC와 마찬가지로 G2는 속을 크게 끌어올렸다. 8코어 ARM 프로세서와 4GB RAM을 얹었고, Denon의 설명으로는 이전 세대의 네 배에 해당하는 처리 능력이다. 트랙을 찾고 불러오는 속도가 빨라졌다."
-          },
-          {
-            "t": "p",
-            "x": "더 중요한 건 독립형 모드에서 본체만으로 트랙 스템을 렌더링하고 다룰 수 있다는 점이다. 이펙트도 늘어 Main FX 25종 이상, Touch FX 10종, Fader FX 네 개, Sweep FX 네 개를 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/CWXbyG3LkJXD8QtP4Jx7sN-1200-80.jpg",
-            "cap": "Prime 4 G2"
-          },
-          {
-            "t": "p",
-            "x": "전작처럼 10.1인치 터치스크린이 소프트웨어 조작의 중심을 맡는다. 조그휠은 6인치에서 8인치로 커졌고 듀얼 레일 페이더도 새로 설계했다."
-          },
-          {
-            "t": "p",
-            "x": "구독만 있다면 Amazon Music Unlimited, Apple Music, Beatport, SoundCloud Go+, TIDAL에서 무선으로 스트리밍한다. 태블릿과 스마트폰을 붙이는 블루투스도 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "3핀 DMX 출력이 있어 별도 인터페이스 없이 조명을 직접 제어한다. 메인 출력과 별개로 완전히 독립된 신호를 내보내는 Zone 출력도 달려, 행사나 파티 DJ가 두 방에 동시에 음악을 깐다."
-          },
-          {
-            "t": "p",
-            "x": "inMusic DJ 브랜드 제품 매니저 Jason Stout는 “퍼포먼스 중심 DJ는 기술이 배경으로 물러나고 창의성이 무대 한가운데 서기를 원합니다”라고 말했다. “고급 행사에서 자주 디제잉하는 사람으로서 저는 관객만큼 빠르게 적응하는 장비에 기댑니다. Prime 4 G2는 강력한 퍼포먼스 도구와 온보드 Stems, 스트리밍 접근, 통합 DMX 조명 제어를 하나의 작업 흐름으로 묶어, DJ가 박자를 놓치지 않으면서 음악과 분위기를 함께 빚게 해줍니다.”"
-          },
-          {
-            "t": "p",
-            "x": "Prime 4 G2는 이미 나와 있고 가격은 $2,599 USD/ 2,699.99€/£2,299.99다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-audio-intelligence",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple Audio Intelligence\nShazam 음악 인식을 품다",
-      "body": "Apple이 Audio Intelligence에 Shazam 음악 인식을 함께 넣었다.",
-      "mini_headline": "Shazam, 항상 켜지다",
-      "tool": "Music",
-      "source": "musically.com",
-      "url": "https://musically.com/2026/09/10/apples-audio-intelligence-includes-shazam-music-recognition/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Apple이 어젯밤 신제품 행사를 열었다. 접히는 모델을 포함한 새 아이폰과 AirPods, Apple Watch가 무대에 올랐다. 그런데 음악 쪽에서 가장 걸리는 발표는 따로 있었다. ‘Audio Intelligence’다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-10T111910.577.png?fit=2000%2C1500&ssl=1",
-            "cap": "Apple Watch에 뜬 곡 정보"
-          },
-          {
-            "t": "p",
-            "x": "무엇이고 왜인가. 새 Apple Watch 기기와 소프트웨어에 들어가는 기능으로, AI를 써서 “소리를 감지하고, 음악을 식별하고, 매 단계 프라이버시를 지키면서도 지금 이 순간에 머물도록 돕는다”는 설명이 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "짧게 말해 Apple Watch를 차고 있으면 시계가 마이크로 주변 환경을 계속 듣는다. 스마트 스피커가 하는 일과 크게 다르지 않다."
-          },
-          {
-            "t": "p",
-            "x": "초인종이 울리거나 알람이 울리면 알려준다. 청력이 나쁜 사람에게 쓸모 있는 대목이다. 하루 동안 오간 “대화를 메모”해 나중에 읽을 요약본을 만들어 주기도 하고, ‘Live Rewind’로 직전 15초에 오간 말의 기록을 열어볼 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "그리고 Shazam이다. Apple은 요약에서 “Shazam 음악 인식이 배경에 흐르는 곡을 자동으로 감지해, 위젯을 누르지 않아도 Smart Stack에 제목과 아티스트 이름을 띄운다”고 적었다."
-          },
-          {
-            "t": "p",
-            "x": "자동 Shazam 태깅 자체는 새롭지 않다. 모바일 앱에 들어간 지 10년이 훌쩍 넘었다. 다만 사람들의 손목시계 안으로 들어가는 건 새로운 전개다."
-          },
-          {
-            "t": "p",
-            "x": "하루 종일 듣고 있는 시계는 프라이버시 문제를 부른다. 착용자 본인과 주변 사람 모두에게, 그리고 그 데이터를 Apple이 어떻게 저장하고 쓰는가를 두고도 그렇다. Apple도 이 대목에 민감해서 ‘Privacy Overview’ 문서를 따로 내고 하나씩 짚었다."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "music",
+ "cards": [
+  {
+   "id": "music-protools-stem-separator",
+   "eyebrow": "AI NEWS",
+   "headline": "Pro Tools 세션 안에서\n믹스를 스템으로 가른다",
+   "body": "세션 안에서 스테레오 믹스를 스템으로 가르는 Pro Tools 확장이 공개됐다.",
+   "mini_headline": "Pro Tools 스템 분리",
+   "tool": "Music",
+   "source": "Production Expert",
+   "url": "https://www.production-expert.com/production-expert-1/avid-show-pro-tools-stem-separation-tech-preview-at-ibc-2026",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "Avid가 IBC 2026에서 Pro Tools Stem Separator 익스텐션의 기술 프리뷰를 공개했다. 스테레오 믹스 하나를 Pro Tools 생태계 안에서 곧바로 여러 스템으로 갈라놓는 확장 기능이다."
+     },
+     {
+      "t": "video",
+      "yt": "YccFL7lSLSQ"
+     },
+     {
+      "t": "p",
+      "x": "Production Expert는 전시장 현장에서 찍은 데모 영상을 함께 실었다."
+     },
+     {
+      "t": "img",
+      "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/68f659f0-e995-460e-83a4-015db1024ce6/Avid+Show+Pro+Tools+Stem+Separation+Tech+Preview+At+IBC+2026.webp",
+      "cap": "IBC 2026 전시장에서 공개된 Pro Tools 스템 분리 기술 프리뷰"
+     },
+     {
+      "t": "p",
+      "x": "그동안 Pro Tools에는 AI 스템 분리가 들어 있지 않았다. 엔지니어들은 내부 라우팅을 짜거나 바운스를 반복하는 오래된 방식으로 버텨왔다."
+     },
+     {
+      "t": "p",
+      "x": "다른 DAW에는 이미 비슷한 기능이 붙어 있다. 빠른 네이티브 해법을 오래 기다려온 이유다. 이번 프리뷰가 플랫폼의 분기점이 될 수도 있다."
+     },
+     {
+      "t": "p",
+      "x": "고급 스템 분할 기술이 Pro Tools 안으로 들어오면 음악 작업자와 포스트 작업자가 나란히 득을 본다. 음악 쪽 쓰임새는 설명이 필요 없고, 포스트 쪽에서는 대사와 주변음을 갈라내는 작업이 가장 먼저 떠오른다. 물론 그게 전부는 아니다."
+     },
+     {
+      "t": "p",
+      "x": "당장 Pro Tools에서 스템 분리가 필요하다면 길이 아예 없지는 않다. Steinberg의 SpectraLayers Go는 ARA2 방식 스템 분리 도구인데, 활성 Pro Tools 구독에 이미 번들로 들어 있고 타임라인에서 바로 불러 쓴다."
+     },
+     {
+      "t": "p",
+      "x": "SpectraLayers Pro 13에는 Reconstruct, Attenuate, Voice Unclip, Ambience Heal 모듈이 기존 Unmix Soundtrack·Unmix Song·Unmix Noisy Speech 흐름과 나란히 추가됐다. Avid의 네이티브 구현이 넘어야 할 성능 기준선이 여기에 그어져 있다."
+     },
+     {
+      "t": "p",
+      "x": "Unmix Song은 ARA2로 Pro Tools 세션 안에서 스테레오 믹스를 드럼과 보컬, 베이스, 기타, 피아노 같은 스템으로 나눈다. Avid의 기술 프리뷰가 네이티브로 해내겠다고 약속한 바로 그 일이다."
+     },
+     {
+      "t": "p",
+      "x": "Pro Tools 바깥에도 선택지가 있다. Go-Splitter는 애플 실리콘에서 오프라인으로 도는 무료 앱으로, 네 갈래 스템을 DAW에 바로 올릴 WAV로 뽑아준다."
+     },
+     {
+      "t": "p",
+      "x": "아직은 기술 프리뷰다. Avid가 자체 스템 분리 도구를 정식으로 내놓을 시점은 공개되지 않았다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-elevenlabs-music-v25",
+   "eyebrow": "AI NEWS",
+   "headline": "일레븐랩스 Music v2.5,\nUMG는 관여하지 않았다",
+   "body": "유니버설과 손잡은 직후지만 일레븐랩스는 v2.5에 UMG가 없었다고 못 박았다.",
+   "mini_headline": "Music v2.5 공개",
+   "tool": "Music",
+   "source": "Music Ally",
+   "url": "https://musically.com/2026/09/14/elevenlabs-unveils-music-v2-5-but-umg-wasnt-involved/",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "일레븐랩스가 유니버설 뮤직 그룹과 라이선스 계약을 발표한 지 며칠 만에 AI 음악 서비스 일레븐뮤직의 최신 버전을 내놨다. 그러면서 이번 모델에 UMG는 관여하지 않았다고 선을 그었다."
+     },
+     {
+      "t": "img",
+      "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-14T122324.355.png?fit=2000%2C1500&ssl=1"
+     },
+     {
+      "t": "p",
+      "x": "새 모델 이름은 Music v2.5다. 회사는 \"지금까지 만든 최고의 음악 모델\"이라고 소개하며 악기 소리가 진짜처럼 들리고, 곡에 층과 움직임이 늘었으며, 끝까지 형태가 흐트러지지 않는다고 설명했다."
+     },
+     {
+      "t": "p",
+      "x": "개선 폭이 가장 크게 드러나는 쪽은 보컬 중심이거나 어쿠스틱 비중이 높은 장르라고 한다. R&B와 소울, 힙합, 록, 메탈, 오케스트라, 시네마틱 음악이 여기 들어간다."
+     },
+     {
+      "t": "p",
+      "x": "새 모델은 일레븐뮤직 서비스에서 쓸 수 있고, 마케터와 미디어 기업을 겨냥한 일레븐크리에이티브 도구에도 들어갔다. 개발자는 일레븐랩스 API로 부른다."
+     },
+     {
+      "t": "p",
+      "x": "그리고 해명이 붙었다. 회사는 최근 UMG와 라이선싱부터 제품 개발까지 아우르는 다년간의 전략적 합의를 발표했지만, 그 계약은 Music 2.5와 별개라고 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "UMG 건에는 코발트, 멀린과 맺은 계약이 함께 따라붙었다. 퍼블리싱 라이선서와 원반 라이선서에게 돌아가는 로열티를 대등하게 맞추겠다는 약속이 담겼다."
+     },
+     {
+      "t": "p",
+      "x": "UMG와는 별도의 새 AI 음악 플랫폼을 만든다. 리믹스와 매시업, 기존 곡의 새로운 해석, 개인화된 보컬 경험에 초점을 맞춘 서비스다."
+     },
+     {
+      "t": "p",
+      "x": "아티스트를 위한 도구도 두 회사가 함께 개발한다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-nopia-harmony-generator",
+   "eyebrow": "AI NEWS",
+   "headline": "건반 한 칸이\n음이 아니라 코드다",
+   "body": "건반 한 칸이 음 하나가 아니라 코드 하나를 맡는 세미모듈러 악기다.",
+   "mini_headline": "손으로 만드는 화성",
+   "tool": "Music",
+   "source": "Synthtopia",
+   "url": "https://www.synthtopia.com/content/2026/09/11/nopia-semi-modular-harmony-generator-synthesizer-sneak-preview/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "WpNHSMlLC7k"
+     },
+     {
+      "t": "p",
+      "x": "개발자 마르틴 그리에코가 Nopia의 사전 공개 영상을 내놨다. 자체 음원 엔진과 MIDI 연결을 갖춘 세미모듈러 하모니 제너레이터다."
+     },
+     {
+      "t": "p",
+      "x": "Nopia의 인터페이스는 한 옥타브 배열 안에 음조를 담는다. 건반 한 칸이 음 하나가 아니라 코드 하나를 맡는 구조다."
+     },
+     {
+      "t": "p",
+      "x": "Chord Builder와 Tonal Selector, Extensions 컨트롤로 코드의 변형과 진행을 고른다."
+     },
+     {
+      "t": "p",
+      "x": "내부 음원 엔진은 샘플 기반 방식과 버추얼 아날로그 방식을 섞어 쓴다. Keys, Bass, Arp, Pad 네 개 사운드 모듈이 마스터 이펙트 체인과 루퍼로 흘러든다."
+     },
+     {
+      "t": "p",
+      "x": "멀티터치 정전식 센서가 스트러밍과 피치 벤드 제스처를 받는다. OLED 디스플레이에는 코드 상태와 파라미터 변화가 뜬다."
+     },
+     {
+      "t": "p",
+      "x": "스트럼 컨트롤을 쓰면 코드 안의 개별 음을 하나씩 짚는다. 피치 벤드는 반음 단위뿐 아니라 미분음까지 제스처로 다룬다."
+     },
+     {
+      "t": "p",
+      "x": "MIDI TRS 출력은 네 개다. Keys/General, Bass, Arp, Pad 모듈에 각각 전용으로 배정됐다."
+     },
+     {
+      "t": "p",
+      "x": "첫 한정 수량 예약 판매는 9월 15일 미국 동부시간 오전 9시 킥스타터에서 열린다. 슈퍼 얼리버드 가격은 세금과 배송비를 뺀 650달러부터다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-cuetrak-ai-cue-sheets",
+   "eyebrow": "AI NEWS",
+   "headline": "가장 지겨운 큐시트 작성을\nAI 인식이 대신한다",
+   "body": "뮤직리포츠의 큐트랙이 오디오셰이크 인식 기술을 붙여 큐시트 초안을 뽑는다.",
+   "mini_headline": "큐시트 자동 생성",
+   "tool": "Music",
+   "source": "Digital Music News",
+   "url": "https://www.digitalmusicnews.com/2026/09/09/the-next-generation-of-cue-sheet-creation/",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "제작 현장에서 큐시트는 흔한 서류처럼 보이지만 로열티 사슬의 길목에 놓여 있다. 빠짐없이 정확하게 제때 들어가면 퍼블리셔와 작곡가, 작사가, 권리자에게 음악이 어떻게 쓰였는지 분명한 기록이 남는다. 틀리면 그 여파는 로열티 손실이 되어 아래로 번진다."
+     },
+     {
+      "t": "img",
+      "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/music-reports-cuetrak-acr-hero-1024x724.png"
+     },
+     {
+      "t": "p",
+      "x": "큐 하나를 놓치거나 길이를 잘못 세거나 트랙을 인식하지 못하면 보고에 구멍이 난다. 그 구멍은 로열티를 엉뚱한 쪽으로 보낸다. 정확한 큐시트를 만드는 일은 행정 업무라기보다 창작자가 제 몫을 받게 하는 의무에 가깝다."
+     },
+     {
+      "t": "p",
+      "x": "일은 갈수록 복잡해진다. TV와 영화, 스트리밍, 스포츠, 비디오게임, 팟캐스트, 피트니스 프로그램, 소셜 영상, 아카이브 카탈로그가 저마다 음악 사용 데이터를 쏟아낸다. 두 시간짜리 방송 하나에 큐가 수백 개 들어가고 숏폼 채널 하나에 음악이 실린 콘텐츠가 수천 편 쌓이는 상황을, 수작업 큐시트는 애초에 상정하지 않았다."
+     },
+     {
+      "t": "p",
+      "x": "Music Reports의 큐시트·분석 플랫폼 Cuetrak은 AudioShake의 음악 탐지·식별 기술을 새로 연결해 이 지점에 손을 댔다. 미디어 파일 하나를 올리면 AudioShake의 Copyright Compliance System이 믹스 속 녹음물을 찾아 식별하고 구조화된 큐 데이터를 돌려준다. Cuetrak은 그걸 받아 큐시트로 완성한다."
+     },
+     {
+      "t": "img",
+      "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/music-reports-cuetrak-acr-904x1024.png"
+     },
+     {
+      "t": "p",
+      "x": "정확한 큐시트는 곡 목록을 적는 일로 끝나지 않는다. 어떤 녹음물이 들어 있는지, 언제 시작해 얼마나 이어지는지, 저작권자가 누구인지부터 확인해야 한다. 격한 대사 밑에 깔린 언더스코어, 관중 소리와 중계 멘트에 묻힌 노래, 메타데이터 하나 없는 아카이브 릴 속 삽입곡이라면 난이도가 확 올라간다."
+     },
+     {
+      "t": "p",
+      "x": "AudioShake의 최고경영자이자 공동창업자인 제시카 파월은 두 시간짜리 방송에 음악 큐가 수백 개 들어갈 수 있는데 지금까지는 사람이 하나하나 찾아야 했다고 말했다. 소셜과 라이브 스트림, TV, 팟캐스트까지 정확한 큐시트를 요구하는 채널이 늘어난 만큼 그 규모를 감당할 식별이 필요하다는 이야기다."
+     },
+     {
+      "t": "p",
+      "x": "작동 순서는 이렇다. 사용자가 미디어 파일을 올리면 AudioShake가 오디오 분리 기술로 대사와 효과음, 내레이션, 주변음에서 음악 신호만 떼어낸다. 음악이 나오는 지점을 잡아 각 큐의 녹음물을 식별하고 트랙 정보와 타이밍, 길이를 반환한다. Cuetrak은 거기에 퍼블리싱 정보를 더해 검토와 배포, 보고용 큐시트 문서로 올려둔다."
+     },
+     {
+      "t": "p",
+      "x": "Music Reports 최고경영자 제이슨 워커는 큐시트가 그 뒤의 데이터만큼만 좋다고 했다. 콘텐츠 안에 어떤 녹음물이 있는지 알아내는 일이 늘 가장 어려운 대목이었고, AudioShake를 쓰면 파일을 올리는 것만으로 안에 무엇이 담겼는지 정확한 그림에서 출발한다는 설명이다."
+     },
+     {
+      "t": "p",
+      "x": "묻힌 큐를 찾아다니는 시간이 줄면 결과를 검증하고 예외를 처리하고 권리 데이터를 다듬는 쪽으로 시간이 넘어간다. 백카탈로그나 낯선 콘텐츠 라이브러리, 음악이 빽빽한 편성도 감당할 만해진다."
+     },
+     {
+      "t": "p",
+      "x": "AudioShake 기반 자동 콘텐츠 인식(ACR)은 Cuetrak이 갖춰둔 다른 가속 장치들과 나란히 선다. 엑셀 템플릿이나 EDL 데이터, Trevanna Tracks 임포트로 시작해도 되고, Songdex와 직접 연동하면 드래그 앤 드롭만으로 곡 정보가 채워진다."
+     },
+     {
+      "t": "p",
+      "x": "큐시트가 화려해질 일은 없다. 다만 음악 권리 보고를 떠받치는 기반 설비라는 자리는 그대로다. 이 기사는 디지털 뮤직 뉴스가 파트너인 Music Reports와 함께 만들었다."
+     }
+    ]
+   }
+  },
+  {
+   "id": "music-vinyl-bar-in-shibuya",
+   "eyebrow": "AI NEWS",
+   "headline": "음악 앱을 싱글처럼\n한 편씩 내놓는 스튜디오",
+   "body": "전 스포티파이 혁신 총괄이 소리를 가지고 노는 작은 음악 앱을 잇달아 낸다.",
+   "mini_headline": "음악 앱 내는 스튜디오",
+   "tool": "Music",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "AI 열풍 속에서 새 스타트업들은 원하는 아티스트의 스타일로 프롬프트를 넣어 음악을 만드는 도구를 쏟아내는 중이다. 인디 밴드 이름처럼 들리는 A Vinyl Bar in Shibuya는 결이 조금 다르다. 소리와 보컬을 가지고 놀 수 있는 작은 앱을 연달아 내놓는 데 집중한다."
+     },
+     {
+      "t": "img",
+      "src": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?w=1024"
+     },
+     {
+      "t": "p",
+      "x": "회사는 프리시드 라운드에서 550만 달러를 모았다. Mantis VC, SV Angel, BoxGroup, Quiet Capital, Remarkable Ventures, Common Metal, Gold House, Liquid 2 Ventures, Breakers VC, Collaborative Fund, Systemic Ventures가 참여했고, 스포티파이의 전 최고콘텐츠·광고사업책임자 던 오스트로프는 자문으로 합류했다."
+     },
+     {
+      "t": "p",
+      "x": "창업자는 스포티파이에서 혁신 부문을 이끌던 마우한 M. 조누지다. 그 전에는 영상 클리핑·리믹스 스타트업 Bubbl을 세웠고, 이 회사는 Cricket Media에 인수됐다."
+     },
+     {
+      "t": "img",
+      "src": "https://techcrunch.com/wp-content/uploads/2026/09/Copy-of-Mauhan-Headshot.jpg?w=524",
+      "cap": "창업자 마우한 M. 조누지"
+     },
+     {
+      "t": "p",
+      "x": "2024년 스포티파이를 떠난 조누지는 자기 것을 다시 만들고 싶은 마음이 늘 있었다고 했다. 스트리밍이 접근성 문제는 풀었지만 음악과의 상호작용은 여전히 소비 언저리에 머물러 있다는 게 그의 진단이다."
+     },
+     {
+      "t": "p",
+      "x": "그는 테크크런치에 \"젊은 청중의 새로운 행동을 들여다보니 다들 게임과 필터, 창작 도구로 문화를 가지고 놀며 자라고 있었다\"며 음악에서도 사람들이 비슷한 일을 하도록 힘을 실어줄 여지가 보였다고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "스튜디오는 이 실험들을 앨범에 실린 \"싱글\"처럼 한 편씩 발표한다. 앱과 웹사이트를 관통하는 공통점은 여러 요소를 만지며 음악을 만들거나 소리를 바꾸는 방식이다."
+     },
+     {
+      "t": "p",
+      "x": "Speed Surfer는 브라우저 창에서 재생 중인 소리의 속도와 필터를 바꾸는 크롬 확장이다. Usersound에서는 글자 하나가 음 하나가 되는 \"오디오\" 사용자 이름을 만든다. Stacks는 3×3 격자의 막대를 켜고 끄며 믹스를 짜는 스템 플레이어이고, Drops는 떨어지는 구슬을 판으로 튕겨 음을 만든다. Sampler는 유튜브 영상을 구간별 비트에 맞춘 샘플러로 바꾼다."
+     },
+     {
+      "t": "p",
+      "x": "가장 야심 찬 제품은 iOS 앱 bop이다. 격자에 악기와 이펙트를 놓아 기본 곡의 여러 믹스를 만들고, 템포를 조절하거나 일회성 이펙트를 얹는다. 완성한 믹스는 틱톡이나 인스타그램으로 바로 내보낸다. 다른 사람과 함께 곡을 리믹스하는 멀티플레이어 버전도 준비 중이고, 최근에는 소리를 만드는 프롬프트 기반 기능이 들어갔다."
+     },
+     {
+      "t": "p",
+      "x": "조누지는 앱 구석구석에 AI를 밀어 넣지 않기로 한 것이 계산된 선택이라고 말한다. 제품을 만들고 인프라를 단단히 다지는 데 AI를 쓰는 일에는 열려 있다."
+     },
+     {
+      "t": "p",
+      "x": "그는 AI가 대단히 강력하지만 음악의 미래가 AI 곡 생성만은 아니라고 본다. AI로 콘텐츠가 흔해질수록 취향과 사람의 관점, 상호작용과 참여는 오히려 더 중요해지고 더 값이 나간다는 것이다. 그것들이 더 희귀해지지 않게 붙드는 게 회사가 하려는 일이다."
+     },
+     {
+      "t": "p",
+      "x": "올해 목표는 \"뮤지컬 샌드박스 믹서\"를 내놓는 것이다. 악기를 직접 만드는 일까지 포함해 음악 만들기의 여러 요소를 만지작거리는 제품이다."
+     }
+    ]
+   }
+  }
+ ]
 }

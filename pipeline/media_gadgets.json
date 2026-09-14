@@ -1,36 +1,31 @@
 {
-  "date": "2026-09-14",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-unitree-robot-dog",
-      "type": "image",
-      "src": "pipeline/media/gadgets-unitree-robot-dog.jpg",
-      "poster": "pipeline/media/gadgets-unitree-robot-dog.jpg"
-    },
-    {
-      "id": "gadgets-rayneo-io-glasses",
-      "type": "image",
-      "src": "pipeline/media/gadgets-rayneo-io-glasses.jpg",
-      "poster": "pipeline/media/gadgets-rayneo-io-glasses.jpg"
-    },
-    {
-      "id": "gadgets-dex-kids-camera",
-      "type": "image",
-      "src": "pipeline/media/gadgets-dex-kids-camera.jpg",
-      "poster": "pipeline/media/gadgets-dex-kids-camera.jpg"
-    },
-    {
-      "id": "gadgets-ai-agent-home-hack",
-      "type": "image",
-      "src": "pipeline/media/gadgets-ai-agent-home-hack.jpg",
-      "poster": "pipeline/media/gadgets-ai-agent-home-hack.jpg"
-    },
-    {
-      "id": "gadgets-arm-c2-mali",
-      "type": "image",
-      "src": "pipeline/media/gadgets-arm-c2-mali.jpg",
-      "poster": "pipeline/media/gadgets-arm-c2-mali.jpg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "gadgets",
+ "media": [
+  {
+   "id": "gadgets-ios27-siri",
+   "type": "image",
+   "src": "pipeline/media/gadgets-ios27-siri.jpg"
+  },
+  {
+   "id": "gadgets-steam-frame",
+   "type": "image",
+   "src": "pipeline/media/gadgets-steam-frame.jpg"
+  },
+  {
+   "id": "gadgets-vscode-stt",
+   "type": "image",
+   "src": "pipeline/media/gadgets-vscode-stt.jpg"
+  },
+  {
+   "id": "gadgets-ios27-camera-ai",
+   "type": "image",
+   "src": "pipeline/media/gadgets-ios27-camera-ai.jpg"
+  },
+  {
+   "id": "gadgets-comu-action-pro",
+   "type": "image",
+   "src": "pipeline/media/gadgets-comu-action-pro.jpg"
+  }
+ ]
 }
