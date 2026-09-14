@@ -1,71 +1,61 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "movies",
   "picks": [
     {
-      "url": "https://www.awn.com/news/vicon-acquires-captive-devices-facial-capture-firm",
-      "source": "Animation World Network",
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "title": "Vicon Acquires Captive Devices Facial Capture Firm",
-      "published_iso": "2026-09-08T20:12:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/head_mounted_camera_image2-1280.jpg?itok=GZQGZjfu",
-      "excerpt": "The Oxford Metrics motion capture division picks up the Manchester maker of the CoreHMC head-mounted rig, which feeds performer data into Unreal Engine and MetaHuman Animator.",
-      "rationale": "Concrete performance-capture pipeline consolidation — CoreHMC feeding Unreal/MetaHuman changes what a facial-capture stage can budget for next season."
-    },
-    {
-      "url": "https://www.screendaily.com/news/mind-the-gap-selling-ai-val-kilmer-in-as-deep-as-the-grave-at-tiff/5220305.article",
-      "source": "Screen Daily",
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "title": "Mind The Gap selling AI Val Kilmer in 'As Deep As The Grave' at TIFF",
-      "published_iso": "2026-09-11T11:00:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/1/9/1487119_valkilmerasdeepasthegrave11_364276_crop.jpg",
-      "excerpt": "Mind The Gap arrived at TIFF: The Market selling historical drama 'As Deep As The Grave,' which uses AI to recreate the late Val Kilmer in a role he signed on for before his death — with family permission, SAG-AFTRA compliance and estate compensation.",
-      "rationale": "A synthetic-performance deal actually going to market with consent, SAG-AFTRA compliance and estate payment — the template other productions will be asked to copy."
-    },
-    {
-      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
-      "source": "Variety",
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "title": "Kling AI's TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking",
-      "published_iso": "2026-09-12T16:08:35Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Kling AI powered and hosts the TIFF The Market panel 'New Creative Paradigm: Consistent, Cinematic AI Video' in Toronto.",
-      "rationale": "Working filmmakers naming where generative video still breaks — consistency, continuity, control — and how they route around it on real shoots."
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/",
+      "url": "https://www.animationmagazine.net/2026/09/murphy-pre-prod-software-applies-ai-to-film-planning-not-generation/",
       "source": "Animation Magazine",
       "tool": "Movies",
-      "category": "movies",
-      "accent": "#2ec5c5",
+      "accent": "#0070f3",
       "motif": "frame",
-      "title": "Animation Vets Joel Kuwahara & Mark Evestaff Launch 'The Salty Tales of Tony & Keith' AI-Assisted Series",
-      "published_iso": "2026-09-11T17:23:42Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-kv.jpg",
-      "excerpt": "'The Salty Tales of Tony & Keith' is a hybrid traditional/AI assisted pipeline 2D series from alums of 'Bob's Burgers' and 'The Snoopy Show.'",
-      "rationale": "Veteran 2D showrunners publishing an actual hybrid hand-drawn/AI pipeline — a concrete production model rather than a manifesto."
+      "rationale": "생성이 아니라 프리프로덕션 계획의 잡일에 AI를 붙인 새 소프트웨어 — 내일 당장 기획·스케줄 작업에 시험해볼 만하다.",
+      "published_iso": "2026-09-14T21:26:49Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Murphy-site-sc.png",
+      "excerpt": "Murphy is a pre-production solution which applies AI to the tedious parts of film creation, freeing artists to focus on more creative tasks."
     },
     {
-      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
-      "source": "IndieWire",
+      "url": "https://www.provideocoalition.com/battle-of-the-nle-ai-assistants/",
+      "source": "ProVideo Coalition",
       "tool": "Movies",
-      "category": "movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "실제 편집 잡에 Premiere 베타 어시스턴트와 Resolve AI를 나란히 붙여본 실사용 비교 — 편집자가 어느 쪽에 준비 작업을 맡길지 판단 근거가 된다.",
+      "published_iso": "2026-09-14T11:30:36Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/18a5cf6c-615d-47a2-95cc-89c505178013.png",
+      "excerpt": "This is really just a stream-of-consciousness post. I had a rather simple edit job that felt like the perfect place for an AI assistant to do some prep and setup so I didn't have to. I decided to document and post the results here after playing around with asking both the Premiere (Beta) Assistant and the Resolve assistant."
+    },
+    {
+      "url": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
+      "source": "befores & afters",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "ComfyUI·GripTape를 가르치는 VFX 슈퍼바이저가 지금 아티스트가 실제로 마주한 AI/ML 지형을 정리한다 — 툴 학습 우선순위를 잡는 데 직접 쓰인다.",
+      "published_iso": "2026-09-14T11:25:09Z",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/erandinur.jpg",
+      "excerpt": "Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now."
+    },
+    {
+      "url": "https://www.redsharknews.com/colorfront-qumulo-neuralsearch-metadata",
+      "source": "RedShark News",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "카메라·렌즈·컬러 데이터를 파일 안에 새겨 프로덕션 수명 내내 검색되게 만드는 온셋 메타데이터 워크플로 — 포스트 인계 방식이 바뀐다.",
+      "published_iso": "2026-09-14T05:49:56Z",
+      "og_image": "https://www.redsharknews.com/hubfs/Colorfront%20On-Set%20Dailies.jpg",
+      "excerpt": "Colorfront and Qumulo now write on-set metadata directly into media files, keeping camera, lens and color data searchable for the life of a production."
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/tilly-norwood-interview-1236700405/",
+      "source": "The Hollywood Reporter",
+      "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Venice Jury President Maggie Gyllenhaal on Her Short 'Flesh Impact,' Casting Ellen Burstyn, and AI",
-      "published_iso": "2026-09-12T17:23:31Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
-      "excerpt": "Venice 2026 competition jury president Maggie Gyllenhaal discusses her short 'Flesh Impact,' starring Ellen Burstyn, and why her AI experiment failed.",
-      "rationale": "A director who ran the AI experiment on a real short and reports exactly where it broke — the rare negative result with craft detail attached."
+      "rationale": "AI '배우' 틸리 노우드의 첫 기자 라운드 취재기 — 합성 퍼포머가 실제로 어디까지 작동하고 어디서 무너지는지 직접 관찰한 기록.",
+      "published_iso": "2026-09-14T16:41:01Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FotoJet-2026-09-14T125853.843.jpg?w=1440&h=810&crop=1",
+      "excerpt": "The creators of the AI-generated \"performer\" set up a press junket with journalists. It felt cringeworthy, rehearsed and clunky."
     }
   ]
 }

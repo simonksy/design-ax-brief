@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-14",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-hidden-proteins",
-      "type": "image",
-      "src": "pipeline/media/science-hidden-proteins.jpg"
-    },
-    {
-      "id": "science-pacman-fusion",
-      "type": "image",
-      "src": "pipeline/media/science-pacman-fusion.png"
-    },
-    {
-      "id": "science-blazar-jet",
-      "type": "video",
-      "src": "pipeline/media/science-blazar-jet.mp4",
-      "poster": "pipeline/media/science-blazar-jet.jpg"
-    },
-    {
-      "id": "science-quantum-bitcoin",
-      "type": "image",
-      "src": "pipeline/media/science-quantum-bitcoin.jpg"
-    },
-    {
-      "id": "science-glp1-reddit",
-      "type": "svg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "science",
+ "media": [
+  {
+   "id": "science-cell-models",
+   "type": "image",
+   "src": "pipeline/media/science-cell-models.jpg"
+  },
+  {
+   "id": "science-agent-whistleblow",
+   "type": "image",
+   "src": "pipeline/media/science-agent-whistleblow.jpg"
+  },
+  {
+   "id": "science-afm-autopilot",
+   "type": "image",
+   "src": "pipeline/media/science-afm-autopilot.jpg"
+  },
+  {
+   "id": "science-speech-schizophrenia",
+   "type": "image",
+   "src": "pipeline/media/science-speech-schizophrenia.jpg"
+  },
+  {
+   "id": "science-fields-declaration",
+   "type": "image",
+   "src": "pipeline/media/science-fields-declaration.jpg"
+  }
+ ]
 }

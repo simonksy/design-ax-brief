@@ -1,36 +1,34 @@
 {
-  "date": "2026-09-14",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-fable-npc",
-      "type": "image",
-      "src": "pipeline/media/games-fable-npc.jpg",
-      "poster": "pipeline/media/games-fable-npc.jpg"
-    },
-    {
-      "id": "games-saber-willits",
-      "type": "image",
-      "src": "pipeline/media/games-saber-willits.jpg",
-      "poster": "pipeline/media/games-saber-willits.jpg"
-    },
-    {
-      "id": "games-witcher4-ai",
-      "type": "video",
-      "src": "pipeline/media/games-witcher4-ai.mp4",
-      "poster": "pipeline/media/games-witcher4-ai.jpg"
-    },
-    {
-      "id": "games-tagforce-ai-loc",
-      "type": "video",
-      "src": "pipeline/media/games-tagforce-ai-loc.mp4",
-      "poster": "pipeline/media/games-tagforce-ai-loc.jpg"
-    },
-    {
-      "id": "games-imamura-proto",
-      "type": "image",
-      "src": "pipeline/media/games-imamura-proto.jpg",
-      "poster": "pipeline/media/games-imamura-proto.jpg"
-    }
-  ]
+ "date": "2026-09-15",
+ "section": "games",
+ "media": [
+  {
+   "id": "games-quest-8days",
+   "type": "video",
+   "src": "pipeline/media/games-quest-8days.mp4",
+   "poster": "pipeline/media/games-quest-8days.jpg"
+  },
+  {
+   "id": "games-qwen-local-fps",
+   "type": "image",
+   "src": "pipeline/media/games-qwen-local-fps.jpg"
+  },
+  {
+   "id": "games-pubg-dednet-placeholder",
+   "type": "video",
+   "src": "pipeline/media/games-pubg-dednet-placeholder.mp4",
+   "poster": "pipeline/media/games-pubg-dednet-placeholder.jpg"
+  },
+  {
+   "id": "games-dlss5-framerate",
+   "type": "video",
+   "src": "pipeline/media/games-dlss5-framerate.mp4",
+   "poster": "pipeline/media/games-dlss5-framerate.jpg"
+  },
+  {
+   "id": "games-imamura-backlash",
+   "type": "image",
+   "src": "pipeline/media/games-imamura-backlash.jpg"
+  }
+ ]
 }

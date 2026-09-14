@@ -1,71 +1,61 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "music",
   "picks": [
     {
-      "url": "https://cdm.link/sting-the-plugin/",
-      "source": "cdm.link",
+      "url": "https://www.production-expert.com/production-expert-1/avid-show-pro-tools-stem-separation-tech-preview-at-ibc-2026",
+      "source": "Production Expert",
       "tool": "Music",
-      "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Eminently controllable, accessible by design, Sting is now a plug-in - CDM Create Digital Music",
-      "published_iso": "2026-09-08T18:57:31Z",
-      "og_image": "https://cdm.link/app/uploads/2026/09/CleanShot-2026-09-08-at-20.29.51.png",
-      "excerpt": "Now this is how to do generative melodies. Add expression. Get control with your hands. Make melodies accessible -- including if you're blind and visually impaired. Sting, the beloved maker of acid melodies and other patterns, is confined to Max for Live no more: now, it's available as VST3, AU, CLAP / macOS, Windows, Linux.",
-      "rationale": "Generative melody engine escapes Max for Live into VST3/AU/CLAP on every OS — a hands-on tool a producer can load into their DAW tomorrow, with accessibility built in."
+      "rationale": "AI 소스 분리가 Pro Tools 세션 안으로 들어오는 첫 공식 프리뷰 — 믹스·포스트 작업 순서를 당장 바꾼다.",
+      "published_iso": "2026-09-11T14:25:00+01:00",
+      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa3f6dca96d3d3aaaadfd84/1789130505501/Avid+Show+Pro+Tools+Stem+Separation+Tech+Preview+At+IBC+2026.webp?format=1500w",
+      "excerpt": "Avid previewed a Pro Tools Stem Separator extension at IBC 2026 that splits a stereo mix into stems inside the session, pulling AI source separation into the pro post and mix workflow."
     },
     {
-      "url": "https://www.production-expert.com/production-expert-1/sonible-smartchain-can-ai-actually-mix-your-song",
-      "source": "production-expert.com",
+      "url": "https://musically.com/2026/09/14/elevenlabs-unveils-music-v2-5-but-umg-wasnt-involved/",
+      "source": "Music Ally",
       "tool": "Music",
-      "category": "music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "sonible smart:chain - Can AI Actually Mix Your Song?",
-      "published_iso": "2026-09-08T08:00:00Z",
-      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a99a7739f6f31176829aa3d/1788509863067/smartchain-12.jpg?format=1500w",
-      "excerpt": "We ran Sonible",
-      "rationale": "A real test-drive of sonible's AI mix chain rather than a press release — tells you where the automated chain holds up and where you still have to intervene."
+      "rationale": "생성 음악 모델 세대교체 소식이자, UMG 라이선스와 이 모델이 별개라는 선 긋기까지 함께 드러난 릴리스.",
+      "published_iso": "2026-09-14T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-14T122324.355.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Fresh from its Universal Music licensing deal, ElevenLabs has unveiled Music v2.5, the latest version of its AI music generation service - while stressing that UMG was not involved in this particular model."
     },
     {
-      "url": "https://synthanatomy.com/2026/09/sentient-an-auv3-synthesizer-for-ios-and-macos-powered-by-a-neural-network.html",
-      "source": "synthanatomy.com",
+      "url": "https://www.synthtopia.com/content/2026/09/11/nopia-semi-modular-harmony-generator-synthesizer-sneak-preview/",
+      "source": "Synthtopia",
       "tool": "Music",
-      "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Sentient, an AUv3 Synthesizer for iOS and macOS powered by a neural network",
-      "published_iso": "2026-09-12T10:19:07Z",
-      "og_image": "https://synthanatomy.com/wp-content/uploads/2026/09/Sentient-Synthesizer-Valerymironov.jpg",
-      "excerpt": "Sentient is an AUv3 Synthesizer for iOS/macOS, powered by a neural network that listens to everyday sounds to build a personalized wavetable",
-      "rationale": "A neural net that turns recorded everyday sound into personal wavetables — novel sound-design method, and it runs as an AUv3 on hardware people already carry."
+      "rationale": "프롬프트 대신 손으로 만지는 생성 화성 — 건반 문법을 모르는 사람에게 열린 하드웨어 작곡 인터페이스.",
+      "published_iso": "2026-09-11T17:22:38+00:00",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2023/05/nopia-midi-controller.jpg",
+      "excerpt": "Nopia is a compact chord-driven hardware instrument that generates harmony from gestures - a physical take on generative composition aimed at players who don't think in keyboards."
     },
     {
-      "url": "https://www.musicradar.com/music-tech/dj-gear/denons-prime-4-g2-is-a-uniquely-expressive-dj-setup-that-borrows-a-few-tricks-from-akais-mpc-range",
-      "source": "musicradar.com",
+      "url": "https://www.digitalmusicnews.com/2026/09/09/the-next-generation-of-cue-sheet-creation/",
+      "source": "Digital Music News",
       "tool": "Music",
-      "category": "music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Denon's Prime 4 G2 is an expressive DJ setup that borrows a few tricks from Akai's MPC range",
-      "published_iso": "2026-09-08T15:11:30Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WZ7r2kCaxA94oRpb9ArBNm-2560-80.jpg",
-      "excerpt": "The updated all-in-one DJ system comes equipped with the MPC's multi-touch MPCe pads as well as onboard stem separation",
-      "rationale": "Standalone hardware with on-device stem separation plus MPC pads — AI source separation moving off the laptop and into the booth changes how a set gets built."
+      "rationale": "영상음악 쪽에서 가장 지겨운 수작업인 큐시트 작성을 AI 인식이 대신한다 — 작곡가 실무가 바로 줄어든다.",
+      "published_iso": "2026-09-09T23:00:41+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/music-reports-cuetrak-acr-hero.png",
+      "excerpt": "Music Reports' Cuetrak now uses AudioShake-powered AI content recognition to build cue sheets automatically, taking one of the most tedious hand-logged jobs in music-for-picture off composers' desks."
     },
     {
-      "url": "https://musically.com/2026/09/10/apples-audio-intelligence-includes-shazam-music-recognition/",
-      "source": "musically.com",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+      "source": "TechCrunch",
       "tool": "Music",
-      "category": "music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Apple's 'Audio Intelligence' includes Shazam music recognition",
-      "published_iso": "2026-09-10T12:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-10T111910.577.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Apple held its latest new-products event last night, with new iPhones (including one that folds), AirPods and Apple Watches. But the most relevant announcement for us was 'Audio Intelligence'.",
-      "rationale": "The one platform-level story left standing: Apple folds Shazam recognition into an always-on audio layer, which reshapes how listeners discover and credit tracks."
+      "rationale": "프롬프트를 일부러 걷어낸 음악 앱 설계 — 텍스트-투-뮤직 반대편에서 인터랙션으로 승부하는 사례.",
+      "published_iso": "2026-09-14T13:55:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
+      "excerpt": "A former Spotify exec's studio ships experimental music-making 'singles' as small apps that deliberately avoid AI prompting, betting playful human interaction beats text-to-music generation."
     }
   ]
 }

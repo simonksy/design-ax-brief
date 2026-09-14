@@ -1,71 +1,61 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "design",
   "picks": [
     {
-      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
-      "source": "CG Channel",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Weekly sweep of the CG/VFX releases that slipped past, including AI-assisted lookdev and lighting tools an artist can install today.",
-      "published_iso": "2026-09-13T06:00:54Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260913_CGSoftwareYouMayHaveMissed13September2026_f-960x480.jpg",
-      "excerpt": "CG Channel's weekly roundup of the CG, VFX and motion-graphics software releases you may have missed, including new AI-assisted lookdev and lighting tools for Blender and DCC pipelines.",
-      "title": "New CG software you may have missed: 13 September 2026",
-      "category": "render"
-    },
-    {
-      "url": "https://80.lv/articles/this-free-blender-tool-makes-hair-rigging-easier/",
-      "source": "80 Level",
-      "tool": "KeyShot",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "rationale": "A free add-on that auto-builds deform bone chains along hair strands, collapsing one of character rigging's most tedious steps into a click.",
-      "published_iso": "2026-09-12T11:00:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50123/images/6aa16cd8a1256/full.jpeg",
-      "excerpt": "A free Blender add-on automatically creates deform bone chains along stylized hair strands, cutting one of the most tedious steps in character rigging down to a click.",
-      "title": "This Free Blender Tool Makes Hair Rigging Easier",
-      "category": "render"
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-      "source": "Smashing Magazine",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "A worked example of translating design and design-system work into the financial language executives actually fund — usable in this quarter's budget conversation.",
-      "published_iso": "2026-09-11T13:00:00Z",
-      "og_image": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
-      "excerpt": "Strong UX ideas do not secure investment on their own. Through a worked example, this piece shows how to frame design and design-system work in the financial language executives actually fund.",
-      "title": "Building A UX ROI Case That Survives The Boardroom",
-      "category": "tokens"
-    },
-    {
-      "url": "https://blog.logrocket.com/ux-design/imagined-speaker-brand-archetypes-ux-copy/",
-      "source": "LogRocket Blog",
+      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed",
+      "source": "UX Collective",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Turns vague brand archetypes into an 'imagined speaker' — a concrete voice spec that both writers and AI copy tools can actually follow.",
-      "published_iso": "2026-09-10T23:00:08Z",
-      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/09/What-to-do-when-brand-archetypes-dont-help-you-write-ux-copy.png",
-      "excerpt": "Learn how to turn abstract brand archetypes into natural UX copy by creating an imagined speaker, a technique that also gives AI writing tools a concrete voice to follow.",
-      "title": "What to do when brand archetypes don't help you write UX copy",
-      "category": "figma"
+      "rationale": "Generative AI collapsed the cost of building, so the double diamond's risk model breaks — the proposed replacement is a one-page brief plus a much wider generation step, a process change a team can adopt this week.",
+      "published_iso": "2026-09-14T18:52:50+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*euuE3WVu4wLT_et8GeAE-g.png",
+      "excerpt": "The double diamond and design thinking both priced building as the risky step — and generative AI collapsed that price. The author argues what survives is a one-page brief plus a much wider generation step."
     },
     {
-      "url": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
-      "source": "Road to VR",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Valve reworked SteamVR's core system UI and input handling ahead of Steam Frame — the platform layer every VR app designer prototypes on top of.",
-      "published_iso": "2026-09-11T16:20:00Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/06/steam-frame-hero.jpg",
-      "excerpt": "Valve dropped a sizeable SteamVR update ahead of the Steam Frame launch, reworking core system UI and input handling that VR app designers build on top of.",
-      "title": "Valve Drops Big SteamVR Update Ahead of Steam Frame Launch",
-      "category": "vr"
+      "url": "https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/",
+      "source": "Engadget",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Gemini now reorganizes files inside Google Drive, pushing agentic cleanup straight into the shared folders where design teams park assets and handoffs.",
+      "published_iso": "2026-09-14T18:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/you-can-use-gemini-to-help-you-organize-your-files-on-google-drive/l-intro-1788867662.jpg",
+      "excerpt": "Gemini can now organize files inside Google Drive, extending agentic cleanup into the shared folders where design teams keep assets and handoffs."
+    },
+    {
+      "url": "https://80.lv/articles/blender-s-overgrown-teaser-is-a-proof-of-concept-for-open-filmmaking/",
+      "source": "80 Level",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Blender Studio's OVERGROWN teaser is a working proof that a fully open-source pipeline reaches feature-grade quality — a real argument for teams weighing tool spend.",
+      "published_iso": "2026-09-14T19:27:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50199/images/6aa84a09782b1/contain_1200x630.jpg",
+      "excerpt": "Blender Studio revealed the teaser for OVERGROWN, its most ambitious open feature film yet — a proof of concept that fully open-source pipelines can hit feature-grade visual quality."
+    },
+    {
+      "url": "https://develop3d.com/cad/qa-taylor-young-colab-software/",
+      "source": "DEVELOP3D",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "CoLab's Taylor Young lays out design review rebuilt around automated checks instead of meetings and marked-up screenshots — a concrete change to how CAD teams run critique.",
+      "published_iso": "2026-09-14T10:09:39+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/CoLab_AI-Cad-Review-img.jpg",
+      "excerpt": "CoLab Software's Taylor Young on how design review is being restructured around automated checks and AI assistance rather than meetings and marked-up screenshots."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SdumUqJ3EN0",
+      "source": "DesignCourse",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "Step-by-step wiring of the ElevenLabs MCP server into Claude, turning voice and audio generation into a native step inside a designer's build workflow — copyable tomorrow.",
+      "published_iso": "2026-09-14T11:08:49-07:00",
+      "og_image": "https://i.ytimg.com/vi/SdumUqJ3EN0/maxresdefault.jpg",
+      "excerpt": "DesignCourse walks through wiring the ElevenLabs MCP server into Claude so voice and audio generation become a native step inside a designer's build workflow."
     }
   ]
 }

@@ -1,106 +1,115 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "movies",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
+      "url": "https://www.animationmagazine.net/2026/09/murphy-pre-prod-software-applies-ai-to-film-planning-not-generation/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-09-14T21:26:49Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Murphy-site-sc.png",
+      "excerpt": "Murphy is a pre-production solution which applies AI to the tedious parts of film creation, freeing artists to focus on more creative tasks.",
+      "title": "Murphy Pre-Prod Software Applies AI to Film Planning, Not Generation - Animation Magazine"
+    },
+    {
+      "url": "https://variety.com/2026/biz/features/a-qa-with-tilly-norwood-offers-fewer-reasons-her-existence-1236861262/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-14T18:24:01Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Talking-Tilly-launch-1-September-2026-1-1.png?w=1000&h=563&crop=1",
+      "excerpt": "In a Q&A with Tilly Norwood, one can't help but return to the original question: Who is this for?",
+      "title": "Interview With Tilly Norwood Reveals Even Fewer Reasons For the Existence of the AI ‘Actress’"
+    },
+    {
+      "url": "https://www.awn.com/news/davinci-resolve-211-brings-ai-assistant-control-and-new-fusion-3d-tools",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-09-14T18:23:35Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/davinci-resolve-21-edit-1280.jpg?itok=_pzvVC9x",
+      "excerpt": "Free update lets editors hand media organization and batch rendering to Claude or ChatGPT Codex, and adds more than 25 Krokodove 3D and shape tools, separate Dolby Vision, HDR10+, and HDR Vivid trim passes, and faster multi-cam editing; see at IBC 2026.",
+      "title": "DaVinci Resolve 21.1 Brings AI Assistant Control and New Fusion 3D Tools"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/tilly-norwood-interview-1236700405/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-09-14T16:41:01Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FotoJet-2026-09-14T125853.843.jpg?w=1440&h=810&crop=1",
+      "excerpt": "The creators of the AI-generated \"performer\" set up a press junket with journalists. It felt cringeworthy, rehearsed and clunky.",
+      "title": "An “Interview” With Tilly Norwood Proves Absurd and Underwhelming"
+    },
+    {
+      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-09-14T16:36:41Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/strada-3.png",
+      "excerpt": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition’s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come to Europe to further show off 2.0’s capabiliti",
+      "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World by Alec C. Cohen - ProVideo Coalition"
+    },
+    {
+      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-09-14T14:18:26Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
+      "excerpt": "Adobe’s Generative Media Tool allows users to produce text-to-media AI-generated content and directly import it within their Premiere Pro timeline. Instead of hopping back and forth between multiple different platforms, the tool aims to cut out the middleman and expedite workflows, keeping everything accessible within ",
+      "title": "PVC at IBC 2026: Adobe Debuts Generative Media Tool to Bring AI Directly into Premiere Pro Timeline by Alec C. Cohen - ProVideo Coalition"
+    },
+    {
+      "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
       "source": "RedShark News",
       "category": "movies",
-      "published_iso": "2026-09-12T16:47:04Z",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc%20adobe%20stand%202.jpg",
-      "excerpt": "Adobe walks through the new AI features landing in Premiere Pro, from generative extend and AI object masking to the assistant-driven edit tools shown at IBC 2026, and explains how editors are meant to fold them into existing timelines.",
-      "title": "Premiere's new AI tools, explained by Adobe"
+      "published_iso": "2026-09-14T12:52:54Z",
+      "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
+      "excerpt": "At IBC, Blackmagic",
+      "title": "DaVinci Resolve AI: Blackmagic keeps it assistive"
     },
     {
-      "url": "https://nofilmschool.com/adobe-generative-media-tool",
-      "source": "No Film School",
+      "url": "https://www.provideocoalition.com/battle-of-the-nle-ai-assistants/",
+      "source": "ProVideo Coalition",
       "category": "movies",
-      "published_iso": "2026-09-08T19:45:08Z",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67739708&width=1200&height=600&coordinates=124%2C0%2C124%2C0",
-      "excerpt": "More AI-powered tools and upgrades are coming to Premiere and After Effects as Adobe has unveiled its latest updates at IBC 2026.",
-      "title": "Adobe Unveils New Generative Media Tool in Premiere, Plus More AI-Powered Updates"
+      "published_iso": "2026-09-14T11:30:36Z",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/18a5cf6c-615d-47a2-95cc-89c505178013.png",
+      "excerpt": "This is really just a stream-of-consciousness post. I had a rather simple edit job that felt like the perfect place for an AI assistant to do some prep and setup so I didn’t have to. I decided to document and post the results here after playing around with asking both the Premiere (Beta) Assistant and [...]<p><a class=",
+      "title": "Battle of the NLE AI Assistants by Scott Simmons - ProVideo Coalition"
     },
     {
-      "url": "https://nofilmschool.com/eddie-ai-v4",
-      "source": "No Film School",
+      "url": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
+      "source": "befores & afters",
       "category": "movies",
-      "published_iso": "2026-09-08T19:15:05Z",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739810&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "Eddie V4 has been released, promising even more features for the AI assistant editor, including some powered-up upgrades.",
-      "title": "More AI Editing Assistance is on the Way as Eddie AI V4 is Unveiled Ahead of IBC 2026"
+      "published_iso": "2026-09-14T11:25:09Z",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/erandinur.jpg",
+      "excerpt": "Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now.",
+      "title": "VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects - befores & afters"
+    },
+    {
+      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-09-14T08:51:03Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg?w=1024",
+      "excerpt": "'Adolescence' writer Jack Thorne has warned that his colleagues are using AI to \"cheat.\" He added that those caught should be punished.",
+      "title": "'Adolescence' Scribe Jack Thorne Warns: Writers Using AI To \"Cheat\""
+    },
+    {
+      "url": "https://www.redsharknews.com/colorfront-qumulo-neuralsearch-metadata",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-09-14T05:49:56Z",
+      "og_image": "https://www.redsharknews.com/hubfs/Colorfront%20On-Set%20Dailies.jpg",
+      "excerpt": "Colorfront and Qumulo now write on-set metadata directly into media files, keeping camera, lens and color data searchable for the life of a production.",
+      "title": "Colorfront, Qumulo make on-set metadata searchable"
     },
     {
       "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
       "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-09-11T18:22:00Z",
+      "published_iso": "2026-09-11T18:22:14Z",
       "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/logo_black_-_revize-1280.jpg?itok=CpaBSEqQ",
       "excerpt": "The face- and body-replacement technology Rising Sun Pictures began building in 2018, and has since used on 30+ films including 'Sinners' and 'Mickey 17,' now serves FOLKS, El Ranchito and Square One, with longtime RSP leader Troy Tobin running the program.",
       "title": "Pitch Black Rolls Out REVIZE Machine Learning Across Its Global Studios"
-    },
-    {
-      "url": "https://www.awn.com/news/vicon-acquires-captive-devices-facial-capture-firm",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-09-08T20:12:00Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/head_mounted_camera_image2-1280.jpg?itok=GZQGZjfu",
-      "excerpt": "The Oxford Metrics motion capture division picks up the Manchester maker of the CoreHMC head-mounted rig, which feeds performer data into Unreal Engine and MetaHuman Animator.",
-      "title": "Vicon Acquires Captive Devices Facial Capture Firm"
-    },
-    {
-      "url": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/",
-      "source": "Animation Magazine",
-      "category": "movies",
-      "published_iso": "2026-09-11T17:23:42Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Salty-Tales-of-Tony-Keith-kv.jpg",
-      "excerpt": "'The Salty Tales of Tony & Keith' is a hybrid traditional/AI assisted pipeline 2D series from alums of 'Bob's Burgers' and 'The Snoopy Show.'",
-      "title": "Animation Vets Joel Kuwahara & Mark Evestaff Launch 'The Salty Tales of Tony & Keith' AI-Assisted Series - Animation Magazine"
-    },
-    {
-      "url": "https://www.cartoonbrew.com/artist-rights/blizzard-entertainment-union-contract-266400.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-09-10T05:18:36Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/BlizzCon-2026.jpg",
-      "excerpt": "Negociated by the CWA, new agreements include wage increases, AI guardrails, enhanced severance, recall rights, and remote-work protections.",
-      "title": "Nearly 1,900 Blizzard Workers Ratify First Union Contracts"
-    },
-    {
-      "url": "https://www.cartoonbrew.com/newsletter/a-guide-to-the-perfect-pitch-richard-williams-final-film-guillermo-del-toro-on-ai-266481.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-09-11T10:04:24Z",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/imagen.png",
-      "excerpt": "Cartoon Brew's weekly roundup covers how to pitch an animated project, the debut of Richard Williams' final hand-drawn film 'Lysistrata,' and Guillermo del Toro's argument that AI robs artists of the apprenticeship that makes craft possible.",
-      "title": "A Guide To The Perfect Pitch; Richard Williams' Final Film; Guillermo Del Toro On AI"
-    },
-    {
-      "url": "https://postperspective.com/blackmagic-resolve-21-1-integrates-ai-assistants-adds-new-tools-system-wide/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-09-09T20:24:40Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Blackmagic-main-IBC.jpg",
-      "excerpt": "Blackmagic has released DaVinci Resolve 21.1, an update that adds integration with AI assistants including Claude, Claude Code and ChatGPT Codex; expands camera format support on the Photo page; and adds new tools and controls across editing, color, Fusion and Fairlight. DaVinci Resolve 21.1 is available now as a free download from the Blackmagic website.",
-      "title": "Blackmagic Resolve 21.1 Integrates AI Assistants, Adds New Tools System Wide - postPerspective"
-    },
-    {
-      "url": "https://www.provideocoalition.com/adobe-video-ibc-2026-announcements/",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-09-08T15:51:52Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/genmed3.jpg",
-      "excerpt": "Adobe Video has some IBC 2026 announcements, features which you might have already heard about. Deepa Subramaniam outlined the features in Generate and create directly in your timeline with new AI-powered innovations in Premiere and After Effects.     The After Effects Al Assistant (beta) helps automate tedious tasks in After Effects; you can: • Turn [...]<p><a class=\"btn btn-secondary understrap-",
-      "title": "Adobe video IBC 2026 announcements by Rich Young - ProVideo Coalition"
-    },
-    {
-      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-09-12T16:08:35Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Kling AI powered and hosts the TIFF The Market panel 'New Creative Paradigm: Consistent, Cinematic AI Video' in Toronto.",
-      "title": "Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: ‘The Script Is Still the Blueprint’"
     },
     {
       "url": "https://variety.com/2026/film/global/dreamkite-yoko-higuchi-zitzmann-ai-opportunities-concerns-1236857194/",
@@ -112,54 +121,36 @@
       "title": "Dreamkite Chief Yoko Higuchi-Zitzmann on AI Opportunities and Industry Concerns: ‘AI Production Will Create a Lot of New Human Jobs’"
     },
     {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-end-of-times-film-trailer-trauma-ai-venice-critics-week-1236684233/",
-      "source": "The Hollywood Reporter",
+      "url": "https://www.cartoonbrew.com/artist-rights/blizzard-entertainment-union-contract-266400.html",
+      "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-09-04T07:30:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-End-of-Times.webp?w=1000&h=667&crop=1",
-      "excerpt": "Salomé searches through decades of family footage for the reasons for her mother’s sadness in Bibiana Rojas Gómez and Juan David Cárdenas Maldonado's film, premiering in the Venice Critics' Week.",
-      "title": "‘The End of Times’ Is an AI-Assisted Film Essay on Trauma That Wants to “Politicize Mental Illness” (Exclusive Venice Trailer)"
+      "published_iso": "2026-09-10T12:18:36Z",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/BlizzCon-2026.jpg",
+      "excerpt": "Negociated by the CWA, new agreements include wage increases, AI guardrails, enhanced severance, recall rights, and remote-work protections.",
+      "title": "Nearly 1,900 Blizzard Workers Ratify First Union Contracts"
     },
     {
-      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
-      "source": "IndieWire",
+      "url": "https://postperspective.com/blackmagic-resolve-21-1-integrates-ai-assistants-adds-new-tools-system-wide/",
+      "source": "postPerspective",
       "category": "movies",
-      "published_iso": "2026-09-12T17:23:31Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
-      "excerpt": "Venice 2026 competition jury president Maggie Gyllenhaal discusses her short 'Flesh Impact,' starring Ellen Burstyn, and why her AI experiment failed.",
-      "title": "Venice Jury President Maggie Gyllenhaal on Her Short ‘Flesh Impact,’ Casting Ellen Burstyn, and AI"
+      "published_iso": "2026-09-09T20:24:40Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Blackmagic-main-IBC.jpg",
+      "excerpt": "Blackmagic has released DaVinci Resolve 21.1, an update that adds integration with AI assistants including Claude, Claude Code and ChatGPT Codex; expands camera format support on the Photo page; and adds new tools and controls across editing, color, Fusion and Fairlight. DaVinci Resolve 21.1 is available now as a free ",
+      "title": "Blackmagic Resolve 21.1 Integrates AI Assistants, Adds New Tools System Wide - postPerspective"
     },
     {
-      "url": "https://deadline.com/2026/09/nicola-coughlan-save-our-voices-now-campaign-ai-1237066698/",
+      "url": "https://deadline.com/2026/09/maxton-hall-amazon-ai-technology-lip-sync-dubbing-1237071616/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-03T12:35:35Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-03-Sep-2026-01-04-PM-8992.jpg?w=1024",
-      "excerpt": "The Nicola Coughlan-backed Save Our Voices Now campaign is fed up with government inertia over AI voice cloning.",
-      "title": "Nicola Coughlan Attacks AI Voice Cloning, But Is Government Listening?"
-    },
-    {
-      "url": "https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-09-04T08:27:51Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-04-Sep-2026-10-02-AM-1656.jpg?w=1024",
-      "excerpt": "Lorenzo Mieli Talks Grappling With AI For Diesel Founder Renzo Rosso Bio-Doc ‘Be Brave’: “We Need To Master It, Rather Than Let AI Master Us” – Venice",
-      "title": "Lorenzo Mieli Talks AI-Made Diesel/Renzo Rosso Bio-Doc 'Be Brave'"
-    },
-    {
-      "url": "https://www.screendaily.com/news/mind-the-gap-selling-ai-val-kilmer-in-as-deep-as-the-grave-at-tiff/5220305.article",
-      "source": "Screen Daily",
-      "category": "movies",
-      "published_iso": "2026-09-11T11:00:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/1/9/1487119_valkilmerasdeepasthegrave11_364276_crop.jpg",
-      "excerpt": "Mind The Gap arrived at TIFF: The Market selling historical drama 'As Deep As The Grave,' which uses AI to recreate the late Val Kilmer in a role he signed on for before his death — with family permission, SAG-AFTRA compliance and estate compensation.",
-      "title": "Mind The Gap selling AI Val Kilmer in 'As Deep As The Grave' at TIFF"
+      "published_iso": "2026-09-09T14:45:14Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Amazon-Maxon-Hall.jpg?w=1024",
+      "excerpt": "Amazon Prime Video series Maxton Hall is the streamer's first programming to feature AI technology synchronizing actors' lips with human-dubbed audio.",
+      "title": "‘Maxton Hall’ Uses Amazon AI Technology To Sync Actors’ Lips With Human-Dubbed Audio"
     }
   ],
   "dedup": {
-    "dropped": 9,
-    "kept": 17,
+    "dropped": 0,
+    "kept": 16,
     "against_days": 5
   }
 }

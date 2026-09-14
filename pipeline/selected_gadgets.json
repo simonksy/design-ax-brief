@@ -1,71 +1,71 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-      "source": "Ars Technica",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "source": "The Verge",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "First-person long-term hands-on with a $4,000 Unitree quadruped — the clearest read yet on what consumer-priced legged robotics actually does, and on the company quietly setting the category's baseline.",
-      "published_iso": "2026-09-12T11:00:53Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
-      "excerpt": "Unitree might be the world’s most important robotics company.",
-      "title": "I spent $4,000 on a robot dog from China"
+      "rationale": "The Siri overhaul finally ships to everyone — the single biggest change to how a billion people give instructions to a device, and the new baseline every mobile product team designs against tomorrow.",
+      "published_iso": "2026-09-14T17:08:49Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+      "excerpt": "watchOS 27, iPadOS 27, and visionOS 27 also debut today.",
+      "title": "Apple releases iOS 27 with Siri AI overhaul"
     },
     {
-      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/rayneos-io-camera-free-smart-glasses-boast-an-ai-agnostic-version-of-the-siri-recap-feature-coming-to-apple-watch-and-im-not-sure-if-i-love-or-hate-it",
-      "source": "TechRadar",
+      "url": "https://www.theverge.com/tech/994267/steam-frame-review",
+      "source": "The Verge",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "RayNeo drops the camera and keeps the assistant — a concrete counter-design to Meta's glasses, plus an AI-agnostic conversation-recap feature that reframes the privacy argument for wearables.",
-      "published_iso": "2026-09-13T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ-2560-80.jpg",
-      "excerpt": "RayNeo IO are smart glasses boast an AI agnostic version of Siri Recap, but I’m not sure if I love or hate it.",
-      "title": "RayNeo iO might finally get camera-less smart glasses right — but the 'conversation assistance' is an icky future I don’t want to live in"
+      "rationale": "The first full review of Valve's standalone headset: what foveated streaming, an x86-on-ARM library and a hackable OS actually feel like in use — the reference point for anyone prototyping in XR this year.",
+      "published_iso": "2026-09-14T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "excerpt": "It almost makes me want to pay to be a beta tester.",
+      "title": "The Steam Frame is made for irresponsible hardware nerds like me"
     },
     {
-      "url": "https://www.tomsguide.com/ai/dex-language-discovery-camera-review-the-rare-ai-gadget-that-keeps-up-with-my-non-stop-5-year-old",
-      "source": "Tom's Guide",
+      "url": "https://www.xda-developers.com/found-speech-recognition-model-vs-code-never-sends-word-cloud/",
+      "source": "XDA",
+      "tool": "Gadgets",
+      "category": "gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "There is a fully local speech-to-text model already sitting inside VS Code — free, offline dictation for anyone who writes specs or prompts all day, with nothing leaving the machine.",
+      "published_iso": "2026-09-13T21:30:15Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/1789205328521.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "And it also does a very good job at transcribing what I say.",
+      "title": "I found a speech recognition model hiding inside VS Code, and it never sends a word to the cloud"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+      "source": "MacRumors",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A full review of an AI camera built for kids that actually holds up in daily use — a rare case of on-device vision plus speech landing a real product job instead of a demo.",
-      "published_iso": "2026-09-12T09:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BsnRop6hSrLbQKt68oMuYX-1672-80.png",
-      "excerpt": "The Dex discovery camera pairs real-world curiosity with spoken vocabulary in a way that actually works for energetic kids",
-      "title": "Dex Language-Discovery Camera review: The rare AI gadget that keeps up with my non-stop 5-year-old"
+      "rationale": "Apple put a price tag on an on-device AI feature — $9.99/month for one camera's motion summaries, $59.99 for five. The clearest signal yet of how AI capability gets metered inside hardware you already bought.",
+      "published_iso": "2026-09-14T21:46:30Z",
+      "og_image": "https://images.macrumors.com/t/Y5LosWiiqev53GeuCdn3HHvaHJw=/2500x/article-new/2026/02/iOS-26-Home-Feature.jpg",
+      "excerpt": "Apple is requiring a $9.99 iCloud+ plan to use the iOS 27 Apple Intelligence Home app features with a single HomeKit camera, and iPhone users aren't happy about it. iOS 27 includes text-based descriptions for motion alerts, a feature that uses Apple Intelligence. It recognizes people, animals, vehicles, packages, and general motion, and summarizes what's happening.",
+      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five"
     },
     {
-      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "source": "WIRED",
+      "url": "https://9to5google.com/2026/09/10/comus-action-pro-is-a-great-meeting-recorder-that-struggles-to-justify-its-ai-premium/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A reporter strips the guardrails off an open-source model and lets it loose on his own smart home — it finds real device holes, then hands over the fixes. Practical security homework for anyone with connected gear.",
-      "published_iso": "2026-09-09T18:30:00Z",
-      "og_image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
-      "excerpt": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again"
-    },
-    {
-      "url": "https://9to5google.com/2026/09/08/arms-new-cpu-cores-and-gpus-for-android-chips-promise-desktop-class-games-more-ai-power/",
-      "source": "9to5Google",
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Arm's C2 cores and next Mali GPUs set the on-device AI and graphics ceiling for the next wave of Android phones — the silicon floor every mobile app and game will be designed against.",
-      "published_iso": "2026-09-08T17:35:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/arm-c2-mali-g2-header.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Arm has announced its new C2 CPUs for future Android chips as well as upgrades to its Mali GPUs that...",
-      "title": "Arm's new CPU cores and GPUs for Android chips promise 'desktop-class' games, more AI power"
+      "rationale": "A hands-on verdict on the AI-recorder category: the hardware is good, the subscription-gated AI layer isn't worth the premium — a useful pricing lesson before you buy or build one.",
+      "published_iso": "2026-09-10T17:22:21Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/comulytic-note-pro-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "As my house becomes increasingly strewn with the detritus of parenting, I’ve made the inverse effort to eliminate excess, physical...",
+      "title": "Comu's Action Pro is a great meeting recorder that struggles to justify its AI premium"
     }
   ]
 }
