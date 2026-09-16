@@ -1,61 +1,67 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
+      "url": "https://www.thebookseller.com/news/researchers-warn-use-of-ai-in-writing-could-homogenise-human-writing-and-thought",
       "source": "The Bookseller",
+      "published_iso": "2026-09-16T09:52:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+      "excerpt": "The growing use of AI large language models could make human writing, perspectives and reasoning more alike, according to a research paper that raises questions about creative diversity and authorial voice.",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "구글이 10만 종 넘는 출판사 도서를 AI 답변에 정식 라이선스로 끌어들인 첫 대형 통로 — 출판사 입장에서 당장 계약과 유통 전략이 바뀌는 건.",
-      "published_iso": "2026-09-01T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg",
-      "excerpt": "Google launched Expert Intelligence, letting readers use purchased e-books and other vetted sources directly inside its AI products, with more than 100,000 publisher titles at launch — a new licensed route from book to AI answer."
+      "rationale": "Fresh peer-reviewed finding that LLM use flattens voice and reasoning — the single most craft-relevant research item in the pool."
     },
     {
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "source": "TechCrunch",
+      "url": "https://janefriedman.com/the-difference-between-geo-and-seo-for-authors-publishers/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-16T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "GEO is generative engine optimization: trying to influence whether your name or book appears in AI overviews or in chatbot conversations, and it works differently from SEO.",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "오디오 시리즈 제작의 93%를 AI로 돌려 원가를 80분의 1로 낮춘 실제 운영 사례 — AI 집필·낭독 파이프라인이 산업 규모로 돌아가는 첫 숫자.",
-      "published_iso": "2026-09-10T17:45:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
-      "excerpt": "Pocket FM now produces 93% of its audio-series content with AI, cutting production costs roughly 80x — a working industrial model for AI-written, AI-narrated serialized fiction."
+      "rationale": "Directly changes how authors and publishers do discovery work tomorrow: GEO replaces SEO assumptions for AI answers."
     },
     {
-      "url": "https://www.sixthtone.com/news/1018966",
-      "source": "Sixth Tone",
+      "url": "https://janefriedman.com/get-ready-for-ai-agents-to-come-knocking-on-your-door/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-16T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "A new app called iLands allows the creation of autonomous AI agents that not only write articles but pitch their work to media outlets.",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "무라카미 신작 전권을 4시간·2달러에 번역해낸 학부생 파이프라인 — 문학 번역 단가와 권리 구조를 실물로 흔든 사건.",
-      "published_iso": "2026-09-07T06:27:22Z",
-      "og_image": "https://image5.sixthtone.com/image/5/99/882.jpg",
-      "excerpt": "A literature undergrad's AI pipeline produced a near-complete Mandarin version of Haruki Murakami's new novel in four hours for about $2, splitting China's literary world over what's left for human translators and rights holders."
+      "rationale": "Named new tool (iLands) that pushes agents past drafting into pitching — a concrete shift in the submissions inbox."
     },
     {
-      "url": "https://janefriedman.com/us-government-supports-ai-firms-in-lawsuit-brought-by-publishers-and-authors/",
-      "source": "Jane Friedman",
+      "url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/",
+      "source": "Literary Hub",
+      "published_iso": "2026-09-14T18:00:09+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/baldwin-exhibit.jpg",
+      "excerpt": "A new interactive exhibition about the writing of James Baldwin features an AI-programmed typewriter that directs users to writing drawn from Baldwin's books, essays, and letters.",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "미국 정부가 AI 기업 편에 서서 라이선스 의무화에 반대하는 의견을 냈다 — 학습 데이터 협상에서 저자·출판사의 지렛대가 직접 흔들리는 새 국면.",
-      "published_iso": "2026-09-10T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "The US government filed in support of AI companies in the copyright suit brought by publishers and authors, arguing AI development should not be restrained by licensing requirements — a direct hit to authors' leverage over training data."
+      "rationale": "A rare constructive design case: AI used as an archive interface rather than a generator, with a physical interaction to copy."
     },
     {
-      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "source": "WIRED",
+      "url": "https://www.thebookseller.com/comment/letting-chatgpt-write-your-emails-has-a-bigger-impact-than-you-think",
+      "source": "The Bookseller",
+      "published_iso": "2026-09-14T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd36.jpg",
+      "excerpt": "Author Daisy Buchanan argues that handing routine writing tasks such as emails to ChatGPT quietly erodes the everyday craft skills writers depend on.",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "출판이 AI 집필을 걱정하는 사이 독자가 직접 챗봇에 맞춤 소설을 주문하기 시작했다 — 수요 쪽에서 업계를 통째로 우회하는 변화.",
-      "published_iso": "2026-09-14T09:00:00Z",
-      "og_image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
-      "excerpt": "While publishing frets over AI-written books, readers are prompting chatbots to generate custom fiction built to their own taste — a demand-side shift in storytelling that routes around the industry entirely."
+      "rationale": "Working-writer argument that the cost of offloading small writing tasks shows up in the big ones — pairs with the homogenisation research."
     }
+  ],
+  "dedup_notes": [
+    "Dropped The Scholarly Kitchen 'Ask the Chefs: AI and Copyright Licensing' (2026-09-10) — same event (DOJ Statement of Interest siding with OpenAI/Microsoft) as the 2026-09-15 card 'books-us-gov-ai-copyright' (Jane Friedman).",
+    "Skipped Publishers Weekly 'Lost in Translation' — same core topic as the 2026-09-15 Murakami AI-translation card and the 2026-09-12 Webtoon AI-translation card; kept out to avoid a third translation story in five days.",
+    "Skipped Good e-Reader 'Flowtica Verso' — duplicates the AI voice-recorder angle already run in gadgets (2026-09-15, Comu Action Pro).",
+    "Two Jane Friedman picks share a site-wide OG banner but are distinct URLs and distinct articles, so both are kept."
   ]
 }

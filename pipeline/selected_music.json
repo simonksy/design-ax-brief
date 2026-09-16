@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "section": "music",
   "picks": [
     {
-      "url": "https://www.production-expert.com/production-expert-1/avid-show-pro-tools-stem-separation-tech-preview-at-ibc-2026",
-      "source": "Production Expert",
+      "url": "https://bedroomproducersblog.com/2026/09/16/uad-luna-3-0/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-16T17:40:02Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/luna-free-728x364.jpg",
+      "excerpt": "UAD's free Luna DAW hits 3.0 with Luna Play for fast idea sketching, a proper piano roll and better MIDI editing. New smart features add automatic instrument detection, tempo recognition, stem separation, lyric transcription, chord extraction and audio-to-MIDI.",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "AI 소스 분리가 Pro Tools 세션 안으로 들어오는 첫 공식 프리뷰 — 믹스·포스트 작업 순서를 당장 바꾼다.",
-      "published_iso": "2026-09-11T14:25:00+01:00",
-      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa3f6dca96d3d3aaaadfd84/1789130505501/Avid+Show+Pro+Tools+Stem+Separation+Tech+Preview+At+IBC+2026.webp?format=1500w",
-      "excerpt": "Avid previewed a Pro Tools Stem Separator extension at IBC 2026 that splits a stereo mix into stems inside the session, pulling AI source separation into the pro post and mix workflow."
+      "rationale": "A free DAW gaining a real piano roll plus stem separation, chord extraction and audio-to-MIDI changes what a bedroom producer can do tomorrow at zero cost."
     },
     {
-      "url": "https://musically.com/2026/09/14/elevenlabs-unveils-music-v2-5-but-umg-wasnt-involved/",
-      "source": "Music Ally",
+      "url": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
+      "source": "CDM Create Digital Music",
+      "published_iso": "2026-09-16T17:32:46Z",
+      "og_image": "https://cdm.link/app/uploads/2026/09/atmos-panner.jpg",
+      "excerpt": "MOTU's Digital Performer 12 lands with deep Dolby Atmos support, an Arrangement Strip and AI-powered stem separation, modernising a long-running Mac and Windows DAW.",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "생성 음악 모델 세대교체 소식이자, UMG 라이선스와 이 모델이 별개라는 선 긋기까지 함께 드러난 릴리스.",
-      "published_iso": "2026-09-14T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-14T122324.355.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Fresh from its Universal Music licensing deal, ElevenLabs has unveiled Music v2.5, the latest version of its AI music generation service - while stressing that UMG was not involved in this particular model."
+      "rationale": "A major-version DAW release that finally puts Atmos authoring and stem separation inside Digital Performer — a concrete platform decision for mix and post rooms."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/09/11/nopia-semi-modular-harmony-generator-synthesizer-sneak-preview/",
-      "source": "Synthtopia",
+      "url": "https://musictech.com/news/gear/autotune-is-now-available-in-fl-studio-even-to-free-users/",
+      "source": "MusicTech",
+      "published_iso": "2026-09-15T16:27:23Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/AutoTune-FL-Studio@2000x1500.jpg",
+      "excerpt": "Antares AutoTune Go arrives inside FL Studio through the free tier of FL Cloud, putting the industry-standard pitch-correction sound in front of every FL user at no cost.",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "프롬프트 대신 손으로 만지는 생성 화성 — 건반 문법을 모르는 사람에게 열린 하드웨어 작곡 인터페이스.",
-      "published_iso": "2026-09-11T17:22:38+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2023/05/nopia-midi-controller.jpg",
-      "excerpt": "Nopia is a compact chord-driven hardware instrument that generates harmony from gestures - a physical take on generative composition aimed at players who don't think in keyboards."
+      "rationale": "The default pitch-correction sound becomes free inside the most widely used beat-making DAW — an immediate change to every FL vocal chain."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/09/09/the-next-generation-of-cue-sheet-creation/",
-      "source": "Digital Music News",
+      "url": "https://www.production-expert.com/production-expert-1/dreamtonics-instrument-x-how-good-does-this-sample-free-orchestra-sound",
+      "source": "Production Expert",
+      "published_iso": "2026-09-16T17:00:00Z",
+      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a9fb32c3d40f31a3f11dbcf/1788851008833/Inst+X-12.jpg?format=1500w",
+      "excerpt": "Dreamtonics' Instrument X swaps samples for neural synthesis to model orchestral instruments in real time. Production Expert tests what that means for template size, CPU load and sound.",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "영상음악 쪽에서 가장 지겨운 수작업인 큐시트 작성을 AI 인식이 대신한다 — 작곡가 실무가 바로 줄어든다.",
-      "published_iso": "2026-09-09T23:00:41+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/music-reports-cuetrak-acr-hero.png",
-      "excerpt": "Music Reports' Cuetrak now uses AudioShake-powered AI content recognition to build cue sheets automatically, taking one of the most tedious hand-logged jobs in music-for-picture off composers' desks."
+      "rationale": "Neural synthesis instead of sample libraries rewrites the economics of an orchestral template — disk, RAM and CPU — and this is a hands-on listen, not a press release."
     },
     {
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch",
+      "url": "https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/",
+      "source": "Bedroom Producers Blog",
+      "published_iso": "2026-09-07T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/roland-melody-flip-728x364.jpg",
+      "excerpt": "Roland released Melody Flip, a free AI-assisted songwriting plugin built with Sony Computer Science Laboratories. It generates melody variations from 250+ genre 'Palettes' and can analyse a reference track to suggest matching palettes, exporting ideas as MIDI.",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "프롬프트를 일부러 걷어낸 음악 앱 설계 — 텍스트-투-뮤직 반대편에서 인터랙션으로 승부하는 사례.",
-      "published_iso": "2026-09-14T13:55:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
-      "excerpt": "A former Spotify exec's studio ships experimental music-making 'singles' as small apps that deliberately avoid AI prompting, betting playful human interaction beats text-to-music generation."
+      "rationale": "A free Roland x Sony CSL plugin that turns a reference track into usable melodic MIDI variations — songwriting assistance you can drop into any session today."
     }
   ]
 }

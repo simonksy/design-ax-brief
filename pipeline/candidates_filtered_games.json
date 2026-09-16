@@ -1,137 +1,123 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "window_hours": 336,
   "section": "games",
   "items": [
     {
-      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "source": "GamesIndustry.biz",
+      "url": "https://80.lv/articles/hard-surface-retopology-just-got-easier-in-blender/",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-14T20:10:38Z",
-      "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's rece…",
-      "title": "Level-5 CEO admits using generative AI in recent showcase"
+      "published_iso": "2026-09-15T11:19:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50216/images/6aa929b945b8d/contain_1200x630.jpg",
+      "excerpt": "ReFace 2.0 for Blender now cleans up messy geometry from 3D scans, AI-generated models and sculpts, making hard-surface retopology far less manual."
     },
     {
-      "url": "https://www.eurogamer.net/saber-interactive-comms-strategy-ai-writer-controversy-willits",
-      "source": "Eurogamer.net",
+      "url": "https://80.lv/articles/diablo-v-developers-explain-how-its-procedural-open-world-works/",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-06T15:40:50Z",
-      "og_image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Saber Interactive CCO Tim Willits says the studio isn't changing its communications approach after its CEO's AI writer controversy.",
-      "title": "Saber Interactive won't change its comms strategy despite backlash over AI writer controversy"
+      "published_iso": "2026-09-16T10:28:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50230/images/6aaa6f5acafd4/contain_1200x630.jpg",
+      "excerpt": "Blizzard devs break down the procedural generation system behind Diablo V's open world, a technology they say has been in development since Diablo III."
     },
     {
-      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
-      "source": "Eurogamer.net",
+      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-07T12:34:26Z",
-      "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Nvidia's new game-altering DLSS 5 technology takes a serious toll on a game's frame-rate, experts declare. So is it worth it?",
-      "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate"
+      "published_iso": "2026-09-15T14:19:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
+      "excerpt": "Replicant D6 explains how he designed the enemy AI for retro FPS Agent 64: Spies Never Die, and why he deliberately prefers readability over intelligence in combat behaviour."
+    },
+    {
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-09-16T15:21:39+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/UNCANNY-Spider-Man-NVIDIA-DLSS-5-1920x1080.jpg",
+      "excerpt": "A modding project called UNCANNY uses NVIDIA DLSS 5 neural rendering to deliver real-time remasters, making both classic and modern games look like new titles."
+    },
+    {
+      "url": "https://wccftech.com/amd-dlss-5-rival-neural-rendering-rdna-5-leak/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-09-16T09:00:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/AMD-RDNA-5-DLSS5-Like-1920x1080.jpg",
+      "excerpt": "Leaker Kepler_L2 says AMD is preparing its own DLSS 5-style neural rendering stack to ship with RDNA 5 GPUs, and explains how he'd rather it worked."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-15T16:00:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Saber Interactive's chief creative officer Tim Willits argues Rideshare's generative AI isn't hurting the studio's reputation, and explains why he thinks players will come around to genAI tools."
     },
     {
       "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
       "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-09-09T12:00:00Z",
+      "published_iso": "2026-09-09T12:00:00+00:00",
       "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4.",
-      "title": "I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod"
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley is pleading with concertgoers to try the AI-assisted first-person mod he built for Fallout 4, amid ongoing modding-scene drama over genAI."
     },
     {
       "url": "https://www.rockpapershotgun.com/nba-2k27-gives-dlss-5-a-more-faithful-looking-game-debut-than-feared-provided-its-running-on-the-lebron-of-gpus",
       "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-09-08T15:37:46Z",
+      "published_iso": "2026-09-08T15:37:46+00:00",
       "og_image": "https://assetsio.gnwcdn.com/NBA-2K27-DLSS-5-On-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "The AI rendering of DLSS 5 is out now in NBA 2K27, and it's a lot more subtle than previous demos - though still a performance brute.",
-      "title": "NBA 2K27 gives DLSS 5 a more faithful-looking game debut than feared, provided it’s running on the LeBron of GPUs"
+      "excerpt": "DLSS 5's AI rendering gets its first shipping game in NBA 2K27, and it's far subtler than the demos suggested, though still brutally expensive in performance."
     },
     {
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-09-14T15:45:07Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4wenzA6wmf2f5GELcQAra7-1920-80.jpg",
-      "excerpt": "You've met with a terrible post, haven't you?",
-      "title": "Legendary Zelda and Star Fox artist is \"genuinely amazed\" by AI even as he catches backlash from Nintendo fans | GamesRadar+"
+      "published_iso": "2026-09-16T17:14:07+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
+      "excerpt": "A PS5 Linux developer is walking away from the project, saying open-source mod work has been overrun by 'AI slop kiddies' using LLMs to write hacks they don't understand."
     },
     {
-      "url": "https://wccftech.com/pubg-ded-net-interview-ai-placeholder-art-replaced/",
-      "source": "Wccftech",
+      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-09-14T19:00:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/PUBG-DED.NET-HD-1920x1080.jpeg",
-      "excerpt": "At gamescom 2026, we interviewed PUBG DED.NET Creative Director Dave Curd to discover what this new version of PUBG is all about.",
-      "title": "PUBG DED.NET Was Built to Reach People PUBG Never Could, and Its \"Useful\" AI Placeholder Art Is Being Fully Replaced"
+      "published_iso": "2026-09-16T18:00:14+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
+      "excerpt": "Level-5 says many of the perceived 'AI slop' elements in its recent showcase were rushed human work rather than AI generation, and promises to fix the Yo-Kai Watch 2 and Professor Layton presentation."
     },
     {
-      "url": "https://wccftech.com/qwen-38-27b-local-llm-first-person-zombie-shooter-game-5-hours/",
-      "source": "Wccftech",
+      "url": "https://www.pcgamer.com/software/ai/electronic-arts-admits-to-using-ai-voices-in-nhl-27-this-process-allows-us-to-bring-more-variety-to-the-game/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-14T08:36:43Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Qwen3.8-27B-local-AI-model-used-to-make-a-first-person-zombie-shooter.jpg",
-      "excerpt": "Discover how the Qwen3.8-27B local LLM was used to build a functional first-person 3D zombie shooter game in just five hours proving how far open-weight AI coding agents have come",
-      "title": "Qwen3.8-27B Was Allegedly Used To Develop A First-Person Zombie Shooter In About 5 Hours; It’s Far From a Visual Masterpiece, But Just Shows How Far AI Can Go"
+      "published_iso": "2026-09-10T20:49:19+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Peqo72mqxSjLkxrFVRc7FY-1920-80.jpg",
+      "excerpt": "EA confirms NHL 27 uses AI-generated commentary voices, saying the process was developed with the commentators and 'allows us to bring more variety to the game'."
     },
     {
-      "url": "https://wccftech.com/daniel-vavra-nvidia-dlss-5-kcd2-aesthetics/",
-      "source": "Wccftech",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-14T13:30:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA_DLSS5_KCD2-1920x654.jpg",
-      "excerpt": "KCD 2 Director Daniel Vávra posted a comparison image of the NPC Katherine, showing she looks closer to the real actress with DLSS 5 enabled.",
-      "title": "Daniel Vávra Maintains That NVIDIA DLSS 5 Is the Future, as It Allows KCD2 to Reach the Intended Aesthetics"
+      "published_iso": "2026-09-15T14:22:49+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
+      "excerpt": "A developer vibe-coded a VR tool that lets him physically toss a 3D model at his printer inside mixed reality to start a print job."
     },
     {
-      "url": "https://80.lv/articles/despite-saber-interactive-ceo-s-pro-ai-course-space-marine-3-is-genai-free/",
-      "source": "80 Level",
+      "url": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-09-07T15:00:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50076/images/6a9ecc545c5d6/contain_1200x630.jpg",
-      "excerpt": "In a recent interview with IGN at gamescom, the studio's development chief, Tim Willits, confirmed that Saber is not using generative AI in Space Marine 3, although the studio is planning to experiment with it in other titles.",
-      "title": "Despite Saber CEO's Pro-AI Course, Space Marine 3 is GenAI-Free"
+      "published_iso": "2026-09-11T16:14:51+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/doom-fly.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Google's fully mapped simulated fly brain is now being wired up to play Doom and Beat Saber, with researchers noting the more aroused the fly is, the harder it tries to shoot."
     },
     {
-      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
-      "source": "Game Developer",
+      "url": "https://gamingbolt.com/ps5-ps5-pro-update-enables-enhanced-pssr-image-quality-by-default-brings-community-activity-widget",
+      "source": "GamingBolt",
       "category": "games",
-      "published_iso": "2026-09-09T12:59:56Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf5a01dc7ea0367b0/6aa151f531f0b7e274fa02b6/Blizzard_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Union members have secured guardrails around generative AI usage, layoff protections, remote and hybrid work benefits, and more.",
-      "title": "Blizzard union workers ratify contract covering 1,900 employees"
-    },
-    {
-      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
-      "source": "UploadVR",
-      "category": "games",
-      "published_iso": "2026-09-14T15:12:36Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/809813437_28210060141977570_4776135801454871213_n--1-.jpg",
-      "excerpt": "Until a little over a week ago, Craig Storm had never built a VR app. Eight days later, his AI-assisted Quest game Punchable Face was live on Meta's store.",
-      "title": "I Had Never Built A VR App – 8 Days Later, Mine Was On The Quest Store"
-    },
-    {
-      "url": "https://www.thegamer.com/kingdom-come-deliverance-director-pro-ai-rant-dlss-5/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-09-01T12:06:38Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/a-screenshot-from-kingdom-come-deliverance-2-showing-two-people-getting-married-with-a-priest-officiating.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Daniel Vávra defends the use of AI in game development and the controversial rollout of Nvidia DLSS 5.",
-      "title": "Kingdom Come: Deliverance Director Fights With Fans Over Gen AI"
-    },
-    {
-      "url": "https://www.thegamer.com/stellar-blade-director-admits-blood-rains-ai-music-video-caused-concerns/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-09-01T23:00:15Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/stellar-blade_-blood-rain-wanna-be-in-love-ft-evie-music-video-2-1-screenshot.png?w=1600&h=900&fit=crop",
-      "excerpt": "Stellar Blade: Blood Rain recently received a bizarre AI-generated music video that went down badly. We got insight from the team about it.",
-      "title": "Stellar Blade Director Officially Addresses Controversial AI Music Video"
+      "published_iso": "2026-09-16T00:00:00+00:00",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2024/11/PS5-Pro.jpg",
+      "excerpt": "Sony's new PS5 and PS5 Pro system update turns enhanced PSSR AI upscaling image quality on by default, alongside a new Community Activity widget."
     }
   ],
   "dedup": {
-    "dropped": 0,
+    "dropped": 1,
     "kept": 14,
     "against_days": 5
   }

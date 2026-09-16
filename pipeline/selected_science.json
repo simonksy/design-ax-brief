@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-09-ai-enable-species-cell-biology.html",
+      "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
       "source": "Phys.org",
+      "published_iso": "2026-09-15T10:00:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-and-ai-find-a-h.jpg",
+      "excerpt": "Researchers used automated robotics plus chemical AI to sweep 960 reaction conditions of the 135-year-old Biginelli reaction, uncovering a previously unknown branch that yields complex bicyclic molecules with metal-responsive assembly and programmable chiral sorting.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "1억 1,200만 개 세포·12종으로 학습한 두 개의 세포 기반 모델 공개 — 종을 가로지르는 세포 지도를 바로 쓸 수 있게 만든 릴리스.",
-      "published_iso": "2026-09-14T21:30:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-enable-cross.jpg",
-      "excerpt": "Stanford Medicine researchers built two AI models of the biological cell: universal cell embedding and TranscriptFormer, trained on 112 million cells from 12 species, from yeast to humans, enabling cross-species mapping of cell biology."
+      "rationale": "Closed-loop robot lab + chemical AI finds a new branch in a 135-year-old named reaction — the clearest concrete case this week of research automation producing genuinely new chemistry."
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Technology Review",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-09-16T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
+      "excerpt": "UCL scientists reconstructed 10-second videos from the brain activity of mice using only signals from neurons in the visual cortex, a decoding advance that could reveal how the brain reshapes what we see before it becomes perception.",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "딥마인드 새 연구 — 과학 연구를 맡길 AI 에이전트 무리를 또래 압력으로 통제할 수 있는지 실험한 첫 결과.",
-      "published_iso": "2026-09-14T16:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
-      "excerpt": "Swarms of AI agents could supercharge scientific progress or wreak havoc. New research from Google DeepMind suggests that peer pressure could keep them in line."
+      "rationale": "Ten-second video reconstructed from visual-cortex spikes alone — a measurable jump in neural decoding, and a new instrument for separating sensation from perception."
     },
     {
-      "url": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/anthropics-ai-steals-mathematicians-record-for-most-complicated-curve/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-16T07:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/b945bf3e-e52a-4a8a-a66d-5a33c59d3442/GettyImages-1950772724-cropped.jpeg?m=1789578301.64&w=1200",
+      "excerpt": "A search for the most complex elliptic curves had taken mathematicians years. Claude beat the record in days, raising questions about how much of mathematical search work AI can now absorb.",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "원자간력현미경을 AI가 직접 운전해 볼 만한 지점으로 몰아간다 — 실험실의 측정 작업 흐름 자체가 바뀌는 사례.",
-      "published_iso": "2026-09-13T20:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-helps-microscopes-f.jpg",
-      "excerpt": "Oak Ridge National Laboratory built an AI framework that drives atomic force microscopes autonomously, identifying nanoscale features and steering the instrument to the most informative areas of a sample."
+      "rationale": "A record that stood on years of human search fell in days — a concrete, checkable result that marks where AI now eats the search half of mathematics."
     },
     {
-      "url": "https://www.scientificamerican.com/article/how-ai-can-help-with-early-schizophrenia-diagnosis/",
-      "source": "Scientific American",
+      "url": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-09-16T17:07:40+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-16_22-06.png",
+      "excerpt": "IonQ, Oak Ridge National Laboratory and research partners demonstrated a generative AI method that sharply reduces parameter-tuning time for quantum optimization circuits.",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "말소리의 미세한 차이를 AI가 정신과 의사보다 먼저 듣는지 검증 중 — 조기 진단이라는 임상 난제를 정면으로 겨눈다.",
-      "published_iso": "2026-09-12T11:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/7050cf6c-9ae3-49c7-a71f-0c9882daac1e/AI-face.jpg?m=1783968322.206&w=1200",
-      "excerpt": "The speech of people with schizophrenia sounds subtly different from that of healthy counterparts. Researchers are testing whether AI can hear those differences earlier than human psychiatrists."
+      "rationale": "Parameter tuning is the practical bottleneck in variational quantum optimization; a generative model that collapses it changes what a lab can actually run this year."
     },
     {
-      "url": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
-      "source": "Scientific American",
+      "url": "https://phys.org/news/2026-09-room-temperature-skyrmion-based-synapses.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-14T19:20:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-magneti.jpg",
+      "excerpt": "University of Edinburgh researchers built room-temperature skyrmion-based artificial synapses that exploit collective magnetic transformations rather than individual skyrmion manipulation, pointing to far lower energy consumption for AI hardware at high computational accuracy.",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "필즈상 수상자 25명이 공동 선언문에 서명 — 연구 분야가 AI 산업과의 관계를 집단으로 다시 정의하려는 드문 사건.",
-      "published_iso": "2026-09-14T15:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/ff6dc51d-63fd-4049-9791-c8df5aba0cd3/pushing-off-the-boot.jpg?m=1789290314.986&w=1200",
-      "excerpt": "A declaration signed by 25 Fields Medal winners reflects mathematicians' alarm over a 'severe misalignment' between the tech industry and their field, a week after AI toppled one of math's biggest open problems."
+      "rationale": "Room-temperature operation and collective — not single-skyrmion — control is the step that moves spintronic synapses from cryostat demo toward usable low-energy AI hardware."
     }
   ]
 }

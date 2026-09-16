@@ -1,31 +1,32 @@
 {
- "date": "2026-09-15",
- "section": "science",
- "media": [
-  {
-   "id": "science-cell-models",
-   "type": "image",
-   "src": "pipeline/media/science-cell-models.jpg"
-  },
-  {
-   "id": "science-agent-whistleblow",
-   "type": "image",
-   "src": "pipeline/media/science-agent-whistleblow.jpg"
-  },
-  {
-   "id": "science-afm-autopilot",
-   "type": "image",
-   "src": "pipeline/media/science-afm-autopilot.jpg"
-  },
-  {
-   "id": "science-speech-schizophrenia",
-   "type": "image",
-   "src": "pipeline/media/science-speech-schizophrenia.jpg"
-  },
-  {
-   "id": "science-fields-declaration",
-   "type": "image",
-   "src": "pipeline/media/science-fields-declaration.jpg"
-  }
- ]
+  "date": "2026-09-17",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-robot-biginelli",
+      "type": "image",
+      "src": "pipeline/media/science-robot-biginelli.jpg"
+    },
+    {
+      "id": "science-mouse-brain-video",
+      "type": "video",
+      "src": "pipeline/media/science-mouse-brain-video.mp4",
+      "poster": "pipeline/media/science-mouse-brain-video.jpg"
+    },
+    {
+      "id": "science-claude-elliptic-curve",
+      "type": "image",
+      "src": "pipeline/media/science-claude-elliptic-curve.jpg"
+    },
+    {
+      "id": "science-ionq-quantum-tuning",
+      "type": "image",
+      "src": "pipeline/media/science-ionq-quantum-tuning.png"
+    },
+    {
+      "id": "science-skyrmion-synapse",
+      "type": "image",
+      "src": "pipeline/media/science-skyrmion-synapse.jpg"
+    }
+  ]
 }

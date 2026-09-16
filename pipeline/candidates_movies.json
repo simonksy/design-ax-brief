@@ -1,151 +1,127 @@
 {
- "date": "2026-09-15",
- "section": "movies",
+ "date": "2026-09-17",
  "window_hours": 336,
+ "section": "movies",
  "items": [
   {
-   "url": "https://www.animationmagazine.net/2026/09/murphy-pre-prod-software-applies-ai-to-film-planning-not-generation/",
-   "source": "Animation Magazine",
+   "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
+   "source": "ProVideo Coalition",
    "category": "movies",
-   "published_iso": "2026-09-14T21:26:49Z",
-   "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Murphy-site-sc.png",
-   "excerpt": "Murphy is a pre-production solution which applies AI to the tedious parts of film creation, freeing artists to focus on more creative tasks.",
-   "title": "Murphy Pre-Prod Software Applies AI to Film Planning, Not Generation - Animation Magazine"
-  },
-  {
-   "url": "https://variety.com/2026/biz/features/a-qa-with-tilly-norwood-offers-fewer-reasons-her-existence-1236861262/",
-   "source": "Variety",
-   "category": "movies",
-   "published_iso": "2026-09-14T18:24:01Z",
-   "og_image": "https://variety.com/wp-content/uploads/2026/09/Talking-Tilly-launch-1-September-2026-1-1.png?w=1000&h=563&crop=1",
-   "excerpt": "In a Q&A with Tilly Norwood, one can't help but return to the original question: Who is this for?",
-   "title": "Interview With Tilly Norwood Reveals Even Fewer Reasons For the Existence of the AI ‘Actress’"
-  },
-  {
-   "url": "https://www.awn.com/news/davinci-resolve-211-brings-ai-assistant-control-and-new-fusion-3d-tools",
-   "source": "Animation World Network",
-   "category": "movies",
-   "published_iso": "2026-09-14T18:23:35Z",
-   "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/davinci-resolve-21-edit-1280.jpg?itok=_pzvVC9x",
-   "excerpt": "Free update lets editors hand media organization and batch rendering to Claude or ChatGPT Codex, and adds more than 25 Krokodove 3D and shape tools, separate Dolby Vision, HDR10+, and HDR Vivid trim passes, and faster multi-cam editing; see at IBC 2026.",
-   "title": "DaVinci Resolve 21.1 Brings AI Assistant Control and New Fusion 3D Tools"
-  },
-  {
-   "url": "https://www.hollywoodreporter.com/business/digital/tilly-norwood-interview-1236700405/",
-   "source": "The Hollywood Reporter",
-   "category": "movies",
-   "published_iso": "2026-09-14T16:41:01Z",
-   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FotoJet-2026-09-14T125853.843.jpg?w=1440&h=810&crop=1",
-   "excerpt": "The creators of the AI-generated \"performer\" set up a press junket with journalists. It felt cringeworthy, rehearsed and clunky.",
-   "title": "An “Interview” With Tilly Norwood Proves Absurd and Underwhelming"
+   "published_iso": "2026-09-14T07:18:26-07:00",
+   "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
+   "excerpt": "At IBC 2026 Adobe debuted its Generative Media tool, which brings text-to-media AI generation directly into the Premiere Pro timeline, letting editors call Firefly and partner models like Veo, Kling, Runway and Luma without leaving the edit."
   },
   {
    "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
    "source": "ProVideo Coalition",
    "category": "movies",
-   "published_iso": "2026-09-14T16:36:41Z",
+   "published_iso": "2026-09-14T09:36:41-07:00",
    "og_image": "https://www.provideocoalition.com/wp-content/uploads/strada-3.png",
-   "excerpt": "Strada Connect is an impressive feat of peer-to-peer networking that has crossed ProVideo Coalition’s radar many times in the past, with the platform making its debut at NAB 2026 and soon upping the ante at the following Cine Gear show with Strada 2.0. Now, Strada has come to Europe to further show off 2.0’s capabiliti",
-   "title": "PVC at IBC 2026: Strada 2.0 Brings Distributed Media and Connects AI Workflows Across the World by Alec C. Cohen - ProVideo Coalition"
+   "excerpt": "Strada 2.0 and Strada Connect stitch distributed media libraries together and route AI workflows across globally scattered post teams, a peer-to-peer answer to where footage and models actually live."
   },
   {
-   "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
-   "source": "ProVideo Coalition",
+   "url": "https://postperspective.com/jim-camerons-lightstorm-vision-buys-outsyders-for-3d-ai-pipeline/",
+   "source": "postPerspective",
    "category": "movies",
-   "published_iso": "2026-09-14T14:18:26Z",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
-   "excerpt": "Adobe’s Generative Media Tool allows users to produce text-to-media AI-generated content and directly import it within their Premiere Pro timeline. Instead of hopping back and forth between multiple different platforms, the tool aims to cut out the middleman and expedite workflows, keeping everything accessible within ",
-   "title": "PVC at IBC 2026: Adobe Debuts Generative Media Tool to Bring AI Directly into Premiere Pro Timeline by Alec C. Cohen - ProVideo Coalition"
+   "published_iso": "2026-09-16T16:21:07+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/James-Cameron-and-team-1.jpeg",
+   "excerpt": "James Cameron's Lightstorm Vision has acquired Outsyders, whose AI-driven stereoscopic conversion pipeline delivered 3D versions of Lilo & Stitch and IMAX's Blue Angels, folding machine-assisted 2D-to-3D into an in-house production stack."
+  },
+  {
+   "url": "https://postperspective.com/ibc-report-keeping-an-eye-on-whats-new-from-adobe-bmd-and-more/",
+   "source": "postPerspective",
+   "category": "movies",
+   "published_iso": "2026-09-15T14:58:09+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/adobe.jpg",
+   "excerpt": "A post-production reporter's walkthrough of IBC 2026, weighing the AI features Adobe, Blackmagic and others shipped against what editors and colorists will actually adopt."
+  },
+  {
+   "url": "https://postperspective.com/colorfront-auto-timeline-comparison-dolby-vision-2-mastering-more-at-ibc/",
+   "source": "postPerspective",
+   "category": "movies",
+   "published_iso": "2026-09-15T19:46:43+00:00",
+   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Colofront-Composition-Comparison-Engine-copy.jpg",
+   "excerpt": "Colorfront brought an automated timeline comparison engine and Dolby Vision 2 mastering to IBC, automating the version-checking drudgery that eats mastering hours."
   },
   {
    "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
    "source": "RedShark News",
    "category": "movies",
-   "published_iso": "2026-09-14T12:52:54Z",
+   "published_iso": "2026-09-14T12:52:54+00:00",
    "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
-   "excerpt": "At IBC, Blackmagic",
-   "title": "DaVinci Resolve AI: Blackmagic keeps it assistive"
+   "excerpt": "At IBC, Blackmagic drew a deliberate line: DaVinci Resolve's AI stays an assistant that organizes media and drives batch renders, not a generator that makes creative decisions for the editor."
   },
   {
-   "url": "https://www.provideocoalition.com/battle-of-the-nle-ai-assistants/",
-   "source": "ProVideo Coalition",
-   "category": "movies",
-   "published_iso": "2026-09-14T11:30:36Z",
-   "og_image": "https://www.provideocoalition.com/wp-content/uploads/18a5cf6c-615d-47a2-95cc-89c505178013.png",
-   "excerpt": "This is really just a stream-of-consciousness post. I had a rather simple edit job that felt like the perfect place for an AI assistant to do some prep and setup so I didn’t have to. I decided to document and post the results here after playing around with asking both the Premiere (Beta) Assistant and [...]<p><a class=",
-   "title": "Battle of the NLE AI Assistants by Scott Simmons - ProVideo Coalition"
-  },
-  {
-   "url": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
-   "source": "befores & afters",
-   "category": "movies",
-   "published_iso": "2026-09-14T11:25:09Z",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/erandinur.jpg",
-   "excerpt": "Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now.",
-   "title": "VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects - befores & afters"
-  },
-  {
-   "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
-   "source": "Deadline",
-   "category": "movies",
-   "published_iso": "2026-09-14T08:51:03Z",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg?w=1024",
-   "excerpt": "'Adolescence' writer Jack Thorne has warned that his colleagues are using AI to \"cheat.\" He added that those caught should be punished.",
-   "title": "'Adolescence' Scribe Jack Thorne Warns: Writers Using AI To \"Cheat\""
-  },
-  {
-   "url": "https://www.redsharknews.com/colorfront-qumulo-neuralsearch-metadata",
+   "url": "https://www.redsharknews.com/adobe-premiere-ibc2026-video",
    "source": "RedShark News",
    "category": "movies",
-   "published_iso": "2026-09-14T05:49:56Z",
-   "og_image": "https://www.redsharknews.com/hubfs/Colorfront%20On-Set%20Dailies.jpg",
-   "excerpt": "Colorfront and Qumulo now write on-set metadata directly into media files, keeping camera, lens and color data searchable for the life of a production.",
-   "title": "Colorfront, Qumulo make on-set metadata searchable"
+   "published_iso": "2026-09-16T15:52:03+00:00",
+   "og_image": "https://www.redsharknews.com/hubfs/ibc2026%20video%20adobe%20premiere.jpg",
+   "excerpt": "A show-floor video walkthrough of Adobe's IBC2026 Premiere stand, covering the new AI object masking and generative media features editors will meet in the next release."
+  },
+  {
+   "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
+   "source": "RedShark News",
+   "category": "movies",
+   "published_iso": "2026-09-12T16:47:04+00:00",
+   "og_image": "https://www.redsharknews.com/hubfs/ibc%20adobe%20stand%202.jpg",
+   "excerpt": "Adobe explains Premiere's new AI tools in its own words — what the Object Mask model actually does to tracking and masking, and where the company drew the line on generation."
+  },
+  {
+   "url": "https://nofilmschool.com/adobe-premiere-elements-2027",
+   "source": "No Film School",
+   "category": "movies",
+   "published_iso": "2026-09-16T21:40:05+00:00",
+   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67781924&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "Adobe's Photoshop Elements and Premiere Elements 2027 push AI-powered editing down to the consumer tier, a useful read on which pro features get commoditized first."
+  },
+  {
+   "url": "https://nofilmschool.com/creative-provenance-ai",
+   "source": "No Film School",
+   "category": "movies",
+   "published_iso": "2026-09-15T20:25:05+00:00",
+   "og_image": "https://nofilmschool.com/media-library/image.jpg?id=34052055&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+   "excerpt": "You don't have to use AI in your film — but proving you didn't is becoming its own production task, as provenance metadata and C2PA-style credentials move into the filmmaking workflow."
   },
   {
    "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
    "source": "Animation World Network",
    "category": "movies",
-   "published_iso": "2026-09-11T18:22:14Z",
+   "published_iso": "2026-09-11T11:22:14-07:00",
    "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/logo_black_-_revize-1280.jpg?itok=CpaBSEqQ",
-   "excerpt": "The face- and body-replacement technology Rising Sun Pictures began building in 2018, and has since used on 30+ films including 'Sinners' and 'Mickey 17,' now serves FOLKS, El Ranchito and Square One, with longtime RSP leader Troy Tobin running the program.",
-   "title": "Pitch Black Rolls Out REVIZE Machine Learning Across Its Global Studios"
+   "excerpt": "Pitch Black is rolling REVIZE, Rising Sun's face- and body-replacement machine learning toolset, across all of its global studios — a sign ML replacement work is becoming standard pipeline rather than a one-off."
   },
   {
-   "url": "https://variety.com/2026/film/global/dreamkite-yoko-higuchi-zitzmann-ai-opportunities-concerns-1236857194/",
+   "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217346/",
+   "source": "IndieWire",
+   "category": "movies",
+   "published_iso": "2026-09-15T20:00:00+00:00",
+   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
+   "excerpt": "'About a Hero,' a partly AI-generated docu-mystery narrated by a synthetic Werner Herzog voice, debuts its trailer — a test case for what a machine-authored documentary voice actually sounds like."
+  },
+  {
+   "url": "https://www.hollywoodreporter.com/business/digital/generative-ai-tools-1236702155/",
+   "source": "The Hollywood Reporter",
+   "category": "movies",
+   "published_iso": "2026-09-15T23:14:43+00:00",
+   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Coco-Mao-photo.jpg?w=1296&h=730&crop=1",
+   "excerpt": "Open Art CEO Coco Mao argues generative tools won't replace live film production yet, mapping where AI genuinely speeds a shoot and where physical production still wins."
+  },
+  {
+   "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+   "source": "The Verge",
+   "category": "movies",
+   "published_iso": "2026-09-16T20:59:13+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&strip=all&crop=3.9791086350975%2C0%2C92.041782729805%2C100&w=1200",
+   "excerpt": "A full-length AI-generated Odyssey lands in front of critics, and the review is a concrete inventory of where generative video still breaks down across 2.5 hours of continuity, performance and pacing."
+  },
+  {
+   "url": "https://variety.com/2026/tv/news/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
    "source": "Variety",
    "category": "movies",
-   "published_iso": "2026-09-10T13:38:09Z",
-   "og_image": "https://variety.com/wp-content/uploads/2026/09/Higuchi_Zitzmann_Wacholz.jpg?w=1000&h=563&crop=1",
-   "excerpt": "Dreamkite Studios chief Yoko Higuchi-Zitzmann speaks about her newly formed AI production company.",
-   "title": "Dreamkite Chief Yoko Higuchi-Zitzmann on AI Opportunities and Industry Concerns: ‘AI Production Will Create a Lot of New Human Jobs’"
-  },
-  {
-   "url": "https://www.cartoonbrew.com/artist-rights/blizzard-entertainment-union-contract-266400.html",
-   "source": "Cartoon Brew",
-   "category": "movies",
-   "published_iso": "2026-09-10T12:18:36Z",
-   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/BlizzCon-2026.jpg",
-   "excerpt": "Negociated by the CWA, new agreements include wage increases, AI guardrails, enhanced severance, recall rights, and remote-work protections.",
-   "title": "Nearly 1,900 Blizzard Workers Ratify First Union Contracts"
-  },
-  {
-   "url": "https://postperspective.com/blackmagic-resolve-21-1-integrates-ai-assistants-adds-new-tools-system-wide/",
-   "source": "postPerspective",
-   "category": "movies",
-   "published_iso": "2026-09-09T20:24:40Z",
-   "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Blackmagic-main-IBC.jpg",
-   "excerpt": "Blackmagic has released DaVinci Resolve 21.1, an update that adds integration with AI assistants including Claude, Claude Code and ChatGPT Codex; expands camera format support on the Photo page; and adds new tools and controls across editing, color, Fusion and Fairlight. DaVinci Resolve 21.1 is available now as a free ",
-   "title": "Blackmagic Resolve 21.1 Integrates AI Assistants, Adds New Tools System Wide - postPerspective"
-  },
-  {
-   "url": "https://deadline.com/2026/09/maxton-hall-amazon-ai-technology-lip-sync-dubbing-1237071616/",
-   "source": "Deadline",
-   "category": "movies",
-   "published_iso": "2026-09-09T14:45:14Z",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/09/Amazon-Maxon-Hall.jpg?w=1024",
-   "excerpt": "Amazon Prime Video series Maxton Hall is the streamer's first programming to feature AI technology synchronizing actors' lips with human-dubbed audio.",
-   "title": "‘Maxton Hall’ Uses Amazon AI Technology To Sync Actors’ Lips With Human-Dubbed Audio"
+   "published_iso": "2026-09-07T05:30:00+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1",
+   "excerpt": "Executives from Alibaba, Sonilo and PROMPTR debate AI filmmaking at Venice's Production Bridge, including an AI-directed series whose scoring time dropped from ten hours to twenty seconds."
   }
  ]
 }
