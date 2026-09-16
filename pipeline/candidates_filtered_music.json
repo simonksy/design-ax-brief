@@ -1,30 +1,39 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "window_hours": 336,
+  "section": "music",
   "items": [
     {
-      "url": "https://musically.com/2026/09/14/elevenlabs-unveils-music-v2-5-but-umg-wasnt-involved/",
-      "source": "Music Ally",
+      "url": "https://bedroomproducersblog.com/2026/09/16/uad-luna-3-0/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-09-14T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-14T122324.355.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Fresh from its Universal Music licensing deal, ElevenLabs has unveiled Music v2.5, the latest version of its AI music generation service - while stressing that UMG was not involved in this particular model."
+      "published_iso": "2026-09-16T17:40:02Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/luna-free-728x364.jpg",
+      "excerpt": "UAD's free Luna DAW hits 3.0 with Luna Play for fast idea sketching, a proper piano roll and better MIDI editing. New smart features add automatic instrument detection, tempo recognition, stem separation, lyric transcription, chord extraction and audio-to-MIDI."
     },
     {
-      "url": "https://musically.com/2026/09/11/umgs-elevenlabs-deal-is-latest-move-to-ai-remix-experiences/",
-      "source": "Music Ally",
+      "url": "https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-09-11T11:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-11T114858.172.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Music Ally reads UMG's ElevenLabs tie-up as part of a bigger bet on official AI remix experiences, where fans get sanctioned tools to rework catalogue instead of prompting unlicensed models."
+      "published_iso": "2026-09-07T00:00:00Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/roland-melody-flip-728x364.jpg",
+      "excerpt": "Roland released Melody Flip, a free AI-assisted songwriting plugin built with Sony Computer Science Laboratories. It generates melody variations from 250+ genre 'Palettes' and can analyse a reference track to suggest matching palettes, exporting ideas as MIDI."
     },
     {
-      "url": "https://musically.com/2026/09/11/ifpi-urges-eu-countries-to-fully-implement-ai-acts-new-rules/",
-      "source": "Music Ally",
+      "url": "https://bedroomproducersblog.com/2026/09/16/tagopitch-formant-shifter/",
+      "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-09-11T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-3.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Global labels body IFPI used a Brussels event to press EU member states to fully implement the AI Act's training-data transparency rules, a fight that shapes what generative music tools may legally learn from."
+      "published_iso": "2026-09-16T11:16:46Z",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/tagopitch-728x364.jpg",
+      "excerpt": "TagoPitch is a free vocal pitch and formant shifter for macOS and Windows, giving bedroom producers independent control over pitch and timbre for vocal design without a paid suite."
+    },
+    {
+      "url": "https://www.musicradar.com/artists/guitarists/brian-may-on-why-hes-changed-his-mind-on-ai-we-have-to-resist-we-have-to-control-it-very-very-seriously-and-very-quickly",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-09-16T11:56:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9Y2aCQLRZdu5g6ESzB5rBV-2000-80.jpg",
+      "excerpt": "Brian May explains why he reversed his position on AI in music: \"We have to resist. We have to control it very, very seriously and very quickly.\" It is also why he has cooled on the idea of a Queen avatar show."
     },
     {
       "url": "https://www.musicradar.com/artists/shows-festivals/could-a-queen-avatar-show-actually-happen",
@@ -32,93 +41,108 @@
       "category": "music",
       "published_iso": "2026-09-14T06:40:07Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/zwCxCCeSusgzCCkbY3mhje-2000-80.jpg",
-      "excerpt": "Roger Taylor says a Queen avatar show is 'sort of' on the table, putting the ABBA Voyage template - digital doubles, motion capture and synthetic performance - back in front of legacy acts."
+      "excerpt": "Roger Taylor says a Queen avatar show is \"sort of\" on the table, putting the ABBA Voyage-style digital-performer format — and the synthetic-likeness questions it raises — back in play for legacy acts."
     },
     {
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch",
-      "category": "music",
-      "published_iso": "2026-09-14T13:55:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/VBIS-white_bg-red_hand-horizontal.jpg?resize=1200,675",
-      "excerpt": "A former Spotify exec's studio ships experimental music-making 'singles' as small apps that deliberately avoid AI prompting, betting playful human interaction beats text-to-music generation."
-    },
-    {
-      "url": "https://www.production-expert.com/production-expert-1/avid-show-pro-tools-stem-separation-tech-preview-at-ibc-2026",
-      "source": "Production Expert",
-      "category": "music",
-      "published_iso": "2026-09-11T14:25:00+01:00",
-      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa3f6dca96d3d3aaaadfd84/1789130505501/Avid+Show+Pro+Tools+Stem+Separation+Tech+Preview+At+IBC+2026.webp?format=1500w",
-      "excerpt": "Avid previewed a Pro Tools Stem Separator extension at IBC 2026 that splits a stereo mix into stems inside the session, pulling AI source separation into the pro post and mix workflow."
-    },
-    {
-      "url": "https://www.production-expert.com/production-expert-1/why-ai-wont-replace-music-producers",
-      "source": "Production Expert",
-      "category": "music",
-      "published_iso": "2026-09-10T09:00:00+01:00",
-      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a84894db3fd5345db1f12fe/1787070875371/Why+AI+Won%27t+Replace+Music+Producers.webp?format=1500w",
-      "excerpt": "A working engineer's argument for where AI stops: models can generate and clean up audio, but taste, direction and the human calls in a session are what a producer is actually paid for."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/08/human-premium-average-ai-music/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-09-09T06:22:59+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/flower-in-gray-background.jpg",
-      "excerpt": "With AI able to produce endless competent, listenable, boring music on demand, this essay argues the scarce asset is the 'human premium' - and maps how musicians can build their work around it."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/09/the-next-generation-of-cue-sheet-creation/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-09-09T23:00:41+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/music-reports-cuetrak-acr-hero.png",
-      "excerpt": "Music Reports' Cuetrak now uses AudioShake-powered AI content recognition to build cue sheets automatically, taking one of the most tedious hand-logged jobs in music-for-picture off composers' desks."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/ai-will-test-musics-infrastructure-not-just-its-creativity/",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-09-10T19:34:34+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/06/MBW-Views_Jorge.jpg",
-      "excerpt": "Symphonic's Jorge Brea argues the real strain of AI music is operational: metadata, rights matching and delivery pipelines have to absorb an explosion of machine-made tracks."
-    },
-    {
-      "url": "https://completemusicupdate.com/latest-suno-lawsuit-accuses-ai-company-of-violating-the-publicity-rights-of-musicians-rather-than-infringing-their-copyrights/",
-      "source": "CMU",
-      "category": "music",
-      "published_iso": "2026-09-02T16:18:00+00:00",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/suno-v-justice.png",
-      "excerpt": "A new class action skips copyright and accuses Suno of encoding musicians' identities into its model then exploiting them - a publicity-rights angle that could reshape AI voice and style mimicry."
-    },
-    {
-      "url": "https://completemusicupdate.com/donald-trumps-doj-says-openai-should-be-able-to-do-whatever-it-wants-with-copyright-protected-works/",
-      "source": "CMU",
-      "category": "music",
-      "published_iso": "2026-09-03T16:28:56+00:00",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Trump-AI.png",
-      "excerpt": "The US DoJ has intervened to argue that AI training on copyrighted works is fair use - a position that lands directly on the music industry's cases against Suno and Udio."
-    },
-    {
-      "url": "https://musictech.com/news/gear/public-beta-serato-dj-5-0-new-features/",
+      "url": "https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/",
       "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-09-11T10:40:05+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Serato-hero@2000x1500-1068x801.jpg",
-      "excerpt": "Serato DJ 5.0's public beta rebuilds BPM and beatgrid analysis and widens streaming access, automating prep work DJs have historically done track by track."
+      "published_iso": "2026-09-15T09:50:04Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/BandLab-new-hero@2000x1500.jpg",
+      "excerpt": "BandLab's automatic mastering now offers preset intensity across 11 levels plus four member-exclusive presets designed with Grammy-winning engineers, and a three-band mastering EQ for Max subscribers."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/09/11/nopia-semi-modular-harmony-generator-synthesizer-sneak-preview/",
-      "source": "Synthtopia",
+      "url": "https://musictech.com/news/gear/autotune-is-now-available-in-fl-studio-even-to-free-users/",
+      "source": "MusicTech",
       "category": "music",
-      "published_iso": "2026-09-11T17:22:38+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2023/05/nopia-midi-controller.jpg",
-      "excerpt": "Nopia is a compact chord-driven hardware instrument that generates harmony from gestures - a physical take on generative composition aimed at players who don't think in keyboards."
+      "published_iso": "2026-09-15T16:27:23Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/AutoTune-FL-Studio@2000x1500.jpg",
+      "excerpt": "Antares AutoTune Go arrives inside FL Studio through the free tier of FL Cloud, putting the industry-standard pitch-correction sound in front of every FL user at no cost."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/image-line-antares-reveal-autotune-go",
+      "source": "Sound On Sound",
+      "category": "music",
+      "published_iso": "2026-09-16T17:00:00Z",
+      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/f/fl_antares_autotune_go-EdVmJO99vf0X32XiGDhXNPXQyVx8zBJ1.jpg",
+      "excerpt": "Image-Line and Antares reveal AutoTune Go, a free pitch-correction plugin delivered via the free tier of FL Cloud so the iconic AutoTune sound is available directly inside FL Studio."
+    },
+    {
+      "url": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
+      "source": "CDM Create Digital Music",
+      "category": "music",
+      "published_iso": "2026-09-16T17:32:46Z",
+      "og_image": "https://cdm.link/app/uploads/2026/09/atmos-panner.jpg",
+      "excerpt": "MOTU's Digital Performer 12 lands with deep Dolby Atmos support, an Arrangement Strip and AI-powered stem separation, modernising a long-running Mac and Windows DAW."
+    },
+    {
+      "url": "https://www.gearnews.com/suno-v6-tech/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-09-09T09:00:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Suno-v6-T.jpg",
+      "excerpt": "Suno v6 ships three new AI music models built alongside Warner Music and BMG, adding section-level editing, mashups, sampling tools and lyric-line edits that shift the platform from prompt-and-pray toward producer control."
+    },
+    {
+      "url": "https://www.gearnews.com/zplane-timbre-studio-plugin/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-09-16T08:53:00Z",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/zplane-Timbre-T.jpg",
+      "excerpt": "zplane Timbre is a new multiband formant shaper with vocoder functionality and an Unlinked Mode, aimed at real-time vocal and sound-design transformation."
+    },
+    {
+      "url": "https://www.production-expert.com/production-expert-1/dreamtonics-instrument-x-how-good-does-this-sample-free-orchestra-sound",
+      "source": "Production Expert",
+      "category": "music",
+      "published_iso": "2026-09-16T17:00:00Z",
+      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a9fb32c3d40f31a3f11dbcf/1788851008833/Inst+X-12.jpg?format=1500w",
+      "excerpt": "Dreamtonics' Instrument X swaps samples for neural synthesis to model orchestral instruments in real time. Production Expert tests what that means for template size, CPU load and sound."
+    },
+    {
+      "url": "https://www.production-expert.com/production-expert-1/immersive-master-pro-15-going-beyond-atmos-delivery",
+      "source": "Production Expert",
+      "category": "music",
+      "published_iso": "2026-09-15T17:00:00Z",
+      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa8555cdedf8026150a1608/1789416796301/Immersive+Mater+Pro+15.png?format=1500w",
+      "excerpt": "Immersive Master Pro 1.5 adds IAMF and Eclipsa Audio to a tool used on nearly every Atmos delivery; batch encoding and MP4 export get put through their paces."
+    },
+    {
+      "url": "https://www.production-expert.com/production-expert-1/audio-manufacturers-agree-common-dialog-intelligibility-standard-at-ibc-2026",
+      "source": "Production Expert",
+      "category": "music",
+      "published_iso": "2026-09-14T10:05:00Z",
+      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa7aab944264858a83ced8c/1789373113260/Audio+Manufacturers+Agree+Common+Dialog+Intelligibility+Standard+At+IBC+2026.webp?format=1500w",
+      "excerpt": "NUGEN Audio, RTW, Steinberg and Telos Alliance agreed a common DIU scale for dialog intelligibility measurement with Fraunhofer IDMT at IBC 2026, giving mixers one shared number to target."
+    },
+    {
+      "url": "https://www.hypebot.com/ai-is-reshaping-the-music-industry-but-leaving-live-events-behind/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-09-16T14:14:42Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-16-Ben-OpEd.jpg",
+      "excerpt": "While AI investment transforms recorded music, the argument here is that its biggest untapped use is operational: helping live-event professionals manage bookings, payments and workflows."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/believe-and-tunecore-suno-consent/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-16T18:24:40Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/Denis-Ladegaillerie-2_Credit_Anis-Martin-1296x864.jpg",
+      "excerpt": "Believe and TuneCore say they won't feed artists' music to Suno without consent, with CEO Denis Ladegaillerie detailing a two-stage opt-in process for artists who do and don't want to participate."
+    },
+    {
+      "url": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
+      "source": "Complete Music Update",
+      "category": "music",
+      "published_iso": "2026-09-09T13:47:53Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Suno.png",
+      "excerpt": "Suno unveiled its v6 upgrade developed with \"music industry partners\" including Warner and BMG, even as it keeps fighting other rightsholders in court over training data."
     }
   ],
-  "section": "music",
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 17,
     "against_days": 5
   }
 }

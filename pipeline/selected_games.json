@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "section": "games",
   "picks": [
     {
-      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
-      "source": "UploadVR",
+      "url": "https://80.lv/articles/hard-surface-retopology-just-got-easier-in-blender/",
+      "source": "80 Level",
+      "published_iso": "2026-09-15T11:19:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50216/images/6aa929b945b8d/contain_1200x630.jpg",
+      "excerpt": "ReFace 2.0 for Blender now cleans up messy geometry from 3D scans, AI-generated models and sculpts, making hard-surface retopology far less manual.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "AI 보조만으로 VR 경험 0인 사람이 8일 만에 퀘스트 스토어 출시까지 갔다는 실측 사례 — 내일 당장 따라 할 수 있는 워크플로.",
-      "published_iso": "2026-09-14T15:12:36Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/809813437_28210060141977570_4776135801454871213_n--1-.jpg",
-      "excerpt": "Until a little over a week ago, Craig Storm had never built a VR app. Eight days later, his AI-assisted Quest game Punchable Face was live on Meta's store."
+      "rationale": "A concrete Blender tool release that turns AI/scan output into production-ready hard-surface topology — changes an asset artist's pipeline tomorrow."
     },
     {
-      "url": "https://wccftech.com/qwen-38-27b-local-llm-first-person-zombie-shooter-game-5-hours/",
-      "source": "Wccftech",
+      "url": "https://80.lv/articles/diablo-v-developers-explain-how-its-procedural-open-world-works/",
+      "source": "80 Level",
+      "published_iso": "2026-09-16T10:28:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50230/images/6aaa6f5acafd4/contain_1200x630.jpg",
+      "excerpt": "Blizzard devs break down the procedural generation system behind Diablo V's open world, a technology they say has been in development since Diablo III.",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "클라우드 없이 로컬 오픈웨이트 모델만으로 5시간 만에 동작하는 FPS를 뽑아낸 실험 — 개인 장비에서 가능한 프로토타이핑 한계선을 다시 그린다.",
-      "published_iso": "2026-09-14T08:36:43Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Qwen3.8-27B-local-AI-model-used-to-make-a-first-person-zombie-shooter.jpg",
-      "excerpt": "Discover how the Qwen3.8-27B local LLM was used to build a functional first-person 3D zombie shooter game in just five hours proving how far open-weight AI coding agents have come"
+      "rationale": "First-party technical breakdown of a decade-long procedural world system — rare craft detail from a AAA studio, directly useful to level and systems designers."
     },
     {
-      "url": "https://wccftech.com/pubg-ded-net-interview-ai-placeholder-art-replaced/",
-      "source": "Wccftech",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "AI를 최종 에셋이 아니라 플레이스홀더로 쓰고 전량 교체한다는 크리에이티브 디렉터의 실제 파이프라인 기준 — 스튜디오가 참고할 만한 선긋기.",
-      "published_iso": "2026-09-14T19:00:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/PUBG-DED.NET-HD-1920x1080.jpeg",
-      "excerpt": "At gamescom 2026, we interviewed PUBG DED.NET Creative Director Dave Curd to discover what this new version of PUBG is all about."
-    },
-    {
-      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
-      "source": "Eurogamer.net",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "source": "PC Gamer",
+      "published_iso": "2026-09-15T14:22:49+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
+      "excerpt": "A developer vibe-coded a VR tool that lets him physically toss a 3D model at his printer inside mixed reality to start a print job.",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "DLSS 5 뉴럴 렌더링이 실제로 얼마나 무거운지 전문가 측정치가 나왔다 — 비주얼 타깃과 성능 예산을 잡을 때 바로 들어가는 숫자.",
-      "published_iso": "2026-09-07T12:34:26Z",
-      "og_image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Nvidia's new game-altering DLSS 5 technology takes a serious toll on a game's frame-rate, experts declare. So is it worth it?"
+      "rationale": "A working example of vibe-coding a spatial interaction tool — shows how cheap bespoke XR utilities have become for a solo maker."
     },
     {
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/",
+      "source": "Wccftech",
+      "published_iso": "2026-09-16T15:21:39+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/UNCANNY-Spider-Man-NVIDIA-DLSS-5-1920x1080.jpg",
+      "excerpt": "A modding project called UNCANNY uses NVIDIA DLSS 5 neural rendering to deliver real-time remasters, making both classic and modern games look like new titles.",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Neural rendering moves from vendor demo to a community remastering engine — a new production route for art direction on legacy titles."
+    },
+    {
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
       "source": "GamesRadar+",
+      "published_iso": "2026-09-16T17:14:07+00:00",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
+      "excerpt": "A PS5 Linux developer is walking away from the project, saying open-source mod work has been overrun by 'AI slop kiddies' using LLMs to write hacks they don't understand.",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "젤다·스타폭스를 그린 원로 아티스트가 AI에 감탄했다가 팬 반발을 맞은 장면 — 창작자 개인의 AI 공개 발언이 어떤 비용을 치르는지 보여준다.",
-      "published_iso": "2026-09-14T15:45:07Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4wenzA6wmf2f5GELcQAra7-1920-80.jpg",
-      "excerpt": "You've met with a terrible post, haven't you?"
+      "rationale": "The maintenance cost of LLM-written contributions is now driving senior maintainers out — a warning for any team accepting AI-assisted code."
     }
   ]
 }

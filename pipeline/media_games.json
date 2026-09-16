@@ -1,34 +1,11 @@
 {
- "date": "2026-09-15",
- "section": "games",
- "media": [
-  {
-   "id": "games-quest-8days",
-   "type": "video",
-   "src": "pipeline/media/games-quest-8days.mp4",
-   "poster": "pipeline/media/games-quest-8days.jpg"
-  },
-  {
-   "id": "games-qwen-local-fps",
-   "type": "image",
-   "src": "pipeline/media/games-qwen-local-fps.jpg"
-  },
-  {
-   "id": "games-pubg-dednet-placeholder",
-   "type": "video",
-   "src": "pipeline/media/games-pubg-dednet-placeholder.mp4",
-   "poster": "pipeline/media/games-pubg-dednet-placeholder.jpg"
-  },
-  {
-   "id": "games-dlss5-framerate",
-   "type": "video",
-   "src": "pipeline/media/games-dlss5-framerate.mp4",
-   "poster": "pipeline/media/games-dlss5-framerate.jpg"
-  },
-  {
-   "id": "games-imamura-backlash",
-   "type": "image",
-   "src": "pipeline/media/games-imamura-backlash.jpg"
-  }
- ]
+  "date": "2026-09-17",
+  "section": "games",
+  "media": [
+    {"id": "games-reface-blender", "type": "video", "src": "pipeline/media/games-reface-blender.mp4", "poster": "pipeline/media/games-reface-blender.jpg"},
+    {"id": "games-diablo-v-procedural", "type": "video", "src": "pipeline/media/games-diablo-v-procedural.mp4", "poster": "pipeline/media/games-diablo-v-procedural.jpg"},
+    {"id": "games-vr-toss-print", "type": "image", "src": "pipeline/media/games-vr-toss-print.jpg"},
+    {"id": "games-dlss5-uncanny", "type": "image", "src": "pipeline/media/games-dlss5-uncanny.jpg"},
+    {"id": "games-ps5-linux-quit", "type": "image", "src": "pipeline/media/games-ps5-linux-quit.jpg"}
+  ]
 }

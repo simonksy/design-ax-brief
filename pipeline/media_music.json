@@ -1,33 +1,35 @@
 {
- "date": "2026-09-15",
- "section": "music",
- "media": [
-  {
-   "id": "music-protools-stem-separator",
-   "type": "video",
-   "src": "pipeline/media/music-protools-stem-separator.mp4",
-   "poster": "pipeline/media/music-protools-stem-separator.jpg"
-  },
-  {
-   "id": "music-elevenlabs-music-v25",
-   "type": "image",
-   "src": "pipeline/media/music-elevenlabs-music-v25.jpg"
-  },
-  {
-   "id": "music-nopia-harmony-generator",
-   "type": "video",
-   "src": "pipeline/media/music-nopia-harmony-generator.mp4",
-   "poster": "pipeline/media/music-nopia-harmony-generator.jpg"
-  },
-  {
-   "id": "music-cuetrak-ai-cue-sheets",
-   "type": "image",
-   "src": "pipeline/media/music-cuetrak-ai-cue-sheets.jpg"
-  },
-  {
-   "id": "music-vinyl-bar-in-shibuya",
-   "type": "image",
-   "src": "pipeline/media/music-vinyl-bar-in-shibuya.jpg"
-  }
- ]
+  "date": "2026-09-17",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-luna3",
+      "type": "video",
+      "src": "pipeline/media/music-luna3.mp4",
+      "poster": "pipeline/media/music-luna3.jpg"
+    },
+    {
+      "id": "music-dp12",
+      "type": "video",
+      "src": "pipeline/media/music-dp12.mp4",
+      "poster": "pipeline/media/music-dp12.jpg"
+    },
+    {
+      "id": "music-autotune-fl",
+      "type": "image",
+      "src": "pipeline/media/music-autotune-fl.jpg"
+    },
+    {
+      "id": "music-instrument-x",
+      "type": "video",
+      "src": "pipeline/media/music-instrument-x.mp4",
+      "poster": "pipeline/media/music-instrument-x.jpg"
+    },
+    {
+      "id": "music-melody-flip",
+      "type": "video",
+      "src": "pipeline/media/music-melody-flip.mp4",
+      "poster": "pipeline/media/music-melody-flip.jpg"
+    }
+  ]
 }

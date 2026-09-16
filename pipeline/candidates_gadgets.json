@@ -1,187 +1,191 @@
 {
- "date": "2026-09-15",
- "section": "gadgets",
+ "date": "2026-09-17",
  "window_hours": 336,
+ "section": "gadgets",
  "items": [
   {
-   "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-   "source": "The Verge",
+   "url": "https://www.xda-developers.com/stopped-uploading-research-to-notebooklm-local-llm-does-everything/",
+   "source": "XDA Developers",
    "category": "gadgets",
-   "published_iso": "2026-09-14T17:08:49Z",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
-   "excerpt": "watchOS 27, iPadOS 27, and visionOS 27 also debut today.",
-   "title": "Apple releases iOS 27 with Siri AI overhaul"
+   "published_iso": "2026-09-16T21:30:18Z",
+   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/gemini-notebook-landing-page-on-a-macbook-with-a-monitor-beside-it.jpeg?w=1600&amp;h=900&amp;fit=crop",
+   "excerpt": "I stopped uploading research to NotebookLM, and my local LLM does everything Google's version promised. Google, we need to talk"
   },
   {
-   "url": "https://www.theverge.com/tech/994267/steam-frame-review",
-   "source": "The Verge",
+   "url": "https://www.xda-developers.com/used-speculative-decoding-my-local-llm-feel-instant-prefer-cloud-apis/",
+   "source": "XDA Developers",
    "category": "gadgets",
-   "published_iso": "2026-09-14T17:00:00Z",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-   "excerpt": "It almost makes me want to pay to be a beta tester.",
-   "title": "The Steam Frame is made for irresponsible hardware nerds like me"
+   "published_iso": "2026-09-16T20:01:17Z",
+   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/1789386186719.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "excerpt": "I used speculative decoding to make my local LLM feel instant, and now I actually prefer it to cloud APIs. It really made a difference."
   },
   {
-   "url": "https://www.tomsguide.com/phones/iphones/your-phone-may-run-ios-27-but-only-these-devices-run-everything-siri-ai-can-do",
-   "source": "Tom's Guide",
+   "url": "https://www.androidauthority.com/pixel-watch-5-gemini-bug-3712101/",
+   "source": "Android Authority",
    "category": "gadgets",
-   "published_iso": "2026-09-14T16:00:04Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/K5SQbjBSv85JzgqYxoY5Lm-2000-80.jpg",
-   "excerpt": "33 devices run iOS 27, but only six can handle the full brunt of Siri AI",
-   "title": "Your phone may run iOS 27, but only these devices support the new Siri AI"
+   "published_iso": "2026-09-16T18:47:02+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-watch-5-hands-on-4-scaled.jpg",
+   "excerpt": "Gemini was broken on the Pixel Watch 5, but Google's got a fix. A Pixel Watch 5 bug is causing Gemini to fail, and no one knows why."
   },
   {
-   "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+   "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
    "source": "MacRumors",
    "category": "gadgets",
-   "published_iso": "2026-09-14T21:46:30Z",
-   "og_image": "https://images.macrumors.com/t/Y5LosWiiqev53GeuCdn3HHvaHJw=/2500x/article-new/2026/02/iOS-26-Home-Feature.jpg",
-   "excerpt": "Apple is requiring a $9.99 iCloud+ plan to use the iOS 27 Apple Intelligence Home app features with a single HomeKit camera, and iPhone users aren't happy about it. iOS 27 includes text-based descriptions for motion alerts, a feature that uses Apple Intelligence. It recognizes people, animals, vehicles, packages, and general motion, and summarizes what's happening.",
-   "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five"
+   "published_iso": "2026-09-16T18:18:11+00:00",
+   "og_image": "https://images.macrumors.com/t/A7l65lzv8y3Vszg7Y6I5w20KAtQ=/2062x/article-new/2026/09/Siri-AI-More-Languages-October.jpg",
+   "excerpt": "iOS 27.2 Adds Siri AI in New Languages. In the iOS 27.2 beta, Apple Siri AI is available in new languages, including French, Japanese, Korean, Portuguese, and Spanish. In the launch version of iOS 27, Siri AI is limited to English. Apple previously said that new Siri AI languages would be coming in October, so that likely means iOS 27.2 will see an October launch. Apple previously said that new Si"
   },
   {
-   "url": "https://www.macrumors.com/2026/09/14/apple-releases-visionos-27/",
-   "source": "MacRumors",
+   "url": "https://www.xda-developers.com/microsoft-finally-letting-windows-11-users-take-back-keyboard-keys-copilot-stole/",
+   "source": "XDA Developers",
    "category": "gadgets",
-   "published_iso": "2026-09-14T17:02:00Z",
-   "og_image": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg",
-   "excerpt": "Apple today released visionOS 27, the newest version of the visionOS operating system that runs on the Apple Vision Pro. It is a free update available on both versions of the Vision Pro headset. visionOS 27 can be downloaded by opening the Settings app, selecting the General section, and choosing Software Update. Installing the update requires the headset to be removed, and a progress bar appears ",
-   "title": "Apple Releases visionOS 27 With Siri AI and New Spatial Experiences"
+   "published_iso": "2026-09-16T18:10:25Z",
+   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/laptop-copilot-buttons.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "excerpt": "Microsoft is finally letting Windows 11 users take back the keyboard keys Copilot stole. You'll soon be able to remap the Copilot key to either Right Ctrl or the Context Menu."
   },
   {
-   "url": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
-   "source": "9to5Mac",
+   "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+   "source": "The Verge",
    "category": "gadgets",
-   "published_iso": "2026-09-11T14:16:54Z",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/CarPlay-AI-apps.webp?resize=1200,628",
-   "excerpt": "Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add...",
-   "title": "CarPlay now works with six major AI chatbot apps, leaving one key holdout - 9to5Mac"
+   "published_iso": "2026-09-16T17:00:00+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4128369206903%2C100%2C93.174326158619&amp;w=1200",
+   "excerpt": "Google Home is unlocking the agentic smart home — which is great, right?. AI agents can now control your home"
   },
   {
-   "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
-   "source": "ZDNET",
-   "category": "gadgets",
-   "published_iso": "2026-09-10T18:00:46Z",
-   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/figure-top-how-i-use-siri-mode-in-the-ios-27-camera-app-to-ask-questions-about-anything-i-see_06c81e.jpg",
-   "excerpt": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
-   "title": "Eager to try iOS 27's cool AI features and upgraded Siri? Get ready for usage limits - ZDNET"
-  },
-  {
-   "url": "https://www.tomshardware.com/virtual-reality/valve-steam-frame-interview-why-it-costs-up-to-usd1-300-snapdragon-power-and-10x-foveated-streaming",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding",
    "source": "Tom's Hardware",
    "category": "gadgets",
-   "published_iso": "2026-09-14T17:28:23Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/3bvkE32ndtcvNVTD63NRtf-1920-80.jpg",
-   "excerpt": "Taking a two-pronged approach to VR gaming",
-   "title": "Valve Steam Frame interview — why it costs up to $1,300, Snapdragon power, and 10x foveated streaming"
+   "published_iso": "2026-09-16T14:36:48Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/YBam2HJLeus5TD6nCr5wmY-1920-80.jpg",
+   "excerpt": "Nanya-backed Piecemakers bets edge AI devices will diverge from reliance on HBM. Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won’t be HBM."
   },
   {
-   "url": "https://www.tomshardware.com/laptops/at-ifa-2026-computing-chased-the-high-and-low-ends-ai-and-budget-focused-machines-left-little-for-the-rest-of-us",
-   "source": "Tom's Hardware",
-   "category": "gadgets",
-   "published_iso": "2026-09-11T12:44:08Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Xb6MzqMTgfz7fJ8QaCzSeW-1920-80.jpg",
-   "excerpt": "At IFA 2026, a bifurcated computing landscape widened as more companies chased Apple",
-   "title": "At IFA 2026, computing chased the high and low ends — AI and budget-focused machines left little for the rest of us"
-  },
-  {
-   "url": "https://roadtovr.com/steam-frame-vs-quest-3-specs/",
-   "source": "Road to VR",
-   "category": "gadgets",
-   "published_iso": "2026-09-14T16:59:00Z",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-15.jpg",
-   "excerpt": "Want to know how Valve’s Steam Frame standalone headset stacks up against the competition? Read on to find out. Steam Frame is a lot like Steam Deck; it can play pretty much all of Steam’s game library out of the box, which includes flatscreen content based on x86 architecture—basically everything on Steam—and also now PC […]",
-   "title": "Steam Frame vs. Quest 3 Specs: Better PC Streaming, Power & Hackability"
-  },
-  {
-   "url": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
-   "source": "UploadVR",
-   "category": "gadgets",
-   "published_iso": "2026-09-13T18:48:46Z",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Threads-on-Quest-and-Meta-Ray-Ban-Display.png",
-   "excerpt": "Threads arrived on Quest headsets and Meta Ray-Ban Display, alongside a swathe of other updates for Meta's smart glasses.",
-   "title": "Threads Apps Arrived On Quest & Meta Ray-Ban Display"
-  },
-  {
-   "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/rayneos-io-camera-free-smart-glasses-boast-an-ai-agnostic-version-of-the-siri-recap-feature-coming-to-apple-watch-and-im-not-sure-if-i-love-or-hate-it",
+   "url": "https://www.techradar.com/computing/creative-software/canon-cameras-just-got-a-free-update-that-unleashes-immersive-3d-photo-capabilities-heres-how",
    "source": "TechRadar",
    "category": "gadgets",
-   "published_iso": "2026-09-13T16:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ-2560-80.jpg",
-   "excerpt": "RayNeo IO are smart glasses boast an AI agnostic version of Siri Recap, but I’m not sure if I love or hate it.",
-   "title": "RayNeo iO might finally get camera-less smart glasses right — but the"
+   "published_iso": "2026-09-16T12:57:48Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif",
+   "excerpt": "Your Canon camera just got a free upgrade that lets it shoot 3D photos — here’s how Dual Pixel 3D works, and which cameras are compatible. Canon has released Dual Pixel 3D software, which leverages"
   },
   {
-   "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-   "source": "Ars Technica",
+   "url": "https://www.techradar.com/health-fitness/oral-health/what-you-have-there-is-essentially-a-usd70-000-piece-of-lab-equipment-in-a-handheld-consumer-product-jake-dyson-shares-the-design-secrets-of-the-brands-new-mouthwash-squirting-toothbrush-and-the-company-explains-why-some-early-models-had-problems",
+   "source": "TechRadar",
    "category": "gadgets",
-   "published_iso": "2026-09-12T11:00:53Z",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
-   "excerpt": "Unitree might be the world’s most important robotics company.",
-   "title": "I spent $4,000 on a robot dog from China"
+   "published_iso": "2026-09-16T12:48:45Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC-1920-80.jpg",
+   "excerpt": "I spoke to Jake Dyson about the brand. The CameraJet hasn"
+  },
+  {
+   "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+   "source": "Tom's Hardware",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T12:15:42Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-1920-80.jpg",
+   "excerpt": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips. Memory shortage continues to hit smaller brands."
+  },
+  {
+   "url": "https://www.tomsguide.com/wellness/smartwatches/how-to-enable-siri-ai-on-your-apple-watch",
+   "source": "Tom's Guide",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T11:30:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/jMVPmjsyJhiAYsSKDJzbwk-2560-80.jpg",
+   "excerpt": "Here. Plus: How to add the Siri widget to your home screen"
+  },
+  {
+   "url": "https://www.tomsguide.com/ai/toms-guide-awards-2026",
+   "source": "Tom's Guide",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T10:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/k6rknMfVrBs6eK8KtzQFRE-2560-80.jpg",
+   "excerpt": "Tom. From AI chatbots to image and video generators and more"
+  },
+  {
+   "url": "https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/",
+   "source": "WIRED",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T08:00:00.000-04:00",
+   "og_image": "https://media.wired.com/photos/6aa9f7c07a4288876ba476ed/191:100/w_1280,c_limit/DSC_9668.jpg",
+   "excerpt": "The iPhone 18 Pro Is for the Shutterbugs. Fun camera features help make these candy bar iPhones stand out from the dazzle of the folding iPhone Duo."
+  },
+  {
+   "url": "https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/",
+   "source": "Engadget",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T06:49:32+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/meta-is-reportedly-developing-smart-glasses-without-a-camera/l-intro-1789541105.jpg",
+   "excerpt": "Meta is reportedly gearing up to launch new smart glasses without a camera - Engadget. Meta will soon unveil new camera-free smart glasses, according to The Information."
+  },
+  {
+   "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+   "source": "9to5Mac",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T02:25:19+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works - 9to5Mac. A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode."
+  },
+  {
+   "url": "https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/",
+   "source": "Android Authority",
+   "category": "gadgets",
+   "published_iso": "2026-09-16T02:04:31+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-pixel-watch-4-granza-watchface-torvex-watchface-1.jpg",
+   "excerpt": "Google details September Wear OS update for Pixel Watch 2, 3, and 4. New goodies for older Pixel Watches."
+  },
+  {
+   "url": "https://9to5mac.com/2026/09/15/watchos-27-siri-app-lets-you-continue-existing-chats-though-its-a-bit-hidden/",
+   "source": "9to5Mac",
+   "category": "gadgets",
+   "published_iso": "2026-09-15T17:00:11+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?resize=1200,628",
+   "excerpt": "watchOS 27: Siri app lets you continue existing chats, though it's a bit hidden - 9to5Mac. Apple Watch includes an all-new Siri app in watchOS 27. Unlike the iPhone and iPad versions, it’s a bit less..."
+  },
+  {
+   "url": "https://9to5google.com/2026/09/15/mediatek-dimensity-9600-pro-chip/",
+   "source": "9to5Google",
+   "category": "gadgets",
+   "published_iso": "2026-09-15T15:30:00+00:00",
+   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/mediatek-dimensity-9600-pro.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "MediaTek Dimensity 9600 Pro goes official with 2nm process and performance gains. MediaTek has unveiled its latest flagship chipset in the Dimensity 9600 Pro, a chip built on TSMC’s latest 2nm process...."
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs",
+   "source": "Tom's Hardware",
+   "category": "gadgets",
+   "published_iso": "2026-09-15T09:24:32Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR-1280-80.jpg",
+   "excerpt": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs. Portable Computer arrives on Windows RTX PCs"
   },
   {
    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
    "source": "Ars Technica",
    "category": "gadgets",
-   "published_iso": "2026-09-14T19:38:46Z",
+   "published_iso": "2026-09-14T19:38:46+00:00",
    "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-2560x1440.jpg",
-   "excerpt": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-   "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots"
+   "excerpt": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots. Wang Xingxing micromanaged Unitree to success—will his leadership style scale?"
   },
   {
-   "url": "https://9to5google.com/2026/09/08/hands-on-with-honor-robot-phone/",
-   "source": "9to5Google",
+   "url": "https://www.digitaltrends.com/computing/i-didnt-know-i-needed-an-ai-voice-recorder-until-i-tried-the-comulytic-note-pro/",
+   "source": "Digital Trends",
    "category": "gadgets",
-   "published_iso": "2026-09-08T21:15:00Z",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Honor-Robot-Phone-7.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "Decked out with a gimbal and shockingly good camera, the Robot Phone is one of the weirdest devices to come...",
-   "title": "Hands-on: Honor's Robot Phone is probably the coolest phone you still can't buy"
-  },
-  {
-   "url": "https://9to5google.com/2026/09/10/comus-action-pro-is-a-great-meeting-recorder-that-struggles-to-justify-its-ai-premium/",
-   "source": "9to5Google",
-   "category": "gadgets",
-   "published_iso": "2026-09-10T17:22:21Z",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/comulytic-note-pro-2.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "As my house becomes increasingly strewn with the detritus of parenting, I’ve made the inverse effort to eliminate excess, physical...",
-   "title": "Comu's Action Pro is a great meeting recorder that struggles to justify its AI premium"
+   "published_iso": "2026-09-14T07:06:32-07:00",
+   "og_image": "https://www.digitaltrends.com/tachyon/2026/09/DT-2026-09-14T192208.214.jpg?resize=1200%2C630",
+   "excerpt": "I didn’t know I needed an AI voice recorder until I tried the Comulytic Note Pro. The Comulytic Note Pro makes note-taking easier with AI-powered transcripts and summaries, offering plenty of value despite a few hardware and software limitations."
   },
   {
    "url": "https://9to5google.com/2026/09/10/samsungs-first-android-xr-glasses-with-a-color-display-may-launch-in-late-2027/",
    "source": "9to5Google",
    "category": "gadgets",
-   "published_iso": "2026-09-10T15:05:00Z",
+   "published_iso": "2026-09-10T15:05:00+00:00",
    "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/rick-osterloh-android-xr.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "While we’re still waiting on Samsung’s first Android XR glasses to arrive, an update on the first pair with a...",
-   "title": "Samsung's first Android XR glasses with a color display may launch in late 2027"
+   "excerpt": "Samsung's first Android XR glasses with a color display may launch in late 2027. While we’re still waiting on Samsung’s first Android XR glasses to arrive, an update on the first pair with a..."
   },
   {
-   "url": "https://www.xda-developers.com/rog-ally-x20-amds-ryzen-ai-z2-extreme-handheld-silicon-hitting-wall/",
-   "source": "XDA",
+   "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+   "source": "ZDNET",
    "category": "gadgets",
-   "published_iso": "2026-09-13T18:30:16Z",
-   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/asus-rog-ally-x20-8.jpeg?w=1600&h=900&fit=crop",
-   "excerpt": "Handheld gaming silicon has hit a wall.",
-   "title": "I tested the ROG Ally X20, and it's gorgeous hardware wasted on a chip that can't deliver"
-  },
-  {
-   "url": "https://www.xda-developers.com/found-speech-recognition-model-vs-code-never-sends-word-cloud/",
-   "source": "XDA",
-   "category": "gadgets",
-   "published_iso": "2026-09-13T21:30:15Z",
-   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/1789205328521.jpg?w=1600&h=900&fit=crop",
-   "excerpt": "And it also does a very good job at transcribing what I say.",
-   "title": "I found a speech recognition model hiding inside VS Code, and it never sends a word to the cloud"
-  },
-  {
-   "url": "https://www.cnet.com/tech/services-and-software/siri-ai-will-have-deep-integration-with-chatgpt-and-claude-models-leaked-build-shows/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-09-14T21:35:52Z",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2156791504.jpg",
-   "excerpt": "Siri AI will cooperate with ChatGPT or Claude on certain tasks. The third-party models can even replace Siri altogether.",
-   "title": "Siri AI Will Have Deep Integration With ChatGPT and Claude Models, Leaked Build Shows - CNET"
+   "published_iso": "2026-09-10T14:00:46-04:00",
+   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/figure-top-how-i-use-siri-mode-in-the-ios-27-camera-app-to-ask-questions-about-anything-i-see_06c81e.jpg",
+   "excerpt": "Eager to try iOS 27's cool AI features and upgraded Siri? Get ready for usage limits - ZDNET. A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled."
   }
  ]
 }

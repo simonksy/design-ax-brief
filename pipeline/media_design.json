@@ -1,33 +1,33 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-17",
  "section": "design",
  "media": [
   {
-   "id": "design-double-diamond",
+   "id": "design-figma-weave",
    "type": "image",
-   "src": "pipeline/media/design-double-diamond.png"
+   "src": "pipeline/media/design-figma-weave.jpg"
   },
   {
-   "id": "design-gemini-drive",
+   "id": "design-affinity-33",
    "type": "image",
-   "src": "pipeline/media/design-gemini-drive.jpg"
+   "src": "pipeline/media/design-affinity-33.jpg"
   },
   {
-   "id": "design-overgrown",
+   "id": "design-claude-docs-slides",
    "type": "video",
-   "src": "pipeline/media/design-overgrown.mp4",
-   "poster": "pipeline/media/design-overgrown.jpg"
+   "src": "pipeline/media/design-claude-docs-slides.mp4",
+   "poster": "pipeline/media/design-claude-docs-slides.jpg"
   },
   {
-   "id": "design-colab-review",
+   "id": "design-simscale-onshape",
    "type": "image",
-   "src": "pipeline/media/design-colab-review.jpg"
+   "src": "pipeline/media/design-simscale-onshape.jpg"
   },
   {
-   "id": "design-elevenlabs-mcp",
+   "id": "design-arcturus-vision-camera",
    "type": "video",
-   "src": "pipeline/media/design-elevenlabs-mcp.mp4",
-   "poster": "pipeline/media/design-elevenlabs-mcp.jpg"
+   "src": "pipeline/media/design-arcturus-vision-camera.mp4",
+   "poster": "pipeline/media/design-arcturus-vision-camera.jpg"
   }
  ]
 }

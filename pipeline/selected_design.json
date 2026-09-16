@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "section": "design",
   "picks": [
     {
-      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed",
-      "source": "UX Collective",
+      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
+      "source": "Figma Blog",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Generative AI collapsed the cost of building, so the double diamond's risk model breaks — the proposed replacement is a one-page brief plus a much wider generation step, a process change a team can adopt this week.",
-      "published_iso": "2026-09-14T18:52:50+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*euuE3WVu4wLT_et8GeAE-g.png",
-      "excerpt": "The double diamond and design thinking both priced building as the risky step — and generative AI collapsed that price. The author argues what survives is a one-page brief plus a much wider generation step."
+      "rationale": "Weave community publishing going live changes what a Figma user can reach for tomorrow, with five concrete built tools to try immediately.",
+      "published_iso": "2026-09-16T12:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/ed0760a012cbea462ccae63a43a99cbb33d515e0-1200x630.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Community publishing is now live for Figma's Weave tools. Figma highlights five standout community-built tools, from turning a moodboard into a realistic room mockup to previewing a nail set."
     },
     {
-      "url": "https://www.engadget.com/2253054/use-gemini-help-you-organize-files-google-drive/",
-      "source": "Engadget",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Gemini now reorganizes files inside Google Drive, pushing agentic cleanup straight into the shared folders where design teams park assets and handoffs.",
-      "published_iso": "2026-09-14T18:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/you-can-use-gemini-to-help-you-organize-your-files-on-google-drive/l-intro-1788867662.jpg",
-      "excerpt": "Gemini can now organize files inside Google Drive, extending agentic cleanup into the shared folders where design teams keep assets and handoffs."
-    },
-    {
-      "url": "https://80.lv/articles/blender-s-overgrown-teaser-is-a-proof-of-concept-for-open-filmmaking/",
-      "source": "80 Level",
+      "url": "https://www.cgchannel.com/2026/09/canva-releases-affinity-3-3/",
+      "source": "CG Channel",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Blender Studio's OVERGROWN teaser is a working proof that a fully open-source pipeline reaches feature-grade quality — a real argument for teams weighing tool spend.",
-      "published_iso": "2026-09-14T19:27:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50199/images/6aa84a09782b1/contain_1200x630.jpg",
-      "excerpt": "Blender Studio revealed the teaser for OVERGROWN, its most ambitious open feature film yet — a proof of concept that fully open-source pipelines can hit feature-grade visual quality."
+      "rationale": "A major point release of a free image/vector app that most designers already have installed — new AI models plus a scripting system is a workflow change, not a rehash.",
+      "published_iso": "2026-09-15T12:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260915_Affinity33_f-960x480.jpg",
+      "excerpt": "Canva ships Affinity 3.3 as part of the Canva ProSuite: a major update to the free image editing and vector design app adding scores of features, new AI models, and a new scripting system."
     },
     {
-      "url": "https://develop3d.com/cad/qa-taylor-young-colab-software/",
-      "source": "DEVELOP3D",
+      "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides",
+      "source": "VentureBeat",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Editable, collaborative docs and slides inside the chat turns one-shot AI output into a working artifact — the deck-and-spec half of a designer's week.",
+      "published_iso": "2026-09-16T16:32:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/01D6v0iRacJmeF4eOsrC7d/4f4227b761173b513f70220a7749d029/ChatGPT_Image_Sep_16__2026__12_33_54_PM.png?w=1000&q=100",
+      "excerpt": "Anthropic folds Cowork into the main Claude chat and introduces Claude Docs and Claude Slides — editable, collaborative artifacts that live inside the conversation instead of being one-shot outputs."
+    },
+    {
+      "url": "https://www.engineering.com/simscale-launches-engineering-ai-agent-within-onshape/",
+      "source": "Engineering.com",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "CoLab's Taylor Young lays out design review rebuilt around automated checks instead of meetings and marked-up screenshots — a concrete change to how CAD teams run critique.",
-      "published_iso": "2026-09-14T10:09:39+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/CoLab_AI-Cad-Review-img.jpg",
-      "excerpt": "CoLab Software's Taylor Young on how design review is being restructured around automated checks and AI assistance rather than meetings and marked-up screenshots."
+      "rationale": "Simulation setup by natural-language prompt inside Onshape pulls analysis back into the industrial designer's own CAD session instead of a specialist's queue.",
+      "published_iso": "2026-09-16T15:05:47Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/SimScale-launches-Engineering-AI-Agent-within-Onshape.webp",
+      "excerpt": "SimScale's Engineering AI Agent lands inside Onshape, handling CAD prep, simulation setup, physics analysis and results review through natural-language prompts."
     },
     {
-      "url": "https://www.youtube.com/watch?v=SdumUqJ3EN0",
-      "source": "DesignCourse",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "rationale": "Step-by-step wiring of the ElevenLabs MCP server into Claude, turning voice and audio generation into a native step inside a designer's build workflow — copyable tomorrow.",
-      "published_iso": "2026-09-14T11:08:49-07:00",
-      "og_image": "https://i.ytimg.com/vi/SdumUqJ3EN0/maxresdefault.jpg",
-      "excerpt": "DesignCourse walks through wiring the ElevenLabs MCP server into Claude so voice and audio generation become a native step inside a designer's build workflow."
+      "url": "https://www.uploadvr.com/steam-frame-arcturus-vision-camera-color-passthrough/",
+      "source": "UploadVR",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "A $149 add-on that gives Steam Frame color passthrough and tracked 3D HDR capture makes spatial prototyping and reference capture cheap enough to actually try.",
+      "published_iso": "2026-09-15T06:59:00Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Arcturus-Vision-Camera-on-Steam-Frame-on-a-desk.png",
+      "excerpt": "The $149 Arcturus Vision Camera adds 6MP-per-eye color passthrough to Steam Frame and captures tracked 3D HDR video, opening a cheap capture path for spatial creators."
     }
   ]
 }

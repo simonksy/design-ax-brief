@@ -1,39 +1,71 @@
 {
- "date": "2026-09-15",
- "section": "books",
+ "date": "2026-09-17",
  "window_hours": 336,
+ "section": "books",
  "items": [
+  {
+   "url": "https://www.thebookseller.com/news/researchers-warn-use-of-ai-in-writing-could-homogenise-human-writing-and-thought",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-09-16T09:52:00Z",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+   "excerpt": "The growing use of AI large language models could make human writing, perspectives and reasoning more alike, according to a research paper that raises questions about creative diversity and authorial voice."
+  },
+  {
+   "url": "https://www.thebookseller.com/comment/letting-chatgpt-write-your-emails-has-a-bigger-impact-than-you-think",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-09-14T07:45:00Z",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd36.jpg",
+   "excerpt": "Author Daisy Buchanan argues that handing routine writing tasks such as emails to ChatGPT quietly erodes the everyday craft skills writers depend on."
+  },
+  {
+   "url": "https://www.thebookseller.com/comment/ai-licensing-debate-market",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-09-11T07:45:00Z",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd36.jpg",
+   "excerpt": "It's time for ideas to become solutions in the fight to protect authors' rights, writes Tom West, CEO of Publishers' Licensing Services, as AI licensing shifts from debate to an actual market."
+  },
+  {
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101194-for-james-muldoon-chatbots-offer-a-pale-imitation-of-humanity.html",
+   "source": "Publishers Weekly",
+   "category": "books",
+   "published_iso": "2026-09-15T12:00:00Z",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131295-1.PNG",
+   "excerpt": "In Love Machine (Faber & Faber), James Muldoon looks at real people's intimate relationships with AI chatbots, and how those bonds could change relationships among humans."
+  },
   {
    "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
    "source": "Publishers Weekly",
    "category": "books",
-   "published_iso": "2026-09-11T00:00:00-04:00",
+   "published_iso": "2026-09-11T12:00:00Z",
    "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131365-1.PNG",
-   "excerpt": "Tech developers think automation will fundamentally reshape the work of literary translators, but not everyone is on board. PW talks to translators and AI vendors about what machine-assisted literary translation actually produces."
+   "excerpt": "Tech developers think automation will fundamentally reshape the work of literary translators, but not everyone in publishing is on board."
   },
   {
-   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-09-09T00:00:00-04:00",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131301-1.JPG",
-   "excerpt": "When claim notices in the $1.5 billion Anthropic agreement went out, many authors were surprised they would not receive what they believed was their share. The Authors Guild walks through how the payouts are split between writers and publishers."
-  },
-  {
-   "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
-   "source": "The Bookseller",
-   "category": "books",
-   "published_iso": "2026-09-01T11:00:00Z",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg",
-   "excerpt": "Google launched Expert Intelligence, letting readers use purchased e-books and other vetted sources directly inside its AI products, with more than 100,000 publisher titles at launch — a new licensed route from book to AI answer."
-  },
-  {
-   "url": "https://janefriedman.com/us-government-supports-ai-firms-in-lawsuit-brought-by-publishers-and-authors/",
+   "url": "https://janefriedman.com/get-ready-for-ai-agents-to-come-knocking-on-your-door/",
    "source": "Jane Friedman",
    "category": "books",
-   "published_iso": "2026-09-10T16:00:00+00:00",
+   "published_iso": "2026-09-16T16:00:00+00:00",
    "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-   "excerpt": "The US government filed in support of AI companies in the copyright suit brought by publishers and authors, arguing AI development should not be restrained by licensing requirements — a direct hit to authors' leverage over training data."
+   "excerpt": "A new app called iLands allows the creation of autonomous AI agents that not only write articles but pitch their work to media outlets."
+  },
+  {
+   "url": "https://janefriedman.com/the-difference-between-geo-and-seo-for-authors-publishers/",
+   "source": "Jane Friedman",
+   "category": "books",
+   "published_iso": "2026-09-16T16:00:00+00:00",
+   "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+   "excerpt": "GEO is generative engine optimization: trying to influence whether your name or book appears in AI overviews or in chatbot conversations, and it works differently from SEO."
+  },
+  {
+   "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/",
+   "source": "Jane Friedman",
+   "category": "books",
+   "published_iso": "2026-09-15T09:00:00+00:00",
+   "og_image": "https://janefriedman.com/wp-content/uploads/2026/09/friedman_conferences_ai-social.png",
+   "excerpt": "Conference attendees have many questions about AI, and organizers would better serve their audience by engaging with intent and clarity instead of avoiding the topic."
   },
   {
    "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
@@ -41,15 +73,7 @@
    "category": "books",
    "published_iso": "2026-09-10T09:30:11+00:00",
    "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2177484002.jpg",
-   "excerpt": "Publishing leaders respond to the DOJ's pro-fair-use filing in NYT v. OpenAI, debating whether a real content-licensing market for AI training can survive if training is ruled fair use."
-  },
-  {
-   "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "published_iso": "2026-09-09T09:30:48+00:00",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Steve-and-Ben.jpg",
-   "excerpt": "A guest post argues the journal portfolio, platform and membership bundle no longer holds as AI changes how research is discovered and consumed, and lays out the trilemma publishers face in rebuilding their products."
+   "excerpt": "The US DOJ filed a Statement of Interest in the copyright litigation between The New York Times and OpenAI/Microsoft, largely siding with the AI companies on LLM training as fair use. Publishing experts respond."
   },
   {
    "url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/",
@@ -57,47 +81,47 @@
    "category": "books",
    "published_iso": "2026-09-14T18:00:09+00:00",
    "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/baldwin-exhibit.jpg",
-   "excerpt": "A new interactive exhibition on James Baldwin's writing features an AI-programmed typewriter that surfaces passages from his books, essays and letters — a test case for AI as literary archive interface rather than text generator."
+   "excerpt": "A new interactive exhibition about the writing of James Baldwin features an AI-programmed typewriter that directs users to writing drawn from Baldwin's books, essays, and letters."
   },
   {
-   "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-   "source": "WIRED",
+   "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/",
+   "source": "Literary Hub",
    "category": "books",
-   "published_iso": "2026-09-14T09:00:00Z",
-   "og_image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/191:100/w_1280,c_limit/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
-   "excerpt": "While publishing frets over AI-written books, readers are prompting chatbots to generate custom fiction built to their own taste — a demand-side shift in storytelling that routes around the industry entirely."
+   "published_iso": "2026-09-16T09:10:09+00:00",
+   "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/coding.jpg",
+   "excerpt": "Twelve years after Geek Sublime: The Beauty of Code, The Code of Beauty, Vikram Chandra revisits his ode to the craft of human coding in an era of vibe coding and generative AI."
   },
   {
-   "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection",
-   "source": "WIRED",
+   "url": "https://goodereader.com/blog/technology/flowtica-verso-is-an-e-ink-ai-screen-that-attaches-to-your-phone",
+   "source": "Good e-Reader",
    "category": "books",
-   "published_iso": "2026-09-02T10:00:00Z",
-   "og_image": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
-   "excerpt": "Pangram has become the default AI-detection tool used by publishers, magazines and platforms to decide whose writing is machine-made. WIRED examines how reliable it is and what a false positive costs a writer."
+   "published_iso": "2026-09-10T16:48:59+00:00",
+   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10124832/verso-hero-products.webp",
+   "excerpt": "The Flowtica Verso's always-on e-paper display sets it apart from standard screenless AI voice recorders, pairing capture and transcription with an E Ink reading surface."
   },
   {
-   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-   "source": "TechCrunch",
+   "url": "https://www.researchinformation.info/news/elsevier-expands-leapspace-content-and-adds-independent-ai-advisory-board/",
+   "source": "Research Information",
    "category": "books",
-   "published_iso": "2026-09-10T17:45:00+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
-   "excerpt": "Pocket FM now produces 93% of its audio-series content with AI, cutting production costs roughly 80x — a working industrial model for AI-written, AI-narrated serialized fiction."
+   "published_iso": "2026-09-16T07:00:41+00:00",
+   "og_image": "https://www.researchinformation.info/wp-content/uploads/2026/05/shutterstock_2776336823.jpeg",
+   "excerpt": "Elsevier says its AI research platform LeapSpace now incorporates content from more than 1,500 scholarly publishers and societies, and has added an independent AI advisory board."
   },
   {
-   "url": "https://www.sixthtone.com/news/1018966",
-   "source": "Sixth Tone",
+   "url": "https://www.researchinformation.info/news/iop-publishing-partners-with-cashmere-to-license-research-content-for-ai-use/",
+   "source": "Research Information",
    "category": "books",
-   "published_iso": "2026-09-07T06:27:22Z",
-   "og_image": "https://image5.sixthtone.com/image/5/99/882.jpg",
-   "excerpt": "A literature undergrad's AI pipeline produced a near-complete Mandarin version of Haruki Murakami's new novel in four hours for about $2, splitting China's literary world over what's left for human translators and rights holders."
+   "published_iso": "2026-09-11T09:37:14+00:00",
+   "og_image": "https://www.researchinformation.info/wp-content/uploads/2026/04/shutterstock_2591317391.jpeg",
+   "excerpt": "New infrastructure will make IOP content \"licensed for inference, protected from training use, and fully tracked\" when AI systems draw on it."
   },
   {
-   "url": "https://www.infodocket.com/2026/09/13/report-as-digital-checkouts-soar-los-angeles-libraries-pivot-to-ai-education/",
-   "source": "InfoDocket",
+   "url": "https://www.researchinformation.info/news/china-leads-library-ai-adoption-says-clarivate-report/",
+   "source": "Research Information",
    "category": "books",
-   "published_iso": "2026-09-13T17:33:35+00:00",
-   "og_image": "",
-   "excerpt": "As digital checkouts soar, Los Angeles public libraries are retooling around AI education and paywall-bridging services — a shift in how readers are taught to find and evaluate sources."
+   "published_iso": "2026-09-09T07:24:58+00:00",
+   "og_image": "https://www.researchinformation.info/wp-content/uploads/2025/07/DS_China.jpg",
+   "excerpt": "Clarivate's \"Pulse of the Library\" report found 28% of respondents in mainland China reported moderate to active AI implementation, ahead of other regions."
   }
  ]
 }
