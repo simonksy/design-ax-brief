@@ -1,31 +1,31 @@
 {
- "date": "2026-09-17",
- "section": "books",
- "media": [
-  {
-   "id": "books-llm-homogenises-writing",
-   "type": "image",
-   "src": "pipeline/media/books-llm-homogenises-writing.jpg"
-  },
-  {
-   "id": "books-geo-vs-seo",
-   "type": "svg",
-   "src": "pipeline/media/books-geo-vs-seo.svg"
-  },
-  {
-   "id": "books-ai-agents-pitching",
-   "type": "svg",
-   "src": "pipeline/media/books-ai-agents-pitching.svg"
-  },
-  {
-   "id": "books-baldwin-typewriter",
-   "type": "image",
-   "src": "pipeline/media/books-baldwin-typewriter.jpg"
-  },
-  {
-   "id": "books-chatgpt-emails-craft",
-   "type": "image",
-   "src": "pipeline/media/books-chatgpt-emails-craft.jpg"
-  }
- ]
+  "date": "2026-09-18",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-anthropic-claim",
+      "type": "image",
+      "src": "pipeline/media/books-anthropic-claim.png"
+    },
+    {
+      "id": "books-ms-scraping-filings",
+      "type": "image",
+      "src": "pipeline/media/books-ms-scraping-filings.jpg"
+    },
+    {
+      "id": "books-literary-translation-ai",
+      "type": "image",
+      "src": "pipeline/media/books-literary-translation-ai.png"
+    },
+    {
+      "id": "books-memoir-voice",
+      "type": "image",
+      "src": "pipeline/media/books-memoir-voice.png"
+    },
+    {
+      "id": "books-scholarly-unbundling",
+      "type": "image",
+      "src": "pipeline/media/books-scholarly-unbundling.jpg"
+    }
+  ]
 }

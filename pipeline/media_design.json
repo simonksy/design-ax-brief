@@ -1,33 +1,31 @@
 {
- "date": "2026-09-17",
- "section": "design",
- "media": [
-  {
-   "id": "design-figma-weave",
-   "type": "image",
-   "src": "pipeline/media/design-figma-weave.jpg"
-  },
-  {
-   "id": "design-affinity-33",
-   "type": "image",
-   "src": "pipeline/media/design-affinity-33.jpg"
-  },
-  {
-   "id": "design-claude-docs-slides",
-   "type": "video",
-   "src": "pipeline/media/design-claude-docs-slides.mp4",
-   "poster": "pipeline/media/design-claude-docs-slides.jpg"
-  },
-  {
-   "id": "design-simscale-onshape",
-   "type": "image",
-   "src": "pipeline/media/design-simscale-onshape.jpg"
-  },
-  {
-   "id": "design-arcturus-vision-camera",
-   "type": "video",
-   "src": "pipeline/media/design-arcturus-vision-camera.mp4",
-   "poster": "pipeline/media/design-arcturus-vision-camera.jpg"
-  }
- ]
+  "date": "2026-09-18",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-backflip-2d-cad",
+      "type": "image",
+      "src": "pipeline/media/design-backflip-2d-cad.jpg"
+    },
+    {
+      "id": "design-claude-code-projects",
+      "type": "image",
+      "src": "pipeline/media/design-claude-code-projects.jpg"
+    },
+    {
+      "id": "design-de-slop-codebase",
+      "type": "image",
+      "src": "pipeline/media/design-de-slop-codebase.jpg"
+    },
+    {
+      "id": "design-nvidia-agent-3d-scene",
+      "type": "image",
+      "src": "pipeline/media/design-nvidia-agent-3d-scene.jpg"
+    },
+    {
+      "id": "design-canva-ai-brakes",
+      "type": "image",
+      "src": "pipeline/media/design-canva-ai-brakes.jpg"
+    }
+  ]
 }

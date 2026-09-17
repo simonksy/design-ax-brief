@@ -1,11 +1,32 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "games",
   "media": [
-    {"id": "games-reface-blender", "type": "video", "src": "pipeline/media/games-reface-blender.mp4", "poster": "pipeline/media/games-reface-blender.jpg"},
-    {"id": "games-diablo-v-procedural", "type": "video", "src": "pipeline/media/games-diablo-v-procedural.mp4", "poster": "pipeline/media/games-diablo-v-procedural.jpg"},
-    {"id": "games-vr-toss-print", "type": "image", "src": "pipeline/media/games-vr-toss-print.jpg"},
-    {"id": "games-dlss5-uncanny", "type": "image", "src": "pipeline/media/games-dlss5-uncanny.jpg"},
-    {"id": "games-ps5-linux-quit", "type": "image", "src": "pipeline/media/games-ps5-linux-quit.jpg"}
+    {
+      "id": "games-sigmapbr",
+      "type": "image",
+      "src": "pipeline/media/games-sigmapbr.jpg"
+    },
+    {
+      "id": "games-unity-codex",
+      "type": "video",
+      "src": "pipeline/media/games-unity-codex.mp4",
+      "poster": "pipeline/media/games-unity-codex.jpg"
+    },
+    {
+      "id": "games-ramen-aura",
+      "type": "image",
+      "src": "pipeline/media/games-ramen-aura.jpg"
+    },
+    {
+      "id": "games-cesa-genai",
+      "type": "image",
+      "src": "pipeline/media/games-cesa-genai.jpg"
+    },
+    {
+      "id": "games-amd-gi",
+      "type": "image",
+      "src": "pipeline/media/games-amd-gi.jpg"
+    }
   ]
 }

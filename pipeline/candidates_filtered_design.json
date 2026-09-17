@@ -1,31 +1,70 @@
 {
-  "date": "2026-09-17",
-  "window_hours": 72,
+  "date": "2026-09-18",
   "section": "design",
+  "window_hours": 72,
   "items": [
     {
-      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-09-16T12:00:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/ed0760a012cbea462ccae63a43a99cbb33d515e0-1200x630.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Community publishing is now live for Figma's Weave tools. Figma highlights five standout community-built tools, from turning a moodboard into a realistic room mockup to previewing a nail set."
+      "url": "https://develop3d.com/cad/backflip-converse-2d-engineering-drawings-directly-into-cad/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-09-17T14:47:35+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Backflip-2d-drawings-fusion.jpg",
+      "excerpt": "Backflip has launched 2D Drawing to CAD, an AI tool that turns 2D drawings into parametric 3D models with native, editable feature trees",
+      "headline": "Backflip now converts 2D engineering drawings directly into CAD"
     },
     {
-      "url": "https://www.figma.com/blog/source-material-zach-lieberman/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-09-15T20:52:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/7ff05a82fd82f4c832e31db1c400cdff6d984ec1-1920x1080.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Creative coder and educator Zach Lieberman explains the throughline between drawing and computation, and why breaking tools is part of his practice."
+      "url": "https://develop3d.com/cad/autodesk-latest-ai-for-fusion-inventor/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-09-15T17:28:29+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Autodesk-fusion-AutoAssemble-Split.jpg",
+      "excerpt": "Autodesk has given an update on its AI abilities within its Fusion and Inventor CAD software as it looks to automate more processes.",
+      "headline": "Autodesk 'unlocks design capacity' with latest AI for Fusion & Inventor"
     },
     {
-      "url": "https://www.creativebloq.com/3d/autodesks-au26-ai-pitch-let-ai-help-you-make-more-not-make-it-for-you",
+      "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-09-17T10:02:11+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
+      "excerpt": "Artec Neo promises to revolutionise quality inspection and reverse engineering with high-resolution and full-colour 3D capture",
+      "headline": "Artec Neo the first 'tolerance-driven' 3D scanner launched"
+    },
+    {
+      "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-09-17T13:08:28+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Vectorworks-2027-adds-tools-for-connected-design-workflows-1024x576.png",
+      "excerpt": "The Exchange hub supports sharing resources while Revit Families and Dynamic Blocks can enter projects as dynamic objects.",
+      "headline": "Vectorworks 2027 adds tools for connected design workflows - Engineering.com"
+    },
+    {
+      "url": "https://www.engineering.com/comsol-multiphysics-v2027-released-for-systems-modeling/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-09-17T13:28:34+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Fig-2-COMSOL-Multiphysics-v2027-released-for-systems-modeling-scaled.png",
+      "excerpt": "The update adds an MCP Server, Electric Motor Module and Application Builder support for macOS and Linux.",
+      "headline": "COMSOL Multiphysics v2027 released for systems modeling - Engineering.com"
+    },
+    {
+      "url": "https://www.creativebloq.com/3d/autodesk-says-ai-should-give-artists-time-to-experiment-not-make-them-work-twice-as-fast",
       "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-09-16T01:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-1600-80.jpg",
-      "excerpt": "Autodesk's AU 2026 message to creatives is that AI should help you make more rather than make the work for you — but Creative Bloq probes where that line actually sits for artists."
+      "published_iso": "2026-09-17T18:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-1600-80.jpg",
+      "excerpt": "What happens to the time AI saves an animator or artist?",
+      "headline": "Autodesk"
+    },
+    {
+      "url": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-09-17T06:44:33Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg",
+      "excerpt": "Canva co-founder Cameron Adams on why brands should look beyond the biggest AI models.",
+      "headline": "Why Canva hit the brakes on its new AI features"
     },
     {
       "url": "https://www.creativebloq.com/ai/ai-might-kill-humanity-in-10-years-but-autodesks-ceo-sees-a-more-immediate-threat-to-artists",
@@ -33,191 +72,179 @@
       "category": "figma",
       "published_iso": "2026-09-15T23:46:16Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-1600-80.jpg",
-      "excerpt": "Autodesk CEO Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX pipelines."
+      "excerpt": "Andrew Anagnost says AI needs guardrails, but the more immediate disruption for creatives is already happening in animation and VFX.",
+      "headline": "AI might kill humanity in 10 years, but Autodesk’s CEO sees a more immediate threat to artists"
     },
     {
-      "url": "https://blog.logrocket.com/ux-design/ux-design-best-practices-lessons/",
-      "source": "LogRocket Blog",
-      "category": "figma",
-      "published_iso": "2026-09-16T15:30:59Z",
-      "og_image": "https://blog.logrocket.com/wp-content/uploads/2026/09/10-uncomfortable-UX-lessons-from-real-design-mistakes.jpg",
-      "excerpt": "Ten uncomfortable UX lessons drawn from real product mistakes — where best-practice advice that sounds right in theory falls apart once shipped."
-    },
-    {
-      "url": "https://newsletter.uxdesign.cc/p/five-eras-of-ux-design-and-the-lessons",
+      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
       "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-09-14T11:04:24Z",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!Ym8A!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cb69e05-b6dc-405f-b338-1fa9680653ab_1350x720.png",
-      "excerpt": "UX Collective maps five eras of UX design and asks which craft lessons designers should carry into the AI era, and which ones to let go."
+      "published_iso": "2026-09-17T21:33:43Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*li8g5MZb9pcndU9o26lqQw.png",
+      "excerpt": "What 100 articles taught me about thinking, friction, and the Shoggoth on the horizon One hundred design articles, each a small act of thinking: a growing archive of ideas, experiments, doubts, and discoveries, made in the shadow of AI. (image source: Yeo) I can’t believe it. I have finally written ",
+      "headline": "Rethinking writing in the world of design and AI"
     },
     {
-      "url": "https://www.cgchannel.com/2026/09/canva-releases-affinity-3-3/",
+      "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-09-16T07:27:00Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OpRlmJqoKEqo5ErA0JTYdg.png",
+      "excerpt": "A house built for 38 years without a plan, and the apps we are shipping the same way. Each new feature works alone and connects to nothing. Six architectural moves that give the rooms you have already built a blueprint to obey. Sarah Winchester spent 38 years adding rooms onto rooms with no master p",
+      "headline": "Don’t let AI build a Winchester Mystery House"
+    },
+    {
+      "url": "https://www.builder.io/blog/the-real-reason-coding-agents-get-more-done",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-09-17T18:00:00.000Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/e2a26cc6e01c48c79295a09e469e5b46?width=1200",
+      "excerpt": "Why coding agents outperform SaaS AI: they have context, actions, shared state, feedback, and iteration to complete real work, not just answer prompts.",
+      "headline": "The Real Reason Coding Agents Get More Done"
+    },
+    {
+      "url": "https://www.builder.io/blog/de-slop-ai-generated-codebase",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-09-16T18:00:00.000Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/f910f584513b4564a0cd00c975630532?width=1200",
+      "excerpt": "Learn how to de-slop AI-generated codebases with lint rules, architectural fixes, and behavior-driven checks that improve real software quality overall.",
+      "headline": "How to De-Slop an AI-Generated Codebase"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-09-17T18:58:05+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "Claude Code can run teams of AI agents in one spot now.",
+      "headline": "Claude Code relaunches Projects to manage multiple AI agents in the cloud"
+    },
+    {
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-09-17T14:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-17-at-9.24.23-AM.png?quality=90&strip=all&crop=0%2C7.6434475243841%2C100%2C84.713104951232&w=1200",
+      "excerpt": "Nova is a development platform, a storefront, and a plug-in for your DAW.",
+      "headline": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "source": "NVIDIA Developer Blog",
+      "category": "render",
+      "published_iso": "2026-09-16T23:20:33+00:00",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx.webp",
+      "excerpt": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in OpenUSD, add physics properties…",
+      "headline": "How to Use AI Agents to Prepare 3D Scenes for Simulation | NVIDIA Technical Blog"
+    },
+    {
+      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-09-17T15:28:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50253/images/6aac07302ae13/contain_1200x630.jpg",
+      "excerpt": "sigmaPBR turns captures into relightable materials.",
+      "headline": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans"
+    },
+    {
+      "url": "https://80.lv/articles/have-a-look-at-wip-ivy-generator-for-the-last-of-us-like-damage-control-tool/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-09-16T13:21:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50237/images/6aaa97f2b49e6/contain_1200x630.jpg",
+      "excerpt": "Jesse Miettinen shared a glimpse of a new feature for his Damage Control toolset.",
+      "headline": "WIP Ivy Generator for The Last of Us-Like Damage Control Tool"
+    },
+    {
+      "url": "https://80.lv/articles/dissectible-anatomy-lets-users-cut-tear-virtual-bodies-in-real-time/",
+      "source": "80 Level",
+      "category": "render",
+      "published_iso": "2026-09-17T00:18:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50241/images/6aab31e61ab93/contain_1200x630.png",
+      "excerpt": "Purdue University’s Tim McGraw explains how position-based dynamics, signed distance fields, and volumetric splats transform cryosection imagery into deformable models that users can cut, tear, and explore.",
+      "headline": "Dissectible Anatomy Lets Users Cut & Tear Virtual Bodies in Real Time"
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/09/check-out-free-maya-animation-productivity-toolset-keyflow/",
       "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-09-15T12:00:00Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260915_Affinity33_f-960x480.jpg",
-      "excerpt": "Canva ships Affinity 3.3 as part of the Canva ProSuite: a major update to the free image editing and vector design app adding scores of features, new AI models, and a new scripting system."
+      "published_iso": "2026-09-16T14:12:00Z",
+      "og_image": null,
+      "excerpt": "Games animator Sebastian Jaksan",
+      "headline": "Check out free Maya animation productivity toolset KeyFlow | CG Channel"
     },
     {
-      "url": "https://80.lv/articles/texlab-packing-pbr-maps-inside-ue5-without-lying-about-the-preview",
-      "source": "80 Level",
+      "url": "https://www.cgchannel.com/2026/09/see-alchemy-24s-vfx-breakdown-for-michael-jackson-biopic-michael/",
+      "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-09-16T14:08:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50208/images/6aaaab959539a/contain_1200x630.jpg",
-      "excerpt": "Pavel Kuzmenko details texLab, a native C++ Unreal Engine plugin for packing PBR maps, built on a JSON semantic database pipeline TDs can extend."
+      "published_iso": "2026-09-17T04:00:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260915_Alchemy25_Michael_breakdown_f.jpg",
+      "excerpt": "Check out the Montréal studio",
+      "headline": "See Alchemy 24’s VFX breakdown for Michael Jackson biopic Michael | CG Channel"
     },
     {
-      "url": "https://80.lv/articles/3d-artist-on-creating-a-geometry-based-plugin-that-makes-realistic-worn-edges",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-09-16T13:01:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50223/images/6aaa859c6e304/contain_1200x630.jpg",
-      "excerpt": "Cornelius Dämmrich walks through Egdy, a Cinema 4D and Blender plugin with six damage modules that generate lifelike cracks, chips and worn edges procedurally."
-    },
-    {
-      "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-09-16T16:30:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/anthropics-claude-can-now-create-editable-documents-for-you/l-intro-1789573560.jpg",
-      "excerpt": "Anthropic adds docs and slideshow creation plus Cowork capabilities directly inside Claude chat, rolling out to Pro and Max subscribers first."
-    },
-    {
-      "url": "https://www.engadget.com/2259654/how-iphone-18-pro-apple-reference-image-works/",
-      "source": "Engadget",
-      "category": "render",
-      "published_iso": "2026-09-16T12:00:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/heres-how-the-iphone-18-pros-apple-reference-image-tech-works/l-intro-1789497687.jpg",
-      "excerpt": "Apple Reference Image gives iPhone 18 Pro photos a tamper-proof provenance seal — a hardware-level answer to the question of what counts as an unedited image in the AI era."
-    },
-    {
-      "url": "https://develop3d.com/cad/autodesk-latest-ai-for-fusion-inventor/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-09-15T17:28:29Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Autodesk-fusion-AutoAssemble-Split.jpg",
-      "excerpt": "Autodesk updates the AI inside Fusion and Inventor — including AutoAssemble — pitching it as 'unlocking design capacity' by automating more of the modelling grind."
-    },
-    {
-      "url": "https://www.engineering.com/simscale-launches-engineering-ai-agent-within-onshape/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-09-16T15:05:47Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/SimScale-launches-Engineering-AI-Agent-within-Onshape.webp",
-      "excerpt": "SimScale's Engineering AI Agent lands inside Onshape, handling CAD prep, simulation setup, physics analysis and results review through natural-language prompts."
-    },
-    {
-      "url": "https://www.engineering.com/au-2026-autodesks-ai-assistant-is-evolving/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-09-15T20:49:36Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep15.png",
-      "excerpt": "A roundup of the AI highlights from Autodesk University 2026, centred on how the Autodesk Assistant is evolving across design and make workflows."
-    },
-    {
-      "url": "https://www.engineering.com/autodesk-previews-agentic-ai-for-connected-project-workflows/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-09-16T11:26:17Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2024/11/Autodesk_Black_Logo.jpg",
-      "excerpt": "Autodesk previews a next-generation Assistant that connects project data, specialized tools and third-party agents, with a standalone experience planned for 2027."
-    },
-    {
-      "url": "https://adsknews.autodesk.com/en/news/autodesk-assistant-ai-transparency-cards-2026/",
-      "source": "Autodesk News",
-      "category": "cad",
-      "published_iso": "2026-09-15T15:59:34Z",
-      "og_image": "https://adsknews.autodesk.com/app/uploads/2026/09/Slide1-3.jpg",
-      "excerpt": "Autodesk refreshes its AI Transparency Cards so designers can ask trust and data-use questions directly inside Autodesk Assistant instead of hunting through policy docs."
-    },
-    {
-      "url": "https://adsknews.autodesk.com/en/news/autodesk-flow-production-workflow-acceleration-2026/",
-      "source": "Autodesk News",
-      "category": "cad",
-      "published_iso": "2026-09-15T15:59:34Z",
-      "og_image": "https://adsknews.autodesk.com/app/uploads/2026/08/Flow_Hero.png",
-      "excerpt": "Autodesk lays out where AI can shorten the media and entertainment production loop — speeding iteration and feedback while keeping creative work editable and artist-controlled."
-    },
-    {
-      "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
       "source": "Road to VR",
       "category": "vr",
-      "published_iso": "2026-09-16T12:20:56Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg",
-      "excerpt": "Meta is reportedly unveiling its next-gen Project Phoenix mixed reality headset at Connect alongside a photorealistic 'hologram-like' calling experience built on its latest codec avatars."
+      "published_iso": "2026-09-16T23:40:00+00:00",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
+      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort […]",
+      "headline": "Snap Announces New \"anticipatory\" AI Service & Apps for First Consumer 'Specs' AR Glasses"
     },
     {
-      "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
-      "source": "Road to VR",
-      "category": "vr",
-      "published_iso": "2026-09-16T12:49:39Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/ray-ban-no-camera.jpg",
-      "excerpt": "Meta is reportedly preparing smart glasses that drop the camera entirely after public backlash — a product-design retreat driven by how the wearable reads socially."
+      "url": "https://dev.to/sumaiyya_mahinn/building-design-systems-that-ship-a-design-engineers-framework-4hoh",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-09-15T08:09:02Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6lvhv99bwzebtlkbihr.png",
+      "excerpt": "TL;DR: Most design systems fail because they're designed in isolation. Build design systems that ship...",
+      "headline": "Building Design Systems That Ship: A Design Engineer's Framework"
     },
     {
-      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-09-14T15:12:36Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/809813437_28210060141977570_4776135801454871213_n--1-.jpg",
-      "excerpt": "Craig Storm had never built a VR app. Eight days later his AI-assisted Quest game Punchable Face was live on Meta's store — a case study in how far vibe coding now carries a non-developer."
+      "url": "https://dev.to/diflowrin/browserskill-ai-agents-in-your-real-browser-3pla",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-09-17T21:20:53Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2n55ngpgutqqkpckt4o3.png",
+      "excerpt": "BrowserSkill lets AI agents like Cursor and Claude Code use your logged-in browser without hijacking your tabs. See how this open-source tool works.",
+      "headline": "BrowserSkill: AI Agents in Your Real Browser"
     },
     {
-      "url": "https://www.uploadvr.com/steam-frame-arcturus-vision-camera-color-passthrough/",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-09-15T06:59:00Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Arcturus-Vision-Camera-on-Steam-Frame-on-a-desk.png",
-      "excerpt": "The $149 Arcturus Vision Camera adds 6MP-per-eye color passthrough to Steam Frame and captures tracked 3D HDR video, opening a cheap capture path for spatial creators."
+      "url": "https://www.engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/",
+      "source": "Engadget",
+      "category": "render",
+      "published_iso": "2026-09-16T23:40:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/snap-specs-hands-on-standalone-ar-glasses-are-here/l-intro-1789586955.jpg",
+      "excerpt": "The glasses come with AR apps that actually feel useful, but is that enough to get people excited for the $2,195 device?",
+      "headline": "Snap Specs hands on: Standalone AR glasses are here - Engadget"
     },
     {
-      "url": "https://venturebeat.com/orchestration/whats-the-best-ai-model-for-graphic-design-video-ads-lip-sync-and-more-openarts-new-arena-offers-leaderboards-for-different-media-jobs",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-09-15T14:00:00Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/7DZtEPasn1ns9w9kDEypB5/5c04a2ef6c56bf99cb24b2b0ecef5981/ChatGPT_Image_Sep_14__2026__06_27_01_PM.png?w=1000&q=100",
-      "excerpt": "OpenArt's new Arena benchmarks image and video models by creative job — filmmaking, e-commerce, motion design, lip sync — using blind pairwise comparisons from working creatives."
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides",
-      "source": "VentureBeat",
-      "category": "workflow",
-      "published_iso": "2026-09-16T16:32:00Z",
-      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/01D6v0iRacJmeF4eOsrC7d/4f4227b761173b513f70220a7749d029/ChatGPT_Image_Sep_16__2026__12_33_54_PM.png?w=1000&q=100",
-      "excerpt": "Anthropic folds Cowork into the main Claude chat and introduces Claude Docs and Claude Slides — editable, collaborative artifacts that live inside the conversation instead of being one-shot outputs."
-    },
-    {
-      "url": "https://www.cio.com/article/4222886/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-2.html",
-      "source": "CIO",
-      "category": "workflow",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4222886-0-62961200-1789574798-shutterstock_1675612717.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "AWS's open-source Pizza Bot reframes the agent interface as an asynchronous inbox rather than a chat window, betting that long-running agent work needs a different interaction model."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=2a9G5ziaIWk",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-09-16T15:20:27Z",
-      "og_image": "https://i.ytimg.com/vi/2a9G5ziaIWk/maxresdefault.jpg",
-      "excerpt": "Figma walks through how to build and publish your own custom Weave tools, now that community publishing is open."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=cZDSZzyJ1lU",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-09-14T18:26:42Z",
-      "og_image": "https://i.ytimg.com/vi/cZDSZzyJ1lU/maxresdefault.jpg",
-      "excerpt": "Visual artist and creative technologist Aitana Picó shares the source material behind her style in Figma's ongoing series on creative influence."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=FxcYK5WOk1c",
-      "source": "Matt Wolfe (YouTube)",
+      "url": "https://www.youtube.com/shorts/FxcYK5WOk1c",
+      "source": "Matt Wolfe",
       "category": "social",
       "published_iso": "2026-09-15T12:26:35Z",
       "og_image": "https://i.ytimg.com/vi/FxcYK5WOk1c/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe tests a new AI agent and is surprised by how little setup it takes to get useful work out of it."
+      "excerpt": "Matt Wolfe demos a browser-based AI agent that handles a multi-step task with almost no setup, showing how low the barrier to agentic workflows has dropped for non-engineers.",
+      "headline": "I Was Shocked How Easy This Agent Was To Use"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/I0eNp0FRJBw",
+      "source": "The AI Advantage",
+      "category": "social",
+      "published_iso": "2026-09-15T14:00:02Z",
+      "og_image": "https://i.ytimg.com/vi/I0eNp0FRJBw/maxresdefault.jpg",
+      "excerpt": "The AI Advantage walks through practical image-editing tricks in ChatGPT Images 2.5 that creatives are overlooking, from targeted edits to layout control.",
+      "headline": "ChatGPT Images 2.5 is Underrated!"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU",
+      "source": "Matt Wolfe",
+      "category": "social",
+      "published_iso": "2026-09-16T20:57:15Z",
+      "og_image": "https://i.ytimg.com/vi/S2VJU5DQqlU/maxresdefault.jpg",
+      "excerpt": "A look at a free open-source AI research/OSINT tool and how its agentic pipeline can be repurposed for competitive and user research workflows.",
+      "headline": "He Built The Ultimate Spy Tool (Free and Open-Source)"
     }
   ],
   "dedup": {

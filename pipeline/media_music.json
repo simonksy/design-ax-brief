@@ -1,35 +1,32 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "music",
   "media": [
     {
-      "id": "music-luna3",
-      "type": "video",
-      "src": "pipeline/media/music-luna3.mp4",
-      "poster": "pipeline/media/music-luna3.jpg"
-    },
-    {
-      "id": "music-dp12",
-      "type": "video",
-      "src": "pipeline/media/music-dp12.mp4",
-      "poster": "pipeline/media/music-dp12.jpg"
-    },
-    {
-      "id": "music-autotune-fl",
+      "id": "music-nova",
       "type": "image",
-      "src": "pipeline/media/music-autotune-fl.jpg"
+      "src": "pipeline/media/music-nova.jpg"
     },
     {
-      "id": "music-instrument-x",
-      "type": "video",
-      "src": "pipeline/media/music-instrument-x.mp4",
-      "poster": "pipeline/media/music-instrument-x.jpg"
+      "id": "music-suno-v6",
+      "type": "image",
+      "src": "pipeline/media/music-suno-v6.jpg"
     },
     {
-      "id": "music-melody-flip",
+      "id": "music-submithub",
+      "type": "image",
+      "src": "pipeline/media/music-submithub.jpg"
+    },
+    {
+      "id": "music-dx7-ai",
+      "type": "image",
+      "src": "pipeline/media/music-dx7-ai.jpg"
+    },
+    {
+      "id": "music-ssl-4k",
       "type": "video",
-      "src": "pipeline/media/music-melody-flip.mp4",
-      "poster": "pipeline/media/music-melody-flip.jpg"
+      "src": "pipeline/media/music-ssl-4k.mp4",
+      "poster": "pipeline/media/music-ssl-4k.jpg"
     }
   ]
 }

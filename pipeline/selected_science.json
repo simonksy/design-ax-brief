@@ -1,61 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
+      "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-15T10:00:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-and-ai-find-a-h.jpg",
-      "excerpt": "Researchers used automated robotics plus chemical AI to sweep 960 reaction conditions of the 135-year-old Biginelli reaction, uncovering a previously unknown branch that yields complex bicyclic molecules with metal-responsive assembly and programmable chiral sorting.",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Closed-loop robot lab + chemical AI finds a new branch in a 135-year-old named reaction — the clearest concrete case this week of research automation producing genuinely new chemistry."
+      "rationale": "Concrete end-to-end result: a Stanford-built virtual biotech of tens of thousands of AI agents mined clinical trials and proposed a cancer therapy a pharma company then pursued independently.",
+      "published_iso": "2026-09-17T18:00:10Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biotech.jpg",
+      "excerpt": "Stanford researchers built a virtual biotech staffed by tens of thousands of AI agents that mined thousands of clinical trials and proposed a cancer therapy later pursued independently by a major pharma company.",
+      "headline": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery"
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
-      "excerpt": "UCL scientists reconstructed 10-second videos from the brain activity of mice using only signals from neurons in the visual cortex, a decoding advance that could reveal how the brain reshapes what we see before it becomes perception.",
+      "url": "https://techxplore.com/news/2026-09-manuscripts-ai-agents-discoveries.html",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "Ten-second video reconstructed from visual-cortex spikes alone — a measurable jump in neural decoding, and a new instrument for separating sensation from perception."
+      "motif": "sphere",
+      "rationale": "Paper2Agent is a usable research tool, not commentary — it turns a published manuscript into an interactive agent that can answer method questions and collaborate with other paper agents.",
+      "published_iso": "2026-09-16T17:41:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/manuscripts-turned-ai.jpg",
+      "excerpt": "Stanford's Paper2Agent converts scientific manuscripts into interactive agents that answer questions about their own methods and collaborate with other paper agents to generate new findings.",
+      "headline": "Manuscripts-turned AI agents can now 'talk' to each other and make new discoveries"
     },
     {
-      "url": "https://www.scientificamerican.com/article/anthropics-ai-steals-mathematicians-record-for-most-complicated-curve/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-16T07:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/b945bf3e-e52a-4a8a-a66d-5a33c59d3442/GettyImages-1950772724-cropped.jpeg?m=1789578301.64&w=1200",
-      "excerpt": "A search for the most complex elliptic curves had taken mathematicians years. Claude beat the record in days, raising questions about how much of mathematical search work AI can now absorb.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/moons-surface-will-be-mapped-in-incredible-detail-using-first-of-its-kind-ai-nasa-and-ibm-reveal",
+      "source": "Live Science",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "swatch",
-      "rationale": "A record that stood on years of human search fell in days — a concrete, checkable result that marks where AI now eats the search half of mathematics."
+      "motif": "sphere",
+      "rationale": "A named, shipped model — IBM and NASA's open Lunar Foundation Model trained on decades of orbiter data — richly reported with strong imagery, and a rare geospatial/space entry in the mix.",
+      "published_iso": "2026-09-10T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5NLsJnmkGYe74rkEtCcQYY-1024-80.jpg",
+      "excerpt": "IBM and NASA built the Lunar Foundation Model, an open geospatial AI trained on decades of lunar orbiter data to map the moon's surface at unprecedented detail.",
+      "headline": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say"
     },
     {
-      "url": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-16T17:07:40+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-16_22-06.png",
-      "excerpt": "IonQ, Oak Ridge National Laboratory and research partners demonstrated a generative AI method that sharply reduces parameter-tuning time for quantum optimization circuits.",
+      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "source": "Google Research",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Parameter tuning is the practical bottleneck in variational quantum optimization; a generative model that collapses it changes what a lab can actually run this year."
+      "motif": "sphere",
+      "rationale": "First-party method write-up from a credible lab: Retrieve-for-Train removes the inference bottleneck in large-scale AI search over combinatorial scientific and engineering problems.",
+      "published_iso": "2026-09-15T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "Google Research describes Retrieve-for-Train, a method that removes the inference bottleneck in large-scale AI search pipelines used for combinatorial scientific and engineering problems.",
+      "headline": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train"
     },
     {
-      "url": "https://phys.org/news/2026-09-room-temperature-skyrmion-based-synapses.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-14T19:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-magneti.jpg",
-      "excerpt": "University of Edinburgh researchers built room-temperature skyrmion-based artificial synapses that exploit collective magnetic transformations rather than individual skyrmion manipulation, pointing to far lower energy consumption for AI hardware at high computational accuracy.",
+      "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
+      "source": "Physics World",
       "tool": "Science",
       "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Room-temperature operation and collective — not single-skyrmion — control is the step that moves spintronic synapses from cryostat demo toward usable low-energy AI hardware."
+      "motif": "sphere",
+      "rationale": "A concrete modelling result with a planning payoff — decades of weather variability run through an AI model to size batteries and hydrogen storage for reliable renewable grids.",
+      "published_iso": "2026-09-09T09:30:45Z",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/weather-119470873-shutterstock-solarseven.jpg",
+      "excerpt": "A new AI approach models decades of weather variability to show how batteries and hydrogen storage can be sized to keep renewable grids reliable.",
+      "headline": "Using AI to plan for climate variability in renewable energy systems"
     }
   ]
 }
