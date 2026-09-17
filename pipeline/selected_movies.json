@@ -1,61 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "movies",
   "picks": [
     {
-      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-14T09:36:41-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/strada-3.png",
-      "excerpt": "Strada 2.0 and Strada Connect stitch distributed media libraries together and route AI workflows across globally scattered post teams, a peer-to-peer answer to where footage and models actually live.",
+      "url": "https://www.youtube.com/watch?v=gkuRNUkYbJA",
+      "source": "Runway",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A concrete answer to the distributed-post problem — media stays where it lives and AI workflows travel to it, which changes how remote teams hand off tomorrow."
+      "rationale": "Runway's models now run natively inside Premiere Pro and After Effects — generate, edit and extend on the timeline with no exports or round trips, the single biggest change to a working editor's day in this pool.",
+      "published_iso": "2026-09-08T14:37:30-07:00",
+      "og_image": "https://i.ytimg.com/vi/gkuRNUkYbJA/maxresdefault.jpg",
+      "excerpt": "Get started: https://runway.com/plugins  Generate, edit and extend footage with Runway's models directly inside Premiere Pro and After Effects. No exports, no round trips. Your timeline stays your timeline.",
+      "headline": "Runway is now in Adobe"
     },
     {
-      "url": "https://postperspective.com/jim-camerons-lightstorm-vision-buys-outsyders-for-3d-ai-pipeline/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-16T16:21:07+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/James-Cameron-and-team-1.jpeg",
-      "excerpt": "James Cameron's Lightstorm Vision has acquired Outsyders, whose AI-driven stereoscopic conversion pipeline delivered 3D versions of Lilo & Stitch and IMAX's Blue Angels, folding machine-assisted 2D-to-3D into an in-house production stack.",
+      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
+      "source": "Theoretically Media",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Machine-assisted 2D-to-3D conversion moves from vendor service to in-house pipeline at the studio that defined modern stereo — a signal for where conversion work goes next."
+      "rationale": "An end-to-end AI film pipeline shown in full — GPT-6 (Astra) in Codex orchestrating Runway and Seedance 2.5, finished in DaVinci Resolve — a short film remade in about a day, reproducible step by step.",
+      "published_iso": "2026-09-17T07:20:28-07:00",
+      "og_image": "https://i.ytimg.com/vi/WKO-YgMQhLI/maxresdefault.jpg",
+      "excerpt": "The full cinematic AI film workflow: GPT-6 (Astra) in Codex running Runway and Seedance 2.5, then DaVinci Resolve.  That's the actual AI filmmaking pipeline I used to remake one of my first AI films in about a day and",
+      "headline": "This Cinematic AI Film Workflow Changes Everything"
     },
     {
-      "url": "https://postperspective.com/colorfront-auto-timeline-comparison-dolby-vision-2-mastering-more-at-ibc/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-15T19:46:43+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Colofront-Composition-Comparison-Engine-copy.jpg",
-      "excerpt": "Colorfront brought an automated timeline comparison engine and Dolby Vision 2 mastering to IBC, automating the version-checking drudgery that eats mastering hours.",
+      "url": "https://nofilmschool.com/adobe-premiere-elements-2027",
+      "source": "No Film School",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Automated version comparison plus Dolby Vision 2 mastering hits the exact hours colorists and QC lose to eyeballing near-identical deliverables."
+      "rationale": "Adobe's perpetual-license Elements line gets its 2027 release with new AI photo and video capabilities — the cheap, no-subscription entry point for filmmakers who never touch the Creative Cloud tier.",
+      "published_iso": "2026-09-16T21:40:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67781924&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Let’s take a look at Adobe's new Photoshop Elements and Premiere Elements 2027, tools designed to enhance photos and personalize videos.",
+      "headline": "Adobe Unveils Photoshop Elements and Premiere Elements 2027 With New AI-Powered Capabilities"
     },
     {
-      "url": "https://nofilmschool.com/creative-provenance-ai",
-      "source": "No Film School",
-      "published_iso": "2026-09-15T20:25:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=34052055&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "You don't have to use AI in your film — but proving you didn't is becoming its own production task, as provenance metadata and C2PA-style credentials move into the filmmaking workflow.",
+      "url": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Provenance is turning into a deliverable: a practical read on what filmmakers now have to capture and sign, whether or not they touch generative tools."
+      "rationale": "Variety maps ten companies — Particle6, Higgsfield, Runway among them — against the specific production use cases each has actually landed, a buyer's-guide view of where AI has stuck in real pipelines.",
+      "published_iso": "2026-09-17T14:01:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/AI-in-Hollywood-Scripts.jpg?crop=0px%2C235px%2C1200px%2C676px&resize=1000%2C563",
+      "excerpt": "Variety takes a look at how 10 companies are taming the AI beast with specific use cases.",
+      "headline": "The Old & New Hollywood Guard Wielding AI’s Might"
     },
     {
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "source": "The Verge",
-      "published_iso": "2026-09-16T20:59:13+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&strip=all&crop=3.9791086350975%2C0%2C92.041782729805%2C100&w=1200",
-      "excerpt": "A full-length AI-generated Odyssey lands in front of critics, and the review is a concrete inventory of where generative video still breaks down across 2.5 hours of continuity, performance and pacing.",
+      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
+      "source": "IndieWire",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "The longest stress test yet of generative video — a shot-by-shot map of where continuity, performance and pacing still collapse at feature length."
+      "rationale": "The first trailer for a partly AI-generated docu-mystery narrated by a synthetic Werner Herzog — a concrete look at what a released, festival-bound generative documentary actually sounds and looks like.",
+      "published_iso": "2026-09-15T20:00:00+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
+      "excerpt": "'About a Hero,' a partly AI generated docu-mystery featuring a synthetic Werner Herzog, debuts official trailer.",
+      "headline": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch"
     }
   ]
 }

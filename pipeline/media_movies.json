@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "movies",
   "media": [
     {
-      "id": "movies-strada-2",
+      "id": "movies-runway-adobe",
       "type": "video",
-      "src": "pipeline/media/movies-strada-2.mp4",
-      "poster": "pipeline/media/movies-strada-2.jpg"
+      "src": "pipeline/media/movies-runway-adobe.mp4",
+      "poster": "pipeline/media/movies-runway-adobe.jpg"
     },
     {
-      "id": "movies-lightstorm-outsyders",
+      "id": "movies-ai-film-pipeline",
       "type": "image",
-      "src": "pipeline/media/movies-lightstorm-outsyders.jpeg"
+      "src": "pipeline/media/movies-ai-film-pipeline.jpg"
     },
     {
-      "id": "movies-colorfront-ibc",
+      "id": "movies-adobe-elements-2027",
       "type": "image",
-      "src": "pipeline/media/movies-colorfront-ibc.jpg"
+      "src": "pipeline/media/movies-adobe-elements-2027.jpg"
     },
     {
-      "id": "movies-ai-provenance",
+      "id": "movies-variety-ai-ten",
       "type": "image",
-      "src": "pipeline/media/movies-ai-provenance.jpg"
+      "src": "pipeline/media/movies-variety-ai-ten.jpg"
     },
     {
-      "id": "movies-ai-odyssey",
-      "type": "video",
-      "src": "pipeline/media/movies-ai-odyssey.mp4",
-      "poster": "pipeline/media/movies-ai-odyssey.jpg"
+      "id": "movies-about-a-hero",
+      "type": "image",
+      "src": "pipeline/media/movies-about-a-hero.png"
     }
   ]
 }

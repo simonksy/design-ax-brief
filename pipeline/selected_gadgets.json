@@ -1,61 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "source": "The Verge",
-      "published_iso": "2026-09-16T17:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4128369206903%2C100%2C93.174326158619&amp;w=1200",
-      "excerpt": "Google Home is unlocking the agentic smart home — which is great, right?. AI agents can now control your home",
+      "url": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+      "source": "WIRED",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Google Home exposing MCP to third-party agents turns the house into an addressable tool surface — the first consumer device platform where AX interaction patterns ship with a price and a date."
+      "rationale": "Single best card for the whole Snap Specs cluster — covers the $2,195 AR glasses and the new Specs Intelligence AI app together, so designers see what the platform actually does.",
+      "published_iso": "2026-09-16T23:40:00.000Z",
+      "og_image": "https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png",
+      "excerpt": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.",
+      "headline": "Here’s What Snap’s Expensive Specs Can Actually Do"
     },
     {
-      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
-      "source": "9to5Mac",
-      "published_iso": "2026-09-16T02:25:19+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works - 9to5Mac. A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode.",
+      "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+      "source": "Road to VR",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Apple publishing the architecture behind a provenance-guaranteed camera mode is the clearest spec yet for how an authenticated image gets made in an AI-generated world."
+      "rationale": "Meta reportedly dropping cameras from a new smart-glasses class is a direct design response to public backlash — the opposite bet from Snap, and a live constraint for wearable AI UX.",
+      "published_iso": "2026-09-16T12:49:39+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/ray-ban-no-camera.jpg",
+      "excerpt": "Meta is reportedly preparing a new slate of smart glasses that are ditching those pesky cameras. The News Zuckerberg previously teased a pair of smart glasses in May alongside the official announcement of Connect’s September dates. Now, according to a report from The Information, those may be a new class of camera-less smart glasses, slated […]",
+      "headline": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash"
     },
     {
-      "url": "https://www.techradar.com/computing/creative-software/canon-cameras-just-got-a-free-update-that-unleashes-immersive-3d-photo-capabilities-heres-how",
+      "url": "https://www.techradar.com/health-fitness/smartwatches/finally-readiness-score-comes-to-apple-watch-apple-explains-how-it-works-and-why-now-was-the-right-time-to-launch-it",
       "source": "TechRadar",
-      "published_iso": "2026-09-16T12:57:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B.gif",
-      "excerpt": "Your Canon camera just got a free upgrade that lets it shoot 3D photos — here’s how Dual Pixel 3D works, and which cameras are compatible. Canon has released Dual Pixel 3D software, which leverages",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "A free software drop turns Canon bodies designers already own into spatial-capture rigs — depth from Dual Pixel sensors, no new hardware, usable tomorrow."
-    },
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-09-15T09:24:32Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR-1280-80.jpg",
-      "excerpt": "Perplexity’s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM — Portable Computer brings AI for multistep tasks to compatible PCs. Portable Computer arrives on Windows RTX PCs",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "A shipping local agent with a hard 24GB VRAM floor puts a concrete number on what a machine must have before on-device multistep AI is even an option."
+      "rationale": "Apple's own fitness-tech director explains how the new Readiness score is modeled and why it is deliberately simpler than Oura's — the most useful single card from the Apple Watch Series 12 cluster.",
+      "published_iso": "2026-09-17T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf-1881-80.jpg",
+      "excerpt": "Apple's Director of Fitness Tech tells us everything about the Apple Watch's new Readiness score",
+      "headline": "'Simple and intuitive': Apple tells us about its approach to the new Readiness score on the Apple Watch — and how it differs from everyone else"
     },
     {
-      "url": "https://www.xda-developers.com/microsoft-finally-letting-windows-11-users-take-back-keyboard-keys-copilot-stole/",
-      "source": "XDA Developers",
-      "published_iso": "2026-09-16T18:10:25Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/laptop-copilot-buttons.jpg?w=1600&amp;h=900&amp;fit=crop",
-      "excerpt": "Microsoft is finally letting Windows 11 users take back the keyboard keys Copilot stole. You'll soon be able to remap the Copilot key to either Right Ctrl or the Context Menu.",
+      "url": "https://www.androidauthority.com/google-translate-live-offline-2-3711572/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Microsoft reversing a hardware-level AI shortcut is a rare admission that dedicated AI keys are an input-design decision users should own, not a fixture."
+      "rationale": "Live Translate now runs fully on-device on Pixel 9 and later — on-device AI crossing from demo to default changes what you can assume about connectivity in travel and field workflows.",
+      "published_iso": "2026-09-15T17:54:12+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2023/01/Google-Translate-on-smartphone-stock-photo-2.jpg",
+      "excerpt": "You can now use Live Translate without a data connection with Google Translate on Pixel 9 and later phones.",
+      "headline": "Google Translate is getting a major offline upgrade"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/ram/ai-induced-memory-shortage-is-changing-how-devices-are-built-fairphone-says-memory-now-60-percent-of-materials-cost-smaller-laptop-and-phone-makers-are-redesigning-products-and-have-to-test-for-fake-chips",
+      "source": "Tom's Hardware",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Memory is now 60% of Fairphone's bill of materials, so small makers are physically redesigning products and screening for counterfeit chips — AI demand reshaping hardware design decisions, not just balance sheets.",
+      "published_iso": "2026-09-16T12:15:42Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-1920-80.jpg",
+      "excerpt": "Memory shortage continues to hit smaller brands.",
+      "headline": "AI-induced memory shortage is changing how devices are built, Fairphone says memory now 60% of materials cost — smaller laptop and phone makers are redesigning products and have to test for fake chips"
     }
   ]
 }

@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "science",
   "media": [
     {
-      "id": "science-robot-biginelli",
+      "id": "science-virtual-biotech",
       "type": "image",
-      "src": "pipeline/media/science-robot-biginelli.jpg"
+      "src": "pipeline/media/science-virtual-biotech.jpg"
     },
     {
-      "id": "science-mouse-brain-video",
-      "type": "video",
-      "src": "pipeline/media/science-mouse-brain-video.mp4",
-      "poster": "pipeline/media/science-mouse-brain-video.jpg"
+      "id": "science-paper2agent",
+      "type": "image",
+      "src": "pipeline/media/science-paper2agent.jpg"
     },
     {
-      "id": "science-claude-elliptic-curve",
+      "id": "science-lunar-foundation-model",
       "type": "image",
-      "src": "pipeline/media/science-claude-elliptic-curve.jpg"
+      "src": "pipeline/media/science-lunar-foundation-model.jpg"
     },
     {
-      "id": "science-ionq-quantum-tuning",
+      "id": "science-retrieve-for-train",
       "type": "image",
-      "src": "pipeline/media/science-ionq-quantum-tuning.png"
+      "src": "pipeline/media/science-retrieve-for-train.png"
     },
     {
-      "id": "science-skyrmion-synapse",
+      "id": "science-climate-variability-planning",
       "type": "image",
-      "src": "pipeline/media/science-skyrmion-synapse.jpg"
+      "src": "pipeline/media/science-climate-variability-planning.jpg"
     }
   ]
 }

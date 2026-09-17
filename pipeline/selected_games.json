@@ -1,61 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "games",
   "picks": [
     {
-      "url": "https://80.lv/articles/hard-surface-retopology-just-got-easier-in-blender/",
+      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/",
       "source": "80 Level",
-      "published_iso": "2026-09-15T11:19:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50216/images/6aa929b945b8d/contain_1200x630.jpg",
-      "excerpt": "ReFace 2.0 for Blender now cleans up messy geometry from 3D scans, AI-generated models and sculpts, making hard-surface retopology far less manual.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A concrete Blender tool release that turns AI/scan output into production-ready hard-surface topology — changes an asset artist's pipeline tomorrow."
+      "rationale": "A shipping tool that turns 3D scans into relightable PBR materials — changes the scan-to-asset pipeline for environment and prop artists tomorrow.",
+      "published_iso": "2026-09-17T15:28:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50253/images/6aac07302ae13/contain_1200x630.jpg",
+      "excerpt": "sigmaPBR turns captures into relightable materials.",
+      "headline": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans"
     },
     {
-      "url": "https://80.lv/articles/diablo-v-developers-explain-how-its-procedural-open-world-works/",
-      "source": "80 Level",
-      "published_iso": "2026-09-16T10:28:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50230/images/6aaa6f5acafd4/contain_1200x630.jpg",
-      "excerpt": "Blizzard devs break down the procedural generation system behind Diablo V's open world, a technology they say has been in development since Diablo III.",
+      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
+      "source": "Unity (YouTube)",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "First-party technical breakdown of a decade-long procedural world system — rare craft detail from a AAA studio, directly useful to level and systems designers."
+      "rationale": "Unity's first-party Codex plugin puts engine-aware skills inside OpenAI's agent — a concrete new entry point for agentic Unity work.",
+      "published_iso": "2026-09-16T08:53:23-07:00",
+      "og_image": "https://i.ytimg.com/vi/gy4HlUNn1lE/maxresdefault.jpg",
+      "excerpt": "We heard you loud and clear. Introducing the official Unity plugin for OpenAI's Codex - a first-party integration available now directly in OpenAI's universe.",
+      "headline": "Introducing the official Unity plugin for OpenAI Codex"
     },
     {
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-15T14:22:49+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
-      "excerpt": "A developer vibe-coded a VR tool that lets him physically toss a 3D model at his printer inside mixed reality to start a print job.",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "A working example of vibe-coding a spatial interaction tool — shows how cheap bespoke XR utilities have become for a solo maker."
-    },
-    {
-      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-16T15:21:39+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/UNCANNY-Spider-Man-NVIDIA-DLSS-5-1920x1080.jpg",
-      "excerpt": "A modding project called UNCANNY uses NVIDIA DLSS 5 neural rendering to deliver real-time remasters, making both classic and modern games look like new titles.",
+      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/",
+      "source": "GamesBeat",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Neural rendering moves from vendor demo to a community remastering engine — a new production route for art direction on legacy titles."
+      "rationale": "A 1.0 launch of an agentic dev assistant that works inside both Unity and Unreal, with an interview covering what it actually automates.",
+      "published_iso": "2026-09-09T12:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/image001-1.jpg",
+      "excerpt": "Ramen announced today the launch of Aura 1.0, its AI development agent for game developers building on Unity and Unreal Engine.",
+      "headline": "Ramen launches Aura 1.0 to push agentic AI in game development | interview"
     },
     {
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-16T17:14:07+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
-      "excerpt": "A PS5 Linux developer is walking away from the project, saying open-source mod work has been overrun by 'AI slop kiddies' using LLMs to write hacks they don't understand.",
+      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/",
+      "source": "AUTOMATON West",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "CESA's 2026 numbers jump from 51% to 85% in a single year — the clearest hard data yet on how normal gen-AI has become in Japanese production.",
+      "published_iso": "2026-09-17T08:45:07+00:00",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72691-header.jpg",
+      "excerpt": "CESA is the organizer of Tokyo Game Show.",
+      "headline": "Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year's 51%"
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
+      "source": "PC Gamer",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "The maintenance cost of LLM-written contributions is now driving senior maintainers out — a warning for any team accepting AI-assisted code."
+      "rationale": "AMD's research hands indirect lighting to an image-generation model frame by frame — the shape of the next neural rendering fight after DLSS 5.",
+      "published_iso": "2026-09-17T13:45:27Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
+      "excerpt": "AMD presents a new method of handing indirect lighting off to an image generation model, a frame-by-frame approach that could become part of its answer to DLSS 5.",
+      "headline": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday"
     }
   ]
 }

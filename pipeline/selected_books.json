@@ -1,67 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.thebookseller.com/news/researchers-warn-use-of-ai-in-writing-could-homogenise-human-writing-and-thought",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-16T09:52:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "The growing use of AI large language models could make human writing, perspectives and reasoning more alike, according to a research paper that raises questions about creative diversity and authorial voice.",
+      "url": "https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/",
+      "source": "Authors Guild",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Fresh peer-reviewed finding that LLM use flattens voice and reasoning — the single most craft-relevant research item in the pool."
+      "rationale": "Hard deadline change authors must act on: the co-claimant allocation dispute window in the Anthropic settlement doubled from 30 to 60 days.",
+      "published_iso": "2026-09-17T17:28:20Z",
+      "og_image": "https://authorsguild.org/app/uploads/2026/09/Anthropic-Claim-Notices-Rectangle.jpg",
+      "excerpt": "Update, September 17, 2026: The initial 30-day window for co-claimants to try and resolve any allocation disputes has been extended to 60 days. We have updated this deadline below. Update, September 14, 2026: The Authors Guild has gathered further information […]",
+      "headline": "Important Information Regarding Anthropic Copyright Settlement Claim Notices"
     },
     {
-      "url": "https://janefriedman.com/the-difference-between-geo-and-seo-for-authors-publishers/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-16T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "GEO is generative engine optimization: trying to influence whether your name or book appears in AI overviews or in chatbot conversations, and it works differently from SEO.",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Directly changes how authors and publishers do discovery work tomorrow: GEO replaces SEO assumptions for AI answers."
+      "rationale": "Newly unsealed filings put Microsoft's own words on the record about scraping paywalled text, resetting the leverage in every publisher licensing negotiation.",
+      "published_iso": "2026-09-17T19:46:08Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+      "excerpt": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "headline": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal"
     },
     {
-      "url": "https://janefriedman.com/get-ready-for-ai-agents-to-come-knocking-on-your-door/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-16T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "A new app called iLands allows the creation of autonomous AI agents that not only write articles but pitch their work to media outlets.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
+      "source": "Publishers Weekly",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Named new tool (iLands) that pushes agents past drafting into pitching — a concrete shift in the submissions inbox."
+      "rationale": "Reported look at how automation vendors plan to reshape literary translation work, and where translators are drawing the line.",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131365-1.PNG",
+      "excerpt": "Tech developers think automation will fundamentally reshape the work of literary translators, but not everyone is on board.",
+      "headline": "Lost in Translation"
     },
     {
-      "url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/",
-      "source": "Literary Hub",
-      "published_iso": "2026-09-14T18:00:09+00:00",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/baldwin-exhibit.jpg",
-      "excerpt": "A new interactive exhibition about the writing of James Baldwin features an AI-programmed typewriter that directs users to writing drawn from Baldwin's books, essays, and letters.",
+      "url": "https://janefriedman.com/find-your-memoir-voice-before-ai-flattens-it/",
+      "source": "Jane Friedman",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A rare constructive design case: AI used as an archive interface rather than a generator, with a physical interaction to copy."
+      "rationale": "Sentence-level craft method for keeping a distinct authorial voice intact when AI assistance is in the drafting loop.",
+      "published_iso": "2026-09-17T09:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/09/ellison_memoir_voice-social.png",
+      "excerpt": "A standout writing voice is a mixture of your natural style and sentence-level decisions that bring who you are to life.",
+      "headline": "Find Your Memoir Voice Before AI Flattens It"
     },
     {
-      "url": "https://www.thebookseller.com/comment/letting-chatgpt-write-your-emails-has-a-bigger-impact-than-you-think",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-14T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/asd36.jpg",
-      "excerpt": "Author Daisy Buchanan argues that handing routine writing tasks such as emails to ChatGPT quietly erodes the everyday craft skills writers depend on.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
+      "source": "The Scholarly Kitchen",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Working-writer argument that the cost of offloading small writing tasks shows up in the big ones — pairs with the homogenisation research."
+      "rationale": "Argues the journal portfolio and platform model breaks once AI mediates discovery, and lays out the three choices publishers now have to pick between.",
+      "published_iso": "2026-09-09T09:30:48Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Steve-and-Ben.jpg",
+      "excerpt": "The journal portfolio, platform, or membership is no longer enough, as AI transforms how research is discovered and consumed. How will your organization adapt?",
+      "headline": "Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era"
     }
-  ],
-  "dedup_notes": [
-    "Dropped The Scholarly Kitchen 'Ask the Chefs: AI and Copyright Licensing' (2026-09-10) — same event (DOJ Statement of Interest siding with OpenAI/Microsoft) as the 2026-09-15 card 'books-us-gov-ai-copyright' (Jane Friedman).",
-    "Skipped Publishers Weekly 'Lost in Translation' — same core topic as the 2026-09-15 Murakami AI-translation card and the 2026-09-12 Webtoon AI-translation card; kept out to avoid a third translation story in five days.",
-    "Skipped Good e-Reader 'Flowtica Verso' — duplicates the AI voice-recorder angle already run in gadgets (2026-09-15, Comu Action Pro).",
-    "Two Jane Friedman picks share a site-wide OG banner but are distinct URLs and distinct articles, so both are kept."
   ]
 }

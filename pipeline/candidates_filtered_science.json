@@ -1,118 +1,204 @@
 {
-  "date": "2026-09-17",
-  "window_hours": 336,
+  "date": "2026-09-18",
   "section": "science",
+  "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-09-ai-struggles-decipher-animal-language.html",
+      "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-16T17:40:05-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bats.jpg",
-      "excerpt": "A Tel Aviv University study finds a fundamental flaw in using AI to decode animal communication: acoustic similarity does not guarantee equivalent meaning. AI models failed to classify toddler vocalizations by actual intent, suggesting decoding animal language needs behavioral observation and brain measurement alongside AI.",
+      "published_iso": "2026-09-17T18:00:10Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biotech.jpg",
+      "headline": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery",
+      "excerpt": "Stanford researchers built a virtual biotech staffed by tens of thousands of AI agents that mined thousands of clinical trials and proposed a cancer therapy later pursued independently by a major pharma company.",
       "category": "science"
     },
     {
-      "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
+      "url": "https://phys.org/news/2026-09-simple-game-ai-future.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-15T10:00:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-and-ai-find-a-h.jpg",
-      "excerpt": "Researchers used automated robotics plus chemical AI to sweep 960 reaction conditions of the 135-year-old Biginelli reaction, uncovering a previously unknown branch that yields complex bicyclic molecules with metal-responsive assembly and programmable chiral sorting.",
+      "published_iso": "2026-09-17T17:40:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/20-questions-1.jpg",
+      "headline": "How a simple game of 20 questions could help make AI fit for the future",
+      "excerpt": "University of Bristol researchers show image classifiers can be trained cheaply using simple binary yes/no queries inspired by the game 20 Questions, instead of million-dollar GPU runs.",
       "category": "science"
     },
     {
-      "url": "https://phys.org/news/2026-09-room-temperature-skyrmion-based-synapses.html",
+      "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-14T19:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-inspired-magneti.jpg",
-      "excerpt": "University of Edinburgh researchers built room-temperature skyrmion-based artificial synapses that exploit collective magnetic transformations rather than individual skyrmion manipulation, pointing to far lower energy consumption for AI hardware at high computational accuracy.",
+      "published_iso": "2026-09-11T22:20:05Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toward-future-ready-fo.jpg",
+      "headline": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
+      "excerpt": "Kyushu University researchers propose a framework combining sensors, self-healing materials and AI models that read freshness signals to flag spoilage in real time.",
       "category": "science"
     },
     {
-      "url": "https://www.scientificamerican.com/article/anthropics-ai-steals-mathematicians-record-for-most-complicated-curve/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-16T07:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/b945bf3e-e52a-4a8a-a66d-5a33c59d3442/GettyImages-1950772724-cropped.jpeg?m=1789578301.64&w=1200",
-      "excerpt": "A search for the most complex elliptic curves had taken mathematicians years. Claude beat the record in days, raising questions about how much of mathematical search work AI can now absorb.",
+      "url": "https://techxplore.com/news/2026-09-manuscripts-ai-agents-discoveries.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-16T17:41:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/manuscripts-turned-ai.jpg",
+      "headline": "Manuscripts-turned AI agents can now 'talk' to each other and make new discoveries",
+      "excerpt": "Stanford's Paper2Agent converts scientific manuscripts into interactive agents that answer questions about their own methods and collaborate with other paper agents to generate new findings.",
+      "category": "science"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-09-ai-mathematics-frontier-reverse-problem.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-17T00:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-expands-mathematics.jpg",
+      "headline": "AI expands mathematics: A new frontier of reverse problem generation for computational AI",
+      "excerpt": "Chiba University's Hiroshi Kera explains how 'reverse problem generation' — building equations from known solutions — supplies the training data that lets machine learning accelerate computational algebra.",
+      "category": "science"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-17T15:00:17Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-isnt-as-good-at-rec.jpg",
+      "headline": "AI still isn't as good at recognizing objects as people are, new test shows",
+      "excerpt": "A new study finds vision models collapse on distorted images where humans still read overall shape, evidence that machine perception does not work the way human object perception does.",
       "category": "science"
     },
     {
       "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
       "source": "Scientific American",
-      "published_iso": "2026-09-15T12:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg?m=1789485995.523&w=1200",
-      "excerpt": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which Millennium Prize problem machines could crack next.",
+      "published_iso": "2026-09-15T16:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg",
+      "headline": "Which million-dollar math problem could AI solve next?",
+      "excerpt": "After an OpenAI model offered a possible Navier-Stokes solution, mathematicians debate which remaining Millennium Prize problem an AI system is most likely to crack — and what counts as a proof.",
       "category": "science"
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-09-15T08:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/OpenAI-grants.jpg?resize=1200,600",
-      "excerpt": "The OpenAI Foundation is funding a new effort called Data for Public Health, paying labs to generate the biological datasets that AI models for science currently lack.",
-      "category": "science"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-16T17:07:40+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-16_22-06.png",
-      "excerpt": "IonQ, Oak Ridge National Laboratory and research partners demonstrated a generative AI method that sharply reduces parameter-tuning time for quantum optimization circuits.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist",
-      "source": "Psychology Today",
-      "published_iso": "2026-09-15T13:35:40-04:00",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=Q5F3451x",
-      "excerpt": "As researchers struggle to understand the emerging psychology inside AI systems, we may be overlooking what AI is doing to the psychology of the humans using it.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202609/should-you-trust-the-algorithm-or-your-gut",
-      "source": "Psychology Today",
-      "published_iso": "2026-09-15T16:49:29-04:00",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pexels-googledeepmind-18069697.jpg?itok=pe-DqU4b",
-      "excerpt": "Most people either blindly trust AI or reject it outright. Research suggests the real skill is calibration — knowing when the algorithm beats intuition — and that it can be learned.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-      "source": "ScienceDaily",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
-      "excerpt": "UCL scientists reconstructed 10-second videos from the brain activity of mice using only signals from neurons in the visual cortex, a decoding advance that could reveal how the brain reshapes what we see before it becomes perception.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
-      "source": "Space.com",
-      "published_iso": "2026-09-12T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/87Rn3PeiFZcAVm73TeQ25n-2000-80.jpg",
-      "excerpt": "NASA and IBM have released a Lunar Foundation Model, an AI trained to sift the mountains of data the agency has gathered about the moon and map its surface in unprecedented detail.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/moons-surface-will-be-mapped-in-incredible-detail-using-first-of-its-kind-ai-nasa-and-ibm-reveal",
+      "source": "Live Science",
+      "published_iso": "2026-09-10T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5NLsJnmkGYe74rkEtCcQYY-1024-80.jpg",
+      "headline": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
+      "excerpt": "IBM and NASA built the Lunar Foundation Model, an open geospatial AI trained on decades of lunar orbiter data to map the moon's surface at unprecedented detail.",
       "category": "science"
     },
     {
       "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
       "source": "Universe Today",
-      "published_iso": "2026-09-12T12:27:43+00:00",
-      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_-_clouds_cropped_cropped_20260912_122725.jpg",
-      "excerpt": "Monitoring Earth from orbit is messy: clouds block views and sun angles shift. Researchers propose 'liquid' neural networks that adapt continuously to noisy, irregular satellite data.",
+      "published_iso": "2026-09-12T12:27:43Z",
+      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_-_clouds_climate_change.jpg",
+      "headline": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
+      "excerpt": "Earth observation data is noisy and irregular; researchers argue liquid neural networks, which adapt their dynamics at inference time, could make satellite monitoring far more robust.",
+      "category": "science"
+    },
+    {
+      "url": "https://physics.aps.org/articles/v19/126",
+      "source": "Physics (APS)",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": "https://physics.aps.org/assets/fe9570c8-98b7-480a-851c-95dac90ae2f6/e126_1_thumb.png",
+      "headline": "Chess Reveals Differences Between Human and AI Strategies",
+      "excerpt": "A complexity analysis of chess games finds grandmasters steer toward less complex positions faster than engines do, exposing different strategies for balancing short- and long-term prospects.",
       "category": "science"
     },
     {
       "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
       "source": "Physics World",
-      "published_iso": "2026-09-09T09:30:45+00:00",
+      "published_iso": "2026-09-09T09:30:45Z",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/weather-119470873-shutterstock-solarseven.jpg",
-      "excerpt": "A new AI approach models decades of climate variability to show how batteries and hydrogen storage can make renewable energy systems reliable under extreme weather years.",
+      "headline": "Using AI to plan for climate variability in renewable energy systems",
+      "excerpt": "A new AI approach models decades of weather variability to show how batteries and hydrogen storage can be sized to keep renewable grids reliable.",
       "category": "science"
     },
     {
-      "url": "https://www.livescience.com/archaeology/human-evolution/the-real-ai-danger-is-not-superintelligence-it-is-premature-trust-opinion",
-      "source": "Live Science",
-      "published_iso": "2026-09-15T20:39:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZBLaCKVqqcVy83BYoV5qUn-2000-80.jpg",
-      "excerpt": "AI is unlikely to launch a Hollywood-style war against humanity, argues this essay. The real hazard is premature trust — handing judgment to systems that will disappoint us in mundane, consequential ways.",
+      "url": "https://thequantuminsider.com/2026/09/17/usa-rare-earth-pasqal-riven-critical-mineral-production/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-09-17T12:22:15Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-17_17-20.png",
+      "headline": "USA Rare Earth, Pasqal and Riven Test Quantum Machine Learning for Rare Earth Separation",
+      "excerpt": "USA Rare Earth is working with Pasqal and Riven to test quantum machine learning for extractant selection, aiming at the chemistry bottleneck in rare earth separation.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-09-15T12:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/OpenAI-grants.jpg?resize=1200,600",
+      "headline": "AI models need more data about biology, and OpenAI is paying to create it",
+      "excerpt": "The OpenAI Foundation is funding 'Data for Public Health' to generate the missing biological datasets that current models cannot learn from.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/",
+      "source": "STAT",
+      "published_iso": "2026-09-09T08:30:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/20260825_kaf_baugh_003-1-1024x576.jpg",
+      "headline": "Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
+      "excerpt": "A close look at AI scribes and decision tools in emergency departments finds the technology falls well short of the claims made for it in real clinical workflows.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/",
+      "source": "STAT",
+      "published_iso": "2026-09-09T16:01:00Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_312976841-1024x576.jpeg",
+      "headline": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
+      "excerpt": "ARPA-H will commit $62.7 million to build autonomous AI agents that direct heart failure treatment, with the goal of FDA authorization.",
+      "category": "science"
+    },
+    {
+      "url": "https://allenai.org/blog/autodiscovery-student-challenge",
+      "source": "Allen Institute for AI",
+      "published_iso": "2026-09-14T00:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1789405893-autodiscovery-student-learnings-blog-google-docs-image-1.png",
+      "headline": "Teaching future scientists to interrogate AI tools for scientific discovery",
+      "excerpt": "University of Washington students stress-tested Ai2's AutoDiscovery agent, finding it surfaces promising scientific leads while making human judgment and validation more important, not less.",
+      "category": "science"
+    },
+    {
+      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "source": "Google Research",
+      "published_iso": "2026-09-15T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "headline": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+      "excerpt": "Google Research describes Retrieve-for-Train, a method that removes the inference bottleneck in large-scale AI search pipelines used for combinatorial scientific and engineering problems.",
+      "category": "science"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.18598",
+      "source": "arXiv",
+      "published_iso": "2026-09-17T00:00:00Z",
+      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "headline": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
+      "excerpt": "Self-driving labs usually optimize synthesis with black-box optimizers; this preprint replaces that layer with multimodal LLM agents that form and test explicit hypotheses about why a synthesis works.",
+      "category": "science"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.19090",
+      "source": "arXiv",
+      "published_iso": "2026-09-17T00:00:00Z",
+      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "headline": "Securing quantum error correction against misleading advice from AI agents",
+      "excerpt": "The authors show how an attacker with influence over an AI adviser could push harmful quantum error-correction updates, and propose safeguards for AI-assisted decoding.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.13.751323v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-16T00:00:00Z",
+      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
+      "headline": "Evaluation of methods for AlphaFold-based integrative modeling",
+      "excerpt": "A systematic benchmark of methods that inject experimental restraints into AlphaFold, testing how well data-guided structure prediction actually works for integrative modeling.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750272v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-16T00:00:00Z",
+      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
+      "headline": "Ourotide: decoding the hierarchical peptide recognition for generative design",
+      "excerpt": "Ourotide models peptide binding as a hierarchical recognition process rather than a structural intermediate, and uses that decomposition to drive generative peptide design.",
+      "category": "science"
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750569v1",
+      "source": "bioRxiv",
+      "published_iso": "2026-09-15T00:00:00Z",
+      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
+      "headline": "HeartVar: An LLM-Assisted Tool for Clinical Classification of Variants in Cardiovascular Disease Cohorts",
+      "excerpt": "HeartVar uses an LLM to assemble and weigh the 28 ACMG criteria behind clinical DNA variant classification, attacking the manual curation bottleneck in rare disease workflows.",
       "category": "science"
     },
     {
@@ -120,21 +206,23 @@
       "source": "GEN",
       "published_iso": "2026-09-15T14:30:53Z",
       "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-1209662272.jpg",
-      "excerpt": "FairJourney Biologics is consolidating antibody discovery data across multiple international sites onto a single AI platform, restructuring how a wet-lab discovery org captures and reuses its experimental record.",
+      "headline": "Consolidating Antibody Discovery Data with an AI Platform",
+      "excerpt": "FairJourney Biologics describes moving scattered multi-site antibody discovery data onto a single AI platform so models can actually learn from years of wet-lab campaigns.",
       "category": "science"
     },
     {
-      "url": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/",
-      "source": "STAT News",
-      "published_iso": "2026-09-15T13:06:21+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2024/10/AP24270643540615-1-1024x576.jpg",
-      "excerpt": "New documents reveal problems with the rushed launch of Medicare's AI prior-authorization pilot, an early real-world test of algorithmic decision-making inside clinical coverage.",
+      "url": "https://www.genengnews.com/topics/bioprocessing/ai-accelerates-biomanufacturing-from-discovery-to-translation/",
+      "source": "GEN",
+      "published_iso": "2026-09-10T14:17:42Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GEN_SEP_2026_GettyImages-1390104663-scaled-e1789141841298.jpg",
+      "headline": "AI Accelerates Biomanufacturing from Discovery to Translation",
+      "excerpt": "A survey of how machine learning models are being wired into bioprocess development, from cell line selection to process control, to shorten discovery-to-translation timelines.",
       "category": "science"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 16,
+    "dropped": 0,
+    "kept": 24,
     "against_days": 5
   }
 }

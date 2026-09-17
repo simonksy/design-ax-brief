@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-google-home-mcp",
+      "id": "gadgets-snap-specs",
       "type": "image",
-      "src": "pipeline/media/gadgets-google-home-mcp.jpg"
+      "src": "pipeline/media/gadgets-snap-specs.jpg"
     },
     {
-      "id": "gadgets-iphone18-reference-image",
+      "id": "gadgets-meta-no-camera",
       "type": "image",
-      "src": "pipeline/media/gadgets-iphone18-reference-image.jpg"
+      "src": "pipeline/media/gadgets-meta-no-camera.jpg"
     },
     {
-      "id": "gadgets-canon-dual-pixel-3d",
-      "type": "video",
-      "src": "pipeline/media/gadgets-canon-dual-pixel-3d.mp4",
-      "poster": "pipeline/media/gadgets-canon-dual-pixel-3d.jpg"
+      "id": "gadgets-apple-readiness",
+      "type": "image",
+      "src": "pipeline/media/gadgets-apple-readiness.jpg"
     },
     {
-      "id": "gadgets-perplexity-local-agent",
+      "id": "gadgets-translate-offline",
       "type": "image",
-      "src": "pipeline/media/gadgets-perplexity-local-agent.jpg"
+      "src": "pipeline/media/gadgets-translate-offline.jpg"
     },
     {
-      "id": "gadgets-copilot-key-remap",
+      "id": "gadgets-memory-shortage",
       "type": "image",
-      "src": "pipeline/media/gadgets-copilot-key-remap.jpg"
+      "src": "pipeline/media/gadgets-memory-shortage.jpg"
     }
   ]
 }

@@ -1,151 +1,119 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "section": "games",
   "cards": [
     {
-      "id": "games-reface-blender",
+      "id": "games-sigmapbr",
       "eyebrow": "AI NEWS",
-      "headline": "블렌더 리토폴로지, 스캔과\nAI 모델까지 정리한다",
-      "body": "3D 스캔과 AI 생성 모델의 지저분한 지오메트리를 ReFace 2.0이 블렌더 안에서 정리한다.",
-      "mini_headline": "리토폴로지의 짐을 덜다",
+      "headline": "CD Projekt Red 아티스트가\n3D 스캔용 PBR 솔버를 공개",
+      "body": "sigmaPBR은 스캔한 결과물을 다시 조명할 수 있는 PBR 재질로 바꿔 준다.",
+      "mini_headline": "스캔을 PBR 재질로",
       "tool": "Games",
       "source": "80 Level",
-      "url": "https://80.lv/articles/hard-surface-retopology-just-got-easier-in-blender/",
+      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "페라스 야히아가 만든 블렌더 애드온 ReFace가 2.0으로 올라섰다. 3D 스캔, AI로 생성한 모델, 스컬프트한 메시처럼 면이 엉킨 지오메트리를 이제 이 애드온이 받아 정리한다."
+            "x": "CD Projekt Red의 시니어 테크니컬 아티스트이자 INVOLV3D 공동창업자인 Piotr Bieryt가 회사의 새 PBR 솔버 sigmaPBR을 공개했다. 아직은 클로즈드 베타다."
+          },
+          {
+            "t": "p",
+            "x": "포토그래메트리는 물체의 형태와 표면 색을 잡아낸다. 거기까지다. 재질이 빛에 어떻게 반응하는지, 러프니스가 어느 정도인지, 미세한 표면 요철이 어떻게 드러나는지는 캡처에 남지 않는다. 그 몫은 지금까지 아티스트가 손으로 다시 만들어 왔다."
+          },
+          {
+            "t": "p",
+            "x": "sigmaPBR은 포토메트릭 데이터와 포토그래메트리 데이터를 같이 받아 PBR 머티리얼 맵 한 벌을 통째로 뽑는다. 그렇게 나온 3D 에셋은 조명 조건을 바꿔도 사실적으로 다시 조명된다."
           },
           {
             "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/50216/images/6aa929b945b8d/contain_1200x630.jpg",
-            "cap": "ReFace 2.0의 하드서피스 리토폴로지 (출처: 80 Level)"
+            "src": "https://cdn.80.lv/api/upload/content/d4/6aac0404b83f3.gif",
+            "cap": "sigmaPBR 소개 이미지. 출처: 80 Level"
           },
           {
             "t": "p",
-            "x": "ReFace는 원래 정밀 모델링 도구 묶음에 가깝다. 메시 클린업, CAD식 치수 측정, 레퍼런스 기반 편집, 리토폴로지, 뷰포트 오버레이, 오브젝트 아이솔레이션까지 들어 있다."
+            "x": "최종 머티리얼 스택에는 diffuse albedo, roughness, specular F0, 노멀 맵이 들어간다. 텍스처는 쓰던 프로덕션 UV 아틀라스에 그대로 정렬되고, 노멀은 월드 스페이스와 탄젠트 스페이스 중에 고르면 된다. 흔히 쓰는 렌더링 작업 흐름에 그대로 얹으라는 설계다."
           },
           {
             "t": "p",
-            "x": "이번 버전이 겨냥한 쪽은 엣지 플로가 정리되지 않은 메시다. 개발자가 직접 찍은 영상에서 달라진 부분과 현재의 한계, 앞으로 갈 방향을 차례로 짚는다."
-          },
-          {
-            "t": "video",
-            "yt": "GBRWRPfUrn0"
+            "x": "받아 주는 촬영 장비의 폭도 넓다. 로봇 스캐닝 리그, 턴테이블 방식 시스템, 2D 머티리얼 스캐너에 Godox AR400 기반 리그를 포함한 핸드헬드 셋업까지 지원한다."
           },
           {
             "t": "p",
-            "x": "2.0.5에는 코너 가이드 그리드 리필 워크플로에 Drawn Patch Mode가 붙었다. 패치를 확장하는 새 방식, 섹터 분해, 손본 Display Modes, 리토폴로지 패치를 만들고 고칠 때 쓰는 유연해진 나이프 툴도 함께 들어왔다."
+            "x": "겨냥하는 쪽은 제품과 에셋을 디지털로 옮기는 스튜디오다. 문화유산 기록 같은 작업이 대표적이다. 러프니스나 스페큘러 맵을 일일이 손으로 칠하는 대신 바로 프로덕션에 넣을 수 있는 relightable 머티리얼을 원하는 곳들이다."
           },
           {
             "t": "p",
-            "x": "비슷한 도구도 나란히 움직인다. 비탈리 야블론스키의 블렌더 애드온 Hardcraft는 CAD 익스포트 리토폴로지에 집중하며 알파 기간에는 무료다. 3ds Max 쪽에서는 미하일 루푸가 고해상도 표면 위에 곧장 토폴로지를 까는 네이티브 모디파이어 retoPoly를 내놓았다."
+            "x": "INVOLV3D는 무료 평가를 열어 뒀다. 쓰는 캡처 장비 정보를 보내면 그쪽에서 실제 데이터로 테스트 머티리얼 솔브를 한 번 돌려 준다."
           }
         ]
       }
     },
     {
-      "id": "games-diablo-v-procedural",
+      "id": "games-unity-codex",
       "eyebrow": "AI NEWS",
-      "headline": "블리자드가 밝힌 디아블로 V의\n절차적 오픈월드 구조",
-      "body": "블리자드가 디아블로 III부터 쌓아 온 절차적 오픈월드 구조를 블리즈컨에서 직접 설명했다.",
-      "mini_headline": "10년을 쌓은 생성 기술",
+      "headline": "OpenAI Codex 안에서 도는\nUnity 공식 플러그인",
+      "body": "Unity가 OpenAI Codex에서 바로 쓰는 퍼스트파티 플러그인을 내놨다.",
+      "mini_headline": "Codex 속 Unity",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/diablo-v-developers-explain-how-its-procedural-open-world-works/",
+      "source": "Unity (YouTube)",
+      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
-          {
-            "t": "p",
-            "x": "블리자드가 블리즈컨에서 디아블로 V를 공개했다. 세계는 계속 모습을 바꾸는 절차적 지형이다. 지형과 관심 지점, 몬스터, 보상이 다시 찾았을 때 달라져 있을 수 있다."
-          },
           {
             "t": "video",
-            "yt": "GxCN_AKYtts"
+            "yt": "gy4HlUNn1lE"
           },
           {
             "t": "p",
-            "x": "블리즈컨 단체 질의응답에서 프랜차이즈 총괄 프로듀서 맷 지터먼은 폴리곤에 디아블로 IV의 고정된 세계를 떠난 이유를 밝혔다. 플레이어가 \"끊임없이 발견하는 감각\"을 원한다는 것이다. 동부 대륙 전체를 탐험하는 경험은 훌륭했지만 한 번이면 끝났고, 그 감각을 상시로 돌려주고 싶었다고 그는 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/92/images/6aaa584039064/widen_1840x0.jpg",
-            "cap": "디아블로 V (출처: Blizzard Entertainment)"
+            "x": "Unity가 OpenAI Codex용 공식 플러그인을 내놨다. 퍼스트파티 통합이고, OpenAI의 범용 플러그인 디렉터리에서 지금 바로 받을 수 있다."
           },
           {
             "t": "p",
-            "x": "게임 디렉터 조 셸리는 디아블로 IV와 달리 오버레이 맵을 출시 첫날부터 넣는다고 덧붙였다. 지역을 누가 쥐고 있느냐에 따라 장소의 상태도 달라진다. 폐허가 된 교회 하나도 그때 그 지역이 어떤 상태인가에 따라 다르게 나타난다는 설명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/96/images/6aaa6cd5459de/widen_1840x0.jpg",
-            "cap": "디아블로 V (출처: Blizzard Entertainment)"
+            "x": "공개 문구는 \"We heard you loud and clear\"로 시작한다. 요청이 그만큼 쌓여 있었던 셈이다."
           },
           {
             "t": "p",
-            "x": "반복을 피하면서도 세계가 다양하게 느껴지도록 개발진은 콘텐츠를 많이 만들되 장소가 알아볼 만큼 안정적으로 남는 선을 지킨다. 지터먼은 이 절차적 생성 기술을 디아블로 III 때부터 팀이 쌓아 온 것이라고 했다."
+            "x": "Codex로 Unity 작업을 하던 개발자는 이미 있었다. 이번 플러그인이 더하는 건 Unity 엔지니어들이 직접 쓰고 관리하는 엔진 지식이다. 에이전트가 그걸 통째로 넘겨받는다."
           },
           {
             "t": "p",
-            "x": "이번 작에서 디아블로는 성역을 손에 넣고 웨스트마치의 왕좌에 앉아 있다. 플레이어는 웨스트마치의 후계자가 되어 생존자 행렬을 늘려 가며 성역을 가로지른다. 출시는 2029년이다."
+            "x": "정확도 이야기가 먼저다. 각 시스템을 맡은 Unity 팀이 지침을 쓰고 최신 상태로 유지하니 세부가 첫 시도에서 제대로 나온다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "퍼스트파티 스킬은 Unity 개발이 실제로 어떻게 굴러가는지를 Codex에 가르친다. 따로 세팅할 것 없이 처음부터 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "터미널도 사정권이다. Unity CLI 스킬이 에디터를 설치하고, 프로젝트를 만들어 열고, 패키지를 관리한다."
+          },
+          {
+            "t": "p",
+            "x": "설치는 OpenAI 플러그인 디렉터리에서 클릭 한 번이면 끝난다. Unity는 안내 링크로 on.unity.com/OpenAIPlugin을 걸어 뒀다."
+          },
+          {
+            "t": "p",
+            "x": "영상 자체는 9초짜리다. Unity 채널이 9월 16일에 올렸다."
           }
         ]
       }
     },
     {
-      "id": "games-vr-toss-print",
+      "id": "games-ramen-aura",
       "eyebrow": "AI NEWS",
-      "headline": "3D 프린터에 모델을 던지면\n출력이 시작되는 VR 도구",
-      "body": "바이브 코딩으로 만든 VR 도구에서 모델을 집어 프린터로 던지면 출력이 걸린다.",
-      "mini_headline": "던져서 출력하기",
+      "headline": "Unity와 Unreal 안에서 일하는\n게임 개발 에이전트 Aura 1.0",
+      "body": "Ramen의 개발 에이전트 Aura 1.0이 Unity와 Unreal에서 돌아간다.",
+      "mini_headline": "Aura 1.0 출시",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "소프트웨어 개발자 행크 버거가 이번 주 초 VR 안에서 찍은 짧은 영상을 올렸다. 3D 소프트웨어에서 모델을 집어 3D 프린터 쪽으로 던지자 출력이 시작된다. 그는 \"지금만큼 토니 스타크가 된 기분은 처음\"이라고 적었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
-            "cap": "VR에서 모델을 던져 출력을 거는 도구 (출처: PC Gamer)"
-          },
-          {
-            "t": "p",
-            "x": "밤부랩 프린터 API로 프린터를 로컬에서 제어할 수 있지만, 버거는 후속 글에서 그러면 모바일 앱이 멈춰 버린다고 했다. 그래서 PC에 웹서버를 급히 하나 띄우고 GPT-6 Astra를 붙여 메타 퀘스트 3 헤드셋과 모바일 앱, 프린터가 서로 말을 주고받게 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "공개 계획은 아직 유동적이다. 그는 X에 \"아직 깃허브에 올리지 않았고, 관심이 충분하면 생각해 보겠다\"며 배포할 만큼 다듬으려면 손이 더 필요하다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "버거는 최근 몇 주 사이 AI를 낀 실험을 여럿 공개했다. 루이지 맨션과 대난투 스매시브라더스 DX를 비공식으로 VR에 옮긴 작업이 그중에 있다. 스매시브라더스 쪽은 'AI 가속' 디컴파일 결과물을 바탕으로 삼았고, 루이지 맨션은 그렇지 않다. Astra가 에뮬레이터 설치와 롬 수정을 거들었다는 설명이다. 그는 디컴파일이 길고 고된 작업이라 AI 구독 사용량을 태워 없앤다는 점도 짚었다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-dlss5-uncanny",
-      "eyebrow": "AI NEWS",
-      "headline": "DLSS 5 뉴럴 렌더링으로\n옛 게임을 실시간 리마스터",
-      "body": "개인 프로젝트 UNCANNY가 DLSS 5 뉴럴 렌더링을 얹어 구작과 신작을 실시간으로 손본다.",
-      "mini_headline": "뉴럴 렌더링의 리마스터",
-      "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -153,41 +121,112 @@
         "blocks": [
           {
             "t": "p",
-            "x": "엔비디아 DLSS 5의 뉴럴 렌더링은 게임마다 결과가 들쭉날쭉해 반대도 많다. 킹덤 컴: 딜리버런스 시리즈의 디렉터 다니엘 바브라처럼 꾸준히 호평하는 개발자도 있고, AMD 역시 자체 뉴럴 렌더링을 준비 중이라고 전해진다. 그 기술이 UNCANNY라는 실시간 뉴럴 리마스터링 엔진을 굴리기 시작했다."
+            "x": "Ramen이 Aura 1.0을 내놨다. Unity와 Unreal Engine으로 게임을 만드는 개발자를 겨냥한 AI 개발 에이전트다."
           },
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/UNCANNY-Spider-Man-NVIDIA-DLSS-5-scaled.jpg",
-            "cap": "마블 스파이더맨 같은 최신 게임에서도 가능성을 보이는 UNCANNY (출처: Wccftech)"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/09/image001-1.jpg",
+            "cap": "AI 에이전트로 게임을 만드는 Aura 1.0. 출처: Ramen"
           },
           {
             "t": "p",
-            "x": "제작자 imissanyway는 GameUpscale 서브레딧에 프로젝트를 소개했다. 게임마다 따로 리마스터 모드를 만드는 대신, PC 게임과 에뮬레이터에 끼워 넣어 리마스터링 과정을 실시간으로 처리하는 런타임 하나를 두자는 발상이다."
+            "x": "이번 버전에 새로 짠 인터페이스, Verification Agent, 빨라진 Blueprint 생성, 대화와 프로젝트를 넘어 이어지는 기억, 멀티 프로젝트 지원, Auto 모드 무제한 사용이 들어갔다. 가격은 베타 때보다 내렸고 Mac 지원과 Fab 스토어 출시가 붙었다."
           },
           {
             "t": "p",
-            "x": "이미 PCSX2 플레이스테이션 2 에뮬레이터와 최신 PC 게임에서 돌아간다. 1 / 1.5 / 2 / 2.5 / 3 패스 모드를 갖춘 자체 재구성 파이프라인, 모션과 고스팅 보호, DLSS 5 뉴럴 렌더링 연동, 에셋 재구성을 노린 실험적 시스템 REVENANT가 들어 있다. 같은 DLSS 패스를 계속 겹쳐 쌓지 않고 첫 패스가 대부분을 끝낸 뒤 이후 패스가 이어받아 다듬는 방식이다."
+            "x": "Ramen의 CEO Andy Tsen은 베타 7개월 동안 Ironmace, Sinn Studio 같은 디자인 파트너와 커뮤니티에 붙어 작업했다고 밝혔다. 프로 게임 개발자에게 가장 강력하고 저렴하고 접근하기 쉬운 에이전트라는 게 그의 표현이다. 지난 1년간 15번을 고쳐 내놓은 끝에 1.0을 붙였다."
           },
           {
             "t": "p",
-            "x": "아직 초기 알파다. 구형 다이렉트X 게임 호환성, 전 구간에서 뉴럴 렌더링의 일관성 같은 문제가 남아 있다. 그럼에도 공개된 비교 스크린샷은 눈에 띈다. 마블 스파이더맨처럼 사실적인 게임이 가장 크게 덕을 보고, 007 위기일발은 얼굴 디테일이, BLACK은 실내로 들어오는 빛줄기가 좋아졌다."
+            "x": "Aura 1.0은 Anthropic의 Claude 위에서 돈다. 개발 내내 Anthropic의 Applied AI 엔지니어들과 함께 게임을 직접 플레이테스트하는 인엔진 검증 에이전트를 파고들었다."
           },
           {
             "t": "p",
-            "x": "제작자는 공개와 함께 첫 테스트 빌드를 내놓았다. 깃허브에서 받을 수 있다."
+            "x": "그 Verification Agent는 개발자가 컨트롤러를 잡지 않아도 혼자 플레이테스트를 돌린다. 출시 때보다 8배 빨라져 테스트 케이스 하나가 1분 안에 끝나고, 세 건을 동시에 본다. 예전에는 2~3분씩 한 건씩이었다. Blueprint 생성도 Auto 모드에서 2배 빨라져 건당 3분, 베타의 6분에서 줄었다."
+          },
+          {
+            "t": "p",
+            "x": "현장 사례는 Ironmace다. 플레이어 2,000만 명을 넘긴 Dark and Darker를 만든 곳인데, Blueprint를 자동으로 만들고 검증해 기술직이 아닌 디자이너가 새 튜토리얼의 일부를 절반의 시간에 직접 붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/06/aura-pricing-1024x458.jpg",
+            "cap": "Aura 가격표. 출처: Ramen"
+          },
+          {
+            "t": "p",
+            "x": "가격은 세 단계다. 인디 티어 월 10달러, 프로 월 40달러, 얼티밋 월 200달러. Fab 스토어에서는 선불 150달러에 MCP 평생 사용권과 1년 구독이 붙는다."
+          },
+          {
+            "t": "p",
+            "x": "Tsen은 AI를 향한 반발이 6월보다는 덜 날카로워졌다고 봤다. 논쟁은 여전하지만 예전만큼 이분법적이지는 않다는 것. 아트와 사운드, 글쓰기 쪽은 반발이 크고 코딩이나 게임플레이 시스템, 라이브옵스 이야기에는 다들 별말이 없다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "슬롭을 이길 생각은 없다고도 했다. 슬롭은 계속 남을 테고, 진짜 재능과 아이디어를 가진 사람은 그 도구로 자기 기량을 끌어올린다는 쪽이다."
           }
         ]
       }
     },
     {
-      "id": "games-ps5-linux-quit",
+      "id": "games-cesa-genai",
       "eyebrow": "AI NEWS",
-      "headline": "AI 슬롭에 밀려 PS5 리눅스\n개발자가 프로젝트를 떠났다",
-      "body": "PS5 리눅스를 이끌던 앤디 응우옌이 LLM에 기댄 기여자들에 지쳐 작업을 모두 접는다.",
-      "mini_headline": "떠나는 메인테이너",
+      "headline": "생성형 AI 쓰는 일본 게임 개발자\n1년 만에 51%에서 85.8%로",
+      "body": "CESA 조사에서 일본 게임 개발자 85.8%가 생성형 AI를 쓴다고 답했다.",
+      "mini_headline": "일본 개발자 85%",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+      "source": "AUTOMATON West",
+      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "일본컴퓨터엔터테인먼트협회(CESA)가 자신들이 주최하는 도쿄 게임쇼 2026에서 올해 CESA 게임 산업 리포트의 미리보기를 공개했다. 국내 게임 산업을 훑은 여러 수치 가운데 눈에 띄는 대목은 일본 게임 개발자의 85.8%가 지금 생성형 AI를 쓴다는 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72691-header.jpg",
+            "cap": "2026년 CESA 게임 산업 리포트 미리보기. 출처: AUTOMATON WEST"
+          },
+          {
+            "t": "p",
+            "x": "쓴다고 답한 개발자 중 63%는 매일 쓴다고 했고, 나머지 22.8%는 가끔 쓴다고 답했다. 電ファミニコゲーマー(Denfaminicogamer)를 통해 전해진 수치다."
+          },
+          {
+            "t": "p",
+            "x": "조사 대상은 게임 개발자와 CESA 회원사다. 회원사 명단에는 Capcom, Sega, Level-5, Konami 같은 이름이 줄줄이 올라 있다."
+          },
+          {
+            "t": "p",
+            "x": "미리보기는 생성형 AI를 어디에 가장 많이 쓰는지는 밝히지 않았다. 대신 개발자들이 기대하는 이점으로 \"업무 효율과 생산성 향상\"이 가장 많이 꼽혔고, \"개발 주기 단축\"과 \"개발·운영 비용 절감\"이 뒤를 이었다."
+          },
+          {
+            "t": "p",
+            "x": "안전장치를 묻는 항목에서 가장 많이 나온 답은 \"사람이 검증하고 수정하고 감수한다\"였다. 쓰는 도구를 지정하거나 제한하고, 생성된 결과물을 그대로 쓰지 않는다는 답도 많았다."
+          },
+          {
+            "t": "p",
+            "x": "작년 CESA 리포트에서 회원사와 개발자의 생성형 AI 사용률은 51%로 추정됐다. 그때 가장 흔한 용도는 비주얼 에셋과 이미지 생성, 다음이 스토리와 텍스트 생성, 그다음이 프로그래밍 지원이었다. 게임사의 32%는 자체 게임 엔진을 만드는 데도 AI의 손을 빌렸다."
+          },
+          {
+            "t": "p",
+            "x": "CESA 전무이사 Tsutomu Masuda는 새 통계를 두고 생성형 AI가 개발 현장에 넓고 꾸준히 자리 잡았음을 보여준다고 말했다. 다만 생성형 AI에서 불거지는 침해 우려는 기술을 계속 쓰는 업계가 풀어야 할 몫이라고 덧붙였다. 앞으로의 과제로는 새 기술의 가능성을 받아들이면서 지식재산권도 지키고, 그 위에서 사람 중심의 게임 개발의 질을 어떻게 끌어올릴지를 꼽았다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-amd-gi",
+      "eyebrow": "AI NEWS",
+      "headline": "AMD가 간접광을 프레임 단위로\n이미지 생성 모델에 맡긴다",
+      "body": "AMD 연구진이 간접광을 프레임마다 이미지 생성 모델에 맡기는 논문을 냈다.",
+      "mini_headline": "AI가 그리는 간접광",
+      "tool": "Games",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -195,24 +234,49 @@
         "blocks": [
           {
             "t": "p",
-            "x": "PS5 리눅스를 앞장서 만들던 앤디 응우옌이 프로젝트 전체를 내려놓는다. \"마음과 몇 달의 시간을 쏟아붓고\" 나서 내린 결정이다. 오픈소스 판에 몰려든 AI 바이브 코더들에 지쳤다고 그는 말한다."
+            "x": "AMD는 FSR Diamond로 Radeon 카드와 콘솔에 뉴럴 렌더링을 들이겠다고 했다. 그 조각이 하나 나왔다. 회사 기술진이 실시간 글로벌 일루미네이션을 이미지 생성으로 대체하는 논문을 냈다."
+          },
+          {
+            "t": "p",
+            "x": "제목은 \"Temporally stable generative illumination with a one-step diffusion model\". 확산 모델은 보통 노이즈 낀 이미지를 여러 단계에 걸쳐 다듬어 그림을 만든다. AMD 연구진이 쓴 모델은 디노이징 한 단계로 끝낸다. 장면에 이미 박혀 있는 디테일과 조명을 재료 삼아 새 프레임을 만드는데, 빠르게 돌리려면 이 선택이 중요하다."
+          },
+          {
+            "t": "p",
+            "x": "노리는 결과는 글로벌 일루미네이션처럼 보이는 그림이다. 물체에 튕긴 빛이 주변을 밝히는 그 간접광을, 패스 트레이싱 같은 무거운 계산 대신 이미지 생성으로 만들어 내겠다는 것."
+          },
+          {
+            "t": "p",
+            "x": "논문 저자 중 한 명인 SungYe Kim은 발표 영상에서 글로벌 일루미네이션을 이미지 생성 문제로 풀어 보려 했다고 말한다. 렌더링된 장면을 진짜처럼 보이게 하는 것도, 렌더링에서 가장 비싼 부분도 글로벌 일루미네이션이라는 설명이 뒤따른다."
+          },
+          {
+            "t": "p",
+            "x": "방식은 이렇다. 광원에서 곧장 물체로 떨어지는 직접광만 담긴 프레임을 조명 힌트로 Stable Diffusion 2.1 Turbo에 넣는다. 모델은 Blender Cycles로 렌더한 실내 장면 31,000프레임짜리 합성 데이터셋으로 학습했다. 장면마다 조명이 1개에서 30개, 물체는 움직인다. AMD Instinct MI210 GPU에서 이 데이터셋을 50번 돌렸다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
-            "cap": "PS5에서 돌아가던 리눅스 (출처: GamesRadar+)"
+            "src": "https://cdn.mos.cms.futurecdn.net/TnSCrdWn6ULAaq3rNBBqtG.jpg",
+            "cap": "이미지 출처: AMD"
           },
           {
             "t": "p",
-            "x": "2026년 3월, 그는 평범한 GTA 5 플레이 화면을 전혀 평범하지 않은 환경에서 돌리는 영상을 공개했다. \"PS5에 리눅스를 포팅해 스팀 머신으로 만들었다\"는 선언이었다. 이후 다른 모더들과 함께 PS5용 리눅스를 넓히고 시험하고 다듬어 왔다. PS5를 리눅스 PC로 바꾸는 길을 내는 것이 목표였다. 이제는 아니다."
+            "x": "생성이 지오메트리와 조명에서 벗어나지 않도록 희소 조명, 래디언스, 머티리얼, 지오메트리 신호를 함께 넣는다. 모델에 들어가는 프레임도 다른 디테일 말고 조명에만 집중하도록 미리 가공한다."
           },
           {
             "t": "p",
-            "x": "새 트위터 글에서 그는 PS5 씬에서 물러나며 PS5 리눅스 작업을 전부 멈춘다고 밝혔다. 홈브루 판이 검증도 이해도 없는 결과물을 들고 오는 사람들로 채워졌다는 것이다. \"예전엔 실력 있는 연구자들의 모임이었는데, 지금은 LLM으로 자기도 이해 못 하는 해킹 코드를 쓰는 초보들뿐\"이라고 그는 적었다."
+            "x": "프레임 사이 일관성은 TVAE라 부르는 시간축 VAE가 맡는다. 모션 벡터로 현재 프레임을 앞 프레임에 맞추고 이전 출력 이력을 쌓아 조명이 깜빡이거나 튀지 않게 잡는다. 같은 작업을 반복시키면 매번 조금씩 다른 결과를 내놓는 모델의 습성을 실시간에서는 사람이 곧바로 알아채기 때문이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/VxcVpoC7bPUL6kTHcBkQYM.jpg",
+            "cap": "이미지 출처: AMD"
           },
           {
             "t": "p",
-            "x": "결정타는 따로 있었다. 응우옌이 예전에 찾아 두었던 마지막 하이퍼바이저 버그를 '슬롭 키디'들이 발견해 소니에 신고하기로 한 것이다. 그는 최소한 GTA 6가 나올 때까지는 기다려 달라고 부탁했다. 사람들이 게임을 정식으로 사고 리눅스도 함께 즐길 기회를 갖도록 하자는 뜻이었다. \"기다리겠다고 해놓고, 하루도 지나지 않아 그냥 날려 버리기로 했다.\""
+            "x": "속도는 아직 갈 길이 멀다. 512x512 해상도에서 프레임당 0.29초, 초당 3.45프레임 남짓이다. 그것도 RTX 3090 기준이고 VRAM은 8~9GB를 먹는다. 게다가 이건 프레임 전체를 그리는 파이프라인이 아니라 글로벌 일루미네이션 단계 하나다."
+          },
+          {
+            "t": "p",
+            "x": "뉴럴 렌더링을 파는 건 Nvidia만이 아니다. 올해 초 AMD의 Jack Huynh가 발표한 FSR Diamond에 \"차세대 뉴럴 렌더링\"이 들어 있고 이번 연구가 거기 속한다. PC Gamer는 Nvidia의 DLSS 5 발표가 불러온 소동을 지켜본 AMD가 이 기술을 게이머에게 어떻게 내밀지가 관전 포인트라고 적었다."
           }
         ]
       }

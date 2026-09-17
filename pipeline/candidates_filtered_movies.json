@@ -1,103 +1,34 @@
 {
-  "date": "2026-09-17",
-  "window_hours": 336,
+  "date": "2026-09-18",
   "section": "movies",
+  "window_hours": 336,
   "items": [
     {
-      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
-      "source": "ProVideo Coalition",
+      "url": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-14T07:18:26-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
-      "excerpt": "At IBC 2026 Adobe debuted its Generative Media tool, which brings text-to-media AI generation directly into the Premiere Pro timeline, letting editors call Firefly and partner models like Veo, Kling, Runway and Luma without leaving the edit."
+      "published_iso": "2026-09-17T14:01:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/AI-in-Hollywood-Scripts.jpg?crop=0px%2C235px%2C1200px%2C676px&resize=1000%2C563",
+      "excerpt": "Variety takes a look at how 10 companies are taming the AI beast with specific use cases.",
+      "headline": "The Old & New Hollywood Guard Wielding AI’s Might"
     },
     {
-      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-strada-2-0-brings-distributed-media-and-connects-ai-workflows-across-the-world/",
-      "source": "ProVideo Coalition",
+      "url": "https://variety.com/2026/film/markets-festivals/weta-fx-kimball-thurston-netflix-busan-creative-asia-ai-panel-1236863937/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-14T09:36:41-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/strada-3.png",
-      "excerpt": "Strada 2.0 and Strada Connect stitch distributed media libraries together and route AI workflows across globally scattered post teams, a peer-to-peer answer to where footage and models actually live."
+      "published_iso": "2026-09-16T07:17:44+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Possible-Love1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Weta FX's Kimball Thurston joins Netflix and BIFF's Creative Asia AI panel in Busan, alongside a masterclass on 'Possible Love.'",
+      "headline": "Peter Jackson’s Weta FX to Talk AI as Netflix’s Creative Asia Spotlights ‘Possible Love’ in Busan"
     },
     {
-      "url": "https://postperspective.com/jim-camerons-lightstorm-vision-buys-outsyders-for-3d-ai-pipeline/",
-      "source": "postPerspective",
+      "url": "https://variety.com/2026/tv/news/media-execs-hollywood-trends-variety-ent-tech-summit-1236865590/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-16T16:21:07+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/James-Cameron-and-team-1.jpeg",
-      "excerpt": "James Cameron's Lightstorm Vision has acquired Outsyders, whose AI-driven stereoscopic conversion pipeline delivered 3D versions of Lilo & Stitch and IMAX's Blue Angels, folding machine-assisted 2D-to-3D into an in-house production stack."
-    },
-    {
-      "url": "https://postperspective.com/ibc-report-keeping-an-eye-on-whats-new-from-adobe-bmd-and-more/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-09-15T14:58:09+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/adobe.jpg",
-      "excerpt": "A post-production reporter's walkthrough of IBC 2026, weighing the AI features Adobe, Blackmagic and others shipped against what editors and colorists will actually adopt."
-    },
-    {
-      "url": "https://postperspective.com/colorfront-auto-timeline-comparison-dolby-vision-2-mastering-more-at-ibc/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-09-15T19:46:43+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Colofront-Composition-Comparison-Engine-copy.jpg",
-      "excerpt": "Colorfront brought an automated timeline comparison engine and Dolby Vision 2 mastering to IBC, automating the version-checking drudgery that eats mastering hours."
-    },
-    {
-      "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-09-14T12:52:54+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
-      "excerpt": "At IBC, Blackmagic drew a deliberate line: DaVinci Resolve's AI stays an assistant that organizes media and drives batch renders, not a generator that makes creative decisions for the editor."
-    },
-    {
-      "url": "https://www.redsharknews.com/adobe-premiere-ibc2026-video",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-09-16T15:52:03+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc2026%20video%20adobe%20premiere.jpg",
-      "excerpt": "A show-floor video walkthrough of Adobe's IBC2026 Premiere stand, covering the new AI object masking and generative media features editors will meet in the next release."
-    },
-    {
-      "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
-      "source": "RedShark News",
-      "category": "movies",
-      "published_iso": "2026-09-12T16:47:04+00:00",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc%20adobe%20stand%202.jpg",
-      "excerpt": "Adobe explains Premiere's new AI tools in its own words — what the Object Mask model actually does to tracking and masking, and where the company drew the line on generation."
-    },
-    {
-      "url": "https://nofilmschool.com/adobe-premiere-elements-2027",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-09-16T21:40:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67781924&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Adobe's Photoshop Elements and Premiere Elements 2027 push AI-powered editing down to the consumer tier, a useful read on which pro features get commoditized first."
-    },
-    {
-      "url": "https://nofilmschool.com/creative-provenance-ai",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-09-15T20:25:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=34052055&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "excerpt": "You don't have to use AI in your film — but proving you didn't is becoming its own production task, as provenance metadata and C2PA-style credentials move into the filmmaking workflow."
-    },
-    {
-      "url": "https://www.awn.com/news/pitch-black-rolls-out-revize-machine-learning-across-its-global-studios",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-09-11T11:22:14-07:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/logo_black_-_revize-1280.jpg?itok=CpaBSEqQ",
-      "excerpt": "Pitch Black is rolling REVIZE, Rising Sun's face- and body-replacement machine learning toolset, across all of its global studios — a sign ML replacement work is becoming standard pipeline rather than a one-off."
-    },
-    {
-      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217346/",
-      "source": "IndieWire",
-      "category": "movies",
-      "published_iso": "2026-09-15T20:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
-      "excerpt": "'About a Hero,' a partly AI-generated docu-mystery narrated by a synthetic Werner Herzog voice, debuts its trailer — a test case for what a machine-authored documentary voice actually sounds like."
+      "published_iso": "2026-09-17T17:55:25+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Trailblazers-of-the-Content-Variety-Ent-and-Tech-2026.jpg?w=1000&h=563&crop=1",
+      "excerpt": "A panel of execs from Hulu and ABC, NBCU, WBTV, Blumhouse and Crunchyroll kicked off the Variety Entertainment & Technology Summit presented by EY.",
+      "headline": "Top Media Execs Break Down How to Super-Serve Audiences, the Real Threat of ‘AI Slop’ and More at Variety Entertainment & Technology Summit"
     },
     {
       "url": "https://www.hollywoodreporter.com/business/digital/generative-ai-tools-1236702155/",
@@ -105,28 +36,130 @@
       "category": "movies",
       "published_iso": "2026-09-15T23:14:43+00:00",
       "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Coco-Mao-photo.jpg?w=1296&h=730&crop=1",
-      "excerpt": "Open Art CEO Coco Mao argues generative tools won't replace live film production yet, mapping where AI genuinely speeds a shoot and where physical production still wins."
+      "excerpt": "Coco Mao, CEO of Open Art, appeared Tuesday at the Access Canada Summit, powered by The Hollywood Reporter.",
+      "headline": "Gen AI Founder: Tools Won’t Replace Live Film Production – Yet"
     },
     {
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "source": "The Verge",
+      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
+      "source": "The Hollywood Reporter",
       "category": "movies",
-      "published_iso": "2026-09-16T20:59:13+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&strip=all&crop=3.9791086350975%2C0%2C92.041782729805%2C100&w=1200",
-      "excerpt": "A full-length AI-generated Odyssey lands in front of critics, and the review is a concrete inventory of where generative video still breaks down across 2.5 hours of continuity, performance and pacing."
+      "published_iso": "2026-09-15T14:27:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/1-1-EMBED-2026.jpg?w=1000&h=667&crop=1",
+      "excerpt": "The future of premium mobile storytelling was discussed at Access Canada Summit powered by The Hollywood Reporter on Tuesday.",
+      "headline": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries"
     },
     {
-      "url": "https://variety.com/2026/tv/news/ai-filmmaking-debated-alibaba-sonilo-promptr-venice-panel-1236853154/",
-      "source": "Variety",
+      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
+      "source": "IndieWire",
       "category": "movies",
-      "published_iso": "2026-09-07T05:30:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Venice-Dogme.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Executives from Alibaba, Sonilo and PROMPTR debate AI filmmaking at Venice's Production Bridge, including an AI-directed series whose scoring time dropped from ten hours to twenty seconds."
+      "published_iso": "2026-09-15T20:00:00+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
+      "excerpt": "'About a Hero,' a partly AI generated docu-mystery featuring a synthetic Werner Herzog, debuts official trailer.",
+      "headline": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch"
+    },
+    {
+      "url": "https://nofilmschool.com/adobe-premiere-elements-2027",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-09-16T21:40:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67781924&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "excerpt": "Let’s take a look at Adobe's new Photoshop Elements and Premiere Elements 2027, tools designed to enhance photos and personalize videos.",
+      "headline": "Adobe Unveils Photoshop Elements and Premiere Elements 2027 With New AI-Powered Capabilities"
+    },
+    {
+      "url": "https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-from-ibc-2026/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-09-14T15:08:56-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Screenshot-2026-09-14-at-3.06.32-PM.png",
+      "excerpt": "After a few packed days walking the halls of IBC 2026, we saw everything from major advances in broadcast infrastructure to filmmaking tools small enough to fit in your pocket. The products that impressed us most weren’t simply chasing bigger numbers, they solved real problems for filmmakers, editors, and production teams. These are ProVideo Coalition’s [...]<p><a class=\"btn btn-secondary understrap-read-more-link\" href=\"https://www.provideocoalition.com/provideo-coalitions-best-in-show-winners-from-ibc-2026/\">Read More...<span class=\"screen-reader-text\"> from ProVideo Coalition’s Best in Show Winners from IBC 2026</span></a></p>",
+      "headline": "ProVideo Coalition’s Best in Show Winners from IBC 2026"
+    },
+    {
+      "url": "https://postperspective.com/ibc-report-keeping-an-eye-on-whats-new-from-adobe-bmd-and-more/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-09-15T14:58:09+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/adobe.jpg",
+      "excerpt": "This year’s IBC conference just concluded. Unlike my trips to Vegas for NAB I have never been able to make the trip to The Netherlands.",
+      "headline": "IBC Report: Keeping an Eye on What’s New From Adobe, BMD and More"
+    },
+    {
+      "url": "https://www.animationmagazine.net/2026/09/utopais-the-most-serious-fart-adaptation-recruits-simpsons-casting-director-coyote-vs-acme-story-artist/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-09-17T20:09:15+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Most-Serious-Fart-cover-featured.jpg",
+      "excerpt": "Casting director Scott Muller and story artist Andy Brooks have joined the team of 'The Most Serious Fart' animated feature adaptation.",
+      "headline": "Utopai's 'The Most Serious Fart' Adaptation Recruits 'Simpsons' Casting Director, 'Coyote vs. Acme' Story Artist"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-09-10T10:54:01+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg",
+      "excerpt": "Plus, how the creatures were designed for the film.",
+      "headline": "The director of ‘HOPE’ breaks down those insane chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender - befores & afters"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
+      "source": "Theoretically Media",
+      "category": "movies",
+      "published_iso": "2026-09-17T07:20:28-07:00",
+      "og_image": "https://i.ytimg.com/vi/WKO-YgMQhLI/maxresdefault.jpg",
+      "excerpt": "The full cinematic AI film workflow: GPT-6 (Astra) in Codex running Runway and Seedance 2.5, then DaVinci Resolve.  That's the actual AI filmmaking pipeline I used to remake one of my first AI films in about a day and",
+      "headline": "This Cinematic AI Film Workflow Changes Everything"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f8FHas1dmt8",
+      "source": "Theoretically Media",
+      "category": "movies",
+      "published_iso": "2026-09-14T09:51:33-07:00",
+      "og_image": "https://i.ytimg.com/vi/f8FHas1dmt8/maxresdefault.jpg",
+      "excerpt": "THE BRIDGE is a dark fantasy AI short film made with Seedance 2.5 and GPT Image 2, with a healthy assist from Astra (OpenAI GPT-6).  This is a complete remake of my 2025 short film, originally created with Veo 2. The n",
+      "headline": "The Most Epic AI Short Film You'll See Today (Seedance 2.5 & Astra)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_fSIhcZqm2g",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-09-15T12:49:43-07:00",
+      "og_image": "https://i.ytimg.com/vi/_fSIhcZqm2g/maxresdefault.jpg",
+      "excerpt": "In this video, we put OpenAI Astra through real video editing workflows, and the results were pretty wild.  Check out the full written breakdown here: https://curiousrefuge.com/blog/openai-astra-video-editing  Check",
+      "headline": "Video Editing Is About to Change Forever"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
+      "source": "Runway",
+      "category": "movies",
+      "published_iso": "2026-09-14T10:17:17-07:00",
+      "og_image": "https://i.ytimg.com/vi/swx780Vy_OQ/maxresdefault.jpg",
+      "excerpt": "Access the prompts and Claude skill: https://runway.com/prompts/a-game-of-horse  Learn how the Game of Horse video was made, with a full breakdown of the exact techniques behind it. We cover the storytelling fundamenta",
+      "headline": "Consistent AI Characters, Voices and Scenes (Advanced Workflow)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gkuRNUkYbJA",
+      "source": "Runway",
+      "category": "movies",
+      "published_iso": "2026-09-08T14:37:30-07:00",
+      "og_image": "https://i.ytimg.com/vi/gkuRNUkYbJA/maxresdefault.jpg",
+      "excerpt": "Get started: https://runway.com/plugins  Generate, edit and extend footage with Runway's models directly inside Premiere Pro and After Effects. No exports, no round trips. Your timeline stays your timeline.",
+      "headline": "Runway is now in Adobe"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pEYqorQrc4U",
+      "source": "Curious Refuge",
+      "category": "movies",
+      "published_iso": "2026-09-11T13:50:35-07:00",
+      "og_image": "https://i.ytimg.com/vi/pEYqorQrc4U/maxresdefault.jpg",
+      "excerpt": "In this video, we’ll give a honest review of GPT Image 2.5 against the leading AI image models today. Check out the full written breakdown here: https://curiousrefuge.com/blog/open-ai-gpt-image-model-review  Check out",
+      "headline": "OpenAI’s New Image Model Is Brilliant… Until You Look Closer"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 15,
+    "kept": 17,
     "against_days": 5
   }
 }
