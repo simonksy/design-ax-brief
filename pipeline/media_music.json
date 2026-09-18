@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "music",
+  "generated_by": "ax-media",
   "media": [
     {
-      "id": "music-nova",
-      "type": "image",
-      "src": "pipeline/media/music-nova.jpg"
-    },
-    {
-      "id": "music-suno-v6",
-      "type": "image",
-      "src": "pipeline/media/music-suno-v6.jpg"
-    },
-    {
-      "id": "music-submithub",
-      "type": "image",
-      "src": "pipeline/media/music-submithub.jpg"
-    },
-    {
-      "id": "music-dx7-ai",
-      "type": "image",
-      "src": "pipeline/media/music-dx7-ai.jpg"
-    },
-    {
-      "id": "music-ssl-4k",
+      "id": "music-playhead",
       "type": "video",
-      "src": "pipeline/media/music-ssl-4k.mp4",
-      "poster": "pipeline/media/music-ssl-4k.jpg"
+      "src": "pipeline/media/music-playhead.mp4",
+      "poster": "pipeline/media/music-playhead.jpg"
+    },
+    {
+      "id": "music-bandlab-mastering",
+      "type": "image",
+      "src": "pipeline/media/music-bandlab-mastering.jpg"
+    },
+    {
+      "id": "music-two-legs-five-arms",
+      "type": "image",
+      "src": "pipeline/media/music-two-legs-five-arms.jpg"
+    },
+    {
+      "id": "music-harmonykeen",
+      "type": "image",
+      "src": "pipeline/media/music-harmonykeen.jpg"
+    },
+    {
+      "id": "music-sound-alliance",
+      "type": "image",
+      "src": "pipeline/media/music-sound-alliance.png"
     }
   ]
 }

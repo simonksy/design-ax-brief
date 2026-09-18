@@ -1,67 +1,66 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "design",
   "picks": [
     {
-      "url": "https://develop3d.com/cad/backflip-converse-2d-engineering-drawings-directly-into-cad/",
-      "source": "DEVELOP3D",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "AI가 2D 도면을 편집 가능한 피처 트리를 가진 파라메트릭 3D 모델로 되돌려, 레거시 도면 재모델링 작업을 당장 바꾼다.",
-      "published_iso": "2026-09-17T14:47:35+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Backflip-2d-drawings-fusion.jpg",
-      "excerpt": "Backflip has launched 2D Drawing to CAD, an AI tool that turns 2D drawings into parametric 3D models with native, editable feature trees",
-      "headline": "Backflip now converts 2D engineering drawings directly into CAD"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "source": "The Verge",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "클로드 코드가 프로젝트를 되살려 여러 에이전트를 클라우드 한자리에서 굴린다. 디자이너의 에이전트 운용 방식이 바로 바뀌는 업데이트.",
-      "published_iso": "2026-09-17T18:58:05+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "Claude Code can run teams of AI agents in one spot now.",
-      "headline": "Claude Code relaunches Projects to manage multiple AI agents in the cloud"
-    },
-    {
-      "url": "https://www.builder.io/blog/de-slop-ai-generated-codebase",
-      "source": "Builder.io",
-      "headline": "How to De-Slop an AI-Generated Codebase",
-      "tool": "AI Workflow",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "AI가 뱉어낸 코드베이스의 품질을 린트 규칙·아키텍처 정리·행동 기반 검증으로 되돌리는 실무 절차. 디자인 엔지니어링 조직이 내일 바로 적용할 수 있다.",
-      "published_iso": "2026-09-16T18:00:00.000Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/f910f584513b4564a0cd00c975630532?width=1200",
-      "excerpt": "Learn how to de-slop AI-generated codebases with lint rules, architectural fixes, and behavior-driven checks that improve real software quality overall.",
-      "category": "workflow"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-      "source": "NVIDIA Developer Blog",
+      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+      "source": "80 Level",
+      "headline": "Blender 5.3 is getting native 3D Gaussian splat support",
       "tool": "KeyShot",
-      "accent": "#3b6bff",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "에이전트가 OpenUSD 씬을 검사하고 물리 속성까지 채워 시뮬레이션용으로 다듬는 실제 절차를 공개했다. 3D 씬 준비 노동이 줄어든다.",
-      "published_iso": "2026-09-16T23:20:33+00:00",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx.webp",
-      "excerpt": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in OpenUSD, add physics properties…",
-      "headline": "How to Use AI Agents to Prepare 3D Scenes for Simulation"
+      "rationale": "무료 표준 3D 툴이 3DGS를 네이티브로 먹는다는 건, 애드온·외부 뷰어 없이 스플랫을 바로 씬에 얹는 워크플로가 내일부터 가능해진다는 뜻이다.",
+      "published_iso": "2026-09-18T12:39:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50269/images/6aad30fbe5adf/contain_1200x630.jpg",
+      "excerpt": "This is not a drill."
     },
     {
-      "url": "https://www.creativebloq.com/design/design-software/why-canva-hit-the-brakes-on-its-huge-ai-rollout-and-what-other-brands-can-learn-from-it",
-      "source": "Creative Bloq",
+      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
+      "source": "UploadVR",
+      "headline": "visionOS 27 launched for Apple Vision Pro headsets, bringing Siri AI and more",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "공간 UI를 만드는 사람에게 플랫폼 메이저 업데이트는 곧 디자인 가이드 변경이다. Siri AI 통합으로 음성·공간 인터랙션 설계 기준이 다시 잡힌다.",
+      "published_iso": "2026-09-18T02:20:37+00:00",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg",
+      "excerpt": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features & improvements."
+    },
+    {
+      "url": "https://vercel.com/changelog/webmcp-mcp-handler",
+      "source": "Vercel",
+      "headline": "WebMCP support now available in mcp-handler",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "캔바 공동창업자가 대형 AI 롤아웃을 멈춘 이유를 말한다. AI 기능을 언제 내보낼지 판단하는 제품 디자이너에게 바로 쓰이는 기준.",
-      "published_iso": "2026-09-17T06:44:33Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-1920-80.jpg",
-      "excerpt": "Canva co-founder Cameron Adams on why brands should look beyond the biggest AI models.",
-      "headline": "Why Canva hit the brakes on its new AI features"
+      "rationale": "웹 앱의 UI 액션을 그대로 에이전트가 호출할 수 있는 도구로 노출한다. 화면을 넘어 '에이전트가 쓰는 인터페이스'를 설계해야 하는 실질적 시작점.",
+      "published_iso": "2026-09-18T18:00:00+00:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1wrmQM9L89OzdOeYDnamED/87d05274eb7a09b0950980b9bfde89cd/image.png",
+      "excerpt": "Vercel's mcp-handler now supports WebMCP, letting a web app expose its own UI actions as MCP tools an agent can call directly in the browser."
+    },
+    {
+      "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
+      "source": "Engineering.com",
+      "headline": "Vectorworks 2027 adds tools for connected design workflows",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Revit 패밀리와 Dynamic Block을 살아 있는 객체로 받아들인다. 이종 CAD 사이에서 파일을 굽지 않고 자산을 주고받는 실무 경로가 열렸다.",
+      "published_iso": "2026-09-17T13:08:28+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Vectorworks-2027-adds-tools-for-connected-design-workflows-1024x576.png",
+      "excerpt": "The Exchange hub supports sharing resources while Revit Families and Dynamic Blocks can enter projects as dynamic objects."
+    },
+    {
+      "url": "https://www.fastcompany.com/91609674/think-you-can-spot-an-ai-generated-ad-83-of-consumers-got-it-wrong",
+      "source": "Fast Company",
+      "headline": "Think you can spot an AI-generated ad? 83% of consumers got it wrong",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "소비자 83%가 AI 광고를 골라내지 못했다는 수치는 '티 나니까 안 쓴다'는 전제를 무너뜨린다. 크리에이티브 팀의 표기·품질 기준을 다시 짜야 할 근거.",
+      "published_iso": "2026-09-18T19:45:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609674-ai-generated-ad-consumers.jpg",
+      "excerpt": "An advertising company challenged consumers to pick the AI-generated ad out of a lineup; 83% got it wrong, raising hard questions for creative teams."
     }
   ]
 }

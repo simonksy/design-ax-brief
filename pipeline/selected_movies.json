@@ -1,66 +1,69 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "movies",
   "picks": [
     {
-      "url": "https://www.youtube.com/watch?v=gkuRNUkYbJA",
-      "source": "Runway",
+      "headline": "애프터이펙트 AI 어시스턴트, 공개 베타 진입 — 프로젝트 전체를 읽고 표현식·리깅까지 손본다",
+      "url": "https://www.redsharknews.com/after-effects-ai-assistant-ibc2026",
+      "source": "RedShark News",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Runway's models now run natively inside Premiere Pro and After Effects — generate, edit and extend on the timeline with no exports or round trips, the single biggest change to a working editor's day in this pool.",
-      "published_iso": "2026-09-08T14:37:30-07:00",
-      "og_image": "https://i.ytimg.com/vi/gkuRNUkYbJA/maxresdefault.jpg",
-      "excerpt": "Get started: https://runway.com/plugins  Generate, edit and extend footage with Runway's models directly inside Premiere Pro and After Effects. No exports, no round trips. Your timeline stays your timeline.",
-      "headline": "Runway is now in Adobe"
+      "rationale": "모션그래픽 작업자가 당장 써볼 수 있는 실물 베타다. 프로젝트 전체를 읽어 파일 정리·표현식 작성·깨진 리그 복구까지 맡는다는 점에서 내일의 작업 순서가 바뀐다.",
+      "published_iso": "2026-09-18T13:32:54Z",
+      "og_image": "https://www.redsharknews.com/hubfs/redshark%20ibc2026%20after%20effects%202.jpg",
+      "excerpt": "Adobe's After Effects AI Assistant is now in open public beta: it reads an entire project to reorganize files, write expressions and repair broken animation rigs, demoed live at IBC2026."
     },
     {
-      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
-      "source": "Theoretically Media",
+      "url": "https://www.hollywoodreporter.com/business/digital/generative-ai-tools-1236702155/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "An end-to-end AI film pipeline shown in full — GPT-6 (Astra) in Codex orchestrating Runway and Seedance 2.5, finished in DaVinci Resolve — a short film remade in about a day, reproducible step by step.",
-      "published_iso": "2026-09-17T07:20:28-07:00",
-      "og_image": "https://i.ytimg.com/vi/WKO-YgMQhLI/maxresdefault.jpg",
-      "excerpt": "The full cinematic AI film workflow: GPT-6 (Astra) in Codex running Runway and Seedance 2.5, then DaVinci Resolve.  That's the actual AI filmmaking pipeline I used to remake one of my first AI films in about a day and",
-      "headline": "This Cinematic AI Film Workflow Changes Everything"
+      "rationale": "생성형 AI가 실사 촬영을 대체하는 게 아니라 어느 공정에 붙는지를, 도구를 만드는 쪽이 직접 선을 그어 설명한다. 프로덕션 워크플로 안에서 AI의 현재 위치를 잡는 데 쓸모가 있다.",
+      "published_iso": "2026-09-15T23:14:43Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Coco-Mao-photo.jpg",
+      "excerpt": "OpenArt CEO Coco Mao told the Access Canada Summit that generative tools are still complements to live-action shooting, mapping where AI actually lands in a production workflow today.",
+      "headline": "Gen AI Founder: Tools Won’t Replace Live Film Production – Yet"
     },
     {
-      "url": "https://nofilmschool.com/adobe-premiere-elements-2027",
-      "source": "No Film School",
+      "headline": "블랙매직은 왜 다빈치 리졸브의 AI를 '조수' 선에서 멈춰 세웠나",
+      "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
+      "source": "RedShark News",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Adobe's perpetual-license Elements line gets its 2027 release with new AI photo and video capabilities — the cheap, no-subscription entry point for filmmakers who never touch the Creative Cloud tier.",
-      "published_iso": "2026-09-16T21:40:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67781924&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
-      "excerpt": "Let’s take a look at Adobe's new Photoshop Elements and Premiere Elements 2027, tools designed to enhance photos and personalize videos.",
-      "headline": "Adobe Unveils Photoshop Elements and Premiere Elements 2027 With New AI-Powered Capabilities"
+      "rationale": "리졸브 21.1의 AI가 하이라이트 자동 편집 같은 잡무는 맡되 합성 음성·프레임 생성은 의도적으로 하지 않는다는 선 긋기. 편집 툴에서 '보조'와 '저작'의 경계를 어디에 둘지 판단 기준이 된다.",
+      "published_iso": "2026-09-14T14:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
+      "excerpt": "Blackmagic explains why Resolve 21.1's AI handles editorial chores like auto highlight reels but deliberately stops short of generating synthetic audio or frames — a stated line between assistance and authorship."
     },
     {
-      "url": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/",
-      "source": "Variety",
+      "headline": "런웨이가 공개한 'AI 캐스팅' 워크플로 — 한 얼굴을 시퀀스 내내 유지하는 법",
+      "url": "https://www.youtube.com/watch?v=ZK9NkUIqNZQ",
+      "source": "Runway (YouTube)",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Variety maps ten companies — Particle6, Higgsfield, Runway among them — against the specific production use cases each has actually landed, a buyer's-guide view of where AI has stuck in real pipelines.",
-      "published_iso": "2026-09-17T14:01:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/AI-in-Hollywood-Scripts.jpg?crop=0px%2C235px%2C1200px%2C676px&resize=1000%2C563",
-      "excerpt": "Variety takes a look at how 10 companies are taming the AI beast with specific use cases.",
-      "headline": "The Old & New Hollywood Guard Wielding AI’s Might"
+      "rationale": "생성 숏에서 가장 자주 깨지는 캐릭터 일관성을 '캐스팅'이라는 제작 언어로 정리한 실습 영상. 따라 하면 바로 적용 가능한 절차라 실무 난이도가 내려간다.",
+      "published_iso": "2026-09-18T16:49:23Z",
+      "og_image": "https://i.ytimg.com/vi/ZK9NkUIqNZQ/maxresdefault.jpg",
+      "excerpt": "Runway walks through building believable, consistent characters for generative shots — an AI 'casting' workflow aimed at filmmakers who need the same face to hold across a sequence."
     },
     {
-      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
-      "source": "IndieWire",
+      "headline": "AI 배우 틸리 노우드, 생방송 인터뷰 도중 광둥어로 튀었다",
+      "url": "https://deadline.com/2026/09/tilly-norwood-malfunctions-piers-morgan-interview-cantonese-1237107406/",
+      "source": "Deadline",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "The first trailer for a partly AI-generated docu-mystery narrated by a synthetic Werner Herzog — a concrete look at what a released, festival-bound generative documentary actually sounds and looks like.",
-      "published_iso": "2026-09-15T20:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
-      "excerpt": "'About a Hero,' a partly AI generated docu-mystery featuring a synthetic Werner Herzog, debuts official trailer.",
-      "headline": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch"
+      "rationale": "스튜디오에 팔리고 있는 합성 배우 기술의 실패 모드가 공개 석상에서 그대로 드러났다. 생성 캐릭터를 라이브·납품물에 쓸 때 어떤 안전장치가 필요한지 보여주는 사례다.",
+      "published_iso": "2026-09-18T14:23:39Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-14.50.34-e1789741014823.png",
+      "excerpt": "The AI 'actress' from Particle6 switched from English to Cantonese midway through a live Piers Morgan interview, a public failure mode for synthetic-performer tech being pitched to studios."
     }
+  ],
+  "notes": [
+    "cross-section collision: 80.lv Blender 5.3 gaussian-splat kept in design, replaced here with THR OpenArt piece"
   ]
 }

@@ -1,66 +1,100 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "games",
   "picks": [
     {
-      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/",
-      "source": "80 Level",
+      "headline": "Unity, Codex 공식 플러그인 공개 — 에이전트가 Unity 방식대로 작업한다",
+      "url": "https://unity.com/blog/unity-plugin-codex",
+      "source": "Unity",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A shipping tool that turns 3D scans into relightable PBR materials — changes the scan-to-asset pipeline for environment and prop artists tomorrow.",
-      "published_iso": "2026-09-17T15:28:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50253/images/6aac07302ae13/contain_1200x630.jpg",
-      "excerpt": "sigmaPBR turns captures into relightable materials.",
-      "headline": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans"
+      "published_iso": "2026-09-16T00:00:00Z",
+      "og_image": "https://unity.com/unity-logo-2024.png",
+      "excerpt": "Unity's official plugin for Codex is an official plugin that gives OpenAI's Codex Unity-written skills, so the agent works from Unity's own guidance for jobs like sprite atlases, URP renderer features, in-app purchases, and localization instead of from whatever it absorbed about Unity elsewhere.",
+      "rationale": "엔진 제작사가 직접 쓴 스킬을 에이전트에 주입하는 1차 소스 릴리스 — 스프라이트 아틀라스·URP·현지화 작업을 내일 당장 다르게 굴릴 수 있다."
     },
     {
-      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
-      "source": "Unity (YouTube)",
+      "headline": "언리얼 엔진 5.8의 MCP 시작하기 — AI 에이전트가 에디터를 직접 조작한다",
+      "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+      "source": "Unreal Engine (YouTube)",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Unity's first-party Codex plugin puts engine-aware skills inside OpenAI's agent — a concrete new entry point for agentic Unity work.",
-      "published_iso": "2026-09-16T08:53:23-07:00",
-      "og_image": "https://i.ytimg.com/vi/gy4HlUNn1lE/maxresdefault.jpg",
-      "excerpt": "We heard you loud and clear. Introducing the official Unity plugin for OpenAI's Codex - a first-party integration available now directly in OpenAI's universe.",
-      "headline": "Introducing the official Unity plugin for OpenAI Codex"
+      "published_iso": "2026-09-07T17:26:25+00:00",
+      "og_image": "https://i.ytimg.com/vi/k0tgmrBuIJc/maxresdefault.jpg",
+      "excerpt": "Epic walks through the Model Context Protocol in Unreal Engine 5.8, letting AI agents read and drive the editor as part of a production workflow.",
+      "rationale": "Epic가 직접 보여주는 MCP 실전 세팅 — 에이전트를 에디터 안으로 들이는 구체적 절차라 파이프라인 담당자가 바로 따라할 수 있다."
     },
     {
-      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/",
-      "source": "GamesBeat",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "A 1.0 launch of an agentic dev assistant that works inside both Unity and Unreal, with an interview covering what it actually automates.",
-      "published_iso": "2026-09-09T12:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/image001-1.jpg",
-      "excerpt": "Ramen announced today the launch of Aura 1.0, its AI development agent for game developers building on Unity and Unreal Engine.",
-      "headline": "Ramen launches Aura 1.0 to push agentic AI in game development | interview"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/",
-      "source": "AUTOMATON West",
+      "headline": "MetaHuman Animator, 마커 없는 영상만으로 얼굴 퍼포먼스를 캡처",
+      "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
+      "source": "Unreal Engine (YouTube)",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "CESA's 2026 numbers jump from 51% to 85% in a single year — the clearest hard data yet on how normal gen-AI has become in Japanese production.",
-      "published_iso": "2026-09-17T08:45:07+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72691-header.jpg",
-      "excerpt": "CESA is the organizer of Tokyo Game Show.",
-      "headline": "Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year's 51%"
+      "published_iso": "2026-09-10T20:29:23+00:00",
+      "og_image": "https://i.ytimg.com/vi/r_-fEi7fXLA/maxresdefault.jpg",
+      "excerpt": "Epic demos MetaHuman Animator capturing full facial performance from markerless video, turning an ordinary camera pass into game-ready character animation.",
+      "rationale": "일반 카메라 한 대로 게임용 표정 애니메이션을 뽑는 데모 — 소규모 팀의 캐릭터 연출 비용 구조를 바꾼다."
     },
     {
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-      "source": "PC Gamer",
+      "headline": "오카리나 오브 타임 PC 포팅 팀, 수년간 AI 사용 인정 — '바이브코딩 슬롭' 논란",
+      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+      "source": "Kotaku",
+      "tool": "Games",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "published_iso": "2026-09-17T22:00:44+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
+      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'",
+      "rationale": "'어느 버전부터 AI가 섞였는지 모른다'는 답변이 핵심 — AI 기여분을 기록하지 않은 코드베이스가 어떤 신뢰 비용을 치르는지 보여주는 사례."
+    },
+    {
+      "headline": "90년대 말 콘솔 슈터의 적 AI를 되살리다 — 똑똑함보다 가독성",
+      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+      "source": "80 Level",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "AMD's research hands indirect lighting to an image-generation model frame by frame — the shape of the next neural rendering fight after DLSS 5.",
-      "published_iso": "2026-09-17T13:45:27Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
-      "excerpt": "AMD presents a new method of handing indirect lighting off to an image generation model, a frame-by-frame approach that could become part of its answer to DLSS 5.",
-      "headline": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday"
+      "published_iso": "2026-09-15T14:19:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
+      "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat.",
+      "rationale": "적 AI를 '더 똑똑하게'가 아니라 '더 읽히게' 설계한 1인 개발자의 분해 — 전투 설계 판단 기준을 즉시 다시 잡게 만든다."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
+      "reason": "중복: automaton-media의 동일 CESA 조사 기사 2026-09-18 게재"
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "reason": "중복: GamesRadar 동일 판결 기사 2026-09-12 게재"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "reason": "중복: GamesIndustry.biz의 동일 Tim Willits 인터뷰 2026-09-14 게재"
+    },
+    {
+      "url": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
+      "reason": "중복: 80 Level의 Blizzard 노조 계약 기사 2026-09-12 게재"
+    },
+    {
+      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+      "reason": "Level-5 후속 클러스터 — TheGamer 기사와 동일 사안, 그리고 IGN 2026-09-13 기사와 중복"
+    },
+    {
+      "url": "https://www.thegamer.com/level-5-responds-ai-use-scale-back/",
+      "reason": "Level-5 클러스터 전체를 IGN 2026-09-13 게재분과 중복으로 판단해 제외"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "reason": "교차 섹션 중복: design 섹션에서 2026-09-18 게재"
+    },
+    {
+      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
+      "reason": "TheGamer의 Crazy Taxi World Tour AI 사안(2026-08-27)과 동일 토픽"
     }
   ]
 }

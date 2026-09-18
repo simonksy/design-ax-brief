@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "movies",
   "media": [
     {
-      "id": "movies-runway-adobe",
+      "id": "movies-ae-ai-assistant",
+      "type": "image",
+      "src": "pipeline/media/movies-ae-ai-assistant.jpg"
+    },
+    {
+      "id": "movies-openart-live-action",
+      "type": "image",
+      "src": "pipeline/media/movies-openart-live-action.jpg"
+    },
+    {
+      "id": "movies-resolve-ai-line",
+      "type": "image",
+      "src": "pipeline/media/movies-resolve-ai-line.jpg"
+    },
+    {
+      "id": "movies-runway-casting",
       "type": "video",
-      "src": "pipeline/media/movies-runway-adobe.mp4",
-      "poster": "pipeline/media/movies-runway-adobe.jpg"
+      "src": "pipeline/media/movies-runway-casting.mp4",
+      "poster": "pipeline/media/movies-runway-casting.jpg"
     },
     {
-      "id": "movies-ai-film-pipeline",
+      "id": "movies-tilly-norwood-malfunction",
       "type": "image",
-      "src": "pipeline/media/movies-ai-film-pipeline.jpg"
-    },
-    {
-      "id": "movies-adobe-elements-2027",
-      "type": "image",
-      "src": "pipeline/media/movies-adobe-elements-2027.jpg"
-    },
-    {
-      "id": "movies-variety-ai-ten",
-      "type": "image",
-      "src": "pipeline/media/movies-variety-ai-ten.jpg"
-    },
-    {
-      "id": "movies-about-a-hero",
-      "type": "image",
-      "src": "pipeline/media/movies-about-a-hero.png"
+      "src": "pipeline/media/movies-tilly-norwood-malfunction.jpg"
     }
   ]
 }

@@ -1,223 +1,160 @@
 {
-  "date": "2026-09-18",
-  "section": "science",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-17T18:00:10Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/biotech.jpg",
-      "headline": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery",
-      "excerpt": "Stanford researchers built a virtual biotech staffed by tens of thousands of AI agents that mined thousands of clinical trials and proposed a cancer therapy later pursued independently by a major pharma company.",
-      "category": "science"
-    },
-    {
-      "url": "https://phys.org/news/2026-09-simple-game-ai-future.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-17T17:40:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/20-questions-1.jpg",
-      "headline": "How a simple game of 20 questions could help make AI fit for the future",
-      "excerpt": "University of Bristol researchers show image classifiers can be trained cheaply using simple binary yes/no queries inspired by the game 20 Questions, instead of million-dollar GPU runs.",
-      "category": "science"
-    },
-    {
-      "url": "https://phys.org/news/2026-09-smart-packaging-ai-food-spoilage.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-11T22:20:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toward-future-ready-fo.jpg",
-      "headline": "Smart, self-healing packaging uses AI to detect food spoilage in real time",
-      "excerpt": "Kyushu University researchers propose a framework combining sensors, self-healing materials and AI models that read freshness signals to flag spoilage in real time.",
-      "category": "science"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-manuscripts-ai-agents-discoveries.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-16T17:41:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/manuscripts-turned-ai.jpg",
-      "headline": "Manuscripts-turned AI agents can now 'talk' to each other and make new discoveries",
-      "excerpt": "Stanford's Paper2Agent converts scientific manuscripts into interactive agents that answer questions about their own methods and collaborate with other paper agents to generate new findings.",
-      "category": "science"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-mathematics-frontier-reverse-problem.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-17T00:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-expands-mathematics.jpg",
-      "headline": "AI expands mathematics: A new frontier of reverse problem generation for computational AI",
-      "excerpt": "Chiba University's Hiroshi Kera explains how 'reverse problem generation' — building equations from known solutions — supplies the training data that lets machine learning accelerate computational algebra.",
-      "category": "science"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-17T15:00:17Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-isnt-as-good-at-rec.jpg",
-      "headline": "AI still isn't as good at recognizing objects as people are, new test shows",
-      "excerpt": "A new study finds vision models collapse on distorted images where humans still read overall shape, evidence that machine perception does not work the way human object perception does.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg",
-      "headline": "Which million-dollar math problem could AI solve next?",
-      "excerpt": "After an OpenAI model offered a possible Navier-Stokes solution, mathematicians debate which remaining Millennium Prize problem an AI system is most likely to crack — and what counts as a proof.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/moons-surface-will-be-mapped-in-incredible-detail-using-first-of-its-kind-ai-nasa-and-ibm-reveal",
-      "source": "Live Science",
-      "published_iso": "2026-09-10T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5NLsJnmkGYe74rkEtCcQYY-1024-80.jpg",
-      "headline": "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
-      "excerpt": "IBM and NASA built the Lunar Foundation Model, an open geospatial AI trained on decades of lunar orbiter data to map the moon's surface at unprecedented detail.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view",
-      "source": "Universe Today",
-      "published_iso": "2026-09-12T12:27:43Z",
-      "og_image": "https://www.universetoday.com/article_images/ISS064-E-10273_-_View_of_Eritrea_-_Naheleg_-_Mahun_-_Nora_Island_-_clouds_climate_change.jpg",
-      "headline": "Earth From Orbit Is Unpredictable and Messy. Could 'Liquid' AI Clear the View?",
-      "excerpt": "Earth observation data is noisy and irregular; researchers argue liquid neural networks, which adapt their dynamics at inference time, could make satellite monitoring far more robust.",
-      "category": "science"
-    },
-    {
-      "url": "https://physics.aps.org/articles/v19/126",
-      "source": "Physics (APS)",
-      "published_iso": "2026-09-11T00:00:00Z",
-      "og_image": "https://physics.aps.org/assets/fe9570c8-98b7-480a-851c-95dac90ae2f6/e126_1_thumb.png",
-      "headline": "Chess Reveals Differences Between Human and AI Strategies",
-      "excerpt": "A complexity analysis of chess games finds grandmasters steer toward less complex positions faster than engines do, exposing different strategies for balancing short- and long-term prospects.",
-      "category": "science"
-    },
-    {
-      "url": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
-      "source": "Physics World",
-      "published_iso": "2026-09-09T09:30:45Z",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/08/weather-119470873-shutterstock-solarseven.jpg",
-      "headline": "Using AI to plan for climate variability in renewable energy systems",
-      "excerpt": "A new AI approach models decades of weather variability to show how batteries and hydrogen storage can be sized to keep renewable grids reliable.",
-      "category": "science"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/09/17/usa-rare-earth-pasqal-riven-critical-mineral-production/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-17T12:22:15Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-17_17-20.png",
-      "headline": "USA Rare Earth, Pasqal and Riven Test Quantum Machine Learning for Rare Earth Separation",
-      "excerpt": "USA Rare Earth is working with Pasqal and Riven to test quantum machine learning for extractant selection, aiming at the chemistry bottleneck in rare earth separation.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-09-15T12:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/OpenAI-grants.jpg?resize=1200,600",
-      "headline": "AI models need more data about biology, and OpenAI is paying to create it",
-      "excerpt": "The OpenAI Foundation is funding 'Data for Public Health' to generate the missing biological datasets that current models cannot learn from.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/",
-      "source": "STAT",
-      "published_iso": "2026-09-09T08:30:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/20260825_kaf_baugh_003-1-1024x576.jpg",
-      "headline": "Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
-      "excerpt": "A close look at AI scribes and decision tools in emergency departments finds the technology falls well short of the claims made for it in real clinical workflows.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/",
-      "source": "STAT",
-      "published_iso": "2026-09-09T16:01:00Z",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_312976841-1024x576.jpeg",
-      "headline": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
-      "excerpt": "ARPA-H will commit $62.7 million to build autonomous AI agents that direct heart failure treatment, with the goal of FDA authorization.",
-      "category": "science"
-    },
-    {
-      "url": "https://allenai.org/blog/autodiscovery-student-challenge",
-      "source": "Allen Institute for AI",
-      "published_iso": "2026-09-14T00:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1789405893-autodiscovery-student-learnings-blog-google-docs-image-1.png",
-      "headline": "Teaching future scientists to interrogate AI tools for scientific discovery",
-      "excerpt": "University of Washington students stress-tested Ai2's AutoDiscovery agent, finding it surfaces promising scientific leads while making human judgment and validation more important, not less.",
-      "category": "science"
-    },
-    {
-      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-      "source": "Google Research",
-      "published_iso": "2026-09-15T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "headline": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "excerpt": "Google Research describes Retrieve-for-Train, a method that removes the inference bottleneck in large-scale AI search pipelines used for combinatorial scientific and engineering problems.",
-      "category": "science"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.18598",
-      "source": "arXiv",
-      "published_iso": "2026-09-17T00:00:00Z",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "headline": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
-      "excerpt": "Self-driving labs usually optimize synthesis with black-box optimizers; this preprint replaces that layer with multimodal LLM agents that form and test explicit hypotheses about why a synthesis works.",
-      "category": "science"
-    },
-    {
-      "url": "https://arxiv.org/abs/2609.19090",
-      "source": "arXiv",
-      "published_iso": "2026-09-17T00:00:00Z",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "headline": "Securing quantum error correction against misleading advice from AI agents",
-      "excerpt": "The authors show how an attacker with influence over an AI adviser could push harmful quantum error-correction updates, and propose safeguards for AI-assisted decoding.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.13.751323v1",
-      "source": "bioRxiv",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
-      "headline": "Evaluation of methods for AlphaFold-based integrative modeling",
-      "excerpt": "A systematic benchmark of methods that inject experimental restraints into AlphaFold, testing how well data-guided structure prediction actually works for integrative modeling.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750272v1",
-      "source": "bioRxiv",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
-      "headline": "Ourotide: decoding the hierarchical peptide recognition for generative design",
-      "excerpt": "Ourotide models peptide binding as a hierarchical recognition process rather than a structural intermediate, and uses that decomposition to drive generative peptide design.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.10.750569v1",
-      "source": "bioRxiv",
-      "published_iso": "2026-09-15T00:00:00Z",
-      "og_image": "https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png",
-      "headline": "HeartVar: An LLM-Assisted Tool for Clinical Classification of Variants in Cardiovascular Disease Cohorts",
-      "excerpt": "HeartVar uses an LLM to assemble and weigh the 28 ACMG criteria behind clinical DNA variant classification, attacking the manual curation bottleneck in rare disease workflows.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/consolidating-antibody-discovery-data-with-an-ai-platform/",
-      "source": "GEN",
-      "published_iso": "2026-09-15T14:30:53Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-1209662272.jpg",
-      "headline": "Consolidating Antibody Discovery Data with an AI Platform",
-      "excerpt": "FairJourney Biologics describes moving scattered multi-site antibody discovery data onto a single AI platform so models can actually learn from years of wet-lab campaigns.",
-      "category": "science"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/ai-accelerates-biomanufacturing-from-discovery-to-translation/",
-      "source": "GEN",
-      "published_iso": "2026-09-10T14:17:42Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GEN_SEP_2026_GettyImages-1390104663-scaled-e1789141841298.jpg",
-      "headline": "AI Accelerates Biomanufacturing from Discovery to Translation",
-      "excerpt": "A survey of how machine learning models are being wired into bioprocess development, from cell line selection to process control, to shorten discovery-to-translation timelines.",
-      "category": "science"
-    }
-  ]
+ "date": "2026-09-19",
+ "section": "science",
+ "window_hours": 336,
+ "now_iso": "2026-09-18T22:15:00Z",
+ "items": [
+  {
+   "url": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-17T22:40:01Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/metal.jpg",
+   "excerpt": "Metals can be transformed into alloys by adding different elements, allowing their strength, stability and other properties to be tailored. A key parameter for understanding these properties is the volume size factor (VSF), which quantifies lattice distortion caused by differences in atomic size."
+  },
+  {
+   "url": "https://phys.org/news/2026-09-robotic-lab-optics-demand.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-17T14:40:27Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robotic-lab-sets-up-an.jpg",
+   "excerpt": "Every new generation of phone display, television screen and solar panel is the result of precision optics experiments, which use lasers and other light sources to measure the optical properties of candidate materials. These experiments can take months to run, requiring scientists to meticulously angle and adjust delic"
+  },
+  {
+   "url": "https://phys.org/news/2026-09-bots-people-language-age-ai.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-18T12:51:23Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatgpt-2.jpg",
+   "excerpt": "A Facebook post about your trip to Peru. An Amazon review of a new toaster oven. An email to the super about the inflatable reindeer blocking the hallway. You phrase and rephrase things all day without thinking that anyone—or anything—is putting words in your mouth. But what happens when AI joins the conversation? Are "
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-18T14:40:13Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robot.jpg",
+   "excerpt": "With the rapid rise of artificial intelligence in daily life, software coding has become increasingly automated, with powerful AI systems known as coding agents able to write and revise computer programs almost autonomously. But what happens when an AI agent must contend not just with digital command lines, but with th"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-17T15:00:17Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-isnt-as-good-at-rec.jpg",
+   "excerpt": "Artificial intelligence has gradually made its way into many areas of life with abilities that often match or surpass those of humans. But a study published in the journal iScience finds that AI-powered machines have trouble recognizing objects from their overall shapes when aspects of an image are distorted. The findi"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-18T12:00:06Z",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/ai-2.jpg",
+   "excerpt": "John Tsang, Ph.D., and members of his Yale lab, Jacob Kim and Ao Huang, recently asked whether AI immunologists are ready for prime time. Specifically, they were referring to large language models (LLMs) and whether they are as creative as humans in developing new hypotheses and methods for immunology research."
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-09-18T18:20:00Z",
+   "og_image": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789758133.289&w=1200",
+   "excerpt": "A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It’s just not helping as much in the lab"
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/openai-cracks-the-hidden-math-that-keeps-your-texts-from-turning-to-gibberish/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-09-17T10:30:00Z",
+   "og_image": "https://static.scientificamerican.com/dam/asset/c98f3595-ea21-4621-ab38-421784a5c8b9/sphere-packing_graphic_leadImage.png?m=1789565934.3&w=1200",
+   "excerpt": "The surprising real-world applications of high-dimensional sphere packing and the 48-year-old barrier that OpenAI just broke"
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-09-15T16:00:00Z",
+   "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg?m=1789485995.523&w=1200",
+   "excerpt": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next"
+  },
+  {
+   "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+   "source": "Live Science",
+   "category": "science",
+   "published_iso": "2026-09-18T09:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/gP59emsEw9ZML9f7GxMDSM-2000-80.jpg",
+   "excerpt": "A unique AI test environment resulted in crimes and self-destruction, and its makers say it"
+  },
+  {
+   "url": "https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202609/we-trust-ai-with-our-health-but-not-with-our-shopping",
+   "source": "Psychology Today",
+   "category": "science",
+   "published_iso": "2026-09-18T14:57:09Z",
+   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/alexander-sinn-kgltfcgfc28-unsplash.jpg?h=68dc5491&amp;itok=MFVcWJ34",
+   "excerpt": "Most of us will not let an AI help with our shopping, yet we will ask it about our health and believe it. Why trust a machine with our lives but not our wallets?"
+  },
+  {
+   "url": "https://thequantuminsider.com/2026/09/18/mits-robotic-optics-lab-could-speed-testing-for-quantum-technology/",
+   "source": "The Quantum Insider",
+   "category": "science",
+   "published_iso": "2026-09-18T08:16:48Z",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/Low-Res_MIT-Robot-Labs-01-press.jpg",
+   "excerpt": "MIT researchers developed a robotic optics laboratory that can autonomously assemble, align, tune and reconfigure optical experiments."
+  },
+  {
+   "url": "https://www.genengnews.com/topics/bioprocessing/model-free-pure-component-analysis-could-help-biopharma-cut-costs/",
+   "source": "GEN",
+   "category": "science",
+   "published_iso": "2026-09-18T17:17:11Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-1356760192.jpg",
+   "excerpt": "Tunable laser near-infrared spectroscopy could help drug firms lower analysis costs and accelerate decision-making."
+  },
+  {
+   "url": "https://www.genengnews.com/topics/drug-discovery/molecular-devices-and-stemcell-technologies-team-up-to-automate-organoid-research/",
+   "source": "GEN",
+   "category": "science",
+   "published_iso": "2026-09-17T20:24:09Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-2254461524.jpg",
+   "excerpt": "Researchers say that organoids have the potential to give researchers a more human-relevant view of disease and treatment response."
+  },
+  {
+   "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+   "source": "MIT Technology Review",
+   "category": "science",
+   "published_iso": "2026-09-18T09:00:00Z",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
+   "excerpt": "It’s easier than ever to design killer pathogens."
+  },
+  {
+   "url": "https://allenai.org/blog/autodiscovery-student-challenge",
+   "source": "Allen Institute for AI",
+   "category": "science",
+   "published_iso": "2026-09-14T08:00:00Z",
+   "og_image": "https://www.datocms-assets.com/64837/1789405893-autodiscovery-student-learnings-blog-google-docs-image-1.png",
+   "excerpt": "University of Washington students put Ai2’s AutoDiscovery agent to the test, showing how AI can surface promising scientific leads while making human judgment, domain expertise and rigorous validation more important, not less."
+  },
+  {
+   "url": "https://allenai.org/blog/olmo-arena",
+   "source": "Allen Institute for AI",
+   "category": "science",
+   "published_iso": "2026-09-17T08:00:00Z",
+   "og_image": "https://www.datocms-assets.com/64837/1789674806-what-a-crowdsourced-game-revealed-about-steering-olmo-3-testimonial-google-do-image-1.png",
+   "excerpt": "A crowdsourced game built on Olmo 3 showed how people exploit unexpected model behaviours to stress-test prosocial AI evaluations — and how open access to a model’s internals helps researchers understand what happened."
+  },
+  {
+   "url": "https://arxiv.org/abs/2609.20143",
+   "source": "arXiv",
+   "category": "science",
+   "published_iso": "2026-09-18T04:00:00Z",
+   "og_image": "",
+   "excerpt": "Cognitive offloading to AI can reduce opportunities to practise skills, creating deskilling risk. Researchers design metacognitive feedback interventions that cut offloading to LLM assistants without restricting access to AI."
+  },
+  {
+   "url": "https://arxiv.org/abs/2609.18583",
+   "source": "arXiv",
+   "category": "science",
+   "published_iso": "2026-09-18T04:00:00Z",
+   "og_image": "",
+   "excerpt": "ERAF4XRD is a multimodal agentic framework that reads decades of scientific literature and builds validated, structured experimental X-ray diffraction databases for data-driven materials research."
+  }
+ ]
 }

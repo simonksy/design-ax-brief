@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "games",
   "media": [
     {
-      "id": "games-sigmapbr",
+      "id": "games-unity-codex-plugin",
       "type": "image",
-      "src": "pipeline/media/games-sigmapbr.jpg"
+      "src": "pipeline/media/games-unity-codex-plugin.png"
     },
     {
-      "id": "games-unity-codex",
+      "id": "games-unreal-mcp",
       "type": "video",
-      "src": "pipeline/media/games-unity-codex.mp4",
-      "poster": "pipeline/media/games-unity-codex.jpg"
+      "src": "pipeline/media/games-unreal-mcp.mp4",
+      "poster": "pipeline/media/games-unreal-mcp.jpg"
     },
     {
-      "id": "games-ramen-aura",
-      "type": "image",
-      "src": "pipeline/media/games-ramen-aura.jpg"
+      "id": "games-metahuman-animator",
+      "type": "video",
+      "src": "pipeline/media/games-metahuman-animator.mp4",
+      "poster": "pipeline/media/games-metahuman-animator.jpg"
     },
     {
-      "id": "games-cesa-genai",
+      "id": "games-ocarina-ai",
       "type": "image",
-      "src": "pipeline/media/games-cesa-genai.jpg"
+      "src": "pipeline/media/games-ocarina-ai.jpg"
     },
     {
-      "id": "games-amd-gi",
+      "id": "games-agent64-enemy-ai",
       "type": "image",
-      "src": "pipeline/media/games-amd-gi.jpg"
+      "src": "pipeline/media/games-agent64-enemy-ai.jpg"
     }
   ]
 }

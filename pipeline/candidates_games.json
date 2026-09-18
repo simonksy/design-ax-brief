@@ -1,151 +1,242 @@
 {
-  "date": "2026-09-18",
-  "section": "games",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-11T20:45:43+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered stream coach that will offer suggestions on how creators can improve their channel",
-      "headline": "Twitch Plans To Shove More AI Down Creators' Throats With Stream Coach Tool - Kotaku"
-    },
-    {
-      "url": "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-09T13:36:22+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/stellar-blade-2-1200x675.jpg",
-      "excerpt": "A controversial music video was just 'experimental,' he said",
-      "headline": "Shift Up CTO Says The Stellar Blade Maker Is taking Fan Complaints About AI 'Seriously,' But Believes It Should Still Be 'Used As A Tool' To Make A 'Great, High-Quality Game' - Kotaku"
-    },
-    {
-      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-09-09T00:04:21.000Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5-1.large.webp",
-      "excerpt": "The elephant is still in the room",
-      "headline": "'Gen-AI Controversy Aside' Is A Wild Thing To Write In A Video Game Preview"
-    },
-    {
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-09-17T13:45:27Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
-      "excerpt": "",
-      "headline": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday"
-    },
-    {
-      "url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-16T07:04:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
-      "excerpt": "You can participate in crafting it by giving feedback.",
-      "headline": "Microsoft Publishes Draft Document Outlining Rules for AI Training"
-    },
-    {
-      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-17T15:28:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50253/images/6aac07302ae13/contain_1200x630.jpg",
-      "excerpt": "sigmaPBR turns captures into relightable materials.",
-      "headline": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans"
-    },
-    {
-      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-15T14:19:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
-      "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat.",
-      "headline": "Recreating the Late-'90s Console Shooter Enemy AI for an FPS"
-    },
-    {
-      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-09-09T12:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/image001-1.jpg",
-      "excerpt": "Ramen announced today the launch of Aura 1.0, its AI development agent for game developers building on Unity and Unreal Engine.",
-      "headline": "Ramen launches Aura 1.0 to push agentic AI in game development | interview"
-    },
-    {
-      "url": "https://gamesbeat.com/owlchemy-taps-artificial-agency-for-agentic-ai-characters-in-dimensional-double-shift-xr-game/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-09-14T18:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/AA_Owlchemy-Video-Still-4.jpg",
-      "excerpt": "Artificial Agency announced that it has integrated its agentic AI Behavior Engine into Owlchemy Labs’ Dimensional Double Shift.",
-      "headline": "Owlchemy taps Artificial Agency for agentic AI characters in Dimensional Double Shift XR game | interview"
-    },
-    {
-      "url": "https://gamesbeat.com/roblox-shows-off-playtest-agent-for-roblox-devs-to-test-games/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-09-11T18:14:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/food.jpg",
-      "excerpt": "Roblox announced Playtest Agent with multiplayer support to make automated testing easier.",
-      "headline": "Roblox shows off Playtest Agent for Roblox devs to test games"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-16T08:53:23-07:00",
-      "og_image": "https://i.ytimg.com/vi/gy4HlUNn1lE/maxresdefault.jpg",
-      "excerpt": "We heard you loud and clear 🔊 Introducing the official Unity plugin for OpenAI’s Codex - a first-party integration available now directly in OpenAI’s univer...",
-      "headline": "Introducing the official Unity plugin for OpenAI Codex"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=EaEIynRqIHU",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-17T10:14:47-07:00",
-      "og_image": "https://i.ytimg.com/vi/EaEIynRqIHU/maxresdefault.jpg",
-      "excerpt": "The Unity Editor’s visual interface is great for human developers, but interpreting all those UI elements creates a massive bottleneck for AI automation. Thi...",
-      "headline": "Getting started with Unity CLI"
-    },
-    {
-      "url": "https://wccftech.com/deepseek-v4-1-flash-hermes-boost-resident-evil-7-android-performance/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-15T18:58:31+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Resident-Evil-7-performance-boosted-on-a-smartphone-using-AI.jpg",
-      "excerpt": "Learn how DeepSeek-V4.1-Flash and Hermes AI boosted Resident Evil 7 performance by 50% on a 4-year-old smartphone using smart texture compression and upscaling without sacrificing visual quality",
-      "headline": "DeepSeek-V4.1-Flash & Hermes Boosted Resident Evil 7 Performance By 50% On A 4-Year-Old Smartphone With Upscaling And Reducing Textures By 68% Without Quality Loss"
-    },
-    {
-      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-      "source": "Road to VR",
-      "category": "games",
-      "published_iso": "2026-09-16T23:40:00+00:00",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
-      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort […]",
-      "headline": "Snap Announces New \"anticipatory\" AI Service & Apps for First Consumer 'Specs' AR Glasses"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/",
-      "source": "AUTOMATON West",
-      "category": "games",
-      "published_iso": "2026-09-17T08:45:07+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72691-header.jpg",
-      "excerpt": "CESA is the organizer of Tokyo Game Show.",
-      "headline": "Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year’s 51%"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
-      "source": "AUTOMATON West",
-      "category": "games",
-      "published_iso": "2026-09-17T09:53:08+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
-      "excerpt": "Hiraku Agent suggests that demand may be declining for \"basic\" tasks and work that has traditionally been handled by younger or less-experienced creators,",
-      "headline": "Background and prop artists, assistant programmers cited as game industry jobs most impacted by generative AI in Japan"
-    }
-  ]
+ "date": "2026-09-19",
+ "section": "games",
+ "now_iso": "2026-09-18T22:15:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Over 85% of Japanese Game Developers Now Use Generative AI",
+   "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
+   "source": "80 Level",
+   "published_iso": "2026-09-18T21:08:00+00:00",
+   "excerpt": "CESA reports that over 85% of Japanese game developers use generative AI at least occasionally, while studios are prioritizing human review, restricted tools, and policies against using raw outputs unchanged.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50279/images/6aada812739f5/contain_1200x630.jpg",
+   "category": "games"
+  },
+  {
+   "title": "Recreating the Late-'90s Console Shooter Enemy AI for an FPS",
+   "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+   "source": "80 Level",
+   "published_iso": "2026-09-15T14:19:00+00:00",
+   "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat.",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
+   "category": "games"
+  },
+  {
+   "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit",
+   "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+   "source": "Game Developer",
+   "published_iso": "2026-09-18T15:15:39.000Z",
+   "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact.",
+   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
+   "category": "games"
+  },
+  {
+   "title": "Report: EA's NHL 27 is using genAI to make commentator voiceover",
+   "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+   "source": "Game Developer",
+   "published_iso": "2026-09-10T17:18:45.000Z",
+   "excerpt": "EA says it's using generative AI to expand on recording sessions with John Buccigross and Darren Pang's 'full consent and active collaboration.'",
+   "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop",
+   "category": "games"
+  },
+  {
+   "title": "Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the \"black box\" approach of DLSS 5",
+   "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
+   "source": "GamesIndustry.biz",
+   "published_iso": "2026-09-08T02:00:00+00:00",
+   "excerpt": "\"Our networks are not generative, so they're not from the same nature as the latest DLSS model\"",
+   "og_image": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "European game developers are more concerned that AI will pressure them to work faster rather than take their job",
+   "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+   "source": "GamesIndustry.biz",
+   "published_iso": "2026-09-08T13:27:23.540305+00:00",
+   "excerpt": "Games industry employment survey finds half of respondents are worried AI could reduce work quality, while 46% say AI makes it harder to assess actual skills",
+   "og_image": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "Sessions on managing AI impact, neurodivergent teams and personal resilience confirmed for GamesIndustry.biz HR Summit",
+   "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+   "source": "GamesIndustry.biz",
+   "published_iso": "2026-09-18T15:44:15.709213+00:00",
+   "excerpt": "Dedicated working sessions, hosted by experts, will give practical steps on addressing leading issues in games studios",
+   "og_image": "https://assetsio.gnwcdn.com/2025_10_02_TRI_JPEG-8-bit-300ppi-(sRGB)-For-Web_00089.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "FromSoftware's Dark Souls 3 Gets Next-Gen Leap With Path Tracing and NVIDIA DLSS 5, As New Video Showcases Remake-Level Visuals",
+   "url": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/",
+   "source": "Wccftech",
+   "published_iso": "2026-09-18T14:45:30+00:00",
+   "excerpt": "Dark Souls 3 path tracing mod receives stunning new showcase featuring NVIDIA DLSS 5 and technical FAQ details.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Dark-Souls-3-Path-Tracing-NVIDIA-DLSS-5-1920x1077.jpg",
+   "category": "games"
+  },
+  {
+   "title": "Pearl Abyss Sharpens Crimson Desert's Ray Tracing, as Patch 2.03.00 Brings NVIDIA DLSS Ray Reconstruction Improvements",
+   "url": "https://wccftech.com/pearl-abyss-sharpens-crimson-desert-ray-tracing-patch-2-03-00/",
+   "source": "Wccftech",
+   "published_iso": "2026-09-18T09:23:13+00:00",
+   "excerpt": "Crimson Desert patch 2.03.00 improves Water Stride, DLSS Ray Reconstruction, and early-game Silver rewards.",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Crimson-Desert-2.03.00-patch-Ray-Tracing-1920x1080.jpeg",
+   "category": "games"
+  },
+  {
+   "title": "\"You may be overthinking it a little bit\": Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation",
+   "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+   "source": "Rock Paper Shotgun",
+   "published_iso": "2026-09-15T16:00:00+00:00",
+   "excerpt": "Saber Interactive's chief creative officer explains why he thinks players will get on board with generative AI tools eventually.",
+   "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "I'm not saying Fallout 4 modding drama gets to people, but here's Breaking Benjamin's singer begging concertgoers to try his AI-assisted first person mod",
+   "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+   "source": "Rock Paper Shotgun",
+   "published_iso": "2026-09-09T12:00:00+00:00",
+   "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4.",
+   "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "It's still very much possible to make good Skyrim mods \"without any use of AI\" in 2026, declares the maker of a new DLC-sized Black Marsh expansion",
+   "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
+   "source": "Rock Paper Shotgun",
+   "published_iso": "2026-09-08T10:25:25.826231+00:00",
+   "excerpt": "King of the Murkmire, a DLC-sized Skyrim expansion mod set to Black Marsh, is out now.",
+   "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
+   "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
+   "source": "Eurogamer",
+   "published_iso": "2026-09-10T14:50:43.670218+00:00",
+   "excerpt": "Elderwood was a generative AI website dubbed a RuneScape \"clone\" by its creator, and was taken down after a notice was received by Jagex.",
+   "og_image": "https://assetsio.gnwcdn.com/old-school-runescape-dancing-on-bridge.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "After Xbox's massive job cuts, 1,900 Blizzard employees have won a \"historic\" contract securing protections around gen-AI and mass layoffs",
+   "url": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
+   "source": "Eurogamer",
+   "published_iso": "2026-09-09T17:15:06.835626+00:00",
+   "excerpt": "Around 1,900 unionised Blizzard Entertainment workers have secured a big win. A new union contract ensures protections around layoffs, gen-AI, and more.",
+   "og_image": "https://assetsio.gnwcdn.com/overwatch-new-heroes.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "\"The more aroused the fly is the harder it tries to shoot\" - Google's fully mapped fly brain is now playing Doom, Beat Saber, and more",
+   "url": "https://www.eurogamer.net/google-fly-brain-doom-beat-saber",
+   "source": "Eurogamer",
+   "published_iso": "2026-09-11T16:14:51.434231+00:00",
+   "excerpt": "What do you do with a simulated fly brain? Make it play Doom and Beat Saber, of course.",
+   "og_image": "https://assetsio.gnwcdn.com/doom-fly.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+   "category": "games"
+  },
+  {
+   "title": "Unity's Official Plugin for Codex: Skills, CLI, Editor Control",
+   "url": "https://unity.com/blog/unity-plugin-codex",
+   "source": "Unity",
+   "published_iso": "2026-09-16T00:00:00Z",
+   "excerpt": "Unity's official plugin for Codex is an official plugin that gives OpenAI's Codex Unity-written skills, so the agent works from Unity's own guidance for jobs like sprite atlases, URP renderer features, in-app purchases, and localization instead of from whatever it absorbed about Unity elsewhere.",
+   "og_image": "htttps://unity.com/unity-logo-2024.png",
+   "category": "games"
+  },
+  {
+   "title": "Level-5 Will Officially Scale Back AI Use Following Backlash",
+   "url": "https://www.thegamer.com/level-5-responds-ai-use-scale-back/",
+   "source": "TheGamer",
+   "published_iso": "2026-09-17T09:34:44Z",
+   "excerpt": "Level-5 stated that it will use AI for efficiency improvements going forward.",
+   "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-walking-through-a-busy-victorian-esque-street.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "category": "games"
+  },
+  {
+   "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation | NVIDIA Technical Blog",
+   "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+   "source": "NVIDIA Technical Blog",
+   "published_iso": "2026-09-16T23:20:33+00:00",
+   "excerpt": "Agentic AI workflows can be used to prepare and validate digital twins for physical AI systems. Agents can inspect 3D scenes, author simulation-relevant data in OpenUSD, add physics properties…",
+   "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx.webp",
+   "category": "games"
+  },
+  {
+   "title": "TikTok Parent Reportedly Building AI Model to Rival Google’s Genie for Real-Time Spatial Video",
+   "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
+   "source": "Road to VR",
+   "published_iso": "2026-09-09T10:44:59+00:00",
+   "excerpt": "TikTok parent ByteDance is reportedly preparing an AI model that could let you create real-time spatial videos similar to Google Genie. According to a Bloomberg report, ByteDance is readying an AI model dedicated to creating real-time spatial videos, which the company hopes will act as a “flywheel” to its various companies, including video streaming giant […]",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg",
+   "category": "games"
+  },
+  {
+   "title": "'Gen-AI Controversy Aside' Is A Wild Thing To Write In A Video Game Preview",
+   "url": "https://aftermath.site/crazy-taxi-ai-preview/",
+   "source": "Aftermath",
+   "published_iso": "2026-09-09T00:04:21.000Z",
+   "excerpt": "The elephant is still in the room",
+   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/crazy-taxi-world-tour-makes-a-stop-in-germany-as-series-goes-global-on-ps5-1.large.webp",
+   "category": "games"
+  },
+  {
+   "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku",
+   "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+   "source": "Kotaku",
+   "published_iso": "2026-09-17T22:00:44+00:00",
+   "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'",
+   "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
+   "category": "games"
+  },
+  {
+   "title": "Level-5 Announces Fixes For AI-Generated Presentation",
+   "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+   "source": "Kotaku",
+   "published_iso": "2026-09-16T18:00:14+00:00",
+   "excerpt": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and were not AI-generated",
+   "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
+   "category": "games"
+  },
+  {
+   "title": "'There is absolutely no generative AI in Space Marine 3' promises Saber Interactive executive",
+   "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/",
+   "source": "PC Gamer",
+   "published_iso": "2026-09-06T19:15:07Z",
+   "excerpt": "The Machine Spirits lie silent.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/iMNxBmUjzkvgDjxgbdv4v3-1920-80.jpg",
+   "category": "games"
+  },
+  {
+   "title": "XBOX apparently patents tech to 'detect natural moments' to display in-game ads",
+   "url": "https://www.destructoid.com/xbox-ad-patent/",
+   "source": "Destructoid",
+   "published_iso": "2026-09-18T21:42:35+00:00",
+   "excerpt": "Sheesh.",
+   "og_image": "https://www.destructoid.com/wp-content/uploads/2026/05/image-2026-05-18T162224.966.jpg",
+   "category": "games"
+  },
+  {
+   "title": "MetaHuman Animator Markerless Motion Capture Demo",
+   "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
+   "source": "Unreal Engine (YouTube)",
+   "published_iso": "2026-09-10T20:29:23+00:00",
+   "excerpt": "Epic demos MetaHuman Animator capturing full facial performance from markerless video, turning an ordinary camera pass into game-ready character animation.",
+   "og_image": "https://i.ytimg.com/vi/r_-fEi7fXLA/maxresdefault.jpg",
+   "category": "games"
+  },
+  {
+   "title": "Getting Started with MCP in Unreal Engine 5.8",
+   "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+   "source": "Unreal Engine (YouTube)",
+   "published_iso": "2026-09-07T17:26:25+00:00",
+   "excerpt": "Epic walks through the Model Context Protocol in Unreal Engine 5.8, letting AI agents read and drive the editor as part of a production workflow.",
+   "og_image": "https://i.ytimg.com/vi/k0tgmrBuIJc/maxresdefault.jpg",
+   "category": "games"
+  }
+ ]
 }
