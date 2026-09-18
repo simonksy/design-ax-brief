@@ -1,31 +1,11 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "books",
   "media": [
-    {
-      "id": "books-anthropic-claim",
-      "type": "image",
-      "src": "pipeline/media/books-anthropic-claim.png"
-    },
-    {
-      "id": "books-ms-scraping-filings",
-      "type": "image",
-      "src": "pipeline/media/books-ms-scraping-filings.jpg"
-    },
-    {
-      "id": "books-literary-translation-ai",
-      "type": "image",
-      "src": "pipeline/media/books-literary-translation-ai.png"
-    },
-    {
-      "id": "books-memoir-voice",
-      "type": "image",
-      "src": "pipeline/media/books-memoir-voice.png"
-    },
-    {
-      "id": "books-scholarly-unbundling",
-      "type": "image",
-      "src": "pipeline/media/books-scholarly-unbundling.jpg"
-    }
+    {"id": "books-calibre-ai-fiction", "type": "image", "src": "pipeline/media/books-calibre-ai-fiction.jpg"},
+    {"id": "books-writers-ai-survey", "type": "image", "src": "pipeline/media/books-writers-ai-survey.jpg"},
+    {"id": "books-ai-licensing-market", "type": "image", "src": "pipeline/media/books-ai-licensing-market.jpg"},
+    {"id": "books-love-machine", "type": "image", "src": "pipeline/media/books-love-machine.png"},
+    {"id": "books-malaysia-illustrators", "type": "image", "src": "pipeline/media/books-malaysia-illustrators.jpg"}
   ]
 }

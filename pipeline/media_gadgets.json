@@ -1,31 +1,11 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "gadgets",
   "media": [
-    {
-      "id": "gadgets-snap-specs",
-      "type": "image",
-      "src": "pipeline/media/gadgets-snap-specs.jpg"
-    },
-    {
-      "id": "gadgets-meta-no-camera",
-      "type": "image",
-      "src": "pipeline/media/gadgets-meta-no-camera.jpg"
-    },
-    {
-      "id": "gadgets-apple-readiness",
-      "type": "image",
-      "src": "pipeline/media/gadgets-apple-readiness.jpg"
-    },
-    {
-      "id": "gadgets-translate-offline",
-      "type": "image",
-      "src": "pipeline/media/gadgets-translate-offline.jpg"
-    },
-    {
-      "id": "gadgets-memory-shortage",
-      "type": "image",
-      "src": "pipeline/media/gadgets-memory-shortage.jpg"
-    }
+    {"id": "gadgets-dyson-nurovi", "type": "image", "src": "pipeline/media/gadgets-dyson-nurovi.jpg"},
+    {"id": "gadgets-airpods5", "type": "image", "src": "pipeline/media/gadgets-airpods5.jpg"},
+    {"id": "gadgets-watch-s12", "type": "video", "src": "pipeline/media/gadgets-watch-s12.mp4", "poster": "pipeline/media/gadgets-watch-s12.jpg"},
+    {"id": "gadgets-ubtech-factory", "type": "image", "src": "pipeline/media/gadgets-ubtech-factory.jpg"},
+    {"id": "gadgets-urxr-one", "type": "image", "src": "pipeline/media/gadgets-urxr-one.jpg"}
   ]
 }

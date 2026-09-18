@@ -1,31 +1,11 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "science",
   "media": [
-    {
-      "id": "science-virtual-biotech",
-      "type": "image",
-      "src": "pipeline/media/science-virtual-biotech.jpg"
-    },
-    {
-      "id": "science-paper2agent",
-      "type": "image",
-      "src": "pipeline/media/science-paper2agent.jpg"
-    },
-    {
-      "id": "science-lunar-foundation-model",
-      "type": "image",
-      "src": "pipeline/media/science-lunar-foundation-model.jpg"
-    },
-    {
-      "id": "science-retrieve-for-train",
-      "type": "image",
-      "src": "pipeline/media/science-retrieve-for-train.png"
-    },
-    {
-      "id": "science-climate-variability-planning",
-      "type": "image",
-      "src": "pipeline/media/science-climate-variability-planning.jpg"
-    }
+    {"id": "science-mit-optics-lab", "type": "image", "src": "pipeline/media/science-mit-optics-lab.jpg"},
+    {"id": "science-ai-shape", "type": "image", "src": "pipeline/media/science-ai-shape.jpg"},
+    {"id": "science-sphere-packing", "type": "image", "src": "pipeline/media/science-sphere-packing.png"},
+    {"id": "science-alloy-vsf", "type": "image", "src": "pipeline/media/science-alloy-vsf.jpg"},
+    {"id": "science-nir-bioprocess", "type": "image", "src": "pipeline/media/science-nir-bioprocess.jpg"}
   ]
 }

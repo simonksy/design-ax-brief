@@ -1,31 +1,33 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "section": "design",
   "media": [
     {
-      "id": "design-backflip-2d-cad",
-      "type": "image",
-      "src": "pipeline/media/design-backflip-2d-cad.jpg"
+      "id": "design-blender-splat",
+      "type": "video",
+      "src": "pipeline/media/design-blender-splat.mp4",
+      "poster": "pipeline/media/design-blender-splat.jpg"
     },
     {
-      "id": "design-claude-code-projects",
-      "type": "image",
-      "src": "pipeline/media/design-claude-code-projects.jpg"
+      "id": "design-visionos27",
+      "type": "video",
+      "src": "pipeline/media/design-visionos27.mp4",
+      "poster": "pipeline/media/design-visionos27.jpg"
     },
     {
-      "id": "design-de-slop-codebase",
+      "id": "design-webmcp",
       "type": "image",
-      "src": "pipeline/media/design-de-slop-codebase.jpg"
+      "src": "pipeline/media/design-webmcp.png"
     },
     {
-      "id": "design-nvidia-agent-3d-scene",
+      "id": "design-vectorworks2027",
       "type": "image",
-      "src": "pipeline/media/design-nvidia-agent-3d-scene.jpg"
+      "src": "pipeline/media/design-vectorworks2027.png"
     },
     {
-      "id": "design-canva-ai-brakes",
+      "id": "design-ai-ad-test",
       "type": "image",
-      "src": "pipeline/media/design-canva-ai-brakes.jpg"
+      "src": "pipeline/media/design-ai-ad-test.jpg"
     }
   ]
 }
