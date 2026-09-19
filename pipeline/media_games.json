@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "games",
+  "generated_by": "ax-media",
   "media": [
     {
-      "id": "games-unity-codex-plugin",
+      "id": "games-wolverine-no-genai",
       "type": "image",
-      "src": "pipeline/media/games-unity-codex-plugin.png"
+      "src": "pipeline/media/games-wolverine-no-genai.jpg"
     },
     {
-      "id": "games-unreal-mcp",
+      "id": "games-luminary-wife-voice",
+      "type": "image",
+      "src": "pipeline/media/games-luminary-wife-voice.jpg"
+    },
+    {
+      "id": "games-dlss5-intel-arc-nocuda",
+      "type": "image",
+      "src": "pipeline/media/games-dlss5-intel-arc-nocuda.jpg"
+    },
+    {
+      "id": "games-darksouls3-pathtracing",
       "type": "video",
-      "src": "pipeline/media/games-unreal-mcp.mp4",
-      "poster": "pipeline/media/games-unreal-mcp.jpg"
+      "src": "pipeline/media/games-darksouls3-pathtracing.mp4",
+      "poster": "pipeline/media/games-darksouls3-pathtracing.jpg"
     },
     {
-      "id": "games-metahuman-animator",
-      "type": "video",
-      "src": "pipeline/media/games-metahuman-animator.mp4",
-      "poster": "pipeline/media/games-metahuman-animator.jpg"
-    },
-    {
-      "id": "games-ocarina-ai",
+      "id": "games-night-city-handmade",
       "type": "image",
-      "src": "pipeline/media/games-ocarina-ai.jpg"
-    },
-    {
-      "id": "games-agent64-enemy-ai",
-      "type": "image",
-      "src": "pipeline/media/games-agent64-enemy-ai.jpg"
+      "src": "pipeline/media/games-night-city-handmade.jpg"
     }
   ]
 }

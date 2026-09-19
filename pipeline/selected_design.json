@@ -1,66 +1,116 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "design",
+  "generated_by": "ax-curator",
+  "selection_mode": "curator-auto (user deferred)",
   "picks": [
     {
-      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
-      "source": "80 Level",
-      "headline": "Blender 5.3 is getting native 3D Gaussian splat support",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "무료 표준 3D 툴이 3DGS를 네이티브로 먹는다는 건, 애드온·외부 뷰어 없이 스플랫을 바로 씬에 얹는 워크플로가 내일부터 가능해진다는 뜻이다.",
-      "published_iso": "2026-09-18T12:39:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50269/images/6aad30fbe5adf/contain_1200x630.jpg",
-      "excerpt": "This is not a drill."
-    },
-    {
-      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
-      "source": "UploadVR",
-      "headline": "visionOS 27 launched for Apple Vision Pro headsets, bringing Siri AI and more",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "공간 UI를 만드는 사람에게 플랫폼 메이저 업데이트는 곧 디자인 가이드 변경이다. Siri AI 통합으로 음성·공간 인터랙션 설계 기준이 다시 잡힌다.",
-      "published_iso": "2026-09-18T02:20:37+00:00",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg",
-      "excerpt": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features & improvements."
-    },
-    {
-      "url": "https://vercel.com/changelog/webmcp-mcp-handler",
-      "source": "Vercel",
-      "headline": "WebMCP support now available in mcp-handler",
+      "rank": 1,
+      "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "웹 앱의 UI 액션을 그대로 에이전트가 호출할 수 있는 도구로 노출한다. 화면을 넘어 '에이전트가 쓰는 인터페이스'를 설계해야 하는 실질적 시작점.",
-      "published_iso": "2026-09-18T18:00:00+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1wrmQM9L89OzdOeYDnamED/87d05274eb7a09b0950980b9bfde89cd/image.png",
-      "excerpt": "Vercel's mcp-handler now supports WebMCP, letting a web app expose its own UI actions as MCP tools an agent can call directly in the browser."
+      "headline": "v0 now reads npm credentials from shared environment variables",
+      "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
+      "source": "Vercel",
+      "published_iso": "2026-09-18T17:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/czVykfPFuY95oRifQwYAf/4774cc727b297305cb1.png",
+      "excerpt": "v0 can now install private packages from npm and custom registries, letting teams generate UI against their own internal design system packages instead of generic components.",
+      "rationale": "v0 can now pull a team's private design system package, so generated UI matches the real component library from the first prompt."
     },
     {
-      "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
-      "source": "Engineering.com",
-      "headline": "Vectorworks 2027 adds tools for connected design workflows",
+      "rank": 2,
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "headline": "Figma Motion basics: Use shaders in your animations",
+      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
+      "source": "Figma (YouTube)",
+      "published_iso": "2026-09-18T18:00:20Z",
+      "og_image": "https://i.ytimg.com/vi/spMhSWAmduw/maxresdefault.jpg",
+      "excerpt": "Figma walks through applying generative shaders inside Figma Motion, showing how prompt-generated visual effects become reusable animation layers in a design file.",
+      "rationale": "First-party walkthrough of prompt-generated shaders as reusable Motion layers — a technique a designer can apply in Figma the same day."
+    },
+    {
+      "rank": 3,
+      "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Revit 패밀리와 Dynamic Block을 살아 있는 객체로 받아들인다. 이종 CAD 사이에서 파일을 굽지 않고 자산을 주고받는 실무 경로가 열렸다.",
-      "published_iso": "2026-09-17T13:08:28+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Vectorworks-2027-adds-tools-for-connected-design-workflows-1024x576.png",
-      "excerpt": "The Exchange hub supports sharing resources while Revit Families and Dynamic Blocks can enter projects as dynamic objects."
+      "headline": "Artec Neo: the first 'tolerance-driven' 3D scanner launched",
+      "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
+      "source": "DEVELOP3D",
+      "published_iso": "2026-09-17T10:02:11Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
+      "excerpt": "Artec Neo promises to change quality inspection and reverse engineering for design teams with high-resolution, full-colour 3D capture tied to stated tolerances.",
+      "rationale": "New hardware that ties scan capture to stated tolerances, moving reverse engineering and inspection into the industrial designer's own loop."
     },
     {
-      "url": "https://www.fastcompany.com/91609674/think-you-can-spot-an-ai-generated-ad-83-of-consumers-got-it-wrong",
-      "source": "Fast Company",
-      "headline": "Think you can spot an AI-generated ad? 83% of consumers got it wrong",
+      "rank": 4,
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "headline": "Quad Remesher for Hard-Surface & Organic Blender Models",
+      "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
+      "source": "80 Level",
+      "published_iso": "2026-09-18T11:35:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50264/images/6aad220b31597/contain_1200x630.jpg",
+      "excerpt": "A user-friendly automatic retopology add-on from Milad Kambari that cuts polygon counts on both hard-surface and organic Blender models without manual cleanup.",
+      "rationale": "Free automatic retopology that removes the manual cleanup step between a generated or scanned mesh and a usable production model."
+    },
+    {
+      "rank": 5,
+      "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "소비자 83%가 AI 광고를 골라내지 못했다는 수치는 '티 나니까 안 쓴다'는 전제를 무너뜨린다. 크리에이티브 팀의 표기·품질 기준을 다시 짜야 할 근거.",
-      "published_iso": "2026-09-18T19:45:00+00:00",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609674-ai-generated-ad-consumers.jpg",
-      "excerpt": "An advertising company challenged consumers to pick the AI-generated ad out of a lineup; 83% got it wrong, raising hard questions for creative teams."
+      "headline": "The next phase of design will still be human-led",
+      "url": "https://www.fastcompany.com/91609602/the-next-phase-of-design-will-still-be-human-led",
+      "source": "Fast Company",
+      "published_iso": "2026-09-18T16:44:07Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91609602-fcif-new-rules-of-great-design.jpg",
+      "excerpt": "Generative AI turns ideas into artefacts faster than ever, which Spotify's senior director of product design argues makes human judgement more important, not less: 'More is not always better. Faster is not always better.'",
+      "rationale": "Spotify's design lead sets out where judgement has to sit once generation is cheap — a concrete stance for teams rewriting their critique process."
     }
-  ]
+  ],
+  "dedup": {
+    "against_days": ["2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15", "2026-09-14", "2026-09-13"],
+    "dropped": [
+      {
+        "url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
+        "reason": "content duplicate — same Canva ProSuite release already published 2026-09-17 as 'Affinity 3.3 / Canva ProSuite' (CG Channel)"
+      },
+      {
+        "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
+        "reason": "cross-section exclusion — owned by games today"
+      },
+      {
+        "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+        "reason": "cross-section exclusion — owned by gadgets today"
+      },
+      {
+        "url": "https://develop3d.com/vr-ar-mr/hololight-viz-vr-snap-specs/",
+        "reason": "near-duplicate of the gadgets-owned Snap SPECS launch cluster; dropped to avoid cross-section collision"
+      },
+      {
+        "url": "https://www.mindstudio.ai/blog/ai-cinematic-film-workflow-astra-runway/",
+        "reason": "content hub — MindStudio posted three near-identical vendor posts at once; none selected"
+      },
+      {
+        "url": "https://www.mindstudio.ai/blog/claude-code-mods-agents-md/",
+        "reason": "content hub — same-source batch, kept none"
+      },
+      {
+        "url": "https://www.mindstudio.ai/blog/seedance-kling-minimax-video-model-comparison/",
+        "reason": "content hub — same-source batch, kept none"
+      }
+    ]
+  },
+  "diversity": {
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "categories": ["figma", "figma", "cad", "render", "workflow"]
+  }
 }

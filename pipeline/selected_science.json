@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "science",
   "picks": [
     {
-      "url": "https://thequantuminsider.com/2026/09/18/mits-robotic-optics-lab-could-speed-testing-for-quantum-technology/",
-      "source": "The Quantum Insider",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "MIT의 로봇 광학 실험실, 실험 세팅을 스스로 조립하고 정렬한다",
-      "rationale": "광학 실험을 사람 손 없이 조립·정렬·튜닝·재구성하는 자율 실험실. 몇 달 걸리던 광학 물성 측정을 자동화해 양자·디스플레이 소재 테스트 속도를 바꾼다.",
-      "published_iso": "2026-09-18T08:16:48Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/Low-Res_MIT-Robot-Labs-01-press.jpg",
-      "excerpt": "MIT researchers developed a robotic optics laboratory that can autonomously assemble, align, tune and reconfigure optical experiments."
+      "headline": "DNA 한 글자 변이 90억 개의 효과를 미리 계산해 두다",
+      "rationale": "인간 유전체의 가능한 단일 염기 변이 90억 개의 분자적 영향을 통째로 예측해 공개한 지도. 변이 해석을 케이스별 계산에서 조회로 바꾼다.",
+      "published_iso": "2026-09-08T14:00:15Z",
+      "og_image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
+      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
     },
     {
-      "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
-      "source": "Tech Xplore",
+      "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+      "source": "Scientific American",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "AI는 형태로 사물을 알아보지 못한다 — iScience 인지 실험",
-      "rationale": "이미지가 왜곡되면 AI는 전체 형태로 사물을 인식하지 못한다는 iScience 연구. 인간 시지각과 기계 시각의 결정적 차이를 짚는 인지과학 결과다.",
-      "published_iso": "2026-09-17T15:00:17Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-isnt-as-good-at-rec.jpg",
-      "excerpt": "Artificial intelligence has gradually made its way into many areas of life with abilities that often match or surpass those of humans. But a study published in the journal iScience finds that AI-powered machines have trouble recognizing objects from their overall shapes when aspects of an image are distorted."
+      "headline": "AI는 논문 쓰는 속도를 바꿨지 실험실 속도는 바꾸지 못했다",
+      "rationale": "구글·딥마인드·MIT 공동 보고서가 연구자의 AI 사용 실태를 집계했다. 문헌·코드·집필은 빨라졌지만 실험 단계 병목은 그대로라는 결론이 연구 자동화 투자의 방향을 가른다.",
+      "published_iso": "2026-09-18T18:20:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789758133.289&w=1200",
+      "excerpt": "A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It's just not helping as much in the lab"
     },
     {
-      "url": "https://www.scientificamerican.com/article/openai-cracks-the-hidden-math-that-keeps-your-texts-from-turning-to-gibberish/",
-      "source": "Scientific American",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Technology Review",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "headline": "AI가 여는 생물무기 가능성, 바이오텍이 받아 든 경고장",
+      "rationale": "단백질 설계 모델이 열어젖힌 생물학적 위험을 AI 기업 수장들이 직접 경고했다. 합성 DNA 주문 심사와 모델 배포 기준 등 생명과학 연구 현장의 규칙이 바뀌는 지점.",
+      "published_iso": "2026-09-18T09:00:00Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
+      "excerpt": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "sphere",
-      "headline": "48년 막혀 있던 고차원 구 채우기 장벽, OpenAI가 넘었다",
-      "rationale": "오류정정 부호의 토대인 고차원 sphere packing에서 48년 된 기록을 갱신했다. 추상 수학이 아니라 통신·저장 장치의 실제 신뢰도로 이어지는 결과.",
-      "published_iso": "2026-09-17T10:30:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/c98f3595-ea21-4621-ab38-421784a5c8b9/sphere-packing_graphic_leadImage.png?m=1789565934.3&w=1200",
-      "excerpt": "The surprising real-world applications of high-dimensional sphere packing and the 48-year-old barrier that OpenAI just broke"
+      "motif": "cube",
+      "headline": "타협 불가능한 제약을 지키는 생성형 AI, MIT의 Hardflow",
+      "rationale": "안전·물리 제약을 반드시 만족해야 하는 문제에서 생성 모델의 출력을 강제로 제약 안에 묶는 기법. 설계·로보틱스·공정 시뮬레이션에 바로 걸리는 방법론이다.",
+      "published_iso": "2026-09-14T17:00:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/algorithm-1.jpg",
+      "excerpt": "MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems. In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical or task-specific requirements, known as hard constraints."
     },
     {
-      "url": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
-      "source": "Phys.org",
-      "tool": "Science",
-      "accent": "#ff5a4d",
-      "motif": "sphere",
-      "headline": "합금의 격자 왜곡을 예측해 미탐색 소재 공간을 연다",
-      "rationale": "합금 물성의 핵심 지표인 부피 크기 인자(VSF)를 예측해 아직 실험되지 않은 조성 공간을 좁혀준다. 소재 탐색의 출발점을 바꾸는 계산 접근.",
-      "published_iso": "2026-09-17T22:40:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/metal.jpg",
-      "excerpt": "Metals can be transformed into alloys by adding different elements, allowing their strength, stability and other properties to be tailored. A key parameter for understanding these properties is the volume size factor (VSF), which quantifies lattice distortion caused by differences in atomic size."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/model-free-pure-component-analysis-could-help-biopharma-cut-costs/",
-      "source": "GEN",
+      "url": "https://techxplore.com/news/2026-09-ai-harsher-social-world-people.html",
+      "source": "Tech Xplore",
       "tool": "Science",
       "accent": "#eb367f",
-      "motif": "sphere",
-      "headline": "모델 없는 성분 분석, 바이오 공정의 분석 비용을 깎는다",
-      "rationale": "가변 파장 레이저 근적외 분광으로 보정 모델 없이 순수 성분을 뽑아낸다. 제약 공정 분석 비용과 의사결정 지연을 동시에 줄이는 측정 기술.",
-      "published_iso": "2026-09-18T17:17:11Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-1356760192.jpg",
-      "excerpt": "Tunable laser near-infrared spectroscopy could help drug firms lower analysis costs and accelerate decision-making."
+      "motif": "frame",
+      "headline": "AI는 사람보다 가혹한 사회를 상상한다",
+      "rationale": "LLM이 사회적 상황에서 사람의 반응을 예측할 때 처벌 쪽으로 기운다는 실험. LLM을 사람 대리 피험자로 쓰는 사회과학·UX 리서치의 전제를 흔든다.",
+      "published_iso": "2026-09-15T14:20:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-overestimates-how-o-1.jpg",
+      "excerpt": "Artificial intelligence (AI) systems, particularly the large language models (LLMs) that underpin ChatGPT and similar platforms, are remarkably skilled at answering queries about a wide range of topics. However, the extent to which they can interpret social situations and predict how humans might respond in specific scenarios remains poorly understood."
     }
   ]
 }

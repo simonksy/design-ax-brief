@@ -1,247 +1,234 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "design",
+  "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "design-blender-splat",
+      "id": "design-v0-npm-credentials",
       "eyebrow": "AI NEWS",
-      "headline": "Blender 5.3, 가우시안 스플랫을\n애드온 없이 불러온다",
-      "body": "Blender 5.3이 애드온 없이 3D 가우시안 스플랫을 불러오고 렌더링한다. 정식 릴리스는 11월 10일.",
-      "mini_headline": "Blender, 스플랫 기본 지원",
-      "tool": "KeyShot",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/meta/50269/images/6aad30fbe5adf/contain_1200x630.jpg",
-            "cap": "Blender 5.3이 3D 가우시안 스플랫을 기본으로 받아들인다."
-          },
-          {
-            "t": "p",
-            "x": "이번엔 진짜다."
-          },
-          {
-            "t": "p",
-            "x": "개발 중인 다음 메이저 릴리스 Blender 5.3의 윤곽이 조금씩 드러난다. Principled BSDF의 분산(dispersion) 네이티브 지원, 머티리얼 조명을 직접 만드는 새 노드가 이미 알려졌고, 여기에 하나가 더 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "그동안 Blender에서 3DGS를 다루려면 외부 애드온이 있어야 했다. Blender 5.3은 3D 가우시안 스플랫을 불러오고 렌더링하는 기능을 기본으로 넣는다. 사진이나 영상으로 3D 장면을 복원할 때 흔히 쓰는 방식인데, 작고 투명한 조각을 잔뜩 모아 사물의 형태와 겉모습을 되살린다."
-          },
-          {
-            "t": "p",
-            "x": "PLY와 SPZ 파일에서 스플랫을 가져올 수 있다. 내보내기는 아직 안 된다. 렌더링은 Blender의 모든 렌더 엔진에서 된다. 기능이 실제로 어떻게 움직이는지는 CGMatter의 영상이 빠르다."
-          },
-          {
-            "t": "video",
-            "yt": "CniycUnvcX4"
-          },
-          {
-            "t": "p",
-            "x": "릴리스 노트에는 알려진 한계 세 가지가 적혀 있다. 성능이 아직 만족스럽지 않고, Cycles와 EEVEE가 선형 공간에서 동작하는 탓에 렌더링도 완전히 정확하지는 않다. Apply Transform은 스케일과 회전, 구면 조화를 제대로 처리하지 못한다."
-          },
-          {
-            "t": "p",
-            "x": "Blender 5.3은 지금 알파 단계다. 알파는 9월 30일까지 이어지고, 정식 릴리스는 11월 10일로 잡혀 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-visionos27",
-      "eyebrow": "AI NEWS",
-      "headline": "visionOS 27 배포,\nVision Pro의 Siri에 AI가 붙는다",
-      "body": "Apple이 visionOS 27을 내놨다. Vision Pro의 Siri에 AI가 베타로 붙었고, M2와 M5 모두 받는다.",
-      "mini_headline": "visionOS 27 배포",
-      "tool": "VR Prototype",
-      "source": "UploadVR",
-      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg",
-            "cap": "이번 주 배포된 visionOS 27."
-          },
-          {
-            "t": "p",
-            "x": "Apple이 이번 주 Vision Pro용 visionOS 27을 배포했다. Vision Pro의 네 번째 메이저 운영체제이고, M2와 M5 모델 모두 받는다. 발표는 조용했지만 내용은 지금까지 중 가장 두툼한 축에 든다."
-          },
-          {
-            "t": "p",
-            "x": "Apple이 LLM으로 갈아엎은 Siri AI가 M2·M5 Vision Pro에 베타로 풀리기 시작했다. visionOS 설정에서 대기자 명단에 이름을 올려야 하고, 차례가 오면 알아서 내려받는다. 지금은 영어만 된다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/06/visionOS-27-New-Siri-AI.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Siri AI를 돌리는 건 차세대 Apple Foundation Models다. Google과 함께 만들었고 Gemini 모델을 바탕으로 한다(연 10억 달러 규모 계약으로 알려졌다). 가벼운 작업은 기기 안 작은 모델이, 복잡한 작업은 Apple의 Private Cloud Compute가 맡는다. Apple은 기존 Siri보다 “훨씬 더 유능하고 대화에 능한 비서”라고 표현했다."
-          },
-          {
-            "t": "p",
-            "x": "visionOS에서 Siri AI는 방 안 한 지점에 고정해 두는 구체로 나타난다. 그 구체를 쳐다보고 말을 걸면 된다. “시리”라고 부르지 않아도 되고, 부르고 싶으면 그렇게 해도 된다. Visual Intelligence도 함께 붙어 눈앞의 실물과 가상 물체를 두고 묻고 찾고 실행한다."
-          },
-          {
-            "t": "p",
-            "x": "나머지도 가볍지 않다. 움직이거나 손에 쥔 물체를 따라가는 고프레임 오브젝트 트래킹이 들어갔고, 개발자들은 갱신률을 30Hz 안팎으로 본다. IR LED 액세서리를 누구나 만들 수 있게 API도 열렸다. 광학 트래킹은 90Hz로 돌고 액세서리의 IMU 데이터와 합쳐진다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/visionOS-27-IR-LED-reference-devices.jpeg",
-            "cap": "DFRobot와 MikroE가 내놓은 visionOS 27 트래킹 액세서리 레퍼런스."
-          },
-          {
-            "t": "p",
-            "x": "RealityKit도 크게 손봤다. 가상 조명이 실제 공간을 비추는 Physical Space Lighting, 가우시안 스플랫 네이티브 렌더링, 실시간 천 시뮬레이션, 공간의 음향 성질을 기술하는 Reverb Mesh API가 새로 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "그밖에 아이슬란드 Thórsmörk 계곡이 열 번째 환경으로 합류했다. Mac 없이 헤드셋만으로 4K 무포비티드 영상을 최대 3분 찍는 High Quality Recording, 세 패널로 나뉜 새 제어 센터도 함께 왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/visionOS-27-New-Environment-Thorsmork.jpg",
-            "cap": "visionOS 27의 Thórsmörk 환경."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-webmcp",
-      "eyebrow": "AI NEWS",
-      "headline": "브라우저 속 에이전트가\nMCP 도구를 그대로 쓴다",
-      "body": "mcp-handler가 WebMCP를 실험 지원한다. 스크립트 태그 하나면 기존 MCP 도구가 브라우저 에이전트에도 열린다.",
-      "mini_headline": "MCP 도구, 브라우저 안으로",
+      "headline": "v0가 비공개 npm 패키지를 읽고\n사내 디자인 시스템 그대로 UI를 만든다",
+      "mini_headline": "v0, 사내 패키지를 읽다",
+      "body": "v0가 비공개 npm 패키지를 설치해 사내 디자인 시스템으로 UI를 만든다.",
       "tool": "Figma",
       "source": "Vercel",
-      "url": "https://vercel.com/changelog/webmcp-mcp-handler",
+      "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "v0가 npm의 비공개 패키지와 커스텀 레지스트리 패키지를 설치한다. 버셀 공유 환경 변수에 저장해 둔 npm 자격 증명을 읽어 쓰는 방식이다."
+          },
+          {
+            "t": "p",
+            "x": "팀이 이미 쓰는 디자인 시스템과 컴포넌트 라이브러리, 내부 패키지를 v0 안에서 바로 불러다 쓸 수 있다."
+          },
+          {
             "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1wrmQM9L89OzdOeYDnamED/87d05274eb7a09b0950980b9bfde89cd/image.png",
-            "cap": "mcp-handler에 들어간 WebMCP 지원."
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/czVykfPFuY95oRifQwYAf/4774cc727b297305cb1051ff8dd83efb/image__34_.png"
           },
           {
             "t": "p",
-            "x": "mcp-handler가 WebMCP를 실험 기능으로 지원한다. WebMCP는 브라우저 안에서 도는 에이전트에 도구를 노출하려고 제안된 웹 표준이다. 사이트에 스크립트 태그 하나만 붙이면 이미 쓰던 MCP 도구가 그쪽에서도 잡힌다."
+            "x": "설정은 간단하다. 버셀에서 공유 환경 변수 하나를 Development나 Preview 범위로 추가하면 된다. registry.npmjs.org에 올린 비공개 패키지는 NPM_TOKEN, 커스텀 레지스트리나 여러 레지스트리를 함께 쓸 때는 NPM_RC다."
           },
           {
             "t": "p",
-            "x": "열어 줄 도구는 experimental_webMcp 객체에 적어 고른다. createMcpHandler로 등록한 roll_dice를 tools 배열에 넣는 식이다."
+            "x": "NPM_RC는 스코프별 레지스트리와 다른 환경 변수 참조를 지원한다. GitHub Packages용으로 @acme 같은 조직 스코프를 잡아 두거나, 패키지 요청을 사내 JFrog Artifactory 레지스트리로 돌리는 식이다."
           },
           {
             "t": "p",
-            "x": "그다음 MCP 엔드포인트에 ?webmcp-script 파라미터를 붙여 스크립트를 불러온다. 이 스크립트가 해당 도구를 페이지에 등록하고, 호출이 들어오면 로그인한 사용자 자격으로 MCP 서버에 되넘긴다. 브라우저 쪽에서 OAuth를 따로 돌리지 않아도 인증이 걸린 도구가 작동하는 이유다."
+            "x": "자격 증명에는 sensitive 표시를 걸어 둘 수 있다. v0는 이 값을 모델에 노출하지 않고 샌드박스 파일시스템에도 쓰지 않는다."
           },
           {
             "t": "p",
-            "x": "Vercel은 9월 18일 체인지로그에서 이 소식을 알렸다. 쓰려면 mcp-handler를 2.2.0으로 올리면 된다."
+            "x": "연동 상태는 v0의 Settings → Integrations에서 확인한다."
           }
         ]
       }
     },
     {
-      "id": "design-vectorworks2027",
+      "id": "design-figma-motion-shaders",
       "eyebrow": "AI NEWS",
-      "headline": "Vectorworks 2027,\nRevit 패밀리를 동적 객체로 받는다",
-      "body": "Vectorworks 2027은 Revit Family와 DXF/DWG Dynamic Block을 동적 객체로 가져온다.",
-      "mini_headline": "Vectorworks 2027",
+      "headline": "피그마 모션에서 셰이더를 키프레임으로\n움직이는 법이 공식 영상에 나왔다",
+      "mini_headline": "셰이더에 키프레임 걸기",
+      "body": "피그마 모션에서 셰이더 채우기와 효과를 키프레임으로 움직이는 법을 보여준다.",
+      "tool": "Figma",
+      "source": "Figma (YouTube)",
+      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "spMhSWAmduw"
+          },
+          {
+            "t": "p",
+            "x": "피그마가 올린 1분 41초짜리 모션 기초 영상이다. 피그마 모션 안에서 셰이더를 애니메이션하는 방법을 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "셰이더는 레이어에 거는 시각 효과다. 패턴과 그러데이션, 텍스처를 만들어내는 채우기로 쓰거나, 레이어가 보이는 방식을 바꾸는 효과로 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "이 채우기와 효과에 키프레임을 찍어 움직임을 준다. 영상은 셰이더에 키프레임 얹기(00:19), 셰이더 효과 아래 놓인 오브젝트 움직이기(00:51), 에이전트로 셰이더와 키프레임 적용하기(01:31) 순서로 이어진다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-artec-neo-scanner",
+      "eyebrow": "AI NEWS",
+      "headline": "아텍 네오, 기능 부위에만 정밀도를\n몰아주는 첫 공차 기반 스캐너",
+      "mini_headline": "공차를 아는 스캐너",
+      "body": "아텍 네오는 공차가 중요한 부위에만 0.025mm 정밀도를 몰아주는 스캐너다.",
       "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "아텍 3D가 '공차 기반'을 내세운 첫 3D 스캐너 네오를 내놨다. 고해상도 풀컬러 캡처로 품질 검사와 역설계 방식을 바꾸겠다는 것이 회사 설명이다."
+          },
+          {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/09/Vectorworks-2027-adds-tools-for-connected-design-workflows.png",
-            "cap": "Vectorworks 2027."
+            "src": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
+            "cap": "아텍 네오"
           },
           {
             "t": "p",
-            "x": "Vectorworks, Inc.가 설계 소프트웨어 제품군 업데이트인 Vectorworks 2027을 내놨다. 성능과 비주얼라이제이션, 데이터 기반 그래픽, 콘텐츠 관리, 정보 교환이 손을 탔다. Architect, Landmark, Spotlight, Design Suite, Fundamentals, ConnectCAD, Braceworks에서 쓸 수 있다."
+            "x": "모든 면을 똑같이 중요하게 다루지 않는 것이 핵심이다. 기능이 걸린 형상에만 계측급 정밀도를 배분한다. 아텍은 이 방식을 공차 기반 3D 스캐닝이라 부른다. 타깃을 어디에 붙일지는 사용자가 정한다."
           },
           {
             "t": "p",
-            "x": "텍스처 리소스는 물리 기반 렌더링(PBR) 체계로 바뀌었고, 텍스처 편집 대화상자는 실시간 미리보기를 달고 새로 그려졌다. Vulkan과 Metal로 GPU를 직접 쓰게 해 3D 모델을 다룰 때 화면 이동과 표시가 빨라지도록 했다."
+            "x": "블루라이트 광학계와 단일 하이브리드 트래킹 구조 덕분에 타깃은 계측 기준점으로만 쓰인다. 공차가 빡빡한 곳에서 0.025mm 정밀도가 나온다. 나머지 구간은 AI 알고리즘이 형상과 텍스처, 색을 읽어 트래킹을 이어간다."
           },
           {
             "t": "p",
-            "x": "구독 사용자는 AI Visualizer도 쓴다. Google의 Nano Banana AI 모델을 Vectorworks 안으로 들여온 기능인데, 이번 업데이트로 더 높은 해상도와 장면 분석, 최대 14장의 참조 이미지를 받는다."
+            "x": "체적 정밀도는 0.025mm + 0.035mm/m, 부품 전체의 풀컬러 3D 데이터는 최대 0.05mm 해상도로 잡는다."
           },
           {
             "t": "p",
-            "x": "The Exchange는 앱 안에 새로 생긴 허브 겸 팔레트다. 사용자 커뮤니티와 업계 파트너가 올린 디자인 리소스를 찾고 올리고 나눈다. Revit Family와 DXF/DWG Dynamic Block 지원도 넓혀 이런 콘텐츠를 동적 객체로 가져온다. 에셋을 다시 만들거나 손으로 정리하는 일이 줄고, 팀이 프로젝트 정보를 일관되게 유지하기도 수월해진다."
+            "x": "아텍 스튜디오가 이 데이터를 받아 역설계와 검사에 바로 쓸 수 있게 다듬는다. 기본 편집 도구를 갖췄고 솔리드웍스, 지오매직, 폴리웍스와 연동된다."
           },
           {
             "t": "p",
-            "x": "실좌표에 모델을 맞추는 도구도 들어갔다. Geolocation Setup Wizard는 측량 자료와 포인트 클라우드, GIS 레이어, 위치 이미지를 공통 측량 기준점에 맞춰 정렬한다. 구독 사용자라면 여기에 Google Maps 이미지를 새로 얹을 수 있다."
+            "x": "유선으로도, 완전 무선으로도 쓴다. 배터리로는 최대 50분 연속 스캔이 가능하고 와이파이를 지원한다."
           },
           {
             "t": "p",
-            "x": "공연 쪽 작업 흐름도 챙겼다. Schematic View에서는 데이터 태그와 라벨 범례, 치수를 대화상자 하나에서 설정하고 세트로 저장해 여러 프로젝트에 다시 쓴다. 케이블 연결 도구는 전원·데이터 계획을 짜는 데 쓰인다. Vectorworks Spotlight 2027에는 Audio Listening Plane이 새로 생겨, 청취면을 정의하고 MVR로 음향 분석 도구와 주고받은 뒤 사운드 커버리지 결과를 Vectorworks에서 볼 수 있다."
+            "x": "아트 유킨 아텍 3D CEO는 GD&T에 빗댔다. \"GD&T의 발상은 단순하다. 극한의 정밀도가 모든 곳에 필요하지는 않다. 부품이 작동하는지를 가르는 것을 통제하라. 아텍 네오는 같은 원리를 3D 스캐닝에 적용한다.\""
+          },
+          {
+            "t": "p",
+            "x": "\"도면이 있다면 계측이 어디에 필요한지 도면이 알려준다. 역설계라면 형상을 복원하면서 그 판단을 내린다. 기능이 요구하는 자리에 계측을 두고, 부품 전체를 캡처하라. 그게 공차 기반 스캐닝이다.\""
           }
         ]
       }
     },
     {
-      "id": "design-ai-ad-test",
+      "id": "design-quad-remesher-blender",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 만든 광고,\n소비자 83%가 못 골라냈다",
-      "body": "광고 플랫폼 COOL의 조사에서 500명 넘는 소비자 중 17%만 AI 광고를 짚어냈다.",
-      "mini_headline": "AI 광고, 83%가 오답",
+      "headline": "면 수까지 직접 정하는 블렌더\n자동 리토폴로지 애드온 Smart Remesh 3",
+      "mini_headline": "면 수를 정하는 리토폴로지",
+      "body": "애드온 하나가 하드서피스와 오가닉 블렌더 모델의 면 수를 목표치 가까이 줄인다.",
+      "tool": "KeyShot",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "밀라드 캄바리가 만든 리토폴로지 애드온 Smart Remesh 3다. 하드서피스든 오가닉이든 가리지 않고 블렌더 모델에 쓴다. 삼각형이 수십만에서 수백만 개까지 불어난 모델을 손쉽게 줄이려고 만들었다. 평평한 패널은 깔끔한 n-gon으로 다시 짜고, 형태를 만들지 않는 엣지 루프는 걷어낸다."
+          },
+          {
+            "t": "p",
+            "x": "차별점은 면 수 조절이다. 리토폴로지를 마친 뒤 목표 폴리곤 수를 보장하지 못하는 여느 자동 리메셔와 달리, 이 애드온은 면 수를 사용자가 잡는다. 정확히 맞아떨어지지는 않지만 Manual 모드에서 20,000을 입력하면 20,000개 안팎의 면이 나온다."
+          },
+          {
+            "t": "p",
+            "x": "이전 버전보다 빠르고 똑똑해졌다. 옷에 돌리면 의상의 UV 패널을 하나씩 따로 리메시하면서 솔기는 건드리지 않는다. 스마트 클린업은 표시해 둔 엣지를 그대로 두고 군더더기 루프만 없앤다. Rebuild Flat은 팬과 대각선을 한 면으로 합치고, 3 edges는 메시에 남은 떠돌이 점을 정리한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/c2/6aad1995ecfd9.gif"
+          },
+          {
+            "t": "p",
+            "x": "모델 전체에 가벼운 올쿼드 케이지를 씌워 하드 엣지에 크리스를 주고 섭디비전 서피스 모디파이어를 얹는 것도 된다. 작업을 걸면 진행 막대가 실시간으로 뜬다. 중간에 멈추고 싶으면 Esc를 누르거나 Back to Original을 눌러 원본으로 되돌린다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/0a/6aad195164799.gif"
+          },
+          {
+            "t": "p",
+            "x": "3D 모델링이 처음인 사람에게 반가울 기능은 따로 있다. 설정 위에 커서를 올리면 그 값이 메시를 어떻게 바꾸는지 애니메이션으로 미리 보여준다. 각 섹션의 재생 버튼을 누르면 블렌더 안에서 바로 영상 강의가 열린다."
+          },
+          {
+            "t": "p",
+            "x": "애드온은 Superhive에서 받는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-human-led-next-phase",
+      "eyebrow": "AI NEWS",
+      "headline": "생성이 빨라질수록 판단의 몫이 커진다",
+      "mini_headline": "판단은 사람 몫이다",
+      "body": "스포티파이 디자인 디렉터는 만드는 속도가 빨라질수록 판단이 중요해진다고 말한다.",
       "tool": "AI Workflow",
       "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91609674/think-you-can-spot-an-ai-generated-ad-83-of-consumers-got-it-wrong",
+      "url": "https://www.fastcompany.com/91609602/the-next-phase-of-design-will-still-be-human-led",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "생성형 AI 덕분에 아이디어를 실물로 옮기는 속도가 그 어느 때보다 빨라졌다. 뉴욕에서 열린 2026 패스트컴퍼니 이노베이션 페스티벌의 '위대한 디자인의 새 규칙' 패널에 오른 스포티파이 프로덕트 디자인 시니어 디렉터 에밀리 갤러웨이는 그래서 사람의 역할이 더 커졌다고 했다. \"많다고 늘 좋은 건 아니다. 빠르다고 늘 좋은 것도 아니다. 사람의 판단이 정말 중요해지고 있다.\""
+          },
+          {
             "t": "img",
-            "src": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2026/09/p-1-91609674-ai-generated-ad-consumers.jpg",
-            "cap": "AI가 만든 광고를 골라내 보라는 COOL의 온라인 챌린지."
+            "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91609602-fcif-new-rules-of-great-design.jpg"
           },
           {
             "t": "p",
-            "x": "한 광고 회사가 자기네 AI 광고를 여럿 사이에서 찾아보라며 소비자에게 문제를 냈다. 지금까지 성적은 신통치 않다."
+            "x": "블록의 최고디자인책임자 브룩 엘리스도 같은 자리에서 동의했다. 새로 무언가를 만드는 비용이 이렇게 낮았던 적은 없었고, 그만큼 정말 만들 가치가 있는 것을 가려내는 일이 관건이 됐다."
           },
           {
             "t": "p",
-            "x": "The COOL Company는 제작부터 집행, 분석까지 AI로 처리하는 광고 플랫폼이다. 자사 광고가 사람이 만든 것에 밀리지 않는다는 걸 보이려고, 직접 만든 AI 광고와 실제 광고 사진을 섞어 진짜와 가짜를 가려내게 하는 온라인 챌린지를 열었다."
+            "x": "그렇다고 모든 디자인이 사람의 문제에서 출발해야 하는 건 아니다. 다만 기술이 먼저인 제품이라면 차갑게 느껴지지 않도록 조심해야 한다. 2023년에 나온 스포티파이 AI DJ가 그 사례다."
           },
           {
             "t": "p",
-            "x": "500명 넘는 소비자를 상대로 한 조사에서 AI로 만든 이미지를 제대로 짚은 참가자는 17%뿐이었다. 나머지 83%는 COOL의 광고에 속았다."
+            "x": "AI DJ는 플레이리스트의 곡들을 함께 넘겨주는 동반자처럼 느껴지길 바라며 만들었다. 로봇이 끼어드는 느낌이 아니라 진짜 친구처럼 들리려면 목소리가 관건이었다. 스포티파이는 자사 직원 재비어 저니건의 목소리를 본떴다. 음악과 큐레이션 이력에 팟캐스트 경험까지 갖춘 사람이었다. 기술로 굴러가는 제품이지만 사람 냄새는 저니건에게서 나왔다."
           },
           {
             "t": "p",
-            "x": "숫자만 보면 충격적이지만 사정은 조금 다르다. 참가자가 고른 건 두세 개 중 하나가 아니라 열 개 중 하나였다. 오답이 아홉 개고 정답은 하나였다."
+            "x": "갤러웨이는 생성형 AI를 쓰면 결과물을 하나하나 지정하는 대신 제품을 감싸는 더 큰 시스템을 설계하게 된다고 말했다. 그 설계가 제대로 굴러가려면 기계 옆에 어떤 사람들을 앉히느냐가 중요하다. AI DJ에는 작가와 문화·음악 전문가, 엔지니어를 섞은 팀을 꾸렸다. 갤러웨이는 이를 '작가실'이라 불렀다."
           },
           {
             "t": "p",
-            "x": "챌린지는 COOL 웹사이트에서 지금도 열려 있다. 자신 있으면 해 볼 만하다. 조사 참가자 중 절반은 AI 광고를 알아볼 자신이 있다고 답했는데, 챌린지를 마친 뒤엔 그 자신감이 꺾였다."
+            "x": "음악 앱은 AI를 쓸 법한 곳이지만, 100년 된 운동복 회사는 그렇지 않다. 그런데도 브룩스 러닝은 기술로 고객별 제안을 다듬을 방법을 찾고 있다. 쉽지는 않다. \"사람들이 달리기를 찾는 이유는 그게 가장 인간적인 행위이기 때문이다. 디지털 세계에서 빠져나오는 방법이다.\" 브룩스 러닝 최고제품책임자 카슨 카프라라의 말이다. 그런 회사가 한 선수가 공간을 어떻게 움직이는지 AI로 분석해 1마일 세계 기록에 도전하게 했다."
           },
           {
             "t": "p",
-            "x": "COOL은 광고에 AI를 쓰는 걸 어떻게 보는지도 함께 물었다. 응답자 73%는 사람이 만들었는지 AI가 만들었는지보다 광고가 자기와 얼마나 맞는지가 더 중요하다고 답했다."
+            "x": "\"한 달 전 런던의 그날, 그 경기만을 위한 스파이크를 여덟 달 만에 만들어냈다.\" 조시 커는 지금 세계 기록 보유자다. 카프라라는 덧붙였다. \"조시에게 세계 기록을 안겼다면, 보통 러너들에게는 무엇을 뜻할 수 있을까.\""
           }
         ]
       }

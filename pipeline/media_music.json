@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "music",
   "generated_by": "ax-media",
   "media": [
     {
-      "id": "music-playhead",
-      "type": "video",
-      "src": "pipeline/media/music-playhead.mp4",
-      "poster": "pipeline/media/music-playhead.jpg"
+      "id": "music-ethical-ai-tools",
+      "type": "image",
+      "src": "pipeline/media/music-ethical-ai-tools.jpg"
     },
     {
-      "id": "music-bandlab-mastering",
+      "id": "music-ai-music-awards",
       "type": "image",
-      "src": "pipeline/media/music-bandlab-mastering.jpg"
+      "src": "pipeline/media/music-ai-music-awards.jpg"
     },
     {
-      "id": "music-two-legs-five-arms",
+      "id": "music-understanding-search",
       "type": "image",
-      "src": "pipeline/media/music-two-legs-five-arms.jpg"
+      "src": "pipeline/media/music-understanding-search.jpg"
     },
     {
-      "id": "music-harmonykeen",
+      "id": "music-resing-voices-vol2",
       "type": "image",
-      "src": "pipeline/media/music-harmonykeen.jpg"
+      "src": "pipeline/media/music-resing-voices-vol2.jpg"
     },
     {
-      "id": "music-sound-alliance",
+      "id": "music-distrokid-universal",
       "type": "image",
-      "src": "pipeline/media/music-sound-alliance.png"
+      "src": "pipeline/media/music-distrokid-universal.jpg"
     }
   ]
 }
