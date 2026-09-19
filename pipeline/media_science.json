@@ -1,11 +1,32 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "science",
   "media": [
-    {"id": "science-mit-optics-lab", "type": "image", "src": "pipeline/media/science-mit-optics-lab.jpg"},
-    {"id": "science-ai-shape", "type": "image", "src": "pipeline/media/science-ai-shape.jpg"},
-    {"id": "science-sphere-packing", "type": "image", "src": "pipeline/media/science-sphere-packing.png"},
-    {"id": "science-alloy-vsf", "type": "image", "src": "pipeline/media/science-alloy-vsf.jpg"},
-    {"id": "science-nir-bioprocess", "type": "image", "src": "pipeline/media/science-nir-bioprocess.jpg"}
+    {
+      "id": "science-alphagenome-atlas",
+      "type": "video",
+      "src": "pipeline/media/science-alphagenome-atlas.mp4",
+      "poster": "pipeline/media/science-alphagenome-atlas.jpg"
+    },
+    {
+      "id": "science-ai-lab-bottleneck",
+      "type": "image",
+      "src": "pipeline/media/science-ai-lab-bottleneck.jpg"
+    },
+    {
+      "id": "science-ai-bioweapon-warning",
+      "type": "image",
+      "src": "pipeline/media/science-ai-bioweapon-warning.jpg"
+    },
+    {
+      "id": "science-mit-hardflow",
+      "type": "image",
+      "src": "pipeline/media/science-mit-hardflow.jpg"
+    },
+    {
+      "id": "science-llm-harsher-society",
+      "type": "image",
+      "src": "pipeline/media/science-llm-harsher-society.jpg"
+    }
   ]
 }

@@ -1,28 +1,49 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-09-20",
   "section": "games",
-  "now_iso": "2026-07-31T22:00:41Z",
+  "now_iso": "2026-09-19T22:00:00Z",
   "window_hours": 336,
-  "count": 2,
-  "note": "RECOVERY PASS for games (section at 1 pick, below floor 3). WebSearch budget exhausted; relied on WebFetch crawls of games outlets' AI tag/listing pages, then per-article published-time verification via curl (og article:published_time + JSON-LD datePublished), gated deterministically through pipeline/freshness.py at the 336h/14-day games window (window start 2026-07-17T22:00:41Z). Working listing crawls: pcgamer.com/tag/artificial-intelligence, aftermath.site/tag/ai, gamedeveloper.com/latest, 80.lv/tags/ai, pcgamer software/ai. NOT crawlable this run (403/404/429/blocked): gamesradar.com, rockpapershotgun.com, gamespot.com, destructoid.com, venturebeat.com, thegamer.com, gamesindustry.biz, ign.com, eurogamer.net, vg247.com. Dropped as general AI-industry noise with no craft hook: pcgamer software/ai run (Anthropic/OpenAI hacking, Meta data centers, book destruction, singularity), gamedeveloper EA CEO $38.6M pay. Dropped as already-live dups: pcgamer 2D-to-3D method (Jul 22), 80.lv Meshy. Genuinely thin fortnight for fresh games x AI craft news; 2 new distinct on-topic items found, bringing section to floor 3.",
-  "candidates": [
+  "generated_by": "ax-librarian-recovery",
+  "items": [
     {
+      "title": "Interview: How Cyberpunk 2077's Night City Was Built Almost Entirely by Hand",
+      "url": "https://80.lv/articles/interview-how-cyberpunk-2077-s-night-city-was-built-almost-entirely-by-hand/",
+      "source": "80 Level",
       "category": "games",
-      "title": "Nexus Mods finally tightens the screws on AI — though it's still playing softball with the tide of slop",
-      "url": "https://www.pcgamer.com/gaming-industry/nexus-mods-finally-tightens-the-screws-on-ai-though-its-still-playing-softball-with-the-tide-of-slop/",
-      "source": "PC Gamer",
-      "published_iso": "2026-07-31T15:46:26Z",
-      "excerpt": "The largest PC game modding platform is toughening its policy on generative AI, now requiring modders to properly disclose AI-generated assets in their uploads — a workflow/craft shift for the modding community as the platform grapples with AI 'slop'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg"
+      "published_iso": "2026-09-18T20:12:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50277/images/6aad9b1de2a2b/contain_1200x630.jpg",
+      "excerpt": "CD PROJEKT RED's art directors explain how Night City was handcrafted building by building: procedural tools were tested and rejected for quality reasons, leaving only a road-placement tool that artists still adjusted by hand afterwards. They also cover how first-person framing set the level of detail and why path tracing suited the lighting pipeline.",
+      "why": "현재 게임 업계의 절차적/AI 자동 생성 논쟁 한복판에서, AAA 오픈월드가 왜 수작업을 고수했는지 아트 디렉터가 직접 설명한 워크플로 사례."
     },
     {
+      "title": "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
+      "url": "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
+      "source": "PC Gamer",
       "category": "games",
-      "title": "All The Video Game Studios That Refuse To Use Generative AI",
-      "url": "https://aftermath.site/video-games-no-ai/",
-      "source": "Aftermath",
-      "published_iso": "2026-07-29T18:24:46Z",
-      "excerpt": "A running catalog of game studios publicly pledging to keep generative AI out of their development and art pipelines, spotlighting how a segment of the industry is defining craft and creative process against AI adoption.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg"
+      "published_iso": "2026-09-10T13:25:57Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KpLCJsAdeUZxuompAAsdK9-2560-80.png",
+      "excerpt": "A free app pipes DLSS 5 neural rendering across the whole Windows desktop — including video and photos, not just games — and it runs on RTX 30-series cards as well.",
+      "why": "뉴럴 렌더링이 게임 엔진 밖으로 나와 데스크톱 전체 이미지·영상에 적용되는 단계 — 아티스트의 레퍼런스/캡처 워크플로까지 영향권에 들어온다."
+    },
+    {
+      "title": "Breaking Benjamin's singer is begging concertgoers to try his AI-assisted first-person Fallout 4 mod",
+      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first-person mod he's made for Fallout 4, after the mod drew criticism inside the modding community for its use of AI.",
+      "why": "모드 커뮤니티에서 'AI 보조 제작물'이 어떻게 수용/거부되는지 보여주는 사례 — 개인 제작자의 AI 사용 공개와 평판 관리 문제."
+    },
+    {
+      "title": "Writers use AI and distrust it, even when the words are their own, Medium report says",
+      "url": "https://gamesbeat.com/writers-use-ai-and-distrust-it-even-when-the-words-are-their-own-medium-report-says/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-09-19T00:49:24Z",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/Bios_robotlab_writing_robot-1024x768.jpg",
+      "excerpt": "A new Medium study finds a majority of writers now use AI in their process, yet most of them distrust AI-written work — including readers' suspicion of text the writers actually wrote themselves.",
+      "why": "창작자가 AI를 쓰면서도 결과물을 불신하는 이중 구조 — 게임 내러티브/기획 문서 작성 현장의 신뢰 비용을 수치로 보여준다."
     }
   ]
 }

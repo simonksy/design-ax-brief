@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "books",
   "media": [
-    {"id": "books-calibre-ai-fiction", "type": "image", "src": "pipeline/media/books-calibre-ai-fiction.jpg"},
-    {"id": "books-writers-ai-survey", "type": "image", "src": "pipeline/media/books-writers-ai-survey.jpg"},
-    {"id": "books-ai-licensing-market", "type": "image", "src": "pipeline/media/books-ai-licensing-market.jpg"},
-    {"id": "books-love-machine", "type": "image", "src": "pipeline/media/books-love-machine.png"},
-    {"id": "books-malaysia-illustrators", "type": "image", "src": "pipeline/media/books-malaysia-illustrators.jpg"}
+    {"id": "books-chefs-licensing", "type": "image", "src": "pipeline/media/books-chefs-licensing.jpg"},
+    {"id": "books-flowtica-verso", "type": "image", "src": "pipeline/media/books-flowtica-verso.jpg"},
+    {"id": "books-crl-digitization", "type": "svg"},
+    {"id": "books-deepfake-novel", "type": "image", "src": "pipeline/media/books-deepfake-novel.png"},
+    {"id": "books-bookpact-ai", "type": "image", "src": "pipeline/media/books-bookpact-ai.jpg"}
   ]
 }

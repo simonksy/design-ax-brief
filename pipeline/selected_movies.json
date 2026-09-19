@@ -1,69 +1,73 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "movies",
   "picks": [
     {
-      "headline": "애프터이펙트 AI 어시스턴트, 공개 베타 진입 — 프로젝트 전체를 읽고 표현식·리깅까지 손본다",
-      "url": "https://www.redsharknews.com/after-effects-ai-assistant-ibc2026",
-      "source": "RedShark News",
+      "headline": "PVC at IBC 2026: Adobe Debuts Generative Media Tool to Bring AI Directly into Premiere Pro Timeline",
+      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
+      "source": "ProVideo Coalition",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "모션그래픽 작업자가 당장 써볼 수 있는 실물 베타다. 프로젝트 전체를 읽어 파일 정리·표현식 작성·깨진 리그 복구까지 맡는다는 점에서 내일의 작업 순서가 바뀐다.",
-      "published_iso": "2026-09-18T13:32:54Z",
-      "og_image": "https://www.redsharknews.com/hubfs/redshark%20ibc2026%20after%20effects%202.jpg",
-      "excerpt": "Adobe's After Effects AI Assistant is now in open public beta: it reads an entire project to reorganize files, write expressions and repair broken animation rigs, demoed live at IBC2026."
+      "rationale": "생성 결과물을 다른 플랫폼에서 만들어 들여오던 왕복을 없애고 프리미어 타임라인 안에서 끝내는 기능이다. 편집자가 내일 당장 작업 순서를 바꿀 만한 실물 릴리스.",
+      "published_iso": "2026-09-14T07:18:26-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
+      "excerpt": "Adobe’s Generative Media Tool allows users to produce text-to-media AI-generated content and directly import it within their Premiere Pro timeline. Instead of hopping back and forth between multiple different platforms, the tool aims to cut out the middleman and expedite workflows, keeping everything accessible within Premiere Pro."
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/generative-ai-tools-1236702155/",
-      "source": "The Hollywood Reporter",
+      "headline": "'VisionQuest' Creator Says No GenAI Was Used In Making Of Show",
+      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "source": "Deadline",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "생성형 AI가 실사 촬영을 대체하는 게 아니라 어느 공정에 붙는지를, 도구를 만드는 쪽이 직접 선을 그어 설명한다. 프로덕션 워크플로 안에서 AI의 현재 위치를 잡는 데 쓸모가 있다.",
-      "published_iso": "2026-09-15T23:14:43Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Coco-Mao-photo.jpg",
-      "excerpt": "OpenArt CEO Coco Mao told the Access Canada Summit that generative tools are still complements to live-action shooting, mapping where AI actually lands in a production workflow today.",
-      "headline": "Gen AI Founder: Tools Won’t Replace Live Film Production – Yet"
+      "rationale": "AI를 소재로 한 마블 시리즈가 제작에는 생성형 AI를 전혀 쓰지 않았다고 못 박았다. '사람이 만들었다'는 선언이 이제 작품의 마케팅 자산이자 납품 요건이 되는 흐름을 보여준다.",
+      "published_iso": "2026-09-19T00:40:52+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg?w=1024",
+      "excerpt": "Despite 'VisionQuest's subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made."
     },
     {
-      "headline": "블랙매직은 왜 다빈치 리졸브의 AI를 '조수' 선에서 멈춰 세웠나",
-      "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
-      "source": "RedShark News",
+      "headline": "The director of ‘HOPE’ breaks down those insane chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender",
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "source": "befores & afters",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "리졸브 21.1의 AI가 하이라이트 자동 편집 같은 잡무는 맡되 합성 음성·프레임 생성은 의도적으로 하지 않는다는 선 긋기. 편집 툴에서 '보조'와 '저작'의 경계를 어디에 둘지 판단 기준이 된다.",
-      "published_iso": "2026-09-14T14:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
-      "excerpt": "Blackmagic explains why Resolve 21.1's AI handles editorial chores like auto highlight reels but deliberately stops short of generating synthetic audio or frames — a stated line between assistance and authorship."
+      "rationale": "모캡 연기와 크리처 디자인을 실제 촬영 현장의 판단 순서로 풀어낸 제작 해부. 생성 도구 뉴스 사이에서 '사람이 어떻게 설계하는가'의 레퍼런스가 된다.",
+      "published_iso": "2026-09-10T10:54:01+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg",
+      "excerpt": "Plus, how the creatures were designed for the film."
     },
     {
-      "headline": "런웨이가 공개한 'AI 캐스팅' 워크플로 — 한 얼굴을 시퀀스 내내 유지하는 법",
-      "url": "https://www.youtube.com/watch?v=ZK9NkUIqNZQ",
-      "source": "Runway (YouTube)",
+      "headline": "What Hollywood thinks about existential AI warnings",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "source": "The Verge",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "생성 숏에서 가장 자주 깨지는 캐릭터 일관성을 '캐스팅'이라는 제작 언어로 정리한 실습 영상. 따라 하면 바로 적용 가능한 절차라 실무 난이도가 내려간다.",
-      "published_iso": "2026-09-18T16:49:23Z",
-      "og_image": "https://i.ytimg.com/vi/ZK9NkUIqNZQ/maxresdefault.jpg",
-      "excerpt": "Runway walks through building believable, consistent characters for generative shots — an AI 'casting' workflow aimed at filmmakers who need the same face to hold across a sequence."
+      "rationale": "SAG-AFTRA와 WGA가 먼 미래의 위협 대신 지금 벌어지는 계약·초상권 문제에 집중한다는 정리. 제작 현장에서 AI를 쓸 때 실제로 걸리는 조항이 무엇인지 가늠하게 한다.",
+      "published_iso": "2026-09-18T16:35:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "SAG-AFTRA and the WGA are focused on what’s actually happening now."
     },
     {
-      "headline": "AI 배우 틸리 노우드, 생방송 인터뷰 도중 광둥어로 튀었다",
-      "url": "https://deadline.com/2026/09/tilly-norwood-malfunctions-piers-morgan-interview-cantonese-1237107406/",
-      "source": "Deadline",
+      "headline": "Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry",
+      "url": "https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "스튜디오에 팔리고 있는 합성 배우 기술의 실패 모드가 공개 석상에서 그대로 드러났다. 생성 캐릭터를 라이브·납품물에 쓸 때 어떤 안전장치가 필요한지 보여주는 사례다.",
-      "published_iso": "2026-09-18T14:23:39Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-14.50.34-e1789741014823.png",
-      "excerpt": "The AI 'actress' from Particle6 switched from English to Cantonese midway through a live Piers Morgan interview, a public failure mode for synthetic-performer tech being pitched to studios."
+      "rationale": "엔터·테크 양쪽 실무자가 한자리에서 '어디에 쓰면 되는가'를 구체적 용례로 좁혀 간 패널. 도입을 설득하거나 반대로 선을 그을 때 쓸 근거가 모여 있다.",
+      "published_iso": "2026-09-18T00:45:21+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/ARZ_0848.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Several entertainment and tech personalities discussed AI during Variety's “Entertainment and Media in the Age of AI” panel on Thursday."
     }
   ],
   "notes": [
-    "cross-section collision: 80.lv Blender 5.3 gaussian-splat kept in design, replaced here with THR OpenArt piece"
+    "content-dedup drop: AWN 'Lightstorm Vision acquires Outsyders' = already published 2026-09-17 (movies-lightstorm-outsyders, postPerspective) — same deal, different outlet",
+    "content-dedup drop: postPerspective 'Resolve 21.1 integrates AI assistants' = already published 2026-09-19 (movies-resolve-ai-line, RedShark) — same 21.1 release",
+    "content-dedup drop: THR 'Tilly Norwood glitches during Piers Morgan interview' = already published 2026-09-19 (movies-tilly-norwood-malfunction, Deadline) — same incident",
+    "within-pool dedup: Adobe Generative Media in Premiere was covered by 3 candidates (RedShark 09-12, ProVideo Coalition 09-14, The Verge 09-08). Kept PVC only — the dedicated debut piece, and it keeps 5 distinct outlets. RedShark was additionally avoided because 2026-09-19 already ran RedShark's IBC2026 Adobe booth piece (After Effects AI Assistant)",
+    "diversity guard: 5 distinct outlets (ProVideo Coalition, Deadline, befores & afters, The Verge, Variety), max 1 per outlet; single-category section so accents pulled from sources.json palette"
   ]
 }

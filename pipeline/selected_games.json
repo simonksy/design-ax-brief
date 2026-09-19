@@ -1,100 +1,121 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "games",
   "picks": [
     {
-      "headline": "Unity, Codex 공식 플러그인 공개 — 에이전트가 Unity 방식대로 작업한다",
-      "url": "https://unity.com/blog/unity-plugin-codex",
-      "source": "Unity",
+      "headline": "인섬니악 \"마블 울버린에 AI 생성 에셋은 없다\" — 수상한 표지판 논란에 직접 해명",
+      "url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
+      "source": "IGN",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "https://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity's official plugin for Codex is an official plugin that gives OpenAI's Codex Unity-written skills, so the agent works from Unity's own guidance for jobs like sprite atlases, URP renderer features, in-app purchases, and localization instead of from whatever it absorbed about Unity elsewhere.",
-      "rationale": "엔진 제작사가 직접 쓴 스킬을 에이전트에 주입하는 1차 소스 릴리스 — 스프라이트 아틀라스·URP·현지화 작업을 내일 당장 다르게 굴릴 수 있다."
+      "published_iso": "2026-09-19T17:02:08Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Insomniac Games has stepped in to confirm Marvel's Wolverine contains no generative AI after a few bizarre in-game signs raised eyebrows on social media.",
+      "rationale": "게임 내 텍스트 한 장이 곧바로 'AI 슬롭' 의심으로 번지는 시대 — 대형 스튜디오가 어떤 속도와 문장으로 해명해야 하는지 보여주는 사례."
     },
     {
-      "headline": "언리얼 엔진 5.8의 MCP 시작하기 — AI 에이전트가 에디터를 직접 조작한다",
-      "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
-      "source": "Unreal Engine (YouTube)",
+      "headline": "\"AI 음성 때문에 망했다\"는 리뷰, 알고 보니 개발자 아내의 첫 연기였다",
+      "url": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/",
+      "source": "GameSpot",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-09-07T17:26:25+00:00",
-      "og_image": "https://i.ytimg.com/vi/k0tgmrBuIJc/maxresdefault.jpg",
-      "excerpt": "Epic walks through the Model Context Protocol in Unreal Engine 5.8, letting AI agents read and drive the editor as part of a production workflow.",
-      "rationale": "Epic가 직접 보여주는 MCP 실전 세팅 — 에이전트를 에디터 안으로 들이는 구체적 절차라 파이프라인 담당자가 바로 따라할 수 있다."
+      "published_iso": "2026-09-18T23:41:54Z",
+      "og_image": "https://www.gamespot.com/a/uploads/original/1179/11799911/4585010-luminary.jpg",
+      "excerpt": "A player left a negative Steam review of action-RPG Luminary claiming its \"awful AI-generated voice killed it\" for them. The developer replied that the voice was his wife's first-ever voice acting gig.",
+      "rationale": "사람이 만든 결과물이 AI로 오인돼 평점을 깎는 역방향 리스크 — 소규모 팀의 크레딧·공정 표기 전략을 다시 보게 만든다."
     },
     {
-      "headline": "MetaHuman Animator, 마커 없는 영상만으로 얼굴 퍼포먼스를 캡처",
-      "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
-      "source": "Unreal Engine (YouTube)",
+      "headline": "CUDA 없이 돌아간 DLSS 5 뉴럴 렌더링 — 인텔 Arc 140V에서 3~5 FPS",
+      "url": "https://wccftech.com/intel-arc-140v-runs-dlss-5-neural-rendering-without-cuda/",
+      "source": "Wccftech",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "published_iso": "2026-09-19T12:24:35Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Arc-140V-DLSS-5-NR.jpg",
+      "excerpt": "Modder runs DLSS 5 Neural Rendering on Intel Arc 140V, achieving 3-5 FPS at 720p and 10.5 FPS at 640x360p with a 2.3 GB memory requirement",
+      "rationale": "DLSS 5 뉴럴 렌더링이 CUDA 전용이 아니라는 첫 실증 — 성능은 무너졌지만 뉴럴 렌더링의 하드웨어 종속성 논의를 바꾼다."
+    },
+    {
+      "headline": "다크 소울 3에 패스 트레이싱과 DLSS 5 — 리메이크급 화면을 모드가 만들었다",
+      "url": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-09-10T20:29:23+00:00",
-      "og_image": "https://i.ytimg.com/vi/r_-fEi7fXLA/maxresdefault.jpg",
-      "excerpt": "Epic demos MetaHuman Animator capturing full facial performance from markerless video, turning an ordinary camera pass into game-ready character animation.",
-      "rationale": "일반 카메라 한 대로 게임용 표정 애니메이션을 뽑는 데모 — 소규모 팀의 캐릭터 연출 비용 구조를 바꾼다."
+      "published_iso": "2026-09-18T14:45:30Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Dark-Souls-3-Path-Tracing-NVIDIA-DLSS-5-1920x1077.jpg",
+      "excerpt": "Dark Souls 3 path tracing mod receives stunning new showcase featuring NVIDIA DLSS 5 and technical FAQ details.",
+      "rationale": "공식 리마스터 없이 조명 파이프라인만 갈아끼워 세대 차이를 만든 사례 — 구작 비주얼 갱신의 현실적 상한선을 보여준다."
     },
     {
-      "headline": "오카리나 오브 타임 PC 포팅 팀, 수년간 AI 사용 인정 — '바이브코딩 슬롭' 논란",
-      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
-      "source": "Kotaku",
-      "tool": "Games",
-      "accent": "#ff5a4d",
-      "motif": "cube",
-      "published_iso": "2026-09-17T22:00:44+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
-      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'",
-      "rationale": "'어느 버전부터 AI가 섞였는지 모른다'는 답변이 핵심 — AI 기여분을 기록하지 않은 코드베이스가 어떤 신뢰 비용을 치르는지 보여주는 사례."
-    },
-    {
-      "headline": "90년대 말 콘솔 슈터의 적 AI를 되살리다 — 똑똑함보다 가독성",
-      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+      "headline": "사이버펑크 2077 나이트 시티는 거의 전부 수작업이었다 — CDPR 아트 디렉터의 증언",
+      "url": "https://80.lv/articles/interview-how-cyberpunk-2077-s-night-city-was-built-almost-entirely-by-hand/",
       "source": "80 Level",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-09-15T14:19:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
-      "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat.",
-      "rationale": "적 AI를 '더 똑똑하게'가 아니라 '더 읽히게' 설계한 1인 개발자의 분해 — 전투 설계 판단 기준을 즉시 다시 잡게 만든다."
+      "published_iso": "2026-09-18T20:12:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50277/images/6aad9b1de2a2b/contain_1200x630.jpg",
+      "excerpt": "CD PROJEKT RED's art directors explain how Night City was handcrafted building by building: procedural tools were tested and rejected for quality reasons, leaving only a road-placement tool that artists still adjusted by hand afterwards. They also cover how first-person framing set the level of detail and why path tracing suited the lighting pipeline.",
+      "rationale": "절차적·자동 생성 도구를 실제로 써보고 품질 때문에 걷어낸 AAA 오픈월드의 판단 기준 — 레벨 아티스트가 내일 당장 적용할 수 있는 워크플로 근거다."
     }
   ],
+  "recovery_note": "리커버리 수집 패스에서 4건(신규 URL)을 추가 확보해 5번째 카드를 채움. 80 Level 나이트 시티 인터뷰를 선정 — 아웃렛 분산(Wccftech 2건 유지, 80 Level 신규)과 토픽 분산(DLSS 3번째 카드 회피)을 동시에 만족.",
   "dropped": [
     {
       "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
-      "reason": "중복: automaton-media의 동일 CESA 조사 기사 2026-09-18 게재"
+      "reason": "중복: 동일 CESA/TGS 조사(85.8%)를 AUTOMATON West판으로 2026-09-18 games 섹션 발행(games-cesa-genai). 섹션 소유권과 무관하게 dedup 우선."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "reason": "중복: 같은 CESA 조사 수치가 기사 핵심 — 2026-09-18 발행분과 동일 사건."
+    },
+    {
+      "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
+      "reason": "풀 내 중복: IGN 동일 사안 기사 채택."
     },
     {
       "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "reason": "중복: GamesRadar 동일 판결 기사 2026-09-12 게재"
+      "reason": "중복: 동일 판결을 GamesRadar판으로 2026-09-12 발행(전일 큐레이션에서도 동일 사유로 드롭)."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
+      "reason": "중복: Blizzard 노조 계약 승인 건은 80 Level판으로 2026-09-12 발행."
     },
     {
       "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
-      "reason": "중복: GamesIndustry.biz의 동일 Tim Willits 인터뷰 2026-09-14 게재"
+      "reason": "중복: Tim Willits의 Rideshare 생성형 AI 발언은 GamesIndustry.biz판으로 2026-09-14 발행(games-saber-willits)."
     },
     {
-      "url": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
-      "reason": "중복: 80 Level의 Blizzard 노조 계약 기사 2026-09-12 게재"
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "reason": "중복: Level-5 쇼케이스 생성형 AI 사과 건은 IGN판으로 2026-09-13 발행(games-level5-ai-backlash-r2w)."
     },
     {
-      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
-      "reason": "Level-5 후속 클러스터 — TheGamer 기사와 동일 사안, 그리고 IGN 2026-09-13 기사와 중복"
+      "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
+      "reason": "중복: 위와 동일한 Level-5 클러스터."
     },
     {
-      "url": "https://www.thegamer.com/level-5-responds-ai-use-scale-back/",
-      "reason": "Level-5 클러스터 전체를 IGN 2026-09-13 게재분과 중복으로 판단해 제외"
+      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+      "reason": "교차 섹션 중복: design 섹션에서 2026-09-19 발행(design-blender-splat)."
     },
     {
-      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-      "reason": "교차 섹션 중복: design 섹션에서 2026-09-18 게재"
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+      "reason": "오늘자 gadgets 섹션 소유 — games에서 선택 금지."
     },
     {
-      "url": "https://aftermath.site/crazy-taxi-ai-preview/",
-      "reason": "TheGamer의 Crazy Taxi World Tour AI 사안(2026-08-27)과 동일 토픽"
+      "url": "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
+      "reason": "리커버리 후보 — 미채택. (1) 다양성: 최종 5장 중 이미 DLSS 5 뉴럴 렌더링 카드가 2장이라 3번째는 섹션을 단조롭게 만들고 토픽 ≤2 가드에 저촉. (2) 내용 중복 위험: RTX 20/30 구형 GPU에서 DLSS 5를 구동시키는 동일 계열 툴 이야기를 2026-09-06 Wccftech판(dlss-5-now-works-on-rtx-20-30-gpus…)으로 이미 발행. (3) 09-10 기사로 풀 내 최고령."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+      "reason": "리커버리 후보 — 미채택. 유명인 모딩 드라마 성격이 강해 실무 액셔너빌리티가 낮고, 'AI 보조 모드에 대한 커뮤니티 반발'이라는 축은 RPS 2026-08-08 모딩 사이트 투명성 기사와 논지가 겹친다. 09-09 발행으로 신선도도 가장 낮은 편."
+    },
+    {
+      "url": "https://gamesbeat.com/writers-use-ai-and-distrust-it-even-when-the-words-are-their-own-medium-report-says/",
+      "reason": "리커버리 후보 — 미채택. games 섹션 적합도가 낮은 일반 집필 설문(Medium 리포트)이며, '작가들의 AI 사용/불신 양분' 조사 결과는 books 섹션에서 2026-09-19 발행(selfpublishingadvice.org/ai-survey-reveals-deep-divide-among-writers)과 내용이 사실상 겹친다."
     }
   ]
 }

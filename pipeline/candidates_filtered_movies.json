@@ -1,158 +1,104 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "movies",
-  "now_iso": "2026-09-18T22:15:00Z",
+  "now_iso": "2026-09-19T22:00:00Z",
   "window_hours": 336,
   "generated_by": "ax-librarian",
   "items": [
     {
-      "title": "Peter Jackson’s Weta FX to Talk AI as Netflix’s Creative Asia Spotlights ‘Possible Love’ in Busan",
-      "url": "https://variety.com/2026/film/markets-festivals/weta-fx-kimball-thurston-netflix-busan-creative-asia-ai-panel-1236863937/",
-      "source": "Variety",
-      "published_iso": "2026-09-16T07:17:44Z",
-      "excerpt": "Netflix and the Busan International Film Festival bring back Creative Asia on Oct. 10, with Weta FX CTO Kimball Thurston on a panel about how AI and machine learning are reshaping VFX craft and the Asian production pipeline.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Possible-Love1.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "‘Avengers’ Studio AGBO’s Chris Brearton, Dominic Hughes to Keynote Tokyo Market on Artist-Led AI in Storytelling",
-      "url": "https://variety.com/2026/film/markets-festivals/avengers-agbo-tokyo-market-keynote-ai-1236865186/",
-      "source": "Variety",
-      "published_iso": "2026-09-17T08:24:58Z",
-      "excerpt": "TIFFCOM will host AGBO partner Chris Brearton and chief scientific officer Dominic Hughes on 'Technology Meets Storytelling,' framing an artist-led approach to AI inside the Russo brothers' studio.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Chris-Brearton-Dominic-Hughes.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Interview With Tilly Norwood Reveals Even Fewer Reasons For the Existence of the AI ‘Actress’",
-      "url": "https://variety.com/2026/biz/features/a-qa-with-tilly-norwood-offers-fewer-reasons-her-existence-1236861262/",
-      "source": "Variety",
-      "published_iso": "2026-09-14T18:24:01Z",
-      "excerpt": "Variety logs on to tillynorwood.com for an extended chat with the synthetic 'actress' from Particle6, and comes away with a sharper read on what a generative performer can and cannot do on screen.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Talking-Tilly-launch-1-September-2026-1-1.png",
-      "category": "movies"
-    },
-    {
-      "title": "Tilly Norwood Malfunctions During Piers Morgan Interview: “Seems I Had A Little Hiccup”",
-      "url": "https://deadline.com/2026/09/tilly-norwood-malfunctions-piers-morgan-interview-cantonese-1237107406/",
-      "source": "Deadline",
-      "published_iso": "2026-09-18T14:23:39Z",
-      "excerpt": "The AI 'actress' from Particle6 switched from English to Cantonese midway through a live Piers Morgan interview, a public failure mode for synthetic-performer tech being pitched to studios.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-14.50.34-e1789741014823.png",
-      "category": "movies"
-    },
-    {
-      "title": "‘Adolescence’ Scribe Jack Thorne Claims Fellow Writers Are Using AI To “Cheat” & Says Those Caught Should Be Punished",
-      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
-      "source": "Deadline",
-      "published_iso": "2026-09-14T08:51:03Z",
-      "excerpt": "In a WGGB speech, Jack Thorne alleged that some screenwriters are quietly generating scripts with AI and called for enforcement — a live question for how script craft and credit get policed.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "‘The View’s Sunny Hostin Defends AI As “New Art Form” Amid “Gatekeeping In Hollywood Around Black & Brown Creative Content”",
-      "url": "https://deadline.com/2026/09/the-view-sunny-hostin-defends-ai-gatekeeping-hollywood-1237099723/",
-      "source": "Deadline",
-      "published_iso": "2026-09-12T01:52:58Z",
-      "excerpt": "Sunny Hostin, who licensed her name and likeness to AI company Fountain 0, argued on The View that generative AI is a 'new art form' that can route around Hollywood gatekeeping — drawing pushback from her co-hosts.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/the-view-joy-behar-sunny-hostin-alyssa-farah-griffin.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Gen AI Founder: Tools Won’t Replace Live Film Production – Yet",
-      "url": "https://www.hollywoodreporter.com/business/digital/generative-ai-tools-1236702155/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-15T23:14:43Z",
-      "excerpt": "OpenArt CEO Coco Mao told the Access Canada Summit that generative tools are still complements to live-action shooting, mapping where AI actually lands in a production workflow today.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Coco-Mao-photo.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries",
-      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-15T14:27:00Z",
-      "excerpt": "Producers of premium mobile microdramas discussed how vertical storytelling craft is evolving and where generative AI fits, at the Access Canada Summit.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/1-1-EMBED-2026.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "After Effects AI Assistant enters public beta",
-      "url": "https://www.redsharknews.com/after-effects-ai-assistant-ibc2026",
-      "source": "RedShark News",
-      "published_iso": "2026-09-18T13:32:54Z",
-      "excerpt": "Adobe's After Effects AI Assistant is now in open public beta: it reads an entire project to reorganize files, write expressions and repair broken animation rigs, demoed live at IBC2026.",
-      "og_image": "https://www.redsharknews.com/hubfs/redshark%20ibc2026%20after%20effects%202.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Blackmagic keeps AI on assistant duty in DaVinci Resolve, for now",
-      "url": "https://www.redsharknews.com/blackmagic-davinci-resolve-ai-assistant",
-      "source": "RedShark News",
-      "published_iso": "2026-09-14T14:00:00Z",
-      "excerpt": "Blackmagic explains why Resolve 21.1's AI handles editorial chores like auto highlight reels but deliberately stops short of generating synthetic audio or frames — a stated line between assistance and authorship.",
-      "og_image": "https://www.redsharknews.com/hubfs/ibc%20blackmagic%20stand.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Adobe sees AI as a workflow assistant, not a creative director",
       "url": "https://www.redsharknews.com/premiere-ai-features-adobe-interview",
       "source": "RedShark News",
-      "published_iso": "2026-09-12T18:00:00Z",
-      "excerpt": "In an IBC interview, Adobe's video team frames Premiere Pro's new AI features — generation, sound effects, audio cleanup — as solutions to concrete production problems rather than replacements for editorial judgment.",
+      "category": "movies",
+      "published_iso": "2026-09-12T16:47:04.000Z",
       "og_image": "https://www.redsharknews.com/hubfs/ibc%20adobe%20stand%202.jpg",
-      "category": "movies"
+      "excerpt": "Adobe walks through the AI features arriving in Premiere Pro at IBC 2026, including the new Generative Media panel and how partner video models plug into the timeline.",
+      "headline": "Premiere's new AI tools, explained by Adobe"
     },
     {
-      "title": "Blender 5.3 Is Getting Native 3D Gaussian Splat Support",
-      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
-      "source": "80 Level",
-      "published_iso": "2026-09-18T12:39:00Z",
-      "excerpt": "Blender 5.3 will import and render 3D Gaussian Splats from PLY and SPZ files natively across all render engines, removing the add-on dependency for neural-capture plates in film and previs work.",
-      "og_image": "https://cdn.80.lv/static/icons/logo80lv.svg",
-      "category": "movies"
+      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-09-14T07:18:26-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
+      "excerpt": "Adobe’s Generative Media Tool allows users to produce text-to-media AI-generated content and directly import it within their Premiere Pro timeline. Instead of hopping back and forth between multiple different platforms, the tool aims to cut out the middleman and expedite workflows, keeping everything accessible within ",
+      "headline": "PVC at IBC 2026: Adobe Debuts Generative Media Tool to Bring AI Directly into Premiere Pro Timeline by Alec C. Cohen - ProVideo Coalition"
     },
     {
-      "title": "AOTO Brings Creators and Technology Together at CITS 2026, Celebrating the Best in Virtual Production",
-      "url": "https://theasc.com/news/aoto-cits-2026-sponsored/",
-      "source": "American Cinematographer (ASC)",
-      "published_iso": "2026-09-13T21:07:21Z",
-      "excerpt": "AOTO's CITS 2026 summit in Beijing ran under the theme 'AI + XR Reshaping Content Creation' and handed out the first Golden Screen Awards for virtual production work.",
-      "og_image": "https://theasc.com/wp-content/uploads/2026/09/image-3.png",
-      "category": "movies"
+      "url": "https://postperspective.com/blackmagic-resolve-21-1-integrates-ai-assistants-adds-new-tools-system-wide/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-09-09T20:24:40+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Blackmagic-main-IBC.jpg",
+      "excerpt": "Blackmagic has released DaVinci Resolve 21.1, an update that adds integration with AI assistants including Claude, Claude Code and ChatGPT Codex; expands camera format support on the Photo page; and adds new tools and controls across editing, color, Fusion and Fairlight. DaVinci Resolve 21.1 is available now as a free ",
+      "headline": "Blackmagic Resolve 21.1 Integrates AI Assistants, Adds New Tools System Wide - postPerspective"
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "published_iso": "2026-09-18T20:18:00Z",
-      "excerpt": "AMI Labs, World Labs and peers have raised huge sums on world models — the tech underpinning generative sets and scene generation — yet stay quiet about what they are actually shipping, even to their data suppliers.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg",
-      "category": "movies"
+      "url": "https://beforesandafters.com/2026/09/10/hope/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-09-10T10:54:01+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg",
+      "excerpt": "Plus, how the creatures were designed for the film.",
+      "headline": "The director of ‘HOPE’ breaks down those insane chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender - befores & afters"
     },
     {
-      "title": "Master Realistic AI Casting",
-      "url": "https://www.youtube.com/watch?v=ZK9NkUIqNZQ",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-09-18T16:49:23Z",
-      "excerpt": "Runway walks through building believable, consistent characters for generative shots — an AI 'casting' workflow aimed at filmmakers who need the same face to hold across a sequence.",
-      "og_image": "https://i.ytimg.com/vi/ZK9NkUIqNZQ/maxresdefault.jpg",
-      "category": "movies"
+      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-09-19T00:40:52+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg?w=1024",
+      "excerpt": "Despite 'VisionQuest's subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made.",
+      "headline": "'VisionQuest' Creator Says No GenAI Was Used In Making Of Show"
     },
     {
-      "title": "New Course: AI for Micro-Dramas",
-      "url": "https://www.youtube.com/shorts/-kzSQgxzD5c",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-09-17T19:29:41Z",
-      "excerpt": "Curious Refuge announces a course on producing vertical micro-dramas with AI tooling, one of the fastest-growing formats pulling generative video into episodic production.",
-      "og_image": "https://i.ytimg.com/vi/-kzSQgxzD5c/maxresdefault.jpg",
-      "category": "movies"
+      "url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-09-19T20:00:07+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/piers-tilly.jpg?w=1086&h=612&crop=1",
+      "excerpt": "While speaking with journalist and fellow guest Tom Conti on 'Piers Morgan Uncensored,' the AI actor malfunctioned and switched from English to Cantonese.",
+      "headline": "AI Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages"
+    },
+    {
+      "url": "https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-18T00:45:21+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/ARZ_0848.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Several entertainment and tech personalities discussed AI during Variety's “Entertainment and Media in the Age of AI” panel on Thursday.",
+      "headline": "Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry"
+    },
+    {
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-09-08T13:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Premiere_Gen-Media-Tool-2.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "excerpt": "Adobe wants more AI, more of the time.",
+      "headline": "Adobe is trying to make its AI generators idiot-proof in Premiere"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-09-18T16:35:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "SAG-AFTRA and the WGA are focused on what’s actually happening now.",
+      "headline": "What Hollywood thinks about existential AI warnings"
+    },
+    {
+      "url": "https://www.awn.com/news/james-camerons-lightstorm-vision-acquires-outsyders-3d-conversion-studio",
+      "source": "Animation World Network",
+      "category": "movies",
+      "published_iso": "2026-09-16T18:48:24Z",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/lightstorm-outsyders_burdick-cameron-becker-1280.jpg?itok=QY8PNJiV",
+      "excerpt": "Deal puts the machine-learning stereoscopic pipeline that turned Disney's 2D 'Lilo & Stitch' into 3D in 8 weeks alongside the company's native 3D capture in a single end-to-end 3D production system.",
+      "headline": "James Cameron's Lightstorm Vision Acquires Outsyders 3D Conversion Studio"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 16,
+    "dropped": 11,
+    "kept": 10,
     "against_days": 5
   }
 }

@@ -1,11 +1,33 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "gadgets",
+  "generated_by": "ax-media",
   "media": [
-    {"id": "gadgets-dyson-nurovi", "type": "image", "src": "pipeline/media/gadgets-dyson-nurovi.jpg"},
-    {"id": "gadgets-airpods5", "type": "image", "src": "pipeline/media/gadgets-airpods5.jpg"},
-    {"id": "gadgets-watch-s12", "type": "video", "src": "pipeline/media/gadgets-watch-s12.mp4", "poster": "pipeline/media/gadgets-watch-s12.jpg"},
-    {"id": "gadgets-ubtech-factory", "type": "image", "src": "pipeline/media/gadgets-ubtech-factory.jpg"},
-    {"id": "gadgets-urxr-one", "type": "image", "src": "pipeline/media/gadgets-urxr-one.jpg"}
+    {
+      "id": "gadgets-gemini-windows",
+      "type": "image",
+      "src": "pipeline/media/gadgets-gemini-windows.jpg"
+    },
+    {
+      "id": "gadgets-iphone18-aperture",
+      "type": "image",
+      "src": "pipeline/media/gadgets-iphone18-aperture.jpg"
+    },
+    {
+      "id": "gadgets-galaxy-watch9",
+      "type": "image",
+      "src": "pipeline/media/gadgets-galaxy-watch9.jpg"
+    },
+    {
+      "id": "gadgets-iphone-duo-design",
+      "type": "image",
+      "src": "pipeline/media/gadgets-iphone-duo-design.png"
+    },
+    {
+      "id": "gadgets-pixel10-proactive",
+      "type": "video",
+      "src": "pipeline/media/gadgets-pixel10-proactive.mp4",
+      "poster": "pipeline/media/gadgets-pixel10-proactive.jpg"
+    }
   ]
 }

@@ -1,252 +1,207 @@
 {
- "date": "2026-09-19",
- "section": "design",
- "now_iso": "2026-09-18T22:15:00Z",
- "window_hours": 72,
- "generated_by": "ax-librarian",
- "items": [
-  {
-   "url": "https://vercel.com/changelog/webmcp-mcp-handler",
-   "source": "Vercel",
-   "category": "figma",
-   "published_iso": "2026-09-18T18:00:00+00:00",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1wrmQM9L89OzdOeYDnamED/87d05274eb7a09b0950980b9bfde89cd/image.png",
-   "excerpt": "Vercel's mcp-handler now supports WebMCP, letting a web app expose its own UI actions as MCP tools an agent can call directly in the browser.",
-   "headline": "WebMCP support now available in mcp-handler"
-  },
-  {
-   "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
-   "source": "Vercel",
-   "category": "figma",
-   "published_iso": "2026-09-18T17:00:00+00:00",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/czVykfPFuY95oRifQwYAf/4774cc727b297305cb1051ff8dd83efb/image__34_.png",
-   "excerpt": "v0 can now read npm credentials from shared environment variables, so prompt-to-UI generation can pull a team's private design-system packages without per-project setup.",
-   "headline": "v0 now reads npm credentials from shared environment variables"
-  },
-  {
-   "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
-   "source": "Vercel",
-   "category": "figma",
-   "published_iso": "2026-09-17T07:00:00+00:00",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1ieqqoFnOd2waNOEP6q4jt/bccb775b80d37c26c484e36d7e7ee35d/sep-og-blog-bars-ghost_2x.png",
-   "excerpt": "Vercel's September AI Gateway index reports open-weight models now carry 56% of token volume in production apps, a shift in what teams actually ship on.",
-   "headline": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend"
-  },
-  {
-   "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-09-16T07:27:23+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*OpRlmJqoKEqo5ErA0JTYdg.png",
-   "excerpt": "A house built for 38 years without a plan, and the apps we are shipping the same way: six architectural moves that give AI-generated features a blueprint to obey.",
-   "headline": "Don't let AI build a Winchester Mystery House"
-  },
-  {
-   "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-09-17T21:33:43+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*li8g5MZb9pcndU9o26lqQw.png",
-   "excerpt": "What 100 design articles taught one designer about thinking, friction, and why writing still matters as a craft in the shadow of AI.",
-   "headline": "Rethinking writing in the world of design and AI"
-  },
-  {
-   "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-09-18T07:38:53+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*UDfN0H8xiqwMpv7OnxL6uw.png",
-   "excerpt": "Detroit spent a decade calling crashes driver error; the essay argues the AI industry is running the same defense, and designers are the ones shipping the seat.",
-   "headline": "Altman and Amodei's 'unsafe at any prompt' moment for AI"
-  },
-  {
-   "url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-   "source": "Creative Bloq",
-   "category": "figma",
-   "published_iso": "2026-09-17T10:39:48+00:00",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
-   "excerpt": "Canva's new ProSuite lands with 100 features aimed at automating the tedious parts of design while leaving the craft to the designer.",
-   "headline": "Massive Canva update adds 100 features to new ProSuite"
-  },
-  {
-   "url": "https://www.creativebloq.com/3d/autodesk-says-ai-should-give-artists-time-to-experiment-not-make-them-work-twice-as-fast",
-   "source": "Creative Bloq",
-   "category": "figma",
-   "published_iso": "2026-09-17T18:00:00+00:00",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-1600-80.jpg",
-   "excerpt": "What happens to the time AI saves an animator or artist?",
-   "headline": "Autodesk says AI should give artists time to experiment, not make them work twice as fast"
-  },
-  {
-   "url": "https://www.creativebloq.com/art/animation/we-can-cut-production-costs-by-95-percent-the-ai-tech-taking-on-hollywood",
-   "source": "Creative Bloq",
-   "category": "figma",
-   "published_iso": "2026-09-18T12:00:00+00:00",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/BoNkbYeoCv2zNtUyboKB5g-1920-80.jpg",
-   "excerpt": "Flow Studio's co-founder believes AI can open doors for new filmmakers and change Hollywood.",
-   "headline": "'We can cut production costs by 95%': the AI tech taking on Hollywood"
-  },
-  {
-   "url": "https://dev.to/jojo_willnn_/the-10-tool-design-workflow-i-use-in-2026-ordered-by-project-stage-not-hype-5e1i",
-   "source": "DEV Community",
-   "category": "figma",
-   "published_iso": "2026-09-18T10:05:54+00:00",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h6gyziwt2kqxhlfahl4.png",
-   "excerpt": "Most “best design tools” posts are written from a bookmark folder, not from a real project deadline....",
-   "headline": "The 10-tool design workflow I use in 2026, ordered by project stage, not hype"
-  },
-  {
-   "url": "https://dev.to/briefgate/the-bottleneck-in-ai-assisted-client-work-isnt-the-code-2g9p",
-   "source": "DEV Community",
-   "category": "tokens",
-   "published_iso": "2026-09-18T20:52:07+00:00",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmc362aaapgo6bblwbfeb.png",
-   "excerpt": "An agent can build the site in an afternoon. Then you wait two weeks for a logo. Here is what actually shortened that wait for me.",
-   "headline": "The bottleneck in AI-assisted client work isn't the code"
-  },
-  {
-   "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
-   "source": "80 Level",
-   "category": "render",
-   "published_iso": "2026-09-18T12:39:00+00:00",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50269/images/6aad30fbe5adf/contain_1200x630.jpg",
-   "excerpt": "This is not a drill.",
-   "headline": "Blender 5.3 is getting native 3D Gaussian splat support"
-  },
-  {
-   "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
-   "source": "80 Level",
-   "category": "render",
-   "published_iso": "2026-09-18T21:08:00+00:00",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50279/images/6aada812739f5/contain_1200x630.jpg",
-   "excerpt": "CESA reports that over 85% of Japanese game developers use generative AI at least occasionally, while studios are prioritizing human review, restricted tools, and policies against using raw outputs unchanged.",
-   "headline": "Over 85% of Japanese game developers now use generative AI, according to TGS report"
-  },
-  {
-   "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-09-18T20:35:11+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
-   "excerpt": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
-   "headline": "What to expect at Meta Connect 2026: new AI glasses, a mixed reality headset and more"
-  },
-  {
-   "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-09-17T22:30:01+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/anthropic-says-claude-leads-26-percent-of-its-ai-rd-work/l-intro-1789684114.jpg",
-   "excerpt": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
-   "headline": "Anthropic says Claude 'leads' 26 percent of its AI R&D work"
-  },
-  {
-   "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
-   "source": "Engineering.com",
-   "category": "cad",
-   "published_iso": "2026-09-17T13:08:28+00:00",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Vectorworks-2027-adds-tools-for-connected-design-workflows-1024x576.png",
-   "excerpt": "The Exchange hub supports sharing resources while Revit Families and Dynamic Blocks can enter projects as dynamic objects.",
-   "headline": "Vectorworks 2027 adds tools for connected design workflows"
-  },
-  {
-   "url": "https://develop3d.com/vr-ar-mr/hololight-viz-vr-snap-specs/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-09-17T12:08:10+00:00",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Hololight-Snap-SPECS-MAIN.jpg",
-   "excerpt": "Hololight XR streaming integration for Snap SPECS to display complex, high-fidelity 3D content without heavy onboard processing",
-   "headline": "Hololight pushes the Viz abilities of new Snap SPECS"
-  },
-  {
-   "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-09-17T10:02:11+00:00",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
-   "excerpt": "Artec Neo promises to revolutionise quality inspection and reverse engineering with high-resolution and full-colour 3D capture",
-   "headline": "Artec Neo, the first 'tolerance-driven' 3D scanner, launched"
-  },
-  {
-   "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
-   "source": "UploadVR",
-   "category": "vr",
-   "published_iso": "2026-09-18T02:20:37+00:00",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg",
-   "excerpt": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features &amp; improvements.",
-   "headline": "visionOS 27 launched for Apple Vision Pro headsets, bringing Siri AI and more"
-  },
-  {
-   "url": "https://www.uploadvr.com/the-best-ways-to-view-gaussian-splats-on-quest/",
-   "source": "UploadVR",
-   "category": "vr",
-   "published_iso": "2026-09-17T23:21:52+00:00",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/AirVis-example-showing-settings.jpg",
-   "excerpt": "Best ways to step inside a real place or Gen AI worlds.",
-   "headline": "The best ways to view Gaussian splats on Quest"
-  },
-  {
-   "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-   "source": "Road to VR",
-   "category": "vr",
-   "published_iso": "2026-09-16T23:40:00+00:00",
-   "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
-   "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company&#8217;s upcoming pair of consumer AR glasses. Snap&#8217;s big Specs livestream today wasn&#8217;t technically a launch event—they&#8217;re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort [&hellip;]",
-   "headline": "Snap announces new 'anticipatory' AI service and apps for first consumer Specs"
-  },
-  {
-   "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
-   "source": "Road to VR",
-   "category": "vr",
-   "published_iso": "2026-09-16T12:20:56+00:00",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg",
-   "excerpt": "Meta isn&#8217;t only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic &#8220;hologram-like&#8221; call function using its latest avatars. Images of Meta&#8217;s upcoming Project Phoenix headset have already leaked ahead of Meta&#8217;s Connect developer conference next week, which strongly suggests we&#8217;ll be getting an unveiling there, taking place September 23-24. [&hellip;]",
-   "headline": "Meta reportedly unveiling next-gen MR headset at Connect, hologram-like call experience"
-  },
-  {
-   "url": "https://www.fastcompany.com/91609674/think-you-can-spot-an-ai-generated-ad-83-of-consumers-got-it-wrong",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-09-18T19:45:00+00:00",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91609674-ai-generated-ad-consumers.jpg",
-   "excerpt": "An advertising company challenged consumers to pick the AI-generated ad out of a lineup; 83% got it wrong, raising hard questions for creative teams.",
-   "headline": "Think you can spot an AI-generated ad? 83% of consumers got it wrong"
-  },
-  {
-   "url": "https://www.fastcompany.com/91608415/the-strange-comfort-of-ai-food-slop",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-09-17T10:00:00+00:00",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608415-AI-food-slop.jpg",
-   "excerpt": "A room-service cheeseburger with a suspiciously symmetrical sheen becomes a way into how AI imagery is quietly rewriting commercial art direction.",
-   "headline": "The strange comfort of AI food slop"
-  },
-  {
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "source": "OpenAI",
-   "category": "workflow",
-   "published_iso": "2026-09-16T13:00:00+00:00",
-   "og_image": null,
-   "excerpt": "OpenAI lays out how it sees advertising being rebuilt around AI, from brief to asset production, for brands and agencies working inside ChatGPT.",
-   "headline": "Reimagining advertising with AI"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=BBmO8fjurVs",
-   "source": "Jesse Showalter",
-   "category": "social",
-   "published_iso": "2026-09-16T15:30:33+00:00",
-   "og_image": "https://i.ytimg.com/vi/BBmO8fjurVs/maxresdefault.jpg",
-   "excerpt": "Designer Jesse Showalter walks through how he now delegates chunks of product work to agents, and what he keeps on his own desk.",
-   "headline": "Delegations to agents"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-   "source": "Fireship",
-   "category": "social",
-   "published_iso": "2026-09-17T20:33:55+00:00",
-   "og_image": "https://i.ytimg.com/vi/LoLYw--s-5w/maxresdefault.jpg",
-   "excerpt": "Fireship breaks down Google's latest model claim and what it means for the tools developers and designers build with day to day.",
-   "headline": "Did Google just kickstart the intelligence explosion?"
-  }
- ]
+  "date": "2026-09-20",
+  "section": "design",
+  "now_iso": "2026-09-19T22:00:00Z",
+  "window_hours": 72,
+  "generated_by": "ax-librarian",
+  "items": [
+    {
+      "category": "figma",
+      "source": "Figma",
+      "headline": "Create on-brand content with your Figma designs in Weave workflows",
+      "url": "https://www.figma.com/release-notes/?title=figma-node-on-brand-content",
+      "published_iso": "2026-09-17T00:00:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png",
+      "excerpt": "Figma's new Figma node lets you connect designs already made on the Figma Design canvas directly into Figma Weave generative workflows, so brand-accurate assets can be produced at scale and synced back when the source design changes."
+    },
+    {
+      "category": "figma",
+      "source": "Vercel",
+      "headline": "v0 now reads npm credentials from shared environment variables",
+      "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
+      "published_iso": "2026-09-18T17:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/czVykfPFuY95oRifQwYAf/4774cc727b297305cb1.png",
+      "excerpt": "v0 can now install private packages from npm and custom registries, letting teams generate UI against their own internal design system packages instead of generic components."
+    },
+    {
+      "category": "figma",
+      "source": "Figma (YouTube)",
+      "headline": "Figma Motion basics: Use shaders in your animations",
+      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
+      "published_iso": "2026-09-18T18:00:20Z",
+      "og_image": "https://i.ytimg.com/vi/spMhSWAmduw/maxresdefault.jpg",
+      "excerpt": "Figma walks through applying generative shaders inside Figma Motion, showing how prompt-generated visual effects become reusable animation layers in a design file."
+    },
+    {
+      "category": "render",
+      "source": "80 Level",
+      "headline": "Over 85% of Japanese Game Developers Now Use Generative AI, According to TGS Report",
+      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
+      "published_iso": "2026-09-18T21:08:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50279/images/6aada812739f5/contain_1200x630.jpg",
+      "excerpt": "CESA reports that over 85% of Japanese game developers use generative AI at least occasionally, while studios prioritize human review, restricted tool lists and explicit usage policies."
+    },
+    {
+      "category": "render",
+      "source": "80 Level",
+      "headline": "Quad Remesher for Hard-Surface & Organic Blender Models",
+      "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
+      "published_iso": "2026-09-18T11:35:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50264/images/6aad220b31597/contain_1200x630.jpg",
+      "excerpt": "A user-friendly automatic retopology add-on from Milad Kambari that cuts polygon counts on both hard-surface and organic Blender models without manual cleanup."
+    },
+    {
+      "category": "render",
+      "source": "KeyShot",
+      "headline": "What is Photorealistic Rendering for Product Design?",
+      "url": "https://www.keyshot.com/blog/photorealistic-rendering-product-design-explained/",
+      "published_iso": "2026-09-18T23:05:30Z",
+      "og_image": "https://www.keyshot.com/wp-content/uploads/2026/08/Alex_Philpott_Frame-10.jpg",
+      "excerpt": "KeyShot breaks down what makes a product render read as a photograph and lays out a six-step build process for designers moving from CAD to final imagery."
+    },
+    {
+      "category": "cad",
+      "source": "DEVELOP3D",
+      "headline": "Backflip now converts 2D engineering drawings directly into CAD",
+      "url": "https://develop3d.com/cad/backflip-converse-2d-engineering-drawings-directly-into-cad/",
+      "published_iso": "2026-09-17T14:47:35Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Backflip-2d-drawings-fusion.jpg",
+      "excerpt": "Backflip has launched 2D Drawing to CAD, an AI tool that turns legacy 2D drawings into parametric 3D models with native, editable feature trees rather than dumb solids."
+    },
+    {
+      "category": "cad",
+      "source": "DEVELOP3D",
+      "headline": "Artec Neo: the first 'tolerance-driven' 3D scanner launched",
+      "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
+      "published_iso": "2026-09-17T10:02:11Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
+      "excerpt": "Artec Neo promises to change quality inspection and reverse engineering for design teams with high-resolution, full-colour 3D capture tied to stated tolerances."
+    },
+    {
+      "category": "vr",
+      "source": "DEVELOP3D",
+      "headline": "Hololight pushes the Viz abilities of new Snap SPECS",
+      "url": "https://develop3d.com/vr-ar-mr/hololight-viz-vr-snap-specs/",
+      "published_iso": "2026-09-17T12:08:10Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Hololight-Snap-SPECS-MAIN.jpg",
+      "excerpt": "Hololight's XR streaming integration lets Snap SPECS display complex, high-fidelity 3D design data without heavy onboard processing, opening AR design review on lightweight glasses."
+    },
+    {
+      "category": "vr",
+      "source": "Road to VR",
+      "headline": "Snap Announces New 'Anticipatory' AI Service & Apps for First Consumer 'Specs' AR Glasses",
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+      "published_iso": "2026-09-16T23:40:00Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100",
+      "excerpt": "Snap announced new experiences, services and partnerships for Specs, its upcoming consumer AR glasses, centred on an 'anticipatory' AI layer that surfaces content before the wearer asks."
+    },
+    {
+      "category": "vr",
+      "source": "UploadVR",
+      "headline": "The Best Ways To View Gaussian Splats On Quest",
+      "url": "https://www.uploadvr.com/the-best-ways-to-view-gaussian-splats-on-quest/",
+      "published_iso": "2026-09-17T23:21:52Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/AirVis.jpg",
+      "excerpt": "A practical guide to the apps and pipelines for stepping inside captured real places and generative-AI worlds as gaussian splats on Quest headsets."
+    },
+    {
+      "category": "vr",
+      "source": "UploadVR",
+      "headline": "Flow Chaser Brings Procedural Spatial Rhythm Gameplay To Apple Vision Pro",
+      "url": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
+      "published_iso": "2026-09-18T15:26:19Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Flow-Chaser-Promo.jpeg",
+      "excerpt": "Flow Chaser is a new procedurally generated spatial rhythm game for Apple Vision Pro, launched alongside visionOS 27 and built around generated-on-the-fly spatial level design."
+    },
+    {
+      "category": "workflow",
+      "source": "Fast Company",
+      "headline": "The next phase of design will still be human-led",
+      "url": "https://www.fastcompany.com/91609602/the-next-phase-of-design-will-still-be-human-led",
+      "published_iso": "2026-09-18T16:44:07Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91609602-fcif-new-rules-of-great-design.jpg",
+      "excerpt": "Generative AI turns ideas into artefacts faster than ever, which Spotify's senior director of product design argues makes human judgement more important, not less: 'More is not always better. Faster is not always better.'"
+    },
+    {
+      "category": "workflow",
+      "source": "Creative Bloq",
+      "headline": "\"We can cut production costs by 95%\": the AI tech taking on Hollywood",
+      "url": "https://www.creativebloq.com/art/animation/we-can-cut-production-costs-by-95-percent-the-ai-tech-taking-on-hollywood",
+      "published_iso": "2026-09-18T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BoNkbYeoCv2zNtUyboKB5g-1920-80.jpg",
+      "excerpt": "Creative Bloq talks to the teams behind AI animation pipelines claiming they can strip up to 95% of production cost out of studio work, and what that does to creative roles."
+    },
+    {
+      "category": "workflow",
+      "source": "Creative Bloq",
+      "headline": "Massive Canva update adds 100 features to new ProSuite",
+      "url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
+      "published_iso": "2026-09-17T10:39:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HwGjfNduZKeiTmb8UygjHB-1920-80.jpg",
+      "excerpt": "Canva's ProSuite release bundles roughly 100 new features, aiming to automate the tedious parts of production design while leaving the craft decisions to humans."
+    },
+    {
+      "category": "workflow",
+      "source": "Creative Bloq",
+      "headline": "Autodesk says AI should give artists time to experiment, not make them work twice as fast",
+      "url": "https://www.creativebloq.com/3d/autodesk-says-ai-should-give-artists-time-to-experiment-not-make-them-work-twice-as-fast",
+      "published_iso": "2026-09-17T18:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-1600-80.jpg",
+      "excerpt": "Autodesk argues the time AI saves an animator or artist should be reinvested in experimentation rather than absorbed as doubled throughput."
+    },
+    {
+      "category": "workflow",
+      "source": "UX Collective",
+      "headline": "Rethinking writing in the world of design and AI",
+      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998",
+      "published_iso": "2026-09-17T21:33:43Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*li8g5MZb9pcndU9o26lqQw.png",
+      "excerpt": "After 100 design essays written in the shadow of AI, the author reflects on what writing still does for a designer's thinking, and where friction is worth keeping."
+    },
+    {
+      "category": "workflow",
+      "source": "MindStudio",
+      "headline": "How an AI Filmmaker Built a Short Film in a Day With Astra and Runway",
+      "url": "https://www.mindstudio.ai/blog/ai-cinematic-film-workflow-astra-runway/",
+      "published_iso": "2026-09-18T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/ab54a0d2-7f96-4547-80be-5a10423414d7",
+      "excerpt": "A breakdown of a one-day AI film pipeline using GPT-6 Astra for story and boards, Codex for glue code, and Runway for shot generation."
+    },
+    {
+      "category": "workflow",
+      "source": "MindStudio",
+      "headline": "Claude Code Mods and agents.md: What's New and Why It Matters",
+      "url": "https://www.mindstudio.ai/blog/claude-code-mods-agents-md/",
+      "published_iso": "2026-09-19T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/f7081ad4-5503-4695-b526-94968e1dd555",
+      "excerpt": "Claude Code now reads agents.md files and supports 'mods', a plugin system for customising the coding harness itself — a lever for design-engineering teams standardising their agent setup."
+    },
+    {
+      "category": "workflow",
+      "source": "MindStudio",
+      "headline": "Seedance 2.5 vs Kling 3.0 vs Minimax: Which AI Video Model Wins?",
+      "url": "https://www.mindstudio.ai/blog/seedance-kling-minimax-video-model-comparison/",
+      "published_iso": "2026-09-18T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/041e2941-a996-44b4-8894-27c9e0058ee5",
+      "excerpt": "A hands-on cost and quality comparison of Seedance 2.5, Kling 3.0 and Minimax on identical UGC video prompts, with pricing broken down per clip."
+    },
+    {
+      "category": "social",
+      "source": "The AI Advantage (YouTube)",
+      "headline": "The Chatbot Era Is Ending. Your AI Team Is Next.",
+      "url": "https://www.youtube.com/watch?v=yCT8G-iTtgA",
+      "published_iso": "2026-09-18T20:48:51Z",
+      "og_image": "https://i.ytimg.com/vi/yCT8G-iTtgA/maxresdefault.jpg",
+      "excerpt": "Argues the single-chatbot workflow is giving way to managed teams of specialised agents, and walks through how creative and knowledge workers should restructure around it."
+    },
+    {
+      "category": "social",
+      "source": "Matt Wolfe (YouTube)",
+      "headline": "AI News: All AI Labs Want To Slow Down (Except One)",
+      "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk",
+      "published_iso": "2026-09-18T15:12:55Z",
+      "og_image": "https://i.ytimg.com/vi/Kof2VcHTjrk/maxresdefault.jpg",
+      "excerpt": "Matt Wolfe's weekly roundup of new AI tools and model releases, including the creative-tool launches designers can pick up this week."
+    }
+  ]
 }

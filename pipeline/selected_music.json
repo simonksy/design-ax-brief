@@ -1,84 +1,117 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "section": "music",
   "generated_by": "ax-curator",
+  "selection_mode": "curator_auto",
   "picks": [
     {
-      "headline": "Playhead builds custom effects chains from your sound descriptions",
-      "url": "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/",
-      "source": "Bedroom Producers Blog",
+      "rank": 1,
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "published_iso": "2026-09-18T11:21:26+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/playhead-728x364.jpg",
-      "excerpt": "Playhead is a new macOS tool that turns a plain-language description of a sound into an editable effect chain inside your DAW, complete with adjustable macro controls. It is prompt-to-signal-chain rather than prompt-to-song.",
-      "rationale": "곡 전체가 아니라 '이펙트 체인'을 프롬프트로 뽑아주는 접근. 결과물이 편집 가능한 신호 경로라 사운드 디자이너가 내일 바로 세션에 붙여 쓸 수 있다."
+      "category": "music",
+      "headline": "Guilt-free AI? What so-called “ethical AI” tools mean for musicians and producers",
+      "url": "https://www.musicradar.com/music-tech/guilt-free-ai-what-so-called-ethical-ai-tools-mean-for-musicians-and-producers",
+      "source": "MusicRadar",
+      "published_iso": "2026-09-19T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/25MheFyRDZfdw6GVnVhge9-2560-80.png",
+      "excerpt": "Amidst a mounting backlash, music AI companies are talking of ethics, responsibility and transparency – but what does it actually mean, and how can producers know which tools to trust?",
+      "rationale": "Freshest item in the pool and the most directly actionable: a buying/trust framework for deciding which AI music tools to put in a session."
     },
     {
-      "headline": "BandLab’s mastering capabilities just got an upgrade – here’s what’s new",
-      "url": "https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/",
-      "source": "MusicTech",
+      "rank": 2,
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "published_iso": "2026-09-15T09:50:04+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/09/BandLab-new-hero@2000x1500-1068x801.jpg",
-      "excerpt": "BandLab has upgraded its automated mastering engine with member-exclusive presets and far more control over mastering parameters, moving AI mastering from a black box toward an adjustable tool.",
-      "rationale": "AI 마스터링이 '버튼 하나'에서 파라미터를 직접 조정하는 도구로 이동했다. 무료 티어 사용자가 가장 많이 쓰는 마스터링 경로의 실질적 변화."
+      "category": "music",
+      "headline": "AI ‘artists’ set to perform ‘live’ at first AI Music Awards in Los Angeles",
+      "url": "https://djmag.com/news/ai-artists-set-perform-live-first-ai-music-awards-los-angeles",
+      "source": "DJ Mag",
+      "published_iso": "2026-09-18T14:40:13Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Screenshot%202026-09-18%20at%2018.51.15.png.webp?itok=99CZIufr425962899",
+      "excerpt": "The first AI Music Awards lands at The Mayan in LA on 13 November, with AI ‘artists’ including Xania Monet performing live. The human creators behind each act will be “directing the stage”, according to organisers SIQA.",
+      "rationale": "First-of-its-kind event that turns the AI-artist debate into a staged, dated reality — high novelty, nothing like it in the section history."
     },
     {
-      "headline": "Two Legs, Five Arms is a FREE generative drum machine for macOS",
-      "url": "https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/",
-      "source": "Bedroom Producers Blog",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "published_iso": "2026-09-18T11:28:27+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/twolegs-728x364.jpg",
-      "excerpt": "François Pé's free AU MIDI effect separates rhythmic density from character: you say how many notes to play, and the algorithm decides placement along a style axis running from house to rock, Afro-Cuban and hip-hop.",
-      "rationale": "'밀도'와 '스타일'을 두 축으로 분리한 무료 제너레이티브 드럼 머신. 생성형 리듬 도구의 파라미터 설계를 그대로 참고할 수 있는 레퍼런스다."
-    },
-    {
-      "headline": "New Mac App, HarmonyKeen, Writes Harmony Parts To Your MIDI Melodies Using Music Theory, Not AI",
-      "url": "https://www.synthtopia.com/content/2026/09/15/new-mac-app-harmonykeen-writes-harmony-parts-to-your-midi-melodies-using-music-theory-not-ai/",
-      "source": "Synthtopia",
+      "rank": 3,
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-09-16T01:47:14+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/harmonykeen.jpg",
-      "excerpt": "HarmonyKeen takes a monophonic MIDI melody and writes harmony parts around it, working out voice leading from music theory rather than a model — and markets that explicitly as a feature in an AI-saturated plugin market.",
-      "rationale": "모델이 아니라 화성 이론으로 보이싱을 계산하고, 그 사실을 셀링 포인트로 내세운다. 'AI 아님'이 제품 포지셔닝이 되는 시점을 보여주는 사례."
+      "category": "music",
+      "headline": "Why AI Workflows Need Music Understanding and Search",
+      "url": "https://www.hypebot.com/why-ai-workflows-need-music-understanding-and-search/",
+      "source": "Hypebot",
+      "published_iso": "2026-09-18T13:37:46Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-17-Markus.jpg",
+      "excerpt": "Conversational search and agentic music workflows only work when they are built on structured metadata that lets AI actually understand a catalogue. A look at what music understanding infrastructure means for creators and rights holders.",
+      "rationale": "The plumbing story behind every agentic music tool — metadata discipline is the concrete thing a catalogue owner can fix this week."
     },
     {
-      "headline": "Sound designers and SFX libraries launch Professional Sound Alliance to fight AI scraping",
-      "url": "https://www.musicbusinessworldwide.com/sound-designers-and-sfx-libraries-launch-professional-sound-alliance-to-fight-ai-scraping-now-sound-will-have-protection-of-our-own/",
-      "source": "Music Business Worldwide",
+      "rank": 4,
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "category": "music",
+      "headline": "ReSing Voices Vol 2 from IK Multimedia",
+      "url": "https://www.soundonsound.com/news/resing-voices-vol-2-ik-multimedia",
+      "source": "Sound On Sound",
+      "published_iso": "2026-09-18T06:30:37Z",
+      "og_image": "",
+      "excerpt": "The latest expansion for IK Multimedia’s AI-powered vocal-modelling software has arrived, delivering a versatile set of new voice models aimed at modern music production tasks.",
+      "rationale": "Concrete shipped product for vocal production; distinct release from the Brazilian ReSing pack covered back in July."
+    },
+    {
+      "rank": 5,
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "published_iso": "2026-09-18T12:22:54+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/PSA_Social_Share_1080x1350-1-e1789706692378.png",
-      "excerpt": "Sound designers and SFX library owners have formed the Professional Sound Alliance to push back on what it calls “Data Piracy” and “Sync Piracy” — unauthorised scraping of sound libraries for AI training and reuse. “Now sound will have protection of our own.”",
-      "rationale": "음악이 아니라 '사운드 라이브러리' 쪽에서 처음으로 조직화된 학습 데이터 저항. SFX를 쓰는 쪽도 라이선스 조항을 다시 볼 이유가 생겼다."
+      "category": "music",
+      "headline": "DistroKid’s $2 billion valuation based on it being a pipeline for AI slop and copyright infringement, says Universal",
+      "url": "https://completemusicupdate.com/distrokids-2-billion-valuation-based-on-it-being-a-pipeline-for-ai-slop-and-copyright-infringement-says-universal/",
+      "source": "Complete Music Update",
+      "published_iso": "2026-09-16T16:57:55Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/distrokid-union.png",
+      "excerpt": "Universal claims distributor DistroKid built its $2 billion valuation by acting as a pipeline for AI slop and copyright-infringing tracks. The suit puts distribution-side AI screening squarely on the agenda for every self-releasing artist.",
+      "rationale": "Major-label attack on the biggest indie distributor — changes the release-and-screening calculus for anyone self-distributing."
     }
   ],
-  "dedup_notes": [
-    "DROP: DJ Mag Roland Melody Flip — 동일 제품 발표가 2026-09-17(bedroomproducersblog roland-melody-flip) 및 2026-09-07(unite.ai)에 이미 발행됨.",
-    "DROP: DJ Mag Suno YouTube scraping 인정 — MBW 'suno-admits-it-obtained-youtube-audio' 2026-09-13 기발행 동일 사건.",
-    "DROP: MusicTech ElevenLabs×UMG 딜 — Billboard 'umg-elevenlabs-to-develop-ai-music-remix-platform' 2026-09-12 기발행 동일 사건.",
-    "DROP (pool 내 중복): MBW 'AI artists will somehow play live' = DJ Mag 'AI artists set to perform live at first AI Music Awards' — 동일 이벤트. 두 기사 모두 최종 5에는 미포함(액셔너빌리티 낮음).",
-    "HOLD: Brian May 인터뷰(MusicRadar), DistroKid vs Universal(CMU), IK ReSing Voices Vol 2(SoS, og_image 없음) — 신규이나 점수 미달로 백업."
-  ],
-  "diversity_check": {
-    "outlets": {
-      "Bedroom Producers Blog": 2,
-      "MusicTech": 1,
-      "Synthtopia": 1,
-      "Music Business Worldwide": 1
-    },
-    "max_per_outlet": 2,
-    "distinct_outlets": 4
+  "dedup": {
+    "pool_size": 11,
+    "dropped_as_duplicates": [
+      {
+        "url": "https://djmag.com/tech/roland-announces-ai-assisted-melody-generation-plug-melody-flip",
+        "reason": "Same Roland Melody Flip launch already published 2026-09-17 (bedroomproducersblog.com/2026/09/07/roland-melody-flip/) and 2026-09-07 (unite.ai)."
+      },
+      {
+        "url": "https://www.musicradar.com/music-tech/software-apps/acon-digitals-machine-learning-powered-acoustica-8-audio-editor-is-the-companys-most-ambitious-release-to-date",
+        "reason": "Same Acon Digital Acoustica release already published 2026-09-12 via gearnews.com/acon-digital-acoustica-studio/."
+      },
+      {
+        "url": "https://www.gearnews.com/suno-v6-tech/",
+        "reason": "Suno v6 launch already published 2026-09-12 (MusicRadar, rebuilt-from-scratch licensed models) and 2026-09-18 (MusicRadar v6 backlash)."
+      },
+      {
+        "url": "https://completemusicupdate.com/suno-unveils-upgrade-developed-with-music-industry-partners-while-continuing-to-battle-the-music-industry-in-court/",
+        "reason": "Same Suno v6 / industry-partner story as above, different outlet."
+      },
+      {
+        "url": "https://www.hypebot.com/suno-steals-artist-identities-jason-isbell-wants-to-stop-it/",
+        "reason": "Jason Isbell class action vs Suno already published 2026-09-09 (billboard.com/pro/jason-isbell-class-action-lawsuit-ai-music-platform-suno/)."
+      }
+    ],
+    "dropped_for_diversity_or_rank": [
+      {
+        "url": "https://www.hypebot.com/ai-is-reshaping-the-music-industry-but-leaving-live-events-behind/",
+        "reason": "Survived dedup but is a second Hypebot op-ed with the lowest actionability; cut to keep ≤2-per-outlet headroom and 5 distinct outlets."
+      }
+    ],
+    "against_days": 5,
+    "outlets_in_final": [
+      "MusicRadar",
+      "DJ Mag",
+      "Hypebot",
+      "Sound On Sound",
+      "Complete Music Update"
+    ]
   }
 }
