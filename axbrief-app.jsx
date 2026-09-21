@@ -1483,15 +1483,7 @@ function InsightsView({ t, mobile }) {
         if (f && (s === f || tg === f)) return 2.6;
         return (h && (s === h || tg === h)) ? 2.2 : 0;
       })
-      // 선택 노드 → 이웃으로 흰 빛이 쫙쫙 반복 발사되는 연결 애니메이션
-      .linkDirectionalParticles((l) => {
-        const f = selRef.current;
-        const s = l.source.id || l.source, tg = l.target.id || l.target;
-        return (f && (s === f || tg === f)) ? 2 : 0;
-      })
-      .linkDirectionalParticleWidth(4.2)
-      .linkDirectionalParticleSpeed(0.055)
-      .linkDirectionalParticleColor(() => '#ffffff')
+      // (연결 애니메이션은 lib 파티클 대신 아래 커스텀 흰 대시 펄스가 담당)
       .nodeLabel((n) => {
         const c = D.card[n.id];
         if (!c) return n.label;
@@ -1543,7 +1535,7 @@ function InsightsView({ t, mobile }) {
     const firstLink = g.graphData().links[0];
     g.linkVisibility((l) => l === firstLink);
     // 스타일 accessor 재평가 트리거 (vasturiano 권장 패턴)
-    const restyle = () => { g.nodeColor(g.nodeColor()).nodeVisibility(g.nodeVisibility()).linkColor(g.linkColor()).linkWidth(g.linkWidth()).linkVisibility(g.linkVisibility()).linkDirectionalParticles(g.linkDirectionalParticles()); };
+    const restyle = () => { g.nodeColor(g.nodeColor()).nodeVisibility(g.nodeVisibility()).linkColor(g.linkColor()).linkWidth(g.linkWidth()).linkVisibility(g.linkVisibility()); };
     // 지구본 자전 — OrbitControls autoRotate. 줌은 항상 타깃(초기 중심점) 기준,
     // 팬을 꺼서 중심점이 흐트러지지 않게 한다.
     try { g.renderer().setPixelRatio(Math.min(1.5, window.devicePixelRatio || 1)); } catch (e) {}
@@ -1623,6 +1615,62 @@ function InsightsView({ t, mobile }) {
     // isLineSegments 플래그를 세우면 렌더러가 gl.LINES(쌍 단위)로 그린다.
     let baseLines = null;
     let extrasReady = false;
+    // 흰 빛 대시 펄스: 선택 엣지를 따라 '점선 하나 길이'의 흰 실린더가
+    // 천천히(한 사이클 ~3초) 한 번에 하나씩 흘러간다. 실린더 클래스는
+    // 포커스 엣지(굵은 링크)가 만든 CylinderGeometry 메시에서 역추출.
+    let pulsePool = null;
+    const ensurePulsePool = () => {
+      if (pulsePool) return true;
+      try {
+        let cyl = null;
+        g.scene().traverse((o) => {
+          if (!cyl && o.isMesh && o.geometry && o.geometry.type === 'CylinderGeometry') cyl = o;
+        });
+        if (!cyl) return false;
+        const GeoC = cyl.geometry.constructor, MeshC = cyl.constructor, MatC = cyl.material.constructor;
+        pulsePool = [];
+        for (let i = 0; i < 16; i++) {
+          const m = new MeshC(new GeoC(1, 1, 1, 6),
+            new MatC({ color: 0xffffff, transparent: true, opacity: 0.95 }));
+          if (m.material.emissive && m.material.emissive.set) m.material.emissive.set(0xffffff);
+          m.visible = false; m.raycast = () => {}; m.frustumCulled = false;
+          g.scene().add(m); pulsePool.push(m);
+        }
+        return true;
+      } catch (e) { return false; }
+    };
+    const updatePulses = (now) => {
+      const f = selRef.current;
+      if (!f) { if (pulsePool) pulsePool.forEach((m) => { m.visible = false; }); return; }
+      if (!ensurePulsePool()) return;
+      const V3 = g.camera().position.constructor;
+      const up = new V3(0, 1, 0);
+      const t = (now % 3000) / 3000;            // 한 사이클 3초 — 천천히
+      const DASH = 0.16;                        // 엣지 길이의 16% = 점선 하나 길이
+      let i = 0;
+      const links = g.graphData().links;
+      for (let k = 0; k < links.length && i < pulsePool.length; k++) {
+        const l = links[k];
+        const s = l.source, tg = l.target;
+        if (typeof s !== 'object' || typeof tg !== 'object') continue;
+        if (s.id !== f && tg.id !== f) continue;
+        const from = s.id === f ? s : tg, to = s.id === f ? tg : s;   // 선택 노드에서 바깥으로
+        const t2 = Math.min(1, t + DASH);
+        const ax = from.x + (to.x - from.x) * t, ay = from.y + (to.y - from.y) * t, az = from.z + (to.z - from.z) * t;
+        const bx = from.x + (to.x - from.x) * t2, by = from.y + (to.y - from.y) * t2, bz = from.z + (to.z - from.z) * t2;
+        const m = pulsePool[i++];
+        const dir = new V3(bx - ax, by - ay, bz - az);
+        const len = dir.length();
+        if (len < 0.5) { m.visible = false; continue; }
+        m.visible = true;
+        m.position.set((ax + bx) / 2, (ay + by) / 2, (az + bz) / 2);
+        m.scale.set(1.7, len, 1.7);
+        m.quaternion.setFromUnitVectors(up, dir.normalize());
+        // 끝에 다다르면 서서히 사라졌다가 다시 시작
+        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.95 : 0.95;
+      }
+      for (; i < pulsePool.length; i++) pulsePool[i].visible = false;
+    };
     const initSceneExtras = () => {
       try {
         let lineObj = null, meshMat = null;
@@ -1694,6 +1742,7 @@ function InsightsView({ t, mobile }) {
       });
       if (!extrasReady) extrasReady = initSceneExtras();
       syncBaseLines();
+      updatePulses(now);
       // 기본 엣지선(hairball)은 자전 중엔 숨기고, 노드를 선택했거나 기준 거리의
       // 80% 이내로 줌인했을 때만 부드럽게 나타난다.
       if (baseLines) {
