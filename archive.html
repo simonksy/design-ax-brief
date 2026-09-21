@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archive · AX-it NOW</title>
+<meta name="description" content="AX-it NOW가 지금까지 발행한 모든 AI 뉴스 카드 아카이브">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: #f1ece4; color: #171717;
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+    word-break: keep-all;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 28px 20px 80px; }
+
+  header { text-align: center; margin-bottom: 22px; }
+  .back { display: inline-block; font-size: 12px; letter-spacing: .14em; text-transform: uppercase;
+    color: #171717; text-decoration: none; border: 1px solid #d9d2c6; border-radius: 999px;
+    padding: 6px 14px; background: #faf7f1; }
+  .back:hover { border-color: #171717; }
+  h1 { font-size: 13px; letter-spacing: .3em; text-transform: uppercase; font-weight: 600;
+    margin: 18px 0 4px; font-family: "SF Mono", ui-monospace, Menlo, monospace; }
+  .count { font-size: 12px; color: #8a8377; font-family: ui-monospace, Menlo, monospace; }
+
+  .controls { position: sticky; top: 0; z-index: 5; background: linear-gradient(#f1ece4 82%, rgba(241,236,228,0)); padding: 10px 0 14px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; margin-bottom: 10px; }
+  .tab { font-size: 12.5px; font-family: ui-monospace, Menlo, monospace; letter-spacing: .02em;
+    border: 1px solid #d9d2c6; background: #faf7f1; color: #57534a; border-radius: 999px;
+    padding: 6px 13px; cursor: pointer; }
+  .tab:hover { border-color: #a49c8d; }
+  .tab.on { background: #171717; border-color: #171717; color: #fff; }
+  .search { display: block; width: 100%; max-width: 420px; margin: 0 auto; font-size: 14px;
+    font-family: inherit; border: 1px solid #d9d2c6; border-radius: 12px; background: #faf7f1;
+    padding: 9px 14px; outline: none; color: #171717; }
+  .search:focus { border-color: #171717; }
+
+  .day { margin-top: 26px; }
+  .day-h { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+  .day-h .d { font-size: 13px; font-weight: 700; font-family: ui-monospace, Menlo, monospace; letter-spacing: .08em; }
+  .day-h .n { font-size: 11.5px; color: #8a8377; }
+  .day-h::after { content: ""; flex: 1; border-top: 1px solid #e2dbcf; transform: translateY(-3px); }
+
+  .row { display: flex; gap: 14px; align-items: flex-start; text-decoration: none; color: inherit;
+    background: #faf7f1; border: 1px solid #e6dfd3; border-radius: 16px; padding: 12px; margin-bottom: 8px; }
+  .row:hover { border-color: #171717; }
+  .thumb { flex: 0 0 92px; width: 92px; height: 66px; border-radius: 10px; object-fit: cover;
+    background: #e8e2d6; display: block; }
+  .thumb.ph { display: flex; align-items: center; justify-content: center; }
+  .thumb.ph::after { content: ""; width: 26px; height: 26px; border-radius: 7px; background: var(--a, #ccc); opacity: .8; }
+  .meta { min-width: 0; flex: 1; }
+  .chiprow { display: flex; gap: 8px; align-items: center; margin-bottom: 4px; }
+  .chip { font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+    font-family: ui-monospace, Menlo, monospace; color: #fff; background: var(--a, #171717);
+    border-radius: 999px; padding: 2.5px 8px; }
+  .src { font-size: 11px; color: #8a8377; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hl { font-size: 15.5px; font-weight: 700; line-height: 1.35; margin: 1px 0 3px; }
+  .bd { font-size: 13px; color: #57534a; line-height: 1.5; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .more, .empty { text-align: center; color: #8a8377; font-size: 13px; padding: 30px 0; }
+
+  @media (max-width: 560px) {
+    .wrap { padding: 20px 12px 60px; }
+    .thumb { flex-basis: 72px; width: 72px; height: 54px; }
+    .hl { font-size: 14px; }
+    .bd { font-size: 12.5px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="back" href="/">← AX-it NOW</a>
+    <h1>Archive</h1>
+    <div class="count" id="count"></div>
+  </header>
+  <div class="controls">
+    <div class="tabs" id="tabs"></div>
+    <input class="search" id="q" type="search" placeholder="헤드라인 · 요약 · 매체 검색" autocomplete="off">
+  </div>
+  <div id="list"></div>
+  <div class="more" id="more" hidden>불러오는 중…</div>
+  <div class="empty" id="empty" hidden>조건에 맞는 카드가 없습니다.</div>
+</div>
+
+<script>(function () {
+  var v = Date.now();
+  document.write('<scr' + 'ipt src="archive-data.js?v=' + v + '"><\/scr' + 'ipt>');
+})();</script>
+<script>
+(function () {
+  var ALL = window.AX_ARCHIVE || [];
+  var SECTIONS = window.AX_ARCHIVE_SECTIONS || [];
+  var $ = function (id) { return document.getElementById(id); };
+  var list = $("list"), moreEl = $("more"), emptyEl = $("empty");
+
+  var present = {};
+  ALL.forEach(function (c) { present[c.section] = (present[c.section] || 0) + 1; });
+
+  var state = { sec: "all", q: "" };
+
+  /* 탭 */
+  var tabs = [{ key: "all", label: "All" }].concat(
+    SECTIONS.filter(function (s) { return present[s.key]; }));
+  tabs.forEach(function (t) {
+    var b = document.createElement("button");
+    b.className = "tab" + (t.key === "all" ? " on" : "");
+    b.textContent = t.label;
+    b.onclick = function () {
+      state.sec = t.key;
+      document.querySelectorAll(".tab").forEach(function (x) { x.classList.remove("on"); });
+      b.classList.add("on");
+      rebuild();
+    };
+    $("tabs").appendChild(b);
+  });
+
+  var deb;
+  $("q").addEventListener("input", function () {
+    clearTimeout(deb);
+    deb = setTimeout(function () { state.q = $("q").value.trim().toLowerCase(); rebuild(); }, 180);
+  });
+
+  function match(c) {
+    if (state.sec !== "all" && c.section !== state.sec) return false;
+    if (!state.q) return true;
+    return ((c.headline || "") + " " + (c.body || "") + " " + (c.source || "") + " " + (c.tool || ""))
+      .toLowerCase().indexOf(state.q) !== -1;
+  }
+
+  /* 날짜 내림차순 그룹 목록 (데이터는 이미 date desc 정렬) */
+  var groups = [], cursor = 0, CHUNK = 12; // 한 번에 12일씩
+  function regroup() {
+    groups = [];
+    var cur = null;
+    ALL.forEach(function (c) {
+      if (!match(c)) return;
+      if (!cur || cur.date !== c.date) { cur = { date: c.date, cards: [] }; groups.push(cur); }
+      cur.cards.push(c);
+    });
+  }
+
+  function kr(d) { return d.replace(/-/g, "."); }
+
+  function renderChunk() {
+    var end = Math.min(cursor + CHUNK, groups.length);
+    var frag = document.createDocumentFragment();
+    for (; cursor < end; cursor++) {
+      var g = groups[cursor];
+      var day = document.createElement("section");
+      day.className = "day";
+      var h = document.createElement("div");
+      h.className = "day-h";
+      h.innerHTML = '<span class="d">' + kr(g.date) + '</span><span class="n">' + g.cards.length + '장</span>';
+      day.appendChild(h);
+      g.cards.forEach(function (c) {
+        var a = document.createElement("a");
+        a.className = "row"; a.href = c.url; a.target = "_blank"; a.rel = "noopener";
+        a.style.setProperty("--a", c.accent || "#171717");
+        var img;
+        if (c.image) {
+          img = document.createElement("img");
+          img.className = "thumb"; img.loading = "lazy"; img.src = "/" + c.image; img.alt = "";
+          img.onerror = function () { this.outerHTML = '<div class="thumb ph" style="--a:' + (c.accent || "#ccc") + '"></div>'; };
+        } else {
+          img = document.createElement("div");
+          img.className = "thumb ph";
+        }
+        var meta = document.createElement("div");
+        meta.className = "meta";
+        var chip = c.tool || c.section;
+        meta.innerHTML =
+          '<div class="chiprow"><span class="chip">' + esc(chip) + '</span><span class="src">' + esc(c.source || "") + '</span></div>' +
+          '<div class="hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
+          '<div class="bd">' + esc(c.body || "") + '</div>';
+        a.appendChild(img); a.appendChild(meta);
+        day.appendChild(a);
+      });
+      frag.appendChild(day);
+    }
+    list.appendChild(frag);
+    moreEl.hidden = cursor >= groups.length;
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (ch) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch];
+    });
+  }
+
+  function rebuild() {
+    regroup();
+    list.innerHTML = ""; cursor = 0;
+    emptyEl.hidden = groups.length > 0;
+    renderChunk();
+    var total = groups.reduce(function (n, g) { return n + g.cards.length; }, 0);
+    $("count").textContent = total + " cards · " +
+      (groups.length ? kr(groups[groups.length - 1].date) + " – " + kr(groups[0].date) : "");
+  }
+
+  /* 무한 스크롤 */
+  new IntersectionObserver(function (es) {
+    if (es[0].isIntersecting && cursor < groups.length) renderChunk();
+  }, { rootMargin: "600px" }).observe(moreEl);
+
+  rebuild();
+})();
+</script>
+</body>
+</html>
