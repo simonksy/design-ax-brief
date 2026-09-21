@@ -113,6 +113,9 @@ if (!document.getElementById('ax-styles')) {
   .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:18px;overflow:hidden;
      transition:transform .2s ease;}
   .ax-strip-card:active{transform:scale(.96);}
+  /* 3D 네트워크 호버 툴팁 — 라이브러리 기본 박스 스타일 제거(내용 카드가 자체 스타일을 가짐) */
+  .scene-tooltip{background:transparent!important;border:none!important;padding:0!important;
+     color:inherit!important;font-family:inherit!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
@@ -1409,20 +1412,26 @@ function InsightsView({ t, mobile }) {
       (D.adj[s] = D.adj[s] || []).push({ id: tg, w: l.w, kw: l.kw });
       (D.adj[tg] = D.adj[tg] || []).push({ id: s, w: l.w, kw: l.kw });
     });
-    window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑)
+    window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑; 아래에서 g도 붙는다)
     bump((x) => x + 1);     // D가 채워졌으니 카루셀(최신 카드)을 다시 그린다
     const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
     const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
 
-    const g = ForceGraph3D({ rendererConfig: { antialias: true, powerPreference: 'high-performance' } })(el)
+    const g = ForceGraph3D({ controlType: 'orbit', rendererConfig: { antialias: true, powerPreference: 'high-performance' } })(el)
       .graphData({ nodes: GD.nodes.map((n) => Object.assign({}, n)), links: GD.links.map((l) => ({ source: l.source, target: l.target, w: l.w, kw: l.kw })) })
       .nodeId('id')
       .nodeRelSize(3.4)
       .nodeVal((n) => Math.max(1, n.val || 1))
       .nodeOpacity(0.92)
-      .nodeResolution(6)          // 구 세그먼트 축소 — 2천 개 스피어 삼각형 수 대폭 절감
+      .nodeResolution(12)         // 매끄러운 구 (드로우콜 최적화로 여유 확보)
       .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
       .warmupTicks(60)
+      // 링크 8천 개를 개별 오브젝트로 그리면 드로우콜 폭발 → 평상시 hairball은
+      // 배칭된 LineSegments 하나가 담당하고, lib에는 포커스(선택·호버·검색)
+      // 관련 소수의 컬러 엣지만 보이게 한다. (accessor는 init 뒤에 주입 — 아래
+      // realLinkVisibility 참고. 초기엔 첫 링크 하나만 보이게 해 Line 클래스
+      // 템플릿을 확보한다.)
+      .linkVisibility(() => false)
       .backgroundColor('rgba(0,0,0,0)')
       .showNavInfo(false)
       .nodeColor((n) => {
@@ -1452,12 +1461,27 @@ function InsightsView({ t, mobile }) {
         }
         return INSIGHTS_DIM;
       })
-      .linkOpacity(0.35)
+      .linkOpacity(0.85)
       .linkWidth((l) => {
         const f = focus(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
-        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 3;
-        return (f && (s === f || tg === f)) ? 1.4 : 0;
+        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 4;
+        return (f && (s === f || tg === f)) ? 2.6 : 0;
+      })
+      // 선택 노드 → 이웃으로 신호가 흘러나가는 파티클 (선택된 노드의 엣지만)
+      .linkDirectionalParticles((l) => {
+        const f = selRef.current;
+        const s = l.source.id || l.source, tg = l.target.id || l.target;
+        return (f && (s === f || tg === f)) ? 3 : 0;
+      })
+      .linkDirectionalParticleWidth(2.8)
+      .linkDirectionalParticleSpeed(0.016)
+      .linkDirectionalParticleColor((l) => {
+        const s = l.source.id || l.source, tg = l.target.id || l.target;
+        const f = selRef.current;
+        const other = f === s ? tg : s;
+        const on = D.nodeById[other];
+        return on ? secColor(on) : '#8a8377';
       })
       .nodeLabel((n) => {
         const c = D.card[n.id];
@@ -1480,7 +1504,9 @@ function InsightsView({ t, mobile }) {
       .onNodeClick((n) => {
         if (!n) return;
         selRef.current = n.id; setSel(n.id);
-        setRotate(false);          // 노드 선택 → 자전 멈춤 (카메라 이동 없음)
+        setRotate(false);          // 노드 선택 → 자전 멈춤
+        orientLinks(n.id);         // 신호 파티클이 바깥으로 흐르게 방향 정렬
+        faceNode(n);               // 선택 노드가 정면에 오도록 구를 돌린다
         restyle();
       })
       .onBackgroundClick(() => {   // 빈 곳 클릭 → 선택 해제 + 자전 재개
@@ -1491,8 +1517,20 @@ function InsightsView({ t, mobile }) {
       .width(el.clientWidth).height(el.clientHeight)
       .cooldownTicks(90);
 
+    // 실제 링크 가시성: 포커스(선택·호버·검색) 관련 엣지만 lib이 그린다
+    const realLinkVisibility = (l) => {
+      const s = l.source.id || l.source, tg = l.target.id || l.target;
+      const sset = searchRef.current;
+      if (sset) return sset.has(s) && sset.has(tg);
+      const f = focus(), pid = pulseRef.current;
+      return !!(f && (s === f || tg === f || s === pid || tg === pid));
+    };
+    // 부트스트랩: 첫 링크 하나만 보이게 → Line 오브젝트가 생기면 그 클래스로
+    // baseLines(hairball)를 만들고 실제 accessor로 교체한다 (initSceneExtras에서).
+    const firstLink = g.graphData().links[0];
+    g.linkVisibility((l) => l === firstLink);
     // 스타일 accessor 재평가 트리거 (vasturiano 권장 패턴)
-    const restyle = () => { g.nodeColor(g.nodeColor()).linkColor(g.linkColor()).linkWidth(g.linkWidth()); };
+    const restyle = () => { g.nodeColor(g.nodeColor()).linkColor(g.linkColor()).linkWidth(g.linkWidth()).linkVisibility(g.linkVisibility()).linkDirectionalParticles(g.linkDirectionalParticles()); };
     // 지구본 자전 — OrbitControls autoRotate. 줌은 항상 타깃(초기 중심점) 기준,
     // 팬을 꺼서 중심점이 흐트러지지 않게 한다.
     try { g.renderer().setPixelRatio(Math.min(1.5, window.devicePixelRatio || 1)); } catch (e) {}
@@ -1502,6 +1540,31 @@ function InsightsView({ t, mobile }) {
       if (T && T.FogExp2) g.scene().fog = new T.FogExp2('#f3ecdf', 0.0015);
     } catch (e) {}
     const controls = g.controls();
+    // 클릭한 노드가 정면에 오도록 — 중심·거리는 그대로 두고 카메라만 궤도 회전
+    const faceNode = (node) => {
+      try {
+        if (node.x == null) return;
+        const V3 = g.camera().position.constructor;   // THREE.Vector3 (번들 내부 클래스)
+        const tgt = controls.target;
+        const dir = new V3(node.x - tgt.x, node.y - tgt.y, node.z - tgt.z);
+        if (dir.lengthSq() < 1) return;   // 중심 근처 노드는 회전 불필요
+        dir.normalize();
+        const dist = g.camera().position.clone().sub(tgt).length();
+        g.cameraPosition(
+          { x: tgt.x + dir.x * dist, y: tgt.y + dir.y * dist, z: tgt.z + dir.z * dist },
+          { x: tgt.x, y: tgt.y, z: tgt.z }, 800);
+      } catch (e) {}
+    };
+    g.__faceNode = faceNode;
+    // 파티클은 source→target으로만 흐른다 — 선택 노드가 target인 엣지는 참조를
+    // 스왑해 신호가 항상 선택 노드에서 바깥으로 나가게 한다(힘 계산은 대칭이라 무해).
+    const orientLinks = (fid) => {
+      g.graphData().links.forEach((l) => {
+        const tg = l.target && (l.target.id || l.target);
+        if (tg === fid) { const tmp = l.source; l.source = l.target; l.target = tmp; }
+      });
+    };
+    g.__orientLinks = orientLinks;
     controls.enablePan = false;
     controls.autoRotateSpeed = 0.55;
     const setRotate = (on) => { controls.autoRotate = on && !selRef.current; };
@@ -1510,8 +1573,58 @@ function InsightsView({ t, mobile }) {
     let fitted = false;
     g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(600, 40); } });
     graphRef.current = g;
+    window.__axi.g = g;   // 콘솔 검증용
     // 상시 이펙트 루프 — 선택된 노드와 이웃은 살짝 커진 채 깜빡이고(스케일·투명도
     // 오실레이션), 카루셀 호버 노드는 더 크게. 나머지는 1로 부드럽게 복귀.
+    // 평상시 링크 hairball(옅고 얇은 기본 엣지선) — 전체를 드로우콜 1개로.
+    // 번들이 THREE를 전역에 노출하지 않으므로, 씬에 이미 있는 라인·메시 오브젝트에서
+    // 클래스(BufferGeometry·BufferAttribute·LineBasicMaterial·Line)를 역추출해 만든다.
+    // isLineSegments 플래그를 세우면 렌더러가 gl.LINES(쌍 단위)로 그린다.
+    let baseLines = null;
+    let extrasReady = false;
+    const initSceneExtras = () => {
+      try {
+        let lineObj = null, meshMat = null;
+        g.scene().traverse((o) => {
+          if (!lineObj && o.isLine) lineObj = o;
+          if (!meshMat && o.isMesh && o.material && o.material.color) meshMat = o.material;
+        });
+        if (meshMat && !g.scene().fog) {
+          const ColorC = meshMat.color.constructor;   // THREE.Color
+          // 깊이 페이드 — FogExp2와 동일한 duck-type 객체 (렌더러는 플래그·color·density만 읽는다)
+          g.scene().fog = { isFogExp2: true, color: new ColorC('#f3ecdf'), density: 0.0015 };
+        }
+        if (lineObj && !baseLines) {
+          const GeoC = lineObj.geometry.constructor;
+          const AttrC = lineObj.geometry.getAttribute('position').constructor;
+          const MatC = lineObj.material.constructor;
+          const geo = new GeoC();
+          geo.setAttribute('position', new AttrC(new Float32Array(g.graphData().links.length * 6), 3));
+          baseLines = new lineObj.constructor(geo,
+            new MatC({ color: 0xc3bbab, transparent: true, opacity: 0.3 }));
+          baseLines.isLineSegments = true; baseLines.type = 'LineSegments';
+          baseLines.frustumCulled = false;
+          baseLines.raycast = () => {};   // 호버 레이캐스트 대상에서 제외
+          g.scene().add(baseLines);
+          g.linkVisibility(realLinkVisibility);   // 부트스트랩 종료 → 실제 가시성 규칙
+        }
+        return !!(g.scene().fog && baseLines);
+      } catch (e) { return false; }
+    };
+    const syncBaseLines = () => {
+      if (!baseLines) return;
+      const links = g.graphData().links;
+      const arr = baseLines.geometry.attributes.position.array;
+      let i = 0;
+      for (let k = 0; k < links.length; k++) {
+        const s = links[k].source, t2 = links[k].target;
+        if (typeof s !== 'object' || typeof t2 !== 'object') continue;
+        arr[i++] = s.x || 0; arr[i++] = s.y || 0; arr[i++] = s.z || 0;
+        arr[i++] = t2.x || 0; arr[i++] = t2.y || 0; arr[i++] = t2.z || 0;
+      }
+      baseLines.geometry.attributes.position.needsUpdate = true;
+      baseLines.geometry.computeBoundingSphere && baseLines.geometry.computeBoundingSphere();
+    };
     let fxRaf = 0;
     const fxT0 = performance.now();
     const fxLoop = (now) => {
@@ -1523,7 +1636,7 @@ function InsightsView({ t, mobile }) {
         let target = 1;
         const lit = f && (n.id === f || (D.nb[f] && D.nb[f][n.id]));
         if (lit) {
-          target = (n.id === f ? 1.85 : 1.45) * (1 + 0.09 * Math.sin(ph * 4.5));
+          target = (n.id === f ? 2.7 : 2.0) * (1 + 0.08 * Math.sin(ph * 4.5));
           if (!o.__axMat) { o.__axMat = 1; o.material = o.material.clone(); o.material.transparent = true; }
           o.material.opacity = 0.62 + 0.38 * blink;   // 깜빡임
         } else if (o.__axMat) { delete o.__axMat; }    // restyle이 공유 머티리얼로 되돌려 놓는다
@@ -1533,6 +1646,8 @@ function InsightsView({ t, mobile }) {
           o.scale.set(s, s, s);
         }
       });
+      if (!extrasReady) extrasReady = initSceneExtras();
+      syncBaseLines();
       fxRaf = requestAnimationFrame(fxLoop);
     };
     fxRaf = requestAnimationFrame(fxLoop);
@@ -1553,7 +1668,12 @@ function InsightsView({ t, mobile }) {
   const selectFromList = (id) => {
     selRef.current = id; setSel(id);
     const g = graphRef.current;
-    if (g) { g.__setRotate(false); g.__restyle(); }
+    if (!g) return;
+    g.__setRotate(false);
+    g.__orientLinks(id);
+    g.__restyle();
+    const node = g.graphData().nodes.find((n) => n.id === id);
+    if (node) g.__faceNode(node);
   };
   /* 키워드 검색 — 매치 노드만 하이라이트, 나머지는 흐리게 */
   const searchDeb = useRef();
@@ -1699,13 +1819,25 @@ function InsightsView({ t, mobile }) {
           <input value={query} onChange={(e) => onSearch(e.target.value)}
             onKeyDown={(e) => { if (e.key === 'Escape') onSearch(''); }}
             placeholder="키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권"
-            style={{ width: '100%', boxSizing: 'border-box', padding: '11px 20px', borderRadius: 999,
+            style={{ width: '100%', boxSizing: 'border-box', padding: '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
               fontSize: 13, fontFamily: 'inherit', outline: 'none',
               boxShadow: '0 6px 18px -8px rgba(80,50,40,.25)' }} />
-          {query.trim() && searchRef.current && (
-            <div className="ax-eyebrow" style={{ position: 'absolute', right: 16, top: '50%', transform: 'translateY(-50%)',
-              color: '#8a8377', fontSize: 10, pointerEvents: 'none' }}>{searchRef.current.size}건</div>
+          {query.trim() && (
+            <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
+              display: 'flex', alignItems: 'center', gap: 7 }}>
+              {searchRef.current && (
+                <span className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 10 }}>{searchRef.current.size}건</span>
+              )}
+              <button aria-label="검색어 지우기" onClick={() => onSearch('')}
+                style={{ width: 24, height: 24, borderRadius: '50%', border: '1px solid #ddd5c7',
+                  background: '#f1ece2', color: '#57534a', cursor: 'pointer', padding: 0,
+                  display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round">
+                  <path d="M1.5 1.5l7 7M8.5 1.5l-7 7" />
+                </svg>
+              </button>
+            </div>
           )}
         </div>
       </div>
