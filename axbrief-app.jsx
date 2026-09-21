@@ -1907,38 +1907,6 @@ function InsightsView({ t, mobile }) {
     return { lead, flows, outro, apiItems };
   };
 
-  /* LLM 생성 요약 — 선택이 바뀌면 /api/insights/summary 호출. 실패/미설정이면
-     조용히 템플릿 요약으로 폴백. 같은 노드는 클라이언트 캐시 재사용. */
-  const llmCacheRef = useRef(new Map());
-  const [llm, setLlm] = useState({ id: null, status: 'idle', text: '' });
-  useEffect(() => {
-    if (!sel || !ready) { setLlm({ id: null, status: 'idle', text: '' }); return; }
-    const cachedText = llmCacheRef.current.get(sel);
-    if (cachedText) { setLlm({ id: sel, status: 'ready', text: cachedText }); return; }
-    const sum = buildClusterSummary();
-    if (!sum || !sum.apiItems || sum.apiItems.length < 2) { setLlm({ id: sel, status: 'error', text: '' }); return; }
-    let alive = true;
-    setLlm({ id: sel, status: 'loading', text: '' });
-    fetch('/api/insights/summary', {
-      method: 'POST', credentials: 'same-origin',
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ items: sum.apiItems }),
-    })
-      .then(async (r) => {
-        const d = await r.json().catch(() => null);
-        if (!alive) return;
-        if (r.ok && d && d.summary) {
-          llmCacheRef.current.set(sel, d.summary);
-          setLlm({ id: sel, status: 'ready', text: d.summary });
-        } else {
-          const reason = (d && d.reason) || 'error';
-          setLlm({ id: sel, status: reason === 'not_configured' ? 'nokey' : 'error', text: '' });
-        }
-      })
-      .catch(() => { if (alive) setLlm({ id: sel, status: 'error', text: '' }); });
-    return () => { alive = false; };
-  }, [sel, ready]);
-
   /* 히어로와 동일한 FlipCard가 먹는 아이템 형태로 변환 — has_full이면 locked로
      넘겨 entitled 플립(백면 PremiumFullArticle이 /api/premium/full에서 전문 로드,
      맨 아래 SourceLine 원문 링크까지 본 카드와 동일)을 그대로 탄다. */
@@ -2128,25 +2096,7 @@ function InsightsView({ t, mobile }) {
                     {/* 시간 흐름 요약 — 날짜순 타임라인, 넘치면 이 영역만 스크롤 */}
                     <div className="ax-body" style={{ flex: 1, minHeight: 0, overflowY: 'auto',
                       fontSize: 13, lineHeight: 1.6, color: t.body, paddingRight: 4 }}>
-                      {llm.id === sel && llm.status === 'ready' ? (
-                        llm.text.split(/\n{2,}|\n/).filter(Boolean).map((para, i) => (
-                          <p key={'llm' + i} style={{ margin: '0 0 9px' }}>{para}</p>
-                        ))
-                      ) : (
-                        <p style={{ margin: '0 0 10px', fontWeight: 600 }}>{sum.lead}</p>
-                      )}
-                      {llm.id === sel && llm.status === 'loading' && (
-                        <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>AI 요약 생성 중…</p>
-                      )}
-                      {llm.id === sel && llm.status === 'nokey' && (
-                        <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>
-                          기본 요약 표시 중 · AI 요약은 ANTHROPIC_API_KEY 설정 후 활성화됩니다
-                        </p>
-                      )}
-                      {llm.id === sel && llm.status === 'error' && (
-                        <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>기본 요약 표시 중</p>
-                      )}
-                      <div style={{ borderTop: `1px solid ${t.rule}`, margin: '2px 0 9px' }} />
+                      <p style={{ margin: '0 0 10px', fontWeight: 600 }}>{sum.lead}</p>
                       {sum.flows.map((f, i) => (
                         <p key={i} style={{ margin: '0 0 7px', display: 'flex', gap: 7,
                           fontWeight: f.isSel ? 700 : 400 }}>
@@ -2159,9 +2109,7 @@ function InsightsView({ t, mobile }) {
                           </span>
                         </p>
                       ))}
-                      {!(llm.id === sel && llm.status === 'ready') && (
-                        <p style={{ margin: '4px 0 0', color: t.faint, fontSize: 12.5 }}>{sum.outro}</p>
-                      )}
+                      <p style={{ margin: '4px 0 0', color: t.faint, fontSize: 12.5 }}>{sum.outro}</p>
                     </div>
                     <a href={card.url} target="_blank" rel="noopener noreferrer"
                       style={{ marginTop: 10, display: 'block', textAlign: 'center', background: t.hl, color: '#fff',
