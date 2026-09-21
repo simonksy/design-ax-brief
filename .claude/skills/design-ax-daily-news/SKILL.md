@@ -106,6 +106,10 @@ science, politics):
 
 After ALL sections are rolled:
 9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js --share-root . --base-url https://axitnow.com` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design) AND regenerates per-card OG share pages under `s/<section>/<id>.html` (so pasted card links unfurl with the card image + headline, then redirect into the app at `/?c=<section>:<id>`). `node --check axbrief-data.js`; restore the per-run backup on failure. Keep card thumbnails as jpg/png (not webp) so previews render on all platforms.
+   Then `python3 pipeline/build_archive.py` — folds today's cards into the permanent
+   `pipeline/archive.json` (append-only, teaser fields only — NEVER the premium `full`)
+   and regenerates `archive-data.js` for the /archive.html "지난 뉴스 전체" page.
+   `node --check archive-data.js` too.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run
     **`bash pipeline/deploy.sh`**. ⚠️ Pushing `main` alone does NOT deploy: Cloudflare
