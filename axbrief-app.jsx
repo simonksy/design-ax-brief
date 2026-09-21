@@ -1341,12 +1341,13 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
 
 /* ---- ThemedPage: section tabs + hero carousel + weekly deck timeline (one theme) ---- */
 /* ---- InsightsView (Pro 전용): 전 분야 뉴스 지식 네트워크 ----
-   그래프는 화면 전체에 고정 배경으로 깔리고(헤더·패널이 HUD처럼 위에 뜬다),
-   우측 패널은 페이지 흐름으로 자라 페이지 스크롤로 내려본다(자체 스크롤 없음).
-   메인 카드는 본 사이트 히어로와 동일한 FlipCard(Read/Share, 플립 전문 뷰 —
-   전문은 /api/premium/full에서 로드, 맨 아래 SourceLine 원문 링크까지 동일).
-   연관 뉴스 행 호버 시 그래프의 해당 노드가 커지고, 선택 노드와의 연결 엣지가
-   굵게 밝아진다(레이아웃상 멀리 떨어진 이웃도 관계가 바로 보이게). */
+   세로 3분할: [왼쪽 네트워크 | 클릭된 노드의 뉴스 카드 | 연관 뉴스 리스트].
+   그래프 캔버스는 화면 전체에 깔리되 시점을 왼쪽 영역에 정렬하고, 타이틀
+   영역과 우측 패널 영역 위에는 gradient blur 레이어를 얹어 네트워크가
+   그 뒤로 어색하게 비치지 않게 한다(또렷한 테두리 창 없음 — 가장자리 페이드).
+   메인 카드는 본 사이트 히어로 프레임(t.radius·불투명 t.cardSolid) 안의
+   FlipCard 그대로(Read/Share, 플립 전문 뷰). 연관 뉴스 열의 높이는 메인
+   카드 높이에 고정되고 넘치면 그 열만 세로 스크롤된다. */
 const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#171717',
@@ -1355,6 +1356,9 @@ const INSIGHTS_LABELS = {
   design: 'Design', music: 'Music', movies: 'Movies', games: 'Games',
   books: 'Books', gadgets: 'Gadgets', science: 'Science', politics: 'Politics',
 };
+const INSIGHTS_CARD_W = 384;    // 가운데 뉴스 카드 열 너비
+const INSIGHTS_LIST_W = 330;    // 오른쪽 연관 뉴스 열 너비
+const INSIGHTS_GAP = 14;
 
 function insightsLoadScript(src) {
   return new Promise((res, rej) => {
@@ -1364,12 +1368,11 @@ function insightsLoadScript(src) {
   });
 }
 
-/* 그래프 노드와 같은 색·같은 상대 크기의 점 (연관 뉴스 행 맨 왼쪽) */
+/* 연관 뉴스 행 맨 왼쪽의 노드 점 — 색만 그래프와 동일, 크기는 최소 노드로 통일 */
 function NodeDot({ node }) {
-  const d = Math.max(9, Math.min(26, Math.round(2 * 3.2 * Math.sqrt(Math.max(1, node.val)))));
   return (
-    <span aria-hidden style={{ flex: '0 0 26px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-      <span style={{ width: d, height: d, borderRadius: '50%', background: INSIGHTS_COLORS[node.section] || '#8a8377' }} />
+    <span aria-hidden style={{ flex: '0 0 18px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[node.section] || '#8a8377' }} />
     </span>
   );
 }
@@ -1475,7 +1478,8 @@ function InsightsView({ t, mobile }) {
           '</div></div>';
       })
       .onNodeHover((n) => { hoverRef.current = n || null; el.style.cursor = n ? 'pointer' : 'default'; })
-      .onNodeClick((n) => { if (n) { selRef.current = n.id; setSel(n.id); g.centerAt(n.x, n.y, 500); } })
+      .onNodeClick((n) => { if (n) { selRef.current = n.id; setSel(n.id); g.centerAt(n.x + (panelsPx / 2) / g.zoom(), n.y, 500); } })
+      .onBackgroundClick(() => { selRef.current = null; setSel(null); })   // 빈 곳 클릭 → 선택 해제
       .nodeCanvasObjectMode(() => 'after')
       .nodeCanvasObject((node, ctx, scale) => {
         // 리스트 행 호버 → 해당 노드 확대 + 링 + 라벨 (연결 엣지는 linkColor에서 강조)
@@ -1503,8 +1507,17 @@ function InsightsView({ t, mobile }) {
       .width(window.innerWidth).height(window.innerHeight)
       .cooldownTicks(120);
     g.d3Force('charge').strength(-28);
+    // 네트워크 시점을 왼쪽 영역에 정렬: fit 후, 우측 패널이 차지하는 폭의
+    // 절반만큼 화면을 오른쪽으로 밀어 그래프 무게중심이 왼쪽 칸에 오게 한다.
+    const panelsPx = mobile ? 0 : (INSIGHTS_CARD_W + INSIGHTS_GAP + INSIGHTS_LIST_W + 44);
     let fitted = false;
-    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(400, 60); } });
+    g.onEngineStop(() => {
+      if (fitted) return;
+      fitted = true;
+      g.zoomToFit(0, 60);
+      const z = g.zoom(), c = g.centerAt();
+      g.centerAt(c.x + (panelsPx / 2) / z, c.y, 500);
+    });
     graphRef.current = g;
     const onResize = () => { g.width(window.innerWidth).height(window.innerHeight); };
     window.addEventListener('resize', onResize);
@@ -1516,14 +1529,15 @@ function InsightsView({ t, mobile }) {
     selRef.current = id; setSel(id);
     const g = graphRef.current;
     const node = g && g.graphData().nodes.find((n) => n.id === id);
-    if (g && node && node.x != null) g.centerAt(node.x, node.y, 500);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    // 왼쪽 영역의 중앙에 오도록 패널 폭 절반만큼 오프셋
+    const off = (mobile ? 0 : (INSIGHTS_CARD_W + INSIGHTS_GAP + INSIGHTS_LIST_W + 44) / 2);
+    if (g && node && node.x != null) g.centerAt(node.x + off / g.zoom(), node.y, 500);
   };
   const rowHover = (id, on) => { pulseRef.current = { id, dir: on ? 1 : 0, t0: performance.now() }; };
   const card = sel ? D.card[sel] : null;
   const selNode = sel ? D.nodeById[sel] : null;
   const neighbors = sel ? (D.adj[sel] || []).slice().sort((a, b) => b.w - a.w) : [];
-  const recent = !sel && ready ? (window.AX_ARCHIVE || []).slice(0, 6) : [];
+  const recent = ready ? (window.AX_ARCHIVE || []).slice(0, 14) : [];
 
   /* 히어로와 동일한 FlipCard가 먹는 아이템 형태로 변환 — has_full이면 locked로
      넘겨 entitled 플립(백면 PremiumFullArticle이 /api/premium/full에서 전문 로드,
@@ -1541,13 +1555,13 @@ function InsightsView({ t, mobile }) {
     return (
       <div onClick={() => selectFromList(id)}
         onMouseEnter={() => rowHover(id, true)} onMouseLeave={() => rowHover(id, false)}
-        style={{ display: 'flex', gap: 9, alignItems: 'center', background: t.cardSolid || '#fbf8f3', border: t.cardBorder,
-          borderRadius: 13, padding: 9, cursor: 'pointer' }}>
+        style={{ display: 'flex', gap: 8, alignItems: 'center', background: t.cardSolid || '#fbf8f3', border: t.cardBorder,
+          borderRadius: 13, padding: 8, cursor: 'pointer' }}>
         <NodeDot node={n} />
         {c.image
           ? <img src={'/' + c.image} alt="" loading="lazy"
-              style={{ flex: '0 0 68px', width: 68, height: 50, borderRadius: 9, objectFit: 'cover', background: '#e8e2d6' }} />
-          : <span style={{ flex: '0 0 68px', width: 68, height: 50, borderRadius: 9, background: '#efe9de' }} />}
+              style={{ flex: '0 0 64px', width: 64, height: 48, borderRadius: 9, objectFit: 'cover', background: '#e8e2d6' }} />
+          : <span style={{ flex: '0 0 64px', width: 64, height: 48, borderRadius: 9, background: '#efe9de' }} />}
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, fontSize: 10, marginBottom: 2 }}>
             {(c.tool || n.section)} · {n.date.replace(/-/g, '.')}
@@ -1566,13 +1580,29 @@ function InsightsView({ t, mobile }) {
 
   if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
 
-  const panelW = 384;
+  const solid = t.cardSolid || '#fbf8f3';
+  const fadeBase = 'rgba(241,236,228,';   // 사이트 배경 베이지 톤
+  const panelsW = INSIGHTS_CARD_W + INSIGHTS_GAP + INSIGHTS_LIST_W;
   return (
     <div style={{ pointerEvents: 'none' }}>
-      {/* 전체화면 배경 그래프 — 헤더·패널 뒤에 깔린다 */}
+      {/* 전체화면 배경 그래프 — 시점은 왼쪽 영역으로 정렬됨 */}
       <div ref={graphBoxRef} style={{ position: 'fixed', inset: 0, zIndex: 1, pointerEvents: 'auto' }} />
+      {/* 타이틀 영역 gradient blur — 로고·카테고리 pill 뒤로 네트워크가 비치지 않게 */}
+      <div aria-hidden style={{ position: 'fixed', left: 0, right: 0, top: 0, height: 235, zIndex: 1,
+        WebkitBackdropFilter: 'blur(9px)', backdropFilter: 'blur(9px)',
+        background: 'linear-gradient(to bottom, ' + fadeBase + '.94) 0%, ' + fadeBase + '.78) 62%, ' + fadeBase + '0) 100%)',
+        WebkitMaskImage: 'linear-gradient(to bottom, black 58%, transparent 100%)',
+        maskImage: 'linear-gradient(to bottom, black 58%, transparent 100%)' }} />
+      {/* 우측 패널 영역 gradient blur — 뉴스 카드·연관 뉴스 뒤로 네트워크 페이드 아웃 */}
+      {!mobile && (
+        <div aria-hidden style={{ position: 'fixed', top: 0, bottom: 0, right: 0, width: panelsW + 120, zIndex: 1,
+          WebkitBackdropFilter: 'blur(9px)', backdropFilter: 'blur(9px)',
+          background: 'linear-gradient(to right, ' + fadeBase + '0) 0%, ' + fadeBase + '.72) 22%, ' + fadeBase + '.88) 100%)',
+          WebkitMaskImage: 'linear-gradient(to right, transparent 0%, black 26%)',
+          maskImage: 'linear-gradient(to right, transparent 0%, black 26%)' }} />
+      )}
       {!ready && (
-        <div style={{ position: 'fixed', inset: 0, zIndex: 1, display: 'flex', alignItems: 'center',
+        <div style={{ position: 'fixed', inset: 0, zIndex: 2, display: 'flex', alignItems: 'center',
           justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>
       )}
       {/* 범례 — 좌하단 고정: 색=카테고리, 크기=연결 수 */}
@@ -1588,34 +1618,46 @@ function InsightsView({ t, mobile }) {
           크기 = 연결된 뉴스 수
         </div>
       </div>
-      {/* 우측 카드 패널 — 페이지 흐름(자체 스크롤 없음), 그래프 위 HUD */}
+      {/* 우측 2열: [뉴스 카드 | 연관 뉴스] — 연관 뉴스 열 높이는 카드 높이에 고정, 넘치면 열 내부 스크롤 */}
       <div style={{ pointerEvents: 'auto', position: 'relative', zIndex: 2,
-        width: mobile ? 'auto' : panelW,
-        margin: mobile ? '48vh 12px 60px' : '6px 22px 60px auto' }}>
-        {card ? (
-          <React.Fragment>
-            <div style={{ aspectRatio: '480 / 760', position: 'relative', marginBottom: 12,
-              borderRadius: 24, boxShadow: '0 22px 48px -18px rgba(80,50,40,.4)' }}>
+        display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: INSIGHTS_GAP,
+        alignItems: 'stretch',
+        width: mobile ? 'auto' : panelsW,
+        margin: mobile ? '46vh 12px 60px' : '4px 26px 40px auto' }}>
+        {/* 가운데: 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
+        <div style={{ width: mobile ? '100%' : INSIGHTS_CARD_W, flex: 'none' }}>
+          <div style={{ aspectRatio: '480 / 760', position: 'relative',
+            borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
+            background: solid, overflow: 'clip' }}>
+            {card ? (
               <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
                 t={t} mobile={false} section={selNode.section} entitled={true} />
-            </div>
-            <div className="ax-eyebrow" style={{ color: t.mute, margin: '0 2px 8px',
-              textShadow: '0 1px 6px rgba(251,248,243,.9)' }}>직접 연결된 뉴스 {neighbors.length}</div>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-              {neighbors.map((e) => <NewsRow key={e.id} id={e.id} kw={e.kw} />)}
-            </div>
-          </React.Fragment>
-        ) : (
-          <React.Fragment>
-            <div className="ax-eyebrow" style={{ color: t.mute, textAlign: 'center', padding: '10px 0 12px',
-              textShadow: '0 1px 6px rgba(251,248,243,.9)' }}>
-              노드를 클릭하면 카드와 연결 뉴스가 여기 표시됩니다
-            </div>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-              {recent.map((c) => <NewsRow key={c.section + '/' + c.id} id={c.section + '/' + c.id} />)}
-            </div>
-          </React.Fragment>
-        )}
+            ) : (
+              <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column',
+                alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
+                <div className="ax-hl" style={{ fontSize: 19, color: t.hl }}>노드를 클릭해 보세요</div>
+                <p className="ax-body" style={{ fontSize: 13.5, lineHeight: 1.6, color: t.body, margin: 0 }}>
+                  왼쪽 네트워크에서 뉴스를 고르면 이 자리에 카드가,<br />오른쪽에 직접 연결된 뉴스들이 나타납니다.
+                </p>
+              </div>
+            )}
+          </div>
+        </div>
+        {/* 오른쪽: 연관 뉴스 — 카드 높이에 맞춰 자체 세로 스크롤 */}
+        <div style={{ width: mobile ? '100%' : INSIGHTS_LIST_W, flex: 'none',
+          display: 'flex', flexDirection: 'column', minHeight: 0,
+          maxHeight: mobile ? '52vh' : 'none', height: mobile ? 'auto' : undefined,
+          alignSelf: 'stretch' }}>
+          <div className="ax-eyebrow" style={{ color: t.mute, margin: '2px 2px 8px', flex: 'none' }}>
+            {card ? '직접 연결된 뉴스 ' + neighbors.length : '최신 뉴스'}
+          </div>
+          <div style={{ flex: 1, minHeight: 0, overflowY: 'auto', display: 'flex', flexDirection: 'column',
+            gap: 8, paddingRight: 4, boxSizing: 'border-box' }}>
+            {card
+              ? neighbors.map((e) => <NewsRow key={e.id} id={e.id} kw={e.kw} />)
+              : recent.map((c) => <NewsRow key={c.section + '/' + c.id} id={c.section + '/' + c.id} />)}
+          </div>
+        </div>
       </div>
     </div>
   );
