@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-13",
+  "section": "politics",
+  "dedup": {
+    "checked_against": "news_data.json -> sections.politics (today + days) and published_urls.json -> politics",
+    "history_found": 0,
+    "note": "politics is a brand-new section: sections.politics.today.cards is [] and sections.politics.days is [] (news_data.json lines 11822-11828), and published_urls.json has no 'politics' key at all (top-level keys run ... music (ends line 1290) -> science (line 1291), no politics between them). The URL+CONTENT dedup backstop was run anyway and found zero collisions. Within-pool check also run: all five picks have distinct URLs and cover five distinct events (the two Axios items are a published Anthropic threat report vs. a reported congressional reaction to departing-researcher warnings - different events, not one story via two headlines). Candidate #1 (Amodei pacing essay) was not selected by the user and is not carried.",
+    "dropped": 0,
+    "kept": 5
+  },
+  "picks": [
+    {
+      "id": "politics-ai-auditor-registry",
+      "url": "https://iapp.org/news/a/a-view-from-dc-what-will-all-these-ai-auditors-be-auditing",
+      "source": "IAPP",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": null,
+      "excerpt": "California's newly signed SB 813 and AB 1405 create state-designated 'independent verification organizations' for frontier models (by 2028) and an AI Auditor Registry (by 2029). IAPP notes that what auditors would actually test is left open in the statutes, and that seeking an audit remains voluntary for developers despite headlines to the contrary.",
+      "rationale": "Leads because it is the one item tied to signed statute text: it names who will be allowed to certify a model and on what timeline, which is the concrete compliance question anyone shipping a model has to plan for now."
+    },
+    {
+      "id": "politics-claude-state-misuse",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+      "source": "Axios",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Anthropic's new threat report documents what the company says were state-linked actors in Mali, China and Iran using Claude to build nationwide call-record surveillance, score the political sensitivity of social posts to select targets, and ship an identity-harvesting browser extension. Anthropic says it banned the accounts and tightened safeguards.",
+      "rationale": "A named vendor's own published threat report, attributed to Anthropic, giving documented misuse patterns that deployers can map against their own abuse monitoring and that underpin current export-control and procurement arguments."
+    },
+    {
+      "id": "politics-uk-worker-voice-ai",
+      "url": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
+      "source": "The Register",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": null,
+      "excerpt": "The Trades Union Congress asked the UK government to give workers a right to negotiate before employers decide which parts of a job are handed to AI, urging the new AI and Future of Work ministers to build policy around 'voice, rights, and a fair share'.",
+      "rationale": "A filed ask from a named body, not law yet: if consultation rights are adopted they change the sequencing of every workplace AI rollout in the UK, so teams planning deployments should track it."
+    },
+    {
+      "id": "politics-us-china-ai-governance",
+      "url": "https://www.techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit/",
+      "source": "Tech Policy Press",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Reporting from a Johns Hopkins SAIS panel held ahead of a planned US-China leaders' meeting, Tech Policy Press writes that panelists see AI governance as still lacking agreed 'rules of the road', and warn that safety commitments risk being treated as a bargaining chip in great-power competition.",
+      "rationale": "Sets out what panelists say is and is not on the table for US-China AI talks, the venue where export controls and shared safety standards would be settled; reported as panel views, not as settled outcomes."
+    },
+    {
+      "id": "politics-house-recess-ai",
+      "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+      "source": "Axios",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Axios reports that members are pressing the House speaker to call off recess and act on AI safety after warnings from departing Anthropic researchers, and that Sens. Klobuchar, Cruz and Thune are working on a bipartisan bill that would leave catastrophic-risk testing to companies and require them to report results to the government.",
+      "rationale": "Single-source Axios scoop with no primary document behind it, so it closes the set and is framed throughout as what Axios reports; its value is the shape of the described bill - self-testing plus mandatory reporting - which is the structure US frontier-model rules would most likely take."
+    }
+  ]
+}

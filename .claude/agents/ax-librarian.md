@@ -41,7 +41,8 @@ Steps:
    Also extract: source name, a 1–2 sentence excerpt, and og:image URL if present.
 3. Gate freshness deterministically — do NOT eyeball it. For each candidate run:
    `python3 pipeline/freshness.py "<published_iso>" "<now_iso>" "<section>"`
-   (window is per-section: design 72h; music/movies/games/books 14 days.)
+   (window is per-section: design/politics 72h;
+   music/movies/games/books/gadgets/science 14 days.)
    Keep only those that print FRESH. If you cannot find a published time, DROP it.
 3b. **Fill the count — expand keywords if short.** Target **5** fresh, on-topic,
    distinct candidates for the section. If the first keyword pass + freshness + the
@@ -57,7 +58,7 @@ Steps:
    outlet) and the design-relevance test; if dropping for either leaves you short, run
    more searches against under-used allowed_domains rather than padding from one outlet.
 5. Write `pipeline/candidates.json` per the README schema, setting
-   `window_hours` from `python3 -c "import sys;sys.path.insert(0,'pipeline');from freshness import window_hours;print(window_hours('<now_iso>'))"`.
+   `window_hours` from `python3 -c "import sys;sys.path.insert(0,'pipeline');from freshness import window_hours;print(window_hours('<now_iso>','<section>'))"`.
 
 SOCIAL sources (youtube.com / instagram.com):
 - **YouTube** — WebFetch the watch page and read the published time from JSON-LD

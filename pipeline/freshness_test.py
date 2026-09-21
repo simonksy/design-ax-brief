@@ -12,6 +12,15 @@ assert is_fresh("2026-06-20T21:00:00Z", "2026-06-24T07:00:00Z") is False  # ~82h
 # Mon run: article 60h ago (Fri) is fresh under 72h window
 assert is_fresh("2026-06-19T19:00:00Z", "2026-06-22T07:00:00Z") is True
 assert is_fresh("2026-06-18T19:00:00Z", "2026-06-22T07:00:00Z") is False
+# Per-section windows: design + politics are tight (72h), the rest run 14 days.
+assert window_hours("2026-06-24T07:00:00Z", "design") == 72
+assert window_hours("2026-06-24T07:00:00Z", "politics") == 72
+assert window_hours("2026-06-24T07:00:00Z", "music") == 336
+assert window_hours("2026-06-24T07:00:00Z", "science") == 336
+# A 5-day-old item is stale for politics but still fresh for a 14-day section.
+assert is_fresh("2026-06-19T07:00:00Z", "2026-06-24T07:00:00Z", "politics") is False
+assert is_fresh("2026-06-19T07:00:00Z", "2026-06-24T07:00:00Z", "music") is True
+
 # Unparseable / empty -> not fresh
 assert is_fresh("", "2026-06-24T07:00:00Z") is False
 assert is_fresh("not-a-date", "2026-06-24T07:00:00Z") is False
