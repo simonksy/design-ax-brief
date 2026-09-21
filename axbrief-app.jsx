@@ -1873,6 +1873,36 @@ function InsightsView({ t, mobile }) {
   const neighbors = sel ? (D.adj[sel] || []).slice().sort((a, b) => b.w - a.w) : [];
   const recent = ready ? (window.AX_ARCHIVE || []).slice(0, 14) : [];
 
+  /* 선택 뉴스 + 직접 연결 뉴스 전체를 '시간 흐름에 따른 토픽의 발전·변화'로
+     종합하는 요약문 (카드 데이터로 즉석 합성, 날짜 오름차순 내러티브) */
+  const buildClusterSummary = () => {
+    if (!card || !selNode) return null;
+    const items = neighbors.map((e) => ({ c: D.card[e.id], n: D.nodeById[e.id], kw: e.kw || [], isSel: false }))
+      .filter((x) => x.c && x.n);
+    items.push({ c: card, n: selNode, kw: [], isSel: true });
+    items.sort((a, b) => (a.n.date < b.n.date ? -1 : a.n.date > b.n.date ? 1 : 0));
+    const kwCount = {};
+    items.forEach((x) => x.kw.forEach((k) => { kwCount[k] = (kwCount[k] || 0) + 1; }));
+    const topKw = Object.keys(kwCount).sort((a, b) => kwCount[b] - kwCount[a]).slice(0, 3);
+    const d0 = items[0].n.date.replace(/-/g, '.'), d1 = items[items.length - 1].n.date.replace(/-/g, '.');
+    const span = d0 === d1 ? d0 : `${d0} → ${d1}`;
+    const lead = topKw.length
+      ? `‘${topKw.join('’·‘')}’을(를) 축으로 이어져 온 토픽이다. ${span}, 총 ${items.length}건의 뉴스로 흐름을 재구성했다.`
+      : `${span}, 총 ${items.length}건의 뉴스로 이 토픽의 흐름을 재구성했다.`;
+    const flows = items.map((x) => ({
+      date: x.n.date.replace(/-/g, '.').slice(5),   // MM.DD
+      tool: x.c.tool || x.n.section,
+      body: (x.c.body || (x.c.headline || '').replace(/\n/g, ' ')).trim(),
+      section: x.n.section,
+      isSel: x.isSel,
+    }));
+    const latest = items[items.length - 1];
+    const outro = latest.isSel
+      ? '선택한 뉴스가 이 흐름의 가장 최신 지점이다.'
+      : `가장 최근 소식은 ${latest.n.date.replace(/-/g, '.')} ${latest.c.tool || latest.n.section} 건이다.`;
+    return { lead, flows, outro };
+  };
+
   /* 히어로와 동일한 FlipCard가 먹는 아이템 형태로 변환 — has_full이면 locked로
      넘겨 entitled 플립(백면 PremiumFullArticle이 /api/premium/full에서 전문 로드,
      맨 아래 SourceLine 원문 링크까지 본 카드와 동일)을 그대로 탄다. */
@@ -1885,13 +1915,14 @@ function InsightsView({ t, mobile }) {
   /* 연관 뉴스 카드 — 본 사이트 과거 5일 필름스트립(.ax-strip-card)과 같은 형식:
      4:3 이미지 위 + 툴 아이브로 + 3줄 헤드라인. 맨 앞에 노드 점, 호버 시
      그래프의 해당 노드가 커지며 하이라이트, 클릭 시 그 노드 선택. */
-  const StripCard = ({ id }) => {
+  const StripCard = ({ id, isMain }) => {
     const c = D.card[id]; const n = D.nodeById[id];
     if (!c || !n) return null;
     return (
       <button className="ax-strip-card" onClick={() => selectFromList(id)}
         onMouseEnter={() => rowHover(id, true)} onMouseLeave={() => rowHover(id, false)}
-        style={{ width: 168, background: t.feedSolid || t.cardSolid || '#fbf8f3', border: t.feedBorder || t.cardBorder,
+        style={{ width: 168, background: t.feedSolid || t.cardSolid || '#fbf8f3',
+          border: isMain ? ('2px solid ' + (INSIGHTS_COLORS[n.section] || '#171717')) : (t.feedBorder || t.cardBorder),
           boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
         <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
           {c.image ? (
@@ -1928,7 +1959,8 @@ function InsightsView({ t, mobile }) {
   if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
 
   const solid = t.cardSolid || '#fbf8f3';
-  const stripIds = card ? neighbors.map((e) => e.id) : recent.map((c) => c.section + '/' + c.id);
+  // 선택 시 카루셀 = 요약에 사용된 모든 뉴스(선택 카드 포함 + 직접 연결 전부)
+  const stripIds = card ? [sel, ...neighbors.map((e) => e.id)] : recent.map((c) => c.section + '/' + c.id);
   return (
     <div style={{ width: '100vw', position: 'relative', left: '50%', transform: 'translateX(-50%)' }}>
     {/* 상단 2분할: [3D 네트워크 창 | 클릭된 노드의 뉴스 카드] */}
@@ -2040,8 +2072,50 @@ function InsightsView({ t, mobile }) {
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
           background: solid, overflow: 'clip' }}>
           {card ? (
-            <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
-              t={t} mobile={false} section={selNode.section} entitled={true} />
+            (() => {
+              const sum = buildClusterSummary();
+              return (
+                <div key={sel} style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column' }}>
+                  {/* 상단 이미지 밴드 — 요약 공간 확보를 위해 낮게 */}
+                  <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: '16 / 7', background: '#efe9de' }}>
+                    {card.image && <img src={'/' + card.image} alt=""
+                      style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />}
+                  </div>
+                  <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: '13px 16px 14px' }}>
+                    <div className="ax-eyebrow" style={{ color: t.faint, display: 'flex', justifyContent: 'space-between', marginBottom: 7 }}>
+                      <span>클러스터 요약 · <b style={{ color: INSIGHTS_COLORS[selNode.section] }}>{card.tool || selNode.section}</b></span>
+                      <span>{selNode.date.replace(/-/g, '.')} · {card.source || ''}</span>
+                    </div>
+                    <div className="ax-hl" style={{ fontSize: 16.5, lineHeight: 1.3, color: t.hl, marginBottom: 8 }}>
+                      {(card.headline || '').replace(/\n/g, ' ')}
+                    </div>
+                    {/* 시간 흐름 요약 — 날짜순 타임라인, 넘치면 이 영역만 스크롤 */}
+                    <div className="ax-body" style={{ flex: 1, minHeight: 0, overflowY: 'auto',
+                      fontSize: 13, lineHeight: 1.6, color: t.body, paddingRight: 4 }}>
+                      <p style={{ margin: '0 0 10px', fontWeight: 600 }}>{sum.lead}</p>
+                      {sum.flows.map((f, i) => (
+                        <p key={i} style={{ margin: '0 0 7px', display: 'flex', gap: 7,
+                          fontWeight: f.isSel ? 700 : 400 }}>
+                          <span aria-hidden style={{ flex: '0 0 auto', marginTop: 6, width: 7, height: 7, borderRadius: '50%',
+                            background: INSIGHTS_COLORS[f.section] || '#8a8377',
+                            boxShadow: f.isSel ? ('0 0 0 2.5px ' + (INSIGHTS_COLORS[f.section] || '#8a8377') + '44') : 'none' }} />
+                          <span style={{ minWidth: 0 }}>
+                            <span className="ax-eyebrow" style={{ fontSize: 10, color: t.faint, marginRight: 6 }}>{f.date}</span>
+                            {f.body}{f.isSel ? ' (선택한 뉴스)' : ''}
+                          </span>
+                        </p>
+                      ))}
+                      <p style={{ margin: '4px 0 0', color: t.faint, fontSize: 12.5 }}>{sum.outro}</p>
+                    </div>
+                    <a href={card.url} target="_blank" rel="noopener noreferrer"
+                      style={{ marginTop: 10, display: 'block', textAlign: 'center', background: t.hl, color: '#fff',
+                        textDecoration: 'none', fontSize: 13, fontWeight: 600, borderRadius: 999, padding: '10px 0', flex: '0 0 auto' }}>
+                      원문 읽기 ↗
+                    </a>
+                  </div>
+                </div>
+              );
+            })()
           ) : (
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column',
               alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
@@ -2057,7 +2131,7 @@ function InsightsView({ t, mobile }) {
     {/* 하단: 연관 뉴스 카루셀 — 넘치면 좌우 화살표로 가로 스크롤 넛징 */}
     <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
-        {stripIds.map((id) => <StripCard key={id} id={id} />)}
+        {stripIds.map((id) => <StripCard key={id} id={id} isMain={card && id === sel} />)}
       </div>
       {stripNav.l && (
         <div style={{ position: 'absolute', left: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
