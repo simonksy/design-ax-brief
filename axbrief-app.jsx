@@ -1666,18 +1666,19 @@ function InsightsView({ t, mobile }) {
         if (len < 0.5) { m.visible = false; continue; }
         m.visible = true;
         m.position.set((ax + bx) / 2, (ay + by) / 2, (az + bz) / 2);
-        m.scale.set(3.0, len, 3.0);
+        // 엣지에 딱 붙는 굵기 — 별도 물체가 아니라 엣지 그 구간이 밝아진 것처럼
+        m.scale.set(1.8, len, 1.8);
         m.quaternion.setFromUnitVectors(up, dir.normalize());
-        // 엣지 색을 65% 흰색 쪽으로 밝힌 틴트 — 원색 엣지·베이지 배경 모두와 대비
+        // 엣지 원색을 30%만 밝힌 선명한 발광색 (기본 엣지는 opacity 0.5로 차분)
         const other = s.id === f ? tg : s;
         const hex = INSIGHTS_COLORS[other.section] || '#8a8377';
         const v = parseInt(hex.slice(1), 16);
-        const mix = (c) => (c + (255 - c) * 0.65) / 255;
+        const mix = (c) => (c + (255 - c) * 0.3) / 255;
         if (m.material.color && m.material.color.setRGB)
           m.material.color.setRGB(mix((v >> 16) & 255), mix((v >> 8) & 255), mix(v & 255));
         if (m.material.emissive && m.material.emissive.copy) m.material.emissive.copy(m.material.color);
         // 끝에 다다르면 서서히 사라졌다가 다시 시작
-        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.92 : 0.92;
+        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) : 1;
       }
       for (; i < pulsePool.length; i++) pulsePool[i].visible = false;
     };
@@ -1707,7 +1708,7 @@ function InsightsView({ t, mobile }) {
           baseLines.raycast = () => {};   // 호버 레이캐스트 대상에서 제외
           g.scene().add(baseLines);
           g.linkVisibility(realLinkVisibility);   // 부트스트랩 종료 → 실제 가시성 규칙
-          g.linkOpacity(0.85);                    // 하이라이트 엣지 불투명도 복원
+          g.linkOpacity(0.5);                     // 엣지는 차분하게 — 통과하는 빛이 도드라지게
         }
         return !!(g.scene().fog && baseLines);
       } catch (e) { return false; }
