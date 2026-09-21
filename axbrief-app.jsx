@@ -985,6 +985,12 @@ function Masthead({ t, mobile, onHome }) {
           fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
       </div>
       <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
+      {/* 사이트 레벨 내비 — 섹션 탭과는 다른 층위: 발행 이력 전체(Archive)와
+          전 분야 뉴스의 지식 네트워크(Network)로 나가는 문 */}
+      <div className="ax-eyebrow" style={{ marginTop: mobile ? 8 : 10, display: 'flex', gap: 14 }}>
+        <a href="/archive" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Archive ↗</a>
+        <a href="/archive#graph" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Network ↗</a>
+      </div>
     </div>
   );
 }
@@ -1280,10 +1286,6 @@ function SectionTabs({ sections, order, active, onSelect, t, flush }) {
           </button>
         );
       })}
-      <a className="ax-tab" href="/archive" aria-label="지난 뉴스 전체 아카이브"
-        style={{ background: 'transparent', color: t.mute, border: '1px dashed ' + t.rule, textDecoration: 'none' }}>
-        Archive ↗
-      </a>
     </div>
   );
 }

@@ -62,6 +62,28 @@
 
   .more, .empty { text-align: center; color: #8a8377; font-size: 13px; padding: 30px 0; }
 
+  /* 뷰 토글 (리스트 ↔ 네트워크) */
+  .views { display: flex; justify-content: center; gap: 6px; margin-bottom: 10px; }
+  .view-btn { font-size: 12px; font-family: ui-monospace, Menlo, monospace; letter-spacing: .08em;
+    text-transform: uppercase; border: 1px solid #d9d2c6; background: #faf7f1; color: #57534a;
+    border-radius: 999px; padding: 6px 16px; cursor: pointer; }
+  .view-btn.on { background: #171717; border-color: #171717; color: #fff; }
+
+  /* 네트워크 그래프 */
+  #graphwrap { display: none; position: relative; min-width: 0; }
+  body.graph-mode #graphwrap { display: block; }
+  body.graph-mode #list, body.graph-mode #more, body.graph-mode #empty { display: none; }
+  #graph { width: 100%; height: calc(100vh - 240px); min-height: 420px; border: 1px solid #e6dfd3;
+    border-radius: 16px; background: #faf7f1; overflow: hidden; }
+  #graph-hint { text-align: center; font-size: 11.5px; color: #8a8377; margin-top: 8px;
+    font-family: ui-monospace, Menlo, monospace; }
+  #graph-info { position: absolute; left: 12px; bottom: 12px; max-width: 340px; background: #fff;
+    border: 1px solid #e6dfd3; border-radius: 12px; padding: 10px 12px; font-size: 12.5px;
+    line-height: 1.45; box-shadow: 0 4px 14px rgba(0,0,0,.06); display: none; }
+  #graph-info .gi-hl { font-weight: 700; margin-bottom: 2px; }
+  #graph-info .gi-m { color: #8a8377; font-size: 11px; font-family: ui-monospace, Menlo, monospace; }
+  #graph-info a { color: inherit; text-decoration: none; }
+
   @media (max-width: 560px) {
     .wrap { padding: 20px 12px 60px; }
     .thumb { flex-basis: 72px; width: 72px; height: 54px; }
@@ -78,12 +100,21 @@
     <div class="count" id="count"></div>
   </header>
   <div class="controls">
+    <div class="views">
+      <button class="view-btn on" id="v-list">List</button>
+      <button class="view-btn" id="v-graph">Network</button>
+    </div>
     <div class="tabs" id="tabs"></div>
     <input class="search" id="q" type="search" placeholder="헤드라인 · 요약 · 매체 검색" autocomplete="off">
   </div>
   <div id="list"></div>
   <div class="more" id="more" hidden>불러오는 중…</div>
   <div class="empty" id="empty" hidden>조건에 맞는 카드가 없습니다.</div>
+  <div id="graphwrap">
+    <div id="graph"></div>
+    <div id="graph-info"></div>
+    <div id="graph-hint">키워드를 공유하는 카드끼리 연결 · 호버=이웃 강조 · 클릭=카드 정보 · 더블클릭=원문</div>
+  </div>
 </div>
 
 <script>(function () {
@@ -206,7 +237,137 @@
     if (es[0].isIntersecting && cursor < groups.length) renderChunk();
   }, { rootMargin: "600px" }).observe(moreEl);
 
+  /* ---- 네트워크 뷰 (지연 로드) ---- */
+  var graphMode = false, graphReady = false, Graph = null, GD = null, nb = {}, hover = null;
+
+  function loadScript(src) {
+    return new Promise(function (res, rej) {
+      var s = document.createElement("script");
+      s.src = src; s.onload = res; s.onerror = rej;
+      document.head.appendChild(s);
+    });
+  }
+
+  function nodeMatch(n) {
+    if (state.sec !== "all" && n.section !== state.sec) return false;
+    if (!state.q) return true;
+    return (n.label || "").toLowerCase().indexOf(state.q) !== -1;
+  }
+
+  function graphData() {
+    var nodes = GD.nodes.filter(nodeMatch);
+    var ok = {}; nodes.forEach(function (n) { ok[n.id] = 1; });
+    var links = GD.links.filter(function (l) {
+      var s = l.source.id || l.source, t = l.target.id || l.target;
+      return ok[s] && ok[t];
+    }).map(function (l) {
+      return { source: l.source.id || l.source, target: l.target.id || l.target, w: l.w, kw: l.kw };
+    });
+    nb = {};
+    links.forEach(function (l) {
+      (nb[l.source] = nb[l.source] || {})[l.target] = 1;
+      (nb[l.target] = nb[l.target] || {})[l.source] = 1;
+    });
+    return { nodes: nodes.map(function (n) { return Object.assign({}, n); }), links: links };
+  }
+
+  function withAlpha(hex, a) {
+    var n = parseInt((hex || "#888888").slice(1), 16);
+    return "rgba(" + ((n >> 16) & 255) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
+  }
+
+  var info = document.getElementById("graph-info");
+  function showInfo(n) {
+    if (!n) { info.style.display = "none"; return; }
+    info.innerHTML =
+      '<div class="gi-hl">' + esc(n.label) + '</div>' +
+      '<div class="gi-m">' + esc(n.section.toUpperCase() + " · " + kr(n.date)) + '</div>' +
+      '<div class="gi-m"><a href="' + esc(n.url) + '" target="_blank" rel="noopener">원문 열기 ↗</a></div>';
+    info.style.display = "block";
+  }
+
+  function initGraph() {
+    var el = document.getElementById("graph");
+    Graph = ForceGraph()(el)
+      .graphData(graphData())
+      .nodeId("id")
+      .nodeRelSize(3.2)
+      .nodeVal(function (n) { return Math.max(1, n.val || 1); })
+      .nodeColor(function (n) {
+        if (!hover) return n.accent || "#8a8377";
+        if (n.id === hover.id || (nb[hover.id] && nb[hover.id][n.id])) return n.accent || "#8a8377";
+        return "rgba(120,115,105,0.10)";
+      })
+      .linkColor(function (l) {
+        var s = l.source.id || l.source, t = l.target.id || l.target;
+        if (hover && (s === hover.id || t === hover.id)) return withAlpha(hover.accent, 0.65);
+        return "rgba(120,115,105,0.14)";
+      })
+      .linkWidth(function (l) {
+        var s = l.source.id || l.source, t = l.target.id || l.target;
+        return (hover && (s === hover.id || t === hover.id)) ? 1.8 : 0.8;
+      })
+      .nodeLabel(function (n) { return esc(n.label) + '<br><span style="opacity:.6">' + esc(kr(n.date)) + "</span>"; })
+      .onNodeHover(function (n) { hover = n || null; document.getElementById("graph").style.cursor = n ? "pointer" : "default"; })
+      .onNodeClick(function (n) { showInfo(n); })
+      .onNodeRightClick(function (n) { if (n && n.url) window.open(n.url, "_blank"); })
+      .onBackgroundClick(function () { showInfo(null); })
+      .nodeCanvasObjectMode(function () { return "after"; })
+      .nodeCanvasObject(function (node, ctx, scale) {
+        if (scale < 2.4) return;
+        ctx.font = (11 / scale) + "px Pretendard, sans-serif";
+        ctx.textAlign = "center"; ctx.textBaseline = "top";
+        ctx.fillStyle = "#171717";
+        ctx.fillText(node.label.slice(0, 24), node.x, node.y + Math.sqrt(Math.max(1, node.val)) * 3.2 / scale + 1.5);
+      })
+      .backgroundColor("rgba(0,0,0,0)")
+      .width(el.clientWidth).height(el.clientHeight)
+      .cooldownTicks(120);
+    Graph.d3Force("charge").strength(-28);
+    Graph.onEngineStop(function () { if (!Graph._fitted) { Graph._fitted = true; Graph.zoomToFit(400, 30); } });
+    el.addEventListener("dblclick", function () { if (hover && hover.url) window.open(hover.url, "_blank"); });
+    window.addEventListener("resize", function () {
+      if (graphMode) { Graph.width(el.clientWidth).height(el.clientHeight); }
+    });
+  }
+
+  function enterGraph() {
+    graphMode = true;
+    document.body.classList.add("graph-mode");
+    $("v-graph").classList.add("on"); $("v-list").classList.remove("on");
+    if (location.hash !== "#graph") history.replaceState(null, "", "#graph");
+    if (graphReady) { Graph._fitted = false; Graph.graphData(graphData()); return; }
+    moreElHint("그래프 불러오는 중…");
+    Promise.all([loadScript("vendor/force-graph.min.js"),
+                 loadScript("archive-graph.js?v=" + Date.now())])
+      .then(function () {
+        GD = window.AX_GRAPH; graphReady = true; initGraph();
+        moreElHint("키워드를 공유하는 카드끼리 연결 · 호버=이웃 강조 · 클릭=카드 정보 · 더블클릭=원문");
+      })
+      .catch(function () { moreElHint("그래프 데이터를 불러오지 못했습니다."); });
+  }
+  function moreElHint(t) { document.getElementById("graph-hint").textContent = t; }
+
+  function enterList() {
+    graphMode = false;
+    document.body.classList.remove("graph-mode");
+    $("v-list").classList.add("on"); $("v-graph").classList.remove("on");
+    if (location.hash === "#graph") history.replaceState(null, "", location.pathname);
+    showInfo(null);
+  }
+
+  $("v-graph").onclick = enterGraph;
+  $("v-list").onclick = enterList;
+
+  /* 필터·검색이 그래프에도 반영되게 rebuild 확장 */
+  var _rebuild = rebuild;
+  rebuild = function () {
+    _rebuild();
+    if (graphMode && graphReady) { hover = null; Graph._fitted = false; Graph.graphData(graphData()); }
+  };
+
   rebuild();
+  if (location.hash === "#graph") enterGraph();
 })();
 </script>
 </body>
