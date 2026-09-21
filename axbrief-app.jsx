@@ -1432,7 +1432,13 @@ function InsightsView({ t, mobile }) {
       .nodeVal((n) => Math.max(1, n.val || 1))
       .nodeOpacity(1)
       .nodeResolution(12)         // 매끄러운 구 (드로우콜 최적화로 여유 확보)
-      .nodeVisibility((n) => !hiddenRef.current.has(n.section))   // 범례 토글
+      .nodeVisibility((n) => {
+        if (hiddenRef.current.has(n.section)) return false;   // 범례 토글
+        const f = selRef.current;
+        // 선택 중엔 회색 배경 노드를 아예 숨긴다 — 클러스터만 남는다
+        if (f && !inCluster(f, n.id)) return false;
+        return true;
+      })
       .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
       .warmupTicks(60)
       // 링크 8천 개를 개별 오브젝트로 그리면 드로우콜 폭발 → 평상시 hairball은
@@ -1702,7 +1708,7 @@ function InsightsView({ t, mobile }) {
       // 80% 이내로 줌인했을 때만 부드럽게 나타난다.
       if (baseLines) {
         const camDist = g.camera().position.distanceTo(controls.target);
-        const wantLines = !!selRef.current || (fitDist > 0 && camDist < fitDist * 0.8);
+        const wantLines = !selRef.current && (fitDist > 0 && camDist < fitDist * 0.8);
         const targetOp = wantLines ? 0.3 : 0;
         const m = baseLines.material;
         if (Math.abs(m.opacity - targetOp) > 0.005) m.opacity += (targetOp - m.opacity) * 0.12;
