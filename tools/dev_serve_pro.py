@@ -42,6 +42,14 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             return self._json({"full": full})
         super().do_GET()
 
+    def do_POST(self):
+        from urllib.parse import urlparse
+        if urlparse(self.path).path == "/api/insights/summary":
+            n = int(self.headers.get("Content-Length", 0))
+            _ = self.rfile.read(n)
+            return self._json({"summary": "이 토픽은 6월 말 텍스트로 3D 형상을 뽑는 실험에서 출발했다. 7월에는 매크로 키패드와 게임용 3D 변환으로 응용이 넓어졌고, 8월 들어 오디오 생성·플러그인 코딩까지 번졌다. 사용자가 선택한 뉴스는 이 흐름의 출발점에 해당한다. 다음 관전 포인트는 도면 자동화가 실무 CAD 워크플로에 얼마나 흡수되느냐다."})
+        self.send_response(404); self.end_headers()
+
     def log_message(self, *a):
         pass
 
