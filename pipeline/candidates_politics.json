@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-13",
+  "section": "politics",
+  "now_iso": "2026-09-13T14:02:03Z",
+  "window_hours": 72,
+  "collection_notes": "Egress proxy blocked WebFetch for every allowed_domain tried (techpolicy.press, lawfaremedia.org, iapp.org, poynter.org, csis.org, digital-strategy.ec.europa.eu, theverge.com and others all returned EGRESS_BLOCKED; curl CONNECT also 403). WebSearch was additionally refused for arstechnica.com, apnews.com, theverge.com, wired.com, politico.eu, euractiv.com. ZERO items were verified by direct fetch. Every published time below was established from search-result metadata plus at least one independent corroborating search, and is recorded at 00:00Z of the confirmed publication DATE (the earliest possible instant of that day) so the freshness gate is applied conservatively. Items that could only be pinned to 2026-09-10 or earlier (IAPP 'Autonomous cyberattacks fuel US Congress AI focus', The Diplomat 'Can Southeast Asia Benefit From the China-US AI Race?', Nieman Lab 'Voters are asking AI about elections', Nieman Lab Apple Reference Image, Axios 'Paxton-Talarico deepfake') were DROPPED as STALE rather than guessed forward. The elections axis returned no item inside the 72h window from any allowed domain despite eight dedicated searches.",
+  "items": [
+    {
+      "category": "politics",
+      "axis": "policy",
+      "title": "Anthropic, OpenAI CEOs call for slowdown in AI development",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+      "source": "Axios",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "time_verified": "search-metadata (dated URL path /2026/09/12/) + corroboration from a second search reporting the essay and Musk/Altman responses on Sept 12",
+      "excerpt": "Anthropic CEO Dario Amodei published an essay calling for an immediate slowdown in the pace of frontier AI development, warning that swarms of rogue AI agents could take over the internet within months. Elon Musk endorsed it and OpenAI's Sam Altman said he agrees the frontier needs pacing and would open his models to external evaluators.",
+      "og_image": null,
+      "why": "The three largest US labs publicly asking to be slowed down is the event that sets the terms of whatever AI safety bill Congress writes next; it is a regulatory-agenda story, not a product story."
+    },
+    {
+      "category": "politics",
+      "axis": "geopolitics",
+      "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+      "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+      "source": "Axios",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "time_verified": "search-metadata (dated URL path /2026/09/12/) + corroborating search describing the same threat report and its Mali/China/Iran findings",
+      "excerpt": "Anthropic's new threat report documents state-linked actors in Mali, China and Iran using Claude to build nationwide call-record surveillance, score the political sensitivity of social posts to pick targets for 'control', and ship an identity-harvesting browser extension. Anthropic says it banned the accounts and tightened safeguards.",
+      "og_image": null,
+      "why": "Primary-source evidence of how general-purpose models are being absorbed into state surveillance capacity — the empirical basis for export-control and procurement arguments now in front of legislators."
+    },
+    {
+      "category": "politics",
+      "axis": "policy",
+      "title": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+      "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+      "source": "Axios",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "time_verified": "search-metadata (dated URL path /2026/09/11/) + corroborating search placing the Congressional reaction to the Anthropic researcher warnings on Sept 11",
+      "excerpt": "Members are pressing the House speaker to call off recess and act on AI safety after warnings from departing Anthropic researchers, while Sens. Klobuchar, Cruz and Thune work on a bipartisan bill that would leave catastrophic-risk testing to companies and require them to report results to the government.",
+      "og_image": null,
+      "why": "Shows the concrete legislative vehicle — self-testing plus mandatory reporting — that US frontier-model rules would most likely be built on before the midterms."
+    },
+    {
+      "category": "politics",
+      "axis": "policy",
+      "title": "A view from DC: What will all these AI auditors be auditing?",
+      "url": "https://iapp.org/news/a/a-view-from-dc-what-will-all-these-ai-auditors-be-auditing",
+      "source": "IAPP",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "time_verified": "search-metadata reporting publication on Sept 11, 2026 + corroborating search on the same article's California SB 813 / AB 1405 content",
+      "excerpt": "California's newly signed SB 813 and AB 1405 create state-designated 'independent verification organizations' for frontier models (by 2028) and an AI Auditor Registry (by 2029). The piece notes that what auditors actually test is left open, and that seeking an audit remains voluntary for developers despite headlines to the contrary.",
+      "og_image": null,
+      "why": "The first concrete build-out of AI audit market infrastructure in the US — it defines who is allowed to certify a model, which is the practical compliance question for anyone shipping one."
+    },
+    {
+      "category": "politics",
+      "axis": "policy",
+      "title": "A regulatory roadmap to AI and privacy",
+      "url": "https://iapp.org/news/a/a-regulatory-roadmap-to-ai-and-privacy",
+      "source": "IAPP",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "time_verified": "search-metadata reporting publication on Sept 11, 2026 (IAPP news listing)",
+      "excerpt": "An overview of how existing privacy regimes already reach AI systems and where AI-specific legislation is layering on top, with the EU AI Act as the lead instrument and GDPR/AI Act interplay guidance still pending from the Commission and EDPB.",
+      "og_image": null,
+      "why": "Maps the two overlapping rulebooks a deployer has to satisfy at once, which is where most AI compliance work actually lands."
+    },
+    {
+      "category": "politics",
+      "axis": "policy",
+      "title": "Union body tells UK government workers must get a say before AI clocks in",
+      "url": "https://www.theregister.com/public-sector/2026/09/11/union-body-tells-uk-government-workers-must-get-a-say-before-ai-clocks-in/5295806",
+      "source": "The Register",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "time_verified": "search-metadata (dated URL path /2026/09/11/) + corroborating search summarising the TUC call on the same date",
+      "excerpt": "The Trades Union Congress asked the UK government to give workers a right to negotiate before employers decide which parts of a job are handed to AI, urging the new AI and Future of Work ministers to build policy around 'voice, rights, and a fair share'.",
+      "og_image": null,
+      "why": "A live attempt to write consultation rights into AI deployment law — if adopted it changes the sequencing of every workplace AI rollout in the UK."
+    },
+    {
+      "category": "politics",
+      "axis": "geopolitics",
+      "title": "AI Governance Reaches Crisis Point Ahead of Trump-Xi Summit",
+      "url": "https://www.techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit/",
+      "source": "Tech Policy Press",
+      "published_iso": "2026-09-12T00:00:00Z",
+      "time_verified": "search-metadata: two independent searches placed it 'just this weekend' / within ~2 days of 2026-09-13, reporting on a Sept 11 SAIS panel; recorded conservatively at the earliest consistent date",
+      "excerpt": "Reporting from a Johns Hopkins SAIS panel two weeks out from a planned Trump-Xi meeting, the piece argues AI governance still lacks agreed 'rules of the road' and warns that public safety risks being traded as a bargaining chip in great-power competition.",
+      "og_image": null,
+      "why": "Frames what is and is not on the table for US-China AI talks — the venue where export controls and shared safety standards would actually be settled."
+    },
+    {
+      "category": "politics",
+      "axis": "geopolitics",
+      "title": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
+      "url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
+      "source": "The Diplomat",
+      "published_iso": "2026-09-11T00:00:00Z",
+      "time_verified": "search-metadata: dated URL path /2026/09/ plus search result reporting '2 days ago' relative to 2026-09-13",
+      "excerpt": "An argument that advances in AI, autonomous systems and robotics are reshaping economic and military balance fast enough to have direct consequences for political systems and the global distribution of power.",
+      "og_image": null,
+      "why": "Sets out the strategic frame that national AI strategies and compute-diplomacy deals are being justified under in Asia."
+    }
+  ]
+}

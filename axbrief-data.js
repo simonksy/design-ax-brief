@@ -3471,7 +3471,8 @@
   "games",
   "books",
   "gadgets",
-  "science"
+  "science",
+  "politics"
 ];
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [

@@ -1,6 +1,6 @@
 ---
 name: design-ax-daily-news
-description: Run the multi-section Design AX daily news pipeline — collect, curate, write, illustrate, and publish 3–5 fresh AI×domain cards per section (Design, Music, Movies, Games, Books) into the Design AX Brief page.
+description: Run the multi-section Design AX daily news pipeline — collect, curate, write, illustrate, and publish 3–5 fresh AI×domain cards per section (Design, Music, Movies, Games, Books, Gadgets, Science, Politics) into the Design AX Brief page.
 ---
 
 Generate today's Design AX Brief by running the pipeline **once per section** from the
@@ -10,8 +10,20 @@ time; `date` = its calendar date.
 **Sections** come from `pipeline/sources.json` → `sections` (each maps to one or more
 source categories): `design` (AI×design tools/work culture), `music` (AI×Music),
 `movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing), `gadgets`
-(AI×devices/hardware — AI wearables, on-device AI, smart glasses, robots, NPU PCs). AI is
-the constant axis; each section pairs AI with its domain.
+(AI×devices/hardware — AI wearables, on-device AI, smart glasses, robots, NPU PCs),
+`science` (AI×research — psychology, life/materials science, physics, quantum, astronomy),
+`politics` (AI×politics on three axes: **policy/regulation**, **AI in elections & public
+opinion**, **AI geopolitics**). AI is the constant axis; each section pairs AI with its
+domain.
+
+**Politics is scoped and non-partisan.** Take only stories where AI is what makes the
+story happen — if deleting AI from the headline leaves it standing, it is general
+political news and does not belong. Report what was decided, filed or published and what
+it changes for people who build with AI: no partisan framing, no endorsement or criticism
+of parties or candidates, no horse-race or polling commentary; attribute contested claims
+to the named party rather than asserting them, and prefer the primary document (bill text,
+ruling, agency release) over commentary about it. Full rules live in `sources.json` →
+`categories[politics]._note`.
 
 **Per-section quota: fill 5 (floor 3).** Target **5** candidates/cards per section, with
 3 as the floor. To hit the count, ax-librarian must EXPAND the search when a section's
@@ -21,8 +33,10 @@ fresh, non-duplicate, on-topic items after expansion — and then note the short
 Never pad with stale or off-topic items.
 
 **Freshness window is per-section** (`pipeline/freshness.py <pub_iso> <now_iso> <section>`):
-`design` = **72h**; `music` / `movies` / `games` / `books` / `gadgets` = **14 days (336h)** — those
-domains publish AI news less often, so a wider window is needed to fill 5.
+`design` / `politics` = **72h** — both beats move fast and are dense, and a two-week-old
+ruling or export-control decision is already stale. `music` / `movies` / `games` / `books`
+/ `gadgets` / `science` = **14 days (336h)** — those domains publish AI news less often, so
+a wider window is needed to fill 5.
 
 **Fill the count (keyword expansion).** If, after the first keyword pass + freshness +
 dedup, a section has fewer than 5 candidates, ax-librarian EXPANDS: add related/sibling
@@ -52,16 +66,17 @@ ax-curator auto-picks ONLY if the user explicitly defers a section ("알아서")
 
 **Step 0 — keywords (ask the user once; skip in the scheduled collection run).** Ask in
 Korean 존댓말 for any extra search keywords and which sections to run today (default: all
-5). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
+8). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
 keywords to ax-planner as extra seeds for the relevant section(s).
 
-For EACH selected section S (default order design, music, movies, games, books, gadgets):
+For EACH selected section S (default order design, music, movies, games, books, gadgets,
+science, politics):
 1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
    (reads `keyword_pool.json.sections[S]` — always its `core`, rotates the rest by date.)
    → `pipeline/keywords.json`
 2. **ax-librarian** — "Section: S. now_iso = <now_iso>. Run your steps." Searches ONLY
    the `allowed_domains` of S's categories (from sources.json). WIDE funnel (~16–28),
-   ≤3 per outlet, freshness-gated (72h). → `pipeline/candidates.json`
+   ≤3 per outlet, freshness-gated (S's per-section window). → `pipeline/candidates.json`
 3. **DEDUP PRE-FILTER** — `python3 pipeline/dedup_candidates.py --section S` → drops URLs
    already published in S's last 5 days → `pipeline/candidates_filtered.json`. Then set
    aside content-level dupes within S.
@@ -110,7 +125,7 @@ only — facts, numbers, dates, quotes, and product/company names stay byte-iden
 back is a fixed scrollable box (text + the article's images + video containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
-(design 72h; music/movies/games/books/gadgets 14 days). Dedup is **per
+(design/politics 72h; music/movies/games/books/gadgets/science 14 days). Dedup is **per
 section** (URL + CONTENT): each distinct story appears on exactly one date within its
 section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
 `build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared
