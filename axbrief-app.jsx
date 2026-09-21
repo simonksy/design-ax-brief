@@ -1355,7 +1355,7 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
    /api/premium/full 전문 + SourceLine). */
 const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
-  books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#171717',
+  books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#9aa8c7',
 };
 const INSIGHTS_LABELS = {
   design: 'Design', music: 'Music', movies: 'Movies', games: 'Games',
@@ -1364,7 +1364,7 @@ const INSIGHTS_LABELS = {
 const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
 const INSIGHTS_GAP = 14;
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
-const INSIGHTS_DIM = '#d8d3c9';   // 포커스 밖 노드·엣지 색 (베이지 톤 저채도)
+const INSIGHTS_DIM = '#3c4050';   // 포커스 밖 노드·엣지 색 (다크 배경용 저채도)
 
 function insightsLoadScript(src) {
   return new Promise((res, rej) => {
@@ -1693,7 +1693,7 @@ function InsightsView({ t, mobile }) {
           const ColorC = meshMat.color.constructor;   // THREE.Color
           // 선형 안개(duck-type) — 구 앞면(near 안쪽)은 100% 원색, 뒷면만 배경으로
           // 가라앉는다. near/far는 fit 후 카메라 거리·구 반경 기준으로 재보정(refit).
-          g.scene().fog = { isFog: true, color: new ColorC('#f3ecdf'), near: 700, far: 2200 };
+          g.scene().fog = { isFog: true, color: new ColorC('#1a1c26'), near: 700, far: 2200 };
         }
         if (lineObj && !baseLines) {
           const GeoC = lineObj.geometry.constructor;
@@ -1702,7 +1702,7 @@ function InsightsView({ t, mobile }) {
           const geo = new GeoC();
           geo.setAttribute('position', new AttrC(new Float32Array(g.graphData().links.length * 6), 3));
           baseLines = new lineObj.constructor(geo,
-            new MatC({ color: 0xc3bbab, transparent: true, opacity: 0 }));   // 페이드인 전까지 투명
+            new MatC({ color: 0x6a7186, transparent: true, opacity: 0 }));   // 페이드인 전까지 투명
           baseLines.isLineSegments = true; baseLines.type = 'LineSegments';
           baseLines.frustumCulled = false;
           baseLines.raycast = () => {};   // 호버 레이캐스트 대상에서 제외
@@ -1926,15 +1926,15 @@ function InsightsView({ t, mobile }) {
         width: mobile ? '100%' : 'auto',
         height: mobile ? '46vh' : INSIGHTS_H,
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        background: 'radial-gradient(120% 95% at 50% 38%, #fffef9 0%, #f8f3ea 44%, #ece4d4 82%, #e3dbc9 100%)',
+        background: 'radial-gradient(120% 95% at 50% 38%, #2b2f3d 0%, #20232f 46%, #171923 82%, #101219 100%)',
         overflow: 'hidden' }}>
-        {/* 은은한 심도 비네트 — 구가 배경에서 떠 보이게 */}
+        {/* 어두운 심도 비네트 — 구가 우주에 떠 있는 느낌 */}
         <div aria-hidden style={{ position: 'absolute', inset: 0,
-          boxShadow: 'inset 0 0 120px 30px rgba(120,105,80,.14)', pointerEvents: 'none' }} />
+          boxShadow: 'inset 0 0 140px 36px rgba(0,0,0,.42)', pointerEvents: 'none' }} />
         <div ref={graphBoxRef} style={{ position: 'absolute', inset: 0 }} />
         {!ready && (
           <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
-            justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>
+            justifyContent: 'center', color: '#9aa1b4', fontSize: 13 }}>네트워크 불러오는 중…</div>
         )}
         {/* 범례 — 창 좌측 중앙: 색=카테고리, 크기=연결 수 */}
         <div style={{ position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,.92)',
