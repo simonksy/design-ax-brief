@@ -1432,13 +1432,9 @@ function InsightsView({ t, mobile }) {
       .nodeVal((n) => Math.max(1, n.val || 1))
       .nodeOpacity(1)
       .nodeResolution(12)         // 매끄러운 구 (드로우콜 최적화로 여유 확보)
-      .nodeVisibility((n) => {
-        if (hiddenRef.current.has(n.section)) return false;   // 범례 토글
-        const f = selRef.current;
-        // 선택 중엔 회색 배경 노드를 아예 숨긴다 — 클러스터만 남는다
-        if (f && !inCluster(f, n.id)) return false;
-        return true;
-      })
+      .nodeVisibility((n) => !hiddenRef.current.has(n.section))   // 범례 토글
+      // 선택 중에도 배경 노드는 회색으로 떠 있고(색만 dim), 엣지만 클러스터
+      // 것으로 제한된다(hairball은 선택 중 숨김 — fx 루프 참고).
       .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
       .warmupTicks(60)
       // 링크 8천 개를 개별 오브젝트로 그리면 드로우콜 폭발 → 평상시 hairball은
