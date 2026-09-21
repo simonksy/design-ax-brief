@@ -1364,7 +1364,7 @@ const INSIGHTS_LABELS = {
 const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
 const INSIGHTS_GAP = 14;
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
-const INSIGHTS_DIM = '#3c4050';   // 포커스 밖 노드·엣지 색 (다크 배경용 저채도)
+const INSIGHTS_DIM = 'rgba(128,136,162,0.38)';   // 포커스 밖 노드·엣지 — 배경보다 살짝 밝게 + 반투명(시야 확보)
 
 function insightsLoadScript(src) {
   return new Promise((res, rej) => {
