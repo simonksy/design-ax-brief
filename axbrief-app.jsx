@@ -989,7 +989,7 @@ function Masthead({ t, mobile, onHome }) {
           전 분야 뉴스의 지식 네트워크(Network)로 나가는 문 */}
       <div className="ax-eyebrow" style={{ marginTop: mobile ? 8 : 10, display: 'flex', gap: 14 }}>
         <a href="/archive" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Archive ↗</a>
-        <a href="/archive#graph" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Network ↗</a>
+        <a href="/archive#network" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Network ↗</a>
       </div>
     </div>
   );
