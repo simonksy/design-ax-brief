@@ -1631,8 +1631,11 @@ function InsightsView({ t, mobile }) {
         pulsePool = [];
         for (let i = 0; i < 16; i++) {
           const m = new MeshC(new GeoC(1, 1, 1, 6),
-            new MatC({ color: 0xffffff, transparent: true, opacity: 0.95 }));
+            new MatC({ color: 0xffffff, transparent: true, opacity: 0.45 }));
           if (m.material.emissive && m.material.emissive.set) m.material.emissive.set(0xffffff);
+          // 가산 블렌딩 — 엣지 원색을 덮지 않고 그 위를 밝게 스치는 빛처럼
+          m.material.blending = 2;        // THREE.AdditiveBlending
+          m.material.depthWrite = false;
           m.visible = false; m.raycast = () => {}; m.frustumCulled = false;
           g.scene().add(m); pulsePool.push(m);
         }
@@ -1664,10 +1667,10 @@ function InsightsView({ t, mobile }) {
         if (len < 0.5) { m.visible = false; continue; }
         m.visible = true;
         m.position.set((ax + bx) / 2, (ay + by) / 2, (az + bz) / 2);
-        m.scale.set(1.7, len, 1.7);
+        m.scale.set(2.1, len, 2.1);
         m.quaternion.setFromUnitVectors(up, dir.normalize());
-        // 끝에 다다르면 서서히 사라졌다가 다시 시작
-        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.95 : 0.95;
+        // 끝에 다다르면 서서히 사라졌다가 다시 시작 (반투명 빛)
+        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.45 : 0.45;
       }
       for (; i < pulsePool.length; i++) pulsePool[i].visible = false;
     };
