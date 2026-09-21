@@ -985,12 +985,6 @@ function Masthead({ t, mobile, onHome }) {
           fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
       </div>
       <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
-      {/* 사이트 레벨 내비 — 섹션 탭과는 다른 층위: 발행 이력 전체(Archive)와
-          전 분야 뉴스의 지식 네트워크(Network)로 나가는 문 */}
-      <div className="ax-eyebrow" style={{ marginTop: mobile ? 8 : 10, display: 'flex', gap: 14 }}>
-        <a href="/archive" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Archive ↗</a>
-        <a href="/archive#network" style={{ color: t.mute, textDecoration: 'none', borderBottom: '1px dotted ' + t.rule }}>Network ↗</a>
-      </div>
     </div>
   );
 }
@@ -1269,11 +1263,24 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
   );
 }
 
-/* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck ---- */
-function SectionTabs({ sections, order, active, onSelect, t, flush }) {
+/* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
+   Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
+function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
   return (
     <div className="ax-tabs" role="tablist" aria-label="섹션"
       style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
+      {showInsights && (
+        <React.Fragment>
+          <button role="tab" aria-selected={!!insightsActive} className="ax-tab" onClick={onInsights}
+            title="Pro 전용 · 전 분야 뉴스 지식 네트워크"
+            style={insightsActive
+              ? { background: '#7928ca', color: '#fff', border: '1px solid #7928ca' }
+              : { background: 'rgba(121,40,202,.08)', color: '#7928ca', border: '1px solid #7928ca' }}>
+            ✦ Insights
+          </button>
+          <span aria-hidden style={{ alignSelf: 'center', color: t.rule, fontSize: 15, padding: '0 3px', userSelect: 'none' }}>|</span>
+        </React.Fragment>
+      )}
       {order.map((s) => {
         const on = s === active;
         const label = (sections[s] && sections[s].label) || s;
@@ -1333,6 +1340,278 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
 }
 
 /* ---- ThemedPage: section tabs + hero carousel + weekly deck timeline (one theme) ---- */
+/* ---- InsightsView (Pro 전용): 전 분야 뉴스 지식 네트워크 ----
+   좌: force-graph(섹션별 색·연결 수 비례 크기·범례), 우: 선택 카드 패널.
+   패널은 자체 스크롤 없이 페이지 흐름으로 자라고, 그래프 칸은 sticky로 남는다.
+   데이터(archive-data.js / archive-graph.js / vendor force-graph)는 진입 시 지연 로드. */
+const INSIGHTS_COLORS = {
+  design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
+  books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#171717',
+};
+const INSIGHTS_LABELS = {
+  design: 'Design', music: 'Music', movies: 'Movies', games: 'Games',
+  books: 'Books', gadgets: 'Gadgets', science: 'Science', politics: 'Politics',
+};
+
+function insightsLoadScript(src) {
+  return new Promise((res, rej) => {
+    const s = document.createElement('script');
+    s.src = src; s.onload = res; s.onerror = rej;
+    document.head.appendChild(s);
+  });
+}
+
+/* 그래프 노드와 같은 색·같은 상대 크기의 점 (연관 뉴스 행 맨 왼쪽) */
+function NodeDot({ node }) {
+  const d = Math.max(9, Math.min(26, Math.round(2 * 3.2 * Math.sqrt(Math.max(1, node.val)))));
+  return (
+    <span aria-hidden style={{ flex: '0 0 26px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+      <span style={{ width: d, height: d, borderRadius: '50%', background: INSIGHTS_COLORS[node.section] || '#8a8377' }} />
+    </span>
+  );
+}
+
+function InsightsView({ t, mobile }) {
+  const graphBoxRef = useRef();
+  const graphRef = useRef(null);       // ForceGraph instance
+  const dataRef = useRef({ nb: {}, adj: {}, card: {}, nodeById: {} });
+  const selRef = useRef(null);
+  const hoverRef = useRef(null);       // 그래프 위 직접 호버
+  const pulseRef = useRef(null);       // 리스트 행 호버 → {id, dir, t0} 확대 애니메이션
+  const [ready, setReady] = useState(false);
+  const [failed, setFailed] = useState(false);
+  const [sel, setSel] = useState(null);        // 선택된 노드 id
+  const [, setTick] = useState(0);             // 패널 갱신용
+
+  useEffect(() => {
+    let alive = true;
+    const jobs = [];
+    if (!window.ForceGraph) jobs.push(insightsLoadScript('/vendor/force-graph.min.js'));
+    if (!window.AX_ARCHIVE) jobs.push(insightsLoadScript('/archive-data.js?v=' + Date.now()));
+    if (!window.AX_GRAPH) jobs.push(insightsLoadScript('/archive-graph.js?v=' + Date.now()));
+    Promise.all(jobs).then(() => { if (alive) setReady(true); }).catch(() => { if (alive) setFailed(true); });
+    return () => { alive = false; };
+  }, []);
+
+  useEffect(() => {
+    if (!ready || !graphBoxRef.current) return;
+    const el = graphBoxRef.current;
+    const D = dataRef.current;
+    D.card = {}; (window.AX_ARCHIVE || []).forEach((c) => { D.card[c.section + '/' + c.id] = c; });
+    const GD = window.AX_GRAPH || { nodes: [], links: [] };
+    D.nb = {}; D.adj = {}; D.nodeById = {};
+    GD.nodes.forEach((n) => { D.nodeById[n.id] = n; });
+    GD.links.forEach((l) => {
+      const s = l.source.id || l.source, tg = l.target.id || l.target;
+      (D.nb[s] = D.nb[s] || {})[tg] = 1; (D.nb[tg] = D.nb[tg] || {})[s] = 1;
+      (D.adj[s] = D.adj[s] || []).push({ id: tg, w: l.w, kw: l.kw });
+      (D.adj[tg] = D.adj[tg] || []).push({ id: s, w: l.w, kw: l.kw });
+    });
+    const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
+    const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
+    const ease = (p) => 1 - Math.pow(1 - p, 3);
+    const pulseScale = (id) => {
+      const p = pulseRef.current;
+      if (!p || p.id !== id) return 1;
+      const q = Math.min(1, (performance.now() - p.t0) / 220);
+      const grown = 1 + 0.9 * ease(q);
+      if (p.dir) return grown;
+      const back = 1.9 - 0.9 * ease(q);
+      if (q >= 1) pulseRef.current = null;
+      return Math.max(1, back);
+    };
+    const g = ForceGraph()(el)
+      .graphData({ nodes: GD.nodes.map((n) => Object.assign({}, n)), links: GD.links.map((l) => ({ source: l.source, target: l.target, w: l.w, kw: l.kw })) })
+      .nodeId('id')
+      .nodeRelSize(3.2)
+      .nodeVal((n) => Math.max(1, n.val || 1))
+      .autoPauseRedraw(false)
+      .nodeColor((n) => {
+        const f = focus();
+        if (!f) return secColor(n);
+        if (n.id === f || (D.nb[f] && D.nb[f][n.id])) return secColor(n);
+        return 'rgba(120,115,105,0.10)';
+      })
+      .linkColor((l) => {
+        const f = focus();
+        const s = l.source.id || l.source, tg = l.target.id || l.target;
+        if (f && (s === f || tg === f)) {
+          const fn = D.nodeById[f];
+          const hx = fn ? (INSIGHTS_COLORS[fn.section] || '#8a8377') : '#8a8377';
+          const nvi = parseInt(hx.slice(1), 16);
+          return 'rgba(' + ((nvi >> 16) & 255) + ',' + ((nvi >> 8) & 255) + ',' + (nvi & 255) + ',0.6)';
+        }
+        return 'rgba(120,115,105,0.13)';
+      })
+      .linkWidth((l) => {
+        const f = focus();
+        const s = l.source.id || l.source, tg = l.target.id || l.target;
+        return (f && (s === f || tg === f)) ? 1.8 : 0.7;
+      })
+      .nodeLabel((n) => {
+        const c = D.card[n.id];
+        if (!c) return n.label;
+        const chip = '<span style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;color:#fff;background:' + secColor(n) + ';border-radius:999px;padding:2px 7px;">' + (c.tool || n.section) + '</span>';
+        const img = c.image ? '<img src="/' + c.image + '" style="flex:0 0 76px;width:76px;height:56px;border-radius:8px;object-fit:cover;background:#e8e2d6" />' : '';
+        return '<div style="display:flex;gap:10px;align-items:flex-start;width:320px;background:#fff;border:1px solid #e6dfd3;border-radius:14px;padding:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);font-family:Pretendard,sans-serif;color:#171717;white-space:normal">' +
+          img + '<div style="min-width:0">' +
+          '<div style="display:flex;gap:7px;align-items:center;margin-bottom:3px">' + chip +
+            '<span style="font-size:10.5px;color:#8a8377">' + n.date.replace(/-/g, '.') + ' · ' + (c.source || '') + '</span></div>' +
+          '<div style="font-size:13px;font-weight:700;line-height:1.35">' + (c.headline || '').replace(/\n/g, ' ') + '</div>' +
+          '<div style="font-size:11.5px;color:#57534a;line-height:1.45;margin-top:2px">' + (c.body || '') + '</div>' +
+          '</div></div>';
+      })
+      .onNodeHover((n) => { hoverRef.current = n || null; el.style.cursor = n ? 'pointer' : 'default'; })
+      .onNodeClick((n) => { if (n) { selRef.current = n.id; setSel(n.id); g.centerAt(n.x, n.y, 500); } })
+      .nodeCanvasObjectMode(() => 'after')
+      .nodeCanvasObject((node, ctx, scale) => {
+        // 리스트 행 호버 → 해당 노드 확대 + 링 하이라이트 (부드럽게 커졌다 돌아온다)
+        const s = pulseScale(node.id);
+        if (s > 1.01) {
+          const r = 3.2 * Math.sqrt(Math.max(1, node.val)) * s;
+          ctx.beginPath(); ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
+          ctx.fillStyle = secColor(node); ctx.fill();
+          ctx.beginPath(); ctx.arc(node.x, node.y, r + 2.5 / scale, 0, 2 * Math.PI);
+          ctx.strokeStyle = secColor(node); ctx.globalAlpha = 0.35; ctx.lineWidth = 2.5 / scale;
+          ctx.stroke(); ctx.globalAlpha = 1;
+        }
+        if (scale >= 2.4) {
+          ctx.font = (11 / scale) + 'px Pretendard, sans-serif';
+          ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+          ctx.fillStyle = '#171717';
+          ctx.fillText((node.label || '').slice(0, 24), node.x, node.y + Math.sqrt(Math.max(1, node.val)) * 3.2 / scale + 1.5);
+        }
+      })
+      .backgroundColor('rgba(0,0,0,0)')
+      .width(el.clientWidth).height(el.clientHeight)
+      .cooldownTicks(120);
+    g.d3Force('charge').strength(-28);
+    let fitted = false;
+    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(400, 30); } });
+    graphRef.current = g;
+    const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
+    window.addEventListener('resize', onResize);
+    return () => { window.removeEventListener('resize', onResize); if (g._destructor) g._destructor(); graphRef.current = null; };
+  }, [ready]);
+
+  const D = dataRef.current;
+  const selectFromList = (id) => {
+    selRef.current = id; setSel(id);
+    const g = graphRef.current;
+    const node = g && g.graphData().nodes.find((n) => n.id === id);
+    if (g && node && node.x != null) g.centerAt(node.x, node.y, 500);
+  };
+  const rowHover = (id, on) => { pulseRef.current = { id, dir: on ? 1 : 0, t0: performance.now() }; };
+  const card = sel ? D.card[sel] : null;
+  const selNode = sel ? D.nodeById[sel] : null;
+  const neighbors = sel ? (D.adj[sel] || []).slice().sort((a, b) => b.w - a.w) : [];
+  const recent = !sel && ready ? (window.AX_ARCHIVE || []).slice(0, 6) : [];
+
+  /* 연관 뉴스 행 — [노드 점 | 썸네일 | 헤드라인] (아카이브 리스트의 스몰카드 형식) */
+  const NewsRow = ({ id, kw }) => {
+    const c = D.card[id]; const n = D.nodeById[id];
+    if (!c || !n) return null;
+    return (
+      <div onClick={() => selectFromList(id)}
+        onMouseEnter={() => rowHover(id, true)} onMouseLeave={() => rowHover(id, false)}
+        style={{ display: 'flex', gap: 9, alignItems: 'center', background: t.cardBg, border: t.cardBorder,
+          borderRadius: 13, padding: 9, cursor: 'pointer' }}>
+        <NodeDot node={n} />
+        {c.image
+          ? <img src={'/' + c.image} alt="" loading="lazy"
+              style={{ flex: '0 0 68px', width: 68, height: 50, borderRadius: 9, objectFit: 'cover', background: '#e8e2d6' }} />
+          : <span style={{ flex: '0 0 68px', width: 68, height: 50, borderRadius: 9, background: '#efe9de' }} />}
+        <div style={{ minWidth: 0 }}>
+          <div className="ax-eyebrow" style={{ color: t.faint, fontSize: 10, marginBottom: 2 }}>
+            {(c.tool || n.section)} · {n.date.replace(/-/g, '.')}
+          </div>
+          <div style={{ fontSize: 12.5, fontWeight: 700, lineHeight: 1.35, color: t.hl,
+            display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+            {(c.headline || '').replace(/\n/g, ' ')}
+          </div>
+          {kw && kw.length > 0 && (
+            <div className="ax-eyebrow" style={{ color: t.faint, fontSize: 9.5, marginTop: 2 }}>공유 키워드 · {kw.join(', ')}</div>
+          )}
+        </div>
+      </div>
+    );
+  };
+
+  if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
+
+  return (
+    <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: 14, alignItems: 'flex-start',
+      maxWidth: 1240, margin: '10px auto 40px', padding: '0 14px', width: '100%', boxSizing: 'border-box' }}>
+      {/* 그래프 — sticky라 패널이 길어져도 화면에 남는다 */}
+      <div style={{ flex: mobile ? 'none' : '1 1 auto', width: mobile ? '100%' : 'auto', minWidth: 0,
+        position: mobile ? 'static' : 'sticky', top: 14 }}>
+        <div style={{ position: 'relative', border: t.cardBorder, borderRadius: 16, background: t.cardBg, overflow: 'hidden' }}>
+          <div ref={graphBoxRef} style={{ width: '100%', height: mobile ? '46vh' : 'min(76vh, 680px)' }} />
+          {!ready && <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>}
+          {/* 범례 — 색=카테고리, 크기=연결 수 */}
+          <div style={{ position: 'absolute', left: 12, top: 12, background: 'rgba(255,255,255,.92)',
+            border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
+            {Object.keys(INSIGHTS_COLORS).map((s) => (
+              <div key={s} style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0' }}>
+                <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
+                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10 }}>{INSIGHTS_LABELS[s]}</span>
+              </div>
+            ))}
+            <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
+              크기 = 연결된 뉴스 수
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* 우측 패널 — 자체 스크롤 없음: 내용만큼 자라고 페이지가 흐른다 */}
+      <div style={{ flex: mobile ? 'none' : '0 0 372px', width: mobile ? '100%' : 372 }}>
+        {card ? (
+          <React.Fragment>
+            {/* 메인 카드 — 본 사이트 히어로 카드와 같은 비율(480:760), 이미지 4:3 */}
+            <div style={{ aspectRatio: '480 / 760', display: 'flex', flexDirection: 'column', background: t.cardBg,
+              border: t.cardBorder, borderRadius: 18, overflow: 'hidden', marginBottom: 12 }}>
+              <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: '4 / 3', background: '#efe9de' }}>
+                {card.image && <img src={'/' + card.image} alt="" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />}
+              </div>
+              <div style={{ flex: 1, display: 'flex', flexDirection: 'column', padding: '13px 16px 15px', minHeight: 0 }}>
+                <div className="ax-eyebrow" style={{ color: t.faint, display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
+                  <span>AI NEWS · <b style={{ color: INSIGHTS_COLORS[selNode.section] }}>{card.tool || selNode.section}</b></span>
+                  <span>{selNode.date.replace(/-/g, '.')} · {card.source || ''}</span>
+                </div>
+                <div className="ax-hl" style={{ fontSize: 19, lineHeight: 1.32, color: t.hl, marginBottom: 7 }}>
+                  {(card.headline || '').replace(/\n/g, ' ')}
+                </div>
+                <p className="ax-body" style={{ fontSize: 13.5, lineHeight: 1.55, color: t.body, margin: 0, overflow: 'hidden' }}>
+                  {card.body || ''}
+                </p>
+                <a href={card.url} target="_blank" rel="noopener noreferrer"
+                  style={{ marginTop: 'auto', display: 'block', textAlign: 'center', background: t.hl, color: '#fff',
+                    textDecoration: 'none', fontSize: 13.5, fontWeight: 600, borderRadius: 999, padding: '11px 0' }}>
+                  원문 읽기 ↗
+                </a>
+              </div>
+            </div>
+            <div className="ax-eyebrow" style={{ color: t.mute, margin: '0 2px 8px' }}>직접 연결된 뉴스 {neighbors.length}</div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {neighbors.map((e) => <NewsRow key={e.id} id={e.id} kw={e.kw} />)}
+            </div>
+          </React.Fragment>
+        ) : (
+          <React.Fragment>
+            <div className="ax-eyebrow" style={{ color: t.mute, textAlign: 'center', padding: '14px 0 12px' }}>
+              노드를 클릭하면 카드와 연결 뉴스가 여기 표시됩니다
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {recent.map((c) => <NewsRow key={c.section + '/' + c.id} id={c.section + '/' + c.id} />)}
+            </div>
+          </React.Fragment>
+        )}
+      </div>
+    </div>
+  );
+}
+
 function ThemedPage({ themeKey }) {
   const t = THEMES[themeKey];
   const isMobile = useIsMobile(760);
@@ -1353,6 +1632,20 @@ function ThemedPage({ themeKey }) {
       .then((d) => { if (d) setAuth(d); })
       .catch(() => {});
   }, []);
+  // Insights(Pro 전용 지식 네트워크) 뷰 — #insights 딥링크로도 진입. 엔타이틀이
+  // 아니면 렌더 시점에 브리프로 폴백되므로 해시만으로는 열리지 않는다.
+  const [view, setView] = useState(() =>
+    (typeof window !== 'undefined' && window.location.hash === '#insights') ? 'insights' : 'brief');
+  const openInsights = () => {
+    setView('insights');
+    try { history.replaceState(null, '', '#insights'); } catch (e) {}
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+  const closeInsights = () => {
+    if (view !== 'insights') return;
+    setView('brief');
+    try { history.replaceState(null, '', window.location.pathname + window.location.search); } catch (e) {}
+  };
   // The free card (news[0]) shows its full deep-dive, and every other today card
   // (news[1:]) already arrives in the public payload as a real, front-fields-public
   // card with `locked: true` (see build_data.py's split_teaser) — FlipCard renders
@@ -1432,6 +1725,7 @@ function ThemedPage({ themeKey }) {
     }
   };
   const switchSection = (s) => {
+    closeInsights();
     if (s === section) return;
     setSection(s); setIntro(null);
     setHero({ items: heroItems(sections[s]), index: 0, key: Date.now(), day: null });
@@ -1448,12 +1742,14 @@ function ThemedPage({ themeKey }) {
   };
   // logo → home: reset to the first section's today and scroll to the top.
   const goHome = () => {
+    closeInsights();
     setSection(order[0] || 'design'); setIntro(null);
     setHero({ items: heroItems(sections[order[0]]), index: 0, key: Date.now(), day: null });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
   const hasNews = (cur.news || []).length > 0;
+  const insightsOn = view === 'insights' && auth.entitled;
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       {/* The animated, full-screen, blurred + mix-blended backdrop is the page's
@@ -1470,9 +1766,10 @@ function ThemedPage({ themeKey }) {
         <div ref={mastheadRef}>
           <Masthead t={t} mobile={isMobile} onHome={goHome} />
         </div>
-        <SectionTabs sections={sections} order={order} active={section} onSelect={switchSection} t={t} />
+        <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
+          showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights} />
         {/* back-to-today control — rendered only while viewing a past day. */}
-        {hero.day && (
+        {!insightsOn && hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
@@ -1482,7 +1779,9 @@ function ThemedPage({ themeKey }) {
             </button>
           </div>
         )}
-        {hasNews ? (
+        {insightsOn ? (
+          <InsightsView t={t} mobile={isMobile} />
+        ) : hasNews ? (
           <React.Fragment>
             {/* HERO — centered vertical card (flips in place to the full article).
                 When the 2-row sticky bar is showing, drop the card so the tabs row
