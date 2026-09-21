@@ -85,12 +85,14 @@ def test_main_idempotent(tmpdir):
     news = os.path.join(tmpdir, "news.json")
     arch = os.path.join(tmpdir, "archive.json")
     out = os.path.join(tmpdir, "archive-data.js")
+    gout = os.path.join(tmpdir, "archive-graph.js")
     json.dump(sectioned("design", "2026-09-01", [card("a")]), open(news, "w"))
     for _ in range(2):  # second run must not duplicate
-        build_archive.main(["--news", news, "--archive", arch, "--out", out])
+        build_archive.main(["--news", news, "--archive", arch, "--out", out,
+                            "--graph-out", gout])
     got = json.load(open(arch))["cards"]
     assert len(got) == 1
-    assert os.path.exists(out)
+    assert os.path.exists(out) and os.path.exists(gout)
     print("PASS main_idempotent")
 
 
