@@ -113,9 +113,11 @@ if (!document.getElementById('ax-styles')) {
   .ax-strip-card{flex:0 0 auto;cursor:pointer;text-align:left;padding:0;border-radius:18px;overflow:hidden;
      transition:transform .2s ease;}
   .ax-strip-card:active{transform:scale(.96);}
-  /* 3D 네트워크 호버 툴팁 — 라이브러리 기본 박스 스타일 제거(내용 카드가 자체 스타일을 가짐) */
-  .scene-tooltip{background:transparent!important;border:none!important;padding:0!important;
-     color:inherit!important;font-family:inherit!important;box-shadow:none!important;}
+  /* 3D 네트워크 호버 툴팁 — 라이브러리 기본 검은 박스 제거(내용 카드가 자체 스타일을 가짐).
+     3d-force-graph(float-tooltip)의 실제 클래스는 .float-tooltip-kap */
+  .float-tooltip-kap, .scene-tooltip, .graph-tooltip{background:transparent!important;border:none!important;
+     padding:0!important;border-radius:0!important;color:inherit!important;font:inherit!important;
+     max-width:none!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
