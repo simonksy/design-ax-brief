@@ -1419,6 +1419,12 @@ function InsightsView({ t, mobile }) {
     });
     window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑; 아래에서 g도 붙는다)
     bump((x) => x + 1);     // D가 채워졌으니 카루셀(최신 카드)을 다시 그린다
+    // 자전 중엔 노드가 '정지한 커서' 밑을 지나가며 호버가 계속 발동한다 —
+    // 실제 포인터 이동(600ms 이내)이 있을 때만 호버를 인정한다.
+    let lastPointerMove = 0;
+    const onPtrMove = () => { lastPointerMove = performance.now(); };
+    el.addEventListener('pointermove', onPtrMove, { passive: true });
+    const pointerFresh = () => performance.now() - lastPointerMove < 600;
     const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
     // 선택 클러스터와 호버 프리뷰 클러스터는 공존 — 호버로 기존 선택이 회색이
     // 되지 않고, 다른 노드를 '클릭'해야 선택이 교체된다.
@@ -1487,6 +1493,7 @@ function InsightsView({ t, mobile }) {
       // (연결 애니메이션은 lib 파티클 대신 아래 커스텀 흰 대시 펄스가 담당)
       .nodeLabel((n) => {
         if (window.innerWidth < 760) return '';   // 모바일(터치): 호버/탭 스몰카드 프리뷰 없음
+        if (!pointerFresh()) return '';           // 자전에 의한 통과 호버엔 툴팁 없음
         const c = D.card[n.id];
         if (!c) return n.label;
         const chip = '<span style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;color:#fff;background:' + secColor(n) + ';border-radius:999px;padding:2px 7px;">' + (c.tool || n.section) + '</span>';
@@ -1500,8 +1507,12 @@ function InsightsView({ t, mobile }) {
           '</div></div>';
       })
       .onNodeHover((n) => {
-        hoverRef.current = n || null;
-        el.style.cursor = n ? 'pointer' : 'default';
+        const next = pointerFresh() ? (n || null) : null;
+        const prevId = hoverRef.current && hoverRef.current.id;
+        const nextId = next && next.id;
+        if (prevId === nextId) return;
+        hoverRef.current = next;
+        el.style.cursor = next ? 'pointer' : 'default';
         restyle();
       })
       .onNodeClick((n) => {
@@ -1780,6 +1791,7 @@ function InsightsView({ t, mobile }) {
     requestAnimationFrame(onResize);
     return () => {
       cancelAnimationFrame(fxRaf);
+      el.removeEventListener('pointermove', onPtrMove);
       el.removeEventListener('pointerleave', onLeave);
       ro.disconnect(); window.removeEventListener('resize', onResize);
       if (g._destructor) g._destructor();
@@ -1999,7 +2011,7 @@ function InsightsView({ t, mobile }) {
           width: mobile ? '90%' : 'min(520px, 74%)' }}>
           <input value={query} onChange={(e) => onSearch(e.target.value)}
             onKeyDown={(e) => { if (e.key === 'Escape') onSearch(''); }}
-            placeholder="키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권"
+            placeholder={mobile ? '키워드로 뉴스 노드 검색' : '키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권'}
             style={{ width: '100%', boxSizing: 'border-box', padding: mobile ? '10px 70px 10px 16px' : '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
               fontSize: mobile ? 16 : 13, fontFamily: 'inherit', outline: 'none',
