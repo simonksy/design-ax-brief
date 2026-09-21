@@ -1483,21 +1483,15 @@ function InsightsView({ t, mobile }) {
         if (f && (s === f || tg === f)) return 2.6;
         return (h && (s === h || tg === h)) ? 2.2 : 0;
       })
-      // 선택 노드 → 이웃으로 신호가 흘러나가는 파티클 (선택된 노드의 엣지만)
+      // 선택 노드 → 이웃으로 흰 빛이 쫙쫙 반복 발사되는 연결 애니메이션
       .linkDirectionalParticles((l) => {
         const f = selRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
-        return (f && (s === f || tg === f)) ? 3 : 0;
+        return (f && (s === f || tg === f)) ? 2 : 0;
       })
-      .linkDirectionalParticleWidth(2.8)
-      .linkDirectionalParticleSpeed(0.016)
-      .linkDirectionalParticleColor((l) => {
-        const s = l.source.id || l.source, tg = l.target.id || l.target;
-        const f = selRef.current;
-        const other = f === s ? tg : s;
-        const on = D.nodeById[other];
-        return on ? secColor(on) : '#8a8377';
-      })
+      .linkDirectionalParticleWidth(4.2)
+      .linkDirectionalParticleSpeed(0.055)
+      .linkDirectionalParticleColor(() => '#ffffff')
       .nodeLabel((n) => {
         const c = D.card[n.id];
         if (!c) return n.label;
