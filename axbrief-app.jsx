@@ -1306,7 +1306,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
    the real masthead + tabs scroll out of view, and curtains up (fast) when they return.
    Row 1: a STATIC "AX-it NOW" title (no goo morph) on the left + Daily Brief on
    the right. Row 2: the same section tabs. Mobile only. ---- */
-function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle }) {
+function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle, showInsights, insightsActive, onInsights }) {
   const titleRef = useRef(); const tabsRef = useRef();
   const [titleH, setTitleH] = useState(50); const [tabsH, setTabsH] = useState(50);
   useEffect(() => {
@@ -1338,7 +1338,8 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
       <div ref={tabsRef} style={{ padding: `0 ${g}px 12px` }}>
-        <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush />
+        <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush
+          showInsights={showInsights} insightsActive={insightsActive} onInsights={onInsights} />
       </div>
     </div>
   );
@@ -1924,7 +1925,7 @@ function InsightsView({ t, mobile }) {
       {/* 네트워크 창 — 히어로 프레임, 남는 폭 전부 사용 */}
       <div style={{ flex: mobile ? 'none' : '1 1 auto', minWidth: 0, position: 'relative',
         width: mobile ? '100%' : 'auto',
-        height: mobile ? '46vh' : INSIGHTS_H,
+        height: mobile ? 'max(52vh, 320px)' : INSIGHTS_H,
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: 'radial-gradient(120% 95% at 50% 38%, #2b2f3d 0%, #20232f 46%, #171923 82%, #101219 100%)',
         overflow: 'hidden' }}>
@@ -1936,7 +1937,25 @@ function InsightsView({ t, mobile }) {
           <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
             justifyContent: 'center', color: '#9aa1b4', fontSize: 13 }}>네트워크 불러오는 중…</div>
         )}
-        {/* 범례 — 창 좌측 중앙: 색=카테고리, 크기=연결 수 */}
+        {/* 범례 — 모바일: 창 상단 가로 칩 바 / 데스크톱: 좌측 중앙 세로 박스 */}
+        {mobile ? (
+          <div style={{ position: 'absolute', left: 8, right: 8, top: 8, display: 'flex', gap: 6,
+            overflowX: 'auto', WebkitOverflowScrolling: 'touch', padding: '2px 2px 6px' }}>
+            {Object.keys(INSIGHTS_COLORS).map((s) => {
+              const off = hiddenSecs.has(s);
+              return (
+                <button key={s} onClick={() => toggleSection(s)}
+                  style={{ flex: '0 0 auto', display: 'flex', alignItems: 'center', gap: 5,
+                    background: 'rgba(255,255,255,.9)', border: '1px solid #e6dfd3', borderRadius: 999,
+                    padding: '4px 10px', opacity: off ? 0.45 : 1, cursor: 'pointer' }}>
+                  <span style={{ width: 8, height: 8, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
+                  <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 9.5,
+                    textDecoration: off ? 'line-through' : 'none' }}>{INSIGHTS_LABELS[s]}</span>
+                </button>
+              );
+            })}
+          </div>
+        ) : (
         <div style={{ position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,.92)',
           border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
           {Object.keys(INSIGHTS_COLORS).map((s) => {
@@ -1973,15 +1992,16 @@ function InsightsView({ t, mobile }) {
             크기 = 연결된 뉴스 수
           </div>
         </div>
+        )}
         {/* 키워드 검색 — 창 하단 중앙, 기다란 pill. 매치 노드만 색이 남는다 */}
-        <div style={{ position: 'absolute', left: '50%', transform: 'translateX(-50%)', bottom: 14,
-          width: 'min(520px, 74%)' }}>
+        <div style={{ position: 'absolute', left: '50%', transform: 'translateX(-50%)', bottom: mobile ? 10 : 14,
+          width: mobile ? '90%' : 'min(520px, 74%)' }}>
           <input value={query} onChange={(e) => onSearch(e.target.value)}
             onKeyDown={(e) => { if (e.key === 'Escape') onSearch(''); }}
             placeholder="키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권"
-            style={{ width: '100%', boxSizing: 'border-box', padding: '11px 74px 11px 20px', borderRadius: 999,
+            style={{ width: '100%', boxSizing: 'border-box', padding: mobile ? '10px 70px 10px 16px' : '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
-              fontSize: 13, fontFamily: 'inherit', outline: 'none',
+              fontSize: mobile ? 16 : 13, fontFamily: 'inherit', outline: 'none',
               boxShadow: '0 6px 18px -8px rgba(80,50,40,.25)' }} />
           {query.trim() && (
             <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
@@ -2026,12 +2046,12 @@ function InsightsView({ t, mobile }) {
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
         {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
-      {stripNav.l && (
+      {!mobile && stripNav.l && (
         <div style={{ position: 'absolute', left: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
           <NavButton dir="l" onClick={() => stripScrollBy(-1)} t={t} />
         </div>
       )}
-      {stripNav.r && (
+      {!mobile && stripNav.r && (
         <div style={{ position: 'absolute', right: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
           <NavButton dir="r" onClick={() => stripScrollBy(1)} t={t} />
         </div>
@@ -2188,7 +2208,8 @@ function ThemedPage({ themeKey }) {
       {/* mobile: compact sticky header that appears once the real masthead+tabs leave */}
       {isMobile && (
         <MobileStickyHeader t={t} stuckTitle={stuckTitle} stuckTabs={stuckTabs} ds={ds} gutter={gutter}
-          sections={sections} order={order} active={section} onSelect={switchSection}
+          sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection}
+          showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights}
           onTitle={() => window.scrollTo({ top: 0, behavior: 'smooth' })} />
       )}
       <div className="ax-shell">
