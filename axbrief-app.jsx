@@ -1442,7 +1442,7 @@ function InsightsView({ t, mobile }) {
       .nodeVisibility((n) => !hiddenRef.current.has(n.section))   // 범례 토글
       // 선택 중에도 배경 노드는 회색으로 떠 있고(색만 dim), 엣지만 클러스터
       // 것으로 제한된다(hairball은 선택 중 숨김 — fx 루프 참고).
-      .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
+      .enableNodeDrag(true)       // 노드를 잡아 끌면 연결 노드들이 탄성 있게 딸려온다 (Second-Brain식)
       .warmupTicks(60)
       // 링크 8천 개를 개별 오브젝트로 그리면 드로우콜 폭발 → 평상시 hairball은
       // 배칭된 LineSegments 하나가 담당하고, lib에는 포커스(선택·호버·검색)
