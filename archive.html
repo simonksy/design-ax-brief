@@ -335,7 +335,7 @@
     graphMode = true;
     document.body.classList.add("graph-mode");
     $("v-graph").classList.add("on"); $("v-list").classList.remove("on");
-    if (location.hash !== "#graph") history.replaceState(null, "", "#graph");
+    if (location.hash !== "#network") history.replaceState(null, "", "#network");
     if (graphReady) { Graph._fitted = false; Graph.graphData(graphData()); return; }
     moreElHint("그래프 불러오는 중…");
     Promise.all([loadScript("vendor/force-graph.min.js"),
@@ -352,7 +352,7 @@
     graphMode = false;
     document.body.classList.remove("graph-mode");
     $("v-list").classList.add("on"); $("v-graph").classList.remove("on");
-    if (location.hash === "#graph") history.replaceState(null, "", location.pathname);
+    if (location.hash === "#network") history.replaceState(null, "", location.pathname);
     showInfo(null);
   }
 
@@ -367,7 +367,7 @@
   };
 
   rebuild();
-  if (location.hash === "#graph") enterGraph();
+  if (location.hash === "#network" || location.hash === "#graph") enterGraph();
 })();
 </script>
 </body>
