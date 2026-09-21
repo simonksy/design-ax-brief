@@ -1599,9 +1599,8 @@ function InsightsView({ t, mobile }) {
     g.onEngineStop(() => {
       if (fitted) return;
       fitted = true;
-      g.zoomToFit(600, 40);
-      // 카메라는 건드리지 않는다(추가 회전 애니메이션 없음) — fit이 끝나면
-      // 안개 near/far와 줌 기준 거리만 보정한다.
+      // 줌아웃(zoomToFit) 없이 — 노드가 등장한 초기 프레이밍 그대로 자전을
+      // 시작한다. 카메라는 일절 건드리지 않고 안개·기준 거리만 보정.
       setTimeout(() => {
         try {
           const tgt = controls.target, cam = g.camera();
