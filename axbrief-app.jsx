@@ -1890,12 +1890,26 @@ function InsightsView({ t, mobile }) {
                 onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(s); } }}
                 title={off ? '표시하기' : '숨기기'}
                 style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0',
-                  cursor: 'pointer', opacity: off ? 0.32 : 1, userSelect: 'none' }}>
-                <span style={{ width: 9, height: 9, borderRadius: '50%',
-                  background: off ? 'transparent' : INSIGHTS_COLORS[s],
-                  border: '1.5px solid ' + INSIGHTS_COLORS[s], boxSizing: 'border-box' }} />
-                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10,
-                  textDecoration: off ? 'line-through' : 'none' }}>{INSIGHTS_LABELS[s]}</span>
+                  cursor: 'pointer', opacity: off ? 0.55 : 1, userSelect: 'none' }}>
+                <span style={{ width: 9, height: 9, borderRadius: '50%', flex: '0 0 auto',
+                  background: INSIGHTS_COLORS[s] }} />
+                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10, flex: 1, minWidth: 52 }}>
+                  {INSIGHTS_LABELS[s]}
+                </span>
+                {/* 눈 아이콘 — 뜬 눈 = 표시 중, 감은 눈 = 숨김 */}
+                {off ? (
+                  <svg width="13" height="13" viewBox="0 0 14 14" fill="none" stroke="#8a8377"
+                    strokeWidth="1.3" strokeLinecap="round" aria-hidden>
+                    <path d="M1.5 6s2.2 3 5.5 3 5.5-3 5.5-3" />
+                    <path d="M3.2 8.4l-1 1.5M7 9.2v1.8M10.8 8.4l1 1.5" />
+                  </svg>
+                ) : (
+                  <svg width="13" height="13" viewBox="0 0 14 14" fill="none" stroke="#57534a"
+                    strokeWidth="1.3" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <path d="M1.5 7S3.7 3.5 7 3.5 12.5 7 12.5 7 10.3 10.5 7 10.5 1.5 7 1.5 7z" />
+                    <circle cx="7" cy="7" r="1.7" fill="#57534a" stroke="none" />
+                  </svg>
+                )}
               </div>
             );
           })}
