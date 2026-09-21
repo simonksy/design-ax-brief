@@ -1473,7 +1473,7 @@ function InsightsView({ t, mobile }) {
         }
         return INSIGHTS_DIM;
       })
-      .linkOpacity(0.85)
+      .linkOpacity(0)   // 부트스트랩 링크가 안 보이게 — extras 준비 후 0.85로 올린다
       .linkWidth((l) => {
         const f = selRef.current, h = hovId(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
@@ -1647,12 +1647,13 @@ function InsightsView({ t, mobile }) {
           const geo = new GeoC();
           geo.setAttribute('position', new AttrC(new Float32Array(g.graphData().links.length * 6), 3));
           baseLines = new lineObj.constructor(geo,
-            new MatC({ color: 0xc3bbab, transparent: true, opacity: 0.3 }));
+            new MatC({ color: 0xc3bbab, transparent: true, opacity: 0 }));   // 페이드인 전까지 투명
           baseLines.isLineSegments = true; baseLines.type = 'LineSegments';
           baseLines.frustumCulled = false;
           baseLines.raycast = () => {};   // 호버 레이캐스트 대상에서 제외
           g.scene().add(baseLines);
           g.linkVisibility(realLinkVisibility);   // 부트스트랩 종료 → 실제 가시성 규칙
+          g.linkOpacity(0.85);                    // 하이라이트 엣지 불투명도 복원
         }
         return !!(g.scene().fog && baseLines);
       } catch (e) { return false; }
