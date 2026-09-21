@@ -1924,11 +1924,16 @@ function InsightsView({ t, mobile }) {
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ items: sum.apiItems }),
     })
-      .then((r) => (r.ok ? r.json() : Promise.reject(new Error('http_' + r.status))))
-      .then((d) => {
+      .then(async (r) => {
+        const d = await r.json().catch(() => null);
         if (!alive) return;
-        if (d && d.summary) { llmCacheRef.current.set(sel, d.summary); setLlm({ id: sel, status: 'ready', text: d.summary }); }
-        else setLlm({ id: sel, status: 'error', text: '' });
+        if (r.ok && d && d.summary) {
+          llmCacheRef.current.set(sel, d.summary);
+          setLlm({ id: sel, status: 'ready', text: d.summary });
+        } else {
+          const reason = (d && d.reason) || 'error';
+          setLlm({ id: sel, status: reason === 'not_configured' ? 'nokey' : 'error', text: '' });
+        }
       })
       .catch(() => { if (alive) setLlm({ id: sel, status: 'error', text: '' }); });
     return () => { alive = false; };
@@ -2132,6 +2137,14 @@ function InsightsView({ t, mobile }) {
                       )}
                       {llm.id === sel && llm.status === 'loading' && (
                         <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>AI 요약 생성 중…</p>
+                      )}
+                      {llm.id === sel && llm.status === 'nokey' && (
+                        <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>
+                          기본 요약 표시 중 · AI 요약은 ANTHROPIC_API_KEY 설정 후 활성화됩니다
+                        </p>
+                      )}
+                      {llm.id === sel && llm.status === 'error' && (
+                        <p className="ax-eyebrow" style={{ margin: '0 0 9px', color: t.faint, fontSize: 10 }}>기본 요약 표시 중</p>
                       )}
                       <div style={{ borderTop: `1px solid ${t.rule}`, margin: '2px 0 9px' }} />
                       {sum.flows.map((f, i) => (
