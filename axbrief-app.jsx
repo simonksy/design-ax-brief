@@ -1415,6 +1415,10 @@ function InsightsView({ t, mobile }) {
     window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑; 아래에서 g도 붙는다)
     bump((x) => x + 1);     // D가 채워졌으니 카루셀(최신 카드)을 다시 그린다
     const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
+    // 선택 클러스터와 호버 프리뷰 클러스터는 공존 — 호버로 기존 선택이 회색이
+    // 되지 않고, 다른 노드를 '클릭'해야 선택이 교체된다.
+    const inCluster = (center, id) => !!(center && (id === center || (D.nb[center] && D.nb[center][id])));
+    const hovId = () => (hoverRef.current ? hoverRef.current.id : null);
     const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
 
     const g = ForceGraph3D({ controlType: 'orbit', rendererConfig: { antialias: true, powerPreference: 'high-performance' } })(el)
@@ -1437,10 +1441,9 @@ function InsightsView({ t, mobile }) {
       .nodeColor((n) => {
         const sset = searchRef.current;
         if (sset) return sset.has(n.id) ? secColor(n) : INSIGHTS_DIM;   // 검색 모드
-        const f = focus();
-        if (!f) return secColor(n);
-        if (n.id === f || (D.nb[f] && D.nb[f][n.id])) return secColor(n);
-        return INSIGHTS_DIM;
+        const f = selRef.current, h = hovId();
+        if (!f && !h) return secColor(n);
+        return (inCluster(f, n.id) || inCluster(h, n.id)) ? secColor(n) : INSIGHTS_DIM;
       })
       .linkColor((l) => {
         const sset = searchRef.current;
@@ -1449,7 +1452,7 @@ function InsightsView({ t, mobile }) {
           if (sset.has(s0) && sset.has(t0)) { const sn = D.nodeById[s0]; return sn ? secColor(sn) : '#8a8377'; }
           return INSIGHTS_DIM;
         }
-        const f = focus(), pid = pulseRef.current;
+        const f = selRef.current, h = hovId(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
         if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) {
           const pn = D.nodeById[pid];
@@ -1459,14 +1462,19 @@ function InsightsView({ t, mobile }) {
           const fn = D.nodeById[f];
           return fn ? secColor(fn) : '#8a8377';
         }
+        if (h && (s === h || tg === h)) {
+          const hn = D.nodeById[h];
+          return hn ? secColor(hn) : '#8a8377';
+        }
         return INSIGHTS_DIM;
       })
       .linkOpacity(0.85)
       .linkWidth((l) => {
-        const f = focus(), pid = pulseRef.current;
+        const f = selRef.current, h = hovId(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
         if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 4;
-        return (f && (s === f || tg === f)) ? 2.6 : 0;
+        if (f && (s === f || tg === f)) return 2.6;
+        return (h && (s === h || tg === h)) ? 2.2 : 0;
       })
       // 선택 노드 → 이웃으로 신호가 흘러나가는 파티클 (선택된 노드의 엣지만)
       .linkDirectionalParticles((l) => {
@@ -1522,8 +1530,9 @@ function InsightsView({ t, mobile }) {
       const s = l.source.id || l.source, tg = l.target.id || l.target;
       const sset = searchRef.current;
       if (sset) return sset.has(s) && sset.has(tg);
-      const f = focus(), pid = pulseRef.current;
-      return !!(f && (s === f || tg === f || s === pid || tg === pid));
+      const f = selRef.current, h = hovId(), pid = pulseRef.current;
+      if (f && (s === f || tg === f || s === pid || tg === pid)) return true;
+      return !!(h && (s === h || tg === h));
     };
     // 부트스트랩: 첫 링크 하나만 보이게 → Line 오브젝트가 생기면 그 클래스로
     // baseLines(hairball)를 만들고 실제 accessor로 교체한다 (initSceneExtras에서).
@@ -1652,12 +1661,17 @@ function InsightsView({ t, mobile }) {
     };
     fxRaf = requestAnimationFrame(fxLoop);
     const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
+    // 포인터가 창을 벗어날 때 호버가 남아 있으면 그 클러스터 외 전부가 회색으로
+    // 굳는다 — 확실하게 해제한다.
+    const onLeave = () => { if (hoverRef.current) { hoverRef.current = null; restyle(); } };
+    el.addEventListener('pointerleave', onLeave);
     const ro = new ResizeObserver(onResize);
     ro.observe(el);
     window.addEventListener('resize', onResize);
     requestAnimationFrame(onResize);
     return () => {
       cancelAnimationFrame(fxRaf);
+      el.removeEventListener('pointerleave', onLeave);
       ro.disconnect(); window.removeEventListener('resize', onResize);
       if (g._destructor) g._destructor();
       graphRef.current = null;
