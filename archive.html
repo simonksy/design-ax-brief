@@ -69,20 +69,81 @@
     border-radius: 999px; padding: 6px 16px; cursor: pointer; }
   .view-btn.on { background: #171717; border-color: #171717; color: #fff; }
 
-  /* 네트워크 그래프 */
+  /* 네트워크 그래프 — 좌: 그래프 / 우: 카드 패널 */
   #graphwrap { display: none; position: relative; min-width: 0; }
-  body.graph-mode #graphwrap { display: block; }
+  body.graph-mode #graphwrap { display: flex; gap: 12px; align-items: stretch;
+    height: calc(100vh - 235px); min-height: 480px; }
   body.graph-mode #list, body.graph-mode #more, body.graph-mode #empty { display: none; }
-  #graph { width: 100%; height: calc(100vh - 240px); min-height: 420px; border: 1px solid #e6dfd3;
-    border-radius: 16px; background: #faf7f1; overflow: hidden; }
-  #graph-hint { text-align: center; font-size: 11.5px; color: #8a8377; margin-top: 8px;
-    font-family: ui-monospace, Menlo, monospace; }
-  #graph-info { position: absolute; left: 12px; bottom: 12px; max-width: 340px; background: #fff;
-    border: 1px solid #e6dfd3; border-radius: 12px; padding: 10px 12px; font-size: 12.5px;
-    line-height: 1.45; box-shadow: 0 4px 14px rgba(0,0,0,.06); display: none; }
-  #graph-info .gi-hl { font-weight: 700; margin-bottom: 2px; }
-  #graph-info .gi-m { color: #8a8377; font-size: 11px; font-family: ui-monospace, Menlo, monospace; }
-  #graph-info a { color: inherit; text-decoration: none; }
+  body.graph-mode .wrap { max-width: 1280px; }
+  #graph { flex: 1 1 auto; min-width: 0; border: 1px solid #e6dfd3;
+    border-radius: 16px; background: #faf7f1; overflow: hidden; position: relative; }
+  #graph-hint { position: absolute; left: 12px; right: 424px; bottom: 8px; text-align: center;
+    font-size: 11px; color: #8a8377; font-family: ui-monospace, Menlo, monospace;
+    pointer-events: none; z-index: 2; }
+  @media (max-width: 900px) { #graph-hint { display: none; } }
+
+  /* 우측 패널: 선택 카드 + 1단계 이웃 */
+  #side { flex: 0 0 400px; width: 400px; overflow-y: auto; border: 1px solid #e6dfd3;
+    border-radius: 16px; background: #faf7f1; padding: 12px; }
+  .side-hint { color: #8a8377; font-size: 12px; text-align: center; padding: 14px 8px 12px;
+    font-family: ui-monospace, Menlo, monospace; letter-spacing: .04em; }
+
+  /* 메인 카드 — 본 앱 카드 형태의 축약판 */
+  .bigcard { background: #fff; border: 1px solid #e6dfd3; border-radius: 16px; overflow: hidden;
+    margin-bottom: 14px; }
+  .bigcard .bc-img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; background: #e8e2d6; }
+  .bigcard .bc-ph { width: 100%; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; background: #efe9de; }
+  .bigcard .bc-ph::after { content: ""; width: 44px; height: 44px; border-radius: 12px; background: var(--a, #ccc); opacity: .85; }
+  .bigcard .bc-body { padding: 13px 15px 15px; }
+  .bigcard .bc-eyebrow { display: flex; justify-content: space-between; align-items: center;
+    font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase;
+    font-family: ui-monospace, Menlo, monospace; color: #8a8377; margin-bottom: 7px; }
+  .bigcard .bc-eyebrow b { color: var(--a, #171717); }
+  .bigcard .bc-hl { font-size: 17px; font-weight: 800; line-height: 1.35; margin-bottom: 6px; }
+  .bigcard .bc-bd { font-size: 13.5px; color: #57534a; line-height: 1.55; margin-bottom: 12px; }
+  .bigcard .bc-read { display: block; text-align: center; background: #171717; color: #fff;
+    text-decoration: none; font-size: 13px; font-weight: 600; border-radius: 999px; padding: 10px 0; }
+  .bigcard .bc-read:hover { opacity: .85; }
+
+  /* 이웃 카드 그리드 (2열, 아카이브 카드 형태) */
+  .nbr-title { font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+    font-family: ui-monospace, Menlo, monospace; color: #8a8377; margin: 2px 2px 8px; }
+  .nbr-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .ncard { display: block; background: #fff; border: 1px solid #e6dfd3; border-radius: 12px;
+    overflow: hidden; cursor: pointer; text-decoration: none; color: inherit; }
+  .ncard:hover { border-color: #171717; }
+  .ncard .nc-img { width: 100%; aspect-ratio: 16/10; object-fit: cover; display: block; background: #e8e2d6; }
+  .ncard .nc-ph { width: 100%; aspect-ratio: 16/10; display: flex; align-items: center; justify-content: center; background: #efe9de; }
+  .ncard .nc-ph::after { content: ""; width: 22px; height: 22px; border-radius: 6px; background: var(--a, #ccc); opacity: .85; }
+  .ncard .nc-body { padding: 8px 9px 9px; }
+  .ncard .nc-meta { display: flex; gap: 6px; align-items: center; margin-bottom: 4px; min-width: 0; }
+  .ncard .chip { flex: 0 0 auto; }
+  .ncard .nc-src { font-size: 10px; color: #8a8377; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .ncard .nc-hl { font-size: 12.5px; font-weight: 700; line-height: 1.35; display: -webkit-box;
+    -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .ncard .nc-kw { font-size: 10.5px; color: #8a8377; margin-top: 4px;
+    font-family: ui-monospace, Menlo, monospace; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  /* 호버 툴팁 — 아카이브 카드 형태 */
+  .graph-tooltip { padding: 0 !important; background: transparent !important; }
+  .tip-card { display: flex; gap: 10px; align-items: flex-start; width: 320px; background: #fff;
+    border: 1px solid #e6dfd3; border-radius: 14px; padding: 10px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.10); font-family: Pretendard, sans-serif; color: #171717; }
+  .tip-card img, .tip-card .tp-ph { flex: 0 0 76px; width: 76px; height: 56px; border-radius: 8px;
+    object-fit: cover; background: #e8e2d6; }
+  .tip-card .tp-ph { display: flex; align-items: center; justify-content: center; }
+  .tip-card .tp-ph::after { content: ""; width: 20px; height: 20px; border-radius: 6px; background: var(--a, #ccc); opacity: .85; }
+  .tip-card .tp-meta { min-width: 0; }
+  .tip-card .tp-hl { font-size: 13px; font-weight: 700; line-height: 1.35; margin: 3px 0 2px;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .tip-card .tp-bd { font-size: 11.5px; color: #57534a; line-height: 1.45; display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  @media (max-width: 900px) {
+    body.graph-mode #graphwrap { flex-direction: column; height: auto; }
+    #graph { height: 46vh; min-height: 300px; flex: none; }
+    #side { flex: none; width: auto; max-height: 60vh; }
+  }
 
   @media (max-width: 560px) {
     .wrap { padding: 20px 12px 60px; }
@@ -112,8 +173,8 @@
   <div class="empty" id="empty" hidden>조건에 맞는 카드가 없습니다.</div>
   <div id="graphwrap">
     <div id="graph"></div>
-    <div id="graph-info"></div>
-    <div id="graph-hint">키워드를 공유하는 카드끼리 연결 · 호버=이웃 강조 · 클릭=카드 정보 · 더블클릭=원문</div>
+    <div id="graph-hint">키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스</div>
+    <div id="side"><div class="side-hint">노드를 클릭하면 해당 뉴스와<br>직접 연결된 뉴스들이 여기 표시됩니다</div></div>
   </div>
 </div>
 
@@ -237,8 +298,14 @@
     if (es[0].isIntersecting && cursor < groups.length) renderChunk();
   }, { rootMargin: "600px" }).observe(moreEl);
 
-  /* ---- 네트워크 뷰 (지연 로드) ---- */
-  var graphMode = false, graphReady = false, Graph = null, GD = null, nb = {}, hover = null;
+  /* ---- 네트워크 뷰 (지연 로드) — 좌 그래프 + 우 카드 패널 ---- */
+  var graphMode = false, graphReady = false, Graph = null, GD = null;
+  var nb = {}, adj = {}, hover = null, sel = null;
+  var side = document.getElementById("side");
+
+  /* 아카이브 카드 데이터: 노드 id(section/id) → 카드 */
+  var CARD = {};
+  ALL.forEach(function (c) { CARD[c.section + "/" + c.id] = c; });
 
   function loadScript(src) {
     return new Promise(function (res, rej) {
@@ -263,10 +330,12 @@
     }).map(function (l) {
       return { source: l.source.id || l.source, target: l.target.id || l.target, w: l.w, kw: l.kw };
     });
-    nb = {};
+    nb = {}; adj = {};
     links.forEach(function (l) {
       (nb[l.source] = nb[l.source] || {})[l.target] = 1;
       (nb[l.target] = nb[l.target] || {})[l.source] = 1;
+      (adj[l.source] = adj[l.source] || []).push({ id: l.target, w: l.w, kw: l.kw });
+      (adj[l.target] = adj[l.target] || []).push({ id: l.source, w: l.w, kw: l.kw });
     });
     return { nodes: nodes.map(function (n) { return Object.assign({}, n); }), links: links };
   }
@@ -276,15 +345,88 @@
     return "rgba(" + ((n >> 16) & 255) + "," + ((n >> 8) & 255) + "," + (n & 255) + "," + a + ")";
   }
 
-  var info = document.getElementById("graph-info");
-  function showInfo(n) {
-    if (!n) { info.style.display = "none"; return; }
-    info.innerHTML =
-      '<div class="gi-hl">' + esc(n.label) + '</div>' +
-      '<div class="gi-m">' + esc(n.section.toUpperCase() + " · " + kr(n.date)) + '</div>' +
-      '<div class="gi-m"><a href="' + esc(n.url) + '" target="_blank" rel="noopener">원문 열기 ↗</a></div>';
-    info.style.display = "block";
+  /* ---- 우측 패널 렌더 ---- */
+  function thumbHTML(c, cls, phCls) {
+    if (c.image) {
+      return '<img class="' + cls + '" loading="lazy" src="/' + esc(c.image) + '" alt="" ' +
+        'onerror="this.outerHTML=\'<div class=&quot;' + phCls + '&quot; style=&quot;--a:' + esc(c.accent || "#ccc") + '&quot;></div>\'">';
+    }
+    return '<div class="' + phCls + '" style="--a:' + esc(c.accent || "#ccc") + '"></div>';
   }
+
+  function ncardHTML(c, kwList) {
+    return '<a class="ncard" data-nid="' + esc(c.section + "/" + c.id) + '" style="--a:' + esc(c.accent || "#171717") + '">' +
+      thumbHTML(c, "nc-img", "nc-ph") +
+      '<div class="nc-body">' +
+        '<div class="nc-meta"><span class="chip">' + esc(c.tool || c.section) + '</span>' +
+          '<span class="nc-src">' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
+        '<div class="nc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
+        (kwList && kwList.length ? '<div class="nc-kw">공유 키워드: ' + esc(kwList.join(", ")) + '</div>' : '') +
+      '</div></a>';
+  }
+
+  function bindNcards() {
+    side.querySelectorAll(".ncard").forEach(function (a) {
+      a.onclick = function (e) { e.preventDefault(); selectNode(a.getAttribute("data-nid")); };
+    });
+  }
+
+  function renderSideDefault() {
+    var recent = ALL.filter(match).slice(0, 12);
+    side.innerHTML =
+      '<div class="side-hint">노드를 클릭하면 해당 뉴스와 직접 연결된<br>뉴스들이 여기 표시됩니다 · 아래는 최신 카드</div>' +
+      '<div class="nbr-grid">' + recent.map(function (c) { return ncardHTML(c); }).join("") + '</div>';
+    bindNcards();
+  }
+
+  function renderSideFor(id) {
+    var c = CARD[id];
+    if (!c) { renderSideDefault(); return; }
+    var neighbors = (adj[id] || []).slice().sort(function (a, b) { return b.w - a.w; });
+    side.innerHTML =
+      '<div class="bigcard" style="--a:' + esc(c.accent || "#171717") + '">' +
+        thumbHTML(c, "bc-img", "bc-ph") +
+        '<div class="bc-body">' +
+          '<div class="bc-eyebrow"><span>AI NEWS · <b>' + esc(c.tool || c.section) + '</b></span>' +
+            '<span>' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
+          '<div class="bc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
+          '<div class="bc-bd">' + esc(c.body || "") + '</div>' +
+          '<a class="bc-read" href="' + esc(c.url) + '" target="_blank" rel="noopener">원문 읽기 ↗</a>' +
+        '</div></div>' +
+      '<div class="nbr-title">직접 연결된 뉴스 ' + neighbors.length + '</div>' +
+      (neighbors.length
+        ? '<div class="nbr-grid">' + neighbors.map(function (e) {
+            var n = CARD[e.id]; return n ? ncardHTML(n, e.kw) : "";
+          }).join("") + '</div>'
+        : '<div class="side-hint">현재 필터 안에서 연결된 뉴스가 없습니다</div>');
+    bindNcards();
+    side.scrollTop = 0;
+  }
+
+  function selectNode(id) {
+    sel = id;
+    renderSideFor(id);
+    if (Graph) {
+      var node = Graph.graphData().nodes.find(function (n) { return n.id === id; });
+      if (node && node.x != null) Graph.centerAt(node.x, node.y, 500);
+    }
+  }
+
+  /* 호버 툴팁 — 아카이브 카드 형태 */
+  function tipHTML(n) {
+    var c = CARD[n.id];
+    if (!c) return esc(n.label);
+    return '<div class="tip-card" style="--a:' + esc(c.accent || "#ccc") + '">' +
+      (c.image ? '<img src="/' + esc(c.image) + '" alt="">' : '<div class="tp-ph"></div>') +
+      '<div class="tp-meta">' +
+        '<div class="chiprow"><span class="chip" style="--a:' + esc(c.accent || "#171717") + '">' + esc(c.tool || c.section) + '</span>' +
+          '<span class="src">' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
+        '<div class="tp-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
+        '<div class="tp-bd">' + esc(c.body || "") + '</div>' +
+      '</div></div>';
+  }
+
+  function focusId() { return hover ? hover.id : sel; }
 
   function initGraph() {
     var el = document.getElementById("graph");
@@ -294,24 +436,29 @@
       .nodeRelSize(3.2)
       .nodeVal(function (n) { return Math.max(1, n.val || 1); })
       .nodeColor(function (n) {
-        if (!hover) return n.accent || "#8a8377";
-        if (n.id === hover.id || (nb[hover.id] && nb[hover.id][n.id])) return n.accent || "#8a8377";
+        var f = focusId();
+        if (!f) return n.accent || "#8a8377";
+        if (n.id === f || (nb[f] && nb[f][n.id])) return n.accent || "#8a8377";
         return "rgba(120,115,105,0.10)";
       })
       .linkColor(function (l) {
+        var f = focusId();
         var s = l.source.id || l.source, t = l.target.id || l.target;
-        if (hover && (s === hover.id || t === hover.id)) return withAlpha(hover.accent, 0.65);
+        if (f && (s === f || t === f)) {
+          var fc = CARD[f];
+          return withAlpha(fc && fc.accent, 0.65);
+        }
         return "rgba(120,115,105,0.14)";
       })
       .linkWidth(function (l) {
+        var f = focusId();
         var s = l.source.id || l.source, t = l.target.id || l.target;
-        return (hover && (s === hover.id || t === hover.id)) ? 1.8 : 0.8;
+        return (f && (s === f || t === f)) ? 1.8 : 0.8;
       })
-      .nodeLabel(function (n) { return esc(n.label) + '<br><span style="opacity:.6">' + esc(kr(n.date)) + "</span>"; })
-      .onNodeHover(function (n) { hover = n || null; document.getElementById("graph").style.cursor = n ? "pointer" : "default"; })
-      .onNodeClick(function (n) { showInfo(n); })
-      .onNodeRightClick(function (n) { if (n && n.url) window.open(n.url, "_blank"); })
-      .onBackgroundClick(function () { showInfo(null); })
+      .nodeLabel(tipHTML)
+      .onNodeHover(function (n) { hover = n || null; el.style.cursor = n ? "pointer" : "default"; })
+      .onNodeClick(function (n) { if (n) selectNode(n.id); })
+      .onNodeRightClick(function (n) { var c = n && CARD[n.id]; if (c && c.url) window.open(c.url, "_blank"); })
       .nodeCanvasObjectMode(function () { return "after"; })
       .nodeCanvasObject(function (node, ctx, scale) {
         if (scale < 2.4) return;
@@ -325,7 +472,6 @@
       .cooldownTicks(120);
     Graph.d3Force("charge").strength(-28);
     Graph.onEngineStop(function () { if (!Graph._fitted) { Graph._fitted = true; Graph.zoomToFit(400, 30); } });
-    el.addEventListener("dblclick", function () { if (hover && hover.url) window.open(hover.url, "_blank"); });
     window.addEventListener("resize", function () {
       if (graphMode) { Graph.width(el.clientWidth).height(el.clientHeight); }
     });
@@ -336,34 +482,45 @@
     document.body.classList.add("graph-mode");
     $("v-graph").classList.add("on"); $("v-list").classList.remove("on");
     if (location.hash !== "#network") history.replaceState(null, "", "#network");
-    if (graphReady) { Graph._fitted = false; Graph.graphData(graphData()); return; }
-    moreElHint("그래프 불러오는 중…");
+    if (graphReady) {
+      Graph._fitted = false;
+      Graph.width(document.getElementById("graph").clientWidth)
+           .height(document.getElementById("graph").clientHeight);
+      Graph.graphData(graphData());
+      sel ? renderSideFor(sel) : renderSideDefault();
+      return;
+    }
+    hint("그래프 불러오는 중…");
     Promise.all([loadScript("vendor/force-graph.min.js"),
                  loadScript("archive-graph.js?v=" + Date.now())])
       .then(function () {
-        GD = window.AX_GRAPH; graphReady = true; initGraph();
-        moreElHint("키워드를 공유하는 카드끼리 연결 · 호버=이웃 강조 · 클릭=카드 정보 · 더블클릭=원문");
+        GD = window.AX_GRAPH; graphReady = true; initGraph(); renderSideDefault();
+        hint("키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스");
       })
-      .catch(function () { moreElHint("그래프 데이터를 불러오지 못했습니다."); });
+      .catch(function () { hint("그래프 데이터를 불러오지 못했습니다."); });
   }
-  function moreElHint(t) { document.getElementById("graph-hint").textContent = t; }
+  function hint(t) { var h = document.getElementById("graph-hint"); if (h) h.textContent = t; }
 
   function enterList() {
     graphMode = false;
     document.body.classList.remove("graph-mode");
     $("v-list").classList.add("on"); $("v-graph").classList.remove("on");
     if (location.hash === "#network") history.replaceState(null, "", location.pathname);
-    showInfo(null);
   }
 
   $("v-graph").onclick = enterGraph;
   $("v-list").onclick = enterList;
 
-  /* 필터·검색이 그래프에도 반영되게 rebuild 확장 */
+  /* 필터·검색이 그래프·패널에도 반영되게 rebuild 확장 */
   var _rebuild = rebuild;
   rebuild = function () {
     _rebuild();
-    if (graphMode && graphReady) { hover = null; Graph._fitted = false; Graph.graphData(graphData()); }
+    if (graphMode && graphReady) {
+      hover = null; Graph._fitted = false;
+      Graph.graphData(graphData());
+      if (sel && !Graph.graphData().nodes.some(function (n) { return n.id === sel; })) sel = null;
+      sel ? renderSideFor(sel) : renderSideDefault();
+    }
   };
 
   rebuild();
