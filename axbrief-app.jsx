@@ -1280,7 +1280,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush }) {
           </button>
         );
       })}
-      <a className="ax-tab" href="/archive.html" aria-label="지난 뉴스 전체 아카이브"
+      <a className="ax-tab" href="/archive" aria-label="지난 뉴스 전체 아카이브"
         style={{ background: 'transparent', color: t.mute, border: '1px dashed ' + t.rule, textDecoration: 'none' }}>
         Archive ↗
       </a>
