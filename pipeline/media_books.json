@@ -1,11 +1,42 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "books",
+  "generated_by": "ax-media",
   "media": [
-    {"id": "books-chefs-licensing", "type": "image", "src": "pipeline/media/books-chefs-licensing.jpg"},
-    {"id": "books-flowtica-verso", "type": "image", "src": "pipeline/media/books-flowtica-verso.jpg"},
-    {"id": "books-crl-digitization", "type": "svg"},
-    {"id": "books-deepfake-novel", "type": "image", "src": "pipeline/media/books-deepfake-novel.png"},
-    {"id": "books-bookpact-ai", "type": "image", "src": "pipeline/media/books-bookpact-ai.jpg"}
+    {
+      "id": "books-openai-unsealed-briefs",
+      "type": "image",
+      "src": "pipeline/media/books-openai-unsealed-briefs.jpg",
+      "source": "in-article lead image",
+      "credit": "Publishers Weekly"
+    },
+    {
+      "id": "books-au-optout-training",
+      "type": "image",
+      "src": "pipeline/media/books-au-optout-training.jpg",
+      "source": "og:image (full-res variant; article paywalled)",
+      "credit": "Books+Publishing"
+    },
+    {
+      "id": "books-ital-genai-libraries",
+      "type": "image",
+      "src": "pipeline/media/books-ital-genai-libraries.png",
+      "source": "in-article lead image",
+      "credit": "LJ infoDOCKET"
+    },
+    {
+      "id": "books-writing-conference-ai",
+      "type": "image",
+      "src": "pipeline/media/books-writing-conference-ai.png",
+      "source": "in-article lead image",
+      "credit": "Jane Friedman"
+    },
+    {
+      "id": "books-geek-sublime-reread",
+      "type": "image",
+      "src": "pipeline/media/books-geek-sublime-reread.jpg",
+      "source": "in-article lead image",
+      "credit": "Literary Hub"
+    }
   ]
 }

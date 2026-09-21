@@ -1,116 +1,94 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "design",
-  "generated_by": "ax-curator",
-  "selection_mode": "curator-auto (user deferred)",
   "picks": [
     {
       "rank": 1,
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "headline": "v0 now reads npm credentials from shared environment variables",
-      "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
-      "source": "Vercel",
-      "published_iso": "2026-09-18T17:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/czVykfPFuY95oRifQwYAf/4774cc727b297305cb1.png",
-      "excerpt": "v0 can now install private packages from npm and custom registries, letting teams generate UI against their own internal design system packages instead of generic components.",
-      "rationale": "v0 can now pull a team's private design system package, so generated UI matches the real component library from the first prompt."
+      "tool": "VR Prototype",
+      "category": "vr",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-21T02:49:42Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Specs-Intelligence-and-Cellular-Charging-Case.jpg",
+      "excerpt": "Snap says its Specs AR glasses, launching this fall, ship with a cross-platform AI agent and an optional cellular charging case — pushing agent UI onto the face.",
+      "rationale": "First shipping consumer AR glasses with a cross-platform agent — the agent-on-your-face interface moves from concept deck to a surface designers must actually spec."
     },
     {
       "rank": 2,
-      "category": "figma",
       "tool": "Figma",
-      "accent": "#3b6bff",
+      "category": "figma",
+      "accent": "#f5a623",
       "motif": "frame",
-      "headline": "Figma Motion basics: Use shaders in your animations",
-      "url": "https://www.youtube.com/watch?v=spMhSWAmduw",
-      "source": "Figma (YouTube)",
-      "published_iso": "2026-09-18T18:00:20Z",
-      "og_image": "https://i.ytimg.com/vi/spMhSWAmduw/maxresdefault.jpg",
-      "excerpt": "Figma walks through applying generative shaders inside Figma Motion, showing how prompt-generated visual effects become reusable animation layers in a design file.",
-      "rationale": "First-party walkthrough of prompt-generated shaders as reusable Motion layers — a technique a designer can apply in Figma the same day."
+      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8",
+      "source": "UX Collective",
+      "published_iso": "2026-09-20T12:36:44Z",
+      "og_image": "",
+      "excerpt": "A design proposal for 'AI nutrition facts' — an interface layer between writers, readers and AI that discloses how much of a piece was machine-generated.",
+      "rationale": "AI 생성 비율을 인터페이스로 드러내자는 제안 — 디자이너가 화면에 설계해야 할 새 공시 레이어."
     },
     {
       "rank": 3,
-      "category": "cad",
       "tool": "Text-to-CAD",
+      "category": "cad",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "Artec Neo: the first 'tolerance-driven' 3D scanner launched",
-      "url": "https://develop3d.com/3d-scanning/artec-neo-the-first-tolerance-driven-3d-scanner/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-09-17T10:02:11Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Artec-Neo.jpg",
-      "excerpt": "Artec Neo promises to change quality inspection and reverse engineering for design teams with high-resolution, full-colour 3D capture tied to stated tolerances.",
-      "rationale": "New hardware that ties scan capture to stated tolerances, moving reverse engineering and inspection into the industrial designer's own loop."
+      "url": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/",
+      "source": "Engineering.com",
+      "published_iso": "2026-09-21T13:00:00Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/kw_sim_thumb.png",
+      "excerpt": "From luxury watches to GPU cold plates, product teams are replacing slow solvers with AI surrogate models — and finding where the cost-benefit tradeoff actually holds up.",
+      "rationale": "Named shipping products, not a demo: shows exactly where AI surrogate models pay off in a real design loop and where they still do not."
     },
     {
       "rank": 4,
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "headline": "Quad Remesher for Hard-Surface & Organic Blender Models",
-      "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
-      "source": "80 Level",
-      "published_iso": "2026-09-18T11:35:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50264/images/6aad220b31597/contain_1200x630.jpg",
-      "excerpt": "A user-friendly automatic retopology add-on from Milad Kambari that cuts polygon counts on both hard-surface and organic Blender models without manual cleanup.",
-      "rationale": "Free automatic retopology that removes the manual cleanup step between a generated or scanned mesh and a usable production model."
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "url": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
+      "source": "Creative Bloq",
+      "published_iso": "2026-09-21T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TStMLmxj9HSL8wtYGgNvJd-1920-80.jpg",
+      "excerpt": "Autodesk's own AI-made short film shipped with a continuity error no prompt could fix. VP of M&E strategy Maurice Patel explains why AI won't replace human animators.",
+      "rationale": "A concrete failure mode from the vendor's own showcase — names the exact class of continuity work generative pipelines still cannot close."
     },
     {
       "rank": 5,
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
+      "tool": "Social",
+      "category": "social",
+      "accent": "#ff2d55",
       "motif": "frame",
-      "headline": "The next phase of design will still be human-led",
-      "url": "https://www.fastcompany.com/91609602/the-next-phase-of-design-will-still-be-human-led",
-      "source": "Fast Company",
-      "published_iso": "2026-09-18T16:44:07Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91609602-fcif-new-rules-of-great-design.jpg",
-      "excerpt": "Generative AI turns ideas into artefacts faster than ever, which Spotify's senior director of product design argues makes human judgement more important, not less: 'More is not always better. Faster is not always better.'",
-      "rationale": "Spotify's design lead sets out where judgement has to sit once generation is cheap — a concrete stance for teams rewriting their critique process."
+      "url": "https://www.youtube.com/watch?v=rmN9IzHx_Wc",
+      "source": "Jesse Showalter",
+      "published_iso": "2026-09-19T17:00:14Z",
+      "og_image": "https://i.ytimg.com/vi/rmN9IzHx_Wc/maxresdefault.jpg",
+      "excerpt": "Designer Jesse Showalter puts Framer's agent to work fixing bugs in a live site build — a short, concrete look at agentic editing inside a mainstream design tool.",
+      "rationale": "Agentic editing inside Framer, watched end to end on a real site — the most directly copyable workflow in the pool for a working designer."
     }
   ],
   "dedup": {
-    "against_days": ["2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15", "2026-09-14", "2026-09-13"],
+    "checked_against": "sections.design today (2026-09-20) + days 2026-09-14..2026-09-19, 25 published cards",
     "dropped": [
       {
-        "url": "https://www.creativebloq.com/design/design-software/massive-canva-update-aims-to-automate-the-tedious-keep-the-craft",
-        "reason": "content duplicate — same Canva ProSuite release already published 2026-09-17 as 'Affinity 3.3 / Canva ProSuite' (CG Channel)"
+        "url": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+        "reason": "within-pool duplicate — same Snap Specs launch event as rank 1; kept the stronger AI-agent angle"
       },
       {
-        "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
-        "reason": "cross-section exclusion — owned by games today"
+        "url": "https://www.builder.io/blog/the-internet-is-not-ready-for-the-agentic-wave",
+        "reason": "core topic (WebMCP / agentic web plumbing) already covered 2026-09-19 via Vercel 'webmcp-mcp-handler'"
       },
       {
-        "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-        "reason": "cross-section exclusion — owned by gadgets today"
+        "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
+        "reason": "same recurring CG Channel weekly roundup format published 2026-09-14 (13 September edition) — deprioritized, not a fresh distinct story"
       },
       {
-        "url": "https://develop3d.com/vr-ar-mr/hololight-viz-vr-snap-specs/",
-        "reason": "near-duplicate of the gadgets-owned Snap SPECS launch cluster; dropped to avoid cross-section collision"
-      },
-      {
-        "url": "https://www.mindstudio.ai/blog/ai-cinematic-film-workflow-astra-runway/",
-        "reason": "content hub — MindStudio posted three near-identical vendor posts at once; none selected"
-      },
-      {
-        "url": "https://www.mindstudio.ai/blog/claude-code-mods-agents-md/",
-        "reason": "content hub — same-source batch, kept none"
-      },
-      {
-        "url": "https://www.mindstudio.ai/blog/seedance-kling-minimax-video-model-comparison/",
-        "reason": "content hub — same-source batch, kept none"
+        "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469",
+        "reason": "UX Collective weekly roundup, overlaps the 'AI dissolves the deliverable' thesis already run 2026-09-15 (double diamond)"
       }
-    ]
-  },
-  "diversity": {
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": ["figma", "figma", "cad", "render", "workflow"]
+    ],
+    "diversity_guard": "5 distinct outlets (UploadVR, The Verge, Engineering.com, Creative Bloq, Jesse Showalter), 5 distinct categories (vr, workflow, cad, figma, social), no repeated accent",
+    "cross_section_drop": "The Verge Googlebook laptops kept in gadgets (same URL); design backfilled with UX Collective AI nutrition facts."
   }
 }

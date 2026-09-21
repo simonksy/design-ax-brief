@@ -1,171 +1,99 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "gadgets",
-  "now_iso": "2026-09-19T22:00:00Z",
+  "now_iso": "2026-09-21T22:01:37Z",
   "window_hours": 336,
   "generated_by": "ax-librarian",
   "items": [
     {
-      "url": "https://www.xda-developers.com/gemini-app-for-windows-puts-copilot-to-shame/",
-      "source": "XDA Developers",
+      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-09-19T21:00:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/gemini-app-for-windows.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Microsoft should be taking notes.",
-      "headline": "The Gemini app for Windows puts Microsoft Copilot to shame"
+      "published_iso": "2026-09-21T13:01:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Would you buy one of the new Googlebooks at these prices?",
+      "headline": "These are the first five Googlebook laptops"
     },
     {
-      "url": "https://www.techradar.com/pro/masters-of-miniature-delivers-minuscule-upgradable-ryzen-ai-laptop-mouse-has-a-12-2-inch-screen-weighs-981g-but-aint-on-sale-outside-japan",
-      "source": "TechRadar",
+      "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-09-19T17:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZGBtv8NVG5fGiQrdQUoBci-1920-80.jpg",
-      "excerpt": "This 981 g Japanese laptop squeezes Ryzen AI 7, Wi-Fi 7, and 32 GB RAM potential into a tiny frame",
-      "headline": "Masters of Miniature delivers minuscule upgradable Ryzen AI laptop — Mouse has a 12.2-inch screen, weighs 981g, but ain't on sale outside Japan"
+      "published_iso": "2026-09-21T13:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Don’t call it a Chromebook.",
+      "headline": "The long dream of the Googlebook"
     },
     {
-      "url": "https://www.techradar.com/cameras/photography/it-took-exactly-one-photo-for-me-to-realize-the-awesome-power-of-the-iphone-18-pros-variable-aperture",
-      "source": "TechRadar",
+      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
+      "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-09-19T17:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rMgvAVoqfjHoxgrrXfFHke-2000-80.jpg",
-      "excerpt": "Here is the tale of my first day with the iPhone 18 Pro Max",
-      "headline": "It took exactly one photo for me to realize the awesome power of the iPhone 18 Pro's variable aperture"
+      "published_iso": "2026-09-21T13:00:04Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/M6-Mac-mini-2026-04.jpg",
+      "excerpt": "People will be clawing to get Apple’s latest and tiniest Mac.",
+      "headline": "M6 Mac Mini First Look: Bigger Power Packed in the Same Small Package"
     },
     {
-      "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-19T10:08:00Z",
-      "og_image": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/191:100/w_1280,c_limit/Review--Samsung-Galaxy-Watch9.jpg",
-      "excerpt": "Samsung’s latest smartwatch adds even more health metrics to its suite. I spent two weeks testing whether they’re actually useful.",
-      "headline": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score"
-    },
-    {
-      "url": "https://www.tomsguide.com/airpods-5-vs-airpods-pro-3",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-19T09:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/L6t2oqzth3JT7FZjEMCF7n-2560-80.jpg",
-      "excerpt": "Are the flagship AirPods Pro 3 worth the extra $100, or should you save your money and get the AirPods 5? I",
-      "headline": "I tested AirPods 5 vs AirPods Pro 3 — which earbuds should you buy?"
-    },
-    {
-      "url": "https://www.tomsguide.com/ai/i-replaced-chatgpt-with-siri-ai-for-a-day-heres-what-surprised-me",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-19T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BK6wAHZvbvvt9kZyzEVG96-2560-80.jpg",
-      "excerpt": "I use ChatGPT every day. Siri? Not so much.",
-      "headline": "I replaced ChatGPT with Siri AI for a day — here's what surprised me"
-    },
-    {
-      "url": "https://www.digitaltrends.com/phones/apple-explains-how-it-made-the-iphone-duo-crease-nearly-disappear/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T21:59:58Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-Fold-featured-image.jpg?resize=1200%2C630",
-      "excerpt": "Apple says the iPhone Duo’s matte display plays a key role in keeping the crease subtle, especially as the foldable ages.",
-      "headline": "Apple explains how it made the iPhone Duo crease nearly disappear"
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-cannot-control-smart-home-devices-on-android-auto-3713118/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T21:46:30Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg",
-      "excerpt": "Gemini is suddenly refusing smart home commands in Android Auto for some users, despite the feature working previously.",
-      "headline": "Gemini’s rough patch with smart home controls has spread to Android Auto"
-    },
-    {
-      "url": "https://www.wired.com/review/apple-watch-ultra-4/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T19:36:48Z",
-      "og_image": "https://media.wired.com/photos/6aad913c4bac9edc7d3a0145/191:100/w_1280,c_limit/2293832250",
-      "excerpt": "The Ultra 4 is the best Apple Watch for outdoor adventures and endurance sports. But is it worth $799?",
-      "headline": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T18:56:01Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Many of iOS 27’s new features are powered by the next generation of Apple Intelligence. Here are 20+ new AI features in iOS 27.",
-      "headline": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list"
-    },
-    {
-      "url": "https://www.techradar.com/phones/iphone/i-spoke-to-apples-new-vp-of-hardware-engineering-about-why-hes-especially-proud-of-the-iphone-duos-hinge-durability-and-the-reliability-of-ceramic-shield-2-when-i-see-someone-put-a-screen-protector-on-their-iphone-it-makes-my-skin-crawl",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T16:19:16Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rCPbtPQovB3h5FFr5Rb5YZ-1024-80.jpg",
-      "excerpt": "Ahead of the iPhone 18 Pro",
-      "headline": "I spoke to Apple’s new VP of Hardware Engineering about why he's ‘especially proud’ of the iPhone Duo’s hinge durability and the reliability of Ceramic Shield 2: ‘When I see someone put a screen protector on their iPhone, it makes my skin crawl’"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
+      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
       "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-09-18T16:11:02Z",
-      "og_image": "https://images.macrumors.com/t/gb26cGqhspJccA-wo07j2mXbIS4=/2880x/article-new/2026/09/iPhone-Duo-Open-large.png",
-      "excerpt": "Apple's design team reveals how notebooks helped inspire the iPhone Duo, along with interface principles and expectations for future features, in a new interview with GQ. The interview features Apple CEO John Ternus, Vice President of Industrial Design Molly Anderson, and Vice President of Human Interface Design Steve Lemay.",
-      "headline": "Apple Designers Explain the Thinking Behind iPhone Duo"
+      "published_iso": "2026-09-21T15:30:37Z",
+      "og_image": "https://images.macrumors.com/t/OUftIzGsXO_jjRdofXZXcypsL88=/2000x/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "excerpt": "Apple could unveil its long-rumored smart home display as soon as October, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman narrows Apple's launch window after he said in August that the smart home display remained on track to arrive before the end of",
+      "headline": "Apple Smart Home Display Coming as Soon as Next Month"
     },
     {
-      "url": "https://www.androidauthority.com/motorola-signature-27-snapdragon-teaser-3712949/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T15:36:30Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Motorola-Signature-logo-in-hand.jpg",
-      "excerpt": "Motorola has confirmed that the upcoming Signature 27 will use a Qualcomm Snapdragon chip ahead of its September 22 launch.",
-      "headline": "Motorola’s latest Signature 27 teaser settles one major question"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-09-18T14:52:31Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "iOS 27 launched this week with a major overhaul to Apple Intelligence, here are the iPhone storage requirements for the latest features.",
-      "headline": "Apple Intelligence now requires almost double the iPhone storage on latest models"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
+      "url": "https://www.macrumors.com/2026/09/21/mac-studio-m5-ultra-reviews/",
       "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-09-18T14:34:53Z",
-      "og_image": "https://images.macrumors.com/t/0OBX1VzulHoH_Ifap4zSVvXoAOQ=/1920x/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
-      "excerpt": "YouTube channel REWA Technology today shared one of the first iPhone 18 Pro teardown videos, offering a look inside the new device. iPhone 18 Pro and iPhone 18 Pro Max feature a smaller Dynamic Island, which Apple achieved by moving Face ID's infrared camera under the display in the top-left corner. The pixels above the infrared camera have a special pattern that lets infrared light pass through, but that area of the screen looks fairly normal at typical viewing angles.",
-      "headline": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island"
+      "published_iso": "2026-09-21T13:46:28Z",
+      "og_image": "https://images.macrumors.com/t/yCwNBKDvPvmRxaHtmlMqU-6TcPs=/2500x/article-new/2025/06/Mac-Studio-Feature.jpg",
+      "excerpt": "Ahead of the new Mac Studio with M5 Max and M5 Ultra chips launching this Tuesday, the first reviews of the computer have been shared by selected tech websites and YouTube channels. According to one review published by Macworld's Roman Loyola, the biggest upgrade isn't even the M5 Ultra, but rather",
+      "headline": "New Mac Studio's Biggest Upgrade Isn't the M5 Ultra Chip, Review Says"
     },
     {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second",
-      "source": "Tom's Hardware",
+      "url": "https://www.engadget.com/2262397/petivity-new-smart-cat-feeder-asks-the-question-what-if-flock-but-for-cats/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-09-18T13:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jyBsQv3HMAD6GKyN3aksrV-1920-80.jpg",
-      "excerpt": "You won",
-      "headline": "AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics — Intel Arc 140T runs neural rendering in 360p at 10 frames per second"
+      "published_iso": "2026-09-21T14:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/petivitys-new-smart-feeder-asks-the-question-what-if-flock-but-for-cats/l-intro-1789747055.jpg",
+      "excerpt": "In all seriousness, this smart feeder could be quite handy for multi-cat households.",
+      "headline": "Petivity's new smart feeder asks the question 'what if Flock, but for cats?'"
     },
     {
-      "url": "https://www.digitaltrends.com/phones/pixel-11s-gemini-powered-proactive-assistance-may-be-headed-to-the-pixel-10/",
-      "source": "Digital Trends",
+      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-09-18T12:33:38Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/09/Google-Pixel-10-Pro-4115-e1764618421473.jpg?resize=1200%2C630",
-      "excerpt": "One of the Pixel 11’s exclusive Gemini-powered features called Proactive Assistance has surfaced on the Pixel 10 Pro XL, although it is not fully functional on the older phone yet.",
-      "headline": "Pixel 11’s Gemini-powered Proactive Assistance may be headed to the Pixel 10"
+      "published_iso": "2026-09-21T16:00:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/why-is-there-a-waitlist-for-siri-ai-in-ios-27/l-intro-1789650141.jpg",
+      "excerpt": "You might have to wait a bit longer to properly use Siri AI, thanks to a waitlist in iOS 27 slowing Apple",
+      "headline": "Why is there a waitlist for Siri AI in iOS 27?"
     },
     {
-      "url": "https://www.androidauthority.com/pixel-10-proactive-assistance-beta-3712714/",
-      "source": "Android Authority",
+      "url": "https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-09-18T08:10:05Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/jade-pixel-10-pro-11-pro-black-scaled.jpeg",
-      "excerpt": "Google is testing the Pixel 11’s Proactive Assistance feature on the Pixel 10 with the latest Android 17 QPR2 Beta 5.",
-      "headline": "One of the Pixel 11’s exclusive features is already showing up on Pixel 10"
+      "published_iso": "2026-09-21T17:30:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/if-you-dont-like-using-siri-this-ios-27-feature-may-change-your-mind/l-intro-1789654122.jpg",
+      "excerpt": "Siri is finally stepping into the AI age with iOS 27, macOS 27 and other releases. It now understands you even better than before.",
+      "headline": "If you don't like using Siri, this iOS 27 feature may change your mind"
+    },
+    {
+      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T02:49:42Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Specs-Intelligence-and-Cellular-Charging-Case-featured.png",
+      "excerpt": "Snap announced that its Specs AR glasses, still set to launch this fall, have a cross-platform AI agent and an optional cellular charging case for on-the-go connectivity.",
+      "headline": "Snap's Specs Have A Cross-Platform AI Agent & Optional Cellular Charging Case"
+    },
+    {
+      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T01:49:28Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-glasses-recording-LED.png",
+      "excerpt": "Meta will launch cheaper smart glasses without a camera at Connect, The Information reports, as the backlash to the form factor grows.",
+      "headline": "Meta To Launch Smart Glasses Without Camera As Privacy Backlash Grows"
     },
     {
       "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
@@ -177,40 +105,40 @@
       "headline": "visionOS 27 Launched For Apple Vision Pro Headsets, Bringing Siri AI & More"
     },
     {
-      "url": "https://www.cnet.com/tech/mobile/iphone-18-pro-vs-pixel-11-pro-the-new-apple-and-google-pro-phones-are-quite-different/",
-      "source": "CNET",
+      "url": "https://9to5mac.com/2026/09/21/m5-ultra-mac-studio-review-roundup-a-local-ai-powerhouse/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-09-17T22:15:15Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-18-Pro-vs-Pixel-11-Pro.jpg",
-      "excerpt": "Both Apple and Google raised the price of their 2026 flagship phones by $100, but which one deserves the higher price tag? I compared the specs of iPhone 18 Pro and Pixel 11 Pro to find out.",
-      "headline": "iPhone 18 Pro vs. Pixel 11 Pro: The New Apple and Google Pro Phones Are Quite Different"
+      "published_iso": "2026-09-21T13:34:18Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "In addition to the new M6 Mac mini (9to5Mac review), early impressions of the most powerful Mac Studio are out...",
+      "headline": "M5 Ultra Mac Studio reviews: local AI powerhouse"
     },
     {
-      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-      "source": "Road to VR",
+      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-09-16T23:40:00Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
-      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort […]",
-      "headline": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses"
+      "published_iso": "2026-09-21T19:55:41Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?resize=1200,628",
+      "excerpt": "Global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns.",
+      "headline": "AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market"
     },
     {
-      "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
-      "source": "ZDNET",
+      "url": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage/",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-09-16T16:25:53Z",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/82c83abe-dddf-4f5b-b490-44ef6795201e.jpg",
-      "excerpt": "The update lets you contact VIPs with a tap and adds scam protection.",
-      "headline": "How September’s Pixel Drop changes the way you call and message important contacts"
+      "published_iso": "2026-09-18T14:52:31Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "iOS 27 launched this week with a major overhaul to Apple Intelligence, here are the iPhone storage requirements for the latest features.",
+      "headline": "Apple Intelligence now requires almost double the iPhone storage on latest models"
     },
     {
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/piecemakers-bets-edge-ai-devices-will-diverge-from-reliance-on-hbm-custom-designed-memory-fuses-dram-stack-directly-to-the-processor-using-hybrid-bonding",
-      "source": "Tom's Hardware",
+      "url": "https://9to5google.com/2026/09/16/google-home-mcp/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-16T14:36:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/YBam2HJLeus5TD6nCr5wmY-1920-80.jpg",
-      "excerpt": "Nanya-backed DRAM designer PieceMakers began trading in Taipei on Sept. 16 on a bet that AI inference memory won’t be HBM.",
-      "headline": "Piecemakers bets edge AI devices will diverge from reliance on HBM — custom-designed memory fuses DRAM stack directly to the processor using hybrid bonding"
+      "published_iso": "2026-09-16T18:04:06Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Home-MCP-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google today announced “Home MCP” to let your personal AI agent interact with your smart home devices via the Model Context Protocol.",
+      "headline": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home"
     },
     {
       "url": "https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/",
@@ -219,21 +147,102 @@
       "published_iso": "2026-09-15T17:15:00Z",
       "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-3.jpg?quality=82&strip=all&resize=1200,628",
       "excerpt": "Rambler in Gboard is perhaps one of the best Pixel 11 features, delivering powerful voice-to-text backed up by AI models....",
-      "headline": "SwiftKey ‘AI voice’ is Pixel 11’s Rambler voice-to-text for other Android phones, works offline"
+      "headline": "SwiftKey 'AI voice' is Pixel 11's Rambler voice-to-text for other Android phones, works offline"
     },
     {
-      "url": "https://9to5google.com/2026/09/15/mediatek-dimensity-9600-pro-chip/",
+      "url": "https://9to5google.com/2026/09/18/motorola-signature-27-teaser-snapdragon/",
       "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-15T15:30:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/mediatek-dimensity-9600-pro.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "MediaTek has unveiled its latest flagship chipset in the Dimensity 9600 Pro, a chip built on TSMC’s latest 2nm process....",
-      "headline": "MediaTek Dimensity 9600 Pro goes official with 2nm process and performance gains"
+      "published_iso": "2026-09-18T13:55:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/motorola-signature-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "As part of next week’s Snapdragon Summit, Motorola has confirmed that it will be detailing its new “Signature 27” device...",
+      "headline": "Motorola confirms 'Signature 27' debut next week alongside new Snapdragon chips"
+    },
+    {
+      "url": "https://www.androidauthority.com/smart-glasses-shipments-statistics-3713810/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T21:46:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/01/Leion-Hey2-glasses-worn-display.jpg",
+      "excerpt": "Smart glasses had a huge first half of 2026, with Meta way out in front and display-less models accounting for 96% of shipments.",
+      "headline": "The smart glasses market has more than doubled in the last year, with Meta dominating"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-nest-doorbell-us-accent-3713674/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T17:20:29Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2021/08/Google-Nest-Doorbell-Review-Hero-scaled.jpg",
+      "excerpt": "A bizarre Google Home bug is causing Nest Doorbell announcements to default to a US accent for international users.",
+      "headline": "Google Nest Doorbells suffer mild identity crisis, start speaking with new accents"
+    },
+    {
+      "url": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T08:12:26Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Apple-logo-displayed-on-Apple-Borivali-Apple-Store-opening.jpg",
+      "excerpt": "According to a new Bloomberg report, the upcoming Apple smart display could use Pixel-like facial recognition tech.",
+      "headline": "Apple could steal Pixel's homework for its Nest Hub rival and the iPhone Duo"
+    },
+    {
+      "url": "https://www.wired.com/review/apple-mac-mini-m6/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T13:00:00Z",
+      "og_image": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
+      "excerpt": "Apple has refreshed the Mac Mini with a brand new chip, the M6. And this time, it's more focused on AI than ever.",
+      "headline": "Apple’s M6 Mac Mini Is Perfect for the AI Curious"
+    },
+    {
+      "url": "https://www.tomsguide.com/tech-events/meta-connect-2026-6-devices-and-ai-services-we-expect-to-see",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T18:24:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uU2HMa3Yc55kWpyqY7tUWF-2000-80.jpg",
+      "excerpt": "Smart glasses, the return of avatars and more",
+      "headline": "Meta Connect 2026: 6 devices and AI services we expect to see"
+    },
+    {
+      "url": "https://www.xda-developers.com/my-mini-pc-can-fit-larger-models-than-my-old-gaming-card-but-it-still-loses-on-one-key-metric/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-09-21T20:00:16Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/img_6643.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "With MoE models, VRAM is no longer a hard cap, but that doesn't make mini PCs the better buy",
+      "headline": "My mini PC can fit larger models than my old gaming card, but it still loses on one key metric"
+    },
+    {
+      "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-09-16T12:20:56Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg",
+      "excerpt": "Meta isn’t only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic “hologram-like” call function using its latest avatars. Images of Meta’s upcoming Project Phoenix headset have already leaked ahead of Meta’s Connect developer conference next week, which strong",
+      "headline": "Meta Reportedly Unveiling Next-gen MR Headset at Connect, Hologram-like Call Experience"
+    },
+    {
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-09-16T23:40:00Z",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
+      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the c",
+      "headline": "Snap Announces New \"anticipatory\" AI Service & Apps for First Consumer 'Specs' AR Glasses"
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/air-cooling/noctua-fans-prevent-the-caim1-anti-ai-4k-camera-from-throttling-unusual-cameras-processor-gets-toasty-as-it-records-while-performing-cryptographic-calculations",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-09-20T12:20:57Z",
+      "og_image": "",
+      "excerpt": "The camera cryptographically signs footage as it records to prove it isn't AI-generated; the crypto workload makes its processor run hot.",
+      "headline": "Noctua fans prevent the CAIM1 'Anti-AI' 4K camera from throttling"
     }
   ],
   "dedup": {
-    "dropped": 4,
-    "kept": 25,
+    "dropped": 0,
+    "kept": 26,
     "against_days": 5
   }
 }

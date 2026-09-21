@@ -1,49 +1,106 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "games",
-  "now_iso": "2026-09-19T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian-recovery",
   "items": [
     {
-      "title": "Interview: How Cyberpunk 2077's Night City Was Built Almost Entirely by Hand",
-      "url": "https://80.lv/articles/interview-how-cyberpunk-2077-s-night-city-was-built-almost-entirely-by-hand/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-18T20:12:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50277/images/6aad9b1de2a2b/contain_1200x630.jpg",
-      "excerpt": "CD PROJEKT RED's art directors explain how Night City was handcrafted building by building: procedural tools were tested and rejected for quality reasons, leaving only a road-placement tool that artists still adjusted by hand afterwards. They also cover how first-person framing set the level of detail and why path tracing suited the lighting pipeline.",
-      "why": "현재 게임 업계의 절차적/AI 자동 생성 논쟁 한복판에서, AAA 오픈월드가 왜 수작업을 고수했는지 아트 디렉터가 직접 설명한 워크플로 사례."
-    },
-    {
-      "title": "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
-      "url": "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
+      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-10T13:25:57Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KpLCJsAdeUZxuompAAsdK9-2560-80.png",
-      "excerpt": "A free app pipes DLSS 5 neural rendering across the whole Windows desktop — including video and photos, not just games — and it runs on RTX 30-series cards as well.",
-      "why": "뉴럴 렌더링이 게임 엔진 밖으로 나와 데스크톱 전체 이미지·영상에 적용되는 단계 — 아티스트의 레퍼런스/캡처 워크플로까지 영향권에 들어온다."
+      "title": "'AI could never make Tenebris Somnia' — the 2D horror built on live-action and practical effects",
+      "published_iso": "2026-09-20T16:29:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
+      "excerpt": "PC Gamer profiles Tenebris Somnia, a 2D retro survival horror whose live-action cutscenes and practical effects are pitched as exactly the kind of craft 'AI could never make.'"
     },
     {
-      "title": "Breaking Benjamin's singer is begging concertgoers to try his AI-assisted first-person Fallout 4 mod",
+      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+      "source": "Kotaku",
+      "category": "games",
+      "title": "Ship of Harkinian team admits years of AI use, fans call it vibecoded slop",
+      "published_iso": "2026-09-17T22:00:44Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
+      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "title": "PS5 Linux dev quits as AI 'slop kiddies' flood open-source modding",
+      "published_iso": "2026-09-16T17:14:07Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
+      "excerpt": "The lead developer of the PS5 Linux project quit, blaming an influx of 'AI slop kiddies' — newcomers who ship LLM-generated hacks they don't understand — for degrading open-source console modding ahead of GTA 6."
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "source": "PC Gamer",
+      "category": "games",
+      "title": "Dev vibe codes a VR tool that throws models straight at his 3D printer",
+      "published_iso": "2026-09-15T14:22:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
+      "excerpt": "A developer vibe-coded a VR tool that lets him grab a 3D model in virtual space and physically throw it at his 3D printer to start a print — a prompt-built bridge between VR interaction and fabrication."
+    },
+    {
+      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+      "source": "80 Level",
+      "category": "games",
+      "title": "A solo dev rebuilt late-'90s console shooter enemy AI, choosing readability over intelligence",
+      "published_iso": "2026-09-15T14:19:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
+      "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat."
+    },
+    {
+      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
+      "source": "Kotaku",
+      "category": "games",
+      "title": "Zelda art director Takaya Imamura takes backlash for an AI prototyping test",
+      "published_iso": "2026-09-13T20:57:12Z",
+      "og_image": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
+      "excerpt": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI"
+    },
+    {
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+      "source": "Kotaku",
+      "category": "games",
+      "title": "Twitch's new AI stream coach tool pushes creators into an AI opt-out fight",
+      "published_iso": "2026-09-11T20:45:43Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
+      "excerpt": "Twitch is testing an AI-powered stream coach that will offer suggestions on how creators can improve their channel"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/",
+      "source": "PC Gamer",
+      "category": "games",
+      "title": "Steins;Gate creators' next game is an entirely vibe-coded FPS",
+      "published_iso": "2026-09-10T02:54:46Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2yEXLs6WNSnNauA6NWxFKd-1200-80.png",
+      "excerpt": "The next game from the Steins;Gate creators at Mages is an entirely vibe-coded FPS, made with AI-generated code and assets — a mainstream Japanese studio shipping a prompt-built title."
+    },
+    {
       "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
       "source": "Rock Paper Shotgun",
       "category": "games",
+      "title": "Breaking Benjamin's singer begs fans to try his AI-assisted Fallout 4 first-person mod",
       "published_iso": "2026-09-09T12:00:00Z",
       "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first-person mod he's made for Fallout 4, after the mod drew criticism inside the modding community for its use of AI.",
-      "why": "모드 커뮤니티에서 'AI 보조 제작물'이 어떻게 수용/거부되는지 보여주는 사례 — 개인 제작자의 AI 사용 공개와 평판 관리 문제."
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4."
     },
     {
-      "title": "Writers use AI and distrust it, even when the words are their own, Medium report says",
-      "url": "https://gamesbeat.com/writers-use-ai-and-distrust-it-even-when-the-words-are-their-own-medium-report-says/",
-      "source": "GamesBeat",
+      "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-09-19T00:49:24Z",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/Bios_robotlab_writing_robot-1024x768.jpg",
-      "excerpt": "A new Medium study finds a majority of writers now use AI in their process, yet most of them distrust AI-written work — including readers' suspicion of text the writers actually wrote themselves.",
-      "why": "창작자가 AI를 쓰면서도 결과물을 불신하는 이중 구조 — 게임 내러티브/기획 문서 작성 현장의 신뢰 비용을 수치로 보여준다."
+      "title": "After the Blood Rain AI controversy, Shift Up's lead says AI still shapes their development",
+      "published_iso": "2026-09-08T12:00:49Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
+      "excerpt": "Fans previously criticized the studio for releasing an AI-generated music video promoting the game"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "title": "'Still very much possible to make good Skyrim mods without any use of AI,' says Black Marsh modder",
+      "published_iso": "2026-09-08T10:25:25Z",
+      "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "King of the Murkmire, a DLC-sized Skyrim expansion mod set to Black Marsh, is out now."
     }
   ]
 }

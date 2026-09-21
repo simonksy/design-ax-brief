@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "gadgets",
   "generated_by": "ax-media",
   "media": [
     {
-      "id": "gadgets-gemini-windows",
+      "id": "gadgets-googlebook-first-five",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-windows.jpg"
+      "src": "pipeline/media/gadgets-googlebook-first-five.jpg"
     },
     {
-      "id": "gadgets-iphone18-aperture",
+      "id": "gadgets-m6-mac-mini-local-ai",
       "type": "image",
-      "src": "pipeline/media/gadgets-iphone18-aperture.jpg"
+      "src": "pipeline/media/gadgets-m6-mac-mini-local-ai.jpg"
     },
     {
-      "id": "gadgets-galaxy-watch9",
+      "id": "gadgets-apple-home-display-october",
       "type": "image",
-      "src": "pipeline/media/gadgets-galaxy-watch9.jpg"
+      "src": "pipeline/media/gadgets-apple-home-display-october.jpg"
     },
     {
-      "id": "gadgets-iphone-duo-design",
-      "type": "image",
-      "src": "pipeline/media/gadgets-iphone-duo-design.png"
-    },
-    {
-      "id": "gadgets-pixel10-proactive",
+      "id": "gadgets-meta-project-phoenix-connect",
       "type": "video",
-      "src": "pipeline/media/gadgets-pixel10-proactive.mp4",
-      "poster": "pipeline/media/gadgets-pixel10-proactive.jpg"
+      "src": "pipeline/media/gadgets-meta-project-phoenix-connect.mp4",
+      "poster": "pipeline/media/gadgets-meta-project-phoenix-connect.jpg"
+    },
+    {
+      "id": "gadgets-ai-glasses-263-percent",
+      "type": "image",
+      "src": "pipeline/media/gadgets-ai-glasses-263-percent.webp"
     }
   ]
 }

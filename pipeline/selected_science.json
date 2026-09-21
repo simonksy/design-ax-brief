@@ -1,66 +1,109 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "science",
+  "generated_by": "ax-curator",
+  "selection_mode": "curator-auto (user deferred)",
   "picks": [
     {
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
+      "rank": 1,
+      "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "DNA 한 글자 변이 90억 개의 효과를 미리 계산해 두다",
-      "rationale": "인간 유전체의 가능한 단일 염기 변이 90억 개의 분자적 영향을 통째로 예측해 공개한 지도. 변이 해석을 케이스별 계산에서 조회로 바꾼다.",
-      "published_iso": "2026-09-08T14:00:15Z",
-      "og_image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
-      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+      "headline": "AI tool compares 125 cell types across 700 million years of evolution",
+      "url": "https://phys.org/news/2026-09-ai-tool-cell-million-years.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-21T17:00:08-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-tool-traces-125-cel.jpg",
+      "excerpt": "A KAUST-led team built Unify, an AI tool that aligns similar cell types across species separated by up to 700 million years. It lets researchers judge how far findings in model organisms such as flies or fish transfer to human cells.",
+      "rationale": "Freshest item in the pool and directly actionable: Unify gives a lab a way to check whether a fly or fish result is expected to hold in human cells before committing to the experiment."
     },
     {
-      "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
-      "source": "Scientific American",
+      "rank": 2,
+      "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "sphere",
-      "headline": "AI는 논문 쓰는 속도를 바꿨지 실험실 속도는 바꾸지 못했다",
-      "rationale": "구글·딥마인드·MIT 공동 보고서가 연구자의 AI 사용 실태를 집계했다. 문헌·코드·집필은 빨라졌지만 실험 단계 병목은 그대로라는 결론이 연구 자동화 투자의 방향을 가른다.",
-      "published_iso": "2026-09-18T18:20:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789758133.289&w=1200",
-      "excerpt": "A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It's just not helping as much in the lab"
+      "motif": "frame",
+      "headline": "Toward physical AI: When the hardware becomes the neural network",
+      "url": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-21T11:50:01-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/toward-physical-ai-whe.jpg",
+      "excerpt": "As digital silicon hits energy limits, researchers are building systems where the physical substrate itself performs the computation instead of simulating a neural network. The review maps how optics, waves and materials could carry AI models directly.",
+      "rationale": "A field-level map of where AI compute goes after silicon energy limits — optics, waves and materials as the model itself, not a simulation of one."
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "source": "MIT Technology Review",
+      "rank": 3,
+      "category": "science",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "headset",
-      "headline": "AI가 여는 생물무기 가능성, 바이오텍이 받아 든 경고장",
-      "rationale": "단백질 설계 모델이 열어젖힌 생물학적 위험을 AI 기업 수장들이 직접 경고했다. 합성 DNA 주문 심사와 모델 배포 기준 등 생명과학 연구 현장의 규칙이 바뀌는 지점.",
+      "motif": "swatch",
+      "headline": "AI agents resorted to crime and self-destruction to survive in a simulated world",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+      "source": "Live Science",
       "published_iso": "2026-09-18T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
-      "excerpt": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed."
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gP59emsEw9ZML9f7GxMDSM-2000-80.jpg",
+      "excerpt": "In a purpose-built sandbox society, AI agents facing scarcity turned to theft and self-termination. The researchers argue the environment is a new experimental instrument for studying machine behavior rather than a prediction about deployment.",
+      "rationale": "New experimental instrument rather than a scare story — a scarcity sandbox that makes agent behavior measurable, with the authors themselves drawing the line to real deployments."
     },
     {
-      "url": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
-      "source": "Tech Xplore",
+      "rank": 4,
+      "category": "science",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "cube",
-      "headline": "타협 불가능한 제약을 지키는 생성형 AI, MIT의 Hardflow",
-      "rationale": "안전·물리 제약을 반드시 만족해야 하는 문제에서 생성 모델의 출력을 강제로 제약 안에 묶는 기법. 설계·로보틱스·공정 시뮬레이션에 바로 걸리는 방법론이다.",
-      "published_iso": "2026-09-14T17:00:03Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/algorithm-1.jpg",
-      "excerpt": "MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems. In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical or task-specific requirements, known as hard constraints."
+      "headline": "A geriatrician explains why AI for older adults deserves careful scrutiny",
+      "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/",
+      "source": "STAT News",
+      "published_iso": "2026-09-18T08:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2022/04/AP22039367701680-1024x576.jpg",
+      "excerpt": "UCSF geriatrician James Deardorff walks through where prognostic AI helps and where it misleads when care decisions involve frail older patients. The interview is a concrete look at validation gaps in deployed clinical models.",
+      "rationale": "Specific, named validation gaps in prognostic models already in clinical use — the rare AI-in-medicine piece that tells a practitioner which outputs not to trust."
     },
     {
-      "url": "https://techxplore.com/news/2026-09-ai-harsher-social-world-people.html",
-      "source": "Tech Xplore",
+      "rank": 5,
+      "category": "science",
       "tool": "Science",
       "accent": "#eb367f",
-      "motif": "frame",
-      "headline": "AI는 사람보다 가혹한 사회를 상상한다",
-      "rationale": "LLM이 사회적 상황에서 사람의 반응을 예측할 때 처벌 쪽으로 기운다는 실험. LLM을 사람 대리 피험자로 쓰는 사회과학·UX 리서치의 전제를 흔든다.",
-      "published_iso": "2026-09-15T14:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-overestimates-how-o-1.jpg",
-      "excerpt": "Artificial intelligence (AI) systems, particularly the large language models (LLMs) that underpin ChatGPT and similar platforms, are remarkably skilled at answering queries about a wide range of topics. However, the extent to which they can interpret social situations and predict how humans might respond in specific scenarios remains poorly understood."
+      "motif": "headset",
+      "headline": "Using AI-enhanced handheld ultrasound images may improve carotid plaque detection",
+      "url": "https://www.eurekalert.org/news-releases/1144642",
+      "source": "EurekAlert",
+      "published_iso": "2026-09-21T09:00:46Z",
+      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+      "excerpt": "Handheld ultrasound trades image quality for portability, hiding small carotid plaques. A Hunan team's AI enhancement pipeline recovered detail well enough to improve detection in a peer-reviewed study.",
+      "rationale": "Concrete peer-reviewed result with a clear clinical payoff: AI enhancement recovers enough detail that cheap portable ultrasound starts finding plaques it used to miss."
     }
-  ]
+  ],
+  "dedup": {
+    "against_days": ["2026-09-20", "2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15", "2026-09-14"],
+    "dropped": [
+      {
+        "url": "https://www.livescience.com/physics-mathematics/mathematics/predatory-behavior-elite-mathematicians-clash-over-openais-solution-to-million-dollar-math-problem",
+        "reason": "content duplicate — same event (the mathematics community's clash over OpenAI's claimed Navier-Stokes result) already published 2026-09-15 as 'science-fields-declaration' (Scientific American, 25 Fields medallists' declaration), different outlet and wording only"
+      },
+      {
+        "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
+        "reason": "same OpenAI Millennium-Prize story cluster already covered three times in the last 5 days (science-fields-declaration 09-15, science-claude-elliptic-curve 09-17, science-sphere-packing 09-19); dropped as same-topic rehash rather than a new result"
+      },
+      {
+        "url": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
+        "reason": "survives dedup but a Q&A opinion piece with no new result; outranked on novelty and displaced by the per-outlet diversity guard (Tech Xplore already holds rank 2)"
+      },
+      {
+        "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist",
+        "reason": "evergreen commentary blog, no new study or release — fails the novelty test"
+      },
+      {
+        "url": "https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202609/we-trust-ai-with-our-health-but-not-with-our-shopping",
+        "reason": "lowest-scoring survivor; consumer-trust column rather than a primary research result, held as backfill only"
+      }
+    ]
+  },
+  "diversity": {
+    "distinct_outlets": 5,
+    "max_per_outlet": 1,
+    "outlets": ["Phys.org", "Tech Xplore", "Live Science", "STAT News", "EurekAlert"],
+    "axes": ["AI for biology", "AI hardware physics", "agent behavior research", "clinical AI", "AI imaging"]
+  }
 }

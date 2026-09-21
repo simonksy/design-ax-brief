@@ -1,63 +1,39 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "games",
-  "now_iso": "2026-09-19T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian",
   "items": [
     {
-      "url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
+      "url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
       "source": "IGN",
       "category": "games",
-      "published_iso": "2026-09-19T17:02:08Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/08/wolverinethumb-1788880705929.png?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Insomniac Games has stepped in to confirm Marvel's Wolverine contains no generative AI after a few bizarre in-game signs raised eyebrows on social media.",
-      "headline": "Marvel's Wolverine Has 'No AI-Generated Assets,' Insomniac Confirms After Suspicious Signs Go Viral Online"
+      "published_iso": "2026-09-21T21:05:44Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/09/21/indie-dev-accuses-studio-of-using-ai-to-rip-off-potato-peeling-game-1790023730648.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Indie dev Tomas Sala accuses a studio of using AI to clone his viral potato-peeling game, saying the copy was churned out with generative tools while he refuses to let 'a cheap copy win.'"
     },
     {
-      "url": "https://wccftech.com/intel-arc-140v-runs-dlss-5-neural-rendering-without-cuda/",
-      "source": "Wccftech",
+      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-09-19T12:24:35Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Arc-140V-DLSS-5-NR.jpg",
-      "excerpt": "Modder runs DLSS 5 Neural Rendering on Intel Arc 140V, achieving 3-5 FPS at 720p and 10.5 FPS at 640x360p with a 2.3 GB memory requirement",
-      "headline": "Intel Arc 140V Runs DLSS 5 Neural Rendering Without CUDA, But Frame Rates Collapse To Just 3-5 FPS"
+      "published_iso": "2026-09-21T15:42:51Z",
+      "og_image": "https://assetsio.gnwcdn.com/xbox-logo_z42Z06j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Microsoft has filed a patent for a machine learning system that trains on a player's session data to predict the moments they'll be least irritated by in-game ads, turning player behaviour models into ad-placement tooling."
     },
     {
-      "url": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/",
-      "source": "GameSpot",
+      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-09-18T23:41:54Z",
-      "og_image": "https://www.gamespot.com/a/uploads/original/1179/11799911/4585010-luminary.jpg",
-      "excerpt": "A player left a negative Steam review of action-RPG Luminary claiming its \"awful AI-generated voice killed it\" for them. The developer replied that the voice was his wife's first-ever voice acting gig.",
-      "headline": "Indie Dev Says \"AI\" Voice In His Game Was Actually His Wife"
+      "published_iso": "2026-09-21T12:01:04Z",
+      "og_image": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "An opinion piece from the Tokyo Game Show 2026 floor: nostalgia-heavy line-ups sat alongside an AI-forward show agenda, with Japanese studios openly debating how far generative tools should go in production."
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-09-18T22:51:54Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
-      "excerpt": "Welcome to the Smile Economy 🙂.",
-      "headline": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
-    },
-    {
-      "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-18T22:45:32Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/wolverinps5slop-1200x675.jpg",
-      "excerpt": "A funky-looking bathroom sign is the result of an in-game glitch and is not AI slop",
-      "headline": "Insomniac Confirms Wolverine Doesn't Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral"
-    },
-    {
-      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report/",
+      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report",
       "source": "80 Level",
       "category": "games",
       "published_iso": "2026-09-18T21:08:00Z",
       "og_image": "https://cdn.80.lv/api/upload/meta/50279/images/6aada812739f5/contain_1200x630.jpg",
-      "excerpt": "CESA reports that over 85% of Japanese game developers use generative AI at least occasionally, while studios are prioritizing human review, restricted tools, and policies against using raw outputs unchanged.",
-      "headline": "Over 85% of Japanese Game Developers Now Use Generative AI"
+      "excerpt": "A Tokyo Game Show 2026 report finds more than 85% of surveyed Japanese game developers now use generative AI somewhere in production, with adoption concentrated in art, prototyping and text."
     },
     {
       "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
@@ -65,44 +41,23 @@
       "category": "games",
       "published_iso": "2026-09-18T15:15:39Z",
       "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo",
-      "headline": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit"
+      "excerpt": "A Chinese court awarded MiHoYo $112,000 after an AI voice service cloned Genshin Impact character voices, one of the first game-industry rulings on synthetic voice likeness."
     },
     {
-      "url": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/",
-      "source": "Wccftech",
+      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
+      "source": "Unity (YouTube)",
       "category": "games",
-      "published_iso": "2026-09-18T14:45:30Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Dark-Souls-3-Path-Tracing-NVIDIA-DLSS-5-1920x1077.jpg",
-      "excerpt": "Dark Souls 3 path tracing mod receives stunning new showcase featuring NVIDIA DLSS 5 and technical FAQ details.",
-      "headline": "FromSoftware's Dark Souls 3 Gets Next-Gen Leap With Path Tracing and NVIDIA DLSS 5, As New Video Showcases Remake-Level Visuals"
+      "published_iso": "2026-09-16T15:53:23Z",
+      "og_image": "https://i.ytimg.com/vi/gy4HlUNn1lE/maxresdefault.jpg",
+      "excerpt": "Unity's walkthrough of its official OpenAI Codex plugin, showing the agent reading project context and performing editor actions inside a live Unity project."
     },
     {
-      "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+      "url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training",
       "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-18T12:39:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50269/images/6aad30fbe5adf/contain_1200x630.jpg",
-      "excerpt": "This is not a drill.",
-      "headline": "Blender 5.3 Is Getting Native 3D Gaussian Splat Support"
-    },
-    {
-      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-17T22:00:44Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
-      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'",
-      "headline": "Team Behind Popular Ocarina Of Time  PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku"
-    },
-    {
-      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-      "source": "Road to VR",
-      "category": "games",
-      "published_iso": "2026-09-16T23:40:00Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
-      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort […]",
-      "headline": "Snap Announces New \"anticipatory\" AI Service & Apps for First Consumer 'Specs' AR Glasses"
+      "published_iso": "2026-09-16T07:04:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
+      "excerpt": "Microsoft published a draft code of practice for AI training data and invited public feedback, a document that would set ground rules for how artists' and studios' work can be used to train models."
     },
     {
       "url": "https://unity.com/blog/unity-plugin-codex",
@@ -110,26 +65,7 @@
       "category": "games",
       "published_iso": "2026-09-16T00:00:00Z",
       "og_image": "htttps://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity's official plugin for Codex is an official plugin that gives OpenAI's Codex Unity-written skills, so the agent works from Unity's own guidance for jobs like sprite atlases, URP renderer features, in-app purchases, and localization instead of from whatever it absorbed about Unity elsewhere.",
-      "headline": "Unity's Official Plugin for Codex: Skills, CLI, Editor Control"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Saber Interactive's chief creative officer explains why he thinks players will get on board with generative AI tools eventually.",
-      "headline": "\"You may be overthinking it a little bit\": Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
-    },
-    {
-      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-14T20:10:38Z",
-      "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's rece…",
-      "headline": "Level-5 CEO admits using generative AI in recent showcase"
+      "excerpt": "Unity ships an official plugin for OpenAI Codex, wiring the coding agent into the Editor with skills, CLI access and editor control so it can read project context and act inside Unity."
     },
     {
       "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
@@ -137,17 +73,23 @@
       "category": "games",
       "published_iso": "2026-09-13T15:32:39Z",
       "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Level-5 CEO Akihiro Hino has confirmed the studio used generative AI in its recent Yo-Kai Watch and Professor Layton showcase, and apologised to fans.",
-      "headline": "Professor Layton studio Level-5's CEO admits using AI to make its digital showcase \"more spectacular\""
+      "excerpt": "Level-5's CEO admits the studio used generative AI to make its digital showcase 'more spectacular', apologising after fans spotted AI imagery in the Professor Layton and Yo-kai Watch presentation."
     },
     {
-      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip",
-      "source": "GamesIndustry.biz",
+      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-11T12:40:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "\"Sometimes I play these games and I can just see the wasted money\"",
-      "headline": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP"
+      "published_iso": "2026-09-11T18:10:00Z",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png",
+      "excerpt": "Researchers explain how EchoForge combines spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable 3D environments inside Unity."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
+      "source": "Unreal Engine (YouTube)",
+      "category": "games",
+      "published_iso": "2026-09-10T20:29:23Z",
+      "og_image": "https://i.ytimg.com/vi/r_-fEi7fXLA/maxresdefault.jpg",
+      "excerpt": "Epic demos MetaHuman Animator markerless motion capture, driving full facial and body performance from ordinary video with no mocap suit or marker rig."
     },
     {
       "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
@@ -155,8 +97,7 @@
       "category": "games",
       "published_iso": "2026-09-10T17:18:45Z",
       "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "EA says it",
-      "headline": "Report: EA"
+      "excerpt": "A sports commentator claims EA used generative AI to produce commentator voiceover in NHL 27, reigniting the fight over synthetic performance in annual sports titles."
     },
     {
       "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
@@ -164,8 +105,7 @@
       "category": "games",
       "published_iso": "2026-09-10T14:50:43Z",
       "og_image": "https://assetsio.gnwcdn.com/old-school-runescape-dancing-on-bridge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Elderwood was a generative AI website dubbed a RuneScape \"clone\" by its creator, and was taken down after a notice was received by Jagex.",
-      "headline": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex"
+      "excerpt": "RuneScape players revolted against a gen-AI copycat game — 'what in the vibe-coded s*** is this' — and the clone was pulled, a test case for AI-assembled knockoffs on storefronts."
     },
     {
       "url": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
@@ -173,8 +113,7 @@
       "category": "games",
       "published_iso": "2026-09-09T15:25:00Z",
       "og_image": "https://assetsio.gnwcdn.com/Overwatch-2-Zarya.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Unionised Overwatch, Diablo and WoW devs have voted through a contract with Blizzard bosses to give them protection against layoffs and a say on genAI adoption.",
-      "headline": "\"The start of something greater\": hundreds of unionised Blizzard workers vote through contract that gives them a say over genAI usage and protection against layoffs"
+      "excerpt": "Hundreds of unionised Blizzard workers ratified a contract that gives them a formal say in how generative AI is adopted at the studio, alongside layoff protections."
     },
     {
       "url": "https://unity.com/blog/unity-plugin-for-claude-code",
@@ -182,17 +121,15 @@
       "category": "games",
       "published_iso": "2026-09-09T00:00:00Z",
       "og_image": "htttps://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity's official plugin for Claude Code installs Unity-authored skills, the Unity CLI, and live Editor control via Unity's MCP server, in one command.",
-      "headline": "Unity's Official Plugin for Claude Code: Skills, CLI, Editor Control"
+      "excerpt": "Unity's official Claude Code plugin brings the agent into the Editor with skills, CLI and editor control, letting it inspect scenes and run project tasks from natural language."
     },
     {
-      "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
-      "source": "Rock Paper Shotgun",
+      "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-09-08T10:25:25Z",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "King of the Murkmire, a DLC-sized Skyrim expansion mod set to Black Marsh, is out now.",
-      "headline": "It's still very much possible to make good Skyrim mods \"without any use of AI\" in 2026, declares the maker of a new DLC-sized Black Marsh expansion"
+      "published_iso": "2026-09-08T13:27:23Z",
+      "og_image": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A European developer survey finds the dominant AI anxiety is not replacement but speed: devs expect AI to be used to push output and compress schedules rather than eliminate roles."
     },
     {
       "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
@@ -200,8 +137,7 @@
       "category": "games",
       "published_iso": "2026-09-08T02:00:00Z",
       "og_image": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "\"Our networks are not generative, so they're not from the same nature as the latest DLSS model\"",
-      "headline": "Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the \"black box\" approach of DLSS 5"
+      "excerpt": "Arm details its mobile-first AI reconstruction tech, arguing an open, developer-tunable approach beats the black-box upscaling model for phone and handheld game pipelines."
     }
   ]
 }

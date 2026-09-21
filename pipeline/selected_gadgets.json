@@ -1,67 +1,128 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "gadgets",
   "generated_by": "ax-curator",
+  "selection_mode": "auto (user deferred)",
   "picks": [
     {
-      "headline": "윈도우용 Gemini 앱, 코파일럿을 무색하게 만들다",
-      "url": "https://www.xda-developers.com/gemini-app-for-windows-puts-copilot-to-shame/",
-      "source": "XDA Developers",
+      "rank": 1,
+      "headline": "These are the first five Googlebook laptops",
+      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "source": "The Verge",
+      "published_iso": "2026-09-21T13:01:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Would you buy one of the new Googlebooks at these prices?",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "구글이 윈도우 데스크톱에 Gemini 네이티브 앱을 올렸다 — 매일 쓰는 OS 위에서 AI 비서를 무엇으로 쓸지 바로 바뀌는 실사용 변화.",
-      "published_iso": "2026-09-19T21:00:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/gemini-app-for-windows.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Microsoft should be taking notes."
+      "rationale": "A whole new laptop category ships at once from Acer, Asus, HP, Lenovo and Dell — the first concrete spec-and-price picture of Google's ChromeOS/Android merge."
     },
     {
-      "headline": "아이폰 18 프로 가변 조리개, 사진 한 장으로 드러난 힘",
-      "url": "https://www.techradar.com/cameras/photography/it-took-exactly-one-photo-for-me-to-realize-the-awesome-power-of-the-iphone-18-pros-variable-aperture",
-      "source": "TechRadar",
+      "rank": 2,
+      "headline": "Apple's M6 Mac Mini Is Perfect for the AI Curious",
+      "url": "https://www.wired.com/review/apple-mac-mini-m6/",
+      "source": "WIRED",
+      "published_iso": "2026-09-21T13:00:00Z",
+      "og_image": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
+      "excerpt": "Apple has refreshed the Mac Mini with a brand new chip, the M6. And this time, it's more focused on AI than ever.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "폰 카메라에 물리 가변 조리개가 들어온 첫 실사용기 — 심도를 소프트웨어 보정이 아니라 광학으로 잡는 변화라 촬영 워크플로에 직접 영향을 준다.",
-      "published_iso": "2026-09-19T17:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rMgvAVoqfjHoxgrrXfFHke-2000-80.jpg",
-      "excerpt": "Here is the tale of my first day with the iPhone 18 Pro Max"
+      "rationale": "The cheapest way into Apple silicon is now tuned for running models locally — a real buying decision for anyone weighing a local-AI desktop."
     },
     {
-      "headline": "갤럭시 워치9 리뷰: 건강 점수가 하나 더 필요하진 않았다",
-      "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
-      "source": "WIRED",
+      "rank": 3,
+      "headline": "Apple Smart Home Display Coming as Soon as Next Month",
+      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+      "source": "MacRumors",
+      "published_iso": "2026-09-21T15:30:37Z",
+      "og_image": "https://images.macrumors.com/t/OUftIzGsXO_jjRdofXZXcypsL88=/2000x/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
+      "excerpt": "Apple could unveil its long-rumored smart home display as soon as October, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman narrows Apple's launch window after he said in August that the smart home display remained on track to arrive before the end of",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "2주 실착 리뷰로 삼성이 늘린 건강 지표가 실제로 쓸모 있는지 따진다 — 웨어러블 AI 지표 경쟁을 애플 바깥에서 검증하는 드문 각도.",
-      "published_iso": "2026-09-19T10:08:00Z",
-      "og_image": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/191:100/w_1280,c_limit/Review--Samsung-Galaxy-Watch9.jpg",
-      "excerpt": "Samsung’s latest smartwatch adds even more health metrics to its suite. I spent two weeks testing whether they’re actually useful."
+      "rationale": "Gurman narrows Apple's first new product category in years to October, putting an Apple-shaped rival next to Google's and Amazon's smart displays."
     },
     {
-      "headline": "애플 디자인팀이 직접 밝힌 아이폰 듀오의 설계 논리",
-      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
-      "source": "MacRumors",
+      "rank": 4,
+      "headline": "Meta Reportedly Unveiling Next-gen MR Headset at Connect, Hologram-like Call Experience",
+      "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
+      "source": "Road to VR",
+      "published_iso": "2026-09-16T12:20:56Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg",
+      "excerpt": "Meta isn't only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic \"hologram-like\" call function using its latest avatars. Images of Meta's upcoming Project Phoenix headset have already leaked ahead of Meta's Connect developer conference next week, which strong",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "산업 디자인·HI 디자인 부사장이 노트북에서 출발한 폴더블 설계와 인터페이스 원칙을 직접 설명 — 제품 디자이너가 참고할 의사결정 과정이 그대로 노출된다.",
-      "published_iso": "2026-09-18T16:11:02Z",
-      "og_image": "https://images.macrumors.com/t/gb26cGqhspJccA-wo07j2mXbIS4=/2880x/article-new/2026/09/iPhone-Duo-Open-large.png",
-      "excerpt": "Apple's design team reveals how notebooks helped inspire the iPhone Duo, along with interface principles and expectations for future features, in a new interview with GQ. The interview features Apple CEO John Ternus, Vice President of Industrial Design Molly Anderson, and Vice President of Human Interface Design Steve Lemay."
+      "rationale": "Leaked Project Phoenix images plus a photoreal codec-avatar calling feature set the agenda for Meta Connect on Sept 23-24."
     },
     {
-      "headline": "픽셀 11 전용이던 선제적 어시스턴트가 픽셀 10에 나타났다",
-      "url": "https://www.androidauthority.com/pixel-10-proactive-assistance-beta-3712714/",
-      "source": "Android Authority",
+      "rank": 5,
+      "headline": "AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
+      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
+      "source": "9to5Mac",
+      "published_iso": "2026-09-21T19:55:41Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?resize=1200,628",
+      "excerpt": "Global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns.",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "신형 전용으로 묶였던 제미나이 선제 어시스턴트가 안드로이드 17 QPR2 베타에서 구형 픽셀에 풀렸다 — 기기 세대별 AI 기능 장벽이 실제로 내려가는 신호.",
-      "published_iso": "2026-09-18T08:10:05Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/jade-pixel-10-pro-11-pro-black-scaled.jpeg",
-      "excerpt": "Google is testing the Pixel 11’s Proactive Assistance feature on the Pixel 10 with the latest Android 17 QPR2 Beta 5."
+      "rationale": "Hard numbers behind the smart-glasses boom: display-less models take 96% of shipments and Meta leads, just as Apple readies its own entry."
     }
-  ]
+  ],
+  "dropped_as_duplicates": [
+    {
+      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+      "reason": "Same The Information report already published 2026-09-18 as gadgets-meta-no-camera (Road to VR)."
+    },
+    {
+      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
+      "reason": "visionOS 27 launch already covered in the 2026-09-15 iOS 27 launch card (The Verge)."
+    },
+    {
+      "url": "https://9to5google.com/2026/09/16/google-home-mcp/",
+      "reason": "Same Google Home MCP announcement published 2026-09-17 (The Verge)."
+    },
+    {
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+      "reason": "Same Snap Specs launch event published 2026-09-18 (WIRED)."
+    },
+    {
+      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "reason": "Follow-up to the same Snap Specs launch event already published 2026-09-18 (WIRED)."
+    },
+    {
+      "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
+      "reason": "Within-pool duplicate of the Googlebook launch; kept the stronger hands-on breakdown."
+    },
+    {
+      "url": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
+      "reason": "Within-pool duplicate of the same Bloomberg smart-display report; kept MacRumors."
+    },
+    {
+      "url": "https://www.androidauthority.com/smart-glasses-shipments-statistics-3713810/",
+      "reason": "Within-pool duplicate of the same H1 2026 smart-glasses shipment report; kept 9to5Mac."
+    },
+    {
+      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
+      "reason": "Within-pool duplicate of the M6 Mac mini launch; kept the WIRED review."
+    },
+    {
+      "url": "https://9to5mac.com/2026/09/21/m5-ultra-mac-studio-review-roundup-a-local-ai-powerhouse/",
+      "reason": "Within-pool duplicate of the Mac Studio M5 review roundup (also MacRumors); dropped to avoid three Apple-desktop cards."
+    },
+    {
+      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/",
+      "reason": "iOS 27 Siri AI rollout already published 2026-09-15 (The Verge); also an Engadget same-topic pair."
+    },
+    {
+      "url": "https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/",
+      "reason": "Same iOS 27 Siri story as above, reworded."
+    }
+  ],
+  "diversity_check": {
+    "outlets": ["The Verge", "WIRED", "MacRumors", "Road to VR", "9to5Mac"],
+    "max_per_outlet": 1,
+    "distinct_outlets": 5
+  }
 }

@@ -1,119 +1,103 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "music",
   "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "music-ethical-ai-tools",
+      "id": "music-komca-ai-registration-withdrawn",
       "eyebrow": "AI NEWS",
-      "headline": "윤리를 앞세운 음악 AI 회사들\n정작 무엇을 믿을지는 흐릿하다",
-      "mini_headline": "‘윤리적 AI’ 가려내기",
-      "body": "음악 AI 회사들이 일제히 윤리를 말하지만, 무엇을 믿을지 가릴 잣대는 아직 없다.",
+      "headline": "AI가 손댄 곡도 등록한다던\nKomca가 방침을 거뒀다",
+      "mini_headline": "Komca, 방침 철회",
+      "body": "비판과 정부의 공론화 요구가 이어지자 Komca가 그 방침을 접었다.",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/music-tech/guilt-free-ai-what-so-called-ethical-ai-tools-mean-for-musicians-and-producers",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/21/south-koreas-komca-withdrew-plans-to-register-ai-assisted-music/",
       "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "올여름 한국음악저작권협회(Komca)는 'AI 협업' 음악도 저작물로 등록받겠다고 밝혔다. 조건은 하나였다. 가사와 작곡, 편곡에 사람의 창작적 기여가 들어 있을 것."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2025/09/South-Korea-flag.jpg?fit=780%2C585&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "그 계획이 접혔다. 비판이 이어졌고, 한국 정부에서도 편지가 왔다. 코리아타임스의 표현을 빌리면 '더 폭넓은 공론화'를 요구하는 내용이었다."
+          },
+          {
+            "t": "p",
+            "x": "이 결정이 이번 주 다시 입에 오른 데는 계기가 있다. 'Forest of the Heart'라는 AI 생성 트랙이 국내 스트리밍 서비스 멜론의 톱 100 차트에 들어갔다. Joseon HipHop이 내놓은 이 곡은 Suno로 만들어졌고, 가사는 아티스트가 직접 썼다. 한 곡이 저작권 보호를 받으려면 사람 손이 얼마나 들어가야 하는가. 그 해묵은 물음에 곧바로 맞물린다."
+          },
+          {
+            "t": "p",
+            "x": "성적은 냉정하게 볼 필요가 있다. 이 곡은 톱 100 차트 89위, 일간 차트 99위까지 올랐다가 다시 빠졌다. 대형 히트와는 거리가 멀지만, 앞으로 벌어질 일의 조짐으로 읽히고 있다."
+          },
+          {
+            "t": "p",
+            "x": "코리아타임스에 따르면 Komca와 국내 음악 단체들은 AI 탐지 프로그램을 함께 만들 기술 파트너를 고르는 중이다. AI 음악을 어떻게 다룰지를 두고 정부, 정책 담당자와의 대화도 함께 이어가고 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-suno-second-suit-v6",
+      "eyebrow": "AI NEWS",
+      "headline": "유니버설·소니, Suno v6도\n같은 독나무의 열매다",
+      "mini_headline": "Suno 2차 소송",
+      "body": "v6 모델까지 같은 독나무의 열매라며 녹음 6만202건을 걸고 다시 제소했다.",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "AI 음악판의 공기가 달라졌다. 한때 무법지대에 가깝던 곳에서 요즘은 윤리, 책임, 투명성, 원칙 같은 말이 보도자료마다 박혀 나온다. 이 흐름을 가장 잘 보여주는 회사가 수노다."
+            "x": "유니버설 뮤직 그룹과 소니 뮤직이 Suno를 두 번째로 법정에 세웠다. 9월 18일 금요일 보스턴 연방법원에 낸 공동 소장은, Suno가 라이선스 없이 두 회사의 사운드 레코딩 6만202건을 복제해 음악 생성 서비스를 돌리는 모델을 만들었다고 주장한다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/25MheFyRDZfdw6GVnVhge9.png",
-            "cap": "라이선스 데이터로 학습했다고 밝힌 Moises Studio (Image credit: Moises)"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/07/shutterstock_2481370157.jpg"
           },
           {
             "t": "p",
-            "x": "수노는 초기 모델을 인터넷에서 무단으로 긁어모은 음악으로 학습했다고 인정한 전력이 있다. 그런 회사의 CEO 마이키 슐먼이 최근 책임 있는 접근을 내건 블로그 글을 올렸다. 업계와 함께 만든 라이선스 학습 모델, 다운로드 제한, 스트리밍 플랫폼이 AI 곡을 가려내도록 돕는 워터마킹까지 함께 내놨다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/QpV5nhTPtdBricXekK8QzU.jpg",
-            "cap": "수노 CEO 마이키 슐먼 (Image credit: Getty Images)"
+            "x": "미국 저작권법은 고의 침해에 저작물 한 건당 최대 15만 달러를 물린다. 6만202건에 이 상한을 곱하면 이론상 90억 달러를 조금 넘는다. YouTube의 다운로드 방지 기술을 우회한 행위에는 한 건당 최대 2500달러가 따로 붙는데, 녹음마다 한 번씩만 세어도 1억5000만 달러가 더해진다."
           },
           {
             "t": "p",
-            "x": "배경은 하나가 아니다. 소송이 쌓였고, 레이블과 퍼블리셔가 법정 대신 협업 쪽으로 돌아섰다. 무엇보다 사회 전반의 AI 반감이 끓어넘치기 시작했다. 2025년 BPI 조사에서 응답자 82%가 음악에 인간의 창의성이 꼭 필요하다고 답했고, 80%는 사람이 만든 음악을 더 가치 있게 봤다. 81%는 완전 AI 생성 음악에 표시를 달라고 했다. Muse Group이 자사 서비스 이용자 1200명에게 물었더니 78%는 AI를 쓸 생각이 있다면서도 81%가 더 강한 규칙과 투명성을 원했다."
+            "x": "새 소장의 표적은 9월 9일 공개된 v6다. Suno는 이 모델을 워너 뮤직 그룹, BMG, Believe와 함께 만들었다고 밝혔고, 최고제품책임자 Jack Brody는 출시 당시 MBW에 'v6는 완전히 처음부터, 바닥부터 학습했다'며 학습 데이터에 '유니버설이나 소니의 데이터는 들어 있지 않다'고 말했다."
           },
           {
             "t": "p",
-            "x": "그래서 어느 회사를 믿어야 하나. 쉬운 답은 없다. 2023년 창업한 Voice Swap AI는 아티스트와 직접 일하며 승인받은 보이스 모델을 제공하고, 데이터셋은 제3자 기관 Fairly Trained의 인증을 받았다. 구독 매출의 50%, 라이선싱 매출의 80%가 참여 아티스트에게 간다. CEO 아우슈리네 스카르눌리테는 “‘윤리적 AI’가 마케팅 용어가 될 위험이 있다”고 경고한다. 회사마다 윤리를 제 입맛대로 정의하면 그 라벨은 아무것도 알려주지 못한다는 것이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/GXcNcKTNEeV8DayMLecAEe.jpg",
-            "cap": "(Image credit: Future)"
+            "x": "원고 측은 그 해명이 책임을 지우지 못한다고 본다. '침해 모델의 출력물로 새 모델을 학습시키는 것은 침해를 없애지 않는다. 세탁할 뿐이다.' 소장은 그렇게 적은 뒤 'v6는 새 출발이 아니라 같은 독나무에서 난 열매'라고 덧붙였다. Suno가 v6 학습에 이전 모델과의 '사용자 상호작용'을 썼다고 인정한 대목이 근거로 인용됐다."
           },
           {
             "t": "p",
-            "x": "Moises AI의 CEO 제랄도 하모스는 학습 데이터만 따질 일이 아니라고 본다. 어떤 제품을 만드느냐도 그만큼 중요하다. 모이세스는 곡 전체를 생성하는 기능에는 끝까지 선을 긋겠다고 했다. 롤랜드 퓨처 디자인 랩의 폴 매케이브는 2022년 Principles for Music Creation with AI를 만들었고, 지금은 150곳이 넘는 브랜드와 레이블, 기관이 여기에 이름을 올렸다. 매케이브는 AI를 썼는지 안 썼는지만 밝혀서는 부족하고 어떻게 썼는지까지 기술할 표준이 필요하다고 말한다."
+            "x": "시장 피해의 근거로는 Deezer가 등장한다. 이 회사는 2026년 7월, 플랫폼에 매일 도착하는 신곡의 절반 이상인 하루 9만 곡가량이 AI 생성물이라고 밝힌 바 있다."
+          },
+          {
+            "t": "p",
+            "x": "이번 소송은 첫 사건에서 갈라져 나왔다. 2024년 6월 제기된 소송에 녹음 6만1026건을 추가해달라는 요청을 F. Dennis Saylor IV 판사가 8월 18일 받아들이지 않으면서, 별도 소송으로 가라는 길이 열렸다. 두 회사는 사용 금지 명령과 배심 재판도 함께 요구했다."
           }
         ]
       }
     },
     {
-      "id": "music-ai-music-awards",
+      "id": "music-afm-new-use-clause",
       "eyebrow": "AI NEWS",
-      "headline": "첫 AI 뮤직 어워즈, 11월 LA\nAI ‘아티스트’들이 ‘라이브’로",
-      "mini_headline": "AI 아티스트 첫 시상식",
-      "body": "AI 아티스트가 11월 13일 LA 마얀 극장의 첫 AI 뮤직 어워즈 무대에 선다.",
+      "headline": "세션 연주자 몫을 두고 AFM이\n유니버설·워너와 맞붙었다",
+      "mini_headline": "AFM, 메이저 제소",
+      "body": "레이블의 AI 계약에 녹음이 쓰였다면 세션 연주자도 돈을 받아야 한다는 주장이다.",
       "tool": "Music",
-      "source": "DJ Mag",
-      "url": "https://djmag.com/news/ai-artists-set-perform-live-first-ai-music-awards-los-angeles",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-09/Screenshot%202026-09-18%20at%2018.51.15.png.webp?itok=QoXtjAha",
-            "cap": "각 AI ‘아티스트’ 뒤의 창작자가 “무대를 연출한다”는 것이 주최 측 SIQA의 설명이다"
-          },
-          {
-            "t": "p",
-            "x": "AI ‘아티스트’ 여럿이 11월 13일 로스앤젤레스 마얀 극장에서 열리는 첫 AI 뮤직 어워즈 무대에 ‘라이브’로 오른다."
-          },
-          {
-            "t": "p",
-            "x": "확정된 이름 중에는 자니아 모네가 있다. 빌보드 라디오 에어플레이 차트에 처음 진입한 AI 생성곡 ‘How Was I Supposed To Know’를 낸 장본인이다. 송라이터 텔리샤 ‘니키’ 존스가 만들어낸 이 인물은 레이블 영입 경쟁을 거쳐 300만 달러로 알려진 조건에 할우드 미디어와 ‘계약’했다."
-          },
-          {
-            "t": "p",
-            "x": "시나 테일러, 올리비아 B 무어, 갓펠로우, 아리에스 아이보리, 체이슨 헤일, EJ 로저스 같은 비인간 ‘스타’도 함께 오른다. 공연을 만든 곳은 소닉 인텔리전스 아카데미(SIQA)다. 스스로를 “윤리적이고 혁신적이며 획기적인 AI 음악의 글로벌 허브”라 소개하며 벤처캐피털 1517 Fund의 지원을 받는다."
-          },
-          {
-            "t": "p",
-            "x": "주최 측 설명으로는 그날 밤 “인간과 AI의 하이브리드 쇼케이스”가 이어지고, 각 AI ‘아티스트’ 뒤의 창작자가 “무대를 연출한다”. 라이브 밴드와 몰입형 영상도 함께 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "시상 부문은 베스트 AI 송, 아티스트, 앨범, 올해의 프로듀서에 더해 베스트 AI 그룹, 베스트 AI 뮤직비디오, 베스트 AI 컬래버, 베스트 AI 어시스티드 송까지 나뉜다. R&B, 컨트리, 가스펠, 팝, 록/얼터너티브, 힙합, 재즈 등 장르별 상도 따로 있다."
-          },
-          {
-            "t": "p",
-            "x": "SIQA는 앞서 첫 AI 음악 차트를 검증 레지스트리, 전용 앱과 함께 내놨다. 올해 초 선보인 이 기술로 이용자가 자기 음악에 AI를 어디까지 썼는지 기록한다. Music Business Worldwide에 따르면 올해 1분기 접수된 1551곡 가운데 90% 넘게 수노로 만들었고, 76%에 가까운 곡이 디스트로키드를 거쳐 유통됐다."
-          },
-          {
-            "t": "p",
-            "x": "이달 초에는 아르민 반 뷰렌과 레이드백 루크가 ‘책임 있는’ AI 음악 회사 모이세스에 자문으로 합류했다. 앞서 8월 비트포트가 완전 생성 트랙을 금지하는 등 AI 생성·AI 보조 음악의 확산을 막으려는 결정이 잇따랐다. 디저는 4월 신규 업로드의 44%가 AI 생성이라고 확인했고, 7월에는 그 비율이 50%까지 올랐다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-understanding-search",
-      "eyebrow": "AI NEWS",
-      "headline": "대화형 음악 검색을 떠받치는 건\n결국 잘 정돈된 메타데이터다",
-      "mini_headline": "메타데이터가 먼저다",
-      "body": "대화형 검색과 에이전트 워크플로는 구조화된 음악 메타데이터 위에서만 돌아간다.",
-      "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/why-ai-workflows-need-music-understanding-and-search/",
+      "source": "Complete Music Update",
+      "url": "https://completemusicupdate.com/universal-and-warner-tell-judge-new-use-clause-in-afm-agreement-is-clear-and-unambiguous-and-does-not-apply-to-their-ai-deals/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -121,120 +105,125 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Cyanite의 CEO 마르쿠스 슈바르처가 쓴 글이다. 에피데믹 사운드 사이트를 둘러보다 대화형 검색을 발견했는데, 너무 잘 만들어져서 한순간 우리보다 나은 해법을 찾아냈구나 싶었다고 한다. 가게 문 닫아야 하나, 그런 생각까지 했다. 그런데 무엇이 그걸 돌리는지 들여다보니 바로 자기 회사였다."
-          },
-          {
-            "t": "p",
-            "x": "다른 기술이 아니었다. LLM 아래에서 Cyanite의 음악 이해와 검색이 돌아가고 있었다. 태깅 모델을 다듬는 동안 에피데믹 사운드 팀은 그 위에 사용자에게 필요한 대화형 검색 경험을 쌓아 올렸다. 에이전틱 시대로 넘어가면 사람들은 카탈로그를 다루는 방식을 새로 짤 텐데, 기계가 음악을 이해하고 찾아내지 못하면 그 어떤 워크플로도 작동하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "업계에서 반복해 듣는 불만이 있다. 하루의 큰 몫을 반복 작업에 쓰면서도 남에게 넘기질 못한다는 것이다. 일하는 방식이 어디에도 적혀 있지 않고 한 사람 머릿속 경험에 얹혀 있어서다. 언어 모델이 그 조건을 바꿨다. 맥락만 충분히 주면 텍스트 기반 업무의 80~90%는 흉내 낸다."
+            "x": "미국음악가연맹(AFM)은 지난 6월 유니버설 뮤직과 워너 뮤직을 걸어 소송을 냈다. 두 회사가 Udio와, 워너의 경우 Suno와 맺은 AI 라이선스 계약에서 음반노동협약(Sound Recording Labor Agreement)상 의무를 지키지 않았다는 것이다. 이달 들어 양쪽 모두 새 서면을 냈고, 메이저 두 곳은 소송 자체를 각하시키려 하고 있다."
           },
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-17-at-5.42.54---PM.png",
-            "cap": "Screenshot courtesy of Cyanite's Tagging 2.0"
+            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/AFM-v-UMGWMG.png"
           },
           {
             "t": "p",
-            "x": "퍼블리셔에서 크리에이티브 싱크를 맡은 친구 이야기가 좋은 예다. 들어오는 곡을 럭셔리 브랜드, 자동차 캠페인, FMCG처럼 자기가 만든 30여 개 폴더에 나눠 넣는다. 본인만 이해하는 분류다. 오늘의 LLM은 음악 자체를 제대로 알아듣지 못해 이 일을 그냥 넘겨받지 못한다. 소리와 가사를 기술한 구조화된 메타데이터가 있어야 그 선택 뒤의 패턴이 읽힌다. 폴더에 이미 쌓인 곡 데이터를 충분히 주면 새 곡이 어디로 갈지 그녀가 듣기도 전에 짚어낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-18-at-9.33.29---AM.png",
-            "cap": "Screenshot courtesy of Soundstripe"
+            "x": "다툼은 협약 속 '새로운 사용(new use)' 조항 한 대목에 걸려 있다. 녹음물이 협약에서 예정하지 않은 방식으로 쓰이면 레이블은 그 녹음에 참여한 연주자에게 보상해야 하고, 노조에도 알려야 한다. 유니버설과 워너는 AI 계약을 두고 아직 둘 다 하지 않았다."
           },
           {
             "t": "p",
-            "x": "그래서 AI가 워크플로 안으로 들어올수록 구조화된 음악 이해의 값이 올라간다. 파일마다 일관된 설명이 붙으면 모든 에이전트와 워크플로가 같은 출발점을 쓴다. 사운드스트라이프는 자연어로 검색한 뒤 대화로 조건을 좁히고, 비트스타스는 매달 수십만 곡씩 올라오는 업로드에 일관된 오디오 메타데이터를 붙여 곧바로 검색과 추천에 쓴다. 인터페이스가 어떻게 바뀌든 바닥에 깔린 층이 튼튼할수록 AI가 쓸모 있어진다."
+            "x": "메이저의 논리는 이렇다. 조항은 '단 하나의 의미만 지닌다'. 새로운 목적을 다루는 별도의 AFM 협약이 있어야 그 협약에서 요율을 가져와 지급액을 정할 수 있는데, AI를 다루는 표준 협약은 아직 없다. 유니버설은 이 조항이 '명확하고 모호하지 않다'며, AFM이 계약이 분명히 말하는 바를 마주하는 대신 '흐리는 산발적 주장들'을 폈다고 적었다."
+          },
+          {
+            "t": "p",
+            "x": "AFM의 반박은 짧다. '협약 당사 회사가 협약이 다루지 않는 목적에 녹음물을 사용할 때, 조문은 강제적 지급 의무를 지운다.' 전용 AI 협약이 없더라도 세션 요율, 스트리밍 요율, 샘플링 요율 같은 기존 규정이 '손해액을 정할 객관적 척도가 된다'는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "AFM은 이 조항이 '두 가지 이상으로 해석될 여지가 충분하다'고 순순히 인정한다. 모호함이 있고 자기 해석도 '그럴듯하다'는 점만 판사가 받아들이면 각하를 피할 수 있기 때문이다. 레이블과 퍼블리셔들이 AI 계약을 줄줄이 맺는 동안, 세션 연주자에게 무엇이 돌아가는지를 말하는 쪽은 아직 거의 없다."
           }
         ]
       }
     },
     {
-      "id": "music-resing-voices-vol2",
+      "id": "music-coronado-ai-sfx",
       "eyebrow": "AI NEWS",
-      "headline": "IK 멀티미디어, AI 보컬 모델\n리싱 보이스 Vol 2에 목소리 10개",
-      "mini_headline": "리싱 보이스 Vol 2",
-      "body": "IK 멀티미디어가 AI 보컬 소프트웨어 리싱에 새 보이스 모델 10개를 더했다.",
+      "headline": "생성 AI 효과음은 두렵지 않다는\n사운드 디자이너의 이유",
+      "mini_headline": "AI 효과음의 자리",
+      "body": "사운드 디자인은 결국 고르고 다듬는 큐레이션의 일이라는 게 그의 답이다.",
       "tool": "Music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/resing-voices-vol-2-ik-multimedia",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_voices-YDql_Za_xqgPextj6EiI8gUoxHspB8Ik.jpg",
-            "cap": "ReSing Voices Vol 2 Producer’s Pack"
-          },
-          {
-            "t": "p",
-            "x": "IK 멀티미디어의 AI 보컬 모델링 소프트웨어 리싱에 새 확장팩이 나왔다. 요즘 음악 작업에 맞춘 보이스 모델 10개가 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "ReSing Voices Vol 2 Producer’s Pack에는 영어로 노래하는 새 싱어 10명이 담겼다. 팝, R&B, 소울, 가스펠, 랩, 트랩, 록, EDM까지 장르 폭이 넓다. 속삭이듯 섬세한 라인부터 소울풀하고 힘 있는 보컬까지 소화해, 어떤 트랙의 성격에도 맞출 만한 음색 선택지를 프로듀서에게 준다."
-          },
-          {
-            "t": "p",
-            "x": "10개 보이스 모두 리싱 안에서 매끄럽게 돌아간다. 원래 보컬 연주를 건드리지 않고도 기존 테이크를 다시 해석하거나 다른 싱어로 바꿔 보며 새 방향을 찾는다."
-          },
-          {
-            "t": "p",
-            "x": "호환성은 이렇다. 리싱은 윈도우 10 이상 PC와 macOS 10.15 이상 맥에서 돌아간다. VST3, AU, AAX 플러그인 버전과 스탠드얼론 애플리케이션을 함께 제공하고, 지원하는 DAW에서는 ARA2로도 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "가격은 리싱 애드온 기준으로 지금 바로 살 수 있다. 도입가 $€99.99로 내놓고 이후 정가는 $€129.99가 된다. 리싱 싱어 쇼케이스에서 개별 보이스 모델을 $€19.99에 낱개로도 판다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-distrokid-universal",
-      "eyebrow": "AI NEWS",
-      "headline": "유니버설이 디스트로키드를 고소\nAI 슬롭 유통 통로로 지목",
-      "mini_headline": "디스트로키드 소송",
-      "body": "유니버설은 디스트로키드가 AI 슬롭과 침해 음원의 통로로 몸집을 키웠다고 주장한다.",
-      "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/distrokids-2-billion-valuation-based-on-it-being-a-pipeline-for-ai-slop-and-copyright-infringement-says-universal/",
+      "source": "Production Expert",
+      "url": "https://www.production-expert.com/production-expert-1/why-this-sound-designer-isnt-afraid-of-generative-ai-sfx",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "생성 AI 효과음 도구가 줄줄이 시장에 나오고 있다. ElevenLabs는 자연어로 묘사하면 효과음을 만들어주고, Adobe Firefly는 텍스트 프롬프트와 직접 녹음한 목소리를 가이드로 쓰게 한다. Ace Studio는 화면을 이해해 효과음을 타임라인의 제자리에 얹어준다."
+          },
+          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/distrokid-union.png"
+            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/e89ee2e5-9b5c-4b76-bf73-690229c370cf/Sound+Designer+Not+Afraid+Of+Generative+AI+Sound+Effects+Services.webp"
           },
           {
             "t": "p",
-            "x": "유니버설 뮤직이 디스트로키드를 고소했다. DIY 유통 시장 1위 업체가 “불법적이고 기만적인 관행”으로 급성장했고, 그 끝이 “최근 20억 달러 기업가치”라는 주장이다. 유니버설은 그런 관행이 자사 레이블과 유통 사업, 그리고 함께 일하는 아티스트까지 “음악 경제”의 정상적인 참여자를 위협한다고 본다."
+            "x": "Dallas Audio Post의 공동 대표이자 리드 사운드 디자이너인 René Coronado는 이 흐름이 무섭지 않다고 한다. DreamWorks와 HBO, Warner Bros 작업을 거친 사람이다. 그가 LinkedIn에 올린 글을 Production Expert가 허락을 받아 옮겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/f14e2e69-a4a3-48e2-b707-13c6c1486668/Rene%CC%81+Coronado.webp"
           },
           {
             "t": "p",
-            "x": "새 소장에서 유니버설은 디스트로키드가 “자신이 유통하는 음악이 실제 사람 아티스트가 만들고 소유한 릴리스인 것처럼 잘못된 인상을 준다”고 적었다. 실제로는 스트리밍 서비스로 넘기는 음원 상당수가 AI 슬롭이거나 저작권을 침해한 트랙이고, 성장과 시장 가치에 도움이 되니 “디스트로키드가 이런 악의적 행태를 모두 끌어안는다”는 것이 이어지는 주장이다."
+            "x": "'거대한 도끼를 튕겨내며 울리는 큰 금속 방패 소리를 만들어라.' 새 도구가 나올 때마다 그가 돌려보는 기준 테스트다. 결과는 늘 같았다. '형편없다. 이 도구들이 나온 이래 줄곧 형편없었다.' 다만 그는 단서를 달았다. '하지만 언제까지나 형편없지는 않을 것이다.'"
           },
           {
             "t": "p",
-            "x": "소송은 유니버설이 소니 뮤직, 워너 뮤직과 여러 독립 유통사를 모아 스트리밍 사기에 맞서겠다는 ‘스트리밍 인테그리티 이니셔티브’를 띄운 바로 다음 날 제기됐다. 그 명단에 디스트로키드가 없던 이유를 이제 알게 된 셈이다."
+            "x": "그가 겁내지 않는 이유는 따로 있다. 사운드 디자인을 대체로 큐레이션의 기술로 보기 때문이다. 화면을 보며 손에 쥔 소품이 내는 소리를 듣고, 자기 라이브러리를 훑고, 플러그인 프리셋을 넘기고, 아직 사지 않은 라이브러리의 데모까지 들어본 다음, 마지막으로 생성 AI가 내놓은 것을 듣는다."
           },
           {
             "t": "p",
-            "x": "불만은 크게 두 갈래다. 하나는 스트리밍 사기의 입구 노릇이다. 고객이 남의 음악을 리믹스하거나 속도를 바꿔 올려 플랫폼 검수를 통과시키고 로열티를 챙긴다는 것. 유튜브처럼 검수로 침해를 잡아낸 곳이 나와도 디스트로키드는 그 플랫폼에서만 내리고 똑같은 녹음을 다른 서비스에는 계속 유통한다고 유니버설은 말한다."
+            "x": "그 사이 그는 계속 묻는다. 이게 마음에 드는가, 쓸 만한 양이 나오는가, 더 구부려 원하는 쪽으로 끌고 갈 수 있는가. 소스를 고르고 쌓고 타이밍과 레벨과 팬을 만지고, 마음에 안 드는 선택은 음소거하고, RX에 넣어 크랙은 걷어내되 음색은 남긴다. 생성 AI 소스는 '불에 하나 더 얹는' 재료일 뿐이라는 게 그의 표현이다."
           },
           {
             "t": "p",
-            "x": "다른 하나가 AI 슬롭이다. 일부 고객이 검색 결과에 걸리도록 제목과 아티스트명을 맞춘 AI 생성 트랙을 해마다 수천 곡씩 올린다. 스트리밍 로열티 풀은 매달 정해져 있어, 그 돈이 AI 슬롭과 침해 트랙으로 새면 나머지 몫이 줄어든다. 디스트로키드는 수수료 모델이라 업로더에게 흘러간 돈을 직접 나눠 갖지는 않지만, 그 통로 노릇 덕에 더 많은 이용료를 받고 점유율을 키운다는 게 유니버설의 논리다."
+            "x": "마케팅 문구는 요란하다. 사운드 디자이너를 해고하라, 우리 도구로 직접 하라, 전문가만큼 잘 된다. 그의 대답은 한 줄이었다. '취향은 지름길로 갈 수 없다.'"
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-brian-may-ai-reversal",
+      "eyebrow": "AI NEWS",
+      "headline": "AI에 저항해야 한다는 쪽으로\n브라이언 메이가 돌아섰다",
+      "mini_headline": "브라이언 메이의 선회",
+      "body": "AI를 반기던 퀸의 기타리스트가 돌아서면서 퀸 아바타 공연 구상도 함께 식었다.",
+      "tool": "Music",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/guitarists/brian-may-on-why-hes-changed-his-mind-on-ai-we-have-to-resist-we-have-to-control-it-very-very-seriously-and-very-quickly",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "브라이언 메이가 AI를 두고 '생각을 바꿨다'고 말했다. 이제는 분명히 반대편에 서 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/9Y2aCQLRZdu5g6ESzB5rBV-1200-80.jpg"
           },
           {
             "t": "p",
-            "x": "유니버설은 저작권 침해에 더해 불법적인 기만적 거래 관행도 걸었다. 디스트로키드가 사기 방지 활동에 이름을 올려 문제 있는 쪽을 가린다는 것이다. 2024년 빌리브와 튠코어를 상대로 낸 소송도 거의 같은 틀이었고, 그 사건은 올해 4월 법정 밖 합의로 끝났다."
+            "x": "Absolute Radio와의 인터뷰에서 퀸의 기타리스트는 처음엔 AI를 '산업혁명과 다를 바 없는' 것으로, 그러니 피할 수 없는 것으로 여겼다고 했다. 지금은 다르다. '우리는 저항해야 하고, 그 범위를 제한해야 한다. 아주, 아주 진지하게, 그리고 아주 빠르게 통제해야 한다.'"
+          },
+          {
+            "t": "p",
+            "x": "반감의 큰 몫은 데이터센터로 향한다. 오래전부터 자연보호에 마음을 써온 그는 '이 데이터센터들이 들어와 우리 시골을 망가뜨리는 사업이 싫다'고 말했다. '큰 위협이고, 점점 더 커질 것이다. 주면 줄수록 더 가져간다. 공동체를 파괴하고 환경을 파괴한다. 미국에서는 이미 공동체가 무너지고 있다.'"
+          },
+          {
+            "t": "video",
+            "yt": "wllXY322K7Q"
+          },
+          {
+            "t": "p",
+            "x": "그는 앤디 버넘(Andy Burnham)에게 직접 말을 걸었다. '이제 당신 일이다. 너무 늦기 전에 지금 당장 데이터센터에 모라토리엄을 걸어달라.' 걱정은 거기서 끝나지 않는다. '언젠가 우리를 통제하게 될 수도 있는 지능을 만드는 일에는 본질적인 위험이 있다. 아주 현실적인 위협이다.'"
+          },
+          {
+            "t": "p",
+            "x": "퀸 아바타 공연 구상이 식은 것도 같은 맥락이다. '스피어(Sphere)를, 그리고 이글스가 거기서 한 것을 보고 아주 진지하게 검토했다. 퀸의 쇼가 어떤 모습일지 오래 구상했다. 지금은 한발 물러섰다. AI를 대규모로 쓰지 않고는 만들 수 없고, 거기엔 대가가 따르니까.'"
+          },
+          {
+            "t": "p",
+            "x": "남의 작업을 훔치고 싶지는 않다고 그는 말했다. 퀸의 유산에서 가져오는 것이라면 '우리 것이니 괜찮을지도' 모르지만, 그래도 AI가 세상에 얹는 부담은 늘어난다. '전성기의 우리를 라이브로 보는 듯한 장소가 어디에나, 어느 시점에나 있다면 멋질 것이다. 문은 열려 있다. 다만 우리가 그 문으로 걸어 들어갈지는 모르겠다.'"
           }
         ]
       }

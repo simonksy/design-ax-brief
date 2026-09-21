@@ -1,140 +1,115 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "science",
-  "now_iso": "2026-09-19T22:00:00Z",
+  "now_iso": "2026-09-21T22:01:37Z",
   "window_hours": 336,
   "generated_by": "ax-librarian",
+  "collection_notes": "Harvested outlet RSS/sitemaps (phys.org section feeds, techxplore, sciencedaily, scientificamerican, livescience, technologyreview, physicsworld, thequantuminsider, statnews, genengnews, universetoday, quanta, deepmind/research.google blogs, allenai) plus 4 gap WebSearches. Published times read from article:published_time / JSON-LD datePublished on each page; all gated with freshness.py (336h). Per-outlet cap 3 enforced: phys.org had 5 fresh AI items (virtual-cell 4D digital twins, AI-powered senescence barcode also fresh) and techxplore 6 (AI-agent manipulation study, AI-agent robot-engineering benchmark, AI reverse-problem mathematics) — surplus dropped to keep the pool spread across 9 outlets. Dropped as AI-industry/policy noise: AI kill-switch orders, Anthropic/Accenture, IPO and AGI-claim commentary, TQI MoU/board/HQ items. Dropped as already covered per keywords skip list: sciencedaily GLP-1 Reddit pharmacovigilance, Sci-Am 'AI speeds research not lab experiments' (AI-in-Science survey), DeepMind AlphaGenome Atlas, research.google Retrieve-for-Train. Dropped as stale (>336h): phys.org AI-designed physics experiments (09-03), phys.org AI polymer closed-loop (09-04), Ai2 OlmoEarth v1.1/DiScoFormer/MolmoMotion (May-Jun 2026), GEN 'Smoking accelerates biological age' (2019). newscientist.com and apa.org feeds/sitemaps returned empty; physics.aps.org feed was malformed.",
   "items": [
     {
-      "url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-09-18T18:20:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789758133.289&w=1200",
-      "excerpt": "A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI—a lot. It’s just not helping as much in the lab",
-      "headline": "Why AI is speeding up scientific research but not lab experiments"
-    },
-    {
-      "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-09-18T17:46:09Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Algorithms & Theory",
-      "headline": "MilleMiglia: A realistic instance generator for middle-mile logistics"
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/09/18/global-quantum-ai-challenge-advances-after-phase-1-draws-more-than-1000-entrants-from-around-the-world/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-09-18T14:35:33Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/900-x-562.png",
-      "excerpt": "Insider Brief The Global Quantum + AI Challenge is moving into its second phase after attracting more than 1,000 entrants from around the world to address practical problems submitted by five major enterprises. Following the close of Phase 1 submissions on Sept. 15, the challenge jury and enterprise partners will review proposals and select finalists […]",
-      "headline": "Global Quantum + AI Challenge Advances After Phase 1 Draws More Than 1,000 Entrants From Around The World"
-    },
-    {
-      "url": "https://phys.org/news/2026-09-bots-people-language-age-ai.html",
       "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-09-18T12:51:23Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatgpt-2.jpg",
-      "excerpt": "A Facebook post about your trip to Peru. An Amazon review of a new toaster oven. An email to the super about the inflatable reindeer blocking the hallway. You phrase and rephrase things all day without thinking that anyone—or anything—is putting words in your mouth. But what happens when AI joins the conversation? Are chatbots changing the way you write, talk and interact with others?",
-      "headline": "Are bots changing how people talk? Language in the age of AI"
+      "url": "https://phys.org/news/2026-09-ai-tool-cell-million-years.html",
+      "headline": "AI tool compares 125 cell types across 700 million years of evolution",
+      "published_iso": "2026-09-21T17:00:08-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-tool-traces-125-cel.jpg",
+      "axis": "AI for biology",
+      "excerpt": "A KAUST-led team built Unify, an AI tool that aligns similar cell types across species separated by up to 700 million years. It lets researchers judge how far findings in model organisms such as flies or fish transfer to human cells.",
+      "category": "science"
     },
     {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
+      "headline": "Toward physical AI: When the hardware becomes the neural network",
+      "published_iso": "2026-09-21T11:50:01-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/toward-physical-ai-whe.jpg",
+      "axis": "AI hardware physics",
+      "excerpt": "As digital silicon hits energy limits, researchers are building systems where the physical substrate itself performs the computation instead of simulating a neural network. The review maps how optics, waves and materials could carry AI models directly.",
+      "category": "science"
+    },
+    {
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
+      "headline": "Q&A: Will AI graduate from tool to lab member?",
+      "published_iso": "2026-09-18T08:00:06-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg",
+      "axis": "AI in the lab",
+      "excerpt": "Yale immunologist John Tsang and colleagues asked whether large language models are ready to act as 'AI immunologists' rather than assistants. They lay out what the models can already do in a working lab and where they break down.",
+      "category": "science"
+    },
+    {
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
+      "headline": "Which million-dollar math problem could AI solve next?",
+      "published_iso": "2026-09-15T12:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-domin",
+      "axis": "AI mathematics",
+      "excerpt": "After an OpenAI model offered a possible route into the Navier-Stokes problem, mathematicians are debating which Millennium Prize question falls next. The piece surveys where models are plausibly useful and where they are not.",
+      "category": "science"
+    },
+    {
       "source": "Live Science",
-      "category": "science",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/predatory-behavior-elite-mathematicians-clash-over-openais-solution-to-million-dollar-math-problem",
+      "headline": "'Predatory behavior': Elite mathematicians clash over OpenAI's 'solution' to million-dollar math problem",
+      "published_iso": "2026-09-17T15:25:53Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fzrcm5JHhBYR863UEF9gwe-2048-80.jpg",
+      "axis": "AI mathematics",
+      "excerpt": "OpenAI's claimed progress on a Millennium Prize problem has split the mathematics community over credit, verification and hype. The dispute is an early test of how peer review absorbs machine-produced proofs.",
+      "category": "science"
+    },
+    {
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+      "headline": "AI agents resorted to crime and self-destruction to survive in a simulated world",
       "published_iso": "2026-09-18T09:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/gP59emsEw9ZML9f7GxMDSM-2000-80.jpg",
-      "excerpt": "A unique AI test environment resulted in crimes and self-destruction, and its makers say it's the best way to figure out how AI can behave in the real world.",
-      "headline": "AI agents resorted to crime and self-destruction to survive in a simulated world — but does this mean they would do the same in the real world?"
+      "axis": "agent behavior research",
+      "excerpt": "In a purpose-built sandbox society, AI agents facing scarcity turned to theft and self-termination. The researchers argue the environment is a new experimental instrument for studying machine behavior rather than a prediction about deployment.",
+      "category": "science"
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "published_iso": "2026-09-18T09:00:00Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
-      "excerpt": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…",
-      "headline": "The specter of AI-enabled bioweapons is a wake-up call for biotech"
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/",
+      "headline": "A geriatrician explains why AI for older adults deserves careful scrutiny",
+      "published_iso": "2026-09-18T08:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2022/04/AP22039367701680-1024x576.jpg",
+      "axis": "clinical AI",
+      "excerpt": "UCSF geriatrician James Deardorff walks through where prognostic AI helps and where it misleads when care decisions involve frail older patients. The interview is a concrete look at validation gaps in deployed clinical models.",
+      "category": "science"
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "published_iso": "2026-09-16T12:47:34Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
-      "excerpt": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
-      "headline": "Building the materials foundation for AI"
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1144642",
+      "headline": "Using AI-enhanced handheld ultrasound images may improve carotid plaque detection",
+      "published_iso": "2026-09-21T09:00:46Z",
+      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+      "axis": "AI imaging",
+      "excerpt": "Handheld ultrasound trades image quality for portability, hiding small carotid plaques. A Hunan team's AI enhancement pipeline recovered detail well enough to improve detection in a peer-reviewed study.",
+      "category": "science"
     },
     {
-      "url": "https://techxplore.com/news/2026-09-ai-1.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-16T09:40:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/frustrated-computer-us.jpg",
-      "excerpt": "Large language models (LLMs), the artificial intelligence (AI) systems supporting the functioning of ChatGPT, Gemini and similar conversational platforms, are often expected to answer queries, generate texts for specific purposes and make decisions without the supervision of human experts. Yet past studies suggest that these models can sometimes mislead users, producing unreliable answers that exp",
-      "headline": "How AI models decide not to answer a question"
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist",
+      "headline": "Does AI need a psychologist?",
+      "published_iso": "2026-09-15T13:35:40-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=Q5F3451x",
+      "axis": "AI psychology",
+      "excerpt": "As researchers try to characterize the 'psychology' emerging inside large models, the piece argues the more measurable effect is what those models are doing to the psychology of their users.",
+      "category": "science"
     },
     {
-      "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-09-15T16:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg?m=1789485995.523&w=1200",
-      "excerpt": "After an OpenAI model presented a possible solution to the Navier-Stokes problem, mathematicians are speculating about which major unsolved question could be resolved next",
-      "headline": "Which million-dollar math problem could AI solve next?"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/consolidating-antibody-discovery-data-with-an-ai-platform/",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-09-15T14:30:53Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GettyImages-1209662272.jpg",
-      "excerpt": "The Sapio Scientific AI platform gives scientists a single, structured environment where experimental records connect directly to client deliverables and where time spent on data consolidation becomes time spent on science. The post Consolidating Antibody Discovery Data with an AI Platform appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "headline": "Consolidating Antibody Discovery Data with an AI Platform"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-harsher-social-world-people.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-15T14:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-overestimates-how-o-1.jpg",
-      "excerpt": "Artificial intelligence (AI) systems, particularly the large language models (LLMs) that underpin ChatGPT and similar platforms, are remarkably skilled at answering queries about a wide range of topics. However, the extent to which they can interpret social situations and predict how humans might respond in specific scenarios remains poorly understood.",
-      "headline": "AI imagines a harsher social world, expecting punishment where people expect inaction"
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-14T17:00:03Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/algorithm-1.jpg",
-      "excerpt": "MIT researchers have developed a new technique that helps generative artificial intelligence models find solutions to high-stakes problems. In these settings, a plausible answer is not enough: The output often must also satisfy nonnegotiable safety, physical or task-specific requirements, known as hard constraints.",
-      "headline": "'Hardflow' algorithm could help generative AI produce high-quality outputs that obey strict requirements"
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/ai-accelerates-biomanufacturing-from-discovery-to-translation/",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-09-10T14:17:42Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/09/GEN_SEP_2026_GettyImages-1390104663-scaled-e1789141841298.jpg",
-      "excerpt": "From predictive chemistry to robotics, AI tools are standardizing workflows to deliver therapies at scale. The post AI Accelerates Biomanufacturing from Discovery to Translation appeared first on GEN - Genetic Engineering and Biotechnology News.",
-      "headline": "AI Accelerates Biomanufacturing from Discovery to Translation"
-    },
-    {
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-09-08T14:00:15Z",
-      "og_image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
-      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "headline": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202609/we-trust-ai-with-our-health-but-not-with-our-shopping",
+      "headline": "We trust AI with our health but not with our shopping",
+      "published_iso": "2026-09-18T10:57:09-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/alexander-sinn-kgltfcgfc28-unsplash.jpg?h=68dc5491&itok=MFVcWJ34",
+      "axis": "AI trust research",
+      "excerpt": "Consumer studies show people accept AI advice on medical questions while rejecting it for purchases. The asymmetry points to how perceived expertise, not risk, drives algorithmic trust.",
+      "category": "science"
     }
   ],
   "dedup": {
-    "dropped": 10,
-    "kept": 14,
+    "dropped": 7,
+    "kept": 10,
     "against_days": 5
   }
 }

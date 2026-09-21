@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "movies",
+  "generated_by": "ax-media",
   "media": [
     {
-      "id": "movies-premiere-generative",
+      "id": "movies-switchx-reframe",
+      "type": "image",
+      "src": "pipeline/media/movies-switchx-reframe.jpg"
+    },
+    {
+      "id": "movies-eddie-ai-v4",
+      "type": "image",
+      "src": "pipeline/media/movies-eddie-ai-v4.jpg"
+    },
+    {
+      "id": "movies-ibc-splat-pipeline",
+      "type": "image",
+      "src": "pipeline/media/movies-ibc-splat-pipeline.jpg"
+    },
+    {
+      "id": "movies-cruise-bafta-real",
+      "type": "image",
+      "src": "pipeline/media/movies-cruise-bafta-real.jpg"
+    },
+    {
+      "id": "movies-2d-world-model-track",
       "type": "video",
-      "src": "pipeline/media/movies-premiere-generative.mp4",
-      "poster": "pipeline/media/movies-premiere-generative.jpg"
-    },
-    {
-      "id": "movies-visionquest-no-genai",
-      "type": "image",
-      "src": "pipeline/media/movies-visionquest-no-genai.jpg"
-    },
-    {
-      "id": "movies-hope-mocap",
-      "type": "video",
-      "src": "pipeline/media/movies-hope-mocap.mp4",
-      "poster": "pipeline/media/movies-hope-mocap.jpg"
-    },
-    {
-      "id": "movies-hollywood-ai-warnings",
-      "type": "image",
-      "src": "pipeline/media/movies-hollywood-ai-warnings.jpg"
-    },
-    {
-      "id": "movies-variety-ai-panel",
-      "type": "image",
-      "src": "pipeline/media/movies-variety-ai-panel.jpg"
+      "src": "pipeline/media/movies-2d-world-model-track.mp4",
+      "poster": "pipeline/media/movies-2d-world-model-track.jpg"
     }
   ]
 }
