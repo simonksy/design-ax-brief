@@ -1341,12 +1341,13 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
 
 /* ---- ThemedPage: section tabs + hero carousel + weekly deck timeline (one theme) ---- */
 /* ---- InsightsView (Pro 전용): 전 분야 뉴스 지식 네트워크 ----
-   세로 3분할: [네트워크 창 | 클릭된 노드의 뉴스 카드 | 연관 뉴스 리스트].
-   네트워크는 처음처럼 별도의 창(히어로와 같은 라운드 프레임) 안에 담기고,
-   세 칸의 높이는 가운데 뉴스 카드(480:760)가 정한다 — 연관 뉴스 열은 그
-   높이에 고정되어 넘치면 열 내부만 세로 스크롤. 메인 카드는 본 사이트
-   히어로 프레임(불투명 t.cardSolid·t.radius) 안의 FlipCard 그대로
-   (Read/Share, 플립 시 /api/premium/full 전문 + SourceLine). */
+   상단 2분할 [3D 네트워크 창 | 클릭된 노드의 뉴스 카드] + 하단 연관 뉴스
+   카루셀(본 사이트 과거 5일 필름스트립 형식, 넘치면 가로 스크롤).
+   네트워크는 3d-force-graph의 구(球) 레이아웃 — 선택이 없으면 지구본처럼
+   천천히 자전하고, 노드를 선택하면 멈춘다. 카메라는 위치 고정: 노드를
+   클릭해도 화면이 따라 움직이지 않고, 줌은 항상 처음 중심점 기준(팬 비활성).
+   메인 카드는 히어로 프레임 안의 FlipCard 그대로(Read/Share, 플립 시
+   /api/premium/full 전문 + SourceLine). */
 const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#171717',
@@ -1355,10 +1356,10 @@ const INSIGHTS_LABELS = {
   design: 'Design', music: 'Music', movies: 'Movies', games: 'Games',
   books: 'Books', gadgets: 'Gadgets', science: 'Science', politics: 'Politics',
 };
-const INSIGHTS_CARD_W = 384;    // 가운데 뉴스 카드 열 너비
-const INSIGHTS_LIST_W = 330;    // 오른쪽 연관 뉴스 열 너비
+const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
 const INSIGHTS_GAP = 14;
-const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 세 칸 공통 높이
+const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
+const INSIGHTS_DIM = '#d8d3c9';   // 포커스 밖 노드·엣지 색 (베이지 톤 저채도)
 
 function insightsLoadScript(src) {
   return new Promise((res, rej) => {
@@ -1368,31 +1369,26 @@ function insightsLoadScript(src) {
   });
 }
 
-/* 연관 뉴스 행 맨 왼쪽의 노드 점 — 색만 그래프와 동일, 크기는 최소 노드로 통일 */
-function NodeDot({ node }) {
-  return (
-    <span aria-hidden style={{ flex: '0 0 18px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-      <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[node.section] || '#8a8377' }} />
-    </span>
-  );
-}
-
 function InsightsView({ t, mobile }) {
   const graphBoxRef = useRef();
-  const graphRef = useRef(null);       // ForceGraph instance
+  const graphRef = useRef(null);       // ForceGraph3D instance
   const dataRef = useRef({ nb: {}, adj: {}, card: {}, nodeById: {} });
   const selRef = useRef(null);
   const hoverRef = useRef(null);       // 그래프 위 직접 호버
-  const pulseRef = useRef(null);       // 리스트 행 호버 → {id, dir, t0} 확대 애니메이션
+  const pulseRef = useRef(null);       // 카루셀 카드 호버 → 노드 확대 대상 id
   const [ready, setReady] = useState(false);
   const [failed, setFailed] = useState(false);
   const [sel, setSel] = useState(null);        // 선택된 노드 id
   const [, bump] = useState(0);                // D 채운 뒤 패널 리렌더용
+  const searchRef = useRef(null);              // 검색 매치 id Set (null = 검색 꺼짐)
+  const [query, setQuery] = useState('');
+  const stripRef = useRef();
+  const [stripNav, setStripNav] = useState({ l: false, r: false });
 
   useEffect(() => {
     let alive = true;
     const jobs = [];
-    if (!window.ForceGraph) jobs.push(insightsLoadScript('/vendor/force-graph.min.js'));
+    if (!window.ForceGraph3D) jobs.push(insightsLoadScript('/vendor/3d-force-graph.min.js'));
     if (!window.AX_ARCHIVE) jobs.push(insightsLoadScript('/archive-data.js?v=' + Date.now()));
     if (!window.AX_GRAPH) jobs.push(insightsLoadScript('/archive-graph.js?v=' + Date.now()));
     Promise.all(jobs).then(() => { if (alive) setReady(true); }).catch(() => { if (alive) setFailed(true); });
@@ -1414,62 +1410,61 @@ function InsightsView({ t, mobile }) {
       (D.adj[tg] = D.adj[tg] || []).push({ id: s, w: l.w, kw: l.kw });
     });
     window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑)
-    bump((x) => x + 1);     // D가 채워졌으니 기본 패널(최신 카드 행)을 다시 그린다
+    bump((x) => x + 1);     // D가 채워졌으니 카루셀(최신 카드)을 다시 그린다
     const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
-    const pulsedId = () => (pulseRef.current && pulseRef.current.dir ? pulseRef.current.id : null);
     const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
-    const rgba = (hex, a) => {
-      const v = parseInt((hex || '#888888').slice(1), 16);
-      return 'rgba(' + ((v >> 16) & 255) + ',' + ((v >> 8) & 255) + ',' + (v & 255) + ',' + a + ')';
-    };
-    const ease = (p) => 1 - Math.pow(1 - p, 3);
-    const pulseScale = (id) => {
-      const p = pulseRef.current;
-      if (!p || p.id !== id) return 1;
-      const q = Math.min(1, (performance.now() - p.t0) / 220);
-      if (p.dir) return 1 + 0.9 * ease(q);
-      const back = 1.9 - 0.9 * ease(q);
-      if (q >= 1) pulseRef.current = null;
-      return Math.max(1, back);
-    };
-    const g = ForceGraph()(el)
+
+    const g = ForceGraph3D({ rendererConfig: { antialias: true, powerPreference: 'high-performance' } })(el)
       .graphData({ nodes: GD.nodes.map((n) => Object.assign({}, n)), links: GD.links.map((l) => ({ source: l.source, target: l.target, w: l.w, kw: l.kw })) })
       .nodeId('id')
-      .nodeRelSize(3.2)
+      .nodeRelSize(3.4)
       .nodeVal((n) => Math.max(1, n.val || 1))
-      .autoPauseRedraw(false)
+      .nodeOpacity(0.92)
+      .nodeResolution(6)          // 구 세그먼트 축소 — 2천 개 스피어 삼각형 수 대폭 절감
+      .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
+      .warmupTicks(60)
+      .backgroundColor('rgba(0,0,0,0)')
+      .showNavInfo(false)
       .nodeColor((n) => {
+        const sset = searchRef.current;
+        if (sset) return sset.has(n.id) ? secColor(n) : INSIGHTS_DIM;   // 검색 모드
         const f = focus();
         if (!f) return secColor(n);
         if (n.id === f || (D.nb[f] && D.nb[f][n.id])) return secColor(n);
-        return 'rgba(120,115,105,0.10)';
+        return INSIGHTS_DIM;
       })
       .linkColor((l) => {
-        const f = focus(), pid = pulsedId();
+        const sset = searchRef.current;
+        const s0 = l.source.id || l.source, t0 = l.target.id || l.target;
+        if (sset) {
+          if (sset.has(s0) && sset.has(t0)) { const sn = D.nodeById[s0]; return sn ? secColor(sn) : '#8a8377'; }
+          return INSIGHTS_DIM;
+        }
+        const f = focus(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
-        // 행 호버 중: 선택 노드 ↔ 호버 노드를 잇는 엣지는 최우선으로 진하게
         if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) {
           const pn = D.nodeById[pid];
-          return rgba(pn ? secColor(pn) : '#8a8377', 0.95);
+          return pn ? secColor(pn) : '#8a8377';
         }
         if (f && (s === f || tg === f)) {
           const fn = D.nodeById[f];
-          return rgba(fn ? secColor(fn) : '#8a8377', 0.6);
+          return fn ? secColor(fn) : '#8a8377';
         }
-        return 'rgba(120,115,105,0.13)';
+        return INSIGHTS_DIM;
       })
+      .linkOpacity(0.35)
       .linkWidth((l) => {
-        const f = focus(), pid = pulsedId();
+        const f = focus(), pid = pulseRef.current;
         const s = l.source.id || l.source, tg = l.target.id || l.target;
-        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 3.2;
-        return (f && (s === f || tg === f)) ? 1.8 : 0.7;
+        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 3;
+        return (f && (s === f || tg === f)) ? 1.4 : 0;
       })
       .nodeLabel((n) => {
         const c = D.card[n.id];
         if (!c) return n.label;
         const chip = '<span style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;color:#fff;background:' + secColor(n) + ';border-radius:999px;padding:2px 7px;">' + (c.tool || n.section) + '</span>';
         const img = c.image ? '<img src="/' + c.image + '" style="flex:0 0 76px;width:76px;height:56px;border-radius:8px;object-fit:cover;background:#e8e2d6" />' : '';
-        return '<div style="display:flex;gap:10px;align-items:flex-start;width:320px;background:#fff;border:1px solid #e6dfd3;border-radius:14px;padding:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);font-family:Pretendard,sans-serif;color:#171717;white-space:normal">' +
+        return '<div style="display:flex;gap:10px;align-items:flex-start;width:320px;background:#fff;border:1px solid #e6dfd3;border-radius:14px;padding:10px;box-shadow:0 8px 24px rgba(0,0,0,.10);font-family:Pretendard,sans-serif;color:#171717;white-space:normal;text-align:left">' +
           img + '<div style="min-width:0">' +
           '<div style="display:flex;gap:7px;align-items:center;margin-bottom:3px">' + chip +
             '<span style="font-size:10.5px;color:#8a8377">' + n.date.replace(/-/g, '.') + ' · ' + (c.source || '') + '</span></div>' +
@@ -1477,56 +1472,132 @@ function InsightsView({ t, mobile }) {
           '<div style="font-size:11.5px;color:#57534a;line-height:1.45;margin-top:2px">' + (c.body || '') + '</div>' +
           '</div></div>';
       })
-      .onNodeHover((n) => { hoverRef.current = n || null; el.style.cursor = n ? 'pointer' : 'default'; })
-      .onNodeClick((n) => { if (n) { selRef.current = n.id; setSel(n.id); g.centerAt(n.x, n.y, 500); } })
-      .onBackgroundClick(() => { selRef.current = null; setSel(null); })   // 빈 곳 클릭 → 선택 해제
-      .nodeCanvasObjectMode(() => 'after')
-      .nodeCanvasObject((node, ctx, scale) => {
-        // 리스트 행 호버 → 해당 노드 확대 + 링 + 라벨 (연결 엣지는 linkColor에서 강조)
-        const s = pulseScale(node.id);
-        if (s > 1.01) {
-          const r = 3.2 * Math.sqrt(Math.max(1, node.val)) * s;
-          ctx.beginPath(); ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
-          ctx.fillStyle = secColor(node); ctx.fill();
-          ctx.beginPath(); ctx.arc(node.x, node.y, r + 3 / scale, 0, 2 * Math.PI);
-          ctx.strokeStyle = secColor(node); ctx.globalAlpha = 0.35; ctx.lineWidth = 3 / scale;
-          ctx.stroke(); ctx.globalAlpha = 1;
-          ctx.font = 'bold ' + Math.max(11, 12 / scale) + 'px Pretendard, sans-serif';
-          ctx.textAlign = 'center'; ctx.textBaseline = 'bottom';
-          ctx.fillStyle = '#171717';
-          ctx.fillText((node.label || '').slice(0, 22), node.x, node.y - r - 4 / scale);
-        }
-        if (scale >= 2.4) {
-          ctx.font = (11 / scale) + 'px Pretendard, sans-serif';
-          ctx.textAlign = 'center'; ctx.textBaseline = 'top';
-          ctx.fillStyle = '#171717';
-          ctx.fillText((node.label || '').slice(0, 24), node.x, node.y + Math.sqrt(Math.max(1, node.val)) * 3.2 / scale + 1.5);
-        }
+      .onNodeHover((n) => {
+        hoverRef.current = n || null;
+        el.style.cursor = n ? 'pointer' : 'default';
+        restyle();
       })
-      .backgroundColor('rgba(0,0,0,0)')
+      .onNodeClick((n) => {
+        if (!n) return;
+        selRef.current = n.id; setSel(n.id);
+        setRotate(false);          // 노드 선택 → 자전 멈춤 (카메라 이동 없음)
+        restyle();
+      })
+      .onBackgroundClick(() => {   // 빈 곳 클릭 → 선택 해제 + 자전 재개
+        selRef.current = null; setSel(null);
+        setRotate(true);
+        restyle();
+      })
       .width(el.clientWidth).height(el.clientHeight)
-      .cooldownTicks(120);
-    g.d3Force('charge').strength(-28);
+      .cooldownTicks(90);
+
+    // 스타일 accessor 재평가 트리거 (vasturiano 권장 패턴)
+    const restyle = () => { g.nodeColor(g.nodeColor()).linkColor(g.linkColor()).linkWidth(g.linkWidth()); };
+    // 지구본 자전 — OrbitControls autoRotate. 줌은 항상 타깃(초기 중심점) 기준,
+    // 팬을 꺼서 중심점이 흐트러지지 않게 한다.
+    try { g.renderer().setPixelRatio(Math.min(1.5, window.devicePixelRatio || 1)); } catch (e) {}
+    // 깊이 페이드(안개) — 구 뒤쪽 노드일수록 배경색으로 흐려져 입체감이 살아난다
+    try {
+      const T = window.THREE;
+      if (T && T.FogExp2) g.scene().fog = new T.FogExp2('#f3ecdf', 0.0015);
+    } catch (e) {}
+    const controls = g.controls();
+    controls.enablePan = false;
+    controls.autoRotateSpeed = 0.55;
+    const setRotate = (on) => { controls.autoRotate = on && !selRef.current; };
+    setRotate(true);
+    g.__setRotate = setRotate; g.__restyle = restyle;   // 카루셀 핸들러에서 사용
     let fitted = false;
-    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(400, 30); } });
+    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(600, 40); } });
     graphRef.current = g;
-    // 초기 렌더 타이밍에 따라 clientWidth가 어긋날 수 있어 컨테이너 크기를 관찰해 따라간다
+    // 상시 이펙트 루프 — 선택된 노드와 이웃은 살짝 커진 채 깜빡이고(스케일·투명도
+    // 오실레이션), 카루셀 호버 노드는 더 크게. 나머지는 1로 부드럽게 복귀.
+    let fxRaf = 0;
+    const fxT0 = performance.now();
+    const fxLoop = (now) => {
+      const f = selRef.current, pid = pulseRef.current;
+      const ph = (now - fxT0) / 1000;
+      const blink = 0.5 + 0.5 * Math.sin(ph * 4.5);
+      g.graphData().nodes.forEach((n) => {
+        const o = n.__threeObj; if (!o) return;
+        let target = 1;
+        const lit = f && (n.id === f || (D.nb[f] && D.nb[f][n.id]));
+        if (lit) {
+          target = (n.id === f ? 1.85 : 1.45) * (1 + 0.09 * Math.sin(ph * 4.5));
+          if (!o.__axMat) { o.__axMat = 1; o.material = o.material.clone(); o.material.transparent = true; }
+          o.material.opacity = 0.62 + 0.38 * blink;   // 깜빡임
+        } else if (o.__axMat) { delete o.__axMat; }    // restyle이 공유 머티리얼로 되돌려 놓는다
+        if (pid === n.id) target = Math.max(target, 2.2);
+        if (Math.abs(o.scale.x - target) > 0.004) {
+          const s = o.scale.x + (target - o.scale.x) * 0.18;
+          o.scale.set(s, s, s);
+        }
+      });
+      fxRaf = requestAnimationFrame(fxLoop);
+    };
+    fxRaf = requestAnimationFrame(fxLoop);
     const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
     const ro = new ResizeObserver(onResize);
     ro.observe(el);
     window.addEventListener('resize', onResize);
     requestAnimationFrame(onResize);
-    return () => { ro.disconnect(); window.removeEventListener('resize', onResize); if (g._destructor) g._destructor(); graphRef.current = null; };
+    return () => {
+      cancelAnimationFrame(fxRaf);
+      ro.disconnect(); window.removeEventListener('resize', onResize);
+      if (g._destructor) g._destructor();
+      graphRef.current = null;
+    };
   }, [ready]);
 
   const D = dataRef.current;
   const selectFromList = (id) => {
     selRef.current = id; setSel(id);
     const g = graphRef.current;
-    const node = g && g.graphData().nodes.find((n) => n.id === id);
-    if (g && node && node.x != null) g.centerAt(node.x, node.y, 500);
+    if (g) { g.__setRotate(false); g.__restyle(); }
   };
-  const rowHover = (id, on) => { pulseRef.current = { id, dir: on ? 1 : 0, t0: performance.now() }; };
+  /* 키워드 검색 — 매치 노드만 하이라이트, 나머지는 흐리게 */
+  const searchDeb = useRef();
+  const onSearch = (v) => {
+    setQuery(v);
+    clearTimeout(searchDeb.current);
+    searchDeb.current = setTimeout(() => {
+      const q = v.trim().toLowerCase();
+      if (!q) { searchRef.current = null; }
+      else {
+        const hit = new Set();
+        Object.keys(D.card).forEach((k) => {
+          const c = D.card[k];
+          const hay = ((c.headline || '') + ' ' + (c.body || '') + ' ' + (c.tool || '') + ' ' + (c.source || '')).toLowerCase();
+          if (hay.indexOf(q) !== -1) hit.add(k);
+        });
+        searchRef.current = hit;
+      }
+      const g = graphRef.current;
+      if (g) g.__restyle();
+      bump((x) => x + 1);
+    }, 180);
+  };
+
+  /* 카루셀 좌우 화살표 — 넘칠 때만 표시, 클릭 시 한 화면 폭만큼 스크롤 */
+  const stripScrollCheck = () => {
+    const el = stripRef.current;
+    if (!el) return;
+    const l = el.scrollLeft > 4;
+    const r = el.scrollLeft + el.clientWidth < el.scrollWidth - 4;
+    setStripNav((p) => (p.l === l && p.r === r ? p : { l, r }));
+  };
+  const stripScrollBy = (dir) => {
+    const el = stripRef.current;
+    if (el) el.scrollBy({ left: dir * Math.max(320, el.clientWidth * 0.8), behavior: 'smooth' });
+  };
+  useEffect(() => { stripScrollCheck(); });   // 렌더마다 오버플로 재판정 (setState 가드로 안전)
+
+  /* 카루셀 카드 호버 → 해당 노드 확대·엣지 강조 (스케일은 이펙트 루프가 처리) */
+  const rowHover = (id, on) => {
+    pulseRef.current = on ? id : null;
+    const g = graphRef.current;
+    if (g) g.__restyle();   // 연결 엣지 색·굵기 강조 갱신
+  };
   const card = sel ? D.card[sel] : null;
   const selNode = sel ? D.nodeById[sel] : null;
   const neighbors = sel ? (D.adj[sel] || []).slice().sort((a, b) => b.w - a.w) : [];
@@ -1590,7 +1661,7 @@ function InsightsView({ t, mobile }) {
   const stripIds = card ? neighbors.map((e) => e.id) : recent.map((c) => c.section + '/' + c.id);
   return (
     <div style={{ width: '100vw', position: 'relative', left: '50%', transform: 'translateX(-50%)' }}>
-    {/* 상단 2분할: [네트워크 창 | 클릭된 노드의 뉴스 카드] */}
+    {/* 상단 2분할: [3D 네트워크 창 | 클릭된 노드의 뉴스 카드] */}
     <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: INSIGHTS_GAP,
       alignItems: 'flex-start', maxWidth: 1320, margin: '8px auto 0', padding: '0 16px',
       boxSizing: 'border-box' }}>
@@ -1599,14 +1670,18 @@ function InsightsView({ t, mobile }) {
         width: mobile ? '100%' : 'auto',
         height: mobile ? '46vh' : INSIGHTS_H,
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        background: solid, overflow: 'hidden' }}>
+        background: 'radial-gradient(120% 95% at 50% 38%, #fffef9 0%, #f8f3ea 44%, #ece4d4 82%, #e3dbc9 100%)',
+        overflow: 'hidden' }}>
+        {/* 은은한 심도 비네트 — 구가 배경에서 떠 보이게 */}
+        <div aria-hidden style={{ position: 'absolute', inset: 0,
+          boxShadow: 'inset 0 0 120px 30px rgba(120,105,80,.14)', pointerEvents: 'none' }} />
         <div ref={graphBoxRef} style={{ position: 'absolute', inset: 0 }} />
         {!ready && (
           <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
             justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>
         )}
-        {/* 범례 — 창 좌상단: 색=카테고리, 크기=연결 수 */}
-        <div style={{ position: 'absolute', left: 12, top: 12, background: 'rgba(255,255,255,.92)',
+        {/* 범례 — 창 좌측 중앙: 색=카테고리, 크기=연결 수 */}
+        <div style={{ position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,.92)',
           border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
           {Object.keys(INSIGHTS_COLORS).map((s) => (
             <div key={s} style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0' }}>
@@ -1617,6 +1692,21 @@ function InsightsView({ t, mobile }) {
           <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
             크기 = 연결된 뉴스 수
           </div>
+        </div>
+        {/* 키워드 검색 — 창 하단 중앙, 기다란 pill. 매치 노드만 색이 남는다 */}
+        <div style={{ position: 'absolute', left: '50%', transform: 'translateX(-50%)', bottom: 14,
+          width: 'min(520px, 74%)' }}>
+          <input value={query} onChange={(e) => onSearch(e.target.value)}
+            onKeyDown={(e) => { if (e.key === 'Escape') onSearch(''); }}
+            placeholder="키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권"
+            style={{ width: '100%', boxSizing: 'border-box', padding: '11px 20px', borderRadius: 999,
+              border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
+              fontSize: 13, fontFamily: 'inherit', outline: 'none',
+              boxShadow: '0 6px 18px -8px rgba(80,50,40,.25)' }} />
+          {query.trim() && searchRef.current && (
+            <div className="ax-eyebrow" style={{ position: 'absolute', right: 16, top: '50%', transform: 'translateY(-50%)',
+              color: '#8a8377', fontSize: 10, pointerEvents: 'none' }}>{searchRef.current.size}건</div>
+          )}
         </div>
       </div>
       {/* 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
@@ -1639,11 +1729,21 @@ function InsightsView({ t, mobile }) {
         </div>
       </div>
     </div>
-    {/* 하단: 연관 뉴스 카루셀 — 본 사이트 과거 5일 필름스트립 형식 */}
-    <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box' }}>
-      <div className="ax-strip">
+    {/* 하단: 연관 뉴스 카루셀 — 넘치면 좌우 화살표로 가로 스크롤 넛징 */}
+    <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
+      <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
         {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
+      {stripNav.l && (
+        <div style={{ position: 'absolute', left: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
+          <NavButton dir="l" onClick={() => stripScrollBy(-1)} t={t} />
+        </div>
+      )}
+      {stripNav.r && (
+        <div style={{ position: 'absolute', right: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
+          <NavButton dir="r" onClick={() => stripScrollBy(1)} t={t} />
+        </div>
+      )}
     </div>
     </div>
   );
