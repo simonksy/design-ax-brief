@@ -1541,46 +1541,62 @@ function InsightsView({ t, mobile }) {
     motif: c.motif, image: c.image, locked: !!c.has_full, hasFull: false,
   });
 
-  /* 연관 뉴스 행 — [노드 점 | 썸네일 | 헤드라인] (아카이브 리스트의 스몰카드 형식) */
-  const NewsRow = ({ id, kw }) => {
+  /* 연관 뉴스 카드 — 본 사이트 과거 5일 필름스트립(.ax-strip-card)과 같은 형식:
+     4:3 이미지 위 + 툴 아이브로 + 3줄 헤드라인. 맨 앞에 노드 점, 호버 시
+     그래프의 해당 노드가 커지며 하이라이트, 클릭 시 그 노드 선택. */
+  const StripCard = ({ id }) => {
     const c = D.card[id]; const n = D.nodeById[id];
     if (!c || !n) return null;
     return (
-      <div onClick={() => selectFromList(id)}
+      <button className="ax-strip-card" onClick={() => selectFromList(id)}
         onMouseEnter={() => rowHover(id, true)} onMouseLeave={() => rowHover(id, false)}
-        style={{ display: 'flex', gap: 8, alignItems: 'center', background: t.cardSolid || '#fbf8f3', border: t.cardBorder,
-          borderRadius: 13, padding: 8, cursor: 'pointer' }}>
-        <NodeDot node={n} />
-        {c.image
-          ? <img src={'/' + c.image} alt="" loading="lazy"
-              style={{ flex: '0 0 64px', width: 64, height: 48, borderRadius: 9, objectFit: 'cover', background: '#e8e2d6' }} />
-          : <span style={{ flex: '0 0 64px', width: 64, height: 48, borderRadius: 9, background: '#efe9de' }} />}
-        <div style={{ minWidth: 0 }}>
-          <div className="ax-eyebrow" style={{ color: t.faint, fontSize: 10, marginBottom: 2 }}>
-            {(c.tool || n.section)} · {n.date.replace(/-/g, '.')}
-          </div>
-          <div style={{ fontSize: 12.5, fontWeight: 700, lineHeight: 1.35, color: t.hl,
-            display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-            {(c.headline || '').replace(/\n/g, ' ')}
-          </div>
-          {kw && kw.length > 0 && (
-            <div className="ax-eyebrow" style={{ color: t.faint, fontSize: 9.5, marginTop: 2 }}>공유 키워드 · {kw.join(', ')}</div>
+        style={{ width: 168, background: t.feedSolid || t.cardSolid || '#fbf8f3', border: t.feedBorder || t.cardBorder,
+          boxShadow: '0 10px 24px -14px rgba(80,50,40,.5)' }}>
+        <div style={{ position: 'relative', aspectRatio: '4 / 3', overflow: 'hidden', background: '#efe9e1' }}>
+          {c.image ? (
+            <img src={'/' + c.image} alt="" loading="lazy"
+              style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+          ) : (
+            <React.Fragment>
+              <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(150deg,#f6f2ec,#efe9e1)' }} />
+              <div style={{ position: 'absolute', width: '84%', height: '92%', left: '10%', top: '8%', borderRadius: '50%',
+                filter: 'blur(13px)', mixBlendMode: 'multiply', opacity: .85,
+                background: `radial-gradient(circle,${c.accent},transparent 66%)` }} />
+            </React.Fragment>
           )}
         </div>
-      </div>
+        <div style={{ padding: '10px 11px 12px' }}>
+          <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5,
+            display: 'flex', alignItems: 'center', gap: 5 }}>
+            <span aria-hidden style={{ width: 8, height: 8, borderRadius: '50%', flex: '0 0 auto',
+              background: INSIGHTS_COLORS[n.section] || '#8a8377' }} />
+            <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
+              {c.tool} · {n.date.replace(/-/g, '.')}
+            </span>
+          </div>
+          {/* 헤드라인 3줄 고정 높이 — 본 필름스트립 카드와 동일 */}
+          <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
+            display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+            {(c.headline || '').replace(/\n/g, ' ')}
+          </div>
+        </div>
+      </button>
     );
   };
 
   if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
 
   const solid = t.cardSolid || '#fbf8f3';
+  const stripIds = card ? neighbors.map((e) => e.id) : recent.map((c) => c.section + '/' + c.id);
   return (
     <div style={{ width: '100vw', position: 'relative', left: '50%', transform: 'translateX(-50%)' }}>
+    {/* 상단 2분할: [네트워크 창 | 클릭된 노드의 뉴스 카드] */}
     <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: INSIGHTS_GAP,
-      alignItems: 'flex-start', maxWidth: 1320, margin: '8px auto 40px', padding: '0 16px',
+      alignItems: 'flex-start', maxWidth: 1320, margin: '8px auto 0', padding: '0 16px',
       boxSizing: 'border-box' }}>
-      {/* 왼쪽: 네트워크 창 — 히어로와 같은 라운드 프레임, 높이는 카드 열을 따라감 */}
+      {/* 네트워크 창 — 히어로 프레임, 남는 폭 전부 사용 */}
       <div style={{ flex: mobile ? 'none' : '1 1 auto', minWidth: 0, position: 'relative',
+        width: mobile ? '100%' : 'auto',
         height: mobile ? '46vh' : INSIGHTS_H,
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: solid, overflow: 'hidden' }}>
@@ -1603,7 +1619,7 @@ function InsightsView({ t, mobile }) {
           </div>
         </div>
       </div>
-      {/* 가운데: 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
+      {/* 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
       <div style={{ width: mobile ? '100%' : INSIGHTS_CARD_W, flex: 'none' }}>
         <div style={{ aspectRatio: '480 / 760', position: 'relative',
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
@@ -1616,20 +1632,17 @@ function InsightsView({ t, mobile }) {
               alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
               <div className="ax-hl" style={{ fontSize: 19, color: t.hl }}>노드를 클릭해 보세요</div>
               <p className="ax-body" style={{ fontSize: 13.5, lineHeight: 1.6, color: t.body, margin: 0 }}>
-                왼쪽 네트워크에서 뉴스를 고르면 이 자리에 카드가,<br />오른쪽에 직접 연결된 뉴스들이 나타납니다.
+                왼쪽 네트워크에서 뉴스를 고르면 이 자리에 카드가,<br />아래에 직접 연결된 뉴스들이 나타납니다.
               </p>
             </div>
           )}
         </div>
       </div>
-      {/* 오른쪽: 연관 뉴스 — 카드 높이에 맞춰 자체 세로 스크롤 (타이틀 줄 없음) */}
-      <div style={{ width: mobile ? '100%' : INSIGHTS_LIST_W, flex: 'none',
-        minHeight: 0, height: mobile ? 'auto' : INSIGHTS_H, maxHeight: mobile ? '52vh' : INSIGHTS_H,
-        overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 8,
-        paddingRight: 4, boxSizing: 'border-box' }}>
-        {card
-          ? neighbors.map((e) => <NewsRow key={e.id} id={e.id} kw={e.kw} />)
-          : recent.map((c) => <NewsRow key={c.section + '/' + c.id} id={c.section + '/' + c.id} />)}
+    </div>
+    {/* 하단: 연관 뉴스 카루셀 — 본 사이트 과거 5일 필름스트립 형식 */}
+    <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box' }}>
+      <div className="ax-strip">
+        {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
     </div>
     </div>
