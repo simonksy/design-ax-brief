@@ -1375,7 +1375,20 @@ function insightsLoadScript(src) {
   });
 }
 
-function InsightsView({ t, mobile }) {
+function InsightsView({ t, mobile, entitled }) {
+  // 프리미엄 게이트: 비구독자는 노드 1개까지 자유롭게 탐색, 다른 노드를
+  // 선택하려는 순간 Patreon 구독 팝업. (그래프 자체는 모두에게 공개)
+  const entitledRef = useRef(entitled); entitledRef.current = entitled;
+  const freeSelRef = useRef(null);
+  const [showSubscribe, setShowSubscribe] = useState(false);
+  const gateRef = useRef(null);
+  const gateSelect = (id) => {
+    if (entitledRef.current) return true;
+    if (!freeSelRef.current || freeSelRef.current === id) { freeSelRef.current = id; return true; }
+    setShowSubscribe(true);
+    return false;
+  };
+  gateRef.current = gateSelect;
   const graphBoxRef = useRef();
   const graphRef = useRef(null);       // ForceGraph3D instance
   const dataRef = useRef({ nb: {}, adj: {}, card: {}, nodeById: {} });
@@ -1525,6 +1538,7 @@ function InsightsView({ t, mobile }) {
       })
       .onNodeClick((n) => {
         if (!n) return;
+        if (gateRef.current && !gateRef.current(n.id)) return;   // 비구독 2번째 노드 → 구독 팝업
         selRef.current = n.id; setSel(n.id);
         setRotate(false);          // 노드 선택 → 자전 멈춤
         orientLinks(n.id);         // 신호 파티클이 바깥으로 흐르게 방향 정렬
@@ -1809,6 +1823,7 @@ function InsightsView({ t, mobile }) {
 
   const D = dataRef.current;
   const selectFromList = (id) => {
+    if (!gateSelect(id)) return;
     selRef.current = id; setSel(id);
     const g = graphRef.current;
     if (!g) return;
@@ -1887,7 +1902,9 @@ function InsightsView({ t, mobile }) {
   const toItem = (c) => ({
     id: c.id, eyebrow: 'AI NEWS', headline: c.headline, body: c.body,
     tool: c.tool, source: c.source, url: c.url, accent: c.accent,
-    motif: c.motif, image: c.image, locked: !!c.has_full, hasFull: false,
+    motif: c.motif, image: c.image,
+    // Pro: locked 플립(전문). 무료: 플립 없이 원문 링크(SourceLine)만
+    locked: entitled ? !!c.has_full : false, hasFull: false,
   });
 
   /* 연관 뉴스 카드 — 본 사이트 과거 5일 필름스트립(.ax-strip-card)과 같은 형식:
@@ -2050,7 +2067,7 @@ function InsightsView({ t, mobile }) {
           background: solid, overflow: 'clip' }}>
           {card ? (
             <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
-              t={t} mobile={false} section={selNode.section} entitled={true} />
+              t={t} mobile={false} section={selNode.section} entitled={entitled} />
           ) : (
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column',
               alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
@@ -2063,6 +2080,7 @@ function InsightsView({ t, mobile }) {
         </div>
       </div>
     </div>
+    {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     {/* 하단: 연관 뉴스 카루셀 — 넘치면 좌우 화살표로 가로 스크롤 넛징 */}
     <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
@@ -2220,7 +2238,7 @@ function ThemedPage({ themeKey }) {
   };
   const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
   const hasNews = (cur.news || []).length > 0;
-  const insightsOn = view === 'insights' && auth.entitled;
+  const insightsOn = view === 'insights';   // Knowledge Graph는 전원 공개(내부에서 프리미엄 게이트)
   return (
     <div style={{ position: 'relative', minHeight: '100vh', overflow: 'visible', background: t.briefBg, boxSizing: 'border-box' }}>
       {/* The animated, full-screen, blurred + mix-blended backdrop is the page's
@@ -2231,7 +2249,7 @@ function ThemedPage({ themeKey }) {
       {isMobile && (
         <MobileStickyHeader t={t} stuckTitle={stuckTitle} stuckTabs={stuckTabs} ds={ds} gutter={gutter}
           sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection}
-          showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights}
+          showInsights={true} insightsActive={insightsOn} onInsights={openInsights}
           onTitle={() => window.scrollTo({ top: 0, behavior: 'smooth' })} />
       )}
       <div className="ax-shell">
@@ -2240,7 +2258,7 @@ function ThemedPage({ themeKey }) {
         </div>
         <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-            showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights} />
+            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} />
         </div>
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (
@@ -2254,7 +2272,7 @@ function ThemedPage({ themeKey }) {
           </div>
         )}
         {insightsOn ? (
-          <InsightsView t={t} mobile={isMobile} />
+          <InsightsView t={t} mobile={isMobile} entitled={auth.entitled} />
         ) : hasNews ? (
           <React.Fragment>
             {/* HERO — centered vertical card (flips in place to the full article).
