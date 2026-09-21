@@ -1589,21 +1589,18 @@ function InsightsView({ t, mobile }) {
     setRotate(true);
     g.__setRotate = setRotate; g.__restyle = restyle;   // 카루셀 핸들러에서 사용
     let fitted = false;
+    let fitDist = 0;   // fit 직후 카메라 거리 — 줌인 판정 기준
     g.onEngineStop(() => {
       if (fitted) return;
       fitted = true;
       g.zoomToFit(600, 40);
-      // fit 후 적도 높이로 정렬 — 처음부터 지구본 자전처럼 보이게
+      // 카메라는 건드리지 않는다(추가 회전 애니메이션 없음) — fit이 끝나면
+      // 안개 near/far와 줌 기준 거리만 보정한다.
       setTimeout(() => {
         try {
           const tgt = controls.target, cam = g.camera();
-          const ox = cam.position.x - tgt.x, oy = cam.position.y - tgt.y, oz = cam.position.z - tgt.z;
-          const dist = Math.sqrt(ox * ox + oy * oy + oz * oz);
-          const horiz = Math.sqrt(ox * ox + oz * oz) || 1e-6;
-          const k = Math.sqrt(dist * dist - (dist * 0.12) * (dist * 0.12)) / horiz;
-          g.cameraPosition({ x: tgt.x + ox * k, y: tgt.y + dist * 0.12, z: tgt.z + oz * k },
-            { x: tgt.x, y: tgt.y, z: tgt.z }, 700);
-          // 구 반경 기준으로 안개 재보정: 앞면은 또렷, 뒷면만 페이드
+          const dist = cam.position.distanceTo(tgt);
+          fitDist = dist;
           let R = 0;
           g.graphData().nodes.forEach((n) => {
             const d2 = (n.x || 0) ** 2 + (n.y || 0) ** 2 + (n.z || 0) ** 2;
@@ -1692,6 +1689,16 @@ function InsightsView({ t, mobile }) {
       });
       if (!extrasReady) extrasReady = initSceneExtras();
       syncBaseLines();
+      // 기본 엣지선(hairball)은 자전 중엔 숨기고, 노드를 선택했거나 기준 거리의
+      // 80% 이내로 줌인했을 때만 부드럽게 나타난다.
+      if (baseLines) {
+        const camDist = g.camera().position.distanceTo(controls.target);
+        const wantLines = !!selRef.current || (fitDist > 0 && camDist < fitDist * 0.8);
+        const targetOp = wantLines ? 0.3 : 0;
+        const m = baseLines.material;
+        if (Math.abs(m.opacity - targetOp) > 0.005) m.opacity += (targetOp - m.opacity) * 0.12;
+        baseLines.visible = m.opacity > 0.015;
+      }
       fxRaf = requestAnimationFrame(fxLoop);
     };
     fxRaf = requestAnimationFrame(fxLoop);
