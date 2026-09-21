@@ -60,9 +60,12 @@ def teaser(card):
     return {k: card.get(k) for k in KEEP if card.get(k) is not None}
 
 
-def fold(archive, data):
+def fold(archive, data, fulls=None):
     """Merge one news_data dict into the archive index. Earliest-wins on
-    (section, id) and (section, url). Returns number of new cards."""
+    (section, id) and (section, url). Returns number of new cards.
+    When `fulls` (dict) is given, also collect each card's premium `full`
+    blocks keyed "section/id" — replays newest-last, so the newest version
+    of a full wins."""
     by_id = {(c["section"], c["id"]): c for c in archive}
     by_url = {(c["section"], c.get("url")): c for c in archive if c.get("url")}
     added = 0
@@ -70,6 +73,10 @@ def fold(archive, data):
         cid, url = card.get("id"), card.get("url")
         if not cid:
             continue
+        if fulls is not None:
+            blocks = (card.get("full") or {}).get("blocks")
+            if blocks:
+                fulls[f"{sec}/{cid}"] = {"blocks": blocks}
         old = by_id.get((sec, cid)) or (url and by_url.get((sec, url)))
         if old:
             if date < old["date"]:  # earliest-wins if history replays out of order
@@ -85,7 +92,7 @@ def fold(archive, data):
     return added
 
 
-def backfill(archive):
+def backfill(archive, fulls=None):
     """Replay every committed revision of news_data.json, oldest first."""
     rel = "pipeline/news_data.json"
     shas = subprocess.run(
@@ -102,8 +109,28 @@ def backfill(archive):
             data = json.loads(blob.stdout)
         except json.JSONDecodeError:
             continue
-        total += fold(archive, data)
+        total += fold(archive, data, fulls)
     return total, len(shas)
+
+
+def merge_premium_fulls(fulls, prem_path):
+    """Fold history-recovered fulls into the cumulative premium/full.json —
+    setdefault only: an entry build_data.py already stashed (the current,
+    authoritative version) is never overwritten. Returns the merged key set."""
+    merged = {}
+    if os.path.exists(prem_path):
+        try:
+            with open(prem_path, encoding="utf-8") as f:
+                old = json.load(f)
+            merged = dict(old.get("cards", old) or {})
+        except (json.JSONDecodeError, OSError):
+            merged = {}
+    for k, v in fulls.items():
+        merged.setdefault(k, v)
+    os.makedirs(os.path.dirname(prem_path), exist_ok=True)
+    with open(prem_path, "w", encoding="utf-8") as f:
+        json.dump({"cards": merged}, f, ensure_ascii=False, indent=2)
+    return set(merged.keys())
 
 
 def prune_missing_images(archive):
@@ -250,6 +277,7 @@ def main(argv):
     ap.add_argument("--news", default=os.path.join(HERE, "news_data.json"))
     ap.add_argument("--out", default=os.path.join(ROOT, "archive-data.js"))
     ap.add_argument("--graph-out", default=os.path.join(ROOT, "archive-graph.js"))
+    ap.add_argument("--premium", default=os.path.join(ROOT, "premium", "full.json"))
     a = ap.parse_args(argv)
 
     archive = []
@@ -257,12 +285,20 @@ def main(argv):
         archive = json.load(open(a.archive, encoding="utf-8"))["cards"]
 
     picked_up = 0
+    fulls = {}
     if a.backfill:
-        picked_up, revs = backfill(archive)
-        print(f"backfill: {revs} revisions replayed, +{picked_up} cards")
+        picked_up, revs = backfill(archive, fulls)
+        print(f"backfill: {revs} revisions replayed, +{picked_up} cards, "
+              f"{len(fulls)} fulls recovered")
 
     with open(a.news, encoding="utf-8") as f:
-        added = fold(archive, json.load(f))
+        added = fold(archive, json.load(f), fulls)
+
+    # cumulative premium map + per-card has_full flag (boolean only — the blocks
+    # themselves stay behind the /premium gate)
+    full_keys = merge_premium_fulls(fulls, a.premium)
+    for c in archive:
+        c["has_full"] = (c["section"] + "/" + c["id"]) in full_keys
 
     prune_missing_images(archive)
     archive.sort(key=lambda c: (c["date"], c["section"], c["id"]))

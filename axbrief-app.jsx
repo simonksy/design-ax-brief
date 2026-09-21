@@ -1341,9 +1341,12 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
 
 /* ---- ThemedPage: section tabs + hero carousel + weekly deck timeline (one theme) ---- */
 /* ---- InsightsView (Pro 전용): 전 분야 뉴스 지식 네트워크 ----
-   좌: force-graph(섹션별 색·연결 수 비례 크기·범례), 우: 선택 카드 패널.
-   패널은 자체 스크롤 없이 페이지 흐름으로 자라고, 그래프 칸은 sticky로 남는다.
-   데이터(archive-data.js / archive-graph.js / vendor force-graph)는 진입 시 지연 로드. */
+   그래프는 화면 전체에 고정 배경으로 깔리고(헤더·패널이 HUD처럼 위에 뜬다),
+   우측 패널은 페이지 흐름으로 자라 페이지 스크롤로 내려본다(자체 스크롤 없음).
+   메인 카드는 본 사이트 히어로와 동일한 FlipCard(Read/Share, 플립 전문 뷰 —
+   전문은 /api/premium/full에서 로드, 맨 아래 SourceLine 원문 링크까지 동일).
+   연관 뉴스 행 호버 시 그래프의 해당 노드가 커지고, 선택 노드와의 연결 엣지가
+   굵게 밝아진다(레이아웃상 멀리 떨어진 이웃도 관계가 바로 보이게). */
 const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#171717',
@@ -1381,7 +1384,7 @@ function InsightsView({ t, mobile }) {
   const [ready, setReady] = useState(false);
   const [failed, setFailed] = useState(false);
   const [sel, setSel] = useState(null);        // 선택된 노드 id
-  const [, setTick] = useState(0);             // 패널 갱신용
+  const [, bump] = useState(0);                // D 채운 뒤 패널 리렌더용
 
   useEffect(() => {
     let alive = true;
@@ -1407,15 +1410,21 @@ function InsightsView({ t, mobile }) {
       (D.adj[s] = D.adj[s] || []).push({ id: tg, w: l.w, kw: l.kw });
       (D.adj[tg] = D.adj[tg] || []).push({ id: s, w: l.w, kw: l.kw });
     });
+    window.__axi = { D };   // 콘솔 검증용 (인접·카드 매핑)
+    bump((x) => x + 1);     // D가 채워졌으니 기본 패널(최신 카드 행)을 다시 그린다
     const focus = () => (hoverRef.current ? hoverRef.current.id : selRef.current);
+    const pulsedId = () => (pulseRef.current && pulseRef.current.dir ? pulseRef.current.id : null);
     const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
+    const rgba = (hex, a) => {
+      const v = parseInt((hex || '#888888').slice(1), 16);
+      return 'rgba(' + ((v >> 16) & 255) + ',' + ((v >> 8) & 255) + ',' + (v & 255) + ',' + a + ')';
+    };
     const ease = (p) => 1 - Math.pow(1 - p, 3);
     const pulseScale = (id) => {
       const p = pulseRef.current;
       if (!p || p.id !== id) return 1;
       const q = Math.min(1, (performance.now() - p.t0) / 220);
-      const grown = 1 + 0.9 * ease(q);
-      if (p.dir) return grown;
+      if (p.dir) return 1 + 0.9 * ease(q);
       const back = 1.9 - 0.9 * ease(q);
       if (q >= 1) pulseRef.current = null;
       return Math.max(1, back);
@@ -1433,19 +1442,23 @@ function InsightsView({ t, mobile }) {
         return 'rgba(120,115,105,0.10)';
       })
       .linkColor((l) => {
-        const f = focus();
+        const f = focus(), pid = pulsedId();
         const s = l.source.id || l.source, tg = l.target.id || l.target;
+        // 행 호버 중: 선택 노드 ↔ 호버 노드를 잇는 엣지는 최우선으로 진하게
+        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) {
+          const pn = D.nodeById[pid];
+          return rgba(pn ? secColor(pn) : '#8a8377', 0.95);
+        }
         if (f && (s === f || tg === f)) {
           const fn = D.nodeById[f];
-          const hx = fn ? (INSIGHTS_COLORS[fn.section] || '#8a8377') : '#8a8377';
-          const nvi = parseInt(hx.slice(1), 16);
-          return 'rgba(' + ((nvi >> 16) & 255) + ',' + ((nvi >> 8) & 255) + ',' + (nvi & 255) + ',0.6)';
+          return rgba(fn ? secColor(fn) : '#8a8377', 0.6);
         }
         return 'rgba(120,115,105,0.13)';
       })
       .linkWidth((l) => {
-        const f = focus();
+        const f = focus(), pid = pulsedId();
         const s = l.source.id || l.source, tg = l.target.id || l.target;
+        if (pid && f && ((s === f && tg === pid) || (s === pid && tg === f))) return 3.2;
         return (f && (s === f || tg === f)) ? 1.8 : 0.7;
       })
       .nodeLabel((n) => {
@@ -1465,15 +1478,19 @@ function InsightsView({ t, mobile }) {
       .onNodeClick((n) => { if (n) { selRef.current = n.id; setSel(n.id); g.centerAt(n.x, n.y, 500); } })
       .nodeCanvasObjectMode(() => 'after')
       .nodeCanvasObject((node, ctx, scale) => {
-        // 리스트 행 호버 → 해당 노드 확대 + 링 하이라이트 (부드럽게 커졌다 돌아온다)
+        // 리스트 행 호버 → 해당 노드 확대 + 링 + 라벨 (연결 엣지는 linkColor에서 강조)
         const s = pulseScale(node.id);
         if (s > 1.01) {
           const r = 3.2 * Math.sqrt(Math.max(1, node.val)) * s;
           ctx.beginPath(); ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
           ctx.fillStyle = secColor(node); ctx.fill();
-          ctx.beginPath(); ctx.arc(node.x, node.y, r + 2.5 / scale, 0, 2 * Math.PI);
-          ctx.strokeStyle = secColor(node); ctx.globalAlpha = 0.35; ctx.lineWidth = 2.5 / scale;
+          ctx.beginPath(); ctx.arc(node.x, node.y, r + 3 / scale, 0, 2 * Math.PI);
+          ctx.strokeStyle = secColor(node); ctx.globalAlpha = 0.35; ctx.lineWidth = 3 / scale;
           ctx.stroke(); ctx.globalAlpha = 1;
+          ctx.font = 'bold ' + Math.max(11, 12 / scale) + 'px Pretendard, sans-serif';
+          ctx.textAlign = 'center'; ctx.textBaseline = 'bottom';
+          ctx.fillStyle = '#171717';
+          ctx.fillText((node.label || '').slice(0, 22), node.x, node.y - r - 4 / scale);
         }
         if (scale >= 2.4) {
           ctx.font = (11 / scale) + 'px Pretendard, sans-serif';
@@ -1483,13 +1500,13 @@ function InsightsView({ t, mobile }) {
         }
       })
       .backgroundColor('rgba(0,0,0,0)')
-      .width(el.clientWidth).height(el.clientHeight)
+      .width(window.innerWidth).height(window.innerHeight)
       .cooldownTicks(120);
     g.d3Force('charge').strength(-28);
     let fitted = false;
-    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(400, 30); } });
+    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(400, 60); } });
     graphRef.current = g;
-    const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
+    const onResize = () => { g.width(window.innerWidth).height(window.innerHeight); };
     window.addEventListener('resize', onResize);
     return () => { window.removeEventListener('resize', onResize); if (g._destructor) g._destructor(); graphRef.current = null; };
   }, [ready]);
@@ -1500,12 +1517,22 @@ function InsightsView({ t, mobile }) {
     const g = graphRef.current;
     const node = g && g.graphData().nodes.find((n) => n.id === id);
     if (g && node && node.x != null) g.centerAt(node.x, node.y, 500);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
   const rowHover = (id, on) => { pulseRef.current = { id, dir: on ? 1 : 0, t0: performance.now() }; };
   const card = sel ? D.card[sel] : null;
   const selNode = sel ? D.nodeById[sel] : null;
   const neighbors = sel ? (D.adj[sel] || []).slice().sort((a, b) => b.w - a.w) : [];
   const recent = !sel && ready ? (window.AX_ARCHIVE || []).slice(0, 6) : [];
+
+  /* 히어로와 동일한 FlipCard가 먹는 아이템 형태로 변환 — has_full이면 locked로
+     넘겨 entitled 플립(백면 PremiumFullArticle이 /api/premium/full에서 전문 로드,
+     맨 아래 SourceLine 원문 링크까지 본 카드와 동일)을 그대로 탄다. */
+  const toItem = (c) => ({
+    id: c.id, eyebrow: 'AI NEWS', headline: c.headline, body: c.body,
+    tool: c.tool, source: c.source, url: c.url, accent: c.accent,
+    motif: c.motif, image: c.image, locked: !!c.has_full, hasFull: false,
+  });
 
   /* 연관 뉴스 행 — [노드 점 | 썸네일 | 헤드라인] (아카이브 리스트의 스몰카드 형식) */
   const NewsRow = ({ id, kw }) => {
@@ -1514,7 +1541,7 @@ function InsightsView({ t, mobile }) {
     return (
       <div onClick={() => selectFromList(id)}
         onMouseEnter={() => rowHover(id, true)} onMouseLeave={() => rowHover(id, false)}
-        style={{ display: 'flex', gap: 9, alignItems: 'center', background: t.cardBg, border: t.cardBorder,
+        style={{ display: 'flex', gap: 9, alignItems: 'center', background: t.cardSolid || '#fbf8f3', border: t.cardBorder,
           borderRadius: 13, padding: 9, cursor: 'pointer' }}>
         <NodeDot node={n} />
         {c.image
@@ -1539,67 +1566,49 @@ function InsightsView({ t, mobile }) {
 
   if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
 
+  const panelW = 384;
   return (
-    <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: 14, alignItems: 'flex-start',
-      maxWidth: 1240, margin: '10px auto 40px', padding: '0 14px', width: '100%', boxSizing: 'border-box' }}>
-      {/* 그래프 — sticky라 패널이 길어져도 화면에 남는다 */}
-      <div style={{ flex: mobile ? 'none' : '1 1 auto', width: mobile ? '100%' : 'auto', minWidth: 0,
-        position: mobile ? 'static' : 'sticky', top: 14 }}>
-        <div style={{ position: 'relative', border: t.cardBorder, borderRadius: 16, background: t.cardBg, overflow: 'hidden' }}>
-          <div ref={graphBoxRef} style={{ width: '100%', height: mobile ? '46vh' : 'min(76vh, 680px)' }} />
-          {!ready && <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>}
-          {/* 범례 — 색=카테고리, 크기=연결 수 */}
-          <div style={{ position: 'absolute', left: 12, top: 12, background: 'rgba(255,255,255,.92)',
-            border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
-            {Object.keys(INSIGHTS_COLORS).map((s) => (
-              <div key={s} style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0' }}>
-                <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
-                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10 }}>{INSIGHTS_LABELS[s]}</span>
-              </div>
-            ))}
-            <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
-              크기 = 연결된 뉴스 수
-            </div>
+    <div style={{ pointerEvents: 'none' }}>
+      {/* 전체화면 배경 그래프 — 헤더·패널 뒤에 깔린다 */}
+      <div ref={graphBoxRef} style={{ position: 'fixed', inset: 0, zIndex: 1, pointerEvents: 'auto' }} />
+      {!ready && (
+        <div style={{ position: 'fixed', inset: 0, zIndex: 1, display: 'flex', alignItems: 'center',
+          justifyContent: 'center', color: t.mute, fontSize: 13 }}>네트워크 불러오는 중…</div>
+      )}
+      {/* 범례 — 좌하단 고정: 색=카테고리, 크기=연결 수 */}
+      <div style={{ position: 'fixed', left: 16, bottom: 16, zIndex: 2, pointerEvents: 'auto',
+        background: 'rgba(255,255,255,.92)', border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
+        {Object.keys(INSIGHTS_COLORS).map((s) => (
+          <div key={s} style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0' }}>
+            <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
+            <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10 }}>{INSIGHTS_LABELS[s]}</span>
           </div>
+        ))}
+        <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
+          크기 = 연결된 뉴스 수
         </div>
       </div>
-
-      {/* 우측 패널 — 자체 스크롤 없음: 내용만큼 자라고 페이지가 흐른다 */}
-      <div style={{ flex: mobile ? 'none' : '0 0 372px', width: mobile ? '100%' : 372 }}>
+      {/* 우측 카드 패널 — 페이지 흐름(자체 스크롤 없음), 그래프 위 HUD */}
+      <div style={{ pointerEvents: 'auto', position: 'relative', zIndex: 2,
+        width: mobile ? 'auto' : panelW,
+        margin: mobile ? '48vh 12px 60px' : '6px 22px 60px auto' }}>
         {card ? (
           <React.Fragment>
-            {/* 메인 카드 — 본 사이트 히어로 카드와 같은 비율(480:760), 이미지 4:3 */}
-            <div style={{ aspectRatio: '480 / 760', display: 'flex', flexDirection: 'column', background: t.cardBg,
-              border: t.cardBorder, borderRadius: 18, overflow: 'hidden', marginBottom: 12 }}>
-              <div style={{ position: 'relative', flex: '0 0 auto', aspectRatio: '4 / 3', background: '#efe9de' }}>
-                {card.image && <img src={'/' + card.image} alt="" style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'cover' }} />}
-              </div>
-              <div style={{ flex: 1, display: 'flex', flexDirection: 'column', padding: '13px 16px 15px', minHeight: 0 }}>
-                <div className="ax-eyebrow" style={{ color: t.faint, display: 'flex', justifyContent: 'space-between', marginBottom: 8 }}>
-                  <span>AI NEWS · <b style={{ color: INSIGHTS_COLORS[selNode.section] }}>{card.tool || selNode.section}</b></span>
-                  <span>{selNode.date.replace(/-/g, '.')} · {card.source || ''}</span>
-                </div>
-                <div className="ax-hl" style={{ fontSize: 19, lineHeight: 1.32, color: t.hl, marginBottom: 7 }}>
-                  {(card.headline || '').replace(/\n/g, ' ')}
-                </div>
-                <p className="ax-body" style={{ fontSize: 13.5, lineHeight: 1.55, color: t.body, margin: 0, overflow: 'hidden' }}>
-                  {card.body || ''}
-                </p>
-                <a href={card.url} target="_blank" rel="noopener noreferrer"
-                  style={{ marginTop: 'auto', display: 'block', textAlign: 'center', background: t.hl, color: '#fff',
-                    textDecoration: 'none', fontSize: 13.5, fontWeight: 600, borderRadius: 999, padding: '11px 0' }}>
-                  원문 읽기 ↗
-                </a>
-              </div>
+            <div style={{ aspectRatio: '480 / 760', position: 'relative', marginBottom: 12,
+              borderRadius: 24, boxShadow: '0 22px 48px -18px rgba(80,50,40,.4)' }}>
+              <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
+                t={t} mobile={false} section={selNode.section} entitled={true} />
             </div>
-            <div className="ax-eyebrow" style={{ color: t.mute, margin: '0 2px 8px' }}>직접 연결된 뉴스 {neighbors.length}</div>
+            <div className="ax-eyebrow" style={{ color: t.mute, margin: '0 2px 8px',
+              textShadow: '0 1px 6px rgba(251,248,243,.9)' }}>직접 연결된 뉴스 {neighbors.length}</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
               {neighbors.map((e) => <NewsRow key={e.id} id={e.id} kw={e.kw} />)}
             </div>
           </React.Fragment>
         ) : (
           <React.Fragment>
-            <div className="ax-eyebrow" style={{ color: t.mute, textAlign: 'center', padding: '14px 0 12px' }}>
+            <div className="ax-eyebrow" style={{ color: t.mute, textAlign: 'center', padding: '10px 0 12px',
+              textShadow: '0 1px 6px rgba(251,248,243,.9)' }}>
               노드를 클릭하면 카드와 연결 뉴스가 여기 표시됩니다
             </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
@@ -1763,11 +1772,13 @@ function ThemedPage({ themeKey }) {
           onTitle={() => window.scrollTo({ top: 0, behavior: 'smooth' })} />
       )}
       <div className="ax-shell">
-        <div ref={mastheadRef}>
+        <div ref={mastheadRef} style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <Masthead t={t} mobile={isMobile} onHome={goHome} />
         </div>
-        <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-          showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights} />
+        <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
+          <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
+            showInsights={auth.entitled} insightsActive={insightsOn} onInsights={openInsights} />
+        </div>
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
@@ -1804,12 +1815,15 @@ function ThemedPage({ themeKey }) {
               이 섹션에는 아직 오늘 소식이 없습니다. 곧 채워집니다.</p>
           </div>
         )}
-        {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
-        <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
-          <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
-            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
-          </p>
-        </footer>
+        {/* site footer — minimal: copyright + privacy policy (required by AdSense).
+            Insights 모드에선 전체화면 그래프 아래 깔려 클릭이 안 되므로 감춘다. */}
+        {!insightsOn && (
+          <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
+            <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
+              © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
+            </p>
+          </footer>
+        )}
       </div>
     </div>
   );

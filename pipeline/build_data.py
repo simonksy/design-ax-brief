@@ -241,8 +241,22 @@ def main():
     open(a.out, "w", encoding="utf-8").write(to_js(data))
     prem_dir = os.path.join(os.path.dirname(os.path.abspath(a.out)), "premium")
     os.makedirs(prem_dir, exist_ok=True)
-    with open(os.path.join(prem_dir, "full.json"), "w", encoding="utf-8") as f:
-        json.dump({"cards": premium}, f, ensure_ascii=False, indent=2)
+    # premium/full.json is CUMULATIVE (append-only): today's fulls are merged over
+    # the existing map instead of replacing it, so the Insights archive view can
+    # serve any past card's deep-dive via /api/premium/full. An existing key is
+    # overwritten by today's version of the same card, but never dropped.
+    prem_path = os.path.join(prem_dir, "full.json")
+    merged = {}
+    if os.path.exists(prem_path):
+        try:
+            with open(prem_path, encoding="utf-8") as f:
+                old = json.load(f)
+            merged = dict(old.get("cards", old) or {})
+        except (json.JSONDecodeError, OSError):
+            merged = {}
+    merged.update(premium)
+    with open(prem_path, "w", encoding="utf-8") as f:
+        json.dump({"cards": merged}, f, ensure_ascii=False, indent=2)
     if a.share_root:
         sections = data.get("sections") or {
             "design": {"news": data.get("today", {}).get("cards", []), "days": data.get("days", [])}}
