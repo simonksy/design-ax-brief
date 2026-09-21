@@ -1631,10 +1631,9 @@ function InsightsView({ t, mobile }) {
         pulsePool = [];
         for (let i = 0; i < 16; i++) {
           const m = new MeshC(new GeoC(1, 1, 1, 6),
-            new MatC({ color: 0xffffff, transparent: true, opacity: 0.85 }));
-          if (m.material.emissive && m.material.emissive.set) m.material.emissive.set(0xffffff);
-          // 가산 블렌딩 — 엣지 원색을 덮지 않고 그 위를 밝게 스치는 빛처럼
-          m.material.blending = 2;        // THREE.AdditiveBlending
+            new MatC({ color: 0xffffff, transparent: true, opacity: 0.92 }));
+          // 베이지(밝은) 배경에선 가산 블렌딩이 안 보인다 — 일반 블렌딩 +
+          // 엣지 색을 밝게 틴트한 빛(updatePulses에서 엣지별로 색 지정)
           m.material.depthWrite = false;
           m.visible = false; m.raycast = () => {}; m.frustumCulled = false;
           g.scene().add(m); pulsePool.push(m);
@@ -1669,8 +1668,16 @@ function InsightsView({ t, mobile }) {
         m.position.set((ax + bx) / 2, (ay + by) / 2, (az + bz) / 2);
         m.scale.set(3.0, len, 3.0);
         m.quaternion.setFromUnitVectors(up, dir.normalize());
-        // 끝에 다다르면 서서히 사라졌다가 다시 시작 (가산 블렌딩 빛 — 원색은 유지)
-        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.85 : 0.85;
+        // 엣지 색을 65% 흰색 쪽으로 밝힌 틴트 — 원색 엣지·베이지 배경 모두와 대비
+        const other = s.id === f ? tg : s;
+        const hex = INSIGHTS_COLORS[other.section] || '#8a8377';
+        const v = parseInt(hex.slice(1), 16);
+        const mix = (c) => (c + (255 - c) * 0.65) / 255;
+        if (m.material.color && m.material.color.setRGB)
+          m.material.color.setRGB(mix((v >> 16) & 255), mix((v >> 8) & 255), mix(v & 255));
+        if (m.material.emissive && m.material.emissive.copy) m.material.emissive.copy(m.material.color);
+        // 끝에 다다르면 서서히 사라졌다가 다시 시작
+        m.material.opacity = t > 0.86 ? Math.max(0, (1 - t) / 0.14) * 0.92 : 0.92;
       }
       for (; i < pulsePool.length; i++) pulsePool[i].visible = false;
     };
