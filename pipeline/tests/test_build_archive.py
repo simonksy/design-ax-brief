@@ -86,14 +86,33 @@ def test_main_idempotent(tmpdir):
     arch = os.path.join(tmpdir, "archive.json")
     out = os.path.join(tmpdir, "archive-data.js")
     gout = os.path.join(tmpdir, "archive-graph.js")
+    prem = os.path.join(tmpdir, "premium-full.json")
     json.dump(sectioned("design", "2026-09-01", [card("a")]), open(news, "w"))
     for _ in range(2):  # second run must not duplicate
         build_archive.main(["--news", news, "--archive", arch, "--out", out,
-                            "--graph-out", gout])
+                            "--graph-out", gout, "--premium", prem])
     got = json.load(open(arch))["cards"]
     assert len(got) == 1
+    assert got[0]["has_full"] is True
     assert os.path.exists(out) and os.path.exists(gout)
+    prem_cards = json.load(open(prem))["cards"]
+    assert "design/a" in prem_cards and prem_cards["design/a"]["blocks"]
+    js = open(out).read()
+    assert "프리미엄 전문" not in js, "premium blocks must not leak into public archive JS"
     print("PASS main_idempotent")
+
+
+def test_premium_merge_keeps_existing(tmpdir):
+    prem = os.path.join(tmpdir, "full.json")
+    json.dump({"cards": {"design/a": {"blocks": [{"t": "p", "x": "현재 버전"}]}}}, open(prem, "w"))
+    keys = build_archive.merge_premium_fulls(
+        {"design/a": {"blocks": [{"t": "p", "x": "옛 버전"}]},
+         "design/b": {"blocks": [{"t": "p", "x": "복구본"}]}}, prem)
+    got = json.load(open(prem))["cards"]
+    assert got["design/a"]["blocks"][0]["x"] == "현재 버전"  # setdefault — 덮어쓰지 않음
+    assert got["design/b"]["blocks"][0]["x"] == "복구본"
+    assert keys == {"design/a", "design/b"}
+    print("PASS premium_merge_keeps_existing")
 
 
 def test_terms():
@@ -150,4 +169,6 @@ if __name__ == "__main__":
     test_js_emission()
     with tempfile.TemporaryDirectory() as td:
         test_main_idempotent(td)
+    with tempfile.TemporaryDirectory() as td:
+        test_premium_merge_keeps_existing(td)
     print("build_archive OK")

@@ -15,15 +15,31 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *a, **kw):
         super().__init__(*a, directory=ROOT, **kw)
 
+    def _json(self, obj, status=200):
+        body = json.dumps(obj, ensure_ascii=False).encode()
+        self.send_response(status)
+        self.send_header("Content-Type", "application/json")
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        self.wfile.write(body)
+
     def do_GET(self):
-        if self.path.split("?")[0] == "/api/me":
-            body = json.dumps({"loggedIn": True, "entitled": True}).encode()
-            self.send_response(200)
-            self.send_header("Content-Type", "application/json")
-            self.send_header("Content-Length", str(len(body)))
-            self.end_headers()
-            self.wfile.write(body)
-            return
+        from urllib.parse import urlparse, parse_qs
+        u = urlparse(self.path)
+        if u.path == "/api/me":
+            return self._json({"loggedIn": True, "entitled": True})
+        if u.path == "/api/premium/full":
+            q = parse_qs(u.query)
+            key = f"{q.get('section', [''])[0]}/{q.get('id', [''])[0]}"
+            try:
+                with open(os.path.join(ROOT, "premium", "full.json"), encoding="utf-8") as f:
+                    cards = json.load(f).get("cards", {})
+            except OSError:
+                return self._json({"reason": "unavailable"}, 503)
+            full = cards.get(key)
+            if not full:
+                return self._json({"reason": "not_found"}, 404)
+            return self._json({"full": full})
         super().do_GET()
 
     def log_message(self, *a):

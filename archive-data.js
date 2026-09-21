@@ -12,7 +12,8 @@
   "motif": "cube",
   "image": "pipeline/media/politics-virginia-dc-eo.jpg",
   "date": "2026-09-21",
-  "section": "politics"
+  "section": "politics",
+  "has_full": true
  },
  {
   "id": "politics-un-digital-compact",
@@ -25,7 +26,8 @@
   "motif": "cube",
   "image": "pipeline/media/politics-un-digital-compact.png",
   "date": "2026-09-21",
-  "section": "politics"
+  "section": "politics",
+  "has_full": true
  },
  {
   "id": "politics-nigeria-bvas",
@@ -38,7 +40,8 @@
   "motif": "cube",
   "image": "pipeline/media/politics-nigeria-bvas.png",
   "date": "2026-09-21",
-  "section": "politics"
+  "section": "politics",
+  "has_full": true
  },
  {
   "id": "politics-dc-gravity-shift",
@@ -51,7 +54,8 @@
   "motif": "cube",
   "image": "pipeline/media/politics-dc-gravity-shift.jpg",
   "date": "2026-09-21",
-  "section": "politics"
+  "section": "politics",
+  "has_full": true
  },
  {
   "id": "politics-ai-halluc-near-miss",
@@ -64,7 +68,8 @@
   "motif": "cube",
   "image": "pipeline/media/politics-ai-halluc-near-miss.jpg",
   "date": "2026-09-21",
-  "section": "politics"
+  "section": "politics",
+  "has_full": true
  },
  {
   "id": "science-mit-hardflow",
@@ -77,7 +82,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-mit-hardflow.jpg",
   "date": "2026-09-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-llm-harsher-society",
@@ -90,7 +96,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-llm-harsher-society.jpg",
   "date": "2026-09-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alphagenome-atlas",
@@ -103,7 +110,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-alphagenome-atlas.jpg",
   "date": "2026-09-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-lab-bottleneck",
@@ -116,7 +124,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-lab-bottleneck.jpg",
   "date": "2026-09-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-bioweapon-warning",
@@ -129,7 +138,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ai-bioweapon-warning.jpg",
   "date": "2026-09-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-understanding-search",
@@ -142,7 +152,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-understanding-search.jpg",
   "date": "2026-09-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-resing-voices-vol2",
@@ -155,7 +166,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-resing-voices-vol2.jpg",
   "date": "2026-09-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ethical-ai-tools",
@@ -168,7 +180,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ethical-ai-tools.jpg",
   "date": "2026-09-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-distrokid-universal",
@@ -181,7 +194,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-distrokid-universal.jpg",
   "date": "2026-09-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-music-awards",
@@ -194,7 +208,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ai-music-awards.jpg",
   "date": "2026-09-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-visionquest-no-genai",
@@ -207,7 +222,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-visionquest-no-genai.jpg",
   "date": "2026-09-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-variety-ai-panel",
@@ -220,7 +236,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-variety-ai-panel.jpg",
   "date": "2026-09-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-premiere-generative",
@@ -233,7 +250,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-premiere-generative.jpg",
   "date": "2026-09-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-hollywood-ai-warnings",
@@ -246,7 +264,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-hollywood-ai-warnings.jpg",
   "date": "2026-09-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-wolverine-no-genai",
@@ -259,7 +278,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-wolverine-no-genai.jpg",
   "date": "2026-09-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-night-city-handmade",
@@ -272,7 +292,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-night-city-handmade.jpg",
   "date": "2026-09-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-luminary-wife-voice",
@@ -285,7 +306,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-luminary-wife-voice.jpg",
   "date": "2026-09-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-intel-arc-nocuda",
@@ -298,7 +320,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-intel-arc-nocuda.jpg",
   "date": "2026-09-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-darksouls3-pathtracing",
@@ -311,7 +334,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-darksouls3-pathtracing.jpg",
   "date": "2026-09-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel10-proactive",
@@ -324,7 +348,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets-pixel10-proactive.jpg",
   "date": "2026-09-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-iphone18-aperture",
@@ -337,7 +362,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets-iphone18-aperture.jpg",
   "date": "2026-09-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-iphone-duo-design",
@@ -350,7 +376,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets-iphone-duo-design.png",
   "date": "2026-09-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-windows",
@@ -363,7 +390,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets-gemini-windows.jpg",
   "date": "2026-09-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-galaxy-watch9",
@@ -376,7 +404,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets-galaxy-watch9.jpg",
   "date": "2026-09-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-v0-npm-credentials",
@@ -389,7 +418,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-v0-npm-credentials.png",
   "date": "2026-09-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-quad-remesher-blender",
@@ -402,7 +432,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-quad-remesher-blender.jpg",
   "date": "2026-09-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-human-led-next-phase",
@@ -415,7 +446,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-human-led-next-phase.jpg",
   "date": "2026-09-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-motion-shaders",
@@ -428,7 +460,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-motion-shaders.jpg",
   "date": "2026-09-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-artec-neo-scanner",
@@ -441,7 +474,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-artec-neo-scanner.jpg",
   "date": "2026-09-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-flowtica-verso",
@@ -454,7 +488,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-flowtica-verso.jpg",
   "date": "2026-09-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-deepfake-novel",
@@ -467,7 +502,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-deepfake-novel.png",
   "date": "2026-09-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-crl-digitization",
@@ -479,7 +515,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-09-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-chefs-licensing",
@@ -492,7 +529,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-chefs-licensing.jpg",
   "date": "2026-09-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-bookpact-ai",
@@ -505,7 +543,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-bookpact-ai.jpg",
   "date": "2026-09-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-sphere-packing",
@@ -518,7 +557,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-sphere-packing.png",
   "date": "2026-09-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-nir-bioprocess",
@@ -531,7 +571,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-nir-bioprocess.jpg",
   "date": "2026-09-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mit-optics-lab",
@@ -544,7 +585,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-mit-optics-lab.jpg",
   "date": "2026-09-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alloy-vsf",
@@ -557,7 +599,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-alloy-vsf.jpg",
   "date": "2026-09-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-shape",
@@ -570,7 +613,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-shape.jpg",
   "date": "2026-09-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-two-legs-five-arms",
@@ -583,7 +627,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-two-legs-five-arms.jpg",
   "date": "2026-09-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-sound-alliance",
@@ -596,7 +641,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-sound-alliance.png",
   "date": "2026-09-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-playhead",
@@ -609,7 +655,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-playhead.jpg",
   "date": "2026-09-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-harmonykeen",
@@ -622,7 +669,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-harmonykeen.jpg",
   "date": "2026-09-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-bandlab-mastering",
@@ -635,7 +683,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-bandlab-mastering.jpg",
   "date": "2026-09-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-tilly-norwood-malfunction",
@@ -648,7 +697,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-tilly-norwood-malfunction.jpg",
   "date": "2026-09-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-runway-casting",
@@ -661,7 +711,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-runway-casting.jpg",
   "date": "2026-09-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-resolve-ai-line",
@@ -674,7 +725,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-resolve-ai-line.jpg",
   "date": "2026-09-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-openart-live-action",
@@ -687,20 +739,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-openart-live-action.jpg",
   "date": "2026-09-19",
-  "section": "movies"
- },
- {
-  "id": "movies-ae-ai-assistant",
-  "headline": "애프터이펙트 AI 어시스턴트\n프로젝트 전체를 읽기 시작했다",
-  "body": "공개 베타에 들어간 어시스턴트가 프로젝트를 통째로 읽고 파일을 정리하고 표현식까지 써 준다.",
-  "tool": "Movies",
-  "source": "RedShark News",
-  "url": "https://www.redsharknews.com/after-effects-ai-assistant-ibc2026",
-  "accent": "#0070f3",
-  "motif": "frame",
-  "image": "pipeline/media/movies-ae-ai-assistant.jpg",
-  "date": "2026-09-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unreal-mcp",
@@ -713,7 +753,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unreal-mcp.jpg",
   "date": "2026-09-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unity-codex-plugin",
@@ -726,7 +767,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-codex-plugin.png",
   "date": "2026-09-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ocarina-ai",
@@ -739,7 +781,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ocarina-ai.jpg",
   "date": "2026-09-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-metahuman-animator",
@@ -752,7 +795,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-metahuman-animator.jpg",
   "date": "2026-09-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-agent64-enemy-ai",
@@ -765,7 +809,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-agent64-enemy-ai.jpg",
   "date": "2026-09-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-watch-s12",
@@ -778,7 +823,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-urxr-one",
@@ -791,7 +837,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ubtech-factory",
@@ -804,7 +851,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-dyson-nurovi",
@@ -817,7 +865,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-airpods5",
@@ -830,7 +879,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-webmcp",
@@ -843,7 +893,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-webmcp.png",
   "date": "2026-09-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-visionos27",
@@ -856,7 +907,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-visionos27.jpg",
   "date": "2026-09-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-vectorworks2027",
@@ -869,7 +921,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-vectorworks2027.png",
   "date": "2026-09-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-blender-splat",
@@ -882,7 +935,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-blender-splat.jpg",
   "date": "2026-09-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-ad-test",
@@ -895,7 +949,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-ad-test.jpg",
   "date": "2026-09-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-writers-ai-survey",
@@ -908,7 +963,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-writers-ai-survey.jpg",
   "date": "2026-09-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-malaysia-illustrators",
@@ -921,7 +977,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-malaysia-illustrators.jpg",
   "date": "2026-09-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-love-machine",
@@ -934,7 +991,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-love-machine.png",
   "date": "2026-09-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-calibre-ai-fiction",
@@ -947,7 +1005,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-calibre-ai-fiction.jpg",
   "date": "2026-09-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-licensing-market",
@@ -960,7 +1019,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-licensing-market.jpg",
   "date": "2026-09-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-virtual-biotech",
@@ -973,7 +1033,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-virtual-biotech.jpg",
   "date": "2026-09-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-retrieve-for-train",
@@ -986,7 +1047,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-retrieve-for-train.png",
   "date": "2026-09-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-paper2agent",
@@ -999,7 +1061,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-paper2agent.jpg",
   "date": "2026-09-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-lunar-foundation-model",
@@ -1012,7 +1075,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-lunar-foundation-model.jpg",
   "date": "2026-09-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-climate-variability-planning",
@@ -1025,7 +1089,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-climate-variability-planning.jpg",
   "date": "2026-09-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-v6",
@@ -1038,7 +1103,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-suno-v6.jpg",
   "date": "2026-09-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-submithub",
@@ -1051,7 +1117,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-submithub.jpg",
   "date": "2026-09-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ssl-4k",
@@ -1064,7 +1131,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ssl-4k.jpg",
   "date": "2026-09-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-nova",
@@ -1077,7 +1145,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-nova.jpg",
   "date": "2026-09-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-dx7-ai",
@@ -1090,7 +1159,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-dx7-ai.jpg",
   "date": "2026-09-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-variety-ai-ten",
@@ -1103,7 +1173,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-variety-ai-ten.jpg",
   "date": "2026-09-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-runway-adobe",
@@ -1116,7 +1187,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-runway-adobe.jpg",
   "date": "2026-09-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-film-pipeline",
@@ -1129,7 +1201,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ai-film-pipeline.jpg",
   "date": "2026-09-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-adobe-elements-2027",
@@ -1142,7 +1215,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-adobe-elements-2027.jpg",
   "date": "2026-09-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-about-a-hero",
@@ -1155,7 +1229,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-about-a-hero.png",
   "date": "2026-09-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unity-codex",
@@ -1168,7 +1243,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-codex.jpg",
   "date": "2026-09-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-sigmapbr",
@@ -1181,7 +1257,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sigmapbr.jpg",
   "date": "2026-09-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ramen-aura",
@@ -1194,7 +1271,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ramen-aura.jpg",
   "date": "2026-09-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-cesa-genai",
@@ -1207,7 +1285,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-cesa-genai.jpg",
   "date": "2026-09-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-amd-gi",
@@ -1220,7 +1299,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-amd-gi.jpg",
   "date": "2026-09-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-translate-offline",
@@ -1233,7 +1313,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-snap-specs",
@@ -1246,7 +1327,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-no-camera",
@@ -1259,7 +1341,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-memory-shortage",
@@ -1272,7 +1355,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-readiness",
@@ -1285,7 +1369,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-nvidia-agent-3d-scene",
@@ -1298,7 +1383,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-nvidia-agent-3d-scene.jpg",
   "date": "2026-09-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-de-slop-codebase",
@@ -1311,7 +1397,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-de-slop-codebase.jpg",
   "date": "2026-09-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-claude-code-projects",
@@ -1324,7 +1411,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-claude-code-projects.jpg",
   "date": "2026-09-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-canva-ai-brakes",
@@ -1337,7 +1425,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-canva-ai-brakes.jpg",
   "date": "2026-09-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-backflip-2d-cad",
@@ -1350,7 +1439,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-backflip-2d-cad.jpg",
   "date": "2026-09-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-scholarly-unbundling",
@@ -1363,7 +1453,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-scholarly-unbundling.jpg",
   "date": "2026-09-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ms-scraping-filings",
@@ -1376,7 +1467,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ms-scraping-filings.jpg",
   "date": "2026-09-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-memoir-voice",
@@ -1389,7 +1481,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-memoir-voice.png",
   "date": "2026-09-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-literary-translation-ai",
@@ -1402,7 +1495,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-literary-translation-ai.png",
   "date": "2026-09-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anthropic-claim",
@@ -1415,7 +1509,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-anthropic-claim.png",
   "date": "2026-09-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-skyrmion-synapse",
@@ -1428,7 +1523,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-skyrmion-synapse.jpg",
   "date": "2026-09-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-robot-biginelli",
@@ -1441,7 +1537,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-robot-biginelli.jpg",
   "date": "2026-09-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mouse-brain-video",
@@ -1454,7 +1551,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-mouse-brain-video.jpg",
   "date": "2026-09-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ionq-quantum-tuning",
@@ -1467,7 +1565,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-ionq-quantum-tuning.png",
   "date": "2026-09-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-claude-elliptic-curve",
@@ -1480,7 +1579,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-claude-elliptic-curve.jpg",
   "date": "2026-09-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-melody-flip",
@@ -1493,7 +1593,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-melody-flip.jpg",
   "date": "2026-09-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-luna3",
@@ -1506,7 +1607,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-luna3.jpg",
   "date": "2026-09-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-dp12",
@@ -1519,7 +1621,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-dp12.jpg",
   "date": "2026-09-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-autotune-fl",
@@ -1532,7 +1635,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-autotune-fl.jpg",
   "date": "2026-09-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-strada-2",
@@ -1545,7 +1649,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-strada-2.jpg",
   "date": "2026-09-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-lightstorm-outsyders",
@@ -1558,7 +1663,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-lightstorm-outsyders.jpeg",
   "date": "2026-09-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-colorfront-ibc",
@@ -1571,7 +1677,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-colorfront-ibc.jpg",
   "date": "2026-09-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-provenance",
@@ -1584,7 +1691,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ai-provenance.jpg",
   "date": "2026-09-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-odyssey",
@@ -1597,7 +1705,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ai-odyssey.jpg",
   "date": "2026-09-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-vr-toss-print",
@@ -1610,7 +1719,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-vr-toss-print.jpg",
   "date": "2026-09-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-reface-blender",
@@ -1623,7 +1733,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-reface-blender.jpg",
   "date": "2026-09-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ps5-linux-quit",
@@ -1636,7 +1747,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ps5-linux-quit.jpg",
   "date": "2026-09-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-uncanny",
@@ -1649,7 +1761,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-uncanny.jpg",
   "date": "2026-09-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-diablo-v-procedural",
@@ -1662,7 +1775,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-diablo-v-procedural.jpg",
   "date": "2026-09-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-perplexity-local-agent",
@@ -1675,7 +1789,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-iphone18-reference-image",
@@ -1688,7 +1803,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-google-home-mcp",
@@ -1701,7 +1817,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-copilot-key-remap",
@@ -1714,7 +1831,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-canon-dual-pixel-3d",
@@ -1727,7 +1845,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-simscale-onshape",
@@ -1740,7 +1859,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-simscale-onshape.jpg",
   "date": "2026-09-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-weave",
@@ -1753,7 +1873,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-weave.jpg",
   "date": "2026-09-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-claude-docs-slides",
@@ -1766,7 +1887,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-claude-docs-slides.jpg",
   "date": "2026-09-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-arcturus-vision-camera",
@@ -1779,7 +1901,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-arcturus-vision-camera.jpg",
   "date": "2026-09-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-affinity-33",
@@ -1792,7 +1915,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-affinity-33.jpg",
   "date": "2026-09-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-llm-homogenises-writing",
@@ -1805,7 +1929,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-llm-homogenises-writing.jpg",
   "date": "2026-09-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-geo-vs-seo",
@@ -1817,7 +1942,8 @@
   "accent": "#0070f3",
   "motif": "swatch",
   "date": "2026-09-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-chatgpt-emails-craft",
@@ -1830,7 +1956,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-chatgpt-emails-craft.jpg",
   "date": "2026-09-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-baldwin-typewriter",
@@ -1843,7 +1970,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-baldwin-typewriter.jpg",
   "date": "2026-09-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-agents-pitching",
@@ -1855,7 +1983,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-09-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-speech-schizophrenia",
@@ -1868,7 +1997,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-speech-schizophrenia.jpg",
   "date": "2026-09-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-fields-declaration",
@@ -1881,7 +2011,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-fields-declaration.jpg",
   "date": "2026-09-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-cell-models",
@@ -1894,7 +2025,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-cell-models.jpg",
   "date": "2026-09-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-agent-whistleblow",
@@ -1907,7 +2039,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-agent-whistleblow.jpg",
   "date": "2026-09-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-afm-autopilot",
@@ -1920,7 +2053,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-afm-autopilot.jpg",
   "date": "2026-09-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-vinyl-bar-in-shibuya",
@@ -1933,7 +2067,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-vinyl-bar-in-shibuya.jpg",
   "date": "2026-09-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-protools-stem-separator",
@@ -1946,7 +2081,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-protools-stem-separator.jpg",
   "date": "2026-09-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-nopia-harmony-generator",
@@ -1959,7 +2095,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-nopia-harmony-generator.jpg",
   "date": "2026-09-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-elevenlabs-music-v25",
@@ -1972,7 +2109,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-elevenlabs-music-v25.jpg",
   "date": "2026-09-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-cuetrak-ai-cue-sheets",
@@ -1985,7 +2123,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-cuetrak-ai-cue-sheets.jpg",
   "date": "2026-09-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-tilly-norwood",
@@ -1998,7 +2137,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-tilly-norwood.jpg",
   "date": "2026-09-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-nle-assistants",
@@ -2011,7 +2151,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-nle-assistants.jpg",
   "date": "2026-09-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-murphy",
@@ -2024,7 +2165,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-murphy.jpg",
   "date": "2026-09-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eran-dinur",
@@ -2037,7 +2179,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-eran-dinur.jpg",
   "date": "2026-09-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-colorfront-qumulo",
@@ -2050,7 +2193,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-colorfront-qumulo.jpg",
   "date": "2026-09-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-qwen-local-fps",
@@ -2063,7 +2207,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-qwen-local-fps.jpg",
   "date": "2026-09-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-quest-8days",
@@ -2076,7 +2221,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-quest-8days.jpg",
   "date": "2026-09-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-pubg-dednet-placeholder",
@@ -2089,7 +2235,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-pubg-dednet-placeholder.jpg",
   "date": "2026-09-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-imamura-backlash",
@@ -2102,7 +2249,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-imamura-backlash.jpg",
   "date": "2026-09-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-framerate",
@@ -2115,7 +2263,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-framerate.jpg",
   "date": "2026-09-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-vscode-stt",
@@ -2128,7 +2277,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-steam-frame",
@@ -2141,7 +2291,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ios27-siri",
@@ -2154,7 +2305,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ios27-camera-ai",
@@ -2167,7 +2319,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-comu-action-pro",
@@ -2180,7 +2333,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-overgrown",
@@ -2193,7 +2347,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-overgrown.jpg",
   "date": "2026-09-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-gemini-drive",
@@ -2206,7 +2361,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-gemini-drive.jpg",
   "date": "2026-09-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-elevenlabs-mcp",
@@ -2219,7 +2375,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-elevenlabs-mcp.jpg",
   "date": "2026-09-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-double-diamond",
@@ -2232,7 +2389,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-double-diamond.png",
   "date": "2026-09-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-colab-review",
@@ -2245,7 +2403,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-colab-review.jpg",
   "date": "2026-09-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-us-gov-ai-copyright",
@@ -2257,7 +2416,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-09-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-pocketfm-ai-audio",
@@ -2270,7 +2430,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-pocketfm-ai-audio.jpg",
   "date": "2026-09-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-murakami-ai-translation",
@@ -2283,7 +2444,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-murakami-ai-translation.jpg",
   "date": "2026-09-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-chatbot-custom-fiction",
@@ -2296,7 +2458,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-chatbot-custom-fiction.jpg",
   "date": "2026-09-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quantum-bitcoin",
@@ -2309,7 +2472,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-quantum-bitcoin.jpg",
   "date": "2026-09-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-pacman-fusion",
@@ -2322,7 +2486,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-pacman-fusion.png",
   "date": "2026-09-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-hidden-proteins",
@@ -2335,7 +2500,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-hidden-proteins.jpg",
   "date": "2026-09-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-glp1-reddit",
@@ -2347,7 +2513,8 @@
   "accent": "#eb367f",
   "motif": "headset",
   "date": "2026-09-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-blazar-jet",
@@ -2360,7 +2527,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-blazar-jet.jpg",
   "date": "2026-09-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-sting-plugin",
@@ -2373,7 +2541,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-sting-plugin.jpg",
   "date": "2026-09-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-smartchain",
@@ -2386,7 +2555,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-smartchain.jpg",
   "date": "2026-09-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-sentient",
@@ -2399,7 +2569,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-sentient.jpg",
   "date": "2026-09-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-prime4-g2",
@@ -2412,7 +2583,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-prime4-g2.jpg",
   "date": "2026-09-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-audio-intelligence",
@@ -2425,7 +2597,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-audio-intelligence.png",
   "date": "2026-09-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-vicon-captive",
@@ -2438,7 +2611,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-vicon-captive.jpg",
   "date": "2026-09-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-val-kilmer-ai",
@@ -2451,7 +2625,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-val-kilmer-ai.jpg",
   "date": "2026-09-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-tony-keith",
@@ -2464,7 +2639,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-tony-keith.jpg",
   "date": "2026-09-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-kling-tiff-panel",
@@ -2477,7 +2653,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-kling-tiff-panel.jpg",
   "date": "2026-09-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-gyllenhaal-flesh",
@@ -2490,7 +2667,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-gyllenhaal-flesh.jpg",
   "date": "2026-09-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-witcher4-ai",
@@ -2503,7 +2681,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-witcher4-ai.jpg",
   "date": "2026-09-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-tagforce-ai-loc",
@@ -2516,7 +2695,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tagforce-ai-loc.jpg",
   "date": "2026-09-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-saber-willits",
@@ -2529,7 +2709,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-saber-willits.jpg",
   "date": "2026-09-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-imamura-proto",
@@ -2542,7 +2723,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-imamura-proto.jpg",
   "date": "2026-09-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-fable-npc",
@@ -2555,7 +2737,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-fable-npc.jpg",
   "date": "2026-09-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-unitree-robot-dog",
@@ -2568,7 +2751,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-rayneo-io-glasses",
@@ -2581,7 +2765,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-dex-kids-camera",
@@ -2594,7 +2779,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-arm-c2-mali",
@@ -2607,7 +2793,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ai-agent-home-hack",
@@ -2620,7 +2807,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-ux-roi-case",
@@ -2633,7 +2821,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-ux-roi-case.jpg",
   "date": "2026-09-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-steamvr-update",
@@ -2646,7 +2835,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-steamvr-update.jpg",
   "date": "2026-09-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-imagined-speaker",
@@ -2659,7 +2849,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-imagined-speaker.jpg",
   "date": "2026-09-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cg-roundup-0913",
@@ -2672,7 +2863,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-cg-roundup-0913.jpg",
   "date": "2026-09-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-blender-hair-rig",
@@ -2685,7 +2877,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-blender-hair-rig.jpg",
   "date": "2026-09-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-veristage-insight",
@@ -2698,7 +2891,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-veristage-insight.jpg",
   "date": "2026-09-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-springer-framework",
@@ -2711,7 +2905,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-springer-framework.jpg",
   "date": "2026-09-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-scheffler-illustrators",
@@ -2724,7 +2919,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-scheffler-illustrators.jpg",
   "date": "2026-09-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-guild-openai-sj",
@@ -2737,7 +2933,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-guild-openai-sj.jpg",
   "date": "2026-09-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-fake-citations",
@@ -2750,7 +2947,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-fake-citations.jpg",
   "date": "2026-09-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-pathology-o3-h4k",
@@ -2763,7 +2961,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-pathology-o3-h4k.jpg",
   "date": "2026-09-13",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-odin-multi-v9t",
@@ -2776,7 +2975,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-odin-multi-v9t.jpg",
   "date": "2026-09-13",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-llm-confidence-m2r",
@@ -2789,7 +2989,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-llm-confidence-m2r.jpg",
   "date": "2026-09-13",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-jwst-exomoon-z7c",
@@ -2802,7 +3003,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-jwst-exomoon-z7c.jpg",
   "date": "2026-09-13",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-disaster-forecast-p3w",
@@ -2815,7 +3017,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-disaster-forecast-p3w.jpg",
   "date": "2026-09-13",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-tone3000-nam-j8d",
@@ -2828,7 +3031,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-tone3000-nam-j8d.jpg",
   "date": "2026-09-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-youtube-r7m",
@@ -2841,7 +3045,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-suno-youtube-r7m.jpg",
   "date": "2026-09-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-spark-pedal-b6n",
@@ -2854,7 +3059,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-spark-pedal-b6n.jpg",
   "date": "2026-09-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-difro-melody-k4q",
@@ -2867,7 +3073,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-difro-melody-k4q.png",
   "date": "2026-09-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-records-v2s",
@@ -2880,7 +3087,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ai-records-v2s.jpg",
   "date": "2026-09-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-switchx-two-t5k",
@@ -2893,7 +3101,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-switchx-two-t5k.jpg",
   "date": "2026-09-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-primevideo-dub-q3m",
@@ -2906,7 +3115,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-primevideo-dub-q3m.jpg",
   "date": "2026-09-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-nicetouch-v2-h8v",
@@ -2919,7 +3129,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-nicetouch-v2-h8v.jpg",
   "date": "2026-09-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-maxon-fall-ibc-b2r",
@@ -2932,7 +3143,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-maxon-fall-ibc-b2r.jpg",
   "date": "2026-09-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-acoustica-eight-w9n",
@@ -2945,7 +3157,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-acoustica-eight-w9n.jpg",
   "date": "2026-09-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unity-claude-plugin-k7m",
@@ -2958,7 +3171,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-claude-plugin-k7m.jpg",
   "date": "2026-09-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-runescape-ai-clone-h9p",
@@ -2971,7 +3185,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-runescape-ai-clone-h9p.jpg",
   "date": "2026-09-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-roblox-reality-v3q",
@@ -2984,7 +3199,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-roblox-reality-v3q.jpg",
   "date": "2026-09-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-level5-ai-backlash-r2w",
@@ -2997,7 +3213,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-level5-ai-backlash-r2w.jpg",
   "date": "2026-09-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-echoforge-sound-b8t",
@@ -3010,7 +3227,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-echoforge-sound-b8t.jpg",
   "date": "2026-09-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-snapdragon-npu-k4p",
@@ -3023,7 +3241,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-siri-ai-launch-h6z",
@@ -3036,7 +3255,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-quest-virtual-display-r7m",
@@ -3049,7 +3269,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-honor-robot-phone-v2q",
@@ -3062,7 +3283,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-fcc-robomower-exemption-t9x",
@@ -3075,7 +3297,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vibe-coding-prod-m9t",
@@ -3088,7 +3311,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-vibe-coding-prod-m9t.jpg",
   "date": "2026-09-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-supersplat-30-q4m",
@@ -3101,7 +3325,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-supersplat-30-q4m.jpg",
   "date": "2026-09-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-morpholio-trace-b7k",
@@ -3114,7 +3339,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-morpholio-trace-b7k.jpg",
   "date": "2026-09-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-stack-now-j5r",
@@ -3127,7 +3353,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-stack-now-j5r.jpg",
   "date": "2026-09-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agent-retry-x2n",
@@ -3140,7 +3367,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-agent-retry-x2n.png",
   "date": "2026-09-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-spotify-narration-q7v",
@@ -3152,7 +3380,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-09-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-pw-ai-reckoning-m3d",
@@ -3165,7 +3394,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-pw-ai-reckoning-m3d.png",
   "date": "2026-09-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-mcphee-workflow-h6s",
@@ -3178,7 +3408,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-mcphee-workflow-h6s.jpg",
   "date": "2026-09-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ken-liu-ai-story-t9k",
@@ -3191,7 +3422,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ken-liu-ai-story-t9k.jpg",
   "date": "2026-09-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ingram-ai-rollout-b4z",
@@ -3204,7 +3436,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ingram-ai-rollout-b4z.png",
   "date": "2026-09-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-lunar-open-model-k7p",
@@ -3217,7 +3450,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-lunar-open-model-k7p.jpg",
   "date": "2026-09-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ignisqnc-quantum-w9t",
@@ -3230,7 +3464,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ignisqnc-quantum-w9t.png",
   "date": "2026-09-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-gpn-star-genome-b8q",
@@ -3243,7 +3478,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-gpn-star-genome-b8q.jpg",
   "date": "2026-09-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ekg-queen-hearts-m3v",
@@ -3256,7 +3492,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ekg-queen-hearts-m3v.jpeg",
   "date": "2026-09-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-constitutive-laws-r4d",
@@ -3269,7 +3506,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-constitutive-laws-r4d.jpg",
   "date": "2026-09-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-umg-elevenlabs-q4t",
@@ -3282,7 +3520,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-umg-elevenlabs-q4t.jpg",
   "date": "2026-09-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-v6-h2m",
@@ -3295,7 +3534,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-suno-v6-h2m.png",
   "date": "2026-09-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-serato-5-b8k",
@@ -3308,7 +3548,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-serato-5-b8k.jpg",
   "date": "2026-09-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-audacity-4-r6d",
@@ -3321,7 +3562,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-audacity-4-r6d.jpg",
   "date": "2026-09-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-acoustica-8-w9j",
@@ -3334,7 +3576,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-acoustica-8-w9j.jpg",
   "date": "2026-09-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-sns-evo-ai-t2k",
@@ -3347,7 +3590,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-sns-evo-ai-t2k.png",
   "date": "2026-09-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-microdrama-ai-v9n",
@@ -3360,7 +3604,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-microdrama-ai-v9n.jpg",
   "date": "2026-09-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eddie-ai-v4-h3q",
@@ -3373,7 +3618,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-eddie-ai-v4-h3q.jpg",
   "date": "2026-09-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-del-toro-craft-w6r",
@@ -3386,7 +3632,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-del-toro-craft-w6r.jpg",
   "date": "2026-09-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ccai-site-b8j",
@@ -3399,7 +3646,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ccai-site-b8j.jpg",
   "date": "2026-09-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-mages-juggernaut-r6d",
@@ -3412,7 +3660,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-mages-juggernaut-r6d.jpg",
   "date": "2026-09-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-hoyoverse-voice-w9t",
@@ -3425,7 +3674,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-hoyoverse-voice-w9t.jpg",
   "date": "2026-09-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-bytedance-world-h8x",
@@ -3438,7 +3688,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-bytedance-world-h8x.jpg",
   "date": "2026-09-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-blizzard-union-q4m",
@@ -3451,7 +3702,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-blizzard-union-q4m.jpg",
   "date": "2026-09-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-abcd-splat-v3n",
@@ -3464,7 +3716,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-abcd-splat-v3n.jpg",
   "date": "2026-09-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-project-phoenix-r5t",
@@ -3477,7 +3730,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-live-rewind-w8m",
@@ -3490,7 +3744,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-iphone18-pro-h3q",
@@ -3503,7 +3758,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-windows-v2j",
@@ -3516,7 +3772,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-atlas-neural-c9x",
@@ -3529,7 +3786,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-voice-ux-patterns-m3s",
@@ -3542,7 +3800,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-voice-ux-patterns-m3s.jpg",
   "date": "2026-09-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-slack-surfaces-r2v",
@@ -3555,7 +3814,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-slack-surfaces-r2v.jpg",
   "date": "2026-09-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-infinitform-x8d",
@@ -3568,7 +3828,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-infinitform-x8d.png",
   "date": "2026-09-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-make-kit-k7p",
@@ -3581,7 +3842,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-make-kit-k7p.jpg",
   "date": "2026-09-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ae-265-assistant-q4m",
@@ -3594,7 +3856,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-ae-265-assistant-q4m.jpg",
   "date": "2026-09-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-writer-fears-z8t",
@@ -3607,7 +3870,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-writer-fears-z8t.png",
   "date": "2026-09-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-webtoon-ai-w2n",
@@ -3620,7 +3884,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-webtoon-ai-w2n.jpg",
   "date": "2026-09-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-simon-stream-m5r",
@@ -3632,7 +3897,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-09-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-oup-disclosure-h3v",
@@ -3645,7 +3911,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-oup-disclosure-h3v.jpg",
   "date": "2026-09-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ipg-autumn-q4m",
@@ -3658,7 +3925,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ipg-autumn-q4m.jpg",
   "date": "2026-09-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-seabed-carbon-emulator-w9k",
@@ -3671,7 +3939,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-seabed-carbon-emulator-w9k.jpg",
   "date": "2026-09-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-navier-stokes-agents-q7f",
@@ -3684,7 +3953,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-navier-stokes-agents-q7f.jpg",
   "date": "2026-09-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mindedness-steering-p4v",
@@ -3697,7 +3967,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-mindedness-steering-p4v.jpg",
   "date": "2026-09-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-earth-observation-oecd-x2m",
@@ -3710,7 +3981,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-earth-observation-oecd-x2m.jpg",
   "date": "2026-09-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alphagenome-atlas-b3d",
@@ -3723,7 +3995,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-alphagenome-atlas-b3d.jpg",
   "date": "2026-09-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-believe-p4r",
@@ -3736,7 +4009,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-suno-believe-p4r.jpg",
   "date": "2026-09-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-stella-parton-ai-m6t",
@@ -3749,7 +4023,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-stella-parton-ai-m6t.jpg",
   "date": "2026-09-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-soundboost-v4-q7m",
@@ -3762,7 +4037,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-soundboost-v4-q7m.jpg",
   "date": "2026-09-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-isbell-suno-x3v",
@@ -3775,7 +4051,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-isbell-suno-x3v.jpg",
   "date": "2026-09-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-chartmetric-flow-b8k",
@@ -3788,7 +4065,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-chartmetric-flow-b8k.jpg",
   "date": "2026-09-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-revize-pitchblack-d4t",
@@ -3801,7 +4079,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-revize-pitchblack-d4t.jpg",
   "date": "2026-09-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-resolve-211-assistant-b3m",
@@ -3814,7 +4093,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-resolve-211-assistant-b3m.jpg",
   "date": "2026-09-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-origami-collections-c9p",
@@ -3827,7 +4107,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-origami-collections-c9p.jpg",
   "date": "2026-09-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-astro-burn-nura-e6v",
@@ -3840,7 +4121,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-astro-burn-nura-e6v.jpg",
   "date": "2026-09-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-adobe-ibc-genmedia-a7k",
@@ -3853,7 +4135,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-adobe-ibc-genmedia-a7k.jpg",
   "date": "2026-09-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-nhl27-ai-commentary-q7d",
@@ -3866,7 +4149,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nhl27-ai-commentary-q7d.jpg",
   "date": "2026-09-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-murkmire-no-ai-mod-h5w",
@@ -3879,7 +4163,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-murkmire-no-ai-mod-h5w.jpg",
   "date": "2026-09-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-eu-dev-ai-survey-t8c",
@@ -3892,7 +4177,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-eu-dev-ai-survey-t8c.jpg",
   "date": "2026-09-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-dual-gpu-mod-m3z",
@@ -3905,7 +4191,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-dual-gpu-mod-m3z.jpg",
   "date": "2026-09-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-arm-mali-g2-nx-r4v",
@@ -3918,7 +4205,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-arm-mali-g2-nx-r4v.jpg",
   "date": "2026-09-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-roborock-saros-ifa-9k3",
@@ -3931,7 +4219,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-reolink-omvi2i-ultra-x8d",
@@ -3944,7 +4233,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ifa26-best-in-show-q2n",
@@ -3957,7 +4247,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-circular-ring3-p7v",
@@ -3970,7 +4261,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-android-drop-sept26-m4t",
@@ -3983,7 +4275,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-resolve-mcp-x7k",
@@ -3996,7 +4289,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-resolve-mcp-x7k.jpg",
   "date": "2026-09-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-date-slop-7qd",
@@ -4009,7 +4303,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-date-slop-7qd.jpg",
   "date": "2026-09-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-chatgpt-sketch-9f2",
@@ -4022,7 +4317,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-chatgpt-sketch-9f2.jpg",
   "date": "2026-09-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-autodesk-neural-cad-b4m",
@@ -4035,7 +4331,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-autodesk-neural-cad-b4m.jpg",
   "date": "2026-09-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-brief-agency-5rt",
@@ -4048,7 +4345,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-brief-agency-5rt.jpg",
   "date": "2026-09-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-library-ai-supply-h3d",
@@ -4061,7 +4359,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-library-ai-supply-h3d.jpg",
   "date": "2026-09-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-authors-guild-registration-q7m",
@@ -4074,7 +4373,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-authors-guild-registration-q7m.jpg",
   "date": "2026-09-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-audible-human-translation-r6p",
@@ -4087,7 +4387,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-audible-human-translation-r6p.png",
   "date": "2026-09-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anthropic-agent-claims-v4x",
@@ -4100,7 +4401,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-anthropic-agent-claims-v4x.jpg",
   "date": "2026-09-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-rna-scaffold-stvc8",
@@ -4113,7 +4415,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-rna-scaffold-stvc8.jpg",
   "date": "2026-09-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-controversial-stimuli",
@@ -4126,7 +4429,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-controversial-stimuli.jpg",
   "date": "2026-09-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-benchmirt-audit",
@@ -4139,7 +4443,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-benchmirt-audit.png",
   "date": "2026-09-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-apnea-chatbot-referral",
@@ -4152,7 +4457,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-apnea-chatbot-referral.jpg",
   "date": "2026-09-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-aifs-dday-forecast",
@@ -4165,7 +4471,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-aifs-dday-forecast.jpg",
   "date": "2026-09-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-sonos-custom-agents",
@@ -4178,7 +4485,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-sonos-custom-agents.jpg",
   "date": "2026-09-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-scaler-eq-pro",
@@ -4191,7 +4499,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-scaler-eq-pro.jpg",
   "date": "2026-09-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-mottune-midi",
@@ -4204,7 +4513,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-mottune-midi.jpg",
   "date": "2026-09-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-klattsch-singing",
@@ -4217,7 +4527,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-klattsch-singing.jpg",
   "date": "2026-09-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-slop-human-demand",
@@ -4230,7 +4541,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ai-slop-human-demand.jpg",
   "date": "2026-09-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-ulanzi-vibekey-voice",
@@ -4243,7 +4555,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ulanzi-vibekey-voice.jpg",
   "date": "2026-09-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-samsung-p9-ai-ad",
@@ -4256,7 +4569,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-samsung-p9-ai-ad.jpg",
   "date": "2026-09-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-runway-full-metal-lunchbox",
@@ -4269,7 +4583,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-runway-full-metal-lunchbox.jpg",
   "date": "2026-09-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-herzog-venice-ai",
@@ -4282,7 +4597,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-herzog-venice-ai.jpg",
   "date": "2026-09-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-alan-smithee-s5-ai",
@@ -4295,7 +4611,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-alan-smithee-s5-ai.jpg",
   "date": "2026-09-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-penguin-colony-genai-gag",
@@ -4308,7 +4625,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-penguin-colony-genai-gag.jpg",
   "date": "2026-09-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-katago-shin-jinseo",
@@ -4321,7 +4639,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-katago-shin-jinseo.jpg",
   "date": "2026-09-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-autopilot",
@@ -4334,7 +4653,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-autopilot.jpg",
   "date": "2026-09-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-astroburn-microseries",
@@ -4347,7 +4667,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-astroburn-microseries.jpg",
   "date": "2026-09-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-aggro-crab-no-genai",
@@ -4360,7 +4681,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-aggro-crab-no-genai.jpg",
   "date": "2026-09-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-watch-s12-siri-chip",
@@ -4373,7 +4695,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-violoop-ai-box",
@@ -4386,7 +4709,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-timekettle-w4-plus",
@@ -4399,7 +4723,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-roomba-duo",
@@ -4412,7 +4737,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-odyss-n1",
@@ -4425,7 +4751,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-tripo-image-to-3d",
@@ -4438,7 +4765,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-tripo-image-to-3d.jpg",
   "date": "2026-09-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-rtx-half-frame-video",
@@ -4451,7 +4779,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-rtx-half-frame-video.jpg",
   "date": "2026-09-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-md-agent-guide",
@@ -4464,7 +4793,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-md-agent-guide.png",
   "date": "2026-09-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-make-claude-handoff",
@@ -4477,7 +4807,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-make-claude-handoff.png",
   "date": "2026-09-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-product-team-strategy",
@@ -4490,7 +4821,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-product-team-strategy.jpg",
   "date": "2026-09-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-nairobi-essay-collapse",
@@ -4503,7 +4835,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-nairobi-essay-collapse.png",
   "date": "2026-09-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-library-upskill-ai",
@@ -4516,7 +4849,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-library-upskill-ai.jpg",
   "date": "2026-09-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-journal-2030-ai",
@@ -4529,7 +4863,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-journal-2030-ai.png",
   "date": "2026-09-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-dosdoce-audio-ai-paper",
@@ -4542,7 +4877,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-dosdoce-audio-ai-paper.jpg",
   "date": "2026-09-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-aap-mosaic-amicus",
@@ -4555,7 +4891,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-aap-mosaic-amicus.jpg",
   "date": "2026-09-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-smart-bricks",
@@ -4568,7 +4905,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-smart-bricks.jpg",
   "date": "2026-09-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-core-mantle-belts",
@@ -4581,7 +4919,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-core-mantle-belts.jpg",
   "date": "2026-09-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-co-scientist",
@@ -4594,7 +4933,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-co-scientist.png",
   "date": "2026-09-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-brain-guided-llm",
@@ -4607,7 +4947,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-brain-guided-llm.jpg",
   "date": "2026-09-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-af3-red",
@@ -4620,7 +4961,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-af3-red.jpg",
   "date": "2026-09-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-yamaha-creator-pass",
@@ -4633,7 +4975,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-yamaha-creator-pass.png",
   "date": "2026-09-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-blige-ad",
@@ -4646,7 +4989,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-suno-blige-ad.png",
   "date": "2026-09-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-roland-melody-flip",
@@ -4659,7 +5003,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-roland-melody-flip.jpg",
   "date": "2026-09-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-three-tasks",
@@ -4672,7 +5017,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-ai-three-tasks.jpg",
   "date": "2026-09-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-weta-hotd-s3-breakdown",
@@ -4685,7 +5031,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-weta-hotd-s3-breakdown.jpg",
   "date": "2026-09-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-overgrown-open-doors",
@@ -4698,7 +5045,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-overgrown-open-doors.jpg",
   "date": "2026-09-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-krotos-studio-footsteps",
@@ -4711,7 +5059,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-krotos-studio-footsteps.jpg",
   "date": "2026-09-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-2026-engineering-emmys",
@@ -4724,7 +5073,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-2026-engineering-emmys.jpg",
   "date": "2026-09-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-tencent-ai-strategy",
@@ -4737,7 +5087,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tencent-ai-strategy.jpg",
   "date": "2026-09-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-sweeney-ai-crash",
@@ -4750,7 +5101,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sweeney-ai-crash.jpg",
   "date": "2026-09-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-space-marine-3-no-genai",
@@ -4763,7 +5115,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-space-marine-3-no-genai.jpg",
   "date": "2026-09-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-doubledown-ai-cost",
@@ -4776,7 +5129,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-doubledown-ai-cost.jpg",
   "date": "2026-09-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-art-direction-dlss5",
@@ -4789,7 +5143,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-art-direction-dlss5.jpg",
   "date": "2026-09-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-xreal-aura-android-xr",
@@ -4802,7 +5157,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-withings-beamo-ai",
@@ -4815,7 +5171,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-windows-project-zenith",
@@ -4828,7 +5185,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-dji-romo-2",
@@ -4841,7 +5199,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-claude-carplay",
@@ -4854,7 +5213,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-photoshop-light-layer",
@@ -4867,7 +5227,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-photoshop-light-layer.jpg",
   "date": "2026-09-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-security-agents",
@@ -4880,7 +5241,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-security-agents.jpg",
   "date": "2026-09-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-astra-ad-backlash",
@@ -4893,7 +5255,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-astra-ad-backlash.jpg",
   "date": "2026-09-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-anti-ai-designs",
@@ -4906,7 +5269,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-anti-ai-designs.jpg",
   "date": "2026-09-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-pcb-kicad",
@@ -4919,7 +5283,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-ai-pcb-kicad.jpg",
   "date": "2026-09-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-tcl-p80-ebook-audio",
@@ -4932,7 +5297,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-tcl-p80-ebook-audio.jpg",
   "date": "2026-09-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-millie-reading-future",
@@ -4945,7 +5311,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-millie-reading-future.jpg",
   "date": "2026-09-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-library-ai-policy-study",
@@ -4958,7 +5325,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-library-ai-policy-study.png",
   "date": "2026-09-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-copilot-mdl-filing",
@@ -4971,7 +5339,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-copilot-mdl-filing.jpg",
   "date": "2026-09-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-amazon-book-destruction",
@@ -4984,7 +5353,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-amazon-book-destruction.jpg",
   "date": "2026-09-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-polymer",
@@ -4997,7 +5367,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-polymer.jpg",
   "date": "2026-09-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-physicist-ai",
@@ -5010,7 +5381,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-physicist-ai.jpg",
   "date": "2026-09-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-icm-math",
@@ -5023,7 +5395,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-icm-math.jpg",
   "date": "2026-09-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-bci-ai",
@@ -5036,7 +5409,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-bci-ai.jpg",
   "date": "2026-09-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-adaptiveflow",
@@ -5049,7 +5423,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-adaptiveflow.jpg",
   "date": "2026-09-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-google-lyria-3-5",
@@ -5062,7 +5437,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-fl-studio-genai-onramp",
@@ -5075,7 +5451,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-billboard-ai-transparency",
@@ -5087,7 +5464,8 @@
   "accent": "#7928ca",
   "motif": "sphere",
   "date": "2026-09-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-aria-bans-ai-charts",
@@ -5100,7 +5478,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-danny-boyle",
@@ -5113,7 +5492,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-danny-boyle.png",
   "date": "2026-09-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-crafty-apes",
@@ -5126,7 +5506,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-crafty-apes.jpg",
   "date": "2026-09-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-coverage",
@@ -5139,7 +5520,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-ai-coverage.jpg",
   "date": "2026-09-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-dwarf-fortress",
@@ -5152,7 +5534,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dwarf-fortress.jpg",
   "date": "2026-09-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-mods",
@@ -5165,7 +5548,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-mods.jpg",
   "date": "2026-09-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-kcd",
@@ -5178,7 +5562,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-kcd.jpg",
   "date": "2026-09-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-artstation",
@@ -5191,7 +5576,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-artstation.jpg",
   "date": "2026-09-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-vive-eagle",
@@ -5204,7 +5590,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ugreen-homeagent",
@@ -5217,7 +5604,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-homepod-siri",
@@ -5230,7 +5618,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-govee-ai-lighting",
@@ -5243,7 +5632,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-home",
@@ -5256,7 +5646,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-rtx-spark",
@@ -5269,7 +5660,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-rtx-spark.jpg",
   "date": "2026-09-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-lamp-robot",
@@ -5282,7 +5674,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-lamp-robot.jpg",
   "date": "2026-09-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dynamic-text",
@@ -5295,7 +5688,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-dynamic-text.jpg",
   "date": "2026-09-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-writing-tells",
@@ -5308,7 +5702,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-writing-tells.jpg",
   "date": "2026-09-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agentic-canvas",
@@ -5321,20 +5716,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-agentic-canvas.png",
   "date": "2026-09-06",
-  "section": "design"
- },
- {
-  "id": "books-spotify-audiobook-ai",
-  "headline": "스포티파이, 오디오북에\nAI 대화 기능 추가",
-  "body": "스포티파이가 프롬프트 재생목록과 대화형 질문 응답 등 AI 오디오북 기능을 새로 선보였다.",
-  "tool": "Books",
-  "source": "Good e-Reader",
-  "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
-  "accent": "#7928ca",
-  "motif": "swatch",
-  "image": "pipeline/media/books-spotify-audiobook-ai.png",
-  "date": "2026-09-06",
-  "section": "books"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-scholarly-ai-licensing-trends",
@@ -5347,7 +5730,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-scholarly-ai-licensing-trends.jpg",
   "date": "2026-09-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-oreilly-ai-writing",
@@ -5360,7 +5744,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-oreilly-ai-writing.jpeg",
   "date": "2026-09-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anthropic-watermark",
@@ -5373,7 +5758,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-anthropic-watermark.jpeg",
   "date": "2026-09-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-publishing-scams",
@@ -5386,7 +5772,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-publishing-scams.png",
   "date": "2026-09-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-small-molecule-atlas",
@@ -5399,7 +5786,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-small-molecule-atlas.jpg",
   "date": "2026-09-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mammogram-ai-review",
@@ -5412,7 +5800,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-mammogram-ai-review.jpg",
   "date": "2026-09-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-llm-attention-deficit",
@@ -5425,7 +5814,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-llm-attention-deficit.jpg",
   "date": "2026-09-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-genomic-transfer-learning",
@@ -5438,7 +5828,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-genomic-transfer-learning.png",
   "date": "2026-09-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai2-hard-parts",
@@ -5451,7 +5842,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ai2-hard-parts.jpg",
   "date": "2026-09-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-songscription-publishing",
@@ -5464,7 +5856,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-socan-sues-suno",
@@ -5477,7 +5870,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-dreamtonics-instrument-x",
@@ -5490,7 +5884,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-accentize-chameleon-emmy",
@@ -5503,7 +5898,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-what-makes-good-rotoscope",
@@ -5516,7 +5912,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-what-makes-good-rotoscope.jpg",
   "date": "2026-09-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-tamar-ai-s-tapnow-brings",
@@ -5529,7 +5926,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-tamar-ai-s-tapnow-brings.jpg",
   "date": "2026-09-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-over-500-free-maya-animation",
@@ -5542,7 +5940,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-over-500-free-maya-animation.jpg",
   "date": "2026-09-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-one-new-categories-at-ves",
@@ -5555,7 +5954,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-one-new-categories-at-ves.jpg",
   "date": "2026-09-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-introducing-solaris-our-first-interface",
@@ -5568,7 +5968,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-introducing-solaris-our-first-interface.jpg",
   "date": "2026-09-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-modder-enables-dlss-5-neural",
@@ -5581,7 +5982,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-modder-enables-dlss-5-neural.jpg",
   "date": "2026-09-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-hands-dlss-5-nba-2k27",
@@ -5594,7 +5996,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-hands-dlss-5-nba-2k27.jpg",
   "date": "2026-09-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-building-procedural-shell-grotto-substance",
@@ -5607,7 +6010,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-building-procedural-shell-grotto-substance.jpg",
   "date": "2026-09-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-panic-forcing-developers-prove",
@@ -5620,7 +6024,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-panic-forcing-developers-prove.jpg",
   "date": "2026-09-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-plaud-one-earbuds",
@@ -5633,7 +6038,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-minisforum-local-ai-boxes",
@@ -5646,7 +6052,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ikairos-modular-wearable",
@@ -5659,7 +6066,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-overlay-bubble",
@@ -5672,7 +6080,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-anker-mindbase-hub",
@@ -5685,7 +6094,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-why-does-ai-generated-food",
@@ -5698,7 +6108,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-why-does-ai-generated-food.jpg",
   "date": "2026-09-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-parker-only-went-made-those",
@@ -5711,7 +6122,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-parker-only-went-made-those.jpg",
   "date": "2026-09-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-motion-basics-time-stamped",
@@ -5724,7 +6136,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-motion-basics-time-stamped.jpg",
   "date": "2026-09-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-auto-syncing-tailwind-config-from",
@@ -5737,7 +6150,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-auto-syncing-tailwind-config-from.png",
   "date": "2026-09-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-armorpaint-1-0-out-after",
@@ -5750,7 +6164,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-armorpaint-1-0-out-after.jpg",
   "date": "2026-09-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-u-s-department-justice-files",
@@ -5763,7 +6178,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-u-s-department-justice-files.png",
   "date": "2026-09-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-top-wsj-editor-approves-ai",
@@ -5776,7 +6192,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-top-wsj-editor-approves-ai.jpg",
   "date": "2026-09-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-google-rolls-out-ai-chatbots",
@@ -5788,7 +6205,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-09-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anthropic-copyright-settlement-publishers-making",
@@ -5801,7 +6219,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-anthropic-copyright-settlement-publishers-making.jpg",
   "date": "2026-09-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-weathernext3",
@@ -5814,7 +6233,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-weathernext3.jpg",
   "date": "2026-09-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-silicon-subjects",
@@ -5827,7 +6247,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-silicon-subjects.jpg",
   "date": "2026-09-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-male-fly-connectome",
@@ -5840,7 +6261,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-male-fly-connectome.png",
   "date": "2026-09-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-fda-genai-pilot",
@@ -5853,7 +6275,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-fda-genai-pilot.jpeg",
   "date": "2026-09-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-experiment-design",
@@ -5866,7 +6289,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-ai-experiment-design.jpg",
   "date": "2026-09-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-studio2-plugins",
@@ -5879,7 +6303,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-producely-dialr",
@@ -5892,7 +6317,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-moises-advisors",
@@ -5905,7 +6331,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-audacity4-release",
@@ -5918,7 +6345,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-alok-personalised-mv",
@@ -5931,7 +6359,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-showcraft-public",
@@ -5944,7 +6373,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-seedance-facegrid",
@@ -5957,7 +6387,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-hope-mocap",
@@ -5970,7 +6401,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-hope-mocap.jpg",
   "date": "2026-09-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-gwm-worlds2",
@@ -5983,7 +6415,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-avid-mc-2026-8",
@@ -5996,7 +6429,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-steam-slop-backlash",
@@ -6009,7 +6443,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-steam-slop-backlash.jpg",
   "date": "2026-09-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-nomanssky-mod",
@@ -6022,7 +6457,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-nomanssky-mod.jpg",
   "date": "2026-09-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-bytebrew-liveops-agents",
@@ -6035,7 +6471,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-bytebrew-liveops-agents.jpg",
   "date": "2026-09-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-disclosure-bait",
@@ -6048,7 +6485,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-disclosure-bait.jpg",
   "date": "2026-09-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-agents404-bezi",
@@ -6061,7 +6499,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-agents404-bezi.jpg",
   "date": "2026-09-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-vision-pro-hip-surgery",
@@ -6074,7 +6513,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-nvidia-rtx-spark-ai-pcs",
@@ -6087,7 +6527,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-nvidia-pair-gpu-cluster",
@@ -6100,7 +6541,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-lenovo-aeroblade-rollable",
@@ -6113,7 +6555,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-spark-google-photos",
@@ -6126,7 +6569,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-mancity-ai-kit",
@@ -6139,7 +6583,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-mancity-ai-kit.jpg",
   "date": "2026-09-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-jetzero-blended-wing",
@@ -6152,7 +6597,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-jetzero-blended-wing.jpg",
   "date": "2026-09-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cursor-vercel-sandbox",
@@ -6165,7 +6611,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-cursor-vercel-sandbox.jpg",
   "date": "2026-09-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-artstation-noai-default",
@@ -6178,7 +6625,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-artstation-noai-default.jpg",
   "date": "2026-09-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agent-native-clips",
@@ -6191,7 +6639,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-agent-native-clips.jpg",
   "date": "2026-09-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-wandering-taste",
@@ -6204,7 +6653,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-wandering-taste.png",
   "date": "2026-09-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-pangram-trust",
@@ -6217,7 +6667,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-pangram-trust.jpg",
   "date": "2026-09-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-decoy-font",
@@ -6230,7 +6681,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-decoy-font.jpg",
   "date": "2026-09-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-author-solar-sail",
@@ -6243,7 +6695,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-author-solar-sail.jpg",
   "date": "2026-09-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-1653-cipher",
@@ -6256,7 +6709,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-1653-cipher.png",
   "date": "2026-09-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-rapido-remote-implant",
@@ -6269,7 +6723,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-rapido-remote-implant.jpg",
   "date": "2026-09-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-pacman-plasma-20ms",
@@ -6282,7 +6737,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-pacman-plasma-20ms.jpg",
   "date": "2026-09-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ornl-atom-assembly",
@@ -6295,7 +6751,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ornl-atom-assembly.jpg",
   "date": "2026-09-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-gollum-doubt-detector",
@@ -6308,7 +6765,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-gollum-doubt-detector.jpg",
   "date": "2026-09-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ecg-clip-fewshot",
@@ -6321,7 +6779,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ecg-clip-fewshot.jpg",
   "date": "2026-09-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-tone3000-nam",
@@ -6334,7 +6793,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-lucinate-video-synth",
@@ -6347,7 +6807,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-logic-pro-12-3-session-players",
@@ -6360,7 +6821,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-elastic-melody-bass-dfam",
@@ -6373,7 +6835,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-flow-studio-3d-editor",
@@ -6386,7 +6849,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eddie-agent-marketplace",
@@ -6399,7 +6863,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-caira-gen-video-edit",
@@ -6412,7 +6877,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-boyle-venice-ai",
@@ -6425,7 +6891,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-witcher4-people-over-ai",
@@ -6438,7 +6905,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-witcher4-people-over-ai.jpg",
   "date": "2026-09-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-vizibeat-ue5-music-anim",
@@ -6451,7 +6919,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-vizibeat-ue5-music-anim.jpg",
   "date": "2026-09-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-atelico-own-artists-model",
@@ -6464,7 +6933,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-atelico-own-artists-model.jpg",
   "date": "2026-09-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel-watch5-offline-gemini",
@@ -6477,7 +6947,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-norway-smart-glasses-rules",
@@ -6490,7 +6961,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-caira-ai-video-edit",
@@ -6503,7 +6975,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-adreno-neural-fusion",
@@ -6516,7 +6989,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-acer-aspire-g3d-local-ai",
@@ -6529,7 +7003,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-solidworks-blue-tokens",
@@ -6542,7 +7017,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-solidworks-blue-tokens.png",
   "date": "2026-09-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-perplexity-color-tetrads",
@@ -6555,7 +7031,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-perplexity-color-tetrads.png",
   "date": "2026-09-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-coinbase-code-connect",
@@ -6568,7 +7045,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-coinbase-code-connect.png",
   "date": "2026-09-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dlss5-launch-date",
@@ -6581,7 +7059,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-dlss5-launch-date.jpg",
   "date": "2026-09-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agentic-ui-standard",
@@ -6594,7 +7073,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-agentic-ui-standard.png",
   "date": "2026-09-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-ai-personalization-echo-chamber",
@@ -6607,7 +7087,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-personalization-echo-chamber.jpg",
   "date": "2026-09-03",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-custom-written-novels",
@@ -6620,7 +7101,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-custom-written-novels.png",
   "date": "2026-09-03",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-african-audiobook-market",
@@ -6633,7 +7115,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-african-audiobook-market.png",
   "date": "2026-09-03",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-methane-deeplearning-maps",
@@ -6646,7 +7129,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-methane-deeplearning-maps.jpg",
   "date": "2026-09-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-latent-reasoning-cheap",
@@ -6659,7 +7143,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-latent-reasoning-cheap.jpg",
   "date": "2026-09-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ibm-15min-quantum",
@@ -6672,7 +7157,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-ibm-15min-quantum.jpg",
   "date": "2026-09-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-bitenet-ion-sites",
@@ -6685,7 +7171,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-bitenet-ion-sites.jpg",
   "date": "2026-09-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alpha-centauri-ai-trajectory",
@@ -6698,7 +7185,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-alpha-centauri-ai-trajectory.jpg",
   "date": "2026-09-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-denon-prime-4-g2",
@@ -6711,7 +7199,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-declared-intent-search",
@@ -6724,7 +7213,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-artist-operating-system",
@@ -6737,7 +7227,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-watermarks",
@@ -6750,7 +7241,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-tiff-future-in-focus",
@@ -6763,7 +7255,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-resolve-21-webinars",
@@ -6776,7 +7269,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ibc-2026-preview",
@@ -6789,7 +7283,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-gadot-bitcoin-ai-sets",
@@ -6802,7 +7297,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ae-portal-aug-2026",
@@ -6815,7 +7311,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-nvidia-says-dlss-5",
@@ -6828,7 +7325,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nvidia-says-dlss-5.jpg",
   "date": "2026-09-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-nimble-fox-launches-ai",
@@ -6841,7 +7339,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nimble-fox-launches-ai.jpg",
   "date": "2026-09-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-how-dream-racers-uses",
@@ -6854,7 +7353,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-how-dream-racers-uses.jpg",
   "date": "2026-09-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dwarf-fortress-creator-calls",
@@ -6867,7 +7367,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dwarf-fortress-creator-calls.jpg",
   "date": "2026-09-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-30-years-later-i",
@@ -6880,7 +7381,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-30-years-later-i.jpg",
   "date": "2026-09-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-sonos-27",
@@ -6893,7 +7395,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-paint-ai-watermark",
@@ -6906,7 +7409,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-muse-transcribe",
@@ -6919,7 +7423,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-google-pics-ga",
@@ -6932,7 +7437,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-atlas-brain-wearable",
@@ -6945,7 +7451,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-to-code-benchmark",
@@ -6958,7 +7465,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-to-code-benchmark.png",
   "date": "2026-09-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-text-to-cad-format",
@@ -6971,7 +7479,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-text-to-cad-format.png",
   "date": "2026-09-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-generative-shaders",
@@ -6984,7 +7493,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-generative-shaders.png",
   "date": "2026-09-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-empire-at-sea-venice",
@@ -6997,7 +7507,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-empire-at-sea-venice.jpg",
   "date": "2026-09-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-blender-line-art",
@@ -7010,7 +7521,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-blender-line-art.jpg",
   "date": "2026-09-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-zlibrary-my-beloved-anthropic",
@@ -7023,7 +7535,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-zlibrary-my-beloved-anthropic.jpg",
   "date": "2026-09-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-kr-publishing-knowledge-platform",
@@ -7036,7 +7549,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-kr-publishing-knowledge-platform.jpg",
   "date": "2026-09-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-kh-ttalkkak-translation",
@@ -7049,7 +7563,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-kh-ttalkkak-translation.jpg",
   "date": "2026-09-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-guest-post-the-human",
@@ -7062,7 +7577,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-guest-post-the-human.jpg",
   "date": "2026-09-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-appeal-over-legal-fees",
@@ -7075,7 +7591,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-appeal-over-legal-fees.jpg",
   "date": "2026-09-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-timesfm-3",
@@ -7088,7 +7605,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-timesfm-3.png",
   "date": "2026-09-01",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-npe-outbreak",
@@ -7101,7 +7619,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-npe-outbreak.jpg",
   "date": "2026-09-01",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ionq-macbook-decoder",
@@ -7114,7 +7633,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ionq-macbook-decoder.png",
   "date": "2026-09-01",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-grcop42-3dprint",
@@ -7127,7 +7647,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-grcop42-3dprint.jpg",
   "date": "2026-09-01",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-extreme-scenarios",
@@ -7140,7 +7661,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-extreme-scenarios.jpg",
   "date": "2026-09-01",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-stable-audio-daw",
@@ -7153,7 +7675,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-musical-spirograph",
@@ -7166,7 +7689,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-jazz-profile-hijack",
@@ -7179,7 +7703,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-aria-chart-ban",
@@ -7192,7 +7717,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-track-detectives",
@@ -7205,7 +7731,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-09-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-tung-sahur-ai-lawsuit",
@@ -7218,7 +7745,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-nice-touch-v2",
@@ -7231,7 +7759,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-junkyard-king-daubrez",
@@ -7244,7 +7773,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-be-brave-venice-ai-doc",
@@ -7257,7 +7787,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-prompt-copyright-bill",
@@ -7270,7 +7801,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-09-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-inworld-tts-evals",
@@ -7283,7 +7815,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-inworld-tts-evals.png",
   "date": "2026-09-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gta6-crowd-tech-lead",
@@ -7296,7 +7829,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gta6-crowd-tech-lead.jpg",
   "date": "2026-09-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-city-sample-pcg-mcp",
@@ -7309,7 +7843,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-city-sample-pcg-mcp.jpg",
   "date": "2026-09-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-aws-studio-ai-ops",
@@ -7322,7 +7857,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-aws-studio-ai-ops.jpg",
   "date": "2026-09-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-1666-drops-ai",
@@ -7335,7 +7871,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-1666-drops-ai.jpg",
   "date": "2026-09-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-xr-operator",
@@ -7348,7 +7885,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-01",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-framework-192gb-desktop",
@@ -7361,7 +7899,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-01",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-smart-glasses-2027",
@@ -7374,7 +7913,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-01",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-android17-agent-dashboard",
@@ -7387,7 +7927,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-09-01",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vercel-design-md",
@@ -7400,7 +7941,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-vercel-design-md.png",
   "date": "2026-09-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-runway-solaris",
@@ -7413,7 +7955,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-runway-solaris.jpg",
   "date": "2026-09-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-quest3-240hz",
@@ -7426,7 +7969,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-quest3-240hz.jpg",
   "date": "2026-09-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-css-random-polyfill",
@@ -7439,7 +7983,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-css-random-polyfill.webp",
   "date": "2026-09-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-blender-krita-bridge",
@@ -7452,7 +7997,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-blender-krita-bridge.jpg",
   "date": "2026-09-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-ssrs-audiobook-narration-survey",
@@ -7465,7 +8011,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ssrs-audiobook-narration-survey.png",
   "date": "2026-09-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-loc-ai-sandbox",
@@ -7478,7 +8025,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-loc-ai-sandbox.png",
   "date": "2026-09-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-getabstract-human-longlist",
@@ -7491,7 +8039,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-getabstract-human-longlist.png",
   "date": "2026-09-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-elsevier-nora-ebook-assistant",
@@ -7504,7 +8053,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-elsevier-nora-ebook-assistant.jpg",
   "date": "2026-09-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-calibre-ai-covers",
@@ -7517,7 +8067,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-calibre-ai-covers.jpg",
   "date": "2026-09-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-soec-ai-optimization",
@@ -7530,7 +8081,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-soec-ai-optimization.jpg",
   "date": "2026-08-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-qml-heart-disease",
@@ -7543,7 +8095,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-qml-heart-disease.png",
   "date": "2026-08-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-malva-single-cell-search",
@@ -7556,7 +8109,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-malva-single-cell-search.jpg",
   "date": "2026-08-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-extended-mean-field",
@@ -7569,7 +8123,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-extended-mean-field.jpg",
   "date": "2026-08-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-chess-complexity-tolerance",
@@ -7582,7 +8137,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-chess-complexity-tolerance.jpg",
   "date": "2026-08-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-friction",
@@ -7595,7 +8151,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-stemdeck",
@@ -7608,7 +8165,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-round-hill-suit",
@@ -7621,7 +8179,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-platform-ai-policies",
@@ -7634,7 +8193,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-human-first-certification",
@@ -7647,7 +8207,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-utopai-ai-native-slate",
@@ -7660,7 +8221,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-tippett-studio-closing",
@@ -7673,7 +8235,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-tilly-norwood-disclosure",
@@ -7686,7 +8249,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-flying-bark-avatar-aang",
@@ -7699,7 +8263,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-firefly-audio-tools",
@@ -7712,7 +8277,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unity-dungeon-generator",
@@ -7725,7 +8291,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-dungeon-generator.jpg",
   "date": "2026-08-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-twitch-ai-lawsuit",
@@ -7738,7 +8305,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-twitch-ai-lawsuit.jpg",
   "date": "2026-08-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-tcrf-wiki-ddos",
@@ -7751,7 +8319,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tcrf-wiki-ddos.jpg",
   "date": "2026-08-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-stylized-water-river",
@@ -7764,7 +8333,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-stylized-water-river.jpg",
   "date": "2026-08-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-paradox-mobile-aaa",
@@ -7777,7 +8347,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-paradox-mobile-aaa.jpg",
   "date": "2026-08-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-relay-q-mic",
@@ -7790,7 +8361,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-mac-ai-demand",
@@ -7803,7 +8375,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-china-humanoid-games",
@@ -7816,7 +8389,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-anthropic-hardware-standard",
@@ -7829,7 +8403,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-figma-variables-structure",
@@ -7842,7 +8417,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-figma-variables-structure.jpg",
   "date": "2026-08-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-disney-auction-concept-art",
@@ -7855,7 +8431,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-disney-auction-concept-art.jpg",
   "date": "2026-08-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-interior-measurement",
@@ -7868,7 +8445,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-ai-interior-measurement.jpg",
   "date": "2026-08-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-camo-shirt",
@@ -7881,7 +8459,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-camo-shirt.jpg",
   "date": "2026-08-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-adobe-unlock-mockups",
@@ -7894,7 +8473,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-adobe-unlock-mockups.jpg",
   "date": "2026-08-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-writer-beware-ai-scams",
@@ -7907,7 +8487,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-writer-beware-ai-scams.jpg",
   "date": "2026-08-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-vietnam-ai-labelling-law",
@@ -7920,7 +8501,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-vietnam-ai-labelling-law.png",
   "date": "2026-08-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-japan-literary-prize-ai-flood",
@@ -7933,7 +8515,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-japan-literary-prize-ai-flood.jpg",
   "date": "2026-08-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-hathitrust-transparent-books",
@@ -7946,7 +8529,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-hathitrust-transparent-books.jpg",
   "date": "2026-08-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ccc-fair-use-training-part3",
@@ -7959,7 +8543,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ccc-fair-use-training-part3.jpg",
   "date": "2026-08-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quantum-docking",
@@ -7972,7 +8557,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-quantum-docking.png",
   "date": "2026-08-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-parkinsons-drawing",
@@ -7985,7 +8571,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-parkinsons-drawing.jpg",
   "date": "2026-08-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mof-linker-ml",
@@ -7998,7 +8585,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-mof-linker-ml.jpg",
   "date": "2026-08-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-glucofm",
@@ -8011,7 +8599,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-glucofm.png",
   "date": "2026-08-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-cancer-vaccine-algorithm",
@@ -8024,7 +8613,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-cancer-vaccine-algorithm.jpg",
   "date": "2026-08-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-uk-voice-cloning",
@@ -8037,7 +8627,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ig-first-draft",
@@ -8050,7 +8641,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-happy-shrimp",
@@ -8063,7 +8655,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-canada-ai-study",
@@ -8076,7 +8669,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-photoshop-firefly5",
@@ -8089,7 +8683,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-open-weight-onprem",
@@ -8102,7 +8697,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-moonshots-grant",
@@ -8115,7 +8711,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-indie-slop",
@@ -8128,7 +8725,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-free-video-generator",
@@ -8141,7 +8739,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-taiwu-dynamic-npcs",
@@ -8154,7 +8753,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-taiwu-dynamic-npcs.jpg",
   "date": "2026-08-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-james-pond-remake",
@@ -8167,7 +8767,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-james-pond-remake.jpg",
   "date": "2026-08-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-google-ai-pitch",
@@ -8180,7 +8781,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-google-ai-pitch.jpg",
   "date": "2026-08-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-genai-visual-literacy",
@@ -8193,7 +8795,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-genai-visual-literacy.jpg",
   "date": "2026-08-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dwarf-fortress-magic",
@@ -8206,7 +8809,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dwarf-fortress-magic.jpg",
   "date": "2026-08-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-roborock-qrevo-2-pro",
@@ -8219,7 +8823,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel-11",
@@ -8232,7 +8837,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-low-light-two-stage-ai",
@@ -8245,7 +8851,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ios27-siri-app",
@@ -8258,7 +8865,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-nano-4",
@@ -8271,7 +8879,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vercel-dashboard-agents",
@@ -8284,7 +8893,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-vercel-dashboard-agents.jpg",
   "date": "2026-08-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-openai-cursor-cutoff",
@@ -8297,7 +8907,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-openai-cursor-cutoff.jpg",
   "date": "2026-08-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-agent-army",
@@ -8310,7 +8921,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-agent-army.jpg",
   "date": "2026-08-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-atomica-thermal-microstructures",
@@ -8323,7 +8935,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-atomica-thermal-microstructures.jpg",
   "date": "2026-08-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-websites-look-same",
@@ -8336,7 +8949,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-ai-websites-look-same.png",
   "date": "2026-08-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-manga-million-translation",
@@ -8349,7 +8963,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-manga-million-translation.jpg",
   "date": "2026-08-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-copyright-registration-gap",
@@ -8362,7 +8977,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-copyright-registration-gap.jpg",
   "date": "2026-08-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-childrens-book-slop",
@@ -8375,7 +8991,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-childrens-book-slop.jpg",
   "date": "2026-08-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-bartz-ai-thriller",
@@ -8388,7 +9005,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-bartz-ai-thriller.jpg",
   "date": "2026-08-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-academic-ai-screening",
@@ -8400,7 +9018,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-08-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quera-claude",
@@ -8413,7 +9032,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-quera-claude.jpg",
   "date": "2026-08-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-earth-ai",
@@ -8426,7 +9046,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-earth-ai.png",
   "date": "2026-08-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-bench-leak",
@@ -8439,7 +9060,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-bench-leak.jpg",
   "date": "2026-08-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alpha-tutor",
@@ -8452,7 +9074,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-alpha-tutor.jpg",
   "date": "2026-08-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-agent-hack",
@@ -8465,7 +9088,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-agent-hack.jpg",
   "date": "2026-08-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-voxis",
@@ -8478,7 +9102,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-amended",
@@ -8491,7 +9116,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-or1",
@@ -8504,7 +9130,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-dre-ai",
@@ -8517,7 +9144,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-definitive-recording",
@@ -8530,7 +9158,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-usc-etc-beeble",
@@ -8543,7 +9172,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-slapshot-comfy-nodes",
@@ -8556,7 +9186,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eddie-ai-credits",
@@ -8569,7 +9200,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-de-aging-uncanny",
@@ -8582,7 +9214,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-astro-burn-microseries",
@@ -8595,7 +9228,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-tripo-topology",
@@ -8608,7 +9242,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tripo-topology.jpg",
   "date": "2026-08-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-saber-craft",
@@ -8621,7 +9256,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-saber-craft.jpg",
   "date": "2026-08-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-id-genai",
@@ -8634,7 +9270,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-id-genai.jpg",
   "date": "2026-08-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gta6-npc-team",
@@ -8647,7 +9284,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gta6-npc-team.jpg",
   "date": "2026-08-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dlss5-leak",
@@ -8660,7 +9298,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-dlss5-leak.jpg",
   "date": "2026-08-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-xreal-xr",
@@ -8673,7 +9312,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-xiaomi-cube",
@@ -8686,7 +9326,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-viture-phantom",
@@ -8699,7 +9340,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-oneui9-beta7",
@@ -8712,7 +9354,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-lg-gm9",
@@ -8725,7 +9368,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-muse-image-ai-gateway",
@@ -8738,7 +9382,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-muse-image-ai-gateway.png",
   "date": "2026-08-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-workflow-lab",
@@ -8751,7 +9396,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-workflow-lab.png",
   "date": "2026-08-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-ai-index",
@@ -8764,7 +9410,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-ai-index.png",
   "date": "2026-08-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-android-xr-listening-area",
@@ -8777,7 +9424,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-android-xr-listening-area.jpg",
   "date": "2026-08-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-aia-contract-assistant",
@@ -8790,7 +9438,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-aia-contract-assistant.jpg",
   "date": "2026-08-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-when-bots-write",
@@ -8803,7 +9452,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-when-bots-write.jpg",
   "date": "2026-08-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-naver-webtoon-byus",
@@ -8816,7 +9466,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-naver-webtoon-byus.jpg",
   "date": "2026-08-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-kindle-catalog-dilution",
@@ -8829,7 +9480,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-kindle-catalog-dilution.jpg",
   "date": "2026-08-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ftc-book-destruction",
@@ -8841,7 +9493,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-08-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-claude-watermark-theatre",
@@ -8853,7 +9506,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-08-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-solar-storm-9h",
@@ -8866,7 +9520,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-solar-storm-9h.jpg",
   "date": "2026-08-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-qled-ml",
@@ -8879,7 +9534,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-qled-ml.jpg",
   "date": "2026-08-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-protein-beyond",
@@ -8892,7 +9548,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-protein-beyond.png",
   "date": "2026-08-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-fluid-ai",
@@ -8905,7 +9562,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-fluid-ai.jpg",
   "date": "2026-08-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-double-blind-eval",
@@ -8918,7 +9576,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-double-blind-eval.jpg",
   "date": "2026-08-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-umg-ai-patents",
@@ -8931,7 +9590,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-28",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-class-action",
@@ -8944,7 +9604,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-28",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-quad-cortex-coros",
@@ -8957,7 +9618,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-28",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-wonka-gene-wilder",
@@ -8970,7 +9632,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-scantic-3dgs",
@@ -8983,7 +9646,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-media-composer-2026-8",
@@ -8996,7 +9660,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-cocomelon-ai",
@@ -9009,7 +9674,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-short-drama",
@@ -9022,7 +9688,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-tencent-motus",
@@ -9035,7 +9702,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tencent-motus.jpg",
   "date": "2026-08-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-side-modlai-qa",
@@ -9048,7 +9716,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-side-modlai-qa.jpg",
   "date": "2026-08-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-meta-xr-operator",
@@ -9061,7 +9730,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-meta-xr-operator.jpg",
   "date": "2026-08-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gta6-no-genai",
@@ -9074,7 +9744,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gta6-no-genai.jpg",
   "date": "2026-08-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gamescom-ai-disclosure",
@@ -9087,7 +9758,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gamescom-ai-disclosure.jpg",
   "date": "2026-08-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-whoop-meridian",
@@ -9100,7 +9772,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-plaud-one",
@@ -9113,7 +9786,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-microduck",
@@ -9126,7 +9800,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-led",
@@ -9139,7 +9814,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-android-ram",
@@ -9152,7 +9828,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-system-control-plane",
@@ -9165,7 +9842,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-system-control-plane.jpg",
   "date": "2026-08-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-photoshop-ai",
@@ -9178,7 +9856,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-photoshop-ai.jpg",
   "date": "2026-08-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-google-flow",
@@ -9191,7 +9870,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-google-flow.jpg",
   "date": "2026-08-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-fusion-forward",
@@ -9204,7 +9884,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-fusion-forward.jpg",
   "date": "2026-08-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cursor-harness",
@@ -9217,7 +9898,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-cursor-harness.jpg",
   "date": "2026-08-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-scholarly-kitchen-ai-use",
@@ -9230,7 +9912,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-scholarly-kitchen-ai-use.jpg",
   "date": "2026-08-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-google-expert-intelligence",
@@ -9243,7 +9926,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-google-expert-intelligence.jpg",
   "date": "2026-08-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-amazon-vgt3-scanning",
@@ -9256,7 +9940,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-amazon-vgt3-scanning.jpg",
   "date": "2026-08-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-ghost-authors",
@@ -9269,7 +9954,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-ghost-authors.jpg",
   "date": "2026-08-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-ban-disabled-authors",
@@ -9282,7 +9968,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-ban-disabled-authors.jpg",
   "date": "2026-08-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-tensor-networks",
@@ -9295,7 +9982,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-tensor-networks.jpg",
   "date": "2026-08-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-kids-language",
@@ -9308,7 +9996,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-kids-language.jpg",
   "date": "2026-08-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-hydrogym",
@@ -9321,7 +10010,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-hydrogym.jpg",
   "date": "2026-08-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-crysvcd",
@@ -9334,7 +10024,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-crysvcd.jpg",
   "date": "2026-08-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-aintibody",
@@ -9347,7 +10038,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-aintibody.jpg",
   "date": "2026-08-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-soundon-gina-jones",
@@ -9360,7 +10052,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-sonible-smartchain",
@@ -9373,7 +10066,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-instrument-x",
@@ -9386,7 +10080,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-instrument-x.jpg",
   "date": "2026-08-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-elevenmusic-composer",
@@ -9399,7 +10094,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music-elevenmusic-composer.png",
   "date": "2026-08-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-abyss-ii",
@@ -9412,7 +10108,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-unreleased-video-models",
@@ -9425,7 +10122,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-lineo-producers",
@@ -9438,7 +10136,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-human-gen-workflows",
@@ -9451,7 +10150,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-flow-studio-3d",
@@ -9464,7 +10164,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-busan-innoasia",
@@ -9477,7 +10178,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-busan-innoasia.jpg",
   "date": "2026-08-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-sega-crazytaxi",
@@ -9490,7 +10192,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sega-crazytaxi.jpg",
   "date": "2026-08-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ryzachat",
@@ -9503,7 +10206,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ryzachat.jpg",
   "date": "2026-08-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ludoai-keyframe",
@@ -9516,7 +10220,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ludoai-keyframe.jpg",
   "date": "2026-08-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ironmace-aura",
@@ -9529,7 +10234,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ironmace-aura.jpg",
   "date": "2026-08-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-horii-slimey",
@@ -9542,7 +10248,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-horii-slimey.jpg",
   "date": "2026-08-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-samsung-pim",
@@ -9555,7 +10262,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-luffu-link",
@@ -9568,7 +10276,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-lg-cloid",
@@ -9581,7 +10290,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-transcribe",
@@ -9594,7 +10304,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-android-xr-translate",
@@ -9607,7 +10318,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-theia-drawing-cad",
@@ -9620,7 +10332,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-theia-drawing-cad.png",
   "date": "2026-08-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-smart-remesh",
@@ -9633,7 +10346,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-smart-remesh.jpg",
   "date": "2026-08-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-meta-xr-operator",
@@ -9646,7 +10360,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-meta-xr-operator.jpg",
   "date": "2026-08-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-path-trim",
@@ -9659,7 +10374,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-path-trim.jpg",
   "date": "2026-08-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-claude-code-design",
@@ -9672,7 +10388,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-claude-code-design.jpg",
   "date": "2026-08-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-uncanny-valley-detection",
@@ -9685,7 +10402,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-uncanny-valley-detection.jpg",
   "date": "2026-08-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ukraine-monograph-oa",
@@ -9698,7 +10416,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ukraine-monograph-oa.jpg",
   "date": "2026-08-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-library-news-august",
@@ -9711,7 +10430,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-library-news-august.jpg",
   "date": "2026-08-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-kaze-us-no-ai-translation",
@@ -9724,7 +10444,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-kaze-us-no-ai-translation.jpg",
   "date": "2026-08-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-indie-manga-alliance",
@@ -9737,7 +10458,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-indie-manga-alliance.jpg",
   "date": "2026-08-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-shrinking-style",
@@ -9750,7 +10472,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-shrinking-style.jpg",
   "date": "2026-08-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-predictive-categorization",
@@ -9763,7 +10486,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-predictive-categorization.jpg",
   "date": "2026-08-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-llm-scholar-bench",
@@ -9776,7 +10500,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-llm-scholar-bench.jpg",
   "date": "2026-08-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-green-ammonia",
@@ -9789,7 +10514,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-green-ammonia.jpg",
   "date": "2026-08-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-brain-on-ai",
@@ -9802,7 +10528,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-brain-on-ai.jpg",
   "date": "2026-08-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-spectralayers-13",
@@ -9815,7 +10542,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-luminate-ai-label",
@@ -9828,7 +10556,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-jazz-fingerprint",
@@ -9841,7 +10570,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-hotone-pulze-jr",
@@ -9854,7 +10584,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-chartmetric-flow",
@@ -9867,7 +10598,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-worldclaw-3d",
@@ -9880,7 +10612,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-wildbrain-personality-ai",
@@ -9893,7 +10626,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-vfx-atlas-2026",
@@ -9906,7 +10640,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-mac-studio-m5",
@@ -9919,7 +10654,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-editshare-flow-ai",
@@ -9932,7 +10668,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-tanioka-spotify",
@@ -9945,7 +10682,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-tanioka-spotify.jpg",
   "date": "2026-08-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-rtx-spark",
@@ -9958,7 +10696,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-rtx-spark.jpg",
   "date": "2026-08-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-nordic-ai-studios",
@@ -9971,7 +10710,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nordic-ai-studios.jpg",
   "date": "2026-08-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-humankind2-ai-doubt",
@@ -9984,7 +10724,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-humankind2-ai-doubt.jpg",
   "date": "2026-08-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ace-aniimo",
@@ -9997,7 +10738,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ace-aniimo.jpg",
   "date": "2026-08-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-perplexity-portable",
@@ -10010,7 +10752,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-nothing-os5",
@@ -10023,7 +10766,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-garmin-epic",
@@ -10036,7 +10780,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-claude-firmware-hack",
@@ -10049,7 +10794,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-m6",
@@ -10062,7 +10808,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vercel-run-sdk",
@@ -10075,7 +10822,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-vercel-run-sdk.png",
   "date": "2026-08-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-photoshop-selection",
@@ -10088,7 +10836,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-photoshop-selection.jpg",
   "date": "2026-08-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-millwork-drafting",
@@ -10101,7 +10850,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-millwork-drafting.jpg",
   "date": "2026-08-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-instagram-first-draft",
@@ -10114,7 +10864,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-instagram-first-draft.jpg",
   "date": "2026-08-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-autonomous-website",
@@ -10127,7 +10878,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-autonomous-website.jpg",
   "date": "2026-08-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-royalty-transparency-aperture",
@@ -10140,7 +10892,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-royalty-transparency-aperture.png",
   "date": "2026-08-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-publishing-technology-radar",
@@ -10153,7 +10906,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-publishing-technology-radar.jpg",
   "date": "2026-08-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-nigel-george-creative-agency",
@@ -10166,7 +10920,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-nigel-george-creative-agency.jpg",
   "date": "2026-08-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-eu-ai-transparency-indie",
@@ -10179,7 +10934,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-eu-ai-transparency-indie.jpg",
   "date": "2026-08-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-carlsen-openai-neinhorn",
@@ -10192,7 +10948,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-carlsen-openai-neinhorn.png",
   "date": "2026-08-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-slac-compress",
@@ -10205,7 +10962,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-slac-compress.jpg",
   "date": "2026-08-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-skala-cp2k",
@@ -10218,7 +10976,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-skala-cp2k.png",
   "date": "2026-08-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-grcop42-print",
@@ -10231,7 +10990,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-grcop42-print.jpg",
   "date": "2026-08-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-eta-learning",
@@ -10244,7 +11004,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-eta-learning.jpg",
   "date": "2026-08-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-dna-initiator",
@@ -10257,7 +11018,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-dna-initiator.jpg",
   "date": "2026-08-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-trama",
@@ -10270,7 +11032,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-minimax-3",
@@ -10283,7 +11046,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-cyanite-tagging",
@@ -10296,7 +11060,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-aria-charts",
@@ -10309,7 +11074,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-search",
@@ -10322,7 +11088,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-sp-hydra",
@@ -10335,7 +11102,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-25",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-seedance-25",
@@ -10348,7 +11116,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-25",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-glass-matte",
@@ -10361,7 +11130,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-25",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-apple-headsup",
@@ -10374,7 +11144,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-25",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-spider-walker",
@@ -10387,7 +11158,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-spider-walker.jpg",
   "date": "2026-08-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-roblox-roost",
@@ -10400,7 +11172,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-roblox-roost.jpg",
   "date": "2026-08-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-roblox-liveops",
@@ -10413,7 +11186,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-roblox-liveops.jpg",
   "date": "2026-08-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-nexxus-ai-labs",
@@ -10426,7 +11200,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nexxus-ai-labs.png",
   "date": "2026-08-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-miris-spatial",
@@ -10439,7 +11214,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-miris-spatial.jpg",
   "date": "2026-08-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-offline-doc-llm",
@@ -10452,7 +11228,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-glasses-detector-app",
@@ -10465,7 +11242,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-device-help",
@@ -10478,7 +11256,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-budget-ar-glasses",
@@ -10491,7 +11270,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-store-assistant",
@@ -10504,7 +11284,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-walmart-3dp",
@@ -10517,7 +11298,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-walmart-3dp.jpg",
   "date": "2026-08-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-marvelous-2026",
@@ -10530,7 +11312,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-marvelous-2026.jpg",
   "date": "2026-08-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-flow-studio",
@@ -10543,7 +11326,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-flow-studio.jpg",
   "date": "2026-08-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-eraser",
@@ -10556,7 +11340,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-eraser.jpg",
   "date": "2026-08-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-design-diff",
@@ -10569,7 +11354,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-design-diff.png",
   "date": "2026-08-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-warhammer-ai-warning",
@@ -10582,7 +11368,22 @@
   "motif": "swatch",
   "image": "pipeline/media/books-warhammer-ai-warning.jpg",
   "date": "2026-08-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
+ },
+ {
+  "id": "books-spotify-audiobook-ai",
+  "headline": "스포티파이, 오디오북에\nAI 대화 기능 추가",
+  "body": "스포티파이가 프롬프트 재생목록과 대화형 질문 응답 등 AI 오디오북 기능을 새로 선보였다.",
+  "tool": "Books",
+  "source": "Good e-Reader",
+  "url": "https://goodereader.com/blog/audiobooks/these-are-all-of-the-new-spotify-audibook-features",
+  "accent": "#7928ca",
+  "motif": "swatch",
+  "image": "pipeline/media/books-spotify-audiobook-ai.png",
+  "date": "2026-08-25",
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-play-insights",
@@ -10595,7 +11396,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-play-insights.jpg",
   "date": "2026-08-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-training-law",
@@ -10608,7 +11410,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-training-law.jpg",
   "date": "2026-08-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-editor-limits",
@@ -10621,7 +11424,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-editor-limits.jpg",
   "date": "2026-08-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-shadow-care",
@@ -10634,7 +11438,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-shadow-care.jpg",
   "date": "2026-08-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-qec-decoder",
@@ -10647,7 +11452,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-qec-decoder.png",
   "date": "2026-08-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-intrabodies",
@@ -10660,7 +11466,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-intrabodies.jpg",
   "date": "2026-08-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-bonsai",
@@ -10673,7 +11480,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-bonsai.jpg",
   "date": "2026-08-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-observatory",
@@ -10686,7 +11494,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ai-observatory.jpg",
   "date": "2026-08-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-model-retire",
@@ -10699,7 +11508,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-phosphor-1",
@@ -10712,7 +11522,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ml-plugin-week",
@@ -10725,7 +11536,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-subtitlenext-asr",
@@ -10738,7 +11550,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-runway-ruby",
@@ -10751,7 +11564,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ltx-2-5",
@@ -10764,7 +11578,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-accuface-2",
@@ -10777,7 +11592,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-skillprint-signal",
@@ -10790,7 +11606,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-skillprint-signal.jpg",
   "date": "2026-08-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-r6-toxmod",
@@ -10803,7 +11620,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-r6-toxmod.jpg",
   "date": "2026-08-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-deepmind-eve",
@@ -10816,7 +11634,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-deepmind-eve.jpg",
   "date": "2026-08-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-podcast",
@@ -10829,7 +11648,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-podcast.jpg",
   "date": "2026-08-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-1666-amsterdam",
@@ -10842,7 +11662,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-1666-amsterdam.jpg",
   "date": "2026-08-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-rayneo-io-gt-split",
@@ -10855,7 +11676,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-oura-sleep-lawsuit",
@@ -10868,7 +11690,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-camera-hardware-lock",
@@ -10881,7 +11704,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-home-voice-kelvin",
@@ -10894,7 +11718,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-airpods-camera-stills",
@@ -10907,7 +11732,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-v0-connect-100-services",
@@ -10920,7 +11746,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-v0-connect-100-services.png",
   "date": "2026-08-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-slack-code-multiplayer-agents",
@@ -10933,7 +11760,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-slack-code-multiplayer-agents.jpg",
   "date": "2026-08-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-nuke-17-1-splat-relight",
@@ -10946,7 +11774,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-nuke-17-1-splat-relight.jpg",
   "date": "2026-08-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-motion-plugin-show-your-work",
@@ -10959,7 +11788,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-motion-plugin-show-your-work.jpg",
   "date": "2026-08-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-builder-shape-first",
@@ -10972,7 +11802,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-ai-builder-shape-first.png",
   "date": "2026-08-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-proudly-human",
@@ -10985,7 +11816,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-proudly-human.jpg",
   "date": "2026-08-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-machine-reader",
@@ -10998,7 +11830,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-machine-reader.jpg",
   "date": "2026-08-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-friedman-ai-roundup",
@@ -11011,7 +11844,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-friedman-ai-roundup.jpg",
   "date": "2026-08-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-frankfurt-rights-ai",
@@ -11024,7 +11858,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-frankfurt-rights-ai.jpg",
   "date": "2026-08-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-chapter-summaries",
@@ -11037,7 +11872,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-chapter-summaries.jpg",
   "date": "2026-08-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-virtual-cell",
@@ -11050,7 +11886,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-virtual-cell.jpg",
   "date": "2026-08-21",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-cuspai-mof",
@@ -11063,7 +11900,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-cuspai-mof.png",
   "date": "2026-08-21",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alien-intelligence",
@@ -11076,7 +11914,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-alien-intelligence.jpg",
   "date": "2026-08-21",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-virus",
@@ -11089,7 +11928,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-virus.jpg",
   "date": "2026-08-21",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-agent-scale",
@@ -11102,7 +11942,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-agent-scale.jpg",
   "date": "2026-08-21",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-vibe-coded-plugins",
@@ -11115,7 +11956,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-vaemi-synterra",
@@ -11128,7 +11970,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-tamber-2",
@@ -11141,7 +11984,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ssg-loudness-pro",
@@ -11154,7 +11998,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-apple-made-with-ai-tag",
@@ -11167,7 +12012,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-metabull-inkrise",
@@ -11180,7 +12026,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-james-gray",
@@ -11193,7 +12040,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-firefly-audio",
@@ -11206,7 +12054,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eddie-ai",
@@ -11219,7 +12068,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-comfyui-mcp",
@@ -11232,7 +12082,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unity-cli",
@@ -11245,7 +12096,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-cli.jpg",
   "date": "2026-08-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-uefn-mcp",
@@ -11258,7 +12110,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-uefn-mcp.jpg",
   "date": "2026-08-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-sony-grind-patent",
@@ -11271,7 +12124,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sony-grind-patent.jpg",
   "date": "2026-08-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-meta-pocket",
@@ -11284,7 +12138,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-meta-pocket.jpg",
   "date": "2026-08-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-bic-kimyongha",
@@ -11297,7 +12152,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-bic-kimyongha.jpg",
   "date": "2026-08-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-xreal-aura",
@@ -11310,7 +12166,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-pixelwatch5-breathing",
@@ -11323,7 +12180,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-photo-body-composition",
@@ -11336,7 +12194,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-homepad-faces",
@@ -11349,7 +12208,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-hilight",
@@ -11362,7 +12222,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-invisible-ai-features",
@@ -11375,7 +12236,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-invisible-ai-features.jpg",
   "date": "2026-08-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-sightlines-agentic",
@@ -11388,7 +12250,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-sightlines-agentic.jpg",
   "date": "2026-08-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-docs-automation-line",
@@ -11401,7 +12264,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-docs-automation-line.jpg",
   "date": "2026-08-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dev-tool-power-rankings",
@@ -11414,7 +12278,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-dev-tool-power-rankings.jpg",
   "date": "2026-08-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-aura-dark-and-darker",
@@ -11427,7 +12292,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-aura-dark-and-darker.jpg",
   "date": "2026-08-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-textbook-suit",
@@ -11440,7 +12306,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-textbook-suit.png",
   "date": "2026-08-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-religion-ai-slop",
@@ -11453,7 +12320,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-religion-ai-slop.png",
   "date": "2026-08-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-reading-buddy",
@@ -11466,7 +12334,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-reading-buddy.jpg",
   "date": "2026-08-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-file-access-agents",
@@ -11479,7 +12348,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-file-access-agents.jpg",
   "date": "2026-08-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-facilitated",
@@ -11492,7 +12362,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-facilitated.jpg",
   "date": "2026-08-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-recursive-self-improvement",
@@ -11505,7 +12376,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-recursive-self-improvement.jpg",
   "date": "2026-08-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-photonic-inverse-design",
@@ -11518,7 +12390,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-photonic-inverse-design.jpg",
   "date": "2026-08-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-machine-culture",
@@ -11531,7 +12404,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-machine-culture.jpg",
   "date": "2026-08-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-fda-ai-device-evidence",
@@ -11544,7 +12418,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-fda-ai-device-evidence.jpg",
   "date": "2026-08-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-blue-skies-contrails",
@@ -11557,7 +12432,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-blue-skies-contrails.jpg",
   "date": "2026-08-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-umg-hook-licensed-remix",
@@ -11570,7 +12446,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-train-your-own-model",
@@ -11583,7 +12460,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-stemdeck-local-splitter",
@@ -11596,7 +12474,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-lalal-lynx-vocal-rip",
@@ -11609,7 +12488,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-i-am-choir-neural-vocal",
@@ -11622,7 +12502,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-wan-3-honest-review",
@@ -11635,7 +12516,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-val-kilmer-ai-footage",
@@ -11648,7 +12530,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-strada-2-virtual-drive",
@@ -11661,7 +12544,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-rick-baker-locarno",
@@ -11674,7 +12558,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-matriarch-verena-puhm",
@@ -11687,7 +12572,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-20",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-vapor-world-ai-cutscenes",
@@ -11700,7 +12586,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-vapor-world-ai-cutscenes.jpg",
   "date": "2026-08-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unreal-vibe-simulation",
@@ -11713,7 +12600,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unreal-vibe-simulation.jpg",
   "date": "2026-08-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-sony-ceo-human-made-art",
@@ -11726,7 +12614,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sony-ceo-human-made-art.jpg",
   "date": "2026-08-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-james-pond-ai-suspicion",
@@ -11739,7 +12628,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-james-pond-ai-suspicion.jpg",
   "date": "2026-08-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gunz-steam-return",
@@ -11752,7 +12642,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gunz-steam-return.jpg",
   "date": "2026-08-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-macos-27-siri-app",
@@ -11765,7 +12656,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ice-smart-glasses-ban",
@@ -11778,7 +12670,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-comu-action-pro-recorder",
@@ -11791,7 +12684,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-comcast-wifi-motion-sensing",
@@ -11804,7 +12698,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-alexa-plus-fire-tv-free",
@@ -11817,7 +12712,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-scantic-phone-splats",
@@ -11830,7 +12726,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-scantic-phone-splats.jpg",
   "date": "2026-08-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-humans-in-the-loop-factory",
@@ -11843,7 +12740,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-humans-in-the-loop-factory.jpg",
   "date": "2026-08-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dnad-ai-creativity-report",
@@ -11856,7 +12754,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-dnad-ai-creativity-report.jpg",
   "date": "2026-08-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-block-berd-workspace",
@@ -11869,7 +12768,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-block-berd-workspace.jpg",
   "date": "2026-08-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-returns-interfaces",
@@ -11882,7 +12782,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-ai-returns-interfaces.png",
   "date": "2026-08-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-story-hacker-os",
@@ -11895,7 +12796,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-story-hacker-os.jpg",
   "date": "2026-08-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-mcgraw-hill-ai-results",
@@ -11907,7 +12809,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-08-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-automated-author-stack",
@@ -11920,7 +12823,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-automated-author-stack.jpg",
   "date": "2026-08-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-book-discoverability",
@@ -11933,7 +12837,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-book-discoverability.jpg",
   "date": "2026-08-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-article-versioning",
@@ -11946,7 +12851,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-article-versioning.jpg",
   "date": "2026-08-20",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-tissue-clocks",
@@ -11959,7 +12865,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-tissue-clocks.jpg",
   "date": "2026-08-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-photoscan-insulin",
@@ -11972,7 +12879,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-photoscan-insulin.png",
   "date": "2026-08-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-herbarium-flowering",
@@ -11985,7 +12893,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-herbarium-flowering.jpg",
   "date": "2026-08-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-dna-memristor",
@@ -11998,7 +12907,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-dna-memristor.jpg",
   "date": "2026-08-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-attribution-decay",
@@ -12011,7 +12921,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-attribution-decay.jpg",
   "date": "2026-08-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-submithub-40",
@@ -12024,7 +12935,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-roundhill-suits",
@@ -12037,7 +12949,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-opentune",
@@ -12050,7 +12963,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-happyshrimp",
@@ -12063,7 +12977,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ethical-plugins",
@@ -12076,7 +12991,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-viewscreen-moana",
@@ -12089,7 +13005,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-robin-williams-instagram",
@@ -12102,7 +13019,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-mpa-bytedance-mou",
@@ -12115,7 +13033,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ghibli-next-film-ai",
@@ -12128,7 +13047,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-descript-lipsync-dubbing",
@@ -12141,7 +13061,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-wolf-haus-no-genai",
@@ -12154,7 +13075,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-wolf-haus-no-genai.jpg",
   "date": "2026-08-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-witcher3-fear-cut",
@@ -12167,7 +13089,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-witcher3-fear-cut.jpg",
   "date": "2026-08-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-nte-doubao-watermark",
@@ -12180,7 +13103,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-nte-doubao-watermark.jpg",
   "date": "2026-08-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-immens-engine",
@@ -12193,7 +13117,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-immens-engine.jpg",
   "date": "2026-08-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel-watch-face-prompt",
@@ -12206,7 +13131,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-face-recognition-patent",
@@ -12219,7 +13145,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-humanoid-firefighting-drill",
@@ -12232,7 +13159,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-google-pet-memory-cats",
@@ -12245,7 +13173,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-airpods-camera-demo-video",
@@ -12258,7 +13187,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-mechanical-turing-test",
@@ -12271,7 +13201,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-mechanical-turing-test.jpg",
   "date": "2026-08-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-mcp-figma-jira-gitlab",
@@ -12284,7 +13215,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-mcp-figma-jira-gitlab.jpg",
   "date": "2026-08-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dark-mode-two-states",
@@ -12297,7 +13229,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-dark-mode-two-states.png",
   "date": "2026-08-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cursor-origin-vercel",
@@ -12310,7 +13243,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-cursor-origin-vercel.png",
   "date": "2026-08-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-adobe-stock-ai-studio",
@@ -12323,7 +13257,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-adobe-stock-ai-studio.jpg",
   "date": "2026-08-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-synthetic-consensus",
@@ -12336,7 +13271,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-synthetic-consensus.jpg",
   "date": "2026-08-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-code-yes-novels-no",
@@ -12349,7 +13285,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-code-yes-novels-no.png",
   "date": "2026-08-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-claude-watermark-word-choice",
@@ -12362,7 +13299,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-claude-watermark-word-choice.jpg",
   "date": "2026-08-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-china-publishing-ai-standards",
@@ -12375,7 +13313,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-china-publishing-ai-standards.png",
   "date": "2026-08-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-amazon-destructive-scanning",
@@ -12388,7 +13327,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-amazon-destructive-scanning.png",
   "date": "2026-08-19",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-llm-grant-narrowing",
@@ -12401,7 +13341,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-llm-grant-narrowing.jpg",
   "date": "2026-08-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-language-free-reasoning",
@@ -12414,7 +13355,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-language-free-reasoning.jpg",
   "date": "2026-08-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-earlydetect-solar-emergence",
@@ -12427,7 +13369,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-earlydetect-solar-emergence.jpg",
   "date": "2026-08-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-cerebellum-memtransistor",
@@ -12440,7 +13383,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-cerebellum-memtransistor.jpg",
   "date": "2026-08-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-mathematics-human",
@@ -12453,7 +13397,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-mathematics-human.jpg",
   "date": "2026-08-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-uppbeat-report",
@@ -12466,7 +13411,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-bmg",
@@ -12479,7 +13425,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-spotify-kobalt",
@@ -12492,7 +13439,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-eu-ai-label",
@@ -12505,7 +13453,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-apc-140",
@@ -12518,7 +13467,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-nvidia-video-detector",
@@ -12531,7 +13481,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-dalet-solution-suites",
@@ -12544,7 +13495,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-artlist-seedance-unlimited",
@@ -12557,7 +13509,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ai-creative-summit-bfi",
@@ -12570,7 +13523,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-actionvfx-filmmakers-course",
@@ -12583,7 +13537,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unity-copilot-tips",
@@ -12596,7 +13551,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unity-copilot-tips.png",
   "date": "2026-08-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-no-ai-clause",
@@ -12609,7 +13565,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-no-ai-clause.jpg",
   "date": "2026-08-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gen1recomp-not-vibe",
@@ -12622,7 +13579,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gen1recomp-not-vibe.jpg",
   "date": "2026-08-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-fan-translation-no-ai",
@@ -12635,7 +13593,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-fan-translation-no-ai.jpg",
   "date": "2026-08-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-castle-walls-ai",
@@ -12648,7 +13607,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-castle-walls-ai.jpg",
   "date": "2026-08-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-rogbid-visionw-price-floor",
@@ -12661,7 +13621,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-openai-doughnut-companion",
@@ -12674,7 +13635,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-lg-cloid-nvidia-humanoid",
@@ -12687,7 +13649,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-china-llm-alibaba",
@@ -12700,7 +13663,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-antigravity-local-llm-files",
@@ -12713,7 +13677,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-google-watermark-toggle",
@@ -12726,7 +13691,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-google-watermark-toggle.jpg",
   "date": "2026-08-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-move-fast",
@@ -12739,7 +13705,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-move-fast.jpg",
   "date": "2026-08-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-dsds-w3c",
@@ -12752,7 +13719,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-dsds-w3c.png",
   "date": "2026-08-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-ui-placement",
@@ -12765,7 +13733,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-ui-placement.png",
   "date": "2026-08-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-sdk-harness-acp",
@@ -12778,7 +13747,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-sdk-harness-acp.png",
   "date": "2026-08-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-training-data-petition",
@@ -12791,7 +13761,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-training-data-petition.jpg",
   "date": "2026-08-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-false-name-book-scraping",
@@ -12804,7 +13775,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-false-name-book-scraping.jpg",
   "date": "2026-08-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-commonwealth-prize-delay",
@@ -12817,7 +13789,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-commonwealth-prize-delay.jpg",
   "date": "2026-08-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-author-ai-policy",
@@ -12830,7 +13803,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-author-ai-policy.jpg",
   "date": "2026-08-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-agent-ethics-ai-gap",
@@ -12843,7 +13817,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-agent-ethics-ai-gap.jpg",
   "date": "2026-08-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-vlash-robot-lookahead",
@@ -12856,7 +13831,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-vlash-robot-lookahead.jpg",
   "date": "2026-08-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-vivodyne-human-datacenter",
@@ -12869,7 +13845,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-vivodyne-human-datacenter.jpg",
   "date": "2026-08-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-sign-language-sl2t",
@@ -12882,7 +13859,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-sign-language-sl2t.jpg",
   "date": "2026-08-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-recall-bottleneck",
@@ -12895,7 +13873,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-recall-bottleneck.png",
   "date": "2026-08-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-antibody-cdr-model",
@@ -12908,7 +13887,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-antibody-cdr-model.jpg",
   "date": "2026-08-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-tonex-2-player",
@@ -12921,7 +13901,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-studio-2",
@@ -12934,7 +13915,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-spotify-ai-persona",
@@ -12947,7 +13929,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ia-de-esser",
@@ -12960,7 +13943,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-beatport-ai-ban",
@@ -12973,7 +13957,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-seedance-25-blocking",
@@ -12986,7 +13971,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-rocxzoom-kickstarter",
@@ -12999,7 +13985,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-castle-walls-prime",
@@ -13012,7 +13999,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-cascadeur-2026-2",
@@ -13025,7 +14013,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-billy-joel-ai-doc",
@@ -13038,7 +14027,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-twitch-ai-optout",
@@ -13051,7 +14041,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-twitch-ai-optout.jpg",
   "date": "2026-08-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-supergirl-concept-art-ai",
@@ -13064,7 +14055,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-supergirl-concept-art-ai.jpg",
   "date": "2026-08-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-relu-mimesis-ai-design",
@@ -13077,7 +14069,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-relu-mimesis-ai-design.jpg",
   "date": "2026-08-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-deanbeat-external-devs",
@@ -13090,7 +14083,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-deanbeat-external-devs.jpg",
   "date": "2026-08-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-artstation-kitbash3d",
@@ -13103,7 +14097,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-artstation-kitbash3d.jpg",
   "date": "2026-08-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-ray-ban-meta-vision-ireland",
@@ -13116,7 +14111,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel-11-tensor-g6-tpu",
@@ -13129,7 +14125,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-matic-cues-voice",
@@ -13142,7 +14139,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-google-health-ai-hallucination",
@@ -13155,7 +14153,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vision-pro-webxr-sim",
@@ -13168,7 +14167,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-vision-pro-webxr-sim.jpg",
   "date": "2026-08-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-toolbag-503",
@@ -13181,7 +14181,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-toolbag-503.jpg",
   "date": "2026-08-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-onshape-featurescript-mcp",
@@ -13194,7 +14195,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-onshape-featurescript-mcp.jpg",
   "date": "2026-08-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-skills",
@@ -13207,7 +14209,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-skills.png",
   "date": "2026-08-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-eu-ai-labelling",
@@ -13220,7 +14223,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-eu-ai-labelling.jpg",
   "date": "2026-08-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-villanova-bot-or-not",
@@ -13233,7 +14237,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-villanova-bot-or-not.jpg",
   "date": "2026-08-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-shieldfont",
@@ -13246,7 +14251,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-shieldfont.jpg",
   "date": "2026-08-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-editor-ai-clause",
@@ -13259,7 +14265,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-editor-ai-clause.png",
   "date": "2026-08-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-cognitive-debt",
@@ -13272,7 +14279,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-cognitive-debt.jpg",
   "date": "2026-08-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-claude-watermark",
@@ -13285,7 +14293,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-claude-watermark.jpg",
   "date": "2026-08-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quasar-lens-neural-net",
@@ -13298,7 +14307,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-quasar-lens-neural-net.jpg",
   "date": "2026-08-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-openai-astra-math-attribution",
@@ -13311,7 +14321,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-openai-astra-math-attribution.jpg",
   "date": "2026-08-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-iceboost-glacier-volume",
@@ -13324,7 +14335,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-iceboost-glacier-volume.jpg",
   "date": "2026-08-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-amie-video-consultation",
@@ -13337,7 +14349,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-amie-video-consultation.jpg",
   "date": "2026-08-12",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-daddario-ai-admission",
@@ -13350,7 +14363,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-12",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-peacock-public-eye",
@@ -13363,7 +14377,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-nura-rainbow-hollow",
@@ -13376,7 +14391,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-impossible-objects-zgx-nano",
@@ -13389,7 +14405,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-doc-opt-out-ai-clinic",
@@ -13402,7 +14419,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-12",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-zhong-kui-no-ai",
@@ -13415,7 +14433,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-zhong-kui-no-ai.jpg",
   "date": "2026-08-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unreal-runtime-inference",
@@ -13428,7 +14447,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unreal-runtime-inference.jpg",
   "date": "2026-08-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-seed-ai-society",
@@ -13441,7 +14461,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-seed-ai-society.jpg",
   "date": "2026-08-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-saber-chatgpt-writer",
@@ -13454,7 +14475,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-saber-chatgpt-writer.jpg",
   "date": "2026-08-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gamescom-dev-survey",
@@ -13467,7 +14489,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-gamescom-dev-survey.jpg",
   "date": "2026-08-12",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-windows11-ai-unbundle",
@@ -13480,7 +14503,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-local-llm-igpu",
@@ -13493,7 +14517,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ios27-siri-voice",
@@ -13506,7 +14531,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-infimaker-k1",
@@ -13519,7 +14545,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-abbott-lingo-google-health",
@@ -13532,7 +14559,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-12",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-lottie-tactile-ux",
@@ -13545,7 +14573,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-lottie-tactile-ux.png",
   "date": "2026-08-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-make-time-savings",
@@ -13558,7 +14587,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-make-time-savings.jpg",
   "date": "2026-08-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-artstation-sketchfab-sale",
@@ -13571,7 +14601,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-artstation-sketchfab-sale.jpg",
   "date": "2026-08-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-apple-mlb-immersive",
@@ -13584,7 +14615,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-apple-mlb-immersive.jpg",
   "date": "2026-08-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-alien-no-mesh-shader",
@@ -13597,7 +14629,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-alien-no-mesh-shader.jpg",
   "date": "2026-08-12",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-stm-ai-against-ai",
@@ -13610,7 +14643,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-stm-ai-against-ai.jpg",
   "date": "2026-08-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-spotify-audiobook-discovery",
@@ -13623,7 +14657,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-spotify-audiobook-discovery.jpg",
   "date": "2026-08-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-library-avoiding-ai",
@@ -13636,7 +14671,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-library-avoiding-ai.jpg",
   "date": "2026-08-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-iflytek-ainote2-roadmap",
@@ -13649,7 +14685,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-iflytek-ainote2-roadmap.jpg",
   "date": "2026-08-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-aries-chronoshub-submission",
@@ -13662,7 +14699,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-aries-chronoshub-submission.jpg",
   "date": "2026-08-12",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-teen-ai-mental-health-surge",
@@ -13675,7 +14713,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-teen-ai-mental-health-surge.jpg",
   "date": "2026-08-11",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-single-lead-ecg-heart-failure-ai",
@@ -13688,7 +14727,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-single-lead-ecg-heart-failure-ai.jpg",
   "date": "2026-08-11",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-mit-geopt-physics-pretraining",
@@ -13701,7 +14741,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-mit-geopt-physics-pretraining.jpg",
   "date": "2026-08-11",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-agents-for-science",
@@ -13714,7 +14755,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-ai-agents-for-science.jpg",
   "date": "2026-08-11",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-aalto-reading-rl-model",
@@ -13727,7 +14769,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-aalto-reading-rl-model.jpg",
   "date": "2026-08-11",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-unlearning-hub",
@@ -13740,7 +14783,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-voices-mobile",
@@ -13753,7 +14797,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-saregama-ai-videos",
@@ -13766,7 +14811,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-headrush-nam",
@@ -13779,7 +14825,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-agents-release-ops",
@@ -13792,7 +14839,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-runway-short-film-workflow",
@@ -13805,7 +14853,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-promise-touch-grass",
@@ -13818,7 +14867,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-hbo-max-shorts",
@@ -13831,7 +14881,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-disney-ilm-pixar-ai",
@@ -13844,7 +14895,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-asteria-zerospace",
@@ -13857,7 +14909,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-take-two-ai-not-replace",
@@ -13870,7 +14923,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-take-two-ai-not-replace.jpg",
   "date": "2026-08-11",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-no-mans-sky-not-rushing",
@@ -13883,7 +14937,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-no-mans-sky-not-rushing.jpg",
   "date": "2026-08-11",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-eve-frontier-agent-testbed",
@@ -13896,7 +14951,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-eve-frontier-agent-testbed.png",
   "date": "2026-08-11",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-1666-ai-assets-cut",
@@ -13909,7 +14965,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-1666-ai-assets-cut.jpg",
   "date": "2026-08-11",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-norecognition-pattern",
@@ -13922,7 +14979,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-muse-glimmer",
@@ -13935,7 +14993,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-hoverair-versa",
@@ -13948,7 +15007,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-home-assistant-intent-triggers",
@@ -13961,7 +15021,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-reference-image",
@@ -13974,7 +15035,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-mudbox-discontinued",
@@ -13987,7 +15049,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-mudbox-discontinued.jpg",
   "date": "2026-08-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-mablelink-maya-transfer",
@@ -14000,7 +15063,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-mablelink-maya-transfer.jpg",
   "date": "2026-08-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-grok-imagine-image-2",
@@ -14013,7 +15077,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-grok-imagine-image-2.png",
   "date": "2026-08-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-agents-in-file",
@@ -14026,7 +15091,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-agents-in-file.jpg",
   "date": "2026-08-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-animating-border-image",
@@ -14039,7 +15105,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-animating-border-image.jpg",
   "date": "2026-08-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-pulitzer-ai-disclosure",
@@ -14052,7 +15119,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-pulitzer-ai-disclosure.png",
   "date": "2026-08-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-opus5-for-novelists",
@@ -14065,7 +15133,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-opus5-for-novelists.jpg",
   "date": "2026-08-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-cope-no-ai-clause",
@@ -14078,7 +15147,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-cope-no-ai-clause.jpg",
   "date": "2026-08-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-cheap-models-first",
@@ -14091,7 +15161,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-cheap-models-first.jpg",
   "date": "2026-08-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-95-percent-ai-chapter",
@@ -14104,7 +15175,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-95-percent-ai-chapter.jpg",
   "date": "2026-08-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-schrodinger-farid-ai",
@@ -14117,7 +15189,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-schrodinger-farid-ai.jpg",
   "date": "2026-08-10",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-nsf-self-driving-labs",
@@ -14130,7 +15203,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-nsf-self-driving-labs.svg",
   "date": "2026-08-10",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-cognitive-map-planner",
@@ -14143,7 +15217,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-cognitive-map-planner.jpg",
   "date": "2026-08-10",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-breach-suits",
@@ -14156,7 +15231,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-reflector",
@@ -14169,7 +15245,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-provenance-recipe",
@@ -14182,7 +15259,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-dreamtonics-tease",
@@ -14195,7 +15273,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-bangalter-ai",
@@ -14208,7 +15287,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-wb-ai-dog-podcast",
@@ -14221,7 +15301,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-roku-fairground",
@@ -14234,7 +15315,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-asphalt-guerrilla",
@@ -14247,7 +15329,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-araki-post-ai",
@@ -14260,7 +15343,22 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
+ },
+ {
+  "id": "movies-ae-ai-assistant",
+  "headline": "애프터이펙트 AI 어시스턴트\n프로젝트 전체를 읽기 시작했다",
+  "body": "공개 베타에 들어간 어시스턴트가 프로젝트를 통째로 읽고 파일을 정리하고 표현식까지 써 준다.",
+  "tool": "Movies",
+  "source": "RedShark News",
+  "url": "https://www.redsharknews.com/after-effects-ai-assistant-ibc2026",
+  "accent": "#0070f3",
+  "motif": "frame",
+  "image": "pipeline/media/movies-ae-ai-assistant.jpg",
+  "date": "2026-08-10",
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-world-apart",
@@ -14273,7 +15371,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-world-apart.jpg",
   "date": "2026-08-10",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-blood-rain-cope",
@@ -14286,7 +15385,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-blood-rain-cope.jpg",
   "date": "2026-08-10",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-wacom-movinkpad-11",
@@ -14299,7 +15399,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ryzen-npu-binned",
@@ -14312,7 +15413,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-kata-friends-paywall",
@@ -14325,7 +15427,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-home-storytime",
@@ -14338,7 +15441,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-watch-rethink",
@@ -14351,7 +15455,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-vr-mech-modeler",
@@ -14364,7 +15469,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-vr-mech-modeler.jpg",
   "date": "2026-08-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-process-proof",
@@ -14377,7 +15483,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-process-proof.jpg",
   "date": "2026-08-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-gpt-live-voice",
@@ -14390,7 +15497,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-gpt-live-voice.jpg",
   "date": "2026-08-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cybernetic-app",
@@ -14403,7 +15511,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-cybernetic-app.png",
   "date": "2026-08-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-baseline-audit",
@@ -14416,7 +15525,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-baseline-audit.png",
   "date": "2026-08-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-novel-to-ai-film",
@@ -14429,7 +15539,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-novel-to-ai-film.jpg",
   "date": "2026-08-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-bisg-ai-agenda",
@@ -14442,7 +15553,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-bisg-ai-agenda.svg",
   "date": "2026-08-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-asian-publishers-week-seoul",
@@ -14455,7 +15567,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-asian-publishers-week-seoul.png",
   "date": "2026-08-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-ramanomics",
@@ -14468,7 +15581,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ramanomics.jpg",
   "date": "2026-08-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-kaist-memtransistor",
@@ -14481,7 +15595,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-kaist-memtransistor.jpg",
   "date": "2026-08-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-claude-jamming",
@@ -14494,7 +15609,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-claude-jamming.jpg",
   "date": "2026-08-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-capuchinai",
@@ -14507,7 +15623,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-capuchinai.jpg",
   "date": "2026-08-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-alphafold-team",
@@ -14520,7 +15637,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-alphafold-team.jpg",
   "date": "2026-08-09",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-30years",
@@ -14533,7 +15651,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-mixvault",
@@ -14546,7 +15665,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-midia-hit",
@@ -14559,7 +15679,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-luke-steele",
@@ -14572,7 +15693,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-iamchoir",
@@ -14585,7 +15707,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-xai-video-test",
@@ -14598,7 +15721,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-mzed-ai-masking",
@@ -14611,7 +15735,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-higgsfield-likeness",
@@ -14624,7 +15749,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-google-flow-sessions",
@@ -14637,7 +15763,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-bafta-ai-clause",
@@ -14650,7 +15777,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-qa-agent",
@@ -14663,7 +15791,8 @@
   "motif": "swatch",
   "image": "pipeline/media/games-qa-agent.jpg",
   "date": "2026-08-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-pssr2",
@@ -14676,7 +15805,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-pssr2.jpg",
   "date": "2026-08-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-motion-imitation",
@@ -14689,7 +15819,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-motion-imitation.jpg",
   "date": "2026-08-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-axolotl3d",
@@ -14702,7 +15833,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-axolotl3d.jpg",
   "date": "2026-08-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-memomind-one",
@@ -14715,7 +15847,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-local-llm-phone-agent",
@@ -14728,7 +15861,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-eu-glasses-rules",
@@ -14741,7 +15875,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-conduit-brain-data",
@@ -14754,7 +15889,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-ultra-trio",
@@ -14767,7 +15903,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-token-extractor",
@@ -14780,7 +15917,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-token-extractor.png",
   "date": "2026-08-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-photoshop-2791",
@@ -14793,7 +15931,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-photoshop-2791.jpg",
   "date": "2026-08-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-makera-studio",
@@ -14806,7 +15945,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-makera-studio.jpg",
   "date": "2026-08-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-copy-paste",
@@ -14819,7 +15959,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-copy-paste.jpg",
   "date": "2026-08-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agent-ui-mcp",
@@ -14832,7 +15973,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-agent-ui-mcp.png",
   "date": "2026-08-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-prowritingmethod-news",
@@ -14845,7 +15987,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-prowritingmethod-news.jpg",
   "date": "2026-08-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-eu-ai-act-disclosure",
@@ -14857,7 +16000,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-08-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-claude-30day-book",
@@ -14870,7 +16014,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-claude-30day-book.jpg",
   "date": "2026-08-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-text-tells",
@@ -14883,7 +16028,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-text-tells.jpg",
   "date": "2026-08-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-generative-species-contaminate-inaturalist",
@@ -14896,7 +16042,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-generative-species-contaminate-inaturalist.jpg",
   "date": "2026-08-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-claude-novel-cryptanalysis",
@@ -14909,7 +16056,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-claude-novel-cryptanalysis.jpg",
   "date": "2026-08-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-argonne-agent-atomistic-sim",
@@ -14922,7 +16070,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-argonne-agent-atomistic-sim.jpg",
   "date": "2026-08-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-hierarchy-safety-compliance",
@@ -14935,7 +16084,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ai-hierarchy-safety-compliance.jpg",
   "date": "2026-08-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-designed-phage-genome",
@@ -14948,7 +16098,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-designed-phage-genome.jpg",
   "date": "2026-08-08",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-spotify-ai-slop-purge",
@@ -14961,7 +16112,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-deadmau5-autopilot",
@@ -14974,7 +16126,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-siggraph-2026",
@@ -14987,7 +16140,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-runway-seedance",
@@ -15000,7 +16154,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-minimax-bootleg",
@@ -15013,7 +16168,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-eli-roth-ai",
@@ -15026,7 +16182,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-autodesk-flow",
@@ -15039,7 +16196,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-modding-ai",
@@ -15052,7 +16210,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-modding-ai.jpg",
   "date": "2026-08-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-localization",
@@ -15065,7 +16224,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-localization.jpg",
   "date": "2026-08-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-gta6-slop",
@@ -15078,7 +16238,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-gta6-slop.jpg",
   "date": "2026-08-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-cosmos3",
@@ -15091,7 +16252,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-cosmos3.jpg",
   "date": "2026-08-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-anishort",
@@ -15104,7 +16266,8 @@
   "motif": "swatch",
   "image": "pipeline/media/games-anishort.jpg",
   "date": "2026-08-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-pixel-ai-lockscreen-clocks",
@@ -15117,7 +16280,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-kids-smartwatch-stalkerware",
@@ -15130,7 +16294,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemma4-offline-translator",
@@ -15143,7 +16308,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-gemini-wear-os-overlay",
@@ -15156,7 +16322,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-esp32-tiny-llm",
@@ -15169,7 +16336,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-figma-claude-code-loop",
@@ -15182,7 +16350,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-claude-code-loop.jpg",
   "date": "2026-08-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-electronauts-vr-ui",
@@ -15195,7 +16364,8 @@
   "motif": "headset",
   "image": "pipeline/media/design-electronauts-vr-ui.jpg",
   "date": "2026-08-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-designesy-40-checks",
@@ -15208,7 +16378,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-designesy-40-checks.png",
   "date": "2026-08-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-claude-screen-states",
@@ -15221,7 +16392,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-claude-screen-states.jpg",
   "date": "2026-08-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-armature-auto-rig",
@@ -15234,7 +16406,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-armature-auto-rig.jpg",
   "date": "2026-08-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-substack-pangram-detection",
@@ -15247,7 +16420,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-substack-pangram-detection.png",
   "date": "2026-08-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-peer-review-revolution",
@@ -15260,7 +16434,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-peer-review-revolution.jpg",
   "date": "2026-08-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-harpercollins-ai-audiobooks",
@@ -15273,7 +16448,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-harpercollins-ai-audiobooks.jpg",
   "date": "2026-08-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-authors-of-colour-ai-suspicion",
@@ -15286,7 +16462,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-authors-of-colour-ai-suspicion.jpg",
   "date": "2026-08-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-amazon-ai-study",
@@ -15299,7 +16476,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-amazon-ai-study.jpg",
   "date": "2026-08-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-weathernext-cyclone",
@@ -15312,7 +16490,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-weathernext-cyclone.jpg",
   "date": "2026-08-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-stroke-rehab-robot",
@@ -15325,7 +16504,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-stroke-rehab-robot.jpg",
   "date": "2026-08-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-jacobian-counterexample",
@@ -15338,7 +16518,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-jacobian-counterexample.jpg",
   "date": "2026-08-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-hidden-goals-agents",
@@ -15351,7 +16532,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-hidden-goals-agents.jpg",
   "date": "2026-08-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-skill-atrophy",
@@ -15364,7 +16546,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-ai-skill-atrophy.jpg",
   "date": "2026-08-07",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-ye-ai-vocal-lawsuit",
@@ -15377,7 +16560,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-symphonic-musicshield",
@@ -15390,7 +16574,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-sylvan-esso-betty-studio",
@@ -15403,7 +16588,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-download-watermark",
@@ -15416,7 +16602,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-musixmatch-sentinel",
@@ -15429,7 +16616,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-disney-tiktok-shorts",
@@ -15442,7 +16630,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-catmull-genai-jury",
@@ -15455,7 +16644,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-brevidy-premiere",
@@ -15468,7 +16658,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-adobe-chatgpt-plugin",
@@ -15481,7 +16672,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-unreal-mcp-editor",
@@ -15494,7 +16686,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-unreal-mcp-editor.jpg",
   "date": "2026-08-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unreal-ethical-image-models",
@@ -15507,7 +16700,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-unreal-ethical-image-models.jpg",
   "date": "2026-08-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unity-one-api-every-role",
@@ -15520,7 +16714,8 @@
   "motif": "swatch",
   "image": "pipeline/media/games-unity-one-api-every-role.jpg",
   "date": "2026-08-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-nvidia-ntc-sdk-arm64",
@@ -15533,7 +16728,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-nvidia-ntc-sdk-arm64.jpg",
   "date": "2026-08-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-google-ai-leaks-private-docs",
@@ -15546,7 +16742,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-google-ai-leaks-private-docs.jpg",
   "date": "2026-08-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-viture-pro-2-xr-glasses",
@@ -15559,7 +16756,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-openai-ring-speaker-price",
@@ -15572,7 +16770,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-meta-rayban-muse-spark-handwriting",
@@ -15585,7 +16784,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-ios27-gymkit-iphone-airpods",
@@ -15598,7 +16798,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-galaxy-z-flip-8-flexwindow",
@@ -15611,7 +16812,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-state-of-css-2026",
@@ -15624,7 +16826,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-state-of-css-2026.png",
   "date": "2026-08-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-creo-13-triple-a",
@@ -15637,7 +16840,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-creo-13-triple-a.jpg",
   "date": "2026-08-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-claude-to-figma",
@@ -15650,7 +16854,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-claude-to-figma.jpg",
   "date": "2026-08-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cascadeur-2026-2",
@@ -15663,7 +16868,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-cascadeur-2026-2.jpg",
   "date": "2026-08-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agent-plugins",
@@ -15676,7 +16882,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-agent-plugins.png",
   "date": "2026-08-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-perplexity-ebook-store",
@@ -15689,7 +16896,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-perplexity-ebook-store.jpg",
   "date": "2026-08-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-papers-ai-workspace",
@@ -15702,7 +16910,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-papers-ai-workspace.jpg",
   "date": "2026-08-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-korea-ai-labeling",
@@ -15715,7 +16924,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-korea-ai-labeling.png",
   "date": "2026-08-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-harpercollins-human-authorship",
@@ -15728,7 +16938,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-harpercollins-human-authorship.jpg",
   "date": "2026-08-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-chakdoduk-ai-translation",
@@ -15740,7 +16951,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-08-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quantum-circuits-drug-molecules",
@@ -15753,7 +16965,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-quantum-circuits-drug-molecules.png",
   "date": "2026-08-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-escapemap-spike-variants",
@@ -15766,7 +16979,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-escapemap-spike-variants.jpg",
   "date": "2026-08-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-erdos-problems-ai",
@@ -15779,7 +16993,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-erdos-problems-ai.jpg",
   "date": "2026-08-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-solid-state-synthesis",
@@ -15792,7 +17007,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-solid-state-synthesis.jpg",
   "date": "2026-08-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-scribes-medical-education",
@@ -15805,7 +17021,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ai-scribes-medical-education.jpg",
   "date": "2026-08-06",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-sound-free-concert",
@@ -15818,7 +17035,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-komca-ai-disclosure",
@@ -15831,7 +17049,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-fenix-flexin-ai",
@@ -15844,7 +17063,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-poison-genre",
@@ -15857,7 +17077,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-chart-rules",
@@ -15870,7 +17091,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-youtube-ai-slop-policy",
@@ -15883,7 +17105,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-greenlight-coverage-ai",
@@ -15896,7 +17119,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-chikaboom-craig",
@@ -15909,7 +17133,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-sekai-vibe-coding-medium",
@@ -15922,7 +17147,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-sekai-vibe-coding-medium.png",
   "date": "2026-08-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-pokemon-green-ai-3d",
@@ -15935,7 +17161,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-pokemon-green-ai-3d.jpg",
   "date": "2026-08-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-halo-ai-voice-mod",
@@ -15948,7 +17175,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-halo-ai-voice-mod.jpg",
   "date": "2026-08-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-dragon-quest-gemini-event",
@@ -15961,7 +17189,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-dragon-quest-gemini-event.png",
   "date": "2026-08-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-siri-ai-device-tiering",
@@ -15974,7 +17203,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-peloton-ai-tracking-camera",
@@ -15987,7 +17217,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-nothing-cmf-ai-marketing",
@@ -16000,7 +17231,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-google-assistant-shutdown",
@@ -16013,7 +17245,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-chrome-on-device-ai-cost",
@@ -16026,7 +17259,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-v0-api",
@@ -16039,7 +17273,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-v0-api.png",
   "date": "2026-08-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-material-creator",
@@ -16052,7 +17287,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-material-creator.jpg",
   "date": "2026-08-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-code-connect-mcp",
@@ -16065,7 +17301,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-code-connect-mcp.jpg",
   "date": "2026-08-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-chat-wrong-interface",
@@ -16078,7 +17315,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-chat-wrong-interface.jpg",
   "date": "2026-08-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-agent-evidence-approval",
@@ -16091,7 +17329,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-agent-evidence-approval.png",
   "date": "2026-08-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-published-voice-ai",
@@ -16104,7 +17343,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-published-voice-ai.jpg",
   "date": "2026-08-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-daggermouth-publisher-backing",
@@ -16117,7 +17357,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-daggermouth-publisher-backing.jpg",
   "date": "2026-08-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-chatgpt-blocks-author-styles",
@@ -16129,7 +17370,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-08-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anthropic-destroyed-books",
@@ -16142,7 +17384,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-anthropic-destroyed-books.jpg",
   "date": "2026-08-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-stories-rated-higher",
@@ -16155,7 +17398,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-stories-rated-higher.jpg",
   "date": "2026-08-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-one-chain-of-evidence",
@@ -16168,7 +17412,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-one-chain-of-evidence.png",
   "date": "2026-08-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-olmoearth-planetary-inference",
@@ -16181,7 +17426,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-olmoearth-planetary-inference.png",
   "date": "2026-08-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-medical-ai-expertise-gap",
@@ -16194,7 +17440,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-medical-ai-expertise-gap.jpg",
   "date": "2026-08-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-catalyst-lab-variance",
@@ -16207,7 +17454,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-catalyst-lab-variance.jpg",
   "date": "2026-08-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-solvent-sodium-battery",
@@ -16220,7 +17468,8 @@
   "motif": "swatch",
   "image": "pipeline/media/science-ai-solvent-sodium-battery.png",
   "date": "2026-08-05",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-suno-vinyl",
@@ -16233,7 +17482,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-spotify-merlin-remix",
@@ -16246,7 +17496,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-push-hack",
@@ -16259,7 +17510,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-i-am-choir",
@@ -16272,7 +17524,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-eu-ai-act-enforced",
@@ -16285,7 +17538,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-05",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-tech-reviews-blender5",
@@ -16298,7 +17552,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-snapchat-ai-ban",
@@ -16311,7 +17566,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-seedance-nvidia",
@@ -16324,7 +17580,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-reply-ai-film-festival",
@@ -16337,7 +17594,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies-reply-ai-film-festival.jpg",
   "date": "2026-08-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-indiewire-a16z-ai",
@@ -16350,7 +17608,8 @@
   "motif": "prism",
   "image": null,
   "date": "2026-08-05",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-version-control-ai-agents",
@@ -16363,7 +17622,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-version-control-ai-agents.png",
   "date": "2026-08-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-seed-ai-avatars",
@@ -16376,7 +17636,8 @@
   "motif": "headset",
   "image": "pipeline/media/games-seed-ai-avatars.jpg",
   "date": "2026-08-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-eu-deepfake-law",
@@ -16389,7 +17650,8 @@
   "motif": "frame",
   "image": "pipeline/media/games-eu-deepfake-law.jpg",
   "date": "2026-08-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-atelier-ryza-chat-rpg",
@@ -16402,7 +17664,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-atelier-ryza-chat-rpg.jpg",
   "date": "2026-08-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-mandate-resistance",
@@ -16415,7 +17678,8 @@
   "motif": "swatch",
   "image": "pipeline/media/games-ai-mandate-resistance.jpg",
   "date": "2026-08-05",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-self-hosted-doc-assistants",
@@ -16428,7 +17692,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-garmin-cirqa-screen-free",
@@ -16441,7 +17706,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-duckduckgo-anti-ai-glasses",
@@ -16454,7 +17720,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-byd-xiao-di-humanoid",
@@ -16467,7 +17734,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-asus-googlebook-leak",
@@ -16480,7 +17748,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-05",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-flow-studio-3d-editor",
@@ -16493,7 +17762,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-flow-studio-3d-editor.jpg",
   "date": "2026-08-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-figma-motion-keyframes",
@@ -16506,7 +17776,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-figma-motion-keyframes.jpg",
   "date": "2026-08-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-eve-agent-browser",
@@ -16519,7 +17790,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-eve-agent-browser.png",
   "date": "2026-08-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-context-files-tokens",
@@ -16532,7 +17804,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-context-files-tokens.png",
   "date": "2026-08-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-backflip-mesh-to-cad",
@@ -16545,7 +17818,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-backflip-mesh-to-cad.jpg",
   "date": "2026-08-05",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-secondhand-bulk-orders-training-data",
@@ -16558,7 +17832,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-secondhand-bulk-orders-training-data.jpg",
   "date": "2026-08-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-copyright-chief-legal-battle",
@@ -16571,7 +17846,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-copyright-chief-legal-battle.jpg",
   "date": "2026-08-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-agents-cannot-authenticate",
@@ -16584,7 +17860,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-agents-cannot-authenticate.jpg",
   "date": "2026-08-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-aala-ethics-code-ai",
@@ -16597,7 +17874,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-aala-ethics-code-ai.jpg",
   "date": "2026-08-05",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-clinical-chatbots-trust",
@@ -16610,7 +17888,8 @@
   "motif": "frame",
   "image": "pipeline/media/science-clinical-chatbots-trust.jpg",
   "date": "2026-08-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-brain-to-text",
@@ -16623,7 +17902,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-brain-to-text.jpg",
   "date": "2026-08-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-reasoning-wrong-reasons",
@@ -16636,7 +17916,8 @@
   "motif": "cube",
   "image": "pipeline/media/science-ai-reasoning-wrong-reasons.jpg",
   "date": "2026-08-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-cryptography-two-proofs",
@@ -16649,7 +17930,8 @@
   "motif": "headset",
   "image": "pipeline/media/science-ai-cryptography-two-proofs.jpg",
   "date": "2026-08-04",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-soundid-voiceai-cpop",
@@ -16662,7 +17944,8 @@
   "motif": "wave",
   "image": null,
   "date": "2026-08-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-omni-daw",
@@ -16675,7 +17958,8 @@
   "motif": "grid",
   "image": null,
   "date": "2026-08-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-artist-growth-mcp",
@@ -16688,7 +17972,8 @@
   "motif": "orbit",
   "image": null,
   "date": "2026-08-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-stranger-vfx",
@@ -16701,7 +17986,8 @@
   "motif": "orbit",
   "image": null,
   "date": "2026-08-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-meshy-3d-agent",
@@ -16714,7 +18000,8 @@
   "motif": "sphere",
   "image": "pipeline/media/games-meshy-3d-agent.png",
   "date": "2026-08-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ludwig-fmv-ai-slop",
@@ -16727,7 +18014,8 @@
   "motif": "prism",
   "image": "pipeline/media/games-ludwig-fmv-ai-slop.jpeg",
   "date": "2026-08-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-duskbloods-ai-chatbots",
@@ -16740,7 +18028,8 @@
   "motif": "orbit",
   "image": "pipeline/media/games-duskbloods-ai-chatbots.jpg",
   "date": "2026-08-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-samsung-gemini-notebook",
@@ -16753,7 +18042,8 @@
   "motif": "cube",
   "image": null,
   "date": "2026-08-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-proxy",
@@ -16766,7 +18056,8 @@
   "motif": "orbit",
   "image": "pipeline/media/design-proxy.png",
   "date": "2026-08-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-design-skill",
@@ -16779,7 +18070,8 @@
   "motif": "prism",
   "image": "pipeline/media/design-design-skill.png",
   "date": "2026-08-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-design-md",
@@ -16792,7 +18084,8 @@
   "motif": "grid",
   "image": "pipeline/media/design-design-md.png",
   "date": "2026-08-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-art-row",
@@ -16805,7 +18098,8 @@
   "motif": "wave",
   "image": "pipeline/media/design-ai-art-row.jpg",
   "date": "2026-08-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-princeton-cashmere-licensing",
@@ -16817,7 +18111,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-08-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-anti-ai-literary-counterculture",
@@ -16830,7 +18125,8 @@
   "motif": "frame",
   "image": "pipeline/media/books-anti-ai-literary-counterculture.jpg",
   "date": "2026-08-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "science-quantum-neural-network-hardware",
@@ -16843,7 +18139,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-quantum-neural-network-hardware.jpg",
   "date": "2026-08-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-tuberculosis-breath",
@@ -16856,7 +18153,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-tuberculosis-breath.jpg",
   "date": "2026-08-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "science-ai-archaeobotany-seeds",
@@ -16869,7 +18167,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science-ai-archaeobotany-seeds.jpg",
   "date": "2026-08-03",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "music-gema-suno-ruling",
@@ -16882,7 +18181,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-08-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-afm-union-ai-lawsuit",
@@ -16894,7 +18194,8 @@
   "accent": "#f5a623",
   "motif": "sphere",
   "date": "2026-08-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-blendcap",
@@ -16907,7 +18208,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-ae-portal",
@@ -16920,7 +18222,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-08-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-stellar-blade-ai-music",
@@ -16933,7 +18236,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-stellar-blade-ai-music.jpg",
   "date": "2026-08-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-kh-collection-art",
@@ -16946,7 +18250,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-kh-collection-art.jpg",
   "date": "2026-08-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-evangelion-voice-ai",
@@ -16959,7 +18264,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-evangelion-voice-ai.jpg",
   "date": "2026-08-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ea-genai-adoption",
@@ -16972,7 +18278,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ea-genai-adoption.jpg",
   "date": "2026-08-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-belongs",
@@ -16985,7 +18292,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-belongs.jpg",
   "date": "2026-08-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gadgets-qualcomm-mediatek-wearable-ai",
@@ -16998,7 +18306,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-nework-insight-ai-glasses",
@@ -17011,7 +18320,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-honor-robot-phone",
@@ -17024,7 +18334,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gadgets-apple-ai-glasses-wwdc27",
@@ -17037,7 +18348,8 @@
   "motif": "headset",
   "image": null,
   "date": "2026-08-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "design-tokenignite",
@@ -17050,7 +18362,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design-tokenignite.jpg",
   "date": "2026-08-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-cost-aware-ai-video",
@@ -17063,7 +18376,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-cost-aware-ai-video.png",
   "date": "2026-08-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-context-aware-ui",
@@ -17076,7 +18390,8 @@
   "motif": "cube",
   "image": "pipeline/media/design-context-aware-ui.png",
   "date": "2026-08-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-ai-copyright-payout",
@@ -17089,7 +18404,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-ai-copyright-payout.jpg",
   "date": "2026-08-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-accuface-2",
@@ -17102,7 +18418,8 @@
   "motif": "sphere",
   "image": "pipeline/media/design-accuface-2.jpg",
   "date": "2026-08-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-agi-chronicles-roose",
@@ -17114,7 +18431,8 @@
   "accent": "#3b6bff",
   "motif": "swatch",
   "date": "2026-08-03",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "brain-age-sleep-eeg",
@@ -17127,7 +18445,8 @@
   "motif": "sphere",
   "image": "pipeline/media/brain-age-sleep-eeg.jpg",
   "date": "2026-08-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "ai-telescope-stargazing",
@@ -17140,7 +18459,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-telescope-stargazing.jpg",
   "date": "2026-08-02",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "soundboost",
@@ -17153,7 +18473,8 @@
   "motif": "sphere",
   "image": "pipeline/media/soundboost.jpg",
   "date": "2026-08-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "wonder-dynamics",
@@ -17166,7 +18487,8 @@
   "motif": "frame",
   "image": "pipeline/media/wonder-dynamics.webp",
   "date": "2026-08-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "luma-layers",
@@ -17179,7 +18501,8 @@
   "motif": "frame",
   "image": "pipeline/media/luma-layers.jpg",
   "date": "2026-08-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "frame-io-search",
@@ -17192,7 +18515,8 @@
   "motif": "frame",
   "image": "pipeline/media/frame-io-search.jpg",
   "date": "2026-08-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "samsung-galaxy-glasses-gemini",
@@ -17205,7 +18529,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-galaxy-glasses-gemini.jpg",
   "date": "2026-08-02",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "unwanted-ai-images",
@@ -17218,7 +18543,8 @@
   "motif": "frame",
   "image": "pipeline/media/unwanted-ai-images.jpg",
   "date": "2026-08-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "perplexity-color",
@@ -17231,7 +18557,8 @@
   "motif": "swatch",
   "image": "pipeline/media/perplexity-color.png",
   "date": "2026-08-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-make",
@@ -17244,7 +18571,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-make.png",
   "date": "2026-08-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "creative-technologists",
@@ -17257,7 +18585,8 @@
   "motif": "frame",
   "image": "pipeline/media/creative-technologists.png",
   "date": "2026-08-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-fluency",
@@ -17270,7 +18599,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-fluency.png",
   "date": "2026-08-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "pope-ai-encyclical",
@@ -17283,7 +18613,8 @@
   "motif": "swatch",
   "image": "pipeline/media/pope-ai-encyclical.png",
   "date": "2026-08-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-scholarship-ownership",
@@ -17296,7 +18627,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-scholarship-ownership.jpg",
   "date": "2026-08-02",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "silt",
@@ -17309,7 +18641,8 @@
   "motif": "sphere",
   "image": "pipeline/media/silt.jpg",
   "date": "2026-08-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "lyria-35",
@@ -17322,7 +18655,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lyria-35.jpg",
   "date": "2026-08-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "karst",
@@ -17335,7 +18669,8 @@
   "motif": "sphere",
   "image": "pipeline/media/karst.png",
   "date": "2026-08-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "vida-scene-search",
@@ -17348,7 +18683,8 @@
   "motif": "frame",
   "image": "pipeline/media/vida-scene-search.jpg",
   "date": "2026-08-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "frostfx",
@@ -17361,7 +18697,8 @@
   "motif": "frame",
   "image": "pipeline/media/frostfx.jpg",
   "date": "2026-08-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "therelic",
@@ -17374,7 +18711,8 @@
   "motif": "cube",
   "image": "pipeline/media/therelic.jpg",
   "date": "2026-08-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "nexusmods",
@@ -17387,7 +18725,8 @@
   "motif": "cube",
   "image": "pipeline/media/nexusmods.jpg",
   "date": "2026-08-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "friend-2-pendant",
@@ -17400,7 +18739,8 @@
   "motif": "headset",
   "image": "pipeline/media/friend-2-pendant.jpg",
   "date": "2026-08-01",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "rethinking-friction",
@@ -17413,7 +18753,8 @@
   "motif": "frame",
   "image": "pipeline/media/rethinking-friction.png",
   "date": "2026-08-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "rebelle-brush",
@@ -17426,7 +18767,8 @@
   "motif": "sphere",
   "image": "pipeline/media/rebelle-brush.jpg",
   "date": "2026-08-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "jakobs-law-chatbox",
@@ -17439,7 +18781,8 @@
   "motif": "frame",
   "image": "pipeline/media/jakobs-law-chatbox.png",
   "date": "2026-08-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "google-earth-rollback",
@@ -17452,7 +18795,8 @@
   "motif": "sphere",
   "image": "pipeline/media/google-earth-rollback.jpg",
   "date": "2026-08-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "genius-novel-pulled",
@@ -17465,7 +18809,8 @@
   "motif": "swatch",
   "image": "pipeline/media/genius-novel-pulled.jpg",
   "date": "2026-08-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-publishing-easier",
@@ -17478,7 +18823,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-publishing-easier.jpg",
   "date": "2026-08-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-dilutes-book-market",
@@ -17490,7 +18836,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-08-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "quantum-neural-net-barren",
@@ -17503,7 +18850,8 @@
   "motif": "sphere",
   "image": "pipeline/media/quantum-neural-net-barren.png",
   "date": "2026-07-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "quantum-ml-neoantigen",
@@ -17516,7 +18864,8 @@
   "motif": "sphere",
   "image": "pipeline/media/quantum-ml-neoantigen.png",
   "date": "2026-07-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "alphafold-impossible-structures",
@@ -17529,7 +18878,8 @@
   "motif": "sphere",
   "image": "pipeline/media/alphafold-impossible-structures.jpg",
   "date": "2026-07-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "ai-drug-discovery-data-loop",
@@ -17542,7 +18892,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-drug-discovery-data-loop.jpg",
   "date": "2026-07-31",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "vochlea-dubbox",
@@ -17555,7 +18906,8 @@
   "motif": "sphere",
   "image": "pipeline/media/vochlea-dubbox.jpg",
   "date": "2026-07-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "stem-separation-2026",
@@ -17568,7 +18920,8 @@
   "motif": "sphere",
   "image": "pipeline/media/stem-separation-2026.jpg",
   "date": "2026-07-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "flow-music-spaces",
@@ -17581,7 +18934,8 @@
   "motif": "sphere",
   "image": "pipeline/media/flow-music-spaces.jpg",
   "date": "2026-07-31",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "puget-robo-dojo-siggraph",
@@ -17594,7 +18948,8 @@
   "motif": "frame",
   "image": "pipeline/media/puget-robo-dojo-siggraph.jpg",
   "date": "2026-07-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "beeble-switchlight-hybrid-set",
@@ -17607,7 +18962,8 @@
   "motif": "frame",
   "image": "pipeline/media/beeble-switchlight-hybrid-set.jpg",
   "date": "2026-07-31",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-ai-culture-war",
@@ -17620,7 +18976,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ai-culture-war.jpg",
   "date": "2026-07-31",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "openai-companion-speaker",
@@ -17633,7 +18990,8 @@
   "motif": "headset",
   "image": "pipeline/media/openai-companion-speaker.jpg",
   "date": "2026-07-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "m4-max-local-ai",
@@ -17646,7 +19004,8 @@
   "motif": "headset",
   "image": "pipeline/media/m4-max-local-ai.jpg",
   "date": "2026-07-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "halliday-g2",
@@ -17659,7 +19018,8 @@
   "motif": "headset",
   "image": "pipeline/media/halliday-g2.jpg",
   "date": "2026-07-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gemini-robotics2",
@@ -17672,7 +19032,8 @@
   "motif": "headset",
   "image": "pipeline/media/gemini-robotics2.png",
   "date": "2026-07-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "dji-osmo-pocket4p",
@@ -17685,7 +19046,8 @@
   "motif": "headset",
   "image": "pipeline/media/dji-osmo-pocket4p.jpg",
   "date": "2026-07-31",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "shieldfont-poison-ai",
@@ -17698,7 +19060,8 @@
   "motif": "frame",
   "image": "pipeline/media/shieldfont-poison-ai.jpg",
   "date": "2026-07-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "nanobanana-earth",
@@ -17711,7 +19074,8 @@
   "motif": "sphere",
   "image": "pipeline/media/nanobanana-earth.jpg",
   "date": "2026-07-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "get-out-of-their-way",
@@ -17724,7 +19088,8 @@
   "motif": "frame",
   "image": "pipeline/media/get-out-of-their-way.jpg",
   "date": "2026-07-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "bull-bear-design-ai",
@@ -17737,7 +19102,8 @@
   "motif": "swatch",
   "image": "pipeline/media/bull-bear-design-ai.jpg",
   "date": "2026-07-31",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "translators-craft-vs-ai",
@@ -17750,7 +19116,8 @@
   "motif": "swatch",
   "image": "pipeline/media/translators-craft-vs-ai.jpg",
   "date": "2026-07-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "poetry-foundation-scrape",
@@ -17763,7 +19130,8 @@
   "motif": "swatch",
   "image": "pipeline/media/poetry-foundation-scrape.jpg",
   "date": "2026-07-31",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "solid-state-battery-database",
@@ -17776,7 +19144,8 @@
   "motif": "sphere",
   "image": "pipeline/media/solid-state-battery-database.jpg",
   "date": "2026-07-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "single-sensor-ultrasound-ai",
@@ -17789,7 +19158,8 @@
   "motif": "sphere",
   "image": "pipeline/media/single-sensor-ultrasound-ai.jpg",
   "date": "2026-07-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "raygun-protein-redesign",
@@ -17802,7 +19172,8 @@
   "motif": "sphere",
   "image": "pipeline/media/raygun-protein-redesign.jpg",
   "date": "2026-07-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "quantum-rl-self-calibration",
@@ -17815,7 +19186,8 @@
   "motif": "sphere",
   "image": "pipeline/media/quantum-rl-self-calibration.png",
   "date": "2026-07-30",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "labels-ban-ai-slop-charts",
@@ -17828,7 +19200,8 @@
   "motif": "sphere",
   "image": "pipeline/media/labels-ban-ai-slop-charts.jpg",
   "date": "2026-07-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "human-first-label-needs-teeth",
@@ -17841,7 +19214,8 @@
   "motif": "sphere",
   "image": "pipeline/media/human-first-label-needs-teeth.jpg",
   "date": "2026-07-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "canada-only-humans-authors-copyright",
@@ -17854,7 +19228,8 @@
   "motif": "sphere",
   "image": "pipeline/media/canada-only-humans-authors-copyright.png",
   "date": "2026-07-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "audioauditor-ai-detect-toolkit",
@@ -17867,7 +19242,8 @@
   "motif": "sphere",
   "image": "pipeline/media/audioauditor-ai-detect-toolkit.jpg",
   "date": "2026-07-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "saga-ai-video-source-attribution",
@@ -17880,7 +19256,8 @@
   "motif": "frame",
   "image": "pipeline/media/saga-ai-video-source-attribution.jpg",
   "date": "2026-07-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "nvidia-synthetic-video-detector-mcp-siggraph",
@@ -17893,7 +19270,8 @@
   "motif": "frame",
   "image": "pipeline/media/nvidia-synthetic-video-detector-mcp-siggraph.jpg",
   "date": "2026-07-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "studios-refusing-genai",
@@ -17906,7 +19284,8 @@
   "motif": "cube",
   "image": "pipeline/media/studios-refusing-genai.jpg",
   "date": "2026-07-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "dlss5-direct-final-frame",
@@ -17919,7 +19298,8 @@
   "motif": "sphere",
   "image": "pipeline/media/dlss5-direct-final-frame.jpg",
   "date": "2026-07-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "oura-ring-5-advisor",
@@ -17932,7 +19312,8 @@
   "motif": "headset",
   "image": "pipeline/media/oura-ring-5-advisor.jpg",
   "date": "2026-07-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-ray-ban-display-muse-spark",
@@ -17945,7 +19326,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-ray-ban-display-muse-spark.jpg",
   "date": "2026-07-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ios-27-siri-apple-intelligence",
@@ -17958,7 +19340,8 @@
   "motif": "headset",
   "image": "pipeline/media/ios-27-siri-apple-intelligence.jpg",
   "date": "2026-07-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "alexa-plus-smart-home-app-store",
@@ -17971,7 +19354,8 @@
   "motif": "headset",
   "image": "pipeline/media/alexa-plus-smart-home-app-store.jpg",
   "date": "2026-07-30",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "where-ai-belongs-games",
@@ -17984,7 +19368,8 @@
   "motif": "sphere",
   "image": "pipeline/media/where-ai-belongs-games.jpg",
   "date": "2026-07-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "nexthena-121-i18n",
@@ -17997,7 +19382,8 @@
   "motif": "swatch",
   "image": "pipeline/media/nexthena-121-i18n.png",
   "date": "2026-07-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "agent-native-actions",
@@ -18010,7 +19396,8 @@
   "motif": "frame",
   "image": "pipeline/media/agent-native-actions.jpg",
   "date": "2026-07-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "daggermouth-60-percent-ai-study",
@@ -18023,7 +19410,8 @@
   "motif": "swatch",
   "image": "pipeline/media/daggermouth-60-percent-ai-study.jpg",
   "date": "2026-07-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "symptomai",
@@ -18036,7 +19424,8 @@
   "motif": "sphere",
   "image": "pipeline/media/symptomai.png",
   "date": "2026-07-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "quasar",
@@ -18049,7 +19438,8 @@
   "motif": "sphere",
   "image": "pipeline/media/quasar.jpg",
   "date": "2026-07-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "l2t",
@@ -18062,7 +19452,8 @@
   "motif": "sphere",
   "image": "pipeline/media/l2t.jpg",
   "date": "2026-07-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "binn",
@@ -18075,7 +19466,8 @@
   "motif": "sphere",
   "image": "pipeline/media/binn.jpg",
   "date": "2026-07-29",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "elevenmusic-vocals-refs",
@@ -18087,7 +19479,8 @@
   "accent": "#ff2d55",
   "motif": "sphere",
   "date": "2026-07-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "reply-jury",
@@ -18100,7 +19493,8 @@
   "motif": "frame",
   "image": "pipeline/media/reply-jury.jpg",
   "date": "2026-07-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "reluctant-ai",
@@ -18113,7 +19507,8 @@
   "motif": "frame",
   "image": "pipeline/media/reluctant-ai.jpg",
   "date": "2026-07-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "gods-gifts",
@@ -18126,7 +19521,8 @@
   "motif": "frame",
   "image": "pipeline/media/gods-gifts.png",
   "date": "2026-07-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ocarina-ipad",
@@ -18139,7 +19535,8 @@
   "motif": "cube",
   "image": "pipeline/media/ocarina-ipad.jpg",
   "date": "2026-07-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gemini-automation",
@@ -18152,7 +19549,8 @@
   "motif": "headset",
   "image": "pipeline/media/gemini-automation.jpg",
   "date": "2026-07-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "galaxy-watch-9-health",
@@ -18165,7 +19563,8 @@
   "motif": "headset",
   "image": "pipeline/media/galaxy-watch-9-health.jpg",
   "date": "2026-07-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ai-activity-dashboard",
@@ -18178,7 +19577,8 @@
   "motif": "headset",
   "image": "pipeline/media/ai-activity-dashboard.jpg",
   "date": "2026-07-29",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "octane-neural",
@@ -18191,7 +19591,8 @@
   "motif": "sphere",
   "image": "pipeline/media/octane-neural.jpg",
   "date": "2026-07-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "no-handoff",
@@ -18204,7 +19605,8 @@
   "motif": "frame",
   "image": "pipeline/media/no-handoff.png",
   "date": "2026-07-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "macpaw-eney",
@@ -18217,7 +19619,8 @@
   "motif": "swatch",
   "image": "pipeline/media/macpaw-eney.jpg",
   "date": "2026-07-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "audiobook-ai-multicast",
@@ -18229,7 +19632,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-07-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "corgigenome",
@@ -18242,7 +19646,8 @@
   "motif": "sphere",
   "image": "pipeline/media/corgigenome.jpg",
   "date": "2026-07-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "cognitivebci",
@@ -18254,7 +19659,8 @@
   "accent": "#7928ca",
   "motif": "sphere",
   "date": "2026-07-28",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "aitoolvetting",
@@ -18267,7 +19673,8 @@
   "motif": "frame",
   "image": "pipeline/media/aitoolvetting.jpg",
   "date": "2026-07-28",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "duskbloods-ai-lore",
@@ -18280,7 +19687,8 @@
   "motif": "sphere",
   "image": "pipeline/media/duskbloods-ai-lore.jpg",
   "date": "2026-07-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "blendcap-mocap",
@@ -18293,7 +19701,8 @@
   "motif": "cube",
   "image": "pipeline/media/blendcap-mocap.jpg",
   "date": "2026-07-28",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "looki-ai-pendant",
@@ -18306,7 +19715,8 @@
   "motif": "headset",
   "image": "pipeline/media/looki-ai-pendant.jpg",
   "date": "2026-07-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "byd-xiaodi-robot",
@@ -18319,7 +19729,8 @@
   "motif": "headset",
   "image": "pipeline/media/byd-xiaodi-robot.jpg",
   "date": "2026-07-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "amd-x100-robots",
@@ -18332,7 +19743,8 @@
   "motif": "headset",
   "image": "pipeline/media/amd-x100-robots.jpg",
   "date": "2026-07-28",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "pincushion-ui-feedback",
@@ -18345,7 +19757,8 @@
   "motif": "frame",
   "image": "pipeline/media/pincushion-ui-feedback.png",
   "date": "2026-07-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "netflix-genai-boycott",
@@ -18358,7 +19771,8 @@
   "motif": "swatch",
   "image": "pipeline/media/netflix-genai-boycott.jpg",
   "date": "2026-07-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-websites-samey",
@@ -18371,7 +19785,8 @@
   "motif": "cube",
   "image": "pipeline/media/ai-websites-samey.png",
   "date": "2026-07-28",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "hkbookfair",
@@ -18384,7 +19799,8 @@
   "motif": "frame",
   "image": "pipeline/media/hkbookfair.jpg",
   "date": "2026-07-28",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "selfdrivinglab",
@@ -18397,7 +19813,8 @@
   "motif": "sphere",
   "image": "pipeline/media/selfdrivinglab.jpg",
   "date": "2026-07-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "gyrotron",
@@ -18410,7 +19827,8 @@
   "motif": "sphere",
   "image": "pipeline/media/gyrotron.jpg",
   "date": "2026-07-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "camulator",
@@ -18423,7 +19841,8 @@
   "motif": "sphere",
   "image": "pipeline/media/camulator.jpg",
   "date": "2026-07-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "aiscaffold",
@@ -18436,7 +19855,8 @@
   "motif": "sphere",
   "image": "pipeline/media/aiscaffold.jpg",
   "date": "2026-07-27",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "izotope-vea",
@@ -18449,7 +19869,8 @@
   "motif": "sphere",
   "image": "pipeline/media/izotope.jpg",
   "date": "2026-07-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "deezer-ai-flood",
@@ -18462,7 +19883,8 @@
   "motif": "sphere",
   "image": "pipeline/media/deezer.jpg",
   "date": "2026-07-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "servicemake",
@@ -18475,7 +19897,8 @@
   "motif": "frame",
   "image": "pipeline/media/servicemake.jpg",
   "date": "2026-07-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "meshyagent",
@@ -18488,7 +19911,8 @@
   "motif": "frame",
   "image": "pipeline/media/meshyagent.jpg",
   "date": "2026-07-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "grokodyssey",
@@ -18501,7 +19925,8 @@
   "motif": "frame",
   "image": "pipeline/media/grokodyssey.jpg",
   "date": "2026-07-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ai-game-music",
@@ -18514,7 +19939,8 @@
   "motif": "cube",
   "image": "pipeline/media/ai-game-music.jpg",
   "date": "2026-07-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "robot-phone",
@@ -18527,7 +19953,8 @@
   "motif": "headset",
   "image": "pipeline/media/robot-phone.jpg",
   "date": "2026-07-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "cirqa",
@@ -18540,7 +19967,8 @@
   "motif": "headset",
   "image": "pipeline/media/cirqa.jpg",
   "date": "2026-07-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "apple-glasses",
@@ -18553,7 +19981,8 @@
   "motif": "headset",
   "image": "pipeline/media/apple-glasses.jpg",
   "date": "2026-07-27",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "vibecoding",
@@ -18566,7 +19995,8 @@
   "motif": "frame",
   "image": "pipeline/media/vibecoding.png",
   "date": "2026-07-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "google-creativity",
@@ -18579,7 +20009,8 @@
   "motif": "frame",
   "image": "pipeline/media/google-creativity.png",
   "date": "2026-07-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "designmd",
@@ -18592,7 +20023,8 @@
   "motif": "swatch",
   "image": "pipeline/media/designmd.png",
   "date": "2026-07-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "elevenlabs-odyssey",
@@ -18605,7 +20037,8 @@
   "motif": "swatch",
   "image": "pipeline/media/elevenlabs-odyssey.jpg",
   "date": "2026-07-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "readroom",
@@ -18618,7 +20051,8 @@
   "motif": "sphere",
   "image": "",
   "date": "2026-07-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "argomoc",
@@ -18631,7 +20065,8 @@
   "motif": "sphere",
   "image": "pipeline/media/argomoc.jpg",
   "date": "2026-07-26",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "tonefield-grid",
@@ -18644,7 +20079,8 @@
   "motif": "sphere",
   "image": "pipeline/media/tonefield-grid.jpg",
   "date": "2026-07-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "gema-plai",
@@ -18657,7 +20093,8 @@
   "motif": "sphere",
   "image": "pipeline/media/gema-plai.jpg",
   "date": "2026-07-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "bandlab-aiode",
@@ -18670,7 +20107,8 @@
   "motif": "sphere",
   "image": "pipeline/media/bandlab-aiode.jpg",
   "date": "2026-07-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "seed-ai-avatars",
@@ -18683,7 +20121,8 @@
   "motif": "cube",
   "image": "pipeline/media/seed-ai-avatars.jpg",
   "date": "2026-07-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "z-flip8-cover-screen",
@@ -18696,7 +20135,8 @@
   "motif": "headset",
   "image": "pipeline/media/z-flip8-cover-screen.jpg",
   "date": "2026-07-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-glasses-299-review",
@@ -18709,7 +20149,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-glasses-299-review.jpg",
   "date": "2026-07-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ai-camera-earbuds",
@@ -18722,7 +20163,8 @@
   "motif": "headset",
   "image": "pipeline/media/ai-camera-earbuds.jpg",
   "date": "2026-07-26",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "opus5daily",
@@ -18735,7 +20177,8 @@
   "motif": "frame",
   "image": "",
   "date": "2026-07-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "handfont",
@@ -18748,7 +20191,8 @@
   "motif": "frame",
   "image": "pipeline/media/handfont.png",
   "date": "2026-07-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "bookdrift",
@@ -18761,7 +20205,8 @@
   "motif": "frame",
   "image": "pipeline/media/bookdrift.png",
   "date": "2026-07-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "xrayagent",
@@ -18774,7 +20219,8 @@
   "motif": "sphere",
   "image": "pipeline/media/xrayagent.jpg",
   "date": "2026-07-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "hiddenvars",
@@ -18787,7 +20233,8 @@
   "motif": "sphere",
   "image": "pipeline/media/hiddenvars.jpg",
   "date": "2026-07-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "creepnorm",
@@ -18800,7 +20247,8 @@
   "motif": "sphere",
   "image": "pipeline/media/creepnorm.jpg",
   "date": "2026-07-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "cellforge",
@@ -18813,7 +20261,8 @@
   "motif": "sphere",
   "image": "pipeline/media/cellforge.png",
   "date": "2026-07-25",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "talk-to-spotify",
@@ -18826,7 +20275,8 @@
   "motif": "sphere",
   "image": "pipeline/media/talk-to-spotify.png",
   "date": "2026-07-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "maqam-archive",
@@ -18839,7 +20289,8 @@
   "motif": "sphere",
   "image": "pipeline/media/maqam-archive.png",
   "date": "2026-07-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "lorde-about-the-song",
@@ -18852,7 +20303,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lorde-about-the-song.png",
   "date": "2026-07-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "landr-fair-trade",
@@ -18865,7 +20317,8 @@
   "motif": "sphere",
   "image": "pipeline/media/landr-fair-trade.png",
   "date": "2026-07-25",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "sparkstory",
@@ -18878,7 +20331,8 @@
   "motif": "frame",
   "image": "pipeline/media/sparkstory.jpg",
   "date": "2026-07-25",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "steam-aidisclosure-devs",
@@ -18891,7 +20345,8 @@
   "motif": "cube",
   "image": "pipeline/media/steam-aidisclosure-devs.jpg",
   "date": "2026-07-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "nvidia-dgx-agents",
@@ -18904,7 +20359,8 @@
   "motif": "cube",
   "image": "pipeline/media/nvidia-dgx-agents.jpg",
   "date": "2026-07-25",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "samsung-intelligent-eyewear",
@@ -18917,7 +20373,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-intelligent-eyewear.jpg",
   "date": "2026-07-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gemini-nano-4-fold8",
@@ -18930,7 +20387,8 @@
   "motif": "headset",
   "image": "pipeline/media/gemini-nano-4-fold8.jpg",
   "date": "2026-07-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "garmin-cirqa-band",
@@ -18943,7 +20401,8 @@
   "motif": "headset",
   "image": "pipeline/media/garmin-cirqa-band.jpg",
   "date": "2026-07-25",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "mediocre",
@@ -18956,7 +20415,8 @@
   "motif": "frame",
   "image": "pipeline/media/mediocre.png",
   "date": "2026-07-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "landing7",
@@ -18969,7 +20429,8 @@
   "motif": "frame",
   "image": "pipeline/media/landing7.png",
   "date": "2026-07-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "flux3",
@@ -18982,7 +20443,8 @@
   "motif": "sphere",
   "image": "pipeline/media/flux3.png",
   "date": "2026-07-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "chaossplat",
@@ -18995,7 +20457,8 @@
   "motif": "sphere",
   "image": "pipeline/media/chaossplat.jpg",
   "date": "2026-07-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "open-science-2",
@@ -19008,7 +20471,8 @@
   "motif": "swatch",
   "image": "pipeline/media/open-science-2.jpg",
   "date": "2026-07-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "booklens-hallucinate",
@@ -19021,7 +20485,8 @@
   "motif": "swatch",
   "image": "pipeline/media/booklens-hallucinate.jpg",
   "date": "2026-07-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-nonfiction-hill",
@@ -19034,7 +20499,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-nonfiction-hill.png",
   "date": "2026-07-25",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "scoresmooth",
@@ -19047,7 +20513,8 @@
   "motif": "sphere",
   "image": "pipeline/media/scoresmooth.png",
   "date": "2026-07-24",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "peptiverse",
@@ -19060,7 +20527,8 @@
   "motif": "sphere",
   "image": "pipeline/media/peptiverse.jpg",
   "date": "2026-07-24",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "medmia",
@@ -19073,7 +20541,8 @@
   "motif": "sphere",
   "image": "pipeline/media/medmia.jpg",
   "date": "2026-07-24",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "cyclecover",
@@ -19086,7 +20555,8 @@
   "motif": "sphere",
   "image": "pipeline/media/cyclecover.jpg",
   "date": "2026-07-24",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "curiobot",
@@ -19099,7 +20569,8 @@
   "motif": "sphere",
   "image": "pipeline/media/curiobot.jpg",
   "date": "2026-07-24",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "sonyudio2",
@@ -19112,7 +20583,8 @@
   "motif": "sphere",
   "image": "pipeline/media/sonyudio2.jpg",
   "date": "2026-07-24",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "socanmai",
@@ -19125,7 +20597,8 @@
   "motif": "sphere",
   "image": "pipeline/media/socanmai.jpg",
   "date": "2026-07-24",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "concatenator",
@@ -19138,7 +20611,8 @@
   "motif": "sphere",
   "image": "pipeline/media/concatenator.jpg",
   "date": "2026-07-24",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "aiacts61m",
@@ -19151,7 +20625,8 @@
   "motif": "sphere",
   "image": "pipeline/media/aiacts61m.jpg",
   "date": "2026-07-24",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "sam2matte",
@@ -19164,7 +20639,8 @@
   "motif": "frame",
   "image": "pipeline/media/sam2matte.jpg",
   "date": "2026-07-24",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "raindanceimgn",
@@ -19177,7 +20653,8 @@
   "motif": "frame",
   "image": "pipeline/media/raindanceimgn.jpg",
   "date": "2026-07-24",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "promiseai",
@@ -19190,7 +20667,8 @@
   "motif": "frame",
   "image": "pipeline/media/promiseai.png",
   "date": "2026-07-24",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "kokboru",
@@ -19203,7 +20681,8 @@
   "motif": "frame",
   "image": "pipeline/media/kokboru.jpg",
   "date": "2026-07-24",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "steamcensus",
@@ -19216,7 +20695,8 @@
   "motif": "cube",
   "image": "pipeline/media/steamcensus.png",
   "date": "2026-07-24",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "openriglogic",
@@ -19229,7 +20709,8 @@
   "motif": "frame",
   "image": "pipeline/media/openriglogic.jpg",
   "date": "2026-07-24",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "mkwiicomp",
@@ -19242,7 +20723,8 @@
   "motif": "cube",
   "image": "pipeline/media/mkwiicomp.jpg",
   "date": "2026-07-24",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "inworldtts",
@@ -19255,7 +20737,8 @@
   "motif": "frame",
   "image": "pipeline/media/inworldtts.jpg",
   "date": "2026-07-24",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "fnaivoice",
@@ -19268,7 +20751,8 @@
   "motif": "cube",
   "image": "pipeline/media/fnaivoice.jpg",
   "date": "2026-07-24",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "voicepad",
@@ -19281,7 +20765,8 @@
   "motif": "headset",
   "image": "pipeline/media/voicepad.jpg",
   "date": "2026-07-24",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ultrahumanemerald",
@@ -19294,7 +20779,8 @@
   "motif": "headset",
   "image": "pipeline/media/ultrahumanemerald.jpg",
   "date": "2026-07-24",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "mouthpad",
@@ -19307,7 +20793,8 @@
   "motif": "headset",
   "image": "pipeline/media/mouthpad.jpg",
   "date": "2026-07-24",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "geminilivemini",
@@ -19320,7 +20807,8 @@
   "motif": "headset",
   "image": "pipeline/media/geminilivemini.jpg",
   "date": "2026-07-24",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "frameworkdesk",
@@ -19333,7 +20821,8 @@
   "motif": "headset",
   "image": "pipeline/media/frameworkdesk.jpg",
   "date": "2026-07-24",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "zcaptis",
@@ -19346,7 +20835,8 @@
   "motif": "cube",
   "image": "pipeline/media/zcaptis.jpg",
   "date": "2026-07-24",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "trusttest",
@@ -19359,7 +20849,8 @@
   "motif": "frame",
   "image": "pipeline/media/trusttest.png",
   "date": "2026-07-24",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figmotion",
@@ -19372,7 +20863,8 @@
   "motif": "frame",
   "image": "pipeline/media/figmotion.jpg",
   "date": "2026-07-24",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ailegible",
@@ -19385,7 +20877,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ailegible.png",
   "date": "2026-07-24",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "agentface",
@@ -19398,7 +20891,8 @@
   "motif": "frame",
   "image": "pipeline/media/agentface.png",
   "date": "2026-07-24",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "wiley-genesis",
@@ -19411,7 +20905,8 @@
   "motif": "swatch",
   "image": "pipeline/media/wiley-genesis.jpg",
   "date": "2026-07-24",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "substack-pangram",
@@ -19423,7 +20918,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-07-24",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ipa-congress-ai",
@@ -19435,7 +20931,8 @@
   "accent": "#eb367f",
   "motif": "swatch",
   "date": "2026-07-24",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "bloomsbury-payout",
@@ -19448,7 +20945,8 @@
   "motif": "swatch",
   "image": "pipeline/media/bloomsbury-payout.jpg",
   "date": "2026-07-24",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "anthropic-final",
@@ -19461,7 +20959,8 @@
   "motif": "swatch",
   "image": "pipeline/media/anthropic-final.jpg",
   "date": "2026-07-24",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "qewc",
@@ -19474,7 +20973,8 @@
   "motif": "sphere",
   "image": "pipeline/media/qewc.png",
   "date": "2026-07-23",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "oled-ai",
@@ -19487,7 +20987,8 @@
   "motif": "sphere",
   "image": "pipeline/media/oled-ai.jpg",
   "date": "2026-07-23",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "deeptimegate",
@@ -19500,7 +21001,8 @@
   "motif": "sphere",
   "image": "pipeline/media/deeptimegate.jpg",
   "date": "2026-07-23",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "lydia",
@@ -19513,7 +21015,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lydia.jpg",
   "date": "2026-07-23",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "acestudio2",
@@ -19526,7 +21029,8 @@
   "motif": "sphere",
   "image": "pipeline/media/acestudio2.jpg",
   "date": "2026-07-23",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "substance3d",
@@ -19539,7 +21043,8 @@
   "motif": "frame",
   "image": "pipeline/media/substance3d.jpg",
   "date": "2026-07-23",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "nightborne",
@@ -19552,7 +21057,8 @@
   "motif": "frame",
   "image": "pipeline/media/nightborne.jpg",
   "date": "2026-07-23",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "hpzcaptis",
@@ -19565,7 +21071,8 @@
   "motif": "frame",
   "image": "pipeline/media/hpzcaptis.jpg",
   "date": "2026-07-23",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "autodesk",
@@ -19578,7 +21085,8 @@
   "motif": "frame",
   "image": "pipeline/media/autodesk.jpg",
   "date": "2026-07-23",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "animaj",
@@ -19591,7 +21099,8 @@
   "motif": "frame",
   "image": "pipeline/media/animaj.jpg",
   "date": "2026-07-23",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "nvidia-siggraph",
@@ -19604,7 +21113,8 @@
   "motif": "cube",
   "image": "pipeline/media/nvidia-siggraph.jpg",
   "date": "2026-07-23",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "kaneko",
@@ -19617,7 +21127,8 @@
   "motif": "cube",
   "image": "pipeline/media/kaneko.jpg",
   "date": "2026-07-23",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "atelico",
@@ -19630,7 +21141,8 @@
   "motif": "cube",
   "image": "pipeline/media/atelico.png",
   "date": "2026-07-23",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "ai-2d-to-3d",
@@ -19643,7 +21155,8 @@
   "motif": "cube",
   "image": "pipeline/media/ai-2d-to-3d.jpg",
   "date": "2026-07-23",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "samsung-health-assistant",
@@ -19656,7 +21169,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-health-assistant.jpg",
   "date": "2026-07-23",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "adobe-indigo",
@@ -19669,7 +21183,8 @@
   "motif": "headset",
   "image": "pipeline/media/adobe-indigo.jpg",
   "date": "2026-07-23",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ux-review-ai",
@@ -19682,7 +21197,8 @@
   "motif": "frame",
   "image": "pipeline/media/ux-review-ai.jpg",
   "date": "2026-07-23",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "screens-demoted",
@@ -19695,7 +21211,8 @@
   "motif": "frame",
   "image": "pipeline/media/screens-demoted.png",
   "date": "2026-07-23",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "maya20262",
@@ -19708,7 +21225,8 @@
   "motif": "sphere",
   "image": "pipeline/media/maya20262.jpg",
   "date": "2026-07-23",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "art-director-edge",
@@ -19721,7 +21239,8 @@
   "motif": "frame",
   "image": "pipeline/media/art-director-edge.png",
   "date": "2026-07-23",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "3dsmax20262",
@@ -19734,7 +21253,8 @@
   "motif": "sphere",
   "image": "pipeline/media/3dsmax20262.jpg",
   "date": "2026-07-23",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "zedoc",
@@ -19747,7 +21267,8 @@
   "motif": "swatch",
   "image": "pipeline/media/zedoc.png",
   "date": "2026-07-23",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "editor-ai-survey",
@@ -19760,7 +21281,8 @@
   "motif": "swatch",
   "image": "pipeline/media/editor-ai-survey.jpg",
   "date": "2026-07-23",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-course",
@@ -19773,7 +21295,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-course.png",
   "date": "2026-07-23",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "openadmet",
@@ -19786,7 +21309,8 @@
   "motif": "sphere",
   "image": "pipeline/media/openadmet.jpg",
   "date": "2026-07-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "goflow",
@@ -19799,7 +21323,8 @@
   "motif": "sphere",
   "image": "pipeline/media/goflow.jpg",
   "date": "2026-07-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "baker",
@@ -19812,7 +21337,8 @@
   "motif": "sphere",
   "image": "pipeline/media/baker.jpeg",
   "date": "2026-07-22",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "suno-imessage",
@@ -19825,7 +21351,8 @@
   "motif": "sphere",
   "image": "pipeline/media/suno-imessage.jpg",
   "date": "2026-07-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "mcp-music",
@@ -19838,7 +21365,8 @@
   "motif": "sphere",
   "image": "pipeline/media/mcp-music.png",
   "date": "2026-07-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "deezer-ai",
@@ -19851,7 +21379,8 @@
   "motif": "sphere",
   "image": "pipeline/media/deezer-ai.png",
   "date": "2026-07-22",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "spark-story",
@@ -19864,7 +21393,8 @@
   "motif": "frame",
   "image": "pipeline/media/spark-story.jpg",
   "date": "2026-07-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "project-indigo",
@@ -19877,7 +21407,8 @@
   "motif": "frame",
   "image": "pipeline/media/project-indigo.jpg",
   "date": "2026-07-22",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "unity7",
@@ -19890,7 +21421,8 @@
   "motif": "cube",
   "image": "pipeline/media/unity7.png",
   "date": "2026-07-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "meshy3dagent",
@@ -19903,7 +21435,8 @@
   "motif": "cube",
   "image": "pipeline/media/meshy3dagent.png",
   "date": "2026-07-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "dlss5",
@@ -19916,7 +21449,8 @@
   "motif": "cube",
   "image": "pipeline/media/dlss5.jpg",
   "date": "2026-07-22",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "snapdragonx2e",
@@ -19929,7 +21463,8 @@
   "motif": "headset",
   "image": "pipeline/media/snapdragonx2e.jpg",
   "date": "2026-07-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "oneui9",
@@ -19942,7 +21477,8 @@
   "motif": "headset",
   "image": "pipeline/media/oneui9.jpg",
   "date": "2026-07-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "galaxyglasses",
@@ -19955,7 +21491,8 @@
   "motif": "headset",
   "image": "pipeline/media/galaxyglasses.jpg",
   "date": "2026-07-22",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "vray74",
@@ -19968,7 +21505,8 @@
   "motif": "sphere",
   "image": "pipeline/media/vray74.jpg",
   "date": "2026-07-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "smartroto",
@@ -19980,7 +21518,8 @@
   "accent": "#3b6bff",
   "motif": "sphere",
   "date": "2026-07-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "meshy",
@@ -19993,7 +21532,8 @@
   "motif": "frame",
   "image": "pipeline/media/meshy.png",
   "date": "2026-07-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "hologram",
@@ -20006,7 +21546,8 @@
   "motif": "swatch",
   "image": "pipeline/media/hologram.jpg",
   "date": "2026-07-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-uptake",
@@ -20019,7 +21560,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-uptake.jpg",
   "date": "2026-07-22",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "eldoraudio",
@@ -20032,7 +21574,8 @@
   "motif": "sphere",
   "image": "pipeline/media/eldoraudio.jpg",
   "date": "2026-07-21",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "switchlight3",
@@ -20045,7 +21588,8 @@
   "motif": "frame",
   "image": "pipeline/media/switchlight3.jpg",
   "date": "2026-07-21",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "houdini22",
@@ -20058,7 +21602,8 @@
   "motif": "cube",
   "image": "pipeline/media/houdini22.jpg",
   "date": "2026-07-21",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "samsung-unpacked-july",
@@ -20071,7 +21616,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-unpacked-july.jpg",
   "date": "2026-07-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-privacy-led",
@@ -20084,7 +21630,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-privacy-led.jpg",
   "date": "2026-07-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "brainco-mind-robot",
@@ -20097,7 +21644,8 @@
   "motif": "headset",
   "image": "pipeline/media/brainco-mind-robot.jpg",
   "date": "2026-07-21",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "style-refs",
@@ -20110,7 +21658,8 @@
   "motif": "frame",
   "image": "pipeline/media/style-refs.png",
   "date": "2026-07-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "nvidia",
@@ -20123,7 +21672,8 @@
   "motif": "frame",
   "image": "pipeline/media/nvidia.jpg",
   "date": "2026-07-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "inversphere",
@@ -20136,7 +21686,8 @@
   "motif": "sphere",
   "image": "pipeline/media/inversphere.jpg",
   "date": "2026-07-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "bloomsbury-ai-licensing",
@@ -20149,7 +21700,8 @@
   "motif": "swatch",
   "image": "pipeline/media/bloomsbury-ai-licensing.png",
   "date": "2026-07-21",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "scent-ai",
@@ -20162,7 +21714,8 @@
   "motif": "sphere",
   "image": "pipeline/media/scent-ai.jpg",
   "date": "2026-07-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "k2-18b-seti",
@@ -20175,7 +21728,8 @@
   "motif": "sphere",
   "image": "pipeline/media/k2-18b-seti.jpg",
   "date": "2026-07-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "denning-critique",
@@ -20188,7 +21742,8 @@
   "motif": "sphere",
   "image": "pipeline/media/denning-critique.jpg",
   "date": "2026-07-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "chathea",
@@ -20201,7 +21756,8 @@
   "motif": "sphere",
   "image": "pipeline/media/chathea.jpg",
   "date": "2026-07-20",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "google-ai-mode-ytmusic",
@@ -20214,7 +21770,8 @@
   "motif": "sphere",
   "image": "pipeline/media/google-ai-mode-ytmusic.jpg",
   "date": "2026-07-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "almudio-3d-panner",
@@ -20227,7 +21784,8 @@
   "motif": "sphere",
   "image": "pipeline/media/almudio-3d-panner.jpg",
   "date": "2026-07-20",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "metahumancrowds",
@@ -20240,7 +21798,8 @@
   "motif": "frame",
   "image": "pipeline/media/metahumancrowds.jpg",
   "date": "2026-07-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "indiedevs25",
@@ -20253,7 +21812,8 @@
   "motif": "cube",
   "image": "pipeline/media/indiedevs25.jpg",
   "date": "2026-07-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "damagecontrol",
@@ -20266,7 +21826,8 @@
   "motif": "cube",
   "image": "pipeline/media/damagecontrol.jpg",
   "date": "2026-07-20",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gemini-home",
@@ -20279,7 +21840,8 @@
   "motif": "headset",
   "image": "pipeline/media/gemini-home.jpg",
   "date": "2026-07-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ear-3a",
@@ -20292,7 +21854,8 @@
   "motif": "headset",
   "image": "pipeline/media/ear-3a.jpg",
   "date": "2026-07-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "codex-micro",
@@ -20305,7 +21868,8 @@
   "motif": "headset",
   "image": "pipeline/media/codex-micro.jpg",
   "date": "2026-07-20",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-regret",
@@ -20318,7 +21882,8 @@
   "motif": "frame",
   "image": "pipeline/media/meta-regret.jpg",
   "date": "2026-07-20",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "platon",
@@ -20331,7 +21896,8 @@
   "motif": "sphere",
   "image": "pipeline/media/platon.jpg",
   "date": "2026-07-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "paper-mill",
@@ -20344,7 +21910,8 @@
   "motif": "sphere",
   "image": "pipeline/media/paper-mill.jpg",
   "date": "2026-07-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "novotags",
@@ -20357,7 +21924,8 @@
   "motif": "sphere",
   "image": "pipeline/media/novotags.jpg",
   "date": "2026-07-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "lab-animal-ai",
@@ -20370,7 +21938,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lab-animal-ai.jpg",
   "date": "2026-07-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "ai-res",
@@ -20383,7 +21952,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-res.jpg",
   "date": "2026-07-19",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "josh-fawaz",
@@ -20396,7 +21966,8 @@
   "motif": "sphere",
   "image": "pipeline/media/josh-fawaz.jpg",
   "date": "2026-07-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "devocean",
@@ -20409,7 +21980,8 @@
   "motif": "sphere",
   "image": "pipeline/media/devocean.png",
   "date": "2026-07-19",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "martini",
@@ -20422,7 +21994,8 @@
   "motif": "frame",
   "image": "pipeline/media/martini.jpg",
   "date": "2026-07-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "curious-refuge-ai-tools",
@@ -20435,7 +22008,8 @@
   "motif": "frame",
   "image": "pipeline/media/curious-refuge-ai-tools.jpg",
   "date": "2026-07-19",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "meccha-chameleon",
@@ -20448,7 +22022,8 @@
   "motif": "cube",
   "image": "pipeline/media/meccha-chameleon.png",
   "date": "2026-07-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "ai-clone",
@@ -20461,7 +22036,8 @@
   "motif": "cube",
   "image": "pipeline/media/ai-clone.jpg",
   "date": "2026-07-19",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "smart-glasses-2026",
@@ -20474,7 +22050,8 @@
   "motif": "headset",
   "image": "pipeline/media/smart-glasses-2026.jpg",
   "date": "2026-07-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "sk-hynix-tetramem",
@@ -20487,7 +22064,8 @@
   "motif": "headset",
   "image": "pipeline/media/sk-hynix-tetramem.jpg",
   "date": "2026-07-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "dreame-x60",
@@ -20500,7 +22078,8 @@
   "motif": "headset",
   "image": "pipeline/media/dreame-x60.jpg",
   "date": "2026-07-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "apple-google-cloud",
@@ -20513,7 +22092,8 @@
   "motif": "headset",
   "image": "pipeline/media/apple-google-cloud.jpg",
   "date": "2026-07-19",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "zephyr9",
@@ -20526,7 +22106,8 @@
   "motif": "sphere",
   "image": "pipeline/media/zephyr9.jpg",
   "date": "2026-07-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "lightcraft",
@@ -20539,7 +22120,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lightcraft.jpg",
   "date": "2026-07-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "hallmark",
@@ -20552,7 +22134,8 @@
   "motif": "frame",
   "image": "pipeline/media/hallmark.png",
   "date": "2026-07-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "dscontract",
@@ -20565,7 +22148,8 @@
   "motif": "swatch",
   "image": "pipeline/media/dscontract.png",
   "date": "2026-07-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "aibluff",
@@ -20578,7 +22162,8 @@
   "motif": "frame",
   "image": "pipeline/media/aibluff.jpg",
   "date": "2026-07-19",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "nanoshape",
@@ -20591,7 +22176,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science_nanoshape.jpg",
   "date": "2026-07-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "kandy",
@@ -20604,7 +22190,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science_kandy.jpg",
   "date": "2026-07-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "amber",
@@ -20617,7 +22204,8 @@
   "motif": "sphere",
   "image": "pipeline/media/science_amber.jpg",
   "date": "2026-07-18",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "motiontones",
@@ -20630,7 +22218,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music_motiontones.jpg",
   "date": "2026-07-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "fl-studio-gopher",
@@ -20643,7 +22232,8 @@
   "motif": "sphere",
   "image": "pipeline/media/music_fl-studio-gopher.jpg",
   "date": "2026-07-18",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "tippett-sentinel-siggraph",
@@ -20656,7 +22246,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies_tippett-sentinel-siggraph.jpg",
   "date": "2026-07-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "nfb-gaussian-splatting",
@@ -20669,7 +22260,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies_nfb-gaussian-splatting.jpg",
   "date": "2026-07-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "netflix-300-ai",
@@ -20682,7 +22274,8 @@
   "motif": "frame",
   "image": "pipeline/media/movies_netflix-300-ai.jpg",
   "date": "2026-07-18",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "roblox-build",
@@ -20695,7 +22288,8 @@
   "motif": "cube",
   "image": "pipeline/media/games_roblox-build.jpg",
   "date": "2026-07-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "mw4-gunny",
@@ -20708,7 +22302,8 @@
   "motif": "cube",
   "image": "pipeline/media/games_mw4-gunny.jpg",
   "date": "2026-07-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "hi3d",
@@ -20721,7 +22316,8 @@
   "motif": "cube",
   "image": "pipeline/media/games_hi3d.jpg",
   "date": "2026-07-18",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "samsung-galaxy-watch-ai",
@@ -20734,7 +22330,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets_samsung-galaxy-watch-ai.jpg",
   "date": "2026-07-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "samsung-galaxy-buds-on",
@@ -20747,7 +22344,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets_samsung-galaxy-buds-on.jpg",
   "date": "2026-07-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "apple-smart-home",
@@ -20760,7 +22358,8 @@
   "motif": "headset",
   "image": "pipeline/media/gadgets_apple-smart-home.jpg",
   "date": "2026-07-18",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ui-score-gate",
@@ -20773,7 +22372,8 @@
   "motif": "frame",
   "image": "pipeline/media/design_ui-score-gate.png",
   "date": "2026-07-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "lenovo-keyboard",
@@ -20786,7 +22386,8 @@
   "motif": "frame",
   "image": "pipeline/media/design_lenovo-keyboard.jpg",
   "date": "2026-07-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "frontend-skill",
@@ -20799,7 +22400,8 @@
   "motif": "swatch",
   "image": "pipeline/media/design_frontend-skill.png",
   "date": "2026-07-18",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "uk-copyright",
@@ -20812,7 +22414,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books_uk-copyright.png",
   "date": "2026-07-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "textbook-3d",
@@ -20825,7 +22428,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books_textbook-3d.jpg",
   "date": "2026-07-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "libby-filter",
@@ -20838,7 +22442,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books_libby-filter.png",
   "date": "2026-07-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "kindle-ai",
@@ -20851,7 +22456,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books_kindle-ai.jpg",
   "date": "2026-07-18",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "syntnpb",
@@ -20864,7 +22470,8 @@
   "motif": "sphere",
   "image": "pipeline/media/syntnpb.jpg",
   "date": "2026-07-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "feedback-brain",
@@ -20877,7 +22484,8 @@
   "motif": "sphere",
   "image": "pipeline/media/feedback-brain.jpg",
   "date": "2026-07-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "claude-science",
@@ -20890,7 +22498,8 @@
   "motif": "sphere",
   "image": "pipeline/media/claude-science.jpg",
   "date": "2026-07-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "claude-jamming",
@@ -20903,7 +22512,8 @@
   "motif": "sphere",
   "image": "pipeline/media/claude-jamming.jpg",
   "date": "2026-07-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "biosignature-ai",
@@ -20916,7 +22526,8 @@
   "motif": "sphere",
   "image": "pipeline/media/biosignature-ai.jpg",
   "date": "2026-07-17",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "suno-leak",
@@ -20929,7 +22540,8 @@
   "motif": "sphere",
   "image": "pipeline/media/suno-leak.jpg",
   "date": "2026-07-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "spotify-chat",
@@ -20942,7 +22554,8 @@
   "motif": "sphere",
   "image": "pipeline/media/spotify-chat.jpg",
   "date": "2026-07-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "peelstems2",
@@ -20954,7 +22567,8 @@
   "accent": "#ff2d55",
   "motif": "sphere",
   "date": "2026-07-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "aiode",
@@ -20967,7 +22581,8 @@
   "motif": "sphere",
   "image": "pipeline/media/aiode.jpg",
   "date": "2026-07-17",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "smartroto",
@@ -20980,7 +22595,8 @@
   "motif": "frame",
   "image": "pipeline/media/smartroto.jpg",
   "date": "2026-07-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "gutierrez",
@@ -20993,7 +22609,8 @@
   "motif": "frame",
   "image": "pipeline/media/gutierrez.jpg",
   "date": "2026-07-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "griptape",
@@ -21006,7 +22623,8 @@
   "motif": "frame",
   "image": "pipeline/media/griptape.jpg",
   "date": "2026-07-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "daletflex",
@@ -21019,7 +22637,8 @@
   "motif": "frame",
   "image": "pipeline/media/daletflex.jpg",
   "date": "2026-07-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "automask",
@@ -21032,7 +22651,8 @@
   "motif": "frame",
   "image": "pipeline/media/automask.jpg",
   "date": "2026-07-17",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "unity-mcp",
@@ -21045,7 +22665,8 @@
   "motif": "cube",
   "image": "pipeline/media/unity-mcp.jpg",
   "date": "2026-07-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "mw4-ai",
@@ -21058,7 +22679,8 @@
   "motif": "cube",
   "image": "pipeline/media/mw4-ai.jpg",
   "date": "2026-07-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "joga-100",
@@ -21071,7 +22693,8 @@
   "motif": "cube",
   "image": "pipeline/media/joga-100.jpg",
   "date": "2026-07-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "dear-passengers",
@@ -21084,7 +22707,8 @@
   "motif": "cube",
   "image": "pipeline/media/dear-passengers.jpg",
   "date": "2026-07-17",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "signal-ring",
@@ -21097,7 +22721,8 @@
   "motif": "headset",
   "image": "pipeline/media/signal-ring.jpg",
   "date": "2026-07-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "neo-hands",
@@ -21110,7 +22735,8 @@
   "motif": "headset",
   "image": "pipeline/media/neo-hands.jpg",
   "date": "2026-07-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "navix-ultra",
@@ -21123,7 +22749,8 @@
   "motif": "headset",
   "image": "pipeline/media/navix-ultra.jpg",
   "date": "2026-07-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "google-eyewear",
@@ -21136,7 +22763,8 @@
   "motif": "headset",
   "image": "pipeline/media/google-eyewear.jpg",
   "date": "2026-07-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "bonsai27b",
@@ -21149,7 +22777,8 @@
   "motif": "headset",
   "image": "pipeline/media/bonsai27b.jpg",
   "date": "2026-07-17",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "tokens2026",
@@ -21162,7 +22791,8 @@
   "motif": "swatch",
   "image": "pipeline/media/tokens2026.png",
   "date": "2026-07-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "said-framework",
@@ -21175,7 +22805,8 @@
   "motif": "frame",
   "image": "pipeline/media/said-framework.png",
   "date": "2026-07-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-make-pr",
@@ -21188,7 +22819,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-make-pr.png",
   "date": "2026-07-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "codex-micro",
@@ -21201,7 +22833,8 @@
   "motif": "frame",
   "image": "pipeline/media/codex-micro.jpg",
   "date": "2026-07-17",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "australia-office-of-ai",
@@ -21214,7 +22847,8 @@
   "motif": "swatch",
   "image": "pipeline/media/australia-office-of-ai.jpg",
   "date": "2026-07-17",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "thermo-computing",
@@ -21227,7 +22861,8 @@
   "motif": "sphere",
   "image": "pipeline/media/thermo-computing.jpg",
   "date": "2026-07-16",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "supercooled-water",
@@ -21240,7 +22875,8 @@
   "motif": "sphere",
   "image": "pipeline/media/supercooled-water.jpg",
   "date": "2026-07-16",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "san-andreas",
@@ -21253,7 +22889,8 @@
   "motif": "sphere",
   "image": "pipeline/media/san-andreas.jpg",
   "date": "2026-07-16",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "binnd",
@@ -21266,7 +22903,8 @@
   "motif": "sphere",
   "image": "pipeline/media/binnd.jpg",
   "date": "2026-07-16",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "tidal-ai-label",
@@ -21279,7 +22917,8 @@
   "motif": "sphere",
   "image": "pipeline/media/tidal-ai-label.jpg",
   "date": "2026-07-16",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "resing-brazilian",
@@ -21292,7 +22931,8 @@
   "motif": "sphere",
   "image": "pipeline/media/resing-brazilian.jpg",
   "date": "2026-07-16",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "meaw-chain",
@@ -21305,7 +22945,8 @@
   "motif": "sphere",
   "image": "pipeline/media/meaw-chain.jpg",
   "date": "2026-07-16",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "fender-studio-pro",
@@ -21318,7 +22959,8 @@
   "motif": "sphere",
   "image": "pipeline/media/fender-studio-pro.jpg",
   "date": "2026-07-16",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "vigloo",
@@ -21331,7 +22973,8 @@
   "motif": "frame",
   "image": "pipeline/media/vigloo.jpg",
   "date": "2026-07-16",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "topaz-video",
@@ -21344,7 +22987,8 @@
   "motif": "frame",
   "image": "pipeline/media/topaz-video.jpg",
   "date": "2026-07-16",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ted-deepvoodoo",
@@ -21357,7 +23001,8 @@
   "motif": "frame",
   "image": "pipeline/media/ted-deepvoodoo.jpg",
   "date": "2026-07-16",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "clearangle",
@@ -21370,7 +23015,8 @@
   "motif": "frame",
   "image": "pipeline/media/clearangle.jpg",
   "date": "2026-07-16",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "steam-ai-flood",
@@ -21383,7 +23029,8 @@
   "motif": "cube",
   "image": "pipeline/media/steam-ai-flood.jpg",
   "date": "2026-07-16",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "sony-synthetic-assets",
@@ -21396,7 +23043,8 @@
   "motif": "cube",
   "image": "pipeline/media/sony-synthetic-assets.jpg",
   "date": "2026-07-16",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "capybara-vibe-code",
@@ -21409,7 +23057,8 @@
   "motif": "cube",
   "image": "pipeline/media/capybara-vibe-code.jpg",
   "date": "2026-07-16",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "siri-gemini",
@@ -21422,7 +23071,8 @@
   "motif": "headset",
   "image": "pipeline/media/siri-gemini.jpg",
   "date": "2026-07-16",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "pixel10-gemma4",
@@ -21435,7 +23085,8 @@
   "motif": "headset",
   "image": "pipeline/media/pixel10-gemma4.jpg",
   "date": "2026-07-16",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "post-chat-ui",
@@ -21448,7 +23099,8 @@
   "motif": "frame",
   "image": "pipeline/media/post-chat-ui.png",
   "date": "2026-07-16",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "no-more-ai",
@@ -21461,7 +23113,8 @@
   "motif": "frame",
   "image": "pipeline/media/no-more-ai.jpg",
   "date": "2026-07-16",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "illusion-font",
@@ -21474,7 +23127,8 @@
   "motif": "frame",
   "image": "pipeline/media/illusion-font.png",
   "date": "2026-07-16",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "daniel-porto",
@@ -21487,7 +23141,8 @@
   "motif": "sphere",
   "image": "pipeline/media/daniel-porto.jpg",
   "date": "2026-07-16",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "best-ai-tools-2026",
@@ -21500,7 +23155,8 @@
   "motif": "frame",
   "image": "pipeline/media/best-ai-tools-2026.jpg",
   "date": "2026-07-16",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "guatemala-ai-authorship",
@@ -21513,7 +23169,8 @@
   "motif": "swatch",
   "image": "pipeline/media/guatemala-ai-authorship.png",
   "date": "2026-07-16",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "rhine-rprocess",
@@ -21526,7 +23183,8 @@
   "motif": "sphere",
   "image": "pipeline/media/rhine-rprocess.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "pinn-drug-release",
@@ -21539,7 +23197,8 @@
   "motif": "sphere",
   "image": "pipeline/media/pinn-drug-release.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "chemgraph",
@@ -21552,7 +23211,8 @@
   "motif": "sphere",
   "image": "pipeline/media/chemgraph.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "chatbot-therapy",
@@ -21564,7 +23224,8 @@
   "accent": "#f5a623",
   "motif": "sphere",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "betadescribe-protein",
@@ -21577,7 +23238,8 @@
   "motif": "sphere",
   "image": "pipeline/media/betadescribe-protein.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "anthropic-jspace",
@@ -21590,7 +23252,8 @@
   "motif": "sphere",
   "image": "pipeline/media/anthropic-jspace.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "ai-black-box-science",
@@ -21603,7 +23266,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-black-box-science.jpg",
   "date": "2026-07-15",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "m-compressor-2",
@@ -21616,7 +23280,8 @@
   "motif": "sphere",
   "image": "pipeline/media/m-compressor-2.jpg",
   "date": "2026-07-15",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "tilly-norwood-misaligned",
@@ -21629,7 +23294,8 @@
   "motif": "frame",
   "image": "pipeline/media/tilly-norwood-misaligned.jpg",
   "date": "2026-07-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ssff-asia-pitch",
@@ -21642,7 +23308,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "odysseus-fall",
@@ -21655,7 +23322,8 @@
   "motif": "frame",
   "image": "pipeline/media/odysseus-fall.jpg",
   "date": "2026-07-15",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "vibe-clone-steam",
@@ -21668,7 +23336,8 @@
   "motif": "cube",
   "image": "pipeline/media/vibe-clone-steam.jpg",
   "date": "2026-07-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "sts2-placeholder",
@@ -21681,7 +23350,8 @@
   "motif": "cube",
   "image": "pipeline/media/sts2-placeholder.jpg",
   "date": "2026-07-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "lucas-ai-future",
@@ -21694,7 +23364,8 @@
   "motif": "cube",
   "image": "pipeline/media/lucas-ai-future.jpg",
   "date": "2026-07-15",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "surface-x2plus",
@@ -21707,7 +23378,8 @@
   "motif": "headset",
   "image": "pipeline/media/surface-x2plus.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "roborock-saros20",
@@ -21720,7 +23392,8 @@
   "motif": "headset",
   "image": "pipeline/media/roborock-saros20.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "openai-speaker",
@@ -21733,7 +23406,8 @@
   "motif": "headset",
   "image": "pipeline/media/openai-speaker.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "one-ui-9-watch",
@@ -21746,7 +23420,8 @@
   "motif": "headset",
   "image": "pipeline/media/one-ui-9-watch.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-rayban-led",
@@ -21759,7 +23434,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-rayban-led.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-glasses-subscription",
@@ -21772,7 +23448,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-glasses-subscription.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "galaxy-z8",
@@ -21785,7 +23462,8 @@
   "motif": "headset",
   "image": "pipeline/media/galaxy-z8.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "galaxy-watch-teaser",
@@ -21798,7 +23476,8 @@
   "motif": "headset",
   "image": "pipeline/media/galaxy-watch-teaser.jpg",
   "date": "2026-07-15",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "visual-native",
@@ -21811,7 +23490,8 @@
   "motif": "frame",
   "image": "pipeline/media/visual-native.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "tokens-prompts",
@@ -21823,7 +23503,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "novineer-cad",
@@ -21836,7 +23517,8 @@
   "motif": "cube",
   "image": "pipeline/media/novineer-cad.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "leaders-fast",
@@ -21849,7 +23531,8 @@
   "motif": "frame",
   "image": "pipeline/media/leaders-fast.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "intern-desk",
@@ -21862,7 +23545,8 @@
   "motif": "frame",
   "image": "pipeline/media/intern-desk.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "generative-ui2",
@@ -21875,7 +23559,8 @@
   "motif": "frame",
   "image": "pipeline/media/generative-ui2.png",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "design-org",
@@ -21888,7 +23573,8 @@
   "motif": "frame",
   "image": "pipeline/media/design-org.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "canva-code2",
@@ -21901,7 +23587,8 @@
   "motif": "frame",
   "image": "pipeline/media/canva-code2.jpg",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "agents-design",
@@ -21914,7 +23601,8 @@
   "motif": "swatch",
   "image": "pipeline/media/agents-design.png",
   "date": "2026-07-15",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ipa-childrens-books",
@@ -21926,7 +23614,8 @@
   "accent": "#2ec5c5",
   "motif": "swatch",
   "date": "2026-07-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "google-gemini-suit",
@@ -21939,7 +23628,8 @@
   "motif": "swatch",
   "image": "pipeline/media/google-gemini-suit.jpg",
   "date": "2026-07-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-audiobook-surveys",
@@ -21952,7 +23642,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-audiobook-surveys.jpg",
   "date": "2026-07-15",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "willow-self-learning",
@@ -21965,7 +23656,8 @@
   "motif": "sphere",
   "image": "pipeline/media/willow-self-learning.png",
   "date": "2026-07-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "quantum-peptide-design",
@@ -21978,7 +23670,8 @@
   "motif": "sphere",
   "image": "pipeline/media/quantum-peptide-design.png",
   "date": "2026-07-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "llm-decision-reasons",
@@ -21991,7 +23684,8 @@
   "motif": "sphere",
   "image": "pipeline/media/llm-decision-reasons.jpg",
   "date": "2026-07-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "kagome-superconductors",
@@ -22004,7 +23698,8 @@
   "motif": "sphere",
   "image": "pipeline/media/kagome-superconductors.jpg",
   "date": "2026-07-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "flatband-2d-screening",
@@ -22017,7 +23712,8 @@
   "motif": "sphere",
   "image": "pipeline/media/flatband-2d-screening.jpg",
   "date": "2026-07-14",
-  "section": "science"
+  "section": "science",
+  "has_full": true
  },
  {
   "id": "eldoraudio-midi",
@@ -22030,7 +23726,8 @@
   "motif": "sphere",
   "image": "pipeline/media/eldoraudio-midi.jpg",
   "date": "2026-07-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "audiotool-nexus",
@@ -22043,7 +23740,8 @@
   "motif": "sphere",
   "image": "pipeline/media/audiotool-nexus.jpg",
   "date": "2026-07-14",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "nvidia-neural",
@@ -22056,7 +23754,8 @@
   "motif": "frame",
   "image": "pipeline/media/nvidia-neural.jpg",
   "date": "2026-07-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "meyer-top5",
@@ -22069,7 +23768,8 @@
   "motif": "frame",
   "image": "pipeline/media/meyer-top5.jpg",
   "date": "2026-07-14",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "terrain-diffusion",
@@ -22082,7 +23782,8 @@
   "motif": "cube",
   "image": "pipeline/media/terrain-diffusion.jpg",
   "date": "2026-07-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "recomp-battleground",
@@ -22095,7 +23796,8 @@
   "motif": "cube",
   "image": "pipeline/media/recomp-battleground.jpg",
   "date": "2026-07-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "meccha-clone",
@@ -22108,7 +23810,8 @@
   "motif": "cube",
   "image": "pipeline/media/meccha-clone.jpg",
   "date": "2026-07-14",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "watch-illness-ai",
@@ -22121,7 +23824,8 @@
   "motif": "headset",
   "image": "pipeline/media/watch-illness-ai.jpg",
   "date": "2026-07-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "rollme-aircam",
@@ -22134,7 +23838,8 @@
   "motif": "headset",
   "image": "pipeline/media/rollme-aircam.jpg",
   "date": "2026-07-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "robert-robot",
@@ -22147,7 +23852,8 @@
   "motif": "headset",
   "image": "pipeline/media/robert-robot.jpg",
   "date": "2026-07-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "honor-robot-phone",
@@ -22160,7 +23866,8 @@
   "motif": "headset",
   "image": "pipeline/media/honor-robot-phone.jpg",
   "date": "2026-07-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "alexa-moonraker",
@@ -22173,7 +23880,8 @@
   "motif": "headset",
   "image": "pipeline/media/alexa-moonraker.jpg",
   "date": "2026-07-14",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "trek-vfx-ai",
@@ -22186,7 +23894,8 @@
   "motif": "sphere",
   "image": "pipeline/media/trek-vfx-ai.jpg",
   "date": "2026-07-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "terminal-canvas",
@@ -22199,7 +23908,8 @@
   "motif": "frame",
   "image": "pipeline/media/terminal-canvas.png",
   "date": "2026-07-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "logo-quits",
@@ -22212,7 +23922,8 @@
   "motif": "frame",
   "image": "pipeline/media/logo-quits.jpg",
   "date": "2026-07-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ax-orchestration",
@@ -22225,7 +23936,8 @@
   "motif": "frame",
   "image": "pipeline/media/ax-orchestration.png",
   "date": "2026-07-14",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "vancouver-standard",
@@ -22238,7 +23950,8 @@
   "motif": "swatch",
   "image": "pipeline/media/vancouver-standard.jpg",
   "date": "2026-07-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "rakuten-discovery",
@@ -22251,7 +23964,8 @@
   "motif": "swatch",
   "image": "pipeline/media/rakuten-discovery.png",
   "date": "2026-07-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "debbonaire-ai",
@@ -22264,7 +23978,8 @@
   "motif": "swatch",
   "image": "pipeline/media/debbonaire-ai.jpg",
   "date": "2026-07-14",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ciauru",
@@ -22277,7 +23992,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ciauru.jpg",
   "date": "2026-07-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "brand-audit-ai",
@@ -22290,7 +24006,8 @@
   "motif": "sphere",
   "image": "pipeline/media/brand-audit-ai.jpg",
   "date": "2026-07-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "bbc-ai-transparency",
@@ -22303,7 +24020,8 @@
   "motif": "sphere",
   "image": "pipeline/media/bbc-ai-transparency.png",
   "date": "2026-07-13",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "serpent-trailer",
@@ -22316,7 +24034,8 @@
   "motif": "frame",
   "image": "pipeline/media/serpent-trailer.jpg",
   "date": "2026-07-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "meta-muse",
@@ -22329,7 +24048,8 @@
   "motif": "frame",
   "image": "pipeline/media/meta-muse.jpg",
   "date": "2026-07-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "blender-overgrown",
@@ -22342,7 +24062,8 @@
   "motif": "frame",
   "image": "pipeline/media/blender-overgrown.jpeg",
   "date": "2026-07-13",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ace-game-agent",
@@ -22355,7 +24076,8 @@
   "motif": "cube",
   "image": "pipeline/media/ace-game-agent.jpg",
   "date": "2026-07-13",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "nokia-ai-button",
@@ -22368,7 +24090,8 @@
   "motif": "headset",
   "image": "pipeline/media/nokia-ai-button.jpg",
   "date": "2026-07-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ms-terminal",
@@ -22381,7 +24104,8 @@
   "motif": "headset",
   "image": "pipeline/media/ms-terminal.png",
   "date": "2026-07-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "insta360-x6",
@@ -22394,7 +24118,8 @@
   "motif": "headset",
   "image": "pipeline/media/insta360-x6.jpg",
   "date": "2026-07-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "codex-macropad",
@@ -22407,7 +24132,8 @@
   "motif": "headset",
   "image": "pipeline/media/codex-macropad.jpg",
   "date": "2026-07-13",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "taste-delegated",
@@ -22420,7 +24146,8 @@
   "motif": "frame",
   "image": "pipeline/media/taste-delegated.png",
   "date": "2026-07-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "interface-left",
@@ -22433,7 +24160,8 @@
   "motif": "frame",
   "image": "pipeline/media/interface-left.png",
   "date": "2026-07-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "fireship-sol",
@@ -22446,7 +24174,8 @@
   "motif": "frame",
   "image": "pipeline/media/fireship-sol.jpg",
   "date": "2026-07-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "agent-handoff",
@@ -22459,7 +24188,8 @@
   "motif": "swatch",
   "image": "pipeline/media/agent-handoff.png",
   "date": "2026-07-13",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "steamy-coauthor",
@@ -22472,7 +24202,8 @@
   "motif": "swatch",
   "image": "pipeline/media/steamy-coauthor.jpg",
   "date": "2026-07-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ipa-emerging-ai",
@@ -22485,7 +24216,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ipa-emerging-ai.jpeg",
   "date": "2026-07-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "anu-audiobook",
@@ -22497,7 +24229,8 @@
   "accent": "#7928ca",
   "motif": "swatch",
   "date": "2026-07-13",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "spotify-umg-remix",
@@ -22510,7 +24243,8 @@
   "motif": "sphere",
   "image": "pipeline/media/spotify-umg-remix.jpg",
   "date": "2026-07-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "riaa-ai-labels",
@@ -22523,7 +24257,8 @@
   "motif": "sphere",
   "image": "pipeline/media/riaa-ai-labels.jpg",
   "date": "2026-07-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "dahlback-ai",
@@ -22536,7 +24271,8 @@
   "motif": "sphere",
   "image": "pipeline/media/dahlback-ai.jpg",
   "date": "2026-07-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "ai-song-copyright",
@@ -22549,7 +24285,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-song-copyright.jpg",
   "date": "2026-07-11",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "runway-dev",
@@ -22562,7 +24299,8 @@
   "motif": "frame",
   "image": "pipeline/media/runway-dev.jpg",
   "date": "2026-07-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "premiere-genmedia",
@@ -22575,7 +24313,8 @@
   "motif": "frame",
   "image": "pipeline/media/premiere-genmedia.jpg",
   "date": "2026-07-11",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ubtech-u1",
@@ -22588,7 +24327,8 @@
   "motif": "headset",
   "image": "pipeline/media/ubtech-u1.jpg",
   "date": "2026-07-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "sony-rx10v",
@@ -22601,7 +24341,8 @@
   "motif": "headset",
   "image": "pipeline/media/sony-rx10v.jpg",
   "date": "2026-07-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "solos-airgo",
@@ -22614,7 +24355,8 @@
   "motif": "headset",
   "image": "pipeline/media/solos-airgo.jpg",
   "date": "2026-07-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "kindle-ask-book",
@@ -22627,7 +24369,8 @@
   "motif": "headset",
   "image": "pipeline/media/kindle-ask-book.jpg",
   "date": "2026-07-11",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "lovable-vercel",
@@ -22640,7 +24383,8 @@
   "motif": "frame",
   "image": "pipeline/media/lovable-vercel.jpg",
   "date": "2026-07-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "jen-dunnam",
@@ -22653,7 +24397,8 @@
   "motif": "frame",
   "image": "pipeline/media/jen-dunnam.jpg",
   "date": "2026-07-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "economist-billboard",
@@ -22666,7 +24411,8 @@
   "motif": "frame",
   "image": "pipeline/media/economist-billboard.jpg",
   "date": "2026-07-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "decagon-deco",
@@ -22679,7 +24425,8 @@
   "motif": "swatch",
   "image": "pipeline/media/decagon-deco.png",
   "date": "2026-07-11",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "pub-data-edge",
@@ -22692,7 +24439,8 @@
   "motif": "swatch",
   "image": "pipeline/media/pub-data-edge.png",
   "date": "2026-07-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "fiction-feast-ai",
@@ -22705,7 +24453,8 @@
   "motif": "swatch",
   "image": "pipeline/media/fiction-feast-ai.jpg",
   "date": "2026-07-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "cartland-clone",
@@ -22718,7 +24467,8 @@
   "motif": "swatch",
   "image": "pipeline/media/cartland-clone.jpg",
   "date": "2026-07-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ao3-ai-markup",
@@ -22731,7 +24481,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ao3-ai-markup.png",
   "date": "2026-07-11",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "wisetracker",
@@ -22744,7 +24495,8 @@
   "motif": "sphere",
   "image": "pipeline/media/wisetracker.jpg",
   "date": "2026-07-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "landr-fairtrade",
@@ -22757,7 +24509,8 @@
   "motif": "sphere",
   "image": "pipeline/media/landr-fairtrade.jpg",
   "date": "2026-07-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "klangio-studio",
@@ -22770,7 +24523,8 @@
   "motif": "sphere",
   "image": "pipeline/media/klangio-studio.png",
   "date": "2026-07-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "fl2026-gopher",
@@ -22783,7 +24537,8 @@
   "motif": "sphere",
   "image": "pipeline/media/fl2026-gopher.jpg",
   "date": "2026-07-10",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "topaz-adobe",
@@ -22796,7 +24551,8 @@
   "motif": "frame",
   "image": "pipeline/media/topaz-adobe.jpg",
   "date": "2026-07-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "premiere-color",
@@ -22809,7 +24565,8 @@
   "motif": "frame",
   "image": "pipeline/media/premiere-color.jpg",
   "date": "2026-07-10",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "steam-ai-survey",
@@ -22822,7 +24579,8 @@
   "motif": "cube",
   "image": "pipeline/media/steam-ai-survey.jpg",
   "date": "2026-07-10",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "devs-reject-ai",
@@ -22835,7 +24593,8 @@
   "motif": "cube",
   "image": "pipeline/media/devs-reject-ai.jpg",
   "date": "2026-07-10",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "watchos27-siri",
@@ -22848,7 +24607,8 @@
   "motif": "headset",
   "image": "pipeline/media/watchos27-siri.jpg",
   "date": "2026-07-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "samsung-gaia",
@@ -22861,7 +24621,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-gaia.jpg",
   "date": "2026-07-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-super-sensing",
@@ -22874,7 +24635,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-super-sensing.jpg",
   "date": "2026-07-10",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "seedream5-krea",
@@ -22887,7 +24649,8 @@
   "motif": "sphere",
   "image": "pipeline/media/seedream5-krea.jpg",
   "date": "2026-07-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "not-ai-slop",
@@ -22900,7 +24663,8 @@
   "motif": "frame",
   "image": "pipeline/media/not-ai-slop-poster.jpg",
   "date": "2026-07-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "muse-image",
@@ -22913,7 +24677,8 @@
   "motif": "sphere",
   "image": "pipeline/media/muse-image.jpg",
   "date": "2026-07-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "lovable-0708",
@@ -22925,7 +24690,8 @@
   "accent": "#0070f3",
   "motif": "frame",
   "date": "2026-07-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-quality-signals",
@@ -22938,7 +24704,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-quality-signals.png",
   "date": "2026-07-10",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "kobo-h2-roadmap",
@@ -22951,7 +24718,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kobo-h2-roadmap.jpg",
   "date": "2026-07-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "choco-daldal",
@@ -22964,7 +24732,8 @@
   "motif": "swatch",
   "image": "pipeline/media/choco-daldal.png",
   "date": "2026-07-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "byus-storychat",
@@ -22977,7 +24746,8 @@
   "motif": "swatch",
   "image": "pipeline/media/byus-storychat.jpg",
   "date": "2026-07-10",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "yamaha-creatorpass",
@@ -22990,7 +24760,8 @@
   "motif": "sphere",
   "image": "pipeline/media/yamaha-creatorpass.png",
   "date": "2026-07-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "peel-stems2",
@@ -23003,7 +24774,8 @@
   "motif": "sphere",
   "image": "pipeline/media/peel-stems2.jpg",
   "date": "2026-07-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "musixmatch-hack",
@@ -23015,7 +24787,8 @@
   "accent": "#7928ca",
   "motif": "sphere",
   "date": "2026-07-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "bootleg-vs",
@@ -23028,7 +24801,8 @@
   "motif": "sphere",
   "image": "pipeline/media/bootleg-vs.jpg",
   "date": "2026-07-09",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "wolfe-palmier",
@@ -23041,7 +24815,8 @@
   "motif": "frame",
   "image": "pipeline/media/wolfe-palmier.jpg",
   "date": "2026-07-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "soulm8te",
@@ -23054,7 +24829,8 @@
   "motif": "frame",
   "image": "pipeline/media/soulm8te.jpg",
   "date": "2026-07-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "siggraph2026",
@@ -23067,7 +24843,8 @@
   "motif": "frame",
   "image": "pipeline/media/siggraph2026.jpg",
   "date": "2026-07-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "keitel-ai",
@@ -23079,7 +24856,8 @@
   "accent": "#eb367f",
   "motif": "frame",
   "date": "2026-07-09",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "unity-ai-debug",
@@ -23092,7 +24870,8 @@
   "motif": "cube",
   "image": "pipeline/media/unity-ai-debug.jpg",
   "date": "2026-07-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "slopfix",
@@ -23105,7 +24884,8 @@
   "motif": "cube",
   "image": "pipeline/media/slopfix.jpg",
   "date": "2026-07-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "doom-revelations",
@@ -23118,7 +24898,8 @@
   "motif": "cube",
   "image": "pipeline/media/doom-revelations.jpg",
   "date": "2026-07-09",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "visionos27-beta3",
@@ -23131,7 +24912,8 @@
   "motif": "headset",
   "image": "pipeline/media/visionos27-beta3.jpg",
   "date": "2026-07-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ryzen-ai-halo",
@@ -23144,7 +24926,8 @@
   "motif": "headset",
   "image": "pipeline/media/ryzen-ai-halo.jpg",
   "date": "2026-07-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "nothing-phone4b",
@@ -23157,7 +24940,8 @@
   "motif": "headset",
   "image": "pipeline/media/nothing-phone4b.jpg",
   "date": "2026-07-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "home-camera-paywall",
@@ -23170,7 +24954,8 @@
   "motif": "headset",
   "image": "pipeline/media/home-camera-paywall.jpg",
   "date": "2026-07-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "agibot-humanoids",
@@ -23183,7 +24968,8 @@
   "motif": "headset",
   "image": "pipeline/media/agibot-humanoids.jpg",
   "date": "2026-07-09",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "octane-2026-4",
@@ -23196,7 +24982,8 @@
   "motif": "sphere",
   "image": "pipeline/media/octane-2026-4.jpg",
   "date": "2026-07-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ntop-coreweave",
@@ -23209,7 +24996,8 @@
   "motif": "cube",
   "image": "pipeline/media/ntop-coreweave.jpg",
   "date": "2026-07-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "kpmg-builder",
@@ -23222,7 +25010,8 @@
   "motif": "frame",
   "image": "pipeline/media/kpmg-builder.jpg",
   "date": "2026-07-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "gpt56-rollout",
@@ -23235,7 +25024,8 @@
   "motif": "frame",
   "image": "pipeline/media/gpt56-rollout.jpg",
   "date": "2026-07-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-pm-os",
@@ -23248,7 +25038,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-pm-os.jpg",
   "date": "2026-07-09",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "kindle-recaps",
@@ -23261,7 +25052,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kindle-recaps.jpg",
   "date": "2026-07-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ipa-innovation",
@@ -23274,7 +25066,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ipa-innovation.jpeg",
   "date": "2026-07-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "cn-webnovel-ai",
@@ -23287,7 +25080,8 @@
   "motif": "swatch",
   "image": "pipeline/media/cn-webnovel-ai.png",
   "date": "2026-07-09",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "viberate-mcp",
@@ -23300,7 +25094,8 @@
   "motif": "sphere",
   "image": "pipeline/media/viberate-mcp.jpg",
   "date": "2026-07-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "skrillex-032c",
@@ -23313,7 +25108,8 @@
   "motif": "sphere",
   "image": "pipeline/media/skrillex-032c.jpg",
   "date": "2026-07-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "lumen-synth",
@@ -23326,7 +25122,8 @@
   "motif": "sphere",
   "image": "pipeline/media/lumen-synth.jpg",
   "date": "2026-07-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "ableton-learn",
@@ -23339,7 +25136,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ableton-learn.png",
   "date": "2026-07-08",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "switchhdr",
@@ -23352,7 +25150,8 @@
   "motif": "frame",
   "image": "pipeline/media/switchhdr.jpg",
   "date": "2026-07-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "mj-discovery",
@@ -23365,7 +25164,8 @@
   "motif": "frame",
   "image": "pipeline/media/mj-discovery.png",
   "date": "2026-07-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "hasbro-voices",
@@ -23378,7 +25178,8 @@
   "motif": "frame",
   "image": "pipeline/media/hasbro-voices.png",
   "date": "2026-07-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "corridor-soad",
@@ -23391,7 +25192,8 @@
   "motif": "frame",
   "image": "pipeline/media/corridor-soad.jpg",
   "date": "2026-07-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "a24-deepmind",
@@ -23404,7 +25206,8 @@
   "motif": "frame",
   "image": "pipeline/media/a24-deepmind.jpg",
   "date": "2026-07-08",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "unity-scene-ai",
@@ -23417,7 +25220,8 @@
   "motif": "cube",
   "image": "pipeline/media/unity-scene-ai.jpg",
   "date": "2026-07-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "ue-image-gen",
@@ -23430,7 +25234,8 @@
   "motif": "cube",
   "image": "pipeline/media/ue-image-gen.jpg",
   "date": "2026-07-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "dreamcast-slop",
@@ -23443,7 +25248,8 @@
   "motif": "cube",
   "image": "pipeline/media/dreamcast-slop.jpg",
   "date": "2026-07-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "amano-zan",
@@ -23456,7 +25262,8 @@
   "motif": "cube",
   "image": "pipeline/media/amano-zan.jpg",
   "date": "2026-07-08",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "surface-pro-oled",
@@ -23469,7 +25276,8 @@
   "motif": "headset",
   "image": "pipeline/media/surface-pro-oled.jpg",
   "date": "2026-07-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "roomba-five",
@@ -23482,7 +25290,8 @@
   "motif": "headset",
   "image": "pipeline/media/roomba-five.jpg",
   "date": "2026-07-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "nothing-ear3a",
@@ -23495,7 +25304,8 @@
   "motif": "headset",
   "image": "pipeline/media/nothing-ear3a.jpg",
   "date": "2026-07-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ios27-beta",
@@ -23508,7 +25318,8 @@
   "motif": "headset",
   "image": "pipeline/media/ios27-beta.jpg",
   "date": "2026-07-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "galaxy-glasses-leak",
@@ -23521,7 +25332,8 @@
   "motif": "headset",
   "image": "pipeline/media/galaxy-glasses-leak.jpg",
   "date": "2026-07-08",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "trimble-mep-ai",
@@ -23533,7 +25345,8 @@
   "accent": "#7928ca",
   "motif": "cube",
   "date": "2026-07-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "meta-one-paywall",
@@ -23546,7 +25359,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-one-paywall.jpg",
   "date": "2026-07-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "meta-content-seal",
@@ -23559,7 +25373,8 @@
   "motif": "sphere",
   "image": "pipeline/media/meta-content-seal.jpg",
   "date": "2026-07-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "config-ai-evals",
@@ -23572,7 +25387,8 @@
   "motif": "frame",
   "image": "pipeline/media/config-ai-evals.jpg",
   "date": "2026-07-08",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "proust-chatgpt",
@@ -23585,7 +25401,8 @@
   "motif": "swatch",
   "image": "pipeline/media/proust-chatgpt.png",
   "date": "2026-07-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "pls-litigation",
@@ -23598,7 +25415,8 @@
   "motif": "swatch",
   "image": "pipeline/media/pls-litigation.jpg",
   "date": "2026-07-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ipa-congress",
@@ -23611,7 +25429,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ipa-congress.jpg",
   "date": "2026-07-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "infinite-story",
@@ -23624,7 +25443,8 @@
   "motif": "swatch",
   "image": "pipeline/media/infinite-story.png",
   "date": "2026-07-08",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "suno-api",
@@ -23637,7 +25457,8 @@
   "motif": "sphere",
   "image": "pipeline/media/suno-api.jpg",
   "date": "2026-07-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "suno-61k",
@@ -23650,7 +25471,8 @@
   "motif": "sphere",
   "image": "pipeline/media/suno-61k.jpg",
   "date": "2026-07-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "smol-seq",
@@ -23663,7 +25485,8 @@
   "motif": "sphere",
   "image": "pipeline/media/smol-seq.jpg",
   "date": "2026-07-07",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "tilly-misaligned",
@@ -23676,7 +25499,8 @@
   "motif": "frame",
   "image": "pipeline/media/tilly-misaligned.jpg",
   "date": "2026-07-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "siggraph-caf",
@@ -23689,7 +25513,8 @@
   "motif": "frame",
   "image": "pipeline/media/siggraph-caf.jpg",
   "date": "2026-07-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "runway-agent2",
@@ -23702,7 +25527,8 @@
   "motif": "frame",
   "image": "pipeline/media/runway-agent2.jpg",
   "date": "2026-07-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "friend-pornstar",
@@ -23715,7 +25541,8 @@
   "motif": "frame",
   "image": "pipeline/media/friend-pornstar.jpg",
   "date": "2026-07-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "cr-anime",
@@ -23728,7 +25555,8 @@
   "motif": "frame",
   "image": "pipeline/media/cr-anime.jpg",
   "date": "2026-07-07",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "unity-ai-audit",
@@ -23741,7 +25569,8 @@
   "motif": "cube",
   "image": "pipeline/media/unity-ai-audit.jpg",
   "date": "2026-07-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "metahuman-sizzle",
@@ -23754,7 +25583,8 @@
   "motif": "cube",
   "image": "pipeline/media/metahuman-sizzle.jpg",
   "date": "2026-07-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "jgs2-realtime",
@@ -23767,7 +25597,8 @@
   "motif": "cube",
   "image": "pipeline/media/jgs2-realtime.jpg",
   "date": "2026-07-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "cnc-ios-vibeport",
@@ -23780,7 +25611,8 @@
   "motif": "cube",
   "image": "pipeline/media/cnc-ios-vibeport.jpg",
   "date": "2026-07-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "caveman-tokens",
@@ -23793,7 +25625,8 @@
   "motif": "cube",
   "image": "pipeline/media/caveman-tokens.jpg",
   "date": "2026-07-07",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "watch9-leak",
@@ -23806,7 +25639,8 @@
   "motif": "headset",
   "image": "pipeline/media/watch9-leak.jpg",
   "date": "2026-07-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "spacex-handheld",
@@ -23819,7 +25653,8 @@
   "motif": "headset",
   "image": "pipeline/media/spacex-handheld.jpg",
   "date": "2026-07-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "samsung-ufs5",
@@ -23832,7 +25667,8 @@
   "motif": "headset",
   "image": "pipeline/media/samsung-ufs5.png",
   "date": "2026-07-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "dune-keypad",
@@ -23845,7 +25681,8 @@
   "motif": "headset",
   "image": "pipeline/media/dune-keypad.jpg",
   "date": "2026-07-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "color-touch-sensor",
@@ -23858,7 +25695,8 @@
   "motif": "headset",
   "image": "pipeline/media/color-touch-sensor.jpg",
   "date": "2026-07-07",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "mcp-for-designers",
@@ -23871,7 +25709,8 @@
   "motif": "frame",
   "image": "pipeline/media/mcp-for-designers.png",
   "date": "2026-07-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "kyrall-cad",
@@ -23884,7 +25723,8 @@
   "motif": "cube",
   "image": "pipeline/media/kyrall-cad.jpg",
   "date": "2026-07-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "hi3d-print",
@@ -23897,7 +25737,8 @@
   "motif": "sphere",
   "image": "pipeline/media/hi3d-print.jpg",
   "date": "2026-07-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ds-governance",
@@ -23910,7 +25751,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ds-governance.jpg",
   "date": "2026-07-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-ui-benchmark",
@@ -23923,7 +25765,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-ui-benchmark.png",
   "date": "2026-07-07",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "zoom-books",
@@ -23936,7 +25779,8 @@
   "motif": "swatch",
   "image": "pipeline/media/zoom-books.png",
   "date": "2026-07-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "sudowrite-sonnet5",
@@ -23949,7 +25793,8 @@
   "motif": "swatch",
   "image": "pipeline/media/sudowrite-sonnet5.png",
   "date": "2026-07-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "libby-ai-filter",
@@ -23962,7 +25807,8 @@
   "motif": "swatch",
   "image": "pipeline/media/libby-ai-filter.png",
   "date": "2026-07-07",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "spectralayers13",
@@ -23975,7 +25821,8 @@
   "motif": "sphere",
   "image": "pipeline/media/spectralayers13.jpg",
   "date": "2026-07-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "izotope-borisfx",
@@ -23988,7 +25835,8 @@
   "motif": "frame",
   "image": "pipeline/media/izotope-borisfx.jpg",
   "date": "2026-07-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "afro-charles",
@@ -24001,7 +25849,8 @@
   "motif": "sphere",
   "image": "pipeline/media/afro-charles.jpg",
   "date": "2026-07-06",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "young-washington",
@@ -24014,7 +25863,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "writers-rlhf",
@@ -24027,7 +25877,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "nextlab-quill",
@@ -24040,7 +25891,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-06",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "wildchat-fiction",
@@ -24053,7 +25905,8 @@
   "motif": "cube",
   "image": "pipeline/media/wildchat-fiction.jpg",
   "date": "2026-07-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "hasbro-child-voices",
@@ -24066,7 +25919,8 @@
   "motif": "cube",
   "image": "pipeline/media/hasbro-child-voices.png",
   "date": "2026-07-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "broche-prompt-games",
@@ -24079,7 +25933,8 @@
   "motif": "cube",
   "image": "pipeline/media/broche-prompt-games.poster.jpg",
   "date": "2026-07-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "amazon-ai-guides",
@@ -24092,7 +25947,8 @@
   "motif": "cube",
   "image": "pipeline/media/amazon-ai-guides.jpg",
   "date": "2026-07-06",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "rayban-optics",
@@ -24105,7 +25961,8 @@
   "motif": "headset",
   "image": "pipeline/media/rayban-optics.jpg",
   "date": "2026-07-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "phones-less-ai",
@@ -24118,7 +25975,8 @@
   "motif": "headset",
   "image": "pipeline/media/phones-less-ai.jpg",
   "date": "2026-07-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "minix-er939",
@@ -24131,7 +25989,8 @@
   "motif": "headset",
   "image": "pipeline/media/minix-er939.png",
   "date": "2026-07-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "memomind-kickstarter",
@@ -24144,7 +26003,8 @@
   "motif": "headset",
   "image": "pipeline/media/memomind-kickstarter.jpg",
   "date": "2026-07-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "android-halo",
@@ -24157,7 +26017,8 @@
   "motif": "headset",
   "image": "pipeline/media/android-halo-poster.jpg",
   "date": "2026-07-06",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ram-crisis",
@@ -24170,7 +26031,8 @@
   "motif": "cube",
   "image": "pipeline/media/ram-crisis.jpg",
   "date": "2026-07-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "quiet-ai",
@@ -24183,7 +26045,8 @@
   "motif": "frame",
   "image": "pipeline/media/quiet-ai.jpg",
   "date": "2026-07-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-to-code-shift",
@@ -24196,7 +26059,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-to-code-shift.png",
   "date": "2026-07-06",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "platform-comes-apart",
@@ -24209,7 +26073,8 @@
   "motif": "swatch",
   "image": "pipeline/media/platform-comes-apart.jpg",
   "date": "2026-07-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "kindle-story-so-far",
@@ -24222,7 +26087,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kindle-story-so-far.jpg",
   "date": "2026-07-06",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "sza-ai-data",
@@ -24235,7 +26101,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-07-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "logic-pro-123",
@@ -24248,7 +26115,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-07-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "izotope-rx12",
@@ -24261,7 +26129,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "credits-fm",
@@ -24274,7 +26143,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-07-04",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "sheep-in-the-box",
@@ -24287,7 +26157,8 @@
   "motif": "frame",
   "image": "pipeline/media/sheep-in-the-box.jpg",
   "date": "2026-07-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "kviff-ai-days",
@@ -24300,7 +26171,8 @@
   "motif": "frame",
   "image": "pipeline/media/kviff-ai-days.jpg",
   "date": "2026-07-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "foster-f1-ai",
@@ -24313,7 +26185,8 @@
   "motif": "frame",
   "image": "pipeline/media/foster-f1-ai.jpg",
   "date": "2026-07-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "feig-hi",
@@ -24326,7 +26199,8 @@
   "motif": "frame",
   "image": "pipeline/media/feig-hi.jpg",
   "date": "2026-07-04",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "szymanski-genai",
@@ -24339,7 +26213,8 @@
   "motif": "cube",
   "image": "pipeline/media/szymanski-genai.jpg",
   "date": "2026-07-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "steam-ai-stigma",
@@ -24352,7 +26227,8 @@
   "motif": "cube",
   "image": "pipeline/media/steam-ai-stigma.jpg",
   "date": "2026-07-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "aoe2-ai-study",
@@ -24365,7 +26241,8 @@
   "motif": "cube",
   "image": "pipeline/media/aoe2-ai-study.jpg",
   "date": "2026-07-04",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "snap-specs",
@@ -24378,7 +26255,8 @@
   "motif": "headset",
   "image": "pipeline/media/snap-specs.jpg",
   "date": "2026-07-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "nokia-ai-buttons",
@@ -24391,7 +26269,8 @@
   "motif": "headset",
   "image": "pipeline/media/nokia-ai-buttons.jpg",
   "date": "2026-07-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-paywall",
@@ -24404,7 +26283,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-paywall.jpg",
   "date": "2026-07-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "hp-omnibook-x2",
@@ -24417,7 +26297,8 @@
   "motif": "headset",
   "image": "pipeline/media/hp-omnibook-x2.jpg",
   "date": "2026-07-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gemini-android-auto",
@@ -24430,7 +26311,8 @@
   "motif": "headset",
   "image": "pipeline/media/gemini-android-auto.jpg",
   "date": "2026-07-04",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "prometheus-cad",
@@ -24443,7 +26325,8 @@
   "motif": "cube",
   "image": "pipeline/media/prometheus-cad.jpg",
   "date": "2026-07-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "mixos-pbr",
@@ -24456,7 +26339,8 @@
   "motif": "sphere",
   "image": "pipeline/media/mixos-pbr.jpg",
   "date": "2026-07-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-lc-7q",
@@ -24469,7 +26353,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-lc-7q.png",
   "date": "2026-07-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "adonis-ml",
@@ -24482,7 +26367,8 @@
   "motif": "cube",
   "image": "pipeline/media/adonis-ml.jpg",
   "date": "2026-07-04",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "kindle-translate",
@@ -24495,7 +26381,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kindle-translate.jpg",
   "date": "2026-07-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "emaqi-premium",
@@ -24508,7 +26395,8 @@
   "motif": "swatch",
   "image": "pipeline/media/emaqi-premium.png",
   "date": "2026-07-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "bookpact-ai",
@@ -24521,7 +26409,8 @@
   "motif": "swatch",
   "image": "pipeline/media/bookpact-ai.png",
   "date": "2026-07-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ai-peer-review",
@@ -24534,7 +26423,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ai-peer-review.jpg",
   "date": "2026-07-04",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "napster-ai",
@@ -24547,7 +26437,8 @@
   "motif": "sphere",
   "image": "pipeline/media/napster-ai.jpg",
   "date": "2026-07-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "electronic-quiet-ai",
@@ -24560,7 +26451,8 @@
   "motif": "frame",
   "image": "pipeline/media/electronic-quiet-ai.jpg",
   "date": "2026-07-03",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "declarations-pbs",
@@ -24573,7 +26465,8 @@
   "motif": "frame",
   "image": "pipeline/media/declarations-pbs.jpg",
   "date": "2026-07-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "artificial-neon",
@@ -24586,7 +26479,8 @@
   "motif": "frame",
   "image": "pipeline/media/artificial-neon.jpg",
   "date": "2026-07-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ai-cosmetic-surgery",
@@ -24599,7 +26493,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-cosmetic-surgery.jpg",
   "date": "2026-07-03",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "valve-ai-labels",
@@ -24612,7 +26507,8 @@
   "motif": "cube",
   "image": "pipeline/media/valve-ai-labels.jpg",
   "date": "2026-07-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "godot-ai-ban",
@@ -24625,7 +26521,8 @@
   "motif": "cube",
   "image": "pipeline/media/godot-ai-ban.jpg",
   "date": "2026-07-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "ea-creativity",
@@ -24638,7 +26535,8 @@
   "motif": "cube",
   "image": "pipeline/media/ea-creativity.jpg",
   "date": "2026-07-03",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "unpacked-2026-preview",
@@ -24651,7 +26549,8 @@
   "motif": "headset",
   "image": "pipeline/media/unpacked-2026-preview.jpg",
   "date": "2026-07-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "ubtech-uworld",
@@ -24664,7 +26563,8 @@
   "motif": "headset",
   "image": "pipeline/media/ubtech-uworld.jpg",
   "date": "2026-07-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "meta-fury-glasses",
@@ -24677,7 +26577,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-fury-glasses.jpg",
   "date": "2026-07-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "google-home-speaker",
@@ -24690,7 +26591,8 @@
   "motif": "headset",
   "image": "pipeline/media/google-home-speaker.jpg",
   "date": "2026-07-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "gmktec-ai-tower",
@@ -24703,7 +26605,8 @@
   "motif": "headset",
   "image": "pipeline/media/gmktec-ai-tower.png",
   "date": "2026-07-03",
-  "section": "gadgets"
+  "section": "gadgets",
+  "has_full": true
  },
  {
   "id": "zai-zcode",
@@ -24716,7 +26619,8 @@
   "motif": "cube",
   "image": "pipeline/media/zai-zcode.jpg",
   "date": "2026-07-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-agent-skills",
@@ -24729,7 +26633,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-agent-skills.png",
   "date": "2026-07-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "fable5-global",
@@ -24742,7 +26647,8 @@
   "motif": "sphere",
   "image": "pipeline/media/fable5-global.png",
   "date": "2026-07-03",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "plutonium-or-salt",
@@ -24755,7 +26661,8 @@
   "motif": "swatch",
   "image": "pipeline/media/plutonium-or-salt.png",
   "date": "2026-07-03",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "sugarbytes-claude",
@@ -24768,7 +26675,8 @@
   "motif": "sphere",
   "image": "pipeline/media/sugarbytes-claude.jpg",
   "date": "2026-07-02",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "dear-upstairs-neighbors",
@@ -24781,7 +26689,8 @@
   "motif": "frame",
   "image": "pipeline/media/dear-upstairs-neighbors.jpg",
   "date": "2026-07-02",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "sony-ai-annual-report",
@@ -24794,7 +26703,8 @@
   "motif": "cube",
   "image": "pipeline/media/sony-ai-annual-report.jpg",
   "date": "2026-07-02",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "nano-banana2-lite",
@@ -24807,7 +26717,8 @@
   "motif": "sphere",
   "image": "pipeline/media/nano-banana2-lite.png",
   "date": "2026-07-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "gemini-omni-flash",
@@ -24820,7 +26731,8 @@
   "motif": "frame",
   "image": "pipeline/media/gemini-omni-flash.jpg",
   "date": "2026-07-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "autodesk-ai-judgment",
@@ -24833,7 +26745,8 @@
   "motif": "cube",
   "image": "pipeline/media/autodesk-ai-judgment.jpg",
   "date": "2026-07-02",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "traxsource-labels",
@@ -24846,7 +26759,8 @@
   "motif": "sphere",
   "image": "pipeline/media/traxsource-labels.jpg",
   "date": "2026-07-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "corus-app",
@@ -24859,7 +26773,8 @@
   "motif": "frame",
   "image": "pipeline/media/corus-app.jpg",
   "date": "2026-07-01",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "aiarty-enhancer",
@@ -24872,7 +26787,8 @@
   "motif": "frame",
   "image": "pipeline/media/aiarty-enhancer.jpg",
   "date": "2026-07-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "adobe-topaz",
@@ -24885,7 +26801,8 @@
   "motif": "frame",
   "image": "pipeline/media/adobe-topaz.jpg",
   "date": "2026-07-01",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "sonic-arg-data",
@@ -24898,7 +26815,8 @@
   "motif": "cube",
   "image": "pipeline/media/sonic-arg-data.jpg",
   "date": "2026-07-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "mihoyo-olivia",
@@ -24911,7 +26829,8 @@
   "motif": "cube",
   "image": "pipeline/media/mihoyo-olivia.jpg",
   "date": "2026-07-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "gaider-plague",
@@ -24924,7 +26843,8 @@
   "motif": "cube",
   "image": "pipeline/media/gaider-plague.jpg",
   "date": "2026-07-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "dk64-vibecoding",
@@ -24937,7 +26857,8 @@
   "motif": "cube",
   "image": "pipeline/media/dk64-vibecoding.jpg",
   "date": "2026-07-01",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "meta-bci",
@@ -24950,7 +26871,8 @@
   "motif": "frame",
   "image": "pipeline/media/meta-bci.jpeg",
   "date": "2026-07-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "dash-112",
@@ -24963,7 +26885,8 @@
   "motif": "cube",
   "image": "pipeline/media/dash-112.jpg",
   "date": "2026-07-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "builder-handoff",
@@ -24976,7 +26899,8 @@
   "motif": "sphere",
   "image": "pipeline/media/builder-handoff.jpg",
   "date": "2026-07-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-slop",
@@ -24989,7 +26913,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-slop.jpg",
   "date": "2026-07-01",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "neurodiverse-ai",
@@ -25002,7 +26927,8 @@
   "motif": "swatch",
   "image": "pipeline/media/neurodiverse-ai.jpg",
   "date": "2026-07-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "kobo-storygraph",
@@ -25015,7 +26941,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kobo-storygraph.jpg",
   "date": "2026-07-01",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "waveform14",
@@ -25028,7 +26955,8 @@
   "motif": "frame",
   "image": "pipeline/media/waveform14.jpg",
   "date": "2026-06-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "tidal-ai",
@@ -25041,7 +26969,8 @@
   "motif": "sphere",
   "image": "pipeline/media/tidal-ai.jpg",
   "date": "2026-06-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "latent-terrain",
@@ -25054,7 +26983,8 @@
   "motif": "sphere",
   "image": "pipeline/media/latent-terrain.jpg",
   "date": "2026-06-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "deezer-remix",
@@ -25067,7 +26997,8 @@
   "motif": "sphere",
   "image": "pipeline/media/deezer-remix.jpg",
   "date": "2026-06-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "berklee-summit",
@@ -25080,7 +27011,8 @@
   "motif": "frame",
   "image": "pipeline/media/berklee-summit.png",
   "date": "2026-06-30",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "storeel-canvas",
@@ -25093,7 +27025,8 @@
   "motif": "frame",
   "image": "pipeline/media/storeel-canvas.jpg",
   "date": "2026-06-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "seedance25",
@@ -25106,7 +27039,8 @@
   "motif": "frame",
   "image": "pipeline/media/seedance25.png",
   "date": "2026-06-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "no-fakes-act",
@@ -25119,7 +27053,8 @@
   "motif": "frame",
   "image": "pipeline/media/no-fakes-act.jpg",
   "date": "2026-06-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "annecy2026",
@@ -25132,7 +27067,8 @@
   "motif": "frame",
   "image": "pipeline/media/annecy2026.jpg",
   "date": "2026-06-30",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ue6-merge",
@@ -25145,7 +27081,8 @@
   "motif": "cube",
   "image": "pipeline/media/ue6-merge.jpg",
   "date": "2026-06-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "steam-aidisclaim",
@@ -25158,7 +27095,8 @@
   "motif": "cube",
   "image": "pipeline/media/steam-aidisclaim.jpg",
   "date": "2026-06-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "palworld-noai",
@@ -25171,7 +27109,8 @@
   "motif": "cube",
   "image": "pipeline/media/palworld-noai.jpg",
   "date": "2026-06-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "nvidia-artfixer",
@@ -25184,7 +27123,8 @@
   "motif": "cube",
   "image": "pipeline/media/nvidia-artfixer.jpg",
   "date": "2026-06-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "meti-aitranslate",
@@ -25197,7 +27137,8 @@
   "motif": "cube",
   "image": "pipeline/media/meti-aitranslate.jpg",
   "date": "2026-06-30",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "substance-sampler6",
@@ -25210,7 +27151,8 @@
   "motif": "cube",
   "image": "pipeline/media/substance-sampler6.jpg",
   "date": "2026-06-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "fsr-sdk-23",
@@ -25223,7 +27165,8 @@
   "motif": "sphere",
   "image": "pipeline/media/fsr-sdk-23.jpg",
   "date": "2026-06-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "figma-shaders",
@@ -25236,7 +27179,8 @@
   "motif": "frame",
   "image": "pipeline/media/figma-shaders.jpg",
   "date": "2026-06-30",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "writer-voice",
@@ -25249,7 +27193,8 @@
   "motif": "swatch",
   "image": "pipeline/media/writer-voice.png",
   "date": "2026-06-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ssp2026",
@@ -25262,7 +27207,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ssp2026.jpg",
   "date": "2026-06-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "pubperspectives",
@@ -25275,7 +27221,8 @@
   "motif": "swatch",
   "image": "pipeline/media/pubperspectives.png",
   "date": "2026-06-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "playbooks-insights",
@@ -25288,7 +27235,8 @@
   "motif": "swatch",
   "image": "pipeline/media/playbooks-insights.jpg",
   "date": "2026-06-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ferriss-aisales",
@@ -25301,7 +27249,8 @@
   "motif": "swatch",
   "image": "pipeline/media/ferriss-aisales.png",
   "date": "2026-06-30",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "ymck",
@@ -25314,7 +27263,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ymck.jpg",
   "date": "2026-06-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "consent-letter",
@@ -25327,7 +27277,8 @@
   "motif": "frame",
   "image": "pipeline/media/consent-letter.png",
   "date": "2026-06-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "atlantic-data",
@@ -25340,7 +27291,8 @@
   "motif": "sphere",
   "image": "pipeline/media/atlantic-data.jpg",
   "date": "2026-06-29",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "runway-fest",
@@ -25353,7 +27305,8 @@
   "motif": "frame",
   "image": "pipeline/media/runway-fest.jpg",
   "date": "2026-06-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "banijay-toonboom",
@@ -25366,7 +27319,8 @@
   "motif": "frame",
   "image": "pipeline/media/banijay-toonboom.jpeg",
   "date": "2026-06-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "asteria-ltx",
@@ -25379,7 +27333,8 @@
   "motif": "frame",
   "image": "pipeline/media/asteria-ltx.png",
   "date": "2026-06-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "adobe-cc",
@@ -25392,7 +27347,8 @@
   "motif": "frame",
   "image": "pipeline/media/adobe-cc.jpg",
   "date": "2026-06-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "a24-google",
@@ -25405,7 +27361,8 @@
   "motif": "frame",
   "image": "pipeline/media/a24-google.jpg",
   "date": "2026-06-29",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "ue6-mcp",
@@ -25418,7 +27375,8 @@
   "motif": "cube",
   "image": "pipeline/media/ue6-mcp.jpg",
   "date": "2026-06-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "ue-evangelist",
@@ -25431,7 +27389,8 @@
   "motif": "cube",
   "image": "pipeline/media/ue-evangelist.jpg",
   "date": "2026-06-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "sweeney-valve",
@@ -25444,7 +27403,8 @@
   "motif": "cube",
   "image": "pipeline/media/sweeney-valve.jpg",
   "date": "2026-06-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "monster-npc",
@@ -25457,7 +27417,8 @@
   "motif": "cube",
   "image": "pipeline/media/monster-npc.jpg",
   "date": "2026-06-29",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "pokemon",
@@ -25470,7 +27431,8 @@
   "motif": "frame",
   "image": "pipeline/media/pokemon.jpg",
   "date": "2026-06-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "krita",
@@ -25483,7 +27445,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-06-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "borisfx",
@@ -25496,7 +27459,8 @@
   "motif": "cube",
   "image": "pipeline/media/borisfx.jpg",
   "date": "2026-06-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "blender",
@@ -25509,7 +27473,8 @@
   "motif": "swatch",
   "image": "pipeline/media/blender.jpg",
   "date": "2026-06-29",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "storytel-genie",
@@ -25522,7 +27487,8 @@
   "motif": "swatch",
   "image": "pipeline/media/storytel-genie.png",
   "date": "2026-06-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "librarian-survey",
@@ -25535,7 +27501,8 @@
   "motif": "swatch",
   "image": "pipeline/media/librarian-survey.jpg",
   "date": "2026-06-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "kidlit-campaign",
@@ -25548,7 +27515,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kidlit-campaign.jpg",
   "date": "2026-06-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "granta",
@@ -25561,7 +27529,8 @@
   "motif": "swatch",
   "image": "pipeline/media/granta.jpg",
   "date": "2026-06-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "cambridge-std",
@@ -25574,7 +27543,8 @@
   "motif": "swatch",
   "image": "pipeline/media/cambridge-std.jpeg",
   "date": "2026-06-29",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "vibe-coding-plugins",
@@ -25587,7 +27557,8 @@
   "motif": "sphere",
   "image": "pipeline/media/vibe-coding-plugins.jpg",
   "date": "2026-06-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "genome-intro-free",
@@ -25600,7 +27571,8 @@
   "motif": "sphere",
   "image": "pipeline/media/genome-intro-free.jpg",
   "date": "2026-06-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "apple-music-understanding",
@@ -25613,7 +27585,8 @@
   "motif": "sphere",
   "image": "pipeline/media/apple-music-understanding.jpg",
   "date": "2026-06-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "ai-training-dataset-check",
@@ -25626,7 +27599,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-training-dataset-check.jpg",
   "date": "2026-06-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "ai-licensing-letter",
@@ -25639,7 +27613,8 @@
   "motif": "sphere",
   "image": "pipeline/media/ai-licensing-letter.jpg",
   "date": "2026-06-27",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "shanghai-2026-ai",
@@ -25652,7 +27627,8 @@
   "motif": "frame",
   "image": "pipeline/media/shanghai-2026-ai.jpg",
   "date": "2026-06-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "reallusion-iclone-personal",
@@ -25665,7 +27641,8 @@
   "motif": "frame",
   "image": "pipeline/media/reallusion-iclone-personal.jpg",
   "date": "2026-06-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "curious-refuge-ai-partnership",
@@ -25678,7 +27655,8 @@
   "motif": "frame",
   "image": "pipeline/media/curious-refuge-ai-partnership.jpg",
   "date": "2026-06-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "annecy-ai4animation",
@@ -25691,7 +27669,8 @@
   "motif": "frame",
   "image": "pipeline/media/annecy-ai4animation.jpg",
   "date": "2026-06-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "annecy-3cs-policy",
@@ -25704,7 +27683,8 @@
   "motif": "frame",
   "image": "pipeline/media/annecy-3cs-policy.png",
   "date": "2026-06-27",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "pubg-ally",
@@ -25717,7 +27697,8 @@
   "motif": "cube",
   "image": "pipeline/media/pubg-ally.jpg",
   "date": "2026-06-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "metahuman-ue58",
@@ -25730,7 +27711,8 @@
   "motif": "cube",
   "image": "pipeline/media/metahuman-ue58.jpg",
   "date": "2026-06-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "general-intuition",
@@ -25743,7 +27725,8 @@
   "motif": "cube",
   "image": "pipeline/media/general-intuition.jpg",
   "date": "2026-06-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "devs-genai-pushback",
@@ -25756,7 +27739,8 @@
   "motif": "cube",
   "image": "pipeline/media/devs-genai-pushback.jpg",
   "date": "2026-06-27",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "spatialgen-zeus",
@@ -25769,7 +27753,8 @@
   "motif": "headset",
   "image": "pipeline/media/spatialgen-zeus.jpg",
   "date": "2026-06-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "miris-configurator",
@@ -25781,7 +27766,8 @@
   "accent": "#f5a623",
   "motif": "sphere",
   "date": "2026-06-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "meta-starfire",
@@ -25794,7 +27780,8 @@
   "motif": "headset",
   "image": "pipeline/media/meta-starfire.jpg",
   "date": "2026-06-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "dataland-museum",
@@ -25807,7 +27794,8 @@
   "motif": "frame",
   "image": "pipeline/media/dataland-museum.jpg",
   "date": "2026-06-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "ai-creative-divide",
@@ -25820,7 +27808,8 @@
   "motif": "frame",
   "image": "pipeline/media/ai-creative-divide.jpg",
   "date": "2026-06-27",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "publishing-ai-growth",
@@ -25833,7 +27822,8 @@
   "motif": "swatch",
   "image": "pipeline/media/publishing-ai-growth.png",
   "date": "2026-06-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "kobo-ai-rejections",
@@ -25846,7 +27836,8 @@
   "motif": "swatch",
   "image": "pipeline/media/kobo-ai-rejections.jpg",
   "date": "2026-06-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "google-play-book-insights",
@@ -25859,7 +27850,8 @@
   "motif": "swatch",
   "image": "pipeline/media/google-play-book-insights.jpg",
   "date": "2026-06-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "commonwealth-ai-cleared",
@@ -25872,7 +27864,8 @@
   "motif": "swatch",
   "image": "pipeline/media/commonwealth-ai-cleared.jpg",
   "date": "2026-06-27",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "music-suno-spark",
@@ -25885,7 +27878,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-06-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-suno-songwriting",
@@ -25898,7 +27892,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-06-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "music-ai-watchdog",
@@ -25911,7 +27906,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-06-26",
-  "section": "music"
+  "section": "music",
+  "has_full": false
  },
  {
   "id": "music-ai-music-detection",
@@ -25924,7 +27920,8 @@
   "motif": "sphere",
   "image": null,
   "date": "2026-06-26",
-  "section": "music"
+  "section": "music",
+  "has_full": true
  },
  {
   "id": "movies-openart-director",
@@ -25936,7 +27933,8 @@
   "accent": "#0070f3",
   "motif": "frame",
   "date": "2026-06-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-google-a24",
@@ -25949,7 +27947,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-06-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-dreams-of-violets",
@@ -25962,7 +27961,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-06-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "movies-a24-backlash",
@@ -25975,7 +27975,8 @@
   "motif": "frame",
   "image": null,
   "date": "2026-06-26",
-  "section": "movies"
+  "section": "movies",
+  "has_full": true
  },
  {
   "id": "games-vampire-fortnite",
@@ -25988,7 +27989,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-vampire-fortnite.png",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-valve-disclosure",
@@ -26001,7 +28003,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-valve-disclosure.jpg",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-unreal-ai-slop",
@@ -26013,7 +28016,8 @@
   "accent": "#7928ca",
   "motif": "cube",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": false
  },
  {
   "id": "games-ue6-reactions",
@@ -26026,7 +28030,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ue6-reactions.png",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ue6-copyright",
@@ -26038,7 +28043,8 @@
   "accent": "#7928ca",
   "motif": "cube",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": false
  },
  {
   "id": "games-godot-ai",
@@ -26051,7 +28057,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-godot-ai.png",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ea-creativity",
@@ -26064,7 +28071,8 @@
   "motif": "cube",
   "image": "pipeline/media/games-ea-creativity.jpg",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": true
  },
  {
   "id": "games-ai-renaissance",
@@ -26076,7 +28084,8 @@
   "accent": "#7928ca",
   "motif": "cube",
   "date": "2026-06-26",
-  "section": "games"
+  "section": "games",
+  "has_full": false
  },
  {
   "id": "krea2",
@@ -26089,7 +28098,8 @@
   "motif": "sphere",
   "image": "pipeline/media/krea2.png",
   "date": "2026-06-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "claude-tag",
@@ -26102,7 +28112,8 @@
   "motif": "frame",
   "image": "pipeline/media/claude-tag.png",
   "date": "2026-06-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "adobe-topaz",
@@ -26115,7 +28126,8 @@
   "motif": "frame",
   "image": "pipeline/media/adobe-topaz.jpg",
   "date": "2026-06-26",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "books-wiley-ai-revenue",
@@ -26127,7 +28139,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-06-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-uk-ai-licensing",
@@ -26140,7 +28153,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-uk-ai-licensing.jpg",
   "date": "2026-06-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-caine-odyssey",
@@ -26152,7 +28166,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-06-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-beijing-fair",
@@ -26164,7 +28179,8 @@
   "accent": "#f5a623",
   "motif": "swatch",
   "date": "2026-06-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "books-ai-survey",
@@ -26177,7 +28193,8 @@
   "motif": "swatch",
   "image": "pipeline/media/books-ai-survey.png",
   "date": "2026-06-26",
-  "section": "books"
+  "section": "books",
+  "has_full": true
  },
  {
   "id": "houdini22",
@@ -26190,7 +28207,8 @@
   "motif": "sphere",
   "image": "pipeline/media/houdini22.jpg",
   "date": "2026-06-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "config-2026-recap",
@@ -26202,7 +28220,8 @@
   "accent": "#0070f3",
   "image": "pipeline/media/figma.png",
   "date": "2026-06-25",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "cloudpaint2",
@@ -26215,7 +28234,8 @@
   "motif": "sphere",
   "image": "pipeline/media/cloudpaint2.jpeg",
   "date": "2026-06-25",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "claude-obsidian",
@@ -26228,7 +28248,8 @@
   "motif": "frame",
   "image": "pipeline/media/claude-obsidian.jpg",
   "date": "2026-06-25",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "ax-shift",
@@ -26241,7 +28262,8 @@
   "motif": "frame",
   "image": "pipeline/media/ax-shift.jpg",
   "date": "2026-06-25",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "patch-the-planet",
@@ -26254,7 +28276,8 @@
   "motif": "frame",
   "image": "pipeline/media/patch-the-planet.jpg",
   "date": "2026-06-24",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "loopy-ai",
@@ -26267,7 +28290,8 @@
   "motif": "frame",
   "image": "pipeline/media/loopy-ai.jpg",
   "date": "2026-06-24",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "claude-design-vercel",
@@ -26280,7 +28304,8 @@
   "motif": "frame",
   "image": "pipeline/media/claude-design-vercel.png",
   "date": "2026-06-24",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "arnold-splat",
@@ -26293,7 +28318,8 @@
   "motif": "sphere",
   "image": "pipeline/media/arnold-splat.jpg",
   "date": "2026-06-24",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "alibaba-video",
@@ -26306,7 +28332,8 @@
   "motif": "sphere",
   "image": "pipeline/media/alibaba-video.webp",
   "date": "2026-06-24",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "unity65",
@@ -26319,7 +28346,8 @@
   "motif": "sphere",
   "image": "pipeline/media/unity65.jpg",
   "date": "2026-06-23",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "openai-getty",
@@ -26332,7 +28360,8 @@
   "motif": "frame",
   "image": "pipeline/media/openai-getty.jpg",
   "date": "2026-06-23",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "ios27-ai",
@@ -26345,7 +28374,8 @@
   "motif": "headset",
   "image": "pipeline/media/ios27-ai.jpg",
   "date": "2026-06-23",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "deepmind-a24",
@@ -26358,7 +28388,8 @@
   "motif": "sphere",
   "image": "pipeline/media/deepmind-a24.jpg",
   "date": "2026-06-23",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "claude-id",
@@ -26371,7 +28402,8 @@
   "motif": "swatch",
   "image": "pipeline/media/claude-id.jpg",
   "date": "2026-06-23",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "release-notes",
@@ -26382,7 +28414,8 @@
   "url": "https://www.figma.com/release-notes/",
   "accent": "#0070f3",
   "date": "2026-06-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "anthropics-design-assistant-now-work",
@@ -26394,7 +28427,8 @@
   "accent": "#3b6bff",
   "image": "pipeline/media/claude-design.jpg",
   "date": "2026-06-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "adobe-adds-its-ai-assistant-to-premi",
@@ -26406,7 +28440,8 @@
   "accent": "#ff5a4d",
   "image": "pipeline/media/firefly.jpeg",
   "date": "2026-06-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "4535a14d-ea20-4047-9b2d-166397850c7c",
@@ -26417,7 +28452,8 @@
   "url": "https://finance.biggo.com/news/4535a14d-ea20-4047-9b2d-166397850c7c",
   "accent": "#2ec5c5",
   "date": "2026-06-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "10-things-cg-artists-need-to-know-ab",
@@ -26429,7 +28465,8 @@
   "accent": "#f5a623",
   "image": "pipeline/media/ue6-mcp.jpg",
   "date": "2026-06-22",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "vr",
@@ -26441,7 +28478,8 @@
   "accent": "#eb367f",
   "motif": "headset",
   "date": "2026-06-21",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "tokens",
@@ -26453,7 +28491,8 @@
   "accent": "#50e3c2",
   "motif": "swatch",
   "date": "2026-06-21",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "keyshot",
@@ -26465,7 +28504,8 @@
   "accent": "#f5a623",
   "motif": "sphere",
   "date": "2026-06-21",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  },
  {
   "id": "figma",
@@ -26477,7 +28517,8 @@
   "accent": "#0070f3",
   "motif": "frame",
   "date": "2026-06-21",
-  "section": "design"
+  "section": "design",
+  "has_full": true
  },
  {
   "id": "cad",
@@ -26489,7 +28530,8 @@
   "accent": "#7928ca",
   "motif": "cube",
   "date": "2026-06-21",
-  "section": "design"
+  "section": "design",
+  "has_full": false
  }
 ];
   window.AX_ARCHIVE_SECTIONS = [
