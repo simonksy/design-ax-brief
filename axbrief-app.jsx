@@ -1386,6 +1386,8 @@ function InsightsView({ t, mobile }) {
   const [sel, setSel] = useState(null);        // 선택된 노드 id
   const [, bump] = useState(0);                // D 채운 뒤 패널 리렌더용
   const searchRef = useRef(null);              // 검색 매치 id Set (null = 검색 꺼짐)
+  const hiddenRef = useRef(new Set());         // 범례에서 끈 카테고리(섹션) — accessor가 읽는다
+  const [hiddenSecs, setHiddenSecs] = useState(() => new Set());
   const [query, setQuery] = useState('');
   const stripRef = useRef();
   const [stripNav, setStripNav] = useState({ l: false, r: false });
@@ -1430,6 +1432,7 @@ function InsightsView({ t, mobile }) {
       .nodeVal((n) => Math.max(1, n.val || 1))
       .nodeOpacity(1)
       .nodeResolution(12)         // 매끄러운 구 (드로우콜 최적화로 여유 확보)
+      .nodeVisibility((n) => !hiddenRef.current.has(n.section))   // 범례 토글
       .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
       .warmupTicks(60)
       // 링크 8천 개를 개별 오브젝트로 그리면 드로우콜 폭발 → 평상시 hairball은
@@ -1528,8 +1531,11 @@ function InsightsView({ t, mobile }) {
       .cooldownTicks(90);
 
     // 실제 링크 가시성: 포커스(선택·호버·검색) 관련 엣지만 lib이 그린다
+    const secOfId = (id) => (typeof id === 'string' ? id.slice(0, id.indexOf('/')) : '');
     const realLinkVisibility = (l) => {
       const s = l.source.id || l.source, tg = l.target.id || l.target;
+      const hid = hiddenRef.current;
+      if (hid.size && (hid.has(secOfId(s)) || hid.has(secOfId(tg)))) return false;
       const sset = searchRef.current;
       if (sset) return sset.has(s) && sset.has(tg);
       const f = selRef.current, h = hovId(), pid = pulseRef.current;
@@ -1541,7 +1547,7 @@ function InsightsView({ t, mobile }) {
     const firstLink = g.graphData().links[0];
     g.linkVisibility((l) => l === firstLink);
     // 스타일 accessor 재평가 트리거 (vasturiano 권장 패턴)
-    const restyle = () => { g.nodeColor(g.nodeColor()).linkColor(g.linkColor()).linkWidth(g.linkWidth()).linkVisibility(g.linkVisibility()).linkDirectionalParticles(g.linkDirectionalParticles()); };
+    const restyle = () => { g.nodeColor(g.nodeColor()).nodeVisibility(g.nodeVisibility()).linkColor(g.linkColor()).linkWidth(g.linkWidth()).linkVisibility(g.linkVisibility()).linkDirectionalParticles(g.linkDirectionalParticles()); };
     // 지구본 자전 — OrbitControls autoRotate. 줌은 항상 타깃(초기 중심점) 기준,
     // 팬을 꺼서 중심점이 흐트러지지 않게 한다.
     try { g.renderer().setPixelRatio(Math.min(1.5, window.devicePixelRatio || 1)); } catch (e) {}
@@ -1656,13 +1662,16 @@ function InsightsView({ t, mobile }) {
       if (!baseLines) return;
       const links = g.graphData().links;
       const arr = baseLines.geometry.attributes.position.array;
+      const hid = hiddenRef.current;
       let i = 0;
       for (let k = 0; k < links.length; k++) {
         const s = links[k].source, t2 = links[k].target;
         if (typeof s !== 'object' || typeof t2 !== 'object') continue;
+        if (hid.size && (hid.has(s.section) || hid.has(t2.section))) continue;   // 범례 토글
         arr[i++] = s.x || 0; arr[i++] = s.y || 0; arr[i++] = s.z || 0;
         arr[i++] = t2.x || 0; arr[i++] = t2.y || 0; arr[i++] = t2.z || 0;
       }
+      baseLines.geometry.setDrawRange(0, i / 3);
       baseLines.geometry.attributes.position.needsUpdate = true;
       baseLines.geometry.computeBoundingSphere && baseLines.geometry.computeBoundingSphere();
     };
@@ -1731,6 +1740,21 @@ function InsightsView({ t, mobile }) {
     const node = g.graphData().nodes.find((n) => n.id === id);
     if (node) g.__faceNode(node);
   };
+  /* 범례 토글 — 카테고리 노드·엣지 표시/숨김. 선택 중이던 노드의 카테고리를
+     끄면 선택도 해제한다. */
+  const toggleSection = (s) => {
+    const next = new Set(hiddenRef.current);
+    if (next.has(s)) next.delete(s); else next.add(s);
+    hiddenRef.current = next;
+    setHiddenSecs(next);
+    if (selRef.current && next.has(selRef.current.slice(0, selRef.current.indexOf('/')))) {
+      selRef.current = null; setSel(null);
+      const g0 = graphRef.current; if (g0) g0.__setRotate(true);
+    }
+    const g = graphRef.current;
+    if (g) g.__restyle();
+  };
+
   /* 키워드 검색 — 매치 노드만 하이라이트, 나머지는 흐리게 */
   const searchDeb = useRef();
   const onSearch = (v) => {
@@ -1859,12 +1883,22 @@ function InsightsView({ t, mobile }) {
         {/* 범례 — 창 좌측 중앙: 색=카테고리, 크기=연결 수 */}
         <div style={{ position: 'absolute', left: 12, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,.92)',
           border: '1px solid #e6dfd3', borderRadius: 12, padding: '9px 11px' }}>
-          {Object.keys(INSIGHTS_COLORS).map((s) => (
-            <div key={s} style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0' }}>
-              <span style={{ width: 9, height: 9, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
-              <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10 }}>{INSIGHTS_LABELS[s]}</span>
-            </div>
-          ))}
+          {Object.keys(INSIGHTS_COLORS).map((s) => {
+            const off = hiddenSecs.has(s);
+            return (
+              <div key={s} role="button" tabIndex={0} onClick={() => toggleSection(s)}
+                onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(s); } }}
+                title={off ? '표시하기' : '숨기기'}
+                style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0',
+                  cursor: 'pointer', opacity: off ? 0.32 : 1, userSelect: 'none' }}>
+                <span style={{ width: 9, height: 9, borderRadius: '50%',
+                  background: off ? 'transparent' : INSIGHTS_COLORS[s],
+                  border: '1.5px solid ' + INSIGHTS_COLORS[s], boxSizing: 'border-box' }} />
+                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10,
+                  textDecoration: off ? 'line-through' : 'none' }}>{INSIGHTS_LABELS[s]}</span>
+              </div>
+            );
+          })}
           <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
             크기 = 연결된 뉴스 수
           </div>
