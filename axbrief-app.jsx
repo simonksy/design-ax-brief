@@ -1486,6 +1486,7 @@ function InsightsView({ t, mobile }) {
       })
       // (연결 애니메이션은 lib 파티클 대신 아래 커스텀 흰 대시 펄스가 담당)
       .nodeLabel((n) => {
+        if (window.innerWidth < 760) return '';   // 모바일(터치): 호버/탭 스몰카드 프리뷰 없음
         const c = D.card[n.id];
         if (!c) return n.label;
         const chip = '<span style="font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-family:ui-monospace,Menlo,monospace;color:#fff;background:' + secColor(n) + ';border-radius:999px;padding:2px 7px;">' + (c.tool || n.section) + '</span>';
@@ -2046,12 +2047,12 @@ function InsightsView({ t, mobile }) {
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
         {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
-      {!mobile && stripNav.l && (
+      {stripNav.l && (
         <div style={{ position: 'absolute', left: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
           <NavButton dir="l" onClick={() => stripScrollBy(-1)} t={t} />
         </div>
       )}
-      {!mobile && stripNav.r && (
+      {stripNav.r && (
         <div style={{ position: 'absolute', right: 6, top: '50%', transform: 'translateY(-50%)', zIndex: 3 }}>
           <NavButton dir="r" onClick={() => stripScrollBy(1)} t={t} />
         </div>
