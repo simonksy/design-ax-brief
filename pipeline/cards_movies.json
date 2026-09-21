@@ -1,244 +1,201 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "movies",
+  "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "movies-premiere-generative",
+      "id": "movies-switchx-reframe",
       "eyebrow": "AI NEWS",
+      "headline": "재촬영 없이 화면비를 바꾸는\nSwitchX 2.0의 Reframe",
+      "mini_headline": "4K로 올라선 SwitchX",
+      "body": "SwitchX가 네이티브 4K로 올라서고 화면비를 바꾸는 Reframe도 붙었다.",
       "tool": "Movies",
-      "headline": "어도비, 프리미어 타임라인 안에서\n생성 미디어를 바로 만들어 쓴다",
-      "mini_headline": "타임라인에서 바로 생성",
-      "body": "텍스트로 만든 영상을 외부 프로그램을 거치지 않고 프리미어 타임라인에 바로 올린다.",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/beeble-switchx-2-0-reframe",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "Beeble이 SwitchX 2.0을 내놨다. 찍어 온 인물과 연기는 그대로 두고 조명과 배경, 소품만 고쳐 쓰는 video-to-video 모델이다. 이번 판에서 출력이 1080p에서 네이티브 4K로 올라갔다. 길이는 24fps 기준 20초까지, 색은 8비트에서 10비트로 넓어졌고 카메라 트래킹과 모션 표현, 립싱크도 손봤다."
+          },
+          {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png"
+            "src": "https://www.redsharknews.com/hubfs/Beeble-SwitchX2-replaceBG-relight.jpg"
           },
           {
             "t": "p",
-            "x": "어도비 제너레이티브 미디어 툴은 텍스트로 AI 영상과 이미지를 만들어 프리미어 프로 타임라인에 곧장 들여놓는다. 플랫폼 몇 개를 오가며 파일을 주고받던 중간 단계를 걷어내자는 것으로, 외부 애플리케이션은 필요 없다."
+            "x": "새로 붙은 Up-res는 순서를 바꾼 기능이다. 720p로 마음에 들 때까지 돌려 본 다음, 마지막 한 번만 최대 4K로 뽑는다. 시간과 비용이 몰리는 구간을 뒤로 미루는 방식이다."
           },
           {
             "t": "p",
-            "x": "프리미어와 애프터 이펙트를 겨냥한 어도비의 IBC 릴리스는 앞서 한 차례 예고됐다. 이번에는 제너레이티브 미디어 툴이 베타를 벗고 암스테르담 IBC 전시장에서 정식으로 모습을 드러냈다. ProVideo Coalition은 출시 전 이 소프트웨어를 직접 만져봤다."
+            "x": "Reframe은 Beeble이 직접 만든 아웃페인팅 모델 SwitchFrame이 돌린다. 원본의 연기와 움직임, 프레임 수를 건드리지 않은 채 화면을 원하는 비율까지 넓힌다. 화면비와 위치, 스케일, 크롭은 사용자가 잡고, 늘어난 영역은 Auto Fill이나 직접 올린 레퍼런스 이미지로 채운다. 1초가 안 되는 클립부터 20초까지, 4K 10비트로 나온다."
           },
           {
             "t": "video",
-            "yt": "Q2oIAiCLvRw"
+            "yt": "SONMAjtJkhI"
           },
           {
             "t": "p",
-            "x": "설계는 타임라인에서 바깥으로 뻗어 나간다. 편집자가 새 소재가 필요한 구간을 잡고 텍스트 프롬프트를 넣은 다음, 프리미어에 들어 있는 AI 모델 가운데 하나를 고르는 식이다."
-          },
-          {
-            "t": "p",
-            "x": "영상 생성에는 어도비 자체 파이어플라이 모델과 함께 구글 Veo, Kling, Luma 같은 파트너 모델이 붙는다. 쓸 수 있는 모델은 지역과 구독 상품에 따라 달라진다. 프레임 레이트와 해상도, 화면비를 지정하고, 결과가 마음에 들지 않으면 다시 생성한다. 이때 원래 결과물의 정보를 그대로 물려받아 다듬는다. 이렇게 쌓인 반복본은 전용 프로젝트 폴더 안 Generated History 빈에 모인다."
-          },
-          {
-            "t": "p",
-            "x": "시퀀스에 이미 있는 프레임을 시각 레퍼런스로 넣어 결과를 유도할 수도 있다. 레퍼런스 프레임을 여러 장 물리면 그만큼 시각적·양식적 맥락이 더 전달된다."
-          },
-          {
-            "t": "p",
-            "x": "효과음도 만든다. 학습 데이터는 어도비가 사내에 갖춘 오디오 라이브러리에서 가져왔고, 상업적으로 안전하다."
-          },
-          {
-            "t": "p",
-            "x": "콘텐츠 크리덴셜도 들어갔다. 미디어의 출처를 표시해 어떻게 만들어졌는지 드러내는 장치다. 사용자가 어도비 콘텐츠 어센티시티에서 설정을 잡아 두면 프리미어가 내보내기 때 그대로 적용한다."
+            "x": "SwitchX 2.0은 Beeble 플랫폼에서 바로 쓸 수 있다. 새 모델로 만드는 생성물은 2026년 9월 23일까지 50% 할인이다."
           }
         ]
       }
     },
     {
-      "id": "movies-visionquest-no-genai",
+      "id": "movies-eddie-ai-v4",
       "eyebrow": "AI NEWS",
+      "headline": "타임라인 다듬기를 넘어\n완성 컷까지 넘기는 Eddie AI V4",
+      "mini_headline": "Eddie AI V4 공개",
+      "body": "Eddie AI V4는 러시를 훑어 완성 컷을 NLE 프로젝트 파일로 넘긴다.",
       "tool": "Movies",
-      "headline": "AI가 주인공인 마블 시리즈,\n정작 제작에는 AI를 쓰지 않았다",
-      "mini_headline": "사람 손으로만 만들었다",
-      "body": "AI가 단독 주연인 시리즈지만 정작 만드는 과정에는 생성형 AI를 쓰지 않았다.",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/eddie-ai-v4",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg?w=1024"
-          },
-          {
             "t": "p",
-            "x": "'비전퀘스트'는 표제의 인공지능이 처음으로 단독 주연을 맡은 작품이다. 소재는 AI인데 이 마블 시리즈는 만드는 일만큼은 철저히 사람 손에 맡겼다."
-          },
-          {
-            "t": "p",
-            "x": "시리즈 크리에이터 테리 마탈라스는 10월 14일 디즈니+에서 공개되는 이 시리즈에 생성형 AI를 쓰지 않았다고 최근 확인했다. 애초에 그럴 \"필요\"가 없었다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "\"아니다, 전혀. 사실 필요가 없었다.\" 마탈라스가 스크린랜트에 한 말이다. \"디자인은 전부 지금의 AI가 대상을 처리하는 방식을 참조한다… 우리로서는 그 점을 짚어 보는 재미있는 방법이었다.\""
-          },
-          {
-            "t": "p",
-            "x": "프로덕션 디자이너 윌 휴스존스는 AI 소프트웨어 렌더링 특유의 어설픈 질감을 사람의 창의력으로 흉내 냈다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "'완다비전'(2021) 이후를 무대로, 되살아난 안드로이드 비전(폴 베타니)이 자기 프로그램에 심긴 AI 인격들의 도움을 받아 자신을 찾아 나선다. 그 사이 그의 머리에는 현상금이 걸린다."
-          },
-          {
-            "t": "p",
-            "x": "지난 5월 디즈니는 오픈AI 소라에 넣기로 한 10억 달러 투자를 접었다. 디즈니의 방대한 캐릭터 목록을 이 텍스트-투-비디오 앱에서 쓰는 일도 그때 끝났다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-hope-mocap",
-      "eyebrow": "AI NEWS",
-      "tool": "Movies",
-      "headline": "나홍진 감독이 '호프'의 추격과\n모캡, 크리처 디자인을 풀어낸다",
-      "mini_headline": "추격과 모캡의 설계",
-      "body": "나홍진 감독이 추격 장면과 비칸데르·파스벤더의 모캡, 크리처 디자인을 짚는다.",
-      "source": "befores & afters",
-      "url": "https://beforesandafters.com/2026/09/10/hope/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg"
-          },
-          {
-            "t": "p",
-            "x": "나홍진 감독의 '호프'는 SF와 액션을 한데 묶었다. 무대는 한국 DMZ 근처의 가상 항구 마을. 정체 모를 외계 생명체가 발견되면서 경찰과 사냥꾼, 주민이 점점 커지는 위협 속에서 살아남으려 애쓴다. 알리시아 비칸데르와 마이클 파스벤더는 외계인 자우르(J'aur)와 마베이요(Ma'veyyo)를 맡아 모션 캡처로 연기했다."
+            "x": "IBC 2026은 문을 열기도 전에 달아올랐다. 암스테르담 RAI의 홀이 이번 주 후반에나 열리는데 큰 브랜드들의 발표가 이미 쏟아졌다. Eddie AI도 그 틈에서 V4를 꺼냈다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/BTS-VFX.jpg?resize=1170%2C658&ssl=1"
+            "src": "https://nofilmschool.com/media-library/eddie-ai-v4.jpg?id=67739810&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
           },
           {
             "t": "p",
-            "x": "경찰차 추격과 총격전, 마을과 숲을 헤집는 외계 생명체까지 대규모 액션이 촘촘하다. 말을 타고 그 속으로 뛰어드는 인물도 나온다. 시각효과가 생명체를 빚고 장면에 얹는 핵심이었지만, 제작진은 액션이 몸으로 붙어 있다는 감각도 놓지 않았다. 카메라가 쉴 새 없이 흔들리는 이유다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/HOPE_STILL_7.jpeg?resize=1170%2C490&ssl=1"
-          },
-          {
-            "t": "p",
-            "x": "외계 생명체는 하나하나 다르게 생겼다. 촉수가 달린 것부터 사람 형상에 가까운 것까지, 대개 지구에 불시착하며 생긴 상처를 그대로 달고 있다. 나 감독은 \"이들은 모두 다른 행성에서 왔고, 영화에서 만날 때는 하나의 전선으로 뭉쳐 있다\"고 말했다. 처음 등장하는 생명체를 거의 형체 없이 둔 것도 그래서다. 초기 디자인은 사실성을 좇았지만 방향을 틀었다. 미국식 크리처 디자인의 틀에서 벗어나 아시아적인 선과 형태에 기댔다."
-          },
-          {
-            "t": "p",
-            "x": "파스벤더가 맡은 우두머리 마베이요는 평소 두 발로 섰다가 인간을 쫓을 때 네 발 짐승으로 바뀐다. 리들리 스콧의 '에이리언'에서 영감을 조금 얻었고, 기계적 변신이 아니라 생물학적 변신으로 설계했다. 외계 생명체가 나오는 장면은 대부분 대역 배우와 더미로 찍었고, 핵심 배우들의 연기는 후반 작업의 모션 캡처 스테이지에서 얹었다."
+            "x": "이번 버전의 Eddie는 타임라인을 다듬는 수준을 한참 넘어선다. 러시를 들여다보며 이야기를 찾고, 카메라를 싱크하고, 어느 앵글에 누가 있는지 이름을 붙이고, 음악을 쓰고, b-roll을 구해 온다. 그렇게 나온 컷은 Premiere, Resolve, Avid, Final Cut에 진짜 프로젝트 파일로 넘어간다."
           },
           {
             "t": "video",
-            "yt": "g6DviOKNe6c"
+            "yt": "2D7ZiRcmdjk"
           },
           {
             "t": "p",
-            "x": "액션은 스토리보드와 프리비주얼로 미리 짰다. 관건은 카메라를 배우 가까이 붙이는 일이었다. 드론과 크레인, 케이블캠이 동원됐고 XM2는 카메라 암을 단 전기자전거와 리모컨 슬라이더, '찰리'라는 이름의 무선 카메라 차량을 댔다. 대기한 말과 차량만 열두 대 안팎. 나 감독은 \"렌즈가 말발굽에서 1피트 정도밖에 떨어져 있지 않았다\"며 스턴트팀의 신뢰가 없었다면 불가능했다고 했다. 통제된 스튜디오가 아니라 로케이션에서 찍은 탓에 폭발 같은 특수효과가 촬영과 동시에 터졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/Fassbender.jpg?resize=1170%2C658&ssl=1"
+            "x": "딸려 오는 목록도 길다. ChatGPT와 Claude 연동, iPhone 앱, 웹과 데스크톱, 구독 없는 과금 모델, 주요 NLE로의 직접 내보내기, IT 부서 컴플라이언스, 자체 편집 모델, 클라우드 동기화 프로젝트, 멀티캠과 팟캐스트, 음악과 VO, 타이틀, 자막, 그래픽. 여기에 내 작업 방식을 학습시키는 기능까지 붙었다."
           },
           {
             "t": "p",
-            "x": "모션 캡처 현장에서 배우들은 보디 슈트와 얼굴용 헤드 마운트 카메라(HMC)를 함께 썼다. 프리비주얼을 보여 주며 동선을 잡았고, 나 감독은 두 배우가 뜻 모를 대사까지 정확히 외워 오는 걸 보며 프로라는 말을 실감했다고 했다. 얼굴 연기는 HMC로 잡아 디지털 생명체에 그대로 옮겼다. 시각효과는 웨스트월드가 이끌었는데, 가장 까다로운 건 규모였다. 거대한 몸이 말도 안 되는 속도로 달리니 모션 블러가 눈에 거슬렸고, 그 지점을 끝까지 붙들고 다듬었다."
+            "x": "혼자 달리는 것도 아니다. Blackmagic은 DaVinci Resolve에 AI 어시스턴트를 붙였고, Adobe는 After Effects 퍼블릭 베타에서 어시스턴트를 열었다. 현장에서 더 보고 싶다면 7홀 7.A38 부스다."
           }
         ]
       }
     },
     {
-      "id": "movies-hollywood-ai-warnings",
+      "id": "movies-ibc-splat-pipeline",
       "eyebrow": "AI NEWS",
+      "headline": "스플랫과 싱크, 장면을 읽는 카메라\nIBC 2026이 남긴 것",
+      "mini_headline": "스플랫, 포스트로",
+      "body": "IBC 2026에는 가우시안 스플랫과 장면을 읽는 카메라가 나란히 나왔다.",
       "tool": "Movies",
-      "headline": "할리우드 노조는 AI 종말론 대신\n지금 벌어지는 일을 먼저 본다",
-      "mini_headline": "노조의 시선은 지금",
-      "body": "SAG-AFTRA와 WGA는 먼 미래의 위협보다 눈앞의 계약과 초상권을 따진다.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/ibc-2026-splats-sync-and-scene-aware-cameras/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Michael Burns가 암스테르담 RAI를 마지막 날까지 돌아보고 IBC 2026을 정리했다. 얻어맞은 제작 시장 탓에 숫자는 줄었는데 분위기는 오히려 밝았다고 한다. 큰 업체들은 효율에 맞춰 기존 제품을 다듬는 쪽이었고, 그 사이사이에 새 물건이 섞여 있었다."
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/IBC-show-filters_no_upscale-copy.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Adobe 부스에서 Jason Druss가 가장 아낀 건 After Effects 베타의 AI 어시스턴트였다. 깨진 익스프레션을 고치고 물려받은 대형 프로젝트를 정리하는, 그의 표현으로는 ‘사무 잡무’를 맡는다. “그날 하루에 3년보다 After Effects를 더 많이 배웠다”고 했다. sync.labs는 어긋난 대사를 새 오디오에 맞춰 입 모양부터 다시 움직이는 립싱크·비주얼 더빙 플랫폼을 내놨다. 치아와 표정은 살린다."
+          },
+          {
+            "t": "p",
+            "x": "스플랫은 곳곳에 있었다. Sony의 XYN은 Alpha 카메라와 iPhone 가이드 앱을 묶어 고해상도 스틸을 3DGS로 재구성하고, VP 스테이지와 VFX, 자동차 비주얼라이제이션에 바로 쓸 3D 환경을 만든다. Chaos는 Arena에서 3DGS를, Vantage에서 리라이팅을 보여줬다. Microsoft가 받친 Global Objects는 축구 경기장 같은 장소를 통째로 스캔해 자산 라이브러리를 쌓는 중이다. Nokia는 스플랫 인코딩 연구를 꺼냈다. 30fps에 프레임당 9만 개 스플랫, 압축 전 약 4.5Gbps짜리 데이터를 100Mb/s 수준까지 줄였다."
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/LF2A6313_%C2%A9Michael-Burns-2026_Sony-Ocellus-.jpg"
+          },
+          {
+            "t": "p",
+            "x": "NHK가 들고 나온 시제품은 장면에 맞춰 반응하는 카메라다. 담당자도 “거대한 탱크 같은 카메라”라고 인정했다. 프레임 전체를 계속 살펴 밝은 하이라이트와 깊은 그림자, 빠르게 움직이는 영역을 찾아내고 셔터 속도와 프레임 동작을 그 자리마다 조정한다. 경기장 조명이 한 숏 안에 밝은 곳과 어두운 곳을 함께 만들던 오랜 문제를 겨냥했다."
+          },
+          {
+            "t": "p",
+            "x": "노르웨이 스타트업 Muybridge는 움직이는 로봇 리그를 대신하는 소프트웨어 정의 가상 카메라를 정식으로 선보였다. 1미터짜리 렌즈 스트립을 세로로든 가로로든 길게 이어 촬영 볼륨을 원하는 만큼 키운다. 장면은 가만히 있고 보는 사람이 그 안을 자유롭게 돌아다닌다. 지연은 3ms 아래라는 게 공동창업자 Anders Tomren의 설명이다. “AI가 아니다. 모든 픽셀이 3D로 재현되니까 진짜다.”"
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-cruise-bafta-real",
+      "eyebrow": "AI NEWS",
+      "headline": "톰 크루즈, AI는 오지만\n관객은 진짜를 보러 온다",
+      "mini_headline": "크루즈의 선 긋기",
+      "body": "톰 크루즈는 BAFTA 대담에서 AI는 오지만 관객은 진짜를 원한다고 말했다.",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "월요일 밤 런던에서 열린 BAFTA ‘Life in Pictures’ 대담 자리였다. 톰 크루즈는 Top Gun과 Jerry Maguire, Magnolia, 그리고 Mission: Impossible 시리즈로 이어진 40년을 돌아봤다. 곧 선보일 Digger 이야기도 꺼냈다."
+          },
+          {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://variety.com/wp-content/uploads/2026/09/tom-cruise.jpg?w=1000&h=667&crop=1"
           },
           {
             "t": "p",
-            "x": "테크 업계가 AI의 인류 파괴 가능성을 두고 경보를 울리는 사이, 엔터테인먼트 노동단체들은 이미 벌어지고 있는 일을 보라고 말한다. 더버지는 AI를 쓰기 시작한 디즈니와 넷플릭스, 아마존, 라이언스게이트 등 스튜디오와 생성형 AI를 영화 제작의 주류로 끌어들이려는 스타트업에 최근의 경고를 어떻게 보는지 물었다. 답을 보내온 곳은 없었다. SAG-AFTRA와 미국작가조합 동부지부(WGAE)만 응답했다."
+            "x": "진행을 맡은 Edith Bowman이 AI가 업계를 어떻게 바꿀지 물었다. Mission: Impossible 시리즈는 늘 새 기술의 앞자리에 있었고, 2025년 The Final Reckoning은 아예 AI를 악당으로 세웠으니 나올 만한 질문이었다."
           },
           {
             "t": "p",
-            "x": "엔터테인먼트 제작에 쓰이는 AI는 최근 내부고발과 종말 선언을 촉발한 시스템과 결이 다르다. 앤스로픽 연구원이던 제이컵 콕슨이 회사를 떠나게 만들고, 앤스로픽 정렬 책임자 에번 휴빙어가 \"앞으로 10년 안에\" 이 기술이 \"모든 인간을 죽일\" 수도 있다고 말하게 한 그 시스템만큼 위험해 보이지는 않는다. 그렇다고 안심할 일도 아니다. 배우를 디지털로 복제하고 기존 제작 도구를 대체하려는 모델은 사람의 일자리를 위협한다."
+            "x": "크루즈의 대답은 이렇게 시작했다. “인간 같은 건 없습니다.” 스트리밍에 반대하는 건 아니지만 극장에서 보는 일은 “다른 예술 형식”이라고 했다. 근거로 든 건 올여름 흥행 성적이다. 5월 1일부터 노동절까지 47억 6000만 달러($4.76 billion), 업계 역대 기록이다."
           },
           {
             "t": "p",
-            "x": "SAG-AFTRA 수석 협상가 덩컨 크랩트리아일랜드는 노조가 이 문제를 일찍 알아챘다고 했다. \"우리는 주요 고용주들이 이 기술을 어떻게 쓸지를 두고 집행력 있고 실질적인 가드레일을 협상해 얻어냈다.\" 오픈AI나 앤스로픽, 구글이 직접 묶이지는 않지만 미국에서 전문 수준의 엔터테인먼트 콘텐츠를 만드는 회사는 전부 들어간다. 다만 그는 멸종 수준의 위협이라는 경고 가운데 일부는 과장일 수 있다고 본다."
+            "x": "“사람들은 그 경험을 원합니다. 극장에 가고 있고요.” 그는 “나는 늘 인류를 믿는다”고 덧붙였다. 창작자에게 남긴 말은 “계속 만들라”였다. “오고 있고, 일어날 일입니다. 하지만 사람들은 진짜를 보고 싶어 합니다.”"
           },
           {
             "t": "p",
-            "x": "WGAE 사무국장 샘 휠러의 표현은 더 날카로웠다. \"AI를 사회에 밀어붙이는 테크 과두들의 무모함에 필적하는 것은 그들의 만연한 부정직함뿐이다.\" 그러면서도 WGAE는 \"규제받지 않는 인공지능이 노동자와 민주주의, 세계에 실존적 위협이 된다고 오랫동안 경고해 왔다\"고 덧붙였다. 2023년 WGA 조합원들은 영화·TV 스튜디오가 실질적 안전장치에 합의할 때까지 148일을 파업했다."
-          },
-          {
-            "t": "p",
-            "x": "휠러는 단체교섭이 정부 규제를 대신할 수는 없다고 선을 그었다. 연방 차원의 조치가 없는 사이 규제를 만들어 온 뉴욕 같은 주에는 고맙다고 했다. 그가 꼽은 실제 피해는 노동자의 무력화, 인터넷의 질 저하, 허위정보 확산, 치솟는 에너지 비용이다. \"이 피해들은 인간이 내린 결정의 결과\"라며, AI 기업과 경영진에게 책임을 묻는 쪽이 최악의 시나리오를 막는 가장 확실한 길이라고 했다."
+            "x": "Digger 이야기도 짧게 붙였다. The Revenant를 만든 Alejandro G. Iñárritu가 연출했고 크루즈는 석유 재벌을 맡았다. 뚱보 분장과 보철 분장을 붙이는 데 처음엔 여섯 시간이 걸렸다고 한다. “이런 시나리오는 읽어 본 적이 없다”는 게 그의 평이다. Warner Bros.를 통해 10월 2일 극장에 걸린다."
           }
         ]
       }
     },
     {
-      "id": "movies-variety-ai-panel",
+      "id": "movies-2d-world-model-track",
       "eyebrow": "AI NEWS",
+      "headline": "2D AI 월드가 트래킹을 깨뜨리는 지점\nfxguide가 90초로 짚다",
+      "mini_headline": "트래킹이 무너진다",
+      "body": "일관된 카메라 모델이 없는 2D AI 이미지는 표준 트래킹을 무너뜨린다.",
       "tool": "Movies",
-      "headline": "엔터 업계가 오해를 걷어내며\nAI를 쓸 자리를 좁혀 간다",
-      "mini_headline": "AI 쓸 자리 찾기",
-      "body": "버라이어티 패널에 모인 엔터·테크 임원들이 AI의 실제 용례를 하나씩 짚었다.",
-      "source": "Variety",
-      "url": "https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/",
+      "source": "fxguide (YouTube)",
+      "url": "https://www.youtube.com/shorts/p4WTGaH-oKc",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/09/ARZ_0848.jpg?w=1000&h=563&crop=1"
+            "t": "video",
+            "yt": "p4WTGaH-oKc"
           },
           {
             "t": "p",
-            "x": "\"지금 'AI'라는 단어가 너무 많은 일을 떠맡고 있다.\" 구글 기술·사회 담당 부사장 미라 레인이 버라이어티의 'Entertainment and Media in the Age of AI' 패널에서 한 말이다. EY가 후원한 버라이어티 엔터테인먼트·테크 서밋에서 열린 여러 AI 대담 가운데 하나로, 진행은 버라이어티 비즈니스 에디터 토드 스팽글러가 맡았다."
+            "x": "fxguide가 90초짜리 쇼츠에 한 가지만 담았다. 2D AI 월드가 카메라 트래킹을 깨뜨리는 대목이다."
           },
           {
             "t": "p",
-            "x": "자리에는 넷플릭스 크리에이티브 이노베이션 시니어 디렉터 기리시 발라크리슈난, 라이언스게이트 최고 AI 책임자 캐슬린 그레이스, 해즈브로의 AI 스튜디오 식스스월을 이끄는 버티 톰슨, 티즈 영업 담당 수석부사장 아나카 바스케스, 어도비 프로비디오 사업전략 총괄 미건 킨이 함께 앉았다."
-          },
-          {
-            "t": "p",
-            "x": "발라크리슈난은 넷플릭스가 제작 파이프라인에서 AI를 어떻게 쓰는지 공개한 기준을 들었다. 생성형 기준으로 약 300개 프로그램에 적용했고, 이런 기준이 \"창작 커뮤니티와 신뢰를 쌓는다\"고 했다. 캐슬린 케네디와 미국영화연구소(AFI)가 주도해 지난달 낸 '휴먼 제너레이티브 워크플로' 문서도 화제에 올랐다. 레인이 작성에 참여한 이 문서는 AI를 쓴 작품이 아직 닿지 못한 목표, 곧 저작권 등록에 이르도록 용례를 잘게 쪼갠다."
-          },
-          {
-            "t": "p",
-            "x": "어도비는 자사 도구에서 기능을 '보조'와 '보정', '생성'으로 나눴다고 킨이 설명했다. \"대화가 생성 쪽으로 쏠린 탓에, 사람들은 자기가 쓰는 게 AI인 줄도 모른다.\" 해즈브로는 식스스월을 통해 일레븐랩스 기반으로 만든 코브라 커맨더, 옵티머스 프라임 같은 캐릭터 AI 복제본에 자체 가드레일을 걸었다. 톰슨은 승인된 AI 캐릭터가 배우에게도 IP 보유자에게도 보호막이 된다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "오해는 여전하다. ChatGPT에 프롬프트 몇 줄 넣으면 블록버스터가 나온다는 식이다. 레인은 \"프리미엄 영화와 드라마를 만들 때 쓰는 기술은 프롬프트보다 훨씬 복잡하다. 하나의 공정\"이라고 했다. 발라크리슈난도 \"영화를 만드는 사람들은 AI를 쓸지 말지를 묻지 않는다. 자기 작품에서 마주한 진짜 창작 문제를 풀려고 한다\"고 말했다."
+            "x": "설명은 짧고 분명하다. 일관된 렌즈도, 물리적인 카메라 모델도 없이 만들어진 AI 이미지는 표준 트래킹 워크플로에 문제를 일으킨다. 매치무브 아티스트와 컴포지터, 슈퍼바이저가 가장 먼저 걸리는 자리이기도 하다."
           }
         ]
       }

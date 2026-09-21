@@ -1,59 +1,84 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "books",
-  "now_iso": "2026-09-19T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian",
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101229-pw-studio-pw-spotlight-time-to-reclaim-the-driver-s-seat-in-ai.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-09-14T07:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131377-1.JPG",
-      "headline": "PW Spotlight: Time to Reclaim the Driver's Seat in AI",
-      "excerpt": "Bookpact.ai, founded by Sander Ruys, is a licensing platform that lets publishers set per-deal terms, compensation and usage tracking for how AI companies access their titles. (Marked Sponsored / PW Studio content.)"
+      "published_iso": "2026-09-21T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131557-2.JPG",
+      "excerpt": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
+      "title": "Unsealed Files Show Open AI/Microsoft Knew Copying Was Illegal and Could Hurt Authors"
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/101270-the-cost-of-deepfakes-pw-talks-with-meena-kandasamy.html",
-      "source": "Publishers Weekly",
+      "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-09-18T19:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131497-1.PNG",
-      "headline": "The Cost of Deepfakes: PW Talks with Meena Kandasamy",
-      "excerpt": "In the novelist's 'Fieldwork as a Sex Object' (Soft Skull, Nov.), a young Indian woman faces harassment after someone posts a deepfake video of her. Kandasamy discusses writing fiction about synthetic media harm."
+      "published_iso": "2026-09-15T09:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/09/friedman_conferences_ai-social.png",
+      "excerpt": "Conference attendees have many questions about AI, and organizers would better serve their audience by engaging with intent and clarity.",
+      "title": "Writing Conferences Shouldn’t Ignore AI in Their Programming"
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-09-10T09:30:11Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2177484002.jpg",
-      "headline": "Ask the Chefs: AI and Copyright Licensing",
-      "excerpt": "The US Department of Justice filed a Statement of Interest in the NYT v. OpenAI/Microsoft copyright litigation, largely siding with the AI companies and favoring LLM training as fair use. A panel of publishing experts reacts to what it means for content licensing."
+      "published_iso": "2026-09-16T09:10:09Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/coding.jpg",
+      "excerpt": "Twelve years ago, Vikram Chandra’s Geek Sublime: The Beauty of Code, The Code of Beauty was published. In terms of actual history, that isn’t long at all; in terms of technology, it’s an eternity. …",
+      "title": "Revisiting Vikram Chandra’s Ode to the Art of Human Coding in the Age of AI"
     },
     {
-      "url": "https://goodereader.com/blog/digital-publishing/the-evolving-world-of-literary-rights-moving-beyond-the-printed-page",
-      "source": "Good e-Reader",
+      "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-09-16T21:51:26Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/16175103/creative_rights.png",
-      "headline": "The Evolving World of Literary Rights: Moving Beyond the Printed Page",
-      "excerpt": "An essay on how literary rights have stretched from print to screens, games and now AI systems, and what that means for how authors and agents negotiate deals today."
+      "published_iso": "2026-09-15T09:07:01Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/longform-banner.png",
+      "excerpt": "After a few months, I got used to the sarcasm. If I told a friend I was writing a book called Against Convenience, they’d ask whether I was planning to write it by hand, whether I’d use spell-check…",
+      "title": "The Conveniences I Used to Write a Book About Inconvenience (Definitely Not AI)"
     },
     {
-      "url": "https://goodereader.com/blog/technology/flowtica-verso-is-an-e-ink-ai-screen-that-attaches-to-your-phone",
-      "source": "Good e-Reader",
+      "url": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/",
+      "source": "LJ infoDOCKET",
       "category": "books",
-      "published_iso": "2026-09-10T16:48:59Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10124832/verso-hero-products.webp",
-      "headline": "Flowtica Verso is an e-Ink AI screen that attaches to your phone",
-      "excerpt": "The Flowtica Verso's always-on e-paper display sets it apart from standard screenless AI voice recorders, pairing ambient AI capture with an E-Ink reading surface."
+      "published_iso": "2026-09-21T13:56:12Z",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-21_09-54-41.png",
+      "excerpt": "A new special issue of Information Technology and Libraries is now available online. This special issue is devoted to “showcasing examples and ideas for integrating GenAI tools into galleries, libraries, archives, and museums generative AI summarize the articles included in it.” Information Technology and Libraries, Vo",
+      "title": "Accelerating Generative AI Integration in Libraries (A New Special Issue of Information Technology and Libraries (Vol. 45 No. 3; 2026) - Library Journal infoDOCKET"
+    },
+    {
+      "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
+      "source": "LJ infoDOCKET",
+      "category": "books",
+      "published_iso": "2026-09-16T18:05:34Z",
+      "og_image": "",
+      "excerpt": "The article linked below was published today by Nature. Title Reimagining Research Papers as Interactive and Reliable AI Agents Authors Jiacheng Miao Stanford University Joe R. Davis Stanford University Yaohui Zhang Stanford University Jonathan K. Pritchard Stanford University James Zou Stanford University Source Natur",
+      "title": "Reimagining Research Papers as Interactive and Reliable AI Agents (New Journal Article) - Library Journal infoDOCKET"
+    },
+    {
+      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340842/government-ai-proposals-difficult-to-reconcile/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-09-21T00:11:57Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/themes/murtaugh-HTML5-Reset-WordPress-Theme-c060ab9/images/ogimage_social_bp_rect.jpg",
+      "excerpt": "The Australian Publishers Association (APA) and Australian Society of Authors have criticised government proposals on AI training, with the APA saying they are “difficult to reconcile” with the government’s support of copyright; the longlist for the Richell Prize for an unpublished manuscript has been announced; China ",
+      "title": "Government AI proposals “difficult to reconcile”"
+    },
+    {
+      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
+      "source": "Books+Publishing",
+      "category": "books",
+      "published_iso": "2026-09-20T23:32:34Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/APA-ASA-combined-400x200.jpg",
+      "excerpt": "The Australian Publishers Association (APA) and the Australian Society of Authors (ASA) have criticised proposals put forward by the Australian Government that would make the inclusion of Australian creative work in AI training opt-out by default. “We cannot shift the burden to creators and rights-holders to try to pro",
+      "title": "Industry bodies criticise government’s “opt-out” AI proposals"
     }
   ],
   "dedup": {
-    "dropped": 11,
-    "kept": 5,
+    "dropped": 9,
+    "kept": 8,
     "against_days": 5
   }
 }

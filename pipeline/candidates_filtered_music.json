@@ -1,89 +1,80 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "music",
-  "now_iso": "2026-09-19T22:00:00Z",
+  "now_iso": "2026-09-21T22:01:37Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian",
+  "generated_by": "librarian",
   "items": [
     {
-      "url": "https://www.musicradar.com/music-tech/guilt-free-ai-what-so-called-ethical-ai-tools-mean-for-musicians-and-producers",
-      "source": "MusicRadar",
-      "headline": "Guilt-free AI? What so-called “ethical AI” tools mean for musicians and producers",
-      "published_iso": "2026-09-19T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/25MheFyRDZfdw6GVnVhge9-2560-80.png",
-      "excerpt": "Amidst a mounting backlash, music AI companies are talking of ethics, responsibility and transparency – but what does it actually mean, and how can producers know which tools to trust?",
+      "url": "https://musictech.com/news/industry/suno-ai-update-v6/",
+      "source": "MusicTech",
+      "headline": "“The death of Suno”: Reddit users have turned against Suno after v6 model update",
+      "published_iso": "2026-09-21T15:44:36Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Suno-new-hero-D@2000x1500-1068x801.jpg",
+      "excerpt": "Suno's most loyal users are revolting against the v6 model update, calling the output worse than v5. The update also hasn't satisfied music labels: “V6 is not a fresh start; it is the fruit of the same poisoned tree.”",
       "category": "music"
     },
     {
-      "url": "https://djmag.com/news/ai-artists-set-perform-live-first-ai-music-awards-los-angeles",
-      "source": "DJ Mag",
-      "headline": "AI ‘artists’ set to perform ‘live’ at first AI Music Awards in Los Angeles",
-      "published_iso": "2026-09-18T14:40:13Z",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Screenshot%202026-09-18%20at%2018.51.15.png.webp?itok=99CZIufr425962899",
-      "excerpt": "The first AI Music Awards lands at The Mayan in LA on 13 November, with AI ‘artists’ including Xania Monet performing live. The human creators behind each act will be “directing the stage”, according to organisers SIQA.",
+      "url": "https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/",
+      "source": "MusicTech",
+      "headline": "ElevenLabs strikes first deal with a major label to launch AI-powered music platform and audio products",
+      "published_iso": "2026-09-10T16:28:13Z",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/elevenlabs-umg@2000x1500-1068x801.jpg",
+      "excerpt": "Universal Music Group and ElevenLabs have partnered to launch a new AI-powered music platform and AI audio products. It is ElevenLabs' first licensing agreement with a major label.",
       "category": "music"
     },
     {
-      "url": "https://www.hypebot.com/why-ai-workflows-need-music-understanding-and-search/",
-      "source": "Hypebot",
-      "headline": "Why AI Workflows Need Music Understanding and Search",
-      "published_iso": "2026-09-18T13:37:46Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-17-Markus.jpg",
-      "excerpt": "Conversational search and agentic music workflows only work when they are built on structured metadata that lets AI actually understand a catalogue. A look at what music understanding infrastructure means for creators and rights holders.",
+      "url": "https://musically.com/2026/09/21/south-koreas-komca-withdrew-plans-to-register-ai-assisted-music/",
+      "source": "Music Ally",
+      "headline": "South Korea’s Komca withdrew plans to register AI-assisted music",
+      "published_iso": "2026-09-21T12:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2025/09/South-Korea-flag.jpg?fit=2000%2C1500&ssl=1",
+      "excerpt": "Komca had announced it would allow ‘AI-assisted’ music to be registered as works so long as a human made a creative contribution to lyrics, composition and arrangement — then pulled the plan.",
       "category": "music"
     },
     {
-      "url": "https://www.soundonsound.com/news/resing-voices-vol-2-ik-multimedia",
-      "source": "Sound On Sound",
-      "headline": "ReSing Voices Vol 2 from IK Multimedia",
-      "published_iso": "2026-09-18T06:30:37Z",
-      "og_image": "",
-      "excerpt": "The latest expansion for IK Multimedia’s AI-powered vocal-modelling software has arrived, delivering a versatile set of new voice models aimed at modern music production tasks.",
+      "url": "https://musically.com/2026/09/21/umg-and-sony-music-file-new-suno-complaint-over-v6-models/",
+      "source": "Music Ally",
+      "headline": "UMG and Sony Music file new Suno complaint over v6 models",
+      "published_iso": "2026-09-21T11:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Suno's v6 models were trained on a fresh dataset including music licensed from WMG and BMG plus ‘user data’ — the two remaining major-label plaintiffs say that isn't a clean break.",
       "category": "music"
     },
     {
-      "url": "https://djmag.com/tech/roland-announces-ai-assisted-melody-generation-plug-melody-flip",
-      "source": "DJ Mag",
-      "headline": "Roland announces AI-assisted melody-generation plug-in, Melody Flip",
-      "published_iso": "2026-09-17T14:35:30Z",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Melody_Flip_Lifestyle-1.jpeg.webp?itok=E0rgfcsR291461765",
-      "excerpt": "Roland's Melody Flip is designed to work as a \"music creation partner\" for generating melodic ideas, using AI to reshape and re-voice MIDI lines inside the DAW.",
+      "url": "https://musically.com/2026/09/11/umgs-elevenlabs-deal-is-latest-move-to-ai-remix-experiences/",
+      "source": "Music Ally",
+      "headline": "UMG’s ElevenLabs deal is latest move to AI remix experiences",
+      "published_iso": "2026-09-11T11:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-11T114858.172.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Another day, another AI-music deal for Universal Music Group — ElevenLabs signs its first agreement with a major, following Kobalt and Merlin, aimed at fan remix and mashup products.",
       "category": "music"
     },
     {
-      "url": "https://completemusicupdate.com/distrokids-2-billion-valuation-based-on-it-being-a-pipeline-for-ai-slop-and-copyright-infringement-says-universal/",
+      "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
+      "source": "Music Business Worldwide",
+      "headline": "Universal and Sony sue Suno for a second time, claiming platform’s v6 models are ‘the fruit of the same poisoned tree’",
+      "published_iso": "2026-09-18T17:12:42Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/07/shutterstock_2481370157.jpg",
+      "excerpt": "The new complaint targets Suno's industry-partnered v6 models. US copyright law sets damages for willful infringement at up to $150,000 per work; 60,202 recordings are cited.",
+      "category": "music"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/elevenlabs-launched-music-v2-5-shortly-after-announcing-its-umg-licensing-deal/",
+      "source": "Music Business Worldwide",
+      "headline": "ElevenLabs launched Music v2.5 – shortly after announcing its UMG licensing deal",
+      "published_iso": "2026-09-15T08:36:19Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/poster.webp",
+      "excerpt": "The model went live on September 11 and is now the default “for prompted and reference generation” in ElevenMusic, the company said.",
+      "category": "music"
+    },
+    {
+      "url": "https://completemusicupdate.com/universal-and-warner-tell-judge-new-use-clause-in-afm-agreement-is-clear-and-unambiguous-and-does-not-apply-to-their-ai-deals/",
       "source": "Complete Music Update",
-      "headline": "DistroKid’s $2 billion valuation based on it being a pipeline for AI slop and copyright infringement, says Universal",
-      "published_iso": "2026-09-16T16:57:55Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/distrokid-union.png",
-      "excerpt": "Universal claims distributor DistroKid built its $2 billion valuation by acting as a pipeline for AI slop and copyright-infringing tracks. The suit puts distribution-side AI screening squarely on the agenda for every self-releasing artist.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.hypebot.com/ai-is-reshaping-the-music-industry-but-leaving-live-events-behind/",
-      "source": "Hypebot",
-      "headline": "AI Is Reshaping the Music Industry, But Leaving Live Events Behind",
-      "published_iso": "2026-09-16T14:14:42Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-16-Ben-OpEd.jpg",
-      "excerpt": "While AI investment transforms recorded music, its greatest untapped potential lies in helping live event professionals manage bookings, payments and workflows.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.musicradar.com/music-tech/software-apps/acon-digitals-machine-learning-powered-acoustica-8-audio-editor-is-the-companys-most-ambitious-release-to-date",
-      "source": "MusicRadar",
-      "headline": "Acon Digital’s machine learning-powered Acoustica 8 audio editor is the company’s “most ambitious release to date”",
-      "published_iso": "2026-09-11T13:51:34Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Pv596k9REC2FUTbQyeL8MU-2560-80.jpg",
-      "excerpt": "The longstanding editing and restoration suite gets a major update loaded with AI-powered tools for cleanup, separation and spectral repair.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.gearnews.com/suno-v6-tech/",
-      "source": "gearnews",
-      "headline": "Suno v6: The Next Generation of AI Music Arrives – Now With Warner Music and BMG’s Blessing",
-      "published_iso": "2026-09-09T09:00:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Suno-v6-T.jpg",
-      "excerpt": "Suno v6 brings three new AI music models plus a partnership with Warner Music and BMG. A hands-on look at what the new editing tools can actually do for producers.",
+      "headline": "Universal and Warner tell judge ‘new use’ clause in AFM agreement is “clear and unambiguous” and does not apply to their AI deals",
+      "published_iso": "2026-09-18T15:52:33Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/AFM-v-UMGWMG.png",
+      "excerpt": "The American Federation Of Musicians sued Universal and Warner over their AI deals, arguing the majors must share AI money with session players under the Sound Recording Labor Agreement.",
       "category": "music"
     },
     {
@@ -92,22 +83,49 @@
       "headline": "Suno unveils upgrade developed with “music industry partners”, while continuing to battle the music industry in court",
       "published_iso": "2026-09-09T13:47:53Z",
       "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/Suno.png",
-      "excerpt": "Suno has unveiled v6 of its music AI platform, developed with industry partners including Warner Music, BMG and Believe – even as it keeps fighting other music companies in court.",
+      "excerpt": "Suno has unveiled v6 of its music AI platform, developed with industry partners like Warner Music, BMG and Believe, even as it fights other music companies in court.",
       "category": "music"
     },
     {
-      "url": "https://www.hypebot.com/suno-steals-artist-identities-jason-isbell-wants-to-stop-it/",
-      "source": "Hypebot",
-      "headline": "Suno Steals Artist Identities, Jason Isbell Wants to Stop It",
-      "published_iso": "2026-09-08T13:48:58Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/photo-1548630435-998a2cbbff67-3.jpeg",
-      "excerpt": "Jason Isbell and David Lowery’s new class action opens a new front in the AI music war: exploitation of an artist’s unique sonic identity rather than just their recordings.",
+      "url": "https://www.musicradar.com/music-tech/lunacy-launches-nova-platform-with-five-free-virtual-instruments-but-bigger-things-on-the-way",
+      "source": "MusicRadar",
+      "headline": "Lunacy launches Nova platform with five free virtual instruments – but bigger things are on the way",
+      "published_iso": "2026-09-18T10:29:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Fjy7Y6wq3gnJyup93i9GVT-2504-80.png",
+      "excerpt": "The LA-based company is working on an AI-powered platform for prompt-based plugin development and customization, synchronized across your browser and your DAW.",
+      "category": "music"
+    },
+    {
+      "url": "https://www.musicradar.com/artists/guitarists/brian-may-on-why-hes-changed-his-mind-on-ai-we-have-to-resist-we-have-to-control-it-very-very-seriously-and-very-quickly",
+      "source": "MusicRadar",
+      "headline": "Brian May on why he’s changed his mind on AI: “We have to resist. We have to control it very, very seriously and very quickly”",
+      "published_iso": "2026-09-16T11:56:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9Y2aCQLRZdu5g6ESzB5rBV-2000-80.jpg",
+      "excerpt": "The Queen guitarist has reversed his earlier optimism about generative AI in music — and it's why he's gone cold on the idea of a Queen avatar show.",
+      "category": "music"
+    },
+    {
+      "url": "https://djmag.com/tech/roland-announces-ai-assisted-melody-generation-plug-melody-flip",
+      "source": "DJ Mag",
+      "headline": "Roland announces AI-assisted melody-generation plug-in, Melody Flip",
+      "published_iso": "2026-09-17T14:35:30Z",
+      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Melody_Flip_Lifestyle-1.jpeg.webp?itok=E0rgfcsR1741162589",
+      "excerpt": "Roland's new plug-in is designed to work as a \"music creation partner\" that generates and reshapes melodic ideas rather than finished tracks.",
+      "category": "music"
+    },
+    {
+      "url": "https://www.production-expert.com/production-expert-1/why-this-sound-designer-isnt-afraid-of-generative-ai-sfx",
+      "source": "Production Expert",
+      "headline": "Why This Sound Designer Isn't Afraid Of Generative AI SFX",
+      "published_iso": "2026-09-17T08:00:00Z",
+      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a8f18e3dd3f941c44e88da7/1789558829231/Sound+Designer+Not+Afraid+Of+Generative+AI+Sound+Effects+Services.webp?format=1500w",
+      "excerpt": "Sound designer and Dallas Audio Post co-owner René Coronado explains why generative AI sound-effects services don't threaten his craft — and where they actually fit in a post workflow.",
       "category": "music"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 11,
+    "dropped": 7,
+    "kept": 13,
     "against_days": 5
   }
 }

@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "books",
   "generated_by": "ax-curator",
-  "selection_mode": "curator-auto (user deferred) — recovery replacement pass",
+  "selection_mode": "curator-auto (user deferred — \"알아서\")",
   "count": 5,
   "picks": [
     {
@@ -10,109 +10,106 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Ask the Chefs: AI and Copyright Licensing",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-10T09:30:11Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2177484002.jpg",
-      "excerpt": "The US Department of Justice filed a Statement of Interest in the NYT v. OpenAI/Microsoft copyright litigation, largely siding with the AI companies and favoring LLM training as fair use. A panel of publishing experts reacts to what it means for content licensing.",
-      "rationale": "A full panel of publishing operators saying, on the record, how they will price and structure AI licensing now — the practitioner playbook, not another filing report.",
-      "framing_note": "WRITER: frame the card on the chefs' licensing answers, NOT on the DOJ Statement of Interest itself — that filing already shipped on 2026-09-15 (books-us-gov-ai-copyright). Use it only as one clause of setup."
+      "headline": "Unsealed Files Show Open AI/Microsoft Knew Copying Was Illegal and Could Hurt Authors",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-21T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131557-2.JPG",
+      "excerpt": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
+      "rationale": "Freshest and heaviest item in the pool: internal admissions, now on the record, that the training copies were known to be unlawful and that AI books would displace human-authored ones — the exact market-harm prong the authors' summary-judgment fight turns on.",
+      "framing_note": "WRITER: lead on the BOOKS half — the unsealed defendant briefs about copyrighted books and displacement of human-authored titles. Do NOT re-tell the news-publisher/NYT clickthrough revelations: that unredaction already shipped on 2026-09-18 as books-ms-scraping-filings (TechCrunch, 'largest theft of labor in human history'). One clause of setup at most."
     },
     {
       "rank": 2,
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "Flowtica Verso is an e-Ink AI screen that attaches to your phone",
-      "url": "https://goodereader.com/blog/technology/flowtica-verso-is-an-e-ink-ai-screen-that-attaches-to-your-phone",
-      "source": "Good e-Reader",
-      "published_iso": "2026-09-10T16:48:59Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/10124832/verso-hero-products.webp",
-      "excerpt": "The Flowtica Verso's always-on e-paper display sets it apart from standard screenless AI voice recorders, pairing ambient AI capture with an E-Ink reading surface.",
-      "rationale": "The only hardware release in the pool: an ambient AI recorder that puts an E-Ink reading surface on the phone, a new shape for where reading happens.",
-      "cross_section_flag": "Possible collision with the gadgets section — verify this URL is not also selected there before roll."
+      "headline": "Industry bodies criticise government's \"opt-out\" AI proposals",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
+      "source": "Books+Publishing",
+      "published_iso": "2026-09-20T23:32:34Z",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/APA-ASA-combined-400x200.jpg",
+      "excerpt": "The Australian Publishers Association (APA) and the Australian Society of Authors (ASA) have criticised proposals put forward by the Australian Government that would make the inclusion of Australian creative work in AI training opt-out by default. \"We cannot shift the burden to creators and rights-holders to try to protect their work.\"",
+      "rationale": "A second national government moving to a default opt-out for AI training — the policy shape that decides whether any licensing market exists, with both the publisher and author bodies on record against it.",
+      "framing_note": "WRITER: this is the dedicated article; the same APA/ASA criticism also leads the Books+Publishing daily roundup (340842), which was dropped as a within-pool duplicate. Use only this one."
     },
     {
       "rank": 3,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Large Scale Digitization in the AI Era: Model Terms for Libraries and Their AI Partners",
-      "url": "https://www.infodocket.com/2026/09/15/large-scale-digitization-in-the-ai-era-issues-and-model-terms-for-libraries-and-their-partners-new-issue-paper-from-center-for-research-libraries/",
-      "source": "InfoDocket (Library Journal)",
-      "published_iso": "2026-09-15T15:13:24Z",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-15_11-12-27.png",
-      "excerpt": "The Center for Research Libraries has published an issue paper giving libraries concrete contract language for the wave of proposals to digitize their collections at scale for commercial AI training. It covers ownership, permitted uses, public access, compensation and attribution — a negotiating template for anyone whose stacks are being courted as a dataset.",
-      "rationale": "Replacement pick: actual model contract clauses a librarian or special-collections lead can take into the next digitization-for-AI-training negotiation — the most concretely usable item in the recovery pool, and from an outlet not otherwise in the five.",
-      "replacement_for": "https://goodereader.com/blog/digital-publishing/the-evolving-world-of-literary-rights-moving-beyond-the-printed-page"
+      "headline": "Accelerating Generative AI Integration in Libraries — Information Technology and Libraries, Vol. 45 No. 3 (2026)",
+      "url": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/",
+      "source": "LJ infoDOCKET",
+      "published_iso": "2026-09-21T13:56:12Z",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-21_09-54-41.png",
+      "excerpt": "A new special issue of Information Technology and Libraries is now available online. This special issue is devoted to \"showcasing examples and ideas for integrating GenAI tools into galleries, libraries, archives, and museums.\"",
+      "rationale": "A whole peer-reviewed issue of worked GenAI implementations for galleries, libraries, archives and museums — open access, and the most directly copyable set of examples anyone running a collection can take to their own stack this week.",
+      "framing_note": "WRITER: name two or three concrete articles from the issue rather than describing 'a special issue' in the abstract."
     },
     {
       "rank": 4,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "The Cost of Deepfakes: PW Talks with Meena Kandasamy",
-      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/101270-the-cost-of-deepfakes-pw-talks-with-meena-kandasamy.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T19:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131497-1.PNG",
-      "excerpt": "In the novelist's 'Fieldwork as a Sex Object' (Soft Skull, Nov.), a young Indian woman faces harassment after someone posts a deepfake video of her. Kandasamy discusses writing fiction about synthetic media harm.",
-      "rationale": "Freshest item in the pool and the one story about writing synthetic-media harm as fiction rather than litigating it — a craft angle the section has not run."
+      "headline": "Writing Conferences Shouldn't Ignore AI in Their Programming",
+      "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-15T09:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/09/friedman_conferences_ai-social.png",
+      "excerpt": "Conference attendees have many questions about AI, and organizers would better serve their audience by engaging with intent and clarity.",
+      "rationale": "The one item aimed at the people who set the agenda for working writers — how to put AI on a conference programme on purpose instead of ducking it, which is where most authors will actually get their first briefing.",
+      "framing_note": "WRITER: Jane Friedman's posts are partly paywalled; keep to what the public portion supports and say so if the body is truncated."
     },
     {
       "rank": 5,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "PW Spotlight: Time to Reclaim the Driver's Seat in AI",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101229-pw-studio-pw-spotlight-time-to-reclaim-the-driver-s-seat-in-ai.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-14T07:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131377-1.JPG",
-      "excerpt": "Bookpact.ai, founded by Sander Ruys, is a licensing platform that lets publishers set per-deal terms, compensation and usage tracking for how AI companies access their titles. (Marked Sponsored / PW Studio content.)",
-      "rationale": "Concrete per-deal licensing plumbing publishers can actually sign up for — ranked last and labeled because it is PW Studio sponsored content, not newsroom reporting.",
-      "sponsored": true,
-      "framing_note": "WRITER: disclose in the body that this is PW Studio sponsored content from bookpact.ai; treat vendor claims as claims."
+      "headline": "Revisiting Vikram Chandra's Ode to the Art of Human Coding in the Age of AI",
+      "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/",
+      "source": "Literary Hub",
+      "published_iso": "2026-09-16T09:10:09Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/coding.jpg",
+      "excerpt": "Twelve years ago, Vikram Chandra's Geek Sublime: The Beauty of Code, The Code of Beauty was published. In terms of actual history, that isn't long at all; in terms of technology, it's an eternity.",
+      "rationale": "The reading-side card in a policy-heavy five: a novelist's aesthetics of handwritten code re-read against generated code, and the only pick that argues about craft rather than contracts.",
+      "framing_note": "WRITER: this is an essay, not news — build the card around the specific claim the piece makes about Chandra's book, not around a general 'AI and creativity' theme."
     }
   ],
   "dropped": [
     {
-      "url": "https://goodereader.com/blog/digital-publishing/the-evolving-world-of-literary-rights-moving-beyond-the-printed-page",
-      "source": "Good e-Reader",
-      "headline": "The Evolving World of Literary Rights: Moving Beyond the Printed Page",
-      "reason": "article body contains no AI content; iGaming advertorial"
-    },
-    {
-      "url": "https://selfpublishingadvice.org/spotify-opens-ai-audiobook-creation-tools/",
-      "source": "Alliance of Independent Authors (Self-Publishing Advice)",
-      "headline": "Spotify Opens AI Audiobook Creation Tools to All US Indie Authors; Webtoon Launches AI Translation",
-      "reason": "CONTENT DUPLICATE on both halves of the roundup — the Spotify ElevenLabs narration rollout already published 2026-09-13 (janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/) and the Webtoon AI translation story already published 2026-09-12 (publishersweekly.com article 101199, 'What Webtoon's AI Partnership Could Mean for Translators'). Nothing new survives the dedup."
-    },
-    {
-      "url": "https://thenewpublishingstandard.com/2026/09/13/folk-taxonomy-em-dash-panic/",
-      "source": "The New Publishing Standard",
-      "headline": "Folk Taxonomy: The Insecurity Behind the Em-Dash Panic",
-      "reason": "Strong second choice but commentary rather than a tool or template — it names a bad habit without giving an editor anything to apply; also thematically adjacent to the already-published anti-AI-prose-tells coverage (wired.com 'More Typos, Fewer Em Dashes', 2026-08-04) and the oldest item in the recovery pool."
+      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340842/government-ai-proposals-difficult-to-reconcile/",
+      "source": "Books+Publishing",
+      "headline": "Government AI proposals \"difficult to reconcile\"",
+      "reason": "WITHIN-POOL CONTENT DUPLICATE of rank 2. Same source, same day, same core story — this is the Books+Publishing daily roundup whose lead item is the identical APA/ASA criticism of the opt-out AI training proposal. The remaining roundup items (Richell Prize longlist, China) carry no AI axis. Kept the dedicated article instead: tighter, and it carries a real APA/ASA image rather than the site-wide generic OG banner."
     },
     {
       "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
-      "source": "InfoDocket (Library Journal)",
-      "headline": "Reimagining Research Papers as Interactive and Reliable AI Agents",
-      "reason": "Same outlet as the chosen replacement (would put two InfoDocket cards in the five), and its Paper2Agent subject is scholarly-tooling research that sits closer to the science section than to book publishing practice."
+      "source": "LJ infoDOCKET",
+      "headline": "Reimagining Research Papers as Interactive and Reliable AI Agents (New Journal Article)",
+      "reason": "Not a duplicate — dropped on the final-5 diversity guard. Taking it would put two LJ infoDOCKET link-posts in a five-card brief and leave only four outlets; its Paper2Agent subject is scholarly-tooling research that sits closer to the science section than to book publishing practice, and it has no og_image at all (empty), so the media pass would have nothing to work from. Same call the 2026-09-20 pass made."
+    },
+    {
+      "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
+      "source": "Literary Hub",
+      "headline": "The Conveniences I Used to Write a Book About Inconvenience (Definitely Not AI)",
+      "reason": "Weakest item in the pool. Keyword-level AI relevance only — the AI reference is a parenthetical joke in the title of a personal essay about writing a book on convenience. No release, no finding, nothing a writer or publisher acts on. Also second Literary Hub item, behind the Chandra essay."
     }
   ],
   "dedup": {
-    "checked_against": "news_data.json sections.books (today 2026-09-19 + days 2026-09-18, 09-17, 09-15, 09-14, 09-13) and published_urls.json books (268 URLs, full history)",
+    "checked_against": "news_data.json sections.books — today (2026-09-20) plus days 2026-09-19, 09-18, 09-17, 09-15, 09-14 (30 published cards)",
     "published_urls_in_window": 30,
-    "dropped": 4,
+    "pool_size": 8,
+    "dropped": 3,
     "notes": [
-      "Recovery pass: the rank-3 Good e-Reader literary-rights item was removed after enrichment found zero AI content in the body and a Virgin Games / GambleAware advertorial close. Replaced in place by the CRL model-terms item from InfoDocket.",
-      "Replacement URL checked against the full books URL history: no match. Nearest published neighbours are infodocket HathiTrust Mellon grant (2026-08-31) and LoC AI Sandbox (2026-09-01) — both different events; the CRL issue paper is a new contract-terms publication, not a grant or a pilot.",
-      "No candidate URL or story matches a published books card among the surviving five.",
-      "Near-miss: rank 1 (Scholarly Kitchen) shares its news hook — the DOJ Statement of Interest in NYT v. OpenAI — with books-us-gov-ai-copyright (2026-09-15, Jane Friedman) and a paragraph inside books-writers-ai-survey (2026-09-19). Kept because the article's substance is a new multi-expert licensing roundtable, not a report of the filing; framing_note instructs the writer to lead on the chefs, not the filing.",
-      "Outlet spread after the swap improves to four distinct outlets — The Scholarly Kitchen, Good e-Reader, InfoDocket (Library Journal), Publishers Weekly x2 — satisfying the 2-per-outlet cap and the 3-outlet floor.",
-      "Sponsored/advertorial audit re-run on all five: rank 5 remains the only sponsored item and is explicitly labeled and disclosed; ranks 1-4 are editorial."
+      "No surviving pick shares a URL with any published books card. Final five contain five distinct URLs.",
+      "NEAR-MISS, kept: rank 1 (PW, unsealed OpenAI/Microsoft briefs) is adjacent to books-ms-scraping-filings (TechCrunch, published 2026-09-18) — both stem from unsealing in the consolidated In re OpenAI MDL. Judged DISTINCT: the TechCrunch card was the New York Times' filings about news clickthrough collapse and the Brent Hecht 'theft of labor' memo; this is the later unsealing of the defendants' own briefs on copyrighted BOOKS and displacement of human-authored titles. Different filings, different plaintiffs' record, different finding, four days apart. framing_note constrains the writer so the published angle is not re-run.",
+      "NEAR-MISS, kept: rank 2 (Australian opt-out proposals) sits in the same copyright-policy family as books-ai-licensing-market (The Bookseller, 2026-09-19, UK collective licensing) and books-chefs-licensing (2026-09-20, US DOJ). Different jurisdiction, different instrument (a government consultation proposing default opt-out), no overlap of facts.",
+      "NEAR-MISS, kept: rank 5 (Literary Hub) — the section ran a Literary Hub card on 2026-09-17 (books-baldwin-typewriter), but that was the Baldwin exhibit typewriter; unrelated subject, different article.",
+      "Outlet spread: Publishers Weekly, Books+Publishing, LJ infoDOCKET, Jane Friedman, Literary Hub — five distinct outlets, max 1 per outlet, comfortably inside the 2-per-outlet cap and the 3-outlet floor.",
+      "Category spread within books: 2 copyright/policy (ranks 1-2), 1 library/GLAM practice (rank 3), 1 industry-craft/education (rank 4), 1 literary essay (rank 5).",
+      "Full 5 picked; no shortfall, no padding.",
+      "Cross-section check: none of the five is a hardware or general-tech item, so no collision risk with the gadgets or science sections this run."
     ]
   }
 }

@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "design",
   "generated_by": "ax-media",
   "media": [
     {
-      "id": "design-v0-npm-credentials",
+      "id": "design-snap-specs-agent",
       "type": "image",
-      "src": "pipeline/media/design-v0-npm-credentials.png"
+      "src": "pipeline/media/design-snap-specs-agent.png"
     },
     {
-      "id": "design-figma-motion-shaders",
+      "id": "design-ai-nutrition-facts",
+      "type": "image",
+      "src": "pipeline/media/design-ai-nutrition-facts.png"
+    },
+    {
+      "id": "design-ai-surrogate-models",
+      "type": "image",
+      "src": "pipeline/media/design-ai-surrogate-models.png"
+    },
+    {
+      "id": "design-autodesk-continuity-error",
+      "type": "image",
+      "src": "pipeline/media/design-autodesk-continuity-error.jpg"
+    },
+    {
+      "id": "design-framer-agent-bugfix",
       "type": "video",
-      "src": "pipeline/media/design-figma-motion-shaders.mp4",
-      "poster": "pipeline/media/design-figma-motion-shaders.jpg"
-    },
-    {
-      "id": "design-artec-neo-scanner",
-      "type": "image",
-      "src": "pipeline/media/design-artec-neo-scanner.jpg"
-    },
-    {
-      "id": "design-quad-remesher-blender",
-      "type": "image",
-      "src": "pipeline/media/design-quad-remesher-blender.jpg"
-    },
-    {
-      "id": "design-human-led-next-phase",
-      "type": "image",
-      "src": "pipeline/media/design-human-led-next-phase.jpg"
+      "src": "pipeline/media/design-framer-agent-bugfix.mp4",
+      "poster": "pipeline/media/design-framer-agent-bugfix.jpg"
     }
   ]
 }

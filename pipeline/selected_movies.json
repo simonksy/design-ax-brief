@@ -1,73 +1,92 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "movies",
+  "generated_by": "ax-curator",
+  "selection_notes": "User deferred — curator picked. Dedup vs news_data.json sections.movies (today 09-20 + days 09-14/15/17/18/19) on URL + content. Dropped as content duplicates: (a) Deadline 'Tom Cruise Earns Applause' — same BAFTA speech as the Variety pick, kept Variety; (b) THR 'Tilly Norwood Glitches During Piers Morgan Interview' — same event already published 09-19 as Deadline 'tilly-norwood-malfunctions-piers-morgan-interview-cantonese'; (c) American Cinematographer 'Blackmagic Design Updates DaVinci Resolve' — same Resolve 21.1 AI-assistant release already published 09-19 (RedShark 'blackmagic-davinci-resolve-ai-assistant') and covered 09-15 (PVC NLE assistants). Backfilled down the ranked pool. Diversity guard applied: 5 distinct outlets, max 1 per outlet, axes spread across ai-vfx-tools / editing-ai / neural-rendering / hollywood-discourse / vfx-craft.",
   "picks": [
     {
-      "headline": "PVC at IBC 2026: Adobe Debuts Generative Media Tool to Bring AI Directly into Premiere Pro Timeline",
-      "url": "https://www.provideocoalition.com/pvc-at-ibc-2026-adobe-debuts-generative-media-tool-to-bring-ai-directly-into-premiere-pro-timeline/",
-      "source": "ProVideo Coalition",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "생성 결과물을 다른 플랫폼에서 만들어 들여오던 왕복을 없애고 프리미어 타임라인 안에서 끝내는 기능이다. 편집자가 내일 당장 작업 순서를 바꿀 만한 실물 릴리스.",
-      "published_iso": "2026-09-14T07:18:26-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/adobeibc.png",
-      "excerpt": "Adobe’s Generative Media Tool allows users to produce text-to-media AI-generated content and directly import it within their Premiere Pro timeline. Instead of hopping back and forth between multiple different platforms, the tool aims to cut out the middleman and expedite workflows, keeping everything accessible within Premiere Pro."
+      "axis": "ai-vfx-tools",
+      "headline": "Beeble SwitchX 2.0: native 4K, 20-second clips and a Reframe outpainting tool",
+      "url": "https://www.redsharknews.com/beeble-switchx-2-0-reframe",
+      "source": "RedShark News",
+      "published_iso": "2026-09-21T16:00:01Z",
+      "excerpt": "Beeble's AI relighting and background-replacement tool for filmmakers moves to native 4K, 20-second clips and 10-bit color, and adds Reframe — an outpainting pass that changes a shot's aspect ratio without a reshoot.",
+      "og_image": "https://www.redsharknews.com/hubfs/Beeble-SwitchX2-replaceBG-relight.jpg",
+      "rationale": "A shipped tool update that changes tomorrow's shot list — relight and reframe in post at delivery resolution instead of booking a reshoot."
     },
     {
-      "headline": "'VisionQuest' Creator Says No GenAI Was Used In Making Of Show",
-      "url": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
-      "source": "Deadline",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "AI를 소재로 한 마블 시리즈가 제작에는 생성형 AI를 전혀 쓰지 않았다고 못 박았다. '사람이 만들었다'는 선언이 이제 작품의 마케팅 자산이자 납품 요건이 되는 흐름을 보여준다.",
-      "published_iso": "2026-09-19T00:40:52+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg?w=1024",
-      "excerpt": "Despite 'VisionQuest's subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made."
+      "axis": "editing-ai",
+      "headline": "More AI Editing Assistance is on the Way as Eddie AI V4 is Unveiled Ahead of IBC 2026",
+      "url": "https://nofilmschool.com/eddie-ai-v4",
+      "source": "No Film School",
+      "published_iso": "2026-09-08T19:15:05Z",
+      "excerpt": "Eddie AI's fourth version deepens the assistant-editor role — logging, selects and rough assembly — aiming at the unglamorous prep hours rather than the creative cut itself.",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739810&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "rationale": "Targets the assistant-editor hours every cutting room actually pays for, and draws the line at where the creative cut begins — a concrete workflow decision."
     },
     {
-      "headline": "The director of ‘HOPE’ breaks down those insane chase scenes, and working on mocap with Alicia Vikander and Michael Fassbender",
-      "url": "https://beforesandafters.com/2026/09/10/hope/",
-      "source": "befores & afters",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "모캡 연기와 크리처 디자인을 실제 촬영 현장의 판단 순서로 풀어낸 제작 해부. 생성 도구 뉴스 사이에서 '사람이 어떻게 설계하는가'의 레퍼런스가 된다.",
-      "published_iso": "2026-09-10T10:54:01+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg",
-      "excerpt": "Plus, how the creatures were designed for the film."
+      "axis": "neural-rendering",
+      "headline": "IBC 2026: Splats, Sync and Scene-Aware Cameras",
+      "url": "https://postperspective.com/ibc-2026-splats-sync-and-scene-aware-cameras/",
+      "source": "postPerspective",
+      "published_iso": "2026-09-21T18:26:30Z",
+      "excerpt": "A show-floor read on where production tech landed at IBC: Gaussian splat capture moving into mainstream post pipelines, AI-driven sync and metadata, and cameras that understand the scene they are recording.",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/IBC-show-filters_no_upscale-copy.jpg",
+      "rationale": "The single best read on what IBC actually settled: splat capture has crossed from demo into post pipelines, which reshapes how shoots are planned."
     },
     {
-      "headline": "What Hollywood thinks about existential AI warnings",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "source": "The Verge",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "SAG-AFTRA와 WGA가 먼 미래의 위협 대신 지금 벌어지는 계약·초상권 문제에 집중한다는 정리. 제작 현장에서 AI를 쓸 때 실제로 걸리는 조항이 무엇인지 가늠하게 한다.",
-      "published_iso": "2026-09-18T16:35:19+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "SAG-AFTRA and the WGA are focused on what’s actually happening now."
+      "axis": "hollywood-discourse",
+      "headline": "Tom Cruise Says AI Is 'Coming and It's Going to Happen,' but 'People Want to See Real Things'",
+      "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+      "source": "Variety",
+      "published_iso": "2026-09-21T21:38:10Z",
+      "excerpt": "Accepting a BAFTA fellowship, Tom Cruise delivered a six-minute defense of human-made cinema, conceding AI is inevitable in production but arguing audiences still come for real stunts, real faces and real craft.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2244079766.jpg",
+      "rationale": "The most consequential voice in practical filmmaking drawing the line himself — inevitability of the tool, primacy of the real take — and it sets the pitch-room framing."
     },
     {
-      "headline": "Battling Misconceptions and Figuring Out Use Cases: Entertainment Leaders Navigate AI’s Place in the Industry",
-      "url": "https://variety.com/2026/biz/news/battling-misconceptions-and-figuring-out-ai-entertainment-1236866336/",
-      "source": "Variety",
+      "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "엔터·테크 양쪽 실무자가 한자리에서 '어디에 쓰면 되는가'를 구체적 용례로 좁혀 간 패널. 도입을 설득하거나 반대로 선을 그을 때 쓸 근거가 모여 있다.",
-      "published_iso": "2026-09-18T00:45:21+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/ARZ_0848.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Several entertainment and tech personalities discussed AI during Variety's “Entertainment and Media in the Age of AI” panel on Thursday."
+      "axis": "vfx-craft-video",
+      "headline": "2D AI worlds breaking camera tracking",
+      "url": "https://www.youtube.com/shorts/p4WTGaH-oKc",
+      "source": "fxguide (YouTube)",
+      "published_iso": "2026-09-20T14:00:37Z",
+      "excerpt": "fxguide explains the concrete failure mode when 2D generative world models meet a real VFX pipeline: there is no consistent 3D geometry underneath, so camera tracking and matchmove fall apart.",
+      "og_image": "https://i.ytimg.com/vi/p4WTGaH-oKc/maxresdefault.jpg",
+      "rationale": "Names the exact point where generative footage stops being usable downstream — the test to run before a 2D world model enters a matchmove-dependent shot."
     }
   ],
-  "notes": [
-    "content-dedup drop: AWN 'Lightstorm Vision acquires Outsyders' = already published 2026-09-17 (movies-lightstorm-outsyders, postPerspective) — same deal, different outlet",
-    "content-dedup drop: postPerspective 'Resolve 21.1 integrates AI assistants' = already published 2026-09-19 (movies-resolve-ai-line, RedShark) — same 21.1 release",
-    "content-dedup drop: THR 'Tilly Norwood glitches during Piers Morgan interview' = already published 2026-09-19 (movies-tilly-norwood-malfunction, Deadline) — same incident",
-    "within-pool dedup: Adobe Generative Media in Premiere was covered by 3 candidates (RedShark 09-12, ProVideo Coalition 09-14, The Verge 09-08). Kept PVC only — the dedicated debut piece, and it keeps 5 distinct outlets. RedShark was additionally avoided because 2026-09-19 already ran RedShark's IBC2026 Adobe booth piece (After Effects AI Assistant)",
-    "diversity guard: 5 distinct outlets (ProVideo Coalition, Deadline, befores & afters, The Verge, Variety), max 1 per outlet; single-category section so accents pulled from sources.json palette"
+  "dropped": [
+    {
+      "url": "https://deadline.com/2026/09/tom-cruise-ai-filmmaking-bafta-1237109599/",
+      "reason": "within-pool duplicate — same BAFTA speech as the Variety pick"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
+      "reason": "already published 2026-09-19 as movies-tilly-norwood-malfunction (Deadline), same Piers Morgan interview event"
+    },
+    {
+      "url": "https://theasc.com/article/blackmagic-design-updates-davinci-resolve-2/",
+      "reason": "already published 2026-09-19 as movies-resolve-ai-line (RedShark), same DaVinci Resolve 21.1 AI-assistant release"
+    }
   ]
 }

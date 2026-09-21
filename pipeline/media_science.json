@@ -1,32 +1,37 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-22",
   "section": "science",
+  "generated_by": "ax-media",
   "media": [
     {
-      "id": "science-alphagenome-atlas",
-      "type": "video",
-      "src": "pipeline/media/science-alphagenome-atlas.mp4",
-      "poster": "pipeline/media/science-alphagenome-atlas.jpg"
+      "id": "science-unify-cell-atlas",
+      "type": "image",
+      "src": "pipeline/media/science-unify-cell-atlas.jpg",
+      "origin": "in-article figure (scx1.b-cdn.net)"
     },
     {
-      "id": "science-ai-lab-bottleneck",
+      "id": "science-physical-ai-hardware",
       "type": "image",
-      "src": "pipeline/media/science-ai-lab-bottleneck.jpg"
+      "src": "pipeline/media/science-physical-ai-hardware.jpg",
+      "origin": "in-article figure (scx1.b-cdn.net)"
     },
     {
-      "id": "science-ai-bioweapon-warning",
+      "id": "science-agent-scarcity-sandbox",
       "type": "image",
-      "src": "pipeline/media/science-ai-bioweapon-warning.jpg"
+      "src": "pipeline/media/science-agent-scarcity-sandbox.jpg",
+      "origin": "in-article lead image (futurecdn)"
     },
     {
-      "id": "science-mit-hardflow",
+      "id": "science-geriatric-prognostic-ai",
       "type": "image",
-      "src": "pipeline/media/science-mit-hardflow.jpg"
+      "src": "pipeline/media/science-geriatric-prognostic-ai.jpg",
+      "origin": "article lead image (statnews uploads)"
     },
     {
-      "id": "science-llm-harsher-society",
+      "id": "science-carotid-handheld-ai",
       "type": "image",
-      "src": "pipeline/media/science-llm-harsher-society.jpg"
+      "src": "pipeline/media/science-carotid-handheld-ai.jpg",
+      "origin": "source study figure 1, Annals of Family Medicine 24/5/437 (EurekAlert og:image is a logo)"
     }
   ]
 }
