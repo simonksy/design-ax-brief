@@ -1281,7 +1281,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
             style={insightsActive
               ? { background: '#7928ca', color: '#fff', border: '1px solid #7928ca' }
               : { background: 'rgba(121,40,202,.08)', color: '#7928ca', border: '1px solid #7928ca' }}>
-            ✦ Insights
+            ✦ Knowledge Graph
           </button>
           <span aria-hidden style={{ alignSelf: 'center', color: t.rule, fontSize: 15, padding: '0 3px', userSelect: 'none' }}>|</span>
         </React.Fragment>
