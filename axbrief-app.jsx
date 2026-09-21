@@ -1429,7 +1429,8 @@ function InsightsView({ t, mobile }) {
     // 선택 클러스터와 호버 프리뷰 클러스터는 공존 — 호버로 기존 선택이 회색이
     // 되지 않고, 다른 노드를 '클릭'해야 선택이 교체된다.
     const inCluster = (center, id) => !!(center && (id === center || (D.nb[center] && D.nb[center][id])));
-    const hovId = () => (hoverRef.current ? hoverRef.current.id : null);
+    let dragId = null;   // 드래그 중인 노드 — 호버와 동일하게 클러스터·엣지 하이라이트
+    const hovId = () => (hoverRef.current ? hoverRef.current.id : dragId);
     const secColor = (n) => INSIGHTS_COLORS[n.section] || '#8a8377';
 
     const g = ForceGraph3D({ controlType: 'orbit', rendererConfig: { antialias: true, powerPreference: 'high-performance' } })(el)
@@ -1514,6 +1515,13 @@ function InsightsView({ t, mobile }) {
         hoverRef.current = next;
         el.style.cursor = next ? 'pointer' : 'default';
         restyle();
+      })
+      .onNodeDrag((n) => {
+        const id = n ? n.id : null;
+        if (id !== dragId) { dragId = id; restyle(); }
+      })
+      .onNodeDragEnd(() => {
+        if (dragId) { dragId = null; restyle(); }
       })
       .onNodeClick((n) => {
         if (!n) return;
