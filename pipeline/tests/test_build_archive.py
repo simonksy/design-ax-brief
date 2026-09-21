@@ -94,7 +94,54 @@ def test_main_idempotent(tmpdir):
     print("PASS main_idempotent")
 
 
+def test_terms():
+    t = build_archive._terms({"headline": "DeepSeek가 미국 수출규제를 피했다",
+                              "body": "AI 모델 공개, Figma and the tools"})
+    assert "deepseek" in t and "figma" in t
+    assert "수출규제" in t, t          # josa 를 stripped
+    assert "ai" not in t and "the" not in t and "and" not in t
+    assert "모델" not in t and "공개" not in t      # Korean stopwords
+    assert not any(x.endswith("다") for x in t)     # predicates dropped
+    print("PASS terms")
+
+
+def test_graph():
+    archive = []
+    mk = lambda cid, hl: card(cid, headline=hl, body="")
+    build_archive.fold(archive, sectioned("design", "2026-09-01", [
+        mk("a", "DeepSeek 모델 분석"), mk("b", "DeepSeek 후속 보도"),
+        mk("c", "무관한 타이포그래피 소식")]))
+    g = build_archive.build_graph(archive)
+    assert len(g["nodes"]) == 3
+    ids = {(l["source"], l["target"]) for l in g["links"]}
+    assert ("design/a", "design/b") in ids          # shared rare keyword
+    assert not any("design/c" in p for p in ids)    # no shared terms → isolated
+    link = g["links"][0]
+    assert "deepseek" in link["kw"]
+    byid = {n["id"]: n for n in g["nodes"]}
+    assert byid["design/a"]["val"] == 2 and byid["design/c"]["val"] == 1
+    js = build_archive.graph_to_js(g)
+    node = subprocess.run(["node", "--check", "/dev/stdin"], input=js,
+                          capture_output=True, text=True,
+                          env={**os.environ, "NODE_OPTIONS": ""})
+    assert node.returncode == 0, node.stderr
+    print("PASS graph")
+
+
+def test_graph_df_cap():
+    # a term above DF_MAX must not wire the graph
+    archive = []
+    cards = [card(f"c{i}", headline=f"공통어휘 이야기 {i}", body="") for i in range(30)]
+    build_archive.fold(archive, sectioned("design", "2026-09-01", cards))
+    g = build_archive.build_graph(archive)
+    assert g["links"] == [], f"df>{build_archive.DF_MAX} term must create no edges"
+    print("PASS graph_df_cap")
+
+
 if __name__ == "__main__":
+    test_terms()
+    test_graph()
+    test_graph_df_cap()
     test_fold_and_dedup()
     test_full_stripped()
     test_old_schema_and_days()
