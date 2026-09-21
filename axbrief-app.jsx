@@ -1426,7 +1426,7 @@ function InsightsView({ t, mobile }) {
       .nodeId('id')
       .nodeRelSize(3.4)
       .nodeVal((n) => Math.max(1, n.val || 1))
-      .nodeOpacity(0.92)
+      .nodeOpacity(1)
       .nodeResolution(12)         // 매끄러운 구 (드로우콜 최적화로 여유 확보)
       .enableNodeDrag(false)      // 노드 드래그 레이캐스트·물리 재가열 차단 (조작 빠릿하게)
       .warmupTicks(60)
@@ -1543,12 +1543,12 @@ function InsightsView({ t, mobile }) {
     // 지구본 자전 — OrbitControls autoRotate. 줌은 항상 타깃(초기 중심점) 기준,
     // 팬을 꺼서 중심점이 흐트러지지 않게 한다.
     try { g.renderer().setPixelRatio(Math.min(1.5, window.devicePixelRatio || 1)); } catch (e) {}
-    // 깊이 페이드(안개) — 구 뒤쪽 노드일수록 배경색으로 흐려져 입체감이 살아난다
-    try {
-      const T = window.THREE;
-      if (T && T.FogExp2) g.scene().fog = new T.FogExp2('#f3ecdf', 0.0015);
-    } catch (e) {}
     const controls = g.controls();
+    // 시점을 적도 부근으로 제한 — 극지방에서 내려다보면 Y축 자전이 반시계
+    // 회오리처럼 보인다. 상하 궤도각을 54°~126°로 클램프해 지구본처럼
+    // 좌우로 흐르는 자전을 유지한다.
+    controls.minPolarAngle = Math.PI * 0.3;
+    controls.maxPolarAngle = Math.PI * 0.7;
     // 클릭한 노드가 정면에 오도록 — 중심·거리는 그대로 두고 카메라만 궤도 회전
     const faceNode = (node) => {
       try {
@@ -1558,6 +1558,13 @@ function InsightsView({ t, mobile }) {
         const dir = new V3(node.x - tgt.x, node.y - tgt.y, node.z - tgt.z);
         if (dir.lengthSq() < 1) return;   // 중심 근처 노드는 회전 불필요
         dir.normalize();
+        // 수직 성분 클램프 — 극 노드를 향해도 카메라는 적도권에 남는다
+        const maxY = 0.55;
+        if (Math.abs(dir.y) > maxY) {
+          const h = Math.sqrt(dir.x * dir.x + dir.z * dir.z) || 1e-6;
+          const s = Math.sqrt(1 - maxY * maxY) / h;
+          dir.x *= s; dir.z *= s; dir.y = Math.sign(dir.y) * maxY;
+        }
         const dist = g.camera().position.clone().sub(tgt).length();
         g.cameraPosition(
           { x: tgt.x + dir.x * dist, y: tgt.y + dir.y * dist, z: tgt.z + dir.z * dist },
@@ -1580,7 +1587,32 @@ function InsightsView({ t, mobile }) {
     setRotate(true);
     g.__setRotate = setRotate; g.__restyle = restyle;   // 카루셀 핸들러에서 사용
     let fitted = false;
-    g.onEngineStop(() => { if (!fitted) { fitted = true; g.zoomToFit(600, 40); } });
+    g.onEngineStop(() => {
+      if (fitted) return;
+      fitted = true;
+      g.zoomToFit(600, 40);
+      // fit 후 적도 높이로 정렬 — 처음부터 지구본 자전처럼 보이게
+      setTimeout(() => {
+        try {
+          const tgt = controls.target, cam = g.camera();
+          const ox = cam.position.x - tgt.x, oy = cam.position.y - tgt.y, oz = cam.position.z - tgt.z;
+          const dist = Math.sqrt(ox * ox + oy * oy + oz * oz);
+          const horiz = Math.sqrt(ox * ox + oz * oz) || 1e-6;
+          const k = Math.sqrt(dist * dist - (dist * 0.12) * (dist * 0.12)) / horiz;
+          g.cameraPosition({ x: tgt.x + ox * k, y: tgt.y + dist * 0.12, z: tgt.z + oz * k },
+            { x: tgt.x, y: tgt.y, z: tgt.z }, 700);
+          // 구 반경 기준으로 안개 재보정: 앞면은 또렷, 뒷면만 페이드
+          let R = 0;
+          g.graphData().nodes.forEach((n) => {
+            const d2 = (n.x || 0) ** 2 + (n.y || 0) ** 2 + (n.z || 0) ** 2;
+            if (d2 > R) R = d2;
+          });
+          R = Math.sqrt(R);
+          const fog = g.scene().fog;
+          if (fog) { fog.near = Math.max(50, dist - R * 0.1); fog.far = dist + R * 1.8; }
+        } catch (e) {}
+      }, 700);
+    });
     graphRef.current = g;
     window.__axi.g = g;   // 콘솔 검증용
     // 상시 이펙트 루프 — 선택된 노드와 이웃은 살짝 커진 채 깜빡이고(스케일·투명도
@@ -1600,8 +1632,9 @@ function InsightsView({ t, mobile }) {
         });
         if (meshMat && !g.scene().fog) {
           const ColorC = meshMat.color.constructor;   // THREE.Color
-          // 깊이 페이드 — FogExp2와 동일한 duck-type 객체 (렌더러는 플래그·color·density만 읽는다)
-          g.scene().fog = { isFogExp2: true, color: new ColorC('#f3ecdf'), density: 0.0015 };
+          // 선형 안개(duck-type) — 구 앞면(near 안쪽)은 100% 원색, 뒷면만 배경으로
+          // 가라앉는다. near/far는 fit 후 카메라 거리·구 반경 기준으로 재보정(refit).
+          g.scene().fog = { isFog: true, color: new ColorC('#f3ecdf'), near: 700, far: 2200 };
         }
         if (lineObj && !baseLines) {
           const GeoC = lineObj.geometry.constructor;
