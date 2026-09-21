@@ -161,7 +161,8 @@
     <div class="count" id="count"></div>
   </header>
   <div class="controls">
-    <div class="views">
+    <!-- 네트워크 뷰는 본 앱의 Insights(Pro 전용) 메뉴로 이동 — 여기는 리스트 전용 -->
+    <div class="views" hidden>
       <button class="view-btn on" id="v-list">List</button>
       <button class="view-btn" id="v-graph">Network</button>
     </div>
@@ -524,7 +525,8 @@
   };
 
   rebuild();
-  if (location.hash === "#network" || location.hash === "#graph") enterGraph();
+  // 구 딥링크(#network/#graph)는 본 앱의 Insights 메뉴로 안내
+  if (location.hash === "#network" || location.hash === "#graph") location.replace("/#insights");
 })();
 </script>
 </body>
