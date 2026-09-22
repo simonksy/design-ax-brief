@@ -1,0 +1,65 @@
+{
+  "section": "books",
+  "items": [
+    {
+      "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-09-16T18:05:34+00:00",
+      "og_image": "",
+      "excerpt": "A Stanford team's Nature paper introduces Paper2Agent, an automated framework that converts research papers into interactive AI agents, turning static publications into active systems readers can query.",
+      "category": "books"
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-14T09:30:46+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2024/09/prwlogorectangle.jpg",
+      "excerpt": "For Peer Review Week 2026 the Chefs name uncomfortable truths about review capacity, with AI writing assistants swelling submissions and reviewers quietly using AI despite few journal policies.",
+      "category": "books"
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-11T09:30:55+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/oroubouros.jpg",
+      "excerpt": "A guest post argues scholarly publishing debates AI governance on stage while staff quietly use AI to get work done, and asks what incentive structures keep the industry from adapting.",
+      "category": "books"
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-18T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131537-1.PNG",
+      "excerpt": "Audio and AI lead Frankfurt 2026's program, including an 'AI Narration Beyond the Lab' debate with Storytel, Blinkist and Hörbuch Hamburg on where synthetic narration works and listener acceptance.",
+      "category": "books"
+    },
+    {
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-09-09T09:27:20+00:00",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-15-06-1.png",
+      "excerpt": "Clarivate's Pulse of the Library 2026 finds a widening gap between libraries actively implementing AI and those still experimenting; 16% globally report moderate-to-active AI implementation.",
+      "category": "books"
+    },
+    {
+      "url": "https://authors.spotify.com/blog/creationtools",
+      "source": "Spotify for Authors",
+      "title": "Turn Your Book Into an Audiobook in Minutes with Spotify for Authors",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "og_image": "https://authors.spotify.com/assets/blog/Header_ACT.webp",
+      "excerpt": "Spotify expanded its ElevenLabs-powered Audiobook Creation Tools beyond beta to all US self-published authors: upload a manuscript, pick an AI narration voice, and publish a free, non-exclusive audiobook in minutes.",
+      "category": "books",
+      "ai_mentions": 7
+    },
+    {
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "source": "The Guardian",
+      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
+      "published_iso": "2026-09-17T11:00:46Z",
+      "og_image": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7",
+      "excerpt": "Guardian reporters and experts recommend the books that explain how the AI industry got here and where it is headed, amid a chaotic moment reshaping our lives.",
+      "category": "books",
+      "ai_mentions": 45
+    }
+  ]
+}

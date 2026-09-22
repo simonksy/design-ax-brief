@@ -1,128 +1,66 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "gadgets",
-  "generated_by": "ax-curator",
-  "selection_mode": "auto (user deferred)",
   "picks": [
     {
-      "rank": 1,
-      "headline": "These are the first five Googlebook laptops",
-      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "source": "The Verge",
-      "published_iso": "2026-09-21T13:01:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Would you buy one of the new Googlebooks at these prices?",
+      "url": "https://www.digitaltrends.com/phones/qualcomms-new-flagship-chips-go-big-on-5ghz-speeds-agentic-ai-and-of-course-gaming/",
+      "source": "Digital Trends",
+      "headline": "Qualcomm's new flagship chips go big on 5GHz speeds, agentic AI, and, of course, gaming",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A whole new laptop category ships at once from Acer, Asus, HP, Lenovo and Dell — the first concrete spec-and-price picture of Google's ChromeOS/Android merge."
+      "rationale": "Official Snapdragon 8 Elite Gen 6 launch framed around on-device agentic AI -- the silicon behind next year's Android flagships; distinct from the earlier pre-launch NPU leak; chosen over CNET/XDA duplicates.",
+      "published_iso": "2026-09-22T20:00:00Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Qualcomm-Snapdragon-8-Elite-Extreme-Gen-6-Featured.jpg?resize=1200%2C630",
+      "excerpt": "Qualcomm's Snapdragon 8 Elite Gen 6 family reaches 5GHz and doubles down on agentic AI, while the new Extreme tier adds serious gaming and camera upgrades."
     },
     {
-      "rank": 2,
-      "headline": "Apple's M6 Mac Mini Is Perfect for the AI Curious",
-      "url": "https://www.wired.com/review/apple-mac-mini-m6/",
-      "source": "WIRED",
-      "published_iso": "2026-09-21T13:00:00Z",
-      "og_image": "https://media.wired.com/photos/6aae22b9dc76ce434d3ced2e/191:100/w_1280,c_limit/Review--Apple-Mac-Mini-(M6)-2.jpg",
-      "excerpt": "Apple has refreshed the Mac Mini with a brand new chip, the M6. And this time, it's more focused on AI than ever.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "headline": "Rabbit's new AI agent doesn't need an R1 to run",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "The cheapest way into Apple silicon is now tuned for running models locally — a real buying decision for anyone weighing a local-AI desktop."
+      "rationale": "Rabbit moves OS3 off its own hardware to a cross-platform agent -- a telling pivot for dedicated AI gadgets; Verge taken over the WIRED duplicate to keep WIRED free for Vonder.",
+      "published_iso": "2026-09-22T20:52:40Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Rabbit still isn't giving up on AI hardware, though."
     },
     {
-      "rank": 3,
-      "headline": "Apple Smart Home Display Coming as Soon as Next Month",
-      "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
-      "source": "MacRumors",
-      "published_iso": "2026-09-21T15:30:37Z",
-      "og_image": "https://images.macrumors.com/t/OUftIzGsXO_jjRdofXZXcypsL88=/2000x/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg",
-      "excerpt": "Apple could unveil its long-rumored smart home display as soon as October, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman narrows Apple's launch window after he said in August that the smart home display remained on track to arrive before the end of",
+      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
+      "source": "9to5Mac",
+      "headline": "Apple has reportedly 'postponed' AI pendant product",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "Gurman narrows Apple's first new product category in years to October, putting an Apple-shaped rival next to Google's and Amazon's smart displays."
+      "rationale": "Bloomberg-sourced report that Apple shelved its camera-equipped AI pin/pendant -- a signal on the AI-wearable category; 9to5Mac chosen over MacRumors (on-topic pin image, MacRumors already ran today's Apple rumor).",
+      "published_iso": "2026-09-22T19:01:44Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A new Bloomberg report today from Mark Gurman says a forthcoming AI product—the rumored wearable pendant—has been put on hold."
     },
     {
-      "rank": 4,
-      "headline": "Meta Reportedly Unveiling Next-gen MR Headset at Connect, Hologram-like Call Experience",
-      "url": "https://roadtovr.com/meta-project-phoenix-connect-unveiling-codec-avatar/",
-      "source": "Road to VR",
-      "published_iso": "2026-09-16T12:20:56Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/sensors-phoenix.jpg",
-      "excerpt": "Meta isn't only rumored to unveil its next-gen mixed reality headset next week, but also a photorealistic \"hologram-like\" call function using its latest avatars. Images of Meta's upcoming Project Phoenix headset have already leaked ahead of Meta's Connect developer conference next week, which strong",
+      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "source": "WIRED",
+      "headline": "Viture's Vonder Glasses Are Meant to Map Your Mind",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Leaked Project Phoenix images plus a photoreal codec-avatar calling feature set the agenda for Meta Connect on Sept 23-24."
+      "rationale": "New product: camera-free, display-free AI glasses built around private voice capture -- a fresh design answer to the smart-glasses privacy problem; WIRED over the Tom's Guide duplicate.",
+      "published_iso": "2026-09-22T13:00:00Z",
+      "og_image": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png",
+      "excerpt": "No cameras? No problem. Viture's first display-free smart glasses have bone-conduction microphones to privately record your daily musings."
     },
     {
-      "rank": 5,
-      "headline": "AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-      "source": "9to5Mac",
-      "published_iso": "2026-09-21T19:55:41Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?resize=1200,628",
-      "excerpt": "Global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns.",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "source": "Ars Technica",
+      "headline": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Hard numbers behind the smart-glasses boom: display-less models take 96% of shipments and Meta leads, just as Apple readies its own entry."
+      "rationale": "Actionable security finding: a ClickFix-style attack can fully hijack Meta's top-charting Muse agent -- the single strongest of the three Muse angles (CNET Amazon block and WIRED privacy review dropped).",
+      "published_iso": "2026-09-21T22:24:38Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "excerpt": "A simple ClickFix attack is only one way to completely hijack the new agent."
     }
-  ],
-  "dropped_as_duplicates": [
-    {
-      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
-      "reason": "Same The Information report already published 2026-09-18 as gadgets-meta-no-camera (Road to VR)."
-    },
-    {
-      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
-      "reason": "visionOS 27 launch already covered in the 2026-09-15 iOS 27 launch card (The Verge)."
-    },
-    {
-      "url": "https://9to5google.com/2026/09/16/google-home-mcp/",
-      "reason": "Same Google Home MCP announcement published 2026-09-17 (The Verge)."
-    },
-    {
-      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-      "reason": "Same Snap Specs launch event published 2026-09-18 (WIRED)."
-    },
-    {
-      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
-      "reason": "Follow-up to the same Snap Specs launch event already published 2026-09-18 (WIRED)."
-    },
-    {
-      "url": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history",
-      "reason": "Within-pool duplicate of the Googlebook launch; kept the stronger hands-on breakdown."
-    },
-    {
-      "url": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
-      "reason": "Within-pool duplicate of the same Bloomberg smart-display report; kept MacRumors."
-    },
-    {
-      "url": "https://www.androidauthority.com/smart-glasses-shipments-statistics-3713810/",
-      "reason": "Within-pool duplicate of the same H1 2026 smart-glasses shipment report; kept 9to5Mac."
-    },
-    {
-      "url": "https://www.cnet.com/tech/computing/m6-mac-mini-first-look-bigger-power-packed-in-same-small-package/",
-      "reason": "Within-pool duplicate of the M6 Mac mini launch; kept the WIRED review."
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/21/m5-ultra-mac-studio-review-roundup-a-local-ai-powerhouse/",
-      "reason": "Within-pool duplicate of the Mac Studio M5 review roundup (also MacRumors); dropped to avoid three Apple-desktop cards."
-    },
-    {
-      "url": "https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/",
-      "reason": "iOS 27 Siri AI rollout already published 2026-09-15 (The Verge); also an Engadget same-topic pair."
-    },
-    {
-      "url": "https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/",
-      "reason": "Same iOS 27 Siri story as above, reworded."
-    }
-  ],
-  "diversity_check": {
-    "outlets": ["The Verge", "WIRED", "MacRumors", "Road to VR", "9to5Mac"],
-    "max_per_outlet": 1,
-    "distinct_outlets": 5
-  }
+  ]
 }

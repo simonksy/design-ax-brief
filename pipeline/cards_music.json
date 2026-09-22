@@ -1,229 +1,261 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "music",
-  "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "music-komca-ai-registration-withdrawn",
+      "id": "music-snapchat-chat-to-song",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 손댄 곡도 등록한다던\nKomca가 방침을 거뒀다",
-      "mini_headline": "Komca, 방침 철회",
-      "body": "비판과 정부의 공론화 요구가 이어지자 Komca가 그 방침을 접었다.",
+      "headline": "스냅챗, 대화를 노래로 바꾸는\n'Chat to Song' 기능 공개",
+      "body": "스냅챗이 대화를 AI 노래로 바꿔 주는 기능을 유료 구독자에게 내놓았다.",
+      "mini_headline": "스냅챗 대화가 노래로",
       "tool": "Music",
       "source": "Music Ally",
-      "url": "https://musically.com/2026/09/21/south-koreas-komca-withdrew-plans-to-register-ai-assisted-music/",
+      "url": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "올여름 한국음악저작권협회(Komca)는 'AI 협업' 음악도 저작물로 등록받겠다고 밝혔다. 조건은 하나였다. 가사와 작곡, 편곡에 사람의 창작적 기여가 들어 있을 것."
-          },
-          {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2025/09/South-Korea-flag.jpg?fit=780%2C585&ssl=1"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-22T112534.130.png?fit=2000%2C1500&ssl=1"
           },
           {
             "t": "p",
-            "x": "그 계획이 접혔다. 비판이 이어졌고, 한국 정부에서도 편지가 왔다. 코리아타임스의 표현을 빌리면 '더 폭넓은 공론화'를 요구하는 내용이었다."
+            "x": "올해 초 틱톡에서 '텍스트 투 송' 열풍이 불었다. 사람들이 메시지 대화를 통째로 Suno에 넣어 노래를 만들었고, 그중 몇 곡은 입소문을 탔다."
           },
           {
             "t": "p",
-            "x": "이 결정이 이번 주 다시 입에 오른 데는 계기가 있다. 'Forest of the Heart'라는 AI 생성 트랙이 국내 스트리밍 서비스 멜론의 톱 100 차트에 들어갔다. Joseon HipHop이 내놓은 이 곡은 Suno로 만들어졌고, 가사는 아티스트가 직접 썼다. 한 곡이 저작권 보호를 받으려면 사람 손이 얼마나 들어가야 하는가. 그 해묵은 물음에 곧바로 맞물린다."
+            "x": "유행이 화제가 되자 Suno의 아이폰 앱은 미국 애플 앱스토어 차트 1위까지 올랐다. Suno는 발 빠르게 메시지 스크린숏을 가사 프롬프트로 바꿔 주는 기능을 붙였다."
           },
           {
             "t": "p",
-            "x": "성적은 냉정하게 볼 필요가 있다. 이 곡은 톱 100 차트 89위, 일간 차트 99위까지 올랐다가 다시 빠졌다. 대형 히트와는 거리가 멀지만, 앞으로 벌어질 일의 조짐으로 읽히고 있다."
+            "x": "Snap도 이 흐름을 지켜보고 있었던 게 분명하다. 스냅챗 앱에 비슷한 'Chat to Song' 기능을 막 내놓았다. 다만 지금은 유료 구독 Lens+ 가입자만 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "코리아타임스에 따르면 Komca와 국내 음악 단체들은 AI 탐지 프로그램을 함께 만들 기술 파트너를 고르는 중이다. AI 음악을 어떻게 다룰지를 두고 정부, 정책 담당자와의 대화도 함께 이어가고 있다."
+            "x": "Snap은 블로그에서 새 기능을 이렇게 소개했다. \"채팅 메시지를 짧은 오리지널 곡으로 바꿔 보세요. 채팅에서 메시지를 길게 누르고 '노래 만들기'를 고른 뒤 장르를 선택하면, 대화를 음악에 실은 버전이 만들어집니다.\""
+          },
+          {
+            "t": "p",
+            "x": "궁금한 점이 몇 가지 있다. 스냅챗이 직접 만든 AI 음악 모델일까, 파트너사 모델일까. 파트너라면 어디일까. 그 모델은 어떤 음악으로 학습했고, 상업 음원이었다면 라이선스는 받았을까."
+          },
+          {
+            "t": "p",
+            "x": "답을 기다리는 동안 확인된 사실도 있다. 생성된 노래는 친구에게 보낼 때 표시가 붙는다. Snap 블로그의 스크린숏에는 'AI Song' 라벨과 함께, 스냅챗이 생성형 AI 콘텐츠를 알릴 때 쓰는 반짝이 로고가 보인다."
           }
         ]
       }
     },
     {
-      "id": "music-suno-second-suit-v6",
+      "id": "music-impc-pro2-update3",
       "eyebrow": "AI NEWS",
-      "headline": "유니버설·소니, Suno v6도\n같은 독나무의 열매다",
-      "mini_headline": "Suno 2차 소송",
-      "body": "v6 모델까지 같은 독나무의 열매라며 녹음 6만202건을 걸고 다시 제소했다.",
+      "headline": "아카이 iMPC Pro 2 3.0 업데이트,\nAUv3 플러그인과 스템 분리 지원",
+      "body": "3.0 업데이트부터 앱을 AUv3 플러그인으로 쓰고 AI로 스템도 나눈다.",
+      "mini_headline": "iMPC Pro 2 스템 분리",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
+      "source": "Synth Anatomy",
+      "url": "https://synthanatomy.com/2026/09/akai-impc-pro-2-ios-macos-update-3-0-brings-auv3-plugin-support-stem-separation-and-more.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Akai-iMPC-Pro-2-update-3.0.jpg"
+          },
+          {
             "t": "p",
-            "x": "유니버설 뮤직 그룹과 소니 뮤직이 Suno를 두 번째로 법정에 세웠다. 9월 18일 금요일 보스턴 연방법원에 낸 공동 소장은, Suno가 라이선스 없이 두 회사의 사운드 레코딩 6만202건을 복제해 음악 생성 서비스를 돌리는 모델을 만들었다고 주장한다."
+            "x": "Retronyms가 iOS·macOS용 Akai iMPC Pro 2의 3.0 업데이트를 내놓았다. 앱을 AUv3 플러그인으로 띄울 수 있게 됐고, 스템 분리 기능도 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "iMPC Pro 2는 2017년에 나온 iPadOS·macOS용 비트메이킹 앱이다. MPC 작업 방식을 옮겨 와 샘플러와 가상 MPC 패드, 시퀀서를 갖췄다. 만든 곳은 Akai가 아니라 미국 개발사 Retronyms다. 2025~2026년에는 버그 수정 몇 번 말고는 큰 업데이트가 없었다."
+          },
+          {
+            "t": "p",
+            "x": "2.0부터는 앱 안에서 AUv3 플러그인을 불러올 수 있었다. 3.0은 거꾸로 앱 자체를 AUM, Cubasis 같은 호스트에서 AUv3 플러그인으로 쓰게 해 준다. 작업 환경이던 앱이 보통의 가상 악기처럼 쓰이는 것이다. 애플 실리콘 macOS에서는 Ableton Live 같은 DAW에서도 돌아간다지만, 지금은 macOS 버전이 충돌해 쓰기 어렵다."
           },
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/07/shutterstock_2481370157.jpg"
+            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Akai-iMPC-Pro-2-update-3.0-.jpg"
           },
           {
             "t": "p",
-            "x": "미국 저작권법은 고의 침해에 저작물 한 건당 최대 15만 달러를 물린다. 6만202건에 이 상한을 곱하면 이론상 90억 달러를 조금 넘는다. YouTube의 다운로드 방지 기술을 우회한 행위에는 한 건당 최대 2500달러가 따로 붙는데, 녹음마다 한 번씩만 세어도 1억5000만 달러가 더해진다."
+            "x": "또 하나의 핵심은 새 웨이브폼 편집기에 들어간 AI 스템 분리다. 곡을 보컬, 베이스, 드럼, 나머지 네 스템으로 나눈다. 아쉽게도 비싼 구독을 해야 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "새 소장의 표적은 9월 9일 공개된 v6다. Suno는 이 모델을 워너 뮤직 그룹, BMG, Believe와 함께 만들었다고 밝혔고, 최고제품책임자 Jack Brody는 출시 당시 MBW에 'v6는 완전히 처음부터, 바닥부터 학습했다'며 학습 데이터에 '유니버설이나 소니의 데이터는 들어 있지 않다'고 말했다."
+            "x": "애플 파일 앱과 연동돼 프로젝트와 믹스다운, 스템을 iOS가 지원하는 어느 위치로든 쉽게 주고받는다. 트리거 패드·턴테이블·웨이브폼 화면 사이의 드래그 앤 드롭, 더 유연한 박자 선택, 재생에 맞춰 흐르는 가사 메모도 추가됐다. 다만 3.0에도 새 버그가 있어 Retronyms가 손봐야 한다."
+          },
+          {
+            "t": "video",
+            "yt": "oh-aou0iVQY"
           },
           {
             "t": "p",
-            "x": "원고 측은 그 해명이 책임을 지우지 못한다고 본다. '침해 모델의 출력물로 새 모델을 학습시키는 것은 침해를 없애지 않는다. 세탁할 뿐이다.' 소장은 그렇게 적은 뒤 'v6는 새 출발이 아니라 같은 독나무에서 난 열매'라고 덧붙였다. Suno가 v6 학습에 이전 모델과의 '사용자 상호작용'을 썼다고 인정한 대목이 근거로 인용됐다."
-          },
-          {
-            "t": "p",
-            "x": "시장 피해의 근거로는 Deezer가 등장한다. 이 회사는 2026년 7월, 플랫폼에 매일 도착하는 신곡의 절반 이상인 하루 9만 곡가량이 AI 생성물이라고 밝힌 바 있다."
-          },
-          {
-            "t": "p",
-            "x": "이번 소송은 첫 사건에서 갈라져 나왔다. 2024년 6월 제기된 소송에 녹음 6만1026건을 추가해달라는 요청을 F. Dennis Saylor IV 판사가 8월 18일 받아들이지 않으면서, 별도 소송으로 가라는 길이 열렸다. 두 회사는 사용 금지 명령과 배심 재판도 함께 요구했다."
+            "x": "3.0은 기존 사용자에게 무료다. 앱은 한시적으로 24.99달러에서 75% 내린 6.2달러, 아이폰 버전은 12.99달러에서 내린 3.29달러다. 스템 분리는 월 8.99유로 또는 연 79.99유로 구독으로 쓰며, 매달 크레딧 10개가 주어진다."
           }
         ]
       }
     },
     {
-      "id": "music-afm-new-use-clause",
+      "id": "music-sanremo-ai-rules",
       "eyebrow": "AI NEWS",
-      "headline": "세션 연주자 몫을 두고 AFM이\n유니버설·워너와 맞붙었다",
-      "mini_headline": "AFM, 메이저 제소",
-      "body": "레이블의 AI 계약에 녹음이 쓰였다면 세션 연주자도 돈을 받아야 한다는 주장이다.",
+      "headline": "이탈리아 산레모 음악제,\n참가곡의 AI 사용 엄격히 제한",
+      "body": "산레모 음악제가 2027년 대회부터 참가곡의 AI 사용을 엄격히 제한한다.",
+      "mini_headline": "산레모, AI 사용 제한",
       "tool": "Music",
-      "source": "Complete Music Update",
-      "url": "https://completemusicupdate.com/universal-and-warner-tell-judge-new-use-clause-in-afm-agreement-is-clear-and-unambiguous-and-does-not-apply-to-their-ai-deals/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/09/22/sanremo-music-festival-ai-rules/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "미국음악가연맹(AFM)은 지난 6월 유니버설 뮤직과 워너 뮤직을 걸어 소송을 냈다. 두 회사가 Udio와, 워너의 경우 Suno와 맺은 AI 라이선스 계약에서 음반노동협약(Sound Recording Labor Agreement)상 의무를 지키지 않았다는 것이다. 이달 들어 양쪽 모두 새 서면을 냈고, 메이저 두 곳은 소송 자체를 각하시키려 하고 있다."
-          },
-          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/AFM-v-UMGWMG.png"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/Ariston.jpg",
+            "cap": "2026년 산레모 음악제 당시의 아리스톤 극장. 사진: Ferdinando Traversa"
           },
           {
             "t": "p",
-            "x": "다툼은 협약 속 '새로운 사용(new use)' 조항 한 대목에 걸려 있다. 녹음물이 협약에서 예정하지 않은 방식으로 쓰이면 레이블은 그 녹음에 참여한 연주자에게 보상해야 하고, 노조에도 알려야 한다. 유니버설과 워너는 AI 계약을 두고 아직 둘 다 하지 않았다."
+            "x": "이탈리아 산레모 음악제가 AI 사용에 엄격한 규칙을 내놨다. 주최 측은 참가곡에 기계가 개입했는지 \"가능한 모든 기술\"로 확인할 권리도 쥐었다."
           },
           {
             "t": "p",
-            "x": "메이저의 논리는 이렇다. 조항은 '단 하나의 의미만 지닌다'. 새로운 목적을 다루는 별도의 AFM 협약이 있어야 그 협약에서 요율을 가져와 지급액을 정할 수 있는데, AI를 다루는 표준 협약은 아직 없다. 유니버설은 이 조항이 '명확하고 모호하지 않다'며, AFM이 계약이 분명히 말하는 바를 마주하는 대신 '흐리는 산발적 주장들'을 폈다고 적었다."
+            "x": "이 방침은 2027년 2월 16~20일에 열리는 대회의 새 규정집에 담겼다. 이탈리아음반산업연맹(FIMI)의 요청에서 나온 규정으로, AI 사용 자체를 금지하지는 않는다. 대신 참가곡은 \"인간 창의성의 표현이어야 한다\"고 못 박았다."
           },
           {
             "t": "p",
-            "x": "AFM의 반박은 짧다. '협약 당사 회사가 협약이 다루지 않는 목적에 녹음물을 사용할 때, 조문은 강제적 지급 의무를 지운다.' 전용 AI 협약이 없더라도 세션 요율, 스트리밍 요율, 샘플링 요율 같은 기존 규정이 '손해액을 정할 객관적 척도가 된다'는 것이다."
+            "x": "번역된 규정은 이렇다. \"따라서 AI 시스템이나 도구가 참가곡의 본질인 인간의 창작 기여를 대체·변경·왜곡한다면, 곡의 구상이나 작사·작곡, 프로덕션에 이를 쓸 수 없다.\""
           },
           {
             "t": "p",
-            "x": "AFM은 이 조항이 '두 가지 이상으로 해석될 여지가 충분하다'고 순순히 인정한다. 모호함이 있고 자기 해석도 '그럴듯하다'는 점만 판사가 받아들이면 각하를 피할 수 있기 때문이다. 레이블과 퍼블리셔들이 AI 계약을 줄줄이 맺는 동안, 세션 연주자에게 무엇이 돌아가는지를 말하는 쪽은 아직 거의 없다."
+            "x": "어디까지를 '변경'으로 볼지는 주관이 끼어들 수밖에 없다. 한국음악저작권협회(KOMCA)가 AI 보조 저작물 등록 정책을 냈다가 거둬들인 일과 비슷하다. 그래서 참가자들은 보조 도구, 특히 생성형 모델을 아예 피할 공산이 크다. 주관 방송사 RAI와 2027년 예술감독 Stefano De Martino가 필요하다고 보면 언제든 AI 사용을 검증할 수 있어서다."
+          },
+          {
+            "t": "p",
+            "x": "'퍼포먼스 나이트' 우승자는 5월 유로비전에 이탈리아 대표로 나간다. 기사는 AI를 전면 금지하지 않고 엄격한 선만 그은 이번 결정이 음악계에서 AI가 선 자리를 보여 준다고 봤다. 생성형 AI를 비판하는 창작자가 많은 한편 작품에 썼다고 밝히는 이도 있고, 대형 라이선스 계약과 거액의 침해 소송이 동시에 벌어지고 있다."
+          },
+          {
+            "t": "p",
+            "x": "공연 쪽에도 사례가 있다. 전 플랫폼 합산 팔로어 약 300만 명의 'AI 쌍둥이' Neuro-sama와 Evil Neuro가 12월 19일 오후 The Vermont Hollywood 무대에 오른다. 행사 페이지 기준으로 이미 매진됐는데, 하루 남짓 만에 1,000장 넘게 팔린 셈이다."
           }
         ]
       }
     },
     {
-      "id": "music-coronado-ai-sfx",
+      "id": "music-fake-songs-artist-pages",
       "eyebrow": "AI NEWS",
-      "headline": "생성 AI 효과음은 두렵지 않다는\n사운드 디자이너의 이유",
-      "mini_headline": "AI 효과음의 자리",
-      "body": "사운드 디자인은 결국 고르고 다듬는 큐레이션의 일이라는 게 그의 답이다.",
+      "headline": "실제 아티스트 페이지에 끼어든\n가짜 AI 곡들, 유통 허점 악용",
+      "body": "사기꾼들이 유통 허점으로 실제 아티스트 페이지에 AI 곡을 올려 로열티를 챙긴다.",
+      "mini_headline": "아티스트 페이지 가짜 곡",
       "tool": "Music",
-      "source": "Production Expert",
-      "url": "https://www.production-expert.com/production-expert-1/why-this-sound-designer-isnt-afraid-of-generative-ai-sfx",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2261435/scammers-have-been-inserting-fake-songs-onto-real-artist-pages-on-spotify-and-other-platforms/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "생성 AI 효과음 도구가 줄줄이 시장에 나오고 있다. ElevenLabs는 자연어로 묘사하면 효과음을 만들어주고, Adobe Firefly는 텍스트 프롬프트와 직접 녹음한 목소리를 가이드로 쓰게 한다. Ace Studio는 화면을 이해해 효과음을 타임라인의 제자리에 얹어준다."
-          },
-          {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/e89ee2e5-9b5c-4b76-bf73-690229c370cf/Sound+Designer+Not+Afraid+Of+Generative+AI+Sound+Effects+Services.webp"
+            "src": "https://www.engadget.com/img/gallery/scammers-have-been-inserting-fake-songs-onto-real-artists-pages-on-spotify-and-other-platforms/intro-1789662935.jpg"
           },
           {
             "t": "p",
-            "x": "Dallas Audio Post의 공동 대표이자 리드 사운드 디자이너인 René Coronado는 이 흐름이 무섭지 않다고 한다. DreamWorks와 HBO, Warner Bros 작업을 거친 사람이다. 그가 LinkedIn에 올린 글을 Production Expert가 허락을 받아 옮겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/f14e2e69-a4a3-48e2-b707-13c6c1486668/Rene%CC%81+Coronado.webp"
+            "x": "스포티파이를 비롯한 스트리밍 플랫폼에서 실제 아티스트 페이지에 가짜 곡이 올라오고 있다. 404 Media 보도에 따르면 수법은 단순하다. 생성형 AI로 조잡한 곡을 찍어 낸 뒤 음원 유통의 허점을 이용해 기존 아티스트 카탈로그에 곧장 끼워 넣는다. 곡에서 나오는 수익도 원래 아티스트가 아닌 사기꾼에게 간다."
           },
           {
             "t": "p",
-            "x": "'거대한 도끼를 튕겨내며 울리는 큰 금속 방패 소리를 만들어라.' 새 도구가 나올 때마다 그가 돌려보는 기준 테스트다. 결과는 늘 같았다. '형편없다. 이 도구들이 나온 이래 줄곧 형편없었다.' 다만 그는 단서를 달았다. '하지만 언제까지나 형편없지는 않을 것이다.'"
+            "x": "404 Media는 브루클린 밴드 Lathe of Heaven의 이름으로 직접 시험해 이 과정을 확인했다. Suno나 Udio로 곡을 만들고 앨범 커버도 생성형 AI로 뽑는다. 이어 DistroKid 같은 유통 서비스에 가입해 실제 밴드라고 거짓말만 하면 된다. 곡은 곧 스포티파이, 타이달, 애플 뮤직, 아마존 뮤직에 그 아티스트의 신곡으로 뜬다. 유통사도 플랫폼도 이를 걸러 내지 못한다."
           },
           {
             "t": "p",
-            "x": "그가 겁내지 않는 이유는 따로 있다. 사운드 디자인을 대체로 큐레이션의 기술로 보기 때문이다. 화면을 보며 손에 쥔 소품이 내는 소리를 듣고, 자기 라이브러리를 훑고, 플러그인 프리셋을 넘기고, 아직 사지 않은 라이브러리의 데모까지 들어본 다음, 마지막으로 생성 AI가 내놓은 것을 듣는다."
+            "x": "피해는 소규모 아티스트와 세상을 떠난 아티스트에게 쏠린다. 유명 뮤지션에게는 이런 일을 살피는 팀이 있기 때문이다. 스포티파이도 404 Media에 \"적극적으로 관리되지 않는 프로필이 특히 취약할 수 있다\"고 인정했다. Lathe of Heaven의 보컬은 누군가 자기들 이름으로 형편없는 곡을 올려 평판을 망칠 수 있다는 사실이 몹시 허탈하다고 말했다."
           },
           {
             "t": "p",
-            "x": "그 사이 그는 계속 묻는다. 이게 마음에 드는가, 쓸 만한 양이 나오는가, 더 구부려 원하는 쪽으로 끌고 갈 수 있는가. 소스를 고르고 쌓고 타이밍과 레벨과 팬을 만지고, 마음에 안 드는 선택은 음소거하고, RX에 넣어 크랙은 걷어내되 음색은 남긴다. 생성 AI 소스는 '불에 하나 더 얹는' 재료일 뿐이라는 게 그의 표현이다."
+            "x": "음악 그룹 Odette Child는 7월부터 이 문제를 추적해 Taylor Swift 같은 대형 가수부터 유명인, 작고한 재즈 뮤지션까지 사칭한 AI 생성 곡을 300곡 넘게 찾아냈다. 허점은 AI 이전에도 있었지만 지금은 규모가 다르다. 생성형 AI로 하루에 수백 곡을 만들어 올릴 수 있어서다."
           },
           {
             "t": "p",
-            "x": "마케팅 문구는 요란하다. 사운드 디자이너를 해고하라, 우리 도구로 직접 하라, 전문가만큼 잘 된다. 그의 대답은 한 줄이었다. '취향은 지름길로 갈 수 없다.'"
+            "x": "스포티파이는 뮤지션이 발매 전에 곡을 검토하는 도구를 만들고 있지만, 3월에 처음 발표된 뒤로도 제한 베타에 머물러 있다. 스포티파이에만 하루 약 5만 곡의 AI 생성 곡이 올라온다는 추산도 있다. 회사는 \"아티스트의 정체성 보호가 최우선\"이라며 유통사와 함께 잘못된 제출을 원천에서 막겠다고 밝혔다."
+          },
+          {
+            "t": "video",
+            "yt": "Rj_ZuSkbb40"
+          },
+          {
+            "t": "p",
+            "x": "플랫폼들이 손 놓고 있던 건 아니다. 스포티파이는 AI 생성 곡이 아님을 확인해 주는 인증 배지와, 대량 업로드·중복·SEO 꼼수 등을 걸러 내는 스팸 필터를 도입했다. 하지만 아직은 이런 조치가 제대로 먹히지 않는 모습이다."
           }
         ]
       }
     },
     {
-      "id": "music-brian-may-ai-reversal",
+      "id": "music-stem-separation-tools",
       "eyebrow": "AI NEWS",
-      "headline": "AI에 저항해야 한다는 쪽으로\n브라이언 메이가 돌아섰다",
-      "mini_headline": "브라이언 메이의 선회",
-      "body": "AI를 반기던 퀸의 기타리스트가 돌아서면서 퀸 아바타 공연 구상도 함께 식었다.",
+      "headline": "오디오 전문가를 위한\n스템 분리 도구 6종 비교",
+      "body": "스템 분리 도구 여섯 개를 비교하며 클라우드에 올리지 않는 도구도 짚었다.",
+      "mini_headline": "스템 분리 도구 6종",
       "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/artists/guitarists/brian-may-on-why-hes-changed-his-mind-on-ai-we-have-to-resist-we-have-to-control-it-very-very-seriously-and-very-quickly",
+      "source": "Production Expert",
+      "url": "https://www.production-expert.com/production-expert-1/6-stem-separation-tools-compared-for-audio-pros-in-2026",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "브라이언 메이가 AI를 두고 '생각을 바꿨다'고 말했다. 이제는 분명히 반대편에 서 있다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/9Y2aCQLRZdu5g6ESzB5rBV-1200-80.jpg"
+            "src": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa9622881664e157863df5d/1789485608514/stemSepSept26-12.jpg?format=1500w"
           },
           {
             "t": "p",
-            "x": "Absolute Radio와의 인터뷰에서 퀸의 기타리스트는 처음엔 AI를 '산업혁명과 다를 바 없는' 것으로, 그러니 피할 수 없는 것으로 여겼다고 했다. 지금은 다르다. '우리는 저항해야 하고, 그 범위를 제한해야 한다. 아주, 아주 진지하게, 그리고 아주 빠르게 통제해야 한다.'"
+            "x": "완성된 믹스를 다시 풀어내는 일은 몇 년 전만 해도 불가능해 보였다. 저작권 문제만 해결되면 쓸 데는 많다. 연주자는 파트를 분석하고, 뮤직 에디터는 곧바로 인스트루멘털 버전을 얻는다. 포스트 프로덕션에서는 영상에 깔 배경 음악 믹스를 만든다. Production Expert가 도구 여섯 가지를 골라 서로 무엇이 다른지 살폈다."
           },
           {
             "t": "p",
-            "x": "반감의 큰 몫은 데이터센터로 향한다. 오래전부터 자연보호에 마음을 써온 그는 '이 데이터센터들이 들어와 우리 시골을 망가뜨리는 사업이 싫다'고 말했다. '큰 위협이고, 점점 더 커질 것이다. 주면 줄수록 더 가져간다. 공동체를 파괴하고 환경을 파괴한다. 미국에서는 이미 공동체가 무너지고 있다.'"
+            "x": "처리 방식은 오프라인과 실시간으로 나뉜다. 오프라인은 오디오를 꼼꼼히 분석한 뒤 결과를 낸다. 로컬 앱도 있지만 일부 서비스는 서버에 파일을 올려야 한다. 품질은 더 나을 수 있어도 고객 데이터의 보안과 프라이버시를 내줘야 한다. 실시간 분리기는 덜 정밀할 때가 있지만, 제3자를 거치지 않고 바로 결과를 얻는다."
+          },
+          {
+            "t": "p",
+            "x": "첫 번째는 LALAL.AI의 실시간 스템 분리 플러그인이다. VST·AU 형식이고 보컬, 드럼, 피아노, 베이스, 어쿠스틱 기타, 일렉트릭 기타 여섯 소스를 고른다."
           },
           {
             "t": "video",
-            "yt": "wllXY322K7Q"
+            "yt": "-9ExKCA2188"
           },
           {
             "t": "p",
-            "x": "그는 앤디 버넘(Andy Burnham)에게 직접 말을 걸었다. '이제 당신 일이다. 너무 늦기 전에 지금 당장 데이터센터에 모라토리엄을 걸어달라.' 걱정은 거기서 끝나지 않는다. '언젠가 우리를 통제하게 될 수도 있는 지능을 만드는 일에는 본질적인 위험이 있다. 아주 현실적인 위협이다.'"
+            "x": "zplane의 PEEL STEMS 2는 AAX·VST3·AU용 실시간 플러그인이다. 드럼, 베이스, 보컬, 나머지 네 스템으로 나누고, 자연스러운 분리와 공격적인 분리 사이에서 강도를 조절한다. 특정 주파수 대역이나 스테레오 영역만 골라 처리할 수도 있다. SoliderSound의 Go-Splitter Pro는 애플 실리콘과 윈도에서 오프라인·온디바이스로 돈다. 세션 단위 일괄 처리, 원클릭 MIDI 변환, BPM·키 자동 감지를 갖췄고 체험 제한이나 클라우드 업로드가 없다. 무료 버전도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/76e01e54-9171-479c-856b-bdb0927d09ea/unlock.jpg"
           },
           {
             "t": "p",
-            "x": "퀸 아바타 공연 구상이 식은 것도 같은 맥락이다. '스피어(Sphere)를, 그리고 이글스가 거기서 한 것을 보고 아주 진지하게 검토했다. 퀸의 쇼가 어떤 모습일지 오래 구상했다. 지금은 한발 물러섰다. AI를 대규모로 쓰지 않고는 만들 수 없고, 거기엔 대가가 따르니까.'"
+            "x": "Waves는 2026년 7월 v17 업데이트로 StudioVerse Audio Effects 플러그인에 Mix Unlock을 넣었다. 스테레오 음원을 보컬, 드럼, 베이스, 악기로 실시간 분리하고, 요소마다 StudioVerse 프리셋 체인과 Waves 플러그인으로 따로 손본다. Creative Access 구독에 들어 있고 따로 살 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/c9842f07-b808-473a-9b8f-07e0abb96d09/remix1000.jpg"
           },
           {
             "t": "p",
-            "x": "남의 작업을 훔치고 싶지는 않다고 그는 말했다. 퀸의 유산에서 가져오는 것이라면 '우리 것이니 괜찮을지도' 모르지만, 그래도 AI가 세상에 얹는 부담은 늘어난다. '전성기의 우리를 라이브로 보는 듯한 장소가 어디에나, 어느 시점에나 있다면 멋질 것이다. 문은 열려 있다. 다만 우리가 그 문으로 걸어 들어갈지는 모르겠다.'"
+            "x": "Acon Digital의 Remix는 보컬, 베이스, 피아노, 드럼, 나머지 다섯 스트림을 내는 실시간 플러그인이다. 스템마다 감도를 조절하고 모든 컨트롤을 오토메이션할 수 있다. Pro Tools나 Reaper처럼 멀티 아웃풋을 지원하는 DAW에서는 스템을 다섯 개 aux 트랙으로 따로 보낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/9802655b-949b-4a5e-a614-f0e5f9a76118/mvsep.jpg"
+          },
+          {
+            "t": "p",
+            "x": "마지막 MVSEP는 올린 파일을 처리하는 오프라인 서비스다. 네다섯 개 스템에 그치지 않고 소리를 훨씬 잘게 풀어내며, 작업에 맞는 알고리즘을 고를 수 있다. 오디오-MIDI 변환, 복원, 음성 복제도 된다. 프리미엄 회원은 100개 넘는 알고리즘과 무제한 분리, API 접근까지 쓴다."
           }
         ]
       }

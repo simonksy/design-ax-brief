@@ -1,47 +1,32 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-09-23",
   "section": "books",
   "window_hours": 336,
-  "mode": "recovery-pass",
-  "note": "Recovery collection. Burned keywords from keywords_books.json avoided; searched adjacent angles (e-reader AI assistants, library e-lending/OverDrive, shadow-library training data, manga/webtoon AI, AI literary translation, China/Korea publishing AI standards, craft essays on AI drafting, scholarly AI cognition). All URLs checked against published_urls.json books map and candidates_books.json.",
   "items": [
     {
-      "url": "https://www.writersdigest.com/i-let-ai-write-my-code-i-wont-let-it-write-my-novels",
-      "source": "Writer's Digest",
+      "url": "https://authors.spotify.com/blog/creationtools",
+      "source": "Spotify for Authors",
+      "title": "Turn Your Book Into an Audiobook in Minutes with Spotify for Authors",
+      "published_iso": "2026-09-09T00:00:00Z",
+      "og_image": "https://authors.spotify.com/assets/blog/Header_ACT.webp",
+      "excerpt": "Spotify expanded its ElevenLabs-powered Audiobook Creation Tools beyond beta to all US self-published authors: upload a manuscript, pick an AI narration voice, and publish a free, non-exclusive audiobook in minutes.",
       "category": "books",
-      "published_iso": "2026-08-18T01:25:00Z",
-      "og_image": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
-      "excerpt": "Novelist and software developer Kevin Hincker hands all his coding to AI agents but refuses to let it near his fiction. His argument is a craft one: programmers need predictability, while 'surprises in novels are a structural requirement' that AI drafting quietly sands away."
+      "ai_mentions": 7
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "source": "The Guardian",
+      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
+      "published_iso": "2026-09-17T11:00:46Z",
+      "og_image": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7",
+      "excerpt": "Guardian reporters and experts recommend the books that explain how the AI industry got here and where it is headed, amid a chaotic moment reshaping our lives.",
       "category": "books",
-      "published_iso": "2026-08-12T12:00:00Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_1_Cognitive_Responsibility_Framework_Subtitle_Updated_300_DPI-copy-683x1024.jpg",
-      "excerpt": "Ashutosh Ghildiyal proposes a cognitive responsibility framework splitting 'mechanical cognition' (retrieval, pattern-matching — safe to delegate to AI) from discovery, discernment and judgment, which must stay human. The warning for publishers: once AI mediates the first encounter with evidence, it shapes judgment instead of grounding it."
-    },
-    {
-      "url": "https://publishingperspectives.com/2026/08/around-the-book-world-august-17-2026/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-08-17T12:00:00Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
-      "excerpt": "China's Academy of Press and Publication will unveil the country's first sector-specific AI application standards for publishing at the China International Digital Publishing Expo (Aug 27–29). The same roundup reports AI was 'the central topic' for 3,500+ librarians at IFLA's World Library and Information Congress in Korea."
-    },
-    {
-      "url": "https://www.csmonitor.com/Arts-Culture/Books/2026/0812/ai-publishing-commonwealth-prize-shy-girl",
-      "source": "The Christian Science Monitor",
-      "category": "books",
-      "published_iso": "2026-08-13T21:42:00Z",
-      "og_image": "https://images.csmonitor.com/csm/2026/07/1216612_1_0729-ai_writer_standard.png?alias=standard_1200x800nc",
-      "excerpt": "A survey of the collapsing-deal wave — Jerry Falade's $2M crime novel, Hachette's canceled 'Shy Girl' — shows publishers policing AI use with no shared disclosure rule and no reliable detector. Watermarking from AI vendors is emerging as the industry's least-bad provenance bet.",
-      "offlist_reason": "On-list trade outlets (PW, The Bookseller, Book Riot, Jane Friedman) had already-published or duplicate coverage of the AI-authorship trust story; this is the only fresh, unpublished synthesis found."
+      "ai_mentions": 45
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 4,
+    "dropped": 2,
+    "kept": 2,
     "against_days": 5
   }
 }

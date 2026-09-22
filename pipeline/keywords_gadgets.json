@@ -1,360 +1,61 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "gadgets",
   "rotation": {
-    "basis": "day-of-year 265 (2026-09-22), day-of-month 22",
-    "method": "OVERRIDE from orchestrator: no rotation sampling. Working set = ALL of sections.gadgets.core (3) + ALL of sections.gadgets.keywords (29) = 32 keywords. Rotation is instead applied at the QUERY layer — keywords whose stories already ran in the last 2 days of news_data.json are kept in the working set but de-emphasized (no dedicated query, or a query angled away from the covered story).",
-    "notes": "No WebSearch was run by the planner (budget reserved for ax-librarian). Plan built from keyword_pool.json + sources.json + news_data.json only. Reminder for the librarian: site: search skews evergreen — prefer outlet RSS / sitemap_news.xml for recency (see project memory 'websearch-stale-use-rss').",
+    "basis": "day-of-year 266 (2026-09-23), day-of-month 23",
+    "method": "OVERRIDE from orchestrator: no rotation sampling. Working set = ALL of sections.gadgets.core (3) + ALL of sections.gadgets.keywords (30) = 33 keywords. Related keywords are grouped into combined queries. Rotation is applied at the QUERY angle layer instead: keywords whose stories ran in the last 2 days of news_data.json stay in the set but get angled away from the covered story.",
+    "notes": "No WebSearch was run by the planner (orchestrator override). Plan built from keyword_pool.json + sources.json + news_data.json only. TODAY IS META CONNECT DAY 1 (Sept 23-24): the 09-18 and 09-22 cards were PRE-event reports (Luna camera-less glasses, Project Phoenix leak/Codec Avatar calls) — actual keynote announcements are NEW news and are the top priority; do not re-run the preview angle. Reminder for the librarian: site: search skews evergreen — prefer outlet RSS / sitemap_news.xml for recency (project memory 'websearch-stale-use-rss').",
     "recent_coverage_excluded": [
+      "2026-09-22 gadgets-googlebook-first-five — five Googlebook models + prices (Acer/Asus/Dell/HP/Lenovo)",
+      "2026-09-22 gadgets-m6-mac-mini-local-ai — WIRED M6 Mac mini local AI review",
+      "2026-09-22 gadgets-apple-home-display-october — Gurman: Apple smart home display in October",
+      "2026-09-22 gadgets-meta-project-phoenix-connect — PRE-Connect report on Phoenix headset + Codec Avatar calls",
+      "2026-09-22 gadgets-ai-glasses-263-percent — Counterpoint H1 AI glasses shipments +263%",
       "2026-09-20 gadgets-gemini-windows — Gemini desktop app vs Copilot on Windows",
-      "2026-09-20 gadgets-iphone18-aperture — iPhone 18 Pro variable aperture camera",
-      "2026-09-20 gadgets-galaxy-watch9 — Galaxy Watch9 health scores review",
+      "2026-09-20 gadgets-iphone18-aperture — iPhone 18 Pro variable aperture",
+      "2026-09-20 gadgets-galaxy-watch9 — Galaxy Watch9 health scores",
       "2026-09-20 gadgets-iphone-duo-design — iPhone Duo design interview",
       "2026-09-20 gadgets-pixel10-proactive — Pixel 10 proactive assistance beta",
-      "2026-09-14 gadgets-unitree-robot-dog — Unitree Go2 quadruped",
-      "2026-09-14 gadgets-rayneo-io-glasses — RayNeo iO camera-free smart glasses",
-      "2026-09-14 gadgets-dex-kids-camera — Dex kids AI discovery camera",
-      "2026-09-14 gadgets-ai-agent-home-hack — AI agent hacking a home network",
-      "2026-09-14 gadgets-comu-action-pro — Comu Action Pro AI meeting recorder",
-      "2026-09-14 apple iCloud+ camera AI tiers / Apple Reference Image provenance"
+      "2026-09-18 gadgets-snap-specs / gadgets-meta-no-camera (Luna report) / gadgets-apple-readiness",
+      "2026-09-17 gadgets-google-home-mcp / gadgets-perplexity-local-agent / gadgets-copilot-key-remap / gadgets-canon-dual-pixel-3d",
+      "2026-09-15 gadgets-ios27-siri / gadgets-steam-frame / gadgets-vscode-stt / gadgets-ios27-camera-ai / gadgets-comu-action-pro"
     ]
   },
   "seeds_from_user": [],
   "working_keywords": [
-    {
-      "keyword": "AI gadget",
-      "origin": "core",
-      "axis": "core",
-      "expansions": [
-        "best new AI gadget September 2026",
-        "AI gadget hands-on review",
-        "AI device launch announcement",
-        "AI 가젯 신제품"
-      ]
-    },
-    {
-      "keyword": "AI hardware",
-      "origin": "core",
-      "axis": "core",
-      "expansions": [
-        "AI hardware launch September 2026",
-        "consumer AI hardware startup",
-        "AI accelerator consumer device"
-      ]
-    },
-    {
-      "keyword": "AI 디바이스",
-      "origin": "core",
-      "axis": "core",
-      "expansions": [
-        "AI 디바이스 출시 2026",
-        "인공지능 기기 리뷰",
-        "AI 전용 기기"
-      ]
-    },
-    {
-      "keyword": "AI wearable",
-      "origin": "pool",
-      "axis": "wearables",
-      "expansions": [
-        "AI wearable pendant review",
-        "always-on AI recorder wearable",
-        "AI wearable privacy backlash",
-        "AI 웨어러블 신제품"
-      ]
-    },
-    {
-      "keyword": "smart glasses AI",
-      "origin": "pool",
-      "axis": "glasses_xr",
-      "expansions": [
-        "AI smart glasses display launch",
-        "smart glasses assistant update",
-        "AR glasses AI agent demo"
-      ]
-    },
-    {
-      "keyword": "Meta Ray-Ban glasses",
-      "origin": "pool",
-      "axis": "glasses_xr",
-      "expansions": [
-        "Ray-Ban Display neural band update",
-        "Meta AI glasses software update",
-        "Oakley Meta HSTN AI features"
-      ]
-    },
-    {
-      "keyword": "Humane AI Pin",
-      "origin": "pool",
-      "axis": "ai_native_devices",
-      "expansions": [
-        "AI pin successor device",
-        "screenless AI assistant device",
-        "AI wearable shutdown lessons"
-      ]
-    },
-    {
-      "keyword": "Rabbit R1",
-      "origin": "pool",
-      "axis": "ai_native_devices",
-      "expansions": [
-        "Rabbit r1 update agent",
-        "handheld AI assistant device",
-        "AI pocket companion gadget"
-      ]
-    },
-    {
-      "keyword": "AI companion device",
-      "origin": "pool",
-      "axis": "ai_native_devices",
-      "expansions": [
-        "OpenAI hardware device io",
-        "AI companion robot desk",
-        "AI friend necklace device",
-        "emotional AI gadget review"
-      ]
-    },
-    {
-      "keyword": "Copilot+ PC",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "Copilot+ PC new feature rollout",
-        "Windows AI PC local model",
-        "Copilot+ laptop review 2026"
-      ]
-    },
-    {
-      "keyword": "NPU laptop",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "laptop NPU TOPS benchmark",
-        "AI laptop creative workload test",
-        "NPU accelerated app support"
-      ]
-    },
-    {
-      "keyword": "on-device AI",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "on-device LLM phone laptop",
-        "local AI model runs offline device",
-        "privacy on-device AI processing"
-      ]
-    },
-    {
-      "keyword": "Apple Intelligence device",
-      "origin": "pool",
-      "axis": "phones",
-      "expansions": [
-        "Apple Intelligence new feature iOS",
-        "Siri revamp device rollout",
-        "Apple on-device model update"
-      ]
-    },
-    {
-      "keyword": "Galaxy AI phone",
-      "origin": "pool",
-      "axis": "phones",
-      "expansions": [
-        "Galaxy AI feature update One UI",
-        "Samsung AI phone announcement",
-        "갤럭시 AI 기능 업데이트"
-      ]
-    },
-    {
-      "keyword": "AI smartphone",
-      "origin": "pool",
-      "axis": "phones",
-      "expansions": [
-        "AI phone launch September 2026",
-        "smartphone AI assistant agent feature",
-        "phone AI photo editing tool"
-      ]
-    },
-    {
-      "keyword": "AI earbuds",
-      "origin": "pool",
-      "axis": "audio",
-      "expansions": [
-        "AI earbuds live translation",
-        "earbuds with built-in assistant launch",
-        "hearing aid AI earbuds feature"
-      ]
-    },
-    {
-      "keyword": "AI camera",
-      "origin": "pool",
-      "axis": "cameras",
-      "expansions": [
-        "AI camera gadget launch",
-        "computational photography new device",
-        "AI action camera feature"
-      ]
-    },
-    {
-      "keyword": "smart ring AI",
-      "origin": "pool",
-      "axis": "wearables",
-      "expansions": [
-        "smart ring AI health insights",
-        "Oura Samsung ring AI update",
-        "AI sleep coach wearable"
-      ]
-    },
-    {
-      "keyword": "AI speaker",
-      "origin": "pool",
-      "axis": "home",
-      "expansions": [
-        "smart speaker LLM assistant update",
-        "AI display speaker launch",
-        "voice assistant device revamp"
-      ]
-    },
-    {
-      "keyword": "Alexa+ device",
-      "origin": "pool",
-      "axis": "home",
-      "expansions": [
-        "Alexa Plus rollout devices",
-        "Amazon Echo AI hardware event",
-        "Alexa agentic feature launch"
-      ]
-    },
-    {
-      "keyword": "Gemini smart home",
-      "origin": "pool",
-      "axis": "home",
-      "expansions": [
-        "Gemini for Home rollout Nest",
-        "Google Home AI update speaker",
-        "Gemini camera notifications home"
-      ]
-    },
-    {
-      "keyword": "AI robot vacuum",
-      "origin": "pool",
-      "axis": "robots",
-      "expansions": [
-        "robot vacuum AI obstacle recognition",
-        "robot vacuum with arm review",
-        "로봇청소기 AI 기능"
-      ]
-    },
-    {
-      "keyword": "home robot",
-      "origin": "pool",
-      "axis": "robots",
-      "expansions": [
-        "household robot launch price",
-        "home robot assistant demo",
-        "consumer robot CES IFA 2026"
-      ]
-    },
-    {
-      "keyword": "humanoid robot",
-      "origin": "pool",
-      "axis": "robots",
-      "expansions": [
-        "Figure 03 humanoid home",
-        "1X Neo home humanoid",
-        "Tesla Optimus update",
-        "humanoid robot consumer price"
-      ]
-    },
-    {
-      "keyword": "edge AI chip",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "edge AI inference chip device",
-        "AI chip for wearables low power",
-        "silicon for on-device AI announcement"
-      ]
-    },
-    {
-      "keyword": "Snapdragon AI PC",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "Snapdragon X2 Elite laptop",
-        "Qualcomm AI PC benchmark",
-        "Arm Windows AI laptop review"
-      ]
-    },
-    {
-      "keyword": "AI TV",
-      "origin": "pool",
-      "axis": "home",
-      "expansions": [
-        "TV AI upscaling processor 2026",
-        "smart TV AI assistant feature",
-        "AI TV 신기능"
-      ]
-    },
-    {
-      "keyword": "XR headset AI",
-      "origin": "pool",
-      "axis": "glasses_xr",
-      "expansions": [
-        "Vision Pro AI feature update",
-        "Quest AI assistant update",
-        "mixed reality headset AI agent"
-      ]
-    },
-    {
-      "keyword": "AI toy",
-      "origin": "pool",
-      "axis": "ai_native_devices",
-      "expansions": [
-        "AI toy for kids safety concerns",
-        "talking AI plush launch",
-        "AI toy review 2026"
-      ]
-    },
-    {
-      "keyword": "스마트 글라스",
-      "origin": "pool",
-      "axis": "glasses_xr",
-      "expansions": [
-        "스마트 글라스 AI 출시",
-        "AI 안경 국내 출시",
-        "스마트 안경 번역 기능"
-      ]
-    },
-    {
-      "keyword": "온디바이스 AI",
-      "origin": "pool",
-      "axis": "pc_chips",
-      "expansions": [
-        "온디바이스 AI 탑재 기기",
-        "온디바이스 AI 칩 신제품",
-        "on-device AI Korea launch"
-      ]
-    },
-    {
-      "keyword": "AI 웨어러블",
-      "origin": "pool",
-      "axis": "wearables",
-      "expansions": [
-        "AI 웨어러블 리뷰",
-        "AI 목걸이 녹음 기기",
-        "AI 반지 건강"
-      ]
-    },
-    {
-      "keyword": "AI 로봇",
-      "origin": "pool",
-      "axis": "robots",
-      "expansions": [
-        "가정용 AI 로봇 출시",
-        "휴머노이드 로봇 가격",
-        "AI 로봇 집사"
-      ]
-    }
+    { "keyword": "AI gadget", "origin": "core", "axis": "core", "expansions": ["new AI gadget launch this week", "AI gadget hands-on review", "AI device announcement September 2026", "AI 가젯 신제품"] },
+    { "keyword": "AI hardware", "origin": "core", "axis": "core", "expansions": ["consumer AI hardware startup launch", "AI hardware event keynote", "dedicated AI device"] },
+    { "keyword": "AI 디바이스", "origin": "core", "axis": "core", "expansions": ["AI 디바이스 출시", "인공지능 기기 리뷰", "AI 전용 기기 공개"] },
+    { "keyword": "AI wearable", "origin": "pool", "axis": "wearables", "expansions": ["AI pendant recorder review", "always-listening wearable privacy", "AI wearable subscription"] },
+    { "keyword": "smart glasses AI", "origin": "pool", "axis": "glasses_xr", "expansions": ["Meta Connect 2026 glasses announcement", "Luna camera-less glasses Meta AI", "Android XR glasses Gentle Monster Warby Parker", "agentic AI glasses"] },
+    { "keyword": "Meta Ray-Ban glasses", "origin": "pool", "axis": "glasses_xr", "expansions": ["Ray-Ban Display new generation Connect", "Meta Neural Band update", "Meta AI glasses Muse agent", "Oakley Meta new model"] },
+    { "keyword": "Humane AI Pin", "origin": "pool", "axis": "ai_native_devices", "expansions": ["AI pin successor", "screenless AI assistant device", "post-Humane AI hardware lessons"] },
+    { "keyword": "Rabbit R1", "origin": "pool", "axis": "ai_native_devices", "expansions": ["Rabbit r1 agent update", "handheld AI assistant device", "pocket AI companion"] },
+    { "keyword": "AI companion device", "origin": "pool", "axis": "ai_native_devices", "expansions": ["OpenAI io hardware device", "desk AI companion robot", "AI friend necklace", "emotional AI gadget"] },
+    { "keyword": "Copilot+ PC", "origin": "pool", "axis": "pc_chips", "expansions": ["Copilot+ PC feature rollout", "Windows 11 AI feature local model", "Copilot+ laptop review"] },
+    { "keyword": "NPU laptop", "origin": "pool", "axis": "pc_chips", "expansions": ["laptop NPU TOPS benchmark", "AI laptop creative workload test", "RTX Spark Windows PC October"] },
+    { "keyword": "on-device AI", "origin": "pool", "axis": "pc_chips", "expansions": ["local LLM runs offline phone laptop", "on-device model privacy", "local AI agent PC"] },
+    { "keyword": "Apple Intelligence device", "origin": "pool", "axis": "phones", "expansions": ["Siri AI iOS 27 multilingual rollout October", "Apple Intelligence usage limits pricing", "Apple on-device foundation model update"] },
+    { "keyword": "Galaxy AI phone", "origin": "pool", "axis": "phones", "expansions": ["Galaxy AI One UI 9 feature", "Samsung Galaxy S26 FE / Tab AI", "갤럭시 AI 업데이트"] },
+    { "keyword": "AI smartphone", "origin": "pool", "axis": "phones", "expansions": ["AI phone launch September 2026", "phone AI agent feature", "Xiaomi Honor Oppo AI phone"] },
+    { "keyword": "AI earbuds", "origin": "pool", "axis": "audio", "expansions": ["AI earbuds live translation", "earbuds built-in assistant", "AirPods AI feature"] },
+    { "keyword": "AI camera", "origin": "pool", "axis": "cameras", "expansions": ["AI camera gadget launch", "computational photography new camera", "AI action camera / vlog camera feature"] },
+    { "keyword": "smart ring AI", "origin": "pool", "axis": "wearables", "expansions": ["smart ring AI health coach", "Oura Galaxy Ring update", "AI sleep coaching wearable"] },
+    { "keyword": "AI speaker", "origin": "pool", "axis": "home", "expansions": ["smart speaker LLM assistant", "AI display speaker launch", "HomePod Siri AI"] },
+    { "keyword": "Alexa+ device", "origin": "pool", "axis": "home", "expansions": ["Amazon devices event fall 2026", "Alexa Plus new Echo", "Alexa+ agentic feature"] },
+    { "keyword": "Gemini smart home", "origin": "pool", "axis": "home", "expansions": ["Gemini for Home rollout", "Google Home speaker Gemini", "Nest camera Gemini summaries"] },
+    { "keyword": "AI robot vacuum", "origin": "pool", "axis": "robots", "expansions": ["robot vacuum AI obstacle recognition", "robot vacuum with arm", "로봇청소기 AI"] },
+    { "keyword": "home robot", "origin": "pool", "axis": "robots", "expansions": ["household robot preorder price", "home robot assistant demo", "consumer robot launch 2026"] },
+    { "keyword": "humanoid robot", "origin": "pool", "axis": "robots", "expansions": ["Figure 03 home", "1X Neo shipping", "Tesla Optimus update", "Unitree humanoid consumer"] },
+    { "keyword": "edge AI chip", "origin": "pool", "axis": "pc_chips", "expansions": ["edge AI inference chip device", "low-power AI chip wearables", "on-device AI silicon announcement"] },
+    { "keyword": "Snapdragon AI PC", "origin": "pool", "axis": "pc_chips", "expansions": ["Snapdragon Summit 2026", "Snapdragon X2 Elite laptop review", "Qualcomm AI PC NPU"] },
+    { "keyword": "AI TV", "origin": "pool", "axis": "home", "expansions": ["TV AI processor upscaling", "smart TV AI assistant Copilot Gemini", "AI TV 신기능"] },
+    { "keyword": "XR headset AI", "origin": "pool", "axis": "glasses_xr", "expansions": ["Meta Project Phoenix unveiled Connect", "Codec Avatars calls launch", "Vision Pro / Galaxy XR AI update", "Quest Horizon OS AI"] },
+    { "keyword": "AI toy", "origin": "pool", "axis": "ai_native_devices", "expansions": ["AI toy kids safety", "talking AI plush", "AI toy holiday 2026"] },
+    { "keyword": "스마트 글라스", "origin": "pool", "axis": "glasses_xr", "expansions": ["스마트 글라스 AI 출시", "AI 안경 메타 커넥트", "삼성 스마트 안경"] },
+    { "keyword": "온디바이스 AI", "origin": "pool", "axis": "pc_chips", "expansions": ["온디바이스 AI 탑재 기기", "온디바이스 AI 칩", "NPU 노트북"] },
+    { "keyword": "AI 웨어러블", "origin": "pool", "axis": "wearables", "expansions": ["AI 웨어러블 리뷰", "AI 녹음기 목걸이", "AI 반지 건강"] },
+    { "keyword": "AI 로봇", "origin": "pool", "axis": "robots", "expansions": ["가정용 AI 로봇 출시", "휴머노이드 로봇 가격", "AI 로봇 청소기"] }
   ],
   "plan": [
     {
@@ -362,7 +63,7 @@
       "label": "Gadgets",
       "motif": "headset",
       "accent": "#ff5a4d",
-      "scope": "AI x consumer hardware: device launches, feature rollouts, hands-on reviews, chips/NPUs that change what a device can do locally, and the design/workflow implications for people who make products. Skip pure spec-sheet rumor churn without an AI axis; skip the recent-coverage topics listed in rotation.recent_coverage_excluded.",
+      "scope": "AI x consumer hardware: device launches, feature rollouts, hands-on reviews, chips/NPUs that change what a device can do locally, and design/workflow implications for people who make products. Priority today: Meta Connect 2026 (Sept 23-24) actual announcements. Skip pure spec-sheet rumor churn without an AI axis; skip topics listed in rotation.recent_coverage_excluded (pre-Connect previews included).",
       "allowed_domains": [
         "theverge.com",
         "engadget.com",
@@ -383,46 +84,47 @@
         "notebookcheck.net",
         "uploadvr.com",
         "roadtovr.com",
-        "venturebeat.com"
+        "venturebeat.com",
+        "about.fb.com",
+        "news.samsung.com"
       ],
       "queries": [
-        "site:theverge.com AI gadget launch September 2026",
-        "site:engadget.com AI hardware announcement September 2026",
-        "site:wired.com AI device review September 2026",
-        "site:arstechnica.com on-device AI hardware",
-        "site:cnet.com AI wearable review 2026",
-        "site:techradar.com AI smart glasses hands on",
-        "site:tomsguide.com AI earbuds live translation",
-        "site:digitaltrends.com AI companion device",
-        "site:gizmodo.com AI gadget startup device",
-        "site:zdnet.com on-device AI enterprise device",
-        "site:xda-developers.com local AI model on device",
-        "site:tomshardware.com edge AI chip NPU",
-        "site:notebookcheck.net Snapdragon X2 AI laptop review",
-        "site:theverge.com Copilot+ PC feature rollout",
-        "site:androidauthority.com Galaxy AI One UI feature",
-        "site:9to5google.com Gemini for Home Nest rollout",
-        "site:9to5mac.com Apple Intelligence new feature",
-        "site:macrumors.com Apple Intelligence Siri device",
-        "site:engadget.com Alexa Plus Echo device",
-        "site:techradar.com AI TV processor 2026",
-        "site:cnet.com robot vacuum AI obstacle",
-        "site:theverge.com humanoid home robot Figure 1X",
-        "site:venturebeat.com consumer AI hardware device",
-        "site:uploadvr.com AI assistant headset update",
-        "site:roadtovr.com smart glasses AI display",
-        "site:tomsguide.com smart ring AI health",
-        "site:digitaltrends.com AI camera gadget",
-        "site:wired.com AI toy kids device",
-        "온디바이스 AI 기기 출시 2026년 9월",
-        "AI 웨어러블 스마트 글라스 신제품 2026"
+        "site:uploadvr.com Meta Connect 2026 announced glasses headset",
+        "site:roadtovr.com Meta Connect 2026 Project Phoenix Codec Avatars",
+        "site:theverge.com Meta Connect 2026 smart glasses AI Ray-Ban Display",
+        "site:engadget.com Meta Luna camera-less glasses Meta AI Muse",
+        "site:about.fb.com Connect 2026 AI glasses Neural Band",
+        "site:techradar.com smart glasses AI hands on Android XR Snap Specs",
+        "site:cnet.com AI wearable pendant recorder review",
+        "site:tomsguide.com smart ring AI health coach Oura Galaxy Ring",
+        "site:tomsguide.com AI earbuds live translation assistant",
+        "site:digitaltrends.com AI companion device Rabbit r1 AI pin successor",
+        "site:gizmodo.com OpenAI io hardware device AI companion",
+        "site:wired.com AI toy kids talking plush",
+        "site:theverge.com AI gadget launch hands-on",
+        "site:venturebeat.com consumer AI hardware startup device",
+        "site:xda-developers.com Copilot+ PC on-device AI local model",
+        "site:notebookcheck.net NPU laptop AI benchmark Snapdragon X2 Elite",
+        "site:tomshardware.com edge AI chip NPU RTX Spark Windows PC",
+        "site:androidauthority.com Snapdragon Summit AI smartphone chip",
+        "site:androidauthority.com Galaxy AI One UI feature update",
+        "site:9to5mac.com Apple Intelligence Siri AI new languages October",
+        "site:macrumors.com HomePod Apple TV Siri AI speaker",
+        "site:9to5google.com Gemini for Home Nest speaker camera rollout",
+        "site:engadget.com Alexa Plus Echo device Amazon event",
+        "site:techradar.com AI TV processor assistant 2026",
+        "site:cnet.com AI robot vacuum arm obstacle recognition",
+        "site:theverge.com home robot humanoid Figure 1X Neo Optimus",
+        "site:digitaltrends.com AI camera computational photography gadget",
+        "스마트 글라스 AI 안경 메타 커넥트 2026 공개",
+        "온디바이스 AI 웨어러블 로봇 신제품 2026년 9월"
       ]
     }
   ],
-  "wildcard_query": "most talked about AI gadget this week September 21 2026",
+  "wildcard_query": "Meta Connect 2026 keynote everything announced",
   "totals": {
-    "working_keywords": 32,
+    "working_keywords": 33,
     "categories": 1,
-    "queries": 31
+    "queries": 30
   }
 }

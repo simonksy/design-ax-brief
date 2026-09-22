@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-23",
+  "section": "games",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+      "source": "Roblox",
+      "category": "games",
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png",
+      "excerpt": "At RDC 2026, Roblox said it is building an AI creation layer on its platform. Its upcoming Scene Generator will take a text prompt plus a reference image and return a playable layout that creators can refine in Studio, and it will work in both the mobile Build app and Studio."
+    },
+    {
+      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-18T05:41:19Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp",
+      "excerpt": "At TGS 2026, Koei Tecmo, Gust and SpiralAI announced SophieChat:AI, an LLM-driven free-scenario RPG set in the world of Atelier Sophie 2. It follows RyzaChat:AI, which has logged more than 15 million spoken interactions and generates quests from conversation. (Off-list outlet: no on-list outlet covered it.)"
+    },
+    {
+      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-17T09:53:08Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
+      "excerpt": "Recruiter Hiraku Agent names background and prop artists and assistant programmers as the Japanese game jobs most affected by generative AI. It suggests demand is falling for the 'basic' tasks that junior creators have traditionally handled. (Off-list outlet. This is a separate source from the already-published CESA survey.)"
+    },
+    {
+      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-18T10:41:12Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
+      "excerpt": "Square Enix updated Final Fantasy XIV's Materials Usage License. It loosens the rules on non-commercial fan-made physical goods but explicitly bans generative AI and 3D printing in fan merch. (Off-list outlet.)"
+    },
+    {
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-09-11T20:45:43Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
+      "excerpt": "Twitch is testing an AI-powered Stream Coach that analyzes each broadcast and gives creators personalized feedback on engagement, community building and monetization tools. Twitch itself warns the advice 'may contain errors or inaccuracies.'"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley is promoting his Fallout 4 first-person mod at concerts. The mod carries Nexus's 'AI-assisted' label (developer-led work with limited AI involvement), which feeds into the modding community's AI-disclosure debate. The AI angle is weak."
+    },
+    {
+      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
+      "source": "Seoul Economic Daily",
+      "category": "games",
+      "title": "AI Takes Center Stage at Tokyo Game Show 2026",
+      "published_iso": "2026-09-19T00:00:05Z",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
+      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
+      "off_list_reason": "No allowed-domain coverage of the Pareidolia on-device voice AI found; Korean outlet per recovery brief."
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
+      "source": "Inven",
+      "category": "games",
+      "title": "이제 모바일도 AI 업스케일링... 이매지네이션, 'NSR' 공개",
+      "published_iso": "2026-09-21T07:38:06Z",
+      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
+      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
+      "off_list_reason": "Korean outlet per recovery brief (inven.co.kr); AI upscaling adjacent keyword."
+    },
+    {
+      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "source": "Wccftech",
+      "category": "games",
+      "title": "Final Fantasy VII Revelation hits 4K/60 on PS5 Pro via PSSR upscaling",
+      "published_iso": "2026-09-22T09:22:57Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
+      "excerpt": "Series director Naoki Hamaguchi confirmed that Final Fantasy VII Revelation uses PlayStation Spectral Super Resolution (PSSR), Sony's ML-based upscaler, to offer a PS5 Pro mode with both 4K image quality and 60 FPS. The piece frames the updated PSSR as the defining feature that separates the PS5 Pro from the base console."
+    }
+  ]
+}

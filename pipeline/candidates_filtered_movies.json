@@ -1,134 +1,134 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "movies",
-  "now_iso": "2026-09-21T22:01:37Z",
+  "now_iso": "2026-09-22T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian",
-  "collection_notes": "Harvested outlet RSS/atom + news-sitemaps (variety, hollywoodreporter, deadline, indiewire, nofilmschool, fxguide, beforesandafters, provideocoalition, cartoonbrew, vfxvoice, postperspective, theasc, motionographer, studiodaily, animationmagazine, awn, redsharknews, 80.lv) plus AI tag feeds and YouTube channel feeds (fxguide, Curious Refuge, Matt Wolfe). 2 WebSearch queries used to fill Runway/Sora and festival gaps. Every published time taken from og article:published_time / JSON-LD datePublished / RSS pubDate / sitemap news:publication_date, then gated with freshness.py (movies=336h). Dropped as non-AI or off-beat: Strada + QScan IBC updates (no AI content), Disney CTO appointment (exec move), WarGames rewatch essay, Apple Siri / AI data-center items from The Verge & Engadget (no film hook). Per-outlet cap 3 enforced; 12 distinct outlets.",
+  "generated_by": "librarian (movies)",
+  "collection_notes": "Feeds/news-sitemaps swept for 22 allowed domains plus YouTube channel feeds; 4 WebSearch calls (1 errored). Skipped already-published Tom Cruise BAFTA, Eran Dinur, Lightstorm-Outsyders, After Effects AI assistant, Disney CTO (exec move), Danny Boyle Ink (stale). Section fresh AI news thin; pool is 12. Dup pairs: Variety Hazanavicius / Deadline San Sebastian.",
   "items": [
     {
-      "category": "movies",
-      "axis": "hollywood-discourse",
-      "headline": "Tom Cruise Says AI Is 'Coming and It's Going to Happen,' but 'People Want to See Real Things'",
-      "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+      "url": "https://variety.com/2026/film/global/goodfellas-michel-hazanavicius-the-third-hand-ai-1236871835/",
       "source": "Variety",
-      "published_iso": "2026-09-21T21:38:10Z",
-      "excerpt": "Accepting a BAFTA fellowship, Tom Cruise delivered a six-minute defense of human-made cinema, conceding AI is inevitable in production but arguing audiences still come for real stunts, real faces and real craft.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2244079766.jpg"
+      "published_iso": "2026-09-22T11:05:45Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-20-1.png?w=1000&h=563&crop=1",
+      "headline": "Goodfellas' Vincent Maraval Says Michel Hazanavicius Cut Eight Days of Production on 'The Third Hand' by Using AI",
+      "axis": "ai-in-production",
+      "excerpt": "At San Sebastian's Creative Investors' Conference, Goodfellas CEO Vincent Maraval said AI turned a ten-day shoot for a major WWI scene in Hazanavicius' 'The Third Hand' into two days, arguing AI can expand filmmakers' creativity.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "hollywood-discourse",
-      "headline": "Tom Cruise Earns Applause With Six-Minute Monologue On Why Art Beats AI In Filmmaking",
-      "url": "https://deadline.com/2026/09/tom-cruise-ai-filmmaking-bafta-1237109599/",
+      "url": "https://deadline.com/2026/09/san-sebastian-creative-investors-conference-day-on-brazil-1237110107/",
       "source": "Deadline",
-      "published_iso": "2026-09-21T21:29:20Z",
-      "excerpt": "Deadline's account of the same BAFTA speech focuses on Cruise's craft argument: that the physical, analog labor of filmmaking is precisely what generative tools cannot substitute for.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215809697-e1790023650535.jpg?w=1024"
+      "published_iso": "2026-09-22T16:43:30Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/split-single-1500x845-2.jpg?w=1024",
+      "headline": "Creative Risks, AI & Brazil's Production Boom: Day One of the 2026 San Sebastian Creative Investors' Conference",
+      "axis": "festival-industry",
+      "excerpt": "Deadline's day-one recap of San Sebastian's investor conference, including Maraval's claim that Goodfellas' back office runs largely on AI and that AI replaced eight shooting days on 'The Third Hand'. NOTE: same story as the Variety Hazanavicius item; pick one.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "director-practice",
-      "headline": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies (and Why He Refused to Use AI)",
+      "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
+      "source": "Variety",
+      "published_iso": "2026-09-22T02:07:03Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+      "headline": "Generative AI, Microdramas to Take Center Stage at Busan Market",
+      "axis": "festival-industry",
+      "excerpt": "Busan's Asian Contents & Film Market InnoAsia strand runs 11 programs led by generative AI, including a Kling AI session on reimagining filmmaking and an Eyeline talk on generative AI in production. NOTE: an earlier Variety InnoAsia/DeepMind-AWS story was already published; this is the full program follow-up.",
+      "category": "movies"
+    },
+    {
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "source": "Variety",
+      "published_iso": "2026-09-21T23:29:50Z",
+      "og_image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&h=563&crop=1",
+      "headline": "Robin Williams' Daughter Calls for Fans Creating AI Videos of the Actor to 'Have Some Shame'",
+      "axis": "likeness-rights",
+      "excerpt": "Zelda Williams again called on fans to stop circulating AI-generated videos of her late father, reigniting the debate over AI likeness of deceased performers. NOTE: a similar Robin Williams AI-slop story ran earlier.",
+      "category": "movies"
+    },
+    {
       "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
       "source": "IndieWire",
       "published_iso": "2026-09-20T17:11:43Z",
-      "excerpt": "Duncan Jones explains the production-economics squeeze on mid-budget genre films and why he deliberately kept generative AI out of his new feature despite the budget pressure that would have justified it.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650"
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650",
+      "headline": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)",
+      "axis": "filmmaker-stance",
+      "excerpt": "The 'Moon' director explains how his decade-long animated 'Rogue Trooper' adaptation got made and why he refused to use generative AI as a shortcut in its animation pipeline.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "synthetic-performers",
-      "headline": "AI Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages",
-      "url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
+      "url": "https://deadline.com/2026/09/mipcom-cannes-creators-brands-ai-distribution-lucy-smith-1237109940/",
+      "source": "Deadline",
+      "published_iso": "2026-09-22T12:06:58Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MIPCOM2025.jpg?w=1024",
+      "headline": "MIPCOM in Cannes Bets on Creators, Brands & AI",
+      "axis": "festival-industry",
+      "excerpt": "MIPCOM launches a new MIP AI Entertainment Forum conference and market with Versos AI and Protege, as organizer Lucy Smith repositions the Cannes market around creators, branded content and AI.",
+      "category": "movies"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
       "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-19T20:00:07Z",
-      "excerpt": "The synthetic performer marketed as a bookable actor broke character mid-interview and switched languages, a live demonstration of how far real-time AI talent still sits from performance reliability.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/piers-tilly.jpg?w=1086&h=612&crop=1"
+      "published_iso": "2026-09-15T14:27:00Z",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/1-1-EMBED-2026.jpg?w=1000&h=667&crop=1",
+      "headline": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries",
+      "axis": "ai-content-formats",
+      "excerpt": "Producers of vertical microdramas debated whether a flood of AI-generated titles and China's generative-AI push threaten the format, arguing human actors, writers and directors still bring energy AI tools can't.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "ai-vfx-tools",
-      "headline": "Beeble SwitchX 2.0: native 4K, 20-second clips and a Reframe outpainting tool",
-      "url": "https://www.redsharknews.com/beeble-switchx-2-0-reframe",
-      "source": "RedShark News",
-      "published_iso": "2026-09-21T16:00:01Z",
-      "excerpt": "Beeble's AI relighting and background-replacement tool for filmmakers moves to native 4K, 20-second clips and 10-bit color, and adds Reframe — an outpainting pass that changes a shot's aspect ratio without a reshoot.",
-      "og_image": "https://www.redsharknews.com/hubfs/Beeble-SwitchX2-replaceBG-relight.jpg"
-    },
-    {
-      "category": "movies",
-      "axis": "editing-ai",
-      "headline": "More AI Editing Assistance is on the Way as Eddie AI V4 is Unveiled Ahead of IBC 2026",
-      "url": "https://nofilmschool.com/eddie-ai-v4",
-      "source": "No Film School",
-      "published_iso": "2026-09-08T19:15:05Z",
-      "excerpt": "Eddie AI's fourth version deepens the assistant-editor role — logging, selects and rough assembly — aiming at the unglamorous prep hours rather than the creative cut itself.",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67739810&width=1200&height=600&coordinates=0%2C40%2C0%2C40"
-    },
-    {
-      "category": "movies",
-      "axis": "neural-rendering",
-      "headline": "IBC 2026: Splats, Sync and Scene-Aware Cameras",
-      "url": "https://postperspective.com/ibc-2026-splats-sync-and-scene-aware-cameras/",
+      "url": "https://postperspective.com/captionx-clips-for-turning-long-videos-into-shorts/",
       "source": "postPerspective",
-      "published_iso": "2026-09-21T18:26:30Z",
-      "excerpt": "A show-floor read on where production tech landed at IBC: Gaussian splat capture moving into mainstream post pipelines, AI-driven sync and metadata, and cameras that understand the scene they are recording.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/IBC-show-filters_no_upscale-copy.jpg"
+      "published_iso": "2026-09-22T20:57:54Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/CaptionX-UI_Workstation.jpg",
+      "headline": "CaptionX Clips for Turning Long Videos Into Shorts",
+      "axis": "post-tools",
+      "excerpt": "AI captioning maker CaptionX launched Clips, which analyzes a long video or podcast and returns ranked, self-contained short moments ready to publish.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "neural-rendering",
-      "headline": "Insta360 X6 turns 360 video into explorable 3D scenes",
       "url": "https://www.provideocoalition.com/insta360-x6-turns-360-video-into-explorable-3d-scenes/",
       "source": "ProVideo Coalition",
       "published_iso": "2026-09-21T14:55:45Z",
-      "excerpt": "Insta360's Spatial Capture feature turns ordinary 360 footage into 3D Gaussian splats, pushing neural scene capture down to a consumer camera that location scouts and previs teams already carry.",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insta360x6spaialcpture001.jpg"
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insta360x6spaialcpture001.jpg",
+      "headline": "Insta360 X6 turns 360 video into explorable 3D scenes",
+      "axis": "neural-rendering",
+      "excerpt": "Insta360's Spatial Capture converts 360 footage into Gaussian-splat (3DGS) scenes via cloud processing, rolling out in the US on Sept 28 with four free scenes per month. NOTE: body describes 3DGS, not 'AI' explicitly.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "color-and-grade",
-      "headline": "Blackmagic Design Updates DaVinci Resolve",
-      "url": "https://theasc.com/article/blackmagic-design-updates-davinci-resolve-2/",
-      "source": "American Cinematographer",
-      "published_iso": "2026-09-14T20:00:00Z",
-      "excerpt": "DaVinci Resolve 21.1 adds AI-assistant integration alongside expanded camera-format support, putting a conversational layer on top of the grade and edit page.",
-      "og_image": "https://theasc.com/wp-content/uploads/2026/09/NP-DaVinci-Resolve-21-Color.jpg"
-    },
-    {
-      "category": "movies",
-      "axis": "vfx-craft-video",
-      "headline": "2D AI worlds breaking camera tracking",
-      "url": "https://www.youtube.com/shorts/p4WTGaH-oKc",
-      "source": "fxguide (YouTube)",
-      "published_iso": "2026-09-20T14:00:37Z",
-      "excerpt": "fxguide explains the concrete failure mode when 2D generative world models meet a real VFX pipeline: there is no consistent 3D geometry underneath, so camera tracking and matchmove fall apart.",
-      "og_image": "https://i.ytimg.com/vi/p4WTGaH-oKc/maxresdefault.jpg"
-    },
-    {
-      "category": "movies",
-      "axis": "neural-rendering-video",
-      "headline": "Why a Gaussian 'splat' helps lighting — go 3D+2D, not all-3D",
-      "url": "https://www.youtube.com/shorts/hgZqqPz3A0Y",
-      "source": "fxguide (YouTube)",
+      "url": "https://www.youtube.com/watch?v=hgZqqPz3A0Y",
+      "source": "fxguide",
       "published_iso": "2026-09-19T18:28:17Z",
-      "excerpt": "A short argument for hybrid pipelines: using Gaussian splats as a lighting and environment layer alongside traditional 3D rather than trying to rebuild the whole shot in geometry.",
-      "og_image": "https://i.ytimg.com/vi/hgZqqPz3A0Y/maxresdefault.jpg"
+      "og_image": "https://i.ytimg.com/vi/hgZqqPz3A0Y/maxresdefault.jpg",
+      "headline": "Why a Gaussian 'splat' helps lighting — go 3D+2D, not all-3D",
+      "axis": "vfx-workflow",
+      "excerpt": "fxguide breaks down how Gaussian splats, generative video models and traditional 3D exports can be combined for lighting, FX and production control.",
+      "category": "movies"
     },
     {
-      "category": "movies",
-      "axis": "ai-filmmaking-craft",
-      "headline": "Camera Angles Are Becoming a Thing of the Past",
+      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
+      "source": "Theoretically Media",
+      "published_iso": "2026-09-21T22:04:40Z",
+      "og_image": "https://i.ytimg.com/vi/ky9Gj5N3wyQ/maxresdefault.jpg",
+      "headline": "Seedance 2.5 Just Got a Load of Awesome New Features!",
+      "axis": "video-model-tools",
+      "excerpt": "Dreamina's Seedance 2.5 canvas overhaul adds an AI agent that plans and organizes a shoot, an Elements library that carries characters and voices across prompts, new Skills, and MiniMax H3, GPT Image 2 and Nano Banana Pro inside the canvas.",
+      "category": "movies"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=6QC6nOotxrU",
-      "source": "Curious Refuge (YouTube)",
+      "source": "Curious Refuge",
       "published_iso": "2026-09-19T00:34:02Z",
-      "excerpt": "Curious Refuge argues that as generative video lets you re-angle a scene after the fact, shot selection stops being a set decision and becomes a post decision — a real change to how coverage is planned.",
-      "og_image": "https://i.ytimg.com/vi/6QC6nOotxrU/maxresdefault.jpg"
+      "og_image": "https://i.ytimg.com/vi/6QC6nOotxrU/maxresdefault.jpg",
+      "headline": "Camera Angles Are Becoming a Thing of the Past",
+      "axis": "ai-filmmaking-workflow",
+      "excerpt": "Curious Refuge tests three AI methods for generating new camera angles from existing shots, with a written breakdown and prompts.",
+      "category": "movies"
     }
   ],
   "dedup": {
-    "dropped": 10,
+    "dropped": 0,
     "kept": 12,
     "against_days": 5
   }

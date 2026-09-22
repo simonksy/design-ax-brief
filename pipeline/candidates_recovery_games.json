@@ -1,106 +1,36 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "games",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
-      "source": "PC Gamer",
+      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
+      "source": "Seoul Economic Daily",
       "category": "games",
-      "title": "'AI could never make Tenebris Somnia' — the 2D horror built on live-action and practical effects",
-      "published_iso": "2026-09-20T16:29:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
-      "excerpt": "PC Gamer profiles Tenebris Somnia, a 2D retro survival horror whose live-action cutscenes and practical effects are pitched as exactly the kind of craft 'AI could never make.'"
+      "title": "AI Takes Center Stage at Tokyo Game Show 2026",
+      "published_iso": "2026-09-19T00:00:05Z",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
+      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
+      "off_list_reason": "No allowed-domain coverage of the Pareidolia on-device voice AI found; Korean outlet per recovery brief."
     },
     {
-      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
-      "source": "Kotaku",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
+      "source": "Inven",
       "category": "games",
-      "title": "Ship of Harkinian team admits years of AI use, fans call it vibecoded slop",
-      "published_iso": "2026-09-17T22:00:44Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
-      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'"
+      "title": "이제 모바일도 AI 업스케일링... 이매지네이션, 'NSR' 공개",
+      "published_iso": "2026-09-21T07:38:06Z",
+      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
+      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
+      "off_list_reason": "Korean outlet per recovery brief (inven.co.kr); AI upscaling adjacent keyword."
     },
     {
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "source": "GamesRadar+",
+      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "source": "Wccftech",
       "category": "games",
-      "title": "PS5 Linux dev quits as AI 'slop kiddies' flood open-source modding",
-      "published_iso": "2026-09-16T17:14:07Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
-      "excerpt": "The lead developer of the PS5 Linux project quit, blaming an influx of 'AI slop kiddies' — newcomers who ship LLM-generated hacks they don't understand — for degrading open-source console modding ahead of GTA 6."
-    },
-    {
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "source": "PC Gamer",
-      "category": "games",
-      "title": "Dev vibe codes a VR tool that throws models straight at his 3D printer",
-      "published_iso": "2026-09-15T14:22:49Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/t5jyPkqqcRGQLkYKUj2SuY-1920-80.jpg",
-      "excerpt": "A developer vibe-coded a VR tool that lets him grab a 3D model in virtual space and physically throw it at his 3D printer to start a print — a prompt-built bridge between VR interaction and fabrication."
-    },
-    {
-      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
-      "source": "80 Level",
-      "category": "games",
-      "title": "A solo dev rebuilt late-'90s console shooter enemy AI, choosing readability over intelligence",
-      "published_iso": "2026-09-15T14:19:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50204/images/6aa899b841202/contain_1200x630.jpg",
-      "excerpt": "Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat."
-    },
-    {
-      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
-      "source": "Kotaku",
-      "category": "games",
-      "title": "Zelda art director Takaya Imamura takes backlash for an AI prototyping test",
-      "published_iso": "2026-09-13T20:57:12Z",
-      "og_image": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
-      "excerpt": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI"
-    },
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "category": "games",
-      "title": "Twitch's new AI stream coach tool pushes creators into an AI opt-out fight",
-      "published_iso": "2026-09-11T20:45:43Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered stream coach that will offer suggestions on how creators can improve their channel"
-    },
-    {
-      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/",
-      "source": "PC Gamer",
-      "category": "games",
-      "title": "Steins;Gate creators' next game is an entirely vibe-coded FPS",
-      "published_iso": "2026-09-10T02:54:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2yEXLs6WNSnNauA6NWxFKd-1200-80.png",
-      "excerpt": "The next game from the Steins;Gate creators at Mages is an entirely vibe-coded FPS, made with AI-generated code and assets — a mainstream Japanese studio shipping a prompt-built title."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "title": "Breaking Benjamin's singer begs fans to try his AI-assisted Fallout 4 first-person mod",
-      "published_iso": "2026-09-09T12:00:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "title": "After the Blood Rain AI controversy, Shift Up's lead says AI still shapes their development",
-      "published_iso": "2026-09-08T12:00:49Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
-      "excerpt": "Fans previously criticized the studio for releasing an AI-generated music video promoting the game"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "title": "'Still very much possible to make good Skyrim mods without any use of AI,' says Black Marsh modder",
-      "published_iso": "2026-09-08T10:25:25Z",
-      "og_image": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "King of the Murkmire, a DLC-sized Skyrim expansion mod set to Black Marsh, is out now."
+      "title": "Final Fantasy VII Revelation hits 4K/60 on PS5 Pro via PSSR upscaling",
+      "published_iso": "2026-09-22T09:22:57Z",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
+      "excerpt": "Series director Naoki Hamaguchi confirmed that Final Fantasy VII Revelation uses PlayStation Spectral Super Resolution (PSSR), Sony's ML-based upscaler, to offer a PS5 Pro mode with both 4K image quality and 60 FPS. The piece frames the updated PSSR as the defining feature that separates the PS5 Pro from the base console."
     }
   ]
 }

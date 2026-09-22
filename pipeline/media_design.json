@@ -1,33 +1,31 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "design",
-  "generated_by": "ax-media",
   "media": [
     {
-      "id": "design-snap-specs-agent",
+      "id": "design-variance-problem",
       "type": "image",
-      "src": "pipeline/media/design-snap-specs-agent.png"
+      "src": "pipeline/media/design-variance-problem.png"
     },
     {
-      "id": "design-ai-nutrition-facts",
+      "id": "design-taste-wont-save",
       "type": "image",
-      "src": "pipeline/media/design-ai-nutrition-facts.png"
+      "src": "pipeline/media/design-taste-wont-save.jpg"
     },
     {
-      "id": "design-ai-surrogate-models",
+      "id": "design-autodesk-ai-pull",
       "type": "image",
-      "src": "pipeline/media/design-ai-surrogate-models.png"
+      "src": "pipeline/media/design-autodesk-ai-pull.jpg"
     },
     {
-      "id": "design-autodesk-continuity-error",
+      "id": "design-impeccable-browser",
       "type": "image",
-      "src": "pipeline/media/design-autodesk-continuity-error.jpg"
+      "src": "pipeline/media/design-impeccable-browser.png"
     },
     {
-      "id": "design-framer-agent-bugfix",
-      "type": "video",
-      "src": "pipeline/media/design-framer-agent-bugfix.mp4",
-      "poster": "pipeline/media/design-framer-agent-bugfix.jpg"
+      "id": "design-two-images-two-jobs",
+      "type": "image",
+      "src": "pipeline/media/design-two-images-two-jobs.png"
     }
   ]
 }

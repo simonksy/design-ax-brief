@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-23",
+  "section": "books",
+  "generated_by": "ax-writer",
+  "cards": [
+    {
+      "id": "books-guardian-ai-reading-list",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 파국론에 지쳤다면\n가디언이 고른 AI 책 목록",
+      "mini_headline": "가디언의 AI 필독서",
+      "body": "가디언 기자와 전문가들이 『Empire of AI』 등 AI 책 17권을 추렸다.",
+      "tool": "Books",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7"
+          },
+          {
+            "t": "p",
+            "x": "AI를 둘러싼 과장과 공포가 끝없이 되풀이된다. 지난주에도 한 AI 기업 직원이 이 기술이 \"10년 안에 우리 모두를 죽일 수도 있다\"고 경고하며 공개적으로 회사를 떠났다. 그 와중에 AI 기업 매출은 폭발적으로 늘었고 미국 증시는 신고가를 새로 썼다. 가디언 기술 기자들과 외부 전문가들이 이 혼란을 읽어낼 책을 골랐다."
+          },
+          {
+            "t": "p",
+            "x": "업계를 파헤친 책으로는 카렌 하오의 『Empire of AI』가 첫손에 꼽혔다. OpenAI의 부상과 Anthropic 설립, 샘 올트먼과 일론 머스크의 결별까지 담은, 지금까지 AI 업계를 가장 깊이 취재한 책이다. 캐트리나 맨슨의 『Project Maven』은 미군과 팔란티어가 자율무기·감시 체계를 함께 만든 과정을 좇는다. 패리스 마크스의 『Hyperscale』은 데이터센터가 지역사회와 환경에 남기는 흔적을, 캐시미어 힐의 『Your Face Belongs to Us』는 안면인식 기업 클리어뷰 AI를 다룬다. 에밀리 M. 벤더와 알렉스 한나는 『The AI Con』에서 'AI 하이프'가 부자들의 돈벌이를 돕는 거짓말과 과장이라고 반박한다."
+          },
+          {
+            "t": "p",
+            "x": "허점은 있어도 읽어볼 만한 책도 넣었다. 엘리저 유드코프스키와 네이트 소아레스의 『If Anyone Builds It, Everyone Dies』는 AI 파멸론자의 시각을 이해하기 좋은 출발점이다. 다만 예측이 현실보다 거창한 사고실험에 기댄다는 평이다. 닉 보스트롬의 『Superintelligence』(2014), 헨리 키신저·에릭 슈밋 등이 함께 쓴 『Genesis』, 팔란티어 CEO 알렉스 카프의 『The Technological Republic』도 목록에 올랐다. 카프의 책은 문장이 형편없다는 혹평을 들었지만, 테크 CEO들이 실제로 무엇을 믿는지 엿보게 해 준다."
+          },
+          {
+            "t": "p",
+            "x": "역사와 이념, 소설로 맥락을 넓힌 책도 있다. 질 르포어의 신간 『The Rise and Fall of the Artificial State』, 애덤 베커의 『More Everything Forever』, 버지니아 유뱅크스의 『Automating Inequality』(2018), 애니타 세이 챈의 『Predatory Data』, 카리사 벨리스의 『Prophecy』가 여기 들었다. 소설로는 아이작 아시모프의 『I, Robot』, 재커리 메이슨의 『The Lost Books of the Odyssey』, 보르헤스의 『Labyrinths』를 골랐다. 작가 로빈 슬론은 메이슨의 책을 두고 \"사람이 온전히, 아름답게 썼지만 LLM 시대의 첫 책\"이라고 했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-clarivate-pulse-library",
+      "eyebrow": "AI NEWS",
+      "headline": "벌어지는 도서관 AI 격차\n본격 도입은 전 세계 16%",
+      "mini_headline": "도서관 AI 도입 격차",
+      "body": "Clarivate 조사에서 AI를 중간 이상 도입한 도서관은 전 세계 16%였다.",
+      "tool": "Books",
+      "source": "Library Journal infoDOCKET",
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-15-06-1.png"
+          },
+          {
+            "t": "p",
+            "x": "Clarivate가 도서관 현황 보고서 「Pulse of the Library 2026」을 내놓았다. 올해로 3년째인 이 글로벌 설문은 AI를 비롯한 기술 변화, 달라지는 우선순위, 늘어나는 인력·자원 부담에 도서관이 어떻게 대응하는지 살핀다."
+          },
+          {
+            "t": "p",
+            "x": "AI 도입 수준은 중국 본토가 가장 높았다. 중간 이상 도입했다는 응답이 28%로, 2024년의 두 배를 넘었고 전 세계 수치 16%도 크게 웃돌았다."
+          },
+          {
+            "t": "p",
+            "x": "AI 실험 단계를 넘어선 도서관과 아직 걸음마 단계인 도서관 사이의 격차도 벌어졌다. 적극 도입 중인 도서관의 51%는 도서관과 IT 부서가 함께 거버넌스를 맡는다. 전체 표본에서는 26%뿐이다. 체계적인 거버넌스와 부서 간 협업이 그만큼 중요하다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "Clarivate 학계·정부 부문 전략·혁신 담당 수석부사장 오런 베이트-아리에는 \"도서관에 AI는 끊임없는 변화이자, 언제 도입하고 언제 멈출지, 학문적 진실성과 도서관의 핵심 가치를 어떻게 지킬지를 놓고 내려야 하는 어려운 선택의 연속\"이라고 말했다. 그가 올해 조사에서 눈여겨본 대목은 AI를 실험하며 배우고 자신감을 쌓는 도서관과, 스스로 택했든 자원이 모자라서든 관망하는 도서관의 차이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-17-04-1.png"
+          },
+          {
+            "t": "p",
+            "x": "걱정거리도 달라졌다. 사서들은 개인정보와 보안, 허위정보, AI 결과물의 편향을 가장 크게 우려했다. AI를 도입 중인 도서관이 도입하지 않은 곳보다 오히려 우려를 더 많이 꼽았다. 직접 써 볼수록 위험과 기회가 함께 눈에 들어온다는 방증이다."
+          },
+          {
+            "t": "p",
+            "x": "AI로 이루려는 목표에서는 직원 생산성이 앞으로 나섰다. 응답자의 58%가 AI 사업의 주요 목표로 직원 생산성을 꼽았다. 업무량과 책임은 늘어나는데 손은 부족하니 AI로 여력을 만들려는 것이다. 대학 도서관은 여전히 학생 학습을 앞세우지만 운영 효율에도 관심을 키우는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "AI 말고도 풀어야 할 과제는 많다. 응답자들은 오픈 사이언스, 개방형 교육자료, 도서관 예산, 연구 지원, 바뀌는 이용자 요구를 함께 거론했다. 전체 보고서는 26쪽 분량의 PDF로 공개됐다."
+          }
+        ]
+      }
+    }
+  ]
+}

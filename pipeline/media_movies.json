@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "movies",
-  "generated_by": "ax-media",
   "media": [
     {
-      "id": "movies-switchx-reframe",
+      "id": "movies-third-hand",
       "type": "image",
-      "src": "pipeline/media/movies-switchx-reframe.jpg"
+      "src": "pipeline/media/movies-third-hand.png"
     },
     {
-      "id": "movies-eddie-ai-v4",
-      "type": "image",
-      "src": "pipeline/media/movies-eddie-ai-v4.jpg"
-    },
-    {
-      "id": "movies-ibc-splat-pipeline",
-      "type": "image",
-      "src": "pipeline/media/movies-ibc-splat-pipeline.jpg"
-    },
-    {
-      "id": "movies-cruise-bafta-real",
-      "type": "image",
-      "src": "pipeline/media/movies-cruise-bafta-real.jpg"
-    },
-    {
-      "id": "movies-2d-world-model-track",
+      "id": "movies-seedance25",
       "type": "video",
-      "src": "pipeline/media/movies-2d-world-model-track.mp4",
-      "poster": "pipeline/media/movies-2d-world-model-track.jpg"
+      "src": "pipeline/media/movies-seedance25.mp4",
+      "poster": "pipeline/media/movies-seedance25.jpg"
+    },
+    {
+      "id": "movies-duncan-jones",
+      "type": "image",
+      "src": "pipeline/media/movies-duncan-jones.jpg"
+    },
+    {
+      "id": "movies-captionx-clips",
+      "type": "image",
+      "src": "pipeline/media/movies-captionx-clips.jpg"
+    },
+    {
+      "id": "movies-camera-angles",
+      "type": "video",
+      "src": "pipeline/media/movies-camera-angles.mp4",
+      "poster": "pipeline/media/movies-camera-angles.jpg"
     }
   ]
 }

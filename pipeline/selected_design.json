@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "design",
   "picks": [
     {
       "rank": 1,
-      "tool": "VR Prototype",
-      "category": "vr",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
-      "source": "UploadVR",
-      "published_iso": "2026-09-21T02:49:42Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Specs-Intelligence-and-Cellular-Charging-Case.jpg",
-      "excerpt": "Snap says its Specs AR glasses, launching this fall, ship with a cross-platform AI agent and an optional cellular charging case — pushing agent UI onto the face.",
-      "rationale": "First shipping consumer AR glasses with a cross-platform agent — the agent-on-your-face interface moves from concept deck to a surface designers must actually spec."
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c",
+      "source": "UX Collective",
+      "published_iso": "2026-09-22T11:22:49Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OwqfjliOk8pGWQG8b82VMw.png",
+      "excerpt": "Users forgive a slow answer; what breaks trust is an AI product that is fast one day and slow the next without explanation. A founder-engineer on designing latency and variance communication into AI interfaces.",
+      "rationale": "Names a concrete, under-designed AI UX problem (latency variance, not latency) and gives designers something to put in the interface tomorrow."
     },
     {
       "rank": 2,
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#f5a623",
+      "tool": "AI Workflow",
+      "category": "workflow",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8",
-      "source": "UX Collective",
-      "published_iso": "2026-09-20T12:36:44Z",
-      "og_image": "",
-      "excerpt": "A design proposal for 'AI nutrition facts' — an interface layer between writers, readers and AI that discloses how much of a piece was machine-generated.",
-      "rationale": "AI 생성 비율을 인터페이스로 드러내자는 제안 — 디자이너가 화면에 설계해야 할 새 공시 레이어."
+      "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
+      "source": "Fast Company",
+      "published_iso": "2026-09-21T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608605-having-good-taste-will-not-save-designers-from-AI.jpg",
+      "excerpt": "'Taste is what AI can't replace' has become designers' go-to defense as execution gets easier; this piece argues taste alone won't protect designers' jobs from AI.",
+      "rationale": "Directly challenges the profession's default 'taste' defense against AI; a distinct argument from the 09-20 human-judgment panel piece. Fast Company needs a Playwright fetch."
     },
     {
       "rank": 3,
@@ -34,61 +34,72 @@
       "category": "cad",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/",
+      "url": "https://www.engineering.com/autodesks-ai-push-is-actually-a-pull/",
       "source": "Engineering.com",
-      "published_iso": "2026-09-21T13:00:00Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/kw_sim_thumb.png",
-      "excerpt": "From luxury watches to GPU cold plates, product teams are replacing slow solvers with AI surrogate models — and finding where the cost-benefit tradeoff actually holds up.",
-      "rationale": "Named shipping products, not a demo: shows exactly where AI surrogate models pay off in a real design loop and where they still do not."
+      "published_iso": "2026-09-22T18:22:12+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_jeffkinder-1024x576.png",
+      "excerpt": "Autodesk D&M execs Jeff Kinder and Sanjay Aggarwal on Fusion's AI features, a new agentic PLM experience and the next Autodesk Assistant — framed as customer pull rather than vendor push.",
+      "rationale": "Product-roadmap detail on Fusion AI, agentic PLM and the next Autodesk Assistant; separate from the 09-22 Creative Bloq card about Autodesk's M&E demo film."
     },
     {
       "rank": 4,
-      "tool": "Figma",
-      "category": "figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "url": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
-      "source": "Creative Bloq",
-      "published_iso": "2026-09-21T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/TStMLmxj9HSL8wtYGgNvJd-1920-80.jpg",
-      "excerpt": "Autodesk's own AI-made short film shipped with a continuity error no prompt could fix. VP of M&E strategy Maurice Patel explains why AI won't replace human animators.",
-      "rationale": "A concrete failure mode from the vendor's own showcase — names the exact class of continuity work generative pipelines still cannot close."
+      "tool": "Design Tokens",
+      "category": "tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://dev.to/alonsarias/choose-by-eye-leave-with-a-prompt-an-unofficial-impeccable-design-browser-163k",
+      "source": "DEV Community",
+      "published_iso": "2026-09-21T09:01:00Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbz3ij13t3dij97veos86.png",
+      "excerpt": "An unofficial visual browser for the Impeccable design skill: pick a design direction by eye and leave with a ready-made prompt to steer AI coding agents' frontend output.",
+      "rationale": "A tool designers can use right away: pick a visual direction by eye and get a prompt that steers an AI coding agent's frontend output."
     },
     {
       "rank": 5,
-      "tool": "Social",
-      "category": "social",
-      "accent": "#ff2d55",
+      "tool": "Figma",
+      "category": "figma",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "url": "https://www.youtube.com/watch?v=rmN9IzHx_Wc",
-      "source": "Jesse Showalter",
-      "published_iso": "2026-09-19T17:00:14Z",
-      "og_image": "https://i.ytimg.com/vi/rmN9IzHx_Wc/maxresdefault.jpg",
-      "excerpt": "Designer Jesse Showalter puts Framer's agent to work fixing bugs in a live site build — a short, concrete look at agentic editing inside a mainstream design tool.",
-      "rationale": "Agentic editing inside Framer, watched end to end on a real site — the most directly copyable workflow in the pool for a working designer."
+      "url": "https://dev.to/aloow/two-images-two-jobs-designing-inputs-for-ai-product-photos-768",
+      "source": "DEV Community",
+      "published_iso": "2026-09-22T10:33:11Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fejoj9ovqcvq4jt0q86yq.png",
+      "excerpt": "How to design inputs for AI product-photo editing: separating the product image from the style reference so the model keeps the product intact while adopting the ad's look.",
+      "rationale": "A concrete input-design pattern (keep the product image and the style reference apart) for anyone making or designing AI product-photo tools."
     }
   ],
   "dedup": {
-    "checked_against": "sections.design today (2026-09-20) + days 2026-09-14..2026-09-19, 25 published cards",
+    "checked_against": "sections.design today (2026-09-22) + days 2026-09-15, 09-17, 09-18, 09-19, 09-20 — 30 published cards",
     "dropped": [
       {
-        "url": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
-        "reason": "within-pool duplicate — same Snap Specs launch event as rank 1; kept the stronger AI-agent angle"
-      },
-      {
         "url": "https://www.builder.io/blog/the-internet-is-not-ready-for-the-agentic-wave",
-        "reason": "core topic (WebMCP / agentic web plumbing) already covered 2026-09-19 via Vercel 'webmcp-mcp-handler'"
+        "reason": "core topic (WebMCP / agentic web plumbing) already covered 2026-09-19 via Vercel 'webmcp-mcp-handler'; consistent with the 09-22 curator drop"
       },
       {
         "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
-        "reason": "same recurring CG Channel weekly roundup format published 2026-09-14 (13 September edition) — deprioritized, not a fresh distinct story"
+        "reason": "recurring CG Channel weekly roundup, not a distinct story; also no og_image"
       },
       {
         "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469",
-        "reason": "UX Collective weekly roundup, overlaps the 'AI dissolves the deliverable' thesis already run 2026-09-15 (double diamond)"
+        "reason": "UX Collective weekly roundup, overlaps the 'AI dissolves the deliverable' thesis already run 2026-09-15 (double diamond); dropped on 09-22 too"
+      },
+      {
+        "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+        "reason": "within-pool duplicate cluster (Claude Opus 5.5 / GPT-6 launch x3: Verge, Engadget, Vercel), and none of the three has a real design-workflow angle, so all are dropped as generic model-launch news"
       }
     ],
-    "diversity_guard": "5 distinct outlets (UploadVR, The Verge, Engineering.com, Creative Bloq, Jesse Showalter), 5 distinct categories (vr, workflow, cad, figma, social), no repeated accent",
-    "cross_section_drop": "The Verge Googlebook laptops kept in gadgets (same URL); design backfilled with UX Collective AI nutrition facts."
+    "skipped_as_noise": [
+      "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+      "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "https://www.builder.io/blog/what-is-jev",
+      "https://www.youtube.com/watch?v=F3YXg7AaKWE",
+      "https://www.youtube.com/watch?v=-XWSJM-Ue-o",
+      "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
+    ],
+    "diversity_guard": "4 distinct outlets (UX Collective, Fast Company, Engineering.com, DEV Community x2); categories figma x2, workflow, cad, tokens; the second figma pick gets palette accent #3b6bff, so no accent repeats"
   }
 }
