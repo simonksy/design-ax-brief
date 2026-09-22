@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "books",
   "generated_by": "ax-curator",
   "selection_mode": "curator-auto (user deferred — \"알아서\")",
@@ -10,106 +10,116 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Unsealed Files Show Open AI/Microsoft Knew Copying Was Illegal and Could Hurt Authors",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-21T00:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131557-2.JPG",
-      "excerpt": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
-      "rationale": "Freshest and heaviest item in the pool: internal admissions, now on the record, that the training copies were known to be unlawful and that AI books would displace human-authored ones — the exact market-harm prong the authors' summary-judgment fight turns on.",
-      "framing_note": "WRITER: lead on the BOOKS half — the unsealed defendant briefs about copyrighted books and displacement of human-authored titles. Do NOT re-tell the news-publisher/NYT clickthrough revelations: that unredaction already shipped on 2026-09-18 as books-ms-scraping-filings (TechCrunch, 'largest theft of labor in human history'). One clause of setup at most."
-    },
-    {
-      "rank": 2,
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "headline": "Industry bodies criticise government's \"opt-out\" AI proposals",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
-      "source": "Books+Publishing",
-      "published_iso": "2026-09-20T23:32:34Z",
-      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/APA-ASA-combined-400x200.jpg",
-      "excerpt": "The Australian Publishers Association (APA) and the Australian Society of Authors (ASA) have criticised proposals put forward by the Australian Government that would make the inclusion of Australian creative work in AI training opt-out by default. \"We cannot shift the burden to creators and rights-holders to try to protect their work.\"",
-      "rationale": "A second national government moving to a default opt-out for AI training — the policy shape that decides whether any licensing market exists, with both the publisher and author bodies on record against it.",
-      "framing_note": "WRITER: this is the dedicated article; the same APA/ASA criticism also leads the Books+Publishing daily roundup (340842), which was dropped as a within-pool duplicate. Use only this one."
+      "headline": "Apollo: an AI model that fills the gaps in damaged ancient Greek papyri",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "source": "WIRED",
+      "published_iso": "2026-09-22T09:00:00Z",
+      "og_image": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
+      "excerpt": "Researchers developed Apollo, a large language model that fills in the gaps in damaged ancient Greek papyrus fragments to help read and translate tattered historical texts.",
+      "rationale": "Freshest item in the pool and the only new release: a purpose-built LLM for restoring and reading lost texts, a concrete case of AI extending what can be read at all rather than another policy fight.",
+      "framing_note": "WRITER: keep it on the reading/translation of texts (restoring damaged papyri, what scholars can now read) — not a generic 'AI model' story. CROSS-SECTION RISK: this WIRED piece could also be picked by the science section today; the orchestrator should check selected_science.json and keep it in only one section (card id + pipeline/media/ file collide otherwise)."
     },
     {
       "rank": 3,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Accelerating Generative AI Integration in Libraries — Information Technology and Libraries, Vol. 45 No. 3 (2026)",
-      "url": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/",
-      "source": "LJ infoDOCKET",
-      "published_iso": "2026-09-21T13:56:12Z",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-21_09-54-41.png",
-      "excerpt": "A new special issue of Information Technology and Libraries is now available online. This special issue is devoted to \"showcasing examples and ideas for integrating GenAI tools into galleries, libraries, archives, and museums.\"",
-      "rationale": "A whole peer-reviewed issue of worked GenAI implementations for galleries, libraries, archives and museums — open access, and the most directly copyable set of examples anyone running a collection can take to their own stack this week.",
-      "framing_note": "WRITER: name two or three concrete articles from the issue rather than describing 'a special issue' in the abstract."
+      "headline": "Disclosing AI Use in Academic Research: A New Global Study from Oxford University Press",
+      "url": "https://www.infodocket.com/2026/09/10/disclosing-ai-use-in-academic-research-a-new-global-study-from-oxford-university-press/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-09-10T10:11:10+00:00",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-10_05-43-29.png",
+      "excerpt": "Oxford University Press updated author and editor guidelines with a policy on what AI use must be disclosed in manuscripts, alongside a survey of 2,600+ researchers on AI disclosure.",
+      "rationale": "The most actionable item in the pool: a major press's new AI-disclosure rule for manuscripts, with data from a survey of 2,600+ researchers. Authors submitting to OUP have to comply with it now.",
+      "framing_note": "WRITER: lead with what OUP now requires authors to disclose, then the survey numbers. Oldest item in the five (09-10); frame it as the policy now in force, not as breaking news."
     },
     {
       "rank": 4,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "Writing Conferences Shouldn't Ignore AI in Their Programming",
-      "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-15T09:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/09/friedman_conferences_ai-social.png",
-      "excerpt": "Conference attendees have many questions about AI, and organizers would better serve their audience by engaging with intent and clarity.",
-      "rationale": "The one item aimed at the people who set the agenda for working writers — how to put AI on a conference programme on purpose instead of ducking it, which is where most authors will actually get their first briefing.",
-      "framing_note": "WRITER: Jane Friedman's posts are partly paywalled; keep to what the public portion supports and say so if the body is truncated."
+      "headline": "Damned If You Do, Damned If You Don't: Multilingual Researchers' Use of AI in Academic Writing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-22T09:30:36+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/10/iStock-478438526.jpg",
+      "excerpt": "Generative AI has made language tools ubiquitous for multilingual researchers, but it introduces risks of homogenized texts and semantic slippage — and suspicion from journals either way.",
+      "rationale": "Pairs with the OUP disclosure rule from the writer's side: non-native-English authors are suspected whether they use AI or not, which is the equity cost of the disclosure regimes journals are adopting.",
+      "framing_note": "WRITER: the 2026-09-17 card books-llm-homogenises-writing (The Bookseller) covered homogenisation in general. Lead here on the multilingual researcher's double bind with journals, and give homogenisation one clause at most."
+    },
+    {
+      "rank": 4,
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "headline": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
+      "source": "The Guardian",
+      "published_iso": "2026-09-17T11:00:46Z",
+      "og_image": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7",
+      "excerpt": "Guardian reporters and experts recommend the books that explain how the AI industry got here and where it is headed, amid a chaotic moment reshaping our lives.",
+      "rationale": "AI is the whole subject (45 mentions): a curated list of books about the AI industry. It is the only reader-facing item in the pool and a new outlet for the section, which balances the three scholarly-publishing picks.",
+      "framing_note": "WRITER: name specific titles and authors from the list and say what each helps a reader understand. Do not write a generic 'AI anxiety' piece."
     },
     {
       "rank": 5,
       "tool": "Books",
-      "accent": "#eb367f",
+      "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "Revisiting Vikram Chandra's Ode to the Art of Human Coding in the Age of AI",
-      "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/",
-      "source": "Literary Hub",
-      "published_iso": "2026-09-16T09:10:09Z",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/coding.jpg",
-      "excerpt": "Twelve years ago, Vikram Chandra's Geek Sublime: The Beauty of Code, The Code of Beauty was published. In terms of actual history, that isn't long at all; in terms of technology, it's an eternity.",
-      "rationale": "The reading-side card in a policy-heavy five: a novelist's aesthetics of handwritten code re-read against generated code, and the only pick that argues about craft rather than contracts.",
-      "framing_note": "WRITER: this is an essay, not news — build the card around the specific claim the piece makes about Chandra's book, not around a general 'AI and creativity' theme."
+      "headline": "Just Released: Clarivate Releases Pulse of the Library 2026",
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
+      "source": "Library Journal infoDOCKET",
+      "published_iso": "2026-09-09T09:27:20+00:00",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-15-06-1.png",
+      "excerpt": "Clarivate's Pulse of the Library 2026 finds a widening gap between libraries actively implementing AI and those still experimenting; 16% globally report moderate-to-active AI implementation.",
+      "rationale": "AI adoption is the report's main finding, and it comes with hard numbers (16% of libraries worldwide at moderate-to-active AI implementation, and a widening gap). It is data, not opinion, so it beats the SK Groupthink essay for the last slot. infoDOCKET reaches its 2-card outlet cap here.",
+      "framing_note": "WRITER: lead with the numbers on the gap between libraries that are implementing AI and those still experimenting. The survey is vendor-published, so attribute findings to Clarivate. Keep it distinct from books-ital-genai-libraries (09-22) and books-crl-digitization (09-20): this card is about adoption rates, not integration case studies or digitization terms. This is the oldest item (09-09), so frame it as the current state of play."
     }
   ],
   "dropped": [
     {
-      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340842/government-ai-proposals-difficult-to-reconcile/",
-      "source": "Books+Publishing",
-      "headline": "Government AI proposals \"difficult to reconcile\"",
-      "reason": "WITHIN-POOL CONTENT DUPLICATE of rank 2. Same source, same day, same core story — this is the Books+Publishing daily roundup whose lead item is the identical APA/ASA criticism of the opt-out AI training proposal. The remaining roundup items (Richell Prize longlist, China) carry no AI axis. Kept the dedicated article instead: tighter, and it carries a real APA/ASA image rather than the site-wide generic OG banner."
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
+      "source": "Publishers Weekly",
+      "headline": "Frankfurt Book Fair 2026: Must-See Events",
+      "reason": "CONTENT HUB near-duplicate of rank 2: same outlet, same day, same core topic (PW's Frankfurt 2026 preview package). Kept the single stronger piece, the agents' view on AI provenance. Keeping this one too would also have meant three PW cards, over the 2-per-outlet cap."
     },
     {
       "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
-      "source": "LJ infoDOCKET",
+      "source": "Library Journal infoDOCKET",
       "headline": "Reimagining Research Papers as Interactive and Reliable AI Agents (New Journal Article)",
-      "reason": "Not a duplicate — dropped on the final-5 diversity guard. Taking it would put two LJ infoDOCKET link-posts in a five-card brief and leave only four outlets; its Paper2Agent subject is scholarly-tooling research that sits closer to the science section than to book publishing practice, and it has no og_image at all (empty), so the media pass would have nothing to work from. Same call the 2026-09-20 pass made."
+      "reason": "Not a duplicate. Dropped on fit, the same call as the 09-20 and 09-22 passes: Paper2Agent is research tooling closer to the science section than to publishing practice, and it has an empty og_image, so the media pass has no image to use."
     },
     {
-      "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
-      "source": "Literary Hub",
-      "headline": "The Conveniences I Used to Write a Book About Inconvenience (Definitely Not AI)",
-      "reason": "Weakest item in the pool. Keyword-level AI relevance only — the AI reference is a parenthetical joke in the title of a personal essay about writing a book on convenience. No release, no finding, nothing a writer or publisher acts on. Also second Literary Hub item, behind the Chandra essay."
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/",
+      "source": "The Scholarly Kitchen",
+      "headline": "Ask the Chefs: Peer Review Capacity — Uncomfortable Truths and Overlooked Conversations",
+      "reason": "Not a duplicate. Lost on score: this is a multi-voice opinion roundup, and AI is only one of several threads. It overlaps in theme with ranks 3-4 (AI in scholarly submissions) but adds no new policy or data."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/",
+      "source": "The Scholarly Kitchen",
+      "headline": "Guest Post: A Groupthink We Don't Talk Much About",
+      "reason": "Not a duplicate. Weakest in the pool: an opinion piece on industry incentives with no release, finding, or rule a publisher could act on."
+    },
+    {
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
+      "source": "Library Journal infoDOCKET",
+      "headline": "Just Released: Clarivate Releases Pulse of the Library 2026",
+      "reason": "Not a duplicate. Lost on score and diversity: a vendor survey about library AI adoption, too close to vendor/business noise. Library AI practice was also covered recently by books-crl-digitization (09-20) and books-ital-genai-libraries (09-22)."
     }
   ],
   "dedup": {
-    "checked_against": "news_data.json sections.books — today (2026-09-20) plus days 2026-09-19, 09-18, 09-17, 09-15, 09-14 (30 published cards)",
+    "checked_against": "news_data.json sections.books — today (2026-09-22) plus days 2026-09-20, 09-19, 09-18, 09-17, 09-15 (30 published cards)",
     "published_urls_in_window": 30,
-    "pool_size": 8,
-    "dropped": 3,
+    "pool_size": 10,
+    "dropped": 5,
     "notes": [
-      "No surviving pick shares a URL with any published books card. Final five contain five distinct URLs.",
-      "NEAR-MISS, kept: rank 1 (PW, unsealed OpenAI/Microsoft briefs) is adjacent to books-ms-scraping-filings (TechCrunch, published 2026-09-18) — both stem from unsealing in the consolidated In re OpenAI MDL. Judged DISTINCT: the TechCrunch card was the New York Times' filings about news clickthrough collapse and the Brent Hecht 'theft of labor' memo; this is the later unsealing of the defendants' own briefs on copyrighted BOOKS and displacement of human-authored titles. Different filings, different plaintiffs' record, different finding, four days apart. framing_note constrains the writer so the published angle is not re-run.",
-      "NEAR-MISS, kept: rank 2 (Australian opt-out proposals) sits in the same copyright-policy family as books-ai-licensing-market (The Bookseller, 2026-09-19, UK collective licensing) and books-chefs-licensing (2026-09-20, US DOJ). Different jurisdiction, different instrument (a government consultation proposing default opt-out), no overlap of facts.",
-      "NEAR-MISS, kept: rank 5 (Literary Hub) — the section ran a Literary Hub card on 2026-09-17 (books-baldwin-typewriter), but that was the Baldwin exhibit typewriter; unrelated subject, different article.",
-      "Outlet spread: Publishers Weekly, Books+Publishing, LJ infoDOCKET, Jane Friedman, Literary Hub — five distinct outlets, max 1 per outlet, comfortably inside the 2-per-outlet cap and the 3-outlet floor.",
-      "Category spread within books: 2 copyright/policy (ranks 1-2), 1 library/GLAM practice (rank 3), 1 industry-craft/education (rank 4), 1 literary essay (rank 5).",
-      "Full 5 picked; no shortfall, no padding.",
-      "Cross-section check: none of the five is a hardware or general-tech item, so no collision risk with the gadgets or science sections this run."
+      "No candidate shares a URL with any published books card, and none reports the same event as a published card. All five picks have distinct URLs.",
+      "NEAR-MISS, kept: rank 4 (multilingual researchers, SK) is close in theme to books-llm-homogenises-writing (Bookseller, 09-17), but it is a different article with a different angle (the multilingual author's bind with journals). A framing_note stops the writer from repeating the earlier card.",
+      "NEAR-MISS, kept: rank 2 (Frankfurt agents) mentions the AI-novel cancellations that books-chatbot-custom-fiction (WIRED, 09-15) noted in passing. The new event is agents expecting provenance scrutiny at Frankfurt 2026, which is distinct.",
+      "Outlet spread: WIRED, Publishers Weekly x2, LJ infoDOCKET, The Scholarly Kitchen — four outlets, within the 2-per-outlet cap.",
+      "Topic spread: AI for reading and translating texts (1), rights and provenance (2), disclosure policy (3), author equity (4), metadata operations (5).",
+      "Cross-section: rank 1 (WIRED Apollo papyrus) is a plausible science-section pick too. Check before roll."
     ]
   }
 }

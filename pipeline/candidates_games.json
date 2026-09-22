@@ -1,143 +1,55 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "games",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
-      "source": "IGN",
+      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+      "source": "Roblox",
       "category": "games",
-      "published_iso": "2026-09-21T21:05:44Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/21/indie-dev-accuses-studio-of-using-ai-to-rip-off-potato-peeling-game-1790023730648.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Indie dev Tomas Sala accuses a studio of using AI to clone his viral potato-peeling game, saying the copy was churned out with generative tools while he refuses to let 'a cheap copy win.'"
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png",
+      "excerpt": "At RDC 2026, Roblox said it is building an AI creation layer on its platform. Its upcoming Scene Generator will take a text prompt plus a reference image and return a playable layout that creators can refine in Studio, and it will work in both the mobile Build app and Studio."
     },
     {
-      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
+      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-18T05:41:19Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp",
+      "excerpt": "At TGS 2026, Koei Tecmo, Gust and SpiralAI announced SophieChat:AI, an LLM-driven free-scenario RPG set in the world of Atelier Sophie 2. It follows RyzaChat:AI, which has logged more than 15 million spoken interactions and generates quests from conversation. (Off-list outlet: no on-list outlet covered it.)"
+    },
+    {
+      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-17T09:53:08Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
+      "excerpt": "Recruiter Hiraku Agent names background and prop artists and assistant programmers as the Japanese game jobs most affected by generative AI. It suggests demand is falling for the 'basic' tasks that junior creators have traditionally handled. (Off-list outlet. This is a separate source from the already-published CESA survey.)"
+    },
+    {
+      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
+      "source": "AUTOMATON WEST",
+      "category": "games",
+      "published_iso": "2026-09-18T10:41:12Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
+      "excerpt": "Square Enix updated Final Fantasy XIV's Materials Usage License. It loosens the rules on non-commercial fan-made physical goods but explicitly bans generative AI and 3D printing in fan merch. (Off-list outlet.)"
+    },
+    {
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-09-11T20:45:43Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
+      "excerpt": "Twitch is testing an AI-powered Stream Coach that analyzes each broadcast and gives creators personalized feedback on engagement, community building and monetization tools. Twitch itself warns the advice 'may contain errors or inaccuracies.'"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
       "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-09-21T15:42:51Z",
-      "og_image": "https://assetsio.gnwcdn.com/xbox-logo_z42Z06j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Microsoft has filed a patent for a machine learning system that trains on a player's session data to predict the moments they'll be least irritated by in-game ads, turning player behaviour models into ad-placement tooling."
-    },
-    {
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-21T12:01:04Z",
-      "og_image": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "An opinion piece from the Tokyo Game Show 2026 floor: nostalgia-heavy line-ups sat alongside an AI-forward show agenda, with Japanese studios openly debating how far generative tools should go in production."
-    },
-    {
-      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-18T21:08:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50279/images/6aada812739f5/contain_1200x630.jpg",
-      "excerpt": "A Tokyo Game Show 2026 report finds more than 85% of surveyed Japanese game developers now use generative AI somewhere in production, with adoption concentrated in art, prototyping and text."
-    },
-    {
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-09-18T15:15:39Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A Chinese court awarded MiHoYo $112,000 after an AI voice service cloned Genshin Impact character voices, one of the first game-industry rulings on synthetic voice likeness."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-16T15:53:23Z",
-      "og_image": "https://i.ytimg.com/vi/gy4HlUNn1lE/maxresdefault.jpg",
-      "excerpt": "Unity's walkthrough of its official OpenAI Codex plugin, showing the agent reading project context and performing editor actions inside a live Unity project."
-    },
-    {
-      "url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-16T07:04:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
-      "excerpt": "Microsoft published a draft code of practice for AI training data and invited public feedback, a document that would set ground rules for how artists' and studios' work can be used to train models."
-    },
-    {
-      "url": "https://unity.com/blog/unity-plugin-codex",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-09-16T00:00:00Z",
-      "og_image": "htttps://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity ships an official plugin for OpenAI Codex, wiring the coding agent into the Editor with skills, CLI access and editor control so it can read project context and act inside Unity."
-    },
-    {
-      "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-09-13T15:32:39Z",
-      "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Level-5's CEO admits the studio used generative AI to make its digital showcase 'more spectacular', apologising after fans spotted AI imagery in the Professor Layton and Yo-kai Watch presentation."
-    },
-    {
-      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-11T18:10:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50148/images/6aa2f79a45395/contain_1200x630.png",
-      "excerpt": "Researchers explain how EchoForge combines spatial audio analysis, scene graphs and procedural generation to turn sound recordings into explorable 3D environments inside Unity."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA",
-      "source": "Unreal Engine (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-10T20:29:23Z",
-      "og_image": "https://i.ytimg.com/vi/r_-fEi7fXLA/maxresdefault.jpg",
-      "excerpt": "Epic demos MetaHuman Animator markerless motion capture, driving full facial and body performance from ordinary video with no mocap suit or marker rig."
-    },
-    {
-      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-09-10T17:18:45Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A sports commentator claims EA used generative AI to produce commentator voiceover in NHL 27, reigniting the fight over synthetic performance in annual sports titles."
-    },
-    {
-      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-09-10T14:50:43Z",
-      "og_image": "https://assetsio.gnwcdn.com/old-school-runescape-dancing-on-bridge.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "RuneScape players revolted against a gen-AI copycat game — 'what in the vibe-coded s*** is this' — and the clone was pulled, a test case for AI-assembled knockoffs on storefronts."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-09T15:25:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/Overwatch-2-Zarya.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Hundreds of unionised Blizzard workers ratified a contract that gives them a formal say in how generative AI is adopted at the studio, alongside layoff protections."
-    },
-    {
-      "url": "https://unity.com/blog/unity-plugin-for-claude-code",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "og_image": "htttps://unity.com/unity-logo-2024.png",
-      "excerpt": "Unity's official Claude Code plugin brings the agent into the Editor with skills, CLI and editor control, letting it inspect scenes and run project tasks from natural language."
-    },
-    {
-      "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-08T13:27:23Z",
-      "og_image": "https://assetsio.gnwcdn.com/person-using-computer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A European developer survey finds the dominant AI anxiety is not replacement but speed: devs expect AI to be used to push output and compress schedules rather than eliminate roles."
-    },
-    {
-      "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-08T02:00:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Arm details its mobile-first AI reconstruction tech, arguing an open, developer-tunable approach beats the black-box upscaling model for phone and handheld game pipelines."
+      "published_iso": "2026-09-09T12:00:00Z",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Breaking Benjamin singer Benjamin Burnley is promoting his Fallout 4 first-person mod at concerts. The mod carries Nexus's 'AI-assisted' label (developer-led work with limited AI involvement), which feeds into the modding community's AI-disclosure debate. The AI angle is weak."
     }
   ]
 }

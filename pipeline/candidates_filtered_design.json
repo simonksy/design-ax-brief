@@ -1,55 +1,61 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
+      "url": "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-09-22T00:00+00:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
+      "excerpt": "Claude Opus 5.5 is live on Vercel AI Gateway (and callable from v0/AI SDK) with adaptive thinking, fast mode, regional inference and a 1M-token context window.",
+      "title": "Claude Opus 5.5 now available on AI Gateway - Vercel"
+    },
+    {
       "url": "https://www.builder.io/blog/the-internet-is-not-ready-for-the-agentic-wave",
       "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-09-21T18:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/266bd3b384ef418b80a521cf4583fb8c",
-      "excerpt": "The internet was built for humans, not AI agents. Builder.io argues agentic traffic breaks today's web infrastructure and looks at how APIs like WebMCP may reshape how sites and products are designed."
+      "published_iso": "2026-09-21T18:00:00.000Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/266bd3b384ef418b80a521cf4583fb8c?width=1200",
+      "excerpt": "Builder.io argues today's web was built for human visitors, not AI agents, and that agentic traffic breaks existing UX and infrastructure; proposals like WebMCP could reshape how sites expose actions to agents.",
+      "title": "The Internet Is Not Ready for the Agentic Wave"
     },
     {
       "url": "https://www.builder.io/blog/what-is-jev",
       "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-09-21T11:14:02Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F1f737bae3f85472b8486d76ba4570045",
-      "excerpt": "A primer on Jev: what it is, how it compares to LLMs, what it costs, and how to wire it into product work for fast AI decisions, with a TypeScript demo."
+      "category": "tokens",
+      "published_iso": "2026-09-21T11:14:02.066Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F1f737bae3f85472b8486d76ba4570045?width=1200",
+      "excerpt": "Explainer on Jev, a new fast typesafe classifier model (not a reasoning LLM) for making typed decisions inside agents and UI workflows, with cost comparison and a TypeScript demo.",
+      "title": "What is Jev and how to use it"
     },
     {
-      "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-09-21T00:00:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png",
-      "excerpt": "Grok 4.7 is now available on Vercel's AI Gateway at 40% off through September 27, with a 500K token context window and selectable reasoning levels for prototypes built in v0 and fx."
-    },
-    {
-      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8",
+      "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c",
       "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-09-20T12:36:44Z",
-      "og_image": "",
-      "excerpt": "A design proposal for 'AI nutrition facts' — an interface layer between writers, readers and AI that discloses how much of a piece was machine-generated."
+      "published_iso": "2026-09-22T11:22:49Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OwqfjliOk8pGWQG8b82VMw.png",
+      "excerpt": "Users forgive a slow answer; what breaks trust is an AI product that is fast one day and slow the next without explanation. A founder-engineer on designing latency and variance communication into AI interfaces.",
+      "title": "Attention Required! | Cloudflare"
+    },
+    {
+      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-09-22T21:27:21Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*USREMn6GsWPB5N5aBd-UVw.png",
+      "excerpt": "As AI tools absorb junior-level execution, the essay argues design leaders must keep hiring and mentoring juniors, because the judgment the field needs in ten years depends on that bet now.",
+      "title": "Attention Required! | Cloudflare"
     },
     {
       "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469",
       "source": "UX Collective",
-      "category": "figma",
+      "category": "workflow",
       "published_iso": "2026-09-21T11:36:07Z",
-      "og_image": "",
-      "excerpt": "UX Collective's weekly roundup on 'the death of the deliverable' — how AI is dissolving the artifacts designers hand off — plus a read on the iPhone Duo's UX."
-    },
-    {
-      "url": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-09-21T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/TStMLmxj9HSL8wtYGgNvJd-1920-80.jpg",
-      "excerpt": "Autodesk's own AI-made short film shipped with a continuity error no prompt could fix. VP of M&E strategy Maurice Patel explains why AI won't replace human animators."
+      "og_image": "https://cdn-images-1.medium.com/max/1024/0*nYjPlbTw2_RPYkH_.png",
+      "excerpt": "Weekly roundup led by 'For the Designless': AI hasn't changed what a designer does — giving form to a client's half-formed intent — but it has changed who can do it, whether the tool is a pencil, Photoshop or a prompt box; plus 'the death of the deliverable'.",
+      "title": "Attention Required! | Cloudflare"
     },
     {
       "url": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
@@ -57,31 +63,35 @@
       "category": "figma",
       "published_iso": "2026-09-20T09:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
-      "excerpt": "A creative studio built 'CHAIMERA', a physical AI-slop monster sculpture, as a public promise never to ship generative slop. It debuts at the British Art Fair this week."
+      "excerpt": "A creative studio built 'CHAIMERA', a physical 'AI slop monster' sculpture heading to the British Art Fair, as a public pledge never to make AI slop again.",
+      "title": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again | Creative Bloq"
     },
     {
-      "url": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
-      "source": "Creative Bloq",
+      "url": "https://dev.to/alonsarias/choose-by-eye-leave-with-a-prompt-an-unofficial-impeccable-design-browser-163k",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-09-21T09:01:00Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbz3ij13t3dij97veos86.png",
+      "excerpt": "An unofficial visual browser for the Impeccable design skill: pick a design direction by eye and leave with a ready-made prompt to steer AI coding agents' frontend output.",
+      "title": "Choose by eye, leave with a prompt: an unofficial Impeccable design browser"
+    },
+    {
+      "url": "https://dev.to/borisbob_91/say-hello-to-owllayer-the-agentic-ui-sdk-build-ai-powered-interfaces-across-react-vue-pi7",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-09-22T20:05:49Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzwav8ud2l4our5j8ja4d.png",
+      "excerpt": "OwlLayer launches as an 'agentic UI SDK' for building AI-powered, generative interfaces across React, Vue and other frameworks.",
+      "title": "🦉 Say hello to OwlLayer – The Agentic UI SDK! Build AI-powered interfaces across React, Vue, Angular, Svelte, Vanilla JS & PHP with voice, live context, and built-in HITL security. Built for the MCP generation! https://github.com/borisbob91/owllayer"
+    },
+    {
+      "url": "https://dev.to/aloow/two-images-two-jobs-designing-inputs-for-ai-product-photos-768",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-09-20T06:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1920-80.jpg",
-      "excerpt": "As AI video quality rises, 'AI slop' no longer describes what creatives are seeing. Creative Bloq argues the critique needs new vocabulary for competent-but-empty generated work."
-    },
-    {
-      "url": "https://dev.to/rafael_dev/from-epic-to-merge-an-end-to-end-workflow-for-software-development-with-ai-agents-1ijn",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-09-21T21:55:40Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkgz3ngwf2p7uies8nw5v.png",
-      "excerpt": "An end-to-end workflow for shipping with coding agents: how to slice an epic, hand agents enough repo context, and get from issue to merged PR without losing review discipline."
-    },
-    {
-      "url": "https://dev.to/jackymencz/how-we-stopped-agentic-scope-escapes-red-teaming-our-ai-coding-agent-3e11",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-09-21T21:18:43Z",
-      "og_image": "",
-      "excerpt": "A team red-teamed its own AI coding agent to stop 'scope escapes' — cases where the agent edits files and systems it was never asked to touch — and documents the guardrails that worked."
+      "published_iso": "2026-09-22T10:33:11Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fejoj9ovqcvq4jt0q86yq.png",
+      "excerpt": "How to design inputs for AI product-photo editing: separating the product image from the style reference so the model keeps the product intact while adopting the ad's look.",
+      "title": "Two Images, Two Jobs: Designing Inputs for AI Product Photos"
     },
     {
       "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
@@ -89,124 +99,121 @@
       "category": "render",
       "published_iso": "2026-09-20T06:00:39Z",
       "og_image": "",
-      "excerpt": "CG Channel's weekly roundup of CG tool updates, including animation library builder Animcraft, game engine Unigine, and OctaneRender."
+      "excerpt": "CG Channel's weekly roundup: Basefount's Animcraft animation-library builder gains new AI rigging and animation systems, alongside updates to Unigine and OctaneRender.",
+      "title": "New CG software you may have missed: 20 September 2026 | CG Channel"
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "source": "NVIDIA Blog",
+      "category": "cad",
+      "published_iso": "2026-09-22T12:00:41+00:00",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+      "excerpt": "NVIDIA Isaac ROS 5.0 brings AI agent capabilities to the ROS developer ecosystem and expands open-source physical AI libraries and deployment on Jetson.",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
     },
     {
       "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "source": "NVIDIA",
-      "category": "render",
-      "published_iso": "2026-09-21T16:00:46Z",
+      "source": "NVIDIA Blog",
+      "category": "cad",
+      "published_iso": "2026-09-21T16:00:46+00:00",
       "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-pr-halos-1600x900-1.png",
-      "excerpt": "NVIDIA lays out a layered safety approach for physical AI as robots and autonomous machines scale, with ABI projecting 49M L3-5 autonomous vehicles and ~60M industrial robots by 2035."
+      "excerpt": "NVIDIA argues deploying physical AI at scale needs safety across hardware, software and validation, and details how its Halos stack applies to robots and autonomous vehicles.",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer"
     },
     {
-      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
-      "source": "NVIDIA Developer",
+      "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+      "source": "Engadget",
       "category": "render",
-      "published_iso": "2026-09-21T21:05:28Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image4-10.webp",
-      "excerpt": "A practical guide to evaluating AI agents beyond single answers: measuring chains of sequential tool calls against a live environment and scoring real task completion."
+      "published_iso": "2026-09-22T19:11:11+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/l-intro-1790104210.jpg",
+      "excerpt": "Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol and Luna iterate on Fable 5.1 and GPT-6 Astra with similar performance at lower cost; Anthropic claims Opus 5.5 beats Astra on agentic coding benchmarks.",
+      "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models - Engadget"
     },
     {
-      "url": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/",
+      "url": "https://www.engineering.com/autodesks-ai-push-is-actually-a-pull/",
       "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-09-21T13:00:00Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/kw_sim_thumb.png",
-      "excerpt": "From luxury watches to GPU cold plates, product teams are replacing slow solvers with AI surrogate models — and finding where the cost-benefit tradeoff actually holds up."
+      "published_iso": "2026-09-22T18:22:12+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_jeffkinder-1024x576.png",
+      "excerpt": "Autodesk D&M execs Jeff Kinder and Sanjay Aggarwal on Fusion's AI features, a new agentic PLM experience and the next Autodesk Assistant — framed as customer pull rather than vendor push.",
+      "title": "Autodesk’s AI push is actually a pull - Engineering.com"
     },
     {
-      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
       "source": "UploadVR",
       "category": "vr",
-      "published_iso": "2026-09-21T02:49:42Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Specs-Intelligence-and-Cellular-Charging-Case.jpg",
-      "excerpt": "Snap says its Specs AR glasses, launching this fall, ship with a cross-platform AI agent and an optional cellular charging case — pushing agent UI onto the face."
+      "published_iso": "2026-09-21T01:49:28.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-glasses-recording-LED.png",
+      "excerpt": "Meta will reportedly launch cheaper camera-less smart glasses at Connect; the capture button instead starts a conversation with Meta AI or its Muse agent, though the AI loses the ability to see what you see.",
+      "title": "Meta To Launch Smart Glasses Without Camera As Privacy Backlash Grows"
     },
     {
-      "url": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-09-21T03:25:03Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/See-for-Yourself-Watch-the-Specs-Demo.jpg",
-      "excerpt": "Snap's CEO demoed the standalone true-AR Specs live on stage, including an official Harry Potter experience from HBO — a rare unedited look at spatial UI in the wild."
-    },
-    {
-      "url": "https://www.uploadvr.com/acute-immersive-powers-custom-visionos-apps-for-immersive-video/",
-      "source": "UploadVR",
-      "category": "vr",
-      "published_iso": "2026-09-21T10:00:23Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_4684-headline-removed.png",
-      "excerpt": "Acute Immersive lets businesses build custom immersive-video apps for Apple Vision Pro without a bespoke dev team, with publishing, monetization and analytics built in."
-    },
-    {
-      "url": "https://www.fastcompany.com/91607444/using-ai-isnt-the-advantage-rethinking-work-is",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-09-21T17:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91607444.jpg",
-      "excerpt": "Daily AI use among marketers rose from 88% to 91%, yet fewer than half report better outcomes. The argument: advantage comes from redesigning the work, not adopting the tool."
-    },
-    {
-      "url": "https://www.fastcompany.com/91606913/your-companys-ai-getting-smarter-every-day-should-be",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-09-21T15:38:34Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91606913.jpg",
-      "excerpt": "Most company AI deployments can't learn from experience — every session starts from zero. The case for building memory into the AI your team works with every day."
-    },
-    {
-      "url": "https://www.cio.com/article/4223955/your-ai-agent-may-have-made-the-decision-but-your-company-owns-the-risk.html",
-      "source": "CIO",
-      "category": "workflow",
-      "published_iso": "2026-09-21T09:00:00Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4223955-0-59505600-1789981370-shutterstock_2666021407.jpg",
-      "excerpt": "When an embedded support agent issued an unauthorized action, nobody could trace the decision backward. A field guide to accountability and audit trails for agentic products."
-    },
-    {
-      "url": "https://www.cio.com/article/4224005/adopting-a-skills-first-mentality-for-ai-integration.html",
-      "source": "CIO",
-      "category": "workflow",
-      "published_iso": "2026-09-21T10:00:00Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4224005-0-88094200-1790019998-hard-IT-roles-to-fill-shutterstock_2795930363.jpg",
-      "excerpt": "AI got integrated faster than people could learn it. CompTIA's 2026 workforce study frames a skills-first training approach for teams facing a widening AI skills gap."
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
       "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-09-21T13:01:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&strip=all&w=1200",
-      "excerpt": "Google and five OEMs announced the first Googlebook laptops — Acer, Asus, Dell, HP and Lenovo — a new Gemini-first hardware class open for preorder today."
+      "published_iso": "2026-09-22T16:30:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Anthropic launches Claude Opus 5.5 with stronger safeguards after recent rogue-AI hacking incidents; certain cybersecurity requests will be rerouted to a less powerful model.",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity"
     },
     {
-      "url": "https://www.youtube.com/watch?v=rmN9IzHx_Wc",
-      "source": "Jesse Showalter",
-      "category": "social",
-      "published_iso": "2026-09-19T17:00:14Z",
-      "og_image": "https://i.ytimg.com/vi/rmN9IzHx_Wc/maxresdefault.jpg",
-      "excerpt": "Designer Jesse Showalter puts Framer's agent to work fixing bugs in a live site build — a short, concrete look at agentic editing inside a mainstream design tool."
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-09-22T20:52:40+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Rabbit is rolling out a new AI agent that no longer requires its R1 device, while the company says it still isn't giving up on AI hardware.",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run"
     },
     {
-      "url": "https://www.youtube.com/watch?v=o4Vi5uBZYH0",
-      "source": "AI Jason",
-      "category": "social",
-      "published_iso": "2026-09-21T11:15:05Z",
-      "og_image": "https://i.ytimg.com/vi/o4Vi5uBZYH0/maxresdefault.jpg",
-      "excerpt": "AI Jason pairs Jev with Treg to build fast automation workflows, showing where the new lightweight decision layer beats a full LLM call."
+      "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-09-21T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608605-having-good-taste-will-not-save-designers-from-AI.jpg",
+      "excerpt": "'Taste is what AI can't replace' has become designers' go-to defense as execution gets easier; this piece argues taste alone won't protect designers' jobs from AI.",
+      "title": "fastcompany.com"
     },
     {
-      "url": "https://www.youtube.com/watch?v=rcUTZysF9s4",
-      "source": "Matt Wolfe",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "category": "workflow",
+      "published_iso": "2026-09-21T12:00:00Z",
+      "og_image": "",
+      "excerpt": "With GPT-6 Astra, Higgsfield AI ships new video features in a day, making video ad creation easier for small businesses and bringing creative tools to market faster. (off-list: OpenAI customer story; no on-list coverage of Higgsfield this window)",
+      "title": ""
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-XWSJM-Ue-o",
+      "source": "Theo - t3.gg",
       "category": "social",
-      "published_iso": "2026-09-21T12:43:38Z",
-      "og_image": "https://i.ytimg.com/vi/rcUTZysF9s4/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe digs into a humanoid robot whose deliberately unsettling industrial design is doing real work — a look at how robot form language shapes user trust."
+      "published_iso": "2026-09-22T10:42:31Z",
+      "og_image": "https://i.ytimg.com/vi/-XWSJM-Ue-o/maxresdefault.jpg",
+      "excerpt": "Theo on prompting Anthropic's Fable 5.1 better to avoid performance drops — practical prompting workflow for the model.",
+      "title": "I was using Fable wrong, this is how I fixed it"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F3YXg7AaKWE",
+      "source": "Theo - t3.gg",
+      "category": "social",
+      "published_iso": "2026-09-21T00:28:21Z",
+      "og_image": "https://i.ytimg.com/vi/F3YXg7AaKWE/maxresdefault.jpg",
+      "excerpt": "Theo reviews Jev, a brand-new typesafe fast classifier model with safety perks that complements (not replaces) reasoning models like Astra and Fable.",
+      "title": "Jev is incredible"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
+      "source": "Fireship",
+      "category": "social",
+      "published_iso": "2026-09-21T17:52:29Z",
+      "og_image": "https://i.ytimg.com/vi/TbkUKCm3CHQ/maxresdefault.jpg",
+      "excerpt": "Fireship covers an ex-OpenAI researcher's experiment removing language from an LLM.",
+      "title": "An ex-OpenAI researcher just deleted language from the LLM..."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 25,
+    "kept": 23,
     "against_days": 5
   }
 }

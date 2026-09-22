@@ -1,32 +1,34 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "music",
-  "generated_by": "ax-media",
   "media": [
     {
-      "id": "music-komca-ai-registration-withdrawn",
+      "id": "music-snapchat-chat-to-song",
       "type": "image",
-      "src": "pipeline/media/music-komca-ai-registration-withdrawn.jpg"
+      "src": "pipeline/media/music-snapchat-chat-to-song.png"
     },
     {
-      "id": "music-suno-second-suit-v6",
-      "type": "image",
-      "src": "pipeline/media/music-suno-second-suit-v6.jpg"
+      "id": "music-impc-pro2-update3",
+      "type": "video",
+      "src": "pipeline/media/music-impc-pro2-update3.mp4",
+      "poster": "pipeline/media/music-impc-pro2-update3.jpg"
     },
     {
-      "id": "music-afm-new-use-clause",
+      "id": "music-sanremo-ai-rules",
       "type": "image",
-      "src": "pipeline/media/music-afm-new-use-clause.jpg"
+      "src": "pipeline/media/music-sanremo-ai-rules.jpg"
     },
     {
-      "id": "music-coronado-ai-sfx",
-      "type": "image",
-      "src": "pipeline/media/music-coronado-ai-sfx.webp"
+      "id": "music-fake-songs-artist-pages",
+      "type": "video",
+      "src": "pipeline/media/music-fake-songs-artist-pages.mp4",
+      "poster": "pipeline/media/music-fake-songs-artist-pages.jpg"
     },
     {
-      "id": "music-brian-may-ai-reversal",
-      "type": "image",
-      "src": "pipeline/media/music-brian-may-ai-reversal.jpg"
+      "id": "music-stem-separation-tools",
+      "type": "video",
+      "src": "pipeline/media/music-stem-separation-tools.mp4",
+      "poster": "pipeline/media/music-stem-separation-tools.jpg"
     }
   ]
 }

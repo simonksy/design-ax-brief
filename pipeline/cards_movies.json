@@ -1,201 +1,223 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "movies",
-  "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "movies-switchx-reframe",
+      "id": "movies-third-hand",
       "eyebrow": "AI NEWS",
-      "headline": "재촬영 없이 화면비를 바꾸는\nSwitchX 2.0의 Reframe",
-      "mini_headline": "4K로 올라선 SwitchX",
-      "body": "SwitchX가 네이티브 4K로 올라서고 화면비를 바꾸는 Reframe도 붙었다.",
+      "headline": "아자나비시우스 신작, 열흘 촬영을\nAI로 이틀에 끝내다",
+      "body": "1차대전 장면 촬영이 AI로 열흘에서 이틀로 줄었다고 굿펠라스 대표가 말했다.",
+      "mini_headline": "AI로 촬영 8일 단축",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/beeble-switchx-2-0-reframe",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/goodfellas-michel-hazanavicius-the-third-hand-ai-1236871835/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-20-1.png?w=1000&h=563&crop=1"
+          },
+          {
             "t": "p",
-            "x": "Beeble이 SwitchX 2.0을 내놨다. 찍어 온 인물과 연기는 그대로 두고 조명과 배경, 소품만 고쳐 쓰는 video-to-video 모델이다. 이번 판에서 출력이 1080p에서 네이티브 4K로 올라갔다. 길이는 24fps 기준 20초까지, 색은 8비트에서 10비트로 넓어졌고 카메라 트래킹과 모션 표현, 립싱크도 손봤다."
+            "x": "프랑스 판매·제작사 굿펠라스의 뱅상 마라발 CEO가 제5회 산세바스티안 크리에이티브 투자자 콘퍼런스(CAA 미디어 파이낸스 공동 주최)에 나왔다. CAA의 로그 서덜랜드가 새 기술이 일하는 방식을 어떻게 바꾸고 있느냐고 묻자, 그는 미셸 아자나비시우스 감독의 신작 'The Third Hand' 이야기를 꺼냈다. 주요 장면 하나에서 AI로 제작 기간을 8일 줄였다는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "'아티스트'로 오스카를 받은 아자나비시우스의 이 신작은 얼마 전 촬영을 마쳤고, 굿펠라스가 토론토영화제에서 해외 판매를 시작했다. 1차대전에서 다친 젊은 프랑스 병사가 미친 과학자의 실험실에서 깨어나 보니 배에 독일군의 손이 이식돼 있다는 이야기다. 베레니스 베조, 레베카 마르데르, 프랑수아 시빌이 출연한다."
+          },
+          {
+            "t": "p",
+            "x": "마라발은 \"영화는 1차대전 전장에서 시작한다. AI가 없으면 열흘 촬영이고, AI가 있으면 이틀\"이라고 했다. 그만큼 일자리가 줄지 않았느냐는 서덜랜드의 지적에는 \"감독의 선택\"이라고 답했다. 새 기술 덕분에 감독들이 전에는 손댈 수 없던 이야기를 할 수 있게 됐다는 설명도 붙였다."
+          },
+          {
+            "t": "p",
+            "x": "예로 든 건 오스카 장편 애니메이션상을 받은 '플로우'다. 긴츠 질발로디스 감독은 이 작품을 자기 컴퓨터로 만들었는데, 마라발은 \"그 소프트웨어가 없었다면 그 이야기를 할 수 없었을 것\"이라고 했다."
           },
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/Beeble-SwitchX2-replaceBG-relight.jpg"
+            "src": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-19-2.png",
+            "cap": "산세바스티안의 뱅상 마라발"
           },
           {
             "t": "p",
-            "x": "새로 붙은 Up-res는 순서를 바꾼 기능이다. 720p로 마음에 들 때까지 돌려 본 다음, 마지막 한 번만 최대 4K로 뽑는다. 시간과 비용이 몰리는 구간을 뒤로 미루는 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "Reframe은 Beeble이 직접 만든 아웃페인팅 모델 SwitchFrame이 돌린다. 원본의 연기와 움직임, 프레임 수를 건드리지 않은 채 화면을 원하는 비율까지 넓힌다. 화면비와 위치, 스케일, 크롭은 사용자가 잡고, 늘어난 영역은 Auto Fill이나 직접 올린 레퍼런스 이미지로 채운다. 1초가 안 되는 클립부터 20초까지, 4K 10비트로 나온다."
-          },
-          {
-            "t": "video",
-            "yt": "SONMAjtJkhI"
-          },
-          {
-            "t": "p",
-            "x": "SwitchX 2.0은 Beeble 플랫폼에서 바로 쓸 수 있다. 새 모델로 만드는 생성물은 2026년 9월 23일까지 50% 할인이다."
+            "x": "그는 \"AI를 창의성과 상상력을 여는 데 쓴다면 도움이 될 것\"이라며, 영화가 \"더 수익성 있게\" 될 수도 있다고 덧붙였다. 이날 마라발은 선판매보다 사모펀드 의존도가 커진 영화 금융 흐름, 자국 영화 점유율이 크게 오른 로컬 시장의 부상도 함께 짚었다."
           }
         ]
       }
     },
     {
-      "id": "movies-eddie-ai-v4",
+      "id": "movies-seedance25",
       "eyebrow": "AI NEWS",
-      "headline": "타임라인 다듬기를 넘어\n완성 컷까지 넘기는 Eddie AI V4",
-      "mini_headline": "Eddie AI V4 공개",
-      "body": "Eddie AI V4는 러시를 훑어 완성 컷을 NLE 프로젝트 파일로 넘긴다.",
+      "headline": "Dreamina 캔버스에 들어온\n촬영 기획 AI 에이전트",
+      "body": "캐릭터와 목소리를 어느 프롬프트에서든 불러 쓰는 Elements가 생겼다.",
+      "mini_headline": "Seedance 2.5 개편",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/eddie-ai-v4",
+      "source": "Theoretically Media",
+      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "IBC 2026은 문을 열기도 전에 달아올랐다. 암스테르담 RAI의 홀이 이번 주 후반에나 열리는데 큰 브랜드들의 발표가 이미 쏟아졌다. Eddie AI도 그 틈에서 V4를 꺼냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/eddie-ai-v4.jpg?id=67739810&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
-          },
-          {
-            "t": "p",
-            "x": "이번 버전의 Eddie는 타임라인을 다듬는 수준을 한참 넘어선다. 러시를 들여다보며 이야기를 찾고, 카메라를 싱크하고, 어느 앵글에 누가 있는지 이름을 붙이고, 음악을 쓰고, b-roll을 구해 온다. 그렇게 나온 컷은 Premiere, Resolve, Avid, Final Cut에 진짜 프로젝트 파일로 넘어간다."
-          },
-          {
             "t": "video",
-            "yt": "2D7ZiRcmdjk"
+            "yt": "ky9Gj5N3wyQ"
           },
           {
             "t": "p",
-            "x": "딸려 오는 목록도 길다. ChatGPT와 Claude 연동, iPhone 앱, 웹과 데스크톱, 구독 없는 과금 모델, 주요 NLE로의 직접 내보내기, IT 부서 컴플라이언스, 자체 편집 모델, 클라우드 동기화 프로젝트, 멀티캠과 팟캐스트, 음악과 VO, 타이틀, 자막, 그래픽. 여기에 내 작업 방식을 학습시키는 기능까지 붙었다."
+            "x": "Seedance 3.0은 아니지만 업데이트 폭은 크다. Dreamina가 기다리던 Seedance 기능들을 한꺼번에 풀었다. 캔버스를 제대로 뜯어고쳤고, 촬영을 기획하고 정리해 주는 AI 에이전트가 들어갔다. Theoretically Media는 다만 몇 가지 단서가 붙는다고 짚었다."
           },
           {
             "t": "p",
-            "x": "혼자 달리는 것도 아니다. Blackmagic은 DaVinci Resolve에 AI 어시스턴트를 붙였고, Adobe는 After Effects 퍼블릭 베타에서 어시스턴트를 열었다. 현장에서 더 보고 싶다면 7홀 7.A38 부스다."
+            "x": "영상에서는 세 가지를 시험했다. 탐정 사무실 대화 장면을 다른 캐릭터로 다시 캐스팅해 보고, Seedance 2.0 시절에 쓰던 '화염방사기 소녀' 스트레스 테스트를 돌렸다. 마지막으로 원래 스토리보드를 참고 자료로 넣어 같은 테스트를 반복했다. 에이전트는 요소마다 투명 PNG를 알아서 만들고 브리프와 에셋 목록까지 스스로 작성했다. 결론은 정리는 에이전트에 맡기되 샷 프롬프트는 직접 쓰라는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "새 Elements 라이브러리에 캐릭터를 한 번 넣고 전용 목소리를 입혀 두면, 어느 프롬프트에서든 @로 불러 쓸 수 있다. 캔버스 안에서 MiniMax H3, GPT Image 2, Nano Banana Pro, Seed Audio 1.0도 바로 쓴다. 특정 구간만 다시 고치는 편집 기능도 추가됐다."
+          },
+          {
+            "t": "p",
+            "x": "생성 쪽에는 Skills가 새로 붙었다. 상징적인 영화 스타일, 30초를 넘기는 시네마틱 롱테이크, 영화 스토리보드, 미세한 표정 연기용 프롬프트가 들어 있다."
+          },
+          {
+            "t": "p",
+            "x": "모두가 실제로 쓸 기능으로 꼽힌 건 Seedance 2.5 Preview다. 480p로 훨씬 싸게 초안을 뽑아 프롬프트를 다듬은 뒤 풀 퀄리티로 생성하면, 같은 샷을 1080p로 다시 렌더링한다. 업스케일이 아니라 진짜 재렌더링이다. 아직 프리뷰 단계다. 영상은 BytePlus의 기업용 베타 Dramagic(대본 분석·스토리보드·영상 리뷰)과, ByteDance가 자체 월드 모델 공개를 앞두고 있다는 보도도 다룬다."
           }
         ]
       }
     },
     {
-      "id": "movies-ibc-splat-pipeline",
+      "id": "movies-duncan-jones",
       "eyebrow": "AI NEWS",
-      "headline": "스플랫과 싱크, 장면을 읽는 카메라\nIBC 2026이 남긴 것",
-      "mini_headline": "스플랫, 포스트로",
-      "body": "IBC 2026에는 가우시안 스플랫과 장면을 읽는 카메라가 나란히 나왔다.",
+      "headline": "던컨 존스가 '로그 트루퍼'에\n생성형 AI를 쓰지 않은 이유",
+      "body": "던컨 존스는 8년 공들인 애니메이션에 AI를 한 번도 쓰지 않았다고 못 박았다.",
+      "mini_headline": "던컨 존스의 AI 거부",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/ibc-2026-splats-sync-and-scene-aware-cameras/",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650",
+            "cap": "2026 토론토영화제 '로그 트루퍼' 프리미어에 참석한 던컨 존스"
+          },
+          {
             "t": "p",
-            "x": "Michael Burns가 암스테르담 RAI를 마지막 날까지 돌아보고 IBC 2026을 정리했다. 얻어맞은 제작 시장 탓에 숫자는 줄었는데 분위기는 오히려 밝았다고 한다. 큰 업체들은 효율에 맞춰 기존 제품을 다듬는 쪽이었고, 그 사이사이에 새 물건이 섞여 있었다."
+            "x": "던컨 존스는 새 애니메이션 '로그 트루퍼'에 AI를 전혀 쓰지 않았다는 점을 분명히 해 두고 싶어 한다. 2018년 '뮤트' 이후 8년 만의 신작이다. '더 문', '소스 코드', '워크래프트', '뮤트'까지 첫 9년 동안 네 편을 찍었던 감독이다."
+          },
+          {
+            "t": "p",
+            "x": "'로그 트루퍼'는 저지 드레드를 가진 2000 AD의 인기 만화가 원작이다. 전사한 동료 셋의 뇌가 칩에 담겨 장비에 꽂힌 병사 19(아뉴린 바너드 목소리)가 배신자를 쫓는 이야기다. 존스는 2018년에 제작을 발표했다. 실제 제작은 4년, 준비까지 합치면 8년이 걸렸고 판권사와 처음 만난 건 25년 전이다. '드레드'의 흥행 부진으로 투자 유치가 어려웠고, 결국 영국 IP로 영국에서 만드는 독립 영화로 돈을 모았다."
           },
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/09/IBC-show-filters_no_upscale-copy.jpg"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/08/Rogue_Trooper_Still_HERO.jpg?w=650",
+            "cap": "'로그 트루퍼'"
           },
           {
             "t": "p",
-            "x": "Adobe 부스에서 Jason Druss가 가장 아낀 건 After Effects 베타의 AI 어시스턴트였다. 깨진 익스프레션을 고치고 물려받은 대형 프로젝트를 정리하는, 그의 표현으로는 ‘사무 잡무’를 맡는다. “그날 하루에 3년보다 After Effects를 더 많이 배웠다”고 했다. sync.labs는 어긋난 대사를 새 오디오에 맞춰 입 모양부터 다시 움직이는 립싱크·비주얼 더빙 플랫폼을 내놨다. 치아와 표정은 살린다."
+            "x": "제작 2년쯤 지나 \"이건 안 된다\"는 위기가 왔다. 언리얼 엔진으로만 작업하다 보니 화면이 게임처럼 보였던 것이다. '뮤트'를 함께한 VFX 슈퍼바이저 마티 워터스가 보조 기술을 들여와 좀 더 전통적인 방식으로 돌아갔다. 언리얼로 만들어 둔 에셋 덕분에 비용은 일반 애니메이션보다 훨씬 낮았다."
           },
           {
             "t": "p",
-            "x": "스플랫은 곳곳에 있었다. Sony의 XYN은 Alpha 카메라와 iPhone 가이드 앱을 묶어 고해상도 스틸을 3DGS로 재구성하고, VP 스테이지와 VFX, 자동차 비주얼라이제이션에 바로 쓸 3D 환경을 만든다. Chaos는 Arena에서 3DGS를, Vantage에서 리라이팅을 보여줬다. Microsoft가 받친 Global Objects는 축구 경기장 같은 장소를 통째로 스캔해 자산 라이브러리를 쌓는 중이다. Nokia는 스플랫 인코딩 연구를 꺼냈다. 30fps에 프레임당 9만 개 스플랫, 압축 전 약 4.5Gbps짜리 데이터를 100Mb/s 수준까지 줄였다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/09/LF2A6313_%C2%A9Michael-Burns-2026_Sony-Ocellus-.jpg"
+            "x": "AI를 지름길로 쓰는 사람들을 보면 답답하냐는 질문에 존스는 아니라고 했다. 생계를 꾸려야 하는 사람들이 왜 쓰는지는 이해한다면서도 \"나는 동의하지 않는다\"고 선을 그었다. '글래디에이터'의 군중 시뮬레이션처럼 영화 기술은 늘 바뀌어 왔지만, AI는 다르다고 봤다. 대가 없이 다른 사람의 작업물로 개발됐으니 도둑질이 아니라고 설명하기 어렵다는 것이다. \"피할 수 있다면 피하겠다\"고 했다."
           },
           {
             "t": "p",
-            "x": "NHK가 들고 나온 시제품은 장면에 맞춰 반응하는 카메라다. 담당자도 “거대한 탱크 같은 카메라”라고 인정했다. 프레임 전체를 계속 살펴 밝은 하이라이트와 깊은 그림자, 빠르게 움직이는 영역을 찾아내고 셔터 속도와 프레임 동작을 그 자리마다 조정한다. 경기장 조명이 한 숏 안에 밝은 곳과 어두운 곳을 함께 만들던 오랜 문제를 겨냥했다."
-          },
-          {
-            "t": "p",
-            "x": "노르웨이 스타트업 Muybridge는 움직이는 로봇 리그를 대신하는 소프트웨어 정의 가상 카메라를 정식으로 선보였다. 1미터짜리 렌즈 스트립을 세로로든 가로로든 길게 이어 촬영 볼륨을 원하는 만큼 키운다. 장면은 가만히 있고 보는 사람이 그 안을 자유롭게 돌아다닌다. 지연은 3ms 아래라는 게 공동창업자 Anders Tomren의 설명이다. “AI가 아니다. 모든 픽셀이 3D로 재현되니까 진짜다.”"
+            "x": "존스는 지금의 스튜디오·스트리밍 체제에서는 자기 같은 영화를 만들기가 \"그 어느 때보다 어렵다\"고도 말했다. '로그 트루퍼'는 2026 토론토영화제에서 처음 공개됐고 미국 배급사를 찾는 중이다."
           }
         ]
       }
     },
     {
-      "id": "movies-cruise-bafta-real",
+      "id": "movies-captionx-clips",
       "eyebrow": "AI NEWS",
-      "headline": "톰 크루즈, AI는 오지만\n관객은 진짜를 보러 온다",
-      "mini_headline": "크루즈의 선 긋기",
-      "body": "톰 크루즈는 BAFTA 대담에서 AI는 오지만 관객은 진짜를 원한다고 말했다.",
+      "headline": "CaptionX Clips, 긴 영상을\n바로 올릴 숏폼으로",
+      "body": "긴 영상이나 팟캐스트에서 따로 떼어도 되는 장면을 골라 순위를 매겨 준다.",
+      "mini_headline": "롱폼을 숏폼으로",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/captionx-clips-for-turning-long-videos-into-shorts/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/CaptionX-UI_Workstation.jpg"
+          },
+          {
             "t": "p",
-            "x": "월요일 밤 런던에서 열린 BAFTA ‘Life in Pictures’ 대담 자리였다. 톰 크루즈는 Top Gun과 Jerry Maguire, Magnolia, 그리고 Mission: Impossible 시리즈로 이어진 40년을 돌아봤다. 곧 선보일 Digger 이야기도 꺼냈다."
+            "x": "AI 자막 도구를 만드는 CaptionX가 새 기능 Clips를 내놨다. 긴 영상이나 팟캐스트를 넣으면 올릴 만한 짧은 장면을 뽑아 순위를 매기고, 바로 게시할 수 있는 상태로 돌려준다. 영상 프레임이나 오디오 파형이 아니라 오로지 대본으로 판단하고, 클립이 문장 중간에서 시작하거나 끝나는 일은 없게 설계했다. 클립 생성은 무료이고 남길지 정하기 전에 끝까지 볼 수 있다. 최대 3시간짜리 영상도 수십 초 만에 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "첫 단계에는 AI가 없다. 단어별 타임스탬프가 붙은 대본을 규칙에 따라 문장 단위로 묶는다. 마침표 같은 문장부호, 약 0.75초의 말 멈춤, 길이 상한이 문장의 끝이 된다. 생각 도중 숨을 고르느라 끊긴 '가짜 끝'도 잡아내 미완으로 표시한다."
           },
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/09/tom-cruise.jpg?w=1000&h=667&crop=1"
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/PostPerspective-Image-1-captionx.png"
           },
           {
             "t": "p",
-            "x": "진행을 맡은 Edith Bowman이 AI가 업계를 어떻게 바꿀지 물었다. Mission: Impossible 시리즈는 늘 새 기술의 앞자리에 있었고, 2025년 The Final Reckoning은 아예 AI를 악당으로 세웠으니 나올 만한 질문이었다."
+            "x": "모델은 번호가 매겨진 문장 목록을 받아, 클립마다 시작 문장과 끝 문장, 그리고 훅이 걸리는 '피크' 문장 하나를 고른다. 타임스탬프는 내놓지 않으니 클립은 구조상 문장 경계에 맞춰진다. 별도의 결정론적 엔진이 이 경계를 실제 대본과 대조해, 말이 덜 끝난 조각으로 시작하거나 의미 없는 \"yeah\"로 끝나는 클립을 걸러낸다. 초 단위 변환은 맨 마지막에 실제 단어 타임스탬프로 한다."
           },
           {
             "t": "p",
-            "x": "크루즈의 대답은 이렇게 시작했다. “인간 같은 건 없습니다.” 스트리밍에 반대하는 건 아니지만 극장에서 보는 일은 “다른 예술 형식”이라고 했다. 근거로 든 건 올여름 흥행 성적이다. 5월 1일부터 노동절까지 47억 6000만 달러($4.76 billion), 업계 역대 기록이다."
+            "x": "순위는 훅, 결말, 단독 완결성, 감정, 인용할 만한 정도, 호흡까지 여섯 항목 점수를 합쳐 정한다. 정렬은 코드로 처리하기 때문에 프롬프트를 건드리지 않고도 조정하고 테스트할 수 있다. 이 점수는 한 영상 안에서의 상대 품질일 뿐 조회수나 바이럴 예측이 아니다. 클립에 '바이럴 확률'을 찍어 주는 도구들과 일부러 선을 그었다."
           },
           {
             "t": "p",
-            "x": "“사람들은 그 경험을 원합니다. 극장에 가고 있고요.” 그는 “나는 늘 인류를 믿는다”고 덧붙였다. 창작자에게 남긴 말은 “계속 만들라”였다. “오고 있고, 일어날 일입니다. 하지만 사람들은 진짜를 보고 싶어 합니다.”"
-          },
-          {
-            "t": "p",
-            "x": "Digger 이야기도 짧게 붙였다. The Revenant를 만든 Alejandro G. Iñárritu가 연출했고 크루즈는 석유 재벌을 맡았다. 뚱보 분장과 보철 분장을 붙이는 데 처음엔 여섯 시간이 걸렸다고 한다. “이런 시나리오는 읽어 본 적이 없다”는 게 그의 평이다. Warner Bros.를 통해 10월 2일 극장에 걸린다."
+            "x": "3시간 상한은 기술 한계가 아니라 비용 때문이다. 브라우저가 파일을 잘게 나눠 오디오만 뽑아 가벼운 음성 파일로 다시 인코딩하므로, 2시간 영상도 30MB 안팎이 된다. 대본은 8분마다 앞으로 밀리며 겹치는 10분 창으로 나눠 병렬 분석한다. 요금은 남긴 클립에만 붙고, 회사에 따르면 생성된 클립의 20~40%는 보통 버려진다. Clips는 Adobe Premiere 안에서도, 브라우저에서도 돌아간다."
           }
         ]
       }
     },
     {
-      "id": "movies-2d-world-model-track",
+      "id": "movies-camera-angles",
       "eyebrow": "AI NEWS",
-      "headline": "2D AI 월드가 트래킹을 깨뜨리는 지점\nfxguide가 90초로 짚다",
-      "mini_headline": "트래킹이 무너진다",
-      "body": "일관된 카메라 모델이 없는 2D AI 이미지는 표준 트래킹을 무너뜨린다.",
+      "headline": "찍지 않은 카메라 앵글,\nAI로 만드는 세 가지 방법",
+      "body": "기존 샷에서 새 앵글을 뽑는 AI 기법 세 가지를 프롬프트와 함께 시험했다.",
+      "mini_headline": "AI로 만드는 새 앵글",
       "tool": "Movies",
-      "source": "fxguide (YouTube)",
-      "url": "https://www.youtube.com/shorts/p4WTGaH-oKc",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=6QC6nOotxrU",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "video",
-            "yt": "p4WTGaH-oKc"
+            "yt": "6QC6nOotxrU"
           },
           {
             "t": "p",
-            "x": "fxguide가 90초짜리 쇼츠에 한 가지만 담았다. 2D AI 월드가 카메라 트래킹을 깨뜨리는 대목이다."
+            "x": "와이드 샷 하나만 찍어 두고 클로즈업이나 부감, 다른 앵글은 후반에 만들 수 있다면 어떨까. Curious Refuge가 Seedance 2.5로 실사 요리 영상과 AI로 만든 대화 장면을 놓고 세 가지 방법을 시험했다."
           },
           {
             "t": "p",
-            "x": "설명은 짧고 분명하다. 일관된 렌즈도, 물리적인 카메라 모델도 없이 만들어진 AI 이미지는 표준 트래킹 워크플로에 문제를 일으킨다. 매치무브 아티스트와 컴포지터, 슈퍼바이저가 가장 먼저 걸리는 자리이기도 하다."
+            "x": "첫째는 와이드 샷을 주고 커버리지를 알아서 만들라고 맡기는 방식이다. 새 앵글은 나왔지만 동작이 바뀌었다. 요리 장면의 양파가 갑자기 달걀이 되고, 대화 장면에서는 시선이 틀어지고 인물이 음료를 마시지 않았다. 얼핏 그럴듯해도 연속성 문제가 너무 많아 실무에 쓰기는 어렵다."
+          },
+          {
+            "t": "p",
+            "x": "둘째는 프롬프트에 타임코드를 넣어 언제 원래 와이드를 유지하고 언제 어떤 앵글로 넘어갈지 지정하는 방식이다. 통제력은 좋아졌지만 원본의 오렌지가 파프리카로 바뀌는 식의 연속성 오류는 여전했다. AI 생성 장면 쪽 결과가 더 나았다."
+          },
+          {
+            "t": "p",
+            "x": "가장 믿을 만했던 건 셋째, 앵글을 사람이 직접 정하는 방식이다. Premiere Pro에서 새 앵글이 필요한 지점을 자르고, 그 3~5초만 내보내 Seedance 2.5에 올린다. 원래 동작은 그대로 두라고 강조하면서 원하는 앵글을 프롬프트로 적고, 여러 버전 중 가장 나은 것을 편집에 다시 넣는다. 보통 두세 번 만에 원하는 결과가 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "비용도 이쪽이 낫다. 처음 24초짜리 생성에는 약 25달러가 들었는데, 샷을 하나씩 만들면 초당 1달러 정도다. 팀은 현장에서 제대로 찍을 수 있다면 AI로 대신하길 권하지 않는다고 했다. 다만 빠진 클로즈업이나 인서트가 있을 때 후반에서 꺼낼 수 있는 새 선택지라고 봤다."
           }
         ]
       }

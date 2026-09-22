@@ -1,294 +1,52 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "music",
   "rotation": {
-    "basis": "day-of-year 265 (2026-09-22), day-of-month 22",
-    "method": "OVERRIDE from orchestrator: no rotation sampling. Working set = the FULL music pool — core (3) + every entry of sections.music.keywords (24) = 27 working keywords. Rotation is applied only to query ANGLES and to which of the music youtube_channels get a site: query today (doy 265 mod 6 -> start at Benn Jordan, then Venus Theory).",
-    "notes": "No WebSearch was used for planning (budget reserved for the librarian). Queries are scoped to the music category's allowed_domains in sources.json plus a few obvious authoritative music-tech outlets (production-expert.com, synthanatomy.com, musicbusinessworldwide.com, kvraudio.com) that already produced cards in news_data.json.",
+    "basis": "day-of-year 266 (2026-09-23), day-of-month 23",
+    "method": "OVERRIDE from orchestrator: no rotation sampling. Working set = the FULL music pool: core (3) + every entry of sections.music.keywords (24) = 27 working keywords, grouped into combined queries. Rotation applies only to query angles and to which music youtube_channels get a site: query today (doy 266 mod 6 = 2 -> ElevenLabs, then Andrew Huang; yesterday used Benn Jordan / Venus Theory).",
+    "notes": "No WebSearch was used for planning; the budget is reserved for the librarian. Queries are scoped to the music category's allowed_domains in sources.json, plus authoritative music-tech outlets that already produced cards in news_data.json (production-expert.com, musicbusinessworldwide.com, musically.com, digitalmusicnews.com, synthanatomy.com, kvraudio.com). Per memory: site: search tends to return evergreen pages, so the librarian should confirm recency via outlet RSS/sitemaps. Angles lean away from litigation (heavy on 9/20-9/22) and toward tools, DAW features, models and workflow.",
     "recent_topics_avoided": [
-      "2026-09-20 ethical AI music tools / licensed training data (Moises, Voice Swap, Suno licensing blog)",
-      "2026-09-20 first AI Music Awards, LA Mayan Theatre (DJ Mag)",
-      "2026-09-20 Cyanite music understanding & structured metadata for conversational search (Hypebot)",
-      "2026-09-20 IK Multimedia ReSing Voices Vol 2 AI vocal models (Sound On Sound)",
-      "2026-09-20 Universal Music v DistroKid lawsuit / AI slop distribution (CMU)",
-      "2026-09-14 Sting generative melody plugin leaves Max for Live (cdm.link)",
-      "2026-09-14 sonible smart:chain AI mixing channel strip review (Production Expert)",
-      "2026-09-14 Sentient AUv3 neural-network synth (synthanatomy)",
-      "2026-09-14 Denon Prime 4 G2 with on-device stem separation (MusicRadar)"
+      "2026-09-22 Komca withdraws AI-assisted music registration; Suno-made track on Melon Top 100 (Music Ally)",
+      "2026-09-22 UMG & Sony second lawsuit vs Suno over v6 (MBW)",
+      "2026-09-22 AFM v UMG/WMG new-use clause over AI deals (CMU)",
+      "2026-09-22 sound designer René Coronado on generative AI SFX (Production Expert)",
+      "2026-09-22 Brian May turns against AI / Queen avatar show shelved (MusicRadar)",
+      "2026-09-20 ethical AI music tools (MusicRadar), first AI Music Awards LA (DJ Mag), Cyanite metadata search (Hypebot), IK ReSing Voices Vol 2 (SOS), UMG v DistroKid (CMU)",
+      "2026-09-19 Playhead text-to-effects-chain, BandLab mastering update, Two Legs Five Arms, HarmonyKeen, Professional Sound Alliance",
+      "2026-09-18 Lunacy Nova AI instrument platform, Suno v6 user backlash, SubmitHub bans AI music, DX7 AI Studio, SSL 4K x sonible",
+      "2026-09-17 UAD LUNA 3.0, MOTU DP12, Auto-Tune Go in FL Studio, Dreamtonics Instrument X, Roland Melody Flip",
+      "2026-09-15 Pro Tools stem separator preview, ElevenLabs Music v2.5, Nopia, Cuetrak AI cue sheets, A Vinyl Bar in Shibuya"
     ]
   },
   "seeds_from_user": [],
   "working_keywords": [
-    {
-      "keyword": "AI music",
-      "origin": "core",
-      "axis": "broad",
-      "expansions": [
-        "AI music news September 2026",
-        "AI music industry announcement",
-        "artificial intelligence music tool launch"
-      ]
-    },
-    {
-      "keyword": "AI 음악",
-      "origin": "core",
-      "axis": "broad",
-      "expansions": [
-        "AI 음악 제작 도구 2026",
-        "인공지능 작곡 서비스",
-        "AI 음악 저작권 논란"
-      ]
-    },
-    {
-      "keyword": "generative music",
-      "origin": "core",
-      "axis": "broad",
-      "expansions": [
-        "generative music system release",
-        "generative music app installation",
-        "algorithmic composition tool 2026"
-      ]
-    },
-    {
-      "keyword": "AI music generation",
-      "origin": "pool",
-      "axis": "models",
-      "expansions": [
-        "new AI music generation model",
-        "music generation model benchmark",
-        "AI music generator update September 2026"
-      ]
-    },
-    {
-      "keyword": "Suno",
-      "origin": "pool",
-      "axis": "platforms",
-      "expansions": [
-        "Suno new version feature",
-        "Suno Studio DAW workflow",
-        "Suno deal label partnership"
-      ]
-    },
-    {
-      "keyword": "Udio",
-      "origin": "pool",
-      "axis": "platforms",
-      "expansions": [
-        "Udio relaunch licensed platform",
-        "Udio UMG joint venture update",
-        "Udio download restriction artists"
-      ]
-    },
-    {
-      "keyword": "Stable Audio",
-      "origin": "pool",
-      "axis": "models",
-      "expansions": [
-        "Stability AI Stable Audio update",
-        "Stable Audio plugin DAW",
-        "Stable Audio licensing sound design"
-      ]
-    },
-    {
-      "keyword": "ElevenLabs Music",
-      "origin": "pool",
-      "axis": "platforms",
-      "expansions": [
-        "ElevenLabs Music API release",
-        "ElevenLabs music licensing Merlin Kobalt",
-        "ElevenLabs sound effects generation"
-      ]
-    },
-    {
-      "keyword": "Google Lyria",
-      "origin": "pool",
-      "axis": "models",
-      "expansions": [
-        "Google DeepMind Lyria 3 music model",
-        "Lyria RealTime API music",
-        "YouTube Music AI Dream Track"
-      ]
-    },
-    {
-      "keyword": "MusicLM",
-      "origin": "pool",
-      "axis": "models",
-      "expansions": [
-        "Google MusicFX text to music",
-        "MusicLM research successor",
-        "DeepMind music research paper"
-      ]
-    },
-    {
-      "keyword": "AI mastering",
-      "origin": "pool",
-      "axis": "production",
-      "expansions": [
-        "AI mastering service update LANDR",
-        "iZotope Ozone AI assistant",
-        "AI mastering loudness streaming"
-      ]
-    },
-    {
-      "keyword": "AI stem separation",
-      "origin": "pool",
-      "axis": "production",
-      "expansions": [
-        "stem separation model quality upgrade",
-        "Serato Rekordbox stems update",
-        "source separation plugin release"
-      ]
-    },
-    {
-      "keyword": "AI songwriting",
-      "origin": "pool",
-      "axis": "creation",
-      "expansions": [
-        "AI songwriting assistant tool",
-        "AI lyrics co-writing app",
-        "songwriter uses AI workflow interview"
-      ]
-    },
-    {
-      "keyword": "AI vocal cloning",
-      "origin": "pool",
-      "axis": "voice",
-      "expansions": [
-        "licensed voice model artist deal",
-        "AI voice clone takedown music",
-        "voice model marketplace singer"
-      ]
-    },
-    {
-      "keyword": "text-to-music",
-      "origin": "pool",
-      "axis": "models",
-      "expansions": [
-        "text to music model release",
-        "prompt to song app",
-        "text to sound effects generator"
-      ]
-    },
-    {
-      "keyword": "AI music plugin",
-      "origin": "pool",
-      "axis": "production",
-      "expansions": [
-        "new AI plugin VST release September 2026",
-        "machine learning audio plugin launch",
-        "AI plugin free download producers"
-      ]
-    },
-    {
-      "keyword": "neural synthesizer",
-      "origin": "pool",
-      "axis": "instruments",
-      "expansions": [
-        "neural network synthesizer instrument",
-        "neural amp modeling instrument",
-        "AI powered hardware synth 2026"
-      ]
-    },
-    {
-      "keyword": "AI mixing",
-      "origin": "pool",
-      "axis": "production",
-      "expansions": [
-        "AI mixing assistant DAW feature",
-        "intelligent channel strip release",
-        "AI mix feedback tool engineer"
-      ]
-    },
-    {
-      "keyword": "AI sample generation",
-      "origin": "pool",
-      "axis": "production",
-      "expansions": [
-        "AI sample pack generator Splice",
-        "AI drum sample synthesis tool",
-        "royalty free AI sample library"
-      ]
-    },
-    {
-      "keyword": "AI song cover",
-      "origin": "pool",
-      "axis": "voice",
-      "expansions": [
-        "AI cover song platform policy",
-        "AI cover streaming takedown",
-        "AI 커버곡 논란"
-      ]
-    },
-    {
-      "keyword": "music AI licensing",
-      "origin": "pool",
-      "axis": "business",
-      "expansions": [
-        "AI music licensing deal publisher",
-        "training data licence catalogue music",
-        "collecting society AI remuneration"
-      ]
-    },
-    {
-      "keyword": "AI DJ",
-      "origin": "pool",
-      "axis": "performance",
-      "expansions": [
-        "AI DJ feature software update",
-        "AI assisted mixing DJ gear",
-        "club AI set controversy"
-      ]
-    },
-    {
-      "keyword": "real-time AI music",
-      "origin": "pool",
-      "axis": "performance",
-      "expansions": [
-        "real-time generative audio live performance",
-        "interactive AI music installation",
-        "low latency neural audio model"
-      ]
-    },
-    {
-      "keyword": "Riffusion",
-      "origin": "pool",
-      "axis": "platforms",
-      "expansions": [
-        "Riffusion Fuzz model update",
-        "Riffusion funding product",
-        "indie AI music startup launch"
-      ]
-    },
-    {
-      "keyword": "AI in Ableton",
-      "origin": "pool",
-      "axis": "daw",
-      "expansions": [
-        "Ableton Live AI device update",
-        "Max for Live machine learning device",
-        "Ableton Move AI feature"
-      ]
-    },
-    {
-      "keyword": "AI in Logic Pro",
-      "origin": "pool",
-      "axis": "daw",
-      "expansions": [
-        "Logic Pro AI session players update",
-        "Apple music AI feature DAW",
-        "FL Studio Cubase AI feature 2026"
-      ]
-    },
-    {
-      "keyword": "AI music video",
-      "origin": "pool",
-      "axis": "visual",
-      "expansions": [
-        "AI generated music video release artist",
-        "music video made with generative video tool",
-        "AI 뮤직비디오 제작"
-      ]
-    }
+    { "keyword": "AI music", "origin": "core", "axis": "broad", "expansions": ["AI music news this week", "AI music industry announcement September 2026", "artificial intelligence music tool launch"] },
+    { "keyword": "AI 음악", "origin": "core", "axis": "broad", "expansions": ["AI 음악 제작 도구 출시", "인공지능 작곡 서비스", "AI 음원 스트리밍 정책"] },
+    { "keyword": "generative music", "origin": "core", "axis": "broad", "expansions": ["generative music app release", "generative sequencer plugin", "algorithmic composition tool 2026"] },
+    { "keyword": "AI music generation", "origin": "pool", "axis": "models", "expansions": ["new AI music generation model", "open-source music generation model", "music generation research paper"] },
+    { "keyword": "Suno", "origin": "pool", "axis": "platforms", "expansions": ["Suno Studio feature update", "Suno v6 workflow stems", "Suno label partnership product"] },
+    { "keyword": "Udio", "origin": "pool", "axis": "platforms", "expansions": ["Udio relaunch licensed platform", "Udio UMG platform launch", "Udio new feature creators"] },
+    { "keyword": "Stable Audio", "origin": "pool", "axis": "models", "expansions": ["Stability AI Stable Audio update", "Stable Audio Open small on-device", "Stable Audio sound design partnership"] },
+    { "keyword": "ElevenLabs Music", "origin": "pool", "axis": "platforms", "expansions": ["ElevenLabs Music API", "ElevenLabs UMG AI music platform", "ElevenLabs sound effects model"] },
+    { "keyword": "Google Lyria", "origin": "pool", "axis": "models", "expansions": ["Google DeepMind Lyria model update", "Lyria RealTime API", "YouTube AI music creator tool"] },
+    { "keyword": "MusicLM", "origin": "pool", "axis": "models", "expansions": ["Google MusicFX DJ", "MusicLM successor research", "Google AI music experiment"] },
+    { "keyword": "AI mastering", "origin": "pool", "axis": "production", "expansions": ["LANDR mastering update", "iZotope Ozone AI assistant", "online AI mastering service"] },
+    { "keyword": "AI stem separation", "origin": "pool", "axis": "production", "expansions": ["stem separation model upgrade", "Serato Rekordbox djay stems", "source separation plugin release"] },
+    { "keyword": "AI songwriting", "origin": "pool", "axis": "creation", "expansions": ["AI songwriting assistant", "AI lyric co-writing tool", "songwriter AI workflow interview"] },
+    { "keyword": "AI vocal cloning", "origin": "pool", "axis": "voice", "expansions": ["licensed AI voice model artist", "AI voice plugin singer", "Synthesizer V ACE Studio vocal update"] },
+    { "keyword": "text-to-music", "origin": "pool", "axis": "models", "expansions": ["text to music model release", "prompt to song app", "text to audio generator"] },
+    { "keyword": "AI music plugin", "origin": "pool", "axis": "production", "expansions": ["new AI plugin VST release", "machine learning audio plugin launch", "free AI plugin producers"] },
+    { "keyword": "neural synthesizer", "origin": "pool", "axis": "instruments", "expansions": ["neural network synthesizer", "neural amp modeling", "AI hardware synth"] },
+    { "keyword": "AI mixing", "origin": "pool", "axis": "production", "expansions": ["AI mixing assistant DAW", "intelligent EQ compressor plugin", "AI mix feedback tool"] },
+    { "keyword": "AI sample generation", "origin": "pool", "axis": "production", "expansions": ["Splice AI sample feature", "AI drum sample generator", "AI loop generator royalty free"] },
+    { "keyword": "AI song cover", "origin": "pool", "axis": "voice", "expansions": ["AI cover song platform policy", "AI cover streaming takedown", "AI 커버곡"] },
+    { "keyword": "music AI licensing", "origin": "pool", "axis": "business", "expansions": ["AI music licensing deal publisher", "training data licence music catalogue", "collecting society AI remuneration"] },
+    { "keyword": "AI DJ", "origin": "pool", "axis": "performance", "expansions": ["AI DJ software feature", "Spotify AI DJ update", "AI assisted DJ hardware"] },
+    { "keyword": "real-time AI music", "origin": "pool", "axis": "performance", "expansions": ["real-time generative music performance", "interactive AI music installation", "low latency neural audio"] },
+    { "keyword": "Riffusion", "origin": "pool", "axis": "platforms", "expansions": ["Riffusion Producer update", "Riffusion model release", "AI music startup launch funding"] },
+    { "keyword": "AI in Ableton", "origin": "pool", "axis": "daw", "expansions": ["Ableton Live 12 AI device", "Max for Live machine learning device", "Ableton Move Push generative feature"] },
+    { "keyword": "AI in Logic Pro", "origin": "pool", "axis": "daw", "expansions": ["Logic Pro Session Players update", "Logic Pro Stem Splitter Chord ID", "FL Studio Cubase Bitwig AI feature"] },
+    { "keyword": "AI music video", "origin": "pool", "axis": "visual", "expansions": ["AI generated music video artist", "music video made with Veo Runway Kling", "AI 뮤직비디오"] }
   ],
   "plan": [
     {
@@ -296,7 +54,7 @@
       "label": "Music",
       "motif": "sphere",
       "accent": "#ff2d55",
-      "scope": "AI x music for working creatives: model/tool releases, DAW and plugin features, workflow shifts in writing/mixing/mastering/performance, licensing and platform policy that changes how music gets made and shipped. Skip the 9/14 and 9/20 topics listed in rotation.recent_topics_avoided.",
+      "scope": "AI x music for working creatives: model/tool releases, DAW and plugin features, workflow shifts in writing/mixing/mastering/performance, licensing and platform policy that changes how music gets made and shipped. Skip topics listed in rotation.recent_topics_avoided; litigation only if it is a genuinely new development.",
       "allowed_domains": [
         "musictech.com",
         "musicradar.com",
@@ -305,6 +63,7 @@
         "attackmagazine.com",
         "hypebot.com",
         "music-ally.com",
+        "musically.com",
         "midiaresearch.com",
         "waterandmusic.com",
         "completemusicupdate.com",
@@ -322,50 +81,49 @@
         "engadget.com",
         "techcrunch.com",
         "production-expert.com",
-        "synthanatomy.com",
         "musicbusinessworldwide.com",
+        "digitalmusicnews.com",
+        "synthanatomy.com",
         "kvraudio.com",
         "youtube.com"
       ],
       "queries": [
-        "site:musictech.com AI music news September 2026",
-        "site:musicradar.com AI plugin release September 2026",
-        "site:soundonsound.com AI plugin news",
-        "site:cdm.link AI generative music tool",
-        "site:synthtopia.com AI synthesizer neural network",
-        "site:synthanatomy.com AI plugin release",
-        "site:bedroomproducersblog.com AI plugin free",
-        "site:gearnews.com AI audio plugin announcement",
-        "site:kvraudio.com news AI plugin machine learning",
-        "site:production-expert.com AI mastering workflow",
-        "site:attackmagazine.com AI production technique",
-        "site:musicradar.com AI mastering LANDR Ozone",
-        "site:musictech.com Ableton Live AI device update",
-        "site:musicradar.com Logic Pro session players AI update",
-        "site:hypebot.com AI music licensing deal",
-        "site:completemusicupdate.com AI licensing publisher deal",
-        "site:musicbusinessworldwide.com Suno Udio licensing September 2026",
-        "site:music-ally.com AI music platform report",
-        "site:midiaresearch.com generative AI music report",
-        "site:techcrunch.com AI music startup funding launch",
-        "site:theverge.com AI music tool release",
-        "site:engadget.com AI music feature launch",
-        "site:djmag.com AI DJ software feature",
-        "site:residentadvisor.net AI music tool news",
-        "site:billboard.com AI music technology September 2026",
-        "ElevenLabs Music API release September 2026",
-        "Google DeepMind Lyria real-time music model September 2026",
-        "AI stem separation model update 2026 site:musictech.com OR site:djmag.com",
-        "AI 음악 생성 도구 2026년 9월",
-        "site:youtube.com Benn Jordan AI music 2026",
-        "site:youtube.com Venus Theory AI music plugin 2026"
+        "site:musictech.com AI music tool news September 2026",
+        "site:musicradar.com AI music generator Suno Udio update",
+        "site:theverge.com AI music generation model Suno Udio ElevenLabs",
+        "site:techcrunch.com AI music startup Riffusion funding launch",
+        "Stable Audio OR \"Google Lyria\" OR MusicFX text-to-music model September 2026",
+        "ElevenLabs Music UMG platform launch September 2026",
+        "site:soundonsound.com AI plugin neural synthesizer",
+        "site:synthtopia.com neural synthesizer AI instrument",
+        "site:synthanatomy.com AI plugin generative",
+        "site:bedroomproducersblog.com AI plugin free sample generator",
+        "site:kvraudio.com news machine learning plugin",
+        "site:gearnews.com AI mixing mastering plugin",
+        "site:production-expert.com AI mastering mixing workflow",
+        "site:musicradar.com LANDR OR Ozone AI mastering update",
+        "AI stem separation update site:musictech.com OR site:djmag.com OR site:cdm.link",
+        "site:cdm.link Ableton Max for Live machine learning generative",
+        "Logic Pro Session Players Stem Splitter AI update 2026",
+        "site:djmag.com AI DJ software real-time AI music performance",
+        "site:residentadvisor.net OR site:mixmag.net AI music",
+        "AI songwriting assistant lyrics tool site:hypebot.com OR site:musically.com",
+        "AI vocal cloning licensed voice model AI song cover policy",
+        "site:musicbusinessworldwide.com AI music licensing deal publisher",
+        "site:completemusicupdate.com AI licensing collecting society",
+        "site:billboard.com AI music video generative artist",
+        "site:digitalmusicnews.com generative music AI",
+        "AI 음악 생성 도구 2026년 9월 출시",
+        "AI 뮤직비디오 OR AI 커버곡 OR AI 작곡 저작권 2026",
+        "site:youtube.com ElevenLabs music 2026",
+        "site:youtube.com Andrew Huang AI music 2026"
       ]
     }
   ],
-  "wildcard_query": "biggest AI music tool story this week September 21 2026",
+  "wildcard_query": "biggest AI music tool release this week September 22 2026",
   "totals": {
     "working_keywords": 27,
     "categories": 1,
-    "queries": 31
+    "queries": 30
   }
 }

@@ -1,37 +1,31 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "science",
-  "generated_by": "ax-media",
   "media": [
     {
-      "id": "science-unify-cell-atlas",
+      "id": "science-galois",
       "type": "image",
-      "src": "pipeline/media/science-unify-cell-atlas.jpg",
-      "origin": "in-article figure (scx1.b-cdn.net)"
+      "src": "pipeline/media/science-galois.jpg"
     },
     {
-      "id": "science-physical-ai-hardware",
+      "id": "science-microrobot",
       "type": "image",
-      "src": "pipeline/media/science-physical-ai-hardware.jpg",
-      "origin": "in-article figure (scx1.b-cdn.net)"
+      "src": "pipeline/media/science-microrobot.jpg"
     },
     {
-      "id": "science-agent-scarcity-sandbox",
+      "id": "science-lighttok",
       "type": "image",
-      "src": "pipeline/media/science-agent-scarcity-sandbox.jpg",
-      "origin": "in-article lead image (futurecdn)"
+      "src": "pipeline/media/science-lighttok.jpg"
     },
     {
-      "id": "science-geriatric-prognostic-ai",
+      "id": "science-radar",
       "type": "image",
-      "src": "pipeline/media/science-geriatric-prognostic-ai.jpg",
-      "origin": "article lead image (statnews uploads)"
+      "src": "pipeline/media/science-radar.jpg"
     },
     {
-      "id": "science-carotid-handheld-ai",
+      "id": "science-bitterness",
       "type": "image",
-      "src": "pipeline/media/science-carotid-handheld-ai.jpg",
-      "origin": "source study figure 1, Annals of Family Medicine 24/5/437 (EurekAlert og:image is a logo)"
+      "src": "pipeline/media/science-bitterness.jpg"
     }
   ]
 }

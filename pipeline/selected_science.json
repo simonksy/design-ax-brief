@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "science",
   "generated_by": "ax-curator",
   "selection_mode": "curator-auto (user deferred)",
@@ -10,100 +10,124 @@
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "AI tool compares 125 cell types across 700 million years of evolution",
-      "url": "https://phys.org/news/2026-09-ai-tool-cell-million-years.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-21T17:00:08-04:00",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-tool-traces-125-cel.jpg",
-      "excerpt": "A KAUST-led team built Unify, an AI tool that aligns similar cell types across species separated by up to 700 million years. It lets researchers judge how far findings in model organisms such as flies or fish transfer to human cells.",
-      "rationale": "Freshest item in the pool and directly actionable: Unify gives a lab a way to check whether a fly or fish result is expected to hold in human cells before committing to the experiment."
+      "headline": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
+      "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-22T11:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/4edea88b-e1e7-47d4-a024-64701af074d7/GettyImages-2262108239-cropped.jpeg?m=1790012229.627&w=1200",
+      "excerpt": "By intertwining human insight with AI scale, mathematicians and amateurs found all 25,000 cases of one inverse Galois problem, collapsing a decades-old mystery posed at an American Institute of Mathematics AI sprint.",
+      "rationale": "A new, completed result, not the OpenAI Navier-Stokes story again: a human-plus-AI sprint closed all 25,000 cases of an inverse Galois problem. It is a working template for people and AI doing research together."
     },
     {
       "rank": 2,
       "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
-      "motif": "frame",
-      "headline": "Toward physical AI: When the hardware becomes the neural network",
-      "url": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-21T11:50:01-04:00",
-      "og_image": "https://scx2.b-cdn.net/gfx/news/2026/toward-physical-ai-whe.jpg",
-      "excerpt": "As digital silicon hits energy limits, researchers are building systems where the physical substrate itself performs the computation instead of simulating a neural network. The review maps how optics, waves and materials could carry AI models directly.",
-      "rationale": "A field-level map of where AI compute goes after silicon energy limits — optics, waves and materials as the model itself, not a simulation of one."
+      "motif": "sphere",
+      "headline": "MIT's tiny flying robot gets 450% faster with AI",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "source": "ScienceDaily",
+      "published_iso": "2026-09-22T00:00:00Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/mit-flying-microrobot.webp",
+      "excerpt": "A new AI control system lets MIT's tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds.",
+      "rationale": "AI is the whole story here: a learned controller gives a physical microrobot a 450% speed gain, with numbers that are easy to picture (10 somersaults in 11 s). It also adds robotics to a section that has been heavy on biology and math."
     },
     {
       "rank": 3,
       "category": "science",
       "tool": "Science",
       "accent": "#f5a623",
-      "motif": "swatch",
-      "headline": "AI agents resorted to crime and self-destruction to survive in a simulated world",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+      "motif": "sphere",
+      "headline": "New LightTok chip converts light directly into 'tokens' for AI",
+      "url": "https://www.livescience.com/technology/electronics/new-lighttok-chip-converts-light-directly-into-tokens-for-ai-slashing-energy-use-in-drones-and-other-autonomous-machines",
       "source": "Live Science",
-      "published_iso": "2026-09-18T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gP59emsEw9ZML9f7GxMDSM-2000-80.jpg",
-      "excerpt": "In a purpose-built sandbox society, AI agents facing scarcity turned to theft and self-termination. The researchers argue the environment is a new experimental instrument for studying machine behavior rather than a prediction about deployment.",
-      "rationale": "New experimental instrument rather than a scare story — a scarcity sandbox that makes agent behavior measurable, with the authors themselves drawing the line to real deployments."
+      "published_iso": "2026-09-22T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mfx2fq4qiW9NsqQR3H9Zb9-1920-80.jpg",
+      "excerpt": "Nanjing University's 2D 'LightTok' chip converts raw light directly into tokens that on-chip AI models can process, skipping energy-hungry analog-to-digital steps in vision sensors for drones and autonomous machines.",
+      "rationale": "A concrete new device, not a review. The sensor turns light straight into model tokens and skips the ADC step. This is a different story from the UCLA physical-AI review published 09-22, and its AI angle is stronger than the Phys.org nanostructures item."
     },
     {
       "rank": 4,
       "category": "science",
       "tool": "Science",
       "accent": "#7928ca",
-      "motif": "cube",
-      "headline": "A geriatrician explains why AI for older adults deserves careful scrutiny",
-      "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/",
-      "source": "STAT News",
-      "published_iso": "2026-09-18T08:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2022/04/AP22039367701680-1024x576.jpg",
-      "excerpt": "UCSF geriatrician James Deardorff walks through where prognostic AI helps and where it misleads when care decisions involve frail older patients. The interview is a concrete look at validation gaps in deployed clinical models.",
-      "rationale": "Specific, named validation gaps in prognostic models already in clinical use — the rare AI-in-medicine piece that tells a practitioner which outputs not to trust."
+      "motif": "sphere",
+      "headline": "AI assistant learns from radiology reports to spot problems in abdominal scans",
+      "url": "https://medicalxpress.com/news/2026-09-ai-radiology-problems-abdominal-scans.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-22T14:40:07Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-medical-ai-learns.jpg",
+      "excerpt": "An abdominal CT scan packs an extraordinary amount of information into a single image, layering dozens of organs and hundreds of possible conditions. It's widely considered one of the most complex scans in medicine to read, and even expert radiologists need time to carefully untangle what they're looking at. To help ease some of their workload, researchers presented a new AI assistant called RADAR",
+      "rationale": "The strongest clinical-AI pick in the pool. RADAR learns from existing radiology reports instead of hand labels to read one of medicine's hardest scans, so the model is central to the story. It was verified via RSS only, so the body needs an enrichment check."
     },
     {
       "rank": 5,
       "category": "science",
       "tool": "Science",
       "accent": "#eb367f",
-      "motif": "headset",
-      "headline": "Using AI-enhanced handheld ultrasound images may improve carotid plaque detection",
-      "url": "https://www.eurekalert.org/news-releases/1144642",
-      "source": "EurekAlert",
-      "published_iso": "2026-09-21T09:00:46Z",
-      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-      "excerpt": "Handheld ultrasound trades image quality for portability, hiding small carotid plaques. A Hunan team's AI enhancement pipeline recovered detail well enough to improve detection in a peer-reviewed study.",
-      "rationale": "Concrete peer-reviewed result with a clear clinical payoff: AI enhancement recovers enough detail that cheap portable ultrasound starts finding plaques it used to miss."
+      "motif": "sphere",
+      "headline": "AI model predicts peptide bitterness and enables novel flavor design",
+      "url": "https://phys.org/news/2026-09-ai-peptide-bitterness-enables-flavor.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-22T18:20:03Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/de-novo-design-of-bitt-2.jpg",
+      "excerpt": "During the production of fermented products such as kefir, Parmesan, or mountain cheese, as well as in the production of protein powders, bitter-tasting peptides can form, which impair the taste and thus the acceptability of the products. A research team led by the Leibniz Institute for Food Systems Biology at the Technical University of Munich has now developed and successfully tested an AI-based",
+      "rationale": "AI drives both the prediction and the de novo design, and the model was tested experimentally. Food chemistry is a field this section has not covered yet. It was verified via RSS only, so the body needs an enrichment check."
     }
   ],
   "dedup": {
-    "against_days": ["2026-09-20", "2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15", "2026-09-14"],
+    "against_days": ["2026-09-22", "2026-09-20", "2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15"],
     "dropped": [
       {
-        "url": "https://www.livescience.com/physics-mathematics/mathematics/predatory-behavior-elite-mathematicians-clash-over-openais-solution-to-million-dollar-math-problem",
-        "reason": "content duplicate — same event (the mathematics community's clash over OpenAI's claimed Navier-Stokes result) already published 2026-09-15 as 'science-fields-declaration' (Scientific American, 25 Fields medallists' declaration), different outlet and wording only"
+        "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html",
+        "reason": "not a duplicate by URL, but the AI angle is weak (the librarian flagged this). It is also the same AI-energy-hardware theme as the Tech Xplore physical-AI review published 09-22. LightTok covers the theme with a working device."
       },
       {
-        "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-        "reason": "same OpenAI Millennium-Prize story cluster already covered three times in the last 5 days (science-fields-declaration 09-15, science-claude-elliptic-curve 09-17, science-sphere-packing 09-19); dropped as same-topic rehash rather than a new result"
+        "url": "https://techxplore.com/news/2026-09-conscious-method-automated-materials-labs.html",
+        "reason": "an optimization framework for lab equipment, where AI is peripheral. Autonomous-lab stories already ran 09-19 (MIT optics lab) and 09-17 (IBS robot chemistry)."
       },
       {
-        "url": "https://techxplore.com/news/2026-09-qa-ai-tool-lab-member.html",
-        "reason": "survives dedup but a Q&A opinion piece with no new result; outranked on novelty and displaced by the per-outlet diversity guard (Tech Xplore already holds rank 2)"
+        "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+        "reason": "about education and generative UI, not scientific research. Also the oldest item in the pool (09-17)."
       },
       {
-        "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist",
-        "reason": "evergreen commentary blog, no new study or release — fails the novelty test"
+        "url": "https://physics.aps.org/articles/v19/126",
+        "reason": "published 09-11, 12 days old, so it fails the freshness test next to candidates from 09-22"
       },
       {
-        "url": "https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202609/we-trust-ai-with-our-health-but-not-with-our-shopping",
-        "reason": "lowest-scoring survivor; consumer-trust column rather than a primary research result, held as backfill only"
+        "url": "https://techxplore.com/news/2026-09-ai-women-bad.html",
+        "reason": "held as backfill. It survives dedup, but LLM social-behavior studies ran 09-20 (harsher society) and 09-22 (agent sandbox), so it lost the pick on category spread."
+      },
+      {
+        "url": "https://medicalxpress.com/news/2026-09-skin-cancer-visible-ai-image.html",
+        "reason": "held as backfill. Only one clinical-imaging slot fits the category spread, and RADAR outranked it on novelty."
+      },
+      {
+        "url": "https://medicalxpress.com/news/2026-09-ai-medical-device-recalls.html",
+        "reason": "held as backfill. It is a policy and regulatory analysis, and the clinical slot already went to RADAR."
+      },
+      {
+        "url": "https://www.eurekalert.org/news-releases/1145035",
+        "reason": "held as backfill. It is a solid adversarial-vision result, but robotics is already covered by the MIT microrobot."
+      },
+      {
+        "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
+        "reason": "held as backfill. It is a feature on research integrity, not a new result."
+      },
+      {
+        "url": "https://phys.org/news/2026-09-ai-companions-erode-social-skills.html",
+        "reason": "held as backfill. It is a conceptual framework paper with no new data, and the AI-in-body check is still pending."
+      },
+      {
+        "url": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
+        "reason": "held as backfill. It is a valid applied-AI monitoring story, but it scored lower on novelty than the five picks."
       }
     ]
   },
   "diversity": {
     "distinct_outlets": 5,
     "max_per_outlet": 1,
-    "outlets": ["Phys.org", "Tech Xplore", "Live Science", "STAT News", "EurekAlert"],
-    "axes": ["AI for biology", "AI hardware physics", "agent behavior research", "clinical AI", "AI imaging"]
+    "outlets": ["Scientific American", "ScienceDaily", "Live Science", "Medical Xpress", "Phys.org"],
+    "axes": ["AI for mathematics", "AI robot control", "AI sensor hardware", "clinical AI imaging", "AI for food chemistry"]
   }
 }

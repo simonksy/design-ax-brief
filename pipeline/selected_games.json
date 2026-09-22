@@ -1,102 +1,87 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "games",
   "picks": [
     {
-      "headline": "당신이 광고에 가장 덜 짜증 낼 순간 — 마이크로소프트가 플레이 데이터로 학습하는 광고 타이밍 특허를 냈다",
-      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
-      "source": "Rock Paper Shotgun",
+      "headline": "로블록스가 프롬프트와 참조 이미지로 플레이 가능한 레이아웃을 뽑는 Scene Generator를 예고했다",
+      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+      "source": "Roblox",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-09-21T15:42:51Z",
-      "og_image": "https://assetsio.gnwcdn.com/xbox-logo_z42Z06j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Microsoft has filed a patent for a machine learning system that trains on a player's session data to predict the moments they'll be least irritated by in-game ads, turning player behaviour models into ad-placement tooling.",
-      "rationale": "플레이어 행동 모델이 '재미'가 아니라 광고 삽입 지점을 고르는 도구로 넘어가는 순간 — 게임 UX 설계자가 내일 당장 자기 세션 데이터 설계를 다시 봐야 할 이유다."
+      "published_iso": "2026-09-11T12:00:00Z",
+      "og_image": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png",
+      "excerpt": "At RDC 2026, Roblox said it is building an AI creation layer on its platform. Its upcoming Scene Generator will take a text prompt plus a reference image and return a playable layout that creators can refine in Studio, and it will work in both the mobile Build app and Studio.",
+      "rationale": "플랫폼 본사가 직접 발표한 제작 도구다. 텍스트와 참조 이미지를 넣으면 Studio에서 다듬을 수 있는 플레이 가능한 레이아웃이 나오니, 크리에이터의 블록아웃 단계가 바로 바뀐다. 이번 풀에서 가장 실용적인 소식이다."
     },
     {
-      "headline": "마이크로소프트가 AI 학습 규칙 초안을 공개하고 의견을 받는다",
-      "url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training",
-      "source": "80 Level",
+      "headline": "코에이 테크모·거스트, 아틀리에 소피 세계관의 LLM 자유 시나리오 RPG SophieChat:AI 발표",
+      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
+      "source": "AUTOMATON WEST",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-09-16T07:04:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
-      "excerpt": "Microsoft published a draft code of practice for AI training data and invited public feedback, a document that would set ground rules for how artists' and studios' work can be used to train models.",
-      "rationale": "아티스트와 스튜디오의 결과물이 어떤 조건으로 학습에 쓰이는지를 정하는 초안이 열려 있는 상태 — 의견 제출이 가능한 지금이 실제로 개입할 수 있는 유일한 창이다."
+      "published_iso": "2026-09-18T05:41:19Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp",
+      "excerpt": "At TGS 2026, Koei Tecmo, Gust and SpiralAI announced SophieChat:AI, an LLM-driven free-scenario RPG set in the world of Atelier Sophie 2. It follows RyzaChat:AI, which has logged more than 15 million spoken interactions and generates quests from conversation. (Off-list outlet: no on-list outlet covered it.)",
+      "rationale": "메이저 IP 보유사가 LLM 대화로 퀘스트를 만드는 방식을 후속작까지 넓혔다. 근거는 전작 RyzaChat:AI의 발화 1500만 건이다. AI를 제작 보조가 아닌 게임플레이 핵심에 넣은 드문 상용 사례다."
     },
     {
-      "headline": "바이럴 감자 깎기 게임, 생성형 도구로 복제당했다 — 인디 개발자 토마스 살라의 고발",
-      "url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
-      "source": "IGN",
+      "headline": "일본 게임업계에서 생성형 AI 영향이 가장 큰 직무는 배경·소품 아티스트와 보조 프로그래머",
+      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
+      "source": "AUTOMATON WEST",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "published_iso": "2026-09-21T21:05:44Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/21/indie-dev-accuses-studio-of-using-ai-to-rip-off-potato-peeling-game-1790023730648.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Indie dev Tomas Sala accuses a studio of using AI to clone his viral potato-peeling game, saying the copy was churned out with generative tools while he refuses to let 'a cheap copy win.'",
-      "rationale": "히트한 소품 게임의 복제 비용이 생성형 도구로 거의 0에 수렴한다는 사례 — 인디 개발자의 출시 타이밍과 방어 전략을 바꾼다."
+      "published_iso": "2026-09-17T09:53:08Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
+      "excerpt": "Recruiter Hiraku Agent names background and prop artists and assistant programmers as the Japanese game jobs most affected by generative AI. It suggests demand is falling for the 'basic' tasks that junior creators have traditionally handled. (Off-list outlet. This is a separate source from the already-published CESA survey.)",
+      "rationale": "채용 에이전시가 수요가 줄고 있는 직무를 구체적으로 짚었다. 주니어 아티스트와 프로그래머는 커리어와 스킬 계획을 다시 세워야 할 신호다. 이미 발행한 CESA 사용률 조사(09-18)와는 출처도 사안도 다르다."
     },
     {
-      "headline": "도쿄 게임쇼 2026 — 과거를 기념한 전시장 옆에 불확실한 AI가 서 있었다",
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-      "source": "GamesIndustry.biz",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "published_iso": "2026-09-21T12:01:04Z",
-      "og_image": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "An opinion piece from the Tokyo Game Show 2026 floor: nostalgia-heavy line-ups sat alongside an AI-forward show agenda, with Japanese studios openly debating how far generative tools should go in production.",
-      "rationale": "일본 스튜디오들이 생성형 도구를 제작 어디까지 들일지 공개적으로 갈라선 현장 기록 — 지역별 수용 온도차를 제품 결정에 반영해야 하는 팀에게 필요한 좌표다."
-    },
-    {
-      "headline": "슈타인즈 게이트를 만든 스튜디오의 다음 게임은 통째로 바이브 코딩한 FPS다",
-      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/",
-      "source": "PC Gamer",
+      "headline": "넥슨게임즈 신작 Pareidolia, 기기 안에서 도는 자체 음성인식 AI로 캐릭터를 목소리로 부른다",
+      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
+      "source": "Seoul Economic Daily",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-09-10T02:54:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2yEXLs6WNSnNauA6NWxFKd-1200-80.png",
-      "excerpt": "The next game from the Steins;Gate creators at Mages is an entirely vibe-coded FPS, made with AI-generated code and assets — a mainstream Japanese studio shipping a prompt-built title.",
-      "rationale": "주류 일본 퍼블리셔가 코드와 에셋을 통째로 프롬프트로 만든 게임을 실제로 출시한다 — 바이브 코딩이 실험실을 떠나 상업 라인업에 들어온 첫 좌표다."
+      "published_iso": "2026-09-19T00:00:05Z",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
+      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
+      "rationale": "모바일 발열과 성능 제약에 맞춰 튜닝한 온디바이스 음성 AI를 실제 게임플레이 입력으로 쓴 구체 사례다. 서버 비용 없이 음성 인터랙션을 넣으려는 개발자에게 참고가 된다. 이미 발행한 GI.biz TGS 칼럼(09-22)은 행사 전반과 레벨 파이브 논란을 다뤘고 Pareidolia는 다루지 않아, 넥슨 음성 AI를 중심에 두면 별개 사안이다."
+    },
+    {
+      "headline": "이매지네이션, 모바일 GPU 안에서 540p를 1080p로 2.3ms에 올리는 AI 업스케일러 NSR 공개",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
+      "source": "Inven",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "published_iso": "2026-09-21T07:38:06Z",
+      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
+      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
+      "rationale": "모바일 GPU용 신경망 업스케일러가 새로 나왔고, PowerVR SDK·Unreal·Godot 지원 계획까지 밝혔다. 모바일 타이틀의 렌더 해상도 예산을 다시 짤 여지가 생긴다. 이미 발행한 DLSS 5 카드(PC·데스크톱 GPU)와는 플랫폼과 벤더가 다르다."
     }
   ],
-  "shortfall_note": "1차 필터링 풀에서 4건을 뽑은 뒤 리커버리 수집 풀(5건)에서 1건을 백필해 5장 충족. 패딩 없음.",
-  "diversity_check": "최종 5장 = 5개 아웃렛(Rock Paper Shotgun / 80 Level / IGN / GamesIndustry.biz / PC Gamer), 아웃렛당 1건으로 ≤2 가드 충족. 마이크로소프트 관련 2건은 사안(광고 타이밍 특허 vs 학습 데이터 규칙 초안)이 완전히 별개라 토픽 중복 아님. 주제 축도 광고 수익화 / 학습 데이터 정책 / IP 복제 / 업계 현장 / 제작 방식으로 분산.",
+  "shortfall_note": "5장 모두 채웠다. 1차 풀에서 고른 3건(Roblox, SophieChat:AI, 일본 직무 영향)을 그대로 두고, 리커버리 풀에서 Seoul Economic Daily(넥슨 Pareidolia 음성 AI)와 Inven(Imagination NSR)을 더했다.",
+  "diversity_check": "최종 5장, 아웃렛 4곳: Roblox 1, AUTOMATON WEST 2, Seoul Economic Daily 1, Inven 1. 아웃렛당 최대 2건, 3곳 이상 조건을 모두 지켰다. 주제는 제작 툴 / 게임플레이 LLM / 인력 시장 / 온디바이스 음성 입력 / 모바일 렌더링으로 겹치지 않는다. 섹션 카테고리가 games 하나뿐이라 accent는 palette에서 카드마다 다르게 배정했다(#7928ca, #0070f3, #f5a623, #eb367f, #2ec5c5).",
   "dropped": [
     {
-      "url": "https://80.lv/articles/over-85-of-japanese-game-developers-now-use-generative-ai-according-to-tgs-report",
-      "reason": "중복: 동일한 CESA/TGS 2026 조사(85.8%)를 AUTOMATON West판으로 2026-09-18 games 섹션에 발행(games-cesa-genai). 아웃렛만 다른 같은 사건."
+      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "reason": "중복은 아니고 약한 순위로 빠졌다. 이미 출시된 PSSR을 한 타이틀에 적용했다는 확인에 그친다. 같은 AI 업스케일 축에서는 새 도구인 NSR이 더 새롭고 실제로 쓸 거리가 많다. Wccftech는 최근 며칠 DLSS 5 카드를 여러 건 냈다."
     },
     {
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "reason": "중복: 동일 판결(미호요 11만 2천 달러 배상)을 GamesRadar판으로 2026-09-12 발행. 전일 큐레이션에서도 같은 사유로 드롭된 기사."
-    },
-    {
-      "url": "https://www.eurogamer.net/level-5-ceo-apologises-generative-ai-professor-layton-yo-kai-watch",
-      "reason": "중복: Level-5 CEO의 쇼케이스 생성형 AI 사과 건은 IGN판으로 2026-09-13 발행(games-level5-ai-backlash-r2w). 전일 큐레이션에서도 동일 클러스터로 드롭."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/unionised-blizzard-workers-vote-through-contract-giving-them-a-say-on-genai-adoption-and-protection-against-layoffs",
-      "reason": "중복: 블리자드 노조의 생성형 AI 조항 포함 계약 비준 건은 80 Level판으로 2026-09-12 발행. 전일 큐레이션에서도 동일 사유로 드롭."
-    },
-    {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
-      "reason": "탈락(중복 아님): 리커버리 풀. AI는 반대급부 수사로만 등장하는 게임 소개 기사라 AI 축의 실체가 없음. 같은 아웃렛(PC Gamer) 내 더 강한 후보에 밀림."
+      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
+      "reason": "중복은 아니다. AUTOMATON WEST가 이미 2건이라 아웃렛 가드에 걸렸고, 팬 굿즈 라이선스 조항이라 제작 현장에 미치는 영향도 가장 작다."
     },
     {
       "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "reason": "탈락(중복 아님): 리커버리 풀. 스트리밍 크리에이터 툴 이슈로 게임 제작 축에서 벗어나고, 신선도(09-11)도 낮아 5순위 경쟁에서 밀림."
+      "reason": "중복은 아니다. AI 축이 약해 뺐다. 게임 제작이 아니라 스트리밍 크리에이터용 도구다."
     },
     {
       "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
-      "reason": "탈락(중복 아님): 리커버리 풀. 모딩 드라마성 인물 기사로 실행 가치가 낮고, Rock Paper Shotgun은 이미 1번 픽으로 아웃렛 다양성에서도 불리."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
-      "reason": "탈락(중복 아님): 리커버리 풀. 논란 후속 코멘트 중심의 담론 기사이고 신선도(09-08)가 가장 낮음."
+      "reason": "중복은 아니다. AI 축이 약해 뺐다. AI 연관은 Nexus의 'AI-assisted' 라벨 하나뿐인 인물·드라마 기사다."
     }
-  ]
+  ],
+  "dedup_check": "news_data.json sections.games의 today(2026-09-22)와 days(09-15, 09-17, 09-18, 09-19, 09-20)를 대조했다. 후보 9건 모두 URL이 겹치지 않는다. 내용으로 봐도 Pareidolia/넥슨 음성 AI, Imagination NSR, FF7 PSSR을 다룬 카드는 없다. Sedaily 기사가 AI 기술 파빌리온을 언급하는 부분은 GI.biz TGS 칼럼과 일부 겹친다. 그래서 카드의 초점을 넥슨 온디바이스 음성 AI에 두도록 헤드라인을 잡았다. NSR은 기존 DLSS 5 카드들과 벤더도 플랫폼도 다르다."
 }

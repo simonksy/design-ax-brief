@@ -1,209 +1,241 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "section": "books",
   "generated_by": "ax-writer",
   "cards": [
     {
-      "id": "books-openai-unsealed-briefs",
+      "id": "books-apollo-papyrus",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI와 Microsoft는\n불법인 줄 알고 있었다",
-      "mini_headline": "불법인 줄 알고 있었다",
-      "body": "저작권 책으로 학습시킨 게 불법인 줄, AI 책이 사람 책을 밀어낼 줄도 알았다.",
+      "headline": "훼손된 그리스 파피루스의\n빈칸을 채우는 AI",
+      "mini_headline": "파피루스 빈칸 채우는 AI",
+      "body": "Apollo는 훼손된 고대 그리스 파피루스의 빈칸에 들어갈 단어 후보를 내놓는다.",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Authors Guild와 OpenAI·Microsoft가 저작권 침해 소송에서 약식판결을 신청한 지 두 주가 채 지나지 않아, 두 회사가 낸 변론서의 봉인이 풀렸다. 그 안에 남은 임원들의 말은 저작권 있는 책으로 제품을 학습시키는 일이 위법임을 알고 있었다는 것, 그리고 AI가 만든 책이 시장에서 사람이 쓴 책을 밀어낼 공산이 크다고 봤다는 것을 보여준다. 출판업계 종사자 일부가 일자리를 잃으리라는 언급도 있었다."
-          },
-          {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131557-2.JPG"
+            "src": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/master/w_1280%2Cc_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg"
           },
           {
             "t": "p",
-            "x": "2019년 8월 OpenAI 내부 메모는 이렇게 적었다. \"We trained GPT-3 on pirated stuff! No sharing that!\""
+            "x": "전 세계 대학 도서관에는 고대 그리스어 파피루스 조각이 수십만 점 쌓여 있다. 너무 망가져 뜻을 잃은 것도 많지만, 나머지는 빠진 단어나 구절을 하나씩 채워 넣으면 되살릴 수 있다. 이 더딘 일에 속도를 내려고 연구자들이 AI를 끌어들였다."
           },
           {
             "t": "p",
-            "x": "Authors Guild가 특히 짚은 대목은 OpenAI 정책 디렉터 Jack Clark이 2020년 5월에 한 증언이다. \"The better we do on GPT-X, the more worried genre fiction authors will become about us substituting for them on Amazon.\" 그는 작가들이 우려를 쏟아낼 시점이 오겠지만 회사는 그 목소리를 무시한 채 출시할 것이라고도 했다."
+            "x": "오스트리아 과학아카데미는 수요일, 프랑스 AI 연구소 Mistral과 기술 서비스 기업 Sail Reply와 함께 만든 \"고대 그리스어를 위한 세계 최초의 고급 대규모 언어 모델\" Apollo를 공개한다. 필사본과 파피루스, 비문에서 모은 역사적 그리스어 단어 약 6억 개로 학습했고, 학자라면 챗봇 화면에서 무료로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "2022년 OpenAI는 모델의 글쓰기 품질을 끌어올릴 책임자로 Tarun Gogineni를 영입했다. 변론서에 따르면 그는 자신의 연구 과제를 인간 저자를 대체할 기계를 만드는 일로 규정했다. 데이터셋이 훔친 것이라는 작가들의 항의도, 작가들이 AI 생산물에 일감을 빼앗기고 있다는 사정도 알고 있었다. 그러면서도 그 항의에 크게 공감하지 않았고, 감수할 만한 경제적 교란쯤으로 여겼다. 머지않아 \"the death of the reader\"가 오고 \"machines creat[ed] slop for more machines\"가 되리라고 그는 썼다."
+            "x": "자기 세부 분야에 맞는 파피루스 조각과 새 연구 거리를 더 빨리 찾게 돕는 게 목표다. 찢기고 해진 문서에서는 통계적으로 가장 그럴듯한 단어나 구절로 빈칸을 채워, 역사 속 사건과 관습의 숨은 디테일을 드러낼 수도 있다. Sail Reply의 파트너 Dimitris Vlitas는 WIRED에 이런 지식 발굴이 \"1년 전만 해도 상상할 수 없던 일\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "증언에 등장한 트윗 한 줄이 그 태도를 압축한다. George R.R. Martin이 일찍 세상을 떠나면 \"GPT can write the next [S]ong of [I]ce and [F]ire book\"이라는 것이었다."
+            "x": "지금까지 파피루스 한 장을 복원하려면 숙련된 학자가 붙어야 했다. 띄어쓰기가 없는 고대 그리스어에서 단어 경계부터 가르고, 연대를 정확히 매기고, 사회·정치적 맥락을 따진 뒤 참고 자료를 뒤져 빈칸에 맞는 말을 고른다. UCL의 Stephen Colvin 교수는 \"그리스 역사를 그만큼 잘 아는 사람은 세상에 몇 안 된다\"고 말한다."
           },
           {
             "t": "p",
-            "x": "변론서는 Microsoft가 이르면 2019년 4월에 이미 OpenAI의 LibGen 사용을 알고 있었다고도 밝힌다. 2022년 OpenAI는 Project Clear라는 이름으로 LibGen 파일을 지웠다. 연구 담당 부사장 Bob McGraw가 동료들에게 보낸 메모는 이랬다. \"Given how much OpenAI is in the news, now is the right time to excise Libgen from our systems and storage. What would be involved in that?\""
+            "x": "Apollo에는 그 전문 지식이 통째로 들어 있다. 오스트리아 과학아카데미의 파피루스학자 Anna Dolganov는 \"호메로스를 보면 호메로스 그리스어로, 도리스 방언 비문을 보면 도리스 방언으로 채운다\"고 설명한다. 옥스퍼드대 Armand D'Angour 교수도 \"빈칸에 들어갈 만한 단어 세 개를 기계가 알려준다면 일이 훨씬 빨라질 것\"이라며 반겼다."
           },
           {
             "t": "p",
-            "x": "인용은 모두 Class Plaintiffs' Memorandum of Law in Support of Motion for Partial Summary Judgment(Docket 1982)와 Class Plaintiffs' Corrected Rule 56.1 Statement of Undisputed Material Facts(Docket 1987)에서 나왔다. 기사는 Jim Milliot이 2026년 9월 21일에 썼다."
+            "x": "고대 세계의 큰 그림까지 바뀌지는 않을 듯하다. 아직 복원되지 않은 파피루스 상당수는 개인 편지나 혼인 계약서, 관청 서류처럼 평범해서 뒤로 밀려 있던 문서다. Colvin은 \"소포클레스의 새 희곡이 갑자기 나오는 일은 없다\"고 못 박는다. 그래도 당시 생활의 새 디테일을 찾고 기존 학설을 뒷받침하는 데는 쓸모가 있다."
+          },
+          {
+            "t": "p",
+            "x": "Vlitas는 Apollo가 성공하면 라틴어나 이집트어 같은 다른 고대 언어에도 같은 기법을 쓸 수 있다고 본다. 확률로 움직이는 모델이 역사 기록에 오류를 섞을 수 있다는 걱정도 있다. 그래서 Apollo는 답을 하나로 못 박지 않고 여러 단어 후보를 내놓아 학자가 고르게 했다. Dolganov는 \"핵심은 사람의 역량이 남아 있어야 한다는 것\"이라며 \"AI의 판독과 해석에 전적으로 기대는 순간 문제가 시작된다\"고 말했다."
           }
         ]
       }
     },
     {
-      "id": "books-au-optout-training",
+      "id": "books-oup-ai-disclosure",
       "eyebrow": "AI NEWS",
-      "headline": "호주 정부의 AI 학습 옵트아웃 안에\n출판사·작가 단체가 나란히 반발",
-      "mini_headline": "옵트아웃에 반대한다",
-      "body": "APA와 ASA는 옵트아웃 기본값이 보호 부담을 창작자에게 떠넘긴다며 반대했다.",
+      "headline": "옥스퍼드대 출판부가 정한\n원고 속 AI 사용 공개 기준",
+      "mini_headline": "OUP의 AI 공개 기준",
+      "body": "OUP가 저자·편집자 지침을 고쳐 원고에 밝혀야 할 AI 사용 범위를 정했다.",
       "tool": "Books",
-      "source": "Books+Publishing",
-      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
-      "accent": "#0070f3",
+      "source": "Library Journal infoDOCKET",
+      "url": "https://www.infodocket.com/2026/09/10/disclosing-ai-use-in-academic-research-a-new-global-study-from-oxford-university-press/",
+      "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "호주 정부가 내놓은 제안은 호주 창작물을 AI 학습에 기본으로 넣는다. 원하지 않는 쪽이 따로 빠지겠다고 밝혀야 하는 구조다."
-          },
-          {
-            "t": "p",
-            "x": "호주출판협회(APA)와 호주작가협회(ASA)가 이 설계를 공개적으로 비판했다. 두 단체가 내건 반대의 요지는 한 문장에 담겼다. \"We cannot shift the burden to creators and rights-holders to try to protect their work.\""
-          },
-          {
-            "t": "p",
-            "x": "출판사 쪽과 작가 쪽이 같은 자리에 이름을 올렸다. 라이선스 시장이 성립할 수 있는지를 가를 정책 논의가 이제 시작된 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "기사 본문은 유료 구독자에게만 열려 있다. 여기 옮긴 내용은 무료로 공개된 도입부와 기사 요약이 뒷받침하는 범위에 한정된다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "books-ital-genai-libraries",
-      "eyebrow": "AI NEWS",
-      "headline": "도서관·박물관의 생성형 AI\n실무 사례를 모은 특집호가 나왔다",
-      "mini_headline": "GLAM 특집호 공개",
-      "body": "갤러리·도서관·기록관·박물관의 생성형 AI 활용 사례를 모은 특집호가 공개됐다.",
-      "tool": "Books",
-      "source": "LJ infoDOCKET",
-      "url": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "학술지 Information Technology and Libraries가 Vol. 45 No. 3(2026) 특집호를 온라인에 올렸다. 제목은 \"Accelerating Generative AI Integration in Libraries\"다."
+            "x": "Oxford University Press(OUP)가 AI를 책임 있고 적절하며 투명하게 쓰는 법을 담아 저자·편집자 지침을 고쳤다. OUP 저널에 낼 원고를 준비할 때 어떤 AI 사용을 밝혀야 하는지 정한 정책도 새로 넣었다."
           },
           {
             "t": "img",
-            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-21_09-54-41.png"
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-10_05-43-29.png"
           },
           {
             "t": "p",
-            "x": "infoDOCKET의 Gary Price는 이 호가 \"showcasing examples and ideas for integrating GenAI tools into galleries, libraries, archives, and museums\"에 맞춰져 있다고 전한다. 편집 글은 Katy Miller(University of Central Florida)와 Ellen Schmid(16th Judicial Circuit of Illinois)가 맡았다."
+            "x": "근거는 연구자 2,600여 명을 대상으로 한 글로벌 설문이다. 공개에는 대체로 찬성하면서도 응답자의 74%는 어떤 AI 사용을 밝혀야 할지 모르겠다고 답했다. 공개하면 자기 연구가 낮게 평가될까 걱정하는 사람이 44%였고, 연구 중 AI 사용을 기록해 두는 사람은 36%에 그쳤다. OUP는 AI 사용과 공개 사이의 이 간극을 메우려면 명확한 공개 정책이 필요하다고 본다."
           },
           {
             "t": "p",
-            "x": "목차는 전망보다 기록에 가깝다. Clarisse Bardiot을 비롯한 공동 저자들이 쓴 \"From Show Programs to Linked Data: A Generative AI Workflow for Performing Arts Collections\"는 공연예술 컬렉션을 링크드 데이터로 옮기는 생성형 AI 작업 흐름을 정리한다."
+            "x": "AI는 이미 널리 쓰인다. 64%가 연구에 도움이 된다고 했고, 68%는 웹의 AI 챗봇을, 49%는 기계 번역을 쓴다. 주로 기존 연구를 찾고(55%), 요약하고(46%), 원고를 다듬는 데(45%) 썼다. 인문·예술 분야는 35%가 AI를 전혀 쓰지 않아 STM(15%), 사회과학(18%)과 차이가 컸다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-10_06-20-55.png"
           },
           {
             "t": "p",
-            "x": "San Diego State University의 Lucy Campbell과 Keven Jeffery는 \"Transparent AI Tools for Libraries: Creating the OneSearch Assistant\"에서 자관이 만든 도구의 제작 과정을 다룬다. Ilana Kingsley(University of Alaska Fairbanks)의 \"Project Gutenberg's Artificial Intelligence Initiatives\"는 프로젝트 구텐베르크가 벌여 온 AI 시도를 훑는다."
+            "x": "믿음은 낮다. AI 결과물을 신뢰한다는 응답은 20%뿐이었고, AI 문헌 요약이 정확하다고 본 사람은 26%였다. 대신 83%는 AI가 만든 인용 출처를 확인하는 절차를 갖췄고, 80%는 결과물을 늘 교차 검증한다."
           },
           {
             "t": "p",
-            "x": "University of Pittsburgh 도서관의 AI 보조 분류 실험, El Colegio de México의 Legislación Mexicana 코퍼스용 연구 보조 도구, Michael Ridley(University of Guelph)가 연구도서관의 앞날을 다룬 \"Artificial Research Intelligence\"도 함께 실렸다."
+            "x": "공개는 제대로 안 되고 있다. 연구비 신청서를 쓴 사람의 48%, 저널 저자의 46%, 도서 저자의 39%가 AI 사용을 다 밝히지 않았다. 원고를 낼 때 AI 사용 여부를 확인받은 비율도 도서 저자 30%, 저널 저자 42%에 불과했다. 한 응답자는 \"무엇을 공개해야 할지 몰라 AI 사용이 드러나지 않게 한다\"고 털어놓았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-10_06-02-43-scaled.png"
+          },
+          {
+            "t": "p",
+            "x": "저자들은 공개 정책이 바뀌길 바란다. 더 명확하고 일관된 지침을 원하는 쪽이 있고, AI를 하나의 도구로 받아들여 공개를 최소화하자는 쪽도 있다. 남의 연구를 읽는 입장에서는 표준화된 의무 공개를 원하는 목소리가 많았다."
           }
         ]
       }
     },
     {
-      "id": "books-writing-conference-ai",
+      "id": "books-multilingual-researchers-ai",
       "eyebrow": "AI NEWS",
-      "headline": "AI 질문은 쌓이는데\n콘퍼런스 프로그램은 비어 있다",
-      "mini_headline": "AI를 비켜가지 마라",
-      "body": "프로그램에서 AI를 빼도 질문은 사라지지 않으니 의도를 갖고 다루라고 짚는다.",
+      "headline": "써도 의심, 안 써도 의심\n다국어 연구자의 AI 딜레마",
+      "mini_headline": "써도, 안 써도 의심",
+      "body": "영어가 서툴러도, 너무 매끄러워도 비영어권 연구자는 신뢰를 의심받는다.",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Jane Friedman은 최근 어느 글쓰기 콘퍼런스 프로그램을 훑다가 AI라는 말이 한 번도 나오지 않는다는 사실을 발견했다. 워크숍 제목에도, 설명에도, 패널에도, 기조 강연에도, 전시·후원사 명단에도 없었다. \"Imagine being beamed back to 2019.\""
-          },
-          {
             "t": "img",
-            "src": "https://janefriedman.com/wp-content/uploads/2026/09/friedman_conferences_ai-blogpost-1000x667.png"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/10/iStock-478438526-1024x683.jpg"
           },
           {
             "t": "p",
-            "x": "그는 이런 프로그램이 한두 해 전보다 오히려 흔해졌다고 본다. 골치와 반발을 피하려고 주최 측이 AI를 일부러 빼놓거나, 도덕적·윤리적으로 반대해 아예 자리를 주지 않는 경우다."
+            "x": "학술 출판 콘퍼런스에는 늘 영어가 모국어가 아닌 연구자를 위한 세션이 있었다. 2023년 전까지 심사평에는 \"원어민에게 원고 검토를 받으라\"는 주문이 흔했다. 생성형 AI가 무료 언어 지원을 언제든 쓸 수 있게 만들면서, 겉보기엔 이런 풍경이 하루아침에 쓸모없어졌다."
           },
           {
             "t": "p",
-            "x": "문제는 빼도 질문이 없어지지 않는다는 데 있다. AI 세션이 없던 어느 행사에서 그가 본 광경은 질의응답 시간이 온통 AI 질문으로 뒤덮이는 것이었다. 사적인 메시지와 소셜미디어로도 같은 질문이 계속 들어온다고 그는 적는다."
+            "x": "비원어민 학자를 조사한 최근 연구를 보면 72%가 문법·문체를 다듬는 데, 63%가 교열에, 45%가 번역에 AI를 썼다. 비싼 전문 교정 없이 표현을 바꿔 보고 초고를 번역할 수 있게 됐으니 분명한 진전이다."
           },
           {
             "t": "p",
-            "x": "그래서 권하는 것은 세 가지다. 조직에 AI 정책이, 특히 반대 정책이 있다면 발표자와 패널, 파트너가 먼저 알게 할 것. AI에 반대하는 행사라도 AI를 다루는 세션 하나는 둘 것. 커뮤니티에 가장 절실한 주제를 골라 실무 워크숍을 열 것."
+            "x": "그런데 언어 장벽이 사라졌다고 편견까지 사라지진 않았다. 비영어권 연구자의 원고는 너무 매끄럽다는 이유로 의심받는다. AI 탐지기는 제2언어 학술 문장에 흔한 규칙적 구문, 어휘 반복, 정형화된 표현을 AI 글로 잘못 분류하곤 한다. 한 컴퓨터과학 학회의 동료 심사 8만 건 가까이를 분석한 2025년 연구에서는 ChatGPT 이후 문법적 버릇이 사라지자 심사자들이 LLM 특유의 표현을 새 단서로 삼았다."
           },
           {
             "t": "p",
-            "x": "AI를 금기로 두는 일이 작가를 지키는 방법은 아니라는 게 그의 결론이다. \"Whether we agree or not on its use, we have to find ways to talk about it.\""
+            "x": "영어가 서툴면 신뢰를 잃고, 지나치게 매끄럽거나 'AI 같으면' 또 신뢰를 잃는다. 필자 Avi Staiman은 이런 건 신호일 뿐 증거가 아니라고 말한다. 저자가 AI를 썼다는 사실만으로는 데이터와 분석, 기여에 대해 아무것도 알 수 없다."
+          },
+          {
+            "t": "p",
+            "x": "매끄럽다고 정확한 것도 아니다. 우간다 저자 원고로 ChatGPT, Grammarly, 전문 교정자를 비교한 연구에서 ChatGPT는 사람보다 세 배쯤 많이 고쳤지만 가독성 수정 가운데 개선으로 평가된 건 61%였고, 14%는 글을 오히려 망쳤다. 사람 교정자는 뜻이 모호한 일곱 곳을 저자에게 되물었는데 두 LLM은 한 번도 묻지 않았다. 문장은 매끄러워지는데 주장이 슬쩍 바뀌는 '의미 미끄러짐'은 여기서 생긴다."
+          },
+          {
+            "t": "p",
+            "x": "모두가 비슷하게 쓰게 되는 문제도 있다. \"delve\"는 ChatGPT 이전보다 16배 가까이 늘었고, 180만 건 넘는 프리프린트 초록에서는 유보하는 표현이 줄고 단정하는 표현이 늘었다. Staiman은 출판사가 문체로 AI 사용을 짐작하기보다 어떤 사용이 적절하고 어떤 사용에 검증과 공개가 필요한지 설명하는 데 힘써야 한다고 본다. 언어 장벽을 넘으라고 AI를 권해 놓고, 영어가 나아졌다고 벌할 수는 없다는 얘기다."
           }
         ]
       }
     },
     {
-      "id": "books-geek-sublime-reread",
+      "id": "books-guardian-ai-reading-list",
       "eyebrow": "AI NEWS",
-      "headline": "12년 전의 『Geek Sublime』을\n생성형 코드 시대에 다시 읽다",
-      "mini_headline": "12년 만의 다시 읽기",
-      "body": "Chandra는 코드의 원칙은 그대로지만 AI에 그렇게 시키기가 어렵다고 말한다.",
+      "headline": "AI 파국론에 지쳤다면\n가디언이 고른 AI 책 목록",
+      "mini_headline": "가디언의 AI 필독서",
+      "body": "가디언 기자와 전문가들이 『Empire of AI』 등 AI 책 17권을 추렸다.",
       "tool": "Books",
-      "source": "Literary Hub",
-      "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
       "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7"
+          },
+          {
+            "t": "p",
+            "x": "AI를 둘러싼 과장과 공포가 끝없이 되풀이된다. 지난주에도 한 AI 기업 직원이 이 기술이 \"10년 안에 우리 모두를 죽일 수도 있다\"고 경고하며 공개적으로 회사를 떠났다. 그 와중에 AI 기업 매출은 폭발적으로 늘었고 미국 증시는 신고가를 새로 썼다. 가디언 기술 기자들과 외부 전문가들이 이 혼란을 읽어낼 책을 골랐다."
+          },
+          {
+            "t": "p",
+            "x": "업계를 파헤친 책으로는 카렌 하오의 『Empire of AI』가 첫손에 꼽혔다. OpenAI의 부상과 Anthropic 설립, 샘 올트먼과 일론 머스크의 결별까지 담은, 지금까지 AI 업계를 가장 깊이 취재한 책이다. 캐트리나 맨슨의 『Project Maven』은 미군과 팔란티어가 자율무기·감시 체계를 함께 만든 과정을 좇는다. 패리스 마크스의 『Hyperscale』은 데이터센터가 지역사회와 환경에 남기는 흔적을, 캐시미어 힐의 『Your Face Belongs to Us』는 안면인식 기업 클리어뷰 AI를 다룬다. 에밀리 M. 벤더와 알렉스 한나는 『The AI Con』에서 'AI 하이프'가 부자들의 돈벌이를 돕는 거짓말과 과장이라고 반박한다."
+          },
+          {
+            "t": "p",
+            "x": "허점은 있어도 읽어볼 만한 책도 넣었다. 엘리저 유드코프스키와 네이트 소아레스의 『If Anyone Builds It, Everyone Dies』는 AI 파멸론자의 시각을 이해하기 좋은 출발점이다. 다만 예측이 현실보다 거창한 사고실험에 기댄다는 평이다. 닉 보스트롬의 『Superintelligence』(2014), 헨리 키신저·에릭 슈밋 등이 함께 쓴 『Genesis』, 팔란티어 CEO 알렉스 카프의 『The Technological Republic』도 목록에 올랐다. 카프의 책은 문장이 형편없다는 혹평을 들었지만, 테크 CEO들이 실제로 무엇을 믿는지 엿보게 해 준다."
+          },
+          {
+            "t": "p",
+            "x": "역사와 이념, 소설로 맥락을 넓힌 책도 있다. 질 르포어의 신간 『The Rise and Fall of the Artificial State』, 애덤 베커의 『More Everything Forever』, 버지니아 유뱅크스의 『Automating Inequality』(2018), 애니타 세이 챈의 『Predatory Data』, 카리사 벨리스의 『Prophecy』가 여기 들었다. 소설로는 아이작 아시모프의 『I, Robot』, 재커리 메이슨의 『The Lost Books of the Odyssey』, 보르헤스의 『Labyrinths』를 골랐다. 작가 로빈 슬론은 메이슨의 책을 두고 \"사람이 온전히, 아름답게 썼지만 LLM 시대의 첫 책\"이라고 했다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "books-clarivate-pulse-library",
+      "eyebrow": "AI NEWS",
+      "headline": "벌어지는 도서관 AI 격차\n본격 도입은 전 세계 16%",
+      "mini_headline": "도서관 AI 도입 격차",
+      "body": "Clarivate 조사에서 AI를 중간 이상 도입한 도서관은 전 세계 16%였다.",
+      "tool": "Books",
+      "source": "Library Journal infoDOCKET",
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
+      "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-15-06-1.png"
+          },
+          {
             "t": "p",
-            "x": "Vikram Chandra의 『Geek Sublime: The Beauty of Code, The Code of Beauty』가 나온 지 12년이 지났다. 역사의 눈금으로는 짧고, 기술의 눈금으로는 아득한 시간이다. Literary Hub의 Tobias Carroll은 그 간극을 두고 저자와 여러 주에 걸쳐 이메일을 주고받았다."
+            "x": "Clarivate가 도서관 현황 보고서 「Pulse of the Library 2026」을 내놓았다. 올해로 3년째인 이 글로벌 설문은 AI를 비롯한 기술 변화, 달라지는 우선순위, 늘어나는 인력·자원 부담에 도서관이 어떻게 대응하는지 살핀다."
+          },
+          {
+            "t": "p",
+            "x": "AI 도입 수준은 중국 본토가 가장 높았다. 중간 이상 도입했다는 응답이 28%로, 2024년의 두 배를 넘었고 전 세계 수치 16%도 크게 웃돌았다."
+          },
+          {
+            "t": "p",
+            "x": "AI 실험 단계를 넘어선 도서관과 아직 걸음마 단계인 도서관 사이의 격차도 벌어졌다. 적극 도입 중인 도서관의 51%는 도서관과 IT 부서가 함께 거버넌스를 맡는다. 전체 표본에서는 26%뿐이다. 체계적인 거버넌스와 부서 간 협업이 그만큼 중요하다는 얘기다."
+          },
+          {
+            "t": "p",
+            "x": "Clarivate 학계·정부 부문 전략·혁신 담당 수석부사장 오런 베이트-아리에는 \"도서관에 AI는 끊임없는 변화이자, 언제 도입하고 언제 멈출지, 학문적 진실성과 도서관의 핵심 가치를 어떻게 지킬지를 놓고 내려야 하는 어려운 선택의 연속\"이라고 말했다. 그가 올해 조사에서 눈여겨본 대목은 AI를 실험하며 배우고 자신감을 쌓는 도서관과, 스스로 택했든 자원이 모자라서든 관망하는 도서관의 차이다."
           },
           {
             "t": "img",
-            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/coding.jpg"
+            "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-17-04-1.png"
           },
           {
             "t": "p",
-            "x": "책은 소설과 코드를 모두 써 온 사람이 두 세계가 겹치는 자리를 찾아간 결과물이었다. National Book Critics Award for Criticism 최종 후보에 올랐고, Anne Trubek은 \"the subtle and revelatory scope of this book\"이라고 평했다."
+            "x": "걱정거리도 달라졌다. 사서들은 개인정보와 보안, 허위정보, AI 결과물의 편향을 가장 크게 우려했다. AI를 도입 중인 도서관이 도입하지 않은 곳보다 오히려 우려를 더 많이 꼽았다. 직접 써 볼수록 위험과 기회가 함께 눈에 들어온다는 방증이다."
           },
           {
             "t": "p",
-            "x": "그사이 코딩 쪽 지형은 크게 흔들렸다. 온라인 프로젝트의 코드를 AI에 맡기는 바이브 코딩이 널리 퍼졌고, New York Times의 팟캐스트 The Daily은 인간 코더가 아직 필요한지 물었다."
+            "x": "AI로 이루려는 목표에서는 직원 생산성이 앞으로 나섰다. 응답자의 58%가 AI 사업의 주요 목표로 직원 생산성을 꼽았다. 업무량과 책임은 늘어나는데 손은 부족하니 AI로 여력을 만들려는 것이다. 대학 도서관은 여전히 학생 학습을 앞세우지만 운영 효율에도 관심을 키우는 중이다."
           },
           {
             "t": "p",
-            "x": "Chandra의 답은 원칙 쪽에 있다. 코드는 여전히 우아해야 하고 오래 유지하기 쉬워야 한다는 것. 어려운 쪽은 AI 에이전트에게 그런 코드를 쓰게 만드는 일이다. 원칙을 적어 붙인 짧은 스크립트는 잘 돌아갔지만, 큰 코드베이스는 조심하지 않으면 스파게티가 된다는 이야기를 숙련된 프로그래머들에게서 듣는다고 그는 말한다. \"You still need humans to review the code.\""
-          },
-          {
-            "t": "p",
-            "x": "Linus Torvalds를 인용하는 대목도 있다. 컴파일러가 코드를 써 온 건 수십 년째인데 아무도 그 얘긴 하지 않는다는 것. 다만 에이전트에게는 컴파일러에게 주지 않던 자율성을 넘겨주게 되고, 그 예측 불가능성이 생산성과 규모의 대가라고 Chandra는 정리한다."
+            "x": "AI 말고도 풀어야 할 과제는 많다. 응답자들은 오픈 사이언스, 개방형 교육자료, 도서관 예산, 연구 지원, 바뀌는 이용자 요구를 함께 거론했다. 전체 보고서는 26쪽 분량의 PDF로 공개됐다."
           }
         ]
       }
