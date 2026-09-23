@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "games",
   "media": [
     {
-      "id": "games-roblox-scene",
+      "id": "games-dlss5-guided",
       "type": "video",
-      "src": "pipeline/media/games-roblox-scene.mp4",
-      "poster": "pipeline/media/games-roblox-scene.jpg"
+      "src": "pipeline/media/games-dlss5-guided.mp4",
+      "poster": "pipeline/media/games-dlss5-guided.jpg"
     },
     {
-      "id": "games-sophiechat",
-      "type": "image",
-      "src": "pipeline/media/games-sophiechat.jpg"
+      "id": "games-gemini-tts",
+      "type": "video",
+      "src": "pipeline/media/games-gemini-tts.mp4",
+      "poster": "pipeline/media/games-gemini-tts.jpg"
     },
     {
-      "id": "games-japan-jobs",
+      "id": "games-ms-face-patent",
       "type": "image",
-      "src": "pipeline/media/games-japan-jobs.jpg"
+      "src": "pipeline/media/games-ms-face-patent.jpg"
     },
     {
-      "id": "games-nexon-pareidolia",
+      "id": "games-twitch-ai-stream-coach",
       "type": "image",
-      "src": "pipeline/media/games-nexon-pareidolia.jpg"
+      "src": "pipeline/media/games-twitch-ai-stream-coach.jpg"
     },
     {
-      "id": "games-imagination-nsr",
+      "id": "games-ff14-fan-merch",
       "type": "image",
-      "src": "pipeline/media/games-imagination-nsr.jpg"
+      "src": "pipeline/media/games-ff14-fan-merch.jpg"
     }
   ]
 }

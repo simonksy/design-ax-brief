@@ -1,216 +1,170 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "gadgets",
-  "now_iso": "2026-09-22T22:00:00Z",
+  "now_iso": "2026-09-23T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "ax-librarian",
   "items": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
+      "url": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
+      "title": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-22T20:52:40Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Rabbit still isn’t giving up on AI hardware, though.",
-      "headline": "Rabbit’s new AI agent doesn’t need an R1 to run"
+      "published_iso": "2026-09-23T18:30:00Z",
+      "excerpt": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-      "source": "WIRED",
+      "url": "https://9to5google.com/2026/09/22/gemini-switches-to-american-accent-but-just-for-nest-doorbells/",
+      "title": "Nest Doorbell has been triggering Gemini’s American accent, no matter what language you speak; fix coming",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-22T16:00:00Z",
-      "og_image": "https://media.wired.com/photos/6ab18726d3445bdfbd468e18/191:100/w_1280,c_limit/Rabbit-is-Back-Gear-OS3_r1.jpg",
-      "excerpt": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
-      "headline": "Rabbit Is Back, This Time With an AI Agent App"
+      "published_iso": "2026-09-22T22:40:32Z",
+      "excerpt": "Google Home is experiencing a unique bug that announces Nest Doorbell notifications in an American accent, even if your preferences...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-doorbell-wired-2k-4.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "url": "https://www.digitaltrends.com/phones/qualcomms-new-flagship-chips-go-big-on-5ghz-speeds-agentic-ai-and-of-course-gaming/",
-      "source": "Digital Trends",
+      "url": "https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/",
+      "title": "SwiftKey ‘AI voice’ is Pixel 11’s Rambler voice-to-text for other Android phones, works offline",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-22T20:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Qualcomm-Snapdragon-8-Elite-Extreme-Gen-6-Featured.jpg?resize=1200%2C630",
-      "excerpt": "Qualcomm’s Snapdragon 8 Elite Gen 6 family reaches 5GHz and doubles down on agentic AI, while the new Extreme tier adds serious gaming and camera upgrades.",
-      "headline": "Qualcomm’s new flagship chips go big on 5GHz speeds, agentic AI, and, of course, gaming"
+      "published_iso": "2026-09-15T17:15:00Z",
+      "excerpt": "Rambler in Gboard is perhaps one of the best Pixel 11 features, delivering powerful voice-to-text backed up by AI models....",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-3.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "url": "https://www.cnet.com/tech/computing/qualcomm-snapdragon-8-elite-extreme-gen-6-chips-ai-8k-video-android-phones/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T20:00:00Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg",
-      "excerpt": "A pair of top-tier Snapdragon chips will empower AI, boost graphics and enable 8K video in next year's phones.",
-      "headline": "Qualcomm’s New Chips Power AI and 8K Video for Top Android Phones — and They’re Coming Soon"
-    },
-    {
-      "url": "https://www.xda-developers.com/qualcomms-new-snapdragon-8-elite-gen-6-chip-lineup-powerful-ultra-premium-tier/",
-      "source": "XDA",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T20:00:18Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/snapdragon-8-elite-gen-6-header.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Unsurprisingly, the chip giant is going even more all-in on AI.",
-      "headline": "Qualcomm split its 2026 flagship Snapdragon 8 Elite Gen 6 chip into two tiers, with the Extreme version packing 50% more shared memory"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
+      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-09-22T19:01:44Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "A new Bloomberg report today from Mark Gurman says a forthcoming AI product—the rumored wearable pendant—has been put on hold.",
-      "headline": "Apple has reportedly ‘postponed’ AI pendant product"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T17:23:38Z",
-      "og_image": "https://images.macrumors.com/t/ylEbcdN8ebtFqOLop_nehdKvHHM=/2500x/article-new/2025/07/airtag-prime-day-2.jpeg",
-      "excerpt": "Apple has paused development on a camera-equipped AI wearable, reports Bloomberg. The device was described as a pin or pendant that could be attached to clothing or worn around the neck. A camera would relay information about the wearer's surroundings to Siri, like the rumored AirPods with cameras that could come as soon as 2027. The AI pin would have Visual Intelligence features, with Siri AI able to answer questions about where the wearer is located or what the wearer is looking at.",
-      "headline": "Apple Puts AirTag-Sized AI Pin on Hold"
-    },
-    {
-      "url": "https://www.digitaltrends.com/wearables/apples-next-wearable-bet-could-be-a-screen-less-fitness-band-to-rival-whoop-and-fitbit-air/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T17:17:59Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2025/05/whoop-mg-wrist.jpg?resize=1200%2C630",
-      "excerpt": "Apple is developing prototypes of a screenless fitness tracker similar to Whoop, although a release is still uncertain and likely years away.",
-      "headline": "Apple’s next wearable bet could be a screen-less fitness band to rival Whoop and Fitbit Air"
-    },
-    {
-      "url": "https://gizmodo.com/apples-next-wearable-could-be-perfect-for-ai-haters-2000815650",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T20:20:23Z",
-      "og_image": "https://gizmodo.com/app/uploads/2025/07/whoop-5-band-review-2-1200x675.jpg",
-      "excerpt": "The company's Whoop competitor is being prototyped internally, right as what an Apple Watch does is starting to change.",
-      "headline": "Apple's Next Wearable Could Be Perfect for AI Haters"
-    },
-    {
-      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T13:00:00Z",
-      "og_image": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png",
-      "excerpt": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-      "headline": "Viture’s Vonder Glasses Are Meant to Map Your Mind"
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/smart-glasses/vonder-may-have-solved-the-pervert-glasses-problem-and-the-nerd-factor-too",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iuTj3TgRbqbgSjU83yXMSo-1700-80.jpg",
-      "excerpt": "Audio-only specs with a unique ",
-      "headline": "Vonder may have solved the 'pervert glasses' problem — and the nerd factor, too"
-    },
-    {
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-09-21T22:24:38Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "excerpt": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "headline": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
-    },
-    {
-      "url": "https://www.cnet.com/tech/services-and-software/amazon-blocks-metas-muse-ai/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-09-21T20:27:31Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2293791920.jpg",
-      "excerpt": "Amazon has its own agentic AI option called Buy for Me, which could be behind the agentic turf war.",
-      "headline": "No Shirt, No Shoes, No Service: Amazon Blocks Meta’s Muse AI From Shopping"
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T19:08:58Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg",
-      "excerpt": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "headline": "Adobe Premiere finally brings powerful video editing to Android, and it's free"
-    },
-    {
-      "url": "https://www.digitaltrends.com/computing/smartphone-ai-could-respond-more-than-3-times-faster-thanks-to-a-new-memory-trick/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T15:29:43Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/06/iOS-27-Siri-AI-voice-image-search.jpg?resize=1200%2C630",
-      "excerpt": "A new AI memory system could make smartphone AI up to 3.67 times faster while cutting server calls, helping devices handle more tasks locally and efficiently.",
-      "headline": "Smartphone AI could respond more than 3 times faster thanks to a new memory system"
-    },
-    {
-      "url": "https://www.androidauthority.com/xiaomi-open-source-ai-model-3d-game-blender-model-3713895/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-22T09:56:05Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Xiaomi-17-Ultra-with-Xiaomi-15-Ultra_5.jpg",
-      "excerpt": "This phone brand's new open-source AI model claims to match Claude and ChatGPT, and can build 3D games from nothing but a prompt.",
-      "headline": "Move over, Claude and ChatGPT: This Android brand's open-source AI model builds 3D games on demand"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-gemini-call-for-me-apk-teardown-3713510/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-21T12:22:26Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-magic-cue-phone-call-scaled.jpg",
-      "excerpt": "Google Pixel phones could soon use Gemini to call customer support, navigate voice menus, and hold on your behalf. Here's what we found!",
-      "headline": "Pixel phones could soon call customer support lines on your behalf"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-photos-ai-wardrobe-hands-on-3710817/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-21T09:00:06Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Photos-AI-wardrobe-options-scaled.jpg",
-      "excerpt": "I tried Google Photos’ new AI wardrobe feature. While the clothes detection is impressive, the virtual try-on leaves a lot to be desired.",
-      "headline": "I wanted to love Google Photos' AI wardrobe feature — but it's driving me crazy"
-    },
-    {
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-studio-m5-ultra-review",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-09-21T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AAnvQVv2RtEPAZM6bn2qLW-1999-80.jpg",
-      "excerpt": "Taking on the Mac Pro",
-      "headline": "Apple Mac Studio (M5 Ultra) review: Local model citizen outpaces DGX Spark and Threadripper"
+      "published_iso": "2026-09-23T21:17:11Z",
+      "excerpt": "MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, and more.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628"
     },
     {
       "url": "https://9to5mac.com/2026/09/21/m5-ultra-mac-studio-review-roundup-a-local-ai-powerhouse/",
+      "title": "M5 Ultra Mac Studio reviews: local AI powerhouse",
       "source": "9to5Mac",
       "category": "gadgets",
       "published_iso": "2026-09-21T13:34:18Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&strip=all&resize=1200,628",
       "excerpt": "In addition to the new M6 Mac mini (9to5Mac review), early impressions of the most powerful Mac Studio are out...",
-      "headline": "M5 Ultra Mac Studio reviews: local AI powerhouse"
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-studio.jpg?quality=82&strip=all&resize=1200,628"
     },
     {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
-      "source": "Tom's Hardware",
+      "url": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+      "title": "Meta is working on making Muse its smart glasses assistant",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-09-21T10:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WWyX26gNdKvnwTVKzZaKs5-1027-80.png",
-      "excerpt": "Request an AI-driven robot arm to put a screwdriver in a toaster, and it might just try.",
-      "headline": "AI-controlled robot arms attempted harmful tasks 97% of the time; experiments included stabbing a baby doll, mixing chemicals — OpenAI and Anthropic models try mixing bleach and stabbing dolls without jailbreaks"
+      "published_iso": "2026-09-23T14:44:39Z",
+      "excerpt": "Meta is working to bring Muse, its autonomous AI agent, to its smart glasses opening up features like navigation and fitness tracking.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Ray-Ban-Meta-glasses-Skyler-Shiny-Chalky-Gray-with-Transitions-Sapphire-lenses-scaled.jpg"
     },
     {
-      "url": "https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/",
+      "url": "https://www.cnet.com/tech/services-and-software/qualcomm-snapdragon-sound-elite-gen-2-chip-headphones-ai-rebrand/",
+      "title": "From Audio Glasses to Earbuds With Cameras, Headphones Are Getting a Major AI Rebrand",
       "source": "CNET",
       "category": "gadgets",
-      "published_iso": "2026-09-22T01:24:54Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/baby-doll-GettyImages-1500300492.jpg",
-      "excerpt": "The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs.",
-      "headline": "Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics"
+      "published_iso": "2026-09-23T19:30:13Z",
+      "excerpt": "In the age of agentic AI, headphones are no longer the straightforward audio devices they once were.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-18-3.png"
     },
     {
-      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "url": "https://www.cnet.com/tech/services-and-software/qualcomm-wants-you-to-let-ai-agents-spend-your-money-2/",
+      "title": "Qualcomm Wants You to Let AI Agents Spend Your Money",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T10:14:42Z",
+      "excerpt": "Someday, AI agents will buy you anything you want — or what they think you want. Here's how the chipmaker for top Android phones thinks that may work.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Qualcomm-AI-Agents-payment.jpg"
+    },
+    {
+      "url": "https://www.cnet.com/health/fitness/peloton-launches-foldable-cheaper-treadmill/",
+      "title": "Peloton Launches First Foldable Treadmill, Adds More AI Features",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T00:09:41Z",
+      "excerpt": "The Tread Flex, one of three new models, is also the company's least expensive treadmill at $2,200.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Peloton-Tread-Flex-16x9-1.jpg"
+    },
+    {
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+      "source": "Meta Newsroom",
+      "category": "gadgets",
+      "published_iso": "2026-09-16T16:00:19Z",
+      "excerpt": "People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a",
+      "og_image": "https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?w=1200"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
+      "title": "Siri AI Coming to HomePod",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T17:04:37Z",
+      "excerpt": "Apple's smarter, more capable version of Siri is expanding to the HomePod, according to details found by code sleuth pdfu. According to pdfu, HomePod Software 27 includes the system behind Siri AI, called \"Linwood,\" along with new status lights in the Siri AI colors. Since HomePod Software 27 is out",
+      "og_image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T10:30:15Z",
+      "excerpt": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.",
+      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+    },
+    {
+      "url": "https://www.techradar.com/home/smart-home/the-problem-with-smart-appliances-some-of-samsungs-ai-fridges-have-shut-down-and-lost-their-cool-after-a-bad-update-was-accidentally-pushed-to-them",
+      "title": "Samsung's AI fridges shut down and stop chilling food after a bad update",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T13:21:22Z",
+      "excerpt": "A substantial number of Samsung fridge owners have been left without any way to chill their food.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7mwc33x5SsydMvMnLJ2EBW-2000-80.jpg"
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/smart-glasses/its-just-because-its-a-new-form-factor-qualcomms-xr-svp-defends-smart-glasses-against-privacy-panic-ahead-of-meta-connect",
+      "title": "‘It’s just because it’s a new form factor’: Qualcomm’s XR SVP defends smart glasses against privacy panic ahead of Meta Connect",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T19:30:00Z",
+      "excerpt": "Does the defense hold up?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZMnLQAX8D4hd8Dtgggi7En-2560-80.jpg"
+    },
+    {
+      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
+      "title": "visionOS 27 Launched For Apple Vision Pro Headsets, Bringing Siri AI & More",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-09-18T02:20:37Z",
+      "excerpt": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features & improvements.",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T19:00:00Z",
+      "excerpt": "A new way to one-click-shop just dropped.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+    },
+    {
+      "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system/",
+      "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
       "source": "WIRED",
       "category": "gadgets",
-      "published_iso": "2026-09-20T10:30:00Z",
-      "og_image": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/191:100/w_1280,c_limit/091626-Meta%20Muse.jpg",
-      "excerpt": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-      "headline": "Meta's Muse Is Better at Surveilling Than Helping Me"
+      "published_iso": "2026-09-23T10:39:00Z",
+      "excerpt": "SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.",
+      "og_image": "https://media.wired.com/photos/6ab330547e5544c7a3b97e1f/191:100/w_1280,c_limit/Review--SmartLabels-QR-Code-Organizing-System.jpg"
+    },
+    {
+      "url": "https://www.tomsguide.com/computing/laptops/microsoft-surface-pro-12-inch-surface-laptop-13-inch-snapdragon-x2-plus-hands-on-review",
+      "title": "I tested Microsoft’s fanless Snapdragon X2 Plus Surfaces: The MacBook Air should be terrified",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T20:30:00Z",
+      "excerpt": "I tested Microsoft’s fanless Surface Pro and Surface Laptop with Snapdragon X2 Plus. From Blender renders to zero throttling, here is my hands-on impressions.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/H7mdjc7gjUaN5Z6kpqA45K-2560-80.jpg"
     }
   ]
 }

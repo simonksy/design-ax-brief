@@ -1,31 +1,7 @@
-{
-  "date": "2026-09-23",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-variance-problem",
-      "type": "image",
-      "src": "pipeline/media/design-variance-problem.png"
-    },
-    {
-      "id": "design-taste-wont-save",
-      "type": "image",
-      "src": "pipeline/media/design-taste-wont-save.jpg"
-    },
-    {
-      "id": "design-autodesk-ai-pull",
-      "type": "image",
-      "src": "pipeline/media/design-autodesk-ai-pull.jpg"
-    },
-    {
-      "id": "design-impeccable-browser",
-      "type": "image",
-      "src": "pipeline/media/design-impeccable-browser.png"
-    },
-    {
-      "id": "design-two-images-two-jobs",
-      "type": "image",
-      "src": "pipeline/media/design-two-images-two-jobs.png"
-    }
-  ]
-}
+{"date":"2026-09-24","section":"design","media":[
+ {"id":"design-builder-agent-plans","type":"image","src":"pipeline/media/design-builder-agent-plans.png"},
+ {"id":"design-comsol-mcp-server","type":"image","src":"pipeline/media/design-comsol-mcp-server.jpg"},
+ {"id":"design-who-owns-ai-transformation","type":"image","src":"pipeline/media/design-who-owns-ai-transformation.jpg"},
+ {"id":"design-no-handoff-ui-kit","type":"image","src":"pipeline/media/design-no-handoff-ui-kit.png"},
+ {"id":"design-leaders-grow-juniors","type":"image","src":"pipeline/media/design-leaders-grow-juniors.jpg"}
+]}

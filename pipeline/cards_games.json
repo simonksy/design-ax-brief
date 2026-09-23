@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "games",
   "cards": [
     {
-      "id": "games-roblox-scene",
+      "id": "games-dlss5-guided",
       "eyebrow": "AI NEWS",
-      "headline": "로블록스, 텍스트와 참조 이미지로\n플레이 가능한 레이아웃 생성",
-      "body": "텍스트와 참조 이미지만 넣으면 Studio에서 다듬을 레이아웃이 나온다.",
-      "mini_headline": "로블록스 씬 제너레이터",
+      "headline": "DLSS 5, 아트 의도를 지키는\n3D 가이드 뉴럴 렌더링 공개",
+      "body": "NVIDIA가 DLSS 5에 아트 의도를 지켜 주는 세밀한 제어 기능을 붙였다.",
+      "mini_headline": "DLSS 5 아트 의도 제어",
       "tool": "Games",
-      "source": "Roblox",
-      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+      "source": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -18,93 +18,170 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png"
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9.webp",
+            "cap": "DLSS 5 3D 가이드 뉴럴 렌더링"
           },
           {
             "t": "p",
-            "x": "로블록스가 연례 개발자 콘퍼런스 RDC 2026에서 20주년을 맞았다. 지난 분기에만 180여 개국 플레이어가 로블록스에서 290억 시간을 보냈다."
+            "x": "NVIDIA가 DLSS 5에 3D 가이드 뉴럴 렌더링과 개발자용 세밀한 제어 기능을 넣었다. 그래픽 파이프라인 맨 끝에 붙는 뉴럴 렌더링 단계로, 게임 엔진이 그려 낸 프레임을 토대로 삼는다. 아티스트가 만든 지오메트리와 텍스처, 조명 버퍼는 건드리지 않고 그 위에 사실적인 조명과 재질 디테일을 더하는 방식이다."
+          },
+          {
+            "t": "video",
+            "yt": "58FagrSqC4M"
           },
           {
             "t": "p",
-            "x": "회사는 엔진과 인프라, 서비스를 묶은 자사 플랫폼을 사실상 게임용 클라우드 운영체제라고 부른다. 지금은 그 위에 AI 제작 레이어를 올리는 중이다. 도구 하나, 모델 하나가 아니라 복잡한 게임 제작에 맞춘 시스템 전체라는 게 로블록스의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "로블록스 앱의 새 탭 Build에서는 누구나 프롬프트로 게임을 만든다. 뉴질랜드 알파 출시 이후 크리에이터들이 Build로 낸 게임은 약 9,000개다. Build로 게임을 만든 수천 명 가운데 71%는 로블록스 Studio를 한 번도 써 본 적 없는 사람이었다. 공개 알파는 세르비아와 싱가포르로 넓어진다."
-          },
-          {
-            "t": "p",
-            "x": "올해 안에 나올 Scene Generator는 Build와 Studio 양쪽에 프롬프트 기반 장면 생성 기능을 붙인다. 텍스트 프롬프트와 참조 이미지를 넣으면 제대로 작동하는 레이아웃이 나오고, 크리에이터는 이를 Studio에서 다듬으면 된다. 세밀한 조정은 Studio 쪽이 더 폭넓다."
+            "x": "무엇을 남길지는 엔진 프레임이 정하고, 무엇을 바꿀지는 개발자가 정한다. 모델은 프레임 색상과 모션 벡터를 받아 장면 구조와 캐릭터의 정체성, 아트 의도를 그대로 두도록 설계됐다."
           },
           {
             "t": "img",
-            "src": "https://cms-media.roblox.com/assets/178c8249-f5db-4cd4-8fe4-e75c6b42726d.png"
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image9.webp",
+            "cap": "DLSS 5는 캐릭터 정체성, 장면·조명의 의미, 카메라 구도를 지키도록 학습됐다"
           },
           {
             "t": "p",
-            "x": "그 밖에 앱 설치 없이 브라우저에서 바로 하는 웹 플레이(올해 말 크롬부터), 2027년 중반 도입할 오프라인 플레이, 2D·퍼즐 게임용 엔진 기능, 수익을 영업일마다 지급하는 Roblox Wallet도 함께 공개했다."
+            "x": "실시간 3D 렌더링 전용이라 출력이 결정론적이고 프레임 사이에서도 안정적이다. 한 프레임을 받으면 한 프레임을 내보내는 구조에 엔진 모션 벡터를 더해, 플레이어가 움직여도 결과가 흔들리지 않는다. 모델이 작고 특화돼 있어 GeForce RTX 50 시리즈 GPU 한 장으로 최대 4K까지 로컬에서 돌아간다."
+          },
+          {
+            "t": "p",
+            "x": "제어 수단은 여럿이다. 개발자는 여러 모델 중 골라 장면·게임플레이·컷신마다 섞어 쓰고, Structure Intensity와 Tone Intensity로 고주파 디테일과 전체 조명·색 반응을 맞춘다. 시맨틱 AI 마스킹으로 장면 요소별로 효과를 넣거나 빼고, 엔진 레벨 마스크로는 유리 제품이나 물방울, 수풀 같은 에셋 묶음만 따로 떼어 낸다. 래스터 그래픽에서도 차이가 눈에 띄지만, 레이 트레이싱이나 패스 트레이싱 조명처럼 입력이 풍부할수록 결과는 훨씬 정확해진다."
+          },
+          {
+            "t": "img",
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-13.webp",
+            "cap": "모델 선택, Structure·Tone Intensity, 시맨틱 AI 마스킹, 엔진 레벨 마스킹이 담긴 DLSS 5 개발자 제어 패널"
+          },
+          {
+            "t": "p",
+            "x": "DLSS 5는 Visual Concepts가 만들고 2K가 퍼블리싱한 NBA 2K27에 이미 들어가 있고, 모든 GeForce RTX 50 시리즈 데스크톱·노트북 GPU에서 쓸 수 있다. Visual Concepts는 스캔한 얼굴 지오메트리는 그대로 둔 채 피부의 표면하 산란, 머리카락과 귀를 통과하는 빛, 접촉 그림자를 끌어올렸다. 선수 초상은 톤·스타일 제어와 픽셀 단위 업리프트 마스크로 다듬었다."
+          },
+          {
+            "t": "p",
+            "x": "같은 글에는 NVIDIA ACE 소식도 실렸다. 6억 파라미터 음성 인식 모델 Nemotron Speech 3.5 Streaming, 커스텀 파인튜닝을 지원하는 6억 파라미터 TTS 모델 Qwen3 TTS가 추가됐다. In-Game Inferencing SDK에는 RTX Spark 지원(개발자 프리뷰)과 Gemma4 통합, Stable Diffusion 플러그인, llama.cpp 성능 개선이 들어갔다. RTX Mega Geometry 2.0은 고밀도 메시의 연속 LOD 클러스터 스트리밍을 지원하고, 곧 Gears of War: E-Day에 적용된다."
           }
         ]
       }
     },
     {
-      "id": "games-sophiechat",
+      "id": "games-gemini-tts",
       "eyebrow": "AI NEWS",
-      "headline": "소피의 아틀리에 2 세계관에서\n대화로 즐기는 AI 자유 시나리오 RPG",
-      "body": "RyzaChat:AI에 이어 소피와 대화하며 모험과 연금술을 즐기는 게임이다.",
-      "mini_headline": "SophieChat:AI",
+      "headline": "Gemini 3.8 TTS,\n캐릭터 음성과 두 화자 대사 연출",
+      "body": "캐릭터 목소리를 새로 만들고 두 화자가 주고받는 장면 대사를 API로 연출한다.",
+      "mini_headline": "Gemini 캐릭터 음성",
       "tool": "Games",
-      "source": "AUTOMATON WEST",
-      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
-      "accent": "#0070f3",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+            "cap": "Gemini 3.8 Flash TTS와 3.8 Flash-Lite TTS 소개"
           },
           {
             "t": "p",
-            "x": "코에이 테크모가 도쿄게임쇼 2026에서 SophieChat:AI를 발표했다. SpiralAI와 거스트가 함께 만드는 AI 채팅 게임이다. 얼마 전 나온 아틀리에 라이자 테마의 채팅 게임 RyzaChat:AI를 잇는다."
+            "x": "구글이 Gemini 제품군에 텍스트 음성 변환(TTS) 모델 두 개를 새로 내놨다. Gemini 3.8 Flash TTS와 Gemini 3.8 Flash-Lite TTS다. 구글은 지금까지 만든 오디오 생성 모델 가운데 표현력이 가장 풍부하다고 소개한다. 정해진 프리셋 목소리를 고르던 방식을 일종의 창작 스튜디오로 바꾸겠다는 구상이다."
+          },
+          {
+            "t": "video",
+            "yt": "FL6mI_Br-mc"
           },
           {
             "t": "p",
-            "x": "SophieChat:AI는 『소피의 아틀리에 2』 세계를 무대로 한 AI 기반 자유 시나리오 RPG다. 플레이어는 에르데 비게를 모험하고 연금술을 하거나 전투에 뛰어든다. 주인공 소피 노이엔뮐러와 그냥 수다만 떨어도 된다. 형식은 RyzaChat:AI를 대체로 따르는 듯하다."
+            "x": "Flash TTS는 깊이 있는 연출과 캐릭터 설계를 겨냥했다. 자연어 프롬프트로 역할과 억양, 목소리 특성을 정하면 100개가 넘는 언어·방언에서 완전히 새로운 목소리가 나온다. 불을 뿜는 드래곤이든 지역 억양이 뚜렷한 내레이터든 가능하다. 게임과 오디오북, 팟캐스트, 인터랙티브 미디어가 주요 무대다. Flash-Lite TTS는 대량 더빙과 음성 에이전트처럼 비용 효율이 중요한 작업용이다."
           },
           {
             "t": "p",
-            "x": "라이브 발표에서는 소피 역 성우 아이사카 유카가 개발 빌드로 게임플레이 일부를 시연했다. 아이사카는 이번 작품의 음성 합성에 쓸 녹음도 맡았다. 『소피의 아틀리에』 메인 캐릭터 일러스트를 그린 NOCO도 코멘트를 보내 새 앱에서 소피의 표정과 의상을 담당했다고 밝혔다."
+            "x": "바로 가져다 쓸 목소리도 2,000개가 넘는다. 30초짜리 음성 샘플로 목소리를 복제할 수도 있지만, 먼저 목소리 주인의 음성 동의 녹음을 받아야 한다. 직접 만든 목소리는 저장해 두고 프로젝트 내내 같은 톤으로 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "대사는 한 줄씩 연출한다. 지문을 직접 쓰거나 전달 방식을 Gemini에 맡기면 된다. 대본 하나로 두 화자가 주고받는 장면을 짜고, 웃음이나 한숨, 맞장구 같은 비언어 표현도 넣을 수 있다. 몇 시간 이어지는 오디오에서도 음색이 크게 흔들리지 않는다."
           },
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-468477-sophie.jpg"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog-gemini-3.8-flash-tts__evals.width-1000.format-webp_hBIZaRI.webp",
+            "cap": "Hume AI 음성 품질 벤치마크 결과"
           },
           {
             "t": "p",
-            "x": "RyzaChat:AI를 처음 발표할 때 SpiralAI와 거스트는 몇 가지를 약속했다. AI로 만든 그래픽 에셋은 쓰지 않고, 원작 성우가 이 게임을 위해 따로 녹음한 음성으로 음성을 합성한다. 대사는 공식 게임 시나리오와 SpiralAI가 합법적으로 쓸 권리를 얻은 데이터로 학습한 자체 LLM이 만든다. 게임 수익은 일러스트레이터·성우와 나눠 AI를 책임 있게 쓰겠다고도 했다. 그래도 시리즈 팬들의 반응은 엇갈렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-468477-sophie1.jpg"
+            "x": "구글에 따르면 Flash TTS는 Hume AI의 Voice Design Benchmark에서 71.4점으로 종합 1위, 억양 모델링에서도 60.8점으로 1위를 했다. Hume AI Overall Quality Index에서는 Flash TTS와 Flash-Lite TTS가 1위와 2위를 나눠 가졌다. 생성된 오디오에는 모두 SynthID 워터마크가 들어간다."
           },
           {
             "t": "p",
-            "x": "SophieChat:AI는 iOS와 안드로이드로 나온다. 일본어판 사전 등록은 지금 받고 있다."
+            "x": "개발자는 오늘부터 Gemini API와 Google AI Studio에서 두 모델을 쓸 수 있다. AI Studio에는 목소리를 설계하고 두 화자용 대본 편집기에서 대사를 연출하는 오디오 플레이그라운드가 생겼다. 기업용 Gemini Enterprise API는 곧 열리고, 일반 사용자는 Gemini Notebook(Flash TTS)과 Google Vids(Flash-Lite TTS)에서 만난다."
           }
         ]
       }
     },
     {
-      "id": "games-japan-jobs",
+      "id": "games-ms-face-patent",
       "eyebrow": "AI NEWS",
-      "headline": "생성형 AI 영향 큰 일본 게임 직무는\n배경·소품 아티스트와 보조 프로그래머",
-      "body": "히라쿠 에이전트는 주니어가 맡던 기초 작업의 수요가 줄고 있다고 봤다.",
-      "mini_headline": "AI가 흔드는 게임 직무",
+      "headline": "표정과 목소리를 읽어 게임을 바꾸는\n마이크로소프트의 AI 특허",
+      "body": "AI가 퀘스트·NPC·대사를 만들고 표정과 말을 읽어 게임을 고치는 구상이다.",
+      "mini_headline": "표정 읽는 MS 특허",
       "tool": "Games",
-      "source": "AUTOMATON WEST",
-      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "헬다이버즈 2 인트로 속 깜짝 놀란 존 헬다이버 (이미지: Arrowhead)"
+          },
+          {
+            "t": "p",
+            "x": "마이크로소프트의 새 특허에는 플레이어 표정을 녹화해 AI에 보여 주고, 지금 하는 게임을 AI가 다시 설계하게 하는 방안이 담겼다. 얼굴만 노리는 게 아니다. 플레이어가 중얼거리는 말이나 내는 소리까지 쓰겠다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "특허 번호는 US 20260183672A1, 제목은 'Generative Narrative Game Experience With Player Feedback'이다. 디자이너가 AI에 프롬프트를 주면 AI가 목표와 사이드 퀘스트, NPC, 대사, 아이템 같은 서사 요소를 만든다. 플레이어가 게임에 들어온 뒤에도 행동과 반응을 분석해 새 콘텐츠를 계속 만든다. 다만 RPS는 마이크로소프트가 이미 만든 기술이 아니라, 만든다면 어떻게 돌아갈지를 적은 문서일 뿐이라고 거듭 못 박는다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/microsoft-patent-flow-chart.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "마이크로소프트 게임 설계 AI의 대략적인 작동 흐름 (이미지: Microsoft)"
+          },
+          {
+            "t": "p",
+            "x": "첫 번째 방식은 개발자 중심이다. 디자이너가 글과 이미지, 오디오 파일로 프롬프트를 넣으면 엔진이 캐릭터와 서사, 세계를 '큰 틀에서' 만든다. 디자이너는 결과물을 직접 고치거나 프롬프트를 더 넣어 다듬는다. 결과는 텍스트·이미지·그래프로 돌아오고, 게임 엔진에 넣을 코드를 주거나 Minecraft 같은 기존 게임을 API로 업데이트하는 방법도 나온다."
+          },
+          {
+            "t": "p",
+            "x": "두 번째는 플레이어가 설계 역할을 맡는 방식이다. QA 테스터나 베타 테스터, 얼리 액세스 플레이어의 플레이 데이터와 '참여 지표'를 모델에 넣어 디자이너가 쓸 콘텐츠를 뽑아낸다. 특허에는 실시간 사례도 있다. NPC가 플레이어의 질문과 게임 속 맥락을 받아 생성형 AI로 답하고, 제안한 사이드 퀘스트에 필요한 오브젝트나 장소 같은 새 에셋까지 만든다."
+          },
+          {
+            "t": "p",
+            "x": "가장 섬뜩한 대목은 '허가를 받아' 카메라와 마이크로 플레이어의 말과 표정에서 반응을 읽고, 온라인 라이브 스트림까지 모델에 넣겠다는 부분이다. 플레이어가 몰리는 구간은 늘리고 덜 몰입하는 콘텐츠는 잘라 내거나 비중을 낮춘다는 게 특허가 그리는 그림이다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/microsoft-patent-wizard-of-oz.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "특허에 실린 '오즈의 마법사' 게임 예시 (이미지: Microsoft)"
+          },
+          {
+            "t": "p",
+            "x": "정작 특허 속 예시는 소박하다. 오즈의 마법사 게임이라면 '마법사의 과제를 완수하라'라는 퀘스트를 제안하는 식이다. 오즈 땅을 돌며 여러 아이템을 모아 오는 과제다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "games-twitch-ai-stream-coach",
+      "eyebrow": "AI NEWS",
+      "headline": "Twitch, 방송마다 피드백 주는\nAI 스트림 코치 시험",
+      "body": "방송이 끝나면 AI가 잘한 점과 고칠 점을 짚어 주는 기능이다.",
+      "mini_headline": "Twitch AI 스트림 코치",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -112,137 +189,82 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg"
+            "src": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
+            "cap": "\"방송하시려는 것 같네요, 도와드릴까요?\" (이미지: Twitch / Microsoft)"
           },
           {
             "t": "p",
-            "x": "채용 에이전시 히라쿠 에이전트가 9월 16일 보고서를 냈다. AI 도입 이후 일본 게임업계가 원하는 기술과 직무가 어떻게 달라졌는지 살핀 내용이다. 국내 게임업계 채용 담당자 약 1,008명을 조사한 2026년 결과를 2024년의 비슷한 조사와 견줬다."
+            "x": "스트리밍 전문 기자 잭 버시(Zach Bussey)의 게시물에 따르면 Twitch가 AI 스트림 코치를 시험하고 있다. Twitch가 공식 확인한 기능은 아니고, 아직 일부 사용자만 쓰는 테스트 단계로 보인다. 크리에이터의 방송을 분석해 개인별로 개선점을 제안하는 도구다."
           },
           {
             "t": "p",
-            "x": "게임 회사가 채용에서 가장 중시하는 요소로는 '경력과 기술'(32.9%)이 1위였다. 'AI 같은 새 기술에 적응하고 배우려는 능력과 의지'(30.8%), '자사 게임에 대한 이해'(27.9%)가 뒤를 이었다."
+            "x": "버시는 X에 이렇게 썼다. \"Twitch가 AI 스트림 코치를 테스트 중이다. 방송이 끝날 때마다 잘한 점과 개선할 점을 개인 맞춤 피드백으로 준다. 커뮤니티와 더 잘 소통하는 법, Twitch 문화를 익히는 법, 수익화 도구 쓰는 법도 추천한다.\""
           },
           {
             "t": "p",
-            "x": "2024년 조사의 상위 세 항목은 '경력과 기술'(35.1%), '좋아하는 게임 장르'(26.3%), '커뮤니케이션 능력'(25.1%)이었다. 보고서는 AI를 대하는 태도와 역량이 기업에 훨씬 중요해졌다고 짚었다. 생성형 AI 사용 경험을 포함한 AI 역량이 요즘 채용에서 얼마나 중요하냐고 묻자 34.1%가 '매우 중요', 57.0%가 '어느 정도 중요'라고 답했다."
-          },
-          {
-            "t": "img",
-            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72696-header.jpg",
-            "cap": "이미지: 히라쿠 에이전트"
+            "x": "블로그에서는 코치가 줄 만한 피드백도 소개했다. Twitch 수익화 도구를 활용해 보라는 권유, 시청자와 더 잘 어울리는 요령 같은 것들이다. Kotaku는 그런 얘기라면 몇 년째 운영 중인 Twitch 크리에이터 캠프 블로그에 이미 다 있다고 꼬집는다. AI를 '물을 들이켜는 표절 기계'라고 부르며, 그런 기계 없이도 충분했다는 투다."
           },
           {
             "t": "p",
-            "x": "AI가 퍼지면서 채용이 줄어든 직무 1위는 '배경·소품 제작처럼 단순한 작업을 하는 아트·그래픽 직무'(44.6%)였다. '어시스턴트급 프로그래머'(37.2%), '테스트·디버깅 인력'(28.8%)이 그다음이다. 히라쿠 에이전트는 정해진 규칙대로 처리할 수 있어 AI 보조나 자동화로 넘어가는 일, 그러니까 젊거나 경험이 적은 크리에이터가 맡아 온 일의 수요가 줄고 있을 수 있다고 분석했다. 경력이 짧은 지원자는 '기초' 제작 업무를 넘어서는 전문성이나 부가가치를 보여 줘야 하고, 업계에 들어가기도 더 어려워질 수 있다."
+            "x": "버시는 Twitch가 직접 단 단서도 옮겼다. \"스트림 코치는 참고용이며 오류나 부정확한 내용이 있을 수 있다. 추천이 결과를 보장하지는 않는다.\" Kotaku는 그렇다면 이 기능이 왜 있느냐고 되묻는다. 사용자가 어떻게 느끼든 Twitch가 AI를 밀어붙이기로 했기 때문이라는 게 Kotaku의 해석이다."
           },
           {
             "t": "p",
-            "x": "반대로 AI를 잘 다루는 직무는 수요가 늘고 있다. 가장 많이 꼽힌 자리는 '생성형 AI 결과물을 고치고 방향을 잡는 고급 아트 디렉터'(45.9%)였다. 'AI를 개발 환경과 파이프라인에 통합하는 AI 엔지니어·테크니컬 아티스트'(44.1%), 'AI 도구로 결과물을 빠르게 만드는 크리에이터'(34.6%)가 뒤를 이었다."
+            "x": "Twitch는 올해 초 크리에이터 콘텐츠를 AI 학습에 쓰겠다고 발표했다. 기본값은 참여였고, 빠지는 옵션은 메뉴 몇 겹 아래에 묻어 뒀다. 커뮤니티 방송에서 화난 사용자들이 왜 옵트인이 아니냐고 묻자 마이크 민턴(Mike Minton) 최고제품책임자는 \"옵트인이었다면 아무도 참여하지 않았을 것\"이라고 답했다. Kotaku는 이 답이 속내를 드러냈다고 본다."
           },
           {
             "t": "p",
-            "x": "도쿄게임쇼 주최사 CESA가 최근 낸 2026년 게임산업 보고서에서는 일본 게임 개발자의 85% 이상이 생성형 AI를 쓴다고 나왔다. 지난해 51%에서 크게 뛴 수치다."
+            "x": "그때도 반발이 컸다. Kotaku는 버시의 게시물에 달린 초기 반응으로 보아 이번에도 다르지 않을 것이라고 내다본다. parky(@parkenharbor)는 \"로봇이. 내. 방송을. 어떻게. 하라고. 가르치기. 시작하면. 나. 폭발한다\"라고 적었다. 레이철 메이(Rachel Mae)의 반응은 이랬다. \"피드백 받는 법은 이미 알아, Twitch. 내 진짜 시청자들이랑 얘기하는 거야.\""
+          },
+          {
+            "t": "p",
+            "x": "Kotaku는 Twitch에 입장을 요청해 둔 상태다."
           }
         ]
       }
     },
     {
-      "id": "games-nexon-pareidolia",
+      "id": "games-ff14-fan-merch",
       "eyebrow": "AI NEWS",
-      "headline": "넥슨게임즈 Pareidolia,\n온디바이스 음성 AI로 캐릭터를 부른다",
-      "body": "모바일 발열과 성능에 맞춘 자체 음성인식 AI가 기기 안에서만 돌아간다.",
-      "mini_headline": "넥슨 온디바이스 음성 AI",
+      "headline": "파이널 판타지 14 팬 굿즈 규정,\n생성형 AI는 명시적으로 금지",
+      "body": "스퀘어 에닉스가 팬 굿즈 허용 폭은 넓히고 생성형 AI와 3D 프린팅은 막았다.",
+      "mini_headline": "FF14 팬 굿즈 AI 금지",
       "tool": "Games",
-      "source": "Seoul Economic Daily",
-      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
+      "source": "AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
       "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
-            "cap": "도쿄게임쇼 2026 넥슨게임즈 Pareidolia 부스"
-          },
-          {
-            "t": "p",
-            "x": "아시아 최대 게임 전시회 도쿄게임쇼 2026은 신작이 쏟아지는 가운데 AI가 게임 개발과 플레이 경험을 바꾸는 핵심 동력이 됐음을 보여 줬다."
-          },
-          {
-            "t": "p",
-            "x": "17일 현장에서 처음 공개된 넥슨게임즈의 서브컬처 신작 Pareidolia(파레이돌리아)는 캐릭터가 플레이어 목소리에 바로 반응하는 AI 음성 인식 기능을 선보였다. 개발을 맡은 넥슨게임즈 IO본부가 직접 만든 기술로, 별도 서버를 거치지 않고 기기에서 도는 온디바이스 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "플레이어는 화면 속 선택지를 누르는 대신 직접 말하거나 캐릭터(메이츠)의 이름을 불러 상호작용한다. 일방향 텍스트 선택지를 벗어나 실시간으로 마주 보고 대화하는 몰입감을 노렸다. 넥슨게임즈는 모바일 환경의 성능과 발열까지 따져 최적화했다."
-          },
-          {
-            "t": "p",
-            "x": "넥슨게임즈 관계자는 \"온디바이스 방식 특성상 기능 확장 범위에 대한 추가 검토가 필요하다\"며 \"현재는 캐릭터 호출과 기본 대화 위주로 시험 적용 중이며, 이번 TGS 시연 반응을 반영해 활용 영역을 넓혀갈 계획\"이라고 전했다."
-          },
-          {
-            "t": "p",
-            "x": "17~18일 비즈니스 데이에 마련된 AI 테크놀로지 파빌리온에는 어도비, 씽킹 AI, 스튜디오51, 질(ZEAL), 메시 AI 등 14개 기업이 실전 개발 툴을 들고 나왔다. 메시 AI의 김준혁 한국·일본 사업 담당은 '미래 느낌의 전파탑'을 요청하면 몇 초 만에 2D 이미지가 나오고 곧바로 3D 모델까지 완성된다며, 수작업으로 한 달가량 걸리던 공정이 3분이면 끝난다고 설명했다."
-          },
-          {
-            "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.6f90662ad1fd42f9b98e11860b9f790f_P1.jpg",
-            "cap": "메시 AI 김준혁 한국·일본 사업 담당"
-          },
-          {
-            "t": "p",
-            "x": "TGS 주최 측 CESA 조사에 따르면 일본 게임 개발자의 생성형 AI 활용률은 85.8%다. 미국·중국과의 AI 격차에 대한 위기감이 일본 업계의 AI 도입을 재촉하고 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "games-imagination-nsr",
-      "eyebrow": "AI NEWS",
-      "headline": "이매지네이션 NSR, 모바일 GPU에서\n540p를 1080p로 2.3ms에",
-      "body": "AI 연산을 GPU 안에서 처리하고 Unreal·Godot 지원도 준비한다.",
-      "mini_headline": "모바일 AI 업스케일러",
-      "tool": "Games",
-      "source": "Inven",
-      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
-      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
-            "cap": "©Imagination Technologies"
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
+            "cap": "파이널 판타지 14"
           },
           {
             "t": "p",
-            "x": "GPU 설계업체 이매지네이션 테크놀로지스가 AI 업스케일링 기술 '뉴럴 슈퍼 레졸루션(Neural Super Resolution, NSR)'을 공개했다."
+            "x": "스퀘어 에닉스가 파이널 판타지 14 공식 커뮤니티 사이트 The Lodestone에 공지를 올렸다. 팬이 FFXIV 콘텐츠를 어떻게 쓸 수 있는지 정한 '자료 이용 라이선스(Materials Usage License)'를 고쳤다는 내용이다."
           },
           {
             "t": "p",
-            "x": "NSR은 게임을 실제 표시 해상도보다 낮게 돌린 뒤 AI로 화면을 높은 해상도로 복원한다. 고해상도로 직접 그리는 것보다 GPU 부담은 덜고 화질은 그에 가깝게 맞추는 게 목표다. 엔비디아 DLSS나 인텔 XeSS와 비슷한 역할이다."
+            "x": "이제 팬은 일정 조건만 지키면 비상업적 실물 굿즈를 만들 수 있다. 전에는 허용되지 않던 일이다. 눈에 띄는 대목도 있다. 새 가이드라인은 AI로 생성한 2차 창작물이나 3D 프린팅으로 실물 굿즈를 만드는 것을 명시적으로 금지했다."
           },
           {
             "t": "p",
-            "x": "회사 측에 따르면 1GHz로 작동하는 단일 코어 E-Series GPU에서 540p 영상을 1080p로 바꾸는 데 걸리는 시간은 최저 2.3ms다. 처음부터 낮은 해상도로 그리니 GPU 작업량도, 메모리를 오가는 데이터도 준다. 이매지네이션은 높은 프레임레이트를 지키면서 메모리 대역폭 사용량을 최대 절반까지 줄일 수 있다고 설명했다."
+            "x": "FFXIV 저작물을 쓴 팬 굿즈는 개인이 직접 만들어야 한다. 단순한 저작권 표기 대신 새 정책으로 연결되는 링크(또는 QR 코드)를 굿즈에 넣어야 하는 등 새 제한도 붙었다. 남에게 줄 때는 무료여야 하고, IP 판매나 상업적 이용은 엄격히 막는다."
           },
           {
             "t": "p",
-            "x": "단순히 화면을 확대하는 방식은 아니다. NSR은 현재 화면에 앞서 그린 화면의 정보까지 더해 저해상도에서 사라진 디테일을 되살린다. 여기 드는 AI 연산도 E-Series GPU 안에서 처리하므로 AI 전용 장치를 따로 달 필요가 없다."
+            "x": "제작 의뢰에는 예외가 있다. 명함과 스티커다. 업체나 매장에 인쇄물 제작을 맡기는 건 금지지만 이 둘은 조건만 맞으면 된다. 명함에는 플레이어 캐릭터나 홈 월드(서버), 소셜 미디어 태그가 디자인 어딘가에 들어가야 한다. 스티커는 플레이어 본인 캐릭터가 담긴 일러스트나 스크린숏일 때만 인쇄할 수 있다."
           },
           {
             "t": "p",
-            "x": "개발자 지원도 이어진다. 이매지네이션은 자사 개발도구 PowerVR SDK에 NSR을 넣고 언리얼 엔진과 고도 엔진에서도 쓸 수 있게 할 예정이다. 고도 엔진 상용화를 돕는 W4 Games도 발표에 참여해, 하드웨어에 맞춘 업스케일링이 성능을 지키며 그래픽 품질을 높이는 데 도움이 될 것이라고 평가했다."
+            "x": "기존 공식 FFXIV 굿즈를 흉내 낸 제작물도 금지다. 새 정책은 이 점을 거듭 강조하며 \"공식 굿즈나 프로모션 아이템을 본떠 물건을 만드는 것\"을 예로 들었다."
           },
           {
             "t": "p",
-            "x": "E-Series는 이매지네이션이 개발 중인 차세대 GPU 설계로, 그래픽과 AI 연산을 GPU 하나가 함께 맡는다. 자체 측정에서는 이전 D-Series 동급보다 게임 성능이 최대 54%, 같은 전력 대비 성능은 최대 39% 높았다. 4코어 구성으로는 일부 PC용 AAA 게임을 60fps 이상으로 돌렸다고 한다. 다만 구체적인 게임과 해상도, 설정 같은 시험 조건은 밝히지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "여러 반도체 업체가 이미 E-Series 사용 계약을 맺었다. 이매지네이션은 E-Series를 쓴 첫 칩이 올해 안에 설계를 마치고 생산 단계에 들어갈 것으로 본다."
+            "x": "명함 예외는 팬 페스티벌 같은 오프라인 행사에서 캐릭터 카드나 커뮤니티 카드를 주고받는 팬들에게 특히 반가울 만하다. 다만 스퀘어 에닉스가 그래서 예외를 뒀다고 밝히지는 않았다."
           }
         ]
       }

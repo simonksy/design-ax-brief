@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.digitaltrends.com/phones/qualcomms-new-flagship-chips-go-big-on-5ghz-speeds-agentic-ai-and-of-course-gaming/",
-      "source": "Digital Trends",
-      "headline": "Qualcomm's new flagship chips go big on 5GHz speeds, agentic AI, and, of course, gaming",
+      "url": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
+      "title": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Official Snapdragon 8 Elite Gen 6 launch framed around on-device agentic AI -- the silicon behind next year's Android flagships; distinct from the earlier pre-launch NPU leak; chosen over CNET/XDA duplicates.",
-      "published_iso": "2026-09-22T20:00:00Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Qualcomm-Snapdragon-8-Elite-Extreme-Gen-6-Featured.jpg?resize=1200%2C630",
-      "excerpt": "Qualcomm's Snapdragon 8 Elite Gen 6 family reaches 5GHz and doubles down on agentic AI, while the new Extreme tier adds serious gaming and camera upgrades."
+      "rationale": "New audio chipset built for on-device AI hearables, including earbuds with cameras. It sets the hardware baseline for the next wave of AI wearables. Kept over the CNET 'headphones AI rebrand' piece, which covers the same announcement.",
+      "published_iso": "2026-09-23T18:30:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus..."
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "headline": "Rabbit's new AI agent doesn't need an R1 to run",
+      "url": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+      "title": "Meta is working on making Muse its smart glasses assistant",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Rabbit moves OS3 off its own hardware to a cross-platform agent -- a telling pivot for dedicated AI gadgets; Verge taken over the WIRED duplicate to keep WIRED free for Vonder.",
-      "published_iso": "2026-09-22T20:52:40Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Rabbit still isn't giving up on AI hardware, though."
+      "rationale": "Meta's autonomous Muse agent is coming to its smart glasses, bringing navigation and fitness features. This is a new hardware angle, separate from the Muse 0-day story published 09-23. Kept over the Verge Muse shopping hands-on.",
+      "published_iso": "2026-09-23T14:44:39Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Ray-Ban-Meta-glasses-Skyler-Shiny-Chalky-Gray-with-Transitions-Sapphire-lenses-scaled.jpg",
+      "excerpt": "Meta is working to bring Muse, its autonomous AI agent, to its smart glasses opening up features like navigation and fitness tracking."
     },
     {
-      "url": "https://9to5mac.com/2026/09/22/apple-has-reportedly-postponed-ai-pendant-product/",
-      "source": "9to5Mac",
-      "headline": "Apple has reportedly 'postponed' AI pendant product",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "Bloomberg-sourced report that Apple shelved its camera-equipped AI pin/pendant -- a signal on the AI-wearable category; 9to5Mac chosen over MacRumors (on-topic pin image, MacRumors already ran today's Apple rumor).",
-      "published_iso": "2026-09-22T19:01:44Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-pin-concept.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "A new Bloomberg report today from Mark Gurman says a forthcoming AI product—the rumored wearable pendant—has been put on hold."
-    },
-    {
-      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "source": "WIRED",
-      "headline": "Viture's Vonder Glasses Are Meant to Map Your Mind",
+      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
+      "source": "MacRumors",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New product: camera-free, display-free AI glasses built around private voice capture -- a fresh design answer to the smart-glasses privacy problem; WIRED over the Tom's Guide duplicate.",
-      "published_iso": "2026-09-22T13:00:00Z",
-      "og_image": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/191:100/w_1280,c_limit/VONDER_Oslo+Smoke+Ruby.png",
-      "excerpt": "No cameras? No problem. Viture's first display-free smart glasses have bone-conduction microphones to privately record your daily musings."
+      "rationale": "On macOS 27 the on-device AI model downloads automatically, can't be turned off, and can take over 30GB. Mac users should check their disk space now.",
+      "published_iso": "2026-09-23T10:30:15Z",
+      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+      "excerpt": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system."
     },
     {
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "source": "Ars Technica",
-      "headline": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+      "source": "9to5Mac",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Actionable security finding: a ClickFix-style attack can fully hijack Meta's top-charting Muse agent -- the single strongest of the three Muse angles (CNET Amazon block and WIRED privacy review dropped).",
-      "published_iso": "2026-09-21T22:24:38Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "excerpt": "A simple ClickFix attack is only one way to completely hijack the new agent."
+      "rationale": "A tool readers can use right away: the local Whisper app now does live meeting transcripts and better speaker recognition.",
+      "published_iso": "2026-09-23T21:17:11Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628",
+      "excerpt": "MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, and more."
+    },
+    {
+      "url": "https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/",
+      "title": "SwiftKey ‘AI voice’ is Pixel 11’s Rambler voice-to-text for other Android phones, works offline",
+      "source": "9to5Google",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Microsoft's SwiftKey beta brings Pixel 11 Rambler-style AI voice typing to any Android phone, running on an on-device model offline. A concrete look at on-device AI spreading beyond flagship exclusives.",
+      "published_iso": "2026-09-15T17:15:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-3.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Rambler in Gboard is perhaps one of the best Pixel 11 features, delivering powerful voice-to-text backed up by AI models...."
     }
   ]
 }

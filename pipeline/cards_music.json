@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "music",
   "cards": [
     {
-      "id": "music-snapchat-chat-to-song",
+      "id": "music-amorph",
       "eyebrow": "AI NEWS",
-      "headline": "스냅챗, 대화를 노래로 바꾸는\n'Chat to Song' 기능 공개",
-      "body": "스냅챗이 대화를 AI 노래로 바꿔 주는 기능을 유료 구독자에게 내놓았다.",
-      "mini_headline": "스냅챗 대화가 노래로",
+      "headline": "말로 설명하면 악기가 되는\n무료 플러그인 Amorph",
+      "body": "원하는 소리를 글로 적으면 DAW에서 바로 연주되는 DSP 코드가 나온다.",
+      "mini_headline": "말로 만드는 플러그인",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -18,97 +18,146 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-22T112534.130.png?fit=2000%2C1500&ssl=1"
+            "src": "https://www.synthtopia.com/wp-content/uploads/2026/09/amorph-1-0-beta-press-hero.png",
+            "cap": "Amorph 1.0 공개 베타 (이미지: Nils Hoesli, Artists in DSP)"
           },
           {
             "t": "p",
-            "x": "올해 초 틱톡에서 '텍스트 투 송' 열풍이 불었다. 사람들이 메시지 대화를 통째로 Suno에 넣어 노래를 만들었고, 그중 몇 곡은 입소문을 탔다."
+            "x": "Artists in DSP가 Amorph 1.0 공개 베타를 내놓았다. macOS와 Windows에서 쓰는 무료 VST3·AU 플러그인이다. 악기나 이펙트, MIDI 도구를 글로 설명하면 실제로 돌아가는 DSP 코드가 만들어지고, 컴파일까지 끝나 DAW 안에서 바로 연주된다."
           },
           {
             "t": "p",
-            "x": "유행이 화제가 되자 Suno의 아이폰 앱은 미국 애플 앱스토어 차트 1위까지 올랐다. Suno는 발 빠르게 메시지 스크린숏을 가사 프롬프트로 바꿔 주는 기능을 붙였다."
+            "x": "무료 패치도 40개 넘게 들어 있다. 팀과 커뮤니티가 Amorph로 만든 악기와 이펙트다. 소스가 모두 열려 있어 읽고 고쳐서 내 것으로 만들 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "WU7jB3Hq1kY"
           },
           {
             "t": "p",
-            "x": "Snap도 이 흐름을 지켜보고 있었던 게 분명하다. 스냅챗 앱에 비슷한 'Chat to Song' 기능을 막 내놓았다. 다만 지금은 유료 구독 Lens+ 가입자만 쓸 수 있다."
+            "x": "이번 빌드에서 바뀐 점도 여럿이다. 플러그인 안의 AI 어시스턴트는 사용자 본인의 API 키로 돌아가고 음성 입력을 받는다. Claude Code나 Cursor 같은 코딩 에이전트는 MCP로 붙는다. 불러온 패치는 휴대폰으로도 연주할 수 있다. 링크나 파일로 패치를 나눌 때는 원하면 소스를 잠가 둘 수 있다."
           },
           {
             "t": "p",
-            "x": "Snap은 블로그에서 새 기능을 이렇게 소개했다. \"채팅 메시지를 짧은 오리지널 곡으로 바꿔 보세요. 채팅에서 메시지를 길게 누르고 '노래 만들기'를 고른 뒤 장르를 선택하면, 대화를 음악에 실은 버전이 만들어집니다.\""
+            "x": "아무 AI 채팅에서 코드를 복사해 붙여 넣는 식으로 만들면 키도 계정도 필요 없다. 커뮤니티가 마을 모양으로 그려 낸 신스 Modular Town도 Amorph로 만들었다."
           },
           {
             "t": "p",
-            "x": "궁금한 점이 몇 가지 있다. 스냅챗이 직접 만든 AI 음악 모델일까, 파트너사 모델일까. 파트너라면 어디일까. 그 모델은 어떤 음악으로 학습했고, 상업 음원이었다면 라이선스는 받았을까."
-          },
-          {
-            "t": "p",
-            "x": "답을 기다리는 동안 확인된 사실도 있다. 생성된 노래는 친구에게 보낼 때 표시가 붙는다. Snap 블로그의 스크린숏에는 'AI Song' 라벨과 함께, 스냅챗이 생성형 AI 콘텐츠를 알릴 때 쓰는 반짝이 로고가 보인다."
+            "x": "Amorph는 지금 공개 베타로 무료 다운로드할 수 있다."
           }
         ]
       }
     },
     {
-      "id": "music-impc-pro2-update3",
+      "id": "music-elevenlabs-mcp",
       "eyebrow": "AI NEWS",
-      "headline": "아카이 iMPC Pro 2 3.0 업데이트,\nAUv3 플러그인과 스템 분리 지원",
-      "body": "3.0 업데이트부터 앱을 AUv3 플러그인으로 쓰고 AI로 스템도 나눈다.",
-      "mini_headline": "iMPC Pro 2 스템 분리",
+      "headline": "ElevenLabs MCP로\n대화창에서 음악까지 만든다",
+      "body": "쓰던 AI 어시스턴트 대화창에서 음성·음악·이미지·영상을 바로 만든다.",
+      "mini_headline": "대화창 속 음악 생성",
       "tool": "Music",
-      "source": "Synth Anatomy",
-      "url": "https://synthanatomy.com/2026/09/akai-impc-pro-2-ios-macos-update-3-0-brings-auv3-plugin-support-stem-separation-and-more.html",
-      "accent": "#0070f3",
+      "source": "ElevenLabs (YouTube)",
+      "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Akai-iMPC-Pro-2-update-3.0.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Retronyms가 iOS·macOS용 Akai iMPC Pro 2의 3.0 업데이트를 내놓았다. 앱을 AUv3 플러그인으로 띄울 수 있게 됐고, 스템 분리 기능도 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "iMPC Pro 2는 2017년에 나온 iPadOS·macOS용 비트메이킹 앱이다. MPC 작업 방식을 옮겨 와 샘플러와 가상 MPC 패드, 시퀀서를 갖췄다. 만든 곳은 Akai가 아니라 미국 개발사 Retronyms다. 2025~2026년에는 버그 수정 몇 번 말고는 큰 업데이트가 없었다."
-          },
-          {
-            "t": "p",
-            "x": "2.0부터는 앱 안에서 AUv3 플러그인을 불러올 수 있었다. 3.0은 거꾸로 앱 자체를 AUM, Cubasis 같은 호스트에서 AUv3 플러그인으로 쓰게 해 준다. 작업 환경이던 앱이 보통의 가상 악기처럼 쓰이는 것이다. 애플 실리콘 macOS에서는 Ableton Live 같은 DAW에서도 돌아간다지만, 지금은 macOS 버전이 충돌해 쓰기 어렵다."
-          },
-          {
-            "t": "img",
-            "src": "https://synthanatomy.com/wp-content/uploads/2026/09/Akai-iMPC-Pro-2-update-3.0-.jpg"
-          },
-          {
-            "t": "p",
-            "x": "또 하나의 핵심은 새 웨이브폼 편집기에 들어간 AI 스템 분리다. 곡을 보컬, 베이스, 드럼, 나머지 네 스템으로 나눈다. 아쉽게도 비싼 구독을 해야 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "애플 파일 앱과 연동돼 프로젝트와 믹스다운, 스템을 iOS가 지원하는 어느 위치로든 쉽게 주고받는다. 트리거 패드·턴테이블·웨이브폼 화면 사이의 드래그 앤 드롭, 더 유연한 박자 선택, 재생에 맞춰 흐르는 가사 메모도 추가됐다. 다만 3.0에도 새 버그가 있어 Retronyms가 손봐야 한다."
-          },
-          {
             "t": "video",
-            "yt": "oh-aou0iVQY"
+            "yt": "vGukGg7Q2_g"
           },
           {
             "t": "p",
-            "x": "3.0은 기존 사용자에게 무료다. 앱은 한시적으로 24.99달러에서 75% 내린 6.2달러, 아이폰 버전은 12.99달러에서 내린 3.29달러다. 스템 분리는 월 8.99유로 또는 연 79.99유로 구독으로 쓰며, 매달 크레딧 10개가 주어진다."
+            "x": "ElevenLabs MCP가 이제 창작물까지 만든다. 늘 쓰던 AI 어시스턴트 대화창을 떠나지 않고 음성, 음악, 이미지, 영상을 생성한다. Claude, ChatGPT, Cursor, Hermes에서 쓸 수 있다. OAuth로 한 번 설치하면 끝이라 따로 돌릴 서버도, 관리할 API 키도 없다."
+          },
+          {
+            "t": "p",
+            "x": "라이브러리의 목소리를 골라 내레이션을 부탁하면 Text to Speech가 대화 안에서 곧장 만들어 준다. 녹음 파일을 넘기면 Scribe가 깔끔한 전사본을 돌려주는데, 그대로 대본이나 자막, 더빙으로 이어 쓰면 된다. 다른 언어 더빙도 같은 커넥터에서 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "음악과 효과음 생성도 된다. 50개가 넘는 이미지·영상 모델로 이미지를 만들고 다듬은 뒤 영상으로 움직이게 하고 립싱크까지 입힌다. 전부 엮으면 브리프 하나로 대본, 내레이션, 배경 음악, 사운드 디자인, 영상이 갖춰진 결과물이 나온다."
+          },
+          {
+            "t": "p",
+            "x": "만든 것은 모두 ElevenCreative 워크스페이스에 쌓인다. Studio에서 열어 타임라인을 손보고 내레이션을 고치고 음악과 효과음을 얹어 내보내면 된다. ElevenLabs Agents를 움직이는 커넥터와 같은 것이라 한 번 설치로 둘 다 쓴다."
           }
         ]
       }
     },
     {
-      "id": "music-sanremo-ai-rules",
+      "id": "music-youtube-ask-music",
       "eyebrow": "AI NEWS",
-      "headline": "이탈리아 산레모 음악제,\n참가곡의 AI 사용 엄격히 제한",
-      "body": "산레모 음악제가 2027년 대회부터 참가곡의 AI 사용을 엄격히 제한한다.",
-      "mini_headline": "산레모, AI 사용 제한",
+      "headline": "유튜브 뮤직에\n말로 묻는 'Ask Music' 등장",
+      "body": "듣고 싶은 음악을 평소 말로 설명하면 찾아 주고 맞춤 팟캐스트 가이드도 붙는다.",
+      "mini_headline": "유튜브 뮤직, 말로 묻다",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/09/22/sanremo-music-festival-ai-rules/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
+            "cap": "유튜브 뮤직"
+          },
+          {
+            "t": "p",
+            "x": "유튜브가 유튜브 뮤직에 AI 기능을 더한다. 음악을 찾고 아티스트를 알아보는 일, 그냥 지나쳤을 팟캐스트를 발견하는 일을 쉽게 하겠다는 취지다."
+          },
+          {
+            "t": "p",
+            "x": "올해 Made On YouTube 행사에서 공개한 기능은 두 가지다. 음악과 팟캐스트를 대화로 찾는 'Ask Music', 새 프로그램 발견을 돕는 개인 맞춤 오디오 가이드 'Your Podcast Lineup'이다."
+          },
+          {
+            "t": "p",
+            "x": "Ask Music은 유튜브 뮤직 앱에 바로 들어간다. 곡이나 아티스트를 하나씩 검색할 필요 없이 듣고 싶은 음악을 평소 말로 설명하면 된다. 공식 음원과 리믹스, 라이브, 커버, DJ 세트까지 3억 곡이 넘는 카탈로그 전체에서 작동한다. 나만의 재생 대기열을 짜거나 아티스트가 곡을 쓴 동기를 알아보고, 음악사를 깊이 파고드는 데도 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/made-on-youtube-2026-ask-music.max-700x3000.format-webp.png",
+            "cap": "Ask Music 화면 (이미지: YouTube)"
+          },
+          {
+            "t": "p",
+            "x": "유튜브 설명대로라면 친구에게 묻듯 요청을 입력하면 그만이다. 어떤 곡에 영감을 준 트랙들로 믹스를 만들어 달라고 해도 되고, 그 곡에서 베이스를 친 사람이 누군지 같은 제작 뒷이야기를 물어도 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/youtubemusicpodcast_lineup.png",
+            "cap": "Your Podcast Lineup (이미지: YouTube)"
+          },
+          {
+            "t": "p",
+            "x": "Your Podcast Lineup은 AI가 만든 개인 맞춤 오디오 가이드다. 팟캐스트는 들을 시간보다 훨씬 많다. 좋아하는 프로그램이 정해져 있어도 새 에피소드를 따라가기 벅차고, 새 프로그램 찾기는 더 어렵다."
+          },
+          {
+            "t": "p",
+            "x": "이 가이드는 앱의 팟캐스트 페이지에 뜬다. 매주 추천 프로그램을 짧게 말로 소개하며 왜 마음에 들 만한지 설명하고, 곧바로 추천 에피소드로 넘어간다."
+          },
+          {
+            "t": "p",
+            "x": "Spotify도 최근 비슷한 방향의 AI 기능을 선보였다. 관심사와 프롬프트에 맞춰 AI가 팟캐스트 에피소드를 만들어 주는 개인 팟캐스트 기능이다. 이번 업데이트는 서비스 곳곳에 AI를 넣으려는 유튜브의 큰 흐름 안에 있다. 유튜브 뮤직은 지난해 듣는 곡에 얽힌 이야기와 팬 상식, 코멘트를 들려주는 AI 진행자를 시험했다."
+          },
+          {
+            "t": "p",
+            "x": "두 기능은 곧 전 세계 유튜브 뮤직·유튜브 프리미엄 구독자에게 제공된다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-pachet-jungle-era",
+      "eyebrow": "AI NEWS",
+      "headline": "프랑수아 파셰 \"AI 음악의\n정글 시대는 끝났다\"",
+      "body": "AI 음악 선구자 파셰는 이제 법을 따라야 한다며 '정글 시대'는 끝났다고 본다.",
+      "mini_headline": "파셰가 본 AI 음악",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/23/ai-music-guru-francois-pachet-its-no-longer-the-jungle-era/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -116,146 +165,83 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/Ariston.jpg",
-            "cap": "2026년 산레모 음악제 당시의 아리스톤 극장. 사진: Ferdinando Traversa"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-23T122049.867.png?fit=2000%2C1500&ssl=1",
+            "cap": "프랑수아 파셰 인터뷰 (이미지: Music Ally)"
           },
           {
             "t": "p",
-            "x": "이탈리아 산레모 음악제가 AI 사용에 엄격한 규칙을 내놨다. 주최 측은 참가곡에 기계가 개입했는지 \"가능한 모든 기술\"로 확인할 권리도 쥐었다."
+            "x": "2016년 소니 CSL 연구소 팀이 AI 음악 시스템 Flow Machines로 '비틀스 스타일' 곡 'Daddy's Car'를 내놓았다. 돌아보면 논란이 거의 없었다는 게 놀랍다. 음악사에서 가장 유명한 밴드의 카탈로그로 AI를 학습시킨다는 발상에 공개적으로 화내거나 걱정한 이가 없었다. Suno와 학습, 저작권을 두고 다투는 지금과는 딴판이다."
           },
           {
             "t": "p",
-            "x": "이 방침은 2027년 2월 16~20일에 열리는 대회의 새 규정집에 담겼다. 이탈리아음반산업연맹(FIMI)의 요청에서 나온 규정으로, AI 사용 자체를 금지하지는 않는다. 대신 참가곡은 \"인간 창의성의 표현이어야 한다\"고 못 박았다."
+            "x": "그 프로젝트를 이끈 프랑수아 파셰가 Music Ally 팟캐스트 'The Price of Music'에 나왔다. 당시 이야기와 요즘 AI 음악을 보는 시각, 스트리밍 서비스의 접근법을 두루 짚었다. 그는 소니 CSL 이후 7년 동안 Spotify 사내 AI 연구소를 이끌었다."
           },
           {
             "t": "p",
-            "x": "번역된 규정은 이렇다. \"따라서 AI 시스템이나 도구가 참가곡의 본질인 인간의 창작 기여를 대체·변경·왜곡한다면, 곡의 구상이나 작사·작곡, 프로덕션에 이를 쓸 수 없다.\""
+            "x": "파셰는 소니에도, 누구에게도 묻지 않았다고 했다. 사람들에게 돈을 주고 비틀스, 엘튼 존, 거슈윈 등의 곡을 음원이 아닌 악보로 다시 입력하게 했다. 유럽연합 집행위원회 연구비로 만든 이 데이터베이스가 'Daddy's Car'의 바탕이다. 저작권을 몰랐던 건 아니지만 이용하거나 훔칠 뜻은 없었고, AI로 흥미로운 걸 할 수 있다는 걸 보여 주려 했을 뿐이라고 한다. 소니 CSL 경영진은 불편해했다. 파셰는 이를 AI 학습에 쓰이는 저작권을 둘러싼 거대한 우려의 시작으로 본다."
           },
           {
             "t": "p",
-            "x": "어디까지를 '변경'으로 볼지는 주관이 끼어들 수밖에 없다. 한국음악저작권협회(KOMCA)가 AI 보조 저작물 등록 정책을 냈다가 거둬들인 일과 비슷하다. 그래서 참가자들은 보조 도구, 특히 생성형 모델을 아예 피할 공산이 크다. 주관 방송사 RAI와 2027년 예술감독 Stefano De Martino가 필요하다고 보면 언제든 AI 사용을 검증할 수 있어서다."
+            "x": "요즘 AI 음악 모델에 대해서는 가사가 \"아주 좋고\" 음악도 \"프로덕션 면에서 거의 흠이 없다\"고 평했다. 그래도 중요한 게 빠져 있다고 했다. \"좋은 작곡은 다음 음, 다음 코드로 넘어가는 샘플링만이 아니라 문제를 풀고 앞을 내다보는 일이다. 이 알고리즘들은 정의상 그걸 하지 않는다.\""
           },
           {
             "t": "p",
-            "x": "'퍼포먼스 나이트' 우승자는 5월 유로비전에 이탈리아 대표로 나간다. 기사는 AI를 전면 금지하지 않고 엄격한 선만 그은 이번 결정이 음악계에서 AI가 선 자리를 보여 준다고 봤다. 생성형 AI를 비판하는 창작자가 많은 한편 작품에 썼다고 밝히는 이도 있고, 대형 라이선스 계약과 거액의 침해 소송이 동시에 벌어지고 있다."
+            "x": "Spotify 초기는 거칠었다고 돌아봤다. AI로 음악을 생성해 보려다 문제가 생길 걸 알고 멈췄다는 것이다. 지금은 아티스트와 계약해 특정 곡의 AI 커버만 만드는 좁은 영역에 집중하는데, 그러면 모든 게 합법이 된다며 \"꽤 영리하다\"고 했다. \"이제 그들의 집착은 합법이 되는 것이다. 좋은 편으로 보이고 싶어 한다. 법에 맞춰야 한다. 10년 전 같은 정글 시대는 더는 아니다.\""
           },
           {
             "t": "p",
-            "x": "공연 쪽에도 사례가 있다. 전 플랫폼 합산 팔로어 약 300만 명의 'AI 쌍둥이' Neuro-sama와 Evil Neuro가 12월 19일 오후 The Vermont Hollywood 무대에 오른다. 행사 페이지 기준으로 이미 매진됐는데, 하루 남짓 만에 1,000장 넘게 팔린 셈이다."
+            "x": "'정글 시대'는 프랑스어 표현 '정글의 법칙'에서 온 말로, 영미권의 '와일드 웨스트'에 해당한다. 파셰는 이달 함부르크 Reeperbahn 콘퍼런스 'Music Frontiers' 세션에서 강연한 뒤 인터뷰에 응했다."
           }
         ]
       }
     },
     {
-      "id": "music-fake-songs-artist-pages",
+      "id": "music-llm-copyright-triage",
       "eyebrow": "AI NEWS",
-      "headline": "실제 아티스트 페이지에 끼어든\n가짜 AI 곡들, 유통 허점 악용",
-      "body": "사기꾼들이 유통 허점으로 실제 아티스트 페이지에 AI 곡을 올려 로열티를 챙긴다.",
-      "mini_headline": "아티스트 페이지 가짜 곡",
+      "headline": "LLM이 잡아낸 1,632개 영상\n진짜는 하나였다",
+      "body": "LLM은 다섯 중 넷을 헛짚었다. 믿을 만한 단서는 올린 사람뿐이었다.",
+      "mini_headline": "LLM 저작권 판별의 한계",
       "tool": "Music",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2261435/scammers-have-been-inserting-fake-songs-onto-real-artist-pages-on-spotify-and-other-platforms/",
-      "accent": "#7928ca",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/scammers-have-been-inserting-fake-songs-onto-real-artists-pages-on-spotify-and-other-platforms/intro-1789662935.jpg"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/player-popped-out.png",
+            "cap": "Videojam 플레이어 화면 (이미지: Videojam)"
           },
           {
             "t": "p",
-            "x": "스포티파이를 비롯한 스트리밍 플랫폼에서 실제 아티스트 페이지에 가짜 곡이 올라오고 있다. 404 Media 보도에 따르면 수법은 단순하다. 생성형 AI로 조잡한 곡을 찍어 낸 뒤 음원 유통의 허점을 이용해 기존 아티스트 카탈로그에 곧장 끼워 넣는다. 곡에서 나오는 수익도 원래 아티스트가 아닌 사기꾼에게 간다."
+            "x": "Videojam 창업자 앨런 모어가 쓴 글이다. Videojam은 영상을 직접 호스팅하지 않고 모든 뮤직비디오를 유튜브 임베드로만 보여 준다. 그래서 질문도 '침해 콘텐츠를 올려 두었나'가 아니라 '이 업로드를 골라 노출해도 되나'였다. 그는 일주일 동안 저작권 분류 체계를 처음부터 다시 짰다."
           },
           {
             "t": "p",
-            "x": "404 Media는 브루클린 밴드 Lathe of Heaven의 이름으로 직접 시험해 이 과정을 확인했다. Suno나 Udio로 곡을 만들고 앨범 커버도 생성형 AI로 뽑는다. 이어 DistroKid 같은 유통 서비스에 가입해 실제 밴드라고 거짓말만 하면 된다. 곡은 곧 스포티파이, 타이달, 애플 뮤직, 아마존 뮤직에 그 아티스트의 신곡으로 뜬다. 유통사도 플랫폼도 이를 걸러 내지 못한다."
+            "x": "첫 시도는 언어 모델이었다. 영상마다 제목, 설명, 업로더, 태그 같은 메타데이터를 주고 문제 있어 보이는지 판단하게 했다. 2,026개 중 1,632개가 걸렸다. 다섯 개 중 네 개꼴이다. 1,632건 가운데 1,602건(98.2%)은 거의 모든 뮤직비디오에 들어맞을 만큼 넓은 두 가지 이유를 댔다. 같은 2,026개를 새로 짠 탐지기로 돌리자 조치할 만한 건 하나뿐이었다."
           },
           {
             "t": "p",
-            "x": "피해는 소규모 아티스트와 세상을 떠난 아티스트에게 쏠린다. 유명 뮤지션에게는 이런 일을 살피는 팀이 있기 때문이다. 스포티파이도 404 Media에 \"적극적으로 관리되지 않는 프로필이 특히 취약할 수 있다\"고 인정했다. Lathe of Heaven의 보컬은 누군가 자기들 이름으로 형편없는 곡을 올려 평판을 망칠 수 있다는 사실이 몹시 허탈하다고 말했다."
+            "x": "모어는 모델이 추론을 못한 게 아니라 엉뚱한 대상을 두고 추론했다고 본다. NirvanaVEVO가 올린 'Smells Like Teen Spirit'과 구독자 400명짜리 채널이 올린 같은 곡은 제목만 보면 똑같다. 둘을 가르는 건 누가 올렸고 권리가 있느냐, 곧 출처다."
           },
           {
             "t": "p",
-            "x": "음악 그룹 Odette Child는 7월부터 이 문제를 추적해 Taylor Swift 같은 대형 가수부터 유명인, 작고한 재즈 뮤지션까지 사칭한 AI 생성 곡을 300곡 넘게 찾아냈다. 허점은 AI 이전에도 있었지만 지금은 규모가 다르다. 생성형 AI로 하루에 수백 곡을 만들어 올릴 수 있어서다."
+            "x": "영상 길이로 짠 규칙은 196개를 잡았지만 모두 정상 다큐멘터리였다. 권리자 이름을 맞춰 보는 방식은 Tomorrowland가 직접 올린 공식 세트까지 걸렀다. 제외 단어를 붙일 때마다 커버, 강좌, 리액션 영상에서 새 오탐이 튀어나왔다."
           },
           {
             "t": "p",
-            "x": "스포티파이는 뮤지션이 발매 전에 곡을 검토하는 도구를 만들고 있지만, 3월에 처음 발표된 뒤로도 제한 베타에 머물러 있다. 스포티파이에만 하루 약 5만 곡의 AI 생성 곡이 올라온다는 추산도 있다. 회사는 \"아티스트의 정체성 보호가 최우선\"이라며 유통사와 함께 잘못된 제출을 원천에서 막겠다고 밝혔다."
-          },
-          {
-            "t": "video",
-            "yt": "Rj_ZuSkbb40"
-          },
-          {
-            "t": "p",
-            "x": "플랫폼들이 손 놓고 있던 건 아니다. 스포티파이는 AI 생성 곡이 아님을 확인해 주는 인증 배지와, 대량 업로드·중복·SEO 꼼수 등을 걸러 내는 스팸 필터를 도입했다. 하지만 아직은 이런 조치가 제대로 먹히지 않는 모습이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-stem-separation-tools",
-      "eyebrow": "AI NEWS",
-      "headline": "오디오 전문가를 위한\n스템 분리 도구 6종 비교",
-      "body": "스템 분리 도구 여섯 개를 비교하며 클라우드에 올리지 않는 도구도 짚었다.",
-      "mini_headline": "스템 분리 도구 6종",
-      "tool": "Music",
-      "source": "Production Expert",
-      "url": "https://www.production-expert.com/production-expert-1/6-stem-separation-tools-compared-for-audio-pros-in-2026",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa9622881664e157863df5d/1789485608514/stemSepSept26-12.jpg?format=1500w"
-          },
-          {
-            "t": "p",
-            "x": "완성된 믹스를 다시 풀어내는 일은 몇 년 전만 해도 불가능해 보였다. 저작권 문제만 해결되면 쓸 데는 많다. 연주자는 파트를 분석하고, 뮤직 에디터는 곧바로 인스트루멘털 버전을 얻는다. 포스트 프로덕션에서는 영상에 깔 배경 음악 믹스를 만든다. Production Expert가 도구 여섯 가지를 골라 서로 무엇이 다른지 살폈다."
-          },
-          {
-            "t": "p",
-            "x": "처리 방식은 오프라인과 실시간으로 나뉜다. 오프라인은 오디오를 꼼꼼히 분석한 뒤 결과를 낸다. 로컬 앱도 있지만 일부 서비스는 서버에 파일을 올려야 한다. 품질은 더 나을 수 있어도 고객 데이터의 보안과 프라이버시를 내줘야 한다. 실시간 분리기는 덜 정밀할 때가 있지만, 제3자를 거치지 않고 바로 결과를 얻는다."
-          },
-          {
-            "t": "p",
-            "x": "첫 번째는 LALAL.AI의 실시간 스템 분리 플러그인이다. VST·AU 형식이고 보컬, 드럼, 피아노, 베이스, 어쿠스틱 기타, 일렉트릭 기타 여섯 소스를 고른다."
-          },
-          {
-            "t": "video",
-            "yt": "-9ExKCA2188"
-          },
-          {
-            "t": "p",
-            "x": "zplane의 PEEL STEMS 2는 AAX·VST3·AU용 실시간 플러그인이다. 드럼, 베이스, 보컬, 나머지 네 스템으로 나누고, 자연스러운 분리와 공격적인 분리 사이에서 강도를 조절한다. 특정 주파수 대역이나 스테레오 영역만 골라 처리할 수도 있다. SoliderSound의 Go-Splitter Pro는 애플 실리콘과 윈도에서 오프라인·온디바이스로 돈다. 세션 단위 일괄 처리, 원클릭 MIDI 변환, BPM·키 자동 감지를 갖췄고 체험 제한이나 클라우드 업로드가 없다. 무료 버전도 있다."
+            "x": "답은 업로더에 있었다. 유튜브 API로 후보 영상의 channelId를 채우자 33개가 2개로 줄었다. 빠진 31개는 공식 아티스트 채널, VEVO, Topic 채널, 페스티벌 공식 계정이었다. 출처 정보가 비어 있다는 이유만으로 걸려 있었다."
           },
           {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/76e01e54-9171-479c-856b-bdb0927d09ea/unlock.jpg"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1000/2026/09/home.png",
+            "cap": "Videojam 홈 화면 (이미지: Videojam)"
           },
           {
             "t": "p",
-            "x": "Waves는 2026년 7월 v17 업데이트로 StudioVerse Audio Effects 플러그인에 Mix Unlock을 넣었다. 스테레오 음원을 보컬, 드럼, 베이스, 악기로 실시간 분리하고, 요소마다 StudioVerse 프리셋 체인과 Waves 플러그인으로 따로 손본다. Creative Access 구독에 들어 있고 따로 살 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/c9842f07-b808-473a-9b8f-07e0abb96d09/remix1000.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Acon Digital의 Remix는 보컬, 베이스, 피아노, 드럼, 나머지 다섯 스트림을 내는 실시간 플러그인이다. 스템마다 감도를 조절하고 모든 컨트롤을 오토메이션할 수 있다. Pro Tools나 Reaper처럼 멀티 아웃풋을 지원하는 DAW에서는 스템을 다섯 개 aux 트랙으로 따로 보낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/9802655b-949b-4a5e-a614-f0e5f9a76118/mvsep.jpg"
-          },
-          {
-            "t": "p",
-            "x": "마지막 MVSEP는 올린 파일을 처리하는 오프라인 서비스다. 네다섯 개 스템에 그치지 않고 소리를 훨씬 잘게 풀어내며, 작업에 맞는 알고리즘을 고를 수 있다. 오디오-MIDI 변환, 복원, 음성 복제도 된다. 프리미엄 회원은 100개 넘는 알고리즘과 무제한 분리, API 접근까지 쓴다."
+            "x": "여기서 규칙 두 개가 나왔다. 예외는 바꿀 수 있는 이름이 아니라 channelId에 건다. 필드가 비었다는 이유로 탐지기가 울려서는 안 된다. 지금 쓰는 엔진에는 LLM이 없고 channelId 기반 우선순위로만 판단하며, 일주일에 한두 개 정도를 걸러 낸다. 모어의 결론은 음악 카탈로그의 저작권 분류가 콘텐츠 문제의 옷을 입은 출처 문제라는 것이다."
           }
         ]
       }

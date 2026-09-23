@@ -1,105 +1,61 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "design",
   "picks": [
     {
-      "rank": 1,
+      "url": "https://www.builder.io/blog/stop-watching-your-agent-work",
+      "source": "Builder.io",
       "tool": "Figma",
-      "category": "figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c",
-      "source": "UX Collective",
-      "published_iso": "2026-09-22T11:22:49Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*OwqfjliOk8pGWQG8b82VMw.png",
-      "excerpt": "Users forgive a slow answer; what breaks trust is an AI product that is fast one day and slow the next without explanation. A founder-engineer on designing latency and variance communication into AI interfaces.",
-      "rationale": "Names a concrete, under-designed AI UX problem (latency variance, not latency) and gives designers something to put in the interface tomorrow."
+      "rationale": "New free open-source tool (Agent-Native Plans) for reviewing an agent's plan and output. Design-to-code teams can use it the next day.",
+      "published_iso": "2026-09-23T18:00:00.000Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/79e17b2f7b58454985d77f262aef44f0?width=1200",
+      "excerpt": "Builder.io introduces Agent-Native Plans, a free open-source tool for reviewing what a coding agent plans to build and what it built, so teams agree on intent up front instead of watching tool calls."
     },
     {
-      "rank": 2,
-      "tool": "AI Workflow",
-      "category": "workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
-      "source": "Fast Company",
-      "published_iso": "2026-09-21T10:00:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608605-having-good-taste-will-not-save-designers-from-AI.jpg",
-      "excerpt": "'Taste is what AI can't replace' has become designers' go-to defense as execution gets easier; this piece argues taste alone won't protect designers' jobs from AI.",
-      "rationale": "Directly challenges the profession's default 'taste' defense against AI; a distinct argument from the 09-20 human-judgment panel piece. Fast Company needs a Playwright fetch."
-    },
-    {
-      "rank": 3,
+      "url": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
+      "source": "Engineering.com",
       "tool": "Text-to-CAD",
-      "category": "cad",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://www.engineering.com/autodesks-ai-push-is-actually-a-pull/",
-      "source": "Engineering.com",
-      "published_iso": "2026-09-22T18:22:12+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_jeffkinder-1024x576.png",
-      "excerpt": "Autodesk D&M execs Jeff Kinder and Sanjay Aggarwal on Fusion's AI features, a new agentic PLM experience and the next Autodesk Assistant — framed as customer pull rather than vendor push.",
-      "rationale": "Product-roadmap detail on Fusion AI, agentic PLM and the next Autodesk Assistant; separate from the 09-22 Creative Bloq card about Autodesk's M&E demo film."
+      "rationale": "The new angle is COMSOL Multiphysics 2027's MCP server, which lets AI agents drive simulation models. Frame the card on COMSOL MCP, not the SimScale/Onshape agent already covered 09-17.",
+      "published_iso": "2026-09-23T19:32:53+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_comsol-systemsuifsfem-scaled.png",
+      "excerpt": "COMSOL previewed Multiphysics 2027 with an MCP server so AI agents can drive simulation models, Onshape users can now run SimScale simulations via an AI agent, plus Autodesk corrections on neural CAD's status after AU 2026."
     },
     {
-      "rank": 4,
+      "url": "https://www.fastcompany.com/91609799/who-actually-owns-ai-transformation",
+      "source": "Fast Company",
+      "tool": "Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "West Monroe's chief people officer argues AI transformation is really owned by 'builders' close to the work who redesign their own workflows, and that orgs should measure outcomes, not AI usage counts. A practical frame for design leaders running AX.",
+      "published_iso": "2026-09-23T12:00:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/1-78.png",
+      "excerpt": "Argues AI transformation is owned less by the chief AI officer than by 'builders' close to the work who redesign their own workflows, and that orgs should measure how people rethink work with AI rather than usage counts."
+    },
+    {
+      "url": "https://dev.to/kr1sck/design-to-code-is-still-a-handoff-what-if-there-was-no-handoff-3ep9",
+      "source": "DEV Community",
       "tool": "Design Tokens",
-      "category": "tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://dev.to/alonsarias/choose-by-eye-leave-with-a-prompt-an-unofficial-impeccable-design-browser-163k",
-      "source": "DEV Community",
-      "published_iso": "2026-09-21T09:01:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbz3ij13t3dij97veos86.png",
-      "excerpt": "An unofficial visual browser for the Impeccable design skill: pick a design direction by eye and leave with a ready-made prompt to steer AI coding agents' frontend output.",
-      "rationale": "A tool designers can use right away: pick a visual direction by eye and get a prompt that steers an AI coding agent's frontend output."
+      "rationale": "Covers a design-system pain point: AI-generated React still has to be remapped to existing components and tokens. Proposes generating directly inside the UI kit instead.",
+      "published_iso": "2026-09-23T12:44:19Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmzy7kjakt2vd5qal5hgl.png",
+      "excerpt": "AI builds screens fast, but exported React still has to be remapped to the existing design system's components and tokens; the post proposes generating directly inside the UI kit so there is no handoff."
     },
     {
-      "rank": 5,
+      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70",
+      "source": "UX Collective",
       "tool": "Figma",
-      "category": "figma",
       "accent": "#3b6bff",
       "motif": "frame",
-      "url": "https://dev.to/aloow/two-images-two-jobs-designing-inputs-for-ai-product-photos-768",
-      "source": "DEV Community",
-      "published_iso": "2026-09-22T10:33:11Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fejoj9ovqcvq4jt0q86yq.png",
-      "excerpt": "How to design inputs for AI product-photo editing: separating the product image from the style reference so the model keeps the product intact while adopting the ad's look.",
-      "rationale": "A concrete input-design pattern (keep the product image and the style reference apart) for anyone making or designing AI product-photo tools."
+      "rationale": "Uses Figma hiring data (56% of hiring managers want more seniors vs 25% hiring juniors) to argue design leaders must grow junior judgment now that AI does starter work. A practice and career insight.",
+      "published_iso": "2026-09-22T21:27:21+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*USREMn6GsWPB5N5aBd-UVw.png",
+      "excerpt": "Citing Figma data that 56% of hiring managers want more senior designers vs 25% hiring juniors, Patrick Neeman argues AI tools have absorbed starter work and design leaders must deliberately grow junior judgment."
     }
-  ],
-  "dedup": {
-    "checked_against": "sections.design today (2026-09-22) + days 2026-09-15, 09-17, 09-18, 09-19, 09-20 — 30 published cards",
-    "dropped": [
-      {
-        "url": "https://www.builder.io/blog/the-internet-is-not-ready-for-the-agentic-wave",
-        "reason": "core topic (WebMCP / agentic web plumbing) already covered 2026-09-19 via Vercel 'webmcp-mcp-handler'; consistent with the 09-22 curator drop"
-      },
-      {
-        "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/",
-        "reason": "recurring CG Channel weekly roundup, not a distinct story; also no og_image"
-      },
-      {
-        "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469",
-        "reason": "UX Collective weekly roundup, overlaps the 'AI dissolves the deliverable' thesis already run 2026-09-15 (double diamond); dropped on 09-22 too"
-      },
-      {
-        "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
-        "reason": "within-pool duplicate cluster (Claude Opus 5.5 / GPT-6 launch x3: Verge, Engadget, Vercel), and none of the three has a real design-workflow angle, so all are dropped as generic model-launch news"
-      }
-    ],
-    "skipped_as_noise": [
-      "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "https://vercel.com/changelog/claude-opus-5-5-now-available-on-ai-gateway",
-      "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "https://www.builder.io/blog/what-is-jev",
-      "https://www.youtube.com/watch?v=F3YXg7AaKWE",
-      "https://www.youtube.com/watch?v=-XWSJM-Ue-o",
-      "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
-    ],
-    "diversity_guard": "4 distinct outlets (UX Collective, Fast Company, Engineering.com, DEV Community x2); categories figma x2, workflow, cad, tokens; the second figma pick gets palette accent #3b6bff, so no accent repeats"
-  }
+  ]
 }
