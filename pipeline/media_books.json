@@ -1,31 +1,7 @@
-{
-  "date": "2026-09-23",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-apollo-papyrus",
-      "type": "image",
-      "src": "pipeline/media/books-apollo-papyrus.jpg"
-    },
-    {
-      "id": "books-oup-ai-disclosure",
-      "type": "image",
-      "src": "pipeline/media/books-oup-ai-disclosure.png"
-    },
-    {
-      "id": "books-multilingual-researchers-ai",
-      "type": "image",
-      "src": "pipeline/media/books-multilingual-researchers-ai.jpg"
-    },
-    {
-      "id": "books-guardian-ai-reading-list",
-      "type": "image",
-      "src": "pipeline/media/books-guardian-ai-reading-list.jpg"
-    },
-    {
-      "id": "books-clarivate-pulse-library",
-      "type": "image",
-      "src": "pipeline/media/books-clarivate-pulse-library.png"
-    }
-  ]
-}
+{"date":"2026-09-24","section":"books","media":[
+{"id":"books-orelien-ai-novel","type":"image","src":"pipeline/media/books-orelien-ai-novel.jpg"},
+{"id":"books-novvel-graphic-novel","type":"image","src":"pipeline/media/books-novvel-graphic-novel.png"},
+{"id":"books-ai-ssalmeok-webnovel","type":"image","src":"pipeline/media/books-ai-ssalmeok-webnovel.jpg"},
+{"id":"books-scrolled-textbook-feed","type":"image","src":"pipeline/media/books-scrolled-textbook-feed.png"},
+{"id":"books-dignum-misconduct","type":"image","src":"pipeline/media/books-dignum-misconduct.png"}
+]}

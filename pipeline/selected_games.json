@@ -1,87 +1,103 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "games",
   "picks": [
     {
-      "headline": "로블록스가 프롬프트와 참조 이미지로 플레이 가능한 레이아웃을 뽑는 Scene Generator를 예고했다",
-      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
-      "source": "Roblox",
+      "headline": "NVIDIA, 아티스트 의도를 지키는 세밀한 제어를 붙인 DLSS 5 3D 가이드 뉴럴 렌더링과 ACE·RTX Kit 업데이트 공개",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+      "source": "NVIDIA Technical Blog",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png",
-      "excerpt": "At RDC 2026, Roblox said it is building an AI creation layer on its platform. Its upcoming Scene Generator will take a text prompt plus a reference image and return a playable layout that creators can refine in Studio, and it will work in both the mobile Build app and Studio.",
-      "rationale": "플랫폼 본사가 직접 발표한 제작 도구다. 텍스트와 참조 이미지를 넣으면 Studio에서 다듬을 수 있는 플레이 가능한 레이아웃이 나오니, 크리에이터의 블록아웃 단계가 바로 바뀐다. 이번 풀에서 가장 실용적인 소식이다."
+      "published_iso": "2026-09-22T13:00:00Z",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9.webp",
+      "excerpt": "NVIDIA details DLSS 5's 3D-Guided Neural Rendering with granular controls meant to preserve artistic intent, alongside NVIDIA ACE updates for AI-driven game characters and new RTX Kit capabilities for developers.",
+      "rationale": "1차 출처인 개발자 블로그다. 3D 가이드 방식과 아트 의도 보존 제어, ACE, RTX Kit를 한 글에서 함께 다뤄 개발자가 바로 적용할 거리가 가장 많다. 같은 발표를 다룬 Wccftech RTX Kit 기사는 이 카드로 대신한다."
     },
     {
-      "headline": "코에이 테크모·거스트, 아틀리에 소피 세계관의 LLM 자유 시나리오 RPG SophieChat:AI 발표",
-      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
-      "source": "AUTOMATON WEST",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "published_iso": "2026-09-18T05:41:19Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp",
-      "excerpt": "At TGS 2026, Koei Tecmo, Gust and SpiralAI announced SophieChat:AI, an LLM-driven free-scenario RPG set in the world of Atelier Sophie 2. It follows RyzaChat:AI, which has logged more than 15 million spoken interactions and generates quests from conversation. (Off-list outlet: no on-list outlet covered it.)",
-      "rationale": "메이저 IP 보유사가 LLM 대화로 퀘스트를 만드는 방식을 후속작까지 넓혔다. 근거는 전작 RyzaChat:AI의 발화 1500만 건이다. AI를 제작 보조가 아닌 게임플레이 핵심에 넣은 드문 상용 사례다."
-    },
-    {
-      "headline": "일본 게임업계에서 생성형 AI 영향이 가장 큰 직무는 배경·소품 아티스트와 보조 프로그래머",
-      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
-      "source": "AUTOMATON WEST",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "published_iso": "2026-09-17T09:53:08Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
-      "excerpt": "Recruiter Hiraku Agent names background and prop artists and assistant programmers as the Japanese game jobs most affected by generative AI. It suggests demand is falling for the 'basic' tasks that junior creators have traditionally handled. (Off-list outlet. This is a separate source from the already-published CESA survey.)",
-      "rationale": "채용 에이전시가 수요가 줄고 있는 직무를 구체적으로 짚었다. 주니어 아티스트와 프로그래머는 커리어와 스킬 계획을 다시 세워야 할 신호다. 이미 발행한 CESA 사용률 조사(09-18)와는 출처도 사안도 다르다."
-    },
-    {
-      "headline": "넥슨게임즈 신작 Pareidolia, 기기 안에서 도는 자체 음성인식 AI로 캐릭터를 목소리로 부른다",
-      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
-      "source": "Seoul Economic Daily",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "published_iso": "2026-09-19T00:00:05Z",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
-      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
-      "rationale": "모바일 발열과 성능 제약에 맞춰 튜닝한 온디바이스 음성 AI를 실제 게임플레이 입력으로 쓴 구체 사례다. 서버 비용 없이 음성 인터랙션을 넣으려는 개발자에게 참고가 된다. 이미 발행한 GI.biz TGS 칼럼(09-22)은 행사 전반과 레벨 파이브 논란을 다뤘고 Pareidolia는 다루지 않아, 넥슨 음성 AI를 중심에 두면 별개 사안이다."
-    },
-    {
-      "headline": "이매지네이션, 모바일 GPU 안에서 540p를 1080p로 2.3ms에 올리는 AI 업스케일러 NSR 공개",
-      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
-      "source": "Inven",
+      "headline": "구글 Gemini 3.8 Flash TTS, 커스텀 캐릭터 음성과 다화자 장면 대사 연출을 API로 제공",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "source": "Google DeepMind",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-09-21T07:38:06Z",
-      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
-      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
-      "rationale": "모바일 GPU용 신경망 업스케일러가 새로 나왔고, PowerVR SDK·Unreal·Godot 지원 계획까지 밝혔다. 모바일 타이틀의 렌더 해상도 예산을 다시 짤 여지가 생긴다. 이미 발행한 DLSS 5 카드(PC·데스크톱 GPU)와는 플랫폼과 벤더가 다르다."
-    }
-  ],
-  "shortfall_note": "5장 모두 채웠다. 1차 풀에서 고른 3건(Roblox, SophieChat:AI, 일본 직무 영향)을 그대로 두고, 리커버리 풀에서 Seoul Economic Daily(넥슨 Pareidolia 음성 AI)와 Inven(Imagination NSR)을 더했다.",
-  "diversity_check": "최종 5장, 아웃렛 4곳: Roblox 1, AUTOMATON WEST 2, Seoul Economic Daily 1, Inven 1. 아웃렛당 최대 2건, 3곳 이상 조건을 모두 지켰다. 주제는 제작 툴 / 게임플레이 LLM / 인력 시장 / 온디바이스 음성 입력 / 모바일 렌더링으로 겹치지 않는다. 섹션 카테고리가 games 하나뿐이라 accent는 palette에서 카드마다 다르게 배정했다(#7928ca, #0070f3, #f5a623, #eb367f, #2ec5c5).",
-  "dropped": [
-    {
-      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
-      "reason": "중복은 아니고 약한 순위로 빠졌다. 이미 출시된 PSSR을 한 타이틀에 적용했다는 확인에 그친다. 같은 AI 업스케일 축에서는 새 도구인 NSR이 더 새롭고 실제로 쓸 거리가 많다. Wccftech는 최근 며칠 DLSS 5 카드를 여러 건 냈다."
+      "published_iso": "2026-09-23T15:25:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+      "excerpt": "Google launched Gemini 3.8 Flash TTS and Flash-Lite TTS, its most expressive audio models, which can generate custom character voices and direct multi-speaker scene dialogue via AI Studio and the Gemini API.",
+      "rationale": "새로 나온 모델이고 AI Studio와 Gemini API로 곧바로 쓸 수 있다. 캐릭터 음성 설계와 여러 화자가 나오는 장면 대사 연출을 지원해, 게임 대사 프로토타이핑과 임시 보이스 작업에 바로 쓸 수 있다."
     },
     {
+      "headline": "마이크로소프트 특허, 플레이어 표정과 음성을 읽어 퀘스트·NPC·대사를 실시간으로 다시 생성하는 AI 게임 설계 구상",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
+      "source": "Rock Paper Shotgun",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "published_iso": "2026-09-23T12:17:21Z",
+      "og_image": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A new Microsoft patent describes designers prompting an AI with text, images and audio to generate a game's objectives, sidequests, NPCs, dialogue and items, then regenerating content live from players' facial expressions and speech.",
+      "rationale": "플랫폼 대기업이 생성형 AI 기반 게임 설계 파이프라인을 어떻게 구상하는지 보여 주는 새 특허다. 09-22에 발행한 RPS 광고 타이밍 특허와는 다른 특허이고 주제도 다르다."
+    },
+    {
+      "headline": "Twitch, 방송이 끝날 때마다 잘한 점과 고칠 점을 알려 주는 AI 스트림 코치를 일부 사용자에게 시험 중",
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
+      "source": "Kotaku",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "published_iso": "2026-09-11T20:45:43Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
+      "excerpt": "Twitch is testing an AI-powered stream coach that suggests how creators can improve their channels, alongside an AI content-training opt-out.",
+      "rationale": "AI가 방송을 분석해 크리에이터에게 코칭하는 도구로, 플랫폼이 창작 피드백을 AI에 맡기는 흐름과 그 반발을 함께 보여 준다. 08-14 학습 옵트아웃 건, 08-31 집단소송 건과는 다른 새 기능 소식이다."
+    },
+    {
+      "headline": "파이널 판타지 14, 팬 굿즈 허용 범위는 넓히고 생성형 AI 사용은 명시적으로 금지",
       "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
-      "reason": "중복은 아니다. AUTOMATON WEST가 이미 2건이라 아웃렛 가드에 걸렸고, 팬 굿즈 라이선스 조항이라 제작 현장에 미치는 영향도 가장 작다."
+      "source": "AUTOMATON WEST",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "published_iso": "2026-09-18T10:41:12Z",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
+      "excerpt": "Square Enix updated FFXIV's Materials Usage License to allow more physical fan-made goods, while explicitly banning generative AI and 3D printing in fan merch.",
+      "rationale": "메이저 IP 보유사가 2차 창작 라이선스에 생성형 AI 금지를 명문화한 정책 사례로, 팬 아티스트와 UGC 정책 담당자가 참고할 만하다. 어제는 아웃렛 가드에 걸려 빠졌지만 아직 발행된 적은 없다."
+    }
+  ],
+  "shortfall_note": "5장을 모두 채웠다. 신선한 후보 13건 가운데 DLSS 5 관련은 1건만 남기고, 후속 기사·저품질 후보를 걸러낸 뒤 남은 상위 5건이다.",
+  "diversity_check": "아웃렛 5곳에서 1건씩 골랐다(NVIDIA Technical Blog, Google DeepMind, Rock Paper Shotgun, GamesRadar+, AUTOMATON WEST). 주제도 렌더링 툴, 음성 모델, 설계 특허, 스토어 모방작, IP 라이선스 정책으로 겹치지 않는다. 섹션 카테고리가 games 하나뿐이라 accent는 palette에서 카드마다 다르게 배정했다(#7928ca, #2ec5c5, #0070f3, #f5a623, #eb367f).",
+  "dropped": [
+    {
+      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
+      "reason": "NVIDIA 블로그 선택 카드와 같은 발표(RTX Kit)다. 풀 안 중복이라 1차 출처를 남겼다."
+    },
+    {
+      "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/",
+      "reason": "DLSS 5 관련은 1건만 고른다는 지시에 따라 뺐다. DLSS 5 우회·이식 모드 카드도 이미 여러 건 나갔다(09-05 RX 9070, 09-06 RTX 20/30, 09-09 세컨드 카드, 09-20 Intel Arc)."
+    },
+    {
+      "url": "https://automaton-media.com/en/news/level-5-says-some-suspected-ai-oddities-from-trailers-were-actually-human-errors-apologizes-for-fueling-doubt-with-careless-use-of-ai-in-some-of-its-videos/",
+      "reason": "09-13에 발행한 레벨 파이브 AI 논란(IGN)의 후속 보도라 내용상 중복이다."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "reason": "09-13에 발행한 Unity Claude Code 플러그인(unity.com 블로그)의 사용법 영상이라 거의 중복이다."
     },
     {
       "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "reason": "중복은 아니다. AI 축이 약해 뺐다. 게임 제작이 아니라 스트리밍 크리에이터용 도구다."
+      "reason": "게임 제작과 거리가 먼 스트리밍 도구라 AI 축이 약하다. 게시일(09-11)도 오래됐고, Twitch AI 옵트아웃 건은 08-14에 이미 다뤘다."
     },
     {
-      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
-      "reason": "중복은 아니다. AI 축이 약해 뺐다. AI 연관은 Nexus의 'AI-assisted' 라벨 하나뿐인 인물·드라마 기사다."
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
+      "reason": "생성형 AI가 아닌 전통적인 게임 AI(적 난이도)라 우선순위가 낮다."
+    },
+    {
+      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
+      "reason": "AI 반대 마케팅 문구를 내건 게임 소개일 뿐이다. 실무에 쓸 내용이 적다."
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "reason": "디지털 트윈과 시뮬레이션용이라 게임 연관성이 낮고 게시일(09-16)도 오래됐다. 이미 NVIDIA 카드가 하나 있어 아웃렛도 분산시켰다."
     }
   ],
-  "dedup_check": "news_data.json sections.games의 today(2026-09-22)와 days(09-15, 09-17, 09-18, 09-19, 09-20)를 대조했다. 후보 9건 모두 URL이 겹치지 않는다. 내용으로 봐도 Pareidolia/넥슨 음성 AI, Imagination NSR, FF7 PSSR을 다룬 카드는 없다. Sedaily 기사가 AI 기술 파빌리온을 언급하는 부분은 GI.biz TGS 칼럼과 일부 겹친다. 그래서 카드의 초점을 넥슨 온디바이스 음성 AI에 두도록 헤드라인을 잡았다. NSR은 기존 DLSS 5 카드들과 벤더도 플랫폼도 다르다."
+  "dedup_check": "published_urls.json의 games 항목과 대조했다. 선택한 5건 모두 URL이 겹치지 않는다. 내용 대조 결과: NVIDIA 3D 가이드 뉴럴 렌더링·ACE·RTX Kit 발표는 기존 DLSS 5 카드(07-22·07-30 제어 슬라이더, 출시·성능·모드 건)와 별개의 새 SDK·기능 발표다. RPS 얼굴 인식 생성 특허는 09-22 광고 타이밍 ML 특허와 다른 특허다. GamesRadar의 Needle In A Haystack 모방작 건은 09-22 IGN 감자 깎기 게임 표절 건, 07-19 Kotaku AI 클론 일반론과 사건이 다르다. FF14 라이선스와 Gemini 3.8 TTS는 앞선 카드가 없다. 교차 섹션도 확인했다. Gemini TTS URL은 music과 science 후보 풀에 없다."
 }

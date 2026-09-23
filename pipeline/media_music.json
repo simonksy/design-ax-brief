@@ -1,34 +1,7 @@
-{
-  "date": "2026-09-23",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-snapchat-chat-to-song",
-      "type": "image",
-      "src": "pipeline/media/music-snapchat-chat-to-song.png"
-    },
-    {
-      "id": "music-impc-pro2-update3",
-      "type": "video",
-      "src": "pipeline/media/music-impc-pro2-update3.mp4",
-      "poster": "pipeline/media/music-impc-pro2-update3.jpg"
-    },
-    {
-      "id": "music-sanremo-ai-rules",
-      "type": "image",
-      "src": "pipeline/media/music-sanremo-ai-rules.jpg"
-    },
-    {
-      "id": "music-fake-songs-artist-pages",
-      "type": "video",
-      "src": "pipeline/media/music-fake-songs-artist-pages.mp4",
-      "poster": "pipeline/media/music-fake-songs-artist-pages.jpg"
-    },
-    {
-      "id": "music-stem-separation-tools",
-      "type": "video",
-      "src": "pipeline/media/music-stem-separation-tools.mp4",
-      "poster": "pipeline/media/music-stem-separation-tools.jpg"
-    }
-  ]
-}
+{"date":"2026-09-24","section":"music","media":[
+{"id":"music-amorph","type":"video","src":"pipeline/media/music-amorph.mp4","poster":"pipeline/media/music-amorph.jpg"},
+{"id":"music-elevenlabs-mcp","type":"video","src":"pipeline/media/music-elevenlabs-mcp.mp4","poster":"pipeline/media/music-elevenlabs-mcp.jpg"},
+{"id":"music-youtube-ask-music","type":"image","src":"pipeline/media/music-youtube-ask-music.png"},
+{"id":"music-pachet-jungle-era","type":"image","src":"pipeline/media/music-pachet-jungle-era.jpg"},
+{"id":"music-llm-copyright-triage","type":"image","src":"pipeline/media/music-llm-copyright-triage.jpg"}
+]}

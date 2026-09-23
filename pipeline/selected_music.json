@@ -1,122 +1,66 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "music",
-  "generated_by": "ax-curator",
-  "selection_mode": "curator-auto (user deferred)",
   "picks": [
     {
-      "rank": 1,
-      "category": "music",
+      "url": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
+      "source": "Synthtopia",
+      "title": "Free Tool, Amorph, Builds Custom Plugin Instruments & Effects Based On Your Description",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Snapchat has a new GenAI-powered ‘Chat to Song’ feature",
-      "url": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
-      "source": "Music Ally",
-      "published_iso": "2026-09-22T12:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-22T112534.130.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Earlier this year, we wrote about the ‘text-to-song’ craze on TikTok, where people were feeding their message-threads into Suno to generate songs – some of which went viral.",
-      "rationale": "A mass-market messaging app turns the viral 'text-to-song' trend into a built-in feature, so generative music now ships inside a mainstream social platform instead of being a niche tool."
+      "rationale": "Free AI plugin that turns a written description into a playable DSP instrument or effect in the DAW, with voice input and MCP hooks for Claude Code or Cursor. Producers can use it right away.",
+      "published_iso": "2026-09-22T12:02:30Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/amorph-1-0-beta-press-hero.png",
+      "excerpt": "Amorph 1.0 is a free macOS/Windows plugin that turns a written description into working DSP code playable in your DAW; its in-plugin AI assistant takes voice input, and coding agents like Claude Code and Cursor connect over MCP."
     },
     {
-      "rank": 2,
-      "category": "music",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "headline": "Akai iMPC Pro 2 (iOS/macOS): update 3.0 brings AUv3 plugin support, stem separation and more",
-      "url": "https://synthanatomy.com/2026/09/akai-impc-pro-2-ios-macos-update-3-0-brings-auv3-plugin-support-stem-separation-and-more.html",
-      "source": "Synth Anatomy",
-      "published_iso": "2026-09-22T18:44:30Z",
-      "og_image": "https://synthanatomy.com/wp-content/uploads/2026/09/Akai-iMPC-Pro-2-update-3.0.jpg",
-      "excerpt": "Retronyms released the Akai iMPC Pro 2.0 update 3.0, which lets you host the app as an AUv3 plugin, use stem separation, and more.",
-      "rationale": "A concrete release that producers can install today: AI stem separation plus AUv3 hosting in a mobile/desktop MPC, which puts sample-flipping from full mixes on an iPad."
-    },
-    {
-      "rank": 3,
-      "category": "music",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "headline": "Italy’s Sanremo Music Festival Places Strict Limits on the Use of AI",
-      "url": "https://www.digitalmusicnews.com/2026/09/22/sanremo-music-festival-ai-rules/",
-      "source": "Digital Music News",
-      "published_iso": "2026-09-22T21:02:04Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/Ariston.jpg",
-      "excerpt": "Italy's Sanremo Music Festival has announced a collection of seemingly strict rules concerning competitors' use of AI.",
-      "rationale": "One of Europe's biggest song contests puts written AI limits on competitors, a new eligibility precedent that songwriters entering competitions have to check against their workflow."
-    },
-    {
-      "rank": 4,
-      "category": "music",
+      "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+      "source": "ElevenLabs (YouTube)",
+      "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "Scammers have been inserting fake songs onto real artist's pages on Spotify and other platforms",
-      "url": "https://www.engadget.com/2261435/scammers-have-been-inserting-fake-songs-onto-real-artist-pages-on-spotify-and-other-platforms/",
-      "source": "Engadget",
-      "published_iso": "2026-09-17T16:37:26Z",
-      "og_image": "https://www.engadget.com/img/gallery/scammers-have-been-inserting-fake-songs-onto-real-artists-pages-on-spotify-and-other-platforms/l-intro-1789662935.jpg",
-      "excerpt": "A distribution loophole lets scammers collect royalties uploading fake songs to profiles for real bands.",
-      "rationale": "A distribution loophole that lets fake uploads land on real artists' profiles hits every independent artist's catalogue and royalties. Distinct from the UMG v. DistroKid suit already published. Enrichment must confirm the body has an AI-generated-track angle."
+      "rationale": "Eleven Music generation now runs inside AI-assistant chat workflows through the MCP server. This is a new way to make music, separate from the Music v2.5 story published 09-15.",
+      "published_iso": "2026-09-14T17:14:04Z",
+      "og_image": "https://i.ytimg.com/vi/vGukGg7Q2_g/maxresdefault.jpg",
+      "excerpt": "The ElevenLabs MCP server now generates voice, music, images and video from inside the AI assistant you already work in, putting Eleven Music generation into Claude-style chat workflows."
     },
     {
-      "rank": 5,
-      "category": "music",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "source": "TechCrunch",
+      "title": "YouTube Music gets more conversational with new AI features",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "6 Stem Separation Tool Options For Audio Pros In 2026",
-      "url": "https://www.production-expert.com/production-expert-1/6-stem-separation-tools-compared-for-audio-pros-in-2026",
-      "source": "Production Expert",
-      "published_iso": "2026-09-22T08:00:00Z",
-      "og_image": "https://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6aa9622881664e157863df5d/1789485608514/stemSepSept26-12.jpg?format=1500w",
-      "excerpt": "Real-time plugin or offline service? We compare six stem separation tools for mix and post work, and flag which ones keep client audio off the cloud.",
-      "rationale": "A practical buyer's comparison of AI stem splitters that flags which tools keep client audio off the cloud. It helps with choosing a tool now that Pro Tools, DP12, LUNA and iMPC all ship one."
+      "rationale": "Fresh Made on YouTube launch. 'Ask Music' brings natural-language discovery to a major streaming platform, which changes how listeners find tracks and how artists get surfaced.",
+      "published_iso": "2026-09-23T15:19:30Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
+      "excerpt": "Announced at Made on YouTube, 'Ask Music' lets YouTube Music users describe what they want to hear in everyday language, alongside a personalized 'Your Podcast Lineup' guide."
+    },
+    {
+      "url": "https://musically.com/2026/09/23/ai-music-guru-francois-pachet-its-no-longer-the-jungle-era/",
+      "source": "Music Ally",
+      "title": "AI-music guru François Pachet: 'It's no longer the jungle era'",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Flow Machines pioneer François Pachet looks at where AI music-making stands now. It is expert insight on creators and tools, not a business-deal story.",
+      "published_iso": "2026-09-23T11:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-23T122049.867.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Flow Machines pioneer François Pachet (the 2016 'Daddy's Car' Beatles-style AI track at Sony CSL) on how AI-music creation has moved beyond its unregulated 'jungle era'."
+    },
+    {
+      "url": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/",
+      "source": "Hypebot",
+      "title": "An LLM Flagged 1,632 Videos. One Was Real.",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "A hands-on case study: using an LLM to triage music-copyright claims flagged four of five videos wrongly. This matters to creators hit by false claims and to teams building AI content-ID.",
+      "published_iso": "2026-09-23T12:37:18Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/player-popped-out.png",
+      "excerpt": "A team rebuilt its music-copyright triage and found an LLM reading video content flagged four of five videos wrongly; the only reliable signal was who uploaded the video."
     }
-  ],
-  "dedup": {
-    "against_days": ["2026-09-22", "2026-09-20", "2026-09-19", "2026-09-18", "2026-09-17", "2026-09-15"],
-    "dropped": [
-      {
-        "url": "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/",
-        "reason": "content duplicate: Suno's response to the second UMG/Sony suit. The suit was published 2026-09-22 ('유니버설·소니, Suno v6도 같은 독나무의 열매다'), and that card already cites Suno's admission that v6 was trained on user interactions with earlier models. This is not a new development."
-      },
-      {
-        "url": "https://www.billboard.com/pro/suno-ai-music-deals-labels-artist-reps-react/",
-        "reason": "content duplicate: reaction piece on the Suno v6 label deals (WMG/BMG), already covered by the 2026-09-18 Suno V6 card and the 2026-09-20 ethical-AI card"
-      },
-      {
-        "url": "https://www.hypebot.com/ifpi-unites-cd-baby-sony-umg-and-more-to-fight-ai-streams/",
-        "reason": "content duplicate: the Streaming Integrity Initiative launch is already reported inside the 2026-09-20 UMG v. DistroKid card"
-      },
-      {
-        "url": "https://www.musicbusinessworldwide.com/5-things-you-need-to-know-about-elevenlabs-the-umg-ai-partner-with-an-11b-valuation-and-big-ambitions-in-music/",
-        "reason": "content duplicate: explainer on the UMG x ElevenLabs deal, already covered in the 2026-09-15 ElevenLabs Music v2.5 card"
-      }
-    ],
-    "passed_over": [
-      {
-        "url": "https://www.musicbusinessworldwide.com/believe-and-tunecore-suno-consent/",
-        "reason": "Suno-adjacent (Believe is a named v6 partner, already covered); not picked because of Suno saturation in the section"
-      },
-      {
-        "url": "https://musically.com/2026/09/11/ifpi-urges-eu-countries-to-fully-implement-ai-acts-new-rules/",
-        "reason": "12 days old, policy lobbying with low actionability"
-      },
-      {
-        "url": "https://www.digitalmusicnews.com/2026/09/08/human-premium-average-ai-music/",
-        "reason": "evergreen opinion piece, 2 weeks old"
-      },
-      {
-        "url": "https://musically.com/2026/09/10/nordic-digital-music-survey-reveals-latest-streaming-and-ai-trends/",
-        "reason": "13 days old survey roundup, generic AI business noise"
-      }
-    ]
-  },
-  "diversity": {
-    "distinct_outlets": 5,
-    "max_per_outlet": 1,
-    "categories": ["music", "music", "music", "music", "music"]
-  }
+  ]
 }

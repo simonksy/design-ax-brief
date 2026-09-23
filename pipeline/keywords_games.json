@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "games",
   "user_seeds": [],
   "core_keywords": [
@@ -12,163 +12,163 @@
       "keyword": "AI game",
       "priority": 0,
       "core": true,
-      "expansions": ["AI in games news", "game studio AI adoption", "AI game development pipeline 2026"]
+      "expansions": ["AI in game development news", "game studio AI adoption", "AI game pipeline case study 2026"]
     },
     {
       "keyword": "AI 게임",
       "priority": 0,
       "core": true,
-      "expansions": ["AI 게임 개발", "생성형 AI 게임", "게임사 AI 도입", "넥슨 엔씨 크래프톤 AI"]
+      "expansions": ["AI 게임 개발", "생성형 AI 게임", "게임사 AI 도입", "넥슨 엔씨소프트 크래프톤 넷마블 AI"]
     },
     {
       "keyword": "generative game",
       "priority": 0,
       "core": true,
-      "expansions": ["generative gameplay", "AI generated game content", "generative AI game launch"]
+      "expansions": ["generative gameplay", "AI generated game content", "generative AI game release"]
     },
     {
-      "keyword": "Genie world model",
+      "keyword": "AI animation games",
       "priority": 1,
       "core": false,
-      "expansions": ["DeepMind Genie 3", "interactive world model game", "world model real-time playable"]
+      "expansions": ["AI motion matching", "markerless AI mocap game", "Cascadeur AI animation", "generative character animation tool"]
     },
     {
-      "keyword": "AI playable worlds",
+      "keyword": "AI character creation",
       "priority": 2,
       "core": false,
-      "expansions": ["real-time generated game world", "AI generated interactive environment", "playable world model demo"]
+      "expansions": ["AI character generator game", "AI avatar creator", "AI auto-rigging", "AI 캐릭터 생성"]
     },
     {
-      "keyword": "neural game engine",
+      "keyword": "AI voice acting games",
       "priority": 3,
       "core": false,
-      "expansions": ["diffusion game engine", "model-generated gameplay research", "neural rendering game engine"]
+      "expansions": ["SAG-AFTRA interactive AI voice", "synthetic voice game performer", "AI voice consent licensing", "게임 AI 음성"]
+    },
+    {
+      "keyword": "AI game dialogue",
+      "priority": 4,
+      "core": false,
+      "expansions": ["AI narrative system game", "generative dialogue writing tool", "AI quest generation"]
     },
     {
       "keyword": "AI NPC",
-      "priority": 4,
+      "priority": 5,
       "core": false,
-      "expansions": ["LLM-driven NPC", "autonomous NPC dialogue", "AI 캐릭터 NPC", "PUBG Ally co-playable character"]
+      "expansions": ["LLM-driven NPC", "AI companion character game", "AI 캐릭터 NPC", "PUBG Ally / co-playable character"]
     },
     {
       "keyword": "Inworld AI",
-      "priority": 5,
+      "priority": 6,
       "core": false,
-      "expansions": ["Inworld runtime", "Inworld voice model game", "Inworld studio partnership"]
+      "expansions": ["Inworld runtime", "Inworld TTS voice model game", "Inworld studio partnership"]
     },
     {
       "keyword": "NVIDIA ACE",
-      "priority": 6,
+      "priority": 7,
       "core": false,
       "expansions": ["ACE autonomous game characters", "NVIDIA ACE Unreal plugin", "on-device small language model game"]
     },
     {
-      "keyword": "generative game assets",
-      "priority": 7,
-      "core": false,
-      "expansions": ["AI 3D asset generation game", "AI texture material pipeline", "Meshy Tripo game asset"]
-    },
-    {
-      "keyword": "AI game art",
-      "priority": 8,
-      "core": false,
-      "expansions": ["AI concept art game studio", "AI art pipeline production", "게임 AI 아트"]
-    },
-    {
-      "keyword": "Unreal Engine AI",
-      "priority": 9,
-      "core": false,
-      "expansions": ["Unreal Engine AI assistant", "Epic Games AI tools", "UEFN AI creation"]
-    },
-    {
-      "keyword": "Unity Muse",
-      "priority": 10,
-      "core": false,
-      "expansions": ["Unity AI assistant", "Unity 6 AI generators", "Unity AI roadmap"]
-    },
-    {
-      "keyword": "AI game design tool",
-      "priority": 11,
-      "core": false,
-      "expansions": ["game dev AI copilot", "AI toolset studio launch", "AI engine tooling announcement"]
-    },
-    {
-      "keyword": "text-to-game",
-      "priority": 12,
-      "core": false,
-      "expansions": ["prompt to playable game", "AI game generator platform", "text-to-game model"]
-    },
-    {
-      "keyword": "vibe coding games",
-      "priority": 13,
-      "core": false,
-      "expansions": ["vibe coded game release", "AI coded indie game", "Codex Claude Code game prototype"]
-    },
-    {
-      "keyword": "AI level design",
-      "priority": 14,
-      "core": false,
-      "expansions": ["AI level generation tool", "AI map layout game", "AI blockout level artist"]
-    },
-    {
-      "keyword": "procedural generation AI",
-      "priority": 15,
-      "core": false,
-      "expansions": ["ML-assisted proc-gen", "AI world building tool", "procedural content generation research"]
-    },
-    {
-      "keyword": "AI game dialogue",
-      "priority": 16,
-      "core": false,
-      "expansions": ["AI narrative system game", "generative dialogue writing", "AI quest generation"]
-    },
-    {
-      "keyword": "AI voice acting games",
-      "priority": 17,
-      "core": false,
-      "expansions": ["SAG-AFTRA interactive AI voice", "synthetic voice game performer", "AI voice consent game"]
-    },
-    {
-      "keyword": "AI character creation",
-      "priority": 18,
-      "core": false,
-      "expansions": ["AI character generator game", "AI avatar creator", "AI auto-rigging character"]
-    },
-    {
-      "keyword": "AI animation games",
-      "priority": 19,
-      "core": false,
-      "expansions": ["AI motion matching", "markerless AI mocap game", "generative animation tool"]
-    },
-    {
       "keyword": "AI playtesting",
-      "priority": 20,
+      "priority": 8,
       "core": false,
       "expansions": ["AI agent playtest bot", "automated game testing AI", "AI QA automation studio"]
     },
     {
       "keyword": "AI bug detection games",
-      "priority": 21,
+      "priority": 9,
       "core": false,
-      "expansions": ["AI QA bug finding tool", "AI crash triage build", "ML glitch detection"]
+      "expansions": ["AI QA bug finding tool", "AI crash triage", "ML glitch detection"]
     },
     {
       "keyword": "AI localization games",
-      "priority": 22,
+      "priority": 10,
       "core": false,
-      "expansions": ["AI translation game publisher", "machine translation localization games", "게임 AI 현지화"]
-    },
-    {
-      "keyword": "AI mod UGC",
-      "priority": 23,
-      "core": false,
-      "expansions": ["Roblox AI creation tools", "AI mod tool platform", "UGC AI creation game"]
+      "expansions": ["AI translation game publisher", "machine translation localization games", "게임 AI 현지화 번역"]
     },
     {
       "keyword": "AI dynamic difficulty",
+      "priority": 11,
+      "core": false,
+      "expansions": ["adaptive difficulty machine learning", "AI player modeling", "AI matchmaking behavior"]
+    },
+    {
+      "keyword": "AI level design",
+      "priority": 12,
+      "core": false,
+      "expansions": ["AI level generation tool", "AI map layout", "AI blockout level artist"]
+    },
+    {
+      "keyword": "procedural generation AI",
+      "priority": 13,
+      "core": false,
+      "expansions": ["ML-assisted proc-gen", "AI world building tool", "procedural content generation research"]
+    },
+    {
+      "keyword": "generative game assets",
+      "priority": 14,
+      "core": false,
+      "expansions": ["AI 3D asset generation game", "Meshy Tripo Hunyuan3D game asset", "AI texture material pipeline", "AI 3D 에셋 생성"]
+    },
+    {
+      "keyword": "AI game art",
+      "priority": 15,
+      "core": false,
+      "expansions": ["AI concept art game studio", "AI art pipeline production", "게임 AI 아트"]
+    },
+    {
+      "keyword": "Unreal Engine AI",
+      "priority": 16,
+      "core": false,
+      "expansions": ["Unreal Engine AI assistant", "Epic Games AI tools", "UEFN AI creation", "Unreal MCP agent"]
+    },
+    {
+      "keyword": "Unity Muse",
+      "priority": 17,
+      "core": false,
+      "expansions": ["Unity AI assistant", "Unity 6 AI generators", "Unity AI roadmap"]
+    },
+    {
+      "keyword": "AI game design tool",
+      "priority": 18,
+      "core": false,
+      "expansions": ["game dev AI copilot", "game development agent launch", "AI engine tooling announcement"]
+    },
+    {
+      "keyword": "AI mod UGC",
+      "priority": 19,
+      "core": false,
+      "expansions": ["AI mod tool platform", "UGC AI creation game", "Fortnite UEFN AI", "Minecraft AI creation"]
+    },
+    {
+      "keyword": "text-to-game",
+      "priority": 20,
+      "core": false,
+      "expansions": ["prompt to playable game", "AI game generator platform", "text-to-game model"]
+    },
+    {
+      "keyword": "vibe coding games",
+      "priority": 21,
+      "core": false,
+      "expansions": ["AI coded indie game", "Claude Code Codex game prototype", "game jam AI coding"]
+    },
+    {
+      "keyword": "Genie world model",
+      "priority": 22,
+      "core": false,
+      "expansions": ["DeepMind Genie 3", "interactive world model game", "real-time playable world model"]
+    },
+    {
+      "keyword": "AI playable worlds",
+      "priority": 23,
+      "core": false,
+      "expansions": ["real-time generated game world", "AI generated interactive environment", "World Labs Marble game"]
+    },
+    {
+      "keyword": "neural game engine",
       "priority": 24,
       "core": false,
-      "expansions": ["adaptive difficulty machine learning", "AI player modeling game", "AI matchmaking behavior"]
+      "expansions": ["diffusion game engine", "model-generated gameplay research", "neural rendering game engine"]
     }
   ],
   "plan": {
@@ -198,6 +198,10 @@
           "aftermath.site",
           "nme.com",
           "destructoid.com",
+          "gamesbeat.com",
+          "automaton-media.com",
+          "inven.co.kr",
+          "thisisgame.com",
           "youtube.com",
           "youtu.be",
           "inworld.ai",
@@ -206,50 +210,61 @@
           "roblox.com"
         ],
         "queries": [
-          "AI game development news September 2026",
-          "generative AI game launch studio 2026",
-          "DeepMind Genie 3 world model playable game 2026",
-          "AI playable world real-time generated environment demo",
-          "neural game engine diffusion generated gameplay research 2026",
-          "AI NPC LLM dialogue game announcement 2026",
+          "AI game development news late September 2026",
+          "generative AI game studio announcement September 2026",
+          "AI animation motion matching markerless mocap game tool 2026",
+          "AI character creation auto-rigging avatar generator game 2026",
+          "AI voice acting games SAG-AFTRA synthetic voice consent 2026",
+          "AI game dialogue narrative quest generation system 2026",
+          "AI NPC LLM companion character game announcement 2026",
           "Inworld AI NVIDIA ACE autonomous game characters 2026",
-          "generative game assets 3D asset generation studio pipeline 2026",
-          "AI game art concept art pipeline studio 2026",
-          "Unreal Engine AI assistant Epic Games tools 2026",
-          "Unity AI assistant generators Muse update 2026",
-          "AI game design tool copilot launch game developers",
-          "text-to-game prompt to playable game platform 2026",
-          "vibe coding games AI coded indie release 2026",
-          "AI level design procedural generation world building tool 2026",
-          "AI game dialogue narrative quest generation system",
-          "AI voice acting games SAG-AFTRA synthetic voice 2026",
-          "AI character creation animation motion capture game tool 2026",
-          "AI playtesting QA bug detection game studio 2026",
+          "AI playtesting QA bug detection automated game testing 2026",
           "AI localization translation game publisher 2026",
-          "AI mod UGC creation tools Roblox Fortnite UEFN 2026",
           "AI dynamic difficulty adaptive player modeling game",
-          "AI 게임 개발 도구 2026",
-          "생성형 AI 게임 에셋 NPC 게임사",
-          "site:youtube.com Unreal Engine OR Unity AI tools 2026",
-          "site:youtube.com Two Minute Papers game AI world model 2026",
-          "wildcard: GDC AI game developer survey OR studio AI policy late September 2026"
+          "AI level design procedural generation world building tool 2026",
+          "generative game assets 3D asset generation Meshy Tripo studio 2026",
+          "AI game art concept art pipeline studio policy 2026",
+          "Unreal Engine AI assistant Epic Games AI tools 2026",
+          "Unity AI assistant generators update 2026",
+          "AI game design tool agent copilot launch game developers",
+          "AI mod UGC creation tools Fortnite UEFN Minecraft 2026",
+          "text-to-game prompt to playable game platform 2026",
+          "vibe coding games AI coded indie prototype 2026",
+          "DeepMind Genie 3 world model playable game 2026",
+          "AI playable worlds neural game engine diffusion gameplay research",
+          "AI 게임 개발 도구 신작 2026",
+          "생성형 AI 게임 NPC 음성 에셋 게임사 도입",
+          "site:youtube.com Unreal Engine OR Unity OR GDC AI tools 2026",
+          "site:youtube.com Two Minute Papers OR Inworld AI game character 2026",
+          "wildcard: Tokyo Game Show aftermath AI tools OR Roblox RDC AI creation follow-up coverage"
         ]
       }
     ]
   },
   "skip_topics": [
+    "Roblox RDC 2026 Build tab / Scene Generator prompt-to-layout (2026-09-23)",
+    "SophieChat:AI Koei Tecmo/SpiralAI/Gust AI chat RPG (AUTOMATON, 2026-09-23)",
+    "Hiraku Agent Japan game jobs most impacted by gen AI (AUTOMATON, 2026-09-23)",
+    "Nexon Games Pareidolia on-device voice AI at TGS 2026 (SEDaily, 2026-09-23)",
+    "Imagination Technologies Neural Super Resolution NSR mobile GPU (Inven, 2026-09-23)",
     "Microsoft patent: ML-timed in-game ad insertion (RPS, 2026-09-22)",
-    "Microsoft draft AI model behavior/training code document (80.lv, 2026-09-22)",
+    "Microsoft draft AI model behavior/training code (80.lv, 2026-09-22)",
     "Potato peeling game AI clone accusation, Rado Klasa vs Potato Please (IGN, 2026-09-22)",
     "Tokyo Game Show 2026 nostalgia + uncertain AI future opinion (GI.biz, 2026-09-22)",
     "Mages Juggernaut 100% vibe-coded FPS Steam AI disclosure (PC Gamer, 2026-09-22)",
-    "Insomniac Wolverine generative AI denial / UV map bug (2026-09-20)",
-    "Luminary indie dev voice mistaken for AI voice (2026-09-20)",
-    "DLSS 5 neural rendering on Intel Arc / Dark Souls 3 path tracing mod (2026-09-20)",
-    "Cyberpunk 2077 Night City handmade vs procedural, CDPR interview (2026-09-20)",
-    "Punchable Face Quest app built with Codex in 8 days (UploadVR, 2026-09-15)",
-    "Qwen3.8-27B local model zombie FPS in 5 hours (Wccftech, 2026-09-15)",
-    "PUBG DED.NET AI placeholder posters redrawn by hand (2026-09-15)"
+    "Insomniac Wolverine no generative AI / UV map bug (IGN, 2026-09-20)",
+    "Luminary indie dev voice mistaken for AI voice (GameSpot, 2026-09-20)",
+    "DLSS 5 neural rendering on Intel Arc 140V without CUDA (Wccftech, 2026-09-20)",
+    "Dark Souls 3 path tracing mod DLSS 5 showcase (Wccftech, 2026-09-20)",
+    "Cyberpunk 2077 Night City handmade vs procedural, CDPR interview (80.lv, 2026-09-20)",
+    "Unity official OpenAI Codex plugin, 31 skills (Unity blog/YouTube, 2026-09-18/19)",
+    "Unreal Engine 5.8 MCP plugin office hours (YouTube, 2026-09-19)",
+    "MetaHuman Animator markerless full-body mocap UE 5.8 (YouTube, 2026-09-19)",
+    "Ship of Harkinian Ocarina PC port AI usage controversy (Kotaku, 2026-09-19)",
+    "Agent 64 enemy AI readability interview (80.lv, 2026-09-19)",
+    "CESA survey 85.8% Japanese devs use gen AI (2026-09-18)",
+    "Ramen Aura 1.0 game dev agent (GamesBeat, 2026-09-18)",
+    "AMD one-step diffusion generative global illumination paper (PC Gamer, 2026-09-18)"
   ],
-  "notes": "Override run: WebSearch disabled for planner; ALL games core + full keywords list used (no rotation), related keywords grouped into combined queries (27 incl. 1 wildcard). Priority reordered vs 09-22 plan (world models/neural engine first) to vary emphasis. Skip window = news_data games.today 2026-09-22 set plus the 09-20 set; steer away from vibe-coded-game backlash, AI-clone accusations, Microsoft policy/patent items and DLSS/path-tracing mods. Prefer tool releases, engine features, pipeline case studies. Per MEMORY, harvest outlet RSS/sitemap_news.xml for recency over site: search."
+  "notes": "Override run: WebSearch disabled for planner; ALL games core + full 24-keyword list used (no rotation), related keywords grouped into combined queries (27 incl. 1 wildcard). Priority order rotated vs 09-23 plan (which led with world models/neural engine): today leads with animation/character/voice/dialogue/NPC, then QA/localization/difficulty, with world models last. Skip window = games today 09-23 + days 09-19/09-20/09-22 (no 09-21 set), plus 09-18 Unity Codex/CESA/Ramen/AMD items as near-dups. Steer away from TGS 2026 recap, CESA/Japan survey stats, Unity Codex / UE 5.8 MCP / MetaHuman markerless (already covered), DLSS 5 mods, AI-accusation/backlash stories unless materially new. Prefer tool releases, engine features, pipeline case studies. Added automaton-media.com, gamesbeat.com, inven.co.kr, thisisgame.com to allowed_domains (recent yield). Per MEMORY, harvest outlet RSS/sitemap_news.xml for recency over site: search."
 }

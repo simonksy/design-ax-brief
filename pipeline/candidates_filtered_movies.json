@@ -1,135 +1,185 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "movies",
-  "now_iso": "2026-09-22T22:00:00Z",
+  "now_iso": "2026-09-23T22:00:00Z",
   "window_hours": 336,
   "generated_by": "librarian (movies)",
-  "collection_notes": "Feeds/news-sitemaps swept for 22 allowed domains plus YouTube channel feeds; 4 WebSearch calls (1 errored). Skipped already-published Tom Cruise BAFTA, Eran Dinur, Lightstorm-Outsyders, After Effects AI assistant, Disney CTO (exec move), Danny Boyle Ink (stale). Section fresh AI news thin; pool is 12. Dup pairs: Variety Hazanavicius / Deadline San Sebastian.",
+  "collection_notes": "Feeds-first sweep: RSS for 20+ allowed domains (paged WP feeds for 14-day depth), PMC news-sitemaps + post-sitemap202609 slug scan (Variety/THR/Deadline/IndieWire), 14 YouTube channel feeds; 5 WebSearch calls used. Dropped: NFS Topaz (published_iso 5s after now -> not FRESH; RedShark copy kept), Deadline Maxton Hall AI lip-sync (Sep 9 14:45, just outside 14d), NFS Resolve 21.1 (Sep 8), THR AI sports (Sep 4), THR Tilly Norwood glitch (already published), Deadline/NFS Tom Cruise (covered), Cartoon Brew/Variety Disney CTO (exec move), Deadline YouTube live dubbing (dup of Verge Made on YouTube), Deadline MIPCOM (market/business), Luma blog (SEO listicles), Insta360 X6/Motionographer (no substantive AI). Per-outlet cap hit for Variety (spares: Katzenberg 'AI not going away' 09-23, Paul Walker AI Fast finale 09-10, AGBO Tokyo AI keynote 09-17, Weta FX Busan AI panel 09-16, Bill Hader on AI 09-18). YouTube counted per channel. Flags: RedShark Topaz is an acquisition-completion story (tool hook: Topaz upscaling inside Adobe); Runway DIFFUSE is a talent marketplace; Kling TIFF video is promo-light. Korean-source search surfaced only off-list outlets (BIFF Forum AI section Oct 8-11; 3rd Busan Intl AI Film Festival Dec 3-5) - not added.",
   "items": [
     {
-      "url": "https://variety.com/2026/film/global/goodfellas-michel-hazanavicius-the-third-hand-ai-1236871835/",
+      "url": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/",
       "source": "Variety",
-      "published_iso": "2026-09-22T11:05:45Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-20-1.png?w=1000&h=563&crop=1",
-      "headline": "Goodfellas' Vincent Maraval Says Michel Hazanavicius Cut Eight Days of Production on 'The Third Hand' by Using AI",
-      "axis": "ai-in-production",
-      "excerpt": "At San Sebastian's Creative Investors' Conference, Goodfellas CEO Vincent Maraval said AI turned a ten-day shoot for a major WWI scene in Hazanavicius' 'The Third Hand' into two days, arguing AI can expand filmmakers' creativity.",
-      "category": "movies"
-    },
-    {
-      "url": "https://deadline.com/2026/09/san-sebastian-creative-investors-conference-day-on-brazil-1237110107/",
-      "source": "Deadline",
-      "published_iso": "2026-09-22T16:43:30Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/split-single-1500x845-2.jpg?w=1024",
-      "headline": "Creative Risks, AI & Brazil's Production Boom: Day One of the 2026 San Sebastian Creative Investors' Conference",
-      "axis": "festival-industry",
-      "excerpt": "Deadline's day-one recap of San Sebastian's investor conference, including Maraval's claim that Goodfellas' back office runs largely on AI and that AI replaced eight shooting days on 'The Third Hand'. NOTE: same story as the Variety Hazanavicius item; pick one.",
-      "category": "movies"
+      "category": "movies",
+      "published_iso": "2026-09-23T07:01:00Z",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/TGT_S1_Unit_01148RC2_C2_thumbnail_R.jpg?w=1000&h=563&crop=1",
+      "headline": "Netflix Competition ‘Wonka’s The Golden Ticket’ Is a Ghoulish Misuse of AI Gene Wilder: TV Review",
+      "axis": "deepfake-likeness",
+      "excerpt": "A Netflix competition show based on Roald Dahl's 'Charlie and the Chocolate Factory' uses an AI-generated Gene Wilder in a disastrous gimmick."
     },
     {
       "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
       "source": "Variety",
+      "category": "movies",
       "published_iso": "2026-09-22T02:07:03Z",
       "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
       "headline": "Generative AI, Microdramas to Take Center Stage at Busan Market",
-      "axis": "festival-industry",
-      "excerpt": "Busan's Asian Contents & Film Market InnoAsia strand runs 11 programs led by generative AI, including a Kling AI session on reimagining filmmaking and an Eyeline talk on generative AI in production. NOTE: an earlier Variety InnoAsia/DeepMind-AWS story was already published; this is the full program follow-up.",
-      "category": "movies"
+      "axis": "festival-market",
+      "excerpt": "Busan market ACFM spotlights generative AI and microdrama through InnoAsia, alongside Country of Honor Thailand and Focus Country Japan."
     },
     {
       "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
       "source": "Variety",
+      "category": "movies",
       "published_iso": "2026-09-21T23:29:50Z",
       "og_image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&h=563&crop=1",
-      "headline": "Robin Williams' Daughter Calls for Fans Creating AI Videos of the Actor to 'Have Some Shame'",
-      "axis": "likeness-rights",
-      "excerpt": "Zelda Williams again called on fans to stop circulating AI-generated videos of her late father, reigniting the debate over AI likeness of deceased performers. NOTE: a similar Robin Williams AI-slop story ran earlier.",
-      "category": "movies"
+      "headline": "Robin Williams’ Daughter Calls for Fans Creating AI Videos of the Actor to ‘Have Some Shame’: ‘Leave Him Out of Your Delusional Bulls—’",
+      "axis": "deepfake-likeness",
+      "excerpt": "Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams."
     },
     {
-      "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
-      "source": "IndieWire",
-      "published_iso": "2026-09-20T17:11:43Z",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650",
-      "headline": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)",
-      "axis": "filmmaker-stance",
-      "excerpt": "The 'Moon' director explains how his decade-long animated 'Rogue Trooper' adaptation got made and why he refused to use generative AI as a shortcut in its animation pipeline.",
-      "category": "movies"
-    },
-    {
-      "url": "https://deadline.com/2026/09/mipcom-cannes-creators-brands-ai-distribution-lucy-smith-1237109940/",
+      "url": "https://deadline.com/2026/09/ai-hollywood-risks-rewards-lawyers-1237111607/",
       "source": "Deadline",
-      "published_iso": "2026-09-22T12:06:58Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MIPCOM2025.jpg?w=1024",
-      "headline": "MIPCOM in Cannes Bets on Creators, Brands & AI",
-      "axis": "festival-industry",
-      "excerpt": "MIPCOM launches a new MIP AI Entertainment Forum conference and market with Versos AI and Protege, as organizer Lucy Smith repositions the Cannes market around creators, branded content and AI.",
-      "category": "movies"
+      "category": "movies",
+      "published_iso": "2026-09-23T20:59:32Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/LA-Law-2.jpg?w=1024",
+      "headline": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood",
+      "axis": "legal-labor",
+      "excerpt": "AI on the docket: Lawyers panel discusses the risks and rewards of artificial intelligence for Hollywood during a panel at Deadline’s inaugural L.A. Law Summit."
     },
     {
-      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-09-15T14:27:00Z",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/1-1-EMBED-2026.jpg?w=1000&h=667&crop=1",
-      "headline": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries",
-      "axis": "ai-content-formats",
-      "excerpt": "Producers of vertical microdramas debated whether a flood of AI-generated titles and China's generative-AI push threaten the format, arguing human actors, writers and directors still bring energy AI tools can't.",
-      "category": "movies"
+      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-09-14T08:51:03Z",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg?w=1024",
+      "headline": "'Adolescence' Scribe Jack Thorne Warns: Writers Using AI To \"Cheat\"",
+      "axis": "screenwriting",
+      "excerpt": "'Adolescence' writer Jack Thorne has warned that his colleagues are using AI to \"cheat.\" He added that those caught should be punished."
     },
     {
-      "url": "https://postperspective.com/captionx-clips-for-turning-long-videos-into-shorts/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-22T20:57:54Z",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/CaptionX-UI_Workstation.jpg",
-      "headline": "CaptionX Clips for Turning Long Videos Into Shorts",
+      "url": "https://www.redsharknews.com/adobe-completes-topaz-labs-acquisition",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-09-23T15:00:00Z",
+      "og_image": "https://www.redsharknews.com/hubfs/Adobe%20x%20Topaz.jpg",
+      "headline": "Adobe completes Topaz Labs acquisition",
       "axis": "post-tools",
-      "excerpt": "AI captioning maker CaptionX launched Clips, which analyzes a long video or podcast and returns ranked, self-contained short moments ready to publish.",
-      "category": "movies"
+      "excerpt": "Adobe completes its Topaz Labs acquisition, with CEO Eric Yang joining Adobe and Neurostream promising impressive cuts in AI VRAM demands."
     },
     {
-      "url": "https://www.provideocoalition.com/insta360-x6-turns-360-video-into-explorable-3d-scenes/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-21T14:55:45Z",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/insta360x6spaialcpture001.jpg",
-      "headline": "Insta360 X6 turns 360 video into explorable 3D scenes",
-      "axis": "neural-rendering",
-      "excerpt": "Insta360's Spatial Capture converts 360 footage into Gaussian-splat (3DGS) scenes via cloud processing, rolling out in the US on Sept 28 with four free scenes per month. NOTE: body describes 3DGS, not 'AI' explicitly.",
-      "category": "movies"
+      "url": "https://www.redsharknews.com/evoto-8.0-video-tools-asset-hub",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-09-23T07:33:16Z",
+      "og_image": "https://www.redsharknews.com/hubfs/evoto%208.0%20main.jpg",
+      "headline": "Evoto 8.0: New video tools, Asset Hub, pricing",
+      "axis": "post-tools",
+      "excerpt": "Evoto 8.0 adds portrait retouching inside DaVinci Resolve, story-based culling, and Asset Hub, a marketplace where creators keep 60% of sales. Available now."
     },
     {
-      "url": "https://www.youtube.com/watch?v=hgZqqPz3A0Y",
-      "source": "fxguide",
-      "published_iso": "2026-09-19T18:28:17Z",
-      "og_image": "https://i.ytimg.com/vi/hgZqqPz3A0Y/maxresdefault.jpg",
-      "headline": "Why a Gaussian 'splat' helps lighting — go 3D+2D, not all-3D",
-      "axis": "vfx-workflow",
-      "excerpt": "fxguide breaks down how Gaussian splats, generative video models and traditional 3D exports can be combined for lighting, FX and production control.",
-      "category": "movies"
+      "url": "https://www.animationmagazine.net/2026/09/utopais-the-most-serious-fart-adaptation-recruits-simpsons-casting-director-coyote-vs-acme-story-artist/",
+      "source": "Animation Magazine",
+      "category": "movies",
+      "published_iso": "2026-09-17T20:09:15Z",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Most-Serious-Fart-cover-featured.jpg",
+      "headline": "Utopai's 'The Most Serious Fart' Adaptation Recruits 'Simpsons' Casting Director, 'Coyote vs. Acme' Story Artist - Animation Magazine",
+      "axis": "ai-animation",
+      "excerpt": "Casting director Scott Muller and story artist Andy Brooks have joined the team of 'The Most Serious Fart' animated feature adaptation."
     },
     {
-      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
-      "source": "Theoretically Media",
-      "published_iso": "2026-09-21T22:04:40Z",
-      "og_image": "https://i.ytimg.com/vi/ky9Gj5N3wyQ/maxresdefault.jpg",
-      "headline": "Seedance 2.5 Just Got a Load of Awesome New Features!",
-      "axis": "video-model-tools",
-      "excerpt": "Dreamina's Seedance 2.5 canvas overhaul adds an AI agent that plans and organizes a shoot, an Elements library that carries characters and voices across prompts, new Skills, and MiniMax H3, GPT Image 2 and Nano Banana Pro inside the canvas.",
-      "category": "movies"
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "source": "Google Blog",
+      "category": "movies",
+      "published_iso": "2026-09-23T19:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.width-1300.png",
+      "headline": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "axis": "generative-video-model",
+      "excerpt": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids."
     },
     {
-      "url": "https://www.youtube.com/watch?v=6QC6nOotxrU",
-      "source": "Curious Refuge",
-      "published_iso": "2026-09-19T00:34:02Z",
-      "og_image": "https://i.ytimg.com/vi/6QC6nOotxrU/maxresdefault.jpg",
-      "headline": "Camera Angles Are Becoming a Thing of the Past",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "source": "The Verge",
+      "category": "movies",
+      "published_iso": "2026-09-23T14:30:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+      "headline": "YouTube is building AI creator tools that do almost everything for them",
+      "axis": "dubbing-creator-tools",
+      "excerpt": "The future of creating on YouTube looks like a lot of AI"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hcAMFjvwduI",
+      "source": "Runway (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-23T20:10:32Z",
+      "og_image": "https://i.ytimg.com/vi/hcAMFjvwduI/maxresdefault.jpg",
+      "headline": "Runway is now in DaVinci Resolve | Runway",
+      "axis": "post-tools",
+      "excerpt": "Get started: Access the world's best models directly inside your timeline to generate, edit and upscale without leaving your project. Get started at the link in bio."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
+      "source": "Runway (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-22T17:02:25Z",
+      "og_image": "https://i.ytimg.com/vi/4oNzKoODTVA/maxresdefault.jpg",
+      "headline": "Introducing DIFFUSE | Runway",
+      "axis": "ai-talent",
+      "excerpt": "Register and learn more: Introducing DIFFUSE: a platform for brands to search for, connect with and hire AI-native talent. Creatives build a profile and showcase their work. Brands, agencies and studios connect directly with the talent they need. #Runway #DIFFUSE #AITalent #CreativeJobs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
+      "source": "Runway (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-14T17:17:17Z",
+      "og_image": "https://i.ytimg.com/vi/swx780Vy_OQ/maxresdefault.jpg",
+      "headline": "Consistent AI Characters, Voices and Scenes (Advanced Workflow) | Runway",
       "axis": "ai-filmmaking-workflow",
-      "excerpt": "Curious Refuge tests three AI methods for generating new camera angles from existing shots, with a written breakdown and prompts.",
-      "category": "movies"
+      "excerpt": "Access the prompts and Claude skill: Learn how the Game of Horse video was made, with a full breakdown of the exact techniques behind it. We cover the storytelling fundamentals that make a scene land, rapid character development and character sheets in Runway Agent, wardrobe and location development"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HVeHHAfiR44",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-22T23:09:44Z",
+      "og_image": "https://i.ytimg.com/vi/HVeHHAfiR44/maxresdefault.jpg",
+      "headline": "This Is Where Filmmaking Is Headed Next (Full Tutorial)",
+      "axis": "hybrid-vfx-workflow",
+      "excerpt": "In this video, we tested a hybrid filmmaking workflow that combines live-action footage with AI to transform simple greybox shots into entirely new environments. Check out the full written breakdown and prompts here: Check out our courses: And our latest Micro-drama course: Get AI Film News Sent to "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_fSIhcZqm2g",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-15T19:49:43Z",
+      "og_image": "https://i.ytimg.com/vi/_fSIhcZqm2g/maxresdefault.jpg",
+      "headline": "Video Editing Is About to Change Forever",
+      "axis": "ai-editing",
+      "excerpt": "In this video, we put OpenAI Astra through real video editing workflows, and the results were pretty wild. Check out the full written breakdown here: Check out our courses: Get AI Film News Sent to You: Learn AI Filmmaking Workflows for Free: Join our Community today:"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
+      "source": "Kling AI (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-18T12:00:26Z",
+      "og_image": "https://i.ytimg.com/vi/dn376baf_Ds/maxresdefault.jpg",
+      "headline": "From Traditional Filmmaking to AI Animation: Diane Shorthouse’s Journey with Kling AI",
+      "axis": "ai-animation",
+      "excerpt": "After 30 years in traditional film and TV, Diane Shorthouse is exploring how AI can expand what filmmakers create. From safer production to bringing emotional performances to AI characters, she shares her experience making MINIBOTS with Kling AI. #kling #klingai #toronto"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B0uQcIDBr9Y",
+      "source": "Kling AI (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-14T15:00:18Z",
+      "og_image": "https://i.ytimg.com/vi/B0uQcIDBr9Y/maxresdefault.jpg",
+      "headline": "Live from Toronto: KlingAI at TIFF The Market",
+      "axis": "festival-market",
+      "excerpt": "At TIFF The Market, KlingAI hosted both an insightful expert Panel Discussion and a lively industry reception. Bringing together filmmakers and tech leaders, we explored how AI serves as a tool that makes production more affordable and accessible. ✨ #kling #klingai #toronto"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 12,
+    "kept": 17,
     "against_days": 5
   }
 }

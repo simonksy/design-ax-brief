@@ -1,128 +1,108 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "science",
-  "now_iso": "2026-09-22T22:00:00Z",
+  "now_iso": "2026-09-23T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://phys.org/news/2026-09-ai-companions-erode-social-skills.html",
+      "url": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-22T21:20:04Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lonely-computer-user.jpg",
-      "excerpt": "As AI companions become more commonplace, new research from Singapore Management University (SMU) and Duke-NUS Medical School argues that the real question is no longer whether these technologies are beneficial or harmful, but who benefits, who is most at risk and how society can ensure AI serves everyone equitably.",
-      "title": "AI companions may erode social skills among isolated users, framework suggests",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-22T21:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/quizzical-dog.jpg",
+      "excerpt": "Kaunas University of Technology researchers use machine learning to break animal vocalizations into frequency/time features and infer emotional states; models like Dog2vec, trained on 6,000+ hours of barks, find patterns the human ear misses.",
+      "title": "What is your dog really saying? AI is helping researchers decode animal communication",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html",
+      "url": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-22T19:40:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-quantum-nanostruc.jpg",
-      "excerpt": "Engineers at the University of Wisconsin–Madison have designed a new type of quantum nanostructure that could enable optical neural networks. This emerging technology has the potential to make artificial intelligence systems, like large language models and image generation, faster and significantly more energy efficient.",
-      "title": "Tiny quantum nanostructures could make AI less of an energy hog",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-20T16:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-composite-image-show.jpg",
+      "excerpt": "UC San Diego (Cell) trained the MitoSpace deep-learning model on 40,000 drug-treated 4D lattice light-sheet cell movies to predict cellular health from mitochondrial shape (75% vs 56% for 2D), plus physics-based digital-twin cells that predict drug-induced changes.",
+      "title": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://phys.org/news/2026-09-ai-peptide-bitterness-enables-flavor.html",
+      "url": "https://phys.org/news/2026-09-ai-reveals-nighttime-behaviors-whales.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-22T18:20:03Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/de-novo-design-of-bitt-2.jpg",
-      "excerpt": "During the production of fermented products such as kefir, Parmesan, or mountain cheese, as well as in the production of protein powders, bitter-tasting peptides can form, which impair the taste and thus the acceptability of the products. A research team led by the Leibniz Institute for Food Systems Biology at the Technical University of Munich has now developed and successfully tested an AI-based",
-      "title": "AI model predicts peptide bitterness and enables novel flavor design",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-16T18:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-24.jpg",
+      "excerpt": "Camera tags on 23 North Atlantic right whales trained machine-learning models that recognize feeding with 95% accuracy, revealing a night-time switch to surface feeding that raises ship-strike risk (PLOS ONE).",
+      "title": "AI reveals novel nighttime feeding behaviors in right whales",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-09-23T11:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
+      "excerpt": "University of Michigan study (Computers in Human Behavior Reports): chatbot agreement on personal dilemmas boosts confidence, but when AI disagrees users don't reconsider — they rate the AI as less emotionally capable and less trustworthy.",
+      "title": "When AI disagrees, people change how they perceive the technology—not their original view",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
       "url": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-22T14:20:04Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/argonne-develops-real.jpg",
-      "excerpt": "Just as a clogged kitchen sink can bring household routines to a halt, a blockage in a nuclear reactor's heat exchanger can slow operations and require urgent attention. Researchers at the U.S. Department of Energy's (DOE) Argonne National Laboratory are now using artificial intelligence to spot these hidden clogs early. This approach will help molten-salt-cooled reactors (MSCR) run smoothly and r",
+      "published_iso": "2026-09-22T14:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/argonne-develops-real.jpg",
+      "excerpt": "Argonne National Laboratory pairs explainable-AI algorithms with distributed fiber-optic sensors to detect coolant blockages in molten-salt reactor heat exchangers in real time (Scientific Reports).",
       "title": "Scientists develop real-time AI monitoring for an advanced nuclear reactor component",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://techxplore.com/news/2026-09-ai-women-bad.html",
+      "url": "https://techxplore.com/news/2026-09-stubbornness-problem-ai-agents.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-21T12:20:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-might-be-making-wom.jpg",
-      "excerpt": "When prompts to draft work emails and job applications contain language commonly used by women, AI chatbots, including ChatGPT, offer less sophisticated responses than they do to requests for office correspondence containing language associated with men, new Johns Hopkins University research finds.",
-      "title": "AI might be making women sound bad at work",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-21T12:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-stubbornness-beco.jpg",
+      "excerpt": "CISPA researchers show a single stubborn AI agent can steer collective decisions in multi-agent LLM networks via normal communication, with network topology determining vulnerability (arXiv).",
+      "title": "When stubbornness becomes a security problem: How AI agents can manipulate others",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://techxplore.com/news/2026-09-conscious-method-automated-materials-labs.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-18T17:20:08Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-develops-optimiz.jpg",
-      "excerpt": "A research team from The Hong Kong University of Science and Technology (HKUST) has developed a new modeling and optimization framework that helps researchers design modularized autonomous experimentation (MAE) platforms for new materials by determining the optimal combination of equipment before construction begins, thereby reducing time and cost before the platform is physically built.",
-      "title": "Cost-conscious method helps design automated materials labs before equipment is purchased",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-ai-medical-device-recalls.html",
+      "url": "https://medicalxpress.com/news/2026-09-ai-tool-nears-psychiatrist-accuracy.html",
       "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-22T21:00:04Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2025/medical-device.jpg",
-      "excerpt": "Most medical devices do not enter the market through rigorous safety testing but by being deemed similar enough to something already approved—the \"predicate\" device—through a mechanism known as the FDA's 510(k) pathway. But similar is not a synonym for safe. While the assumption may be that substantial equivalence is a reasonable stand-in for a safety review, some devices cleared with this method ",
-      "title": "AI could cut medical device recalls by nearly a third, study finds",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-17T13:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/psychiatrist-2.jpg",
+      "excerpt": "UTHealth Houston and Yale built a Qwen3-Omni-based system that analyzes patient video (speech, tone, behavior) to perform mental status exams with accuracy comparable to psychiatric teams (npj Mental Health Research).",
+      "title": "AI tool nears psychiatrist-level accuracy",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://medicalxpress.com/news/2026-09-skin-cancer-visible-ai-image.html",
+      "url": "https://medicalxpress.com/news/2026-09-mental-health-chatbots-culturally-sensitive.html",
       "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-22T16:40:12Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/detecting-skin-cancer-1.jpg",
-      "excerpt": "Until now, diagnosing skin tumors has relied on detecting visible changes to the skin, and Line-Field Confocal Optical Coherence Tomography (LC-OCT) is a well-established method used for diagnosis. Now, researchers at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) led by Dr. Moritz Ronicke from the Department of Dermatology at Uniklinikum Erlangen have developed a new approach.",
-      "title": "Detecting skin cancer even before it becomes visible with AI-assisted image recognition",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-21T17:40:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/ai-chatbot-1.jpg",
+      "excerpt": "A Conversation analysis argues approval-based training of LLM mental-health chatbots conflates recognition with agreement, risking 'collusion' with harmful beliefs; safety should be judged on help-seeking outcomes.",
+      "title": "Making mental health chatbots more culturally sensitive won't necessarily make them safer",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://medicalxpress.com/news/2026-09-ai-radiology-problems-abdominal-scans.html",
+      "url": "https://medicalxpress.com/news/2026-09-method-ai-brain-disorder-screening.html",
       "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-22T14:40:07Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-medical-ai-learns.jpg",
-      "excerpt": "An abdominal CT scan packs an extraordinary amount of information into a single image, layering dozens of organs and hundreds of possible conditions. It's widely considered one of the most complex scans in medicine to read, and even expert radiologists need time to carefully untangle what they're looking at. To help ease some of their workload, researchers presented a new AI assistant called RADAR",
-      "title": "AI assistant learns from radiology reports to spot problems in abdominal scans",
-      "date_verified_via": "outlet RSS pubDate (article page fetch blocked by phys.org network bot wall; body AI check pending enrichment)"
+      "published_iso": "2026-09-22T23:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/4d-fmri-crossformer-to.jpg",
+      "excerpt": "Sungkyunkwan University's 4D fMRI CrossFormer, a vision transformer reading spatial and temporal brain activity, screens for ADHD, Alzheimer's and autism with explainable maps of influential regions (IEEE JBHI).",
+      "title": "New method makes AI brain-disorder screening more transparent and computationally efficient",
+      "date_verified_via": "RSS pubDate + article page date (WebFetch)"
     },
     {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
-      "source": "ScienceDaily",
+      "url": "https://www.genengnews.com/topics/drug-discovery/tautomer-predictor-ai-tool-identifies-stable-molecules-for-drug-discovery/",
+      "source": "GEN - Genetic Engineering & Biotechnology News",
       "category": "science",
-      "published_iso": "2026-09-22T00:00:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/mit-flying-microrobot.webp",
-      "excerpt": "A new AI control system lets MIT's tiny flying robot move with insect-like agility, boosting its speed by about 450 percent and allowing it to pull off 10 somersaults in 11 seconds.",
-      "title": "MIT's tiny flying robot gets 450% faster with AI",
-      "date_verified_via": "page date_posted (date only)"
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-09-22T11:00:00Z",
-      "og_image": "https://static.scientificamerican.com/dam/asset/4edea88b-e1e7-47d4-a024-64701af074d7/GettyImages-2262108239-cropped.jpeg?m=1790012229.627&w=1200",
-      "excerpt": "By intertwining human insight with AI scale, mathematicians and amateurs found all 25,000 cases of one inverse Galois problem, collapsing a decades-old mystery posed at an American Institute of Mathematics AI sprint.",
-      "title": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
-      "date_verified_via": "og article:published_time"
-    },
-    {
-      "url": "https://www.livescience.com/technology/electronics/new-lighttok-chip-converts-light-directly-into-tokens-for-ai-slashing-energy-use-in-drones-and-other-autonomous-machines",
-      "source": "Live Science",
-      "category": "science",
-      "published_iso": "2026-09-22T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mfx2fq4qiW9NsqQR3H9Zb9-1920-80.jpg",
-      "excerpt": "Nanjing University's 2D 'LightTok' chip converts raw light directly into tokens that on-chip AI models can process, skipping energy-hungry analog-to-digital steps in vision sensors for drones and autonomous machines.",
-      "title": "New LightTok chip converts light directly into 'tokens' for AI",
-      "date_verified_via": "og article:published_time"
+      "published_iso": "2026-09-23T20:24:04Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2024/04/GettyImages-1464561575.jpg",
+      "excerpt": "NYU's open-source graph neural network, trained on 1.1M tautomeric states, predicts hydrogen positions for 4.6M compounds in hours and flags 126 misassigned ligands in the Protein Data Bank (Chemical Science).",
+      "title": "Tautomer-Predictor AI Tool Identifies Stable Molecules for Drug Discovery",
+      "date_verified_via": "article:published_time"
     },
     {
       "url": "https://physics.aps.org/articles/v19/126",
@@ -130,19 +110,59 @@
       "category": "science",
       "published_iso": "2026-09-11T10:00:00Z",
       "og_image": "https://physics.aps.org/assets/fe9570c8-98b7-480a-851c-95dac90ae2f6/e126_1_thumb.png",
-      "excerpt": "Analyzing ~1200 grandmaster games and 1200 elite AI matches, researchers found grandmasters simplify toward less complex positions faster, while top AI engines sustain strategic tension longer.",
+      "excerpt": "A complexity analysis of games finds grandmasters simplify positions after the opening to cut cognitive load, while chess AIs sustain high strategic tension far longer — and games are decided during the buildup of complexity (APS Open Science).",
       "title": "Chess Reveals Differences Between Human and AI Strategies",
-      "date_verified_via": "citation/meta publication date"
+      "date_verified_via": "RSS pubDate + page date"
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1145035",
-      "source": "EurekAlert! (University of Florida)",
+      "url": "https://allenai.org/blog/autodiscovery-student-challenge",
+      "source": "Ai2",
       "category": "science",
-      "published_iso": "2026-09-22T00:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/69465cde-78bf-43d5-97e7-7d6d4441975a/Rendition/thumbnail/Content/Public",
-      "excerpt": "University of Florida researchers found that simple repeated black-and-white stripe patterns fool stereo-depth algorithms and AI models, making obstacles appear closer or farther than they are to autonomous vehicles and robots.",
-      "title": "Simple visual patterns can trick AI-powered vehicles and robots, UF research finds",
-      "date_verified_via": "release date on page (22-Sep-2026)"
+      "published_iso": "2026-09-14T08:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1789405893-autodiscovery-student-learnings-blog-google-docs-image-1.png",
+      "excerpt": "25 University of Washington materials-science teams used Ai2's AutoDiscovery agent, which proposes hypotheses, runs analyses and ranks findings by Bayesian surprise, surfacing leads while showing human judgment matters more.",
+      "title": "Teaching future scientists to interrogate AI tools for scientific discovery",
+      "date_verified_via": "RSS pubDate"
+    },
+    {
+      "url": "https://allenai.org/blog/olmo-arena",
+      "source": "Ai2",
+      "category": "science",
+      "published_iso": "2026-09-17T08:00:00Z",
+      "og_image": "https://www.datocms-assets.com/64837/1789674806-what-a-crowdsourced-game-revealed-about-steering-olmo-3-testimonial-google-do-image-1.png",
+      "excerpt": "A crowdsourced game built on open model Olmo 3 showed how people exploit unexpected model behaviors to break prosocial AI evaluations, and how open access to internals explains why the tests fail.",
+      "title": "What a crowdsourced game revealed about steering Olmo 3",
+      "date_verified_via": "RSS pubDate"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-09-15T16:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/eafb2579-20fb-4662-ba34-a6593be35e9b/thumbnail/webimage-multicolor-dominoes.jpg?m=1789485995.523&w=1200",
+      "excerpt": "After an OpenAI model presented a possible Navier-Stokes solution, mathematicians speculate which Millennium Prize problem AI might crack next.",
+      "title": "Which million-dollar math problem could AI solve next?",
+      "date_verified_via": "article:published_time"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-09-17T10:00:00Z",
+      "og_image": "https://static.scientificamerican.com/dam/asset/38df2ebc-b993-4517-adba-fee8699badfb/AGI-brain.jpg?m=1789581751.575&w=1200",
+      "excerpt": "Artificial general intelligence was once confined to technical papers; SciAm examines how the term's meaning has slipped as labs claim it is near.",
+      "title": "AI labs are claiming “AGI” is imminent—but does that mean what we think it means?",
+      "date_verified_via": "article:published_time"
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/what-can-humans-do-that-ai-cant",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-09-23T15:19:13Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-09/marc-schulte-kjcyvla_aaq-unsplash.jpg?itok=G3wRIqn0",
+      "excerpt": "A psychology blog argues humans possess 'story intelligence' that LLMs cannot match. (Opinion/blog.)",
+      "title": "What Can Humans Do That AI Can’t?",
+      "date_verified_via": "article:published_time"
     },
     {
       "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
@@ -150,19 +170,19 @@
       "category": "science",
       "published_iso": "2026-09-22T10:00:22Z",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/2026-09-banks-laptop-keyboard-featured-2216731334-istock-martin-philip.jpg",
-      "excerpt": "Generative AI has given papermills a powerful tool to mass-produce fake papers and images, especially in microscopy; publishers are responding with AI-driven detection and integrity checks.",
+      "excerpt": "Generative AI has supercharged papermills; publishers are deploying detection tools and new integrity checks to fight fabricated research.",
       "title": "How scientific publishers are fighting back against fraudulent papermills",
-      "date_verified_via": "og article:published_time"
+      "date_verified_via": "article:published_time"
     },
     {
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-      "source": "Google Research",
+      "url": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-09-17T20:45:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
-      "excerpt": "Google Research shows teachers using generative UI to build custom interactive learning exercises from prompts, studying how generative interfaces change practice-based learning.",
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "date_verified_via": "outlet RSS pubDate"
+      "published_iso": "2026-09-23T08:13:17Z",
+      "og_image": null,
+      "excerpt": "UW–Madison engineers designed a theoretical quantum-emitter nanostructure that supplies the nonlinear operations needed for energy-efficient optical neural networks.",
+      "title": "Tiny Quantum Nanostructures Could Make AI Less of an Energy Hog",
+      "date_verified_via": "article:published_time"
     }
   ]
 }

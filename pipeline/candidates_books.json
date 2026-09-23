@@ -1,87 +1,183 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "books",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-22T09:30:36+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/10/iStock-478438526.jpg",
-      "excerpt": "Generative AI has made language tools ubiquitous for multilingual researchers, but it introduces risks of homogenized texts and semantic slippage — and suspicion from journals either way.",
-      "category": "books"
+      "url": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-09-23T15:44:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+      "excerpt": "Canadian-Haitian author Thélyson Orélien is accused of using AI to write most of his award-winning debut novel C’était ça ou mourir; his Canadian and French publishers are standing by him."
     },
     {
-      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-      "source": "WIRED",
-      "published_iso": "2026-09-22T09:00:00Z",
-      "og_image": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
-      "excerpt": "Researchers developed Apollo, a large language model that fills in the gaps in damaged ancient Greek papyrus fragments to help read and translate tattered historical texts.",
-      "category": "books"
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-09-23T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131457-1.PNG",
+      "excerpt": "Singapore startup Novvel.co says its AI-assisted platform can halve graphic-novel adaptation production time and cost, with human artists still in the driver's seat."
+    },
+    {
+      "url": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-09-23T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "SCBWI's updated AI policy bans generative AI anywhere in the creative process, including brainstorming and editing passes — one of the strictest policies in children's publishing."
+    },
+    {
+      "url": "https://janefriedman.com/in-depth-look-at-pangram-by-a-literary-novelist/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-09-23T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Novelist Vauhini Vara ran her own informal tests of the AI-text detector Pangram and could not trick it."
+    },
+    {
+      "url": "https://janefriedman.com/anthropic-settlement-increases-time-to-handle-disputes/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-09-23T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Given widespread errors in Anthropic settlement claims, rights holders now get 60 days instead of 30 to submit supporting information."
+    },
+    {
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-09-23T09:30:35Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/foxhedgehog.jpg",
+      "excerpt": "Some readers are foxes and some are hedgehogs — what kind of reader is AI, and how will machine reading reshape science and journal publishing?"
+    },
+    {
+      "url": "https://www.infodocket.com/2026/09/23/from-card-catalogs-to-chatbots-envisioning-academic-library-services-in-the-era-of-ai-and-llms-open-access-new-journal-article/",
+      "source": "infoDOCKET",
+      "category": "books",
+      "published_iso": "2026-09-23T16:15:30Z",
+      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-23_12-05-34.png",
+      "excerpt": "A Purdue open-access paper in the Journal of Documentation envisions how academic library services change in the era of AI and LLM chatbots."
     },
     {
       "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
-      "source": "Library Journal infoDOCKET",
-      "published_iso": "2026-09-16T18:05:34+00:00",
+      "source": "infoDOCKET",
+      "category": "books",
+      "published_iso": "2026-09-16T18:05:34Z",
       "og_image": "",
-      "excerpt": "A Stanford team's Nature paper introduces Paper2Agent, an automated framework that converts research papers into interactive AI agents, turning static publications into active systems readers can query.",
-      "category": "books"
+      "excerpt": "A Stanford team in Nature proposes turning research papers into interactive, reliable AI agents that readers can query — and that can talk to each other."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/14/ask-the-chefs-peer-review-capacity-uncomfortable-truths-and-overlooked-conversations/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-14T09:30:46+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2024/09/prwlogorectangle.jpg",
-      "excerpt": "For Peer Review Week 2026 the Chefs name uncomfortable truths about review capacity, with AI writing assistants swelling submissions and reviewers quietly using AI despite few journal policies.",
-      "category": "books"
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch",
+      "category": "books",
+      "published_iso": "2026-09-20T18:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+      "excerpt": "ScrollEd uses AI to turn textbooks into a scrollable, short-form feed of video, audio and quizzes."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-11T09:30:55+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/oroubouros.jpg",
-      "excerpt": "A guest post argues scholarly publishing debates AI governance on stage while staff quietly use AI to get work done, and asks what incentive structures keep the industry from adapting.",
-      "category": "books"
+      "url": "https://yle.fi/a/74-20247235",
+      "source": "Yle",
+      "category": "books",
+      "published_iso": "2026-09-23T15:34:55Z",
+      "og_image": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
+      "excerpt": "Storytel rolled out AI-generated audiobook recaps in Finland; author Suvi Auvinen found AI summaries of her book without being directly notified (publishers could opt out)."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131537-1.PNG",
-      "excerpt": "Audio and AI lead Frankfurt 2026's program, including an 'AI Narration Beyond the Lab' debate with Storytel, Blinkist and Hörbuch Hamburg on where synthetic narration works and listener acceptance.",
-      "category": "books"
+      "url": "https://www.mt.co.kr/tech/2026/09/22/2026092214054459193",
+      "source": "머니투데이",
+      "category": "books",
+      "published_iso": "2026-09-22T05:57:05Z",
+      "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1821,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092214054459193_1.jpg",
+      "excerpt": "리디 등 웹소설 플랫폼에 AI로 복붙 생산한 웹소설이 대량 유입되며 'AI 쌀먹' 문제로 플랫폼이 골머리를 앓고 있다."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101287-frankfurt-book-fair-2026-what-s-hot-according-to-agents.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131536-1.PNG",
-      "excerpt": "Agents heading to Frankfurt expect AI to hover over the rights center after high-profile cancellations of novels suspected of being AI-generated, with greater scrutiny of provenance and authorship.",
-      "category": "books"
+      "url": "https://www.yna.co.kr/view/AKR20260919033900005",
+      "source": "연합뉴스",
+      "category": "books",
+      "published_iso": "2026-09-19T03:15:29Z",
+      "og_image": "",
+      "excerpt": "웹툰 산업이 AI 기술과 만나 '보는 웹툰'에서 캐릭터챗 등 '노는 웹툰'으로 생태계를 넓히고 있다."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101283-bisg-50-convenes-industry-leaders-for-supply-chain-symposium.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131525-1.JPG",
-      "excerpt": "At BISG's 50th-anniversary forum, executives including Rakuten Kobo discussed how AI-driven data checking and cleaning could fix book metadata and whether publishers should feed retailers data AI can consume.",
-      "category": "books"
+      "url": "https://www.etnews.com/20260922000490",
+      "source": "전자신문",
+      "category": "books",
+      "published_iso": "2026-09-22T08:34:36Z",
+      "og_image": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.a81bb6dd9c1b489896bd1871866eb7da_P1.png",
+      "excerpt": "사운드그랩·보이스그랩이 AI 보이스와 시네마급 음향을 결합한 '하이브리드 시네마 오디오북' 솔루션을 출시했다."
     },
     {
-      "url": "https://www.infodocket.com/2026/09/10/disclosing-ai-use-in-academic-research-a-new-global-study-from-oxford-university-press/",
-      "source": "Library Journal infoDOCKET",
-      "published_iso": "2026-09-10T10:11:10+00:00",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-10_05-43-29.png",
-      "excerpt": "Oxford University Press updated author and editor guidelines with a policy on what AI use must be disclosed in manuscripts, alongside a survey of 2,600+ researchers on AI disclosure.",
-      "category": "books"
+      "url": "https://www.mk.co.kr/news/society/12152749",
+      "source": "매일경제",
+      "category": "books",
+      "published_iso": "2026-09-15T00:00:00Z",
+      "og_image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.3fbdb830d88b43899ae87db1e7d27682_R.png",
+      "excerpt": "스위트북이 AI 동화책 플랫폼 'AI스토리교실'을 대화형 창작 방식과 표지·삽화 일관성 강화로 전면 개편했다."
     },
     {
-      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/",
-      "source": "Library Journal infoDOCKET",
-      "published_iso": "2026-09-09T09:27:20+00:00",
-      "og_image": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-09_05-15-06-1.png",
-      "excerpt": "Clarivate's Pulse of the Library 2026 finds a widening gap between libraries actively implementing AI and those still experimenting; 16% globally report moderate-to-active AI implementation.",
-      "category": "books"
+      "url": "https://www.newspim.com/news/view/20260915000118",
+      "source": "뉴스핌",
+      "category": "books",
+      "published_iso": "2026-09-14T23:33:00Z",
+      "og_image": "",
+      "excerpt": "생성형 AI가 집필·번역·교정·표지·오디오북까지 쓰이는 지금, 'AI 사용 표시'의 법적 공백을 출판문화산업진흥법이 메워야 한다는 기고."
+    },
+    {
+      "url": "https://www.standardmedia.co.ke/education/article/2001558368/publishers-sound-alarm-over-ai-generated-textbooks",
+      "source": "The Standard (Kenya)",
+      "category": "books",
+      "published_iso": "2026-09-22T11:00:00Z",
+      "og_image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/d8UfxHh7UAF3aj9kyHetJaIhNIBrWsKxbS8M5PgV.jpg",
+      "excerpt": "Kenyan publishers say they increasingly encounter textbook authors relying on AI tools to generate content, raising quality and approval concerns."
+    },
+    {
+      "url": "https://retractionwatch.com/2026/09/21/misconduct-case-dropped-against-ai-expert-after-claims-of-ai-use-in-recent-book/",
+      "source": "Retraction Watch",
+      "category": "books",
+      "published_iso": "2026-09-21T10:00:00Z",
+      "og_image": "https://retractionwatch.com/wp-content/uploads/2026/09/AI-Paradox-Virginia-Dignum_social.png",
+      "excerpt": "Sweden's research-misconduct board dismissed a case against AI ethicist Virginia Dignum after allegations her book The AI Paradox contained AI-hallucinated references."
+    },
+    {
+      "url": "https://www.samoaobserver.ws/category/samoa/122113",
+      "source": "Samoa Observer",
+      "category": "books",
+      "published_iso": "2026-09-19T23:00:00Z",
+      "og_image": "https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/0710f960488b9677d30924ba66ab4a6d.jpg",
+      "excerpt": "A series of books on traditional tattoo practices faces criticism over allegations they were AI-generated and contain inaccurate cultural information."
+    },
+    {
+      "url": "https://fortune.com/2026/09/14/ai-slop-books-amazon-marketplace-publishing-human-authors/",
+      "source": "Fortune",
+      "category": "books",
+      "published_iso": "2026-09-14T07:00:00Z",
+      "og_image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2293728491-e1789160429106.jpg?resize=1200,600",
+      "excerpt": "A study found thousands of AI-written self-published books flooding Amazon, squeezing human authors' income."
+    },
+    {
+      "url": "https://finance.yahoo.com/media-advertising/articles/storiad-bitta-ai-partner-turn-170000285.html",
+      "source": "Storiad (PR Newswire)",
+      "category": "books",
+      "published_iso": "2026-09-14T17:00:00Z",
+      "og_image": "https://s.yimg.com/lo/mysterio/api/ab1875b5c504df6868ed70b21a97798968a9eca8f1169186b97c1b2fdcff2d9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fprnewswire.com%2Fb683283891f3911532ac134d47619f38.png",
+      "excerpt": "Author marketing platform Storiad partners with Bitta AI to turn books into interactive AI marketing and sales assets."
+    },
+    {
+      "url": "https://bookriot.com/novels-about-ai/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-09-21T09:00:00Z",
+      "og_image": "https://bookriot.com/wp-content/uploads/2020/10/robot-ai-science-fiction-feature-700x375-1.jpg.optimal.jpg",
+      "excerpt": "Libbie Grant, author of The Ended World, recommends three novels about humanity's relationship with thinking machines."
+    },
+    {
+      "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-09-15T09:07:01Z",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/longform-banner.png",
+      "excerpt": "An author of Against Convenience weighs which conveniences she allowed herself while writing — and why generative AI wasn't one of them."
     }
   ]
 }

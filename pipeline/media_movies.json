@@ -1,33 +1,34 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "movies",
   "media": [
     {
-      "id": "movies-third-hand",
-      "type": "image",
-      "src": "pipeline/media/movies-third-hand.png"
-    },
-    {
-      "id": "movies-seedance25",
+      "id": "movies-runway-resolve",
       "type": "video",
-      "src": "pipeline/media/movies-seedance25.mp4",
-      "poster": "pipeline/media/movies-seedance25.jpg"
+      "src": "pipeline/media/movies-runway-resolve.mp4",
+      "poster": "pipeline/media/movies-runway-resolve.jpg"
     },
     {
-      "id": "movies-duncan-jones",
+      "id": "movies-youtube-ai-creator-tools",
       "type": "image",
-      "src": "pipeline/media/movies-duncan-jones.jpg"
+      "src": "pipeline/media/movies-youtube-ai-creator-tools.jpg"
     },
     {
-      "id": "movies-captionx-clips",
-      "type": "image",
-      "src": "pipeline/media/movies-captionx-clips.jpg"
-    },
-    {
-      "id": "movies-camera-angles",
+      "id": "movies-curious-refuge-greybox",
       "type": "video",
-      "src": "pipeline/media/movies-camera-angles.mp4",
-      "poster": "pipeline/media/movies-camera-angles.jpg"
+      "src": "pipeline/media/movies-curious-refuge-greybox.mp4",
+      "poster": "pipeline/media/movies-curious-refuge-greybox.jpg"
+    },
+    {
+      "id": "movies-jack-thorne-ai-cheat",
+      "type": "image",
+      "src": "pipeline/media/movies-jack-thorne-ai-cheat.jpg"
+    },
+    {
+      "id": "movies-google-vids-gemini-omni",
+      "type": "video",
+      "src": "pipeline/media/movies-google-vids-gemini-omni.mp4",
+      "poster": "pipeline/media/movies-google-vids-gemini-omni.jpg"
     }
   ]
 }

@@ -1,84 +1,92 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "section": "movies",
   "generated_by": "ax-curator",
-  "selection_notes": "User deferred, so the curator picked. Deduped against news_data.json sections.movies (today 09-22 plus days 09-15/17/18/19/20) by URL and content. No pool item matches a published URL. Within-pool duplicate dropped: the Deadline San Sebastian day-one recap covers the same Maraval 'eight shooting days' claim as the Variety piece, so Variety was kept. Deprioritized: fxguide splat-lighting video (same source and adjacent topic as the fxguide 2D-world tracking short published 09-22, likely from the same talk); Insta360 X6 (the body describes 3DGS, not AI); Deadline MIPCOM (generic AI business programming); Variety Busan market (festival programming preview, follow-up to an earlier InnoAsia story); Robin Williams (repeat of an earlier likeness plea); THR microdramas (09-15, older, discourse only). Diversity guard: 5 distinct outlets, max 1 per outlet, axes spread across ai-in-production / video-model-tools / filmmaker-stance / post-tools / ai-filmmaking-workflow.",
+  "selection_notes": "User deferred, so the curator picked. Deduped against news_data.json sections.movies and published_urls.json movies by URL and content. No pool URL matches a published URL. Content duplicates dropped: Variety Busan market genAI/InnoAsia (same InnoAsia story published 08-27 and 09-06), Kling AI 'Live from Toronto: TIFF The Market' (same event as the Variety Kling TIFF panel published 09-14), RedShark Adobe completes Topaz (follow-up to the acquisition published 07-01/07-10; business news). Deprioritized: Variety Wonka Golden Ticket review (AI Gene Wilder was already covered by THR on 08-28), Variety Robin Williams AI videos (repeats an earlier likeness plea published 08-19), Deadline lawyers panel (legal discussion), Utopai hiring (staffing news about a studio covered before), Runway DIFFUSE (talent marketplace), Evoto 8.0 (mostly photo retouching plus a marketplace), and the older Runway character workflow and Curious Refuge Astra videos (the per-outlet cap was already filled). Diversity guard: 5 distinct outlets, max 1 per outlet, axes spread across post-tools / creator-tools / hybrid-vfx-workflow / screenwriting / generative-video-model.",
   "picks": [
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "axis": "ai-in-production",
-      "headline": "Goodfellas' Vincent Maraval Says Michel Hazanavicius Cut Eight Days of Production on 'The Third Hand' by Using AI",
-      "url": "https://variety.com/2026/film/global/goodfellas-michel-hazanavicius-the-third-hand-ai-1236871835/",
-      "source": "Variety",
-      "published_iso": "2026-09-22T11:05:45Z",
-      "excerpt": "At San Sebastian's Creative Investors' Conference, Goodfellas CEO Vincent Maraval said AI turned a ten-day shoot for a major WWI scene in Hazanavicius' 'The Third Hand' into two days, arguing AI can expand filmmakers' creativity.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-20-1.png?w=1000&h=563&crop=1",
-      "rationale": "A concrete, attributed production number from an Oscar-winning director's film: a ten-day WWI scene shot in two days. It gives producers a real budget-and-schedule benchmark."
+      "axis": "post-tools",
+      "headline": "Runway is now in DaVinci Resolve | Runway",
+      "url": "https://www.youtube.com/watch?v=hcAMFjvwduI",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-09-23T20:10:32Z",
+      "excerpt": "Get started: Access the world's best models directly inside your timeline to generate, edit and upscale without leaving your project. Get started at the link in bio.",
+      "og_image": "https://i.ytimg.com/vi/hcAMFjvwduI/maxresdefault.jpg",
+      "rationale": "Runway's models now run inside the Resolve timeline for generating, editing and upscaling. Editors can use generative video without leaving their NLE, starting today."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "axis": "video-model-tools",
-      "headline": "Seedance 2.5 Just Got a Load of Awesome New Features!",
-      "url": "https://www.youtube.com/watch?v=ky9Gj5N3wyQ",
-      "source": "Theoretically Media",
-      "published_iso": "2026-09-21T22:04:40Z",
-      "excerpt": "Dreamina's Seedance 2.5 canvas overhaul adds an AI agent that plans and organizes a shoot, an Elements library that carries characters and voices across prompts, new Skills, and MiniMax H3, GPT Image 2 and Nano Banana Pro inside the canvas.",
-      "og_image": "https://i.ytimg.com/vi/ky9Gj5N3wyQ/maxresdefault.jpg",
-      "rationale": "A shipped update to one of the most-used video models. The Elements library keeps characters and voices consistent across prompts, which fixes the continuity problem creators run into every day."
+      "axis": "dubbing-creator-tools",
+      "headline": "YouTube is building AI creator tools that do almost everything for them",
+      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "source": "The Verge",
+      "published_iso": "2026-09-23T14:30:00Z",
+      "excerpt": "The future of creating on YouTube looks like a lot of AI",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+      "rationale": "Made on YouTube brings AI thumbnails, tests and catalog tools to the largest video platform. Every video creator's publishing workflow will change as a result."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "axis": "filmmaker-stance",
-      "headline": "Duncan Jones on Why It's 'Harder Than Ever' to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)",
-      "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
-      "source": "IndieWire",
-      "published_iso": "2026-09-20T17:11:43Z",
-      "excerpt": "The 'Moon' director explains how his decade-long animated 'Rogue Trooper' adaptation got made and why he refused to use generative AI as a shortcut in its animation pipeline.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650",
-      "rationale": "The opposite call to the Hazanavicius pick: a working director explains why he kept generative AI out of an animation pipeline where it would have been the cheaper option."
+      "axis": "hybrid-vfx-workflow",
+      "headline": "This Is Where Filmmaking Is Headed Next (Full Tutorial)",
+      "url": "https://www.youtube.com/watch?v=HVeHHAfiR44",
+      "source": "Curious Refuge (YouTube)",
+      "published_iso": "2026-09-22T23:09:44Z",
+      "excerpt": "In this video, we tested a hybrid filmmaking workflow that combines live-action footage with AI to transform simple greybox shots into entirely new environments. Check out the full written breakdown and prompts here: Check out our courses: And our latest Micro-drama course: Get AI Film News Sent to ",
+      "og_image": "https://i.ytimg.com/vi/HVeHHAfiR44/maxresdefault.jpg",
+      "rationale": "A hands-on hybrid workflow that turns greybox live-action shots into finished environments with AI, with prompts included. Small crews can copy the method directly."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "axis": "post-tools",
-      "headline": "CaptionX Clips for Turning Long Videos Into Shorts",
-      "url": "https://postperspective.com/captionx-clips-for-turning-long-videos-into-shorts/",
-      "source": "postPerspective",
-      "published_iso": "2026-09-22T20:57:54Z",
-      "excerpt": "AI captioning maker CaptionX launched Clips, which analyzes a long video or podcast and returns ranked, self-contained short moments ready to publish.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/CaptionX-UI_Workstation.jpg",
-      "rationale": "A new post tool that editors can try today. It automates cutting long footage down to ranked short clips, which is the social-deliverables work every post house now owes."
+      "axis": "screenwriting",
+      "headline": "'Adolescence' Scribe Jack Thorne Warns: Writers Using AI To \"Cheat\"",
+      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "source": "Deadline",
+      "published_iso": "2026-09-14T08:51:03Z",
+      "excerpt": "'Adolescence' writer Jack Thorne has warned that his colleagues are using AI to \"cheat.\" He added that those caught should be punished.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg?w=1024",
+      "rationale": "A leading screenwriter says colleagues are secretly using AI and should be punished when caught. It is a signal of where writers'-room norms and disclosure expectations are heading."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "axis": "ai-filmmaking-workflow",
-      "headline": "Camera Angles Are Becoming a Thing of the Past",
-      "url": "https://www.youtube.com/watch?v=6QC6nOotxrU",
-      "source": "Curious Refuge",
-      "published_iso": "2026-09-19T00:34:02Z",
-      "excerpt": "Curious Refuge tests three AI methods for generating new camera angles from existing shots, with a written breakdown and prompts.",
-      "og_image": "https://i.ytimg.com/vi/6QC6nOotxrU/maxresdefault.jpg",
-      "rationale": "A hands-on test of three ways to make coverage in post, with the prompts included. It shows how far one good take can stretch before a reshoot is needed."
+      "axis": "generative-video-model",
+      "headline": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "source": "Google Blog",
+      "published_iso": "2026-09-23T19:00:00Z",
+      "excerpt": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.width-1300.png",
+      "rationale": "Google puts its Gemini Omni video model in a free browser tool for anyone with a Google account. That lowers the cost of HD generative video to zero for previz and pitch material."
     }
   ],
   "dropped": [
     {
-      "url": "https://deadline.com/2026/09/san-sebastian-creative-investors-conference-day-on-brazil-1237110107/",
-      "reason": "within-pool duplicate: same Maraval / 'The Third Hand' eight-shooting-days story as the Variety pick; kept Variety"
+      "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
+      "reason": "content duplicate: Busan ACFM InnoAsia genAI program already published (variety google-deepmind-amazon-web-services-busan-market-innoasia, 08-27 / 09-06)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B0uQcIDBr9Y",
+      "reason": "content duplicate: Kling AI at TIFF The Market already published via Variety kling-ai-tiff-market-ai-film-panel (09-14)"
+    },
+    {
+      "url": "https://www.redsharknews.com/adobe-completes-topaz-labs-acquisition",
+      "reason": "follow-up to the Adobe-Topaz acquisition already published (postperspective 07-01, redsharknews 07-10); business news"
     }
   ]
 }
