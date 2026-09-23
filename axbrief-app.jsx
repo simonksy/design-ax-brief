@@ -1399,6 +1399,18 @@ function InsightsView({ t, mobile, entitled }) {
   const [failed, setFailed] = useState(false);
   const [sel, setSel] = useState(null);        // 선택된 노드 id
   const [, bump] = useState(0);                // D 채운 뒤 패널 리렌더용
+  // 카드 칸은 히어로 원본(480×760)을 통째로 스케일해서 넣는다 — 타이포·줄바꿈이
+  // 본 사이트와 동일해져 긴 제목에도 Read 버튼이 잘리지 않는다.
+  const cardBoxRef = useRef();
+  const [cardScale, setCardScale] = useState(INSIGHTS_CARD_W / 480);
+  useEffect(() => {
+    const box = cardBoxRef.current; if (!box) return;
+    const upd = () => setCardScale((box.clientWidth || INSIGHTS_CARD_W) / 480);
+    upd();
+    const ro = new ResizeObserver(upd);
+    ro.observe(box);
+    return () => ro.disconnect();
+  }, []);
   const searchRef = useRef(null);              // 검색 매치 id Set (null = 검색 꺼짐)
   const hiddenRef = useRef(new Set());         // 범례에서 끈 카테고리(섹션) — accessor가 읽는다
   const [hiddenSecs, setHiddenSecs] = useState(() => new Set());
@@ -2062,12 +2074,16 @@ function InsightsView({ t, mobile, entitled }) {
       </div>
       {/* 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
       <div style={{ width: mobile ? '100%' : INSIGHTS_CARD_W, flex: 'none' }}>
-        <div style={{ aspectRatio: '480 / 760', position: 'relative',
+        <div ref={cardBoxRef} style={{ aspectRatio: '480 / 760', position: 'relative',
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
           background: solid, overflow: 'clip' }}>
           {card ? (
-            <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
-              t={t} mobile={false} section={selNode.section} entitled={entitled} />
+            <div style={{ position: 'absolute', inset: 0, overflow: 'hidden' }}>
+              <div style={{ width: 480, height: 760, transform: `scale(${cardScale})`, transformOrigin: 'top left' }}>
+                <FlipCard key={sel} item={toItem(card)} index={0} total={1} active={true}
+                  t={t} mobile={false} section={selNode.section} entitled={entitled} />
+              </div>
+            </div>
           ) : (
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column',
               alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
