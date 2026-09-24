@@ -1,274 +1,235 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-snapdragon-sound-elite2",
+      "id": "gadgets-gemini-live-avatar-face",
       "eyebrow": "AI NEWS",
-      "headline": "퀄컴, 카메라 달린 이어폰까지\n겨냥한 AI 오디오 칩",
-      "body": "퀄컴이 AI 히어러블용 오디오 칩을 내놨다. 카메라 달린 이어폰도 염두에 뒀다.",
-      "mini_headline": "퀄컴 AI 오디오 칩",
+      "headline": "Gemini 3.8 Live에\n입 모양 맞춰 말하는 얼굴이 생겼다",
+      "body": "기업용 Gemini 3.8 Live에 얼굴 아바타가 붙어 97개 언어로 말한다.",
+      "mini_headline": "얼굴 생긴 Gemini",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "accent": "#ff5a4d",
       "motif": "headset",
+      "published_iso": "2026-09-24T19:59:26+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628",
-            "cap": "퀄컴 스냅드래곤 사운드 엘리트 2세대"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
+            "cap": "Live Avatar는 입 모양을 맞추고 여러 표정을 짓는다."
           },
           {
             "t": "p",
-            "x": "퀄컴이 스냅드래곤 사운드 엘리트 2세대를 발표했다. 앞으로 나올 오디오 기기용 칩셋인데, 오디오 웨어러블의 AI 성능을 끌어올리는 데 무게를 크게 실었다."
+            "x": "구글이 Gemini 3.8 Live를 업데이트하면서, 애니메이션 AI 페르소나가 실시간으로 대답하는 모습을 보며 대화할 수 있게 했다. 이 \"Live Avatar\"는 대화 중에 입 모양을 맞추고 표정도 바꾼다. 다만 지금은 Gemini Enterprise 고객만 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "이 SoC는 퀄컴이 보도자료에서 '히어러블'이라 부르는 오디오 웨어러블 전용으로 설계됐다. 퀄컴은 단순한 음질 경쟁을 넘어 오디오 칩셋이 할 수 있는 일을 넓히려 한다. 카메라 달린 이어폰에 이 칩이 들어가면 주변 상황을 알아보는 이미지 인식까지 맡는 식이다."
+            "x": "구글에 따르면 Live Avatar는 지원하는 97개 언어 사이를 \"영상 품질을 떨어뜨리거나 화면이 흐트러지는 일 없이\" 넘나든다. 구글이 공개한 영상 속 아바타는 영어와 일본어를 번갈아 말하는데, 두 언어 모두 입 모양이 말과 맞아떨어졌다. 말하는 도중 화면에 정보를 띄우기도 한다."
           },
           {
             "t": "p",
-            "x": "성능만 보면 온디바이스 AI 성능이 최대 2배로 늘었고, 전력 소모는 최대 40% 줄었다. 로컬 모델과 온라인 모델을 함께 쓰는 AI 웨어러블도 충전을 덜 자주 해도 된다. 대표적인 예가 안드로이드 XR 기기다. 제미나이가 기기 안에 머물면서 실제 주변 정보를 모아야 하니까."
-          },
-          {
-            "t": "p",
-            "x": "와이파이 6E도 지원한다. 제조사는 기기 자체 AI와 클라우드 AI 가운데 원하는 쪽을 내세울 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "오디오 칩셋의 기본기도 놓지 않았다. aptX와 XPAN 연결로 음질과 블루투스 도달 거리를 끌어올렸고, AI 성능은 퀄컴 5세대 프로토콜 기반 노이즈 캔슬링(ANC)을 다듬는 데도 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-1.jpg?quality=82&strip=all",
-            "cap": "스냅드래곤 사운드 엘리트 2세대 소개 이미지"
-          },
-          {
-            "t": "p",
-            "x": "퀄컴은 이 칩이 들어갈 만한 기기도 몇 가지 꼽았다. 일반 이어폰과 헤드폰은 물론 \"오픈형 하이브리드 오디오, 카메라 탑재 기기, 오디오 안경, 앞으로 나올 멀티모달 웨어러블\"까지다."
-          },
-          {
-            "t": "p",
-            "x": "이 칩을 쓸 구체적인 신제품은 아직 밝히지 않았다. 다만 대기업들의 안드로이드 XR 기기가 줄줄이 나올 예정이라, 실제 제품에 들어가는 날도 머지않아 보인다."
+            "x": "Live Avatar는 구글이 새 Gemini 3.8 Live 모델을 공개하고 일주일쯤 뒤에 나왔다. 구글은 이 모델이 \"시각 입력을 거의 실시간으로 처리한다\"고 설명한다. 고객은 구글이 마련한 기본 아바타 가운데 하나를 고를 수도, 조직이 직접 아바타를 만들 수도 있다. 구글은 Live Avatar 결과물에 눈에 보이지 않는 SynthID 워터마크를 넣고 \"신원을 존중하는\" 안전장치도 함께 둔다고 밝혔다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-meta-muse-glasses",
+      "id": "gadgets-muse-charm-keychain",
       "eyebrow": "AI NEWS",
-      "headline": "메타, 스마트 안경에\nAI 에이전트 뮤즈 시험 중",
-      "body": "유출 화면을 보면 메타는 안경 속 뮤즈에게 길 안내와 운동 기록까지 맡길 생각이다.",
-      "mini_headline": "안경으로 온 뮤즈",
+      "headline": "메타, AI 비서를\n열쇠고리에 담다",
+      "body": "메타가 열쇠고리 크기의 AI 기기 Muse Charm을 12월에 내놓는다.",
+      "mini_headline": "열쇠고리 AI 비서",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
       "accent": "#0070f3",
       "motif": "headset",
+      "published_iso": "2026-09-24T14:03:38+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/04/Ray-Ban-Meta-glasses-Skyler-Shiny-Chalky-Gray-with-Transitions-Sapphire-lenses-scaled.jpg",
-            "cap": "레이밴 메타 스마트 안경"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
+            "cap": "메타는 열쇠고리 크기의 Muse Charm을 12월에 출시한다."
           },
           {
             "t": "p",
-            "x": "메타가 새 AI 에이전트 뮤즈를 스마트 안경의 두뇌로 삼을 준비를 하고 있다. 기존 메타 AI 자리에 훨씬 자율적인 비서가 들어설 수 있다."
+            "x": "마크 저커버그가 메타의 개인 AI 에이전트 Muse를 자신이 그리는 AI 비전의 \"중심\"이라고 불렀다. 그리고 이 비서를 담은 손에 쥐는 AI \"참(charm)\" 기기를 공개했다."
           },
           {
             "t": "p",
-            "x": "유명 리버스 엔지니어 제인 만춘 웡은 메타가 뮤즈를 스마트 안경 기본 비서로 지정하는 옵션을 시험 중이라고 X에 공개했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Jane-Manchun-Wong-Muse-could-become-your-glasses-assistant.jpeg",
-            "cap": "제인 만춘 웡이 공개한 뮤즈 안경 비서 설정 화면"
+            "x": "무대는 실리콘밸리 본사에서 열린 연례 행사 Connect였다. Muse Charm은 열쇠고리에 다는 작은 펜던트 모양이고, 지문 센서로 켠다. 화면에 Muse 아바타가 뜨고 실시간 음성 대화도 된다. 출시는 12월이다. 저커버그는 \"안경을 쓰지 않았다면 Muse와 이야기하고 주변을 보여 주는 가장 빠른 방법\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "유출된 설정 화면 제목은 \"Impacc을 안경 비서로 켜시겠어요?\"다. Impacc은 뮤즈의 내부 코드명으로 보인다. 화면에는 뮤즈가 베타이고 언제든 메타 AI로 되돌릴 수 있다는 안내가 붙어 있다. 흥미롭게도 베타에서 아직 못 쓰는 기능을 따로 적어 뒀는데, 라이브 AI, 길 안내, 샤잠 음악 인식, 스트라바, 헬스 커넥트 연동이다. 앞으로 나올 기능을 메타가 먼저 보여 준 셈이다."
+            "x": "Muse는 2주 전 출시된 뒤 미국 애플·안드로이드 앱스토어에서 가장 많이 내려받은 앱이 됐다. 장보기, 여행 예약, 재무 정리 같은 일상 업무를 자율 봇 여러 개가 대신 처리한다. 저커버그는 이날 실시간 대화 기능도 공개하며 \"최고 수준의 프라이버시와 보안\"을 갖췄다고 강조했다. 무료 요금제를 두고, 길게 보면 거래에서 작은 수수료를 떼어 수익을 낸다는 계획이다."
           },
           {
             "t": "p",
-            "x": "턴바이턴 길 안내와 운동 기록이 붙으면 메타 안경은 말만 주고받는 수동적 액세서리에서 벗어난다. 스마트폰처럼 손 안 대고 일을 처리해 주는 기기가 된다. 스트라바로 달리기를 기록하거나, 목소리만으로 집까지 길 안내를 받을 수도 있다."
+            "x": "메타 주가는 지난해 9월부터 올해 8월 초까지 4분의 1 넘게 빠졌다가, 9월 8일 Muse 출시 뒤 반등해 시가총액이 3000억 달러 늘었다."
           },
           {
             "t": "p",
-            "x": "웡이 X에 올린 또 다른 유출 자료에는 '메타 페이 포 뮤즈'도 있었다. 메타 페이와 스트라이프 링크, 숍 페이를 지원하는 뮤즈 전용 지갑 화면이다. 에이전트가 사용자 대신 실제 결제를 안전하게 처리하도록 만든 것으로 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Jane-Manchun-Wong-Meta-Pay-for-Muse.jpeg",
-            "cap": "웡이 공개한 '메타 페이 포 뮤즈' 화면"
+            "x": "안경 소식도 있었다. 카메라 없이 음성으로만 쓰는 Ray-Ban 제품과 새 프레임, 더 싼 라인업이 나왔고, 내년 봄에는 Quest 3보다 다섯 배 가벼운 1300달러짜리 VR 안경이 출시된다. Muse도 곧 안경에 들어간다. 안경을 쓴 채 영상통화를 하면 초사실적인 디지털 아바타가 얼굴을 대신한다."
           },
           {
             "t": "p",
-            "x": "메타의 하드웨어 로드맵과도 잘 맞는다. 메타는 지금 스마트 안경 출하량에서 시장을 장악하고 있고, 카메라 없이 음성 대화에만 집중한 스마트 안경도 검토 중이라는 보도가 최근 나왔다. 복잡한 다단계 작업과 피트니스 동기화, 결제까지 다루는 자율형 AI 에이전트를 이런 기기에 얹는다면 이야기가 달라진다. 스마트 안경이 스마트폰 보조 기기를 넘어 독립 기기로 자리 잡을 때 메타가 크게 앞서 나갈 수 있다."
+            "x": "과제도 남았다. 이메일, 금융 앱, 캘린더 같은 개인 데이터를 봇에 연결하라고 소비자를 설득해야 한다. 메타는 해커가 남의 Muse 에이전트를 장악할 수 있는 취약점을 이미 한 차례 고쳤고, 아마존은 메타 에이전트가 자사 쇼핑 플랫폼에 들어오지 못하게 막았다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-macos27-ai-30gb",
+      "id": "gadgets-glasses-private-processing",
       "eyebrow": "AI NEWS",
-      "headline": "macOS 27, 끌 수 없는 AI 모델이\n30GB 넘게 차지하기도",
-      "body": "macOS 27의 AI 모델은 내려받기를 못 막고, 한 맥에선 30GB를 넘겼다.",
-      "mini_headline": "맥 용량 먹는 AI",
+      "headline": "메타 스마트 글래스에\nPrivate Processing 온다",
+      "body": "글래스에 메타도 데이터를 못 보는 Private Processing이 들어간다.",
+      "mini_headline": "글래스 프라이버시",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
       "accent": "#7928ca",
       "motif": "headset",
+      "published_iso": "2026-09-23T23:30:29.387Z",
+      "og_image": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-            "cap": "Apple Intelligence"
+            "src": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg"
           },
           {
             "t": "p",
-            "x": "macOS 27 골든 게이트를 설치하면 맥이 다음번 인터넷에 연결될 때 애플이 수 기가바이트짜리 AI 모델을 알아서 내려받는다. 이전 macOS와 달리 이 다운로드는 막을 수 없다. 이제 Siri AI와 그에 딸린 Apple Intelligence는 시스템의 필수 요소다."
+            "x": "메타가 연례 행사 Meta Connect에서 격리형 AI 처리 방식인 Private Processing을 Ray-Ban Meta 스마트 글래스에 넣겠다고 발표했다. 지난해 WhatsApp용으로 만든 기능으로, 메타가 사용자 데이터에 손대지 않은 채 AI 비서가 사용자를 알아 가고 요청을 처리하게 해 준다."
           },
           {
             "t": "p",
-            "x": "애플은 macOS 27의 최신 Apple Intelligence 기능이 M3 이상 칩에 통합 메모리 12GB 이상인 맥에서 최대 14GB, 나머지 지원 맥에서 최대 8GB의 저장 공간을 쓴다고 밝혔다. 그런데 MacRumors가 직접 써 보니 AI 모델에 잡히는 용량은 맥마다 달랐고, 어떤 맥에선 훨씬 컸다."
+            "x": "메타는 보도자료에 \"AI 글래스는 대화 통역이나 메모·대화 요약 같은 초능력을 줄 수 있다\"고 적었다. 그리고 \"사용자의 세계를 깊이 아는 초개인화 AI를 더 강한 프라이버시와 함께 어떻게 만들 것인가\"라는 질문에 답하려 했다고 설명했다."
           },
           {
             "t": "p",
-            "x": "macOS 27을 설치한 M4 Pro 맥 미니에서는 시스템 설정의 저장 공간 항목 기준으로 20.67GB가 Apple Intelligence 몫으로 잡혔다. 아스테크니카는 M3 맥북 에어에 macOS 27.0 베타 7을 새로 설치한 뒤 22.42GB를 기록했다. 두 기기 모두 M3 이상, RAM 12GB 이상을 요구하는 애플 온디바이스 모델 AFM 3 Core Advanced를 쓴다."
+            "x": "Private Processing은 메타 자신을 포함한 모든 외부로부터 데이터를 지키는 클라우드 AI 처리를 목표로 한다. 글래스에서는 AI 비서와 나눈 대화와 명령, 비공개 받아쓰기와 메시지까지 보호할 수 있다. 어떤 기능을 지원할지는 아직 밝히지 않았다. 메타는 지난해 이 기술을 WhatsApp과 Meta AI 앱에 도입했고, WhatsApp의 Incognito Chat도 여기에 기댄다."
           },
           {
             "t": "p",
-            "x": "그래도 최고급 모델의 최소 사양에 못 미치는 맥까지 유독 많은 용량을 내주는 이유는 설명되지 않는다. 아스테크니카에 따르면 M1 맥북 에어와 맥북 네오에서도 같은 화면에 14GB 안팎이 찍혔다. 애플이 최대 8GB라고 밝힌 부류에 드는 기기들이다."
+            "x": "메타 엔지니어링 디렉터 Pritam Shah는 WIRED에 \"플랫폼은 준비됐고 작동도 한다. 백서나 블로그 글에 그치지 않는다\"고 말했다. 지금 발표한 건 보안·프라이버시 커뮤니티, 제3자 감사 기관과 함께 일을 시작하기 위해서라고 했다."
           },
           {
             "t": "p",
-            "x": "예상보다 높은 수치를 올린 사용자는 더 있다. 한 레딧 사용자는 macOS 27 릴리스 후보 버전에서 Apple Intelligence가 30.16GB를 차지한 스크린숏을 공유했다. M3 Pro 맥북 프로에 macOS 27을 설치한 뒤 24.35GB가 나왔다는 사용자도 있었다."
+            "x": "메타는 오래전부터 사용자 사생활을 다루는 방식으로 비판받았다. 올해만 해도 얼굴 인식 기술 활용, 글래스가 성범죄에 악용될 수 있다는 우려로 몇 달째 논란이 이어졌다. 일부는 이 제품을 \"변태 안경\"이라 부르고, 근처의 메타 글래스를 감지하는 ZuckOff 같은 앱까지 만들었다."
           },
           {
             "t": "p",
-            "x": "애플 지원 문서는 '최대 14GB'가 시스템 설정의 Apple Intelligence 저장 공간 항목과 바로 비교할 수 있는 수치인지, 일부 맥에서 왜 훨씬 큰 숫자가 나오는지 설명하지 않는다. iOS 27과 iPadOS 27을 쓰는 아이폰·아이패드에서는 이렇게 불어난 수치가 보이지 않았다."
+            "x": "이달 초 나온 Muse AI 에이전트도 보안과 프라이버시를 앞세웠다. 메타는 Muse의 클라우드 환경 Secure VM에 이어, 메타조차 데이터에 접근하지 못하게 하는 Confidential VM을 개발하고 있다. Muse도 곧 글래스에 들어온다."
           },
           {
             "t": "p",
-            "x": "이론으로 끝나는 문제도 아니다. Apple Intelligence를 쓰는 건 선택이지만 온디바이스 모델을 내려받는 건 선택이 아니다. 애플은 macOS 27과 iOS 27에서 Apple Intelligence를 끄는 토글을 없앴다. 사용자는 꼼짝없이 애플 모델 몫으로 공간을 비워 둬야 한다. AI 때문에 메모리와 저장장치 값이 오르는 요즘이라 더 아이러니하다. 그렇다고 답답함이 덜하진 않다."
-          },
-          {
-            "t": "p",
-            "x": "맥이라면 시스템 설정 ➝ 일반 ➝ 저장 공간에서 macOS 옆 정보 버튼을 눌러 직접 확인할 수 있다."
+            "x": "다만 Private Processing은 아직 글래스에서 쓸 수 없다. Shah도 언제 들어올지, 어떤 기능이 함께할지 일정을 내놓지 않았다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-macwhisper-live",
+      "id": "gadgets-photos-redact-blur",
       "eyebrow": "AI NEWS",
-      "headline": "맥위스퍼, 회의를\n실시간으로 받아 적는다",
-      "body": "맥위스퍼 15.2는 회의를 실시간으로 받아 적고 화자도 훨씬 잘 가려낸다.",
-      "mini_headline": "맥위스퍼 실시간 전사",
+      "headline": "구글 포토 Redact,\n민감한 정보를 손쉽게 가린다",
+      "body": "구글 포토의 새 AI 도구 Redact가 사진 속 민감한 부분을 흐려 준다.",
+      "mini_headline": "구글 포토 Redact",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
       "accent": "#2ec5c5",
       "motif": "headset",
+      "published_iso": "2026-09-24T17:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628",
-            "cap": "맥위스퍼"
+            "src": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg"
           },
           {
             "t": "p",
-            "x": "필자가 맥에서 즐겨 쓰는 전사 도구 맥위스퍼가 오늘 또 한 번 큰 업데이트를 내놨다. 실시간 회의 전사, 크게 좋아진 화자 인식, 한층 긴밀해진 Apple Intelligence 연동, 새 전사 모델이 들어갔다."
+            "x": "앱에 새로 들어온 여러 기능 가운데 하나다."
           },
           {
             "t": "p",
-            "x": "맥위스퍼에 얼마나 기대는지, 특히 팟캐스트 제작에서 얼마나 요긴한지는 전에도 쓴 적이 있다."
+            "x": "구글이 포토 앱의 최신 AI 업데이트를 공개했다. 그중 Redact는 민감한 정보든 뭐든 이미지에서 원하는 부분을 흐리게 가리는 도구다. 자동차 사진에서 번호판을 감추고 싶다면 Redact로 그 부분을 \"픽셀화된\" 블록으로 바꾸면 된다. Redact는 새로 손본 Markup 기능에 들어 있고, Markup에는 새 글꼴과 펜·형광펜 굵기를 세밀하게 맞추는 슬라이더도 생겼다. 새 Markup 도구는 전 세계 안드로이드 구글 포토 사용자에게 배포되는 중이다."
           },
           {
             "t": "p",
-            "x": "맥위스퍼는 맥용 AI 전사 도구 가운데 가장 먼저 나온 축에 든다. 인디 개발자 요르디 브라윈이 2023년 내놓은 뒤로 쉴 새 없이 기능을 다듬으며 새 모델과 서비스, 작업 방식을 차례로 지원해 왔다. 자동 회의 녹음과 화자 인식부터 감시 폴더, 시스템 전역 받아쓰기, 로컬·클라우드 AI 모델, 노션·재피어·옵시디언·n8n 연동까지 폭이 넓다."
+            "x": "Wardrobe 기능도 더 많은 사용자에게 열린다. 미국·인도·브라질의 안드로이드나 iOS 사용자라면 아직 없더라도 곧 쓸 수 있다. 라이브러리 속 사진에서 옷과 장신구를 모아 목록을 만들고, 이를 보며 스타일링 아이디어를 얻는 기능이다."
           },
           {
             "t": "p",
-            "x": "오늘 나온 15.2 버전은 엔비디아가 불과 몇 시간 전 발표한 Nemotron 3 Diarization 모델로 화자 인식을 끌어올렸다. 개발자는 \"최대 8명의 화자를 지원하고, 새 실시간 회의 화면에서 라이브 회의 중에도 쓸 수 있다\"고 설명한다."
-          },
-          {
-            "t": "p",
-            "x": "이번 업데이트의 또 다른 큰 변화가 실시간 회의 전사다. 공개 로드맵 윗줄에 한동안 올라 있던 기능이 드디어 나왔다. 회의가 진행되는 동안 실시간 전사를 따라 읽고, 앞부분을 다시 보고, 복사하거나 다른 곳으로 옮길 수 있다. \"창을 다른 앱 위에 띄워 두고 따라 볼 수 있고, 회의가 끝나면 녹음과 전사본이 저장된다.\""
-          },
-          {
-            "t": "p",
-            "x": "전사 모델로는 22개 언어를 지원하는 알리바바의 QWEN3-ASR이 새로 들어갔다. macOS 27의 Apple Intelligence, 시리, 스포트라이트, 단축어와도 더 촘촘히 엮였다. 이제 EU를 포함한 macOS 사용자는 시스템 전역에서 전사본을 검색하고, 시리로 열고, 단축어로 텍스트를 가져올 수 있다. 화면에 띄운 전사본을 시리나 Apple Intelligence 요청에서 바로 가리키는 것도 된다."
-          },
-          {
-            "t": "p",
-            "x": "끝으로 15.2에는 전사본과 회의를 정리할 폴더·하위 폴더가 생겼다. 사이드바에서 기존 전사본을 끌어다 넣으면 된다."
+            "x": "Gemini Spark 안에서 포토를 쓰는 방식도 다시 손봤다. 미국의 Google AI Pro·Ultra 구독자는 프롬프트 한 줄로 사진을 찾고 편집한다. 안드로이드에서는 Moods 기능으로 빈티지풍 필터를 입힐 수 있다. 일부 국가의 안드로이드·iOS 사용자는 본인 얼굴로 레드카펫 사진이나 포토부스 사진을 만들어 주는 Remix 템플릿 15종을 새로 쓸 수 있다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-swiftkey-ai-voice",
+      "id": "gadgets-ios27-cleanup-vs-photoshop",
       "eyebrow": "AI NEWS",
-      "headline": "스위프트키에 온\n오프라인 AI 받아쓰기",
-      "body": "스위프트키 AI 보이스는 Rambler처럼 받아쓰기를 다듬고 오프라인에서도 돈다.",
-      "mini_headline": "스위프트키 AI 보이스",
+      "headline": "iOS 27 AI 사진 편집,\n포토샵과 나란히 놓고 보니",
+      "body": "iOS 27 Clean Up과 Extend를 사진 여섯 장으로 포토샵과 겨뤄 봤다.",
+      "mini_headline": "애플 대 어도비",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
       "accent": "#eb367f",
       "motif": "headset",
+      "published_iso": "2026-09-24T15:25:43+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-3.jpg?quality=82&strip=all&w=1600",
-            "cap": "픽셀 11 Gboard의 Rambler"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628"
           },
           {
             "t": "p",
-            "x": "Gboard의 Rambler는 픽셀 11에서 손꼽히는 기능이다. AI 모델을 등에 업은 음성 입력이 워낙 좋아서 한번 써 보면 다른 걸로 돌아가기 어렵다. 그런데 마이크로소프트가 가진 스위프트키가 새 기능 'AI 보이스'를 시험 중이다. 픽셀 11 Rambler의 핵심을 사실상 다른 안드로이드폰 어디로든 옮겨 오는 기능이다."
+            "x": "필자는 어도비가 2023년 생성형 AI 기능을 내놓은 뒤로 포토샵으로 불필요한 물체를 지우고 사진을 넓혀 왔다. 결과는 들쭉날쭉했지만 마스킹과 복제, 손으로 칠하던 예전 방식보다는 훨씬 빨랐다. 애플이 iOS 27에서 Clean Up을 크게 고치고 Extend를 새로 넣자, 두 회사 도구를 직접 맞붙여 보기로 했다."
           },
           {
             "t": "p",
-            "x": "안드로이드용 스위프트키 최신 베타(v9.13.16.4)에 들어간 AI 보이스는 한층 나아진 음성 입력이다. 말을 마치면 AI가 나서서 군말을 걷어 내고 서식을 잡는 등 뒷정리를 맡는다. 픽셀 전용이라는 딱지만 뗀 Rambler인 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "마이크 아이콘을 누르면 시작한다. 받아 적는 내용을 실시간으로 보여 주지는 않는다. Rambler에서도 필자가 유일하게 아쉬워하는 부분이다. 체크 버튼을 누르면 세션이 끝나고 AI가 결과를 정리한다."
-          },
-          {
-            "t": "p",
-            "x": "안드로이드 센트럴에 따르면 AI 보이스를 쓰려면 오프라인 언어 모델부터 내려받아야 한다. 여기서 큰 차이가 난다. 서버 없이 오프라인에서 돌아간다. 이 매체가 폴드 8에서 시험해 보니 저장 공간은 163MB면 충분했고 기기를 완전히 오프라인으로 둔 채로도 작동했다. 픽셀 11 시리즈의 Rambler로는 못 하는 일이다. 드로이드 라이프도 직접 써 봤다. Rambler처럼 음성 명령으로 텍스트를 고치지는 못해도 제 몫은 한다는 평이다."
+            "x": "시험에는 친구 Jürg가 스위스와 유럽을 여행하며 찍은 사진 여섯 장을 썼다. 세 장은 물체 지우기, 세 장은 사진 넓히기용이다. 촬영은 iPhone 17 Pro Max, 편집은 iOS 27.0을 올린 iPhone 18 Pro Max에서 했고 Clean Up은 Auto로 뒀다. 포토샵은 MacBook Pro의 Photoshop 27.10.0에서 \"Firefly Fill & Expand\" 모델로 생성형 채우기를 돌리고 프롬프트는 비워 뒀다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/swiftkey-ai-voice-ac.webp?w=800",
-            "cap": "스위프트키 베타의 AI 보이스"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_02_iOS.jpeg?quality=82&strip=all",
+            "cap": "iOS 27 Clean Up으로 빨간 의자를 지운 결과"
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/swiftkey-ai-voice-dl.jpg?quality=82&strip=all&w=800",
-            "cap": "AI 보이스로 메시지를 받아 적는 모습"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_02b_ps_04.jpeg?quality=82&strip=all",
+            "cap": "포토샵 생성형 채우기로 같은 의자를 지운 결과"
           },
           {
             "t": "p",
-            "x": "처음엔 Rambler가 픽셀 전용이 아닐 수도 있겠다 싶었지만 지금으로선 픽셀에만 있다. 그러니 많은 사람에게 스위프트키 AI 보이스는 괜찮은 대안이다. 앞서 다룬 Wispr Flow도 있긴 한데 키보드와 붙어 있지 않아 가끔 번거롭다."
+            "x": "노란 문 앞 빨간 의자를 지운 첫 시험에서 Clean Up은 의자 그림자 자리까지 주변 질감과 조명에 맞게 채웠다. 흠이라면 뒤쪽 리벳 하나가 사라진 정도였다. 포토샵은 그림자를 기름 얼룩처럼 남겼고 리벳도 어긋났다. 빵 접시를 지운 사진에서도 Clean Up은 머그와 병의 반사까지 그려 넣었다. 나뭇잎과 흰 꽃 뒤의 두 사람을 지우는 시험은 달랐다. Clean Up은 뭉개진 흔적과 강아지 머리의 \"유령\"을 남겼고, 포토샵이 깔끔하게 해냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_03_iOS.jpeg?quality=82&strip=all",
+            "cap": "iOS 27 Extend로 넓힌 사진"
           },
           {
             "t": "p",
-            "x": "안드로이드용 스위프트키 베타는 플레이 스토어에서 받을 수 있다."
+            "x": "Extend 시험은 대체로 애플이 앞섰다. 구불구불한 옛 계단 사진에서는 Extend가 계단 끝을 천장 선풍기 날개처럼 둥글게 말았고, 포토샵이 나뭇결까지 잘 이어 붙였다. 하지만 폭포와 다리가 있는 풍경에서 포토샵은 지붕선을 망가뜨리고 물줄기 방향까지 바꾼 \"뻔한 AI 슬롭\"을 내놨다. 실내 사진에서도 다리가 너무 많은 탁자를 그렸다."
+          },
+          {
+            "t": "p",
+            "x": "필자 판단으로는 둘 다 완벽하지 않지만 사실감에서는 애플이 어도비를 근소하게 앞선다. 포토샵은 구독이 필요한 대신 시험한 기능이 생성형 크레딧을 쓰지 않는다. 애플도 일부 Apple Intelligence 기능에 \"사용량 제한이 있을 수 있다\"고 밝혔다. 결과는 사진과 장면에 따라 달라질 수 있다."
           }
         ]
       }

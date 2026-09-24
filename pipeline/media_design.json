@@ -1,7 +1,34 @@
-{"date":"2026-09-24","section":"design","media":[
- {"id":"design-builder-agent-plans","type":"image","src":"pipeline/media/design-builder-agent-plans.png"},
- {"id":"design-comsol-mcp-server","type":"image","src":"pipeline/media/design-comsol-mcp-server.jpg"},
- {"id":"design-who-owns-ai-transformation","type":"image","src":"pipeline/media/design-who-owns-ai-transformation.jpg"},
- {"id":"design-no-handoff-ui-kit","type":"image","src":"pipeline/media/design-no-handoff-ui-kit.png"},
- {"id":"design-leaders-grow-juniors","type":"image","src":"pipeline/media/design-leaders-grow-juniors.jpg"}
-]}
+{
+  "date": "2026-09-25",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-figma-motion-tricks",
+      "type": "video",
+      "src": "pipeline/media/design-figma-motion-tricks.mp4",
+      "poster": "pipeline/media/design-figma-motion-tricks.jpg"
+    },
+    {
+      "id": "design-flow-studio-symphony",
+      "type": "image",
+      "src": "pipeline/media/design-flow-studio-symphony.png"
+    },
+    {
+      "id": "design-horizon-phone-ai-games",
+      "type": "video",
+      "src": "pipeline/media/design-horizon-phone-ai-games.mp4",
+      "poster": "pipeline/media/design-horizon-phone-ai-games.jpg"
+    },
+    {
+      "id": "design-eleken-agent-patterns",
+      "type": "video",
+      "src": "pipeline/media/design-eleken-agent-patterns.mp4",
+      "poster": "pipeline/media/design-eleken-agent-patterns.jpg"
+    },
+    {
+      "id": "design-figma-launch-speed",
+      "type": "image",
+      "src": "pipeline/media/design-figma-launch-speed.jpg"
+    }
+  ]
+}

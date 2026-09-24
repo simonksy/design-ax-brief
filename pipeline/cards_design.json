@@ -1,294 +1,264 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "design",
   "cards": [
     {
-      "id": "design-builder-agent-plans",
+      "id": "design-figma-motion-tricks",
       "eyebrow": "AI NEWS",
-      "headline": "Builder.io, 에이전트의 계획부터\n검토하는 도구 공개",
-      "body": "에이전트가 뭘 만들지 먼저 합의하고 결과물까지 함께 검토하는 무료 오픈소스 도구다.",
-      "mini_headline": "에이전트 계획 검토 도구",
-      "tool": "Figma",
-      "source": "Builder.io",
-      "url": "https://www.builder.io/blog/stop-watching-your-agent-work",
-      "accent": "#0070f3",
+      "headline": "Figma 모션 디자이너가 공개한\nFigma Motion 기법 네 가지",
+      "body": "레이어 애니메이션부터 셰이더, 에이전트 활용까지 실제 작업 파일로 보여 준다.",
+      "mini_headline": "Figma Motion 기법 넷",
+      "tool": "Social",
+      "source": "Figma",
+      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
+      "accent": "#ff2d55",
       "motif": "frame",
+      "published_iso": "2026-09-24T06:46:41-07:00",
+      "og_image": "https://i.ytimg.com/vi/UHupJZO7DTw/maxresdefault.jpg",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "UHupJZO7DTw"
+          },
+          {
+            "t": "p",
+            "x": "Figma 모션 디자이너가 동료들의 Figma Motion 파일을 직접 열어 어떻게 만들었는지 뜯어본다. 모션 디자이너들이 작업 방식을 공유하는 'Show Your Work' 시리즈의 한 편이다."
+          },
+          {
+            "t": "p",
+            "x": "첫 예시는 Fabian의 타로 카드 애니메이션이다. 물결과 폭포가 한꺼번에 움직이는데, 열어 보면 작은 컴포넌트를 겹겹이 중첩해 한 조각씩 쌓아 올렸다. 폭포는 도형 하나에 트림 패스를 건 게 전부다. 중첩 컴포넌트로 장면을 조금씩 쌓으라는 게 첫 번째 팁이다."
+          },
+          {
+            "t": "p",
+            "x": "Brett McMillan의 'Spectral Signal'은 360도 회전하는 링 컴포넌트 하나에서 시작한다. 크기가 다른 인스턴스 세 개를 겹치고, 에이전트로 각각에 무작위 회전 키프레임을 만든 뒤 렌즈 왜곡, 컬러 램프, 라이트 블룸, 유리 질감 셰이더를 차례로 얹었다. 키프레임은 몇 개 없다. 유리 질감을 올리자 아래 움직임이 광원처럼 작동했는데, 그에게는 그 순간이 '아하' 모먼트였다."
+          },
+          {
+            "t": "p",
+            "x": "Jill은 Figma 브랜드 애니메이션을 Figma Motion으로 다시 만들었다. 재사용할 브랜드 요소를 하나씩 움직이게 만든 뒤 중첩 컴포넌트로 묶었고, 라이브러리의 브랜드 컬러는 스타일로 바로 입혔다. 모든 요소를 캔버스에 펼쳐 두면 서로 어떻게 맞물리는지 한눈에 보인다는 게 그의 팁이다."
+          },
+          {
+            "t": "p",
+            "x": "마지막은 다시 Fabian의 메뉴 애니메이션이다. 머릿속 그림은 있었지만 어떻게 움직여야 할지 몰라 에이전트에 설명했고, 키프레임을 하나도 건드리지 않고 원하던 결과를 얻었다. 그는 에이전트가 모션 툴킷의 다음 도구처럼 느껴진다고 말한다. 키프레임을 일일이 만지는 대신 이제 프롬프트를 고친다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-flow-studio-symphony",
+      "eyebrow": "AI NEWS",
+      "headline": "Autodesk Flow Studio로 완성한\n'불가능한' 애니메이션 교향곡",
+      "body": "연기자의 몸짓을 AI 모션 캡처로 옮겨 라이브 내레이션과 애니메이션을 엮었다.",
+      "mini_headline": "AI 모캡으로 만든 교향곡",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-09-24T16:03:52Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/79e17b2f7b58454985d77f262aef44f0?format=webp&width=800",
-            "cap": "Builder.io 블로그의 Agent-Native Plans 소개 이미지"
+            "src": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
+            "cap": "'Daughter of the Inner Stars' (이미지: Inferstudio)"
           },
           {
             "t": "p",
-            "x": "에이전트가 일하는 걸 지켜보는 것만큼 비생산적인 일도 없다. Builder.io의 Alice Moore는 자신도 여전히 도구 호출을 읽고 파일이 바뀌는 걸 보며 에이전트가 제대로 알아들었는지 기다린다고 털어놓는다. 동료에게 일을 맡겨 놓고 오후 내내 타이핑을 구경하는 사람은 없다."
+            "x": "'Daughter of the Inner Stars'는 50분짜리 애니메이션 오케스트라 공연이다. 아이들에게 교향악을 소개하려고 기획했고, 라이브 내레이션과 오케스트라 연주에 오리지널 애니메이션을 엮었다. 제작하는 동안 규모가 크게 불어난 작품으로, 새 AI 기술이 작은 팀의 애니메이션 작업을 어디까지 넓히는지 보여 준다."
           },
           {
             "t": "p",
-            "x": "동료와는 목표를 먼저 맞추고 결과를 검토한다. 코딩 에이전트와도 시작 전에 한 번, 돌아왔을 때 한 번 대화하고 그 사이엔 맡겨 두고 싶다. 문제는 긴 계획서와 요약문이다. 읽는 데 주의력이 들고 중요한 결정은 글 더미에 묻힌다. 이 문제를 풀려고 내놓은 게 Agent-Native Plans다. 에이전트가 만들려는 것과 실제로 만든 것을 검토하는 무료 오픈소스 도구다."
+            "x": "손으로 만든 에셋과 전통 방식의 스토리보드, 실제 연기자를 두고 제작진은 Autodesk Flow Studio의 AI 모션 캡처 워크플로를 택했다. 레퍼런스 영상을 원하는 대로 손볼 수 있는 3D 캐릭터 애니메이션으로 바꿔 주는 도구다. 처음 기획할 때는 상상하지 못한 결과물이 여기서 나왔다."
           },
           {
             "t": "video",
-            "yt": "P5Ox4JDcr_A"
+            "yt": "vyx8hFFPTBg"
           },
           {
             "t": "p",
-            "x": "일은 주로 두 스킬이 맡는다. Visual Plan은 제안된 변경을 와이어프레임, API 흐름 다이어그램, 주석 단 코드, 미결 질문, 구현 순서로 풀어 보여 준다. Visual Recap은 끝난 변경을 그 코드가 바꾼 동작과 이어 설명한다. CI에 연결하면 풀 리퀘스트마다 리캡이 자동으로 붙는다. 문서는 공유되고 특정 부분에 댓글도 달 수 있다."
+            "x": "작품은 2024년 시드니 오페라하우스에서 시드니 심포니 오케스트라와 초연했고, 2025년 밴쿠버 심포니 오케스트라와 북미 무대에 올랐다. 우주 전쟁 속에서 잃어버린 아버지를 찾아 나선 소녀 Fia의 이야기다. 작곡가 Nicholas Buc, 작가 겸 감독 James Vinson, 프로듀서 Melanie Hiluta가 만들었다. 처음 구상은 우크라이나 Tubik Studio가 그린 캐릭터를 정지된 2D 그림으로 보여 주는, 무대 위 그림책에 가까웠다."
+          },
+          {
+            "t": "p",
+            "x": "Inferstudio를 세운 건축가 출신 프로덕션 디자이너 Nathan Su가 합류하면서 그림을 3D로 옮기는 작업이 시작됐다. 캐릭터 아티스트 Ludvig Holmen이 캐릭터를 3D 메시로 조각했다. 시드니 초연을 18개월 앞두고 Flow Studio와 Unreal Engine MetaHuman Animator가 나오면서 캐릭터에 움직임을 더할 길이 열렸다."
           },
           {
             "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F365ffbc2aa73450e8c1b7130dbf42d4b?width=800",
-            "cap": "Visual Plan과 Visual Recap으로 만든 문서 예시"
+            "src": "https://cdn.mos.cms.futurecdn.net/Wigktq6m8dtyZQDMWPvf99-1920-80.png",
+            "cap": "(이미지: Inferstudio)"
           },
           {
             "t": "p",
-            "x": "예시는 녹화 앱 Clips다. 플레이어 오른쪽 사이드바를 왼쪽으로 옮기고 접을 수 있게 해 달라는 요청은 단순해 보인다. 그래도 접으면 무엇이 남는지, 다시 여는 버튼은 어디 둘지, 작은 화면에선 어떻게 되는지 정할 게 많다. visual-plan 스킬을 설치한 Codex는 구현 전에 현재 레이아웃, 펼친 상태와 접힌 상태, 모바일 화면, 인터랙티브 프로토타입에 동작 요구사항과 테스트 체크리스트까지 펼쳐 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F24e76a3c0a8b40e7918ad4e8ac11b91e?width=800",
-            "cap": "Clips 사이드바 변경안을 담은 비주얼 플랜"
+            "x": "Flow Studio는 슈트 없이 실사 연기를 3D 캐릭터 애니메이션으로 바꾸는 웹 기반 도구다. 2023년 초기 테스트에서 Holmen이 휴대폰으로 찍은 간단한 동작 영상을 올렸더니, 얼굴도 머리카락도 완성되지 않은 Fia가 그의 연기를 놀랄 만큼 정확하게 따라 움직였다. 이후 애니메이션 기술감독 Nour Hassoun이 Flow Studio가 뽑은 모션 캡처 데이터를 해석하고 다듬는 핵심 역할을 맡았다."
           },
           {
             "t": "p",
-            "x": "피드백은 문단을 하이라이트하거나 와이어프레임의 특정 지점에 댓글을 꽂으면 끝이다. 디자이너나 PM도 코딩 대화를 읽거나 앱을 로컬에 띄우지 않고 같은 문서에 의견을 남긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F38f7a90eb20843f7833a7c77f8f7be86?width=800",
-            "cap": "다시 여는 버튼 옆에 달린 댓글"
-          },
-          {
-            "t": "p",
-            "x": "구현이 끝나면 Visual Recap 차례다. PR #3774의 리캡은 새 Add to Context 액션을 포함해 편집기 인터랙션의 전후를 보여 준다. 파일과 변경 줄 위주인 diff보다 리뷰에 훨씬 빨리 들어간다. 화면이 없는 변경은 다이어그램과 주석 코드로 설명한다. Moore는 코드를 읽고 테스트하는 일은 그대로 한다고 덧붙인다. 다만 에이전트를 지켜보는 시간은 줄이고, 에이전트가 기다리는 결정에 시간을 더 쓰고 싶다고 말한다."
+            "x": "팀은 Flow Studio 덕에 애니메이션 작업 시간이 80% 줄었다고 추산한다. 실제 연기를 중심에 두고 촬영을 고민하다 보니 이야기의 감정에 더 집중하게 된 것도 소득이었다. 기술적 완벽함보다 가장 큰 감정적 울림을 주는 쪽을 골랐다."
           }
         ]
       }
     },
     {
-      "id": "design-comsol-mcp-server",
+      "id": "design-horizon-phone-ai-games",
       "eyebrow": "AI NEWS",
-      "headline": "COMSOL Multiphysics 2027,\n외부 AI와 잇는 MCP 서버 탑재",
-      "body": "올가을 나올 COMSOL 새 버전에 외부 AI와 연결하는 MCP 서버가 들어간다.",
-      "mini_headline": "COMSOL MCP 서버",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Comsol이 올가을 출시할 Multiphysics 2027의 세부 내용을 공개했다. 요즘 여러 엔지니어링 소프트웨어가 그렇듯 이번 버전에도 MCP(model context protocol) 서버가 들어간다. 외부 AI 시스템이 시뮬레이션 소프트웨어와 직접 주고받게 된다."
-          },
-          {
-            "t": "p",
-            "x": "Comsol은 AI를 꾸준히 외부에 맡겨 왔다. 지난해 넣은 AI 챗봇도 ChatGPT나 Claude처럼 사용자가 고른 외부 챗봇을 연결하는 창구에 가까웠다. Engineering.com은 모두가 같은 AI 기능을 되풀이해 만드는 판에서 이쪽이 가장 온당한 접근일지 모른다고 평했다."
-          },
-          {
-            "t": "p",
-            "x": "또 하나의 큰 변화는 Comsol Systems 애드온이다. 블록 방식으로 시스템 수준 모델을 짜고 이를 멀티피직스 모델과 결합한다. 전기 회로도, 공정 흐름도 등에 바로 쓰는 부품 약 5000개 라이브러리가 딸려 온다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/09/img_comsol-systemsuifsfem-scaled.png",
-            "cap": "Comsol Systems 애드온이 흐름도를 연속 믹서의 3D 멀티피직스 모델과 연결한 화면 (이미지: Comsol)"
-          },
-          {
-            "t": "p",
-            "x": "Svante Littmarck CEO는 상세한 멀티피직스 모델과 시스템 수준 시뮬레이션을 하나의 통합 환경에서 잇게 된다고 밝혔다. 이 밖에 Electric Motor Module이 새로 생기고, Application Builder가 macOS와 Linux를 지원한다. 플라즈마, 전자기, MEMS 해석을 빠르게 돌리는 시간 주기 솔버도 추가된다."
-          },
-          {
-            "t": "p",
-            "x": "같은 호에는 다른 AI 소식도 실렸다. SimScale은 PTC의 클라우드 CAD Onshape용 Engineering AI Agent를 내놨다. 프롬프트 하나로 CAD 모델을 받아 해석 설정을 제안하고, 메싱과 해석을 돌린 뒤 결과를 Onshape 안에서 알려 준다. CFD, FEA, 열, 전자기 해석을 지원한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/09/img_simscale-agent-proposing-running-interpreting-simulation-onshape.jpg",
-            "cap": "Onshape에서 돌아가는 SimScale Engineering AI Agent (이미지: SimScale)"
-          },
-          {
-            "t": "p",
-            "x": "AU 2026 기사 정정도 있었다. Mike Haley가 아직 탐색 단계라고 한 건 neural CAD 전체가 아니라 Project Quill 이야기였다. AutoConstrain, Building Layout Explorer 같은 neural CAD 기능은 이미 Autodesk 제품에 들어가 있다. Project Quill 역시 Fusion 기능이 아닌 별도의 연구 프로젝트다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-who-owns-ai-transformation",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 전환을 끝까지 끌고 가는 건\n일을 가장 잘 아는 현장의 빌더",
-      "body": "업무를 매일 하는 직원이 흐름을 다시 짤 때 AI 전환이 성과로 이어진다.",
-      "mini_headline": "AI 전환은 누구 몫인가",
-      "tool": "Workflow",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91609799/who-actually-owns-ai-transformation",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/1-78.png",
-            "cap": "AI라고 적힌 파란 머리 조형이 회색 머리들 사이에 서 있다"
-          },
-          {
-            "t": "p",
-            "x": "조직의 AI 전환을 누가 맡고 있느냐고 물으면 대부분 조직도 꼭대기의 직책이나 전담 팀을 가리킨다. West Monroe의 최고인사책임자 Tanya Moore는 틀린 답은 아니지만 반쪽짜리라고 말한다. 기업들은 AI 전환을 이끌 중앙 조직에 수백만 달러를 쓰고도 여전히 뚜렷한 성과를 보여 주지 못한다. 회사 운영을 이루는 수천 개의 작은 업무 흐름을 임원이 다 들여다볼 수는 없다. 프로세스를 다시 설계할 만큼 잘 아는 사람은 대개 그 일을 매일 하는 사람이다."
-          },
-          {
-            "t": "p",
-            "x": "그래서 Moore의 회사는 AI를 쓰는 사람이 몇 명인지 세는 대신 AI로 일하는 방식을 어떻게 바꾸는지 보기 시작했다. 사용자는 AI로 문서를 요약하거나 이메일 초안을 쓴다. 빌더는 업무 흐름을 보며 \"왜 아직도 이렇게 하지?\"라고 묻고 실제로 바꾼다. 빌더는 직무가 아니라 사고방식이다. 엔지니어가 아닐 때도 많고 최고AI책임자 밑에 있지도 않다. 일과 가깝고 호기심이 많으며 허락을 기다리지 않고 먼저 고친다. 수주율을 올리려고 후속 연락 방식을 바꾸는 영업 담당자, 월말 결산 전에 이상치를 잡아내는 자동화를 만드는 회계 담당자가 그런 사람이다."
-          },
-          {
-            "t": "p",
-            "x": "리더는 AI 전략을 정하고 교육과 도구, 가드레일, 재량을 내준다. Moore는 인터넷을 예로 든다. 소수에게만 인터넷 쓰는 법을 가르치지 않았다. 접근 권한과 교육, 가드레일을 주자 결국 그게 일하는 방식이 됐다. 위험을 관리하려고 승인 절차를 겹겹이 만들면 직원들은 아예 실험을 멈춘다. 보안, 개인정보, 승인된 도구, 사람의 감독처럼 양보할 수 없는 선만 긋고 나머지는 맡기라는 조언이다. 동료의 사례도 힘이 세다. 한 주에 세 시간을 덜어 낸 방법을 보여 주는 동료가 AI의 가능성을 말하는 경영진 발표보다 AI를 훨씬 가깝게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "직원에게 AI로 생산성을 높이라고 요구한다면 그 역량이 직원 경력에도 도움이 되도록 투자해야 한다. 회사가 생산성과 재무 개선, 더 나은 고객 성과를 기대하는 건 당연하다. 다만 직원도 이 전환을 거치며 경력을 이어 갈 새 기술을 얻어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "재는 방식도 바꿔야 한다. 로그인 횟수나 라이선스, 사용량으로는 도구를 쓰는지 알 수 있어도 효과는 알 수 없다. 다시 짠 업무 흐름 덕에 제품이 닷새 빨리 나오거나, 프로젝트에 드는 시간이 40% 줄고 마진이 좋아졌다면 그게 의미 있는 결과다. 가장 중요한 지표는 이미 회사나 이사회 성과표에 올라 있다. 매출 성장, 마진 확대, 고객 NPS, 인력 효율, 생산성이다."
-          },
-          {
-            "t": "p",
-            "x": "전략은 리더가, 플랫폼과 가드레일은 기술 조직이 맡는다. 하지만 조직 전체의 업무 흐름을 한 사람이나 한 팀이 다 고칠 수는 없다. Moore는 그 빈자리를 채우는 게 빌더이고, 결국 중요한 전환도 거기서 일어난다고 본다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-no-handoff-ui-kit",
-      "eyebrow": "AI NEWS",
-      "headline": "핸드오프 없는 디자인 투 코드,\nUI 키트 안에서 바로 만든다",
-      "body": "AI가 처음부터 UI 키트 안에서 화면을 만들면 컴포넌트를 다시 맞출 일이 없다.",
-      "mini_headline": "핸드오프 없는 UI 키트",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/kr1sck/design-to-code-is-still-a-handoff-what-if-there-was-no-handoff-3ep9",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
+      "headline": "Meta, 휴대폰에서 AI로\n게임 만드는 길 연다",
+      "body": "AI로 만든 게임을 페이스북과 인스타그램 피드에서 바로 즐기게 하겠다는 구상이다.",
+      "mini_headline": "폰으로 AI 게임 제작",
+      "tool": "VR Prototype",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "published_iso": "2026-09-24T17:52:29+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "이제 AI는 인터페이스를 놀랄 만큼 빨리 만든다. 제품을 설명하면 화면 몇 개가 나오고, 디자인을 다듬은 뒤 React로 내보낸다. 처음엔 디자인 투 코드가 오래된 핸드오프 문제를 풀어 준 것처럼 보인다."
-          },
-          {
-            "t": "p",
-            "x": "하지만 내보내고 나서야 진짜 일이 시작되는 경우가 많다. 생성된 Button은 프로젝트에서 이미 쓰는 버튼으로 바꾸고, 색은 디자인 토큰에 맞춰야 한다. 비슷한 컴포넌트는 합치고 변형도 추가한다. 전부 기존 UI 키트와 디자인 시스템에 들어맞아야 한다. 디자인은 끝났고 코드도 있는데 제품은 아직 만들어야 하는, 묘한 상태다."
-          },
-          {
             "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/m5vh18uc8uxclng32zyr.png",
-            "cap": "글쓴이가 첨부한 이미지 1"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200"
           },
           {
             "t": "p",
-            "x": "아예 실제 React 제품을 디자인한다면 어떨까."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/3xpnjkip0oyyktcej0t5.png",
-            "cap": "글쓴이가 첨부한 이미지 2"
+            "x": "Meta가 Horizon 소셜 플랫폼에서 게임을 만들 사람을 모을 새 계획을 내놨다. 오늘 발표한 개발 도구는 두 가지로, AI 프롬프트로 게임을 만든다. 모바일 앱 Horizon Create, 그리고 더 세밀하게 조정할 수 있는 브라우저 앱 Horizon Studio다. 두 앱은 얼리 액세스로 나오고, 관심 있는 사용자는 대기자 명단에 이름을 올리면 된다."
           },
           {
             "t": "p",
-            "x": "결제 페이지가 필요하다고 해 보자. AI에게 요금제, 결제 내역, 결제 수단이 담긴 페이지를 만들어 달라고 한다. 그다음부터는 제품만 고민하고 싶다. 요금제를 비교하기 쉬운가, 연체된 청구서는 어디에 보여야 하나, 레이아웃을 바꿀까, 페이지가 하나 더 필요할까."
+            "x": "Horizon은 플랫폼으로서 줄곧 고전했다. 그래서 Meta는 새 게임이 훨씬 멀리 퍼질 방법을 마련했다. Horizon Create와 Horizon Studio로 만들어 공개한 게임을 Facebook과 Instagram에서 추천하고, 그 자리에서 바로 플레이하게 한다."
           },
           {
             "t": "p",
-            "x": "새 Button을 만들지, 맞는 Badge가 이미 있는지, 새 변형 이름은 뭘로 할지, 새 토큰은 어디에 둘지까지 동시에 따지고 싶지는 않다. 알맞은 컴포넌트가 있으면 재사용하고, 거의 맞으면 확장한다. 정말 새로운 재사용 패턴이 생기면 UI 키트에 넣는다. 디자인 토큰도 똑같다. 있는 건 다시 쓰고 제품에 새로 필요할 때만 시스템을 넓힌다. 그러면 UI 키트와 디자인 시스템은 제품을 디자인하는 동안 함께 자란다. 나중에 따로 정리하는 단계가 아니라 바로 그때."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/d52o43sa0l7xxuro4q32.png",
-            "cap": "글쓴이가 첨부한 이미지 3"
+            "x": "Meta의 설명은 이렇다. \"Instagram을 넘기던 사람이 게임 클립을 탭하면 앱을 내려받거나 다른 곳으로 넘어가지 않고 몇 초 만에 멀티플레이 세션에 들어옵니다. 여러분의 게임은 사람들이 이미 콘텐츠를 발견하고 친구와 만나는 피드 안에 자리 잡습니다.\" 회사에 따르면 \"몰입도 높고 안정적이며 문화적으로 공감을 얻고 플레이어가 계속 돌아오는\" 게임일수록 더 많은 사람에게 닿는다."
           },
           {
             "t": "p",
-            "x": "흐름이 달라진다. 지금은 대개 아이디어 → AI 디자인 → React로 내보내기 → 생성 코드 정리 → 컴포넌트 재구축 → UI 키트·디자인 시스템 맞추기 → 비즈니스 로직 순이다. 글쓴이가 관심을 두는 흐름은 아이디어 → 실제 React 제품 디자인 → 컴포넌트·UI 키트·디자인 시스템이 함께 성장 → 비즈니스 로직이다. 그렇게 나온 건 목업이 아니다. 제품이 실제로 쓰는 React UI, 재사용 컴포넌트, 변형, 디자인 토큰, UI 키트다."
-          },
-          {
-            "t": "img",
-            "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/f9a4k782kx4xc9cafefm.png",
-            "cap": "글쓴이가 첨부한 이미지 4"
+            "x": "Horizon과 비슷하지만 훨씬 인기 있는 Roblox도 AI 기반 개발에 크게 힘을 싣는 중이다. 모바일 앱에서 프롬프트로 게임을 만드는 기능도 그중 하나다. VR 앱으로 출발한 Horizon은 최근 모바일 중심으로 방향을 틀었다. Meta가 손닿는 거의 모든 곳에 AI를 밀어 넣는 걸 보면, Horizon에서 AI 비중이 커지는 것도 그리 놀랍지 않다."
           },
           {
             "t": "p",
-            "x": "글쓴이는 이 워크플로 때문에 자신이 Varelyo를 만들었다고 밝힌다. Claude Code와 Codex로 React 프로젝트에서 바로 작동하는 로컬 우선 도구다. UI가 완성되면 디자인을 앱으로 옮기는 단계 없이 같은 프로젝트에서 API, 상태, 권한, 데이터, 비즈니스 로직으로 넘어간다."
+            "x": "게임을 빨리 만드는 도구가 생기면 즐길 거리도 늘어난다. 기자는 AI로 찍어 낸 게임들이 손으로 공들인 게임만큼 재미있을지 꽤 회의적이다. 그래도 Create와 Studio로 만든 게임은 적어도 비디오 게임다운 요소는 갖출 듯하다. 짧지만 텅 빈 인터랙티브 경험을 만드는 Google의 Project Genie와는 다르다. Meta는 블로그에서 \"두 도구 모두 어떤 아이디어든 진행 시스템, 균형 잡힌 난이도, 아트 디렉션, 멀티플레이 등을 갖춘 완성된 2D·3D 모바일 게임으로 바꾸고, 모든 요소를 원하는 수준까지 다듬게 해 준다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "그래서 그는 디자인 투 코드라는 말에 점점 흥미를 잃는다. 디자인을 나중에 실제 제품으로 옮겨야 한다면 핸드오프는 여전히 남아 있다. 더 흥미로운 건 그 단계를 아예 없애는 쪽이다. 코드와 UI 키트, 디자인 시스템이 함께 자라는 동안 React 제품 자체를 디자인하는 것."
+            "x": "그렇다 해도 Roblox 규모에 닿기까지는 갈 길이 멀다. Roblox의 일간 활성 사용자는 1억 2300만 명이다. Horizon은 제대로 자리를 잡은 적이 없다. The Verge는 2022년 초 Horizon의 월 사용자가 30만 명에 이르렀다고 보도했다."
           }
         ]
       }
     },
     {
-      "id": "design-leaders-grow-juniors",
+      "id": "design-eleken-agent-patterns",
       "eyebrow": "AI NEWS",
-      "headline": "시니어만 찾는 채용 시장,\n주니어를 키울 리더가 필요하다",
-      "body": "AI 도구가 입문 업무를 가져간 만큼 리더가 일부러 주니어의 판단력을 길러야 한다.",
-      "mini_headline": "주니어를 키우는 리더",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70",
-      "accent": "#3b6bff",
+      "headline": "에이전트형 AI 제품을 위한\n디자인 패턴 실전 가이드",
+      "body": "패턴마다 언제 써야 하는지 짚고 AI를 사람이 통제할 수 있게 두는 법을 정리했다.",
+      "mini_headline": "에이전트 UX 패턴",
+      "tool": "AI Workflow",
+      "source": "Eleken",
+      "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
+      "accent": "#ff5a4d",
       "motif": "frame",
+      "published_iso": "2026-09-22T21:21:00Z",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*USREMn6GsWPB5N5aBd-UVw.png",
-            "cap": "첫 크리틱에 긴장한 신입을 이끄는 디자인 리드 (AI 보조 이미지)"
+            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp"
           },
           {
             "t": "p",
-            "x": "지금의 시니어 디자이너도 한때는 누군가 건 모험이었다. Patrick Neeman은 1995년 첫 웹 작업을 맡았을 때 자신에게 판단력이 없었고, 회사는 판단력을 기르라고 자신을 뽑았다고 돌아본다. 그런 모험을 거는 곳이 줄고 있다."
+            "x": "'AI 에이전트 디자인 패턴'을 검색하면 곧 문제에 부딪힌다. 저마다 다른 걸 가리킨다. 어떤 가이드는 에이전트의 계획과 도구 사용, 협업을 말하고, 어떤 가이드는 프롬프트와 채팅 인터페이스, 사람의 감독을 다룬다. 모두 AI 디자인 패턴 이야기지만 제품의 층위가 다르다. 디자인 에이전시 Eleken은 먼저 이 지도를 그린 뒤, 프로덕트 팀이 가장 자주 만나는 두 층위를 파고든다. 내부에서 AI가 어떻게 움직일지 정하는 에이전트 패턴, 사람이 AI를 이해하고 이끌고 통제하는 방식을 정하는 AI UX 패턴이다."
           },
           {
             "t": "p",
-            "x": "Figma 조사에서 채용 담당자 56%는 시니어 디자이너 수요가 늘었다고 답했고 주니어를 뽑는다는 곳은 25%였다. 입문자가 배우던 기초 작업은 도구가 가져갔다. 미국 기업 28만 5000곳, 노동자 6200만 명을 추적한 연구에서도 생성형 AI를 도입한 기업은 주니어 고용이 줄고 시니어 고용은 거의 그대로였다. 해고가 아니라 채용이 느려진 탓에 어느 팀도 위기로 느끼지 못했다."
-          },
-          {
-            "t": "video",
-            "yt": "wI8cEXyPK7Y"
+            "x": "AI는 원래 예측하기 어렵다. 같은 입력에도 다른 결과가 나오니 명확한 구조가 더 값지다. 그렇다고 패턴을 무작정 따를 일은 아니다. 필요하지도 않은데 계획, 성찰, 멀티 에이전트부터 넣으면 비용과 복잡도만 커진다. 가장 단순하게 통하는 패턴에서 시작하고, 분명한 가치가 있을 때만 복잡도를 더하라는 게 원칙이다."
           },
           {
             "t": "p",
-            "x": "타격은 디자인 리더십에도 돌아온다. 컨설턴트 John Gleason이 Fortune 500 기업 243곳을 살펴보니 39%가 디자인 조직의 최상위 한두 직급을 없애거나 디자인 책임자 직함을 낮췄다. 스스로 리더를 키우지 못하는 조직은 빌려 써도 되는 조직처럼 보인다."
+            "x": "에이전트 패턴으로는 생각, 행동, 관찰을 되풀이하는 ReAct, 생성한 답을 독립된 비평자가 검토해 고치는 성찰, 외부 도구와 API를 다루는 도구 사용, 큰 문제를 하위 작업으로 쪼개는 계획, 역할을 나눈 멀티 에이전트를 소개한다. 에이전트를 늘린다고 AI가 저절로 나아지지는 않는다는 경고도 붙였다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*IrXYeKL0a9TRIW6elWJM7w.png",
-            "cap": "안전한 채용과 옳은 채용 사이에서 고민하는 디자인 리더"
+            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2e74336c7d8c26fe50440_ai_design_patterns_saas_1.webp",
+            "cap": "영업 플랫폼 Zaplify에 넣은 AI 추천 메시지"
           },
           {
             "t": "p",
-            "x": "Neeman은 시니어만 뽑는 이유를 전략보다 두려움에서 찾는다. 시니어 채용은 어떤 리뷰에서도 해명이 되지만 주니어가 넘어지면 내 이름이 붙은 실수가 된다. 1920년대 세인트루이스 카디널스의 Branch Rickey는 부자 구단과의 영입 경쟁을 접고 선수를 직접 키워 리그 우승을 아홉 번 차지했다. 시니어만 뽑는다는 건 다른 누군가가 계속 키워 주리라는 데 거는 일이다."
+            "x": "UX 패턴은 Eleken이 직접 디자인한 제품으로 풀어낸다. 영업 플랫폼 Zaplify에는 빈 입력창 대신 검토하고 고쳐 쓸 AI 추천 메시지를 넣었다. 콘텐츠 제작 플랫폼 Modia에는 낯선 기능을 흐름 안에서 알려 주는 툴팁을 달았다. 모금 플랫폼 Avid는 기부자 데이터에서 나온 추천을 바로 행동할 수 있는 카드로 보여 주고, 고객 서비스 플랫폼 Siena에는 AI 동작을 실전 전에 시험해 보는 플레이그라운드를 뒀다."
           },
           {
             "t": "p",
-            "x": "도구는 오히려 주니어 편이다. Microsoft와 LinkedIn 조사에서 리더 71%는 AI 역량이 있는 경력 짧은 후보를 AI 역량 없는 경력자보다 선호했다. 고객 지원 상담원 5179명을 추적한 연구에선 초보자의 성과가 34% 올랐다. 그렇다고 도구를 잘 다루는 게 판단력은 아니다. 주니어는 도구 감각을, 시니어는 판단력을 갖췄으니 둘을 한자리에 모으는 게 리더의 몫이다."
+            "x": "사건 문서를 다루는 AI 비서 CaseScribe에서는 답변을 원본 문서까지 거슬러 확인하게 하고 분석이 진행되는 과정도 보여 줬다. Stradigi AI의 저코드 플랫폼 Kepler는 머신러닝 기능은 그대로 두고 화면만 쉽게 풀었다. 신뢰는 AI를 실제보다 확신 있어 보이게 꾸며서 얻는 게 아니다. 근거와 상태를 드러내고 사람이 검토할 틈을 줄 때 생긴다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*1FnqmvdvEGvBbGZUh86AJA.png",
-            "cap": "많이 만들수록 판단할 것도 많아진다"
+            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2e63013d646e3f86a5334_ai_design_patterns_06.webp",
+            "cap": "통제 층위로서의 AI 인터페이스"
           },
           {
             "t": "p",
-            "x": "만드는 비용이 내려갈수록 판단할 일은 늘어난다. Ethan Mollick은 일을 기계에 넘길 때마다 스스로 전문성을 키울 기회를 잃는다고 경고한다. 혼자 도구를 쓰는 주니어는 결과를 받아들이는 법을, 시니어 곁의 주니어는 의심하는 법을 배운다. Neeman의 처방은 구체적이다. 이번 분기에 주니어 채용 요청서를 하나 열고, 가르치고 싶어 하는 매니저를 붙이고, 교육 시간을 계획에 넣고, 1년 안에 한 단계 올라설 사람을 분기마다 보고하라."
+            "x": "Eleken 디자인 디렉터 Maksym Chervynskyi는 소프트웨어가 사용자가 찾아가는 점에서 하루 업무를 관통하는 선으로 바뀌고 있다고 본다. 에이전트가 검색과 조합, 실행을 더 많이 떠맡을수록 인터페이스는 길 안내보다 통제 층위에 가까워진다. 그래서 신뢰와 가시성, 사람의 판단을 설계하는 일이 지능 자체를 설계하는 일만큼 중요해진다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-figma-launch-speed",
+      "eyebrow": "AI NEWS",
+      "headline": "Figma가 짚은\n지금 좋은 제품을 만드는 조건",
+      "body": "이제 어려운 일은 출시까지 속도를 지키고 옳은 방향을 고르는 것이라고 본다.",
+      "mini_headline": "좋은 제품의 조건",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-09-24T20:44:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "AI를 쓰면 프롬프트 한 줄에서 클릭 가능한 결과물까지 몇 시간이면 닿는다. 하지만 빨리 도착했다고 좋은 걸 만든 건 아니다. 잘 다듬은 프로토타입도 큰 질문 앞에서는 멈춘다. 이게 최선의 방향인가, 그냥 첫 번째 방향인가. 우리다운가. 무엇보다 정말 만들 가치가 있나."
+          },
+          {
+            "t": "p",
+            "x": "Figma 제품 부사장 Paige Costello는 이 질문에 잘 답하는 팀이 속도, 방향, 차별화 세 가지에 강하다고 본다. 마지막 구간까지 속도를 잃지 않고, 여러 방향을 저울질한 뒤 하나에 걸고, 결과물을 자기들만 만들 수 있는 것으로 빚는다."
+          },
+          {
+            "t": "p",
+            "x": "속도는 변경마다 가장 빠른 수단을 고르는 데서 나온다. 폼 필드와 버튼 사이가 너무 벌어졌다면 프롬프트로 설명하기보다 Figma에서 직접 고치는 편이 빠르다. 팀원 수에 따라 가격이 바뀌는 계산기라면 10명, 20명, 50명 버전을 따로 그릴 필요 없이 코드로 간단한 계산을 짜면 된다. 누군가 찾아낸 접근성 점검 같은 지름길은 / 명령으로 부르는 스킬이나 플러그인으로 만들어 팀 전체가 쓰게 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+            "cap": "캔버스에서 작업하는 Figma 디자인 에이전트"
+          },
+          {
+            "t": "p",
+            "x": "방향을 고르려면 먼저 넓게 봐야 한다. 여러 방향을 탐색하는 데 예전엔 시간이 오래 걸렸지만, 이제 같은 도구로 대안도 빨리 시험한다. 미용실 예약 흐름을 설계한다면 그 주에 빈 시간이 없을 때, 스타일리스트가 취소할 때, 고객이 일정을 바꿔야 할 때까지 확인해야 방향이 버티는지 안다. 여러 안을 공유 캔버스에 나란히 놓고 팀이 비교하며, Figma 에이전트에 첫 사용자 사용성이나 엔터프라이즈 영업 관점의 비평을 맡길 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+            "cap": "디자인과 React 코드를 나란히 놓고 탐색하는 화면"
+          },
+          {
+            "t": "p",
+            "x": "AI 덕분에 더 많은 사람이 그럴듯한 출발점에 서게 된 만큼, 눈에 띄려면 더 의도적인 선택이 필요하다. 커스텀 셰이더를 만들었는데 빛만 너무 세다면 다시 프롬프트를 넣지 말고 강도를 직접 낮추라는 식이다. 새 프롬프트는 색과 블러, 패턴까지 바꿔 버릴 수 있다. 메뉴가 특정한 반동으로 열리게 하거나 카드에 반짝이는 그라디언트를 입히는 일도 이제 캔버스를 떠나지 않고 Figma 에이전트와 해낸다. 완성한 모션은 개발자가 Dev Mode에서 CSS, JSON, React로 그대로 복사해 간다."
+          },
+          {
+            "t": "p",
+            "x": "좋은 제품을 만드는 일이 쉬워진 건 아니다. 어려운 일이 벌어지는 자리가 옮겨 갔을 뿐이다. 프로토타입은 첫수에 불과하고, 팀은 여전히 끝까지 속도를 지키고 옳은 방향을 고르고 남과 다른 것을 빚어내야 한다."
           }
         ]
       }

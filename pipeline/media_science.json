@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "science",
   "media": [
     {
-      "id": "science-tautomer",
+      "id": "science-anthropic-art-enzyme",
       "type": "image",
-      "src": "pipeline/media/science-tautomer.jpg"
+      "src": "pipeline/media/science-anthropic-art-enzyme.jpg"
     },
     {
-      "id": "science-virtual-cells",
+      "id": "science-alphafold-virus-complexes",
       "type": "image",
-      "src": "pipeline/media/science-virtual-cells.jpg"
+      "src": "pipeline/media/science-alphafold-virus-complexes.jpg"
     },
     {
-      "id": "science-psychiatry",
+      "id": "science-six-dim-sphere-ai",
       "type": "image",
-      "src": "pipeline/media/science-psychiatry.jpg"
+      "src": "pipeline/media/science-six-dim-sphere-ai.jpg"
     },
     {
-      "id": "science-reactor",
+      "id": "science-dust-xray-screening",
       "type": "image",
-      "src": "pipeline/media/science-reactor.jpg"
+      "src": "pipeline/media/science-dust-xray-screening.jpg"
     },
     {
-      "id": "science-dog-bark",
+      "id": "science-tango-humanoid-gaps",
       "type": "image",
-      "src": "pipeline/media/science-dog-bark.jpg"
+      "src": "pipeline/media/science-tango-humanoid-gaps.jpg"
     }
   ]
 }

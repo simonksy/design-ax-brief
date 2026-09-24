@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
-      "title": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
-      "source": "9to5Google",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New audio chipset built for on-device AI hearables, including earbuds with cameras. It sets the hardware baseline for the next wave of AI wearables. Kept over the CNET 'headphones AI rebrand' piece, which covers the same announcement.",
-      "published_iso": "2026-09-23T18:30:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus..."
+      "rationale": "New Gemini Live Avatar gives the assistant an animated face that switches across 97 languages, a fresh on-device AI interface release.",
+      "published_iso": "2026-09-24T19:59:26+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
+      "excerpt": "The AI avatar can transition between 97 languages."
     },
     {
-      "url": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
-      "title": "Meta is working on making Muse its smart glasses assistant",
-      "source": "Android Authority",
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "source": "Ars Technica",
+      "title": "Meta puts its AI assistant on a keychain",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Meta's autonomous Muse agent is coming to its smart glasses, bringing navigation and fitness features. This is a new hardware angle, separate from the Muse 0-day story published 09-23. Kept over the Verge Muse shopping hands-on.",
-      "published_iso": "2026-09-23T14:44:39Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Ray-Ban-Meta-glasses-Skyler-Shiny-Chalky-Gray-with-Transitions-Sapphire-lenses-scaled.jpg",
-      "excerpt": "Meta is working to bring Muse, its autonomous AI agent, to its smart glasses opening up features like navigation and fitness tracking."
+      "rationale": "Connect pick 1 of 2: Muse Charm is a brand-new keychain-sized AI hardware form factor shipping in December, distinct from yesterday's Muse-on-glasses leak.",
+      "published_iso": "2026-09-24T14:03:38+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
+      "excerpt": "Meta says the keychain-sized Muse Charm will ship in December."
     },
     {
-      "url": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
-      "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
-      "source": "MacRumors",
+      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+      "source": "WIRED",
+      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "On macOS 27 the on-device AI model downloads automatically, can't be turned off, and can take over 30GB. Mac users should check their disk space now.",
-      "published_iso": "2026-09-23T10:30:15Z",
-      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "excerpt": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system."
+      "rationale": "Connect pick 2 of 2: Private Processing encryption coming to Meta's AI glasses addresses the category's biggest privacy concern, a new angle not yet covered.",
+      "published_iso": "2026-09-23T23:30:29.387Z",
+      "og_image": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg",
+      "excerpt": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses."
     },
     {
-      "url": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
-      "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
-      "source": "9to5Mac",
+      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
+      "source": "Engadget",
+      "title": "Google Photos' new Redact tool will make it easy to hide sensitive information",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A tool readers can use right away: the local Whisper app now does live meeting transcripts and better speaker recognition.",
-      "published_iso": "2026-09-23T21:17:11Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628",
-      "excerpt": "MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, and more."
+      "rationale": "Actionable new AI-powered Redact tool in Google Photos that blurs sensitive parts of an image in one step, useful for anyone sharing screenshots.",
+      "published_iso": "2026-09-24T17:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
+      "excerpt": "Google Photos’ new AI-powered features include the Redact tool, which can quickly blur parts of an image."
     },
     {
-      "url": "https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/",
-      "title": "SwiftKey ‘AI voice’ is Pixel 11’s Rambler voice-to-text for other Android phones, works offline",
-      "source": "9to5Google",
+      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+      "source": "9to5Mac",
+      "title": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "Microsoft's SwiftKey beta brings Pixel 11 Rambler-style AI voice typing to any Android phone, running on an on-device model offline. A concrete look at on-device AI spreading beyond flagship exclusives.",
-      "published_iso": "2026-09-15T17:15:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-3.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Rambler in Gboard is perhaps one of the best Pixel 11 features, delivering powerful voice-to-text backed up by AI models...."
+      "rationale": "Hands-on test of iOS 27 Clean Up and Extend against Photoshop with real photos, directly relevant to how creatives choose AI editing tools.",
+      "published_iso": "2026-09-24T15:25:43+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "How does Apple’s new iOS 27 Clean Up and Extend compare to Photoshop? I tested both with real photos to find out."
     }
   ]
 }

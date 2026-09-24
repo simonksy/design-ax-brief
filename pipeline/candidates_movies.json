@@ -1,180 +1,151 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "movies",
-  "now_iso": "2026-09-23T22:00:00Z",
   "window_hours": 336,
-  "generated_by": "librarian (movies)",
-  "collection_notes": "Feeds-first sweep: RSS for 20+ allowed domains (paged WP feeds for 14-day depth), PMC news-sitemaps + post-sitemap202609 slug scan (Variety/THR/Deadline/IndieWire), 14 YouTube channel feeds; 5 WebSearch calls used. Dropped: NFS Topaz (published_iso 5s after now -> not FRESH; RedShark copy kept), Deadline Maxton Hall AI lip-sync (Sep 9 14:45, just outside 14d), NFS Resolve 21.1 (Sep 8), THR AI sports (Sep 4), THR Tilly Norwood glitch (already published), Deadline/NFS Tom Cruise (covered), Cartoon Brew/Variety Disney CTO (exec move), Deadline YouTube live dubbing (dup of Verge Made on YouTube), Deadline MIPCOM (market/business), Luma blog (SEO listicles), Insta360 X6/Motionographer (no substantive AI). Per-outlet cap hit for Variety (spares: Katzenberg 'AI not going away' 09-23, Paul Walker AI Fast finale 09-10, AGBO Tokyo AI keynote 09-17, Weta FX Busan AI panel 09-16, Bill Hader on AI 09-18). YouTube counted per channel. Flags: RedShark Topaz is an acquisition-completion story (tool hook: Topaz upscaling inside Adobe); Runway DIFFUSE is a talent marketplace; Kling TIFF video is promo-light. Korean-source search surfaced only off-list outlets (BIFF Forum AI section Oct 8-11; 3rd Busan Intl AI Film Festival Dec 3-5) - not added.",
   "items": [
     {
-      "url": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/",
+      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-23T07:01:00Z",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/TGT_S1_Unit_01148RC2_C2_thumbnail_R.jpg?w=1000&h=563&crop=1",
-      "headline": "Netflix Competition ‘Wonka’s The Golden Ticket’ Is a Ghoulish Misuse of AI Gene Wilder: TV Review",
-      "axis": "deepfake-likeness",
-      "excerpt": "A Netflix competition show based on Roald Dahl's 'Charlie and the Chocolate Factory' uses an AI-generated Gene Wilder in a disastrous gimmick."
+      "published_iso": "2026-09-12T16:08:35+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Kling-AI-panel.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Kling AI powered and hosts the TIFF The Market panel 'New Creative Paradigm: Consistent, Cinematic AI Video' in Toronto.",
+      "title": "Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: ‘The Script Is Still"
     },
     {
       "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-22T02:07:03Z",
+      "published_iso": "2026-09-22T02:07:03+00:00",
       "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
-      "headline": "Generative AI, Microdramas to Take Center Stage at Busan Market",
-      "axis": "festival-market",
-      "excerpt": "Busan market ACFM spotlights generative AI and microdrama through InnoAsia, alongside Country of Honor Thailand and Focus Country Japan."
+      "excerpt": "Busan market ACFM spotlights generative AI and microdrama through InnoAsia, alongside Country of Honor Thailand and Focus Country Japan.",
+      "title": "Generative AI, Microdramas to Take Center Stage at Busan Market"
     },
     {
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "url": "https://variety.com/2026/biz/news/jeffrey-katzenberg-hollywood-must-accept-not-going-away-1236873535/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-21T23:29:50Z",
-      "og_image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg?w=1000&h=563&crop=1",
-      "headline": "Robin Williams’ Daughter Calls for Fans Creating AI Videos of the Actor to ‘Have Some Shame’: ‘Leave Him Out of Your Delusional Bulls—’",
-      "axis": "deepfake-likeness",
-      "excerpt": "Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams."
+      "published_iso": "2026-09-23T17:49:23+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2025/04/GF2_2199.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Jeffrey Katzenberg, the legendary Hollywood producer, thinks Hollywood needs to accept AI if it wants to remain at the forefront of the future.",
+      "title": "Jeffrey Katzenberg Says Hollywood Must Accept AI as a Tool: It ‘Is Not Going Away’"
     },
     {
       "url": "https://deadline.com/2026/09/ai-hollywood-risks-rewards-lawyers-1237111607/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-23T20:59:32Z",
+      "published_iso": "2026-09-23T20:59:32+00:00",
       "og_image": "https://deadline.com/wp-content/uploads/2026/09/LA-Law-2.jpg?w=1024",
-      "headline": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood",
-      "axis": "legal-labor",
-      "excerpt": "AI on the docket: Lawyers panel discusses the risks and rewards of artificial intelligence for Hollywood during a panel at Deadline’s inaugural L.A. Law Summit."
+      "excerpt": "AI on the docket: Lawyers panel discusses the risks and rewards of artificial intelligence for Hollywood during a panel at Deadline’s inaugural L.A. Law Summit.",
+      "title": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood"
     },
     {
-      "url": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "url": "https://deadline.com/2026/09/the-view-sunny-hostin-defends-ai-gatekeeping-hollywood-1237099723/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-14T08:51:03Z",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg?w=1024",
-      "headline": "'Adolescence' Scribe Jack Thorne Warns: Writers Using AI To \"Cheat\"",
-      "axis": "screenwriting",
-      "excerpt": "'Adolescence' writer Jack Thorne has warned that his colleagues are using AI to \"cheat.\" He added that those caught should be punished."
+      "published_iso": "2026-09-12T01:52:58+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/the-view-joy-behar-sunny-hostin-alyssa-farah-griffin.jpg?w=1024",
+      "excerpt": "Sunny Hostin received pushback from her co-hosts on The View as she defended the use of AI in Hollywood.",
+      "title": "'The View's Sunny Hostin Defends AI As \"New Art Form\" Amid \"Gatekeeping In Hollywood Around Black & Brown Creative Conte"
     },
     {
-      "url": "https://www.redsharknews.com/adobe-completes-topaz-labs-acquisition",
-      "source": "RedShark News",
+      "url": "https://deadline.com/2026/09/mipcom-cannes-creators-brands-ai-distribution-lucy-smith-1237109940/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-23T15:00:00Z",
-      "og_image": "https://www.redsharknews.com/hubfs/Adobe%20x%20Topaz.jpg",
-      "headline": "Adobe completes Topaz Labs acquisition",
-      "axis": "post-tools",
-      "excerpt": "Adobe completes its Topaz Labs acquisition, with CEO Eric Yang joining Adobe and Neurostream promising impressive cuts in AI VRAM demands."
+      "published_iso": "2026-09-22T12:06:58+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MIPCOM2025.jpg?w=1024",
+      "excerpt": "MIPCOM boss Lucy Smith wants the world to know that October in Cannes is now about more than buying and selling TV programs.",
+      "title": "MIPCOM In Cannes Bets On Creators, Brands & AI"
     },
     {
-      "url": "https://www.redsharknews.com/evoto-8.0-video-tools-asset-hub",
-      "source": "RedShark News",
+      "url": "https://www.cartoonbrew.com/artificial-intelligence/oiaf-the-animation-conference-artificial-intelligence-267040.html",
+      "source": "Cartoon Brew",
       "category": "movies",
-      "published_iso": "2026-09-23T07:33:16Z",
-      "og_image": "https://www.redsharknews.com/hubfs/evoto%208.0%20main.jpg",
-      "headline": "Evoto 8.0: New video tools, Asset Hub, pricing",
-      "axis": "post-tools",
-      "excerpt": "Evoto 8.0 adds portrait retouching inside DaVinci Resolve, story-based culling, and Asset Hub, a marketplace where creators keep 60% of sales. Available now."
+      "published_iso": "2026-09-24T18:55:31+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/TAC-AI.jpg",
+      "excerpt": "A panel of local industry vets tackled AI’s effect on entry-level jobs, creative control, and the growing problems with large AI models.",
+      "title": "Canada Debates AI’s Place In Animation At OIAF's TAC"
     },
     {
-      "url": "https://www.animationmagazine.net/2026/09/utopais-the-most-serious-fart-adaptation-recruits-simpsons-casting-director-coyote-vs-acme-story-artist/",
-      "source": "Animation Magazine",
+      "url": "https://nofilmschool.com/adobe-in-gemini",
+      "source": "No Film School",
       "category": "movies",
-      "published_iso": "2026-09-17T20:09:15Z",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Most-Serious-Fart-cover-featured.jpg",
-      "headline": "Utopai's 'The Most Serious Fart' Adaptation Recruits 'Simpsons' Casting Director, 'Coyote vs. Acme' Story Artist - Animation Magazine",
-      "axis": "ai-animation",
-      "excerpt": "Casting director Scott Muller and story artist Andy Brooks have joined the team of 'The Most Serious Fart' animated feature adaptation."
+      "published_iso": "2026-09-24T18:30:06+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=67845626&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "excerpt": "Adobe has announced more AI integration news with its new Adobe in Gemini plugin, along with upgrades to its Adobe in Claude plugin.",
+      "title": "Adobe Expands Its AI Integrations to Gemini, Plus Further Powers Up With Claude"
     },
     {
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "url": "https://nofilmschool.com/adobe-topaz-labs-complete",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-09-23T22:00:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=67033398&width=1200&height=600&coordinates=0%2C106%2C0%2C106",
+      "excerpt": "Adobe has announced that its acquisition of Topaz Labs, an AI company that specializes in video and image enhancement models, is now complete.",
+      "title": "Adobe’s Acquisition of Topaz Labs is Complete as Double Down on AI Enhancements Continues"
+    },
+    {
+      "url": "https://www.provideocoalition.com/digital-anarchy-releases-beauty-box-update/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-09-24T08:06:41-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beautyboxupdate001-1.jpg",
+      "excerpt": "The new Beauty Box v6.5, now released, adds a new filter for eye and teeth whitening that uses machine learning to identify those areas. The newest version of Digital Anarchy’s real-time skin retouching tool for video adds teeth and eye whitening and a new, faster GPU inference engine, that runs loc",
+      "title": "Digital Anarchy releases Beauty Box update"
+    },
+    {
+      "url": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-09-14T11:25:09+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/08/erandinur.jpg",
+      "excerpt": "Dinur, who has been teaching courses on ComfyUI and GripTape, talks about the AI and ML landscape VFX artists are facing right now.",
+      "title": "VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects - befores & afters"
+    },
+    {
+      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-09-11T15:32:23+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png",
+      "excerpt": "Studio Network Solutions (SNS), which makes shared storage hardware and software products for M&E, is at IBC this year showing workflow updates offering better performance, greater compatibility, convenience and flexibility.  The latest EVO OS update increases aggregate throughput by up to 40% on se",
+      "title": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO, More"
+    },
+    {
+      "url": "https://postperspective.com/acon-acoustica-8-provides-ai-assisted-audio-workflow-tools/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-09-11T17:37:44+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
+      "excerpt": "Acon Digital has introduced Acoustica 8, the newest version of its audio editing, restoration and mastering suite. A direct response to the technical challenges voiced by audio pros",
+      "title": "Acon Acoustica 8 Provides AI-Assisted Audio Workflow Tools"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
       "source": "Google Blog",
       "category": "movies",
-      "published_iso": "2026-09-23T19:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.width-1300.png",
-      "headline": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "axis": "generative-video-model",
-      "excerpt": "Get high-quality video production right from your browser. Anyone with a Google account can create videos for free in Google Vids."
+      "published_iso": "2026-09-24T15:30:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
+      "excerpt": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar"
     },
     {
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "source": "The Verge",
+      "url": "https://www.cineplay.co.kr/ko-kr/articles/29771",
+      "source": "씨네플레이",
       "category": "movies",
-      "published_iso": "2026-09-23T14:30:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Creation-YT-Studio-Bundle-Optimize-your-Catalog-UX-Flow-2.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-      "headline": "YouTube is building AI creator tools that do almost everything for them",
-      "axis": "dubbing-creator-tools",
-      "excerpt": "The future of creating on YouTube looks like a lot of AI"
+      "published_iso": "2026-09-18T15:51:00+09:00",
+      "og_image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-09-18/8a69dbc0-9e93-440f-9163-9ad2c8a797b1.jpg",
+      "excerpt": "가장 차가운 기술로 빚어낸 가장 뜨거운 인간의 딜레마 올해 영화 '군체'로 독보적 세계관을 증명한 '연상호' 감독이 순제작비 5억 원대의 저예산 신작 '실낙원'으로 귀환한다. 다음 달 21일 개봉을 확정 지은 이 작품은 아들의 실종 사고 이후 '인공지능'(AI) 프로그램에...",
+      "title": "\"어머니 3쪽 메모가 원안\" 연상호, 제작비 5억 신작 '실낙원'… 토론토 홀린 AI 딜레마"
     },
     {
-      "url": "https://www.youtube.com/watch?v=hcAMFjvwduI",
-      "source": "Runway (YouTube)",
+      "url": "https://motionographer.com/news/who-moved-my-work-tim-thompson-on-revthinks-the-weekly-briefing/",
+      "source": "Motionographer",
       "category": "movies",
-      "published_iso": "2026-09-23T20:10:32Z",
-      "og_image": "https://i.ytimg.com/vi/hcAMFjvwduI/maxresdefault.jpg",
-      "headline": "Runway is now in DaVinci Resolve | Runway",
-      "axis": "post-tools",
-      "excerpt": "Get started: Access the world's best models directly inside your timeline to generate, edit and upscale without leaving your project. Get started at the link in bio."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
-      "source": "Runway (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-22T17:02:25Z",
-      "og_image": "https://i.ytimg.com/vi/4oNzKoODTVA/maxresdefault.jpg",
-      "headline": "Introducing DIFFUSE | Runway",
-      "axis": "ai-talent",
-      "excerpt": "Register and learn more: Introducing DIFFUSE: a platform for brands to search for, connect with and hire AI-native talent. Creatives build a profile and showcase their work. Brands, agencies and studios connect directly with the talent they need. #Runway #DIFFUSE #AITalent #CreativeJobs"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
-      "source": "Runway (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-14T17:17:17Z",
-      "og_image": "https://i.ytimg.com/vi/swx780Vy_OQ/maxresdefault.jpg",
-      "headline": "Consistent AI Characters, Voices and Scenes (Advanced Workflow) | Runway",
-      "axis": "ai-filmmaking-workflow",
-      "excerpt": "Access the prompts and Claude skill: Learn how the Game of Horse video was made, with a full breakdown of the exact techniques behind it. We cover the storytelling fundamentals that make a scene land, rapid character development and character sheets in Runway Agent, wardrobe and location development"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=HVeHHAfiR44",
-      "source": "Curious Refuge (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-22T23:09:44Z",
-      "og_image": "https://i.ytimg.com/vi/HVeHHAfiR44/maxresdefault.jpg",
-      "headline": "This Is Where Filmmaking Is Headed Next (Full Tutorial)",
-      "axis": "hybrid-vfx-workflow",
-      "excerpt": "In this video, we tested a hybrid filmmaking workflow that combines live-action footage with AI to transform simple greybox shots into entirely new environments. Check out the full written breakdown and prompts here: Check out our courses: And our latest Micro-drama course: Get AI Film News Sent to "
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=_fSIhcZqm2g",
-      "source": "Curious Refuge (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-15T19:49:43Z",
-      "og_image": "https://i.ytimg.com/vi/_fSIhcZqm2g/maxresdefault.jpg",
-      "headline": "Video Editing Is About to Change Forever",
-      "axis": "ai-editing",
-      "excerpt": "In this video, we put OpenAI Astra through real video editing workflows, and the results were pretty wild. Check out the full written breakdown here: Check out our courses: Get AI Film News Sent to You: Learn AI Filmmaking Workflows for Free: Join our Community today:"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
-      "source": "Kling AI (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-18T12:00:26Z",
-      "og_image": "https://i.ytimg.com/vi/dn376baf_Ds/maxresdefault.jpg",
-      "headline": "From Traditional Filmmaking to AI Animation: Diane Shorthouse’s Journey with Kling AI",
-      "axis": "ai-animation",
-      "excerpt": "After 30 years in traditional film and TV, Diane Shorthouse is exploring how AI can expand what filmmakers create. From safer production to bringing emotional performances to AI characters, she shares her experience making MINIBOTS with Kling AI. #kling #klingai #toronto"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=B0uQcIDBr9Y",
-      "source": "Kling AI (YouTube)",
-      "category": "movies",
-      "published_iso": "2026-09-14T15:00:18Z",
-      "og_image": "https://i.ytimg.com/vi/B0uQcIDBr9Y/maxresdefault.jpg",
-      "headline": "Live from Toronto: KlingAI at TIFF The Market",
-      "axis": "festival-market",
-      "excerpt": "At TIFF The Market, KlingAI hosted both an insightful expert Panel Discussion and a lively industry reception. Bringing together filmmakers and tech leaders, we explored how AI serves as a tool that makes production more affordable and accessible. ✨ #kling #klingai #toronto"
+      "published_iso": "2026-09-23T16:48:28+00:00",
+      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/rim-revthink.png",
+      "excerpt": "AI didn’t arrive yesterday. Clients didn’t wake up this morning and decide they could do more themselves, and the value of creative work didn’t change overnight. But it is easy to…",
+      "title": "Who Moved My Work? Tim Thompson on RevThink’s The Weekly Briefing"
     }
   ]
 }

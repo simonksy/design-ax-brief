@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "books",
   "generated_by": "ax-curator",
   "selection_mode": "curator-auto (user deferred — \"알아서\")",
@@ -10,139 +10,119 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Canadian author Thélyson Orélien accused of using AI to write award-winning novel",
-      "url": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-23T15:44:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
-      "excerpt": "Canadian-Haitian author Thélyson Orélien is accused of using AI to write most of his award-winning debut novel C’était ça ou mourir; his Canadian and French publishers are standing by him.",
-      "rationale": "Freshest hard-news item (09-23): a prize-winning debut novel accused of being mostly AI-written, and both of its publishers are standing by the author. It raises the authorship question with a named book, a named prize and two publishers on record.",
-      "framing_note": "WRITER: attribute the accusation to its source. The publishers stand by him, so do not present the AI use as established fact. Keep it distinct from earlier AI-allegation cards (Daggermouth 07-30/08-06, Commonwealth prize 06-27): this case is a new author, a new book and a French-language market."
+      "headline": "Amazon KDP limits authors to two titles per format per week",
+      "url": "https://janefriedman.com/amazon-kdp-limits-authors-to-two-titles-per-format-per-week/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-23T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Amazon KDP now caps uploads at two titles per format per week (down from 10); Amazon began setting upload limits in fall 2023 due to the flood of generative-AI books.",
+      "rationale": "The most actionable item: a platform rule change (10 uploads a week cut to 2) that changes release planning for every self-published author right away. It is a direct response to the flood of AI-generated books.",
+      "framing_note": "WRITER: lead with the new cap and who it affects. Present AI-book volume as the stated background, as the source does. The og_image is Jane Friedman's generic premium banner, so ax-media should source a distinct image."
     },
     {
       "rank": 2,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "Novvel.co pioneers producing graphic novels with AI assistance",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-23T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131457-1.PNG",
-      "excerpt": "Singapore startup Novvel.co says its AI-assisted platform can halve graphic-novel adaptation production time and cost, with human artists still in the driver's seat.",
-      "rationale": "The most actionable pick for visual creators: a production workflow that claims to halve the time and cost of graphic-novel adaptation while keeping human artists involved. It shows how AI is entering comics and illustration pipelines.",
-      "framing_note": "WRITER: lead with how the workflow splits work between AI and human artists. The 'halves time/cost' figure is the company's own claim, so attribute it. Keep funding or valuation details out."
+      "headline": "SCBWI updates its AI policy to prohibit use in the creative process",
+      "url": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-23T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Their policy is a strong model but also one of the strictest I’ve seen, banning generative AI for brainstorming or an editing pass.",
+      "rationale": "A new, concrete policy from a major children's-publishing body. It bans generative AI even for brainstorming or an editing pass, which directly affects how its members write and illustrate. It was yesterday's first backfill and is still fresh.",
+      "framing_note": "WRITER: state what is now banned (brainstorming, editing passes) and who it covers. Keep it distinct from rank 1: this is a professional-body policy, not a platform limit. The generic banner applies here too, so ax-media should source a distinct image."
     },
     {
       "rank": 3,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "웹소설 플랫폼, AI로 찍어낸 '쌀먹' 웹소설 대량 유입에 골머리",
-      "url": "https://www.mt.co.kr/tech/2026/09/22/2026092214054459193",
-      "source": "머니투데이",
-      "published_iso": "2026-09-22T05:57:05Z",
-      "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1821,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026092214054459193_1.jpg",
-      "excerpt": "리디 등 웹소설 플랫폼에 AI로 복붙 생산한 웹소설이 대량 유입되며 'AI 쌀먹' 문제로 플랫폼이 골머리를 앓고 있다.",
-      "rationale": "A Korean-market angle the section hasn't covered: web-novel platforms such as Ridi are dealing with a flood of AI-produced serials written to farm platform rewards. It is the local counterpart to the Amazon AI-slop stories covered earlier, but a different market and a different event.",
-      "framing_note": "WRITER: explain 'AI 쌀먹' (mass-producing low-effort AI serials to farm rewards or revenue), then say what the platforms are doing about it. Do not re-cite the Amazon AI-slop study (covered 08-29)."
+      "headline": "AI and Scholarly Reading: Foxes versus Hedgehogs",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-23T09:30:35+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/foxhedgehog.jpg",
+      "excerpt": "Some readers are foxes, and some are hedgehogs. What kind of reader is AI, and how will that impact both the practice of science and the business of journal publishing?",
+      "rationale": "A fresh analysis of AI as a reader: broad-skimming 'fox' versus deep 'hedgehog', and what that means for research practice and journal publishing. It has its own article image.",
+      "framing_note": "WRITER: explain the fox/hedgehog framing and the conclusion for publishers. This is an opinion essay, so attribute its claims to the author."
     },
     {
       "rank": 4,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "ScrollEd wants to turn textbooks into TikTok",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "source": "TechCrunch",
-      "published_iso": "2026-09-20T18:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
-      "excerpt": "ScrollEd uses AI to turn textbooks into a scrollable, short-form feed of video, audio and quizzes.",
-      "rationale": "A new product that changes the reading format: AI turns textbook content into a short-form feed of video, audio and quizzes. It is a concrete format and UX change, and it adds the education angle to the day's spread.",
-      "framing_note": "WRITER: focus on the format change (book to feed) and how the product works. Leave out funding figures if the article includes them."
+      "headline": "Frankfurt Book Fair 2026: Redrawing the Map",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-18T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131519-1.PNG",
+      "excerpt": "A more compact Frankfurt Book Fair sets aside extra space for AI, audiobooks and comics, with an unusually large cohort of AI-focused service providers and a Hall 4.1 Innovation Stage.",
+      "rationale": "The biggest rights fair has been reorganised with dedicated AI space, a large group of AI service providers and an Innovation Stage. It is a useful preview of the AI tools publishers will be pitched next month.",
+      "framing_note": "WRITER: focus on the AI footprint (the AI service-provider cohort, the Hall 4.1 Innovation Stage). The 'AI Narration Beyond the Lab' debate from PW's companion 'Must-see Events' piece can be mentioned as a detail; that piece was folded in here as a same-source, same-topic duplicate."
     },
     {
       "rank": 5,
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "Misconduct case dropped against AI ethicist Virginia Dignum after claims of AI use in her book",
-      "url": "https://retractionwatch.com/2026/09/21/misconduct-case-dropped-against-ai-expert-after-claims-of-ai-use-in-recent-book/",
-      "source": "Retraction Watch",
-      "published_iso": "2026-09-21T10:00:00Z",
-      "og_image": "https://retractionwatch.com/wp-content/uploads/2026/09/AI-Paradox-Virginia-Dignum_social.png",
-      "excerpt": "Sweden's research-misconduct board dismissed a case against AI ethicist Virginia Dignum after allegations her book The AI Paradox contained AI-hallucinated references.",
-      "rationale": "A regulator ruling rather than an opinion: Sweden's misconduct board dismissed allegations that hallucinated references in an AI ethicist's own book were AI-generated. It is a nonfiction and citation-integrity case, a different angle from rank 1's fiction authorship dispute, and it comes with a book-specific image.",
-      "framing_note": "WRITER: report what the board decided and why. Keep it distinct from rank 1: this is about nonfiction citations and a formal misconduct ruling, not a novel."
+      "headline": "Guest Post — Peer Review Triage: Deciding What’s Worth Saving",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-09-15T09:30:18+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/prwpost.jpg",
+      "excerpt": "Guest post argues the ubiquity of AI-assisted writing tools is inflating manuscript submissions and straining peer-review capacity, and asks what of the current system is worth saving.",
+      "rationale": "AI writing tools are driving up manuscript submissions and straining peer-review capacity. It is a different angle from rank 3 (the supply side of submissions versus how AI reads), and it is the best remaining item after the duplicates and soft pieces were dropped.",
+      "framing_note": "WRITER: lead with the causal claim (AI-assisted writing inflating submissions) and the triage options proposed. This is a guest opinion piece, so attribute it."
     }
   ],
   "dropped": [
     {
-      "url": "https://janefriedman.com/in-depth-look-at-pangram-by-a-literary-novelist/",
-      "source": "Jane Friedman",
-      "reason": "Content DUPLICATE: Pangram AI detection was already covered (WIRED 09-04 'Pangram gold standard', Jane Friedman 08-08 Substack/Pangram). A novelist testing it is not a new event, and the post uses the generic premium banner image."
+      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-21-2026/",
+      "source": "Publishing Perspectives",
+      "reason": "Content DUPLICATE: the roundup's lead AI story is Spotify's Audiobook Creation Tools (ElevenLabs AI narration) opening to self-published authors, already published 09-13 (janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors)."
     },
     {
       "url": "https://janefriedman.com/anthropic-settlement-increases-time-to-handle-disputes/",
       "source": "Jane Friedman",
-      "reason": "Content DUPLICATE: the Anthropic settlement claims saga has been covered many times (PW 07-24, Bookseller 07-24, selfpublishingadvice 09-02, Writer Beware 09-05, TechCrunch 09-09, Authors Guild 09-18). A 30-to-60-day deadline extension is only a procedural increment."
+      "reason": "Content DUPLICATE and legal/business: the Anthropic settlement claims saga has been covered repeatedly (PW 07-24, Writer Beware 09-05, TechCrunch 09-09, Authors Guild 09-18). The 30-to-60-day extension is procedural, and the same call was made on 09-24. A third Jane Friedman card would also break the per-outlet cap."
     },
     {
-      "url": "https://fortune.com/2026/09/14/ai-slop-books-amazon-marketplace-publishing-human-authors/",
-      "source": "Fortune",
-      "reason": "Content DUPLICATE: same AI-slop-books-on-Amazon study story as the-decoder (08-29), theweek (08-29) and selfpublishingadvice (08-08)."
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
+      "source": "Publishers Weekly",
+      "reason": "Within-pool duplicate: same source and same core topic (Frankfurt 2026 preview) as rank 4. Kept the single stronger piece."
     },
     {
-      "url": "https://yle.fi/a/74-20247235",
-      "source": "Yle",
-      "reason": "Storytel's AI features were covered before (Bookseller 06-29). The Finnish recap rollout is a narrower follow-on, so it lost to fresher items under the instruction to pick Storytel only if the news is genuinely new."
-    },
-    {
-      "url": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/",
-      "source": "Jane Friedman",
-      "reason": "Not a duplicate. This was the strongest runner-up (a strict children's-publishing AI policy), but it uses the generic Jane Friedman premium banner and stronger alternatives with real images existed. It is the first backfill if any pick fails enrichment."
-    },
-    {
-      "url": "https://www.etnews.com/20260922000490",
-      "source": "전자신문",
-      "reason": "Not a duplicate. A vendor product launch (hybrid AI-voice audiobook) that reads close to a press release. It lost on score and would be the second backfill."
-    },
-    {
-      "url": "https://finance.yahoo.com/media-advertising/articles/storiad-bitta-ai-partner-turn-170000285.html",
-      "source": "Storiad (PR Newswire)",
-      "reason": "Press release. Excluded per run instructions."
+      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-14th-2026/",
+      "source": "Publishing Perspectives",
+      "reason": "Stale (09-14) mixed roundup. Its lead item, Nippan selling books to Anthropic for scanning, is a deal (excluded as business noise). The China copyright guidance belongs in politics."
     },
     {
       "url": "https://bookriot.com/novels-about-ai/",
       "source": "Book Riot",
-      "reason": "Soft listicle. Excluded per run instructions."
+      "reason": "Soft listicle with no news event."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997113/erewhon-the-1872-book-that-predicted-an-ai-backlash-and-was-cited-by-alan-turing",
+      "source": "The Verge",
+      "reason": "Evergreen history item with no new release or insight."
     },
     {
       "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
       "source": "Literary Hub",
-      "reason": "Personal essay with no news event. Excluded per run instructions."
-    },
-    {
-      "url": "https://www.infodocket.com/2026/09/16/reimagining-research-papers-as-interactive-and-reliable-ai-agents-new-journal-article/",
-      "source": "infoDOCKET",
-      "reason": "Dropped on fit and missing image (empty og_image). Closer to the science section. This is the same call as on 09-20, 09-22 and 09-23."
-    },
-    {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
-      "source": "The Scholarly Kitchen",
-      "reason": "Not a duplicate. An opinion essay that lost on score. Scholarly Kitchen already had a card on 09-23."
+      "reason": "Personal essay where AI is incidental. Same call as on 09-24."
     }
   ],
   "dedup": {
-    "checked_against": "pipeline/published_urls.json books ledger (all published books URLs through 2026-09-23) plus the prior-day selected_books.json",
-    "pool_size": 22,
+    "checked_against": "pipeline/published_urls.json books ledger (through 2026-09-24) plus the prior-day selected_books.json",
+    "pool_size": 12,
     "dropped_as_duplicate": 3,
     "notes": [
       "No pick shares a URL with any published books card, and all five picks have distinct URLs.",
-      "Brand check: Pangram, the Anthropic settlement, Storytel and the Amazon AI-slop study were all covered before. Those items were dropped or deprioritised.",
-      "Outlet spread: The Bookseller, Publishers Weekly, 머니투데이, TechCrunch, Retraction Watch. That is five distinct outlets, one card each.",
-      "Topic spread: fiction authorship dispute (1), AI comics production (2), Korean web-novel platform flood (3), textbook format and edtech (4), nonfiction citation integrity ruling (5).",
-      "Cross-section risk: ScrollEd (TechCrunch) could also be picked by the gadgets section. Check before roll."
+      "Outlet spread: Jane Friedman (2), The Scholarly Kitchen (2), Publishers Weekly (1). That is three distinct outlets, with no outlet over 2.",
+      "Topic spread: platform upload rule (1), professional-body AI policy (2), AI as scholarly reader (3), book fair AI footprint (4), AI-driven submission load on peer review (5).",
+      "Ranks 1 and 2 share Jane Friedman's generic premium og_image. ax-media must source distinct in-article or topic images.",
+      "The pool is thin (12 items, 7 dropped). Rank 5 is the weakest pick but still clears the fresh, AI-central bar."
     ]
   }
 }

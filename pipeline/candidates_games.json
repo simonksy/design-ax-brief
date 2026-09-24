@@ -1,168 +1,97 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-09-23T22:00:00Z",
   "items": [
     {
-      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-23T12:17:21Z",
-      "og_image": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A new Microsoft patent describes designers prompting an AI with text, images and audio to generate a game's objectives, sidequests, NPCs, dialogue and items, then regenerating content live from players' facial expressions and speech.",
-      "title": "Microsoft want to record your face and feed it to a generative AI, telling it to go off and design a game from your frown",
-      "matched_keyword": "AI game dialogue / AI quest generation"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-      "source": "NVIDIA Technical Blog",
-      "category": "games",
-      "published_iso": "2026-09-22T13:00:00Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9.webp",
-      "excerpt": "NVIDIA details DLSS 5's 3D-Guided Neural Rendering with granular controls meant to preserve artistic intent, alongside NVIDIA ACE updates for AI-driven game characters and new RTX Kit capabilities for developers.",
-      "title": "What's New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities",
-      "matched_keyword": "NVIDIA ACE / neural rendering"
-    },
-    {
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
+      "url": "https://wccftech.com/claude-ai-builds-rtx-path-tracer-autonomous-engineering/",
       "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-23T21:05:17Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/image6-4.webp",
-      "excerpt": "NVIDIA released RTX Kit and RTX Mega Geometry 2.0 SDKs, giving developers neural rendering, path tracing and streaming of very high geometric detail. Overlaps with the NVIDIA dev-blog item; pick one.",
-      "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail",
-      "matched_keyword": "neural game engine / neural rendering"
+      "published_iso": "2026-09-24T13:47:27+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RTX-accelerated-3d-renderer-4.jpg",
+      "excerpt": "A developer used Anthropic's Claude to build a complete RTX-accelerated path tracer in about an hour, with the AI handling system-level graphics engineering from scratch. Wccftech frames it as a sign of autonomous AI coding reaching real-time rendering tools.",
+      "title": "Claude AI Helped Make an RTX-Accelerated Path Tracer From Start to Finish in Just an Hour"
     },
     {
       "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/",
       "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-23T18:43:33Z",
+      "published_iso": "2026-09-23T18:43:33+00:00",
       "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Feature-Image-6.jpg",
-      "excerpt": "OpenDLSS-NR reimplements DLSS 5's neural rendering in Vulkan, hitting 7.8 ms at 1080p on an RTX 4070 and running in web browsers, opening the AI look-altering filter beyond NVIDIA's stack.",
-      "title": "NVIDIA DLSS 5 Gets Open-Source Vulkan Reimplementation, Runs on RTX 40 GPUs and Even in Web Browsers",
-      "matched_keyword": "neural rendering (note: planner steers away from DLSS 5 mods)"
+      "excerpt": "OpenDLSS-NR reimplements DLSS 5's neural rendering in Vulkan, hitting 7.8 ms at 1080p on an RTX 4070 and even running in browsers. It opens the AI 're-lighting' filter to hardware and developers outside NVIDIA's official stack.",
+      "title": "NVIDIA DLSS 5 Gets Open-Source Vulkan Reimplementation, Runs on RTX 40 GPUs and Even in Web Browsers"
     },
     {
-      "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-09-23T14:59:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
-      "excerpt": "Needle In A Haystack Simulator's creator apologized as copycat games flood Steam; GamesRadar notes many of the clones evidently rely on generative AI, extending the vibe-coded fast-follow problem to Valve's store.",
-      "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
-      "matched_keyword": "vibe coding games / AI clones"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-09-18T10:41:12Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
-      "excerpt": "Square Enix updated FFXIV's Materials Usage License to allow more physical fan-made goods, while explicitly banning generative AI and 3D printing in fan merch.",
-      "title": "Final Fantasy 14 relaxes guidelines for non-commercial fan-made merch. New rules prohibit use of generative AI and 3D printing",
-      "matched_keyword": "AI game art policy / UGC"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/level-5-says-some-suspected-ai-oddities-from-trailers-were-actually-human-errors-apologizes-for-fueling-doubt-with-careless-use-of-ai-in-some-of-its-videos/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-09-17T07:07:59Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72681-002.jpg",
-      "excerpt": "In a fuller response to the backlash, Level-5 said some suspected AI artifacts in its Yo-kai Watch and Professor Layton trailers were human mistakes, but apologized for careless AI use in parts of its videos. This follows the Level-5 story already published 09-13, so treat it as a follow-up.",
-      "title": "Level-5 says some suspected AI oddities from trailers were actually human errors, apologizes for fueling doubt with \"careless use of AI\" in some of its videos",
-      "matched_keyword": "AI game art (follow-up)"
-    },
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-11T20:45:43Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered stream coach that suggests how creators can improve their channels, alongside an AI content-training opt-out.",
-      "title": "Twitch Plans To Shove More AI Down Creators' Throats With Stream Coach Tool",
-      "matched_keyword": "AI creator tools (game-adjacent)"
-    },
-    {
-      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-09-23T21:35:56Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/23/dow4-ign-ork-screenshots-cgi-1-1790198808137.png?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "King Art's creative director and senior game designer lose to Dawn of War 4's hard-difficulty enemy AI in gameplay footage, which shows how the RTS's opponent behavior was tuned. This is classic game AI, not generative AI.",
-      "title": "'The Boss Is Supposed to Win!' - Watch Hard Difficulty AI Orks Wipe the Floor With the Creative Director and Senior Game Designer of Warhammer 40,000: Dawn of War 4",
-      "matched_keyword": "AI dynamic difficulty (marginal: non-generative)"
-    },
-    {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
+      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-20T16:29:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
-      "excerpt": "The team behind the retro survival horror Tenebris Somnia positions its live-action cutscenes and practical effects as a deliberately human-made craft statement against AI.",
-      "title": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects",
-      "matched_keyword": "AI game art (marginal: anti-AI craft framing)"
+      "published_iso": "2026-09-24T11:03:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3Tyrwtxb6nBgdFkC2VkAnS-1920-80.jpg",
+      "excerpt": "PC Gamer forced DLSS 5's neural rendering onto a stylized Hatsune Miku rhythm game, showing how the AI model drags anime art direction toward photoreal faces and lighting. A hands-on look at where the generative filter clashes with non-realistic styles.",
+      "title": "Behold the DLSS 5 horrors I have unleashed"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=320975",
-      "source": "Inven",
+      "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-09-16T11:40:33+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/16/news/i1940286897.png",
-      "excerpt": "A solo Cambridge developer's Godot colony sim Luminids uses a character-cognition (CRI) system where characters make individual decisions from memories, beliefs and relationships. The tech is being spun out as a separate AI company, LuminidsAI.",
-      "title": "'Luminids' 캐릭터 인지 기술, AI 회사로 확장",
-      "matched_keyword": "AI NPC"
+      "published_iso": "2026-09-24T20:15:24+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/key_art_1920x1080.png",
+      "excerpt": "Steam's week-long Punk Games Showcase starts October 9 with 100+ curated games out of 400 submissions, explicitly filtering out titles that used generative AI. Curation by 'no genAI' is becoming a storefront feature in its own right.",
+      "title": "Steam's Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=320830",
-      "source": "Inven",
+      "url": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-09-14T13:55:00+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/14/news/i1908259354.jpg",
-      "excerpt": "Com2uS Platform unveiled Hive Axyl at Hive Tech Summit 2026. It is a next-generation backend platform built for AI-driven game development and launches officially on the 30th.",
-      "title": "컴투스플랫폼, AI 백엔드 '하이브 액실' 30일 출시",
-      "matched_keyword": "AI game design tool (Korea)"
+      "published_iso": "2026-09-24T15:44:34+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/Tupac-2.jpg",
+      "excerpt": "RGG Studio says it recreated the late Tupac Shakur as a character in Stranger Than Heaven using traditional research and performance methods, confirming no AI technology was used. A notable stance on digital likeness of deceased artists in games.",
+      "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=320906",
-      "source": "Inven",
+      "url": "https://www.thegamer.com/control-resonant-calls-out-generative-ai-collectible/",
+      "source": "TheGamer",
       "category": "games",
-      "published_iso": "2026-09-15T14:09:37+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/15/news/i1927410872.png",
-      "excerpt": "Com2uS Platform sponsored the first AI Game Sound Design Competition (AI GSDC 2026) in Pangyo. Hive is serving as an official AI solution in Korea's 2026 game-production AX (AI transformation) support program.",
-      "title": "컴투스플랫폼, 'AI 게임 사운드 디자인 대회' 후원",
-      "matched_keyword": "AI game audio (Korea)"
+      "published_iso": "2026-09-24T18:40:15Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/controlresonantdylanintro.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Remedy's Control Resonant, confirmed as made without AI, includes a collectible, 'The Great Copy Battle', a deliberately awful movie script that lampoons generative-AI slop. It joins a wave of games using in-world writing to take a stance on AI-made content.",
+      "title": "Control Resonant Is The Latest Game To Mock GenAI"
     },
     {
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-24T21:59:13+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "LOVE alt delete is an upcoming psychological-horror visual novel where you beta-test 'MUSE' romance chatbots, typing freely and roping in a second chatbot to help court the first, all without using generative AI itself. AI companionship as theme and interface, hand-authored as craft.",
+      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another"
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321342",
+      "source": "인벤 (Inven)",
+      "category": "games",
+      "published_iso": "2026-09-22T14:15:27+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/22/news/i1401273533.jpg",
+      "excerpt": "카카오게임즈가 10월 8일 출시하는 2.5D MMORPG '도깨비의세계'에 플레이 데이터를 분석해 성장 방향을 안내하는 AI 챗봇 '묘롱'을 도입해 초심자 진입장벽을 낮췄다. AI 가이드를 온보딩 UX로 활용한 국내 사례.",
+      "title": "도깨비의세계, 12가지 스킬로 진입장벽 낮춘다"
+    },
+    {
+      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-09-23T08:46:03+00:00",
+      "og_image": "https://images.unsplash.com/photo-1585909085111-2c2f311643af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJpdGV8ZW58MHx8fHwxNzkwMDQ4NjA3fDA&ixlib=rb-4.1.0&q=80&w=2000",
+      "excerpt": "At Oz Comic-Con Brisbane, a stallholder accused by a fellow artist of selling AI-generated imagery allegedly bit an attendee during the confrontation; all parties were banned. Aftermath uses it to frame the escalating human-artist vs AI-art conflict in convention artist alleys.",
+      "title": "'Man Banned From Oz Comic-Con After Biting Incident' Is Not An AI-Related Headline I Thought I'd Be Reading"
+    },
+    {
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "source": "Google DeepMind",
       "category": "games",
-      "published_iso": "2026-09-23T15:25:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
-      "excerpt": "Google launched Gemini 3.8 Flash TTS and Flash-Lite TTS, its most expressive audio models, which can generate custom character voices and direct multi-speaker scene dialogue via AI Studio and the Gemini API.",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "matched_keyword": "AI voice acting games (general model, character-voice hook)"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-      "source": "NVIDIA Technical Blog",
-      "category": "games",
-      "published_iso": "2026-09-16T23:20:33Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/classroom-ovrtx.webp",
-      "excerpt": "NVIDIA shows agentic AI workflows that inspect 3D scenes, author simulation data in OpenUSD, add physics properties and validate environments. It is aimed at digital twins, but it applies to 3D scene assembly pipelines.",
-      "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
-      "matched_keyword": "AI level design / 3D scene tooling (marginal)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-23T16:31:23Z",
-      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
-      "excerpt": "Unity's walkthrough video covers installing and using its official Claude Code plugin to build in Unity from the terminal. The plugin itself was covered on 09-13, so this is a follow-up and likely a near-duplicate.",
-      "title": "Your guide to the official Unity plugin for Claude Code",
-      "matched_keyword": "Unity AI assistant (near-dup)"
+      "published_iso": "2026-09-24T16:20:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
+      "excerpt": "Google DeepMind's Gemini 3.8 Live adds Live Avatar, giving the conversational model a near real-time animated visual presence. Real-time talking avatars are a building block for AI-driven characters and companions.",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar"
     }
   ]
 }

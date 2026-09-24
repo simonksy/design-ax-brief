@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-snapdragon-sound-elite2",
-      "type": "image",
-      "src": "pipeline/media/gadgets-snapdragon-sound-elite2.jpg"
+      "id": "gadgets-gemini-live-avatar-face",
+      "type": "video",
+      "src": "pipeline/media/gadgets-gemini-live-avatar-face.mp4",
+      "poster": "pipeline/media/gadgets-gemini-live-avatar-face.jpg"
     },
     {
-      "id": "gadgets-meta-muse-glasses",
+      "id": "gadgets-muse-charm-keychain",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-muse-glasses.jpg"
+      "src": "pipeline/media/gadgets-muse-charm-keychain.jpg"
     },
     {
-      "id": "gadgets-macos27-ai-30gb",
+      "id": "gadgets-glasses-private-processing",
       "type": "image",
-      "src": "pipeline/media/gadgets-macos27-ai-30gb.jpg"
+      "src": "pipeline/media/gadgets-glasses-private-processing.jpg"
     },
     {
-      "id": "gadgets-macwhisper-live",
+      "id": "gadgets-photos-redact-blur",
       "type": "image",
-      "src": "pipeline/media/gadgets-macwhisper-live.jpg"
+      "src": "pipeline/media/gadgets-photos-redact-blur.jpg"
     },
     {
-      "id": "gadgets-swiftkey-ai-voice",
+      "id": "gadgets-ios27-cleanup-vs-photoshop",
       "type": "image",
-      "src": "pipeline/media/gadgets-swiftkey-ai-voice.jpg"
+      "src": "pipeline/media/gadgets-ios27-cleanup-vs-photoshop.jpg"
     }
   ]
 }
