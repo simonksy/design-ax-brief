@@ -1,7 +1,33 @@
-{"date":"2026-09-24","section":"music","media":[
-{"id":"music-amorph","type":"video","src":"pipeline/media/music-amorph.mp4","poster":"pipeline/media/music-amorph.jpg"},
-{"id":"music-elevenlabs-mcp","type":"video","src":"pipeline/media/music-elevenlabs-mcp.mp4","poster":"pipeline/media/music-elevenlabs-mcp.jpg"},
-{"id":"music-youtube-ask-music","type":"image","src":"pipeline/media/music-youtube-ask-music.png"},
-{"id":"music-pachet-jungle-era","type":"image","src":"pipeline/media/music-pachet-jungle-era.jpg"},
-{"id":"music-llm-copyright-triage","type":"image","src":"pipeline/media/music-llm-copyright-triage.jpg"}
-]}
+{
+  "date": "2026-09-25",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-box-of-synths-beta",
+      "type": "image",
+      "src": "pipeline/media/music-box-of-synths-beta.jpg"
+    },
+    {
+      "id": "music-suno-studio-recording",
+      "type": "video",
+      "src": "pipeline/media/music-suno-studio-recording.mp4",
+      "poster": "pipeline/media/music-suno-studio-recording.jpg"
+    },
+    {
+      "id": "music-mooer-ve200-stemlab",
+      "type": "video",
+      "src": "pipeline/media/music-mooer-ve200-stemlab.mp4",
+      "poster": "pipeline/media/music-mooer-ve200-stemlab.jpg"
+    },
+    {
+      "id": "music-qobuz-ai-tags",
+      "type": "image",
+      "src": "pipeline/media/music-qobuz-ai-tags.png"
+    },
+    {
+      "id": "music-voiceswap-ddex",
+      "type": "image",
+      "src": "pipeline/media/music-voiceswap-ddex.png"
+    }
+  ]
+}

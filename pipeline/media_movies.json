@@ -1,34 +1,31 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "movies",
   "media": [
     {
-      "id": "movies-runway-resolve",
-      "type": "video",
-      "src": "pipeline/media/movies-runway-resolve.mp4",
-      "poster": "pipeline/media/movies-runway-resolve.jpg"
-    },
-    {
-      "id": "movies-youtube-ai-creator-tools",
+      "id": "movies-adobe-gemini-plugin",
       "type": "image",
-      "src": "pipeline/media/movies-youtube-ai-creator-tools.jpg"
+      "src": "pipeline/media/movies-adobe-gemini-plugin.png"
     },
     {
-      "id": "movies-curious-refuge-greybox",
-      "type": "video",
-      "src": "pipeline/media/movies-curious-refuge-greybox.mp4",
-      "poster": "pipeline/media/movies-curious-refuge-greybox.jpg"
-    },
-    {
-      "id": "movies-jack-thorne-ai-cheat",
+      "id": "movies-beauty-box-6-5",
       "type": "image",
-      "src": "pipeline/media/movies-jack-thorne-ai-cheat.jpg"
+      "src": "pipeline/media/movies-beauty-box-6-5.jpg"
     },
     {
-      "id": "movies-google-vids-gemini-omni",
-      "type": "video",
-      "src": "pipeline/media/movies-google-vids-gemini-omni.mp4",
-      "poster": "pipeline/media/movies-google-vids-gemini-omni.jpg"
+      "id": "movies-katzenberg-ai-not-going-away",
+      "type": "image",
+      "src": "pipeline/media/movies-katzenberg-ai-not-going-away.jpg"
+    },
+    {
+      "id": "movies-oiaf-tac-ai-panel",
+      "type": "image",
+      "src": "pipeline/media/movies-oiaf-tac-ai-panel.jpg"
+    },
+    {
+      "id": "movies-deadline-law-summit-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-deadline-law-summit-ai.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "science",
   "generated_by": "ax-curator",
   "selection_mode": "curator-auto (user deferred)",
@@ -10,13 +10,13 @@
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Tautomer-Predictor AI Tool Identifies Stable Molecules for Drug Discovery",
-      "url": "https://www.genengnews.com/topics/drug-discovery/tautomer-predictor-ai-tool-identifies-stable-molecules-for-drug-discovery/",
-      "source": "GEN - Genetic Engineering & Biotechnology News",
-      "published_iso": "2026-09-23T20:24:04Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2024/04/GettyImages-1464561575.jpg",
-      "excerpt": "NYU's open-source graph neural network, trained on 1.1M tautomeric states, predicts hydrogen positions for 4.6M compounds in hours and flags 126 misassigned ligands in the Protein Data Bank (Chemical Science).",
-      "rationale": "The freshest item in the pool (09-23). It is an open-source GNN with hard numbers (4.6M compounds in hours) and a concrete finding: 126 misassigned PDB ligands. Covers chemistry."
+      "headline": "Anthropic touts AI-led biology discovery",
+      "url": "https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-24T04:40:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/according-to-anthropic.jpg",
+      "excerpt": "Anthropic says ~950 Claude agent sessions working over 21 hours found ART, a previously unknown CRISPR-like enzyme system with DNA repeat arrays in bacteriophages. The preprint has not been peer-reviewed.",
+      "rationale": "Agents ran end to end and found a new CRISPR-like system, a notable AI-driven discovery. The copy must say the preprint has not been peer-reviewed. This is a different discovery from the July Anthropic story (MIT TR, 07-15)."
     },
     {
       "rank": 2,
@@ -24,13 +24,13 @@
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Virtual cells built from 4D AI models and 'digital twins' could speed up drug discovery",
-      "url": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
+      "headline": "New AlphaFold Database release adds viral protein complexes to support pandemic preparedness",
+      "url": "https://phys.org/news/2026-09-alphafold-database-viral-protein-complexes.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-20T16:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-composite-image-show.jpg",
-      "excerpt": "UC San Diego (Cell) trained the MitoSpace deep-learning model on 40,000 drug-treated 4D lattice light-sheet cell movies to predict cellular health from mitochondrial shape (75% vs 56% for 2D), plus physics-based digital-twin cells that predict drug-induced changes.",
-      "rationale": "A Cell paper with a measurable gain from 4D over 2D (75% vs 56%), plus physics-based digital-twin cells. Covers cell biology. It is a different study from the 09-22 'AI tool cell million years' story."
+      "published_iso": "2026-09-24T13:40:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/alphafold-database-add.jpg",
+      "excerpt": "EMBL-EBI and Google DeepMind, with NVIDIA, Seoul National University and others, added AI-predicted structures for more than 2,800 viruses to the AlphaFold Database to speed up vaccine and diagnostic target discovery.",
+      "rationale": "A new public resource that researchers can use right away: predicted complexes for 2,800+ viruses. It has a Korean angle (SNU). It is distinct from the 09-07 'AlphaFold limits' story."
     },
     {
       "rank": 3,
@@ -38,13 +38,13 @@
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "AI tool nears psychiatrist-level accuracy",
-      "url": "https://medicalxpress.com/news/2026-09-ai-tool-nears-psychiatrist-accuracy.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-17T13:20:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2024/psychiatrist-2.jpg",
-      "excerpt": "UTHealth Houston and Yale built a Qwen3-Omni-based system that analyzes patient video (speech, tone, behavior) to perform mental status exams with accuracy comparable to psychiatric teams (npj Mental Health Research).",
-      "rationale": "Multimodal AI on patient video performs mental status exams about as accurately as psychiatric teams. Covers psychiatry and psychology. It is a clinical study, not the opinion pieces in the pool."
+      "headline": "AI solves 79-year-old math mystery of six-dimensional spheres",
+      "url": "https://www.scientificamerican.com/article/ai-solves-79-year-old-math-mystery-of-six-dimensional-spheres/",
+      "source": "Scientific American",
+      "published_iso": "2026-09-24T09:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/377a3873-ea98-4164-95d7-f3c8b8eb8560/network-orb.jpg?m=1790102562.115&w=1200",
+      "excerpt": "Can a six-dimensional sphere be described using imaginary numbers? Experts puzzled over this for decades, and now an AI has apparently answered it.",
+      "rationale": "A headline math result on a question open since 1947, from a reputable outlet. It is a different problem from the 09-23 M23 inverse-Galois card (SciAm), so it is not a duplicate. Covers mathematics."
     },
     {
       "rank": 4,
@@ -52,13 +52,13 @@
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "Scientists develop real-time AI monitoring for an advanced nuclear reactor component",
-      "url": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-22T14:20:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/argonne-develops-real.jpg",
-      "excerpt": "Argonne National Laboratory pairs explainable-AI algorithms with distributed fiber-optic sensors to detect coolant blockages in molten-salt reactor heat exchangers in real time (Scientific Reports).",
-      "rationale": "Argonne pairs explainable AI with fiber-optic sensing to monitor molten-salt reactors in real time. Covers physics and nuclear engineering, which the section has not covered recently. It was held as backfill on 09-23 and is not yet published."
+      "headline": "AI innovation supports screening for 2.2 million US workers exposed to toxic dust",
+      "url": "https://medicalxpress.com/news/2026-09-ai-screening-million-workers-exposed.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-24T17:40:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toxic-dust.jpg",
+      "excerpt": "Michigan State University's AI, trained on US worker chest X-rays, detects early pneumoconiosis with 91% accuracy versus 77% for human readers, easing a shortage of about 200 specialist B readers (Occupational and Environmental Medicine).",
+      "rationale": "A peer-reviewed clinical result with hard numbers (91% vs 77%) and a clear real-world bottleneck (only about 200 B readers). Covers occupational medicine."
     },
     {
       "rank": 5,
@@ -66,13 +66,13 @@
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "headline": "What is your dog really saying? AI is helping researchers decode animal communication",
-      "url": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-22T21:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/quizzical-dog.jpg",
-      "excerpt": "Kaunas University of Technology researchers use machine learning to break animal vocalizations into frequency/time features and infer emotional states; models like Dog2vec, trained on 6,000+ hours of barks, find patterns the human ear misses.",
-      "rationale": "Machine learning decodes emotional states from animal vocalizations; Dog2vec was trained on 6,000+ hours of barks. Covers animal behavior, and it is fresh (09-22). Chosen over the right-whale study (09-16) for recency, which also keeps Phys.org at 2 picks."
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-23T06:20:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-helps-humano.jpg",
+      "excerpt": "UC Berkeley and Princeton's TANGO vision-language framework controls all 29 joints of a humanoid from language instructions and camera images. It was trained on 65k synthetic trajectories and doubled success rates over 2D path planning.",
+      "rationale": "University research with measurable gains (2x success, 29-joint whole-body control). Covers robotics. Chosen over the phage-mutation story to keep Phys.org at 2, and over QC Design Meridian, which is a company self-report."
     }
   ],
   "dedup": {
@@ -80,62 +80,58 @@
     "dropped": [
       {
         "url": "https://physics.aps.org/articles/v19/126",
-        "reason": "Duplicate content: the same chess complexity study (human vs AI strategic tension) was published 2026-08-31 via techxplore.com/news/2026-08-ai-doesnt-play-chess-complexity.html. It is also stale (09-11)."
+        "reason": "Duplicate content: the same chess complexity study was published 2026-08-31 (techxplore 2026-08-ai-doesnt-play-chess-complexity). It was also dropped on 09-24."
       },
       {
         "url": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
-        "reason": "Same UW-Madison nanostructure story as the phys.org version rejected on 09-23. The result is theoretical, the AI angle is weak, and there is no og_image."
+        "reason": "Already rejected twice (09-23, 09-24). It is theoretical, has a weak AI angle, and has no og_image."
       },
       {
-        "url": "https://phys.org/news/2026-09-ai-reveals-nighttime-behaviors-whales.html",
-        "reason": "Held as backfill. It is a strong concrete result, but it is 8 days old, and a third Phys.org card would break the 2-per-outlet cap."
+        "url": "https://phys.org/news/2026-09-ai-mutations-viruses-infect-bacteria.html",
+        "reason": "Held as backfill. It is a strong result, but a third Phys.org card would break the 2-per-outlet cap, and phage biology is already covered by the Anthropic ART pick."
       },
       {
-        "url": "https://medicalxpress.com/news/2026-09-method-ai-brain-disorder-screening.html",
-        "reason": "Held as backfill. The clinical-AI slot went to the psychiatry tool."
+        "url": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
+        "reason": "Held as backfill. It is a company self-reported claim (10x), weaker on credibility than university research."
       },
       {
-        "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
-        "reason": "Held as backfill. LLM-user psychology studies ran 09-19 and 09-20."
+        "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
+        "reason": "Held as backfill. It is a pure LLM-internals study rather than AI applied to science, and it is close in theme to the 09-13 'internal confidence levels' card."
       },
       {
-        "url": "https://techxplore.com/news/2026-09-stubbornness-problem-ai-agents.html",
-        "reason": "Held as backfill. It is an AI-safety study rather than AI-for-science, and multi-agent stories ran 09-22."
+        "url": "https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html",
+        "reason": "Held as backfill. It is a week old (09-18), and the robotics slot went to TANGO."
       },
       {
-        "url": "https://www.scientificamerican.com/article/ai-labs-are-claiming-agi-is-imminent-but-does-that-mean-what-we-think-it-means/",
-        "reason": "Opinion/essay, which the brief excludes in favor of concrete results."
+        "url": "https://research.google/blog/coherent-long-form-video-generation/",
+        "reason": "Pure AI research on video generation, not AI-for-science (per the cross-section rule)."
       },
       {
-        "url": "https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/what-can-humans-do-that-ai-cant",
-        "reason": "Opinion blog."
+        "url": "https://www.psychologytoday.com/us/blog/gaining-and-sustaining/202609/from-working-with-ai-to-connecting-with-people",
+        "reason": "Opinion blog (per the cross-section rule)."
       },
       {
-        "url": "https://www.scientificamerican.com/article/which-million-dollar-math-problem-could-ai-solve-next/",
-        "reason": "A speculative follow-up to the Navier-Stokes story already covered on 09-09 (Quanta)."
-      },
-      {
-        "url": "https://medicalxpress.com/news/2026-09-mental-health-chatbots-culturally-sensitive.html",
-        "reason": "Opinion analysis (The Conversation), not a new result."
+        "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/",
+        "reason": "Paywalled STAT+ trend piece, and the clinical-AI slot went to the MSU study."
       },
       {
         "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
-        "reason": "A research-integrity feature, not a new result. It was also passed over on 09-23."
+        "reason": "A research-integrity feature, not a new result. It was passed over on 09-23 and 09-24."
       },
       {
         "url": "https://allenai.org/blog/autodiscovery-student-challenge",
-        "reason": "An AutoDiscovery recap already ran 09-05 (swedish-autodiscovery-recap). This is an education follow-up."
+        "reason": "An education follow-up to the AutoDiscovery recap that ran 09-05. It is also stale (09-14)."
       },
       {
         "url": "https://allenai.org/blog/olmo-arena",
-        "reason": "About model-evaluation methodology, not AI-for-science research."
+        "reason": "About model-evaluation methodology, not AI-for-science. It is also stale (09-17)."
       }
     ]
   },
   "diversity": {
     "distinct_outlets": 4,
     "max_per_outlet": 2,
-    "outlets": ["GEN", "Phys.org", "Medical Xpress", "Tech Xplore"],
-    "axes": ["chemistry / drug discovery", "cell biology", "psychiatry", "nuclear engineering / physics", "animal behavior"]
+    "outlets": ["Phys.org", "Scientific American", "Medical Xpress", "Tech Xplore"],
+    "axes": ["molecular biology / genome editing", "structural biology / virology", "mathematics", "occupational medicine", "robotics"]
   }
 }

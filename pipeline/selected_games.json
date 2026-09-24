@@ -1,103 +1,61 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "games",
   "picks": [
     {
-      "headline": "NVIDIA, 아티스트 의도를 지키는 세밀한 제어를 붙인 DLSS 5 3D 가이드 뉴럴 렌더링과 ACE·RTX Kit 업데이트 공개",
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-      "source": "NVIDIA Technical Blog",
+      "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-09-22T13:00:00Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9.webp",
-      "excerpt": "NVIDIA details DLSS 5's 3D-Guided Neural Rendering with granular controls meant to preserve artistic intent, alongside NVIDIA ACE updates for AI-driven game characters and new RTX Kit capabilities for developers.",
-      "rationale": "1차 출처인 개발자 블로그다. 3D 가이드 방식과 아트 의도 보존 제어, ACE, RTX Kit를 한 글에서 함께 다뤄 개발자가 바로 적용할 거리가 가장 많다. 같은 발표를 다룬 Wccftech RTX Kit 기사는 이 카드로 대신한다."
+      "rationale": "OpenDLSS-NR brings DLSS 5-style neural rendering to Vulkan, RTX 40 and browsers, so developers outside NVIDIA's stack can now use it. This is the only DLSS 5 pick, per the cross-section rule.",
+      "published_iso": "2026-09-23T18:43:33+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Feature-Image-6.jpg",
+      "excerpt": "OpenDLSS-NR reimplements DLSS 5's neural rendering in Vulkan, hitting 7.8 ms at 1080p on an RTX 4070 and even running in browsers. It opens the AI 're-lighting' filter to hardware and developers outside NVIDIA's official stack."
     },
     {
-      "headline": "구글 Gemini 3.8 Flash TTS, 커스텀 캐릭터 음성과 다화자 장면 대사 연출을 API로 제공",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "published_iso": "2026-09-23T15:25:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
-      "excerpt": "Google launched Gemini 3.8 Flash TTS and Flash-Lite TTS, its most expressive audio models, which can generate custom character voices and direct multi-speaker scene dialogue via AI Studio and the Gemini API.",
-      "rationale": "새로 나온 모델이고 AI Studio와 Gemini API로 곧바로 쓸 수 있다. 캐릭터 음성 설계와 여러 화자가 나오는 장면 대사 연출을 지원해, 게임 대사 프로토타이핑과 임시 보이스 작업에 바로 쓸 수 있다."
-    },
-    {
-      "headline": "마이크로소프트 특허, 플레이어 표정과 음성을 읽어 퀘스트·NPC·대사를 실시간으로 다시 생성하는 AI 게임 설계 구상",
-      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown",
-      "source": "Rock Paper Shotgun",
+      "url": "https://wccftech.com/claude-ai-builds-rtx-path-tracer-autonomous-engineering/",
+      "source": "Wccftech",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-09-23T12:17:21Z",
-      "og_image": "https://assetsio.gnwcdn.com/helldivers-2-major-order-citizen-nightmares-arg-cape-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A new Microsoft patent describes designers prompting an AI with text, images and audio to generate a game's objectives, sidequests, NPCs, dialogue and items, then regenerating content live from players' facial expressions and speech.",
-      "rationale": "플랫폼 대기업이 생성형 AI 기반 게임 설계 파이프라인을 어떻게 구상하는지 보여 주는 새 특허다. 09-22에 발행한 RPS 광고 타이밍 특허와는 다른 특허이고 주제도 다르다."
+      "rationale": "An AI agent built a complete RTX path tracer in about an hour, a concrete sign that agentic coding now reaches real-time rendering tools for game developers.",
+      "published_iso": "2026-09-24T13:47:27+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RTX-accelerated-3d-renderer-4.jpg",
+      "excerpt": "A developer used Anthropic's Claude to build a complete RTX-accelerated path tracer in about an hour, with the AI handling system-level graphics engineering from scratch. Wccftech frames it as a sign of autonomous AI coding reaching real-time rendering tools."
     },
     {
-      "headline": "Twitch, 방송이 끝날 때마다 잘한 점과 고칠 점을 알려 주는 AI 스트림 코치를 일부 사용자에게 시험 중",
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "published_iso": "2026-09-11T20:45:43Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered stream coach that suggests how creators can improve their channels, alongside an AI content-training opt-out.",
-      "rationale": "AI가 방송을 분석해 크리에이터에게 코칭하는 도구로, 플랫폼이 창작 피드백을 AI에 맡기는 흐름과 그 반발을 함께 보여 준다. 08-14 학습 옵트아웃 건, 08-31 집단소송 건과는 다른 새 기능 소식이다."
-    },
-    {
-      "headline": "파이널 판타지 14, 팬 굿즈 허용 범위는 넓히고 생성형 AI 사용은 명시적으로 금지",
-      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
-      "source": "AUTOMATON WEST",
+      "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
+      "source": "GameSpot",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-09-18T10:41:12Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
-      "excerpt": "Square Enix updated FFXIV's Materials Usage License to allow more physical fan-made goods, while explicitly banning generative AI and 3D printing in fan merch.",
-      "rationale": "메이저 IP 보유사가 2차 창작 라이선스에 생성형 AI 금지를 명문화한 정책 사례로, 팬 아티스트와 UGC 정책 담당자가 참고할 만하다. 어제는 아웃렛 가드에 걸려 빠졌지만 아직 발행된 적은 없다."
+      "rationale": "A Steam showcase that keeps out generative-AI games makes 'no genAI' a curation and discovery rule, which directly affects how indie teams position their games.",
+      "published_iso": "2026-09-24T20:15:24+00:00",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/key_art_1920x1080.png",
+      "excerpt": "Steam's week-long Punk Games Showcase starts October 9 with 100+ curated games out of 400 submissions, explicitly filtering out titles that used generative AI. Curation by 'no genAI' is becoming a storefront feature in its own right."
+    },
+    {
+      "url": "https://www.thegamer.com/control-resonant-calls-out-generative-ai-collectible/",
+      "source": "TheGamer",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A major studio, Remedy, uses in-game writing to satirize AI slop, showing how AAA teams now take a stance on AI inside the game itself.",
+      "published_iso": "2026-09-24T18:40:15Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/controlresonantdylanintro.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Remedy's Control Resonant, confirmed as made without AI, includes a collectible, 'The Great Copy Battle', a deliberately awful movie script that lampoons generative-AI slop. It joins a wave of games using in-world writing to take a stance on AI-made content."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
+      "source": "Rock Paper Shotgun",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "A new design idea: AI companionship as both the theme and the interface of a game, written entirely by hand. It adds a fourth outlet and a different angle.",
+      "published_iso": "2026-09-24T21:59:13+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "LOVE alt delete is an upcoming psychological-horror visual novel where you beta-test 'MUSE' romance chatbots, typing freely and roping in a second chatbot to help court the first, all without using generative AI itself. AI companionship as theme and interface, hand-authored as craft."
     }
-  ],
-  "shortfall_note": "5장을 모두 채웠다. 신선한 후보 13건 가운데 DLSS 5 관련은 1건만 남기고, 후속 기사·저품질 후보를 걸러낸 뒤 남은 상위 5건이다.",
-  "diversity_check": "아웃렛 5곳에서 1건씩 골랐다(NVIDIA Technical Blog, Google DeepMind, Rock Paper Shotgun, GamesRadar+, AUTOMATON WEST). 주제도 렌더링 툴, 음성 모델, 설계 특허, 스토어 모방작, IP 라이선스 정책으로 겹치지 않는다. 섹션 카테고리가 games 하나뿐이라 accent는 palette에서 카드마다 다르게 배정했다(#7928ca, #2ec5c5, #0070f3, #f5a623, #eb367f).",
-  "dropped": [
-    {
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-      "reason": "NVIDIA 블로그 선택 카드와 같은 발표(RTX Kit)다. 풀 안 중복이라 1차 출처를 남겼다."
-    },
-    {
-      "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/",
-      "reason": "DLSS 5 관련은 1건만 고른다는 지시에 따라 뺐다. DLSS 5 우회·이식 모드 카드도 이미 여러 건 나갔다(09-05 RX 9070, 09-06 RTX 20/30, 09-09 세컨드 카드, 09-20 Intel Arc)."
-    },
-    {
-      "url": "https://automaton-media.com/en/news/level-5-says-some-suspected-ai-oddities-from-trailers-were-actually-human-errors-apologizes-for-fueling-doubt-with-careless-use-of-ai-in-some-of-its-videos/",
-      "reason": "09-13에 발행한 레벨 파이브 AI 논란(IGN)의 후속 보도라 내용상 중복이다."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
-      "reason": "09-13에 발행한 Unity Claude Code 플러그인(unity.com 블로그)의 사용법 영상이라 거의 중복이다."
-    },
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "reason": "게임 제작과 거리가 먼 스트리밍 도구라 AI 축이 약하다. 게시일(09-11)도 오래됐고, Twitch AI 옵트아웃 건은 08-14에 이미 다뤘다."
-    },
-    {
-      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-hard-mode-is-no-joke-watch-ai-controlled-orks-wipe-the-floor-with-2-developers-playing-space-marines",
-      "reason": "생성형 AI가 아닌 전통적인 게임 AI(적 난이도)라 우선순위가 낮다."
-    },
-    {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
-      "reason": "AI 반대 마케팅 문구를 내건 게임 소개일 뿐이다. 실무에 쓸 내용이 적다."
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-      "reason": "디지털 트윈과 시뮬레이션용이라 게임 연관성이 낮고 게시일(09-16)도 오래됐다. 이미 NVIDIA 카드가 하나 있어 아웃렛도 분산시켰다."
-    }
-  ],
-  "dedup_check": "published_urls.json의 games 항목과 대조했다. 선택한 5건 모두 URL이 겹치지 않는다. 내용 대조 결과: NVIDIA 3D 가이드 뉴럴 렌더링·ACE·RTX Kit 발표는 기존 DLSS 5 카드(07-22·07-30 제어 슬라이더, 출시·성능·모드 건)와 별개의 새 SDK·기능 발표다. RPS 얼굴 인식 생성 특허는 09-22 광고 타이밍 ML 특허와 다른 특허다. GamesRadar의 Needle In A Haystack 모방작 건은 09-22 IGN 감자 깎기 게임 표절 건, 07-19 Kotaku AI 클론 일반론과 사건이 다르다. FF14 라이선스와 Gemini 3.8 TTS는 앞선 카드가 없다. 교차 섹션도 확인했다. Gemini TTS URL은 music과 science 후보 풀에 없다."
+  ]
 }

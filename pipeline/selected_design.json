@@ -1,61 +1,69 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "design",
   "picks": [
     {
-      "url": "https://www.builder.io/blog/stop-watching-your-agent-work",
-      "source": "Builder.io",
+      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
+      "source": "Figma",
+      "title": "4 Figma Motion tricks worth stealing | Show Your Work",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "Figma's motion designers walk through real Figma Motion files: layered animation, shaders, scalable branded motion, and using the agent. Designers can copy these techniques tomorrow.",
+      "published_iso": "2026-09-24T06:46:41-07:00",
+      "og_image": "https://i.ytimg.com/vi/UHupJZO7DTw/maxresdefault.jpg",
+      "excerpt": "Figma motion designers walk through their Figma Motion files: layered animation, shader effects, scalable branded motion, and bringing ideas to life with the agent."
+    },
+    {
+      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
+      "source": "Creative Bloq",
+      "title": "How a studio created an \"impossible\" animated symphony using Autodesk",
+      "published_iso": "2026-09-24T16:03:52Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
+      "excerpt": "Flow Studio allowed Daughter of the Inner Stars to blend live narration and original animation driven by human performers.",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Autodesk Flow Studio(AI 퍼포먼스 캡처)로 실연 연기를 애니메이션에 입힌 제작 사례 — 3D/애니메이션 워크플로 변화. (Swapped in by orchestrator: NVIDIA DLSS5 3D-guided post already ran as games-dlss5-guided on 09-24.)"
+    },
+    {
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge",
+      "title": "Meta is going to let you build games with AI right on your phone",
+      "tool": "VR Prototype",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "The one allowed Meta Horizon creation-tool item. A new AI creation tool for building interactive experiences on a phone, not Connect hardware.",
+      "published_iso": "2026-09-24T17:52:29+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
+      "excerpt": "Get ready for AI games in your Instagram feed."
+    },
+    {
+      "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
+      "source": "Eleken",
+      "title": "AI Design Patterns: A Practical Guide for Product Teams",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "A hands-on guide to UX patterns for agentic AI products, with examples of when to use each. Product designers can use it right away.",
+      "published_iso": "2026-09-22T21:21:00Z",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp",
+      "excerpt": "Explore AI design patterns across agentic architecture with practical examples of when to use them and how to keep AI clear, useful, and controllable."
+    },
+    {
+      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+      "source": "Figma Blog",
+      "title": "What It Takes to Build Great Products Now",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "New free open-source tool (Agent-Native Plans) for reviewing an agent's plan and output. Design-to-code teams can use it the next day.",
-      "published_iso": "2026-09-23T18:00:00.000Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/79e17b2f7b58454985d77f262aef44f0?width=1200",
-      "excerpt": "Builder.io introduces Agent-Native Plans, a free open-source tool for reviewing what a coding agent plans to build and what it built, so teams agree on intent up front instead of watching tool calls."
-    },
-    {
-      "url": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
-      "source": "Engineering.com",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "The new angle is COMSOL Multiphysics 2027's MCP server, which lets AI agents drive simulation models. Frame the card on COMSOL MCP, not the SimScale/Onshape agent already covered 09-17.",
-      "published_iso": "2026-09-23T19:32:53+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_comsol-systemsuifsfem-scaled.png",
-      "excerpt": "COMSOL previewed Multiphysics 2027 with an MCP server so AI agents can drive simulation models, Onshape users can now run SimScale simulations via an AI agent, plus Autodesk corrections on neural CAD's status after AU 2026."
-    },
-    {
-      "url": "https://www.fastcompany.com/91609799/who-actually-owns-ai-transformation",
-      "source": "Fast Company",
-      "tool": "Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "West Monroe's chief people officer argues AI transformation is really owned by 'builders' close to the work who redesign their own workflows, and that orgs should measure outcomes, not AI usage counts. A practical frame for design leaders running AX.",
-      "published_iso": "2026-09-23T12:00:00+00:00",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/1-78.png",
-      "excerpt": "Argues AI transformation is owned less by the chief AI officer than by 'builders' close to the work who redesign their own workflows, and that orgs should measure how people rethink work with AI rather than usage counts."
-    },
-    {
-      "url": "https://dev.to/kr1sck/design-to-code-is-still-a-handoff-what-if-there-was-no-handoff-3ep9",
-      "source": "DEV Community",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Covers a design-system pain point: AI-generated React still has to be remapped to existing components and tokens. Proposes generating directly inside the UI kit instead.",
-      "published_iso": "2026-09-23T12:44:19Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmzy7kjakt2vd5qal5hgl.png",
-      "excerpt": "AI builds screens fast, but exported React still has to be remapped to the existing design system's components and tokens; the post proposes generating directly inside the UI kit so there is no handoff."
-    },
-    {
-      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70",
-      "source": "UX Collective",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Uses Figma hiring data (56% of hiring managers want more seniors vs 25% hiring juniors) to argue design leaders must grow junior judgment now that AI does starter work. A practice and career insight.",
-      "published_iso": "2026-09-22T21:27:21+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*USREMn6GsWPB5N5aBd-UVw.png",
-      "excerpt": "Citing Figma data that 56% of hiring managers want more senior designers vs 25% hiring juniors, Patrick Neeman argues AI tools have absorbed starter work and design leaders must deliberately grow junior judgment."
+      "rationale": "Figma's own view of the AI-era product process: now that making things is fast, the hard part is keeping that speed through launch and picking the right direction. First-party source and fresh (09-24).",
+      "published_iso": "2026-09-24T20:44:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "The hard work today is sustaining speed all the way to launch, choosing the right direction, and creating products that stand out. Here's what that takes."
     }
+  ],
+  "orchestrator_notes": [
+    "pick 2 swapped: NVIDIA DLSS5 dev blog was published in games on 2026-09-24 (same URL)."
   ]
 }

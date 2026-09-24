@@ -1,66 +1,61 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "music",
   "picks": [
     {
-      "url": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
-      "source": "Synthtopia",
-      "title": "Free Tool, Amorph, Builds Custom Plugin Instruments & Effects Based On Your Description",
+      "url": "https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/",
+      "source": "Bedroom Producers Blog",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Free AI plugin that turns a written description into a playable DSP instrument or effect in the DAW, with voice input and MCP hooks for Claude Code or Cursor. Producers can use it right away.",
-      "published_iso": "2026-09-22T12:02:30Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/amorph-1-0-beta-press-hero.png",
-      "excerpt": "Amorph 1.0 is a free macOS/Windows plugin that turns a written description into working DSP code playable in your DAW; its in-plugin AI assistant takes voice input, and coding agents like Claude Code and Cursor connect over MCP."
+      "rationale": "Free prompt-driven synth that turns text descriptions into editable patches, with an optional local Ollama model. Producers can use it right away and it is fresh (Sep 24).",
+      "published_iso": "2026-09-24T13:27:52+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg",
+      "excerpt": "Free beta synth that builds editable patches from written descriptions, via a research-based database mode or an optional local AI model through Ollama that lets you keep refining the patch with text instructions."
     },
     {
-      "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
-      "source": "ElevenLabs (YouTube)",
-      "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Eleven Music generation now runs inside AI-assistant chat workflows through the MCP server. This is a new way to make music, separate from the Music v2.5 story published 09-15.",
-      "published_iso": "2026-09-14T17:14:04Z",
-      "og_image": "https://i.ytimg.com/vi/vGukGg7Q2_g/maxresdefault.jpg",
-      "excerpt": "The ElevenLabs MCP server now generates voice, music, images and video from inside the AI assistant you already work in, putting Eleven Music generation into Claude-style chat workflows."
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "source": "TechCrunch",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Fresh Made on YouTube launch. 'Ask Music' brings natural-language discovery to a major streaming platform, which changes how listeners find tracks and how artists get surfaced.",
-      "published_iso": "2026-09-23T15:19:30Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
-      "excerpt": "Announced at Made on YouTube, 'Ask Music' lets YouTube Music users describe what they want to hear in everyday language, alongside a personalized 'Your Podcast Lineup' guide."
-    },
-    {
-      "url": "https://musically.com/2026/09/23/ai-music-guru-francois-pachet-its-no-longer-the-jungle-era/",
-      "source": "Music Ally",
-      "title": "AI-music guru François Pachet: 'It's no longer the jungle era'",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Flow Machines pioneer François Pachet looks at where AI music-making stands now. It is expert insight on creators and tools, not a business-deal story.",
-      "published_iso": "2026-09-23T11:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-23T122049.867.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Flow Machines pioneer François Pachet (the 2016 'Daddy's Car' Beatles-style AI track at Sony CSL) on how AI-music creation has moved beyond its unregulated 'jungle era'."
-    },
-    {
-      "url": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/",
-      "source": "Hypebot",
-      "title": "An LLM Flagged 1,632 Videos. One Was Real.",
+      "url": "https://www.youtube.com/watch?v=RFo_0XpyNhs",
+      "source": "Suno (YouTube)",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A hands-on case study: using an LLM to triage music-copyright claims flagged four of five videos wrongly. This matters to creators hit by false claims and to teams building AI content-ID.",
-      "published_iso": "2026-09-23T12:37:18Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/player-popped-out.png",
-      "excerpt": "A team rebuilt its music-copyright triage and found an LLM reading video content flagged four of five videos wrongly; the only reliable signal was who uploaded the video."
+      "rationale": "Suno Studio adds direct audio recording to the timeline, moving its AI DAW toward a hybrid human-plus-AI workflow. A primary-source feature release (Sep 23).",
+      "published_iso": "2026-09-23T19:09:58-07:00",
+      "og_image": "https://i.ytimg.com/vi/RFo_0XpyNhs/maxresdefault.jpg",
+      "excerpt": "Suno Studio now lets you arm a track and record audio directly onto the timeline of its AI-assisted DAW."
+    },
+    {
+      "url": "https://www.gearnews.com/mooer-ve200-live/",
+      "source": "Gearnews",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "AI stem separation built into a live vocal pedal. It brings AI into hardware for live performers, a different angle from the software picks.",
+      "published_iso": "2026-09-24T11:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg",
+      "excerpt": "MOOER's VE200 is a compact stereo vocal multi-effects pedal for live performers with real-time processing and an AI StemLab stem-separation feature built in."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/24/qobuz-tags-ai-generated-music/",
+      "source": "Digital Music News",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Qobuz starts flagging AI-generated tracks in its catalog. This is a concrete platform labeling rollout that affects how AI-assisted releases are shown to listeners.",
+      "published_iso": "2026-09-24T18:37:19+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
+      "excerpt": "Qobuz is rolling out tags that flag AI-generated tracks in its catalog, saying musical discovery must remain guided by human choices."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/24/ddex-voice-swap/",
+      "source": "Digital Music News",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Voice-Swap joins DDEX to push consent and authorization metadata standards for AI vocals, which shapes how licensed AI voices move through production and distribution.",
+      "published_iso": "2026-09-24T21:28:16+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/VS-Logo.png",
+      "excerpt": "AI vocal platform Voice-Swap has joined DDEX and plans to contribute consent and authorization metadata standards as AI vocals become part of real production and commercial workflows."
     }
   ]
 }

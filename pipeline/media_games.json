@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "games",
   "media": [
     {
-      "id": "games-dlss5-guided",
+      "id": "games-opendlss-nr-vulkan",
+      "type": "image",
+      "src": "pipeline/media/games-opendlss-nr-vulkan.jpg"
+    },
+    {
+      "id": "games-claude-rtx-path-tracer",
+      "type": "image",
+      "src": "pipeline/media/games-claude-rtx-path-tracer.jpg"
+    },
+    {
+      "id": "games-punk-showcase-no-genai",
+      "type": "image",
+      "src": "pipeline/media/games-punk-showcase-no-genai.jpg"
+    },
+    {
+      "id": "games-control-resonant-copy-battle",
+      "type": "image",
+      "src": "pipeline/media/games-control-resonant-copy-battle.jpg"
+    },
+    {
+      "id": "games-love-alt-delete-muse",
       "type": "video",
-      "src": "pipeline/media/games-dlss5-guided.mp4",
-      "poster": "pipeline/media/games-dlss5-guided.jpg"
-    },
-    {
-      "id": "games-gemini-tts",
-      "type": "video",
-      "src": "pipeline/media/games-gemini-tts.mp4",
-      "poster": "pipeline/media/games-gemini-tts.jpg"
-    },
-    {
-      "id": "games-ms-face-patent",
-      "type": "image",
-      "src": "pipeline/media/games-ms-face-patent.jpg"
-    },
-    {
-      "id": "games-twitch-ai-stream-coach",
-      "type": "image",
-      "src": "pipeline/media/games-twitch-ai-stream-coach.jpg"
-    },
-    {
-      "id": "games-ff14-fan-merch",
-      "type": "image",
-      "src": "pipeline/media/games-ff14-fan-merch.jpg"
+      "src": "pipeline/media/games-love-alt-delete-muse.mp4",
+      "poster": "pipeline/media/games-love-alt-delete-muse.jpg"
     }
   ]
 }

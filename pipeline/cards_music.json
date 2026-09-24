@@ -1,247 +1,261 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "section": "music",
   "cards": [
     {
-      "id": "music-amorph",
+      "id": "music-box-of-synths-beta",
       "eyebrow": "AI NEWS",
-      "headline": "말로 설명하면 악기가 되는\n무료 플러그인 Amorph",
-      "body": "원하는 소리를 글로 적으면 DAW에서 바로 연주되는 DSP 코드가 나온다.",
-      "mini_headline": "말로 만드는 플러그인",
+      "headline": "글로 설명하면 패치가 되는\n무료 신스 Box of Synths",
+      "body": "원하는 소리를 글로 적으면 수정 가능한 패치를 만들어 주는 무료 베타 신스다.",
+      "mini_headline": "글로 만드는 신스 패치",
       "tool": "Music",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.synthtopia.com/wp-content/uploads/2026/09/amorph-1-0-beta-press-hero.png",
-            "cap": "Amorph 1.0 공개 베타 (이미지: Nils Hoesli, Artists in DSP)"
-          },
-          {
-            "t": "p",
-            "x": "Artists in DSP가 Amorph 1.0 공개 베타를 내놓았다. macOS와 Windows에서 쓰는 무료 VST3·AU 플러그인이다. 악기나 이펙트, MIDI 도구를 글로 설명하면 실제로 돌아가는 DSP 코드가 만들어지고, 컴파일까지 끝나 DAW 안에서 바로 연주된다."
-          },
-          {
-            "t": "p",
-            "x": "무료 패치도 40개 넘게 들어 있다. 팀과 커뮤니티가 Amorph로 만든 악기와 이펙트다. 소스가 모두 열려 있어 읽고 고쳐서 내 것으로 만들 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "WU7jB3Hq1kY"
-          },
-          {
-            "t": "p",
-            "x": "이번 빌드에서 바뀐 점도 여럿이다. 플러그인 안의 AI 어시스턴트는 사용자 본인의 API 키로 돌아가고 음성 입력을 받는다. Claude Code나 Cursor 같은 코딩 에이전트는 MCP로 붙는다. 불러온 패치는 휴대폰으로도 연주할 수 있다. 링크나 파일로 패치를 나눌 때는 원하면 소스를 잠가 둘 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "아무 AI 채팅에서 코드를 복사해 붙여 넣는 식으로 만들면 키도 계정도 필요 없다. 커뮤니티가 마을 모양으로 그려 낸 신스 Modular Town도 Amorph로 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "Amorph는 지금 공개 베타로 무료 다운로드할 수 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-elevenlabs-mcp",
-      "eyebrow": "AI NEWS",
-      "headline": "ElevenLabs MCP로\n대화창에서 음악까지 만든다",
-      "body": "쓰던 AI 어시스턴트 대화창에서 음성·음악·이미지·영상을 바로 만든다.",
-      "mini_headline": "대화창 속 음악 생성",
-      "tool": "Music",
-      "source": "ElevenLabs (YouTube)",
-      "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "vGukGg7Q2_g"
-          },
-          {
-            "t": "p",
-            "x": "ElevenLabs MCP가 이제 창작물까지 만든다. 늘 쓰던 AI 어시스턴트 대화창을 떠나지 않고 음성, 음악, 이미지, 영상을 생성한다. Claude, ChatGPT, Cursor, Hermes에서 쓸 수 있다. OAuth로 한 번 설치하면 끝이라 따로 돌릴 서버도, 관리할 API 키도 없다."
-          },
-          {
-            "t": "p",
-            "x": "라이브러리의 목소리를 골라 내레이션을 부탁하면 Text to Speech가 대화 안에서 곧장 만들어 준다. 녹음 파일을 넘기면 Scribe가 깔끔한 전사본을 돌려주는데, 그대로 대본이나 자막, 더빙으로 이어 쓰면 된다. 다른 언어 더빙도 같은 커넥터에서 끝난다."
-          },
-          {
-            "t": "p",
-            "x": "음악과 효과음 생성도 된다. 50개가 넘는 이미지·영상 모델로 이미지를 만들고 다듬은 뒤 영상으로 움직이게 하고 립싱크까지 입힌다. 전부 엮으면 브리프 하나로 대본, 내레이션, 배경 음악, 사운드 디자인, 영상이 갖춰진 결과물이 나온다."
-          },
-          {
-            "t": "p",
-            "x": "만든 것은 모두 ElevenCreative 워크스페이스에 쌓인다. Studio에서 열어 타임라인을 손보고 내레이션을 고치고 음악과 효과음을 얹어 내보내면 된다. ElevenLabs Agents를 움직이는 커넥터와 같은 것이라 한 번 설치로 둘 다 쓴다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-youtube-ask-music",
-      "eyebrow": "AI NEWS",
-      "headline": "유튜브 뮤직에\n말로 묻는 'Ask Music' 등장",
-      "body": "듣고 싶은 음악을 평소 말로 설명하면 찾아 주고 맞춤 팟캐스트 가이드도 붙는다.",
-      "mini_headline": "유튜브 뮤직, 말로 묻다",
-      "tool": "Music",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
-            "cap": "유튜브 뮤직"
-          },
-          {
-            "t": "p",
-            "x": "유튜브가 유튜브 뮤직에 AI 기능을 더한다. 음악을 찾고 아티스트를 알아보는 일, 그냥 지나쳤을 팟캐스트를 발견하는 일을 쉽게 하겠다는 취지다."
-          },
-          {
-            "t": "p",
-            "x": "올해 Made On YouTube 행사에서 공개한 기능은 두 가지다. 음악과 팟캐스트를 대화로 찾는 'Ask Music', 새 프로그램 발견을 돕는 개인 맞춤 오디오 가이드 'Your Podcast Lineup'이다."
-          },
-          {
-            "t": "p",
-            "x": "Ask Music은 유튜브 뮤직 앱에 바로 들어간다. 곡이나 아티스트를 하나씩 검색할 필요 없이 듣고 싶은 음악을 평소 말로 설명하면 된다. 공식 음원과 리믹스, 라이브, 커버, DJ 세트까지 3억 곡이 넘는 카탈로그 전체에서 작동한다. 나만의 재생 대기열을 짜거나 아티스트가 곡을 쓴 동기를 알아보고, 음악사를 깊이 파고드는 데도 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/made-on-youtube-2026-ask-music.max-700x3000.format-webp.png",
-            "cap": "Ask Music 화면 (이미지: YouTube)"
-          },
-          {
-            "t": "p",
-            "x": "유튜브 설명대로라면 친구에게 묻듯 요청을 입력하면 그만이다. 어떤 곡에 영감을 준 트랙들로 믹스를 만들어 달라고 해도 되고, 그 곡에서 베이스를 친 사람이 누군지 같은 제작 뒷이야기를 물어도 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/youtubemusicpodcast_lineup.png",
-            "cap": "Your Podcast Lineup (이미지: YouTube)"
-          },
-          {
-            "t": "p",
-            "x": "Your Podcast Lineup은 AI가 만든 개인 맞춤 오디오 가이드다. 팟캐스트는 들을 시간보다 훨씬 많다. 좋아하는 프로그램이 정해져 있어도 새 에피소드를 따라가기 벅차고, 새 프로그램 찾기는 더 어렵다."
-          },
-          {
-            "t": "p",
-            "x": "이 가이드는 앱의 팟캐스트 페이지에 뜬다. 매주 추천 프로그램을 짧게 말로 소개하며 왜 마음에 들 만한지 설명하고, 곧바로 추천 에피소드로 넘어간다."
-          },
-          {
-            "t": "p",
-            "x": "Spotify도 최근 비슷한 방향의 AI 기능을 선보였다. 관심사와 프롬프트에 맞춰 AI가 팟캐스트 에피소드를 만들어 주는 개인 팟캐스트 기능이다. 이번 업데이트는 서비스 곳곳에 AI를 넣으려는 유튜브의 큰 흐름 안에 있다. 유튜브 뮤직은 지난해 듣는 곡에 얽힌 이야기와 팬 상식, 코멘트를 들려주는 AI 진행자를 시험했다."
-          },
-          {
-            "t": "p",
-            "x": "두 기능은 곧 전 세계 유튜브 뮤직·유튜브 프리미엄 구독자에게 제공된다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-pachet-jungle-era",
-      "eyebrow": "AI NEWS",
-      "headline": "프랑수아 파셰 \"AI 음악의\n정글 시대는 끝났다\"",
-      "body": "AI 음악 선구자 파셰는 이제 법을 따라야 한다며 '정글 시대'는 끝났다고 본다.",
-      "mini_headline": "파셰가 본 AI 음악",
-      "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/09/23/ai-music-guru-francois-pachet-its-no-longer-the-jungle-era/",
-      "accent": "#f5a623",
-      "motif": "sphere",
+      "published_iso": "2026-09-24T13:27:52+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-23T122049.867.png?fit=2000%2C1500&ssl=1",
-            "cap": "프랑수아 파셰 인터뷰 (이미지: Music Ally)"
+            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg"
           },
           {
             "t": "p",
-            "x": "2016년 소니 CSL 연구소 팀이 AI 음악 시스템 Flow Machines로 '비틀스 스타일' 곡 'Daddy's Car'를 내놓았다. 돌아보면 논란이 거의 없었다는 게 놀랍다. 음악사에서 가장 유명한 밴드의 카탈로그로 AI를 학습시킨다는 발상에 공개적으로 화내거나 걱정한 이가 없었다. Suno와 학습, 저작권을 두고 다투는 지금과는 딴판이다."
+            "x": "Box Of Rules가 무료 베타 신스 Box Of Synths를 내놨다. 원하는 소리를 글로 적으면 편집 가능한 패치로 바꿔 준다. Picking Fingers와 규모가 더 큰 Box Of Bass를 만든 개발자의 새 프로젝트다."
           },
           {
             "t": "p",
-            "x": "그 프로젝트를 이끈 프랑수아 파셰가 Music Ally 팟캐스트 'The Price of Music'에 나왔다. 당시 이야기와 요즘 AI 음악을 보는 시각, 스트리밍 서비스의 접근법을 두루 짚었다. 그는 소니 CSL 이후 7년 동안 Spotify 사내 AI 연구소를 이끌었다."
+            "x": "프롬프트로 움직이지만 완성된 오디오나 곡을 뽑아 주는 도구는 아니다. 원하는 소리를 설명하면 그 요청을 내장 신스의 파라미터 레시피로 옮긴다."
           },
           {
             "t": "p",
-            "x": "파셰는 소니에도, 누구에게도 묻지 않았다고 했다. 사람들에게 돈을 주고 비틀스, 엘튼 존, 거슈윈 등의 곡을 음원이 아닌 악보로 다시 입력하게 했다. 유럽연합 집행위원회 연구비로 만든 이 데이터베이스가 'Daddy's Car'의 바탕이다. 저작권을 몰랐던 건 아니지만 이용하거나 훔칠 뜻은 없었고, AI로 흥미로운 걸 할 수 있다는 걸 보여 주려 했을 뿐이라고 한다. 소니 CSL 경영진은 불편해했다. 파셰는 이를 AI 학습에 쓰이는 저작권을 둘러싼 거대한 우려의 시작으로 본다."
+            "x": "엔진은 오실레이터 3개짜리 감산 신스다. 오실레이터마다 톱니·사각·펄스·삼각·사인파를 고르고 옥타브·디튠·펄스 폭·레벨·유니즌·스테레오 폭을 조절한다. 서브 오실레이터와 노이즈, 12dB·24dB 로우패스와 하이패스·밴드패스 필터, 앰프·필터 엔벨로프, LFO 2개, 글라이드, 벨로시티, 코러스, 딜레이도 들어 있다."
           },
           {
             "t": "p",
-            "x": "요즘 AI 음악 모델에 대해서는 가사가 \"아주 좋고\" 음악도 \"프로덕션 면에서 거의 흠이 없다\"고 평했다. 그래도 중요한 게 빠져 있다고 했다. \"좋은 작곡은 다음 음, 다음 코드로 넘어가는 샘플링만이 아니라 문제를 풀고 앞을 내다보는 일이다. 이 알고리즘들은 정의상 그걸 하지 않는다.\""
+            "x": "눈여겨볼 대목은 파라미터를 고르는 방식이다. 첫 번째는 Box Of Rules의 온라인 데이터베이스를 쓰는 모드다. 개발자 말로는 실제 신스를 측정하고 폭넓게 조사한 자료로 만들었다. 이 모드에는 AI 모델이 들어가지 않는다."
           },
           {
             "t": "p",
-            "x": "Spotify 초기는 거칠었다고 돌아봤다. AI로 음악을 생성해 보려다 문제가 생길 걸 알고 멈췄다는 것이다. 지금은 아티스트와 계약해 특정 곡의 AI 커버만 만드는 좁은 영역에 집중하는데, 그러면 모든 게 합법이 된다며 \"꽤 영리하다\"고 했다. \"이제 그들의 집착은 합법이 되는 것이다. 좋은 편으로 보이고 싶어 한다. 법에 맞춰야 한다. 10년 전 같은 정글 시대는 더는 아니다.\""
+            "x": "다른 하나는 Ollama로 로컬 모델을 연결하는 방식이다. 모델은 내 컴퓨터에서 돌아가고, 매번 처음부터 다시 할 필요 없이 글로 지시를 덧붙여 가며 패치를 다듬으면 된다."
           },
           {
             "t": "p",
-            "x": "'정글 시대'는 프랑스어 표현 '정글의 법칙'에서 온 말로, 영미권의 '와일드 웨스트'에 해당한다. 파셰는 이달 함부르크 Reeperbahn 콘퍼런스 'Music Frontiers' 세션에서 강연한 뒤 인터뷰에 응했다."
+            "x": "이전 버전의 소리는 인터페이스에 그대로 남는다. 결과 사이를 오가며 점수를 매기고 마음에 드는 것만 저장한 뒤 일반 신스 컨트롤로 더 손보면 된다. 패치의 핵심 부분을 빨리 만지도록 매크로 컨트롤도 자동으로 만들어 준다."
+          },
+          {
+            "t": "p",
+            "x": "개발자는 아티스트와 음반별로 쓰인 신스를 기록하는 커뮤니티 데이터베이스 Synth.Directory도 따로 만들고 있다. 레코드 5만 9천여 건, 악기 2,400여 종이 쌓였지만 아직 작업 중이다."
+          },
+          {
+            "t": "p",
+            "x": "무료 베타는 선착순 1,000명까지다. 다운로드 페이지에 이메일을 넣고 플러그인에서 같은 주소로 여섯 자리 인증 코드를 받는다. 데이터베이스 요청에는 인터넷이 필요하고, 요청 기록은 이메일·설치 ID와 함께 최대 12개월 보관된다. 패치 연주·편집·저장과 Ollama 로컬 생성은 오프라인에서도 된다."
+          },
+          {
+            "t": "p",
+            "x": "베타가 끝나면 영구 무료판으로 바뀌지만 기능 구성은 아직 정하지 않았다. v0.3.0은 Windows 10 이상과 Linux에서 VST3·독립 실행형으로 쓸 수 있다. macOS 11 이상 버전은 AU·VST3·독립 실행형을 지원하고 Intel과 Apple Silicon Mac에서 모두 돌아간다."
           }
         ]
       }
     },
     {
-      "id": "music-llm-copyright-triage",
+      "id": "music-suno-studio-recording",
       "eyebrow": "AI NEWS",
-      "headline": "LLM이 잡아낸 1,632개 영상\n진짜는 하나였다",
-      "body": "LLM은 다섯 중 넷을 헛짚었다. 믿을 만한 단서는 올린 사람뿐이었다.",
-      "mini_headline": "LLM 저작권 판별의 한계",
+      "headline": "Suno Studio, 타임라인에\n오디오 직접 녹음 지원",
+      "body": "트랙을 녹음 대기로 걸면 타임라인에 바로 오디오를 녹음할 수 있게 됐다.",
+      "mini_headline": "Suno 직접 녹음 기능",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/",
+      "source": "Suno (YouTube)",
+      "url": "https://www.youtube.com/watch?v=RFo_0XpyNhs",
       "accent": "#0070f3",
       "motif": "sphere",
+      "published_iso": "2026-09-23T19:09:58-07:00",
+      "og_image": "https://i.ytimg.com/vi/RFo_0XpyNhs/maxresdefault.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "RFo_0XpyNhs"
+          },
+          {
+            "t": "p",
+            "x": "Suno가 AI 음악 작업 공간 Suno Studio에 오디오 녹음 기능을 넣었다. 트랙을 녹음 대기로 걸고 녹음 버튼을 누르면 타임라인에 곧바로 소리가 담긴다."
+          },
+          {
+            "t": "p",
+            "x": "직접 연주하거나 부른 소리를 AI가 만든 트랙과 한 타임라인에서 다룰 수 있게 됐다. Suno는 영상에서 이렇게 소개한다. “이제 당신은 음악을 만들고 있다.”"
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-mooer-ve200-stemlab",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 스템 분리 앱과 짝지은\n라이브 보컬 페달 MOOER VE200",
+      "body": "실시간 보컬 이펙트에 앱 기반 AI 스템 분리를 더한 소형 페달이다.",
+      "mini_headline": "AI 스템 분리 보컬 페달",
+      "tool": "Music",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/mooer-ve200-live/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-09-24T11:00:00+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/player-popped-out.png",
-            "cap": "Videojam 플레이어 화면 (이미지: Videojam)"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg"
           },
           {
             "t": "p",
-            "x": "Videojam 창업자 앨런 모어가 쓴 글이다. Videojam은 영상을 직접 호스팅하지 않고 모든 뮤직비디오를 유튜브 임베드로만 보여 준다. 그래서 질문도 '침해 콘텐츠를 올려 두었나'가 아니라 '이 업로드를 골라 노출해도 되나'였다. 그는 일주일 동안 저작권 분류 체계를 처음부터 다시 짰다."
+            "x": "MOOER VE200은 라이브 보컬용 소형 스테레오 멀티이펙트 페달이다. 실시간 피치 보정과 하모니, 모듈레이션, 공간계 이펙트를 갖췄다."
           },
           {
             "t": "p",
-            "x": "첫 시도는 언어 모델이었다. 영상마다 제목, 설명, 업로더, 태그 같은 메타데이터를 주고 문제 있어 보이는지 판단하게 했다. 2,026개 중 1,632개가 걸렸다. 다섯 개 중 네 개꼴이다. 1,632건 가운데 1,602건(98.2%)은 거의 모든 뮤직비디오에 들어맞을 만큼 넓은 두 가지 이유를 댔다. 같은 2,026개를 새로 짠 탐지기로 돌리자 조치할 만한 건 하나뿐이었다."
+            "x": "스튜디오에서도 무대에서도 쓸 만한 창작 도구다. 7단 처리 체인을 곡의 구간마다 따로 불러와 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "모어는 모델이 추론을 못한 게 아니라 엉뚱한 대상을 두고 추론했다고 본다. NirvanaVEVO가 올린 'Smells Like Teen Spirit'과 구독자 400명짜리 채널이 올린 같은 곡은 제목만 보면 똑같다. 둘을 가르는 건 누가 올렸고 권리가 있느냐, 곧 출처다."
+            "x": "조작은 1.28인치 터치스크린이 중심이다. 이펙트 체인의 어느 부분이든 그 자리에서 바로 고친다. 스튜디오에서 보컬 사운드를 다듬을 때, 공연장 음향 엔지니어가 특정 이펙트를 줄여 달라고 할 때 특히 요긴하다."
+          },
+          {
+            "t": "video",
+            "yt": "tq_dlnjVEJw"
           },
           {
             "t": "p",
-            "x": "영상 길이로 짠 규칙은 196개를 잡았지만 모두 정상 다큐멘터리였다. 권리자 이름을 맞춰 보는 방식은 Tomorrowland가 직접 올린 공식 세트까지 걸렀다. 제외 단어를 붙일 때마다 커버, 강좌, 리액션 영상에서 새 오탐이 튀어나왔다."
+            "x": "처리 체인은 독립된 이펙트 블록 7개로 짜였다. 컴프레션·EQ·로우컷 필터가 든 다이내믹스, 피드백 억제, 피치 보정, 하모니·보코더, 코러스·플랜저·페이저·트레몰로의 모듈레이션, 슬랩백·에코·탭 템포 딜레이, 룸·스튜디오·홀·플레이트·처치 알고리즘의 리버브다."
           },
           {
             "t": "p",
-            "x": "답은 업로더에 있었다. 유튜브 API로 후보 영상의 channelId를 채우자 33개가 2개로 줄었다. 빠진 31개는 공식 아티스트 채널, VEVO, Topic 채널, 페스티벌 공식 계정이었다. 출처 정보가 비어 있다는 이유만으로 걸려 있었다."
+            "x": "블록은 하나씩 켜고 끌 수 있지만 체인을 여러 개 쌓거나 한 블록에 이펙트를 겹칠 수는 없다. VE200은 MOOER Cloud 앱과도 연동된다. 앱으로 어떤 곡이든 보컬을 지우고 반주 트랙을 만든다. 다만 오프라인 처리라 곡이 휴대기기에 저장돼 있어야 하고, 곡은 블루투스로 VE200에 스트리밍된다."
           },
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1000/2026/09/home.png",
-            "cap": "Videojam 홈 화면 (이미지: Videojam)"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-02.jpg",
+            "cap": "메인 컨트롤"
           },
           {
             "t": "p",
-            "x": "여기서 규칙 두 개가 나왔다. 예외는 바꿀 수 있는 이름이 아니라 channelId에 건다. 필드가 비었다는 이유로 탐지기가 울려서는 안 된다. 지금 쓰는 엔진에는 LLM이 없고 channelId 기반 우선순위로만 판단하며, 일주일에 한두 개 정도를 걸러 낸다. 모어의 결론은 음악 카탈로그의 저작권 분류가 콘텐츠 문제의 옷을 입은 출처 문제라는 것이다."
+            "x": "충전식 배터리를 내장해 최대 5시간 쓴다. 전원 걱정 없이 금방 세팅할 수 있어 버스킹에 잘 맞는다. 출력은 스테레오 TRS와 XLR이고, USB-C OTG 오디오 인터페이스로도 작동해 iPhone·iPad·Android 기기로 바로 라이브 방송을 할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-04.jpg",
+            "cap": "후면"
+          },
+          {
+            "t": "p",
+            "x": "MOOER VE200은 현재 요청 시 예약 주문을 받는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-qobuz-ai-tags",
+      "eyebrow": "AI NEWS",
+      "headline": "Qobuz, AI 생성 음악에\n표시 태그 붙이기 시작",
+      "body": "사람의 선택이 음악 발견을 이끌어야 한다며 AI 생성 곡에 태그를 단다.",
+      "mini_headline": "Qobuz AI 곡 태그",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/09/24/qobuz-tags-ai-generated-music/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "published_iso": "2026-09-24T18:37:19+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
+            "cap": "사진: Qobuz"
+          },
+          {
+            "t": "p",
+            "x": "Qobuz가 AI 생성으로 판별된 음악에 태그를 붙이기 시작했다. 듣는 사람이 지금 무엇을 듣는지 더 잘 알 수 있게 하려는 조치다."
+          },
+          {
+            "t": "p",
+            "x": "음악 업계 곳곳에서 AI 생성 콘텐츠가 늘고 있다. Qobuz는 이 정보를 이용자가 바로 볼 수 있어야 한다는 입장이다. 독립 스트리밍 플랫폼인 Qobuz는 이제 AI 생성으로 판별된 곡에 알림 태그를 띄워, 청취자가 듣는 음악의 정체를 쉽게 가려내도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "Qobuz는 고음질 스트리밍과 다운로드로 이름을 알렸지만 사람의 창작과 선택을 꾸준히 앞세운 점도 다르다. 음악 발견은 에디토리얼 팀이 이끈다. 직접 고른 셀렉션과 플레이리스트, 추천 콘텐츠 모두 이들의 전문성과 큐레이션에서 나온다. 사람이 고르다 보니 이용자에게 보여 주는 목록에서 AI 생성 콘텐츠는 자연히 빠진다."
+          },
+          {
+            "t": "p",
+            "x": "Qobuz 부대표 Georges Fornay는 “이제 과제는 AI 생성 음악을 탐지하는 데 그치지 않고 청취자가 이를 분명히 알아보게 하는 것”이라고 말했다. 그는 “Qobuz의 상징인 투명성에는 음악 발견이 사람의 선택으로 이뤄져야 한다는 핵심 신념이 따른다. 누구나 자신이 무엇을 듣는지 알고 제대로 알고서 고를 수 있어야 한다”고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이번 판별 장치는 Qobuz가 직접 설계하고 개발했다. 2월에 발표하고 이번 변화에 맞춰 갱신한 AI 헌장의 원칙을 실천하는 가장 최근 조치다. 헌장은 음악 업계의 기술·규제 변화에 맞춰 계속 바뀐다."
+          },
+          {
+            "t": "p",
+            "x": "Qobuz에 따르면 AI로 판별된 곡의 스트림 가운데 60%는 자체 부정행위 방지 시스템이 부정 스트림으로 분류해 권리자 정산에서 뺀다. 청취 기록이 없는 AI 생성 앨범 중 3분의 1 이상, 곡 수로는 400만 곡이 검색에서 사라졌다."
+          },
+          {
+            "t": "p",
+            "x": "Qobuz 전체 스트림에서 AI 생성 곡의 비중은 0.38%뿐이다. 사람이 고르는 방식 덕분이고, AI 생성 콘텐츠는 Qobuz가 제안하는 발견 경로 밖에 머문다."
+          },
+          {
+            "t": "p",
+            "x": "부정 활동이 드러나면 Qobuz는 엄격히 대응한다. 해당 스트림은 리포팅과 로열티 지급에서 빠지고 관련 콘텐츠는 카탈로그에서 내려간다. 아티스트에게 공정하게 보상하겠다는 오랜 약속을 지키는 방법이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-voiceswap-ddex",
+      "eyebrow": "AI NEWS",
+      "headline": "Voice-Swap, DDEX 합류해\nAI 보컬 동의 표준 논의",
+      "body": "DDEX에 합류해 AI 보컬의 동의·승인 메타데이터 표준 논의에 힘을 보탠다.",
+      "mini_headline": "AI 보컬 동의 표준",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/09/24/ddex-voice-swap/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "published_iso": "2026-09-24T21:28:16+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/VS-Logo.png",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Voice-Swap이 음악 메타데이터 표준 단체 DDEX(Digital Data Exchange)에 정회원으로 합류했다. AI 음성 모델에서도 “상호운용 가능한 메타데이터”를 기본으로 만들겠다는 구상이다."
+          },
+          {
+            "t": "p",
+            "x": "DDEX와 런던에 본사를 둔 Voice-Swap은 오늘 합류를 공식 발표했다. 표준 개발 과정에 참여하는 “첫 AI 음성 전문 기업”이라는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "AI 음성에서 정확히 무엇이 저작권 보호 대상인지는 아직 불분명하고 변수도 많다. 표준이 실제로 어떤 모습일지는 더 지켜봐야 한다. Ausrine Skarnulyte가 이끄는 Voice-Swap은 음성 모델 식별, 동의·승인 메타데이터, 사용 범위별 권한, 출처와 권리 보고 같은 요건에 의견을 낼 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "이 행보에는 AI 음성이 “기존 제작·유통·상업 워크플로의 일부”가 되리라는 전망이 깔려 있다. SoundCloud와 협력하는 Voice-Swap은 2026년 들어 사업을 넓혀 왔다. 4월에는 크리에이터·광고주용 TTS 제품 Voiceover_Studio를, 8월에는 “즉석 음성 복제”를 선보였고 목소리를 라이선스할 수 있는 아티스트 명단도 늘리는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "권리 쪽 움직임도 처음은 아니다. 3월에는 소니를 뺀 메이저 음반사 등과 함께 World Intellectual Property Office의 Technical Exchange Network 초기 참여사가 됐다. 한 달 전에는 최고전략·임팩트 책임자 Michael Pelczynski가 AI를 알아보는 데서 그치지 말고 승인까지 서둘러 표준으로 삼자는 글을 블로그에 올렸다."
+          },
+          {
+            "t": "p",
+            "x": "SoundCloud 임원 출신인 Pelczynski는 “AI 음성이 실제 제작과 상업 워크플로에 들어오고 있다. 그러니 그 밑에 깔린 권한도 디지털 공급망 전체가 읽을 수 있어야 한다”고 말했다. 그는 “누구의 정체성이 담겼는지, 어떤 모델을 썼는지, 누가 사용을 승인했는지, 허용 범위 안인지 업계가 알아야 한다. DDEX는 이 정보를 대규모로 상호운용하게 만들 딱 맞는 환경”이라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "DDEX 사무국의 Mark Isherwood는 Voice-Swap이 “새로운 관점”을 더한다고 평가했다. 그는 “Voice-Swap은 AI 음성 전문성에 분명히 초점을 맞출 것”이라며 “AI 관련 운영 요건에 대한 DDEX 표준이 최대한 폭넓게 업계 요구를 채우는 데 도움이 될 것”이라고 말했다. DDEX는 같은 날 Entity Cluster Message Suite의 새 표준도 공개했다."
           }
         ]
       }

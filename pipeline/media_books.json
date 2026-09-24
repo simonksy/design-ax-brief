@@ -1,7 +1,30 @@
-{"date":"2026-09-24","section":"books","media":[
-{"id":"books-orelien-ai-novel","type":"image","src":"pipeline/media/books-orelien-ai-novel.jpg"},
-{"id":"books-novvel-graphic-novel","type":"image","src":"pipeline/media/books-novvel-graphic-novel.png"},
-{"id":"books-ai-ssalmeok-webnovel","type":"image","src":"pipeline/media/books-ai-ssalmeok-webnovel.jpg"},
-{"id":"books-scrolled-textbook-feed","type":"image","src":"pipeline/media/books-scrolled-textbook-feed.png"},
-{"id":"books-dignum-misconduct","type":"image","src":"pipeline/media/books-dignum-misconduct.png"}
-]}
+{
+  "date": "2026-09-25",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-kdp-weekly-cap",
+      "type": "image",
+      "src": "pipeline/media/books-kdp-weekly-cap.png"
+    },
+    {
+      "id": "books-scbwi-creative-ban",
+      "type": "svg"
+    },
+    {
+      "id": "books-fox-hedgehog-reader",
+      "type": "image",
+      "src": "pipeline/media/books-fox-hedgehog-reader.jpg"
+    },
+    {
+      "id": "books-frankfurt26-ai-stage",
+      "type": "image",
+      "src": "pipeline/media/books-frankfurt26-ai-stage.png"
+    },
+    {
+      "id": "books-peer-review-triage",
+      "type": "image",
+      "src": "pipeline/media/books-peer-review-triage.png"
+    }
+  ]
+}
