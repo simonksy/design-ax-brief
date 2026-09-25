@@ -1,261 +1,324 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "music",
   "cards": [
     {
-      "id": "music-box-of-synths-beta",
+      "id": "music-symphonyos-v2",
       "eyebrow": "AI NEWS",
-      "headline": "글로 설명하면 패치가 되는\n무료 신스 Box of Synths",
-      "body": "원하는 소리를 글로 적으면 수정 가능한 패치를 만들어 주는 무료 베타 신스다.",
-      "mini_headline": "글로 만드는 신스 패치",
+      "headline": "SymphonyOS V2,\n여섯 AI 에이전트로 마케팅 재편",
+      "body": "아티스트 커리어의 한 부분, 레이블 발매의 한 단계를 전담 AI 에이전트 여섯이 나눠 맡는다.",
+      "mini_headline": "SymphonyOS V2 출시",
       "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/25/strategy-spotlight-tools-symphonyos-v2/",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "published_iso": "2026-09-24T13:27:52+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg"
+            "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-25T110743.014.png",
+            "cap": "SymphonyOS V2"
           },
           {
             "t": "p",
-            "x": "Box Of Rules가 무료 베타 신스 Box Of Synths를 내놨다. 원하는 소리를 글로 적으면 편집 가능한 패치로 바꿔 준다. Picking Fingers와 규모가 더 큰 Box Of Bass를 만든 개발자의 새 프로젝트다."
+            "x": "SymphonyOS가 출시 이후 가장 큰 업데이트인 SymphonyOS V2를 내놨다. 스스로를 '음악의 에이전트 회사'라 부르는 이 플랫폼은 마케팅 도구 전체를 여섯 개의 전문 AI 에이전트 중심으로 다시 짰다. 에이전트마다 아티스트 커리어의 한 부분이나 레이블 발매 과정의 한 단계를 맡는다."
           },
           {
             "t": "p",
-            "x": "프롬프트로 움직이지만 완성된 오디오나 곡을 뽑아 주는 도구는 아니다. 원하는 소리를 설명하면 그 요청을 내장 신스의 파라미터 레시피로 옮긴다."
+            "x": "SymphonyOS 팀은 2016년부터 아티스트 캠페인을 돌려왔다. SZA와 Travis Scott, 21 Savage의 사이트와 마케팅 인프라를 만들고 2022년에 SymphonyOS V1을 냈다. V1이 스마트 링크와 포에버 프리세이브, 자동 광고에 무게를 뒀다면 V2는 제품 자체를 팀 대신 일을 계획하고 실행하는 멀티 에이전트 AI 인력으로 바꿔놨다."
           },
           {
             "t": "p",
-            "x": "엔진은 오실레이터 3개짜리 감산 신스다. 오실레이터마다 톱니·사각·펄스·삼각·사인파를 고르고 옥타브·디튠·펄스 폭·레벨·유니즌·스테레오 폭을 조절한다. 서브 오실레이터와 노이즈, 12dB·24dB 로우패스와 하이패스·밴드패스 필터, 앰프·필터 엔벨로프, LFO 2개, 글라이드, 벨로시티, 코러스, 딜레이도 들어 있다."
+            "x": "Maestro는 나머지 에이전트를 조율한다. 아티스트와 팀은 문자나 이메일, 채팅으로 지시를 내린다. Simmy는 TikTok과 YouTube, Instagram, Facebook, Spotify 광고를 돌린다."
           },
           {
             "t": "p",
-            "x": "눈여겨볼 대목은 파라미터를 고르는 방식이다. 첫 번째는 Box Of Rules의 온라인 데이터베이스를 쓰는 모드다. 개발자 말로는 실제 신스를 측정하고 폭넓게 조사한 자료로 만들었다. 이 모드에는 AI 모델이 들어가지 않는다."
+            "x": "Cue는 발매를 관리한다. 발매일에서 거꾸로 짚어 롤아웃 계획을 세우는 방식이다. Echo는 아티스트의 팬베이스를 지도처럼 그려 슈퍼팬을 찾아내고 그들에게 나가는 메시지까지 챙긴다."
           },
           {
             "t": "p",
-            "x": "다른 하나는 Ollama로 로컬 모델을 연결하는 방식이다. 모델은 내 컴퓨터에서 돌아가고, 매번 처음부터 다시 할 필요 없이 글로 지시를 덧붙여 가며 패치를 다듬으면 된다."
+            "x": "Maude는 비즈니스 어페어를 맡는다. 로열티 명세서를 분석해 어긋난 항목을 표시하는 일도 여기 들어간다. Sage는 크리에이터 캠페인을 돌린다."
           },
           {
             "t": "p",
-            "x": "이전 버전의 소리는 인터페이스에 그대로 남는다. 결과 사이를 오가며 점수를 매기고 마음에 드는 것만 저장한 뒤 일반 신스 컨트롤로 더 손보면 된다. 패치의 핵심 부분을 빨리 만지도록 매크로 컨트롤도 자동으로 만들어 준다."
+            "x": "음악 마케팅 팀들은 진작부터 AI 도구로 작업 속도를 올려왔다. 다만 한계가 뚜렷했다. 최신 전략 지식도 실제 성과 데이터도 없으니 조언이 뻔했다. SymphonyOS V2의 에이전트들은 SymphonyOS 팀이 직접 학습시켰고, 출시 이후 DIY 아티스트부터 메이저 레이블 소속까지 10만 명 넘게 써온 플랫폼의 캠페인 데이터를 끌어다 쓴다."
           },
           {
             "t": "p",
-            "x": "개발자는 아티스트와 음반별로 쓰인 신스를 기록하는 커뮤니티 데이터베이스 Synth.Directory도 따로 만들고 있다. 레코드 5만 9천여 건, 악기 2,400여 종이 쌓였지만 아직 작업 중이다."
+            "x": "에이전틱 AI는 한동안 유행어에 가까웠고, 음악에서 그럴듯하게 굴러가는 사례는 보이지 않았다. Music Ally는 SymphonyOS V2를 지금까지 본 중 가장 유망한 예로 꼽으며 함께 일하는 아티스트 몇몇과 시험해보고 있다."
           },
           {
             "t": "p",
-            "x": "무료 베타는 선착순 1,000명까지다. 다운로드 페이지에 이메일을 넣고 플러그인에서 같은 주소로 여섯 자리 인증 코드를 받는다. 데이터베이스 요청에는 인터넷이 필요하고, 요청 기록은 이메일·설치 ID와 함께 최대 12개월 보관된다. 패치 연주·편집·저장과 Ollama 로컬 생성은 오프라인에서도 된다."
+            "x": "지켜볼 대목은 두 가지다. 광고 예산과 팬 메시지처럼 민감한 영역에서 에이전트가 사람의 감독을 얼마나 필요로 하는지, 그리고 팀이 플랫폼에 넣는 데이터의 소유와 활용은 어떻게 정리되는지."
           },
           {
             "t": "p",
-            "x": "베타가 끝나면 영구 무료판으로 바뀌지만 기능 구성은 아직 정하지 않았다. v0.3.0은 Windows 10 이상과 Linux에서 VST3·독립 실행형으로 쓸 수 있다. macOS 11 이상 버전은 AU·VST3·독립 실행형을 지원하고 Intel과 Apple Silicon Mac에서 모두 돌아간다."
+            "x": "비슷한 도구도 있다. 팬 참여 플랫폼 Laylo는 UGC 에이전트, 티켓 판매 에이전트, 장바구니 이탈 에이전트처럼 마케팅·판매 업무를 하나씩 맡는 자동 AI 에이전트를 내놨다. MCP 서버를 열어 자사 데이터를 Claude나 Gemini, ChatGPT 같은 범용 AI 어시스턴트에 잇는 플랫폼도 늘었다. Openstage MCP는 아티스트의 실시간 팬 데이터와 스트리밍 분석, 메일링 리스트를 연결한다."
+          },
+          {
+            "t": "p",
+            "x": "차이는 구조에 있다. SymphonyOS V2는 월 49~99달러대의 올인원 스위트로, 완성된 전문 에이전트를 먼저 주고 팀이 광고 계정과 스트리밍 플랫폼, 팬 리스트를 연결해 먹인다. MCP 쪽은 순서가 반대다. 팀이 AI 플랫폼을 고르고 에이전트를 직접 만든 다음 붙일 수 있는 서버를 골라 잇는다. 발매나 광고, 크리에이터 캠페인 경험이 적은 팀이라면 음악 지식이 미리 들어 있는 SymphonyOS가 나을 수 있다."
           }
         ]
       }
     },
     {
-      "id": "music-suno-studio-recording",
+      "id": "music-resolume-728-vision",
       "eyebrow": "AI NEWS",
-      "headline": "Suno Studio, 타임라인에\n오디오 직접 녹음 지원",
-      "body": "트랙을 녹음 대기로 걸면 타임라인에 바로 오디오를 녹음할 수 있게 됐다.",
-      "mini_headline": "Suno 직접 녹음 기능",
+      "headline": "Resolume 7.28,\n로컬 컴퓨터 비전으로 라이브 이펙트",
+      "body": "배경 제거와 사람 분할을 로컬에서 돌리는 Wire 노드에 새 이펙트와 블렌드까지 붙었다.",
+      "mini_headline": "Resolume 7.28 비전",
       "tool": "Music",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/watch?v=RFo_0XpyNhs",
+      "source": "CDM",
+      "url": "https://cdm.link/resolume-7-28-computer-vision/",
       "accent": "#0070f3",
       "motif": "sphere",
-      "published_iso": "2026-09-23T19:09:58-07:00",
-      "og_image": "https://i.ytimg.com/vi/RFo_0XpyNhs/maxresdefault.jpg",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/09/728-depthfield.jpeg",
+            "cap": "Depth Field — Ghost와 Xray를 겹친 결과"
+          },
+          {
+            "t": "p",
+            "x": "우리를 둘러싼 감시 기술 악몽에서 잠깐 벗어나보자. 온라인이 아니라 로컬에서 돌고, 창작과 예술을 하는 컴퓨터 비전이 있다. Resolume 7.28은 비전으로 돌아가는 Wire 노드와 새 이펙트, 블렌드를 더했다. 배경을 지우고 사람을 분할하고 깊이를 추정하는데, 꽤 깔끔하고 재미있다."
+          },
+          {
+            "t": "p",
+            "x": "바탕에는 Wire 빌딩 블록 두 개가 깔려 있다. 하나는 Human Segmentation, 즉 이미지 분할이고, 다른 하나는 Depth Estimation이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/09/728-depthestimation-1024x576.jpeg",
+            "cap": "Depth Estimation"
+          },
+          {
+            "t": "p",
+            "x": "이 둘만으로 7.28은 바로 쓸 수 있는 상위 이펙트 묶음과 새 Depth Blend 모드를 내놓는다. 전부 Wire로 만든 것이라 뜯어보고 배우고 고쳐 쓸 수 있다. 직접 이펙트를 만들어도 된다."
+          },
+          {
+            "t": "p",
+            "x": "배경 제거는 엄밀히 말하면 사람 분할을 이용한 배경 분리다. 나온 마스크는 아무 용도로나 가져다 쓴다. Depth estimation은 2D 이미지만 보고 깊이를 뽑으니 카메라를 더 달 필요가 없다. 여기서 Depth blur(가짜 피사계심도), Ghost와 Xray를 겹친 Depth field, 깊이를 변위로 쓰는 Depth displace, Depth pixelation, 뎁스 맵 기준으로 이미지 층을 잘라내는 Depth shift가 갈라져 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/09/728-depthshift-1024x576.jpg",
+            "cap": "Depth Shift"
+          },
+          {
+            "t": "p",
+            "x": "Depth Blend Mode는 불투명도 대신 뎁스 맵으로 섞는다. MIDI·OSC 모니터링도 개선됐고, Wire에서도 Arena처럼 우클릭으로 기본값 복원이 된다. Resolume은 오디오 엔진을 손보는 중이라며 Arena의 FFT 오디오 리액티비티를 먼저 꼽았다. Wire에는 오디오 스펙트럼 기능과 패스 드로잉이 들어오고, 다음 릴리스인 7.29에는 새 슬라이스 이펙트가 몇 개 붙는다."
+          },
+          {
+            "t": "p",
+            "x": "예전에는 이 효과를 흉내내려고 온갖 꾀를 썼다. 필자도 몇 년 전 Jitter로 무용 작품을 하면서 차분 이미지로 움직임을 뽑고 그걸 변위 맵으로 쓴 뒤, 춤추는 사람의 동작이 깊이처럼 보이도록 맞췄다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdm.link/app/uploads/2026/09/728-amelie-1024x576.jpg",
+            "cap": "배경 제거(사람 분할) 예시"
+          },
+          {
+            "t": "p",
+            "x": "비전을 창작에 쓰는 일이 감시와 근본부터 다른 이유는 이 예시들을 보면 드러난다. 결국 다루는 대상은 사람의 지각이고, 컴퓨터 비전은 픽셀 데이터를 직관적으로 만지게 해주는 통로일 뿐이다. 무엇보다 로컬에서 돈다. 인터랙션 디자인도 옵트아웃이 아니라 옵트인이어야 한다. 사람들이 스스로 카메라 앞에 서기로 하는 놀이터를 만드는 쪽이다."
+          },
+          {
             "t": "video",
-            "yt": "RFo_0XpyNhs"
+            "yt": "9uXMTJl0hGw"
           },
           {
             "t": "p",
-            "x": "Suno가 AI 음악 작업 공간 Suno Studio에 오디오 녹음 기능을 넣었다. 트랙을 녹음 대기로 걸고 녹음 버튼을 누르면 타임라인에 곧바로 소리가 담긴다."
+            "x": "Resolume는 최근 7.26 업데이트에 AI 어시스턴스를 넣었다. 예상대로 반응은 크게 갈렸고, 회사도 이번 주 뉴스레터에서 \"Resolume 커뮤니티에서 복잡한 감정으로 받아들여졌다\", \"모두가 AI를 좋아하지는 않는다는 걸 우리도 안다\"고 인정했다. 그리고 곧바로 생산성 향상을 내세웠다."
           },
           {
             "t": "p",
-            "x": "직접 연주하거나 부른 소리를 AI가 만든 트랙과 한 타임라인에서 다룰 수 있게 됐다. Suno는 영상에서 이렇게 소개한다. “이제 당신은 음악을 만들고 있다.”"
+            "x": "핵심을 비껴간 대응이다. AI를 거부하는 사람들은 생산성이 오르느냐를 의심하는 게 아니다. 빨리 일하는 것이 정말 목적이냐를 묻는다. 이펙트 패치를 노드 하나씩 훑고 값을 만지고 실수하는 과정 자체가 작업이다. 빠르고 효율적으로 다루는 능력은 MCP 없이도 오래 쌓아온 것이다."
+          },
+          {
+            "t": "p",
+            "x": "속도와 무관한 반론도 있다. OpenAI와 Anthropic은 미군을 비롯한 방위 응용에 얽혀 있고, 환경 문제도 계속된다. 게다가 과거 기술과 달리 AI 도구는 소유할 수 없다. 월 구독과 크레딧에 매인다. MCP를 쓰지 말라는 말이 아니다. '더 빨라진다'에서 멈추지 않는 논의가 필요하다는 뜻이다."
           }
         ]
       }
     },
     {
-      "id": "music-mooer-ve200-stemlab",
+      "id": "music-nagi-nocode-plugins",
       "eyebrow": "AI NEWS",
-      "headline": "AI 스템 분리 앱과 짝지은\n라이브 보컬 페달 MOOER VE200",
-      "body": "실시간 보컬 이펙트에 앱 기반 AI 스템 분리를 더한 소형 페달이다.",
-      "mini_headline": "AI 스템 분리 보컬 페달",
+      "headline": "Nagi, 코드 없이\n오디오 플러그인을 만드는 길",
+      "body": "말로 요청하면 로컬 AI가 Faust DSP 코드와 GUI 배치를 짜준다.",
+      "mini_headline": "노코드 플러그인 Nagi",
       "tool": "Music",
-      "source": "Gearnews",
-      "url": "https://www.gearnews.com/mooer-ve200-live/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-09-24T11:00:00+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg"
-          },
-          {
-            "t": "p",
-            "x": "MOOER VE200은 라이브 보컬용 소형 스테레오 멀티이펙트 페달이다. 실시간 피치 보정과 하모니, 모듈레이션, 공간계 이펙트를 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "스튜디오에서도 무대에서도 쓸 만한 창작 도구다. 7단 처리 체인을 곡의 구간마다 따로 불러와 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "조작은 1.28인치 터치스크린이 중심이다. 이펙트 체인의 어느 부분이든 그 자리에서 바로 고친다. 스튜디오에서 보컬 사운드를 다듬을 때, 공연장 음향 엔지니어가 특정 이펙트를 줄여 달라고 할 때 특히 요긴하다."
-          },
-          {
-            "t": "video",
-            "yt": "tq_dlnjVEJw"
-          },
-          {
-            "t": "p",
-            "x": "처리 체인은 독립된 이펙트 블록 7개로 짜였다. 컴프레션·EQ·로우컷 필터가 든 다이내믹스, 피드백 억제, 피치 보정, 하모니·보코더, 코러스·플랜저·페이저·트레몰로의 모듈레이션, 슬랩백·에코·탭 템포 딜레이, 룸·스튜디오·홀·플레이트·처치 알고리즘의 리버브다."
-          },
-          {
-            "t": "p",
-            "x": "블록은 하나씩 켜고 끌 수 있지만 체인을 여러 개 쌓거나 한 블록에 이펙트를 겹칠 수는 없다. VE200은 MOOER Cloud 앱과도 연동된다. 앱으로 어떤 곡이든 보컬을 지우고 반주 트랙을 만든다. 다만 오프라인 처리라 곡이 휴대기기에 저장돼 있어야 하고, 곡은 블루투스로 VE200에 스트리밍된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-02.jpg",
-            "cap": "메인 컨트롤"
-          },
-          {
-            "t": "p",
-            "x": "충전식 배터리를 내장해 최대 5시간 쓴다. 전원 걱정 없이 금방 세팅할 수 있어 버스킹에 잘 맞는다. 출력은 스테레오 TRS와 XLR이고, USB-C OTG 오디오 인터페이스로도 작동해 iPhone·iPad·Android 기기로 바로 라이브 방송을 할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-04.jpg",
-            "cap": "후면"
-          },
-          {
-            "t": "p",
-            "x": "MOOER VE200은 현재 요청 시 예약 주문을 받는다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "music-qobuz-ai-tags",
-      "eyebrow": "AI NEWS",
-      "headline": "Qobuz, AI 생성 음악에\n표시 태그 붙이기 시작",
-      "body": "사람의 선택이 음악 발견을 이끌어야 한다며 AI 생성 곡에 태그를 단다.",
-      "mini_headline": "Qobuz AI 곡 태그",
-      "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/09/24/qobuz-tags-ai-generated-music/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/09/23/minimal-instruments-nagi-offers-a-no-code-route-to-building-native-audio-plugins/",
       "accent": "#7928ca",
       "motif": "sphere",
-      "published_iso": "2026-09-24T18:37:19+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
-            "cap": "사진: Qobuz"
+            "src": "https://www.synthtopia.com/wp-content/uploads/2026/09/vibe-coding-audio-plugins.jpg",
+            "cap": "Minimal Instruments Nagi"
           },
           {
             "t": "p",
-            "x": "Qobuz가 AI 생성으로 판별된 음악에 태그를 붙이기 시작했다. 듣는 사람이 지금 무엇을 듣는지 더 잘 알 수 있게 하려는 조치다."
+            "x": "Nagi는 네이티브 오디오 플러그인을 설계하고 빌드하는 새 데스크톱 앱이다. 코드를 직접 쓸 필요가 없다."
           },
           {
             "t": "p",
-            "x": "음악 업계 곳곳에서 AI 생성 콘텐츠가 늘고 있다. Qobuz는 이 정보를 이용자가 바로 볼 수 있어야 한다는 입장이다. 독립 스트리밍 플랫폼인 Qobuz는 이제 AI 생성으로 판별된 곡에 알림 태그를 띄워, 청취자가 듣는 음악의 정체를 쉽게 가려내도록 했다."
+            "x": "작업 흐름은 비주얼 노드 에디터와 Faust DSP 코드, 인터페이스 디자이너를 한 앱에 묶은 형태다. 오디오 프리뷰가 통합돼 있어 컴파일하기 전에 패치 소리를 들어볼 수 있다."
           },
           {
             "t": "p",
-            "x": "Qobuz는 고음질 스트리밍과 다운로드로 이름을 알렸지만 사람의 창작과 선택을 꾸준히 앞세운 점도 다르다. 음악 발견은 에디토리얼 팀이 이끈다. 직접 고른 셀렉션과 플레이리스트, 추천 콘텐츠 모두 이들의 전문성과 큐레이션에서 나온다. 사람이 고르다 보니 이용자에게 보여 주는 목록에서 AI 생성 콘텐츠는 자연히 빠진다."
+            "x": "노드 에디터는 오디오와 MIDI, 파라미터 포트를 제공한다. 오실레이터와 필터, 다이내믹스, 리버브, 코러스, 플랜저, 디에싱, 포먼트 필터링, 스테레오 이미징 같은 기능은 완성된 노드로 들어 있다. DSP를 더 세밀하게 다뤄야 하면 비주얼 그래프에서 Faust 코드로 넘어가면 된다."
           },
           {
             "t": "p",
-            "x": "Qobuz 부대표 Georges Fornay는 “이제 과제는 AI 생성 음악을 탐지하는 데 그치지 않고 청취자가 이를 분명히 알아보게 하는 것”이라고 말했다. 그는 “Qobuz의 상징인 투명성에는 음악 발견이 사람의 선택으로 이뤄져야 한다는 핵심 신념이 따른다. 누구나 자신이 무엇을 듣는지 알고 제대로 알고서 고를 수 있어야 한다”고 덧붙였다."
+            "x": "AI 어시스턴트도 붙는다. 평소 말투로 요청하면 Faust DSP 코드나 GUI 레이아웃을 만들어 준다. 로컬에서 돌고, 만들어진 결과물은 기존 프로젝트에 더하거나 아예 교체할 수 있다."
           },
           {
             "t": "p",
-            "x": "이번 판별 장치는 Qobuz가 직접 설계하고 개발했다. 2월에 발표하고 이번 변화에 맞춰 갱신한 AI 헌장의 원칙을 실천하는 가장 최근 조치다. 헌장은 음악 업계의 기술·규제 변화에 맞춰 계속 바뀐다."
+            "x": "노브와 슬라이더, 버튼 노드는 파라미터에 바로 묶인다. Faust 표준 라이브러리를 전부 지원하고, 문법 하이라이팅과 인라인 진단도 들어갔다."
           },
           {
             "t": "p",
-            "x": "Qobuz에 따르면 AI로 판별된 곡의 스트림 가운데 60%는 자체 부정행위 방지 시스템이 부정 스트림으로 분류해 권리자 정산에서 뺀다. 청취 기록이 없는 AI 생성 앨범 중 3분의 1 이상, 곡 수로는 400만 곡이 검색에서 사라졌다."
+            "x": "GUI 디자이너에는 노브와 슬라이더, 버튼, 미터, 스펙트럼 디스플레이가 있다. 엔벨로프 디스플레이와 필름스트립 애니메이션, 건반, 프리셋 브라우저도 쓴다. 위젯마다 범위와 스큐, 응답 곡선을 따로 잡는다."
           },
           {
             "t": "p",
-            "x": "Qobuz 전체 스트림에서 AI 생성 곡의 비중은 0.38%뿐이다. 사람이 고르는 방식 덕분이고, AI 생성 콘텐츠는 Qobuz가 제안하는 발견 경로 밖에 머문다."
+            "x": "빌드 결과물은 네이티브 VST3와 CLAP이다. Windows, macOS, Linux를 지원하고 macOS는 Intel과 Apple Silicon을 함께 담은 유니버설 바이너리로 나온다. MIDI 인스트루먼트 플러그인도 만들 수 있다. 프로젝트 파일은 로컬에 저장되며, 빌드까지 계정이 필요 없다."
           },
           {
             "t": "p",
-            "x": "부정 활동이 드러나면 Qobuz는 엄격히 대응한다. 해당 스트림은 리포팅과 로열티 지급에서 빠지고 관련 콘텐츠는 카탈로그에서 내려간다. 아티스트에게 공정하게 보상하겠다는 오랜 약속을 지키는 방법이다."
+            "x": "Nagi는 지금 퍼블릭 베타다. 코어 앱은 무료로 내려받아 패치하고 플러그인을 빌드할 수 있고, 이 기능들에는 계정을 만들지 않아도 된다. 베타 기간 Nagi Pro 평가 라이선스는 0달러로 표기돼 있고 기기 세 대까지 쓴다. 최종 가격은 아직 공개되지 않았다."
           }
         ]
       }
     },
     {
-      "id": "music-voiceswap-ddex",
+      "id": "music-spotify-taste-profile-us",
       "eyebrow": "AI NEWS",
-      "headline": "Voice-Swap, DDEX 합류해\nAI 보컬 동의 표준 논의",
-      "body": "DDEX에 합류해 AI 보컬의 동의·승인 메타데이터 표준 논의에 힘을 보탠다.",
-      "mini_headline": "AI 보컬 동의 표준",
+      "headline": "Spotify AI 취향 프로필,\n미국으로 확대",
+      "body": "미국 청취자도 원하는 '분위기'를 말로 설명해 추천을 직접 손본다.",
+      "mini_headline": "Spotify 취향 프로필",
       "tool": "Music",
       "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/09/24/ddex-voice-swap/",
+      "url": "https://www.digitalmusicnews.com/2026/09/24/spotify-taste-profile-algorithm-tweaks-us/",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "published_iso": "2026-09-24T21:28:16+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/VS-Logo.png",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/spotify-extends-taste-profile-launch-to-us.png",
+            "cap": "Spotify Taste Profile US launch"
+          },
+          {
+            "t": "p",
+            "x": "Spotify가 수요일부터 미국 프리미엄 구독자에게 새 '취향 프로필(Taste Profile)'을 풀기 시작했다. 뉴질랜드 베타를 거친 뒤다. 이 기능을 켜면 Spotify가 내 청취 취향을 어떻게 이해하고 있는지 보이고, AI에 자연어로 요청해 추천을 손볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "취향 프로필은 Spotify의 AI로 돌아간다. 처음 공개된 자리는 SXSW였고, 그때는 뉴질랜드 이용자만 베타로 써볼 수 있었다. 이제 미국에 들어오면서 Spotify의 트래픽과 매출이 가장 큰 시장에서 시험대에 오른다."
+          },
+          {
+            "t": "p",
+            "x": "TechCrunch는 이 기능을 Spotify 알고리즘의 열쇠를 건네받은 것에 비유했다. 취향 프로필은 플랫폼이 음악과 오디오를 어떤 기준으로 골라 내미는지 보여준다. Discover Weekly와 Made for You 추천, 해마다 화제가 되는 Spotify Wrapped까지 포함된다."
+          },
+          {
+            "t": "p",
+            "x": "문제는 그 추천이 시간이 지나도 취향을 그대로 따라오지는 않는다는 점이다. 프로필을 직접 고칠 수 있으면 Spotify도 무엇을 바꿔야 할지 더 정확히 알아낸다. 특정 장르나 아티스트를 늘리거나 줄이는 요청, 더 다양하게 섞어 달라는 요청이 가능하다."
+          },
+          {
+            "t": "p",
+            "x": "자주 듣지만 추천으로는 보고 싶지 않은 것도 걷어낸다. 수면 사운드나 차에서 아이들에게 틀어주는 음악이 그런 경우다."
+          },
+          {
+            "t": "p",
+            "x": "전에도 추천에서 특정 콘텐츠를 빼는 기능은 있었지만, 트랙이나 플레이리스트를 하나씩 제외하는 방식이었다. 이제는 Spotify의 AI와 대화하듯 말하면 덜 보고 싶은 유형을 지정할 수 있다. 트랙을 콕 집는 대신 원하는 '분위기'를 설명하는 것으로도 된다."
+          },
+          {
+            "t": "p",
+            "x": "모바일 앱에서는 프로필 사진을 누르고 아래로 내려가면 Taste Profile이 있다. 거기서 Spotify가 지금 내 취향을 어떻게 읽고 있는지 확인한다. 'Tell us more' 아래에서 무엇을 조정하고 싶은지 대화하듯 적으면, 변경은 \"몇 시간 안에\" 반영된다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능은 여전히 베타다. 미국 출시는 남은 버그를 털어내기에 좋은 방법이다. 더 넓은 지역으로 언제 확대할지는 Spotify가 밝히지 않았다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "music-landr-mila-fraud",
+      "eyebrow": "AI NEWS",
+      "headline": "LANDR, Mila와 만든\nAI 스트리밍 사기 탐지 확대",
+      "body": "자사 유통 음원에서 Spotify가 잡아낸 인공 스트림이 95% 줄었다고 LANDR는 밝혔다.",
+      "mini_headline": "LANDR 사기 탐지 확대",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Voice-Swap이 음악 메타데이터 표준 단체 DDEX(Digital Data Exchange)에 정회원으로 합류했다. AI 음성 모델에서도 “상호운용 가능한 메타데이터”를 기본으로 만들겠다는 구상이다."
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/09/1-IMAGE-5.png",
+            "cap": "LANDR 공동창업자 겸 CEO Pascal Pilon과 CTO Tommy Desilets"
           },
           {
             "t": "p",
-            "x": "DDEX와 런던에 본사를 둔 Voice-Swap은 오늘 합류를 공식 발표했다. 표준 개발 과정에 참여하는 “첫 AI 음성 전문 기업”이라는 설명이다."
+            "x": "LANDR는 자사가 유통하는 음원에서 Spotify가 인공 스트림으로 표시한 양이 2025년 1분기부터 2026년 2분기 사이 95% 줄었다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI 음성에서 정확히 무엇이 저작권 보호 대상인지는 아직 불분명하고 변수도 많다. 표준이 실제로 어떤 모습일지는 더 지켜봐야 한다. Ausrine Skarnulyte가 이끄는 Voice-Swap은 음성 모델 식별, 동의·승인 메타데이터, 사용 범위별 권한, 출처와 권리 보고 같은 요건에 의견을 낼 계획이다."
+            "x": "몬트리올에 자리한 이 유통·음악 제작 플랫폼이 9월 22일 화요일 배포한 보도자료에 담긴 내용이다. 같은 자료에서 회사는 퀘벡 AI 연구소 Mila와 함께 만든 스트리밍 사기 탐지 시스템을 확대한다고 알렸다."
           },
           {
             "t": "p",
-            "x": "이 행보에는 AI 음성이 “기존 제작·유통·상업 워크플로의 일부”가 되리라는 전망이 깔려 있다. SoundCloud와 협력하는 Voice-Swap은 2026년 들어 사업을 넓혀 왔다. 4월에는 크리에이터·광고주용 TTS 제품 Voiceover_Studio를, 8월에는 “즉석 음성 복제”를 선보였고 목소리를 라이선스할 수 있는 아티스트 명단도 늘리는 중이다."
+            "x": "Mila는 몬트리올의 비영리 AI 연구기관으로, 딥러닝 연구로 2018년 A.M. 튜링상을 공동 수상한 Yoshua Bengio가 세웠다. 초기 머신러닝 모델은 Édouard Demotes-Mainard가 개발해 배치했고, 이후 운영과 개발은 LANDR 사기 방지 팀이 이어받았다."
           },
           {
             "t": "p",
-            "x": "권리 쪽 움직임도 처음은 아니다. 3월에는 소니를 뺀 메이저 음반사 등과 함께 World Intellectual Property Office의 Technical Exchange Network 초기 참여사가 됐다. 한 달 전에는 최고전략·임팩트 책임자 Michael Pelczynski가 AI를 알아보는 데서 그치지 말고 승인까지 서둘러 표준으로 삼자는 글을 블로그에 올렸다."
+            "x": "다만 95% 감소가 Mila 시스템 하나의 성과는 아니다. LANDR는 여러 사기 방지 조치를 함께 돌린 결과로 설명한다. 모델 하나는 프로필과 행동 데이터로 계정을 평가하고, 다른 하나는 청취 활동에서 진짜 청중이라면 나오지 않을 패턴을 찾는다."
           },
           {
             "t": "p",
-            "x": "SoundCloud 임원 출신인 Pelczynski는 “AI 음성이 실제 제작과 상업 워크플로에 들어오고 있다. 그러니 그 밑에 깔린 권한도 디지털 공급망 전체가 읽을 수 있어야 한다”고 말했다. 그는 “누구의 정체성이 담겼는지, 어떤 모델을 썼는지, 누가 사용을 승인했는지, 허용 범위 안인지 업계가 알아야 한다. DDEX는 이 정보를 대규모로 상호운용하게 만들 딱 맞는 환경”이라고 덧붙였다."
+            "x": "이번 확대의 초점은 시점을 앞당기는 데 있다. 발매 빈도가 유난히 높은 계정, 하룻밤에 생겨난 카탈로그, 기기나 정산 정보를 공유하는 계정 무리, 알려진 아티스트를 사칭하려고 꾸민 메타데이터가 더 앞단에서 걸린다."
           },
           {
             "t": "p",
-            "x": "DDEX 사무국의 Mark Isherwood는 Voice-Swap이 “새로운 관점”을 더한다고 평가했다. 그는 “Voice-Swap은 AI 음성 전문성에 분명히 초점을 맞출 것”이라며 “AI 관련 운영 요건에 대한 DDEX 표준이 최대한 폭넓게 업계 요구를 채우는 데 도움이 될 것”이라고 말했다. DDEX는 같은 날 Entity Cluster Message Suite의 새 표준도 공개했다."
+            "x": "\"우리 규모에서 사기를 손으로 찾는 건 건초 더미에서 바늘 찾기였다. 1세대 모델이 그걸 관리 가능한 일로 바꿔놨다\"고 LANDR CTO Tommy Desilets는 말했다. \"이제 그 역량을 유통 과정 앞쪽으로 옮겨, 의심스러운 발매가 스트리밍 서비스에 닿기 전에 팀이 더 나은 신호를 받게 한다.\""
+          },
+          {
+            "t": "p",
+            "x": "LANDR는 가짜 스트림을 실제 청취 의도 없이 만들어진 재생으로 정의한다. 봇이나 스트림 팜, 탈취된 계정이 주로 동원된다. Spotify는 2024년 4월부터 콘텐츠에서 '노골적인 인공 스트리밍'이 잡히면 레이블과 유통사에 트랙당 수수료를 매겨왔다."
+          },
+          {
+            "t": "p",
+            "x": "\"인공 스트림은 그저 플랫폼을 이용해 먹는 행위가 아니다. 먹고살려고 애쓰는 음악가들에게 돌아갈 같은 로열티 풀의 돈을 두고 경쟁한다\"고 공동창업자 겸 CEO Pascal Pilon은 말했다."
+          },
+          {
+            "t": "p",
+            "x": "표시된 활동은 조치 전에 사기 방지 팀이 검토한다. 데이터에 이상한 패턴이 보인다고 그게 사기의 증거는 아니기 때문이다. Pilon은 \"AI가 사람을 대체하는 게 아니라, 우리 팀이 규모에 맞게 더 나은 판단을 하도록 돕기를 바란다\"고 했다. \"곡이 갑자기 뜨는 게 정말 그런 경우일 때도 있다. 아티스트가 아주 좋은 하루를 보낸 것이다.\""
+          },
+          {
+            "t": "p",
+            "x": "머신러닝은 이 시스템의 한 겹일 뿐이다. ACRCloud는 녹음을 상업 카탈로그와 지문 대조하고, 2024년 AI 생성 음악 탐지기를 내놓은 Ircam Amplify 기술은 변조된 녹음과 합성 생성의 음향 흔적을 살핀다."
+          },
+          {
+            "t": "p",
+            "x": "발매가 잦은 계정에는 신원 확인도 도입한다. 아티스트는 발매를 등록할 때 AI 생성 여부를 스스로 밝히고, 그 정보는 메타데이터에 실려 스트리밍 서비스로 전달된다. Spotify가 2025년 9월 DDEX와 함께 깔기 시작한 공개 경로다."
+          },
+          {
+            "t": "p",
+            "x": "LANDR는 이번 확대가 9월 14일 발표된 IFPI의 Streaming Integrity Initiative와 같은 방향이라고 설명한다. Pilon은 \"목표는 단순하다. 정상적인 아티스트에게 장벽을 더하지 않으면서 사기를 더 일찍 멈추는 것\"이라고 말했다."
           }
         ]
       }

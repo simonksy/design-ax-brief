@@ -1,33 +1,31 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "music",
   "media": [
     {
-      "id": "music-box-of-synths-beta",
+      "id": "music-symphonyos-v2",
       "type": "image",
-      "src": "pipeline/media/music-box-of-synths-beta.jpg"
+      "src": "pipeline/media/music-symphonyos-v2.jpg"
     },
     {
-      "id": "music-suno-studio-recording",
-      "type": "video",
-      "src": "pipeline/media/music-suno-studio-recording.mp4",
-      "poster": "pipeline/media/music-suno-studio-recording.jpg"
-    },
-    {
-      "id": "music-mooer-ve200-stemlab",
-      "type": "video",
-      "src": "pipeline/media/music-mooer-ve200-stemlab.mp4",
-      "poster": "pipeline/media/music-mooer-ve200-stemlab.jpg"
-    },
-    {
-      "id": "music-qobuz-ai-tags",
+      "id": "music-resolume-728-vision",
       "type": "image",
-      "src": "pipeline/media/music-qobuz-ai-tags.png"
+      "src": "pipeline/media/music-resolume-728-vision.jpg"
     },
     {
-      "id": "music-voiceswap-ddex",
+      "id": "music-nagi-nocode-plugins",
       "type": "image",
-      "src": "pipeline/media/music-voiceswap-ddex.png"
+      "src": "pipeline/media/music-nagi-nocode-plugins.jpg"
+    },
+    {
+      "id": "music-spotify-taste-profile-us",
+      "type": "image",
+      "src": "pipeline/media/music-spotify-taste-profile-us.png"
+    },
+    {
+      "id": "music-landr-mila-fraud",
+      "type": "image",
+      "src": "pipeline/media/music-landr-mila-fraud.jpg"
     }
   ]
 }

@@ -1,30 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "books",
   "media": [
     {
-      "id": "books-kdp-weekly-cap",
+      "id": "books-storytel-recaps",
       "type": "image",
-      "src": "pipeline/media/books-kdp-weekly-cap.png"
+      "src": "pipeline/media/books-storytel-recaps.jpg"
     },
     {
-      "id": "books-scbwi-creative-ban",
-      "type": "svg"
+      "id": "books-mangaplus-ai-survey",
+      "type": "video",
+      "src": "pipeline/media/books-mangaplus-ai-survey.mp4",
+      "poster": "pipeline/media/books-mangaplus-ai-survey.jpg"
     },
     {
-      "id": "books-fox-hedgehog-reader",
+      "id": "books-japan-usedbooks-scan",
       "type": "image",
-      "src": "pipeline/media/books-fox-hedgehog-reader.jpg"
+      "src": "pipeline/media/books-japan-usedbooks-scan.jpg"
     },
     {
-      "id": "books-frankfurt26-ai-stage",
+      "id": "books-naverwebtoon-byus",
       "type": "image",
-      "src": "pipeline/media/books-frankfurt26-ai-stage.png"
+      "src": "pipeline/media/books-naverwebtoon-byus.jpg"
     },
     {
-      "id": "books-peer-review-triage",
+      "id": "books-goncourt-orelien",
       "type": "image",
-      "src": "pipeline/media/books-peer-review-triage.png"
+      "src": "pipeline/media/books-goncourt-orelien.jpg"
     }
   ]
 }

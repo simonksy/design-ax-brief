@@ -1,61 +1,66 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "music",
   "picks": [
     {
-      "url": "https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/",
-      "source": "Bedroom Producers Blog",
+      "url": "https://musically.com/2026/09/25/strategy-spotlight-tools-symphonyos-v2/",
+      "source": "Music Ally",
+      "title": "STRATEGY SPOTLIGHT: Tools - SymphonyOS V2",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Free prompt-driven synth that turns text descriptions into editable patches, with an optional local Ollama model. Producers can use it right away and it is fresh (Sep 24).",
-      "published_iso": "2026-09-24T13:27:52+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/box-synth.jpg",
-      "excerpt": "Free beta synth that builds editable patches from written descriptions, via a research-based database mode or an optional local AI model through Ollama that lets you keep refining the patch with text instructions."
+      "rationale": "SymphonyOS V2 rebuilds its marketing suite around six specialised AI agents covering artist and label rollouts. It is a fresh product release (Sep 25) that artist teams can try now.",
+      "published_iso": "2026-09-25T10:09:48+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-25T110743.014.png",
+      "excerpt": "SymphonyOS has launched SymphonyOS V2, its biggest update since launch. Billing itself as \"the agent company of music\", the platform has rebuilt its marketing suite around six specialised AI agents, each dedicated to a different part of an artist's career or a label's rollout."
     },
     {
-      "url": "https://www.youtube.com/watch?v=RFo_0XpyNhs",
-      "source": "Suno (YouTube)",
+      "url": "https://cdm.link/resolume-7-28-computer-vision/",
+      "source": "CDM",
+      "title": "Resolume 7.28 uses vision to let you play with intelligent live effects and blends",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Suno Studio adds direct audio recording to the timeline, moving its AI DAW toward a hybrid human-plus-AI workflow. A primary-source feature release (Sep 23).",
-      "published_iso": "2026-09-23T19:09:58-07:00",
-      "og_image": "https://i.ytimg.com/vi/RFo_0XpyNhs/maxresdefault.jpg",
-      "excerpt": "Suno Studio now lets you arm a track and record audio directly onto the timeline of its AI-assisted DAW."
+      "rationale": "Resolume 7.28 adds local computer-vision Wire nodes, effects and blends for segmentation and background removal. It is a concrete AI feature for live AV and VJ performers, and a different angle from the audio tools.",
+      "published_iso": "2026-09-25T09:25:23+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/728-depthfield.jpeg",
+      "excerpt": "Take a break from the surveillance nightmare around us for computer vision that's local, not online, and doing creative, artistic things, instead. Resolume 7.28 adds some powerful Wire nodes and new effects and blends, all powered by vision. Yep, Resolume's removing your backgrounds, segmenting your"
     },
     {
-      "url": "https://www.gearnews.com/mooer-ve200-live/",
-      "source": "Gearnews",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "AI stem separation built into a live vocal pedal. It brings AI into hardware for live performers, a different angle from the software picks.",
-      "published_iso": "2026-09-24T11:00:00+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/mooer-ve200-ft-02.jpg",
-      "excerpt": "MOOER's VE200 is a compact stereo vocal multi-effects pedal for live performers with real-time processing and an AI StemLab stem-separation feature built in."
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/24/qobuz-tags-ai-generated-music/",
-      "source": "Digital Music News",
+      "url": "https://www.synthtopia.com/content/2026/09/23/minimal-instruments-nagi-offers-a-no-code-route-to-building-native-audio-plugins/",
+      "source": "Synthtopia",
+      "title": "Minimal Instruments Nagi Offers A No-Code Route To Building Native Audio Plugins",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Qobuz starts flagging AI-generated tracks in its catalog. This is a concrete platform labeling rollout that affects how AI-assisted releases are shown to listeners.",
-      "published_iso": "2026-09-24T18:37:19+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/qobuz-rolls-out-tag-to-flag-ai-generated-music.png",
-      "excerpt": "Qobuz is rolling out tags that flag AI-generated tracks in its catalog, saying musical discovery must remain guided by human choices."
+      "rationale": "Nagi pairs a node editor and Faust DSP with a local AI assistant that generates DSP code or GUI layouts from plain-language requests. It is a hands-on tool for building plugins without code, and a different product from the Amorph story published on 09-24.",
+      "published_iso": "2026-09-23T12:39:38+00:00",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/vibe-coding-audio-plugins.jpg",
+      "excerpt": "Nagi combines a visual node editor, Faust DSP code and an interface designer, with a local AI assistant that generates Faust DSP or GUI layouts from natural-language requests."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/09/24/ddex-voice-swap/",
+      "url": "https://www.digitalmusicnews.com/2026/09/24/spotify-taste-profile-algorithm-tweaks-us/",
       "source": "Digital Music News",
+      "title": "Spotify Extends Launch of 'Taste Profile' Algorithm Tweaks",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Voice-Swap joins DDEX to push consent and authorization metadata standards for AI vocals, which shapes how licensed AI voices move through production and distribution.",
-      "published_iso": "2026-09-24T21:28:16+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/VS-Logo.png",
-      "excerpt": "AI vocal platform Voice-Swap has joined DDEX and plans to contribute consent and authorization metadata standards as AI vocals become part of real production and commercial workflows."
+      "rationale": "Spotify's AI Taste Profile reaches the US, so listeners can steer recommendations in natural language. This changes how music gets discovered, and it is a separate story from the Meta Muse connector, which was left out.",
+      "published_iso": "2026-09-24T18:33:32+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/spotify-extends-taste-profile-launch-to-us.png",
+      "excerpt": "Spotify's AI-powered Taste Profile expands to the US, letting listeners tweak recommendations with natural-language requests, even by describing a 'vibe'."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/",
+      "source": "Music Business Worldwide",
+      "title": "LANDR expands AI fraud detection built with machine learning lab Mila",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "LANDR expands its ML fraud detection, built with Mila, and reports a 95% drop in Spotify-flagged artificial streams. This is a measured result for AI-driven distribution integrity, and a separate story from the earlier LANDR Fair Trade AI coverage.",
+      "published_iso": "2026-09-24T15:44:52+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/1-IMAGE-5.png",
+      "excerpt": "Distribution and music creation platform expands streaming fraud detection system…"
     }
   ]
 }

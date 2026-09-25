@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "science",
   "media": [
     {
-      "id": "science-anthropic-art-enzyme",
+      "id": "science-mayo-pancreatic-risk",
       "type": "image",
-      "src": "pipeline/media/science-anthropic-art-enzyme.jpg"
+      "src": "pipeline/media/science-mayo-pancreatic-risk.jpg"
     },
     {
-      "id": "science-alphafold-virus-complexes",
+      "id": "science-tumor-twin-mcp",
       "type": "image",
-      "src": "pipeline/media/science-alphafold-virus-complexes.jpg"
+      "src": "pipeline/media/science-tumor-twin-mcp.jpg"
     },
     {
-      "id": "science-six-dim-sphere-ai",
+      "id": "science-quantum-optical-nn-energy",
       "type": "image",
-      "src": "pipeline/media/science-six-dim-sphere-ai.jpg"
+      "src": "pipeline/media/science-quantum-optical-nn-energy.jpg"
     },
     {
-      "id": "science-dust-xray-screening",
-      "type": "image",
-      "src": "pipeline/media/science-dust-xray-screening.jpg"
+      "id": "science-spacecraft-world-model",
+      "type": "video",
+      "src": "pipeline/media/science-spacecraft-world-model.mp4",
+      "poster": "pipeline/media/science-spacecraft-world-model.jpg"
     },
     {
-      "id": "science-tango-humanoid-gaps",
+      "id": "science-ai-disagreement-trust",
       "type": "image",
-      "src": "pipeline/media/science-tango-humanoid-gaps.jpg"
+      "src": "pipeline/media/science-ai-disagreement-trust.jpg"
     }
   ]
 }

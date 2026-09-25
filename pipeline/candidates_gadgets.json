@@ -1,151 +1,187 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "gadgets",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
-      "source": "Meta Newsroom",
+      "url": "https://9to5google.com/2026/09/16/google-home-mcp/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-24T21:15:55+00:00",
-      "og_image": "https://about.fb.com/wp-content/uploads/2026/09/The-Biggest-News-From-Connect-2026_Header-1.jpg?w=1200",
-      "excerpt": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more.",
-      "title": "The Biggest News From Connect 2026"
+      "published_iso": "2026-09-16T18:04:06+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Home-MCP-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google today announced “Home MCP” to let your personal AI agent interact with your smart home devices via the Model Context Protocol.",
+      "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home"
     },
     {
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "source": "Ars Technica",
+      "url": "https://9to5google.com/2026/09/24/pixel-11-call-for-me/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-09-24T14:03:38+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
-      "excerpt": "Meta says the keychain-sized Muse Charm will ship in December.",
-      "title": "Meta puts its AI assistant on a keychain"
+      "published_iso": "2026-09-24T16:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-canyon.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Following Direct My Call and Hold for Me, Google is introducing \"Call for Me\" on the Pixel 11 series. Reminiscent of Google Duplex...",
+      "title": "Pixel 11 starts testing ‘Call for Me’ to have Gemini phone on your behalf"
     },
     {
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T17:52:29+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
-      "excerpt": "Get ready for AI games in your Instagram feed.",
-      "title": "Meta is going to let you build games with AI right on your phone"
-    },
-    {
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jolly1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "A spoonful of cute to make the AI pill easier to swallow.",
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T19:59:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
-      "excerpt": "The AI avatar can transition between 97 languages.",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face"
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/smart-glasses/ray-ban-meta-audio-hands-on-an-attempt-to-allay-privacy-concerns",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-09-23T23:34:08Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wzs85cTXf3YJbck3vPLCTf-2300-80.jpg",
-      "excerpt": "Lighter, better looking but expensive",
-      "title": "Ray-Ban Meta Audio hands-on — an attempt to allay privacy concerns"
-    },
-    {
-      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-23T23:30:29.387Z",
-      "og_image": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg",
-      "excerpt": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
-      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon"
-    },
-    {
-      "url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T21:56:17+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg",
-      "excerpt": "Meta's newest smart glasses are an iterative, expensive update.",
-      "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare"
-    },
-    {
-      "url": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T19:24:34+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/l-intro-1790277712.jpg",
-      "excerpt": "The app is getting a \"hands-free\" mode that can narrate recipe steps.",
-      "title": "New York Times Cooking is coming to Meta's AI and display glasses"
-    },
-    {
-      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
-      "excerpt": "Google Photos’ new AI-powered features include the Redact tool, which can quickly blur parts of an image.",
-      "title": "Google Photos' new Redact tool will make it easy to hide sensitive information"
-    },
-    {
-      "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T16:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6ab39bc8c5e291a8de9a8d12/191:100/w_1280,c_limit/GettyImages-2289664536.jpg",
-      "excerpt": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones"
-    },
-    {
-      "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-09-23T06:39:00.000-04:00",
-      "og_image": "https://media.wired.com/photos/6ab330547e5544c7a3b97e1f/191:100/w_1280,c_limit/Review--SmartLabels-QR-Code-Organizing-System.jpg",
-      "excerpt": "SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.",
-      "title": "AI Promised to Organize My Clutter. Here’s the Messy Result"
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-tasks-mode-desktop-leak-3715259/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T20:43:51+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/04/gemini-mac-app-home-page-hero-scaled.jpg",
-      "excerpt": "Google is testing a new Gemini Tasks mode that could handle work across desktop apps, with Computer Use permissions and Gemini Live built in.",
-      "title": "Gemini's next desktop upgrade could let it handle tasks across your apps"
-    },
-    {
-      "url": "https://www.androidauthority.com/gemini-3-8-flash-text-to-speech-rolling-out-3714915/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T08:02:31+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Gemini-3.8-Flash-text-to-speech.jpg",
-      "excerpt": "Google’s Gemini 3.8 Flash TTS can create custom voices, replicate authorized voices, and control accents, pacing, emotion, and dialogue.",
-      "title": "Gemini can now clone your voice and perform scripts like an actor"
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
       "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-09-24T15:25:43+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "How does Apple’s new iOS 27 Clean Up and Extend compare to Photoshop? I tested both with real photos to find out.",
-      "title": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?"
+      "published_iso": "2026-09-23T17:17:24+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Siri AI is likely coming to HomePod soon, and leaker pdfu today shared evidence of what the new Siri could look like on a HomePod.",
+      "title": "Here’s what Siri AI looks like on HomePod, per leak"
     },
     {
-      "url": "https://www.tomsguide.com/audio/smart-speakers/siri-ai-is-hiding-inside-apples-homepod-so-why-isnt-it-working",
-      "source": "Tom's Guide",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica",
       "category": "gadgets",
-      "published_iso": "2026-09-24T10:21:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/sJW5SjsEmSaYuQ4jpsbCp8-2560-80.png",
-      "excerpt": "It's there, but it's not operational. So what's the deal?",
-      "title": "Siri AI is hiding inside Apple's HomePod — so why isn't it working?"
+      "published_iso": "2026-09-25T17:57:37+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+      "excerpt": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\""
+    },
+    {
+      "url": "https://gizmodo.com/vr-headsets-are-so-cooked-2000817445",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T18:45:30+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/Meta-VR-glasses-7-1200x675.jpg",
+      "excerpt": "After using Meta VR Glasses, I'm not so sure where headsets even fit in.",
+      "title": "VR Headsets Are So Cooked"
+    },
+    {
+      "url": "https://roadtovr.com/meta-vr-glass-hands-onconnect-2026/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T22:02:00+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/meta-vr-glasses-scott.jpg",
+      "excerpt": "Meta has finally unveiled its next-gen mixed reality headset, Meta VR Glasses. While they could technically fit somewhere in its Quest lineup, Meta seems to be making a concerted effort to bridge the gap between its experimental augmented reality projects, like Orion, and its much bulkier Quest gaming platform. Previously known as ‘Project Phoenix’, Meta […]",
+      "title": "Meta VR Glasses Hands-on: What Apple Vision Pro Probably Should Have Been"
+    },
+    {
+      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-09-16T23:40:00+00:00",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
+      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the company did give a little more insight into what sort […]",
+      "title": "Snap Announces New \"anticipatory\" AI Service & Apps for First Consumer 'Specs' AR Glasses"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-create-my-widget-play-store-listing-3715354/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T07:12:06+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+      "excerpt": "Google has officially listed a \"Create My Widget\" app on the Play Store, giving us a look at the templates and categories it will support.",
+      "title": "This is how Google's 'Create My Widget' app will work on Android and Googlebook OS"
+    },
+    {
+      "url": "https://www.androidauthority.com/googlebook-magic-pointer-local-cloud-processing-3715403/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T09:18:12+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Acer-Googlebook-14-Magic-Pointer-16-9-scaled.jpeg",
+      "excerpt": "Google has revealed the privacy boundary behind Magic Pointer, explaining what stays on your Googlebook and what gets sent to the cloud.",
+      "title": "Here's what Magic Pointer processes on your Googlebook — and what goes online"
+    },
+    {
+      "url": "https://www.cnet.com/tech/mobile/these-lightweight-audio-memory-recording-glasses-might-be-where-meta-and-apple-go-next/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T08:00:20-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Vonder.6.jpg",
+      "excerpt": "Vonder is making camera-free smart glasses that can differentiate between personal voice memos and conversations. I tried on some of the frames ahead of their November launch.",
+      "title": "These Lightweight Audio Memory-Recording Glasses Might Foreshadow Meta's Next Step (and Apple's) - CNET"
+    },
+    {
+      "url": "https://www.cnet.com/tech/services-and-software/qualcomm-snapdragon-sound-elite-gen-2-chip-headphones-ai-rebrand/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T15:30:13-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-18-3.png",
+      "excerpt": "In the age of agentic AI, headphones are no longer the straightforward audio devices they once were.",
+      "title": "From Audio Glasses to Earbuds With Cameras, Headphones Are Getting a Major AI Rebrand - CNET"
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/a-disembodied-ai-robot-hand-just-learned-to-walk-and-it-looks-horrifying-for-a-purpose/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-09-24T10:00:07-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/robot-hand-eth-zurich-soft-robotics-lab.jpg?resize=1200%2C630",
+      "excerpt": "Engineers have taught a disembodied robotic hand to walk on its fingers, recover from falls, press keyboard keys, and manipulate objects without an arm.",
+      "title": "A disembodied AI robot hand just learned to walk, and it looks horrifying (for a purpose)"
+    },
+    {
+      "url": "https://www.digitaltrends.com/cool-tech/ray-ban-meta-gen-3-vs-gen-2-its-better-but-i-wouldnt-rush-to-upgrade/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T14:33:42-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Ray-Ban-Meta-Smart-glasses.jpg?resize=1200%2C630",
+      "excerpt": "A few smart fixes, but mostly the same experience.",
+      "title": "Ray-Ban Meta Gen 3 vs. Gen 2: It’s better, but I wouldn’t rush to upgrade"
+    },
+    {
+      "url": "https://www.digitaltrends.com/home-theater/new-apple-tv-4k-leak-points-to-siri-ai-wi-fi-7-and-a-faster-chip/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T10:37:35-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Apple-TV-4K.jpg?resize=1200%2C630",
+      "excerpt": "A leak reveals the fourth-generation Apple TV 4K keeps its familiar design, with a faster chip, Siri AI, and Wi-Fi 7 rumored ahead of a possible October launch.",
+      "title": "New Apple TV 4K leak points to Siri AI, Wi-Fi 7, and a faster chip"
+    },
+    {
+      "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T20:35:15+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/l-intro-1790368080.jpg",
+      "excerpt": "The setting affects whether workers can review photos and videos from your glasses.",
+      "title": "How to stop Meta training its AI models on your smart glasses' visual data - Engadget"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T21:23:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+      "excerpt": "Leaked code indicates Apple's entry-level iPad will gain Apple Intelligence support, bringing on-device AI features to its cheapest tablet.",
+      "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Nikon-Z5IIC-24-5MP-mirrorless-camera-debuts-with-N-RAW-12-bit-4K60p-video-AI-hybrid-AF-7-5-stop-IS-and-15-scene-modes.1407673.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-24T22:02:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nikon-Z5IIC-24.5MP-mirrorless-camera-debuts-with-N-RAW-12-bit-4K60p-video-AI-hybrid-autofocus-7.5-stop-IS-and-15-scene-modes.jpg",
+      "excerpt": "Nikon's new Z5IIC full-frame mirrorless camera adds AI-based hybrid autofocus subject detection alongside N-RAW 12-bit 4K60p video.",
+      "title": "Nikon Z5IIC 24.5MP mirrorless camera debuts with N-RAW 12-bit 4K60p video, AI hybrid AF, 7.5-stop IS, and 15 scene modes"
+    },
+    {
+      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-09-23T08:44:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Samsung-AI-fridge.jpg",
+      "excerpt": "A firmware update left Samsung's AI-connected smart fridges shutting down, drawing owner outrage over the fragility of AI-dependent appliances.",
+      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update, causes outrage"
+    },
+    {
+      "url": "https://www.techradar.com/pro/hp-debuts-usd7-449-ryzen-ai-max-pro-495-laptop-zbook-ultra-g3a-has-192gb-ram-512gb-ssd-and-can-handle-up-to-300b-parameters",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T21:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ijC94rNmL2FwguaHekSkML-1920-80.png",
+      "excerpt": "HP quietly built a laptop that makes desktop towers sweat, yet there's one thing nobody has proven so far",
+      "title": "HP wants you to ditch cloud AI bills, and it has the perfect solution"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-09-25T17:01:36+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Optimus needs a hand getting its hands working.",
+      "title": "Tesla’s Optimus robot is going through growing pains"
     },
     {
       "url": "https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen",
@@ -157,58 +193,31 @@
       "title": "Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising — $160 Blue Yeti 2 sequel features real-time auto gain and color mascot screen"
     },
     {
-      "url": "https://www.tomshardware.com/pc-components/gpus/wici-one-unveils-wireless-wi-fi-7-egpu-with-built-in-4tb-ssd-for-local-ai-usd1-999-box-leverages-wifi-7-to-present-a-remote-card-as-local",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T11:25:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/TwwYe9MvcPiiF6eEoGsVRc-2553-80.png",
-      "excerpt": "There's onboard storage for keeping model weights, too.",
-      "title": "New wireless Wi-Fi 7 external GPU enclosure comes with a built-in 4TB SSD for local AI — $1,999 box leverages WiFi 7 to present a remote card as local"
-    },
-    {
-      "url": "https://www.xda-developers.com/paired-local-cameras-home-assistants-ai-footage-finally-stays-off-cloud/",
-      "source": "XDA",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T18:30:19Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/reolink-camera-frigate-app.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "And my alerts are actually customized.",
-      "title": "I paired local cameras with Home Assistant's AI, and my footage finally stays off the cloud"
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-09-24T11:00:04+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
-      "excerpt": "Usable local AI is a lot of fun, but how much would you pay for it?",
-      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder"
-    },
-    {
-      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
+      "url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
       "source": "UploadVR",
       "category": "gadgets",
-      "published_iso": "2026-09-14T15:12:36.000Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/809813437_28210060141977570_4776135801454871213_n--1-.jpg",
-      "excerpt": "Until a little over a week ago, Craig Storm had never built a VR app. Eight days later, his AI-assisted Quest game Punchable Face was live on Meta's store.",
-      "title": "I Had Never Built A VR App – 8 Days Later, Mine Was On The Quest Store"
+      "published_iso": "2026-09-25T02:30:01.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png",
+      "excerpt": "Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect.",
+      "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them"
     },
     {
-      "url": "https://www.cnet.com/home/smart-home/samsung-ai-fridges-bricked-korea-software-update/",
-      "source": "CNET",
+      "url": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/",
+      "source": "UploadVR",
       "category": "gadgets",
-      "published_iso": "2026-09-23T19:23:28-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/e6e9d026-cd8f-416c-ac82-197a020b42ce.jpg",
-      "excerpt": "Smart fridge, dumb update. The internet of broken things strikes again.",
-      "title": "Some of Samsung's AI Fridges Became Giant, Cool Bricks After Bad Update"
+      "published_iso": "2026-09-23T20:52:12.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/David_wearing_Snap_Specs_indoors_better_angle.png",
+      "excerpt": "Snap Specs is optically rough, but with impressive tracking just about passes the minimum bar for first-generation true AR glasses.",
+      "title": "Snap Specs Hands-On: Minimum Viable Consumer True AR Glasses"
     },
     {
-      "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming/",
-      "source": "MacRumors",
+      "url": "https://www.wired.com/review/smartlabels-qr-code-organizing-system/",
+      "source": "WIRED",
       "category": "gadgets",
-      "published_iso": "2026-09-24T00:15:04+00:00",
-      "og_image": "https://images.macrumors.com/t/_DO3VmlEIeePypjZ61U9_WgQ3-8=/2000x/article-new/2025/04/chatgpt-logo.jpg",
-      "excerpt": "OpenAI saw disappointing results working with Apple to integrate ChatGPT in Siri, according to court documents filed [PDF] in its ongoing legal fight with Elon Musk's company SpaceXAI (xAI at the time the lawsuit was filed). Apple added ChatGPT to Siri in December 2024, but users had to go through a",
-      "title": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI"
+      "published_iso": "2026-09-23T06:39:00.000-04:00",
+      "og_image": "https://media.wired.com/photos/6ab330547e5544c7a3b97e1f/191:100/w_1280,c_limit/Review--SmartLabels-QR-Code-Organizing-System.jpg",
+      "excerpt": "SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.",
+      "title": "AI Promised to Organize My Clutter. Here’s the Messy Result"
     }
   ]
 }

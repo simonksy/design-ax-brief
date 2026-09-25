@@ -1,228 +1,220 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-09-24T20:44:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "The hard work today is sustaining speed all the way to launch, choosing the right direction, and creating products that stand out. Here’s what that takes.",
-      "title": "What It Takes to Build Great Products Now"
-    },
-    {
-      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-09-24T16:03:52Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
-      "excerpt": "Flow Studio allowed Daughter of the Inner Stars to blend live narration and original animation driven by human performers.",
-      "title": "How a studio created an \"impossible\" animated symphony using Autodesk"
-    },
-    {
-      "url": "https://dev.to/phagent/image-is-becoming-a-conversation-not-a-tool-e9",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-09-24T11:04:23Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1y52yx29lcm2hyicxln1.png",
-      "excerpt": "For a long time, image editing software followed the same basic pattern.  You opened an editor, found...",
-      "title": "Image Is Becoming a Conversation, Not a Tool"
-    },
-    {
-      "url": "https://dev.to/haaaaaley/show-the-page-state-before-approving-an-agent-click-4emh",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-09-23T15:54:57Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fiuc4qm89ebn6zqglkb60.png",
-      "excerpt": "This is a composite scene from design reviews. I almost approved a click I could not see. The agent...",
-      "title": "Show the Page State Before Approving an Agent Click"
-    },
-    {
-      "url": "https://dev.to/derek_fowler_tech/two-pipelines-one-asset-designing-reviewable-image-cleanup-and-motion-jobs-4pcp",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-09-24T05:36:28Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fddu6uuo86rkp5jnwzr6g.png",
-      "excerpt": "The hidden bug is often a review bug   A creative tool can make two operations look like one...",
-      "title": "Two Pipelines, One Asset: Designing Reviewable Image Cleanup and Motion Jobs"
-    },
-    {
-      "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-09-21T22:47:57Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*RlIlQg8D7hxtFCk-s3nTPA.jpeg",
-      "excerpt": "The internet's founders governed a technology nobody agreed on, without kings, presidents, or voting. Dan Maccarone argues the 'nobody agrees' excuse for not regulating AI doesn't hold, from a product/UX perspective.",
-      "title": "The lie we keep telling ourselves about regulating AI"
-    },
-    {
-      "url": "https://80.lv/articles/adobe-completes-acquisition-of-ai-image-video-upscaling-company-topaz-labs",
-      "source": "80.lv",
-      "category": "render",
-      "published_iso": "2026-09-24T07:28:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50350/images/6ab4d12c333a9/contain_1200x630.jpg",
-      "excerpt": "The new features will be integrated into Adobe Firefly and Photoshop, with additional tools planned for the future.",
-      "title": "Adobe Completes Acquisition of Topaz Labs"
-    },
-    {
-      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
-      "source": "NVIDIA Developer",
-      "category": "render",
-      "published_iso": "2026-09-22T13:00:00+00:00",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/1_16x9.webp",
-      "excerpt": "NVIDIA DLSS 5 introduces DLSS 3D-Guided Neural Rendering and granular controls that help game developers add lifelike lighting and material detail while preserving their artistic intent.",
-      "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New RTX Kit Capabilities | NVIDIA Technical Blog"
-    },
-    {
-      "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-09-22T12:00:41+00:00",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-      "excerpt": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-    },
-    {
-      "url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
-      "source": "Engadget",
+      "url": "https://roadtovr.com/meta-vr-glasses-unveiled-price-release-date/",
+      "source": "Road to VR",
       "category": "vr",
-      "published_iso": "2026-09-24T21:56:17+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-vs-ray-ban-meta-gen-2-how-these-ai-glasses-compare/l-intro-1790286501.jpg",
-      "excerpt": "Meta",
-      "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare - Engadget"
+      "title": "Meta Announces 'VR Glasses' Next-Gen XR Headset, Priced at $1,300",
+      "published_iso": "2026-09-23T22:01:00Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/meta-vr-glasses-1.jpg",
+      "excerpt": "Meta today unveiled its long-awaited next-gen mixed reality headset: Meta VR Glasses. Previously known under the codename ‘Project Phoenix’, Meta VR Glasses was announced today, but isn’t launching just yet; the compute puck-tethered device is slated to go one sale sometime in Spring 2027, priced at"
     },
     {
-      "url": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
-      "source": "Engadget",
+      "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
+      "source": "Road to VR",
       "category": "vr",
-      "published_iso": "2026-09-24T19:24:34+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/l-intro-1790277712.jpg",
-      "excerpt": "The app is getting a \"hands-free\" mode that can narrate recipe steps.",
-      "title": "New York Times Cooking is coming to Meta"
+      "title": "Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps",
+      "published_iso": "2026-09-24T18:35:13Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg",
+      "excerpt": "At Meta’s annual developer conference today, the company announced its next VR Start Developer Competition, this time slated to award a prize pool of $1 million to spark the community to get cracking on Meta VR Glasses-compatible content. Meta is hoping to appeal to developers of both new and existi"
     },
     {
-      "url": "https://www.engineering.com/siemens-and-tsmc-expand-ai-and-3d-ic-design-enablement/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-09-24T11:56:58+00:00",
-      "og_image": "",
-      "excerpt": "New workflows support DRC fixing, thermal analysis, advanced packaging and process certification across semiconductor design applications.",
-      "title": "Siemens and TSMC expand AI and 3D IC design enablement"
+      "url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
+      "source": "UploadVR",
+      "category": "vr",
+      "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
+      "published_iso": "2026-09-25T02:30:01Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png",
+      "excerpt": "Meta finally set a concrete timeline to ship realistic avatars, shoulders-up on Meta Ray-Ban Display and then full-body on Meta VR Glasses. We briefly tried both at Connect."
     },
     {
       "url": "https://roadtovr.com/meta-ray-ban-display-int-launch-connect-2026/",
       "source": "Road to VR",
       "category": "vr",
-      "published_iso": "2026-09-23T22:00:00+00:00",
+      "title": "Meta Ray-Ban Display is Finally Rolling Out Internationally Starting Today",
+      "published_iso": "2026-09-23T22:00:00Z",
       "og_image": "https://roadtovr.com/wp-content/uploads/2026/04/meta-ray-ban-display-lens-640x360-1.jpg",
-      "excerpt": "Meta Ray-Ban Display has been a US-only device since launch last year, but now the company announced at Connect 2026 that it’s coming to international markets starting today. Meta Ray-Ban Display is a pair of $800 smart glasses that comes with a single waveguide display in the right eye and an EMG-p",
-      "title": "Meta Ray-Ban Display is Finally Rolling Out Internationally Starting Today"
+      "excerpt": "Meta Ray-Ban Display has been a US-only device since launch last year, but now the company announced at Connect 2026 that it’s coming to international markets starting today. Meta Ray-Ban Display is a pair of $800 smart glasses that comes with a single waveguide display in the right eye and an EMG-p"
     },
     {
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "url": "https://develop3d.com/ai/migrations-adam-ai-cad-translation/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "title": "Adam launches Migrations for AI CAD data translation",
+      "published_iso": "2026-09-25T10:12:31Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/09/Adam-Migrations.jpg",
+      "excerpt": "Adam looks to 'end vendor lock-in' with Migrations, which uses AI to rebuild a CAD model's parametric history in a new CAD system."
+    },
+    {
+      "url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "title": "Flux adds AI tools for 3D-printable PCB enclosures",
+      "published_iso": "2026-09-25T15:14:47Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Flux-adds-AI-tools-for-3D-printable-PCB-enclosures-scaled.jpg",
+      "excerpt": "Users can describe enclosure requirements, update designs with board changes and export models for physical prototype testing."
+    },
+    {
+      "url": "https://www.engineering.com/bluebeam-expands-academic-access-to-ai-assisted-aec-tools/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "title": "Bluebeam expands academic access to AI-assisted AEC tools",
+      "published_iso": "2026-09-25T14:47:56Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Bluebeam-expands-academic-access-to-AI-assisted-AEC-tools.webp",
+      "excerpt": "Eligible students and educators can use Max features for document review, design comparisons, markup generation and workflow automation."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
       "source": "The Verge",
-      "category": "vr",
-      "published_iso": "2026-09-24T17:52:29+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
-      "excerpt": "Get ready for AI games in your Instagram feed.",
-      "title": "Meta is going to let you build games with AI right on your phone"
+      "category": "cad",
+      "title": "Tesla’s Optimus robot is going through growing pains",
+      "published_iso": "2026-09-25T17:01:36Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Optimus needs a hand getting its hands working."
     },
     {
-      "url": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-      "source": "The Verge",
-      "category": "vr",
-      "published_iso": "2026-09-24T00:00:33+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200",
-      "excerpt": "Smart glasses-style VR and camera-free Ray-Ban Meta glasses.",
-      "title": "Meta Connect 2026: The 7 biggest announcements"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
       "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-09-24T19:59:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
-      "excerpt": "The AI avatar can transition between 97 languages.",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face"
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "published_iso": "2026-09-25T12:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/New-Copilot.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "The new Copilot merges AI chat, coding, and Autopilot agents.﻿"
     },
     {
-      "url": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-09-24T18:45:41Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612532-meta-muse-charm.jpg",
-      "excerpt": "For its new AI agent Muse and the handheld Muse Charm device, Meta is dialing down the fear factor and cranking up the cute: to sell AI hardware to the masses, Meta is going kawaii.",
-      "title": "With Meta's Muse Charm, AI enters its kawaii era"
-    },
-    {
-      "url": "https://www.fastcompany.com/91612570/executives-are-using-ai-to-communicate-better-theres-just-one-problem",
-      "source": "Fast Company",
-      "category": "workflow",
-      "published_iso": "2026-09-24T19:30:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612570-executive-communication-loss-with-AI-usage.jpg",
-      "excerpt": "AI can help executives communicate more efficiently, but overreliance creates what Zapier CEO Wade Foster calls the 'comprehension gap' - not understanding the substance of your own AI-assisted work.",
-      "title": "Executives are using AI to communicate better. There's just one problem."
-    },
-    {
-      "url": "https://www.cio.com/article/4226112/uipaths-new-tool-could-unlock-a-much-bigger-wave-of-automated-business-processes.html",
+      "url": "https://www.cio.com/article/4224914/ai-leadership-inside-musinsa-styling-work-with-ai-the-ax-approach-led-by-two-directors.html",
       "source": "CIO",
       "category": "workflow",
-      "published_iso": "2026-09-24T13:06:27Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4226112-0-03822600-1790255206-map-of-work.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "Cartographer uses AI to capture the undocumented exceptions and judgment calls that have kept enterprises from transforming and automating their messiest processes — but analysts and customers say execution and organizational discipline will be key.",
-      "title": "UiPath’s new tool could unlock a much bigger wave of automated business processes"
+      "title": "The AI transformation underway at Musinsa",
+      "published_iso": "2026-09-25T00:00:00Z",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4224914-0-78207000-1790330515-MUSINSA_2_resized.jpg?quality=50&strip=all&w=1024",
+      "excerpt": "How to Use AI Effectively. At the individual level, various answers have already emerged. But what about at the organizational level? Can a company be called an AI company simply because it has many employees who are proficient with ChatGPT? Is it enough for a company to generously provide AI tokens"
     },
     {
-      "url": "https://www.cio.com/article/4225643/openai-anthropic-cut-ai-model-costs-as-price-performance-race-intensifies-2.html",
+      "url": "https://www.cio.com/article/4226177/i-stopped-asking-my-team-to-use-ai-i-asked-them-to-manage-it.html",
       "source": "CIO",
       "category": "workflow",
-      "published_iso": "2026-09-23T15:23:48Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4225643-0-44164800-1790177045-shutterstock_2163713035.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "New GPT-6 and Claude Opus releases slash inference pricing, pushing enterprises to rethink AI deployment and infrastructure strategies",
-      "title": "OpenAI, Anthropic cut AI model costs as price-performance race intensifies"
+      "title": "I stopped asking my team to use AI. I asked them to manage it",
+      "published_iso": "2026-09-25T00:00:00Z",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4226177-0-09373200-1790326903-AI-as-coworker-shutterstock_2710324659.jpg?quality=50&strip=all&w=1024",
+      "excerpt": "AI agents can boost productivity when employees manage them as teammates, with clear roles, reviews, collaboration and human oversight."
     },
     {
-      "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
-      "source": "Eleken",
+      "url": "https://www.creativebloq.com/ai/metas-new-ai-avatar-is-making-me-feel-infantilised",
+      "source": "Creative Bloq",
+      "category": "render",
+      "title": "Meta’s new AI avatar feels like a distraction from the bigger picture",
+      "published_iso": "2026-09-25T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU-1920-80.jpg",
+      "excerpt": "Are we being infantilised?"
+    },
+    {
+      "url": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
+      "source": "Creative Bloq",
+      "category": "render",
+      "title": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
+      "published_iso": "2026-09-25T06:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg",
+      "excerpt": "The hand-made stop-motion animation involved painstaking craftsmanship."
+    },
+    {
+      "url": "https://vercel.com/blog/state-of-agent-skills",
+      "source": "Vercel",
+      "category": "figma",
+      "title": "State of agent skills",
+      "published_iso": "2026-09-25T06:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/MaAKsrZjYMVj8WiH0E6oN/81e02d48f2e566d0fda91ca42628f370/State_of_Skills_OG_10a.png",
+      "excerpt": "In seven months, the skills.sh registry grew to 1 million agent skills with nearly 280 million installs. This report uses aggregate data from that registry to examine what people teach agents, what gets installed, and what lasts."
+    },
+    {
+      "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+      "source": "Vercel",
+      "category": "figma",
+      "title": "Vercel Connect now supports TanStack AI",
+      "published_iso": "2026-09-24T00:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6gTZmxm6JblnkGb6ojjdGB/76f1a6211c08c5c1f94fb343c9fafe69/image.png",
+      "excerpt": "Vercel Connect now supports TanStack AI. Authenticate MCP clients with short-lived, scoped tokens issued at runtime, with no bearer tokens to store."
+    },
+    {
+      "url": "https://dev.to/gretchenweimannrh111/benchmarking-next-gen-image-video-generation-in-2026-gpt-image-25-flare-grok-imagine-20-and-3doh",
+      "source": "DEV Community",
+      "category": "render",
+      "title": "Benchmarking Next-Gen Image & Video Generation in 2026: GPT-Image-2.5 Flare, Grok Imagine 2.0, and 4K Commercial Pipelines",
+      "published_iso": "2026-09-25T16:41:43Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3xpx1aciukxby2fdkbww.png",
+      "excerpt": "Benchmarking Next-Gen Image &amp; Video Generation in 2026: GPT-Image-2.5 Flare, Grok..."
+    },
+    {
+      "url": "https://dev.to/zoopcoder/figmas-dev-mode-mcp-server-explained-and-why-it-wont-build-you-a-website-or-app-jle",
+      "source": "DEV Community",
+      "category": "figma",
+      "title": "Figma's Dev Mode MCP Server Explained — and Why It Won't Build You a Website or App",
+      "published_iso": "2026-09-25T16:23:53Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjl3j0fn7fv1qoimrkwrp.png",
+      "excerpt": "If you search \"figma to code ai\" or \"figma to flutter mcp\" right now, autocomplete is full of AI tool..."
+    },
+    {
+      "url": "https://dev.to/hram/i-let-a-coding-agent-render-android-ui-without-an-emulator-a-screenshot-wasnt-enough-25o",
+      "source": "DEV Community",
+      "category": "tokens",
+      "title": "I Let a Coding Agent Render Android UI Without an Emulator. A Screenshot Wasn't Enough.",
+      "published_iso": "2026-09-25T17:16:17Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffyrxcdpzx75lymptaftt.png",
+      "excerpt": "A screenshot made Android layout changes visible to a coding agent, but the View tree behind it was fake. Adding a real one made the changes measurable."
+    },
+    {
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-09-22T21:21:00Z",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp",
-      "excerpt": "Explore AI design patterns across agentic architecture with practical examples of when to use them and how to keep AI clear, useful, and controllable.",
-      "title": "AI Design Patterns: A Practical Guide for Product Teams"
+      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "published_iso": "2026-09-24T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jolly1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "A spoonful of cute to make the AI pill easier to swallow."
     },
     {
-      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
-      "source": "Figma",
+      "url": "https://www.youtube.com/watch?v=L0-ezCnX0gs",
+      "source": "The AI Advantage",
       "category": "social",
-      "published_iso": "2026-09-24T06:46:41-07:00",
-      "og_image": "https://i.ytimg.com/vi/UHupJZO7DTw/maxresdefault.jpg",
-      "excerpt": "Figma motion designers walk through their Figma Motion files: layered animation, shader effects, scalable branded motion, and bringing ideas to life with the agent.",
-      "title": "4 Figma Motion tricks worth stealing | Show Your Work"
+      "title": "Claude Opus 5.5 - 5 Real Uses and One BIG Website Showdown!",
+      "published_iso": "2026-09-25T17:23:36Z",
+      "og_image": "https://i.ytimg.com/vi/L0-ezCnX0gs/maxresdefault.jpg",
+      "excerpt": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: http..."
     },
     {
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ejjBbaq9RmY",
+      "source": "Theo - t3.gg",
       "category": "social",
-      "published_iso": "2026-09-24T01:40:55-07:00",
-      "og_image": "https://i.ytimg.com/vi/SA9kdAX2Zj0/maxresdefault.jpg",
-      "excerpt": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papersNote: in the walking creatures experiment, Astra used a simplified model an...",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward"
+      "title": "Getting the most out of Opus 5.5",
+      "published_iso": "2026-09-25T00:11:51Z",
+      "og_image": "https://i.ytimg.com/vi/ejjBbaq9RmY/maxresdefault.jpg",
+      "excerpt": "Anthropic put out a blog post with some tips and tricks that they have for the Opus 5.5 release, so lets break them downThank you Browserbase for sponsoring!..."
     },
     {
-      "url": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
-      "source": "Matt Wolfe",
+      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
+      "source": "Fireship",
       "category": "social",
-      "published_iso": "2026-09-22T15:30:04-07:00",
-      "og_image": "https://i.ytimg.com/vi/0t-eWrGFZyA/maxresdefault.jpg",
-      "excerpt": "Two new models in the same day: Claude Opus 5.5 and OpenAI's GPT-6 Sol - Matt Wolfe breaks down what each launch changes.",
-      "title": "Opus 5.5 Is Crazy Good and GPT-6-Sol Launched Too"
+      "title": "Meta is pivoting again... everything you missed from Connect 2026",
+      "published_iso": "2026-09-25T19:22:32Z",
+      "og_image": "https://i.ytimg.com/vi/c1rPlzxSZ8E/maxresdefault.jpg",
+      "excerpt": "Get $100 in Hyperagent bonus credits when you sign up for a paid plan - https://www.hyperagent.com/fireship100In this video we break down everything from Met..."
+    },
+    {
+      "url": "https://www.engineering.com/mathworks-introduces-matlab-and-simulink-release-2026b/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "title": "MathWorks introduces MATLAB and Simulink Release 2026b",
+      "published_iso": "2026-09-25T12:20:55Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/04/mathworks-logo-1.png",
+      "excerpt": "New tools support product variants, point-cloud applications, code coverage analysis and hardware-software co-design workflows."
     }
   ],
+  "now_iso": "2026-09-25T22:00:00Z",
   "dedup": {
     "dropped": 0,
-    "kept": 24,
+    "kept": 23,
     "against_days": 5
   }
 }

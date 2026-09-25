@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "games",
   "media": [
     {
-      "id": "games-opendlss-nr-vulkan",
+      "id": "games-nis-ai-quality",
       "type": "image",
-      "src": "pipeline/media/games-opendlss-nr-vulkan.jpg"
+      "src": "pipeline/media/games-nis-ai-quality.jpg"
     },
     {
-      "id": "games-claude-rtx-path-tracer",
-      "type": "image",
-      "src": "pipeline/media/games-claude-rtx-path-tracer.jpg"
-    },
-    {
-      "id": "games-punk-showcase-no-genai",
-      "type": "image",
-      "src": "pipeline/media/games-punk-showcase-no-genai.jpg"
-    },
-    {
-      "id": "games-control-resonant-copy-battle",
-      "type": "image",
-      "src": "pipeline/media/games-control-resonant-copy-battle.jpg"
-    },
-    {
-      "id": "games-love-alt-delete-muse",
+      "id": "games-dlss5-melee",
       "type": "video",
-      "src": "pipeline/media/games-love-alt-delete-muse.mp4",
-      "poster": "pipeline/media/games-love-alt-delete-muse.jpg"
+      "src": "pipeline/media/games-dlss5-melee.mp4",
+      "poster": "pipeline/media/games-dlss5-melee.jpg"
+    },
+    {
+      "id": "games-rgg-tupac-no-ai",
+      "type": "image",
+      "src": "pipeline/media/games-rgg-tupac-no-ai.jpg"
+    },
+    {
+      "id": "games-gamescom-3d-tech",
+      "type": "image",
+      "src": "pipeline/media/games-gamescom-3d-tech.jpg"
+    },
+    {
+      "id": "games-warhorse-15th-ai",
+      "type": "image",
+      "src": "pipeline/media/games-warhorse-15th-ai.jpg"
     }
   ]
 }

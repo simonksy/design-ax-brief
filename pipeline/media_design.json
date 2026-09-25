@@ -1,34 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "design",
   "media": [
     {
-      "id": "design-figma-motion-tricks",
-      "type": "video",
-      "src": "pipeline/media/design-figma-motion-tricks.mp4",
-      "poster": "pipeline/media/design-figma-motion-tricks.jpg"
-    },
-    {
-      "id": "design-flow-studio-symphony",
+      "id": "design-adam-migrations",
       "type": "image",
-      "src": "pipeline/media/design-flow-studio-symphony.png"
+      "src": "pipeline/media/design-adam-migrations.jpg"
     },
     {
-      "id": "design-horizon-phone-ai-games",
-      "type": "video",
-      "src": "pipeline/media/design-horizon-phone-ai-games.mp4",
-      "poster": "pipeline/media/design-horizon-phone-ai-games.jpg"
-    },
-    {
-      "id": "design-eleken-agent-patterns",
-      "type": "video",
-      "src": "pipeline/media/design-eleken-agent-patterns.mp4",
-      "poster": "pipeline/media/design-eleken-agent-patterns.jpg"
-    },
-    {
-      "id": "design-figma-launch-speed",
+      "id": "design-vercel-skills-report",
       "type": "image",
-      "src": "pipeline/media/design-figma-launch-speed.jpg"
+      "src": "pipeline/media/design-vercel-skills-report.png"
+    },
+    {
+      "id": "design-flux-pcb-enclosure",
+      "type": "image",
+      "src": "pipeline/media/design-flux-pcb-enclosure.jpg"
+    },
+    {
+      "id": "design-opus55-website-showdown",
+      "type": "video",
+      "src": "pipeline/media/design-opus55-website-showdown.mp4",
+      "poster": "pipeline/media/design-opus55-website-showdown.jpg"
+    },
+    {
+      "id": "design-copilot-super-app",
+      "type": "image",
+      "src": "pipeline/media/design-copilot-super-app.jpg"
     }
   ]
 }

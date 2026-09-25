@@ -1,92 +1,92 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "movies",
   "generated_by": "ax-curator",
-  "selection_notes": "User deferred, so the curator picked. Checked against news_data.json sections.movies and published_urls.json movies by URL and by content. No pool URL matches a published URL. Content duplicate dropped: Variety Busan market genAI/microdramas (same Busan ACFM InnoAsia program already published 08-27 and 09-06, and dropped again on 09-24). Excluded by cross-section and noise rules: NFS Adobe-Topaz acquisition complete (business news), Cineplay 실낙원 (a film about AI, not AI tools). Deprioritized: Google Gemini 3.8 Live Avatar (a conversational-avatar product where film use is incidental, and it is likely to collide with the gadgets section), Deadline Sunny Hostin on The View (13 days old, TV-panel opinion), Deadline MIPCOM preview (market/business positioning), Motionographer RevThink podcast (agency-business opinion). Tool and workflow stories come first, as instructed. The pool had only two true tool releases, so the remaining three slots go to the most production-relevant industry pieces. Diversity guard: 5 distinct outlets, max 1 per outlet.",
+  "selection_notes": "User deferred, so the curator picked. Checked against news_data.json sections.movies and published_urls.json movies by URL and by content. No pool URL matches a published URL. Content duplicates dropped: Variety Busan market genAI/microdramas (Busan ACFM InnoAsia already published 08-27 and 09-06, and dropped on 09-24 and 09-25); Kling 'ODYSSEUS: The Fall is here!' (same film already published: THR 07-15 and The Verge review 09-17); fxguide 'Block in 3D, refine with node-based AI' (Autodesk Flow Studio 3D editor/node canvas already published: AWN 08-08, fxguide podcast 08-27, befores & afters 09-03). Deprioritized: Deadline MIPCOM preview (market positioning), Deadline Sunny Hostin on The View (14 days old, TV-panel opinion), Motionographer RevThink (agency-business opinion), RedShark Adobe Premiere mobile on Android (a platform port where AI is incidental), Theoretically Media weekly roundup (general frontier-model news), Kling Diane Shorthouse (vendor testimonial), fxguide Gaussian splat clip (likely part of the same Flow Studio interview series already covered), Curious Refuge OpenAI Astra test (11 days old). BIFF/Dongseo forum is a forum announcement for 10-08 and was ranked below the picks. Diversity guard: 3 outlets, at most 2 per outlet (Variety x2, Runway x2, RedShark x1).",
   "picks": [
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "axis": "creative-suite-integration",
-      "headline": "Adobe Expands Its AI Integrations to Gemini, Plus Further Powers Up With Claude",
-      "url": "https://nofilmschool.com/adobe-in-gemini",
-      "source": "No Film School",
-      "published_iso": "2026-09-24T18:30:06+00:00",
-      "excerpt": "Adobe has announced more AI integration news with its new Adobe in Gemini plugin, along with upgrades to its Adobe in Claude plugin.",
-      "og_image": "https://nofilmschool.com/media-library/image.png?id=67845626&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
-      "rationale": "A new Adobe in Gemini plugin and an upgraded Claude plugin let creators run Adobe tools from inside chat assistants. This is a new release that changes how assets get made and edited."
+      "axis": "ai-feature-production",
+      "headline": "'Lion King' Director Rob Minkoff Joins AI-Assisted Film 'Storm Dogs' From Tilly Norwood Creator Particle 6",
+      "url": "https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/",
+      "source": "Variety",
+      "published_iso": "2026-09-25T15:03:14+00:00",
+      "excerpt": "Rob Minkoff, the co-director of “The Lion King,” is in advanced discussions to board the AI-assisted film “Storm Dogs” from Particle 6.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Storm-Dogs-1.png?w=1000&h=563&crop=1",
+      "rationale": "A major studio animation director is signing on to an AI-assisted feature. That makes this the clearest sign yet that established filmmakers are moving into AI production."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "axis": "post-tools",
-      "headline": "Digital Anarchy releases Beauty Box update",
-      "url": "https://www.provideocoalition.com/digital-anarchy-releases-beauty-box-update/",
-      "source": "ProVideo Coalition",
-      "published_iso": "2026-09-24T08:06:41-07:00",
-      "excerpt": "The new Beauty Box v6.5, now released, adds a new filter for eye and teeth whitening that uses machine learning to identify those areas. The newest version of Digital Anarchy's real-time skin retouching tool for video adds teeth and eye whitening and a new, faster GPU inference engine, that runs loc",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/beautyboxupdate001-1.jpg",
-      "rationale": "Beauty Box 6.5 adds ML-detected eye and teeth whitening and a faster local GPU inference engine. Editors and colorists can use it in their retouching passes right away."
+      "axis": "distribution",
+      "headline": "Turkish Distributor Baska Sinema Boards AI-Generated Feature 'A Woman Asleep' for Theatrical Release",
+      "url": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
+      "source": "Variety",
+      "published_iso": "2026-09-25T13:35:05+00:00",
+      "excerpt": "Turkish distributor Baska Sinema boards AI-generated feature 'A Woman Asleep' for theatrical release",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/A-Woman-Alseep.jpg?w=1000&h=563&crop=1",
+      "rationale": "A fully AI-generated feature has landed a theatrical distributor. That opens a real release path for AI-made films outside festivals and streaming."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "axis": "industry-adoption",
-      "headline": "Jeffrey Katzenberg Says Hollywood Must Accept AI as a Tool: It 'Is Not Going Away'",
-      "url": "https://variety.com/2026/biz/news/jeffrey-katzenberg-hollywood-must-accept-not-going-away-1236873535/",
-      "source": "Variety",
-      "published_iso": "2026-09-23T17:49:23+00:00",
-      "excerpt": "Jeffrey Katzenberg, the legendary Hollywood producer, thinks Hollywood needs to accept AI if it wants to remain at the forefront of the future.",
-      "og_image": "https://variety.com/wp-content/uploads/2025/04/GF2_2199.jpg?w=1000&h=563&crop=1",
-      "rationale": "A top animation and studio producer describes AI as a production tool the industry has to adopt. It shows where studio leadership is steering production pipelines."
+      "axis": "creator-platform",
+      "headline": "Introducing DIFFUSE | Runway",
+      "url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-09-22T10:02:25-07:00",
+      "og_image": "https://i.ytimg.com/vi/4oNzKoODTVA/maxresdefault.jpg",
+      "excerpt": "Register and learn more: https://diffuse.runway.com/Introducing DIFFUSE: a platform for brands to search for, connect with and hire AI-native talent. Creativ...",
+      "rationale": "Runway has launched a marketplace where brands can find and hire AI-native filmmakers. It gives AI video creators a new way to get commissioned work."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "axis": "animation-labor",
-      "headline": "Canada Debates AI's Place In Animation At OIAF's TAC",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/oiaf-the-animation-conference-artificial-intelligence-267040.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-09-24T18:55:31+00:00",
-      "excerpt": "A panel of local industry vets tackled AI's effect on entry-level jobs, creative control, and the growing problems with large AI models.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/TAC-AI.jpg",
-      "rationale": "Animation veterans at Ottawa's TAC break down how AI is affecting entry-level jobs and creative control. It is a view of AI in animation pipelines from the studio floor."
+      "axis": "post-tools",
+      "headline": "Evoto 8.0: New video tools, Asset Hub, pricing",
+      "url": "https://www.redsharknews.com/evoto-8.0-video-tools-asset-hub",
+      "source": "RedShark News",
+      "published_iso": "2026-09-23T07:33:16.000Z",
+      "og_image": "https://www.redsharknews.com/hubfs/evoto%208.0%20main.jpg",
+      "excerpt": "Evoto 8.0 adds portrait retouching inside DaVinci Resolve, story-based culling, and Asset Hub, a marketplace where creators keep 60% of sales. Available now.",
+      "rationale": "Evoto 8.0 brings its AI portrait retouching into DaVinci Resolve and is available now. Editors can use it in their next grade and beauty pass."
     },
     {
       "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "axis": "legal-rights",
-      "headline": "Lawyers Discuss Artificial Intelligence's Risks & Rewards For Hollywood",
-      "url": "https://deadline.com/2026/09/ai-hollywood-risks-rewards-lawyers-1237111607/",
-      "source": "Deadline",
-      "published_iso": "2026-09-23T20:59:32+00:00",
-      "excerpt": "AI on the docket: Lawyers panel discusses the risks and rewards of artificial intelligence for Hollywood during a panel at Deadline's inaugural L.A. Law Summit.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/LA-Law-2.jpg?w=1024",
-      "rationale": "Entertainment lawyers set out the legal risks of using AI in productions and the upside. This matters to any production deciding which AI tools it can safely use."
+      "axis": "workflow-tutorial",
+      "headline": "Consistent AI Characters, Voices and Scenes (Advanced Workflow) | Runway",
+      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
+      "source": "Runway (YouTube)",
+      "published_iso": "2026-09-14T10:17:17-07:00",
+      "og_image": "https://i.ytimg.com/vi/swx780Vy_OQ/maxresdefault.jpg",
+      "excerpt": "Access the prompts and Claude skill: https://runway.com/prompts/a-game-of-horseLearn how the Game of Horse video was made, with a full breakdown of the exact...",
+      "rationale": "A shot-by-shot breakdown of how to keep characters, voices and scenes consistent, with the exact prompts and a Claude skill included. Creators can copy the workflow directly."
     }
   ],
   "dropped": [
     {
       "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
-      "reason": "content duplicate: Busan ACFM InnoAsia genAI program already published (variety google-deepmind-amazon-web-services-busan-market-innoasia, 08-27 / 09-06)"
+      "reason": "content duplicate: Busan ACFM InnoAsia genAI program already published (08-27 / 09-06)"
     },
     {
-      "url": "https://nofilmschool.com/adobe-topaz-labs-complete",
-      "reason": "business news (acquisition closing); follow-up to the Adobe-Topaz acquisition published 07-01 / 07-10; excluded by the cross-section rule"
+      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
+      "reason": "content duplicate: ODYSSEUS: The Fall already published (THR 07-15, The Verge review 09-17)"
     },
     {
-      "url": "https://www.cineplay.co.kr/ko-kr/articles/29771",
-      "reason": "a film about AI, not AI tools; deprioritized by the cross-section rule"
+      "url": "https://www.youtube.com/watch?v=vjNVieMl77E",
+      "reason": "content duplicate: Autodesk Flow Studio 3D editor + node canvas already published (AWN 08-08, fxguide 08-27, befores & afters 09-03)"
     }
   ]
 }

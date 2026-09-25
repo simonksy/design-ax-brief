@@ -1,137 +1,95 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "science",
-  "generated_by": "ax-curator",
-  "selection_mode": "curator-auto (user deferred)",
+  "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "category": "science",
       "tool": "Science",
+      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Anthropic touts AI-led biology discovery",
-      "url": "https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-24T04:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/according-to-anthropic.jpg",
-      "excerpt": "Anthropic says ~950 Claude agent sessions working over 21 hours found ART, a previously unknown CRISPR-like enzyme system with DNA repeat arrays in bacteriophages. The preprint has not been peer-reviewed.",
-      "rationale": "Agents ran end to end and found a new CRISPR-like system, a notable AI-driven discovery. The copy must say the preprint has not been peer-reviewed. This is a different discovery from the July Anthropic story (MIT TR, 07-15)."
+      "headline": "AI model predicts pancreatic cancer risk 3 years before diagnosis",
+      "url": "https://medicalxpress.com/news/2026-09-ai-pancreatic-cancer-years-diagnosis.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/doctor-and-female-pati.jpg",
+      "excerpt": "Mayo Clinic researchers trained an AI model on longitudinal EHR and routine lab data (6,066 patients, 33,396 controls); it reached AUROC 0.853, and a >50% predicted risk meant an 88% chance of diagnosis within a year (ACS Clinical Congress 2026).",
+      "rationale": "Freshest item in the pool; Mayo Clinic result on a notoriously late-caught cancer, with hard numbers from routine lab data."
     },
     {
       "rank": 2,
-      "category": "science",
       "tool": "Science",
-      "accent": "#0070f3",
+      "category": "science",
+      "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "New AlphaFold Database release adds viral protein complexes to support pandemic preparedness",
-      "url": "https://phys.org/news/2026-09-alphafold-database-viral-protein-complexes.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-24T13:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/alphafold-database-add.jpg",
-      "excerpt": "EMBL-EBI and Google DeepMind, with NVIDIA, Seoul National University and others, added AI-predicted structures for more than 2,800 viruses to the AlphaFold Database to speed up vaccine and diagnostic target discovery.",
-      "rationale": "A new public resource that researchers can use right away: predicted complexes for 2,800+ viruses. It has a Korean angle (SNU). It is distinct from the 09-07 'AlphaFold limits' story."
+      "headline": "Tumor digital twins: from months to minutes with AI",
+      "url": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-months-to-minutes.jpg",
+      "excerpt": "Barcelona Supercomputing Center built MCP servers linking AI agents to NeKo, MaBoSS and PhysiCell so researchers can build tumor digital twins by natural-language conversation, producing model drafts in under 10 minutes instead of months (npj Systems Biology and Applications).",
+      "rationale": "Most actionable: MCP servers wiring AI agents into real simulation tools, a workflow pattern readers can reuse outside biology."
     },
     {
-      "rank": 3,
+      "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html",
+      "source": "Phys.org",
       "category": "science",
-      "tool": "Science",
+      "published_iso": "2026-09-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-quantum-nanostruc.jpg",
+      "excerpt": "UW-Madison designed quantum nanostructures with vacancy color centers that give optical neural networks strong nonlinearity at power seven orders of magnitude below conventional optical materials (Nature Communications).",
+      "title": "Tiny quantum nanostructures could make AI less of an energy hog",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "AI solves 79-year-old math mystery of six-dimensional spheres",
-      "url": "https://www.scientificamerican.com/article/ai-solves-79-year-old-math-mystery-of-six-dimensional-spheres/",
-      "source": "Scientific American",
-      "published_iso": "2026-09-24T09:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/377a3873-ea98-4164-95d7-f3c8b8eb8560/network-orb.jpg?m=1790102562.115&w=1200",
-      "excerpt": "Can a six-dimensional sphere be described using imaginary numbers? Experts puzzled over this for decades, and now an AI has apparently answered it.",
-      "rationale": "A headline math result on a question open since 1947, from a reputable outlet. It is a different problem from the 09-23 M23 inverse-Galois card (SciAm), so it is not a duplicate. Covers mathematics."
+      "rank": 3
     },
     {
       "rank": 4,
-      "category": "science",
       "tool": "Science",
-      "accent": "#7928ca",
+      "category": "science",
+      "accent": "#eb367f",
       "motif": "sphere",
-      "headline": "AI innovation supports screening for 2.2 million US workers exposed to toxic dust",
-      "url": "https://medicalxpress.com/news/2026-09-ai-screening-million-workers-exposed.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-24T17:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toxic-dust.jpg",
-      "excerpt": "Michigan State University's AI, trained on US worker chest X-rays, detects early pneumoconiosis with 91% accuracy versus 77% for human readers, easing a shortage of about 200 specialist B readers (Occupational and Environmental Medicine).",
-      "rationale": "A peer-reviewed clinical result with hard numbers (91% vs 77%) and a clear real-world bottleneck (only about 200 B readers). Covers occupational medicine."
+      "headline": "Stanford Engineers Teach Spacecraft to 'Dream' Their Way to the Space Station",
+      "url": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station",
+      "source": "Universe Today",
+      "published_iso": "2026-09-24T10:12:56+00:00",
+      "og_image": "https://www.universetoday.com/article_images/The_SpaceX_Crew_Dragon_approaches_the_International_Space_Station_iss063e021463_20260923_010712.jpg",
+      "excerpt": "A Stanford arXiv preprint builds an AI that runs 'mental simulations' (a learned world model) to plan spacecraft rendezvous and docking, instead of relying only on hard-coded orbital equations and human pilots.",
+      "rationale": "Adds space/robotics to the mix; world-model planning is a hot AI method shown here in a concrete, high-stakes domain."
     },
     {
       "rank": 5,
-      "category": "science",
       "tool": "Science",
-      "accent": "#eb367f",
+      "category": "science",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "headline": "When AI disagrees, people change how they perceive the technology, not their original view",
+      "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-09-23T06:20:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-helps-humano.jpg",
-      "excerpt": "UC Berkeley and Princeton's TANGO vision-language framework controls all 29 joints of a humanoid from language instructions and camera images. It was trained on 65k synthetic trajectories and doubled success rates over 2D path planning.",
-      "rationale": "University research with measurable gains (2x success, 29-joint whole-body control). Covers robotics. Chosen over the phage-mutation story to keep Phys.org at 2, and over QC Design Meridian, which is a company self-report."
+      "published_iso": "2026-09-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
+      "excerpt": "A University of Michigan study of 482 adults found chatbot agreement boosted confidence, but disagreement did not change minds; instead users judged the AI as machine-like and less likely to consult it again (Computers in Human Behavior Reports).",
+      "rationale": "Psychology angle with direct product implications: pushback from an AI costs user trust rather than changing minds, so the way an assistant disagrees needs design attention."
     }
   ],
-  "dedup": {
-    "against": ["pipeline/news_data.json sections.science", "pipeline/published_urls.json science"],
-    "dropped": [
-      {
-        "url": "https://physics.aps.org/articles/v19/126",
-        "reason": "Duplicate content: the same chess complexity study was published 2026-08-31 (techxplore 2026-08-ai-doesnt-play-chess-complexity). It was also dropped on 09-24."
-      },
-      {
-        "url": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
-        "reason": "Already rejected twice (09-23, 09-24). It is theoretical, has a weak AI angle, and has no og_image."
-      },
-      {
-        "url": "https://phys.org/news/2026-09-ai-mutations-viruses-infect-bacteria.html",
-        "reason": "Held as backfill. It is a strong result, but a third Phys.org card would break the 2-per-outlet cap, and phage biology is already covered by the Anthropic ART pick."
-      },
-      {
-        "url": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
-        "reason": "Held as backfill. It is a company self-reported claim (10x), weaker on credibility than university research."
-      },
-      {
-        "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
-        "reason": "Held as backfill. It is a pure LLM-internals study rather than AI applied to science, and it is close in theme to the 09-13 'internal confidence levels' card."
-      },
-      {
-        "url": "https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html",
-        "reason": "Held as backfill. It is a week old (09-18), and the robotics slot went to TANGO."
-      },
-      {
-        "url": "https://research.google/blog/coherent-long-form-video-generation/",
-        "reason": "Pure AI research on video generation, not AI-for-science (per the cross-section rule)."
-      },
-      {
-        "url": "https://www.psychologytoday.com/us/blog/gaining-and-sustaining/202609/from-working-with-ai-to-connecting-with-people",
-        "reason": "Opinion blog (per the cross-section rule)."
-      },
-      {
-        "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/",
-        "reason": "Paywalled STAT+ trend piece, and the clinical-AI slot went to the MSU study."
-      },
-      {
-        "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
-        "reason": "A research-integrity feature, not a new result. It was passed over on 09-23 and 09-24."
-      },
-      {
-        "url": "https://allenai.org/blog/autodiscovery-student-challenge",
-        "reason": "An education follow-up to the AutoDiscovery recap that ran 09-05. It is also stale (09-14)."
-      },
-      {
-        "url": "https://allenai.org/blog/olmo-arena",
-        "reason": "About model-evaluation methodology, not AI-for-science. It is also stale (09-17)."
-      }
-    ]
-  },
+  "dropped": [
+    {
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "reason": "Content duplicate: the OpenAI Navier-Stokes Millennium Prize story already ran in science on 2026-09-09 (Quanta)."
+    },
+    {
+      "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
+      "reason": "Possible overlap with Psychology Today's 'AI behavior impacted by internal confidence levels' (science, 2026-09-13); left out to stay safe and so the section has one LLM-psychology card, not two."
+    }
+  ],
   "diversity": {
-    "distinct_outlets": 4,
-    "max_per_outlet": 2,
-    "outlets": ["Phys.org", "Scientific American", "Medical Xpress", "Tech Xplore"],
-    "axes": ["molecular biology / genome editing", "structural biology / virology", "mathematics", "occupational medicine", "robotics"]
-  }
+    "outlets": {
+      "Medical Xpress": 2,
+      "Phys.org": 1,
+      "Universe Today": 1,
+      "Tech Xplore": 1
+    },
+    "distinct_outlets": 4
+  },
+  "swap_note": "pick 3 replaced (biosecurity-sensitive subject dropped) with Phys.org quantum-nanostructure AI energy story"
 }

@@ -1,93 +1,168 @@
 {
-  "date": "2026-09-25",
   "section": "games",
+  "generated_at": "2026-09-25T22:00:00Z",
+  "now_iso": "2026-09-25T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://wccftech.com/claude-ai-builds-rtx-path-tracer-autonomous-engineering/",
-      "source": "Wccftech",
+      "title": "Nippon Ichi, NIS America Head Says Company Is 'Researching' AI",
+      "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-09-24T13:47:27+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RTX-accelerated-3d-renderer-4.jpg",
-      "excerpt": "A developer used Anthropic's Claude to build a complete RTX-accelerated path tracer in about an hour, with the AI handling system-level graphics engineering from scratch. Wccftech frames it as a sign of autonomous AI coding reaching real-time rendering tools.",
-      "title": "Claude AI Helped Make an RTX-Accelerated Path Tracer From Start to Finish in Just an Hour"
+      "published_iso": "2026-09-25T19:00:02+00:00",
+      "excerpt": "'The best way to would be in a way that actually improves the quality of the game'",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-shot.jpg",
+      "matched_keyword": "studio AI policy",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/",
-      "source": "Wccftech",
+      "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits - Kotaku",
+      "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-09-23T18:43:33+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Feature-Image-6.jpg",
-      "excerpt": "OpenDLSS-NR reimplements DLSS 5's neural rendering in Vulkan, hitting 7.8 ms at 1080p on an RTX 4070 and even running in browsers. It opens the AI 're-lighting' filter to hardware and developers outside NVIDIA's official stack.",
-      "title": "NVIDIA DLSS 5 Gets Open-Source Vulkan Reimplementation, Runs on RTX 40 GPUs and Even in Web Browsers"
+      "published_iso": "2026-09-16T18:20:26+00:00",
+      "excerpt": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening",
+      "og_image": "https://kotaku.com/app/uploads/2026/04/gta5hack-1200x675.jpg",
+      "matched_keyword": "AI-assisted modding/hacking fallout",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+      "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-24T11:03:24Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3Tyrwtxb6nBgdFkC2VkAnS-1920-80.jpg",
-      "excerpt": "PC Gamer forced DLSS 5's neural rendering onto a stylized Hatsune Miku rhythm game, showing how the AI model drags anime art direction toward photoreal faces and lighting. A hands-on look at where the generative filter clashes with non-realistic styles.",
-      "title": "Behold the DLSS 5 horrors I have unleashed"
+      "published_iso": "2026-09-25T17:35:09Z",
+      "excerpt": "Just a regular convo, then.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hvSJcRbsGwZTVCu9B4wQzU-1920-80.jpg",
+      "matched_keyword": "studio AI stance",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
-      "source": "GameSpot",
+      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-24T20:15:24+00:00",
-      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/key_art_1920x1080.png",
-      "excerpt": "Steam's week-long Punk Games Showcase starts October 9 with 100+ curated games out of 400 submissions, explicitly filtering out titles that used generative AI. Curation by 'no genAI' is becoming a storefront feature in its own right.",
-      "title": "Steam's Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis"
+      "published_iso": "2026-09-18T22:51:54Z",
+      "excerpt": "Welcome to the Smile Economy 🙂.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
+      "matched_keyword": "genAI adoption surveys",
+      "freshness": "FRESH"
     },
     {
+      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-09-25T13:07:11.372955+00:00",
+      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\"",
+      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "matched_keyword": "text-to-game / AI game design tool",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "Level-5 CEO admits using generative AI in recent showcase",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-09-14T20:10:38.860510+00:00",
+      "excerpt": "Level-5 president and CEO Akihiro Hino has apologized after confirming that generative AI was used in the studio's rece…",
+      "og_image": "https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "matched_keyword": "AI game art disclosure",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "Level-5 says some suspected AI oddities from trailers were actually human errors, apologizes for fueling doubt with “careless use of AI” in some of its videos - AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/level-5-says-some-suspected-ai-oddities-from-trailers-were-actually-human-errors-apologizes-for-fueling-doubt-with-careless-use-of-ai-in-some-of-its-videos/",
+      "source": "AUTOMATON",
+      "category": "games",
+      "published_iso": "2026-09-17T07:07:59+00:00",
+      "excerpt": "Level-5 has issued a more comprehensive response to the backlash following September 10's \"Level-5 VISION 2026 II: Dreams\" presentation.",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260917-72681-002.jpg",
+      "matched_keyword": "AI game art disclosure follow-up",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "NVIDIA DLSS 5 Neural Rendering Usually Disappoints In Stylized Games, Yet Delivers Solid Results in Super Smash Bros. Melee",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-disappoints-stylized-yet-solid-super-smash-bros-melee/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-09-25T10:53:47+00:00",
+      "excerpt": "Super Smash Bros. Melee native PC port Melee Unlocked adds NVIDIA DLSS 5 Neural Rendering in latest update",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-Super-Smash-Bros-Melee.jpg",
+      "matched_keyword": "DLSS 5 neural rendering / art style",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
       "url": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
       "source": "GameSpot",
       "category": "games",
       "published_iso": "2026-09-24T15:44:34+00:00",
+      "excerpt": "RGG Studio revealed it revived Tupac Shakur as a Stranger Than Heaven character using traditional research methods rather than generative AI.",
       "og_image": "https://www.gamespot.com/wp-content/uploads/2026/09/Tupac-2.jpg",
-      "excerpt": "RGG Studio says it recreated the late Tupac Shakur as a character in Stranger Than Heaven using traditional research and performance methods, confirming no AI technology was used. A notable stance on digital likeness of deceased artists in games.",
-      "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI"
+      "matched_keyword": "AI character likeness avoided",
+      "freshness": "FRESH"
     },
     {
-      "url": "https://www.thegamer.com/control-resonant-calls-out-generative-ai-collectible/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-09-24T18:40:15Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/controlresonantdylanintro.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Remedy's Control Resonant, confirmed as made without AI, includes a collectible, 'The Great Copy Battle', a deliberately awful movie script that lampoons generative-AI slop. It joins a wave of games using in-world writing to take a stance on AI-made content.",
-      "title": "Control Resonant Is The Latest Game To Mock GenAI"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-24T21:59:13+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/love-alt-delete.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "LOVE alt delete is an upcoming psychological-horror visual novel where you beta-test 'MUSE' romance chatbots, typing freely and roping in a second chatbot to help court the first, all without using generative AI itself. AI companionship as theme and interface, hand-authored as craft.",
-      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another"
-    },
-    {
-      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-09-23T08:46:03+00:00",
-      "og_image": "https://images.unsplash.com/photo-1585909085111-2c2f311643af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJpdGV8ZW58MHx8fHwxNzkwMDQ4NjA3fDA&ixlib=rb-4.1.0&q=80&w=2000",
-      "excerpt": "At Oz Comic-Con Brisbane, a stallholder accused by a fellow artist of selling AI-generated imagery allegedly bit an attendee during the confrontation; all parties were banned. Aftermath uses it to frame the escalating human-artist vs AI-art conflict in convention artist alleys.",
-      "title": "'Man Banned From Oz Comic-Con After Biting Incident' Is Not An AI-Related Headline I Thought I'd Be Reading"
-    },
-    {
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "source": "Google DeepMind",
       "category": "games",
-      "published_iso": "2026-09-24T16:20:00+00:00",
+      "published_iso": "2026-09-24",
+      "excerpt": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
       "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
-      "excerpt": "Google DeepMind's Gemini 3.8 Live adds Live Avatar, giving the conversational model a near real-time animated visual presence. Real-time talking avatars are a building block for AI-driven characters and companions.",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar"
+      "matched_keyword": "real-time AI avatar characters",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-09-18T15:15:39.000Z",
+      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "matched_keyword": "AI voice acting / voice cloning ruling",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "\"You may be overthinking it a little bit\": Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation",
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-09-15T16:00:00+00:00",
+      "excerpt": "Saber Interactive's chief creative officer explains why he thinks players will get on board with generative AI tools eventually.",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "matched_keyword": "genAI in shipped game",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
+      "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-09-23T14:59:17Z",
+      "excerpt": "Needle In A Haystack Simulator is overtaking the platform",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
+      "matched_keyword": "AI slop clones on Steam",
+      "freshness": "FRESH"
+    },
+    {
+      "title": "The Biggest 3D Art & Technology Highlights From Gamescom 2026",
+      "url": "https://80.lv/articles/the-biggest-3d-art-technology-highlights-from-gamescom-2026",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-09-25T12:16:00+00:00",
+      "excerpt": "Gamescom 2026 highlighted advances in ray-traced rendering, dense geometry, scalable asset creation, proprietary engines, and emerging AI-assisted 3D workflows.",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_1200x630.jpg",
+      "matched_keyword": "AI-assisted 3D asset pipelines",
+      "freshness": "FRESH"
     }
   ],
+  "notes": "Feed/sitemap harvest (26 outlet RSS + Kotaku post-sitemap + PC Gamer/GamesRadar archives) plus 4 WebSearch calls. Excluded already-published/news_data stories (Punk showcase, LOVE alt delete, Control Resonant, MS face patent, TGS opinion, FF14 merch, SophieChat, Japan jobs). Meta mobile AI tools overlaps design-section 2026-09-25 coverage. CESA survey shares source report with published games-japan-jobs. Level-5 has 2 angles (admission + apology follow-up). UploadVR is off-list exception. Dropped: Limerence (AI theme only), Oz Comic-Con bite, DLSS5 Miku (dup of Wccftech angle, PC Gamer cap), Tenebris Somnia (PC Gamer cap), GamesRadar Zelda artist/PS5 Linux dev (dups of Kotaku items), nvidia/wccftech compute/data-center noise.",
   "dedup": {
-    "dropped": 1,
-    "kept": 9,
+    "dropped": 4,
+    "kept": 14,
     "against_days": 5
   }
 }

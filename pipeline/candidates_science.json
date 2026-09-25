@@ -1,8 +1,35 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "science",
   "window_hours": 336,
   "items": [
+    {
+      "url": "https://medicalxpress.com/news/2026-09-ai-pancreatic-cancer-years-diagnosis.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-09-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/doctor-and-female-pati.jpg",
+      "excerpt": "Mayo Clinic researchers trained an AI model on longitudinal EHR and routine lab data (6,066 patients, 33,396 controls); it reached AUROC 0.853, and a >50% predicted risk meant an 88% chance of diagnosis within a year (ACS Clinical Congress 2026).",
+      "title": "AI model predicts pancreatic cancer risk 3 years before diagnosis"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-09-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-months-to-minutes.jpg",
+      "excerpt": "Barcelona Supercomputing Center built MCP servers linking AI agents to NeKo, MaBoSS and PhysiCell so researchers can build tumor digital twins by natural-language conversation, producing model drafts in under 10 minutes instead of months (npj Systems Biology and Applications).",
+      "title": "Tumor digital twins: from months to minutes with AI"
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-09-method-ai-brain-disorder-screening.html",
+      "source": "Medical Xpress",
+      "category": "science",
+      "published_iso": "2026-09-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/4d-fmri-crossformer-to.jpg",
+      "excerpt": "Sungkyunkwan University's 4D fMRI CrossFormer, a lightweight vision transformer learning spatial and temporal brain activity jointly, detected Alzheimer's disease at a 96.28% F1 score and maps the regions driving each prediction (IEEE JBHI).",
+      "title": "New AI method for brain disorder screening (4D fMRI CrossFormer)"
+    },
     {
       "url": "https://phys.org/news/2026-09-ai-mutations-viruses-infect-bacteria.html",
       "source": "Phys.org",
@@ -13,58 +40,76 @@
       "title": "AI-guided mutations help viruses infect bacteria up to 1 million times more effectively"
     },
     {
-      "url": "https://phys.org/news/2026-09-alphafold-database-viral-protein-complexes.html",
+      "url": "https://phys.org/news/2026-09-ai-companions-erode-social-skills.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-24T13:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/alphafold-database-add.jpg",
-      "excerpt": "EMBL-EBI and Google DeepMind, with NVIDIA, Seoul National University and others, added AI-predicted structures for more than 2,800 viruses to the AlphaFold Database to speed up vaccine and diagnostic target discovery.",
-      "title": "New AlphaFold Database release adds viral protein complexes to support pandemic preparedness"
+      "published_iso": "2026-09-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/lonely-computer-user.jpg",
+      "excerpt": "Duke-NUS and SMU researchers propose in Nature Human Behaviour that isolated people substitute AI companions for human contact, risking 'social deskilling', while well-connected users use them as a supplement, a rich-get-richer dynamic.",
+      "title": "AI companions may erode social skills among isolated users, framework suggests"
     },
     {
-      "url": "https://phys.org/news/2026-09-anthropic-touts-ai-biology-discovery.html",
+      "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-24T04:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/according-to-anthropic.jpg",
-      "excerpt": "Anthropic says ~950 Claude agent sessions working over 21 hours found ART, a previously unknown CRISPR-like enzyme system with DNA repeat arrays in bacteriophages. The preprint has not been peer-reviewed.",
-      "title": "Anthropic touts AI-led biology discovery"
+      "published_iso": "2026-09-22T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-quantum-nanostruc.jpg",
+      "excerpt": "UW-Madison designed quantum nanostructures with vacancy color centers that give optical neural networks strong nonlinearity at power seven orders of magnitude below conventional optical materials (Nature Communications).",
+      "title": "Tiny quantum nanostructures could make AI less of an energy hog"
     },
     {
       "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-24T10:20:00+00:00",
+      "published_iso": "2026-09-24T00:00:00Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2020/onlineads.jpg",
-      "excerpt": "UC Riverside researchers found that confidence and correctness in LLMs come from distinct internal features. Suppressing specific features raised accuracy and let the model flag unreliable answers with 81% accuracy.",
+      "excerpt": "UC Riverside found LLM confidence and correctness live in distinct internal features; suppressing features tied to uncertainty and error flags unreliable answers, lifting accuracy on retained questions from 62% to 81% (arXiv).",
       "title": "Making AI more trustworthy by making it red-flag its own doubtful answers"
     },
     {
-      "url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-23T06:20:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-helps-humano.jpg",
-      "excerpt": "UC Berkeley and Princeton's TANGO vision-language framework controls all 29 joints of a humanoid from language instructions and camera images. It was trained on 65k synthetic trajectories and doubled success rates over 2D path planning.",
-      "title": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control"
+      "published_iso": "2026-09-23T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
+      "excerpt": "A University of Michigan study of 482 adults found chatbot agreement boosted confidence, but disagreement did not change minds; instead users judged the AI as machine-like and less likely to consult it again (Computers in Human Behavior Reports).",
+      "title": "When AI disagrees, people change how they perceive the technology, not their original view"
     },
     {
-      "url": "https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html",
+      "url": "https://techxplore.com/news/2026-09-ai-hardware-filter-irrelevant-visual.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-18T11:00:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/robot.jpg",
-      "excerpt": "Harvard SEAS and Georgia Tech released RLE-Bench, 48 simulated tasks that test whether AI coding agents can handle the full engineering of working robots: control, perception, policy and mechanical design.",
-      "title": "Open-source benchmark tests whether AI agents can engineer working robots"
+      "published_iso": "2026-09-25T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-hardware-designed-t.jpg",
+      "excerpt": "NUS engineers built reconfigurable MoS2 transistors that switch between image filtering and spiking-neural-network roles, cutting active hardware blocks ~36% with accuracy within 0.3 points (Nature Electronics).",
+      "title": "AI hardware design could filter out irrelevant visual data to reduce energy use"
     },
     {
-      "url": "https://medicalxpress.com/news/2026-09-ai-screening-million-workers-exposed.html",
-      "source": "Medical Xpress",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-09-24T17:40:00+00:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/toxic-dust.jpg",
-      "excerpt": "Michigan State University's AI, trained on US worker chest X-rays, detects early pneumoconiosis with 91% accuracy versus 77% for human readers, easing a shortage of about 200 specialist B readers (Occupational and Environmental Medicine).",
-      "title": "AI innovation supports screening for 2.2 million US workers exposed to toxic dust"
+      "published_iso": "2026-09-21T12:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/f5a85a12-d9e9-4edc-a45f-cc0b170995cf/water-wall.jpg?m=1790009681.499&w=1200",
+      "excerpt": "OpenAI's AI-assisted Navier-Stokes proof seems eligible for the $1-million Millennium Prize, but only via a controversial loophole, mathematicians argue.",
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/could-brain-inspired-computers-run-on-the-same-amount-of-power-as-a-human-brain/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-09-19T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/b0fbb0f2-a68b-4d87-8ca9-17485abb1740/brain-illustration.jpg?m=1787775314.33&w=1200",
+      "excerpt": "The brain runs on roughly a lightbulb's wattage; neuromorphic computing researchers are chasing that efficiency for AI.",
+      "title": "Could brain-inspired computers run on the same amount of power as a human brain?"
+    },
+    {
+      "url": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station",
+      "source": "Universe Today",
+      "category": "science",
+      "published_iso": "2026-09-24T10:12:56+00:00",
+      "og_image": "https://www.universetoday.com/article_images/The_SpaceX_Crew_Dragon_approaches_the_International_Space_Station_iss063e021463_20260923_010712.jpg",
+      "excerpt": "A Stanford arXiv preprint builds an AI that runs 'mental simulations' (a learned world model) to plan spacecraft rendezvous and docking, instead of relying only on hard-coded orbital equations and human pilots.",
+      "title": "Stanford Engineers Teach Spacecraft to 'Dream' Their Way to the Space Station"
     },
     {
       "url": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
@@ -72,62 +117,26 @@
       "category": "science",
       "published_iso": "2026-09-24T14:15:01+00:00",
       "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-24_19-09.png",
-      "excerpt": "QC Design reports that its Meridian AI system achieved logical error rates more than 10x lower than published methods across 100+ quantum design tasks.",
+      "excerpt": "QC Design says its Meridian AI system achieved more than 10x lower logical error rates than published methods across 100+ quantum-computer design tasks.",
       "title": "QC Design Reports 10x Logical Error Reduction With Meridian AI"
     },
     {
-      "url": "https://thequantuminsider.com/2026/09/23/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
+      "url": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
       "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-09-23T08:13:17+00:00",
-      "og_image": "",
-      "excerpt": "A theoretical quantum-emitter nanostructure could supply the nonlinear operations that energy-efficient optical neural networks need.",
-      "title": "Tiny Quantum Nanostructures Could Make AI Less of an Energy Hog"
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/ai-solves-79-year-old-math-mystery-of-six-dimensional-spheres/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-09-24T09:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/377a3873-ea98-4164-95d7-f3c8b8eb8560/network-orb.jpg?m=1790102562.115&w=1200",
-      "excerpt": "Can a six-dimensional sphere be described using imaginary numbers? Experts puzzled over this for decades, and now an AI has apparently answered it.",
-      "title": "AI solves 79-year-old math mystery of six-dimensional spheres"
-    },
-    {
-      "url": "https://physics.aps.org/articles/v19/126",
-      "source": "Physics (APS)",
-      "category": "science",
-      "published_iso": "2026-09-11T10:00:00+00:00",
-      "og_image": "https://physics.aps.org/assets/fe9570c8-98b7-480a-851c-95dac90ae2f6/e126_1_thumb.png",
-      "excerpt": "Chess grandmasters move toward less complex positions faster than AI engines, which hold complex positions for longer. The two appear to balance short- and long-term prospects in different ways (Physics 19, 126).",
-      "title": "Chess Reveals Differences Between Human and AI Strategies"
+      "published_iso": "2026-09-25T07:56:35+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-3.53.13-AM.png",
+      "excerpt": "IonQ researchers tested a quantum generative machine-learning model for change detection in Capella Space SAR imagery, beating a classical baseline in some conditions, on a simulator and a trapped-ion QPU.",
+      "title": "Evaluating Quantum Generative Models on Real Satellite Radar"
     },
     {
       "url": "https://allenai.org/blog/autodiscovery-student-challenge",
       "source": "Ai2",
       "category": "science",
-      "published_iso": "2026-09-14T00:00:00+00:00",
+      "published_iso": "2026-09-14T00:00:00-08:00",
       "og_image": "https://www.datocms-assets.com/64837/1789405893-autodiscovery-student-learnings-blog-google-docs-image-1.png",
-      "excerpt": "University of Washington students tested Ai2's AutoDiscovery. It can surface promising scientific leads, but that makes human judgment, domain expertise and rigorous validation more important, not less.",
+      "excerpt": "University of Washington students stress-tested Ai2's AutoDiscovery, showing AI can surface promising scientific leads while human judgment and rigorous validation matter more.",
       "title": "Teaching future scientists to interrogate AI tools for scientific discovery"
-    },
-    {
-      "url": "https://allenai.org/blog/olmo-arena",
-      "source": "Ai2",
-      "category": "science",
-      "published_iso": "2026-09-17T00:00:00+00:00",
-      "og_image": "https://www.datocms-assets.com/64837/1789674806-what-a-crowdsourced-game-revealed-about-steering-olmo-3-testimonial-google-do-image-1.png",
-      "excerpt": "A crowdsourced game built on Olmo 3 showed people exploiting unexpected model behaviors to stress-test prosocial AI evaluations, and how open model internals help explain why those tests break.",
-      "title": "What a crowdsourced game revealed about steering Olmo 3"
-    },
-    {
-      "url": "https://research.google/blog/coherent-long-form-video-generation/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-09-24T19:40:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research treats long-form video generation as a global optimization problem, using a multi-agent framework (AI co-director, CANVAS, A2RD, VQQA) to fight character drift and cascading failures.",
-      "title": "Automating coherent long-form video generation"
     },
     {
       "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
@@ -153,7 +162,7 @@
       "category": "science",
       "published_iso": "2026-09-24T17:28:38-04:00",
       "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pexels-yankrukov-8867432.jpg?itok=FjH_FbVg",
-      "excerpt": "You can close an AI chat and walk into a meeting in seconds, but shifting from instant responses to listening, patience and shared attention takes longer.",
+      "excerpt": "Shifting from instant AI responses back to listening, patience and shared attention with people takes longer than closing a chat window.",
       "title": "From Working With AI to Connecting With People"
     }
   ]

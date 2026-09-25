@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-gemini-live-avatar-face",
+      "id": "gadgets-pixel11-callforme",
       "type": "video",
-      "src": "pipeline/media/gadgets-gemini-live-avatar-face.mp4",
-      "poster": "pipeline/media/gadgets-gemini-live-avatar-face.jpg"
+      "src": "pipeline/media/gadgets-pixel11-callforme.mp4",
+      "poster": "pipeline/media/gadgets-pixel11-callforme.jpg"
     },
     {
-      "id": "gadgets-muse-charm-keychain",
+      "id": "gadgets-create-my-widget",
       "type": "image",
-      "src": "pipeline/media/gadgets-muse-charm-keychain.jpg"
+      "src": "pipeline/media/gadgets-create-my-widget.jpg"
     },
     {
-      "id": "gadgets-glasses-private-processing",
+      "id": "gadgets-surface-copilot",
       "type": "image",
-      "src": "pipeline/media/gadgets-glasses-private-processing.jpg"
+      "src": "pipeline/media/gadgets-surface-copilot.jpg"
     },
     {
-      "id": "gadgets-photos-redact-blur",
+      "id": "gadgets-blue-yeti2",
       "type": "image",
-      "src": "pipeline/media/gadgets-photos-redact-blur.jpg"
+      "src": "pipeline/media/gadgets-blue-yeti2.jpg"
     },
     {
-      "id": "gadgets-ios27-cleanup-vs-photoshop",
+      "id": "gadgets-optimus-hands",
       "type": "image",
-      "src": "pipeline/media/gadgets-ios27-cleanup-vs-photoshop.jpg"
+      "src": "pipeline/media/gadgets-optimus-hands.jpg"
     }
   ]
 }
