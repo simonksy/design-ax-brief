@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "source": "The Verge",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "url": "https://9to5google.com/2026/09/24/pixel-11-call-for-me/",
+      "source": "9to5Google",
+      "title": "Pixel 11 starts testing ‘Call for Me’ to have Gemini phone on your behalf",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New Gemini Live Avatar gives the assistant an animated face that switches across 97 languages, a fresh on-device AI interface release.",
-      "published_iso": "2026-09-24T19:59:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
-      "excerpt": "The AI avatar can transition between 97 languages."
+      "rationale": "New agentic phone feature: Gemini places real calls for the user on Pixel 11, a concrete Duplex-style AI capability shipping to hardware.",
+      "published_iso": "2026-09-24T16:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-canyon.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Following Direct My Call and Hold for Me, Google is introducing \"Call for Me\" on the Pixel 11 series. Reminiscent of Google Duplex..."
     },
     {
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "source": "Ars Technica",
-      "title": "Meta puts its AI assistant on a keychain",
+      "url": "https://www.androidauthority.com/google-create-my-widget-play-store-listing-3715354/",
+      "source": "Android Authority",
+      "title": "This is how Google's 'Create My Widget' app will work on Android and Googlebook OS",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Connect pick 1 of 2: Muse Charm is a brand-new keychain-sized AI hardware form factor shipping in December, distinct from yesterday's Muse-on-glasses leak.",
-      "published_iso": "2026-09-24T14:03:38+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
-      "excerpt": "Meta says the keychain-sized Muse Charm will ship in December."
+      "rationale": "Generative UI on devices: the official Play Store listing reveals templates and categories for AI-built home-screen widgets, directly relevant to designers.",
+      "published_iso": "2026-09-25T07:12:06+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+      "excerpt": "Google has officially listed a \"Create My Widget\" app on the Play Store, giving us a look at the templates and categories it will support."
     },
     {
-      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-      "source": "WIRED",
-      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Connect pick 2 of 2: Private Processing encryption coming to Meta's AI glasses addresses the category's biggest privacy concern, a new angle not yet covered.",
-      "published_iso": "2026-09-23T23:30:29.387Z",
-      "og_image": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg",
-      "excerpt": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses."
+      "rationale": "Strategy shift in AI PCs: new Surface laptops drop Copilot+ branding, signalling how on-device AI is (not) being sold to buyers.",
+      "published_iso": "2026-09-25T17:57:37+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+      "excerpt": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
     },
     {
-      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
-      "source": "Engadget",
-      "title": "Google Photos' new Redact tool will make it easy to hide sensitive information",
+      "url": "https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen",
+      "source": "Tom's Hardware",
+      "title": "Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising — $160 Blue Yeti 2 sequel features real-time auto gain and color mascot screen",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Actionable new AI-powered Redact tool in Google Photos that blurs sensitive parts of an image in one step, useful for anyone sharing screenshots.",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
-      "excerpt": "Google Photos’ new AI-powered features include the Redact tool, which can quickly blur parts of an image."
+      "rationale": "Practical creator gear: the Blue Yeti 2 brings AI denoising and 3D voice tracking to a mainstream $160 mic.",
+      "published_iso": "2026-09-24T14:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg",
+      "excerpt": "A modern successor to the Blue Yeti."
     },
     {
-      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
-      "source": "9to5Mac",
-      "title": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "title": "Tesla’s Optimus robot is going through growing pains",
       "tool": "Gadgets",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "Hands-on test of iOS 27 Clean Up and Extend against Photoshop with real photos, directly relevant to how creatives choose AI editing tools.",
-      "published_iso": "2026-09-24T15:25:43+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "How does Apple’s new iOS 27 Clean Up and Extend compare to Photoshop? I tested both with real photos to find out."
+      "rationale": "Reality check on humanoid AI robots: Optimus production is stalled on dexterous hands, adding robotics to the section's category spread.",
+      "published_iso": "2026-09-25T17:01:36+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Optimus needs a hand getting its hands working."
     }
   ]
 }

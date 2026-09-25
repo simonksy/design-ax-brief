@@ -1,264 +1,289 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-motion-tricks",
+      "id": "design-adam-migrations",
       "eyebrow": "AI NEWS",
-      "headline": "Figma 모션 디자이너가 공개한\nFigma Motion 기법 네 가지",
-      "body": "레이어 애니메이션부터 셰이더, 에이전트 활용까지 실제 작업 파일로 보여 준다.",
-      "mini_headline": "Figma Motion 기법 넷",
-      "tool": "Social",
-      "source": "Figma",
-      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-09-24T06:46:41-07:00",
-      "og_image": "https://i.ytimg.com/vi/UHupJZO7DTw/maxresdefault.jpg",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "UHupJZO7DTw"
-          },
-          {
-            "t": "p",
-            "x": "Figma 모션 디자이너가 동료들의 Figma Motion 파일을 직접 열어 어떻게 만들었는지 뜯어본다. 모션 디자이너들이 작업 방식을 공유하는 'Show Your Work' 시리즈의 한 편이다."
-          },
-          {
-            "t": "p",
-            "x": "첫 예시는 Fabian의 타로 카드 애니메이션이다. 물결과 폭포가 한꺼번에 움직이는데, 열어 보면 작은 컴포넌트를 겹겹이 중첩해 한 조각씩 쌓아 올렸다. 폭포는 도형 하나에 트림 패스를 건 게 전부다. 중첩 컴포넌트로 장면을 조금씩 쌓으라는 게 첫 번째 팁이다."
-          },
-          {
-            "t": "p",
-            "x": "Brett McMillan의 'Spectral Signal'은 360도 회전하는 링 컴포넌트 하나에서 시작한다. 크기가 다른 인스턴스 세 개를 겹치고, 에이전트로 각각에 무작위 회전 키프레임을 만든 뒤 렌즈 왜곡, 컬러 램프, 라이트 블룸, 유리 질감 셰이더를 차례로 얹었다. 키프레임은 몇 개 없다. 유리 질감을 올리자 아래 움직임이 광원처럼 작동했는데, 그에게는 그 순간이 '아하' 모먼트였다."
-          },
-          {
-            "t": "p",
-            "x": "Jill은 Figma 브랜드 애니메이션을 Figma Motion으로 다시 만들었다. 재사용할 브랜드 요소를 하나씩 움직이게 만든 뒤 중첩 컴포넌트로 묶었고, 라이브러리의 브랜드 컬러는 스타일로 바로 입혔다. 모든 요소를 캔버스에 펼쳐 두면 서로 어떻게 맞물리는지 한눈에 보인다는 게 그의 팁이다."
-          },
-          {
-            "t": "p",
-            "x": "마지막은 다시 Fabian의 메뉴 애니메이션이다. 머릿속 그림은 있었지만 어떻게 움직여야 할지 몰라 에이전트에 설명했고, 키프레임을 하나도 건드리지 않고 원하던 결과를 얻었다. 그는 에이전트가 모션 툴킷의 다음 도구처럼 느껴진다고 말한다. 키프레임을 일일이 만지는 대신 이제 프롬프트를 고친다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-flow-studio-symphony",
-      "eyebrow": "AI NEWS",
-      "headline": "Autodesk Flow Studio로 완성한\n'불가능한' 애니메이션 교향곡",
-      "body": "연기자의 몸짓을 AI 모션 캡처로 옮겨 라이브 내레이션과 애니메이션을 엮었다.",
-      "mini_headline": "AI 모캡으로 만든 교향곡",
-      "tool": "KeyShot",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-09-24T16:03:52Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
-            "cap": "'Daughter of the Inner Stars' (이미지: Inferstudio)"
-          },
-          {
-            "t": "p",
-            "x": "'Daughter of the Inner Stars'는 50분짜리 애니메이션 오케스트라 공연이다. 아이들에게 교향악을 소개하려고 기획했고, 라이브 내레이션과 오케스트라 연주에 오리지널 애니메이션을 엮었다. 제작하는 동안 규모가 크게 불어난 작품으로, 새 AI 기술이 작은 팀의 애니메이션 작업을 어디까지 넓히는지 보여 준다."
-          },
-          {
-            "t": "p",
-            "x": "손으로 만든 에셋과 전통 방식의 스토리보드, 실제 연기자를 두고 제작진은 Autodesk Flow Studio의 AI 모션 캡처 워크플로를 택했다. 레퍼런스 영상을 원하는 대로 손볼 수 있는 3D 캐릭터 애니메이션으로 바꿔 주는 도구다. 처음 기획할 때는 상상하지 못한 결과물이 여기서 나왔다."
-          },
-          {
-            "t": "video",
-            "yt": "vyx8hFFPTBg"
-          },
-          {
-            "t": "p",
-            "x": "작품은 2024년 시드니 오페라하우스에서 시드니 심포니 오케스트라와 초연했고, 2025년 밴쿠버 심포니 오케스트라와 북미 무대에 올랐다. 우주 전쟁 속에서 잃어버린 아버지를 찾아 나선 소녀 Fia의 이야기다. 작곡가 Nicholas Buc, 작가 겸 감독 James Vinson, 프로듀서 Melanie Hiluta가 만들었다. 처음 구상은 우크라이나 Tubik Studio가 그린 캐릭터를 정지된 2D 그림으로 보여 주는, 무대 위 그림책에 가까웠다."
-          },
-          {
-            "t": "p",
-            "x": "Inferstudio를 세운 건축가 출신 프로덕션 디자이너 Nathan Su가 합류하면서 그림을 3D로 옮기는 작업이 시작됐다. 캐릭터 아티스트 Ludvig Holmen이 캐릭터를 3D 메시로 조각했다. 시드니 초연을 18개월 앞두고 Flow Studio와 Unreal Engine MetaHuman Animator가 나오면서 캐릭터에 움직임을 더할 길이 열렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Wigktq6m8dtyZQDMWPvf99-1920-80.png",
-            "cap": "(이미지: Inferstudio)"
-          },
-          {
-            "t": "p",
-            "x": "Flow Studio는 슈트 없이 실사 연기를 3D 캐릭터 애니메이션으로 바꾸는 웹 기반 도구다. 2023년 초기 테스트에서 Holmen이 휴대폰으로 찍은 간단한 동작 영상을 올렸더니, 얼굴도 머리카락도 완성되지 않은 Fia가 그의 연기를 놀랄 만큼 정확하게 따라 움직였다. 이후 애니메이션 기술감독 Nour Hassoun이 Flow Studio가 뽑은 모션 캡처 데이터를 해석하고 다듬는 핵심 역할을 맡았다."
-          },
-          {
-            "t": "p",
-            "x": "팀은 Flow Studio 덕에 애니메이션 작업 시간이 80% 줄었다고 추산한다. 실제 연기를 중심에 두고 촬영을 고민하다 보니 이야기의 감정에 더 집중하게 된 것도 소득이었다. 기술적 완벽함보다 가장 큰 감정적 울림을 주는 쪽을 골랐다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-horizon-phone-ai-games",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta, 휴대폰에서 AI로\n게임 만드는 길 연다",
-      "body": "AI로 만든 게임을 페이스북과 인스타그램 피드에서 바로 즐기게 하겠다는 구상이다.",
-      "mini_headline": "폰으로 AI 게임 제작",
-      "tool": "VR Prototype",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "published_iso": "2026-09-24T17:52:29+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200",
+      "headline": "Adam, CAD 설계 이력을\nAI로 다른 툴에 옮긴다",
+      "body": "AI가 CAD 모델의 파라메트릭 이력을 새 CAD 시스템에서 다시 쌓아 준다.",
+      "mini_headline": "CAD 이력 AI 이전",
+      "tool": "Text-to-CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/ai/migrations-adam-ai-cad-translation/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&strip=all&crop=0%2C3.4422539850274%2C100%2C93.115492029945&w=1200"
+            "src": "https://develop3d.com/wp-content/uploads/2026/09/Adam-Migrations.jpg",
+            "cap": "Adam이 공개한 Migrations"
           },
           {
             "t": "p",
-            "x": "Meta가 Horizon 소셜 플랫폼에서 게임을 만들 사람을 모을 새 계획을 내놨다. 오늘 발표한 개발 도구는 두 가지로, AI 프롬프트로 게임을 만든다. 모바일 앱 Horizon Create, 그리고 더 세밀하게 조정할 수 있는 브라우저 앱 Horizon Studio다. 두 앱은 얼리 액세스로 나오고, 관심 있는 사용자는 대기자 명단에 이름을 올리면 된다."
+            "x": "Adam이 최신 도구 Migrations를 내놓았다. AI 에이전트가 CAD 모델의 파라메트릭 피처 이력을 새 CAD 시스템에서 처음부터 다시 쌓는 방식이다. 회사가 내건 목표는 '벤더 종속 끝내기'다."
           },
           {
             "t": "p",
-            "x": "Horizon은 플랫폼으로서 줄곧 고전했다. 그래서 Meta는 새 게임이 훨씬 멀리 퍼질 방법을 마련했다. Horizon Create와 Horizon Studio로 만들어 공개한 게임을 Facebook과 Instagram에서 추천하고, 그 자리에서 바로 플레이하게 한다."
+            "x": "Adam의 설명에 따르면 Migrations는 각 단계를 형상 차원에서 검증한다. 다시 만든 단계마다 원본과 맞춰 보고, 그 확인을 이전 작업 내내 반복한다."
           },
           {
             "t": "p",
-            "x": "Meta의 설명은 이렇다. \"Instagram을 넘기던 사람이 게임 클립을 탭하면 앱을 내려받거나 다른 곳으로 넘어가지 않고 몇 초 만에 멀티플레이 세션에 들어옵니다. 여러분의 게임은 사람들이 이미 콘텐츠를 발견하고 친구와 만나는 피드 안에 자리 잡습니다.\" 회사에 따르면 \"몰입도 높고 안정적이며 문화적으로 공감을 얻고 플레이어가 계속 돌아오는\" 게임일수록 더 많은 사람에게 닿는다."
+            "x": "모델의 메타데이터도 같이 넘어간다. 옮긴 CAD 모델은 여전히 편집 가능한 상태로 남고, 이력도 끊기지 않아 이어서 손댈 수 있다."
           },
           {
             "t": "p",
-            "x": "Horizon과 비슷하지만 훨씬 인기 있는 Roblox도 AI 기반 개발에 크게 힘을 싣는 중이다. 모바일 앱에서 프롬프트로 게임을 만드는 기능도 그중 하나다. VR 앱으로 출발한 Horizon은 최근 모바일 중심으로 방향을 틀었다. Meta가 손닿는 거의 모든 곳에 AI를 밀어 넣는 걸 보면, Horizon에서 AI 비중이 커지는 것도 그리 놀랍지 않다."
+            "x": "현재 붙는 대상은 Dassault Systèmes Solidworks와 Catia, PTC Creo와 Onshape, Autodesk Fusion과 Inventor, 그리고 Siemens NX다."
           },
           {
             "t": "p",
-            "x": "게임을 빨리 만드는 도구가 생기면 즐길 거리도 늘어난다. 기자는 AI로 찍어 낸 게임들이 손으로 공들인 게임만큼 재미있을지 꽤 회의적이다. 그래도 Create와 Studio로 만든 게임은 적어도 비디오 게임다운 요소는 갖출 듯하다. 짧지만 텅 빈 인터랙티브 경험을 만드는 Google의 Project Genie와는 다르다. Meta는 블로그에서 \"두 도구 모두 어떤 아이디어든 진행 시스템, 균형 잡힌 난이도, 아트 디렉션, 멀티플레이 등을 갖춘 완성된 2D·3D 모바일 게임으로 바꾸고, 모든 요소를 원하는 수준까지 다듬게 해 준다\"고 밝혔다."
+            "x": "Adam은 본 작업에 앞서 대표 모델 하나로 원본 시스템과 목적지 시스템을 먼저 검토해 준다. 재구축 과정에 필요한 데이터가 빠지지 않는지 사용자가 직접 확인하는 절차다."
           },
           {
             "t": "p",
-            "x": "그렇다 해도 Roblox 규모에 닿기까지는 갈 길이 멀다. Roblox의 일간 활성 사용자는 1억 2300만 명이다. Horizon은 제대로 자리를 잡은 적이 없다. The Verge는 2022년 초 Horizon의 월 사용자가 30만 명에 이르렀다고 보도했다."
+            "x": "CAD 변환 도구 자체는 이미 여러 형태로 나와 있다. 까다로운 변환을 PMI 데이터까지 아울러 다루는 전용 AI 소프트웨어를 내놓은 곳은 Adam이 처음이다."
+          },
+          {
+            "t": "p",
+            "x": "Adam CEO Zach Dive는 \"우리 AI 에이전트가 이제 CAD 도구 사이에서 모델을 피처 하나하나 단위로 옮긴다\"고 말했다. 이어 \"지난 몇 달 동안 이 작업에 매달렸고, 드디어 공유하게 되어 설렌다. 벤더 종속은 끝났다\"고 덧붙였다."
           }
         ]
       }
     },
     {
-      "id": "design-eleken-agent-patterns",
+      "id": "design-vercel-skills-report",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트형 AI 제품을 위한\n디자인 패턴 실전 가이드",
-      "body": "패턴마다 언제 써야 하는지 짚고 AI를 사람이 통제할 수 있게 두는 법을 정리했다.",
-      "mini_headline": "에이전트 UX 패턴",
+      "headline": "에이전트 스킬 100만 개,\nVercel이 읽어 낸 흐름",
+      "body": "skills.sh에는 7개월 만에 스킬 100만 개, 설치 약 2억 8천만 건이 쌓였다.",
+      "mini_headline": "에이전트 스킬 리포트",
       "tool": "AI Workflow",
-      "source": "Eleken",
-      "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-09-22T21:21:00Z",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2ee1cf9cc8b12b990668c_ai_design_patterns_0.webp"
-          },
-          {
-            "t": "p",
-            "x": "'AI 에이전트 디자인 패턴'을 검색하면 곧 문제에 부딪힌다. 저마다 다른 걸 가리킨다. 어떤 가이드는 에이전트의 계획과 도구 사용, 협업을 말하고, 어떤 가이드는 프롬프트와 채팅 인터페이스, 사람의 감독을 다룬다. 모두 AI 디자인 패턴 이야기지만 제품의 층위가 다르다. 디자인 에이전시 Eleken은 먼저 이 지도를 그린 뒤, 프로덕트 팀이 가장 자주 만나는 두 층위를 파고든다. 내부에서 AI가 어떻게 움직일지 정하는 에이전트 패턴, 사람이 AI를 이해하고 이끌고 통제하는 방식을 정하는 AI UX 패턴이다."
-          },
-          {
-            "t": "p",
-            "x": "AI는 원래 예측하기 어렵다. 같은 입력에도 다른 결과가 나오니 명확한 구조가 더 값지다. 그렇다고 패턴을 무작정 따를 일은 아니다. 필요하지도 않은데 계획, 성찰, 멀티 에이전트부터 넣으면 비용과 복잡도만 커진다. 가장 단순하게 통하는 패턴에서 시작하고, 분명한 가치가 있을 때만 복잡도를 더하라는 게 원칙이다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트 패턴으로는 생각, 행동, 관찰을 되풀이하는 ReAct, 생성한 답을 독립된 비평자가 검토해 고치는 성찰, 외부 도구와 API를 다루는 도구 사용, 큰 문제를 하위 작업으로 쪼개는 계획, 역할을 나눈 멀티 에이전트를 소개한다. 에이전트를 늘린다고 AI가 저절로 나아지지는 않는다는 경고도 붙였다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2e74336c7d8c26fe50440_ai_design_patterns_saas_1.webp",
-            "cap": "영업 플랫폼 Zaplify에 넣은 AI 추천 메시지"
-          },
-          {
-            "t": "p",
-            "x": "UX 패턴은 Eleken이 직접 디자인한 제품으로 풀어낸다. 영업 플랫폼 Zaplify에는 빈 입력창 대신 검토하고 고쳐 쓸 AI 추천 메시지를 넣었다. 콘텐츠 제작 플랫폼 Modia에는 낯선 기능을 흐름 안에서 알려 주는 툴팁을 달았다. 모금 플랫폼 Avid는 기부자 데이터에서 나온 추천을 바로 행동할 수 있는 카드로 보여 주고, 고객 서비스 플랫폼 Siena에는 AI 동작을 실전 전에 시험해 보는 플레이그라운드를 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "사건 문서를 다루는 AI 비서 CaseScribe에서는 답변을 원본 문서까지 거슬러 확인하게 하고 분석이 진행되는 과정도 보여 줬다. Stradigi AI의 저코드 플랫폼 Kepler는 머신러닝 기능은 그대로 두고 화면만 쉽게 풀었다. 신뢰는 AI를 실제보다 확신 있어 보이게 꾸며서 얻는 게 아니다. 근거와 상태를 드러내고 사람이 검토할 틈을 줄 때 생긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6ab2e63013d646e3f86a5334_ai_design_patterns_06.webp",
-            "cap": "통제 층위로서의 AI 인터페이스"
-          },
-          {
-            "t": "p",
-            "x": "Eleken 디자인 디렉터 Maksym Chervynskyi는 소프트웨어가 사용자가 찾아가는 점에서 하루 업무를 관통하는 선으로 바뀌고 있다고 본다. 에이전트가 검색과 조합, 실행을 더 많이 떠맡을수록 인터페이스는 길 안내보다 통제 층위에 가까워진다. 그래서 신뢰와 가시성, 사람의 판단을 설계하는 일이 지능 자체를 설계하는 일만큼 중요해진다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "design-figma-launch-speed",
-      "eyebrow": "AI NEWS",
-      "headline": "Figma가 짚은\n지금 좋은 제품을 만드는 조건",
-      "body": "이제 어려운 일은 출시까지 속도를 지키고 옳은 방향을 고르는 것이라고 본다.",
-      "mini_headline": "좋은 제품의 조건",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+      "source": "Vercel",
+      "url": "https://vercel.com/blog/state-of-agent-skills",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-09-24T20:44:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/0f75a3c287419690c91d1b04d9dd6f92b91683d6-3264x1836.jpg?w=1200&q=70&fit=max&auto=format"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7hxPZ4nBE0Mnsn1dkdGofj/dc36258e2b82650482ec34d48c33a628/skills-cumulative-installs-and-catalogue-web-light.png",
+            "cap": "skills.sh 누적 스킬 수와 설치 수"
           },
           {
             "t": "p",
-            "x": "AI를 쓰면 프롬프트 한 줄에서 클릭 가능한 결과물까지 몇 시간이면 닿는다. 하지만 빨리 도착했다고 좋은 걸 만든 건 아니다. 잘 다듬은 프로토타입도 큰 질문 앞에서는 멈춘다. 이게 최선의 방향인가, 그냥 첫 번째 방향인가. 우리다운가. 무엇보다 정말 만들 가치가 있나."
+            "x": "Vercel이 skills.sh 레지스트리의 집계 데이터로 첫 리포트를 냈다. 7개월 사이 에이전트 스킬 100만 개가 쌓이고 설치 수는 2억 8천만 건에 다가섰다. 사람들이 에이전트에게 무엇을 가르치는지, 무엇이 실제로 설치되는지, 가치가 어디로 옮겨 가는지를 짚는다."
           },
           {
             "t": "p",
-            "x": "Figma 제품 부사장 Paige Costello는 이 질문에 잘 답하는 팀이 속도, 방향, 차별화 세 가지에 강하다고 본다. 마지막 구간까지 속도를 잃지 않고, 여러 방향을 저울질한 뒤 하나에 걸고, 결과물을 자기들만 만들 수 있는 것으로 빚는다."
-          },
-          {
-            "t": "p",
-            "x": "속도는 변경마다 가장 빠른 수단을 고르는 데서 나온다. 폼 필드와 버튼 사이가 너무 벌어졌다면 프롬프트로 설명하기보다 Figma에서 직접 고치는 편이 빠르다. 팀원 수에 따라 가격이 바뀌는 계산기라면 10명, 20명, 50명 버전을 따로 그릴 필요 없이 코드로 간단한 계산을 짜면 된다. 누군가 찾아낸 접근성 점검 같은 지름길은 / 명령으로 부르는 스킬이나 플러그인으로 만들어 팀 전체가 쓰게 한다."
+            "x": "스킬은 특정한 일을 처리하는 재사용 지침 묶음이다. 에이전트는 유능하지만 일반적이다. 온갖 일을 해내면서도 특정 개인이나 팀, 회사가 그 일을 어떤 식으로 하는지는 모른다. 스킬이 그 빠진 맥락을 채운다. 평범한 말로 쓴 파일 한 장이어도 된다. Anthropic이 Agent Skills를 소개한 시점은 2025년 10월이고, Vercel은 석 달 뒤 skills.sh를 열었다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=1600&q=75&fit=max&auto=format",
-            "cap": "캔버스에서 작업하는 Figma 디자인 에이전트"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZVzqIm2zX1BcLdWSUY7vo/e1ac442a733ba6e9f42ba666a6b8ccee/skills-time-to-one-million-web-light.png",
+            "cap": "스킬 100만 개까지 skills.sh는 7개월, GitHub 저장소 27개월, App Store 앱 63개월, npm 패키지 117개월"
           },
           {
             "t": "p",
-            "x": "방향을 고르려면 먼저 넓게 봐야 한다. 여러 방향을 탐색하는 데 예전엔 시간이 오래 걸렸지만, 이제 같은 도구로 대안도 빨리 시험한다. 미용실 예약 흐름을 설계한다면 그 주에 빈 시간이 없을 때, 스타일리스트가 취소할 때, 고객이 일정을 바꿔야 할 때까지 확인해야 방향이 버티는지 안다. 여러 안을 공유 캔버스에 나란히 놓고 팀이 비교하며, Figma 에이전트에 첫 사용자 사용성이나 엔터프라이즈 영업 관점의 비평을 맡길 수도 있다."
+            "x": "스킬을 쓰려면 일에 담긴 판단을 밖으로 드러내야 한다. 어떤 순서로 하는지, 잘된 결과가 어떤 모습인지, 무엇으로 평가하는지. 밑에 깔리는 역량은 에이전트와 도구가 이미 대 준다. 만드는 속도가 기존 소프트웨어와 비교가 안 되는 이유다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
-            "cap": "디자인과 React 코드를 나란히 놓고 탐색하는 화면"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/712lycy79IeHLvzvmIiV5T/b81ce8d1fd594a8a35566e9eb6e9812e/skills-function-share-web-light.png",
+            "cap": "리스팅은 소프트웨어 엔지니어링이 최대, 설치는 다섯 중 넷 이상이 다른 일로 간다."
           },
           {
             "t": "p",
-            "x": "AI 덕분에 더 많은 사람이 그럴듯한 출발점에 서게 된 만큼, 눈에 띄려면 더 의도적인 선택이 필요하다. 커스텀 셰이더를 만들었는데 빛만 너무 세다면 다시 프롬프트를 넣지 말고 강도를 직접 낮추라는 식이다. 새 프롬프트는 색과 블러, 패턴까지 바꿔 버릴 수 있다. 메뉴가 특정한 반동으로 열리게 하거나 카드에 반짝이는 그라디언트를 입히는 일도 이제 캔버스를 떠나지 않고 Figma 에이전트와 해낸다. 완성한 모션은 개발자가 Dev Mode에서 CSS, JSON, React로 그대로 복사해 간다."
+            "x": "공급은 기술 쪽으로 기운다. 리스팅 절반 이상이 소프트웨어 엔지니어링과 에이전트 워크플로, 데이터, 인프라, 보안을 가르치고 소프트웨어 엔지니어링 하나가 약 4분의 1을 차지한다. 수요는 훨씬 흩어져 있다. 5분의 1을 넘기는 범주가 없고 소프트웨어 엔지니어링 18%, 에이전트 워크플로 15%, 비즈니스 운영과 글쓰기가 각각 11% 가까이다."
           },
           {
             "t": "p",
-            "x": "좋은 제품을 만드는 일이 쉬워진 건 아니다. 어려운 일이 벌어지는 자리가 옮겨 갔을 뿐이다. 프로토타입은 첫수에 불과하고, 팀은 여전히 끝까지 속도를 지키고 옳은 방향을 고르고 남과 다른 것을 빚어내야 한다."
+            "x": "리스팅 하나당 설치로 보면 순서가 뒤집힌다. 비즈니스 운영 스킬은 평균보다 74% 많이 설치되고 글쓰기·문서가 50%, 클라우드·인프라가 42% 앞선다. 소프트웨어 엔지니어링은 평균보다 약 30% 적고 교육·생산성은 39%, 리서치는 55% 뒤진다."
+          },
+          {
+            "t": "p",
+            "x": "에이전트 워크플로와 자동화는 분류된 데이터에서 설치의 14.8%를 가져가 소프트웨어 엔지니어링 다음이다. 설치 10만 건을 넘긴 리스팅만 놓고 보면 가장 큰 범주가 이쪽이다. 사람들이 에이전트를 써서 에이전트를 손보는 셈이다."
+          },
+          {
+            "t": "img",
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6w0Y4IuwoNRSNYUQgf4ofF/57a4b36cfacf2f42dfcec936189d6deb/skills-install-concentration-logx-web-light.png",
+            "cap": "상위 375개가 설치의 62%, 하위 98.8%가 6% 미만"
+          },
+          {
+            "t": "p",
+            "x": "쏠림은 심하다. 전체 스킬의 절반 가까이가 딱 한 번 설치됐다. 반대편 끝에서는 375개, 레지스트리의 0.04%가 설치의 62%를 차지하고 상위 1.2%가 94%를 가져간다. 그래도 독주는 없다. 최다 설치 스킬조차 전체 설치의 1%를 넘지 못한다. 경비 정산 스킬을 하나 골랐으면 두 번째를 깔 이유가 없지만, 스프레드시트와 리서치, 발표 자료 스킬은 나란히 쓰인다."
+          },
+          {
+            "t": "p",
+            "x": "산업을 가리지 않는 스킬이 분류 대상의 66%, 설치의 87.5%를 차지하고 리스팅당 설치는 산업 특화 스킬의 3.6배다. Vercel은 첫 100만 개가 모두 아는 것을 가르쳤다면 다음 100만 개는 각자만 아는 것을 가르친다고 본다. 스킬을 재는 기준도 설치 수에서 효과로 옮겨 가, 그 일을 스킬 없이 했을 때보다 잘하는지 따지는 테스트와 벤치마크가 붙는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-flux-pcb-enclosure",
+      "eyebrow": "AI NEWS",
+      "headline": "Flux, 말로 설명하면\nPCB 케이스가 나온다",
+      "body": "케이스 조건을 글로 적으면 설계가 나오고, 보드가 바뀌면 그에 맞춰 고쳐 3D 프린팅용으로 내보낸다.",
+      "mini_headline": "AI PCB 케이스 설계",
+      "tool": "Text-to-CAD",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/09/Flux-adds-AI-tools-for-3D-printable-PCB-enclosures-scaled.jpg",
+            "cap": "Flux가 내놓은 PCB 케이스 설계 도구"
+          },
+          {
+            "t": "p",
+            "x": "Flux가 인쇄회로기판(PCB) 케이스를 설계하는 AI 도구를 내놓았다. Flux 채팅창에 원하는 케이스를 설명하면 보드 형상에 맞춘 설계가 나온다."
+          },
+          {
+            "t": "p",
+            "x": "그전까지 케이스 설계는 기계 엔지니어의 손을 빌리거나 기계 CAD(mCAD) 소프트웨어를 써야 하는 일이었다. PCB가 조금 바뀌어도 기계 설계를 다시 손봐야 했다."
+          },
+          {
+            "t": "p",
+            "x": "새 기능은 PCB 설계와 케이스 설계를 한 줄기로 잇는다. 보드 형상을 읽어 3D 프린팅용 케이스 모델을 뽑아낸다."
+          },
+          {
+            "t": "p",
+            "x": "모델에는 걸쇠와 나사 구멍, 마운팅 피처, 곡면 엣지, 통풍구, 포트 컷아웃이 들어간다. 미리 보고 모양이나 기능을 고쳐 달라고 요청한 뒤, 표준 3D 프린팅 포맷으로 내보내면 된다."
+          },
+          {
+            "t": "p",
+            "x": "PCB에서 부품을 옮기거나 교체하면 Flux가 케이스를 따라 고친다. 바뀐 설계에 맞춰 제조와 조립 지침까지 갱신한다."
+          },
+          {
+            "t": "p",
+            "x": "완성한 케이스는 정식 양산에 들어가기 전에 PCB를 실제 놓일 환경에 두고 살펴보는 데 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능은 Flux의 모든 플랜에 들어간다. 자세한 내용은 flux.ai에 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-opus55-website-showdown",
+      "eyebrow": "AI NEWS",
+      "headline": "Claude Opus 5.5,\n웹사이트 제작 대결에 나서다",
+      "body": "새 모델 Claude Opus 5.5를 실제 활용 다섯 가지와 웹사이트 50개 대결로 살펴본다.",
+      "mini_headline": "Opus 5.5 실사용기",
+      "tool": "Social",
+      "source": "The AI Advantage",
+      "url": "https://www.youtube.com/watch?v=L0-ezCnX0gs",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "L0-ezCnX0gs"
+          },
+          {
+            "t": "p",
+            "x": "The AI Advantage 채널이 Claude Opus 5.5를 직접 써 본 영상을 올렸다. 길이는 14분 19초, 공개일은 2026년 9월 25일이다."
+          },
+          {
+            "t": "p",
+            "x": "진행자 Igor가 잡은 구성은 두 덩어리다. 앞쪽은 창의적인 활용 다섯 가지, 뒤쪽은 웹사이트 50개를 놓고 ChatGPT 6 Astra와 붙는 대결이다."
+          },
+          {
+            "t": "p",
+            "x": "활용편은 인터랙티브 3D 월드 만들기로 시작한다(2분 00초). 기계 스케치를 애니메이션으로 바꾸고(4분 45초), 제품 광고를 만든다(6분 30초)."
+          },
+          {
+            "t": "p",
+            "x": "사진을 브릭 모델로 바꾸는 작업이 7분 08초, 샌프란시스코 도시 시뮬레이션이 7분 59초에 나온다. 브릭 모델 앱은 Claude가 공유한 데모이고, 샌프란시스코 시뮬레이션은 Matthew Berman이 소개한 결과다."
+          },
+          {
+            "t": "p",
+            "x": "8분 55초에서는 Claude와 GPT의 가격을 비교한다. 이어 9분 50초부터 웹사이트 50개 대결이 펼쳐진다. 결과물 50개는 fable-blind-lab.vercel.app/opus.html에 그대로 올라와 있어 직접 견줘 볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "13분 20초에 Igor의 총평이 붙고, 13분 45초에는 새로 나온 ChatGPT 음성 기능을 짧게 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "Claude Opus 5.5의 공식 발표문은 Anthropic 사이트에 올라와 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-copilot-super-app",
+      "eyebrow": "AI NEWS",
+      "headline": "채팅과 코딩, 에이전트를\n한 앱에 담은 새 Copilot",
+      "body": "새 Copilot은 AI 채팅과 코딩, Autopilot 에이전트를 하나의 앱으로 합쳤다.",
+      "mini_headline": "Copilot 슈퍼 앱",
+      "tool": "AI Workflow",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&strip=all&crop=0.024975024975028%2C0%2C99.95004995005%2C100&w=2400",
+            "cap": "이미지: Microsoft"
+          },
+          {
+            "t": "p",
+            "x": "지난달 예고한 '슈퍼 앱'을 Microsoft가 공식 공개했다. 새로 디자인한 Copilot 앱은 채팅과 코딩, 에이전트 세 가지를 한 화면에 묶었다. 올해 Build에서 내놓은 AI 개인 비서 Scout는 이번에 Autopilot으로 이름을 갈았다."
+          },
+          {
+            "t": "p",
+            "x": "탭은 Home, Code, Autopilot 세 개다. Home은 Copilot Chat과 Cowork를 합친 기본 화면이고, 중요한 메일과 회의 요청, Teams 스레드를 모아 주는 Today 기능도 들어갈 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "업무용 AI 마케팅을 이끄는 Jared Spataro는 Home을 이렇게 설명한다. \"Home은 방향을 잡는 곳입니다. 최근 활동을 훑고, Copilot이 도울 수 있는 일을 제안받고, 멈춘 자리에서 바로 다시 시작하죠.\""
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "Code 탭. 이미지: Microsoft"
+          },
+          {
+            "t": "p",
+            "x": "Code 탭이 이번 '슈퍼 앱'의 의외수다. 누구든 앱이나 트래커, 대시보드, 자동화를 만들어 클라우드에 올려 두고 사내 앱처럼 동료와 나눠 쓴다. Spataro는 \"Code는 GitHub Copilot과 같은 기반 기술로 돌아가고, 샌드박스 환경에서 실행되며 여러분의 테넌트 안에 안전하게 호스팅됩니다\"라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Autopilot은 Spataro가 '디지털 팀 동료'라 부르는 새 기능이다. 예전 이름 Scout로 데스크톱 앱으로 먼저 나왔고, Autopilot은 그 클라우드판이다. 사용자가 잠든 사이에도 계속 돌아간다. 자체 클라우드 컴퓨터 인스턴스를 갖고 Teams 채널을 지켜보거나 반복 업무를 돌리거나 후속 처리를 맡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Autopilot.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "Autopilot에는 이름과 외형을 붙인다. 이미지: Microsoft"
+          },
+          {
+            "t": "p",
+            "x": "다른 AI 에이전트와 갈리는 지점은 엔터프라이즈 등급이다. Office와 아이덴티티 관리 제품군에 일을 얹어 둔 기업을 노렸다. Spataro는 \"Autopilot은 자체 아이덴티티와 메모리, 컴퓨터, 워크스페이스를 갖고 여러분의 테넌트 안에 삽니다. Microsoft IQ 위에 세워서 조직이 실제로 어떻게 움직이는지 이해합니다\"라고 설명했다. 사람들이 이미 일하는 Teams와 Outlook, 문서에 나타나 동료처럼 @멘션으로 부르고, 권한과 감사, 거버넌스가 뒤를 받친다."
+          },
+          {
+            "t": "p",
+            "x": "과금 방식도 달라졌다. Cowork와 Code, Autopilot은 사용량을 기준으로 매긴다. 오래 도는 에이전트 작업이나 Astra, Fable 같은 모델 사용은 쓴 만큼 청구된다. 기존 사용자 구독 라이선스로는 Chat과 Word, Excel, PowerPoint, Outlook, Teams의 Copilot을 쓴다. IT 관리자는 새로 나온 FinOps for AI로 AI 지출을 잡는다."
+          },
+          {
+            "t": "p",
+            "x": "Home과 Code 탭은 조기 접근 프로그램 Frontier에 '몇 주 안에' 풀린다. Autopilot은 이달 중 프라이빗 프리뷰, Code는 올해 안에 Microsoft 365 Premium·Pro 구독자 프리뷰로 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "Satya Nadella는 X에 \"우리는 모든 모델과 모든 폼팩터, 모든 작업을 아우르는 업무용 새 OS로 Copilot을 만들고 있습니다\"라고 적었다. Spataro는 \"Office가 PC 시대의 일을 정의했듯, 새 Copilot은 AI 시대의 일을 정의하도록 만들어졌습니다\"라고 했다. The Verge는 AI 시대의 경쟁이 PC 시대와 비교가 안 된다고 짚는다. Microsoft는 Google과 OpenAI, Anthropic, Meta에 뒤처졌다."
           }
         ]
       }

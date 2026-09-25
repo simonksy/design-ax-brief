@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "books",
   "generated_by": "ax-curator",
   "selection_mode": "curator-auto (user deferred — \"알아서\")",
@@ -10,119 +10,120 @@
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Amazon KDP limits authors to two titles per format per week",
-      "url": "https://janefriedman.com/amazon-kdp-limits-authors-to-two-titles-per-format-per-week/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-23T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Amazon KDP now caps uploads at two titles per format per week (down from 10); Amazon began setting upload limits in fall 2023 due to the flood of generative-AI books.",
-      "rationale": "The most actionable item: a platform rule change (10 uploads a week cut to 2) that changes release planning for every self-published author right away. It is a direct response to the flood of AI-generated books.",
-      "framing_note": "WRITER: lead with the new cap and who it affects. Present AI-book volume as the stated background, as the source does. The og_image is Jane Friedman's generic premium banner, so ax-media should source a distinct image."
+      "headline": "Storytel launched AI-generated audiobook recaps in Finland without telling authors",
+      "url": "https://yle.fi/a/74-20247235",
+      "source": "Yle",
+      "published_iso": "2026-09-23T18:34:55+03:00",
+      "og_image": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
+      "excerpt": "Storytel's AI 'Recaps' summarise the last 5-15 minutes of an audiobook; Finnish author Suvi Auvinen and the Writers' Union object that authors weren't notified and AI summaries can distort works. Storytel says publishers got a month's notice and an opt-out. (Finnish-language article)",
+      "rationale": "A live AI feature from a major audiobook platform, plus a concrete consent dispute (the publisher opt-out versus authors never being told). It changes what authors should check in their audio contracts right away.",
+      "framing_note": "WRITER: explain what Recaps does (it summarises the last 5-15 minutes), then set out both sides: the author and union objections, and Storytel's publisher notice and opt-out. The source is in Finnish, so the enrichment pass must translate carefully and attribute quotes."
     },
     {
       "rank": 2,
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "SCBWI updates its AI policy to prohibit use in the creative process",
-      "url": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-23T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "Their policy is a strong model but also one of the strictest I’ve seen, banning generative AI for brainstorming or an editing pass.",
-      "rationale": "A new, concrete policy from a major children's-publishing body. It bans generative AI even for brainstorming or an editing pass, which directly affects how its members write and illustrate. It was yesterday's first backfill and is still fresh.",
-      "framing_note": "WRITER: state what is now banned (brainstorming, editing passes) and who it covers. Keep it distinct from rank 1: this is a professional-body policy, not a platform limit. The generic banner applies here too, so ax-media should source a distinct image."
+      "headline": "We Don't Want Shonen Jump AI Manga Translations",
+      "url": "https://www.siliconera.com/we-dont-want-shonen-jump-ai-manga-translations/",
+      "source": "Siliconera",
+      "published_iso": "2026-09-25T16:00:00+00:00",
+      "og_image": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurv2.png",
+      "excerpt": "Shueisha appears to be surveying MANGA Plus readers on AI translation, a sign it is weighing machine-translated manga releases; the piece argues MT can't replace human localization.",
+      "rationale": "It suggests the biggest manga publisher is testing whether readers will accept AI-translated releases on MANGA Plus. This is a new signal, separate from the 09-12 Webtoon translation card.",
+      "framing_note": "WRITER: lead with the fact (the MANGA Plus reader survey on AI translation) and present the argument against machine translation as Siliconera's opinion. Do not say Shueisha has decided anything; it is only surveying."
     },
     {
       "rank": 3,
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "AI and Scholarly Reading: Foxes versus Hedgehogs",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-23T09:30:35+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/foxhedgehog.jpg",
-      "excerpt": "Some readers are foxes, and some are hedgehogs. What kind of reader is AI, and how will that impact both the practice of science and the business of journal publishing?",
-      "rationale": "A fresh analysis of AI as a reader: broad-skimming 'fox' versus deep 'hedgehog', and what that means for research practice and journal publishing. It has its own article image.",
-      "framing_note": "WRITER: explain the fox/hedgehog framing and the conclusion for publishers. This is an opinion essay, so attribute its claims to the author."
+      "headline": "일본 헌책방 매출 5배 증가…AI 학습용으로 50톤이 미국행, 스캔 뒤 폐기",
+      "url": "https://aimatters.co.kr/news-report/53163/",
+      "source": "AI매터스",
+      "published_iso": "2026-09-25T09:37:48+09:00",
+      "og_image": "https://aimatters.co.kr/wp-content/uploads/2026/09/10_japan-used-books-ai.jpg",
+      "excerpt": "일본 헌책방 매출이 최대 5배 늘었다. 2022년 이전 출간 도서를 톤 단위로 사들여 50톤 넘게 미국으로 수출, AI 학습용으로 스캔한 뒤 폐기하는 흐름이다.",
+      "rationale": "New, concrete data on book scanning for AI training: Japanese used-book sales up as much as fivefold and over 50 tonnes shipped to the US. Earlier cards covered Amazon's US warehouse; this is a new market and new numbers.",
+      "framing_note": "WRITER: lead with the numbers (up to 5x sales, 50+ tonnes, books from before 2022). You may mention the European Writers' Council condemnation of 'destructive scanning' (25 Sep) as context in one line; it was folded in as a within-pool duplicate."
     },
     {
       "rank": 4,
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "Frankfurt Book Fair 2026: Redrawing the Map",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T00:00:00-04:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131519-1.PNG",
-      "excerpt": "A more compact Frankfurt Book Fair sets aside extra space for AI, audiobooks and comics, with an unusually large cohort of AI-focused service providers and a Hall 4.1 Innovation Stage.",
-      "rationale": "The biggest rights fair has been reorganised with dedicated AI space, a large group of AI service providers and an Innovation Stage. It is a useful preview of the AI tools publishers will be pitched next month.",
-      "framing_note": "WRITER: focus on the AI footprint (the AI service-provider cohort, the Hall 4.1 Innovation Stage). The 'AI Narration Beyond the Lab' debate from PW's companion 'Must-see Events' piece can be mentioned as a detail; that piece was folded in here as a same-source, same-topic duplicate."
+      "headline": "\"내가 바로 웹툰 주인공\"⋯네이버웹툰 AI 캐릭터챗으로 만드는 새 이야기",
+      "url": "https://www.inews24.com/view/2008992",
+      "source": "아이뉴스24",
+      "published_iso": "2026-09-25T10:45:01+09:00",
+      "og_image": "https://image.inews24.com/v1/eb3d3a460a5de7.jpg",
+      "excerpt": "네이버웹툰의 AI 스토리챗 '바이어스(byUs)'가 출시 10주 만에 누적 대화 1400만건을 돌파. 작가가 승인·검수한 IP 설정 위에서 독자가 주인공이 돼 2차 서사를 만들고, 원작 조회수도 67% 늘었다.",
+      "rationale": "A shipping AI reading product with real traction: 14M conversations in 10 weeks and 67% more views of the original works. It is also a model where authors approve the settings the AI works from. This is a positive, product-side story that balances the controversy items.",
+      "framing_note": "WRITER: lead with the numbers and how it works (author-approved IP settings, reader as the protagonist). Attribute the metrics to Naver Webtoon."
     },
     {
       "rank": 5,
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "Guest Post — Peer Review Triage: Deciding What’s Worth Saving",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-09-15T09:30:18+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/prwpost.jpg",
-      "excerpt": "Guest post argues the ubiquity of AI-assisted writing tools is inflating manuscript submissions and straining peer-review capacity, and asks what of the current system is worth saving.",
-      "rationale": "AI writing tools are driving up manuscript submissions and straining peer-review capacity. It is a different angle from rank 3 (the supply side of submissions versus how AI reads), and it is the best remaining item after the duplicates and soft pieces were dropped.",
-      "framing_note": "WRITER: lead with the causal claim (AI-assisted writing inflating submissions) and the triage options proposed. This is a guest opinion piece, so attribute it."
+      "headline": "Novelist accused of using AI to write book removed from French prize list",
+      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+      "source": "The Guardian",
+      "published_iso": "2026-09-25T16:14:32+00:00",
+      "og_image": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
+      "excerpt": "Thélyson Orélien's debut was dropped from the Prix Goncourt list after AI-authorship claims spread on social media.",
+      "rationale": "A new development, not a repeat: the 09-24 Bookseller card covered only the accusation, with both publishers backing the author. This card is about the first real consequence, removal from the Goncourt list. It is a precedent for how prizes handle AI-authorship claims.",
+      "framing_note": "WRITER: the headline and body must be about the removal from the Prix Goncourt list, not a re-telling of the accusation. Refer to the earlier accusation in one clause at most. The claims are still unproven, so attribute them and do not state that AI was used."
     }
   ],
   "dropped": [
     {
-      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-21-2026/",
-      "source": "Publishing Perspectives",
-      "reason": "Content DUPLICATE: the roundup's lead AI story is Spotify's Audiobook Creation Tools (ElevenLabs AI narration) opening to self-published authors, already published 09-13 (janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors)."
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+      "source": "European Writers' Council",
+      "reason": "Within-pool duplicate of the book-scanning story cluster. Kept the AI매터스 piece (rank 3) for its concrete new data; the EWC statement can appear as a line of context."
     },
     {
-      "url": "https://janefriedman.com/anthropic-settlement-increases-time-to-handle-disputes/",
-      "source": "Jane Friedman",
-      "reason": "Content DUPLICATE and legal/business: the Anthropic settlement claims saga has been covered repeatedly (PW 07-24, Writer Beware 09-05, TechCrunch 09-09, Authors Guild 09-18). The 30-to-60-day extension is procedural, and the same call was made on 09-24. A third Jane Friedman card would also break the per-outlet cap."
+      "url": "https://www.thebookseller.com/news/openai-trained-models-on-books-from-sketchy-af-libgen-unsealed-court-filings-reveal",
+      "source": "The Bookseller",
+      "reason": "Content DUPLICATE: the same unsealed OpenAI/LibGen filings were published 09-22 (PW 'unsealed files show OpenAI, Microsoft knew copying was illegal')."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
-      "source": "Publishers Weekly",
-      "reason": "Within-pool duplicate: same source and same core topic (Frankfurt 2026 preview) as rank 4. Kept the single stronger piece."
+      "url": "https://www.thebookseller.com/news/the-flip-tackles-disinformation-at-event-with-sarah-wynn-williams-and-joanna-prior",
+      "source": "The Bookseller",
+      "reason": "Weak AI angle: an event write-up where AI is incidental."
     },
     {
-      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-14th-2026/",
-      "source": "Publishing Perspectives",
-      "reason": "Stale (09-14) mixed roundup. Its lead item, Nippan selling books to Anthropic for scanning, is a deal (excluded as business noise). The China copyright guidance belongs in politics."
+      "url": "https://pressat.co.uk/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-9011f8048348b4a106a9ab6096d78ba2/",
+      "source": "Pressat (Apex CoVantage press release)",
+      "reason": "Vendor press release for a product not yet launched (debuts 7 Oct), with no image. Weaker than the picks."
     },
     {
-      "url": "https://bookriot.com/novels-about-ai/",
-      "source": "Book Riot",
-      "reason": "Soft listicle with no news event."
+      "url": "https://www.youtube.com/watch?v=lo9p8bVnDxE",
+      "source": "Novelcrafter (YouTube)",
+      "reason": "A livestream whose main subject is writer's block, not a discrete AI release. Held as a first backfill."
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997113/erewhon-the-1872-book-that-predicted-an-ai-backlash-and-was-cited-by-alan-turing",
-      "source": "The Verge",
-      "reason": "Evergreen history item with no new release or insight."
+      "url": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
+      "source": "TechRadar",
+      "reason": "Lifestyle trend piece that is mostly about AI photos; the book angle is thin. Held as a backfill."
     },
     {
-      "url": "https://lithub.com/the-conveniences-i-used-to-write-a-book-about-inconvenience-definitely-not-ai/",
-      "source": "Literary Hub",
-      "reason": "Personal essay where AI is incidental. Same call as on 09-24."
+      "url": "https://www.etnews.com/20260922000490",
+      "source": "전자신문",
+      "reason": "Promotional item about a hub tenant's product, with AI voice only one part of it. Weaker than the picks."
     }
   ],
   "dedup": {
-    "checked_against": "pipeline/published_urls.json books ledger (through 2026-09-24) plus the prior-day selected_books.json",
+    "checked_against": "pipeline/news_data.json sections.books (today 09-25 plus days 09-19, 09-22, 09-23, 09-24) and the pipeline/published_urls.json books ledger",
     "pool_size": 12,
-    "dropped_as_duplicate": 3,
+    "dropped_as_duplicate": 2,
     "notes": [
       "No pick shares a URL with any published books card, and all five picks have distinct URLs.",
-      "Outlet spread: Jane Friedman (2), The Scholarly Kitchen (2), Publishers Weekly (1). That is three distinct outlets, with no outlet over 2.",
-      "Topic spread: platform upload rule (1), professional-body AI policy (2), AI as scholarly reader (3), book fair AI footprint (4), AI-driven submission load on peer review (5).",
-      "Ranks 1 and 2 share Jane Friedman's generic premium og_image. ax-media must source distinct in-article or topic images.",
-      "The pool is thin (12 items, 7 dropped). Rank 5 is the weakest pick but still clears the fresh, AI-central bar."
+      "Rank 5 overlaps the 09-24 Orelien accusation card on topic, but it reports a new event (removal from the prize list), so it was kept on the condition that it is framed that way.",
+      "Rank 2 (Shueisha AI translation survey) is not the 09-12 PW Webtoon translation card: different company, different event.",
+      "Rank 4 (Naver byUs) is not the 09-24 머니투데이 AI web-novel spam card: product traction versus platform spam.",
+      "Outlet spread: five distinct outlets (Yle, Siliconera, AI매터스, 아이뉴스24, The Guardian), one each.",
+      "Topic spread: audiobook AI feature and consent (1), AI manga translation (2), scanning books for training data (3), AI story-chat product (4), prize-eligibility consequence (5)."
     ]
   }
 }

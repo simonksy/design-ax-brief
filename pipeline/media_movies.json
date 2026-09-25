@@ -1,31 +1,33 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "movies",
   "media": [
     {
-      "id": "movies-adobe-gemini-plugin",
+      "id": "movies-minkoff-stormdogs",
       "type": "image",
-      "src": "pipeline/media/movies-adobe-gemini-plugin.png"
+      "src": "pipeline/media/movies-minkoff-stormdogs.jpg"
     },
     {
-      "id": "movies-beauty-box-6-5",
+      "id": "movies-baska-womanasleep",
       "type": "image",
-      "src": "pipeline/media/movies-beauty-box-6-5.jpg"
+      "src": "pipeline/media/movies-baska-womanasleep.jpg"
     },
     {
-      "id": "movies-katzenberg-ai-not-going-away",
-      "type": "image",
-      "src": "pipeline/media/movies-katzenberg-ai-not-going-away.jpg"
+      "id": "movies-runway-diffuse",
+      "type": "video",
+      "src": "pipeline/media/movies-runway-diffuse.mp4",
+      "poster": "pipeline/media/movies-runway-diffuse.jpg"
     },
     {
-      "id": "movies-oiaf-tac-ai-panel",
+      "id": "movies-evoto8",
       "type": "image",
-      "src": "pipeline/media/movies-oiaf-tac-ai-panel.jpg"
+      "src": "pipeline/media/movies-evoto8.jpg"
     },
     {
-      "id": "movies-deadline-law-summit-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-deadline-law-summit-ai.jpg"
+      "id": "movies-runway-consistent-chars",
+      "type": "video",
+      "src": "pipeline/media/movies-runway-consistent-chars.mp4",
+      "poster": "pipeline/media/movies-runway-consistent-chars.jpg"
     }
   ]
 }

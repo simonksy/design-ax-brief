@@ -1,235 +1,277 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-gemini-live-avatar-face",
+      "id": "gadgets-pixel11-callforme",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 3.8 Live에\n입 모양 맞춰 말하는 얼굴이 생겼다",
-      "body": "기업용 Gemini 3.8 Live에 얼굴 아바타가 붙어 97개 언어로 말한다.",
-      "mini_headline": "얼굴 생긴 Gemini",
+      "headline": "픽셀 11, 제미나이가 대신 거는\n'Call for Me' 시험 중",
+      "body": "구글이 픽셀 11에서 제미나이가 대신 전화를 거는 기능을 시험한다.",
+      "mini_headline": "제미나이가 대신 통화",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/24/pixel-11-call-for-me/",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "published_iso": "2026-09-24T19:59:26+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
-            "cap": "Live Avatar는 입 모양을 맞추고 여러 표정을 짓는다."
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-canyon.jpg?quality=82&strip=all&resize=1200,628",
+            "cap": "픽셀 11 프로"
           },
           {
             "t": "p",
-            "x": "구글이 Gemini 3.8 Live를 업데이트하면서, 애니메이션 AI 페르소나가 실시간으로 대답하는 모습을 보며 대화할 수 있게 했다. 이 \"Live Avatar\"는 대화 중에 입 모양을 맞추고 표정도 바꾼다. 다만 지금은 Gemini Enterprise 고객만 쓸 수 있다."
+            "x": "구글이 픽셀 11 시리즈에 'Call for Me'를 얹는다. Direct My Call과 Hold for Me를 잇는 통화 기능이다."
           },
           {
             "t": "p",
-            "x": "구글에 따르면 Live Avatar는 지원하는 97개 언어 사이를 \"영상 품질을 떨어뜨리거나 화면이 흐트러지는 일 없이\" 넘나든다. 구글이 공개한 영상 속 아바타는 영어와 일본어를 번갈아 말하는데, 두 언어 모두 입 모양이 말과 맞아떨어졌다. 말하는 도중 화면에 정보를 띄우기도 한다."
+            "x": "구글 듀플렉스를 떠올리게 하는 이 제미나이 인텔리전스 기능은 공식적으로 \"초기 실험\"이다. 예약을 잡고, 물건을 잡아두고, 예약 시간을 바꾸는 \"일상적인 전화\"를 구글이 대신 건다."
           },
           {
             "t": "p",
-            "x": "Live Avatar는 구글이 새 Gemini 3.8 Live 모델을 공개하고 일주일쯤 뒤에 나왔다. 구글은 이 모델이 \"시각 입력을 거의 실시간으로 처리한다\"고 설명한다. 고객은 구글이 마련한 기본 아바타 가운데 하나를 고를 수도, 조직이 직접 아바타를 만들 수도 있다. 구글은 Live Avatar 결과물에 눈에 보이지 않는 SynthID 워터마크를 넣고 \"신원을 존중하는\" 안전장치도 함께 둔다고 밝혔다."
+            "x": "구글이 든 예시는 이렇다. 식당에 테라스 좌석을 예약한다. 철물점에 특정 부품 재고가 있는지 확인한다. 미용실 예약을 다음 주 목요일로 옮긴다."
+          },
+          {
+            "t": "p",
+            "x": "구글은 \"전화를 받는 동네 가게와 프런트 직원의 시간을 존중하겠다\"고 했다. \"제미나이가 사용자를 대신해 거는 전화는 실제 고객이 실제 거래를 하는 것\"이라는 설명도 붙였다."
+          },
+          {
+            "t": "p",
+            "x": "구글은 이렇게 덧붙였다. \"AI에게 내 말을 대신하게 하는 일은 진짜 신뢰가 필요한 큰 걸음이다. 그래서 사용자 통제를 중심에 두고 이 경험을 만들었다.\""
+          },
+          {
+            "t": "p",
+            "x": "전화는 제미나이 앱으로 걸린다. 사용자는 실시간 전사를 보면서 언제든 통화를 가로챌 수 있다. 제미나이가 먼저 자기를 소개하고 상대와 대화를 이어간다. 통화 대기도 기다리고 자동 응답 메뉴도 넘어간다."
+          },
+          {
+            "t": "p",
+            "x": "구글은 \"경험을 제대로 다듬으려고 작게 시작한다\"고 했다. 오늘부터 미국에서 픽셀 11, 11 프로, 11 프로 XL, 11 프로 폴드를 쓰면서 Phone by Google 베타에 등록한 제미나이 구독자에게 초기 프리뷰가 풀린다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-muse-charm-keychain",
+      "id": "gadgets-create-my-widget",
       "eyebrow": "AI NEWS",
-      "headline": "메타, AI 비서를\n열쇠고리에 담다",
-      "body": "메타가 열쇠고리 크기의 AI 기기 Muse Charm을 12월에 내놓는다.",
-      "mini_headline": "열쇠고리 AI 비서",
+      "headline": "구글 'Create My Widget',\n플레이 스토어에 먼저 등장",
+      "body": "플레이 스토어 등록 정보에서 AI로 위젯을 만드는 앱의 템플릿과 카테고리가 드러났다.",
+      "mini_headline": "AI 위젯 앱 윤곽",
       "tool": "Gadgets",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-create-my-widget-play-store-listing-3715354/",
       "accent": "#0070f3",
       "motif": "headset",
-      "published_iso": "2026-09-24T14:03:38+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
-            "cap": "메타는 열쇠고리 크기의 Muse Charm을 12월에 출시한다."
-          },
-          {
-            "t": "p",
-            "x": "마크 저커버그가 메타의 개인 AI 에이전트 Muse를 자신이 그리는 AI 비전의 \"중심\"이라고 불렀다. 그리고 이 비서를 담은 손에 쥐는 AI \"참(charm)\" 기기를 공개했다."
-          },
-          {
-            "t": "p",
-            "x": "무대는 실리콘밸리 본사에서 열린 연례 행사 Connect였다. Muse Charm은 열쇠고리에 다는 작은 펜던트 모양이고, 지문 센서로 켠다. 화면에 Muse 아바타가 뜨고 실시간 음성 대화도 된다. 출시는 12월이다. 저커버그는 \"안경을 쓰지 않았다면 Muse와 이야기하고 주변을 보여 주는 가장 빠른 방법\"이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Muse는 2주 전 출시된 뒤 미국 애플·안드로이드 앱스토어에서 가장 많이 내려받은 앱이 됐다. 장보기, 여행 예약, 재무 정리 같은 일상 업무를 자율 봇 여러 개가 대신 처리한다. 저커버그는 이날 실시간 대화 기능도 공개하며 \"최고 수준의 프라이버시와 보안\"을 갖췄다고 강조했다. 무료 요금제를 두고, 길게 보면 거래에서 작은 수수료를 떼어 수익을 낸다는 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "메타 주가는 지난해 9월부터 올해 8월 초까지 4분의 1 넘게 빠졌다가, 9월 8일 Muse 출시 뒤 반등해 시가총액이 3000억 달러 늘었다."
-          },
-          {
-            "t": "p",
-            "x": "안경 소식도 있었다. 카메라 없이 음성으로만 쓰는 Ray-Ban 제품과 새 프레임, 더 싼 라인업이 나왔고, 내년 봄에는 Quest 3보다 다섯 배 가벼운 1300달러짜리 VR 안경이 출시된다. Muse도 곧 안경에 들어간다. 안경을 쓴 채 영상통화를 하면 초사실적인 디지털 아바타가 얼굴을 대신한다."
-          },
-          {
-            "t": "p",
-            "x": "과제도 남았다. 이메일, 금융 앱, 캘린더 같은 개인 데이터를 봇에 연결하라고 소비자를 설득해야 한다. 메타는 해커가 남의 Muse 에이전트를 장악할 수 있는 취약점을 이미 한 차례 고쳤고, 아마존은 메타 에이전트가 자사 쇼핑 플랫폼에 들어오지 못하게 막았다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "gadgets-glasses-private-processing",
-      "eyebrow": "AI NEWS",
-      "headline": "메타 스마트 글래스에\nPrivate Processing 온다",
-      "body": "글래스에 메타도 데이터를 못 보는 Private Processing이 들어간다.",
-      "mini_headline": "글래스 프라이버시",
-      "tool": "Gadgets",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "published_iso": "2026-09-23T23:30:29.387Z",
-      "og_image": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/191:100/w_1280,c_limit/Meta-Pinky-Promise-Gear-2296204329.jpg"
-          },
-          {
-            "t": "p",
-            "x": "메타가 연례 행사 Meta Connect에서 격리형 AI 처리 방식인 Private Processing을 Ray-Ban Meta 스마트 글래스에 넣겠다고 발표했다. 지난해 WhatsApp용으로 만든 기능으로, 메타가 사용자 데이터에 손대지 않은 채 AI 비서가 사용자를 알아 가고 요청을 처리하게 해 준다."
-          },
-          {
-            "t": "p",
-            "x": "메타는 보도자료에 \"AI 글래스는 대화 통역이나 메모·대화 요약 같은 초능력을 줄 수 있다\"고 적었다. 그리고 \"사용자의 세계를 깊이 아는 초개인화 AI를 더 강한 프라이버시와 함께 어떻게 만들 것인가\"라는 질문에 답하려 했다고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "Private Processing은 메타 자신을 포함한 모든 외부로부터 데이터를 지키는 클라우드 AI 처리를 목표로 한다. 글래스에서는 AI 비서와 나눈 대화와 명령, 비공개 받아쓰기와 메시지까지 보호할 수 있다. 어떤 기능을 지원할지는 아직 밝히지 않았다. 메타는 지난해 이 기술을 WhatsApp과 Meta AI 앱에 도입했고, WhatsApp의 Incognito Chat도 여기에 기댄다."
-          },
-          {
-            "t": "p",
-            "x": "메타 엔지니어링 디렉터 Pritam Shah는 WIRED에 \"플랫폼은 준비됐고 작동도 한다. 백서나 블로그 글에 그치지 않는다\"고 말했다. 지금 발표한 건 보안·프라이버시 커뮤니티, 제3자 감사 기관과 함께 일을 시작하기 위해서라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "메타는 오래전부터 사용자 사생활을 다루는 방식으로 비판받았다. 올해만 해도 얼굴 인식 기술 활용, 글래스가 성범죄에 악용될 수 있다는 우려로 몇 달째 논란이 이어졌다. 일부는 이 제품을 \"변태 안경\"이라 부르고, 근처의 메타 글래스를 감지하는 ZuckOff 같은 앱까지 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "이달 초 나온 Muse AI 에이전트도 보안과 프라이버시를 앞세웠다. 메타는 Muse의 클라우드 환경 Secure VM에 이어, 메타조차 데이터에 접근하지 못하게 하는 Confidential VM을 개발하고 있다. Muse도 곧 글래스에 들어온다."
-          },
-          {
-            "t": "p",
-            "x": "다만 Private Processing은 아직 글래스에서 쓸 수 없다. Shah도 언제 들어올지, 어떤 기능이 함께할지 일정을 내놓지 않았다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "gadgets-photos-redact-blur",
-      "eyebrow": "AI NEWS",
-      "headline": "구글 포토 Redact,\n민감한 정보를 손쉽게 가린다",
-      "body": "구글 포토의 새 AI 도구 Redact가 사진 속 민감한 부분을 흐려 준다.",
-      "mini_headline": "구글 포토 Redact",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "published_iso": "2026-09-24T17:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/google-photos-new-redact-tool-will-make-it-easy-to-hide-sensitive-information/l-intro-1790251201.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+            "cap": "Create My Widget 플레이 스토어 등록 정보"
           },
           {
             "t": "p",
-            "x": "앱에 새로 들어온 여러 기능 가운데 하나다."
+            "x": "구글이 Create My Widget 앱을 플레이 스토어에 올렸다. 등록 정보의 스크린샷에 앱이 지원할 위젯 카테고리와 템플릿이 그대로 담겼다. 안드로이드 폰과 구글북 노트북에서 어떤 모습일지도 보인다."
           },
           {
             "t": "p",
-            "x": "구글이 포토 앱의 최신 AI 업데이트를 공개했다. 그중 Redact는 민감한 정보든 뭐든 이미지에서 원하는 부분을 흐리게 가리는 도구다. 자동차 사진에서 번호판을 감추고 싶다면 Redact로 그 부분을 \"픽셀화된\" 블록으로 바꾸면 된다. Redact는 새로 손본 Markup 기능에 들어 있고, Markup에는 새 글꼴과 펜·형광펜 굵기를 세밀하게 맞추는 슬라이더도 생겼다. 새 Markup 도구는 전 세계 안드로이드 구글 포토 사용자에게 배포되는 중이다."
+            "x": "구글은 I/O 2026 직전에 Create My Widget을 예고했다. 필요에 딱 맞는 위젯을 직접 만들게 해주겠다는 약속이었다. 그 뒤 몇 달간 소식이 없다가 이번 등록으로 윤곽이 잡혔다."
           },
           {
             "t": "p",
-            "x": "Wardrobe 기능도 더 많은 사용자에게 열린다. 미국·인도·브라질의 안드로이드나 iOS 사용자라면 아직 없더라도 곧 쓸 수 있다. 라이브러리 속 사진에서 옷과 장신구를 모아 목록을 만들고, 이를 보며 스타일링 아이디어를 얻는 기능이다."
+            "x": "9to5Google이 먼저 찾아낸 등록 정보에는 안드로이드 폰과 구글북 노트북 양쪽의 UI 스크린샷이 여러 장 올라와 있다. 원하는 위젯을 자연어로 설명하면 나머지는 제미나이가 처리한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-1.jpg",
+            "cap": "자연어로 위젯을 만드는 화면"
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-3.jpg",
+            "cap": "카테고리별 위젯 아이디어"
           },
           {
             "t": "p",
-            "x": "Gemini Spark 안에서 포토를 쓰는 방식도 다시 손봤다. 미국의 Google AI Pro·Ultra 구독자는 프롬프트 한 줄로 사진을 찾고 편집한다. 안드로이드에서는 Moods 기능으로 빈티지풍 필터를 입힐 수 있다. 일부 국가의 안드로이드·iOS 사용자는 본인 얼굴로 레드카펫 사진이나 포토부스 사진을 만들어 주는 Remix 템플릿 15종을 새로 쓸 수 있다."
+            "x": "앱은 콤보 위젯, 중요한 날짜, 날씨 알림, 데일리 브리프 같은 카테고리를 먼저 보여준다. 카테고리마다 출발점으로 쓸 위젯 아이디어가 몇 개씩 들어 있다. 만든 위젯은 홈 화면에 올리기 전에 고치고 다듬을 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-5.jpg",
+            "cap": "구글북 노트북에서의 화면"
+          },
+          {
+            "t": "p",
+            "x": "구글북 노트북에서는 이벤트와 여행, 일상 습관, 도구와 팁 같은 카테고리가 더 붙을 수도 있다. 만드는 흐름은 같다. 프리셋을 손보거나, 원하는 걸 말로 설명하면 무거운 일은 제미나이가 맡는다."
+          },
+          {
+            "t": "p",
+            "x": "플레이 스토어에 올라온 버전은 \"1.27.983746769.0-desktop_release\"다. 곧 출하되는 구글북 노트북을 앞둔 준비로 보인다."
           }
         ]
       }
     },
     {
-      "id": "gadgets-ios27-cleanup-vs-photoshop",
+      "id": "gadgets-surface-copilot",
       "eyebrow": "AI NEWS",
-      "headline": "iOS 27 AI 사진 편집,\n포토샵과 나란히 놓고 보니",
-      "body": "iOS 27 Clean Up과 Extend를 사진 여섯 장으로 포토샵과 겨뤄 봤다.",
-      "mini_headline": "애플 대 어도비",
+      "headline": "마이크로소프트, 'Copilot+ PC'\n간판을 내려놓다",
+      "body": "마이크로소프트가 새로 내놓은 서피스 노트북에는 코파일럿+ PC 브랜딩이 없다.",
+      "mini_headline": "Copilot+ 간판 철수",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
-      "accent": "#eb367f",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "accent": "#7928ca",
       "motif": "headset",
-      "published_iso": "2026-09-24T15:25:43+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-vs-photoshop.jpg?quality=82&strip=all&resize=1200,628"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+            "cap": "2024년 5월 마이크로소프트 레드먼드 캠퍼스의 코파일럿+ PC 데모 공간. 사진: Chona Kasinger/Bloomberg via Getty Images"
           },
           {
             "t": "p",
-            "x": "필자는 어도비가 2023년 생성형 AI 기능을 내놓은 뒤로 포토샵으로 불필요한 물체를 지우고 사진을 넓혀 왔다. 결과는 들쭉날쭉했지만 마스킹과 복제, 손으로 칠하던 예전 방식보다는 훨씬 빨랐다. 애플이 iOS 27에서 Clean Up을 크게 고치고 Extend를 새로 넣자, 두 회사 도구를 직접 맞붙여 보기로 했다."
+            "x": "마이크로소프트는 2024년부터 '코파일럿+ PC'를 팔아왔다. 어떤 윈도우 기기가 AI 작업을 로컬에서 돌릴 수 있는지 쉽게 알아보게 하려는 마케팅이었다. 그런데 이번 주 발표한 새 서피스 PC에는 코파일럿+ PC 표시가 어디에도 없다."
           },
           {
             "t": "p",
-            "x": "시험에는 친구 Jürg가 스위스와 유럽을 여행하며 찍은 사진 여섯 장을 썼다. 세 장은 물체 지우기, 세 장은 사진 넓히기용이다. 촬영은 iPhone 17 Pro Max, 편집은 iOS 27.0을 올린 iPhone 18 Pro Max에서 했고 Clean Up은 Auto로 뒀다. 포토샵은 MacBook Pro의 Photoshop 27.10.0에서 \"Firefly Fill & Expand\" 모델로 생성형 채우기를 돌리고 프롬프트는 비워 뒀다."
+            "x": "서피스 총괄 부사장 브렛 오스트럼은 윈도우 센트럴에 새 서피스가 \"코파일럿+ PC로 불리지 않는다\"고 말했다. 요건은 다 충족하는데도 그렇다. \"예전에 우리가 코파일럿+ 기기라고 정한 기준은 전부 만족합니다. 엣지에서 돌아가는 AI, 하이브리드 솔루션이라는 이야기는 계속 밀고 갑니다.\""
+          },
+          {
+            "t": "p",
+            "x": "코파일럿+ PC 요건은 램 16GB, 저장장치 256GB, 40 TOPS 이상 NPU 내장이다. 10월 13일 나오는 서피스 프로 12인치(2세대)와 서피스 랩톱 13인치(2세대)는 퀄컴 스냅드래곤 X2 플러스를 쓰고 80 TOPS짜리 퀄컴 헥사곤 NPU를 달았다."
+          },
+          {
+            "t": "p",
+            "x": "퀄컴 컴퓨트 부문 SVP 케다르 콘답도 윈도우 센트럴에 비슷한 말을 했다. \"코파일럿+ PC의 목적은 NPU 경험을 전달하는 것이었습니다. 45 TOPS NPU처럼 일정한 기준과 지표로 기기 범주를 정하는 일이었죠. 그렇게 보면 이제 용어만 안 쓰고 같은 경험을 그대로 주는 셈입니다.\""
+          },
+          {
+            "t": "p",
+            "x": "지난 5월까지 살아 있던 마케팅 페이지에서 코파일럿+ PC는 \"역대 가장 빠르고 똑똑한 윈도우 PC\"를 대표하는 \"AI PC와 노트북의 한 계급\"이었다. 그 랜딩 페이지는 지금 '퍼포먼스 PC' 페이지로 넘어간다. 코파일럿+ PC를 아직 언급하긴 하는데 훨씬 덜 눈에 띈다."
+          },
+          {
+            "t": "p",
+            "x": "이유는 여러 갈래다. 하나는 리콜(Recall) 기능을 끝까지 따라다닌 보안 위험이다. 프라이버시 쪽에서는 여전히 걱정하는 사안이다."
+          },
+          {
+            "t": "p",
+            "x": "마케팅이 이미 할 일을 다 했다는 해석도 있다. 생성 AI 기대가 부풀던 때 'AI PC'라는 개념을 밀어 올렸고, 코로나 이후 PC 판매가 가라앉은 시점에 새 컴퓨터를 살 이유를 만들어줬다. 2024년 10월 사티아 나델라는 코파일럿+ PC가 \"새 고객을 끌어오고 있다\"고 했고, 2025년 1월에는 연말 시즌 미국 프리미엄 노트북 판매의 15%를 차지했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "2년이 지난 지금 AI PC라는 개념은 힘이 빠졌다. IDC의 지테시 우브라니는 1월 Ars Technica에 램 부족이 겹치기 전부터 제조사들이 AI PC 메시지를 밀기 어려워했다고 말했다. \"클라우드 선택지가 널려 있고 온디바이스 AI의 쓸모는 제한적이라, AI PC에 대한 관심은 한동안 흔들려왔습니다.\""
+          },
+          {
+            "t": "p",
+            "x": "델도 2025년에 붙였던 노트북 브랜딩을 올해 없앴다. 2026년 라인업에서 AI PC 언급은 거의 사라졌다. 엔비디아의 RTX 스파크 노트북 GPU도 변수다. 마이크로소프트는 올가을 RTX 스파크를 넣은 '서피스 랩톱 울트라'를 내놓는다고 이미 확인했다. 코파일럿을 잘 돌리는 PC라는 오래된 메시지보다 RTX 스파크가 마케팅 앞자리를 차지할 수도 있다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "gadgets-blue-yeti2",
+      "eyebrow": "AI NEWS",
+      "headline": "로지텍 블루 예티 2,\nAI 노이즈 제거를 품다",
+      "body": "160달러짜리 블루 예티 2는 3D 음성 추적과 AI 노이즈 제거를 달았다.",
+      "mini_headline": "블루 예티 2 공개",
+      "tool": "Gadgets",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg",
+            "cap": "블루 예티 2. 사진: Logitech"
+          },
+          {
+            "t": "p",
+            "x": "블루 예티는 2009년에 나와 크리에이터와 팟캐스터, 스트리머가 가장 많이 쓰는 USB 마이크가 됐다. 로지텍이 블루 마이크로폰스를 사들인 지 8년, 이제야 후속작이 나온다."
+          },
+          {
+            "t": "p",
+            "x": "새 예티 2는 디자인이 한결 깔끔해졌고 3D 근접 센서와 AI 기반 노이즈 감소, 내장 디스플레이까지 달았다. 대신 색은 블랙과 화이트 두 가지뿐이다. 시작 가격은 159.99달러."
+          },
+          {
+            "t": "p",
+            "x": "로지텍 설명으로는 예티 2의 근접 센서가 소리를 3D로 추적해 게인과 이퀄라이저, 지향 패턴을 실시간으로 알아서 조정한다. AI 디노이저는 키보드 소리, 마우스 클릭, 팬 소음 같은 잡음을 걸러낸다."
           },
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_02_iOS.jpeg?quality=82&strip=all",
-            "cap": "iOS 27 Clean Up으로 빨간 의자를 지운 결과"
+            "src": "https://cdn.mos.cms.futurecdn.net/apv7UKVLn8tepST76TtRbX.jpg",
+            "cap": "1.3인치 컬러 LED 화면. 사진: Logitech"
           },
+          {
+            "t": "p",
+            "x": "원본을 인기작으로 만든 USB 연결은 그대로 남았다. 여기에 설정을 즉석에서 바꾸기 쉬운 장치가 더해졌다. 1.3인치 컬러 LED 화면에는 8비트 예티 마스코트가 떠서 정보와 팁을 알려준다."
+          },
+          {
+            "t": "p",
+            "x": "다이얼만 돌려 설정을 손보거나 프리셋을 갈아탈 수 있어 전용 소프트웨어가 없어도 된다. 더 깊게 만지고 싶으면 로지텍 G Hub와 바로 연동해 커뮤니티가 만든 Blue VO!CE 프로필을 쓰거나 아바타를 직접 올릴 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "로지텍은 마이크와 함께 G Pro 게이밍 제품도 내놨다. 프로 X3 슈퍼스트라이크 마우스, 프로 X 컨트롤 마우스패드, 프로 X2 래피드 키보드, 프로 X3 라이트스피드 헤드셋으로, 모두 프로 e스포츠 선수의 의견을 받아 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "프로 X3 슈퍼스트라이크는 로지텍 자체 HITS 기술을 쓰며 전력 효율이 50% 좋아졌다고 한다. 프로 X2 래피드 키보드에는 자석 스위치와 래피드 트리거, 키 프라이오리티, OLED 화면이 들어갔다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "gadgets-optimus-hands",
+      "eyebrow": "AI NEWS",
+      "headline": "테슬라 옵티머스,\n손에서 발이 묶이다",
+      "body": "손과 팔뚝을 아직 사람이 손으로 조립해야 해 옵티머스 양산이 더디다.",
+      "mini_headline": "옵티머스, 손이 관건",
+      "tool": "Gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_02b_ps_04.jpeg?quality=82&strip=all",
-            "cap": "포토샵 생성형 채우기로 같은 의자를 지운 결과"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "cap": "이미지: Cath Virginia / The Verge, Getty Images"
           },
           {
             "t": "p",
-            "x": "노란 문 앞 빨간 의자를 지운 첫 시험에서 Clean Up은 의자 그림자 자리까지 주변 질감과 조명에 맞게 채웠다. 흠이라면 뒤쪽 리벳 하나가 사라진 정도였다. 포토샵은 그림자를 기름 얼룩처럼 남겼고 리벳도 어긋났다. 빵 접시를 지운 사진에서도 Clean Up은 머그와 병의 반사까지 그려 넣었다. 나뭇잎과 흰 꽃 뒤의 두 사람을 지우는 시험은 달랐다. Clean Up은 뭉개진 흔적과 강아지 머리의 \"유령\"을 남겼고, 포토샵이 깔끔하게 해냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/js_photo_03_iOS.jpeg?quality=82&strip=all",
-            "cap": "iOS 27 Extend로 넓힌 사진"
+            "x": "주당 옵티머스 로봇 2만 대. 테슬라가 세운 이 목표가 만만치 않다고 한다. 디 인포메이션은 테슬라가 지난달 \"주당 수백 대\"를 만들었다고 보도했다. 올해 초 모델 S와 모델 X 생산 라인을 옵티머스용으로 돌린 뒤의 성적이다."
           },
           {
             "t": "p",
-            "x": "Extend 시험은 대체로 애플이 앞섰다. 구불구불한 옛 계단 사진에서는 Extend가 계단 끝을 천장 선풍기 날개처럼 둥글게 말았고, 포토샵이 나뭇결까지 잘 이어 붙였다. 하지만 폭포와 다리가 있는 풍경에서 포토샵은 지붕선을 망가뜨리고 물줄기 방향까지 바꾼 \"뻔한 AI 슬롭\"을 내놨다. 실내 사진에서도 다리가 너무 많은 탁자를 그렸다."
+            "x": "라인을 돌려쓰는 방식이 오히려 생산에 발목을 잡는다. 부품을 정확히 맞추는 일부터 걸린다. 디 인포메이션은 이렇게 짚었다. \"옵티머스 생산 라인이 새것인 데다, 옵티머스 부품은 자동차 부품보다 훨씬 작고 훨씬 정밀하게 맞물려야 한다.\""
           },
           {
             "t": "p",
-            "x": "필자 판단으로는 둘 다 완벽하지 않지만 사실감에서는 애플이 어도비를 근소하게 앞선다. 포토샵은 구독이 필요한 대신 시험한 기능이 생성형 크레딧을 쓰지 않는다. 애플도 일부 Apple Intelligence 기능에 \"사용량 제한이 있을 수 있다\"고 밝혔다. 결과는 사진과 장면에 따라 달라질 수 있다."
+            "x": "지금 나오는 'V3' 옵티머스도 손과 팔뚝에 \"나사와 작은 부품이 100개 넘게 들어가고, 아직은 작업자가 손으로 조립해야 한다\"고 한다."
+          },
+          {
+            "t": "p",
+            "x": "이 로봇들은 이전 세대보다 가볍고 카메라도 늘었다. 다만 개발 중인 '센싱 글러브'는 아직 빠져 있다. 손 전체를 갈아끼우지 않고 촉각 센서만 바꿀 수 있게 해 내구성을 올려줄 부품이다."
+          },
+          {
+            "t": "p",
+            "x": "옵티머스는 몇 년째 일정이 밀려왔다. 그사이 일론 머스크는 옵티머스가 테슬라의 \"역대 최대 제품\"이 될 거라고 큰소리를 쳤다. 지금은 제한된 구역에서 특정 작업에만 내부적으로 쓰인다. 범용도 아니고 원격 조작도 아니다."
+          },
+          {
+            "t": "p",
+            "x": "테슬라는 처음에는 로봇을 팔지 않고 임대할 계획이라고 한다. 그렇게 모은 학습 데이터로 로봇을 개선한다는 구상이다. 문제는 로봇을 먼저 세상에 내보내야 한다는 것."
+          },
+          {
+            "t": "p",
+            "x": "한편 다른 개발사들은 사람을 덜 닮은 형태로 방향을 틀고 있다. 이달 초에는 중국 규제 당국이 휴머노이드 로봇 기업의 IPO 상장을 보류하기 시작했다는 이야기도 나왔다."
           }
         ]
       }
