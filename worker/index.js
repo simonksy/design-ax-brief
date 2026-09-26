@@ -4,6 +4,7 @@ import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } fr
 import { getEntitlement } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
 import { patreonAuthorizeUrl, exchangeCode, fetchIdentity, membershipStatus } from "./lib/patreon.js";
+import { normalize, insertEvents, visitorId, refHost, utcDay, funnel, bySection, daily, referrers } from "./lib/analytics.js";
 
 const json = (obj, status = 200, extra = {}) =>
   new Response(JSON.stringify(obj), { status, headers: { "content-type": "application/json", ...extra } });
@@ -85,6 +86,46 @@ export default {
       const session = await signSession(email, env.SESSION_SIGNING_KEY);
       const location = entitledNow ? "/" : "/?patreon=inactive";
       return new Response(null, { status: 302, headers: { location, "set-cookie": sessionSetCookie(session) } });
+    }
+
+    // First-party funnel analytics collector. Answers 204 immediately and writes via
+    // ctx.waitUntil, so a slow or failing D1 can never delay or break a page view.
+    // Always 204 — the client must never retry or surface an error for telemetry.
+    if (p === "/api/e" && request.method === "POST") {
+      try {
+        const body = await request.json();
+        const now = Date.now();
+        const day = utcDay(now);
+        const email = await currentEmail(request, env);
+        const entitled = email ? (await getEntitlement(env.DB, email)).entitled : false;
+        const rows = normalize(body, {
+          ts: Math.floor(now / 1000),
+          day,
+          visitor: await visitorId(request, env, day),
+          ref: refHost(request.headers.get("referer"), url.host),
+          country: request.headers.get("cf-ipcountry") || null,
+          entitled,
+        });
+        if (rows.length) ctx.waitUntil(insertEvents(env.DB, rows).catch(() => {}));
+      } catch { /* malformed telemetry is dropped silently, never surfaced */ }
+      return new Response(null, { status: 204 });
+    }
+
+    // Funnel readout. Owner-only: ADMIN_EMAIL must match the signed session, so an
+    // ordinary paying subscriber cannot read site-wide traffic.
+    if (p === "/api/stats") {
+      const email = await currentEmail(request, env);
+      const admin = (env.ADMIN_EMAIL || "").trim().toLowerCase();
+      if (!admin) return json({ reason: "not_configured" }, 503);
+      if (!email || email !== admin) return json({ reason: "forbidden" }, 403);
+      const days = Math.min(Math.max(parseInt(url.searchParams.get("days") || "14", 10) || 14, 1), 90);
+      return json({
+        days,
+        funnel: await funnel(env.DB, days),
+        sections: await bySection(env.DB, days),
+        daily: await daily(env.DB, days),
+        referrers: await referrers(env.DB, days),
+      });
     }
 
     if (p === "/api/me") {

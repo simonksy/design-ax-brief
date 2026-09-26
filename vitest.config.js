@@ -15,6 +15,7 @@ export default defineWorkersConfig({
             BASE_URL: "http://localhost",
             PATREON_CLIENT_ID: "test-patreon-client",
             PATREON_CLIENT_SECRET: "test-patreon-secret",
+            ADMIN_EMAIL: "owner@x.com",
           },
         },
       },

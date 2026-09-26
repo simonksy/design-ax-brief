@@ -59,6 +59,10 @@
 <!-- Geist component bundle (plain JS) -->
 <script src="_ds/vercel-geist-design-system-c2ba0d99-87b1-4991-ab2e-5e49c7f778db/_ds_bundle.js"></script>
 
+<!-- First-party funnel telemetry (no cookies, no third party). Loaded before the
+     app so window.axTrack exists by the first mount. -->
+<script src="axbrief-analytics.js"></script>
+
 <!-- Same generated data as the small-card page; only the design (app) differs.
      Cache-busted per load so a fresh publish always shows the latest. -->
 <script>(function () {
