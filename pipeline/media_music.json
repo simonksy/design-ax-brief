@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "music",
   "media": [
     {
-      "id": "music-symphonyos-v2",
-      "type": "image",
-      "src": "pipeline/media/music-symphonyos-v2.jpg"
+      "id": "music-melofty-axom-max-ai-rig",
+      "type": "video",
+      "src": "pipeline/media/music-melofty-axom-max-ai-rig.mp4",
+      "poster": "pipeline/media/music-melofty-axom-max-ai-rig.jpg"
     },
     {
-      "id": "music-resolume-728-vision",
+      "id": "music-spotify-meta-muse-agent",
       "type": "image",
-      "src": "pipeline/media/music-resolume-728-vision.jpg"
+      "src": "pipeline/media/music-spotify-meta-muse-agent.jpg"
     },
     {
-      "id": "music-nagi-nocode-plugins",
+      "id": "music-sharks-suno-goal-song",
       "type": "image",
-      "src": "pipeline/media/music-nagi-nocode-plugins.jpg"
+      "src": "pipeline/media/music-sharks-suno-goal-song.png"
     },
     {
-      "id": "music-spotify-taste-profile-us",
+      "id": "music-sony-ariam-coalition",
       "type": "image",
-      "src": "pipeline/media/music-spotify-taste-profile-us.png"
+      "src": "pipeline/media/music-sony-ariam-coalition.png"
     },
     {
-      "id": "music-landr-mila-fraud",
+      "id": "music-fred-again-ai-stance",
       "type": "image",
-      "src": "pipeline/media/music-landr-mila-fraud.jpg"
+      "src": "pipeline/media/music-fred-again-ai-stance.jpg"
     }
   ]
 }

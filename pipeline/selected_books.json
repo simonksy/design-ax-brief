@@ -1,129 +1,76 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "books",
-  "generated_by": "ax-curator",
-  "selection_mode": "curator-auto (user deferred — \"알아서\")",
-  "count": 5,
   "picks": [
     {
       "rank": 1,
       "tool": "Books",
+      "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "headline": "Storytel launched AI-generated audiobook recaps in Finland without telling authors",
-      "url": "https://yle.fi/a/74-20247235",
-      "source": "Yle",
-      "published_iso": "2026-09-23T18:34:55+03:00",
-      "og_image": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
-      "excerpt": "Storytel's AI 'Recaps' summarise the last 5-15 minutes of an audiobook; Finnish author Suvi Auvinen and the Writers' Union object that authors weren't notified and AI summaries can distort works. Storytel says publishers got a month's notice and an opt-out. (Finnish-language article)",
-      "rationale": "A live AI feature from a major audiobook platform, plus a concrete consent dispute (the publisher opt-out versus authors never being told). It changes what authors should check in their audio contracts right away.",
-      "framing_note": "WRITER: explain what Recaps does (it summarises the last 5-15 minutes), then set out both sides: the author and union objections, and Storytel's publisher notice and opt-out. The source is in Finnish, so the enrichment pass must translate carefully and attribute quotes."
+      "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+      "source": "The Guardian",
+      "published_iso": "2026-09-26T11:00:36Z",
+      "og_image": "https://i.guim.co.uk/img/media/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74d7555c5ff03c9f1d0748fdc68055e",
+      "excerpt": "Oxford University will let OpenAI train its models on Bodleian Library collections, as staff voice concerns over reputational risk of partnering with ChatGPT's maker. New library/archive AI-training deal (distinct from the Japan used-books and BookPact stories).",
+      "rationale": "Freshest, highest-credibility item: a named major library signing an AI-training deal is a new event, distinct from the CRL model-terms paper (09-20) and Japan used-books story (09-26)."
     },
     {
       "rank": 2,
       "tool": "Books",
-      "accent": "#7928ca",
+      "category": "books",
+      "accent": "#0070f3",
       "motif": "swatch",
-      "headline": "We Don't Want Shonen Jump AI Manga Translations",
-      "url": "https://www.siliconera.com/we-dont-want-shonen-jump-ai-manga-translations/",
-      "source": "Siliconera",
-      "published_iso": "2026-09-25T16:00:00+00:00",
-      "og_image": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurv2.png",
-      "excerpt": "Shueisha appears to be surveying MANGA Plus readers on AI translation, a sign it is weighing machine-translated manga releases; the piece argues MT can't replace human localization.",
-      "rationale": "It suggests the biggest manga publisher is testing whether readers will accept AI-translated releases on MANGA Plus. This is a new signal, separate from the 09-12 Webtoon translation card.",
-      "framing_note": "WRITER: lead with the fact (the MANGA Plus reader survey on AI translation) and present the argument against machine translation as Siliconera's opinion. Do not say Shueisha has decided anything; it is only surveying."
+      "title": "If AI imagines before we do, what is left for illustrators?",
+      "url": "https://www.thebookseller.com/comment/ai-imagines-before-illustrators-what-is-left",
+      "source": "The Bookseller",
+      "published_iso": "2026-09-24T11:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+      "excerpt": "Illustrator Daniela Frongia on publishers using generative AI to produce early cover and design ideas before briefing illustrators, and what that does to the illustrator's role. Cover/illustration angle.",
+      "rationale": "Most design-relevant piece in the pool: how publishers now use gen-AI for cover concepts before briefing illustrators; different author and argument from the 09-14 Scheffler comment."
     },
     {
       "rank": 3,
       "tool": "Books",
-      "accent": "#2ec5c5",
+      "category": "books",
+      "accent": "#7928ca",
       "motif": "swatch",
-      "headline": "일본 헌책방 매출 5배 증가…AI 학습용으로 50톤이 미국행, 스캔 뒤 폐기",
-      "url": "https://aimatters.co.kr/news-report/53163/",
-      "source": "AI매터스",
-      "published_iso": "2026-09-25T09:37:48+09:00",
-      "og_image": "https://aimatters.co.kr/wp-content/uploads/2026/09/10_japan-used-books-ai.jpg",
-      "excerpt": "일본 헌책방 매출이 최대 5배 늘었다. 2022년 이전 출간 도서를 톤 단위로 사들여 50톤 넘게 미국으로 수출, AI 학습용으로 스캔한 뒤 폐기하는 흐름이다.",
-      "rationale": "New, concrete data on book scanning for AI training: Japanese used-book sales up as much as fivefold and over 50 tonnes shipped to the US. Earlier cards covered Amazon's US warehouse; this is a new market and new numbers.",
-      "framing_note": "WRITER: lead with the numbers (up to 5x sales, 50+ tonnes, books from before 2022). You may mention the European Writers' Council condemnation of 'destructive scanning' (25 Sep) as context in one line; it was folded in as a within-pool duplicate."
+      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움",
+      "url": "https://platum.kr/archives/295202",
+      "source": "플래텀",
+      "published_iso": "2026-09-26T18:46:28+09:00",
+      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/09/image-87.png",
+      "excerpt": "Study: readers who had used AI were better at telling AI-written fiction from human fiction than well-read literature fans, but overall participants guessed the author at or below chance. OFF-LIST (Korean).",
+      "rationale": "Fresh research finding that bears directly on this month's AI-authorship accusation wave (Orelien, Falade), adding evidence rather than another accusation story."
     },
     {
       "rank": 4,
       "tool": "Books",
-      "accent": "#eb367f",
+      "category": "books",
+      "accent": "#2ec5c5",
       "motif": "swatch",
-      "headline": "\"내가 바로 웹툰 주인공\"⋯네이버웹툰 AI 캐릭터챗으로 만드는 새 이야기",
-      "url": "https://www.inews24.com/view/2008992",
-      "source": "아이뉴스24",
-      "published_iso": "2026-09-25T10:45:01+09:00",
-      "og_image": "https://image.inews24.com/v1/eb3d3a460a5de7.jpg",
-      "excerpt": "네이버웹툰의 AI 스토리챗 '바이어스(byUs)'가 출시 10주 만에 누적 대화 1400만건을 돌파. 작가가 승인·검수한 IP 설정 위에서 독자가 주인공이 돼 2차 서사를 만들고, 원작 조회수도 67% 늘었다.",
-      "rationale": "A shipping AI reading product with real traction: 14M conversations in 10 weeks and 67% more views of the original works. It is also a model where authors approve the settings the AI works from. This is a positive, product-side story that balances the controversy items.",
-      "framing_note": "WRITER: lead with the numbers and how it works (author-approved IP settings, reader as the protagonist). Attribute the metrics to Naver Webtoon."
+      "title": "Google's New AI Voice Model Copies a Voice From 30 Seconds - Voice Over Talent Industry News",
+      "url": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/",
+      "source": "Voice Over Herald",
+      "published_iso": "2026-09-26T16:10:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-4.jpg",
+      "excerpt": "Google's new Gemini 3.8 speech models can clone a voice from a 30-second sample, but only after the voice owner records spoken consent. What it means for narrators and voice talent. OFF-LIST (narration-voices angle; Gemini TTS may also surface in other sections).",
+      "rationale": "New model release with a consent-gated cloning step, framed for audiobook narrators; actionable for audio production and new relative to the Storytel recaps and Spotify narration items."
     },
     {
       "rank": 5,
       "tool": "Books",
-      "accent": "#0070f3",
+      "category": "books",
+      "accent": "#eb367f",
       "motif": "swatch",
-      "headline": "Novelist accused of using AI to write book removed from French prize list",
-      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-      "source": "The Guardian",
-      "published_iso": "2026-09-25T16:14:32+00:00",
-      "og_image": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
-      "excerpt": "Thélyson Orélien's debut was dropped from the Prix Goncourt list after AI-authorship claims spread on social media.",
-      "rationale": "A new development, not a repeat: the 09-24 Bookseller card covered only the accusation, with both publishers backing the author. This card is about the first real consequence, removal from the Goncourt list. It is a precedent for how prizes handle AI-authorship claims.",
-      "framing_note": "WRITER: the headline and body must be about the removal from the Prix Goncourt list, not a re-telling of the accusation. Refer to the earlier accusation in one clause at most. The claims are still unproven, so attribute them and do not state that AI was used."
+      "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
+      "url": "https://www.hani.co.kr/arti/culture/book/1278045.html",
+      "source": "한겨레",
+      "published_iso": "2026-09-16T11:22:00+09:00",
+      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/697/imgdb/original/2026/0916/20260916501373.webp",
+      "excerpt": "With nonfiction/general-interest sales hit hard by AI answer engines, Korean trade-nonfiction publishers are moving into literary fiction. Market effect of AI on publishing. OFF-LIST (Korean).",
+      "rationale": "Exclusive reporting on a concrete market shift, with publishers changing their lists because AI answer engines are eating nonfiction sales. Chosen over the Apex eden press release and lower-tier local items."
     }
-  ],
-  "dropped": [
-    {
-      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
-      "source": "European Writers' Council",
-      "reason": "Within-pool duplicate of the book-scanning story cluster. Kept the AI매터스 piece (rank 3) for its concrete new data; the EWC statement can appear as a line of context."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/openai-trained-models-on-books-from-sketchy-af-libgen-unsealed-court-filings-reveal",
-      "source": "The Bookseller",
-      "reason": "Content DUPLICATE: the same unsealed OpenAI/LibGen filings were published 09-22 (PW 'unsealed files show OpenAI, Microsoft knew copying was illegal')."
-    },
-    {
-      "url": "https://www.thebookseller.com/news/the-flip-tackles-disinformation-at-event-with-sarah-wynn-williams-and-joanna-prior",
-      "source": "The Bookseller",
-      "reason": "Weak AI angle: an event write-up where AI is incidental."
-    },
-    {
-      "url": "https://pressat.co.uk/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-9011f8048348b4a106a9ab6096d78ba2/",
-      "source": "Pressat (Apex CoVantage press release)",
-      "reason": "Vendor press release for a product not yet launched (debuts 7 Oct), with no image. Weaker than the picks."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=lo9p8bVnDxE",
-      "source": "Novelcrafter (YouTube)",
-      "reason": "A livestream whose main subject is writer's block, not a discrete AI release. Held as a first backfill."
-    },
-    {
-      "url": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
-      "source": "TechRadar",
-      "reason": "Lifestyle trend piece that is mostly about AI photos; the book angle is thin. Held as a backfill."
-    },
-    {
-      "url": "https://www.etnews.com/20260922000490",
-      "source": "전자신문",
-      "reason": "Promotional item about a hub tenant's product, with AI voice only one part of it. Weaker than the picks."
-    }
-  ],
-  "dedup": {
-    "checked_against": "pipeline/news_data.json sections.books (today 09-25 plus days 09-19, 09-22, 09-23, 09-24) and the pipeline/published_urls.json books ledger",
-    "pool_size": 12,
-    "dropped_as_duplicate": 2,
-    "notes": [
-      "No pick shares a URL with any published books card, and all five picks have distinct URLs.",
-      "Rank 5 overlaps the 09-24 Orelien accusation card on topic, but it reports a new event (removal from the prize list), so it was kept on the condition that it is framed that way.",
-      "Rank 2 (Shueisha AI translation survey) is not the 09-12 PW Webtoon translation card: different company, different event.",
-      "Rank 4 (Naver byUs) is not the 09-24 머니투데이 AI web-novel spam card: product traction versus platform spam.",
-      "Outlet spread: five distinct outlets (Yle, Siliconera, AI매터스, 아이뉴스24, The Guardian), one each.",
-      "Topic spread: audiobook AI feature and consent (1), AI manga translation (2), scanning books for training data (3), AI story-chat product (4), prize-eligibility consequence (5)."
-    ]
-  }
+  ]
 }

@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "games",
   "media": [
     {
-      "id": "games-nis-ai-quality",
+      "id": "games-meshy-mora-71-launch",
       "type": "image",
-      "src": "pipeline/media/games-nis-ai-quality.jpg"
+      "src": "pipeline/media/games-meshy-mora-71-launch.jpg"
     },
     {
-      "id": "games-dlss5-melee",
+      "id": "games-pixverse-r2-world-model",
       "type": "video",
-      "src": "pipeline/media/games-dlss5-melee.mp4",
-      "poster": "pipeline/media/games-dlss5-melee.jpg"
+      "src": "pipeline/media/games-pixverse-r2-world-model.mp4",
+      "poster": "pipeline/media/games-pixverse-r2-world-model.jpg"
     },
     {
-      "id": "games-rgg-tupac-no-ai",
+      "id": "games-everboard-evervibe-console",
       "type": "image",
-      "src": "pipeline/media/games-rgg-tupac-no-ai.jpg"
+      "src": "pipeline/media/games-everboard-evervibe-console.jpg"
     },
     {
-      "id": "games-gamescom-3d-tech",
+      "id": "games-ukge-convention-ai-ban",
       "type": "image",
-      "src": "pipeline/media/games-gamescom-3d-tech.jpg"
+      "src": "pipeline/media/games-ukge-convention-ai-ban.jpg"
     },
     {
-      "id": "games-warhorse-15th-ai",
+      "id": "games-steam-needle-haystack-clones",
       "type": "image",
-      "src": "pipeline/media/games-warhorse-15th-ai.jpg"
+      "src": "pipeline/media/games-steam-needle-haystack-clones.jpg"
     }
   ]
 }

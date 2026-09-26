@@ -1,122 +1,167 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "books",
   "window_hours": 336,
-  "generated_at": "2026-09-25T22:00:00Z",
+  "generated_at": "2026-09-26T22:02:39Z",
   "items": [
     {
-      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
       "source": "The Guardian",
-      "published_iso": "2026-09-25T16:14:32+00:00",
-      "og_image": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
-      "title": "Novelist accused of using AI to write book removed from French prize list",
-      "excerpt": "Thélyson Orélien's debut was dropped from the Prix Goncourt list after AI-authorship claims spread on social media. NOTE: follow-up to the 09-24 Bookseller accusation card; only pick if framed as the new prize-removal development.",
-      "category": "books"
+      "category": "books",
+      "published_iso": "2026-09-26T11:00:36Z",
+      "og_image": "https://i.guim.co.uk/img/media/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74d7555c5ff03c9f1d0748fdc68055e",
+      "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
+      "excerpt": "Oxford University will let OpenAI train its models on Bodleian Library collections, as staff voice concerns over reputational risk of partnering with ChatGPT's maker. New library/archive AI-training deal (distinct from the Japan used-books and BookPact stories)."
     },
     {
-      "url": "https://www.siliconera.com/we-dont-want-shonen-jump-ai-manga-translations/",
-      "source": "Siliconera",
-      "published_iso": "2026-09-25T16:00:00+00:00",
-      "og_image": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurv2.png",
-      "title": "We Don't Want Shonen Jump AI Manga Translations",
-      "excerpt": "Shueisha appears to be surveying MANGA Plus readers on AI translation, a sign it is weighing machine-translated manga releases; the piece argues MT can't replace human localization.",
-      "category": "books"
+      "url": "https://www.thebookseller.com/comment/ai-imagines-before-illustrators-what-is-left",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-09-24T11:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
+      "title": "If AI imagines before we do, what is left for illustrators?",
+      "excerpt": "Illustrator Daniela Frongia on publishers using generative AI to produce early cover and design ideas before briefing illustrators, and what that does to the illustrator's role. Cover/illustration angle."
     },
     {
-      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
-      "source": "European Writers' Council",
-      "published_iso": "2026-09-25T11:32:30+00:00",
-      "og_image": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-      "title": "EWC denounces AI Tech's practice of shredding books and calls on Europe's decision-makers to take a firm stand",
-      "excerpt": "The EWC condemns AI firms' 'destructive scanning' of millions of old and rare European books for training data and calls on policymakers to act for authors, publishers and readers.",
-      "category": "books"
-    },
-    {
-      "url": "https://aimatters.co.kr/news-report/53163/",
-      "source": "AI매터스",
-      "published_iso": "2026-09-25T09:37:48+09:00",
-      "og_image": "https://aimatters.co.kr/wp-content/uploads/2026/09/10_japan-used-books-ai.jpg",
-      "title": "일본 헌책방 매출 5배 증가…AI 학습용으로 50톤이 미국행, 스캔 뒤 폐기",
-      "excerpt": "일본 헌책방 매출이 최대 5배 늘었다. 2022년 이전 출간 도서를 톤 단위로 사들여 50톤 넘게 미국으로 수출, AI 학습용으로 스캔한 뒤 폐기하는 흐름이다. (same story cluster as EWC shredding item)",
-      "category": "books"
-    },
-    {
-      "url": "https://yle.fi/a/74-20247235",
-      "source": "Yle",
-      "published_iso": "2026-09-23T18:34:55+03:00",
-      "og_image": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
-      "title": "Storytel launched AI-generated audiobook recaps in Finland without telling authors",
-      "excerpt": "Storytel's AI 'Recaps' summarise the last 5-15 minutes of an audiobook; Finnish author Suvi Auvinen and the Writers' Union object that authors weren't notified and AI summaries can distort works. Storytel says publishers got a month's notice and an opt-out. (Finnish-language article)",
-      "category": "books"
-    },
-    {
-      "url": "https://pressat.co.uk/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-9011f8048348b4a106a9ab6096d78ba2/",
-      "source": "Pressat (Apex CoVantage press release)",
-      "published_iso": "2026-09-23T08:05:08+00:00",
-      "og_image": "",
+      "url": "https://www.prweb.com/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-302887272.html",
+      "source": "Apex CoVantage (PRWeb)",
+      "category": "books",
+      "published_iso": "2026-09-23T17:20:00+01:00",
+      "og_image": "https://mmx.prnewswire.com/media/MS1994083/33.jpg?id=OA2964297&p=facebook",
       "title": "Apex CoVantage to Launch eden, an AI-Powered Editorial Engine for Publishing, at Frankfurt Book Fair",
-      "excerpt": "Apex CoVantage will debut eden, an AI editorial engine for book and academic publishing that flags subject-aware errors and speeds copyediting while keeping editors in charge, at Frankfurt on Oct 7.",
-      "category": "books"
+      "excerpt": "Apex CoVantage will launch eden, an AI editorial engine for book and academic publishing, at Frankfurt on Oct 7: subject-aware error detection and equation checking, with copyeditors accepting 80-90% of suggestions and passes running about 3x faster. OFF-LIST press release (concrete Frankfurt exhibitor launch, no on-list coverage found)."
     },
     {
-      "url": "https://www.thebookseller.com/news/openai-trained-models-on-books-from-sketchy-af-libgen-unsealed-court-filings-reveal",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-23T11:00:00+00:00",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
-      "title": "OpenAI 'trained models' on books from 'sketchy AF' LibGen, unsealed court filings reveal",
-      "excerpt": "Unsealed filings show OpenAI staff discussed training early GPT models on LibGen books, debated how to describe the source publicly and weighed the cost of buying books instead. NOTE: overlaps PW unsealed-files card (09-22) and Jane Friedman's 'OpenAI's piracy worse than Anthropic's' (09-23).",
-      "category": "books"
-    },
-    {
-      "url": "https://www.thebookseller.com/news/the-flip-tackles-disinformation-at-event-with-sarah-wynn-williams-and-joanna-prior",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-23T07:45:00+00:00",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Untitled_design_21.jpg",
-      "title": "The FLIP tackles disinformation in publishing event featuring Sarah Wynn-Williams and Joanna Prior",
-      "excerpt": "Female Leadership in Publishing held an event at Pan Macmillan on mis- and disinformation in the age of AI. (weak AI angle)",
-      "category": "books"
-    },
-    {
-      "url": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
-      "source": "TechRadar",
-      "published_iso": "2026-09-22T12:00:00+00:00",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg",
-      "title": "'My boomer mom made a whole AI book for both of my kids' — the bizarre rise of 'grandmaslop'",
-      "excerpt": "Grandparents are using AI to make personalised picture books and images of their grandchildren, and many parents hate it. (off-list; AI personalised children's book angle)",
-      "category": "books"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=lo9p8bVnDxE",
-      "source": "Novelcrafter (YouTube)",
-      "published_iso": "2026-09-25T01:10:41-07:00",
-      "og_image": "https://i.ytimg.com/vi/lo9p8bVnDxE/maxresdefault.jpg",
-      "title": "Getting Out of Writer's Block (Ft. New Novelcrafter Organization Update!) - Novelcrafter Live",
-      "excerpt": "Novelcrafter livestream testing new AI models for drafting past writer's block and showing the app's new manuscript organisation options.",
-      "category": "books"
-    },
-    {
-      "url": "https://www.inews24.com/view/2008992",
-      "source": "아이뉴스24",
-      "published_iso": "2026-09-25T10:45:01+09:00",
-      "og_image": "https://image.inews24.com/v1/eb3d3a460a5de7.jpg",
-      "title": "\"내가 바로 웹툰 주인공\"⋯네이버웹툰 AI 캐릭터챗으로 만드는 새 이야기",
-      "excerpt": "네이버웹툰의 AI 스토리챗 '바이어스(byUs)'가 출시 10주 만에 누적 대화 1400만건을 돌파. 작가가 승인·검수한 IP 설정 위에서 독자가 주인공이 돼 2차 서사를 만들고, 원작 조회수도 67% 늘었다.",
-      "category": "books"
+      "url": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/",
+      "source": "Voice Over Herald",
+      "category": "books",
+      "published_iso": "2026-09-26T16:10:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-4.jpg",
+      "title": "Google's New AI Voice Model Copies a Voice From 30 Seconds - Voice Over Talent Industry News",
+      "excerpt": "Google's new Gemini 3.8 speech models can clone a voice from a 30-second sample, but only after the voice owner records spoken consent. What it means for narrators and voice talent. OFF-LIST (narration-voices angle; Gemini TTS may also surface in other sections)."
     },
     {
       "url": "https://www.etnews.com/20260922000490",
       "source": "전자신문",
+      "category": "books",
       "published_iso": "2026-09-22T17:34:36+09:00",
       "og_image": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.a81bb6dd9c1b489896bd1871866eb7da_P1.png",
       "title": "가상융합산업허브 입주 결실…AI·글로벌 음향 결합 오디오북 시장 개척",
-      "excerpt": "사운드그랩·보이스그랩이 영화급 사운드 믹싱과 AI 보이스 기술을 결합한 '하이브리드 시네마 오디오북' 솔루션을 출시한다.",
-      "category": "books"
+      "excerpt": "Post-production studio Soundgrab and AI voice firm Voicegrab launch a 'hybrid cinema audiobook' solution that combines film-grade sound design with AI voices, aimed at the global audiobook market. Production-side AI narration (Korean). OFF-LIST."
+    },
+    {
+      "url": "https://platum.kr/archives/295202",
+      "source": "플래텀",
+      "category": "books",
+      "published_iso": "2026-09-26T18:46:28+09:00",
+      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/09/image-87.png",
+      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움 - 플래텀",
+      "excerpt": "Study: readers who had used AI were better at telling AI-written fiction from human fiction than well-read literature fans, but overall participants guessed the author at or below chance. OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://www.khan.co.kr/article/202609251550001",
+      "source": "경향신문",
+      "category": "books",
+      "published_iso": "2026-09-25T15:50:00+09:00",
+      "og_image": "https://img.khan.co.kr/news/2026/09/25/news-p.v1.20260420.b2afe61e57a14c2c9861c107a02563f8_P1.png",
+      "title": "AI의 빠른 ‘정답’ vs 인간의 ‘망설임’···작가들이 말하는 ‘AI가 대체 못 할 문학’",
+      "excerpt": "Korean publishing events this year have asked what generative AI means for writers; novelists and poets describe the 'hesitation' and inner life they think AI can't replace in literature. Feature/essay. OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://m.ddaily.co.kr/page/view/2026092117215082363",
+      "source": "디지털데일리",
+      "category": "books",
+      "published_iso": "2026-09-22T10:56:04+09:00",
+      "og_image": "https://m.ddaily.co.kr/photos/2026/09/22/2026092210351531766_l.png",
+      "title": "유페이퍼발 'AI 전자책' 도배 사태 일단락&hellip;리디 &quot;확인 후 판매 중단&quot;",
+      "excerpt": "A flood of AI-generated ebooks distributed through self-publishing platform Upaper surfaced en masse on Ridi; Ridi says it will verify and pull them from sale. AI-slop ebook flood (ebook platform angle, distinct from the 09-24 webnovel story). OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1183196",
+      "source": "금강일보",
+      "category": "books",
+      "published_iso": "2026-09-22T10:48:19+09:00",
+      "og_image": "https://cdn.ggilbo.com/news/photo/202609/1183196_1035718_2006.jpg",
+      "title": "태안군, AI전자출판 청년 창업가 11명 양성",
+      "excerpt": "Taean County trained 11 young founders to produce and sell their own ebooks using AI tools as an 'AI e-publishing' startup program. Local, low priority. OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260916102821",
+      "source": "지디넷코리아",
+      "category": "books",
+      "published_iso": "2026-09-16T10:28:21+09:00",
+      "og_image": "https://image.zdnet.co.kr/2026/09/16/74727efde7877cffae5a98e042d48eb7.png",
+      "title": "멘탯-제이펍, 출판 콘텐츠 AI 활용 정산 체계 구축 맞손",
+      "excerpt": "Book licensing platform Mentat signs an AI licensing deal with IT publisher J-Pub, supplying about 100 technical titles for AI training and citation with a usage-based settlement system. Korean AI licensing deal. OFF-LIST."
+    },
+    {
+      "url": "https://www.mk.co.kr/news/society/12152749",
+      "source": "매일경제",
+      "category": "books",
+      "published_iso": "2026-09-15T09:00:00+09:00",
+      "og_image": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260914.3fbdb830d88b43899ae87db1e7d27682_R.png",
+      "title": "스위트북, 인공지능(AI) 동화책 플랫폼 ‘AI스토리교실’ 전면 개편 - 매일경제",
+      "excerpt": "Sweetbook overhauls its 'AI Story Classroom' children's picture-book platform: conversational co-creation and more consistent cover and interior illustrations. AI children's book product. OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://startupbeat.com/straive-and-imagetwin-partner-to-bring-ai-powered-image-integrity-checks-to-scientific-publishing/39653/",
+      "source": "StartUp Beat",
+      "category": "books",
+      "published_iso": "2026-09-24T19:51:11+00:00",
+      "og_image": "https://18.119.106.187:443/wp-content/uploads/2026/09/straive-x-imagetwin.png",
+      "title": "Straive and Imagetwin partner to bring AI-powered image integrity checks to scientific publishing - StartUp Beat",
+      "excerpt": "Straive and Imagetwin partner to add AI image-integrity checks to scientific publishing workflows as synthetic and manipulated figures get harder to catch. Scholarly publishing tooling. OFF-LIST."
+    },
+    {
+      "url": "https://www.hani.co.kr/arti/culture/book/1278045.html",
+      "source": "한겨레",
+      "category": "books",
+      "published_iso": "2026-09-16T11:22:00+09:00",
+      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/697/imgdb/original/2026/0916/20260916501373.webp",
+      "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
+      "excerpt": "With nonfiction/general-interest sales hit hard by AI answer engines, Korean trade-nonfiction publishers are moving into literary fiction. Market effect of AI on publishing. OFF-LIST (Korean)."
+    },
+    {
+      "url": "https://janefriedman.com/anthropic-settlement-increases-time-to-handle-disputes/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-09-23T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "title": "Anthropic settlement increases time to handle disputes | Jane Friedman",
+      "excerpt": "Because of the number of errors in Anthropic settlement claims, rights holders now get 60 days instead of 30 to respond to disputes. Copyright admin update; low priority given heavy copyright coverage."
+    },
+    {
+      "url": "https://fortune.com/2026/09/14/ai-slop-books-amazon-marketplace-publishing-human-authors/",
+      "source": "Fortune",
+      "category": "books",
+      "published_iso": "2026-09-14T07:00:00+00:00",
+      "og_image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2293728491-e1789160429106.jpg?resize=1200,600",
+      "title": "‘They’re likely to get squeezed’: AI slop books are flooding online marketplaces—and it’s coming at the expense of paychecks for human authors | Fortune",
+      "excerpt": "A Stony Brook-led study of 14,419 self-published genre-fiction books on Amazon found thousands with large shares of AI-generated prose; sales volume rose 19x while revenue per book fell, squeezing human authors. OFF-LIST."
+    },
+    {
+      "url": "https://www.the-independent.com/arts-entertainment/books/features/jerry-falade-book-deal-ai-racism-b3050738.html",
+      "source": "The Independent",
+      "category": "books",
+      "published_iso": "2026-09-16T15:46:16Z",
+      "og_image": "https://static.the-independent.com/2026/09/15/11/15/Jimmy-Falade-2-2602f547.jpeg?trim=249,1,978,90&width=1200&height=800&crop=1200:800",
+      "title": "I lost my $2m book deal because people mistook my African dialect for AI",
+      "excerpt": "Jerry Falade, whose $2m debut deal was pulled over AI suspicions, argues that Yoruba storytelling rhythms were mistaken for AI prose. First-person follow-up to an August story. Authorship-accusation angle: push down given Orelien coverage. OFF-LIST."
+    },
+    {
+      "url": "https://www.standardmedia.co.ke/education/article/2001558368/publishers-sound-alarm-over-ai-generated-textbooks",
+      "source": "The Standard (Kenya)",
+      "category": "books",
+      "published_iso": "2026-09-22T14:00:00+03:00",
+      "og_image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/d8UfxHh7UAF3aj9kyHetJaIhNIBrWsKxbS8M5PgV.jpg",
+      "title": "Publishers sound alarm over AI-generated textbooks",
+      "excerpt": "Kenyan publishers warn that authors are using AI to generate textbook and learning material, and are training editors to spot it and tightening editorial checks. Textbook/edtech angle. OFF-LIST."
     }
   ],
-  "_note": "Sparse fresh AI-books news. Feeds swept: PW (recent+7 sections), Bookseller /news+/comment scrape (RSS 404), Jane Friedman, Lithub, PubPersp, Book Riot, Good e-Reader, Digital Reader, Scholarly Kitchen, Writer's Digest, Electric Lit, BookBub, Books+Publishing, Guardian books/AI, Wired, Verge, TC, Ars, YouTube (Creative Penn, Kindlepreneur, Novelcrafter, WWM, BookBub). Most on-list AI items already published. Expanded off-list via Google News RSS resolution (Siliconera, EWC, Yle, Pressat, TechRadar, Korean outlets). Dropped: Jane Friedman OpenAI piracy (dup of LibGen/PW), Kakao platform merger (business), Pan Mac audiobook trainers (non-AI), Storytel May press release (stale), Kindle Translate (2025).",
+  "_note": "Harvested from outlet RSS (PW, Goodereader, Jane Friedman, Lithub, PubPerspectives, Book Riot, Digital Reader, Books+Publishing, Guardian, Verge, TC, Ars, Wired) plus Google News when:14d discovery (links decoded to outlet URLs), 4 WebSearch gap queries. Book-outlet feeds were thin on AI this cycle, so many items are off-list (Korean press, press releases); each passes the books-AI relevance test. Dropped: Jezebel Shy Girl (March), Pangram (brand already published), PW BookPact spotlight (covered 09-20), Baldwin typewriter and homogenise (already published), Orelien/Goncourt, Storytel, Japan used books/shredding. Thebookseller RSS 404, kindlepreneur RSS disabled, Economist/JapanTimes/knoxnews blocked.",
   "dedup": {
     "dropped": 0,
-    "kept": 12,
+    "kept": 17,
     "against_days": 5
   }
 }
