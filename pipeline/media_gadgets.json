@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-pixel11-callforme",
-      "type": "video",
-      "src": "pipeline/media/gadgets-pixel11-callforme.mp4",
-      "poster": "pipeline/media/gadgets-pixel11-callforme.jpg"
+      "id": "gadgets-apple-home-camera-ai-events",
+      "type": "image",
+      "src": "pipeline/media/gadgets-apple-home-camera-ai-events.jpg"
     },
     {
-      "id": "gadgets-create-my-widget",
+      "id": "gadgets-c2pa-android-app-ai-image-check",
       "type": "image",
-      "src": "pipeline/media/gadgets-create-my-widget.jpg"
+      "src": "pipeline/media/gadgets-c2pa-android-app-ai-image-check.jpg"
     },
     {
-      "id": "gadgets-surface-copilot",
+      "id": "gadgets-pixelmob-ai-workstation-review",
       "type": "image",
-      "src": "pipeline/media/gadgets-surface-copilot.jpg"
+      "src": "pipeline/media/gadgets-pixelmob-ai-workstation-review.jpg"
     },
     {
-      "id": "gadgets-blue-yeti2",
+      "id": "gadgets-googlebook-magic-pointer-privacy-split",
       "type": "image",
-      "src": "pipeline/media/gadgets-blue-yeti2.jpg"
+      "src": "pipeline/media/gadgets-googlebook-magic-pointer-privacy-split.jpg"
     },
     {
-      "id": "gadgets-optimus-hands",
+      "id": "gadgets-siri-ai-upgrade-five-tips",
       "type": "image",
-      "src": "pipeline/media/gadgets-optimus-hands.jpg"
+      "src": "pipeline/media/gadgets-siri-ai-upgrade-five-tips.jpg"
     }
   ]
 }

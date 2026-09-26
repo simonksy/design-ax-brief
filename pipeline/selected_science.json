@@ -1,95 +1,76 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "science",
-  "user_selection": null,
   "picks": [
     {
       "rank": 1,
       "tool": "Science",
-      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "AI model predicts pancreatic cancer risk 3 years before diagnosis",
-      "url": "https://medicalxpress.com/news/2026-09-ai-pancreatic-cancer-years-diagnosis.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-25T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/doctor-and-female-pati.jpg",
-      "excerpt": "Mayo Clinic researchers trained an AI model on longitudinal EHR and routine lab data (6,066 patients, 33,396 controls); it reached AUROC 0.853, and a >50% predicted risk meant an 88% chance of diagnosis within a year (ACS Clinical Congress 2026).",
-      "rationale": "Freshest item in the pool; Mayo Clinic result on a notoriously late-caught cancer, with hard numbers from routine lab data."
+      "headline": "Self-driving lab speeds up materials development",
+      "title": "Self-driving lab speeds up materials development",
+      "url": "https://www.eurekalert.org/news-releases/1145149",
+      "source": "EurekAlert!",
+      "published_iso": "2026-09-23T00:00:00Z",
+      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/e3068da6-75a7-41f2-b6cc-bc4bcc509c4a/Rendition/thumbnail/Content/Public",
+      "excerpt": "The new Energy Materials Acceleration Platform (E-MAP) at the Karlsruhe Institute of Technology (KIT) enables a systematic examination, evaluation, and targeted refining of thousands of material variants. It links automated experiments with precise material characterization, thus creating the foundation for the accelerated development of energy materials.",
+      "rationale": "Concrete, operating AI-driven autonomous lab (KIT E-MAP) for energy materials; directly addresses the 'labs lag AI' bottleneck covered earlier without repeating it."
     },
     {
       "rank": 2,
       "tool": "Science",
-      "category": "science",
-      "accent": "#7928ca",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Tumor digital twins: from months to minutes with AI",
-      "url": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-months-to-minutes.jpg",
-      "excerpt": "Barcelona Supercomputing Center built MCP servers linking AI agents to NeKo, MaBoSS and PhysiCell so researchers can build tumor digital twins by natural-language conversation, producing model drafts in under 10 minutes instead of months (npj Systems Biology and Applications).",
-      "rationale": "Most actionable: MCP servers wiring AI agents into real simulation tools, a workflow pattern readers can reuse outside biology."
+      "headline": "QC Design Reports 10x Logical Error Reduction With Meridian AI",
+      "title": "QC Design Reports 10x Logical Error Reduction With Meridian AI",
+      "url": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-09-24T14:15:01+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-24_19-09.png",
+      "excerpt": "QC Design reports that its Meridian AI system achieved over 10x lower logical error rates than published methods across 100+ quantum design tasks.",
+      "rationale": "Adds a quantum-computing axis absent from recent science cards; AI system claiming 10x lower logical error rates across 100+ design tasks (company-reported, to be attributed as such)."
     },
     {
-      "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-09-22T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-quantum-nanostruc.jpg",
-      "excerpt": "UW-Madison designed quantum nanostructures with vacancy color centers that give optical neural networks strong nonlinearity at power seven orders of magnitude below conventional optical materials (Nature Communications).",
-      "title": "Tiny quantum nanostructures could make AI less of an energy hog",
-      "accent": "#f5a623",
+      "rank": 3,
+      "tool": "Science",
+      "accent": "#7928ca",
       "motif": "sphere",
-      "rank": 3
+      "headline": "Shared blueprint in aphid proteins helps AI predict their structures",
+      "title": "Shared blueprint in aphid proteins helps AI predict their structures",
+      "url": "https://phys.org/news/2026-09-blueprint-aphid-proteins-ai.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-24T16:10:01-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/stowers-scientists-unc.jpg",
+      "excerpt": "Tiny insects called aphids inject hundreds of mysterious proteins into plants, hijacking the plants' own genomes to build galls: structures made of plant tissue but constructed to the insects' specifications to house and feed their offspring.",
+      "rationale": "Fresh life-science use of AI structure prediction (insect gall-inducing effector proteins, basic biology; no pathogen-enhancement angle) with a visual, story-driven hook."
     },
     {
       "rank": 4,
       "tool": "Science",
-      "category": "science",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "Stanford Engineers Teach Spacecraft to 'Dream' Their Way to the Space Station",
-      "url": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station",
-      "source": "Universe Today",
-      "published_iso": "2026-09-24T10:12:56+00:00",
-      "og_image": "https://www.universetoday.com/article_images/The_SpaceX_Crew_Dragon_approaches_the_International_Space_Station_iss063e021463_20260923_010712.jpg",
-      "excerpt": "A Stanford arXiv preprint builds an AI that runs 'mental simulations' (a learned world model) to plan spacecraft rendezvous and docking, instead of relying only on hard-coded orbital equations and human pilots.",
-      "rationale": "Adds space/robotics to the mix; world-model planning is a hot AI method shown here in a concrete, high-stakes domain."
+      "headline": "Open-source benchmark tests whether AI agents can engineer working robots",
+      "title": "Open-source benchmark tests whether AI agents can engineer working robots",
+      "url": "https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-18T10:40:13-04:00",
+      "og_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/robot.jpg",
+      "excerpt": "With the rapid rise of artificial intelligence in daily life, software coding has become increasingly automated, with powerful AI systems known as coding agents able to write and revise computer programs almost autonomously. But what happens when an AI agent must contend not just with digital command lines, but with the physical world of robotics?",
+      "rationale": "Open-source benchmark measuring coding agents on physical robot engineering; actionable for anyone evaluating agents beyond software tasks."
     },
     {
       "rank": 5,
       "tool": "Science",
-      "category": "science",
-      "accent": "#0070f3",
+      "accent": "#eb367f",
       "motif": "sphere",
-      "headline": "When AI disagrees, people change how they perceive the technology, not their original view",
-      "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-23T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
-      "excerpt": "A University of Michigan study of 482 adults found chatbot agreement boosted confidence, but disagreement did not change minds; instead users judged the AI as machine-like and less likely to consult it again (Computers in Human Behavior Reports).",
-      "rationale": "Psychology angle with direct product implications: pushback from an AI costs user trust rather than changing minds, so the way an assistant disagrees needs design attention."
+      "headline": "AI Use and Emotional Problems in Children and Teens",
+      "title": "AI Use and Emotional Problems in Children and Teens",
+      "url": "https://www.psychologytoday.com/ca/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+      "source": "Psychology Today",
+      "published_iso": "2026-09-25T13:58:51-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic100085.jpg?itok=w64GWo65",
+      "excerpt": "Researchers discover an association between affective generative AI use and mental health problems in youth.",
+      "rationale": "Freshest item in pool; brings a psychology/youth-wellbeing axis and a new outlet, reporting research linking affective gen-AI use to emotional problems in minors."
     }
-  ],
-  "dropped": [
-    {
-      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-      "reason": "Content duplicate: the OpenAI Navier-Stokes Millennium Prize story already ran in science on 2026-09-09 (Quanta)."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-trustworthy-red-flag.html",
-      "reason": "Possible overlap with Psychology Today's 'AI behavior impacted by internal confidence levels' (science, 2026-09-13); left out to stay safe and so the section has one LLM-psychology card, not two."
-    }
-  ],
-  "diversity": {
-    "outlets": {
-      "Medical Xpress": 2,
-      "Phys.org": 1,
-      "Universe Today": 1,
-      "Tech Xplore": 1
-    },
-    "distinct_outlets": 4
-  },
-  "swap_note": "pick 3 replaced (biosecurity-sensitive subject dropped) with Phys.org quantum-nanostructure AI energy story"
+  ]
 }

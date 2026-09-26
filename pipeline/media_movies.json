@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "movies",
   "media": [
     {
-      "id": "movies-minkoff-stormdogs",
-      "type": "image",
-      "src": "pipeline/media/movies-minkoff-stormdogs.jpg"
-    },
-    {
-      "id": "movies-baska-womanasleep",
-      "type": "image",
-      "src": "pipeline/media/movies-baska-womanasleep.jpg"
-    },
-    {
-      "id": "movies-runway-diffuse",
+      "id": "movies-autodesk-flow-inner-stars",
       "type": "video",
-      "src": "pipeline/media/movies-runway-diffuse.mp4",
-      "poster": "pipeline/media/movies-runway-diffuse.jpg"
+      "src": "pipeline/media/movies-autodesk-flow-inner-stars.mp4",
+      "poster": "pipeline/media/movies-autodesk-flow-inner-stars.jpg"
     },
     {
-      "id": "movies-evoto8",
+      "id": "movies-cineme-launch-oct1",
       "type": "image",
-      "src": "pipeline/media/movies-evoto8.jpg"
+      "src": "pipeline/media/movies-cineme-launch-oct1.jpg"
     },
     {
-      "id": "movies-runway-consistent-chars",
+      "id": "movies-netflix-golden-ticket-ai-wilder",
+      "type": "image",
+      "src": "pipeline/media/movies-netflix-golden-ticket-ai-wilder.jpg"
+    },
+    {
+      "id": "movies-retouch4me-lab-video-resolve",
       "type": "video",
-      "src": "pipeline/media/movies-runway-consistent-chars.mp4",
-      "poster": "pipeline/media/movies-runway-consistent-chars.jpg"
+      "src": "pipeline/media/movies-retouch4me-lab-video-resolve.mp4",
+      "poster": "pipeline/media/movies-retouch4me-lab-video-resolve.jpg"
+    },
+    {
+      "id": "movies-mooam-suhodosa-4dx",
+      "type": "image",
+      "src": "pipeline/media/movies-mooam-suhodosa-4dx.png"
     }
   ]
 }

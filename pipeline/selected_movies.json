@@ -1,92 +1,76 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "movies",
-  "generated_by": "ax-curator",
-  "selection_notes": "User deferred, so the curator picked. Checked against news_data.json sections.movies and published_urls.json movies by URL and by content. No pool URL matches a published URL. Content duplicates dropped: Variety Busan market genAI/microdramas (Busan ACFM InnoAsia already published 08-27 and 09-06, and dropped on 09-24 and 09-25); Kling 'ODYSSEUS: The Fall is here!' (same film already published: THR 07-15 and The Verge review 09-17); fxguide 'Block in 3D, refine with node-based AI' (Autodesk Flow Studio 3D editor/node canvas already published: AWN 08-08, fxguide podcast 08-27, befores & afters 09-03). Deprioritized: Deadline MIPCOM preview (market positioning), Deadline Sunny Hostin on The View (14 days old, TV-panel opinion), Motionographer RevThink (agency-business opinion), RedShark Adobe Premiere mobile on Android (a platform port where AI is incidental), Theoretically Media weekly roundup (general frontier-model news), Kling Diane Shorthouse (vendor testimonial), fxguide Gaussian splat clip (likely part of the same Flow Studio interview series already covered), Curious Refuge OpenAI Astra test (11 days old). BIFF/Dongseo forum is a forum announcement for 10-08 and was ranked below the picks. Diversity guard: 3 outlets, at most 2 per outlet (Variety x2, Runway x2, RedShark x1).",
   "picks": [
     {
+      "rank": 1,
       "category": "movies",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "axis": "ai-feature-production",
-      "headline": "'Lion King' Director Rob Minkoff Joins AI-Assisted Film 'Storm Dogs' From Tilly Norwood Creator Particle 6",
-      "url": "https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/",
-      "source": "Variety",
-      "published_iso": "2026-09-25T15:03:14+00:00",
-      "excerpt": "Rob Minkoff, the co-director of “The Lion King,” is in advanced discussions to board the AI-assisted film “Storm Dogs” from Particle 6.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Storm-Dogs-1.png?w=1000&h=563&crop=1",
-      "rationale": "A major studio animation director is signing on to an AI-assisted feature. That makes this the clearest sign yet that established filmmakers are moving into AI production."
+      "title": "How a studio created an \"impossible\" animated symphony using Autodesk",
+      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
+      "source": "Creative Bloq",
+      "published_iso": "2026-09-24T16:03:52Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/447XYXxxo5osoFKMU7tKE9-1920-80.png",
+      "excerpt": "Flow Studio allowed Daughter of the Inner Stars to blend live narration and original animation driven by human performers.",
+      "rationale": "Concrete production case study of Autodesk Flow Studio's AI markerless mocap driving animation from live performers; directly actionable craft workflow, not previously covered."
     },
     {
+      "rank": 2,
       "category": "movies",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "axis": "distribution",
-      "headline": "Turkish Distributor Baska Sinema Boards AI-Generated Feature 'A Woman Asleep' for Theatrical Release",
-      "url": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
-      "source": "Variety",
-      "published_iso": "2026-09-25T13:35:05+00:00",
-      "excerpt": "Turkish distributor Baska Sinema boards AI-generated feature 'A Woman Asleep' for theatrical release",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/A-Woman-Alseep.jpg?w=1000&h=563&crop=1",
-      "rationale": "A fully AI-generated feature has landed a theatrical distributor. That opens a real release path for AI-made films outside festivals and streaming."
+      "title": "Pioneering AI Film & TV visual development platform Cineme goes live 1st October 2026",
+      "url": "https://www.cinematography.world/pioneering-ai-film-tv-visual-development-platform-cineme-goes-live-1st-october-2026/",
+      "source": "Cinematography World",
+      "published_iso": "2026-09-24T14:00:29+00:00",
+      "og_image": "https://www.cinematography.world/wp-content/uploads/2026/09/DanHartley_JuliaStuart_ChrisBird_CineMe_Launch.jpg.jpeg",
+      "excerpt": "CineMe, the AI platform for filmmakers and content creators founded by BAFTA and Emmy-nominated filmmaker Dan Hartley and former Amazon Prime Video UK managing director Chris Bird, goes live on 1st October 2026. The founders have also confirmed that Julia Stuart, formerly Director of Original Film a",
+      "rationale": "New filmmaker-built AI visual development platform with a firm Oct 1 launch date; a new tool readers can try next week."
     },
     {
+      "rank": 3,
       "category": "movies",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "axis": "creator-platform",
-      "headline": "Introducing DIFFUSE | Runway",
-      "url": "https://www.youtube.com/watch?v=4oNzKoODTVA",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-09-22T10:02:25-07:00",
-      "og_image": "https://i.ytimg.com/vi/4oNzKoODTVA/maxresdefault.jpg",
-      "excerpt": "Register and learn more: https://diffuse.runway.com/Introducing DIFFUSE: a platform for brands to search for, connect with and hire AI-native talent. Creativ...",
-      "rationale": "Runway has launched a marketplace where brands can find and hire AI-native filmmakers. It gives AI video creators a new way to get commissioned work."
+      "title": "Netflix Competition 'Wonka's The Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/",
+      "source": "Variety",
+      "published_iso": "2026-09-23T07:01:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/TGT_S1_Unit_01148RC2_C2_thumbnail_R.jpg?w=1000&h=563&crop=1",
+      "excerpt": "A Netflix competition show based on Roald Dahl's 'Charlie and the Chocolate Factory' uses an AI-generated Gene Wilder in a disastrous gimmick.",
+      "rationale": "A major streamer shipping an AI-recreated late actor on screen, with critical backlash; timely signal on digital-likeness use in mainstream TV."
     },
     {
+      "rank": 4,
       "category": "movies",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "axis": "post-tools",
-      "headline": "Evoto 8.0: New video tools, Asset Hub, pricing",
-      "url": "https://www.redsharknews.com/evoto-8.0-video-tools-asset-hub",
-      "source": "RedShark News",
-      "published_iso": "2026-09-23T07:33:16.000Z",
-      "og_image": "https://www.redsharknews.com/hubfs/evoto%208.0%20main.jpg",
-      "excerpt": "Evoto 8.0 adds portrait retouching inside DaVinci Resolve, story-based culling, and Asset Hub, a marketplace where creators keep 60% of sales. Available now.",
-      "rationale": "Evoto 8.0 brings its AI portrait retouching into DaVinci Resolve and is available now. Editors can use it in their next grade and beauty pass."
+      "title": "Retouch4me Lab Video: get a cinematic look in a few clicks",
+      "url": "https://www.provideocoalition.com/retouch4me-lab-video-get-a-cinematic-look-in-a-few-clicks/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-09-26T03:44:03-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/retouch4mepluginvideo000.jpg",
+      "excerpt": "Working seamlessly within DaVinci Resolve (18+) and other OFX-compatible video editors, the new plugin from Retouch4me allows users to “say goodbye to tedious manual base grading.”  Digital cameras deliver flawless sharpness, but they often strip a scene of its “soul”, so turning everyday footage in",
+      "rationale": "Freshest item in the pool: a new neural-network base-grading OFX plugin for Resolve that editors can install today (enrichment should confirm the AI angle from the body)."
     },
     {
+      "rank": 5,
       "category": "movies",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "axis": "workflow-tutorial",
-      "headline": "Consistent AI Characters, Voices and Scenes (Advanced Workflow) | Runway",
-      "url": "https://www.youtube.com/watch?v=swx780Vy_OQ",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-09-14T10:17:17-07:00",
-      "og_image": "https://i.ytimg.com/vi/swx780Vy_OQ/maxresdefault.jpg",
-      "excerpt": "Access the prompts and Claude skill: https://runway.com/prompts/a-game-of-horseLearn how the Game of Horse video was made, with a full breakdown of the exact...",
-      "rationale": "A shot-by-shot breakdown of how to keep characters, voices and scenes consistent, with the exact prompts and a Claude skill included. Creators can copy the workflow directly."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
-      "reason": "content duplicate: Busan ACFM InnoAsia genAI program already published (08-27 / 09-06)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
-      "reason": "content duplicate: ODYSSEUS: The Fall already published (THR 07-15, The Verge review 09-17)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=vjNVieMl77E",
-      "reason": "content duplicate: Autodesk Flow Studio 3D editor + node canvas already published (AWN 08-08, fxguide 08-27, befores & afters 09-03)"
+      "title": "무암, '수호도사: 세계유산을 지켜라' 27일 CGV 4DX 특별 상영",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277400",
+      "source": "Businesskorea",
+      "published_iso": "2026-09-21T11:08:03+09:00",
+      "og_image": "https://www.businesskorea.co.kr/news/thumbnail/202609/277400_284960_742_v150.jpg",
+      "excerpt": "AI 영화 '수호도사: 세계유산을 지켜라'가 4DX 극장에서 특별 상영된다. 생성형 AI 기반 콘텐츠 제작사 무암(MooAm, 대표 겸 감독 현해리)이 제작한 이번 작품은 9월 27일 CGV용산아이파크몰과 왕십리, 센텀시티 4DX관에서 관객과 만난다.이번 영화는 기획 단계부터 4DX",
+      "rationale": "Generative-AI feature planned for 4DX from the start, screening in CGV theaters on publish day; local Korean angle and distinct outlet."
     }
   ]
 }

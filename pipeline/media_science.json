@@ -1,32 +1,33 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "section": "science",
   "media": [
     {
-      "id": "science-mayo-pancreatic-risk",
+      "id": "science-kit-emap-selfdriving-lab",
       "type": "image",
-      "src": "pipeline/media/science-mayo-pancreatic-risk.jpg"
+      "src": "pipeline/media/science-kit-emap-selfdriving-lab.jpg"
     },
     {
-      "id": "science-tumor-twin-mcp",
+      "id": "science-qcdesign-meridian-error-reduction",
       "type": "image",
-      "src": "pipeline/media/science-tumor-twin-mcp.jpg"
+      "src": "pipeline/media/science-qcdesign-meridian-error-reduction.png"
     },
     {
-      "id": "science-quantum-optical-nn-energy",
-      "type": "image",
-      "src": "pipeline/media/science-quantum-optical-nn-energy.jpg"
-    },
-    {
-      "id": "science-spacecraft-world-model",
+      "id": "science-aphid-gall-protein-ai-structure",
       "type": "video",
-      "src": "pipeline/media/science-spacecraft-world-model.mp4",
-      "poster": "pipeline/media/science-spacecraft-world-model.jpg"
+      "src": "pipeline/media/science-aphid-gall-protein-ai-structure.mp4",
+      "poster": "pipeline/media/science-aphid-gall-protein-ai-structure.jpg"
     },
     {
-      "id": "science-ai-disagreement-trust",
+      "id": "science-robot-engineering-agent-benchmark",
+      "type": "video",
+      "src": "pipeline/media/science-robot-engineering-agent-benchmark.mp4",
+      "poster": "pipeline/media/science-robot-engineering-agent-benchmark.jpg"
+    },
+    {
+      "id": "science-affective-genai-youth-mental-health",
       "type": "image",
-      "src": "pipeline/media/science-ai-disagreement-trust.jpg"
+      "src": "pipeline/media/science-affective-genai-youth-mental-health.jpg"
     }
   ]
 }
