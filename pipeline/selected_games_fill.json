@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-28",
+  "section": "games",
+  "mode": "fill",
+  "picks": [
+    {
+      "tool": "Games",
+      "category": "games",
+      "headline": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
+      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-09-23T15:48:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
+      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Most AI-substantive item left in the recovery pool: a studio head describes where AI-native production helps a 26-person live-game team and where it stops. It is a new outlet for today's set and not a duplicate. The earlier PocketGamer.biz Nordic AI-native piece from 08-26 covers different studios."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
+      "reason": "Follow-up on the same DLSS-5-neural-rendering-on-Radeon mod project, already published as wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt (2026-09-05). The adjacent open-source DLSS 5 Vulkan reimplementation ran on 2026-09-25. An incremental version bump is not a new story."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+      "reason": "Not a duplicate, but weaker. It is a routine upscaler-support mod with thin AI substance, so it was passed over for the more AI-substantive Starform interview (only one fill slot)."
+    }
+  ]
+}

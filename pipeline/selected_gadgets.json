@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "gadgets",
   "picks": [
     {
@@ -8,13 +8,13 @@
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "headline": "Apple is making your security camera smarter. What comes next is more interesting.",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "source": "The Verge",
-      "published_iso": "2026-09-25T13:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
-      "excerpt": "Apple, Google, and Ring are teaching security cameras what matters",
-      "rationale": "Fresh cross-platform look at how Apple Intelligence, Gemini and Alexa+ are reshaping home-camera event detection; not covered in the last 5 days."
+      "headline": "I saw Microsoft Surface laptops with the Snapdragon X2, and this is what AI PCs should feel like",
+      "url": "https://www.digitaltrends.com/computing/microsoft-snapdragon-x2-elite-surface-local-ai-demos/",
+      "source": "Digital Trends",
+      "published_iso": "2026-09-23T16:04:27-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Microsoft-Surface-Pro-12-2nd-Gen-powered-by-the-Snapdragon-X2-Elite.jpg?resize=1200%2C630",
+      "excerpt": "I tried Microsoft’s new Snapdragon-powered Surface PCs and saw local AI turn sketches into 3D models, images and videos, while new haptics and Ink Canvas made the experience feel surprisingly intuitive.",
+      "rationale": "Hands-on with on-device sketch-to-3D/image/video and Ink Canvas on new Surface hardware; the most designer-actionable item, distinct from the 09-26 Copilot+ PC policy card."
     },
     {
       "rank": 2,
@@ -22,13 +22,13 @@
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "headline": "If you can't tell what's real or AI-generated anymore, this Android app is here to help",
-      "url": "https://www.androidauthority.com/new-ai-apps-services-ai-generated-image-c2pa-3715399/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-25T14:15:31+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/new-ai-apps-c2pa-verify-2.jpg",
-      "excerpt": "How do you determine what is an AI-generated image and what is real? If you find this a tall task, this Android app has the answer.",
-      "rationale": "Practical C2PA provenance checker on the phone, directly useful to anyone publishing or vetting imagery; new tool, no prior coverage."
+      "headline": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
+      "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
+      "source": "Engadget",
+      "published_iso": "2026-09-23T23:29:55+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg",
+      "excerpt": "After a free trial it'll cost $150 to add on, or require a Meta One subscription.",
+      "rationale": "New regulated health feature on AI glasses with concrete pricing; not covered by prior Meta Muse/privacy/Connect cards."
     },
     {
       "rank": 3,
@@ -36,13 +36,13 @@
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "headline": "The PixelMob is a near-perfect mini AI workstation for creators",
-      "url": "https://www.techradar.com/pro/pixelmob-portable-ai-workstation-review",
-      "source": "TechRadar",
-      "published_iso": "2026-09-26T16:25:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QUyEw7s5CxSF7ZJRTR8tnX-1200-80.jpg",
-      "excerpt": "The PixelMob is a portable workstation for photographers, videographers and creators with storage, AI file management, editing, monitoring and tethered shooting",
-      "rationale": "Hands-on review of a portable AI file-management/editing box for photo and video creators; high actionability, freshest item in the pool."
+      "headline": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update, causes outrage",
+      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-23T06:44:00+00:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Samsung-AI-fridge.jpg",
+      "excerpt": "Samsung has stopped a SmartThings update after Bespoke AI 4-Door fridges shut down when it was installed. As per reports, internal test software reached customers by mistake. Samsung has apologized and will send engineers over the Chuseok break.",
+      "rationale": "Concrete failure case for connected AI appliances; a sharp lesson for anyone designing update/fallback UX; fresh story with no prior coverage."
     },
     {
       "rank": 4,
@@ -50,13 +50,13 @@
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "headline": "Here's what Magic Pointer processes on your Googlebook — and what goes online",
-      "url": "https://www.androidauthority.com/googlebook-magic-pointer-local-cloud-processing-3715403/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-25T09:18:12+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Acer-Googlebook-14-Magic-Pointer-16-9-scaled.jpeg",
-      "excerpt": "Google has revealed the privacy boundary behind Magic Pointer, explaining what stays on your Googlebook and what gets sent to the cloud.",
-      "rationale": "New disclosure of Magic Pointer's on-device vs cloud AI split; distinct from the 09-22 Googlebook pricing card (different URL and content)."
+      "headline": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
+      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
+      "source": "TechRadar",
+      "published_iso": "2026-09-27T19:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
+      "excerpt": "This machine runs hundreds of AI agents at once, and somehow keeps every single one responsive",
+      "rationale": "Freshest hardware item: desk-side GB300 box running hundreds of local agents, with industrial-design angle; distinct from the 09-27 PixelMob review."
     },
     {
       "rank": 5,
@@ -64,24 +64,21 @@
       "category": "gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "Siri just got a major AI upgrade — here are 5 things to try first",
-      "url": "https://www.tomsguide.com/ai/siri-just-got-a-major-ai-upgrade-here-are-5-things-to-try-first",
-      "source": "Tom's Guide",
-      "published_iso": "2026-09-26T06:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Csc6K7mBQjMqauktpGQ7mT-2560-80.jpg",
-      "excerpt": "Tom's Guide tries out the upgraded Siri AI and picks five use cases to try first — the ones that surprised the reviewer most.",
-      "rationale": "Hands-on, use-case-driven guide to the new Siri AI; gadgets history has no dedicated Siri AI card, and it adds a fourth outlet."
+      "headline": "I turned my Android phone’s annoying AI button into its most powerful shortcut key",
+      "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
+      "source": "Android Authority",
+      "published_iso": "2026-09-27T11:00:10+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-ai-button-on-a-honor-600-pro-scaled.jpg",
+      "excerpt": "I was ready to disable my AI button until I realized how much it could actually do.",
+      "rationale": "Directly actionable how-to for repurposing the hardware AI key; fifth distinct outlet, no prior coverage."
     }
   ],
   "dropped": [
-    {"url": "https://www.cnet.com/tech/services-and-software/qualcomm-snapdragon-sound-elite-gen-2-chip-headphones-ai-rebrand/", "reason": "duplicate story: Snapdragon Sound Elite Gen 2 published 2026-09-24 (9to5Google)"},
-    {"url": "https://9to5google.com/2026/09/22/smart-glasses-growth-h1-2026/", "reason": "duplicate story: Counterpoint H1 AI-glasses growth published 2026-09-22 (9to5Mac)"},
-    {"url": "https://www.tomsguide.com/ai/i-tried-turning-metas-muse-ai-into-my-personal-shopper-only-3-of-7-prompts-actually-worked", "reason": "Meta Muse already covered 09-23/24/25; not materially new"},
-    {"url": "https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/", "reason": "Meta Muse already covered 3x in window; Meta cap, skipped"},
-    {"url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/", "reason": "Meta Connect avatars previewed 09-22 and mentioned 09-25; Meta cap"},
-    {"url": "https://roadtovr.com/meta-vr-glass-hands-onconnect-2026/", "reason": "Meta Connect hardware, weak AI angle; Meta cap"},
-    {"url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games", "reason": "Meta cap; games section likely to cover (cross-section collision risk)"},
-    {"url": "https://www.tomshardware.com/pc-components/air-cooling/deepcool-ak620-and-ak400-g2-review", "reason": "URL/title mismatch (cooler review URL vs GMKtec title); unreliable"},
+    {"url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music", "reason": "cross-section collision: same story is the top candidate in music today; ceded to music to avoid card-id/media clash"},
+    {"url": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/", "reason": "same core story as Snap Specs cards already published (Wired 09-18 gadgets, UploadVR 09-22 design)"},
+    {"url": "https://www.tomsguide.com/phones/android-phones/do-you-actually-need-the-snapdragon-8-elite-extreme-gen-6-qualcomms-svps-explain-who-should-pay-the-premium", "reason": "Snapdragon 8 Elite Gen 6 already covered 09-13 and 09-23"},
+    {"url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/", "reason": "Siri AI HomePod already covered (MacRumors 09-06, smart display 09-22)"},
+    {"url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard", "reason": "weak AI angle (cloud shutdown column)"},
     {"url": "https://www.androidauthority.com/inmo-air-3-smart-glasses-recall-3715219/", "reason": "not about AI (overheating recall)"}
   ]
 }

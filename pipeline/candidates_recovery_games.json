@@ -1,36 +1,90 @@
 {
-  "date": "2026-09-23",
+  "generated_at": "2026-09-27T22:40:00Z",
   "section": "games",
   "window_hours": 336,
+  "recovery_pass": 1,
+  "keywords_added": [
+    "AI global illumination diffusion",
+    "AI prototype art director",
+    "LLM fan port vibecoded",
+    "DLSS FSR upscaling mod",
+    "AI-native studio",
+    "DLSS-NR-on-AMD",
+    "AI 챗봇 가이드 MMORPG",
+    "실시간 학습 AI"
+  ],
   "items": [
     {
-      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
-      "source": "Seoul Economic Daily",
-      "category": "games",
-      "title": "AI Takes Center Stage at Tokyo Game Show 2026",
-      "published_iso": "2026-09-19T00:00:05Z",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
-      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
-      "off_list_reason": "No allowed-domain coverage of the Pareidolia on-device voice AI found; Korean outlet per recovery brief."
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
+      "source": "PC Gamer",
+      "published_iso": "2026-09-17T13:45:27Z",
+      "title": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
+      "excerpt": "AMD researchers hand indirect lighting to a diffusion model frame by frame, using a temporal VAE with motion vectors to keep the generated illumination from flickering, then composite it over the direct-lit frame.",
+      "category": "games"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
-      "source": "Inven",
-      "category": "games",
-      "title": "이제 모바일도 AI 업스케일링... 이매지네이션, 'NSR' 공개",
-      "published_iso": "2026-09-21T07:38:06Z",
-      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
-      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
-      "off_list_reason": "Korean outlet per recovery brief (inven.co.kr); AI upscaling adjacent keyword."
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-09-14T15:45:07Z",
+      "title": "Legendary Zelda and Star Fox artist is \"genuinely amazed\" by AI even as he catches backlash from Nintendo fans",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4wenzA6wmf2f5GELcQAra7-1920-80.jpg",
+      "excerpt": "Former Nintendo art director Takaya Imamura (Majora's Mask, Star Fox) shared a game prototype built with AI help and says he is amazed by the tech, despite heavy fan backlash.",
+      "category": "games"
     },
     {
-      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+      "source": "Kotaku",
+      "published_iso": "2026-09-17T22:00:44+00:00",
+      "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop'",
+      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
+      "excerpt": "The Ship of Harkinian team says LLM-assisted code has been in the fan PC port for years; asked which version is free of LLM content, a dev said 'I don't know'.",
+      "category": "games"
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-09-24T10:30:09+00:00",
+      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
+      "og_image": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A new community mod adds DLSS and FSR upscaling to 2008's GTA IV, giving the game a sharper, modern AI-reconstructed image.",
+      "category": "games"
+    },
+    {
+      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-09-23T15:48:00+01:00",
+      "title": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
+      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
+      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
+      "category": "games"
+    },
+    {
+      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
       "source": "Wccftech",
-      "category": "games",
-      "title": "Final Fantasy VII Revelation hits 4K/60 on PS5 Pro via PSSR upscaling",
-      "published_iso": "2026-09-22T09:22:57Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
-      "excerpt": "Series director Naoki Hamaguchi confirmed that Final Fantasy VII Revelation uses PlayStation Spectral Super Resolution (PSSR), Sony's ML-based upscaler, to offer a PS5 Pro mode with both 4K image quality and 60 FPS. The piece frames the updated PSSR as the defining feature that separates the PS5 Pro from the base console."
+      "published_iso": "2026-09-26T18:02:42+00:00",
+      "title": "DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-NR-on-AMD-RX-9000-Alpha-0.4.0.jpg",
+      "excerpt": "DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5 neural rendering, pushing Cyberpunk 2077 from 30 to 50 fps at 3440x1440. Note: DLSS 5 modding thread overlaps prior coverage (open-source Vulkan reimplementation); curator should weigh as follow-up.",
+      "category": "games"
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321342",
+      "source": "인벤",
+      "published_iso": "2026-09-22T14:15:27+09:00",
+      "title": "도깨비의세계, 12가지 스킬로 진입장벽 낮춘다",
+      "og_image": "https://static.inven.co.kr/column/2026/09/22/news/i1401273533.jpg",
+      "excerpt": "카카오게임즈 신작 MMORPG 도깨비의세계(10월 8일 출시)는 AI 챗봇 '묘롱'이 이용자 플레이 데이터를 분석해 성장 방향을 안내, 초심자 진입장벽을 낮춘다.",
+      "category": "games"
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321257",
+      "source": "인벤",
+      "published_iso": "2026-09-21T12:10:15+09:00",
+      "title": "라인게임즈, CODE EXIT 스팀 테스트 모집",
+      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1984321245.jpg",
+      "excerpt": "Phase 8 Studio의 4인 협동 신작 CODE EXIT는 실시간 학습 AI와 사운드 디자인으로 심리적 압박을 구현했다. 9월 28일~10월 19일 스팀 플레이테스트, 2027년 1분기 얼리 액세스 목표.",
+      "category": "games"
     }
   ]
 }

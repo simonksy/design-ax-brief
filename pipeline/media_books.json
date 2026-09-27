@@ -1,31 +1,7 @@
-{
-  "date": "2026-09-27",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-oxford-bodleian-openai-training",
-      "type": "image",
-      "src": "pipeline/media/books-oxford-bodleian-openai-training.jpg"
-    },
-    {
-      "id": "books-illustrator-genai-cover-concepts",
-      "type": "image",
-      "src": "pipeline/media/books-illustrator-genai-cover-concepts.jpg"
-    },
-    {
-      "id": "books-ai-fiction-detection-study",
-      "type": "image",
-      "src": "pipeline/media/books-ai-fiction-detection-study.png"
-    },
-    {
-      "id": "books-gemini-tts-30sec-voice-clone",
-      "type": "image",
-      "src": "pipeline/media/books-gemini-tts-30sec-voice-clone.jpg"
-    },
-    {
-      "id": "books-nonfiction-slump-publishers-turn-literary",
-      "type": "image",
-      "src": "pipeline/media/books-nonfiction-slump-publishers-turn-literary.jpg"
-    }
-  ]
-}
+{"date":"2026-09-28","section":"books","media":[
+{"id":"books-sudowrite-character-portraits","type":"image","src":"pipeline/media/books-sudowrite-character-portraits.jpg"},
+{"id":"books-novelcrafter-live-manuscript-org","type":"video","src":"pipeline/media/books-novelcrafter-live-manuscript-org.mp4","poster":"pipeline/media/books-novelcrafter-live-manuscript-org.jpg"},
+{"id":"books-apex-covantage-eden-copyediting","type":"image","src":"pipeline/media/books-apex-covantage-eden-copyediting.jpg"},
+{"id":"books-sudowrite-opus55-gpt6-models","type":"svg"},
+{"id":"books-kenya-ai-textbook-alarm","type":"image","src":"pipeline/media/books-kenya-ai-textbook-alarm.jpg"}
+]}

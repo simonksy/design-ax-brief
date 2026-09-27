@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "music",
   "picks": [
     {
@@ -8,27 +8,27 @@
       "category": "music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "headline": "Melofty Axom Max: an AI Rig Assistant builds guitar signal chains from a text or voice prompt",
-      "url": "https://www.gearnews.com/melofty-axom-max-audio-processor-guitar/",
-      "source": "Gearnews",
-      "published_iso": "2026-09-25T17:30:00Z",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Melofty_Axom_Teaser.jpg",
-      "excerpt": "Melofty's Axom Max is a modeler/guitar synth whose AI Rig Assistant builds full pedal-amp-IR signal chains from a text or voice prompt like '80s British stadium rock', plus a DeepSynth pickup-free guitar synth.",
-      "rationale": "Most actionable item: new hardware where a prompt builds the whole pedal-amp-IR chain. That changes how a guitarist dials in tone, and no published card covers it."
+      "headline": "Engram: a sampler that circuit-bends tiny AI models and turns their hallucinations into playable sound",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "published_iso": "2026-09-27T20:46:36Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
+      "excerpt": "Thoughtful Things' Engram is a sampler billed as a 'field recorder for latent space' that circuit-bends tiny AI models, turning their broken hallucinations into playable sound.",
+      "rationale": "The freshest item and the most creative one: a new instrument that treats model failure as sound-design material. It is the strongest tool story in the pool, and no published card covers it."
     },
     {
       "rank": 2,
       "tool": "Music",
       "category": "music",
-      "accent": "#0070f3",
+      "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "Spotify becomes the first streaming service inside Meta's Muse AI agent",
-      "url": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-09-24T14:31:15Z",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/New-Project-1-2.jpg",
-      "excerpt": "Spotify is the first streaming service connected to Meta's Muse AI agent: listeners can ask Muse to play audio, save songs and build Spotify playlists conversationally.",
-      "rationale": "New agent integration for listening and discovery. It is a separate story from the 9/26 Spotify Taste Profile card: a different feature and a different partner."
+      "headline": "ElevenLabs Studio 4.0: an agentic editor that generates music, SFX, voice and video inside one project",
+      "url": "https://www.youtube.com/watch?v=P-OZwbegYss",
+      "source": "ElevenLabs",
+      "published_iso": "2026-09-21T17:13:25Z",
+      "og_image": "https://i.ytimg.com/vi/P-OZwbegYss/maxresdefault.jpg",
+      "excerpt": "ElevenLabs Studio 4.0 is an agentic video editor inside ElevenCreative that generates video, image, voice, music and sound effects directly within a project.",
+      "rationale": "A new product release that puts music and SFX generation directly in the editing timeline, which is useful for anyone scoring content. It differs from the published ElevenMusic v2.5 and section-editing cards."
     },
     {
       "rank": 3,
@@ -36,65 +36,77 @@
       "category": "music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "San Jose Sharks drop their goal song after fans find it was made with Suno",
-      "url": "https://www.digitalmusicnews.com/2026/09/23/san-jose-sharks-suno-goal-song/",
-      "source": "Digital Music News",
-      "published_iso": "2026-09-24T03:25:44Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/san-jose-sharks-drop-ai-generated-goal-song.png",
-      "excerpt": "The San Jose Sharks replaced their goal song after only a season when fans discovered it had been generated with Suno.",
-      "rationale": "A concrete example of fan backlash against AI-generated music in pro sports. It is a fresh event, not related to the Suno lawsuit story."
+      "headline": "Why generative AI can't give audio pros the happy accident behind gated reverb",
+      "url": "https://www.production-expert.com/production-expert-1/generative-ai-we-need-to-talk-about-the-elephant-in-the-room",
+      "source": "Production Expert",
+      "published_iso": "2026-09-27T08:00:00Z",
+      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a9a9fcedfdfec78a756e50e/1788518358328/Why+Generative+AI+Is+So+Bad.webp?format=1500w",
+      "excerpt": "Generative AI is built to guess the most likely answer, which rules out the happy accidents that gave us gated reverb. Here is what that costs audio pros.",
+      "rationale": "A practitioner-level critique of how generative models work, written for engineers and producers. It is a different argument and outlet from the published Fred again.. and Brian May stance cards."
     },
     {
       "rank": 4,
       "tool": "Music",
       "category": "music",
-      "accent": "#7928ca",
+      "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "Sony Music becomes the first music company in the ARIAM responsible-AI coalition",
-      "url": "https://musically.com/2026/09/24/sony-music-group-joins-responsible-ai-policy-coalition-ariam/",
-      "source": "Music Ally",
-      "published_iso": "2026-09-24T12:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-24T122846.467.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Sony Music Group becomes the first music company to join ARIAM, the Alliance for Responsible Innovation in the Arts & Media, alongside Disney, the BBC and The New York Times.",
-      "rationale": "An industry standard-setting move on responsible AI, not government politics. A major label is entering a cross-media AI coalition for the first time, and no published card covers it."
+      "headline": "As WMG and BMG license Suno v6, artist reps call it 'the Wild, Wild West'",
+      "url": "https://www.billboard.com/pro/suno-ai-music-deals-labels-artist-reps-react/",
+      "source": "Billboard",
+      "published_iso": "2026-09-18T20:38:40Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/AI-music-robot-hand-billboard-1800.jpg?w=1024",
+      "excerpt": "As Suno makes AI music deals with labels like WMG and BMG for its new v6 models, artist representatives for Mötley Crüe, Afroman and more react.",
+      "rationale": "This is the only Suno pick. Its new angle is managers and reps for named artists reacting to the label deals, which has not been covered. It is distinct from the published v6 launch (9/12), user backlash (9/18), second lawsuit (9/22) and Sharks goal-song (9/27) cards."
     },
     {
       "rank": 5,
       "tool": "Music",
       "category": "music",
-      "accent": "#2ec5c5",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "Fred again.. speaks out against AI music: 'the process is the magic'",
-      "url": "https://djmag.com/news/fred-again-speaks-out-against-ai-music-process-magic",
-      "source": "DJ Mag",
-      "published_iso": "2026-09-25T14:52:11Z",
-      "og_image": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-09/Fred%20again...%20%5BCredit%20-%20Theo%20Batterham%5D%20%281%29.jpg.webp?itok=kzVi9I2t",
-      "excerpt": "Fred again.. spoke out against AI-generated music in a series of Instagram stories, arguing 'the process is the magic' of making music.",
-      "rationale": "A leading electronic artist's stance on AI and the creative process. It is a different artist and argument from the 9/22 Brian May card, and it adds a fifth distinct outlet."
+      "headline": "Music AI 2.0: the split between disposable synthetic content and identity-driven artist music",
+      "url": "https://www.digitalmusicnews.com/2026/09/25/a-tale-of-two-industries-music-ai-2-0/",
+      "source": "Digital Music News",
+      "published_iso": "2026-09-25T22:53:06Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Even-with-the-transformation-of-AI-we-must-rewrite-US-Copyright-Law.-It-is-a-mess.png",
+      "excerpt": "Music AI is splitting into two industries: transient, synthetic content and lasting, artist-driven music based on identity.",
+      "rationale": "A framework piece on where AI creative music is heading. It is the fifth distinct outlet and ranks ahead of the weaker fraud and Braille items in the fresh pool."
     }
   ],
   "dropped": [
     {
+      "url": "https://musictech.com/news/industry/lunacy-audio-nova/",
+      "reason": "Duplicate: the Lunacy Audio NOVA launch was already published 2026-09-18 (The Verge)."
+    },
+    {
+      "url": "https://musictech.com/news/industry/suno-ai-update-v6/",
+      "reason": "Duplicate: user backlash against Suno v6 was already published 2026-09-18 (MusicRadar 'Suno users slam its v6 update')."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/18/suno-subscribers-have-a-big-problem-with-v6/",
+      "reason": "Duplicate: same Suno v6 subscriber backlash story, already published 2026-09-18."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/17/submithub-bans-ai-music-submissions/",
+      "reason": "Duplicate: the SubmitHub AI-music ban was already published 2026-09-18 (Music Ally)."
+    },
+    {
       "url": "https://bedroomproducersblog.com/2026/09/26/suno-lawsuit/",
-      "reason": "Duplicate: the Sony/UMG second lawsuit over Suno v6 ('fruit of the same poisoned tree') was already published 2026-09-22 as music-suno-second-suit-v6 (MBW)."
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "reason": "Duplicate: same Sony/UMG v6 'model laundering' lawsuit, already published 2026-09-22 (music-suno-second-suit-v6)."
-    },
-    {
-      "url": "https://www.koreatimes.co.kr/entertainment/music/20260921/ai-music-is-already-charting-korea-is-slow-to-respond",
-      "reason": "Duplicate: the Joseon HipHop Suno track on Melon Top 100 and KOMCA's withdrawal were already published 2026-09-22 (music-komca-ai-registration-withdrawn, Music Ally citing Korea Times)."
+      "reason": "Duplicate: the Sony/UMG second v6 lawsuit ('fruit of the same poisoned tree') was already published 2026-09-22 (MBW). This item was also dropped on 9/27."
     }
   ],
   "not_selected": [
     {
-      "url": "https://www.digitalmusicnews.com/2026/09/25/a-tale-of-two-industries-music-ai-2-0/",
-      "reason": "Opinion essay with no concrete release or event. Also a second DMN pick; ranked below the five."
+      "url": "https://www.hypebot.com/ifpi-unites-cd-baby-sony-umg-and-more-to-fight-ai-streams/",
+      "reason": "A streaming-fraud and industry initiative with weak relevance to AI creativity."
+    },
+    {
+      "url": "https://musically.com/2026/09/25/ai-assisted-streaming-fraudster-hopes-to-avoid-jail-sentence/",
+      "reason": "A court update on a streaming-fraud case. It is legal noise, not a creative or tool story."
     },
     {
       "url": "https://www.hypebot.com/what-it-actually-takes-to-read-music-without-sight-and-what-ai-can-help-solve/",
-      "reason": "AI is only a speculative side angle in this piece about Braille music. Weaker novelty."
+      "reason": "AI is only a speculative side angle in this piece about Braille music."
     }
   ]
 }

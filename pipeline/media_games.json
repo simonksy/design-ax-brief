@@ -1,32 +1,11 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "games",
   "media": [
-    {
-      "id": "games-meshy-mora-71-launch",
-      "type": "image",
-      "src": "pipeline/media/games-meshy-mora-71-launch.jpg"
-    },
-    {
-      "id": "games-pixverse-r2-world-model",
-      "type": "video",
-      "src": "pipeline/media/games-pixverse-r2-world-model.mp4",
-      "poster": "pipeline/media/games-pixverse-r2-world-model.jpg"
-    },
-    {
-      "id": "games-everboard-evervibe-console",
-      "type": "image",
-      "src": "pipeline/media/games-everboard-evervibe-console.jpg"
-    },
-    {
-      "id": "games-ukge-convention-ai-ban",
-      "type": "image",
-      "src": "pipeline/media/games-ukge-convention-ai-ban.jpg"
-    },
-    {
-      "id": "games-steam-needle-haystack-clones",
-      "type": "image",
-      "src": "pipeline/media/games-steam-needle-haystack-clones.jpg"
-    }
+    {"id": "games-arc-raiders-ml-bully-enemy", "type": "image", "src": "pipeline/media/games-arc-raiders-ml-bully-enemy.jpg"},
+    {"id": "games-sony-ai-tech-support-patch-patent", "type": "image", "src": "pipeline/media/games-sony-ai-tech-support-patch-patent.jpg"},
+    {"id": "games-disgaea-niikawa-no-ai-stories", "type": "image", "src": "pipeline/media/games-disgaea-niikawa-no-ai-stories.jpg"},
+    {"id": "games-tenebris-somnia-practical-effects-horror", "type": "video", "src": "pipeline/media/games-tenebris-somnia-practical-effects-horror.mp4", "poster": "pipeline/media/games-tenebris-somnia-practical-effects-horror.jpg"},
+    {"id": "games-starform-ai-native-26-people", "type": "video", "src": "pipeline/media/games-starform-ai-native-26-people.mp4", "poster": "pipeline/media/games-starform-ai-native-26-people.jpg"}
   ]
 }

@@ -1,71 +1,93 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "games",
   "picks": [
     {
       "tool": "Games",
       "category": "games",
-      "headline": "Meshy Details Mora, a Research Architecture for AI-Generated Interactive Worlds, and Launches Meshy 7.1",
-      "url": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html",
-      "source": "Meshy (PR Newswire)",
-      "published_iso": "2026-09-21T11:00:00-04:00",
-      "og_image": "https://mmx.prnewswire.com/media/MS1992445/20260921044342EDT_image_1.jpg?id=OA2959914&p=facebook",
-      "excerpt": "Meshy details Mora, an architecture combining coding agents (game logic), 3D generation (assets/space) and a real-time video model (final imagery) for playable AI worlds, and ships Meshy 7.1 with Ultra 4K 4096^3 voxel geometry. Off-list: no allowed outlet covered it.",
+      "headline": "Arc Raiders' New Machine-Learning Enemy Looks Absolutely Terrifying",
+      "url": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
+      "source": "Polygon",
+      "published_iso": "2026-09-23T17:00:15Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-first-person-mode-header.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "The Bully is gonna get you",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Shipping 3D-generation release (Meshy 7.1) plus a concrete agent+3D+video architecture for playable worlds; most actionable tool news in the pool, primary source."
+      "rationale": "A shipping game using machine-learned enemy behavior in a live update is concrete production use of ML, not talk. It is the most novel item in the pool and has not been covered in games before."
     },
     {
       "tool": "Games",
       "category": "games",
-      "headline": "PixVerse Introduces R2, Advancing Its Real-Time World Model Toward Persistent, Playable Worlds",
-      "url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
-      "source": "PixVerse",
-      "published_iso": "2026-09-22T00:00:00.000Z",
-      "og_image": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-cover.jpg?x-oss-process=style/cover-webp-large",
-      "excerpt": "PixVerse R2 upgrades its real-time world model toward persistent, playable worlds: longer coherent sessions, memory that carries actions forward, and text/audio/action inputs driving synchronized video and audio. Off-list: no allowed outlet covered it.",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "New real-time world model release with action memory and multimodal input; novel interactive-generation step, not previously covered in games."
-    },
-    {
-      "tool": "Games",
-      "category": "games",
-      "headline": "New $500 AI-Powered Console Can Create Digital Tabletop Games From Scratch",
-      "url": "https://www.polygon.com/everboard-tablet-tabletop-board-gaming-evervibe-ai-creation-interview/",
-      "source": "Polygon",
-      "published_iso": "2026-09-24T16:30:17Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/polygon-gradiant-copy.png?w=1200&h=675&fit=crop",
-      "excerpt": "EverBoard's $500 AI-powered tabletop console uses 'EverVibe' to generate digital board games from scratch; the company explains how it works and what ongoing access will cost.",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Consumer hardware that generates playable board games via AI, with pricing and access model explained; novel product from a reputable outlet."
-    },
-    {
-      "tool": "Games",
-      "category": "games",
-      "headline": "UK's Largest Tabletop Convention Bans AI",
-      "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
-      "source": "Kotaku",
-      "published_iso": "2026-09-26T20:30:50+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg",
-      "excerpt": "As AI generated material consumes much of the gaming and entertainment world, major tabletop players like UKGE refuse to roll the dice with the unpopular tech",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Freshest item in the pool; a major event's AI ban with exceptions directly changes what creators and exhibitors can bring."
-    },
-    {
-      "tool": "Games",
-      "category": "games",
-      "headline": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
-      "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-23T14:59:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
-      "excerpt": "The creator of viral hit Needle In A Haystack Simulator apologizes as clones - many evidently relying on generative AI - flood Steam, dubbed 'the Robloxification of Steam'.",
+      "headline": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches",
+      "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches",
+      "source": "IGN",
+      "published_iso": "2026-09-23T13:50:42.428Z",
+      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Anyone who's had a console knows that on a long enough timeline they will have some kind of technical bug that you need to troubleshoot, and Sony is trying to get around that reality with an AI tech support agent.",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Distinct event from the 9-22 potato-peeler clone card: a wave of genAI clones swamping Steam around one viral hit, showing platform-level impact on indie discoverability."
+      "rationale": "New Sony patent for an AI tech-support agent that generates fixes on the console. This is a different patent from the 08-21 Kotaku grinding-AI patent card, and it signals where platform holders are aiming agentic AI."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "headline": "Disgaea creator Sohei Niikawa has \"absolutely no interest in having AI write stories instead of him\"",
+      "url": "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/",
+      "source": "AUTOMATON",
+      "published_iso": "2026-09-25T13:00:00+00:00",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2025/05/20250530-48534-header.jpg",
+      "excerpt": "Disgaea director Sohei Niikawa talks about generative AI use and discusses the philosophy behind his creative process.",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Freshest item in the pool: a named Japanese creator draws a clear line between AI assistance and AI authorship. It is a different speaker and position from the 09-26 Kotaku card, where the NIS America head said the company is researching AI."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "headline": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects",
+      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
+      "source": "PC Gamer",
+      "published_iso": "2026-09-20T16:29:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
+      "excerpt": "A game so emotionally scarring, \"you'll call your ex.\"",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "Weakest pick, included only as the 4th unique fresh story. An indie studio markets live-action and practical-effects craft as its answer to AI, which fits the section's recurring human-made-positioning thread."
+    },
+    {
+      "tool": "Games",
+      "category": "games",
+      "headline": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
+      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-09-23T15:48:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
+      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Most AI-substantive item left in the recovery pool: a studio head describes where AI-native production helps a 26-person live-game team and where it stops. It is a new outlet for today's set and not a duplicate. The earlier PocketGamer.biz Nordic AI-native piece from 08-26 covers different studios."
+    }
+  ],
+  "dropped": [
+    {
+      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "reason": "Same release as unity.com/blog/unity-plugin-for-claude-code (published 2026-09-13). The video is a walkthrough of the same Unity Claude Code plugin, and it sits next to the 09-19/09-26 Unity Codex plugin coverage."
+    },
+    {
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "reason": "Same topic as the GamesIndustry.biz Tim Willits interview (published 2026-09-14): Saber's CCO on generative AI and Rideshare. The Rideshare genAI controversy was also covered by Eurogamer on 2026-08-29."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "reason": "Same ruling as the GamesRadar HoYoverse $112,000 AI voice case (published 2026-09-12)."
+    },
+    {
+      "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
+      "reason": "Same story as the GamesRadar card on the PS5 Linux dev quitting over AI slop kiddies (published 2026-09-17)."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "reason": "The core event is the 2026 CESA survey, already published as AUTOMATON's 85%+ Japanese devs use genAI card (2026-09-18) plus the 2026-09-23 follow-up."
     }
   ]
 }

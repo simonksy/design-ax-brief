@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "books",
   "picks": [
     {
@@ -8,13 +8,13 @@
       "category": "books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
-      "source": "The Guardian",
-      "published_iso": "2026-09-26T11:00:36Z",
-      "og_image": "https://i.guim.co.uk/img/media/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74d7555c5ff03c9f1d0748fdc68055e",
-      "excerpt": "Oxford University will let OpenAI train its models on Bodleian Library collections, as staff voice concerns over reputational risk of partnering with ChatGPT's maker. New library/archive AI-training deal (distinct from the Japan used-books and BookPact stories).",
-      "rationale": "Freshest, highest-credibility item: a named major library signing an AI-training deal is a new event, distinct from the CRL model-terms paper (09-20) and Japan used-books story (09-26)."
+      "title": "Sudowrite adds Character Portraits to Story Bible",
+      "url": "https://feedback.sudowrite.com/changelog/introducing-character-portraits",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-25T01:23:58Z",
+      "og_image": "https://fb-usercontent.fra1.cdn.digitaloceanspaces.com/019224dc-a888-7f48-9ff1-ea2dd116543a.png",
+      "excerpt": "Sudowrite adds Character Portraits to Story Bible: writers generate faces for character cards straight from the character's physical description in four preset styles (Painterly, Cinematic Realism, Bright Editorial, Storybook) or a custom style/reference image, saved to per-character galleries.",
+      "rationale": "New feature that fiction writers can use right away, with a visual and design angle (preset styles, reference images). Never published before; the only earlier Sudowrite card was the July Sonnet 5 changelog."
     },
     {
       "rank": 2,
@@ -22,13 +22,13 @@
       "category": "books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "title": "If AI imagines before we do, what is left for illustrators?",
-      "url": "https://www.thebookseller.com/comment/ai-imagines-before-illustrators-what-is-left",
-      "source": "The Bookseller",
-      "published_iso": "2026-09-24T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg",
-      "excerpt": "Illustrator Daniela Frongia on publishers using generative AI to produce early cover and design ideas before briefing illustrators, and what that does to the illustrator's role. Cover/illustration angle.",
-      "rationale": "Most design-relevant piece in the pool: how publishers now use gen-AI for cover concepts before briefing illustrators; different author and argument from the 09-14 Scheffler comment."
+      "title": "Novelcrafter Live: newest AI models vs writer's block, plus new manuscript organisation",
+      "url": "https://www.youtube.com/watch?v=lo9p8bVnDxE",
+      "source": "Novelcrafter (YouTube)",
+      "published_iso": "2026-09-26T20:59:07-07:00",
+      "og_image": "https://i.ytimg.com/vi/lo9p8bVnDxE/maxresdefault.jpg",
+      "excerpt": "Novelcrafter Live: testing the newest AI models to break writer's block, plus a walkthrough of Novelcrafter's new manuscript organisation options.",
+      "rationale": "Freshest item in the pool, and it walks through a competing writing tool's new manuscript features. It is a video, so it adds variety to the section."
     },
     {
       "rank": 3,
@@ -36,13 +36,13 @@
       "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움",
-      "url": "https://platum.kr/archives/295202",
-      "source": "플래텀",
-      "published_iso": "2026-09-26T18:46:28+09:00",
-      "og_image": "https://cdn.platum.kr/wp-content/uploads/2026/09/image-87.png",
-      "excerpt": "Study: readers who had used AI were better at telling AI-written fiction from human fiction than well-read literature fans, but overall participants guessed the author at or below chance. OFF-LIST (Korean).",
-      "rationale": "Fresh research finding that bears directly on this month's AI-authorship accusation wave (Orelien, Falade), adding evidence rather than another accusation story."
+      "title": "Apex CoVantage to launch eden, an AI editorial engine for publishing, at Frankfurt",
+      "url": "https://www.prweb.com/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-302887272.html",
+      "source": "PRWeb (Apex CoVantage)",
+      "published_iso": "2026-09-23T17:20:00+01:00",
+      "og_image": "https://mmx.prnewswire.com/media/MS1994083/33.jpg?id=OA2964297&p=facebook",
+      "excerpt": "Apex CoVantage will launch eden, an AI copyediting engine for book and academic publishing, at Frankfurt Book Fair (Oct 7): subject-aware error detection, equation logic checks; copyeditors accept 80-90% of suggestions and passes run ~3x faster. Off-list domain: no on-list outlet had covered it.",
+      "rationale": "A concrete production-workflow tool for publishers, with claimed numbers (80-90% of suggestions accepted, about 3x faster passes). It was in the pool on 09-27 but not picked, so it has never been published."
     },
     {
       "rank": 4,
@@ -50,13 +50,13 @@
       "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "title": "Google's New AI Voice Model Copies a Voice From 30 Seconds - Voice Over Talent Industry News",
-      "url": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/",
-      "source": "Voice Over Herald",
-      "published_iso": "2026-09-26T16:10:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-4.jpg",
-      "excerpt": "Google's new Gemini 3.8 speech models can clone a voice from a 30-second sample, but only after the voice owner records spoken consent. What it means for narrators and voice talent. OFF-LIST (narration-voices angle; Gemini TTS may also surface in other sections).",
-      "rationale": "New model release with a consent-gated cloning step, framed for audiobook narrators; actionable for audio production and new relative to the Storytel recaps and Spotify narration items."
+      "title": "Sudowrite adds Claude Opus 5.5, GPT-6 Sol and GPT-6 Luna as prose models",
+      "url": "https://feedback.sudowrite.com/changelog/new-ai-models-opus-55-gpt-6-sol-and-gpt",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-22T23:43:08Z",
+      "og_image": "https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/changelog/6ab2bed10d830ac5135cf1e1/01a0cb34-2d13-78f7-9979-70460d78f754/b64u-Q2xlYW5TaG90IDIwMjYtMDktMjIgYXQgMTguMTcuNTYgMkAyeC5wbmc.png",
+      "excerpt": "Sudowrite adds Claude Opus 5.5, GPT-6 Sol and GPT-6 Luna as selectable prose models across Write, Draft and Plugins for fiction authors.",
+      "rationale": "Changes which models authors can pick in Write, Draft and Plugins starting today. It is a separate release from the Portraits feature (different topic and date), and it is the second of the two allowed Sudowrite cards."
     },
     {
       "rank": 5,
@@ -64,13 +64,13 @@
       "category": "books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
-      "url": "https://www.hani.co.kr/arti/culture/book/1278045.html",
-      "source": "한겨레",
-      "published_iso": "2026-09-16T11:22:00+09:00",
-      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/697/imgdb/original/2026/0916/20260916501373.webp",
-      "excerpt": "With nonfiction/general-interest sales hit hard by AI answer engines, Korean trade-nonfiction publishers are moving into literary fiction. Market effect of AI on publishing. OFF-LIST (Korean).",
-      "rationale": "Exclusive reporting on a concrete market shift, with publishers changing their lists because AI answer engines are eating nonfiction sales. Chosen over the Apex eden press release and lower-tier local items."
+      "title": "Publishers sound alarm over AI-generated textbooks",
+      "url": "https://www.standardmedia.co.ke/education/article/2001558368/publishers-sound-alarm-over-ai-generated-textbooks",
+      "source": "The Standard (Kenya)",
+      "published_iso": "2026-09-22T14:00:00+03:00",
+      "og_image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/d8UfxHh7UAF3aj9kyHetJaIhNIBrWsKxbS8M5PgV.jpg",
+      "excerpt": "Kenyan publishers report authors increasingly submitting AI-generated textbook content; houses are strengthening editorial checks and training editors to detect AI material. Off-list domain: textbook angle not covered on-list.",
+      "rationale": "New angle on editorial practice: textbook publishers training editors to detect AI-written submissions. It adds a non-Western, education-publishing view, and no textbook-detection story has run in this section."
     }
   ]
 }
