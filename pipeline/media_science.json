@@ -1,33 +1,7 @@
-{
-  "date": "2026-09-27",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-kit-emap-selfdriving-lab",
-      "type": "image",
-      "src": "pipeline/media/science-kit-emap-selfdriving-lab.jpg"
-    },
-    {
-      "id": "science-qcdesign-meridian-error-reduction",
-      "type": "image",
-      "src": "pipeline/media/science-qcdesign-meridian-error-reduction.png"
-    },
-    {
-      "id": "science-aphid-gall-protein-ai-structure",
-      "type": "video",
-      "src": "pipeline/media/science-aphid-gall-protein-ai-structure.mp4",
-      "poster": "pipeline/media/science-aphid-gall-protein-ai-structure.jpg"
-    },
-    {
-      "id": "science-robot-engineering-agent-benchmark",
-      "type": "video",
-      "src": "pipeline/media/science-robot-engineering-agent-benchmark.mp4",
-      "poster": "pipeline/media/science-robot-engineering-agent-benchmark.jpg"
-    },
-    {
-      "id": "science-affective-genai-youth-mental-health",
-      "type": "image",
-      "src": "pipeline/media/science-affective-genai-youth-mental-health.jpg"
-    }
-  ]
-}
+{"date":"2026-09-28","section":"science","media":[
+{"id":"science-ai-hurricane-intensity-forecast","type":"image","src":"pipeline/media/science-ai-hurricane-intensity-forecast.jpg"},
+{"id":"science-mdanderson-immunotherapy-side-effect-ai","type":"image","src":"pipeline/media/science-mdanderson-immunotherapy-side-effect-ai.jpg"},
+{"id":"science-ml-honey-bee-repellent","type":"image","src":"pipeline/media/science-ml-honey-bee-repellent.jpg"},
+{"id":"science-atomflow-retrosynthesis","type":"image","src":"pipeline/media/science-atomflow-retrosynthesis.jpg"},
+{"id":"science-ionq-quantum-satellite-radar","type":"image","src":"pipeline/media/science-ionq-quantum-satellite-radar.png"}
+]}

@@ -1,57 +1,50 @@
 {
-  "date": "2026-09-22",
+  "generated_at": "2026-09-27T22:40:00Z",
   "section": "games",
   "window_hours": 336,
+  "recovery_pass": 1,
+  "keywords_added": [
+    "AI global illumination diffusion",
+    "AI prototype art director",
+    "LLM fan port vibecoded",
+    "DLSS FSR upscaling mod",
+    "AI-native studio",
+    "DLSS-NR-on-AMD",
+    "AI 챗봇 가이드 MMORPG",
+    "실시간 학습 AI"
+  ],
   "items": [
     {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
-      "source": "PC Gamer",
-      "category": "games",
-      "title": "'AI could never make Tenebris Somnia' — the 2D horror built on live-action and practical effects",
-      "published_iso": "2026-09-20T16:29:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
-      "excerpt": "PC Gamer profiles Tenebris Somnia, a 2D retro survival horror whose live-action cutscenes and practical effects are pitched as exactly the kind of craft 'AI could never make.'"
-    },
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "category": "games",
-      "title": "Twitch's new AI stream coach tool pushes creators into an AI opt-out fight",
-      "published_iso": "2026-09-11T20:45:43Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered stream coach that will offer suggestions on how creators can improve their channel"
-    },
-    {
-      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/",
-      "source": "PC Gamer",
-      "category": "games",
-      "title": "Steins;Gate creators' next game is an entirely vibe-coded FPS",
-      "published_iso": "2026-09-10T02:54:46Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2yEXLs6WNSnNauA6NWxFKd-1200-80.png",
-      "excerpt": "The next game from the Steins;Gate creators at Mages is an entirely vibe-coded FPS, made with AI-generated code and assets — a mainstream Japanese studio shipping a prompt-built title."
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
+      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
       "source": "Rock Paper Shotgun",
-      "category": "games",
-      "title": "Breaking Benjamin's singer begs fans to try his AI-assisted Fallout 4 first-person mod",
-      "published_iso": "2026-09-09T12:00:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Breaking Benjamin singer Benjamin Burnley has begged concertgoers to try an AI-assisted first person mod he's made for Fallout 4."
+      "published_iso": "2026-09-24T10:30:09+00:00",
+      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
+      "og_image": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A new community mod adds DLSS and FSR upscaling to 2008's GTA IV, giving the game a sharper, modern AI-reconstructed image.",
+      "category": "games"
     },
     {
-      "url": "https://www.gamesradar.com/games/action/following-stellar-blade-blood-rain-ai-controversy-shift-up-lead-says-theyre-taking-concerns-seriously-but-the-tech-still-has-a-lot-of-influence-and-impact-on-game-development/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "title": "After the Blood Rain AI controversy, Shift Up's lead says AI still shapes their development",
-      "published_iso": "2026-09-08T12:00:49Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/DidcHpaRRhoubAGiyGxR6C-1920-80.jpg",
-      "excerpt": "Fans previously criticized the studio for releasing an AI-generated music video promoting the game"
+      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-09-23T15:48:00+01:00",
+      "title": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
+      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
+      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
+      "category": "games"
+    },
+    {
+      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
+      "source": "Wccftech",
+      "published_iso": "2026-09-26T18:02:42+00:00",
+      "title": "DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-NR-on-AMD-RX-9000-Alpha-0.4.0.jpg",
+      "excerpt": "DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5 neural rendering, pushing Cyberpunk 2077 from 30 to 50 fps at 3440x1440. Note: DLSS 5 modding thread overlaps prior coverage (open-source Vulkan reimplementation); curator should weigh as follow-up.",
+      "category": "games"
     }
   ],
   "dedup": {
-    "dropped": 6,
-    "kept": 5,
+    "dropped": 5,
+    "kept": 3,
     "against_days": 5
   }
 }

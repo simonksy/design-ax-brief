@@ -1,25 +1,61 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-      "source": "Creative Bloq",
+      "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb",
+      "source": "UX Collective",
       "category": "figma",
-      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
-      "published_iso": "2026-09-26T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
-      "excerpt": "Creative Bloq reads Adobe MAX 2026's session and speaker lineup as a map of where Adobe is steering its creative AI, from Firefly models and agentic assistants inside Photoshop and Premiere to how it pitches AI to working designers."
+      "title": "How we save entry-level UX work that teaches craft in the time of AI",
+      "published_iso": "2026-09-27T19:38:02Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*jEoYbMBhs4xVSaPrjdi6Tg.png",
+      "excerpt": "Patrick Neeman argues that AI now does the transcript tagging, theming and clipping juniors used to learn on, and proposes seven tasks UX teams should keep for humans to build the design bench for 2030."
     },
     {
-      "url": "https://www.creativebloq.com/ai/metas-new-ai-avatar-is-making-me-feel-infantilised",
+      "url": "https://dev.to/zoopcoder/figmas-dev-mode-mcp-server-explained-and-why-it-wont-build-you-a-website-or-app-jle",
+      "source": "DEV Community",
+      "category": "figma",
+      "title": "Figma's Dev Mode MCP Server Explained — and Why It Won't Build You a Website or App",
+      "published_iso": "2026-09-25T16:23:53Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjl3j0fn7fv1qoimrkwrp.png",
+      "excerpt": "Explains what Figma's Dev Mode MCP server actually hands to coding agents (design context, variables, component mappings) and why it is a design-to-code bridge, not an app builder."
+    },
+    {
+      "url": "https://dev.to/ethanjamescolez/designing-an-ai-photo-editor-around-a-capability-contract-570m",
+      "source": "DEV Community",
+      "category": "tokens",
+      "title": "Designing an AI Photo Editor Around a Capability Contract",
+      "published_iso": "2026-09-27T00:47:59Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvrzobw16sgxfz6mi2tjx.png",
+      "excerpt": "A product-design case study on structuring an AI photo editor's small upload-prompt-generate interface around an explicit 'capability contract' so users know what the model can and cannot do."
+    },
+    {
+      "url": "https://dev.to/codeideal/atomcut-made-its-own-intro-using-opus-55-launch-motion-design--2pg9",
+      "source": "DEV Community",
+      "category": "figma",
+      "title": "AtomCut made its own intro using Opus 5.5 ( Launch Motion design )",
+      "published_iso": "2026-09-27T21:29:46Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6iro9tfd9zd404odpt1f.png",
+      "excerpt": "AtomCut shows a launch motion-design intro built entirely by Claude Opus 5.5 driving its AtomCut MCP, an example of agent-generated motion graphics."
+    },
+    {
+      "url": "https://techgenyz.com/google-stitch-gemini-3-8-flash-brand-ui-design/",
+      "source": "Techgenyz",
+      "category": "figma",
+      "title": "Google Stitch Uses Gemini 3.8 Flash to Turn Brand Assets Into UI Designs - Techgenyz",
+      "published_iso": "2026-09-25T09:14:14Z",
+      "og_image": "https://techgenyz.com/wp-content/uploads/2026/03/Stitch_Keyword.webp",
+      "excerpt": "Google Stitch now uses Gemini 3.8 Flash to read dropped-in brand kits and product shots, auto-extract a design system and styling, and generate brand-consistent marketing and product page layouts."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
       "source": "Creative Bloq",
       "category": "workflow",
-      "title": "Meta's new AI avatar feels like a distraction from the bigger picture",
-      "published_iso": "2026-09-25T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LDwzMXbimeGhUrZkAaTRaU-1920-80.jpg",
-      "excerpt": "A design critique of Meta's cute, customisable Muse AI avatar: Creative Bloq argues the character design infantilises users and papers over bigger questions about the agent underneath."
+      "title": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
+      "published_iso": "2026-09-27T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
+      "excerpt": "NASA creative director David Rager on keeping the agency's brand trustworthy when AI-generated imagery floods the feed, and why authentic assets are now a design advantage."
     },
     {
       "url": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
@@ -28,25 +64,7 @@
       "title": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
       "published_iso": "2026-09-25T06:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/GvDSxUsrz5ffvGb69PyfFm-1920-80.jpg",
-      "excerpt": "Viewers assumed Apple's new Games ad was AI-generated; a behind-the-scenes video shows painstaking hand-made stop-motion craft, a sign of how AI suspicion now shapes how creative work is received."
-    },
-    {
-      "url": "https://dev.to/usman_basheers/which-mcp-server-can-design-svg-and-app-ui-eight-compared-2026-2emp",
-      "source": "DEV Community",
-      "category": "figma",
-      "title": "Which MCP server can design SVG and app UI? Eight compared (2026)",
-      "published_iso": "2026-09-26T18:58:32Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqw8zw67iordk5fzsgaz.png",
-      "excerpt": "A hands-on comparison of eight MCP servers that let coding agents design app UI screens, icons and SVGs, covering which ones output editable design files versus raw code."
-    },
-    {
-      "url": "https://dev.to/gretchenweimannrh111/benchmarking-next-gen-image-video-generation-in-2026-gpt-image-25-flare-grok-imagine-20-and-3doh",
-      "source": "DEV Community",
-      "category": "render",
-      "title": "Benchmarking Next-Gen Image & Video Generation in 2026: GPT-Image-2.5 Flare, Grok Imagine 2.0, and 4K Commercial Pipelines",
-      "published_iso": "2026-09-25T16:41:43Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3xpx1aciukxby2fdkbww.png",
-      "excerpt": "A practitioner benchmark of the latest image and video generators (GPT-Image-2.5 Flare, Grok Imagine 2.0 and others) for 4K commercial ad pipelines, comparing fidelity, consistency and cost."
+      "excerpt": "Viewers assumed Apple's Games ad was AI-generated; a behind-the-scenes video shows painstaking hand-made stop-motion, highlighting how AI suspicion now shapes how craft is received."
     },
     {
       "url": "https://vercel.com/changelog/pixel-canary-is-now-available-in-stealth-for-free-on-ai-gateway",
@@ -55,34 +73,70 @@
       "title": "Pixel Canary is now available in stealth for free on AI Gateway",
       "published_iso": "2026-09-25T00:00:00Z",
       "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4GtYNhtEQkUeODqa9QB3VE/353d1e3080757da0fd16aa78104e7a00/image__3_.png",
-      "excerpt": "Vercel's AI Gateway added Pixel Canary, a stealth model free during preview whose stated strengths are coding, frontend development and mobile app design."
+      "excerpt": "Vercel AI Gateway adds Pixel Canary, a stealth model pitched for coding, frontend development and mobile app design, free to use while in stealth."
     },
     {
-      "url": "https://www.cgchannel.com/2026/09/otoy-releases-octanerender-2027-1-in-alpha/",
-      "source": "CG Channel",
+      "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+      "source": "PetaPixel",
       "category": "render",
-      "title": "Otoy releases OctaneRender 2027.1 in alpha (updated for Alpha 3)",
-      "published_iso": "2026-09-24T14:00:49Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
-      "excerpt": "OctaneRender 2027.1's experimental build adds a real-time neural rendering mode built on DLSS-style ray reconstruction for near noise-free viewport renders, an updated AI Light system and USD export; Alpha 3 adds SDF-to-mesh baking."
+      "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini",
+      "published_iso": "2026-09-25T13:18:52Z",
+      "og_image": "https://petapixel.com/assets/uploads/2026/09/media_11e188d386cd64d138c6fb8d51892c64e59f6459c.jpg.jpg",
+      "excerpt": "Adobe's Photoshop and Lightroom editing tools now run inside Google Gemini, letting users make color, lighting and retouching edits to photos conversationally without opening Adobe apps."
     },
     {
-      "url": "https://www.engineering.com/bluebeam-expands-academic-access-to-ai-assisted-aec-tools/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "title": "Bluebeam expands academic access to AI-assisted AEC tools",
-      "published_iso": "2026-09-25T14:47:56Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Bluebeam-expands-academic-access-to-AI-assisted-AEC-tools.webp",
-      "excerpt": "Bluebeam is opening its Max tier to eligible students and educators, giving them AI features for document review, design comparisons, markup generation and workflow automation."
+      "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
+      "source": "TestingCatalog",
+      "category": "render",
+      "title": "New Google Flow build now points to Nano Banana 2.1",
+      "published_iso": "2026-09-27T14:28:18Z",
+      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/09/Google-Flow-----Sept-24-00-52-09-25-2026_10_28_PM.jpg",
+      "excerpt": "A new Google Flow web build labels an upcoming image model as Nano Banana 2.1, replacing an earlier 2.5 Flash reference; Google has not announced it yet."
     },
     {
-      "url": "https://www.engineering.com/mathworks-introduces-matlab-and-simulink-release-2026b/",
-      "source": "Engineering.com",
+      "url": "https://www.howtogeek.com/claude-makes-using-blender-easy/",
+      "source": "How-To Geek",
+      "category": "render",
+      "title": "Blender always scared me, but Claude helped me make this animated video in just a few hours",
+      "published_iso": "2026-09-27T18:00:14Z",
+      "og_image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/an-3d-animated-video-running-on-vlc-and-blender-open-in-the-background-which-was-used-to-create-it-1.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "A Blender novice uses Claude to drive Blender and produce a short 3D animated video in a few hours, showing how AI assistants lower the barrier to 3D tools."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "category": "render",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "published_iso": "2026-09-27T20:46:36Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
+      "excerpt": "Thoughtful Things' Engram is a hardware sampler, a 'field recorder for latent space' that circuit-bends tiny on-device AI models into instruments; launching on Kickstarter."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
       "category": "cad",
-      "title": "MathWorks introduces MATLAB and Simulink Release 2026b",
-      "published_iso": "2026-09-25T12:20:55Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/04/mathworks-logo-1.png",
-      "excerpt": "Release 2026b adds AI-assisted profiling through Simulink Copilot, a Visual Inspection Toolbox mixing AI and image processing, and PyTorch co-execution for hardware-software co-design workflows."
+      "title": "Tesla’s Optimus robot is going through growing pains",
+      "published_iso": "2026-09-25T17:01:36Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Tesla's Optimus humanoid is ramping production but its dexterous hands remain the design bottleneck, with supplier and engineering problems slowing the rollout."
+    },
+    {
+      "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
+      "source": "Engadget",
+      "category": "cad",
+      "title": "Humanoid robots are getting even creepier (this one can cry on command) - Engadget",
+      "published_iso": "2026-09-27T13:15:00Z",
+      "og_image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
+      "excerpt": "Humanoid robots such as the Yansyn-X2 are being designed to mimic human emotion, including crying on command, raising uncanny-valley questions for robot product design."
+    },
+    {
+      "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+      "source": "The Decoder",
+      "category": "cad",
+      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+      "published_iso": "2026-09-27T10:59:11Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_kitchen_astra-1200x670.png",
+      "excerpt": "Stanford and Caltech's HomeBody system lets GPT-6 Astra call modular robot skills directly, and a humanoid independently tidied an unfamiliar kitchen without a trained control layer."
     },
     {
       "url": "https://www.uploadvr.com/meta-hologram-realistic-avatars-meta-vr-glasses-connect-2026/",
@@ -91,43 +145,7 @@
       "title": "Hologram: Meta Is Finally Set To Ship Realistic Avatars, And We Tried Them",
       "published_iso": "2026-09-25T02:30:01Z",
       "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Hologram-calling-featured-image.png",
-      "excerpt": "Meta's Hologram realistic avatars, generated by a server-side real-time generative diffusion model from a phone scan, ship shoulders-up on Ray-Ban Display and then full-body in stereo 3D on Meta VR Glasses; UploadVR tried both."
-    },
-    {
-      "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "source": "The Verge",
-      "category": "vr",
-      "title": "Meta's next VR device isn't a headset — it's glasses",
-      "published_iso": "2026-09-23T23:42:10Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200",
-      "excerpt": "Hands-on with Meta VR Glasses, the puck-tethered lightweight successor to Quest: a new form factor that changes what XR prototyping and spatial interface design have to target."
-    },
-    {
-      "url": "https://roadtovr.com/meta-vr-glasses-dev-competition-1m-2026/",
-      "source": "Road to VR",
-      "category": "vr",
-      "title": "Meta Launches $1M Developer Competition to Stock 'VR Glasses' with More Hand-tracked Apps",
-      "published_iso": "2026-09-24T18:35:13Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/start-dev-vr-glasses.jpg",
-      "excerpt": "Meta's new VR Start Developer Competition puts up $1 million to seed hand-tracked apps for Meta VR Glasses, pushing creators toward controller-free interaction design."
-    },
-    {
-      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "source": "The Verge",
-      "category": "workflow",
-      "title": "It's sinister that Meta's Muse AI mascot is so cute",
-      "published_iso": "2026-09-24T17:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jolly1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "The Verge's Optimizer column examines how Meta uses a cute mascot to make its Muse AI agent easier to accept, and what that character-design strategy hides."
-    },
-    {
-      "url": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era",
-      "source": "Fast Company",
-      "category": "workflow",
-      "title": "With Meta's Muse Charm, AI enters its kawaii era",
-      "published_iso": "2026-09-24T18:45:41Z",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612532-meta-muse-charm.jpg",
-      "excerpt": "To sell AI hardware to the masses, Meta is going kawaii: the Muse Charm is a Tamagotchi-like handheld that personifies its Muse agent as a fuzzy, nameable mascot, a deliberate design move against AI's image problem."
+      "excerpt": "Meta set a timeline to ship its realistic 'Hologram' avatars, shoulders-up on Ray-Ban Display then full-body on its VR Glasses; UploadVR tried both at Connect."
     },
     {
       "url": "https://www.cio.com/article/4224914/ai-leadership-inside-musinsa-styling-work-with-ai-the-ax-approach-led-by-two-directors.html",
@@ -136,7 +154,7 @@
       "title": "The AI transformation underway at Musinsa",
       "published_iso": "2026-09-25T10:00:00Z",
       "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4224914-0-78207000-1790330515-MUSINSA_2_resized.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "Inside Korean fashion platform Musinsa's organisation-wide AX program led by two directors: moving past individual ChatGPT proficiency to redesign how teams, including creative and styling work, operate with AI."
+      "excerpt": "How Korean fashion platform Musinsa's two directors run an organization-level AX program, moving beyond individual ChatGPT proficiency to restyling how teams work with AI."
     },
     {
       "url": "https://www.cio.com/article/4226177/i-stopped-asking-my-team-to-use-ai-i-asked-them-to-manage-it.html",
@@ -145,75 +163,12 @@
       "title": "I stopped asking my team to use AI. I asked them to manage it",
       "published_iso": "2026-09-25T09:00:00Z",
       "og_image": "https://www.cio.com/wp-content/uploads/2026/09/4226177-0-09373200-1790326903-AI-as-coworker-shutterstock_2710324659.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "A team lead describes reframing AI adoption: employees manage AI agents as teammates with clear roles, reviews and human oversight instead of simply being told to use AI tools."
-    },
-    {
-      "url": "https://lovable.dev/blog/chat-for-free",
-      "source": "Lovable",
-      "category": "figma",
-      "title": "You can now chat with Lovable for free",
-      "published_iso": "2026-09-24T08:40:00Z",
-      "og_image": "https://assets.lovable.dev/content/news/covers/you-can-now-chat-with-lovable-for-free.webp",
-      "excerpt": "Lovable opened its chat mode to free users: ask it which idea is worth building, turn customer feedback into a plan, or put it to work on an already-launched app before spending build credits."
-    },
-    {
-      "url": "https://lovable.dev/blog/how-lovable-agents-work-together",
-      "source": "Lovable",
-      "category": "figma",
-      "title": "Inside Chats: How Lovable's Agents Work Together",
-      "published_iso": "2026-09-24T08:40:00Z",
-      "og_image": "https://assets.lovable.dev/content/news/covers/how-lovable-agents-work-together-tech-blog-2026.png",
-      "excerpt": "Lovable explains the architecture behind its multi-agent Chats: trajectories, inboxes, activations and a Git-inspired event log that lets agents stream, fork and survive deploys."
-    },
-    {
-      "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/",
-      "source": "Dezeen",
-      "category": "workflow",
-      "title": "Meta debuts Tamagotchi-style AI agent",
-      "published_iso": "2026-09-25T10:15:05Z",
-      "og_image": "https://static.dezeen.com/uploads/2026/09/sq-meta-muse-charm_dezeen_2364_col_0-852x852.jpg",
-      "excerpt": "The Muse Charm, produced by Meta's new design team led by former Apple design chief Alan Dye, puts a customisable cartoon embodiment of the Muse AI agent on a two-inch lanyard device."
-    },
-    {
-      "url": "https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/",
-      "source": "FedScoop",
-      "category": "tokens",
-      "title": "A Trump team wants to automate U.S. Web Design System accessibility testing. Experts are worried.",
-      "published_iso": "2026-09-25T22:25:00Z",
-      "og_image": "",
-      "excerpt": "GitHub community members and accessibility experts worry that plans to 'automate as much accessibility testing as possible' in the U.S. Web Design System, potentially leaning on AI, could reverse progress in the government's design system."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=aDpIra7NFuE",
-      "source": "Matt Wolfe",
-      "category": "social",
-      "title": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
-      "published_iso": "2026-09-25T19:37:49-07:00",
-      "og_image": "https://i.ytimg.com/vi/aDpIra7NFuE/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe's weekly roundup of AI news creators may have missed: Opus 5.5, GPT-6 Sol, GPT-Live 1 and the Agent API, Meta's Jev and Muse, and new creative tools."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
-      "source": "Fireship",
-      "category": "social",
-      "title": "Meta is pivoting again... everything you missed from Connect 2026",
-      "published_iso": "2026-09-25T12:22:32-07:00",
-      "og_image": "https://i.ytimg.com/vi/c1rPlzxSZ8E/maxresdefault.jpg",
-      "excerpt": "Fireship breaks down Meta Connect 2026: Muse AI agent and Charm device, VR Glasses, Hologram avatars and Horizon AI creation tools."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "source": "Two Minute Papers",
-      "category": "social",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "published_iso": "2026-09-24T01:40:55-07:00",
-      "og_image": "https://i.ytimg.com/vi/SA9kdAX2Zj0/maxresdefault.jpg",
-      "excerpt": "Two Minute Papers walks through Claude Opus 5.5's reported capabilities and experiments, including simulation and agentic tasks."
+      "excerpt": "A leader explains shifting teams from 'use AI' mandates to managing AI agents as teammates with defined roles, reviews and human oversight."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 23,
+    "kept": 18,
     "against_days": 5
   }
 }

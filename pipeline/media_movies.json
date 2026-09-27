@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "movies",
   "media": [
     {
-      "id": "movies-autodesk-flow-inner-stars",
+      "id": "movies-zurich-summit-ai-driver-seat",
+      "type": "image",
+      "src": "pipeline/media/movies-zurich-summit-ai-driver-seat.jpg"
+    },
+    {
+      "id": "movies-gaussian-splat-lighting-hybrid",
       "type": "video",
-      "src": "pipeline/media/movies-autodesk-flow-inner-stars.mp4",
-      "poster": "pipeline/media/movies-autodesk-flow-inner-stars.jpg"
+      "src": "pipeline/media/movies-gaussian-splat-lighting-hybrid.mp4",
+      "poster": "pipeline/media/movies-gaussian-splat-lighting-hybrid.jpg"
     },
     {
-      "id": "movies-cineme-launch-oct1",
-      "type": "image",
-      "src": "pipeline/media/movies-cineme-launch-oct1.jpg"
-    },
-    {
-      "id": "movies-netflix-golden-ticket-ai-wilder",
-      "type": "image",
-      "src": "pipeline/media/movies-netflix-golden-ticket-ai-wilder.jpg"
-    },
-    {
-      "id": "movies-retouch4me-lab-video-resolve",
+      "id": "movies-openai-astra-editing-test",
       "type": "video",
-      "src": "pipeline/media/movies-retouch4me-lab-video-resolve.mp4",
-      "poster": "pipeline/media/movies-retouch4me-lab-video-resolve.jpg"
+      "src": "pipeline/media/movies-openai-astra-editing-test.mp4",
+      "poster": "pipeline/media/movies-openai-astra-editing-test.jpg"
     },
     {
-      "id": "movies-mooam-suhodosa-4dx",
+      "id": "movies-zelda-williams-ai-videos",
       "type": "image",
-      "src": "pipeline/media/movies-mooam-suhodosa-4dx.png"
+      "src": "pipeline/media/movies-zelda-williams-ai-videos.jpg"
+    },
+    {
+      "id": "movies-jia-zhangke-mamma-dunhuang-no-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-jia-zhangke-mamma-dunhuang-no-ai.jpg"
     }
   ]
 }

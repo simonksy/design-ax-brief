@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "music",
   "media": [
     {
-      "id": "music-melofty-axom-max-ai-rig",
+      "id": "music-engram-hallucination-sampler",
+      "type": "image",
+      "src": "pipeline/media/music-engram-hallucination-sampler.png"
+    },
+    {
+      "id": "music-elevenlabs-studio-4-agentic-editor",
       "type": "video",
-      "src": "pipeline/media/music-melofty-axom-max-ai-rig.mp4",
-      "poster": "pipeline/media/music-melofty-axom-max-ai-rig.jpg"
+      "src": "pipeline/media/music-elevenlabs-studio-4-agentic-editor.mp4",
+      "poster": "pipeline/media/music-elevenlabs-studio-4-agentic-editor.jpg"
     },
     {
-      "id": "music-spotify-meta-muse-agent",
+      "id": "music-genai-gated-reverb-happy-accident",
       "type": "image",
-      "src": "pipeline/media/music-spotify-meta-muse-agent.jpg"
+      "src": "pipeline/media/music-genai-gated-reverb-happy-accident.jpg"
     },
     {
-      "id": "music-sharks-suno-goal-song",
+      "id": "music-suno-v6-label-deals-artist-reps",
       "type": "image",
-      "src": "pipeline/media/music-sharks-suno-goal-song.png"
+      "src": "pipeline/media/music-suno-v6-label-deals-artist-reps.jpg"
     },
     {
-      "id": "music-sony-ariam-coalition",
+      "id": "music-ai-2-two-industries-split",
       "type": "image",
-      "src": "pipeline/media/music-sony-ariam-coalition.png"
-    },
-    {
-      "id": "music-fred-again-ai-stance",
-      "type": "image",
-      "src": "pipeline/media/music-fred-again-ai-stance.jpg"
+      "src": "pipeline/media/music-ai-2-two-industries-split.png"
     }
   ]
 }

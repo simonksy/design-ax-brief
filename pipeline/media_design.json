@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "design",
   "media": [
     {
-      "id": "design-octanerender-2027-1-alpha3",
+      "id": "design-google-stitch-brand-ui",
       "type": "image",
-      "src": "pipeline/media/design-octanerender-2027-1-alpha3.jpg"
+      "src": "pipeline/media/design-google-stitch-brand-ui.jpg"
     },
     {
-      "id": "design-mcp-ui-svg-servers-8-compared",
+      "id": "design-adobe-photoshop-lightroom-in-gemini",
       "type": "image",
-      "src": "pipeline/media/design-mcp-ui-svg-servers-8-compared.png"
+      "src": "pipeline/media/design-adobe-photoshop-lightroom-in-gemini.jpg"
     },
     {
-      "id": "design-adobe-max-2026-lineup-ai",
+      "id": "design-ai-photo-editor-capability-contract",
       "type": "image",
-      "src": "pipeline/media/design-adobe-max-2026-lineup-ai.jpg"
+      "src": "pipeline/media/design-ai-photo-editor-capability-contract.png"
     },
     {
-      "id": "design-meta-muse-charm-kawaii",
-      "type": "image",
-      "src": "pipeline/media/design-meta-muse-charm-kawaii.jpg"
+      "id": "design-claude-blender-animation",
+      "type": "video",
+      "src": "pipeline/media/design-claude-blender-animation.mp4",
+      "poster": "pipeline/media/design-claude-blender-animation.jpg"
     },
     {
-      "id": "design-matlab-simulink-2026b",
+      "id": "design-nasa-brand-trust-ai-imagery",
       "type": "image",
-      "src": "pipeline/media/design-matlab-simulink-2026b.png"
+      "src": "pipeline/media/design-nasa-brand-trust-ai-imagery.jpg"
     }
   ]
 }

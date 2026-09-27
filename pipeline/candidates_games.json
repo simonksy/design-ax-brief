@@ -1,35 +1,8 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "section": "games",
   "window_hours": 336,
   "items": [
-    {
-      "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-26T20:30:50+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg",
-      "excerpt": "As AI generated material consumes much of the gaming and entertainment world, major tabletop players like UKGE refuse to roll the dice with the unpopular tech",
-      "title": "UK’s Largest Tabletop Convention Bans AI"
-    },
-    {
-      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-26T18:02:42+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-NR-on-AMD-RX-9000-Alpha-0.4.0.jpg",
-      "excerpt": "DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5, pushing Cyberpunk 2077 FPS from 30 to 50 at 3440x1440p.",
-      "title": "DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day"
-    },
-    {
-      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-25T13:07:11.372955+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Meta's Horizon Create and Horizon Studio aim to 'make it easier to turn your ideas into playable 2D and 3D games' from prompts on mobile and browser; Meta VR Glasses get day-one Unity support. (Note: Meta Horizon Create was covered recently - check dedup.)",
-      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support"
-    },
     {
       "url": "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/",
       "source": "AUTOMATON",
@@ -40,13 +13,31 @@
       "title": "Disgaea creator Sohei Niikawa has “absolutely no interest in having AI write stories instead of him” - AUTOMATON WEST"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "source": "PC Gamer",
+      "url": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
+      "source": "Polygon",
       "category": "games",
-      "published_iso": "2026-09-18T22:51:54Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
-      "excerpt": "Dueling industry surveys show Japanese game developers embracing generative AI (CESA: 85%+) while North American developers remain skeptical.",
-      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
+      "published_iso": "2026-09-23T17:00:15Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-first-person-mode-header.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "The Bully is gonna get you",
+      "title": "Arc Raiders’ New Machine-Learning Enemy Looks Absolutely Terrifying"
+    },
+    {
+      "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-09-23T13:50:42.428Z",
+      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Anyone who's had a console knows that on a long enough timeline they will have some kind of technical bug that you need to troubleshoot, and Sony is trying to get around that reality with an AI tech support agent.",
+      "title": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "source": "Unity",
+      "category": "games",
+      "published_iso": "2026-09-23T09:31:23-07:00",
+      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
+      "excerpt": "The official Unity plugin for Claude Code changes how you build in Unity from the terminal; walkthrough of installing and using the plugin.",
+      "title": "Your guide to the official Unity plugin for Claude Code"
     },
     {
       "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
@@ -54,125 +45,71 @@
       "category": "games",
       "published_iso": "2026-09-20T16:29:48Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
-      "excerpt": "Tenebris Somnia's developers pitch their 2D retro survival horror, built with live-action cutscenes and practical effects, as something 'AI could never make'.",
+      "excerpt": "A game so emotionally scarring, \"you'll call your ex.\"",
       "title": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects"
     },
     {
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-21T04:24:25Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EhFFGoxwMsioVA6nvnvdvL-1200-80.png",
-      "excerpt": "An indie publisher dropped 29 low-effort Steam games in one day, all carrying AI disclosures for their capsule art - a snapshot of genAI art flooding Steam storefronts.",
-      "title": "This indie publisher released 29 terrible-looking Steam games in a single day—will they make any money?"
+      "published_iso": "2026-09-18T22:51:54Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
+      "excerpt": "Welcome to the Smile Economy 🙂.",
+      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
     },
     {
-      "url": "https://www.polygon.com/everboard-tablet-tabletop-board-gaming-evervibe-ai-creation-interview/",
-      "source": "Polygon",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-09-24T16:30:17Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/polygon-gradiant-copy.png?w=1200&h=675&fit=crop",
-      "excerpt": "EverBoard's $500 AI-powered tabletop console uses 'EverVibe' to generate digital board games from scratch; the company explains how it works and what ongoing access will cost.",
-      "title": "New $500 AI-Powered Console Can Create Digital Tabletop Games From Scratch"
+      "published_iso": "2026-09-18T15:15:39.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact.",
+      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit"
     },
     {
-      "url": "https://80.lv/articles/no-genai-this-blender-add-on-turns-simple-sketches-into-3d-poses/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-09-22T10:07:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50314/images/6ab25365a69c9/contain_1200x630.jpg",
-      "excerpt": "Sketch2Pose, a Blender add-on that turns simple stick-figure sketches into 3D character poses for faster blocking, gets an update - explicitly built on math and custom solvers rather than generative AI.",
-      "title": "No GenAI: This Blender Add-On Turns Simple Sketches Into 3D Poses"
-    },
-    {
-      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-09-23T08:46:03.000Z",
-      "og_image": "https://images.unsplash.com/photo-1585909085111-2c2f311643af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJpdGV8ZW58MHx8fHwxNzkwMDQ4NjA3fDA&ixlib=rb-4.1.0&q=80&w=2000",
-      "excerpt": "A dispute over AI art at Oz Comic-Con escalated into a biting incident and a ban, highlighting fan-convention tensions over AI-generated artwork.",
-      "title": "'Man Banned From Oz Comic-Con After Biting Incident' Is Not An AI-Related Headline I Thought I'd Be Reading This Week"
-    },
-    {
-      "url": "https://www.ign.com/articles/infinity-festival-los-angeles-2026-ai",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-09-25T21:32:25.156Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/09/25/if-pic-1790371862603.png?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Infinity Festival returns to the Audrey Irmas Pavilion in Los Angeles this November for its 9th edition, featuring panels and programming focused on how AI is reshaping the entertainment industry.",
-      "title": "Infinity Festival Returns to Los Angeles This November, Promising to Explore How AI Is Reshaping the Future of Entertainment"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-24T10:30:09.560920+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "GTA IV – no, not VI, sorry – can now get a modern, sharper-looking DLSS or FSR makeover with a new upscaling mod.",
-      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support"
-    },
-    {
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "Google DeepMind",
-      "category": "games",
-      "published_iso": "2026-09-24",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
-      "excerpt": "Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI.",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar"
-    },
-    {
-      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+      "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-09-16T18:00:14+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
-      "excerpt": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and were not AI-generated",
-      "title": "Level-5 Announces Fixes For AI-Generated Presentation"
+      "published_iso": "2026-09-16T18:20:26+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/04/gta5hack-1200x675.jpg",
+      "excerpt": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening",
+      "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits - Kotaku"
     },
     {
-      "url": "https://www.thegamer.com/level-5-responds-ai-use-scale-back/",
-      "source": "TheGamer",
+      "url": "https://www.inven.co.kr/webzine/news/?news=320975",
+      "source": "Inven",
       "category": "games",
-      "published_iso": "2026-09-17T09:34:44Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/09/professor-layton-walking-through-a-busy-victorian-esque-street.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Level-5 says it will officially scale back generative AI use after its Yo-kai Watch/Professor Layton showcase backlash, limiting AI to efficiency improvements.",
-      "title": "Level-5 Will Officially Scale Back AI Use Following Backlash"
+      "published_iso": "2026-09-16T11:40:33+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/16/news/i1940286897.png",
+      "excerpt": "영국 케임브리지의 1인 개발자가 제작 중인 3D 콜로니 시뮬레이션 게임 Luminids는 캐릭터가 경험과 믿음을 기반으로 개별적인 판단을 내리는 CRI 기술을 도입한다. 해당 기술은 캐릭터의 기억과 관계를 유지하며 인과적 테스트를 지원한다. LuminidsAI는 이를 플랫폼화하기 위해 150만 파운드 규모의 프리시드 투자 유치를 준비하고 있다. 현재 소셜 미디어에서 큰 관심을 모은 이 프로젝트는 캐릭터의 정체성을 외부 엔진에 저장하여 장기적인 이력을 관리하는 방식을 채택한다.",
+      "title": "'Luminids' 캐릭터 인지 기술, AI 회사로 확장"
     },
     {
-      "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
-      "source": "GamesRadar+",
+      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-09-23T14:59:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
-      "excerpt": "The creator of viral hit Needle In A Haystack Simulator apologizes as clones - many evidently relying on generative AI - flood Steam, dubbed 'the Robloxification of Steam'.",
-      "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store"
+      "published_iso": "2026-09-15T16:00:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Saber Interactive's chief creative officer explains why he thinks players will get on board with generative AI tools eventually.",
+      "title": "\"You may be overthinking it a little bit\": Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
     },
     {
-      "url": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html",
-      "source": "Meshy (PR Newswire)",
+      "url": "https://www.inven.co.kr/webzine/news/?news=320906",
+      "source": "Inven",
       "category": "games",
-      "published_iso": "2026-09-21T11:00:00-04:00",
-      "og_image": "https://mmx.prnewswire.com/media/MS1992445/20260921044342EDT_image_1.jpg?id=OA2959914&p=facebook",
-      "excerpt": "Meshy details Mora, an architecture combining coding agents (game logic), 3D generation (assets/space) and a real-time video model (final imagery) for playable AI worlds, and ships Meshy 7.1 with Ultra 4K 4096^3 voxel geometry. Off-list: no allowed outlet covered it.",
-      "title": "Meshy Details Mora, a Research Architecture for AI-Generated Interactive Worlds, and Launches Meshy 7.1"
+      "published_iso": "2026-09-15T14:09:37+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/15/news/i1927410872.png",
+      "excerpt": "컴투스플랫폼은 15일 판교에서 열린 제1회 AI 게임 사운드 디자인 대회(AI GSDC 2026)에 후원사로 참여했다. 이번 대회에서 이루다 이사는 은상인 Hive상을 수상한 이로이 팀을 직접 시상했으며 수상팀 전원에게 하이브 크레딧을 제공했다. 컴투스플랫폼은 하이브를 통해 2026 게임제작환경 인공지능 전환(AX) 지원사업의 공식 AI 솔루션으로 활동 중이며 앞으로도 AI 기술을 활용한 게임들의 성공적인 글로벌 시장 안착을 적극적으로 지원할 계획이다.",
+      "title": "컴투스플랫폼, 'AI 게임 사운드 디자인 대회' 후원"
     },
     {
-      "url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
-      "source": "PixVerse",
+      "url": "https://www.inven.co.kr/webzine/news/?news=320841",
+      "source": "Inven",
       "category": "games",
-      "published_iso": "2026-09-22T00:00:00.000Z",
-      "og_image": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-cover.jpg?x-oss-process=style/cover-webp-large",
-      "excerpt": "PixVerse R2 upgrades its real-time world model toward persistent, playable worlds: longer coherent sessions, memory that carries actions forward, and text/audio/action inputs driving synchronized video and audio. Off-list: no allowed outlet covered it.",
-      "title": "PixVerse Introduces R2, Advancing Its Real-Time World Model Toward Persistent, Playable Worlds | PixVerse"
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321345",
-      "source": "인벤 (Inven)",
-      "category": "games",
-      "published_iso": "2026-09-25T12:21:15+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/22/news/i1173721692.jpg",
-      "excerpt": "[월드 리포트] 8월 대만 게임 시장 동향: 인디 게임 축제·e스포츠와 함께 AI 활성화 움직임을 정리한 인벤 리포트.",
-      "title": "[월드 리포트] e스포츠부터 인디, AI 활성화 나선 8월 대만 게임 시장 동향 | 웹진 인벤"
+      "published_iso": "2026-09-14T11:59:38+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/14/news/i1892959776.png",
+      "excerpt": "엑솔라가 개발사의 효율적인 웹샵 구축을 돕는 AI Toolkit을 새롭게 선보였다. 이는 기존 AI 코딩 도구의 연동 오류 문제를 해결하고자 검증된 API 연동 로직을 제공하는 에이전트 스킬 모음이다. 판매자 설정, 로그인, 카탈로그, 결제 등 4가지 핵심 기능을 지원하며 깃허브 공개 저장소와 클로드 코드, 커서, 깃허브 코파일럿, 코덱스 CLI 등에서 플러그인 형태로 설치 가능하다. 크리스 휴이시 엑솔라 대표는 이번 도구가 개발사의 연동 장벽을 없애고 즉시 작동하는 결과물을 제공할 것이라 밝혔다. 상세 정보는 xsolla.com/",
+      "title": "엑솔라, 게임 커머스 구축용 AI Toolkit 출시"
     }
   ]
 }
