@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-28",
   "section": "politics",
   "rotation": {
-    "basis": "day-of-month 13 (2026-09-13), day-of-year 256",
-    "method": "politics pool split into its three scope axes (policy 15 / elections 9 / geopolitics 10); start index = 13 mod block_len, then stride (policy 4, elections 4, geopolitics 3) to pick today's slice. Consecutive dates therefore emphasize different keywords.",
-    "notes": "politics is a brand-new section — news_data.json has no prior politics cards, so no recent-topic exclusions applied this run. Freshness window for politics is 72h, so queries are pinned to September 2026 / this-week phrasing."
+    "basis": "day-of-year 271 (2026-09-28); day-of-month 28 was NOT used as the offset because 28 mod 15 = 13 reproduces the 2026-09-13 policy slice exactly",
+    "method": "politics pool split into its three scope axes (policy 15 / elections 9 / geopolitics 10); start index = 271 mod block_len (policy 1, elections 1, geopolitics 1), then stride (policy 4, elections 4, geopolitics 3), skipping keywords already emphasized in the last politics plan (2026-09-13). Picks: policy idx 1,5,9,7,11,0 + 12 (Korean coverage); elections idx 1,5,0,6; geopolitics idx 1,4,7,0,8.",
+    "notes": "news_data.json politics section was last published 2026-09-21 (days[] empty), so nothing appeared in the last 2 days and no keyword was excluded. Topics already carded on 09-21 are down-weighted in the queries: Virginia/state datacenter siting orders, the UN Global Digital Compact review, Nigeria BVAS biometric voting, the military AI hallucination near-miss, and the IAPP DC gravity-shift column (the Obernolte-Trahan / Klobuchar-Thune frontier bills are followed only for NEW movement). US midterms are 2026-11-03, so the election axis is timely. Freshness window 72h: queries are pinned to late September 2026."
   },
   "seeds_from_user": [],
   "working_keywords": [
@@ -13,9 +13,9 @@
       "origin": "core",
       "axis": "policy",
       "expansions": [
-        "AI policy announcement September 2026",
-        "AI rulemaking agency guidance",
-        "government AI guidance for developers",
+        "AI policy announcement late September 2026",
+        "agency AI guidance released",
+        "AI governance framework published",
         "AI 정책 발표"
       ]
     },
@@ -24,10 +24,10 @@
       "origin": "core",
       "axis": "policy",
       "expansions": [
-        "EU AI Act enforcement",
-        "general-purpose AI obligations",
-        "AI compliance deadline",
-        "AI rules for model providers"
+        "AI regulation vote",
+        "frontier model regulation bill movement",
+        "AI rules for model providers",
+        "AI compliance deadline"
       ]
     },
     {
@@ -36,174 +36,185 @@
       "axis": "policy",
       "expansions": [
         "AI 규제 최신",
+        "인공지능 규제 법안",
+        "AI 규제 가이드라인 발표",
+        "과기정통부 AI"
+      ]
+    },
+    {
+      "keyword": "AI executive order",
+      "origin": "pool(policy, idx1)",
+      "axis": "policy",
+      "expansions": [
+        "White House AI executive order",
+        "federal AI preemption order",
+        "governor AI executive order",
+        "OMB AI memo"
+      ]
+    },
+    {
+      "keyword": "AI transparency rule",
+      "origin": "pool(policy, idx5)",
+      "axis": "policy",
+      "expansions": [
+        "AI disclosure requirement",
+        "training data transparency summary",
+        "chatbot disclosure law",
+        "AI 투명성 의무"
+      ]
+    },
+    {
+      "keyword": "AI procurement rules",
+      "origin": "pool(policy, idx9)",
+      "axis": "policy",
+      "expansions": [
+        "government AI procurement guidance",
+        "GSA AI contract",
+        "federal agency AI acquisition",
+        "public sector AI purchasing rules"
+      ]
+    },
+    {
+      "keyword": "AI safety institute",
+      "origin": "pool(policy, idx7)",
+      "axis": "policy",
+      "expansions": [
+        "CAISI NIST evaluation",
+        "UK AI Security Institute report",
+        "frontier model pre-deployment testing",
+        "AI 안전연구소"
+      ]
+    },
+    {
+      "keyword": "AI licensing",
+      "origin": "pool(policy, idx11)",
+      "axis": "policy",
+      "expansions": [
+        "AI content licensing deal policy",
+        "frontier model licensing regime",
+        "AI training data licensing rule",
+        "collective licensing AI"
+      ]
+    },
+    {
+      "keyword": "EU AI Act",
+      "origin": "pool(policy, idx0)",
+      "axis": "policy",
+      "expansions": [
+        "EU AI Act digital omnibus delay",
+        "AI Office general-purpose AI code of practice",
+        "high-risk AI obligations timeline",
+        "EU AI Act enforcement"
+      ]
+    },
+    {
+      "keyword": "AI 기본법",
+      "origin": "pool(policy, idx12)",
+      "axis": "policy",
+      "expansions": [
         "AI 기본법 시행령",
-        "인공지능법 가이드라인",
-        "AI 규제 샌드박스"
+        "고영향 AI 가이드라인",
+        "AI 기본법 개정",
+        "Korea AI Basic Act enforcement"
       ]
     },
     {
-      "keyword": "AI 저작권",
-      "origin": "pool(policy, idx13)",
-      "axis": "policy",
-      "expansions": [
-        "AI 학습 데이터 저작권",
-        "생성형 AI 저작권 소송",
-        "AI copyright ruling training data",
-        "text and data mining exception"
-      ]
-    },
-    {
-      "keyword": "AI bill",
-      "origin": "pool(policy, idx2)",
-      "axis": "policy",
-      "expansions": [
-        "AI bill signed into law",
-        "AI legislation markup committee",
-        "chatbot safety bill",
-        "frontier model bill"
-      ]
-    },
-    {
-      "keyword": "algorithmic accountability",
-      "origin": "pool(policy, idx6)",
-      "axis": "policy",
-      "expansions": [
-        "algorithmic audit requirement",
-        "AI impact assessment rule",
-        "automated decision-making rules",
-        "AI transparency disclosure requirement"
-      ]
-    },
-    {
-      "keyword": "state AI law",
-      "origin": "pool(policy, idx10)",
-      "axis": "policy",
-      "expansions": [
-        "California AI law",
-        "Colorado AI Act",
-        "Texas AI statute",
-        "state AI law federal preemption"
-      ]
-    },
-    {
-      "keyword": "개인정보 AI",
-      "origin": "pool(policy, idx14)",
-      "axis": "policy",
-      "expansions": [
-        "개인정보보호위원회 AI",
-        "AI 개인정보 처리 가이드라인",
-        "AI privacy enforcement GDPR",
-        "data protection authority AI decision"
-      ]
-    },
-    {
-      "keyword": "AI liability",
-      "origin": "pool(policy, idx3)",
-      "axis": "policy",
-      "expansions": [
-        "AI liability ruling court",
-        "chatbot harm lawsuit",
-        "product liability generative AI",
-        "AI developer duty of care"
-      ]
-    },
-    {
-      "keyword": "content provenance C2PA",
-      "origin": "pool(elections, idx4)",
+      "keyword": "AI generated political ad",
+      "origin": "pool(elections, idx1)",
       "axis": "elections",
       "expansions": [
-        "Content Credentials adoption",
-        "provenance watermarking standard",
-        "C2PA platform rollout",
-        "AI 워터마크 표시 의무"
+        "AI campaign ad midterms 2026",
+        "FEC AI ad disclosure",
+        "synthetic campaign video",
+        "AI political ad ban state"
       ]
     },
     {
-      "keyword": "AI 허위정보",
-      "origin": "pool(elections, idx8)",
+      "keyword": "political bot network",
+      "origin": "pool(elections, idx5)",
       "axis": "elections",
       "expansions": [
-        "AI 가짜뉴스 대응",
-        "생성형 AI 여론조작",
-        "AI 허위정보 규제",
-        "AI 콘텐츠 표시제"
+        "AI bot network takedown",
+        "coordinated inauthentic behavior report",
+        "LLM-powered influence operation",
+        "OpenAI threat report influence operations"
       ]
     },
     {
-      "keyword": "AI disinformation",
-      "origin": "pool(elections, idx3)",
+      "keyword": "election deepfake",
+      "origin": "pool(elections, idx0)",
       "axis": "elections",
       "expansions": [
-        "influence operation generative AI",
-        "AI-generated propaganda report",
-        "coordinated inauthentic behavior AI",
-        "AI astroturfing study"
+        "midterm deepfake candidate",
+        "deepfake election law enforcement",
+        "AI robocall voters",
+        "선거 딥페이크"
       ]
     },
     {
-      "keyword": "딥페이크 선거",
-      "origin": "pool(elections, idx7)",
+      "keyword": "platform AI labeling",
+      "origin": "pool(elections, idx6)",
       "axis": "elections",
       "expansions": [
-        "election deepfake enforcement",
-        "AI robocall penalty",
-        "선거 딥페이크 처벌",
-        "synthetic campaign ad disclosure"
+        "YouTube Meta TikTok AI label policy",
+        "AI-generated content label election",
+        "Content Credentials platform rollout",
+        "AI 생성물 표시"
       ]
     },
     {
-      "keyword": "AI chip smuggling",
-      "origin": "pool(geopolitics, idx3)",
+      "keyword": "US China AI competition",
+      "origin": "pool(geopolitics, idx1)",
       "axis": "geopolitics",
       "expansions": [
-        "chip export controls rule",
-        "GPU export license Commerce",
-        "AI chip diversion indictment",
-        "반도체 수출규제"
+        "China open-weight model policy",
+        "US China AI talks",
+        "Chinese AI chip self-sufficiency",
+        "미중 AI 경쟁"
       ]
     },
     {
-      "keyword": "AI datacenter siting",
-      "origin": "pool(geopolitics, idx6)",
+      "keyword": "compute diplomacy",
+      "origin": "pool(geopolitics, idx4)",
       "axis": "geopolitics",
       "expansions": [
-        "data center permitting AI policy",
-        "AI datacenter power grid rules",
-        "local moratorium AI data center",
-        "datacenter diplomacy Gulf"
+        "AI export program full-stack",
+        "Gulf AI campus agreement",
+        "Pax Silica AI supply chain",
+        "bilateral AI compute deal"
       ]
     },
     {
-      "keyword": "소버린 AI",
-      "origin": "pool(geopolitics, idx9)",
+      "keyword": "반도체 수출규제",
+      "origin": "pool(geopolitics, idx7)",
       "axis": "geopolitics",
       "expansions": [
-        "국가 AI 컴퓨팅 센터",
-        "소버린 AI 투자 발표",
-        "국가대표 AI 모델",
-        "AI 패권 경쟁"
+        "AI 반도체 수출통제",
+        "엔비디아 중국 수출 허가",
+        "HBM 수출규제",
+        "대중 반도체 규제"
       ]
     },
     {
-      "keyword": "sovereign AI",
-      "origin": "pool(geopolitics, idx2)",
+      "keyword": "chip export controls",
+      "origin": "pool(geopolitics, idx0)",
       "axis": "geopolitics",
       "expansions": [
-        "sovereign AI compute investment",
-        "national AI cloud program",
-        "public AI infrastructure fund",
-        "EU AI gigafactory"
+        "BIS AI chip rule",
+        "Nvidia H20 export license China",
+        "GAIN AI Act chip",
+        "export control entity list AI"
       ]
     },
     {
-      "keyword": "national AI strategy",
-      "origin": "pool(geopolitics, idx5)",
+      "keyword": "AI 패권",
+      "origin": "pool(geopolitics, idx8)",
       "axis": "geopolitics",
       "expansions": [
-        "AI action plan government",
-        "AI strategy white paper launch",
-        "US China AI competition policy",
-        "compute diplomacy agreement"
+        "AI 3대 강국",
+        "AI 패권 경쟁 정부 전략",
+        "global AI race policy",
+        "AI superpower strategy"
       ]
     }
   ],
@@ -213,7 +224,7 @@
       "label": "Politics",
       "motif": "cube",
       "accent": "#3b6bff",
-      "scope": "AI x politics on three axes only: (1) policy/regulation, (2) AI in elections & public opinion, (3) AI geopolitics. Non-partisan: report what was decided/filed/published and what it changes for people who build with AI. Drop any story that still stands with AI deleted from the headline.",
+      "scope": "AI x politics on three axes only: (1) policy/regulation, (2) AI in elections & public opinion, (3) AI geopolitics. Non-partisan: report what was decided/filed/published and what it changes for people who build with AI. Drop any story that still stands with AI deleted from the headline. Avoid re-carding 2026-09-21 stories (Virginia datacenter EO, UN GDC review, Nigeria BVAS, military AI hallucination near-miss).",
       "allowed_domains": [
         "techpolicy.press",
         "lawfaremedia.org",
@@ -252,48 +263,50 @@
         "whitehouse.gov",
         "congress.gov",
         "ftc.gov",
+        "fec.gov",
         "bis.doc.gov",
+        "gsa.gov",
         "ec.europa.eu",
         "europarl.europa.eu",
         "gov.uk",
         "korea.kr",
-        "pipc.go.kr"
+        "msit.go.kr"
       ],
       "queries": [
-        "AI regulation news September 2026",
-        "AI policy announcement this week September 2026",
-        "AI 규제 최신 뉴스 2026년 9월",
-        "EU AI Act enforcement general-purpose AI obligations September 2026",
-        "AI bill signed into law state legislature September 2026",
-        "state AI law federal preemption executive order 2026",
-        "AI liability ruling court decision chatbot harm September 2026",
-        "AI copyright lawsuit ruling training data September 2026",
-        "AI 저작권 소송 판결 2026년 9월",
-        "algorithmic accountability audit requirement agency rule 2026",
-        "AI transparency disclosure requirement platform rule September 2026",
-        "개인정보 AI 가이드라인 개인정보보호위원회 2026",
-        "election deepfake enforcement AI robocall penalty September 2026",
-        "AI disinformation influence operation report September 2026",
-        "content provenance C2PA Content Credentials platform adoption 2026",
-        "platform AI labeling political ads policy September 2026",
-        "딥페이크 선거 규제 처벌 2026",
-        "AI 허위정보 대응 표시제 2026",
-        "synthetic media election integrity research September 2026",
-        "chip export controls AI GPU rule September 2026",
-        "AI chip smuggling enforcement indictment export license 2026",
-        "sovereign AI government compute investment September 2026",
-        "소버린 AI 국가 전략 투자 2026",
-        "AI datacenter siting permitting power grid rules September 2026",
-        "national AI strategy action plan launch September 2026",
-        "US China AI competition policy September 2026",
-        "compute diplomacy bilateral AI agreement 2026",
-        "반도체 수출규제 AI 반도체 2026년 9월"
+        "AI regulation news September 26 2026",
+        "AI policy announcement week of September 28 2026",
+        "AI 규제 최신 뉴스 2026년 9월 넷째주",
+        "AI executive order signed September 2026",
+        "federal AI preemption state laws executive order court September 2026",
+        "AI transparency disclosure law chatbot requirement September 2026",
+        "government AI procurement rules agency guidance September 2026",
+        "AI safety institute CAISI frontier model evaluation report September 2026",
+        "AI training data licensing policy ruling September 2026",
+        "EU AI Act digital omnibus high-risk delay Parliament vote September 2026",
+        "EU AI Office general-purpose AI code of practice enforcement September 2026",
+        "AI 기본법 시행령 고영향 AI 가이드라인 2026년 9월",
+        "frontier AI bill Congress markup September 2026",
+        "AI generated political ad midterms 2026 disclosure",
+        "FEC AI deepfake campaign ad rule September 2026",
+        "election deepfake candidate midterm AI video September 2026",
+        "AI bot network influence operation takedown report September 2026",
+        "platform AI-generated content label election policy September 2026",
+        "선거 딥페이크 AI 생성물 표시 2026년 9월",
+        "chip export controls AI GPU BIS rule September 2026",
+        "Nvidia China export license AI chip September 2026",
+        "US China AI competition policy late September 2026",
+        "compute diplomacy AI export deal Gulf September 2026",
+        "China AI governance rules open-weight models September 2026",
+        "반도체 수출규제 AI 반도체 2026년 9월",
+        "AI 패권 경쟁 정부 전략 발표 2026년 9월",
+        "site:techpolicy.press AI September 2026",
+        "site:lawfaremedia.org AI September 2026"
       ]
     }
   ],
-  "wildcard_query": "AI policy trending this week 2026-09-13",
+  "wildcard_query": "AI policy trending this week 2026-09-28",
   "totals": {
-    "working_keywords": 18,
+    "working_keywords": 19,
     "categories": 1,
     "queries": 28
   }

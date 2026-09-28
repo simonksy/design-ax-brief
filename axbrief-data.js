@@ -3459,111 +3459,181 @@
     "label": "Politics",
     "news": [
       {
-        "id": "politics-ai-halluc-near-miss",
+        "id": "politics-anthropic-appeals-supply-chain",
         "eyebrow": "AI NEWS",
-        "headline": "AI가 지어낸 정보 보고서 탓에\n미군이 중국 선박에 오를 뻔했다는 보도",
-        "body": "AI가 지어낸 정보 보고서로 미군이 중국 선박에 오를 뻔했다고 CNN이 전했다.",
+        "headline": "연방 항소법원, 앤트로픽\n공급망 위험 지정 허용",
+        "body": "재판부는 2대1로, 군에 Claude 일부 기능을 막은 앤트로픽 지정을 유지했다.",
         "tool": "Politics",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
         "accent": "#3b6bff",
         "motif": "cube",
         "full": {
           "mode": "summary",
           "blocks": [
             {
-              "t": "p",
-              "x": "미국이 AI 도구로 작성된 '전적으로 허위'의 정보 보고서 때문에 중국 선박에 올라탈 뻔했다고 CNN이 보도했다. 이 사건을 아는 소식통 4명의 전언이다."
-            },
-            {
               "t": "img",
-              "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
-              "cap": "Credit: Ars Technica"
+              "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg"
             },
             {
               "t": "p",
-              "x": "보고서는 미 특수전사령부 분석관이 제출했다. 중국 선박이 핵무기 프로그램용 부품을 중동을 거쳐 옮기고 있다는 내용이었다. 미군은 공중 지원까지 붙여 선박을 세우고 오를 준비를 하던 중에야 보고서 작성에 쓰인 챗봇이 화물을 잘못 식별한 사실을 확인했다. 한 소식통은 CNN에 \"거의 전쟁을 시작할 뻔했다\"고 말했다."
+              "x": "미국 DC 연방순회항소법원이 국방부의 앤트로픽 기술 배제 조치를 승인했다. 앤트로픽이 군에 Claude의 일부 AI 기능을 내주지 않았다면, 악의가 없었더라도 트럼프 행정부에 이 회사를 공급망 위험으로 지정할 권한이 있다고 봤다. 판결은 2대1로 갈렸다."
             },
             {
               "t": "p",
-              "x": "CNN에 따르면 문제의 챗봇은 공개 출처 정보와 정부가 보유한 비밀 신호정보를 한데 섞었고 그 결과물이 그대로 정보 보고서로 포장됐다."
+              "x": "재판부는 이 사건이 상상하기 어려울 만큼 강력한 신기술을 군이 어디까지 써도 되느냐는 어려운 질문을 던진다고 적었다. 정부는 지나치게 제약된 AI 모델이 갑자기 멈춰 군사 작전이 실패할 가능성을, 앤트로픽은 제약 없는 AI가 환각으로 엉뚱한 공격 목표를 고를 가능성을 내세웠다. 두 위험을 저울질하는 건 대통령과 국방장관의 몫이고, 국방장관은 공급망보안법과 헌법이 정한 권한을 넘지 않았다는 게 재판부 결론이다."
             },
             {
               "t": "p",
-              "x": "환각이 전문 보고서를 무너뜨린 사례는 이미 목록이 길다. 작가와 기자, 연구자, 판사, 의사까지 AI가 지어낸 내용에 속았고 일부 연구자는 환각을 완전히 막는 일 자체가 불가능할 수 있다고 본다."
+              "x": "갈림길은 어떤 법을 적용하느냐였다. 지난달 캘리포니아 북부 연방지법은 공급망 위험을 적대 세력의 악의적 행위로 한정한 10 U.S.C. § 3252를 근거로 이 지정이 위법하다고 판단했다. 항소법원은 그 결론 자체는 다투지 않았다. 대신 '모든 사람'을 대상으로 하고 기능 '거부(deny)'까지 포함하는 41 U.S.C. § 4713로 사안을 따졌고, 이 조항에서는 악의가 요건이 아니라고 봤다."
             },
             {
               "t": "p",
-              "x": "그 사이 군의 AI 도입은 오히려 빨라졌다. 국방부는 1월 'AI 가속 전략'을 내놨고 구글 제미나이 기반의 자체 플랫폼 GenAI.mil에는 그록도 추가됐다. 지난 6월에는 현역 150만 명이 군의 생성형 AI 도구를 썼다는 보고가 의회에 올라갔다."
+              "x": "반대 의견을 낸 캐런 헨더슨 판사는 이 법이 적대국과 악의적 행위자의 공급망 침투를 막으려고 만든 것이라고 지적했다. 계약업체가 정부가 반기지 않는 사용 제한을 정직하고 투명하게 적용하는 경우까지 넓혀 읽어서는 안 된다는 입장이다."
             },
             {
               "t": "p",
-              "x": "2023년 국무부 선언은 군사 AI에 언제나 '인간의 개입'을 두라고 강조했다. 그 뒤로 우크라이나에서는 완전 자율 공격 드론이 쓰였고 지난 3월 국방부는 자율무기 활용에 반대한 앤스로픽을 블랙리스트에 올렸다가 지난달 법원에서 수정헌법 1조를 위반한 위법한 보복이라는 판단을 받았다. 보도된 이번 사건은 AI 안전을 둘러싼 논의가 어느 때보다 커진 시점에 나왔다."
+              "x": "앤트로픽 대변인은 CNBC에 \"법원 결정에 정중히 동의하지 않는다\"며, 다른 연방법원은 이미 정부의 같은 취지 지정을 위법으로 봤다고 말했다. 회사는 전원합의체 재심리나 대법원 상고를 포함한 모든 선택지를 검토하고 있다. 앤트로픽은 치명적 자율 무기와 미국인 대량 감시에 쓰지 못하게 한 제한을 풀지 않자 정부가 보복했다고 주장해 왔다."
             }
           ]
         },
-        "image": "pipeline/media/politics-ai-halluc-near-miss.jpg",
+        "image": "pipeline/media/politics-anthropic-appeals-supply-chain.jpg",
         "free": true,
         "hasFull": true
       },
       {
-        "id": "politics-dc-gravity-shift",
+        "id": "politics-us-china-si-dialogue",
         "eyebrow": "AI NEWS",
-        "headline": "규제를 할지가 아니라 어디까지 할지\n미국 AI 정치의 무게중심이 움직였다",
-        "body": "IAPP 칼럼은 미국 AI 논쟁이 규제 여부에서 규제 범위로 넘어갔다고 진단했다.",
+        "headline": "미중 정상회담서\n'초지능 대화' 신설",
+        "body": "양국 정상은 AI 대신 '초지능'이란 말을 쓰기로 하고 SI 대화를 새로 열었다.",
         "tool": "Politics",
-        "source": "IAPP",
-        "url": "https://iapp.org/news/a/a-view-from-dc-a-sudden-shift-in-gravity-for-ai-politics",
+        "source": "The White House",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/politics-dc-gravity-shift.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "politics-virginia-dc-eo",
+        "id": "politics-pentagon-polygraph-plus",
         "eyebrow": "AI NEWS",
-        "headline": "데이터센터 세계 1위 버지니아\n주지사가 건설에 제동을 걸었다",
-        "body": "버지니아 주지사가 NDA 금지와 인허가 제한을 담은 데이터센터 행정명령에 서명했다.",
+        "headline": "국방부, AI 거짓말\n탐지에 3030만 달러",
+        "body": "직원 검증·유출자 색출에 AI를 쓰는 계획에 한 법학자는 '단점만 합쳤다'고 했다.",
         "tool": "Politics",
-        "source": "The Register",
-        "url": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
         "accent": "#f5a623",
         "motif": "cube",
-        "image": "pipeline/media/politics-virginia-dc-eo.jpg",
+        "image": "pipeline/media/politics-pentagon-polygraph-plus.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "politics-un-digital-compact",
+        "id": "politics-bessent-ai-liability",
         "eyebrow": "AI NEWS",
-        "headline": "2027 글로벌 디지털 콤팩트 재검토\n남반구의 자리가 걸려 있다는 경고",
-        "body": "UN 디지털 콤팩트 재검토 범위가 글로벌 사우스의 발언권을 가른다는 기고가 나왔다.",
+        "headline": "베선트 재무장관, 프런티어\nAI 기업 책임 면제에 반대",
+        "body": "베선트는 하원 청문회에서 AI 기업이 만들고 생성한 것에 책임져야 한다고 말했다.",
         "tool": "Politics",
-        "source": "Tech Policy Press",
-        "url": "https://www.techpolicy.press/uns-global-digital-compact-review-could-sideline-the-global-south",
+        "source": "Lawfare",
+        "url": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/politics-un-digital-compact.png",
+        "image": "pipeline/media/politics-bessent-ai-liability.jpg",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "politics-nigeria-bvas",
+        "id": "politics-unga-ai-governance-clash",
         "eyebrow": "AI NEWS",
-        "headline": "기계가 알아보지 못한 유권자\n나이지리아 선거법엔 답이 없다",
-        "body": "나이지리아 생체인식 투표 시스템이 유권자를 못 알아봐도 법엔 구제 절차가 없다.",
+        "headline": "유엔 총회서 AI 거버넌스\n두고 엇갈린 목소리",
+        "body": "구테흐스는 소수 기업으로의 권력 이동을 경고했고 트럼프는 통제 구상을 거부했다.",
         "tool": "Politics",
         "source": "Tech Policy Press",
-        "url": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter",
+        "url": "https://www.techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
         "accent": "#eb367f",
         "motif": "cube",
-        "image": "pipeline/media/politics-nigeria-bvas.png",
+        "image": "pipeline/media/politics-unga-ai-governance-clash.jpg",
         "hasFull": true,
         "locked": true
       }
     ],
-    "days": [],
+    "days": [
+      {
+        "date": "2026-09-21",
+        "cards": [
+          {
+            "id": "politics-ai-halluc-near-miss",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "headline": "AI가 지어낸 정보 보고서 탓에 미군이 중국 선박에 오를 뻔했다는 보도",
+            "body": "AI가 지어낸 정보 보고서로 미군이 중국 선박에 오를 뻔했다고 CNN이 전했다.",
+            "source": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+            "accent": "#3b6bff",
+            "motif": "cube",
+            "image": "pipeline/media/politics-ai-halluc-near-miss.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "politics-dc-gravity-shift",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "headline": "규제를 할지가 아니라 어디까지 할지 미국 AI 정치의 무게중심이 움직였다",
+            "body": "IAPP 칼럼은 미국 AI 논쟁이 규제 여부에서 규제 범위로 넘어갔다고 진단했다.",
+            "source": "IAPP",
+            "url": "https://iapp.org/news/a/a-view-from-dc-a-sudden-shift-in-gravity-for-ai-politics",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/politics-dc-gravity-shift.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "politics-virginia-dc-eo",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "headline": "데이터센터 세계 1위 버지니아 주지사가 건설에 제동을 걸었다",
+            "body": "버지니아 주지사가 NDA 금지와 인허가 제한을 담은 데이터센터 행정명령에 서명했다.",
+            "source": "The Register",
+            "url": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+            "accent": "#f5a623",
+            "motif": "cube",
+            "image": "pipeline/media/politics-virginia-dc-eo.jpg",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "politics-un-digital-compact",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "headline": "2027 글로벌 디지털 콤팩트 재검토 남반구의 자리가 걸려 있다는 경고",
+            "body": "UN 디지털 콤팩트 재검토 범위가 글로벌 사우스의 발언권을 가른다는 기고가 나왔다.",
+            "source": "Tech Policy Press",
+            "url": "https://www.techpolicy.press/uns-global-digital-compact-review-could-sideline-the-global-south",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/politics-un-digital-compact.png",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "politics-nigeria-bvas",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "headline": "기계가 알아보지 못한 유권자 나이지리아 선거법엔 답이 없다",
+            "body": "나이지리아 생체인식 투표 시스템이 유권자를 못 알아봐도 법엔 구제 절차가 없다.",
+            "source": "Tech Policy Press",
+            "url": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/politics-nigeria-bvas.png",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
+      }
+    ],
     "lockedCount": 4
   }
 };
