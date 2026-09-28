@@ -1,129 +1,124 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "source": "The Verge",
+      "url": "https://www.gearnews.com/virtualdj-2026-dj/",
+      "source": "gearnews",
       "category": "music",
-      "published_iso": "2026-09-27T20:46:36Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=3.0945578231293%2C0%2C93.810884353741%2C100&w=1200",
-      "excerpt": "Thoughtful Things' Engram is a sampler billed as a 'field recorder for latent space' that circuit-bends tiny AI models, turning their broken hallucinations into playable sound.",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music"
+      "published_iso": "2026-09-28T15:38:37+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2025/12/atomix-virtualdj.jpg",
+      "excerpt": "VirtualDJ 2026 gets its third and final update: ShoutOut custom voiceovers, AI scripting ('Vibescripting'), and improved controller and streaming support."
     },
     {
-      "url": "https://musictech.com/news/industry/lunacy-audio-nova/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-09-22T17:03:00Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Lunacy-Audios-NOVA-plugin-Growl-1068x801.jpg",
-      "excerpt": "Lunacy Audio launches NOVA, a free browser-based, AI-powered platform for creating and sharing plugins, with premium tiers unlocking more tools.",
-      "title": "Lunacy Audio launches new AI-powered plugin sharing platform, NOVA"
-    },
-    {
-      "url": "https://musictech.com/news/industry/suno-ai-update-v6/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-09-21T15:44:36Z",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Suno-new-hero-D@2000x1500-1068x801.jpg",
-      "excerpt": "Reddit users have turned on Suno after its label-partnered v6 update, calling it 'the death of Suno', while labels say v6 is 'the fruit of the same poisoned tree'.",
-      "title": "“The death of Suno”: Reddit users have turned against Suno after v6 model update"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/18/suno-subscribers-have-a-big-problem-with-v6/",
+      "url": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
       "source": "Digital Music News",
       "category": "music",
-      "published_iso": "2026-09-19T02:00:01Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/suno-subscribers-slam-v6.png",
-      "excerpt": "Suno subscribers are abandoning ship after the release of V6, which was developed with major labels in partnership.",
-      "title": "Suno Subscribers Have a Big Problem with v6"
+      "published_iso": "2026-09-28T05:32:29+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/japanese-voice-actor-sues-tiktok-ai-voice-cloning.png",
+      "excerpt": "A Japanese actor and anime voice talent has filed suit against TikTok over videos allegedly featuring an AI clone of his iconic voice."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/09/25/a-tale-of-two-industries-music-ai-2-0/",
-      "source": "Digital Music News",
+      "url": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-09-25T22:53:06Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Even-with-the-transformation-of-AI-we-must-rewrite-US-Copyright-Law.-It-is-a-mess.png",
-      "excerpt": "Music AI is splitting into two industries: transient, synthetic content and lasting, artist-driven music based on identity.",
-      "title": "A Tale of Two Industries: Music AI 2.0"
+      "published_iso": "2026-09-28T10:41:20+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/Screenshot-2026-09-28-at-11.40.00.png",
+      "excerpt": "Musixmatch CEO Max Ciociola says lyrics are becoming 'the LLM of the music industry'; the company struck a deal with Suno for a copyright-detection tool called Sentinel."
     },
     {
-      "url": "https://www.digitalmusicnews.com/2026/09/17/submithub-bans-ai-music-submissions/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-09-18T03:57:25Z",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/submithub-bans-ai-music.png",
-      "excerpt": "SubmitHub bans AI-generated music from its promotion services, blocking tracks it deems 85% likely to be AI even at the cost of up to 10% of revenue.",
-      "title": "SubmitHub Bans AI Music Submissions (and Blames It on Spotify)"
-    },
-    {
-      "url": "https://www.production-expert.com/production-expert-1/generative-ai-we-need-to-talk-about-the-elephant-in-the-room",
-      "source": "Production Expert",
-      "category": "music",
-      "published_iso": "2026-09-27T08:00:00Z",
-      "og_image": "http://static1.squarespace.com/static/54d696e5e4b05ca7b54cff5c/t/6a9a9fcedfdfec78a756e50e/1788518358328/Why+Generative+AI+Is+So+Bad.webp?format=1500w",
-      "excerpt": "Generative AI is built to guess the most likely answer, which rules out the happy accidents that gave us gated reverb. Here is what that costs audio pros.",
-      "title": "Generative AI - We Need To Talk About The Elephant In The Room | Audio Production: News, Tutorials & Reviews"
-    },
-    {
-      "url": "https://www.billboard.com/pro/suno-ai-music-deals-labels-artist-reps-react/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-09-18T20:38:40Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/AI-music-robot-hand-billboard-1800.jpg?w=1024",
-      "excerpt": "As Suno makes AI music deals with labels like WMG and BMG for its new v6 models, artist representatives for Mötley Crüe, Afroman and more react.",
-      "title": "As Some Labels Strike Deals With Suno, Artist Reps Sound Off: ‘It’s the Wild, Wild West’"
-    },
-    {
-      "url": "https://www.hypebot.com/ifpi-unites-cd-baby-sony-umg-and-more-to-fight-ai-streams/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-09-16T13:43:34Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/streaming-integrity-initiative.webp",
-      "excerpt": "Top music distributors unite to fight fraud, but key players have yet to sign on. How the IFPI’s initiative battles fakes and protects royalties.",
-      "title": "IFPI unites CD Baby, Sony, UMG & More To Fight AI Streams"
-    },
-    {
-      "url": "https://www.hypebot.com/what-it-actually-takes-to-read-music-without-sight-and-what-ai-can-help-solve/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-09-24T15:00:11Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/foran-orgelet--glad-smilende.jpg",
-      "excerpt": "How accessible scores and Braille music make concert prep possible, and why reliable tools today matter more than AI’s promised future.",
-      "title": "What It Actually Takes to Read Music Without Sight (and What AI Can Help Solve)"
-    },
-    {
-      "url": "https://musically.com/2026/09/25/ai-assisted-streaming-fraudster-hopes-to-avoid-jail-sentence/",
+      "url": "https://musically.com/2026/09/28/classicalbot-uses-ai-to-track-classical-music-concerts-globally/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-09-25T12:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-23.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "In March, American producer Michael Smith pleaded guilty to one count of conspiracy to commit wire fraud, following accusations that he had botted his way to more than $10m in royalties for his AI-generated music.",
-      "title": "AI-assisted streaming fraudster hopes to avoid jail sentence"
+      "published_iso": "2026-09-28T12:55:28+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/09/ClassicalBot-1.png",
+      "excerpt": "ClassicalBot uses AI to map classical-music concerts, starting in the developer's home country before expanding worldwide."
     },
     {
-      "url": "https://www.youtube.com/watch?v=P-OZwbegYss",
-      "source": "ElevenLabs",
+      "url": "https://cdm.link/agitate-glazmo-and-more/",
+      "source": "CDM",
       "category": "music",
-      "published_iso": "2026-09-21T17:13:25Z",
-      "og_image": "https://i.ytimg.com/vi/P-OZwbegYss/maxresdefault.jpg",
-      "excerpt": "ElevenLabs Studio 4.0 is an agentic video editor inside ElevenCreative that generates video, image, voice, music and sound effects directly within a project.",
-      "title": "Introducing Studio 4.0, the agentic video editor in ElevenCreative"
+      "published_iso": "2026-09-27T22:08:06+00:00",
+      "og_image": "https://cdm.link/app/uploads/2026/09/dream-port.png",
+      "excerpt": "Oliver Torr (Glazmo Network) mangles Ableton Live tempos with MIRA and assembles drum kits out of AI-surfed YouTube 'slop' in new experimental tools."
     },
     {
       "url": "https://bedroomproducersblog.com/2026/09/26/suno-lawsuit/",
       "source": "Bedroom Producers Blog",
       "category": "music",
-      "published_iso": "2026-09-26T08:23:51Z",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/suno-lawsuit-728x364.jpg",
-      "excerpt": "Suno confirms its v6 model was trained on user-generated interactions, as Sony and UMG sue again just nine days after launch, calling v6 'the fruit of the same poisoned tree'.",
-      "title": "Suno confirms v6 is trained on user-generated interactions as new copyright lawsuits surface"
+      "published_iso": "2026-09-26T08:23:51+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/suno-lawsuit.jpg",
+      "excerpt": "Suno confirms its v6 models were trained on user-generated interactions as Sony and UMG file new copyright lawsuits barely a week after the release."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W_7H4yThuto",
+      "source": "Andrew Huang",
+      "category": "music",
+      "published_iso": "2026-09-26T08:30:15-07:00",
+      "og_image": "https://i.ytimg.com/vi/W_7H4yThuto/maxresdefault.jpg",
+      "excerpt": "Andrew Huang video: 'AI scammers are trying to use me' — the producer flags AI-driven scams exploiting his name (details in video; unverified beyond title)."
+    },
+    {
+      "url": "https://www.soundonsound.com/news/finalist-2-tim-exile",
+      "source": "Sound On Sound",
+      "category": "music",
+      "published_iso": "2026-09-25T18:00:53+01:00",
+      "og_image": "",
+      "excerpt": "Tim Exile's algorithmic (explicitly AI-free) auto-mixing tool Finalist 2 leaves Reaktor for a standalone app and browser, with one-click export, 64 stems and group stem bounces."
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-25T13:25:18+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2024/03/shutterstock_381063385-e1711109860202.jpg",
+      "excerpt": "Michael Smith, who made $8m streaming AI-generated songs with bots, asks for no prison time, arguing the losses were 'tiny, immeasurable' per artist."
+    },
+    {
+      "url": "https://musictech.com/news/industry/lunacy-audio-nova/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-09-22T17:03:00+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/09/Lunacy-Audios-NOVA-plugin-Growl-1068x801.jpg",
+      "excerpt": "Lunacy Audio launches NOVA, a free browser-based AI-powered platform for building and sharing plugins, with premium tiers for more tools."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/18/suno-subscribers-have-a-big-problem-with-v6/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-09-19T02:00:01+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/suno-subscribers-slam-v6.png",
+      "excerpt": "Suno subscribers are cancelling after the label-partnered v6 release, calling the output muffled and generic and objecting to new download caps."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/17/submithub-bans-ai-music-submissions/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-09-18T03:57:25+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/submithub-bans-ai-music.png",
+      "excerpt": "SubmitHub bans AI-generated music submissions under a new policy, even at the cost of up to 10% of its current revenue."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2Z2PQTkmgIQ",
+      "source": "The Audio Programmer",
+      "category": "music",
+      "published_iso": "2026-09-17T23:50:55-07:00",
+      "og_image": "https://i.ytimg.com/vi/2Z2PQTkmgIQ/maxresdefault.jpg",
+      "excerpt": "Audio Programmer meetup recording: 'Does Coding Matter Anymore? Audio Programming in the AI Age' — audio developers discuss AI's effect on plugin/DSP work."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ntGTInVSQTw",
+      "source": "Suno",
+      "category": "music",
+      "published_iso": "2026-09-17T09:14:21-07:00",
+      "og_image": "https://i.ytimg.com/vi/ntGTInVSQTw/maxresdefault.jpg",
+      "excerpt": "Suno official YouTube short promoting Suno Studio ('Sometimes you know exactly what you want'); thin, low priority."
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 13,
+    "dropped": 0,
+    "kept": 14,
     "against_days": 5
   }
 }

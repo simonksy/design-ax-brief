@@ -1,7 +1,31 @@
-{"date":"2026-09-28","section":"books","media":[
-{"id":"books-sudowrite-character-portraits","type":"image","src":"pipeline/media/books-sudowrite-character-portraits.jpg"},
-{"id":"books-novelcrafter-live-manuscript-org","type":"video","src":"pipeline/media/books-novelcrafter-live-manuscript-org.mp4","poster":"pipeline/media/books-novelcrafter-live-manuscript-org.jpg"},
-{"id":"books-apex-covantage-eden-copyediting","type":"image","src":"pipeline/media/books-apex-covantage-eden-copyediting.jpg"},
-{"id":"books-sudowrite-opus55-gpt6-models","type":"svg"},
-{"id":"books-kenya-ai-textbook-alarm","type":"image","src":"pipeline/media/books-kenya-ai-textbook-alarm.jpg"}
-]}
+{
+  "date": "2026-09-29",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-mvb-snackz-metadata",
+      "type": "image",
+      "src": "pipeline/media/books-mvb-snackz-metadata.jpg"
+    },
+    {
+      "id": "books-ai-secrecy-authors",
+      "type": "image",
+      "src": "pipeline/media/books-ai-secrecy-authors.jpg"
+    },
+    {
+      "id": "books-soundgrab-cinema-audiobook",
+      "type": "image",
+      "src": "pipeline/media/books-soundgrab-cinema-audiobook.png"
+    },
+    {
+      "id": "books-translator-ai-post-editing",
+      "type": "image",
+      "src": "pipeline/media/books-translator-ai-post-editing.jpg"
+    },
+    {
+      "id": "books-grandmaslop-ai-storybooks",
+      "type": "image",
+      "src": "pipeline/media/books-grandmaslop-ai-storybooks.jpg"
+    }
+  ]
+}

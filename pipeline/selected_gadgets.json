@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "gadgets",
   "picks": [
     {
@@ -8,13 +8,13 @@
       "category": "gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "headline": "I saw Microsoft Surface laptops with the Snapdragon X2, and this is what AI PCs should feel like",
-      "url": "https://www.digitaltrends.com/computing/microsoft-snapdragon-x2-elite-surface-local-ai-demos/",
-      "source": "Digital Trends",
-      "published_iso": "2026-09-23T16:04:27-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/Microsoft-Surface-Pro-12-2nd-Gen-powered-by-the-Snapdragon-X2-Elite.jpg?resize=1200%2C630",
-      "excerpt": "I tried Microsoft’s new Snapdragon-powered Surface PCs and saw local AI turn sketches into 3D models, images and videos, while new haptics and Ink Canvas made the experience feel surprisingly intuitive.",
-      "rationale": "Hands-on with on-device sketch-to-3D/image/video and Ink Canvas on new Surface hardware; the most designer-actionable item, distinct from the 09-26 Copilot+ PC policy card."
+      "headline": "Pixel Buds app update lets Gemini control audio and settings",
+      "url": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
+      "source": "9to5Google",
+      "published_iso": "2026-09-28T16:20:01Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Buds-2a-Berry.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "We’re now starting to see Gemini audio controls with the latest Pixel Buds companion app update. This is part of...",
+      "rationale": "Shipping feature: voice-agent control of earbud audio/settings, a concrete shift in hearables interaction; fresh, no prior coverage."
     },
     {
       "rank": 2,
@@ -22,13 +22,13 @@
       "category": "gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "headline": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
-      "url": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
-      "source": "Engadget",
-      "published_iso": "2026-09-23T23:29:55+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg",
-      "excerpt": "After a free trial it'll cost $150 to add on, or require a Meta One subscription.",
-      "rationale": "New regulated health feature on AI glasses with concrete pricing; not covered by prior Meta Muse/privacy/Connect cards."
+      "headline": "Liminal Uses Meta Glasses To Deliver Meditation Based On What You See",
+      "url": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-28T21:36:27Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
+      "excerpt": "Liminal is taking its wellness approach outside the headset. Liminal: Walking Meditation uses Meta AI glasses to create a spoken meditation around what you actually see.",
+      "rationale": "Novel third-party app using the glasses' camera + AI to generate context-aware audio; shows the emerging glasses app model, distinct from prior Meta Muse/hearing cards."
     },
     {
       "rank": 3,
@@ -36,13 +36,13 @@
       "category": "gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "headline": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update, causes outrage",
-      "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-23T06:44:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Samsung-AI-fridge.jpg",
-      "excerpt": "Samsung has stopped a SmartThings update after Bespoke AI 4-Door fridges shut down when it was installed. As per reports, internal test software reached customers by mistake. Samsung has apologized and will send engineers over the Chuseok break.",
-      "rationale": "Concrete failure case for connected AI appliances; a sharp lesson for anyone designing update/fallback UX; fresh story with no prior coverage."
+      "headline": "[써보고서] '스냅드래곤 AI' 입은 AR글래스...공간컴퓨팅·영화 속 장면 눈앞",
+      "url": "https://zdnet.co.kr/view/?no=20260925054239",
+      "source": "ZDNet Korea",
+      "published_iso": "2026-09-25T00:30:10Z",
+      "og_image": "https://image.zdnet.co.kr/2026/09/25/1e18c1aa155afeddc9975c3c1803af51.jpg",
+      "excerpt": "[마우이(미국)=지디넷코리아 전화평 기자] 이건 물병입니다.안경을 쓴 채 눈앞의 사물을 바라보며 이게 뭐야?라고 묻자 귓가에서 즉각 답변이 나왔다. 미국 인공지능(AI) 스타트업 프리즘ML(Prism ML)이 선보인 스마트글래스가 내놓은 대답이다. 놀라운 점은 이 모든 과정이 인터넷...",
+      "rationale": "Hands-on of fully offline, on-device visual AI in AR glasses (PrismML on Snapdragon); new capability, Korean-outlet diversity, distinct from the 07-17 Bonsai model story."
     },
     {
       "rank": 4,
@@ -50,13 +50,13 @@
       "category": "gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "headline": "An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "source": "TechRadar",
-      "published_iso": "2026-09-27T19:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
-      "excerpt": "This machine runs hundreds of AI agents at once, and somehow keeps every single one responsive",
-      "rationale": "Freshest hardware item: desk-side GB300 box running hundreds of local agents, with industrial-design angle; distinct from the 09-27 PixelMob review."
+      "headline": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-09-28T17:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/TMSvSLPp4z66kcByzXoL7e-1920-80.jpg",
+      "excerpt": "A pocket-size powerhouse with a giganormous price tag",
+      "rationale": "First Gorgon Halo (Ryzen AI Max Pro 495) local-AI mini-PC with price point; new-gen hardware for running models locally, not a repeat of earlier Strix Halo boxes."
     },
     {
       "rank": 5,
@@ -64,21 +64,25 @@
       "category": "gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "headline": "I turned my Android phone’s annoying AI button into its most powerful shortcut key",
-      "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
-      "source": "Android Authority",
-      "published_iso": "2026-09-27T11:00:10+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-ai-button-on-a-honor-600-pro-scaled.jpg",
-      "excerpt": "I was ready to disable my AI button until I realized how much it could actually do.",
-      "rationale": "Directly actionable how-to for repurposing the hardware AI key; fifth distinct outlet, no prior coverage."
+      "headline": "When Can We Exit the AI Toothbrush Era?",
+      "url": "https://gizmodo.com/ai-toothbrushes-2000818160",
+      "source": "Gizmodo",
+      "published_iso": "2026-09-28T17:15:06Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/camerajet-1200x675.jpg",
+      "excerpt": "AI toothbrushes are an entire market now. Which leaves me wondering: why?",
+      "rationale": "Critical take on AI-washing in consumer hardware; useful counterweight for product designers, fifth distinct outlet."
     }
   ],
   "dropped": [
-    {"url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music", "reason": "cross-section collision: same story is the top candidate in music today; ceded to music to avoid card-id/media clash"},
-    {"url": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/", "reason": "same core story as Snap Specs cards already published (Wired 09-18 gadgets, UploadVR 09-22 design)"},
-    {"url": "https://www.tomsguide.com/phones/android-phones/do-you-actually-need-the-snapdragon-8-elite-extreme-gen-6-qualcomms-svps-explain-who-should-pay-the-premium", "reason": "Snapdragon 8 Elite Gen 6 already covered 09-13 and 09-23"},
-    {"url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/", "reason": "Siri AI HomePod already covered (MacRumors 09-06, smart display 09-22)"},
-    {"url": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard", "reason": "weak AI angle (cloud shutdown column)"},
-    {"url": "https://www.androidauthority.com/inmo-air-3-smart-glasses-recall-3715219/", "reason": "not about AI (overheating recall)"}
+    {"url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/", "reason": "same content as published 9to5Mac Siri AI device list (08-06)"},
+    {"url": "https://www.techradar.com/audio/a-legendary-streaming-microphone-is-back-after-17-years-the-yeti-2-has-new-ai-powered-features-and-a-built-in-screen", "reason": "Logitech Yeti 2 already published (Tom's Hardware 09-26)"},
+    {"url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding", "reason": "Copilot+ branding drop already published (Ars Technica 09-26)"},
+    {"url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/", "reason": "Snap Specs AI service already covered (Wired 09-18, UploadVR 09-22)"},
+    {"url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/", "reason": "Siri AI HomePod already covered (MacRumors 09-06, smart display 09-22); previously dropped"},
+    {"url": "https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/", "reason": "Googlebook launch already covered (Verge 09-22, Android Authority 09-27)"},
+    {"url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china", "reason": "not AI-driven (camera/battery phone launch)"},
+    {"url": "https://www.sammobile.com/news/samsung-the-freestyle-plus-projector-is-coming-to-more-european-markets/", "reason": "regional availability; AI not core"},
+    {"url": "https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/", "reason": "One UI 9 rollout; incremental, AI features covered in prior One UI 9 cards"},
+    {"url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/", "reason": "overlaps published Road to VR codec avatar/Project Phoenix Connect card (09-22); lower rank"}
   ]
 }

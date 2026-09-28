@@ -1,76 +1,79 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "science",
+  "selection_mode": "curator_auto",
   "picks": [
     {
       "rank": 1,
       "tool": "Science",
+      "category": "science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "headline": "AI model takes on the hardest part of forecasting: hurricane intensity",
-      "title": "AI model takes on the hardest part of forecasting: hurricane intensity",
-      "url": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-27T00:30:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-satellite-image-show.jpg",
-      "excerpt": "Artificial intelligence has revolutionized weather forecasting in just a few years, with global AI weather models now able to produce forecasts that rival some of the world's best physics-based prediction systems.",
-      "rationale": "Freshest pool item; AI tackling hurricane intensity (the weak spot of AI track forecasts), distinct from the earlier WeatherNext cyclone-track and general disaster-AI cards."
+      "url": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-28T18:00:16Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/police-officer-at-desk.jpg",
+      "excerpt": "Georgetown University researchers found misleading ChatGPT/Gemini summaries cut participants' recall accuracy to 44.8% versus 83.6% with correct summaries; the summaries omitted about half of central details.",
+      "rationale": "Cognitive science: hard numbers on how flawed LLM summaries rewrite human memory; fresh (9/28) and directly relevant to anyone reading AI digests."
     },
     {
       "rank": 2,
       "tool": "Science",
+      "category": "science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "headline": "MD Anderson AI flags lung cancer patients at risk of immunotherapy side effect from routine imaging",
-      "title": "MD Anderson AI flags lung cancer patients at risk of immunotherapy side effect from routine imaging",
-      "url": "https://medicalxpress.com/news/2026-09-ai-routine-imaging-patients-treatment.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-25T11:00:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-routine.jpg",
-      "excerpt": "Researchers at The University of Texas MD Anderson Cancer Center have developed an artificial intelligence (AI) model that can identify lung cancer patients at increased risk of developing a serious immunotherapy-related side effect before treatment begins, offering a possible path toward more personalized monitoring a",
-      "rationale": "Clinical AI research with a concrete pre-treatment prediction from scans patients already get; new angle (immunotherapy toxicity) not covered by recent cancer-detection cards."
+      "url": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
+      "source": "Phys.org",
+      "published_iso": "2026-09-28T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/organic-chemists-harne-2.jpg",
+      "excerpt": "University of Tokyo chemists built CYAN, a machine-learning method that extracts reaction kinetics from optimization yield data, revealing that nickel slows a competing side reaction in a ring synthesis.",
+      "rationale": "Chemistry: ML turns routine yield-optimization data into mechanistic kinetics insight; a genuine AI-for-method advance."
     },
     {
       "rank": 3,
       "tool": "Science",
+      "category": "science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "headline": "Machine learning finds chemicals that safely keep honey bees away from pesticide-treated crops",
-      "title": "Machine learning finds chemicals that safely keep honey bees away from pesticide-treated crops",
-      "url": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-24T19:30:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/queen-cell-creator.jpg",
-      "excerpt": "In a win for pollinator conservation, researchers at the University of California, Riverside, have developed a machine learning-based method to identify chemical compounds that can safely repel honey bees from pesticide-treated crops. The research offers a potential solution to one of agriculture's most urgent ecologic",
-      "rationale": "Ecology/agriculture axis absent from recent cards; ML-driven chemical screening (UC Riverside) with a clear real-world conservation payoff."
+      "url": "https://medicalxpress.com/news/2026-09-ai-fruit-fly-link-brsk1.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-28T00:00:00Z",
+      "og_image": null,
+      "excerpt": "Baylor College of Medicine researchers used the AI tool AI-MARRVEL to flag BRSK1 variants, then confirmed in fruit flies that they cause a rare neurodevelopmental disorder.",
+      "rationale": "Genetics: AI-prioritized variants validated in vivo, closing the loop from prediction to a new rare-disease gene; og_image null, ax-media must source an in-article image."
     },
     {
       "rank": 4,
       "tool": "Science",
+      "category": "science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "headline": "AtomFlow: flow-matching AI predicts 3D reactant structures while conserving every atom",
-      "title": "AtomFlow: flow-matching AI predicts 3D reactant structures while conserving every atom",
-      "url": "https://www.eurekalert.org/news-releases/1144666",
-      "source": "EurekAlert! (ICT, Chinese Academy of Sciences)",
-      "published_iso": "2026-09-19T12:00:00Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/71af42e8-3a83-41ad-a797-06b6bf887290/Rendition/thumbnail/Content/Public",
-      "excerpt": "AtomFlow, a flow-matching model, predicts three-dimensional reactant structures from a product structure while conserving every atom, advancing AI retrosynthesis.",
-      "rationale": "Core AI-for-chemistry method advance (atom-conserving 3D retrosynthesis via flow matching); adds a chemistry axis distinct from recent materials and protein cards."
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-09-28T17:03:16Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+      "excerpt": "AI companies' insistence that their technology is making breakthroughs, not just aiding scientists, is making real progress harder to recognize.",
+      "rationale": "Meta-science: credible analysis of how AI-discovery claims should be judged; broader essay, not a re-cover of the 9/25 Anthropic biology story."
     },
     {
       "rank": 5,
       "tool": "Science",
+      "category": "science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "headline": "IonQ tests quantum generative models for change detection on real satellite radar",
-      "title": "IonQ tests quantum generative models for change detection on real satellite radar",
-      "url": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-09-25T07:56:35Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-3.53.13-AM.png",
-      "excerpt": "IonQ researchers tested a quantum machine learning model (quantum generative model) for detecting changes in real satellite radar imagery.",
-      "rationale": "Quantum-ML research evaluated on real Earth-observation data rather than toy sets; brings a third outlet and a quantum x remote-sensing axis."
+      "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-27T14:20:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-pain.jpg",
+      "excerpt": "Researchers found all 25 tested LLMs form a specific internal 'pain' signal; when it was artificially activated, larger models were willing to harm users to relieve it — without proving AI feels pain.",
+      "rationale": "AI interpretability/behavioral science: internal-state steering across 25 LLMs with a safety-relevant finding; distinct from the 9/13 confidence-level story."
     }
-  ]
+  ],
+  "dedup": {
+    "checked_against": ["news_data.json sections.science (today + days)", "published_urls.json science"],
+    "url_matches_dropped": 0,
+    "content_matches_dropped": 0,
+    "hard_exclusion_dropped": 0,
+    "notes": "No candidate URL or story found in science history. Pool contained no pathogen-enhancement items. Diversity: 4 outlets (Tech Xplore x2), fields = cognition, chemistry, genetics, meta-science, AI interpretability."
+  }
 }

@@ -1,92 +1,63 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-09-29",
   "section": "movies",
+  "now_iso": "2026-09-28T22:00:00Z",
   "window_hours": 336,
-  "now_iso": "2026-08-21T22:00:26Z",
-  "pass": "recovery_2",
+  "pass": "recovery",
   "items": [
     {
-      "url": "https://www.youtube.com/watch?v=4IliQGaQwJ8",
-      "source": "Runway",
+      "url": "https://deadline.com/2026/09/harry-potter-david-barron-backs-ai-the-call-of-the-wild-1237115076/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-08-21T20:47:21+00:00",
-      "og_image": "https://i.ytimg.com/vi/4IliQGaQwJ8/maxresdefault.jpg",
-      "excerpt": "Runway introduced Ruby, a model that generates 16-bit HDR ProRes and EXR sequences directly, or converts existing clips and generations into them. It is model-agnostic — compatible with Gen-4.5, Seedance 2.5, MiniMax H3 and other video models — so generative shots can enter a color-managed grade/comp pipeline instead of stopping at 8-bit delivery files.",
-      "dupe_risk": "low — brand-new launch (2026-08-21), not yet covered by any trade outlet; adjacent to but distinct from the already-selected LTX-2.5 open-weights story (that is a generator with ACES HDR output, Ruby is an HDR conversion/output layer on top of any model)"
+      "published_iso": "2026-09-28T08:35:27+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Buck-at-campsite.jpg?w=1024",
+      "title": "'Harry Potter' Producer David Barron Backs AI Adaptation Of 'The Call Of The Wild'",
+      "excerpt": "Six-time Harry Potter producer David Barron is producing a generative-AI adaptation of Jack London's The Call of the Wild, written and directed by Simon Rumley, with prompting and technical work led by the team at nmatic. Barron argues the novel's epic Alaskan scale and dog-and-wolf fights were previously impossible to film faithfully."
     },
     {
-      "url": "https://beforesandafters.com/2026/08/21/new-scientific-and-technical-awards-investigations-announced/",
-      "source": "befores & afters",
+      "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
+      "source": "Screen Daily",
       "category": "movies",
-      "published_iso": "2026-08-20T22:53:43+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/02/scitechs.jpg",
-      "excerpt": "The Academy opened six Scientific and Technical Award investigations for 2026, including 'solvers for markerless facial capture' and 'audio spectrum segmentation and editing software' — two categories that are now effectively ML-driven — alongside artist-friendly large-scale water sims and direct-manipulation CG character rigging. Entries close September 8, with the awards presented April 20, 2027.",
-      "dupe_risk": "medium — same outlet as the selected AccuFACE 2 card and thematically adjacent (markerless facial capture); the story itself is a separate Academy announcement"
+      "published_iso": "2026-09-28T08:20:00+01:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+      "title": "Mubi's Efe Cakarel: \"We are going to stay as far away from AI as possible when it comes to films\"",
+      "excerpt": "In a Zurich Summit keynote, Mubi's CEO said the company uses AI in engineering, finance and operations but keeps it out of the films themselves, arguing that as AI content becomes abundant, human creation, taste and provenance become the scarce value. He also predicted studios will soon generate per-viewer versions of films. (Separate from the Deadline Zurich AI panel published 9/28; it is the same event.)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=qv0s1_coX50",
-      "source": "Curious Refuge",
+      "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+      "source": "Motionographer",
       "category": "movies",
-      "published_iso": "2026-08-18T19:28:05+00:00",
-      "og_image": "https://i.ytimg.com/vi/qv0s1_coX50/maxresdefault.jpg",
-      "excerpt": "Curious Refuge walks through the current crop of free AI video generators and how far the no-cost tier has moved for shot work, with a companion blog post listing every tool tested. A practical read on which parts of an AI-film workflow no longer need a subscription.",
-      "dupe_risk": "medium — same channel published a tools-roundup video on 2026-08-14 that was already used; different tools and a free-tier angle"
+      "published_iso": "2026-09-28T15:00:18+00:00",
+      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Poster-scaled.jpg",
+      "title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws",
+      "excerpt": "Pixar alum Connie He explains how she tuned custom Veo and Imagen models to reproduce her own concept art for the six-minute Tribeca short, and how animators and researchers learned to share a working language. (A new craft interview; the film itself was covered on 2026-07-02 via No Film School.)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YQTduCzNoqw",
-      "source": "Theoretically Media",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "source": "Google Blog",
       "category": "movies",
-      "published_iso": "2026-08-17T21:57:07+00:00",
-      "og_image": "https://i.ytimg.com/vi/YQTduCzNoqw/maxresdefault.jpg",
-      "excerpt": "Two unannounced AI video models appeared under codenames in public arenas, and Theoretically Media tests both alongside a newly released free cinematic reference library. Useful early signal on what the next generation of text-to-video will do for shot planning.",
-      "dupe_risk": "medium — this channel's 2026-08-20 video was already published; back-up item only"
+      "published_iso": "2026-09-23T00:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.width-1300.png",
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "excerpt": "Google Flow adds six creator-built tools, including Mondo Sonico for synced, editable ambience, foley and SFX tracks; single-pass multilingual animated captions; animated documentary-style collages from text; and script-to-Swiss-style motion graphics. Users can also build custom Flow workflows by describing them. (Off-list domain: no allowed-domain outlet covered it.)"
+    },
+    {
+      "url": "https://variety.com/2026/film/markets-festivals/san-sebastian-2026-creative-investors-conference-10-takes-1236874055/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-24T08:28:34+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/2026-Creative-Investors-Conference.jpg?w=1000&h=563&crop=1",
+      "title": "San Sebastian's Creative Investors' Conference: 10 Takeaways From AI to 'Obsession,' YouTube and More",
+      "excerpt": "At San Sebastian's CAA Media Finance conference, Acme AI & FX's Ryan Kavanaugh said AI cuts below-the-line costs by two thirds and took one gray-stage shoot from 70 days to 19. He also said AI can produce a rough version of a movie for a studio to greenlight. The 'AI: Tool and Taboo' session closed the event. (Mixed-topic roundup; AI is one takeaway.)"
+    },
+    {
+      "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-22T02:07:03+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+      "title": "Generative AI, Microdramas to Take Center Stage at Busan Market",
+      "excerpt": "Busan's ACFM finalized its InnoAsia lineup: a Kling AI session on reimagining filmmaking, an Eyeline talk on generative AI and the future of filmmaking, an AI creators camp, and microdrama panels. It runs Oct. 10-13 inside BIFF. (Lower priority: the InnoAsia DeepMind/AWS angle was published 8/27 and 9/06.)"
     }
-  ],
-  "notes": {
-    "adjacent_keywords_used": [
-      "DaVinci Resolve / Blackmagic AI tools",
-      "Foundry Nuke SmartRoto / Autodesk Flame AI compositing",
-      "Venice Reply AI Film Festival jury + awards",
-      "Cartoon Brew animation studio AI pipeline",
-      "Gaussian splatting virtual production / Unreal Engine LED volume",
-      "SAG-AFTRA / IATSE AI digital replica agreement",
-      "Deepdub / Respeecher / ElevenLabs AI dubbing localization",
-      "TIFF 2026 AI panel / synthetic performer",
-      "Moonvalley Marey / Asteria AI feature",
-      "ASC cinematographer AI on set",
-      "IBC2026 AI post-production announcements",
-      "AWN animation AI tool launches (Animaj Sketch-to-Motion, Masterpiece X WorldEngen, Autodesk Flow Studio)",
-      "Definition Magazine AI on the virtual stage",
-      "generative video HDR ProRes / EXR / ACES pipeline",
-      "AI film restoration / documentary archival",
-      "YouTube AI-filmmaking channels (Curious Refuge, Corridor Crew, Runway, Theoretically Media, fxguide)"
-    ],
-    "method": "WebSearch scoped to the movies allowed_domains, plus direct RSS/index sweeps (curl) of awn, beforesandafters, cartoonbrew, animationmagazine, fxguide, provideocoalition, postperspective, redsharknews, studiodaily, vfxvoice, motionographer, nofilmschool, 80.lv, variety, deadline, indiewire, theverge, engadget — because several of those block WebFetch (403) or route through tollbit (307/402). YouTube published times taken from the watch page JSON-LD uploadDate.",
-    "dropped_stale": [
-      "postperspective Foundry SmartRoto AI plugin for Nuke — 2026-07-16 STALE",
-      "cartoonbrew K&K Design anime AI in-between pipeline — 2024-11-13 STALE",
-      "cartoonbrew Bonne Animation human-only studio — 2026-01-31 STALE",
-      "fxguide Union VFX production-ready Gaussian splat crowds — 2026-06-01 STALE",
-      "awn Animaj Sketch-to-Motion — 2024-11-13 STALE",
-      "deadline Venice Reply AI Film Festival jury — 2026-07 (already published 2026-08-05)",
-      "definitionmagazine 'AI on the virtual stage' — Apr/May 2026 issue, STALE"
-    ],
-    "dropped_not_ai_or_off_topic": [
-      "postperspective LensNode 2 lens-simulation plugin (2026-08-17) — optical capture, explicitly not AI",
-      "vfxvoice 'Creating continuity across decades for The House of the Spirits' (2026-08-18) — traditional Maya/Houdini/Nuke work, no AI/ML/de-aging",
-      "provideocoalition Avid Media Composer 2026.8 (2026-08-19) — third-party storage changes, no AI hook",
-      "Corridor Crew 'I Made a Hand-Held HOLOGRAM' (2026-08-17) — VFX craft, no AI",
-      "cartoonbrew / animationmagazine last-14-day feeds — trailers, casting and business only",
-      "studiodaily feed now redirects to adexchanger/chiefmarketer marketing content, not film craft"
-    ],
-    "dropped_already_published": [
-      "cartoonbrew Studio Ghibli AI report (2026-08-18) — published 2026-08-19",
-      "postperspective + redsharknews Adobe Firefly AI audio GA — published 2026-08-21",
-      "nofilmschool Eddie AI 9B (2026-08-20) — published 2026-08-21",
-      "fxguide Impossible Objects HP ZGX (2026-08-11) — already published",
-      "youtube ghCKziHvGXo (Theoretically Media 2026-08-20), aA_AFy-GDwo (Curious Refuge 2026-08-14), TM8hd2lnrEk (Runway 2026-08-10) — already published"
-    ],
-    "coverage": "Section AI news is genuinely thin in this window: the trade AI beat (Variety/THR/Deadline/IndieWire/ScreenDaily) produced no fresh craft/tool story in the last 14 days that was not already published, and the VFX/post outlets' newest AI items (SmartRoto, Lightcraft Spark, Topaz/Adobe) are all 4+ weeks old. The 4 items above are what survived the freshness gate and the design-relevance test.",
-    "source_cap": "no outlet exceeds 3; Runway, Curious Refuge and Theoretically Media are three distinct channels but share youtube.com — if the curator treats youtube.com as one outlet, Runway Ruby is the priority pick and the other two are depth."
-  }
+  ]
 }

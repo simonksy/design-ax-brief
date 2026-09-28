@@ -1,7 +1,31 @@
-{"date":"2026-09-28","section":"science","media":[
-{"id":"science-ai-hurricane-intensity-forecast","type":"image","src":"pipeline/media/science-ai-hurricane-intensity-forecast.jpg"},
-{"id":"science-mdanderson-immunotherapy-side-effect-ai","type":"image","src":"pipeline/media/science-mdanderson-immunotherapy-side-effect-ai.jpg"},
-{"id":"science-ml-honey-bee-repellent","type":"image","src":"pipeline/media/science-ml-honey-bee-repellent.jpg"},
-{"id":"science-atomflow-retrosynthesis","type":"image","src":"pipeline/media/science-atomflow-retrosynthesis.jpg"},
-{"id":"science-ionq-quantum-satellite-radar","type":"image","src":"pipeline/media/science-ionq-quantum-satellite-radar.png"}
-]}
+{
+  "date": "2026-09-29",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-ai-summary-memory",
+      "type": "image",
+      "src": "pipeline/media/science-ai-summary-memory.jpg"
+    },
+    {
+      "id": "science-cyan-reaction-kinetics",
+      "type": "image",
+      "src": "pipeline/media/science-cyan-reaction-kinetics.jpg"
+    },
+    {
+      "id": "science-ai-marrvel-brsk1",
+      "type": "image",
+      "src": "pipeline/media/science-ai-marrvel-brsk1.jpg"
+    },
+    {
+      "id": "science-ai-discovery-claims",
+      "type": "image",
+      "src": "pipeline/media/science-ai-discovery-claims.jpg"
+    },
+    {
+      "id": "science-llm-pain-signal",
+      "type": "image",
+      "src": "pipeline/media/science-llm-pain-signal.jpg"
+    }
+  ]
+}
