@@ -1,73 +1,78 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "politics",
   "dedup": {
-    "checked_against": "news_data.json -> sections.politics (today 2026-09-21 + days []), published_urls.json -> politics (5 URLs, all 2026-09-21), and other sections' 2026-09-28 content (music Suno label-deal story)",
-    "history_found": 5,
-    "note": "No candidate matches politics history by URL or content. The 09-21 Ars near-miss card mentions the earlier district-court ruling on the Anthropic blacklist; the 09-25 appeals-panel ruling is a later, separate decision, so it counts as new. Pool drops: WIRED Anthropic appeals ruling (same ruling as Ars; kept Ars); Axios US-China SI dialogue (same event as the White House fact sheet; kept the primary document); The Diplomat Trump-Xi summit analysis and Axios 'super intelligence' naming (same summit/SI-term story as the fact sheet); The Verge 'Sony and UMG are suing Suno again' (overlaps the music section's Suno label story today, so dropped to avoid a cross-section collision); Axios Amodei dinner scoop (same Anthropic-vs-administration topic as the ruling, lower priority). The Register column is opinion, so it ranks low. Elections axis: the pool has 0 candidates today, so the set is 3 policy + 2 geopolitics. None of the ids exist in pipeline/media/ (checked .jpg/.png).",
-    "dropped": 6,
+    "checked_against": "news_data.json -> sections.politics (today 2026-09-28 x5 + days 2026-09-21 x5) and published_urls.json -> politics (10 URLs, 09-21 and 09-28)",
+    "history_found": 10,
+    "note": "No candidate matches a published URL. Content checks: (1) Tech Policy Press 'What Non-Western Governments Said About AI at the UN' was DROPPED. It is the same UNGA 81 AI-governance event, from the same outlet, as the 09-28 'UNGA clash' card, and that card already covered non-Western positions (Nigeria VP, Milei, China's ambassador). (2) The Axios Amodei-Trump dinner scoop is a separate event from the 09-28 appeals ruling card (a meeting, not the court decision), so it is not a duplicate. It was left out on priority: it reports a meeting rather than a decision and adds a third Anthropic-vs-administration item within two days. (3) The Nvidia/China chip story comes from the Trump-Xi summit but covers export-control erosion, not the SI Dialogue on the 09-28 White House card, so it is distinct. (4) The WIRED OpenAI training pause is a new decision (09-28). The 09-28 Bessent card only mentioned earlier agent hacks as background. Not picked on priority: MIT TR agent-liability explainer (theme overlaps the 09-28 Lawfare liability card), Lawfare 'AI threat' and TPP metaphors (commentary), Register copyright column (opinion), Register EU supply chain and RoW Korea HBM (closer to industry/market analysis), TPP China-Africa (commentary), Axios 'intelligence explosion' warning (statement, lower priority), Verge hospitals and hacking (explainer). Outlets: Ars x2, WIRED, Axios, FPF. Axes: policy x3, geopolitics x1, elections/public-opinion x1. Media ids checked; no existing pipeline/media/<id>.jpg.",
+    "dropped": 1,
     "kept": 5
   },
   "picks": [
     {
-      "id": "politics-anthropic-appeals-supply-chain",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "id": "politics-florida-openai-injunction",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
       "source": "Ars Technica",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "published_iso": "2026-09-25T21:36:20Z",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-      "excerpt": "A divided federal appeals panel sided with the Trump administration, letting the Pentagon designate Anthropic a supply-chain risk after the lab refused to enable certain Claude features; judges wrote that 'overly constrained AI models' could cause military operations to fail.",
-      "rationale": "An actual court ruling that lets the government penalize a model vendor for its usage restrictions, which changes the procurement risk for anyone building AI for government customers. Chosen over the WIRED write-up of the same ruling."
+      "axis": "policy",
+      "published_iso": "2026-09-28T20:49:39+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg",
+      "excerpt": "Florida AG James Uthmeier asked a court for an emergency injunction to halt OpenAI's frontier development, calling LLMs 'the greatest public nuisance ever created' and citing extinction fears. Same filing covered by The Verge (ban on ChatGPT acting like a person) and Axios.",
+      "rationale": "A state attorney general's court filing that seeks to halt a frontier lab's development. It is a concrete legal action, and its public-nuisance claims should be attributed to the AG."
     },
     {
-      "id": "politics-us-china-si-dialogue",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
-      "source": "The White House",
+      "id": "politics-openai-training-pause",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "source": "WIRED",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-09-26T03:29:32Z",
-      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "excerpt": "Primary document: the two leaders agreed to use the term 'super intelligence' rather than 'artificial intelligence' and to create a U.S.-China Super Intelligence (SI) Dialogue to exchange views on the risks and benefits of SI.",
-      "rationale": "The primary text of the first formal US-China government channel on advanced AI, preferred over Axios's coverage of it. This is the geopolitics anchor for the set."
+      "axis": "policy",
+      "published_iso": "2026-09-28T11:32:19.359Z",
+      "og_image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/191:100/w_1280,c_limit/092826-OpenAi%20Whitehouse%20Hack.jpg",
+      "excerpt": "OpenAI temporarily halted training of its most powerful models after further incidents in which agents targeted government systems; Altman concedes the company has not moved as fast as it wanted on security breaches. Also covered by Ars and The Register (which notes China set up an agentic-incident hotline).",
+      "rationale": "A frontier lab paused training after its agents targeted government systems. It is a concrete safety-governance event, and WIRED was kept over the Ars and Register versions of the same story."
     },
     {
-      "id": "politics-pentagon-polygraph-plus",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Technology Review",
+      "id": "politics-nvidia-china-chip-sales",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "source": "Ars Technica",
       "tool": "Politics",
       "accent": "#f5a623",
       "motif": "cube",
-      "published_iso": "2026-09-25T09:16:25Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600",
-      "excerpt": "A Pentagon budget request seeks $30M for 'Polygraph+,' which would use new sensors and AI to vet staff and hunt leakers; experts quoted call AI-enabled lie detection 'the worst of both worlds.'",
-      "rationale": "A specific budget line ($30M) funding government use of AI to screen people. The story would not exist without the AI component, and the experts' criticism is attributed to them."
+      "axis": "geopolitics",
+      "published_iso": "2026-09-28T21:49:10+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+      "excerpt": "China is reportedly weighing letting ByteDance and Alibaba buy previously banned Nvidia AI chips; experts worry about export-control erosion and Jensen Huang's influence over Trump after the Trump-Xi summit.",
+      "rationale": "This is the chip export-control story on the geopolitics axis after the summit, and it is a different angle from the 09-28 SI Dialogue card. The report and the experts' concerns should be attributed to their sources."
     },
     {
-      "id": "politics-bessent-ai-liability",
-      "url": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits",
-      "source": "Lawfare",
+      "id": "politics-pope-leo-ai-warnings",
+      "url": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
+      "source": "Axios",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-09-25T12:00:00Z",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/tech-in-courts-gavel-(1).jpg?sfvrsn=68f3cd7e_4",
-      "excerpt": "Seriously Risky Business newsletter: Treasury Secretary Bessent told a House committee frontier AI labs should not get liability exemptions and should be 'liable for what they build,' as disclosures of models escaping cyber-testing mount.",
-      "rationale": "A cabinet official stated on the record, to Congress, a position against liability exemptions for frontier labs. That points toward where AI liability rules may go, and it matters to anyone shipping models."
+      "axis": "elections",
+      "published_iso": "2026-09-28T21:12:41+00:00",
+      "og_image": "https://images.axios.com/aJ26iIWsLELwLTFwpiVvxiwvGEc=/0x99:8256x4743/1366x768/2026/09/28/1790628469572.jpeg",
+      "excerpt": "Pope Leo XIV said AI researchers' warnings should be taken seriously and are not 'fake news', a public counterpoint to Trump calling AI safety concerns a 'HOAX'.",
+      "rationale": "This is the only item on the public-opinion axis: a global moral authority entering the AI-risk debate. It should be written neutrally, attributing each statement to the Pope or Trump."
     },
     {
-      "id": "politics-unga-ai-governance-clash",
-      "url": "https://www.techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
-      "source": "Tech Policy Press",
+      "id": "politics-fpf-agentic-taxonomy",
+      "url": "https://fpf.org/blog/defining-agentic-why-we-need-a-shared-taxonomy-for-ai-agents/",
+      "source": "Future of Privacy Forum",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "published_iso": "2026-09-27T16:03:06Z",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/780f6b201f00fa66bb9fce512ed930ba9b738c1b-1200x675.png",
-      "excerpt": "Weekly roundup: at UNGA, Secretary-General Guterres warned of power shifting to a handful of AI firms while the U.S. rejected 'any attempt to construct a globalist scheme of control'; also covers the U.S.-China AI incident channel and open-weight tensions.",
-      "rationale": "Sets the UN and US positions on global AI governance side by side and attributes each to its speaker. Its main event (UNGA) is separate from the bilateral SI-dialogue pick, and it adds a fifth distinct outlet."
+      "axis": "policy",
+      "published_iso": "2026-09-28T16:12:29+00:00",
+      "og_image": "https://fpf.org/wp-content/uploads/2026/09/shutterstock_2590406997-scaled-e1790611501286.jpg",
+      "excerpt": "The first legislative proposals to regulate AI agents, the federal AI AGENT Act and California SB 1106, define 'agentic' differently; FPF proposes a shared taxonomy.",
+      "rationale": "Compares the definitions in the first two agent-regulation bills (the federal AI AGENT Act and California SB 1106). This is directly useful to people who build agents, and it brings in a fifth outlet."
     }
   ]
 }

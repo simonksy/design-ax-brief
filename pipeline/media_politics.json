@@ -1,30 +1,31 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "politics",
   "media": [
     {
-      "id": "politics-anthropic-appeals-supply-chain",
+      "id": "politics-florida-openai-injunction",
       "type": "image",
-      "src": "pipeline/media/politics-anthropic-appeals-supply-chain.jpg"
+      "src": "pipeline/media/politics-florida-openai-injunction.jpg"
     },
     {
-      "id": "politics-us-china-si-dialogue",
-      "type": "svg"
+      "id": "politics-openai-training-pause",
+      "type": "image",
+      "src": "pipeline/media/politics-openai-training-pause.jpg"
     },
     {
-      "id": "politics-pentagon-polygraph-plus",
+      "id": "politics-nvidia-china-chip-sales",
       "type": "image",
-      "src": "pipeline/media/politics-pentagon-polygraph-plus.jpg"
+      "src": "pipeline/media/politics-nvidia-china-chip-sales.jpg"
     },
     {
-      "id": "politics-bessent-ai-liability",
+      "id": "politics-pope-leo-ai-warnings",
       "type": "image",
-      "src": "pipeline/media/politics-bessent-ai-liability.jpg"
+      "src": "pipeline/media/politics-pope-leo-ai-warnings.jpg"
     },
     {
-      "id": "politics-unga-ai-governance-clash",
+      "id": "politics-fpf-agentic-taxonomy",
       "type": "image",
-      "src": "pipeline/media/politics-unga-ai-governance-clash.jpg"
+      "src": "pipeline/media/politics-fpf-agentic-taxonomy.jpg"
     }
   ]
 }

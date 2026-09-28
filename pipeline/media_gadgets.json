@@ -1,31 +1,32 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-surface-snapdragon-x2-local-ai",
+      "id": "gadgets-pixel-buds-gemini",
       "type": "image",
-      "src": "pipeline/media/gadgets-surface-snapdragon-x2-local-ai.jpg"
+      "src": "pipeline/media/gadgets-pixel-buds-gemini.jpg"
     },
     {
-      "id": "gadgets-meta-glasses-fda-hearing",
-      "type": "image",
-      "src": "pipeline/media/gadgets-meta-glasses-fda-hearing.jpg"
+      "id": "gadgets-liminal-walking-meditation",
+      "type": "video",
+      "src": "pipeline/media/gadgets-liminal-walking-meditation.mp4",
+      "poster": "pipeline/media/gadgets-liminal-walking-meditation.jpg"
     },
     {
-      "id": "gadgets-samsung-ai-fridge-update-shutdown",
+      "id": "gadgets-prismml-snapdragon-glasses",
       "type": "image",
-      "src": "pipeline/media/gadgets-samsung-ai-fridge-update-shutdown.jpg"
+      "src": "pipeline/media/gadgets-prismml-snapdragon-glasses.jpg"
     },
     {
-      "id": "gadgets-asus-gb300-dgx-workstation",
+      "id": "gadgets-gorgon-halo-minipc",
       "type": "image",
-      "src": "pipeline/media/gadgets-asus-gb300-dgx-workstation.jpg"
+      "src": "pipeline/media/gadgets-gorgon-halo-minipc.jpg"
     },
     {
-      "id": "gadgets-android-ai-button-shortcut",
+      "id": "gadgets-ai-toothbrush-era",
       "type": "image",
-      "src": "pipeline/media/gadgets-android-ai-button-shortcut.jpg"
+      "src": "pipeline/media/gadgets-ai-toothbrush-era.jpg"
     }
   ]
 }

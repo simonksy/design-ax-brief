@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "movies",
   "media": [
     {
-      "id": "movies-zurich-summit-ai-driver-seat",
-      "type": "image",
-      "src": "pipeline/media/movies-zurich-summit-ai-driver-seat.jpg"
-    },
-    {
-      "id": "movies-gaussian-splat-lighting-hybrid",
+      "id": "movies-kling-4-you-call-the-shots",
       "type": "video",
-      "src": "pipeline/media/movies-gaussian-splat-lighting-hybrid.mp4",
-      "poster": "pipeline/media/movies-gaussian-splat-lighting-hybrid.jpg"
+      "src": "pipeline/media/movies-kling-4-you-call-the-shots.mp4",
+      "poster": "pipeline/media/movies-kling-4-you-call-the-shots.jpg"
     },
     {
-      "id": "movies-openai-astra-editing-test",
+      "id": "movies-meta-muse-alibaba-seedance-rival",
       "type": "video",
-      "src": "pipeline/media/movies-openai-astra-editing-test.mp4",
-      "poster": "pipeline/media/movies-openai-astra-editing-test.jpg"
+      "src": "pipeline/media/movies-meta-muse-alibaba-seedance-rival.mp4",
+      "poster": "pipeline/media/movies-meta-muse-alibaba-seedance-rival.jpg"
     },
     {
-      "id": "movies-zelda-williams-ai-videos",
+      "id": "movies-alan-smithee-roundtable-ai-future",
       "type": "image",
-      "src": "pipeline/media/movies-zelda-williams-ai-videos.jpg"
+      "src": "pipeline/media/movies-alan-smithee-roundtable-ai-future.jpg"
     },
     {
-      "id": "movies-jia-zhangke-mamma-dunhuang-no-ai",
+      "id": "movies-connie-he-dear-upstairs-neighbors-veo",
       "type": "image",
-      "src": "pipeline/media/movies-jia-zhangke-mamma-dunhuang-no-ai.jpg"
+      "src": "pipeline/media/movies-connie-he-dear-upstairs-neighbors-veo.jpg"
+    },
+    {
+      "id": "movies-barron-call-of-the-wild-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-barron-call-of-the-wild-ai.jpg"
     }
   ]
 }

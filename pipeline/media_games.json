@@ -1,11 +1,7 @@
-{
-  "date": "2026-09-28",
-  "section": "games",
-  "media": [
-    {"id": "games-arc-raiders-ml-bully-enemy", "type": "image", "src": "pipeline/media/games-arc-raiders-ml-bully-enemy.jpg"},
-    {"id": "games-sony-ai-tech-support-patch-patent", "type": "image", "src": "pipeline/media/games-sony-ai-tech-support-patch-patent.jpg"},
-    {"id": "games-disgaea-niikawa-no-ai-stories", "type": "image", "src": "pipeline/media/games-disgaea-niikawa-no-ai-stories.jpg"},
-    {"id": "games-tenebris-somnia-practical-effects-horror", "type": "video", "src": "pipeline/media/games-tenebris-somnia-practical-effects-horror.mp4", "poster": "pipeline/media/games-tenebris-somnia-practical-effects-horror.jpg"},
-    {"id": "games-starform-ai-native-26-people", "type": "video", "src": "pipeline/media/games-starform-ai-native-26-people.mp4", "poster": "pipeline/media/games-starform-ai-native-26-people.jpg"}
-  ]
-}
+{"date":"2026-09-29","section":"games","media":[
+{"id":"games-ubisoft-motherbrain","type":"image","src":"pipeline/media/games-ubisoft-motherbrain.jpg"},
+{"id":"games-mario-galaxy-human-port","type":"video","src":"pipeline/media/games-mario-galaxy-human-port.mp4","poster":"pipeline/media/games-mario-galaxy-human-port.jpg"},
+{"id":"games-dlss5-amd-rx9070xt","type":"image","src":"pipeline/media/games-dlss5-amd-rx9070xt.jpg"},
+{"id":"games-twitch-ai-disclosure","type":"image","src":"pipeline/media/games-twitch-ai-disclosure.jpg"},
+{"id":"games-ff7-revelation-pssr","type":"image","src":"pipeline/media/games-ff7-revelation-pssr.jpg"}
+]}

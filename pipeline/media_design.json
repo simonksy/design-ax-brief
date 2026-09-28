@@ -1,32 +1,7 @@
-{
-  "date": "2026-09-28",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-google-stitch-brand-ui",
-      "type": "image",
-      "src": "pipeline/media/design-google-stitch-brand-ui.jpg"
-    },
-    {
-      "id": "design-adobe-photoshop-lightroom-in-gemini",
-      "type": "image",
-      "src": "pipeline/media/design-adobe-photoshop-lightroom-in-gemini.jpg"
-    },
-    {
-      "id": "design-ai-photo-editor-capability-contract",
-      "type": "image",
-      "src": "pipeline/media/design-ai-photo-editor-capability-contract.png"
-    },
-    {
-      "id": "design-claude-blender-animation",
-      "type": "video",
-      "src": "pipeline/media/design-claude-blender-animation.mp4",
-      "poster": "pipeline/media/design-claude-blender-animation.jpg"
-    },
-    {
-      "id": "design-nasa-brand-trust-ai-imagery",
-      "type": "image",
-      "src": "pipeline/media/design-nasa-brand-trust-ai-imagery.jpg"
-    }
-  ]
-}
+{"date":"2026-09-29","section":"design","media":[
+{"id":"design-coreldraw-text-to-vector","type":"image","src":"pipeline/media/design-coreldraw-text-to-vector.jpg"},
+{"id":"design-usertesting-mcp-servers","type":"image","src":"pipeline/media/design-usertesting-mcp-servers.jpg"},
+{"id":"design-google-flow-nano-banana-2-1-leak","type":"image","src":"pipeline/media/design-google-flow-nano-banana-2-1-leak.jpg"},
+{"id":"design-react-ai-reasoning-states","type":"image","src":"pipeline/media/design-react-ai-reasoning-states.png"},
+{"id":"design-viral-ai-animation-character-controversy","type":"video","src":"pipeline/media/design-viral-ai-animation-character-controversy.mp4","poster":"pipeline/media/design-viral-ai-animation-character-controversy.jpg"}
+]}

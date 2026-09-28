@@ -1,52 +1,62 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "section": "games",
+  "now_iso": "2026-09-28T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/",
-      "source": "AUTOMATON",
+      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-09-25T13:00:00+00:00",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2025/05/20250530-48534-header.jpg",
-      "excerpt": "Disgaea director Sohei Niikawa talks about generative AI use and discusses the philosophy behind his creative process.",
-      "title": "Disgaea creator Sohei Niikawa has “absolutely no interest in having AI write stories instead of him” - AUTOMATON WEST"
+      "published_iso": "2026-09-28T16:58:05.505552+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain, according to new trademarks from the Assassin's Creed maker",
+      "excerpt": "Ubisoft has been quite enthusiastic about generative AI's use in game development, and a new trademark might sound familiar to Nintendo and Metroid fans."
     },
     {
-      "url": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
-      "source": "Polygon",
+      "url": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-23T17:00:15Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-first-person-mode-header.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "The Bully is gonna get you",
-      "title": "Arc Raiders’ New Machine-Learning Enemy Looks Absolutely Terrifying"
+      "published_iso": "2026-09-28T12:03:31+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-75-FPS-Cyberpunk-2077-featured.jpg",
+      "title": "Radeon RX 9070 XT Finally Touches 75 FPS At 1080p In Cyberpunk 2077 With DLSS 5, Thanks To The Efforts Of DLSS-NR-on-AMD Developer",
+      "excerpt": "DLSS-NR-on-AMD boosts performance by up to 49% on RX 9000 series, enabling 75 FPS in Cyberpunk 2077 at 1080p, up from 30 FPS"
     },
     {
-      "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches",
-      "source": "IGN",
+      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-23T13:50:42.428Z",
-      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Anyone who's had a console knows that on a long enough timeline they will have some kind of technical bug that you need to troubleshoot, and Sony is trying to get around that reality with an AI tech support agent.",
-      "title": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches"
+      "published_iso": "2026-09-23T21:05:17+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/image6-4.webp",
+      "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail",
+      "excerpt": "NVIDIA unleashes RTX Kit and RTX Mega Geometry 2.0 SDKs, giving devs a taste of next-gen Neural Rendering, Path Tracing & game technologies."
     },
     {
-      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
-      "source": "Unity",
+      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-23T09:31:23-07:00",
-      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
-      "excerpt": "The official Unity plugin for Claude Code changes how you build in Unity from the terminal; walkthrough of installing and using the plugin.",
-      "title": "Your guide to the official Unity plugin for Claude Code"
+      "published_iso": "2026-09-22T09:22:57+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
+      "title": "PlayStation 5 Pro's PSSR Strikes Another Victory, As Final Fantasy VII Revelation Director Promises 4K@60 FPS",
+      "excerpt": "Final Fantasy VII Revelation will target 4K 60 FPS on PS5 Pro using PSSR, and hands-on gamescom testing proves it"
     },
     {
-      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/",
-      "source": "PC Gamer",
+      "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-09-20T16:29:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg",
-      "excerpt": "A game so emotionally scarring, \"you'll call your ex.\"",
-      "title": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects"
+      "published_iso": "2026-09-28T10:06:47Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg",
+      "title": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
+      "excerpt": "An unofficial Super Mario Galaxy PC port is in the works, with developers proudly claiming it is '100% coded by humans' as vibe-coded AI ports of Donkey Kong 64, Mario Kart Wii and Monster Hunter flood the scene."
+    },
+    {
+      "url": "https://gamesbeat.com/twitch-ceo-dan-clancy-says-platform-doesnt-need-ai-disclosure-rules-for-now/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-09-21T04:27:01+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/EDITORIAL-CANVA-39-1024x576.png",
+      "title": "Twitch CEO Dan Clancy says platform doesn’t need AI disclosure rules — for now",
+      "excerpt": "Twitch CEO Dan Clancy believes the nature of livestreamed content insulates the platform against the need for an AI disclosure policy."
     },
     {
       "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
@@ -54,62 +64,53 @@
       "category": "games",
       "published_iso": "2026-09-18T22:51:54Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
-      "excerpt": "Welcome to the Smile Economy 🙂.",
-      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical"
+      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
+      "excerpt": "Welcome to the Smile Economy 🙂."
     },
     {
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "source": "Game Developer",
+      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-18T15:15:39.000Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact.",
-      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit"
+      "published_iso": "2026-09-24T11:03:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3Tyrwtxb6nBgdFkC2VkAnS-1920-80.jpg",
+      "title": "Behold the DLSS 5 horrors I have unleashed",
+      "excerpt": "Welcome to anime Hell."
     },
     {
-      "url": "https://kotaku.com/popular-playstation-hacker-calling-it-quits-due-to-ai-using-slop-kiddies-reporting-important-bug-to-sony-2000735105",
-      "source": "Kotaku",
+      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
+      "source": "Aftermath",
       "category": "games",
-      "published_iso": "2026-09-16T18:20:26+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/04/gta5hack-1200x675.jpg",
-      "excerpt": "An anticipated open-source Linux mod for newer PS5 consoles might now be in danger of never happening",
-      "title": "Drama Around A PS5 Exploit, AI-Coding, Linux, And GTA 6 Has One Popular Hacker Calling It Quits - Kotaku"
+      "published_iso": "2026-09-23T08:46:03.000Z",
+      "og_image": "https://images.unsplash.com/photo-1585909085111-2c2f311643af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJpdGV8ZW58MHx8fHwxNzkwMDQ4NjA3fDA&ixlib=rb-4.1.0&q=80&w=2000",
+      "title": "'Man Banned From Oz Comic-Con After Biting Incident' Is Not An AI-Related Headline I Thought I'd Be Reading This Week",
+      "excerpt": "'It's not normal behaviour — not even cosplayers go around biting each other'"
     },
     {
       "url": "https://www.inven.co.kr/webzine/news/?news=320975",
-      "source": "Inven",
+      "source": "인벤",
       "category": "games",
       "published_iso": "2026-09-16T11:40:33+09:00",
       "og_image": "https://static.inven.co.kr/column/2026/09/16/news/i1940286897.png",
-      "excerpt": "영국 케임브리지의 1인 개발자가 제작 중인 3D 콜로니 시뮬레이션 게임 Luminids는 캐릭터가 경험과 믿음을 기반으로 개별적인 판단을 내리는 CRI 기술을 도입한다. 해당 기술은 캐릭터의 기억과 관계를 유지하며 인과적 테스트를 지원한다. LuminidsAI는 이를 플랫폼화하기 위해 150만 파운드 규모의 프리시드 투자 유치를 준비하고 있다. 현재 소셜 미디어에서 큰 관심을 모은 이 프로젝트는 캐릭터의 정체성을 외부 엔진에 저장하여 장기적인 이력을 관리하는 방식을 채택한다.",
-      "title": "'Luminids' 캐릭터 인지 기술, AI 회사로 확장"
+      "title": "'Luminids' 캐릭터 인지 기술, AI 회사로 확장",
+      "excerpt": "영국 케임브리지의 1인 개발자가 제작 중인 3D 콜로니 시뮬레이션 게임 Luminids는 캐릭터가 경험과 믿음을 기반으로 개별적인 판단을 내리는 CRI 기술을 도입한다. 해당 기술은 캐릭터의 기억과 관계를 유지하며 인과적 테스트를 지원한다. LuminidsAI는 이를 플랫폼화하기 위해 150만 파운드 규모의 프리시드 투자 유치를 준비하고 있다. 현재 소셜 미디어에서 큰 관심을 모은 이 프로젝트는 캐릭터의 정체성을 외부 엔진에 저장하여 장기적인 이력을 관리하는 방식을 채택한다."
     },
     {
-      "url": "https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation",
-      "source": "Rock Paper Shotgun",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321342",
+      "source": "인벤",
       "category": "games",
-      "published_iso": "2026-09-15T16:00:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Saber Interactive's chief creative officer explains why he thinks players will get on board with generative AI tools eventually.",
-      "title": "\"You may be overthinking it a little bit\": Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation"
+      "published_iso": "2026-09-22T14:15:27+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/22/news/i1401273533.jpg",
+      "title": "도깨비의세계, 12가지 스킬로 진입장벽 낮춘다",
+      "excerpt": "카카오게임즈가 신작 2.5D MMORPG 도깨비의세계를 10월 8일 오전 11시 정식 출시한다. 이 게임은 고정 직업 없이 12가지 스킬 스타일을 조합해 전투를 즐기는 방식이며, 신식 개방 시스템으로 전략성을 더했다. 특히 AI 챗봇 묘롱을 도입해 이용자의 플레이 데이터를 분석하고 성장 방향을 안내하며 초심자의 부담을 낮췄다. 복잡한 육성 지식 없이도 누구나 쉽게 적응할 수 있도록 설계된 것이 특징이다."
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=320906",
-      "source": "Inven",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321257",
+      "source": "인벤",
       "category": "games",
-      "published_iso": "2026-09-15T14:09:37+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/15/news/i1927410872.png",
-      "excerpt": "컴투스플랫폼은 15일 판교에서 열린 제1회 AI 게임 사운드 디자인 대회(AI GSDC 2026)에 후원사로 참여했다. 이번 대회에서 이루다 이사는 은상인 Hive상을 수상한 이로이 팀을 직접 시상했으며 수상팀 전원에게 하이브 크레딧을 제공했다. 컴투스플랫폼은 하이브를 통해 2026 게임제작환경 인공지능 전환(AX) 지원사업의 공식 AI 솔루션으로 활동 중이며 앞으로도 AI 기술을 활용한 게임들의 성공적인 글로벌 시장 안착을 적극적으로 지원할 계획이다.",
-      "title": "컴투스플랫폼, 'AI 게임 사운드 디자인 대회' 후원"
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=320841",
-      "source": "Inven",
-      "category": "games",
-      "published_iso": "2026-09-14T11:59:38+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/14/news/i1892959776.png",
-      "excerpt": "엑솔라가 개발사의 효율적인 웹샵 구축을 돕는 AI Toolkit을 새롭게 선보였다. 이는 기존 AI 코딩 도구의 연동 오류 문제를 해결하고자 검증된 API 연동 로직을 제공하는 에이전트 스킬 모음이다. 판매자 설정, 로그인, 카탈로그, 결제 등 4가지 핵심 기능을 지원하며 깃허브 공개 저장소와 클로드 코드, 커서, 깃허브 코파일럿, 코덱스 CLI 등에서 플러그인 형태로 설치 가능하다. 크리스 휴이시 엑솔라 대표는 이번 도구가 개발사의 연동 장벽을 없애고 즉시 작동하는 결과물을 제공할 것이라 밝혔다. 상세 정보는 xsolla.com/",
-      "title": "엑솔라, 게임 커머스 구축용 AI Toolkit 출시"
+      "published_iso": "2026-09-21T12:10:15+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1984321245.jpg",
+      "title": "라인게임즈, CODE EXIT 스팀 테스트 모집",
+      "excerpt": "라인게임즈는 Phase 8 Studio가 개발한 PC 신작 CODE EXIT의 스팀 플레이테스트 참가자를 모집한다. 이번 테스트는 9월 28일부터 10월 19일까지 진행되며 스팀 상점 페이지에서 신청할 수 있다. 폭주한 AI가 점령한 도시를 배경으로 최대 4인 협동을 지원하며 실시간 학습 AI와 사운드 디자인으로 심리적 압박감을 구현했다. 2027년 1분기 얼리 액세스를 목표로 하며 이번 테스트 피드백을 개발에 반영할 계획이다."
     }
   ]
 }

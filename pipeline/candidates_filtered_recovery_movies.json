@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-29",
+  "section": "movies",
+  "now_iso": "2026-09-28T22:00:00Z",
+  "window_hours": 336,
+  "pass": "recovery",
+  "items": [
+    {
+      "url": "https://deadline.com/2026/09/harry-potter-david-barron-backs-ai-the-call-of-the-wild-1237115076/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-09-28T08:35:27+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/Buck-at-campsite.jpg?w=1024",
+      "title": "'Harry Potter' Producer David Barron Backs AI Adaptation Of 'The Call Of The Wild'",
+      "excerpt": "Six-time Harry Potter producer David Barron is producing a generative-AI adaptation of Jack London's The Call of the Wild, written and directed by Simon Rumley, with prompting and technical work led by the team at nmatic. Barron argues the novel's epic Alaskan scale and dog-and-wolf fights were previously impossible to film faithfully."
+    },
+    {
+      "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-09-28T08:20:00+01:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+      "title": "Mubi's Efe Cakarel: \"We are going to stay as far away from AI as possible when it comes to films\"",
+      "excerpt": "In a Zurich Summit keynote, Mubi's CEO said the company uses AI in engineering, finance and operations but keeps it out of the films themselves, arguing that as AI content becomes abundant, human creation, taste and provenance become the scarce value. He also predicted studios will soon generate per-viewer versions of films. (Separate from the Deadline Zurich AI panel published 9/28; it is the same event.)"
+    },
+    {
+      "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+      "source": "Motionographer",
+      "category": "movies",
+      "published_iso": "2026-09-28T15:00:18+00:00",
+      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Poster-scaled.jpg",
+      "title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws",
+      "excerpt": "Pixar alum Connie He explains how she tuned custom Veo and Imagen models to reproduce her own concept art for the six-minute Tribeca short, and how animators and researchers learned to share a working language. (A new craft interview; the film itself was covered on 2026-07-02 via No Film School.)"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "source": "Google Blog",
+      "category": "movies",
+      "published_iso": "2026-09-23T00:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.width-1300.png",
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "excerpt": "Google Flow adds six creator-built tools, including Mondo Sonico for synced, editable ambience, foley and SFX tracks; single-pass multilingual animated captions; animated documentary-style collages from text; and script-to-Swiss-style motion graphics. Users can also build custom Flow workflows by describing them. (Off-list domain: no allowed-domain outlet covered it.)"
+    },
+    {
+      "url": "https://variety.com/2026/film/markets-festivals/san-sebastian-2026-creative-investors-conference-10-takes-1236874055/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-24T08:28:34+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/2026-Creative-Investors-Conference.jpg?w=1000&h=563&crop=1",
+      "title": "San Sebastian's Creative Investors' Conference: 10 Takeaways From AI to 'Obsession,' YouTube and More",
+      "excerpt": "At San Sebastian's CAA Media Finance conference, Acme AI & FX's Ryan Kavanaugh said AI cuts below-the-line costs by two thirds and took one gray-stage shoot from 70 days to 19. He also said AI can produce a rough version of a movie for a studio to greenlight. The 'AI: Tool and Taboo' session closed the event. (Mixed-topic roundup; AI is one takeaway.)"
+    },
+    {
+      "url": "https://variety.com/2026/film/markets-festivals/generative-ai-microdramas-busan-market-1236871628/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-09-22T02:07:03+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+      "title": "Generative AI, Microdramas to Take Center Stage at Busan Market",
+      "excerpt": "Busan's ACFM finalized its InnoAsia lineup: a Kling AI session on reimagining filmmaking, an Eyeline talk on generative AI and the future of filmmaking, an AI creators camp, and microdrama panels. It runs Oct. 10-13 inside BIFF. (Lower priority: the InnoAsia DeepMind/AWS angle was published 8/27 and 9/06.)"
+    }
+  ],
+  "dedup": {
+    "dropped": 0,
+    "kept": 6,
+    "against_days": 5
+  }
+}
