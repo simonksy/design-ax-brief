@@ -1,98 +1,143 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-30",
   "section": "movies",
-  "now_iso": "2026-09-28T22:00:00Z",
   "window_hours": 336,
+  "notes": "RSS/news-sitemap/monthly post-sitemap harvest of variety, deadline, THR, indiewire, nofilmschool, fxguide, b&a, PVC, cartoonbrew, vfxvoice, postperspective, motionographer, animationmagazine, awn, redshark, verge, engadget, 80.lv, creativebloq + YouTube channel feeds (Runway, Kling, Curious Refuge, fxguide, Corridor, Theoretically Media). 5 WebSearch used. Expanded keywords: Runway Agent Tagging, 스틸레이 (Korean 100% AI feature, Oct 14 release), Kling ODYSSEUS feature, Madrid/Iberseries AI, XPRIZE AI short. Dropped: Topview (sponsored), XGRIDS PortalCam (splat gear, no AI), OpenAI Dots (general assistant), Wonka ratings (no AI in body), South Park/AI policy/business noise, Kling 'The Beat' + Curious Refuge Astra agents test (covered angles), Variety dups of Deadline Doctor Who/Kelly Day. YouTube cap applied per channel.",
   "items": [
     {
-      "url": "https://www.youtube.com/watch?v=nlM7kL3kv_Y",
-      "source": "Kling AI (YouTube)",
+      "url": "https://www.creativebloq.com/ai/two-animators-reveal-the-roles-risks-and-limits-of-making-don-quixote-with-ai",
+      "source": "Creative Bloq",
       "category": "movies",
-      "published_iso": "2026-09-28T15:30:16+00:00",
-      "og_image": "https://i.ytimg.com/vi/nlM7kL3kv_Y/maxresdefault.jpg",
-      "title": "Meet KLING 4.0 | You Call the Shots",
-      "excerpt": "Kling 4.0 arrives in October with Kling 4.0 Flash live now for Ultra yearly subscribers; the model targets filmmakers with up to 30-second generations, many multimodal references and keyframe-level narrative control."
+      "published_iso": "2026-09-29T13:00:00Z",
+      "title": "Making an 11-minute animated short using AI exposed serious creative limits",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/yTsiNcv4KpypUTG54t53rU-1600-80.jpg",
+      "excerpt": "Guillermo Miranda and Javier de la Chica open up about what AI still can't do and the unease it creates."
     },
     {
-      "url": "https://www.youtube.com/watch?v=w3397LF5MAc",
-      "source": "Kling AI (YouTube)",
+      "url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "source": "Creative Bloq",
       "category": "movies",
-      "published_iso": "2026-09-28T14:59:23+00:00",
-      "og_image": "https://i.ytimg.com/vi/w3397LF5MAc/maxresdefault.jpg",
-      "title": "The Beat | Made with KLING 4.0",
-      "excerpt": "Launch showcase short 'The Beat', created with Kling 4.0, following a drummer's journey back to the stage. Same launch as Kling 4.0 - alternate/visual for that story."
+      "published_iso": "2026-09-28T11:00:00Z",
+      "title": "Viral AI animation sparks controversy over familiar character design",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
+      "excerpt": "Artificial intelligence struggles with originality once again."
     },
     {
-      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
-      "source": "Kling AI (YouTube)",
+      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-18T12:00:26+00:00",
-      "og_image": "https://i.ytimg.com/vi/dn376baf_Ds/maxresdefault.jpg",
-      "title": "From Traditional Filmmaking to AI Animation: Diane Shorthouse's Journey with Kling AI",
-      "excerpt": "After 30 years in traditional film and TV, Diane Shorthouse explores how AI can expand what filmmakers create, from safer production to emotional animated storytelling."
+      "published_iso": "2026-09-29T10:03:00+00:00",
+      "title": "'Doctor Who': BBC's Matt Brittin Says He Has Watched AI Episode",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024",
+      "excerpt": "An artificial intelligence 'Doctor Who' was sent to the BBC's Matt Brittin and he said it was \"pretty good\""
     },
     {
-      "url": "https://www.youtube.com/watch?v=U4231qULtm8",
-      "source": "Theoretically Media (YouTube)",
+      "url": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-24T21:08:10+00:00",
-      "og_image": "https://i.ytimg.com/vi/U4231qULtm8/maxresdefault.jpg",
-      "title": "Meta Muse Won? Alibaba's \"Seedance Killer\" & AI Audio Levels Up!",
-      "excerpt": "Weekly AI video roundup: Meta's Muse video push, Alibaba's new video model pitched as a Seedance rival, and advances in AI audio for creators."
+      "published_iso": "2026-09-29T11:43:13+00:00",
+      "title": "‘The Gifted’ Wins Inaugural Future Vision XPRIZE",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/img-12953260-2e8c-4542-a263-5b1925380cd1.jpeg?w=1024",
+      "excerpt": "The competition is backed by Range Media Partners & Google."
     },
     {
-      "url": "https://www.youtube.com/shorts/vjNVieMl77E",
-      "source": "fxguide (YouTube)",
+      "url": "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
+      "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-09-22T12:30:30+00:00",
-      "og_image": "https://i.ytimg.com/vi/vjNVieMl77E/hq720.jpg",
-      "title": "Block in 3D, refine with node-based AI",
-      "excerpt": "Why Autodesk Flow Studio combines a 3D editor with a node-based AI canvas, and how that maps to a more controllable VFX production workflow."
+      "published_iso": "2026-09-29T08:53:28+00:00",
+      "title": "Amazon's Kelly Day Says AI Can Help Creatives On The Next 'Fleabag'",
+      "og_image": "https://deadline.com/wp-content/uploads/2020/12/fleabag-phoebe-t-1200x642-1569198068.jpg?w=980",
+      "excerpt": "Amazon's Kelly Day has said artificial intelligence can help unearth the next 'Fleabag' as she reveals spend in UK has hit £5 billion."
     },
     {
-      "url": "https://nofilmschool.com/topview-ai-film-studio-intro",
-      "source": "No Film School",
+      "url": "https://variety.com/2026/film/global/ai-new-tech-biz-models-madrid-audiovisual-cluster-1236877481/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-28T17:02:07+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67812616&width=1200&height=600&coordinates=0%2C45%2C0%2C46",
-      "title": "It's More Than an AI Clip Tool: An Intro to Topview and Its Cinematic Film Studio",
-      "excerpt": "An introduction to Topview and how its Film Studio helps filmmakers use AI to direct cinematic projects rather than generate random clips. (Possible sponsored/advertorial - verify.)"
+      "published_iso": "2026-09-29T05:18:27+00:00",
+      "title": "Madrid Audiovisual Cluster Dives Deeper Into New Business Models, AI and Emerging Technologies at Iberseries & Platino Industria",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/pro-oxF3CD9i.jpeg?w=1000&h=563&crop=1",
+      "excerpt": "The Madrid Audiovisual Cluster has put together a two-day industry networking and knowledge-sharing program at the Iberseries & Platino Industria."
     },
     {
-      "url": "https://www.provideocoalition.com/art-of-the-frame-podcast-the-alan-smithee-round-table-how-will-ai-impact-the-future-of-filmmaking/",
-      "source": "ProVideo Coalition",
+      "url": "https://variety.com/2026/film/festivals/light-pillar-director-xu-zao-ai-themed-easy-my-friend-1236877974/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-28T14:36:19+00:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/futureaotf.jpg",
-      "title": "Art of the Frame Podcast: The Alan Smithee Round Table - How will AI impact the future of filmmaking?",
-      "excerpt": "Scott Simmons, Katie Hinsen and Michael Kammes discuss how AI tools, unified post software and shifting economics are transforming film and TV production."
+      "published_iso": "2026-09-29T11:57:48+00:00",
+      "title": "‘Light Pillar’ Director Xu Zao Readies AI-Themed Follow-Up ‘Easy, My Friend’",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Xu-Zao.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Xu Zao, director of Berlinale animation 'Light Pillar,' discusses AI, casting Da Peng and his HAF Film Lab project 'Easy, My Friend.'"
     },
     {
-      "url": "https://www.cartoonbrew.com/festivals/ottawa-international-animation-festival-spotlight-newsletter-267206.html",
-      "source": "Cartoon Brew",
+      "url": "https://variety.com/2026/film/global/tilly-norwood-tom-holland-olivia-colman-ai-production-1236876240/",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-09-28T14:03:05+00:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/image-4.png",
-      "title": "OIAF 2026: Award Winners, 'Ray Gunn' Panel, AI In Animation, And More From Ottawa",
-      "excerpt": "Recap of OIAF 2026 including award winners, Brad Bird's 'Ray Gunn' panel, and the festival's AI-in-animation discussions."
-    },
-    {
-      "url": "https://motionographer.com/news/who-moved-my-work-tim-thompson-on-revthinks-the-weekly-briefing/",
-      "source": "Motionographer",
-      "category": "movies",
-      "published_iso": "2026-09-23T16:48:28+00:00",
-      "og_image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/rim-revthink.png",
-      "title": "Who Moved My Work? Tim Thompson on RevThink's The Weekly Briefing",
-      "excerpt": "Tim Thompson argues AI didn't arrive overnight: how client expectations and the value of motion/creative studio work are shifting as AI spreads."
+      "published_iso": "2026-09-26T08:28:18+00:00",
+      "title": "Tilly Norwood Creator Says AI Actress Made ‘Many People Realize That AI Is Coming’ and ‘That Was the Point’",
+      "og_image": "https://variety.com/wp-content/uploads/2025/10/Tilly-Norwood.jpg?crop=0px%2C1px%2C1000px%2C562px&resize=1000%2C563",
+      "excerpt": "Creator of AI actress Tilly Norwood speaks at Zurich Film Festival’s Summit."
     },
     {
       "url": "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/",
       "source": "The Hollywood Reporter",
       "category": "movies",
       "published_iso": "2026-09-28T12:30:00+00:00",
+      "title": "Madrid’s Iberseries & Platino Industria Bosses Tout Expansion and Innovation: “The Key Is Usefulness”",
       "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Iberseries.jpg?w=1440&h=810&crop=1",
-      "title": "Madrid's Iberseries & Platino Industria Bosses Tout Expansion and Innovation: \"The Key Is Usefulness\"",
-      "excerpt": "Iberseries & Platino Industria organizers preview the sixth edition, where microdramas and AI are prominent topics. (Weak design hook - AI is a panel theme.)"
+      "excerpt": "Samuel Castro, Juan Alía and Adriana Castillo discuss what's new for the sixth edition, the prominence of microdramas and AI as topics, and how Mexico and Portugal will share the spotlight with Spain."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HiaxR-XIQp8",
+      "source": "Runway (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-29T12:03:25-07:00",
+      "title": "Introducing Agent Tagging | Runway",
+      "og_image": "https://i.ytimg.com/vi/HiaxR-XIQp8/maxresdefault.jpg",
+      "excerpt": "Tag Runway Agent anywhere your assets are to ask for edits, options and fixes. It's that easy.Try Runway: app.runway.comSubscribe: https://youtube.com/runway..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=084IvH5k0E8",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-29T14:38:25-07:00",
+      "title": "The Best AI Workflow for a 2D + Live Action Film",
+      "og_image": "https://i.ytimg.com/vi/084IvH5k0E8/maxresdefault.jpg",
+      "excerpt": "In this tutorial, we teamed up with our AI Animation Instructor, @albertbozesan to show you the latest AI workflow for combining 2D animation with live-actio..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
+      "source": "Kling AI (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-16T20:32:52-07:00",
+      "title": "ODYSSEUS: The Fall is here!",
+      "og_image": "https://i.ytimg.com/vi/KoIdyxiLGbY/maxresdefault.jpg",
+      "excerpt": "ODYSSEUS: The Fall is here!Fountain 0's new feature film — directed by Ash Koosha, powered by Kling AI — is now available in full, with every shot generated ..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
+      "source": "Kling AI (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-18T05:00:26-07:00",
+      "title": "From Traditional Filmmaking to AI Animation: Diane Shorthouse’s Journey with Kling AI",
+      "og_image": "https://i.ytimg.com/vi/dn376baf_Ds/maxresdefault.jpg",
+      "excerpt": "After 30 years in traditional film and TV, Diane Shorthouse is exploring how AI can expand what filmmakers create. From safer production to bringing emotiona..."
+    },
+    {
+      "url": "https://www.youtube.com/shorts/vjNVieMl77E",
+      "source": "fxguide (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-22T05:30:30-07:00",
+      "title": "Block in 3D, refine with node-based AI",
+      "og_image": "https://i.ytimg.com/vi/vjNVieMl77E/maxresdefault.jpg",
+      "excerpt": "Why Flow Studio combines a 3D editor with a node-based AI canvas — and how that maps to a more controllable production workflow.#VFX #AIWorkflow #Filmmaking ..."
+    },
+    {
+      "url": "https://news.jkn.co.kr/post/993490",
+      "source": "재경일보",
+      "category": "movies",
+      "published_iso": "2026-09-22T06:44:00.000Z",
+      "title": "‘스틸레이’, 기획부터 후반작업까지 100% AI…10월 극장 개봉",
+      "og_image": "https://images.jkn.co.kr/data/images/full/105/68/1056808.jpg?width=1200&height=630",
+      "excerpt": "100% AI 기술로 완성된 SF 액션 ‘스틸레이’가 포스터를 공개하며 10월 극장 개봉을 예고했다. ‘스틸레이’(감독 설우인ㅣ기획/제작 ㈜라온컴퍼니플러스ㅣ공동제작 ㈜아이노스튜디오)는 폭주한 AI로부터 인류를 구하기 위해 자신이 만든 AI와 아버지가 남긴 전투 수트를 활용해 최악의 바이러스에 맞서는 이야기를 그린다."
     }
   ]
 }

@@ -1,201 +1,144 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "gadgets",
   "window_hours": 336,
+  "keyword_expansions": [
+    "Meta Muse on glasses",
+    "Naver Map AI glasses",
+    "Qualcomm hybrid AI phone-watch-glasses",
+    "translation earbuds",
+    "AI doorbell tracking (Eufy S4)",
+    "AI garage camera (Chamberlain myQ)",
+    "Flourish home humanoid",
+    "Find Hub + Gemini",
+    "M5 Ultra local AI",
+    "visionOS 27 Siri AI"
+  ],
   "items": [
     {
-      "url": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
-      "source": "UploadVR",
+      "url": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
+      "source": "CNET",
       "category": "gadgets",
-      "title": "Liminal Uses Meta Glasses To Deliver Meditation Based On What You See",
-      "published_iso": "2026-09-28T21:36:27Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
-      "excerpt": "Liminal is taking its wellness approach outside the headset. Liminal: Walking Meditation uses Meta AI glasses to create a spoken meditation around what you actually see."
+      "title": "This $3,555 Humanoid Robot Learns New Chores in 30 Minutes, Startup Says",
+      "published_iso": "2026-09-29T10:05:49-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Flourish-1-cleaning.jpg",
+      "excerpt": "Flourish says it's ready to ship the first 50 units starting in December."
     },
     {
-      "url": "https://www.uploadvr.com/body-proxy-is-a-unique-ray-ban-meta-game-from-tender-claws/",
-      "source": "UploadVR",
+      "url": "https://www.cnet.com/home/smart-home/the-most-advanced-home-device-ive-tested-this-year-is-in-my-garage/",
+      "source": "CNET",
       "category": "gadgets",
-      "title": "Body Proxy Is A Unique Meta Smart Glasses Game From Tender Claws",
-      "published_iso": "2026-09-28T21:38:41Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/IMG_9745-1.jpeg",
-      "excerpt": "Body Proxy is a unique location-based game that challenges players to impress AI while wearing Meta smart glasses."
+      "title": "The Most Advanced Home Device I’ve Tested This Year Is in My Garage",
+      "published_iso": "2026-09-29T06:00:12-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/smart-garage.jpg",
+      "excerpt": "A Chamberlain smart garage and security system combined is the home tech I didn't know I needed."
     },
     {
-      "url": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "title": "Siri AI is available on newer Apple devices only, here’s the full list",
-      "published_iso": "2026-09-28T19:43:11Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro."
-    },
-    {
-      "url": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "title": "Pixel Buds app update lets Gemini control audio and settings",
-      "published_iso": "2026-09-28T16:20:01Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Buds-2a-Berry.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "We’re now starting to see Gemini audio controls with the latest Pixel Buds companion app update. This is part of..."
-    },
-    {
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
-      "published_iso": "2026-09-28T17:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/TMSvSLPp4z66kcByzXoL7e-1920-80.jpg",
-      "excerpt": "A pocket-size powerhouse with a giganormous price tag"
-    },
-    {
-      "url": "https://www.techradar.com/audio/a-legendary-streaming-microphone-is-back-after-17-years-the-yeti-2-has-new-ai-powered-features-and-a-built-in-screen",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "title": "A legendary streaming microphone is back after 17 years — the Yeti 2 has new AI-powered features and a built-in screen",
-      "published_iso": "2026-09-28T14:49:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/m6VmkVJayBWHUJnijBB3qi-2443-80.webp",
-      "excerpt": "The Logitech G Yeti 2 is the new successor to an iconic streaming microphone."
-    },
-    {
-      "url": "https://www.engadget.com/2268588/farmers-new-job-for-robot-dogs/",
+      "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
       "source": "Engadget",
       "category": "gadgets",
-      "title": "Robot dogs on farms do a lot more than just guarding",
-      "published_iso": "2026-09-28T14:45:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/robot-dogs-on-farms-do-a-lot-more-than-just-guarding/l-intro-1790332678.jpg",
-      "excerpt": "Robot dogs made the headlines following their deployment in high-security locations like the White House. Now, they"
+      "title": "How do translation earbuds actually work?",
+      "published_iso": "2026-09-29T22:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/l-intro-1790623926.jpg",
+      "excerpt": "Translation earbuds claim high accuracy, but in real-world use, you should lower your expectations. The technology is far from mature."
     },
     {
-      "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-      "source": "Road to VR",
+      "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
+      "source": "Engadget",
       "category": "gadgets",
-      "title": "Hands-on: Meta’s ‘Hologram’ Avatars Aim to Take on Apple Personas on VR Glasses",
-      "published_iso": "2026-09-28T12:00:00Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg",
-      "excerpt": "Meta’s long-promised photorealistic avatars are set to release in the next few months, which the company is calling ‘holograms’. I went hands-on the annual Connect developer conference to see just how Meta plans to take on Apple. Meta announced it’s finally rolling out its immersive avatars, and the"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-      "source": "The Verge",
-      "category": "gadgets",
-      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-      "published_iso": "2026-09-28T08:00:36Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "excerpt": "The phone borrows Arri’s “three-lens turret” design."
-    },
-    {
-      "url": "https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "title": "Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last",
-      "published_iso": "2026-09-28T08:26:39Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Samsung-Galaxy-S26-Ultra-showing-One-UI-lock-screen.jpg",
-      "excerpt": "Samsung is expanding the stable One UI 9 rollout for the Galaxy S26 series in the US, with the full official changelog now available."
-    },
-    {
-      "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
-      "source": "UploadVR",
-      "category": "gadgets",
-      "title": "Meta Ray-Ban Display Gets New Features, Online Ordering & International Launch",
-      "published_iso": "2026-09-28T01:07:44Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png",
-      "excerpt": "Meta Ray-Ban Display is now available in the UK and Canada, and will be available in France, Italy and Germany next month. It's also getting new features and updates."
-    },
-    {
-      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "title": "Microsoft quietly drops Copilot+ branding from new laptops",
-      "published_iso": "2026-09-26T14:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/v2uUzE5t6r2NM3ndNX2jdU-1920-80.jpg",
-      "excerpt": "Few will mourn the passing of Copilot+."
-    },
-    {
-      "url": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "title": "Here’s what Siri AI looks like on HomePod, per leak",
-      "published_iso": "2026-09-23T17:17:24Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Siri AI is likely coming to HomePod soon, and leaker pdfu today shared evidence of what the new Siri could look like on a HomePod."
-    },
-    {
-      "url": "https://9to5google.com/2026/09/22/gemini-switches-to-american-accent-but-just-for-nest-doorbells/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "title": "Nest Doorbell has been triggering Gemini’s American accent, no matter what language you speak; fix coming",
-      "published_iso": "2026-09-22T22:40:32Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-doorbell-wired-2k-4.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google Home is experiencing a unique bug that announces Nest Doorbell notifications in an American accent, even if your preferences..."
-    },
-    {
-      "url": "https://9to5google.com/2026/09/21/googlebook-hands-on-what-makes-a-laptop-a-laptop-video/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "title": "Googlebook hands-on: What makes a laptop, a laptop? [Video]",
-      "published_iso": "2026-09-21T13:02:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/HP-Googlebook-One-Handed-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "After a protracted wait, the first wave of Googlebooks is now here. Having spent a brief period testing, here's what it's like to use one."
-    },
-    {
-      "url": "https://roadtovr.com/snap-ai-service-apps-specs-launch-event/",
-      "source": "Road to VR",
-      "category": "gadgets",
-      "title": "Snap Announces New “anticipatory” AI Service & Apps for First Consumer ‘Specs’ AR Glasses",
-      "published_iso": "2026-09-16T23:40:00Z",
-      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/snap-specs-6-model.jpg?fit=1800%2C1200&quality=100&ssl=1",
-      "excerpt": "Snap today announced new experiences, services and partnerships for SPECS, the company’s upcoming pair of consumer AR glasses. Snap’s big Specs livestream today wasn’t technically a launch event—they’re still slated to arrive in the US, UK and France later this fall starting at $2,195—although the c"
+      "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+      "published_iso": "2026-09-29T18:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/gemini-and-find-hub-can-help-you-locate-your-important-documents-heres-how/l-intro-1789834269.jpg",
+      "excerpt": "You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag."
     },
     {
       "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
       "source": "TechRadar",
       "category": "gadgets",
-      "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
+      "title": "Ever wanted a video doorbell you can use in VR? Me neither, but Anker Eufy is launch the world's first model anyway, with an eye-watering price tag (but no subscription)",
       "published_iso": "2026-09-28T19:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
-      "excerpt": "With 180-degree viewing field, AI tracking, and subject framing, there"
+      "excerpt": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do."
     },
     {
-      "url": "https://gizmodo.com/ai-toothbrushes-2000818160",
-      "source": "Gizmodo",
+      "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
+      "source": "UploadVR",
       "category": "gadgets",
-      "title": "When Can We Exit the AI Toothbrush Era?",
-      "published_iso": "2026-09-28T17:15:06Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/09/camerajet-1200x675.jpg",
-      "excerpt": "AI toothbrushes are an entire market now. Which leaves me wondering: why?"
+      "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
+      "published_iso": "2026-09-29T01:26:21.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare-1.jpg",
+      "excerpt": "Meta's Muse AI agent is coming to its smart glasses \"soon\", letting it take actions at your request while your phone stays in your pocket.",
+      "note": "official follow-up to Muse-on-glasses leak published 9/24 (Android Authority) — possible same story"
     },
     {
-      "url": "https://www.sammobile.com/news/samsung-the-freestyle-plus-projector-is-coming-to-more-european-markets/",
-      "source": "SamMobile",
+      "url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/",
+      "source": "UploadVR",
       "category": "gadgets",
-      "title": "Samsung The Freestyle+ projector is coming to more European markets",
-      "published_iso": "2026-09-28T12:26:17Z",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Freestyle-Plus-4.jpg",
-      "excerpt": "Samsung is bringing The Freestyle+ projector to more countries in Europe, starting with Poland. Others may join soon."
+      "title": "visionOS 27 Launched For Apple Vision Pro Headsets, Bringing Siri AI & More",
+      "published_iso": "2026-09-18T02:20:37.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/visionOS-27.jpeg",
+      "excerpt": "Apple launched visionOS 27 for Vision Pro headsets this week. Read our extensive rundown of all the biggest features & improvements."
     },
     {
-      "url": "https://zdnet.co.kr/view/?no=20260924053226",
-      "source": "ZDNet Korea",
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "source": "Ars Technica",
       "category": "gadgets",
-      "title": "\"스마트폰 다음은 XR\"…퀄컴·삼성·구글, 차세대 폼팩터 3자 연합 구축",
-      "published_iso": "2026-09-23T20:32:26Z",
-      "og_image": "https://image.zdnet.co.kr/2026/09/24/22a7c3949d2452f1528e849cfc7960df.jpg",
-      "excerpt": "[마우이(미국)=전화평 기자] 20여 년간 스마트폰 시대 한 축을 맡아온 퀄컴, 삼성전자, 구글이 하드웨어, 운영체제(OS), 완제품 3자 협력체계를 본격 가동한다. 목표는 차세대 개인화 인공지능(AI)·확장현실(XR) 시장 주도권 확보다. 지아드 아스가르 퀄컴 ..."
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "published_iso": "2026-09-24T11:00:04+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
+      "excerpt": "Usable local AI is a lot of fun, but how much would you pay for it?"
     },
     {
-      "url": "https://zdnet.co.kr/view/?no=20260925054239",
-      "source": "ZDNet Korea",
+      "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+      "source": "WIRED",
       "category": "gadgets",
-      "title": "[써보고서] '스냅드래곤 AI' 입은 AR글래스...공간컴퓨팅·영화 속 장면 눈앞",
-      "published_iso": "2026-09-25T00:30:10Z",
-      "og_image": "https://image.zdnet.co.kr/2026/09/25/1e18c1aa155afeddc9975c3c1803af51.jpg",
-      "excerpt": "[마우이(미국)=지디넷코리아 전화평 기자] 이건 물병입니다.안경을 쓴 채 눈앞의 사물을 바라보며 이게 뭐야?라고 묻자 귓가에서 즉각 답변이 나왔다. 미국 인공지능(AI) 스타트업 프리즘ML(Prism ML)이 선보인 스마트글래스가 내놓은 대답이다. 놀라운 점은 이 모든 과정이 인터넷..."
+      "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+      "published_iso": "2026-09-26T10:30:00.000Z",
+      "og_image": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
+      "excerpt": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+      "note": "design critique of Muse Charm; the device itself ran 9/25 (Ars keychain)"
+    },
+    {
+      "url": "https://9to5google.com/2026/09/22/gemini-switches-to-american-accent-but-just-for-nest-doorbells/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "Nest Doorbell has been triggering Gemini's American accent, no matter what language you speak; fix coming",
+      "published_iso": "2026-09-22T22:40:32+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-doorbell-wired-2k-4.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google Home is experiencing a unique bug that announces Nest Doorbell notifications in an American accent, even if your preferences..."
+    },
+    {
+      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "Gemini fully replaces Google Assistant on Android",
+      "published_iso": "2026-09-28T20:48:08+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out.",
+      "note": "follow-up to Assistant shutdown story previously published (Engadget)"
+    },
+    {
+      "url": "https://9to5google.com/2026/09/22/smart-glasses-growth-h1-2026/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "As Android XR nears, smart glasses are only getting more popular despite Meta backlash",
+      "published_iso": "2026-09-22T16:30:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "There’s been a near-constant stream of backlash against Meta’s Ray-Ban smart glasses in recent months, but that hasn’t stopped people..."
+    },
+    {
+      "url": "https://www.androidcentral.com/wearables/ray-ban-meta-gen-3-ray-ban-meta-audio-lisa-glasses-hands-on",
+      "source": "Android Central",
+      "category": "gadgets",
+      "title": "Meta has over 100 different AI glasses styles, and I tried every new pair, including ones without a camera",
+      "published_iso": "2026-09-23T23:34:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ZDstiTydoq3z59EvfKopZQ-2560-80.jpg",
+      "excerpt": "Ray-Ban Meta Gen 3, Ray-Ban Meta Audio, and a slew of new Meta AI Glasses styles just made their debut at Meta Connect 2026."
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 21,
+    "dropped": 3,
+    "kept": 13,
     "against_days": 5
   }
 }

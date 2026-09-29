@@ -1,89 +1,66 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "games",
   "picks": [
     {
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
+      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
       "tool": "Games",
-      "category": "games",
-      "headline": "Ubisoft's calling its next push into gen-AI game development Motherbrain, according to new trademarks from the Assassin's Creed maker",
-      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
-      "source": "Eurogamer",
-      "published_iso": "2026-09-28T16:58:05.505552+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Ubisoft has been quite enthusiastic about generative AI's use in game development, and a new trademark might sound familiar to Nintendo and Metroid fans.",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Freshest item in the pool: new trademark filings show a major AAA publisher branding its next gen-AI development push. No Ubisoft Motherbrain story has run in games before."
+      "rationale": "Platform-level launch: Horizon Centre/Studio turn prompts into playable 2D/3D games on mobile and web, plus a new Unity-supported device target. Actionable for devs and not previously covered in games.",
+      "published_iso": "2026-09-25T13:07:11.372955+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\""
     },
     {
+      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+      "source": "PocketGamer.biz",
+      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem",
       "tool": "Games",
-      "category": "games",
-      "headline": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
-      "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-28T10:06:47Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg",
-      "excerpt": "An unofficial Super Mario Galaxy PC port is in the works, with developers proudly claiming it is '100% coded by humans' as vibe-coded AI ports of Donkey Kong 64, Mario Kart Wii and Monster Hunter flood the scene.",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A new port project that uses 'human-coded' as its selling point against the flood of vibe-coded ports. It is a separate event from the earlier Donkey Kong 64, Mario Kart Wii and Ocarina port cards."
+      "rationale": "Fresh (09-29) industry signal: a game studio (Wearemighty) quits game development to rebrand as an AI content-tech company focused on brand/art consistency. Shows where studio art pipelines and talent are migrating.",
+      "published_iso": "2026-09-29T14:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg",
+      "excerpt": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology "
     },
     {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321517",
+      "source": "Inven",
+      "title": "원스토어, AI 게임 등록 전면 개방",
       "tool": "Games",
-      "category": "games",
-      "headline": "Radeon RX 9070 XT Finally Touches 75 FPS At 1080p In Cyberpunk 2077 With DLSS 5, Thanks To The Efforts Of DLSS-NR-on-AMD Developer",
-      "url": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-28T12:03:31+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-75-FPS-Cyberpunk-2077-featured.jpg",
-      "excerpt": "DLSS-NR-on-AMD boosts performance by up to 49% on RX 9000 series, enabling 75 FPS in Cyberpunk 2077 at 1080p, up from 30 FPS",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "The only DLSS 5 card allowed today. It reports a new milestone: the cross-vendor neural-rendering port went from 30 to 75 FPS, which is new news beyond the 09-05 'modder enables it' card. Chosen over the PC Gamer Miku hands-on, which repeats the stylized-art complaint from the 09-26 Smash Melee card."
+      "rationale": "Freshest item (09-29): a Korean app store opens a dedicated AI-games storefront and Console registration to all developers, with web-game SDK monetization; a real distribution channel for AI-made games. Exact URL not in published history (only ?news=321275 is).",
+      "published_iso": "2026-09-29T09:37:29+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg",
+      "excerpt": "원스토어가 AI 게임 전용관을 모든 개발자에게 개방하고 원콘솔에서 AI 기반 게임 등록을 시작한다. 10월 초 전용관 명칭을 'AI 게임'으로 바꿔 앱 하단에 상시 배치하고 웹게임 SDK로 수익화도 지원하며, 코딩 경험 없는 개발자도 AI로 만든 게임을 등록할 수 있다."
     },
     {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321491",
+      "source": "Inven",
+      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
       "tool": "Games",
-      "category": "games",
-      "headline": "Twitch CEO Dan Clancy says platform doesn't need AI disclosure rules — for now",
-      "url": "https://gamesbeat.com/twitch-ceo-dan-clancy-says-platform-doesnt-need-ai-disclosure-rules-for-now/",
-      "source": "GamesBeat",
-      "published_iso": "2026-09-21T04:27:01+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/EDITORIAL-CANVA-39-1024x576.png",
-      "excerpt": "Twitch CEO Dan Clancy believes the nature of livestreamed content insulates the platform against the need for an AI disclosure policy.",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A platform-policy position from Twitch's CEO on AI disclosure, which contrasts with Steam's mandate. This is a different story from the 09-24 Kotaku card on Twitch's AI stream-coach opt-out."
+      "rationale": "Launches today (09-30): Com2uS Platform's Hive Axil lets devs run backend config, payments and analytics via natural-language prompts with a Codex plugin; AI as a real live-ops tool. Exact URL not in published history.",
+      "published_iso": "2026-09-28T14:40:47+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg",
+      "excerpt": "컴투스플랫폼이 도쿄 AI 게임 개발 행사에서 차세대 백엔드 플랫폼 '하이브 액실'을 공개했다. 9월 30일 정식 출시되며 자연어 프롬프트로 백엔드 설정·결제·데이터 분석 등 라이브 운영 기능을 다루고, 코덱스 플러그인 연결로 개발 효율을 높인다."
     },
     {
+      "url": "https://eu.36kr.com/en/p/3995368325501056",
+      "source": "36Kr",
+      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
       "tool": "Games",
-      "category": "games",
-      "headline": "PlayStation 5 Pro's PSSR Strikes Another Victory, As Final Fantasy VII Revelation Director Promises 4K@60 FPS",
-      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-22T09:22:57+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
-      "excerpt": "Final Fantasy VII Revelation will target 4K 60 FPS on PS5 Pro using PSSR, and hands-on gamescom testing proves it",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A console ML upscaler (PSSR) confirmed as the route to 4K60 in a major AAA release. This covers the console side of AI reconstruction and is separate from the 08-09 PSSR 2.0 toggle card."
-    }
-  ],
-  "dropped": [
-    {
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-      "reason": "Same NVIDIA RTX Kit / neural rendering SDK release as developer.nvidia.com 'What's new for game developers: DLSS 5 ... new RTX Kit capabilities', published 2026-09-24."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "reason": "The core event is the 2026 CESA survey, already published as AUTOMATON's 85%+ card (2026-09-18) plus the 09-23 follow-up. It was already dropped on 09-28 for the same reason."
-    },
-    {
-      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
-      "reason": "DLSS 5 cap is one per day and the Wccftech AMD milestone was chosen. This hands-on also repeats the stylized-art angle from the 09-26 Smash Melee DLSS 5 card."
-    },
-    {
-      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
-      "reason": "Off-topic: a comic-con AI-art dispute and biting incident, not about games."
+      "rationale": "Novel benchmark (Brood War Bench, 171 matches across 19 agent configs) showing frontier agents still play at beginner level in RTS; AI is the subject and the tool, not a theme. No prior games coverage; adds a third distinct outlet. Chosen over Qualcomm Snapdragon (same chip launch already ran in gadgets 09-23), the etoday roundup (overlaps PUBG Ally) and Limerence (AI only as story theme).",
+      "published_iso": "2026-09-23T03:30:39Z",
+      "og_image": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1012394oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "excerpt": "Developer Ben Swerdlow's Brood War Bench ran 19 AI agent configurations through 171 round-robin StarCraft: Brood War matches; GPT-6 Astra went 18-0, yet no model played above beginner level against humans. (Off-list exception: no allowed-domain coverage.)"
     }
   ]
 }

@@ -1,92 +1,142 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "books",
   "window_hours": 336,
   "items": [
     {
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-09-29T15:29:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131766-1.JPG",
+      "excerpt": "Seeking to increase the availability of non-English-language audiobooks, the Quebec-based distributor will now allow publishers in its network to put out audio titles with automated narration on the subscription-based ElevenReader platform.",
+      "title": "De Marque to Offer AI Audiobook Capabilities Via ElevenLabs"
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-09-29T15:34:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131772-1.JPG",
+      "excerpt": "Data from 771 professionals surveyed by the Book Industry Study Group and BookNet Canada found publishers’ AI use at the organizational level jumped to 63%, from 48% in 2025, while individual use dropped from 46% in 2025 to 38% today.",
+      "title": "As Publishers Ramp Up AI Implementation, Employees Slow Down"
+    },
+    {
       "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-09-28T04:00:00Z",
+      "published_iso": "2026-09-28T15:20:00Z",
       "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131741-1.JPG",
-      "excerpt": "The Authors Guild is asking publishers to split Anthropic's $1.5 billion training-data settlement more fairly, noting that many houses will get large payouts while most authors get little more than 'a modest vacation'. It also warns that AI models 'continue to gorge' on books, now through destructive scanning."
+      "excerpt": "The Guild is asking publishers to more equitably divvy up Anthropic’s $1.5 billion settlement for certain claims, noting many houses will receive large payouts while most authors will get nothing more than “the ability to pay bills from the settlemen",
+      "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth"
     },
     {
-      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-september-28-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://en.sedaily.com/culture/2026/09/30/korean-publishers-set-voluntary-ai-rules-for-books",
+      "source": "Seoul Economic Daily",
       "category": "books",
-      "published_iso": "2026-09-28T11:05:32Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "Carlo Carrenho's weekly roundup: Germany's MVB is building Snackz's AI tool into its system to generate classifications, keywords and SEO copy from manuscripts or book proposals. ElredoVoice is bringing 20 HarperCollins Polska Harlequin titles into Czech audio with AI-assisted production. The roundup also looks at how AI floods pressure Amazon KDP's print-on-demand pipeline."
+      "published_iso": "2026-09-30T06:31:05+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/29/news-p.v1.20260929.43a504d0825c4572b43e0cf491f20251_P1.jpg",
+      "excerpt": "Twelve Korean publishing and authors' groups issued voluntary AI usage principles, including labeling for AI-assisted and AI-generated books.",
+      "title": "Korean Publishers Set Voluntary AI Rules for Books",
+      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
     },
     {
-      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-monday-september-21-2026/",
-      "source": "Publishing Perspectives",
+      "url": "https://www.hani.co.kr/arti/culture/book/1280041.html",
+      "source": "한겨레",
       "category": "books",
-      "published_iso": "2026-09-21T10:24:20Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "Spotify has widened its ElevenLabs-powered Audiobook Creation Tools beta to US self-published English-language authors. The tool turns finished EPUBs into labelled AI-narrated audiobooks with no exclusivity, in contrast to Audible's closed approach. Separately, PRH CEO Nihar Malaviya calls AI a tool for print-run and promotion decisions: 'Let AI wash the dishes so we can focus on cooking.'"
+      "published_iso": "2026-09-29T18:18:00+09:00",
+      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503377.webp",
+      "excerpt": "종이책, 전자책, 오디오북 등 출판물에 인공지능(AI) 활용 정도를 밝히는 표시 제도를 적극 도입하자는 의견이 출판계에서 나왔다. ‘AI 출판물 표시제도’를 도입하면 저자 또한 출판사에 자신이 원고에 어떤 AI를 얼마나 사용했는지 밝혀 계약서에 명시하게 된다. 출판 전",
+      "title": "출판계 “출판물에 AI 활용 정도 밝히는 ‘표시 제도’ 도입하자”",
+      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
     },
     {
-      "url": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy",
-      "source": "The Bookseller",
+      "url": "https://www.yna.co.kr/view/AKR20260929154800005",
+      "source": "연합뉴스",
       "category": "books",
-      "published_iso": "2026-09-28T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Robot_hand_typingC_Shutterstock.jpg",
-      "excerpt": "Author and editor Madeleine F White argues that publishing's stance on AI is pushing writers into a culture of secrecy. If the industry wants transparency about AI use, she says, it has to make honesty safer than concealment."
+      "published_iso": "2026-09-29T17:07:52+09:00",
+      "og_image": "",
+      "excerpt": "(서울=연합뉴스) 김정은 기자 = 인공지능(AI) 시대, AI를 활용한 출판물의 투명성과 책임, 보상 문제가 출판계의 화두로 떠오른 가운데 일부...",
+      "title": "AI와 공존 모색하는 출판계…출판사·저작자 AI 사용원칙 발표 | 연합뉴스",
+      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
     },
     {
-      "url": "https://goodereader.com/blog/audiobooks/audible-is-translating-european-audiobooks-to-english",
-      "source": "Good e-Reader",
+      "url": "https://news.err.ee/1610151322/publisher-ai-will-come-for-translators-and-illustrators-first",
+      "source": "ERR News",
       "category": "books",
-      "published_iso": "2026-09-27T10:25:36Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/27062508/audible-hero-listener_tan_coat_in_newark.jpg",
-      "excerpt": "Audible UK has quadrupled its output of Audible Originals translated from European languages into English. It stresses that humans, not AI, did the translation, which sets it apart from the industry's machine-translation push."
+      "published_iso": "2026-09-29T16:08:00+03:00",
+      "og_image": "https://s.err.ee/photo/crop/2025/11/16/3090399h65b9t24.jpg",
+      "excerpt": "Publishing house Tänapäev's editor-in-chief told ERR that original manuscripts written with AI remain rare, but the technology has already made its way into translation and illustration.",
+      "title": "Publisher: AI will come for translators and illustrators first"
     },
     {
-      "url": "https://www.chinadaily.com.cn/a/202609/28/WS6ab9da14e4b06d4aa0560887.html",
+      "url": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai",
+      "source": "Dazed",
+      "category": "books",
+      "published_iso": "2026-09-29T07:00:00+00:00",
+      "og_image": "https://images-prod.dazeddigital.com/1200/0-0-2055-1370/azure/dazed-prod/1450/6/1456127.png",
+      "excerpt": "Some readers are turning to ChatGPT for book recommendations – but chatbots will never compare to real, human bookshop workers, Natalie Beecroft writes",
+      "title": "AI book recs are making us all read the same thing"
+    },
+    {
+      "url": "https://www.insidehighered.com/opinion/views/2026/09/29/ai-slop-coming-university-library-near-you-opinion",
+      "source": "Inside Higher Ed",
+      "category": "books",
+      "published_iso": "2026-09-29T07:00:00Z",
+      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
+      "excerpt": "Librarians must hold the gates against machine-generated titles.",
+      "title": "AI Slop Coming to University Library Near You (opinion)"
+    },
+    {
+      "url": "https://global.chinadaily.com.cn/a/202609/28/WS6ab9da14e4b06d4aa0560887.html",
       "source": "China Daily",
       "category": "books",
-      "published_iso": "2026-09-28T03:08:04Z",
-      "og_image": "https://img2.chinadaily.com.cn/images/202609/28/6aba0a7ee4b06d4a392d3ecb.jpeg",
-      "excerpt": "At the Mandarin's House, a UNESCO World Heritage site, Macao poet Ng Iat-i recites 'Moon Over Lotus Isle', a Mid-Autumn poem he co-created with AI. It is a showcase for human-AI poetry collaboration."
+      "published_iso": "2026-09-28T11:08:04+08:00",
+      "og_image": "http://img2.chinadaily.com.cn/images/202609/28/6aba0a7ee4b06d4a392d3ecb.jpeg",
+      "excerpt": "At the Mandarin's House, a UNESCO World Heritage Site, Macao poet Ng Iat-i recites Moon Over Lotus Isle , a poem co-created with AI. Where history meets modernity, looking up at the moon brings echoes across time—a new era's reflection on Lotus Isle.",
+      "title": "Moon Over Lotus Isle: AI-co-created poem by Macao poet Ng Iat-i"
     },
     {
-      "url": "https://www.etnews.com/20260922000490",
-      "source": "전자신문",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=210681",
+      "source": "교수신문",
       "category": "books",
-      "published_iso": "2026-09-22T08:34:36Z",
-      "og_image": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.a81bb6dd9c1b489896bd1871866eb7da_P1.png",
-      "excerpt": "Post-production studio Soundgrab and AI voice company Voicegrab are launching a 'hybrid cinema audiobook' format that pairs AI voice technology with film-grade sound mixing, and have hired a Hollywood re-recording mixer. The startups are tenants of Korea's NIPA Virtual Convergence Industry Hub."
+      "published_iso": "2026-09-29T08:31:39+09:00",
+      "og_image": "https://cdn.kyosu.net/news/photo/202609/210681_212776_323.png",
+      "excerpt": "[AI 도서 라이선싱 기업 멘탯 대표 전병욱] AI가 세상의 지식을 흡수해 답을 내놓는 시대, 출판·학술 콘텐츠 업계의 위기감은 어느 때보다 높다. 종이책 유통",
+      "title": "“AI가 내 책을 얼마나 인용했는지 눈으로 확인한다” - 교수신문"
     },
     {
-      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337377",
-      "source": "미디어오늘",
+      "url": "https://www.voiceoverherald.com/elevenlabs-v4-voice-clone-10-seconds-90-languages/",
+      "source": "Voice Over Herald",
       "category": "books",
-      "published_iso": "2026-09-27T10:44:23Z",
-      "og_image": "https://cdn.mediatoday.co.kr/news/thumbnail/202609/337377_483867_243_v150.jpg",
-      "excerpt": "Noh Seung-young, a translator with 21 years in the field, told a National Assembly Library expert panel that AI machine translation 'is not sustainable even in the short term' without human intervention. He warns that translators are being asked to do more intensive post-editing work for less pay."
+      "published_iso": "2026-09-29T13:00:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-18.jpg",
+      "excerpt": "ElevenLabs' new v4 model clones a voice from 10 seconds of audio and speaks 90 languages. What it means for voice actors, dubbing and consent.",
+      "title": "ElevenLabs v4 copies a voice from 10 seconds - Voice Over Talent Industry News"
     },
     {
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01489126645584384&mediaCodeNo=257",
-      "source": "이데일리",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/29/are-libraries-prepared-second-digital-transformation-distinctive-collections/",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-09-27T03:25:46Z",
-      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092700469.jpg",
-      "excerpt": "Lee Sung-up, a Lezhin Comics co-founder, now runs Nautilus, maker of the children's e-book platform Ttokseo (똑서). Nautilus uses Ttokseo's reading data with generative AI to produce its own children's English content and characters as it chases a 'Disney for the AI era'."
+      "published_iso": "2026-09-29T09:30:42+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Dominican-Dominican-Republic-OriginalDocumentsMother-July-25-2019-scaled.jpg",
+      "excerpt": "Academic and research libraries, as well as public libraries, historical societies, and other organizations, hold extensive collections of rare and unique materials, such as archival and manuscript collections. These materials form an essential part of humanity’s cultural and historical record, and they are the vital source material for many humanistic fields. I believe that a second digital trans",
+      "title": "Are libraries prepared for the second digital transformation of distinctive collections?"
     },
     {
-      "url": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
-      "source": "TechRadar",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
+      "source": "The Guardian",
       "category": "books",
-      "published_iso": "2026-09-22T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg",
-      "excerpt": "'Grandmaslop': grandparents are using Gemini, Claude and ChatGPT to make whole personalised AI storybooks starring their grandchildren. Parents on Reddit say the books share the same slop cartoon style and stories with broken meter, a sign of how cheap AI children's-book generation is changing what counts as a picture book."
+      "published_iso": "2026-09-27T15:00:07.000Z",
+      "og_image": "https://i.guim.co.uk/img/media/58a73993f9cb3247c75bb13c80e2fdeb39c1ee15/88_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f31cb2007fc3fc6b95a14d03707b332a",
+      "excerpt": "‘People care about the songs, books and pictures that influence the critical moments in their lives,’ says the architect of the fightback in the UK",
+      "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia"
     }
   ],
+  "_search_log": "RSS: PW recent/digital/industry-news feeds, goodereader, janefriedman, lithub, publishingperspectives, bookriot, writersdigest, thecreativepenn, electricliterature, scholarlykitchen, the-digital-reader, booksandpublishing, guardian books/tech, verge, wired, techcrunch, ars, mediabistro, Bookseller /news HTML (Bookseller/kindlepreneur RSS disabled). Google News RSS sweeps (35 queries incl. Korean: AI 출판, AI 전자책, 딸깍 출판, AI 오디오북/번역, 교보/밀리/리디). WebSearch 5 queries (e-reader AI, Frankfurt AI, AI books news, Daggermouth, Princeton UP certification - all stale/no new). Expanded keywords: AI labelling/disclosure principles, AI licensing platform (Mentat), voice cloning/narration, AI book recommendations, AI-generated scholarly books in libraries, AI co-created poetry, translators. Rejected: Lynote (goodereader advertorial), Elredo (Bookseller sponsored Spotlight), Bookseller OpenAI LibGen filings (dup of 09-22 unsealed briefs), Audible EU translations (in ledger), Around the Book World 09-28 (covered 09-29), Pan Mac/Spotify trainers & 12th-gen Kindle (no AI), Czech Elredo funding (funding noise).",
   "dedup": {
-    "dropped": 2,
-    "kept": 10,
+    "dropped": 0,
+    "kept": 14,
     "against_days": 5
   }
 }

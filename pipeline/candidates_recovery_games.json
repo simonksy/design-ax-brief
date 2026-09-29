@@ -1,90 +1,64 @@
 {
-  "generated_at": "2026-09-27T22:40:00Z",
+  "date": "2026-09-30",
   "section": "games",
+  "now_iso": "2026-09-29T22:03:11Z",
   "window_hours": 336,
-  "recovery_pass": 1,
-  "keywords_added": [
-    "AI global illumination diffusion",
-    "AI prototype art director",
-    "LLM fan port vibecoded",
-    "DLSS FSR upscaling mod",
-    "AI-native studio",
-    "DLSS-NR-on-AMD",
-    "AI 챗봇 가이드 MMORPG",
-    "실시간 학습 AI"
-  ],
+  "pass": "recovery-1",
+  "notes": "Recovery pass #1. Harvested RSS/sitemaps/archives: GI.biz, Game Developer, 80.lv, RPS, VG247, Eurogamer, PC Gamer + GamesRadar monthly archives, TheGamer, Wccftech (paged), GamesBeat (paged), Road to VR, GamingBolt, Aftermath, Destructoid, Polygon, IGN, Kotaku sitemap, PocketGamer.biz, Automaton, Unity/Unreal blogs, Inven (20 list pages), GameMeca. 5 WebSearch used. On-list outlets were saturated with already-published or rejected stories (DLSS 5, Level-5, Insomniac, MiHoYo, CESA, RuneScape clone/NHL 27/Shift Up out of window). Off-list exceptions: etoday.co.kr (Korean studio AI roundup) and 36kr (Brood War Bench), both uncovered by allowed domains. Dropped: haystack slop (no AI in body), Windup Minds (classic NPC AI only), Modulate/General Intuition (funding), NVIDIA RTX Kit wccftech (same story as published NVIDIA blog), GameMeca ONE Store (dup of Inven). Removed Imagination NSR (Inven 321275, already published in games 2026-09-23). WARNING: dedup_candidates.py norm_url strips the query string, so every inven.co.kr/webzine/news/?news=N URL collapses to one key and falsely matches the published 321275; the two remaining Inven items (321517 ONE Store, 321491 Hive Axil) are NOT published (verified by exact grep of published_urls.json/news_data.json).",
   "items": [
     {
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-17T13:45:27Z",
-      "title": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
-      "excerpt": "AMD researchers hand indirect lighting to a diffusion model frame by frame, using a temporal VAE with motion vectors to keep the generated illumination from flickering, then composite it over the direct-lit frame.",
-      "category": "games"
+      "url": "https://www.inven.co.kr/webzine/news/?news=321517",
+      "source": "Inven",
+      "category": "games",
+      "published_iso": "2026-09-29T09:37:29+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg",
+      "title": "원스토어, AI 게임 등록 전면 개방",
+      "excerpt": "원스토어가 AI 게임 전용관을 모든 개발자에게 개방하고 원콘솔에서 AI 기반 게임 등록을 시작한다. 10월 초 전용관 명칭을 'AI 게임'으로 바꿔 앱 하단에 상시 배치하고 웹게임 SDK로 수익화도 지원하며, 코딩 경험 없는 개발자도 AI로 만든 게임을 등록할 수 있다."
     },
     {
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-09-14T15:45:07Z",
-      "title": "Legendary Zelda and Star Fox artist is \"genuinely amazed\" by AI even as he catches backlash from Nintendo fans",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4wenzA6wmf2f5GELcQAra7-1920-80.jpg",
-      "excerpt": "Former Nintendo art director Takaya Imamura (Majora's Mask, Star Fox) shared a game prototype built with AI help and says he is amazed by the tech, despite heavy fan backlash.",
-      "category": "games"
+      "url": "https://www.inven.co.kr/webzine/news/?news=321491",
+      "source": "Inven",
+      "category": "games",
+      "published_iso": "2026-09-28T14:40:47+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg",
+      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
+      "excerpt": "컴투스플랫폼이 도쿄 AI 게임 개발 행사에서 차세대 백엔드 플랫폼 '하이브 액실'을 공개했다. 9월 30일 정식 출시되며 자연어 프롬프트로 백엔드 설정·결제·데이터 분석 등 라이브 운영 기능을 다루고, 코덱스 플러그인 연결로 개발 효율을 높인다."
     },
     {
-      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
-      "source": "Kotaku",
-      "published_iso": "2026-09-17T22:00:44+00:00",
-      "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop'",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
-      "excerpt": "The Ship of Harkinian team says LLM-assisted code has been in the fan PC port for years; asked which version is free of LLM content, a dev said 'I don't know'.",
-      "category": "games"
+      "url": "https://www.etoday.co.kr/news/view/2628643",
+      "source": "이투데이",
+      "category": "games",
+      "published_iso": "2026-09-22T16:17:00+09:00",
+      "og_image": "https://img.etoday.co.kr/pto_db/2026/09/20260922150625_2392220_1199_825.png",
+      "title": "게임사 AI, 제작 도구 넘어선다…자체 모델·에이전트·피지컬 AI로 확장",
+      "excerpt": "NC AI는 가상환경·동작 기술로 로봇 학습을 지원하고, 크래프톤은 AI 동료와 자체 모델을 병행하며, 넥슨은 '모노레이크'로 개발·운영 데이터를 활용하고, 넷마블은 '1인 1에이전트'를 추진한다. 리니지M 배경 원화에 바르코 3D를 도입해 2~3주 작업을 약 1주로 줄인 사례도 담겼다. (Off-list exception: no allowed-domain coverage; overlaps partly with first-pass PUBG Ally item.)"
     },
     {
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-09-24T10:30:09+00:00",
-      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "og_image": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A new community mod adds DLSS and FSR upscaling to 2008's GTA IV, giving the game a sharper, modern AI-reconstructed image.",
-      "category": "games"
-    },
-    {
-      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
       "source": "PocketGamer.biz",
-      "published_iso": "2026-09-23T15:48:00+01:00",
-      "title": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
-      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
-      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
-      "category": "games"
+      "category": "games",
+      "published_iso": "2026-09-25T12:38:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
+      "title": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
+      "excerpt": "Qualcomm's Snapdragon 8 Elite Extreme Gen 6 and 8 Elite Gen 6 introduce Adreno Neural Fusion, which uses AI to enhance mobile graphics for richer visuals and longer play sessions, alongside on-device agentic AI features."
     },
     {
-      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-26T18:02:42+00:00",
-      "title": "DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-NR-on-AMD-RX-9000-Alpha-0.4.0.jpg",
-      "excerpt": "DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5 neural rendering, pushing Cyberpunk 2077 from 30 to 50 fps at 3440x1440. Note: DLSS 5 modding thread overlaps prior coverage (open-source Vulkan reimplementation); curator should weigh as follow-up.",
-      "category": "games"
+      "url": "https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-09-23T13:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/limerence.jpg",
+      "title": "Limerence, launching October 29, asks, 'Would trust an AI designed to love you unconditionally?'",
+      "excerpt": "Salix Games' narrative title Limerence, set entirely inside a simulated smartphone, has players build a relationship with an AI companion app whose personality responds to their choices, probing intimacy and dependency in AI companionship. Launches on PC October 29."
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321342",
-      "source": "인벤",
-      "published_iso": "2026-09-22T14:15:27+09:00",
-      "title": "도깨비의세계, 12가지 스킬로 진입장벽 낮춘다",
-      "og_image": "https://static.inven.co.kr/column/2026/09/22/news/i1401273533.jpg",
-      "excerpt": "카카오게임즈 신작 MMORPG 도깨비의세계(10월 8일 출시)는 AI 챗봇 '묘롱'이 이용자 플레이 데이터를 분석해 성장 방향을 안내, 초심자 진입장벽을 낮춘다.",
-      "category": "games"
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321257",
-      "source": "인벤",
-      "published_iso": "2026-09-21T12:10:15+09:00",
-      "title": "라인게임즈, CODE EXIT 스팀 테스트 모집",
-      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1984321245.jpg",
-      "excerpt": "Phase 8 Studio의 4인 협동 신작 CODE EXIT는 실시간 학습 AI와 사운드 디자인으로 심리적 압박을 구현했다. 9월 28일~10월 19일 스팀 플레이테스트, 2027년 1분기 얼리 액세스 목표.",
-      "category": "games"
+      "url": "https://eu.36kr.com/en/p/3995368325501056",
+      "source": "36Kr",
+      "category": "games",
+      "published_iso": "2026-09-23T03:30:39Z",
+      "og_image": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1012394oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
+      "excerpt": "Developer Ben Swerdlow's Brood War Bench ran 19 AI agent configurations through 171 round-robin StarCraft: Brood War matches; GPT-6 Astra went 18-0, yet no model played above beginner level against humans. (Off-list exception: no allowed-domain coverage.)"
     }
   ]
 }

@@ -1,84 +1,131 @@
 {
-  "date": "2026-09-23",
-  "section": "games",
-  "window_hours": 336,
   "items": [
     {
-      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
-      "source": "Roblox",
-      "category": "games",
-      "published_iso": "2026-09-11T12:00:00Z",
-      "og_image": "https://cms-media.roblox.com/assets/ced9560d-5aa5-42d3-b5d8-8e70abeac00c.png",
-      "excerpt": "At RDC 2026, Roblox said it is building an AI creation layer on its platform. Its upcoming Scene Generator will take a text prompt plus a reference image and return a playable layout that creators can refine in Studio, and it will work in both the mobile Build app and Studio."
-    },
-    {
-      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-09-18T05:41:19Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260918-468611-header.webp",
-      "excerpt": "At TGS 2026, Koei Tecmo, Gust and SpiralAI announced SophieChat:AI, an LLM-driven free-scenario RPG set in the world of Atelier Sophie 2. It follows RyzaChat:AI, which has logged more than 15 million spoken interactions and generates quests from conversation. (Off-list outlet: no on-list outlet covered it.)"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-09-17T09:53:08Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/game-industry-layoff-20241216-322105-header.jpg",
-      "excerpt": "Recruiter Hiraku Agent names background and prop artists and assistant programmers as the Japanese game jobs most affected by generative AI. It suggests demand is falling for the 'basic' tasks that junior creators have traditionally handled. (Off-list outlet. This is a separate source from the already-published CESA survey.)"
-    },
-    {
-      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/",
-      "source": "AUTOMATON WEST",
-      "category": "games",
-      "published_iso": "2026-09-18T10:41:12Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20240118-50205-header-1.jpg",
-      "excerpt": "Square Enix updated Final Fantasy XIV's Materials Usage License. It loosens the rules on non-commercial fan-made physical goods but explicitly bans generative AI and 3D printing in fan merch. (Off-list outlet.)"
-    },
-    {
-      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-11T20:45:43Z",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/twitch-ai-stream-coach.jpg",
-      "excerpt": "Twitch is testing an AI-powered Stream Coach that analyzes each broadcast and gives creators personalized feedback on engagement, community building and monetization tools. Twitch itself warns the advice 'may contain errors or inaccuracies.'"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/im-not-saying-fallout-4-modding-drama-gets-to-people-but-heres-breaking-benjamins-singer-begging-concertgoers-to-try-his-ai-assisted-first-person-mod",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-09T12:00:00Z",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Breaking Benjamin singer Benjamin Burnley is promoting his Fallout 4 first-person mod at concerts. The mod carries Nexus's 'AI-assisted' label (developer-led work with limited AI involvement), which feeds into the modding community's AI-disclosure debate. The AI angle is weak."
-    },
-    {
-      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026",
-      "source": "Seoul Economic Daily",
-      "category": "games",
-      "title": "AI Takes Center Stage at Tokyo Game Show 2026",
-      "published_iso": "2026-09-19T00:00:05Z",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/19/news-p.v1.20260918.e2120863e5e04a0db64ec3bbb1177895_P1.jpg",
-      "excerpt": "At TGS 2026, Nexon Games' new title Pareidolia (from the Blue Archive IO Division) let players call characters by name and speak dialogue choices aloud, powered by an in-house voice-recognition AI that runs entirely on-device and was tuned for mobile heat and performance. The show's AI Technology Pavilion also showcased pipeline tools such as Mesh AI's image-to-3D model generation.",
-      "off_list_reason": "No allowed-domain coverage of the Pareidolia on-device voice AI found; Korean outlet per recovery brief."
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321275",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321517",
       "source": "Inven",
       "category": "games",
-      "title": "이제 모바일도 AI 업스케일링... 이매지네이션, 'NSR' 공개",
-      "published_iso": "2026-09-21T07:38:06Z",
-      "og_image": "https://static.inven.co.kr/column/2026/09/21/news/i1649833277.jpg",
-      "excerpt": "Imagination Technologies unveiled Neural Super Resolution (NSR), an AI upscaler for mobile games that reconstructs 540p frames to 1080p in as little as 2.3ms on a single-core E-Series GPU, running the AI work inside the GPU itself. Imagination plans to add NSR to its PowerVR SDK and support it in Unreal Engine and Godot, with W4 Games backing the launch.",
-      "off_list_reason": "Korean outlet per recovery brief (inven.co.kr); AI upscaling adjacent keyword."
+      "published_iso": "2026-09-29T09:37:29+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg",
+      "title": "원스토어, AI 게임 등록 전면 개방",
+      "excerpt": "원스토어가 AI 게임 전용관을 모든 개발자에게 개방하고 원콘솔에서 AI 기반 게임 등록을 시작한다. 10월 초 전용관 명칭을 'AI 게임'으로 바꿔 앱 하단에 상시 배치하고 웹게임 SDK로 수익화도 지원하며, 코딩 경험 없는 개발자도 AI로 만든 게임을 등록할 수 있다."
     },
     {
-      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321491",
+      "source": "Inven",
+      "category": "games",
+      "published_iso": "2026-09-28T14:40:47+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg",
+      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
+      "excerpt": "컴투스플랫폼이 도쿄 AI 게임 개발 행사에서 차세대 백엔드 플랫폼 '하이브 액실'을 공개했다. 9월 30일 정식 출시되며 자연어 프롬프트로 백엔드 설정·결제·데이터 분석 등 라이브 운영 기능을 다루고, 코덱스 플러그인 연결로 개발 효율을 높인다."
+    },
+    {
+      "url": "https://www.etoday.co.kr/news/view/2628643",
+      "source": "이투데이",
+      "category": "games",
+      "published_iso": "2026-09-22T16:17:00+09:00",
+      "og_image": "https://img.etoday.co.kr/pto_db/2026/09/20260922150625_2392220_1199_825.png",
+      "title": "게임사 AI, 제작 도구 넘어선다…자체 모델·에이전트·피지컬 AI로 확장",
+      "excerpt": "NC AI는 가상환경·동작 기술로 로봇 학습을 지원하고, 크래프톤은 AI 동료와 자체 모델을 병행하며, 넥슨은 '모노레이크'로 개발·운영 데이터를 활용하고, 넷마블은 '1인 1에이전트'를 추진한다. 리니지M 배경 원화에 바르코 3D를 도입해 2~3주 작업을 약 1주로 줄인 사례도 담겼다. (Off-list exception: no allowed-domain coverage; overlaps partly with first-pass PUBG Ally item.)"
+    },
+    {
+      "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-09-25T12:38:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
+      "title": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
+      "excerpt": "Qualcomm's Snapdragon 8 Elite Extreme Gen 6 and 8 Elite Gen 6 introduce Adreno Neural Fusion, which uses AI to enhance mobile graphics for richer visuals and longer play sessions, alongside on-device agentic AI features."
+    },
+    {
+      "url": "https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-09-23T13:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/limerence.jpg",
+      "title": "Limerence, launching October 29, asks, 'Would trust an AI designed to love you unconditionally?'",
+      "excerpt": "Salix Games' narrative title Limerence, set entirely inside a simulated smartphone, has players build a relationship with an AI companion app whose personality responds to their choices, probing intimacy and dependency in AI companionship. Launches on PC October 29."
+    },
+    {
+      "url": "https://eu.36kr.com/en/p/3995368325501056",
+      "source": "36Kr",
+      "category": "games",
+      "published_iso": "2026-09-23T03:30:39Z",
+      "og_image": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1012394oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
+      "excerpt": "Developer Ben Swerdlow's Brood War Bench ran 19 AI agent configurations through 171 round-robin StarCraft: Brood War matches; GPT-6 Astra went 18-0, yet no model played above beginner level against humans. (Off-list exception: no allowed-domain coverage.)"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-09-25T13:07:11.372955+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\""
+    },
+    {
+      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
       "source": "Wccftech",
       "category": "games",
-      "title": "Final Fantasy VII Revelation hits 4K/60 on PS5 Pro via PSSR upscaling",
-      "published_iso": "2026-09-22T09:22:57Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
-      "excerpt": "Series director Naoki Hamaguchi confirmed that Final Fantasy VII Revelation uses PlayStation Spectral Super Resolution (PSSR), Sony's ML-based upscaler, to offer a PS5 Pro mode with both 4K image quality and 60 FPS. The piece frames the updated PSSR as the defining feature that separates the PS5 Pro from the base console."
+      "published_iso": "2026-09-29T20:30:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
+      "title": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
+      "excerpt": "We've hooked NVIDIA DLSS 5 into The Witcher 3: Wild Hunt — Remastered with intriguing results, both in visuals and performance."
+    },
+    {
+      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-09-29T14:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg",
+      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem ",
+      "excerpt": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology "
+    },
+    {
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-09-20T09:20:36.457832+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead",
+      "excerpt": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-09-18T15:15:39.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit",
+      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact."
+    },
+    {
+      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-09-18T22:51:54Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
+      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
+      "excerpt": "Two industry surveys point in opposite directions: Japan's CESA finds 85.8% of Japanese game developers use generative AI at work, while North American developers remain markedly more skeptical."
+    },
+    {
+      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-09-16T18:00:14+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
+      "title": "Level-5 Announces Fixes For AI-Generated Presentation",
+      "excerpt": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and were not AI-generated"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-09-23T09:31:23-07:00",
+      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
+      "title": "Your guide to the official Unity plugin for Claude Code",
+      "excerpt": "Unity walks through installing its official plugin for Claude Code, the pipeline architecture, and a live demo in which Claude Code reads and drives the Unity Editor at runtime for prototyping gameplay and managing scenes."
     }
-  ]
+  ],
+  "note": "recovery items first, then first-pass filtered items"
 }

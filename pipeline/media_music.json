@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "music",
   "media": [
     {
-      "id": "music-musixmatch-lyrics-llm",
-      "type": "image",
-      "src": "pipeline/media/music-musixmatch-lyrics-llm.png"
-    },
-    {
-      "id": "music-virtualdj-2026-vibescripting",
+      "id": "music-abyzor-genesis",
       "type": "video",
-      "src": "pipeline/media/music-virtualdj-2026-vibescripting.mp4",
-      "poster": "pipeline/media/music-virtualdj-2026-vibescripting.jpg"
+      "src": "pipeline/media/music-abyzor-genesis.mp4",
+      "poster": "pipeline/media/music-abyzor-genesis.jpg"
     },
     {
-      "id": "music-classicalbot-concert-map",
-      "type": "image",
-      "src": "pipeline/media/music-classicalbot-concert-map.png"
-    },
-    {
-      "id": "music-glazmo-youtube-slop-drumkits",
+      "id": "music-suno-voice-instrument",
       "type": "video",
-      "src": "pipeline/media/music-glazmo-youtube-slop-drumkits.mp4",
-      "poster": "pipeline/media/music-glazmo-youtube-slop-drumkits.jpg"
+      "src": "pipeline/media/music-suno-voice-instrument.mp4",
+      "poster": "pipeline/media/music-suno-voice-instrument.jpg"
     },
     {
-      "id": "music-michael-smith-ai-stream-fraud",
+      "id": "music-tiktok-voice-clone-suit",
       "type": "image",
-      "src": "pipeline/media/music-michael-smith-ai-stream-fraud.jpg"
+      "src": "pipeline/media/music-tiktok-voice-clone-suit.png"
+    },
+    {
+      "id": "music-kpop-ai-authenticity",
+      "type": "image",
+      "src": "pipeline/media/music-kpop-ai-authenticity.jpg"
+    },
+    {
+      "id": "music-elevenlabs-v4",
+      "type": "image",
+      "src": "pipeline/media/music-elevenlabs-v4.jpg"
     }
   ]
 }

@@ -1,31 +1,30 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "politics",
   "media": [
     {
-      "id": "politics-florida-openai-injunction",
+      "id": "politics-wh-super-intelligence-eo",
       "type": "image",
-      "src": "pipeline/media/politics-florida-openai-injunction.jpg"
+      "src": "pipeline/media/politics-wh-super-intelligence-eo.jpg"
     },
     {
-      "id": "politics-openai-training-pause",
+      "id": "politics-ai-voluntary-principles",
       "type": "image",
-      "src": "pipeline/media/politics-openai-training-pause.jpg"
+      "src": "pipeline/media/politics-ai-voluntary-principles.jpg"
     },
     {
-      "id": "politics-nvidia-china-chip-sales",
-      "type": "image",
-      "src": "pipeline/media/politics-nvidia-china-chip-sales.jpg"
+      "id": "politics-ec-copyright-genai-consultation",
+      "type": "svg"
     },
     {
-      "id": "politics-pope-leo-ai-warnings",
-      "type": "image",
-      "src": "pipeline/media/politics-pope-leo-ai-warnings.jpg"
+      "id": "politics-cset-chip-tracking-cost",
+      "type": "svg"
     },
     {
-      "id": "politics-fpf-agentic-taxonomy",
-      "type": "image",
-      "src": "pipeline/media/politics-fpf-agentic-taxonomy.jpg"
+      "id": "politics-researchers-si-danger-videos",
+      "type": "video",
+      "src": "pipeline/media/politics-researchers-si-danger-videos.mp4",
+      "poster": "pipeline/media/politics-researchers-si-danger-videos.jpg"
     }
   ]
 }

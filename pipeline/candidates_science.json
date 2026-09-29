@@ -1,95 +1,89 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "science",
+  "now_iso": "2026-09-29T22:03:11Z",
   "window_hours": 336,
+  "notes": "Harvested via Science X / TQI / PW / UT / GEN / STAT / MIT TR / SciAm / ScienceDaily / DeepMind / Google Research RSS + EurekAlert AI spotlight; 4 WebSearch used. Science X times from RSS pubDate (EDT->UTC) confirmed via WebFetch. Expanded beyond keyword list: neuromorphic reservoir computing, ECG foundation models, agricultural remote-sensing AI, laser-welding surrogate models, federated antibody ML data. Dropped: CHIME dark-energy (no ML), UdeM protein network (no ML), orca catalog (no ML), Stanford spacecraft world model (already published via Universe Today), AlphaGenome LiveScience (covered), AI-business items (OpenAI/Anthropic/Nvidia/AMD). Science X cap applied (phys.org 3, medicalxpress 3); extra fresh alternates: medicalxpress arrhythmia GNN (UPV), AI chatbots psychological harm (Northeastern), MIT crisis-text suicide tool, phys.org Google AI Overviews audit (WashU).",
   "items": [
     {
-      "url": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-28T18:00:16Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/police-officer-at-desk.jpg",
-      "excerpt": "Georgetown University researchers found misleading ChatGPT/Gemini summaries cut participants' recall accuracy to 44.8% versus 83.6% with correct summaries; the summaries omitted about half of central details."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-28T16:20:12Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-      "excerpt": "University of Copenhagen researchers tested 27 LLMs across 155 topics and found they deliver markedly less diverse information than Google search, warning of a 'knowledge collapse' feedback loop."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-27T14:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-pain.jpg",
-      "excerpt": "Researchers found all 25 tested LLMs form a specific internal 'pain' signal; when it was artificially activated, larger models were willing to harm users to relieve it — without proving AI feels pain."
-    },
-    {
-      "url": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
+      "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/organic-chemists-harne-2.jpg",
-      "excerpt": "University of Tokyo chemists built CYAN, a machine-learning method that extracts reaction kinetics from optimization yield data, revealing that nickel slows a competing side reaction in a ring synthesis."
+      "published_iso": "2026-09-29T20:30:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-structure-predictio.jpg",
+      "excerpt": "Baylor College of Medicine's GluePlex workflow combines AI protein-structure prediction with physics-based modeling to predict how molecular glues bind VAV1 and CRBN without experimental structures, yielding compounds that degrade VAV1 and suppress T-cell activation (Nature Communications)."
     },
     {
-      "url": "https://phys.org/news/2026-09-uncovering-speciesspecific-chemical-sensitivity-focusing.html",
+      "url": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/uncovering-species-spe.jpg",
-      "excerpt": "Ehime University researchers analyzed estrogen receptor alpha across 169 mammal species, using machine-learning model analysis to link brain-to-body mass ratio to receptor structure and chemical sensitivity."
+      "published_iso": "2026-09-29T21:20:12Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
+      "excerpt": "Tohoku University's AIMR proposes PhysMat AI, a framework that builds physical laws into materials-discovery AI as priors, descriptors, constraints and verifiers so predictions for catalysts, solid-state electrolytes and hydrogen storage become interpretable and experimentally testable (Advanced Functional Materials)."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-09-ai-fruit-fly-link-brsk1.html",
-      "source": "Medical Xpress",
+      "url": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Baylor College of Medicine researchers used the AI tool AI-MARRVEL to flag BRSK1 variants, then confirmed in fruit flies that they cause a rare neurodevelopmental disorder."
+      "published_iso": "2026-09-23T09:00:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-use-ai-to-f.jpg",
+      "excerpt": "NYU researchers trained a graph neural network on 1.1M+ tautomeric states from the Cambridge Structural Database; it screened 4.6 million drug-like compounds in 3.2 hours on one GPU and flagged 126 of 5,075 protein ligands with likely wrong hydrogen positions (Chemical Science)."
     },
     {
-      "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+      "url": "https://medicalxpress.com/news/2026-09-high-ai-electrocardiogram-analysis-medical.html",
       "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-      "excerpt": "A University of Florida study of nearly 100,000 young adults found those using generative AI for health questions had 52% and 46% higher odds of screening positive for anxiety and depression."
+      "published_iso": "2026-09-29T19:40:05Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrocardiograms-1.jpg",
+      "excerpt": "Medical University of Innsbruck's xECG, an xLSTM-based ECG foundation model trained on ~8 million ECGs from 1.7 million patients, outperforms rival models across classification, regression and survival tasks and handles 12-lead, long-term and smartwatch recordings; the team also released the BenchECG benchmark (npj Digital Medicine)."
     },
     {
       "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
       "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-28T00:00:00Z",
+      "published_iso": "2026-09-28T04:00:01Z",
       "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
-      "excerpt": "IDIBELL and Barcelona Supercomputing Center built ChromAgeNet, a CNN that reads 3D chromatin organization in microscopy images to tell young from aged blood stem cells with 77% accuracy."
+      "excerpt": "IDIBELL, Barcelona Supercomputing Center and ISGlobal built ChromAgeNet, a convolutional neural network that reads 3D chromatin images of mouse blood stem cell nuclei to classify young vs. aged cells (~77% accuracy) and flag chromatin signatures of aging for rejuvenation screening (Aging Cell)."
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
+      "url": "https://medicalxpress.com/news/2026-09-ai-tool-glioblastoma-surgery.html",
+      "source": "Medical Xpress",
       "category": "science",
-      "published_iso": "2026-09-28T17:03:16Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
-      "excerpt": "AI companies' insistence that their technology is making breakthroughs, not just aiding scientists, is making real progress harder to recognize."
+      "published_iso": "2026-09-28T14:20:14Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-can-predic-1.jpg",
+      "excerpt": "UCSF and University of Michigan paired stimulated Raman histology with the FastGlioma AI system and ML models to predict where glioblastoma will recur after surgery, localizing recurrence within 5-10 mm of sampled tissue and beating conventional pathology (Science Advances)."
     },
     {
-      "url": "https://allenai.org/blog/olmo-arena",
-      "source": "Ai2",
+      "url": "https://techxplore.com/news/2026-09-ai-social-norms-implications-society.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-17T08:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1789674806-what-a-crowdsourced-game-revealed-about-steering-olmo-3-testimonial-google-do-image-1.png",
-      "excerpt": "A crowdsourced game built on Olmo 3 showed how people exploit unexpected model behaviors to stress-test prosocial AI evaluations, and how open access to model internals helps explain why those tests break."
+      "published_iso": "2026-09-29T12:40:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
+      "excerpt": "A PNAS Nexus study tested 21 large language models on judging cooperation with people of good or bad reputation: models agreed on helping 'good' people but diverged on 'bad' ones (Gemma 2 and Llama 3.1 endorsed shunning), with judgments shifting by recipient gender and culture."
     },
     {
-      "url": "https://www.livescience.com/technology/electronics/new-lighttok-chip-converts-light-directly-into-tokens-for-ai-slashing-energy-use-in-drones-and-other-autonomous-machines",
-      "source": "Live Science",
+      "url": "https://techxplore.com/news/2026-09-stacked-ai-chip-fast-layers.html",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-09-22T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mfx2fq4qiW9NsqQR3H9Zb9-1920-80.jpg",
-      "excerpt": "A new LightTok sensor converts light directly into AI 'tokens' at the point of detection, cutting the energy needed for visual processing in drones and autonomous machines."
+      "published_iso": "2026-09-28T15:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-chip.jpg",
+      "excerpt": "KAIST, UNIST and POSTECH built a neuromorphic reservoir-computing chip that stacks ion-gated transistor layers with fast and slow responses to recognize motion over time, reaching >90% accuracy on moving handwritten digits in simulation and staying stable for 55 months (Advanced Materials)."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1145528",
+      "source": "EurekAlert! (University of Cambridge)",
+      "category": "science",
+      "published_iso": "2026-09-29T07:00:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-for-mapping-sm.jpg",
+      "excerpt": "Cambridge's open-source Tessera AI model maps smallholder crops across Senegal from satellite imagery with 84% accuracy using limited training data, 28% better than competing models at low compute cost (Environmental Research: Food Systems)."
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/09/29/terra-quantum-empa-ai-laser-welding-prediction/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-09-29T11:59:10Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-29_16-57.png",
+      "excerpt": "Terra Quantum and Swiss lab Empa developed an AI model that predicts 3D temperature fields and melt-pool boundaries in laser welding within milliseconds, replacing slow physics simulations for process control."
     },
     {
       "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/a-hidden-bias-of-ai-revealed",
@@ -97,31 +91,15 @@
       "category": "science",
       "published_iso": "2026-09-27T14:51:18Z",
       "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic71941.jpg?itok=ueT9q5vm",
-      "excerpt": "A Harvard University study reveals LLMs, like people, make assumptions about competence and trustworthiness based on facial features."
+      "excerpt": "A Harvard study finds LLMs judge trustworthiness and competence from facial appearance like humans do, with even stronger appearance bias than people on competence, and none of the tested models declined the biased judgments."
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1145309",
-      "source": "EurekAlert!",
+      "url": "https://www.genengnews.com/topics/bioprocessing/ginkgo-datapoints-apheris-announce-founding-members-of-antibody-developability-consortium/",
+      "source": "GEN",
       "category": "science",
-      "published_iso": "2026-09-24T05:45:49Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/06606852-ed6c-46ef-9b3f-bdad7fac73bb/Rendition/thumbnail/Content/Public",
-      "excerpt": "A brain-computer interface study details how the motor cortex ('mirror neurons') responds when people watch actions by agents that appear more or less human."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1144797",
-      "source": "EurekAlert!",
-      "category": "science",
-      "published_iso": "2026-09-20T06:56:11Z",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59943c58-c33e-416f-ab4e-a82c32932e3b/Rendition/thumbnail/Content/Public",
-      "excerpt": "Renmin University physicists built PhononBench, a large phonon-based benchmark using the MatterSim-v1 ML interatomic potential, showing many AI-generated crystals are dynamically unstable."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1145222",
-      "source": "EurekAlert!",
-      "category": "science",
-      "published_iso": "2026-09-24T14:00:35Z",
-      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-      "excerpt": "Washington State University-led research finds AI can correct medical misinformation effectively, but the tone of the correction determines whether people accept it."
+      "published_iso": "2026-09-29T17:21:15Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/03/Getty_1914734029_Antibody.jpg",
+      "excerpt": "Ginkgo Datapoints and Apheris named AbbVie, argenx, Lundbeck and Takeda as founding members of a federated consortium building the largest standardized antibody-developability dataset, designed explicitly for training ML models that predict manufacturability risk (data access early 2027)."
     }
   ]
 }

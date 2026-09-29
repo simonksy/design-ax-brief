@@ -1,7 +1,33 @@
-{"date":"2026-09-29","section":"design","media":[
-{"id":"design-coreldraw-text-to-vector","type":"image","src":"pipeline/media/design-coreldraw-text-to-vector.jpg"},
-{"id":"design-usertesting-mcp-servers","type":"image","src":"pipeline/media/design-usertesting-mcp-servers.jpg"},
-{"id":"design-google-flow-nano-banana-2-1-leak","type":"image","src":"pipeline/media/design-google-flow-nano-banana-2-1-leak.jpg"},
-{"id":"design-react-ai-reasoning-states","type":"image","src":"pipeline/media/design-react-ai-reasoning-states.png"},
-{"id":"design-viral-ai-animation-character-controversy","type":"video","src":"pipeline/media/design-viral-ai-animation-character-controversy.mp4","poster":"pipeline/media/design-viral-ai-animation-character-controversy.jpg"}
-]}
+{
+  "date": "2026-09-30",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-adobe-chatgpt-editing",
+      "type": "image",
+      "src": "pipeline/media/design-adobe-chatgpt-editing.png"
+    },
+    {
+      "id": "design-claude-sonnet-5-5",
+      "type": "video",
+      "src": "pipeline/media/design-claude-sonnet-5-5.mp4",
+      "poster": "pipeline/media/design-claude-sonnet-5-5.jpg"
+    },
+    {
+      "id": "design-de-slopify",
+      "type": "image",
+      "src": "pipeline/media/design-de-slopify.png"
+    },
+    {
+      "id": "design-openai-dots-mascots",
+      "type": "image",
+      "src": "pipeline/media/design-openai-dots-mascots.jpg"
+    },
+    {
+      "id": "design-meta-hologram-avatars",
+      "type": "video",
+      "src": "pipeline/media/design-meta-hologram-avatars.mp4",
+      "poster": "pipeline/media/design-meta-hologram-avatars.jpg"
+    }
+  ]
+}

@@ -1,147 +1,163 @@
 {
-  "date": "2026-09-29",
-  "section": "design",
+  "date": "2026-09-30",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "title": "CorelDRAW now has an AI tool that designers might actually use",
-      "published_iso": "2026-09-28T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Cc7Agjdq4cD8sy3c8yjz6f-1600-80.jpg",
-      "excerpt": "CorelDRAW's September update adds Text-to-Vector AI, generating editable vector illustrations from prompts rather than flat raster output."
-    },
-    {
-      "url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "title": "Viral AI animation sparks controversy over familiar character design",
-      "published_iso": "2026-09-28T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg",
-      "excerpt": "A viral AI-generated animation draws backlash for a character design that closely echoes an existing IP, reopening the originality debate around generative art."
-    },
-    {
-      "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb",
-      "source": "UX Collective",
+      "url": "https://blog.adobe.com/en/publish/2026/09/29/openai-devday-2026-introducing-hands-on-editing-adobe-plugin-chatgpt",
+      "source": "Adobe Blog",
       "category": "figma",
-      "title": "How we save entry-level UX work that teaches craft in the time of AI",
-      "published_iso": "2026-09-27T19:38:02Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*jEoYbMBhs4xVSaPrjdi6Tg.png",
-      "excerpt": "Patrick Neeman argues that AI now does the transcript tagging, theming and clipping juniors used to learn on, and proposes seven tasks UX teams should keep for humans to build the design bench for 2030."
+      "published_iso": "2026-09-29T00:00:00Z",
+      "og_image": "https://blog.adobe.com/en/publish/2026/09/29/media_1047d7d7a561478527243a678cd2c060c7aa018f9.png?width=1200&format=pjpg&optimize=medium",
+      "excerpt": "Announced at OpenAI DevDay 2026: Adobe's ChatGPT plugin gains interactive, hands-on editors for images, designs and PDFs, powered by Photoshop and Adobe Express, so users can describe an edit in chat and then fine-tune it by hand in the panel. (page gives date only: 09-29-2026)"
     },
     {
-      "url": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a",
-      "source": "UX Collective",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch",
       "category": "figma",
-      "title": "Regulating AI, Quantifying stress, The variance problem",
-      "published_iso": "2026-09-28T11:14:59Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*3BXMWGck9122_9zB.png",
-      "excerpt": "UX Collective's weekly roundup argues AI governance should be treated like a living product iterated by design teams, not a one-shot waterfall bill."
+      "published_iso": "2026-09-29T17:15:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+      "excerpt": "OpenAI is expanding ChatGPT plugins with dedicated sidebar surfaces, app-like interfaces and automations; Canva, Figma and Adobe are among the named early examples of apps that render UI inside ChatGPT."
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch",
+      "category": "figma",
+      "published_iso": "2026-09-29T17:15:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "excerpt": "OpenAI is expanding Codex with reusable cloud development environments that persist across devices, which lowers setup friction for prompt-to-app and vibe-coding workflows."
+    },
+    {
+      "url": "https://dev.to/maryam_zare_3fd580d8abbb1/vibe-was-never-the-problem-but-the-missing-half-starts-before-the-build-5m2",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-09-29T21:41:23Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzljviz08085keuvxeur2.png",
+      "excerpt": "An essay arguing that vibe coding isn't the problem; the missing half is the specification, design and engineering thinking that has to happen before an AI agent starts building."
+    },
+    {
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "Anthropic",
+      "category": "figma",
+      "published_iso": "2026-09-28T00:00:00Z",
+      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg",
+      "excerpt": "Anthropic released Claude Sonnet 5.5 (Sept 28, 2026): 30%+ faster and up to 30% cheaper than Sonnet 5. It is strongest on everyday tasks and polished documents, slides and spreadsheets, and Anthropic says it has 'a sharp eye for design'. (page gives date only)"
+    },
+    {
+      "url": "https://runwayml.com/news/company-news/runway-openai-marketplace",
+      "source": "Runway",
+      "category": "render",
+      "published_iso": "2026-09-29T15:19:00.000Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/v2092826-openai-casestudy-c-ff45e702-aa7b-484e-8ad2-6c3d3153ea74.png",
+      "excerpt": "Runway joins the OpenAI Marketplace as a launch partner. Enterprise teams can now purchase the best from Runway and other labs into one workspace, including Gen-4.5, Seedance 2.5, GPT Image 2.5 and ElevenLabs V4."
+    },
+    {
+      "url": "https://runwayml.com/news/customers/bonjour",
+      "source": "Runway",
+      "category": "render",
+      "published_iso": "2026-09-28T23:46:29.430Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092526-bonjourdrink-casestudy-c4779e54-694a-494d-907e-490741f78572.png",
+      "excerpt": "The French beverage company’s 15-person creative pod turns one ad script into several animated styles in Runway, testing which one wins on Meta within days."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
       "source": "The Verge",
       "category": "workflow",
-      "title": "OpenAI’s AI agents need to catch up",
-      "published_iso": "2026-09-28T18:45:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "A rumored new ‘Aeon’ platform could be entering a crowded market of 24/7 assistants."
+      "published_iso": "2026-09-29T16:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "The Verge's roundup of OpenAI DevDay 2026 covers GPT-6.1 Sol, dots agents, ChatGPT plugins with app-like UI, Codex updates and new builder tools."
+    },
+    {
+      "url": "https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-09-29T17:15:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/l-intro-1790701640.jpg",
+      "excerpt": "OpenAI launched dots, always-on personal agents that each have their own visual character. Users will soon be able to run several of them at once."
+    },
+    {
+      "url": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-09-29T19:30:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/1-openai-embargo-news.jpg",
+      "excerpt": "A design read on OpenAI's new dots agents: instead of the void logo, each dot gets a cute, blobby character design (a triangle with a bow tie, a bunny and others), a deliberate branding shift for agentic AI. (date/body from the FC RSS feed; site returns 403)"
     },
     {
       "url": "https://www.fastcompany.com/91612548/ikea-ai-benchmark",
       "source": "Fast Company",
       "category": "workflow",
-      "title": "Even AI can't perfectly assemble Ikea furniture—yet",
-      "published_iso": "2026-09-28T11:00:00-04:00",
+      "published_iso": "2026-09-28T11:00:00Z",
       "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612548-epoch-ai-ikea-instructions-AI-test-furniture-assembly-benchmark.jpg",
-      "excerpt": "Epoch AI researchers use Ikea assembly instructions as a benchmark for spatial reasoning, showing frontier models still stumble on reading visual product instructions."
+      "excerpt": "Epoch AI's Furniture Assembly Benchmark uses Ikea instruction manuals to test AI models' spatial reasoning. Even top models still can't reliably assemble the furniture. (date/body from the FC RSS feed)"
     },
     {
-      "url": "https://www.fastcompany.com/91611631/eth-zurich-soft-robotocs-lab-robotic-hand",
+      "url": "https://www.fastcompany.com/91613399/agibot-robot-china-theme-park-attraction",
       "source": "Fast Company",
-      "category": "cad",
-      "title": "How a character from 'The Addams Family' is shaping the future of robotics",
-      "published_iso": "2026-09-28T10:00:00-04:00",
-      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91611631-soft-robotics-lab.jpg",
-      "excerpt": "ETH Zurich's Soft Robotics Lab designed a self-contained robotic hand that crawls, balances and manipulates objects on its own, a modular approach to physical-AI product design."
+      "category": "vr",
+      "published_iso": "2026-09-29T10:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/8-91613399-agibot-robots-in-parks.jpg",
+      "excerpt": "AgiBot has released 300+ autonomous, mostly humanoid robots into Chimelong Spaceship Park in Zhuhai, where they roam freely among visitors. It's the largest public embodied-AI deployment yet and a live test of how robot design meets people. (date/body from the FC RSS feed)"
     },
     {
-      "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "figma",
-      "title": "Claude Sonnet 5.5 now available on AI Gateway",
-      "published_iso": "2026-09-28T00:00+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1nxbUaUVfuEnDEKT9lRXrY/a709d6455cfbd73f7ef021e13322f8b4/Vercel_x_Anthropic.png",
-      "excerpt": "Access Claude Sonnet 5.5 through Vercel AI Gateway with the AI SDK, compatible APIs, or coding agents for coding, clearer writing, and polished documents."
+      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-09-29T21:39:48Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*8HZbm_CuQ7CumOwEIQYm4w.png",
+      "excerpt": "Tips for anyone who vibecodes: people can spot and dislike AI slop but don't know how to fix it. This piece gives designers concrete ways to de-slopify AI-generated interfaces. (date/body from the Medium RSS feed; site is Cloudflare-walled)"
     },
     {
-      "url": "https://dev.to/codeideal/atomcut-made-its-own-intro-using-opus-55-launch-motion-design--2pg9",
-      "source": "DEV Community",
-      "category": "figma",
-      "title": "AtomCut made its own intro using Opus 5.5 ( Launch Motion design )",
-      "published_iso": "2026-09-27T21:29:46Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6iro9tfd9zd404odpt1f.png",
-      "excerpt": "AtomCut shows a launch motion-design intro built entirely by Claude Opus 5.5 driving its AtomCut MCP, an example of agent-generated motion graphics."
+      "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-09-29T03:41:54Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg",
+      "excerpt": "From specialist makers to strategic orchestrators: the piece argues that when AI compresses execution time, demand for design vision and systems thinking goes up, which is the Jevons paradox applied to design. (RSS has a teaser only)"
     },
     {
-      "url": "https://dev.to/ifynx_studio/usertestings-mcp-servers-ai-product-teams-need-human-insight-inside-the-loop-1fmc",
-      "source": "DEV Community",
-      "category": "tokens",
-      "title": "UserTesting’s MCP Servers: AI Product Teams Need Human Insight Inside the Loop",
-      "published_iso": "2026-09-28T06:56:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fifynx.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fusertesting-mcp-servers-ai-research-work-hero-20260928091425.jpg",
-      "excerpt": "UserTesting launched Model Context Protocol servers on Sept 25, turning human research insight into a tool call AI product and design teams can pull into agent workflows."
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/",
+      "source": "Google Blog",
+      "category": "workflow",
+      "published_iso": "2026-09-29T16:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Title_card.width-1300.png",
+      "excerpt": "Artists Xin Liu and Eunjo Lee used Google AI to create new artworks with LAS Art Foundation and Google Arts & Culture Lab."
     },
     {
-      "url": "https://dev.to/ramyasri_gade_e3a15d0d31c/rendering-complex-ai-reasoning-states-in-a-react-dashboard-32mk",
-      "source": "DEV Community",
-      "category": "tokens",
-      "title": "Rendering Complex AI Reasoning States in a React Dashboard",
-      "published_iso": "2026-09-28T16:59:08Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdexj40y4ucz5iqs06ba7.png",
-      "excerpt": "A UI pattern walkthrough for surfacing an AI agent's live reasoning states in a dashboard so human operators can follow what it is doing."
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "source": "Google Blog",
+      "category": "workflow",
+      "published_iso": "2026-09-28T16:30:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.width-1300.png",
+      "excerpt": "Google Arts & Culture turns 15 with an app redesign: visual-first conversational search, a redesigned home feed, AI experiments and 27 new city guides."
     },
     {
-      "url": "https://www.engineering.com/synopsys-introduces-agentengineer-solutions-for-engineering/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "title": "Synopsys introduces AgentEngineer solutions for engineering",
-      "published_iso": "2026-09-28T14:37:39+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/Fig1-Synopsys-introduces-AgentEngineer-solutions-for-engineering.jpg",
-      "excerpt": "The solutions run on the Autopilot Platform, with more than 50 engagements underway and general availability planned for late 2026."
+      "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
+      "source": "UploadVR",
+      "category": "vr",
+      "published_iso": "2026-09-28T01:07:44.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png",
+      "excerpt": "Meta Ray-Ban Display launches in the UK and Canada and gets new features, including AI-driven 'Hologram' avatars for WhatsApp video calls (set up from a face scan plus sample speech) and Meta AI calendar access."
     },
     {
-      "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
-      "source": "TestingCatalog",
-      "category": "render",
-      "title": "New Google Flow build now points to Nano Banana 2.1",
-      "published_iso": "2026-09-27T14:28:18Z",
-      "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/09/Google-Flow-----Sept-24-00-52-09-25-2026_10_28_PM.jpg",
-      "excerpt": "A new Google Flow web build labels an upcoming image model as Nano Banana 2.1, replacing an earlier 2.5 Flash reference; Google has not announced it yet."
+      "url": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
+      "source": "UploadVR",
+      "category": "vr",
+      "published_iso": "2026-09-28T21:36:27.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
+      "excerpt": "Liminal is taking its wellness approach outside the headset. Liminal: Walking Meditation uses Meta AI glasses to create a spoken meditation around what you actually see."
     },
     {
-      "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-      "source": "Engadget",
-      "category": "cad",
-      "title": "Humanoid robots are getting even creepier (this one can cry on command) - Engadget",
-      "published_iso": "2026-09-27T13:15:00Z",
-      "og_image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-      "excerpt": "Humanoid robots such as the Yansyn-X2 are being designed to mimic human emotion, including crying on command, raising uncanny-valley questions for robot product design."
-    },
-    {
-      "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
-      "source": "The Decoder",
-      "category": "cad",
-      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
-      "published_iso": "2026-09-27T10:59:11Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/09/robot_kitchen_astra-1200x670.png",
-      "excerpt": "Stanford and Caltech's HomeBody system lets GPT-6 Astra call modular robot skills directly, and a humanoid independently tidied an unfamiliar kitchen without a trained control layer."
+      "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
+      "source": "Road to VR",
+      "category": "vr",
+      "published_iso": "2026-09-28T12:00:00+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg",
+      "excerpt": "Hands-on with Meta's 'Hologram' avatars from Connect: voice-driven, AI-infused 2.5D photoreal avatars that Meta positions against Apple Personas for its VR and display glasses."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 17,
+    "kept": 21,
     "against_days": 5
   }
 }
