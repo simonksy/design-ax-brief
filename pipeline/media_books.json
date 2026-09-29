@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "books",
   "media": [
     {
-      "id": "books-mvb-snackz-metadata",
+      "id": "books-demarque-elevenlabs",
       "type": "image",
-      "src": "pipeline/media/books-mvb-snackz-metadata.jpg"
+      "src": "pipeline/media/books-demarque-elevenlabs.jpg"
     },
     {
-      "id": "books-ai-secrecy-authors",
+      "id": "books-bisg-ai-survey",
       "type": "image",
-      "src": "pipeline/media/books-ai-secrecy-authors.jpg"
+      "src": "pipeline/media/books-bisg-ai-survey.jpg"
     },
     {
-      "id": "books-soundgrab-cinema-audiobook",
+      "id": "books-ai-label-korea",
       "type": "image",
-      "src": "pipeline/media/books-soundgrab-cinema-audiobook.png"
+      "src": "pipeline/media/books-ai-label-korea.jpg"
     },
     {
-      "id": "books-translator-ai-post-editing",
+      "id": "books-mentat-licensing",
       "type": "image",
-      "src": "pipeline/media/books-translator-ai-post-editing.jpg"
+      "src": "pipeline/media/books-mentat-licensing.png"
     },
     {
-      "id": "books-grandmaslop-ai-storybooks",
+      "id": "books-tanapaev-translation",
       "type": "image",
-      "src": "pipeline/media/books-grandmaslop-ai-storybooks.jpg"
+      "src": "pipeline/media/books-tanapaev-translation.jpg"
     }
   ]
 }

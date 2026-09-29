@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "science",
   "media": [
     {
-      "id": "science-ai-summary-memory",
+      "id": "science-tessera",
       "type": "image",
-      "src": "pipeline/media/science-ai-summary-memory.jpg"
+      "src": "pipeline/media/science-tessera.jpg"
     },
     {
-      "id": "science-cyan-reaction-kinetics",
+      "id": "science-glueplex",
       "type": "image",
-      "src": "pipeline/media/science-cyan-reaction-kinetics.jpg"
+      "src": "pipeline/media/science-glueplex.jpg"
     },
     {
-      "id": "science-ai-marrvel-brsk1",
+      "id": "science-xecg",
       "type": "image",
-      "src": "pipeline/media/science-ai-marrvel-brsk1.jpg"
+      "src": "pipeline/media/science-xecg.jpg"
     },
     {
-      "id": "science-ai-discovery-claims",
+      "id": "science-reservoir-chip",
       "type": "image",
-      "src": "pipeline/media/science-ai-discovery-claims.jpg"
+      "src": "pipeline/media/science-reservoir-chip.jpg"
     },
     {
-      "id": "science-llm-pain-signal",
+      "id": "science-face-bias",
       "type": "image",
-      "src": "pipeline/media/science-llm-pain-signal.jpg"
+      "src": "pipeline/media/science-face-bias.jpg"
     }
   ]
 }

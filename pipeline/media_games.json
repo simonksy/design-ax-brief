@@ -1,7 +1,31 @@
-{"date":"2026-09-29","section":"games","media":[
-{"id":"games-ubisoft-motherbrain","type":"image","src":"pipeline/media/games-ubisoft-motherbrain.jpg"},
-{"id":"games-mario-galaxy-human-port","type":"video","src":"pipeline/media/games-mario-galaxy-human-port.mp4","poster":"pipeline/media/games-mario-galaxy-human-port.jpg"},
-{"id":"games-dlss5-amd-rx9070xt","type":"image","src":"pipeline/media/games-dlss5-amd-rx9070xt.jpg"},
-{"id":"games-twitch-ai-disclosure","type":"image","src":"pipeline/media/games-twitch-ai-disclosure.jpg"},
-{"id":"games-ff7-revelation-pssr","type":"image","src":"pipeline/media/games-ff7-revelation-pssr.jpg"}
-]}
+{
+  "date": "2026-09-30",
+  "section": "games",
+  "media": [
+    {
+      "id": "games-meta-horizon-studio",
+      "type": "image",
+      "src": "pipeline/media/games-meta-horizon-studio.jpg"
+    },
+    {
+      "id": "games-secretsauce-labs",
+      "type": "image",
+      "src": "pipeline/media/games-secretsauce-labs.jpg"
+    },
+    {
+      "id": "games-onestore-ai-games",
+      "type": "image",
+      "src": "pipeline/media/games-onestore-ai-games.jpg"
+    },
+    {
+      "id": "games-hive-axil",
+      "type": "image",
+      "src": "pipeline/media/games-hive-axil.jpg"
+    },
+    {
+      "id": "games-brood-war-bench",
+      "type": "image",
+      "src": "pipeline/media/games-brood-war-bench.jpg"
+    }
+  ]
+}

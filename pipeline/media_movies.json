@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "movies",
   "media": [
     {
-      "id": "movies-kling-4-you-call-the-shots",
+      "id": "movies-don-quixote-ai-limits",
+      "type": "image",
+      "src": "pipeline/media/movies-don-quixote-ai-limits.jpg"
+    },
+    {
+      "id": "movies-runway-agent-tagging",
       "type": "video",
-      "src": "pipeline/media/movies-kling-4-you-call-the-shots.mp4",
-      "poster": "pipeline/media/movies-kling-4-you-call-the-shots.jpg"
+      "src": "pipeline/media/movies-runway-agent-tagging.mp4",
+      "poster": "pipeline/media/movies-runway-agent-tagging.jpg"
     },
     {
-      "id": "movies-meta-muse-alibaba-seedance-rival",
+      "id": "movies-the-gifted-xprize",
+      "type": "image",
+      "src": "pipeline/media/movies-the-gifted-xprize.jpg"
+    },
+    {
+      "id": "movies-2d-live-action-workflow",
       "type": "video",
-      "src": "pipeline/media/movies-meta-muse-alibaba-seedance-rival.mp4",
-      "poster": "pipeline/media/movies-meta-muse-alibaba-seedance-rival.jpg"
+      "src": "pipeline/media/movies-2d-live-action-workflow.mp4",
+      "poster": "pipeline/media/movies-2d-live-action-workflow.jpg"
     },
     {
-      "id": "movies-alan-smithee-roundtable-ai-future",
+      "id": "movies-steelray-100-ai",
       "type": "image",
-      "src": "pipeline/media/movies-alan-smithee-roundtable-ai-future.jpg"
-    },
-    {
-      "id": "movies-connie-he-dear-upstairs-neighbors-veo",
-      "type": "image",
-      "src": "pipeline/media/movies-connie-he-dear-upstairs-neighbors-veo.jpg"
-    },
-    {
-      "id": "movies-barron-call-of-the-wild-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-barron-call-of-the-wild-ai.jpg"
+      "src": "pipeline/media/movies-steelray-100-ai.jpg"
     }
   ]
 }

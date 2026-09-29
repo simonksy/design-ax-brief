@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-pixel-buds-gemini",
-      "type": "image",
-      "src": "pipeline/media/gadgets-pixel-buds-gemini.jpg"
-    },
-    {
-      "id": "gadgets-liminal-walking-meditation",
+      "id": "gadgets-flourish-humanoid",
       "type": "video",
-      "src": "pipeline/media/gadgets-liminal-walking-meditation.mp4",
-      "poster": "pipeline/media/gadgets-liminal-walking-meditation.jpg"
+      "src": "pipeline/media/gadgets-flourish-humanoid.mp4",
+      "poster": "pipeline/media/gadgets-flourish-humanoid.jpg"
     },
     {
-      "id": "gadgets-prismml-snapdragon-glasses",
+      "id": "gadgets-eufy-s4-doorbell",
       "type": "image",
-      "src": "pipeline/media/gadgets-prismml-snapdragon-glasses.jpg"
+      "src": "pipeline/media/gadgets-eufy-s4-doorbell.jpg"
     },
     {
-      "id": "gadgets-gorgon-halo-minipc",
+      "id": "gadgets-gemini-find-hub-docs",
       "type": "image",
-      "src": "pipeline/media/gadgets-gorgon-halo-minipc.jpg"
+      "src": "pipeline/media/gadgets-gemini-find-hub-docs.jpg"
     },
     {
-      "id": "gadgets-ai-toothbrush-era",
+      "id": "gadgets-m5-ultra-mac-studio",
       "type": "image",
-      "src": "pipeline/media/gadgets-ai-toothbrush-era.jpg"
+      "src": "pipeline/media/gadgets-m5-ultra-mac-studio.jpg"
+    },
+    {
+      "id": "gadgets-translation-earbuds",
+      "type": "image",
+      "src": "pipeline/media/gadgets-translation-earbuds.jpg"
     }
   ]
 }

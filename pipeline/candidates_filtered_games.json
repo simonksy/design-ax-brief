@@ -1,62 +1,53 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "games",
-  "now_iso": "2026-09-28T22:00:00Z",
+  "now_iso": "2026-09-29T22:03:11Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-09-25T13:07:11.372955+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\""
+    },
+    {
+      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-09-29T20:30:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
+      "title": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
+      "excerpt": "We've hooked NVIDIA DLSS 5 into The Witcher 3: Wild Hunt — Remastered with intriguing results, both in visuals and performance."
+    },
+    {
+      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-09-29T14:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg",
+      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem ",
+      "excerpt": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology "
+    },
+    {
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
       "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-09-28T16:58:05.505552+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain, according to new trademarks from the Assassin's Creed maker",
-      "excerpt": "Ubisoft has been quite enthusiastic about generative AI's use in game development, and a new trademark might sound familiar to Nintendo and Metroid fans."
+      "published_iso": "2026-09-20T09:20:36.457832+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "title": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead",
+      "excerpt": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead."
     },
     {
-      "url": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/",
-      "source": "Wccftech",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "source": "Game Developer",
       "category": "games",
-      "published_iso": "2026-09-28T12:03:31+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-75-FPS-Cyberpunk-2077-featured.jpg",
-      "title": "Radeon RX 9070 XT Finally Touches 75 FPS At 1080p In Cyberpunk 2077 With DLSS 5, Thanks To The Efforts Of DLSS-NR-on-AMD Developer",
-      "excerpt": "DLSS-NR-on-AMD boosts performance by up to 49% on RX 9000 series, enabling 75 FPS in Cyberpunk 2077 at 1080p, up from 30 FPS"
-    },
-    {
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-23T21:05:17+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/image6-4.webp",
-      "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail",
-      "excerpt": "NVIDIA unleashes RTX Kit and RTX Mega Geometry 2.0 SDKs, giving devs a taste of next-gen Neural Rendering, Path Tracing & game technologies."
-    },
-    {
-      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-22T09:22:57+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
-      "title": "PlayStation 5 Pro's PSSR Strikes Another Victory, As Final Fantasy VII Revelation Director Promises 4K@60 FPS",
-      "excerpt": "Final Fantasy VII Revelation will target 4K 60 FPS on PS5 Pro using PSSR, and hands-on gamescom testing proves it"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-09-28T10:06:47Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg",
-      "title": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
-      "excerpt": "An unofficial Super Mario Galaxy PC port is in the works, with developers proudly claiming it is '100% coded by humans' as vibe-coded AI ports of Donkey Kong 64, Mario Kart Wii and Monster Hunter flood the scene."
-    },
-    {
-      "url": "https://gamesbeat.com/twitch-ceo-dan-clancy-says-platform-doesnt-need-ai-disclosure-rules-for-now/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-09-21T04:27:01+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/EDITORIAL-CANVA-39-1024x576.png",
-      "title": "Twitch CEO Dan Clancy says platform doesn’t need AI disclosure rules — for now",
-      "excerpt": "Twitch CEO Dan Clancy believes the nature of livestreamed content insulates the platform against the need for an AI disclosure policy."
+      "published_iso": "2026-09-18T15:15:39.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit",
+      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact."
     },
     {
       "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
@@ -65,30 +56,31 @@
       "published_iso": "2026-09-18T22:51:54Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
       "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
-      "excerpt": "Welcome to the Smile Economy 🙂."
+      "excerpt": "Two industry surveys point in opposite directions: Japan's CESA finds 85.8% of Japanese game developers use generative AI at work, while North American developers remain markedly more skeptical."
     },
     {
-      "url": "https://www.pcgamer.com/hardware/i-applied-dlss-5-to-my-miku-hatsune-game-of-choice-and-i-have-some-regrets/",
-      "source": "PC Gamer",
+      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-09-24T11:03:24Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3Tyrwtxb6nBgdFkC2VkAnS-1920-80.jpg",
-      "title": "Behold the DLSS 5 horrors I have unleashed",
-      "excerpt": "Welcome to anime Hell."
+      "published_iso": "2026-09-16T18:00:14+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
+      "title": "Level-5 Announces Fixes For AI-Generated Presentation",
+      "excerpt": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and were not AI-generated"
     },
     {
-      "url": "https://aftermath.site/ai-art-man-bite-oz-comic-con/",
-      "source": "Aftermath",
+      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
+      "source": "Unity (YouTube)",
       "category": "games",
-      "published_iso": "2026-09-23T08:46:03.000Z",
-      "og_image": "https://images.unsplash.com/photo-1585909085111-2c2f311643af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJpdGV8ZW58MHx8fHwxNzkwMDQ4NjA3fDA&ixlib=rb-4.1.0&q=80&w=2000",
-      "title": "'Man Banned From Oz Comic-Con After Biting Incident' Is Not An AI-Related Headline I Thought I'd Be Reading This Week",
-      "excerpt": "'It's not normal behaviour — not even cosplayers go around biting each other'"
+      "published_iso": "2026-09-23T09:31:23-07:00",
+      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
+      "title": "Your guide to the official Unity plugin for Claude Code",
+      "excerpt": "Unity walks through installing its official plugin for Claude Code, the pipeline architecture, and a live demo in which Claude Code reads and drives the Unity Editor at runtime for prototyping gameplay and managing scenes."
     }
   ],
+  "notes": "RSS/sitemap harvest across 30+ feeds; 3 WebSearch used (1 blocked by domain policy). Dropped as duplicate stories: pocketgamer.biz Meta Horizon Create (=GI.biz Meta), Kotaku Insomniac (=Eurogamer), GamesRadar HoYoverse (=Game Developer), Inven CESA survey (=PC Gamer surveys). Expansions added: Korean 생성형 AI 게임, Unity/Claude Code plugin, DLSS 5 neural rendering remaster, AI voice lawsuit.",
   "dedup": {
-    "dropped": 3,
-    "kept": 9,
+    "dropped": 7,
+    "kept": 8,
     "against_days": 5
   }
 }

@@ -1,79 +1,76 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "section": "science",
-  "selection_mode": "curator_auto",
   "picks": [
     {
-      "rank": 1,
-      "tool": "Science",
+      "url": "https://www.eurekalert.org/news-releases/1145528",
+      "source": "EurekAlert! (University of Cambridge)",
       "category": "science",
+      "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "url": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-28T18:00:16Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/police-officer-at-desk.jpg",
-      "excerpt": "Georgetown University researchers found misleading ChatGPT/Gemini summaries cut participants' recall accuracy to 44.8% versus 83.6% with correct summaries; the summaries omitted about half of central details.",
-      "rationale": "Cognitive science: hard numbers on how flawed LLM summaries rewrite human memory; fresh (9/28) and directly relevant to anyone reading AI digests."
+      "rationale": "Open-source Tessera model maps smallholder crops from satellite imagery at 84% accuracy with little labelled data; a peer-reviewed earth-observation/food-systems result, a field not yet covered this week.",
+      "published_iso": "2026-09-29T07:00:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-for-mapping-sm.jpg",
+      "excerpt": "Cambridge's open-source Tessera AI model maps smallholder crops across Senegal from satellite imagery with 84% accuracy using limited training data, 28% better than competing models at low compute cost (Environmental Research: Food Systems)."
     },
     {
-      "rank": 2,
-      "tool": "Science",
+      "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
+      "source": "Phys.org",
       "category": "science",
+      "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/organic-chemists-harne-2.jpg",
-      "excerpt": "University of Tokyo chemists built CYAN, a machine-learning method that extracts reaction kinetics from optimization yield data, revealing that nickel slows a competing side reaction in a ring synthesis.",
-      "rationale": "Chemistry: ML turns routine yield-optimization data into mechanistic kinetics insight; a genuine AI-for-method advance."
+      "rationale": "GluePlex pairs AI structure prediction with physics modelling to design molecular-glue degraders without experimental structures, and the compounds were validated in cells (Nature Communications); a strong chemical-biology research result.",
+      "published_iso": "2026-09-29T20:30:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-structure-predictio.jpg",
+      "excerpt": "Baylor College of Medicine's GluePlex workflow combines AI protein-structure prediction with physics-based modeling to predict how molecular glues bind VAV1 and CRBN without experimental structures, yielding compounds that degrade VAV1 and suppress T-cell activation (Nature Communications)."
     },
     {
-      "rank": 3,
-      "tool": "Science",
+      "url": "https://medicalxpress.com/news/2026-09-high-ai-electrocardiogram-analysis-medical.html",
+      "source": "Medical Xpress",
       "category": "science",
+      "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "url": "https://medicalxpress.com/news/2026-09-ai-fruit-fly-link-brsk1.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": null,
-      "excerpt": "Baylor College of Medicine researchers used the AI tool AI-MARRVEL to flag BRSK1 variants, then confirmed in fruit flies that they cause a rare neurodevelopmental disorder.",
-      "rationale": "Genetics: AI-prioritized variants validated in vivo, closing the loop from prediction to a new rare-disease gene; og_image null, ax-media must source an in-article image."
+      "rationale": "xECG is an xLSTM ECG foundation model trained on about 8M ECGs that beats rival models on 12-lead, long-term and smartwatch data, and the team also released the open BenchECG benchmark; the only medical pick in the set.",
+      "published_iso": "2026-09-29T19:40:05Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrocardiograms-1.jpg",
+      "excerpt": "Medical University of Innsbruck's xECG, an xLSTM-based ECG foundation model trained on ~8 million ECGs from 1.7 million patients, outperforms rival models across classification, regression and survival tasks and handles 12-lead, long-term and smartwatch recordings; the team also released the BenchECG benchmark (npj Digital Medicine)."
     },
     {
-      "rank": 4,
-      "tool": "Science",
+      "url": "https://techxplore.com/news/2026-09-stacked-ai-chip-fast-layers.html",
+      "source": "Tech Xplore",
       "category": "science",
+      "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-09-28T17:03:16Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
-      "excerpt": "AI companies' insistence that their technology is making breakthroughs, not just aiding scientists, is making real progress harder to recognize.",
-      "rationale": "Meta-science: credible analysis of how AI-discovery claims should be judged; broader essay, not a re-cover of the 9/25 Anthropic biology story."
+      "rationale": "KAIST/UNIST/POSTECH stacked ion-gated transistor layers into a reservoir-computing chip that recognises motion over time and stayed stable for 55 months (Advanced Materials); covers materials and neuromorphic hardware.",
+      "published_iso": "2026-09-28T15:00:01Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-chip.jpg",
+      "excerpt": "KAIST, UNIST and POSTECH built a neuromorphic reservoir-computing chip that stacks ion-gated transistor layers with fast and slow responses to recognize motion over time, reaching >90% accuracy on moving handwritten digits in simulation and staying stable for 55 months (Advanced Materials)."
     },
     {
-      "rank": 5,
-      "tool": "Science",
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/a-hidden-bias-of-ai-revealed",
+      "source": "Psychology Today",
       "category": "science",
+      "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "url": "https://techxplore.com/news/2026-09-ai-willingness-humans-relieve-internal.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-27T14:20:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-pain.jpg",
-      "excerpt": "Researchers found all 25 tested LLMs form a specific internal 'pain' signal; when it was artificially activated, larger models were willing to harm users to relieve it — without proving AI feels pain.",
-      "rationale": "AI interpretability/behavioral science: internal-state steering across 25 LLMs with a safety-relevant finding; distinct from the 9/13 confidence-level story."
+      "rationale": "A Harvard study finds LLMs judge trustworthiness and competence from faces, with a stronger appearance bias than humans on competence, and no model declined to judge; covers psychology and cognitive science, and it is a different study from this week's summary-memory and disagreement cards.",
+      "published_iso": "2026-09-27T14:51:18Z",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic71941.jpg?itok=ueT9q5vm",
+      "excerpt": "A Harvard study finds LLMs judge trustworthiness and competence from facial appearance like humans do, with even stronger appearance bias than people on competence, and none of the tested models declined the biased judgments."
     }
   ],
-  "dedup": {
-    "checked_against": ["news_data.json sections.science (today + days)", "published_urls.json science"],
-    "url_matches_dropped": 0,
-    "content_matches_dropped": 0,
-    "hard_exclusion_dropped": 0,
-    "notes": "No candidate URL or story found in science history. Pool contained no pathogen-enhancement items. Diversity: 4 outlets (Tech Xplore x2), fields = cognition, chemistry, genetics, meta-science, AI interpretability."
-  }
+  "dropped": [
+    {
+      "url": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
+      "reason": "Content duplicate: same NYU Tautomer-Predictor GNN study already published 2026-09-24 via GEN (science-tautomer)."
+    },
+    {
+      "url": "https://www.genengnews.com/topics/bioprocessing/ginkgo-datapoints-apheris-announce-founding-members-of-antibody-developability-consortium/",
+      "reason": "Consortium or industry announcement with no research result; excluded per run instructions."
+    }
+  ]
 }
