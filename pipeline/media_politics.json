@@ -1,30 +1,31 @@
 {
-  "date": "2026-09-30",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-wh-super-intelligence-eo",
-      "type": "image",
-      "src": "pipeline/media/politics-wh-super-intelligence-eo.jpg"
-    },
-    {
-      "id": "politics-ai-voluntary-principles",
-      "type": "image",
-      "src": "pipeline/media/politics-ai-voluntary-principles.jpg"
-    },
-    {
-      "id": "politics-ec-copyright-genai-consultation",
-      "type": "svg"
-    },
-    {
-      "id": "politics-cset-chip-tracking-cost",
-      "type": "svg"
-    },
-    {
-      "id": "politics-researchers-si-danger-videos",
-      "type": "video",
-      "src": "pipeline/media/politics-researchers-si-danger-videos.mp4",
-      "poster": "pipeline/media/politics-researchers-si-danger-videos.jpg"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "politics",
+ "media": [
+  {
+   "id": "politics-ftc-ai-safety-probe",
+   "type": "image",
+   "src": "pipeline/media/politics-ftc-ai-safety-probe.jpg"
+  },
+  {
+   "id": "politics-lasst-openai-suit",
+   "type": "image",
+   "src": "pipeline/media/politics-lasst-openai-suit.jpg"
+  },
+  {
+   "id": "politics-america-gov-eo",
+   "type": "image",
+   "src": "pipeline/media/politics-america-gov-eo.jpg"
+  },
+  {
+   "id": "politics-eu-global-ai-safety",
+   "type": "image",
+   "src": "pipeline/media/politics-eu-global-ai-safety.jpg"
+  },
+  {
+   "id": "politics-huawei-ascend-share",
+   "type": "image",
+   "src": "pipeline/media/politics-huawei-ascend-share.jpg"
+  }
+ ]
 }

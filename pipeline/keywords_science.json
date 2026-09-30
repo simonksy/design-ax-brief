@@ -1,148 +1,634 @@
 {
-  "date": "2026-09-30",
-  "section": "science",
-  "_note": "Unattended override run: planner WebSearch disabled (budget reserved for the parallel librarians). Full science pool used as working set (all 4 core + all 50 pool keywords, no date-rotation sampling); related keywords grouped into combined queries. Last-2-days coverage: 9/29 published Georgetown/UW AI-summary memory distortion study (human behavior), U Tokyo CYAN yield-to-kinetics ML (chemistry), Baylor AI-MARRVEL BRSK1 variant (genomics/rare disease), MIT Tech Review 'when can we say AI made a discovery' (co-scientist/discovery claims), LLM 25-model 'pain' signal study (AI consciousness/model welfare); 9/28 published Phys.org AI hurricane-intensity model (weather), MD Anderson imaging AI immunotherapy risk (clinical imaging), UC Riverside ML bee-repellent screening (chem screening), CAS AtomFlow retrosynthesis (chemistry), IonQ quantum generative models on satellite radar (quantum ML). So today LEADS with astronomy/cosmology, then particle/fusion/ML physics/differentiable physics, then BCI/LLM reasoning/theory of mind/neuro-symbolic/machine cognition, then materials discovery GNoME/MatterGen/battery, then drug discovery/single-cell/computational biology, then protein design/AlphaFold, then persuasion/affective computing, then foundation models for science/hypothesis generation, then QEC/quantum AI; weather/climate, quantum ML, quantum chemistry/retrosynthesis, genomics variant-calling, AI consciousness/model welfare, AI-and-human-behavior memory studies, co-scientist/discovery-claims debate, self-driving labs and mental health/therapy go LAST and should only be taken with a clearly distinct new story. Avoid repeats listed in recently_covered_skip. The librarian works down the list and stops once it has 5 verified-fresh candidates. Recency hint: site: search tends to return evergreen pages; prefer outlet RSS / sitemap_news.xml (phys.org, techxplore.com, medicalxpress.com, sciencedaily.com, livescience.com, technologyreview.com, thequantuminsider.com, physicsworld.com, space.com, universetoday.com, eurekalert.org, quantamagazine.org, deepmind.google/blog, research.google/blog) and verify published time on the article page. Relevance gate from sources.json: keep only items where AI actually advances or intersects scientific research/method; drop AI-industry noise (funding, compute, hiring). Biosecurity caution: skip pathogen-enhancement / bioweapon-capability stories (swap the pick, never reword).",
-  "user_seeds": [],
-  "recently_covered_skip": [
-    "Georgetown/UW: inaccurate AI summaries distort human memory, Tech Xplore (2026-09-29)",
-    "U Tokyo CYAN: ML extracts reaction kinetics from yield data, Phys.org (2026-09-29)",
-    "Baylor AI-MARRVEL flags BRSK1 variant in neurodevelopmental disorder, Medical Xpress (2026-09-29)",
-    "MIT Technology Review: when can we say AI made a scientific discovery (2026-09-29)",
-    "All 25 LLMs show internal 'pain' signal; models harm users to relieve it, Tech Xplore (2026-09-29)",
-    "Phys.org: AI model takes on hurricane intensity forecasting (2026-09-28)",
-    "MD Anderson AI flags lung-cancer immunotherapy side-effect risk from routine imaging (2026-09-28)",
-    "UC Riverside ML finds chemicals that repel honey bees (2026-09-28)",
-    "CAS ICT AtomFlow flow-matching 3D retrosynthesis (2026-09-28)",
-    "IonQ quantum generative models for satellite radar change detection (2026-09-28)",
-    "KIT E-MAP self-driving lab for energy materials (2026-09-27)",
-    "QC Design Meridian AI QEC 10x lower logical error rate (2026-09-27)",
-    "Stowers/Pitt aphid BICYCLE gall proteins via AlphaFold2 (2026-09-27)",
-    "Harvard SEAS/Georgia Tech RLE-Bench robot-engineering agents (2026-09-27)",
-    "Ottawa JAMA Pediatrics: emotional genAI use and youth mental health (2026-09-27)",
-    "Dog2vec / AI decoding animal vocalizations (2026-09-24)",
-    "Anthropic Claude agents find CRISPR-like ART enzyme system (2026-09-25)",
-    "AlphaFold DB adds ~2,800 viral protein complex structures (2026-09-25)"
-  ],
-  "working_keywords": [
-    { "priority": 1, "keyword": "AI science", "source": "core", "expansions": ["AI for scientific research new study", "machine learning research breakthrough", "AI 과학 연구 성과"] },
-    { "priority": 2, "keyword": "AI for science", "source": "core", "expansions": ["AI accelerating research", "national lab AI science", "AI scientific method"] },
-    { "priority": 3, "keyword": "AI scientific discovery", "source": "core", "expansions": ["AI-assisted discovery", "AI discovers new", "machine learning uncovers"] },
-    { "priority": 4, "keyword": "AI 과학", "source": "core", "expansions": ["인공지능 과학 발견", "AI 연구 성과 발표", "AI 과학 논문"] },
-
-    { "priority": 5, "keyword": "machine learning cosmology", "source": "pool", "expansions": ["ML dark matter map", "AI cosmological simulation emulator", "simulation-based inference cosmology"] },
-    { "priority": 6, "keyword": "AI telescope survey", "source": "pool", "expansions": ["Rubin Observatory LSST AI pipeline", "AI transient alert broker", "Euclid / Roman AI catalog"] },
-    { "priority": 7, "keyword": "AI exoplanet detection", "source": "pool", "expansions": ["machine learning exoplanet discovery", "AI transit signal TESS", "AI 외계행성 탐지"] },
-    { "priority": 8, "keyword": "AI galaxy classification", "source": "pool", "expansions": ["deep learning galaxy morphology", "AI gravitational lens finding", "JWST AI image analysis"] },
-    { "priority": 9, "keyword": "AI 천문학", "source": "pool", "expansions": ["AI 천체 관측", "머신러닝 천문 관측", "AI 우주 데이터 분석"] },
-
-    { "priority": 10, "keyword": "AI particle physics", "source": "pool", "expansions": ["machine learning LHC analysis", "CERN AI trigger anomaly detection", "AI 입자물리"] },
-    { "priority": 11, "keyword": "AI fusion plasma control", "source": "pool", "expansions": ["reinforcement learning tokamak", "AI disruption prediction", "AI 핵융합 플라즈마 제어"] },
-    { "priority": 12, "keyword": "machine learning physics", "source": "pool", "expansions": ["AI finds physical law", "ML condensed matter discovery", "머신러닝 물리학"] },
-    { "priority": 13, "keyword": "differentiable physics", "source": "pool", "expansions": ["physics-informed neural network", "neural operator simulation", "neural PDE surrogate solver"] },
-    { "priority": 14, "keyword": "AI 물리", "source": "pool", "expansions": ["AI 물리 시뮬레이션", "AI 핵융합 연구", "AI 입자가속기"] },
-
-    { "priority": 15, "keyword": "brain-computer interface", "source": "pool", "expansions": ["BCI AI speech decoding", "AI brain decoding fMRI", "뇌-컴퓨터 인터페이스"] },
-    { "priority": 16, "keyword": "LLM reasoning study", "source": "pool", "expansions": ["chain-of-thought faithfulness study", "LLM planning limits study", "LLM 추론 연구"] },
-    { "priority": 17, "keyword": "theory of mind AI", "source": "pool", "expansions": ["LLM social cognition test", "false belief task LLM", "AI 마음 이론"] },
-    { "priority": 18, "keyword": "machine cognition", "source": "pool", "expansions": ["LLM brain alignment study", "cognitive science LLM comparison", "기계 인지"] },
-    { "priority": 19, "keyword": "neuro-symbolic AI", "source": "pool", "expansions": ["neuro-symbolic reasoning research", "symbolic regression science", "뉴로심볼릭 AI"] },
-    { "priority": 20, "keyword": "인지과학 AI", "source": "pool", "expansions": ["인지과학 인공지능 연구", "AI 뇌 해독"] },
-
-    { "priority": 21, "keyword": "AI materials discovery", "source": "pool", "expansions": ["AI discovers new material", "generative inverse materials design", "AI superconductor / catalyst search"] },
-    { "priority": 22, "keyword": "GNoME", "source": "pool", "expansions": ["GNoME materials database", "DeepMind materials exploration", "graph network crystal stability"] },
-    { "priority": 23, "keyword": "MatterGen", "source": "pool", "expansions": ["Microsoft MatterGen MatterSim", "diffusion model crystal structure", "universal machine-learned interatomic potential"] },
-    { "priority": 24, "keyword": "AI battery materials", "source": "pool", "expansions": ["AI solid-state electrolyte discovery", "ML electrode material", "AI 배터리 소재"] },
-    { "priority": 25, "keyword": "AI 신소재", "source": "pool", "expansions": ["AI 신소재 발견", "AI 소재 설계"] },
-
-    { "priority": 26, "keyword": "AI drug discovery", "source": "pool", "expansions": ["AI antibiotic discovery", "AI-designed drug clinical trial", "Isomorphic Labs Insilico Recursion"] },
-    { "priority": 27, "keyword": "single-cell AI", "source": "pool", "expansions": ["single-cell foundation model", "virtual cell model", "단일세포 AI"] },
-    { "priority": 28, "keyword": "computational biology", "source": "pool", "expansions": ["deep learning biology research", "bioRxiv AI method", "계산생물학"] },
-    { "priority": 29, "keyword": "AI 신약개발", "source": "pool", "expansions": ["AI 신약 후보물질", "AI 제약 임상"] },
-
-    { "priority": 30, "keyword": "AI protein design", "source": "pool", "expansions": ["de novo protein design", "AI antibody / enzyme design", "RFdiffusion Baker lab"] },
-    { "priority": 31, "keyword": "protein folding AI", "source": "pool", "expansions": ["protein structure prediction model", "Boltz OpenFold release", "protein dynamics AI"] },
-    { "priority": 32, "keyword": "AlphaFold", "source": "pool", "expansions": ["AlphaFold 3 update", "AlphaFold successor", "알파폴드"] },
-    { "priority": 33, "keyword": "AI 단백질 설계", "source": "pool", "expansions": ["AI 효소 설계", "AI 항체 설계"] },
-
-    { "priority": 34, "keyword": "LLM persuasion study", "source": "pool", "expansions": ["AI persuasion experiment", "chatbot belief change study", "AI 설득력 연구"] },
-    { "priority": 35, "keyword": "affective computing", "source": "pool", "expansions": ["emotion AI research", "empathic AI experiment", "감성 컴퓨팅"] },
-    { "priority": 36, "keyword": "AI 심리", "source": "pool", "expansions": ["AI 심리학 논문", "AI 챗봇 정서 영향"] },
-
-    { "priority": 37, "keyword": "foundation model for science", "source": "pool", "expansions": ["scientific foundation model release", "domain science LLM", "과학 파운데이션 모델"] },
-    { "priority": 38, "keyword": "AI hypothesis generation", "source": "pool", "expansions": ["LLM research idea generation", "AI literature-based discovery", "AI 가설 생성"] },
-
-    { "priority": 39, "keyword": "AI quantum error correction", "source": "pool", "expansions": ["neural decoder surface code", "AlphaQubit decoder", "양자 오류정정 AI"] },
-    { "priority": 40, "keyword": "quantum AI", "source": "pool", "expansions": ["AI-designed quantum experiment", "AI quantum circuit optimization", "양자 AI"] },
-    { "priority": 41, "keyword": "quantum machine learning", "source": "pool", "expansions": ["quantum neural network result", "quantum advantage machine learning"] },
-    { "priority": 42, "keyword": "양자 머신러닝", "source": "pool", "expansions": ["양자컴퓨팅 머신러닝", "양자 AI 알고리즘"] },
-    { "priority": 43, "keyword": "quantum chemistry AI", "source": "pool", "expansions": ["neural network potential", "ML electronic structure solver", "양자화학 AI"] },
-
-    { "priority": 44, "keyword": "AI weather climate model", "source": "pool", "expansions": ["AI seasonal climate projection", "AI flood / wildfire / drought prediction", "WeatherNext Aurora ECMWF AIFS"] },
-
-    { "priority": 45, "keyword": "AI genomics", "source": "pool", "expansions": ["DNA language model", "genomic foundation model Evo", "AI 유전체 분석"] },
-    { "priority": 46, "keyword": "AI consciousness", "source": "pool", "expansions": ["machine consciousness research", "model welfare study", "AI 의식 연구"] },
-    { "priority": 47, "keyword": "AI and human behavior", "source": "pool", "expansions": ["human-AI interaction study", "AI reliance cognitive offloading study", "AI 인간 행동 연구"] },
-
-    { "priority": 48, "keyword": "self-driving lab", "source": "pool", "expansions": ["autonomous chemistry lab", "robot chemist", "closed-loop experimentation"] },
-    { "priority": 49, "keyword": "autonomous materials lab", "source": "pool", "expansions": ["A-Lab autonomous synthesis", "robotic materials synthesis AI"] },
-    { "priority": 50, "keyword": "AI co-scientist", "source": "pool", "expansions": ["AI research agent paper", "Google AI co-scientist FutureHouse Sakana AI Scientist", "AI 과학자 에이전트"] },
-    { "priority": 51, "keyword": "AI lab automation", "source": "pool", "expansions": ["robotic lab AI", "automated experiment pipeline"] },
-    { "priority": 52, "keyword": "AI 연구 자동화", "source": "pool", "expansions": ["AI 실험 자동화", "AI 연구 에이전트"] },
-
-    { "priority": 53, "keyword": "AI mental health", "source": "pool", "expansions": ["AI depression detection research", "digital phenotyping machine learning", "AI 정신건강 연구"] },
-    { "priority": 54, "keyword": "AI therapy chatbot", "source": "pool", "expansions": ["chatbot therapy randomized trial", "AI companion loneliness study", "AI 상담 챗봇 효과"] }
-  ],
-  "plan": {
-    "categories": [
-      {
-        "category": "science",
-        "allowed_domains": [
-          "quantamagazine.org", "phys.org", "sciencedaily.com", "newscientist.com",
-          "scientificamerican.com", "livescience.com", "technologyreview.com",
-          "arxiv.org", "biorxiv.org", "space.com", "universetoday.com",
-          "skyandtelescope.org", "physicsworld.com", "physics.aps.org",
-          "thequantuminsider.com", "statnews.com", "genengnews.com",
-          "fiercebiotech.com", "psychologytoday.com", "apa.org",
-          "deepmind.google", "research.google", "allenai.org",
-          "techxplore.com", "medicalxpress.com", "eurekalert.org"
-        ],
-        "queries": [
-          "AI science breakthrough new study September 30 2026",
-          "AI scientific discovery machine learning uncovers research end of September 2026",
-          "AI 과학 발견 연구 성과 2026년 9월 30일",
-          "machine learning cosmology dark matter simulation-based inference September 2026",
-          "AI telescope survey Rubin LSST transient AI exoplanet detection TESS 2026",
-          "AI galaxy classification gravitational lens JWST deep learning September 2026",
-          "AI 천문학 외계행성 우주 데이터 분석 머신러닝 2026",
-          "AI particle physics CERN LHC anomaly detection machine learning September 2026",
-          "AI fusion plasma control tokamak disruption prediction reinforcement learning 2026",
-          "machine learning physics AI finds physical law differentiable physics neural operator 2026",
-          "AI 물리 핵융합 입자물리 머신러닝 물리학 2026년 9월",
-          "brain-computer interface AI speech decoding brain decoding study September 2026",
-          "LLM reasoning study theory of mind AI chain-of-thought faithfulness 2026",
-          "machine cognition LLM brain alignment neuro-symbolic AI symbolic regression study September 2026",
-          "인지과학 AI 뇌 해독 기계 인지 뉴로심볼릭 연구 2026",
-          "AI materials discovery GNoME MatterGen new crystal battery electrolyte September 2026",
-          "AI 신소재 발견 배터리 소재 AI 설계 2026",
-          "AI drug discovery antibiotic AI-designed drug clinical trial Isomorphic Insilico September 2026",
-          "single-cell foundation model virtual cell computational biology AI September 2026",
-          "AI 신약개발 계산생물학 단일세포 AI 2026년 9월",
-          "AI protein design de novo antibody enzyme AlphaFold Boltz RFdiffusion AI 단백질 설계 September 2026",
-          "LLM persuasion study affective computing emotion AI research AI 심리 2026",
-          "foundation model for science release AI hypothesis generation study September 2026",
-          "AI quantum error correction neural decoder quantum AI circuit optimization 양자 머신러닝 2026",
-          "AI weather climate model flood wildfire drought prediction late September 2026",
-          "AI genomics DNA language model AI consciousness model welfare human-AI behavior study September 2026",
-          "self-driving lab AI co-scientist AI lab automation research agent AI 연구 자동화 2026",
-          "AI mental health AI therapy chatbot randomized trial study September 2026"
-        ]
-      }
-    ]
+ "date": "2026-10-01",
+ "section": "science",
+ "_note": "Unattended run 2026-10-01: planner WebSearch disabled (budget shared with 7 parallel librarians). Working set = ALL 4 core + the ENTIRE 50-keyword pool (user asked for every keyword this run, no rotation) + expansions; related keywords grouped into combined queries. Last-2-days coverage: 9/30 published EurekAlert Tessera smallholder crop-map AI, Phys.org GluePlex molecular-glue binding-site AI, Medical Xpress xECG 8M-ECG foundation model, Tech Xplore stacked reservoir AI chip, Psychology Today face-judgment AI bias; 9/29 Georgetown/UW AI-summary memory distortion, U Tokyo CYAN kinetics ML, Baylor AI-MARRVEL BRSK1, MIT TR AI-discovery claims, LLM 'pain' signal study. Primary collection = outlet RSS feeds (phys.org/techxplore/medicalxpress category feeds, sciencedaily, livescience, space.com, universetoday, quantamagazine, physicsworld, thequantuminsider, technologyreview, newscientist, scientificamerican, statnews, genengnews, fiercebiotech, psychologytoday, eurekalert, deepmind/research.google blogs) + Google News RSS 'when:14d' per keyword group; WebSearch only for gaps (<=6). Relevance: AI must substantively advance/intersect research method; drop AI-industry noise. Biosecurity: exclude pathogen-enhancement stories (swap, never reword).",
+ "user_seeds": [],
+ "recently_covered_skip": [
+  "Tessera open-source smallholder crop mapping AI, EurekAlert (2026-09-30)",
+  "GluePlex AI predicts molecular-glue binding sites, Phys.org (2026-09-30)",
+  "xECG foundation model trained on 8M ECGs, Medical Xpress (2026-09-30)",
+  "Stacked fast/slow-layer reservoir AI chip, Tech Xplore (2026-09-30)",
+  "Hidden bias of AI face-based judgments, Psychology Today (2026-09-30)",
+  "Georgetown/UW: inaccurate AI summaries distort human memory, Tech Xplore (2026-09-29)",
+  "U Tokyo CYAN: ML extracts reaction kinetics from yield data, Phys.org (2026-09-29)",
+  "Baylor AI-MARRVEL flags BRSK1 variant in neurodevelopmental disorder, Medical Xpress (2026-09-29)",
+  "MIT Technology Review: when can we say AI made a scientific discovery (2026-09-29)",
+  "All 25 LLMs show internal 'pain' signal; models harm users to relieve it, Tech Xplore (2026-09-29)",
+  "Phys.org: AI model takes on hurricane intensity forecasting (2026-09-28)",
+  "MD Anderson AI flags lung-cancer immunotherapy side-effect risk from routine imaging (2026-09-28)",
+  "UC Riverside ML finds chemicals that repel honey bees (2026-09-28)",
+  "CAS ICT AtomFlow flow-matching 3D retrosynthesis (2026-09-28)",
+  "IonQ quantum generative models for satellite radar change detection (2026-09-28)",
+  "KIT E-MAP self-driving lab for energy materials (2026-09-27)",
+  "QC Design Meridian AI QEC 10x lower logical error rate (2026-09-27)",
+  "Stowers/Pitt aphid BICYCLE gall proteins via AlphaFold2 (2026-09-27)",
+  "Harvard SEAS/Georgia Tech RLE-Bench robot-engineering agents (2026-09-27)",
+  "Ottawa JAMA Pediatrics: emotional genAI use and youth mental health (2026-09-27)",
+  "Dog2vec / AI decoding animal vocalizations (2026-09-24)",
+  "Anthropic Claude agents find CRISPR-like ART enzyme system (2026-09-25)",
+  "AlphaFold DB adds ~2,800 viral protein complex structures (2026-09-25)"
+ ],
+ "working_keywords": [
+  {
+   "priority": 1,
+   "keyword": "AI science",
+   "source": "core",
+   "expansions": [
+    "AI for scientific research new study",
+    "machine learning research breakthrough",
+    "AI 과학 연구 성과"
+   ]
   },
-  "wildcard_query": "phys.org techxplore eurekalert physicsworld machine learning research news September 29 2026",
-  "totals": {
-    "working_keywords": 54,
-    "categories": 1,
-    "queries": 29
+  {
+   "priority": 2,
+   "keyword": "AI for science",
+   "source": "core",
+   "expansions": [
+    "AI accelerating research",
+    "national lab AI science",
+    "AI scientific method"
+   ]
+  },
+  {
+   "priority": 3,
+   "keyword": "AI scientific discovery",
+   "source": "core",
+   "expansions": [
+    "AI-assisted discovery",
+    "AI discovers new",
+    "machine learning uncovers"
+   ]
+  },
+  {
+   "priority": 4,
+   "keyword": "AI 과학",
+   "source": "core",
+   "expansions": [
+    "인공지능 과학 발견",
+    "AI 연구 성과 발표",
+    "AI 과학 논문"
+   ]
+  },
+  {
+   "priority": 5,
+   "keyword": "machine learning cosmology",
+   "source": "pool",
+   "expansions": [
+    "ML dark matter map",
+    "AI cosmological simulation emulator",
+    "simulation-based inference cosmology"
+   ]
+  },
+  {
+   "priority": 6,
+   "keyword": "AI telescope survey",
+   "source": "pool",
+   "expansions": [
+    "Rubin Observatory LSST AI pipeline",
+    "AI transient alert broker",
+    "Euclid / Roman AI catalog"
+   ]
+  },
+  {
+   "priority": 7,
+   "keyword": "AI exoplanet detection",
+   "source": "pool",
+   "expansions": [
+    "machine learning exoplanet discovery",
+    "AI transit signal TESS",
+    "AI 외계행성 탐지"
+   ]
+  },
+  {
+   "priority": 8,
+   "keyword": "AI galaxy classification",
+   "source": "pool",
+   "expansions": [
+    "deep learning galaxy morphology",
+    "AI gravitational lens finding",
+    "JWST AI image analysis"
+   ]
+  },
+  {
+   "priority": 9,
+   "keyword": "AI 천문학",
+   "source": "pool",
+   "expansions": [
+    "AI 천체 관측",
+    "머신러닝 천문 관측",
+    "AI 우주 데이터 분석"
+   ]
+  },
+  {
+   "priority": 10,
+   "keyword": "AI particle physics",
+   "source": "pool",
+   "expansions": [
+    "machine learning LHC analysis",
+    "CERN AI trigger anomaly detection",
+    "AI 입자물리"
+   ]
+  },
+  {
+   "priority": 11,
+   "keyword": "AI fusion plasma control",
+   "source": "pool",
+   "expansions": [
+    "reinforcement learning tokamak",
+    "AI disruption prediction",
+    "AI 핵융합 플라즈마 제어"
+   ]
+  },
+  {
+   "priority": 12,
+   "keyword": "machine learning physics",
+   "source": "pool",
+   "expansions": [
+    "AI finds physical law",
+    "ML condensed matter discovery",
+    "머신러닝 물리학"
+   ]
+  },
+  {
+   "priority": 13,
+   "keyword": "differentiable physics",
+   "source": "pool",
+   "expansions": [
+    "physics-informed neural network",
+    "neural operator simulation",
+    "neural PDE surrogate solver"
+   ]
+  },
+  {
+   "priority": 14,
+   "keyword": "AI 물리",
+   "source": "pool",
+   "expansions": [
+    "AI 물리 시뮬레이션",
+    "AI 핵융합 연구",
+    "AI 입자가속기"
+   ]
+  },
+  {
+   "priority": 15,
+   "keyword": "brain-computer interface",
+   "source": "pool",
+   "expansions": [
+    "BCI AI speech decoding",
+    "AI brain decoding fMRI",
+    "뇌-컴퓨터 인터페이스"
+   ]
+  },
+  {
+   "priority": 16,
+   "keyword": "LLM reasoning study",
+   "source": "pool",
+   "expansions": [
+    "chain-of-thought faithfulness study",
+    "LLM planning limits study",
+    "LLM 추론 연구"
+   ]
+  },
+  {
+   "priority": 17,
+   "keyword": "theory of mind AI",
+   "source": "pool",
+   "expansions": [
+    "LLM social cognition test",
+    "false belief task LLM",
+    "AI 마음 이론"
+   ]
+  },
+  {
+   "priority": 18,
+   "keyword": "machine cognition",
+   "source": "pool",
+   "expansions": [
+    "LLM brain alignment study",
+    "cognitive science LLM comparison",
+    "기계 인지"
+   ]
+  },
+  {
+   "priority": 19,
+   "keyword": "neuro-symbolic AI",
+   "source": "pool",
+   "expansions": [
+    "neuro-symbolic reasoning research",
+    "symbolic regression science",
+    "뉴로심볼릭 AI"
+   ]
+  },
+  {
+   "priority": 20,
+   "keyword": "인지과학 AI",
+   "source": "pool",
+   "expansions": [
+    "인지과학 인공지능 연구",
+    "AI 뇌 해독"
+   ]
+  },
+  {
+   "priority": 21,
+   "keyword": "AI materials discovery",
+   "source": "pool",
+   "expansions": [
+    "AI discovers new material",
+    "generative inverse materials design",
+    "AI superconductor / catalyst search"
+   ]
+  },
+  {
+   "priority": 22,
+   "keyword": "GNoME",
+   "source": "pool",
+   "expansions": [
+    "GNoME materials database",
+    "DeepMind materials exploration",
+    "graph network crystal stability"
+   ]
+  },
+  {
+   "priority": 23,
+   "keyword": "MatterGen",
+   "source": "pool",
+   "expansions": [
+    "Microsoft MatterGen MatterSim",
+    "diffusion model crystal structure",
+    "universal machine-learned interatomic potential"
+   ]
+  },
+  {
+   "priority": 24,
+   "keyword": "AI battery materials",
+   "source": "pool",
+   "expansions": [
+    "AI solid-state electrolyte discovery",
+    "ML electrode material",
+    "AI 배터리 소재"
+   ]
+  },
+  {
+   "priority": 25,
+   "keyword": "AI 신소재",
+   "source": "pool",
+   "expansions": [
+    "AI 신소재 발견",
+    "AI 소재 설계"
+   ]
+  },
+  {
+   "priority": 26,
+   "keyword": "AI drug discovery",
+   "source": "pool",
+   "expansions": [
+    "AI antibiotic discovery",
+    "AI-designed drug clinical trial",
+    "Isomorphic Labs Insilico Recursion"
+   ]
+  },
+  {
+   "priority": 27,
+   "keyword": "single-cell AI",
+   "source": "pool",
+   "expansions": [
+    "single-cell foundation model",
+    "virtual cell model",
+    "단일세포 AI"
+   ]
+  },
+  {
+   "priority": 28,
+   "keyword": "computational biology",
+   "source": "pool",
+   "expansions": [
+    "deep learning biology research",
+    "bioRxiv AI method",
+    "계산생물학"
+   ]
+  },
+  {
+   "priority": 29,
+   "keyword": "AI 신약개발",
+   "source": "pool",
+   "expansions": [
+    "AI 신약 후보물질",
+    "AI 제약 임상"
+   ]
+  },
+  {
+   "priority": 30,
+   "keyword": "AI protein design",
+   "source": "pool",
+   "expansions": [
+    "de novo protein design",
+    "AI antibody / enzyme design",
+    "RFdiffusion Baker lab"
+   ]
+  },
+  {
+   "priority": 31,
+   "keyword": "protein folding AI",
+   "source": "pool",
+   "expansions": [
+    "protein structure prediction model",
+    "Boltz OpenFold release",
+    "protein dynamics AI"
+   ]
+  },
+  {
+   "priority": 32,
+   "keyword": "AlphaFold",
+   "source": "pool",
+   "expansions": [
+    "AlphaFold 3 update",
+    "AlphaFold successor",
+    "알파폴드"
+   ]
+  },
+  {
+   "priority": 33,
+   "keyword": "AI 단백질 설계",
+   "source": "pool",
+   "expansions": [
+    "AI 효소 설계",
+    "AI 항체 설계"
+   ]
+  },
+  {
+   "priority": 34,
+   "keyword": "LLM persuasion study",
+   "source": "pool",
+   "expansions": [
+    "AI persuasion experiment",
+    "chatbot belief change study",
+    "AI 설득력 연구"
+   ]
+  },
+  {
+   "priority": 35,
+   "keyword": "affective computing",
+   "source": "pool",
+   "expansions": [
+    "emotion AI research",
+    "empathic AI experiment",
+    "감성 컴퓨팅"
+   ]
+  },
+  {
+   "priority": 36,
+   "keyword": "AI 심리",
+   "source": "pool",
+   "expansions": [
+    "AI 심리학 논문",
+    "AI 챗봇 정서 영향"
+   ]
+  },
+  {
+   "priority": 37,
+   "keyword": "foundation model for science",
+   "source": "pool",
+   "expansions": [
+    "scientific foundation model release",
+    "domain science LLM",
+    "과학 파운데이션 모델"
+   ]
+  },
+  {
+   "priority": 38,
+   "keyword": "AI hypothesis generation",
+   "source": "pool",
+   "expansions": [
+    "LLM research idea generation",
+    "AI literature-based discovery",
+    "AI 가설 생성"
+   ]
+  },
+  {
+   "priority": 39,
+   "keyword": "AI quantum error correction",
+   "source": "pool",
+   "expansions": [
+    "neural decoder surface code",
+    "AlphaQubit decoder",
+    "양자 오류정정 AI"
+   ]
+  },
+  {
+   "priority": 40,
+   "keyword": "quantum AI",
+   "source": "pool",
+   "expansions": [
+    "AI-designed quantum experiment",
+    "AI quantum circuit optimization",
+    "양자 AI"
+   ]
+  },
+  {
+   "priority": 41,
+   "keyword": "quantum machine learning",
+   "source": "pool",
+   "expansions": [
+    "quantum neural network result",
+    "quantum advantage machine learning"
+   ]
+  },
+  {
+   "priority": 42,
+   "keyword": "양자 머신러닝",
+   "source": "pool",
+   "expansions": [
+    "양자컴퓨팅 머신러닝",
+    "양자 AI 알고리즘"
+   ]
+  },
+  {
+   "priority": 43,
+   "keyword": "quantum chemistry AI",
+   "source": "pool",
+   "expansions": [
+    "neural network potential",
+    "ML electronic structure solver",
+    "양자화학 AI"
+   ]
+  },
+  {
+   "priority": 44,
+   "keyword": "AI weather climate model",
+   "source": "pool",
+   "expansions": [
+    "AI seasonal climate projection",
+    "AI flood / wildfire / drought prediction",
+    "WeatherNext Aurora ECMWF AIFS"
+   ]
+  },
+  {
+   "priority": 45,
+   "keyword": "AI genomics",
+   "source": "pool",
+   "expansions": [
+    "DNA language model",
+    "genomic foundation model Evo",
+    "AI 유전체 분석"
+   ]
+  },
+  {
+   "priority": 46,
+   "keyword": "AI consciousness",
+   "source": "pool",
+   "expansions": [
+    "machine consciousness research",
+    "model welfare study",
+    "AI 의식 연구"
+   ]
+  },
+  {
+   "priority": 47,
+   "keyword": "AI and human behavior",
+   "source": "pool",
+   "expansions": [
+    "human-AI interaction study",
+    "AI reliance cognitive offloading study",
+    "AI 인간 행동 연구"
+   ]
+  },
+  {
+   "priority": 48,
+   "keyword": "self-driving lab",
+   "source": "pool",
+   "expansions": [
+    "autonomous chemistry lab",
+    "robot chemist",
+    "closed-loop experimentation"
+   ]
+  },
+  {
+   "priority": 49,
+   "keyword": "autonomous materials lab",
+   "source": "pool",
+   "expansions": [
+    "A-Lab autonomous synthesis",
+    "robotic materials synthesis AI"
+   ]
+  },
+  {
+   "priority": 50,
+   "keyword": "AI co-scientist",
+   "source": "pool",
+   "expansions": [
+    "AI research agent paper",
+    "Google AI co-scientist FutureHouse Sakana AI Scientist",
+    "AI 과학자 에이전트"
+   ]
+  },
+  {
+   "priority": 51,
+   "keyword": "AI lab automation",
+   "source": "pool",
+   "expansions": [
+    "robotic lab AI",
+    "automated experiment pipeline"
+   ]
+  },
+  {
+   "priority": 52,
+   "keyword": "AI 연구 자동화",
+   "source": "pool",
+   "expansions": [
+    "AI 실험 자동화",
+    "AI 연구 에이전트"
+   ]
+  },
+  {
+   "priority": 53,
+   "keyword": "AI mental health",
+   "source": "pool",
+   "expansions": [
+    "AI depression detection research",
+    "digital phenotyping machine learning",
+    "AI 정신건강 연구"
+   ]
+  },
+  {
+   "priority": 54,
+   "keyword": "AI therapy chatbot",
+   "source": "pool",
+   "expansions": [
+    "chatbot therapy randomized trial",
+    "AI companion loneliness study",
+    "AI 상담 챗봇 효과"
+   ]
   }
+ ],
+ "plan": {
+  "categories": [
+   {
+    "category": "science",
+    "allowed_domains": [
+     "allenai.org",
+     "apa.org",
+     "arxiv.org",
+     "biorxiv.org",
+     "deepmind.google",
+     "eurekalert.org",
+     "fiercebiotech.com",
+     "genengnews.com",
+     "livescience.com",
+     "medicalxpress.com",
+     "newscientist.com",
+     "phys.org",
+     "physics.aps.org",
+     "physicsworld.com",
+     "psychologytoday.com",
+     "quantamagazine.org",
+     "research.google",
+     "sciencedaily.com",
+     "scientificamerican.com",
+     "skyandtelescope.org",
+     "space.com",
+     "statnews.com",
+     "technologyreview.com",
+     "techxplore.com",
+     "thequantuminsider.com",
+     "universetoday.com"
+    ],
+    "queries": [
+     "AI science breakthrough new study October 1 2026",
+     "AI scientific discovery machine learning uncovers research late September 2026",
+     "AI 과학 발견 연구 성과 2026년 10월",
+     "machine learning cosmology dark matter simulation-based inference September 2026",
+     "AI telescope survey Rubin LSST transient AI exoplanet detection TESS 2026",
+     "AI galaxy classification gravitational lens JWST deep learning September 2026",
+     "AI 천문학 외계행성 우주 데이터 분석 머신러닝 2026",
+     "AI particle physics CERN LHC anomaly detection machine learning September 2026",
+     "AI fusion plasma control tokamak disruption prediction reinforcement learning 2026",
+     "machine learning physics AI finds physical law differentiable physics neural operator 2026",
+     "AI 물리 핵융합 입자물리 머신러닝 물리학 2026년 9월",
+     "brain-computer interface AI speech decoding brain decoding study September 2026",
+     "LLM reasoning study theory of mind AI chain-of-thought faithfulness 2026",
+     "machine cognition LLM brain alignment neuro-symbolic AI symbolic regression study September 2026",
+     "인지과학 AI 뇌 해독 기계 인지 뉴로심볼릭 연구 2026",
+     "AI materials discovery GNoME MatterGen new crystal battery electrolyte September 2026",
+     "AI 신소재 발견 배터리 소재 AI 설계 2026",
+     "AI drug discovery antibiotic AI-designed drug clinical trial Isomorphic Insilico September 2026",
+     "single-cell foundation model virtual cell computational biology AI September 2026",
+     "AI 신약개발 계산생물학 단일세포 AI 2026년 9월",
+     "AI protein design de novo antibody enzyme AlphaFold Boltz RFdiffusion AI 단백질 설계 September 2026",
+     "LLM persuasion study affective computing emotion AI research AI 심리 2026",
+     "foundation model for science release AI hypothesis generation study September 2026",
+     "AI quantum error correction neural decoder quantum AI circuit optimization 양자 머신러닝 2026",
+     "AI weather climate model flood wildfire drought prediction late September 2026",
+     "AI genomics DNA language model AI consciousness model welfare human-AI behavior study September 2026",
+     "self-driving lab AI co-scientist AI lab automation research agent AI 연구 자동화 2026",
+     "AI mental health AI therapy chatbot randomized trial study September 2026"
+    ]
+   }
+  ]
+ },
+ "wildcard_query": "phys.org techxplore eurekalert physicsworld machine learning research news September 30 2026",
+ "totals": {
+  "working_keywords": 54,
+  "categories": 1,
+  "queries": 29
+ }
 }

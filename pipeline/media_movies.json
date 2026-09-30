@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "movies",
   "media": [
     {
-      "id": "movies-don-quixote-ai-limits",
+      "id": "movies-terrarium-ai-hybrid-set",
       "type": "image",
-      "src": "pipeline/media/movies-don-quixote-ai-limits.jpg"
+      "src": "pipeline/media/movies-terrarium-ai-hybrid-set.jpg"
     },
     {
-      "id": "movies-runway-agent-tagging",
+      "id": "movies-unmasking-monster-ai-mask",
+      "type": "image",
+      "src": "pipeline/media/movies-unmasking-monster-ai-mask.jpg"
+    },
+    {
+      "id": "movies-utopai-pai-x",
+      "type": "image",
+      "src": "pipeline/media/movies-utopai-pai-x.png"
+    },
+    {
+      "id": "movies-silnakwon-universe-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-silnakwon-universe-ai.jpg"
+    },
+    {
+      "id": "movies-garbo-ai-skf-ad",
       "type": "video",
-      "src": "pipeline/media/movies-runway-agent-tagging.mp4",
-      "poster": "pipeline/media/movies-runway-agent-tagging.jpg"
-    },
-    {
-      "id": "movies-the-gifted-xprize",
-      "type": "image",
-      "src": "pipeline/media/movies-the-gifted-xprize.jpg"
-    },
-    {
-      "id": "movies-2d-live-action-workflow",
-      "type": "video",
-      "src": "pipeline/media/movies-2d-live-action-workflow.mp4",
-      "poster": "pipeline/media/movies-2d-live-action-workflow.jpg"
-    },
-    {
-      "id": "movies-steelray-100-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-steelray-100-ai.jpg"
+      "src": "pipeline/media/movies-garbo-ai-skf-ad.mp4",
+      "poster": "pipeline/media/movies-garbo-ai-skf-ad.jpg"
     }
   ]
 }

@@ -1,32 +1,31 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-flourish-humanoid",
-      "type": "video",
-      "src": "pipeline/media/gadgets-flourish-humanoid.mp4",
-      "poster": "pipeline/media/gadgets-flourish-humanoid.jpg"
+      "id": "gadgets-fire-tv-alexa-plus-hub",
+      "type": "image",
+      "src": "pipeline/media/gadgets-fire-tv-alexa-plus-hub.jpg"
     },
     {
-      "id": "gadgets-eufy-s4-doorbell",
+      "id": "gadgets-nanoleaf-mcp-lights",
       "type": "image",
-      "src": "pipeline/media/gadgets-eufy-s4-doorbell.jpg"
+      "src": "pipeline/media/gadgets-nanoleaf-mcp-lights.jpg"
     },
     {
-      "id": "gadgets-gemini-find-hub-docs",
+      "id": "gadgets-freckle-kids-phone",
       "type": "image",
-      "src": "pipeline/media/gadgets-gemini-find-hub-docs.jpg"
+      "src": "pipeline/media/gadgets-freckle-kids-phone.jpg"
     },
     {
-      "id": "gadgets-m5-ultra-mac-studio",
+      "id": "gadgets-peloton-tread-vision",
       "type": "image",
-      "src": "pipeline/media/gadgets-m5-ultra-mac-studio.jpg"
+      "src": "pipeline/media/gadgets-peloton-tread-vision.jpg"
     },
     {
-      "id": "gadgets-translation-earbuds",
+      "id": "gadgets-yansyn-crying-robot",
       "type": "image",
-      "src": "pipeline/media/gadgets-translation-earbuds.jpg"
+      "src": "pipeline/media/gadgets-yansyn-crying-robot.jpg"
     }
   ]
 }

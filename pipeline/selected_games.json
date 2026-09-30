@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-30",
-  "section": "games",
-  "picks": [
-    {
-      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-      "source": "GamesIndustry.biz",
-      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
-      "tool": "Games",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Platform-level launch: Horizon Centre/Studio turn prompts into playable 2D/3D games on mobile and web, plus a new Unity-supported device target. Actionable for devs and not previously covered in games.",
-      "published_iso": "2026-09-25T13:07:11.372955+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\""
-    },
-    {
-      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
-      "source": "PocketGamer.biz",
-      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "Fresh (09-29) industry signal: a game studio (Wearemighty) quits game development to rebrand as an AI content-tech company focused on brand/art consistency. Shows where studio art pipelines and talent are migrating.",
-      "published_iso": "2026-09-29T14:00:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg",
-      "excerpt": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology "
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321517",
-      "source": "Inven",
-      "title": "원스토어, AI 게임 등록 전면 개방",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Freshest item (09-29): a Korean app store opens a dedicated AI-games storefront and Console registration to all developers, with web-game SDK monetization; a real distribution channel for AI-made games. Exact URL not in published history (only ?news=321275 is).",
-      "published_iso": "2026-09-29T09:37:29+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg",
-      "excerpt": "원스토어가 AI 게임 전용관을 모든 개발자에게 개방하고 원콘솔에서 AI 기반 게임 등록을 시작한다. 10월 초 전용관 명칭을 'AI 게임'으로 바꿔 앱 하단에 상시 배치하고 웹게임 SDK로 수익화도 지원하며, 코딩 경험 없는 개발자도 AI로 만든 게임을 등록할 수 있다."
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321491",
-      "source": "Inven",
-      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Launches today (09-30): Com2uS Platform's Hive Axil lets devs run backend config, payments and analytics via natural-language prompts with a Codex plugin; AI as a real live-ops tool. Exact URL not in published history.",
-      "published_iso": "2026-09-28T14:40:47+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg",
-      "excerpt": "컴투스플랫폼이 도쿄 AI 게임 개발 행사에서 차세대 백엔드 플랫폼 '하이브 액실'을 공개했다. 9월 30일 정식 출시되며 자연어 프롬프트로 백엔드 설정·결제·데이터 분석 등 라이브 운영 기능을 다루고, 코덱스 플러그인 연결로 개발 효율을 높인다."
-    },
-    {
-      "url": "https://eu.36kr.com/en/p/3995368325501056",
-      "source": "36Kr",
-      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Novel benchmark (Brood War Bench, 171 matches across 19 agent configs) showing frontier agents still play at beginner level in RTS; AI is the subject and the tool, not a theme. No prior games coverage; adds a third distinct outlet. Chosen over Qualcomm Snapdragon (same chip launch already ran in gadgets 09-23), the etoday roundup (overlaps PUBG Ally) and Limerence (AI only as story theme).",
-      "published_iso": "2026-09-23T03:30:39Z",
-      "og_image": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1012394oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "excerpt": "Developer Ben Swerdlow's Brood War Bench ran 19 AI agent configurations through 171 round-robin StarCraft: Brood War matches; GPT-6 Astra went 18-0, yet no model played above beginner level against humans. (Off-list exception: no allowed-domain coverage.)"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "games",
+ "picks": [
+  {
+   "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
+   "source": "Epic Developer Community",
+   "title": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
+   "tool": "Games",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "rationale": "Open-source agent that operates the Unreal Editor (actors, Blueprints, materials, C++) with approval gates and change logs — directly actionable for game devs/tech artists.",
+   "published_iso": "2026-09-28T18:30:00Z",
+   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
+   "excerpt": "Open-source UE Box AI agent operates the Unreal Editor directly — places actors, edits Blueprints, wires materials, fixes C++ errors."
+  },
+  {
+   "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
+   "source": "AUTOMATON",
+   "title": "Atelier Ryza AI chatbot game developer to place restrictions on user inputs “to protect the integrity of the character and series” - AUTOMATON WEST",
+   "tool": "Games",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "rationale": "Concrete AI-NPC design lesson: a shipped character-chat RPG adds input limits after prompt-injection misuse, with its 3-tier moderation stack described.",
+   "published_iso": "2026-09-30T05:38:17Z",
+   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp",
+   "excerpt": "Spiral AI will restrict user inputs in RyzaChat:AI's October model update after prompt-injection misuse of the Ryza character AI."
+  },
+  {
+   "url": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/",
+   "source": "AUTOMATON",
+   "title": "Voice actor Kenjiro Tsuda’s lawsuit over AI voice cloning dismissed, but ruling sets important precedent for protecting seiyuu voices in Japan - AUTOMATON WEST",
+   "tool": "Games",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "rationale": "First Japanese ruling stating voices fall under publicity rights — sets the legal frame for AI voice cloning of game/anime voice actors.",
+   "published_iso": "2026-09-30T06:50:15Z",
+   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg",
+   "excerpt": "Kenjiro Tsuda's AI voice-cloning suit vs TikTok dismissed, but Tokyo District Court rules voices are protected under publicity rights."
+  },
+  {
+   "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
+   "source": "Wccftech",
+   "title": "Borderless Gaming's DLSS 5 Implementation Runs Without Touching NVIDIA's Software, Quantized to Work Well Even on Unsupported GPUs",
+   "tool": "Games",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "rationale": "Borderless Gaming ships an installable, quantized DLSS 5-derived neural-rendering effect that runs without NVIDIA software on non-RTX-50 GPUs — a new tool, not another mod demo.",
+   "published_iso": "2026-09-30T16:45:00Z",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg",
+   "excerpt": "Borderless Gaming adds a quantized DLSS 5 neural rendering effect that runs without NVIDIA software, plus its own trained frame generation."
+  },
+  {
+   "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+   "source": "PC Gamer",
+   "title": "Logitech",
+   "tool": "Games",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "rationale": "Hands-on with Logitech G Hub Replay beta, a deep-learning auto-highlight clipper for 44 games — shows where AI clip selection still misses.",
+   "published_iso": "2026-09-30T15:58:32Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1916-80.jpg",
+   "excerpt": "Logitech's beta Replay software uses deep learning to auto-pick and splice game highlight clips; PC Gamer tests it in Counter-Strike."
+  }
+ ]
 }

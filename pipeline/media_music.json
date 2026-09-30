@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-30",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-abyzor-genesis",
-      "type": "video",
-      "src": "pipeline/media/music-abyzor-genesis.mp4",
-      "poster": "pipeline/media/music-abyzor-genesis.jpg"
-    },
-    {
-      "id": "music-suno-voice-instrument",
-      "type": "video",
-      "src": "pipeline/media/music-suno-voice-instrument.mp4",
-      "poster": "pipeline/media/music-suno-voice-instrument.jpg"
-    },
-    {
-      "id": "music-tiktok-voice-clone-suit",
-      "type": "image",
-      "src": "pipeline/media/music-tiktok-voice-clone-suit.png"
-    },
-    {
-      "id": "music-kpop-ai-authenticity",
-      "type": "image",
-      "src": "pipeline/media/music-kpop-ai-authenticity.jpg"
-    },
-    {
-      "id": "music-elevenlabs-v4",
-      "type": "image",
-      "src": "pipeline/media/music-elevenlabs-v4.jpg"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "music",
+ "media": [
+  {
+   "id": "music-todd-edwards-suno-sampling",
+   "type": "image",
+   "src": "pipeline/media/music-todd-edwards-suno-sampling.jpg"
+  },
+  {
+   "id": "music-sampleson-backgrounds",
+   "type": "video",
+   "src": "pipeline/media/music-sampleson-backgrounds.mp4",
+   "poster": "pipeline/media/music-sampleson-backgrounds.jpg"
+  },
+  {
+   "id": "music-impf-impel-ai-licensing",
+   "type": "image",
+   "src": "pipeline/media/music-impf-impel-ai-licensing.png"
+  },
+  {
+   "id": "music-absolute-anthology-os",
+   "type": "image",
+   "src": "pipeline/media/music-absolute-anthology-os.jpg"
+  },
+  {
+   "id": "music-ross-fair-use-appeal",
+   "type": "image",
+   "src": "pipeline/media/music-ross-fair-use-appeal.jpg"
+  }
+ ]
 }

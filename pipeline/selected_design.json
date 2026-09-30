@@ -1,76 +1,94 @@
 {
-  "date": "2026-09-30",
-  "section": "design",
-  "picks": [
-    {
-      "rank": 1,
-      "title": "OpenAI DevDay 2026: Introducing hands-on editing in the Adobe plugin for ChatGPT",
-      "url": "https://blog.adobe.com/en/publish/2026/09/29/openai-devday-2026-introducing-hands-on-editing-adobe-plugin-chatgpt",
-      "source": "Adobe Blog",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-09-29T00:00:00Z",
-      "og_image": "https://blog.adobe.com/en/publish/2026/09/29/media_1047d7d7a561478527243a678cd2c060c7aa018f9.png?width=1200&format=pjpg&optimize=medium",
-      "excerpt": "Announced at OpenAI DevDay 2026: Adobe's ChatGPT plugin gains interactive, hands-on editors for images, designs and PDFs, powered by Photoshop and Adobe Express, so users can describe an edit in chat and then fine-tune it by hand in the panel. (page gives date only: 09-29-2026)",
-      "rationale": "The DevDay story that most directly affects design work: Photoshop and Express editors now open inside ChatGPT, so you can prompt an edit and then fine-tune it by hand. Primary source, and it covers the TechCrunch plugin-UI story too."
-    },
-    {
-      "rank": 2,
-      "title": "Introducing Claude Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Anthropic",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "published_iso": "2026-09-28T00:00:00Z",
-      "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg",
-      "excerpt": "Anthropic released Claude Sonnet 5.5 (Sept 28, 2026): 30%+ faster and up to 30% cheaper than Sonnet 5. It is strongest on everyday tasks and polished documents, slides and spreadsheets, and Anthropic says it has 'a sharp eye for design'. (page gives date only)",
-      "rationale": "A new model release that is faster and cheaper, pitched on design-quality output for docs and slides. It changes which model designers pick for AI-built UI and decks tomorrow."
-    },
-    {
-      "rank": 3,
-      "title": "How to de-slopify your designs",
-      "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-09-29T21:39:48Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*8HZbm_CuQ7CumOwEIQYm4w.png",
-      "excerpt": "Tips for anyone who vibecodes: people can spot and dislike AI slop but don't know how to fix it. This piece gives designers concrete ways to de-slopify AI-generated interfaces. (date/body from the Medium RSS feed; site is Cloudflare-walled)",
-      "rationale": "Hands-on fixes for generic AI-generated UI that designers can use right away. It is a fresh take, not the older de-slop pieces already published (Builder.io codebase, dev.to landing-page)."
-    },
-    {
-      "rank": 4,
-      "title": "OpenAI's new dots agents come with a crew of friendly mascots",
-      "url": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
-      "source": "Fast Company",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "published_iso": "2026-09-29T19:30:00Z",
-      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/1-openai-embargo-news.jpg",
-      "excerpt": "A design read on OpenAI's new dots agents: instead of the void logo, each dot gets a cute, blobby character design (a triangle with a bow tie, a bunny and others), a deliberate branding shift for agentic AI. (date/body from the FC RSS feed; site returns 403)",
-      "rationale": "The second DevDay angle, a design critique of character branding for AI agents. It is a different story from the Adobe plugin and from the 9/27 Meta Muse 'kawaii' piece."
-    },
-    {
-      "rank": 5,
-      "title": "Hands-on: Meta's Hologram avatars for VR and display glasses",
-      "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-      "source": "Road to VR",
-      "category": "vr",
-      "tool": "VR Prototype",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "published_iso": "2026-09-28T12:00:00+00:00",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg",
-      "excerpt": "Hands-on with Meta's 'Hologram' avatars from Connect: voice-driven, AI-infused 2.5D photoreal avatars that Meta positions against Apple Personas for its VR and display glasses.",
-      "rationale": "A hands-on look at a new AI avatar system for spatial and XR interfaces. It is a different story from the Muse agent card claimed by gadgets, and it keeps the VR category in the mix."
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "design",
+ "picks": [
+  {
+   "rank": 1,
+   "title": "Maxon releases Cinema 4D 2026.4 with a new MCP Server",
+   "url": "https://www.cgchannel.com/2026/09/maxon-releases-cinema-4d-2026-4-with-a-new-mcp-server/",
+   "source": "CG Channel",
+   "category": "render",
+   "tool": "KeyShot",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "published_iso": "2026-09-30T14:52:00Z",
+   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
+   "excerpt": "Cinema 4D 2026.4 adds an official MCP Server so Claude Desktop or ChatGPT Desktop can drive routine scene, render and rigging tasks via natural-language prompts; local, off by default, 'not a generative system'.",
+   "rationale": "Major DCC tool ships an official MCP bridge — directly changes 3D/motion designers' daily workflow; CG Channel chosen over Creative Bloq/DEVELOP3D (same story; Creative Bloq URL is also in movies' pool)."
+  },
+  {
+   "rank": 2,
+   "title": "Photoshop's controversial new AI tool is dividing opinion",
+   "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
+   "source": "Creative Bloq",
+   "category": "workflow",
+   "tool": "AI Workflow",
+   "accent": "#ff5a4d",
+   "motif": "frame",
+   "published_iso": "2026-09-30T07:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+   "excerpt": "Relight, a generative AI feature in Photoshop beta, strips an image's lighting and lets you add up to three controllable lights; early results split opinion over a 3D-avatar look. 30 credits per render.",
+   "rationale": "New Photoshop beta feature with hands-on usage details plus the craft debate — actionable for retouchers/visual designers."
+  },
+  {
+   "rank": 3,
+   "title": "Introducing Runway Ads",
+   "url": "https://runway.com/news/introducing-runway-ads",
+   "source": "Runway",
+   "category": "render",
+   "tool": "KeyShot",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "published_iso": "2026-09-30T18:32:00Z",
+   "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
+   "excerpt": "Runway Ads connects an ad account and brand kit, generates video/image creative, publishes approved variants to Meta, Google and TikTok, reads performance back and produces the next round.",
+   "rationale": "Primary-source product launch that automates the creative-iteration loop for brand/marketing designers."
+  },
+  {
+   "rank": 4,
+   "title": "OwlCAD brings parametric CAD and AI-powered design to the browser",
+   "url": "https://www.voxelmatters.com/owlcad-brings-parametric-cad-and-ai-powered-design-to-the-browser/",
+   "source": "VoxelMatters",
+   "category": "cad",
+   "tool": "Text-to-CAD",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "published_iso": "2026-09-30T09:00:14+00:00",
+   "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
+   "excerpt": "Spare Matter's browser-based OwlCAD returns AI-described parts as editable parametric node trees; Pro plan adds AI and a hosted 29-tool MCP server for Claude Code, Cursor and other agents.",
+   "rationale": "Text-to-CAD that keeps editable dimensions + agent MCP access — concrete for product/industrial designers; fills the CAD slot."
+  },
+  {
+   "rank": 5,
+   "title": "AI Has Changed What Makes a Great Designer",
+   "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
+   "source": "Core77",
+   "category": "workflow",
+   "tool": "AI Workflow",
+   "accent": "#3b6bff",
+   "motif": "frame",
+   "published_iso": "2026-09-29T14:07:00Z",
+   "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
+   "excerpt": "Parsons professor Steven Faerm argues that as AI makes production abundant, organizations should hire and evaluate designers on problem framing and judgment, and decide deliberately where AI enters the process.",
+   "rationale": "Design-org (AX) perspective on hiring, reviews and junior development — directly relevant to a design organization's AI transformation."
+  }
+ ],
+ "set_aside": [
+  {
+   "url": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d",
+   "reason": "same story as pick 1 (Cinema 4D MCP)"
+  },
+  {
+   "url": "https://develop3d.com/visualisation/cinema-4d-mcp-server/",
+   "reason": "same story as pick 1"
+  },
+  {
+   "url": "https://www.cined.com/adobe-after-effects-ai-assistant-enters-public-beta-whole-project-scope-expression-rigs-and-project-cleanup/",
+   "reason": "same-story dupe: AE AI Assistant beta published 2026-09-12 (cgchannel)"
+  },
+  {
+   "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
+   "reason": "Backflip X-to-CAD already covered 2026-09-18 (develop3d); kept as backup only"
+  }
+ ]
 }

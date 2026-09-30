@@ -1,144 +1,125 @@
 {
-  "date": "2026-09-30",
-  "section": "games",
-  "now_iso": "2026-09-29T22:03:11Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321559",
-      "source": "Inven",
-      "category": "games",
-      "published_iso": "2026-09-30T00:35:28+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/30/news/i1824665888.png",
-      "title": "팀원을 만들었는데 말벗이 됐다, 크래프톤 'PUBG Ally' 첫 성적표",
-      "excerpt": "크래프톤이 'PUBG: 배틀그라운드'의 AI 동료 'PUBG Ally' 개발 과정을 담은 기술보고서를 논문 공개 사이트 아카이브(arXiv)에 올렸다. 55쪽 분량의 보고서에는 아키텍처와 학습 방식이 담겼고, 라이브 베타의 이용자 설문 결과도 실렸다. 설문에서 이용자들은 크래프톤이 내세운 '같이 싸우는 팀원'보다 '정보를 주고 말을 걸어주는 상대'로서의 앨"
-    },
-    {
-      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-25T13:07:11.372955+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
-      "excerpt": "Horizon Centre and Horizon Studio will \"make it easier to turn your ideas into playable 2D and 3D games\""
-    },
-    {
-      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-29T20:30:00+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
-      "title": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
-      "excerpt": "We've hooked NVIDIA DLSS 5 into The Witcher 3: Wild Hunt — Remastered with intriguing results, both in visuals and performance."
-    },
-    {
-      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
-      "source": "PocketGamer.biz",
-      "category": "games",
-      "published_iso": "2026-09-29T14:00:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg",
-      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem ",
-      "excerpt": "Wearemighty is leaving game development behind and rebranding as SecretSauce Labs, shifting its focus entirely to AI content technology "
-    },
-    {
-      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-09-21T12:01:04.863409+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/tgs-header_bFNmbRK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "title": "Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion",
-      "excerpt": "The event's 30th instalment was dominated by remakes and legacy IP, and suggested a future shaped by AI and transmedia"
-    },
-    {
-      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-09-21T15:42:51.108291+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/xbox-logo_z42Z06j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "title": "Microsoft file patent for a machine learning system that would \"train\" itself on your playtime to work out when you'll be least annoyed by in-game ads",
-      "excerpt": "Microsoft file patent for in-game ad system that could use machine learning and player credits to avoid, or gamify the avoiding of a \"negative use experience\"."
-    },
-    {
-      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-09-20T09:20:36.457832+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "title": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead",
-      "excerpt": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead."
-    },
-    {
-      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-09-18T15:15:39.000Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "title": "MiHoYo wins $112,000 in Genshin Impact AI voice cloning lawsuit",
-      "excerpt": "A Shanghai, China-based court ruled that a genAI voice synthesizer developer infringed on MiHoYo's copyright on Genshin Impact."
-    },
-    {
-      "url": "https://www.pcgamer.com/gaming-industry/dueling-industry-surveys-show-japanese-game-devs-are-embracing-ai-while-north-american-ones-are-still-skeptical/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-09-18T22:51:54Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vn5Jqcxc4ay8B4pLZjE5HP-1280-80.png",
-      "title": "Dueling industry surveys show Japanese game devs are embracing AI, while North American ones are still skeptical",
-      "excerpt": "Two industry surveys point in opposite directions: Japan's CESA finds 85.8% of Japanese game developers use generative AI at work, while North American developers remain markedly more skeptical."
-    },
-    {
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-09-17T13:45:27Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
-      "title": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday",
-      "excerpt": "AMD researchers presented a technique that hands indirect lighting (global illumination) to an image-generation model frame by frame, an approach PC Gamer frames as a possible future answer to Nvidia's DLSS 5 neural rendering."
-    },
-    {
-      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-17T22:00:44+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/07/ocarina-of-time-link.jpg",
-      "title": "Team Behind Popular Ocarina Of Time  PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku",
-      "excerpt": "When asked what version of Ship of Harkinian doesn't contain LLM content, a dev said 'I don't know'"
-    },
-    {
-      "url": "https://kotaku.com/level-5-promises-to-fix-yo-kai-watch-2-and-professor-layton-presentation-in-the-wake-of-ai-backlash-and-explains-that-many-of-its-artwork-mistakes-were-simply-down-to-human-error-2000735123",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-09-16T18:00:14+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/09/Yo-kai-Watch-2-Haunted-Mansion-image-from-trailer-Level-5-1200x675.jpg",
-      "title": "Level-5 Announces Fixes For AI-Generated Presentation",
-      "excerpt": "According to Level-5, many of the perceived 'AI slop' elements in its recent presentation were due to the rushed nature of the Nintendo Direct, and were not AI-generated"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-09-16T17:14:07Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
-      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
-      "excerpt": "A PS5 Linux developer has abandoned the project, blaming inexperienced modders who use LLMs to generate code they don't understand for degrading the open-source modding scene ahead of GTA 6."
-    },
-    {
-      "url": "https://unity.com/blog/unity-plugin-codex",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-09-16T00:00:00+00:00",
-      "og_image": "htttps://unity.com/unity-logo-2024.png",
-      "title": "Unity's Official Plugin for Codex: Skills, CLI, Editor Control",
-      "excerpt": "Unity's official plugin for Codex is an official plugin that gives OpenAI's Codex Unity-written skills, so the agent works from Unity's own guidance for jobs like sprite atlases, URP renderer features, in-app purchases, and localization instead of from whatever it absorbed about Unity elsewhere."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=NVT8JwUNDSA",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-09-23T09:31:23-07:00",
-      "og_image": "https://i.ytimg.com/vi/NVT8JwUNDSA/maxresdefault.jpg",
-      "title": "Your guide to the official Unity plugin for Claude Code",
-      "excerpt": "Unity walks through installing its official plugin for Claude Code, the pipeline architecture, and a live demo in which Claude Code reads and drives the Unity Editor at runtime for prototyping gameplay and managing scenes."
-    }
-  ],
-  "notes": "RSS/sitemap harvest across 30+ feeds; 3 WebSearch used (1 blocked by domain policy). Dropped as duplicate stories: pocketgamer.biz Meta Horizon Create (=GI.biz Meta), Kotaku Insomniac (=Eurogamer), GamesRadar HoYoverse (=Game Developer), Inven CESA survey (=PC Gamer surveys). Expansions added: Korean 생성형 AI 게임, Unity/Claude Code plugin, DLSS 5 neural rendering remaster, AI voice lawsuit."
+ "date": "2026-10-01",
+ "section": "games",
+ "window_hours": 336,
+ "items": [
+  {
+   "url": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-09-30T06:50:15Z",
+   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg",
+   "headline": "Voice actor Kenjiro Tsuda’s lawsuit over AI voice cloning dismissed, but ruling sets important precedent for protecting seiyuu voices in Japan - AUTOMATON WEST",
+   "excerpt": "Kenjiro Tsuda's AI voice-cloning suit vs TikTok dismissed, but Tokyo District Court rules voices are protected under publicity rights."
+  },
+  {
+   "url": "https://www.inven.co.kr/webzine/news/?news=321627",
+   "source": "인벤",
+   "category": "games",
+   "published_iso": "2026-09-30T13:33:17Z",
+   "og_image": "https://static.inven.co.kr/column/2026/09/30/news/i1255078930.jpg",
+   "headline": "청구는 기각, 목소리 권리는 인정...성우 츠다 켄지로 AI 음성 복제 판결 | 웹진 인벤",
+   "excerpt": "Inven: Tsuda AI voice cloning ruling — claim dismissed, voice rights recognized (same story as automaton)."
+  },
+  {
+   "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
+   "source": "AUTOMATON",
+   "category": "games",
+   "published_iso": "2026-09-30T05:38:17Z",
+   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp",
+   "headline": "Atelier Ryza AI chatbot game developer to place restrictions on user inputs “to protect the integrity of the character and series” - AUTOMATON WEST",
+   "excerpt": "Spiral AI will restrict user inputs in RyzaChat:AI's October model update after prompt-injection misuse of the Ryza character AI."
+  },
+  {
+   "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
+   "source": "Aftermath",
+   "category": "games",
+   "published_iso": "2026-09-29T23:12:41Z",
+   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
+   "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
+   "excerpt": "Twitch CEO says AI transcribes streams and is now used to flag streamers who may not match advertisers' brands, pulling ads."
+  },
+  {
+   "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-09-30T15:58:32Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1916-80.jpg",
+   "headline": "Logitech",
+   "excerpt": "Logitech's beta Replay software uses deep learning to auto-pick and splice game highlight clips; PC Gamer tests it in Counter-Strike."
+  },
+  {
+   "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
+   "source": "Wccftech",
+   "category": "games",
+   "published_iso": "2026-09-30T16:45:00Z",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg",
+   "headline": "Borderless Gaming's DLSS 5 Implementation Runs Without Touching NVIDIA's Software, Quantized to Work Well Even on Unsupported GPUs",
+   "excerpt": "Borderless Gaming adds a quantized DLSS 5 neural rendering effect that runs without NVIDIA software, plus its own trained frame generation."
+  },
+  {
+   "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
+   "source": "Wccftech",
+   "category": "games",
+   "published_iso": "2026-09-29T20:30:00Z",
+   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
+   "headline": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
+   "excerpt": "Wccftech injects DLSS 5 neural rendering into The Witcher 3 Remastered: faces improve, up to 30% performance cost; only NBA 2K27 is official."
+  },
+  {
+   "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
+   "source": "Epic Developer Community",
+   "category": "games",
+   "published_iso": "2026-09-28T18:30:00Z",
+   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
+   "headline": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
+   "excerpt": "Open-source UE Box AI agent operates the Unreal Editor directly — places actors, edits Blueprints, wires materials, fixes C++ errors."
+  },
+  {
+   "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
+   "source": "Epic Developer Community",
+   "category": "games",
+   "published_iso": "2026-09-29T20:39:41Z",
+   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
+   "headline": "Sina — a 100% local AI digital human that walks the level and operates real Blueprint equipment (MetaHuman + NVIDIA ARDY) ",
+   "excerpt": "Sina plugin links a UE5 MetaHuman to a fully local AI brain (ASR, LLM, neural TTS) so it walks the level and operates Blueprint equipment."
+  },
+  {
+   "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
+   "source": "PC Gamer",
+   "category": "games",
+   "published_iso": "2026-09-17T13:45:27Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
+   "headline": "",
+   "excerpt": "AMD researchers publish a method that treats real-time global illumination as an image-generation problem, hinting at FSR's neural-rendering path."
+  },
+  {
+   "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
+   "source": "PocketGamer.biz",
+   "category": "games",
+   "published_iso": "2026-09-30T14:45:00Z",
+   "og_image": "https://media.pocketgamer.biz/images/141584/89954/maria-redin_l1200.jpg",
+   "headline": "MTG wants to double its size while leveraging AI",
+   "excerpt": "MTG CEO Maria Redin wants to double the group's size while scaling AI tooling across its studios."
+  },
+  {
+   "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
+   "source": "PocketGamer.biz",
+   "category": "games",
+   "published_iso": "2026-09-25T11:38:00Z",
+   "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
+   "headline": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
+   "excerpt": "Qualcomm unveils two flagship Snapdragon chips pitched at mobile and AI gaming."
+  },
+  {
+   "url": "https://www.thisisgame.com/articles/430508?newsId=400289&categoryId=0",
+   "source": "디스이즈게임",
+   "category": "games",
+   "published_iso": "2026-09-29T16:30:23Z",
+   "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/09/29/1639263221496091255_9d102bdb-2caa-4e68-9a44-c3401feb66b7_image002.jpg",
+   "headline": "엔비디아, 11월 9일 코엑스서 'AI 데이 서울 2026' 개최",
+   "excerpt": "NVIDIA AI Day Seoul 2026 set for Nov 9–10 at COEX (event notice)."
+  }
+ ],
+ "note": "Primary collection via allowed-domain RSS + Google News RSS (when:14d) + YouTube channel feeds; 6 WebSearch queries (2 rejected by domain filter). Expansion keywords added: DLSS 5 / neural rendering, Twitch AI moderation, AI voice cloning law (seiyuu), Unreal Editor AI agent / MCP, MetaHuman local LLM, Krafton/Nexon/NCSoft/Netmarble AI, Roblox Cube, Genie 3, SAG-AFTRA, AI QA/anti-cheat. Pool thin: most fresh AI×games items were already published in the last 14 days (Motherbrain, CESA 85%, Level-5, Wolverine sign, Ocarina port, Unity Claude Code plugin, Microsoft ads patent, TGS opinion, etc.)."
 }

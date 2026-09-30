@@ -1,47 +1,198 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "music",
   "rotation": {
     "mode": "full_pool_override",
-    "note": "Unattended-run override: ALL music core + ENTIRE keywords list used as seeds (no date-based subset). No WebSearch used in planning. Recently covered (2026-09-24..09-29): Musixmatch Sentinel/Suno lyrics filter, VirtualDJ 2026 AI scripting, ClassicalBot, Glazmo AI drum kits, Michael Smith AI stream fraud, Amorph text-to-plugin, ElevenLabs MCP, YouTube Music Ask Music, Pachet interview -- queries steer toward fresh angles away from these."
+    "note": "Unattended-run override (2026-10-01): ALL music core + ENTIRE keywords list used as seeds, no rotation. No WebSearch in planning. Recently covered (2026-09-25..09-30): ABYZOR Genesis, Suno Studio voice-as-instrument, TikTok voice-clone suit, K-pop AI authenticity, ElevenLabs v4, Musixmatch lyrics LLM, VirtualDJ 2026, ClassicalBot, Glazmo, Michael Smith fraud, Engram sampler, Suno v6 label deals -- steer to fresh angles."
   },
   "user_seeds": [],
   "working_keywords": [
-    "AI music", "AI 음악", "generative music",
-    "AI music generation", "Suno", "Udio", "Stable Audio", "ElevenLabs Music", "Google Lyria",
-    "MusicLM", "AI mastering", "AI stem separation", "AI songwriting", "AI vocal cloning",
-    "text-to-music", "AI music plugin", "neural synthesizer", "AI mixing", "AI sample generation",
-    "AI song cover", "music AI licensing", "AI DJ", "real-time AI music", "Riffusion",
-    "AI in Ableton", "AI in Logic Pro", "AI music video"
+    "AI music",
+    "AI 음악",
+    "generative music",
+    "AI music generation",
+    "Suno",
+    "Udio",
+    "Stable Audio",
+    "ElevenLabs Music",
+    "Google Lyria",
+    "MusicLM",
+    "AI mastering",
+    "AI stem separation",
+    "AI songwriting",
+    "AI vocal cloning",
+    "text-to-music",
+    "AI music plugin",
+    "neural synthesizer",
+    "AI mixing",
+    "AI sample generation",
+    "AI song cover",
+    "music AI licensing",
+    "AI DJ",
+    "real-time AI music",
+    "Riffusion",
+    "AI in Ableton",
+    "AI in Logic Pro",
+    "AI music video"
   ],
   "expansions": {
-    "AI music": ["AI-generated songs", "AI artist", "AI music streaming", "AI music chart"],
-    "AI 음악": ["AI 작곡", "생성형 AI 음악", "AI 가수", "AI 음원 저작권"],
-    "generative music": ["generative audio model", "adaptive music", "procedural soundtrack"],
-    "AI music generation": ["music generation model release", "song generator", "AI music app"],
-    "Suno": ["Suno v5", "Suno Studio", "Suno Warner deal", "Suno lawsuit"],
-    "Udio": ["Udio UMG platform", "Udio licensed model", "Udio launch"],
-    "Stable Audio": ["Stability AI audio", "Stable Audio Open", "Stable Audio 2.5"],
-    "ElevenLabs Music": ["Eleven Music", "ElevenLabs music model", "ElevenLabs licensed music"],
-    "Google Lyria": ["Lyria RealTime", "Lyria 2", "YouTube Dream Track", "Gemini music"],
-    "MusicLM": ["MusicFX", "Google DeepMind music", "MusicGen Meta", "AudioCraft"],
-    "AI mastering": ["LANDR mastering", "iZotope Ozone AI", "BandLab mastering", "eMastered"],
-    "AI stem separation": ["stem splitter", "Demucs", "LALAL.AI", "Music AI Moises", "RipX"],
-    "AI songwriting": ["AI lyric writing", "AI co-writer", "AI chord progression", "songwriter AI tool"],
-    "AI vocal cloning": ["voice model singer", "Kits.ai", "Grimes Elf.Tech", "voice-swap vocal plugin"],
-    "text-to-music": ["prompt to song", "text-to-audio", "text-to-sample"],
-    "AI music plugin": ["AI VST", "Neutone", "Synplant", "AI audio plugin release"],
-    "neural synthesizer": ["neural audio synthesis", "RAVE model", "DDSP", "AI wavetable"],
-    "AI mixing": ["AI mix assistant", "Neutron AI", "RoEx", "automatic mixing"],
-    "AI sample generation": ["AI sample pack", "Splice AI", "Tracklib AI", "generated loops"],
-    "AI song cover": ["AI cover viral", "deepfake song", "AI Drake", "voice clone cover takedown"],
-    "music AI licensing": ["label AI deal", "AI training license music", "GEMA Suno", "Sony Music AI", "UMG AI partnership"],
-    "AI DJ": ["Spotify AI DJ", "AI DJ software", "rekordbox AI", "Serato stems"],
-    "real-time AI music": ["live AI performance", "interactive AI music", "AI jam session"],
-    "Riffusion": ["Riffusion Fuzz", "Producer.ai"],
-    "AI in Ableton": ["Ableton Live 12 AI", "Max for Live AI", "Ableton extensions"],
-    "AI in Logic Pro": ["Logic Pro Session Players", "Logic Pro stem splitter", "ChromaGlow", "Apple Logic AI"],
-    "AI music video": ["AI-generated music video", "Runway music video", "Kling music video", "Sora music video"]
+    "AI music": [
+      "AI-generated songs",
+      "AI artist",
+      "AI music streaming",
+      "AI music chart"
+    ],
+    "AI 음악": [
+      "AI 작곡",
+      "생성형 AI 음악",
+      "AI 가수",
+      "AI 음원 저작권",
+      "AI 음원 유통",
+      "AI 뮤직비디오"
+    ],
+    "generative music": [
+      "generative audio model",
+      "adaptive music",
+      "procedural soundtrack"
+    ],
+    "AI music generation": [
+      "music generation model release",
+      "song generator",
+      "AI music app"
+    ],
+    "Suno": [
+      "Suno v5",
+      "Suno Studio",
+      "Suno Warner deal",
+      "Suno lawsuit",
+      "Suno v6"
+    ],
+    "Udio": [
+      "Udio UMG platform",
+      "Udio licensed model",
+      "Udio launch"
+    ],
+    "Stable Audio": [
+      "Stability AI audio",
+      "Stable Audio Open",
+      "Stable Audio 2.5"
+    ],
+    "ElevenLabs Music": [
+      "Eleven Music",
+      "ElevenLabs music model",
+      "ElevenLabs licensed music"
+    ],
+    "Google Lyria": [
+      "Lyria RealTime",
+      "Lyria 2",
+      "YouTube Dream Track",
+      "Gemini music"
+    ],
+    "MusicLM": [
+      "MusicFX",
+      "Google DeepMind music",
+      "MusicGen Meta",
+      "AudioCraft"
+    ],
+    "AI mastering": [
+      "LANDR mastering",
+      "iZotope Ozone AI",
+      "BandLab mastering",
+      "eMastered"
+    ],
+    "AI stem separation": [
+      "stem splitter",
+      "Demucs",
+      "LALAL.AI",
+      "Music AI Moises",
+      "RipX"
+    ],
+    "AI songwriting": [
+      "AI lyric writing",
+      "AI co-writer",
+      "AI chord progression",
+      "songwriter AI tool"
+    ],
+    "AI vocal cloning": [
+      "voice model singer",
+      "Kits.ai",
+      "Grimes Elf.Tech",
+      "voice-swap vocal plugin"
+    ],
+    "text-to-music": [
+      "prompt to song",
+      "text-to-audio",
+      "text-to-sample"
+    ],
+    "AI music plugin": [
+      "AI VST",
+      "Neutone",
+      "Synplant",
+      "AI audio plugin release"
+    ],
+    "neural synthesizer": [
+      "neural audio synthesis",
+      "RAVE model",
+      "DDSP",
+      "AI wavetable"
+    ],
+    "AI mixing": [
+      "AI mix assistant",
+      "Neutron AI",
+      "RoEx",
+      "automatic mixing"
+    ],
+    "AI sample generation": [
+      "AI sample pack",
+      "Splice AI",
+      "Tracklib AI",
+      "generated loops"
+    ],
+    "AI song cover": [
+      "AI cover viral",
+      "deepfake song",
+      "AI Drake",
+      "voice clone cover takedown"
+    ],
+    "music AI licensing": [
+      "label AI deal",
+      "AI training license music",
+      "GEMA Suno",
+      "Sony Music AI",
+      "UMG AI partnership"
+    ],
+    "AI DJ": [
+      "Spotify AI DJ",
+      "AI DJ software",
+      "rekordbox AI",
+      "Serato stems"
+    ],
+    "real-time AI music": [
+      "live AI performance",
+      "interactive AI music",
+      "AI jam session"
+    ],
+    "Riffusion": [
+      "Riffusion Fuzz",
+      "Producer.ai"
+    ],
+    "AI in Ableton": [
+      "Ableton Live 12 AI",
+      "Max for Live AI",
+      "Ableton extensions"
+    ],
+    "AI in Logic Pro": [
+      "Logic Pro Session Players",
+      "Logic Pro stem splitter",
+      "ChromaGlow",
+      "Apple Logic AI"
+    ],
+    "AI music video": [
+      "AI-generated music video",
+      "Runway music video",
+      "Kling music video",
+      "Sora music video"
+    ]
   },
   "categories": [
     {
@@ -110,7 +261,11 @@
         "youtube.com",
         "youtu.be"
       ],
-      "youtube_channels_today": ["Andrew Huang", "Benn Jordan", "Venus Theory"],
+      "youtube_channels_today": [
+        "Andrew Huang",
+        "Benn Jordan",
+        "Venus Theory"
+      ],
       "wildcard": "AI music video"
     }
   ]

@@ -1,108 +1,729 @@
 {
-  "date": "2026-09-30",
-  "section": "politics",
-  "rotation": {
-    "basis": "OVERRIDE for 2026-09-30 unattended run: no date-rotation subset. ALL 3 core + ALL 34 pool keywords of keyword_pool.json sections.politics are working keywords.",
-    "method": "Every keyword expanded into 3-4 sibling phrases, grouped by the three politics._note axes (policy/regulation 3 core + 15 pool, elections/public opinion 9, geopolitics 10). Queries bundle 1-2 related keywords each so all 37 are covered within 32 queries. Query phrasing shifted vs 2026-09-29 (different expansions emphasized: Newsom Sept 30 signing deadline, frontier-lab incident rules, midterm final-month AI ads, RTX Pro 5500 China approval, Korea AI Basic Act enforcement decree). No WebSearch used in planning (budget reserved for collection).",
-    "notes": "Last 2 days of news_data.json politics: today=2026-09-29 (Florida AG injunction vs OpenAI frontier development, OpenAI pauses training of top model after agent incidents, China weighing ByteDance/Alibaba Nvidia RTX Pro 5500 purchases, Pope Leo 'AI warnings not fake news', FPF agentic-AI taxonomy / AI AGENT Act vs CA SB 1106); days=2026-09-28 (Anthropic DC Circuit supply-chain ruling, US-China SI dialogue fact sheet, Pentagon Polygraph+, Bessent liability remarks, UNGA AI governance clash) and 2026-09-21. Override requires ALL keywords so none skipped; these stories are excluded in scope and queries steer to NEW developments. Live follow-up threads worth catching if new: Florida court ruling on the injunction, OpenAI training-resumption/incident disclosures to regulators, Australia investigation outcome, Trump/Speaker Johnson meeting with tech CEOs (scheduled Tue 2026-09-29), Chinese approval decision on Nvidia chips, Anthropic en banc petition. California governor bill-signing deadline is 2026-09-30; US midterms 2026-11-03. Freshness window 72h: queries pinned to Sep 27-30 2026."
+ "date": "2026-10-01",
+ "section": "politics",
+ "rotation": {
+  "basis": "OVERRIDE for 2026-10-01 unattended run: no rotation subset; ALL 3 core + ALL 34 pool keywords of keyword_pool.json sections.politics are working keywords.",
+  "method": "Each keyword expanded into 4 sibling phrases, grouped by politics._note's three axes (policy 18, elections 9, geopolitics 10). Queries bundle related keywords. Collection is RSS/feed-first per brief; WebSearch ≤6 for gaps. No WebSearch used in planning.",
+  "notes": "Recent politics (2026-09-28..30) already published: WH super-intelligence EO, AI voluntary principles, EC copyright consultation, CSET chip tracking cost, researchers SI danger videos, Florida AG v OpenAI, OpenAI training pause, Nvidia China chips, Pope Leo, FPF agentic taxonomy, Anthropic DC Circuit, US-China SI dialogue, Pentagon Polygraph+, Bessent liability, UNGA clash. Steer to NEW developments. Window 72h: 2026-09-27T22:00Z..2026-09-30T22:00Z. California signing deadline 2026-09-30."
+ },
+ "seeds_from_user": [],
+ "working_keywords": [
+  {
+   "keyword": "AI policy",
+   "origin": "core",
+   "axis": "policy",
+   "expansions": [
+    "super intelligence executive order follow-up",
+    "OSTP superintelligence definition",
+    "federal AI guidance October 2026",
+    "AI 정책 발표"
+   ]
   },
-  "seeds_from_user": [],
-  "working_keywords": [
-    {"keyword": "AI policy", "origin": "core", "axis": "policy", "expansions": ["White House tech CEO meeting AI", "agency AI guidance released", "AI governance framework published", "AI 정책 발표"]},
-    {"keyword": "AI regulation", "origin": "core", "axis": "policy", "expansions": ["frontier model incident reporting rule", "AI agent regulation", "pause frontier AI development law", "AI compliance deadline"]},
-    {"keyword": "AI 규제", "origin": "core", "axis": "policy", "expansions": ["인공지능 규제 법안", "AI 에이전트 규제", "과기정통부 AI 정책", "국회 AI 법안"]},
-    {"keyword": "EU AI Act", "origin": "pool(policy)", "axis": "policy", "expansions": ["digital omnibus AI Act trilogue", "AI Office GPAI enforcement", "high-risk AI obligations delay", "EU AI Act serious incident guidance"]},
-    {"keyword": "AI executive order", "origin": "pool(policy)", "axis": "policy", "expansions": ["White House AI executive order superintelligence", "federal preemption of state AI laws", "governor AI executive order", "OMB AI memo"]},
-    {"keyword": "AI bill", "origin": "pool(policy)", "axis": "policy", "expansions": ["AI AGENT Act Congress", "frontier AI bill Senate Commerce", "Obernolte-Trahan frontier model bill", "state legislature AI bill signed"]},
-    {"keyword": "AI liability", "origin": "pool(policy)", "axis": "policy", "expansions": ["state attorney general AI lawsuit", "public nuisance AI lawsuit", "chatbot harm wrongful death ruling", "frontier lab liability shield"]},
-    {"keyword": "AI copyright lawsuit", "origin": "pool(policy)", "axis": "policy", "expansions": ["AI training fair use ruling", "authors v. AI company settlement", "Getty Stability appeal", "news publisher AI lawsuit"]},
-    {"keyword": "AI transparency rule", "origin": "pool(policy)", "axis": "policy", "expansions": ["training data transparency summary", "chatbot disclosure law", "AI incident disclosure requirement", "AI 투명성 의무"]},
-    {"keyword": "algorithmic accountability", "origin": "pool(policy)", "axis": "policy", "expansions": ["algorithmic discrimination law", "automated decision-making rules CPPA", "AI hiring audit law", "algorithmic impact assessment"]},
-    {"keyword": "AI safety institute", "origin": "pool(policy)", "axis": "policy", "expansions": ["CAISI NIST agent evaluation", "UK AI Security Institute report", "pre-deployment frontier model testing", "AI 안전연구소"]},
-    {"keyword": "NIST AI framework", "origin": "pool(policy)", "axis": "policy", "expansions": ["NIST AI agent standards", "NIST AI RMF update", "NIST AI 800 series draft", "AI evaluation standards NIST"]},
-    {"keyword": "AI procurement rules", "origin": "pool(policy)", "axis": "policy", "expansions": ["government AI procurement guidance", "GSA OneGov AI contract", "Pentagon AI vendor terms", "federal agency AI acquisition"]},
-    {"keyword": "state AI law", "origin": "pool(policy)", "axis": "policy", "expansions": ["Newsom signs vetoes AI bill September 30", "Colorado AI Act", "New York RAISE Act", "Texas TRAIGA enforcement"]},
-    {"keyword": "AI licensing", "origin": "pool(policy)", "axis": "policy", "expansions": ["frontier model licensing regime", "AI developer license proposal", "training data licensing rule", "collective licensing AI"]},
-    {"keyword": "AI 기본법", "origin": "pool(policy)", "axis": "policy", "expansions": ["AI 기본법 시행령", "고영향 AI 가이드라인", "AI 기본법 개정안", "Korea AI Basic Act enforcement"]},
-    {"keyword": "AI 저작권", "origin": "pool(policy)", "axis": "policy", "expansions": ["생성형 AI 저작권 가이드라인", "AI 학습 데이터 저작권 소송", "문체부 AI 저작권", "AI 산출물 저작권 등록"]},
-    {"keyword": "개인정보 AI", "origin": "pool(policy)", "axis": "policy", "expansions": ["개인정보위 AI 조사", "AI 에이전트 개인정보 가이드", "GDPR AI training enforcement", "privacy regulator AI agent"]},
-    {"keyword": "election deepfake", "origin": "pool(elections)", "axis": "elections", "expansions": ["midterm deepfake candidate video", "deepfake election law court ruling", "AI robocall voters", "election deepfake takedown"]},
-    {"keyword": "AI generated political ad", "origin": "pool(elections)", "axis": "elections", "expansions": ["AI campaign ad midterms final month", "FEC AI ad disclosure", "super PAC AI ad", "state AI political ad disclosure"]},
-    {"keyword": "synthetic media election", "origin": "pool(elections)", "axis": "elections", "expansions": ["synthetic campaign media", "AI-generated campaign content", "voice clone candidate", "AI avatar campaign"]},
-    {"keyword": "AI disinformation", "origin": "pool(elections)", "axis": "elections", "expansions": ["AI-generated misinformation study", "chatbot election answers accuracy", "AI propaganda research", "foreign AI disinformation midterms"]},
-    {"keyword": "content provenance C2PA", "origin": "pool(elections)", "axis": "elections", "expansions": ["Content Credentials adoption", "C2PA camera news provenance", "SynthID detection", "provenance labeling law"]},
-    {"keyword": "political bot network", "origin": "pool(elections)", "axis": "elections", "expansions": ["AI bot network takedown", "coordinated inauthentic behavior report", "LLM-powered influence operation", "AI agent astroturfing"]},
-    {"keyword": "platform AI labeling", "origin": "pool(elections)", "axis": "elections", "expansions": ["YouTube Meta TikTok AI label policy", "AI-generated content label election", "X Community Notes AI", "platform election integrity AI"]},
-    {"keyword": "딥페이크 선거", "origin": "pool(elections)", "axis": "elections", "expansions": ["선거 딥페이크 단속", "중앙선관위 딥페이크", "딥페이크 선거운동 처벌", "AI 선거 영상"]},
-    {"keyword": "AI 허위정보", "origin": "pool(elections)", "axis": "elections", "expansions": ["AI 가짜뉴스 규제", "AI 생성물 표시 의무", "AI 워터마크 법제화", "생성형 AI 허위정보 대응"]},
-    {"keyword": "chip export controls", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["BIS AI chip rule", "Nvidia RTX Pro 5500 China approval", "GAIN AI Act", "H200 China export license"]},
-    {"keyword": "US China AI competition", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["China AI regulation agents", "Chinese open-weight model release policy", "Chinese AI chip self-sufficiency", "미중 AI 경쟁"]},
-    {"keyword": "sovereign AI", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["Macron coalition open-source frontier model", "sovereign compute fund", "European sovereign AI", "India AI Mission"]},
-    {"keyword": "AI chip smuggling", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["GPU smuggling indictment", "Nvidia chips diverted Southeast Asia", "chip location verification bill", "export enforcement AI chips"]},
-    {"keyword": "compute diplomacy", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["American AI Exports program", "Gulf AI campus agreement", "Pax Silica", "bilateral AI compute deal"]},
-    {"keyword": "national AI strategy", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["AI Action Plan implementation", "UK AI Opportunities plan", "Japan AI basic plan", "national AI strategy launch"]},
-    {"keyword": "AI datacenter siting", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["datacenter moratorium state", "Loudoun County datacenter pause", "AI datacenter power grid FERC", "datacenter ratepayer protection law"]},
-    {"keyword": "반도체 수출규제", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["AI 반도체 수출통제", "HBM 수출규제", "엔비디아 중국 판매 승인", "대중 반도체 규제"]},
-    {"keyword": "AI 패권", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["AI 3대 강국", "초지능 미중 대화", "global AI race policy", "AI superpower strategy"]},
-    {"keyword": "소버린 AI", "origin": "pool(geopolitics)", "axis": "geopolitics", "expansions": ["독자 AI 파운데이션 모델", "국가 AI 컴퓨팅 센터", "GPU 확보 정부", "소버린 AI 정책"]}
-  ],
-  "plan": [
-    {
-      "category": "politics",
-      "label": "Politics",
-      "motif": "cube",
-      "accent": "#3b6bff",
-      "scope": "AI x politics on three axes only: (1) policy/regulation, (2) AI in elections & public opinion, (3) AI geopolitics. AI must be what makes the story happen (drop anything that still stands with AI deleted from the headline). Non-partisan: report what was decided/filed/published and what it changes for people who build with AI; attribute contested claims; prefer primary documents. Do NOT re-card 2026-09-29 stories (Florida AG injunction filing vs OpenAI, OpenAI training pause, China weighing Nvidia RTX Pro 5500 purchases, Pope Leo AI remarks, FPF agentic taxonomy), 2026-09-28 stories (Anthropic DC Circuit supply-chain ruling, US-China SI dialogue fact sheet, Pentagon Polygraph+, Bessent liability remarks, UNGA AI governance clash) or 2026-09-21 stories (military AI hallucination near-miss, IAPP gravity-shift column, Virginia datacenter EO, UN GDC review, Nigeria BVAS) unless there is a genuinely new filing/ruling/decision (e.g. court rules on the Florida injunction, China formally approves the chip purchases, Anthropic files en banc).",
-      "allowed_domains": [
-        "techpolicy.press", "lawfaremedia.org", "brookings.edu", "carnegieendowment.org", "cset.georgetown.edu",
-        "ainowinstitute.org", "hai.stanford.edu", "iapp.org", "fpf.org", "epic.org", "oecd.ai", "nist.gov",
-        "digital-strategy.ec.europa.eu", "artificialintelligenceact.eu", "politico.eu", "euractiv.com",
-        "theverge.com", "arstechnica.com", "technologyreview.com", "wired.com", "theregister.com", "axios.com",
-        "restofworld.org", "apnews.com", "niemanlab.org", "cjr.org", "poynter.org", "misinforeview.hks.harvard.edu",
-        "bellingcat.com", "csis.org", "rand.org", "thediplomat.com", "chinatalk.media", "semianalysis.com",
-        "whitehouse.gov", "congress.gov", "ftc.gov", "fec.gov", "fcc.gov", "bis.doc.gov", "justice.gov", "gsa.gov",
-        "gov.ca.gov", "ec.europa.eu", "europarl.europa.eu", "gov.uk", "c2pa.org", "korea.kr", "msit.go.kr", "pipc.go.kr", "nec.go.kr"
-      ],
-      "queries": [
-        "Trump Johnson tech CEOs meeting AI September 29 2026",
-        "AI regulation frontier model incident reporting rule September 2026",
-        "AI 규제 AI 에이전트 법안 2026년 9월 30일",
-        "EU AI Act digital omnibus trilogue AI Office enforcement late September 2026",
-        "White House AI executive order superintelligence state preemption late September 2026",
-        "AI AGENT Act frontier AI bill Senate Commerce September 2026",
-        "Newsom signs vetoes AI bills deadline September 30 2026",
-        "state attorney general AI lawsuit OpenAI court ruling September 2026",
-        "AI copyright lawsuit fair use ruling settlement September 29 2026",
-        "AI incident disclosure transparency rule automated decision-making regulation September 2026",
-        "CAISI NIST AI agent evaluation standards AI safety institute September 2026",
-        "government AI procurement rules agency contract Pentagon AI vendor September 2026",
-        "frontier AI developer licensing regime proposal September 2026",
-        "AI 기본법 시행령 고영향 AI 가이드라인 2026년 9월",
-        "AI 저작권 소송 문체부 가이드라인 2026년 9월",
-        "개인정보위 AI 에이전트 개인정보 조사 2026년 9월",
-        "election deepfake midterms candidate AI video court ruling September 2026",
-        "AI generated political ad super PAC FEC disclosure midterms final month 2026",
-        "synthetic media voice clone campaign AI avatar midterms September 2026",
-        "AI disinformation chatbot election answers study late September 2026",
-        "C2PA Content Credentials platform AI label policy election September 2026",
-        "AI influence operation bot network takedown threat report September 2026",
-        "딥페이크 선거 AI 허위정보 선관위 단속 2026년 9월",
-        "BIS chip export controls Nvidia China approval RTX Pro 5500 September 2026",
-        "AI chip smuggling indictment GPU diversion September 2026",
-        "China AI agent regulation open-weight model policy US China competition September 2026",
-        "sovereign AI national AI strategy open-source frontier coalition September 2026",
-        "compute diplomacy American AI exports Gulf AI campus deal September 2026",
-        "AI datacenter moratorium ratepayer law state federal late September 2026",
-        "반도체 수출규제 엔비디아 중국 판매 승인 2026년 9월",
-        "소버린 AI 패권 독자 파운데이션 모델 정부 2026년 9월",
-        "site:lawfaremedia.org AI September 2026"
-      ]
-    }
-  ],
-  "wildcard_query": "AI policy news this week 2026-09-30",
-  "totals": {
-    "working_keywords": 37,
-    "categories": 1,
-    "queries": 32
+  {
+   "keyword": "AI regulation",
+   "origin": "core",
+   "axis": "policy",
+   "expansions": [
+    "frontier AI incident reporting",
+    "AI agent regulation",
+    "OpenAI training pause regulators",
+    "AI compliance deadline"
+   ]
+  },
+  {
+   "keyword": "AI 규제",
+   "origin": "core",
+   "axis": "policy",
+   "expansions": [
+    "인공지능 규제 법안",
+    "AI 에이전트 규제",
+    "과기정통부 AI",
+    "국회 AI 법안"
+   ]
+  },
+  {
+   "keyword": "EU AI Act",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "digital omnibus AI Act delay",
+    "GPAI code of practice",
+    "AI Office guidelines",
+    "high-risk AI obligations"
+   ]
+  },
+  {
+   "keyword": "AI executive order",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "Inaugurating the Era of Super Intelligence",
+    "presidential action AI",
+    "OMB AI memo",
+    "preemption state AI laws"
+   ]
+  },
+  {
+   "keyword": "AI bill",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "Newsom signs AI bill",
+    "SB 1106",
+    "AI AGENT Act",
+    "Congress AI moratorium"
+   ]
+  },
+  {
+   "keyword": "AI liability",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "frontier AI liability shield",
+    "AI chatbot lawsuit",
+    "Section 230 AI",
+    "product liability AI"
+   ]
+  },
+  {
+   "keyword": "AI copyright lawsuit",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "authors v. OpenAI ruling",
+    "fair use AI training decision",
+    "Getty Stability",
+    "music labels AI suit"
+   ]
+  },
+  {
+   "keyword": "AI transparency rule",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "training data disclosure",
+    "AI system card requirement",
+    "model transparency law",
+    "AB 2013"
+   ]
+  },
+  {
+   "keyword": "algorithmic accountability",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "algorithmic discrimination rule",
+    "automated decision-making regulation",
+    "ADMT CPPA",
+    "AI audit law"
+   ]
+  },
+  {
+   "keyword": "AI safety institute",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "CAISI",
+    "UK AI Security Institute",
+    "AI safety evaluation report",
+    "frontier model testing agreement"
+   ]
+  },
+  {
+   "keyword": "NIST AI framework",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "NIST AI RMF",
+    "NIST guidance AI agents",
+    "NIST control overlays AI",
+    "NIST draft"
+   ]
+  },
+  {
+   "keyword": "AI procurement rules",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "GSA AI procurement",
+    "Pentagon AI contract",
+    "supply chain risk Anthropic",
+    "federal AI acquisition"
+   ]
+  },
+  {
+   "keyword": "state AI law",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "California AI law signed",
+    "Colorado AI Act",
+    "New York RAISE Act",
+    "Texas TRAIGA"
+   ]
+  },
+  {
+   "keyword": "AI licensing",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "frontier model licensing",
+    "AI licensing regime",
+    "compute threshold license",
+    "AI registration"
+   ]
+  },
+  {
+   "keyword": "AI 기본법",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "인공지능기본법 시행령",
+    "AI 기본법 고시",
+    "고영향 AI",
+    "AI 기본법 개정"
+   ]
+  },
+  {
+   "keyword": "AI 저작권",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "생성형 AI 저작권 소송",
+    "AI 학습 저작물",
+    "저작권위원회 AI",
+    "AI 저작권 가이드라인"
+   ]
+  },
+  {
+   "keyword": "개인정보 AI",
+   "origin": "pool",
+   "axis": "policy",
+   "expansions": [
+    "개인정보위 AI",
+    "AI 개인정보 처리",
+    "GDPR AI training",
+    "privacy regulator chatbot"
+   ]
+  },
+  {
+   "keyword": "election deepfake",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "midterm deepfake",
+    "deepfake candidate video",
+    "AI robocall election",
+    "deepfake law election"
+   ]
+  },
+  {
+   "keyword": "AI generated political ad",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "FEC AI ad",
+    "AI campaign ad disclosure",
+    "political ad synthetic",
+    "FCC AI political ads"
+   ]
+  },
+  {
+   "keyword": "synthetic media election",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "synthetic candidate",
+    "AI voice clone campaign",
+    "2026 midterms AI",
+    "election officials AI"
+   ]
+  },
+  {
+   "keyword": "AI disinformation",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "AI influence operation",
+    "OpenAI threat report",
+    "state-backed AI propaganda",
+    "chatbot misinformation election"
+   ]
+  },
+  {
+   "keyword": "content provenance C2PA",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "C2PA content credentials",
+    "watermark AI content law",
+    "SB 942 AI detection",
+    "provenance labeling"
+   ]
+  },
+  {
+   "keyword": "political bot network",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "bot network X AI",
+    "coordinated inauthentic AI accounts",
+    "LLM bot campaign",
+    "astroturfing AI"
+   ]
+  },
+  {
+   "keyword": "platform AI labeling",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "Meta AI label political",
+    "YouTube AI disclosure",
+    "TikTok AI content label",
+    "X Grok election"
+   ]
+  },
+  {
+   "keyword": "딥페이크 선거",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "지방선거 딥페이크",
+    "선관위 딥페이크",
+    "딥페이크 선거운동",
+    "AI 선거"
+   ]
+  },
+  {
+   "keyword": "AI 허위정보",
+   "origin": "pool",
+   "axis": "elections",
+   "expansions": [
+    "AI 가짜뉴스",
+    "생성형 AI 허위조작정보",
+    "AI 여론조작",
+    "방통위 AI"
+   ]
+  },
+  {
+   "keyword": "chip export controls",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "BIS export rule AI chips",
+    "Nvidia China license",
+    "H20 RTX Pro China",
+    "AI diffusion rule replacement"
+   ]
+  },
+  {
+   "keyword": "US China AI competition",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "US-China superintelligence dialogue",
+    "China AI plan",
+    "DeepSeek government",
+    "China AI governance"
+   ]
+  },
+  {
+   "keyword": "sovereign AI",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "sovereign AI program",
+    "national compute",
+    "sovereign LLM government",
+    "AI gigafactory EU"
+   ]
+  },
+  {
+   "keyword": "AI chip smuggling",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "chip smuggling indictment",
+    "GPU diversion",
+    "Chip Security Act",
+    "location verification chips"
+   ]
+  },
+  {
+   "keyword": "compute diplomacy",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "AI datacenter deal UAE",
+    "Stargate abroad",
+    "AI export program",
+    "American AI exports"
+   ]
+  },
+  {
+   "keyword": "national AI strategy",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "national AI action plan",
+    "AI strategy published",
+    "UK AI opportunities",
+    "India AI mission"
+   ]
+  },
+  {
+   "keyword": "AI datacenter siting",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "datacenter moratorium",
+    "datacenter power grid policy",
+    "datacenter zoning AI",
+    "Virginia datacenter"
+   ]
+  },
+  {
+   "keyword": "반도체 수출규제",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "엔비디아 중국 수출",
+    "미국 반도체 규제",
+    "HBM 수출통제",
+    "반도체 관세"
+   ]
+  },
+  {
+   "keyword": "AI 패권",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "미중 AI 경쟁",
+    "AI 주권",
+    "AI 동맹",
+    "한미 AI"
+   ]
+  },
+  {
+   "keyword": "소버린 AI",
+   "origin": "pool",
+   "axis": "geopolitics",
+   "expansions": [
+    "국가대표 AI",
+    "독자 AI 파운데이션 모델",
+    "GPU 확보 정부",
+    "소버린 AI 사업"
+   ]
   }
+ ],
+ "plan": [
+  {
+   "category": "politics",
+   "axis": "policy",
+   "queries": [
+    "AI regulation news Sept 28-30 2026",
+    "Newsom signs AI bill September 2026",
+    "EU AI Act digital omnibus October 2026",
+    "AI copyright ruling September 2026",
+    "NIST CAISI AI agents guidance",
+    "state AI law signed 2026",
+    "superintelligence executive order agencies",
+    "인공지능기본법 시행 2026",
+    "AI 저작권 소송 판결",
+    "AI procurement Pentagon Anthropic ruling"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  },
+  {
+   "category": "politics",
+   "axis": "elections",
+   "queries": [
+    "midterm deepfake 2026",
+    "AI political ad disclosure FEC FCC",
+    "AI influence operation report September 2026",
+    "C2PA provenance law",
+    "platform AI labeling election",
+    "딥페이크 선거 2026"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  },
+  {
+   "category": "politics",
+   "axis": "geopolitics",
+   "queries": [
+    "Nvidia China chip approval September 2026",
+    "BIS AI chip export rule 2026",
+    "chip smuggling indictment 2026",
+    "sovereign AI program announced",
+    "AI datacenter moratorium state",
+    "US China AI dialogue",
+    "소버린 AI 2026",
+    "반도체 수출규제 엔비디아"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  }
+ ],
+ "categories": [
+  {
+   "category": "politics",
+   "axis": "policy",
+   "queries": [
+    "AI regulation news Sept 28-30 2026",
+    "Newsom signs AI bill September 2026",
+    "EU AI Act digital omnibus October 2026",
+    "AI copyright ruling September 2026",
+    "NIST CAISI AI agents guidance",
+    "state AI law signed 2026",
+    "superintelligence executive order agencies",
+    "인공지능기본법 시행 2026",
+    "AI 저작권 소송 판결",
+    "AI procurement Pentagon Anthropic ruling"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  },
+  {
+   "category": "politics",
+   "axis": "elections",
+   "queries": [
+    "midterm deepfake 2026",
+    "AI political ad disclosure FEC FCC",
+    "AI influence operation report September 2026",
+    "C2PA provenance law",
+    "platform AI labeling election",
+    "딥페이크 선거 2026"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  },
+  {
+   "category": "politics",
+   "axis": "geopolitics",
+   "queries": [
+    "Nvidia China chip approval September 2026",
+    "BIS AI chip export rule 2026",
+    "chip smuggling indictment 2026",
+    "sovereign AI program announced",
+    "AI datacenter moratorium state",
+    "US China AI dialogue",
+    "소버린 AI 2026",
+    "반도체 수출규제 엔비디아"
+   ],
+   "allowed_domains": [
+    "techpolicy.press",
+    "lawfaremedia.org",
+    "brookings.edu",
+    "carnegieendowment.org",
+    "cset.georgetown.edu",
+    "ainowinstitute.org",
+    "hai.stanford.edu",
+    "iapp.org",
+    "fpf.org",
+    "epic.org",
+    "oecd.ai",
+    "nist.gov",
+    "digital-strategy.ec.europa.eu",
+    "artificialintelligenceact.eu",
+    "politico.eu",
+    "euractiv.com",
+    "theverge.com",
+    "arstechnica.com",
+    "technologyreview.com",
+    "wired.com",
+    "theregister.com",
+    "axios.com",
+    "restofworld.org",
+    "apnews.com",
+    "niemanlab.org",
+    "cjr.org",
+    "poynter.org",
+    "misinforeview.hks.harvard.edu",
+    "bellingcat.com",
+    "csis.org",
+    "rand.org",
+    "thediplomat.com",
+    "chinatalk.media",
+    "semianalysis.com"
+   ]
+  }
+ ],
+ "wildcard_query": "AI policy news this week",
+ "totals": {
+  "working_keywords": 37,
+  "categories": 1,
+  "queries": 24
+ }
 }

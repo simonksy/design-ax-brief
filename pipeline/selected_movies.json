@@ -1,114 +1,67 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "movies",
   "picks": [
     {
-      "rank": 1,
-      "category": "movies",
+      "url": "https://variety.com/2026/film/features/terrarium-ai-hybrid-set-visit-1236893846/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Making an 11-minute animated short using AI exposed serious creative limits",
-      "url": "https://www.creativebloq.com/ai/two-animators-reveal-the-roles-risks-and-limits-of-making-don-quixote-with-ai",
-      "source": "Creative Bloq",
-      "published_iso": "2026-09-29T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/yTsiNcv4KpypUTG54t53rU-1600-80.jpg",
-      "excerpt": "Guillermo Miranda and Javier de la Chica open up about what AI still can't do and the unease it creates.",
-      "rationale": "Fresh (09-29) first-hand craft account from two animators of what AI could and could not do on an 11-minute Don Quixote short. Actionable limits for filmmakers, and a different article from the Creative Bloq 'viral AI animation' piece that ran in design on 09-29."
+      "rationale": "Rare on-set look at an AI-hybrid production workflow: human actors on a bare stage, AI artists generating sets/props.",
+      "published_iso": "2026-09-30T19:17:09+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Terrarium-On-Set-Photo-2-1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "An exclusive set visit to \"Terrarium\", an AI-hybrid production where 15–20 AI artists generate locations and props around human actors shot on a bare soundstage.",
+      "title": "I Toured the Set of an AI-Hybrid Film. There Are Actors — but No Set (EXCLUSIVE)"
     },
     {
-      "rank": 2,
-      "category": "movies",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "title": "Introducing Agent Tagging | Runway",
-      "url": "https://www.youtube.com/watch?v=HiaxR-XIQp8",
-      "source": "Runway (YouTube)",
-      "published_iso": "2026-09-29T12:03:25-07:00",
-      "og_image": "https://i.ytimg.com/vi/HiaxR-XIQp8/maxresdefault.jpg",
-      "excerpt": "Tag Runway Agent anywhere your assets are to ask for edits, options and fixes. It's that easy.Try Runway: app.runway.comSubscribe: https://youtube.com/runway...",
-      "rationale": "New Runway feature released 09-29: you tag the agent on an asset to ask for edits, options or fixes, which changes day-to-day workflow. This is not the Resolve plugin (09-24) or Diffuse (09-26), and there is no earlier Agent Tagging card."
-    },
-    {
-      "rank": 3,
-      "category": "movies",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/unmasking-a-monster-aileen-wuornos-defending-its-ai-use-1236709653/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "'The Gifted' Wins Inaugural Future Vision XPRIZE",
-      "url": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
-      "source": "Deadline",
-      "published_iso": "2026-09-29T11:43:13+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/img-12953260-2e8c-4542-a263-5b1925380cd1.jpeg?w=1024",
-      "excerpt": "The competition is backed by Range Media Partners & Google.",
-      "rationale": "Fresh industry milestone: the first winner of an AI-film XPRIZE backed by Google and Range Media. It has not been covered before and is the section's single Deadline pick."
+      "rationale": "Concrete post-production use of AI masks in a docuseries, framed by the EP as an industry first.",
+      "published_iso": "2026-09-30T15:15:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Unmasking-a-Monster-Aileen-Wuornos-Split-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
+      "excerpt": "ID docuseries \"Unmasking a Monster: Aileen Wuornos\" used an AI-mask tool in post to make actors look like their real-life counterparts, which its EP calls an industry first.",
+      "title": "‘Unmasking a Monster’: Star, EP, and ID President on Using AI Masks to Perfect Their Aileen Wuornos Look"
     },
     {
-      "rank": 4,
-      "category": "movies",
+      "url": "https://www.tvtechnology.com/production/live-production/utopai-studios-launches-new-pai-and-utopai-x-to-advance-production-intelligence-for-film-and-tv",
+      "source": "TV Technology",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "The Best AI Workflow for a 2D + Live Action Film",
-      "url": "https://www.youtube.com/watch?v=084IvH5k0E8",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-09-29T14:38:25-07:00",
-      "og_image": "https://i.ytimg.com/vi/084IvH5k0E8/maxresdefault.jpg",
-      "excerpt": "In this tutorial, we teamed up with our AI Animation Instructor, @albertbozesan to show you the latest AI workflow for combining 2D animation with live-actio...",
-      "rationale": "A hands-on tutorial on combining 2D animation with live action using AI. It is new and differs from Curious Refuge's greybox (09-24) and Astra editing (09-28) cards, so readers can apply it right away."
+      "rationale": "Tool release: AI agents that break a script into scenes/shots and assist production planning.",
+      "published_iso": "2026-09-30T18:21:26Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5gfKKN2xTmbsHcvmAh9tbR-603-75.png",
+      "excerpt": "Utopai Studios launches PAI and Utopai X, production-intelligence tools whose AI agents break a screenplay into scenes and shots and help plan production.",
+      "title": "Utopai Studios Launches New PAI and Utopai X to Advance Production Intelligence for Film and TV"
     },
     {
-      "rank": 5,
-      "category": "movies",
+      "url": "https://www.yna.co.kr/view/AKR20260928048300005",
+      "source": "연합뉴스",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "‘스틸레이’, 기획부터 후반작업까지 100% AI…10월 극장 개봉",
-      "url": "https://news.jkn.co.kr/post/993490",
-      "source": "재경일보",
-      "published_iso": "2026-09-22T06:44:00.000Z",
-      "og_image": "https://images.jkn.co.kr/data/images/full/105/68/1056808.jpg?width=1200&height=630",
-      "excerpt": "100% AI 기술로 완성된 SF 액션 ‘스틸레이’가 포스터를 공개하며 10월 극장 개봉을 예고했다. ‘스틸레이’(감독 설우인ㅣ기획/제작 ㈜라온컴퍼니플러스ㅣ공동제작 ㈜아이노스튜디오)는 폭주한 AI로부터 인류를 구하기 위해 자신이 만든 AI와 아버지가 남긴 전투 수트를 활용해 최악의 바이러스에 맞서는 이야기를 그린다.",
-      "rationale": "A Korean feature made 100% with AI, from planning through post, gets an October theatrical release. It is a different film and studio from the 09-27 '수호도사' 4DX card (Mooam) and has not been covered before. It also gives the section a Korean-outlet angle."
+      "rationale": "Major Korean director Yeon Sang-ho extends a theatrical IP via a generative-AI short series from CJ ENM.",
+      "published_iso": "2026-09-28T10:10:28+09:00",
+      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928048300005_01_i_P4.jpg",
+      "excerpt": "CJ ENM releases \"실낙원 - 유니버스\", a prequel short series written by Yeon Sang-ho and produced with generative AI; episodes 1–2 on 9/29, 3–4 on 10/6.",
+      "title": "연상호 '실낙원' 프리퀄 단편 29일 공개…생성형 AI로 제작 | 연합뉴스"
+    },
+    {
+      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+      "source": "The Guardian",
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "Digital resurrection of a screen legend built from text prompts, with heirs open to a future film role — likeness-rights precedent.",
+      "published_iso": "2026-09-30T05:00:12.000Z",
+      "og_image": "https://i.guim.co.uk/img/media/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a0ce1efca0865f556197e376bdee016",
+      "excerpt": "SKF recreates Greta Garbo with AI for a 99-second advert, built from text prompts rather than copyrighted footage; her heirs say they would not rule out a film role.",
+      "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert"
     }
   ],
-  "dropped": [
-    {
-      "url": "https://variety.com/2026/film/global/tilly-norwood-tom-holland-olivia-colman-ai-production-1236876240/",
-      "reason": "Tilly Norwood story covered heavily already (09-15 THR, 09-19 Deadline, 09-26 Storm Dogs), and this is the same Zurich Summit session as the 09-28 Deadline card. Nothing new."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=KoIdyxiLGbY",
-      "reason": "ODYSSEUS: The Fall was already covered (THR 07-15, The Verge review 09-17)."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/",
-      "reason": "Madrid Iberseries pair: the market preview treats AI only as a panel theme. It is general business noise and was also dropped on 09-29."
-    },
-    {
-      "url": "https://variety.com/2026/film/global/ai-new-tech-biz-models-madrid-audiovisual-cluster-1236877481/",
-      "reason": "Madrid Iberseries pair: an industry networking program announcement, which is business noise. Neither item of the pair made the final 5."
-    },
-    {
-      "url": "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
-      "reason": "General AI-business noise: an exec soundbite attached to a UK spend headline."
-    },
-    {
-      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
-      "reason": "An exec soundbite about a fan-made AI episode with thin substance. Leaving it out also avoids a second Deadline card; it is the next backfill if a pick fails enrichment."
-    },
-    {
-      "url": "https://variety.com/2026/film/festivals/light-pillar-director-xu-zao-ai-themed-easy-my-friend-1236877974/",
-      "reason": "AI is only the film's theme; the production itself has no AI angle."
-    },
-    {
-      "url": "https://www.youtube.com/shorts/vjNVieMl77E",
-      "reason": "Flow Studio 3D editor + node canvas story already covered (fxguide 08-27, beforesandafters 09-03, AWN 08-08); also dropped 09-29."
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=dn376baf_Ds",
-      "reason": "Kling-produced promo testimonial, 12 days old; dropped 09-29 for the same reason."
-    }
-  ]
+  "notes": "User deferred (알아서). Set aside as same-story: THR Tom Cruise/Digger AI remarks (Variety Cruise AI story published 9/22). Backups in order: Curious Refuge agents test, THR Massive/CapCut shorts, Deadline Doctor Who AI episode, Cartoon Brew LightBox no-genAI."
 }

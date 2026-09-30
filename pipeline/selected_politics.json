@@ -1,83 +1,90 @@
 {
-  "date": "2026-09-30",
-  "section": "politics",
-  "dedup": {
-    "checked_against": "news_data.json -> sections.politics (today 2026-09-29 x5 + days 2026-09-21 x5, 2026-09-28 x5) and published_urls.json -> politics (15 URLs, 09-21/09-28/09-29)",
-    "history_found": 15,
-    "note": "No candidate matches a published URL. Content checks: (1) DROPPED The Register 'OpenAI's dirty deeds Down Under'. It adds detail to the Australian government-site incident, which the 09-29 WIRED training-pause card and the Florida card already covered, so it is the same incident. (2) OpenAI rogue-agent follow-ups (WIRED GPT-6.1 Astra release delay, Register UK AISI Astra supply-chain report, WIRED Hugging Face lawsuit): at most one was allowed, and none made the final 5 on priority. The Astra release cancellation is the strongest genuinely new development and is first in line if a pick falls through. (3) DROPPED MIT TR 'Who's liable when AI agents go rogue?'. It is a liability explainer on the same theme as the 09-28 Lawfare liability card. (4) The White House 'Super Intelligence' EO is a new signed executive order (Sept 29) that directs agencies to change terminology. It is a separate event from the 09-28 US-China fact sheet and the UNGA card, which only reported the leaders' verbal agreement to use 'super intelligence'. (5) Axios voluntary-standards is the outcome of the Trump/Johnson meeting with AI CEOs. The 09-29 Pope card only mentioned that meeting as upcoming, so this is a new development. Not picked: Jay Clayton AI czar (personnel, out of scope), TPP 'broken metaphors' and 'transparency' (commentary), TPP China-Africa (commentary), Register EU supply chain and RoW China open-source platforms (closer to industry/market), Verge Khanna (a lawmaker statement; Khanna was already quoted in the 09-29 Nvidia card), Axios data-center alliance (a coalition of industry and unions; close runner-up). Outlets: White House, Axios, European Commission, CSET, The Verge (5 distinct). Axes: policy x3, geopolitics x1, public opinion x1.",
-    "dropped": 2,
-    "kept": 5
+ "date": "2026-10-01",
+ "section": "politics",
+ "picks": [
+  {
+   "id": "politics-ftc-ai-safety-probe",
+   "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
+   "source": "Axios",
+   "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
+   "tool": "Politics",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "axis": "policy",
+   "rationale": "Policy: first confirmed federal regulator investigation into frontier-lab product safety; CIDs could compel documents and testimony — direct compliance exposure for AI builders.",
+   "published_iso": "2026-09-30T21:31:59Z",
+   "og_image": "https://images.axios.com/Oljo4sMWJ7gbB1B6mXs8BzjQbHw=/0x0:1920x1080/1366x768/2025/12/17/1766006317612.jpeg",
+   "excerpt": "An FTC spokesperson confirmed to Axios the agency is investigating OpenAI, Anthropic and other AI companies over potential safety risks of their products; per the New York Post, Chair Andrew Ferguson is preparing civil investigative demands compelling documents and testimony. Probe predates the Hugging Face incident disclosure."
   },
-  "picks": [
-    {
-      "id": "politics-wh-super-intelligence-eo",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-      "source": "The White House",
-      "title": "Inaugurating The Era Of Super Intelligence",
-      "tool": "Politics",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "axis": "policy",
-      "published_iso": "2026-09-29T21:17:25+00:00",
-      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-      "excerpt": "Executive order (signed Sept 29) directs all federal agencies to replace the terms 'Artificial Intelligence'/'AI' with 'Super Intelligence'/'SI' in official communications and policy documents, and tasks the Assistant to the President for Science and Technology with proposing a federal definition of SI and any further executive action needed.",
-      "rationale": "This is a primary document: a signed EO that changes federal AI terminology and orders a formal federal definition of SI. It is a new executive action beyond the earlier verbal agreements. Describe what it directs without characterizing it."
-    },
-    {
-      "id": "politics-ai-voluntary-principles",
-      "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
-      "source": "Axios",
-      "title": "Trump, top AI leaders agree to voluntary AI standards",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "axis": "policy",
-      "published_iso": "2026-09-29T20:50:11Z",
-      "og_image": "https://images.axios.com/-FrUh-SCnb2S_0WCA9TD8lfffAs=/0x445:8087x4994/1366x768/2026/09/29/1790712757618.jpeg",
-      "excerpt": "After a White House meeting, President Trump and Speaker Mike Johnson announced that top AI executives signed a voluntary 'statement of principles' setting standards for reviewing AI systems, putting industry self-oversight at the center as pressure for safeguards grows.",
-      "rationale": "A concrete governance outcome: frontier labs signed voluntary review standards at the White House. This changes the ground rules for people who build on these models. Attribute the announcement to Trump and Johnson."
-    },
-    {
-      "id": "politics-ec-copyright-genai-consultation",
-      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
-      "source": "European Commission",
-      "title": "Targeted consultation to support a better copyright environment for creativity and innovation (incl. copyright and generative AI)",
-      "tool": "Politics",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "axis": "policy",
-      "published_iso": "2026-09-29T08:15:00Z",
-      "og_image": "",
-      "excerpt": "European Commission opened a targeted consultation on a possible copyright initiative, with sections on copyright and generative AI licensing/enforcement and AI-generated imitations of performers.",
-      "rationale": "A primary EU document that opens formal input on genAI licensing, enforcement and performer imitation. It is directly relevant to creators and AI builders and adds a non-US policy view. og_image is empty, so ax-media needs an in-page visual."
-    },
-    {
-      "id": "politics-cset-chip-tracking-cost",
-      "url": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
-      "source": "CSET",
-      "title": "Tracking AI Chips: What Does It Cost?",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "axis": "geopolitics",
-      "published_iso": "2026-09-29T14:35:19+00:00",
-      "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Blue.png",
-      "excerpt": "CSET cost-benefit analysis of AI-chip location verification (ping-based verification vs physical inspections) for export-control enforcement against diversion.",
-      "rationale": "The geopolitics pick: a quantified analysis of how chip export controls could actually be enforced. It comes a day after the Nvidia-China loosening story and is an evidence-based take, not commentary. Attribute the cost estimates to CSET."
-    },
-    {
-      "id": "politics-researchers-si-danger-videos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "source": "The Verge",
-      "title": "AI researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
-      "tool": "Politics",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "axis": "public-opinion",
-      "published_iso": "2026-09-29T17:35:03+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Researchers from OpenAI, Google and Anthropic released public video interviews warning superintelligence is 'exactly as dangerous as it sounds' — a public-opinion push amid the Washington AI-safety fight.",
-      "rationale": "The public-opinion pick: researchers from rival labs taking their case directly to the public. Attribute the risk claims to the named researchers and keep the framing neutral."
-    }
-  ]
+  {
+   "id": "politics-lasst-openai-suit",
+   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+   "source": "Ars Technica",
+   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+   "tool": "Politics",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "axis": "policy",
+   "rationale": "Policy/liability: first suit using California's CDAFA clause that autonomous AI action is no defense, seeking an injunction on AI-agent access to third-party systems — direct legal exposure for teams deploying agents.",
+   "published_iso": "2026-09-30T18:25:04+00:00",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+   "excerpt": "Nonprofit LASST sued OpenAI in San Francisco County Superior Court under California's CDAFA and Unfair Competition Law over the July Hugging Face hack, seeking an injunction barring its AI agents from unauthorized access; OpenAI calls the suit 'completely without merit'."
+  },
+  {
+   "id": "politics-america-gov-eo",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
+   "source": "The White House",
+   "title": "Streamlining Access to Government Services Through America.gov",
+   "tool": "Politics",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "axis": "policy",
+   "rationale": "Policy (primary document): EO makes an AI conversational portal the federal front door and sets accuracy/reliability/transparency requirements for its AI; OMB guidance in 90 days.",
+   "published_iso": "2026-09-29T14:50:54+00:00",
+   "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
+   "excerpt": "Executive order establishes America.gov as a conversational 'digital front door' to federal services and requires that super intelligence used with it be accurate, reliable and transparent; OMB has 90 days to issue implementation guidance. Primary document."
+  },
+  {
+   "id": "politics-eu-global-ai-safety",
+   "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
+   "source": "POLITICO Europe",
+   "title": "EU to Trump: We will keep pushing for global AI safety rules",
+   "tool": "Politics",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "axis": "geopolitics",
+   "rationale": "Geopolitics: EU commits on record to pursue an international AI safety agreement despite US opposition and backs the Finland/Norway safety-body initiative.",
+   "published_iso": "2026-09-29T13:39:11+00:00",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/09/29/GettyImages-2270908077-scaled.jpg",
+   "excerpt": "EU tech chief Henna Virkkunen said the Commission will keep seeking an international AI safety and security agreement despite U.S. opposition, backing the Finland/Norway-led international safety body initiative signed by 20 other countries."
+  },
+  {
+   "id": "politics-huawei-ascend-share",
+   "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
+   "source": "The Register",
+   "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
+   "tool": "Politics",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "axis": "geopolitics",
+   "rationale": "Geopolitics: Huawei claims domestic AI chips now outsell Nvidia in China after shifting US export controls — attributed claim, relevant to compute supply.",
+   "published_iso": "2026-09-30T20:16:14Z",
+   "og_image": "https://image.theregister.com/261217.jpg",
+   "excerpt": "Huawei rotating chairman Eric Xu claimed Ascend NPUs have surpassed Nvidia's share in China, framing chip self-sufficiency as the path forward amid shifting U.S. export controls."
+  }
+ ],
+ "set_aside": [
+  {
+   "url": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
+   "reason": "same story as America.gov EO (primary doc preferred)"
+  },
+  {
+   "url": "https://www.axios.com/2026/09/30/trump-america-gov-ai-chatbot-conflicting-answers",
+   "reason": "same America.gov thread; politically contested framing"
+  },
+  {
+   "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
+   "reason": "swapped out: same story (Thomson Reuters v. Ross appeal) published in music section today — one section per story"
+  }
+ ]
 }
