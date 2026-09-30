@@ -1,102 +1,130 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "music",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://bedroomproducersblog.com/2026/09/29/abyzor-genesis-midi/",
-      "source": "Bedroom Producers Blog",
-      "title": "ABYZOR Genesis adds FREE local AI for unlimited MIDI generation",
-      "published_iso": "2026-09-29T11:03:09+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/abyzor.jpg",
-      "excerpt": "ABYZOR released a free local AI module for its Genesis MIDI generator plugin (macOS/Windows), generating melodies, basslines, chord progressions and arpeggios on-device that you edit and drag into your DAW.",
-      "note": "Date+body via RSS (site shows bot-check page).",
-      "category": "music"
+      "url": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
+      "source": "MusicRadar",
+      "category": "music",
+      "published_iso": "2026-09-29T23:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-2560-80.jpg",
+      "excerpt": "House/UKG producer Todd Edwards says he now generates his own material in Suno Studio to sample and chop, calling it a co-producer that frees him from sample-clearance lawsuits, and calls industry criticism hypocritical.",
+      "title": "\"The hypocrisy in the industry is insane\": Todd Edwards on sampling Suno"
+    },
+    {
+      "url": "https://completemusicupdate.com/impf-and-impel-publish-ai-licensing-principles-insisting-songs-and-recordings-must-be-valued-equally/",
+      "source": "CMU",
+      "category": "music",
+      "published_iso": "2026-09-30T15:45:04Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/IMPF-IMPEL-AI-.png",
+      "excerpt": "Independent publisher bodies IMPF and IMPEL publish a generative-AI licensing framework whose non-negotiable principle is that songs be valued at least equally with recordings, plus transparency on training vs output payments.",
+      "title": "IMPF and IMPEL publish AI licensing principles"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/absolute-label-services-opens-ai-powered-anthology-business-management-music-os-to-indie-sector-infrastructure-is-the-next-logical-thing-to-democratize/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-30T12:10:48Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/Screenshot-2026-09-30-at-13.04.12-e1790769884456.jpg",
+      "excerpt": "Absolute Label Services opens its AI-powered Anthology 'Music OS' with in-house LLM Ant to indie rights holders; Cherry Red and Blue Raincoat are first customers.",
+      "title": "Absolute opens AI-powered Anthology Music OS"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-30T10:19:48Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2412154257.jpg",
+      "excerpt": "US Third Circuit upholds that Ross Intelligence's copying of Westlaw material for AI training was not fair use; RIAA and NMPA backed Thomson Reuters, framing it as precedent for Suno/Udio cases.",
+      "title": "Appeals court rejects fair use defense over AI training"
+    },
+    {
+      "url": "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-09-22T14:25:56Z",
+      "og_image": "",
+      "excerpt": "Suno confirms its v6 model was trained on user creations as it calls the latest UMG/Sony lawsuit fundamentally flawed.",
+      "title": "Suno confirms V6 trained on user creations"
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/09/30/japanese-court-voice-protected/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-09-30T18:19:19Z",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/japan-rules-voice-protected-publicity-right.png",
+      "excerpt": "Tokyo District Court rules a voice is a protected publicity right in a first-of-its-kind decision, but dismisses voice actor Kenjiro Tsuda's AI-voice takedown request against TikTok.",
+      "title": "Japan rules voice is a protected publicity right"
+    },
+    {
+      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-09-30T21:33:07Z",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg",
+      "excerpt": "Questlove traces sampling history and says he sees AI as a parallel to sampling culture, but won't sample AI output yet and calls for transparency and compensation.",
+      "title": "Questlove: 'I see AI as a parallel to sampling culture'"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EDkav63lkSo",
+      "source": "Suno (YouTube)",
+      "category": "music",
+      "published_iso": "2026-09-30T16:07:52Z",
+      "og_image": "https://i.ytimg.com/vi/EDkav63lkSo/maxresdefault.jpg",
+      "excerpt": "Suno's official channel shows artist Banoffee using Suno v6 to push her sound somewhere new (45s artist film).",
+      "title": "Watch Banoffee push her sound | Suno v6"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MofPqieaf0g",
+      "source": "Suno (YouTube)",
+      "category": "music",
+      "published_iso": "2026-09-26T00:26:12Z",
+      "og_image": "https://i.ytimg.com/vi/MofPqieaf0g/maxresdefault.jpg",
+      "excerpt": "Dancer Braylon Browner uses Suno v6 to turn movement into music (60s artist film).",
+      "title": "Watch Braylon Browner turn a dance into a song | Suno v6"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=W_7H4yThuto",
+      "source": "Andrew Huang (YouTube)",
+      "category": "music",
+      "published_iso": "2026-09-26T15:30:15Z",
+      "og_image": "https://i.ytimg.com/vi/W_7H4yThuto/maxresdefault.jpg",
+      "excerpt": "Andrew Huang short warning that AI scammers are trying to use his identity (21s).",
+      "title": "AI scammers are trying to use me"
     },
     {
       "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/",
       "source": "Synthtopia",
-      "title": "Backgrounds Creates Evolving Soundscapes From Your Keyword Prompts",
-      "published_iso": "2026-09-29T19:45:47+00:00",
+      "category": "music",
+      "published_iso": "2026-09-29T19:45:47Z",
       "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/backgrounds.jpg",
-      "excerpt": "Sampleson Backgrounds turns keywords dragged onto a canvas into evolving cinematic soundscapes, using a semantic audio retrieval engine over 22,000 audio cells and 11,000 local embeddings, running locally with no tokens.",
-      "note": "ML = semantic retrieval/embeddings, not a generative model; body never says 'AI'.",
-      "category": "music"
+      "excerpt": "Sampleson Backgrounds uses semantic audio retrieval over 22,000 audio cells and 11,000 local embeddings to build evolving soundscapes from keywords dragged onto a canvas; runs locally.",
+      "title": "Backgrounds creates soundscapes from keyword prompts"
     },
     {
-      "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-      "source": "TechCrunch",
-      "title": "ElevenLabs' new v4 speech model supports more expression control and 90 languages",
-      "published_iso": "2026-09-28T14:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "excerpt": "ElevenLabs launched Eleven v4 and v4 Turbo, its most expressive speech models, with finer expression control, 90 languages and voice cloning from a 10-second clip.",
-      "note": "Voice/vocal-adjacent, not a music model. Same launch also on ElevenLabs YouTube (th_tXR2QQ6U).",
-      "category": "music"
+      "url": "https://www.hypebot.com/what-it-actually-takes-to-read-music-without-sight-and-what-ai-can-help-solve/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-09-24T15:00:11Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/foran-orgelet--glad-smilende.jpg",
+      "excerpt": "Blind organist Solveig-Marie Oma describes the Braille score workflow and where AI note recognition, score conversion and AI vocal guides could help.",
+      "title": "What it takes to read music without sight, and what AI can solve"
     },
     {
-      "url": "https://www.youtube.com/shorts/JYs3lzKOruI",
-      "source": "Suno Music (YouTube)",
-      "title": "record your voice and turn it into ANYTHING.",
-      "published_iso": "2026-09-29T08:38:54-07:00",
-      "og_image": "https://i.ytimg.com/vi/JYs3lzKOruI/maxresdefault.jpg",
-      "excerpt": "Suno demos a Suno Studio workflow: record your own voice and transform it into other instruments, electric guitar being 'just the start'.",
-      "note": "Short promo; Suno Studio features published earlier (musictech suno-studio-2-0) but this voice-to-instrument demo is new.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-      "source": "Digital Music News",
-      "title": "Japanese Voice Actor Sues TikTok Over AI Voice Cloning",
-      "published_iso": "2026-09-28T05:32:29+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/japanese-voice-actor-sues-tiktok-over-ai-voice-cloning.png",
-      "excerpt": "A Japanese actor and anime voice talent, possibly the first in Japan to take a major platform to court over AI voice clones, has sued TikTok over videos allegedly using an AI clone of his voice.",
-      "note": "OFF-LIST domain (digitalmusicnews.com); no on-list outlet covered it.",
-      "category": "music"
-    },
-    {
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "source": "TechCrunch",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "published_iso": "2026-09-28T15:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800",
-      "excerpt": "DetectifAI is building AI models small enough to run on smartphones and flag deepfake voices in real time, after its founder's grandfather was scammed by a cloned voice.",
-      "note": "Weak music hook (voice-clone detection); startup profile.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/W_7H4yThuto",
-      "source": "Andrew Huang (YouTube)",
-      "title": "AI scammers are trying to use me",
-      "published_iso": "2026-09-26T08:30:15-07:00",
-      "og_image": "https://i.ytimg.com/vi/W_7H4yThuto/maxresdefault.jpg",
-      "excerpt": "Producer Andrew Huang warns followers that AI-driven scammers are impersonating him.",
-      "note": "AI verified from the title only; page description is generic.",
-      "category": "music"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=2Z2PQTkmgIQ",
-      "source": "The Audio Programmer (YouTube)",
-      "title": "Does Coding Matter Anymore? Audio Programming in the AI Age | The Audio Programmer Meetup",
-      "published_iso": "2026-09-17T23:50:55-07:00",
-      "og_image": "https://i.ytimg.com/vi/2Z2PQTkmgIQ/maxresdefault.jpg",
-      "excerpt": "The Audio Programmer meetup asks whether hand-coding still matters for plugin and audio-software developers now that AI coding tools can build them.",
-      "note": "AI verified from the title only. 12 days old, near the edge of the window.",
-      "category": "music"
-    },
-    {
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "published_iso": "2026-09-23T15:25:14+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
-      "excerpt": "Gemini 3.8 Flash and Flash-Lite TTS are Google's most expressive audio models yet, letting users design custom character voices and direct scene dialogue across AI Studio, the Gemini API and Google Vids.",
-      "note": "Speech, not music. RSS pubDate 2026-09-23T15:25:14Z.",
-      "category": "music"
+      "url": "https://musically.com/2026/09/18/advertising-campaigns-handled-by-ai-are-on-the-rise/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-09-18T14:38:33Z",
+      "og_image": "",
+      "excerpt": "Automated AI ad tools and MCP servers linking artist data to AI assistants are reshaping music marketing campaigns.",
+      "title": "Advertising campaigns handled by AI are on the rise"
     }
   ],
+  "notes": "Collected via outlet RSS (incl. paged WP feeds), Hypebot sitemap, YouTube channel feeds, Google News RSS discovery; 1 WebSearch (stale results) + 1 failed. Fresh AI-music pool heavily pre-mined by prior days: ~30 fresh items dropped as already in ledger (KOMCA, Snapchat, Sanremo, Lunacy Nova, MOTU DP12, SSL/sonible, SubmitHub, AI Music Awards, AFM, Engram, Qobuz, Musixmatch, Michael Smith, etc). Rejected non-AI: Tim Exile Finalist 2 (explicitly no AI), Antares AutoTune Advanced, Unit1 avatar concerts (AI incidental + funding). Rejected noise: Modulate $25M, ElevenLabs $22B valuation, UMG Celma hire, GRAI acquisition. Off-list unresolved: chosun.com AI음악 편법 등록 (Google News link undecodable).",
   "dedup": {
     "dropped": 0,
-    "kept": 9,
+    "kept": 13,
     "against_days": 5
   }
 }

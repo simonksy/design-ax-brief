@@ -1,142 +1,157 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "books",
   "window_hours": 336,
+  "_note": "Collected via allowed-domain RSS (22 feeds + page 2s, Bookseller news sitemap) and Google News RSS (39 queries, when:14d); 2 WebSearch queries. Allowed-domain AI yield was thin (PW, Jane Friedman only fresh non-dup), so off-list items admitted under the exception. Rejected: BISG/Korean AI-label/De Marque/Orelien/Novvel/Clarivate follow-ups (dups), Audible EU translations (no AI in body), Writer's Digest poet + edaily 똑서 (AI marginal), Bookseller Elredo Spotlight (sponsored), B+P 'Not so OpenAI' (paywalled, not books). Expansion added: Anthropic settlement, shadow libraries/Meta, Springer AI-based books, ChatGPT book recs, Murakami/DeepSeek, 출판문화협회 MOU, Frankfurt CCC.",
   "items": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
-      "source": "Publishers Weekly",
+      "url": "https://www.hankyung.com/article/202609303989i",
+      "source": "한국경제",
       "category": "books",
-      "published_iso": "2026-09-29T15:29:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131766-1.JPG",
-      "excerpt": "Seeking to increase the availability of non-English-language audiobooks, the Quebec-based distributor will now allow publishers in its network to put out audio titles with automated narration on the subscription-based ElevenReader platform.",
-      "title": "De Marque to Offer AI Audiobook Capabilities Via ElevenLabs"
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-09-29T15:34:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131772-1.JPG",
-      "excerpt": "Data from 771 professionals surveyed by the Book Industry Study Group and BookNet Canada found publishers’ AI use at the organizational level jumped to 63%, from 48% in 2025, while individual use dropped from 46% in 2025 to 38% today.",
-      "title": "As Publishers Ramp Up AI Implementation, Employees Slow Down"
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-09-28T15:20:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131741-1.JPG",
-      "excerpt": "The Guild is asking publishers to more equitably divvy up Anthropic’s $1.5 billion settlement for certain claims, noting many houses will receive large payouts while most authors will get nothing more than “the ability to pay bills from the settlemen",
-      "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth"
-    },
-    {
-      "url": "https://en.sedaily.com/culture/2026/09/30/korean-publishers-set-voluntary-ai-rules-for-books",
-      "source": "Seoul Economic Daily",
-      "category": "books",
-      "published_iso": "2026-09-30T06:31:05+09:00",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/09/29/news-p.v1.20260929.43a504d0825c4572b43e0cf491f20251_P1.jpg",
-      "excerpt": "Twelve Korean publishing and authors' groups issued voluntary AI usage principles, including labeling for AI-assisted and AI-generated books.",
-      "title": "Korean Publishers Set Voluntary AI Rules for Books",
-      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
-    },
-    {
-      "url": "https://www.hani.co.kr/arti/culture/book/1280041.html",
-      "source": "한겨레",
-      "category": "books",
-      "published_iso": "2026-09-29T18:18:00+09:00",
-      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503377.webp",
-      "excerpt": "종이책, 전자책, 오디오북 등 출판물에 인공지능(AI) 활용 정도를 밝히는 표시 제도를 적극 도입하자는 의견이 출판계에서 나왔다. ‘AI 출판물 표시제도’를 도입하면 저자 또한 출판사에 자신이 원고에 어떤 AI를 얼마나 사용했는지 밝혀 계약서에 명시하게 된다. 출판 전",
-      "title": "출판계 “출판물에 AI 활용 정도 밝히는 ‘표시 제도’ 도입하자”",
-      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
-    },
-    {
-      "url": "https://www.yna.co.kr/view/AKR20260929154800005",
-      "source": "연합뉴스",
-      "category": "books",
-      "published_iso": "2026-09-29T17:07:52+09:00",
-      "og_image": "",
-      "excerpt": "(서울=연합뉴스) 김정은 기자 = 인공지능(AI) 시대, AI를 활용한 출판물의 투명성과 책임, 보상 문제가 출판계의 화두로 떠오른 가운데 일부...",
-      "title": "AI와 공존 모색하는 출판계…출판사·저작자 AI 사용원칙 발표 | 연합뉴스",
-      "note": "same story across 3 outlets (Korean publishers AI-use principles / 3-tier AI labelling, 2026-09-29) - pick one"
-    },
-    {
-      "url": "https://news.err.ee/1610151322/publisher-ai-will-come-for-translators-and-illustrators-first",
-      "source": "ERR News",
-      "category": "books",
-      "published_iso": "2026-09-29T16:08:00+03:00",
-      "og_image": "https://s.err.ee/photo/crop/2025/11/16/3090399h65b9t24.jpg",
-      "excerpt": "Publishing house Tänapäev's editor-in-chief told ERR that original manuscripts written with AI remain rare, but the technology has already made its way into translation and illustration.",
-      "title": "Publisher: AI will come for translators and illustrators first"
-    },
-    {
-      "url": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai",
-      "source": "Dazed",
-      "category": "books",
-      "published_iso": "2026-09-29T07:00:00+00:00",
-      "og_image": "https://images-prod.dazeddigital.com/1200/0-0-2055-1370/azure/dazed-prod/1450/6/1456127.png",
-      "excerpt": "Some readers are turning to ChatGPT for book recommendations – but chatbots will never compare to real, human bookshop workers, Natalie Beecroft writes",
-      "title": "AI book recs are making us all read the same thing"
+      "published_iso": "2026-09-30T02:00:10Z",
+      "og_image": "https://img.hankyung.com/photo/202609/01.45880885.1.jpg",
+      "excerpt": "Haruki Murakami's new novel 'Kaho' was fully translated into Chinese with a student's DeepSeek-based AI tool 'Wenyi' within 4 hours of its Japanese release and circulated illegally; Persian AI-assisted editions also appeared.",
+      "title": "무라카미 하루키 신작, 日 출간 4시간 만에 중국서 AI 번역본 등장"
     },
     {
       "url": "https://www.insidehighered.com/opinion/views/2026/09/29/ai-slop-coming-university-library-near-you-opinion",
       "source": "Inside Higher Ed",
       "category": "books",
       "published_iso": "2026-09-29T07:00:00Z",
-      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
-      "excerpt": "Librarians must hold the gates against machine-generated titles.",
-      "title": "AI Slop Coming to University Library Near You (opinion)"
+      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg",
+      "excerpt": "UC Irvine faculty member finds Springer Nature's 'AI-based' machine-generated literature-review books inside UC library e-book holdings via California Digital Library purchases; urges librarians to gatekeep.",
+      "title": "AI Slop Coming to University Library Near You"
+    },
+    {
+      "url": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai",
+      "source": "Dazed",
+      "category": "books",
+      "published_iso": "2026-09-29T07:00:00Z",
+      "og_image": "https://images-prod.dazeddigital.com/1200/0-0-2055-1370/azure/dazed-prod/1450/6/1456127.png",
+      "excerpt": "A London bookseller on customers arriving with ChatGPT book recommendations, and how LLM recs flatten taste compared with human bookshop staff.",
+      "title": "AI book recs are making us all read the same thing"
+    },
+    {
+      "url": "https://nltimes.nl/2026/09/28/authors-journalists-protest-facebook-headquarters-use-work-train-ai",
+      "source": "NL Times",
+      "category": "books",
+      "published_iso": "2026-09-28T12:30:00Z",
+      "og_image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2019/02/depositphotos_85000222_l-2015.jpg",
+      "excerpt": "Lira, Auteursbond and NVJ stage protest at Facebook Nederland HQ against Meta training AI on works from shadow libraries, timed to Children's Book Week.",
+      "title": "Authors, journalists protest at Facebook headquarters over use of their work to train AI"
+    },
+    {
+      "url": "https://spectrumnews1.com/oh/columbus/news/2026/09/30/authors-say-ai-generated-books-are-making-human-work-harder-to-find",
+      "source": "Spectrum News",
+      "category": "books",
+      "published_iso": "2026-09-30T14:58:00Z",
+      "og_image": "https://s7d2.scene7.com/is/image/TWCNews/OH-20ai-20impact-20on-20authors-20digital-20image_1790778998847",
+      "excerpt": "YA author Intisar Khanani says thousands of AI-generated books a day on Amazon bury human authors' work; concerns over training data.",
+      "title": "Authors say AI-generated books are making human work harder to find"
+    },
+    {
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30690",
+      "source": "르몽드디플로마티크",
+      "category": "books",
+      "published_iso": "2026-09-30T07:16:52Z",
+      "og_image": "https://cdn.ilemonde.com/news/photo/202609/30690_51607_824.png",
+      "excerpt": "Column questioning the Korean Publishers Association's MOU to supply publishers' books as AI training data via an 'AI 출판데이터센터' — six questions before signing.",
+      "title": "책의 목록이 계약이 되기 전에 - 대한출판문화협회 AI 학습데이터 MOU"
+    },
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-09-28T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131741-1.JPG",
+      "excerpt": "Authors Guild asks publishers to voluntarily withdraw Anthropic settlement claims on long out-of-print books where rights likely reverted.",
+      "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth"
+    },
+    {
+      "url": "https://janefriedman.com/the-authors-guild-suggests-publishers-relinquish-their-anthropic-claims-in-instances-where-rights-have-likely-or-should-have-reverted/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-09-30T16:00:00Z",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Same Authors Guild Anthropic-claims story (paywalled premium).",
+      "title": "The Authors Guild suggests publishers relinquish their Anthropic claims"
+    },
+    {
+      "url": "https://www.concordmonitor.com/2026/09/30/ai-settlement-authors-anthropic-new-hampshire-nh/",
+      "source": "Concord Monitor",
+      "category": "books",
+      "published_iso": "2026-09-30T19:20:06Z",
+      "og_image": "https://www.concordmonitor.com/wp-content/uploads/2026/09/authorsANthropic2-scaled.jpg",
+      "excerpt": "New Hampshire authors file for shares of the $1.5B Anthropic settlement.",
+      "title": "N.H. Authors seek shares of Anthropic's $1.5B settlement"
+    },
+    {
+      "url": "https://www.koreajoongangdaily.com/bilingual-news/ai-gods-and-shamans-kor/12897587",
+      "source": "Korea JoongAng Daily",
+      "category": "books",
+      "published_iso": "2026-09-30T00:30:24Z",
+      "og_image": "https://image.koreajoongangdaily.com/12896899.jpg",
+      "excerpt": "Column by Geulhangari publisher CEO Lee Eun-hye on editing and publishing under AI.",
+      "title": "Can publishing hold on to its soul in the AI era?"
+    },
+    {
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+      "source": "European Writers' Council",
+      "category": "books",
+      "published_iso": "2026-09-25T11:32:30Z",
+      "og_image": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+      "excerpt": "EWC condemns AI firms' destructive book scanning (Project Panama) and urges EU action.",
+      "title": "EWC denounces AI Tech's practice of shredding books"
+    },
+    {
+      "url": "https://www.gulf-times.com/article/734375/qatar/qnl-embraces-ai-while-keeping-reading-culture-at-its-core",
+      "source": "Gulf Times",
+      "category": "books",
+      "published_iso": "2026-09-28T16:41:39Z",
+      "og_image": "https://www.gulf-times.com/gulftimes/uploads/images/2026/09/28/497273.jpg",
+      "excerpt": "Qatar National Library expands AI use in programmes while preserving reading culture.",
+      "title": "QNL embraces AI while keeping reading culture at its core"
     },
     {
       "url": "https://global.chinadaily.com.cn/a/202609/28/WS6ab9da14e4b06d4aa0560887.html",
       "source": "China Daily",
       "category": "books",
-      "published_iso": "2026-09-28T11:08:04+08:00",
+      "published_iso": "2026-09-28T03:08:04Z",
       "og_image": "http://img2.chinadaily.com.cn/images/202609/28/6aba0a7ee4b06d4a392d3ecb.jpeg",
-      "excerpt": "At the Mandarin's House, a UNESCO World Heritage Site, Macao poet Ng Iat-i recites Moon Over Lotus Isle , a poem co-created with AI. Where history meets modernity, looking up at the moon brings echoes across time—a new era's reflection on Lotus Isle.",
-      "title": "Moon Over Lotus Isle: AI-co-created poem by Macao poet Ng Iat-i"
+      "excerpt": "Macao poet Ng Iat-i recites an AI-co-created poem (short video item).",
+      "title": "Moon Over Lotus Isle: AI-co-created poem"
     },
     {
-      "url": "https://www.kyosu.net/news/articleView.html?idxno=210681",
-      "source": "교수신문",
+      "url": "https://www.emirates247.com/dubai-it/how-an-indian-publisher-is-learning-to-dubai-it-his-way-to-the-frontier-of-ai/6073",
+      "source": "Emirates 24|7",
       "category": "books",
-      "published_iso": "2026-09-29T08:31:39+09:00",
-      "og_image": "https://cdn.kyosu.net/news/photo/202609/210681_212776_323.png",
-      "excerpt": "[AI 도서 라이선싱 기업 멘탯 대표 전병욱] AI가 세상의 지식을 흡수해 답을 내놓는 시대, 출판·학술 콘텐츠 업계의 위기감은 어느 때보다 높다. 종이책 유통",
-      "title": "“AI가 내 책을 얼마나 인용했는지 눈으로 확인한다” - 교수신문"
+      "published_iso": "2026-09-27T03:58:00Z",
+      "og_image": "https://api.emirates247.com/emirates247/uploads/images/2026/09/27/9354.webp",
+      "excerpt": "Profile of Raindrops Books founder Bernard D'sa moving to Dubai to build an AI venture.",
+      "title": "How an Indian publisher is learning to Dubai-it his way to the frontier of AI"
     },
     {
-      "url": "https://www.voiceoverherald.com/elevenlabs-v4-voice-clone-10-seconds-90-languages/",
-      "source": "Voice Over Herald",
+      "url": "https://sg.news.yahoo.com/shy-girl-ai-book-fiasco-130000711.html",
+      "source": "Yahoo News (Cheezburger)",
       "category": "books",
-      "published_iso": "2026-09-29T13:00:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-18.jpg",
-      "excerpt": "ElevenLabs' new v4 model clones a voice from 10 seconds of audio and speaks 90 languages. What it means for voice actors, dubbing and consent.",
-      "title": "ElevenLabs v4 copies a voice from 10 seconds - Voice Over Talent Industry News"
+      "published_iso": "2026-09-26T13:00:00Z",
+      "og_image": "",
+      "excerpt": "Opinion revisiting the Mia Ballard 'Shy Girl' AI-generated novel cancellation.",
+      "title": "The 'Shy Girl' AI Book Fiasco"
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/29/are-libraries-prepared-second-digital-transformation-distinctive-collections/",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.copyright.com/media-press-releases/ccc-to-host-frankfurt-book-fair-panel-on-publisher-strategies-for-navigating-the-ai-value-chain/",
+      "source": "CCC",
       "category": "books",
-      "published_iso": "2026-09-29T09:30:42+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/Dominican-Dominican-Republic-OriginalDocumentsMother-July-25-2019-scaled.jpg",
-      "excerpt": "Academic and research libraries, as well as public libraries, historical societies, and other organizations, hold extensive collections of rare and unique materials, such as archival and manuscript collections. These materials form an essential part of humanity’s cultural and historical record, and they are the vital source material for many humanistic fields. I believe that a second digital trans",
-      "title": "Are libraries prepared for the second digital transformation of distinctive collections?"
-    },
-    {
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/uk-celebrity-warning-for-australia-ai-copyright",
-      "source": "The Guardian",
-      "category": "books",
-      "published_iso": "2026-09-27T15:00:07.000Z",
-      "og_image": "https://i.guim.co.uk/img/media/58a73993f9cb3247c75bb13c80e2fdeb39c1ee15/88_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f31cb2007fc3fc6b95a14d03707b332a",
-      "excerpt": "‘People care about the songs, books and pictures that influence the critical moments in their lives,’ says the architect of the fightback in the UK",
-      "title": "British celebrities beat AI companies lobbying to get free use of their work. They have a warning for Australia"
+      "published_iso": "2026-09-29T14:04:12Z",
+      "og_image": "",
+      "excerpt": "CCC press release: Frankfurt panel on publisher strategies for the AI value chain (Oct 7).",
+      "title": "CCC to Host Frankfurt Book Fair Panel on AI Value Chain"
     }
   ],
-  "_search_log": "RSS: PW recent/digital/industry-news feeds, goodereader, janefriedman, lithub, publishingperspectives, bookriot, writersdigest, thecreativepenn, electricliterature, scholarlykitchen, the-digital-reader, booksandpublishing, guardian books/tech, verge, wired, techcrunch, ars, mediabistro, Bookseller /news HTML (Bookseller/kindlepreneur RSS disabled). Google News RSS sweeps (35 queries incl. Korean: AI 출판, AI 전자책, 딸깍 출판, AI 오디오북/번역, 교보/밀리/리디). WebSearch 5 queries (e-reader AI, Frankfurt AI, AI books news, Daggermouth, Princeton UP certification - all stale/no new). Expanded keywords: AI labelling/disclosure principles, AI licensing platform (Mentat), voice cloning/narration, AI book recommendations, AI-generated scholarly books in libraries, AI co-created poetry, translators. Rejected: Lynote (goodereader advertorial), Elredo (Bookseller sponsored Spotlight), Bookseller OpenAI LibGen filings (dup of 09-22 unsealed briefs), Audible EU translations (in ledger), Around the Book World 09-28 (covered 09-29), Pan Mac/Spotify trainers & 12th-gen Kindle (no AI), Czech Elredo funding (funding noise).",
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 16,
     "against_days": 5
   }
 }

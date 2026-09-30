@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "games",
   "media": [
     {
-      "id": "games-meta-horizon-studio",
+      "id": "games-uebox-unreal-agent",
       "type": "image",
-      "src": "pipeline/media/games-meta-horizon-studio.jpg"
+      "src": "pipeline/media/games-uebox-unreal-agent.png"
     },
     {
-      "id": "games-secretsauce-labs",
+      "id": "games-ryzachat-input-limits",
       "type": "image",
-      "src": "pipeline/media/games-secretsauce-labs.jpg"
+      "src": "pipeline/media/games-ryzachat-input-limits.jpg"
     },
     {
-      "id": "games-onestore-ai-games",
+      "id": "games-tsuda-voice-ruling",
       "type": "image",
-      "src": "pipeline/media/games-onestore-ai-games.jpg"
+      "src": "pipeline/media/games-tsuda-voice-ruling.jpg"
     },
     {
-      "id": "games-hive-axil",
+      "id": "games-borderless-dlss5",
       "type": "image",
-      "src": "pipeline/media/games-hive-axil.jpg"
+      "src": "pipeline/media/games-borderless-dlss5.jpg"
     },
     {
-      "id": "games-brood-war-bench",
+      "id": "games-logitech-replay",
       "type": "image",
-      "src": "pipeline/media/games-brood-war-bench.jpg"
+      "src": "pipeline/media/games-logitech-replay.jpg"
     }
   ]
 }

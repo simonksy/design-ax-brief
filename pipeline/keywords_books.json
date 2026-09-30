@@ -1,8 +1,13 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "section": "books",
-  "_note": "Unattended override run for 2026-09-30. The planner did not use WebSearch. This plan was built only from keyword_pool.json, sources.json, the published books cards for 09-29 (cards_books.json) and the 09-29 plan's exclude ledger. The working set is the FULL books pool (3 core + 22 keywords), with no rotating slice. Each keyword expands into 2-3 siblings, and related keywords share combined queries. Queries are ordered by priority so the librarian can work down the list. What 09-29 covered: MVB adopting Snackz AI metadata/keyword/SEO tool (Publishing Perspectives), the Bookseller column on AI secrecy among authors, SoundGrab x VoiceGrab hybrid cinema audiobook with AI voices (전자신문), the Korean translator's MTPE testimony at the National Assembly Library (미디어오늘), and grandmaslop AI storybooks (TechRadar). Push all of those DOWN today: book metadata/marketing tooling, author AI-disclosure commentary, Korean AI audiobook production, AI-translation labour commentary and AI children's storybooks have each had a card in the last day. What 09-28 covered: Sudowrite (2 cards), NovelCrafter, Apex eden copyediting, Kenya AI textbooks. Rank these on TOP today: e-reader/ebook AI features (Kindle/Kobo/Boox/reMarkable), KDP / Kindle Translate NEW features or policy, AI manuscript screening at agents/publishers, reading assistants and recommendation/discovery, poetry, copyright rulings/settlements/payouts (not corpus deals), ghostwriting/knockoff books, generative/interactive fiction products, AI comics tools (not Manga Plus/Novvel/byUs), book cover incidents or tools, AI book summarisation products (not Storytel Recaps), self-publishing platforms (Draft2Digital/IngramSpark/Reedsy), and concrete textbook product launches (not Kenya/ScrollEd). Frankfurt Book Fair (Oct 7-11) is 7 days out, so concrete pre-fair AI announcements (exhibitor launches other than Apex eden, rights-platform AI, the CONTEC / THE ARTS+ programme, Frankfurt AI stage speakers) are fair game. Korean queries: favour e-book readers, library, bookstore discovery, poetry and copyright angles; skip webnovel/webtoon AI (09-24, 09-26), the nonfiction slump (09-27), AI textbooks (09-28), AI audiobook production and AI-translation labour (09-29). Librarian tip (repo experience): site: search tends to return evergreen pages, so prefer outlet RSS/feeds or sitemap_news.xml to confirm publish times (publishersweekly.com/feeds, thebookseller.com/rss, goodereader.com/feed, janefriedman.com/feed, publishingperspectives.com/feed, bookriot.com/feed, lithub.com/feed, thecreativepenn.com/feed, writersdigest.com/feed, the-digital-reader.com/feed, kindlepreneur.com/feed, electricliterature.com/feed). Do not re-pick any URL or topic listed in exclude_recent_topics.",
+  "_note": "Unattended run 2026-10-01 (no WebSearch in planning). Working set = FULL books pool (3 core + 22 keywords) + 2-3 expansions each. 09-30 covered: De Marque x ElevenLabs AI audiobooks (PW), BISG AI survey publishers vs employees (PW), Korean AI-use labelling proposal (한겨레), Mentat citation licensing (교수신문), Estonian publisher on translators/illustrators (ERR). Push DOWN: AI audiobook distribution, industry AI surveys, AI-use labelling, citation/licensing dashboards, translator/illustrator displacement commentary. Rank UP: Frankfurt Book Fair (Oct 7-11) pre-fair AI launches, e-reader AI features, KDP/Kindle new features, copyright rulings/filings, poetry, ghostwriting/knockoffs, reading assistants, self-publishing platforms, AI comics tools, cover incidents. Collection: RSS feeds of allowed_domains + Google News RSS when:14d; WebSearch <=6 for gaps.",
   "exclude_recent_topics": [
+    "De Marque to offer AI audiobook capabilities via ElevenLabs (PW, 09-30)",
+    "BISG survey: publishers speed up AI, employees slow down (PW, 09-30)",
+    "Korean publishers propose AI-use labelling on books (한겨레, 09-30)",
+    "Mentat AI citation licensing dashboard for authors (교수신문, 09-30)",
+    "Estonian publisher Tanapaev: AI comes for translators and illustrators first (ERR, 09-30)",
     "MVB integrates Snackz AI metadata/keyword/SEO tool (Publishing Perspectives 'Around the Book World', 09-29)",
     "Pushing authors into a culture of AI secrecy, Madeleine F. White column (The Bookseller, 09-29)",
     "SoundGrab x VoiceGrab hybrid cinema audiobook with AI voices (전자신문, 09-29)",
@@ -41,31 +46,273 @@
     "Australia AI training opt-out backlash APA/ASA (09-22)"
   ],
   "working_keywords": [
-    { "keyword": "AI writing", "priority": 1, "source": "core", "expansions": ["AI writing assistant authors new release", "AI 글쓰기 도구", "authors AI use survey 2026"], "_note": "Sudowrite/NovelCrafter 09-28 and disclosure column 09-29 covered; prefer other tools or hard survey data" },
-    { "keyword": "AI publishing", "priority": 2, "source": "core", "expansions": ["publisher AI strategy announcement", "Frankfurt Book Fair 2026 AI exhibitor", "Big Five publisher AI licensing deal"] },
-    { "keyword": "AI 출판", "priority": 3, "source": "core", "expansions": ["출판사 AI 도입 사례", "AI 전자책 리더 서점", "AI 저작권 출판계"] },
-    { "keyword": "AI ebook tools", "priority": 4, "source": "pool", "expansions": ["Kobo Kindle Boox AI feature", "Kindle Scribe reMarkable AI notebook", "AI 전자책 리더"] },
-    { "keyword": "KDP AI", "priority": 5, "source": "pool", "expansions": ["Kindle Translate expansion languages", "KDP AI-generated content disclosure", "Kindle Direct Publishing new AI tool"], "_note": "upload cap covered 09-25; only NEW features/policy" },
-    { "keyword": "AI manuscript", "priority": 6, "source": "pool", "expansions": ["AI manuscript assessment slush pile tool", "literary agents AI submissions policy", "AI 원고 검토 투고"] },
-    { "keyword": "AI reading assistant", "priority": 7, "source": "pool", "expansions": ["Kindle Ask this Book", "AI reading companion app launch", "AI 독서 도우미"] },
-    { "keyword": "AI book recommendation", "priority": 8, "source": "pool", "expansions": ["Goodreads StoryGraph AI recommendations", "Bookshop.org Barnes & Noble AI discovery", "AI 도서 추천 도서관"] },
-    { "keyword": "AI copyright authors", "priority": 9, "source": "pool", "expansions": ["authors AI lawsuit ruling settlement", "Anthropic settlement payouts authors", "AI 저작권 작가"], "_note": "corpus deals covered 09-26/27; only NEW rulings/filings/payouts" },
-    { "keyword": "AI poetry", "priority": 10, "source": "pool", "expansions": ["AI poetry collection publisher", "poetry prize AI eligibility rule", "AI 시 창작"] },
-    { "keyword": "AI ghostwriting", "priority": 11, "source": "pool", "expansions": ["AI ghostwriter memoir service", "AI knockoff books under author's name Amazon", "AI 대필"] },
-    { "keyword": "generative fiction", "priority": 12, "source": "pool", "expansions": ["interactive AI fiction app launch", "AI serialized story platform", "AI 소설 플랫폼"], "_note": "webnovel/webtoon covered; only new products" },
-    { "keyword": "AI self-publishing", "priority": 13, "source": "pool", "expansions": ["indie author AI toolkit", "Draft2Digital IngramSpark Reedsy AI", "AI 자가출판 독립출판"] },
-    { "keyword": "AI book summarization", "priority": 14, "source": "pool", "expansions": ["Blinkist Shortform AI summaries", "Kindle Recaps", "AI 책 요약"], "_note": "Storytel Recaps 09-26; only a different product" },
-    { "keyword": "AI comic manga", "priority": 15, "source": "pool", "expansions": ["AI comic production tool", "manga publisher AI studio", "AI 만화 제작"], "_note": "Manga Plus/Novvel/byUs covered; only genuinely new" },
-    { "keyword": "AI book cover", "priority": 16, "source": "pool", "expansions": ["AI cover art controversy publisher", "cover designers AI tool", "AI 표지 디자인"], "_note": "concepting column 09-27; only a concrete new incident or tool" },
-    { "keyword": "AI co-writing", "priority": 17, "source": "pool", "expansions": ["human-AI co-written novel published", "AI authorship label book", "AI 공동 집필"], "_note": "skip Orelien/Goncourt, detection studies and the 09-29 secrecy column" },
-    { "keyword": "AI textbook", "priority": 18, "source": "pool", "expansions": ["adaptive AI textbook launch", "Pearson Wiley McGraw Hill Cengage AI product", "AI 디지털교과서"], "_note": "Kenya 09-28, ScrollEd 09-24; only a concrete product launch" },
-    { "keyword": "AI literary translation", "priority": 19, "source": "pool", "expansions": ["AI-translated novel publisher imprint", "literary translators AI clause contract", "AI 문학 번역"], "_note": "MTPE labour testimony 09-29, manga 09-26; only a concrete publisher/imprint/contract move" },
-    { "keyword": "AI audiobook narration", "priority": 20, "source": "pool", "expansions": ["Audible AI narration catalogue expansion", "Spotify audiobooks AI voice publisher", "AI 오디오북"], "_note": "Storytel 09-26, Gemini TTS 09-27, SoundGrab 09-29; only new global platform programmes" },
-    { "keyword": "AI narration voices", "priority": 21, "source": "pool", "expansions": ["ElevenLabs audiobook publishing partner", "SAG-AFTRA narrator AI agreement", "AI 내레이션 성우"], "_note": "voice cloning 09-27; only narrator-rights/union news" },
-    { "keyword": "AI editing proofreading", "priority": 22, "source": "pool", "expansions": ["ProWritingAid Grammarly authors feature", "AI developmental editing tool", "AI 교정 교열"], "_note": "Apex eden covered 09-28; only a different product" },
-    { "keyword": "AI book marketing", "priority": 23, "source": "pool", "expansions": ["BookBub Amazon Ads AI authors", "AI blurb ad copy authors", "AI 도서 마케팅"], "_note": "MVB/Snackz metadata 09-29; only a different, concrete launch" },
-    { "keyword": "AI children's book", "priority": 24, "source": "pool", "expansions": ["personalised AI storybook app", "AI picture book publisher controversy", "AI 그림책 동화"], "_note": "grandmaslop 09-29, SCBWI 09-25; only a concrete publisher/product event" },
-    { "keyword": "Sudowrite", "priority": 25, "source": "pool", "expansions": ["Sudowrite Muse", "NovelCrafter", "Squibler alternatives"], "_note": "2 Sudowrite cards 09-28; only a major launch" }
+    {
+      "keyword": "AI writing",
+      "priority": 1,
+      "source": "core",
+      "expansions": [
+        "AI writing assistant authors new release",
+        "AI 글쓰기 도구",
+        "authors AI use survey 2026"
+      ],
+      "_note": "Sudowrite/NovelCrafter 09-28 and disclosure column 09-29 covered; prefer other tools or hard survey data"
+    },
+    {
+      "keyword": "AI publishing",
+      "priority": 2,
+      "source": "core",
+      "expansions": [
+        "publisher AI strategy announcement",
+        "Frankfurt Book Fair 2026 AI exhibitor",
+        "Big Five publisher AI licensing deal"
+      ],
+      "_note": "BISG survey 09-30; prefer concrete launches, Frankfurt pre-fair news"
+    },
+    {
+      "keyword": "AI 출판",
+      "priority": 3,
+      "source": "core",
+      "expansions": [
+        "출판사 AI 도입 사례",
+        "AI 전자책 리더 서점",
+        "AI 저작권 출판계"
+      ]
+    },
+    {
+      "keyword": "AI ebook tools",
+      "priority": 4,
+      "source": "pool",
+      "expansions": [
+        "Kobo Kindle Boox AI feature",
+        "Kindle Scribe reMarkable AI notebook",
+        "AI 전자책 리더"
+      ]
+    },
+    {
+      "keyword": "KDP AI",
+      "priority": 5,
+      "source": "pool",
+      "expansions": [
+        "Kindle Translate expansion languages",
+        "KDP AI-generated content disclosure",
+        "Kindle Direct Publishing new AI tool"
+      ],
+      "_note": "upload cap covered 09-25; only NEW features/policy"
+    },
+    {
+      "keyword": "AI manuscript",
+      "priority": 6,
+      "source": "pool",
+      "expansions": [
+        "AI manuscript assessment slush pile tool",
+        "literary agents AI submissions policy",
+        "AI 원고 검토 투고"
+      ]
+    },
+    {
+      "keyword": "AI reading assistant",
+      "priority": 7,
+      "source": "pool",
+      "expansions": [
+        "Kindle Ask this Book",
+        "AI reading companion app launch",
+        "AI 독서 도우미"
+      ]
+    },
+    {
+      "keyword": "AI book recommendation",
+      "priority": 8,
+      "source": "pool",
+      "expansions": [
+        "Goodreads StoryGraph AI recommendations",
+        "Bookshop.org Barnes & Noble AI discovery",
+        "AI 도서 추천 도서관"
+      ]
+    },
+    {
+      "keyword": "AI copyright authors",
+      "priority": 9,
+      "source": "pool",
+      "expansions": [
+        "authors AI lawsuit ruling settlement",
+        "Anthropic settlement payouts authors",
+        "AI 저작권 작가"
+      ],
+      "_note": "corpus deals covered 09-26/27; only NEW rulings/filings/payouts"
+    },
+    {
+      "keyword": "AI poetry",
+      "priority": 10,
+      "source": "pool",
+      "expansions": [
+        "AI poetry collection publisher",
+        "poetry prize AI eligibility rule",
+        "AI 시 창작"
+      ]
+    },
+    {
+      "keyword": "AI ghostwriting",
+      "priority": 11,
+      "source": "pool",
+      "expansions": [
+        "AI ghostwriter memoir service",
+        "AI knockoff books under author's name Amazon",
+        "AI 대필"
+      ]
+    },
+    {
+      "keyword": "generative fiction",
+      "priority": 12,
+      "source": "pool",
+      "expansions": [
+        "interactive AI fiction app launch",
+        "AI serialized story platform",
+        "AI 소설 플랫폼"
+      ],
+      "_note": "webnovel/webtoon covered; only new products"
+    },
+    {
+      "keyword": "AI self-publishing",
+      "priority": 13,
+      "source": "pool",
+      "expansions": [
+        "indie author AI toolkit",
+        "Draft2Digital IngramSpark Reedsy AI",
+        "AI 자가출판 독립출판"
+      ]
+    },
+    {
+      "keyword": "AI book summarization",
+      "priority": 14,
+      "source": "pool",
+      "expansions": [
+        "Blinkist Shortform AI summaries",
+        "Kindle Recaps",
+        "AI 책 요약"
+      ],
+      "_note": "Storytel Recaps 09-26; only a different product"
+    },
+    {
+      "keyword": "AI comic manga",
+      "priority": 15,
+      "source": "pool",
+      "expansions": [
+        "AI comic production tool",
+        "manga publisher AI studio",
+        "AI 만화 제작"
+      ],
+      "_note": "Manga Plus/Novvel/byUs covered; only genuinely new"
+    },
+    {
+      "keyword": "AI book cover",
+      "priority": 16,
+      "source": "pool",
+      "expansions": [
+        "AI cover art controversy publisher",
+        "cover designers AI tool",
+        "AI 표지 디자인"
+      ],
+      "_note": "concepting column 09-27; only a concrete new incident or tool"
+    },
+    {
+      "keyword": "AI co-writing",
+      "priority": 17,
+      "source": "pool",
+      "expansions": [
+        "human-AI co-written novel published",
+        "AI authorship label book",
+        "AI 공동 집필"
+      ],
+      "_note": "skip Orelien/Goncourt, detection studies and the 09-29 secrecy column"
+    },
+    {
+      "keyword": "AI textbook",
+      "priority": 18,
+      "source": "pool",
+      "expansions": [
+        "adaptive AI textbook launch",
+        "Pearson Wiley McGraw Hill Cengage AI product",
+        "AI 디지털교과서"
+      ],
+      "_note": "Kenya 09-28, ScrollEd 09-24; only a concrete product launch"
+    },
+    {
+      "keyword": "AI literary translation",
+      "priority": 19,
+      "source": "pool",
+      "expansions": [
+        "AI-translated novel publisher imprint",
+        "literary translators AI clause contract",
+        "AI 문학 번역"
+      ],
+      "_note": "MTPE labour testimony 09-29, manga 09-26; only a concrete publisher/imprint/contract move"
+    },
+    {
+      "keyword": "AI audiobook narration",
+      "priority": 20,
+      "source": "pool",
+      "expansions": [
+        "Audible AI narration catalogue expansion",
+        "Spotify audiobooks AI voice publisher",
+        "AI 오디오북"
+      ],
+      "_note": "De Marque/ElevenLabs 09-30 + earlier; only new global platform programmes"
+    },
+    {
+      "keyword": "AI narration voices",
+      "priority": 21,
+      "source": "pool",
+      "expansions": [
+        "ElevenLabs audiobook publishing partner",
+        "SAG-AFTRA narrator AI agreement",
+        "AI 내레이션 성우"
+      ],
+      "_note": "voice cloning 09-27; only narrator-rights/union news"
+    },
+    {
+      "keyword": "AI editing proofreading",
+      "priority": 22,
+      "source": "pool",
+      "expansions": [
+        "ProWritingAid Grammarly authors feature",
+        "AI developmental editing tool",
+        "AI 교정 교열"
+      ],
+      "_note": "Apex eden covered 09-28; only a different product"
+    },
+    {
+      "keyword": "AI book marketing",
+      "priority": 23,
+      "source": "pool",
+      "expansions": [
+        "BookBub Amazon Ads AI authors",
+        "AI blurb ad copy authors",
+        "AI 도서 마케팅"
+      ],
+      "_note": "MVB/Snackz metadata 09-29; only a different, concrete launch"
+    },
+    {
+      "keyword": "AI children's book",
+      "priority": 24,
+      "source": "pool",
+      "expansions": [
+        "personalised AI storybook app",
+        "AI picture book publisher controversy",
+        "AI 그림책 동화"
+      ],
+      "_note": "grandmaslop 09-29, SCBWI 09-25; only a concrete publisher/product event"
+    },
+    {
+      "keyword": "Sudowrite",
+      "priority": 25,
+      "source": "pool",
+      "expansions": [
+        "Sudowrite Muse",
+        "NovelCrafter",
+        "Squibler alternatives"
+      ],
+      "_note": "2 Sudowrite cards 09-28; only a major launch"
+    }
   ],
   "categories": [
     {
@@ -98,34 +345,40 @@
         "youtube.com"
       ],
       "queries": [
-        "Kobo OR Kindle OR Boox OR Kindle Scribe OR reMarkable e-reader AI feature late September 2026",
-        "site:the-digital-reader.com OR site:goodereader.com AI ebook reader September 2026",
-        "Kindle Translate OR KDP new AI feature OR AI disclosure policy late September 2026",
+        "Kobo OR Kindle OR Boox OR Kindle Scribe OR reMarkable e-reader AI feature 2026",
+        "site:the-digital-reader.com OR site:goodereader.com AI ebook reader 2026",
+        "Kindle Translate OR KDP new AI feature OR AI disclosure policy 2026",
         "literary agents AI manuscript screening submissions policy 2026",
-        "Kindle Ask this Book OR AI reading companion app launch September 2026",
+        "Kindle Ask this Book OR AI reading companion app launch 2026",
         "Goodreads OR StoryGraph OR Bookshop.org AI book recommendation feature 2026",
-        "authors AI copyright lawsuit new ruling OR settlement payout late September 2026",
+        "authors AI copyright lawsuit new ruling OR settlement payout 2026",
         "Frankfurt Book Fair 2026 AI exhibitor launch OR rights platform OR CONTEC programme",
-        "site:publishersweekly.com AI publishers September 30 2026",
-        "site:thebookseller.com AI publishing late September 2026",
+        "site:publishersweekly.com AI publishers October 2026",
+        "site:thebookseller.com AI publishing 2026",
         "AI poetry collection OR poetry prize AI eligibility rule 2026",
         "AI knockoff books author name Amazon OR AI ghostwriter memoir 2026",
-        "generative AI interactive fiction story app launch September 2026",
+        "generative AI interactive fiction story app launch 2026",
         "site:kindlepreneur.com OR site:thecreativepenn.com AI self-publishing Draft2Digital IngramSpark Reedsy 2026",
         "Blinkist OR Shortform AI book summary new feature 2026",
         "AI comic graphic novel production tool publisher launch 2026",
-        "AI book cover art controversy publisher OR cover designer AI tool September 2026",
+        "AI book cover art controversy publisher OR cover designer AI tool 2026",
         "human-AI co-written novel published authorship label 2026",
-        "adaptive AI textbook OR Pearson Wiley McGraw Hill AI product launch September 2026",
+        "adaptive AI textbook OR Pearson Wiley McGraw Hill AI product launch 2026",
         "AI-translated novel publisher imprint OR translators AI contract clause 2026",
         "Audible OR Spotify audiobooks AI narration programme OR SAG-AFTRA narrator AI agreement 2026",
-        "AI writing assistant authors survey OR new release September 2026 -Sudowrite",
+        "AI writing assistant authors survey OR new release 2026 -Sudowrite",
         "ProWritingAid OR Grammarly OR AI developmental editing tool authors 2026",
-        "AI 전자책 리더 서점 AI 도서 추천 기능 2026년 9월",
+        "AI 전자책 리더 서점 AI 도서 추천 기능 2026",
         "AI 저작권 작가 소송 출판 2026",
         "AI 시 창작 시집 출간 2026",
         "도서관 AI 독서 도우미 서비스 2026",
-        "site:youtube.com The Creative Penn OR Self Publishing with Dale AI publishing 2026"
+        "site:youtube.com The Creative Penn OR Self Publishing with Dale AI publishing 2026",
+        "Google News RSS: \"AI\" book publishing when:14d",
+        "Google News RSS: authors AI lawsuit when:14d",
+        "Google News RSS: Frankfurt Book Fair AI when:14d",
+        "Google News RSS: AI novel OR AI-written book when:14d",
+        "Google News RSS: 출판 인공지능 when:14d",
+        "Google News RSS: Kindle AI when:14d"
       ]
     }
   ]

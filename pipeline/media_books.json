@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-30",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-demarque-elevenlabs",
-      "type": "image",
-      "src": "pipeline/media/books-demarque-elevenlabs.jpg"
-    },
-    {
-      "id": "books-bisg-ai-survey",
-      "type": "image",
-      "src": "pipeline/media/books-bisg-ai-survey.jpg"
-    },
-    {
-      "id": "books-ai-label-korea",
-      "type": "image",
-      "src": "pipeline/media/books-ai-label-korea.jpg"
-    },
-    {
-      "id": "books-mentat-licensing",
-      "type": "image",
-      "src": "pipeline/media/books-mentat-licensing.png"
-    },
-    {
-      "id": "books-tanapaev-translation",
-      "type": "image",
-      "src": "pipeline/media/books-tanapaev-translation.jpg"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-springer-ai-slop",
+   "type": "image",
+   "src": "pipeline/media/books-springer-ai-slop.jpg"
+  },
+  {
+   "id": "books-kpa-ai-data-mou",
+   "type": "image",
+   "src": "pipeline/media/books-kpa-ai-data-mou.png"
+  },
+  {
+   "id": "books-chatgpt-book-recs",
+   "type": "image",
+   "src": "pipeline/media/books-chatgpt-book-recs.jpg"
+  },
+  {
+   "id": "books-dutch-meta-protest",
+   "type": "image",
+   "src": "pipeline/media/books-dutch-meta-protest.jpg"
+  },
+  {
+   "id": "books-guild-anthropic-share",
+   "type": "image",
+   "src": "pipeline/media/books-guild-anthropic-share.jpg"
+  }
+ ]
 }

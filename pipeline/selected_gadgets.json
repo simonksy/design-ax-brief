@@ -1,86 +1,98 @@
 {
-  "date": "2026-09-30",
-  "section": "gadgets",
-  "picks": [
-    {
-      "rank": 1,
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "headline": "This $3,555 Humanoid Robot Learns New Chores in 30 Minutes, Startup Says",
-      "url": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
-      "source": "CNET",
-      "published_iso": "2026-09-29T10:05:49-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Flourish-1-cleaning.jpg",
-      "excerpt": "Flourish says it's ready to ship the first 50 units starting in December.",
-      "rationale": "New consumer home humanoid with price, ship date and a 30-minute chore-learning claim; fresh launch, distinct from the 09-26 Tesla Optimus production card."
-    },
-    {
-      "rank": 2,
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "headline": "Ever wanted a video doorbell you can use in VR? Me neither, but Anker Eufy is launch the world's first model anyway, with an eye-watering price tag (but no subscription)",
-      "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-      "source": "TechRadar",
-      "published_iso": "2026-09-28T19:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-2000-80.jpg",
-      "excerpt": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
-      "rationale": "Product launch: Eufy S4 doorbell with on-device AI tracking/framing and no subscription, a counterpoint to the subscription-gated camera AI compared in the 09-27 Verge card (different product, new news)."
-    },
-    {
-      "rank": 3,
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "headline": "Gemini and Find Hub can help you locate your important documents — here's how",
-      "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
-      "source": "Engadget",
-      "published_iso": "2026-09-29T18:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/gemini-and-find-hub-can-help-you-locate-your-important-documents-heres-how/l-intro-1789834269.jpg",
-      "excerpt": "You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag.",
-      "rationale": "Highly actionable how-to pairing Gemini with Find Hub for tagless tracking; readers can use it tomorrow, no prior Find Hub coverage."
-    },
-    {
-      "rank": 4,
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "headline": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "source": "Ars Technica",
-      "published_iso": "2026-09-24T11:00:04+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
-      "excerpt": "Usable local AI is a lot of fun, but how much would you pay for it?",
-      "rationale": "Credible hands-on of M5 Ultra as a local-AI workstation; the Apple-side answer to recent Gorgon Halo/GB300 cards, not previously covered."
-    },
-    {
-      "rank": 5,
-      "tool": "Gadgets",
-      "category": "gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "headline": "How do translation earbuds actually work?",
-      "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
-      "source": "Engadget",
-      "published_iso": "2026-09-29T22:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/l-intro-1790623926.jpg",
-      "excerpt": "Translation earbuds claim high accuracy, but in real-world use, you should lower your expectations. The technology is far from mature.",
-      "rationale": "Explainer on the AI translation pipeline in hearables with a reality check on accuracy; rounds out the set with a wearables/audio angle."
-    }
-  ],
-  "dropped": [
-    {"url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/", "reason": "Muse-on-glasses already published (Android Authority leak 09-24; Ars Connect keychain card 09-25 reported Muse coming to glasses); official confirmation adds no new development"},
-    {"url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/", "reason": "commentary on Muse Charm, device already published (Ars Technica 09-25)"},
-    {"url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/", "reason": "follow-up to previously published Assistant shutdown story (Engadget); rollout completion is incremental, not a new development"},
-    {"url": "https://www.androidcentral.com/wearables/ray-ban-meta-gen-3-ray-ban-meta-audio-lisa-glasses-hands-on", "reason": "Meta Connect glasses lineup already covered (Ars 09-25 camera-less Ray-Ban/new frames; WIRED 09-25; Engadget 09-28)"},
-    {"url": "https://www.uploadvr.com/visionos-27-launched-for-apple-vision-pro-headsets/", "reason": "stale (09-18) and Siri AI in the 27 OS cycle already covered (Tom's Guide 09-27)"},
-    {"url": "https://9to5google.com/2026/09/22/smart-glasses-growth-h1-2026/", "reason": "market-share data, AI-business noise; stale"},
-    {"url": "https://9to5google.com/2026/09/22/gemini-switches-to-american-accent-but-just-for-nest-doorbells/", "reason": "minor bug report; stale (09-22)"},
-    {"url": "https://www.cnet.com/home/smart-home/the-most-advanced-home-device-ive-tested-this-year-is-in-my-garage/", "reason": "lower rank; overlaps home-security slot taken by Eufy S4 and the 09-27 camera-AI card"}
-  ]
+ "date": "2026-10-01",
+ "section": "gadgets",
+ "picks": [
+  {
+   "rank": 1,
+   "tool": "Gadgets",
+   "category": "gadgets",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "headline": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
+   "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
+   "source": "Engadget",
+   "published_iso": "2026-09-30T13:00:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg",
+   "excerpt": "Newsletter Big Tech Amazon Amazon's new Fire TV interface and mobile app will come with Alexa+ up",
+   "rationale": "Alexa+ reasoning, photo-based recommendations and a new AI hub on Fire TV — a concrete AI-TV rollout with dates (Nov, US)."
+  },
+  {
+   "rank": 2,
+   "tool": "Gadgets",
+   "category": "gadgets",
+   "accent": "#3b6bff",
+   "motif": "headset",
+   "headline": "Nanoleaf will soon let you control your smart lights with ChatGPT and Claude",
+   "url": "https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/",
+   "source": "Android Authority",
+   "published_iso": "2026-09-30T13:00:02+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
+   "excerpt": "Search results forAll search results Best daily dealsLoginAffiliate links on Android Authority may earn us a commission. Learn more.",
+   "rationale": "First major smart-lighting MCP server: LLM assistants drive physical devices by natural-language mood prompts; dev tools live now."
+  },
+  {
+   "rank": 3,
+   "tool": "Gadgets",
+   "category": "gadgets",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "headline": "Freckle Phone has a kid-friendly name, but I'm not sure it can overcome the AI gadget curse",
+   "url": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
+   "source": "TechRadar",
+   "published_iso": "2026-09-30T16:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/jf39h7L6Z7u7LoAsPztuC3-1920-80.jpg",
+   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti",
+   "rationale": "New AI-first kids device (Gemini + local model, curiosity camera, no app store) — tests the post-Rabbit AI gadget thesis."
+  },
+  {
+   "rank": 4,
+   "tool": "Gadgets",
+   "category": "gadgets",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "headline": "I tried Peloton's redesigned Tread Vision and its AI feedback features",
+   "url": "https://www.techradar.com/health-fitness/exercise-equipment/could-a-treadmill-make-you-a-better-runner-than-an-apple-watch-peloton-cpo-nick-caldwell-and-cmo-megan-imbres-believe-the-peloton-tread-visions-ai-cameras-offer-much-higher-accuracy-than-wearables",
+   "source": "TechRadar",
+   "published_iso": "2026-09-30T15:36:40Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/WNyYwDgN8zKN5SWB5ZKSBV-1920-80.jpg",
+   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti",
+   "rationale": "Computer-vision form feedback built into a treadmill, launching Oct 1 — AI camera moves from wearables into home fitness hardware."
+  },
+  {
+   "rank": 5,
+   "tool": "Gadgets",
+   "category": "gadgets",
+   "accent": "#f5a623",
+   "motif": "headset",
+   "headline": "Humanoid robots are getting even creepier (this one can cry on command)",
+   "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
+   "source": "Engadget",
+   "published_iso": "2026-09-27T13:15:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
+   "excerpt": "Newsletter Tomorrow Robotics Humanoid robots are getting even creepier (this one can cry on comma",
+   "rationale": "Affective-computing humanoid (Yansyn-X2) that sheds tears on AI-detected emotional cues — a distinct robot story from the Flourish/Optimus cards."
+  }
+ ],
+ "dropped": [
+  {
+   "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+   "reason": "event-promo copy for Disrupt tickets (advertorial-like); Stretch 4 itself launched in May"
+  },
+  {
+   "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+   "reason": "URL already in design ledger (09-22); Snap Specs covered in gadgets 09-18 (WIRED)"
+  },
+  {
+   "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
+   "reason": "Muse-on-glasses already dropped/covered (AA leak, Ars 09-25)"
+  },
+  {
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+   "reason": "overlaps Muse Charm card (09-25) — commentary on same device trend"
+  },
+  {
+   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+   "reason": "Meta Connect glasses lineup already covered (09-25/09-28); glasses slot saturated"
+  }
+ ]
 }

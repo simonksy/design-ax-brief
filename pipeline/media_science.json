@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-30",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-tessera",
-      "type": "image",
-      "src": "pipeline/media/science-tessera.jpg"
-    },
-    {
-      "id": "science-glueplex",
-      "type": "image",
-      "src": "pipeline/media/science-glueplex.jpg"
-    },
-    {
-      "id": "science-xecg",
-      "type": "image",
-      "src": "pipeline/media/science-xecg.jpg"
-    },
-    {
-      "id": "science-reservoir-chip",
-      "type": "image",
-      "src": "pipeline/media/science-reservoir-chip.jpg"
-    },
-    {
-      "id": "science-face-bias",
-      "type": "image",
-      "src": "pipeline/media/science-face-bias.jpg"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "science",
+ "media": [
+  {
+   "id": "science-percolation-proof",
+   "type": "image",
+   "src": "pipeline/media/science-percolation-proof.jpg"
+  },
+  {
+   "id": "science-yeast-ai-scientist",
+   "type": "image",
+   "src": "pipeline/media/science-yeast-ai-scientist.jpg"
+  },
+  {
+   "id": "science-physmat-ai",
+   "type": "image",
+   "src": "pipeline/media/science-physmat-ai.jpg"
+  },
+  {
+   "id": "science-chromagenet",
+   "type": "image",
+   "src": "pipeline/media/science-chromagenet.jpg"
+  },
+  {
+   "id": "science-llm-social-norms",
+   "type": "image",
+   "src": "pipeline/media/science-llm-social-norms.jpg"
+  }
+ ]
 }

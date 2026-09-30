@@ -1,33 +1,32 @@
 {
-  "date": "2026-09-30",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-adobe-chatgpt-editing",
-      "type": "image",
-      "src": "pipeline/media/design-adobe-chatgpt-editing.png"
-    },
-    {
-      "id": "design-claude-sonnet-5-5",
-      "type": "video",
-      "src": "pipeline/media/design-claude-sonnet-5-5.mp4",
-      "poster": "pipeline/media/design-claude-sonnet-5-5.jpg"
-    },
-    {
-      "id": "design-de-slopify",
-      "type": "image",
-      "src": "pipeline/media/design-de-slopify.png"
-    },
-    {
-      "id": "design-openai-dots-mascots",
-      "type": "image",
-      "src": "pipeline/media/design-openai-dots-mascots.jpg"
-    },
-    {
-      "id": "design-meta-hologram-avatars",
-      "type": "video",
-      "src": "pipeline/media/design-meta-hologram-avatars.mp4",
-      "poster": "pipeline/media/design-meta-hologram-avatars.jpg"
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "design",
+ "media": [
+  {
+   "id": "design-c4d-mcp-server",
+   "type": "video",
+   "src": "pipeline/media/design-c4d-mcp-server.mp4",
+   "poster": "pipeline/media/design-c4d-mcp-server.jpg"
+  },
+  {
+   "id": "design-photoshop-relight-beta",
+   "type": "image",
+   "src": "pipeline/media/design-photoshop-relight-beta.jpg"
+  },
+  {
+   "id": "design-runway-ads",
+   "type": "image",
+   "src": "pipeline/media/design-runway-ads.png"
+  },
+  {
+   "id": "design-owlcad-parametric-ai",
+   "type": "image",
+   "src": "pipeline/media/design-owlcad-parametric-ai.png"
+  },
+  {
+   "id": "design-core77-designer-judgment",
+   "type": "image",
+   "src": "pipeline/media/design-core77-designer-judgment.jpg"
+  }
+ ]
 }

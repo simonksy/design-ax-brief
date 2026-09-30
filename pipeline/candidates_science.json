@@ -1,105 +1,153 @@
 {
-  "date": "2026-09-30",
-  "section": "science",
-  "now_iso": "2026-09-29T22:03:11Z",
-  "window_hours": 336,
-  "notes": "Harvested via Science X / TQI / PW / UT / GEN / STAT / MIT TR / SciAm / ScienceDaily / DeepMind / Google Research RSS + EurekAlert AI spotlight; 4 WebSearch used. Science X times from RSS pubDate (EDT->UTC) confirmed via WebFetch. Expanded beyond keyword list: neuromorphic reservoir computing, ECG foundation models, agricultural remote-sensing AI, laser-welding surrogate models, federated antibody ML data. Dropped: CHIME dark-energy (no ML), UdeM protein network (no ML), orca catalog (no ML), Stanford spacecraft world model (already published via Universe Today), AlphaGenome LiveScience (covered), AI-business items (OpenAI/Anthropic/Nvidia/AMD). Science X cap applied (phys.org 3, medicalxpress 3); extra fresh alternates: medicalxpress arrhythmia GNN (UPV), AI chatbots psychological harm (Northeastern), MIT crisis-text suicide tool, phys.org Google AI Overviews audit (WashU).",
-  "items": [
-    {
-      "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-09-29T20:30:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-structure-predictio.jpg",
-      "excerpt": "Baylor College of Medicine's GluePlex workflow combines AI protein-structure prediction with physics-based modeling to predict how molecular glues bind VAV1 and CRBN without experimental structures, yielding compounds that degrade VAV1 and suppress T-cell activation (Nature Communications)."
-    },
-    {
-      "url": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-09-29T21:20:12Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
-      "excerpt": "Tohoku University's AIMR proposes PhysMat AI, a framework that builds physical laws into materials-discovery AI as priors, descriptors, constraints and verifiers so predictions for catalysts, solid-state electrolytes and hydrogen storage become interpretable and experimentally testable (Advanced Functional Materials)."
-    },
-    {
-      "url": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-09-23T09:00:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-use-ai-to-f.jpg",
-      "excerpt": "NYU researchers trained a graph neural network on 1.1M+ tautomeric states from the Cambridge Structural Database; it screened 4.6 million drug-like compounds in 3.2 hours on one GPU and flagged 126 of 5,075 protein ligands with likely wrong hydrogen positions (Chemical Science)."
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-high-ai-electrocardiogram-analysis-medical.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-09-29T19:40:05Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/electrocardiograms-1.jpg",
-      "excerpt": "Medical University of Innsbruck's xECG, an xLSTM-based ECG foundation model trained on ~8 million ECGs from 1.7 million patients, outperforms rival models across classification, regression and survival tasks and handles 12-lead, long-term and smartwatch recordings; the team also released the BenchECG benchmark (npj Digital Medicine)."
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-09-28T04:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
-      "excerpt": "IDIBELL, Barcelona Supercomputing Center and ISGlobal built ChromAgeNet, a convolutional neural network that reads 3D chromatin images of mouse blood stem cell nuclei to classify young vs. aged cells (~77% accuracy) and flag chromatin signatures of aging for rejuvenation screening (Aging Cell)."
-    },
-    {
-      "url": "https://medicalxpress.com/news/2026-09-ai-tool-glioblastoma-surgery.html",
-      "source": "Medical Xpress",
-      "category": "science",
-      "published_iso": "2026-09-28T14:20:14Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-can-predic-1.jpg",
-      "excerpt": "UCSF and University of Michigan paired stimulated Raman histology with the FastGlioma AI system and ML models to predict where glioblastoma will recur after surgery, localizing recurrence within 5-10 mm of sampled tissue and beating conventional pathology (Science Advances)."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-ai-social-norms-implications-society.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-29T12:40:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
-      "excerpt": "A PNAS Nexus study tested 21 large language models on judging cooperation with people of good or bad reputation: models agreed on helping 'good' people but diverged on 'bad' ones (Gemma 2 and Llama 3.1 endorsed shunning), with judgments shifting by recipient gender and culture."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-09-stacked-ai-chip-fast-layers.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-09-28T15:00:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-chip.jpg",
-      "excerpt": "KAIST, UNIST and POSTECH built a neuromorphic reservoir-computing chip that stacks ion-gated transistor layers with fast and slow responses to recognize motion over time, reaching >90% accuracy on moving handwritten digits in simulation and staying stable for 55 months (Advanced Materials)."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1145528",
-      "source": "EurekAlert! (University of Cambridge)",
-      "category": "science",
-      "published_iso": "2026-09-29T07:00:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-for-mapping-sm.jpg",
-      "excerpt": "Cambridge's open-source Tessera AI model maps smallholder crops across Senegal from satellite imagery with 84% accuracy using limited training data, 28% better than competing models at low compute cost (Environmental Research: Food Systems)."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/09/29/terra-quantum-empa-ai-laser-welding-prediction/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-09-29T11:59:10Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-29_16-57.png",
-      "excerpt": "Terra Quantum and Swiss lab Empa developed an AI model that predicts 3D temperature fields and melt-pool boundaries in laser welding within milliseconds, replacing slow physics simulations for process control."
-    },
-    {
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/a-hidden-bias-of-ai-revealed",
-      "source": "Psychology Today",
-      "category": "science",
-      "published_iso": "2026-09-27T14:51:18Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic71941.jpg?itok=ueT9q5vm",
-      "excerpt": "A Harvard study finds LLMs judge trustworthiness and competence from facial appearance like humans do, with even stronger appearance bias than people on competence, and none of the tested models declined the biased judgments."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/ginkgo-datapoints-apheris-announce-founding-members-of-antibody-developability-consortium/",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-09-29T17:21:15Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/03/Getty_1914734029_Antibody.jpg",
-      "excerpt": "Ginkgo Datapoints and Apheris named AbbVie, argenx, Lundbeck and Takeda as founding members of a federated consortium building the largest standardized antibody-developability dataset, designed explicitly for training ML models that predict manufacturability risk (data access early 2027)."
-    }
-  ]
+ "date": "2026-10-01",
+ "section": "science",
+ "now_iso": "2026-09-30T22:00:00Z",
+ "window_hours": 336,
+ "notes": "Collected via outlet RSS (Science X category feeds, SciAm, DeepMind, GEN, Physics World, Psychology Today, Live Science, TQI, UT, Quanta, STAT, MIT TR) + 32 Google News RSS when:14d discovery queries across the full keyword set; 2 WebSearch used (astronomy, quantum gaps — yielded only stale/already-published items). Science X (phys.org/techxplore/medicalxpress) HTML is 403 to curl: bodies via WebFetch, times from outlet RSS pubDate. Outlet cap <=3 applied (phys.org, techxplore, medicalxpress each 3 in main set + 1 phys.org/medx alternate beyond cap noted). Keyword expansion used: percolation theory/LLM proofs, protein watermarking/biosecurity provenance, chromatin imaging aging, geospatial ecology AI, LLM social norms, knowledge collapse, LLM uncertainty. Dropped: spin-glass quantum AI memory (9/3 stale), AI-physics-experiments (already in ledger), AI-industry noise (OpenAI/Anthropic/Nvidia/AMD/IPO), STAT+ policy (paywall/policy), Terra Quantum laser welding (industrial). No astronomy/particle/quantum AI item fresh and unpublished in window. Per-outlet cap trimmed: phys.org Change.org petitions and medicalxpress gut-microbiome AI kept out as over-cap alternates.",
+ "items": [
+  {
+   "url": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-30T21:40:13Z",
+   "headline": "AI scientist autonomously generates and validates new biological discoveries",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-scientist-autonomou-1.jpg",
+   "excerpt": "Chalmers researchers combined LLMs, automated reasoning and lab robotics into a closed-loop AI scientist that generates hypotheses, runs experiments on brewer's yeast and interprets results (J. R. Soc. Interface)."
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-09-30T13:00:00Z",
+   "headline": "AI solves a 'holy grail' problem from probability theory",
+   "og_image": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
+   "excerpt": "Days after Fields Medalist Hugo Duminil-Copin predicted it, Anthropic released an LLM-generated proof of a long-standing percolation-theory conjecture on the critical threshold."
+  },
+  {
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "category": "science",
+   "published_iso": "2026-09-30T15:00:00Z",
+   "headline": "Introducing SynthID Bio",
+   "og_image": "",
+   "excerpt": "DeepMind's SynthID Bio embeds imperceptible watermarks into AI-designed protein sequences and AlphaFold 3 structures; wet-lab tests show watermarked binders keep hit rate and affinity."
+  },
+  {
+   "url": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-29T21:20:12Z",
+   "headline": "Physics-grounded AI framework aims to make predictions about new materials more testable",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
+   "excerpt": "Tohoku's PhysMat AI perspective (Adv. Funct. Mater.) builds physical knowledge into materials-discovery AI as priors, descriptors, constraints, verifiers and infrastructure."
+  },
+  {
+   "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-09-30T15:20:13Z",
+   "headline": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+   "excerpt": "UOW-led geospatial AI framework links ground surveys, drone imagery and satellite data to map Antarctic moss, lichen and cyanobacteria across scales over seven years."
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-ai-social-norms-implications-society.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-29T12:40:06Z",
+   "headline": "Helping 'bad' people drew disapproval from some of 21 AI models",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
+   "excerpt": "PNAS Nexus study probes the social norms of 21 LLMs judging cooperation with people of good or bad reputation; most drift toward 'Simple Standing'."
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "published_iso": "2026-09-28T04:00:01Z",
+   "headline": "AI detects signs of aging in blood stem cells from nuclear images",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
+   "excerpt": "IDIBELL/BSC's ChromAgeNet CNN reads 3D chromatin organization in DAPI-stained hematopoietic stem cell nuclei to classify young vs aged cells (77%), Aging Cell."
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-09-machine-toolkit-odds-drug-success.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "published_iso": "2026-09-30T15:40:13Z",
+   "headline": "Machine learning toolkit can improve odds of drug development success",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/swri-develops-a-machin.jpg",
+   "excerpt": "SwRI's GAMES uses LLMs to generate molecular strings ranked against FDA-approved drug properties; identified 18 antiviral candidates for filovirus treatment."
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-28T16:20:12Z",
+   "headline": "AI chatbots give us a narrow slice of knowledge: Researchers warn of 'knowledge collapse'",
+   "og_image": "",
+   "excerpt": "Copenhagen study of 27 LLMs over 155 topics (~70M claims) finds even GPT-5 gives at least 18.7% less varied information than Google (EMNLP 2026)."
+  },
+  {
+   "url": "https://techxplore.com/news/2026-09-quantum-math-ai.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-09-30T14:40:08Z",
+   "headline": "Quantum-inspired math could help AI recognize when it does not know the answer",
+   "og_image": "",
+   "excerpt": "University of Miami framework uses quantum-inspired math and a missing-species model to flag LLM uncertainty (ICLR)."
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+   "source": "Medical Xpress",
+   "category": "science",
+   "published_iso": "2026-09-28T12:20:07Z",
+   "headline": "Turning to AI for health answers may signal anxiety, depression among young adults",
+   "og_image": "",
+   "excerpt": "University of Florida study: young adults who ask generative AI health questions more likely to screen positive for anxiety and depression."
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-09-21T16:00:00Z",
+   "headline": "Did OpenAI solve the wrong Navier-Stokes problem?",
+   "og_image": "https://static.scientificamerican.com/dam/asset/f5a85a12-d9e9-4edc-a45f-cc0b170995cf/water-wall.jpg?w=1200",
+   "excerpt": "OpenAI's LLM-generated Navier-Stokes proof relies on an external-force loophole; mathematicians say the core problem stays open."
+  },
+  {
+   "url": "https://www.genengnews.com/topics/drug-discovery/ai-and-proteomics-accelerate-vav1-molecular-glue-discovery/",
+   "source": "GEN",
+   "category": "science",
+   "published_iso": "2026-09-30T02:06:22Z",
+   "headline": "AI and Proteomics Accelerate VAV1 Molecular Glue Discovery",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2023/02/GettyImages-1463834926-scaled.jpg",
+   "excerpt": "Baylor's GluePlex workflow plus proteomics finds VAV1-degrading molecular glues (Nature Communications)."
+  },
+  {
+   "url": "https://www.livescience.com/technology/artificial-intelligence/google-deepminds-latest-ai-tool-promises-a-new-era-for-genetics-research-but-experts-warn-to-take-its-predictions-with-caution",
+   "source": "Live Science",
+   "category": "science",
+   "published_iso": "2026-09-23T14:12:22Z",
+   "headline": "Google DeepMind's latest AI tool promises a new era for genetics research",
+   "og_image": "",
+   "excerpt": "Live Science on DeepMind's AlphaGenome Atlas variant-effect map; experts urge caution."
+  },
+  {
+   "url": "https://physicsworld.com/a/drones-ai-and-the-future-of-wildlife-conservation/",
+   "source": "Physics World",
+   "category": "science",
+   "published_iso": "2026-09-30T09:00:41Z",
+   "headline": "Drones, AI and the future of wildlife conservation",
+   "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/porpoise-2520864833-shutterstock-jonas-aleksander-larsen.jpg",
+   "excerpt": "Physics World piece on drones and AI analysis for wildlife monitoring and conservation."
+  },
+  {
+   "url": "https://www.psychologytoday.com/us/blog/a-guide-to-thriving/202609/do-we-still-have-agency-when-ai-helps-us-decide",
+   "source": "Psychology Today",
+   "category": "science",
+   "published_iso": "2026-09-30T15:39:46Z",
+   "headline": "Do We Still Have Agency When AI Helps Us Decide?",
+   "og_image": "",
+   "excerpt": "Psychology Today blog on human agency and decision-making with AI assistance."
+  }
+ ]
 }
