@@ -413,6 +413,14 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
+/* ---- funnel telemetry ----
+   window.axTrack is installed by axbrief-analytics.js (a plain <script> loaded
+   before this file). Guarded because the static preview and any page that omits
+   that script must still render — telemetry never throws into the app. ---- */
+function track(name, props) {
+  try { if (window.axTrack) window.axTrack(name, props); } catch (e) {}
+}
+
 /* subscribe CTA modal — replaces the old magic-link LoginModal. There is no
    in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
    the Patreon membership checkout in a new tab (no email, no /api call; unlock
@@ -424,6 +432,9 @@ const SUBSCRIBE_URL = 'https://www.patreon.com/join/axitnow';  // 멤버십 선�
    The portal escapes the transform so the popup opens over the card you tapped,
    with the blurred locked card still visible behind the translucent backdrop. */
 function SubscribeModal({ onClose, t }) {
+  // Every "구독하기" path in the app renders this one component, so mounting it is
+  // the funnel's modal-open step regardless of which card or badge triggered it.
+  useEffect(() => { track('subscribe_open'); }, []);
   return ReactDOM.createPortal(
     <div onClick={(e) => { e.stopPropagation(); onClose(); }}
       style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
@@ -435,14 +446,15 @@ function SubscribeModal({ onClose, t }) {
           구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
         </p>
         <AxPill label="Patreon에서 구독하기" t={t}
-          onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
+          onClick={() => { track('subscribe_click'); window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
         <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
           Patreon 결제 페이지가 새 탭으로 열립니다
         </p>
         <p style={{ margin: '12px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center',
           fontFamily: 'Pretendard, system-ui' }}>
           이미 구독 중이신가요?{' '}
-          <a href="/api/auth/patreon" style={{ color: '#a09890', textDecoration: 'underline' }}>
+          <a href="/api/auth/patreon" onClick={() => track('login_click')}
+            style={{ color: '#a09890', textDecoration: 'underline' }}>
             Patreon으로 로그인
           </a>
         </p>
@@ -453,12 +465,13 @@ function SubscribeModal({ onClose, t }) {
 }
 
 /* round share button — copies a deep link to THIS card and flashes "link copied". */
-function ShareButton({ url, t }) {
+function ShareButton({ url, t, section, cardId }) {
   const [copied, setCopied] = useState(false);
   const timer = useRef();
   useEffect(() => () => clearTimeout(timer.current), []);
   const onShare = (e) => {
     e.stopPropagation(); e.preventDefault();   // don't trigger the card's flip
+    track('share_click', { section, cardId });
     const flash = () => { setCopied(true); clearTimeout(timer.current); timer.current = setTimeout(() => setCopied(false), 1500); };
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(url).then(flash).catch(() => { fallbackCopy(url); flash(); });
@@ -532,7 +545,7 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
           {onExpand ? (
             <div style={{ display: 'flex', alignItems: 'center', gap: 9 }}>
               <div style={{ flex: 1, minWidth: 0 }}><AxPill label="Read" onClick={onExpand} t={t} /></div>
-              {shareUrl && <ShareButton url={shareUrl} t={t} />}
+              {shareUrl && <ShareButton url={shareUrl} t={t} section={section} cardId={item.id} />}
             </div>
           ) : (
             <SourceLine item={it} t={t} />
@@ -673,6 +686,10 @@ function PremiumFullArticle({ item, t, section, onClose }) {
    the payload for a locked card, so there's nothing to open. ---- */
 function LockedCard({ item, index, total, t, mobile, section }) {
   const [showSubscribe, setShowSubscribe] = useState(false);
+  // The paywall step of the funnel. Keyed on the card so scrolling the carousel
+  // past several locked cards records each one, but a re-render does not.
+  useEffect(() => { track('paywall_view', { section, cardId: item && item.id }); },
+    [section, item && item.id]);
   return (
     <div style={{ height: '100%', position: 'relative', overflow: 'hidden', borderRadius: 'inherit' }}>
       <div aria-hidden style={{ height: '100%', pointerEvents: 'none',
@@ -709,6 +726,10 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
   const doFlip = (v) => {
+    // Opening the deep-dive is the strongest free-tier engagement signal we have:
+    // it separates a reader who scrolled past from one who actually read. Only the
+    // open direction is recorded; flipping back is not a second read.
+    if (v) track('card_read', { section, cardId: item && item.id });
     setFlipping(true); setFlipped(v);
     clearTimeout(flipTimer.current);
     flipTimer.current = setTimeout(() => setFlipping(false), 680);   // > the .62s transition
@@ -2162,6 +2183,16 @@ function ThemedPage({ themeKey }) {
   const cur = sections[section] || { label: section, news: [], days: [] };
   const heroRef = useRef();
   const [hero, setHero] = useState(() => ({ items: heroItems(sections[order[0]]), index: 0, key: 0, day: null }));
+  // Which section readers actually open — the number that decides where each
+  // section should be marketed. Covers every path that changes it (tab, logo→home,
+  // ?c= deep link), because it watches the state rather than the call sites.
+  useEffect(() => { track('section_view', { section }); }, [section]);
+  // Which card holds attention once a section is open. `hero.day` is null for
+  // today's deck and set when reading a past day, so both are attributed.
+  useEffect(() => {
+    const it = hero.items && hero.items[hero.index];
+    if (it && it.id) track('card_view', { section, cardId: it.id });
+  }, [section, hero.index, hero.items]);
   const [intro, setIntro] = useState(null);
   // Mobile flips the card in place (same as desktop), so there's no separate "expanded"
   // full-screen state to track — the FlipCard owns its own flip state.
