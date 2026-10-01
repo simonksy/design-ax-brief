@@ -57,27 +57,21 @@ NUM = re.compile(r"(" + NUM_CORE + r")\s*(" + UNIT + r")?", re.I)
 CURRENCY_SYMS = "$€£¥₩"
 CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|엔|위안|유로|ドル|円|美元|元|dólares|euros|dollars", re.I)
 
-# 조/兆 is ambiguous in Korean/Japanese: it's the ×10^12 multiplier ("4조 원" = 4
-# trillion won), but it's ALSO the word for a law/contract "Article" ("제4조" =
+# 조/兆 is ambiguous in Korean/Japanese: it's the ×10^12 multiplier by default
+# ("4조 원" = 4 trillion won, "매출 4조" = revenue of 4 trillion — no currency word
+# required), but it's ALSO the word for a law/contract "Article" ("제4조" =
 # "Article 4", "9401조 (3)항" = "§ 9401(3)") — a shape real legal/regulatory copy
-# uses constantly. Treat it as the multiplier only when money or a smaller CJK
-# magnitude unit follows (after optional whitespace, possibly with a digit run in
-# between when it chains, e.g. "1조 2천억 원"); never when "제" precedes it, or an
-# article/clause marker ("항", optionally as "(N)항") immediately follows.
+# uses constantly. Treat it as a bare article number (no multiplier) ONLY when
+# "제" immediately precedes the digits, or an article/clause marker ("항",
+# optionally as "(N)항") immediately follows the 조/兆 after optional whitespace.
 TRILLION_CHARS = {"조", "兆"}
-_TRILLION_SMALLER = "억億亿만萬万천千"
 _ARTICLE_RE = re.compile(r"\s*(?:\(\d+\)|\d+)?\s*항")
 
 
 def _trillion_valid(text, start, unit_end):
     if start >= 1 and text[start - 1] == "제":
         return False
-    rest = text[unit_end:]
-    if _ARTICLE_RE.match(rest):
-        return False
-    if CURRENCY.match(rest.lstrip()):
-        return True
-    return bool(re.match(r"\s*\d*[" + _TRILLION_SMALLER + "]", rest))
+    return not _ARTICLE_RE.match(text[unit_end:])
 
 
 def _latin(ch):

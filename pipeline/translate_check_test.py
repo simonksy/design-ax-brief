@@ -138,10 +138,13 @@ assert any("number" in e for e in check(src_f500, tgt_f200, "en"))
 # that a following Latin letter could demote to a mere suffix.
 assert numbers("100万users") == {1000000.0}
 
-# Fix round 4: 조/兆 is the ×10^12 multiplier ONLY when money or a smaller CJK
-# magnitude unit follows it — Korean/Japanese legal copy uses the same character for
-# an "Article" marker ("제4조", "9401조 (3)항", "4조 3항"), which must stay a bare,
-# un-multiplied number (and the usual ≤31 bare-integer exemption still applies).
+# Fix round 4/5: 조/兆 is the ×10^12 multiplier BY DEFAULT ("4조 원" and the bare
+# "매출 4조" both mean 4 trillion, no currency word required) — Korean/Japanese legal
+# copy uses the same character for an "Article" marker ("제4조", "9401조 (3)항",
+# "4조 3항"), which must stay a bare, un-multiplied number (and the usual ≤31
+# bare-integer exemption still applies). Only "제" immediately before the digits, or
+# an article/clause marker ("항"/"(N)항") immediately after 조/兆, disables the
+# multiplier.
 assert numbers("미국 연방법전 15편 9401조 (3)항") == {9401.0}
 assert numbers("4조 3항에 따라") == set()
 assert numbers("4조 원 규모") == {4e12}
@@ -158,5 +161,28 @@ assert check(src_art, tgt_art, "en") == [], check(src_art, tgt_art, "en")
 # Fix round 4: geographic/organizational acronyms are routinely translated (欧盟,
 # 美国, 联合国, ONU, UE, EE. UU.) and are not brand names.
 assert brand_tokens("EU and US at the UN") == set()
+
+# Fix round 5: round 4 over-corrected by requiring money/a smaller unit to follow
+# 조/兆 before treating it as the multiplier — a bare "매출 4조" (no currency word)
+# has no multiplier at all under that rule, silently hiding a 4조->5조 revenue
+# swap, and a currency symbol BEFORE the digits ("₩2조") wasn't considered either,
+# undercounting by 1e12x. 조/兆 is the multiplier by default now; only "제" before
+# or "항"/"(N)항" after disables it.
+assert numbers("매출 4조") == {4e12}
+assert numbers("매출 5조") == {5e12}
+src_rev = {"headline": "실적 발표\n매출 4조 달성",
+           "body": "회사는 올해 매출이 4조 원에 이를 것으로 전망했다고 밝혔다.",
+           "full": {"blocks": []}}
+tgt_rev = dict(src_rev, body="회사는 올해 매출이 5조 원에 이를 것으로 전망했다고 밝혔다.")
+assert any("number" in e for e in check(src_rev, tgt_rev, "ko"))
+assert numbers("₩2조") == {2e12}
+assert numbers("2조 원") == {2e12}
+assert numbers("15편 9401조 (3)항") == {9401.0}
+assert numbers("4조 3항에 따라") == set()
+assert numbers("제4조") == set()
+assert numbers("1조 2천억 원") == {1.2e12}
+assert numbers("3兆円") == {3e12}
+assert numbers("1兆2000億円") == {1.2e12}
+assert numbers("10조원") == {1e13}
 
 print("translate_check OK")
