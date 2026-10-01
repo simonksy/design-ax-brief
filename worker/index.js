@@ -49,7 +49,9 @@ export default {
 
     const cookies = parseCookies(request.headers.get("cookie"));
     const previewOn = url.searchParams.get("i18n") === "1";
-    const i18nOn = env.I18N_PUBLIC === "1" || previewOn || cookies.ax_i18n === "1";
+    // I18N_MENU shows the globe picker to everyone; I18N_PUBLIC also turns on the
+    // Accept-Language redirect on / and search indexing of the /{lang}/ pages.
+    const i18nOn = env.I18N_PUBLIC === "1" || env.I18N_MENU === "1" || previewOn || cookies.ax_i18n === "1";
     if (p === "/" || p === "/index.html") {
       if (env.I18N_PUBLIC === "1")
         return new Response(null, { status: 302, headers: {
