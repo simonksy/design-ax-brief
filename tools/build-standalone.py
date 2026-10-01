@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Bundle a Design AX Brief page into ONE self-contained HTML file.
-Inlines Geist CSS + _ds bundle + data + app + coffee widget, and embeds every
+Inlines Geist CSS + _ds bundle + i18n (ko dictionary + i18n.js) + data + app + coffee
+widget, and embeds every
 image (data + assets) as a base64 data: URI. React/Babel/Pretendard stay on CDN."""
 import base64, os, re, sys
 
@@ -51,9 +52,13 @@ def build(app_jsx, title, out_path):
     bundle = read(os.path.join(DS, "_ds_bundle.js"))
     data_js = read("axbrief-data.js")
     data_js = embed_images(data_js, collect_data_image_paths(data_js))
-    coffee = read("coffee-button.js")
+    # coffee-button.js was removed (superseded by Patreon); inline it only if present.
+    coffee = read("coffee-button.js") if os.path.exists("coffee-button.js") else ""
     coffee = embed_images(coffee, ["assets/coffee.jpg", "assets/linktoQR.png"])
     app = read(app_jsx)
+    # The app calls window.t()/axDate() at render time — inline the Korean dictionary
+    # and the i18n runtime before it, or the standalone export throws.
+    i18n_js = read("i18n/ko.js") + "\n" + read("i18n.js")
 
     html = """<!DOCTYPE html>
 <html lang="ko">
@@ -86,6 +91,12 @@ def build(app_jsx, title, out_path):
 %(bundle)s
 </script>
 
+<!-- i18n (inlined; Korean dictionary + runtime, must precede the app) -->
+<script>
+window.AX_LANG = "ko";
+%(i18n)s
+</script>
+
 <!-- Data (inlined; images embedded as data URIs) -->
 <script>
 %(data)s
@@ -107,7 +118,7 @@ def build(app_jsx, title, out_path):
 </script>
 </body>
 </html>
-""" % {"title": title, "css": css, "bundle": bundle, "data": data_js, "app": app, "coffee": coffee}
+""" % {"title": title, "css": css, "bundle": bundle, "data": data_js, "i18n": i18n_js, "app": app, "coffee": coffee}
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
