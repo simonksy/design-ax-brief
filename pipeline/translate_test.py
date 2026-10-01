@@ -145,4 +145,21 @@ res = json.load(open(f4))["sections"]["design"]
 assert res["today"]["cards"][0]["text"]["ja"] == KO and res["days"][1]["cards"][0]["text"]["zh"] == KO
 assert res["days"][0]["cards"][0].get("text") is None             # outside --days
 
+# archive target: teaser text into archive.json, full into premium/<lang>/<section>.json
+d5 = tempfile.mkdtemp(); os.makedirs(f"{d5}/pipeline"); os.makedirs(f"{d5}/premium")
+json.dump({"cards": [{"id": "o", "section": "design", "date": "2026-08-01", "url": "https://o",
+                      "headline": KO["headline"], "body": KO["body"]}]},
+          open(f"{d5}/pipeline/archive.json", "w"), ensure_ascii=False)
+json.dump({"cards": {"design/o": {"blocks": KO["full"]["blocks"]}}}, open(f"{d5}/premium/full.json", "w"), ensure_ascii=False)
+arch, vc = tr.archive_cards(d5)
+assert vc["design/o"]["full"]["blocks"] == KO["full"]["blocks"]
+aj = [x for k, c in vc.items() for x in tr.card_jobs(c, k)]
+assert {x["lang"] for x in aj} == {"en", "ja", "zh", "es"}
+ja = next(x for x in aj if x["lang"] == "ja")
+assert tr.apply_to_card(vc["design/o"], [ja], {ja["job_id"]: KO}) == []
+tr.commit_archive(d5, arch, vc)
+rec = json.load(open(f"{d5}/pipeline/archive.json"))["cards"][0]
+assert rec["text"]["ja"] == {"headline": KO["headline"], "body": KO["body"]} and "_src" not in rec["text"]
+assert json.load(open(f"{d5}/premium/ja/design.json"))["cards"]["design/o"]["blocks"] == KO["full"]["blocks"]
+
 print("translate fix-1 OK")

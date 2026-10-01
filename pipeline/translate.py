@@ -165,6 +165,55 @@ def _save(path, obj):
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
+def archive_cards(root):
+    """Load pipeline/archive.json's teaser-only records into virtual cards for
+    card_jobs/apply_to_card: headline/body/text/source_lang/i18n_status (whichever are
+    present) plus, when the source-language full article exists in
+    premium/<src>/<section>.json (or the legacy premium/full.json), a `full` block so
+    the premium article gets translated too."""
+    archive = _load(os.path.join(root, "pipeline", "archive.json"))
+    prem = lambda name: (_load(os.path.join(root, "premium", name), default={}).get("cards") or {})
+    legacy = prem("full.json")
+    cache = {}
+    vcards = {}
+    for rec in archive.get("cards", []):
+        key = f"{rec['section']}/{rec['id']}"
+        vc = {k: rec[k] for k in ("headline", "body", "text", "source_lang", "i18n_status") if rec.get(k)}
+        src = rec.get("source_lang") or "ko"
+        part = cache.setdefault(f"{src}/{rec['section']}", prem(f"{src}/{rec['section']}.json"))
+        full = part.get(key) or legacy.get(key)
+        if full and full.get("blocks"):
+            vc["full"] = {"blocks": full["blocks"]}
+            if vc.get("text", {}).get(src) is not None:
+                vc["text"][src] = dict(vc["text"][src], full=vc["full"])
+        vcards[key] = vc
+    return archive, vcards
+
+
+def commit_archive(root, archive, vcards):
+    """Fold each virtual card's translated text back into archive.json (teaser
+    headline/body per language, never `_src`) and each language's premium full
+    article into premium/<lang>/<section>.json (cumulative, via merge_premium)."""
+    from build_data import merge_premium
+    by_key = {f"{r['section']}/{r['id']}": r for r in archive.get("cards", [])}
+    fulls = {}
+    for key, vc in vcards.items():
+        rec = by_key[key]
+        text = {l: {k: t[k] for k in ("headline", "body") if t.get(k)}
+                for l, t in (vc.get("text") or {}).items() if l != "_src"}
+        if text:
+            rec["text"] = text
+        if vc.get("i18n_status"):
+            rec["i18n_status"] = vc["i18n_status"]
+        for l, t in (vc.get("text") or {}).items():
+            blocks = ((t or {}).get("full") or {}).get("blocks")
+            if l != "_src" and blocks:
+                fulls.setdefault(f"{l}/{rec['section']}", {})[key] = {"blocks": blocks}
+    for name, part in fulls.items():
+        merge_premium(os.path.join(root, "premium", f"{name}.json"), part)
+    _save(os.path.join(root, "pipeline", "archive.json"), archive)
+
+
 def _load_answers(path):
     """Answers files come from an agent, not a schema-checked tool, so they may be
     wrapped in a code fence, have chatter around them, or simply be unparsable. Reuse
@@ -286,6 +335,15 @@ def cmd_jobs_ui(root, out):
     return 0
 
 
+def cmd_jobs_archive(root, out, limit=None, offset=0):
+    _, vcards = archive_cards(root)
+    jobs = [j for key, c in vcards.items() for j in card_jobs(c, key)]
+    jobs = jobs[offset: offset + limit] if limit else jobs[offset:]
+    _save(out, {"kind": "archive", "target": os.path.abspath(root), "jobs": jobs})
+    print(f"{len(jobs)} job(s) -> {out}")
+    return 0
+
+
 def _apply_cards(jf, answers):
     doc = _load(jf["target"])
     index = TARGETS[jf["kind"]](doc)
@@ -303,11 +361,29 @@ def _apply_cards(jf, answers):
     return retry
 
 
+def _apply_archive(jf, answers):
+    archive, vcards = archive_cards(jf["target"])
+    by_key = {}
+    for job in jf["jobs"]:
+        by_key.setdefault(job["key"], []).append(job)
+    retry = []
+    for key, jobs in by_key.items():
+        vc = vcards.get(key)
+        if vc is None:
+            print(f"  [{key}] not found in {jf['target']} — skipped", file=sys.stderr)
+            continue
+        retry += apply_to_card(vc, jobs, answers)
+    commit_archive(jf["target"], archive, vcards)
+    return retry
+
+
 def cmd_apply(jobs_path, answers_path, retry_out=None):
     jf = _load(jobs_path)
     answers = _load_answers(answers_path)
     if jf["kind"] == "ui":
         retry = apply_ui(jf["target"], jf["jobs"], answers)
+    elif jf["kind"] == "archive":
+        retry = _apply_archive(jf, answers)
     else:
         retry = _apply_cards(jf, answers)
     if retry:
@@ -318,6 +394,8 @@ def cmd_apply(jobs_path, answers_path, retry_out=None):
     print("all jobs resolved")
     if jf["kind"] == "ui":
         subprocess.run([sys.executable, os.path.join(HERE, "build_i18n.py"), "--root", jf["target"]])
+    elif jf["kind"] == "archive":
+        subprocess.run([sys.executable, os.path.join(HERE, "build_archive.py")])
     return 0
 
 
@@ -328,10 +406,13 @@ def main(argv):
     j.add_argument("--cards")
     j.add_argument("--ui", action="store_true", help="translate the i18n/ko.json UI dictionary")
     j.add_argument("--news", help="news_data.json path — recently published cards, backfill in chunks")
+    j.add_argument("--archive", action="store_true",
+                    help="translate pipeline/archive.json teaser + source-language premium full text, "
+                         "backfill in chunks")
     j.add_argument("--days", type=int, default=5, help="with --news: today + last N days (default 5)")
-    j.add_argument("--limit", type=int, help="with --news: keep only this many jobs, for parallel splits")
-    j.add_argument("--offset", type=int, default=0, help="with --news: skip this many jobs before --limit")
-    j.add_argument("--root", default=os.path.dirname(HERE), help="repo root holding i18n/ (with --ui)")
+    j.add_argument("--limit", type=int, help="with --news/--archive: keep only this many jobs, for parallel splits")
+    j.add_argument("--offset", type=int, default=0, help="with --news/--archive: skip this many jobs before --limit")
+    j.add_argument("--root", default=os.path.dirname(HERE), help="repo root holding i18n/ (with --ui/--archive)")
     j.add_argument("--out", required=True)
     a = sub.add_parser("apply")
     a.add_argument("--jobs", required=True)
@@ -343,11 +424,13 @@ def main(argv):
     if args.cmd == "jobs":
         if args.ui:
             return cmd_jobs_ui(args.root, args.out)
+        if args.archive:
+            return cmd_jobs_archive(args.root, args.out, limit=args.limit, offset=args.offset)
         if args.news:
             return cmd_jobs("news", args.news, args.out, days=args.days,
                              limit=args.limit, offset=args.offset)
         if not args.cards:
-            ap.error("jobs needs --cards, --ui or --news")
+            ap.error("jobs needs --cards, --ui, --news or --archive")
         return cmd_jobs("cards", args.cards, args.out)
     if args.cmd == "check":
         return cmd_check(args.path)
