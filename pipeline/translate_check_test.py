@@ -28,4 +28,17 @@ assert any("headline" in e for e in check(src, dict(ok, headline="한 줄 헤드
 assert any("body length" in e for e in check(src, dict(ok, body="짧다."), "ko"))
 moved = dict(ok, full={"blocks": [{"t": "p", "x": "본문"}, {"t": "img", "src": "https://x/i.jpg"}]})
 assert any("block" in e for e in check(src, moved, "ko"))
+
+# 숫자는 집합 "일치"다 — tgt가 src에 없던 수를 더해도 실패해야 한다
+added = dict(ok, body="FTC는 OpenAI 20억·50억 달러 위험을 조사 중이다.")
+assert any("added" in e for e in check(src, added, "ko"))
+
+# 헤드라인 단독 숫자 오류도 잡아야 한다 — 본문이 맞아도 헤드라인이 가려서는 안 됨
+src_h = {"headline": "Pentagon wants\n$30M lie detector",
+         "body": "Officials seek a faster screening tool for new hires.",
+         "full": {"blocks": []}}
+tgt_h = {"headline": "국방부, AI 거짓말\n탐지에 5천만 달러",
+         "body": "당국은 신규 채용자를 위한 더 빠른 심사 도구를 찾고 있다.",
+         "full": {"blocks": []}}
+assert any("headline" in e and "number" in e for e in check(src_h, tgt_h, "ko"))
 print("translate_check OK")

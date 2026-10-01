@@ -19,7 +19,7 @@ NUM = re.compile(r"(\d[\d,.\s]*\d|\d)\s*(%|" + "|".join(p for p, _ in MULT) + r"
 CURRENCY = re.compile(r"[$€£¥₩]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
 
 
-def _value(raw, lang_hint=None):
+def _value(raw):
     s = raw.replace(" ", "")
     if re.fullmatch(r"\d{1,3}(\.\d{3})+(,\d+)?", s) or re.fullmatch(r"\d+,\d{1,2}", s):
         s = s.replace(".", "").replace(",", ".")      # es/de style 1.200,5 / 30,3
@@ -68,13 +68,15 @@ def _blocks(f):
     return ((f or {}).get("full") or {}).get("blocks") or []
 
 
-def _fact_text(f):
-    """Text that must carry numbers/brand names intact: the card body plus the
-    long-form article paragraphs. Deliberately excludes the headline (it has its own
-    line-count/length check and may legitimately keep an original-language fragment
-    without that making the body's translation "safe") and image/video captions
-    (routinely re-expressed as a plain translated word, e.g. "HQ" -> "본부", rather
-    than kept as a literal token)."""
+def _headline_text(f):
+    return f.get("headline") or ""
+
+
+def _body_text(f):
+    """Text that must carry numbers/brand names intact from the body side: the card
+    body plus the long-form article paragraphs. Deliberately excludes image/video
+    captions (routinely re-expressed as a plain translated word, e.g. "HQ" -> "본부",
+    rather than kept as a literal token)."""
     parts = [f.get("body", "")]
     for b in _blocks(f):
         parts.append(b.get("x", ""))
@@ -93,13 +95,24 @@ def check(src, tgt, lang):
     lo, hi = lim["body"]
     if not lo <= len(body) <= hi:
         errs.append(f"body length {len(body)} not in {lo}-{hi}")
-    missing = numbers(_fact_text(src)) - numbers(_fact_text(tgt))
-    if missing:
-        errs.append(f"number(s) missing or changed: {sorted(missing)}")
-    lost = brand_tokens(_fact_text(src)) - {t for t in brand_tokens(_fact_text(tgt))}
-    lost = {t for t in lost if t not in _fact_text(tgt).lower()}
-    if lost:
-        errs.append(f"name(s) missing: {sorted(lost)}")
+    # Per field, not pooled: pooling would let a number/brand that only the headline
+    # drops or changes hide behind an unrelated field that still has it (and vice
+    # versa) — the headline has its own line-count check above but still carries
+    # facts (e.g. a dollar amount) that must survive just like the body's.
+    for name, s_text, t_text in (("headline", _headline_text(src), _headline_text(tgt)),
+                                  ("body", _body_text(src), _body_text(tgt))):
+        s_num, t_num = numbers(s_text), numbers(t_text)
+        missing, added = s_num - t_num, t_num - s_num
+        if missing:
+            errs.append(f"number(s) missing or changed in {name}: {sorted(missing)}")
+        if added:
+            errs.append(f"number(s) added in {name}: {sorted(added)}")
+        # Brand tokens stay one-directional: a translation is free to add a legitimate
+        # latin term (e.g. "AI") that wasn't in the source.
+        lost = brand_tokens(s_text) - brand_tokens(t_text)
+        lost = {t for t in lost if t not in t_text.lower()}
+        if lost:
+            errs.append(f"name(s) missing in {name}: {sorted(lost)}")
     sb, tb = _blocks(src), _blocks(tgt)
     if [b.get("t") for b in sb] != [b.get("t") for b in tb]:
         errs.append("full block types/order differ")
