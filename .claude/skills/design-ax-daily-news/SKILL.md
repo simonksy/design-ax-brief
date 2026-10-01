@@ -77,9 +77,13 @@ science, politics):
 2. **ax-librarian** — "Section: S. now_iso = <now_iso>. Run your steps." Searches ONLY
    the `allowed_domains` of S's categories (from sources.json). WIDE funnel (~16–28),
    ≤3 per outlet, freshness-gated (S's per-section window). → `pipeline/candidates.json`
-3. **DEDUP PRE-FILTER** — `python3 pipeline/dedup_candidates.py --section S` → drops URLs
-   already published in S's last 5 days → `pipeline/candidates_filtered.json`. Then set
-   aside content-level dupes within S.
+3. **DEDUP PRE-FILTER** (run from `pipeline/`) —
+   a. URL: `python3 dedup_candidates.py --section S --candidates candidates_S.json --out candidates_filtered_S.json`
+      → drops URLs ever published in S (permanent ledger `published_urls.json` + news_data).
+   b. STORY: `python3 story_dedup.py annotate --section S` (edits `candidates_filtered_S.json`
+      in place) → drops near-verbatim repeats of S's last 30 days (`story_ledger.json`),
+      tags look-alikes (`history_match`) and same-day same-story groups (`cluster`), and
+      attaches `history_digest` (30 days) for the curator's content check.
 4. **DECISION GATE** — present S's de-duplicated candidates to the user (numbered: source,
    category, date, headline, URL), state how many were dropped, and ask in Korean 존댓말
    which to publish (3–5). If the user defers ("알아서"), ax-curator picks. (You may batch
@@ -88,29 +92,51 @@ science, politics):
 5. **ax-curator** — "Section: S. Run your steps. User selection: <…/none — you choose>."
    Re-applies URL+CONTENT dedup vs S's history (backstop, even on hand-picks).
    → `pipeline/selected.json`
-6. **ax-writer** — "Run your steps." → `pipeline/cards.json` (Korean copy)
-6b. **full article + humanize (REQUIRED for every card).** For each selected card,
-   build `card.full` = the source article as a Korean-translated, structure-mirroring
-   payload for the flip-back view:
-   `full = { "mode":"full"|"summary", "blocks":[ {"t":"p","x":"한국어"} | {"t":"img","src":"abs-url","cap"} | {"t":"video","yt":"id"|"src":"mp4"} ] }`.
-   Fetch the article, translate the body to Korean preserving order, and INTERLEAVE its
+6. **ax-writer** — "Run your steps." → `pipeline/cards.json` — writes card copy in the
+   source article's language (+ `source_lang`).
+6b. **full article + fact-check (REQUIRED for every card).** For each selected card,
+   build `card.full` = the source article in its own original language (`source_lang`)
+   as a structure-mirroring summary for the flip-back view — do NOT translate it here:
+   `full = { "mode":"full"|"summary", "blocks":[ {"t":"p","x":"source-language text"} | {"t":"img","src":"abs-url","cap"} | {"t":"video","yt":"id"|"src":"mp4"} ] }`.
+   Fetch the article, mirror its body in `source_lang` preserving order, and INTERLEAVE its
    in-body images + any embedded videos (YouTube → `yt` id; mp4 → `src`). Cap to a fixed
-   box: ≤ ~1600 Korean chars, ≤ 4 images, ≤ 1 video — if the whole translation fits,
-   `mode:"full"`; if longer, write a Korean summary that fits and set `mode:"summary"`.
-   YouTube cards lead with the video block. Then **humanize** all Korean — both the card
-   `body` and every `full` paragraph — with the **humanize-korean** skill (see "Korean
-   voice" below). Content fidelity is absolute (facts/numbers/quotes/names unchanged).
+   box: ≤ ~1600 characters, ≤ 4 images, ≤ 1 video — if the whole mirror fits, `mode:"full"`;
+   if longer, write a same-language summary that fits and set `mode:"summary"`.
+   YouTube cards lead with the video block. Fact-check against the source IN THE SAME
+   LANGUAGE (no translation step in between to hide a slip behind) — patch any
+   headline/body that contradicts the source before rolling. Content fidelity is
+   absolute (facts/numbers/quotes/names unchanged).
+6c. **translate (no API — subagents)** —
+   `python3 pipeline/translate.py jobs --cards pipeline/cards_S.json --out pipeline/jobs_S.json`
+   → dispatch **ax-translator** with JOBS=`pipeline/jobs_S.json`, ANSWERS=`pipeline/answers_S.json`
+   → `python3 pipeline/translate.py apply --jobs pipeline/jobs_S.json --answers pipeline/answers_S.json`
+   Exit 10 = some answers failed the checks: dispatch ax-translator again on
+   `pipeline/jobs_S.retry.json` (ANSWERS=`pipeline/answers_S.retry.json`) and apply that; at
+   most 2 retry passes — whatever still fails is recorded as fallback (`i18n_status`) and
+   publishes with the label. Then humanize **only `text.ko`** with the humanize-korean
+   skill (facts byte-identical) and run
+   `python3 pipeline/translate.py check pipeline/cards_S.json` — this re-validates every
+   language against its source and syncs the top-level fields to `text.ko`.
 7. **ax-media** — "Run your steps." → `pipeline/media.json` + downloaded media
-8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
-   **Every card keeps its full payload forever** — `roll.py` preserves `eyebrow`/`body`/`full` on deck cards, so opening ANY past card shows the same main-card layout as today (thumbnail · headline · one-line summary · Read → flip to the Korean full article). A card without `full` (no Read button) is a defect: backfill it.
+8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards_S.json --media pipeline/media_S.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
+   **Story gate:** roll.py first runs `story_dedup.py verify` on `selected_S.json` (next to
+   the cards file) and refuses to roll if any card is not a curated pick, a pick lacks its
+   `dedup.checks` verdict, a pick repeats S's 30-day history, or two picks are one story.
+   **Swapping a pick after curation** (cross-section clash, failed media, fact problem)
+   goes back through ax-curator so the replacement gets its own dedup verdict — never
+   edit selected/cards by hand to slip it in. `--no-story-check` is for manual repair only.
+   Then **`python3 pipeline/update_ledger.py --news pipeline/news_data.json --ledger pipeline/published_urls.json`**
+   — records S's URLs permanently and rebuilds `story_ledger.json` (the history the
+   next day's story dedup checks against). Skipping it lets repeats through after day 5.
+   **Every card keeps its full payload forever** — `roll.py` preserves `eyebrow`/`body`/`full` on deck cards, so opening ANY past card shows the same main-card layout as today (thumbnail · headline · one-line summary · Read → flip to the full article, served in the viewer's language via `text[lang]`, falling back toward `source_lang` then `en`/`ko`). A card without `full` (no Read button) is a defect: backfill it.
 
 After ALL sections are rolled:
-9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js --share-root . --base-url https://axitnow.com` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design) AND regenerates per-card OG share pages under `s/<section>/<id>.html` (so pasted card links unfurl with the card image + headline, then redirect into the app at `/?c=<section>:<id>`). `node --check axbrief-data.js`; restore the per-run backup on failure. Keep card thumbnails as jpg/png (not webp) so previews render on all platforms.
+9. **build once** — `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js --share-root . --base-url https://axitnow.com` → emits `window.AX_SECTIONS` (+ back-compat `AX_NEWS`/`AX_DAYS` = design) per language as `axbrief-data.{en,ko,ja,zh,es}.js` (each card flattened to that language via `i18n_text.flatten`, falling back toward `source_lang` then `en`/`ko`), AND regenerates per-card OG share pages under `s/<section>/<id>.html` (so pasted card links unfurl with the card image + headline, then redirect into the app at `/?c=<section>:<id>`). Then `python3 pipeline/build_i18n.py` — regenerates the UI-string dictionaries `i18n/{en,ko,ja,zh,es}.js` from `i18n/{lang}.json`. `node --check axbrief-data.{en,ko,ja,zh,es}.js`; restore the per-run backup on failure. Keep card thumbnails as jpg/png (not webp) so previews render on all platforms.
    Then `python3 pipeline/build_archive.py` — folds today's cards into the permanent
    `pipeline/archive.json` (append-only, teaser fields only — NEVER the premium `full`)
-   and regenerates `archive-data.js` + `archive-graph.js` (shared-keyword knowledge
-   network) for the /archive page (list + #graph network view).
-   `node --check archive-data.js archive-graph.js` too.
+   and regenerates `archive-data.{en,ko,ja,zh,es}.js` + `archive-graph.js` (shared-keyword
+   knowledge network) for the /archive page (list + #graph network view).
+   `node --check archive-data.{en,ko,ja,zh,es}.js archive-graph.js` too.
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run
     **`bash pipeline/deploy.sh`**. ⚠️ Pushing `main` alone does NOT deploy: Cloudflare
@@ -120,14 +146,18 @@ After ALL sections are rolled:
     reflects a today card id (`curl -s https://axitnow.com/axbrief-data.js | grep -c <id>`)
     and that a share page serves (`/s/<section>/<id>` → 200) within ~30–120s.
 
-Korean voice (humanize-korean — REQUIRED): every Korean string published — card
-`headline`/`body` and every `full` paragraph — must be run through the
-**humanize-korean** skill/methodology (refs in the installed plugin:
-`.../humanize-korean/references/quick-rules.md` + `rewriting-playbook.md`) to strip
-AI-tells (번역투·과도 피동·균일 리듬·접속사 남발·상투적 마무리·영어 직역체). Style/rhythm
-only — facts, numbers, dates, quotes, and product/company names stay byte-identical
-(~8–25% change). The front card flips (회전문) to the `full` back via a + button; the
-back is a fixed scrollable box (text + the article's images + video containers).
+Korean voice (humanize-korean — REQUIRED): the humanize target is `text.ko` — the
+Korean TRANSLATION produced by step 6c, never the card's original-language
+`source_lang` fields. Every Korean string in `text.ko` (`headline`/`body` and every
+`full` paragraph) must be run through the **humanize-korean** skill/methodology (refs
+in the installed plugin: `.../humanize-korean/references/quick-rules.md` +
+`rewriting-playbook.md`) to strip AI-tells (번역투·과도 피동·균일 리듬·접속사 남발·상투적
+마무리·영어 직역체); then `pipeline/translate.py check` re-validates `text.ko` (and every
+other language) against the source and syncs the top-level fields to `text.ko`.
+Style/rhythm only — facts, numbers, dates, quotes, and product/company names stay
+byte-identical (~8–25% change). The front card flips (회전문) to the `full` back via a
++ button; the back is a fixed scrollable box (text + the article's images + video
+containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
 (design/politics 72h; music/movies/games/books/gadgets/science 14 days). Dedup is **per

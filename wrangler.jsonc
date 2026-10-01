@@ -14,7 +14,9 @@
   "assets": {
     "directory": ".",
     "binding": "ASSETS",
-    "run_worker_first": ["/api/*", "/premium/*"]
+    "run_worker_first": ["/api/*", "/premium/*", "/", "/index.html",
+                         "/en", "/ko", "/ja", "/zh", "/es",
+                         "/en/*", "/ko/*", "/ja/*", "/zh/*", "/es/*"]
   },
   "vars": {
     "BASE_URL": "https://axitnow.com",

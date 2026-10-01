@@ -16,7 +16,7 @@ json.dump(cards, open(f"{d}/cards.json","w"), ensure_ascii=False)
 media = {"date":"2026-06-22","media":[{"id":"figma","type":"image","src":"pipeline/media/figma.jpg"}]}
 json.dump(media, open(f"{d}/media.json","w"), ensure_ascii=False)
 
-subprocess.run(["python3", os.path.abspath("roll.py"),
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check",
   "--data", f"{d}/news_data.json", "--cards", f"{d}/cards.json", "--media", f"{d}/media.json"], check=True)
 res = g(json.load(open(f"{d}/news_data.json", encoding="utf-8")))
 
@@ -43,7 +43,7 @@ json.dump(nd2, open(f"{d2}/news_data.json","w"), ensure_ascii=False)
 nc = {"date":"2026-06-23","cards":[{"id":"y","tool":"Y","headline":"오늘\n둘","body":"b","source":"S","url":"https://y","accent":"#111111","motif":"frame"}]}
 json.dump(nc, open(f"{d2}/cards.json","w"), ensure_ascii=False)
 json.dump({"date":"2026-06-23","media":[]}, open(f"{d2}/media.json","w"), ensure_ascii=False)
-subprocess.run(["python3", os.path.abspath("roll.py"),
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check",
   "--data", f"{d2}/news_data.json", "--cards", f"{d2}/cards.json", "--media", f"{d2}/media.json"], check=True)
 r2 = g(json.load(open(f"{d2}/news_data.json", encoding="utf-8")))
 assert r2["days"][-1]["cards"][0]["headline"] == "짧은 미니"   # mini_headline wins
@@ -52,7 +52,7 @@ assert r2["days"][-1]["cards"][0]["headline"] == "짧은 미니"   # mini_headli
 #     ONLY and never leaks into the deck (no today/deck duplication) ---
 nc2 = {"date":"2026-06-23","cards":[{"id":"z","tool":"Z","mini_headline":"재실행","headline":"h","body":"b","source":"S","url":"https://z","accent":"#222222","motif":"frame"}]}
 json.dump(nc2, open(f"{d2}/cards2.json","w"), ensure_ascii=False)
-subprocess.run(["python3", os.path.abspath("roll.py"),
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check",
   "--data", f"{d2}/news_data.json", "--cards", f"{d2}/cards2.json", "--media", f"{d2}/media.json"], check=True)
 r3 = g(json.load(open(f"{d2}/news_data.json", encoding="utf-8")))
 dates = [x["date"] for x in r3["days"]]
@@ -71,7 +71,7 @@ json.dump(vc, open(f"{d3}/cards.json","w"), ensure_ascii=False)
 vm = {"date":"2026-06-24","media":[{"id":"vid","type":"video","src":"pipeline/media/vid.mp4",
        "webm":"pipeline/media/vid.webm","poster":"pipeline/media/vid.jpg"}]}
 json.dump(vm, open(f"{d3}/media.json","w"), ensure_ascii=False)
-subprocess.run(["python3", os.path.abspath("roll.py"),
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check",
   "--data", f"{d3}/news_data.json", "--cards", f"{d3}/cards.json", "--media", f"{d3}/media.json"], check=True)
 r4 = g(json.load(open(f"{d3}/news_data.json", encoding="utf-8")))
 tc = r4["today"]["cards"][0]
@@ -83,11 +83,27 @@ assert tc["image"] == "pipeline/media/vid.jpg", tc   # poster doubles as the sti
 nc4 = {"date":"2026-06-25","cards":[{"id":"n","tool":"N","headline":"n","body":"b","source":"S","url":"https://n","accent":"#111","motif":"frame"}]}
 json.dump(nc4, open(f"{d3}/cards4.json","w"), ensure_ascii=False)
 json.dump({"date":"2026-06-25","media":[]}, open(f"{d3}/media4.json","w"), ensure_ascii=False)
-subprocess.run(["python3", os.path.abspath("roll.py"),
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check",
   "--data", f"{d3}/news_data.json", "--cards", f"{d3}/cards4.json", "--media", f"{d3}/media4.json"], check=True)
 r5 = g(json.load(open(f"{d3}/news_data.json", encoding="utf-8")))
 deck_vid = r5["days"][-1]["cards"][0]
 assert "video" not in deck_vid and "webm" not in deck_vid, deck_vid  # deck is still-only
 assert deck_vid["image"] == "pipeline/media/vid.jpg", deck_vid       # still survives on deck
+
+# --- i18n: deck cards keep text/source_lang/i18n_status; per-language deck headline is one line
+d5 = tempfile.mkdtemp()
+prev_card = {"id": "p", "tool": "T", "eyebrow": "AI NEWS", "headline": "한\n줄", "body": "b",
+             "source": "S", "url": "https://p", "accent": "#000", "motif": "frame",
+             "source_lang": "en", "i18n_status": {"ja": "fallback"},
+             "text": {"en": {"headline": "Two\nlines", "mini_headline": "Mini", "body": "eb"},
+                      "ko": {"headline": "한\n줄", "body": "b"}}}
+json.dump(wrap({"date": "2026-06-21", "cards": [prev_card]}, []), open(f"{d5}/news_data.json", "w"), ensure_ascii=False)
+json.dump({"date": "2026-06-22", "cards": [dict(prev_card, id="n", url="https://n")]}, open(f"{d5}/cards.json", "w"), ensure_ascii=False)
+json.dump({"media": []}, open(f"{d5}/media.json", "w"))
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check", "--data", f"{d5}/news_data.json",
+                "--cards", f"{d5}/cards.json", "--media", f"{d5}/media.json"], check=True)
+deck = g(json.load(open(f"{d5}/news_data.json", encoding="utf-8")))["days"][-1]["cards"][0]
+assert deck["source_lang"] == "en" and deck["i18n_status"] == {"ja": "fallback"}
+assert deck["text"]["en"]["headline"] == "Mini" and deck["text"]["ko"]["headline"] == "한 줄"
 
 print("roll OK")

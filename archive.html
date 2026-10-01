@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive · AX-it NOW</title>
-<meta name="description" content="AX-it NOW가 지금까지 발행한 모든 AI 뉴스 카드 아카이브">
+<title data-i18n="archive.page_title">Archive · AX-it NOW</title>
+<meta name="description" content="AX-it NOW가 지금까지 발행한 모든 AI 뉴스 카드 아카이브" data-i18n-content="archive.meta_description">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <style>
   * { box-sizing: border-box; }
@@ -32,6 +32,8 @@
     padding: 6px 13px; cursor: pointer; }
   .tab:hover { border-color: #a49c8d; }
   .tab.on { background: #171717; border-color: #171717; color: #fff; }
+  .lang { appearance: none; -webkit-appearance: none; }
+  .untr { flex: none; font-size: 10.5px; color: #a49c8d; white-space: nowrap; }
   .search { display: block; width: 100%; max-width: 420px; margin: 0 auto; font-size: 14px;
     font-family: inherit; border: 1px solid #d9d2c6; border-radius: 12px; background: #faf7f1;
     padding: 9px 14px; outline: none; color: #171717; }
@@ -157,34 +159,44 @@
 <div class="wrap">
   <header>
     <a class="back" href="/">← AX-it NOW</a>
-    <h1>Archive</h1>
+    <h1 data-i18n="archive.heading">Archive</h1>
     <div class="count" id="count"></div>
   </header>
   <div class="controls">
     <!-- 네트워크 뷰는 본 앱의 Insights(Pro 전용) 메뉴로 이동 — 여기는 리스트 전용 -->
     <div class="views" hidden>
-      <button class="view-btn on" id="v-list">List</button>
-      <button class="view-btn" id="v-graph">Network</button>
+      <button class="view-btn on" id="v-list" data-i18n="archive.view_list">List</button>
+      <button class="view-btn" id="v-graph" data-i18n="archive.view_network">Network</button>
     </div>
     <div class="tabs" id="tabs"></div>
-    <input class="search" id="q" type="search" placeholder="헤드라인 · 요약 · 매체 검색" autocomplete="off">
+    <input class="search" id="q" type="search" placeholder="" data-i18n-placeholder="archive.search_placeholder" autocomplete="off">
   </div>
   <div id="list"></div>
-  <div class="more" id="more" hidden>불러오는 중…</div>
-  <div class="empty" id="empty" hidden>조건에 맞는 카드가 없습니다.</div>
+  <div class="more" id="more" hidden data-i18n="common.loading"></div>
+  <div class="empty" id="empty" hidden data-i18n="archive.empty"></div>
   <div id="graphwrap">
     <div id="graph"></div>
-    <div id="graph-hint">키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스</div>
-    <div id="side"><div class="side-hint">노드를 클릭하면 해당 뉴스와<br>직접 연결된 뉴스들이 여기 표시됩니다</div></div>
+    <div id="graph-hint" data-i18n="archive.graph_hint"></div>
+    <div id="side"><div class="side-hint" data-i18n-html="archive.side_hint_initial"></div></div>
   </div>
 </div>
 
 <script>(function () {
-  var v = Date.now();
-  document.write('<scr' + 'ipt src="archive-data.js?v=' + v + '"><\/scr' + 'ipt>');
+  var v = Date.now(), L = window.AX_LANG || 'ko';
+  document.write('<scr' + 'ipt src="i18n/' + L + '.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt src="i18n.js?v=' + v + '"><\/scr' + 'ipt>');
+  // ko = the committed legacy file (byte-identical to the ko build); others = per-language build
+  document.write('<scr' + 'ipt src="' + (L === 'ko' ? 'archive-data.js' : 'archive-data.' + L + '.js') + '?v=' + v + '"><\/scr' + 'ipt>');
 })();</script>
 <script>
 (function () {
+  /* static UI strings: data-i18n → textContent, data-i18n-html → innerHTML,
+     data-i18n-placeholder / data-i18n-content → that attribute (i18n/ko.json) */
+  document.querySelectorAll("[data-i18n]").forEach(function (el) { el.textContent = t(el.getAttribute("data-i18n")); });
+  document.querySelectorAll("[data-i18n-html]").forEach(function (el) { el.innerHTML = t(el.getAttribute("data-i18n-html")); });
+  document.querySelectorAll("[data-i18n-placeholder]").forEach(function (el) { el.placeholder = t(el.getAttribute("data-i18n-placeholder")); });
+  document.querySelectorAll("[data-i18n-content]").forEach(function (el) { el.content = t(el.getAttribute("data-i18n-content")); });
+
   var ALL = window.AX_ARCHIVE || [];
   var SECTIONS = window.AX_ARCHIVE_SECTIONS || [];
   var $ = function (id) { return document.getElementById(id); };
@@ -196,20 +208,40 @@
   var state = { sec: "all", q: "" };
 
   /* 탭 */
-  var tabs = [{ key: "all", label: "All" }].concat(
+  var tabs = [{ key: "all", label: t("archive.tab_all") }].concat(
     SECTIONS.filter(function (s) { return present[s.key]; }));
-  tabs.forEach(function (t) {
+  tabs.forEach(function (tab) {
     var b = document.createElement("button");
-    b.className = "tab" + (t.key === "all" ? " on" : "");
-    b.textContent = t.label;
+    b.className = "tab" + (tab.key === "all" ? " on" : "");
+    b.textContent = tab.label;
     b.onclick = function () {
-      state.sec = t.key;
+      state.sec = tab.key;
       document.querySelectorAll(".tab").forEach(function (x) { x.classList.remove("on"); });
       b.classList.add("on");
       rebuild();
     };
     $("tabs").appendChild(b);
   });
+
+  /* 언어 경로(/<lang>/archive)에서는 '← 홈' 링크도 같은 언어 홈으로 */
+  if (window.AX_LANG && location.pathname.indexOf("/" + window.AX_LANG + "/") === 0)
+    document.querySelector("a.back").setAttribute("href", "/" + window.AX_LANG + "/");
+
+  /* 언어 메뉴 — 미리보기 플래그(Worker가 AX_I18N_ON 주입)일 때만. 언어 이름은 고정 라벨 */
+  if (window.AX_I18N_ON) {
+    var sel = document.createElement("select");
+    sel.className = "tab lang";
+    sel.setAttribute("aria-label", t("lang.menu"));
+    sel.title = t("lang.menu");
+    [["en", "English"], ["ko", "한국어"], ["ja", "日本語"], ["zh", "中文"], ["es", "Español"]].forEach(function (o) {
+      var opt = document.createElement("option");
+      opt.value = o[0]; opt.textContent = o[1];
+      sel.appendChild(opt);
+    });
+    sel.value = window.AX_LANG || "ko";
+    sel.onchange = function () { window.axSetLang(sel.value); };
+    $("tabs").appendChild(sel);
+  }
 
   var deb;
   $("q").addEventListener("input", function () {
@@ -247,7 +279,7 @@
       day.className = "day";
       var h = document.createElement("div");
       h.className = "day-h";
-      h.innerHTML = '<span class="d">' + kr(g.date) + '</span><span class="n">' + g.cards.length + '장</span>';
+      h.innerHTML = '<span class="d">' + kr(g.date) + '</span><span class="n">' + t("archive.day_count", { n: g.cards.length }) + '</span>';
       day.appendChild(h);
       g.cards.forEach(function (c) {
         var a = document.createElement("a");
@@ -266,7 +298,8 @@
         meta.className = "meta";
         var chip = c.tool || c.section;
         meta.innerHTML =
-          '<div class="chiprow"><span class="chip">' + esc(chip) + '</span><span class="src">' + esc(c.source || "") + '</span></div>' +
+          '<div class="chiprow"><span class="chip">' + esc(chip) + '</span><span class="src">' + esc(c.source || "") + '</span>' +
+          (c.untranslated ? '<span class="untr">' + esc(t("card.untranslated")) + '</span>' : '') + '</div>' +
           '<div class="hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
           '<div class="bd">' + esc(c.body || "") + '</div>';
         a.appendChild(img); a.appendChild(meta);
@@ -290,8 +323,8 @@
     emptyEl.hidden = groups.length > 0;
     renderChunk();
     var total = groups.reduce(function (n, g) { return n + g.cards.length; }, 0);
-    $("count").textContent = total + " cards · " +
-      (groups.length ? kr(groups[groups.length - 1].date) + " – " + kr(groups[0].date) : "");
+    $("count").textContent = t("archive.count", { n: total,
+      range: groups.length ? kr(groups[groups.length - 1].date) + " – " + kr(groups[0].date) : "" });
   }
 
   /* 무한 스크롤 */
@@ -326,8 +359,8 @@
     var nodes = GD.nodes.filter(nodeMatch);
     var ok = {}; nodes.forEach(function (n) { ok[n.id] = 1; });
     var links = GD.links.filter(function (l) {
-      var s = l.source.id || l.source, t = l.target.id || l.target;
-      return ok[s] && ok[t];
+      var s = l.source.id || l.source, tg = l.target.id || l.target;
+      return ok[s] && ok[tg];
     }).map(function (l) {
       return { source: l.source.id || l.source, target: l.target.id || l.target, w: l.w, kw: l.kw };
     });
@@ -362,7 +395,7 @@
         '<div class="nc-meta"><span class="chip">' + esc(c.tool || c.section) + '</span>' +
           '<span class="nc-src">' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
         '<div class="nc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
-        (kwList && kwList.length ? '<div class="nc-kw">공유 키워드: ' + esc(kwList.join(", ")) + '</div>' : '') +
+        (kwList && kwList.length ? '<div class="nc-kw">' + t("archive.shared_keywords", { kw: esc(kwList.join(", ")) }) + '</div>' : '') +
       '</div></a>';
   }
 
@@ -375,7 +408,7 @@
   function renderSideDefault() {
     var recent = ALL.filter(match).slice(0, 12);
     side.innerHTML =
-      '<div class="side-hint">노드를 클릭하면 해당 뉴스와 직접 연결된<br>뉴스들이 여기 표시됩니다 · 아래는 최신 카드</div>' +
+      '<div class="side-hint">' + t("archive.side_hint_default") + '</div>' +
       '<div class="nbr-grid">' + recent.map(function (c) { return ncardHTML(c); }).join("") + '</div>';
     bindNcards();
   }
@@ -388,18 +421,18 @@
       '<div class="bigcard" style="--a:' + esc(c.accent || "#171717") + '">' +
         thumbHTML(c, "bc-img", "bc-ph") +
         '<div class="bc-body">' +
-          '<div class="bc-eyebrow"><span>AI NEWS · <b>' + esc(c.tool || c.section) + '</b></span>' +
+          '<div class="bc-eyebrow"><span>' + t("archive.eyebrow") + ' · <b>' + esc(c.tool || c.section) + '</b></span>' +
             '<span>' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
           '<div class="bc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
           '<div class="bc-bd">' + esc(c.body || "") + '</div>' +
-          '<a class="bc-read" href="' + esc(c.url) + '" target="_blank" rel="noopener">원문 읽기 ↗</a>' +
+          '<a class="bc-read" href="' + esc(c.url) + '" target="_blank" rel="noopener">' + t("archive.read_original") + '</a>' +
         '</div></div>' +
-      '<div class="nbr-title">직접 연결된 뉴스 ' + neighbors.length + '</div>' +
+      '<div class="nbr-title">' + t("archive.neighbors", { n: neighbors.length }) + '</div>' +
       (neighbors.length
         ? '<div class="nbr-grid">' + neighbors.map(function (e) {
             var n = CARD[e.id]; return n ? ncardHTML(n, e.kw) : "";
           }).join("") + '</div>'
-        : '<div class="side-hint">현재 필터 안에서 연결된 뉴스가 없습니다</div>');
+        : '<div class="side-hint">' + t("archive.no_neighbors") + '</div>');
     bindNcards();
     side.scrollTop = 0;
   }
@@ -444,8 +477,8 @@
       })
       .linkColor(function (l) {
         var f = focusId();
-        var s = l.source.id || l.source, t = l.target.id || l.target;
-        if (f && (s === f || t === f)) {
+        var s = l.source.id || l.source, tg = l.target.id || l.target;
+        if (f && (s === f || tg === f)) {
           var fc = CARD[f];
           return withAlpha(fc && fc.accent, 0.65);
         }
@@ -453,8 +486,8 @@
       })
       .linkWidth(function (l) {
         var f = focusId();
-        var s = l.source.id || l.source, t = l.target.id || l.target;
-        return (f && (s === f || t === f)) ? 1.8 : 0.8;
+        var s = l.source.id || l.source, tg = l.target.id || l.target;
+        return (f && (s === f || tg === f)) ? 1.8 : 0.8;
       })
       .nodeLabel(tipHTML)
       .onNodeHover(function (n) { hover = n || null; el.style.cursor = n ? "pointer" : "default"; })
@@ -491,16 +524,16 @@
       sel ? renderSideFor(sel) : renderSideDefault();
       return;
     }
-    hint("그래프 불러오는 중…");
+    hint(t("archive.graph_loading"));
     Promise.all([loadScript("vendor/force-graph.min.js"),
                  loadScript("archive-graph.js?v=" + Date.now())])
       .then(function () {
         GD = window.AX_GRAPH; graphReady = true; initGraph(); renderSideDefault();
-        hint("키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스");
+        hint(t("archive.graph_hint"));
       })
-      .catch(function () { hint("그래프 데이터를 불러오지 못했습니다."); });
+      .catch(function () { hint(t("archive.graph_failed")); });
   }
-  function hint(t) { var h = document.getElementById("graph-hint"); if (h) h.textContent = t; }
+  function hint(msg) { var h = document.getElementById("graph-hint"); if (h) h.textContent = msg; }
 
   function enterList() {
     graphMode = false;
