@@ -1117,6 +1117,460 @@
           "x": "那它比Apple Persona更好吗?作者表示这要看\"更好\"的标准是什么。Persona依然是一个悬浮的头部,但拥有真正的3D深度,Vision Pro的面部追踪精准得令人发毛。"
         }
       ]
+    },
+    "design/figma": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma在7月24日的更新说明中改进了自动布局。它让处理布局的方式与CSS保持一致,减少了交接阶段开发者被迫绕过的工作。"
+        },
+        {
+          "t": "p",
+          "x": "这是7月持续不断的变化之一。16日,基于代码的界面与现有文件变量实现了连接;9日,Figma Make内加入了GPT-5.6。微小但切实的改进,让设计与代码之间的联系更加紧密。"
+        },
+        {
+          "t": "p",
+          "x": "AI介入的工作流,正依赖于这条联系。"
+        }
+      ]
+    },
+    "design/10-things-cg-artists-need-to-know-ab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games本周在芝加哥举办了Unreal Fest 2026,公开了下一代版本Unreal Engine 6。与2020年Unreal Engine 5凭借Nanite和Lumen等华丽图形吸引目光不同,这次几乎没有现场演示,也几乎没谈图形。焦点放在改变引擎内部,也就是编程与部署上。Epic在博客中写道:“如果UE5改变了构建世界的方式,那么UE6改变的是发布和运营它的方式。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/06/260619_10ThingsCGArtistsShouldKNowAboutUnrealEngine6_1Unified.jpg",
+          "cap": "UE6将Unreal编辑器与Fortnite编辑器合二为一"
+        },
+        {
+          "t": "p",
+          "x": "UE6将重新构建在Verse之上,Verse是Fortnite编辑器所用的语言,而可视化脚本工具Blueprint将被逐步淘汰。由于非专业人员也能借助Blueprint在不写代码的情况下制作内容,取消Blueprint成为本次发布中争议最大的部分。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/06/260619_10ThingsCGArtistsShouldKNowAboutUnrealEngine6_6AI.jpg",
+          "cap": "生成式AI在UE6工作流中占据重要位置"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI也受到重点关注,但用途更偏向打磨游戏内容,而不是从零开始制作。与Unity不同,Epic没有自建AI服务,而是选择将引擎与外部模型生态系统连接起来。此前已在Unreal Engine 5.8中加入MCP服务器,让Claude、Gemini等LLM能够通过自然语言操作引擎;明年初还将推出以3D场景的深度信息和法线贴图为输入的扩散模型工具。Marcus Wassmer表示:“在UE6中,LLM、生成式AI模型以及像Codex这样的工具,将在加快内容制作方面发挥核心作用。”"
+        },
+        {
+          "t": "p",
+          "x": "UE6将于2027年底先以Early Access形式推出,正式稳定版预计在此后12到18个月发布。由于这是打破兼容性的重大变化,过渡过程将与当年从UE4迁移到UE5时类似;Epic表示目前没有计划单独发布Unreal Engine 5.9。"
+        }
+      ]
+    },
+    "design/4535a14d-ea20-4047-9b2d-166397850c7c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic用一条新命令搭建了连接设计与开发的双向桥梁。输入/design-sync,就能把组织的组件库拉进Claude Design。原型打磨完成后,项目会直接转入Claude Code,工程师不必再对着截图重新搭建界面,也不用手动重做一遍。"
+        },
+        {
+          "t": "p",
+          "x": "更习惯在终端里工作的开发者,可以在Claude Code中输入/design,在不离开开发环境的情况下看到一个实时的设计画布。Anthropic表示:“Claude会用你的组件来构建,对照你的设计系统检查结果,并在你看到之前自行修正。”"
+        },
+        {
+          "t": "p",
+          "x": "Morning Brew与Tenex的联合创始人Alex Lieberman表示,这个工具已经成为他技术体系中不可或缺的一部分,他特别提到了易于上手的使用体验,以及顺畅过渡到产品代码的流程。此次发布于6月17日公布,4月开放测试的Claude Design在第一周就有100万人使用。价格方面,Pro每月20美元起,Max每月100美元起。"
+        }
+      ]
+    },
+    "design/adobe-adds-its-ai-assistant-to-premi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe对Firefly AI助手进行了升级,将其接入Premiere、Illustrator、InDesign和Frame.io。助手新增了制作品牌套件、产品视频和故事板的功能,Firefly应用还能把做好的成果保存为单个元素,供多个项目重复使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Premiere-AI-Assistant-16x9-1.jpg?w=680",
+          "cap": "进入Premiere的Firefly AI助手。图片:Adobe"
+        },
+        {
+          "t": "p",
+          "x": "在Premiere中,助手能把素材分类到不同的素材箱,批量重命名剪辑,挑出采访问题并添加标记。在Illustrator中,它能重新整理整份文档的图层,或找出缺失的字体。Firefly已经可以在Express、Photoshop和Acrobat中使用,并由ChatGPT、Claude、Copilot提供支持。Adobe表示将很快支持Google的Gemini和Slack。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe正在把Firefly逐步打造得更接近Canva,在应用里不断填充能生成图像、视频和故事板的AI工具。这次新增了名为Elements的功能,可以保存AI生成的角色、物品和场景,供日后取出重复使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-AI-Studio-16x9-1.png?w=680",
+          "cap": "Firefly AI工作室。图片:Adobe"
+        },
+        {
+          "t": "p",
+          "x": "名为Projects的功能也将加入。它把现有素材集中在一处并共享上下文,对于一起制作视频系列或品牌活动的团队很有用。这两项功能目前都处于私密测试阶段。只要描述品牌和风格,或上传现有素材,Firefly就能生成包含标志、品牌形象和配色方案的品牌套件,还能基于照片生成产品视频。"
+        }
+      ]
+    },
+    "design/release-notes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma的设计智能体现在可以搜索网页了。根据6月18日的更新说明,只要输入“search the web”,智能体就会拉取实时信息,用真实内容而不是占位符来填充设计。组织和企业管理员可以在设置中决定使用范围;网页搜索默认开启,但每位用户都需要单独同意才能使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/afc9f3fa873586b43f0f708ab372c4b2f7fb4385-2988x1680.jpg?w=2988&h=1680&q=75&fit=max&auto=format",
+          "cap": "Config 2026上公开的新功能"
+        },
+        {
+          "t": "p",
+          "x": "差不多同一时期,其他更新也接连而来。在6月24日的Config 2026上,Figma公开了处理基于时间线动画的Motion、带来深度感的3D Transform,以及制作质感的Shaders。智能体开始支持自定义技能,甚至能生成插件,FigJam和Slides也加入了智能体功能。"
+        },
+        {
+          "t": "p",
+          "x": "6月17日,企业客户可以通过API直接获取AI额度使用情况,按用户、产品、工作区和团队汇总每日消耗量。同一天,Figma还新增了按工作区设置Make和Sites文件网页发布策略的功能。6月16日的MCP服务器更新则带来了Slides支持、已上传字体的渲染、素材下载,以及面向移动端设计的Xcode兼容。"
+        }
+      ]
+    },
+    "design/config-2026-recap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在Config 2026上，Figma一次性发布了一整套可以直接在画布上操作的新“材料”。联合创始人兼CEO迪伦·菲尔德表示：“任何工具都不应限制想法能到达的地方”，并将通过代码、动效、着色器、生成式插件和Weave工具消除表达的边界作为本次发布的核心。他说：“AI降低了门槛，却没有抬高天花板。”而抬高那块天花板，最终要靠设计师和创作者自己。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "把代码当作设计素材处理的代码层"
+        },
+        {
+          "t": "p",
+          "x": "最引人注目的变化是“画布上的代码”。代码如今也像图片或矢量图一样成为一种设计素材，任何图层只需一次点击或一句提示词即可变成可交互的代码层。团队可以同时查看多个方向，在共享文件中通过评论协作，还能一键同步代码与设计之间的改动。代码层将从2026年7月起分阶段推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/1f82f266ce4e3611ca58858db629942d5aeaa6c9-3840x2160.png?rect=0,1,3840,2159&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "内置于Figma Design的动效时间轴"
+        },
+        {
+          "t": "p",
+          "x": "动效设计也进入了Figma Design。带关键帧和预设的时间轴可以从零开始制作，也可以叠加到现有设计上，首个动画由智能体代为完成。动效成为贯穿所有界面的设计系统元素，在Dev Mode中可以查看时间与缓动曲线。导出支持CSS、JSON、React、MP4、WebM、动画SVG和GIF。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d6b5115bb3fc17ee7d5cdb4192a7a3b99d60679a-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "展示AI风格迁移的Weave工具"
+        },
+        {
+          "t": "p",
+          "x": "着色器现在由智能体生成。只要描述需求或提供参考图片，就能得到定制着色器，参数可以直接在画布上调整，也可以与其他效果叠加。即便不了解开发环境或插件API，也能通过描述行为和控件来制作专属工具的生成式插件，以及以节点方式连接模型并变形资产的Weave工具，都是本次新增内容。智能体还新增了可复用的Skills、连接Notion、Slack、GitHub等的Connectors，以及附件支持，并扩展到FigJam和Slides。菲尔德最后以“只做只有你才能做出来的东西”作为发布会的结尾。"
+        }
+      ]
+    },
+    "design/houdini22": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Arzhko0h8xk"
+        },
+        {
+          "t": "p",
+          "x": "SideFX推出了面向VFX、游戏开发和动态图形的程序化3D软件的下一个主要版本Houdini 22。上方视频是梳理新功能的主题演讲录像。"
+        },
+        {
+          "t": "p",
+          "x": "招牌功能是一套完整的3D高斯泼溅工具集。可以用实拍参考照片训练泼溅，也可以在3D场景中生成，并通过标准的Houdini形变节点加上动画。还能根据周围环境重新打光，并用Karma渲染器渲染。这正是参考照片用法发生变化的地方。"
+        },
+        {
+          "t": "p",
+          "x": "角色方面的KineFX也有重大改动，新增可复用绑定模板、绑定反转，以及新的Set Driven Keys组件。动画师可以使用APEX角色选择器，Motion Mixer支持嵌套片段，Ragdoll也获得了新的力与冲击阈值。CFX的改动更为渐进，重点是让搭建和测试设置更早完成。Groom则把毛发工作流从头到尾都重新打磨了一遍。"
+        },
+        {
+          "t": "p",
+          "x": "图像处理框架Copernicus同样经历了大幅更新，新增了污渍贴图节点、处于实验阶段的3D纹理绘制、2D波纹求解器，还加入了用于地形的高度场，以及带有波谱和泡沫的海面，使其也能充当世界构建工具集。界面进行了重新设计，3D建模、Pyro FX、碎裂、刚体动力学，以及Solaris和Karma也都获得了细节改进。"
+        },
+        {
+          "t": "p",
+          "x": "可在Windows 11、macOS 11.0及以上版本以及Linux发行版上运行。完整版Houdini FX的节点锁定版售价$4,495，浮动版$6,995；缺少高级仿真功能的Houdini Core分别为$1,995和$2,995。此外还有免费的教育版Apprentice和仅供租赁的Indie，两者都以各自独立的文件格式保存。"
+        }
+      ]
+    },
+    "design/ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'AI slop'已经成了随处可见的说法,但最近有人指出,这个标签被贴得太随意了。不少声称完全没有使用生成式AI的独立游戏,却在评论区接连被扣上'AI slop'的帽子。这种风气还在向电影、音乐等其他领域扩散,可能伤及销量。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vMFFimyrwGXSaxBhw8dLz5-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一名加拿大独立开发者在X上发的帖子点燃了这场争论。Steam评论把他的游戏称为'AI SLOP',但他本人表示自己并未使用生成式AI。他写道:'没有任何证据、没有任何责任,任何人都可以指责一款游戏用了AI,而只有踏实做事的开发者为此付出代价。'"
+        },
+        {
+          "t": "p",
+          "x": "这种污名可能直接影响销量。Steam要求开发者披露是否使用了生成式AI,而据Game Oracle的调查,披露使用AI的游戏平均只有4条评论,低于未披露游戏的7条。近20%的游戏甚至完全没有评论,评分也明显偏低。开发者们表示,'AI slop'已经成为一种毫无根据、却成了新标准的侮辱用语。"
+        }
+      ]
+    },
+    "design/builder-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在快速变化的市场中,团队的竞争力取决于能多快构建、修正和发布。客户总是想要新颖且贴合自身需求的体验,行动迅速的组织因此占得先机。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/271665f687c94f8ea020739bd0507825?format=webp&width=800"
+        },
+        {
+          "t": "p",
+          "x": "目前有两种变化正在叠加。一是得益于AI,营销人员可以直接动手改代码,使得'营销提需求、工程来处理'的传统交接方式逐渐消失。二是AI代理在真实的技术栈、设计系统和内容管理工具中运行时威力最大。同时具备这两点的团队速度最快。"
+        },
+        {
+          "t": "p",
+          "x": "在大多数组织里,真正拖后腿的不是实际执行时间,而是协调所耗费的时间。仅仅是在多个条目中手动修改产品名称、促销日期或描述,就已经构成摩擦。创建新组件需要工程工单,品牌审核每一步都要经人工把关,修改数据模型离不开开发者。与此同时,营销只能停下来等待工程团队腾出手来。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7e91e69a40284ad089d519802d4190e4?width=780"
+        },
+        {
+          "t": "p",
+          "x": "Builder为此推出了四项更新。Builder CMS MCP把CMS引入Cursor、Claude、Copilot等开发工具内部,让开发者无需离开工作区就能读取、写入、查询内容,修改模型并一次性发布。Builder Agent可以仅凭自然语言指令在Builder内部修改内容,同时自动遵守品牌语调、SEO和无障碍标准。"
+        },
+        {
+          "t": "p",
+          "x": "Builder平台将设计与代码连接起来,可以创建、预览并注册新组件,但在开发者审核之前会将其保留在预发布环境中。企业级治理包括基于角色的访问控制(RBAC)、基于属性的控制(ACL)、作为护栏使用的自定义AI准则,以及用于预先审查的下级环境。用户本人做不到的事,AI也做不到。"
+        },
+        {
+          "t": "p",
+          "x": "贯穿始终的原则只有一条:最贴近工作本身的人拥有自行执行的自主权,曾经是瓶颈的角色只参与真正必要的审核。营销不再被工单束缚而能持续推进,工程专注于工程本身,AI则在既定的治理框架内运作。"
+        }
+      ]
+    },
+    "design/figma-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "JdCWqZmOT4o"
+        },
+        {
+          "t": "p",
+          "x": "DevsCourse逐步讲解了Figma新增的着色器(Shaders)功能。"
+        },
+        {
+          "t": "p",
+          "x": "接着测试Figma的AI——Figma Make能否真正在网页上实现该着色器。"
+        },
+        {
+          "t": "p",
+          "x": "结果不尽如人意:单靠Figma Make无法把着色器正确迁移过去。"
+        },
+        {
+          "t": "p",
+          "x": "于是演示了如何用Claude、Cursor等AI编程工具,把Figma着色器集成到实际上线的网站中。"
+        },
+        {
+          "t": "p",
+          "x": "这段内容讲的是,从设计到代码的转换在AI帮助下会发生怎样的变化。"
+        }
+      ]
+    },
+    "design/ai-creative-divide": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "围绕在创作工作中使用生成式AI这一问题,意见依然针锋相对。过去三年的争论几乎让人觉得停滞不前。一边是把AI视为光明未来的布道者,另一边则是把它视为人类创造力终结的反对者。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BNJ6SWXs3thRq3qSqTQGTJ-1200-80.jpg",
+          "cap": "一部聚焦创作领域AI应用的纪录片"
+        },
+        {
+          "t": "p",
+          "x": "不过,正在形成的或许并非关于观点的分歧,而是关于获取途径和知识的另一种分化。AI究竟会在多大程度上改变创作工作尚未完全显现,但一部新纪录片追踪了多位创作者的微妙视角,揭示出一些有趣的对比与矛盾。"
+        },
+        {
+          "t": "p",
+          "x": "在战略性全国艺术校友项目(SNAAP)的调查中,90%的创作者表示对生成式AI持怀疑态度,但52%的人说自己已经在工作中使用它。不过,采用的情况看起来远非均衡。"
+        },
+        {
+          "t": "p",
+          "x": "SNAAP总部设在得克萨斯大学奥斯汀分校美术学院。在去年末进行的“AI与工作”脉搏调查中,该项目采访了来自美国约100所大学、涉及不同领域的2,000多名艺术与设计专业毕业生,旨在了解他们对AI的感受以及AI对其工作的影响。"
+        },
+        {
+          "t": "p",
+          "x": "这些回答被导演扬·奥利弗·卢克斯剪辑成一部19分钟的纪录片。片中既保留了围绕版权、隐私、环境影响和创作真实性的持续担忧,也呈现了创作者实际如何使用AI。最终呈现出一幅广泛而坦诚的图景,从热情拥抱、谨慎接受到彻底拒绝,一应俱全。"
+        },
+        {
+          "t": "p",
+          "x": "调查显示,创作者使用AI的程度往往取决于其原有工作对数字工具的依赖程度。对数字软件依赖度越高的领域,接受AI的可能性似乎就越大。一位建筑师表示自己用AI从图纸生成3D模型,一位平面设计师则说自己用它把小图做成大背景。"
+        },
+        {
+          "t": "p",
+          "x": "这部影片认为,一种“AI分化”可能正在形成。用片中的话来说,那些“能够承担风险”的一方,采用AI的可能性更高。"
+        }
+      ]
+    },
+    "design/meta-starfire": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta与名人凯莉·珍娜(Kylie Jenner)合作推出了Starfire智能眼镜。镜中加入了她的声音用于Meta AI,右侧镜片镶有宝石,还加装了金属鼻托以防沾上化妆品。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/Meta-Glasses-Starfire-Kylie-style-feature.png",
+          "cap": "与凯莉·珍娜合作设计的Meta Starfire眼镜"
+        },
+        {
+          "t": "p",
+          "x": "Starfire在芯片组、摄像头、扬声器、电池、存储和连接性等核心规格上与Ray-Ban Meta第二代相同。镜框是EssilorLuxottica迄今做过的最小尺寸。"
+        },
+        {
+          "t": "p",
+          "x": "共有三种配色可选:黑色镜框配黑色镜片(400美元)、深琥珀色镜框配巧克力色镜片(400美元),以及黑色镜框配透明渐变灰色镜片(480美元)。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/meta-glasses-kylie-jenner-starfire-01-classic-black-black.webp",
+          "cap": "经典黑色镜框配黑色镜片"
+        },
+        {
+          "t": "p",
+          "x": "与近期的Meta眼镜型号一样,Starfire也配有折叠式收纳盒,并兼容新款不锈钢充电底座。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Glasses-folding-case-with-Starfire-Kylie-glasses-1.jpg",
+          "cap": "搭配折叠式充电盒的Starfire"
+        },
+        {
+          "t": "p",
+          "x": "其设计与谷歌今年5月在Google I/O上公布的Gentle Monster智能眼镜颇为相似。这或许是两家公司遵循相似时尚趋势和工程限制的结果,但Meta实际上提前数月推出了与谷歌秋季发布计划相近的设计。"
+        }
+      ]
+    },
+    "design/miris-configurator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Miris打造出一款无需云端GPU或像素流送即可运行的交互式WebXR汽车配置器。它以极小的文件体积流式呈现HDR级材质质感,每位观众都不需要单独占用一块云端GPU。"
+        },
+        {
+          "t": "p",
+          "x": "这款配置器仅凭一个1.2GB的单一源资源,就能在桌面浏览器、平板电脑,乃至Apple Vision Pro等头显设备上广泛运行。"
+        },
+        {
+          "t": "p",
+          "x": "对设计师来说,这个案例展示了一条更轻量的路径:无需依赖繁重的云端渲染,也能实现高质量的交互式产品可视化。"
+        }
+      ]
+    },
+    "design/adobe-topaz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe周四表示，将收购专注于视频和图像画质提升AI模型的Topaz Labs，并将其并入创意业务部门。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=1024",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Topaz Labs二十多年来一直专注于开发提升视频和图像画质的工具。该公司最近推出了AI视频超分辨率工具Astra和图像修饰工具Wonder，还推出了能让大型视频模型在消费级GPU上运行的技术。"
+        },
+        {
+          "t": "p",
+          "x": "已经通过Creative Cloud提供部分Topaz工具的Adobe，计划将Topaz的模型整合进Firefly AI等图像与视频编辑产品线。Topaz的现有产品将继续作为独立服务在其自有网站上运行。"
+        },
+        {
+          "t": "p",
+          "x": "Creative Cloud产品营销副总裁Deepa Subramaniam表示，专业人士可以用Topaz的产品'将实拍视频与AI片段结合'，完成细节锐化、降噪和历史影像修复等工作。"
+        },
+        {
+          "t": "p",
+          "x": "她强调，Topaz Labs拥有'在设备端直接运行庞大复杂AI模型方面的深厚专长'，这将让Adobe既能提供更快的体验，又能让创作者更'易于使用、更具成本效益'地获得先进AI。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe在编辑软件市场上与Canva、Blackmagic Design竞争。将AI融入全线应用并收购像Topaz Labs这样的公司，都是为了让用户留在自己的生态系统中，而不是转向竞争平台。此次交易预计将在2026年下半年完成。"
+        }
+      ]
+    },
+    "design/blender": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemalate制作的Quick Finger Collision是一款轻量级Blender插件，能让手部姿态的摆放更快、更自然。它为手指骨骼加入了碰撞检测功能，让手在摆放于各种道具周围时，手指不会穿透物体。"
+        },
+        {
+          "t": "p",
+          "x": "界面十分简洁。所有操作都集中在一个面板中，选择手指骨骼、切换碰撞、让手握住物体，都能在同一处完成。"
+        },
+        {
+          "t": "p",
+          "x": "Quick Finger Collision支持Blender 4.0到5.1版本。"
+        }
+      ]
+    },
+    "design/borisfx": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Boris FX启动了Optics的2026年更新。Optics是一款为静态图像添加电影级效果的软件，常用于修图、插画与可视化工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2025/12/251207_Optics2026_Photoshop.jpg",
+          "cap": "Photoshop中的Optics面板"
+        },
+        {
+          "t": "p",
+          "x": "Optics 2026新增了四款AI工具。核心是Face ML，这是一种能自动识别面部区域的新算法，可自动生成眼睛、嘴唇与皮肤的遮罩。此外还加入了从照片中提取深度图的Depth Map ML、去除噪点的DeNoise ML，以及放大图像的UpRes ML。在Photoshop集成方面，新增了可停靠的Optics Essentials面板，可直接在工作区中查找并应用滤镜。"
+        },
+        {
+          "t": "p",
+          "x": "2026年6月26日发布的Optics 2026.5将活动范围扩展到了Adobe之外，现已可在Affinity Photo、Apple Photos与Capture One中使用。所有新集成都会随独立版本以及Photoshop、Lightroom插件一同附带，只要购买Optics即可获得，价格保持不变。"
+        },
+        {
+          "t": "p",
+          "x": "功能也有所增加。新加入的S_FilmBurn滤镜可模拟过度曝光的模拟胶片效果，而颜色混合器则可通过滑块进行调色与风格调整。Face ML现在还能为鼻子和颈部生成遮罩。"
+        },
+        {
+          "t": "p",
+          "x": "Optics 2026.5可在Windows 10及以上版本和macOS 12.0及以上版本上作为独立应用运行。永久授权价格为149美元，租赁价格为每月9美元或每年99美元。一份授权即可同时使用插件版与独立版。"
+        }
+      ]
+    },
+    "design/pokemon": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "宝可梦在制作新动画时，选择了双手而不是AI。合作方是阿德曼（Aardman），《超级无敌掌门狗》和《小羊肖恩》的制作公司。面对更流畅、更快、更便宜的数字替代方案，宝可梦选择了由动画师逐帧手工制作的工作室。"
+        },
+        {
+          "t": "p",
+          "x": "一家大型工作室选择这种方式，并不只是单纯的创作选择，而是一次体现原则的决定。在AI劣质内容快速批量生产的时代，这重新提出了人工精心制作的价值问题。"
+        },
+        {
+          "t": "p",
+          "x": "该作品名为《宝可梦传说：烈箭鹭与皮丘的大冒险》。故事背景设在地理上与现实英国十分相似的伽勒尔地区，与代表英国的阿德曼工作室十分契合。导演汤姆·帕金森（Tom Parkinson）带领团队以手工质感重新诠释宝可梦，将其塑造成一部愉快呈现主角们古怪魅力与种种趣事的喜剧。"
+        },
+        {
+          "t": "p",
+          "x": "这一消息于2026年6月在安纳西国际动画电影节上公布，作品预计于2027年推出。"
+        }
+      ]
     }
   }
 }

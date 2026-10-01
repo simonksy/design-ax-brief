@@ -1069,6 +1069,611 @@
           "x": "'Steelray', que anuncia el nacimiento de un nuevo héroe coreano (K-hero), se estrena en octubre en cines de todo el país."
         }
       ]
+    },
+    "movies/annecy-3cs-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un grupo de animadores franceses ha exigido que el festival de Annecy aclare cómo usará, mostrará y regulará la IA generativa. El llamado llega en un momento en que el festival se encuentra en el centro del debate de la industria de la animación sobre la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wp-content/uploads/2026/06/annecy-generative-ai.jpg",
+          "cap": "Annecy y la IA generativa"
+        },
+        {
+          "t": "p",
+          "x": "El criterio que plantean es el principio de las '3C': compensación, control y consentimiento. Usar una obra para entrenar IA debería requerir primero el consentimiento del creador, una compensación justa por su uso, y la capacidad del creador de controlar cómo se utiliza su trabajo."
+        }
+      ]
+    },
+    "movies/annecy-ai4animation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Festival Internacional de Animación de Annecy se celebra del 21 al 27 de junio. Este año puso énfasis en crear un espacio donde se encontraran las opiniones divididas sobre la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xany/4/8/1/1481481_annecyheads_918183.jpg",
+          "cap": "Mikaël Marin, Marcel Jean, Véronique Encrenaz"
+        },
+        {
+          "t": "p",
+          "x": "El centro de todo es el think tank de un día 'AI4Animation'. Las conversaciones reunidas allí servirán de base para un libro blanco de IA sobre animación que se publicará en 2029. La directora del mercado MIFA, Véronique Encrenaz, dijo que recopilaría las inquietudes y tendencias del sector."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que los poseedores de acreditación este año sean unos 18.400, cifra similar a la del año pasado. El mayor cambio es la apertura de la sede permanente 'Cité Internationale du Cinéma d'Animation', que cuenta con un teatro de 332 butacas, espacio de exposición y salas de talleres."
+        },
+        {
+          "t": "p",
+          "x": "Mikaël Marin, director de Citia, dijo que el festival debe ser un lugar donde la gente choque e intercambie opiniones. El director artístico Marcel Jean dijo que no se apresuraría a predecir el impacto de la IA en los empleos de los animadores, y señaló que las escuelas están preparando a los estudiantes para la era de la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/4/8/0/1481480_g_movies_gatto_still_1_610012e0_177112.jpeg",
+          "cap": "'Gatto' (Pixar)"
+        },
+        {
+          "t": "p",
+          "x": "La sección competitiva también incluye obras distribuidas por Canal+, como 'Viva Carmen!' de Sébastien Laudenbach y 'Lucy Lost' de Olivier Clert. Marin dijo que le sorprendieron las recientes declaraciones del director de Canal+, pero que la cooperación con los grandes inversores debe mantenerse."
+        }
+      ]
+    },
+    "movies/reallusion-iclone-personal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Reallusion eliminó la prueba de 30 días y lanzó iClone Personal como versión gratuita permanente. Se puede usar todo el conjunto de herramientas 3D, construir escenas, crear animación e incluso renderizar, todo gratis y sin límite de tiempo."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/01_iClone-Personal-KV_1280x400.jpg",
+          "cap": "Imagen clave de iClone Personal"
+        },
+        {
+          "t": "p",
+          "x": "AI Studio terminó el acceso anticipado y se lanzó como versión final. Refuerza la coherencia del personaje y el soporte de múltiples referencias para mantener el parecido del actor con mayor precisión."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/04_AI-Studio-KV_1280x400.jpg",
+          "cap": "Imagen clave de AI Studio"
+        },
+        {
+          "t": "p",
+          "x": "La licencia se divide en tres niveles. La versión gratuita ofrece creación y renderizado ilimitados, además de 30 exportaciones para flujos de trabajo 3D externos. La suscripción elimina el límite de exportación, pero vuelve a la versión gratuita si se cancela. La licencia perpetua posee también las exportaciones por completo."
+        },
+        {
+          "t": "p",
+          "x": "Los AI Actors (iModels) de AI Studio se rediseñaron para que el parecido no se pierda aunque cambie el estilo, y se integran directamente en el flujo de video de Seedance 2.0. Se pueden agrupar imágenes, video, audio, AI Actors y datos de escenas 3D. Es compatible con Seedance 2.0, Kling 3.0, Veo 3, Nano Banana y Flux."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/05_Enhanced-Video-Integration_1280x400_BG-Black.jpg",
+          "cap": "Coherencia del personaje mantenida incluso al cambiar de plano"
+        },
+        {
+          "t": "p",
+          "x": "El motor de renderizado RTX llegará como beta abierta a finales de julio, ofrecido como actualización gratuita. Los planes de AI Cloud se dividen en Starter, Standard y Pro, y hasta los usuarios gratuitos reciben 500 puntos de IA, 200 activos de muestra y 12 AI Actors iniciales."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/06/09_AI-Cloud-Plans_1280x565.jpg",
+          "cap": "Estructura de los planes de AI Cloud"
+        }
+      ]
+    },
+    "movies/shanghai-2026-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 28.º Festival Internacional de Cine de Shanghái cerró el 21 de junio. Los directores noveles, una base para formar creadores y la IA presente en la producción fueron los tres ejes del festival este año."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/06/Atlantic-Rhapsody-team.jpg?w=1000&h=667&crop=1",
+          "cap": "El equipo de 'Atlantic Rhapsody'"
+        },
+        {
+          "t": "p",
+          "x": "'Atlantic Rhapsody', de Zhong Kaifeng, ganó el premio a la mejor película y el de mejor fotografía (Hao Zhaowei). En la sección de Nuevos Talentos de Asia, 'Her First Taste', de Gong Yiwen, se llevó el premio a la mejor película y el de mejor actriz (Ma Pupu). Tony Leung presidió el jurado."
+        },
+        {
+          "t": "p",
+          "x": "La IA estuvo presente en todo el programa. Se celebraron talleres sobre imagen, audio, escritura y temas legales, y el festival se asoció con la empresa de IA generativa MiniMax. El vicepresidente de MiniMax, Yan Yijun, señaló que la clave para mejorar la calidad de imagen de los modelos de video generativo es, al final, la capacidad de cómputo."
+        },
+        {
+          "t": "p",
+          "x": "Una empresa centrada en IA terminó un drama de época de acción real de 120 minutos en siete días, usando sustitución de fondos, reiluminación, VFX y actores generados por IA. Los panelistas dijeron que la IA generativa ayuda a la creatividad humana en lugar de sustituirla, pero la inquietud del público no desapareció."
+        },
+        {
+          "t": "p",
+          "x": "La actriz Lisa Lu, que apareció en 'Crazy Rich Asians', recibió un premio a la trayectoria. La ceremonia de apertura incluyó una actuación de un brazo robótico y video generado por IA."
+        }
+      ]
+    },
+    "movies/annecy2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Festival Internacional de Animación de Annecy 2026 registró un máximo histórico de 19.100 portadores de credencial, muy por encima de los 7.100 asistentes acreditados de 2013. El 24 de junio Francia vivió su día más caluroso registrado, y el director artístico Marcel Jean dijo que algunos espectadores no llegaron a las proyecciones por evitar la espera al aire libre durante la ola de calor."
+        },
+        {
+          "t": "p",
+          "x": "Muchos consideraron que el nivel de las películas de este año fue el más alto hasta ahora, pero la industria enfrentó una conmoción comparable a la del cine de acción real. En términos industriales, Annecy se volvió un escenario tan grande como Cannes, y en algunos aspectos mayor. 'Minions & Monsters,' la séptima entrega de la franquicia animada más taquillera 'Mi villano favorito/Minions,' se presentó como película de apertura, y Disney/Pixar, Netflix, Warner Bros. Animation y otros presentaron una ola de estrenos."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/06/Fool-Night.-copy.jpeg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "La tendencia más clara de este año fue el avance de Asia, especialmente en animación. Netflix dijo que las visualizaciones de sus títulos animados subieron de 1.000 millones en 2023 a 1.500 millones en 2025. Un adelanto de 'Baahubali: The Eternal War,' del indio S.S. Rajamouli, generó gran interés, y empresas de EE. UU. y Europa se sumaron cada vez más a la animación."
+        },
+        {
+          "t": "p",
+          "x": "También hubo mucho debate sobre la carrera por el Óscar. 'Wildwood' de Laika, 'Ray Gun' de Netflix y 'Forgotten Island' de DreamWorks se mencionaron como candidatas, y entre los cortos se citaron obras como 'God Is Shy.'"
+        },
+        {
+          "t": "p",
+          "x": "Pero la obra más comentada de este año fue el corto 'Dans Macabre' del veterano animador Hisko Hulsing. Hulsing explicó abiertamente el proceso de usar IA generativa para imitar su propio estilo de dibujo, y en la proyección se reunieron espectadores con pegatinas que decían 'Detengan la IA generativa.' Justo antes de que comenzara, algunos se fueron y otros abuchearon. Marcel Jean respondió: 'Entiendo las preocupaciones sobre la IA, pero no puedo estar de acuerdo con una cacería de brujas contra el trabajo de un artista que explora una nueva herramienta de forma transparente.'"
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, el mercado lucha contra una crisis. Los estudios y grandes productoras independientes que reclutaban animadores hace una década casi han desaparecido, y estudiantes y animadores novatos con carteles en busca de empleo recorrían el mercado MIFA. La 'Cité du Cinéma d'Animation,' inaugurada el 19 de junio, es un intento de convertir a Annecy en la capital de la animación durante todo el año."
+        }
+      ]
+    },
+    "movies/no-fakes-act": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un proyecto de ley dirigido a frenar los deepfakes no autorizados hechos con IA pasó el comité judicial del Senado. Es un avance significativo en lo que la industria del entretenimiento ha calificado como su principal prioridad legislativa de este año."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto pasó el comité por unanimidad mediante votación de voz el jueves. Sin embargo, los senadores republicanos Mike Lee, Ted Cruz y Eric Schmitt plantearon preocupaciones relacionadas con la Primera Enmienda."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2221857723.jpg?w=681&h=383&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "El proyecto busca responder a la propagación de 'deepfakes' no autorizados; varios actores han declarado ante el Congreso sobre casos en que su voz y su apariencia fueron usadas sin permiso."
+        },
+        {
+          "t": "p",
+          "x": "Según el proyecto, las personas tienen el derecho de autorizar réplicas digitales de su propia voz y apariencia. Este derecho de réplica digital no desaparece tras la muerte de la persona; los herederos y albaceas pueden heredarlo y autorizar su uso. Sin embargo, los derechos póstumos solo se reconocen hasta 70 años después de la muerte."
+        },
+        {
+          "t": "p",
+          "x": "Las noticias, documentales y deportes, así como las obras biográficas y los usos con fines de comentario, crítica o parodia, quedan excluidos del alcance del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto cuenta con un amplio respaldo de gremios y sindicatos de la industria del entretenimiento, estudios y discográficas, así como de empresas tecnológicas como OpenAI y Google/YouTube. Una enmienda publicada el mes pasado añadió un proceso de 'contranotificación' para impugnar retiros de contenido y exenciones para cierto trabajo de bibliotecas, archivos e instituciones de investigación."
+        },
+        {
+          "t": "p",
+          "x": "El presidente y director ejecutivo de la RIAA, Mitch Glazier, dijo en un comunicado: 'Celebramos la aprobación de hoy por el comité judicial del Senado y esperamos que se convierta en ley este año.'"
+        },
+        {
+          "t": "p",
+          "x": "En la revisión del jueves, Cruz se mostró especialmente preocupado por que 'la sátira, una parte importante de la libertad de expresión, debe protegerse'. Citó el caso del personaje de reality Spencer Pratt, quien usó recientemente imágenes generadas con IA de la alcaldesa Karen Bass y otros en un anuncio mordaz durante las elecciones a la alcaldía de Los Ángeles, y dijo que el video de Pratt era 'muy gracioso, y un buen ejemplo de algo que debería protegerse, no quedar atrapado por una ley como esta'. Pratt quedó en tercer lugar en las primarias de la alcaldía y no avanzó a la segunda vuelta de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Se ha presentado un proyecto similar en la Cámara de Representantes. Entre los legisladores que se sumaron están Marsha Blackburn (R-Tennessee), Chris Coons (D-Delaware), Thom Tillis (R-Carolina del Norte), Amy Klobuchar (D-Minnesota), así como Maria Salazar (R-Florida) y Madeleine Dean (D-Pensilvania)."
+        },
+        {
+          "t": "p",
+          "x": "Otro copatrocinador, Adam Schiff (D-California), dijo: 'El rápido avance de la IA generativa ha traído innovaciones notables, pero también ha desatado una ola de explotación no autorizada.'"
+        },
+        {
+          "t": "p",
+          "x": "La Casa Blanca ha mantenido en general una postura de no intervenir en el desarrollo de la IA, pero en un marco legislativo nacional publicado en marzo, la administración Trump dio señales de apoyo a políticas similares a la Ley NO FAKES."
+        },
+        {
+          "t": "p",
+          "x": "El presidente y director ejecutivo de la Motion Picture Association (MPA), Charles Rivkin, dijo que la ley 'establece protecciones a nivel federal contra el uso malicioso y engañoso de réplicas digitales, respetando al mismo tiempo los derechos y libertades constitucionales de los creadores'. Cuando apareció un primer borrador en 2024, los estudios advirtieron que podría infringir la Primera Enmienda, pero luego se revisó para eximir de forma amplia a las réplicas que retratan a una persona 'de manera histórica o biográfica, incluyendo cierto grado de ficcionalización'. Películas como 'Forrest Gump' se considerarían dentro de esa exención."
+        },
+        {
+          "t": "p",
+          "x": "La Human Artistry Campaign, una coalición internacional de organizaciones de artistas y creadores de contenido que también impulsó la aprobación del proyecto, dijo a través de su asesora principal, Moiya McTier: 'A medida que la IA evoluciona, todos deberían tener el derecho de controlar cómo se usan su voz, su apariencia y su identidad.'"
+        },
+        {
+          "t": "p",
+          "x": "El tema ha sido especialmente importante para los actores de doblaje, preocupados de que la réplica no autorizada de su apariencia pudiera poner en riesgo su sustento. El presidente de la National Association of Voice Actors (NAVA), Tim Friedlander, dijo: 'Esta aprobación es el resultado de los esfuerzos de una coalición diversa y bipartidista', y añadió: 'En los últimos dos años, NAVA ha participado en más de 100 reuniones en nombre de todos los que deberían tener derecho a su propia voz, imagen, nombre y apariencia.'"
+        },
+        {
+          "t": "p",
+          "x": "No está claro cuándo, ni si, el proyecto llegará a una votación plenaria. Aun así, cuando se presentó por primera vez en 2024, ni siquiera logró pasar el comité."
+        }
+      ]
+    },
+    "movies/storeel-canvas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Storeel, una plataforma de dramas de formato corto impulsada por IA, presentó 'Canvas,' un entorno de producción y monetización dirigido a nuevos creadores de microdramas."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento llega justo después de que la empresa cerrara una ronda de 34 millones de dólares para capital semilla y adquisición de usuarios. Es una señal de su avance hacia un ecosistema integral que conecta a creadores, tecnología y audiencias."
+        },
+        {
+          "t": "p",
+          "x": "Canvas reúne en un solo espacio de trabajo un proceso de producción que hasta ahora estaba fragmentado. Cuando un creador sube un guion, un sistema basado en agentes genera la división en escenas y el storyboard, referencias de personajes y escenarios, y prompts ajustados a los principales modelos de IA de video e imagen. Se centra en el formato de series, con soporte para personajes recurrentes, continuidad a lo largo de varios episodios y producción masiva, algo que las herramientas de IA de video de uso general no habían atendido hasta ahora. Durante todo el proceso, los creadores pueden retocar directamente las tomas, ajustar los prompts y corregir el storyboard."
+        },
+        {
+          "t": "p",
+          "x": "La empresa explicó que Canvas reduce el tiempo de producción en alrededor de dos tercios frente a los métodos existentes, y recorta el costo a cerca del 15% de lo que costaría una producción con actores reales."
+        },
+        {
+          "t": "p",
+          "x": "La cofundadora y co-CEO de Storeel, Angela Yu, dijo: 'Las buenas historias no deberían verse frenadas por los presupuestos de producción ni por los guardianes de la industria.' 'Canvas elimina la complejidad técnica, de modo que los creadores de microdramas pueden concentrarse en lo que mejor saben hacer: construir personajes, mundos e historias.'"
+        },
+        {
+          "t": "p",
+          "x": "La propia oferta de Storeel muestra resultados iniciales. La serie hecha con IA 'OMG! My Snowwhite Is a Man' tuvo un costo por instalación de 4,63 dólares, por debajo de los 8-10 dólares que la empresa reporta para los dramas tradicionales con actores reales. En más de 80 series originales de IA en conjunto, la tasa promedio de retención al día 7 es un 22% más alta que en obras comparables con actores reales."
+        },
+        {
+          "t": "p",
+          "x": "Canvas también incluye mecanismos de monetización. Está estructurado para que los creadores —a quienes Storeel llama PUGC (contenido generado por usuarios de nivel profesional)— sean los mayores beneficiarios, en lugar de los estudios. La empresa opera sobre dos pilares: la app Storeel, para el consumo del público, y Canvas, que le suministra contenido."
+        }
+      ]
+    },
+    "movies/movies-a24-backlash": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lo cool es algo escurridizo. En el momento en que crees tenerlo agarrado, se te escapa como un globo de agua. Para la generación mayor, su encarnación era Martin Scorsese. Hace unas semanas, cuando se mostró entusiasmado por firmar un acuerdo con una startup de IA para usarla en storyboards, cuanto más intentaba prestarle su credibilidad legendaria a esa empresa, más recordaba el cool que ya no tenía."
+        },
+        {
+          "t": "p",
+          "x": "Para la generación más joven, A24 ha sido cool durante un tiempo. Probablemente todavía lo sea, pero la enigmática alianza con Google DeepMind anunciada el lunes le restó bastante de ese cool. Si aceptas 75 millones de dólares de la mayor empresa tecnológica del mundo bajo la bandera de una herramienta de slop, no puedes mantener tu credibilidad contracultural por mucho tiempo. Eso quedó claro al día siguiente, cuando el tráiler totalmente ajeno (y sin IA) de la película de teatro comunitario de Jesse Eisenberg se llenó de burlas. \"¿Por qué pagarle y apoyar a una empresa que ni cree ni respalda el poder de la creatividad humana?\" y \"a24 era genuinamente cool hasta que os vendisteis a un gigante de la IA por unos cuantos dólares de exclusividad\" estaban entre los comentarios más comedidos."
+        },
+        {
+          "t": "p",
+          "x": "Es fácil olvidarlo, pero la tecnología misma fue cool en su momento, cuando Steve Jobs hacía entradas cinematográficas en la WWDC de Apple para presumir del iPod y el iPhone. Seguía siéndolo a finales de 2022, cuando OpenAI lanzó ChatGPT y todos se emocionaron convirtiendo letras de Taylor Swift en sonetos shakespearianos. El ambiente se esfumó después de ese momento. El giro de algo divertido que podías sostener en la mano a algo intangible que los multimillonarios usan para controlarnos es el núcleo de este declive."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, que disfrutó ese último momento de cool, se ha convertido ahora en la principal fuerza que lo drena. La caída quedó clara cuando, cerca de un año después del lanzamiento de ChatGPT, Sam Altman repelió un intento de destitución por parte de ejecutivos y miembros de la junta preocupados por la seguridad, con maniobras que se parecían a una jugada de trastienda. Un año después, el cool se esfumó cuando Altman, junto con Jeff Bezos, Tim Cook, Mark Zuckerberg y Sundar Pichai, asistió e hizo donativos para la investidura de Donald Trump. Anthropic ha resistido más tiempo, ayudada por Dario Amodei enfrentándose directamente a Pete Hegseth y porque Claude funciona mucho mejor que ChatGPT, pero cuánto durará eso es una incógnita."
+        },
+        {
+          "t": "p",
+          "x": "Volviendo a la posición de A24. Esta empresa debía ser la que se enfrentara a todo esto. En una era de cine fabricado en serie, acogió a Ari Aster, Greta Gerwig, Barry Jenkins, Ti West y Josh Safdie, y en una era de secuelas, lo apostó todo por Kane Pixels. Hace apenas un mes, los titulares no solo decían que A24 era cool, sino que su cool superaba al de Star Wars. Esa misma empresa ahora enfrenta burlas y amenazas de boicot. El poder de las grandes tecnológicas es que pueden quitarle lo cool a algo con la misma contundencia con la que una vez se lo dieron."
+        },
+        {
+          "t": "p",
+          "x": "Lo que resulta desconcertante del acuerdo con DeepMind no es que A24 no debiera haber experimentado con IA, sino que llevó todo el experimento de la forma equivocada. Debería haber esperado a tener algo que mereciera la pena mostrar, haberlo lanzado y haber silenciado a los escépticos, pero en cambio anunció un acuerdo entre empresas sin nada que mostrar salvo 'confíen en nosotros'. El ambiente anti-A24 cambiará algo. Es casi seguro que pronto surgirá una generación nativa de artistas de IA que se expresen con esta tecnología. \"Alguien va a hacer una película de terror aterradoramente buena con esta tecnología, y alguien va a hacer una comedia genuinamente graciosa\", dijo Matt Stone. Aun así, eso no ayuda a la A24 de hoy. Construir cool lleva años; perderlo basta con una sola jugada de negocios torpe."
+        }
+      ]
+    },
+    "movies/movies-google-a24": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A24 y Google han formado una alianza de investigación en IA. El estudio independiente A24 se une a la división DeepMind de Google para desarrollar nueva tecnología de IA para cineastas."
+        },
+        {
+          "t": "p",
+          "x": "La inversión de Google vinculada a esta alianza es de unos 75 millones de dólares, aproximadamente el mismo nivel que aportó Thrive Capital en la ronda de financiación anterior, según el Wall Street Journal. La alianza da a A24 acceso a la investigación e infraestructura de DeepMind, mientras que los investigadores de DeepMind ayudan al estudio a diseñar nuevos flujos de trabajo. Sin embargo, el acuerdo no le da a Google acceso a la biblioteca de contenido ni a los datos de A24."
+        },
+        {
+          "t": "p",
+          "x": "En una época en la que las empresas oscilan entre alianzas y demandas, este es otro vínculo entre un estudio de Hollywood y la IA. Disney firmó un breve acuerdo para prestar sus personajes a OpenAI mientras demandaba por infracción de derechos de autor a empresas de IA como MiniMax y Midjourney, y Lionsgate ha ampliado su colaboración con la empresa de IA Runway AI para desarrollar nueva propiedad intelectual y aprovechar franquicias existentes en obras generadas por IA. Netflix también adquirió a comienzos de este año Int3ractive, la startup de IA de Ben Affleck que crea herramientas para cineastas."
+        },
+        {
+          "t": "p",
+          "x": "Scott Belsky, el socio que dirige la división tecnológica del estudio, A24 Labs, dijo al Journal que la alianza con Google es diferente de otros acuerdos. Según él, las empresas de IA han promocionado erróneamente sus productos como una forma de hacer películas más baratas y rápidas. Su división está desarrollando aplicaciones como storyboards generados por IA, otra reinvención del proceso de producción respaldada por cineastas como Martin Scorsese."
+        },
+        {
+          "t": "p",
+          "x": "\"Creemos que hay mejores usos que preservan el control creativo y respaldan la toma de riesgos\", dijo al Journal, y añadió que las nuevas herramientas serían \"muy distintas de la IA generativa basada en prompts con la que la gente se siente incómoda\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Creemos que los avances ocurren cuando la tecnología llega a manos de las mejores mentes del sector\", dijo Eli Collins, vicepresidente de producto de DeepMind, al Journal."
+        },
+        {
+          "t": "p",
+          "x": "A24 ha sido un refugio para cineastas emergentes. Su éxito de crítica y taquilla, desde \"Lady Bird\" y \"Moonlight\" hasta \"Everything Everywhere All at Once\", \"Marty Supreme\" y el reciente éxito \"The Backrooms\", se debe a la confianza que depositó en los cineastas con los que trabaja y a la apasionada base de fans jóvenes que esa confianza generó. (Datos de PostTrak muestran que alrededor del 85% del público que vio \"The Backrooms\" en su semana de estreno tenía menos de 35 años). Una encuesta de Pew Research publicada la semana pasada encontró que alrededor de la mitad de los adultos menores de 30 años cree que la IA dañará a la sociedad. Este acuerdo llega en ese contexto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2252275170.jpg?w=2000&h=1126&crop=1",
+          "cap": "Timothée Chalamet en el estreno neoyorquino de \"Marty Supreme\" de A24, celebrado en Nueva York el 16 de diciembre de 2025. Foto de Theo Wargo/Getty Images."
+        }
+      ]
+    },
+    "movies/movies-openart-director": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'Director', que OpenArt lanzará el martes, es una herramienta de la empresa con sede en Redwood City dirigida por dos exingenieros de Google. A diferencia de la mayoría de las herramientas, que obligan a unir con esfuerzo clips de 5 a 10 segundos, Director permite armar una película de hasta cinco minutos. Es un sistema conversacional que empieza en la etapa de storyboard y llega hasta la posproducción, guiando de la mano al usuario hasta completar una escena de cinco minutos para un cortometraje o un largometraje."
+        },
+        {
+          "t": "p",
+          "x": "La cofundadora y CEO Coco Mao y sus ejecutivos llaman a esto 'vibe directing', trasladando el término vibe coding al territorio de los guionistas. \"Con el vibe coding, le das un ambiente y te olvidas de que siquiera existe código\", dijo Mao, quien fundó la empresa con su excolega de Google John Chao. \"Marcas una dirección, delegas el trabajo, das retroalimentación, y la máquina se encarga de resolverlo. El vibe directing es parecido: el usuario se olvida de las herramientas o la tecnología y solo tiene que imaginar, reaccionar y mostrar su gusto\"."
+        },
+        {
+          "t": "p",
+          "x": "La empresa combina varios modelos, desde Seedance hasta Runway, para hacer películas. Su fortaleza está en elegir el modelo que mejor se ajusta a cada situación y, de forma más decisiva, en su interfaz simple. Según Mao, el objetivo es \"encargarnos nosotros de las decisiones pequeñas para que la gente no quede atrapada escribiendo prompts\". La directora de tecnología Amy Hur dijo que, más que entrenar modelos, la empresa orientó un enfoque de IA agéntica que usa reglas basadas en objetivos para llegar a los resultados, lo que permitió una interfaz más intuitiva."
+        },
+        {
+          "t": "p",
+          "x": "En el uso práctico, apenas unas frases generaron un guion, y ese guion por sí solo bastó para armar una película. Pero ahí empezaba el verdadero trabajo. El primer guion era bastante tosco, y hicieron falta muchas más revisiones de las esperadas para llegar a un resultado utilizable. Aun así, al capturar ideas con tan poco esfuerzo, el trabajo arrancó de una manera distinta a la de un simple chatbot. Es evidente que reduce la barrera de entrada al cine y atrae a quienes se sentían intimidados por el proceso."
+        },
+        {
+          "t": "p",
+          "x": "Para promocionar Director, OpenArt recurre a anuncios antes de las proyecciones en cines, anuncios en el metro de Nueva York e incluso una valla publicitaria en West Hollywood. La empresa dijo que sus herramientas existentes de imagen y video tienen 8 millones de suscriptores activos. Según la firma de investigación Sacra, ha generado 70 millones de dólares en ingresos, y Mao dijo que la empresa tiene unos 50 empleados. Recientemente recaudó unos 30 millones de dólares en financiación, una fracción de los más de 800 millones de dólares que ha recaudado Runway."
+        },
+        {
+          "t": "p",
+          "x": "Gil Reef, exguionista principal de The Ellen DeGeneres Show, dijo que Director no se siente como estar en un set, pero que \"se parece bastante a darle notas a un editor\", y agregó que \"con tanta fricción eliminada, se siente más creativo que nunca\". Mao y Chao eran antes conocidos por Tangi, un servicio de video corto de una incubadora de Google, antes de dejarla en 2022 para fundar OpenArt. Mao dijo que esto marca \"una nueva era de la narración\" que \"creará muchos narradores nuevos y dará a los narradores ya existentes mayor libertad y expresión\"."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/OA-Director_UI-3.jpg?w=2000&h=1126&crop=1",
+          "cap": "Pantalla de generación de 'Director' de OpenArt. La empresa cree que esta herramienta podría inaugurar una era de 'vibe directing'."
+        }
+      ]
+    },
+    "movies/a24-google": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Después de que los fans criticaran a A24 por adoptar la IA, el estudio explicó que su alianza de investigación con Google DeepMind es un intento de asegurar \"un lugar en la mesa\" mientras Hollywood lidia con la IA."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta es una colaboración de investigación\", dijo la publicista de A24, Sophia Shin, en un comunicado sobre el acuerdo, revelado primero por Wired. \"Estamos sentados junto a los investigadores de DeepMind, aprendiendo, perfeccionando, construyendo, y ayudando directamente a dar forma a nuevas herramientas y nuevas formas de trabajar.\""
+        },
+        {
+          "t": "p",
+          "x": "El comunicado continúa: \"No damos por sentada nuestra relación con el público. Esta alianza existe porque queremos tener voz en qué herramientas se construyen para los artistas, y porque queremos que los artistas tengan voz en cómo se forman esas herramientas en lugar de simplemente recibirlas. Preferimos tener un lugar en la mesa a que nos dejen de lado\"."
+        },
+        {
+          "t": "p",
+          "x": "Bajo la alianza, revelada el lunes por el estudio y Google, A24 y su división tecnológica A24 Labs obtienen acceso a la investigación e infraestructura de DeepMind, mientras que los investigadores de DeepMind trabajan con el estudio para diseñar nuevas formas de trabajar y averiguar qué herramientas podrían querer los cineastas. Sin embargo, Google no tendrá acceso a la biblioteca de contenido ni a los datos de A24, y no se obligará a los cineastas a usar estas herramientas. Los fans de A24 expresaron su descontento en redes sociales, dejando comentarios en las publicaciones de Instagram y X del estudio en los que lo acusaban de traicionar al público que lo ha respaldado."
+        },
+        {
+          "t": "p",
+          "x": "Una publicación de Instagram que promocionaba la próxima película 'The Debut' recibió un comentario que decía: \"¿Qué diablos es esta colaboración con IA? ¿Siquiera conocen a su base de fans?\", mientras que un usuario de X calificó el acuerdo de \"repugnante\"."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/MCDBACK_EC100.jpg?w=1000&h=667&crop=1",
+          "cap": "'Backrooms', Renate Reinsve, 2026. © A24 / courtesy Everett Collection"
+        },
+        {
+          "t": "p",
+          "x": "El controvertido acuerdo es el más reciente de una serie de vínculos entre estudios de Hollywood e IA. Las empresas han estado lidiando con cómo relacionarse con esta tecnología omnipresente mientras protegen los derechos de autor y la propiedad intelectual. Disney firmó brevemente un acuerdo de licencia de personajes con OpenAI y luego lo canceló, mientras que, por esas mismas fechas, demandaba a empresas de IA como MiniMax y Midjourney por infracción de derechos de autor. Lionsgate amplió este mes su alianza con la empresa de IA Runway para crear nuevas franquicias a partir de IP existente y producir programas generados por IA. Netflix, por su parte, adquirió a comienzos de este año Interpositive, la startup de IA de Ben Affleck que crea herramientas para cineastas."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo y cofundador de DeepMind, Demis Hassabis, dijo en una publicación de blog esta semana que \"la mejor manera de crear herramientas que empoderen a los artistas es trabajar directamente con ellos\"."
+        },
+        {
+          "t": "p",
+          "x": "Escribió que \"asociarse desde el principio con cineastas y líderes de la industria como A24 nos permite crear nuevas capacidades de IA que ayudan a los artistas que hacen narrativas auténticas y significativas a dar vida a su visión creativa\"."
+        },
+        {
+          "t": "p",
+          "x": "El director de 'Backrooms', Kane Parsons, calificó la IA generativa como \"un síntoma de una corrupción cultural y económica más amplia\" en una entrevista con The Australian a comienzos de este mes, diciendo que, aunque podría tener algún uso en trabajos relacionados con VFX, \"hay demasiado en juego y ya está ocurriendo demasiado daño real como para discutirlo objetivamente\"."
+        },
+        {
+          "t": "p",
+          "x": "Le confesó al periódico: \"Creo que estoy en la misma situación que la mayoría de la gente cuerda. Si pudiera chasquear los dedos y hacer que la IA generativa desapareciera para siempre, probablemente lo haría. En el aspecto creativo, no disfruto nada usando esa herramienta. Para mí, se derrumba por completo el propósito mismo\"."
+        }
+      ]
+    },
+    "movies/adobe-cc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe lanzó un paquete de actualizaciones de Creative Cloud para Lightroom, Premiere, After Effects, Photoshop e Illustrator. Las nuevas funciones de IA abarcan tareas que van desde seleccionar fotos hasta la rotoscopia."
+        },
+        {
+          "t": "p",
+          "x": "En Premiere, Global Audio Mute silencia toda la aplicación con un solo clic. Marker Search encuentra marcadores por color o nombre en todos los proyectos abiertos. Tres nuevos efectos, Channel Blur, Gradient y Noise FX, se encargan de la composición y el trabajo de texturas en movimiento directamente en la línea de tiempo. Las nuevas transiciones 3D Spin Back y Slide incluyen controles de easing de nivel profesional. Single Word Captioning permite editar los subtítulos palabra por palabra sin tocar el bloque de subtítulos circundante."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Single%20Word%20Caption%20in%20Premiere.jpg?width=1920&height=1080&name=Single%20Word%20Caption%20in%20Premiere.jpg",
+          "cap": "Single Word Caption en Premiere"
+        },
+        {
+          "t": "p",
+          "x": "Stock Panel Checkout permite previsualizar y licenciar recursos de Adobe Stock sin salir de Premiere. Al traer varios recursos a un proyecto mediante Firefly Boards, se genera automáticamente una secuencia. Object Mask tiene ahora bordes más suaves y puede regenerarse cuando un medio queda sin conexión y luego se vuelve a conectar. El panel Sequence Index reúne los controles de edición de formato largo en un solo lugar, y el nuevo modo de visualización A/V muestra juntas las formas de onda de video y audio en el monitor de origen."
+        },
+        {
+          "t": "p",
+          "x": "En After Effects, Object Matte sustituye al Roto Brush, que solo funcionaba con pincel, e incorpora cuatro herramientas de IA: Object Selection, Quick Selection, Selection Brush y Edge Refinement. El conjunto de herramientas 3D suma un mapa de desplazamiento para dar profundidad a las superficies, profundidad de campo en capas de modelos, mallas, texto y formas, y una API de scripting para mallas paramétricas. Los archivos SVG ahora se pueden importar directamente como capas de forma editables que conservan degradados, trazos y transparencia. El contenido vectorial también se puede copiar y pegar directamente desde Illustrator sin conversión."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Object%20Matte%20in%20After%20Effects%201080px.jpg",
+          "cap": "Object Matte en After Effects"
+        },
+        {
+          "t": "p",
+          "x": "En Photoshop, Remove Reflections detecta y elimina los reflejos en el cristal, separándolos en una capa propia para poder ajustar la opacidad de forma no destructiva. La herramienta Remove ahora ejecuta su modelo de IA generativa directamente en el dispositivo, funcionando tanto en línea como sin conexión."
+        },
+        {
+          "t": "p",
+          "x": "En Lightroom, Assisted Culling, tras un periodo de acceso anticipado, pasa a estar disponible de forma general. La nueva función incorpora Face View, que aísla a las personas en un fotograma para analizar la nitidez de los ojos y si están abiertos. Stacking agrupa automáticamente imágenes casi idénticas y señala la mejor candidata. Los filtros personalizados, los diales de precisión y las anulaciones de selección permiten un control más fino del proceso."
+        },
+        {
+          "t": "p",
+          "x": "Photo to Video convierte imágenes fijas en clips en movimiento usando movimiento generado por IA, con la potencia de Firefly y Google Veo. Se puede usar un prompt extraído automáticamente de la imagen o escribir uno propio."
+        },
+        {
+          "t": "p",
+          "x": "AI Sharpen integra el modelo de nitidez consciente del ruido de Topaz Labs directamente en Lightroom sin necesidad de exportar por separado. Los archivos RAW de la Sony a7R VI ya son compatibles en Lightroom, Lightroom Classic y Adobe Camera Raw."
+        },
+        {
+          "t": "p",
+          "x": "Concept to Vector de Illustrator, presentado por primera vez en Illustrator 30.5, convierte bocetos o recursos de baja resolución en borradores vectoriales editables, o genera múltiples variaciones de estilo a partir de una sola imagen de origen."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Illustrator_Concept%20to%20Vector%202.jpg?width=1280&height=640&name=Illustrator_Concept%20to%20Vector%202.jpg",
+          "cap": "Concept to Vector de Illustrator"
+        },
+        {
+          "t": "p",
+          "x": "Todas las actualizaciones se despliegan de forma escalonada esta semana. Estas funciones llegan junto con el último informe de Adobe, el 2026 Creators Toolkit Report, que encuestó a más de 16.000 creadores de ocho países sobre cómo ven el software creativo que usan en su trabajo. Este año, la IA estuvo en el centro de las preguntas. El 75% de los creadores dijo que la IA está integrada en su trabajo o es esencial para él, y el 87% dijo que la IA ha hecho crecer su negocio o su audiencia. Aun así, el 85% insistió en que las decisiones creativas finales deben seguir siendo suyas."
+        }
+      ]
+    },
+    "movies/asteria-ltx": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Exclusiva: la productora tecnológica Asteria ha formado una alianza estratégica con LTX, creador de modelos de generación de video. El objetivo es impulsar la narrativa cinematográfica con IA."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo de esta colaboración es cerrar la brecha técnica entre el video de IA y la producción de nivel profesional. Ahora LTX será el motor generativo detrás de la producción impulsada por IA de Asteria, con resultados que pueden alcanzar un nivel híbrido premium."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/06/LTXASTERIA.png?w=681&h=383&crop=1",
+          "cap": "Courtesy"
+        },
+        {
+          "t": "p",
+          "x": "LTX lanzará su modelo de pesos abiertos LTX-2.3, lo que permite a Asteria entrenar y ajustar el modelo de forma segura para IP específicas."
+        },
+        {
+          "t": "p",
+          "x": "La colaboración entró en pleno funcionamiento con el cortometraje animado 'ChikaBOOM!', que se estrenó este mes en el Festival de Cine de Tribeca. Asteria usó el HDR IC-LoRA de LTX para entrelazar animación 2D dibujada a mano, CG y animación de IA, y escaló los recursos generados a HDR de 16 bits lineal de escena."
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Asteria, Benjamin Mishell, dijo: \"Al usar IA en el cine, es realmente importante no perder lo que hace humano nuestro trabajo. LTX nos da la base para construir nuestro propio pipeline, entrenar con nuestro propio trabajo y moldear el modelo junto a otros cineastas que hacen lo mismo. Ese tipo de apertura es exactamente lo que le faltaba a la IA en esta industria\"."
+        },
+        {
+          "t": "p",
+          "x": "Entre los cofundadores de Asteria también están Natasha Lyonne y Bryn Mooser. La empresa se lanzó en 2024."
+        },
+        {
+          "t": "p",
+          "x": "La compañía dice que, desde que LTX-2 se subió a la plataforma de computación Hugging Face en enero de 2026, se ha descargado más de 10 millones de veces, lo que lo convierte en el modelo de IA de pesos abiertos más usado de la industria. Con Asteria a bordo, las dos empresas buscan ampliar la retroalimentación de actores creativos como coloristas, supervisores de efectos visuales y directores."
+        },
+        {
+          "t": "p",
+          "x": "El director de desarrollo de negocio de LTX, Tian Fei, dijo en un comunicado: \"Mucha gente sabe hacer buen video con IA, pero pocos ponen a los cineastas en la sala para construirlo de verdad. Vemos herramientas que se interponen en el proceso creativo. Asteria trata el modelo de IA como parte de ese oficio y proceso, no como un paso añadido al final de la producción. Nuestra colaboración encaja de forma natural porque todos los involucrados se enfocan en elevar el cine como forma de arte\"."
+        },
+        {
+          "t": "p",
+          "x": "La alianza se aplica tanto a cortometrajes como a contenido de largometraje y episódico. Las dos empresas esperan ampliar su colaboración con estudios y marcas con los que ya trabajan mediante flujos de codesarrollo, entrenamiento de modelos personalizados y coproducción."
+        }
+      ]
+    },
+    "movies/banijay-toonboom": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Exclusiva: Banijay se ha asociado con Toon Boom Animation. Entregará contenido infantil para que la empresa de software pruebe sus herramientas de IA, y a cambio obtendrá acceso anticipado a ellas."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo, firmado por Banijay Kids & Family, que produce y distribuye títulos como 'Mr Bean' y 'Totally Spies!', llega justo antes del Festival Internacional de Cine de Animación de Annecy, donde la inteligencia artificial sin duda volverá a dominar la conversación."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2024/06/BAS3_EP07_Spa-Day_STILL_03.jpeg?w=681&h=383&crop=1",
+          "cap": "'Mr Bean': una producción de Banijay Kids & Family. Banijay"
+        },
+        {
+          "t": "p",
+          "x": "Banijay le dará contenido a la canadiense Toon Boom para que sus herramientas se prueben en \"condiciones reales de estudio\". A cambio, Toon Boom le dará a Banijay acceso anticipado a su próxima canalización de funciones impulsada por Amber AI. También le abrirá a Banijay la \"hoja de ruta de producto a 2-3 años\" de herramientas como Harmony, Storyboard Pro y Producer."
+        },
+        {
+          "t": "p",
+          "x": "Toon Boom dijo que \"el objetivo último de esta transparencia es resolver los verdaderos cuellos de botella que enfrentan hoy los estudios de animación modernos\", y añadió que se trata \"especialmente de ayudar a los creadores a cumplir plazos más rápido sin perder su voz creativa única\"."
+        },
+        {
+          "t": "p",
+          "x": "Ambas partes destacaron las \"estrictas barreras éticas y operativas\" que acompañan el acuerdo. Banijay entrega contenido para probar las herramientas, pero dijo que ese contenido nunca se usará para entrenar modelos de IA."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Banijay Kids, Benoit Di Sabatino, dijo: \"En lugar de esperar herramientas de IA ya hechas, queremos estar a la vanguardia desarrollando nuestras propias soluciones. El objetivo no es alterar la creatividad sino elevarla, y responder a la creciente demanda de canalizaciones más rápidas y eficientes. Elegir a Toon Boom como socio fue clave, porque las soluciones de software de esta empresa se han desarrollado durante mucho tiempo con un profundo respeto por los artistas, técnicos y formas de trabajo creativo que definen nuestro campo\"."
+        },
+        {
+          "t": "p",
+          "x": "La IA también dominó la conversación en Annecy el año pasado. Alrededor de 150 representantes de gremios internacionales de animación, guionistas y actores protagonizaron una protesta para expresar su preocupación por el impacto de la IA generativa en sus profesiones. Los ejecutivos de Banijay se presentarán en masa en Annecy la próxima semana."
+        }
+      ]
+    },
+    "movies/runway-fest": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dejemos esto claro. A pesar de las apariencias, 'A Face Only a Mother Could Love' no la dirigió Charlie Kaufman, ni Michel Gondry, ni Wes Anderson. Ningún cineasta reconocido la dirigió. De hecho, nunca se filmó en absoluto."
+        },
+        {
+          "t": "p",
+          "x": "Este cortometraje de 8 minutos cuenta la historia de Marcel, un parisino de rostro desfigurado que baila con esperanza en su apartamento cada noche, esperando a una pareja que nunca llega. Salió de la mente de una sola persona, Robert Gaudette. Mente, o más precisamente, inteligencia. Inteligencia artificial."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Screenshot_20260617_041223_YouTube.jpg?w=2000&h=1080&crop=1",
+          "cap": "Una escena del corto generado con IA de Robert Gaudette, 'A Face Only a Mother Could Love', ambientado en París. Robert Gaudette"
+        },
+        {
+          "t": "p",
+          "x": "Gaudette usó una serie de herramientas de IA, sin emplear a un solo actor, productor o miembro del equipo. Lo que resultó es una historia cálida sobre un hombre que, a pesar de todas las penurias, nunca se hunde en su propia situación. Marcel, por el contrario, lleva consigo el tipo de optimismo inquebrantable que todos necesitamos. Ver esta película, y la frágil fe de Marcel en un mundo tan indiferente, despierta una oleada de posibilidad sobre lo que los humanos pueden ser. Al mismo tiempo, despierta sentimientos mucho más complicados sobre nuestro futuro creativo hecho con IA."
+        },
+        {
+          "t": "p",
+          "x": "Gaudette nunca tuvo formación cinematográfica formal. Aprendió por su cuenta habilidades como la edición y la ingeniería de sonido, y nunca ha publicado ningún escrito. Pero siguió escribiendo guiones y guardándolos en un cajón, uno tras otro, hasta que la cifra superó los 25, luego los 30, todo en medio de la total indiferencia de un Hollywood que ni siquiera había oído hablar de él."
+        },
+        {
+          "t": "p",
+          "x": "\"Nadie iba a financiar los cortos que yo hacía\", dijo Gaudette a The Hollywood Reporter por teléfono desde su casa en Toronto el martes por la noche, con un tono que recordaba extrañamente al protagonista melancólico de su propia película. \"Pero con la IA, no lo necesité\"."
+        },
+        {
+          "t": "p",
+          "x": "Hablando en voz baja con un marcado acento canadiense, trabajó en tecnología al principio de su carrera, ahorró algo de dinero y se pasó a la fotografía a tiempo completo, antes de virar de nuevo hacia el mundo sin fines de lucro. Cuando en 2022 surgieron herramientas de generación de imágenes como Midjourney, empezó a crear escenas con IA como un trabajo secundario, que desde entonces se ha convertido en su ocupación principal."
+        },
+        {
+          "t": "p",
+          "x": "Gaudette forma parte de la primera generación que puede decir honestamente que se gana la vida solo con la generación de video por IA. Y el jueves pasado presentó lo que podría ser la película más humanamente conmovedora jamás hecha por IA. Hay que admitir que la lista de candidatos es muy corta. Aun así, que \"conmovedora\" y \"hecha por IA\" puedan aparecer en la misma frase ya merece algún tipo de premio."
+        },
+        {
+          "t": "p",
+          "x": "Y, de hecho, ganó uno: el \"Grand Prix\" de $50,000 en el Festival de Cine de IA de Runway celebrado la semana pasada en Nueva York. Runway, la startup de generación de video que ha recaudado más de $800 millones en financiación, alquiló por completo el Alice Tully Hall para el evento. Cuando el cofundador de Runway, Chris Valenzuela, anunció al ganador, la sala casi estalló. Pase lo que pase, Gaudette demostró algo que gran parte de la industria del entretenimiento tradicional había calificado de imposible: una película hecha por un LLM también puede hacer llorar a la gente. \"Esperaba que fuera posible\", dijo. \"Pero no sabía si realmente funcionaría\"."
+        },
+        {
+          "t": "p",
+          "x": "Hasta hace unos meses, Gaudette nunca había intentado en serio hacer una película. Solo estaba dándole vueltas a la idea de un hombre solitario en París cuando empezó a escribir. Ahora tiene en sus manos lo que podría ser la obra más notable de esta nueva estética, todo producto de solo dos semanas, eso sí, trabajando 17 horas al día."
+        },
+        {
+          "t": "p",
+          "x": "El París de la película se siente estilizado e idealizado, y por una buena razón: nunca ha estado en París. En cambio, Gaudette se apoyó en la IA, recurriendo a un compuesto reunido de innumerables directores que sí habían estado allí."
+        },
+        {
+          "t": "p",
+          "x": "Generar escenas no es fácil. El modelo solo puede manejar entre 5 y 8 segundos a la vez, por lo que las tomas muy largas son imposibles. Además, el modelo normalmente no recuerda la escena anterior, así que cada ejecución empieza desde cero, con la esperanza de que la nueva escena parezca una continuación de la anterior. Por eso muchos cineastas de IA mantienen las escenas cortas. Pero Gaudette eligió el camino difícil y unió escenas de más de 30 segundos, lo que significa que tuvo que ejecutar una enorme cantidad de generaciones hasta que el modelo lo lograra bien."
+        },
+        {
+          "t": "p",
+          "x": "Todo el proceso es intenso. También es algo así como una apuesta. \"Hay mucho de apuesta. Es como tirar de la palanca de una máquina tragamonedas\", admitió Gaudette. Aun así, si algo no sale bien, no has perdido medio día de rodaje: simplemente lo borras y empiezas de nuevo. Y \"cuanto más lo haces, más aprendes el lenguaje que te da lo que quieres\", dice."
+        },
+        {
+          "t": "p",
+          "x": "Gaudette no tiene grandes esperanzas de que algún festival, incluido el de su ciudad natal, el Festival Internacional de Cine de Toronto (TIFF), proyecte la película. Pero ha oído que un festival en Rhode Island tiene una categoría de cine con IA, y tiene la vista puesta en que otros puedan tenerla también. Dice que sería \"genial\" si un estudio tradicional de Hollywood lo descubriera gracias a este corto y lo convocara para un rodaje convencional, o lo ayudara a convertir 'Face' en un largometraje. Aun así, de forma curiosa, o quizá refrescante, no siente ninguna urgencia real de cambiar de rumbo, y está satisfecho con seguir haciendo películas de IA. Ya está preparando su siguiente corto, y calcula que podría reducir todo el proceso a unos 10 días."
+        }
+      ]
     }
   }
 }

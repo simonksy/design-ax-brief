@@ -991,6 +991,564 @@
           "x": "Subrayó que la IA acabará llegando también a los manuscritos creativos, pero que todavía no ha profundizado en ese terreno. Él mismo usa la IA todos los días, para revisar la ortografía y para evaluar manuscritos que llegan en idiomas que no conoce, como el portugués o el italiano."
         }
       ]
+    },
+    "books/books-ai-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Grupo de Estudio de la Industria del Libro (BISG) y BookNet Canada lanzaron la segunda 'Encuesta de IA en la Industria del Libro' (AI in the Book Industry Survey). Invitan a participar a profesionales editoriales y bibliotecarios de toda Norteamérica, abarcando librerías, distribución, impresión, bibliotecas, proveedores de tecnología, organizaciones de servicios relacionadas, e incluso profesionales independientes y freelance del sector. Este año, la encuesta vuelve a buscar capturar las experiencias actuales, preocupaciones, prioridades y expectativas en torno a la IA."
+        },
+        {
+          "t": "p",
+          "x": "Según el comunicado, la encuesta está abierta hasta el 17 de julio y toma entre 10 y 15 minutos completarla. Todas las respuestas son anónimas, y los resultados se compartirán de nuevo en un informe público y gratuito. El comunicado añade que la encuesta 'ampliada' de 2026 se construye sobre la investigación del año pasado, y agrega: \"If you work anywhere in the book publishing supply chain, we encourage you to participate and share the survey with your colleagues.\""
+        },
+        {
+          "t": "p",
+          "x": "BISG y BookNet Canada publicaron en abril pasado el primer informe de la encuesta, 'AI Use Across the North American Book Industry: 2025'. Respondieron 559 personas de una amplia variedad de funciones. El informe señaló que el uso de IA entre profesionales editoriales y bibliotecarios de Norteamérica era \"uneven and often exploratory\" (desigual y a menudo exploratorio), mezclando un optimismo cauteloso con preocupación por el avance tecnológico."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la mitad del sector usa IA, la impresión general fue \"overwhelmingly negative\" (abrumadoramente negativa), lo que se interpretó como que la industria adopta la IA más rápido de lo que se acostumbra a ella. Los encuestados señalaron con frecuencia preocupaciones sobre derechos de autor y ética, impacto en el empleo, costos ambientales y la fiabilidad de los resultados de la IA. Aun así, no pocos reconocieron que las herramientas de IA pueden aportar beneficios reales si se usan en tareas operativas limitadas bajo supervisión humana."
+        }
+      ]
+    },
+    "books/books-caine-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Michael Caine prestó una versión de IA de su voz para una adaptación en audiolibro de la Odisea de Homero. El proyecto fue publicado por la empresa de tecnología de audio ElevenLabs."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/475/Michael_Caine__Jeff_Spicer.jpg",
+          "cap": "Michael Caine ⓒ Jeff Spicer"
+        },
+        {
+          "t": "p",
+          "x": "Caine licenció su voz a ElevenLabs a finales de 2025. La empresa usa clones de voz de actores para contenido generado por IA, incluidos audiolibros. Este proyecto conservó el tono áspero de Caine y su marcado acento cockney."
+        },
+        {
+          "t": "p",
+          "x": "El audiolibro se lanzó en exclusiva en la app ElevenReader de ElevenLabs. Además del clon de voz de IA de Caine, incluye un elenco completo que interpreta a los personajes, música original y efectos de sonido, todo producido con los modelos de audio de IA de ElevenLabs. Terminar la versión 'cinematográfica' de 13 horas tomó seis semanas."
+        },
+        {
+          "t": "p",
+          "x": "La noticia del audiolibro de la Odisea generó críticas en internet, con parte del sector especialmente dura respecto a la decisión de Caine de prestar su voz a este proyecto."
+        }
+      ]
+    },
+    "books/books-uk-ai-licensing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishers' Licensing Services (PLS) informó que más de 250 editoriales del Reino Unido se han unido a su esquema colectivo de licencias de IA, lanzado a comienzos de este año en la Feria del Libro de Londres (LBF)."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg",
+          "cap": "ⓒ Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La primera fase de la iniciativa anima a las editoriales a optar por el esquema de licencia colectiva. Se creó junto con la Copyright Licensing Agency (CLA) y la Authors' Licensing and Collecting Society (ALCS)."
+        },
+        {
+          "t": "p",
+          "x": "La solución de IA generativa de CLA incluye no solo licencias respaldadas por editoriales y autores, sino también un repositorio de contenido. Es un mecanismo que permite a las empresas de IA pagar tarifas de licencia y usar publicaciones de forma legal bajo directrices de uso claras y transparentes."
+        },
+        {
+          "t": "p",
+          "x": "Al optar por participar, las editoriales se suman a un esfuerzo colectivo para garantizar que el uso de su contenido por parte de modelos de IA sea compensado de forma legal y justa. Esto también abre un camino realista al mercado de licencias de IA para editoriales más pequeñas que tienen dificultades para negociar directamente con las grandes tecnológicas. En el año fiscal 2024-25, PLS devolvió 48 millones de libras a las editoriales a través de sus esquemas de licencias y permisos."
+        }
+      ]
+    },
+    "books/books-wiley-ai-revenue": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un día después de que McGraw Hill dijera en su último informe de resultados que ampliaría su uso de IA, Wiley también presentó sus resultados y sus planes de IA. Para el año fiscal que terminó el 30 de abril de 2026, Wiley dijo haber ganado $49 millones con acuerdos de licencias de IA. Señaló los acuerdos con IQVIA, OpenEvidence y una creciente cartera de clientes corporativos como los factores clave de ese crecimiento."
+        },
+        {
+          "t": "p",
+          "x": "En declaraciones preparadas, el presidente y CEO de Wiley, Matthew Kissner, dijo que en el año fiscal 2026 la empresa aceleró dos motores de crecimiento que se refuerzan mutuamente: la investigación, y la IA y el análisis de datos. Llamó a la IA \"a rapidly expanding recurring [revenue] stream\" (una fuente de ingresos recurrente que se expande rápidamente). Se espera que Emerald Publishing, adquirida a principios de este mes por $452 millones, impulse esto aún más. (Los resultados de Emerald no están incluidos en las cifras del año fiscal 2026 de Wiley.)"
+        },
+        {
+          "t": "p",
+          "x": "Los ingresos de Wiley fueron de $1,670 millones, casi iguales a los del año fiscal 2025. Sin embargo, el ingreso neto se disparó un 163%, hasta $221.6 millones, desde $84.2 millones un año antes. Los ingresos brutos del segmento de Investigación crecieron 5%, hasta $1,130 millones, impulsados por los programas de acceso abierto dorado y las licencias de IA. En cambio, el segmento de Learning vio caer sus ingresos 7% por vientos en contra macroeconómicos, canales minoristas débiles y menores ingresos por licencias de IA. El segmento Académico cayó 4%, hasta $96.1 millones, y el segmento Profesional cayó 9%, hasta $56.2 millones."
+        },
+        {
+          "t": "p",
+          "x": "Para el año fiscal 2027, Wiley prevé que sus ingresos, excluyendo Emerald, crezcan en un rango bajo a medio de un solo dígito. Se espera que Emerald añada $78 millones este año fiscal y también mejore la rentabilidad. La ronda de preguntas de los analistas estuvo dominada por la IA y el futuro de Wiley. Kissner dijo que Wiley está penetrando en múltiples industrias, señalando: \"Of these 19 customers, 12 are in life sciences, 4 in engineering, materials or chemistry, 2 in financial services, and 1 in ag and food science\" (de estos 19 clientes, 12 están en ciencias de la vida, 4 en ingeniería, materiales o química, 2 en servicios financieros y 1 en agricultura y ciencia alimentaria), y añadió que también trabaja con cuatro desarrolladores de LLM para fines de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "El CFO de Wiley, Craig Albright, señaló que la IA no solo impulsa los ingresos, sino que también mejora la eficiencia interna. Gracias a la IA, los costos corporativos no asignados se redujeron en $23 millones anuales y $9 millones en el cuarto trimestre. Dijo que ya hay iniciativas de productividad con IA funcionando en legal, marketing y operaciones de contenido, y que Wiley planea añadir más iniciativas orientadas a cambiar procesos y flujos de trabajo, lograr mejoras significativas de productividad y reducir costos anuales."
+        }
+      ]
+    },
+    "books/cambridge-std": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que la IA generativa y las herramientas agénticas se afianzan ampliamente en la investigación académica, la verificabilidad, la trazabilidad, la confianza y la conexión con el registro académico siguen siendo valores centrales que hay que mantener. La infraestructura de comunicación académica necesita adoptar nuevos estándares que respalden la procedencia, la atribución y diversas evaluaciones en estas nuevas herramientas."
+        },
+        {
+          "t": "p",
+          "x": "El propio término 'inteligencia artificial' se originó en un taller de 1956 en Dartmouth College. Fue donde John McCarthy, Claude Shannon, Nathaniel Rochester y Marvin Minsky organizaron juntos el proyecto de investigación de verano de Dartmouth."
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado, Cambridge University Press, COUNTER y NISO organizaron conjuntamente un taller para abordar los problemas entrelazados de atribución, procedencia y métricas de uso en la comunicación de investigación. Asistieron casi treinta expertos que representaban distintas posturas, desde bibliotecas y desarrolladores de herramientas de IA hasta financiadores, sociedades, editoriales, plataformas y proveedores de servicios de infraestructura."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/26-0508-Cambridge-Newton-Tree-scaled-e1781969265606-1024x915.jpeg",
+          "cap": "El manzano 'Flower of Kent' en la entrada del Trinity College de Cambridge. Se injertó a partir del árbol original de la casa natal de Newton."
+        },
+        {
+          "t": "p",
+          "x": "El taller partió del reconocimiento de que las métricas de uso existentes, como descargas, vistas, búsquedas y solicitudes, no capturan por completo cómo interactúan los sistemas de IA con el contenido académico. Las herramientas de IA pueden extraer pasajes o metadatos, generar resúmenes y combinar resultados de múltiples artículos sin que un investigador haga clic nunca en el artículo original o el capítulo del libro. Buena parte de la procedencia detrás de esos resultados no deja atribución ni cita alguna para un investigador que intente rastrearla."
+        },
+        {
+          "t": "p",
+          "x": "El mismo resultado de investigación puede usarse tanto en la interacción explícita con IA en el momento de la recuperación (etapa de inferencia) como en la interacción implícita en el momento del entrenamiento del LLM subyacente. Ambas necesitan métricas separadas, y este taller se centró en las métricas de la etapa de inferencia. Ese día surgió a menudo la metáfora de la 'cadena de suministro'."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes dejaron de lado por ahora el desarrollo de modelos y los problemas de exactitud de citas, y delinearon dos líneas de trabajo. La primera se basa en las mejores prácticas existentes de COUNTER AI, ampliando el marco de informes para cubrir el uso agéntico y el uso de contenido por herramientas de IA de terceros, algo que el grupo de trabajo de IA de COUNTER ya está abordando. La segunda trata por separado la exactitud de citas, la procedencia y los informes de uso, e incluye pilotos que prueban modelos de procedencia en aplicaciones de investigación y sistemas de búsqueda con IA."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a la procedencia, el taller destacó una distinción clave: la atribución dentro del modelo LLM subyacente es distinta de la atribución en los sistemas que rodean la recuperación, las API, los agentes y la entrega de contenido controlada por editoriales. La atribución a nivel de modelo es técnicamente difícil y complicada de abordar de inmediato. Un camino más realista es refinar la procedencia en los puntos donde el contenido se recupera, se entrega, se transforma, se cita y se reutiliza. Hay margen para estandarizar una carga mínima de procedencia para aplicaciones de investigación, que incluya identificadores persistentes, ubicación de la procedencia, marcas de tiempo, hashes de contenido, firmas digitales e información de versión y derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "El encuentro de Cambridge fue una señal clara de que muchas personas están dispuestas a abordar este problema. Señaló los próximos pasos: proyectos piloto, la construcción de consenso en torno a la alineación de estándares, y la colaboración entre editoriales, bibliotecas, proveedores de infraestructura y desarrolladores de IA. Ahora toca convertir ese interés en acción."
+        }
+      ]
+    },
+    "books/granta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/617/AI-artificial-intelligence-c-shutterstock1.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La Commonwealth Foundation concluyó que la obra ganadora de este año del Commonwealth Short Story Prize no fue escrita con IA. Aun así, Granta mantuvo su decisión de terminar la alianza con la fundación y de retirarse de todas las asociaciones externas de entrega de premios."
+        },
+        {
+          "t": "p",
+          "x": "Antes, las acusaciones de que la obra ganadora del escritor trinitense Jamir Nazir, 'The Serpent in the Grove', había sido escrita con IA sacudieron el Commonwealth Short Story Prize 2026 durante más de un mes. Nazir negó las acusaciones y explicó que, debido a una enfermedad crónica que le impide sentarse a escribir a máquina, escribe usando reconocimiento de voz en un teléfono Android."
+        },
+        {
+          "t": "p",
+          "x": "Tras consultar con los jurados y revisar toda la información disponible, la fundación afirmó que \"considera que la obra ganadora no fue escrita con IA\" y concluyó que todos los ganadores regionales quedaban libres de responsabilidad."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de dictaminar sobre algo que no se puede demostrar, la junta de Granta Trust decidió retirarse de las alianzas en las que no puede supervisar directamente la edición. Sin embargo, las obras finalistas permanecerán en línea \"por el interés público\"."
+        }
+      ]
+    },
+    "books/kidlit-campaign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/662/Triple-montage-template-3.jpg",
+          "cap": "Chris Haughton, Momoko Abe, Benji Davies"
+        },
+        {
+          "t": "p",
+          "x": "Autores e ilustradores infantiles lanzaron el 23 de junio la campaña 'We Are Better Than This' contra la IA generativa. La llamaron un 'levantamiento de creadores' contra la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "La campaña fue lanzada por los escritores e ilustradores Chris Haughton, Momoko Abe, Ged Adamson, Simona Ciraolo y Benji Davies."
+        },
+        {
+          "t": "img",
+          "src": "https://downthetubes.net/wp-content/uploads/2026/06/IMG_4913-1024x530.jpeg",
+          "cap": "Arte de la campaña 'We Are Better Than This' creado por Chris Haughton"
+        },
+        {
+          "t": "p",
+          "x": "En un comunicado conjunto, declararon: \"Como ilustradores y artistas, nuestro trabajo está siendo robado y usado en nuestra contra. Las empresas tecnológicas no solo van tras nuestro sustento, están cambiando el futuro mismo de la creatividad. Esto no es innovación, ¡es robo!\""
+        },
+        {
+          "t": "p",
+          "x": "La campaña exige que las obras creativas queden protegidas del entrenamiento de IA sin permiso, que los gobiernos actúen contra las grandes tecnológicas que usan el trabajo de los artistas sin consentimiento ni pago, y que la creatividad humana se priorice por encima del desarrollo de IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "El sitio web de la campaña es wearebetterthanthis.co.uk, y en Chuffed.org se está recaudando fondos con una meta inicial de 20.000 libras. La Association of Illustrators, la Society of Authors y Good Ship Illustration han dado su apoyo."
+        }
+      ]
+    },
+    "books/kobo-storygraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El lunes, StoryGraph, el popular servicio de registro de lectura, se asoció con Kobo de Rakuten. Los usuarios de los versátiles e-readers de Kobo, considerados una alternativa a Kindle, ahora pueden llevar el control de sus hábitos de lectura con mucha más facilidad."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/06/29193907/Rakuten_Kobo_Storygraph_feat-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "Ha comenzado una integración nativa oficial entre Rakuten Kobo y StoryGraph. Al conectar ambas cuentas, el historial de lectura, el progreso actual y si un libro se terminó se sincronizan automáticamente, sin necesidad de anotar nada a mano. Esto incluye los ebooks y audiolibros comprados directamente en la tienda de Kobo, los libros leídos mediante una suscripción a Kobo Plus, y los préstamos de bibliotecas públicas obtenidos a través de OverDrive o Libby. Sin embargo, los libros cargados mediante USB o la nube no son compatibles."
+        },
+        {
+          "t": "p",
+          "x": "Kobo se ha convertido en el primer e-reader conectado a la activa plataforma de comunidad lectora de StoryGraph. Es otro paso frente a Amazon, que domina el mercado de libros digitales. Amazon ha mantenido a los lectores durante mucho tiempo ofreciendo libros y ebooks a precios competitivos, además de sumar Goodreads, una amplia comunidad de lectura."
+        },
+        {
+          "t": "p",
+          "x": "Han aparecido y desaparecido muchos competidores de Goodreads. Pocos sobrevivieron mucho tiempo, sobre todo porque no lograron integrarse sin fricciones con los dispositivos e-reader. Goodreads, en cambio, se asoció con Kindle para crear una experiencia de uso sólida."
+        },
+        {
+          "t": "p",
+          "x": "Esta integración entre StoryGraph y Kobo cambia ese panorama. Al terminar un libro en un e-reader Kobo, se marca como 'leído' en StoryGraph sin ningún ajuste adicional, y las estadísticas de lectura se mantienen siempre actualizadas."
+        },
+        {
+          "t": "p",
+          "x": "Servicios de registro de lectura como StoryGraph ganaron popularidad al facilitar la organización de los libros leídos y los que gustaron, y al ofrecer recomendaciones personalizadas basadas en la lectura. Fiel a su nombre, StoryGraph va un paso más allá, desglosando en gráficos métricas como el ánimo y el ritmo de lectura para ayudar a los lectores a perfeccionar sus propios hábitos."
+        }
+      ]
+    },
+    "books/neurodiverse-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas de escritura con aprendizaje automático pueden ayudar a escritores neurodivergentes. Si está bien usarlas es otra cuestión. Megan Constable dice que se siente dividida al respecto."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Para un escritor que se congela frente a una página en blanco, la IA se convierte en un apoyo para armar un borrador, dar forma a la estructura y pulir las frases. Al bajar la barrera de entrada, empezar a escribir se vuelve mucho más fácil."
+        },
+        {
+          "t": "p",
+          "x": "Pero en el momento en que se depende de ella, se difumina el límite de quién es el autor y cuánto hay que revelar. La línea que separa lo que aporta el escritor de lo que aporta la herramienta ya no es tan clara como antes."
+        },
+        {
+          "t": "p",
+          "x": "Al final, este texto vuelve a preguntar, desde la óptica de la creación y la ética, para quién es realmente el apoyo de escritura con IA. La autora, Megan Constable, obtuvo un doctorado en escritura creativa en la Universidad de Loughborough y está preparando la publicación de una novela juvenil sobre una influencer de redes sociales ciega."
+        }
+      ]
+    },
+    "books/ferriss-aisales": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tim Ferriss publicó la semana pasada un texto en el que mostraba sus cifras de ventas de libros de los últimos años. Cree que la actual caída en las ventas de libros de autoayuda está ligada al aumento en el uso de IA por parte de la gente."
+        },
+        {
+          "t": "p",
+          "x": "La idea central es esta: las ventas de libros en papel cayeron un 57% entre 2024 y 2025, y este año pinta aún peor. Incluso sumando todos los formatos, las ventas del segundo semestre bajaron un 45%."
+        },
+        {
+          "t": "p",
+          "x": "Ferriss escribió: \"Mi agente, que ha comparado décadas de liquidaciones de regalías, lo dijo sin rodeos: 2025 fue la primera gran caída, 2026 pinta peor, y lo único que realmente ha cambiado entre medias es la aceleración de la IA. … Algunas editoriales señalan el crecimiento de YouTube y los podcasts, y seguramente también influye, pero a mí me parece un margen de error.\""
+        },
+        {
+          "t": "p",
+          "x": "Vale la pena leer su publicación completa, incluidos los comentarios, sobre todo si uno se dedica a la no ficción prescriptiva. Cree que autores y editoriales deberían dar más peso a la experiencia que a la información, y ayudar a un grupo de lectores definido de forma muy estrecha a lograr un cambio."
+        }
+      ]
+    },
+    "books/playbooks-insights": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Play Libros ha presentado Book Insights, un \"fiable asistente de lectura creado con Gemini.\""
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, la función está disponible en algunos libros en inglés, y, a juzgar por los ejemplos ofrecidos, en su mayoría obras de dominio público."
+        },
+        {
+          "t": "p",
+          "x": "'Catch Me Up' resume lo leído hasta el momento, y mientras se lee, se puede preguntar cosas como: \"¿Este personaje ya había aparecido antes?\" La fuente es una entrada del blog de Products & Platforms de Google."
+        }
+      ]
+    },
+    "books/pubperspectives": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tonies aspira a superar los 1.400 millones de euros (1.600 millones de dólares) en ingresos para 2030. La compañía afirmó que \"usa la IA para acelerar la localización, reducir los ciclos de desarrollo y aumentar la producción de contenido\". Su penetración actual en el mercado estadounidense es de alrededor del 12% de los hogares objetivo, todavía baja frente al 58% aproximado en la región DACH."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
+        },
+        {
+          "t": "p",
+          "x": "La Agencia de Asuntos Culturales de Japón puso en marcha el 18 de junio un consorcio público-privado para ampliar el alcance global del manga. La iniciativa respalda la traducción del manga a varios idiomas, comparte información de mercado y estudia crear una nueva plataforma de distribución entre editoriales. La agencia también respalda programas universitarios y de formación profesional que forman a nuevos talentos mediante traducción asistida por IA, con el objetivo de alcanzar 20 billones de yenes (124.300 millones de dólares) en ingresos por contenido en el extranjero para 2033."
+        },
+        {
+          "t": "p",
+          "x": "Yevgeny Kapiev, director general de Eksmo, calificó la IA de \"oportunidad y desafío a la vez\", y dijo que la empresa está impulsando unos 20 proyectos relacionados con la IA."
+        }
+      ]
+    },
+    "books/ssp2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Society for Scholarly Publishing (SSP) lleva más de una década formando a profesionales en etapa inicial mediante un programa de becas, y su reunión anual de 2026 se celebró en Chula Vista, California. Al preguntar a los becarios de este año por su momento más memorable, varios mencionaron los debates sobre IA."
+        },
+        {
+          "t": "p",
+          "x": "El discurso inaugural de la Dra. Chinasa Okolo fue especialmente comentado. Glory Akwa dijo que la charla \"recorrió el panorama y las perspectivas globales de la innovación en IA, haciendo hincapié en una aplicación adaptada al contexto.\" La charla se tituló \"La investigación científica en la era de la IA: hacia el pluralismo epistémico, la mayoría global y un bien común global del conocimiento.\""
+        },
+        {
+          "t": "p",
+          "x": "Hailey Dietbrenner dijo que Okolo hizo una lectura crítica de cómo la IA suele sostener a las poblaciones 'WEIRD' (occidentales, con estudios, industrializadas, ricas y democráticas) mientras deja de lado a la mayoría global. Rebecca Griffiths dijo que, mientras muchos paneles abordaron la IA desde modelos de negocio, flujos de trabajo y aspectos financieros, Okolo se centró en \"cómo orientar la IA hacia un bien público.\" Citó ejemplos del uso de la IA para la inclusión lingüística y la preservación cultural en países de la mayoría global, y señaló los costos ambientales de la IA, que, dijo, no se discuten lo suficiente."
+        },
+        {
+          "t": "p",
+          "x": "Otros becarios también mencionaron la IA como un tema recurrente. Lansford Asamoah dijo que los ponentes no trataron la IA \"solo como una amenaza o una solución\", sino que insistieron en \"una adopción responsable, transparencia y supervisión humana.\" Yamaya Jin presentó un póster titulado \"Entre la promesa y el riesgo: perspectivas de autores y editores sobre la IA.\""
+        }
+      ]
+    },
+    "books/writer-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/06/lara_voice_AI-blogpost-1000x667.png"
+        },
+        {
+          "t": "p",
+          "x": "Tawni Lara dice que no está en contra de la IA, pero sí defiende que los escritores encuentren su propia voz. Lo que un autor nuevo pierde cuando le pide a un chatbot que lo \"ayude\" con su escritura es su voz real. Los LLM convierten el texto en algo así como todo internet mezclado, homogeneizando la escritura para que suene, como dice Lara, \"no como tú, sino como un algoritmo.\""
+        },
+        {
+          "t": "p",
+          "x": "Lara ve la IA como una herramienta más entre las muchas que tiene un escritor a mano, no muy distinta de escribir a mano para captar una inspiración, organizar ideas con notas adhesivas de colores, intercambiar manuscritos con colegas o pulir el oficio en un taller. El chatbot es un atajo tentador, pero aplasta la voz de un autor nuevo."
+        },
+        {
+          "t": "p",
+          "x": "La memorista y profesora de escritura Amanda Montei dice: \"La voz de cada escritor es una mezcla de las influencias que ha recibido y la vida que ha vivido\", y añade que \"encontrar la propia voz entre el ruido es la mejor parte de escribir, y el propósito mismo de la escritura.\""
+        },
+        {
+          "t": "p",
+          "x": "Lara cree que escribir con IA agrava el síndrome del impostor. Entregar un texto escrito por IA y celebrar una nueva firma es como cruzar la línea de meta de una carrera para la que nunca te entrenaste. La única forma de que un escritor supere el síndrome del impostor es con práctica dura; no hay atajos."
+        },
+        {
+          "t": "p",
+          "x": "Andrea Bartz, autora de thrillers bestseller y parte en el caso 'Bartz contra Anthropic', aconseja \"dejarse llevar del todo por tu rareza y llevarla hasta el final\". \"Los LLM son máquinas de predicción, así que producen la palabra siguiente más probable, el desarrollo justo en medio de la curva de campana. Los libros que funcionan bien ahora son los que atrapan por ser extraños; no es momento de contenerse.\""
+        },
+        {
+          "t": "p",
+          "x": "La memorista Margot Steines dice: \"El trabajo del escritor es crear significado con palabras\", y añade que \"escribir con IA te priva del proceso que todo escritor necesita: lidiar con lo que no funciona y reescribirlo hasta que funcione\". Lara recomienda escribir primero un borrador tosco e imperfecto para ojos humanos, en lugar de prosa pulida pensada para un algoritmo."
+        }
+      ]
+    },
+    "books/commonwealth-ai-cleared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2026/02/robot-reading-book-1.jpg.optimal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tres escritores que habían sido sospechados de usar IA para escribir sus relatos ganadores del Premio Commonwealth de Relato Corto quedaron exonerados tras una investigación."
+        },
+        {
+          "t": "p",
+          "x": "La secretaria general Razmi Farook declaró: \"hemos pasado el último mes investigando a fondo las acusaciones de uso de IA\"."
+        },
+        {
+          "t": "p",
+          "x": "No se usaron herramientas de IA en la propia investigación, debido a cuestiones de \"propiedad artística y consentimiento\" en torno a manuscritos inéditos."
+        },
+        {
+          "t": "p",
+          "x": "En su lugar, se mantuvieron \"conversaciones detalladas\" con todos los ganadores regionales. No solo los tres escritores sospechosos, sino los cinco ganadores regionales \"cooperaron plenamente\"."
+        },
+        {
+          "t": "p",
+          "x": "Como prueba de su proceso creativo, los escritores presentaron \"borradores de trabajo, documentos con marcas de tiempo y notas\"."
+        },
+        {
+          "t": "p",
+          "x": "Farook concluyó que \"tras una amplia consulta con los jurados y una revisión cuidadosa de la información disponible, determinamos que las obras ganadoras no fueron escritas con IA\"."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, quedaron consecuencias. La revista literaria Granta puso fin a su colaboración con la Commonwealth Foundation y decidió no publicar las obras ganadoras."
+        },
+        {
+          "t": "p",
+          "x": "El ganador del Premio de Relato Corto 2026 se anunciará el 30 de junio, \"junto con videos de los ganadores regionales y sus fuentes de inspiración\"."
+        }
+      ]
+    },
+    "books/google-play-book-insights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2026/04/eyeglasses-coffee-newspapers-white-table-news.jpg.optimal.jpg",
+          "cap": "Noticias de libros de hoy"
+        },
+        {
+          "t": "p",
+          "x": "Las dos noticias principales del resumen de libros de hoy están relacionadas con la IA."
+        },
+        {
+          "t": "p",
+          "x": "Una es que un escritor sospechado de usar IA ganó el Premio Commonwealth de Relato Corto (Commonwealth Short Story Prize), en medio de una controversia continua sobre cuánto intervino la IA en la escritura."
+        },
+        {
+          "t": "p",
+          "x": "La otra es Book Insights, de Google Play Books. Es un asistente de lectura impulsado por Gemini que resume lo que has leído hasta el momento y permite hacer preguntas sobre el libro sin spoilers. Está pensado para ayudar sin interrumpir el ritmo de la lectura."
+        }
+      ]
+    },
+    "books/kobo-ai-rejections": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/660/Kobo-c-shutterstock_DuyAndy1699_1561496749.jpg",
+          "cap": "Rakuten Kobo"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de libros electrónicos Rakuten Kobo rechazó el 45% de los envíos que llegaron a su plataforma de autopublicación el año pasado."
+        },
+        {
+          "t": "p",
+          "x": "Ante la llegada masiva de libros generados por IA, Kobo reforzó la revisión en su servicio de autopublicación, Kobo Writing Life."
+        }
+      ]
+    },
+    "books/publishing-ai-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-15-at-8.25.15-PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Javier Celaya dice que \"la IA no es solo otro cambio incremental más.\" \"Toca todo lo que hace la edición: creación, curaduría, producción, traducción, marketing, distribución y gestión de derechos\"."
+        },
+        {
+          "t": "p",
+          "x": "La comprensión de la IA en el sector editorial va en aumento. Mucha gente usa chatbots a diario y prueba herramientas de redacción, corrección y traducción, pero pocos han creado un agente de IA para rediseñar un flujo de trabajo o han usado un LLM para comparar escenarios de negocio. Saber usar una herramienta es distinto de entenderla, y Celaya ve esta brecha como el mayor punto ciego del sector."
+        },
+        {
+          "t": "p",
+          "x": "Tras 20 años trabajando en edición e industrias creativas, este año se inscribió en un máster ejecutivo en IA del Instituto de Inteligencia Artificial (IIA) de España. Lo que buscaba no era un curso acelerado de prompts, sino entender de verdad cómo se construyen y entrenan los modelos, quién es dueño de los datos y dónde están los límites de la IA."
+        },
+        {
+          "t": "p",
+          "x": "El programa cambió su forma de abordar la IA. Ahora, antes de abrir una herramienta, piensa con precisión qué quiere que haga un agente. También sabe qué preguntas hacer cuando un proveedor promete que su modelo \"se entrenó con datos limpios\" o evita hablar claramente de soberanía de datos y políticas de reutilización. El escepticismo informado, dice, vale más que dominar una sola herramienta."
+        },
+        {
+          "t": "p",
+          "x": "Cuenta que observar cómo la salud, el automóvil, la farmacéutica y el entretenimiento incorporan la IA en sus operaciones centrales le dio una perspectiva comparativa sobre dónde fallaron y qué generó valor real. La edición habla de la IA desde una postura defensiva, mientras otros sectores ya han puesto en marcha proyectos con las mismas herramientas que nosotros apenas debatimos."
+        },
+        {
+          "t": "p",
+          "x": "El interés del sector editorial por la IA se queda casi por completo en el ahorro de costes. Pero eso es el suelo de lo que la IA puede hacer por la edición, no el techo. Faltan las preguntas que realmente definirán la próxima década: qué se puede automatizar por completo, dónde deben seguir estando las personas, y cómo puede la IA hacer crecer la edición y no solo recortar sus costes."
+        },
+        {
+          "t": "p",
+          "x": "Por ejemplo, la traducción con IA que convierte libros electrónicos y audiolibros a varios idiomas podría llevar títulos y autores clave a nuevos lectores a una escala nunca vista. Una vez que el idioma y la localización dejan de ser un cuello de botella, el marketing y la distribución pueden redibujarse de lo local a lo global. La oportunidad es grande, pero pocos la están analizando a fondo."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta más difícil es si conviene ser socio o adversario de las empresas de IA. La respuesta de Celaya es \"las dos cosas\". No se puede ignorar que muchas empresas de IA entrenaron con obras protegidas por derechos de autor sin consentimiento ni compensación, y las editoriales deben exigir que se corrija. Los litigios y las negociaciones de colaboración no son contradictorios: son dos caminos que pueden avanzar a la vez."
+        },
+        {
+          "t": "p",
+          "x": "Dice que, para cualquier puesto directivo, la formación en IA debería ser un requisito, no una recomendación. Sin una comprensión estructural de lo que la IA puede y no puede hacer, no se puede fijar de forma responsable una estrategia de IA para una editorial o una plataforma de streaming."
+        },
+        {
+          "t": "p",
+          "x": "Los líderes que mejor naveguen la era de la IA no serán quienes la conozcan de forma abstracta, sino quienes la entiendan con la profundidad suficiente para hacer las preguntas correctas a sus equipos, a sus socios tecnológicos y a los propios modelos."
+        }
+      ]
+    },
+    "books/librarian-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Que casi el 90% de los bibliotecarios universitarios diga ahora que acepta la IA como una herramienta legítima en su institución puede parecer el fin del debate. Esa fue la cifra destacada en una encuesta reciente a 311 bibliotecarios de 31 países. Pero la legitimidad no es lo mismo que el entusiasmo. La aceptación institucional no se traduce automáticamente en convicción individual."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2024/01/iStock-496956852.jpg",
+          "cap": "Un robot de juguete leyendo un libro"
+        },
+        {
+          "t": "p",
+          "x": "En varias regiones, los bibliotecarios dijeron ser más cautelosos con la IA que el personal administrativo o el profesorado. A diferencia de los administradores centrados en la adopción o los investigadores entusiasmados con las nuevas funciones, los bibliotecarios ven tanto el potencial de esta tecnología como sus debilidades prácticas."
+        },
+        {
+          "t": "p",
+          "x": "En Estados Unidos, alrededor del 30% de los encuestados mostró rechazo activo o falta de uso, mientras que casi el 40% en el Reino Unido e Irlanda no respondió o se mostró negativo. El escepticismo fue especialmente alto en Canadá. Los encuestados de Oriente Medio, África, India y Asia-Pacífico fueron más pragmáticos, y a menudo aplicaron la IA a tareas específicas y definidas."
+        },
+        {
+          "t": "p",
+          "x": "La vía por la que la IA llega a las universidades explica en parte la distancia de los bibliotecarios. Las licencias para todo el campus suelen venir integradas en el software empresarial existente, de modo que para los departamentos de TI o la dirección parece una actualización de un servicio que ya usaban. Por eso la aceptación institucional avanza más rápido que el entusiasmo individual. Un encuestado lo señaló así: \"Va desde la prohibición total hasta la aceptación total, según el departamento, y todos nos apoyamos en la 'libertad académica' para dejar que los profesores decidan las reglas para los estudiantes.\""
+        },
+        {
+          "t": "p",
+          "x": "La confianza es el tema central en cómo los bibliotecarios abordan la IA. Las bibliotecas han actuado durante mucho tiempo como intermediarias que seleccionan colecciones, verifican fuentes de información y guían a los investigadores. Muchos bibliotecarios se sienten incómodos con la naturaleza de 'caja negra' de los grandes modelos de lenguaje, que producen resultados plausibles sin mostrar casi nada de cómo se llegó a ellos. El comentario de un encuestado revela esa preocupación: \"La IA genera alucinaciones e inventa artículos que no existen, y cuando la gente los solicita, se pierde su tiempo y el nuestro.\""
+        },
+        {
+          "t": "p",
+          "x": "Solo el 47% de los encuestados, menos de la mitad, había establecido directrices formales. Un problema más visible es a quién corresponde la responsabilidad. En muchas instituciones, especialmente en Europa, la responsabilidad de la gobernanza de la IA no recae en la biblioteca, sino en los departamentos de TI, las oficinas de investigación o la dirección. Un encuestado describió así esa fragmentación: \"No hay nadie a cargo, ni un organismo central que lidere los esfuerzos de IA. Simplemente ocurre de forma dispersa por todo el campus.\""
+        },
+        {
+          "t": "p",
+          "x": "El auge de la IA es tanto un reto como una oportunidad para los bibliotecarios. A lo largo de décadas, las bibliotecas han pasado de gestionar colecciones físicas a apoyar la investigación digital, la gestión de datos y la publicación en acceso abierto, y la IA podría ser la siguiente fase. Como dijo un encuestado, \"el consenso es que la IA es una herramienta transformadora que necesita orientación, no rechazo\"."
+        },
+        {
+          "t": "p",
+          "x": "Las implicaciones para las editoriales académicas tampoco son menores. El estudio señala que lo que más desean los bibliotecarios de las editoriales no es participar directamente en la gobernanza institucional, sino transparencia: que las propias editoriales expliquen con claridad cómo usan la IA, qué protecciones aplican a sus contenidos y, sobre todo, qué medidas toman para salvaguardar la integridad de la investigación."
+        }
+      ]
+    },
+    "books/storytel-genie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.storytelgroup.com/en/wp-content/uploads/sites/2/2021/10/storytel-genie-260617.png",
+          "cap": "Storytel Genie"
+        },
+        {
+          "t": "p",
+          "x": "El servicio de audiolibros Storytel presenta funciones de IA que resumen capítulos, mantienen conversaciones y ofrecen una lista personalizada de 'Top Picks' para ayudar a los oyentes a elegir qué escuchar a continuación."
+        },
+        {
+          "t": "p",
+          "x": "Storytel Genie es un compañero de IA que añade una capa de interacción y personalización a la experiencia del audiolibro. Interpreta el contexto y el estado de ánimo del usuario, explica por qué un libro en particular puede resultarle interesante, ayuda a elegir la próxima historia y genera resúmenes cuando el oyente pierde el hilo."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres funciones. Primero, 'Chat' es una interfaz para hablar con Genie en cualquier parte de la aplicación y recibir recomendaciones de libros, además de más contexto sobre un libro o autor en particular. Segundo, 'Recap' resume en fragmentos breves los desarrollos recientes de la trama, para volver de inmediato a la historia tras perder el hilo, tomar un descanso o quedarse dormido a mitad de capítulo. Tercero, 'Top Picks For You' ofrece recomendaciones hiperpersonalizadas basadas en el historial y los gustos de cada oyente, con una breve descripción que destaca lo esencial de cada libro."
+        },
+        {
+          "t": "p",
+          "x": "Genie está construido sobre una arquitectura de agentes específica para libros, que combina modelos de lenguaje avanzados de Google Gemini, OpenAI y Anthropic con las capacidades de conocimiento en tiempo real de Exa. Una capa de metadatos propia de Storytel ancla firmemente la IA al material original para proteger la propiedad intelectual."
+        },
+        {
+          "t": "p",
+          "x": "El director de producto y tecnología, Johan Ståhle, dijo: \"Storytel Genie realmente define el próximo capítulo de Storytel: uno que avanza hacia una experiencia de lectura más personal, inmersiva e interactiva\"."
+        },
+        {
+          "t": "p",
+          "x": "Genie se lanza hoy primero para los suscriptores en Suecia y estará disponible en todo el país antes del 1 de julio. Otros mercados se abrirán sucesivamente a partir de agosto."
+        }
+      ]
     }
   }
 }

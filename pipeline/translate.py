@@ -215,7 +215,10 @@ def commit_archive(root, archive, vcards):
                 fulls.setdefault(f"{l}/{rec['section']}", {})[key] = {"blocks": blocks}
     for name, part in fulls.items():
         merge_premium(os.path.join(root, "premium", f"{name}.json"), part)
-    _save(os.path.join(root, "pipeline", "archive.json"), archive)
+    # indent=1, the same layout build_archive.py writes, so the daily run and a
+    # backfill don't rewrite each other's whole file (and conflict on merge).
+    with open(os.path.join(root, "pipeline", "archive.json"), "w", encoding="utf-8") as f:
+        json.dump(archive, f, ensure_ascii=False, indent=1)
 
 
 def _load_answers(path):

@@ -1065,6 +1065,564 @@
           "x": "ElevenLabs raised $500 million from Sequoia earlier this year at a $11 billion valuation. Rumors are also circulating about a follow-on round at a $22 billion valuation. Annualized revenue jumped from about $330 million at the start of the year to more than $600 million. Aggressive hiring in India, Europe and Brazil has pushed headcount past 800. Co-founder and CEO Mati Staniszewski said in a recent TechCrunch interview that the company plans to go public \"within the next few years,\" though he did not give a specific timeline."
         }
       ]
+    },
+    "music/ai-licensing-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/06/no-consent-2026-press-umg-cr-MAC-billboard-1800.jpg",
+          "cap": "Artists' message: no AI licensing without consent"
+        },
+        {
+          "t": "p",
+          "x": "On June 22, 2026, a global coalition of artists, songwriters, and managers issued an open letter opposing how labels and publishers license AI music. The core point: \"Labels and publishers insist AI companies must get permission to train on their catalogs, while denying artists and songwriters that same right.\""
+        },
+        {
+          "t": "p",
+          "x": "The letter raises three problems: artists are told they are automatically enrolled in AI use with little real choice, new-artist contracts default to 'unlimited, exclusive rights' clauses for AI training, and training (input) is distinguished from output while training requirements are barely mentioned."
+        },
+        {
+          "t": "p",
+          "x": "The coalition, which includes Music Artists Coalition, Songwriters of North America, and The Ivors Academy, demands three principles: specific consent and control, fair compensation and transparent distribution, and clear requests with defined purpose, duration, and the right to withdraw. The letter closes by saying \"the future of music must be built with artists, songwriters, and their representatives, not imposed on them.\""
+        },
+        {
+          "t": "p",
+          "x": "IFPI countered that music companies protect artists' interests by suing over unauthorized AI use and running licensing models that return revenue to creators."
+        }
+      ]
+    },
+    "music/ai-training-dataset-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Music-Download@2000x1500.jpg",
+          "cap": "Music download (Credit: Epoxydude / Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "A search tool built by The Atlantic now lets you check whether a musician's work was used to train AI models. The database is based on reporting by Atlantic journalist Alex Reisner. He recently identified four major music datasets used in AI development and made them searchable to anyone."
+        },
+        {
+          "t": "p",
+          "x": "Together, the four datasets hold millions of songs, from famous artists to independent musicians to underground producers. Two are especially large, holding about 12 million and 9 million songs respectively, and the other two each have more than 100,000 songs."
+        },
+        {
+          "t": "p",
+          "x": "According to Reisner, the datasets have already been downloaded \"thousands of times.\" Google and Stability AI have acknowledged using some of the material in research papers. Some sources, like the Free Music Archive dataset, allow personal listening but require a license for commercial use."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Atlantic-AI-Tool@2000x1500.jpg",
+          "cap": "The Atlantic's AI Watchdog tool"
+        },
+        {
+          "t": "p",
+          "x": "Reisner sees the datasets as ultimately exposing a gap between how AI companies describe their data and how it's actually collected. Developers say they only used \"freely available\" material, but the reality is more complicated. Much of it circulates as \"lists of track links\" posted on YouTube or Spotify, and AI developers use automated tools to bulk-download the audio. Some of this bypasses mechanisms like logins or ads that generate revenue for creators. Reisner points out that \"such tools violate these platforms' terms of service.\""
+        },
+        {
+          "t": "p",
+          "x": "The result is a training landscape where commercially released music is technically abundant and accessible, but consent, compensation, and transparency remain murky. The argument that training on copyrighted material counts as \"fair use\" is also a line AI companies like Suno and Anthropic often invoke."
+        },
+        {
+          "t": "p",
+          "x": "The datasets include music across genres and eras. Daft Punk, Aphex Twin, and Radiohead are in there, along with Wu-Tang Clan and Jack Antonoff. Antonoff has long opposed AI music production. \"The idea of optimizing what we do completely misses the point,\" he said, adding that he and his colleagues \"have never wanted this work to be faster or easier.\" Users can search The Atlantic's AI Watchdog tool for music, books, and other media that may have been used in AI training."
+        }
+      ]
+    },
+    "music/apple-music-understanding": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple unveiled the Music Understanding framework at WWDC 2026. It's a tool for analyzing audio on-device across Apple platforms."
+        },
+        {
+          "t": "p",
+          "x": "The framework lets apps process audio and extract six musical elements along with timing information. AnalyzedRhythm captures beat positions, bar boundaries, and BPM tempo. Key finds the tonality (tonic and mode) of a given section. Loudness measures integrated, short-term, momentary, and peak loudness according to industry standards."
+        },
+        {
+          "t": "p",
+          "x": "Pace measures perceived energy and drive using events per minute, separate from fixed tempo. Structure divides a track into structural sections, segments, and phrases. Instrument Activity identifies which instruments play and when."
+        },
+        {
+          "t": "p",
+          "x": "A commenter named Palomorado raised concerns about education. \"I can already picture ear-training class newcomers complaining, 'there's an app for this.'\""
+        }
+      ]
+    },
+    "music/genome-intro-free": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/TwoNotes-GenomeIntro.jpg",
+          "cap": "Two Notes Genome Intro"
+        },
+        {
+          "t": "p",
+          "x": "Two Notes Audio Engineering released Genome Intro, a free entry-level version, alongside Genome 2.0. It supports AU, VST3, and AAX formats for macOS and Windows."
+        },
+        {
+          "t": "p",
+          "x": "It's packed with content despite being free: 4 amp models, 14 pedals, 5 cabinets, and 4 studio effects. The core is the CODEX AI amp playback engine, which loads and plays Neural Amp Modeller, AIDA-X, and Proteus captures on one screen."
+        },
+        {
+          "t": "p",
+          "x": "The four stock amps are Albion '59 (Marshall Super Lead 1959), Gemini '64 (Fender Twin Reverb), Peggy '76 (Ampeg SVT 1796), and PVH50 (Peavey 5150). Among the pedals, classics like Green Mini (Ibanez TS9 Tube Screamer) and Foxy Wah 46 (Vox V846) stand out. The DynIR virtual cabinets include the Fender Bassman, Peavey 5150, and Ampeg V-9 bass cabinet, among others."
+        },
+        {
+          "t": "video",
+          "yt": "rROb71haXTQ"
+        },
+        {
+          "t": "p",
+          "x": "The studio effects consist of Studio Twin Tracker, EQ, reverb, and CODEX, plus a MIXFIT section for shaping tone. Pricing: Genome Intro is free, Genome is 129.99 euros (discounted to 89.99 euros), and Genome Suite is 299.99 euros (discounted to 159.99 euros)."
+        }
+      ]
+    },
+    "music/vibe-coding-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The way music gets made is changing, as 'vibe coding' spreads, where you describe something to AI in words and it builds an audio plugin on the spot. Rick Rubin called this approach \"the punk rock of software.\""
+        },
+        {
+          "t": "p",
+          "x": "ChatDSP, built by Dylan Baston, is a Max for Live device for Ableton Live. It builds instruments, effects, and MIDI effects from text prompts and exposes up to 48 mappable parameters. Using the AI requires an API key and credits, and it now accepts local AI models in addition to Claude and ChatGPT."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3XfhqWZqSstMgo2BQKtash.png",
+          "cap": "ChatDSP for Max for Live"
+        },
+        {
+          "t": "p",
+          "x": "Amorph, from Artists in DSP, is a free browser-based generator. It builds VST3 and AU plugins for Mac and PC that work with most major DAWs. It's currently in v0.99 beta, supporting custom UI generation and sample-accurate MIDI timing. The next version is expected to add direct AI communication and a marketplace feature."
+        },
+        {
+          "t": "video",
+          "yt": "CJ806YGSQlE"
+        },
+        {
+          "t": "p",
+          "x": "Pluginmaker.ai also builds VST and AU plugins in the browser. You can test them in real time with MIDI, a keyboard, or a sequencer, and it runs on a credit-based subscription. There's also a marketplace (10% fee) for buying and selling plugins you've made, and it stands out for its polished graphical interface."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png",
+          "cap": "Browser-based plugin generator Pluginmaker.ai"
+        },
+        {
+          "t": "p",
+          "x": "Leo Viascar-Caroni, CEO of Artists in DSP, said \"writing code by hand will disappear within a few years,\" adding that \"what's left is the fun part.\" Pluginmaker.ai co-founder Dominik Bilski said \"the goal is to let anyone build the plugin they imagine at low cost.\" Dylan Baston, who made ChatDSP, added that \"some of the criticism reminds me of classical musicians who hated keyboards, drum machines, and DAWs.\""
+        },
+        {
+          "t": "p",
+          "x": "It isn't all rosy. The article also notes concerns: the environmental burden of data centers using up to 5 million gallons of water a day, training on copyrighted material without consent, threats to existing plugin developers' livelihoods, and worries that so-called 'AI slop' could lower production quality."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ucNewzs29HXF2jnCNciNs6.jpg",
+          "cap": "A Polyend Endless pedal with a custom faceplate"
+        },
+        {
+          "t": "p",
+          "x": "Even so, the article concludes the two approaches can coexist. The comparison is that restaurants haven't disappeared just because everyone can cook."
+        }
+      ]
+    },
+    "music/berklee-summit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hypebot covered the first AI Music Summit (AIMS) held by Berklee College of Music in a June 29 piece by Ryan Blakeley. Hundreds of industry figures gathered at the event, held in Boston from June 3 to 5, while outside, students protested the school's AI policy."
+        },
+        {
+          "t": "p",
+          "x": "First, AI music is far broader than text-to-song generators. It spans assistive, generative and agentic applications across production, composition, stem separation, sampling, effects processing and royalty calculation. Elizabeth Moody pointed to a branding problem that comes from lumping different technologies together under one name."
+        },
+        {
+          "t": "p",
+          "x": "Second, generative AI is both an evolution and a revolution. The phonograph, MIDI and streaming all shook up the industry too, but generative AI is unprecedented in democratizing music creation. 75,000 AI-generated tracks are uploaded to Deezer every day. That raises genuinely new challenges around copyright, NIL protections, and the pace at which technology is outrunning the law."
+        },
+        {
+          "t": "p",
+          "x": "Third, it's fine to feel ambivalent. The discussion was balanced rather than uncritical advocacy. Composer Lucas Cantor Santiago criticized companies like Suno, saying it's \"like solving a math problem no one asked,\" while strategist Drew Thurlow defended the creative possibilities of generative AI."
+        },
+        {
+          "t": "p",
+          "x": "Fourth, artists need to be at the center. Holly Herndon, Jordan Rudess and L'Rain took part in performances and presentations. While AI companies raise enormous sums — Suno raised $400 million (a $5.4 billion valuation), ElevenLabs raised $500 million ($11 billion) — artists worry that sync placements and background-music work could disappear."
+        },
+        {
+          "t": "p",
+          "x": "Fifth, a generational divide showed itself. Ahead of the summit, students opened the Instagram account @berkleeagainstai, which passed 1,000 followers within days. Theo Wheeler, who took part in the protest, said, \"I want to know how to navigate this once I graduate and go to work. Where do our jobs go?\""
+        }
+      ]
+    },
+    "music/deezer-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deezer unveiled a new feature that lets listeners remix songs within the platform. Fans add their own touch to popular tracks, while revenue flows back to artists and rights holders."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/deezer-remix-lab@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The feature, called Remix Lab, is available first only in France. The company plans to roll it out more widely soon, but for now it's accessed directly in the app through Deezer Club."
+        },
+        {
+          "t": "p",
+          "x": "The feature runs as a remix contest. It can be found through Deezer Club or an artist's page in the app. Finished remixes can be streamed instantly, added to playlists and shared with the community — all only on Deezer."
+        },
+        {
+          "t": "p",
+          "x": "Winners of the early-stage contest will be featured on a dedicated playlist of winning remixes, and will receive two tickets to Deezer's Purple Door event in September along with merchandise from the artist whose song they remixed."
+        },
+        {
+          "t": "p",
+          "x": "Deezer has promoted better artist payouts. It says participating artists gave \"explicit consent,\" and that any streams generated are fully attributed to the original work. \"Every listen counts, and artists are compensated according to the rights they're owed,\" the company explains."
+        },
+        {
+          "t": "p",
+          "x": "Deezer claims to be the first streaming platform to launch a remix feature with rights fully protected and agreed with artists. However, similar tools already exist — Spotify recently launched a remix tool together with Universal Music Group."
+        },
+        {
+          "t": "p",
+          "x": "Spotify's remix feature also pays participating artists, but it uses generative AI to create remixes. Deezer's tool appears not to use AI, instead giving fans a tool to add effects and transformations themselves."
+        },
+        {
+          "t": "p",
+          "x": "Deezer's head of product, Pierre Trochu, says, \"This feature is focused on simplicity and accessibility. With just a few clicks, you can remake a song you already know and love — from simple effects like speeding it up or adding reverb, to sophisticated transformations that change the genre and style.\""
+        },
+        {
+          "t": "p",
+          "x": "Deezer CEO Alexis Lanternier added, \"This remix tool captures exactly our vision for products that enrich the listening experience, letting fans take part in the creative process and connect more deeply with the music they love.\""
+        }
+      ]
+    },
+    "music/latent-terrain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'I'm not that interested in typing a prompt to make something. I'm drawn to breaking it apart and dissecting it.' That's what Jasper Shuoyang Zheng said introducing Latent Terrain, an intuitively and elegantly designed open-source Max external and UI that lets you play the unfamiliar world of neural audio codecs like an instrument, turning your own sounds into new textures."
+        },
+        {
+          "t": "p",
+          "x": "It's a different breed from the hyped-up music AI making headlines. Here, the source of the data is the user's own sound. Processing runs on your own computer too, not a water-guzzling data center. Above all, it's beautiful and strange, and you can handle it directly through playing technique."
+        },
+        {
+          "t": "p",
+          "x": "That's why musicians and experimenters are gathering around it. It turns the neural network back into a tool for discovering new sounds, rather than one that makes every sound the same."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/06/web1s-1-1024x379.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Latent Terrain is a good place to start, especially for Max users already using FluCoMa or Data Knot. It generates a visual map like a warped texture, and you can navigate inside it however you like — with a mouse or a controller. You can also train a small neural network directly inside Max and watch as timbre breaks apart, splits, and melts into new material."
+        },
+        {
+          "t": "p",
+          "x": "Keigo Yoshida's work is a good example for getting a sense of the sound. It's a piece that translates EEG readings into sound."
+        },
+        {
+          "t": "p",
+          "x": "Beyond simple demos, there are artistic works that push the technology toward unpacking the meaning of sound. Jiatong Liu's nn/mémoire is a virtual gallery soundscape built from recorded sound of Beijing's hutong alleys. The rapidly disappearing sound world of the city becomes an ambient archive you wander through in space. Liu named 'learning to work with unpredictability' as a core design challenge rather than a problem to eliminate."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/06/005-docs-1024x381.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The documentation is excellent too. Jasper's own piece, 'Latent Terrain: Dissecting Neural Audio Codecs,' offers a good guide to the work and its possibilities. There's also a separate project page covering the research."
+        },
+        {
+          "t": "p",
+          "x": "Example Max for Live devices are coming soon too, letting you choose from different audio autoencoders depending on the result. Several already-popular ones are supported. It's available to download for Max on macOS and Windows, and for Max for Live. The project will also be presented at NIME in London later this month."
+        }
+      ]
+    },
+    "music/tidal-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tidal said it will not monetize AI-generated content, shifting that responsibility toward distributors. Its position is that \"the responsibility for identifying and tagging AI-generated content shouldn't fall on Tidal alone.\""
+        },
+        {
+          "t": "p",
+          "x": "Starting in mid-July, it will begin identifying and tagging AI-made songs. At first it will only label music that is 100% AI-generated, with plans to expand the scope to works \"substantially made with AI\" as detection technology improves."
+        },
+        {
+          "t": "p",
+          "x": "Its royalty policy is also clear. \"Tidal's priority is to make sure royalties go to original works made, written and performed by humans,\" it said, adding that it will knowingly withhold royalties from music made entirely by AI."
+        },
+        {
+          "t": "p",
+          "x": "AI music that exploits another creator's work, name or likeness will be blocked or removed. \"We won't tolerate AI music that exploits an individual's or group's music, name or likeness, deceives listeners, or degrades the quality of the service,\" it said."
+        },
+        {
+          "t": "p",
+          "x": "AI-made songs will continue to be allowed as long as they're properly labeled and meet the standards. The same standards apply to independent artists who upload their own songs directly as to existing distributors."
+        },
+        {
+          "t": "p",
+          "x": "The industry is split. Bandcamp fully banned AI songs in January and iHeartRadio has also moved to ban them, while Spotify opened up generative AI features in partnership with Universal Music Group."
+        }
+      ]
+    },
+    "music/waveform14": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tracktion's DAW Waveform got a major update, moving up to version 14. It adds features that help musicians and producers work more freely without hurting the software's performance. The core additions are a new LLM-based AI assistant, a redesigned GUI, multichannel audio routing, and expanded ARA2 support."
+        },
+        {
+          "t": "p",
+          "x": "The AI assistant stays close to the DAW, offering context-aware help and creative support without taking your eyes off the music. It searches the software manual to answer questions, lays out multiple composition ideas or creates new MIDI sequences, and analyzes existing clips to write matching parts. It runs on a pay-as-you-go basis rather than a subscription."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tracktion_waveform_14-0KCBTCQ.GUc29XsshV2PxaYGHOK_Eb0L.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The limitation of being tied to two channels has also been lifted. Input/output buses now handle multichannel audio, and the software can record or import multichannel files, with the tools needed for surround and spatial audio formats. ARA2 support has also expanded significantly — any ARA-compatible plugin can be used in time-stretch mode, and global and chord track information is passed directly to plugins."
+        },
+        {
+          "t": "p",
+          "x": "The interface has also been smoothed out. The lower properties panel has been replaced with a new clip editor, making editing faster and more intuitive. The color scheme, icons and fonts have been refined, the title bar has been unified, and 18 colors can be assigned to taste. Also added: project management that drops legacy .tracktion files, DAWproject import/export for exchanging with other DAWs, and a raised plugin instance cap of 25."
+        },
+        {
+          "t": "p",
+          "x": "It runs on Windows 10 and above and macOS 13 and above, with Linux support coming soon. It's available to buy now, priced from $249, with a 40% discount for a while to mark the June 29 launch."
+        }
+      ]
+    },
+    "music/atlantic-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Atlantic has published four searchable databases as part of its 'AI Watchdog' project. Together they hold more than 20 million songs believed to have circulated around AI music generators such as Suno, Udio, and Google's Lyria. You can now check for free whether your name or band appears anywhere in this training data. At first it sounds like welcome news for transparency, but it is not quite as reassuring as it seems."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/06/KI-Trainingsdaten-2026-T-770x425.jpg",
+          "cap": "AI training data 2026: The Atlantic reveals whose music went into Suno and Udio · Source: The Atlantic / Marcus Schmahl"
+        },
+        {
+          "t": "p",
+          "x": "The person behind this work is Alex Reisner. He has spent a while tracking AI training data for The Atlantic, previously covering books and research papers, and this time music. The result is four databases of varying sizes. The largest comes from the German nonprofit LAION, holding 12,320,916 songs scraped from YouTube — 91 years' worth of music. The second holds about 9 million songs, and the two smaller ones each hold around 100,000 songs. One of them was built on the Free Music Archive, started by the radio station WFMU."
+        },
+        {
+          "t": "p",
+          "x": "There's an important caveat. Most of these datasets don't contain the audio files themselves, only links to YouTube or Spotify. Automated tools fetch the actual songs from those links, sometimes bypassing nearly every mechanism that sends money to artists, including logins and ads. Even so, there are still few lawsuits or clear rules to stop this kind of scraping."
+        },
+        {
+          "t": "p",
+          "x": "What stands out about Reisner's work is that the search is completely free. There's no paywall. Just type in an artist's name. Berlin-based musician Heinbach says he found 151 of his own songs in a single dataset. Breakcore producer sophia_hjkl posted that 138 of their tracks were scattered across two datasets — by their own account, essentially their entire output from 2017 to 2024."
+        },
+        {
+          "t": "p",
+          "x": "In June 2024, we covered major labels weighing lawsuits against Suno and Udio, which has since grown into a tangle of ongoing legal proceedings. At the time, the RIAA sued for massive copyright infringement on behalf of Universal Music Group, Sony Music, and Warner Music Group, and trade press puts the number of suits against the two companies at at least a dozen. Just weeks ago, Universal and Sony moved to add more than 61,000 recordings to their lawsuit against Suno. Warner has already settled with Suno outside of court, however, as has Universal with Udio."
+        },
+        {
+          "t": "p",
+          "x": "Suno is defending itself with a fair-use argument, claiming that training generative models on copyrighted recordings qualifies as transformative use under 17 U.S.C. § 107. The central hearing in the case is set for July 2026, before Judge Denise Casper in federal court in Massachusetts. Udio, in filings from Sony's side, has acknowledged using publicly available audio for training while disputing that this amounts to infringement. Nothing has been decided yet."
+        },
+        {
+          "t": "p",
+          "x": "In the end, all of this came to light only because four datasets were floating around publicly and researchers managed to get hold of them. Companies that kept their training sources entirely secret don't appear in this investigation at all, simply because no one could look inside. Reisner himself notes that this is only the tip of the iceberg. The first thing to do is clear: search for your own name or your band's name in Reisner's tool. It's free and takes less than a minute."
+        }
+      ]
+    },
+    "music/consent-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "31 groups representing artists, songwriters, and their managers signed an open letter. They include the UK's FAC, Ivors Academy, and MMF. As record labels and music publishers begin striking licensing deals with AI companies, the letter calls on them to make several commitments to music creators, spanning creator consent, fair compensation, and contract transparency."
+        },
+        {
+          "t": "p",
+          "x": "The letter was led by the European Music Managers Alliance (EMMA). Its CEO, Jess Partridge, says, \"Amid this deluge of AI deals, EMMA has coordinated this letter out of growing concern over the land-grab on artist and songwriter rights.\" He adds that the way major music companies are pushing forward unilaterally in the AI space \"is not the way to build a healthy, artist-centred music ecosystem,\" warning that \"it risks repeating the mistakes of the past.\""
+        },
+        {
+          "t": "p",
+          "x": "The letter starts by noting that labels and publishers, especially majors, are now \"negotiating AI deals that will shape the future of music.\" These include the AI deals announced with Suno, Udio, KLAY, and Spotify. Even so, it says, \"the artists and songwriters whose work, voice, performance, likeness and creative identity make those deals valuable are not being properly consulted.\" Some have begun receiving emails from labels and publishers that have struck AI deals, but the letter acknowledges this too often amounts to little more than \"being told, by default and with no real choice, that they are automatically included in AI-related uses.\""
+        },
+        {
+          "t": "p",
+          "x": "The broader fight over music rights and AI has always had two strands. First, on what AI companies owe, artists, songwriters, labels, and publishers are nearly unanimous: using existing music, or an artist's voice or likeness, requires permission first, through a licensing deal. Many AI companies argue that no permission is needed, citing copyright exceptions or the US fair-use doctrine, and the legal fight over that disagreement continues."
+        },
+        {
+          "t": "p",
+          "x": "The second strand is a dispute inside the music industry itself: can labels and publishers unilaterally opt the catalogs they manage into the AI licensing deals they strike? And how is the money from those deals split among stakeholders? Majors have said they will seek artist consent for AI voice cloning and songwriter consent for AI remixes, but they do not seek blanket consent before licensing music for AI training. There is also little transparency about how the money gets divided."
+        },
+        {
+          "t": "p",
+          "x": "The International Federation of the Phonographic Industry (IFPI) responded to the new open letter by focusing on the first strand. At a moment when \"some tech companies, large and small, are effectively stealing almost every recorded song,\" it said, major labels \"have sued infringers, pushed for legislation, and developed new licensing models to protect the interests of artists, songwriters, and rights holders, and to ensure they are paid.\" IFPI added, \"we are strongest as a music community when we stand together.\" For now, though, IFPI is still sidestepping the second strand."
+        },
+        {
+          "t": "p",
+          "x": "Formally endorsing the open letter, MMF chief executive Annabella Coldrick said, \"On the question of AI licensing, artists, songwriters and managers have stood shoulder to shoulder with the wider music industry on the principle of consent.\" She added, \"With this open letter, we are simply asking our label and publisher partners to extend us the same courtesy. This is not a right that is yours to sell.\" EMMA laid out three core demands: consent and control — no more automatic opt-ins; fair compensation — clarity on what percentage of revenue goes to creators, labels and publishers, and AI companies; and clarity and transparency — clear, accessible information in advance for any AI deal."
+        }
+      ]
+    },
+    "music/ymck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YMCK has released Magical FDS Plug, a free software synth that imitates the sound of the FDS sound chip."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/fds-728x364.jpg",
+          "cap": "YMCK has released the free FDS sound chip synth Magical FDS Plug"
+        },
+        {
+          "t": "p",
+          "x": "For me, this is pure nostalgia. YMCK's Magical 8bit Plug was one of the first plugins I ever installed. I was deep into chiptune music at the time, and I ran it in MuLab, the first DAW I ever used. Writing that down makes me feel my age. Back then I was just getting into VST plugins, and after all this time, seeing a new release from the same developer feels a little strange."
+        },
+        {
+          "t": "p",
+          "x": "There's another detail worth noting. YMCK's Yokemura says the plugin was built with help from AI tools. The FDS spec always felt too complex and too labor-intensive to turn into code, but recent AI tools finally helped push the project over the finish line. I wrote not long ago about a plugin made through vibe coding, and this is a good example of the hopeful side of that discussion. In the right hands, it could mean more good plugins actually reach us."
+        },
+        {
+          "t": "p",
+          "x": "Magical FDS Plug recreates the sound architecture of the Famicom Disk System (FDS) sound chip. The original design is unusual: it uses a 64-sample waveform memory as the carrier, modulated by a separate 32-step instruction sequence. YMCK streamlined the editing flow to be more logical, letting you build the carrier waveform through additive synthesis, preset waveforms, pulse waveform editing, or free drawing across 64 points."
+        },
+        {
+          "t": "p",
+          "x": "Additive mode works like a drawbar organ, blending harmonics with eight sliders. Preset waveforms include triangle, sawtooth, and sine, while pulse mode shapes a square wave using pulse width values from 1 to 63. The modulator section offers six presets: triangle, sawtooth, sine, square, ramp up, and ramp down. There's also a custom mode that lets you type a 32-step opcode sequence directly as text, using numbers from 0 to 7."
+        },
+        {
+          "t": "p",
+          "x": "On top of that, it includes LFO, FM, and off modulation modes, ADSR envelopes for both the carrier and modulator, velocity and pitch bend support, and a switchable low-pass filter modeled on the original hardware's roughly 2kHz output filter. The interface is split into three sections: Global, Carrier, and Modulator. Global handles gain, polyphony, pitch bend range, theme, preset loading, and the hardware-style low-pass filter, while the lower half is where you shape the carrier waveform and modulation behavior."
+        },
+        {
+          "t": "p",
+          "x": "Magical FDS Plug is open source, released under the GPLv3 license, with its source code posted on GitHub. The download also includes demo presets that keep the FDS parts of YMCK's demo songs intact. It runs as AU and VST3 on macOS 10.13 and up, and as VST3 on Windows."
+        },
+        {
+          "t": "video",
+          "yt": "Q-3mX5sd_cQ"
+        }
+      ]
+    },
+    "music/music-ai-music-detection": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-made music has quietly moved from a novelty into a real operational challenge."
+        },
+        {
+          "t": "p",
+          "x": "Over the past year, the conversation around AI music has moved beyond questions of creativity or copyright. For streaming platforms, distributors, labels, publishers, and rights organizations, the more urgent concern turns out to be practical: how do you even tell whether a track was made by a human, by AI, or by some mix of both?"
+        },
+        {
+          "t": "p",
+          "x": "As the volume of AI music keeps growing, that question gets harder to ignore. According to figures from the streaming service Deezer, the platform now receives roughly 75,000 fully AI-generated tracks a day, a substantial share of all the music uploaded to the service."
+        },
+        {
+          "t": "p",
+          "x": "This week, Boston-based audio intelligence company Modulate unveiled a new AI music detection API. Rather than relying only on metadata or creators' self-disclosure, the tool helps music platforms identify AI vocals and instrumentation directly from the audio file."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/06/phone-playing-AI-music-with-headphones.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Many companies have so far leaned on transparency policies, under which artists, labels, or distributors disclose AI involvement themselves. But \"there is a growing recognition that self-disclosure alone may not be enough.\" As AI music generation tools become easier for anyone to use, platforms are increasingly looking for ways to independently verify the tracks they receive."
+        },
+        {
+          "t": "p",
+          "x": "Modulate says its system analyzes music by separating out vocals and instrumentation to look for signs of AI generation. Rather than a simple yes-or-no, it produces segment-by-segment verdicts. The company argues this level of granularity is needed as the industry moves away from the idea that every track can be neatly sorted into either human or AI."
+        },
+        {
+          "t": "p",
+          "x": "The technology arrives amid growing concern over streaming fraud. Industry figures point out that AI tools have made it easier than ever to mass-produce tracks, which can then be uploaded and used for fraudulent streaming."
+        },
+        {
+          "t": "p",
+          "x": "Of course, detection technology alone does not resolve every challenge AI poses for the music industry. Questions around copyright, attribution, licensing, and artist consent remain unsettled. Still, as AI music takes up a growing share of the ecosystem, many stakeholders have begun to see detection not as a peripheral feature but as foundational infrastructure."
+        },
+        {
+          "t": "p",
+          "x": "For independent artists, the issue is less about whether AI should be allowed into music-making at all, and more about how to prove a genuine creator hasn't been drowned out in an increasingly crowded sea of synthetic tracks."
+        }
+      ]
+    },
+    "music/music-suno-songwriting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "DVspwYPHeNU"
+        },
+        {
+          "t": "p",
+          "x": "This is a video from YouTuber Songs by Spencer. True to its title, 'Suno Helped Me Write a BETTER Song,' he tests firsthand whether AI can really help write a better song. He starts with a simple acoustic demo."
+        },
+        {
+          "t": "p",
+          "x": "He runs this demo through Suno AI. Rather than using the output as is, he treats it as a starting point for inspiration and remakes the song into a completely new version, layering human judgment on top of the AI's draft."
+        },
+        {
+          "t": "p",
+          "x": "Throughout the video, he walks through how he uses AI music tools: sparking creative ideas, breaking through lyric writer's block, and raising the quality of songwriting and production."
+        },
+        {
+          "t": "p",
+          "x": "This video is for anyone curious about AI, music, songwriting, or tools like Suno. It follows one creator's real workflow, bringing AI in as a songwriting partner while leaving the final polish to a human."
+        }
+      ]
+    },
+    "music/music-suno-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On Thursday, June 25, Suno launched a new artist incubator program called Spark. It gives selected independent artists grants and marketing support, and opens a path into Suno's songwriting camps."
+        },
+        {
+          "t": "p",
+          "x": "Participating artists retain full creative control and commercial rights to their work. According to Suno, grant amounts vary depending on where an artist is in their career and can range from a few thousand dollars to tens of thousands. Marketing support is also tailored to each artist's needs, spanning influencer marketing and advertising, digital exposure, visual and art production, events and activations, and press opportunities."
+        },
+        {
+          "t": "p",
+          "x": "Suno made clear it does not get involved in choosing or using a distributor. That decision is left entirely up to the artist."
+        },
+        {
+          "t": "p",
+          "x": "\"Emerging artists tell us the same thing again and again: tools alone aren't enough. They need support and exposure,\" Suno Chief Music Officer Paul Sinclair and Rosie Nguyen, head of creative economy and monetization, wrote in a blog post. \"Spark's goal is to help more artists grow an idea into a finished project, connect that project with fans, and create new opportunities to build a career both on and off Suno.\""
+        },
+        {
+          "t": "p",
+          "x": "Eligibility comes down to three conditions: being 18 or older, being a singer, songwriter, or producer releasing music under their own name, and being an independent artist."
+        },
+        {
+          "t": "p",
+          "x": "Over the past year, Suno's songwriting camps have become a key channel for reaching music talent and introducing them to the generative AI product, which creates songs from scratch using nothing more than a simple text prompt. In January, the company invited Billboard to a private studio camp session in Los Angeles that included Timbaland, as well as Ommas Keith (Frank Ocean, Erykah Badu, Jay-Z) and Gino The Ghost (Sabrina Carpenter, The Chainsmokers, Saweetie). At the camp, experts used Suno to capture a song idea, then human musicians reworked the material piece by piece, adding their own improvisation and style."
+        },
+        {
+          "t": "p",
+          "x": "On an episode of Billboard on the Record, Suno CEO Mikey Shulman was asked whether the company plans to become a record label. He answered: \"No. We're thinking about building a music super app. A record label is a separate thing from that.\""
+        },
+        {
+          "t": "p",
+          "x": "The program arrives just weeks after Suno announced a $400 million Series D round led by Bond Capital, which valued the company at $5.4 billion post-money. Separate from investor confidence, Suno continues to face copyright infringement claims from music industry incumbents."
+        },
+        {
+          "t": "p",
+          "x": "Suno is currently facing a $500 million copyright infringement lawsuit from Universal Music Group and Sony Music. The major labels allege Suno trained on their copyrighted recordings without proper consent or authorization. (Warner Music Group was once part of the suit as well, but dropped out after settling and signing a licensing deal with Suno in late 2025.) German copyright group GEMA and Danish copyright group Koda are also each pursuing their own copyright infringement lawsuits against Suno."
+        },
+        {
+          "t": "p",
+          "x": "This week, national class-action law firm Hagens Berman joined a lawsuit brought by independent artists who claim their copyrighted music was used to train Suno's models without authorization, infringing their copyrights."
+        }
+      ]
     }
   }
 }

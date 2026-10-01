@@ -1065,6 +1065,536 @@
           "x": "ElevenLabs recibió 500 millones de dólares de Sequoia a principios de este año, con una valoración de 11.000 millones de dólares. También circulan rumores de una nueva ronda con una valoración de 22.000 millones de dólares. Los ingresos anualizados pasaron de unos 330 millones de dólares a principios de año a más de 600 millones. Una contratación agresiva en India, Europa y Brasil ha llevado la plantilla a superar las 800 personas. El cofundador y CEO, Mati Staniszewski, dijo en una entrevista reciente con TechCrunch que la empresa planea salir a bolsa \"dentro de los próximos años\", aunque no dio una fecha concreta."
         }
       ]
+    },
+    "music/ai-licensing-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/06/no-consent-2026-press-umg-cr-MAC-billboard-1800.jpg",
+          "cap": "Voces de artistas: sin consentimiento no hay licencia de IA"
+        },
+        {
+          "t": "p",
+          "x": "El 22 de junio de 2026, una coalición global de artistas, compositores y mánagers emitió una carta abierta en contra de cómo los sellos y editoriales licencian la música con IA. La idea central: \"Los sellos y editoriales insisten en que las empresas de IA deben obtener permiso para entrenar con sus catálogos, mientras niegan ese mismo derecho a los artistas y compositores.\""
+        },
+        {
+          "t": "p",
+          "x": "La carta señala tres problemas: a los artistas se les notifica que quedan inscritos automáticamente en el uso de IA con poca capacidad real de elegir, los contratos de artistas nuevos incorporan por defecto cláusulas de 'derechos ilimitados y exclusivos' para el entrenamiento de IA, y se distingue entre entrenamiento (entrada) y resultado (salida) mientras casi no se menciona los requisitos del entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "La coalición, que incluye a Music Artists Coalition, Songwriters of North America y The Ivors Academy, exige tres principios: consentimiento y control específicos, compensación justa y distribución transparente, y solicitudes claras con propósito, duración y derecho de retiro definidos. La carta concluye diciendo que \"el futuro de la música debe construirse junto con los artistas, los compositores y sus representantes, no imponérseles\"."
+        },
+        {
+          "t": "p",
+          "x": "Por su parte, IFPI respondió que las empresas musicales protegen los intereses de los artistas al demandar por el uso no autorizado de IA y al operar modelos de licencia que devuelven ingresos a los creadores."
+        }
+      ]
+    },
+    "music/ai-training-dataset-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Music-Download@2000x1500.jpg",
+          "cap": "Descarga de música (Crédito: Epoxydude / Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta de búsqueda creada por The Atlantic ahora permite comprobar si el trabajo de un músico se usó para entrenar modelos de IA. La base de datos se basa en el reportaje del periodista de The Atlantic Alex Reisner. Él identificó recientemente cuatro grandes datasets de música usados en el desarrollo de IA y los hizo buscables para cualquiera."
+        },
+        {
+          "t": "p",
+          "x": "En conjunto, los cuatro datasets contienen millones de canciones, desde artistas famosos hasta músicos independientes y productores underground. Dos son especialmente grandes, con unas 12 millones y 9 millones de canciones respectivamente, y los otros dos superan cada uno las 100.000 canciones."
+        },
+        {
+          "t": "p",
+          "x": "Según Reisner, los datasets ya se han descargado \"miles de veces\". Google y Stability AI han reconocido haber usado parte del material en artículos de investigación. Algunas fuentes, como el dataset del Free Music Archive, permiten la escucha personal pero requieren licencia para uso comercial."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Atlantic-AI-Tool@2000x1500.jpg",
+          "cap": "La herramienta AI Watchdog de The Atlantic"
+        },
+        {
+          "t": "p",
+          "x": "Reisner considera que estos datasets terminan revelando una brecha entre lo que dicen las empresas de IA y cómo se recopila el material en realidad. Los desarrolladores afirman haber usado solo material \"disponible libremente\", pero la realidad es más compleja. Buena parte circula como \"listas de enlaces de pistas\" publicadas en YouTube o Spotify, y los desarrolladores de IA usan herramientas automatizadas para descargar el audio de forma masiva. Algunos de estos métodos evitan mecanismos como inicios de sesión o anuncios que generan ingresos para los creadores. Reisner señala que \"esas herramientas violan los términos de servicio de estas plataformas\"."
+        },
+        {
+          "t": "p",
+          "x": "El resultado es un terreno de entrenamiento en el que la música publicada comercialmente es técnicamente muy accesible, pero el consentimiento, la compensación y la transparencia siguen siendo confusos. El argumento de justificar el entrenamiento con material protegido por derechos de autor como \"uso justo\" es también una línea que empresas de IA como Suno o Anthropic suelen usar."
+        },
+        {
+          "t": "p",
+          "x": "Los datasets incluyen música de todos los géneros y épocas. Están Daft Punk, Aphex Twin y Radiohead, además de Wu-Tang Clan y Jack Antonoff. Antonoff se ha opuesto desde hace tiempo a la producción musical con IA. \"La idea de optimizar lo que hacemos pierde completamente el punto\", dijo, y añadió que él y sus colegas \"nunca han querido que este trabajo sea más rápido o más fácil\". Los usuarios pueden buscar en la herramienta AI Watchdog de The Atlantic música, libros y otros medios que puedan haberse usado en el entrenamiento de IA."
+        }
+      ]
+    },
+    "music/apple-music-understanding": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple presentó el marco de Music Understanding (comprensión musical) en la WWDC 2026. Es una herramienta para analizar audio en el dispositivo en las plataformas de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Este marco permite que las apps procesen audio y extraigan seis elementos musicales junto con información temporal. AnalyzedRhythm capta la posición de los beats, los límites de los compases y el tempo en BPM. Key identifica la tonalidad (tónica y modo) de una sección determinada. Loudness mide el volumen integrado, a corto plazo, momentáneo y de pico según los estándares de la industria."
+        },
+        {
+          "t": "p",
+          "x": "Pace mide la energía percibida y el impulso mediante eventos por minuto, independientemente del tempo fijo. Structure divide el tema en secciones estructurales, segmentos y frases. Instrument Activity identifica qué instrumento suena y cuándo."
+        },
+        {
+          "t": "p",
+          "x": "Un usuario llamado Palomorado expresó preocupación por la educación. \"Ya puedo imaginar a los novatos de clase de entrenamiento auditivo quejándose: 'esto también lo hace una app'.\""
+        }
+      ]
+    },
+    "music/genome-intro-free": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/TwoNotes-GenomeIntro.jpg",
+          "cap": "Two Notes Genome Intro"
+        },
+        {
+          "t": "p",
+          "x": "Two Notes Audio Engineering lanzó Genome Intro, una versión de entrada gratuita, junto con Genome 2.0. Es compatible con formatos AU, VST3 y AAX para macOS y Windows."
+        },
+        {
+          "t": "p",
+          "x": "Aunque es gratis, el contenido es completo: 4 modelos de amplificador, 14 pedales, 5 cabinets y 4 efectos de estudio. El núcleo es el motor de reproducción de amplificadores con IA llamado CODEX, que carga y reproduce capturas de Neural Amp Modeller, AIDA-X y Proteus en una sola pantalla."
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro amplis básicos son Albion '59 (Marshall Super Lead 1959), Gemini '64 (Fender Twin Reverb), Peggy '76 (Ampeg SVT 1796) y PVH50 (Peavey 5150). Entre los pedales destacan clásicos como Green Mini (Ibanez TS9 Tube Screamer) y Foxy Wah 46 (Vox V846). Los cabinets virtuales DynIR incluyen el Fender Bassman, el Peavey 5150 y el cabinet de bajo Ampeg V-9, entre otros."
+        },
+        {
+          "t": "video",
+          "yt": "rROb71haXTQ"
+        },
+        {
+          "t": "p",
+          "x": "Los efectos de estudio están formados por Studio Twin Tracker, EQ, reverb y CODEX, además de una sección MIXFIT para ajustar el tono. En precios, Genome Intro es gratis, Genome cuesta 129,99 euros (89,99 euros en oferta) y Genome Suite cuesta 299,99 euros (159,99 euros en oferta)."
+        }
+      ]
+    },
+    "music/vibe-coding-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La forma de hacer música está cambiando, a medida que se extiende el 'vibe coding', en el que basta describirle algo a la IA con palabras para que construya un plugin de audio al instante. Rick Rubin llamó a este enfoque \"el punk rock del software\"."
+        },
+        {
+          "t": "p",
+          "x": "ChatDSP, creado por Dylan Baston, es un dispositivo Max for Live para Ableton Live. Construye instrumentos, efectos y efectos MIDI a partir de prompts de texto y expone hasta 48 parámetros asignables. Usar la IA requiere una clave de API y créditos, y ahora acepta modelos de IA locales además de Claude y ChatGPT."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3XfhqWZqSstMgo2BQKtash.png",
+          "cap": "ChatDSP para Max for Live"
+        },
+        {
+          "t": "p",
+          "x": "Amorph, de Artists in DSP, es un generador gratuito basado en navegador. Construye plugins VST3 y AU para Mac y PC que funcionan con la mayoría de los DAW principales. Actualmente está en beta v0.99, con soporte para generación de interfaz personalizada y sincronización MIDI precisa a nivel de muestra. Se espera que la próxima versión añada comunicación directa con IA y una función de mercado."
+        },
+        {
+          "t": "video",
+          "yt": "CJ806YGSQlE"
+        },
+        {
+          "t": "p",
+          "x": "Pluginmaker.ai también crea plugins VST y AU en el navegador. Se pueden probar en tiempo real con MIDI, un teclado o un secuenciador, y funciona con una suscripción basada en créditos. También cuenta con un mercado (comisión del 10%) para comprar y vender los plugins creados, y destaca por su interfaz gráfica muy pulida."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mZrJmwiLCue9iRDHpj2odm.png",
+          "cap": "Generador de plugins basado en navegador Pluginmaker.ai"
+        },
+        {
+          "t": "p",
+          "x": "Leo Viascar-Caroni, CEO de Artists in DSP, dijo que \"escribir código a mano desaparecerá en unos pocos años\", y añadió que \"lo que queda es la parte divertida\". Dominik Bilski, cofundador de Pluginmaker.ai, dijo que \"el objetivo es que cualquiera pueda crear el plugin que imagina a bajo costo\". Dylan Baston, creador de ChatDSP, añadió que \"algunas críticas recuerdan a los músicos clásicos que odiaban los teclados, las cajas de ritmos y los DAW\"."
+        },
+        {
+          "t": "p",
+          "x": "No todo es optimismo. El artículo también señala preocupaciones: la carga ambiental de los centros de datos que usan hasta 5 millones de galones de agua al día, el entrenamiento con material protegido por derechos de autor sin consentimiento, la amenaza al sustento de los desarrolladores de plugins existentes, y el temor de que el llamado 'AI slop' reduzca el nivel de producción."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ucNewzs29HXF2jnCNciNs6.jpg",
+          "cap": "Un pedal Polyend Endless con placa frontal personalizada"
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la conclusión del artículo es que ambos enfoques pueden coexistir. La comparación es que los restaurantes no han desaparecido aunque todos sepan cocinar."
+        }
+      ]
+    },
+    "music/berklee-summit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hypebot cubrió el 29 de junio, en un artículo de Ryan Blakeley, la primera Cumbre de IA Musical (AIMS) organizada por Berklee College of Music. Al evento, celebrado en Boston del 3 al 5 de junio, asistieron cientos de figuras de la industria, mientras afuera los estudiantes protestaban por la política de IA de la escuela."
+        },
+        {
+          "t": "p",
+          "x": "Primero, la música con IA es mucho más amplia que los generadores de canciones a partir de texto. Abarca aplicaciones asistivas, generativas y agénticas que van desde la producción, la composición, la separación de pistas, el muestreo y el procesamiento de efectos hasta el cálculo de regalías. Elizabeth Moody señaló un problema de marca que surge al agrupar tecnologías distintas bajo un mismo nombre."
+        },
+        {
+          "t": "p",
+          "x": "Segundo, la IA generativa es a la vez una evolución y una revolución. El fonógrafo, el MIDI y el streaming también sacudieron la industria, pero la IA generativa no tiene precedentes en cuanto a democratizar la creación musical. Cada día se suben 75.000 pistas generadas por IA a Deezer. Eso plantea desafíos genuinamente nuevos en torno a los derechos de autor, las protecciones de NIL y la velocidad con que la tecnología se adelanta a la ley."
+        },
+        {
+          "t": "p",
+          "x": "Tercero, está bien sentir ambivalencia. El debate fue equilibrado en lugar de una defensa acrítica. El compositor Lucas Cantor Santiago criticó a empresas como Suno, diciendo que es 'como resolver un problema de matemáticas que nadie preguntó,' mientras que el estratega Drew Thurlow defendió las posibilidades creativas de la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Cuarto, los artistas deben estar en el centro. Holly Herndon, Jordan Rudess y L'Rain participaron en actuaciones y presentaciones. Mientras las empresas de IA recaudan sumas enormes —Suno recaudó 400 millones de dólares (una valoración de 5.400 millones), ElevenLabs recaudó 500 millones (11.000 millones)—, los artistas temen que el trabajo de colocación sincronizada y música de fondo pueda desaparecer."
+        },
+        {
+          "t": "p",
+          "x": "Quinto, quedó al descubierto una brecha generacional. Antes de la cumbre, los estudiantes abrieron la cuenta de Instagram @berkleeagainstai, que superó los 1.000 seguidores en pocos días. Theo Wheeler, que participó en la protesta, dijo: 'Quiero saber cómo manejar esto cuando me gradúe y empiece a trabajar. ¿Adónde se van nuestros empleos?'"
+        }
+      ]
+    },
+    "music/deezer-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deezer presentó una nueva función que permite remezclar canciones dentro de la plataforma. Los fans le dan su propio toque a pistas populares, mientras los ingresos regresan a los artistas y a los titulares de derechos."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/deezer-remix-lab@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La función, llamada Remix Lab, está disponible primero solo en Francia. La empresa planea ampliarla pronto, pero por ahora se usa directamente en la app a través de Deezer Club."
+        },
+        {
+          "t": "p",
+          "x": "La función funciona como un concurso de remezclas. Se puede encontrar en Deezer Club o en la página de un artista dentro de la app. Las remezclas creadas se pueden transmitir de inmediato, añadir a listas de reproducción y compartir con la comunidad, todo únicamente en Deezer."
+        },
+        {
+          "t": "p",
+          "x": "Los ganadores del concurso en su etapa inicial aparecerán en una lista de reproducción dedicada a las remezclas ganadoras, y recibirán dos entradas para el evento Purple Door de Deezer en septiembre, junto con mercancía del artista cuya canción remezclaron."
+        },
+        {
+          "t": "p",
+          "x": "Deezer ha promovido mejores pagos para los artistas. Dice que los artistas participantes dieron 'consentimiento explícito,' y que las reproducciones generadas se atribuyen por completo a la obra original. 'Cada escucha cuenta, y los artistas son compensados según los derechos que se les deben,' explica la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Deezer afirma ser la primera plataforma de streaming en lanzar una función de remezcla con los derechos totalmente protegidos y acordados con los artistas. Sin embargo, ya existen herramientas similares: Spotify lanzó recientemente una herramienta de remezcla junto con Universal Music Group."
+        },
+        {
+          "t": "p",
+          "x": "La función de remezcla de Spotify también paga a los artistas participantes, pero usa IA generativa para crear las remezclas. La herramienta de Deezer parece no usar IA, y en su lugar da a los fans una herramienta para aplicar efectos y transformaciones ellos mismos."
+        },
+        {
+          "t": "p",
+          "x": "Pierre Trochu, jefe de producto de Deezer, dice: 'Esta función se centra en la simplicidad y la accesibilidad. Con solo unos clics, se puede transformar una canción que ya conoces y amas, desde efectos simples como acelerarla o añadir reverberación, hasta transformaciones sofisticadas que cambian el género y el estilo.'"
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de Deezer, Alexis Lanternier, añadió: 'Esta herramienta de remezcla refleja justamente nuestra visión de productos que enriquecen la experiencia de escucha, permitiendo que los fans participen en el proceso creativo y se conecten más profundamente con la música que aman.'"
+        }
+      ]
+    },
+    "music/latent-terrain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'No me interesa mucho escribir un prompt para crear algo. Me atrae más romperlo y disecarlo.' Eso dijo Jasper Shuoyang Zheng al presentar Latent Terrain, un external y una interfaz de Max de código abierto, diseñados de forma intuitiva y elegante, que ahora permiten tocar como un instrumento el mundo poco familiar de los códecs de audio neuronales, transformando tu propio sonido en nuevas texturas."
+        },
+        {
+          "t": "p",
+          "x": "Es una especie distinta de la IA musical exagerada que ocupa los titulares. Aquí la fuente de los datos es el propio sonido del usuario. El procesamiento también se ejecuta en tu propio ordenador, no en un centro de datos que consume enormes cantidades de agua. Sobre todo, es hermoso y extraño, y se puede manejar directamente mediante la técnica de interpretación."
+        },
+        {
+          "t": "p",
+          "x": "Por eso se reúnen alrededor de él músicos y experimentadores. Devuelve la red neuronal a su papel de herramienta para descubrir sonidos nuevos, en lugar de una que vuelve idéntico cualquier sonido."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/06/web1s-1-1024x379.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Latent Terrain es un buen punto de partida, sobre todo para los usuarios de Max que ya usaban FluCoMa o Data Knot. Genera un mapa visual parecido a una textura deformada, y se puede recorrer su interior como se prefiera, con el mouse o con un controlador. También se puede entrenar una pequeña red neuronal directamente dentro de Max y observar cómo el timbre se rompe, se divide y se funde en un material nuevo."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo de Keigo Yoshida es un buen ejemplo para hacerse una idea de ese sonido. Es una pieza que traduce lecturas de EEG en sonido."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de simples demostraciones, hay trabajos artísticos que llevan la tecnología hacia la tarea de desentrañar el significado del sonido. nn/mémoire, de Jiatong Liu, es un paisaje sonoro de galería virtual construido con grabaciones de los callejones hutong de Beijing. El mundo sonoro de la ciudad, que desaparece rápidamente, se convierte en un archivo ambiental que se recorre por el espacio. Liu señaló 'aprender a trabajar con la imprevisibilidad' como un reto central de diseño, no como un problema que eliminar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/06/005-docs-1024x381.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La documentación también es excelente. El propio texto de Jasper, 'Latent Terrain: Dissecting Neural Audio Codecs,' ofrece una buena guía del trabajo y sus posibilidades. También hay una página de proyecto separada con la investigación."
+        },
+        {
+          "t": "p",
+          "x": "Pronto llegarán también dispositivos de ejemplo para Max for Live, que permitirán elegir distintos autoencoders de audio según el resultado deseado. Ya se admiten varios de los más populares. Se puede descargar para Max en macOS y Windows, y para Max for Live. El proyecto también se presentará en el NIME de Londres a finales de este mes."
+        }
+      ]
+    },
+    "music/tidal-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tidal dijo que no monetizará contenido generado por IA, y trasladó esa responsabilidad hacia los distribuidores. Su postura es que 'la responsabilidad de identificar y etiquetar el contenido generado por IA no debería caer solo en Tidal.'"
+        },
+        {
+          "t": "p",
+          "x": "A partir de mediados de julio, comenzará a identificar y etiquetar las canciones hechas con IA. Al principio solo marcará música generada al 100% por IA, con planes de ampliar el alcance a trabajos 'hechos en gran parte con IA' a medida que mejore la tecnología de detección."
+        },
+        {
+          "t": "p",
+          "x": "Su política de regalías también es clara. 'La prioridad de Tidal es asegurar que las regalías lleguen a las obras originales hechas, escritas e interpretadas por humanos,' dijo, y añadió que a sabiendas no pagará regalías por música hecha enteramente por IA."
+        },
+        {
+          "t": "p",
+          "x": "La música con IA que explote el trabajo, el nombre o la imagen de otro creador será bloqueada o eliminada. 'No toleraremos música con IA que explote la música, el nombre o la imagen de una persona o un grupo, que engañe a los oyentes o que degrade la calidad del servicio,' afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Las canciones hechas con IA seguirán permitiéndose siempre que estén correctamente etiquetadas y cumplan los estándares. Se aplican los mismos estándares a los artistas independientes que suben sus propias canciones directamente que a los distribuidores existentes."
+        },
+        {
+          "t": "p",
+          "x": "La industria está dividida. Bandcamp prohibió por completo las canciones con IA en enero y iHeartRadio también se movió hacia prohibirlas, mientras que Spotify abrió funciones de IA generativa en asociación con Universal Music Group."
+        }
+      ]
+    },
+    "music/atlantic-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Atlantic ha publicado cuatro bases de datos consultables como parte de su proyecto 'AI Watchdog'. En conjunto reúnen más de 20 millones de canciones que, según se cree, circularon en torno a generadores de música con IA como Suno, Udio y Lyria de Google. Ahora se puede comprobar gratis si el propio nombre o el de una banda aparece en algún punto de estos datos de entrenamiento. Al principio suena como una buena noticia para la transparencia, pero el asunto es menos tranquilizador de lo que parece."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/06/KI-Trainingsdaten-2026-T-770x425.jpg",
+          "cap": "Datos de entrenamiento de IA 2026: The Atlantic revela de quién es la música que entró en Suno y Udio · Fuente: The Atlantic / Marcus Schmahl"
+        },
+        {
+          "t": "p",
+          "x": "La persona detrás de este trabajo es Alex Reisner. Lleva un tiempo rastreando datos de entrenamiento de IA para The Atlantic; antes se ocupó de libros y artículos académicos, y esta vez de música. El resultado son cuatro bases de datos de tamaños distintos. La más grande procede de la organización alemana sin fines de lucro LAION, con 12,320,916 canciones extraídas de YouTube, el equivalente a 91 años de música. La segunda tiene unos 9 millones de canciones, y las otras dos, más pequeñas, rondan las 100,000 canciones cada una. Una de ellas se construyó sobre el Free Music Archive, creado por la emisora de radio WFMU."
+        },
+        {
+          "t": "p",
+          "x": "Hay un matiz importante. La mayoría de estos conjuntos de datos no contienen los archivos de audio en sí, solo enlaces a YouTube o Spotify. Las herramientas automatizadas obtienen las canciones reales a partir de esos enlaces, y a veces esquivan casi todos los mecanismos que harían llegar dinero a los artistas, incluidos inicios de sesión y anuncios. Aun así, todavía hay pocas demandas o reglas claras que impidan este tipo de scraping."
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca del trabajo de Reisner es que la búsqueda es completamente gratuita. No hay muro de pago. Basta con escribir el nombre de un artista. El músico berlinés Heinbach dice haber encontrado 151 canciones propias en un solo conjunto de datos. El productor de breakcore sophia_hjkl publicó que 138 de sus pistas estaban repartidas en dos conjuntos de datos, lo que, según él mismo, equivale prácticamente a toda su producción entre 2017 y 2024."
+        },
+        {
+          "t": "p",
+          "x": "En junio de 2024 informamos de que las grandes discográficas sopesaban demandar a Suno y Udio, algo que desde entonces se ha convertido en un cúmulo de procesos legales en curso. En aquel momento, la RIAA presentó una demanda por infracción masiva de derechos de autor en nombre de Universal Music Group, Sony Music y Warner Music Group, y la prensa del sector calcula que hay al menos una docena de demandas contra ambas empresas. Apenas unas semanas atrás, Universal y Sony se movieron para añadir más de 61,000 grabaciones a su demanda contra Suno. Sin embargo, Warner ya ha llegado a un acuerdo extrajudicial con Suno, y Universal con Udio."
+        },
+        {
+          "t": "p",
+          "x": "Suno se defiende con el argumento del uso justo (fair use), alegando que entrenar modelos generativos con grabaciones protegidas por derechos de autor constituye un uso transformador bajo el 17 U.S.C. § 107. La vista central del caso se celebrará en julio de 2026, ante la jueza Denise Casper, en un tribunal federal de Massachusetts. Udio, en documentos presentados por la parte de Sony, ha reconocido haber usado audio disponible públicamente para el entrenamiento, aunque rechaza que eso constituya una infracción. Por ahora no hay ninguna decisión."
+        },
+        {
+          "t": "p",
+          "x": "Al final, todo esto salió a la luz solo porque los cuatro conjuntos de datos circulaban públicamente y los investigadores lograron acceder a ellos. Las empresas que mantuvieron en absoluto secreto el origen de su entrenamiento no aparecen en esta investigación, simplemente porque nadie pudo mirar en su interior. El propio Reisner señala que esto es solo la punta del iceberg. Lo primero que conviene hacer está claro: buscar el propio nombre o el de la banda en la herramienta de Reisner. Es gratis y lleva menos de un minuto."
+        }
+      ]
+    },
+    "music/consent-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "31 grupos que representan a artistas, compositores y sus managers firmaron una carta abierta, entre ellos FAC, Ivors Academy y MMF, del Reino Unido. Ahora que discográficas y editoriales musicales empiezan a firmar acuerdos de licencia con empresas de IA, la carta les pide varios compromisos con los creadores musicales: consentimiento del creador, compensación justa y transparencia contractual."
+        },
+        {
+          "t": "p",
+          "x": "La carta fue liderada por la European Music Managers Alliance (EMMA). Su directora general, Jess Partridge, dice: \"En medio de esta avalancha de acuerdos de IA, EMMA ha coordinado esta carta ante la creciente preocupación por el reparto apresurado de los derechos de artistas y compositores.\" Añade que la forma en que las grandes compañías musicales avanzan de manera unilateral en el ámbito de la IA \"no es el camino para construir un ecosistema musical sano y centrado en el artista\", y advierte que \"se arriesga a repetir errores del pasado.\""
+        },
+        {
+          "t": "p",
+          "x": "La carta empieza señalando que las discográficas y editoriales, sobre todo las grandes, están ahora \"negociando acuerdos de IA que determinarán el futuro de la música\". Entre ellos se incluyen los acuerdos de IA anunciados con Suno, Udio, KLAY y Spotify. Aun así, afirma que \"los artistas y compositores cuya obra, voz, interpretación, imagen e identidad creativa dan valor a esos acuerdos no están siendo consultados como corresponde\". Algunos han empezado a recibir correos de discográficas y editoriales que han firmado acuerdos de IA, pero la carta reconoce que, con demasiada frecuencia, eso se reduce a \"que se les informe, por defecto y sin opción real, de que quedan incluidos automáticamente en usos relacionados con la IA\"."
+        },
+        {
+          "t": "p",
+          "x": "El gran debate sobre los derechos musicales y la IA siempre ha tenido dos vertientes. En la primera, sobre lo que deben las empresas de IA, artistas, compositores, discográficas y editoriales están casi unánimes: usar música existente, o la voz o imagen de un artista, requiere primero un permiso mediante un acuerdo de licencia. Muchas empresas de IA sostienen que no necesitan ese permiso, apelando a excepciones de derechos de autor o a la doctrina estadounidense del uso justo, y la disputa legal sobre esa diferencia continúa."
+        },
+        {
+          "t": "p",
+          "x": "La segunda vertiente es un debate dentro de la propia industria musical: ¿pueden las discográficas y editoriales incluir unilateralmente los catálogos que gestionan en los acuerdos de licencia de IA que ellas mismas firman? ¿Y cómo se reparte el dinero de esos acuerdos entre las partes interesadas? Las grandes compañías han dicho que pedirán el consentimiento del artista para la clonación de voz por IA y el del compositor para los remixes de IA, pero no piden un consentimiento general antes de licenciar música para el entrenamiento de IA. Tampoco hay apenas transparencia sobre cómo se divide el dinero."
+        },
+        {
+          "t": "p",
+          "x": "La International Federation of the Phonographic Industry (IFPI) respondió a la nueva carta abierta centrándose en la primera vertiente. En un momento en que \"algunas empresas tecnológicas, grandes y pequeñas, están efectivamente robando casi todas las canciones grabadas\", afirmó que las grandes discográficas \"han demandado a los infractores, impulsado legislación y desarrollado nuevos modelos de licencia para proteger los intereses de artistas, compositores y titulares de derechos, y asegurarse de que cobren\". IFPI añadió: \"somos más fuertes como comunidad musical cuando estamos unidos.\" Por ahora, sin embargo, IFPI sigue evitando la segunda vertiente."
+        },
+        {
+          "t": "p",
+          "x": "Respaldando formalmente la carta abierta, la directora ejecutiva de MMF, Annabella Coldrick, dijo: \"En la cuestión de las licencias de IA, artistas, compositores y managers han caminado codo a codo con el resto de la industria musical en torno al principio del consentimiento.\" Añadió: \"Con esta carta abierta, simplemente pedimos a nuestros socios discográficos y editoriales la misma cortesía. Este no es un derecho que les corresponda vender.\" EMMA resumió tres exigencias clave: consentimiento y control, sin más inclusiones automáticas; compensación justa, con claridad sobre qué porcentaje de los ingresos va a creadores, discográficas y editoriales, y empresas de IA; y claridad y transparencia, con información clara y accesible por adelantado para cualquier acuerdo de IA."
+        }
+      ]
+    },
+    "music/ymck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YMCK ha lanzado Magical FDS Plug, un sintetizador de software gratuito que imita el sonido del chip de sonido FDS."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/fds-728x364.jpg",
+          "cap": "YMCK ha lanzado el sintetizador gratuito de chip de sonido FDS Magical FDS Plug"
+        },
+        {
+          "t": "p",
+          "x": "Para mí esto es pura nostalgia. Magical 8bit Plug, de YMCK, fue uno de los primeros plugins que instalé. Por entonces estaba completamente metido en la música chiptune, y lo usaba en MuLab, mi primer DAW. Escribir esto me hace sentir el paso del tiempo. En aquella época apenas empezaba con los plugins VST, y después de tanto tiempo, ver un nuevo trabajo del mismo desarrollador resulta un poco extraño."
+        },
+        {
+          "t": "p",
+          "x": "Hay otro detalle que llama la atención. Yokemura, de YMCK, dice que el plugin se hizo con ayuda de herramientas de IA. La especificación de FDS siempre pareció demasiado compleja y laboriosa de traducir a código, pero las herramientas de IA recientes finalmente ayudaron a llevar el proyecto a la meta. Hace poco escribí sobre un plugin hecho mediante vibe coding, y este es un buen ejemplo del lado esperanzador de ese debate. En las manos adecuadas, podría significar que nos lleguen más buenos plugins."
+        },
+        {
+          "t": "p",
+          "x": "Magical FDS Plug recrea la arquitectura sonora del chip de sonido del Disk System (FDS). El diseño original es peculiar: usa una memoria de forma de onda de 64 muestras como portadora, modulada por una secuencia de instrucciones independiente de 32 pasos. YMCK simplificó el flujo de edición para que fuera más lógico, permitiendo construir la forma de onda portadora mediante síntesis aditiva, formas de onda preestablecidas, edición de onda de pulso o dibujo libre a lo largo de 64 puntos."
+        },
+        {
+          "t": "p",
+          "x": "El modo aditivo funciona como un órgano de barras, mezclando armónicos con ocho deslizadores. Las formas de onda preestablecidas incluyen triangular, de sierra y seno, mientras que el modo de pulso da forma a una onda cuadrada usando valores de ancho de pulso de 1 a 63. La sección del modulador ofrece seis preajustes: triangular, de sierra, seno, cuadrada, rampa ascendente y rampa descendente. También hay un modo personalizado que permite escribir directamente como texto una secuencia de opcodes de 32 pasos, usando números del 0 al 7."
+        },
+        {
+          "t": "p",
+          "x": "Además, incluye modos de modulación LFO, FM y apagado, envolventes ADSR tanto para la portadora como para el modulador, soporte de velocity y pitch bend, y un filtro de paso bajo conmutable que imita el filtro de salida de unos 2kHz del hardware original. La interfaz se divide en tres secciones: Global, Carrier y Modulator. Global gestiona la ganancia, la polifonía, el rango de pitch bend, el tema, la carga de preajustes y el filtro de paso bajo estilo hardware, mientras que la mitad inferior es donde se define la forma de onda portadora y el comportamiento de la modulación."
+        },
+        {
+          "t": "p",
+          "x": "Magical FDS Plug es de código abierto, se distribuye bajo la licencia GPLv3 y su código fuente está publicado en GitHub. La descarga también incluye preajustes de demostración que conservan intactas las partes FDS de las canciones de demostración de YMCK. Funciona como AU y VST3 en macOS 10.13 o posterior, y como VST3 en Windows."
+        },
+        {
+          "t": "video",
+          "yt": "Q-3mX5sd_cQ"
+        }
+      ]
+    },
+    "music/music-ai-music-detection": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La música hecha con IA ha pasado, casi sin darse cuenta, de ser una curiosidad a convertirse en un problema operativo real."
+        },
+        {
+          "t": "p",
+          "x": "En el último año, la conversación sobre la música de IA ha ido más allá de las preguntas sobre creatividad o derechos de autor. Para las plataformas de streaming, distribuidoras, discográficas, editoriales y entidades de derechos, la preocupación más urgente resulta ser, sorprendentemente, práctica: cómo determinar si una canción fue hecha por un humano, por una IA, o por una mezcla de ambos."
+        },
+        {
+          "t": "p",
+          "x": "A medida que crece el volumen de música generada por IA, esta pregunta es cada vez más difícil de ignorar. Según cifras del servicio de streaming Deezer, la plataforma recibe actualmente alrededor de 75.000 pistas totalmente generadas por IA al día, una parte considerable de toda la música que se sube al servicio."
+        },
+        {
+          "t": "p",
+          "x": "Esta semana, la empresa de inteligencia de audio con sede en Boston Modulate presentó una nueva API de detección de música de IA. En lugar de depender solo de los metadatos o de la autodeclaración de los creadores, la herramienta ayuda a las plataformas musicales a identificar voces e instrumentación de IA directamente a partir del archivo de audio."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/06/phone-playing-AI-music-with-headphones.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, muchas empresas han apostado por políticas de transparencia, en las que artistas, discográficas o distribuidoras declaran por sí mismos si hubo intervención de IA. Pero \"cada vez hay más conciencia de que la autodeclaración por sí sola puede no ser suficiente\". A medida que las herramientas de generación de música con IA se vuelven accesibles para cualquiera, las plataformas buscan cada vez más formas de verificar de manera independiente el audio que reciben."
+        },
+        {
+          "t": "p",
+          "x": "Modulate explica que su sistema analiza la música separando voces e instrumentación para buscar indicios de generación por IA. En lugar de un simple sí o no, ofrece veredictos por tramos. La empresa sostiene que este nivel de detalle es necesario a medida que la industria se aleja de la idea de que toda pista pueda clasificarse claramente como humana o como IA."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología llega en medio de una creciente preocupación por el fraude en streaming. Figuras de la industria señalan que las herramientas de IA han hecho que sea más fácil que nunca producir pistas en masa, que luego pueden subirse y usarse para streaming fraudulento."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, la tecnología de detección por sí sola no resuelve todos los retos que la IA plantea a la industria musical. Las preguntas sobre derechos de autor, atribución, licencias y consentimiento de los artistas siguen sin resolverse. Aun así, a medida que la música de IA ocupa un lugar cada vez mayor en el ecosistema, muchos actores del sector han comenzado a ver la detección no como una función periférica, sino como infraestructura básica."
+        },
+        {
+          "t": "p",
+          "x": "Para los artistas independientes, la cuestión no es tanto si la IA debería tener cabida en la creación musical, sino cómo demostrar que un creador real no quedó sepultado en un mar cada vez más saturado de audio sintético."
+        }
+      ]
+    },
+    "music/music-suno-songwriting": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "DVspwYPHeNU"
+        },
+        {
+          "t": "p",
+          "x": "Este es un video del youtuber Songs by Spencer. Fiel a su título, 'Suno Helped Me Write a BETTER Song', pone a prueba si la IA realmente puede ayudar a escribir una mejor canción. Empieza con una simple maqueta acústica."
+        },
+        {
+          "t": "p",
+          "x": "Pasa esta maqueta por Suno AI. En lugar de usar el resultado tal cual, lo toma como punto de partida de inspiración y rehace la canción en una versión completamente nueva, superponiendo su propio criterio al borrador de la IA."
+        },
+        {
+          "t": "p",
+          "x": "A lo largo del video, explica cómo usa las herramientas de música con IA: para encender ideas creativas, superar bloqueos con la letra y elevar la calidad de la composición y la producción."
+        },
+        {
+          "t": "p",
+          "x": "Este video es para cualquiera con curiosidad por la IA, la música, la composición o herramientas como Suno. Sigue el flujo de trabajo real de un creador, que incorpora la IA como compañera de composición mientras deja el acabado final en manos humanas."
+        }
+      ]
+    },
+    "music/music-suno-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El jueves 25 de junio, Suno lanzó un nuevo programa de incubación para artistas llamado Spark. Ofrece subvenciones y apoyo de marketing a artistas independientes seleccionados, y abre una vía de acceso a los campamentos de composición de Suno."
+        },
+        {
+          "t": "p",
+          "x": "Los artistas participantes conservan el control creativo total y los derechos comerciales de su obra. Según Suno, el monto de las subvenciones varía según la etapa de la carrera del artista y puede ir desde unos pocos miles de dólares hasta decenas de miles. El apoyo de marketing también se adapta a las necesidades de cada uno, e incluye marketing de influencers y publicidad, exposición digital, producción visual y artística, eventos y activaciones, y oportunidades de prensa."
+        },
+        {
+          "t": "p",
+          "x": "Suno dejó claro que no interviene en la elección ni en el uso de una distribuidora. Esa decisión queda enteramente en manos del artista."
+        },
+        {
+          "t": "p",
+          "x": "\"Los artistas emergentes nos dicen siempre lo mismo: las herramientas solas no bastan. Necesitan apoyo y visibilidad\", escribieron en una entrada de blog el director de música de Suno, Paul Sinclair, y la responsable de economía creativa y monetización, Rosie Nguyen. \"El objetivo de Spark es ayudar a más artistas a convertir una idea en un proyecto terminado, conectar ese proyecto con sus seguidores y crear nuevas oportunidades para desarrollar una carrera dentro y fuera de Suno\"."
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos de participación se reducen a tres: tener al menos 18 años, ser cantante, compositor o productor que publique música bajo su propio nombre, y ser un artista independiente."
+        },
+        {
+          "t": "p",
+          "x": "En el último año, los campamentos de composición de Suno se han convertido en un canal clave para llegar al talento musical y presentarle el producto de IA generativa, que crea canciones desde cero a partir de un simple mensaje de texto. En enero, la empresa invitó a Billboard a un campamento privado en un estudio de Los Ángeles en el que participaron Timbaland, además de Ommas Keith (Frank Ocean, Erykah Badu, Jay-Z) y Gino The Ghost (Sabrina Carpenter, The Chainsmokers, Saweetie). En el campamento, los expertos usaron Suno para captar la idea de una canción, y luego músicos humanos la rehicieron pieza por pieza, añadiendo su propia improvisación y estilo."
+        },
+        {
+          "t": "p",
+          "x": "En un episodio de Billboard on the Record, al CEO de Suno, Mikey Shulman, le preguntaron si la empresa planea convertirse en una discográfica. Él respondió: \"No. Pensamos más bien en construir una superapp de música. Una discográfica es algo distinto de eso\"."
+        },
+        {
+          "t": "p",
+          "x": "El programa llega pocas semanas después de que Suno anunciara una ronda Serie D de 400 millones de dólares liderada por Bond Capital, que valoró a la empresa en 5.400 millones de dólares tras la inversión. Más allá de la confianza de los inversores, Suno sigue enfrentando acusaciones de infracción de derechos de autor por parte de actores establecidos de la industria musical."
+        },
+        {
+          "t": "p",
+          "x": "Suno enfrenta actualmente una demanda por infracción de derechos de autor de 500 millones de dólares presentada por Universal Music Group y Sony Music. Las grandes discográficas alegan que Suno entrenó con sus grabaciones protegidas por derechos de autor sin el consentimiento ni la autorización correspondientes. (Warner Music Group también formó parte de la demanda en un momento dado, pero se retiró tras llegar a un acuerdo y firmar un contrato de licencia con Suno a finales de 2025). Las entidades de derechos de autor GEMA, de Alemania, y Koda, de Dinamarca, también mantienen cada una su propia demanda por infracción de derechos de autor contra Suno."
+        },
+        {
+          "t": "p",
+          "x": "Esta semana, el bufete Hagens Berman, especializado en demandas colectivas a nivel nacional, se unió a una demanda presentada por artistas independientes que alegan que su música protegida por derechos de autor se usó para entrenar los modelos de Suno sin autorización, infringiendo sus derechos de autor."
+        }
+      ]
     }
   }
 }

@@ -1042,6 +1042,569 @@
           "x": "Aun así, el veredicto de Swardlow es mesurado: ni siquiera Astra, el campeón invicto, puede vencer a un principiante humano. Esto contrasta con 2019, cuando AlphaStar, de DeepMind, venció 5 a 0 dos veces a los jugadores profesionales TLO y MaNa, y llegó a Gran Maestro, el 0.2% superior de la escala europea."
         }
       ]
+    },
+    "games/metahuman-ue58": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games presentó Unreal Engine 5.8 como la última gran actualización antes de Unreal Engine 6. Incluye Mesh Terrain, DMC, Mega Lights en fase de producción y Control Rig Dynamics, entre otros."
+        },
+        {
+          "t": "video",
+          "yt": "ZhWv3E2fxek"
+        },
+        {
+          "t": "p",
+          "x": "El marco de trabajo de MetaHuman también recibió una renovación notable. El nuevo activo experimental MetaHuman Collection llena mundos en tiempo real con multitudes de MetaHumans, que escalan desde cientos en móviles hasta miles en plataformas de alto rendimiento. El aspecto cambia mediante piezas modulares como cabeza, cuerpo, pelo y ropa, ensambladas a mano o generadas de forma procedural con Blueprints. La gestión de personajes usa el sistema Mass, el renderizado usa Nanite donde está disponible y la animación se procesa con Animation Blueprints o secuencias."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/33/images/6a33c381c2d66/widen_920x0.jpg",
+          "cap": "Multitudes de MetaHuman en Unreal Engine 5.8"
+        },
+        {
+          "t": "p",
+          "x": "Mesh to MetaHuman ahora está totalmente integrado en MetaHuman Creator, lo que elimina la antigua limitación de solo cabezas. Convierte cualquier malla, sin importar su topología, en un MetaHuman mediante la base de datos de MetaHuman. Está pensado para personajes humanoides y maneja bien los diseños estilizados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/21/images/6a33c449c0cea/widen_920x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MetaHuman Animator capta la actuación completa de la cara, el cuerpo o ambos con una sola cámara. El plugin de captura de movimiento sin marcadores de MetaHuman Animator incorpora la tecnología de Meshcapade."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores también pueden usar tecnologías clave de MetaHuman como RigLogic y la biblioteca DNA. Están \"publicadas en GitHub bajo licencia MIT\". El repositorio OpenRigLogic es el primer paso hacia un kit de desarrollo de MetaHuman."
+        }
+      ]
+    },
+    "games/pubg-ally": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/pubg-arcade-ally-duo-mode-1920x1080.jpg",
+          "cap": "Compañera de IA 'PUBG Ally' se une al modo dúo de PUBG"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA ACE (Avatar Cloud Engine) se presentó por primera vez en Computex 2023, con la promesa de dar vida a los NPC en juegos como PUBG, Naraka: Bladepoint e inZOI. Ahora los jugadores pueden probar esa promesa por sí mismos. La compañera de IA 'PUBG Ally', basada en ACE, puede probarse en partidas de dúo durante las próximas dos semanas en beta."
+        },
+        {
+          "t": "video",
+          "yt": "OdtFL1CDDwc"
+        },
+        {
+          "t": "p",
+          "x": "El video de demostración publicado muestra a un jugador humano y a una Ally controlada por IA ganando juntos una partida de PUBG como equipo. En la entrada del blog que anuncia la beta, NVIDIA describió a esta compañera como \"una compañera de IA que entiende el contexto y adapta su estilo de juego a tus instrucciones y a la situación del campo de batalla, que cambia constantemente\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Ayuda por su cuenta recogiendo botín, luchando y moviéndose sin necesidad de instrucciones constantes y separadas. Entiende tanto entrada de voz como de texto, y acepta desde charla casual hasta órdenes tácticas. Conoce a fondo la terminología propia de PUBG, la jerga de los jugadores, los nombres del mapa y los atributos de los objetos.\""
+        },
+        {
+          "t": "p",
+          "x": "La compañera de IA está disponible en beta hasta el 30 de junio de 2026. Durante las próximas dos semanas, puedes acumular tantas victorias llevadas por la IA como quieras."
+        },
+        {
+          "t": "p",
+          "x": "La idea de una compañera de IA dentro de un juego no es nueva. Pero este resultado de Krafton, que apuesta por la IA, junto con NVIDIA, es más que un simple NPC que lucha a tu lado."
+        },
+        {
+          "t": "p",
+          "x": "Se parece más a Dragon Quest X, o a los NPC 'Smart Zoi' de inZOI, otro juego de Krafton. En lugar de realizar solo acciones fijas en situaciones fijas, es una compañera que reacciona de verdad a ti y al juego."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA dice que PUBG Ally es \"una nueva generación de personaje de juego con IA diseñado para una inmersión más profunda\". Si este personaje realmente añade inmersión aún está por verse. Los bots que se encuentran en modos con poca población siempre han roto la inmersión."
+        },
+        {
+          "t": "p",
+          "x": "La gente disfruta el multijugador competitivo por la emoción de vencer a un rival real. Es difícil encontrar una razón por la que los usuarios de multijugador vayan a recibir con agrado que se dedique tiempo y esfuerzo a fomentar el juego sin otras personas."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, es útil para los usuarios nuevos que recién están aprendiendo. Pero una vez que se adquiere cierta soltura, incluir a Ally va en contra del propósito del multijugador competitivo. Vale la pena observar cómo reaccionan los jugadores durante las próximas dos semanas."
+        }
+      ]
+    },
+    "games/ue6-merge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd89a8ab949bf0c83/6a32ead8f3c7146aef45048b/unrealengine6logo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games anunció los principales cambios de Unreal Engine 6 (UE6) en Unreal Fest. El vicepresidente Marcus Bassmer dijo que 'UE6 cambiará la forma en que lanzamos y operamos los juegos', marcando una dirección de desarrollo distinta a las versiones anteriores."
+        },
+        {
+          "t": "p",
+          "x": "El motor pasará de C++ al lenguaje Verse. Cuando la base de UE6 esté suficientemente establecida, Blueprint y el sistema de 'Actor' se eliminarán gradualmente, y se lanzará una herramienta de conversión para los proyectos existentes."
+        },
+        {
+          "t": "p",
+          "x": "La integración de IA admitirá modelos populares como Claude y Gemini. El motor también absorberá por completo las funciones de Unreal Editor for Fortnite (UEFN)."
+        },
+        {
+          "t": "p",
+          "x": "La idea central es hacer que 'el contenido, el código y la economía se puedan mover y sean compatibles entre juegos'. Epic planea convertir estándares abiertos como glTF y USD en los 'formatos de primera clase' del motor. Primero lo demostrará con trajes de Fortnite: los jugadores podrán usar su vestuario en otros juegos, y los trajes creados por desarrolladores funcionarán dentro de Fortnite."
+        },
+        {
+          "t": "p",
+          "x": "El acceso anticipado de UE6 comienza a finales de 2027."
+        }
+      ]
+    },
+    "games/meti-aitranslate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según informes, el Ministerio de Economía, Comercio e Industria de Japón (METI) dará una nueva ayuda de 'expansión al extranjero' a 15 empresas, pensada para hacer crecer los mercados internacionales del manga, el anime y la imagen real japoneses. Esta ayuda de 70 millones de dólares irá a nueve editoriales de anime y manga, con el objetivo de 'fomentar' la adopción de la traducción con IA generativa para que el contenido llegue antes a los mercados extranjeros."
+        },
+        {
+          "t": "p",
+          "x": "Según una información del Yomiuri Shimbun, esta ayuda aún no anunciada, de 11.500 millones de yenes (unos 70 millones de dólares), probablemente irá a empresas como Crunchyroll, Shueisha, Kodansha, Square Enix y Bandai Namco. Con las traducciones no oficiales llegando a los espectadores extranjeros más rápido que las oficiales, METI parece esperar que la traducción con IA reduzca la piratería."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, METI no ha anunciado oficialmente un programa de ayudas de este tipo. Pero, dado el número de iniciativas gubernamentales relacionadas con la IA que el ministerio ha puesto en marcha en 2026, no es ninguna sorpresa. Por ejemplo, el 4 de junio, METI y la Organización de Desarrollo de Nuevas Energías y Tecnología Industrial (NEDO) anunciaron que añadían 16 nuevos proyectos al Generative AI Accelerator Challenge, alegando la necesidad de responder a la 'escasez de mano de obra.'"
+        },
+        {
+          "t": "p",
+          "x": "El Yomiuri Shimbun también informó de que las seis empresas que recibirán la ayuda sin ser de manga o anime incluyen compañías relacionadas con 'música, videojuegos e imagen real.' Todavía no está claro cuáles son esas seis empresas ni cómo se repartirán entre las tres categorías. Pero, con los editores de videojuegos Square Enix y Bandai Namco ya en la lista, METI podría estar buscando que ambos se beneficien de más de una vía."
+        }
+      ]
+    },
+    "games/nvidia-artfixer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/artfixer3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Desde 2020 se ha usado la técnica de redes neuronales NeRF para construir escenas 3D a partir de fotos y video en 2D, con Luma AI, que convierte vídeo de móvil en espacios directamente en el navegador, como ejemplo destacado. En los últimos años surgió el Gaussian splatting, que usa partículas pequeñas para acelerar enormemente el procesamiento."
+        },
+        {
+          "t": "p",
+          "x": "El prototipo ArtFixer de Nvidia imagina y rellena las áreas vacías que el video nunca captó, usando un 'modelo autorregresivo abierto'. La clave es que la alucinación de la IA no es un fallo, sino el propio principio de funcionamiento."
+        },
+        {
+          "t": "p",
+          "x": "El Gaussian splatting ya se ha usado en películas. Recientemente apareció en Superman, para el holograma de los padres de Krypton, y en Sinners, en una escena en la que Michael B. Jordan se enfrenta a sí mismo. También se usó en el videoclip 'Helicopter' de A$AP Rocky, pero el resultado ahí fue pobre."
+        },
+        {
+          "t": "video",
+          "yt": "_8ll6vAbm3o"
+        },
+        {
+          "t": "p",
+          "x": "Su utilidad en los videojuegos sigue siendo limitada por ahora. El Gaussian splatting no se integra bien con otras herramientas 3D, así que no puede llevar iluminación, física ni sombras. Además, el splatting normal por sí solo exige al menos 24GB de VRAM, y sumarle el contenido imaginado de ArtFixer solo aumenta la carga."
+        },
+        {
+          "t": "p",
+          "x": "En opinión del autor, esta tecnología encarece la RAM y hace crecer los centros de datos de IA, lo que presiona al medio ambiente. La nueva Steam Machine de Valve cuesta más de 1.000 dólares, y se dice que, sin el efecto de la IA en el precio de los componentes, habría estado más cerca de los 750 dólares. La PS5 Pro ahora cuesta 900 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Al final, lo que ArtFixer demuestra es que la IA, tras entrenarse con infinidad de fotos y videos, inventa la versión más plausible de lo que falta. Ya sea Claude, ChatGPT o Grok, todos los LLM que usamos caminan por la cuerda floja entre ser útiles e inventarse las cosas."
+        }
+      ]
+    },
+    "games/palworld-noai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamingbolt.com/wp-content/uploads/2024/01/palworld-image-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con la IA generativa como tema candente en la industria de los videojuegos, Jon Buckley, jefe de comunicación y publishing de Pocketpair, expuso la postura del estudio. En una entrevista con GamesRadar, explicó que Pocketpair evita la IA generativa porque 'los jugadores no la quieren.'"
+        },
+        {
+          "t": "p",
+          "x": "Buckley admitió que otros equipos de desarrollo podrían pensar distinto, pero se mostró escéptico sobre las perspectivas a largo plazo de la IA. Dijo que el impulso actual del mercado que sostiene la IA generativa no parece sostenible, y añadió que 'incluso Steam está frenando un poco esto.'"
+        },
+        {
+          "t": "p",
+          "x": "Pocketpair cuenta con artistas internos que prefieren crear el contenido ellos mismos. Buckley añadió: 'No hay motivo para despedirlos solo para dejárselo a la IA.'"
+        },
+        {
+          "t": "p",
+          "x": "Sobre los juegos que usan activos generados por IA, Buckley mostró su decepción: 'Hasta yo, que estoy en la industria, pensé simplemente, uf, ¿por qué?' Cree que los consumidores también empezarán a preguntarse por qué elegir la IA cuando se puede hacer a mano."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el marketing futuro, expresó preocupación por que la industria normalice los avisos de IA como algo rutinario. Calificó de 'distópico' exigir una etiqueta de 'hecho por humanos' en los juegos, y previó que el rechazo de los consumidores será más fuerte en los mercados occidentales."
+        },
+        {
+          "t": "p",
+          "x": "Por su parte, Playground Games confirmó que no usó voces generadas por IA en Fable, mientras que Crystal Dynamics dijo que usó IA generativa en el desarrollo temprano de Tomb Raider: Legacy of Atlantis."
+        }
+      ]
+    },
+    "games/steam-aidisclaim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/p-body-from-portal-2-running-on-top-of-the-steam-logo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Steam Next Fest suele ser un tesoro de juegos indie, el lugar para descubrir gemas escondidas como Spaghetti Western Golden Chambers o la Repose, de estética ASCII. Últimamente, sin embargo, se ha convertido en un campo minado de slop de IA."
+        },
+        {
+          "t": "p",
+          "x": "Según GamesRadar+, casi 1.700 de las 8.600 demos de este Next Fest usan IA, alrededor de una de cada cinco. Lo que antes eran unos días emocionantes para llenar la lista de deseos se ha convertido en un trámite agotador de 'oh, esto se ve genial... ah, usa IA.'"
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores deben declarar el uso de IA, pero ese aviso no es más que una pequeña nota a pie de página en la parte inferior de la ficha de la tienda. Para evitar las 1.700 demos que usan IA hay que revisar una por una todas las que interesan. Es tedioso, y le resta gracia a lo que debería ser una fiesta."
+        },
+        {
+          "t": "p",
+          "x": "Esta queja no es solo del autor. El streamer de Twitch Jeff Fabre escribió en X que 'la cantidad de IA en este Next Fest es ridícula', y pidió una señal visual y filtros. Dijo: 'Me costó una eternidad encontrar siquiera dónde estaba el aviso. Estaba mirando el lado derecho, donde están las palabras clave y las etiquetas, pero la señal debería estar encima de la descripción, a la derecha.'"
+        },
+        {
+          "t": "p",
+          "x": "Valve tiene varios caminos posibles. El más obvio es poner una pegatina de IA poco favorecedora en la portada para que se sepa de inmediato sin tener que entrar en la ficha. Como sugiere Fabre, poner una señal encima de la descripción o junto a las palabras clave y etiquetas también haría que apareciera en la vista previa al pasar el cursor sobre el juego."
+        },
+        {
+          "t": "p",
+          "x": "La solución ideal sería un filtro que excluyera por completo a los estudios que usan IA, como se hace con los juegos para adultos. Pero eso exige tener en cuenta matices: casos como Clair Obscur: Expedition 33, que retiró activos de IA, frente a Arc Raiders, donde importa cómo se usaron las herramientas, ya sea para código, arte o sustitución de actores de voz. Un filtro más detallado presionaría a los desarrolladores para que fueran más transparentes."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores también han pedido un botón para ocultar juegos ellos mismos. El shovelware ya es un gran problema en las tiendas digitales, y Steam también lucha contra estafas, malware y plagio. La IA es solo otro tipo de slop, y los jugadores están agotados. Algo tiene que cambiar, claramente."
+        }
+      ]
+    },
+    "games/devs-genai-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HG9dzc6etWG6qqJ8Crh2pV-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anunciada como una revolución, la IA generativa sigue siendo un tabú en los videojuegos. Muchos desarrolladores la evitan o critican abiertamente, como Eric Barone de Stardew Valley o Unknown Worlds de Subnautica 2. Incluso títulos premiados como Kingdom Come: Deliverance 2 y Baldur's Gate 3 sufrieron una fuerte reacción negativa por meras sospechas de uso de IA, y los filtros de IA de NVIDIA en DLSS 5 también chocaron con un fuerte rechazo de desarrolladores y jugadores."
+        },
+        {
+          "t": "p",
+          "x": "Algunos ven valor en ella. Todd Howard, de Bethesda, la llamó una \"herramienta\" útil aunque no sea para generación propiamente dicha, y los directores ejecutivos de EA y Ubisoft la han promovido como la tecnología del futuro. Ubisoft ha invertido mucho en \"IA generativa para los jugadores\". Arc Raiders, un éxito de 2025, usó bastante voz generada por IA antes de sustituir buena parte por actores humanos."
+        },
+        {
+          "t": "p",
+          "x": "El autor entrevistó a más de 30 desarrolladores. Muchos se negaron a responder o pidieron permanecer en el anonimato. Solo había tres preguntas: cómo ven la IA generativa, si quieren usarla y cómo debería gestionarla la industria. Las respuestas fueron abrumadoramente negativas."
+        },
+        {
+          "t": "p",
+          "x": "Los centros de datos consumen grandes cantidades de agua para refrigeración y una enorme cantidad de electricidad: el consumo de un solo centro puede equivaler al de decenas de miles de hogares. Los componentes se han vuelto escasos y más caros, con precios de RAM que se triplicaron en menos de dos años. Los datos de entrenamiento suelen recopilarse sin el consentimiento de los creadores, lo que ha arrastrado a una serie de demandas a todos, desde ChatGPT de OpenAI hasta Grok de xAI."
+        },
+        {
+          "t": "p",
+          "x": "David Szymanski, creador de Iron Lung y Dusk, dice que no se opone a la IA en sí, pero cree que la industria necesita \"poner primero su conducta en orden\" antes de que se la pueda tomar en serio. David Gaider, que dirigió la narrativa de Dragon Age, se centra en el problema moral: los escritores nunca dieron su consentimiento para que \"saquearan sus datos\"."
+        },
+        {
+          "t": "p",
+          "x": "El riesgo legal también es grande. Danny Koo, productor ejecutivo de Marvel Rivals, dijo que por eso su juego no usa ninguna IA generativa. \"Es mejor poder decir con confianza que todos los activos fueron hechos por el equipo sin ayuda externa. Así es como no te contaminas\"."
+        },
+        {
+          "t": "p",
+          "x": "Las afirmaciones de que se reemplaza a personas con IA suelen ser exageradas —como ha señalado el CEO de Take-Two, Strauss Zelnick, a menudo son una cortina de humo para recortar costes— y cuando el reemplazo ocurre de verdad, lo que suele desaparecer son los puestos de nivel inicial. Gaider preguntó: \"si eliminas todo el trabajo de nivel inicial, ¿cómo formas a la próxima generación de desarrolladores?\"."
+        },
+        {
+          "t": "p",
+          "x": "Incluso dejando de lado esas preocupaciones, persisten las críticas de que la IA simplemente no puede hacer lo que hace una persona. Gaider la considera poco práctica para el desarrollo de videojuegos porque no puede transmitir intención ni reproducir un proceso. John Buckley, de Palworld, lo dijo sin rodeos: en su estudio hay \"muchos artistas a los que les gusta hacerlo ellos mismos\" y \"los jugadores no lo quieren\"."
+        },
+        {
+          "t": "p",
+          "x": "Sam Barlow, veterano de Silent Hill, calificó su uso actual de \"ineficiente y roto\". Contó la experiencia de un colega al que le pidieron \"limpiar\" diálogos escritos por IA a una tarifa baja, un trabajo que resultó más difícil que escribirlos desde cero. Xalavier Nelson Jr., que ha participado en más de 100 juegos, dijo que \"la IA generativa no es un botón de 'deberías', sino un botón de 'puedes'\"."
+        },
+        {
+          "t": "p",
+          "x": "Bruce Straley, veterano de Naughty Dog, dijo sentirse \"asustado\", pero al final afirmó que \"se necesita a alguien con gusto y sensibilidad de artesano para llegar a un resultado valioso\". El autor concluye que esas 32 entrevistas se leen como un conflicto entre quienes quieren hacer el trabajo y quienes simplemente desean el resultado."
+        }
+      ]
+    },
+    "games/games-ea-creativity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Laura Miele, directora de desarrollo corporativo de Electronic Arts, cree que, a medida que la inteligencia artificial crece en el desarrollo de videojuegos, elimina el trabajo tedioso y rutinario y acelera todo el proceso, lo que puede llevar a \"a real rise in creativity\"."
+        },
+        {
+          "t": "p",
+          "x": "Miele expresó esta idea a principios de este mes en el showcase Game Business Live de Summer Game Fest, cuando le preguntaron si más herramientas de IA acortarían los ciclos de desarrollo en general."
+        },
+        {
+          "t": "p",
+          "x": "\"Perhaps in some parts they will,\" dijo Miele. \"I really believe in what I've seen, that I'm pretty excited about. I've always wanted to help our studio developers remove friction and I've always kind of wanted to be a hero to them and help them create career-defining experiences.\""
+        },
+        {
+          "t": "p",
+          "x": "\"And I think that AI, what I've seen, how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs. And I've seen faster prototyping. I've seen faster creativity and shorter, faster conversations around creativity and coming to alignment. So, we're seeing it and I think there's a real rise of creativity that comes from removing some of the tedious tasks out of development.\""
+        },
+        {
+          "t": "p",
+          "x": "No está del todo claro a qué tipo de IA se refiere exactamente. Hay una gran distancia entre una herramienta de gestión de proyectos basada en IA, como la que usa Fumito Ueda, director de Shadow of the Colossus, en Genki Design, y las máquinas de 'slop' de IA generativa que han invadido casi todos los rincones."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, EA nunca ha ocultado su entusiasmo por la IA generativa. El CEO Andrew Wilson, por ejemplo, dijo en 2024 que la empresa estaba \"embracing [generative AI] deeply\" y que \"about 60% of all of our development processes have high feasibility to be positively impacted by generative AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Según se informa, EA también cuenta con la IA para reducir costos operativos, mientras intenta hacer frente a los 20.000 millones de dólares de financiación de deuda asumidos durante la adquisición de la empresa por 55.000 millones de dólares por parte del Fondo de Inversión Pública de Arabia Saudita. (Si te preguntas por qué EA, la empresa que está siendo adquirida, asume miles de millones de dólares en deuda para ayudar a pagar su propia adquisición, el experto financiero de PC Gamer, Lincoln Carpenter, lo ha explicado. En resumen: todos están asustados.)"
+        },
+        {
+          "t": "p",
+          "x": "Según se informa, los empleados no reciben con el mismo entusiasmo este futuro centrado en la IA. Algunos sospechan que la empresa utiliza la IA para justificar despidos. Esté o no relacionado con la IA, EA ha despedido a cientos de personas en BioWare y Respawn, y cerró por completo Cliffhanger Games, desde que se anunció la inversión saudí en septiembre de 2025. Se informa que la ronda de despidos más reciente ocurrió a principios de esta semana, sin que se haya revelado cuántas personas perdieron su empleo."
+        }
+      ]
+    },
+    "games/games-ue6-reactions": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Expertos de la industria y desarrolladores de Unreal Engine están divididos sobre la presentación de State of Unreal de Epic Games. Unreal Engine 5.8, los primeros detalles de UE6, los flujos de trabajo de IA basados en MCP, Verse y, finalmente, el abandono de Blueprints, estuvieron todos bajo escrutinio."
+        },
+        {
+          "t": "p",
+          "x": "La impresión más fuerte para muchos desarrolladores es que Epic no está tratando UE 5.8 y UE6 como una simple actualización más de renderizador, flujo de trabajo o rendimiento. La empresa está sentando las bases de una transformación de producción más amplia, centrada en flujos de trabajo asistidos por IA, Verse, contenido interoperable y una relación más estrecha entre Unreal Engine y UEFN. En otras palabras, Epic parece estar dando un gran paso hacia el motor de metaverso que ha imaginado durante mucho tiempo."
+        },
+        {
+          "t": "p",
+          "x": "En su hoja de ruta oficial, Epic dijo que UE6 mejorará el renderizado, reducirá los tiempos de cocción (cook), ajustará el ciclo de iteración y mejorará el rendimiento en móviles. Al mismo tiempo, busca cambiar la forma en que los juegos se lanzan y se operan mediante Verse, estándares abiertos, contenido interoperable e integración MCP para herramientas como Claude y Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Primero, las funciones que llegarán en UE 5.8 entusiasmaron a los desarrolladores. El terreno de malla resultó impresionante, Lumen Lite, orientado a dispositivos de gama baja como la Switch 2, fue bien recibido como señal de optimización, y Lore, un nuevo sistema de control de versiones de código abierto, también generó interés. Bjornar Hoff, de Rainiere Virtual, dijo \"My favourite bit of the show!\" y señaló que en UE6, UEFN y UE se fusionan en la misma línea de producto."
+        },
+        {
+          "t": "p",
+          "x": "Brian J. Pohl, exempleado de Epic y actual artista principal de visualización en [namethemachine], calificó esta noticia centrada en la integración de IA como un \"turning point\" clave para la industria. Matthew J.X. Doyle, de Falswork, dijo que el \"real throughline\" de la keynote era la convergencia de UE5 y UEFN en un motor \"foundation-first\" construido sobre Verse y memoria transaccional de software distribuido."
+        },
+        {
+          "t": "p",
+          "x": "El punto más polémico es que Actors y Blueprints finalmente serán reemplazados y retirados por etapas por una nueva estructura basada en Verse que usa Scene Graph. Anton Mikhailenko, de Keyboard Katz Studio, argumentó que un lenguaje de scripting no visual favorece el mantenimiento, la optimización y facilita las fusiones, por lo que es más adecuado para equipos grandes. Señaló que Epic está apostando por un uso extendido de LLM durante toda la vida de UE6."
+        },
+        {
+          "t": "p",
+          "x": "El optimismo no fue unánime. Algunos desarrolladores y artistas interpretaron el mismo anuncio como una señal de un cambio mucho más disruptivo de lo que sugería el planteamiento de Epic. La preocupación práctica más clara es el futuro de Blueprints. En la hoja de ruta, Epic dijo que mantendrá Actors y Blueprints en las primeras versiones de UE6, pero que los retirará \"eventually\" una vez que el nuevo marco madure, con herramientas de conversión para ayudar a migrar proyectos."
+        },
+        {
+          "t": "p",
+          "x": "Epic fija el acceso anticipado de UE6 para finales de 2027, con el lanzamiento completo previsto entre 12 y 18 meses después. Eso significa que no habrá una ruptura inmediata, pero la dirección a largo plazo es clara. Como Blueprints ha simbolizado la accesibilidad de Unreal durante años, las dudas surgieron de inmediato. De hecho, el ganador del Juego del Año, \"Clair Obscur: Expedition 33\", fue posible porque un equipo pequeño construyó todo su sistema de jugabilidad en Blueprints."
+        },
+        {
+          "t": "p",
+          "x": "Steve Vegan, artista técnico senior de Industrial Light & Magic, fue aún más tajante. \"The joy in creation does not come from the volume of output. It comes from the art process. Tools like this exist to remove the creation process entirely.\" Chris Geislerjohnson, exartista de UI en Epic, Infinity Ward y Rebellion, también calificó de \"risky\" alejarse de Blueprints, que ha reducido la barrera de entrada."
+        },
+        {
+          "t": "p",
+          "x": "Epic trató de calmar estas preocupaciones, afirmando que su filosofía es llevar consigo los proyectos existentes y que no \"force a hard break\". Aun así, sigue siendo cierto que Scene Graph, el nuevo marco de jugabilidad de UE6, se está construyendo desde cero sobre Verse. Como dijo Tim Sweeney, \"UE5 plus UEFN equals UE6\", así que el tiempo dirá cómo resisten este cambio los proyectos que están en desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo va más allá de mejoras en renderizado o rendimiento. Se trata de construir una sola vez y lanzar en PC, consola, móvil, Fortnite e incluso otros ecosistemas basados en UE6. Para equipos pequeños y desarrolladores de servicios en vivo, eso podría significar iteración más rápida, distribución más amplia y contenido más fácil de mover. Pero el control del editor asistido por IA, los sistemas basados en Verse, el contenido interoperable y la distribución a través de Fortnite también plantean preguntas reales sobre formación, mantenimiento, derechos de autor, roles de equipo y política de producción."
+        }
+      ]
+    },
+    "games/games-vampire-fortnite": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Poncle, creador de \"Vampire Survivors\", dijo que está revisando su colaboración prevista con Fortnite. El anuncio llegó justo después de que Epic Games dijera que añadiría funciones de IA a Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "El estudio escribió esto en Reddit: \"Following today's news about gen-AI usage by Epic to create all sort of game assets, including Fortnite characters, we're currently 'reviewing' our collaboration with Fortnite.\""
+        },
+        {
+          "t": "p",
+          "x": "Epic acababa de presentar cuatro nuevos crossovers de Fortnite, uno de los cuales era contenido de Vampire Survivors. Pero la preocupación del estudio es lo que Epic anunció en el mismo evento: la integración de IA generativa en Unreal Engine 6, que incluye herramientas como Claude y Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Según el ejecutivo de Epic Marcus Wassmer, estas funciones de IA están diseñadas como \"creativity and productivity multipliers\" que ayudan a los equipos de desarrollo a centrarse en el trabajo creativo central. Epic mostró a artistas usando IA generativa para conceptualizar personajes y entornos de Fortnite."
+        },
+        {
+          "t": "p",
+          "x": "Este episodio refleja la indecisión de la industria ante la adopción de la IA. Encuestas anteriores muestran que alrededor de la mitad de los desarrolladores de videojuegos ven la IA generativa de forma negativa, por temor a que pueda dañar la calidad de los juegos y a la industria en general."
+        }
+      ]
+    },
+    "games/monster-npc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta mañana, el estudio independiente de Chengdu Jotoyo Games presentó su primer título, Monster Fantasy. Jotoyo tiene unas 20 personas, pero juntas suman \"decades\" de experiencia en la industria. El estudio se prepara para un lanzamiento en PC tras una campaña de Kickstarter que comienza el 15 de julio. Su página de Steam ya está activa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Story-KV-final-728x434.jpg",
+          "cap": "Imagen clave de Monster Fantasy"
+        },
+        {
+          "t": "p",
+          "x": "Inspirado en éxitos como Monster Hunter, Stardew Valley, Animal Crossing y Pokémon, combina la caza libre de monstruos con la construcción de pueblos y la simulación de vida en un colorido estilo de arte chibi."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores se convierten en un héroe amnésico en el Reino de Eldoras, un vasto mundo de fantasía que abarca valles, selvas tropicales, llanuras heladas y volcanes. El reino es el escenario donde se desarrollan tanto la aventura de caza de monstruos como la vida tranquila del pueblo. El diseño central de Monster Fantasy divide el juego en dos módulos completamente independientes, combate y simulación de vida, cada uno con su propio camino de progreso."
+        },
+        {
+          "t": "p",
+          "x": "A nadie se le obliga a elegir un camino. Tanto los cazadores más hardcore como los agricultores puramente relajados pueden terminar la campaña. Según el fundador Allan Xai, el objetivo del estudio es \"break down the barrier between action games and cozy games\", es decir, crear un espacio que une a los jugadores principales y a los casuales."
+        },
+        {
+          "t": "p",
+          "x": "En el combate, los jugadores eligen entre cuatro clases, cada una con su propia sensación. El Warrior maneja equipo pesado, alternando entre ataque y defensa con un bloqueo preciso. El Mage combina elementos para crear y lanzar sus propios hechizos. El Archer se centra en un combate a distancia literalmente preciso, mientras que el Swordsman es otro personaje cuerpo a cuerpo centrado en una acción ágil basada en la evasión. Sin embargo, las habilidades están ligadas a armas individuales, así que un mismo personaje puede llegar a desbloquear las habilidades de las cuatro clases. Se puede especializar en un camino o dominar los cuatro."
+        },
+        {
+          "t": "p",
+          "x": "El combate también tiene muchas variables. El ciclo día-noche y el clima afectan el comportamiento de los monstruos, lo que recompensa a los jugadores que estudian la ecología antes de atacar. Los vecinos pueden reclutarse como compañeros de combate, aunque no todos son aptos para luchar. Más de 50 especies de monstruos gigantes pueblan Eldoras, cada una con hábitos propios y puntos débiles que explotar."
+        },
+        {
+          "t": "p",
+          "x": "Los monstruos derrotados también pueden domesticarse y quedarse como mascotas. Crecen desde formas juveniles, obtienen nuevas habilidades con el tiempo y algunos se convierten en monturas usadas para desplazarse y para el combate cooperativo."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores nombran y gestionan su propio pueblo, construyen casas y decoran su asentamiento a su gusto. Monster Fantasy presenta unos 100 vecinos únicos con los que se puede entablar amistad, cada uno con personalidad, fortalezas e intereses distintos. Se puede acoger en el pueblo a los que gusten y reclutarlos para el trabajo o el combate. Además, gracias a la tecnología LLM y TTS, un sistema de conversación basado en IA permite reclutamientos, negociaciones y charlas cotidianas en formato libre y en tiempo real."
+        },
+        {
+          "t": "video",
+          "yt": "16QNW-WFr1c"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no se ha fijado una fecha de lanzamiento."
+        }
+      ]
+    },
+    "games/sweeney-valve": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El CEO de Epic Games, Tim Sweeney, considera que el etiquetado de IA que Valve exige a los desarrolladores en Steam es \"really irresponsible\" y alimenta una \"hater community\"."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, Sweeney y el personal de Epic subieron al escenario de Unreal Fest para revelar los primeros detalles de Unreal Engine 6. Uno de los mensajes centrales fue que Epic no evita el uso de IA generativa, sino que pretende apoyar su uso en el proceso de desarrollo de videojuegos."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/01/tim-sweeney-at-gdc.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Tim Sweeney en la GDC"
+        },
+        {
+          "t": "p",
+          "x": "Como ya mostraban sus publicaciones en redes sociales, este comentario continúa una línea en la que Sweeney apoya y defiende la IA en los videojuegos. Esta vez fue más allá: Sweeney apuntó directamente a la forma en que Valve trata la IA y a la exigencia de declarar su uso en Steam."
+        },
+        {
+          "t": "p",
+          "x": "Como señaló el usuario de ResetEra Alexandros, PC Gamer entrevistó a Sweeney justo después de la presentación de State of Unreal. Durante la entrevista, habló de lo caro y difícil que es para los desarrolladores crear assets, y señaló que la IA es una vía económica para obtener assets con un \"unique look and feel\"."
+        },
+        {
+          "t": "p",
+          "x": "Sweeney añadió que los desarrolladores están en la posición de tener que publicar en Steam para dar a conocer sus juegos, y que es \"unfortunate\" que un juego reciba una \"Scarlet Letter of AI\" si se usó IA durante el desarrollo. El resultado, dijo, es una \"hater community trying to kill the game\"."
+        },
+        {
+          "t": "p",
+          "x": "Sweeney considera que la advertencia de etiquetado de IA de Valve es \"really irresponsible\", y dice que reduce las posibilidades de éxito de los desarrolladores, por lo que Valve \"shouldn't do it\". En resumen, cree que no se debería exigir declarar el uso de IA en el desarrollo de videojuegos como se hace ahora, porque eso condena a los desarrolladores al fracaso desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "Sweeney tiene razón en que los juegos que declaran el uso de IA sufren una reacción feroz: basta ver Tomb Raider: Legacy of Atlantis. Aun así, dado el costo ambiental y la ausencia de creación humana, no es extraño que los jugadores mantengan las distancia. Por desgracia, la IA apenas muestra señales de frenar, pero la mayoría coincidiría en que es mejor que Valve declare los hechos que no hacerlo."
+        }
+      ]
+    },
+    "games/ue-evangelist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sjoerd De Jong, un experto que trabajó con Unreal Engine desde sus primeros días, ha dejado Epic Games. Se incorporó como empleado a tiempo completo en 2014, empezando como \"lead evangelist\", y más recientemente fue director sénior de un proyecto no anunciado. Anunció su salida en una publicación de LinkedIn la semana pasada."
+        },
+        {
+          "t": "p",
+          "x": "\"After 27 years of Unreal Engine, and 12 years at Epic Games and Unreal Engine I have decided to move on. Last week was my last week at Epic\", escribió De Jong. \"This has been an awesome ride that has been truly life changing in so many ways. I didn't have an easy childhood or youth and things weren't going anywhere, but all of that changed entirely when I discovered Unreal Engine\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w8LJ6ZcQ5oGa6kMkT8VBzY.jpg",
+          "cap": "State of Unreal Chicago 2026, donde se reveló Unreal Engine 6"
+        },
+        {
+          "t": "p",
+          "x": "Su relación con Unreal se remonta a cuando tenía 15 años y modificaba el FPS original de 1998. Como creador de mapas destacado, se incorporó al trabajo de Unreal Tournament 2004 gracias a una oferta directa de Epic, diseñando niveles como DM-Rankin y ONS-Torlan. Según las estadísticas de servidores recopiladas en la wiki de Unreal, DM-Rankin es el mapa de UT2004 más jugado de la historia. El portafolio de su sitio personal también reúne de un vistazo otros trabajos como Killzone y The Ball."
+        },
+        {
+          "t": "p",
+          "x": "Pasó por varios estudios, entre ellos Starbreeze y su propia compañía indie, Teotl Studios, pero Unreal Engine siguió siendo durante mucho tiempo su pasión y especialidad. Por eso Epic lo contrató en 2014, llamándolo el \"lead evangelist\" del motor."
+        },
+        {
+          "t": "p",
+          "x": "En la publicación de LinkedIn, contó cuánto cambió su vida al trabajar en Epic con varias generaciones del motor. \"Dozens of countries visited, hundreds of studios visited, hundreds of talks presented, tens of thousands of people met, and millions of developers supported every year\"."
+        },
+        {
+          "t": "p",
+          "x": "Sobre por qué decidió marcharse ahora, escribió que \"this era has come to a close, and it is time to move forward\". \"The games industry has always been an industry where change is relentless and inevitable, but it feels like we are reaching a pivotal point now and a potent mix of things\"."
+        },
+        {
+          "t": "p",
+          "x": "Epic reveló recientemente sus planes para Unreal Engine 6, que fusiona Unreal Engine 5 y Unreal Editor for Fortnite, con un fuerte énfasis en estándares abiertos que permitan que el contenido, el código y las economías se porten e interoperen entre juegos, ecosistemas y motores, además de la integración de IA generativa. De cara al futuro, De Jong dijo que, para él, lo estratégico es aceptar la dirección hacia la que avanza la industria, resolver los retos y oportunidades que presenta, y encontrar la manera de adaptarse y hacerlo bien."
+        }
+      ]
+    },
+    "games/ue6-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En State of Unreal 2026, transmitido en directo desde Unreal Fest en Chicago, Epic Games anunció el lanzamiento de Unreal Engine 5.8 mientras explicaba en profundidad Unreal Engine 6, que había mostrado brevemente por primera vez el mes pasado en la Rocket League Championship Series 2026 en París."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/unreal-engine-6-x-uefn-HD-728x410.jpeg",
+          "cap": "Unreal Engine 6 × Unreal Editor for Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "El fundador, CEO y accionista mayoritario Tim Sweeney subió al escenario para explicar que UE6 no se limita a mejorar el renderizado o la construcción de mundos, sino que cambia la forma misma de lanzar y operar los juegos. La idea es que, una vez construido con Unreal Engine 6, un juego pueda publicarse en cualquier tienda de consola, PC o móvil, y además conectarse en vivo con el ecosistema de Fortnite o con juegos que otros desarrolladores hayan hecho con UE6."
+        },
+        {
+          "t": "p",
+          "x": "Así que UE6 fusiona UE5 y Unreal Editor for Fortnite en un único motor, pero eso es solo la punta del iceberg. El nuevo motor se apoya en Verse, un nuevo lenguaje de programación diseñado para mundos persistentes masivos, en el que el runtime gestiona el estado global y la concurrencia transaccional. Scene Graph es el framework de gameplay de UE6, construido desde cero sobre Verse, pensado para lograr componentes interoperables que distintos juegos puedan reutilizar."
+        },
+        {
+          "t": "p",
+          "x": "La parte que probablemente genere más atención es la integración de LLMs en Unreal Engine 6. Mediante un plugin de MCP (Model Context Protocol), Epic expone una amplia gama de funciones del motor al modelo que se prefiera, ya sea Claude, Gemini o un modelo personalizado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/UE-LLM-MCP-scaled.jpg",
+          "cap": "Una renderización de una ciudad de Unreal, con código y menús del editor visibles en la parte inferior derecha de la pantalla"
+        },
+        {
+          "t": "p",
+          "x": "Se trata de una capa de flujo de trabajo opcional dentro de Unreal, en la que el modelo ayuda con la creación de contenido mientras el desarrollador mantiene el control. El modelo no sustituye al editor, sino que opera a través de él, y todo puede seguir editándose directamente en Unreal. Cuando el desarrollador le da un prompt o una tarea, el modelo examina la escena y hace cambios mediante MCP. En la demostración, Epic mostró cómo amueblar una habitación, ampliarla a escala de ciudad, colocar calles y edificios, y luego ajustar iluminación, materiales y efectos."
+        },
+        {
+          "t": "p",
+          "x": "En su publicación de blog sobre UE6, Epic escribió: \"Thus, for UE6, we see LLMs, generative AI models, and tools like Claude and Codex playing a central role in helping you build content faster while maintaining the creative control you need.\" La idea no es mantener la IA como una herramienta aparte, sino integrarla en la propia creación de contenido. Para los equipos de desarrollo, esto significa que el modelo ayuda con el ensamblaje de niveles, la configuración de personajes, la asistencia de código, el análisis de fallos y la generación de pruebas."
+        },
+        {
+          "t": "p",
+          "x": "Los LLM son débiles a la hora de manejar el espacio, pero Epic cubrió esa carencia proporcionando más de 80 bloques primitivos de generación procedural de contenido, una biblioteca de ejemplos y Skills que recogen flujos de trabajo específicos de Unreal. Sobre todo, todo permanece bajo el control del desarrollador, que decide cuánta ayuda recibir del LLM. El servidor MCP, el PCG Primitive Plugin y las Skills personalizadas, de hecho, ya se publicaron hoy como parte de 5.8. El objetivo de acceso anticipado de UE6 es a finales de 2027, con el lanzamiento completo entre 12 y 18 meses después, lo que lo sitúa a finales de 2028 como muy pronto y, de forma más realista, en 2029."
+        }
+      ]
     }
   }
 }

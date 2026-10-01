@@ -1117,6 +1117,706 @@
           "x": "¿Es entonces mejor que el Persona de Apple? El autor responde que depende de qué se entienda por \"mejor\". Persona sigue siendo una cabeza flotante, pero tiene profundidad 3D real, y el seguimiento facial de Vision Pro es inquietantemente preciso."
         }
       ]
+    },
+    "design/figma": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Figma renovó el auto layout en sus notas de lanzamiento del 24 de julio. Alineó la forma de manejar los diseños con CSS, reduciendo los rodeos que los desarrolladores forzaban durante el handoff."
+        },
+        {
+          "t": "p",
+          "x": "Es uno de los cambios que se sucedieron durante todo julio. El día 16 conectó las pantallas basadas en código con las variables de archivo existentes, y el día 9 incorporó GPT-5.6 dentro de Figma Make. Mejoras pequeñas pero sustanciales que ajustan con fuerza el vínculo entre diseño y código."
+        },
+        {
+          "t": "p",
+          "x": "En ese vínculo es justo donde se apoyan los flujos de trabajo con IA."
+        }
+      ]
+    },
+    "design/10-things-cg-artists-need-to-know-ab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games celebró esta semana Unreal Fest 2026 en Chicago y presentó la próxima versión, Unreal Engine 6. A diferencia de 2020, cuando Unreal Engine 5 llamó la atención con gráficos vistosos como Nanite y Lumen, esta vez casi no hubo demos en vivo ni se habló de gráficos. El foco estuvo en cambiar el interior del motor, es decir, la programación y el despliegue. Epic escribió en su blog: «Si UE5 cambió la forma de construir mundos, UE6 cambia la forma de lanzarlos y operarlos»."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/06/260619_10ThingsCGArtistsShouldKNowAboutUnrealEngine6_1Unified.jpg",
+          "cap": "UE6 unifica el editor de Unreal y el editor de Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "UE6 se reconstruye sobre Verse, el lenguaje del editor de Fortnite, y retira poco a poco Blueprint, la herramienta de scripting visual. Como Blueprint permitía a quienes no programaban crear contenido sin código, su eliminación se convirtió en el punto más comentado del anuncio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/06/260619_10ThingsCGArtistsShouldKNowAboutUnrealEngine6_6AI.jpg",
+          "cap": "La IA generativa ocupa un lugar importante en el flujo de trabajo de UE6"
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa también recibió atención considerable, orientada más a refinar contenido de juego que a crearlo desde cero. A diferencia de Unity, Epic optó por no tener su propio servicio de IA y en cambio conectó el motor con un ecosistema externo de modelos. Ya incorporó un servidor MCP en Unreal Engine 5.8 para que LLM como Claude o Gemini manejen el motor en lenguaje natural, y a principios del año próximo lanzará herramientas de modelos de difusión que usan como entrada la profundidad y los mapas normales de una escena 3D. Marcus Wassmer dijo: «En UE6, los LLM, los modelos de IA generativa y herramientas como Codex cumplen un papel central para crear contenido más rápido»."
+        },
+        {
+          "t": "p",
+          "x": "UE6 llegará primero en acceso anticipado a finales de 2027, con la versión estable prevista entre 12 y 18 meses después. Al tratarse de un cambio grande que rompe la compatibilidad, la transición será similar a la del paso de UE4 a UE5, y Epic dijo que por ahora no tiene planes de lanzar por separado Unreal Engine 5.9."
+        }
+      ]
+    },
+    "design/4535a14d-ea20-4047-9b2d-166397850c7c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic construyó un nuevo comando que conecta diseño y desarrollo en ambas direcciones. Escribir /design-sync trae la biblioteca de componentes de la organización a Claude Design. Una vez pulido el prototipo, el proyecto pasa directamente a Claude Code, de modo que los ingenieros ya no necesitan rehacer las pantallas a partir de capturas de pantalla ni recrearlas a mano."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores que prefieren trabajar en la terminal pueden escribir /design dentro de Claude Code para ver un lienzo de diseño en vivo sin salir de su entorno de desarrollo. Anthropic dijo: «Claude construye con tus componentes, revisa el resultado frente a tu sistema de diseño y lo corrige por sí mismo antes de que lo veas»."
+        },
+        {
+          "t": "p",
+          "x": "Alex Lieberman, cofundador de Morning Brew y Tenex, dijo que esta herramienta se ha vuelto indispensable en su base tecnológica, destacando sobre todo su facilidad de uso y el paso fluido hacia el código de producto. El anuncio se hizo el 17 de junio, y Claude Design, que abrió su beta en abril, fue usado por un millón de personas en su primera semana. Los precios parten de 20 dólares al mes para Pro y 100 dólares para Max."
+        }
+      ]
+    },
+    "design/adobe-adds-its-ai-assistant-to-premi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe ha renovado su Firefly AI Assistant y lo lleva a Premiere, Illustrator, InDesign y Frame.io. El asistente ahora cuenta con funciones nuevas para crear kits de marca, videos de producto y guiones gráficos, y la app Firefly permite guardar los resultados como un solo elemento para reutilizarlos en varios proyectos."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Premiere-AI-Assistant-16x9-1.jpg?w=680",
+          "cap": "El Firefly AI Assistant llega a Premiere. Imagen: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "En Premiere, el asistente clasifica el material en bins, renombra clips en bloque, identifica preguntas de entrevista y añade marcadores. En Illustrator, reorganiza las capas de todo un documento o encuentra fuentes faltantes. Firefly ya funciona en Express, Photoshop y Acrobat, y está respaldado por ChatGPT, Claude y Copilot. Adobe dijo que pronto dará soporte también a Google Gemini y Slack."
+        },
+        {
+          "t": "p",
+          "x": "Adobe está acercando cada vez más Firefly a Canva, llenando la app de herramientas de IA que generan imágenes, video y guiones gráficos. Esta vez añadió una función llamada Elements, que guarda personajes, objetos y lugares generados por IA para sacarlos y reutilizarlos más adelante."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Firefly-AI-Studio-16x9-1.png?w=680",
+          "cap": "El Firefly AI Studio. Imagen: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "También llega una función llamada Projects. Reúne el material existente en un solo lugar y comparte contexto entre él, útil para equipos que crean juntos una serie de videos o una campaña de marca. Ambas funciones están ahora en beta privada. Al describir una marca y un estilo, o subir materiales existentes, Firefly puede construir un kit de marca completo con logo, identidad de marca y paleta de colores, y también generar videos de producto a partir de fotos."
+        }
+      ]
+    },
+    "design/release-notes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El agente de diseño de Figma ahora busca en la web. Según las notas de la versión del 18 de junio, al escribir «search the web» el agente trae información en tiempo real y llena los diseños con contenido real en lugar de marcadores de posición. Los administradores de organizaciones y empresas fijan el alcance del uso en la configuración; la búsqueda web está activada por defecto, pero cada usuario debe dar su consentimiento por separado para usarla."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/afc9f3fa873586b43f0f708ab372c4b2f7fb4385-2988x1680.jpg?w=2988&h=1680&q=75&fit=max&auto=format",
+          "cap": "Nuevas funciones presentadas en Config 2026"
+        },
+        {
+          "t": "p",
+          "x": "Por esas mismas fechas llegaron otras actualizaciones una tras otra. En Config 2026, el 24 de junio, Figma presentó Motion, para animación basada en línea de tiempo, 3D Transform, que añade sensación de profundidad, y Shaders, para crear textura. El agente ahora admite habilidades personalizadas e incluso crea plugins, y las funciones de agente también llegaron a FigJam y Slides."
+        },
+        {
+          "t": "p",
+          "x": "El 17 de junio, los clientes empresariales obtuvieron acceso directo al uso de créditos de IA a través de la API, con el consumo diario sumado por usuario, producto, espacio de trabajo y equipo. El mismo día se añadió una función para fijar, a nivel de espacio de trabajo, las políticas de publicación web de los archivos de Make y Sites. La actualización del servidor MCP del 16 de junio incorporó soporte para Slides, renderizado de fuentes subidas, descarga de recursos y compatibilidad con Xcode para diseño móvil."
+        }
+      ]
+    },
+    "design/config-2026-recap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En Config 2026, Figma presentó de una vez un conjunto de nuevos 'materiales' que se pueden manejar directamente sobre el lienzo. El cofundador y CEO Dylan Field dijo: \"Ninguna herramienta debería limitar hasta dónde puede llegar una idea\", y situó como eje del anuncio la eliminación de los límites de expresión mediante código, movimiento, shaders, plugins generativos y la herramienta Weave. \"La IA bajó el suelo, pero no subió el techo\", fueron sus palabras. Subir ese techo, añadió, depende en última instancia de los diseñadores y creadores."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "La capa de código, que trata el código como un material de diseño"
+        },
+        {
+          "t": "p",
+          "x": "El cambio más visible es 'el código sobre el lienzo'. Igual que una imagen o un vector, el código se convierte en un material de diseño más: cualquier capa puede volverse una capa de código interactiva con un solo clic o un prompt. Se pueden explorar varias direcciones a la vez, colaborar comentando en archivos compartidos y sincronizar con un clic los cambios entre código y diseño. La capa de código se lanzará por etapas a partir de julio de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/1f82f266ce4e3611ca58858db629942d5aeaa6c9-3840x2160.png?rect=0,1,3840,2159&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "La línea de tiempo de movimiento integrada en Figma Design"
+        },
+        {
+          "t": "p",
+          "x": "El diseño de movimiento también entró en Figma Design. Una línea de tiempo con keyframes y preajustes permite crear animaciones desde cero o añadirlas a un diseño existente, y un agente se encarga de la primera animación. El movimiento se convierte en un elemento del sistema de diseño que atraviesa todas las pantallas, y en Dev Mode se pueden revisar los tiempos y las curvas de easing. La exportación admite CSS, JSON, React, MP4, WebM, SVG animado y GIF."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d6b5115bb3fc17ee7d5cdb4192a7a3b99d60679a-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "La herramienta Weave, que muestra transferencia de estilo basada en IA"
+        },
+        {
+          "t": "p",
+          "x": "Los shaders ahora los crea un agente. Basta describir lo que se quiere o dar una imagen de referencia para obtener un shader a medida, y los parámetros se pueden ajustar directamente en el lienzo o apilar sobre otros efectos. También llegan los plugins generativos, que permiten crear herramientas a medida solo describiendo el comportamiento y los controles, sin necesidad de conocer el entorno de desarrollo ni la API de plugins, además de la herramienta Weave, que conecta modelos y transforma assets mediante nodos. Los agentes ganaron Skills reutilizables, Connectors que se conectan con Notion, Slack, GitHub y otros, y soporte de adjuntos, y se extienden a FigJam y Slides. Field cerró la presentación con la frase: \"Haz lo que solo tú puedes hacer\"."
+        }
+      ]
+    },
+    "design/houdini22": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Arzhko0h8xk"
+        },
+        {
+          "t": "p",
+          "x": "SideFX lanzó Houdini 22, la siguiente versión mayor de su software 3D procedural para VFX, desarrollo de videojuegos y motion graphics. El video de arriba es la grabación del keynote que repasa las nuevas funciones."
+        },
+        {
+          "t": "p",
+          "x": "La función estrella es un conjunto de herramientas de 3D Gaussian splatting completo. Se pueden entrenar splats con fotos de referencia reales o generarlos dentro de una escena 3D, y animarlos con los nodos de deformación estándar de Houdini. También se pueden reiluminar para encajar con el entorno y renderizar con el motor Karma. Aquí es donde cambia el uso de las fotos de referencia."
+        },
+        {
+          "t": "p",
+          "x": "KineFX, en el lado de los personajes, también cambió mucho: llegan plantillas de rig reutilizables, inversión de rig y un nuevo componente Set Driven Keys. Los animadores obtienen un selector de personajes APEX, soporte de clips anidados en Motion Mixer, y nuevos umbrales de fuerza e impacto para Ragdoll. CFX es más incremental, centrado en crear y probar configuraciones antes. Groom revisó el flujo de trabajo de pelo de principio a fin."
+        },
+        {
+          "t": "p",
+          "x": "El framework de procesamiento de imágenes Copernicus también recibió una gran revisión. Suma nodos de mapas grunge, pintura de texturas 3D en fase experimental y un solver de ondulaciones 2D, y ahora también funciona como conjunto de herramientas para construir mundos, con heightfields de terreno y superficies oceánicas con espectro de olas y espuma. La interfaz se renovó, y el modelado 3D, Pyro FX, la fractura, la dinámica de cuerpos rígidos, Solaris y Karma recibieron mejoras menores."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en Windows 11, macOS 11.0 o posterior y distribuciones de Linux. La edición completa, Houdini FX, cuesta $4,495 con licencia node-locked y $6,995 con licencia flotante. Houdini Core, que carece de simulación avanzada, cuesta $1,995 y $2,995 respectivamente. También existen el Apprentice educativo gratuito y el Indie de alquiler exclusivo, ambos guardando en un formato de archivo distinto."
+        }
+      ]
+    },
+    "design/ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "'AI slop' se ha vuelto una expresión omnipresente, pero cada vez se critica más que la etiqueta se use con demasiada ligereza. Juegos indie que dicen no haber usado IA generativa en absoluto siguen siendo tachados de 'AI slop' en las reseñas. La tendencia se extiende a otros campos como el cine o la música, y puede dañar las ventas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vMFFimyrwGXSaxBhw8dLz5-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una publicación de un desarrollador indie canadiense en X encendió el debate. Las reseñas de Steam llaman a su juego 'AI SLOP', aunque el desarrollador afirma no haber usado IA generativa. Escribió: 'Cualquiera puede acusar a un juego de usar IA sin ninguna prueba ni responsabilidad, y solo los desarrolladores honestos pagan el precio.'"
+        },
+        {
+          "t": "p",
+          "x": "Ese estigma puede traducirse directamente en ventas. Steam exige a los desarrolladores revelar si usaron IA generativa, y en una encuesta de Game Oracle, los juegos que lo revelaron tuvieron un promedio de 4 reseñas, por debajo de las 7 de los que no lo hicieron. Casi el 20% no tuvo reseñas en absoluto, y sus calificaciones también fueron notablemente más bajas. Los desarrolladores dicen que 'AI slop' se ha convertido en un nuevo insulto estándar lanzado sin pruebas."
+        }
+      ]
+    },
+    "design/builder-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En un mercado que se mueve rápido, la competitividad de un equipo depende de con qué rapidez puede construir, corregir y lanzar. Los clientes siempre quieren experiencias nuevas y personalizadas, y las organizaciones más ágiles se adelantan."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/271665f687c94f8ea020739bd0507825?format=webp&width=800"
+        },
+        {
+          "t": "p",
+          "x": "Ahora mismo convergen dos cambios. Uno es que, gracias a la IA, los especialistas de marketing pueden tocar el código directamente, lo que borra el handoff tradicional en el que marketing pide e ingeniería ejecuta. El otro es que los agentes de IA son más potentes cuando operan dentro del stack tecnológico real, el sistema de diseño y las herramientas de gestión de contenido. Los equipos que tienen ambas cosas son los más rápidos."
+        },
+        {
+          "t": "p",
+          "x": "En la mayoría de las organizaciones, lo que frena las cosas no es el tiempo real de ejecución, sino el tiempo dedicado a la coordinación. La friccion empieza con editar a mano el nombre de un producto, una fecha de promoción o una descripción en varias entradas. Crear un componente nuevo requiere un ticket de ingeniería, la revisión de marca debe pasar por manos humanas en cada paso, y cambiar un modelo de datos exige un desarrollador. Mientras tanto, marketing se queda esperando a que ingeniería tenga disponibilidad."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7e91e69a40284ad089d519802d4190e4?width=780"
+        },
+        {
+          "t": "p",
+          "x": "Builder lanzó cuatro actualizaciones dirigidas a esta friccion. Builder CMS MCP incorpora el CMS dentro de herramientas de desarrollo como Cursor, Claude y Copilot, permitiendo a los desarrolladores leer, escribir, consultar contenido, editar el modelo y publicar todo sin salir de su espacio de trabajo. Builder Agent edita contenido dentro de Builder solo con instrucciones en lenguaje natural, respetando automáticamente la voz de marca, el SEO y los estándares de accesibilidad."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma Builder conecta el diseño con el código, permitiendo crear, previsualizar y registrar nuevos componentes, pero los mantiene en staging hasta la revisión de un desarrollador. La gobernanza empresarial incluye control de acceso basado en roles (RBAC), control basado en atributos (ACL), directrices de IA personalizadas que actúan como barreras de seguridad, y entornos inferiores para la revisión previa. Lo que un usuario no puede hacer directamente, la IA tampoco puede hacerlo."
+        },
+        {
+          "t": "p",
+          "x": "Un solo principio atraviesa todo esto. La persona más cercana al trabajo tiene la autonomía de ejecutarlo por sí misma, y los roles que antes eran cuellos de botella solo intervienen en la revisión realmente necesaria. Marketing avanza sin depender de tickets, ingeniería se concentra en ingeniería, y la IA opera dentro de la gobernanza establecida."
+        }
+      ]
+    },
+    "design/dash-112": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PolygonFlow lanzó Dash 1.12, una herramienta de construcción de mundos para Unreal Engine 5. Dash es el nuevo nombre que PolygonFlow dio a su colección de herramientas para Unreal, que se separaron de GraphN, el entorno de programación basado en nodos que la empresa retiró. Los artistas pueden terminar la mayor parte de su trabajo dentro de un viewport a pantalla completa, y tareas habituales como la generación de terreno o los efectos de agua se pueden invocar con búsqueda en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de esta versión son las herramientas de colocación. Se añadieron Place in Grid, Place in Circle y Vertical Stacking para la composición de tomas y niveles, simplificando mucho la tarea de distribuir objetos."
+        },
+        {
+          "t": "p",
+          "x": "El scattering también se mejoró. 2D Scatter ahora admite proyección, permitiendo esparcir objetos de forma más natural sobre terrenos irregulares, y la herramienta Vine/Cable puede unir entre sí los objetos dispersos. La herramienta de cámara también cambió, permitiendo animar incluso los ajustes de cámara específicos de Dash dentro de Unreal Sequencer."
+        },
+        {
+          "t": "p",
+          "x": "El precio: la licencia Professional cuesta 230 dólares perpetua, con suscripciones de 10-20 dólares al mes o 190 dólares al año (para artistas con ingresos anuales de menos de 250.000 dólares). La versión Enterprise cuesta 1.999 dólares perpetua, 89 dólares al mes o 850 dólares al año. Funciona en Unreal Engine 5.0 o superior, y Windows 10 o superior."
+        }
+      ]
+    },
+    "design/figma-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "JdCWqZmOT4o"
+        },
+        {
+          "t": "p",
+          "x": "DevsCourse repasa paso a paso la función de Shaders que Figma acaba de añadir."
+        },
+        {
+          "t": "p",
+          "x": "A continuación, comprueba si la IA de Figma, Figma Make, puede implementar ese shader en la web real."
+        },
+        {
+          "t": "p",
+          "x": "El resultado no cumple las expectativas: por sí solo, Figma Make no logra trasladar bien el shader."
+        },
+        {
+          "t": "p",
+          "x": "Por eso muestra cómo usar herramientas de codificación con IA como Claude y Cursor para integrar el shader de Figma en un sitio real en producción."
+        },
+        {
+          "t": "p",
+          "x": "Es un repaso de cómo cambia, con ayuda de la IA, el paso del diseño al código."
+        }
+      ]
+    },
+    "design/fsr-sdk-23": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AMD ha publicado FSR SDK 2.3, la última versión del SDK que ayuda a los desarrolladores de juegos y herramientas de CG a incorporar su tecnología de renderizado con IA en su software."
+        },
+        {
+          "t": "p",
+          "x": "La actualización lleva la última tecnología de escalado, FSR 4.1, a GPU RDNA 3 como la serie Radeon RX 7000, además de las tarjetas RDNA 4 de la generación actual."
+        },
+        {
+          "t": "p",
+          "x": "El FSR SDK se llamaba originalmente FidelityFX SDK. Es un conjunto de tecnologías de procesamiento de renderizado basadas en IA que mejoran el rendimiento interactivo en juegos y aplicaciones en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Su componente más conocido es FSR Upscaling, un sistema de escalado de imagen basado en GPU equivalente al DLSS de Nvidia y al XeSS de Intel."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de los juegos, algunos programas de CG también lo admiten. La app de visualización en tiempo real Lumion lo usa en su editor y en las vistas previas de renderizado, igual que D5 Render."
+        },
+        {
+          "t": "p",
+          "x": "El SDK más reciente incluye mejoras en varias tecnologías de AMD, entre ellas el sistema de eliminación de ruido con IA Ray Regeneration, pero el cambio principal está en el lado de FSR Upscaling."
+        },
+        {
+          "t": "p",
+          "x": "La versión más reciente, FSR 4.1, hasta ahora solo contaba con soporte oficial en GPU RDNA 4 de la generación actual, como la serie Radeon RX 9000."
+        },
+        {
+          "t": "p",
+          "x": "Esta actualización amplía ese soporte a las tarjetas RDNA 3 de la generación anterior, incluidas la serie de consumo Radeon RX 7000 y la serie para estaciones de trabajo Radeon PRO W7000."
+        },
+        {
+          "t": "p",
+          "x": "AMD había dicho antes que llevaría FSR 4.1 a hardware RDNA 3 mediante backport en julio de 2026, así que esto llega unos días antes de lo previsto."
+        },
+        {
+          "t": "p",
+          "x": "El soporte de FSR 4.1 para tarjetas RDNA 2, es decir, la serie Radeon RX 6000 y la serie Radeon PRO W6000, está previsto para 'principios de 2027'."
+        },
+        {
+          "t": "p",
+          "x": "En la parte superior del artículo puede verse un video que compara FSR 4.1 con la versión anterior lado a lado. AMD explica que la tasa de fotogramas sube mientras los artefactos visuales disminuyen al mismo tiempo."
+        },
+        {
+          "t": "p",
+          "x": "El paquete FidelityFX SDK 2.3 funciona en Windows 10 o versiones posteriores y requiere DirectX 12. Su código fuente se publicó bajo la licencia de código abierto MIT."
+        },
+        {
+          "t": "p",
+          "x": "Para usar FSR Upscaling 4.1 se necesita Windows 11 y una GPU de la serie Radeon RX 7000 o posterior."
+        }
+      ]
+    },
+    "design/ai-creative-divide": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La opinión sobre el uso de la IA generativa en el trabajo creativo sigue muy dividida. El debate de los últimos tres años a veces parece casi estancado. De un lado están los evangelistas que ven la IA como un futuro brillante; del otro, los opositores que la ven como el fin de la creatividad humana."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BNJ6SWXs3thRq3qSqTQGTJ-1200-80.jpg",
+          "cap": "Un documental sobre la adopción de la IA en el trabajo creativo"
+        },
+        {
+          "t": "p",
+          "x": "Pero puede estar formándose otra brecha, no de opinión, sino de acceso y conocimiento. Aún no está del todo claro cuánto transformará la IA el trabajo creativo, pero un nuevo documental sigue las miradas matizadas de varios creadores y señala contrastes y contradicciones interesantes."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta del Strategic National Arts Alumni Project (SNAAP), el 90% de los creadores dijo ser escéptico sobre la IA generativa, pero el 52% afirmó que ya la usaba en el trabajo. Sin embargo, la adopción no parece ser pareja en absoluto."
+        },
+        {
+          "t": "p",
+          "x": "SNAAP tiene su sede en la Facultad de Bellas Artes de la Universidad de Texas en Austin. En su encuesta rápida \"La IA y el trabajo\", realizada a finales del año pasado, entrevistó a más de 2.000 egresados de arte y diseño de distintas disciplinas procedentes de unas 100 universidades de Estados Unidos, buscando entender cómo perciben la IA y cómo afecta a su trabajo."
+        },
+        {
+          "t": "p",
+          "x": "El cineasta Jan Oliver Lucks reunió las respuestas en un documental de 19 minutos. Persisten las preocupaciones sobre derechos de autor, privacidad, impacto ambiental y autenticidad creativa, junto con una mirada a cómo los creadores usan la IA en la práctica. El resultado es un retrato amplio y honesto que va del entusiasmo a la aceptación cautelosa y el rechazo abierto."
+        },
+        {
+          "t": "p",
+          "x": "Según la encuesta, cuánto usa la IA un creador suele depender de cuánto dependía ya su trabajo de herramientas digitales. Los campos con mayor dependencia del software digital parecen más propensos a adoptar la IA. Un arquitecto dice que usa IA para generar modelos 3D a partir de planos, mientras que un diseñador gráfico cuenta que la usa para convertir una imagen pequeña en un fondo grande."
+        },
+        {
+          "t": "p",
+          "x": "El documental sugiere que podría estar surgiendo una especie de \"brecha de IA\": en palabras de la propia película, quienes \"pueden permitirse asumir el riesgo\" tienen más probabilidades de adoptar la IA."
+        }
+      ]
+    },
+    "design/dataland-museum": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando escuché, hace dos años, que el primer museo de IA del mundo abriría junto a The Broad y el MOCA en Los Ángeles, confieso que fui escéptico. Por la época en que se anunció Dataland, el término \"arte con IA\" se usaba más a menudo para describir resultados de Midjourney que imitaban el estilo fantástico de Greg Rutkowski."
+        },
+        {
+          "t": "p",
+          "x": "Pero la historia del arte con IA se remonta mucho antes de la era del \"AI slop\". Desde los inicios de la era de la computación, los artistas han buscado formas de crear obras con datos y algoritmos. Dataland entrelaza ese espíritu experimental con el actual interés por las experiencias inmersivas. Su primera exposición abrió la semana pasada, y no hay memes al estilo Ghibli ni videos de Will Smith comiendo espagueti. Entonces, ¿qué hay realmente dentro?"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KuY2HUAwLS8WsPFLgCvHML-1200-80.jpg",
+          "cap": "Arte inmersivo con IA en Dataland"
+        },
+        {
+          "t": "p",
+          "x": "Dataland fue fundado por los artistas digitales Refik Anadol y Efsun Erkiliç, y ocupa unos 25.000 pies cuadrados repartidos en cinco salas. Su primera exposición, \"Machine Dreams: Rainforest\", se presenta como una \"obra viva\" que explora de forma inmersiva uno de los ecosistemas más complejos e importantes de la Tierra."
+        },
+        {
+          "t": "p",
+          "x": "Los entornos interconectados son generados en tiempo real por el Large Nature Model de Refik Anadol Studio. El estudio afirma haber entrenado esta IA con datos ecológicos obtenidos de forma ética, combinando datos de importantes instituciones de investigación y organizaciones ambientales con su propio conjunto de datos recopilado mediante trabajo de campo y observación directa."
+        },
+        {
+          "t": "p",
+          "x": "La exposición busca convertir esta rigurosa información sobre la selva tropical en un entorno vivo a través de la imagen, el sonido, el aroma y la interacción. Los visitantes pueden conectarse al museo mediante dos dispositivos portátiles: un biosensor de grado médico en la muñeca que mide en tiempo real el ritmo cardíaco y la temperatura y conductividad de la piel, y un dispositivo tipo collar que ofrece un recorrido olfativo propio de cada persona."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bxpTQ8AorQR86dzCuSUh4L.jpg",
+          "cap": "La exposición de Dataland se despliega como una experiencia inmersiva"
+        },
+        {
+          "t": "p",
+          "x": "La idea es que, al conectarse así a la exposición, se cree un diálogo vivo entre la obra y quien la observa: mediado por la máquina, pero único para cada visitante."
+        },
+        {
+          "t": "p",
+          "x": "Una de las salas se llama el Pabellón de Datos. Ochenta y cuatro proyectores de alta resolución sincronizados convierten las paredes y el techo en un lienzo que cambia constantemente, mientras un sonido espacial de 200 canales, compuesto en tiempo real a partir de datos de la selva tropical, envuelve el espacio."
+        }
+      ]
+    },
+    "design/meta-starfire": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta lanzó las gafas Starfire junto con la celebridad Kylie Jenner. Incorporaron su voz a Meta AI, engastaron una joya en la lente derecha y añadieron almohadillas nasales de metal para que el maquillaje no se adhiera."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/Meta-Glasses-Starfire-Kylie-style-feature.png",
+          "cap": "Gafas Meta Starfire, diseñadas en colaboración con Kylie Jenner"
+        },
+        {
+          "t": "p",
+          "x": "Starfire comparte sus especificaciones principales con las Ray-Ban Meta Gen 2: chipset, cámaras, altavoces, batería, almacenamiento y conectividad son los mismos. La montura es la más pequeña que ha hecho EssilorLuxottica hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "Está disponible en tres combinaciones de color: montura negra con lentes negras (400 dólares), montura carey oscuro con lentes color chocolate (400 dólares), y montura negra con lentes fotocromáticas de claro a gris (480 dólares)."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/meta-glasses-kylie-jenner-starfire-01-classic-black-black.webp",
+          "cap": "Montura negra clásica con lentes negras"
+        },
+        {
+          "t": "p",
+          "x": "Como los modelos recientes de gafas de Meta, Starfire viene con un estuche plegable y es compatible con un nuevo soporte de carga de acero inoxidable."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Glasses-folding-case-with-Starfire-Kylie-glasses-1.jpg",
+          "cap": "Starfire junto a su estuche de carga plegable"
+        },
+        {
+          "t": "p",
+          "x": "El diseño se parece bastante a las gafas inteligentes Gentle Monster de Google, presentadas en Google I/O el pasado mayo. Es probable que ambas empresas sigan tendencias de moda y limitaciones de ingeniería similares, pero en la práctica Meta se adelantó varios meses a Google con un diseño parecido al que la compañía planea lanzar en otoño."
+        }
+      ]
+    },
+    "design/miris-configurator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Miris creó un configurador de autos interactivo en WebXR que funciona sin GPU en la nube ni pixel streaming. Transmite calidad de materiales de nivel HDR con un tamaño de archivo reducido, por lo que no es necesario reservar una GPU en la nube para cada usuario."
+        },
+        {
+          "t": "p",
+          "x": "El configurador funciona en una amplia gama de dispositivos —navegadores de escritorio, tabletas y visores como Apple Vision Pro— a partir de un único recurso fuente de 1,2 GB."
+        },
+        {
+          "t": "p",
+          "x": "Para los diseñadores, este caso muestra un camino más ligero hacia una visualización interactiva de productos de alta calidad, sin depender de un renderizado pesado en la nube."
+        }
+      ]
+    },
+    "design/spatialgen-zeus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SpatialGen Zeus es una unidad de rack 3U pensada para la producción de video inmersivo en vivo, incluido Apple Immersive Video. La empresa explica que recibe el exigente material ProRes de Apple, lo codifica y empaqueta, y lo entrega como una experiencia en vivo en 2D e inmersiva."
+        },
+        {
+          "t": "p",
+          "x": "Eso le da a Zeus un lugar importante en el pipeline de video inmersivo. Visores como Vision Pro ya ofrecen video inmersivo de muy alta calidad, pero capturar, procesar y entregar la enorme cantidad de datos que genera el video en vivo a este nivel es un desafío de producción considerable."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/06/SpatialGen-Zeus-overlay-on-Apple-Immersive-Video-Wolves-at-Lakers.jpg",
+          "cap": "Pantalla de Zeus superpuesta sobre el Apple Immersive Video de un partido de Wolves contra Lakers"
+        },
+        {
+          "t": "p",
+          "x": "Zeus está diseñado en torno a la operación en vivo de ProRes 2110. Sus especificaciones publicadas incluyen entrada de 16K, más de 90FPS, un rendimiento sostenido máximo de 100 gigabits por segundo, y distribución a través de varias CDN, entre ellas AWS CloudFront, Azure, Google Cloud Platform, Akamai y su propia red."
+        },
+        {
+          "t": "p",
+          "x": "La unidad incluye el hardware junto con una licencia de software válida durante toda la vida útil del sistema, además de un año de soporte con contacto directo con los ingenieros de SpatialGen. La producción inmersiva en vivo involucra cámaras, enrutamiento, destinos de codificación, gestión de derechos digitales, gestión de claves y monitorización, que varían caso por caso, por lo que un soporte sólido es imprescindible."
+        },
+        {
+          "t": "p",
+          "x": "Zeus admite la cámara URSA Cine Immersive 100G de Blackmagic, un sistema estéreo 3D de 8K creado para producir Apple Immersive Video."
+        },
+        {
+          "t": "p",
+          "x": "En una reunión previa a AWE, SpatialGen dijo que transmite más del 90% del video inmersivo de terceros en Vision Pro. Afirmó que puede recibir y codificar material ProRes de varios terabytes, incluido el video inmersivo en vivo de partidos de los Lakers para Spectrum Front Row."
+        },
+        {
+          "t": "p",
+          "x": "Las retransmisiones deportivas en vivo muestran con la mayor claridad por qué se necesita esta infraestructura. Apple y Spectrum llevaron algunos partidos de los Lakers de Los Ángeles a Vision Pro mediante Apple Immersive, una experiencia disponible a través de Spectrum SportsNet y la aplicación de la NBA."
+        },
+        {
+          "t": "p",
+          "x": "El video inmersivo en sí no es nuevo para los visores, pero Apple Immersive Video eleva el estándar con video 3D a 180 grados, alta resolución, altas tasas de fotogramas, HDR y audio espacial. Esa calidad explica por qué el formato de Apple atrajo atención desde el principio, y por qué importan las herramientas para capturarlo y entregarlo."
+        },
+        {
+          "t": "p",
+          "x": "El valor de Zeus está en ser un sistema integrado que une hardware, software, infraestructura y soporte en un único flujo de trabajo en vivo. El servicio de pila completa es adecuado para transmitir en vivo experiencias inmersivas con calidad ProRes."
+        },
+        {
+          "t": "p",
+          "x": "Aplicaciones de streaming existentes, como DIRECTV en Quest, ya pueden mostrar video 2D dentro de la VR, pero aplicaciones como Xtadium han mostrado el atractivo de ver deportes de forma inmersiva. SpatialGen busca simplificar en tiempo real el complejo camino que va de las cámaras profesionales a los visores de VR, en lugar de tratarlo como un experimento puntual cada vez."
+        },
+        {
+          "t": "p",
+          "x": "Las especificaciones detalladas de Zeus pueden no significar mucho para los usuarios de Vision Pro, ya que no es un producto de consumo. Pero a medida que los conciertos, eventos deportivos, ceremonias y eventos inmersivos en vivo se vuelven más comunes en los visores, sistemas como este se convierten en la infraestructura invisible que hace posibles esos momentos."
+        }
+      ]
+    },
+    "design/adobe-topaz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe anunció el jueves que adquirirá Topaz Labs, especializada en modelos de IA para mejorar la calidad de video e imagen, y la integrará en su división creativa."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?w=1024",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Topaz Labs lleva más de dos décadas creando herramientas para mejorar la calidad de video e imagen. Recientemente presentó Astra, una herramienta de escalado de video con IA, y Wonder, una herramienta de retoque de imagen, además de tecnología que permite ejecutar grandes modelos de video en GPUs de consumo."
+        },
+        {
+          "t": "p",
+          "x": "Adobe, que ya ofrece algunas herramientas de Topaz a través de Creative Cloud, planea integrar los modelos de Topaz en Firefly AI y en su línea de productos de edición de imagen y video. Los productos existentes de Topaz seguirán funcionando como un servicio independiente en su propio sitio web."
+        },
+        {
+          "t": "p",
+          "x": "Deepa Subramaniam, vicepresidenta de marketing de producto de Creative Cloud, explicó que los profesionales pueden usar los productos de Topaz para 'combinar metraje real con clips de IA' en tareas como nitidez de detalles, reducción de ruido y restauración de material de archivo."
+        },
+        {
+          "t": "p",
+          "x": "Subramaniam destacó que Topaz Labs cuenta con 'una gran experiencia en optimizar modelos de IA grandes y complejos para que se ejecuten directamente en el dispositivo', lo que permitirá a Adobe ofrecer experiencias más rápidas y hacer que la IA avanzada sea 'más accesible y rentable' para los creadores."
+        },
+        {
+          "t": "p",
+          "x": "Adobe compite con Canva y Blackmagic Design en el mercado del software de edición. Integrar IA en todas sus aplicaciones y adquirir empresas como Topaz Labs busca que los usuarios permanezcan en su ecosistema en lugar de pasarse a plataformas rivales. Se espera que el acuerdo se cierre en la segunda mitad de 2026."
+        }
+      ]
+    },
+    "design/claude-tag": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic presentó Claude Tag, un 'Claude siempre activo' que vive dentro de Slack y trabaja como un colega de IA. Etiquetar a @Claude en un chat permite obtener información o delegarle tareas. Está disponible como beta de Slack para clientes de Claude Enterprise y Claude Team."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?w=1024",
+          "cap": "Fuente de la imagen: Anthropic"
+        },
+        {
+          "t": "p",
+          "x": "Claude Tag mejora la integración existente. Antes ya era posible enviarle un mensaje directo a @Claude en Slack o etiquetarlo en un canal para obtener ayuda de inmediato. Claude Code en Slack transfería las tareas de programación recibidas mediante menciones en un canal a una sesión completa de codificación en la web, y luego publicaba los resultados de nuevo en el hilo."
+        },
+        {
+          "t": "p",
+          "x": "Claude Tag añade a esto un contexto y una memoria persistentes que las herramientas existentes no lograban capturar. Como describe Anthropic, 'Claude sigue el canal y aprende cada vez más sobre el trabajo'. Con los permisos adecuados, también reúne hechos por su cuenta en otros canales de la organización."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de Claude Tag, todos los miembros de un canal de Slack determinado acceden a una única identidad de Claude, de modo que 'cualquiera puede ver en qué ha estado trabajando Claude y continuar la conversación donde la dejó la última persona'. Los administradores determinan qué herramientas, información y canales puede usar Claude, y cada identidad de Claude queda limitada a sus canales asignados para evitar que la información se filtre entre departamentos."
+        },
+        {
+          "t": "p",
+          "x": "Cuando llega una tarea, Claude Tag la divide en pasos que puede resolver con las herramientas disponibles y publica el resultado final como respuesta en el hilo de Slack. También cuenta con un 'modo ambiental' que interviene por iniciativa propia en las conversaciones para informar al equipo del avance, señalar asuntos a nivel organizativo y dar seguimiento a hilos o tareas olvidadas."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic lo describe como 'trabajar con un colega real, uno que produce resultados a la vista de todos, con un contexto y una comprensión mucho más ricos que antes'."
+        },
+        {
+          "t": "p",
+          "x": "Esta capacidad de contexto organizativo es cada vez más importante para la adopción empresarial. Microsoft ha lanzado funciones similares con Graph y Copilot, y Snowflake, Databricks y Glean también están construyendo plataformas de backend que contienen el conocimiento organizativo al que pueden acceder los agentes de IA."
+        }
+      ]
+    },
+    "design/krea2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Crecen las críticas de que las imágenes de IA tienden cada vez más a producir resultados homogéneos y sin personalidad, lo que se conoce como 'AI slop'. La startup de IA creativa Krea afirma que quiere cambiar esa tendencia y ha publicado los pesos de su nuevo modelo de imagen de vanguardia Krea 2 en dos versiones, 'Krea 2 Raw' y 'Krea 2 Turbo', ambas disponibles para descargar en Hugging Face. Según Krea, los modelos ofrecen más diversidad visual que los generadores habituales mientras mantienen la misma precisión de los prompts y la misma calidad, con mucho más margen para ajustar la salida."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=1000&q=100",
+          "cap": "Imagen generada con Krea 2 Large (fal.ai). Fuente: VentureBeat"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo técnico es un transformador de difusión de 12.000 millones de parámetros diseñado desde cero. En lugar de afinar meticulosamente un único modelo, Krea publicó dos checkpoints independientes tomados en distintos momentos del entrenamiento. Usa una arquitectura de flujo único en la que los tokens de texto e imagen comparten las capas de atención y MLP, y mejora la eficiencia de cómputo con técnicas como SwiGLU MLP y atención de consulta agrupada (GQA)."
+        },
+        {
+          "t": "p",
+          "x": "Krea 2 Raw es un checkpoint base sin destilar que no ha pasado por alineación, RLHF ni destilación estética. No está pensado para un uso directo, pero está optimizado como un 'lienzo en blanco' para el entrenamiento estructural. Krea 2 Turbo, en cambio, es una variante destilada y post-entrenada derivada de Krea 2 Medium. Comprime el ciclo de generación a solo ocho pasos (guidance 0.0) y produce imágenes en resolución 2K en unos dos segundos incluso en hardware de consumo, lo que la sitúa entre los modelos más rápidos, tanto abiertos como propietarios."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/7euaZA7YV6PWUwt09nBrzV/1e551a6b9cea7895540a9b1445f89709/image.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Krea aplicó una política de 'cero datos sintéticos' a sus datos de preentrenamiento, filtrando a gran escala las imágenes generadas por IA. Su flujo de trabajo recomendado es 'entrenar en Raw, generar en Turbo': crear un LoRA personalizado o un ajuste fino específico de dominio sobre el modelo Raw, sin sesgo de estilo, y luego trasladar ese LoRA a Turbo para un renderizado rápido. En el lado de la aplicación, Krea también añadió un sistema de transferencia de estilo que admite varias imágenes de referencia de estilo y un expansor de prompts basado en LLM."
+        },
+        {
+          "t": "p",
+          "x": "Los pesos abiertos se distribuyen bajo la 'Krea 2 Community License' junto con una política de uso aceptable (AUP) independiente. Los particulares, los creadores independientes y las pequeñas empresas pueden usarlos e integrarlos comercialmente sin regalías, y Krea no reclama los derechos de autor del contenido que generan los usuarios. Sin embargo, las organizaciones con más de 50 puestos, o que necesiten SSO, SLA o DPA, se clasifican como 'empresariales' y deben negociar por separado una licencia personalizada de pago. También hay diferencias con MIT o Apache: quienes alojan los modelos por su cuenta deben aplicar un filtrado de contenido, como clasificadores de entrada y salida, y si no impiden la generación de contenido ilegal, NCII o CSAM, se considera un incumplimiento del contrato que corta el acceso a los pesos."
+        },
+        {
+          "t": "p",
+          "x": "Krea fue fundada en San Francisco en 2022 por Víctor Perez y Diego Rodriguez Prado. Ha recaudado un total de 83 millones de dólares de inversores como a16z y, a junio de 2026, cuenta con más de 30 millones de usuarios en 191 países. Comenzó como un agregador SaaS que combinaba modelos externos antes de pasar a desarrollar su propia arquitectura. Con el lanzamiento de Raw y Turbo, Krea ha pasado de ser un proveedor de herramientas de IA a un proveedor de modelos por derecho propio, una alternativa abierta que prioriza el control artístico frente a la alineación centralizada."
+        }
+      ]
+    },
+    "design/blender": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quick Finger Collision, de Gemalate, es un complemento ligero para Blender que hace que posar las manos sea más rápido y natural. Añade detección de colisión a los huesos de los dedos, permitiendo posar las manos alrededor de distintos objetos sin que los dedos los penetren."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz es mínima. Todos los controles están reunidos en un único panel, que permite elegir los huesos de los dedos, activar las colisiones y hacer que la mano sujete objetos, todo en un solo lugar."
+        },
+        {
+          "t": "p",
+          "x": "Quick Finger Collision es compatible con Blender 4.0 hasta 5.1."
+        }
+      ]
+    },
+    "design/borisfx": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Boris FX ha iniciado la actualización de 2026 de Optics, un software que aplica efectos cinematográficos a imágenes fijas y se usa para retoque, ilustración y visualización."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2025/12/251207_Optics2026_Photoshop.jpg",
+          "cap": "El panel de Optics en Photoshop"
+        },
+        {
+          "t": "p",
+          "x": "Optics 2026 añade cuatro nuevas herramientas de IA. La pieza central es Face ML, un nuevo algoritmo que enmascara automáticamente las zonas del rostro, generando máscaras para los ojos, los labios y la piel. A esto se suman Depth Map ML, que extrae mapas de profundidad de las fotos; DeNoise ML, que elimina el ruido; y UpRes ML, que amplía las imágenes. Para la integración con Photoshop se añadió un nuevo panel acoplable, Optics Essentials, que permite buscar y aplicar filtros directamente desde el espacio de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Optics 2026.5, lanzado el 26 de junio de 2026, amplió su alcance más allá de Adobe. Ahora funciona también en Affinity Photo, Apple Photos y Capture One. Todas las nuevas integraciones vienen incluidas con la edición independiente y los plugins de Photoshop y Lightroom al comprar Optics, sin cambios en el precio."
+        },
+        {
+          "t": "p",
+          "x": "También crecieron las funciones. Se añadieron el filtro S_FilmBurn, que imita el aspecto de una película analógica sobreexpuesta, y un mezclador de color que crea correcciones y looks mediante deslizadores. Face ML ahora también genera máscaras para la nariz y el cuello."
+        },
+        {
+          "t": "p",
+          "x": "Optics 2026.5 funciona como aplicación independiente en Windows 10 o posterior y macOS 12.0 o posterior. La licencia perpetua cuesta 149 dólares, y el alquiler cuesta 9 dólares al mes o 99 dólares al año. Una sola licencia permite usar tanto los plugins como la edición independiente."
+        }
+      ]
+    },
+    "design/pokemon": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Al crear su nueva animación, Pokémon eligió las manos en lugar de la IA. Su socio es Aardman, el estudio detrás de Wallace and Gromit y Shaun the Sheep. Frente a una alternativa digital más fluida, rápida y barata, eligió un estudio de animadores que ajustan cada fotograma a mano."
+        },
+        {
+          "t": "p",
+          "x": "Que un gran estudio elija este método no es solo una decisión creativa, sino una decisión que revela un principio. En una era en la que el AI slop produce contenido a toda velocidad, vuelve a plantear el valor de lo que las personas hacen con cuidado."
+        },
+        {
+          "t": "p",
+          "x": "El título de la obra es 'Pokémon Tales: La gran aventura de Sirfetch'd y Pichu'. Está ambientada en la región de Galar, cuya geografía se parece mucho a la del Reino Unido real, un escenario que combina bien con Aardman, un estudio que representa el Reino Unido. El director Tom Parkinson y su equipo reinterpretaron Pokémon con un toque artesanal, planteándolo como una comedia que explota con humor el encanto peculiar y las excentricidades de sus protagonistas."
+        },
+        {
+          "t": "p",
+          "x": "La noticia se reveló en el Festival Internacional de Cine de Animación de Annecy en junio de 2026, y la obra se estrenará en 2027."
+        }
+      ]
     }
   }
 }

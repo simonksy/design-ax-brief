@@ -1042,6 +1042,473 @@
           "x": "不过斯沃德洛的判断很冷静:即便是不败冠军阿斯特拉,也赢不了人类新手。这与2019年形成对比——当年DeepMind的AlphaStar两度以5比0完胜职业选手TLO和MaNa,还在欧洲天梯上冲到了前0.2%的宗师段位。"
         }
       ]
+    },
+    "games/metahuman-ue58": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games将Unreal Engine 5.8作为Unreal Engine 6之前的最后一次重大更新发布。其中加入了Mesh Terrain、DMC、已进入生产阶段的Mega Lights,以及Control Rig Dynamics等功能。"
+        },
+        {
+          "t": "video",
+          "yt": "ZhWv3E2fxek"
+        },
+        {
+          "t": "p",
+          "x": "MetaHuman框架也迎来了显著改进。全新的实验性资产MetaHuman Collection可以用MetaHuman人群填满实时世界,移动端可扩展到数百人,高性能平台则可达数千人规模。外观可通过头部、身体、头发、服装等模块化部件更改,可手动拼装,也可通过Blueprint进行程序化生成。角色管理使用Mass系统,渲染在支持的平台上使用Nanite,动画则通过Animation Blueprint或序列处理。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/33/images/6a33c381c2d66/widen_920x0.jpg",
+          "cap": "Unreal Engine 5.8中的MetaHuman人群"
+        },
+        {
+          "t": "p",
+          "x": "Mesh to MetaHuman现已完全集成到MetaHuman Creator中,此前只能生成头部的限制已经取消。无论拓扑结构如何,任何网格都可以通过MetaHuman数据库生成MetaHuman。目标是人形角色,也能很好地处理风格化设计。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/21/images/6a33c449c0cea/widen_920x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MetaHuman Animator可以用一台摄像机完整捕捉面部、身体或两者的表演。MetaHuman Animator的无标记动作捕捉插件采用了Meshcapade技术。"
+        },
+        {
+          "t": "p",
+          "x": "开发者也可以使用RigLogic和DNA库等核心MetaHuman技术。它们\"以MIT许可证发布在GitHub上\"。OpenRigLogic仓库是通往MetaHuman开发套件的第一步。"
+        }
+      ]
+    },
+    "games/pubg-ally": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/pubg-arcade-ally-duo-mode-1920x1080.jpg",
+          "cap": "加入PUBG双人模式的AI伙伴'PUBG Ally'"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA ACE(Avatar Cloud Engine)于2023年Computex上首次公开,伴随着要为PUBG、Naraka: Bladepoint、inZOI等游戏中的NPC赋予生命的承诺。现在玩家可以亲自验证这个承诺。基于ACE的AI队友'PUBG Ally'可以在未来两周内加入双人对战进行测试。"
+        },
+        {
+          "t": "video",
+          "yt": "OdtFL1CDDwc"
+        },
+        {
+          "t": "p",
+          "x": "公开的演示视频中,一名真人玩家和一名由AI操控的Ally组成一队,赢下了一场PUBG对局。NVIDIA在宣布测试的博客中将这名伙伴描述为\"能根据你的指令和瞬息万变的战场情况自行调整打法的、善于理解情境的AI队友\"。"
+        },
+        {
+          "t": "p",
+          "x": "\"即使不持续给出单独指令,它也能自行捡装备、战斗、移动来提供帮助。它能听懂语音和文字输入,既能接受轻松的闲聊,也能接受战术指令。它深知PUBG特有的术语、玩家俚语、地图地名以及道具属性。\""
+        },
+        {
+          "t": "p",
+          "x": "这名AI伙伴的测试将持续到2026年6月30日。从今天起的两周内,你可以尽情享受AI带来的胜利。"
+        },
+        {
+          "t": "p",
+          "x": "游戏中的AI伙伴这一概念本身并不新鲜。但是以AI为核心的Krafton与NVIDIA共同拿出的这个成果,已经不只是一个在旁边一起战斗的NPC。"
+        },
+        {
+          "t": "p",
+          "x": "它更接近《勇者斗恶龙X》,或者Krafton自家游戏inZOI中的'智能Zoi'NPC。它不是只在固定情境下做固定动作,而是真正会对你和游戏做出反应的伙伴。"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA称PUBG Ally是\"为更深层沉浸感而设计的新一代AI游戏角色\"。这个角色能否真正增加沉浸感,还有待观察。人数稀少模式中遇到的机器人,一直都在打破沉浸感。"
+        },
+        {
+          "t": "p",
+          "x": "人们享受竞技性多人游戏,是因为战胜真实对手带来的畅快感。很难想到多人游戏用户会欢迎有人费时费力去推广没有真人参与的玩法。"
+        },
+        {
+          "t": "p",
+          "x": "当然,对刚入门的新手来说它确实有用。但一旦熟悉了操作,加入Ally就与竞技性多人游戏的本意相悖。接下来两周玩家们会如何反应,值得关注。"
+        }
+      ]
+    },
+    "games/ue6-merge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd89a8ab949bf0c83/6a32ead8f3c7146aef45048b/unrealengine6logo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games在Unreal Fest上公布了虚幻引擎6(UE6)的主要变化。副总裁马库斯·巴斯默表示,'UE6将改变我们发布和运营游戏的方式',提出了与以往版本不同的开发方向。"
+        },
+        {
+          "t": "p",
+          "x": "引擎将从C++迁移到Verse语言。一旦UE6的基础架构稳定,蓝图和'Actor'系统最终将逐步淘汰,同时会推出面向现有项目的转换工具。"
+        },
+        {
+          "t": "p",
+          "x": "AI联动将支持Claude、Gemini等热门模型。该引擎还将完全吸收用于Fortnite的虚幻引擎(UEFN)功能。"
+        },
+        {
+          "t": "p",
+          "x": "核心方向是让'内容、代码和经济在游戏之间可迁移、可兼容'。Epic计划将glTF、USD等开放标准作为引擎的'一级格式'。它首先通过Fortnite服装来展示这一点:玩家拥有的服装可在其他游戏中使用,开发者制作的服装也能在Fortnite中运行。"
+        },
+        {
+          "t": "p",
+          "x": "UE6的抢先体验将于2027年末开始。"
+        }
+      ]
+    },
+    "games/meti-aitranslate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/06/a347dafccbe3bb8b7d90e405c57ab8c4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据报道,日本经济产业省(METI)计划向15家企业提供一项新的\"海外拓展\"补贴,旨在扩大日本漫画、动画和真人影视作品的海外市场。这笔价值7000万美元的补贴将发放给9家动画、漫画出版社,目的是\"鼓励\"引入生成式AI翻译,以便更快地把内容推向海外市场。"
+        },
+        {
+          "t": "p",
+          "x": "据《读卖新闻》报道,这笔尚未正式公布、规模约为115亿日元(约7000万美元)的补贴,很可能将流向Crunchyroll、集英社、讲谈社、Square Enix、Bandai Namco等公司。在非官方翻译往往比官方翻译更快传到海外观众手中的情况下,METI似乎希望借助AI翻译来减少盗版。"
+        },
+        {
+          "t": "p",
+          "x": "到目前为止,METI尚未正式公布过此类补贴项目。不过,考虑到该部门在2026年推出了多项与AI相关的政府项目,这也并不令人意外。例如,6月4日,METI与新能源产业技术综合开发机构(NEDO)宣布,以应对\"人手不足\"为由,为生成式AI加速器挑战计划新增16个项目。"
+        },
+        {
+          "t": "p",
+          "x": "《读卖新闻》还报道称,获得补贴的6家非漫画、非动画企业中包括\"音乐、游戏、真人影视\"相关公司。目前尚不清楚具体是哪6家公司,也不清楚三个领域将如何划分份额。不过,鉴于游戏发行商Square Enix和Bandai Namco也在名单之列,METI或许意在让这两家公司在多个领域同时受益。"
+        }
+      ]
+    },
+    "games/palworld-noai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamingbolt.com/wp-content/uploads/2024/01/palworld-image-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI在游戏行业仍是争议话题,Pocketpair的沟通与发行负责人Jon Buckley就此阐明了工作室的立场。在接受GamesRadar采访时,他解释说Pocketpair回避生成式AI的原因是\"玩家不想要\"。"
+        },
+        {
+          "t": "p",
+          "x": "Buckley承认其他开发团队的想法可能不同,但他对AI的长期前景持怀疑态度。他说,支撑当下生成式AI的这股市场潮流看起来并不可持续,并表示\"连Steam都在一定程度上踩了刹车\"。"
+        },
+        {
+          "t": "p",
+          "x": "Pocketpair内部有更愿意亲自制作内容的美术师。Buckley补充说:\"没有理由为了交给AI而把他们裁掉。\""
+        },
+        {
+          "t": "p",
+          "x": "谈到使用AI生成素材的游戏,Buckley流露出失望,他说:\"就连我这个业内人士都会想,呃,为什么要这样?\"他认为,既然可以自己做,消费者也会开始质疑为什么偏偏选择AI。"
+        },
+        {
+          "t": "p",
+          "x": "谈及未来的营销,他担忧行业会把AI标注常态化。他称要求游戏贴上\"由人类制作\"标签这件事本身就\"带有反乌托邦色彩\",并预测西方市场的消费者抵触情绪会更强烈。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时,Playground Games确认《Fable》没有使用AI生成的语音,而Crystal Dynamics则表示在《Tomb Raider: Legacy of Atlantis》的早期开发中使用了生成式AI。"
+        }
+      ]
+    },
+    "games/steam-aidisclaim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/06/p-body-from-portal-2-running-on-top-of-the-steam-logo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Steam新品节(Next Fest)通常是独立游戏的宝库——曾是发掘像Spaghetti Western Golden Chambers或ASCII风格的Repose这类隐藏佳作的地方,但如今已经变成了AI劣质内容(AI slop)的地雷阵。"
+        },
+        {
+          "t": "p",
+          "x": "据GamesRadar+报道,本次Next Fest的8600个演示中,有近1700个用了AI,约为五分之一。原本用来填满愿望清单的几天兴奋期,如今变成了不断重复\"哦,这个看起来不错?啊,是AI做的\"的疲惫闯关。"
+        },
+        {
+          "t": "p",
+          "x": "开发者需要披露AI的使用情况,但这种披露只是商店页面最下方一个不起眼的小字脚注。要避开这1700个用了AI的作品,就得逐一拆开每一款感兴趣的游戏细看。既麻烦,又压垮了本该令人期待的节日气氛。"
+        },
+        {
+          "t": "p",
+          "x": "这种不满并非作者一人的感受。Twitch主播Jeff Fabre在X上表示,\"这次Next Fest的AI数量简直离谱\",并要求提供可视化标注和过滤功能。他说:\"光是找到披露信息的位置就花了我好久。我一直在看右侧的关键词和标签区域,但标注其实应该放在右侧简介的上方。\""
+        },
+        {
+          "t": "p",
+          "x": "Valve可以选择的方案有几种。最直接的一种是在封面图上贴一个略显尴尬的AI标签,让玩家不用点进页面就能立刻知道。按照Fabre的建议,如果把标注放在简介上方或关键词、标签旁边,鼠标悬停在游戏上时的预览里也会显示出来。"
+        },
+        {
+          "t": "p",
+          "x": "最理想的方案,是像成人游戏那样,用过滤器把使用AI的开发商直接筛掉。不过也要考虑一些变量,比如像《Clair Obscur: Expedition 33》那样后来移除了AI素材的情况,或是像《Arc Raiders》那样,需要看清工具具体用在代码、美术还是配音替代等哪个环节。更细致的过滤机制,会促使开发者变得更加透明。"
+        },
+        {
+          "t": "p",
+          "x": "玩家们还要求提供一个自行隐藏游戏的按钮。在数字商店里,\"铁锹软件\"(shovelware)本就是一大顽疾,Steam同时还在与诈骗、恶意软件和抄袭较劲。AI只是又多了一种劣质内容,而玩家们已经疲惫不堪。显然有些东西必须改变了。"
+        }
+      ]
+    },
+    "games/devs-genai-pushback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HG9dzc6etWG6qqJ8Crh2pV-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI被宣传为一场革命,但在游戏行业依然是禁忌。像《星露谷物语》的埃里克·巴伦(Eric Barone)、《深海迷航2》的Unknown Worlds这样公开远离或批评它的开发者不在少数。连《天国:拯救2》《博德之门3》这样的获奖作品,仅凭AI使用的嫌疑就招致强烈反弹,NVIDIA DLSS 5中的AI滤镜也遭到开发者和玩家的强烈抵制。"
+        },
+        {
+          "t": "p",
+          "x": "也有人看到了它的价值。Bethesda的Todd Howard称它是一种有用的“工具”,即便不用于生成本身;EA和Ubisoft的CEO则把它捧为未来技术。Ubisoft在“面向玩家的生成式AI”上投入巨大。2025年的热门作品《Arc Raiders》曾大量使用AI配音,后来又把其中相当一部分换回了真人演员。"
+        },
+        {
+          "t": "p",
+          "x": "作者采访了30多名开发者,其中不少人拒绝回应或要求匿名。问题只有三个:你如何看待生成式AI,是否想使用它,以及行业应该如何对待它。得到的回答压倒性地偏向负面。"
+        },
+        {
+          "t": "p",
+          "x": "数据中心为了散热大量耗水,用电量也十分惊人,一座数据中心的耗电量可比得上数万户家庭。零部件日益稀缺、价格上涨,内存价格在不到两年内就涨了三倍多。训练数据往往是在未经创作者同意的情况下抓取而来,从OpenAI的ChatGPT到xAI的Grok,都因此陷入了接连不断的诉讼。"
+        },
+        {
+          "t": "p",
+          "x": "打造了《Iron Lung》和《DUSK》的David Szymanski表示,他并不反对AI本身,但认为行业必须“先把行为端正过来”才能被严肃对待。曾主导《龙腾世纪》叙事的David Gaider则关注道德问题:作家们从未同意让自己的“数据被掠夺”。"
+        },
+        {
+          "t": "p",
+          "x": "法律风险同样不小。《漫威争锋》总制作人Danny Koo表示,正因如此,这款游戏完全不使用生成式AI。“更好的做法是能够自信地说,所有素材都是团队在没有外部帮助的情况下做出来的,这样才不会被污染。”"
+        },
+        {
+          "t": "p",
+          "x": "宣称用AI取代人力的说法往往名不副实(正如Take-Two CEO Strauss Zelnick所指出的,很多时候只是为降本找的烟雾弹),而真正发生替代时,消失的大多是入门级岗位。Gaider反问道:“如果把入门级的工作全部取消,又要如何培养下一代开发者?”"
+        },
+        {
+          "t": "p",
+          "x": "即便抛开这些担忧,仍有批评指出AI做不到人能做到的事。Gaider认为,由于无法承载创作意图、也无法复现创作过程,AI对游戏开发而言并不实用。《幻兽帕鲁》的John Buckley直言,公司内部“有很多艺术家喜欢自己动手”,而且“玩家也不想要这个”。"
+        },
+        {
+          "t": "p",
+          "x": "出身《寂静岭》系列的Sam Barlow称目前的用法“低效且破败”。他转述了一位同事的经历:以低价“整理”AI写出的台词,比重新写一遍还要费劲。参与过100多款游戏的Xalavier Nelson Jr.则表示,“生成式AI不是一个‘可以按’的按钮,而是一个‘能按’的按钮”。"
+        },
+        {
+          "t": "p",
+          "x": "出身《神秘海域》团队的Bruce Straley表示自己“感到害怕”,但最终认为“必须有具备品味和匠人精神的人,才能达到有价值的结果”。作者总结这32次采访时写道,这更像是一场想要亲自动手的人与仅仅渴望结果的人之间的冲突。"
+        }
+      ]
+    },
+    "games/general-intuition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+          "cap": "General Intuition联合创始人兼CEO Pim de Witt。图片:General Intuition"
+        },
+        {
+          "t": "p",
+          "x": "走进纽约办公室的研发楼层,31岁的联合创始人兼CEO Pim de Witt指向站立办公桌上的一台显示器。画面里似乎有人在玩一款类似Fortnite的游戏,但那并不是人类。首席产品官Kent Rawlins笑着说:“我们的智能体已经连续玩了100个小时。”"
+        },
+        {
+          "t": "p",
+          "x": "紧接着传来一阵电子嗡鸣声,一台四足机器人正在靠近。“驱动这台机器人的,是和玩游戏的智能体同一个大脑,”de Witt说。机器人仅靠一个摄像头,在记者身边绕行,期间被椅子腿绊到,又撞上了垃圾桶。这个模型只用街头采集的数据微调了短短8分钟。"
+        },
+        {
+          "t": "p",
+          "x": "周四,General Intuition宣布以23亿美元估值完成3.2亿美元融资。累计公开融资额达到4.54亿美元,此前公司在去年10月成立时已筹集1.34亿美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-7.44.22-PM.png?w=1024",
+          "cap": "General Intuition依赖Medal的游戏视频数据。图片:Medal.TV"
+        },
+        {
+          "t": "p",
+          "x": "这家初创公司是从de Witt旗下另一家公司Medal分拆出来的。玩家们上传的数亿小时游戏录像,成为其最初的训练数据。关键不在于视频本身,而在于其中嵌入的动作标签——也就是何时按下了哪个按键的记录。大多数竞争对手试图仅凭视频推断动作,但de Witt认为那样还不够。"
+        },
+        {
+          "t": "p",
+          "x": "“这只是预训练的下一步而已,”他说。这是一个单一模型,既能响应屏幕上Fortnite的信息,也能响应现实世界的动力学。他递过来的笔记本电脑里的世界模型,不是游戏引擎,而是逐帧生成的环境——走不过去,会被一堵墙挡住。"
+        },
+        {
+          "t": "p",
+          "x": "这个世界模型不是产品,而是训练环境。公司内部称其为“体育馆”,最终想出售的是智能体模型本身。不过,目前还没有人在物理世界中让这类技术实现规模化运转。他们赌的是,游戏玩法是通往那一步的廉价且可扩展的捷径。"
+        },
+        {
+          "t": "p",
+          "x": "本轮融资由Khosla Ventures领投,General Catalyst、Jeff Bezos、Eric Schmidt、Nico Rosberg,以及来自Google DeepMind和MIT的研究者参与。大部分资金将用于扩充计算资源。公司已与CoreWeave签约,并计划在夏末前更广泛地开放API。"
+        },
+        {
+          "t": "p",
+          "x": "Vinod Khosla表示,吸引他的是de Witt的愿景和独有的数据。“如果说LLM中推理能力的出现是一次量子跃迁,那么世界模型的跃迁就是直觉的出现,”他说,并表示“游戏中蕴含的人类行动与反应数据,正是解锁这种直觉的关键”。"
+        },
+        {
+          "t": "p",
+          "x": "de Witt和联合创始人们对被收购并不感兴趣。曾在人道主义领域工作过的他,划下了一条底线:绝不用智能体来伤害人。与此同时,公司最近推出了求职平台“Nerve”,让玩家可以用自己的设备赚钱——这是一次尝试,想为最容易被AI取代的这代人争取一份收益。"
+        }
+      ]
+    },
+    "games/games-ea-creativity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "艺电(Electronic Arts)企业发展负责人劳拉·米尔认为，随着人工智能在游戏开发中的应用增加，枯燥的苦力活会减少，整个开发流程也会加快，从而带来'a real rise in creativity'。"
+        },
+        {
+          "t": "p",
+          "x": "米尔本月初在夏季游乐节(Summer Game Fest)的Game Business Live展示环节上表达了这一观点。当时她被问及AI工具增多是否会让开发周期整体缩短。"
+        },
+        {
+          "t": "p",
+          "x": "'Perhaps in some parts they will,' 米尔说。'I really believe in what I've seen, that I'm pretty excited about. I've always wanted to help our studio developers remove friction and I've always kind of wanted to be a hero to them and help them create career-defining experiences.'"
+        },
+        {
+          "t": "p",
+          "x": "'And I think that AI, what I've seen, how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs. And I've seen faster prototyping. I've seen faster creativity and shorter, faster conversations around creativity and coming to alignment. So, we're seeing it and I think there's a real rise of creativity that comes from removing some of the tedious tasks out of development.'"
+        },
+        {
+          "t": "p",
+          "x": "这里所说的AI究竟是哪一种，并不十分清楚。Genki Design工作室、《古堡魔影》(Shadow of the Colossus)导演上田文人所用的AI项目管理工具，与几乎侵蚀了所有领域的生成式AI'废料机器'之间，存在巨大的差距。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此，EA从未掩饰对生成式AI的热情。例如，CEO安德鲁·威尔逊在2024年曾表示，公司正在'embracing [generative AI] deeply'，并称'about 60% of all of our development processes have high feasibility to be positively impacted by generative AI'。"
+        },
+        {
+          "t": "p",
+          "x": "据称，EA也希望借助AI的力量降低运营成本，以应对在沙特阿拉伯公共投资基金550亿美元收购过程中背负的200亿美元债务融资。（如果你好奇身为被收购方的EA，为什么还要背负数十亿美元债务来支付自己被收购的费用，PC Gamer的财经专家林肯·卡彭特已经做了解读。简而言之：所有人都很害怕。）"
+        },
+        {
+          "t": "p",
+          "x": "据悉，员工对这个以AI为中心的未来并没有那么欢迎。一些人怀疑公司借AI之名为裁员找理由。无论是否与AI有关，自2025年9月沙特投资宣布以来，EA已在BioWare和Respawn裁减数百人，并彻底关闭了Cliffhanger Games。据悉最近一轮裁员发生在本周早些时候，具体有多少人失业并未公开。"
+        }
+      ]
+    },
+    "games/games-ue6-reactions": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "围绕艺珂游戏(Epic Games)的State of Unreal发布会，业界专家和Unreal Engine开发者反应不一。Unreal Engine 5.8、UE6的早期信息、基于MCP的AI工作流、Verse，以及最终放弃Blueprint的方向，都成为讨论焦点。"
+        },
+        {
+          "t": "p",
+          "x": "许多开发者最强烈的印象是，Epic并没有把UE 5.8和UE6当作又一次渲染器、工作流或性能方面的更新。该公司正在为一场更广泛的制作转型打基础，核心是AI辅助工作流、Verse、可互操作内容，以及让Unreal Engine与UEFN更紧密结合的关系。换句话说，Epic正朝着其长期设想的'元宇宙引擎'大步迈进。"
+        },
+        {
+          "t": "p",
+          "x": "在官方路线图中，Epic表示UE6将改善渲染效果、缩短打包(cook)时间、让迭代循环更紧凑，并提升移动端性能。同时，公司希望通过Verse、开放标准、可互操作内容，以及面向Claude、Gemini等工具的MCP集成，改变游戏发布和运营的方式本身。"
+        },
+        {
+          "t": "p",
+          "x": "首先，UE 5.8中的功能就让开发者感到兴奋。网格地形令人印象深刻，针对Switch 2等低配置设备的Lumen Lite被视为优化信号而受到欢迎，名为Lore的新开源版本管理工具也引发期待。Rainiere Virtual的Bjornar Hoff表示'My favourite bit of the show!'，并指出在UE6中UEFN与UE将合并为同一产品线。"
+        },
+        {
+          "t": "p",
+          "x": "前Epic员工、现任[namethemachine]首席可视化艺术家的Brian J. Pohl将这次聚焦AI集成的消息视为行业的关键'turning point'。Falswork的Matthew J.X. Doyle评价称，主题演讲的'real throughline'在于UE5与UEFN正汇聚成一个建立在Verse与分布式软件事务内存之上的'基础优先'引擎。"
+        },
+        {
+          "t": "p",
+          "x": "最具争议的部分是，Actor和Blueprint最终将被利用Scene Graph的新Verse架构取代并逐步淘汰。Keyboard Katz Studio的Anton Mikhailenko认为，非可视化脚本语言更有利于维护和优化，也更容易合并，适合大团队使用。他指出，Epic是在赌UE6整个生命周期中LLM将被广泛使用。"
+        },
+        {
+          "t": "p",
+          "x": "乐观情绪并非一边倒。针对同一场发布会，一些开发者和艺术家认为这预示着比Epic所描述的更具破坏性的转变。最明确的现实担忧是Blueprint的未来。在路线图中，Epic表示UE6早期版本会保留Actor和Blueprint，但一旦新框架成熟，将'eventually'淘汰它们，并提供帮助项目迁移的转换工具。"
+        },
+        {
+          "t": "p",
+          "x": "Epic将UE6的抢先体验定在2027年末，正式发布预计在那之后的12到18个月。这意味着短期内不会出现断裂，但长期方向已经明确。由于Blueprint多年来一直象征着Unreal的易用性，质疑很快出现。事实上，获得年度游戏奖的《Clair Obscur: Expedition 33》正是因为一个小团队用Blueprint构建了全部游戏玩法系统才得以实现。"
+        },
+        {
+          "t": "p",
+          "x": "工业光魔(Industrial Light & Magic)高级技术艺术家Steve Vegan的言辞更加尖锐。'The joy in creation does not come from the volume of output. It comes from the art process. Tools like this exist to remove the creation process entirely.'曾在Epic、Infinity Ward、Rebellion担任UI艺术家的Chris Geislerjohnson也认为，放弃一直在降低入门门槛的Blueprint是'risky'的。"
+        },
+        {
+          "t": "p",
+          "x": "Epic试图缓解这些担忧，称其理念是带着现有项目一起前进，不会'force a hard break'。但UE6新的玩法框架Scene Graph是在Verse之上从零重新搭建这一事实并未改变。正如Tim Sweeney所说，'UE5 plus UEFN equals UE6'，正在开发中的项目将如何承受这一变化，还需要时间来证明。"
+        },
+        {
+          "t": "p",
+          "x": "目标并不止于渲染或性能提升。而是要做到一次制作，就能发布到PC、主机、移动端、Fortnite，乃至其他基于UE6的生态系统。对小团队和live-service开发商而言，这可能意味着更快的迭代、更广的分发，以及更易迁移的内容。但AI辅助的编辑器控制、基于Verse的系统、可互操作内容，以及通向Fortnite的分发，也同时带来了关于培训、维护、版权、团队角色和制作政策的现实问题。"
+        }
+      ]
+    },
+    "games/sweeney-valve": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games首席执行官蒂姆·斯威尼（Tim Sweeney）认为，Valve要求开发者在Steam上为游戏标注AI使用情况“really irresponsible”，并助长了“hater community”。"
+        },
+        {
+          "t": "p",
+          "x": "本月早些时候，斯威尼和Epic员工登上Unreal Fest的舞台，公开了Unreal Engine 6的首批信息。其中一个核心信息是，Epic并不回避使用生成式AI，反而打算在游戏开发过程中支持其应用。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/01/tim-sweeney-at-gdc.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "在GDC的蒂姆·斯威尼"
+        },
+        {
+          "t": "p",
+          "x": "正如他在社交媒体上的发言早已显示的那样，这次表态延续了他一贯支持并为游戏中AI辩护的立场。而这一次，斯威尼更进一步，直接把矛头对准了Valve处理AI的方式，以及Steam要求标注AI使用情况这件事。"
+        },
+        {
+          "t": "p",
+          "x": "正如ResetEra用户Alexandros所指出的，PC Gamer在State of Unreal发布会结束后不久就采访了斯威尼。采访中，他谈到开发者制作资产有多昂贵、多困难，并指出AI是获得具有“unique look and feel”资产的一种经济方式。"
+        },
+        {
+          "t": "p",
+          "x": "斯威尼接着表示，开发者若想让游戏被人知晓，就必须把游戏上架Steam，而如果开发过程中使用了AI，游戏就会被贴上“Scarlet Letter of AI”，这是“unfortunate”的。他说，结果就是出现了“hater community trying to kill the game”。"
+        },
+        {
+          "t": "p",
+          "x": "斯威尼认为，Valve的AI标注警告“really irresponsible”，并表示这会降低开发者成功的可能性，因此Valve“shouldn't do it”。简言之，他认为不应该像现在这样要求在游戏开发中标注AI的使用，因为这会让开发者从一开始就被推向失败。"
+        },
+        {
+          "t": "p",
+          "x": "斯威尼指出，标注了AI使用的游戏会遭遇猛烈反弹，这一点没错——看看《古墓丽影：亚特兰蒂斯遗产》就知道了。不过考虑到环境成本和人类创作的缺失，玩家与之保持距离也并不奇怪。令人遗憾的是，AI几乎不会放慢脚步，但至少在如实公开这一点上，大多数人都会认同Valve的做法更可取。"
+        }
+      ]
+    },
+    "games/ue6-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在芝加哥Unreal Fest现场直播的State of Unreal 2026上，Epic Games宣布推出Unreal Engine 5.8，同时也深入介绍了Unreal Engine 6——这款引擎此前曾在上个月巴黎举行的火箭联盟冠军系列赛2026上首次短暂亮相。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/unreal-engine-6-x-uefn-HD-728x410.jpeg",
+          "cap": "Unreal Engine 6 × Unreal Editor for Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "创始人、CEO兼最大股东蒂姆·斯威尼登台表示，UE6并不仅仅是渲染或世界构建方面的改进，而是要改变游戏发布与运营方式本身。其构想是：只要用Unreal Engine 6制作好一次，这款游戏就能投放到任何主机商店、PC商店或移动商店，并能与Fortnite生态系统，以及其他开发者用UE6制作的游戏实时互联。"
+        },
+        {
+          "t": "p",
+          "x": "因此，UE6虽然是把UE5与Unreal Editor for Fortnite合并为一个引擎，但这只是冰山一角。支撑新引擎的是专为大规模持久化世界设计的新编程语言Verse，由运行时来处理全局状态与事务并发。Scene Graph是在Verse之上从零搭建的UE6游戏玩法框架，目标是打造可供不同游戏重复使用的可互操作组件。"
+        },
+        {
+          "t": "p",
+          "x": "最可能引发热议的部分，是将LLM集成进Unreal Engine 6。通过MCP（Model Context Protocol）插件，Epic把引擎的大量功能开放给用户想用的任意模型，无论是Claude、Gemini还是自定义模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/06/UE-LLM-MCP-scaled.jpg",
+          "cap": "一幅Unreal城市渲染图，屏幕右下角可见代码与编辑器菜单"
+        },
+        {
+          "t": "p",
+          "x": "这是Unreal内部可选的一层工作流，模型协助内容创作，但控制权始终掌握在开发者手中。模型并非取代编辑器，而是通过编辑器运作，一切都可以照常在Unreal中编辑。开发者给出提示或任务后，模型通过MCP查看场景并进行修改。在演示中，Epic展示了先给房间摆放家具，再把它放大到城市规模，铺设道路和建筑，最后调整灯光、材质与特效的整个过程。"
+        },
+        {
+          "t": "p",
+          "x": "Epic在UE6的博客文章中写道：“Thus, for UE6, we see LLMs, generative AI models, and tools like Claude and Codex playing a central role in helping you build content faster while maintaining the creative control you need.”其构想并非把AI当作另外摆在一旁的工具，而是把它编织进内容创作本身。对游戏团队来说，这意味着模型将协助关卡搭建、角色设定、代码辅助、崩溃分析和测试生成。"
+        },
+        {
+          "t": "p",
+          "x": "LLM在处理空间问题上较为薄弱，为此Epic预先提供了80多个程序化内容生成基础模块、示例库，以及涵盖特定Unreal工作流的Skills来弥补这一短板。最重要的是，一切都处于开发者的掌控之下，要在多大程度上借助LLM，由开发者自行决定。MCP服务器、PCG Primitive Plugin以及自制的Skills，其实已经作为今天5.8版本的一部分发布。UE6的抢先体验目标是2027年底，正式发布则在那之后12到18个月，最早可能在2028年底，现实来看更可能是2029年。"
+        }
+      ]
     }
   }
 }

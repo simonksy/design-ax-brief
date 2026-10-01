@@ -1199,6 +1199,27 @@
           "x": "오프라인에도 한계가 있다. 타임케틀은 오프라인 언어 쌍 14개를 제공하는데 처음 두 개는 무료, 나머지는 개당 10달러다. 미디어 번역과 통화, 고급 AI 기능은 인터넷이 있어야 한다. 통화나 음악용 이어버드를 겸하는 제품도 많으니 필요한 기능을 챙겨 보면 두 개를 살 일이 없다."
         }
       ]
+    },
+    "gadgets/gadgets-fire-tv-alexa-plus-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/intro-1790771374.jpg",
+          "cap": "알렉사+가 더 복잡한 질문도 처리하게 된다"
+        },
+        {
+          "t": "p",
+          "x": "11월부터 미국 파이어 TV 사용자는 TV 화면과 모바일 앱에서 새 알렉사+ 기능을 쓰게 된다. AI 비서 전용 허브가 생기고, 이용 기록에 맞춘 프롬프트 제안이 뜬다. 알렉사+에는 추론 기능이 붙어 더 복잡한 질문에도 답한다. 사용자의 구독 서비스와 시청 기록은 물론 현실의 시사 이슈까지 끌어다 쓴다. 이를테면 \"Alexa, find shows that were nominated for the recent Emmys but got snubbed\"나 \"Alexa, show me MCU films based on their in-universe timeline order\" 같은 질문에도 답할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "업그레이드된 파이어 TV 모바일 앱에도 알렉사+가 들어간다. 드라마나 영화를 다룬 기사 링크를 건네면 글에 나온 작품을 관심 목록에 넣어 준다. 사진을 올리면 그 사진에서 떠오르는 작품도 추천한다. 어떤 장소나 스크린숏, 포스터를 보고 생각나는 작품이 있으면 알렉사+에 보여 주면 된다. 사진 속에서 알아본 것을 바탕으로 제안을 내놓는다. 모바일 앱은 스트리밍 서비스로 바로 가는 딥링크도 지원한다. 앱 안의 스트리밍 아이콘을 누르면 휴대폰에서 곧장 재생되고, 큰 화면으로 옮기고 싶으면 TV의 ‘Continue Watching’ 줄에서 이어 보면 된다."
+        },
+        {
+          "t": "p",
+          "x": "파이어 TV는 이제 YouTube TV, Peacock, Tubi, Sling, DirecTV 등 40개가 넘는 앱의 실시간 콘텐츠를 한데 모아 보여 준다. 게임 허브에서는 Xbox, Luna, NVIDIA GeForce NOW의 클라우드 게임을 한곳에서 고를 수 있다. 이 업데이트는 올해 안에 미국 사용자에게, 내년 초에는 다른 지역에 배포된다. 아마존은 올가을 파이어 TV용 음악 앱도 새로 내놓는다. 뮤직비디오와 팟캐스트, 콘서트·페스티벌 생중계까지 서비스 전체를 이 앱에서 찾아볼 수 있다."
+        }
+      ]
     }
   }
 }

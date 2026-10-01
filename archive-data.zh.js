@@ -36438,10 +36438,9 @@
   "date": "2026-07-01",
   "section": "design",
   "has_full": true,
-  "headline": "핸드오프 없는 소프트웨어 개발\nAI 에이전트가 앞당긴다",
-  "body": "가장 빠른 팀은 실제 시스템 안에서 AI 에이전트를 돌려 핸드오프를 없앤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需交接\nAI加速开发",
+  "body": "最快的团队让AI代理直接在真实系统中运行,从而彻底消除交接环节。",
+  "lang": "zh"
  },
  {
   "id": "ai-slop",
@@ -36454,10 +36453,9 @@
   "date": "2026-07-01",
   "section": "design",
   "has_full": true,
-  "headline": "'AI 슬롭'은 근거 없는 모욕\n게임 개발자들이 반발한다",
-  "body": "생성형 AI를 쓰지 않았는데도 'AI 슬롭'으로 낙인찍히는 인디 게임이 늘고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "'AI slop'无凭\n开发者反击",
+  "body": "明明没用生成式AI,独立游戏却频被扣上'AI slop'的帽子。",
+  "lang": "zh"
  },
  {
   "id": "neurodiverse-ai",
@@ -36470,10 +36468,9 @@
   "date": "2026-07-01",
   "section": "books",
   "has_full": true,
-  "headline": "빈 페이지가 두려운 신경다양성 작가\nAI에 기대도 그 글은 내 것일까",
-  "body": "빈 페이지가 벽인 신경다양성 작가에게 AI는 발판이 되지만 저자의 경계를 흐린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "空白页可怕\n靠AI算谁的字",
+  "body": "空白页是道墙的神经多样性作家,AI是支点却模糊了作者边界。",
+  "lang": "zh"
  },
  {
   "id": "kobo-storygraph",
@@ -36486,10 +36483,9 @@
   "date": "2026-07-01",
   "section": "books",
   "has_full": true,
-  "headline": "코보 e리더에서 스토리그래프\n독서 기록이 자동으로 연동된다",
-  "body": "코보 e리더가 스토리그래프와 연동돼 독서 기록과 진행률이 자동으로 동기화된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Kobo联动\nStoryGraph读记",
+  "body": "Kobo电子阅读器与StoryGraph打通,阅读记录与进度自动同步。",
+  "lang": "zh"
  },
  {
   "id": "waveform14",
@@ -36502,10 +36498,9 @@
   "date": "2026-06-30",
   "section": "music",
   "has_full": true,
-  "headline": "LLM이 작곡을 거드는 AI 어시스턴트\n트랙션 웨이브폼 14에 들어왔다",
-  "body": "구독이 아니라 쓴 만큼 내는 방식으로, 매뉴얼 질문부터 미디 생성까지 맡아준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "LLM助作曲\n登陆Waveform14",
+  "body": "采用按使用量付费而非订阅制,从手册问答到MIDI生成样样都能胜任。",
+  "lang": "zh"
  },
  {
   "id": "tidal-ai",
@@ -36518,10 +36513,9 @@
   "date": "2026-06-30",
   "section": "music",
   "has_full": true,
-  "headline": "AI로 만든 음악엔 수익을 주지 않고\n7월 중순부터 태그를 붙인다",
-  "body": "타이달은 전부 AI로 만든 곡엔 로열티를 주지 않고, 7월 중순부터 표시를 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI曲无收益\n7月起打标签",
+  "body": "Tidal不向完全由AI制作的歌曲支付版税,7月中旬起开始标注。",
+  "lang": "zh"
  },
  {
   "id": "latent-terrain",
@@ -36534,10 +36528,9 @@
   "date": "2026-06-30",
   "section": "music",
   "has_full": true,
-  "headline": "내가 만든 소리를 악기처럼 연주하는\n무료로 풀린 오픈소스 뉴럴 오디오 코덱",
-  "body": "클라우드가 아니라 내 컴퓨터에서 돌아가고, 재료는 내가 만든 소리 그 자체다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自制声音\n化身免费乐器",
+  "body": "它不在云端运行,而是在你自己的电脑上运行,素材正是你自己制作的声音。",
+  "lang": "zh"
  },
  {
   "id": "deezer-remix",
@@ -36550,10 +36543,9 @@
   "date": "2026-06-30",
   "section": "music",
   "has_full": true,
-  "headline": "생성형 AI 없이 팬이 리믹스하고\n아티스트에게 보상이 돌아간다",
-  "body": "스포티파이와 달리 생성형 AI를 쓰지 않고, 팬이 직접 효과를 입혀 곡을 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需生成式AI\n粉丝混音得酬",
+  "body": "与Spotify不同,不用生成式AI,粉丝自己加特效改编歌曲。",
+  "lang": "zh"
  },
  {
   "id": "berklee-summit",
@@ -36566,10 +36558,9 @@
   "date": "2026-06-30",
   "section": "music",
   "has_full": true,
-  "headline": "안에선 업계 전문가들이 토론하고\n밖에선 학생들이 거리로 나섰다",
-  "body": "첫 AI 음악 서밋이 열리는 동안, 일자리를 걱정한 학생들은 건물 밖에서 시위를 벌였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "业内热议\n学生街头抗议",
+  "body": "在首届AI音乐峰会举行期间,担忧工作不保的学生在场外举行了抗议。",
+  "lang": "zh"
  },
  {
   "id": "storeel-canvas",
@@ -36582,10 +36573,9 @@
   "date": "2026-06-30",
   "section": "movies",
   "has_full": true,
-  "headline": "대본만 넣으면 콘티부터 프롬프트까지\n스토릴이 AI 제작실 '캔버스'를 공개했다",
-  "body": "캔버스는 제작 시간을 3분의 2가량 줄이고 비용은 실사의 15% 수준으로 낮춘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "只需剧本\nCanvas全搞定",
+  "body": "Canvas可将制作时间缩短约三分之二,成本降至真人实拍的15%。",
+  "lang": "zh"
  },
  {
   "id": "seedance25",
@@ -36614,10 +36604,9 @@
   "date": "2026-06-30",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 복제로부터 목소리와 얼굴을 지키는\n'노 페이크스 법'이 상원 위원회를 통과했다",
-  "body": "본인 목소리와 외모를 AI로 복제하려면 당사자 허락을 받도록 한 법안이 상원 법사위를 만장일치로 통과했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "声音容貌获新法\n参院委员会通过",
+  "body": "要求AI复制本人声音容貌须经本人同意的法案获参院司法委员会一致通过。",
+  "lang": "zh"
  },
  {
   "id": "annecy2026",
@@ -36630,9 +36619,9 @@
   "date": "2026-06-30",
   "section": "movies",
   "has_full": true,
-  "headline": "생성형 AI로 그려낸 단편 한 편을 두고\n안시 2026이 야유와 퇴장으로 들썩였다",
-  "body": "히스코 휠싱이 자신의 그림을 본떠 AI로 만든 '당스 마카브르'에 관객들은 야유하거나 자리를 떴다.",
-  "lang": "ko",
+  "headline": "A generative AI short film\nsparked boos at Annecy 2026",
+  "body": "Audiences booed or walked out of Hisko Hulsing's AI-made short 'Dans Macabre,' modeled on his own art.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -36646,10 +36635,9 @@
   "date": "2026-06-30",
   "section": "games",
   "has_full": true,
-  "headline": "언리얼 엔진 6, UE5와 UEFN을\n하나의 엔진으로 통합한다",
-  "body": "에픽이 언리얼 엔진 6에서 UE5와 UEFN을 합치고 Claude·Gemini를 제작 중심에 둔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UE6将合并UE5\n与UEFN为一体",
+  "body": "Epic在虚幻引擎6中合并UE5与UEFN,并让Claude、Gemini成为创作核心。",
+  "lang": "zh"
  },
  {
   "id": "steam-aidisclaim",
@@ -36662,10 +36650,9 @@
   "date": "2026-06-30",
   "section": "games",
   "has_full": true,
-  "headline": "스팀 넥스트 페스트 데모 다섯 중 하나꼴\nAI 표시 강화 목소리 커진다",
-  "body": "데모 8600개 중 1700개 가까이가 AI를 써, 플레이어는 커버 아트 표시와 필터를 요구한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Steam展会五分一\n演示用AI,要求加标",
+  "body": "8600个演示中近1700个用了AI,玩家要求在封面标注并提供过滤。",
+  "lang": "zh"
  },
  {
   "id": "palworld-noai",
@@ -36678,10 +36665,9 @@
   "date": "2026-06-30",
   "section": "games",
   "has_full": true,
-  "headline": "팰월드 개발사, 생성형 AI 거부\n게이머가 원치 않아서",
-  "body": "포켓페어의 존 버클리는 게이머가 원치 않는다며 생성형 AI를 거부하고, 사내 아티스트가 직접 작업한다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "幻兽帕鲁开发商\n拒绝生成式AI",
+  "body": "Pocketpair的Jon Buckley称玩家不想要,拒绝生成式AI,由美术师自制。",
+  "lang": "zh"
  },
  {
   "id": "nvidia-artfixer",
@@ -36694,9 +36680,9 @@
   "date": "2026-06-30",
   "section": "games",
   "has_full": true,
-  "headline": "엔비디아 ArtFixer가 3D 장면의\n빈 공간을 AI 상상으로 메운다",
-  "body": "가우시안 스플래팅이 비워둔 영역을 ArtFixer가 상상으로 채우지만, 24GB 넘는 VRAM을 잡아먹는다.",
-  "lang": "ko",
+  "headline": "Nvidia's ArtFixer fills empty\ngaps in 3D scenes with AI",
+  "body": "ArtFixer imagines its way through gaps left by Gaussian splatting, but it eats more than 24GB of VRAM.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -36710,10 +36696,9 @@
   "date": "2026-06-30",
   "section": "games",
   "has_full": true,
-  "headline": "일본 경제산업성, AI 번역 장려에\n7000만 달러 보조금 추진",
-  "body": "경제산업성이 만화·애니 출판사 9곳에 1150억 엔 규모 보조금을 주며 생성형 AI 번역 도입을 장려한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "日本经产省推AI翻译\n补贴达7000万美元",
+  "body": "经产省向9家漫画动画出版社提供1150亿日元补贴,鼓励引入生成式AI翻译。",
+  "lang": "zh"
  },
  {
   "id": "substance-sampler6",
@@ -36742,9 +36727,9 @@
   "date": "2026-06-30",
   "section": "design",
   "has_full": true,
-  "headline": "AMD FSR 4.1 업스케일링\nRDNA 3 구형 GPU까지 지원 확대",
-  "body": "AMD가 FSR SDK 2.3으로 FSR 4.1 신경망 업스케일링을 구형 RDNA 3 GPU까지 넓혔다.",
-  "lang": "ko",
+  "headline": "AMD FSR 4.1 upscaling\nsupport extends to older RDNA 3",
+  "body": "AMD used FSR SDK 2.3 to extend FSR 4.1 neural upscaling to older RDNA 3 GPUs.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -36758,10 +36743,9 @@
   "date": "2026-06-30",
   "section": "design",
   "has_full": true,
-  "headline": "피그마 셰이더, AI 코딩 도구로\n웹에 직접 구현하기",
-  "body": "데브스코스가 피그마 메이크의 한계를 짚고 클로드·커서로 피그마 셰이더를 웹에 직접 구현하는 법을 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma着色器用AI\n编程直接实现于网页",
+  "body": "DevsCourse指出Figma Make的局限,并展示用AI编程实现着色器的方法。",
+  "lang": "zh"
  },
  {
   "id": "writer-voice",
@@ -36774,9 +36758,9 @@
   "date": "2026-06-30",
   "section": "books",
   "has_full": true,
-  "headline": "AI에 의존하는 신인 작가는 결국\n자기만의 목소리를 잃는다",
-  "body": "타우니 라라는 AI 도구가 지름길처럼 보여도 신인 작가의 글을 획일화해 목소리를 앗아간다고 말한다.",
-  "lang": "ko",
+  "headline": "New writers who lean on AI\nend up losing their own voice",
+  "body": "Tawni Lara says AI tools may look like a shortcut, but they flatten new writers' work and strip away their voice.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -36790,10 +36774,9 @@
   "date": "2026-06-30",
   "section": "books",
   "has_full": true,
-  "headline": "AI 혁신은 부유한 나라에 쏠린다\nSSP 기조연설의 경고",
-  "body": "SSP 2026 기조연설은 AI 혁신이 부유한 나라에 쏠린다고 짚으며 공공 지식 공유재를 제안한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI创新偏向富国\nSSP主题演讲警示",
+  "body": "SSP 2026主题演讲指出AI创新偏向富裕国家,并提议建立公共知识共享资源。",
+  "lang": "zh"
  },
  {
   "id": "pubperspectives",
@@ -36806,10 +36789,9 @@
   "date": "2026-06-30",
   "section": "books",
   "has_full": true,
-  "headline": "토니스 일본 엑스모까지\n출판계로 번지는 AI 물결",
-  "body": "토니스 오디오 현지화부터 일본 만화 번역 컨소시엄까지, 출판계 전반에 AI가 파고든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从Tonies到日本\nEksmo,AI席卷出版界",
+  "body": "从Tonies音频本地化到日本漫画翻译联盟,AI浪潮席卷整个出版业。",
+  "lang": "zh"
  },
  {
   "id": "playbooks-insights",
@@ -36822,10 +36804,9 @@
   "date": "2026-06-30",
   "section": "books",
   "has_full": true,
-  "headline": "구글 플레이 북스, 제미나이로\n읽기 도우미를 붙이다",
-  "body": "구글 플레이 북스가 제미나이 기반 '북 인사이트'를 내놔, 읽은 대목을 요약하고 독자 질문에 답한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Play图书接入\nGemini阅读助手",
+  "body": "Google Play图书推出基于Gemini的\"读书洞察\",总结已读内容并答疑。",
+  "lang": "zh"
  },
  {
   "id": "ferriss-aisales",
@@ -36838,10 +36819,9 @@
   "date": "2026-06-30",
   "section": "books",
   "has_full": true,
-  "headline": "팀 페리스 종이책 판매 57% 추락\nAI가 비소설 시장을 흔든다",
-  "body": "팀 페리스의 종이책 판매가 2024년에서 2025년 사이 57% 줄었고, 그는 원인으로 AI 확산을 꼽는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "费里斯纸书销量跌57%\nAI冲击非虚构市场",
+  "body": "蒂姆·费里斯的纸书销量在2024至2025年间下跌57%,他归因于AI普及。",
+  "lang": "zh"
  },
  {
   "id": "ymck",
@@ -36854,10 +36834,9 @@
   "date": "2026-06-29",
   "section": "music",
   "has_full": true,
-  "headline": "10년 넘게 멈춰 있던 신스\nAI 코딩으로 끝을 봤다",
-  "body": "FDS 음원칩을 되살린 무료 신스가 AI 코딩의 도움으로 마침내 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "停滞十余年的合成器\nAI编程终于完成",
+  "body": "停滞十余年后,这款复刻FDS音源芯片的免费合成器终于借助AI编程问世。",
+  "lang": "zh"
  },
  {
   "id": "consent-letter",
@@ -36870,10 +36849,9 @@
   "date": "2026-06-29",
   "section": "music",
   "has_full": true,
-  "headline": "AI 계약에 빠진 창작자\n동의·보상·투명성을 요구하다",
-  "body": "창작자 단체 31곳이 AI 라이선스에 동의와 공정 보상, 투명성을 요구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "创作者被排除在AI合约外\n要求同意报酬与透明度",
+  "body": "31个创作者团体要求AI授权协议体现同意、合理报酬与透明度。",
+  "lang": "zh"
  },
  {
   "id": "atlantic-data",
@@ -36886,10 +36864,9 @@
   "date": "2026-06-29",
   "section": "music",
   "has_full": true,
-  "headline": "수노·우디오 학습 데이터\n2천만 곡 넘게 드러났다",
-  "body": "디 애틀랜틱이 수노·우디오 학습에 쓰인 2천만 곡 넘는 목록을 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno、Udio训练数据\n逾2000万首曲目曝光",
+  "body": "The Atlantic公开了Suno、Udio训练所用的逾2000万首歌曲清单。",
+  "lang": "zh"
  },
  {
   "id": "runway-fest",
@@ -36902,10 +36879,9 @@
   "date": "2026-06-29",
   "section": "movies",
   "has_full": true,
-  "headline": "54세 비영리 활동가가\n런웨이 대상을 받았다",
-  "body": "정식 영화 교육을 받지 않은 로버트 고데트가 AI 도구만으로 만든 8분짜리 단편으로 5만 달러 대상을 받았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "54岁非营利者\n斩获Runway大奖",
+  "body": "未受过正规电影教育的Robert Gaudette，凭AI短片获Runway大奖。",
+  "lang": "zh"
  },
  {
   "id": "banijay-toonboom",
@@ -36918,10 +36894,9 @@
   "date": "2026-06-29",
   "section": "movies",
   "has_full": true,
-  "headline": "바니자이 키즈가 툰붐\nAI 도구를 시험한다",
-  "body": "바니자이 키즈가 윤리 가드레일을 두고 툰붐의 엠버 AI 도구를 시험하되 모델 학습에는 쓰지 않기로 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Banijay Kids测试\nToon Boom AI工具",
+  "body": "Banijay Kids将用Toon Boom的Amber AI工具试验，但不用于训练模型。",
+  "lang": "zh"
  },
  {
   "id": "asteria-ltx",
@@ -36934,10 +36909,9 @@
   "date": "2026-06-29",
   "section": "movies",
   "has_full": true,
-  "headline": "아스테리아와 LTX가\n시네마틱 AI로 뭉쳤다",
-  "body": "아스테리아가 LTX의 오픈 웨이트 모델 LTX-2.3을 엔진으로 삼아 영화급 AI 제작을 함께 만들기로 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "阿斯特里亚与\nLTX携手电影AI",
+  "body": "阿斯特里亚将用LTX开源模型LTX-2.3打造电影级AI制作。",
+  "lang": "zh"
  },
  {
   "id": "adobe-cc",
@@ -36950,10 +36924,9 @@
   "date": "2026-06-29",
   "section": "movies",
   "has_full": true,
-  "headline": "어도비 CC 6월 업데이트가\n5개 앱에 AI를 깔았다",
-  "body": "어도비가 라이트룸과 프리미어 등 5개 앱에 사진 추리기부터 로토스코핑까지 AI 기능을 새로 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Adobe CC 6月更新\n为5款应用加入AI",
+  "body": "Adobe为Lightroom、Premiere等5款应用新增从选片到抠像的AI功能。",
+  "lang": "zh"
  },
  {
   "id": "a24-google",
@@ -36966,9 +36939,9 @@
   "date": "2026-06-29",
   "section": "movies",
   "has_full": true,
-  "headline": "A24가 구글 딥마인드와\n손잡은 이유",
-  "body": "A24가 도구를 그냥 건네받기보다 직접 만드는 쪽에 서겠다며 딥마인드와의 연구 협력을 옹호했다.",
-  "lang": "ko",
+  "headline": "Why A24 teamed up\nwith Google DeepMind",
+  "body": "A24 defended a research partnership with DeepMind, saying it would rather help build tools than just receive them.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -36982,10 +36955,9 @@
   "date": "2026-06-29",
   "section": "games",
   "has_full": true,
-  "headline": "클로드·제미나이를\nMCP로 품은 UE6",
-  "body": "에픽은 MCP로 클로드·제미나이를 UE6에 붙여 레벨 조립과 코드 보조를 맡기되 통제권은 개발자에 둔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UE6通过MCP\n融入双AI模型",
+  "body": "Epic用MCP把Claude、Gemini接入UE6，控制权仍归开发者。",
+  "lang": "zh"
  },
  {
   "id": "ue-evangelist",
@@ -36998,9 +36970,9 @@
   "date": "2026-06-29",
   "section": "games",
   "has_full": true,
-  "headline": "12년 몸담은 에픽을\n떠난 레벨 디자인 거장",
-  "body": "레벨 디자인 베테랑 Sjoerd De Jong이 UE6 생성형 AI 국면 속에 12년 만에 에픽을 떠났다.",
-  "lang": "ko",
+  "headline": "Level design legend leaves\nEpic after 12 years",
+  "body": "Level design veteran Sjoerd De Jong left Epic after 12 years amid the UE6 generative AI shift.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37014,10 +36986,9 @@
   "date": "2026-06-29",
   "section": "games",
   "has_full": true,
-  "headline": "스팀 AI 표기를\n무책임하다 비판한 스위니",
-  "body": "팀 스위니는 스팀의 \"made with AI\" 표기가 정말 무책임하며 개발자를 망친다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "斯威尼批评\nSteam的AI标注",
+  "body": "蒂姆·斯威尼称Steam的“AI制作”标注非常不负责任，会毁掉开发者。",
+  "lang": "zh"
  },
  {
   "id": "monster-npc",
@@ -37030,9 +37001,9 @@
   "date": "2026-06-29",
   "section": "games",
   "has_full": true,
-  "headline": "100명 넘는 마을 주민과\n실시간 AI 대화",
-  "body": "몬스터 판타지는 100명가량의 마을 주민과 LLM·TTS로 실시간 자유 대화를 나누게 한다.",
-  "lang": "ko",
+  "headline": "Real-time AI chats with\nover 100 villagers",
+  "body": "Monster Fantasy lets players hold free, real-time conversations with about 100 villagers using an LLM and TTS.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37046,10 +37017,9 @@
   "date": "2026-06-29",
   "section": "design",
   "has_full": true,
-  "headline": "포켓몬, AI 대신\n수작업을 택하다",
-  "body": "포켓몬은 빠르고 싼 AI 대신 아드만의 스톱모션을 골랐고, 이는 손으로 만드는 일에 대한 선언이 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "宝可梦弃AI\n选择手工制作",
+  "body": "宝可梦放弃快捷廉价的AI，选择阿德曼工作室制作定格动画，以此宣告手工创作的价值。",
+  "lang": "zh"
  },
  {
   "id": "krita",
@@ -37078,10 +37048,9 @@
   "date": "2026-06-29",
   "section": "design",
   "has_full": true,
-  "headline": "옵틱스 2026.5,\n어도비 밖으로",
-  "body": "Face ML이 눈·입술·피부를 알아서 마스킹하고, 이제 어피니티와 애플 포토, 캡처원에서도 쓸 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Optics 2026.5\n走出Adobe",
+  "body": "Face ML自动遮罩眼睛、嘴唇与皮肤，现已支持更多应用程序。",
+  "lang": "zh"
  },
  {
   "id": "blender",
@@ -37094,10 +37063,9 @@
   "date": "2026-06-29",
   "section": "design",
   "has_full": true,
-  "headline": "블렌더 손가락\n충돌 정렬 도구",
-  "body": "제말레이트의 애드온이 손가락 본에 충돌 인식을 더해, 물체를 파고들지 않게 손 자세를 잡아 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Blender手指\n碰撞对齐工具",
+  "body": "Gemalate插件为手指骨骼加入碰撞检测，防止手指穿透物体。",
+  "lang": "zh"
  },
  {
   "id": "storytel-genie",
@@ -37110,10 +37078,9 @@
   "date": "2026-06-29",
   "section": "books",
   "has_full": true,
-  "headline": "스토리텔이 AI 비서\n'지니'를 선보인다",
-  "body": "스토리텔이 AI 비서 지니를 내놓아 챕터 요약과 책 대화, 맞춤 추천을 제공한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "故事电台推出\n「精灵」AI助手",
+  "body": "故事电台推出AI助手“精灵”，提供章节摘要、读书对话与个性化推荐。",
+  "lang": "zh"
  },
  {
   "id": "librarian-survey",
@@ -37126,9 +37093,9 @@
   "date": "2026-06-29",
   "section": "books",
   "has_full": true,
-  "headline": "사서들은 AI를 인정하되\n마음을 주지 못한다",
-  "body": "31개국 사서 311명 가운데 약 90%가 AI를 정당한 도구로 보면서도 신뢰와 거버넌스에선 깊이 망설인다.",
-  "lang": "ko",
+  "headline": "Librarians accept AI,\nbut won't give it their trust",
+  "body": "Nearly 90% of 311 librarians in 31 countries call AI legitimate, but trust and governance remain uncertain.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37142,10 +37109,9 @@
   "date": "2026-06-29",
   "section": "books",
   "has_full": true,
-  "headline": "아동 작가·일러스트레이터가\n反AI 캠페인을 열다",
-  "body": "아동 작가와 일러스트레이터들이 생성형 AI에 맞서 '위 아 베터 댄 디스' 캠페인을 시작했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "童书作家插画家\n发起反AI运动",
+  "body": "童书作家与插画师联合发起'我们不止于此'反生成式AI运动。",
+  "lang": "zh"
  },
  {
   "id": "granta",
@@ -37158,10 +37124,9 @@
   "date": "2026-06-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 의혹 무혐의에도\nGranta는 손을 뗀다",
-  "body": "수상작에 AI를 쓰지 않았다는 결론이 나왔지만 Granta는 커먼웰스 재단과의 제휴를 끝낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI疑云洗清后\nGranta仍退出",
+  "body": "获奖作品被认定未用AI,但Granta仍终止与该基金会的合作。",
+  "lang": "zh"
  },
  {
   "id": "cambridge-std",
@@ -37174,10 +37139,9 @@
   "date": "2026-06-29",
   "section": "books",
   "has_full": true,
-  "headline": "연구 콘텐츠의 AI 사용을\n추적하는 표준 만들기",
-  "body": "케임브리지 워크숍이 출처·귀속·사용량 표준을 제안해 출판사가 AI의 연구 활용을 추적하도록 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "研究内容的AI使用\n追踪标准制定",
+  "body": "剑桥工作坊提出来源、归属与使用量标准,助出版商追踪AI在研究中的使用。",
+  "lang": "zh"
  },
  {
   "id": "vibe-coding-plugins",
@@ -37190,10 +37154,9 @@
   "date": "2026-06-27",
   "section": "music",
   "has_full": true,
-  "headline": "프롬프트로 오디오 플러그인을 만드는\n바이브 코딩 도구가 등장했다",
-  "body": "아모프와 플러그인메이커.ai 같은 도구가 자연어 설명만으로 VST·AU 플러그인을 만든다. 복잡한 코딩 없이 프로듀서가 원하는 도구를 직접 찍어내는 작업 방식이 번지고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "靠提示词生成\n音频插件的新工具",
+  "body": "Amorph和Pluginmaker.ai靠自然语言描述生成VST、AU插件。",
+  "lang": "zh"
  },
  {
   "id": "genome-intro-free",
@@ -37206,10 +37169,9 @@
   "date": "2026-06-27",
   "section": "music",
   "has_full": true,
-  "headline": "뉴럴 앰프 캡처를 한곳에서 돌리는\n무료 앰프·이펙트 묶음",
-  "body": "투 노츠가 무료 버전 지놈 인트로를 내놨다. CODEX라는 AI 앰프 재생 엔진으로 Neural Amp Modeller·AIDA-X·Proteus 캡처를 한 작업 공간에서 불러와 연주한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "神经放大器一处运行\n免费音箱效果包",
+  "body": "Two Notes推出免费版Genome Intro,统一调用多种放大器捕捉。",
+  "lang": "zh"
  },
  {
   "id": "apple-music-understanding",
@@ -37222,10 +37184,9 @@
   "date": "2026-06-27",
   "section": "music",
   "has_full": true,
-  "headline": "WWDC에서 공개된 애플의\n온디바이스 음악 분석 프레임워크",
-  "body": "애플이 WWDC 2026에서 음악 이해 프레임워크를 선보였다. 기기 안에서 오디오를 분석해 리듬·키·음량·페이스·구조·악기 활동 여섯 가지를 시간 정보와 함께 뽑아낸다. 음악 앱 개발자가 가져다 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "WWDC上发布\n设备端音乐分析框架",
+  "body": "苹果在WWDC 2026上推出了音乐理解框架,可在设备端分析音频。",
+  "lang": "zh"
  },
  {
   "id": "ai-training-dataset-check",
@@ -37238,10 +37199,9 @@
   "date": "2026-06-27",
   "section": "music",
   "has_full": true,
-  "headline": "내 음악이 AI 학습에 쓰였는지\n무료로 확인하는 도구",
-  "body": "디 애틀랜틱이 만든 무료 검색 도구로 내 곡이 주요 AI 음악 학습 데이터셋에 들어 있는지 찾아본다. 네 개 데이터셋에 수백만 곡이 담겼고, 동의 없이 쓰인 경우가 적지 않다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费查我的歌\n是否用于AI训练",
+  "body": "The Atlantic推出免费工具,查歌曲是否在AI音乐训练数据集中。",
+  "lang": "zh"
  },
  {
   "id": "ai-licensing-letter",
@@ -37254,10 +37214,9 @@
   "date": "2026-06-27",
   "section": "music",
   "has_full": true,
-  "headline": "AI 라이선스 계약, 아티스트 동의 없이\n밀어붙이지 말라는 경고",
-  "body": "전 세계 뮤지션·작곡가·매니저 연합이 음반사와 퍼블리셔에 공개서한을 냈다. AI 기업엔 학습 동의를 요구하면서 정작 창작자에겐 같은 권리를 주지 않는다는 지적이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "警告:未经艺人同意\n别强推AI授权协议",
+  "body": "全球音乐人、词曲作者和经纪人联盟向唱片公司和出版商发出公开信。",
+  "lang": "zh"
  },
  {
   "id": "shanghai-2026-ai",
@@ -37270,10 +37229,9 @@
   "date": "2026-06-27",
   "section": "movies",
   "has_full": true,
-  "headline": "신인 감독이 상하이 금작상을 휩쓸고\nAI가 제작 현장을 바꾼다",
-  "body": "제28회 상하이국제영화제는 신인 감독을 전면에 내세웠다. 미니맥스와 손잡고 워크숍과 쇼케이스로 생성형 AI를 깊숙이 끌어들였고, 한 회사는 AI로 120분 시대극을 7일 만에 찍었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "新人导演横扫上海\nAI改变拍摄现场",
+  "body": "第28届上海国际电影节将新人导演推至台前,AI深度介入制作。",
+  "lang": "zh"
  },
  {
   "id": "reallusion-iclone-personal",
@@ -37286,10 +37244,9 @@
   "date": "2026-06-27",
   "section": "movies",
   "has_full": true,
-  "headline": "아이클론 퍼소널이 영구 무료로 풀리고\nAI 스튜디오도 정식 출시",
-  "body": "리얼루전이 30일 체험판을 없애고 아이클론 퍼소널을 영구 무료로 풀었다. 같은 날 AI 스튜디오도 정식 출시되며 3D 작업과 생성형 AI를 잇는 무료 흐름이 갖춰졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iClone个人版永久免费\nAI工作室正式上线",
+  "body": "Reallusion取消30天试用,iClone个人版永久免费。",
+  "lang": "zh"
  },
  {
   "id": "curious-refuge-ai-partnership",
@@ -37302,9 +37259,9 @@
   "date": "2026-06-27",
   "section": "movies",
   "has_full": true,
-  "headline": "구글이 A24와 손잡고\nAI 영화 제작 도구를 만든다",
-  "body": "큐리어스 리퓨지가 이번 주 AI 영화 소식을 정리했다. 구글이 7,500만 달러를 들여 A24와 스튜디오용 AI 제작 도구를 만들고, 시드댄스 2.0은 네이티브 4K 영상을 내놓는다.",
-  "lang": "ko",
+  "headline": "Google teams up with A24\nto build AI filmmaking tools",
+  "body": "Curious Refuge says Google is spending $75 million with A24 on studio AI tools, as Seedance 2.0 adds native 4K video.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37318,10 +37275,9 @@
   "date": "2026-06-27",
   "section": "movies",
   "has_full": true,
-  "headline": "아네시가 AI 논의를 정면으로 다룬다\nAI4애니메이션 싱크탱크 가동",
-  "body": "아네시 애니메이션 영화제가 하루짜리 싱크탱크 'AI4애니메이션'을 연다. 여기서 모은 논의는 2029년 펴낼 AI 백서의 토대가 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "安纳西直面AI议题\nAI4动画智库启动",
+  "body": "安纳西动画电影节将举办为期一天的智库'AI4动画',为白皮书打基础。",
+  "lang": "zh"
  },
  {
   "id": "annecy-3cs-policy",
@@ -37334,10 +37290,9 @@
   "date": "2026-06-27",
   "section": "movies",
   "has_full": true,
-  "headline": "프랑스 애니메이터들이 아네시에\nAI 방침을 분명히 하라 요구한다",
-  "body": "프랑스 애니메이터 단체가 아네시에 생성형 AI 운영 방침을 분명히 밝히라고 요구했다. 이들은 보상·통제·동의라는 '3C' 원칙을 들어 저작물을 AI 학습에 쓰는 문제를 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "法国动画人呼吁安纳西\n明确AI使用政策",
+  "body": "法国动画人团体要求安纳西明确生成式AI的运营政策,并提出'3C'原则。",
+  "lang": "zh"
  },
  {
   "id": "pubg-ally",
@@ -37350,10 +37305,9 @@
   "date": "2026-06-27",
   "section": "games",
   "has_full": true,
-  "headline": "엔비디아 ACE가 움직이는 AI 동료\n펍지에 2주 베타로 합류",
-  "body": "크래프톤과 엔비디아가 펍지 듀오에 AI 팀원 'PUBG Ally'를 붙이는 베타를 열었다. 기기에서 도는 소형 언어 모델로 말하고 전리품을 줍고 함께 싸운다. 6월 30일까지다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ACE驱动AI伙伴\n加入PUBG两周测试",
+  "body": "Krafton和NVIDIA为PUBG双人模式开放AI队友'PUBG Ally'测试。",
+  "lang": "zh"
  },
  {
   "id": "metahuman-ue58",
@@ -37366,10 +37320,9 @@
   "date": "2026-06-27",
   "section": "games",
   "has_full": true,
-  "headline": "카메라 한 대로 전신과 표정 캡처\n군중까지 채우는 UE5.8 메타휴먼",
-  "body": "언리얼 엔진 5.8 메타휴먼이 카메라 한 대로 찍은 영상에서 얼굴과 몸 연기를 한 번에 따낸다. 메시캐파데 기술을 쓴 마커리스 모션 캡처다. 실험 기능 컬렉션으로는 수천 명 규모 군중도 채운다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "单摄像头捕捉全身表情\nUE5.8填满人群",
+  "body": "MetaHuman动画师用一台摄像机同时捕捉面部与身体表演。",
+  "lang": "zh"
  },
  {
   "id": "general-intuition",
@@ -37382,10 +37335,9 @@
   "date": "2026-06-27",
   "section": "games",
   "has_full": true,
-  "headline": "게임 플레이로 현실의 로봇을\n가르친다는 23억 달러 베팅",
-  "body": "제너럴 인튜이션이 23억 달러 가치로 3억 2천만 달러를 유치했다. 메달에 쌓인 게임 플레이 데이터로 세계 모델을 학습시켜, 게임에서 익힌 공간 추론을 로봇과 현실로 옮기겠다는 구상이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "23亿美元赌\n用游戏教机器人",
+  "body": "General Intuition以23亿美元估值融资3.2亿美元。",
+  "lang": "zh"
  },
  {
   "id": "devs-genai-pushback",
@@ -37398,10 +37350,9 @@
   "date": "2026-06-27",
   "section": "games",
   "has_full": true,
-  "headline": "게임 개발자들이 생성형 AI를\n선뜻 쓰지 않는 이유",
-  "body": "개발자 30여 명을 취재했더니 생성형 AI를 향한 평가는 압도적으로 부정적이었다. 표절과 환경 부담, 줄어드는 신입 자리에 더해, 손으로 만들고 싶은 마음이 거부의 바탕에 있었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏开发者为何\n不愿用生成式AI",
+  "body": "采访了30多名开发者后发现,对生成式AI的评价普遍非常负面。",
+  "lang": "zh"
  },
  {
   "id": "spatialgen-zeus",
@@ -37414,9 +37365,9 @@
   "date": "2026-06-27",
   "section": "design",
   "has_full": true,
-  "headline": "스페이셜젠 제우스, 비전 프로로\n실시간 몰입형 영상을 보낸다",
-  "body": "스페이셜젠이 애플 이머시브 비디오를 실시간으로 받아 인코딩해 내보내는 랙 장비 제우스를 내놨다. 라이브 몰입형 영상을 다루는 디자이너에게는 실시간 작업의 토대가 생긴 셈이다.",
-  "lang": "ko",
+  "headline": "SpatialGen's Zeus Sends\nLive Immersive to Vision Pro",
+  "body": "SpatialGen launched Zeus, a rack unit that receives and encodes Apple Immersive Video in real time for live output.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37429,10 +37380,9 @@
   "date": "2026-06-27",
   "section": "design",
   "has_full": true,
-  "headline": "미리스, 클라우드 GPU 없이\n웹 자동차 컨피규레이터를 구현하다",
-  "body": "미리스가 클라우드 GPU나 픽셀 스트리밍 없이 HDR급 소재 품질을 구현하는 웹XR 자동차 컨피규레이터를 만들었다. 인터랙티브 제품 시각화의 한결 가벼운 길을 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Miris无需云\nGPU打造配置器",
+  "body": "Miris打造出无需云GPU的WebXR汽车配置器,质感媲美HDR。",
+  "lang": "zh"
  },
  {
   "id": "meta-starfire",
@@ -37445,10 +37395,9 @@
   "date": "2026-06-27",
   "section": "design",
   "has_full": true,
-  "headline": "메타, 카일리 제너와 만든\n'스타파이어' 스마트 글래스 공개",
-  "body": "메타가 카일리 제너와 함께 디자인한 스타파이어 스마트 글래스를 선보였다. 핵심 사양은 레이밴 메타 2세대와 같지만 외형을 한껏 다듬어, 프리미엄 스마트 글래스 디자인이 향하는 방향을 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta与凯莉\n珍娜推出Starfire",
+  "body": "Meta与Kylie Jenner合作推出Starfire智能眼镜。",
+  "lang": "zh"
  },
  {
   "id": "dataland-museum",
@@ -37461,9 +37410,9 @@
   "date": "2026-06-27",
   "section": "design",
   "has_full": true,
-  "headline": "세계 첫 AI 미술관 데이터랜드,\n무엇이 담겼나",
-  "body": "레픽 아나돌과 엡순 에르킬리치가 세운 데이터랜드가 다섯 개 전시실 규모로 문을 열었다. 생성형 AI가 실시간으로 빚어내는 '살아 있는' 작품으로, AI를 매체로 다루는 새 기준점을 제시한다.",
-  "lang": "ko",
+  "headline": "World's First AI Museum\nDataland: What's Inside",
+  "body": "Dataland, built by Refik Anadol and Efsun Erkiliç, opened with five galleries of generative AI art created live.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37477,10 +37426,9 @@
   "date": "2026-06-27",
   "section": "design",
   "has_full": true,
-  "headline": "AI는 창작자 사이에\n새로운 격차를 만들고 있나",
-  "body": "창작자의 52%가 이미 업무에 생성형 AI를 쓰지만, 도입은 위험을 감당할 여력이 있는 쪽으로 쏠린다. 의견 차이를 넘어 접근성과 지식의 격차가 벌어진다는 진단이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI是否在\n创作者间制造分裂",
+  "body": "52%的创作者已在工作中使用生成式AI,但采用情况并不均衡。",
+  "lang": "zh"
  },
  {
   "id": "publishing-ai-growth",
@@ -37493,10 +37441,9 @@
   "date": "2026-06-27",
   "section": "books",
   "has_full": true,
-  "headline": "AI, 방어 본능 넘어 출판 성장 전략으로",
-  "body": "출판이 AI를 비용 절감 도구로만 보는 사이 다른 산업은 이미 앞서 나갔다. 하비에르 셀라야는 번역과 유통, 권리까지 아우르는 성장 전략으로 AI를 다시 봐야 한다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI超越防御\n成出版增长策略",
+  "body": "当出版界还把AI只当作降本工具时,其他行业早已抢先一步布局。",
+  "lang": "zh"
  },
  {
   "id": "kobo-ai-rejections",
@@ -37509,10 +37456,9 @@
   "date": "2026-06-27",
   "section": "books",
   "has_full": true,
-  "headline": "코보, AI 책 범람에 투고 45% 반려",
-  "body": "라쿠텐 코보가 지난해 자가출판 플랫폼에 들어온 투고의 45%를 반려했다. AI로 만든 책이 한꺼번에 몰리면서 코보 라이팅 라이프의 심사를 강화한 결과다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Kobo因AI书籍\n泛滥拒稿45%",
+  "body": "乐天Kobo去年因AI书籍大量涌入,拒绝了45%的自助出版投稿。",
+  "lang": "zh"
  },
  {
   "id": "google-play-book-insights",
@@ -37525,10 +37471,9 @@
   "date": "2026-06-27",
   "section": "books",
   "has_full": true,
-  "headline": "구글, 책 속에 AI 읽기 도우미를 넣다",
-  "body": "구글 플레이 북스가 제미나이로 만든 읽기 도우미 '북 인사이트'를 내놨다. 읽은 데까지 요약해 주고 읽는 중 질문도 받지만, 구글도 생성형 AI가 실수할 수 있다고 인정한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌为图书\n加入AI阅读助手",
+  "body": "谷歌推出由Gemini驱动的阅读助手Book Insights。",
+  "lang": "zh"
  },
  {
   "id": "commonwealth-ai-cleared",
@@ -37541,10 +37486,9 @@
   "date": "2026-06-27",
   "section": "books",
   "has_full": true,
-  "headline": "AI 의혹 벗은 커먼웰스 단편상 수상작",
-  "body": "커먼웰스 재단 단편소설상 수상작의 AI 사용 의혹이 한 달 조사 끝에 풀렸다. 수상자들이 초고와 시간 기록, 메모로 창작 과정을 입증했다. 다만 그란타는 협업을 끝내고 수상작을 싣지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "洗清AI嫌疑\n英联邦短篇奖",
+  "body": "英联邦短篇小说奖获奖作品历经一个月调查,最终洗清了AI代写嫌疑。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-spark",
@@ -37557,10 +37501,9 @@
   "date": "2026-06-26",
   "section": "music",
   "has_full": true,
-  "headline": "수노, 인디 창작자\n위한 인큐베이터",
-  "body": "수노가 독립 아티스트 지원 프로그램 스파크를 공개했다. 수천에서 수만 달러의 보조금과 마케팅, 작곡 캠프를 제공하며 창작자가 저작권과 권리를 그대로 갖는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno推出\n独立音乐人孵化器",
+  "body": "Suno推出独立艺人扶持计划Spark,提供资助与营销。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-songwriting",
@@ -37573,10 +37516,9 @@
   "date": "2026-06-26",
   "section": "music",
   "has_full": true,
-  "headline": "수노로 더 나은\n곡을 써내는 법",
-  "body": "프로듀서가 수노를 작곡 파트너로 쓰는 실전 과정을 보여준다. AI 초안을 받아 멜로디와 가사를 다듬고, 사람의 손으로 완성도를 끌어올린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用Suno写出\n更好的歌曲",
+  "body": "制作人展示如何把Suno当作曲搭档,打磨旋律与歌词,提升完成度。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-watchdog",
@@ -37589,10 +37531,9 @@
   "date": "2026-06-26",
   "section": "music",
   "has_full": false,
-  "headline": "AI가 학습한 음악\n이제 직접 찾아본다",
-  "body": "디 애틀랜틱이 수노·유디오·리리아 학습에 쓰인 2,100만 곡을 검색하는 무료 도구를 공개했다. 이제 음악가는 자기 곡이 AI 학습 데이터에 포함됐는지 직접 확인할 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI学习过的音乐\n现在可以查了",
+  "body": "大西洋月刊公开免费工具,可查2100万首AI训练曲目来源。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-music-detection",
@@ -37605,10 +37546,9 @@
   "date": "2026-06-26",
   "section": "music",
   "has_full": true,
-  "headline": "AI 음악을 가려내는\n모듈레이트 API",
-  "body": "모듈레이트가 오디오에서 AI로 만든 보컬과 연주를 식별하는 탐지 API를 선보였다. 단순 예·아니오가 아니라 구간별로 판정해 플랫폼이 합성 음원을 걸러내도록 돕는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "甄别AI音乐\nModulate的API",
+  "body": "Modulate推出检测API,逐段识别AI生成的人声与伴奏。",
+  "lang": "zh"
  },
  {
   "id": "movies-openart-director",
@@ -37620,10 +37560,9 @@
   "date": "2026-06-26",
   "section": "movies",
   "has_full": true,
-  "headline": "오픈아트 디렉터,\n프롬프트 없이 5분 영화",
-  "body": "오픈아트가 대화형으로 최대 5분 영화를 만드는 디렉터를 공개했다. 스토리보드부터 후반까지 AI가 처리하고, 창작자는 감정과 의도만 전한다. 전 구글 엔지니어들이 만든 도구다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OpenArt新品\n无提示词5分钟电影",
+  "body": "OpenArt推出对话式工具Director，可制作最长5分钟的电影。",
+  "lang": "zh"
  },
  {
   "id": "movies-google-a24",
@@ -37636,10 +37575,9 @@
   "date": "2026-06-26",
   "section": "movies",
   "has_full": true,
-  "headline": "구글, A24에 7,500만 달러\n영화 AI 도구 공동 개발",
-  "body": "구글이 인디 명가 A24에 7,500만 달러를 투자해 딥마인드와 영화 제작 도구를 함께 만든다. AI 스토리보드 등 창작 통제권을 지키는 워크플로가 목표다. 콘텐츠나 데이터 학습권은 넘기지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌投A24\n7500万美元",
+  "body": "谷歌向A24投资7500万美元，与DeepMind共同开发电影AI工具。",
+  "lang": "zh"
  },
  {
   "id": "movies-dreams-of-violets",
@@ -37668,10 +37606,9 @@
   "date": "2026-06-26",
   "section": "movies",
   "has_full": true,
-  "headline": "A24·구글 AI 제휴에\n팬덤이 등을 돌렸다",
-  "body": "A24와 구글의 AI 제휴 발표 직후 팬들이 등을 돌렸다. 무관한 신작 예고편마다 인간 창작을 외면했다는 비판이 쏟아졌다. AI 도구 도입이 브랜드 신뢰를 흔든 사례다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A24与谷歌\nAI联姻遭粉丝反噬",
+  "body": "A24与谷歌宣布AI合作后，粉丝随即大举倒戈、表达强烈不满。",
+  "lang": "zh"
  },
  {
   "id": "games-vampire-fortnite",
@@ -37684,9 +37621,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": true,
-  "headline": "뱀서 개발사, 에픽 생성 AI에\n포트나이트 협업 재검토",
-  "body": "뱀파이어 서바이버즈 개발사 폰클이 포트나이트 협업을 재검토한다. 에픽이 UE6 생성 AI로 에셋·캐릭터를 만든다고 밝히자 협업 진행 여부를 다시 따지겠다고 했다.",
-  "lang": "ko",
+  "headline": "Vampire Survivors Studio\nReviews Fortnite Deal Over AI",
+  "body": "Poncle is reviewing its Fortnite deal after Epic said UE6's generative AI creates game assets and characters.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37715,9 +37652,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": false,
-  "headline": "팀 스위니 \"언리얼 AI는\nAI 슬롭 위험도, 진짜 창작 가속기\"",
-  "body": "에픽 CEO 팀 스위니가 언리얼 엔진 AI 도구의 AI 슬롭 위험을 인정했다. 다만 MCP로 클로드·제미나이를 붙이는 방식은 프로 창작자에겐 가속기라고 강조했다.",
-  "lang": "ko",
+  "headline": "Sweeney: \"Unreal AI Risks\nAI Slop, But Real Accelerator\"",
+  "body": "Epic CEO Tim Sweeney admitted Unreal's AI tools risk AI slop, but called MCP links to Claude and Gemini an accelerator.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37731,10 +37668,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": true,
-  "headline": "UE6 AI 발표에 개발자\n기대와 회의론 동시 폭발",
-  "body": "스테이트 오브 언리얼의 UE6 발표에 개발자 반응이 엇갈렸다. MCP·AI 워크플로엔 기대가 컸지만, 블루프린트 폐지와 창작의 즐거움 훼손을 우려하는 회의론도 거셌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UE6 AI发布\n开发者期待又质疑",
+  "body": "State of Unreal公布UE6后，开发者反应不一。",
+  "lang": "zh"
  },
  {
   "id": "games-ue6-copyright",
@@ -37746,10 +37682,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": false,
-  "headline": "게임 변호사 경고 \"UE6 AI로\n만든 결과물, 저작권 못 가진다\"",
-  "body": "게임 전문 변호사가 언리얼 엔진 6 내장 AI 도구의 법적 위험을 짚었다. AI 생성물은 인간 저작자가 없어 권리 귀속이 어렵고, 퍼블리셔 계약 위반 소지도 있다고 지적했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏律师警告\nUE6 AI成果无版权",
+  "body": "游戏行业专业律师指出，UE6内置AI工具存在明显法律风险。",
+  "lang": "zh"
  },
  {
   "id": "games-godot-ai",
@@ -37778,10 +37713,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": true,
-  "headline": "EA \"AI가 마찰 줄여\n사내 창작성 끌어올렸다\"",
-  "body": "EA 스튜디오 책임자 로라 미엘이 AI가 사내 창작을 끌어올렸다고 말했다. 파이프라인 마찰과 잡일을 줄여 프로토타이핑이 빨라졌다는 것이다. 다만 직원들은 감원 정당화 우려로 온도차를 보인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EA「AI减摩擦\n提升内部创造力」",
+  "body": "EA工作室负责人劳拉·米尔表示，AI提升了公司内部的创造力。",
+  "lang": "zh"
  },
  {
   "id": "games-ai-renaissance",
@@ -37793,9 +37727,9 @@
   "date": "2026-06-26",
   "section": "games",
   "has_full": false,
-  "headline": "베테랑 개발자 \"재미 찾기는\n20년간 사람 몫, AI는 르네상스 촉매\"",
-  "body": "베테랑 개발자 리치 보겔은 AI가 재미를 만드는 핵심 창작은 20년간 대체 못한다고 봤다. 다만 셰이더·텍스처·QA·현지화 파이프라인에선 소규모 팀의 제작 속도를 끌어올린다고 전했다.",
-  "lang": "ko",
+  "headline": "Veteran Dev: \"Fun Stays Human\n20 Yrs, AI's Renaissance Spark\"",
+  "body": "Veteran developer Rich Vogel said AI won't replace core creativity for 20 years, but speeds up shader and QA pipelines.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37825,9 +37759,9 @@
   "date": "2026-06-26",
   "section": "design",
   "has_full": true,
-  "headline": "Claude Tag, 슬랙에 상주하는\n상시 AI 팀메이트",
-  "body": "Anthropic이 Claude Tag를 공개했다. 슬랙 채널을 지켜보며 회사 맥락을 학습하고, @멘션으로 인사이트와 업무를 맡길 수 있는 상시 AI 팀메이트로 엔터프라이즈·팀 베타로 풀린다.",
-  "lang": "ko",
+  "headline": "Claude Tag Lives in Slack\nas an Always-On AI Teammate",
+  "body": "Anthropic launched Claude Tag, an always-on AI teammate in Slack, now in beta for Enterprise and Team customers.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37841,10 +37775,9 @@
   "date": "2026-06-26",
   "section": "design",
   "has_full": true,
-  "headline": "Adobe가 Topaz Labs\n인수, Firefly에 통합",
-  "body": "Adobe가 AI 이미지·영상 화질 개선 툴 메이커 Topaz Labs를 인수한다. 업스케일·인핸스 모델을 Firefly 앱과 이미지·영상 편집 제품군에 통합할 계획이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Adobe收购Topaz\n并入Firefly",
+  "body": "Adobe将收购AI画质增强工具商Topaz Labs，并将其模型并入Firefly。",
+  "lang": "zh"
  },
  {
   "id": "books-wiley-ai-revenue",
@@ -37856,9 +37789,9 @@
   "date": "2026-06-26",
   "section": "books",
   "has_full": true,
-  "headline": "와일리, AI 라이선싱으로\n4900만 달러를 벌다",
-  "body": "와일리가 2026 회계연도에 AI 라이선싱으로 4900만 달러를 거뒀다. IQVIA와 오픈에비던스 등과의 계약이 성장을 이끌었다. AI 학습 데이터가 출판사의 새 수익원으로 자리잡았다.",
-  "lang": "ko",
+  "headline": "Wiley earns $49 million\nfrom AI licensing",
+  "body": "Wiley earned $49 million from AI licensing in fiscal 2026, led by deals with IQVIA and OpenEvidence.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37872,10 +37805,9 @@
   "date": "2026-06-26",
   "section": "books",
   "has_full": true,
-  "headline": "영국 출판사 250곳, AI 학습\n집단 라이선싱에 합류",
-  "body": "영국 출판사 250여 곳이 PLS의 집단 AI 라이선싱 제도에 참여했다. 런던 도서전에서 출범한 이 제도는 AI 학습에 쓰인 저작물의 보상 통로를 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英国250家出版社\n加入AI集体授权",
+  "body": "英国250多家出版社加入PLS的AI集体授权计划，该计划诞生于伦敦书展。",
+  "lang": "zh"
  },
  {
   "id": "books-caine-odyssey",
@@ -37887,10 +37819,9 @@
   "date": "2026-06-26",
   "section": "books",
   "has_full": true,
-  "headline": "마이클 케인, AI 목소리로\n오디세이 오디오북 낭독",
-  "body": "배우 마이클 케인이 자신의 음성을 일레븐랩스에 라이선스했다. 호메로스 오디세이 각색본을 AI 복제 목소리로 낭독한다. 유명 배우가 합성 음성 낭독을 허용한 주목할 사례다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "迈克尔·凯恩，\nAI声朗读奥德赛",
+  "body": "演员迈克尔·凯恩将自己的声音授权给了ElevenLabs。",
+  "lang": "zh"
  },
  {
   "id": "books-beijing-fair",
@@ -37902,9 +37833,9 @@
   "date": "2026-06-26",
   "section": "books",
   "has_full": true,
-  "headline": "베이징 도서전, 편집 전 과정에\nAI가 스며들다",
-  "body": "베이징 국제도서전이 판권 거래에서 IP 라이선싱으로 무게추를 옮겼다. 주제 선정부터 인쇄까지 AI가 스며들었다. 중신출판은 AI가 만든 15~20분 책 요약을 선보였다.",
-  "lang": "ko",
+  "headline": "At the Beijing Book Fair,\nAI runs through editing",
+  "body": "The Beijing International Book Fair shifted focus from rights deals to IP licensing, with AI woven throughout editing.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -37918,10 +37849,9 @@
   "date": "2026-06-26",
   "section": "books",
   "has_full": true,
-  "headline": "출판업계 두 번째 AI 실태\n조사가 닻을 올리다",
-  "body": "BISG와 북넷캐나다가 두 번째 출판업계 AI 설문을 시작했다. 북미 출판 전문가와 사서를 상대로 AI 활용 실태와 우려를 묻는다. 설문은 7월 17일까지 진행된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版业第二次\nAI现状调查启动",
+  "body": "BISG与北网加拿大启动第二次出版业AI调查，征集北美从业者意见。",
+  "lang": "zh"
  },
  {
   "id": "houdini22",
@@ -37934,10 +37864,9 @@
   "date": "2026-06-25",
   "section": "design",
   "has_full": true,
-  "headline": "Houdini 22, 가우시안 스플랫과\nML 리깅을 절차적으로",
-  "body": "SideFX가 네이티브 3D 가우시안 스플랫과 제어 가능한 ML 파이프라인을 공개했다. KineFX/APEX 캐릭터 리깅과 애니메이션이 더 절차적으로 묶이며 크리처 워크플로를 자동화로 끌어온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Houdini 22，\n高斯泼溅+ML程序化",
+  "body": "SideFX推出原生3D高斯泼溅与可控ML管线，强化角色程序化绑定。",
+  "lang": "zh"
  },
  {
   "id": "config-2026-recap",
@@ -37949,10 +37878,9 @@
   "date": "2026-06-25",
   "section": "design",
   "has_full": true,
-  "headline": "Config 2026, 모션과 코드 레이어가 캔버스 안으로 들어왔다",
-  "body": "피그마 콘피그 2026에서 모션과 코드 레이어가 캔버스 안으로 들어왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Config 2026，\n动效代码层入画布",
+  "body": "Figma在Config 2026上让动效与代码层进入了画布。",
+  "lang": "zh"
  },
  {
   "id": "cloudpaint2",
@@ -37965,10 +37893,9 @@
   "date": "2026-06-25",
   "section": "design",
   "has_full": false,
-  "headline": "Cloud Paint V2, 뷰포트에서\n구름을 직접 칠한다",
-  "body": "블렌더용 Cloud Paint V2가 플랫 페인트 구름 제너레이터와 절차적 에셋 라이브러리를 더했다. 환경·룩데브 아티스트가 뷰포트에서 더 빠르고 아트 디렉션하기 쉽게 스타일라이즈드 구름을 그린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cloud Paint V2\n视口内直接绘云",
+  "body": "Blender版Cloud Paint V2新增平涂云朵生成器与程序化资产库。",
+  "lang": "zh"
  },
  {
   "id": "claude-obsidian",
@@ -37981,10 +37908,9 @@
   "date": "2026-06-25",
   "section": "design",
   "has_full": false,
-  "headline": "Claude Code로 옵시디언에\n두 번째 뇌를 만든다",
-  "body": "Claude Code를 옵시디언 볼트에 연결해 AI가 돕는 세컨드 브레인을 짓는 핸즈온 영상이다. 메모와 리서치, 지식 관리를 AI로 보강하는, 디자이너가 바로 따라 할 수 있는 패턴을 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用Claude Code在\n搭建第二大脑",
+  "body": "用Claude Code连接Obsidian库，打造AI辅助的第二大脑实操视频。",
+  "lang": "zh"
  },
  {
   "id": "ax-shift",
@@ -37997,10 +37923,9 @@
   "date": "2026-06-25",
   "section": "design",
   "has_full": false,
-  "headline": "AI 에이전트가 다시 짜는\n일과 조직의 구조",
-  "body": "AI 에이전트가 인력 구조와 전사 전환을 어떻게 바꾸는지 짚는 대담이다. 툴 하나씩이 아니라 조직 규모로 AI를 도입하는, 디자인 조직을 위한 AX 전환의 틀을 제시한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI智能体重写\n工作与组织结构",
+  "body": "AI智能体正在重塑人力结构与企业转型，为设计组织提供规模化AX路径。",
+  "lang": "zh"
  },
  {
   "id": "patch-the-planet",
@@ -38013,10 +37938,9 @@
   "date": "2026-06-24",
   "section": "design",
   "has_full": false,
-  "headline": "OpenAI, 오픈소스 버그를\nAI로 잡는 프로젝트",
-  "body": "OpenAI가 Trail of Bits와 함께 'Patch the Planet'을 시작했다. AI 도구로 오픈소스의 보안 취약점을 찾아 메인테이너의 수정을 돕는다. 디자이너가 기대는 도구 생태계의 바닥이 단단해진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OpenAI的OSS漏洞\n交给AI来修复",
+  "body": "OpenAI与Trail of Bits合作，用AI查找开源安全漏洞并协助维护者修复。",
+  "lang": "zh"
  },
  {
   "id": "loopy-ai",
@@ -38029,10 +37953,9 @@
   "date": "2026-06-24",
   "section": "design",
   "has_full": false,
-  "headline": "루프를 도는 AI,\n워크플로의 전제를 흔든다",
-  "body": "재귀적이고 자기참조적인 에이전트 동작이 늘고 있다. 제품과 워크플로를 거대 모델 위에 어떻게 쌓을지 그 방식이 다시 짜인다. 한 번 출력으로 끝나던 전제부터 바뀐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "在循环的AI\n搅动工作流前提",
+  "body": "递归自指的智能体行为增多，正在重塑AI工作流的底层假设。",
+  "lang": "zh"
  },
  {
   "id": "claude-design-vercel",
@@ -38045,9 +37968,9 @@
   "date": "2026-06-24",
   "section": "design",
   "has_full": false,
-  "headline": "Claude Design에서\n바로 Vercel로 배포한다",
-  "body": "Vercel이 Claude Design의 전송 대상에 추가됐다. 디자인을 마치면 캔버스를 떠나지 않고 그대로 보내 라이브 URL을 돌려받는다. 디자인-코드-배포 루프가 한자리에서 닫힌다.",
-  "lang": "ko",
+  "headline": "From Claude Design,\ndeploy straight to Vercel",
+  "body": "Vercel is now a deployment target in Claude Design, returning a live URL without leaving the canvas.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -38077,9 +38000,9 @@
   "date": "2026-06-24",
   "section": "design",
   "has_full": false,
-  "headline": "알리바바 영상 모델,\n글로벌 2위로 올라서다",
-  "body": "알리바바의 HappyHorse가 생성 영상 순위 2위에 올랐다. OpenAI의 Sora가 정리되고 ByteDance의 Seedance가 주춤한 사이 판도가 바뀌었다. 어떤 모델에 작업을 걸지 다시 가늠해야 한다.",
-  "lang": "ko",
+  "headline": "Alibaba's video model\nrises to No. 2 globally",
+  "body": "Alibaba's HappyHorse hit No. 2 in video generation rankings as OpenAI's Sora cooled and ByteDance's Seedance stalled.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -38093,9 +38016,9 @@
   "date": "2026-06-23",
   "section": "design",
   "has_full": false,
-  "headline": "Unity 6.5, 렌더 노이즈 제거를\nAI 방식으로 교체하다",
-  "body": "Unity 6.5가 OptiX 디노이징을 하드웨어에 구애받지 않는 OIDN AI 방식으로 바꿨다. Shader와 VFX Graph도 함께 손봤고, 기존 빌트인 렌더 파이프라인은 단계적으로 정리된다.",
-  "lang": "ko",
+  "headline": "Unity 6.5 swaps render\ndenoising for an AI method",
+  "body": "Unity 6.5 replaced OptiX denoising with OIDN, a hardware-agnostic AI method, also updating Shader and VFX Graph.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -38109,10 +38032,9 @@
   "date": "2026-06-23",
   "section": "design",
   "has_full": false,
-  "headline": "ChatGPT 안에\n게티 라이선스 이미지가 들어온다",
-  "body": "OpenAI가 게티이미지와 다년 계약을 맺고 라이선스 비주얼을 ChatGPT와 검색에 직접 노출한다. 생성 작업 흐름 안에서 이미지를 찾고 권리를 다루는 방식이 달라진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ChatGPT将\n接入Getty授权图片",
+  "body": "OpenAI与Getty Images签订多年协议,将授权图片直接接入ChatGPT和搜索。",
+  "lang": "zh"
  },
  {
   "id": "ios27-ai",
@@ -38125,10 +38047,9 @@
   "date": "2026-06-23",
   "section": "design",
   "has_full": false,
-  "headline": "iOS 27, 시리 너머의\n온디바이스 AI가 온다",
-  "body": "iOS 27에 제미나이 기반 시리와 비주얼 인텔리전스 등 온디바이스 AI 기능이 들어온다. 디자이너가 프로토타이핑하는 모바일 인터랙션의 전제가 바뀐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iOS 27超越Siri\n迎来端侧AI",
+  "body": "iOS 27将引入基于Gemini的Siri等端侧AI功能。",
+  "lang": "zh"
  },
  {
   "id": "deepmind-a24",
@@ -38141,10 +38062,9 @@
   "date": "2026-06-23",
   "section": "design",
   "has_full": false,
-  "headline": "딥마인드가 A24와\nAI 영화 도구를 만든다",
-  "body": "구글 딥마인드가 영화사 A24에 7,500만 달러를 투자해 AI 영화 제작 도구를 함께 개발한다. 첫 적용은 감독을 위한 스토리보드 자동 생성으로, 콘셉트와 비주얼 작업의 출발점을 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DeepMind携手A24\n打造AI电影工具",
+  "body": "Google DeepMind向电影公司A24投资7500万美元,共同开发AI电影制作工具。",
+  "lang": "zh"
  },
  {
   "id": "claude-id",
@@ -38157,10 +38077,9 @@
   "date": "2026-06-23",
   "section": "design",
   "has_full": false,
-  "headline": "Claude가 이제\n신원 확인을 요구할 수 있다",
-  "body": "Anthropic이 일부 Claude 사용에 신원 인증을 도입한다. 규제가 있는 디자인과 프로덕트 워크플로에서 팀이 이 어시스턴트를 도입하는 방식에 영향을 주는 거버넌스 변화다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Claude现在\n可要求验证身份",
+  "body": "Anthropic为部分Claude使用引入身份验证机制。",
+  "lang": "zh"
  },
  {
   "id": "release-notes",
@@ -38171,10 +38090,9 @@
   "date": "2026-06-22",
   "section": "design",
   "has_full": true,
-  "headline": "피그마 디자인 에이전트가 이제 웹을 검색한다",
-  "body": "피그마 디자인 에이전트가 이제 웹을 검색해 자료를 작업에 끌어온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma设计智能体\n现已支持网页搜索",
+  "body": "Figma设计智能体现已能搜索网页,把资料直接带入设计工作。",
+  "lang": "zh"
  },
  {
   "id": "anthropics-design-assistant-now-work",
@@ -38201,10 +38119,9 @@
   "date": "2026-06-22",
   "section": "design",
   "has_full": true,
-  "headline": "Firefly 어시스턴트가 프리미어·일러스트·인디자인으로",
-  "body": "어도비 파이어플라이 어시스턴트가 프리미어와 일러스트, 인디자인까지 넓혀진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Firefly助手\n进驻Pr·Ai·Id",
+  "body": "Adobe的Firefly助手现已扩展到Pr、Ai和Id。",
+  "lang": "zh"
  },
  {
   "id": "4535a14d-ea20-4047-9b2d-166397850c7c",
@@ -38215,10 +38132,9 @@
   "date": "2026-06-22",
   "section": "design",
   "has_full": true,
-  "headline": "프로토타입과 코드를 오가는 양방향 핸드오프",
-  "body": "프로토타입과 코드를 양방향으로 오가는 핸드오프가 새로 생겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "原型与代码\n双向交接",
+  "body": "原型与代码之间,如今出现了一种可以双向往来的全新交接方式。",
+  "lang": "zh"
  },
  {
   "id": "10-things-cg-artists-need-to-know-ab",
@@ -38230,10 +38146,9 @@
   "date": "2026-06-22",
   "section": "design",
   "has_full": true,
-  "headline": "언리얼 엔진 6, MCP로 AI를 끌어안다",
-  "body": "언리얼 엔진 6가 MCP를 받아들여 AI 도구를 엔진 안으로 끌어들인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UE6拥抱AI\n通过MCP实现",
+  "body": "虚幻引擎6正式接入MCP,将AI工具直接引入引擎内部运行。",
+  "lang": "zh"
  },
  {
   "id": "vr",
@@ -38245,10 +38160,9 @@
   "date": "2026-06-21",
   "section": "design",
   "has_full": false,
-  "headline": "물리 목업 없이\n가상으로 결정",
-  "body": "실물 목업 없이 VR로 보고 결정합니다. 비용은 절반 이하로 줄어요.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需实体模型\n虚拟中决定",
+  "body": "不需要制作实体模型,通过VR查看并直接决定,成本可降至一半以下。",
+  "lang": "zh"
  },
  {
   "id": "tokens",
@@ -38260,10 +38174,9 @@
   "date": "2026-06-21",
   "section": "design",
   "has_full": false,
-  "headline": "OneUI 일관성,\nAI가 지켜본다",
-  "body": "색·폰트 규칙을 한 곳에 모으면, 어긋난 화면을 AI가 알아서 찾아줍니다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OneUI一致性\n由AI来把关",
+  "body": "把颜色和字体规则集中到一处,AI就能自动找出不一致的界面。",
+  "lang": "zh"
  },
  {
   "id": "keyshot",
@@ -38275,10 +38188,9 @@
   "date": "2026-06-21",
   "section": "design",
   "has_full": false,
-  "headline": "밤새던 렌더를\n분 단위로",
-  "body": "고화질 렌더를 기다릴 필요가 없어요. AI가 몇 분 만에, 그 자리에서 고쳐줍니다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "曾需彻夜渲染\n如今分钟完成",
+  "body": "不用再等待高清渲染,AI几分钟内就能在现场直接修改完成。",
+  "lang": "zh"
  },
  {
   "id": "figma",
@@ -38290,10 +38202,9 @@
   "date": "2026-06-21",
   "section": "design",
   "has_full": true,
-  "headline": "웹페이지 캡처가\n피그마 레이어로",
-  "body": "스크린샷을 붙여넣으면 곧바로 수정 가능한 디자인이 됩니다. 시안 첫 단추를 몇 분이면.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "网页截图秒变\nFigma图层",
+  "body": "只要粘贴截图,立即就能变成可编辑的设计,初版几分钟就能完成。",
+  "lang": "zh"
  },
  {
   "id": "cad",
@@ -38305,10 +38216,9 @@
   "date": "2026-06-21",
   "section": "design",
   "has_full": false,
-  "headline": "말로 그리는\n컨셉 3D 형상",
-  "body": "글로 설명하면 3D 형상이 나옵니다. 도면까지 대부분 자동으로 그려져요.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "说话就能画出\n概念3D造型",
+  "body": "用文字描述之后,就能生成对应的3D造型,图纸大部分也会自动完成。",
+  "lang": "zh"
  }
 ];
   window.AX_ARCHIVE_SECTIONS = [
