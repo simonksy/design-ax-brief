@@ -15,6 +15,15 @@ LATIN_MULT = [(r"mil\s+millones", 1e9), (r"millones|millón|million|mn\b|m\b", 1
               (r"billones|billón", 1e12), (r"billion|bn\b|b\b", 1e9), (r"trillion", 1e12),
               (r"thousand|mil\b|k\b", 1e3)]
 
+# A 1- or 2-letter Latin multiplier ABBREVIATION (k/K, m/M, b/B, bn, mn) only applies
+# as a multiplier when the number's integer part is at most 3 digits (< 1000) — "5M",
+# "30.3B", "100k", "$2bn" are magnitudes, but a 4-digit number with a trailing single
+# letter is almost always something else gluing onto it, most commonly a product
+# version string ("MATLAB, Simulink 2026b" — the "b" is a beta/revision suffix, not a
+# billion). Spelled-out multiplier words (thousand, million, billion, millones, …) are
+# unaffected — nobody writes "2026 billion" to mean 2026.
+LATIN_ABBREV = {"k", "m", "b", "mn", "bn"}
+
 # CJK magnitude characters are stacked, not chosen from one at a time: "천만" (lit.
 # "thousand ten-thousand") means (thousand × ten-thousand) = 10,000,000, the normal
 # Korean/Japanese/Chinese way to write $10M-scale numbers — "3천만 달러" is just as
@@ -66,12 +75,42 @@ CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|엔|위안|유로|�
 # optionally as "(N)항") immediately follows the 조/兆 after optional whitespace.
 TRILLION_CHARS = {"조", "兆"}
 _ARTICLE_RE = re.compile(r"\s*(?:\(\d+\)|\d+)?\s*항")
+# A Korean particle that can directly follow "항" as part of an article/clause
+# reference ("3항에 따라", "9401조 (3)항이 정의한") — checking only the FIRST
+# character covers multi-syllable particles too ("에서" starts with "에").
+_PARTICLES = set("에의을를은는이가과와")
+
+
+def _is_hangul(ch):
+    return bool(ch) and "가" <= ch <= "힣"
+
+
+def _is_article_marker(rest):
+    """True iff `rest` (the text right after a 조/兆) opens with an article/clause
+    reference ("항" / "(N)항") that is actually acting as one — i.e. "항" is NOT
+    immediately followed by another Hangul syllable (meaning it's the end of a
+    word, punctuation, or end of text), or that next syllable is a particle. This
+    stops a word that merely STARTS with "항" ("항공산업" = aviation industry) from
+    being misread as an article marker: numbers("4조 항공산업에 투자") must keep the
+    4e12, since "항" there is immediately followed by "공", neither absent nor a
+    particle."""
+    m = _ARTICLE_RE.match(rest)
+    if not m:
+        return False
+    nxt = rest[m.end(): m.end() + 1]
+    return not _is_hangul(nxt) or nxt in _PARTICLES
 
 
 def _trillion_valid(text, start, unit_end):
+    # "제" counts as the article marker ("제4조") only when IT is itself at a word
+    # boundary — whitespace, punctuation, or start of text right before it — so a
+    # word that merely ENDS in "제" ("경제4조" = "economy" + "4조") doesn't trigger
+    # it: numbers("경제4조 원 규모") must keep the 4e12.
     if start >= 1 and text[start - 1] == "제":
-        return False
-    return not _ARTICLE_RE.match(text[unit_end:])
+        prev2 = text[start - 2] if start >= 2 else ""
+        if not prev2.isalnum():
+            return False
+    return not _is_article_marker(text[unit_end:])
 
 
 def _latin(ch):
@@ -142,6 +181,11 @@ def _scan(text):
         # letter could turn into a mere suffix.
         if unit and mult != 1 and not is_cjk and _latin(text[m.end(): m.end() + 1]):
             mult, is_cjk = 1, False
+        # A 1-/2-letter Latin abbreviation (k/m/b/mn/bn) only multiplies a number
+        # whose integer part is at most 3 digits — "2026b" (a version string) stays
+        # 2026, not 2026 billion. Spelled-out words are untouched by this.
+        if unit and mult != 1 and not is_cjk and unit.lower() in LATIN_ABBREV and v >= 1000:
+            mult, is_cjk = 1, False
         # 조/兆 alone is often an "Article" marker, not the trillion multiplier —
         # see _trillion_valid. (A 조/兆 stacked with other CJK magnitude characters,
         # e.g. "천조", is unambiguous and left alone.)
@@ -156,11 +200,30 @@ def _scan(text):
         term = v_i * mult_i
         chain_mult, chain_cjk, j = mult_i, cjk_i, i
         while chain_cjk and chain_mult > 1 and j + 1 < n:
-            s2, _e2, v2, _u2, mult2, cjk2 = matches[j + 1]
+            s2, e2, v2, u2, mult2, cjk2 = matches[j + 1]
             gap = text[matches[j][1]: s2]
             if cjk2 and 1 < mult2 < chain_mult and gap.strip() == "":
                 term += v2 * mult2
                 chain_mult, chain_cjk = mult2, cjk2
+                j += 1
+            elif (not cjk2 and mult2 == 1 and not u2 and v2 < chain_mult
+                  and gap in ("", " ")
+                  and (e2 >= len(text) or not (text[e2].isdigit() or text[e2].isspace()))):
+                # A bare (unitless) number right after a CJK magnitude group, with at
+                # most one space between them, is read as CONTINUING that group's
+                # count rather than a separate figure — Korean/Japanese commonly
+                # write a number as 만-group + remainder instead of a single Arabic
+                # numeral: "약 3만 5000부" = "about 35,000 copies", "1만1,138개" =
+                # "11,138 items" (the GROUPED comma form "1,138" is itself a single
+                # bare match here). Require the remainder to be immediately followed
+                # by a non-digit, non-whitespace counter (or end of text) — e.g. "부",
+                # "개", "명" fused directly on — rather than trying to resolve the
+                # genuinely ambiguous case of a *separate* number later in the same
+                # sentence; a particle-joined list like "3만 명과 5000명" never
+                # reaches here anyway, since its gap is "명과" (non-empty, not a
+                # single space) and breaks the chain below.
+                term += v2
+                chain_mult, chain_cjk = 1, False
                 j += 1
             else:
                 break

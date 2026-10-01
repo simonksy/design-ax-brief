@@ -185,4 +185,74 @@ assert numbers("3兆円") == {3e12}
 assert numbers("1兆2000億円") == {1.2e12}
 assert numbers("10조원") == {1e13}
 
+# Fix round 6: a 1-/2-letter Latin multiplier abbreviation (k/m/b/mn/bn) only
+# multiplies a number whose integer part is at most 3 digits — "2026b" is a version
+# string (MATLAB/Simulink releases are named "20XXa"/"20XXb"), not "2026 billion".
+# Spelled-out multiplier words are unaffected.
+assert numbers("Simulink 2026b Add") == {2026.0}
+assert numbers("Simulink 2026b\nnext") == {2026.0}
+assert numbers("5M users") == {5e6}
+assert numbers("$30.3B deal") == {3.03e10}
+assert numbers("100k downloads") == {1e5}
+assert numbers("$2bn") == {2e9}
+assert numbers("1500M") == {1500.0}
+src_ver = {"headline": "AI 소식\n시뮬링크 2026b에 AI",
+           "body": "시뮬링크 2026b에 새로운 AI 기능이 추가됐다는 소식이 전해졌다.",
+           "full": {"blocks": []}}
+tgt_ver = {"headline": "AI news\nSimulink 2026b Adds AI",
+           "body": "The new release, Simulink 2026b, adds AI features to the simulation platform.",
+           "full": {"blocks": []}}
+assert check(src_ver, tgt_ver, "en") == [], check(src_ver, tgt_ver, "en")
+
+# Fix round 6 addendum: two pre-existing false negatives in _trillion_valid.
+# (1) "항" only marks an article/clause when it's NOT immediately followed by
+# another Hangul syllable, or that syllable is a particle (에/의/을/를/은/는/이/가/
+# 과/와/에서…) — a word that merely STARTS with "항" ("항공산업" = aviation
+# industry) is not an article marker.
+assert numbers("4조 항공산업에 투자") == {4e12}
+assert numbers("15편 9401조 (3)항이 정의한") == {9401.0}
+# (2) "제" only marks the article prefix ("제4조") when IT is at a word boundary —
+# a word that merely ENDS in "제" ("경제" = economy) doesn't trigger it.
+assert numbers("경제4조 원 규모") == {4e12}
+assert numbers("제4조에 따라") == set()
+assert numbers("4조 3항에 따라") == set()
+
+# Fix round 6 addendum 2: a bare (unitless) number right after a CJK magnitude
+# group, separated by at most one space, continues that group's count instead of
+# being a second, separate figure — Korean/Japanese commonly write a number as
+# magnitude-group + remainder rather than one Arabic numeral: "약 3만 5000부" is
+# "about 35,000 copies", not "30,000 and 5,000". The chain also still works for
+# multi-group numbers ("1억 2000만 원").
+assert numbers("약 3만 5000부") == {35000.0}
+assert numbers("1억 2000만 원") == {120000000.0}
+# A particle- or counter-joined SEPARATE figure must not merge: the gap "명과"
+# between the two numbers is neither empty nor a single space, so the chain breaks
+# and both figures stay distinct. (Documented fallback per the round-6 ruling: a
+# merge also requires the remainder to be immediately followed by a non-digit,
+# non-whitespace counter or the end of text, rather than trying to resolve the
+# fully general case of two particle-joined separate numbers.)
+assert numbers("3만 명과 5000명") == {30000.0, 5000.0}
+src_cnt = {"headline": "약 3만 5000부\n판매 돌파",
+           "body": "출간 이후 약 3만 5000부가 팔렸다는 집계가 나왔다고 밝혔다.",
+           "full": {"blocks": []}}
+tgt_cnt = {"headline": "Book tops\nabout 35,000 copies",
+           "body": "Tallies showed the book has sold about 35,000 copies since its release.",
+           "full": {"blocks": []}}
+assert check(src_cnt, tgt_cnt, "en") == [], check(src_cnt, tgt_cnt, "en")
+
+# Fix round 6 addendum 3: the same compound merge covers the NO-SPACE and
+# comma-separated forms real data actually uses — "1만1,138개" (comma-grouped
+# "1,138" is itself one bare match here) and "3만5000부" glue the remainder
+# directly onto the magnitude group with no space at all (gap == "").
+assert numbers("추론 토큰 1만1,138개") == {11138.0}
+assert numbers("1万1,138個") == {11138.0}
+assert numbers("3만5000부") == {35000.0}
+src_tok = {"headline": "추론 성능\n토큰 1만1,138개 사용",
+           "body": "새 모델은 추론 과정에서 평균 1만1,138개의 토큰을 사용한다는 분석이 나왔다.",
+           "full": {"blocks": []}}
+tgt_tok = {"headline": "Inference uses\n11,138 tokens on avg",
+           "body": "Analysts found that the new model uses an average of 11,138 tokens during inference.",
+           "full": {"blocks": []}}
+assert check(src_tok, tgt_tok, "en") == [], check(src_tok, tgt_tok, "en")
+
 print("translate_check OK")
