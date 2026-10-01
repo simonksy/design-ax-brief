@@ -3015,6 +3015,448 @@
           "x": "Martini se lanzó con un plan gratuito para cineastas independientes, que permite proyectos públicos y el uso de todos los modelos de IA; los planes de pago comienzan en 15 dólares al mes. Algunos modelos de IA generativa requieren créditos aparte. Los detalles completos de los precios aparecen en el sitio web de la plataforma."
         }
       ]
+    },
+    "movies/automask": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8vynHJ0zimA"
+        },
+        {
+          "t": "p",
+          "x": "Magic Mask de Resolve dio origen al más rápido Magnetic Mask de FCP, que finalmente llevó al Object Mask de Premiere. Auto Mask, al menos por ahora, es exclusivo de Final Cut Pro. Y funciona sorprendentemente bien."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es seguimiento. En muchos casos es una mejor respuesta que el seguimiento. En lugar de rastrear un sujeto a lo largo de todo un plano, reconoce en tiempo real, en cada fotograma, a personas, partes de personas, partes de una escena e incluso mascotas. Resiste bien las oclusiones, lo que lo hace útil para la corrección de color selectiva y otras tareas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-first.png",
+          "cap": "In the header of an effect, you choose Auto Mask from the new “person” icon"
+        },
+        {
+          "t": "p",
+          "x": "Hay dos formas de empezar. Para controlar la visibilidad de un clip, se aplica el efecto Auto Mask de Masks and Keying directamente sobre el clip; para vincular un efecto o una corrección de color a un área concreta, se usa el botón Auto Mask en la cabecera del efecto. Las máscaras disponibles son 17: persona, piel, cabello, labios, dientes, cejas, ropa, cielo, vegetación, primer plano y fondo, y perros y gatos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-all-17.png",
+          "cap": "It’s not easy to find or make an image with all 17 masks, but if you can assemble some pets, a person with hair and a beard with their eyes and mouth open, near some plants and in front of some sky, you’ll get there"
+        },
+        {
+          "t": "p",
+          "x": "Cada máscara se puede sumar, restar o intersecar con otras, por ejemplo para aislar solo a los animales que no son gatos dentro del primer plano. Se refinan con Shrink/Expand, Erode y Blur, y al vincularlas a una corrección de color, el interruptor Inside/Outside permite alternar entre los dos lados de la máscara. De vez en cuando el sujeto parpadea porque la forma no se capta bien en todos los fotogramas. Los labios vistos de perfil a veces se pasan por alto, y en un sujeto con auriculares de diadema el hueco entre la cabeza y los auriculares aparece y desaparece. Aun así, es fiable y rápido en la mayoría de los planos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/twins.jpg",
+          "cap": "Color changes often work well — can you spot which is the original?"
+        },
+        {
+          "t": "p",
+          "x": "El uso más obvio y a la vez más práctico es corregir el color de una parte de una persona. Si el color del lápiz de labios no convence en pantalla, se añade la máscara Lips a Color Wheels. Los dientes se blanquean bajando la saturación y ajustando la exposición, y las cejas también se pueden oscurecer o aclarar. Una regla que el autor aprendió en su época de retocador: retocar es como mentir, cuanto más cerca se queda de la verdad, menos se nota. Los cambios pequeños suelen funcionar mejor que los grandes."
+        },
+        {
+          "t": "p",
+          "x": "Tapar la boca durante un fragmento con palabras ofensivas también es sencillo. Se corta el tramo con la cuchilla, se añade Pixellate y luego se aplica la máscara Mouth. Para el sonido se añade un pitido con Test Oscillator. También se pueden superponer correcciones de color distintas en distintas zonas para devolver el color a una imagen en blanco y negro poco a poco. El cielo se puede hacer más profundo e intenso con la máscara Sky, pero un reemplazo real de cielo requiere colocar directamente uno nuevo."
+        }
+      ]
+    },
+    "movies/daletflex": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dalet, un proveedor de tecnología y servicios para organizaciones de medios, ha anunciado una nueva versión de soporte a largo plazo (LTS) de Dalet Flex. Incorpora automatización inteligente en cada etapa del ciclo de vida de los medios, desde la captura y el enriquecimiento de contenido hasta la edición, el empaquetado y la distribución."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Image-3-Dalet-Flex-Dark.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Hoy en día, las organizaciones de medios necesitan ejecutar procesos más complejos con menos personal y entregar más contenido en más plataformas. Esta versión responde a esa presión ampliando la inteligencia de medios con IA mediante la automatización de flujos de trabajo y profundizando la integración con Dalia, la plataforma de IA agéntica con conciencia de medios de Dalet. El responsable de producto, Erwan Kerfourn, llamó a Dalet Flex “the operational backbone for modern media organizations” y dijo que el objetivo de esta versión es integrar realmente a Dalia en las operaciones diarias de medios."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo empezó por la seguridad y la ingesta. La autenticación OpenID Connect añade una gestión de identidad moderna, y los nuevos permisos basados en roles del Ingest Portal dan a los administradores más control sobre la programación y las operaciones de grabación. El Ingest Portal, ya renovado, simplifica la programación y muestra varias zonas horarias de un vistazo. También se añadieron la programación FIFO para Dalet Brio y el soporte DNxHD en el codificador Flex. La ingesta en directo ahora se escala entre regiones y zonas horarias sin aumentar el personal ni el riesgo operativo."
+        },
+        {
+          "t": "p",
+          "x": "La expansión en IA es considerable. Un modelo de visión está integrado directamente en la infraestructura de Dalet Flex y procesa el contenido donde se encuentran los medios. En el momento en que un activo entra en producción, la plataforma genera metadatos descriptivos, identifica objetos, interpreta el contexto emocional y hasta realiza análisis de moderación de contenido. No es necesario mover los medios a un servicio de IA externo. Los resultados aparecen directamente en metadatos basados en la línea de tiempo y en las vistas de activos. El registro manual disminuye y la búsqueda se vuelve más sencilla."
+        },
+        {
+          "t": "p",
+          "x": "Dalet Cut incorporó desenfoque de fondo automatizado para video vertical y desenfoque con seguimiento del sujeto para ocultar identidades e información sensible. El posicionamiento de texto mejoró, y también aumentaron los controles de corrección, como brillo y saturación. La preparación para la distribución también se simplificó. Un asistente de flujo de trabajo facilita el empaquetado, y una nueva función de incrustación de subtítulos en Stream Processing lleva el trabajo de accesibilidad y cumplimiento directamente al flujo de distribución automatizado."
+        },
+        {
+          "t": "p",
+          "x": "Esta versión convierte a Dalia en un multiplicador para toda la cadena de suministro de medios. Cualquier flujo de trabajo del entorno Flex puede exponerse a Dalia solo mediante configuración, sin necesidad de desarrollo adicional. Se pueden dar tareas complejas en lenguaje natural, sin conocimiento de una interfaz especializada. Dalia descubre automáticamente los flujos de trabajo presentes en el sistema, y el Workflow Designer permite que los equipos elijan cuáles exponer. Una vez expuesto un flujo de trabajo, Dalia entiende su estructura y pregunta por las variables que necesita para ejecutarlo. Los procedimientos operativos complejos se reducen así a una sola conversación guiada."
+        }
+      ]
+    },
+    "movies/griptape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry ha añadido un nuevo nivel empresarial a Griptape, su plataforma de orquestación de flujos de trabajo con IA. Dirigido a entornos de producción de medios de alta gama, el nivel se anunció el 16 de julio de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
+          "cap": "Griptape Enterprise"
+        },
+        {
+          "t": "p",
+          "x": "El nivel empresarial añade licencias controladas por el estudio y herramientas de gestión de proyectos más amplias. Como los supervisores de pipeline eligen directamente qué modelos de IA pueden usar los artistas, los flujos de trabajo permanecen validados, conformes a las normas y listos para entrar directamente en producción."
+        },
+        {
+          "t": "p",
+          "x": "Griptape Enterprise se ejecuta en local o en una nube privada, lo que reduce la preocupación por proteger propiedad intelectual sensible. Presenta el control y la privacidad como funciones centrales."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/05_Permission_Manager_Studio_Wide_or_Project_based-.png",
+          "cap": "La pantalla de Permission Manager, que gestiona los permisos de acceso a los modelos"
+        },
+        {
+          "t": "p",
+          "x": "Kyle Rosi, cofundador y ex-CEO de Griptape, se incorporó como Chief AI Officer tras la adquisición de la plataforma por parte de Foundry en febrero de 2026. Rosi dijo: “Foundry ha sido un socio tecnológico de confianza para estudios de efectos visuales y animación durante más de 30 años”."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma se basa en una arquitectura en Python que orquesta múltiples modelos de IA y agentes, abarcando desde la generación de imágenes hasta la gestión de metadatos. Procesa secuencias de imágenes compatibles con Nuke y usa OpenColorIO para gestionar el pipeline de color. Los directores técnicos crean flujos de trabajo en Griptape y los publican como Nuke Gizmos versionados."
+        },
+        {
+          "t": "p",
+          "x": "Los pasos de generación de imagen y video no están fijos, por lo que se pueden reordenar y refinar, y modelos como Flux, Stable Diffusion XL, LTX y Wan se ejecutan en las GPU locales del estudio. Griptape Enterprise ya está disponible."
+        }
+      ]
+    },
+    "movies/smartroto": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry presentó SmartRoto, un plugin de roto exclusivo para la familia Nuke. El responsable de investigación en IA, Adam Cheobetji, insiste en que se trata de una herramienta de aceleración, no de automatización total. “No es una solución mágica. No dibuja todas las splines por ti, sino que hace el keyframing más rápido”, dijo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/07/smartroto-splines-uiS.jpg",
+          "cap": "El espacio de trabajo de splines de SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "Los artistas siguen haciendo roto como siempre: descomponen el sujeto en formas basadas en articulaciones en los fotogramas donde se ve con claridad. Después, SmartRoto se encarga del tedioso keyframing, moviendo y deformando las splines a lo largo de toda la secuencia de imágenes."
+        },
+        {
+          "t": "p",
+          "x": "La suscripción anual cuesta 499 dólares, con opción de licencia node-locked o flotante. El trabajo se apoya en dos tipos de claves: las “claves inteligentes” que predice el modelo y las “claves de usuario” que el artista coloca o corrige directamente. Cheobetji dejó claro que las claves de usuario no se tocan. “Si la pusiste ahí, la aceptamos tal cual y no la cambiamos.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/07/userkeys.jpg",
+          "cap": "Claves de usuario y claves inteligentes predichas"
+        },
+        {
+          "t": "p",
+          "x": "SmartRoto evitó los dos métodos habituales. Primero probaron el flujo óptico, pero “se rompe en los bordes, que es justo donde se necesita precisión”, dijo Cheobetji. También abandonaron el matting de imagen que depende de modelos de segmentación. En su lugar, un modelo de machine learning propaga las splines directamente, manteniendo precisión subpíxel."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollo interno llevó más de cuatro años, y antes de eso, seis o siete años atrás, el equipo ya exploraba el problema junto con DNEG y la Universidad de Bath. Los datos de entrenamiento son metraje grabado por el propio responsable de investigación, superpuesto con precisión a trabajo profesional de roto; todo está licenciado y se procesa en local, sin transferencia a la nube. El modelo usa alrededor de 8 gigabytes de VRAM, según la resolución y el número de formas."
+        },
+        {
+          "t": "p",
+          "x": "En una prueba de dos semanas con artistas de roto profesionales, la velocidad de trabajo aumentó hasta 4 veces. Pero Cheobetji pidió no exagerar esa cifra, matizando: “un 2x constante en el mismo plano, a menudo mucho más rápido que eso”. El compositor Benjamin Brat, autor de un manual de roto, también participó en la beta y dijo que “le sorprendió que SmartRoto fuera tan bueno”."
+        }
+      ]
+    },
+    "movies/switchlight3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ProVideo Coalition informó desde el SIGGRAPH 2026. Puget Systems montó un estand inmersivo «Robo Dojo» y destacó las herramientas creativas basadas en IA que aparecieron en el suelo de exposición."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/pugetsiggraph2026_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bibble AI y District Cinema aplicaron el nuevo modelo SwitchLight 3 al metraje real en 4K de la temporada 3 de 'Son of a Dungeon' de Corridor Crew. El resultado fue un paso de reiluminación PBR listo para usar directamente en Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "La función «AI Shot» de Keyshot Studio retoca de forma generativa solo las partes necesarias, sin tocar los datos CAD ni la iluminación. Es un ejemplo de cómo la reiluminación generativa se está integrando en los pipelines de producción reales."
+        }
+      ]
+    },
+    "movies/project-indigo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe añadió la función experimental AI Playground a su app de fotografía computacional, Project Indigo. Justo después de tomar una foto, se pueden aplicar ediciones generativas de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esto va más allá de la simple transferencia de estilo y empuja un paso más la manipulación de imágenes generativa que corre en el propio dispositivo."
+        }
+      ]
+    },
+    "movies/spark-story": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lightcraft abrió una beta escalonada de Spark Story, una herramienta interactiva de previsualización que permite a los cineastas bloquear escenas, llenar bibliotecas de assets y renderizar “superdailies” en resolución completa en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Se combina con keying por IA y con pantallas azul/verde, con el objetivo de acortar la etapa de previz y reducir los costos de producción temprana. La beta ya está abierta para inscribirse."
+        }
+      ]
+    },
+    "movies/animaj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Disney Junior y la empresa francesa de animación con IA Animaj subieron en silencio a YouTube una nueva serie preescolar, “Ozzy Fox”. Es un caso que muestra con qué rapidez un estudio basado en IA puede producir contenido infantil."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta fue rápida. A los dos días del estreno, las vistas se acercaron a las 800.000. Dado que una gran cadena emitió de verdad una serie hecha con IA, es una señal para medir cómo los estudios de animación con IA producen contenido a escala."
+        }
+      ]
+    },
+    "movies/autodesk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk presentó en SIGGRAPH 2026 funciones de IA que abarcan Maya, 3ds Max y Arnold. Es una actualización centrada en unir de forma fluida el trabajo de animación y VFX."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo tiene cuatro partes. Motion Maker suma un modelo de movimiento a medida llamado “Bring Your Own Data”, entrenado con los propios datos del usuario, y 3ds Max ahora permite editar directamente los splats gaussianos 3D. A esto se añaden la revisión integrada de Flow Production Tracking y el renderizado de viewport interactivo de Arnold."
+        },
+        {
+          "t": "p",
+          "x": "Los splats editables y los modelos de movimiento a medida son la parte que cambia de inmediato el flujo de trabajo diario de los artistas de VFX y animación."
+        }
+      ]
+    },
+    "movies/hpzcaptis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HP y Adobe combinaron el HP Z Captis, recién renovado, con Adobe Substance 3D. La captura es más rápida, el control de imagen es más fino, y hay más opciones de velocidad de fotogramas y resolución."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es producir en masa gemelos digitales de nivel fotorrealista. Los activos reales escaneados fluyen directo hacia los flujos de VFX y producción virtual, listos para usarse en el propio lugar de creación de assets."
+        }
+      ]
+    },
+    "movies/nightborne": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "El corto zombi de Neill Blomkamp, “Nightborne”, se hizo para la startup de IA Bali Studio. Usó Seedance, el modelo de video generativo de ByteDance, y con un director de renombre al frente, se convirtió en una prueba de lo que puede hacer el cine con IA."
+        },
+        {
+          "t": "p",
+          "x": "El resultado fue frío. El corto quedó como prueba de que los generadores de texto a video todavía no logran producir de forma fiable una película decente. Al ser una prueba real con un director al frente, muestra con honestidad dónde fallan hoy exactamente las herramientas de cine con IA."
+        }
+      ]
+    },
+    "movies/substance3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600"
+        },
+        {
+          "t": "p",
+          "x": "Adobe le dio una revisión importante a Substance 3D. El centro de esta actualización es la ampliación del soporte de materiales OpenPBR. A eso se suman nuevas funciones de Substance 3D Painter."
+        },
+        {
+          "t": "p",
+          "x": "Adoptar OpenPBR en todo el ecosistema unifica el formato de materiales en uno solo. Eso ajusta aún más las herramientas de texturizado y desarrollo de look en las que confían los artistas de VFX y producción virtual al construir assets fotorrealistas para cine."
+        }
+      ]
+    },
+    "movies/grokodyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Elon Musk dijo que Grok Imagine, de xAI, convertirá la 'Odisea' de Homero en un largometraje antes de que termine el año. Usó la expresión 'adaptación históricamente precisa' y enfrentó este método de generar video a partir de texto con la película de Christopher Nolan en cines."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, el material de muestra publicado hasta ahora muestra problemas claros de calidad, por lo que la afirmación se parece más a una prueba de hasta dónde puede llegar la IA al hacer un largometraje real."
+        }
+      ]
+    },
+    "movies/meshyagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meshy presentó una beta de agente 3D. No es una herramienta que termina con un solo mensaje, sino más bien un colaborador con el que se trabaja mediante diálogo. Mantiene el contexto durante toda la sesión, de modo que los artistas pueden fijar una dirección de arte coherente y producir un conjunto de activos 3D con un estilo unificado."
+        },
+        {
+          "t": "p",
+          "x": "Meshy presenta esta herramienta para la exploración temprana de conceptos en cine, VFX y flujos de animación, dejando la decisión final en manos del creador."
+        }
+      ]
+    },
+    "movies/servicemake": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es un caso de estudio. La agencia de publicidad Serviceplan Make visualiza conceptos con el video generativo de Luma y, en lugar de un rodaje de estudio que solía tardar días, obtiene en un día las tomas listas para mostrar al cliente."
+        },
+        {
+          "t": "p",
+          "x": "El centro de gravedad del trabajo se ha desplazado. El tiempo que antes se dedicaba a la ejecución y la posproducción ahora se dedica a pulir el concepto e intercambiar con rapidez los comentarios del cliente."
+        }
+      ]
+    },
+    "movies/beeble-switchlight-hybrid-set": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Damian Allen examina un método de rodaje híbrido que mezcla IA. Su base es SwitchLight, de Beeble."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+          "cap": "Una toma reconstruida mediante reiluminación por IA"
+        },
+        {
+          "t": "p",
+          "x": "Cambiar el fondo y volver a iluminar la escena queda en manos de la IA, mientras la actuación real y el trabajo de cámara se mantienen intactos. Es un terreno intermedio entre la producción tradicional y la generación totalmente sintética."
+        },
+        {
+          "t": "p",
+          "x": "Explica, desde una mirada práctica, cómo la reiluminación por IA está reconfigurando los flujos de trabajo en el set y en la posproducción."
+        }
+      ]
+    },
+    "movies/puget-robo-dojo-siggraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Robo Dojo”, de Puget Systems, presentado en SIGGRAPH 2026, convierte al público en avatares MetaHuman en tiempo real y los enfrenta a robots con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+          "cap": "Robo Dojo de Puget Studios en SIGGRAPH 2026"
+        },
+        {
+          "t": "p",
+          "x": "Usa escaneo LiDAR y producción virtual con volumen LED. Es una demostración en vivo donde la captura de movimiento sin marcadores y el renderizado en tiempo real fluyen directamente a un pipeline de motor de videojuego."
+        },
+        {
+          "t": "p",
+          "x": "Es una muestra tangible de hacia dónde se dirigen la captura de actuación y la producción virtual en el cine."
+        }
+      ]
+    },
+    "movies/frostfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El estudio de VFX estonio FrostFX ha hablado sobre su flujo de posproducción. No ven la IA como un sustituto de los artistas."
+        },
+        {
+          "t": "p",
+          "x": "Lo que hace la IA es asumir el trabajo técnico repetitivo. Ese tiempo liberado permite a los artistas dedicarse más al juicio creativo."
+        },
+        {
+          "t": "p",
+          "x": "Un relato sereno, desde la perspectiva del estudio, de cómo los flujos de trabajo con IA cambian realmente la textura del trabajo."
+        }
+      ]
+    },
+    "movies/vida-scene-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vida presentó Scene Search, una herramienta de indexación por IA sin conexión que funciona dentro de Content OS. Permite a editores y equipos de posproducción buscar en la videoteca escena por escena, en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "La clave es que ya nadie tiene que etiquetar metadatos a mano. Antes, volver a encontrar una escena exigía registrar el material manualmente; ese paso ya no existe."
+        },
+        {
+          "t": "p",
+          "x": "Esto cambia, en la práctica, cómo el cine y la televisión en posproducción encuentran y reutilizan su material. La búsqueda baja ahora a la escena, no al clip, y llega directo al momento exacto."
+        }
+      ]
+    },
+    "movies/frame-io-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Frame.io, de Adobe, lanzó una página dedicada de búsqueda en pantalla completa. Permite alternar entre búsqueda normal y búsqueda con IA, para encontrar el material deseado más rápido."
+        },
+        {
+          "t": "p",
+          "x": "También se mejoró el comparador. El flujo de buscar y revisar material a través de varios proyectos, para editores y equipos de posproducción, resulta ahora mucho más fluido."
+        },
+        {
+          "t": "p",
+          "x": "Este es el punto donde cambia, a nivel práctico, cómo los equipos de revisión y aprobación de cine y televisión examinan el material. Un cambio de flujo de trabajo concreto y listo para usar."
+        }
+      ]
+    },
+    "movies/luma-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "Luma AI incorporó Layers dentro de su herramienta de creación cinematográfica. Es una función que permite tocar las imágenes generadas por IA elemento por elemento, con ediciones precisas."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, si el resultado no convencía, había que volver a ejecutar todo el prompt. Layers se aparta de ese método y permite elegir elementos individuales en pantalla y corregirlos uno a uno."
+        },
+        {
+          "t": "p",
+          "x": "Esto saca el trabajo generativo del terreno del azar del prompt y lo lleva a un trabajo controlado, dirigible y corregible. El tipo de control fino que cineastas y artistas de previsualización esperaban."
+        }
+      ]
     }
   }
 }

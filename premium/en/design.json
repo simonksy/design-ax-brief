@@ -3532,6 +3532,936 @@
           "x": "The full piece is for Medium members only, so only the public portion has been translated here."
         }
       ]
+    },
+    "design/codex-micro": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3-2OH6ReiPM"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's first hardware has arrived. It has nothing to do with Jony Ive. It's called Codex Micro, a keypad made with keyboard maker Work Louder, designed to control OpenAI's agentic coding feature Codex. The two companies have been teasing this accessory since June, and it can now be ordered for $230 — ahead of the rumored Jony Ive-designed smart speaker."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg",
+          "cap": "OpenAI / Work Louder"
+        },
+        {
+          "t": "p",
+          "x": "If you've seen Work Louder's Creator Micro 2 or the Framer Micro it made with Framer, you can guess the build quality. LEDs on six frosted keys track the status of the agent inside Codex. The remaining keys are assigned actions like accepting or rejecting code, branching threads, and voice input. It also has a dial for cycling through reasoning levels and a joystick for switching workflows, plus extra keycaps included."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-C4p6U2-1784139199.jpg",
+          "cap": "Work Louder"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI recently turned the Codex app into a super app, combining regular ChatGPT features with Codex and the new productivity-focused agent tool ChatGPT Work. The app works fine without dedicated controls, but power users will find the move to Codex Micro much smoother."
+        },
+        {
+          "t": "p",
+          "x": "Among the hardware OpenAI is working on, Codex Micro is among the quietest. The smart speaker side is already tangled up in an Apple lawsuit. Apple claims current OpenAI employees Tang Yew Tan and Chang Liu stole trade secrets — both previously worked at Apple. The keypad can be ordered for $230 from either OpenAI or Work Louder, and Work Louder says supplies are limited."
+        }
+      ]
+    },
+    "design/figma-make-pr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma's Workflow Lab segment this time shows a workflow that flips handoff itself on its head. The products featured are Figma Design and Figma Make; the tools are the Figma agent, GitHub integration, and comments. The team is three people: a designer, an engineer, and a PM. There's one question: do the small fixes that make a site more inclusive really need to wait their turn in the backlog?"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/109e9f7c7d82c472f812ee14861b883dd4b1665a-3840x2160.png",
+          "cap": "The MOSF site open on a Figma canvas, showing ambiguous navigation labels, a low-contrast date picker, and an easy-to-miss CTA."
+        },
+        {
+          "t": "p",
+          "x": "The example is a fictional museum, MOSF. Its structure needs a full rewrite, and accessibility needs fixing too, but staff are stretched thin. The PM's compromise: engineers handle the heavy work, while designers take the lighter, polish-level fixes all the way through to production code in Make."
+        },
+        {
+          "t": "p",
+          "x": "The designer first builds synthetic personas with the Figma agent. The notes left by a first-time visitor, a returning member, and a screen-reader user as each navigates the site are specific and largely on point: confusing labels, an easy-to-miss CTA, a date picker that doesn't register at a glance, and a dead-end blank screen when a search returns no results."
+        },
+        {
+          "t": "p",
+          "x": "Connecting the GitHub repository to Make reveals something the canvas couldn't show: the date picker wasn't a one-off, but a shared component also used in the event calendar and the membership sign-up flow. With a ticket, only the exhibit page would have been fixed, leaving the other two on the old version. Inside the code, the dependency is visible now, so the fix happens once, at the source."
+        },
+        {
+          "t": "p",
+          "x": "The review sharpens the accessibility goals. The team leaves comments on the spot covering the aria-label the shared date picker should read, screen-reader labels that match the on-screen copy, a focus order that doesn't skip the CTA, and an empty-state message so a search with no results doesn't end in silence."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/628c4e0be22c0b09849c1f76966f85e7136641a3-3840x2160.png",
+          "cap": "The merged pull request keeps the full history intact, including review comments and accessibility annotations."
+        },
+        {
+          "t": "p",
+          "x": "The designer files the PR directly from Make, and an engineer reviews and merges it. A fix that could have sat in the backlog all quarter shipped in a day. When a ticket closes, the decisions inside it disappear too, but a merged change keeps the comments, the annotations, and even the reasoning for keeping the date picker shared. The point isn't telling designers to become engineers — it's putting each person where judgment is needed most."
+        }
+      ]
+    },
+    "design/tokens2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The share of product teams using design tokens jumped from 56% to 84% in a single year. Around the same time, the W3C released the first stable version of the Design Tokens Format Module, backed by Adobe, Google, Meta, Figma, Salesforce, and Shopify. There are two camps that have long fought over how to handle tokens, and that fight just got a lot less interesting."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/le4k4q0cpvzwlacrbtq5.png",
+          "cap": "A table comparing the two branches of design token management, native Figma Variables and Tokens Studio, side by side on ownership, theme depth, and export format."
+        },
+        {
+          "t": "p",
+          "x": "One side is native. Figma Variables, launched in 2023, took over from Styles as the place for color, spacing, and type values, and a 2026 update lets it export DTCG-compliant JSON without plugins or custom scripts. This shape, which gives every token a $value and $type, is already read by Style Dictionary, Theo, Specify, Supernova, and Penpot. Its weak point is large, multi-mode theming. Light and dark are fine, but once you stack eight brands, three density levels, and platform-specific overrides, a flat mode system starts to hold you back."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/urattiekscr3ew18makh.png",
+          "cap": "The design token pipeline: Figma Variables or Tokens Studio exports DTCG-compliant JSON, and Style Dictionary converts it into CSS, Swift, and Android outputs."
+        },
+        {
+          "t": "p",
+          "x": "The other side is Tokens Studio. It handles tokens across multiple files and syncs directly with git. It offers composable token sets, aliases that reach across files, and a direct path into the repository. The catch is that its format predates DTCG, so bridging to Style Dictionary first requires running @tokens-studio/sd-transforms. That's one more dependency, and one more chance for versions to drift out of sync."
+        },
+        {
+          "t": "p",
+          "x": "The real story isn't Figma versus Tokens Studio. Before the DTCG spec stabilized in October 2025, every tool had its own JSON shape, so choosing a token tool meant choosing a lock-in. Now there's one shape, and both camps export to it. That's why a rebrand that used to take weeks can now cover core UI in two days and roll out everywhere in three. Twelve years after Salesforce coined the phrase with the Lightning Design System in 2014, the industry finally has a common format to carry that promise between tools."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/cc3tuqkjf84h0x8iuiaq.png",
+          "cap": "How an AI coding agent reads a DESIGN.md file together with a DTCG token export to build on-brand UI instead of guessing at a plausible approximation."
+        },
+        {
+          "t": "p",
+          "x": "There's a fourth guest at the table that neither camp counted on: the AI coding agent. Handing it a new component requires telling it the brand's exact blue, not just a plausible-looking one, and a structured token file provides that. That's why the pattern of putting token values in YAML front matter, with the reasoning written in prose below in a DESIGN.md referenced from AGENTS.md, is spreading quickly. Tokens supply the values, and the prose supplies the judgment."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion is simple. If you have a single brand with only a few platforms, native Variables with a DTCG export feeding Style Dictionary is enough. If you have multiple brands, complex theming, or an already-mature git-sync pipeline, pick Tokens Studio. Just avoid choosing whatever you used at your last job out of habit — both paths now speak the same JSON."
+        }
+      ]
+    },
+    "design/meshy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meshy's newly unveiled conversational 3D agent aims to position itself not as a one-off AI prompt, but as a creative partner that builds alongside the user."
+        },
+        {
+          "t": "p",
+          "x": "The biggest difference is that it holds onto context. The agent remembers the flow of conversation throughout a session. So once a creator sets the art direction they want, it keeps producing assets in a consistent style to match."
+        },
+        {
+          "t": "p",
+          "x": "The output is production-ready 3D assets usable right away. Unlike the old approach of throwing out prompts one line at a time and hoping for the best, this collaborative workflow of setting a direction and refining it through conversation changes the texture of 3D generation."
+        }
+      ]
+    },
+    "design/smartroto": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry has released a new add-on for Nuke called SmartRoto. It hands off rotoscoping, among the most labor-intensive and tedious parts of VFX work, to AI."
+        },
+        {
+          "t": "p",
+          "x": "The core is auto-propagation. SmartRoto takes a roto spline drawn on one frame and spreads it across every frame of the shot on its own, reshaping it to match the subject's movement. That sharply cuts down on the work of manually placing points frame by frame to refine a mask."
+        },
+        {
+          "t": "p",
+          "x": "Foundry says this approach is 'up to 4x' faster than doing rotoscoping by hand. Since it strips out the repetitive work automatically, it's a workflow change artists will feel right away."
+        }
+      ]
+    },
+    "design/vray74": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chaos has released V-Ray 7.4, the new version for Blender. Aimed at Blender's huge user base, the update packs in major features that could change the way rendering itself is done."
+        },
+        {
+          "t": "p",
+          "x": "The first thing that stands out is Quick Sun Caustics, a system that makes it easy to get caustics, the bright patterns light makes as it refracts through water or glass, under sunlight. UDIM texture support has also been added, making high-resolution assets considerably easier to handle."
+        },
+        {
+          "t": "p",
+          "x": "A conversion feature has also arrived that carries lighting set up in Cycles, Blender's native renderer, straight over into V-Ray lighting. That means artists can move to V-Ray without having to rebuild an existing scene from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Integration with Veras, Chaos's AI rendering tool specialized for architecture, has also gotten tighter. For 3D artists and architectural visualization workers, this is a release that could change their pipeline right away."
+        }
+      ]
+    },
+    "design/3dsmax20262": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk's 3ds Max 2026.2 lets you import 3D Gaussian splat data directly into the software, then edit it, relight it, and render it. Radiance field capture, which used to sit apart, now flows naturally into the familiar design and render pipeline."
+        },
+        {
+          "t": "p",
+          "x": "The key point is that these splats are now “editable.” A scene captured by filming is no longer a result you can't touch — it can be handled like any other 3D data, something you can manipulate and relight."
+        },
+        {
+          "t": "p",
+          "x": "This release packs in several features beyond splat support. Among them, the fact that radiance capture has found a place in the mainstream pipeline stands out most."
+        }
+      ]
+    },
+    "design/art-director-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png"
+        },
+        {
+          "t": "p",
+          "x": "One art director says the real edge in generative design workflows isn't a better prompt or the newest tool. What's decisive is long-trained visual judgment — the ability to set direction, build taste, and critique the result."
+        },
+        {
+          "t": "p",
+          "x": "AI churns out endless images. But sorting through that pile to find what's actually usable is a human job. Without an eye for what's good and what's not, no amount of output matters."
+        },
+        {
+          "t": "p",
+          "x": "That's why the edge the author emphasizes isn't the tool but the eye. The human senses of direction, taste and critique are what ultimately turn AI's output into something usable."
+        }
+      ]
+    },
+    "design/maya20262": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The new “Bring Your Own Data” feature in Maya 2026.2 opens a path for studios to train AI models directly on their own data. They feed keyframes or mocap they've already built up straight into the MotionMaker animation system, setting the texture of the output themselves."
+        },
+        {
+          "t": "p",
+          "x": "Until now, generative animation was close to a black box you couldn't look inside. The core of this change is turning that box into an in-house workflow studios can actually adjust. That means the motion a model produces starts to resemble that team's own data and style."
+        },
+        {
+          "t": "p",
+          "x": "In the end, what matters is which data goes in. The more animation carrying a team's own feel gets fed into training, the more the generated results give that feel back."
+        }
+      ]
+    },
+    "design/screens-demoted": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png"
+        },
+        {
+          "t": "p",
+          "x": "As AI handles more and more tasks, the on-screen UI steps down from its starring role in the product, because users increasingly get what they want without going through a screen at all."
+        },
+        {
+          "t": "p",
+          "x": "This piece redefines the designer's job against that shift. As interaction moves toward agents and ambient interfaces, the question to ask isn't “how should I design this screen” but “does this screen need to exist at all.”"
+        },
+        {
+          "t": "p",
+          "x": "In the end, what remains isn't the skill of making better screens, but the judgment to decide which screens to keep and which to cut."
+        }
+      ]
+    },
+    "design/ux-review-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "A designer handed the entire UX review process over to AI and summarized the results. The short version: AI was a fairly solid partner for UX reviews, but it was no substitute for an expert."
+        },
+        {
+          "t": "p",
+          "x": "What stands out is where the accuracy comes from. What separated good reviews from bad ones wasn't the model's own intelligence, but the domain knowledge the human fed into it. The better the context and criteria, the sharper AI's answers became."
+        },
+        {
+          "t": "p",
+          "x": "So the picture that remains is clear. Judgment still belongs to the designer, and AI stands as a tool that widens that judgment."
+        }
+      ]
+    },
+    "design/inversphere": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A developer named VoxelKei unveiled 'inversphere'. It's a technique that folds an entire 360-degree environment into a single sphere, capturing and displaying a 3D Gaussian splatting scene."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It's a new approach that spans both capture and display, connecting directly to real-time 3D and rendering work. It's an attempt to rethink the very way familiar splatting scenes are handled."
+        }
+      ]
+    },
+    "design/nvidia": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At SIGGRAPH 2026, Nvidia showed off agentic AI for creative professionals. The core of it is Model Context Protocol (MCP) integration, letting an AI assistant work directly inside design apps like Adobe, Blender and Unreal Engine."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The agent inspects scenes, flags color issues, and prepares export variants in advance. It takes over repetitive work that used to require a lot of manual effort."
+        },
+        {
+          "t": "p",
+          "x": "Even so, creative decision-making stays in the artist's hands. The tool doesn't make judgments in their place — it assists alongside them."
+        }
+      ]
+    },
+    "design/style-refs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The point is that piling more and more words onto an AI image prompt yields diminishing returns. Stretching out a sentence makes it hard to pin down the image you actually want."
+        },
+        {
+          "t": "p",
+          "x": "Handing over a visual style reference instead captures results far more clearly and consistently. It also makes it easier to reproduce the same feel again and again."
+        },
+        {
+          "t": "p",
+          "x": "Showing beats trying to explain everything in words. It's a small shift in how creative AI gets handled at the fingertips."
+        }
+      ]
+    },
+    "design/ai-websites-samey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Over the past year, AI got really good at building websites. Code is cleaner, layouts are responsive, and accessibility has improved. Yet one problem remains: most AI-built websites look obviously 'made.'"
+        },
+        {
+          "t": "p",
+          "x": "The AI-generated sites you see every day share the same traits: glassmorphism everywhere, the same hero section, the same card layout and spacing, the same gradients and animations, the same design decisions. The code differs, but the design stays the same."
+        },
+        {
+          "t": "p",
+          "x": "Most models don't really 'design.' They just repeat patterns they've seen thousands of times. Ask for a 'modern landing page' and you usually get another variation of the same site. It's not a lack of creativity—it's that models try to guess the most likely answer."
+        },
+        {
+          "t": "p",
+          "x": "So instead of making another prompt collection, the author started building FireBall Design. It's a design skill that teaches AI to think like a designer instead of reproducing common UI patterns. The goal isn't to force a specific style, but to make AI adapt to whatever design language is requested. A luxury site shouldn't look like a gaming site, and a fintech dashboard shouldn't look like an Apple landing page."
+        },
+        {
+          "t": "p",
+          "x": "FireBall Design strips away repetitive AI tells, aligns the visual language with the requested style, respects design systems, and pushes toward cleaner, more maintainable code. It works across models including ChatGPT, Claude, Mistral, Gemini, DeepSeek, and Qwen, and just needs to be installed on any tool that supports skills."
+        },
+        {
+          "t": "p",
+          "x": "The author doesn't think AI should replace designers. The hope is for it to become a better design partner—reading a project's intent and adapting to it instead of stamping out the same screen over and over. That's the philosophy behind FireBall Design."
+        }
+      ]
+    },
+    "design/netflix-genai-boycott": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netflix used generative AI on about 300 titles this year alone, from early concept work through post-production. This isn't a rumor—it's in the company's shareholder letter, and co-CEO Ted Sarandos himself mentioned it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Most notably, the documentary series 'American Experiment,' about the American Revolution, included 17 minutes of AI-touched footage. Netflix said it made those scenes twice as fast and at lower cost. The company stresses this isn't about replacing people but about helping artists—writing, acting, and cinematography are still done by humans, with AI only assisting."
+        },
+        {
+          "t": "p",
+          "x": "The author's point is simple. Netflix isn't even essential anymore. Apple TV has become one of the strongest lineups around lately with 'Severance,' 'Slow Horses,' and 'Bad Sisters.' Disney+ has also ridden a good run with the Emmy-nominated apocalyptic drama 'Paradise' and 'The Testaments.'"
+        },
+        {
+          "t": "p",
+          "x": "AI isn't the only issue either. Despite a 96% Rotten Tomatoes score and strong viewership, the Duffer brothers' sci-fi drama 'The Boroughs' got cut after just one season. 'Alice in Borderland' and 'Terminator Zero' were canceled around the same time, and Netflix recently sparked controversy by AI-reviving the voice of the late Gene Wilder."
+        },
+        {
+          "t": "p",
+          "x": "Put it all together and the case for quitting Netflix becomes clear. You don't need to quit streaming itself—just watch somewhere else."
+        }
+      ]
+    },
+    "design/pincushion-ui-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr4f2vl0eu3zyyzcj9gcw.png"
+        },
+        {
+          "t": "p",
+          "x": "If a designer says 'this card feels cramped on mobile,' an agent has no way to act on it. A pin left on the live screen is different, because it comes with the selector, screenshot, viewport, page URL, and conversation context attached. If a team builds with Cursor, Claude Code, Codex, or Windsurf, the shape of feedback itself now has to change."
+        },
+        {
+          "t": "p",
+          "x": "Humans tolerated a fair amount of ambiguity with each other. Say 'the spacing under the pricing card looks off on phones,' and someone else would eventually track it down. Agent loops aren't that forgiving. They need to know which page, which element, which screen width, and what the reviewer actually meant. If it arrives as a Slack message or a screenshot buried in a doc, someone has to restructure it before a fix can even start."
+        },
+        {
+          "t": "p",
+          "x": "Feedback an agent can act on immediately includes the page URL where the note was made, a selector pointing to the element, a screenshot showing the problem, the viewport that distinguishes 390px from desktop, the conversation attached to the note, and an approval status that decides what's allowed to be touched."
+        },
+        {
+          "t": "p",
+          "x": "Here, MCP is just the delivery layer. It lets a coding agent request approved feedback in a standard way and get back a ready-to-run package. The note never disappears from a dashboard, and it never has to be retyped into a prompt."
+        },
+        {
+          "t": "p",
+          "x": "The flow works like this: review happens on the real app inside a browser, not on a canvas or a screenshot, and the moment a pin is dropped, the selector, screenshot, viewport, and surrounding DOM are captured together. The team approves only the notes meant to become code, and the agent reads the approved batch via MCP, digs through the source, and fixes it on a branch. The endpoint isn't 'we talked about it'—it's 'merged as a PR.'"
+        },
+        {
+          "t": "p",
+          "x": "Design feedback is easy to keep adding comments to, but it tends to drift further from deployment: Figma frames, Slack screenshots, room recordings, tickets. The more steps between a note and the real UI, the more context leaks out. If what ships is an app, review should happen on top of that app—especially now that the one receiving the feedback may no longer be a person."
+        }
+      ]
+    },
+    "design/agentface": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Builder.io flips a familiar question. Instead of treating AI as a feature bolted onto a product, it argues for designing AI as another user of the screen. Build the function once, and expose it to people through a screen, to agents through natural language, and to other apps through a programmatic interface—removing any reason to build the same thing twice."
+        },
+        {
+          "t": "p",
+          "x": "The 'face' referred to here isn't a chatbot bubble. It means a screen that shows what an agent is doing right now, and lets a person step in and fix things when it's wrong. For an agent that produces marketing assets, that screen becomes the place where a domain expert teaches the standards. The team's role shifts from execution to oversight."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fd756d0bbcf43483ab278f178ecbaa413?width=800",
+          "cap": "Contrast between a structure only a role can access and one agents can access too"
+        },
+        {
+          "t": "p",
+          "x": "An app doesn't need to do everything well on its own. When building sales materials, metrics can be pulled from an analytics system, approved images from another system, and presentation guidelines from somewhere else. The same goes for customer support: instead of a person relaying information back and forth, an agent goes in directly to check the root cause."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is work where time leaks out through manual human coordination. Attach a proper app screen instead of a chatbot so a person can check the result and correct it, and leave domain knowledge with the people who know the work rather than with engineering. As more of this kind of work gets stitched together, the gains stack up."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa8de8d0062864c969857ae40d5973510?width=800",
+          "cap": "Diagram showing a document-processing workflow moved into an agent-native pattern and extended into an app"
+        },
+        {
+          "t": "p",
+          "x": "Builder.io has organized this pattern into an Agent-Native framework. Define the work once, and both a human-facing screen and agent-facing tools come out of it, while the app opens an endpoint other agents and apps can call. It also comes with runtime features like chat, skills and memory, plus open-source example apps meant to be taken apart and reused."
+        }
+      ]
+    },
+    "design/ailegible": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As tools like Claude Code actually turn designs into code, the first reader of a handoff has changed. It's an agent, not a developer, that reads the document first. The engineer's role shifts from implementation to review."
+        },
+        {
+          "t": "p",
+          "x": "The author lays out four things AI needs to get it right the first time: a structured spec rather than a Figma link; named components and design tokens rather than pixel values; state variants covering loading, empty, error and success; and real code examples to follow as a pattern."
+        },
+        {
+          "t": "p",
+          "x": "The piece sets a bad spec next to a good one. One ends with something like 'Login screen. Email and password. Match the signup screen style.' The other spells out layout dimensions, component paths, typography and spacing tokens, the five states, where it should navigate to, and existing patterns to reference. With the latter, AI implements it in one pass; with the former, it has to guess, so the result varies every time."
+        },
+        {
+          "t": "p",
+          "x": "Even so, there's a share of the work design shouldn't give up: deciding what goes on the screen, checking motion and interaction on real devices, choices that touch the brand like illustration and tone, and consistency across the whole system."
+        },
+        {
+          "t": "p",
+          "x": "The pre-handoff checklist is short, too: do the components match the actual codebase, are all values written as tokens, are all five states drawn out, is the copy finalized, are analytics events documented, and does it reference similar existing screens."
+        },
+        {
+          "t": "p",
+          "x": "The shape of the work changes too. The design deliverable becomes a markdown spec with a Figma link attached, and the spec goes into the repository's docs folder. Design review looks at the implemented screen rather than the code. In the end, what decides it is how dense the spec is and how rigorous the review is."
+        }
+      ]
+    },
+    "design/figmotion": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OxoV79nv4v0"
+        },
+        {
+          "t": "p",
+          "x": "This is a video the official Figma channel posted on July 22, 2026. Figma designer advocate Laura Fehre teaches Motion to someone who has never touched motion software before. The video's promise is that finishing two examples through to the end lets you animate UI and icons yourself."
+        },
+        {
+          "t": "p",
+          "x": "The first example is a short swipe in/out animation (0:18) ready to use right in a handoff. It then moves to icon animation (2:57), and combines icons, brand imagery and moving text in one screen (4:18)."
+        },
+        {
+          "t": "p",
+          "x": "The Figma agent comes in at 4:57. The agent lays brand imagery and text animation on top, and at 5:24 even adds a dark mode transition. From 7:19, the designer hand-tunes what the agent produced using keyframes, easing curves and springs. The result screen is at 8:15."
+        },
+        {
+          "t": "p",
+          "x": "The order is what matters. With the agent drafting and the person fixing it on the canvas, there's no more back-and-forth out to After Effects just to make one UI animation. One comment described getting a result by walking through a messily layered work board with the agent step by step."
+        }
+      ]
+    },
+    "design/zcaptis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HP Z Captis is a 3D scanner that turns the complex physical properties of real materials into digital assets. With this update, it now connects to Adobe Substance 3D Sampler."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/media_1eccf2340900cccd14c541eee88ca854c8c713dd9.jpg-copy-1024x576.jpg",
+          "cap": "HP Z Captis and Adobe Substance 3D Sampler"
+        },
+        {
+          "t": "p",
+          "x": "With Substance 3D Sampler updated, material properties captured by Z Captis are turned into structured datasets that AI-based enterprise pipelines can use. Input values for product visualization become more accurate and easier to handle."
+        },
+        {
+          "t": "p",
+          "x": "New frame rate and resolution options widen the range of adjustment on both Windows and Mac, and it now supports hybrid AI inference on Nvidia Jetson AGX."
+        },
+        {
+          "t": "p",
+          "x": "Guido Quaroni, Adobe's senior director of 3D & Immersive product and engineering, said the quality of a digital twin is set by the material data behind it, and that capture is where it starts. He explained that building an end-to-end pipeline with HP, from the hardware side's HP Z Captis to the software side's Adobe Substance 3D ecosystem, created the most accurate and accessible way to capture, create, manage and distribute real materials on open standards like OpenPBR. He added that the value of material digitization comes from connecting capture to the entire creative workflow."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/HP-Z-CAPTIS-3D-Scanner-for-materials-335x188.jpg",
+          "cap": "HP Z CAPTIS 3D scanner for material capture"
+        },
+        {
+          "t": "p",
+          "x": "HP said Captis is already built into CMF workflows across multiple industries, from footwear and fashion to automotive and aerospace, supporting digital twin visualization at scale. As the distance from physical samples to reusable digital assets shrinks, design review, 3D visualization and downstream content production draw on the same data. Designers spend more time exploring and refining, while companies cut iteration cycles while keeping consistency."
+        },
+        {
+          "t": "p",
+          "x": "Jim Nottingham, HP's SVP and president of Advanced Compute Solutions, said digital materials are central to how teams design, visualize and bring products to market, and that the Z Captis integration with Adobe Substance 3D Sampler, along with Nvidia Jetson AI inference, gives today's creative and product teams the speed, control and workflow flexibility they need."
+        }
+      ]
+    },
+    "design/designmd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png"
+        },
+        {
+          "t": "p",
+          "x": "This piece proposes a file called DESIGN.md. It's meant to stop AI coding agents from guessing at the design system on their own, which leaves color, spacing, and component behavior inconsistent from session to session."
+        },
+        {
+          "t": "p",
+          "x": "The structure has two layers. A machine-readable YAML front matter holds exact design tokens, while human-readable markdown below it records the intent behind why those tokens are what they are. That lets the agent build UI against a standard that doesn't shift."
+        },
+        {
+          "t": "p",
+          "x": "Just as .cursorrules anchors code conventions, DESIGN.md acts as the reference point for the design system. It's a concrete answer to the visual-identity problem that most often breaks down in agent-built UI."
+        }
+      ]
+    },
+    "design/google-creativity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq questions Google's claim. The argument is that because AI solved and generated new math, the model is genuinely creative."
+        },
+        {
+          "t": "p",
+          "x": "The piece weighs how much novelty in math proves creativity to artists and designers, and what it doesn't prove."
+        },
+        {
+          "t": "p",
+          "x": "The reason this question matters to creators is clear. Whether a machine is creative decides how much idea and concept work gets handed over to generative tools."
+        }
+      ]
+    },
+    "design/vibecoding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png"
+        },
+        {
+          "t": "p",
+          "x": "This essay argues that AI-assisted vibe coding doesn't wipe out the people who make things altogether. Instead, it's the middle layer that implements to a fixed spec that melts away. It's similar to how cheap cameras left top photographers untouched while clearing out the common shooting jobs."
+        },
+        {
+          "t": "p",
+          "x": "Value concentrates on the roles that need design judgment, domain knowledge, taste, and strategy."
+        },
+        {
+          "t": "p",
+          "x": "As prompt-to-app tools make execution cheap, the essay sharply names the shift in capability facing designers and design engineers who build things themselves."
+        }
+      ]
+    },
+    "design/chaossplat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At SIGGRAPH, Chaos showed V-Ray 7.4 carrying a scene all the way from early look development and real-time exploration through virtual production to final rendering. But the phrase 'virtual production' already comes with an image attached. Say LED volume, and everyone pictures a huge digital backdrop, an actor standing in front of a pixel wall, a world assembled inside Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "Chris Nichols, Chaos's special projects director, doesn't buy that picture. He sees filmmakers insisting on rebuilding in CG a location they could simply go visit. \"Why build the whole location in CG when you could just go shoot it for real?\" he says. \"There's a point where different approaches fit well together, and Gaussian splats are a good way to bring that place back into the volume when you need it.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4JFkQxqABwmoB7fUoDxTdG-1600-80.jpg",
+          "cap": "A Gaussian splat scene relit with V-Ray 7.4. (Image credit: Chaos)"
+        },
+        {
+          "t": "p",
+          "x": "On the surface, this V-Ray 7 Update 4 is packed with rendering improvements like any other SIGGRAPH release. The core of it is Gaussian splat relighting. Instead of using a scanned environment's lighting as baked in, it lets you adjust it anew. It's a feature that sits alongside Chaos's ray-traced splat rendering."
+        },
+        {
+          "t": "p",
+          "x": "Nichols has already used this approach on a western proof-of-concept piece his own production company, Monstrous Moonshine, is making. The crew went out to Northern California and shot an abandoned Gold Rush-era house, but they didn't stop at capturing establishing shots. On location, they captured the place as a Gaussian splat and brought it into an LED wall set, then continued the rest of the shoot in a far more controlled environment."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A7Ew2QZJptBcKSSDrHU24f-1200-80.jpg",
+          "cap": "An example of bringing a scanned location into the volume. (Image credit: Chaos)"
+        },
+        {
+          "t": "p",
+          "x": "The script called for the house's lights to come on and, eventually, for the whole house to burn down — a change that didn't exist when it was scanned. Nichols says the newly built relightable splat let them add CG lighting to the splat itself. The art director designed a new front porch in Rhino and laid it over the scanned scene, and because everything was ray-traced together, the splat and the polygons responded to the same light sources and cast shadows on each other."
+        },
+        {
+          "t": "p",
+          "x": "Gaussian splats drew attention for how fast they could be captured, but they always sat awkwardly next to traditional CG assets. Chaos believes that once you can bring in a scan, add geometry, relight the whole thing, and keep working from there, splats stop being a novelty and become a genuine production asset. Autodesk also said at SIGGRAPH that it's bringing editable Gaussian splats into 3ds Max."
+        }
+      ]
+    },
+    "design/flux3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Black Forest Labs released a new generative model, FLUX 3. Where the FLUX line had stayed confined to image generation, it now also produces videos up to 20 seconds long that include sound."
+        },
+        {
+          "t": "p",
+          "x": "Handling still images and video together in one model widens the range of outputs a designer can touch at the draft stage. The break from earlier generations is that clips come with audio instead of staying silent."
+        },
+        {
+          "t": "p",
+          "x": "That said, it isn't open to everyone from the start. FLUX 3 is rolling out first as a limited release."
+        }
+      ]
+    },
+    "design/landing7": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI website builders produce a certain 'look.' A gradient flowing from purple to blue, Inter font, a centered headline with rounded buttons, and below it three cards with emoji-like icons. It reads as something generated in 30 seconds. The problem isn't AI itself but the defaults. The author lays out seven decisions that shift a page from feeling 'generated' to feeling 'art-directed.'"
+        },
+        {
+          "t": "p",
+          "x": "Start with color. Instead of a pure #000 or #fff, use a warm near-black like #0d0b08 and an off-white like #f4efe6. Drop SaaS-style blue for accent colors too, and pick something unexpected, like burnt orange, gold, or oxblood. For type, use a high-contrast serif (Fraunces) for headlines, and pair small labels with a monospace, so elegance collides with technical texture."
+        },
+        {
+          "t": "p",
+          "x": "Set headlines large, tighten the letter-spacing, and place them asymmetrically. Keep line-height below 1, at .92, and pull letter-spacing negative, so big type reads as intentional. Insert line breaks by hand wherever you want emphasis. Layer on a grain overlay at 3% opacity, and the whole page gains an analog texture without a single image."
+        },
+        {
+          "t": "p",
+          "x": "Treat motion as choreography, not decoration. Stack timing so it's offset — a headline that reveals line by line on load, a marquee that scrolls, cards that lift on hover. Swap cards and shadows for thin dividers and generous whitespace, and the page reads with the clarity of editorial design. Last comes copy. Instead of predictable marketing lines, write short sentences with a clear human point of view."
+        },
+        {
+          "t": "p",
+          "x": "Put all seven together and the result is clear: a warm off-black palette, a serif-and-mono pairing, large and tight headlines, grain texture, choreographed motion, thin lines instead of boxes, and human copy. The author leaves a paradox standing, too: the fastest way to erase the AI look is to start from something already professionally art-directed and make it your own."
+        }
+      ]
+    },
+    "design/mediocre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In July 2026, the author had lunch with colleague Maxim Sapiulin. Both teach interaction design courses at ArtCenter College of Design and Santa Monica College. As conversations these days tend to, it drifted to AI, and the talk turned to the challenge of teaching UX, HCI, and IxD design with AI as the backdrop."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+          "cap": "An illustration staging ChatGPT as a robot fighter and Nietzsche as the philosopher. (Image credit: UX Collective)"
+        },
+        {
+          "t": "p",
+          "x": "The two belong to a generation that got hands-on with technology directly. They learned design and code together, pulling apart design systems in code and building prototypes. The author's own first steps into HTML and CSS came from decorating a Myspace profile back in college, in 2003."
+        },
+        {
+          "t": "p",
+          "x": "Grad school, out of necessity, pushed them past HTML, CSS, and JS into hardware with Arduino and Raspberry Pi. Sapiulin earned his master's at Parsons; the author earned theirs at ArtCenter."
+        },
+        {
+          "t": "p",
+          "x": "For two educators who built their instincts by getting their hands dirty, it's all the more troubling to see students lean entirely on default output. Becker's concern is clear: the more designers rely on generative tools, the more results slide toward 'adequate mediocrity.' He holds onto the question of what designers need to do to get past that default."
+        }
+      ]
+    },
+    "design/bull-bear-design-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Andy Budd examined how AI is reshaping product design. He frames it through two scenarios, a bullish one and a bearish one."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The bullish case is autonomy. Designers gain greater independence and need to ask permission less often to get things done."
+        },
+        {
+          "t": "p",
+          "x": "The bearish case is what that autonomy reveals. As autonomy grows, the skill gaps that had been hidden become harder to conceal."
+        },
+        {
+          "t": "p",
+          "x": "As friction in handoffs disappears, the piece considers where design roles and ways of working are headed next."
+        }
+      ]
+    },
+    "design/get-out-of-their-way": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Every design organization now reaches for the same AI tools. So where does the edge actually come from?"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The piece's argument is clear: the winners are organizations that trust the practitioners who already understand those tools."
+        },
+        {
+          "t": "p",
+          "x": "It is a leadership argument that, rather than locking the door on AI adoption, teams should rebuild the organization around it."
+        }
+      ]
+    },
+    "design/nanobanana-earth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google has attached its image-generation model Nano Banana to Google Earth. Photorealistic scenes can now be generated directly on the map."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg"
+        },
+        {
+          "t": "p",
+          "x": "There are two main uses. One is reviving a vanished past: a prompt like “Pompeii in '78” reconstructs ruins that no longer exist in photorealistic form."
+        },
+        {
+          "t": "p",
+          "x": "The other is previewing what hasn't been built yet. Upcoming construction projects can be placed on the map to picture how they'll look before completion."
+        },
+        {
+          "t": "p",
+          "x": "It is a concrete case of generative image AI stepping into spatial design, architectural visualization, and location-based concept rendering."
+        }
+      ]
+    },
+    "design/shieldfont-poison-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Typography designers have released a free typeface called ShieldFont. It is designed to deliberately corrupt the training process when AI models scrape its text and images."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "It is a craft-level response from the design and typography community against generative AI's data scraping."
+        },
+        {
+          "t": "p",
+          "x": "Designers now have a defensive tool in hand that keeps their work from being pulled into training data."
+        }
+      ]
+    },
+    "design/creative-technologists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png"
+        },
+        {
+          "t": "p",
+          "x": "Creative technology was once a fringe title. Now, as AI breaks down the gap between design and code, it's becoming a core capability for modern product teams."
+        },
+        {
+          "t": "p",
+          "x": "Designer-who-builds is moving from novelty to the default way AI-era design organizations operate."
+        }
+      ]
+    },
+    "design/figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d1366af0a7f2c9945aa6a7a693f319518f22fc63-3840x2160.png"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make has gained a visual properties panel and an annotation feature."
+        },
+        {
+          "t": "p",
+          "x": "Designers can now fix AI-generated output directly, and carry that intent into code without rewriting the prompt."
+        },
+        {
+          "t": "p",
+          "x": "It's a real feature update for Figma's AI builder that tightens the loop from design to code."
+        }
+      ]
+    },
+    "design/perplexity-color": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png"
+        },
+        {
+          "t": "p",
+          "x": "This is a hands-on record of using generative AI, Perplexity in this case, to build a divergent data visualization color system and palette tokens."
+        },
+        {
+          "t": "p",
+          "x": "It lays out, as a concrete workflow, how to fold AI into designing a systematic, accessibility-aware color system."
+        }
+      ]
+    },
+    "design/unwanted-ai-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Across Amazon, Tinder and Reddit, several products now quietly generate or AI-edit user photos by default. If you want out, you have to turn it off yourself."
+        },
+        {
+          "t": "p",
+          "x": "At a moment when generative image AI is pushing into mainstream interfaces without asking, this is a sharp look back at product design and user consent."
+        }
+      ]
+    },
+    "design/google-earth-rollback": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Days after Google added the Nano Banana generative image tool to Google Earth, it pulled the feature back. User backlash kept building."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-rolls-back-google-earth-image-generation/l-intro-1785524818.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The core of the criticism was clear. AI-generated scenes erode the trust that a product like a map, which should rest on fact, needs to have. The moment a tool convincingly renders a landscape that doesn't actually exist, it shakes the foundation of trust that any place-based visualization tool must hold."
+        },
+        {
+          "t": "p",
+          "x": "This quick reversal reads as a signal. It's a concrete case showing just where the limits lie when generative image AI is dropped directly into spatial design and place-based visualization work."
+        }
+      ]
+    },
+    "design/jakobs-law-chatbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI is merging different app screens and surfaces into a single conversational chat window. The experience of learning to navigate across screens now converges into one input box."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*SpJMK3a6F5z94Lj-6uKzRQ.png"
+        },
+        {
+          "t": "p",
+          "x": "This piece revisits Jakob's Law, which deals with familiarity, for generative UI. It asks what patterns designers need to leave in place so users don't lose their bearings even as the interface is generated on the fly."
+        },
+        {
+          "t": "p",
+          "x": "The key is a minimum of familiarity that lets users sense where they are even as the screen changes each time. What to hold onto between generative freedom and a sense of direction becomes the crux."
+        }
+      ]
+    },
+    "design/rebelle-brush": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Escape Motions' Rebelle 8.3 took a different direction. Instead of layering on generative AI, it pushes physically realistic brush and watercolor simulation even further."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mvo3TZvdBoXsZMkfVGT9TC-1497-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a design tool market rushing to bolt on AI features, this update takes a deliberately opposite stance. It's a craft-first attitude focused on making the brush feel real, not on generating a painting for you."
+        },
+        {
+          "t": "p",
+          "x": "It's a case worth noting in the trend of creative software choosing simulation over generation. The choice asks not what to automate, but how far to bring back the feel of the hand."
+        }
+      ]
+    },
+    "design/rethinking-friction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As AI comes to handle nearly everything in an instant, this piece asks whether 'zero friction' is always the right default."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp"
+        },
+        {
+          "t": "p",
+          "x": "The author flips the attitude of chasing smoothness alone. The piece points out where deliberate friction should be reintroduced in AI-based products so users can control the flow themselves."
+        },
+        {
+          "t": "p",
+          "x": "This perspective also changes the design process itself. Deciding which pauses and confirmations to keep, rather than what to remove, becomes the design that hands judgment back to the user."
+        }
+      ]
     }
   }
 }

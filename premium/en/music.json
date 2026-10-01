@@ -2765,6 +2765,520 @@
           "x": "Eldoraudio said users may use the converted files commercially if they hold the rights to the uploaded audio."
         }
       ]
+    },
+    "music/aiode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
+          "cap": "Credit: BandLab Technologies/Aiode"
+        },
+        {
+          "t": "p",
+          "x": "BandLab Technologies, the company behind BandLab, Cakewalk, ReverbNation, and Airbit, has acquired Aiode. It's an AI studio that builds songs from fully licensed audio performed by professional session musicians and producers. It becomes the company's third production platform, after BandLab and Cakewalk."
+        },
+        {
+          "t": "p",
+          "x": "Users start from a blank project or import their own audio, then choose a performer and style model to play on the track. Performances can be directed section by section, and pulling a new take for just one part leaves the rest of the song untouched. The finished result can be downloaded as stems or a mix."
+        },
+        {
+          "t": "p",
+          "x": "The audio used to train Aiode's models, including the musicians' performances, is 100% licensed and traceable back to its source. After the acquisition, it remains a standalone product, and service for existing users continues without interruption."
+        },
+        {
+          "t": "p",
+          "x": "Idan Dobrecki and Blue Dobrecky, who founded the company in 2022, continue to lead it as CEO and COO, respectively. Native audio recording and expanded DAW features are planned for a future version."
+        }
+      ]
+    },
+    "music/peelstems2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/z/zplane_peel_stems_2-K__ij7kDCtMgsByic53tmZkpRec0GkwI.jpg",
+          "cap": "zplane Peel Stems 2"
+        },
+        {
+          "t": "p",
+          "x": "zplane has updated its real-time stem separation plugin Peel Stems to version 2. This release reworks speed, sound quality, and hands-on usability all at once."
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is latency. Processing latency at 44.1kHz, which was 483ms, dropped to 245ms — a 49% reduction. On Intel Macs, it runs at 385ms."
+        },
+        {
+          "t": "p",
+          "x": "The separated sound also has less noise. The isolation slider now has a wider effective range, and Focus EQ raises both the upper and lower cutoff frequencies together. The GUI has been redrawn with a new stem color scheme."
+        },
+        {
+          "t": "p",
+          "x": "zplane co-founder and CTO Tim Flohrer said, “With Peel Stems 2, we wanted to push real-time stem separation inside the DAW even further,” calling this version — which cuts latency sharply and raises sound quality — a major advance in stem separation technology."
+        },
+        {
+          "t": "p",
+          "x": "In any DAW that accepts AU, VST3, or AAX, stems are split right there in place. It also includes spectral processing that narrows in on frequency and stereo range. All processing happens entirely locally, with no cloud upload, and it requires no subscription or login."
+        },
+        {
+          "t": "p",
+          "x": "It supports Windows 10 and later and macOS 13 and later, and ships as VST3, AU, and AAX. It costs €59, with existing users able to upgrade for €19."
+        }
+      ]
+    },
+    "music/spotify-chat": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/wmO3PYGZ-lF2gWf1A.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Spotify Premium users can now choose what to listen to by having a conversation with the app. It first opens on iOS and Android in the US, Ireland, and Sweden, for users 18 and older, and works in English only. Spotify says that since it's in beta, it won't always be smooth, but it plans to refine it based on feedback."
+        },
+        {
+          "t": "p",
+          "x": "Spotify did not disclose in detail what technology runs underneath. It confirmed to TechCrunch that it uses a mix of its own models and models from several vendors, choosing whichever fits the task."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png",
+          "cap": "You can now talk to Spotify"
+        },
+        {
+          "t": "p",
+          "x": "The scope of conversation extends beyond the existing AI DJ, letting users talk by typing or voice from the mobile home and playback screens. You can ask about a song's inspiration or an album's release date, or get other artists recommended based on what you're listening to right now. You can even ask about your own history, like when you first played a particular song."
+        },
+        {
+          "t": "p",
+          "x": "You can say “play an artist I've never heard before,” then narrow it down by naming a specific artist or asking for recent songs. Saving a song, adding to the queue, and following an artist can all be done from within this same conversation. It is rolling out gradually to mobile in the eligible regions."
+        }
+      ]
+    },
+    "music/suno-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "According to hacked data obtained by 404 Media, Suno appears to have scraped millions of songs, lyrics, and podcasts from YouTube Music, Deezer, Genius, and several stock music libraries. The material came from a hacker using the pseudonym Ellie.191, who hacked the source code in 2023 and 2024."
+        },
+        {
+          "t": "p",
+          "x": "One file states that at least 2,013,545 music clips were taken from YouTube Music alone. A dataset list in another file shows 113,879 hours from YouTube Music, 62,117 hours from the stock library Pond5, 12,287 hours from Deezer, and 17,615 hours from Genius. The vocal model was trained on a capella versions from YouTube, and there are also traces of an attempt to download roughly 1 million hours of podcasts via PodcastIndex."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bNuzMzALrFrK9PmFZNDTdk.png",
+          "cap": "(Image credit: Suno/Web)"
+        },
+        {
+          "t": "p",
+          "x": "Launched in 2023, Suno has surpassed 2 million paying subscribers and raised more than $400 million at a $5.4 billion valuation. A copyright lawsuit filed in 2024 by major labels represented by the RIAA is still ongoing. Suno maintains that copying for training purposes is fair use, and CEO Mikey Shulman wrote, “learning is not infringing.”"
+        },
+        {
+          "t": "p",
+          "x": "In November 2025, Warner Music became the first of the three majors to sign a licensing deal and drop its lawsuit. This past February, artist groups launched the Say No To Suno campaign and issued an open letter."
+        }
+      ]
+    },
+    "music/eldoraudio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio's browser-based tool converts guitar recordings into editable MIDI. Its distinguishing feature is the use of dedicated models tailored to the instrument's characteristics."
+        },
+        {
+          "t": "p",
+          "x": "The first 30 seconds can be tried for free, and a dedicated model for distorted guitar is also in the works."
+        },
+        {
+          "t": "p",
+          "x": "From playing a riff to refining it into MIDI, it removes the manual transcription step that used to sit in between."
+        }
+      ]
+    },
+    "music/deezer-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/Deezer-AI.png"
+        },
+        {
+          "t": "p",
+          "x": "Deezer said fully AI-made music has passed half of its daily uploads. Over June, that averaged about 90,000 tracks a day. It's the first case of a major platform where generative AI tools have overtaken human uploads."
+        },
+        {
+          "t": "p",
+          "x": "Deezer is also working to filter out AI tracks tied to streaming manipulation or ones that haven't been played a single time in six months."
+        },
+        {
+          "t": "p",
+          "x": "A market where AI churns out more than humans. Artists releasing music now have to compete inside it."
+        }
+      ]
+    },
+    "music/mcp-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Gemini_Generated_Image_s6lbi7s6lbi7s6lb-scaled-e1784536005307.png"
+        },
+        {
+          "t": "p",
+          "x": "The Model Context Protocol (MCP) is emerging as the AI era's “USB port.” It's a connection standard that lets music industry platforms plug their own catalogs and data directly into AI assistants like ChatGPT and Claude, pulling multiple tools together at once."
+        },
+        {
+          "t": "p",
+          "x": "Creators and teams no longer have to open scattered tools one by one. They can now query several services at once, from a single place."
+        },
+        {
+          "t": "p",
+          "x": "It's a signal of how AI music workflows can mesh together instead of staying isolated islands."
+        }
+      ]
+    },
+    "music/suno-imessage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suno released an iMessage keyboard extension. Without leaving the Messages app, iPhone users can make a roughly 30-second AI song using just a text or voice prompt."
+        },
+        {
+          "t": "p",
+          "x": "A new Mashup feature that blends two songs into one was also added. Just pick any two tracks and combine them."
+        },
+        {
+          "t": "p",
+          "x": "It brings the work of pulling a song out of a prompt right into the chat window people use every day."
+        }
+      ]
+    },
+    "music/acestudio2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/ACE-Studio-2.0-interface-hero-credit-press@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio 2 is an AI DAW built around vocal synthesis. It packs over 140 voices and 36 AI virtual instruments, plus generative tools like “Add a Layer” for layering and “Music Enhancer” for polishing tracks."
+        },
+        {
+          "t": "p",
+          "x": "MusicTech's verdict is mixed. The next-generation AI features themselves are clearly powerful, but sluggish rendering and a rough workflow chip away at that strength. The tools have moved ahead, but the feel of actually handling them is still stuck in the past."
+        }
+      ]
+    },
+    "music/lydia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Project LYDIA, built jointly by Roland and Neutone, is a prototype-stage AI effects pedal. What sets it apart is that instead of just using a finished model, performers build their own AI model and play it live on stage in real time."
+        },
+        {
+          "t": "p",
+          "x": "The core is an approach called “neural sampling.” It transfers one sound's timbre onto another, while still keeping the performer's dynamics and subtle nuance intact. Rather than locking the generative model inside the studio, it pulls it up onto the stage, changing how performers handle the technology itself."
+        }
+      ]
+    },
+    "music/almudio-3d-panner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
+          "cap": "Almudio 3D Panner"
+        },
+        {
+          "t": "p",
+          "x": "Almudio released 3D Panner. It is a free early-access spatial audio plugin for macOS and Windows. Developer Almog built it over seven months as a graduation project at BIMM University Manchester, refining it through beta testing with instructors and students."
+        },
+        {
+          "t": "p",
+          "x": "On AI, the developer said AI was used at certain stages of the coding process. He stressed that the DSP architecture, HRTF implementation, UX and parameter design were his own decisions, refined over months. In other words, it was not something thrown together."
+        },
+        {
+          "t": "p",
+          "x": "The plugin uses binaural/HRTF processing to place mono or stereo sources in 3D space around the listener. It targets headphone mixing, ASMR, sound design, post-production, game audio and VR."
+        },
+        {
+          "t": "p",
+          "x": "The feature set is dense. There's an XY pad for dragging a sphere around the head, an HRTF mode using HRTFs measured from 20 people and opening up the SADIE measurement database, and a Hard Pan mode for placing sources straight left or right. Frequency can be split into up to four bands with limiters on each, there are eight LFO motions — spiral, spring, X, pendulum, orbit, circle, infinity and random — and pendulum speed can even be set using the gravity of Earth, Moon, Mars, Jupiter or the Sun."
+        },
+        {
+          "t": "p",
+          "x": "Install size is about 230 MB. It requires a free Almudio account verified by email, the license can be used on two computers, and a one-time internet activation is needed. It supports VST3, AU and standalone formats. macOS is Apple-signed, while Windows signing and AAX support are still in progress."
+        },
+        {
+          "t": "p",
+          "x": "It is available for free at almudio.com/3d-panner."
+        }
+      ]
+    },
+    "music/google-ai-mode-ytmusic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
+          "cap": "New Google AI Mode features"
+        },
+        {
+          "t": "p",
+          "x": "Google has picked up the pace on embedding AI across digital experiences. This week, AI Mode search gained new integrations with Canva, YouTube Music and Instacart, rolling out gradually in the US."
+        },
+        {
+          "t": "p",
+          "x": "On the music side, the core feature is YouTube Music. Users just ask in natural language for a playlist to be made. Tell it the genre and mood you want, and Gemini connects to YouTube Music to surface a recommended playlist right in the chat window, ready to play in the app."
+        },
+        {
+          "t": "p",
+          "x": "The Canva integration generates design templates within AI Mode. Google cited a party flyer as an example, pulling in calendar event details to suggest a design that fits the occasion."
+        },
+        {
+          "t": "p",
+          "x": "The Instacart feature lets users add groceries and ingredients to a cart within the app. It builds a shopping list by referencing saved calendar events like a barbecue."
+        },
+        {
+          "t": "p",
+          "x": "Google said it is continuing to add more integration partners. The Personal Intelligence feature, which pulls in information from connected apps, launched earlier this year and has expanded its scope throughout 2026."
+        },
+        {
+          "t": "p",
+          "x": "AI Mode has also recently added a Reddit integration for firsthand reviews, along with a redesigned intelligent search bar that lets users ask complex questions using video, images, files and even Chrome tabs."
+        }
+      ]
+    },
+    "music/deezer-ai-flood": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In June 2026, AI-generated tracks made up more than half of Deezer's daily new uploads for the first time, about 90,000 tracks a day. That is sharply up from 75,000 in April."
+        },
+        {
+          "t": "p",
+          "x": "Deezer said up to 85% of the streams coming from these tracks were manipulated. It is filtering out AI tracks used to inflate stream counts, as well as tracks with zero plays in six months."
+        },
+        {
+          "t": "p",
+          "x": "It is a concrete figure showing how generative AI is reshaping what gets uploaded to streaming and how listeners encounter music."
+        }
+      ]
+    },
+    "music/izotope-vea": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "iZotope is giving away VEA, a vocal correction plugin normally priced at $29. It compresses the AI processing from RX, Ozone, and Nectar into three knobs: Clean removes noise, Shape adjusts tone, and Boost brings out presence."
+        },
+        {
+          "t": "p",
+          "x": "It targets podcasters, streamers, and producers who want RX-level cleanup without a complicated interface, lowering the barrier to machine-learning-based audio tools."
+        },
+        {
+          "t": "p",
+          "x": "The free period runs through July 31, 2026, opening alongside Boris FX's acquisition of iZotope."
+        }
+      ]
+    },
+    "music/bandlab-aiode": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BandLab Technologies has acquired AI music studio Aiode. Aiode is a studio built on a fully licensed audio-to-audio model developed together with professional session musicians and producers."
+        },
+        {
+          "t": "p",
+          "x": "With this acquisition, Aiode becomes the company's third music production platform after BandLab and Cakewalk. The key point is opening up consent-based generative tools to a broader base of creators."
+        }
+      ]
+    },
+    "music/gema-plai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "German copyright body GEMA has officially launched PLAI, a music dataset and licensing system for AI developers. It covers roughly 180,000 recordings across more than 60 genres."
+        },
+        {
+          "t": "p",
+          "x": "Rather than models trained on unauthorized scraping, it's infrastructure meant to support AI music generation that is legally clean and consent-based."
+        }
+      ]
+    },
+    "music/tonefield-grid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Developer and musician Matt Goodluck unveiled a new software instrument, Tonefield."
+        },
+        {
+          "t": "p",
+          "x": "Goodluck said he drew inspiration from the now-unavailable old app Tonepad Pro. He said, “I rebuilt the concept from the ground up and expanded it into a modern instrument, releasing it as Tonefield.”"
+        },
+        {
+          "t": "p",
+          "x": "Tonefield keeps the minimal, pattern-based workflow that made Tonepad addictive, while adding features such as selectable scales and modes, probability that evolves patterns, live performance recording, MIDI export, audio export, and pattern management."
+        },
+        {
+          "t": "p",
+          "x": "Tap dots on the grid and hit play, and the music unfolds. Using the probability controls makes the pattern change every time the loop cycles."
+        },
+        {
+          "t": "p",
+          "x": "The feature set includes the original Tonefield Classic sound engine with pure sine-wave synthesis and precise decay, a 16x16 step sequencer with an amber-dot interface, per-column probability, 13 scales including 7 modes and pentatonic variants, all 12 keys, BPM 40–180, velocity and gate controls, a delay with time, feedback, filter, and mix, and 8 named pattern save slots."
+        },
+        {
+          "t": "p",
+          "x": "Live playing is recorded as WAV, capturing probability-driven variation in real time, and patterns can be exported as MIDI to any DAW, including Logic Pro and GarageBand. Audio is saved as WAV or MP3, and live MIDI is sent to the DAW while a pattern plays. There are also transformation tools like flip, rotate, shift, and randomize."
+        },
+        {
+          "t": "p",
+          "x": "Tonefield is available now for $14.99."
+        }
+      ]
+    },
+    "music/sonyudio2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sony Music has sued the music AI company Udio again. After a bid to expand its existing lawsuit was blocked, it filed an entirely separate new complaint. More than 30,000 recordings are now at stake, and if Sony wins, statutory damages could exceed $4.5 billion."
+        },
+        {
+          "t": "p",
+          "x": "Judge Alvin K Hellerstein ruled that expanding the complaint now would “substantially prejudice” Udio. But he added that Sony could enforce its rights over every recording it claims was infringed, and nothing required it to do so in this lawsuit. Sony read that line as permission to sue separately."
+        },
+        {
+          "t": "p",
+          "x": "Two years ago, Sony sued Udio alongside Universal Music and Warner Music. Both of those labels later settled and signed licensing deals. Only 333 recordings were named in the first lawsuit; the remaining 30,000-plus have now surfaced in this one."
+        },
+        {
+          "t": "p",
+          "x": "The new complaint makes three arguments. Udio scraped recordings from YouTube through “illegal ‘stream ripping.’” AI-generated music floods the market and cheapens music made by humans. And fair use does not apply. As a final point, Sony wrote that what Udio produces is machine-imitated music, not human creation."
+        },
+        {
+          "t": "p",
+          "x": "Sony is using Universal’s and Warner’s licensing deals as leverage. The logic: an AI music licensing market is already running, which means Udio itself has effectively admitted it needs permission."
+        }
+      ]
+    },
+    "music/flow-music-spaces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google has expanded the Flow Music platform, adding song generation, editing, and stem separation to Spaces, its “vibe coding” tool."
+        },
+        {
+          "t": "p",
+          "x": "Musicians can now make a song, swap out a specific verse, separate vocals, extend a track, and pull out album art, lyrics, and video, all within a single workspace."
+        },
+        {
+          "t": "p",
+          "x": "All of this runs on Lyria 3 Pro layered with Gemini, Veo, and Nano Banana."
+        }
+      ]
+    },
+    "music/stem-separation-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicTech tested nine leading AI stem-separation tools, and performance varied widely by song and instrument."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro led on fast, everyday separation, while MVSEP had the edge on difficult vocals and the hardest-to-isolate parts."
+        },
+        {
+          "t": "p",
+          "x": "As of 2026, it serves as a practical map of where neural source separation actually helps producers."
+        }
+      ]
+    },
+    "music/karst": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Team Exile has previewed Karst, a digital modular environment that makes music through systems and algorithmic composition."
+        },
+        {
+          "t": "p",
+          "x": "It comes with a node editor, cableless patching, and cloud sync. Every instrument carries an event core."
+        },
+        {
+          "t": "p",
+          "x": "Thanks to the event core, you can hand-write generative algorithms directly, without wrestling with event scheduling or polyphony."
+        }
+      ]
+    },
+    "music/lyria-35": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google has tuned its AI music generation model and released Lyria 3.5 inside Flow Music. It's an upgrade aimed squarely at Suno."
+        },
+        {
+          "t": "p",
+          "x": "DeepMind says the new model is markedly better across musicality, lyrics and vocal quality overall. Vocals sound more realistic with real emotional texture, and diction is noticeably clearer."
+        },
+        {
+          "t": "p",
+          "x": "Melodic structure is also richer and more natural, raising the bar for vocal quality that producers will face starting tomorrow."
+        }
+      ]
+    },
+    "music/silt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tunery Instruments has released Silt, a “generative tape loop instrument.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Four short melodic loops of different lengths pass through an emulated tape machine, slowly drifting out of phase."
+        },
+        {
+          "t": "p",
+          "x": "That produces an ever-shifting ambient pattern, built for producers chasing vintage warmth."
+        }
+      ]
+    },
+    "music/vochlea-dubbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vochlea's new app, Dubbox, uses machine learning to turn beatboxing into real-time, sample-based drum loops."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The app learns up to eight of a user's vocal hits, then triggers drum samples that respond to velocity."
+        },
+        {
+          "t": "p",
+          "x": "The “Voice Warping” feature snaps a played take to the grid while keeping the feel of the original performance."
+        }
+      ]
     }
   }
 }

@@ -1551,6 +1551,701 @@
           "x": "Aun así, este método no elimina los errores cuánticos ni demuestra un ordenador cuántico plenamente tolerante a fallos. Como el aprendizaje explora deliberadamente configuraciones de hardware, esa exploración debe controlarse para que no perjudique algoritmos reales de larga duración. Parte de la deriva más rápida todavía supera la capacidad de seguimiento del aprendizaje."
         }
       ]
+    },
+    "science/san-andreas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo del Centro Alemán de Geociencias GFZ Helmholtz utilizó inteligencia artificial para detectar en la falla de San Andrés, en California, un deslizamiento lento hasta ahora oculto, un llamado evento “silencioso”."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También se confirmó que, tras este fenómeno de movimiento lento y progresivo de la falla, la actividad sísmica aumenta de forma notable. Se abre así una nueva ventana basada en IA para observar las señales previas a los terremotos."
+        }
+      ]
+    },
+    "science/supercooled-water": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de la Universidad de Osaka entrenó un modelo de IA con simulaciones de dinámica molecular. El objetivo era evaluar 16 métricas estructurales para encontrar la mejor manera de distinguir los dos estados líquidos del agua que compiten entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Este trabajo ayuda a localizar el “punto crítico” oculto dentro del agua superenfriada. También aclara de dónde proceden muchas de las propiedades extrañas del agua."
+        }
+      ]
+    },
+    "science/thermo-computing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ha surgido un intento de reconstruir, desde la física, las bases del hardware moderno de IA. Quanta Magazine analiza las computadoras termodinámicas. Estos chips, creados por las startups Normal Computing y Extropic, no suprimen las fluctuaciones térmicas ni el ruido, sino que los aprovechan para el cálculo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "Su promesa es que esto permitiría ejecutar los algoritmos de IA generativa con mucha menos energía que ahora. Es decir, seguir el flujo del calor en lugar de oponerse a él. Es un enfoque que repiensa, desde la física, el propio sustrato de hardware que sostiene a la IA moderna."
+        }
+      ]
+    },
+    "science/biosignature-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El reconocimiento de patrones es uno de los ladrillos más básicos de la cognición humana. Puede hacer que reaccionemos de inmediato ante una amenaza, o funcionar de forma lenta y persistente, como cuando un científico rastrea reglas en una enorme cantidad de datos. El problema es cuando falla. Como la pareidolia, que hace ver caras humanas en las rocas, ver patrones que no existen es algo común. La IA también se sostiene, en esencia, sobre el reconocimiento de patrones, y un nuevo estudio afirma que el reconocimiento de patrones de la IA falla de la misma manera, precisamente en la tarea de detectar vida."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg",
+          "cap": "Buscar vida, o rastros de vida pasada, en algún lugar del sistema solar impulsa buena parte de la exploración espacial actual. Pero no existe una biofirma química decisiva en la que confiar. En su lugar, las futuras misiones planean usar IA para buscar moléculas que manejen información y se repliquen a sí mismas. Un nuevo estudio afirma que ese método está lleno de falsos positivos. Image Credit: NASA"
+        },
+        {
+          "t": "p",
+          "x": "“Can AI Detect Life? Lessons from Artificial Life”, escrito por Ankit Gupta y Christoph Adami, de la Universidad Estatal de Michigan, se presentará en la 2026 Conference on Artificial Life, que se celebrará en agosto en Waterloo, Canadá. Los dos autores escribieron que las muestras extraterrestres probablemente queden fuera de la distribución formada por las muestras biológicas y no biológicas de la Tierra, por lo que detectar vida con IA tiende a producir muchos falsos positivos. La razón es que las técnicas modernas de machine learning se engañan fácilmente con muestras fuera de distribución. Es la misma historia de un clasificador entrenado solo con perros y gatos que se encuentra con un caballo, trasladada al nivel molecular."
+        },
+        {
+          "t": "p",
+          "x": "Como no existe una biofirma química universal, hay una corriente que busca pistas en las propiedades básicas de la vida. Una de ellas es la propiedad de portar información, dijo el coautor Adami en un comunicado de prensa. Así como el ADN porta y transmite información en forma de cadena, los investigadores pusieron a prueba qué tan bien podía la IA distinguir entre moléculas capaces de manejar información y las que no lo son."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/PIA25738-scaled_20260714_185915.jpg",
+          "cap": "Parte de los tubos de muestra que el róver Perseverance ha recolectado hasta ahora. Algún día regresarán a la Tierra. ¿Qué pasaría si un róver futuro recolectara muestras mientras usa IA para juzgar evidencia de vida? Ese método probablemente se vería acosado por falsos positivos, y es probable que se necesiten verificadores humanos. Image Credit: NASA/JPL-Caltech/MSSS"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta experimental fue Avida, una plataforma de vida digital donde programas informáticos autorreplicantes mutan y evolucionan mientras compiten por recursos. Los investigadores crearon decenas de miles de organismos digitales, divididos entre los que tenían una instrucción de replicación y los que no, y la red neuronal distinguió entre ambos dentro de esta distribución con un 99.7% de precisión. El problema vino después. Al tomar un organismo que la red reconocía fácilmente como incapaz de replicarse y sustituir poco a poco el código que bloqueaba la replicación, la red empezó a tambalearse. Con solo 150 ediciones, llegó a estar segura de haber encontrado vida en un organismo que seguía sin poder replicarse. “En todas las ejecuciones, el modelo alcanzó una confianza de spoofing del 100% en 150 consultas al modelo”, escribieron los autores. Gupta dijo que pudo engañar al modelo el 100% de las veces sin importar la secuencia de instrucciones desde la que partiera, y Adami añadió que, como hay tantas secuencias capaces de engañarlo, la probabilidad de encontrarse con una de ellas también es considerable."
+        }
+      ]
+    },
+    "science/claude-jamming": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dos físicos se sentaron con IA generativa y resolvieron un problema que había quedado sin resolver durante más de una década. La solución se publicó el 1 de julio en el Journal of Statistical Mechanics: Theory and Experiment. El tema es el jamming, la transición en la que un sistema de tipo fluido se congela de repente mientras sigue desordenado. Piense en bolas de billar que se van apretando cada vez más hasta que los huecos desaparecen y cada bola queda atrapada por sus vecinas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT.jpg",
+          "cap": "Una ilustración de bolas apiladas en varios niveles. ¿Qué hace que un sistema de tipo fluido pase a un estado de 'jamming' congelado? Los físicos recibieron ayuda de Claude AI para demostrar una respuesta de larga data. (Image credit: Yuuji via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Los autores son Giorgio Parisi, ganador del Premio Nobel de Física en 2021, y Francesco Zamponi, ambos físicos de la Universidad Sapienza de Roma. Junto con colegas, los dos describieron el jamming matemáticamente en un artículo de 2014 y produjeron una solución numérica, descubriendo entonces que los parámetros a y b siempre sumaban 1. a y b determinan cómo escala la distribución de las fuerzas de contacto y los huecos entre bolas cuando un sistema se acerca al punto crítico de jamming. Matthieu Wyart, de la EPFL en Suiza, llegó a la misma relación por un camino completamente distinto, pero durante una década nadie había demostrado matemáticamente que a+b=1."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FNRvfJ2XGBwNFhUBygH7c5.jpg",
+          "cap": "Los investigadores introdujeron 40 prompts en Claude antes de llegar a una solución publicable para el problema del jamming."
+        },
+        {
+          "t": "p",
+          "x": "Al chocar con un muro, Parisi recurrió a Claude, de Anthropic. Después de que Claude reprodujera los resultados numéricos de 2014, le pidió que demostrara a+b=1. Zamponi, que leyó el resultado en un avión, reconoció de inmediato que la idea central del archivo LaTeX que generó Claude era correcta, y dijo a Live Science que en ese momento su propia visión de lo que estos modelos pueden lograr en física teórica cambió significativamente. El resultado inicial mezclaba errores que había que corregir, pero el esqueleto era correcto. Tras 40 prompts, surgió una solución analítica publicable, ya verificada. La solución había estado escondida en las ecuaciones todo el tiempo, sin suposiciones físicas externas ni conexiones profundas entre funciones."
+        },
+        {
+          "t": "p",
+          "x": "Zamponi reconoció que un matemático puro que se dedicara a tiempo completo a este tipo de ecuaciones también podría haber visto la solución, pero lo que le importó fue que Claude le dio acceso instantáneo a entrenamiento matemático y técnicas formales que normalmente quedaban fuera de su propio campo. Si Claude estaba haciendo coincidencia de patrones a partir de la literatura o ejerciendo algo parecido a la creatividad no le importa. “No podíamos ver el camino a seguir, y Claude sí.” Ahora aplica el mismo enfoque al problema de la “adición secuencial aleatoria de hiperesferas duras”. Su conclusión es que la IA acelera enormemente la escritura y optimización de código, pero los conceptos en su mayoría siguieron viniendo de él, y que, al menos en este caso, la guía humana sigue siendo indispensable."
+        }
+      ]
+    },
+    "science/claude-science": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Science, de Anthropic, tiene la mirada puesta en Kendall Square. El subtítulo señala que el ecosistema biomédico de Cambridge y Boston, Massachusetts, tiene mucho en juego. Robert Weisman, del Boston Globe, lo escribió para STAT el 14 de julio de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2261973888.jpg",
+          "cap": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El argumento de la introducción publicada es el siguiente. Este año, la IA se ha convertido en un monstruo en toda regla dentro del debate público. Los graduados abuchean a los oradores de graduación que comparan la IA con el consejo de carrera \"plastics\" de la película de 1967 The Graduate, y los trabajadores se ponen en guardia cuando las empresas blanden la IA como un cuchillo de recorte de costos y despidos. Incluso el cauteloso papa León XIV ha advertido sobre fusionar la IA con sistemas de ejecución de guerra nuclear."
+        },
+        {
+          "t": "p",
+          "x": "En un año así, lo que se lanzó en silencio este mes fue Claude Science. Es una aplicación que adapta el modelo de lenguaje a gran escala de Anthropic para laboratorios biofarmacéuticos, y el punto de partida del autor es que recuerda, de forma oportuna, que a la IA todavía le queda trabajo por hacer más allá de los despidos corporativos y las amenazas a la civilización."
+        },
+        {
+          "t": "p",
+          "x": "Este artículo es solo para suscriptores de STAT+, así que el texto se corta aquí. No se pudo confirmar lo que sigue."
+        }
+      ]
+    },
+    "science/feedback-brain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Illinois Urbana-Champaign han presentado evidencia que podría sacudir a la vez la forma en que vemos el cerebro y la IA. Las decisiones comienzan en una etapa mucho más temprana de lo que sostiene la teoría existente, y de ahí surgen pistas para diseños de IA más capaces que, además, consumen mucha menos energía."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
+          "cap": "Los científicos descubrieron que el cerebro empieza a tomar decisiones antes de lo esperado, un hallazgo que podría redibujar el futuro de la IA. Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "El estudio, dirigido por Yurii Vlasov, profesor de ingeniería eléctrica e informática en el Grainger College of Engineering, se publicó en Proceedings of the National Academy of Science (PNAS). El hallazgo de que las áreas sensoriales tempranas cumplen un papel inesperadamente grande en las decisiones va en contra de la vieja suposición de que la decisión surge solo después de que la información atraviesa por completo una jerarquía estricta de regiones cerebrales."
+        },
+        {
+          "t": "p",
+          "x": "Muchos sistemas de IA, incluidas las redes neuronales convolucionales, partieron de la idea de que el cerebro envía la información en una sola dirección: la información sensorial sube a través de regiones cada vez más complejas hasta llegar a la corteza frontal, donde se toma la decisión. Vlasov y otros investigadores han dudado cada vez más de que esta imagen sea toda la historia. En su lugar, observan modelos de inteligencia natural pulidos por cientos de millones de años de evolución. Aquí, el cerebro no depende únicamente de la transmisión por etapas. Los circuitos de retroalimentación que van y vienen entre regiones también participan en las decisiones. Como la inteligencia biológica realiza tareas complejas con mucha menos energía que la IA actual, entender esta arquitectura podría orientar el desarrollo futuro de la IA."
+        },
+        {
+          "t": "p",
+          "x": "“Queremos aprender de mil millones de años de evolución”, dijo Vlasov. “¿Cómo está estructurada esa inteligencia biológica? ¿Podemos aprender la arquitectura del cerebro e imitarla para hacer que la IA sea más eficaz, consuma menos electricidad y sea más inteligente que ahora? El nivel de la toma de decisiones es precisamente donde la IA actual se queda corta.”"
+        },
+        {
+          "t": "p",
+          "x": "El equipo registró la actividad neuronal de ratones que tomaban juicios perceptuales mientras recorrían un pasillo de realidad virtual. Se detectó actividad relacionada con la decisión en la corteza somatosensorial primaria (S1), una de las áreas de procesamiento sensorial más tempranas del cerebro. S1 parecía estar influida por circuitos de retroalimentación de regiones superiores, en lugar de limitarse a transmitir información hacia adelante. Eso sugiere que las decisiones se forman no como un flujo unidireccional, sino dentro de una conversación continua entre varias regiones."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores dejan claro que este estudio no es un plano para una IA mejor. Solo ofrece una nueva perspectiva sobre cómo el cerebro organiza las decisiones, con la posibilidad de que algún día inspire la arquitectura de la IA. Como siguiente paso, el equipo de Vlasov planea profundizar en la sincronización de las señales neuronales y desarrollar nuevas técnicas de medición de la actividad neuronal para ver cómo surgen los circuitos de retroalimentación y cómo coordinan varias capas de procesamiento."
+        }
+      ]
+    },
+    "science/baker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Este artículo mira dentro del instituto de diseño de proteínas que dirige David Baker. El laboratorio, con unos 100 investigadores, comparte un conjunto de herramientas de aprendizaje profundo al que llaman “cerebro colectivo” abierto."
+        },
+        {
+          "t": "p",
+          "x": "RFdiffusion y las herramientas que lo sucedieron están en el centro. Ahora las proteínas se diseñan desde cero, con precisión hasta el átomo."
+        },
+        {
+          "t": "p",
+          "x": "Este tipo de diseño de proteínas con IA está rehaciendo cómo la biotecnología crea anticuerpos, enzimas y medicamentos."
+        }
+      ]
+    },
+    "science/goflow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El flujo en la superficie del mar es una fuerza importante que mueve el clima de la Tierra, pero hasta ahora era difícil observarlo por completo solo con mediciones. GOFLOW, desarrollado por investigadores de la Universidad de Tel Aviv, es un sistema de IA que reconstruye este flujo oculto directamente a partir de imágenes satelitales."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GOFLOW aprende de imágenes satelitales ya existentes y extrae de ellas el movimiento de las corrientes oceánicas superficiales. Su rasgo distintivo es que obtiene información dinámica antes difícil de conseguir a partir de datos ya existentes, sin necesidad de nuevas observaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores explicaron que esta información de flujo recuperada hace más precisos los datos de entrada para las previsiones climáticas. Sin aumentar las observaciones, abre un camino para entender más a fondo el clima de la Tierra con los datos que ya se tienen."
+        }
+      ]
+    },
+    "science/openadmet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se celebró un concurso público de IA para predecir el metabolismo de fármacos. El reto era determinar si un compuesto dado activa el receptor PXR, que elimina del cuerpo cerca de la mitad de los medicamentos comerciales."
+        },
+        {
+          "t": "p",
+          "x": "El resultado: 28 equipos empataron estadísticamente en el primer lugar. La startup Inductive Bio se adelantó por un margen mínimo."
+        },
+        {
+          "t": "p",
+          "x": "El resultado muestra que, en el descubrimiento de fármacos con IA, lo que marca el rendimiento no es el tamaño del modelo sino la calidad del dato. Esto podría cambiar cómo este campo evalúa los modelos."
+        }
+      ]
+    },
+    "science/denning-critique": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "IA que quizá no piensa como los humanos"
+        },
+        {
+          "t": "p",
+          "x": "El científico informático Peter J. Denning sostiene que la visión de Alan Turing sobre la inteligencia artificial pudo haber llevado por mal camino 75 años de investigación en IA."
+        },
+        {
+          "t": "p",
+          "x": "En su nuevo libro 『Turing's Mistake: Escaping the Yoke of Unintelligent Machines』, Denning sostiene que dos supuestos fundamentales que Turing estableció en 1950 siguen gobernando hoy la investigación en IA. El primero es que la inteligencia puede reproducirse en software informático sin depender de un cuerpo físico; el segundo es que una máquina puede mostrar inteligencia simplemente imitando a un humano en una conversación, lo que luego se conoció como el test de Turing."
+        },
+        {
+          "t": "p",
+          "x": "«Estas dos afirmaciones han dado forma a gran parte de la investigación y el desarrollo de la IA», escribe Denning. «Mi premisa es que aceptar estas afirmaciones es lo que nos ha llevado al lío de IA en el que estamos hoy». Advierte que perseguir la inteligencia artificial general (AGI) difícilmente tendrá éxito, y que esta tecnología podría en cambio traer consigo grandes riesgos nuevos."
+        },
+        {
+          "t": "p",
+          "x": "En el centro de su argumento está el conocimiento tácito: el vasto cuerpo de comprensión humana que resulta difícil de expresar en palabras o de procesar para una computadora. Denning dice que el aprendizaje automático no logra captar cinco ramas del conocimiento tácito: el sentido común, la interacción cotidiana con personas y entornos, la emoción y la percepción, las habilidades prácticas de desempeño, y el conocimiento social e histórico arraigado en la cultura."
+        },
+        {
+          "t": "p",
+          "x": "Los intentos de organizar el sentido común en una base de datos se remontan a mucho tiempo atrás. El proyecto Cyc de Douglas Lenat se propuso en la década de 1980 construir una vasta colección de hechos de sentido común, y tras 40 años de trabajo ha acumulado unas 25 millones de entradas. Denning señala que «ni siquiera este tesoro ha proporcionado una base de sentido común que haga a los sistemas expertos tan inteligentes como expertos reales», y apunta que buena parte del conocimiento que convierte a una persona en experta no puede reducirse a proposiciones."
+        },
+        {
+          "t": "p",
+          "x": "La habilidad práctica es un desafío aún mayor. Pone como ejemplo a los violinistas. «Un virtuoso puede tocar música hermosa sin poder explicarle a un alumno cómo la produce. Aunque un robot observe e imite a una persona experta, un robot sin cuerpo biológico no puede captar lo que siente el intérprete al producir música hermosa». Denning considera que todas estas limitaciones derivan de un ‘problema de representación’: las computadoras solo pueden calcular con datos codificados, y el conocimiento tácito no se ajusta a ese marco."
+        },
+        {
+          "t": "p",
+          "x": "«Detrás de cada palabra hay un profundo pozo de conocimiento tácito que sostiene su significado», dice Denning. «Los modelos de lenguaje de gran escala de uso común, como ChatGPT, Claude y Gemini, solo manejan palabras: no saben ni entienden el significado de lo que dicen». Explica que la inteligencia depende en gran medida del contexto, y que indagar ese contexto retrocede sin fin hacia conversaciones anteriores. Sin importar cuánto crezcan las redes neuronales, los LLM no pueden adquirir el conocimiento humano encarnado que llamamos cultura, ni alcanzar el objetivo del test de Turing."
+        },
+        {
+          "t": "p",
+          "x": "Denning concluye que los humanos y la IA podrían acabar con conocimientos tácitos distintos que ninguno pueda entender en el otro. «Las máquinas no pueden leer nuestro conocimiento tácito, y nosotros no podemos leer el suyo. Somos extraños separados por un abismo infranqueable». Argumenta que si las máquinas no pueden leer el contexto detrás de la intención humana, alinear una IA avanzada con los objetivos humanos podría volverse imposible, y que una amenaza mayor que el dominio de una superinteligencia es una red de inteligencia de máquinas que, sin alcanzar el nivel humano, sigue causando problemas graves."
+        }
+      ]
+    },
+    "science/k2-18b-seti": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
+          "cap": "Representación artística del exoplaneta K2-18b"
+        },
+        {
+          "t": "p",
+          "x": "K2-18b es uno de los exoplanetas que más atención ha atraído últimamente. Orbita en la zona habitable de una enana roja a unos 124 años luz de distancia, en dirección a Leo. Las observaciones del Telescopio Espacial James Webb revelaron una atmósfera rica en dióxido de carbono y metano, lo que lo convierte en un candidato a planeta 'Hycean', donde una atmósfera espesa de hidrógeno envuelve un océano de agua líquida."
+        },
+        {
+          "t": "p",
+          "x": "Por la posibilidad de albergar condiciones favorables para la vida, K2-18b se convirtió en un objetivo clave de la Búsqueda de Inteligencia Extraterrestre (SETI). Los investigadores rastrearon señales de radio artificiales con dos de los radiotelescopios más potentes del mundo. Según los resultados publicados en The Astronomical Journal, las observaciones captaron millones de señales candidatas, pero no se encontró evidencia de señales de radio de banda angosta comparables a la tecnología terrestre actual."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto combinó datos del Very Large Array Karl G. Jansky (VLA) en Nuevo México y de MeerKAT en Sudáfrica. Combinar instalaciones de esta escala en una sola campaña de observación es muy poco frecuente, lo que permitió un barrido especialmente sensible del sistema K2-18b."
+        },
+        {
+          "t": "p",
+          "x": "Tan importante como las observaciones fue el sistema de procesamiento que filtró la enorme cantidad de señales de radio registradas. Como los radiotelescopios reciben constantemente señales originadas en la Tierra, los investigadores primero eliminan la interferencia con software sofisticado. El VLA usó el sistema COSMIC (Commensal Open Source Multi Mode Interferometer Cluster), y MeerKAT usó el sistema BLUSE (Breakthrough Listen User Supplied Equipment)."
+        },
+        {
+          "t": "p",
+          "x": "Luego, los investigadores usaron cinco métodos de selección para buscar rastros de una civilización tecnológica. Primero aplicaron un enmascaramiento de interferencia de radiofrecuencia (RFI) para eliminar bandas ya muy contaminadas por transmisiones humanas. También consideraron el efecto Doppler: como las señales de radio que viajan entre planetas deben mostrar un corrimiento Doppler, las señales con poco o ningún cambio se consideraron de origen terrestre y se descartaron."
+        },
+        {
+          "t": "p",
+          "x": "También se filtraron las señales con una relación señal-ruido menor a 10 o mayor a 100. En el análisis multihaz, los telescopios formaron varios haces enfocados a la vez, uno apuntando a K2-18b y otro a otra parte del cielo; una señal real solo debería aparecer en el haz dirigido a K2-18b. El filtrado de tránsito final consiste en ver si una señal desaparece cuando el planeta pasa detrás de su estrella, pero esta observación no tuvo ese 'tránsito secundario', así que no se utilizó."
+        },
+        {
+          "t": "p",
+          "x": "Surgieron millones de señales candidatas, pero ninguna pasó todas las etapas. Aun así, la observación permitió establecer un 'límite superior' para la potencia de cualquier transmisor de radio que pudiera existir en el sistema K2-18b, un límite comparable aproximadamente a la potencia de transmisión de la instalación de radar de Arecibo en Puerto Rico, hoy colapsada."
+        },
+        {
+          "t": "p",
+          "x": "Sobre todo, este proyecto demostró que los sistemas automatizados de procesamiento de datos pueden manejar la enorme cantidad de señales que generan las observaciones modernas de SETI. El valor de estas técnicas crecerá aún más cuando entren en funcionamiento futuros observatorios como el Square Kilometer Array. K2-18b está en silencio por ahora, pero la capacidad de detectar rastros de tecnología más allá del sistema solar sigue mejorando."
+        }
+      ]
+    },
+    "science/scent-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
+          "cap": "Árbol filogenético de plantas aromáticas. Las barras verdes marcan familias ricas en moléculas aromáticas que favorecen el sueño"
+        },
+        {
+          "t": "p",
+          "x": "Científicos de alimentos de la Universidad Nacional de Singapur (NUS) usaron aprendizaje automático para examinar más de 2.300 moléculas aromáticas de plantas, y seleccionaron compuestos con potencial para ayudar a dormir. El enfoque podría acelerar el descubrimiento de ayudas naturales para el sueño."
+        },
+        {
+          "t": "p",
+          "x": "El sueño es esencial para la salud, el aprendizaje y el bienestar diario, pero los problemas de sueño afectan a hasta un tercio de la población mundial. Los medicamentos para dormir ayudan a algunos pacientes, pero tienen efectos secundarios y no son adecuados para todos, lo que ha impulsado la búsqueda de alternativas. Las plantas aromáticas, desde la lavanda hasta la albahaca, se han usado desde hace mucho para ayudar a relajarse, pero hasta ahora ha sido difícil determinar qué moléculas aromáticas realmente influyen en el sueño."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo liderado por el profesor asistente Zhang Dachuan, del Departamento de Ciencia y Tecnología de los Alimentos de la NUS, se propuso encontrar estas moléculas con un enfoque basado en datos que combina IA con una enorme cantidad de datos de química vegetal. En el estudio, publicado en la portada de la revista Digital Discovery, el equipo creó una biblioteca depurada de 2.391 moléculas aromáticas procedentes de 991 especies de plantas aromáticas, y entrenó un modelo de aprendizaje automático para reconocer patrones vinculados a la actividad que favorece el sueño. El trabajo se realizó en colaboración con el profesor Kou Xingran, del Shanghai Institute of Technology, en China."
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, el modelo alcanzó una precisión del 96.1%, distinguiendo en gran medida los compuestos que ayudan a dormir de los que no. También señaló cientos de moléculas aromáticas de plantas como candidatos prometedores. Para comprobar si las predicciones del ordenador se traducían en efectos biológicos reales, el equipo seleccionó cinco moléculas disponibles comercialmente para probarlas. De ellas, cuatro —carvacrol, safranal, vanilina y metileugenol— redujeron la vigilia y aumentaron la etapa de sueño reparador conocida como sueño no REM."
+        },
+        {
+          "t": "p",
+          "x": "Estas moléculas también actuaron sobre los receptores GABA, el principal sistema de señalización calmante del cerebro y un objetivo conocido de los medicamentos para dormir existentes. Es una pista temprana de cómo ciertos aromas vegetales intervienen en las vías relacionadas con el sueño."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de las moléculas individuales, el equipo también clasificó las familias y especies de plantas ricas en moléculas aromáticas prometedoras. Entre las 991 especies de plantas aromáticas analizadas, destacaron Asteraceae, Lamiaceae y Lauraceae, y especies como la lavanda y la perilla fueron señaladas para estudios adicionales."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-maps-plant-compound.jpg",
+          "cap": "La IA traza un mapa de compuestos vegetales"
+        },
+        {
+          "t": "p",
+          "x": "Este resultado no es, de inmediato, un producto de sueño terminado. Se parece más a un 'mapa práctico' que señala direcciones prometedoras para futuras investigaciones. El enfoque muestra que la IA puede acelerar el descubrimiento de ingredientes naturales para productos de salud, alimentos funcionales, fragancias y aplicaciones de bienestar."
+        },
+        {
+          "t": "p",
+          "x": "El profesor asistente Zhang dijo: «Mucha gente asocia los aromas vegetales calmantes con un mejor sueño, pero entender qué moléculas cumplen ese papel y de qué mecanismo proviene el efecto requiere pruebas más sólidas». Añadió que el objetivo es convertir el conocimiento tradicional en una guía para desarrollar productos relacionados con el sueño más seguros y específicos."
+        },
+        {
+          "t": "p",
+          "x": "La investigación futura examinará la seguridad a largo plazo, la interacción entre varias moléculas aromáticas cuando se combinan, y si los mismos efectos se mantienen en estudios biológicos y humanos más amplios."
+        }
+      ]
+    },
+    "science/aiscaffold": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del Broad Institute confirmaron que es mejor iniciar la evolución de proteínas en laboratorio no a partir de una proteína natural, sino de una proteína más estable diseñada por IA. El andamiaje diseñado por IA abrió más espacio para que la proteasa adquiriera nuevas mutaciones."
+        },
+        {
+          "t": "p",
+          "x": "El equipo reprogramó una proteasa de la neurotoxina botulínica para dirigirse a ataxin-2 y obtuvo un rendimiento 79 veces mejor que la versión de origen natural."
+        },
+        {
+          "t": "p",
+          "x": "El resultado muestra que el diseño generativo de proteínas y la evolución dirigida no son herramientas que compiten entre sí, sino que se complementan para crear enzimas terapéuticas."
+        }
+      ]
+    },
+    "science/camulator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de NSF NCAR están construyendo emuladores de IA para el clima y el tiempo, como CAMulator. Reproducen modelos atmosféricos complejos con un costo de cálculo unas 350 veces menor, generando con rapidez pronósticos subestacionales de 2 a 8 semanas."
+        },
+        {
+          "t": "p",
+          "x": "Una vez entrenado, el emulador puede producir simulaciones largas usando solo una fracción del tiempo que necesitaría un modelo físico en una supercomputadora."
+        },
+        {
+          "t": "p",
+          "x": "Esta investigación apunta al vacío entre el pronóstico del tiempo y la predicción climática estacional, en particular el tramo de 2 a 8 semanas, conocido por su dificultad."
+        }
+      ]
+    },
+    "science/gyrotron": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Laboratorio de Física del Plasma de Princeton (PPPL) lidera el proyecto Genesis Mission. Se trata de construir un sistema de IA que opera de forma autónoma los girotrones usados para calentar el plasma de fusión, junto con simulaciones virtuales del hardware."
+        },
+        {
+          "t": "p",
+          "x": "Este trabajo forma parte de un plan nacional de Estados Unidos para aplicar la IA al descubrimiento científico en energía de fusión."
+        },
+        {
+          "t": "p",
+          "x": "El control autónomo del hardware de calentamiento es un paso hacia un futuro en el que la IA gestione y opere los reactores de fusión."
+        }
+      ]
+    },
+    "science/selfdrivinglab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Tohoku construyeron un sistema basado en IA. Combina una base de datos de materiales, potenciales interatómicos de aprendizaje automático, grandes modelos de lenguaje, agentes de IA inteligentes y experimentos automáticos en un único bucle de retroalimentación continuo, al que el equipo llama el 'paradigma 4+.'"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados experimentales se incorporan de nuevo para refinar las predicciones de la IA, y repetir este proceso reduce mucho el tiempo necesario para encontrar materiales energéticos avanzados."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque de laboratorio autónomo apunta al cuello de botella de ensayo y error que durante mucho tiempo ha persistido en la ciencia de materiales."
+        }
+      ]
+    },
+    "science/deeptimegate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El DeepTimeGate, presentado por investigadores de la UCLA, es un marco de aprendizaje automático basado en principios físicos que reconstruye imágenes vistas a través de medios que dispersan la luz. Combina una red neuronal de reconstrucción, que genera la imagen, con un segundo algoritmo que compara el resultado con las leyes físicas básicas en tiempo real para comprobar que no se contradicen."
+        },
+        {
+          "t": "p",
+          "x": "Al usar las leyes físicas como una especie de salvaguarda, fue posible obtener imágenes nítidas con cámaras económicas, sin necesidad de equipos costosos. Los investigadores consideran que este método también podría aplicarse a la imagenología médica y a la detección en vehículos autónomos."
+        }
+      ]
+    },
+    "science/oled-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Nagoya combinaron el aprendizaje automático con la química cuántica para buscar un material OLED azul eficiente. Primero entrenaron un modelo con los resultados de cálculos de química cuántica de 1.000 moléculas, y luego usaron ese modelo para filtrar más de 17.000 compuestos candidatos."
+        },
+        {
+          "t": "p",
+          "x": "Al dejar que la IA preseleccionara los candidatos, se redujo mucho el costo de cálculo, y los emisores prometedores así elegidos se verificaron de nuevo mediante experimentos. Los investigadores consideran que este tipo de cribado generativo puede acelerar considerablemente la búsqueda de nuevos materiales."
+        }
+      ]
+    },
+    "science/qewc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "QEWC, presentado por los investigadores, es un marco de aprendizaje automático cuántico que usa la geometría cuántica para evitar el 'olvido catastrófico'. El olvido catastrófico es cuando un modelo pierde las capacidades aprendidas anteriormente mientras aprende una nueva tarea."
+        },
+        {
+          "t": "p",
+          "x": "QEWC ancla firmemente el aprendizaje a la geometría de los estados cuánticos. Así, aunque la IA cuántica aprenda varias tareas una tras otra, puede conservar intacto todo lo acumulado hasta entonces."
+        }
+      ]
+    },
+    "science/argomoc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores usaron inteligencia artificial para analizar 20 años de datos de flotadores oceánicos y leer una nueva imagen de la circulación atlántica. Unos 4.000 flotadores de perfilado Argo autónomos han mantenido las observaciones desde el inicio del programa, descendiendo con regularidad hasta 2.000 metros de profundidad y transmitiendo datos de temperatura, salinidad y presión por satélite."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
+          "cap": "Las boyas Argo descienden hasta 2.000 metros de profundidad y vuelven a la superficie, registrando datos de temperatura, salinidad y presión. Crédito: Cristian Clauwers"
+        },
+        {
+          "t": "p",
+          "x": "El estudio, publicado en Ocean Science, se centra en la circulación de vuelco meridional del Atlántico (AMOC). El artículo describe esta circulación como «un enorme sistema de circulación, como una cinta transportadora, que lleva agua superficial cálida hacia el norte, donde se enfría y se hunde a gran profundidad, para regresar al sur como agua profunda fría»."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores entrenaron un algoritmo de aprendizaje automático con simulaciones oceánicas de alta resolución, combinando datos de observación con cálculos de modelos. Tras hacer que el algoritmo aprendiera los patrones de correlación entre las corrientes y los perfiles de temperatura y salinidad, lo aplicaron a observaciones reales de Argo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-22.jpg",
+          "cap": "Flujo de trabajo para reconstruir la AMOC a partir de perfiles de Argo. Crédito: Ocean Science (2025). DOI: 10.5194/os-21-3541-2025"
+        },
+        {
+          "t": "p",
+          "x": "El autor principal, el doctor Yannick Wölker, dijo: «Combinar el aprendizaje automático con modelos físicos ya establecidos permite extraer más de los datos de observación existentes». Las estimaciones de circulación reconstruidas coincidieron bien con las series y modelos de observación existentes, y resultaron útiles para estimar la intensidad de corrientes a gran escala a partir de observaciones puntuales, en particular para medir el componente geostrófico de la circulación."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, el método no capta suficientemente la variabilidad a corto plazo ni el debilitamiento a largo plazo de la AMOC. Los investigadores subrayaron que el enfoque «no pretende sustituir los sistemas de observación existentes, sino complementarlos y optimizarlos de forma eficaz». El profesor Arne Biastoch dijo: «Los métodos de inteligencia artificial pueden ayudar a tomar de la mejor manera posible las decisiones estratégicas sobre la futura observación oceánica»."
+        }
+      ]
+    },
+    "science/readroom": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este artículo examina si la inteligencia artificial puede leer la dinámica social del trabajo en grupo analizando señales no verbales como el silencio. La investigación muestra que «la inteligencia colectiva (IC) de un grupo aumenta cuanto mayor es la sensibilidad social de sus miembros y más parejo es el reparto de los turnos de conversación». Pero notar un patrón de comportamiento no es lo mismo que entender su significado."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de 2024 de Dang y colegas dividió a 30 estudiantes finlandeses de secundaria en diez equipos para una tarea de diseño colaborativo. Los estudiantes desarrollaron productos alimentarios por mensajes de voz mientras las quejas de los clientes se iban intensificando. El estudio reveló tres estilos de deliberación. En la deliberación elaborada, el silencio representó alrededor del 18% de las interacciones y apareció sobre todo en intercambios de aprendizaje; en la deliberación coordinada, el silencio funcionó como transición entre fases de la tarea. En la deliberación aislada, en cambio, el silencio dominó alrededor del 36% de las interacciones, lo que podía reflejar reflexión personal o una dinámica de grupo fragmentada."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, la IA solo señalaba patrones de silencio, sin revelar lo que los estudiantes realmente pensaban o sentían. En un estudio de 2025 de Cohn y colegas, docentes experimentados revisaron un panel que combinaba video, habla, actividad en pantalla, indicadores emocionales y nivel de participación. El estudio distinguió entre el «umbral de dificultad», la primera señal de una dificultad, y el «punto de intervención», el momento en que la ayuda realmente funciona. De forma crucial, la misma señal —el silencio— requería respuestas distintas según el contexto."
+        },
+        {
+          "t": "p",
+          "x": "El artículo señala que «notar que algo ha ocurrido es distinto de entender qué significa. Un momento de silencio puede ser confusión, frustración, concentración personal o reflexión compartida». La IA capta el silencio al milisegundo, pero se le da mal interpretar el contexto, y puede confundir la reflexión con un problema e interrumpir un pensamiento grupal productivo. El autor concluye que «la IA más socialmente sensible quizá no sea la que siempre sabe qué decir, sino la que también sabe cuándo quedarse callada»."
+        }
+      ]
+    },
+    "science/curiobot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Posgrado en Ciencia y Tecnología de Okinawa (OIST) construyeron un robot virtual que usó la curiosidad como señal de aprendizaje. Aprendió a comprender el lenguaje el doble de rápido que un robot sin curiosidad. El estudio se publicó en Science Advances."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/curious-robots-mimic-h-2.jpg",
+          "cap": "Robot virtual de OIST que recibió la curiosidad como señal de aprendizaje."
+        },
+        {
+          "t": "p",
+          "x": "El robot usó PV-RNN, una red neuronal de codificación predictiva inspirada en el cerebro. El robot recompensado por comportamientos nuevos, es decir, el curioso, aprendió las tareas de lenguaje mucho más rápido. La diferencia fue especialmente marcada en tareas complejas de varios pasos."
+        },
+        {
+          "t": "p",
+          "x": "A mitad del entrenamiento apareció un juego no solicitado. El robot curioso “experimentó repetidamente con comportamientos completamente distintos a lo que se le había ordenado”. Surgieron por sí solos comportamientos que nunca se programaron por separado."
+        },
+        {
+          "t": "p",
+          "x": "La diversidad del entorno lingüístico también influyó mucho. Un robot expuesto a 48 combinaciones de verbo-adjetivo-objeto logró generalizar con éxito solo el 25% de las veces, mientras que uno expuesto a 180 combinaciones llegó al 85%. Cuantas más variedades de habla, mejor fue el aprendizaje por transferencia."
+        },
+        {
+          "t": "p",
+          "x": "También apareció la curva en forma de U. Al principio acertaba bastante bien, luego el rendimiento caía mientras aprendía una nueva regla, y volvía a subir al dominar las excepciones. El mismo patrón de sobregeneralización que muestran los niños pequeños surgió por sí solo en el modelo."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores apuntan al problema de la “pobreza del estímulo” planteado por Chomsky. Creen que la curiosidad y un entorno rico pueden explicar por qué los niños aprenden idiomas tan rápido a pesar de recibir poca información."
+        }
+      ]
+    },
+    "science/cyclecover": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El viernes 11 de julio, OpenAI presentó GPT-5.6 Sol, que resolvió la conjetura del doble recubrimiento cíclico. Varios matemáticos la propusieron en la década de 1970 y había permanecido abierta durante más de 50 años."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+          "cap": "Una imagen que representa un grafo. Yuichiro Chino/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La conjetura afirma que casi todo grafo puede cubrirse con ciclos de modo que cada arista pertenezca exactamente a dos ciclos. La prueba de la IA muestra que, salvo los grafos donde grandes bloques se conectan solo por una arista, cualquier grafo puede cubrirse doblemente con no más de ocho ciclos."
+        },
+        {
+          "t": "p",
+          "x": "El prompt fue inusual. Puso a trabajar a 64 agentes de IA simultáneamente sobre el problema y añadió una línea: “Dedica al menos ocho horas a esto antes de pensar en volver o rendirte.”"
+        },
+        {
+          "t": "p",
+          "x": "Noga Alon, de Princeton, dijo que era “otro ejemplo impresionante de que las herramientas de IA cambiarán sustancialmente la investigación matemática, y ya lo están haciendo”."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Sutherland, del MIT, consideró que la fama de dificultad de un problema puede en sí misma reducir la atención humana y convertirse en una profecía autocumplida que frena el progreso. “Creo que seguiremos viendo esto: LLMs que encuentran soluciones fáciles a problemas que se consideraban difíciles.” De hecho, esta prueba casi no usó ideas nuevas, sino que combinó métodos que las personas ya habían construido."
+        }
+      ]
+    },
+    "science/peptiverse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Pensilvania presentaron PeptiVerse, una plataforma de IA de código abierto. Calcula de antemano las propiedades clave de un péptido antes de pasar a la síntesis y los experimentos, que cuestan dinero y tiempo. El estudio se publicó en Nature Communications (2026)."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-platform-could-spee.jpg",
+          "cap": "Pantalla de PeptiVerse en un portátil junto a equipo de síntesis de péptidos."
+        },
+        {
+          "t": "p",
+          "x": "Para convertirse en fármaco, un compuesto debe superar varias propiedades. PeptiVerse predice la solubilidad y la permeabilidad celular, la toxicidad y la resistencia a la agregación de proteínas, e incluso la biodisponibilidad y el tiempo de permanencia en el cuerpo. La idea es filtrar primero, por cálculo, los cuellos de botella del desarrollo de fármacos."
+        },
+        {
+          "t": "p",
+          "x": "No predice todo con un solo modelo. Cada propiedad usa su propia arquitectura de aprendizaje automático, adaptada a ella."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de cálculo existentes exigían saber programar para usarlas. PeptiVerse deja que el usuario introduzca una secuencia de péptido en una pantalla web y recibe las predicciones como imágenes. La primera autora, Yinuo Zhang, dijo: “Quería que los investigadores pudieran ver qué pasa dentro, no que todo terminara en descargar un paquete de Python.”"
+        },
+        {
+          "t": "p",
+          "x": "También muestra los datos usados en el entrenamiento. Quien experimenta puede leer las predicciones comparándolas con moléculas cuyas propiedades ya se conocen."
+        },
+        {
+          "t": "p",
+          "x": "El autor principal, Pranam Chatterjee, dijo que esto evita que los investigadores descubran “demasiado tarde” que una molécula prometedora no puede llegar a ser un fármaco. Tampoco se detiene en el cribado: también guía a la IA generativa cuando diseña nuevos péptidos con las propiedades terapéuticas deseadas."
+        }
+      ]
+    },
+    "science/ai-drug-discovery-data-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA está encontrando objetivos terapéuticos más rápido que nunca. Pero esa velocidad ha revelado el siguiente cuello de botella."
+        },
+        {
+          "t": "p",
+          "x": "Validar las predicciones exige experimentos reales, pero la capacidad física del laboratorio no logra seguir el ritmo."
+        },
+        {
+          "t": "p",
+          "x": "El punto central es que cerrar el ciclo entre las predicciones de la IA y los candidatos a fármacos validados requiere datos experimentales de mejor calidad."
+        }
+      ]
+    },
+    "science/alphafold-impossible-structures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Instituto Politécnico Rensselaer confirmaron que las principales herramientas de predicción de estructuras de proteínas con IA suelen producir resultados físicamente y químicamente imposibles."
+        },
+        {
+          "t": "p",
+          "x": "Una estructura puede parecer plausible y, sin embargo, no funcionar como una molécula real. Este punto ciego no se nota si solo se confía en la predicción."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores subrayaron que la validación con dinámica molecular basada en la física y la revisión humana siguen siendo indispensables."
+        }
+      ]
+    },
+    "science/quantum-ml-neoantigen": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/neoant-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Cleveland Clinic e IBM presentaron Q-CHIPP, un marco de aprendizaje automático cuántico que predice cuáles neoantígenos tumorales desencadenarán una respuesta inmune."
+        },
+        {
+          "t": "p",
+          "x": "El modelo aprende patrones biológicos con solo unas 150 muestras sobre 46 cúbits. El punto clave es que supera a los métodos clásicos existentes cuando los datos son escasos."
+        },
+        {
+          "t": "p",
+          "x": "Los neoantígenos son la clave para elegir objetivos de inmunoterapia. En la realidad clínica, donde reunir muchas muestras es difícil, un enfoque que rinde bien con pocos datos resulta muy útil."
+        }
+      ]
+    },
+    "science/quantum-neural-net-barren": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo marco teórico propuso dos diseños de circuito cuántico escalables junto con un método de entrenamiento paralelo."
+        },
+        {
+          "t": "p",
+          "x": "La clave está en evitar matemáticamente la “meseta estéril”. Esta es una barrera en la que la señal de entrenamiento desaparece a medida que el circuito crece, haciendo que las redes neuronales cuánticas grandes sean prácticamente imposibles de entrenar."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores buscaron que esta estructura siguiera siendo entrenable, pero difícil de simular en computadoras clásicas."
+        }
+      ]
     }
   }
 }

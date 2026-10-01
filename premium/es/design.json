@@ -3626,6 +3626,932 @@
           "x": "El artículo completo es solo para miembros de Medium, así que aquí se tradujo únicamente la parte pública."
         }
       ]
+    },
+    "design/codex-micro": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3-2OH6ReiPM"
+        },
+        {
+          "t": "p",
+          "x": "Ha llegado el primer hardware de OpenAI. No tiene nada que ver con Jony Ive. Se llama Codex Micro, un teclado creado junto con el fabricante de teclados Work Louder, diseñado para controlar Codex, la función de programación basada en agentes de OpenAI. Ambas empresas llevan filtrando este accesorio desde junio, y ya puede pedirse por $230, antes incluso que el rumoreado altavoz inteligente diseñado por Jony Ive."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-launches-a-physical-keypad-for-controlling-agents/intro-1784140173.jpg",
+          "cap": "OpenAI / Work Louder"
+        },
+        {
+          "t": "p",
+          "x": "Si has visto el Creator Micro 2 de Work Louder, o el Framer Micro que hizo junto con Framer, puedes imaginarte el acabado. Los LEDs de seis teclas con acabado esmerilado siguen el estado del agente dentro de Codex. Al resto de teclas se les asignan acciones como aceptar o rechazar código, bifurcar hilos o la entrada de voz. También trae un dial para recorrer los niveles de razonamiento y un joystick para cambiar entre flujos de trabajo, además de teclas de repuesto incluidas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-C4p6U2-1784139199.jpg",
+          "cap": "Work Louder"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI convirtió hace poco la app Codex en una superapp. Combina las funciones del ChatGPT normal con Codex y con ChatGPT Work, la nueva herramienta de agentes centrada en productividad. La app funciona bien sin controles dedicados, pero a los usuarios avanzados les resultará mucho más fluido pasarse a Codex Micro."
+        },
+        {
+          "t": "p",
+          "x": "Entre el hardware que maneja OpenAI, Codex Micro es de los más discretos. El lado de los altavoces inteligentes ya está enredado en una demanda de Apple. Apple sostiene que los actuales empleados de OpenAI Tang Yew Tan y Chang Liu sustrajeron secretos comerciales; ambos trabajaron antes en Apple. El teclado puede pedirse por $230 tanto en OpenAI como en Work Louder, y Work Louder dijo que las unidades son limitadas."
+        }
+      ]
+    },
+    "design/figma-make-pr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El segmento Workflow Lab de Figma muestra esta vez un flujo que invierte el propio traspaso de trabajo. Los productos presentes son Figma Design y Figma Make; las herramientas son el agente de Figma, la integración con GitHub y los comentarios. El equipo lo forman un diseñador, un ingeniero y un PM. Hay una sola pregunta: ¿tienen esos pequeños arreglos que hacen un sitio más inclusivo que esperar su turno en el backlog?"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/109e9f7c7d82c472f812ee14861b883dd4b1665a-3840x2160.png",
+          "cap": "El sitio MOSF abierto en un lienzo de Figma. Se señalan etiquetas de navegación ambiguas, un selector de fecha de bajo contraste y un CTA poco visible."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo es un museo ficticio, MOSF. Hay que reescribir la estructura por completo y también atender la accesibilidad, pero el equipo anda corto de personal. La solución intermedia del PM es esta: el trabajo pesado queda en manos del ingeniero, mientras que los retoques de acabado, que requieren menos esfuerzo, los lleva el diseñador de principio a fin en Make hasta llegar al código de producción."
+        },
+        {
+          "t": "p",
+          "x": "El diseñador primero crea personas sintéticas con el agente de Figma. Las observaciones que deja cada una —un visitante nuevo, un miembro que regresa y un usuario de lector de pantalla— al recorrer el sitio son concretas y en general acertadas: etiquetas confusas, un CTA fácil de pasar por alto, un selector de fecha que no se entiende de un vistazo, y una pantalla vacía sin salida cuando una búsqueda no da resultados."
+        },
+        {
+          "t": "p",
+          "x": "Al conectar el repositorio de GitHub a Make sale a la luz algo que el lienzo no podía mostrar: el selector de fecha no era algo puntual, sino un componente compartido que también se usaba en el calendario de eventos y en el flujo de inscripción de membresías. Con un ticket, solo se habría corregido la página de la exhibición, y los otros dos lugares se habrían quedado con la versión antigua. Dentro del código, la dependencia ahora es visible, y se corrige de una vez en el lugar correcto."
+        },
+        {
+          "t": "p",
+          "x": "En la revisión se precisan los objetivos de accesibilidad. El equipo deja comentarios ahí mismo sobre el aria-label que debe leer el selector de fecha compartido, las etiquetas de lector de pantalla que coinciden con el texto en pantalla, un orden de foco que no se salta el CTA, y un mensaje de estado vacío para que una búsqueda sin resultados no termine en silencio."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/628c4e0be22c0b09849c1f76966f85e7136641a3-3840x2160.png",
+          "cap": "La pull request ya fusionada conserva intacto todo el historial, incluidos los comentarios de revisión y las anotaciones de accesibilidad."
+        },
+        {
+          "t": "p",
+          "x": "El diseñador sube el PR directamente desde Make, y un ingeniero lo revisa y lo fusiona. Un arreglo que podría haber pasado todo el trimestre en el backlog salió en un día. Cuando se cierra un ticket, las decisiones que contenía también desaparecen, pero un cambio fusionado conserva los comentarios, las anotaciones e incluso la razón por la que el selector de fecha quedó compartido. No se trata de decirle al diseñador que se convierta en ingeniero, sino de poner a cada uno donde más se necesita su juicio."
+        }
+      ]
+    },
+    "design/tokens2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La proporción de equipos de producto que usan tokens de diseño pasó del 56% al 84% en un solo año. Por esas fechas, el W3C publicó la primera versión estable del Design Tokens Format Module, respaldada por Adobe, Google, Meta, Figma, Salesforce y Shopify. Hay dos bandos que llevan mucho tiempo enfrentados sobre cómo tratar los tokens, y esa disputa ahora resulta mucho menos interesante."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/le4k4q0cpvzwlacrbtq5.png",
+          "cap": "Una tabla que compara las dos ramas de gestión de tokens de diseño, las Figma Variables nativas y Tokens Studio, en propiedad, profundidad de temas y formato de exportación."
+        },
+        {
+          "t": "p",
+          "x": "Un lado es el nativo. Figma Variables, lanzado en 2023, heredó de Styles el lugar donde se guardan los valores de color, espaciado y tipografía, y una actualización de 2026 le permite exportar JSON compatible con DTCG sin plugins ni scripts personalizados. Este formato, que da a cada token un $value y un $type, ya lo leen Style Dictionary, Theo, Specify, Supernova y Penpot. Su punto débil es la tematización a gran escala con múltiples modos. Claro y oscuro no dan problemas, pero en cuanto se apilan ocho marcas, tres niveles de densidad y overrides por plataforma, un sistema de modos plano empieza a frenar."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/urattiekscr3ew18makh.png",
+          "cap": "El pipeline de tokens de diseño: Figma Variables o Tokens Studio exportan JSON compatible con DTCG, y Style Dictionary lo convierte en salidas para CSS, Swift y Android."
+        },
+        {
+          "t": "p",
+          "x": "El otro lado es Tokens Studio. Maneja los tokens en varios archivos y se sincroniza directamente con git. Aquí están los conjuntos de tokens combinables, los alias que cruzan archivos y una vía directa al repositorio. El inconveniente es que su formato apareció antes que DTCG, así que, para tender un puente hacia Style Dictionary, primero hay que ejecutar @tokens-studio/sd-transforms. Eso suma una dependencia más, y una oportunidad más para que las versiones se desincronicen."
+        },
+        {
+          "t": "p",
+          "x": "La verdadera historia no es Figma contra Tokens Studio. Antes de que la especificación DTCG se estabilizara en octubre de 2025, cada herramienta tenía su propia forma de JSON, así que elegir una herramienta de tokens equivalía a elegir un proveedor del que depender. Ahora hay una sola forma, y ambos bandos exportan hacia ella. Por eso un rebranding que antes tardaba semanas ahora puede cubrir la interfaz principal en dos días y desplegarse por completo en tres. Doce años después de que Salesforce acuñara esa frase con el Lightning Design System en 2014, la industria por fin tiene un formato común para llevar esa promesa entre herramientas."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/cc3tuqkjf84h0x8iuiaq.png",
+          "cap": "Cómo un agente de codificación con IA lee un archivo DESIGN.md junto con una exportación de tokens DTCG para construir una interfaz fiel a la marca en lugar de adivinar una aproximación plausible."
+        },
+        {
+          "t": "p",
+          "x": "En la mesa hay un cuarto invitado con el que ninguno de los dos bandos contaba: el agente de codificación con IA. Encargarle un nuevo componente exige decirle el azul exacto de la marca, no uno que simplemente parezca plausible, y un archivo de tokens estructurado se lo proporciona. Por eso se extiende rápido el patrón de poner los valores de los tokens en el front matter de YAML, con el razonamiento escrito en prosa debajo en un DESIGN.md referenciado desde AGENTS.md. Los tokens aportan los valores, y la prosa aporta el criterio."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión es sencilla. Si tienes una sola marca con pocas plataformas, basta con las Variables nativas más una exportación DTCG que alimente a Style Dictionary. Si tienes varias marcas, una tematización compleja o un pipeline de sincronización con git ya maduro, elige Tokens Studio. Solo evita elegir lo que usabas en tu último trabajo por costumbre: ambos caminos hablan ya el mismo JSON."
+        }
+      ]
+    },
+    "design/meshy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El nuevo agente conversacional 3D de Meshy busca posicionarse no como un prompt que se lanza una vez, sino como un socio creativo que construye junto al usuario."
+        },
+        {
+          "t": "p",
+          "x": "La mayor diferencia es que retiene el contexto. El agente recuerda el flujo de la conversación durante toda la sesión. Así, si el creador fija de antemano la dirección artística que quiere, el agente sigue generando activos con un estilo coherente con esa dirección."
+        },
+        {
+          "t": "p",
+          "x": "El resultado son activos 3D listos para producción, utilizables de inmediato. A diferencia del método anterior de lanzar prompts línea por línea y confiar en el azar, este flujo de trabajo colaborativo —fijar una dirección y pulirla mediante la conversación— cambia la textura de la generación 3D."
+        }
+      ]
+    },
+    "design/smartroto": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry presentó un nuevo complemento para Nuke llamado SmartRoto. Encarga a la IA el rotoscopiado, una de las tareas más laboriosas y tediosas del trabajo de VFX."
+        },
+        {
+          "t": "p",
+          "x": "La clave es la propagación automática. SmartRoto toma la spline de roto dibujada en un fotograma y la extiende por sí sola a lo largo de todo el plano, deformándola según el movimiento del sujeto. Esto reduce drásticamente el trabajo de ajustar la máscara colocando puntos fotograma por fotograma."
+        },
+        {
+          "t": "p",
+          "x": "Foundry afirma que este método es «hasta 4 veces» más rápido que el rotoscopiado manual. Al eliminar automáticamente el trabajo repetitivo, es un cambio de flujo de trabajo que los artistas notarán de inmediato."
+        }
+      ]
+    },
+    "design/vray74": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/270721_VRay74Blender_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Chaos presentó la nueva versión 7.4 de V-Ray para Blender. Dirigida a la enorme base de usuarios de Blender, esta actualización incorpora funciones importantes capaces de cambiar la propia forma de renderizar."
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que destaca es Quick Sun Caustics, un sistema que ordena la obtención de cáusticas —los patrones brillantes que crea la luz al refractarse en el agua o el vidrio— bajo luz solar de forma sencilla. A esto se suma el soporte de texturas UDIM, que facilita bastante el manejo de activos de alta resolución."
+        },
+        {
+          "t": "p",
+          "x": "También se añadió una función de conversión que traslada directamente la iluminación configurada en Cycles, el renderizador nativo de Blender, a la iluminación de V-Ray. Esto significa que se puede pasar a V-Ray sin tener que reconfigurar la escena existente desde cero."
+        },
+        {
+          "t": "p",
+          "x": "La integración con Veras, la herramienta de renderizado con IA de Chaos especializada en arquitectura, también se ha vuelto más estrecha. Para los artistas 3D y los profesionales de visualización arquitectónica, es un lanzamiento que cambiará su flujo de trabajo de inmediato."
+        }
+      ]
+    },
+    "design/3dsmax20262": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "3ds Max 2026.2, de Autodesk, permite importar datos de splats gaussianos 3D directamente dentro del software, editarlos, reiluminarlos y renderizarlos. La captura de campos de radiancia, que antes quedaba aparte, ahora entra de forma natural en el flujo habitual de diseño y renderizado."
+        },
+        {
+          "t": "p",
+          "x": "Lo esencial es que estos splats ahora son “editables”. Una escena capturada al filmar ya no es un resultado intocable: puede tratarse como cualquier otro dato 3D, algo que se puede manipular y reiluminar."
+        },
+        {
+          "t": "p",
+          "x": "Esta versión reúne varias funciones además del soporte de splats. Entre ellas, lo que más destaca es que la captura de radiancia se ha asentado en el flujo de trabajo habitual."
+        }
+      ]
+    },
+    "design/art-director-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcmzybsuqkpu7os4s766d.png"
+        },
+        {
+          "t": "p",
+          "x": "Un director de arte dice que la verdadera ventaja en los flujos de diseño generativo no está en un mejor prompt ni en la herramienta más reciente. Lo decisivo es el juicio visual entrenado durante mucho tiempo: la capacidad de marcar dirección, formar gusto y criticar el resultado."
+        },
+        {
+          "t": "p",
+          "x": "La IA genera imágenes sin parar. Pero separar, de ese montón de resultados, lo que realmente sirve es tarea humana. Sin un ojo que distinga lo bueno de lo malo, no importa cuánto se genere."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la ventaja que el autor subraya no es la herramienta, sino la mirada. Los sentidos humanos de dirección, gusto y crítica son los que, al final, convierten la salida de la IA en un resultado utilizable."
+        }
+      ]
+    },
+    "design/maya20262": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260722_Maya20272_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La nueva función “Bring Your Own Data” de Maya 2026.2 abre un camino para que los estudios entrenen modelos de IA directamente con sus propios datos. Alimentan el sistema de animación MotionMaker con los keyframes o el mocap que ya tenían acumulados, y así definen ellos mismos la textura del resultado."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, la animación generativa era casi una caja negra que no se podía mirar por dentro. Lo central de este cambio es convertir esa caja en un flujo de trabajo interno que el estudio puede ajustar. Eso significa que el movimiento que produce el modelo empieza a parecerse a los datos y al estilo de ese equipo."
+        },
+        {
+          "t": "p",
+          "x": "Al final, lo que importa es qué datos se introducen. Cuanta más animación con el sello del equipo se use para entrenar, más devuelve el resultado generado ese toque propio."
+        }
+      ]
+    },
+    "design/screens-demoted": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*MYZNJTIK1o6qlF7KDs9T5Q.png"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la IA asume más tareas, la interfaz en pantalla deja de ser la protagonista del producto, porque aumentan los momentos en que el usuario obtiene lo que quiere sin pasar por una pantalla."
+        },
+        {
+          "t": "p",
+          "x": "Este artículo redefine el trabajo del diseñador dentro de ese cambio. Cuando la interacción se traslada a agentes e interfaces ambientales, la pregunta ya no es “cómo dibujar esta pantalla” sino “si esta pantalla hace falta”."
+        },
+        {
+          "t": "p",
+          "x": "Al final, lo que queda no es la habilidad de hacer mejores pantallas, sino el criterio para decidir qué pantallas conservar y cuáles eliminar."
+        }
+      ]
+    },
+    "design/ux-review-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*We3RETarXYEoHVKQy0GX_g.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Un diseñador entregó todo el proceso de revisión de UX a la IA y resumió los resultados. La conclusión: la IA fue un socio bastante sólido en la revisión de UX, pero no sustituyó al experto."
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca es de dónde viene la precisión. Lo que marcó la diferencia en la calidad de la revisión no fue la inteligencia del modelo en sí, sino el conocimiento de dominio que aportó la persona. Cuanto mejor el contexto y los criterios, más afiladas fueron las respuestas de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Así que el panorama que queda es claro. El eje del juicio sigue siendo del diseñador, y la IA se sitúa como una herramienta que amplía ese juicio."
+        }
+      ]
+    },
+    "design/inversphere": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un desarrollador llamado VoxelKei presentó 'inversphere'. Es una técnica que pliega un entorno completo de 360 grados dentro de una sola esfera, capturando y mostrando una escena de 3D Gaussian Splatting."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49357/images/6a5e371c6f2a0/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es un enfoque nuevo que abarca tanto la captura como la visualización, y que se conecta directamente con el trabajo de 3D en tiempo real y renderizado. Es un intento de repensar la propia forma de tratar las escenas de splatting habituales."
+        }
+      ]
+    },
+    "design/nvidia": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En SIGGRAPH 2026, Nvidia presentó IA agéntica para profesionales creativos. Su núcleo es la integración de Model Context Protocol (MCP), que permite que un asistente de IA funcione directamente dentro de aplicaciones de diseño como Adobe, Blender y Unreal Engine."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/mcp-main-feature-1680x948.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El agente inspecciona escenas, señala problemas de color y prepara variantes para exportación por adelantado. En la práctica, se encarga del trabajo repetitivo que antes exigía mucho esfuerzo manual."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la decisión creativa sigue en manos del artista. La herramienta no sustituye el juicio: acompaña y asiste."
+        }
+      ]
+    },
+    "design/style-refs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La idea es que seguir añadiendo palabras a un prompt de imagen de IA da cada vez menos resultado. Alargar la frase no ayuda a fijar la imagen que realmente se busca."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, entregar una referencia visual de estilo permite captar resultados mucho más claros y coherentes. También facilita reproducir la misma sensación una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "Mostrar es mejor que esforzarse por explicarlo todo con palabras. Es un pequeño cambio en la forma de manejar la IA creativa desde la punta de los dedos."
+        }
+      ]
+    },
+    "design/ai-websites-samey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Durante el último año, la IA se volvió muy buena construyendo sitios web. El código es más limpio, los diseños son responsivos y la accesibilidad ha mejorado. Aun así, queda un problema: la mayoría de los sitios hechos por IA se nota a simple vista que están 'hechos.'"
+        },
+        {
+          "t": "p",
+          "x": "Los sitios generados por IA que vemos todos los días comparten los mismos rasgos: glassmorphism por todas partes, la misma sección hero, la misma disposición de tarjetas y espacios, los mismos degradados y animaciones, las mismas decisiones de diseño. El código cambia, pero el diseño sigue igual."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los modelos no 'diseñan' de verdad. Solo repiten patrones que han visto miles de veces. Si pides una 'landing page moderna', normalmente recibes otra variación del mismo sitio. No es falta de creatividad: es que el modelo intenta adivinar la respuesta más probable."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, en lugar de hacer otra colección de prompts, el autor empezó a crear FireBall Design. Es una habilidad de diseño que enseña a la IA a pensar como un diseñador en lugar de reproducir patrones de interfaz comunes. El objetivo no es imponer un estilo específico, sino que la IA se adapte al lenguaje de diseño que se le pida. Un sitio de lujo no debería parecer un sitio de videojuegos, y un panel de fintech no debería parecer una landing page de Apple."
+        },
+        {
+          "t": "p",
+          "x": "FireBall Design elimina las señales repetitivas de IA, ajusta el lenguaje visual al estilo solicitado, respeta los sistemas de diseño y empuja hacia un código más limpio y fácil de mantener. Funciona en varios modelos, incluidos ChatGPT, Claude, Mistral, Gemini, DeepSeek y Qwen, y solo hace falta instalarlo en cualquier herramienta que admita skills."
+        },
+        {
+          "t": "p",
+          "x": "El autor no cree que la IA deba reemplazar a los diseñadores. Espera que se convierta en un mejor socio de diseño: que lea la intención de un proyecto y se adapte a ella en lugar de repetir la misma pantalla una y otra vez. Esa es la filosofía detrás de FireBall Design."
+        }
+      ]
+    },
+    "design/netflix-genai-boycott": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netflix usó IA generativa en unos 300 títulos solo este año, desde el trabajo de concepto inicial hasta la posproducción. No es un rumor: está en la carta a accionistas de la empresa, y el co-CEO Ted Sarandos lo mencionó él mismo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UmPnkcxYmjFmqxG4TxStr9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sobre todo, la serie documental sobre la Revolución estadounidense 'American Experiment' incluyó 17 minutos de metraje retocado con IA. Netflix dijo que esas escenas se hicieron el doble de rápido y a menor costo. La empresa insiste en que esto no reemplaza a las personas, sino que ayuda a los artistas: el guion, la actuación y la fotografía siguen siendo tarea humana, y la IA solo asiste."
+        },
+        {
+          "t": "p",
+          "x": "El argumento del autor es simple. Ahora Netflix ni siquiera es imprescindible. Apple TV se ha convertido en una de las parrillas más sólidas últimamente con 'Severance', 'Slow Horses' y 'Bad Sisters'. Disney+ también tuvo un buen momento con el drama apocalíptico nominado al Emmy 'Paradise' y 'The Testaments'."
+        },
+        {
+          "t": "p",
+          "x": "La IA no es el único problema. A pesar de un 96% en Rotten Tomatoes y un buen desempeño de audiencia, la serie de ciencia ficción de los hermanos Duffer 'The Boroughs' fue cancelada tras una sola temporada. 'Alice in Borderland' y 'Terminator Zero' también se cancelaron en la misma época, y recientemente Netflix causó controversia al revivir con IA la voz del difunto Gene Wilder."
+        },
+        {
+          "t": "p",
+          "x": "Sumando todo esto, el motivo para dejar Netflix queda claro. No hace falta dejar el streaming en sí: basta con verlo en otro lugar."
+        }
+      ]
+    },
+    "design/pincushion-ui-feedback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr4f2vl0eu3zyyzcj9gcw.png"
+        },
+        {
+          "t": "p",
+          "x": "Si un diseñador dice 'esta tarjeta se siente apretada en móvil', un agente no tiene forma de actuar. Un pin dejado en la pantalla en vivo es distinto, porque viene con el selector, la captura de pantalla, el viewport, la URL de la página y el contexto de la conversación. Si un equipo construye con Cursor, Claude Code, Codex o Windsurf, la forma misma de la retroalimentación tiene que cambiar."
+        },
+        {
+          "t": "p",
+          "x": "Entre personas se toleraba bastante ambigüedad. Decir 'el espacio bajo la tarjeta de precios se ve raro en el teléfono' bastaba para que alguien, aunque fuera despacio, lo encontrara. Los bucles de agentes no son tan tolerantes. Necesitan saber qué página, qué elemento, qué ancho de pantalla y qué quiso decir el revisor. Si llega como un mensaje de Slack o una captura dentro de un documento, alguien tiene que reestructurarlo antes de que pueda empezar la corrección."
+        },
+        {
+          "t": "p",
+          "x": "La retroalimentación que un agente puede usar de inmediato incluye la URL de la página donde se hizo la nota, un selector que señala el elemento, una captura que muestra el problema, el viewport que distingue 390px de escritorio, la conversación adjunta a la nota, y un estado de aprobación que decide qué se puede tocar."
+        },
+        {
+          "t": "p",
+          "x": "Aquí, MCP es solo la capa de entrega. Permite que un agente de código solicite la retroalimentación aprobada de forma estándar y reciba a cambio un paquete listo para ejecutar. La nota nunca desaparece del panel ni tiene que volver a escribirse en un prompt."
+        },
+        {
+          "t": "p",
+          "x": "El flujo es así: la revisión ocurre en la app real dentro de un navegador, no en un lienzo ni en una captura, y en el momento en que se deja un pin se capturan juntos el selector, la captura, el viewport y el DOM circundante. El equipo aprueba solo las notas que deben convertirse en código, y el agente lee el lote aprobado vía MCP, revisa el código fuente y corrige en una rama. El final no es 'lo comentamos', sino 'se fusionó como PR.'"
+        },
+        {
+          "t": "p",
+          "x": "La retroalimentación de diseño es fácil de seguir comentando, pero tiende a alejarse cada vez más del despliegue: frames de Figma, capturas de Slack, grabaciones de salas, tickets. Cuantos más pasos haya entre la nota y la interfaz real, más contexto se pierde. Si lo que se despliega es una app, la revisión también debería ocurrir sobre esa app, sobre todo ahora que quien recibe la retroalimentación puede ya no ser una persona."
+        }
+      ]
+    },
+    "design/agentface": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Builder.io invierte una pregunta habitual. En lugar de ver la IA como una función añadida a un producto, propone diseñarla como otro usuario más de la pantalla. La función se construye una sola vez, y se expone a las personas mediante una pantalla, a los agentes mediante lenguaje natural, y a otras aplicaciones mediante una interfaz de programación, de modo que desaparece cualquier motivo para implementar lo mismo dos veces."
+        },
+        {
+          "t": "p",
+          "x": "La 'cara' de la que se habla aquí no es una burbuja de chatbot. Se refiere a una pantalla que muestra lo que el agente está haciendo en ese momento y permite que una persona intervenga y corrija cuando algo está mal. Si se trata de un agente que crea activos de marketing, esa pantalla se convierte en el lugar donde un experto del dominio enseña los criterios. El papel del equipo también se desplaza de la ejecución a la supervisión."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fd756d0bbcf43483ab278f178ecbaa413?width=800",
+          "cap": "Contraste entre una estructura a la que solo accede un rol y otra a la que también acceden los agentes"
+        },
+        {
+          "t": "p",
+          "x": "Una aplicación no necesita hacerlo todo bien por sí sola. Al crear materiales de ventas, las métricas pueden traerse de un sistema de analítica, las imágenes aprobadas de otro sistema, y la guía de presentación de otro lugar distinto. Lo mismo ocurre con el soporte al cliente: en lugar de que una persona traslade información de un lado a otro, el agente entra directamente a verificar la causa."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida son las tareas en las que se pierde tiempo por coordinarse a mano. En vez de un chatbot, se añade una pantalla de aplicación como es debido para que una persona verifique el resultado y lo corrija, y el conocimiento del dominio se deja en manos de quien conoce ese trabajo, no de la ingeniería. Cuantas más tareas de este tipo se encadenen, más se acumulan los beneficios."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fa8de8d0062864c969857ae40d5973510?width=800",
+          "cap": "Diagrama que muestra un flujo de procesamiento de documentos trasladado a un patrón nativo para agentes y extendido hacia una aplicación"
+        },
+        {
+          "t": "p",
+          "x": "Builder.io ha ordenado este patrón en un marco Agent-Native. Al definir el trabajo una sola vez, surgen a la vez una pantalla para personas y herramientas para agentes, y la aplicación abre un punto de acceso al que pueden llegar otros agentes y aplicaciones. También incluye funciones de tiempo de ejecución como chat, habilidades y memoria, además de aplicaciones de ejemplo de código abierto pensadas para desmontarse y reutilizarse."
+        }
+      ]
+    },
+    "design/ailegible": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que herramientas como Claude Code logran de verdad convertir diseños en código, el primer lector de un handoff ha cambiado. Es un agente, no un desarrollador, quien lee el documento primero. El papel del ingeniero se desplaza de la implementación a la revisión."
+        },
+        {
+          "t": "p",
+          "x": "El autor resume cuatro cosas que la IA necesita para hacerlo bien a la primera: una especificación estructurada en lugar de un enlace de Figma; componentes con nombre y tokens de diseño en lugar de valores en píxeles; variantes de estado que cubran carga, vacío, error y éxito; y ejemplos de código reales que sirvan de patrón a seguir."
+        },
+        {
+          "t": "p",
+          "x": "El texto pone una mala especificación junto a una buena. Una termina con algo como 'Pantalla de inicio de sesión. Correo y contraseña. Según el estilo de la pantalla de registro.' La otra detalla las dimensiones del diseño, las rutas de los componentes, los tokens de tipografía y espaciado, los cinco estados, a qué pantalla navegar, y los patrones existentes a los que referirse. Con la segunda, la IA lo implementa de una vez; con la primera, tiene que adivinar, así que el resultado cambia cada vez."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, queda una parte que el diseño no debe abandonar: decidir qué va en la pantalla, comprobar el movimiento y la interacción en dispositivos reales, las decisiones que tocan la marca, como la ilustración y el tono, y la coherencia de todo el sistema."
+        },
+        {
+          "t": "p",
+          "x": "La lista de comprobación antes de entregar también es corta: si los componentes coinciden con la base de código real, si todos los valores están escritos como tokens, si se han dibujado los cinco estados, si el texto está finalizado, si los eventos de analítica están documentados, y si se hizo referencia a pantallas existentes similares."
+        },
+        {
+          "t": "p",
+          "x": "La forma del trabajo también cambia. El entregable de diseño pasa a ser una especificación en markdown con un enlace de Figma adjunto, y la especificación va a la carpeta de documentos del repositorio. La revisión de diseño mira la pantalla implementada, no el código. Al final, lo que decide la partida es la densidad de la especificación y el rigor de la revisión."
+        }
+      ]
+    },
+    "design/figmotion": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OxoV79nv4v0"
+        },
+        {
+          "t": "p",
+          "x": "Es un video que el canal oficial de Figma publicó el 22 de julio de 2026. Laura Fehre, defensora de diseño en Figma, enseña Motion a alguien que nunca ha tocado software de animación. La promesa del video es que, al completar dos ejemplos hasta el final, se puede animar la interfaz y los iconos por cuenta propia."
+        },
+        {
+          "t": "p",
+          "x": "El primer ejemplo es una animación corta de entrada y salida por deslizamiento (0:18), lista para usarse directamente en un handoff. Luego pasa a la animación de iconos (2:57), y combina iconos, imágenes de marca y texto en movimiento en una sola pantalla (4:18)."
+        },
+        {
+          "t": "p",
+          "x": "El agente de Figma entra en escena en el minuto 4:57. El agente añade la imagen de marca y la animación del texto, y en 5:24 incorpora incluso un cambio a modo oscuro. A partir de 7:19, el diseñador ajusta a mano lo que entregó el agente usando keyframes, curvas de easing y springs. La pantalla final aparece en 8:15."
+        },
+        {
+          "t": "p",
+          "x": "El orden es lo esencial. Con el agente generando el borrador y la persona corrigiéndolo en el lienzo, desaparece el ir y venir hacia After Effects solo para hacer una animación de interfaz. En los comentarios, alguien contó haber obtenido un resultado revisando con el agente, paso a paso, un tablero de trabajo con las capas todavía desordenadas."
+        }
+      ]
+    },
+    "design/zcaptis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HP Z Captis es un escáner 3D que convierte las propiedades físicas complejas de materiales reales en activos digitales. Con esta actualización, ahora se conecta con Adobe Substance 3D Sampler."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/media_1eccf2340900cccd14c541eee88ca854c8c713dd9.jpg-copy-1024x576.jpg",
+          "cap": "HP Z Captis y Adobe Substance 3D Sampler"
+        },
+        {
+          "t": "p",
+          "x": "Con la actualización de Substance 3D Sampler, las propiedades de material capturadas por Z Captis se convierten en conjuntos de datos estructurados que pueden usar los flujos empresariales basados en IA. Los valores de entrada para la visualización de productos son más precisos y también más fáciles de manejar."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas opciones de velocidad de fotogramas y resolución amplían el margen de ajuste tanto en Windows como en Mac, y ahora admite inferencia de IA híbrida en Nvidia Jetson AGX."
+        },
+        {
+          "t": "p",
+          "x": "Guido Quaroni, director senior de producto e ingeniería de 3D & Immersive en Adobe, dijo que el nivel de un gemelo digital lo determinan los datos de material que hay detrás, y que ese punto de partida es la captura. Explicó que, al construir con HP un flujo de trabajo de extremo a extremo, desde el HP Z Captis en el lado del hardware hasta el ecosistema de Adobe Substance 3D en el lado del software, se creó el camino más preciso y accesible para capturar, crear, gestionar y distribuir materiales reales sobre estándares abiertos como OpenPBR. Añadió que el valor de la digitalización de materiales surge al conectar la captura con todo el flujo de trabajo creativo."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/HP-Z-CAPTIS-3D-Scanner-for-materials-335x188.jpg",
+          "cap": "Escáner 3D HP Z CAPTIS para captura de materiales"
+        },
+        {
+          "t": "p",
+          "x": "HP dijo que Captis ya forma parte de los flujos de trabajo de CMF en múltiples industrias, desde calzado y moda hasta automoción y aeroespacial, respaldando la visualización de gemelos digitales a gran escala. A medida que se reduce la distancia entre las muestras físicas y los activos digitales reutilizables, la revisión de diseño, la visualización 3D y la producción de contenido posterior usan los mismos datos. Los diseñadores dedican más tiempo a explorar y perfeccionar, mientras las empresas reducen los ciclos de iteración sin perder coherencia."
+        },
+        {
+          "t": "p",
+          "x": "Jim Nottingham, SVP y presidente de Soluciones de Computación Avanzada de HP, dijo que los materiales digitales son centrales en la forma en que los equipos diseñan, visualizan y sacan productos al mercado, y que la integración de Z Captis con Adobe Substance 3D Sampler, junto con la inferencia de IA de Nvidia Jetson, da a los equipos creativos y de producto actuales la velocidad, el control y la flexibilidad de flujo de trabajo que necesitan."
+        }
+      ]
+    },
+    "design/designmd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl5jd4ji0ykfs5iueat99.png"
+        },
+        {
+          "t": "p",
+          "x": "Este artículo propone un archivo llamado DESIGN.md. Busca evitar que los agentes de codificación con IA adivinen el sistema de diseño a su manera, lo que hace que el color, el espacio y el comportamiento de los componentes varíen de una sesión a otra."
+        },
+        {
+          "t": "p",
+          "x": "La estructura tiene dos capas. Un encabezado YAML legible por máquina registra los tokens de diseño exactos, y un markdown legible por personas, debajo, deja constancia de por qué esos tokens son como son. Así, el agente construye la interfaz sobre un estándar que no se mueve."
+        },
+        {
+          "t": "p",
+          "x": "Igual que .cursorrules fija las convenciones de código, DESIGN.md funciona como punto de referencia del sistema de diseño. Es una respuesta concreta al problema de identidad visual que con más frecuencia se rompe en las interfaces hechas por agentes."
+        }
+      ]
+    },
+    "design/google-creativity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zLhmVnzDtQ7QXJPpAfKq4o-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq cuestiona la afirmación de Google. El argumento es que, como la IA resolvió y generó matemáticas nuevas, el modelo es realmente creativo."
+        },
+        {
+          "t": "p",
+          "x": "El artículo evalúa cuánto demuestra la novedad matemática sobre la creatividad para artistas y diseñadores, y qué no logra demostrar."
+        },
+        {
+          "t": "p",
+          "x": "La razón por la que esta pregunta importa a los creadores es clara. Si una máquina es creativa decide cuánto trabajo de ideas y concepto se delega a las herramientas generativas."
+        }
+      ]
+    },
+    "design/vibecoding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/t7fhyguq11l0u3fmvwrz.png"
+        },
+        {
+          "t": "p",
+          "x": "Este ensayo sostiene que la programación por intuición (vibe coding) asistida por IA no elimina por completo a las personas que crean. Lo que se disuelve es la capa intermedia que implementa según una especificación fija. Es similar a cómo las cámaras baratas no tocaron a los mejores fotógrafos, pero sí eliminaron los encargos de fotografía más comunes."
+        },
+        {
+          "t": "p",
+          "x": "El valor se concentra en los puestos que requieren juicio de diseño, conocimiento del dominio, criterio y estrategia."
+        },
+        {
+          "t": "p",
+          "x": "A medida que las herramientas que generan apps a partir de prompts abaratan la ejecución, el ensayo señala con claridad el desplazamiento de capacidades que enfrentan los diseñadores y los ingenieros de diseño que construyen las cosas ellos mismos."
+        }
+      ]
+    },
+    "design/chaossplat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En SIGGRAPH, Chaos mostró cómo V-Ray 7.4 lleva una escena de principio a fin, desde el desarrollo temprano de look y la exploración en tiempo real hasta la producción virtual y el render final. Pero la expresión 'producción virtual' ya viene con una imagen incorporada. Si se dice volumen LED, todos piensan en un gran fondo digital, un actor frente a una pared de píxeles, un mundo ensamblado dentro de Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "Chris Nichols, director de proyectos especiales de Chaos, no comparte esa imagen. Cree que los cineastas se empeñan en reconstruir en CG lugares a los que simplemente podrían ir. “¿Para qué construir toda la locación en CG si se puede ir y filmarla de verdad?”, dice. “Hay un punto donde varios enfoques combinan bien, y los Gaussian splats son una buena forma de traer ese lugar de vuelta al volumen cuando se necesita.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4JFkQxqABwmoB7fUoDxTdG-1600-80.jpg",
+          "cap": "Una escena de Gaussian splats reiluminada con V-Ray 7.4. (Crédito de imagen: Chaos)"
+        },
+        {
+          "t": "p",
+          "x": "En la superficie, esta V-Ray 7 Update 4 trae muchas mejoras de render, como cualquier otro lanzamiento de SIGGRAPH. Lo central es el reiluminado de Gaussian splats. En lugar de usar la iluminación de un entorno escaneado tal como quedó fijada, permite ajustarla de nuevo. Es una función que se suma al render de splats con trazado de rayos de Chaos."
+        },
+        {
+          "t": "p",
+          "x": "Nichols ya usó este método en una pieza de prueba de concepto de western que está haciendo su propia productora, Monstrous Moonshine. El equipo fue al norte de California y filmó una casa abandonada de la época de la fiebre del oro, pero no se detuvo en capturar solo los planos de establecimiento. En el lugar, capturaron esa locación como un Gaussian splat, la llevaron a un set de pared LED, y continuaron el resto del rodaje en un entorno mucho más controlado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A7Ew2QZJptBcKSSDrHU24f-1200-80.jpg",
+          "cap": "Un ejemplo de cómo traer una locación escaneada al volumen. (Crédito de imagen: Chaos)"
+        },
+        {
+          "t": "p",
+          "x": "El guion incluía una escena en la que se encienden las luces de la casa y, al final, toda la casa arde, un cambio que no existía cuando se hizo el escaneo. Nichols dice que, gracias al nuevo splat reiluminable, pudieron añadir iluminación CG al propio splat. El director de arte diseñó un nuevo porche en Rhino y lo colocó sobre la escena escaneada, y como todo se trazó por rayos junto, el splat y los polígonos respondieron a las mismas fuentes de luz y se proyectaron sombras entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Los Gaussian splats llamaron la atención por lo rápido que se podían capturar, pero siempre quedaban un poco fuera de lugar junto a los activos de CG tradicionales. Chaos considera que, si se puede traer un escaneo, añadirle geometría, reiluminarlo por completo y seguir trabajando desde ahí, los splats dejan de ser una curiosidad y se convierten en un activo de producción real. Autodesk también anunció en SIGGRAPH que incorporará Gaussian splats editables a 3ds Max."
+        }
+      ]
+    },
+    "design/flux3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Black Forest Labs presentó un nuevo modelo generativo, FLUX 3. La familia FLUX, que se había quedado en la generación de imágenes, ahora también produce videos de hasta 20 segundos que incluyen sonido."
+        },
+        {
+          "t": "p",
+          "x": "Al manejar imágenes fijas y video en un mismo modelo, se amplía el rango de resultados que un diseñador puede tocar en la etapa de boceto. El punto que lo separa de la generación anterior es que los clips llevan audio en vez de quedarse mudos."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, no está disponible para todos desde el principio. FLUX 3 se lanza primero en acceso limitado."
+        }
+      ]
+    },
+    "design/mediocre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En julio de 2026, el autor almorzó con su colega Maxim Sapiulin. Ambos enseñan cursos de diseño de interacción en ArtCenter College of Design y Santa Monica College. Como suele pasar en las conversaciones de estos días, el tema derivó hacia la IA, y surgió la preocupación de enseñar diseño de UX, HCI e IxD con la IA como telón de fondo."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*AmFyXhpWu-1nF8VVDvrZdQ.png",
+          "cap": "Una ilustración que presenta a ChatGPT como un robot luchador y a Nietzsche como el filósofo. (Crédito de imagen: UX Collective)"
+        },
+        {
+          "t": "p",
+          "x": "Los dos pertenecen a una generación que se puso manos a la obra directamente con la tecnología. Aprendieron diseño y código juntos, desarmando sistemas de diseño en código y construyendo prototipos. El propio autor dio sus primeros pasos en HTML y CSS en 2003, decorando un perfil de Myspace en la universidad."
+        },
+        {
+          "t": "p",
+          "x": "En el posgrado, por necesidad, pasaron de HTML, CSS y JS a trabajar con hardware usando Arduino y Raspberry Pi. Sapiulin hizo su maestría en Parsons; el autor, en ArtCenter."
+        },
+        {
+          "t": "p",
+          "x": "Para dos educadores que forjaron su instinto a base de ensuciarse las manos, ver a los estudiantes apoyarse solo en la salida por defecto resulta aún más preocupante. La inquietud de Becker es clara: cuanto más se depende de las herramientas generativas, más se desliza el resultado hacia una 'mediocridad aceptable'. Él se aferra a la pregunta de qué deben hacer los diseñadores para superar ese valor por defecto."
+        }
+      ]
+    },
+    "design/bull-bear-design-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Andy Budd examinó cómo la IA está reconfigurando el diseño de producto. Lo plantea en dos escenarios, uno optimista y otro pesimista."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El lado optimista es la autonomía. Los diseñadores obtienen mayor independencia y necesitan pedir permiso con menos frecuencia para hacer las cosas."
+        },
+        {
+          "t": "p",
+          "x": "El lado pesimista es lo que esa autonomía deja al descubierto. Cuanto mayor es la autonomía, más difícil resulta ocultar brechas de habilidad que antes permanecían escondidas."
+        },
+        {
+          "t": "p",
+          "x": "A medida que desaparece la fricción de los traspasos, el texto examina hacia dónde se dirigen los roles de diseño y las formas de trabajo."
+        }
+      ]
+    },
+    "design/get-out-of-their-way": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahora cualquier organización de diseño recurre a las mismas herramientas de IA. Entonces, ¿dónde se decide la ventaja?"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El argumento del texto es claro: ganan las organizaciones que confían en los profesionales que ya entienden esa herramienta."
+        },
+        {
+          "t": "p",
+          "x": "Es una propuesta de liderazgo: ante la adopción de la IA, los equipos no deben cerrar la puerta, sino reconstruir la organización alrededor de ella."
+        }
+      ]
+    },
+    "design/nanobanana-earth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google integró su modelo de generación de imágenes, Nano Banana, en Google Earth. Ahora pueden crearse escenas casi fotorrealistas directamente sobre el mapa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nano-banana-image-generation-comes-to-google-earth/intro-1785351587.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los usos son principalmente dos. Uno es revivir un pasado desaparecido: una instrucción como “Pompeya del 78” reproduce de forma fotorrealista ruinas que ya no existen."
+        },
+        {
+          "t": "p",
+          "x": "El otro es anticipar lo que aún no se ha construido. Proyectos de construcción futuros pueden colocarse sobre el mapa para visualizar su aspecto antes de terminarse."
+        },
+        {
+          "t": "p",
+          "x": "Es un caso concreto de la IA generativa de imágenes entrando en el diseño espacial, la visualización arquitectónica y el renderizado de conceptos basados en lugares."
+        }
+      ]
+    },
+    "design/shieldfont-poison-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Diseñadores tipográficos presentaron una fuente gratuita llamada ShieldFont. Está diseñada para corromper deliberadamente el proceso de entrenamiento cuando los modelos de IA extraen su texto e imágenes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hCZp4o3EEtij6rJHs3HXZF-2560-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Es una respuesta a nivel de oficio de la comunidad de diseño y tipografía frente a la recopilación de datos de la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores cuentan ahora con una herramienta defensiva que impide que su trabajo sea absorbido como datos de entrenamiento."
+        }
+      ]
+    },
+    "design/ai-fluency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b437cd59cfe0bda60b9a33da411e38252b56dbd1-1682x918.png"
+        },
+        {
+          "t": "p",
+          "x": "El 90% de las personas que crean productos considera esenciales las habilidades en IA. Pero Figma cree que los equipos están optimizando las equivocadas."
+        },
+        {
+          "t": "p",
+          "x": "Redefine lo que significa el oficio del diseño, más allá del simple dominio de herramientas."
+        },
+        {
+          "t": "p",
+          "x": "Una mirada incisiva a cómo la IA está reescribiendo qué habilidades necesitan realmente las organizaciones de diseño."
+        }
+      ]
+    },
+    "design/creative-technologists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología creativa era antes un título marginal. Ahora, a medida que la IA derriba la brecha entre diseño y código, se está convirtiendo en una capacidad central para los equipos de producto modernos."
+        },
+        {
+          "t": "p",
+          "x": "El diseñador que construye está pasando de ser una rareza a ser la forma estándar de operar de las organizaciones de diseño en la era de la IA."
+        }
+      ]
+    },
+    "design/figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d1366af0a7f2c9945aa6a7a693f319518f22fc63-3840x2160.png"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make incorporó un panel visual de propiedades y una función de anotaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores pueden corregir de inmediato lo que genera la IA, y trasladar esa intención al código sin volver a escribir el prompt."
+        },
+        {
+          "t": "p",
+          "x": "Es una actualización real del constructor de IA de Figma que ajusta aún más el vínculo entre diseño y código."
+        }
+      ]
+    },
+    "design/perplexity-color": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png"
+        },
+        {
+          "t": "p",
+          "x": "Este es un registro práctico de cómo usar IA generativa, en este caso Perplexity, para construir un sistema de color y tokens de paleta para la visualización de datos divergentes."
+        },
+        {
+          "t": "p",
+          "x": "Expone, como flujo de trabajo concreto, cómo incorporar la IA al diseño de un sistema de color sistemático y atento a la accesibilidad."
+        }
+      ]
+    },
+    "design/unwanted-ai-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXgEEFXG8UBjSLSnk2RFD8-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En Amazon, Tinder y Reddit, varios productos generan o retocan ahora en silencio las fotos de los usuarios con IA por defecto. Si quieres salir, tienes que desactivarlo tú mismo."
+        },
+        {
+          "t": "p",
+          "x": "En un momento en que la IA generativa de imágenes entra en las interfaces habituales sin preguntar, este es un examen agudo del diseño de producto y el consentimiento del usuario."
+        }
+      ]
+    },
+    "design/google-earth-rollback": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pocos días después de añadir la herramienta de imágenes generativas Nano Banana a Google Earth, Google volvió a retirarla. La razón fue el continuo rechazo de los usuarios."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-rolls-back-google-earth-image-generation/l-intro-1785524818.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de la crítica era claro. Las escenas inventadas por la IA erosionan la confianza que un producto como el mapa, que debe apoyarse en hechos, necesita tener. En el momento en que una herramienta representa de forma convincente un paisaje que no existe en realidad, se tambalea la base de confianza que debe tener cualquier herramienta de visualización basada en lugares."
+        },
+        {
+          "t": "p",
+          "x": "Esta marcha atrás, llegada en poco tiempo, se lee como una señal. Es un caso concreto que muestra hasta dónde llega el límite cuando se aplica directamente la IA de imágenes generativas al diseño espacial y a la visualización basada en lugares."
+        }
+      ]
+    },
+    "design/jakobs-law-chatbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA está uniendo pantallas y superficies de distintas apps en una sola ventana de chat conversacional. La experiencia que antes se aprendía moviéndose entre pantallas ahora converge en un único cuadro de entrada."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*SpJMK3a6F5z94Lj-6uKzRQ.png"
+        },
+        {
+          "t": "p",
+          "x": "Este texto revisa la Ley de Jakob, que trata sobre la familiaridad, adaptándola a la interfaz de usuario generativa. Se pregunta qué patrones debe conservar el diseñador para que el usuario no pierda la orientación incluso cuando la interfaz se genera sobre la marcha."
+        },
+        {
+          "t": "p",
+          "x": "La clave es un mínimo de familiaridad que permita al usuario percibir dónde está aunque la pantalla cambie cada vez. La cuestión central es qué conservar entre la libertad generativa y el sentido de la orientación."
+        }
+      ]
+    },
+    "design/rebelle-brush": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rebelle 8.3, de Escape Motions, tomó una dirección distinta. En lugar de añadir IA generativa, lleva aún más lejos la simulación física de pinceles y acuarela."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mvo3TZvdBoXsZMkfVGT9TC-1497-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un mercado de herramientas de diseño que se apresura a añadir funciones de IA, esta actualización se sitúa, de forma deliberada, en el lado opuesto. Es una actitud que prioriza el oficio, centrada en que el pincel se sienta real, no en generar el dibujo por el usuario."
+        },
+        {
+          "t": "p",
+          "x": "Es un caso que vale la pena señalar dentro de la tendencia del software creativo a elegir la simulación por encima de la generación. La elección pregunta no qué automatizar, sino hasta dónde recuperar la sensación de la mano."
+        }
+      ]
+    },
+    "design/rethinking-friction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que la IA llega a gestionar casi todo al instante, este texto pregunta si la “ausencia de fricción” es siempre el valor por defecto correcto."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/da:true/resize:fit:862/0*awQhwQtyDfSv3nDp"
+        },
+        {
+          "t": "p",
+          "x": "El autor invierte la actitud de perseguir solo la fluidez. Señala dónde se debe reintroducir fricción deliberada en los productos basados en IA para que el usuario controle el flujo por sí mismo."
+        },
+        {
+          "t": "p",
+          "x": "Esta perspectiva también transforma el propio proceso de diseño. Decidir qué pausas y confirmaciones conservar, en lugar de qué eliminar, es lo que devuelve al usuario el margen de decisión."
+        }
+      ]
     }
   }
 }

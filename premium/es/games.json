@@ -2771,6 +2771,384 @@
           "x": "Presenta el caos hecho a mano como una ventaja que lo distingue de los pipelines generativos, una respuesta formulada en el lenguaje de la creación y el diseño."
         }
       ]
+    },
+    "games/dear-passengers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dear Passengers es un juego cooperativo en el que tú y tus amigos pilotan un avión, atienden a los pasajeros y completan misiones. Tendrás que lidiar con física de ragdoll, eventos aleatorios y, sobre todo, con la torpeza de los demás. Piénsalo como algo parecido a Peak, solo que ambientado en un avión."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Las listas de deseos se acumularon por cientos de miles en un solo día, y se extendió como la pólvora en las redes sociales. Estaba a punto de convertirse en el próximo juego indie para jugar con amigos que se traga un fin de semana entero, hasta que algunos señalaron detalles poco favorecedores."
+        },
+        {
+          "t": "p",
+          "x": "Una de las etiquetas de personaje en el tráiler dice Epst. J. Surgió una explicación de que serían las siglas, en neerlandés, de European Pilot Selection & Training, pero con una J añadida al final, se lee como una referencia a Jeffrey Epstein. También hay un personaje llamado PDaddy. En el Discord oficial, una publicación de un desarrollador en la que afirma no justificar las acciones de Epstein aparece junto a un mensaje de esa misma persona, en un canal de memes, animando a que se hicieran más chistes sobre Epstein."
+        },
+        {
+          "t": "p",
+          "x": "Las sospechas sobre IA generativa surgieron de una oferta de empleo. Se encontró un anuncio que exigía estar “adept at using generative AI for concept creation”, y tras salir a la luz, la frase desapareció del sitio web de la desarrolladora. El mismo desarrollador que respondió por los chistes sobre Epstein afirmó que nadie en el equipo usa IA generativa, y la página de Steam tampoco incluye ninguna indicación de IA. Como Steam no exige esa divulgación, no hay pruebas para verificarlo en ningún sentido."
+        }
+      ]
+    },
+    "games/joga-100": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Famitsu informó sobre una encuesta de la Asociación Japonesa de Juegos en Línea (JOGA) y el Instituto de Investigación Integral Kadokawa ASCII. El resultado: el 100% de los desarrolladores japoneses que hacen juegos en línea usa IA generativa de alguna forma. Hay una salvedad, que se basa en los encuestados, pero la cifra en sí no deja mucho margen de duda."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL.png",
+          "cap": "(Image credit: Square Enix)"
+        },
+        {
+          "t": "p",
+          "x": "Lo que realmente merece atención es el uso que se le da. La mayoría de los estudios citó como uso “user preference analysis” (análisis de preferencias de usuario) y “user behavior prediction” (predicción de comportamiento de usuario), no el arte, ni la música, ni el doblaje. Hay sobradas razones para oponerse a la adopción de la IA en sí misma, pero si se mira solo el impacto sobre el trabajo creativo, este uso está en el extremo relativamente inofensivo. El autor de PC Gamer lo admite justo hasta ese punto, añadiendo la salvedad de que “la mayoría” no es “todos”."
+        },
+        {
+          "t": "p",
+          "x": "También se dieron cifras de cuota de modelos: Google Gemini encabeza con un 94%, seguido de Claude con 84% y GitHub Copilot con 76%."
+        },
+        {
+          "t": "p",
+          "x": "Esto no significa que a los usuarios les sea indiferente la IA. En la misma encuesta, los jugadores expresaron la preocupación de que “todos los juegos empiezan a parecerse”. El rechazo tipo bombardeo de reseñas en las plataformas de habla inglesa no estalla en un vacío cultural. PC Gamer también señaló los problemas de consumo eléctrico y ruido de los centros de datos."
+        }
+      ]
+    },
+    "games/mw4-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El año pasado, Call of Duty recibió duras críticas porque sus cosméticos, incluidas las tarjetas de rango, se veían claramente hechos con IA. Con Modern Warfare 4 a solo unos meses de su lanzamiento, es razonable preguntarse si esa tendencia continuará."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/05/MW4_CAM_013_BRANDED.jpg",
+          "cap": "Image via Activision"
+        },
+        {
+          "t": "p",
+          "x": "En una presentación conjunta en Nueva York, finalmente surgió la pregunta. Mark Grigsby, codirector de estudio de Infinity Ward, simuló caminar con cautela antes de responder. En pocas palabras, sí las usan. “We use whatever tools we have to enhance and help our developers to complete [tasks] on time”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "No es una confesión nueva. La página de Steam de MW4 ya indica que el equipo de desarrollo usa herramientas de IA generativa para crear algunos activos del juego. Esto coincide con la postura que adoptó Activision el pasado noviembre, cuando surgió la reacción tras el lanzamiento de Black Ops 7, siempre acompañada de la frase de que el proceso creativo lo lideran las personas del estudio."
+        },
+        {
+          "t": "p",
+          "x": "Aún no está claro cómo se usan realmente estas herramientas en la práctica. Destructoid escribió que probablemente funcionan como un atajo para reducir el tiempo de desarrollo, aunque todavía está por verse si sustituyen de verdad puestos de trabajo humanos. Aun así, su conclusión es que la caja de Pandora ya está abierta en el desarrollo cotidiano de videojuegos."
+        }
+      ]
+    },
+    "games/unity-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3hp-NNCNVPY"
+        },
+        {
+          "t": "p",
+          "x": "Es un breve video de consejos de Unity 6 publicado por Unity. Muestra un flujo para montar rápidamente una UI provisional usando Unity MCP y UI Toolkit."
+        },
+        {
+          "t": "p",
+          "x": "Empieza conectando el agente de IA que ya usas a un servidor Unity MCP. Si se le pide mediante un prompt que cree un menú principal con tres botones sobre un fondo translúcido, este aparece directamente en la escena. Al añadir un script para enlazar la lógica de los botones, queda listo un menú básico que el equipo podrá reestilizar más adelante."
+        },
+        {
+          "t": "p",
+          "x": "En la descripción también se incluye un enlace a la documentación de UI Toolkit. Al tratarse de un video corto, el contenido original llega hasta aquí."
+        }
+      ]
+    },
+    "games/houdini22": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SideFX ha lanzado Houdini 22. El núcleo de esta versión es el manejo nativo de splats gaussianos. El método de campos de radiancia neuronal, que captura una escena completa a partir de varias fotos, ahora funciona directamente dentro de la herramienta sin rodeos."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz también se ha rediseñado. Se reorganizó la UI y se perfeccionaron Copernicus y KineFX. El flujo de renderizado también se ajustó para la producción de juegos y VFX."
+        },
+        {
+          "t": "p",
+          "x": "El peso recae en la herramienta de captura. A medida que la captura neuronal, ligada a la IA, entra en el pipeline central del arte de videojuegos, la forma en que los artistas técnicos capturan y construyen los assets cambia a partir de mañana."
+        }
+      ]
+    },
+    "games/dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GB4RKTAnxZ8BWDNa7sq4hB-1094-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia presentó dos deslizadores principales que permiten a los desarrolladores ajustar directamente el filtro de IA de DLSS 5, y detalló por primera vez cómo funcionan."
+        },
+        {
+          "t": "p",
+          "x": "Esto llegó después de que surgieran preocupaciones de que el renderizador neuronal estaba quitando el toque artesanal de la imagen final. Los jugadores de PC examinaron uno por uno hasta dónde llega cada uno de estos dos deslizadores."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia dice que está creando más controles para el lado de los desarrolladores. Para los artistas técnicos preocupados por perder voz sobre el fotograma final, es un punto que vale la pena tener presente ahora."
+        }
+      ]
+    },
+    "games/meshy3dagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meshy presentó la beta del 3D Agent, una IA conversacional que recuerda el contexto a través de los pasos. Los artistas de videojuegos intercambian ideas dentro de ella y siguen puliendo un conjunto de activos con un estilo coherente."
+        },
+        {
+          "t": "p",
+          "x": "El cambio central está en la actitud. Pasó de ser una herramienta que termina con un solo prompt a un socio creativo que piensa junto al usuario."
+        },
+        {
+          "t": "p",
+          "x": "Los activos creados se pueden exportar directamente a los pipelines de Blender, Unreal Engine y Unity, lo que significa que están listos para producción en cuanto se obtienen."
+        }
+      ]
+    },
+    "games/unity7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Unity presentó la hoja de ruta de Unity 7 en Unite Seoul. La idea central es una sola: mantener la estructura de Unity 6 y construir sobre ella sin necesidad de reescribir el build."
+        },
+        {
+          "t": "p",
+          "x": "A esto se suma una optimización gráfica asistida por IA y la integración con el motor Unity Vector AI. Unity dijo que esta versión fue creada “para un futuro en el que las personas y los agentes de codificación trabajen juntos”."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, Unity dejó claro que los estudios que decidan dejar la IA fuera de su proceso creativo no quedarán rezagados. La forma en que los equipos diseñen el futuro empieza a cambiar justo en esta hoja de ruta."
+        }
+      ]
+    },
+    "games/ai-2d-to-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigadores presentó una nueva técnica de IA que convierte diseños y dibujos planos en 2D en modelos 3D completos. Al elevar un solo dibujo a una forma tridimensional, reduce mucho el proceso de modelado que antes se pulía a mano, pieza por pieza."
+        },
+        {
+          "t": "p",
+          "x": "Es un cambio que se nota de inmediato en el flujo de creación de assets para videojuegos. Al trasladar el arte conceptual a una geometría lista para usarse en el juego, el camino del boceto al modelo terminado se acorta considerablemente."
+        }
+      ]
+    },
+    "games/atelico": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "El estudio Atelico fijó el rumbo de la IA generativa en su juego como ético, de bajo consumo y local, procesado en el propio dispositivo en lugar de depender de servidores. Es un intento de resolver de otro modo la preocupación que hoy tiene la industria."
+        },
+        {
+          "t": "p",
+          "x": "Su debut, Bobium Brawlers, aspira a ser una obra que “suma el potencial de la IA al diseño clásico de juegos”. Sobre todo, destaca que pagó de forma justa a todos los artistas que participaron, marcando distancia frente a la corriente de IA que recolecta obras de forma explotadora."
+        }
+      ]
+    },
+    "games/kaneko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BYZMRqeh5vBYm4F9o39HHL-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El veterano artista Kazuma Kaneko, que ha dibujado Persona y Shin Megami Tensei, declaró que no usará IA generativa en su próximo juego. La decisión llega después de que dos deck-builders hechos con ayuda de IA provocaran el rechazo de los fans."
+        },
+        {
+          "t": "p",
+          "x": "Dijo: “Dibujar yo mismo es más rápido”. Es un caso que marca con claridad dónde el trabajo dibujado a mano todavía supera a la IA en el arte de los videojuegos."
+        }
+      ]
+    },
+    "games/nvidia-siggraph": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SIGGRAPH-2026-Keynote-21-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia mostró una nueva tecnología de renderizado neuronal y su modelo de mundo fundacional Cosmos 3 Edge en SIGGRAPH 2026. El eje es permitir manejar contenido en 4K en tiempo real con más precisión, ampliando el control artístico de los creadores. El anuncio también incluyó 22 resultados de investigación en gráficos."
+        },
+        {
+          "t": "p",
+          "x": "La integración del Model Context Protocol (MCP) también se amplió. Ahora los agentes de IA ayudan directamente dentro de herramientas creativas como Blender, Unreal Engine y Adobe Creative Cloud. Aun así, decidir qué crear sigue en manos de las personas, manteniendo el principio de que el juicio creativo lo tiene el humano."
+        }
+      ]
+    },
+    "games/damagecontrol": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+          "cap": "Imagen principal de Damage Control"
+        },
+        {
+          "t": "p",
+          "x": "Jesse Mietinen presentó Damage Control, un kit de herramientas para Blender. El proyecto, al que una vez llamó un 「generador al estilo de The Last of Us」, llegó ahora a su lanzamiento oficial. Reúne herramientas generativas que se combinan entre sí para ayudar a crear entornos de juego más realistas y más rápido."
+        },
+        {
+          "t": "p",
+          "x": "Incluye un generador de máscaras de manchas, una herramienta de dispersión y una herramienta generativa, además de shaders adicionales y un mega preset. Maneja en un solo lugar el manchado de superficies, la dispersión de objetos y la acumulación procedural."
+        },
+        {
+          "t": "p",
+          "x": "Todo está construido con nodos de geometría para cuidar el rendimiento, y se hizo para mantener la compatibilidad con el paso del tiempo. Mietinen dijo que dará soporte con actualizaciones durante tres años."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora está disponible en Gumroad (embracefx.gumroad.com/l/damagecontrol), con un listado en Superhive previsto más adelante. Las herramientas individuales se lanzarán por separado tras el fin de las vacaciones de verano. También publicó una serie de tutoriales en YouTube para aprender rápido. Mietinen ahora trabaja bajo el nombre Embrace FX."
+        }
+      ]
+    },
+    "games/indiedevs25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+          "cap": "Estudios indie que evitan la IA generativa"
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa se ha vendido como un acelerador para el desarrollo indie, con la idea de que permite a menos personas hacer más juegos más rápido. Pero los 25 estudios indie con los que habló un periodista dieron una respuesta distinta."
+        },
+        {
+          "t": "p",
+          "x": "Dicen que evitan la IA en su mayoría. La razón es simple: it creates lesser games (crea juegos de menor calidad). En el trabajo real, donde el acabado y la sensación importan más, la IA termina siendo un obstáculo."
+        },
+        {
+          "t": "p",
+          "x": "El artículo traza dónde la IA realmente encaja y dónde falla, a través de las voces de 25 estudios. Por ser reportaje de campo y no debate, ofrece una idea del lugar real de la IA en el trabajo de diseño de juegos."
+        }
+      ]
+    },
+    "games/metahumancrowds": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "wQoa1j4Rgss"
+        },
+        {
+          "t": "p",
+          "x": "Es un video de sesión de Unreal Fest Chicago 2026. Trata sobre cómo llenar escenas con multitudes masivas de MetaHumans en Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo son Mass y Nanite. Mass maneja de forma eficiente el comportamiento y el estado de un gran número de personajes, mientras que Nanite renderiza geometría de alta densidad sin sobrecarga, llenando el mundo del juego de humanos digitales."
+        },
+        {
+          "t": "p",
+          "x": "Sobre todo, es una fuente primaria publicada directamente por Unreal. Destaca por ser un pipeline de producción reutilizable. Es una sesión técnica que los diseñadores pueden aplicar tal cual."
+        }
+      ]
+    },
+    "games/ai-game-music": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PC Gamer abrió una discusión sobre la tendencia de usar IA generativa en las bandas sonoras de videojuegos. Pregunta si la música de los juegos todavía necesita un 'toque humano'."
+        },
+        {
+          "t": "p",
+          "x": "A medida que las herramientas de música con IA se vuelven lo bastante baratas y capaces para musicalizar juegos, examina cómo podría cambiar el trabajo de compositores y diseñadores de audio."
+        },
+        {
+          "t": "p",
+          "x": "También recoge las opiniones de los jugadores sobre en qué punto sienten que la música hecha por IA cruza una línea."
+        }
+      ]
+    },
+    "games/games-ai-culture-war": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El investigador de IA en videojuegos Luke Dicken dice que algunas empresas encendieron una guerra cultural. La IA es útil, afirma, pero todos han inflado hasta el absurdo pequeños incidentes en torno a ChatGPT."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
+          "cap": "Luke Dicken, veterano de la IA en videojuegos"
+        },
+        {
+          "t": "p",
+          "x": "La verdadera oportunidad que él ve no está en desplazar a las personas. Está en experiencias de juego más ricas y receptivas al contexto, y en herramientas de producción más inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Señala que tanto el elogio más ruidoso a la IA generativa como la reacción en contra han pasado por alto la sustancia real del trabajo de creación. El texto examina con calma cómo el aprendizaje automático está cambiando realmente el diseño y el equilibrio de los juegos."
+        }
+      ]
+    },
+    "games/nexusmods": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexus Mods, la mayor plataforma de modding de videojuegos para PC, aprieta las tuercas de su política sobre IA generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ahora los modders deben etiquetar correctamente los activos generados por IA en lo que suben. Como plataforma que lidia con el “slop” de IA, es una medida que cambia de forma real cómo trabaja y etiqueta la comunidad de modding."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, también se señala que, frente a la magnitud del slop que sigue llegando, la respuesta todavía resulta blanda."
+        }
+      ]
+    },
+    "games/therelic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En torno al preview build del soulslike The Relic: First Guardian, varios creadores dieron la voz de alarma al señalar elementos que sospechaban hechos con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta del director fue esta: la IA solo intervino en la etapa inicial de conceptos, en unos pocos conceptos de pantallas de carga y en iconos de objetos consumibles. Insistió en que nada de eso llegó al juego final."
+        },
+        {
+          "t": "p",
+          "x": "Es un caso que permite asomarse a hasta dónde llevan en realidad los estudios la IA generativa dentro de su proceso de concepto y diseño, y a qué forma están tomando ahora las normas de divulgación que fijan ese límite."
+        }
+      ]
     }
   }
 }

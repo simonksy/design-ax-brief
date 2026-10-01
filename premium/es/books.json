@@ -2349,6 +2349,486 @@
           "x": "A continuación dijo: \"No son los libros los que crean lectores, sino la cultura de la lectura la que crea lectores\", y añadió: \"La IA está cambiando la forma de hacer libros, pero ningún algoritmo se enamora de la lectura. Las personas sí pueden. Un solo libro cambia una vida\"."
         }
       ]
+    },
+    "books/australia-office-of-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/creators-protest-ai-in-parliament.jpg",
+          "cap": "Artistas, escritores, creadores y otras figuras de las industrias creativas se reunieron frente al Parlamento. Foto: Shoelace Creative."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación de Editores de Australia (Australian Publishers Association) dijo sentirse “alentada” por las señales del gobierno en materia de derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "El primer ministro Anthony Albanese se prepara para anunciar una Oficina de IA (Office of AI) dentro del departamento que dirige."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esto está la presión de empresas de IA para relajar las normas de minería de texto y datos."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original solo está disponible para suscriptores de pago, por lo que este resumen se limita al fragmento publicado."
+        }
+      ]
+    },
+    "books/ai-uptake": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según el informe «Thrive» 2026 de Creative Access, la tasa de adopción de IA en la edición se quedó en solo el 6%. Es la cifra más baja entre las industrias creativas encuestadas."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esto significa que, mientras los campos creativos vecinos adoptan herramientas de IA mucho más rápido, la edición se queda especialmente atrás. El informe señala como trasfondo las viejas preocupaciones sobre derechos de autor y derechos de los escritores."
+        },
+        {
+          "t": "p",
+          "x": "La cifra del 6% se convierte en un punto de referencia firme para medir dónde se sitúa la edición frente a otros sectores creativos."
+        }
+      ]
+    },
+    "books/hologram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Robert Moore dice que la edición de hoy se enfrenta a un «problema del holograma» cada vez mayor. Las herramientas de resumen por IA, los chatbots, los textos de marketing y los pódcast transmiten el contenido del libro de forma tan convincente que parece el original."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/07/book-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como resultado, los lectores se inclinan a consumir una réplica del libro en lugar de abrirlo, llegando a la ilusión de haberlo leído sin haber leído el original."
+        },
+        {
+          "t": "p",
+          "x": "Moore señala que este cambio está reconfigurando no solo cómo se escriben y venden los libros, sino también cómo se leen. Para editores y comercializadores plantea de nuevo preguntas sobre la capacidad de ser descubierto y el valor del libro en sí."
+        }
+      ]
+    },
+    "books/ai-course": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Se abre un nuevo programa en línea de cuatro semanas para quienes trabajan en el mundo editorial. El propósito es ayudarles a atravesar la era de la IA de forma responsable."
+        },
+        {
+          "t": "p",
+          "x": "El curso se organiza en tres partes: entender qué es la tecnología de IA, construir flujos de trabajo que de verdad sirvan en la práctica, y fijar normas de uso y protección dentro de la organización. El énfasis está en que los equipos fijen sus propios principios, en lugar de ofrecer solo una muestra superficial de herramientas."
+        }
+      ]
+    },
+    "books/editor-ai-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Melbourne y RMIT lanzaron una encuesta a editoriales y editores australianos. El objetivo es ver cómo usan realmente la IA generativa en su trabajo."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque se centra en los modelos de lenguaje de gran tamaño basados en texto. Sigue el hilo del uso real para comprobar hasta dónde, y de qué manera, estas herramientas se han filtrado en distintas etapas de la edición y la publicación."
+        }
+      ]
+    },
+    "books/zedoc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Beat Technology, de Noruega, escindió una nueva empresa, Zedoc. Es una plataforma de IA agéntica que procesa por sí sola el trabajo de metadatos de las editoriales."
+        },
+        {
+          "t": "p",
+          "x": "El alcance de Zedoc es amplio. Añade clasificaciones temáticas como Thema, BISAC y Dewey, completa información de accesibilidad y convierte voz en texto. De ahí sigue generando registros ONIX y dividiendo audiolibros en capítulos."
+        },
+        {
+          "t": "p",
+          "x": "Lo que busca, en última instancia, es la búsqueda y el descubrimiento basados en IA. Si los datos del producto se organizan de esa forma, el trabajo editorial que antes estaba disperso y se repetía se ordena en un solo flujo."
+        }
+      ]
+    },
+    "books/bloomsbury-ai-licensing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La noticia editorial de esta semana estuvo marcada por el informe de resultados de Bloomsbury. Los ingresos de su licencia de IA con Google respaldaron el buen desempeño."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, varias editoriales emprendieron acciones legales contra Google, alegando que usó sus libros sin autorización para entrenar a Gemini."
+        },
+        {
+          "t": "p",
+          "x": "En torno al mismo entrenamiento de IA, un lado recurre a los tribunales mientras el otro obtiene ingresos, lo que revela un panorama dividido en la industria."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
+        }
+      ]
+    },
+    "books/hkbookfair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según el Consejo de Desarrollo Comercial de Hong Kong (HKTDC), la 36.ª Feria del Libro de Hong Kong cerró el 21 de julio. Hubo mal tiempo al inicio, pero la participación fue alta, y este año también se celebró el primer Festival Literario de la ASEAN."
+        },
+        {
+          "t": "p",
+          "x": "El Foro Internacional de Publicación anual y la mesa redonda de IP, dentro del programa para profesionales, reunieron a más de 250 personas. Bajo el tema 'Lectura para todos en la era de la IA: reconfiguración y coevolución', los editores hablaron sobre si la IA podría ayudar a mejorar la eficiencia de la lectura y fomentar el pensamiento crítico y profundo, y sobre cómo distintos sectores podrían unir fuerzas para cultivar la cultura lectora."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, varios medios, entre ellos la Voz de América (VOA), informaron que 'varias editoriales de libros políticos' fueron impedidas de participar en la feria este año. Los organizadores dijeron que no censuran por separado los libros en venta, pero esta feria se celebró después de que varias personas vinculadas a librerías fueran detenidas recientemente bajo la nueva ley de seguridad nacional promulgada en 2020."
+        }
+      ]
+    },
+    "books/bloomsbury-payout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bloomsbury recibirá unos $18,7 millones, alrededor de 14 millones de libras, del acuerdo de derechos de autor de Anthropic. Es la primera cifra concreta que muestra cuánto recibe realmente una editorial cuando su catálogo se usa como datos de entrenamiento de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "El cálculo es sencillo. Hay 14.087 títulos de Bloomsbury en la lista del acuerdo, y la indemnización es de unos $3.000 por obra. De ahí se deduce cerca de un 10% por gastos, incluidos los honorarios legales, y lo que queda se reparte entre la editorial y los autores."
+        },
+        {
+          "t": "p",
+          "x": "Bloomsbury es la editorial de Sarah J. Maas, Susanna Clarke y J.K. Rowling. El dinero del acuerdo no llegará de una sola vez. Podría llegar en pagos fraccionados a partir de la segunda mitad de este año fiscal."
+        },
+        {
+          "t": "p",
+          "x": "En el origen del caso está el uso por parte de Anthropic de libros pirateados para entrenar a Claude. El acuerdo global quedó fijado en 1.500 millones de dólares, unos $3.000 por obra. Los 14 millones de libras de Bloomsbury son el primer caso que muestra cómo ese total se refleja en los libros contables de una editorial concreta."
+        }
+      ]
+    },
+    "books/ipa-congress-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El tema más discutido en los paneles del International Publishers Congress, celebrado en Kuala Lumpur, Malasia, del 5 al 9 de julio, fue la IA generativa. El evento fue organizado por la Asociación Internacional de Editores (IPA)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/IPA-congress-400x473.jpg",
+          "cap": "International Publishers Congress"
+        },
+        {
+          "t": "p",
+          "x": "El abanico de temas fue amplio. Empezó con la cuestión de licenciar libros como datos de entrenamiento de IA, y llegó hasta cómo deben reorganizar las editoriales su trabajo editorial y de producción en torno a la IA."
+        },
+        {
+          "t": "p",
+          "x": "Books+Publishing preguntó a tres editores australianos que asistieron al congreso, Agata Mrva-Montoya, Andrea Hanke y Louise Stark, sobre el ambiente en el lugar."
+        },
+        {
+          "t": "p",
+          "x": "El tema de este 35.º congreso fue 'Publishing Intelligence, Sustaining Forward'. Se reunieron unas 500 personas de 40 países, y más de 70 ponentes de seis continentes subieron al escenario. Una sesión de ética sobre la responsabilidad en la era de la IA se situó junto a una sesión sobre el futuro de la traducción."
+        }
+      ]
+    },
+    "books/substack-pangram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Substack lanzó ayer una nueva función. Permite a los lectores escanear un texto para comprobar cuánta ayuda de IA recibió. El motor lo aporta Pangram, una empresa líder en detección de IA. El fundador Chris Best escribió: “No queremos esperar a que tu aplicación de Substack se parezca a LinkedIn para aprender y avanzar”, y añadió: “Por eso empezamos con una nueva herramienta que aumenta la transparencia y les da algo sobre lo que darnos su opinión”."
+        },
+        {
+          "t": "p",
+          "x": "Antes de entrar en materia, hay tres condiciones que conviene señalar. El análisis de IA solo se muestra cuando un lector lo solicita. Los creadores pueden desactivar la función en sus propios textos. Y solo funciona en textos de más de 100 palabras publicados después de las 8:30 a.m., hora del Pacífico, del 21 de julio."
+        },
+        {
+          "t": "p",
+          "x": "Substack también añadió una herramienta que permite a los creadores agregar una nota “How I make this” para explicar su forma de trabajar y ajustar las expectativas de los lectores."
+        },
+        {
+          "t": "p",
+          "x": "La empresa dejó claro que no se opone a usar IA como ayuda en el trabajo. No hay ninguna prohibición, dice, y el objetivo es la transparencia. Pangram puede ejecutarse directamente sobre los borradores antes de publicarlos, los resultados de un escaneo que un autor considere erróneos pueden reportarse y eliminarse, y sigue existiendo la opción de desactivar por completo la función de detección de IA visible para los lectores."
+        },
+        {
+          "t": "p",
+          "x": "La reacción de los escritores ha sido en general fría. La gran preocupación es que, aunque las herramientas de detección de IA no son 100% precisas, puedan usarse de forma punitiva, sin criterio humano ni contexto, en lo que algunos llaman una “cacería de brujas”. Otros la critican por ser una prueba de pureza que ni siquiera puede decir cuánto intervino una persona. Jane Friedman escribió que ambas objeciones son válidas, pero que no está segura de que la función haga mucho daño mientras siga siendo tan limitada y los autores puedan desactivarla."
+        },
+        {
+          "t": "p",
+          "x": "Añade que no le entusiasma especialmente salir en defensa de Substack. Aun así, considera que abordar ahora el aumento repentino de textos escritos con IA y dar a los lectores un mínimo de transparencia es una postura responsable. La herramienta tiene fallos, dice, pero no es tan mala como la gente piensa."
+        },
+        {
+          "t": "p",
+          "x": "También le gusta que Substack todavía no se muestre demasiado confiada ni categórica. Cree que admitir que no se conoce la respuesta es un primer paso que puede ayudar al debate sobre la escritura y la publicación con IA, y con el tiempo a establecer normas. Si las cosas salen mal, Substack cambiará de rumbo, y ella da más peso a que la comunidad se adapte. La plataforma debe esforzarse por examinar el origen del contenido y distinguir lo mejor posible qué se hizo con IA o con su ayuda, si quiere proteger el valor de lo que hacen las personas."
+        }
+      ]
+    },
+    "books/wiley-genesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wiley anunció que se ha unido al Genesis Mission Consortium. Es una alianza público-privada que respalda el Genesis Mission, liderado por el Departamento de Energía de EE. UU., presentado como “un esfuerzo nacional para abrir una nueva era de innovación y descubrimiento acelerados por la IA”."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg",
+          "cap": "Wiley se une al Genesis Mission Consortium"
+        },
+        {
+          "t": "p",
+          "x": "Entre los miembros del consorcio figuran Nvidia, Amazon Web Services, Microsoft, IBM y Advanced Micro Devices. Wiley es el único editor científico entre ellos. El anuncio coincidió con la primera cumbre anual del Genesis Mission, celebrada en Washington D.C. el 22 de julio."
+        },
+        {
+          "t": "p",
+          "x": "El Genesis Mission fue creado por una orden ejecutiva del presidente Trump el 24 de noviembre de 2025. Su objetivo es lograr “avances decisivos que aseguren el dominio energético de Estados Unidos, aceleren el descubrimiento científico y fortalezcan la seguridad nacional”. Se basa en la orden ejecutiva de enero de 2025 “Removing Barriers to American Leadership In Artificial Intelligence” y en el “America's AI Action Plan” publicado en julio de 2025."
+        },
+        {
+          "t": "p",
+          "x": "Como miembro del consorcio, Wiley dijo que “planea ofrecer sus herramientas de inteligencia para la investigación a los investigadores de todos los laboratorios nacionales del Departamento de Energía”. También participará en el diseño de la “capa de conocimiento fundacional” que concibe el consorcio. Su base declarada es contenido y datos que están “ya entre los más citados, licenciados e integrados en las aplicaciones científicas de IA a nivel mundial”."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de IA y analítica de datos de Wiley también se unirá a un grupo de trabajo centrado en “cómo validar modelos de IA frente a la evidencia científica, y cómo gestionar los datos científicos”."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de Wiley, Matthew Kissner, dijo: “Genesis Mission es una gran oportunidad para aplicar los avances que ya hemos logrado en IA y analítica de datos a un programa de importancia nacional”. Añadió: “Nos enorgullece trabajar junto a otros miembros para ayudar a garantizar que los sistemas de IA que dan forma a la ciencia se asienten sobre flujos de trabajo validados por expertos y arraigados en contenido revisado por pares y de autoridad reconocida”, y agregó: “Avanzar en el progreso científico requiere una IA construida sobre evidencia confiable. Ese es el principio que atraviesa las plataformas de IA, los flujos de trabajo y las alianzas de Wiley”."
+        },
+        {
+          "t": "p",
+          "x": "Esta incorporación es el paso más reciente en la apuesta de Wiley por la IA. Desde 2024, ha obtenido más de $100 millones en ingresos solo por licencias de IA, se ha asociado con varias empresas de IA y lanzó Wiley AI Gateway, descrito como “una plataforma de inteligencia para la investigación interoperable que impulsa el descubrimiento científico”. En enero, nombró a Armughan Rafat para el puesto de nueva creación de director de IA y Servicios de Datos, respaldando “productos de contenido y datos preparados para IA dirigidos a desarrolladores de IA y equipos corporativos de I+D”."
+        }
+      ]
+    },
+    "books/elevenlabs-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lo más destacado del resumen de noticias de bibliotecas de julio de Book Riot fue ElevenLabs. La empresa lanzó una versión narrada por IA de La Odisea, con licencia oficial, usando una voz sintética de Michael Caine. El mismo resumen también incluyó noticias sobre la crisis de la lectura."
+        },
+        {
+          "t": "p",
+          "x": "La narración con voz sintética con licencia ha entrado, en efecto, en el mercado comercial de audiolibros. Eso trae consigo las mismas preguntas sobre qué significa para el empleo de los narradores humanos."
+        }
+      ]
+    },
+    "books/ai-nonfiction-hill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La periodista del New York Times Kashmir Hill encontró una biografía de sí misma en Amazon. Estaba escrita por una IA. Hill compró el libro, lo leyó e intentó contactar al autor, pero no logró comunicarse con él."
+        },
+        {
+          "t": "p",
+          "x": "En su lugar, otro autor sí contó su historia: Bill Jones, un jubilado de 70 años que vive en Maryland. Ha publicado más de 450 libros hechos con IA y vende cientos cada mes, la mayoría en papel."
+        },
+        {
+          "t": "p",
+          "x": "La biografía de autor de Jones en Amazon lo presenta como un escritor estadounidense de no ficción conocido por su precisión histórica. La mayor parte de esas ventas la cubren justamente libros escritos por máquinas."
+        },
+        {
+          "t": "p",
+          "x": "Jane Friedman resumió así el sentido de este reportaje: “Los escritores ya saben que este tipo de libros generados por IA están inundando el mercado. Pero es la primera vez que un periodista rastrea directamente a un autor que ha producido cientos de títulos y le pregunta por su método y sus ventas.” El texto original es un comentario sobre un artículo del New York Times, cuyo cuerpo se enlaza mediante un gift link."
+        }
+      ]
+    },
+    "books/booklens-hallucinate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un artículo que repasa las herramientas que usan quienes intentan hacer prohibir libros. RatedBooks.org está gestionado por grupos como Utah Parents Union y califica los libros de 0 a 5. Revisores voluntarios eligen y citan frases y aplican criterios estrechos, sin seguir los estándares que mantiene la crítica profesional de libros."
+        },
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
+          "cap": "Imagen principal de un artículo sobre la censura de libros."
+        },
+        {
+          "t": "p",
+          "x": "National Book Rating Index es un servicio de suscripción que vende un 'paquete de transparencia bibliotecaria' por 100 dólares. Reúne las calificaciones de varios grupos conservadores, permite buscar la lista de obras de una escuela concreta e incluso ofrece formularios de queja descargables para impugnaciones. Su fundadora, Brooke Stephens, tiene un interés económico en promover esta herramienta."
+        },
+        {
+          "t": "p",
+          "x": "BookLens fue creado por Citizens for Decency y busca por portada, ISBN o título. Como funciona enteramente con IA, alucina. El artículo lo afirma sin rodeos: “BookLens está construido enteramente sobre inteligencia artificial. Por eso alucina. Es la herramienta perfecta para mentir.”"
+        },
+        {
+          "t": "p",
+          "x": "Cuando el escritor Ryan Estrada introdujo un título inventado, la herramienta devolvió una lista detallada y fabricada de lo inapropiado que supuestamente era ese libro. A libros reales les pone advertencias disparatadas, y para libros que no existen inventa reseñas completas."
+        },
+        {
+          "t": "p",
+          "x": "Take Back the Classroom muestra fotos de estanterías y pasajes 'problemáticos' destacados en vez de calificaciones, y ha anunciado una 'Iniciativa Nacional de Impugnación de Libros' para agosto de 2026. El autor señala que estas herramientas no cumplen con los estándares de 150 años de crítica profesional de libros, citan fuera de contexto y apuntan de forma desproporcionada a contenido relacionado con personas LGBTQ."
+        }
+      ]
+    },
+    "books/open-science-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La investigación es más abierta que nunca. Se puede acceder a ella libremente y se difunde ampliamente. Pero la apertura en sí misma nunca fue el objetivo: lo eran el descubrimiento, la comprensión, la aplicación y el progreso. En un entorno donde la IA media la información, la apertura sola ya no basta para llegar ahí."
+        },
+        {
+          "t": "p",
+          "x": "Los autores proponen la Ciencia Abierta 2.0. Junto con el acceso, hay que dar peso a la confianza, la interpretación, el aprendizaje y la comunicación. La IA encuentra investigaciones relevantes con rapidez, pero comprime los matices y la incertidumbre en respuestas resumidas. En adelante, investigadores, clínicos, responsables de políticas y el público general harán preguntas y recibirán respuestas en lugar de leer artículos."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg",
+          "cap": "Un diagrama que coloca lado a lado la Ciencia Abierta 1.0 y la 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Imaginemos a un médico que busca un tratamiento para una enfermedad rara. La IA puede combinar cientos de estudios en segundos y producir una recomendación que suena plausible. Pero lo que el médico realmente necesita no es una sola respuesta, sino entender qué tan sólida es la evidencia, dónde está la incertidumbre y dónde se encuentran los límites del conocimiento actual."
+        },
+        {
+          "t": "p",
+          "x": "Por eso los autores creen que la confianza debe incorporarse a la infraestructura. Metadatos de calidad, contenido estructurado, etiquetas de contexto y una procedencia clara son esos materiales. En un entorno mediado por IA, la confianza no se hereda automáticamente de la reputación pasada, sino que hay que construirla de nuevo. Las editoriales y las bibliotecas están bien posicionadas para liderar ese trabajo."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-3-1024x297.jpg",
+          "cap": "Una ilustración que pone en una balanza lo que la IA puede ayudar a hacer frente a lo que todavía exige juicio humano."
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más fácil se vuelve buscar, más valioso se vuelve el juicio. La lectura profunda y sostenida no es solo una forma de extraer información, sino una forma de obtener comprensión. Los autores afirman que el acceso no es lo mismo que la comprensión, y que sin comprensión no hay confianza."
+        }
+      ]
+    },
+    "books/translators-craft-vs-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
+          "cap": "Los traductores que nos llevan a cada rincón del mundo"
+        },
+        {
+          "t": "p",
+          "x": "Una buena traducción apenas se nota. Cuanto más fluida parece una frase, más se borra la mano del traductor detrás de ella. Este artículo devuelve a primer plano ese trabajo borrado. La traducción literaria, sostiene, no es una operación mecánica de pasar un idioma a otro, sino una infraestructura que conecta culturas y un oficio pulido durante mucho tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esta defensa hay datos de encuestas inquietantes. A medida que la IA generativa entra en el campo de la traducción, los traductores pierden trabajo e ingresos a la vez. Una industria que busca recortar costos se inclina rápidamente hacia la traducción asistida por IA."
+        },
+        {
+          "t": "p",
+          "x": "Frente a esa tendencia, este artículo inclina la balanza hacia el oficio. El traductor no es quien cambia palabras, sino quien transporta un mundo desconocido ante el lector, un lugar que no puede sustituirse fácilmente con automatización."
+        }
+      ]
+    },
+    "books/ai-scholarship-ownership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "¿Cómo se insertará la IA en la investigación académica y quién tendrá las reglas? Los autores dicen que esta pregunta debe plantearse ahora, no después."
+        },
+        {
+          "t": "p",
+          "x": "Hay un precedente: las empresas tecnológicas terminaron quedándose con las capas de agregación digital y de búsqueda y descubrimiento. Antes de que lo mismo ocurra con la capa de IA, las editoriales académicas deberían adelantarse y construir juntas estándares de infraestructura."
+        },
+        {
+          "t": "p",
+          "x": "La era de la IA está reescribiendo quién controla el flujo de trabajo de la edición académica y profesional. Este es un examen concreto de cómo se está moviendo ese terreno."
+        }
+      ]
+    },
+    "books/pope-ai-encyclical": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png"
+        },
+        {
+          "t": "p",
+          "x": "Publishing Perspectives interpreta la encíclica sobre IA del papa León XIV como uno de los marcos éticos más coherentes presentados hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "La idea central es esta: la industria editorial no debe tratar la IA como una tecnología moralmente neutral, y debe exigir a los monopolios tecnológicos una supervisión centrada en el ser humano."
+        },
+        {
+          "t": "p",
+          "x": "Surge así una nueva lente ética y regulatoria que la industria editorial deberá recorrer de aquí en adelante."
+        }
+      ]
+    },
+    "books/ai-dilutes-book-market": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los autores llevan mucho tiempo mencionando un temor: que la avalancha de libros producidos por la IA generativa esté reduciendo de verdad la cuota y la atención que reciben los libros escritos por personas."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo estudio intenta traducir esa inquietud difusa en cifras, en un esfuerzo por medir con datos, y no por intuición, cuánto reduce el mercado y la atención la avalancha de libros escritos con IA."
+        },
+        {
+          "t": "p",
+          "x": "Puede considerarse la contraparte, en la industria creativa, de la investigación sobre detección de IA que este campo ha realizado hasta ahora. Redibuja cómo el resultado producido por la IA termina cambiando qué se lee y qué se vende."
+        }
+      ]
+    },
+    "books/ai-publishing-easier": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El diagnóstico presentado el 22 de julio en la Cumbre de Transformación de Medios fue claro. La IA está aligerando de forma notable el proceso de producción editorial, pero eso no significa que publicar se haya vuelto fácil."
+        },
+        {
+          "t": "p",
+          "x": "Un fundador puso a la IA en el lugar de un equipo de producción tradicional y publicó 322 libros. En la práctica, las máquinas se hicieron cargo de buena parte del trabajo que antes exigía personas."
+        },
+        {
+          "t": "p",
+          "x": "El cambio mayor ocurre donde no se ve. Ahora que los sistemas de IA eligen primero el contenido con una estructura legible por máquinas, las editoriales están repensando cómo presentar los resúmenes de trama, las biografías de autores y las imágenes."
+        },
+        {
+          "t": "p",
+          "x": "Fue una ocasión para ver de forma concreta cómo la IA generativa está cambiando el trabajo real de edición y producción."
+        }
+      ]
+    },
+    "books/genius-novel-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una novela criminal que obtuvo en subasta un contrato de seis cifras en Estados Unidos y uno de siete cifras en el Reino Unido fue retirada de la venta, después de que surgieran sospechas de que se usó IA en su creación."
+        },
+        {
+          "t": "p",
+          "x": "El agente decidió retirar el libro por completo de la distribución. Una obra que había generado grandes expectativas se detuvo justo antes de su publicación."
+        },
+        {
+          "t": "p",
+          "x": "Es un caso de otro calibre, que muestra cómo los problemas de procedencia y divulgación de la IA pueden sacudir contratos reales y el proceso de edición."
+        }
+      ]
     }
   }
 }

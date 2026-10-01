@@ -2410,6 +2410,518 @@
           "x": "She went on to say, \"It's not books that make readers — it's a culture of reading that makes readers,\" adding, \"AI is changing how books are made, but no algorithm falls in love with reading. People can. A single book changes a life.\""
         }
       ]
+    },
+    "books/australia-office-of-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/creators-protest-ai-in-parliament.jpg",
+          "cap": "Artists, writers, creators and other figures from the creative industries gathered outside Parliament. Photo: Shoelace Creative."
+        },
+        {
+          "t": "p",
+          "x": "The Australian Publishers Association said it was “encouraged” by signals from the government on copyright."
+        },
+        {
+          "t": "p",
+          "x": "Prime Minister Anthony Albanese is preparing to announce an Office of AI within the department he oversees."
+        },
+        {
+          "t": "p",
+          "x": "Behind this lies pressure from AI companies to loosen text and data mining rules."
+        },
+        {
+          "t": "p",
+          "x": "The original article is open only to paying subscribers, so this summary stays within the publicly available excerpt."
+        }
+      ]
+    },
+    "books/ai-uptake": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "According to Creative Access's 2026 'Thrive' report, publishing's AI adoption rate came to just 6%. That's the lowest figure among the creative industries surveyed."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It means publishing alone lags noticeably behind, even as neighboring creative fields adopt AI tools far faster. The report points to longstanding concerns over copyright and author rights as the backdrop."
+        },
+        {
+          "t": "p",
+          "x": "The 6% figure gives a firm reference point for gauging where publishing stands compared with other creative sectors."
+        }
+      ]
+    },
+    "books/hologram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Robert Moore says publishing today faces a growing 'hologram problem.' AI summarization tools, chatbots, marketing copy, and podcasts convey a book's core so convincingly that it feels like the real thing."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/07/book-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As a result, readers increasingly lean toward consuming a replica modeled on the book rather than opening the book itself, arriving at the illusion of having read it without ever doing so."
+        },
+        {
+          "t": "p",
+          "x": "Moore notes that this shift is reshaping not just how books are written and sold, but how they are read. For editors and marketers, it raises fresh questions about discoverability and the value of the book itself."
+        }
+      ]
+    },
+    "books/ai-course": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/ai-in-publishing-header.png"
+        },
+        {
+          "t": "p",
+          "x": "A new four-week online program is opening for people who work in publishing. The aim is to help them responsibly navigate the AI era."
+        },
+        {
+          "t": "p",
+          "x": "The course is built around three strands: understanding what AI technology is, building workflows teams can actually use, and setting standards for use and protection inside an organization. The emphasis is on helping teams set their own principles rather than giving a shallow tour of tools."
+        }
+      ]
+    },
+    "books/editor-ai-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers from the University of Melbourne and RMIT have launched a survey of Australian publishers and editors. The goal is to look at how they actually use generative AI in their work."
+        },
+        {
+          "t": "p",
+          "x": "The focus is on text-based large language models. It traces the texture of real use to check how far, and in what ways, these tools have worked their way into various stages of editing and publishing."
+        }
+      ]
+    },
+    "books/zedoc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Norway's Beat Technology has spun off a new company, Zedoc. It's an agentic AI platform that handles publishers' metadata work on its own."
+        },
+        {
+          "t": "p",
+          "x": "Zedoc's scope is broad. It attaches subject classifications like Thema, BISAC and Dewey, fills in accessibility information, and turns speech into text. From there it goes on to generate ONIX records and split audiobooks into chapters."
+        },
+        {
+          "t": "p",
+          "x": "What it's ultimately aiming at is AI-based search and discovery. Once product data is organized that way, editorial work that used to be scattered and repeated settles into a single flow."
+        }
+      ]
+    },
+    "books/bloomsbury-ai-licensing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This week's publishing news was led by Bloomsbury's earnings report. Revenue from its AI license with Google underpinned the strong results."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, several publishers took legal action against Google, saying it used their books without authorization to train Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Over the same issue of AI training, one side is fighting it in court while the other is earning revenue from it, revealing a split picture across the industry."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png"
+        }
+      ]
+    },
+    "books/hkbookfair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg/1280px-HKCEC_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9B%B8%E5%B1%95_Hong_Kong_Book_Fairs_July_2021_S64_076.jpg"
+        },
+        {
+          "t": "p",
+          "x": "According to the Hong Kong Trade Development Council (HKTDC), the 36th Hong Kong Book Fair closed on July 21. Bad weather early on did not dampen strong turnout, and this year also featured the first ASEAN Literary Festival."
+        },
+        {
+          "t": "p",
+          "x": "The expert program's annual International Publishing Forum and IP roundtable drew more than 250 attendees. Under the theme 'Reading for All in the AI Era: Reshaping and Co-evolution,' publishers discussed whether AI could help boost reading efficiency and foster critical, deep thinking, and how different fields could join forces to grow a reading culture."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, several outlets including Voice of America (VOA) reported that 'several publishers of political books' were barred from this year's fair. Organizers said they do not separately censor books for sale, but the fair was held after several bookshop figures were recently detained under the new national security law enacted in 2020."
+        }
+      ]
+    },
+    "books/anthropic-final": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Judge Araceli Martínez-Olguín gave final approval to a $1.5 billion settlement in the copyright class action against Anthropic. The case centered on claims that training large language models infringed copyrighted works."
+        },
+        {
+          "t": "p",
+          "x": "In her ruling, the judge found that the settlement “provides meaningful relief, given the realistic range of recovery available to class members.” She also cited the fact that continuing the litigation would become more complex, costly, lengthy and risky."
+        },
+        {
+          "t": "p",
+          "x": "On the roughly $3,000 per work, she noted it is “four times the minimum statutory damages for willful infringement,” and also four times $750, the most common award in copyright cases. Because the claims themselves were unprecedented, she found the settlement “provides substantial benefit to the class,” adding that a trial outcome was not guaranteed and a loss would have left the class with nothing."
+        },
+        {
+          "t": "p",
+          "x": "The case was first handled by Judge William Alsup of the federal district court, who retired at the end of 2025. He ruled that using legally obtained books for training was fair use, but that downloading pirated copies and keeping them permanently violated copyright law. Anthropic acknowledged that it had used pirated books from Library Genesis and Pirate Library Mirror. The case was then transferred to Judge Martínez-Olguín."
+        },
+        {
+          "t": "p",
+          "x": "About 500,000 titles were downloaded illegally. Among those eligible for compensation, 92% of both authors and publishers said they would join the class action, and Judge Martínez-Olguín rejected all opt-out requests except two."
+        },
+        {
+          "t": "p",
+          "x": "Maria Pallante, president and CEO of the Association of American Publishers (AAP), said she “welcomes the court's final approval,” calling it “an important victory in the larger fight to hold Big Tech accountable for unethically taking intellectual and creative property that clearly belongs to authors and publishers.”"
+        },
+        {
+          "t": "p",
+          "x": "She also pointed to how the court viewed downloading from pirate sites: “not an option to be blithely accepted in the name of infringer's efficiency, but rather an egregious practice that should never be normalized.” She also argued that fair use should not shield tech companies' copying of copyrighted works, and that AI training should be resolved through licensing agreements."
+        }
+      ]
+    },
+    "books/bloomsbury-payout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bloomsbury is set to receive about $18.7 million, roughly £14 million, from the Anthropic copyright settlement. It is the first concrete figure showing what a single publisher's catalog actually earns when it is used as AI training data."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/669/asd27.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "The math is simple. There are 14,087 Bloomsbury titles on the settlement list, and the payout is about $3,000 per work. About 10% is deducted for costs including attorney fees, and the publisher and authors split what remains."
+        },
+        {
+          "t": "p",
+          "x": "Bloomsbury is the publisher of Sarah J. Maas, Susanna Clarke and J.K. Rowling. The settlement money will not arrive all at once. It may come in installments starting in the second half of this fiscal year."
+        },
+        {
+          "t": "p",
+          "x": "At the root of the case is Anthropic's use of pirated books to train Claude. The overall settlement came to $1.5 billion, worked out at about $3,000 per work. Bloomsbury's £14 million is the first case showing how that total shows up on an individual publisher's books."
+        }
+      ]
+    },
+    "books/ipa-congress-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The biggest topic at panel discussions during the International Publishers Congress, held in Kuala Lumpur, Malaysia, from July 5 to 9, was generative AI. The event was hosted by the International Publishers Association (IPA)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/07/IPA-congress-400x473.jpg",
+          "cap": "International Publishers Congress"
+        },
+        {
+          "t": "p",
+          "x": "The range of topics was broad. It started with questions about licensing books as AI training data and extended to how publishers should restructure editorial and production work around AI."
+        },
+        {
+          "t": "p",
+          "x": "Books+Publishing asked three Australian publishers who attended the congress, Agata Mrva-Montoya, Andrea Hanke and Louise Stark, about the mood on the ground."
+        },
+        {
+          "t": "p",
+          "x": "The theme of this 35th congress was 'Publishing Intelligence, Sustaining Forward.' About 500 people gathered from 40 countries, and more than 70 speakers from six continents took the stage. An ethics session on responsibility in the AI era sat alongside a session on the future of translation."
+        }
+      ]
+    },
+    "books/substack-pangram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Substack rolled out a new feature yesterday. It lets readers scan a piece of writing to check how much AI assistance went into it. The engine is run by Pangram, a leading company in AI detection. Founder Chris Best wrote, “We don't want to wait until your Substack app looks like LinkedIn to learn and move forward,” adding, “That's why we're starting with a new tool to increase transparency and give you something to react to.”"
+        },
+        {
+          "t": "p",
+          "x": "There are three conditions worth noting up front. The AI analysis only shows when a reader requests it. Creators can turn the feature off for their own posts. And it only works on posts over 100 words published after 8:30 a.m. Pacific time on July 21."
+        },
+        {
+          "t": "p",
+          "x": "Substack also added a tool that lets creators add a “How I make this” note to explain their process and set readers' expectations."
+        },
+        {
+          "t": "p",
+          "x": "The company made clear it is not opposed to using AI to help with work. There's no ban, it says, and the goal is transparency. Pangram can be run directly on drafts before publishing, scan results a writer thinks are wrong can be reported and removed, and the option remains to turn off the reader-facing AI detection feature entirely."
+        },
+        {
+          "t": "p",
+          "x": "Writers' reactions have been largely cold. The big worry is that even though AI-detection tools aren't 100% accurate, they could be used punitively, without human judgment or context, in what some call a “witch hunt.” Others criticize it as a purity test that can't even say how much a human was involved. Jane Friedman wrote that both criticisms are valid, but that she isn't sure the feature does much harm as long as it stays this limited and writers can turn it off."
+        },
+        {
+          "t": "p",
+          "x": "She adds that she isn't exactly eager to defend Substack. Still, she sees the move as responsible for addressing the sharp rise in AI-written posts now and giving readers at least some transparency. The tool has flaws, she says, but it isn't as bad as people think."
+        },
+        {
+          "t": "p",
+          "x": "She also likes that Substack isn't overconfident or definitive yet. Admitting it doesn't know the answer, she thinks, is a first step that can help the conversation around AI writing and publishing, and eventually norms, move forward. If things go wrong, Substack will change course, and she puts more weight on the community adapting. The platform should do its best to examine where content comes from and sort out what was made by AI or with AI's help, if it wants to protect the value of what people make themselves."
+        }
+      ]
+    },
+    "books/wiley-genesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wiley announced it has joined the Genesis Mission Consortium. It is a public-private partnership backing the U.S. Department of Energy-led Genesis Mission, billed as “a national effort to usher in a new era of AI-accelerated innovation and discovery.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Wiley_Genesis-Mission-Consortium-793x446.jpg",
+          "cap": "Wiley joins the Genesis Mission Consortium"
+        },
+        {
+          "t": "p",
+          "x": "The consortium's members include Nvidia, Amazon Web Services, Microsoft, IBM and Advanced Micro Devices. Wiley is the only science publisher among them. The announcement coincided with the first annual Genesis Mission summit, held in Washington, D.C. on July 22."
+        },
+        {
+          "t": "p",
+          "x": "The Genesis Mission was created by an executive order from President Trump on November 24, 2025. Its goal is to deliver “decisive breakthroughs that secure America's energy dominance, accelerate scientific discovery, and strengthen national security.” It builds on the January 2025 executive order “Removing Barriers to American Leadership In Artificial Intelligence” and the “America's AI Action Plan” released in July 2025."
+        },
+        {
+          "t": "p",
+          "x": "As a consortium member, Wiley said it “plans to provide its research intelligence tools to researchers across all Department of Energy national laboratories.” It will also take part in designing the consortium's planned “foundational knowledge layer.” Its stated basis is content and data that are “already among the most cited, licensed, and integrated in global scientific AI applications.”"
+        },
+        {
+          "t": "p",
+          "x": "Wiley's AI and data analytics team will also join a working group covering “how to validate AI models against scientific evidence, and how to manage scientific data.”"
+        },
+        {
+          "t": "p",
+          "x": "Wiley CEO Matthew Kissner said, “Genesis Mission is a great opportunity to apply the progress we've already made in AI and data analytics to a program of national importance.” He added, “We're proud to work alongside fellow members to help ensure the AI systems shaping science are grounded in expert-validated workflows and rooted in authoritative, peer-reviewed content,” and, “Advancing scientific progress requires AI built on trustworthy evidence. That's the principle running through Wiley's AI platforms, workflows, and partnerships.”"
+        },
+        {
+          "t": "p",
+          "x": "The move is the latest step in Wiley's ongoing AI push. Since 2024, it has earned more than $100 million in revenue from AI licensing alone, partnered with multiple AI companies, and launched Wiley AI Gateway, described as “an interoperable research intelligence platform that drives scientific discovery.” In January, it named Armughan Rafat to the newly created role of Chief AI and Data Services Officer, backing “AI-ready content and data products aimed at AI developers and corporate R&D teams.”"
+        }
+      ]
+    },
+    "books/elevenlabs-odyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The standout item in Book Riot's roundup of July library news was ElevenLabs. It released an officially licensed AI narration of The Odyssey using a synthetic version of Michael Caine's voice. The same roundup also carried news about the reading crisis."
+        },
+        {
+          "t": "p",
+          "x": "Licensed synthetic-voice narration has effectively entered the commercial audiobook market. That raises just as many questions about what it means for human narrators' jobs."
+        }
+      ]
+    },
+    "books/ai-nonfiction-hill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "New York Times reporter Kashmir Hill found a biography of herself on Amazon. It was written by AI. Hill bought and read the book, then tried to contact the author, but couldn't reach him."
+        },
+        {
+          "t": "p",
+          "x": "Instead, another author told his story. Bill Jones, a 70-year-old retiree in Maryland. He has published more than 450 AI-made books and sells hundreds a month, mostly in print."
+        },
+        {
+          "t": "p",
+          "x": "Jones's Amazon author bio presents him as an American nonfiction writer known for historical precision. Machine-written books like his now fill most of those sales."
+        },
+        {
+          "t": "p",
+          "x": "Jane Friedman weighed in on what this reporting means: “Writers already know AI-generated books like this are flooding the market. But this is the first time a journalist has tracked down an author who has churned out hundreds of titles and asked directly about his methods and sales.” The original is a commentary on a New York Times article, with the full piece linked through a gift link."
+        }
+      ]
+    },
+    "books/booklens-hallucinate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a piece surveying the tools used by people trying to get books banned. RatedBooks.org is run by groups like the Utah Parents Union and rates books on a 0-to-5 scale. Volunteer reviewers pick and quote sentences and apply narrow criteria, without following the standards professional book reviews observe."
+        },
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2024/08/site-book-censorship-image.jpg.optimal.jpg",
+          "cap": "The lead image for an article about book censorship."
+        },
+        {
+          "t": "p",
+          "x": "National Book Rating Index is a subscription service that sells a 'library transparency package' for $100. It aggregates ratings from various conservative groups, lets users search a specific school's collection list, and even offers downloadable complaint forms for challenges. Its founder, Brooke Stephens, has a financial stake in pushing the tool."
+        },
+        {
+          "t": "p",
+          "x": "BookLens was built by Citizens for Decency and searches by cover, ISBN, or title. Because it runs entirely on AI, it hallucinates. The article puts it bluntly: “BookLens is built entirely on artificial intelligence. So it hallucinates. It's a tool perfectly suited to lying.”"
+        },
+        {
+          "t": "p",
+          "x": "When author Ryan Estrada entered a title he had invented, the tool returned a detailed, fabricated list of exactly how inappropriate that book supposedly was. It slaps nonsensical warnings on real books and fabricates entire reviews for books that don't exist."
+        },
+        {
+          "t": "p",
+          "x": "Take Back the Classroom shows bookshelf photos and highlighted 'problem' passages instead of ratings, and has announced a 'National Book Challenge Initiative' for August 2026. The author notes that these tools fail to meet the standards of 150 years of professional book reviewing, quote out of context, and disproportionately target LGBTQ-related content."
+        }
+      ]
+    },
+    "books/open-science-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Research is more open than ever. It's freely accessible and widely distributed. But openness itself was never the goal — discovery, understanding, application, and progress were. In an environment where AI mediates information, openness alone no longer gets you there."
+        },
+        {
+          "t": "p",
+          "x": "The authors propose Open Science 2.0. Alongside access, it should weight trust, interpretation, learning, and communication. AI finds relevant research quickly, but it compresses nuance and uncertainty into summarized answers. Going forward, researchers, clinicians, policymakers, and the general public will ask questions and get answers instead of reading papers."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-1.jpg",
+          "cap": "A diagram placing Open Science 1.0 and 2.0 side by side."
+        },
+        {
+          "t": "p",
+          "x": "Picture a doctor searching for a treatment for a rare disease. AI can stitch together hundreds of studies in seconds and produce a plausible-sounding recommendation. But what the doctor actually needs isn't a single answer — it's an understanding of how solid the evidence is, where the uncertainty lies, and where the limits of current knowledge sit."
+        },
+        {
+          "t": "p",
+          "x": "That's why the authors believe trust has to be built into the infrastructure. High-quality metadata, structured content, context tags, and clear provenance are the raw materials. In an AI-mediated environment, trust isn't automatically inherited from past reputation — it has to be built anew. Publishers and libraries are well positioned to lead that work."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/07/Figure-3-1024x297.jpg",
+          "cap": "An illustration weighing what AI can help with against what still needs human judgment."
+        },
+        {
+          "t": "p",
+          "x": "The easier searching gets, the more valuable judgment becomes. Deep reading and sustained engagement with a text aren't just ways to extract information — they're ways to gain insight. The authors say access isn't the same as understanding, and without understanding, there's no trust."
+        }
+      ]
+    },
+    "books/translators-craft-vs-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-28-at-12.53.51-PM-793x396.png",
+          "cap": "The translators who carry us to every corner of the world"
+        },
+        {
+          "t": "p",
+          "x": "Good translation goes largely unnoticed. The more smoothly a sentence reads, the more the translator's hand behind it disappears. This piece brings that erased labor back into view. Literary translation, it argues, is not a mechanical act of moving one language into another, but infrastructure that connects cultures and a craft honed over a long time."
+        },
+        {
+          "t": "p",
+          "x": "Behind this defense lies sobering survey data. As generative AI enters the translation field, translators are losing both work and income. An industry eager to cut costs is tilting quickly toward AI-assisted translation."
+        },
+        {
+          "t": "p",
+          "x": "Against that trend, this piece weighs in on the side of craft. A translator is not someone who swaps words, but someone who carries an unfamiliar world before readers, a role that cannot easily be replaced by automation."
+        }
+      ]
+    },
+    "books/ai-scholarship-ownership": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/04/iStock-2192544306-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "How will AI insert itself into academic research, and who will hold the rules? The authors say this question should be asked now, not later."
+        },
+        {
+          "t": "p",
+          "x": "There's precedent: tech companies eventually came to own the layers of digital aggregation and search and discovery. Before the same thing happens with the AI layer, academic publishers should get ahead of it and build infrastructure standards together."
+        },
+        {
+          "t": "p",
+          "x": "The AI era is rewriting the question of who controls the workflow of academic and professional publishing. This is a close look at exactly how that landscape is shifting."
+        }
+      ]
+    },
+    "books/pope-ai-encyclical": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-30-at-12.18.10-PM-793x501.png"
+        },
+        {
+          "t": "p",
+          "x": "Publishing Perspectives reads Pope Leo XIV's AI encyclical as one of the most coherent ethical frameworks put forward so far."
+        },
+        {
+          "t": "p",
+          "x": "The core point is this: publishing should not treat AI as a morally neutral technology, and should demand human-centered oversight from the tech monopolies."
+        },
+        {
+          "t": "p",
+          "x": "A new ethical and regulatory lens has emerged for the publishing industry to navigate going forward."
+        }
+      ]
+    },
+    "books/ai-dilutes-book-market": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Writers have long voiced a fear: that the flood of books generative AI produces is actually eating into the share and attention human-written books get."
+        },
+        {
+          "t": "p",
+          "x": "A new study tries to translate that vague anxiety into numbers, attempting to measure with data, not gut feeling, how much the flood of AI-written books shrinks the market and attention."
+        },
+        {
+          "t": "p",
+          "x": "It's something like the creative-industry counterpart of the AI-detection research this field has long run. It redraws the picture of how AI output ends up reshaping what gets read and sold."
+        }
+      ]
+    },
+    "books/ai-publishing-easier": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The diagnosis from the Media Transformation Summit on July 22 was clear. AI is noticeably lightening the publishing production process, but that doesn't mean publishing has become easy."
+        },
+        {
+          "t": "p",
+          "x": "One founder put AI in the seat of a traditional production team and published 322 books. Machines effectively took over a large share of work that used to require people."
+        },
+        {
+          "t": "p",
+          "x": "The bigger shift is happening out of sight. As AI systems now favor content with a machine-readable structure, publishers are rethinking how they present plot summaries, author bios, and images."
+        },
+        {
+          "t": "p",
+          "x": "It was a concrete look at how generative AI is changing the actual hands-on work of editing and production."
+        }
+      ]
+    },
+    "books/genius-novel-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/672/asd3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A crime novel that landed both a six-figure deal in the US and a seven-figure deal in the UK at auction has been pulled from sale. It comes after suspicions arose that AI was used in the writing process."
+        },
+        {
+          "t": "p",
+          "x": "The agent decided to pull the book from distribution entirely. A work that had drawn great anticipation stopped just short of publication."
+        },
+        {
+          "t": "p",
+          "x": "It is a case of a different weight, showing how questions of AI provenance and disclosure can actually upend deals and the editing process."
+        }
+      ]
     }
   }
 }

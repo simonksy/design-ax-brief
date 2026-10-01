@@ -2825,6 +2825,541 @@
           "x": "Por ahora, quien quiera hacerse con un dispositivo de OpenAI tendrá que conformarse con el nuevo teclado Codex."
         }
       ]
+    },
+    "gadgets/navix-ultra": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nubia presentó lo que había adelantado la semana pasada en la Conferencia Mundial de Inteligencia Artificial de China (WAIC): un smartphone impulsado por un agente de IA, el nubia NaviX Ultra."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
+          "cap": "nubia NaviX Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Las especificaciones todavía no se han publicado. En su lugar, Nubia reveló el diseño en Weibo y lo presentó como el primer smartphone con agente de IA del mundo. Lo que se ha confirmado es que incorpora el asistente móvil Doubao y que aloja una triple cámara trasera dentro de una barra de cámara al estilo Pixel."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Viene en cuatro colores: Blue Horizon, Black, Dreamscape y White. Nubia también dijo que el NaviX Ultra recibió el premio 2026 SAIL (Super AI Leader) antes del WAIC 2026. Se espera que las especificaciones, el precio y la fecha de lanzamiento se revelen en los próximos días."
+        }
+      ]
+    },
+    "gadgets/neo-hands": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QRyXV3csReA"
+        },
+        {
+          "t": "p",
+          "x": "En una demo que 1X publicó en YouTube, la nueva mano del Neo Beta enrosca una bombilla, recoge uvas de un racimo una a una y las deja en un recipiente, toma un tornillo y baja la cremallera de una chaqueta. También abre una bolsa de Funyuns. Aunque se trate de bloques Duplo, también apila una torre de Lego bastante alta. Es lenta, pero lo bastante fluida como para confundirla con una mano humana."
+        },
+        {
+          "t": "p",
+          "x": "El truco está en la estructura. 1X llama a esta mano impermeable un «closed-loop tendon-driven system» (sistema de accionamiento por tendones en bucle cerrado). Sacar los motores y servos de la mano y llevarlos al brazo hizo que la mano misma fuera pequeña y flexible. Los motores, ya replegados en el brazo, mueven la mano tirando y soltando un haz de cables conectores parecidos a tendones, de forma similar a la mano humana, donde los músculos y tendones tiran desde dentro del antebrazo."
+        },
+        {
+          "t": "p",
+          "x": "Entre dedos, palma y pulgar suma 25 grados de libertad. En el video incluso se dobla hacia atrás más que una mano humana. La fuerza tampoco es poca: sostiene una mancuerna de 20 libras y, con un solo dedo, enrolla un peso de poleas. Los dedos llevan sensores que saben qué están sujetando y cuánta fuerza aplicar, por eso no rompe la bombilla. El martillo que oscilaron al lado, en cambio, fue otra historia."
+        },
+        {
+          "t": "p",
+          "x": "Esto es distinto de la noticia de la semana pasada sobre dos robots que realizaron una cirugía de vesícula biliar en un cerdo. Aquellos solo sujetaban manipuladores laparoscópicos, y la manipulación fina ocurría en la punta de los instrumentos. Ninguna mano robótica manejó el bisturí directamente."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el Neo de 20.000 dólares entre en los hogares, esta mano se usará para las tareas domésticas. También se usa para cuidar de sí mismo: en el video, el Neo Beta toma un disco de carga tipo MagSafe y se lo coloca en su propia cintura. 1X dijo que esta mano devuelve al desarrollo robótico nuevos datos de entrenamiento del mundo real."
+        }
+      ]
+    },
+    "gadgets/signal-ring": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La presión arterial lleva mucho tiempo siendo llamada el «santo grial» de los wearables PPG. Para medirla, o incluso solo para calibrarla, se necesitaba un brazalete inflable. El Huawei Watch D integró un brazalete dentro del propio reloj, y la detección de hipertensión de Apple solo señala una posibilidad a partir de 30 días de datos, sin dar una cifra. Nadie había resuelto esto con LEDs."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
+          "cap": "Signal Ring"
+        },
+        {
+          "t": "p",
+          "x": "Signal Ring fue creado por Tom Moss, que dirigió Android en Google. No acumula métricas como el Oura Ring 5 o el Galaxy Ring, ni le añade un asistente de IA como el Fitbit Air. El punto de partida fue una «emergencia hipertensiva» que el propio Moss sufrió. Describió la experiencia de que su presión arterial subiera a 250 como una presión que no tenía sentido."
+        },
+        {
+          "t": "p",
+          "x": "Dice que después compró todos los dispositivos de seguimiento de presión arterial del mercado, y ninguno funcionaba lo bastante bien. Los dispositivos tipo Galaxy Watch se calibran una vez con un brazalete y luego estiman a partir de otras señales biológicas, pero lo que Moss quería era una forma de medir la presión arterial en sí misma, no solo un cambio respecto a una línea base."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pasó tres años construyéndolo junto a científicos e ingenieros procedentes de Masimo, la empresa que demandó a Apple por sus patentes de sensado de ritmo cardíaco con LED. Toma una lectura de presión arterial al instante, la rastrea manualmente durante todo el día como una sola cifra llamada «presión arterial media», y la envía a la aplicación por Bluetooth. Al preguntarle cómo logró lo que ni Apple ni Samsung consiguieron, Moss señaló la experiencia: ni IA, ni ninguna tecnología nueva casi mágica, solo poner a las personas más capaces en un solo problema a resolver ese problema. Por eso tampoco metió sensores como un acelerómetro para contar pasos."
+        },
+        {
+          "t": "p",
+          "x": "La precisión solo puede confirmarse con pruebas reales frente a la medición de presión arterial convencional. Los pedidos anticipados están abiertos, con un precio de 399 dólares (unas £295 / AU$770), sin cuota de suscripción. El envío comienza en octubre."
+        }
+      ]
+    },
+    "gadgets/meta-privacy-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta distribuye la actualización v26 con carácter obligatorio para las gafas inteligentes Ray-Ban y Oakley. Si se cubre o se daña físicamente el LED de privacidad que indica que se está grabando, la actualización desactiva por completo la función de cámara."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora se señalaba como un problema el truco de cubrir esta luz con cinta para grabar a escondidas. Al unir la luz y la cámara en un solo mecanismo, hicieron que, si desaparece la señal que avisa a quienes están alrededor de que se está grabando, la grabación misma también se bloquee."
+        }
+      ]
+    },
+    "gadgets/samsung-unpacked-july": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con el Unpacked del 22 de julio acercándose, ya se perfila lo que Samsung presentará. Se espera que los plegables Galaxy Z Fold8 y Z Flip8, junto con un nuevo smartwatch, suban al escenario."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esta vez el foco está menos en el hardware y más en la expansión de Galaxy AI. Se espera que se añadan ampliamente funciones predictivas que anticipan el siguiente paso del usuario, agentes que gestionan tareas por sí solos y herramientas para retocar fotos de forma generativa."
+        }
+      ]
+    },
+    "gadgets/galaxyglasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Antes del Unpacked, se filtraron las especificaciones del dispositivo Android XR de Samsung, 'Galaxy Glasses'. Se informa que lleva un chip Snapdragon AR1 Gen 1 y doble cámara."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Gemini estaría integrado a fondo, permitiendo grabar la escena frente a uno, traducir y recibir indicaciones sin tocar nada. Es una señal de hacia dónde se dirigen los wearables de IA que se usan sin manos."
+        }
+      ]
+    },
+    "gadgets/oneui9": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "One UI 9 presenta Gemini Intelligence en Galaxy por primera vez. Su núcleo no es solo responder preguntas, sino una automatización agéntica que realiza tareas por sí sola entre varias apps."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Basta con escribir una frase para que cree el widget que quieras, y el autocompletado se ha vuelto notablemente más inteligente. También se añadió Rambler, que convierte el habla en texto."
+        }
+      ]
+    },
+    "gadgets/snapdragonx2e": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NotebookCheck probó varios sistemas equipados con el Snapdragon X2 Elite y los puso junto a los portátiles más recientes de Intel y AMD."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovoyoga714snapdragon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Midió con pruebas reales dónde se sitúan estos PC con IA, dotados de un NPU Hexagon de clase 80 TOPS, en rendimiento y eficiencia. Es una referencia útil para quienes buscan un portátil de IA en el dispositivo."
+        }
+      ]
+    },
+    "gadgets/adobe-indigo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe añadió a su app de cámara experimental, Project Indigo, una función generativa llamada “AI Playground”. Así, el flujo de pasar a una app de edición después de tomar la foto se traslada al propio momento de la captura."
+        },
+        {
+          "t": "p",
+          "x": "Quienes disparan desde el móvil pueden usar esta función para borrar elementos que distraen en la escena o aplicar el estilo artístico que quieran. Incluso reciben orientación en tiempo real sobre la foto mientras la toman."
+        }
+      ]
+    },
+    "gadgets/samsung-health-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung incorporó dentro de Samsung Health un chatbot de IA llamado Health Assistant. Su función es traducir a un lenguaje comprensible los datos de bienestar que antes solo se acumulaban."
+        },
+        {
+          "t": "p",
+          "x": "El chatbot lee registros como pasos, ritmo cardíaco y sueño, e interpreta su significado. A partir de eso, ofrece consejos de hábitos de vida personalizados, consejos que han sido verificados por personal médico."
+        },
+        {
+          "t": "p",
+          "x": "También destaca que abarca todo el ecosistema de dispositivos. Samsung muestra con claridad que la IA conversacional se superpone a las herramientas de salud cotidianas."
+        }
+      ]
+    },
+    "gadgets/gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google está lanzando una nueva función para Gemini for Home. Amplía la memoria de contexto a 15 minutos, de modo que sigue conversaciones de varios pasos por toda la casa inteligente."
+        },
+        {
+          "t": "p",
+          "x": "Junto a esto, también se publica una actualización de firmware para Nest Cam."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa se adentra aún más en los dispositivos del hogar y las cámaras."
+        }
+      ]
+    },
+    "gadgets/brainco-mind-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la Conferencia Mundial de Inteligencia Artificial 2026 celebrada en Shanghái, BrainCo presentó una plataforma de IA para robots controlada con el pensamiento. Un casco EEG lee las señales cerebrales y las traduce en órdenes que el robot entiende en un plazo de 200 milisegundos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El punto clave es poder manejar máquinas sin usar las manos. Como una escena de armar una PC mientras se sostiene un snack con una mano, ofrece un indicio de una nueva forma de operar que reduce de manera notable el retraso entre el pensamiento y la acción."
+        }
+      ]
+    },
+    "gadgets/robot-phone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ha aparecido un video filtrado de manos a la obra con el 'Robot Phone' de Honor. Se ve un cuerpo más grueso junto con una cámara AI con gimbal motorizado que realmente se mueve y sigue al sujeto."
+        },
+        {
+          "t": "p",
+          "x": "Honor planea presentar este dispositivo centrado en IA en el WAIC de China el 18 de julio."
+        },
+        {
+          "t": "p",
+          "x": "El inusual diseño tipo robot es un intento de Honor de reimaginar el smartphone como un dispositivo de IA agente y proactivo."
+        }
+      ]
+    },
+    "gadgets/frameworkdesk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Framework se ha ganado su nombre lanzando cosas que otros fabricantes de PC ni siquiera intentan, y este adelanto sigue esa misma línea. Mostró el nuevo Framework Desktop por adelantado en el evento Advancing AI de AMD, con un propósito único y claro: ejecutar grandes modelos de IA directamente en tu propio ordenador. Si llevas tiempo buscando IA local, es una máquina que merece la pena seguir."
+        },
+        {
+          "t": "p",
+          "x": "Este PC funciona con el Ryzen AI Max+ Pro 495, con 16 núcleos Zen 5 y un reloj boost de 5.2GHz. Junto a él va la gráfica integrada más rápida de AMD, la Radeon 8065S, con 40 unidades de cómputo RDNA 3.5 que funcionan a 3GHz. Los juegos AAA en 1080p van bien incluso sin una GPU dedicada."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-desktop-192GB-RAM-specs.jpg?resize=2000%2C1246",
+          "cap": "Especificaciones del Framework Desktop de 192GB"
+        },
+        {
+          "t": "p",
+          "x": "Lo verdaderamente importante son los 192GB de LPDDR5x. Framework dice que, con esa cantidad de memoria, se pueden ejecutar modelos pesados como DeepSeek V4 Flash en local y aun así tener margen de sobra en la longitud de contexto. También hay una ranura PCIe x4 abierta para una tarjeta más grande. En software, se elige entre Windows o una build de Linux preinstalada."
+        },
+        {
+          "t": "p",
+          "x": "Y eso no es todo. Framework también mostró una prueba de concepto que une dos equipos de escritorio con una tarjeta de red de 50GbE. Así, la memoria de ambos equipos se combina en un único bloque de 384GB, bastante para una máquina de este tamaño."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-open.jpg?resize=2000%2C1200",
+          "cap": "El Framework Desktop abierto por dentro"
+        },
+        {
+          "t": "p",
+          "x": "Framework ya ha advertido que el precio no será modesto. Incluso el modelo de 128GB del actual Ryzen AI Max+ 395, que ya está a la venta, cuesta $3,449, frente a los $1,999 de cuando se lanzó por primera vez en febrero de 2025. El aumento se debe al alza en los precios de memoria y almacenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Dado que los precios de la RAM no dejan de subir, no sorprendería que el modelo de 192GB superara los $4,500. Todavía no hay precio oficial ni fecha de lanzamiento. Por ahora es solo un adelanto tentador, y a juzgar por lo anterior, probablemente valga la pena esperar, aunque la cartera sufrirá primero."
+        }
+      ]
+    },
+    "gadgets/geminilivemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg",
+          "cap": "Google Home Mini"
+        },
+        {
+          "t": "p",
+          "x": "Google empezó a llevar Gemini Live a los altavoces inteligentes en octubre del año pasado. Llegó al Nest Mini, al Nest Audio, al Nest Hub y al Nest Hub Max, y hace poco también al recién lanzado Google Home Speaker. Esta vez le toca el turno a los altavoces y pantallas de primera generación."
+        },
+        {
+          "t": "p",
+          "x": "Google dijo que está distribuyendo Gemini Live al Google Home Mini y al Google Nest Hub de primera generación. Si eres suscriptor de Google Home Premium y tienes uno de estos dispositivos, ya puedes mantener una conversación de ida y vuelta con el chatbot."
+        },
+        {
+          "t": "p",
+          "x": "Si es la primera vez que usas Gemini Live, di “Hey Google, let's chat” para iniciar la conversación. Un sonido de campana indica que el modo de conversación se ha activado. Puedes sacar cualquier tema, desde qué cenar hasta la vida extraterrestre."
+        },
+        {
+          "t": "p",
+          "x": "El despliegue al Google Home Mini y al Google Nest Hub de primera generación empieza hoy."
+        }
+      ]
+    },
+    "gadgets/apple-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según se informa, Apple ha fijado la privacidad como el eje que distingue sus largamente rumoreadas gafas inteligentes con IA de las Ray-Ban de Meta. Estaría estudiando procesar los datos dentro del propio dispositivo y un indicador más claro del estado de grabación."
+        },
+        {
+          "t": "p",
+          "x": "Un diseño centrado en la privacidad se cuenta entre las razones del retraso del lanzamiento. Se espera que la presentación llegue en el WWDC de junio del próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Al entrar en la concurrida carrera de las gafas con IA, Apple pone la privacidad en primer plano."
+        }
+      ]
+    },
+    "gadgets/garmin-cirqa-band": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garmin lanzó oficialmente la banda inteligente CIRQA, entrando en el mercado de wearables sin pantalla. Esta banda de fitness dura diez días con una sola carga, midiendo de forma continua ejercicio y salud. Son tres días más que el Fitbit Air de Google, pero aún por debajo de los 14 días del Whoop 5.0."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/cirqa-smart-band.jpg",
+          "cap": "La banda inteligente Garmin CIRQA"
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo registra 80 tipos de ejercicio, incluidos caminar, correr y yoga. Un botón lateral permite elegir las actividades frecuentes, y los datos acumulados se revisan en la app Garmin Connect."
+        },
+        {
+          "t": "p",
+          "x": "Las mediciones abarcan frecuencia cardíaca, energía Body Battery, Pulse Ox2, estrés y temperatura de la piel. A esto se suman el compartir ubicación en tiempo real con familiares y amigos, un GPS compatible con Android y iPhone, y métricas avanzadas como VO2 Max y el estado de HRV."
+        },
+        {
+          "t": "p",
+          "x": "Una función destacada es el seguimiento del ciclo menstrual y el embarazo mediante la temperatura de la piel durante el sueño. Ofrece predicción del período y estimación de la ovulación, y los datos se sincronizan con Natural Cycles, la app anticonceptiva aprobada por la FDA."
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de IA de Garmin, Active Intelligence Insights y el coaching, se desbloquean con la suscripción Connect+. CIRQA comenzó a venderse de inmediato, sin periodo de reserva. Los colores disponibles son negro, gris francés, azul capitán, malva, gris citrino, verde oliva oscuro y azul francés. Ambas tallas, S-M y L-XL, cuestan 199,99 dólares, y no se necesita una suscripción aparte."
+        }
+      ]
+    },
+    "gadgets/gemini-nano-4-fold8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El modelo Gemma 4, que Google lanzó a comienzos de este año, sirvió de base para la próxima generación de IA en el dispositivo, 'Gemini Nano 4'. Ese Nano 4 ya apareció de forma oficial junto con el Galaxy Z Fold 8 Ultra, el Z Fold 8 y el Z Flip 8."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-family-pink-colorway.jpg",
+          "cap": "La gama Galaxy Z Fold 8 en color rosa"
+        },
+        {
+          "t": "p",
+          "x": "Según el blog de Android Developers, los nuevos plegables de Samsung incorporan el último modelo en el dispositivo de Google, Gemini Nano 4. Nano 4 admite más de 140 idiomas, y su comprensión multimodal también ha mejorado."
+        },
+        {
+          "t": "p",
+          "x": "Nano 4 también sostiene las funciones de Gemini Intelligence en los nuevos plegables Galaxy. El usuario puede invocar Gemini Intelligence para delegar automáticamente tareas reales, como pedir comida o reservar entradas."
+        },
+        {
+          "t": "p",
+          "x": "La función Gemini Notebook, que cambió de nombre desde NotebookLM, también funciona con Gemini Intelligence. Convierte archivos como imágenes, notas y PDF en documentos bien organizados."
+        },
+        {
+          "t": "p",
+          "x": "Todavía quedan funciones por llegar. Está prevista 'Create My Widget', que permite diseñar widgets directamente con Gemini Intelligence, y aún se espera el modo de dictado 'Rambler' de Gboard, que convierte pensamientos desordenados en notas fluidas."
+        },
+        {
+          "t": "p",
+          "x": "El Galaxy Z Fold 8 Ultra, el Z Fold 8 y el Z Flip 8 ya aceptan reservas y empiezan a venderse a partir del 7 de agosto."
+        }
+      ]
+    },
+    "gadgets/dji-osmo-pocket4p": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La cámara de gimbal de bolsillo de DJI ahora lleva dos lentes y se presenta como “Pro”."
+        },
+        {
+          "t": "p",
+          "x": "Ofrece zoom óptico, el mejor rango dinámico de su categoría y seguimiento de sujeto por IA."
+        },
+        {
+          "t": "p",
+          "x": "Es una cámara de IA independiente que redefine cómo los creadores que trabajan solos capturan y siguen a un sujeto."
+        }
+      ]
+    },
+    "gadgets/gemini-robotics2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind presentó Gemini Robotics 2, un modelo que añade control de cuerpo completo e inteligente para que un robot humanoide mueva brazos, torso y base móvil como una sola unidad."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a esto, el robot amarra bolsas de basura, desenrosca y cambia bombillas, y realiza tareas domésticas de varios pasos de forma continua."
+        },
+        {
+          "t": "p",
+          "x": "Se lee como un paso concreto hacia una IA encarnada de propósito general que llegará a los hogares."
+        }
+      ]
+    },
+    "gadgets/halliday-g2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Halliday G2 no lleva cámara. En su lugar, se apoya en pantallas micro-LED duales y en una IA llamada “Meeting Flow”."
+        },
+        {
+          "t": "p",
+          "x": "Esta IA gestiona traducción en tiempo real, subtítulos, búsqueda de información y notas posteriores a la reunión, todo dentro de un armazón de menos de 50g."
+        },
+        {
+          "t": "p",
+          "x": "Es un enfoque centrado en la privacidad, que muestra que unas gafas con IA pueden ayudar sin grabar a todas las personas alrededor."
+        }
+      ]
+    },
+    "gadgets/m4-max-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La prueba midió directamente el rendimiento de LLM en el dispositivo entre el M4 Max de Apple, el GB10 de Nvidia y el Strix Halo de AMD."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados muestran al M4 Max por delante en rendimiento de decodificación, aunque el ancho de banda de memoria por sí solo no decidió el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Ofrece una imagen concreta de qué hardware de consumo ejecuta realmente bien la IA local en tareas de creación y desarrollo."
+        }
+      ]
+    },
+    "gadgets/openai-companion-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La hoja de ruta de hardware de OpenAI se aclaró. Su primer producto es un altavoz portátil creado con el exdirector de diseño de Apple, Jony Ive, que actúa como compañero de IA sin pantalla dentro del hogar."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo incluye una cámara que comprende su entorno. Se dice que un teléfono inteligente lo seguirá, posiblemente ya el próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Es una reinterpretación guiada por el diseño de cómo debería ser un dispositivo doméstico nativo de IA."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-glasses-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En Unpacked, Samsung mostró un adelanto de dos modelos de gafas inteligentes con Gemini. Se hicieron junto con Google y las marcas de gafas Warby Parker y Gentle Monster."
+        },
+        {
+          "t": "p",
+          "x": "La montura sin pantalla lleva una cámara. Gemini usa ese ojo para ver y leer el entorno, y entrega al instante traducción en tiempo real, indicaciones de ruta y resúmenes de notificaciones."
+        },
+        {
+          "t": "p",
+          "x": "El cálculo pesado lo asume el teléfono Galaxy emparejado. Las gafas se convierten en una ventana de IA siempre encendida junto al teléfono, con una dirección clara hacia creadores y usuarios cotidianos por igual."
+        }
+      ]
+    },
+    "gadgets/friend-2-pendant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Friend, el colgante con IA que siempre escuchaba de cerca, vuelve como Friend 2.0. Cuesta 249 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez incorpora un altavoz. A diferencia de antes, cuando respondía solo en la pantalla de la app, el colgante ahora contesta directamente con voz."
+        },
+        {
+          "t": "p",
+          "x": "La memoria viene con una condición. Para conservar conversaciones de más de 30 días hay que pagar 10 dólares al mes. Friend 2.0 muestra, sin rodeos, hacia dónde se dirige la IA ponible."
+        }
+      ]
     }
   }
 }

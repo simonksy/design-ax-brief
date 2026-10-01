@@ -1675,6 +1675,681 @@
           "x": "Still, the method does not eliminate quantum errors or prove a fully fault-tolerant quantum computer. Because the learning process deliberately explores hardware settings, that exploration has to be managed so it doesn't disrupt long-running real-world algorithms. Some fast drift is still too quick for the learning to keep up with."
         }
       ]
+    },
+    "science/san-andreas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the German GFZ Helmholtz Centre for Geosciences used artificial intelligence to detect a previously unseen slow slip, a so-called “quiet” event, on California's San Andreas Fault."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/san-andreas-fault-hidd.jpg"
+        },
+        {
+          "t": "p",
+          "x": "They also confirmed that seismic activity rises noticeably after this slow, creeping motion of the fault. It opens a new AI-based window into the warning signs that precede earthquakes."
+        }
+      ]
+    },
+    "science/supercooled-water": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Osaka University trained an AI model using molecular dynamics simulations. The goal was to evaluate 16 structural metrics to find the best way to distinguish water's two competing liquid states."
+        },
+        {
+          "t": "p",
+          "x": "The work helps pinpoint the hidden “critical point” within supercooled water. It also sheds clearer light on where many of water's strange properties come from."
+        }
+      ]
+    },
+    "science/thermo-computing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new attempt to rebuild the foundations of modern AI hardware using physics has emerged. Quanta Magazine looks at thermodynamic computers. The chips, built by startups Normal Computing and Extropic, don't suppress heat fluctuations and noise — they harness them for computation instead."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/Thermodynamic-Computing-cr-Ada-Zejun-Shen-Lede-copy-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "Their promise is that this would let generative AI algorithms run on far less power than today. It means working with the flow of heat rather than against it. It's an approach that rethinks, through the lens of physics, the very hardware substrate that underpins modern AI."
+        }
+      ]
+    },
+    "science/biosignature-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pattern recognition is one of the bricks at the bottom of human cognition. It can make us react instantly to threats, or work slowly and doggedly, the way a scientist feels out rules in a mass of data. The trouble is malfunction. Like pareidolia, which reads human faces into rocks, seeing patterns that aren't there is common. AI is, in effect, built on pattern recognition too, and a new study says AI's pattern recognition breaks down the same way — of all places, in the task of detecting life."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/ooastrobiology.9_20260714_185400.jpg",
+          "cap": "The search for life, or traces of past life, somewhere in the solar system drives much of today's space exploration. But there is no decisive chemical biosignature to rely on. Instead, future missions plan to use AI to look for molecules that handle information and replicate themselves. A new study says that approach is riddled with false positives. Image Credit: NASA"
+        },
+        {
+          "t": "p",
+          "x": "“Can AI Detect Life? Lessons from Artificial Life,” written by Ankit Gupta and Christoph Adami of Michigan State University, will be presented at the 2026 Conference on Artificial Life in Waterloo, Canada, in August. The two wrote that extraterrestrial samples are likely to fall outside the distribution formed by Earth's biological and non-biological specimens, so detecting life with AI is prone to producing a flood of false positives. The reason is that modern machine learning techniques are easily fooled by out-of-distribution samples. It's the same story as a classifier trained only on dogs and cats encountering a horse, moved down to the molecular level."
+        },
+        {
+          "t": "p",
+          "x": "With no universal chemical biosignature, one approach is to look for clues in the basic properties of life. One of those is the property of carrying information, co-author Adami said in a press release. Just as DNA carries and transmits information in a chain shape, the researchers tested how well AI could distinguish molecules capable of handling information from those that could not."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/PIA25738-scaled_20260714_185915.jpg",
+          "cap": "Some of the sample tubes the Perseverance rover has collected so far. They are meant to return to Earth someday. What if a future rover collected samples while using AI to judge evidence of life? That approach would likely be plagued by false positives, and human fact-checkers would likely need to be attached. Image Credit: NASA/JPL-Caltech/MSSS"
+        },
+        {
+          "t": "p",
+          "x": "The experimental tool was Avida, a digital life platform where self-replicating computer programs mutate and evolve while competing for resources. The researchers created tens of thousands of digital organisms, split into those with a replication command and those without, and the neural network told the two apart within this distribution with 99.7% accuracy. The trouble came next. Taking an organism the network easily recognized as incapable of replicating and gradually swapping out the code that blocked replication made the network waver. After just 150 edits, it became certain it had found life in an organism that still could not replicate. “In every run, the model reached 100% spoofing confidence within 150 model queries,” the authors wrote. Gupta said he could fool the model 100% of the time regardless of which command sequence he started from, and Adami added that because so many sequences can fool it, the odds of encountering one such sequence are also substantial."
+        }
+      ]
+    },
+    "science/claude-jamming": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Two physicists sat down with generative AI and solved a problem that had gone unsolved for more than a decade. The solution was published on July 1 in the Journal of Statistical Mechanics: Theory and Experiment. The subject is jamming, the transition in which a fluid-like system suddenly freezes solid while still disordered. Think of pool balls packed in tighter and tighter until the gaps vanish and each ball is locked in place by its neighbors."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/psftQRQ69aMQmthVeb4fnT.jpg",
+          "cap": "An illustration of balls piled up across several levels. What makes a fluid-like system cross over into a frozen 'jamming' state? Physicists got help from Claude AI to prove a long-standing answer. (Image credit: Yuuji via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "The authors are Giorgio Parisi, who won the 2021 Nobel Prize in Physics, and Francesco Zamponi, both physicists at Sapienza University of Rome. Along with colleagues, the two described jamming mathematically in a 2014 paper and produced a numerical solution, discovering at the time that the parameters a and b always summed to 1. a and b determine how the distribution of contact forces and gaps between balls scales as a system approaches the critical jamming point. Matthieu Wyart of EPFL in Switzerland arrived at the same relationship by an entirely different route, but for a decade, no one had mathematically proven that a+b=1."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FNRvfJ2XGBwNFhUBygH7c5.jpg",
+          "cap": "The researchers entered 40 prompts into Claude before arriving at a publishable solution to the jamming problem."
+        },
+        {
+          "t": "p",
+          "x": "Hitting a wall, Parisi turned to Anthropic's Claude. After Claude reproduced the 2014 numerical results, he asked it to prove a+b=1. Zamponi, reading the output on a plane, immediately recognized that the core idea in the LaTeX file Claude produced was correct, and he told Live Science that his own view of what these models can do in theoretical physics changed significantly in that moment. The early output mixed in errors that needed fixing, but the backbone was right. After 40 prompts, a publishable analytical solution emerged, verified and all. The solution had been hiding in the equations all along, with no outside physical assumptions and no deep connection between functions."
+        },
+        {
+          "t": "p",
+          "x": "Zamponi acknowledged that a pure mathematician who worked full-time on equations like these might have spotted the solution too, but what mattered to him was that Claude gave him instant access to mathematical training and formal techniques that normally sat outside his own field. Whether Claude was pattern-matching from the literature or exercising something like creativity doesn't matter to him. \"We couldn't see the way forward, and Claude could.\" He is now applying the same approach to the problem of \"random sequential addition of hard hyperspheres.\" His summary is that AI dramatically speeds up writing and optimizing code, but the concepts mostly still came from him, and that, at least in this case, human guidance is still indispensable."
+        }
+      ]
+    },
+    "science/claude-science": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic's Claude Science has its sights set on Kendall Square. The subhead notes that the biomedical ecosystem of Cambridge and Boston, Massachusetts, has a great deal riding on it. Boston Globe's Robert Weisman wrote it for STAT on July 14, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2261973888.jpg",
+          "cap": "Michael M. Santiago/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The published lede argues as follows. This year, AI has emerged as a full-blown monster in public discourse. Graduates boo commencement speakers who compare AI to the career advice \"plastics\" from the 1967 film The Graduate, and workers grow wary when companies wield AI as a knife for cost-cutting and layoffs. Even the wary Pope Leo XIV has warned against fusing AI into nuclear warfare command systems."
+        },
+        {
+          "t": "p",
+          "x": "In such a year, Claude Science was quietly released this month. It's an app that adapts Anthropic's large language model for biopharma labs, and the writer's starting point is that it serves as a timely reminder that AI still has work left to do beyond corporate layoffs and civilizational threats."
+        },
+        {
+          "t": "p",
+          "x": "This article is for STAT+ subscribers only, so the text cuts off here. What follows could not be confirmed."
+        }
+      ]
+    },
+    "science/feedback-brain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the University of Illinois Urbana-Champaign have produced evidence that could shake up how we see both the brain and AI. Decisions begin at a much earlier stage than existing theory claims, and that points toward AI designs that are more capable while using far less energy."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/functional-brain-mapping.webp",
+          "cap": "Scientists have found that the brain starts making decisions earlier than expected — a discovery that could redraw the future of AI. Credit: AI/ScienceDaily.com"
+        },
+        {
+          "t": "p",
+          "x": "The study, led by Yurii Vlasov, a professor of electrical and computer engineering at the Grainger College of Engineering, was published in Proceedings of the National Academy of Science (PNAS). The finding that early sensory areas play an unexpectedly large role in decisions runs against the long-held assumption that decisions emerge only after information has passed all the way through a strict hierarchy of brain regions."
+        },
+        {
+          "t": "p",
+          "x": "Many AI systems, including convolutional neural networks, started from the picture of a brain that sends information in a single direction: sensory information climbs through increasingly complex regions until it reaches the frontal cortex, where the decision is made. Vlasov and other researchers have grown increasingly doubtful that this picture is the whole story. Instead, they look at models of natural intelligence refined by hundreds of millions of years of evolution. Here, the brain doesn't rely solely on stage-by-stage transmission. Feedback circuits running both ways between regions are also involved in decisions. Since biological intelligence handles complex tasks on far less energy than today's AI, understanding this architecture could guide future AI development."
+        },
+        {
+          "t": "p",
+          "x": "“We want to learn from a billion years of evolution,” Vlasov said. “How is that biological intelligence structurally organized? Can we learn the brain's architecture and imitate it to make AI more effective, less power-hungry, and smarter than it is now? The level of decision-making is exactly where AI falls short today.”"
+        },
+        {
+          "t": "p",
+          "x": "The research team recorded neural activity in mice making perceptual judgments while moving through a virtual reality corridor. Decision-related activity turned up in the primary somatosensory cortex (S1), one of the earliest sensory processing areas in the brain. S1 appeared to be influenced by feedback circuits from higher regions rather than simply passing information forward. That suggests decisions take shape not as a one-way flow, but within an ongoing conversation among multiple regions."
+        },
+        {
+          "t": "p",
+          "x": "The researchers are clear that this study is not a blueprint for better AI. It only offers a new view of how the brain organizes decisions, with the possibility of someday inspiring AI architecture. As a next step, Vlasov's team plans to dig deeper into the timing of neural signals and develop new techniques for measuring neural activity to see how feedback circuits arise and coordinate across multiple processing layers."
+        }
+      ]
+    },
+    "science/baker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/07/David-Baker-group-photo-all-collegues-2-CREDIT-Nobel-Prize-Outreach-Photo-Clement-Morin-2048x1365-1-696x464.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "This piece looks inside the protein design institute led by David Baker. The lab, home to about 100 researchers, shares a bundle of deep-learning tools they call an open “collective brain.”"
+        },
+        {
+          "t": "p",
+          "x": "RFdiffusion and the tools that followed it sit at the center. Proteins are now designed from the ground up, with precision down to a single atom."
+        },
+        {
+          "t": "p",
+          "x": "This kind of AI protein design is rewriting how biotech makes antibodies, enzymes and medicines."
+        }
+      ]
+    },
+    "science/goflow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Surface flow in the ocean is a major force driving Earth's climate, but observation alone has long made it hard to see in full. GOFLOW, built by researchers at Tel Aviv University, is an AI system that reconstructs this hidden flow directly from satellite imagery."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/earth-from-space.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GOFLOW learns from satellite images already on hand and draws out the motion of surface ocean currents hidden inside them. The key is pulling dynamical information that was previously hard to access out of existing data, without needing any new observations."
+        },
+        {
+          "t": "p",
+          "x": "The researchers said this restored flow information sharpens the input data for climate forecasts. Without expanding observations, it opens a path to understanding Earth's climate more deeply using data we already have."
+        }
+      ]
+    },
+    "science/openadmet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/Untitled-1-645x645.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A public AI contest to predict drug metabolism was held. The task was to determine whether a given compound activates the PXR receptor, which clears about half of marketed drugs from the body."
+        },
+        {
+          "t": "p",
+          "x": "The result: 28 teams tied for first place, statistically speaking. The startup Inductive Bio edged ahead by a narrow margin."
+        },
+        {
+          "t": "p",
+          "x": "The result shows that in AI drug discovery, what separates performance isn't model size but data quality. It could change how this field evaluates models."
+        }
+      ]
+    },
+    "science/denning-critique": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
+          "cap": "AI that may not think the way humans do"
+        },
+        {
+          "t": "p",
+          "x": "Computer scientist Peter J. Denning argues that Alan Turing's vision for artificial intelligence may have sent 75 years of AI research down the wrong path."
+        },
+        {
+          "t": "p",
+          "x": "In his new book 『Turing's Mistake: Escaping the Yoke of Unintelligent Machines』, Denning argues that two fundamental assumptions Turing laid down in 1950 still govern AI research today. The first is that intelligence can be reproduced in computer software independent of a physical body; the second is that a machine can demonstrate intelligence simply by imitating a human in conversation, which later became known as the Turing Test."
+        },
+        {
+          "t": "p",
+          "x": "“These two claims have shaped much of AI research and development,” Denning writes. “My premise is that accepting these claims is what has brought us to the mess we're in with AI today.” He warns that pursuing artificial general intelligence (AGI) is unlikely to succeed, and that the technology could instead introduce major new risks."
+        },
+        {
+          "t": "p",
+          "x": "At the center of his argument is tacit knowledge — the vast body of human understanding that is hard to put into words or for computers to process. Denning says machine learning fails to capture five branches of tacit knowledge: common sense, everyday interaction with people and environments, emotion and perception, practical performance skills, and the social and historical knowledge embedded in culture."
+        },
+        {
+          "t": "p",
+          "x": "Attempts to organize common sense into a database go back a long way. Douglas Lenat's Cyc project set out in the 1980s to build a vast collection of common-sense facts, and after 40 years of work has amassed about 25 million entries. Denning notes that “even this trove hasn't provided a common-sense foundation that makes expert systems as smart as real experts,” pointing out that much of the knowledge that makes a person an expert cannot be reduced to propositions."
+        },
+        {
+          "t": "p",
+          "x": "Practical skill is an even bigger challenge. He points to violinists as an example. “A virtuoso can play beautiful music without being able to explain to a student how they produce it. Even if a robot observes and imitates a skilled person, a robot without a biological body cannot grasp what the performer feels while making beautiful music.” Denning sees all these limits as stemming from a ‘representation problem’: computers can only compute with encoded data, and tacit knowledge does not fit that framework."
+        },
+        {
+          "t": "p",
+          "x": "“Behind every word is a deep well of tacit knowledge that supports its meaning,” Denning says. “Commonly used large language models like ChatGPT, Claude and Gemini only handle words — they don't know or understand the meaning of what they're saying.” He explains that intelligence leans heavily on context, and probing that context leads endlessly back through prior conversation. No matter how large neural networks grow, LLMs cannot acquire the embodied human knowledge we call culture, nor reach the goal of the Turing Test."
+        },
+        {
+          "t": "p",
+          "x": "Denning concludes that humans and AI may end up with different tacit knowledge that neither can understand in the other. “Machines cannot read our tacit knowledge, and we cannot read theirs. We are strangers separated by an unbridgeable gap.” He argues that if machines cannot read the context behind human intent, aligning advanced AI with human goals could become impossible, and that a greater threat than superintelligent domination is a web of machine intelligence that falls short of human level yet still causes serious problems."
+        }
+      ]
+    },
+    "science/k2-18b-seti": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/exoplanet-k2-18b.webp",
+          "cap": "Artist's impression of the exoplanet K2-18b"
+        },
+        {
+          "t": "p",
+          "x": "K2-18b is one of the most attention-grabbing exoplanets in recent memory. It orbits in the habitable zone of a red dwarf about 124 light-years away in the direction of Leo. James Webb Space Telescope observations revealed an atmosphere rich in carbon dioxide and methane, making it a candidate 'Hycean' planet, where a thick hydrogen atmosphere wraps around an ocean of liquid water."
+        },
+        {
+          "t": "p",
+          "x": "Because it may hold conditions favorable to life, K2-18b became a major target for the Search for Extraterrestrial Intelligence (SETI). Researchers combed it for artificial radio signals using two of the world's most powerful radio telescopes. According to results published in The Astronomical Journal, the observations captured millions of candidate signals, but turned up no evidence of narrowband radio signals comparable to today's Earth technology."
+        },
+        {
+          "t": "p",
+          "x": "The project combined data from the Karl G. Jansky Very Large Array (VLA) in New Mexico and MeerKAT in South Africa. Pairing facilities of this scale in a single observing campaign is quite rare, which allowed an unusually sensitive sweep of the K2-18b system."
+        },
+        {
+          "t": "p",
+          "x": "Just as important as the observations was the processing pipeline that filtered the vast amount of recorded radio signals. Because radio telescopes are constantly flooded with signals originating from Earth, the researchers first sift out interference with sophisticated software. The VLA used the COSMIC (Commensal Open Source Multi Mode Interferometer Cluster) system, and MeerKAT used the BLUSE (Breakthrough Listen User Supplied Equipment) system."
+        },
+        {
+          "t": "p",
+          "x": "The researchers then used five screening methods to search for traces of technological civilization. First, they applied radio frequency interference (RFI) masking to remove bands already heavily contaminated by human-made transmissions. They also considered the Doppler effect: since radio signals traveling between planets should show Doppler shift, signals with little to no change were treated as originating from Earth and discarded."
+        },
+        {
+          "t": "p",
+          "x": "Signals with a signal-to-noise ratio below 10 or above 100 were also filtered out. In multi-beam analysis, the telescopes formed multiple focused beams at once, with one aimed at K2-18b and another at a different patch of sky; a genuine signal should appear only in the beam pointed at K2-18b. The final transit filtering method checks whether a signal disappears when the planet passes behind its star, but since this observation had no such 'secondary transit,' it was not used."
+        },
+        {
+          "t": "p",
+          "x": "Millions of candidate signals turned up, but none passed every stage. Still, the observation allowed the team to set an 'upper limit' on the strength of any radio transmitter that might exist in the K2-18b system, and that limit is roughly comparable to the transmission power of the now-collapsed Arecibo radar facility in Puerto Rico."
+        },
+        {
+          "t": "p",
+          "x": "Above all, this project showed that automated data-processing pipelines can handle the enormous volume of signals pouring out of modern SETI observations. The value of such techniques will only grow once future observatories like the Square Kilometer Array come online. K2-18b is quiet for now, but the ability to catch traces of technology beyond the solar system keeps improving."
+        }
+      ]
+    },
+    "science/scent-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-21.jpg",
+          "cap": "A phylogenetic tree of scent plants. Green bars mark families rich in sleep-promoting scent molecules."
+        },
+        {
+          "t": "p",
+          "x": "Food scientists at the National University of Singapore (NUS) used machine learning to screen more than 2,300 scent molecules from aromatic plants, picking out compounds with the potential to aid sleep. The approach could speed up the discovery of natural sleep aids."
+        },
+        {
+          "t": "p",
+          "x": "Sleep is essential for health, learning and everyday well-being, yet sleep problems affect up to a third of the world's population. Sleep medications help some patients, but they come with side effects and don't suit everyone, which has driven the search for alternatives. Aromatic plants, from lavender to basil, have long been used to aid relaxation, but it has been hard to pin down which scent molecules actually affect sleep."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Assistant Professor Zhang Dachuan of the NUS Department of Food Science and Technology set out to find such molecules using a data-driven approach that combines AI with vast plant chemistry data. In the study, featured on the cover of the journal Digital Discovery, the team curated a refined library of 2,391 scent molecules drawn from 991 aromatic plant species, and trained a machine learning model to recognize patterns linked to sleep-promoting activity. The work was done in collaboration with Professor Kou Xingran of the Shanghai Institute of Technology in China."
+        },
+        {
+          "t": "p",
+          "x": "In testing, the model achieved 96.1% accuracy, largely separating sleep-aiding compounds from those that are not. It also flagged hundreds of plant scent molecules as promising candidates. To see whether the computer's predictions translated into real biological effects, the team selected five commercially available molecules for testing. Of these, four — carvacrol, safranal, vanillin and methyl eugenol — reduced wakefulness and increased the restorative sleep stage known as non-REM sleep."
+        },
+        {
+          "t": "p",
+          "x": "These molecules also acted on GABA receptors, the brain's main calming signaling system and a well-known target of existing sleep medications. It's an early clue to how certain plant scents engage sleep-related pathways."
+        },
+        {
+          "t": "p",
+          "x": "Beyond individual molecules, the team also ranked plant families and species rich in promising scent molecules. Among the 991 aromatic plant species analyzed, Asteraceae, Lamiaceae and Lauraceae stood out, and species such as lavender and perilla were flagged for further study."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-maps-plant-compound.jpg",
+          "cap": "AI maps plant compounds"
+        },
+        {
+          "t": "p",
+          "x": "These findings are not a finished sleep product. They're closer to a 'practical map' pointing toward promising directions for future research. The approach shows that AI can speed up the discovery of natural ingredients for health products, functional foods, fragrances and wellness applications."
+        },
+        {
+          "t": "p",
+          "x": "“Many people link calming plant scents to better sleep, but understanding which molecules play that role and what mechanism drives the effect requires stronger evidence,” Assistant Professor Zhang said. He added that the goal is to turn traditional knowledge into a guide for developing safer, more targeted sleep-related products."
+        },
+        {
+          "t": "p",
+          "x": "Follow-up research will look at long-term safety, how multiple scent molecules interact when combined, and whether the same effects hold up in broader biological and human studies."
+        }
+      ]
+    },
+    "science/aiscaffold": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the Broad Institute confirmed that it is better to start lab protein evolution not from a natural protein but from a more stable, AI-designed one. The AI-designed scaffold opened up more room for the protease to acquire new mutations."
+        },
+        {
+          "t": "p",
+          "x": "The team reprogrammed a botulinum neurotoxin protease to target ataxin-2, achieving performance 79 times better than the naturally derived version."
+        },
+        {
+          "t": "p",
+          "x": "The result shows that generative protein design and directed evolution are not competing tools but ones that complement each other in making therapeutic enzymes."
+        }
+      ]
+    },
+    "science/camulator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at NSF NCAR are building AI weather and climate emulators like CAMulator. They reproduce complex atmospheric models at roughly 350 times lower computational cost, producing subseasonal forecasts for the 2-to-8-week range quickly."
+        },
+        {
+          "t": "p",
+          "x": "Once trained, the emulator can generate long simulations using only a fraction of the time a supercomputer-based physical model would need."
+        },
+        {
+          "t": "p",
+          "x": "The research targets the gap between weather forecasting and seasonal climate prediction, particularly the notoriously difficult 2-to-8-week window."
+        }
+      ]
+    },
+    "science/gyrotron": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Princeton Plasma Physics Laboratory (PPPL) is leading the Genesis Mission project. It aims to build an AI system that autonomously operates the gyrotrons used to heat fusion plasma, along with virtual simulations of the hardware."
+        },
+        {
+          "t": "p",
+          "x": "The work is part of a U.S. national plan to apply AI to scientific discovery in fusion energy."
+        },
+        {
+          "t": "p",
+          "x": "Autonomous control of heating hardware is a step toward a future in which AI manages and operates fusion reactors."
+        }
+      ]
+    },
+    "science/selfdrivinglab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Tohoku University built an AI-based system. It links a materials database, machine-learning interatomic potentials, large language models, intelligent AI agents, and automated experiments into one continuous feedback loop, which the team calls the 'fourth-plus paradigm.'"
+        },
+        {
+          "t": "p",
+          "x": "Experimental results feed back into refining AI predictions, and repeating this cycle sharply cuts the time needed to find advanced energy materials."
+        },
+        {
+          "t": "p",
+          "x": "This self-driving lab approach targets the trial-and-error bottleneck that has long persisted in materials science."
+        }
+      ]
+    },
+    "science/deeptimegate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/biomedical-imaging-aut.jpg"
+        },
+        {
+          "t": "p",
+          "x": "UCLA researchers' DeepTimeGate is a physics-informed machine-learning framework that reconstructs images seen through light-scattering media. It pairs a reconstruction neural network, which builds the image, with a second algorithm that checks the result against basic physical laws in real time."
+        },
+        {
+          "t": "p",
+          "x": "Using physics laws as a safeguard allowed clear images from low-cost cameras without expensive equipment. The researchers believe the approach could also be applied to medical imaging and self-driving car sensing."
+        }
+      ]
+    },
+    "science/oled-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-combine-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nagoya University researchers combined machine learning and quantum chemistry to search for an efficient blue OLED material. They first trained a model on quantum chemistry calculations for 1,000 molecules, then used that model to screen more than 17,000 candidate compounds."
+        },
+        {
+          "t": "p",
+          "x": "Having AI narrow the candidates upfront sharply cut heavy computing costs, and the promising emitters it selected were then verified experimentally. The researchers believe this kind of generative screening can speed up the search for new materials considerably."
+        }
+      ]
+    },
+    "science/qewc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-10.30.52-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "QEWC, introduced by the researchers, is a quantum machine-learning framework that uses quantum geometry to prevent 'catastrophic forgetting.' Catastrophic forgetting is when a model loses earlier skills while learning a new task."
+        },
+        {
+          "t": "p",
+          "x": "QEWC anchors learning firmly to the geometry of quantum states. This lets quantum AI learn multiple tasks in sequence while preserving what it has built up along the way."
+        }
+      ]
+    },
+    "science/argomoc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers used artificial intelligence to analyze 20 years of ocean float data and read a new picture of Atlantic circulation. About 4,000 autonomous Argo profiling floats have kept up observations since the program began, regularly diving to a depth of 2,000 meters and transmitting temperature, salinity, and pressure data by satellite."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-unlocks-atlantic-ci.jpg",
+          "cap": "Argo buoys dive to a depth of 2,000 meters and resurface, recording temperature, salinity, and pressure data. Credit: Cristian Clauwers"
+        },
+        {
+          "t": "p",
+          "x": "The study, published in Ocean Science, focuses on the Atlantic Meridional Overturning Circulation (AMOC). The paper describes this circulation as “a vast, conveyor-belt-like system that carries warm surface water northward, where it cools and sinks to great depths, then returns south as cold deep water.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained a machine learning algorithm on high-resolution ocean simulations, combining observational data with model calculations. After having the algorithm learn correlation patterns between currents and temperature-salinity profiles, they applied it to actual Argo observations."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-22.jpg",
+          "cap": "Workflow for reconstructing the AMOC from Argo profiles. Credit: Ocean Science (2025). DOI: 10.5194/os-21-3541-2025"
+        },
+        {
+          "t": "p",
+          "x": "Lead author Dr. Yannick Wölker said, “Combining machine learning with established physics models lets us draw more out of existing observational data.” The reconstructed circulation estimates matched well with existing observational series and models, proving useful for estimating the strength of large-scale currents from point observations, particularly for measuring the circulation's geostrophic component."
+        },
+        {
+          "t": "p",
+          "x": "However, the method doesn't adequately capture short-term variability or long-term AMOC weakening. The researchers stressed that the approach “is not meant to replace existing observation systems but to effectively complement and optimize them.” Professor Arne Biastoch said, “AI methods can help make the best possible strategic decisions about future ocean observation.”"
+        }
+      ]
+    },
+    "science/readroom": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This piece examines whether artificial intelligence can read the social dynamics of group work by analyzing nonverbal signals like silence. Research shows that “a group's collective intelligence (CI) rises the more social sensitivity members show and the more evenly they share conversational turns.” But noticing a behavioral pattern isn't the same as understanding what it means."
+        },
+        {
+          "t": "p",
+          "x": "A 2024 study by Dang and colleagues split 30 Finnish secondary school students into ten teams for a collaborative design task. The students developed food products via voice messages while customer complaints grew increasingly heated. The study revealed three deliberation styles. In elaborated deliberation, silence accounted for about 18% of interactions and mainly appeared during exchanges of learning; in coordinated deliberation, silence served as a transition linking task phases. In isolated deliberation, by contrast, silence dominated about 36% of interactions, which could reflect personal reflection or fragmented group dynamics."
+        },
+        {
+          "t": "p",
+          "x": "However, AI could only flag patterns of silence, not reveal what the students actually thought or felt. In a 2025 study by Cohn and colleagues, experienced teachers reviewed a dashboard combining video, speech, screen activity, emotion indicators, and engagement. The study distinguished between “difficulty thresholds,” the first signs of struggle, and “intervention points,” where help actually helps. Crucially, the same signal — silence — required different responses depending on context."
+        },
+        {
+          "t": "p",
+          "x": "The piece notes that “noticing that something happened is different from understanding what it means. A quiet moment could be confusion, frustration, personal focus, or shared reflection.” AI can capture silence down to the millisecond, yet it's clumsy at reading context, and it can mistake reflection for a problem and cut off productive group thinking. The author concludes that “the most socially sensitive AI may not be the one that always knows what to say, but the one that also knows when to stay quiet.”"
+        }
+      ]
+    },
+    "science/curiobot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the Okinawa Institute of Science and Technology Graduate University (OIST) built a virtual robot that used curiosity as a learning signal. It learned language comprehension twice as fast as a robot without curiosity. The study appeared in Science Advances."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/curious-robots-mimic-h-2.jpg",
+          "cap": "A virtual OIST robot that received curiosity as a learning signal."
+        },
+        {
+          "t": "p",
+          "x": "The robot used PV-RNN, a brain-inspired predictive coding neural network. The robot rewarded for novel behavior — the curious one — learned language tasks far faster. The gap widened especially on complex, multi-step tasks."
+        },
+        {
+          "t": "p",
+          "x": "Midway through training, unprompted play appeared. The curious robot “repeatedly experimented with behaviors completely different from what it was instructed to do.” Behavior that was never separately programmed emerged on its own."
+        },
+        {
+          "t": "p",
+          "x": "The diversity of the language environment also mattered greatly. A robot exposed to 48 verb-adjective-object combinations generalized successfully only 25% of the time, while one exposed to 180 combinations rose to 85%. More varieties of speech improved transfer learning."
+        },
+        {
+          "t": "p",
+          "x": "The U-shaped curve also appeared. The robot performed well at first, dipped in accuracy while learning a new rule, then climbed back up as it mastered exceptions. The same pattern of overgeneralization seen in toddlers emerged on its own in the model."
+        },
+        {
+          "t": "p",
+          "x": "The researchers are targeting Chomsky’s “poverty of the stimulus” problem. They believe curiosity and a rich environment can explain why children learn language so quickly despite sparse input."
+        }
+      ]
+    },
+    "science/cyclecover": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On Friday, July 11, OpenAI released GPT-5.6 Sol, which solved the cycle double cover conjecture. Several mathematicians proposed it in the 1970s, and it had remained open for more than 50 years."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/c426b813-2ec9-45c5-96ed-52b96a74ca63/graph-blue.jpg",
+          "cap": "An image depicting a graph. Yuichiro Chino/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The conjecture states that almost every graph can be covered by cycles so that each edge belongs to exactly two cycles. The AI’s proof shows that, aside from graphs where large clusters connect through only a single edge, any graph can be doubly covered by no more than eight cycles."
+        },
+        {
+          "t": "p",
+          "x": "The prompt was unusual. It set 64 AI agents working on the problem simultaneously and added one line: “Spend at least eight hours on this before thinking about turning back or giving up.”"
+        },
+        {
+          "t": "p",
+          "x": "Noga Alon of Princeton said it was “another impressive example showing that AI tools will substantially change mathematical research, and already are.”"
+        },
+        {
+          "t": "p",
+          "x": "Andrew Sutherland of MIT said a problem’s reputation for difficulty can itself discourage human attention and become a self-fulfilling prophecy that blocks progress. “I think we’ll keep seeing this — LLMs finding easy solutions to problems that were thought to be hard.” In fact, this proof used almost no new ideas, instead weaving together methods people had already built."
+        }
+      ]
+    },
+    "science/peptiverse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the University of Pennsylvania released PeptiVerse, an open-source AI platform. It calculates a peptide's key properties in advance, before costly, time-consuming synthesis and experiments. The study appeared in Nature Communications (2026)."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-platform-could-spee.jpg",
+          "cap": "A laptop showing the PeptiVerse screen next to peptide synthesis equipment."
+        },
+        {
+          "t": "p",
+          "x": "A drug candidate has to clear several hurdles. PeptiVerse predicts solubility and cell permeability, toxicity and resistance to protein aggregation, and even bioavailability and how long a compound stays active in the body. The idea is to filter out drug-development bottlenecks computationally, first."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't predict everything with one model. Each property uses its own tailored machine-learning architecture."
+        },
+        {
+          "t": "p",
+          "x": "Existing computational tools required programming knowledge to use. PeptiVerse lets users enter a peptide sequence into a web interface and get predictions back as images. First author Yinuo Zhang said, “I wanted researchers to be able to see what's happening inside, not just end up downloading a Python package.”"
+        },
+        {
+          "t": "p",
+          "x": "It also shows the data used in training. Experimentalists can read the predictions alongside molecules whose properties are already known."
+        },
+        {
+          "t": "p",
+          "x": "Senior author Pranam Chatterjee said it prevents researchers from learning “too late” that a promising-looking molecule ultimately can't become a drug. It doesn't stop at screening, either. It also guides generative AI as it designs new peptides with desired therapeutic properties."
+        }
+      ]
+    },
+    "science/ai-drug-discovery-data-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323_f6bf40.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI is finding therapeutic targets faster than ever. But that speed has exposed the next bottleneck."
+        },
+        {
+          "t": "p",
+          "x": "Validating predictions requires real experiments, but the lab's physical throughput can't keep up."
+        },
+        {
+          "t": "p",
+          "x": "The key point is that closing the loop between AI predictions and validated drug candidates requires better-quality experimental data."
+        }
+      ]
+    },
+    "science/alphafold-impossible-structures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dynamics.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Rensselaer Polytechnic found that leading AI protein structure prediction tools often produce results that are physically and chemically impossible."
+        },
+        {
+          "t": "p",
+          "x": "A structure can look plausible yet not hold up as a real molecule. This blind spot stays hidden if the prediction is simply trusted."
+        },
+        {
+          "t": "p",
+          "x": "The researchers stressed that physics-based molecular dynamics validation and human review remain essential."
+        }
+      ]
+    },
+    "science/quantum-neural-net-barren": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Quantum-Signals.png"
+        },
+        {
+          "t": "p",
+          "x": "A new theoretical framework proposes two scalable quantum circuit designs along with a parallel training method."
+        },
+        {
+          "t": "p",
+          "x": "The key lies in mathematically avoiding the 'barren plateau.' A barren plateau is a barrier where training signals vanish as circuits grow larger, making large quantum neural networks effectively untrainable."
+        },
+        {
+          "t": "p",
+          "x": "The researchers aimed to design the structure so it remains trainable while staying hard to simulate on classical computers."
+        }
+      ]
     }
   }
 }

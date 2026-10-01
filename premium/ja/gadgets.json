@@ -2737,6 +2737,525 @@
           "x": "バッテリーは充電ケースを含めて合計42時間。イヤホン単体ではANCオフで10時間、ANCオンで25時間使える。"
         }
       ]
+    },
+    "gadgets/navix-ultra": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "先週、中国の世界人工知能大会（WAIC）で予告されていたものをnubiaが公開した。AIエージェントが動くスマートフォン、nubia NaviX Ultraだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
+          "cap": "nubia NaviX Ultra"
+        },
+        {
+          "t": "p",
+          "x": "仕様はまだ発表されていない。その代わりにWeiboでデザインを公開し、世界初のAIエージェントスマートフォンだと称した。確認できているのは、Doubaoモバイルアシスタントを搭載する点と、Pixel風のカメラバーの中に背面トリプルカメラを収めた点くらいだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "カラーはBlue Horizon、Black、Dreamscape、Whiteの4色。nubiaはNaviX Ultraが、WAIC 2026に先立って2026 SAIL（Super AI Leader）アワードを受賞したことも明らかにした。仕様や価格、発売時期は数日中にさらに公表される見込みだ。"
+        }
+      ]
+    },
+    "gadgets/neo-hands": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QRyXV3csReA"
+        },
+        {
+          "t": "p",
+          "x": "1XがYouTubeに投稿したデモでは、Neo Betaの新しい手が電球をねじって取り付け、ぶどうを一粒ずつ摘んで容器に入れ、ネジをつまみ、ジャケットのジッパーを下げる。Funyunsのお菓子の袋も開ける。デュプロブロックとはいえ、レゴの塔もかなり高く積み上げる。ゆっくりではあるが、人間の手と見間違うほど滑らかだ。"
+        },
+        {
+          "t": "p",
+          "x": "秘密は構造にある。1Xはこの防水仕様の手を「closed-loop tendon-driven system」と呼ぶ。モーターとサーボを手から抜き出し腕側に移したことで、手自体が小さく柔軟になった。腕に下がったモーターは、腱のような連結ケーブルの束を引いたり緩めたりして手を動かす。筋肉と腱が前腕の中で引かれる人間の手と似た仕組みだ。"
+        },
+        {
+          "t": "p",
+          "x": "指と手のひら、親指を合わせて25自由度。映像では人間よりも大きく反り返ることもある。力もかなり強く、20パウンドのダンベルを持ち上げ、指一本で滑車のおもりを巻き上げる。指にセンサーが入っていて、何をつかんでいるか、どれだけ力を入れるべきかを把握する。そのおかげで電球を割らない。隣で振られたハンマーは、そうではなかったが。"
+        },
+        {
+          "t": "p",
+          "x": "先週、ロボット2台が豚の胆嚢手術をやり遂げたという話とは趣が異なる。あちらは腹腔鏡用のマニピュレーターを握っていただけで、細かい操作は器具の先端で起きていた。メスを直接扱うロボットの手はなかった。"
+        },
+        {
+          "t": "p",
+          "x": "2万ドルのNeoが家庭に入れば、この手は家事に使われる。自分自身のケアにも使う。映像の中のNeo Betaは、MagSafe方式の充電パックをつまみ、自分の腰に取り付ける。1Xは、この手が現実世界の新しい学習データをロボット開発に還元すると明らかにした。"
+        }
+      ]
+    },
+    "gadgets/signal-ring": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "血圧は長らくPPGウェアラブルの「聖杯」と呼ばれてきた。測るため、あるいは少なくとも補正するためだけでも、膨らむカフが必要だった。Huawei Watch Dは時計の中にカフを内蔵し、Appleの高血圧検知は30日分のデータから可能性を示すだけで数値は出さない。LED方式でこの問題を解いた例はなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
+          "cap": "Signal Ring"
+        },
+        {
+          "t": "p",
+          "x": "Signal Ringは、GoogleでAndroidを率いたTom Mossが作った。Oura Ring 5やGalaxy Ringのように指標を並べ立てることも、Fitbit AirのようにAIアシスタントを載せることもしない。出発点はMoss自身が経験した「高血圧の緊急事態」だった。血圧が250まで上がった経験を、彼は理屈に合わない圧力だったと表現した。"
+        },
+        {
+          "t": "p",
+          "x": "その後、市販の血圧トラッキング機器を片っ端から買ってみたが、使えるものはなかったという。Galaxy Watch系はカフで一度補正したあと他の生体信号から推定するが、Mossが望んだのは基準値からの変化ではなく、血圧そのものを測る方法だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LED心拍センシングの特許でAppleを訴えたMasimo出身の科学者・エンジニアたちと3年かけて作り上げた。その場で血圧を測り、「平均動脈圧」という単一の数値で一日中手動で追跡したうえでBluetoothでアプリに送る。AppleもSamsungもできなかったことをどうやったのかという問いに、Mossは専門性を挙げた。AIでも魔法のような新技術でもなく、ひとつの問題に最も強い人たちを集めただけだという。歩数用の加速度センサーのようなものを詰め込まなかったのもそのためだ。"
+        },
+        {
+          "t": "p",
+          "x": "精度は、既存の血圧測定と比べる実際のテストでのみ確認できる。予約注文は受付中で、価格は399ドル（約£295／AU$770）、サブスクリプション料金はない。出荷は10月だ。"
+        }
+      ]
+    },
+    "gadgets/meta-privacy-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "メタはRay-BanとOakleyのスマートグラスにv26更新を義務配布する。撮影中であることを知らせるプライバシーLEDを物理的に覆ったり破損させたりすると、この更新でカメラ機能自体が停止する。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "これまでこの光をテープで覆って隠し撮りする手口が問題視されてきた。光とカメラを一体化させ、周囲に撮影を知らせる信号が消えるとともに撮影自体も止まる仕組みにした。"
+        }
+      ]
+    },
+    "gadgets/samsung-unpacked-july": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "7月22日のUnpackedを控え、サムスンが何を投入するのか輪郭が見えてきた。折りたたみ式のGalaxy Z Fold8とZ Flip8、そして新型スマートウォッチが登場するとみられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg"
+        },
+        {
+          "t": "p",
+          "x": "今回の焦点はハードウェアよりもGalaxy AIの拡張にある。ユーザーの次の行動を先読みする予測機能、自律的に作業を処理するエージェント、写真を生成AIで編集するツールまで幅広く追加されるとみられる。"
+        }
+      ]
+    },
+    "gadgets/galaxyglasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Unpackedを控え、サムスンのAndroid XR機器「Galaxy Glasses」の仕様が流出した。Snapdragon AR1 Gen 1チップとデュアルカメラを搭載しているという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Geminiが深く組み込まれ、手を触れずに目の前の場面を撮影・翻訳し、道案内まで受けられるという。ハンズフリーのAIウェアラブルが向かう先を示す兆候だ。"
+        }
+      ]
+    },
+    "gadgets/oneui9": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "One UI 9は、GalaxyでGemini Intelligenceを初めて披露する。質問に答えるだけでなく、複数のアプリをまたいでタスクを代わりに処理するエージェント型の自動化が核心だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "一文を入れるだけで望むウィジェットを作ってくれ、自動入力も一段と賢くなった。話した言葉を文字に変えるRambler(ランブラー)も新たに加わった。"
+        }
+      ]
+    },
+    "gadgets/adobe-indigo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg"
+        },
+        {
+          "t": "p",
+          "x": "アドビが実験用カメラアプリ「プロジェクト・インディゴ」に、生成AI機能「AIプレイグラウンド」を新たに搭載した。撮影後に編集アプリへ移っていた流れを、撮影のその瞬間へと引き寄せた形だ。"
+        },
+        {
+          "t": "p",
+          "x": "モバイルで撮影する人はこの機能で画面内の邪魔な要素を消したり、好みの芸術的スタイルを加えたりできる。撮影時にリアルタイムで写真の案内も受けられる。"
+        }
+      ]
+    },
+    "gadgets/samsung-health-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg"
+        },
+        {
+          "t": "p",
+          "x": "サムスンはサムスンヘルスの中に「ヘルスアシスタント」というAIチャットボットを組み込んだ。溜まるだけだったウェルネスデータを、人が理解できる言葉に解きほぐす役目だ。"
+        },
+        {
+          "t": "p",
+          "x": "チャットボットは歩数、心拍、睡眠といった記録を読み取り、その意味を解釈する。その上で個人に合わせた生活習慣のアドバイスを示すが、このアドバイスは医療スタッフの検証を経ている。"
+        },
+        {
+          "t": "p",
+          "x": "ウェアラブル全体を網羅している点も目を引く。対話型AIが日常の健康ツールの上に一枚重なる方向を、サムスンははっきり示している。"
+        }
+      ]
+    },
+    "gadgets/gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GoogleがGemini for Homeの新機能を配信する。コンテキスト記憶を15分に延ばし、スマートホーム全体で複数段階にわたる会話を追えるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "これに合わせてNest Camのファームウェア更新も同時に配信される。"
+        },
+        {
+          "t": "p",
+          "x": "生成AIが家庭内の機器やカメラにさらに深く入り込む形だ。"
+        }
+      ]
+    },
+    "gadgets/brainco-mind-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "上海で開かれた2026世界人工知能大会で、BrainCoが思考で操るロボットAIプラットフォームを披露した。EEGヘッドセットが脳信号を読み取り、200ミリ秒以内にロボットが理解できる命令へと変換する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
+        },
+        {
+          "t": "p",
+          "x": "手を使わずに機械を操れる点が核心だ。片手にお菓子を持ったままPCを組み立てる場面のように、思考と動作の間の遅延を目に見えて縮めた新しい操作方式の手がかりを示している。"
+        }
+      ]
+    },
+    "gadgets/robot-phone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Honorの「ロボット型フォン」のリーク版ハンズオン映像が公開された。厚みを増した本体とともに、実際に動いて対象を追うモーター駆動のジンバルAIカメラが確認できる。"
+        },
+        {
+          "t": "p",
+          "x": "Honorは7月18日、中国のWAICでこのAI中心の端末を披露する予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "見慣れないロボット的デザインは、スマートフォンを能動的なエージェントAI機器として再定義しようとするHonorの試みだ。"
+        }
+      ]
+    },
+    "gadgets/frameworkdesk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "フレームワークは、他のPCメーカーが手を出そうともしない製品を出す会社として名を上げてきたが、今回のティーザーもその路線を継いでいる。AMDのAdvancing AIイベントで新しいFramework Desktopを先行公開し、目的はひとつにはっきりしている。大きなAIモデルを自分のPCで直接動かすことだ。ローカルAIを狙ってきた人なら注目に値する機種である。"
+        },
+        {
+          "t": "p",
+          "x": "このPCにはRyzen AI Max+ Pro 495が搭載される。Zen 5コアを16個備え、ブーストクロックは5.2GHzだ。ここにAMD統合グラフィックスの中で最速のRadeon 8065Sが組み合わされ、3GHzで動くRDNA 3.5演算ユニットを40個持つ。外付けGPUなしでも1080pのAAAゲームは問題なく動く。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-desktop-192GB-RAM-specs.jpg?resize=2000%2C1246",
+          "cap": "Framework Desktop 192GB仕様"
+        },
+        {
+          "t": "p",
+          "x": "本当の核心はLPDDR5x 192GBだ。フレームワークによれば、このメモリ量があればDeepSeek V4 Flashのような重いモデルをローカルで動かしても、コンテキスト長にまだ余裕が残るという。より大きなカードを挿せる開放型PCIe x4スロットもある。ソフトウェアはWindows、またはLinuxがプリインストールされた完成品から選ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "これで終わりではない。フレームワークは、デスクトップ2台を50GbEネットワークカードで結んだ概念実証も披露した。こうすると両機のメモリ384GBが1つにまとまる。この大きさの機械にしては、かなり贅沢な話だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-open.jpg?resize=2000%2C1200",
+          "cap": "内部を開けたFramework Desktop"
+        },
+        {
+          "t": "p",
+          "x": "価格は手頃ではないと、フレームワークはあらかじめ明言している。現行のRyzen AI Max+ 395の128GBモデルだけでも3,449ドルだが、2025年2月に初めて登場したときは1,999ドルだった。メモリとストレージの値上がりが原因である。"
+        },
+        {
+          "t": "p",
+          "x": "RAM価格が上がり続ける流れを見れば、192GBモデルが4,500ドルを超えても驚くことではない。公式な価格も発売日もまだない。今はただ気になるティーザーにすぎず、これまでの例から見れば待つ価値はありそうだが、先に痛むのは財布の方だ。"
+        }
+      ]
+    },
+    "gadgets/geminilivemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg",
+          "cap": "Google Home Mini"
+        },
+        {
+          "t": "p",
+          "x": "Googleは昨年10月からスマートスピーカーにGemini Liveを展開し始めた。Nest MiniやNest Audio、Nest Hub、Nest Hub Maxまで対応し、少し前に出たGoogle Home Speakerにも加わった。今回は初代のスピーカーとディスプレイの番である。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは初代Google Home MiniとGoogle Nest HubにGemini Liveを展開すると発表した。Google Home Premiumの契約者で、これらの機器を持っていれば、今後チャットボットと会話をやり取りできるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Liveを初めて使う場合は、「Hey Google, let's chat」と話しかけて会話を始める。チャイム音が鳴れば、会話モードが起動した合図だ。夕食の相談から地球外生命体まで、どんな話題でも構わない。"
+        },
+        {
+          "t": "p",
+          "x": "初代Google Home MiniとGoogle Nest Hubへの展開は本日始まる。"
+        }
+      ]
+    },
+    "gadgets/meta-glasses-299-review": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "メタが新たに発表した自社ブランドのAIグラスは299ドルから。より高価なレイバン・オークリーモデルと同じMeta AI音声アシスタントとカメラ機能を維持しながら価格を下げた。カリッサ・ベルの評価は10点満点で8点。"
+        },
+        {
+          "t": "p",
+          "x": "フレームはアドベンチャラー、スターファイア、フューリーの3種。色とスタイルの選択肢はレイバンより広く、鼻パッドを調整できるためフィット感も多少向上した。一方で見た目はレイバンのペアより厚みがあり洗練度は劣る。特にフューリーは60グラムと重く、長時間使用には不向きだ。"
+        },
+        {
+          "t": "p",
+          "x": "カメラは1200万画素。バッテリーは8時間以上とされるが、音楽を流し続けると実際には4時間30分ほどで切れる。ショートカットを割り当てられるプログラマブル・アクションボタンや、連写を行うダイナミックキャプチャ設定があり、音声案内で道を示すウォーキングナビゲーションも近く追加される。"
+        },
+        {
+          "t": "p",
+          "x": "Meta AIはMuse Sparkモデルで動く。ただ、雑音の中で会話に集中できるようにしていたConversation Focusは、月20ドルのMeta One契約の後ろに回され、利用回数に制限がかかった。カメラのLEDに手を加えると、強制的なファームウェア更新でカメラが停止する。"
+        },
+        {
+          "t": "p",
+          "x": "ベルはレイバン・メタに比べコストパフォーマンスは確かだと評価した。しかしメタのロゴが大きく入ったことで、眼鏡が密かに録画しているのではという懸念はむしろ強まった。"
+        }
+      ]
+    },
+    "gadgets/apple-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Appleは、長らく噂されてきたAIスマートグラスについて、Meta製のレイバンと一線を画す軸としてプライバシーを据えたという。データを端末内で処理する方式と、録画状態をより明確に知らせる表示を検討中だ。"
+        },
+        {
+          "t": "p",
+          "x": "プライバシーを優先した設計は、発売が延びた理由の一つとされる。公開時期は来年6月のWWDCと見込まれている。"
+        },
+        {
+          "t": "p",
+          "x": "混み合うAIグラス競争に参入するにあたり、Appleはプライバシーを前面に押し出す。"
+        }
+      ]
+    },
+    "gadgets/cirqa": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garminが、画面のないスマートバンドCirqaを発表した。サブスク料金なしでAIが健康と睡眠を測り、Whoopやフィットビット エアに対抗する。"
+        },
+        {
+          "t": "p",
+          "x": "回復やレディネス状態、コーチングのアドバイスは、体に付けた画面ではなくアプリを通じて伝えられる。その基盤となるのはGarminのアルゴリズムだ。"
+        },
+        {
+          "t": "p",
+          "x": "ミニマルで常時オンのAIヘルスウェアラブルという流れを示す製品だ。"
+        }
+      ]
+    },
+    "gadgets/garmin-cirqa-band": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ガーミンがCIRQAスマートバンドを正式発売し、画面のないウェアラブル市場に参入した。このフィットネスバンドは1回の充電で10日間持ち、運動と健康を継続的に測定する。GoogleのFitbit Airより3日長いが、Whoop 5.0の14日には届かない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/cirqa-smart-band.jpg",
+          "cap": "ガーミンCIRQAスマートバンド"
+        },
+        {
+          "t": "p",
+          "x": "この機器はウォーキングやランニング、ヨガを含む80種類の運動を記録する。側面のボタンでよく行う運動を選び、蓄積したデータはGarmin Connectアプリで確認する。"
+        },
+        {
+          "t": "p",
+          "x": "測定項目は心拍数、Body Batteryエネルギー、Pulse Ox2、ストレス、皮膚温度まで及ぶ。さらに家族や友人と位置情報をリアルタイムで共有する機能、AndroidとiPhoneの両方に対応するGPS、VO2 MaxやHRVステータスといった高度な指標も加わる。"
+        },
+        {
+          "t": "p",
+          "x": "目を引く機能は、睡眠中の皮膚温度から月経周期と妊娠を追跡することだ。生理予測と排卵推定を提供し、データはFDA承認の避妊アプリNatural Cyclesと連携する。"
+        },
+        {
+          "t": "p",
+          "x": "ガーミンのAI機能であるActive Intelligence Insightsとコーチングは、Connect+の購読プランで利用できる。CIRQAは予約販売を経ずにすぐに販売を開始した。カラーはブラック、フレンチグレー、キャプテンブルー、モーブ、シトロングレー、ダークオリーブ、フレンチブルーがある。S-MとL-XLの両サイズとも199.99ドルで、別途サブスクリプションは不要だ。"
+        }
+      ]
+    },
+    "gadgets/gemini-nano-4-fold8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Googleが今年初めに発表したGemma 4モデルは、次世代オンデバイスAI「Gemini Nano 4」の土台だった。そのNano 4が、Galaxy Z Fold 8 Ultra、Z Fold 8、Z Flip 8とともに正式に姿を現した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-family-pink-colorway.jpg",
+          "cap": "ピンクカラーのGalaxy Z Fold 8ラインアップ"
+        },
+        {
+          "t": "p",
+          "x": "Android Developers Blogによると、サムスンの新しいフォルダブルにはGoogle最新のオンデバイスモデルGemini Nano 4が搭載される。Nano 4は140以上の言語に対応し、マルチモーダル理解力もさらに向上した。"
+        },
+        {
+          "t": "p",
+          "x": "Nano 4は新しいGalaxyフォルダブルのGemini Intelligence機能も支える。ユーザーはGemini Intelligenceを呼び出し、食事の注文やチケット予約のような実際の作業を自動で任せられる。"
+        },
+        {
+          "t": "p",
+          "x": "NotebookLMから名称を変えたGemini Notebook機能も、Gemini Intelligenceで動く。画像やメモ、PDFのようなファイルを整理された文書に変えてくれる。"
+        },
+        {
+          "t": "p",
+          "x": "まだ登場していない機能も残っている。Gemini Intelligenceでウィジェットを自分でデザインする「Create My Widget」が予定されており、まとまりのない考えを滑らかなメモに変えるGboardの「Rambler」ディクテーションモードもまだ控えている。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy Z Fold 8 Ultra、Z Fold 8、Z Flip 8は現在予約受付中で、8月7日から販売を開始する。"
+        }
+      ]
+    },
+    "gadgets/gemini-robotics2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMindが「Gemini Robotics 2」を発表した。ヒューマノイドロボットが腕と胴体、移動ベースを一体として動かせるよう、知能的な全身制御を加えたモデルである。"
+        },
+        {
+          "t": "p",
+          "x": "これによりロボットはゴミ袋を結び、電球を回して取り外し、複数の工程を伴う家事を続けて行える。"
+        },
+        {
+          "t": "p",
+          "x": "家庭に入ってくる汎用型の身体性AIへの、具体的な一歩として読み取れる。"
+        }
+      ]
+    },
+    "gadgets/m4-max-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple M4 Max、Nvidia GB10、AMD Strix Haloを対象に、オンデバイスLLM性能を直接計測した。"
+        },
+        {
+          "t": "p",
+          "x": "結果を見ると、デコードのスループットではM4 Maxが優位だったが、メモリ帯域幅だけで勝負が決まるわけではなかった。"
+        },
+        {
+          "t": "p",
+          "x": "制作や開発の作業でローカルAIを実際によく動かせる民生ハードウェアが何かを具体的に示している。"
+        }
+      ]
+    },
+    "gadgets/openai-companion-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIのハードウェア戦略が明確になった。初の製品は、元Appleデザイン責任者のJony Iveと共に作った携帯スピーカーで、画面を持たず家庭内でAIの相棒として機能する。"
+        },
+        {
+          "t": "p",
+          "x": "この機器には周囲の状況を理解するカメラが搭載される。スマートフォンは早ければ来年に続くと伝えられている。"
+        },
+        {
+          "t": "p",
+          "x": "AIネイティブな家庭用機器がどうあるべきかを、デザインが先導して再解釈したものである。"
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-glasses-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SamsungはUnpackedで、Geminiを搭載したスマートグラス2種を先行公開した。GoogleとアイウェアブランドのWarby Parker、Gentle Monsterが共同で作った製品だ。"
+        },
+        {
+          "t": "p",
+          "x": "画面のないフレームにカメラを備える。Geminiがその目で周囲を見て読み取り、リアルタイム翻訳や道案内、通知の要約をその場で届ける。"
+        },
+        {
+          "t": "p",
+          "x": "重い演算は対になるGalaxyスマホが引き受ける。眼鏡はスマホの横で常時オンのAI窓口となる格好で、クリエイターと日常の利用者の双方を見据えた方向性がはっきりしている。"
+        }
+      ]
+    },
+    "gadgets/friend-2-pendant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "常にそばで聴いていたAIコンパニオン、ネックレス型フレンドがフレンド2.0として再登場した。価格は249ドルだ。"
+        },
+        {
+          "t": "p",
+          "x": "今回はスピーカーが搭載された。アプリ画面でしか答えなかった以前とは違い、ネックレスが声で直接答える。"
+        },
+        {
+          "t": "p",
+          "x": "記憶には条件がついた。30日を過ぎた会話を保持し続けるには、毎月10ドルを払う必要がある。ウェアラブルAIが向かう先を、フレンド2.0は淡々と示している。"
+        }
+      ]
     }
   }
 }

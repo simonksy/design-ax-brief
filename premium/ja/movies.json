@@ -2936,6 +2936,427 @@
           "x": "Martiniは独立系映像制作者向けの無料プランから始まった。公開プロジェクトと全てのAIモデルを使え、有料プランは月15ドルからだ。一部の生成AIモデルは別途クレジットが必要になる。詳しい料金構成はプラットフォームのウェブサイトに記載されている。"
         }
       ]
+    },
+    "movies/automask": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8vynHJ0zimA"
+        },
+        {
+          "t": "p",
+          "x": "ResolveのMagic Maskは、FCPのより高速なMagnetic Maskを生み出し、最終的にPremiereのObject Maskへとつながった。Auto Maskは少なくとも今のところFinal Cut Proだけのものだ。そして驚くほどよく効く。"
+        },
+        {
+          "t": "p",
+          "x": "これはトラッキングではない。多くの場合、トラッキングよりも優れた答えだ。ショット全体で対象を追跡する代わりに、人や人の一部、シーンの一部、さらにはペットまでも毎フレームでリアルタイムに認識する。遮蔽に強いため、選択的なカラーコレクションをはじめ様々な作業に使える。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-first.png",
+          "cap": "In the header of an effect, you choose Auto Mask from the new “person” icon"
+        },
+        {
+          "t": "p",
+          "x": "始め方は二つある。クリップの可視性を扱うには、Masks and KeyingのAuto Maskエフェクトをクリップに直接適用し、エフェクトやカラーコレクションを特定の領域に結びつけるには、エフェクトヘッダーのAuto Maskボタンを押す。選べるマスクは、人、肌、髪、唇、歯、眉、服、空、植物、前景と背景、犬と猫まで17種類だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-all-17.png",
+          "cap": "It’s not easy to find or make an image with all 17 masks, but if you can assemble some pets, a person with hair and a beard with their eyes and mouth open, near some plants and in front of some sky, you’ll get there"
+        },
+        {
+          "t": "p",
+          "x": "各マスクは足し、引き、交差させることができる。前景にいながら猫ではない動物だけを選び出すといった使い方だ。Shrink/ExpandやErode、Blurで調整し、カラーコレクションに付けるとInside/Outsideの切り替えでマスクの両側を行き来できる。すべてのフレームで形をうまく捉えられず、対象がちらつくこともある。横から見た唇は見逃されることもあり、オーバーイヤーヘッドホンを着けた被写体では頭とヘッドホンの間の隙間がついたり消えたりする。それでも大半のショットでは信頼性が高く速い。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/twins.jpg",
+          "cap": "Color changes often work well — can you spot which is the original?"
+        },
+        {
+          "t": "p",
+          "x": "最もありがちで、かつ実用的な使い方は人の一部をカラーコレクションすることだ。画面上の口紅の色が気に入らなければ、Color WheelsにLipsマスクを付ける。歯は彩度を下げて露出を調整すれば白くなり、眉も濃くしたり明るくしたりできる。筆者がリタッチャー時代に学んだ法則がある。リタッチは嘘と同じで、真実に近いほど見破られない。大きな変化より小さな変化の方が大抵うまくいく。"
+        },
+        {
+          "t": "p",
+          "x": "罵倒シーンの口を隠すのも簡単だ。該当区間をブレードで切り、Pixellateを乗せた上でMouthマスクを付ければいい。音はTest Oscillatorでビープ音を入れる。部位ごとに異なるカラーコレクションを乗せて、モノクロ映像に色を一つずつ戻すこともできる。空はSkyマスクでより深く濃くできるが、本当の空の置き換えには新しい空を直接乗せる必要がある。"
+        }
+      ]
+    },
+    "movies/daletflex": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "メディア業界向けの技術・サービス企業Daletが、Dalet Flexの新しい長期サポート(LTS)リリースを発表した。コンテンツの取り込みと補強から編集、パッケージング、配信まで、メディアライフサイクルの各段階にインテリジェントな自動化を導入した。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Image-3-Dalet-Flex-Dark.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "最近のメディア組織は、より少ない人員でより複雑な工程を回し、より多くのプラットフォームへより多くのコンテンツを出す必要に迫られている。このリリースはワークフロー自動化でAIメディアインテリジェンスを広げ、Daletのメディア認識型エージェンティックAIプラットフォームDaliaとの統合を深めることでその圧力に応える。プロダクト責任者のErwan Kerfournは、Dalet Flexを「the operational backbone for modern media organizations」と呼び、Daliaを日々のメディア運用に実際に組み込むことがこのリリースの狙いだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "セキュリティとインジェストの面から手を入れた。OpenID Connect認証でモダンなID管理を加え、Ingest Portalの新しいロールベース権限が管理者にスケジューリングと録画運用の統制権をより多く与える。刷新されたIngest Portalはスケジューリングを簡潔にし、複数のタイムゾーンを一目で確認できるようにした。Dalet Brio向けのFIFOスケジューリングとFlexエンコーダーのDNxHD対応も加わった。ライブインジェストは人員や運用リスクを増やすことなく、地域とタイムゾーンを越えて拡張される。"
+        },
+        {
+          "t": "p",
+          "x": "AI面の拡張は大きい。ビジョンモデルがDalet Flexのインフラに直接組み込まれ、メディアが置かれたその場でコンテンツを処理する。アセットが制作に入った瞬間、プラットフォームが説明メタデータを生成し、オブジェクトを特定し、感情的な文脈を読み取り、コンテンツモデレーション分析まで行う。外部のAIサービスへメディアを移す必要はない。結果はタイムラインベースのメタデータとアセットビューにそのまま表示される。手作業のロギングは減り、検索はしやすくなる。"
+        },
+        {
+          "t": "p",
+          "x": "Dalet Cutには縦型動画向けの背景ブラー自動化と、身元・機密情報を隠すための被写体追跡ブラーが加わった。テキストの位置調整も改善され、明るさや彩度といった補正コントロールも増えた。配信準備も簡潔になった。ワークフローウィザードがパッケージングを単純にし、Stream Processingの新しいキャプション焼き込み機能がアクセシビリティとコンプライアンス対応を自動配信フローに組み込む。"
+        },
+        {
+          "t": "p",
+          "x": "このリリースはDaliaをメディアサプライチェーン全体の増幅装置にする。Flex環境内のどのワークフローも、別途の開発なしに設定だけでDaliaに公開できる。特殊なインターフェース知識がなくても、自然言語で複雑な作業を指示できる。Daliaはシステム内にあるワークフローを自動的に見つけ出し、Workflow Designerでチームがどのワークフローを公開するかを選ぶ。公開されたワークフローの構造をDaliaが理解し、実行に必要な変数を聞き返す。複雑な運用手順が、案内に従うだけの一つの対話に縮まる。"
+        }
+      ]
+    },
+    "movies/griptape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "FoundryがAIワークフローオーケストレーションプラットフォームGriptapeに新しいエンタープライズ階層を追加した。ハイエンドなメディア制作環境を対象とした階層で、発表は2026年7月16日に行われた。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
+          "cap": "Griptape Enterprise"
+        },
+        {
+          "t": "p",
+          "x": "エンタープライズ階層は、スタジオが管理するライセンスと拡張されたプロジェクト管理ツールを加える。パイプラインスーパーバイザーがアーティストが使うAIモデルを直接選ぶため、ワークフローは検証済みでコンプライアンスに適合し、すぐに制作へ投入できる状態に保たれる。"
+        },
+        {
+          "t": "p",
+          "x": "Griptape Enterpriseはオンプレミスまたはプライベートクラウドで動作し、機密性の高い知的財産のセキュリティへの不安を取り除く。統制とプライバシーを中核機能として打ち出している。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/05_Permission_Manager_Studio_Wide_or_Project_based-.png",
+          "cap": "モデルへのアクセス権限を扱うPermission Manager画面"
+        },
+        {
+          "t": "p",
+          "x": "Griptape共同創業者で元CEOのKyle Rosiは、Foundryが2026年2月にこのプラットフォームを買収した後、Chief AI Officerとして加わった。Rosiは「Foundryは30年以上にわたり、視覚効果・アニメーションスタジオの信頼できる技術パートナーだった」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "プラットフォームはPythonベースの構造で複数のAIモデルとエージェントをオーケストレーションし、画像生成からメタデータ管理までをカバーする。Nuke互換の画像シーケンスを処理し、カラーパイプライン管理にOpenColorIOを使う。テクニカルディレクターはGriptapeでワークフローを組み、バージョン管理されたNuke Gizmoとして公開する。"
+        },
+        {
+          "t": "p",
+          "x": "画像・映像生成のステップは固定されておらず、並べ替えたり調整したりできる。Flux、Stable Diffusion XL、LTX、WanといったモデルはスタジオのローカルGPU上で動かす。Griptape Enterpriseはすぐに利用できる。"
+        }
+      ]
+    },
+    "movies/gutierrez": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Jorge_Gutierrez2025.jpg",
+          "cap": "Jorge R. Gutierrez"
+        },
+        {
+          "t": "p",
+          "x": "今週のVarietyのインタビューで、アニメーターのJorge R. Gutiérrez（The Book of Life、Maya and the Three）が、反AI感情がどこまで高まったかを明かした。Amazon MGM/AWSが新しいGenAI Creators' Fundでグリーンライトした作品の一つとして、彼のシリーズPunky Duckを発表した直後のことだった。発表から36時間後、Gutiérrezは自らの作品を取り下げた。"
+        },
+        {
+          "t": "p",
+          "x": "彼のソーシャルフィードに残る記録はこうだ。水曜日にプロジェクトが公開された。木曜日、彼は反応を見ながら考え直していると書き、「learning a lot from many of you」と記した。金曜日に正式に手を引いた。スタジオの内外にいる新人とベテランのアーティストを広く取り上げることが本来の意図だったとし、傷ついた人々に心から謝罪し、今後より良くしていくと綴った。"
+        },
+        {
+          "t": "p",
+          "x": "Gutiérrezがvarietyに語ったところでは、発表直後に自宅の住所が特定され、本人と妻への殺害予告が続いた。妻のSandra Equihuaはアニメーターでアーティストでもあり、二人はNickelodeonのシリーズEl Tigre: The Adventures of Manny Riveraを共に制作した。彼の意図は、GenAIアニメーションの世界に人間の創作者をしっかりと根付かせ、アーティストに「a seat at the table」を保証し、作品をアーティスト自身が主導できるようにすることだった。しかしGenAIに反対するアーティストやファンの反応は即座かつ激烈だった。"
+        },
+        {
+          "t": "p",
+          "x": "「What I quickly learned is this is a black-and-white issue. You're pro or you're anti — there's no in between right now.」と彼はVarietyに語った。「The road to hell is paved with good intentions. My intentions were good, but I was taking my family to hell by doing this.」Amazonは、家族にとって最善の道を選ぶようにと言って、彼を素直に解放した。"
+        },
+        {
+          "t": "p",
+          "x": "GutiérrezはエミーとAnnie Awardを受賞したメキシコ出身のアニメーター兼監督だ。El Tigre、長編デビュー作The Book of Life、Netflixのイベントシリーズ Maya and the Threeで知られる。今後はI, ChihuahuaとLa Venganza Rodríguez、Warner Bros. Pictures AnimationのSpeedy Gonzalez映画、El Guapo vs. the Narco Vampires、3Doublesのラヴクラフト風アンソロジーAges of Madnessが控えている。"
+        },
+        {
+          "t": "p",
+          "x": "彼が経験したことは、GenAIの倫理と価値をめぐる社会全体の対立の一局面にすぎない。AIプリプロダクションプラットフォームFilmustageが分析したGoogleのデータによれば、エンターテインメント分野でAIの波を止めようとする検索が増えている。「stop AI in film」は前年比+37,157%、「ban AI movies」は+9,857%、「movies with no AI」は+3,387%上昇した。"
+        },
+        {
+          "t": "p",
+          "x": "アニメーション業界内の論争も激しい。スタジオや個人クリエイターが制作とデザイン生成の可能性を探る一方で、人間のアーティストたちは、ただでさえ厳しい業界に新たな脅威が加わることを懸念している。大手スタジオはGenAIツール開発企業と提携する一方、無断でIPを使用した企業を訴えてもおり、映画祭や映画館はAI作品を上映して反発を受けている。AIパイプラインの上に丸ごと築かれたスタジオも現れている。GenAIはアニメーションを解放する入口か、CGIや色や音響のような単なる次の進化か、あるいは創作を襲う災厄か——それは誰に聞くかによって変わる。"
+        }
+      ]
+    },
+    "movies/project-indigo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobeは計算写真アプリ「Project Indigo」に、実験的機能「AI Playground」を追加した。撮影直後にその写真へすぐ生成編集を適用できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg"
+        },
+        {
+          "t": "p",
+          "x": "単純なスタイル転送を超え、デバイス内で動くオンデバイス生成画像操作をさらに一歩進めた試みだ。"
+        }
+      ]
+    },
+    "movies/spark-story": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lightcraftが「Spark Story」の段階的ベータを公開した。映画製作者が場面を組み、アセットライブラリを満たしながら、高画質な「スーパーデイリー(superdailies)」をリアルタイムでレンダリングできるインタラクティブなプリビジュアライゼーションツールだ。"
+        },
+        {
+          "t": "p",
+          "x": "AIキーイングやブルー・グリーンスクリーンキーイングと連携でき、プリビズ工程を短縮して初期制作コストを下げることに重点を置いた。ベータは現在申し込み可能だ。"
+        }
+      ]
+    },
+    "movies/animaj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ディズニーJrとフランスのAIアニメーション企業Animajが、新しい未就学児向けシリーズ『Ozzy Fox』をひっそりYouTubeに公開した。AIベースのスタジオが子ども向けコンテンツをどれほど速く作れるかを示す事例だ。"
+        },
+        {
+          "t": "p",
+          "x": "反応は早かった。公開2日で視聴数は80万に迫った。大手放送局がAI制作のシリーズを実際に出したという点で、AIアニメスタジオがどう規模をもってコンテンツを作るかを測る合図だ。"
+        }
+      ]
+    },
+    "movies/autodesk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "オートデスクはSIGGRAPH 2026でMaya、3ds Max、Arnold全体にわたるAI機能を発表した。アニメーションとVFX作業をなめらかにつなぐことに重点を置いた更新だ。"
+        },
+        {
+          "t": "p",
+          "x": "核心は4つある。Motion Makerには自分のデータを学習させて使う「Bring Your Own Data」カスタムモーションモデルが加わり、3ds Maxでは3Dガウシアンスプラットを直接編集できるようになった。ここにFlow Production Trackingの統合レビュー、Arnoldのインタラクティブビューポートレンダリングが加わった。"
+        },
+        {
+          "t": "p",
+          "x": "編集可能なスプラットとカスタムモーションモデルは、VFX・アニメーションアーティストの日常のパイプラインを直ちに変える部分だ。"
+        }
+      ]
+    },
+    "movies/hpzcaptis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HPとAdobeが新たに手を加えたHP Z Captisを、Adobe Substance 3Dと組み合わせた。キャプチャ速度は速くなり、画像処理の制御はより緻密になり、フレームレートと解像度の選択肢も増えた。"
+        },
+        {
+          "t": "p",
+          "x": "目標は実写レベルのデジタルツインを大規模に作り出すことだ。スキャンした実物のアセットをVFXやバーチャルプロダクションのパイプラインへ直接流し込み、アセット制作の現場でそのまま使えるようにした。"
+        }
+      ]
+    },
+    "movies/nightborne": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "ニール・ブロムカンプのゾンビ短編『Nightborne』はAIスタートアップBali Studioのために作られた。ByteDanceの生成動画モデルSeedanceを使い、名の知れた監督が手がけた分、AI映画制作の実力を測る試験台となった。"
+        },
+        {
+          "t": "p",
+          "x": "結果は冷ややかだった。この短編はテキスト・トゥ・ビデオ生成器がまだ使える映画を安定して作れないという証拠として落ち着いた。監督が付いた実戦テストである分、今のAI映画ツールが正確にどこで崩れるのかを率直に示している。"
+        }
+      ]
+    },
+    "movies/substance3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600"
+        },
+        {
+          "t": "p",
+          "x": "Adobeがサブスタンス3Dに大きく手を入れた。今回の更新の中心はOpenPBRマテリアル対応の拡大だ。ここにSubstance 3D Painterの新機能が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "OpenPBRをエコシステム全体で受け入れることで、マテリアル形式が一つに整理される。VFXやバーチャルプロダクションのアーティストが実写映画のアセットを作る際に頼るテクスチャリング・ルック開発ツールが、それだけ緻密になるわけだ。"
+        }
+      ]
+    },
+    "movies/grokodyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "イーロン・マスクは、xAIのGrok Imagineが年内にホメロスの『オデュッセイア』を長編映画として完成させると述べた。「歴史的に正確な」脚色だとして、このテキストから映像を生成する手法をクリストファー・ノーランの劇場公開作と対比させた。"
+        },
+        {
+          "t": "p",
+          "x": "しかし、これまでに公開されたサンプル映像には品質面の問題が明らかに見られる。そのため、この主張はAIが実際にどこまで長編映画を作り上げられるかを測る試金石に近い。"
+        }
+      ]
+    },
+    "movies/meshyagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meshyが3Dエージェントのベータ版を発表した。一度のプロンプトで終わるツールではなく、対話を通じて共に作業するコラボレーターに近い。セッション全体を通じて文脈を保つことで、アーティストは一貫したアート方向を定め、スタイルを統一した3D素材のセットを作ることができる。"
+        },
+        {
+          "t": "p",
+          "x": "Meshyはこのツールを映画・VFXやアニメーションパイプラインの初期コンセプト探索用として位置づけている。最終判断はクリエイターに委ねられる。"
+        }
+      ]
+    },
+    "movies/servicemake": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "事例紹介だ。広告代理店Serviceplan Makeは、Lumaの生成動画でコンセプトを可視化し、数日かかっていたスタジオ撮影の代わりに、1日でクライアントに見せるカットを仕上げる。"
+        },
+        {
+          "t": "p",
+          "x": "作業の重心が移った。実行や後工程に使っていた時間が、コンセプトを練り上げ、クライアントからのフィードバックを素早くやり取りする方に移っている。"
+        }
+      ]
+    },
+    "movies/beeble-switchlight-hybrid-set": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "デミアン・アレンがAIを組み合わせたハイブリッド撮影方式を取り上げる。その基盤はBeebleの「SwitchLight」である。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+          "cap": "AIリライティングで再構成した撮影シーン"
+        },
+        {
+          "t": "p",
+          "x": "背景を変え、照明をかけ直す作業はAIが担うが、実際の俳優の演技とカメラワークはそのまま保たれる。従来の制作と完全な合成生成との中間に位置する手法である。"
+        },
+        {
+          "t": "p",
+          "x": "AIリライティングが現場とポストプロダクションのワークフローをどう再編するのかを、実際に手を動かした視点から解説している。"
+        }
+      ]
+    },
+    "movies/puget-robo-dojo-siggraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Puget SystemsがSIGGRAPH 2026で披露した「Robo Dojo」は、観客をリアルタイムのメタヒューマンアバターに変え、AIロボットと対決させる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+          "cap": "SIGGRAPH 2026、Puget StudiosのRobo Dojo"
+        },
+        {
+          "t": "p",
+          "x": "LiDARスキャンとLEDボリュームによるバーチャルプロダクションを用いる。マーカーレスのモーションキャプチャーとリアルタイムレンダリングが、ゲームエンジンのパイプラインへそのまま流れ込むライブデモである。"
+        },
+        {
+          "t": "p",
+          "x": "パフォーマンスキャプチャーとバーチャルプロダクションが映画の分野でどこへ向かうのか、手に取るように示す一場面である。"
+        }
+      ]
+    },
+    "movies/frostfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/frostfx%20marko%20post.jpg"
+        },
+        {
+          "t": "p",
+          "x": "エストニアのVFXスタジオFrostFXが自社のポストプロダクション・パイプラインを公開した。AIをアーティストの代替とは見ていない。"
+        },
+        {
+          "t": "p",
+          "x": "AIが担うのは反復的な技術作業だ。その分空いた時間で、アーティストは創作判断により長く向き合える。"
+        },
+        {
+          "t": "p",
+          "x": "AIを伴うワークフローが実際に作業の質をどう変えるかを、現場の視点から静かに描いた話だ。"
+        }
+      ]
+    },
+    "movies/vida-scene-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg"
+        },
+        {
+          "t": "p",
+          "x": "VidaがContent OS内で動くオフラインAI索引ツール「Scene Search」を発表した。編集者やポストチームが映像ライブラリをシーン単位で、しかも自然言語で検索できるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "ポイントは、人がメタデータを一つずつ付ける必要がなくなることだ。これまでシーンを探し直すには映像を手作業でログする必要があったが、その工程が消える。"
+        },
+        {
+          "t": "p",
+          "x": "映像とTVポストが素材を探し再利用する方法が実務レベルで変わる。検索がクリップ単位からシーン単位まで掘り下がり、求める瞬間に直接届けるようになった。"
+        }
+      ]
+    },
+    "movies/frame-io-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AdobeのFrame.ioが専用の全画面検索ページを新たに公開した。通常検索とAI検索を切り替えられるようにし、求める素材をより速く見つけられるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "比較ビューアも手を加えた。編集者やポストチームが複数のプロジェクトを行き来しながら素材を探し検討する流れが、一段と滑らかになる。"
+        },
+        {
+          "t": "p",
+          "x": "映画とTVのレビュー・承認チームがメディアを確認する方法が実務レベルで変わる点だ。すぐに使える、具体的なワークフローの変化だ。"
+        }
+      ]
+    },
+    "movies/luma-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "Luma AIが自社の映像制作ツールにLayersを新たに加えた。AIが生成した画像を要素単位で触り、精密に編集できる機能だ。"
+        },
+        {
+          "t": "p",
+          "x": "これまでは結果が気に入らなければプロンプトを丸ごとやり直す必要があった。Layersはその方式を離れ、画面内の個々の要素を選んで一つずつ手直しできるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "生成作業をプロンプト運任せの段階から引き下げ、監督し直して修正する統制された作業へと移す格好だ。フィルムメーカーやプリビジュアライゼーション・アーティストが待ち望んでいた質の制御だ。"
+        }
+      ]
     }
   }
 }

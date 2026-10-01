@@ -2788,6 +2788,581 @@
           "x": "Battery life totals 42 hours including the charging case. On the earbuds alone, it lasts 10 hours with ANC off and 25 hours with ANC on."
         }
       ]
+    },
+    "gadgets/navix-ultra": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nubia has unveiled the device it teased last week at China's World Artificial Intelligence Conference (WAIC): a smartphone driven by an AI agent, the nubia NaviX Ultra."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/inline/-1200/gsmarena_001.jpg",
+          "cap": "nubia NaviX Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Specs haven't been released yet. Instead, Nubia revealed the design on Weibo, billing it as the world's first AI agent smartphone. What's been confirmed is that it runs the Doubao mobile assistant and packs a rear triple camera inside a Pixel-style camera bar."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/nubia-navix-ultra-announced/popup/-1200x900m/gsmarena_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It comes in four colors: Blue Horizon, Black, Dreamscape, and White. Nubia also said the NaviX Ultra received the 2026 SAIL (Super AI Leader) Award ahead of WAIC 2026. Specs, pricing, and a launch timeline are expected within days."
+        }
+      ]
+    },
+    "gadgets/neo-hands": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "QRyXV3csReA"
+        },
+        {
+          "t": "p",
+          "x": "In a demo 1X posted on YouTube, Neo Beta's new hand screws in a light bulb, picks grapes off a bunch one at a time into a container, picks up a screw, and unzips a jacket. It also rips open a bag of Funyuns. Even though they're Duplo blocks, it stacks a fairly tall Lego tower too. It's slow, but smooth enough to be mistaken for a human hand."
+        },
+        {
+          "t": "p",
+          "x": "The trick is in the structure. 1X calls this waterproof hand a “closed-loop tendon-driven system.” Moving the motors and servos out of the hand and into the arm made the hand itself small and flexible. The motors, now relocated to the arm, move the hand by pulling and releasing a bundle of tendon-like connecting cables — much like a human hand, where muscles and tendons in the forearm do the pulling."
+        },
+        {
+          "t": "p",
+          "x": "Fingers, palm, and thumb together add up to 25 degrees of freedom. In the video, it even bends back further than a human hand can. The strength is considerable too — it holds a 20-pound dumbbell and winds up a pulley weight with a single finger. Sensors in the fingers know what they're holding and how much force to apply, which is why it doesn't crack the light bulb. The hammer swung next to it, though, was a different story."
+        },
+        {
+          "t": "p",
+          "x": "This is a different kind of story from last week's news that two robots performed gallbladder surgery on a pig. Those robots only gripped laparoscopic manipulators, with the fine motor work happening at the tip of the instruments. No robot hand handled a scalpel directly."
+        },
+        {
+          "t": "p",
+          "x": "Once the $20,000 Neo moves into homes, this hand will handle chores. It's also used for self-maintenance — in the video, Neo Beta picks up a MagSafe-style charging puck and attaches it to its own waist. 1X said the hand feeds new real-world training data back into robot development."
+        }
+      ]
+    },
+    "gadgets/signal-ring": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Blood pressure has long been called the “holy grail” of PPG wearables. Measuring it, or even just calibrating for it, required an inflatable cuff. The Huawei Watch D built a cuff into the watch itself, and Apple's hypertension detection only flags a possibility from 30 days of data without giving a number. No one had solved this with LEDs."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KhRo4yNKAhyXbV5gZBxTNc.jpg",
+          "cap": "Signal Ring"
+        },
+        {
+          "t": "p",
+          "x": "Signal Ring was built by Tom Moss, who led Android at Google. It doesn't pile on metrics like the Oura Ring 5 or Galaxy Ring, and it doesn't bolt on an AI assistant like Fitbit Air. The starting point was Moss's own “hypertensive emergency.” He described the experience of his blood pressure spiking to 250 as a pressure that made no sense."
+        },
+        {
+          "t": "p",
+          "x": "He says he then bought every blood pressure tracking device on the market, and none of them worked well enough. Galaxy Watch-type devices calibrate once with a cuff and then estimate from other biosignals, but what Moss wanted was a way to measure blood pressure itself, not just change relative to a baseline."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EjY65NAh9EEGtJszvzJerL.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He spent three years building it with scientists and engineers from Masimo, the company that sued Apple over LED heart-rate sensing patents. It takes a blood pressure reading on the spot, tracks it manually throughout the day as a single figure called “mean arterial pressure,” and sends it to the app over Bluetooth. Asked how he managed what Apple and Samsung couldn't, Moss pointed to expertise — not AI, not some magical new technology, just putting the people best at one problem on that problem. That's also why he didn't cram in sensors like an accelerometer for step counting."
+        },
+        {
+          "t": "p",
+          "x": "Accuracy can only be confirmed through real-world testing against conventional blood pressure measurement. Pre-orders are open, priced at $399 (about £295 / AU$770), with no subscription fee. Shipping begins in October."
+        }
+      ]
+    },
+    "gadgets/meta-privacy-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is rolling out the v26 update as mandatory for Ray-Ban and Oakley smartglasses. If the privacy LED that signals recording is physically covered or damaged, the update disables the camera function entirely."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Covering the light with tape to film secretly has long been flagged as a workaround. By tying the light and camera together, Meta made it so that if the signal alerting bystanders to recording disappears, recording itself is blocked too."
+        }
+      ]
+    },
+    "gadgets/samsung-unpacked-july": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "With Samsung's July 22 Unpacked event approaching, the outline of its lineup has taken shape. The foldable phones Galaxy Z Fold8 and Z Flip8, along with a new smartwatch, are expected to take the stage."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-48.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This time the focus is less on hardware and more on expanding Galaxy AI. Predictive features that anticipate the user's next move, agents that handle tasks on their own, and generative photo-editing tools are all expected to be added broadly."
+        }
+      ]
+    },
+    "gadgets/galaxyglasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahead of Unpacked, specs for Samsung's Android XR device 'Galaxy Glasses' have leaked. It's reportedly equipped with a Snapdragon AR1 Gen 1 chip and dual cameras."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glasses-leak.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Gemini is said to be deeply integrated, letting users shoot, translate, and get directions for the scene in front of them without touching anything. It's a signal of where hands-free AI wearables are headed."
+        }
+      ]
+    },
+    "gadgets/oneui9": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "One UI 9 introduces Gemini Intelligence on Galaxy for the first time. Its core isn't just answering questions, but agent-style automation that handles tasks on its own across multiple apps."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Type a single sentence and it builds the widget you want, and autofill has gotten noticeably smarter. Rambler, which turns speech into text, has also been newly added."
+        }
+      ]
+    },
+    "gadgets/snapdragonx2e": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NotebookCheck ran several systems equipped with the Snapdragon X2 Elite and lined them up against the latest Intel and AMD laptops."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovoyoga714snapdragon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It measured where these AI PCs, built around an 80-TOPS-class Hexagon NPU, stand in performance and efficiency. That gives a useful benchmark for anyone choosing an on-device AI laptop."
+        }
+      ]
+    },
+    "gadgets/adobe-indigo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/adobe-crams-multiple-ai-tools-into-its-experimental-camera-app/intro-1784570310.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has added a new generative feature called “AI Playground” to its experimental camera app, Project Indigo. It pulls the editing step — once done after the shot — into the moment of capture itself."
+        },
+        {
+          "t": "p",
+          "x": "People shooting on mobile can use the feature to erase distracting elements from the frame or apply an artistic style they want. They even get real-time guidance on the shot as they take it."
+        }
+      ]
+    },
+    "gadgets/samsung-health-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/samsung-aims-to-help-you-make-more-sense-of-health-data-with-a-new-ai-powered-assistant/intro-1784646242.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung has added an AI chatbot called Health Assistant inside Samsung Health. Its job is to translate wellness data that used to just pile up into language people can actually understand."
+        },
+        {
+          "t": "p",
+          "x": "The chatbot reads records like step count, heart rate and sleep, then interprets what they mean. On top of that, it offers lifestyle advice tailored to the person, advice that has been vetted by medical staff."
+        },
+        {
+          "t": "p",
+          "x": "What also stands out is how it spans the whole wearable ecosystem. Samsung is making it clear that conversational AI is layering itself on top of everyday health tools."
+        }
+      ]
+    },
+    "gadgets/gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google is rolling out a new feature for Gemini for Home. It extends context memory to 15 minutes, letting it follow multi-step conversations across the smart home."
+        },
+        {
+          "t": "p",
+          "x": "A matching Nest Cam firmware update ships alongside it."
+        },
+        {
+          "t": "p",
+          "x": "Generative AI is moving deeper into home devices and cameras."
+        }
+      ]
+    },
+    "gadgets/brainco-mind-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the 2026 World Artificial Intelligence Conference in Shanghai, BrainCo unveiled a robot AI platform controlled by thought. An EEG headset reads brain signals and translates them into commands the robot understands within 200 milliseconds."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BrainCo-unveils-brain-controlled-robot-AI-platform-The-future-of-eating-Cheetos-while-building-PCs-hands-free-with-just-a-thought.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The key point is being able to operate machines without using your hands. Like a scene of assembling a PC while holding a snack in one hand, it offers a glimpse of a new mode of operation that noticeably narrows the lag between thought and action."
+        }
+      ]
+    },
+    "gadgets/robot-phone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A leaked hands-on video of Honor's 'Robot Phone' has surfaced. It shows a thicker body along with a motorized gimbal AI camera that actually moves and tracks its subject."
+        },
+        {
+          "t": "p",
+          "x": "Honor plans to unveil this AI-centric device at WAIC in China on July 18."
+        },
+        {
+          "t": "p",
+          "x": "The unusual robot-like design reflects Honor's attempt to reimagine the smartphone as a proactive, agentic AI device."
+        }
+      ]
+    },
+    "gadgets/frameworkdesk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-feature-scaled.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Framework has made its name by shipping things other PC makers don't even attempt, and this teaser keeps to that pattern. It showed off the new Framework Desktop early at AMD's Advancing AI event, with one clear purpose: run large AI models directly on your own computer. If you've been chasing local AI, this is a machine worth watching."
+        },
+        {
+          "t": "p",
+          "x": "This PC runs on the Ryzen AI Max+ Pro 495, with 16 Zen 5 cores and a boost clock of 5.2GHz. Paired with it is AMD's fastest integrated graphics, the Radeon 8065S, with 40 RDNA 3.5 compute units running at 3GHz. 1080p AAA gaming is comfortable even without a discrete GPU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-desktop-192GB-RAM-specs.jpg?resize=2000%2C1246",
+          "cap": "Framework Desktop 192GB specs"
+        },
+        {
+          "t": "p",
+          "x": "The real headline is 192GB of LPDDR5x. Framework says that much memory lets you run heavy models like DeepSeek V4 Flash locally with room to spare for context length. There's also an open PCIe x4 slot for a bigger card. For software, you choose between Windows or a pre-installed Linux build."
+        },
+        {
+          "t": "p",
+          "x": "That's not the end of it. Framework also showed a proof of concept linking two desktops with a 50GbE network card. That combines the two machines' memory into a single 384GB pool—a lot for a machine this size."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Framework-Desktop-open.jpg?resize=2000%2C1200",
+          "cap": "Framework Desktop opened up"
+        },
+        {
+          "t": "p",
+          "x": "Framework has already flagged that the price won't be gentle. Even the 128GB model of the current Ryzen AI Max+ 395, on sale now, runs $3,449—up from $1,999 when it first launched in February 2025. The increase comes from higher memory and storage prices."
+        },
+        {
+          "t": "p",
+          "x": "Given how RAM prices keep climbing, it wouldn't be a shock if the 192GB model tops $4,500. There's no official price or release date yet. For now it's just a tempting teaser, and based on past form, it'll likely be worth the wait—though your wallet will hurt first."
+        }
+      ]
+    },
+    "gadgets/geminilivemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2019/01/google-home-mini-colors-ces-2019.jpg",
+          "cap": "Google Home Mini"
+        },
+        {
+          "t": "p",
+          "x": "Google began rolling out Gemini Live to smart speakers last October. It reached the Nest Mini, Nest Audio, Nest Hub and Nest Hub Max, and recently landed on the newly released Google Home Speaker. This time, it's the turn of the first-generation speakers and displays."
+        },
+        {
+          "t": "p",
+          "x": "Google said it is rolling out Gemini Live to the first-generation Google Home Mini and Google Nest Hub. If you're a Google Home Premium subscriber who owns one of these devices, you can now have a back-and-forth conversation with the chatbot."
+        },
+        {
+          "t": "p",
+          "x": "If it's your first time with Gemini Live, say “Hey Google, let's chat” to start a conversation. A chime sounds to signal that conversation mode is on. You can bring up anything, from dinner options to alien life."
+        },
+        {
+          "t": "p",
+          "x": "The rollout to the first-generation Google Home Mini and Google Nest Hub starts today."
+        }
+      ]
+    },
+    "gadgets/ai-camera-earbuds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new product category is emerging that folds smart-glasses features into wireless earbuds. Bone-conduction headsets and open-ear earbuds are getting cameras attached, aiming at computer vision as well as video and photo capture."
+        },
+        {
+          "t": "p",
+          "x": "The Oreview X1 puts a 4K camera on a bone-conduction headset. It plays music for up to 30 hours straight, far surpassing the Ray-Ban Meta Gen 2's maximum of 8 hours."
+        },
+        {
+          "t": "p",
+          "x": "The Rollme AirCam bills itself as a 3-in-1 AI camera earbud. It touts 16mm Hi-Fi drivers for lossless sound and also packs in a recording function. MusicCam and the Mojin Fold M1 Pro take a similar shape; the latter promises 40 hours of continuous playback for $299."
+        },
+        {
+          "t": "p",
+          "x": "Writer James Pero is skeptical of the trend. He asks who would want this when it doesn't solve the aesthetic problem of visibly wearing tech, and he also flags privacy, since there's no LED to show when the camera is on."
+        },
+        {
+          "t": "p",
+          "x": "Most of these come from lesser-known companies relying on crowdfunding, so mass adoption looks unlikely. Still, the wearables market remains in the middle of plenty of experimentation."
+        }
+      ]
+    },
+    "gadgets/apple-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple has reportedly settled on privacy as the axis that sets its long-rumored AI smart glasses apart from Meta's Ray-Ban. It's said to be weighing on-device data processing and a clearer indicator for recording status."
+        },
+        {
+          "t": "p",
+          "x": "A privacy-first design is cited as one reason the launch has been delayed. The reveal is expected at WWDC next June."
+        },
+        {
+          "t": "p",
+          "x": "As it enters the crowded AI glasses race, Apple is putting privacy front and center."
+        }
+      ]
+    },
+    "gadgets/cirqa": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garmin has unveiled Cirqa, a screenless smart band. It tracks health and sleep with AI and no subscription fee, going up against Whoop and Fitbit Air."
+        },
+        {
+          "t": "p",
+          "x": "Recovery and readiness status and coaching advice come through the app rather than a screen on the body. Garmin's algorithms underpin it."
+        },
+        {
+          "t": "p",
+          "x": "It's a product that reflects the trend toward minimal, always-on AI health wearables."
+        }
+      ]
+    },
+    "gadgets/garmin-cirqa-band": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garmin officially launched the CIRQA smart band, entering the screen-free wearable market. This fitness band lasts ten days on a single charge, continuously tracking exercise and health. That's three days longer than Google's Fitbit Air, but still short of Whoop 5.0's 14 days."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/cirqa-smart-band.jpg",
+          "cap": "The Garmin CIRQA smart band"
+        },
+        {
+          "t": "p",
+          "x": "The device tracks 80 types of exercise, including walking, running, and yoga. A side button lets you pick frequently used activities, and the accumulated data is reviewed through the Garmin Connect app."
+        },
+        {
+          "t": "p",
+          "x": "Measurements span heart rate, Body Battery energy, Pulse Ox2, stress, and skin temperature. On top of that come real-time location sharing with family and friends, GPS that supports both Android and iPhone, and advanced metrics like VO2 Max and HRV status."
+        },
+        {
+          "t": "p",
+          "x": "A standout feature is tracking menstrual cycles and pregnancy through skin temperature measured during sleep. It provides period predictions and ovulation estimates, with data syncing to the FDA-cleared contraceptive app Natural Cycles."
+        },
+        {
+          "t": "p",
+          "x": "Garmin's AI features, Active Intelligence Insights and coaching, unlock with a Connect+ subscription tier. CIRQA started selling immediately, with no pre-order period. Colors include Black, French Gray, Captain Blue, Mauve, Citron Gray, Dark Olive, and French Blue. Both S-M and L-XL sizes cost $199.99, and no separate subscription is required."
+        }
+      ]
+    },
+    "gadgets/gemini-nano-4-fold8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Gemma 4 model Google released earlier this year served as the foundation for the next-generation on-device AI, 'Gemini Nano 4.' That Nano 4 has now officially appeared alongside the Galaxy Z Fold 8 Ultra, Z Fold 8, and Z Flip 8."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Galazy-Z-Fold-8-family-pink-colorway.jpg",
+          "cap": "The Galaxy Z Fold 8 lineup in pink"
+        },
+        {
+          "t": "p",
+          "x": "According to the Android Developers Blog, Samsung's new foldables carry Google's latest on-device model, Gemini Nano 4. Nano 4 supports more than 140 languages, and its multimodal understanding has improved further."
+        },
+        {
+          "t": "p",
+          "x": "Nano 4 also underpins the new Galaxy foldables' Gemini Intelligence features. Users can invoke Gemini Intelligence to automatically hand off real-world tasks like ordering food or booking tickets."
+        },
+        {
+          "t": "p",
+          "x": "The Gemini Notebook feature, renamed from NotebookLM, also runs on Gemini Intelligence. It turns files like images, notes, and PDFs into well-organized documents."
+        },
+        {
+          "t": "p",
+          "x": "Some features haven't arrived yet. 'Create My Widget,' which lets you design widgets directly through Gemini Intelligence, is planned, and Gboard's 'Rambler' dictation mode, which turns rambling thoughts into smooth notes, is also still on the way."
+        },
+        {
+          "t": "p",
+          "x": "The Galaxy Z Fold 8 Ultra, Z Fold 8, and Z Flip 8 are now taking pre-orders, with sales starting August 7."
+        }
+      ]
+    },
+    "gadgets/dji-osmo-pocket4p": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/dji-osmo-pocket-4p-review/l-intro-1785434430.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DJI's pocket gimbal camera now carries two lenses and positions itself as “Pro.”"
+        },
+        {
+          "t": "p",
+          "x": "It offers optical zoom, class-leading dynamic range, and AI subject tracking."
+        },
+        {
+          "t": "p",
+          "x": "It is a standalone AI camera that reshapes how solo creators, moving on their own, capture and follow a subject."
+        }
+      ]
+    },
+    "gadgets/gemini-robotics2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind unveiled Gemini Robotics 2, a model that adds intelligent whole-body control so a humanoid robot can move its arms, torso, and mobile base as one."
+        },
+        {
+          "t": "p",
+          "x": "As a result, the robot ties trash bags, twists out light bulbs, and carries out multistep household chores in sequence."
+        },
+        {
+          "t": "p",
+          "x": "It reads as a concrete step toward general-purpose embodied AI headed into the home."
+        }
+      ]
+    },
+    "gadgets/halliday-g2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Halliday-G2-with-Case.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Halliday G2 skips the camera. Instead, it relies on dual micro-LED displays and a “Meeting Flow” AI."
+        },
+        {
+          "t": "p",
+          "x": "This AI handles real-time translation, captions, information lookup, and post-meeting notes, all within a frame under 50g."
+        },
+        {
+          "t": "p",
+          "x": "It is a privacy-first approach showing that AI glasses can help without filming everyone nearby."
+        }
+      ]
+    },
+    "gadgets/m4-max-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7CNCn9fXJZV5ZAHnri4ZWE-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The test directly measured on-device LLM performance across Apple's M4 Max, Nvidia's GB10, and AMD's Strix Halo."
+        },
+        {
+          "t": "p",
+          "x": "The results show M4 Max ahead on decode throughput, though memory bandwidth alone didn't decide the outcome."
+        },
+        {
+          "t": "p",
+          "x": "It gives a concrete picture of which consumer hardware actually runs local AI well for creative and development work."
+        }
+      ]
+    },
+    "gadgets/openai-companion-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/bzVs-8bKuClS_OQgMN-mbh9HsqQ=/2500x/article-new/2026/05/OpenAI-Smartphone-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's hardware roadmap has come into focus. Its first product is a portable speaker made with former Apple design chief Jony Ive, acting as a screenless AI companion inside the home."
+        },
+        {
+          "t": "p",
+          "x": "The device includes a camera that understands its surroundings. A smartphone is reported to follow as early as next year."
+        },
+        {
+          "t": "p",
+          "x": "It is a design-led reinterpretation of what an AI-native home device should look like."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-glasses-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Intelligent-Eyewear-4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At Unpacked, Samsung previewed two Gemini-equipped smart glasses. They were made together with Google and eyewear brands Warby Parker and Gentle Monster."
+        },
+        {
+          "t": "p",
+          "x": "The screenless frames carry a camera. Gemini uses that eye to see and read the surroundings, delivering real-time translation, navigation, and notification summaries on the spot."
+        },
+        {
+          "t": "p",
+          "x": "The heavy computation is handed off to a paired Galaxy phone. The glasses become an always-on AI window next to the phone, clearly aimed at both creators and everyday users."
+        }
+      ]
+    },
+    "gadgets/friend-2-pendant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Friend2.0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Friend, the AI companion necklace that's always listening nearby, is back as Friend 2.0. It costs $249."
+        },
+        {
+          "t": "p",
+          "x": "This time it has a speaker. Unlike before, when it answered only through the app screen, the necklace now replies directly in voice."
+        },
+        {
+          "t": "p",
+          "x": "Memory comes with a condition. Holding on to conversations older than 30 days requires paying $10 a month. Friend 2.0 plainly reveals where wearable AI is headed."
+        }
+      ]
     }
   }
 }

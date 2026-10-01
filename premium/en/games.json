@@ -2797,6 +2797,426 @@
           "x": "It presents hand-crafted chaos as an edge that sets it apart from generative pipelines, a rebuttal told in the language of craft and design."
         }
       ]
+    },
+    "games/dear-passengers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dear Passengers is a co-op game where you and your friends fly a plane, look after passengers, and complete missions. You'll be wrestling with ragdoll physics, random events, and above all each other's clumsiness. Think of it as similar to Peak, just set on an airplane."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/07/two-airplane-pilots-having-a-barbeque-oin-the-wing-of-a-plne.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Wishlists piled up by the hundreds of thousands in a single day, and it spread like wildfire on social media. It was shaping up to be the next indie friend-slop to swallow a whole weekend, until a few people flagged some unflattering details."
+        },
+        {
+          "t": "p",
+          "x": "One character nameplate in the trailer reads Epst. J. An explanation surfaced claiming it's short for the Dutch European Pilot Selection & Training, but with a J tacked on, it reads as a reference to Jeffrey Epstein. There's also a character named PDaddy. On the official Discord, a post from one developer stating they don't condone Epstein's actions sits right alongside a message from the same person, in a meme channel, egging people on for more Epstein jokes."
+        },
+        {
+          "t": "p",
+          "x": "The generative AI allegations came from a job listing. A posting was found requiring candidates “adept at using generative AI for concept creation,” and after it came to light, the phrase disappeared from the developer's website. The same developer who addressed the Epstein jokes claimed no one on the team uses generative AI, and the Steam page carries no AI disclosure either. Since Steam doesn't require disclosure, there's no evidence to check either claim against."
+        }
+      ]
+    },
+    "games/joga-100": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Famitsu reported on a survey by the Japan Online Game Association (JOGA) and the Kadokawa ASCII Research Institute. The finding: 100% of Japanese developers making online games use generative AI in some form. There's a caveat that this is based on respondents, but the number itself leaves no wiggle room."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5BCLDn9uWa9YYLdeqYWPBL.png",
+          "cap": "(Image credit: Square Enix)"
+        },
+        {
+          "t": "p",
+          "x": "What's actually worth noting is the use case. Most studios named “user preference analysis” and “user behavior prediction” as their uses — not art, not music, not voice acting. There's plenty of grounds to object to AI adoption itself, but judging purely by the impact on creative labor, these use cases fall on the relatively harmless end. The PC Gamer writer concedes exactly that much, while adding the caveat that “most” isn't “all.”"
+        },
+        {
+          "t": "p",
+          "x": "Model share figures came out too: Google Gemini topped the list at 94%, followed by Claude at 84% and GitHub Copilot at 76%."
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean players are indifferent to AI. In the same survey, players raised concerns that “every game is starting to look alike.” The review-bombing backlash on English-language platforms isn't erupting out of a cultural vacuum. PC Gamer also noted the power consumption and noise problems of data centers."
+        }
+      ]
+    },
+    "games/mw4-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last year, Call of Duty was criticized because cosmetics, including calling-card art, looked obviously AI-made. With Modern Warfare 4 still months from launch, it is natural to wonder whether the same pattern will continue."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/05/MW4_CAM_013_BRANDED.jpg",
+          "cap": "Image via Activision"
+        },
+        {
+          "t": "p",
+          "x": "At a group presentation in New York, the question finally came up. Infinity Ward co-studio head Mark Grigsby made a show of treading carefully before answering. The short version: yes, they use them. “We use whatever tools we have to enhance and help our developers to complete [tasks] on time,” he said."
+        },
+        {
+          "t": "p",
+          "x": "It is not a new admission. MW4's Steam page already states that the development team uses generative AI tools for some in-game asset creation. That matches the stance Activision took last November when backlash followed the launch of Black Ops 7, which always comes with the line that the creative process is led by the studio's people."
+        },
+        {
+          "t": "p",
+          "x": "How these tools are actually used on the ground remains unclear. Destructoid wrote that they likely serve as a shortcut to cut development time, while whether they actually replace human jobs remains to be seen. Either way, its assessment is that Pandora's box is already open in everyday game development."
+        }
+      ]
+    },
+    "games/unity-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3hp-NNCNVPY"
+        },
+        {
+          "t": "p",
+          "x": "This is a short Unity 6 tip video posted by Unity. It shows a workflow for quickly setting up placeholder UI using Unity MCP and UI Toolkit."
+        },
+        {
+          "t": "p",
+          "x": "It starts by connecting the AI agent you already use to a Unity MCP server. Prompting it to create a main menu with three buttons on a translucent background makes it appear directly in the scene. Attaching a script to wire up the button logic then leaves a basic menu ready for the team to restyle later."
+        },
+        {
+          "t": "p",
+          "x": "A link to the UI Toolkit documentation is included in the description. Since it is a short-form video, that is as far as the original content goes."
+        }
+      ]
+    },
+    "games/houdini22": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49281/images/6a57ea98136c5/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "SideFX has released Houdini 22. The core of this version is native handling of Gaussian splats. The neural radiance field method, which captures an entire scene from multiple photos, now runs directly inside the tool without workarounds."
+        },
+        {
+          "t": "p",
+          "x": "The interface has also been rebuilt. The UI was reorganized, and Copernicus and KineFX were both refined. The rendering workflow was likewise tuned for game and VFX production."
+        },
+        {
+          "t": "p",
+          "x": "The weight falls on the capture tool. As AI-adjacent neural capture enters the core pipeline of game art, the very way technical artists capture and build up assets changes starting tomorrow."
+        }
+      ]
+    },
+    "games/dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GB4RKTAnxZ8BWDNa7sq4hB-1094-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has released two major sliders that let developers directly adjust DLSS 5's AI filter, and detailed how they work for the first time."
+        },
+        {
+          "t": "p",
+          "x": "This came after concerns that the neural renderer was stripping the hand-crafted feel from the final image. PC gamers went through each slider to see exactly how far it reaches."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia says it's building out more controls on the developer side. For tech artists worried about losing a say over the final frame, this is worth noting now."
+        }
+      ]
+    },
+    "games/meshy3dagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meshy unveiled the 3D Agent beta, a conversational AI that remembers context across steps. Game artists trade ideas with it and keep refining a bundle of assets matched to a single consistent style."
+        },
+        {
+          "t": "p",
+          "x": "The core shift is in posture. It has moved from being a tool that finishes in one prompt to a creative partner that thinks alongside the user."
+        },
+        {
+          "t": "p",
+          "x": "The assets it produces can be exported straight into Blender, Unreal Engine, and Unity pipelines, meaning they're ready for actual production the moment you get them."
+        }
+      ]
+    },
+    "games/unity7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a83331b1b9e4316/6a5e74aa0cab910337e94420/Unity7_General-announcement-asset_1920-1080.png?disable=upscale&width=1200&height=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Unity unveiled the Unity 7 roadmap at Unite Seoul. The core idea is simple: keep the Unity 6 structure as it is, and build on top of it without needing to rewrite builds."
+        },
+        {
+          "t": "p",
+          "x": "Added to this are AI-assisted graphics optimization and integration with Unity's Vector AI engine. Unity said it built this version “for a future where people and coding agents work together.”"
+        },
+        {
+          "t": "p",
+          "x": "At the same time, Unity made clear that studios choosing to leave AI out of their creative process won't be left behind. How teams design their future starts to shift right here in this roadmap."
+        }
+      ]
+    },
+    "games/ai-2d-to-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/a5vo5neoVPrfe24GB9HBgb-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Researchers unveiled a new AI technique that turns flat 2D designs and drawings into full 3D models. By lifting a single drawing into a three-dimensional shape, it sharply cuts the modeling work once done by hand, piece by piece."
+        },
+        {
+          "t": "p",
+          "x": "The change lands directly on game asset production. Moving concept art straight into game-ready geometry shortens the path from sketch to finished model considerably."
+        }
+      ]
+    },
+    "games/atelico": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/bobium-brawlers-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Studio Atelico has set the direction for generative AI in its game as ethical, low-power and on-device, processed on the device itself rather than leaning on servers. It's an attempt to solve the industry's current worries a different way."
+        },
+        {
+          "t": "p",
+          "x": "Its debut title, Bobium Brawlers, aims to be a work that “adds AI's potential to classic game design.” Above all, it highlights that every artist who took part was paid fairly, drawing a line against the AI trend of scraping creative work exploitatively."
+        }
+      ]
+    },
+    "games/kaneko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BYZMRqeh5vBYm4F9o39HHL-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Veteran artist Kazuma Kaneko, who has drawn Persona and Shin Megami Tensei, said he will not use generative AI in his next game. The decision follows backlash from fans over two earlier deck-builders made with AI's help."
+        },
+        {
+          "t": "p",
+          "x": "He said, “Drawing it myself is faster.” It's a case that sharply marks where hand-drawn work in game art still beats AI."
+        }
+      ]
+    },
+    "games/nvidia-siggraph": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/07/SIGGRAPH-2026-Keynote-21-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia showed off new neural rendering technology and its Cosmos 3 Edge world foundation model at SIGGRAPH 2026. The focus is letting creators handle real-time 4K content with more precision and widening their artistic control. The announcement also bundled in 22 graphics research results."
+        },
+        {
+          "t": "p",
+          "x": "Model Context Protocol (MCP) integration also expanded. AI agents now assist directly inside creative tools like Blender, Unreal Engine and Adobe Creative Cloud. Still, the call on what to make stays with people, keeping the principle that creative judgment belongs to humans."
+        }
+      ]
+    },
+    "games/damagecontrol": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49258/images/6a56472cd80a9/contain_1200x630.jpg",
+          "cap": "Damage Control hero image"
+        },
+        {
+          "t": "p",
+          "x": "Jesse Mietinen unveiled Damage Control, a toolkit for Blender. The project, which he once called a 「The Last of Us-like generator」, has now reached full release. It bundles interlocking generative tools to help make game environments more realistic and faster to build."
+        },
+        {
+          "t": "p",
+          "x": "It includes a smudge mask generator, a scatter tool and a generative tool, plus extra shaders and a mega preset. It handles smudging surfaces, scattering objects and procedural buildup all in one place."
+        },
+        {
+          "t": "p",
+          "x": "Everything is built with geometry nodes for performance, and made to stay compatible over time. Mietinen said he will support three years of updates."
+        },
+        {
+          "t": "p",
+          "x": "It is currently available on Gumroad (embracefx.gumroad.com/l/damagecontrol), with a Superhive listing planned later. Individual tools will be released separately after summer vacation ends. A YouTube tutorial series was also released to help users learn quickly. Mietinen now works under the name Embrace FX."
+        }
+      ]
+    },
+    "games/indiedevs25": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/guchegRMuZCiL2dR6U92QC-1920-80.jpg",
+          "cap": "Indie studios steering clear of generative AI"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI has been sold as an accelerator for indie development, the pitch being that it lets fewer people make more games faster. But the 25 indie studios one reporter spoke with gave a different answer."
+        },
+        {
+          "t": "p",
+          "x": "They say they mostly avoid AI. The reason is simple: it creates lesser games. On the ground, where polish and feel matter most, AI ends up being a hindrance instead."
+        },
+        {
+          "t": "p",
+          "x": "The article traces where AI actually fits and where it falls short, through the voices of 25 studios. Because it's field reporting rather than debate, it offers a sense of AI's real place in game design work."
+        }
+      ]
+    },
+    "games/metahumancrowds": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "wQoa1j4Rgss"
+        },
+        {
+          "t": "p",
+          "x": "This is a session video from Unreal Fest Chicago 2026. It covers how to fill scenes with large-scale MetaHuman crowds in Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "The core is Mass and Nanite. Mass efficiently handles the behavior and state of huge numbers of characters, while Nanite renders dense geometry without strain, filling the game world with digital humans."
+        },
+        {
+          "t": "p",
+          "x": "Above all, this is a primary source released directly by Unreal. It stands out as a reusable production pipeline, a technical session designers can apply as it is."
+        }
+      ]
+    },
+    "games/ai-game-music": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PC Gamer opened a discussion about the trend of using generative AI for game soundtracks. It asks whether game music still needs a 'human touch.'"
+        },
+        {
+          "t": "p",
+          "x": "As AI music tools become cheap and capable enough to score games, it looks at how the work of composers and audio designers might change."
+        },
+        {
+          "t": "p",
+          "x": "It also gathers players' views on where AI-made music starts to cross a line."
+        }
+      ]
+    },
+    "games/seed-ai-avatars": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The idea of AI-driven NPCs is appealing on its own. The writer imagined what it would be like if Skyrim's Lydia could talk endlessly about things besides shared inventory. A character whose conversation doesn't end just because the lines ran out is a tempting concept. The problem is that the AI seen so far doesn't work all that well. AI NPCs talk endlessly, but there's nothing worth listening to."
+        },
+        {
+          "t": "p",
+          "x": "What the writer picked up recently is Klang Games' MMO colony sim Seed. It just launched into early access after nearly a decade of development. In Seed, players create Sims-like avatars called “Seedlings,” share a world with other players' Seedlings, and talk to each other through Seed's AI. The first conversation was good. During character creation, the avatar's legs turned out unusually long and torso short, making it look like it was wearing high-waisted jeans, so the writer asked about it, and the character pulled out a small phone and answered by text."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EFpFCBHBFLRJXMzVXN2AR5.jpg",
+          "cap": "(Image credit: Klang)"
+        },
+        {
+          "t": "p",
+          "x": "“Hi!! I'm so glad to finally talk to you!” the Seedling said. When the writer typed, “Why are you so high-waisted,” the reply came back: “Everyone wears high-waisted these days! It's totally trendy… or… do you not like it?” Just being able to ask a character about leg length or where its jeans sit was fresh and fun in itself."
+        },
+        {
+          "t": "p",
+          "x": "But from there, it was mostly downhill. Here's how a conversation between two Seedlings went: “How old are you, really? Just curious!” “I'm eighteen!! It feels like such a weighty, beautiful number.” “Eighteen is so classic! Truly iconic.” Attaching this much meaning to the number eighteen doesn't make sense. What gives away the AI is filling space with this kind of unnecessary talk. Asking “how old are you?” in different ways instead of just once also comes across as trying too hard."
+        },
+        {
+          "t": "p",
+          "x": "Each Seedling's personality type, chosen during character creation, comes through fairly clearly in how it talks. Some are blunt, some are enthusiastic about everything, and some toss out subtly biting remarks. Getting a quick read on what type you're dealing with is a plus. Still, the conversation itself isn't interesting, and immersion fades the longer it runs. Words like “weighty,” “beautiful,” “iconic,” and “vibe” keep showing up in Seed. Like any AI chatbot, it sounds plausible at first but falls apart the moment you look closely — just filler talk."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2HJCTfQYir7WWJc8tMDQS5.jpg",
+          "cap": "(Image credit: Klang)"
+        },
+        {
+          "t": "p",
+          "x": "AI does have some practical use. Asking the tutorial robot how to play or where resources are usually gets a simple, clear answer. But it sometimes misunderstands the question or gives the wrong information. Seed's AI doesn't seem to make things up the way some chatbots do, though it's not always better than just checking a wiki — it's just faster. The moment the tutorial bot mispronounces a common word or stresses the wrong syllable, immersion breaks."
+        },
+        {
+          "t": "p",
+          "x": "The writer still isn't sure this kind of AI conversation is needed or wanted in a game. Is two avatars going on about how beautiful and weighty a number is better than The Sims, where a single speech bubble with a guitar icon instantly tells you two avatars are 'talking about music'? For now, limited but resonant lines or emoji speech bubbles beat unconvincing AI word slop."
+        }
+      ]
+    },
+    "games/games-ai-culture-war": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Game AI researcher Luke Dicken says some companies lit the fuse on a culture war. AI is useful, he says, but everyone has blown small incidents around ChatGPT wildly out of proportion."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/n5ePDh9VeKLrM8XNBwZ4YX-1920-80.jpg",
+          "cap": "Game AI veteran Luke Dicken"
+        },
+        {
+          "t": "p",
+          "x": "The real opportunity he sees isn't pushing people out. It lies in richer, more responsive play experiences, and smarter production tools."
+        },
+        {
+          "t": "p",
+          "x": "He notes that both the loudest generative AI boosterism and the backlash against it have skipped past the actual substance of the work. The piece takes a calm look at how machine learning is actually changing game design and balance."
+        }
+      ]
+    },
+    "games/nexusmods": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexus Mods, the largest PC game modding platform, is tightening the screws on its generative AI policy."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E6gJEJpnrzBogkrHDUVbpE-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Modders must now properly label AI-generated assets in what they upload. As a platform wrestling with AI “slop,” this is a step that meaningfully changes how the modding community works and labels its output."
+        },
+        {
+          "t": "p",
+          "x": "Still, some say it remains a soft response compared to the sheer scale of slop flooding in."
+        }
+      ]
+    },
+    "games/therelic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Over the preview build of the soulslike The Relic: First Guardian, creators sounded the alarm, pointing to elements suspected of being made with AI."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/The-Relic-First-Guardian-official-image-Perp-Games.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The director's answer was this: AI touched only the early concept stage, a handful of loading-screen concepts and consumable item icons. None of it, the director stressed, made it into the final game."
+        },
+        {
+          "t": "p",
+          "x": "It's a case that offers a glimpse of how far studios actually bring generative AI into their concept and design pipelines, and what shape the disclosure norms setting those boundaries are now taking."
+        }
+      ]
     }
   }
 }

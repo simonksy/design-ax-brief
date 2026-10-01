@@ -2613,6 +2613,471 @@
           "x": "Eldoraudio表示，只要用户拥有所上传音频的权利，转换后的文件就可以用于商业用途。"
         }
       ]
+    },
+    "music/aiode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Aiode-hero@2000x1500.jpg",
+          "cap": "Credit: BandLab Technologies/Aiode"
+        },
+        {
+          "t": "p",
+          "x": "打造了BandLab、Cakewalk、ReverbNation、Airbit的BandLab Technologies收购了Aiode。这是一家AI工作室，使用专业录音室乐手和制作人演奏的、经过全面授权的音频来制作歌曲。该平台成为继BandLab、Cakewalk之后的第三个制作平台。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以从空白项目开始，或导入自己的音频，再选择演奏者和风格模型在曲目上演奏。可以按段落指示演奏，仅重新生成某个部分的不同版本，而歌曲的其余部分保持不变。完成后的作品可下载为分轨或混音。"
+        },
+        {
+          "t": "p",
+          "x": "用于训练Aiode模型的音频，包括乐手的演奏，均获得了100%授权，并可追溯到来源。收购后，Aiode仍作为独立产品保留，现有用户的服务也不会中断。"
+        },
+        {
+          "t": "p",
+          "x": "2022年创立该公司的Idan Dobrecki和Blue Dobrecky将继续分别以CEO和COO的身份领导公司。原生音频录制和DAW功能扩展将留给下一个版本。"
+        }
+      ]
+    },
+    "music/spotify-chat": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/wmO3PYGZ-lF2gWf1A.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Spotify Premium用户现在可以通过与应用对话来选择想听的内容。该功能首先在美国、爱尔兰、瑞典的iOS和Android上线，面向18岁及以上用户，且仅支持英语。官方表示由于仍处于测试阶段，体验未必每次都顺畅，但会根据反馈不断改进。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify没有详细说明背后使用的技术。该公司向TechCrunch证实，会混合使用自家模型和多家供应商的模型，根据任务选择最合适的一个。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png",
+          "cap": "You can now talk to Spotify"
+        },
+        {
+          "t": "p",
+          "x": "对话范围已超出现有的AI DJ，用户可以在手机主页和播放界面通过打字或语音与之交流。可以询问歌曲的创作灵感或专辑发行日期，也可以根据当前正在听的音乐获得其他艺人的推荐。甚至可以查询自己的历史记录，比如某首歌第一次播放是什么时候。"
+        },
+        {
+          "t": "p",
+          "x": "说一句「播放一个我从没听过的艺人」之后，可以继续补充具体艺人名字，或缩小范围到最新歌曲。保存歌曲、加入播放队列、关注艺人也都可以在对话中完成。该功能正在相关地区的手机端逐步推广。"
+        }
+      ]
+    },
+    "music/suno-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LDxLT52xLaMhdvEGpwdLwM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "根据404 Media获取的黑客数据，Suno似乎从YouTube Music、Deezer、Genius以及多个素材音乐库中抓取了数百万首歌曲、歌词和播客内容。这些资料来自一名使用假名Ellie.191的黑客，他在2023年和2024年入侵了源代码。"
+        },
+        {
+          "t": "p",
+          "x": "其中一份文件写明，仅从YouTube Music就至少获取了2,013,545个音乐片段。另一份文件中的数据集清单显示：YouTube Music 113,879小时、素材库Pond5 62,117小时、Deezer 12,287小时、Genius 17,615小时。人声模型是用YouTube上的阿卡贝拉版本训练的，还留有通过PodcastIndex尝试下载约100万小时播客的痕迹。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bNuzMzALrFrK9PmFZNDTdk.png",
+          "cap": "(Image credit: Suno/Web)"
+        },
+        {
+          "t": "p",
+          "x": "Suno于2023年上线，付费订阅用户已超过200万，估值达54亿美元，融资超过4亿美元。2024年RIAA代表各大厂牌提起的版权诉讼仍在进行中。Suno的立场是，以训练为目的的复制属于合理使用，CEO Mikey Shulman写道：“learning is not infringing”。"
+        },
+        {
+          "t": "p",
+          "x": "2025年11月，Warner Music成为三大厂牌中第一家签署授权协议并撤诉的公司。今年2月，艺人团体发起了Say No To Suno活动并发布了公开信。"
+        }
+      ]
+    },
+    "music/eldoraudio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/07/Eldoraudio-Guitar-Audio-to-MIDI-Converter-T.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio的浏览器工具可将吉他录音转换为可编辑的MIDI。其特色在于针对乐器特性使用专属模型。"
+        },
+        {
+          "t": "p",
+          "x": "前30秒可免费试用，面向失真吉他的专属模型也在筹备中。"
+        },
+        {
+          "t": "p",
+          "x": "从弹奏乐句到整理成MIDI之间，原本需要的手动采谱工作被省去了。"
+        }
+      ]
+    },
+    "music/deezer-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/Deezer-AI.png"
+        },
+        {
+          "t": "p",
+          "x": "Deezer表示，完全由AI生成的音乐已超过其每日上传量的一半，6月平均每天约9万首。这是生成式AI工具首次在大型平台上超过人类上传量的案例。"
+        },
+        {
+          "t": "p",
+          "x": "Deezer同时在清理涉及刷流量操纵、或六个月内从未被播放过一次的AI歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "AI产出量超过人类的市场正在形成，发布音乐的艺术家如今必须在其中竞争。"
+        }
+      ]
+    },
+    "music/mcp-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/Gemini_Generated_Image_s6lbi7s6lbi7s6lb-scaled-e1784536005307.png"
+        },
+        {
+          "t": "p",
+          "x": "模型上下文协议(MCP)正成为AI时代的「USB接口」。音乐行业平台借此将自家目录和数据直接接入ChatGPT、Claude等AI助手，一次性调用多种工具的连接标准。"
+        },
+        {
+          "t": "p",
+          "x": "创作者和团队如今不必再逐一打开分散的工具，可以在同一处同时查询多个服务。"
+        },
+        {
+          "t": "p",
+          "x": "这释放出一个信号：AI音乐工作流不会各自成为孤岛，而是会彼此咬合运转。"
+        }
+      ]
+    },
+    "music/suno-imessage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/suno-brings-its-gen-ai-music-gunk-to-imessage/intro-1784212721.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suno推出了iMessage键盘扩展功能。iPhone用户不必离开信息应用，仅用文字或语音提示即可生成约30秒的AI歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "还新增了把两首歌融合为一首的「混搭(Mashup)」功能，只需选择任意两条音轨合并即可。"
+        },
+        {
+          "t": "p",
+          "x": "这相当于把用提示词生成歌曲的过程，直接搬进了每天收发的聊天窗口里。"
+        }
+      ]
+    },
+    "music/acestudio2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/ACE-Studio-2.0-interface-hero-credit-press@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio 2是一款以人声合成为核心的AI DAW。它配备140余种音色和36个AI虚拟乐器，还新增了“Add a Layer”叠加音轨、“Music Enhancer”润色曲目等生成式工具。"
+        },
+        {
+          "t": "p",
+          "x": "MusicTech的评价褒贬不一。下一代AI功能本身确实强大，但迟缓的渲染与粗糙的工作流程削弱了这份实力。工具走在了前面，而实际操作的手感却仍停留在过去。"
+        }
+      ]
+    },
+    "music/lydia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roland与Neutone共同推出的Project LYDIA，是处于原型阶段的AI效果踏板。它的不同之处在于：不是直接使用成品模型，而是让乐手亲自训练属于自己的AI模型，并在舞台上实时演奏。"
+        },
+        {
+          "t": "p",
+          "x": "核心是一种被称为“神经采样”的方式。它把一种声音的音色移植到另一种声音上，同时保留演奏者力度与细微表现的原汁原味。这相当于把生成式模型从录音室里解放出来、搬上舞台，演奏者操作技术的方式本身也随之改变。"
+        }
+      ]
+    },
+    "music/almudio-3d-panner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/3dpanner-728x364.jpg",
+          "cap": "Almudio 3D Panner"
+        },
+        {
+          "t": "p",
+          "x": "Almudio推出了3D Panner，这是一款面向macOS和Windows的免费抢先体验空间音频插件。开发者Almog将其作为BIMM University Manchester的毕业作品，历时七个月打造，并通过讲师和学生的测试不断打磨。"
+        },
+        {
+          "t": "p",
+          "x": "关于AI，开发者表示在编码过程的某些阶段使用了AI。但他强调，DSP架构、HRTF实现、UX和参数设计都是他本人历经数月打磨出的决定，并非草草拼凑而成。"
+        },
+        {
+          "t": "p",
+          "x": "该插件通过双耳/HRTF处理，将单声道或立体声音源置于聆听者周围的3D空间中。主要面向耳机混音、ASMR、声音设计、后期制作、游戏音频和VR。"
+        },
+        {
+          "t": "p",
+          "x": "功能也相当丰富。有可在头部周围拖动球体的XY面板，使用从20人身上测得的HRTF并可打开SADIE测量数据库的HRTF模式，以及直接左右放置的Hard Pan模式。频率可拆分为最多四个频段并分别加限幅器，还有螺旋、弹簧、X形、摆动、轨道、圆形、无限和随机共八种LFO运动方式，甚至可用Earth、Moon、Mars、Jupiter、Sun的重力来设定摆动速度。"
+        },
+        {
+          "t": "p",
+          "x": "安装容量约230 MB。需要一个通过邮箱验证的免费Almudio账户，许可证可在两台电脑上使用，且首次需要联网激活一次。支持VST3、AU和独立运行格式。macOS已完成Apple签名，Windows签名和AAX支持仍在进行中。"
+        },
+        {
+          "t": "p",
+          "x": "可在almudio.com/3d-panner免费获取。"
+        }
+      ]
+    },
+    "music/google-ai-mode-ytmusic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-ai-mode-now-integrates-with-canva-youtube-music-and-instacart/intro-1784219278.jpg",
+          "cap": "全新升级的Google AI模式功能"
+        },
+        {
+          "t": "p",
+          "x": "Google正在加快把AI融入整体数字体验的步伐。本周，AI模式搜索新增了与Canva、YouTube Music、Instacart的整合，并在美国逐步上线。"
+        },
+        {
+          "t": "p",
+          "x": "音乐方面的核心是YouTube Music功能。用户只需用自然语言提示请求生成歌单。告诉它想要的风格和氛围，Gemini就会连接YouTube Music，把推荐歌单直接显示在聊天界面中，并可直接在应用内播放。"
+        },
+        {
+          "t": "p",
+          "x": "Canva整合可在AI模式中生成设计模板。Google以派对传单为例，说明它会调取日历日程信息，提出符合情境的设计方案。"
+        },
+        {
+          "t": "p",
+          "x": "Instacart功能可以在应用内把食材和配料加入购物车。它会参考保存的烧烤等日历日程，为用户拟定购物清单。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示正在持续增加更多整合伙伴。调取已连接应用信息的Personal Intelligence功能，自今年早些时候推出后，在2026年持续扩大了范围。"
+        },
+        {
+          "t": "p",
+          "x": "AI模式近期还新增了用于获取真实评价的Reddit整合，以及重新设计的智能搜索框，可加入视频、图片、文件乃至Chrome标签页，以提出更复杂的问题。"
+        }
+      ]
+    },
+    "music/deezer-ai-flood": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年6月，在Deezer每日新增上传的歌曲中，完全由AI制作的歌曲首次占比超过一半，相当于每天约9万首。相比4月的7万5千首，这一数字再次大幅增长。"
+        },
+        {
+          "t": "p",
+          "x": "Deezer表示，在这些歌曲产生的播放量中，最多有85%是人为操纵的。平台正在过滤被用来刷播放量的AI歌曲，以及六个月内零播放的歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "这是一个具体的数字，展示生成式AI如何改变上传到流媒体平台的内容，以及听众接触音乐的方式。"
+        }
+      ]
+    },
+    "music/izotope-vea": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "iZotope将原价29美元的人声修正插件VEA免费开放。它把RX、Ozone、Nectar中的AI处理压缩进三个旋钮：Clean去除噪音，Shape调整音色，Boost增强存在感。"
+        },
+        {
+          "t": "p",
+          "x": "该产品面向希望在没有复杂界面的情况下获得RX级效果的播客主、主播和制作人，降低了进入机器学习音频工具的门槛。"
+        },
+        {
+          "t": "p",
+          "x": "免费期至2026年7月31日为止，恰逢Boris FX收购iZotope之际开放。"
+        }
+      ]
+    },
+    "music/bandlab-aiode": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BandLab Technologies收购了AI音乐工作室Aiode。Aiode是建立在专业录音乐手与制作人共同开发的完全授权音频转音频模型之上的工作室。"
+        },
+        {
+          "t": "p",
+          "x": "此次收购让Aiode成为继BandLab、Cakewalk之后,公司旗下第三个音乐制作平台。核心在于,将基于同意机制的生成式工具开放给更广泛的创作者群体。"
+        }
+      ]
+    },
+    "music/gema-plai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "德国版权组织GEMA正式推出面向AI开发者的音乐数据集兼授权体系PLAI。该数据集覆盖60多个曲风,约18万条录音。"
+        },
+        {
+          "t": "p",
+          "x": "这套基础设施并非依赖未经授权抓取训练的模型,而是旨在支撑合法、基于同意的AI音乐生成工具。"
+        }
+      ]
+    },
+    "music/tonefield-grid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "开发者兼音乐人Matt Goodluck推出了新软件乐器Tonefield。"
+        },
+        {
+          "t": "p",
+          "x": "Goodluck表示,灵感来自如今已无法获取的旧应用Tonepad Pro。他说:“我把这个理念从头重做,并扩展为一款现代乐器,以Tonefield的形式推出。”"
+        },
+        {
+          "t": "p",
+          "x": "Tonefield保留了让Tonepad令人上瘾的极简模式化工作方式,同时新增可选音阶与调式、让模式演变的概率功能、现场演奏录音、MIDI导出、音频导出以及模式管理等功能。"
+        },
+        {
+          "t": "p",
+          "x": "在网格上点出音符并按下播放,音乐便随之展开。使用概率控制后,每次循环模式都会有所不同。"
+        },
+        {
+          "t": "p",
+          "x": "功能方面包括具备精细衰减的纯正弦波合成原版Tonefield Classic音源引擎、琥珀色点阵界面的16×16步进音序器、按列设置的概率、包含7种调式与五声音阶变体的13种音阶、全部12个调、BPM 40–180、力度与门控控制、带有时间、反馈、滤波与混合的延迟效果,以及8个可命名的模式保存槽位。"
+        },
+        {
+          "t": "p",
+          "x": "现场演奏以WAV格式录制,实时捕捉由概率驱动的变化,模式可以MIDI形式导出到包括Logic Pro、GarageBand在内的任何DAW。音频可保存为WAV或MP3,模式播放期间还会向DAW发送实时MIDI。此外还提供翻转、旋转、位移、随机化等变形工具。"
+        },
+        {
+          "t": "p",
+          "x": "Tonefield目前售价14.99美元。"
+        }
+      ]
+    },
+    "music/sonyudio2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "索尼音乐再次起诉了音乐AI公司Udio。此前扩大原诉讼范围的尝试受阻后，索尼直接另案提起新诉讼。此次新增逾3万首录音，若索尼胜诉，法定赔偿金额可能超过45亿美元。"
+        },
+        {
+          "t": "p",
+          "x": "Alvin K Hellerstein法官认为，现在扩大诉状会让Udio遭受“实质性不利”。不过他补充说，索尼可以就其主张受到侵权的所有录音行使权利，但没有要求必须在本案中一并提出。索尼将这句话解读为可以另案起诉。"
+        },
+        {
+          "t": "p",
+          "x": "两年前，索尼与环球音乐、华纳音乐一起起诉了Udio。这两家公司此后达成和解并签署了授权协议。首起诉讼仅涉及333首录音，其余逾3万首此次才被提出。"
+        },
+        {
+          "t": "p",
+          "x": "新诉状的主张分为三方面。Udio通过“非法‘流媒体抓取’”从YouTube上获取录音。AI批量生产的音乐稀释了市场，压低了人类创作音乐的价值。合理使用也不成立。最后，索尼写道，Udio产出的是机器模仿的音乐，而非人类的创作。"
+        },
+        {
+          "t": "p",
+          "x": "索尼把环球和华纳的授权协议本身当作筹码。其逻辑是：AI音乐授权市场已经在运转，这等于Udio自己也承认需要获得许可。"
+        }
+      ]
+    },
+    "music/flow-music-spaces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google扩展了Flow Music平台，为“氛围编程”工具Spaces加入了作曲、编辑与分轨功能。"
+        },
+        {
+          "t": "p",
+          "x": "现在音乐人可以在同一个工作区内完成作曲、替换特定乐段、分离人声、延长曲目，并一并生成专辑封面、歌词与视频。"
+        },
+        {
+          "t": "p",
+          "x": "这一切功能都运行在Lyria 3 Pro之上，并叠加了Gemini、Veo与Nano Banana。"
+        }
+      ]
+    },
+    "music/stem-separation-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicTech测试了九款具代表性的AI分离工具，结果显示性能因曲目与乐器而差异很大。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2025/07/Stem-Separation-guide-update-hero-credit-press@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro在快速、日常的分离上领先，MVSEP则在棘手人声与最难分离的部分上略胜一筹。"
+        },
+        {
+          "t": "p",
+          "x": "截至2026年，这相当于一张实用地图，指出神经网络音源分离究竟在哪些方面真正帮到了制作人。"
+        }
+      ]
+    },
+    "music/karst": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Team Exile预先展示了Karst。这是一款通过系统与算法作曲来制作音乐的数字模块化环境。"
+        },
+        {
+          "t": "p",
+          "x": "它配备节点编辑器，支持无线缆连接，并可云端同步。每个乐器都内置事件核心。"
+        },
+        {
+          "t": "p",
+          "x": "借助事件核心，无需与事件调度或复音纠缠，就能直接手动编写生成算法。"
+        }
+      ]
+    },
+    "music/silt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tunery Instruments推出了「生成式磁带循环乐器」Silt。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/silt-728x615.jpg"
+        },
+        {
+          "t": "p",
+          "x": "四段长度不同的短旋律循环，经过模拟磁带机，缓慢地产生相位错位。"
+        },
+        {
+          "t": "p",
+          "x": "由此形成不断变化的氛围音型，专为追求复古温暖质感的制作人打造。"
+        }
+      ]
+    },
+    "music/vochlea-dubbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vochlea推出的新应用Dubbox通过机器学习,将节奏口技实时转化为基于样本的鼓点循环。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/U3ZMS6JnHPWtMEZuABsvTG.jpg"
+        },
+        {
+          "t": "p",
+          "x": "该应用最多学习用户八种声音敲击方式,随后根据力度触发相应的鼓样本。"
+        },
+        {
+          "t": "p",
+          "x": "「人声变形」功能可将演奏片段对齐节拍网格并拉伸,同时保留原始演奏的感觉。"
+        }
+      ]
     }
   }
 }

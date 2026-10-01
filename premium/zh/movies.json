@@ -2742,6 +2742,395 @@
           "x": "Martini最初以面向独立影人的免费方案推出，可使用公开项目和所有AI模型，付费方案每月15美元起。部分生成式AI模型需要单独使用点数。详细的资费结构见平台官网。"
         }
       ]
+    },
+    "movies/automask": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8vynHJ0zimA"
+        },
+        {
+          "t": "p",
+          "x": "Resolve的Magic Mask催生了FCP更快的Magnetic Mask，并最终促成了Premiere的Object Mask。Auto Mask至少目前只存在于Final Cut Pro中，而且效果出乎意料地好。"
+        },
+        {
+          "t": "p",
+          "x": "这不是追踪。很多情况下，它比追踪给出的答案更好。它不是在整个镜头中追踪对象，而是在每一帧实时识别人物、人物的某个部位、画面的某个部分，甚至是宠物。它对遮挡的适应性很强，适用于选择性调色等多种操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-first.png",
+          "cap": "In the header of an effect, you choose Auto Mask from the new “person” icon"
+        },
+        {
+          "t": "p",
+          "x": "开始的方式有两种。若要处理片段的可见性，可以直接把Masks and Keying里的Auto Mask效果加到片段上；若要将某个效果或调色绑定到特定区域，则按效果标题栏里的Auto Mask按钮。可选的遮罩多达17种：人物、皮肤、头发、嘴唇、牙齿、眉毛、衣服、天空、植被、前景与背景，以及狗和猫。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/auto-mask-all-17.png",
+          "cap": "It’s not easy to find or make an image with all 17 masks, but if you can assemble some pets, a person with hair and a beard with their eyes and mouth open, near some plants and in front of some sky, you’ll get there"
+        },
+        {
+          "t": "p",
+          "x": "每个遮罩都可以相加、相减或取交集，比如只挑出处于前景中、但不是猫的动物。可以用Shrink/Expand、Erode、Blur来细化，绑定到调色上后，还能用Inside/Outside开关在遮罩两侧切换。偶尔也会出现某一帧形状没抓准、导致对象闪烁的情况。侧面的嘴唇有时会被漏掉，戴着头戴式耳机的被摄对象，头部与耳机之间的缝隙也会时隐时现。尽管如此，在大多数镜头中它依然可靠且快速。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/twins.jpg",
+          "cap": "Color changes often work well — can you spot which is the original?"
+        },
+        {
+          "t": "p",
+          "x": "最常见但也最实用的用法，是给人物的某个部位单独调色。如果口红的颜色在画面上不理想，就给Color Wheels加上Lips遮罩。降低饱和度并调整曝光可以让牙齿变白，眉毛也能加深或提亮。笔者在修图师时期学到过一条法则：修图就像说谎，越接近真实就越不容易被察觉。小的改动往往比大的改动效果更好。"
+        },
+        {
+          "t": "p",
+          "x": "遮住粗口片段的嘴部也很简单。用刀片工具切出该区间，加上Pixellate，再接上Mouth遮罩即可。声音方面可以用Test Oscillator加入蜂鸣声。还可以给不同部位叠加不同的调色，一点点把黑白画面的颜色找回来。天空可以用Sky遮罩调得更深更浓，但真正替换天空仍需要直接叠加一张新的天空素材。"
+        }
+      ]
+    },
+    "movies/daletflex": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "面向媒体机构的技术与服务供应商Dalet发布了Dalet Flex的新长期支持（LTS）版本。该版本在媒体生命周期的每个阶段——从内容获取、增强到编辑、打包和发布——都引入了智能自动化。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Image-3-Dalet-Flex-Dark.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "如今的媒体机构需要用更少的人员运行更复杂的流程，向更多平台输出更多内容。此次发布通过工作流自动化拓展AI媒体智能，并加深与Dalet的媒体感知型智能体AI平台Dalia的整合，以此应对这种压力。产品负责人Erwan Kerfourn将Dalet Flex称为“the operational backbone for modern media organizations”，并表示此次发布的意义在于把Dalia真正嵌入日常媒体运营之中。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新首先从安全与摄取环节入手。OpenID Connect认证带来了现代化的身份管理，Ingest Portal新增的基于角色的权限让管理员在排期和录制运营上获得更多控制权。重新设计的Ingest Portal让排期更简洁，并可一览多个时区。还加入了面向Dalet Brio的FIFO排期以及Flex编码器对DNxHD的支持。直播摄取可以跨地区、跨时区扩展，而不会增加人员或运营风险。"
+        },
+        {
+          "t": "p",
+          "x": "AI方面的扩展力度很大。视觉模型直接嵌入Dalet Flex的基础架构中，在媒体所在的位置就地处理内容。资产进入制作流程的那一刻，平台就会生成描述性元数据、识别物体、解读情感语境，并完成内容审核分析。无需把媒体转移到外部AI服务。结果会直接呈现在基于时间线的元数据和资产视图中。人工记录工作减少，检索也变得更容易。"
+        },
+        {
+          "t": "p",
+          "x": "Dalet Cut新增了用于竖版视频的背景虚化自动化，以及用于遮挡身份和敏感信息的主体追踪虚化。文字定位有所改进，亮度、饱和度等校正控件也有所增加。发布准备同样更加简洁：工作流向导让打包变得简单，Stream Processing新增的字幕烧录功能把无障碍和合规工作直接纳入自动发布流程。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布让Dalia成为整个媒体供应链的放大器。Flex环境中的任何工作流，都可以仅通过配置、无需额外开发就暴露给Dalia。无需掌握特殊的界面知识，用自然语言即可下达复杂任务。Dalia会自动发现系统中已有的工作流，团队则通过Workflow Designer选择要公开哪些工作流。一旦工作流被公开，Dalia就能理解其结构，并反过来询问运行所需的变量。复杂的运营流程由此简化为一段遵循引导的对话。"
+        }
+      ]
+    },
+    "movies/griptape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry为其AI工作流编排平台Griptape新增了企业级版本。该版本针对高规格媒体制作环境，于2026年7月16日发布。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/11-624x416.jpg",
+          "cap": "Griptape Enterprise"
+        },
+        {
+          "t": "p",
+          "x": "企业版增加了由工作室掌控的授权机制和更完善的项目管理工具。由于管线主管可以直接指定艺术家使用哪种AI模型，工作流能始终保持经过验证、合规并可随时投入制作的状态。"
+        },
+        {
+          "t": "p",
+          "x": "Griptape Enterprise可在本地或私有云环境中运行，从而减少对敏感知识产权安全的担忧。该版本将控制权和隐私作为核心功能来强调。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/05_Permission_Manager_Studio_Wide_or_Project_based-.png",
+          "cap": "用于管理模型访问权限的权限管理器界面"
+        },
+        {
+          "t": "p",
+          "x": "Griptape联合创始人、前CEO Kyle Rosi在Foundry于2026年2月收购该平台后，以首席AI官的身份加入。Rosi表示：“三十多年来，Foundry一直是视觉特效与动画工作室值得信赖的技术合作伙伴。”"
+        },
+        {
+          "t": "p",
+          "x": "该平台基于Python架构，编排多种AI模型与智能体，覆盖从图像生成到元数据管理的全过程。它处理与Nuke兼容的图像序列，并使用OpenColorIO管理色彩流程。技术指导可在Griptape中搭建工作流，并以带版本号的Nuke Gizmo形式发布。"
+        },
+        {
+          "t": "p",
+          "x": "图像与视频生成环节并非固定不变，可以重新排列和调整，Flux、Stable Diffusion XL、LTX、Wan等模型在工作室本地GPU上运行。Griptape Enterprise可立即投入使用。"
+        }
+      ]
+    },
+    "movies/gutierrez": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Jorge_Gutierrez2025.jpg",
+          "cap": "Jorge R. Gutierrez"
+        },
+        {
+          "t": "p",
+          "x": "本周在接受Variety采访时，动画导演Jorge R. Gutiérrez（代表作The Book of Life、Maya and the Three）透露了反AI情绪究竟发展到了何种程度。此事发生在Amazon MGM/AWS宣布将他的剧集Punky Duck列为新设GenAI Creators' Fund绿灯项目之一后不久。发布消息36小时后，Gutiérrez亲手撤下了自己的作品。"
+        },
+        {
+          "t": "p",
+          "x": "他的社交媒体动态留下了这样的记录。周三，项目公开。周四，他写道自己正在关注反应并重新考虑，称自己「learning a lot from many of you」。周五，他正式宣布退出。他写道，自己最初的本意是让工作室内外的新人与资深艺术家都获得关注，并向受到伤害的人真诚道歉，表示今后会做得更好。"
+        },
+        {
+          "t": "p",
+          "x": "据Gutiérrez向Variety描述，发布消息后他的家庭住址很快就被曝光，随后针对他本人及妻子的死亡威胁接连而来。他的妻子Sandra Equihua同样是动画师和艺术家，两人曾共同创作Nickelodeon剧集El Tigre: The Adventures of Manny Rivera。他的本意是让人类创作者牢牢立足于GenAI动画领域，保证艺术家拥有「a seat at the table」，并让作品由艺术家主导。但反对GenAI的艺术家和粉丝的反应来得又快又猛。"
+        },
+        {
+          "t": "p",
+          "x": "「What I quickly learned is this is a black-and-white issue. You're pro or you're anti — there's no in between right now.」他对Variety这样说。「The road to hell is paved with good intentions. My intentions were good, but I was taking my family to hell by doing this.」Amazon则表示让他为家人选择最好的路，就此顺势放他离开。"
+        },
+        {
+          "t": "p",
+          "x": "Gutiérrez是一位获得过艾美奖和Annie Award的墨西哥动画师兼导演，以El Tigre、长片处女作The Book of Life以及Netflix事件剧集Maya and the Three为人所知。接下来等待他的是I, Chihuahua与La Venganza Rodríguez、Warner Bros. Pictures Animation出品的Speedy Gonzalez电影、El Guapo vs. the Narco Vampires，以及3Doubles的洛夫克拉夫特风选集Ages of Madness。"
+        },
+        {
+          "t": "p",
+          "x": "他所经历的，只是整个社会围绕GenAI的伦理与价值展开角力的一个缩影。AI前期制作平台Filmustage分析的Google数据显示，娱乐领域中反对AI浪潮的搜索正在上升。「stop AI in film」同比上涨+37,157%，「ban AI movies」上涨+9,857%，「movies with no AI」上涨+3,387%。"
+        },
+        {
+          "t": "p",
+          "x": "动画行业内部的争论同样激烈。工作室和独立创作者在探索制作与设计生成的可能性的同时，人类艺术家也在担心，本就艰难的行业会迎来新的威胁。大型工作室一边与GenAI工具开发商合作，一边起诉未经许可使用其IP的企业；电影节和影院放映AI作品后也曾遭遇反弹。还有工作室完全建立在AI流程之上。GenAI究竟是解放动画的入口，还是像CGI、色彩、声音一样只是下一步演进，又或者是扑向创作的灾难——这取决于你问的是谁。"
+        }
+      ]
+    },
+    "movies/project-indigo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe在计算摄影应用「Project Indigo」中加入了实验功能「AI Playground」。拍摄完成后，可立即对照片应用生成式编辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/ai%20playground%20main.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这不仅是简单的风格迁移，更是将设备端生成式图像处理向前推进了一步的尝试。"
+        }
+      ]
+    },
+    "movies/spark-story": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lightcraft开放了Spark Story的阶梯式公测。这是一款交互式预览可视化工具，电影制作者可以在其中进行场面分镜、填充素材库，并实时渲染高清「超级样片（superdailies）」。"
+        },
+        {
+          "t": "p",
+          "x": "它可以与AI抠像及蓝绿幕抠像衔接使用，重点在于缩短预览阶段并降低前期制作成本。公测现已开放申请。"
+        }
+      ]
+    },
+    "movies/animaj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Ozzy-Fox.jpg"
+        },
+        {
+          "t": "p",
+          "x": "迪士尼Jr与法国AI动画公司Animaj悄悄在YouTube上线了新学前系列《Ozzy Fox》。这是一个展示AI驱动工作室能多快产出儿童内容的案例。"
+        },
+        {
+          "t": "p",
+          "x": "反应很快。上线两天播放量就逼近80万。大型电视台真正播出了AI制作的系列剧，这也让人得以衡量AI动画工作室如何规模化产出内容。"
+        }
+      ]
+    },
+    "movies/autodesk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk在SIGGRAPH 2026上发布了覆盖Maya、3ds Max、Arnold的AI功能。这次更新的重点是让动画与VFX工作流更顺畅地衔接起来。"
+        },
+        {
+          "t": "p",
+          "x": "核心共有四项。Motion Maker新增了可用自有数据训练的定制运动模型“Bring Your Own Data”；3ds Max现在可以直接编辑3D高斯点云（Gaussian splat）；此外还加入了Flow Production Tracking的集成审阅，以及Arnold的交互式视口渲染。"
+        },
+        {
+          "t": "p",
+          "x": "可编辑的点云与定制运动模型，正是直接改变VFX与动画艺术家日常流程的部分。"
+        }
+      ]
+    },
+    "movies/hpzcaptis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/HP-and-Adobe-Digital-Twin-MAIN-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HP与Adobe把全新改良的HP Z Captis与Adobe Substance 3D结合在一起。捕捉速度更快，成像控制更精细，帧率与分辨率的选项也增多了。"
+        },
+        {
+          "t": "p",
+          "x": "目标是大规模产出照片级真实感的数字孪生。扫描得到的真实资产直接流入VFX与虚拟制作流程，可在资产制作现场即刻使用。"
+        }
+      ]
+    },
+    "movies/nightborne": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "尼尔·布洛姆坎普执导的僵尸短片《Nightborne》是为AI创业公司Bali Studio制作的。它采用了字节跳动的生成式视频模型Seedance，由有名气的导演出马，使其成为检验AI电影制作水平的一次试炼。"
+        },
+        {
+          "t": "p",
+          "x": "结果很冷静。这部短片最终成为了文生视频生成器仍无法稳定产出一部能看的电影的证据。因为是有导演参与的实战测试，它坦率地显示出当下AI电影工具究竟在哪里崩溃。"
+        }
+      ]
+    },
+    "movies/substance3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.webp?id=67521076&width=1200&height=600"
+        },
+        {
+          "t": "p",
+          "x": "Adobe对Substance 3D进行了大幅改进。本次更新的核心是扩大对OpenPBR材质的支持。与此同时，Substance 3D Painter也新增了功能。"
+        },
+        {
+          "t": "p",
+          "x": "在整个生态系统中采纳OpenPBR，意味着材质格式归于统一。这也让VFX与虚拟制作艺术家在制作实景电影资产时所依赖的贴图与质感开发工具变得更加紧密。"
+        }
+      ]
+    },
+    "movies/grokodyssey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "埃隆·马斯克表示，xAI的Grok Imagine将在今年年底前把荷马的《奥德赛》改编成一部长片电影。他将其称为「历史准确」的改编，并把这种以文本生成视频的方式，与克里斯托弗·诺兰的院线电影相对照。"
+        },
+        {
+          "t": "p",
+          "x": "不过，目前公布的样片在画质上问题明显。因此，这一说法更像是一场测试，用来衡量AI到底能把一部长片做到什么程度。"
+        }
+      ]
+    },
+    "movies/servicemake": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这是一则案例研究。广告代理商Serviceplan Make用Luma的生成式视频来呈现创意概念，把原本要花数天的棚内拍摄，缩短成一天内就能交给客户的成片镜头。"
+        },
+        {
+          "t": "p",
+          "x": "工作的重心发生了转移。原本花在执行和后期制作上的时间，转向了打磨创意概念、快速来回客户反馈。"
+        }
+      ]
+    },
+    "movies/beeble-switchlight-hybrid-set": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "戴米安·艾伦探讨了一种融合AI的混合拍摄方式。其基础是Beeble的SwitchLight。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Astronaut-1008x800.jpg",
+          "cap": "经AI重新布光重构的拍摄画面"
+        },
+        {
+          "t": "p",
+          "x": "更换背景与重新布光的工作交给AI完成，而演员的实际表演与运镜则保持不变。这是传统制作与完全合成生成之间的中间地带。"
+        },
+        {
+          "t": "p",
+          "x": "文章以亲自上手操作的视角，拆解了AI重新布光如何重塑现场与后期制作的工作流程。"
+        }
+      ]
+    },
+    "movies/puget-robo-dojo-siggraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Puget Systems在SIGGRAPH 2026上展示的“Robo Dojo”，能将观众实时变为MetaHuman化身，与AI机器人对决。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/puget%20studios%20robo%20dojo.jpg",
+          "cap": "SIGGRAPH 2026上Puget Studios的Robo Dojo"
+        },
+        {
+          "t": "p",
+          "x": "它采用LiDAR扫描与LED环幕虚拟制作。这是一场现场演示，无标记动作捕捉与实时渲染直接流入游戏引擎的制作管线。"
+        },
+        {
+          "t": "p",
+          "x": "这是一个触手可及的场景，展示了表演捕捉与虚拟制作在电影领域将走向何处。"
+        }
+      ]
+    },
+    "movies/vida-scene-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/07/Vida-Scene-Search-624x416.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vida发布了在Content OS中运行的离线AI索引工具Scene Search。它让编辑和后期团队能用自然语言按场景检索素材库。"
+        },
+        {
+          "t": "p",
+          "x": "核心在于不再需要人工逐一标注元数据。过去要重新找到某个场景，得靠人工记录素材，如今这一步骤消失了。"
+        },
+        {
+          "t": "p",
+          "x": "这从实务层面改变了影视后期查找和重用素材的方式。检索不再停留在素材片段，而是下沉到场景级别，可以直接找到想要的那一刻。"
+        }
+      ]
+    },
+    "movies/frame-io-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/frame.io%20june%20and%20july.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe旗下的Frame.io全新推出了专属全屏搜索页面，并支持在常规搜索与AI搜索之间切换，让用户更快找到想要的素材。"
+        },
+        {
+          "t": "p",
+          "x": "比对查看器也同步升级。编辑和后期团队跨项目查找、审阅素材的流程变得更加顺畅。"
+        },
+        {
+          "t": "p",
+          "x": "这正是影视审核与批准团队浏览素材方式在实务层面发生改变的地方，是一项可以立即上手的具体工作流变化。"
+        }
+      ]
+    },
+    "movies/luma-layers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/80d1b0c6b46f2a066a23085c49320a532f9959e7-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "Luma AI在自家电影制作工具中新增了Layers。该功能可以按元素操作AI生成的图像，实现精细编辑。"
+        },
+        {
+          "t": "p",
+          "x": "过去如果结果不满意，就得把提示词整段重新生成。Layers摆脱了这种方式，可以在画面中逐个挑选单独元素进行修改。"
+        },
+        {
+          "t": "p",
+          "x": "这把生成式创作从依赖提示词运气的阶段拉了出来，转为可监督、可反复修改的受控工作。这正是电影人与预览可视化艺术家期待已久的精细掌控。"
+        }
+      ]
     }
   }
 }
