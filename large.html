@@ -62,8 +62,10 @@
 <!-- Same generated data as the small-card page; only the design (app) differs.
      Cache-busted per load so a fresh publish always shows the latest. -->
 <script>(function () {
-  var v = Date.now();
-  document.write('<scr' + 'ipt src="axbrief-data.js?v=' + v + '"><\/scr' + 'ipt>');
+  var v = Date.now(), L = window.AX_LANG || 'ko';
+  document.write('<scr' + 'ipt src="i18n/' + L + '.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt src="i18n.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt src="axbrief-data.' + L + '.js?v=' + v + '"><\/scr' + 'ipt>');
   document.write('<scr' + 'ipt type="text/babel" src="axbrief-app-large.jsx?v=' + v + '"><\/scr' + 'ipt>');
 })();</script>
 

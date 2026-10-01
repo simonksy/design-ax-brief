@@ -9,6 +9,10 @@
    ============================================================ */
 const { useState, useRef, useEffect, useCallback } = React;
 
+/* i18n — `t` is the theme object throughout this file, so UI strings go through
+   tx() → window.t() (i18n.js). Dictionary: i18n/ko.json. */
+const tx = (key, vars) => window.t(key, vars);
+
 /* ---- one-time CSS (keyframes + layout helpers) ---- */
 if (!document.getElementById('ax-styles')) {
   const s = document.createElement('style');
@@ -346,16 +350,16 @@ function axMotifFor(tool) {
 }
 function axBodyFor(tool) {
   const s = String(tool);
-  if (/Figma/.test(s)) return '스크린샷·프롬프트가 곧 수정 가능한 디자인이 됩니다.';
-  if (/KeyShot|CMF|렌더/.test(s)) return '고화질 렌더를 기다릴 필요 없이, 그 자리에서 바로.';
-  if (/CAD/.test(s)) return '글로 설명하면 3D 형상과 도면이 따라옵니다.';
-  if (/Token|일관성/.test(s)) return '규칙을 한 곳에 모으면 점검은 AI가 대신합니다.';
-  if (/VR|몰입/.test(s)) return '실물 목업 없이 가상으로 보고 결정합니다.';
-  if (/핸드오프|코드/.test(s)) return '디자인과 코드가 자동으로 이어집니다.';
-  if (/리서치/.test(s)) return 'AI가 유저리서치를 합성하고 인사이트를 정리합니다.';
-  if (/원칙|DesignAX/.test(s)) return 'AI와 사람의 협업, 그 원칙을 다시 세웁니다.';
-  if (/UX Pilot/.test(s)) return '프롬프트 한 줄로 UI와 코드 초안이 나옵니다.';
-  return 'AI가 디자인 워크플로우를 빠르게 바꾸고 있습니다.';
+  if (/Figma/.test(s)) return tx('demo.body_figma');
+  if (/KeyShot|CMF|렌더/.test(s)) return tx('demo.body_render');
+  if (/CAD/.test(s)) return tx('demo.body_cad');
+  if (/Token|일관성/.test(s)) return tx('demo.body_token');
+  if (/VR|몰입/.test(s)) return tx('demo.body_vr');
+  if (/핸드오프|코드/.test(s)) return tx('demo.body_handoff');
+  if (/리서치/.test(s)) return tx('demo.body_research');
+  if (/원칙|DesignAX/.test(s)) return tx('demo.body_principle');
+  if (/UX Pilot/.test(s)) return tx('demo.body_uxpilot');
+  return tx('demo.body_default');
 }
 function axEnrich(item) {
   return {
@@ -437,7 +441,7 @@ function StackCard({ item, index, total, t, dimRef }) {
   const num = String(index + 1).padStart(2, '0');
   const tot = String(total).padStart(2, '0');
   return (
-    <section ref={ref} className="fcard" data-screen-label={'카드 ' + num}>
+    <section ref={ref} className="fcard" data-screen-label={tx('nav.card', { n: num })}>
       <div className="fcard-inner">
         <CardScene it={it} active={inView} />
         <CardOverlay it={it} num={num} tot={tot} t={t} />
@@ -524,7 +528,7 @@ function CardModal({ card, t, onClose }) {
       WebkitBackdropFilter: 'blur(8px)', backdropFilter: 'blur(8px)' }}>
       <div className="ax-modalin" onClick={(e) => e.stopPropagation()} style={{ position: 'relative',
         width: 'min(960px,100%)', height: 'min(86vh,680px)' }}>
-        <button aria-label="닫기" onClick={onClose} style={{ position: 'absolute', top: 12, right: 12, zIndex: 5,
+        <button aria-label={tx('common.close')} onClick={onClose} style={{ position: 'absolute', top: 12, right: 12, zIndex: 5,
           width: 38, height: 38, borderRadius: '50%', display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
           background: 'rgba(255,255,255,.78)', border: '1px solid rgba(40,30,20,.16)', color: t.hl, cursor: 'pointer',
           WebkitBackdropFilter: 'blur(8px)', backdropFilter: 'blur(8px)' }}>
@@ -565,13 +569,12 @@ function GalleryTile({ card, t, onClick }) {
 
 /* ---- GalleryColHeader: the day label atop each column ---- */
 function GalleryColHeader({ day, isLast, t }) {
-  const d = new Date(day.date);
-  const dow = ['일', '월', '화', '수', '목', '금', '토'][d.getDay()];
-  const md = `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`;
+  const dow = axDate(day.date, 'weekday');
+  const md = axDate(day.date, 'md');
   return (
     <div className="ax-colhead">
       <span className="ax-hl" style={{ fontSize: 15, color: t.hl }}>{md}</span>
-      <span className="ax-eyebrow" style={{ fontSize: 9, color: t.faint }}>{dow}{isLast ? ' · 어제' : ''}</span>
+      <span className="ax-eyebrow" style={{ fontSize: 9, color: t.faint }}>{dow}{isLast ? ' · ' + tx('deck.yesterday') : ''}</span>
     </div>
   );
 }
@@ -638,12 +641,12 @@ function ArchiveGallery({ t, onOpen }) {
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, transitionDelay: '0s',
           WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past 5 Days</span>
         <h2 className="ax-rev ax-hl" style={{ fontSize: 'clamp(30px,3.8vw,46px)', lineHeight: 1.14, color: t.hl,
-          margin: '18px 0 10px', transitionDelay: '.1s' }}>어제까지의 모든 소식</h2>
+          margin: '18px 0 10px', transitionDelay: '.1s' }}>{tx('deck.title')}</h2>
         <p className="ax-rev ax-body" style={{ fontSize: 16, color: t.body, margin: 0, transitionDelay: '.2s' }}>
-          {isMobile ? '어제부터 가장 과거까지, 날짜순으로 · 카드를 누르면 크게 열립니다'
-                    : '스크롤하면 지난 5일의 카드덱이 펼쳐집니다 · 카드를 누르면 크게 열립니다'}</p>
+          {isMobile ? tx('large.hint_mobile')
+                    : tx('large.hint_desktop')}</p>
       </div>
-      <section ref={scrollRef} className="ax-gal-scroll" style={{ height: '300vh' }} data-screen-label="아카이브">
+      <section ref={scrollRef} className="ax-gal-scroll" style={{ height: '300vh' }} data-screen-label={tx('large.screen_archive')}>
         <div className="ax-gal-sticky">
           <div ref={gridRef} className="ax-gal-grid">
             {ordered.map((day, i) => (
@@ -805,7 +808,7 @@ function HeroExpand({ t }) {
       <h1 ref={logoRef} className="ax-hero-logo" style={{ top: '14vh', transform: 'translateX(-50%) scale(1)' }}>
         <MorphingTitle texts={['AX-it', 'DESIGN', 'NOW']} color={t.hl} />
       </h1>
-      <section ref={zoneRef} className="ax-hero" style={{ height: '180vh' }} data-screen-label="표지">
+      <section ref={zoneRef} className="ax-hero" style={{ height: '180vh' }} data-screen-label={tx('large.screen_cover')}>
         <div ref={stickyRef} className="ax-hero-sticky">
           <div ref={mediaRef} className="ax-hero-media" style={{ width: 320, height: 440 }}>
             <HeroSlideshow images={(window.AX_NEWS || []).map((n) => n.image).filter(Boolean)} />

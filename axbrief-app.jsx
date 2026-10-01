@@ -11,6 +11,10 @@
    ============================================================ */
 const { useState, useRef, useEffect, useCallback, useLayoutEffect } = React;
 
+/* i18n — `t` is the theme object throughout this file, so UI strings go through
+   tx() → window.t() (i18n.js). Dictionary: i18n/ko.json. */
+const tx = (key, vars) => window.t(key, vars);
+
 /* ---- one-time CSS (keyframes + helpers) ---- */
 if (!document.getElementById('ax-styles')) {
   const s = document.createElement('style');
@@ -371,15 +375,15 @@ function axMotifFor(tool) {
 }
 function axBodyFor(tool) {
   const s = String(tool);
-  if (/Figma/.test(s)) return '스크린샷·프롬프트가 곧 수정 가능한 디자인이 됩니다.';
-  if (/KeyShot|CMF|렌더/.test(s)) return '고화질 렌더를 기다릴 필요 없이, 그 자리에서 바로.';
-  if (/CAD/.test(s)) return '글로 설명하면 3D 형상과 도면이 따라옵니다.';
-  if (/Token|일관성/.test(s)) return '규칙을 한 곳에 모으면 점검은 AI가 대신합니다.';
-  if (/VR|몰입/.test(s)) return '실물 목업 없이 가상으로 보고 결정합니다.';
-  if (/핸드오프|코드/.test(s)) return '디자인과 코드가 자동으로 이어집니다.';
-  if (/리서치/.test(s)) return 'AI가 유저리서치를 합성하고 인사이트를 정리합니다.';
-  if (/원칙|DesignAX/.test(s)) return 'AI와 사람의 협업, 그 원칙을 다시 세웁니다.';
-  if (/UX Pilot/.test(s)) return '프롬프트 한 줄로 UI와 코드 초안이 나옵니다.';
+  if (/Figma/.test(s)) return tx('demo.body_figma');
+  if (/KeyShot|CMF|렌더/.test(s)) return tx('demo.body_render');
+  if (/CAD/.test(s)) return tx('demo.body_cad');
+  if (/Token|일관성/.test(s)) return tx('demo.body_token');
+  if (/VR|몰입/.test(s)) return tx('demo.body_vr');
+  if (/핸드오프|코드/.test(s)) return tx('demo.body_handoff');
+  if (/리서치/.test(s)) return tx('demo.body_research');
+  if (/원칙|DesignAX/.test(s)) return tx('demo.body_principle');
+  if (/UX Pilot/.test(s)) return tx('demo.body_uxpilot');
   return '';   // no generic placeholder — every card now carries its own one-line summary
 }
 function axEnrich(item) {
@@ -430,20 +434,20 @@ function SubscribeModal({ onClose, t }) {
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
-        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>AX-it NOW 구독</p>
+        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
-          구독하면 모든 카테고리의 전체 뉴스와 심층분석을 볼 수 있어요.
+          {tx('paywall.modal_body')}
         </p>
-        <AxPill label="Patreon에서 구독하기" t={t}
+        <AxPill label={tx('paywall.subscribe')} t={t}
           onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
         <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
-          Patreon 결제 페이지가 새 탭으로 열립니다
+          {tx('paywall.new_tab')}
         </p>
         <p style={{ margin: '12px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center',
           fontFamily: 'Pretendard, system-ui' }}>
-          이미 구독 중이신가요?{' '}
+          {tx('paywall.already')}{' '}
           <a href="/api/auth/patreon" style={{ color: '#a09890', textDecoration: 'underline' }}>
-            Patreon으로 로그인
+            {tx('paywall.login')}
           </a>
         </p>
       </div>
@@ -476,7 +480,7 @@ function ShareButton({ url, t }) {
         <span style={{ position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)',
           borderLeft: '5px solid transparent', borderRight: '5px solid transparent', borderTop: `5px solid ${t.hl}` }} />
       </div>
-      <button onClick={onShare} aria-label="링크 복사" title="링크 복사" style={{
+      <button onClick={onShare} aria-label={tx('share.copy_link')} title={tx('share.copy_link')} style={{
         width: 42, height: 42, borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto',
         display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
         background: t.hl, color: '#fff', border: 'none', boxShadow: '0 6px 18px -8px rgba(40,30,20,.5)',
@@ -582,7 +586,7 @@ function FullArticle({ item, t, section, onClose }) {
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
-            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · 미리보기(번역)</span>
+            {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {tx('card.preview_translated')}</span>
           </div>
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
@@ -637,8 +641,8 @@ function PremiumFullArticle({ item, t, section, onClose }) {
         </div>
       </div>
       <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
-        {state.status === 'loading' && <p style={{ color: t.faint }}>불러오는 중…</p>}
-        {state.status === 'error' && <p style={{ color: t.faint }}>잠시 후 다시 시도해 주세요.</p>}
+        {state.status === 'loading' && <p style={{ color: t.faint }}>{tx('common.loading')}</p>}
+        {state.status === 'error' && <p style={{ color: t.faint }}>{tx('common.retry_later')}</p>}
         {state.status === 'ready' && (
           <React.Fragment>
             {renderFullBlocks(state.blocks)}
@@ -679,7 +683,7 @@ function LockedCard({ item, index, total, t, mobile, section }) {
         filter: 'blur(10px) saturate(.7) brightness(.94)', transform: 'scale(1.04)' }}>
         <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} />
       </div>
-      <div role="button" tabIndex={0} aria-label="구독하고 모두 보기"
+      <div role="button" tabIndex={0} aria-label={tx('paywall.unlock_all')}
         onClick={() => setShowSubscribe(true)}
         onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setShowSubscribe(true); } }}
         style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
@@ -688,11 +692,11 @@ function LockedCard({ item, index, total, t, mobile, section }) {
         <div aria-hidden style={{ width: 46, height: 46, borderRadius: '50%', display: 'flex', alignItems: 'center',
           justifyContent: 'center', background: 'rgba(255,255,255,.9)', fontSize: 19, color: '#1c1a18' }}>🔒</div>
         <div className="ax-hl" style={{ fontSize: mobile ? 17 : 19, color: '#fff', textShadow: '0 1px 8px rgba(0,0,0,.45)' }}>
-          구독하고 모두 보기
+          {tx('paywall.unlock_all')}
         </div>
         <p className="ax-body" style={{ fontSize: 13, color: 'rgba(255,255,255,.9)', margin: 0, maxWidth: 260,
           textShadow: '0 1px 5px rgba(0,0,0,.4)' }}>
-          오늘의 나머지 소식은 구독자에게 공개됩니다
+          {tx('paywall.rest_for_subscribers')}
         </p>
       </div>
       {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
@@ -760,7 +764,7 @@ function NavButton({ dir, disabled, onClick, t }) {
     paper: { bg: 'rgba(249,247,242,.9)', bd: 'rgba(40,36,30,.16)', fg: '#26241f' },
   }[t.nav];
   return (
-    <button aria-label={dir === 'l' ? '이전' : '다음'} disabled={disabled} onClick={onClick}
+    <button aria-label={dir === 'l' ? tx('nav.prev') : tx('nav.next')} disabled={disabled} onClick={onClick}
       style={{ width: 34, height: 34, borderRadius: '50%', display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
         background: styles.bg, border: `1px solid ${styles.bd}`, color: styles.fg, cursor: disabled ? 'default' : 'pointer',
         opacity: disabled ? .35 : 1, WebkitBackdropFilter: 'blur(8px)', backdropFilter: 'blur(8px)', transition: 'opacity .15s' }}>
@@ -854,7 +858,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
         <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} />
         <div style={{ display: 'flex', gap: 7, alignItems: 'center' }}>
           {items.map((_, i) => (
-            <button key={i} aria-label={'카드 ' + (i + 1)} onClick={() => go(i)}
+            <button key={i} aria-label={tx('nav.card', { n: i + 1 })} onClick={() => go(i)}
               style={{ border: 'none', padding: 0, cursor: 'pointer', height: 6, borderRadius: 3,
                 width: i === idx ? 22 : 6, transition: 'all .2s', background: i === idx ? t.dotOn : t.dotOff }} />
           ))}
@@ -983,7 +987,7 @@ function Masthead({ t, mobile, onHome }) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 46 : 20 }}>
       {/* logo → home */}
-      <div role="button" tabIndex={0} aria-label="홈으로" onClick={onHome}
+      <div role="button" tabIndex={0} aria-label={tx('nav.home')} onClick={onHome}
         onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
         style={{ cursor: onHome ? 'pointer' : 'default' }}>
         <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl}
@@ -1026,7 +1030,7 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
         <div className="ax-eyebrow" style={{ fontSize: front ? 10 : 8, color: t.faint, marginBottom: front ? 7 : 4 }}>{card.tool}</div>
         <div className="ax-hl" style={{ fontSize: front ? 15 : 10.5, lineHeight: 1.3, color: t.hl,
           display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{card.headline}</div>
-        {front && <div className="ax-eyebrow" style={{ fontSize: 9, color: t.mute, marginTop: 12 }}>{card.source} · 클릭하면 크게 열림 ↗</div>}
+        {front && <div className="ax-eyebrow" style={{ fontSize: 9, color: t.mute, marginTop: 12 }}>{card.source} · {tx('deck.click_to_open')}</div>}
       </div>
     </div>
   );
@@ -1040,9 +1044,8 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
    version that opens SubscribeModal instead of the day when not entitled). ---- */
 function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter, onCardEnter, onOpen, locked }) {
   const deckRef = useRef();
-  const d = new Date(day.date);
-  const dow = ['일', '월', '화', '수', '목', '금', '토'][d.getDay()];
-  const md = `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`;
+  const dow = axDate(day.date, 'weekday');
+  const md = axDate(day.date, 'md');
   const handleClick = (ci) => {
     if (locked) { onOpen(day, ci, null); return; }
     const rects = Array.from(deckRef.current.querySelectorAll('.ax-mini')).map((el) => el.getBoundingClientRect());
@@ -1074,7 +1077,7 @@ function DayDeck({ day, idx, t, isLast, expanded, hoveredCard, shift, onDayEnter
         transform: expanded ? 'scale(1.55)' : 'none', boxShadow: '0 0 0 4px #f1ece4' }} />
       <div className="ax-daylabel" style={{ marginTop: 12, textAlign: 'center' }}>
         <div className="ax-hl" style={{ fontSize: 15, color: expanded ? t.hl : t.mute }}>{md}</div>
-        <div className="ax-eyebrow" style={{ fontSize: 9, color: t.faint, marginTop: 2 }}>{dow}{isLast ? ' · 어제' : ''}</div>
+        <div className="ax-eyebrow" style={{ fontSize: 9, color: t.faint, marginTop: 2 }}>{dow}{isLast ? ' · ' + tx('deck.yesterday') : ''}</div>
       </div>
     </div>
   );
@@ -1112,11 +1115,11 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>어제까지의 모든 소식</h2>
+        <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>
           {entitled
-            ? "날짜에 올리면 그날의 카드가 펼쳐지고, 카드를 누르면 위에서 크게 열립니다 · 과거 소식을 본 뒤엔 상단의 '오늘 소식으로'로 돌아옵니다"
-            : '지난 소식 전체는 Pro 구독자에게 열립니다'}
+            ? tx('deck.hint_desktop')
+            : tx('deck.locked')}
         </p>
         {!entitled && <div style={{ marginTop: 12 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
       </div>
@@ -1201,8 +1204,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
     if (el) el.scrollLeft = el.scrollWidth;
   }, [days.length]);
   const fmt = (date) => {
-    const d = new Date(date);
-    return { md: `${d.getMonth() + 1}.${String(d.getDate()).padStart(2, '0')}`, dow: ['일', '월', '화', '수', '목', '금', '토'][d.getDay()] };
+    return { md: axDate(date, 'md'), dow: axDate(date, 'weekday') };
   };
   const handleOpen = entitled ? onOpen : () => setShowSubscribe(true);
   return (
@@ -1210,10 +1212,10 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
       <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
-        <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>어제까지의 모든 소식</h2>
+        <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>
-          {entitled ? '어제부터 시작해 옆으로 밀면 과거로 · 카드를 누르면 위에서 크게 열립니다'
-            : '지난 소식 전체는 Pro 구독자에게 열립니다'}
+          {entitled ? tx('deck.hint_mobile')
+            : tx('deck.locked')}
         </p>
         {!entitled && <div style={{ marginTop: 10 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
       </div>
@@ -1225,7 +1227,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
             <div className="ax-day-block" key={day.date} style={{ position: 'relative' }}>
               <div className="ax-strip-datehead" style={{ background: t.feedSolid, border: t.cardBorder }}>
                 <span className="ax-hl" style={{ fontSize: 14, color: t.hl, lineHeight: 1 }}>{md}</span>
-                <span className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint }}>{dow}{isYesterday ? ' · 어제' : ''}</span>
+                <span className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint }}>{dow}{isYesterday ? ' · ' + tx('deck.yesterday') : ''}</span>
               </div>
               <div aria-hidden={!entitled || undefined} className="ax-day-cards"
                 style={{ filter: entitled ? 'none' : 'blur(7px) saturate(.7) brightness(.94)' }}>
@@ -1272,12 +1274,12 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
 function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
   return (
-    <div className="ax-tabs" role="tablist" aria-label="섹션"
+    <div className="ax-tabs" role="tablist" aria-label={tx('nav.sections')}
       style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
       {showInsights && (
         <React.Fragment>
           <button role="tab" aria-selected={!!insightsActive} className="ax-tab" onClick={onInsights}
-            title="Pro 전용 · 전 분야 뉴스 지식 네트워크"
+            title={tx('insights.tab_title')}
             style={insightsActive
               ? { background: '#7928ca', color: '#fff', border: '1px solid #7928ca' }
               : { background: 'rgba(121,40,202,.08)', color: '#7928ca', border: '1px solid #7928ca' }}>
@@ -1963,7 +1965,7 @@ function InsightsView({ t, mobile, entitled }) {
     );
   };
 
-  if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>네트워크 데이터를 불러오지 못했습니다.</div>;
+  if (failed) return <div style={{ textAlign: 'center', padding: '60px 0', color: t.mute }}>{tx('insights.load_failed')}</div>;
 
   const solid = t.cardSolid || '#fbf8f3';
   const stripIds = card ? neighbors.map((e) => e.id) : recent.map((c) => c.section + '/' + c.id);
@@ -1986,7 +1988,7 @@ function InsightsView({ t, mobile, entitled }) {
         <div ref={graphBoxRef} style={{ position: 'absolute', inset: 0 }} />
         {!ready && (
           <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center',
-            justifyContent: 'center', color: '#9aa1b4', fontSize: 13 }}>네트워크 불러오는 중…</div>
+            justifyContent: 'center', color: '#9aa1b4', fontSize: 13 }}>{tx('insights.loading')}</div>
         )}
         {/* 범례 — 모바일: 창 상단 가로 칩 바 / 데스크톱: 좌측 중앙 세로 박스 */}
         {mobile ? (
@@ -2014,7 +2016,7 @@ function InsightsView({ t, mobile, entitled }) {
             return (
               <div key={s} role="button" tabIndex={0} onClick={() => toggleSection(s)}
                 onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSection(s); } }}
-                title={off ? '표시하기' : '숨기기'}
+                title={off ? tx('insights.show') : tx('insights.hide')}
                 style={{ display: 'flex', alignItems: 'center', gap: 7, margin: '2.5px 0',
                   cursor: 'pointer', opacity: off ? 0.55 : 1, userSelect: 'none' }}>
                 <span style={{ width: 9, height: 9, borderRadius: '50%', flex: '0 0 auto',
@@ -2040,7 +2042,7 @@ function InsightsView({ t, mobile, entitled }) {
             );
           })}
           <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
-            크기 = 연결된 뉴스 수
+            {tx('insights.size_legend')}
           </div>
         </div>
         )}
@@ -2049,7 +2051,7 @@ function InsightsView({ t, mobile, entitled }) {
           width: mobile ? '90%' : 'min(520px, 74%)' }}>
           <input value={query} onChange={(e) => onSearch(e.target.value)}
             onKeyDown={(e) => { if (e.key === 'Escape') onSearch(''); }}
-            placeholder={mobile ? '키워드로 뉴스 노드 검색' : '키워드로 뉴스 노드 검색  ·  예) 딥페이크, Figma, 저작권'}
+            placeholder={mobile ? tx('insights.search_placeholder_mobile') : tx('insights.search_placeholder')}
             style={{ width: '100%', boxSizing: 'border-box', padding: mobile ? '10px 70px 10px 16px' : '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
               fontSize: mobile ? 16 : 13, fontFamily: 'inherit', outline: 'none',
@@ -2058,9 +2060,9 @@ function InsightsView({ t, mobile, entitled }) {
             <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
               display: 'flex', alignItems: 'center', gap: 7 }}>
               {searchRef.current && (
-                <span className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 10 }}>{searchRef.current.size}건</span>
+                <span className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 10 }}>{tx('insights.match_count', { n: searchRef.current.size })}</span>
               )}
-              <button aria-label="검색어 지우기" onClick={() => onSearch('')}
+              <button aria-label={tx('insights.clear_search')} onClick={() => onSearch('')}
                 style={{ width: 24, height: 24, borderRadius: '50%', border: '1px solid #ddd5c7',
                   background: '#f1ece2', color: '#57534a', cursor: 'pointer', padding: 0,
                   display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
@@ -2087,9 +2089,9 @@ function InsightsView({ t, mobile, entitled }) {
           ) : (
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column',
               alignItems: 'center', justifyContent: 'center', gap: 10, padding: 30, textAlign: 'center' }}>
-              <div className="ax-hl" style={{ fontSize: 19, color: t.hl }}>노드를 클릭해 보세요</div>
+              <div className="ax-hl" style={{ fontSize: 19, color: t.hl }}>{tx('insights.empty_title')}</div>
               <p className="ax-body" style={{ fontSize: 13.5, lineHeight: 1.6, color: t.body, margin: 0 }}>
-                왼쪽 네트워크에서 뉴스를 고르면 이 자리에 카드가,<br />아래에 직접 연결된 뉴스들이 나타납니다.
+                {tx('insights.empty_body_1')}<br />{tx('insights.empty_body_2')}
               </p>
             </div>
           )}
@@ -2252,7 +2254,7 @@ function ThemedPage({ themeKey }) {
     setHero({ items: heroItems(sections[order[0]]), index: 0, key: Date.now(), day: null });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
-  const viewing = hero.day ? `${new Date(hero.day.date).getMonth() + 1}.${String(new Date(hero.day.date).getDate()).padStart(2, '0')} 소식 보는 중` : null;
+  const viewing = hero.day ? tx('deck.viewing', { date: axDate(hero.day.date, 'md') }) : null;
   const hasNews = (cur.news || []).length > 0;
   const insightsOn = view === 'insights';   // Knowledge Graph는 전원 공개(내부에서 프리미엄 게이트)
   return (
@@ -2282,7 +2284,7 @@ function ThemedPage({ themeKey }) {
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
               border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
               WebkitBackdropFilter: t.blur, backdropFilter: t.blur, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
-              <span aria-hidden>←</span> 오늘 소식으로
+              <span aria-hidden>←</span> {tx('deck.back_to_today')}
               <span style={{ color: t.faint }}>· {viewing}</span>
             </button>
           </div>
@@ -2307,15 +2309,15 @@ function ThemedPage({ themeKey }) {
         ) : (
           /* empty section (no news yet) */
           <div style={{ textAlign: 'center', padding: '64px 20px 80px' }}>
-            <div className="ax-hl" style={{ fontSize: 22, color: t.hl, marginBottom: 10 }}>{cur.label} · 준비 중</div>
+            <div className="ax-hl" style={{ fontSize: 22, color: t.hl, marginBottom: 10 }}>{cur.label} · {tx('section.preparing')}</div>
             <p className="ax-body" style={{ fontSize: 14.5, color: t.body, margin: 0 }}>
-              이 섹션에는 아직 오늘 소식이 없습니다. 곧 채워집니다.</p>
+              {tx('section.empty')}</p>
           </div>
         )}
         {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
         <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
           <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
-            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>개인정보처리방침</a>
+            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>{tx('footer.privacy')}</a>
           </p>
         </footer>
       </div>

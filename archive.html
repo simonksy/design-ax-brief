@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Archive · AX-it NOW</title>
-<meta name="description" content="AX-it NOW가 지금까지 발행한 모든 AI 뉴스 카드 아카이브">
+<meta name="description" content="" data-i18n-content="archive.meta_description">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <style>
   * { box-sizing: border-box; }
@@ -167,24 +167,33 @@
       <button class="view-btn" id="v-graph">Network</button>
     </div>
     <div class="tabs" id="tabs"></div>
-    <input class="search" id="q" type="search" placeholder="헤드라인 · 요약 · 매체 검색" autocomplete="off">
+    <input class="search" id="q" type="search" placeholder="" data-i18n-placeholder="archive.search_placeholder" autocomplete="off">
   </div>
   <div id="list"></div>
-  <div class="more" id="more" hidden>불러오는 중…</div>
-  <div class="empty" id="empty" hidden>조건에 맞는 카드가 없습니다.</div>
+  <div class="more" id="more" hidden data-i18n="common.loading"></div>
+  <div class="empty" id="empty" hidden data-i18n="archive.empty"></div>
   <div id="graphwrap">
     <div id="graph"></div>
-    <div id="graph-hint">키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스</div>
-    <div id="side"><div class="side-hint">노드를 클릭하면 해당 뉴스와<br>직접 연결된 뉴스들이 여기 표시됩니다</div></div>
+    <div id="graph-hint" data-i18n="archive.graph_hint"></div>
+    <div id="side"><div class="side-hint" data-i18n-html="archive.side_hint_initial"></div></div>
   </div>
 </div>
 
 <script>(function () {
-  var v = Date.now();
-  document.write('<scr' + 'ipt src="archive-data.js?v=' + v + '"><\/scr' + 'ipt>');
+  var v = Date.now(), L = window.AX_LANG || 'ko';
+  document.write('<scr' + 'ipt src="i18n/' + L + '.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt src="i18n.js?v=' + v + '"><\/scr' + 'ipt>');
+  document.write('<scr' + 'ipt src="archive-data.' + L + '.js?v=' + v + '"><\/scr' + 'ipt>');
 })();</script>
 <script>
 (function () {
+  /* static UI strings: data-i18n → textContent, data-i18n-html → innerHTML,
+     data-i18n-placeholder / data-i18n-content → that attribute (i18n/ko.json) */
+  document.querySelectorAll("[data-i18n]").forEach(function (el) { el.textContent = t(el.getAttribute("data-i18n")); });
+  document.querySelectorAll("[data-i18n-html]").forEach(function (el) { el.innerHTML = t(el.getAttribute("data-i18n-html")); });
+  document.querySelectorAll("[data-i18n-placeholder]").forEach(function (el) { el.placeholder = t(el.getAttribute("data-i18n-placeholder")); });
+  document.querySelectorAll("[data-i18n-content]").forEach(function (el) { el.content = t(el.getAttribute("data-i18n-content")); });
+
   var ALL = window.AX_ARCHIVE || [];
   var SECTIONS = window.AX_ARCHIVE_SECTIONS || [];
   var $ = function (id) { return document.getElementById(id); };
@@ -198,12 +207,12 @@
   /* 탭 */
   var tabs = [{ key: "all", label: "All" }].concat(
     SECTIONS.filter(function (s) { return present[s.key]; }));
-  tabs.forEach(function (t) {
+  tabs.forEach(function (tab) {
     var b = document.createElement("button");
-    b.className = "tab" + (t.key === "all" ? " on" : "");
-    b.textContent = t.label;
+    b.className = "tab" + (tab.key === "all" ? " on" : "");
+    b.textContent = tab.label;
     b.onclick = function () {
-      state.sec = t.key;
+      state.sec = tab.key;
       document.querySelectorAll(".tab").forEach(function (x) { x.classList.remove("on"); });
       b.classList.add("on");
       rebuild();
@@ -247,7 +256,7 @@
       day.className = "day";
       var h = document.createElement("div");
       h.className = "day-h";
-      h.innerHTML = '<span class="d">' + kr(g.date) + '</span><span class="n">' + g.cards.length + '장</span>';
+      h.innerHTML = '<span class="d">' + kr(g.date) + '</span><span class="n">' + t("archive.day_count", { n: g.cards.length }) + '</span>';
       day.appendChild(h);
       g.cards.forEach(function (c) {
         var a = document.createElement("a");
@@ -362,7 +371,7 @@
         '<div class="nc-meta"><span class="chip">' + esc(c.tool || c.section) + '</span>' +
           '<span class="nc-src">' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
         '<div class="nc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
-        (kwList && kwList.length ? '<div class="nc-kw">공유 키워드: ' + esc(kwList.join(", ")) + '</div>' : '') +
+        (kwList && kwList.length ? '<div class="nc-kw">' + t("archive.shared_keywords", { kw: esc(kwList.join(", ")) }) + '</div>' : '') +
       '</div></a>';
   }
 
@@ -375,7 +384,7 @@
   function renderSideDefault() {
     var recent = ALL.filter(match).slice(0, 12);
     side.innerHTML =
-      '<div class="side-hint">노드를 클릭하면 해당 뉴스와 직접 연결된<br>뉴스들이 여기 표시됩니다 · 아래는 최신 카드</div>' +
+      '<div class="side-hint">' + t("archive.side_hint_default") + '</div>' +
       '<div class="nbr-grid">' + recent.map(function (c) { return ncardHTML(c); }).join("") + '</div>';
     bindNcards();
   }
@@ -392,14 +401,14 @@
             '<span>' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
           '<div class="bc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
           '<div class="bc-bd">' + esc(c.body || "") + '</div>' +
-          '<a class="bc-read" href="' + esc(c.url) + '" target="_blank" rel="noopener">원문 읽기 ↗</a>' +
+          '<a class="bc-read" href="' + esc(c.url) + '" target="_blank" rel="noopener">' + t("archive.read_original") + '</a>' +
         '</div></div>' +
-      '<div class="nbr-title">직접 연결된 뉴스 ' + neighbors.length + '</div>' +
+      '<div class="nbr-title">' + t("archive.neighbors", { n: neighbors.length }) + '</div>' +
       (neighbors.length
         ? '<div class="nbr-grid">' + neighbors.map(function (e) {
             var n = CARD[e.id]; return n ? ncardHTML(n, e.kw) : "";
           }).join("") + '</div>'
-        : '<div class="side-hint">현재 필터 안에서 연결된 뉴스가 없습니다</div>');
+        : '<div class="side-hint">' + t("archive.no_neighbors") + '</div>');
     bindNcards();
     side.scrollTop = 0;
   }
@@ -491,16 +500,16 @@
       sel ? renderSideFor(sel) : renderSideDefault();
       return;
     }
-    hint("그래프 불러오는 중…");
+    hint(t("archive.graph_loading"));
     Promise.all([loadScript("vendor/force-graph.min.js"),
                  loadScript("archive-graph.js?v=" + Date.now())])
       .then(function () {
         GD = window.AX_GRAPH; graphReady = true; initGraph(); renderSideDefault();
-        hint("키워드를 공유하는 카드끼리 연결 · 호버=카드 미리보기 · 클릭=우측에 카드 + 연결 뉴스");
+        hint(t("archive.graph_hint"));
       })
-      .catch(function () { hint("그래프 데이터를 불러오지 못했습니다."); });
+      .catch(function () { hint(t("archive.graph_failed")); });
   }
-  function hint(t) { var h = document.getElementById("graph-hint"); if (h) h.textContent = t; }
+  function hint(msg) { var h = document.getElementById("graph-hint"); if (h) h.textContent = msg; }
 
   function enterList() {
     graphMode = false;
