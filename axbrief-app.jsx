@@ -1000,7 +1000,7 @@ function Masthead({ t, mobile, onHome }) {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 46 : 20 }}>
       {/* logo → home */}
-      <div role="button" tabIndex={0} aria-label={tx('nav.home')} onClick={onHome}
+      <div data-ax-logo role="button" tabIndex={0} aria-label={tx('nav.home')} onClick={onHome}
         onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
         style={{ cursor: onHome ? 'pointer' : 'default' }}>
         <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl}

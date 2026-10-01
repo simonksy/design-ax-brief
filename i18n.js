@@ -62,6 +62,17 @@
     sel.onchange = function () { window.axSetLang(sel.value); };
     box.appendChild(sel);
     document.body.appendChild(box);
+    // Mobile: centre the globe on the logo's horizontal midline (the logo is
+    // rendered by React after load, so re-measure on resize and for a few frames).
+    var align = function () {
+      var logo = document.querySelector("[data-ax-logo]");
+      if (!logo || window.innerWidth > 720) { box.style.top = ""; return; }
+      var r = logo.getBoundingClientRect();
+      if (!r.height) return;
+      box.style.top = Math.round(r.top + window.scrollY + r.height / 2 - box.offsetHeight / 2) + "px";
+    };
+    window.addEventListener("resize", align);
+    var tries = 0, tick = setInterval(function () { align(); if (++tries > 40) clearInterval(tick); }, 100);
   };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", window.axMountGlobe);
   else window.axMountGlobe();
