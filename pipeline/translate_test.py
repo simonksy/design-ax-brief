@@ -60,3 +60,37 @@ saved = json.load(open(f))["cards"][0]
 assert saved["text"]["ko"] == KO and saved["body"] == KO["body"]
 assert len(json.load(open(os.path.join(d, "jobs_x.retry.json")))["jobs"]) == 3
 print("translate OK")
+
+# Fix round 1: malformed answers files and non-str/dict replies must not crash
+
+# (a) answers file whose whole content is fenced JSON still applies
+d2 = tempfile.mkdtemp()
+f2, j2, a2 = (os.path.join(d2, n) for n in ("cards_y.json", "jobs_y.json", "answers_y.json"))
+json.dump({"date": "2026-10-02", "cards": [card]}, open(f2, "w"))
+r = run("jobs", "--cards", f2, "--out", j2)
+assert r.returncode == 0, r.stderr
+open(a2, "w", encoding="utf-8").write("```json\n" + json.dumps({"ftc|ko": KO}, ensure_ascii=False) + "\n```")
+r = run("apply", "--jobs", j2, "--answers", a2)
+assert r.returncode == 10 and "Traceback" not in r.stderr, r.stdout + r.stderr
+saved2 = json.load(open(f2))["cards"][0]
+assert saved2["text"]["ko"] == KO and saved2["body"] == KO["body"]
+
+# (b) answers file that is pure garbage text -> every job retried, no crash
+d3 = tempfile.mkdtemp()
+f3, j3, a3 = (os.path.join(d3, n) for n in ("cards_z.json", "jobs_z.json", "answers_z.json"))
+json.dump({"date": "2026-10-02", "cards": [card]}, open(f3, "w"))
+r = run("jobs", "--cards", f3, "--out", j3)
+assert r.returncode == 0, r.stderr
+n_jobs = len(json.load(open(j3))["jobs"])
+open(a3, "w", encoding="utf-8").write("this is not json at all, just garbage prose.")
+r = run("apply", "--jobs", j3, "--answers", a3)
+assert r.returncode == 10 and "Traceback" not in r.stderr, r.stdout + r.stderr
+retry3 = json.load(open(os.path.join(d3, "jobs_z.retry.json")))["jobs"]
+assert len(retry3) == n_jobs
+
+# (c) non-dict, non-str reply values are judged (not an AttributeError crash)
+for bad in (123, ["a"], True):
+    out, errs = tr.judge(jobs[0], bad)
+    assert out is None and any("invalid reply" in e for e in errs), (bad, errs)
+
+print("translate fix-1 OK")

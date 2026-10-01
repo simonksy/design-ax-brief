@@ -54,6 +54,8 @@ def build_prompt(src, src_lang, lang, errors=None):
 def parse_reply(reply):
     if isinstance(reply, dict):
         return reply
+    if not isinstance(reply, str):
+        raise ValueError(f"reply is not an object or string: {type(reply).__name__}")
     t = re.sub(r"^```(?:json)?\s*|\s*```$", "", (reply or "").strip(), flags=re.M)
     start = t.find("{")
     if start < 0:
@@ -143,6 +145,25 @@ def _save(path, obj):
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 
+def _load_answers(path):
+    """Answers files come from an agent, not a schema-checked tool, so they may be
+    wrapped in a code fence, have chatter around them, or simply be unparsable. Reuse
+    parse_reply's fence-stripping/first-object-decoding instead of a bare json.load, and
+    on any failure warn and fall back to {} — every job then reads as "no answer" and
+    goes to the retry file, rather than crashing the whole apply run. A missing file
+    keeps meaning {}, same as before."""
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    try:
+        obj = parse_reply(text)
+    except ValueError as e:
+        print(f"  answers file unreadable ({e}) — treating as no answers", file=sys.stderr)
+        return {}
+    return obj
+
+
 def cmd_jobs(kind, path, out, **kw):
     doc = _load(path)
     jobs = [j for key, c in TARGETS[kind](doc, **kw).items() for j in card_jobs(c, key)]
@@ -153,7 +174,7 @@ def cmd_jobs(kind, path, out, **kw):
 
 def cmd_apply(jobs_path, answers_path, retry_out=None):
     jf = _load(jobs_path)
-    answers = _load(answers_path, default={})
+    answers = _load_answers(answers_path)
     doc = _load(jf["target"])
     index = TARGETS[jf["kind"]](doc)
     by_key = {}
