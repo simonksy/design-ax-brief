@@ -50,7 +50,8 @@ card = lambda i, **kw: dict({"id": i, "tool": "T", "eyebrow": "AI NEWS", "headli
                              "full": {"blocks": [{"t": "p", "x": "한 전문"}]}}, **kw)
 new = card("n", source_lang="en", text={
     "en": {"headline": "N en\nhead", "body": "English body", "full": {"blocks": [{"t": "p", "x": "en full"}]}},
-    "ko": {"headline": "n 한\n헤드", "body": "한국어 본문", "full": {"blocks": [{"t": "p", "x": "한 전문"}]}}})
+    "ko": {"headline": "n 한\n헤드", "body": "한국어 본문", "full": {"blocks": [{"t": "p", "x": "한 전문"}]}}},
+    _i18n_passed={"ko": {"headline": "n 한\n헤드", "body": "한국어 본문"}})
 nd = {"sections": {"design": {"today": {"date": "2026-10-02", "cards": [card("free"), new]},
                               "days": [{"date": "2026-10-01", "cards": [card("old")]}]}}}
 _j.dump(nd, open(f"{d9}/news_data.json", "w"), ensure_ascii=False)
@@ -62,6 +63,9 @@ for lang in ["en", "ko", "ja", "zh", "es"]:
 en_js = open(f"{d9}/axbrief-data.en.js", encoding="utf-8").read()
 assert "N en\\nhead" in en_js and '"untranslated": true' in en_js      # free/old 카드는 ko 폴백
 assert '"text"' not in en_js                                             # 맵은 공개 JS에 안 나감
+for _l in ["en", "ko", "ja", "zh", "es"]:                                # 통과본 스냅샷도 공개 JS에 안 나감
+    assert "_i18n_passed" not in open(f"{d9}/axbrief-data.{_l}.js", encoding="utf-8").read(), _l
+assert "_i18n_passed" not in open(f"{d9}/axbrief-data.js", encoding="utf-8").read()
 assert open(f"{d9}/axbrief-data.js", encoding="utf-8").read() == open(f"{d9}/axbrief-data.ko.js", encoding="utf-8").read()
 prem_en = _j.load(open(f"{d9}/premium/en/design.json"))["cards"]
 assert prem_en["design/n"]["blocks"][0]["x"] == "en full" and "design/old" in prem_en

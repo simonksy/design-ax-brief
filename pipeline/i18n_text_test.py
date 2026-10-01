@@ -21,7 +21,21 @@ assert flatten(new, "ko")["body"] == "한 본문" and "untranslated" not in flat
 de = {"id": "c", "source_lang": "de", "headline": "Dt\nKopf", "body": "Dt",
       "text": {"_src": {"lang": "de", "headline": "Dt\nKopf", "body": "Dt"},
                "es": {"headline": "Es\ncab", "body": "Es"}}}
-assert resolve(de, "ja")[1] == "ko"   # 풀 밖 원문(de)은 노출 안 함, en 없음 → 최상위(ko 취급)
+assert resolve(de, "ja")[1] == "de"   # 풀 밖 원문(de) 최상위 → 자기 언어로 라벨 (ko 아님)
+assert flatten(de, "ja")["untranslated"] is True and flatten(de, "ja")["lang"] == "de"
+
+# 최상위가 ko가 아닌 카드: source_lang en, text 없음 → ko 요청은 미번역(en)
+en_only = {"id": "d", "source_lang": "en", "headline": "En\nhead", "body": "En body"}
+assert resolve(en_only, "ko") == ({"headline": "En\nhead", "body": "En body"}, "en")
+fl = flatten(en_only, "ko")
+assert fl["untranslated"] is True and fl["lang"] == "en" and fl["headline"] == "En\nhead"
+assert "untranslated" not in flatten(en_only, "en")
+# text.ko가 있으면 최상위는 ko로 라벨
+assert resolve({"source_lang": "en", "headline": "h", "text": {"ko": {"headline": "k"}, "ja": {"headline": "j"}}}, "zh")[1] == "ko"
+# source_lang "ko" 카드: 최상위 = ko
+assert resolve({"source_lang": "ko", "headline": "h"}, "ja")[1] == "ko"
+# 공개 출력에 _i18n_passed 스냅샷 안 나감
+assert "_i18n_passed" not in flatten(dict(new, _i18n_passed={"ko": {"headline": "x"}}), "ko")
 assert source_fields(de) == ({"headline": "Dt\nKopf", "body": "Dt"}, "de")
 assert source_fields(new)[1] == "en" and source_fields(old)[1] == "ko"
 print("i18n_text OK")

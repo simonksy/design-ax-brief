@@ -20,12 +20,16 @@ def resolve(card, lang):
     for l in order:
         if text.get(l):
             return text[l], l
-    return _top(card), "ko"
+    # Top-level copy is Korean only for legacy cards (no source_lang) or Korean-source
+    # cards; otherwise it is in the source language (possibly out of pool, e.g. "de").
+    if text.get("ko") or not src or src == "ko":
+        return _top(card), "ko"
+    return _top(card), src
 
 
 def flatten(card, lang):
     fields, served = resolve(card, lang)
-    out = {k: v for k, v in card.items() if k not in ("text", "i18n_status")}
+    out = {k: v for k, v in card.items() if k not in ("text", "i18n_status", "_i18n_passed")}
     for k in TEXT_FIELDS:
         out.pop(k, None)
     out.update({k: v for k, v in fields.items() if k in TEXT_FIELDS})
