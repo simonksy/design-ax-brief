@@ -2703,6 +2703,835 @@
           "x": "The conversation also touched on World Cup ad campaigns, assessments of major brand campaigns from Nike, Adidas, and Starbucks, and the career path from CMO to CEO. This piece is a condensed version of a 'Rapid Response' podcast interview featuring candid conversations with leaders."
         }
       ]
+    },
+    "design/figma-to-code-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stéphane LaFlèche originally set out to write a piece criticizing Figma-to-code hype. After digging into monday.com's design-to-code pipeline, he changed direction. The real shift wasn't in the tools, but in \"who actually does the work, and who owns the decisions the tools quietly hand down.\""
+        },
+        {
+          "t": "p",
+          "x": "On the surface, things look settled. 82.3% of designers name Figma as their primary UI design tool, and about 60% of Figma customers spending over $100,000 a year use Figma Make weekly. The Design Tokens Community Group (DTCG) standard reached its first stable release in late 2025. The industry is converging on a picture where code flows from Figma through an MCP server to agents like Copilot, Cursor, Claude Code, and Codex."
+        },
+        {
+          "t": "p",
+          "x": "Run it for real, though, and naive pipelines fail in predictable ways. Models grab components that don't exist, hardcode colors instead of tokens, and invent CSS values like 'fit-parent.' Even Figma's own MCP setup guide notes that without Code Connect wiring in real code, \"the model is guessing.\""
+        },
+        {
+          "t": "p",
+          "x": "monday.com built an 11-node LangGraph pipeline. It pulls raw designs from Figma, resolves values into semantic tokens, cross-checks them against the real library, and hands Cursor structured context instead of code. Design systems lead Elad Mizrahi says 70-90% of component code gets generated, with developers finishing the last 10-30%. Every change still goes through a human design and code review."
+        },
+        {
+          "t": "p",
+          "x": "This ceiling isn't unique to monday. Shopify reports about 80% on its own, Ramp about 70%. No matter how sophisticated the pipeline, the numbers cluster in a similar band. And those figures only count the visible layer — layout and happy paths — while the real work, like state, edge cases, accessibility, and production parity, never shows up in the demos."
+        },
+        {
+          "t": "p",
+          "x": "Romina Kavcic analyzed 158 public design systems. 89% include code examples, but usage guideline documentation covers only 37%, accessibility 21%, and component internal content just 13%. Only three — Polaris, Paste, and eBay Playbook — scored perfectly. She says \"AI can't fix taste\" and argues you have to fix the layer first."
+        },
+        {
+          "t": "p",
+          "x": "The market is shaky too. AI coding tools are selling below operating cost, and Anthropic has agreed to pay xAI $1.25 billion a month for GPUs, according to SpaceX's SEC filings, against total revenue so far of about $5 billion. GitHub Copilot switched to usage-based billing starting June 1, and Figma's stock has fallen from around $142 right after its IPO to the low $20s."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, roles are splitting apart. Designers are moving up into \"prototyping designers\" who build working prototypes in code and carry them all the way to stakeholder approval, while developers move downstream, polishing code once the shape is already set. For the empty \"middle zone of decisions\" left in between, the author points to design engineers — the people who translate design into a language code and models can execute, and who document the reasons behind decisions."
+        },
+        {
+          "t": "p",
+          "x": "The prescription is unglamorous: decoupling. Document decisions, not just tokens, and split the resolve step, the token layer, and code generation into modules so none of it gets locked into any one vendor, LLM, or tool. The author adds that, with everyone building this layer separately in-house right now, they hope a good open-source alternative emerges sometime soon."
+        }
+      ]
+    },
+    "design/quiet-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "We often hear that some shiny new tool is about to change everything (again). But what most people actually need isn't another tool to learn — it's a better integration of useful features into mental models they already have."
+        },
+        {
+          "t": "p",
+          "x": "That's the starting point of a piece Vitaly Friedman wrote for Smashing Magazine. Users don't get excited about a \"smart\" new workflow, a terminal command, or an endless back-and-forth chat. They just want seamless integrations that solve problems that are serious, frequent, and deeply annoying."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/document-management-interface-folder-instructions.jpg",
+          "cap": "An AI feature woven naturally into creating a new folder. Design by Karthikeya GS."
+        },
+        {
+          "t": "p",
+          "x": "Friedman starts by questioning the very idea of an \"AI-first\" product. It might speed up production, but you still need to know well what you're building first, and AI-first often skips over years of small and large design decisions that have shaped user expectations and mental models."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/claude-excel-integration.jpg",
+          "cap": "Claude's Excel integration lets you check specific rows and columns directly, without switching tools."
+        },
+        {
+          "t": "p",
+          "x": "What he loves is \"quiet AI\": tools that mostly sit unnoticed in the background, handling small tasks on the user's behalf. They quietly help with repetitive work that's easy to automate, without shouting for attention. Claude's integration into Microsoft Excel, PowerPoint, and Word is a good example — it helps within context without interrupting the workflow."
+        },
+        {
+          "t": "p",
+          "x": "That's why he's taken with the idea of \"folder instructions.\" It's a way for users to define what a folder should do, based on why they created it. The instructions set the folder's purpose, how files get organized, how subfolders behave, and what actions happen inside the folder. Instead of managing a folder by hand, you set the intent once and the system follows it."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/folder-instructions-passport-application.jpg",
+          "cap": "Once the user writes the instructions and picks system rules, the system handles the rest."
+        },
+        {
+          "t": "p",
+          "x": "Examples from the piece: a passport renewal folder is told to \"take the form, gather the required documents, flag any missing ones, then fill out the form as much as possible.\" A billing folder renames new files in sequence as they arrive, sorts them numerically, and drops them into folders by client. When a new PDF is added, it generates a summary, sends it, and notifies by email."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/file-management-setup-summarizing-pdfs.jpg",
+          "cap": "Automating work like generating summaries right where it actually happens."
+        },
+        {
+          "t": "p",
+          "x": "Permissions and actions stay confined to that folder unless the user explicitly expands them. The concept is explored in more depth in Karthikeya GS's piece, 'Folder Instructions: Instructions For System-Level AI.'"
+        },
+        {
+          "t": "p",
+          "x": "Friedman's conclusion: value doesn't come from users bouncing between apps, screens, and sources every few minutes. It comes from cutting down annoyance, delay, and mistakes so people can get things done. Seamless integration is still an underrated way to deliver value fast, without the burden of installing and learning yet another tool."
+        }
+      ]
+    },
+    "design/frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This covers how to package a team's accumulated frontend standards and component rules into a single installable AI “skill.” The key is setting things up so tools like Claude Code, Cursor, and Copilot automatically load this skill."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzhbwlf011opou0uey47.png"
+        },
+        {
+          "t": "p",
+          "x": "With this in place, agents don't drift away from the design system and improvise when writing React, Next, Vue, or Svelte code. Instead, they produce code that follows the rules the team has set."
+        }
+      ]
+    },
+    "design/lenovo-keyboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lenovo's vice president of design talks about how a fondness for AI, foldable screens, and a revival of touch is reshaping personal computers."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8QGgKW9LJ2Xiy6gpKsgyVc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He believes AI interfaces could mean “the end of the keyboard” in how designers think about interacting with hardware."
+        }
+      ]
+    },
+    "design/ui-score-gate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an experiment report that starts from a concern: give an AI coding agent only rules, and it ends up skipping the actual verification loop."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstyleseed-demo.vercel.app%2Fv26-compare.png"
+        },
+        {
+          "t": "p",
+          "x": "The author built a mandatory gate running from lock to build to score to fix, screening AI-made UI by score before showing it to any human. The first victim was the author's own landing page, which scored 58/100, and the full scorecard is published."
+        }
+      ]
+    },
+    "design/post-chat-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*xueXM438PdvFdB4J8p3z_A.png"
+        },
+        {
+          "t": "p",
+          "x": "For the first time in years, generative AI is reshaping how software is used at its core. This piece argues that designers stand at the center of that shift."
+        },
+        {
+          "t": "p",
+          "x": "Today's AI experience mostly stops at chat windows and prompts. The author asks who will build the patterns beyond that, the new interfaces that do not even have names yet."
+        },
+        {
+          "t": "p",
+          "x": "In the end, the answer falls to designers. If they do not start prototyping now, someone else will fill that space."
+        }
+      ]
+    },
+    "design/aibluff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv"
+        },
+        {
+          "t": "p",
+          "x": "The writer says designers have spent the past decade hiding behind interfaces — polishing screens with precision came to be seen as proof of skill in itself."
+        },
+        {
+          "t": "p",
+          "x": "But that shield disappeared once AI started generating interfaces directly. As the work of pushing and pulling pixels became automated, the question of what's left behind it rose to the surface."
+        },
+        {
+          "t": "p",
+          "x": "What's left is judgment, taste, and the ability to decide how to frame a problem. The real leverage of a designer, it argues, is now the sense of what to make and why — not the hand that draws the screen."
+        }
+      ]
+    },
+    "design/dscontract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png"
+        },
+        {
+          "t": "p",
+          "x": "Does a design system's component live in Figma or in code? The writer's answer is 'neither.' The real component is the contract at the center, and Figma and code are just two honest copies of that contract."
+        },
+        {
+          "t": "p",
+          "x": "This view becomes more urgent now that AI agents are generating both sides. When different agents produce the design and the code, the two copies quietly start to drift apart unless someone decides which one is the original."
+        },
+        {
+          "t": "p",
+          "x": "Treating the component as a contract gives design system teams a concrete management model. Neither Figma nor code holds a monopoly on the truth; both are verified by whether they keep the contract."
+        }
+      ]
+    },
+    "design/hallmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png"
+        },
+        {
+          "t": "p",
+          "x": "Screens made by agents carry a distinct smell: Inter fonts, purple gradients, identical-looking cards. The writer calls this unmistakable 'AI made this' impression 'AI slop.'"
+        },
+        {
+          "t": "p",
+          "x": "Hallmark is a design skill that intercepts these defaults. Attach it to Claude Code, Cursor, or Codex, and when an agent builds a UI, it steers toward brand-aware design instead of the generic default style."
+        },
+        {
+          "t": "p",
+          "x": "The point is practicality. It's not a discussion but a device you can attach to your tools right now, and designers can install it tomorrow to erase that telltale look."
+        }
+      ]
+    },
+    "design/lightcraft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "We got hands-on with Lightcraft's Spark Story, unveiled at SIGGRAPH 2026. It's a virtual production tool that starts from the script, letting writers, directors and cinematographers build and shoot a virtual set together."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shooting only requires a single iPhone. What stands out is that you can block out a scene already at the script stage, even before any real location or set exists."
+        },
+        {
+          "t": "p",
+          "x": "That means checking framing and blocking long before a physical space is ready, which sharply lowers the barrier to previsualization."
+        }
+      ]
+    },
+    "design/zephyr9": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "3Dflow has released version 9.0 of its photogrammetry software 3DF Zephyr. The headline feature is 3D Gaussian splat generation. With just source images or video, you can now produce point clouds, meshes and Gaussian splats in a single workflow."
+        },
+        {
+          "t": "p",
+          "x": "Gaussian splatting is a neural-radiance-family capture method with a strength for lightly reproducing near-photoreal scenes. The significance of this release is that a technique once confined to research and experimentation has now entered a mainstream capture tool."
+        },
+        {
+          "t": "p",
+          "x": "As a result, professionals moving from capture to 3D now have a new production path they can try today. Since this is a shipped feature rather than commentary, it's worth putting straight into a pipeline."
+        }
+      ]
+    },
+    "design/ax-orchestration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*oClaxaWA_8gphYwyopqP7g.png"
+        },
+        {
+          "t": "p",
+          "x": "Five manual steps collapse into a single delegation, and everything that once coordinated them drops below the line, into a layer no one was ever trained to draw. Image generated with Gemini."
+        },
+        {
+          "t": "p",
+          "x": "I read John Maeda's Design in Tech Report late, on my phone, skimming it the way you skim something you already agree with. He named this shift, and the name was good. From UX to AX. From user experience to agent experience."
+        },
+        {
+          "t": "p",
+          "x": "Then my thumb stopped on one word."
+        },
+        {
+          "t": "p",
+          "x": "Maeda describes the new work as \"moving from building interfaces to orchestrating outcomes.\" Not design, not layout, not flow—orchestration. I already had a folder for that word, but its label wasn't 'trend,' it was 'layer.' Maeda uses the word to point at where design is heading, at a movement."
+        },
+        {
+          "t": "p",
+          "x": "That gap between a word pointing at a movement and a name pointing at a place is what this piece is about. Not because either is wrong. The movement is easy to see—the feed is full of it. The place is not. And that place is exactly where real design work now lives. (This is a Medium members-only piece, so only the public preview is translated here.)"
+        }
+      ]
+    },
+    "design/logo-quits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "k3_VO8HybME"
+        },
+        {
+          "t": "p",
+          "x": "This covers a controversy from last week. A well-known logo designer publicly stepped away, saying, \"AI is better than me.\""
+        },
+        {
+          "t": "p",
+          "x": "Gary Simon puts Fable 5 to the test. He has it create nine logo concepts for three businesses, to see how well it does and whether it really beats a professional logo designer."
+        },
+        {
+          "t": "p",
+          "x": "The video opens with the controversy, walks through the logos for each business, and closes with his overall verdict."
+        }
+      ]
+    },
+    "design/terminal-canvas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*DWyRC6NyUUgkB5GW1mkmyQ.png"
+        },
+        {
+          "t": "p",
+          "x": "For his entire career, his creative tool was a canvas—Figma, Illustrator, a sketchbook, a wall. Something he could see and shape with his hands."
+        },
+        {
+          "t": "p",
+          "x": "But for close to two years now, that canvas has been the terminal."
+        },
+        {
+          "t": "p",
+          "x": "All day, in front of a black screen, he talks to agents, runs commands, reviews code, gives feedback, and spins up yet another agent, trying not to lose track of what they're doing."
+        },
+        {
+          "t": "p",
+          "x": "The strange part is he has never been this productive. He builds in a day what used to take weeks, digs into ten ideas at once instead of one, and ships faster than ever."
+        },
+        {
+          "t": "p",
+          "x": "It's good. But it's also terrifying. (This is a Medium members-only piece, so this card translates only the public preview.)"
+        }
+      ]
+    },
+    "design/agent-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A question an agent asks isn't decorative conversation. It's a handoff of responsibility — a sign that the system has reached a boundary it shouldn't cross alone. The interface must explain that decision, preserve the work already done, show the consequences of each choice, and resume without creating new busywork."
+        },
+        {
+          "t": "p",
+          "x": "Many products treat this moment as just another chat bubble, which only works if a person is already watching. Long-running tasks need an 'interruption contract' that survives closed tabs, mobile notifications, time differences, and expired context. A question isn't the same as a chat message — it can change task state, pause resource use, and needs clear rules for resuming."
+        },
+        {
+          "t": "p",
+          "x": "Every interruption should carry six things: the smallest question that unblocks the work (decision), why the system can't safely choose on its own (rationale), the files, logs, or previews that help answer it (evidence), what each choice changes (consequence), when the answer goes stale (expiration), and what happens if the user delays or lacks permission (recovery). 'Which branch should I use?' is worse than: 'Choose a target branch for the auth patch. main is protected, so it opens a PR; release/2.4 patches the current release directly. No files have been changed yet.'"
+        },
+        {
+          "t": "p",
+          "x": "Questions, approvals, and confirmations carry different risk. Design a light question about a branch to be reversible; an approval to run a migration should show scope, side effects, who's responsible, and expiration; an irreversible confirmation should disclose what's lost and any safer alternative. Don't ask for credentials in chat — use a trusted authentication flow instead. On the backend, all of these can share a single 'input needed' state, but on screen, a low-risk question must never be dressed up to look like an operational approval."
+        },
+        {
+          "t": "p",
+          "x": "A notification is a pointer, not a decision screen. It should carry only enough to signal priority, with sensitive evidence and irreversible actions kept behind authentication. Don't put repository contents or an 'approve' button directly on the lock screen. When someone follows the link, re-verify their account, role, the task's version, and whether that decision is still valid. While they wait, show whether computation is still running, whether partial results were saved, whether another person could answer, and when time runs out. Expiration should surface before it happens, not after."
+        },
+        {
+          "t": "p",
+          "x": "After an answer comes in, log who decided what, when, and which version acted on it, so the agent doesn't ask the same question again if it fails later. If the repository or policy changed while waiting, gracefully roll back the stale answer and request a new decision along with the analysis that was preserved. The time an agent spends paused isn't dead time — it's the moment authority changes hands. That handoff deserves as much care in its design as the actions it will authorize."
+        }
+      ]
+    },
+    "design/fireship-sol": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "URKml8lgw8Y"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI unveiled GPT-5.6. It includes a new Sol model that appears to outdo Claude Fable. Fireship takes a quick look at the model and what it means for building things with AI."
+        },
+        {
+          "t": "p",
+          "x": "Why release it now, and does it actually deliver on its benchmark numbers? The video centers on these two questions in giving first impressions of GPT-5.6 Sol."
+        }
+      ]
+    },
+    "design/interface-left": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "We keep having to ask ourselves what we're actually designing in 2026. For thirty years, the answer was the screen. We built information hierarchies out of menus, modals, and buttons, and obsessed over pixels. That language is now splitting in several directions. People talk to software, hand it tasks, and increasingly don't touch it at all. Screens still exist, but they're no longer the central surface."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/0*3TvKprbciicWhw1X"
+        },
+        {
+          "t": "p",
+          "x": "The first shift was chat. In 2025, 73% of companies used some form of conversational interface for customer service. But chat isn't automatically good UX. Erika Hall points out that conversation is the right choice only when the system needs to negotiate meaning with the user. When what you want is clear, like 'add to cart,' structure is faster. In 'generative UI,' where the interface assembles itself in real time, the designer's job shifts from drawing every state to building the system that generates states."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*dn6MbbIIlwobt0jnUcrt_Q.png"
+        },
+        {
+          "t": "p",
+          "x": "Voice kept making promises for a decade, but the tide turned in listeners' ears in late 2025. The new Siri Apple released in June 2026 isn't a voice assistant bolted onto a device — it's a conversational layer that moves across devices. A question started on the iPhone can continue on the iPad without losing context. As Clifford Nass's research showed, the human brain treats voice as a social channel, not a command line. That's why Humane AI Pin, with its 2-5 second response times and lost context, folded within a year. Voice UX is especially unforgiving of latency and lost context."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/0*f9931MVuWVZFOSoY.png"
+        },
+        {
+          "t": "p",
+          "x": "The most radical shift is agents, where the interface disappears entirely. Agents don't just answer questions — they dig through the web, write code, and send email. Gartner expects that by the end of 2026, 40% of enterprise apps will have a task-specific agent attached. The challenge is how to present an agent that needs no interface to do its work to a user who needs an interface to trust it. The cases that get this right hold to three things: show the plan in plain language before acting, hand over autonomy only as far as trust has been earned, and let people stop and regain control at any time."
+        },
+        {
+          "t": "p",
+          "x": "The thread running through all three forms is a shift from interaction to intent. Traditional UX assumed users arrived already holding an intent, but people actually arrive holding a goal, not an intent. Designers are no longer architects of interaction; they're architects of the trust relationship between people and delegated systems. Even so, some things haven't changed: people still want to be understood, still fear losing control, still punish opacity and reward honesty. What's changed is only the surface onto which that psychology gets projected."
+        }
+      ]
+    },
+    "design/taste-delegated": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The cheaper AI makes execution, the more strategic thinking becomes the real edge. Now that anyone can produce an interface or an image in seconds, a designer's worth no longer lies in making more. It lies in knowing which outcomes deserve to exist."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*IE9hoyTwzWtd3hUTEOI9Ow.png"
+        },
+        {
+          "t": "p",
+          "x": "As generative AI gets better, the claim spreads that 'AI learns taste.' Models train on vast data about what people prefer and often predict it well. But prediction is not judgment. \"Preference tells you what people choose; judgment explains why that choice is right.\" A model can pick up the statistic that a clean layout performs well, but it does not know the intent behind it. It cannot tell whether removing one element creates clarity or erases character."
+        },
+        {
+          "t": "p",
+          "x": "Before the iPhone, conventional wisdom held that any serious mobile device needed a physical keyboard. Every signal pointed that way. Apple asked a different question and erased the interface itself. That was not optimization — it was a bet on a future users had not yet experienced. Optimization improves what exists; judgment decides what should come next."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*dtCcwFyLdGcAvFUpKhobzw.png"
+        },
+        {
+          "t": "p",
+          "x": "AI did not create this problem. Organizations have long turned judgment into a sum of preferences. Once a design proposal reaches a meeting, everyone becomes a reviewer. As participation grows, accountability quietly disappears, and the strongest option settles into the safest one. No one asks for a mediocre design, but mediocrity is what remains when every stakeholder must be satisfied equally. When Mastercard dropped its name from the logo in 2016, the move looked risky by the metrics, but it was a judgment that the two overlapping circles already carried the brand."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*fG1vvRFCwbsLmslmRZ-UWg.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Products are increasingly refined by metrics. Clicks, conversions, and time on page show how well a team is hitting today's goal, but they rarely say whether that goal was the right one to set. The New York Times' 2012 \"Snow Fall\" was a format no dashboard could have measured; judgment came first, metrics came after. A design leader's worth lies not in having the strongest taste, but in weaving aesthetics, strategy, user behavior, constraints, and brand into one point of view that resolves disagreement. A healthy organization rests not on consensus but on clear ownership."
+        },
+        {
+          "t": "p",
+          "x": "Taste builds up through exposure to great work, through learning history, proportion, and typography. Judgment appears only when that taste meets accountability. It grows when decisions carry consequences and when someone holds a direction even without certainty. AI will keep getting better at predicting preference, and organizations will keep getting better at gathering opinions. Neither produces judgment. AI changes how things get made, but it does not change who is responsible for deciding what deserves to exist. Taste can be assisted. It cannot be delegated."
+        }
+      ]
+    },
+    "design/tokens-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For a decade, the author wrote design tokens for human engineers. In 2026, the kind of actor consuming design systems changed. Tokens were always a contract: data stating that this is what we mean by blue, this is the spacing rhythm, a promise that let code use those values even without a designer present."
+        },
+        {
+          "t": "p",
+          "x": "At Dell, the author rebuilt the token structure around that idea. The foundation was solid, but the system sat frozen like a black box. The real obstacle wasn't the governance executives assumed; it was that designers had named tokens for designers, with no export pipeline, and the frontend engineers who actually used the tokens were left out of the naming process. The team layered a semantic hierarchy on a simplified core, added light and dark modes, and shipped it as JSON and CSS across every screen on dell.com. The lesson: naming is a product decision, and it should serve the actual consumer, not the author."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
+          "cap": "How tokens became prompts for machines"
+        },
+        {
+          "t": "p",
+          "x": "That consumer changed again. By 2026, machines write a large share of new UI code. Half of surveyed designers said they had shipped AI-generated code to production. Claude Design reads and applies a team's design system directly from the codebase, and Figma released a native AI design agent. In every product team, coding agents now churn out components faster than design review can keep up."
+        },
+        {
+          "t": "p",
+          "x": "Generated UI has its own failure mode: speed without memory. Every session, every model, every prompt invents its own spacing, grays, and corner radii. Each one looks plausible on its own, but together they drift apart. Drift that used to take an organization several quarters now happens in half a day with a swarm of agents."
+        },
+        {
+          "t": "p",
+          "x": "This is where the roadmap shifts. When an agent generates UI, what it reads isn't a Figma library — it's the repository: token files, component signatures, and documentation if the format can be parsed. Figma itself built a Dev Mode MCP server and said output quality tracks how well the system is connected; the documented failure mode is hardcoded values creeping in when the machine can't read the system. The machine-facing surface is now the primary interface. Token files have stopped being export artifacts and become prompts."
+        },
+        {
+          "t": "p",
+          "x": "If tokens are prompts, a new problem appears. Prompts are suggestions, and models, like busy people, follow them only partway. Governance that relies on convention has always collapsed, and the only enforcement point that doesn't collapse is the build. For a Rust-based authoring IDE, the author rebuilt the shadcn/ui design language for egui, building more than 60 components token-first. Tests were locked in so that the build breaks if a color, font size, or spacing literal appears anywhere above the token layer. After weeks of pairing daily with a coding agent, the system still didn't drift — not because the model showed restraint, but because the build enforced it."
+        },
+        {
+          "t": "p",
+          "x": "Mockups were never the product, and now even the component library isn't the product. The product is the constraint system that still makes a thousand generated screens recognizably yours. That work is taste, hierarchy, and intent, but it ships as tokens, tests, types, and documentation. Designers who can work that layer are becoming the most leveraged people in the organization. The brand guidelines PDF has died twice: first, tokens replaced it because people wanted data, not prose; now, as the machine-facing surface takes over, that prose dies again. Design tokens are now prompts. The build is the reviewer."
+        }
+      ]
+    },
+    "design/visual-native": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After a decade led by word-based large language models, researchers are now betting on models that reason directly in images rather than text."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Andrew Dai, a veteran AI researcher who left Google DeepMind, founded the startup Elorian AI, which emerged from stealth in April."
+        },
+        {
+          "t": "p",
+          "x": "The visual reasoning model Elorian is building thinks directly about images. Much as a person pictures something in their mind, it builds a dense 3D internal map of the image."
+        },
+        {
+          "t": "p",
+          "x": "This differs from today's multimodal approach. Models like Google's Gemini, when processing an image, first describe it densely in words, then reason over that text to make judgments about the image."
+        },
+        {
+          "t": "p",
+          "x": "Dai believes visual images are as fundamental to model intelligence as language — perhaps more so. He says frontier language models have hit a wall because they can't properly reason about the physical world."
+        },
+        {
+          "t": "p",
+          "x": "Elorian, which he co-founded with Yinfei Yang, a machine learning researcher formerly of Apple, gives visual data the same standing as language tokens inside the model's architecture."
+        }
+      ]
+    },
+    "design/best-ai-tools-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6OpWU-HrsuQ"
+        },
+        {
+          "t": "p",
+          "x": "The design channel Build Great Products put the leading 2026 AI design tools head to head: Figma, Anthropic's Claude Design, and Google Stitch."
+        },
+        {
+          "t": "p",
+          "x": "All three tools were given the exact same brief to compete under the same conditions. The point wasn't flashy demos but which one fit into an actual product design workflow."
+        },
+        {
+          "t": "p",
+          "x": "The results varied by tool. Some produced drafts quickly, while others proved more useful at the refinement stage."
+        }
+      ]
+    },
+    "design/daniel-porto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w2frQCRmA29oa6Dy8McJwU-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Daniel Porto, a concept artist with more than 20 years of experience, says AI didn't replace him. Instead, he says, it multiplied his long career several times over."
+        },
+        {
+          "t": "p",
+          "x": "He sees the real edge not in the tool itself but in what comes before it: the creative eye and sense of direction that decide what to draw."
+        },
+        {
+          "t": "p",
+          "x": "AI only makes the hand faster, he concludes. Where to go is still something a person decides."
+        }
+      ]
+    },
+    "design/illusion-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KSVwbVdmgFXa26FozrvfJ7-1910-80.png"
+        },
+        {
+          "t": "p",
+          "x": "A new typeface is designed to read perfectly fine to the human eye while appearing scrambled to AI and OCR. It's a font that uses optical illusions."
+        },
+        {
+          "t": "p",
+          "x": "The purpose is clear. It's an attempt to push back, with the touch of craft, against machines scraping visual work and reinterpreting it however they please."
+        },
+        {
+          "t": "p",
+          "x": "There are limits, of course. Even its creator added a caveat: “it works for now.” How long it holds up as models keep training is unknown."
+        }
+      ]
+    },
+    "design/no-more-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an era when AI gets attached to everything, this piece pushes back. Every product piles on new AI features, but users aren't actually welcoming it."
+        },
+        {
+          "t": "p",
+          "x": "The author reads this fatigue not as mere complaining but as a design signal. Where a designer decides to put AI and where to hold back is itself what separates good experiences from bad ones."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion is clear. Restraint — placing AI only where it's truly needed, rather than piling it on — is becoming the skill that matters going forward."
+        }
+      ]
+    },
+    "design/meta-regret": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta quietly shelved the AI creation tool it had been pushing and belatedly expressed regret. Creative Bloq does not take the apology at face value."
+        },
+        {
+          "t": "p",
+          "x": "The piece's analogy is sharp: it is like a burglar who ransacks a house and then says sorry. If the apology only comes after all the damage is done, it looks less like sincerity toward creators and more like a gesture meant to cover up the mess."
+        },
+        {
+          "t": "p",
+          "x": "What remains, in the end, is a question of trust. Every decision a platform makes to launch, pull, and reverse AI features shakes the ground under the tools creators rely on. What to trust enough to build work on is the real question the piece raises."
+        }
+      ]
+    },
+    "design/agents-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you've used Cursor, Claude Code, Codex, v0, Bolt or Lovable, there's a scene you'll recognize."
+        },
+        {
+          "t": "p",
+          "x": "Inter font everywhere, a gradient flowing from purple to indigo, a hero section followed by three feature cards and a pricing table. It looks fine inside the chat, but the moment it goes live, it unmistakably reads as a template."
+        },
+        {
+          "t": "p",
+          "x": "The model isn't to blame — the design context handed to the model is."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png"
+        },
+        {
+          "t": "p",
+          "x": "agents.design is a curated gallery of design resources for AI coding agents. It includes DESIGN.md specifications for agents to follow directly, along with copy-paste prompts tailored for coding agents."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works: pick a design that matches your product's mood, then either copy the prompt or download the template and DESIGN.md, and paste it into Cursor, Claude Code, Codex, v0, Bolt or Lovable."
+        },
+        {
+          "t": "p",
+          "x": "AI coding tools are remarkably good at implementation, but without a proper design system, structure and constraints to work from, their taste stays generic. The templates keep growing, and you can browse the free designs or open the whole catalog at once."
+        }
+      ]
+    },
+    "design/canva-code2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Canva released Canva Code 2.0 on Tuesday. It's a major upgrade to the AI coding tool that lets people write plain-language prompts to build interactive websites, apps and other experiences, then edit the results the way they'd edit a Canva presentation. This time it has opened to Canva's entire user base of more than 265 million monthly users, across every plan including free accounts."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
+          "cap": "A prompt turning into a finished website"
+        },
+        {
+          "t": "p",
+          "x": "It's Canva's most aggressive move yet into the \"vibe coding\" market. A category that barely existed 18 months ago has already produced several startups worth trillions. While competitors like Lovable, Replit and Bolt.new have focused on generating code that runs from a prompt, Canva is betting differently — on the idea that the real bottleneck isn't the code, but making the output look good."
+        },
+        {
+          "t": "p",
+          "x": "Danny Wu, Canva's head of AI products, made the target audience clear in an interview with VentureBeat. \"We are deliberately targeting non-developers,\" he said. Canva Code isn't meant for developers, he said; it's meant to bring the power of AI coding into Canva to answer users' demand for more interactivity, customized editing and flexibility."
+        },
+        {
+          "t": "p",
+          "x": "This update includes several features that close the gap between code generation and a finished result. Users can now create Canva Code projects directly inside whiteboards, presentations or standalone pages, and more than 50 new templates for interactive designs have been added. It also added the ability to import raw HTML built with other AI coding tools and convert it into an editable Canva design."
+        },
+        {
+          "t": "p",
+          "x": "Performance has also improved noticeably. Canva said it cut average code generation time by 75% and reduced the median time from first prompt to site publication by 30%. It also said active Code users grew 25% after it integrated Canva Code across the editor, treating coded output like any other design element."
+        },
+        {
+          "t": "p",
+          "x": "What stands out most is the editing experience. Users can click directly on generated elements to change text, drag and drop images from Canva's library of more than 120 million templates and assets, change colors and fonts with the toolbar, or select a specific element and refine it with conversational AI. The result is fully interactive, resizes automatically to the screen, and includes a mobile preview."
+        },
+        {
+          "t": "p",
+          "x": "According to a survey Luminix AI released in May 2026, the vibe-coding and AI app-builder market is worth $4.7 billion in 2026 and is projected to grow at roughly 38% a year to $12.3 billion by 2027. An estimated 41% of code written worldwide is already AI-generated. Lovable reached about $400 million in annual recurring revenue (ARR) in early 2026, while Replit has tripled its valuation to $9 billion and is targeting a $1 billion run rate by year-end. Bolt.new grew its ARR from $4 million to $40 million in a matter of months."
+        },
+        {
+          "t": "p",
+          "x": "The HTML import feature brings code built with any tool — ChatGPT, Claude, Lovable, Bolt and others — into an editable Canva design. It's a move to position Canva as the place where AI-generated code gets its finishing touches. The models powering Canva Code are a mix of in-house and external models, including OpenAI and Anthropic, though Canva hasn't disclosed the exact combination. In the year since launch, users have published more than 6 million sites."
+        }
+      ]
+    },
+    "design/design-org": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Picture a strategy meeting. The moment when someone insisted, with conviction, that design thinking needed to be embedded across the whole organization."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Author Zeeshan Khalid poses the question this way: if integrated design means design seeping into every corner of an organization, what does it look like when AI seeps into every corner of design?"
+        },
+        {
+          "t": "p",
+          "x": "He draws a sharp line between simply using AI as a tool and having AI permeate the design process itself."
+        },
+        {
+          "t": "p",
+          "x": "His final question turns to identity and agency. Now that even the entity that designs everything is itself being redesigned by machines, what is a designer, and what is an organization?"
+        },
+        {
+          "t": "p",
+          "x": "This piece is for Medium members only, so only the public introduction has been translated here."
+        }
+      ]
+    },
+    "design/generative-ui2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Part one's claim was simple: a web page can behave like a capable salesperson. It observes with consent, classifies by behavior, and removes friction for each visitor. But any claim about runtime behavior is just theory until it's tested. So the author built an entire e-commerce shop on top of IBM Carbon using ui-morph, and ran a lab where a real model proposed screen variations from the entry page to order confirmation, replaying 200 deterministic virtual shoppers. The concept held up, and so did the economics."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
+          "cap": "Five shoppers, one shop, the same five manipulations — only the persona differed"
+        },
+        {
+          "t": "p",
+          "x": "The demo shop, called NOVA, sells laptops and gear. There's one version, one HTML per page, one manifest per route, and five allowed manipulations. Every visible difference came from decisions the engine made based on a visitor's quantized persona. Tech-savvy visitors get a data-first dark theme, while gamers get g100 tokens with purple accents. Both arrived through the exact same URL as everyone else."
+        },
+        {
+          "t": "p",
+          "x": "The most striking case is the persona with the least tech affinity. \"Dona Marta\" arrives from an ad for \"laptop fino branco presente\" (a thin white laptop as a gift), and that search term becomes the first signal. On the product page, the engine moves the gallery ahead of the spec table, shows size comparisons against everyday objects, pre-selects white, collapses the specs, and routes checkout to guest mode. Each manipulation gets a plain-language reason logged in the audit trail. No designer built these pages persona by persona — the engine simply assembled them from a vocabulary the page had already declared."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5iqwq5kwh1ddw23tklvd.webp",
+          "cap": "Dona Marta's product page: gallery first, size comparison, white preselected"
+        },
+        {
+          "t": "p",
+          "x": "Part one's core promise was pre-adaptation: pre-compiling the next page's changes while a visitor is still on the current page, and applying them at the boundary, so the layout never shifts beneath the cursor. The lab deterministically replayed seeded scripted shoppers across the entire funnel. Across 200 sessions, page arrivals topped 1,000, and 72% of those were served from cache. Exact hits and similarity substitutions split the total about evenly. Early in a session, as the persona evolves with each page, exact keys kept missing, but deterministic similarity on the quantized keys filled that gap and now accounts for a third of all arrivals on its own."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftsewceyfre1smtuv3f0w.webp",
+          "cap": "The accessories page, pre-fitted while the user was still on the previous page"
+        },
+        {
+          "t": "p",
+          "x": "For most of the journey, the cold path was a human-written deterministic mockup. The real model then took over and, given the same gift persona, made choices that were different but equally plausible: it kept the hero, hid the comparison table, and led with the gift guide. The median exchange took 5.5 seconds of background time that the visitor never once had to wait for."
+        },
+        {
+          "t": "p",
+          "x": "For twenty years, interface design meant picking a single layout for everyone. You settle on the persona you trust most, the page freezes in place, and everyone else gets a compromise. Generative UI removes that constraint and raises the designer's medium up a level. Instead of a layout, it builds a space of permitted layouts: it decides what's allowed to move, which variants and themes can be offered, which zones are protected, and which traits and goals to read. The moment the engine reads the signal, Dona Marta got her own page made from components that already existed. The economics of serving the long tail get turned upside down."
+        },
+        {
+          "t": "p",
+          "x": "The next steps are already lined up: an outcome feedback loop where chains that fail to help a persona retire and recompile themselves; React and Vue shop adapters; a richer trait vocabulary that rescues 12 unmapped search terms; a shared chain store that turns compiled adaptations into common knowledge; and a pilot on a live site with real traffic."
+        }
+      ]
+    },
+    "design/intern-desk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autonomous has released a new version of its AI Intern, a plug-and-play AI super-assistant you set on your desk and start using right away."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With this upgrade, the Intern has gained thought and voice. In the company's words, the only difference between this intern and the colleague at the next desk is that the intern works without limits."
+        },
+        {
+          "t": "p",
+          "x": "Aimed at creators, the device handles social media posts and everyday scheduling and administrative tasks, and even takes on labor-intensive work like coding. It's effectively a test of how much of the busywork a small creative team carries can be absorbed."
+        },
+        {
+          "t": "p",
+          "x": "Unlike an AI colleague that lives in a browser tab, this hardware runs around the clock. It keeps track of schedules and sorts email even while the main computer is asleep."
+        },
+        {
+          "t": "p",
+          "x": "Instructions can be given by text or voice, and tasks can also be handed off through team chats like Slack, Discord or Telegram. Processing happens on the device itself, not in the cloud."
+        }
+      ]
+    },
+    "design/leaders-fast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A design head in the cybersecurity industry puts it this way: design production time has dropped from four days to six or eight hours, and time to launch has shrunk exponentially. Still, she adds, refining internal processes is the easy part."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Thanks to AI, research that once took weeks now takes days, and concept sketches that used to eat up an entire afternoon now take 20 minutes."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that executives keep asking for even more speed on top of that. Generation has gotten faster, but thinking time hasn't changed."
+        },
+        {
+          "t": "p",
+          "x": "So author Kai Wong goes through, one by one, how 32 design leaders actually respond when they're under speed pressure."
+        },
+        {
+          "t": "p",
+          "x": "The full piece is for Medium members only, so only the public portion has been translated here."
+        }
+      ]
     }
   }
 }

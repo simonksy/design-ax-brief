@@ -1071,6 +1071,486 @@
           "x": "Los cuatro modelos infirieron mal la confiabilidad y la competencia solo a partir de fotos de rostros. Ninguno respondió de forma neutral ni se negó a la solicitud. Al juzgar la competencia, los cuatro modelos mostraron un sesgo mayor que el de las personas. Los investigadores concluyeron que modelos como GPT no solo imitan el sesgo, sino que lo internalizan como concepto y lo llevan a decisiones de alto riesgo, como juzgar la criminalidad o el valor de una inversión."
         }
       ]
+    },
+    "science/amber": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Físicos de UC Irvine crearon un sistema de aprendizaje por refuerzo llamado AMBer. En lugar de limitarse a ajustar datos, el sistema diseña por sí mismo modelos de física de partículas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-helps-explai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Gracias a ello, los investigadores pueden explorar un vasto espacio teórico que los humanos nunca habían tocado. AMBer recorre ese territorio desconocido y selecciona los candidatos más prometedores."
+        },
+        {
+          "t": "p",
+          "x": "El resultado que más atención atrajo tiene que ver con los neutrinos. La propia IA propone una nueva explicación para el viejo enigma de por qué esta partícula tiene una masa tan diminuta."
+        }
+      ]
+    },
+    "science/kandy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Clarkson presentaron KANDy. El nombre refleja la aplicación de redes de Kolmogorov-Arnold a la dinámica, una herramienta de IA para tratar el movimiento de sistemas complejos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/clarkson-researchers-d.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos existentes se centraban en predecir el estado del instante siguiente. KANDy va un paso más allá y recupera las propias ecuaciones que gobiernan ese movimiento."
+        },
+        {
+          "t": "p",
+          "x": "Extrae leyes ocultas incluso en datos con ruido y no lineales. La diferencia está en que, en lugar de una predicción de caja negra, ofrece una fórmula que una persona puede leer."
+        }
+      ]
+    },
+    "science/nanoshape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de iCONM y la Universidad de Tokio entrenaron un modelo de aprendizaje profundo que lee la forma de nanopartículas en solución usando solo datos habituales de seguimiento de nanopartículas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-nanoparticl.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La precisión superó el 80%. El punto clave es que el resultado se logró con el equipo que el laboratorio ya tenía, sin incorporar hardware nuevo."
+        },
+        {
+          "t": "p",
+          "x": "En definitiva, un solo programa reduce la barrera de entrada para el análisis cotidiano de nanopartículas: una mejora práctica que se puede usar desde mañana mismo."
+        }
+      ]
+    },
+    "science/betadescribe-protein": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del Technion y la Universidad de Tel Aviv desarrollaron BetaDescribe, un sistema de IA que traduce secuencias de proteínas a descripciones en lenguaje natural. El trabajo, publicado en Proceedings of the National Academy of Sciences (PNAS), llena un vacío importante en el análisis de proteínas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-translates-p.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Determinar las propiedades de una proteína consume mucho tiempo y dinero en medicina y biotecnología. Ozempic, un tratamiento para la obesidad y la diabetes, es un ejemplo de cómo la investigación con péptidos condujo a una terapia innovadora, inspirada en un compuesto de la saliva de un lagarto del desierto. Aunque los grandes modelos de lenguaje han avanzado, no han logrado describir bien las proteínas desconocidas."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de los métodos existentes, que dependen de la similitud, BetaDescribe combina un modelo generativo con mecanismos de verificación y evaluación. Esto le permite inferir la función de proteínas con poca relación con secuencias ya conocidas. Puede indicar propiedades funcionales, actividad catalítica, participación metabólica e incluso sitios de unión relevantes para la medicina."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación demostró el rendimiento del sistema describiendo “seis proteínas cuya función no se había identificado antes”. La tecnología puede generar rápidamente “hipótesis basadas en evidencia sobre la función de proteínas desconocidas”, lo que podría acelerar la investigación médica y el descubrimiento de fármacos y reducir considerablemente los plazos de desarrollo."
+        }
+      ]
+    },
+    "science/chatbot-therapy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La psicóloga clínica, la Dra. Judith S. Beck, se pregunta si recurrir a un chatbot de IA o buscar a un terapeuta humano cuando se necesita ayuda. Los grandes modelos de lenguaje como ChatGPT, Claude y Gemini se han extendido rápidamente en muchos sectores, pero ella señala que “hay pocas salvaguardas y una comprensión muy limitada de cómo afectarán a los usuarios a largo plazo”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/judith_beck.jpg",
+          "cap": "La psicóloga clínica, Dra. Judith S. Beck. Fuente: Psychology Today"
+        },
+        {
+          "t": "p",
+          "x": "Beck insiste en que los chatbots no son seguros para personas con pensamientos suicidas u homicidas, ni para quienes tienen enfermedades mentales graves como esquizofrenia o trastorno bipolar. Menciona casos de personas que se quitaron la vida, cometieron un homicidio o sufrieron un empeoramiento de síntomas psicóticos tras hablar con chatbots."
+        },
+        {
+          "t": "p",
+          "x": "Hay más riesgos. Los chatbots diseñados para complacer al usuario pueden reforzar creencias dañinas. Algunas personas tratan a los chatbots como si fueran personas y confunden una falsa empatía con una real. No bastan para problemas complejos, crónicos o sutiles, y pueden ocultar sesgos culturales, socioeconómicos o raciales. No pueden hacer evaluaciones integrales, no hay responsabilidad ni protección al consumidor, y no se garantiza la privacidad de información personal sensible. Depender demasiado de ellos también puede debilitar las relaciones humanas."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, tienen ventajas. Son gratuitos o baratos, están disponibles las 24 horas y dan sensación de anonimato. Transmiten técnicas terapéuticas de forma coherente, identifican patrones de pensamiento y conducta, y ayudan a planificar el día, resolver problemas, practicar habilidades y seguir hábitos de salud."
+        },
+        {
+          "t": "p",
+          "x": "La terapia humana también tiene desventajas claras. Es cara y requiere tiempo, y el acceso es limitado entre sesiones. Según la zona, los terapeutas pueden escasear, y su nivel y la afinidad con el paciente varían mucho."
+        },
+        {
+          "t": "p",
+          "x": "Un terapeuta competente, en cambio, realiza una evaluación biopsicosocial integral y elabora un plan de tratamiento individualizado según las características del paciente. Adapta estrategias basadas en evidencia a las necesidades de cada persona y sigue las emociones en tiempo real con empatía genuina. Lee las señales del cuerpo y del habla para cambiar de dirección, respaldado por responsabilidad y criterio clínico."
+        },
+        {
+          "t": "p",
+          "x": "Beck recomienda que las personas en estado grave, con pensamientos suicidas o que enfrentan dificultades complejas acudan a un terapeuta. En otros casos, aconseja probar un chatbot por un tiempo breve, observar cuánto se involucra uno, fijar objetivos y volver a evaluar la situación después de un mes."
+        }
+      ]
+    },
+    "science/chemgraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las computadoras transformaron el diseño de materiales al permitir ejecutar simulaciones virtuales antes de los experimentos físicos. Pero construir simulaciones precisas hasta el nivel atómico requería un profundo conocimiento de química computacional. Investigadores del Laboratorio Nacional de Argonne, dependiente del Departamento de Energía de EE. UU., presentaron ChemGraph, un marco de código abierto que usa IA para simplificar ese flujo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "ChemGraph gestiona automáticamente varias etapas de los cálculos de química computacional y ciencia de materiales. Podría acelerar el desarrollo de baterías, mejorar la eficiencia de motores y avanzar en la extracción de materiales clave. Los resultados se publicaron en la revista Communications Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "El equipo construyó ChemGraph usando recursos de la Instalación de Computación de Liderazgo de Argonne (ALCF). Se utilizó la supercomputadora exascale Aurora y el Servicio de Inferencia de ALCF, que permite usar grandes modelos de lenguaje como si fuera un servicio en la nube."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-2.jpg",
+          "cap": "Murat Keçeli y Thang Duc Pham, de Argonne, revisan resultados con ChemGraph. Fuente: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "Antes, ejecutar una sola simulación requería conocimientos de nivel doctoral y decenas de pasos: elegir el método científico adecuado, encontrar software compatible, preparar los datos de entrada y ajustar parámetros a través de una secuencia de cálculos antes de llegar a una conclusión. ChemGraph divide este proceso entre agentes dedicados, es decir, asistentes que se encargan de la planificación, la ejecución y la recopilación de datos."
+        },
+        {
+          "t": "p",
+          "x": "Hace unos diez años, el científico computacional de Argonne Murat Keçeli empezó a automatizar tareas químicas con métodos basados en reglas. En 2017, desarrolló la Quantum Thermochemistry Calculator durante un posdoctorado con el investigador distinguido de Argonne Stephen Klippenstein. Cuando surgió ChatGPT a finales de 2022, vio una oportunidad. “Cuando ocurrió ese salto en los grandes modelos de lenguaje, pensé que debíamos volver a automatizar ese flujo de trabajo”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Cuando un investigador describe un problema científico en lenguaje sencillo, ChemGraph traduce la solicitud en las tareas computacionales, herramientas de software y análisis necesarios. El equipo lo diseñó para que solo invoque los tipos adecuados de herramientas y bibliotecas, reduciendo el riesgo de que la IA generativa invente respuestas. “No queremos que el modelo de lenguaje simplemente responda la pregunta”, dijo Thang Duc Pham, investigador posdoctoral de Argonne y codesarrollador de ChemGraph. En cambio, el sistema “ejecuta simulaciones basadas en física para encontrar la respuesta”."
+        },
+        {
+          "t": "p",
+          "x": "Al principio construyeron un solo agente, pero las limitaciones surgieron al aumentar la complejidad. Cada tarea requería un modelo de lenguaje distinto: algunas podían resolverse con un modelo pequeño, mientras que otras necesitaban un razonamiento más sofisticado. Usar varios agentes resultó más eficiente. “Usar un solo tipo de LLM para todo arriesga desperdiciar costo y tiempo de cómputo asignado”, explicó Keçeli. El enfoque comienza la planificación con un modelo grande y devuelve la ejecución a uno más pequeño."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/team-unlocks-ai-for-ch-1.jpg",
+          "cap": "Las simulaciones de química cuántica, computacionalmente intensivas, se ejecutaron en la supercomputadora exascale Aurora del ALCF. Fuente: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "En una colaboración reciente, el equipo adaptó ChemGraph para la simulación y el análisis de estructura fina de absorción de rayos X cerca del borde (XANES), automatizando el trabajo de espectroscopía, y lo amplió para coordinar el cribado de materiales de alto rendimiento en Aurora. “Nuestro sueño es ofrecer ChemGraph como un servicio para los usuarios de ALCF a través de una interfaz tipo chatbot”, dijo Keçeli. A largo plazo, el objetivo es aumentar aún más la autonomía, de modo que el sistema pueda refinar por sí mismo tareas computacionales complejas con una intervención mínima."
+        }
+      ]
+    },
+    "science/pinn-drug-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Brown han desarrollado una nueva técnica de IA que predice la velocidad a la que los materiales de liberación lenta de fármacos liberan sus componentes terapéuticos. Podría reducir considerablemente el tiempo necesario para desarrollar parches terapéuticos, vendajes y dispositivos implantables."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-informed-ai-co.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vikas Srivastava, profesor asociado de ingeniería, dijo: “Ahora mismo, desarrollar materiales de liberación controlada depende de la experimentación. Se diseña un material, se prueba experimentalmente, se ajusta el diseño y se vuelve a probar, y eso lleva muchísimo tiempo. Lo que creamos es una red neuronal informada por la física que hace predicciones precisas con poca información, lo que ahorra mucho tiempo al desarrollar nuevos sistemas de administración de fármacos”."
+        },
+        {
+          "t": "p",
+          "x": "En el estudio, publicado en el Journal of Drug Delivery Science and Technology, el equipo probó un método que usa redes neuronales informadas por la física (PINN) para predecir las propiedades de materiales candidatos. Las redes neuronales habituales en IA suelen necesitar un entrenamiento y datos muy extensos para hacer predicciones precisas. Las PINN, creadas por primera vez por el matemático de Brown, el profesor George Karniadakis, incorporan en cambio las leyes físicas básicas directamente en el sistema. Eso reduce el tiempo de entrenamiento y permite predicciones precisas incluso con muy pocos datos."
+        },
+        {
+          "t": "p",
+          "x": "Srivastava trabajó con Danish Qureshi, quien se graduó de Brown en 2025, y con Kemraj Shukla, profesor asociado de matemáticas aplicadas. El equipo desarrolló una PINN que combina observaciones experimentales breves con la ley de difusión de Fick. Esta ley describe cómo las moléculas se desplazan de zonas de mayor concentración a zonas de menor concentración, lo que permite predecir el comportamiento a largo plazo de la liberación del fármaco."
+        },
+        {
+          "t": "p",
+          "x": "Usando datos experimentales existentes de varios materiales de liberación controlada, el equipo comprobó cuántos datos necesitaba la PINN para hacer predicciones que coincidieran con los resultados experimentales reales. En materiales simples y planos, las predicciones precisas surgieron con solo el primer 6% de los datos experimentales. Los materiales complejos y con pliegues necesitaron un 33%."
+        },
+        {
+          "t": "p",
+          "x": "Srivastava dijo: “Eso significa que reducimos el tiempo de experimentación un 94% en materiales simples y un 67% en materiales complejos. En el desarrollo farmacéutico, el tiempo es dinero. Esperamos que este método permita llevar los productos a los pacientes más rápido y a menor costo”."
+        },
+        {
+          "t": "p",
+          "x": "Para mejorar aún más la precisión de las predicciones, el equipo añadió una versión de la PINN de modelo de difusión que incorpora estadística bayesiana. Incluso los experimentos bien controlados contienen cierta incertidumbre y datos con ruido. La PINN bayesiana cuantifica esa incertidumbre y reproduce los datos experimentales con mayor precisión."
+        },
+        {
+          "t": "p",
+          "x": "El estudio se centró en parches externos y materiales de vendaje, pero el mismo concepto se aplica a otros sistemas de liberación controlada, como las pastillas. Srivastava dijo que el enfoque básico mostrado aquí también podría ser útil para esos sistemas. Y añadió: “Creo que esta investigación muestra dónde la IA puede contribuir de verdad al desarrollo de productos que mejoran la vida de las personas”."
+        }
+      ]
+    },
+    "science/rhine-rprocess": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigadores desarrolló una simulación basada en IA que podría ayudarnos a entender mejor cómo el universo crea sus elementos más pesados. Este modelo de aprendizaje automático, creado por un equipo internacional de GSI/FAIR, calcula las complejas reacciones nucleares que ocurren en eventos estelares violentos, como las fusiones de estrellas de neutrones, de forma mucho más eficiente que antes. Los resultados se publicaron en Physical Review D."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/neutron-star-merger.webp"
+        },
+        {
+          "t": "p",
+          "x": "Los numerosos elementos químicos que existen en el universo se crean en eventos extremos, como explosiones de supernovas o fusiones de estrellas de neutrones. Estas enormes explosiones generan la energía para la captura rápida de neutrones, o proceso r, que forma núcleos atómicos pesados. En el proceso r, los núcleos atómicos absorben rápidamente neutrones libres, parte de los cuales se convierten en protones, lo que agranda el núcleo y produce los elementos pesados que se encuentran en la naturaleza."
+        },
+        {
+          "t": "p",
+          "x": "Simular estas reacciones exige una enorme capacidad de cómputo, por lo que se considera uno de los mayores retos de la astrofísica nuclear. El Dr. Oliver Just, primer autor del artículo e investigador del departamento de “Astrofísica Nuclear y Estructura” de GSI/FAIR, dijo: “Investigadores de todo el mundo intentan entender esta reacción compleja mediante simulaciones teóricas. Pero modelar todos los parámetros exige una enorme capacidad de cómputo, así que a menudo hay que simplificar el modelo. Nuestro nuevo modelo, RHINE, que usa inteligencia artificial, es una alternativa eficiente”."
+        },
+        {
+          "t": "p",
+          "x": "RHINE (r-process heating implementation in hydrodynamic simulations with neural networks) usa aprendizaje automático, en particular redes neuronales de aprendizaje profundo, para estimar la energía liberada por las reacciones nucleares del proceso r mientras se ejecuta una simulación hidrodinámica. Esta liberación de energía, a menudo llamada calentamiento, afecta a cómo se expulsa la materia en las explosiones estelares, así como a la velocidad de la materia expulsada y a la luz que produce después. En las fusiones de estrellas de neutrones, esa luz brillante se observa como una kilonova."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de realizar todos los cálculos nucleares en cada simulación, la IA primero se entrena con un enorme conjunto de cálculos de referencia que incluyen una red completa de reacciones nucleares. Una vez entrenada, puede estimar con precisión la tasa de calentamiento con muchos menos cálculos. El Dr. Zewei Xiong, científico del departamento de “Astrofísica Nuclear y Estructura” de GSI/FAIR y principal desarrollador del modelo de aprendizaje automático, explicó: “Primero entrenamos el modelo de ML con numerosos cálculos de referencia construidos a partir de las reacciones nucleares completas. Luego incorporamos ese modelo a las simulaciones hidrodinámicas para aproximar la tasa de calentamiento del proceso r con un esfuerzo mínimo”."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Xiong añadió: “Validamos nuestro método de ML frente a datos de referencia mediante comparaciones detalladas. La alta concordancia sugiere que el modelo de ML puede ahorrar una enorme cantidad de tiempo de cómputo. También descubrimos, a partir de los resultados, que el calentamiento del proceso r es un efecto importante que los futuros modelos deben reflejar mejor”."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores afirman que RHINE reducirá en gran medida los recursos de cómputo necesarios en el futuro, al tiempo que permitirá simulaciones mucho más detalladas. El modelo mejorado podría ayudar a conectar los experimentos de la instalación de investigación FAIR con las explosiones estelares y las fusiones de estrellas de neutrones que observan los astrónomos. El código fuente de RHINE es abierto, por lo que otros investigadores pueden continuar su desarrollo, y el proyecto contó con financiación conjunta del Consejo Europeo de Investigación (ERC), entre otros."
+        }
+      ]
+    },
+    "science/ai-res": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigadores presentó AI+RES, una técnica de muestreo de eventos raros con IA integrada. Predice con qué frecuencia golpeará el calor extremo, usando hasta 1.000 veces menos cálculo que el modelado climático actual."
+        },
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/07/6-07-26-urban-heat-seattle-1187838-istock-dizzo.jpg",
+          "cap": "Calor extremo golpeando una ciudad."
+        },
+        {
+          "t": "p",
+          "x": "La clave está en repartir el trabajo. La IA dirige un modelo basado en física solo hacia los escenarios más probables, combinando la eficiencia del aprendizaje profundo con la fiabilidad de la física en un mismo lugar."
+        }
+      ]
+    },
+    "science/lab-animal-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo liderado por la Universidad de Rutgers creó un sistema de IA que vigila sin descanso la actividad locomotora de los ratones. El aprendizaje automático detecta problemas de salud en esos datos, identificando el problema 3 a 5 días antes de que aparezcan signos clínicos evidentes."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/assessing-lab-animals.jpg",
+          "cap": "La IA evalúa el estado de salud de los animales de laboratorio."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados se publicaron en la revista Lab Animal. El equipo cree que esta herramienta puede mejorar el bienestar de los animales de laboratorio y también elevar la fiabilidad de la experimentación animal."
+        }
+      ]
+    },
+    "science/novotags": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del EMBL diseñaron NovoTags con IA. Son pequeñas etiquetas de proteína artificiales (de novo) que se unen a tintes fluorescentes, y ayudan a los investigadores a localizar y rastrear proteínas específicas dentro de células vivas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/novotags-ai-designed-p.jpg",
+          "cap": "Imagen conceptual de NovoTags, las etiquetas de proteína diseñadas con IA."
+        },
+        {
+          "t": "p",
+          "x": "También existe una variante llamada NovoSplit, que se puede encender y apagar como un interruptor. Funciona como un interruptor molecular."
+        },
+        {
+          "t": "p",
+          "x": "Al leer juntos el espectro de emisión y el tiempo de vida de la fluorescencia, se pueden distinguir hasta 30 proteínas distintas a la vez."
+        }
+      ]
+    },
+    "science/paper-mill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un clasificador de aprendizaje automático basado en BERT revisó 2,6 millones de artículos sobre cáncer. En más de 250.000 de ellos detectó patrones de estilo similares a los textos producidos por las llamadas “paper mills”, fábricas de artículos falsos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/fake-news-blocks.webp",
+          "cap": "Una imagen que simboliza la información falsa."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados se publicaron en la revista médica The BMJ."
+        },
+        {
+          "t": "p",
+          "x": "La proporción de artículos sospechosos pasó de alrededor del 1% a comienzos de los años 2000 a más del 16% en 2022, una señal de un gran agujero en la fiabilidad de la investigación."
+        }
+      ]
+    },
+    "science/platon": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de ETH Zúrich construyeron un detector de partículas llamado PLATON. Usando óptica de cámara de campo de luz e IA, reconstruye en tres dimensiones las trayectorias de partículas invisibles dentro de un único bloque de centelleador."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
+          "cap": "El concepto de PLATON, que reconstruye las interacciones de partículas con óptica de cámara e IA."
+        },
+        {
+          "t": "p",
+          "x": "Los detectores suelen construirse dividiendo el material en muchas piezas pequeñas, pero este método lee las trayectorias a partir de un único bloque de centelleador sin dividir."
+        },
+        {
+          "t": "p",
+          "x": "En las simulaciones igualó o superó el rendimiento de los mejores detectores actuales. Su estructura mucho más simple, que también facilita ampliarlo, se cuenta como una ventaja."
+        }
+      ]
+    },
+    "science/flatband-2d-screening": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Manchester presentaron una nueva técnica computacional para identificar materiales bidimensionales que puedan mostrar comportamientos cuánticos inusuales. El estudio, publicado en la revista Science Advances, se centra en los estados de \"banda plana\", en los que los electrones apenas tienen energía cinética. En ese estado, las interacciones entre electrones se intensifican, lo que facilita la aparición de fenómenos como el magnetismo, la superconductividad no convencional y comportamientos electrónicos topológicos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-tool-speeds-search.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las búsquedas habituales dependen de cálculos de teoría del funcional de la densidad (DFT), que se vuelven demasiado lentos cuando los candidatos llegan a miles. En su lugar, los investigadores crearon un sistema de puntuación basado en la física que capta dos señales de las bandas planas —baja dispersión de banda y picos agudos en la densidad de estados— y entrenaron un modelo para estimar esa puntuación solo a partir de la estructura atómica."
+        },
+        {
+          "t": "p",
+          "x": "\"Las bandas planas no son solo un rasgo que aparece en los cálculos electrónicos; a menudo están ligadas a la geometría de los átomos en el material\", explicó el Dr. Xiangwen Wang, autor principal del estudio. \"Como nuestro método aprende de esa estructura, puede explorar un espacio de materiales mucho más amplio de forma más dirigida e interpretable\"."
+        },
+        {
+          "t": "p",
+          "x": "El equipo entrenó el modelo con materiales 2D conocidos y luego lo aplicó a más de 10.000 materiales 2D sin etiquetar. Entre los principales candidatos, con estructuras parecidas a redes kagome, los cálculos cuánticos posteriores confirmaron el comportamiento de banda plana con un 98,2% de precisión. También surgieron varios materiales que se predice que albergan \"bandas planas topológicas frágiles\", vinculadas a fases cuánticas fuertemente correlacionadas."
+        },
+        {
+          "t": "p",
+          "x": "La Dra. Qian Yang, del National Graphene Institute, dijo que \"lo interesante no es solo encontrar nuevos materiales candidatos, sino que la propia forma de buscar ha cambiado\". El método aún está en fase computacional, por lo que los candidatos prometedores deben verificarse experimentalmente, pero los investigadores afirmaron que, si una propiedad objetivo puede expresarse como una puntuación basada en la física, el enfoque podría trasladarse a la búsqueda de otros materiales cuánticos."
+        }
+      ]
+    },
+    "science/kagome-superconductors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/kagome-lattice-superconductivity.webp"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo internacional liderado por la Universidad de Aalto combinó aprendizaje automático con física cuántica para descubrir dos nuevos superconductores, junto con un método para examinar más candidatos con mayor rapidez. Los superconductores conducen corriente eléctrica sin resistencia, pero esa propiedad suele aparecer solo cuando el material se enfría cerca del cero absoluto. Un superconductor que funcione a temperatura ambiente sigue siendo un reto de larga data para la ciencia."
+        },
+        {
+          "t": "p",
+          "x": "YRu3B2 y LuRu3B2, descubiertos por el consorcio SuperC dirigido por la profesora de Aalto Päivi Törmä, obtienen sus propiedades superconductoras cuando los electrones forman bandas planas dentro de una red kagome. Una red kagome es una estructura geométrica que toma su nombre de un patrón tradicional de cestería japonesa."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores primero usaron aprendizaje automático para filtrar rápidamente un vasto conjunto de combinaciones elementales y seleccionar los candidatos más prometedores, y luego evaluaron su potencial superconductor con cálculos cuánticos detallados. Una vez confirmadas las predicciones teóricas, un equipo dirigido por la profesora de Rice University Emilia Morosan sintetizó los materiales combinando los elementos y verificó experimentalmente que ambos eran efectivamente superconductores. El estudio de prueba de concepto se publicó en Physical Review Research."
+        },
+        {
+          "t": "p",
+          "x": "\"A lo largo de décadas se han conocido más de 7.000 superconductores, pero la mayoría se descubrieron por azar\", explicó la profesora Törmä. \"Los cálculos necesarios para examinar materiales son tan pesados que en realidad solo unos 20 han tenido su potencial predicho por la teoría\". El enfoque de IA de SuperC cambia ese proceso al reservar los cálculos detallados solo para los candidatos más sólidos."
+        },
+        {
+          "t": "p",
+          "x": "El consorcio SuperC, lanzado en 2023, se ha propuesto como meta encontrar un superconductor a temperatura ambiente para 2033."
+        }
+      ]
+    },
+    "science/llm-decision-reasons": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/free-text-answers-and.jpg"
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué toman las personas las decisiones que toman? Investigadores del Centro de Sinergia de Sistemas (SynoSys) de la Universidad Técnica de Dresde (TUD), el Instituto Max Planck para el Desarrollo Humano y la Universidad de Basilea presentaron un nuevo enfoque para responder a esa pregunta. Al añadir a las decisiones observadas las explicaciones que los propios participantes escriben sobre ellas, el estudio examina matices que los datos conductuales por sí solos no logran captar."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores combinaron experimentos conductuales con explicaciones de texto libre mediante un modelo de lenguaje de gran tamaño (LLM) para revelar los motivos ocultos detrás de las decisiones. Los resultados se publicaron en Proceedings of the National Academy of Sciences (PNAS)."
+        },
+        {
+          "t": "p",
+          "x": "\"Pedirle a la gente que explique su proceso de pensamiento profundiza la comprensión de la toma de decisiones\", dijo el autor principal, el Dr. Kamil Fuławka. \"Pero analizar sistemáticamente ese tipo de datos de texto libre requiere un marco analítico escalable y riguroso, y ahora los LLM pueden ayudar en esa tarea\"."
+        },
+        {
+          "t": "p",
+          "x": "En el experimento, los participantes tomaron parte en apuestas y explicaron cada decisión con sus propias palabras. A partir de la teoría y los modelos de decisión, los investigadores elaboraron una lista de motivos posibles, como \"centrarse en el mejor resultado\" o \"evitar pérdidas grandes\", y el LLM identificó qué motivos aparecían en cada explicación. El modelado matemático de las decisiones verificó esos resultados."
+        },
+        {
+          "t": "p",
+          "x": "Lo que esto confirmó es que las explicaciones propias de las personas son datos valiosos, y que los motivos en los que la gente se apoya no son fijos, sino que cambian de forma sistemática según la estructura del problema de decisión. Los investigadores afirmaron que, al permitir que los LLM analicen este tipo de explicaciones a gran escala, el enfoque abre una vía para estudiar la toma de decisiones humana en entornos más realistas y complejos."
+        }
+      ]
+    },
+    "science/quantum-peptide-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Peptide.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Técnica de Dinamarca (DTU), ORCA Computing, Sparrow Quantum y otras instituciones diseñaron péptidos dirigidos al sistema inmunitario con un sistema híbrido que combina un procesador cuántico fotónico con IA generativa clásica. Los resultados se publicaron en el servidor de preprints bioRxiv."
+        },
+        {
+          "t": "p",
+          "x": "Los péptidos son cadenas cortas de aminoácidos que se presentan en la superficie celular para su inspección por el sistema inmunitario. Cuando un péptido se une de forma estable a una proteína MHC-I —conocida como HLA en humanos—, ofrece a las células T una pista para identificar células infectadas o cancerosas. Los investigadores describieron su trabajo como el primer sistema híbrido de extremo a extremo que diseña estos péptidos y los valida experimentalmente en el laboratorio."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa normalmente parte de ruido aleatorio como semilla para su salida. Los investigadores sustituyeron esa semilla por patrones generados por un ordenador cuántico fotónico, para comprobar si las correlaciones estructuradas creadas por fotones que interfieren entre sí podían guiar al modelo hacia espacios de búsqueda que una entrada estándar no alcanza."
+        },
+        {
+          "t": "p",
+          "x": "Tras entrenarse con unos 106.000 pares de unión péptido-HLA (unos 77.000 péptidos únicos en 126 tipos de HLA), el modelo generó 1.000 candidatos para cada una de 131 variantes de HLA. El modelo con entrada cuántica produjo unos 10,6 ligandos fuertes más por cada 1.000 candidatos en simulación, y unos 6,3 más en un dispositivo fotónico real, superando al método convencional en el 63% de las variantes estudiadas. Las mejoras se concentraron en las variantes con pocos datos."
+        },
+        {
+          "t": "p",
+          "x": "En HLA-A_31:01 y HLA-A_68:01, los 20 péptidos sintetizados formaron complejos estables, mientras que los resultados para HLA-B*37:01 fueron mixtos. Los investigadores precisaron que el estudio no demuestra una ventaja cuántica, y que la unión a HLA es solo el primer paso de una respuesta inmunitaria."
+        }
+      ]
+    },
+    "science/willow-self-learning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/07/Screenshot-2026-07-10-at-7.00.17-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Google presentaron un ordenador cuántico que aprende de sus propios errores mientras un cálculo sigue en marcha. El antiguo método de pausar periódicamente para recalibrar el hardware fue reemplazado por inteligencia artificial que se adapta por sí sola a medida que cambian las condiciones. El estudio se publicó en la revista Nature."
+        },
+        {
+          "t": "p",
+          "x": "La clave es el aprendizaje por refuerzo. Toma los datos de detección de errores que ya genera el proceso de corrección cuántica de errores como señal de retroalimentación, y ajusta poco a poco más de 1.000 parámetros de control —incluida la amplitud y frecuencia de los pulsos de microondas y la intensidad de acoplamiento—. Cada error detectado se convierte, en la práctica, en material de aprendizaje."
+        },
+        {
+          "t": "p",
+          "x": "En Willow, el chip cuántico superconductor de Google, este método redujo la tasa de error lógico en aproximadamente un 20% incluso después de la calibración habitual y el ajuste de expertos. En condiciones de deriva de hardware introducida artificialmente, mantuvo el rendimiento 3,5 veces más estable. También estableció nuevos puntos de referencia en códigos de superficie de distancia 5 y distancia 7, y en un código de color de distancia 5."
+        },
+        {
+          "t": "p",
+          "x": "En experimentos con deriva inyectada, la tasa de error lógico bajó un 24% y la estabilidad mejoró 2,4 veces; al ajustar también los parámetros del decodificador, esas cifras subieron a una reducción del 31% y una mejora de 3,5 veces. Los investigadores también simularon hasta un código de superficie de distancia 15 (unos 40.000 parámetros) y comprobaron que la velocidad de optimización no cae mucho al crecer el sistema."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, este método no elimina los errores cuánticos ni demuestra un ordenador cuántico plenamente tolerante a fallos. Como el aprendizaje explora deliberadamente configuraciones de hardware, esa exploración debe controlarse para que no perjudique algoritmos reales de larga duración. Parte de la deriva más rápida todavía supera la capacidad de seguimiento del aprendizaje."
+        }
+      ]
     }
   }
 }

@@ -2385,6 +2385,418 @@
           "x": "Cross-media expansion continues as well. Sony plans to make films and TV series based on PlayStation game IP, aiming to broaden the reach and monetization of its intellectual property."
         }
       ]
+    },
+    "games/aoe2-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/ageofem2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In recent years, documentaries that calmly dissect how computers actually work have multiplied. Dylan Reibling's 'The End of the Internet' points out that behind the elegant phrase 'cloud computing' lies a bundle of cables exposed to government valves and hungry sharks alike, while Amanda Kramer's 'So Unreal' traces how fantasies like The Matrix, Terminator, and Tron have shaped the public's understanding of cyberspace. It feels more relevant than ever now, when AI sales pitches feel like the final boss of the age of scams."
+        },
+        {
+          "t": "p",
+          "x": "Adrian de Winter, a York University researcher and programmer, tried to show how easily we anthropomorphize technology through a somewhat Swiftian satirical paper. True to its title, 'If LLMs Have Human-Like Attributes, Then So Does Age of Empires II,' he used the scenario editor of the legendary RTS to recreate basic LLM functions with goats, grass, and bridges. He said he himself was surprised to find that, of the more than 300 papers he reviewed over the past two years, 57% started from the premise that AI has something resembling consciousness."
+        },
+        {
+          "t": "p",
+          "x": "De Winter told 404 Media, \"I pointed out that if goats could show emergent capabilities, that's great,\" and \"these properties need to be preserved if we remove the chat panel. After all, it's not like your neurons know they are part of a brain.\" He added that research has long shown users easily grow attached when they sense warmth or personality in an LLM, noting that people don't bond with toasters but do bond with characters in movies."
+        },
+        {
+          "t": "p",
+          "x": "In the paper, he avoids the term 'artificial intelligence' altogether, choosing the more precise phrase 'language learning model.' The study's aim was to show that once you strip away the friendly surface, the technology reverts to an unfamiliar block of code we already know well."
+        },
+        {
+          "t": "p",
+          "x": "Kotaku's Zack Kotzer uses the paper as a springboard to criticize industry rhetoric. The promise of computers that think like people underpins the AI investment boom, but mimicking human tasks doesn't produce thought, intent, or reasoning. In his words, AI's consciousness amounts to the thirst of a drinking toy bird."
+        },
+        {
+          "t": "p",
+          "x": "De Winter's proposal is clear: \"I propose that we need to stop assuming that LLMs behave like humans just because they were trained with natural language. We should perform experiments that allow us to see LLMs as how they are, not how we believe they should be.\""
+        }
+      ]
+    },
+    "games/szymanski-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WmejxQBkaqazsjdBHXvNJ9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "David Szymanski, the indie dev veteran known for Dusk and Iron Lung, isn't opposed to AI as a technology overall. But he has no interest whatsoever in making games with generative AI."
+        },
+        {
+          "t": "p",
+          "x": "In an interview with GamesRadar+, Szymanski raised points in the same vein as a feature piece on why so many developers are averse to generative AI. He said that discussing the technology requires addressing ethical concerns around plagiarism, environmental burden, and jobs first, and that alone is enough to put him off the technology in its current form."
+        },
+        {
+          "t": "p",
+          "x": "Even if all those barriers were cleared, for Szymanski generative AI is still \"a complicated machine for generating subpar stock photos, buggy code, and a big neon sign for your audience that says 'I don't give a fuck,' and I'm not really in the market for any of those.\""
+        },
+        {
+          "t": "p",
+          "x": "He believes AI simply isn't suited to creative work from the outset. There may be areas where it could genuinely help, he said, but he still has too many concerns about the harm the technology is causing and could cause, and if it's used at all, it needs to be useful in a way that doesn't damage the important parts of the creative process."
+        },
+        {
+          "t": "p",
+          "x": "As he sees it, the appeal of AI today lies in being fast and easy. Some jobs call for fast and easy, but others call for slow and hard. His view is that creativity reveals itself in the process of solving the problems that appear between an idea and the finished work. \"Your creative voice is defined by your limitations and how you work around those limitations.\" Hand all those problems over to a copying algorithm, and there's nothing left to separate the finished work from the original the algorithm copied."
+        },
+        {
+          "t": "p",
+          "x": "He said flatly that developers have no say in how the industry ends up treating generative AI. All they can decide is how they personally respond, and whether or not to go along with the trend. \"In its current form I don't have any interest in generative AI as a development tool and I don't think my audience has any interest in me using it either.\""
+        }
+      ]
+    },
+    "games/hi3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "80 Level got hands-on with Hi3D, an AI 3D creation tool. Entering a single sentence produced a fully assembled 3D character model ready to print immediately."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This is a hands-on report that looks at the text-to-3D-asset pipeline from a creator's perspective. It shows step by step how an idea becomes a physical figure you can hold in your hand."
+        },
+        {
+          "t": "p",
+          "x": "For game and asset artists who want to quickly test character prototypes, it's a workflow they can put to use right away. The distance from imagination to a physical object has narrowed further."
+        }
+      ]
+    },
+    "games/mw4-gunny": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Confusion spread around “Gunny,” the loadout helper in Modern Warfare 4. Developer Infinity Ward made clear that Gunny is not a conversational chatbot."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B9Xn3FVtk9V33MnFZaYtJi-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "To borrow their phrasing, Gunny is closer to “Windows' Clippy, but for building loadouts.” It's just a rule-based guidance feature that helps with weapon combinations, a different thing from a generative language model."
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean the game has no AI at all. Infinity Ward confirmed it does use AI, in areas outside of Gunny. It's a moment that reveals where an AAA studio draws the line on what it calls AI."
+        }
+      ]
+    },
+    "games/roblox-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Roblox unveiled a mobile app called “Build.” Typing in a natural-language sentence produces a simple game that can be played right away. It's an attempt to lower the barrier to making something on the platform."
+        },
+        {
+          "t": "p",
+          "x": "The company made clear that what this produces won't flood the homepage with cheap “slop.” It explained that this isn't meant to replace existing Studio production lines, but to serve as an entry point for newly arriving creators."
+        },
+        {
+          "t": "p",
+          "x": "It stands out as a text-to-game case coming from a massive UGC platform. At the same time, it leaves open new questions about how discoverability and quality control will be handled."
+        }
+      ]
+    },
+    "games/capybara-vibe-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An iOS developer built and released a mobile game called “Capybara Food Delivery.” All of its roughly 27,000 lines of code were written by Claude Code using “vibe coding.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The game won a competition with a $25,000 prize. It stands as a tangible example of a game completed entirely with AI-written code, from start to finish."
+        },
+        {
+          "t": "p",
+          "x": "It offers a sense of how far prompt-driven development has come, beyond simple autocomplete assistance."
+        }
+      ]
+    },
+    "games/sony-synthetic-assets": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sony executives have defined AI, particularly the kind that generates “synthetic assets” for game development, as a foundational technology underpinning the company's strategy. They even called it “interesting.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Executives see AI spanning production efficiency, player experience and content discovery alike. A major first-party publisher has openly embraced a generative asset pipeline."
+        },
+        {
+          "t": "p",
+          "x": "It's a sign that AI is moving firmly into AAA production."
+        }
+      ]
+    },
+    "games/meccha-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The co-op hide-and-seek game Meccha Chameleon has been sweeping Steam lately. Resembling Prop Hunt, it sold 7 million copies in under two weeks of launch. As soon as it became a hit, a copycat followed close behind—a game called Scribble Hunt showed up on Steam with screenshots that look nearly identical to Meccha Chameleon."
+        },
+        {
+          "t": "p",
+          "x": "Made by an obscure studio called Scribble Bunny, this game copies the original down to its description. The pitch—paint a rabbit-person to blend into the background like a chameleon—and the 2-to-10-player online hide-and-seek format are both carried over as is. It also carries a notice that some of the store images and promotional art were made with generative AI."
+        },
+        {
+          "t": "p",
+          "x": "It's a clear picture of how cheap AI content pipelines can copy a hit game within days and dump it onto the store. After the success of lemorion_1224, who made the original, it's become an environment where a knockoff with a slightly tweaked name and design can show up at any time."
+        }
+      ]
+    },
+    "games/recomp-battleground": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Porting old console games to PC has lately become a stage for emotional clashes. The clearest example is DK64 Recompiled, revealed in late June. The randomizer community, which has spent years taking this game apart and reassembling it, decided to build its own official PC port in response to an AI-rushed port carrying the same name."
+        },
+        {
+          "t": "p",
+          "x": "Behind this is a technique called static recompilation, which moves the original code wholesale into another system language, unlike emulation, which mimics hardware. Thanks to N64 Recomp, released two years ago, games like Banjo-Kazooie, Star Fox 64, and Mario Kart 64 have been ported to PC. Because it doesn't bundle the original assets and instead has users supply their own ROM, it stays legally clean."
+        },
+        {
+          "t": "p",
+          "x": "The problem is the vibe-coded ports flooding out almost daily these days. One developer used Claude to churn out recompilation tools for the NES, Sega Genesis, PlayStation, and SNES, while another opened repositories spanning everything from the PS3 to the ZX Spectrum. Balam, a contributor to the DK64 randomizer, says recomps that lean heavily on AI aren't even promoted anymore on the main N64 recomp server."
+        },
+        {
+          "t": "p",
+          "x": "2dos names technical debt as the biggest risk. If developers don't properly understand AI-written code, maintenance becomes \"a nightmare,\" and they end up burning more tokens just chasing bugs. In the AI version of Donkey Kong 64, reportedly, RT64, the core module that renders N64 graphics, had been tampered with. That's why the Godot engine and projects on the GameCube/Wii and PS1 side have, one after another, drawn the line: \"we don't use AI code.\""
+        }
+      ]
+    },
+    "games/terrain-diffusion": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Ae9q7KsRbuI"
+        },
+        {
+          "t": "p",
+          "x": "Two Minute Papers covered Minecraft this time. In a mod called Terrain Diffusion, a diffusion model generates the game's terrain directly. Minecraft normally stamps out terrain using a hand-tuned noise function, a method prone to producing mountains and valleys with monotonously repeating textures."
+        },
+        {
+          "t": "p",
+          "x": "Terrain Diffusion brings the same diffusion models used for image generation straight over to height maps. Starting from random noise, it refines the terrain step by step, shaping more varied and natural-looking mountain ranges that follow the distribution of real terrain it learned from. The video places it side by side with existing noise-generated terrain to show the difference."
+        },
+        {
+          "t": "p",
+          "x": "The key point is that this isn't just a demo stuck in a paper. The creator (xandergos) has posted the mod on Modrinth and GitHub, so anyone can download it and drop it into their own Minecraft. For game designers and modders, it's a case of generative AI crossing over into a procedural content generation tool they can actually get their hands on."
+        }
+      ]
+    },
+    "games/ace-game-agent": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4syKq_OrbGA"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA unveiled a beta of the ACE Game Agent SDK and an Unreal Engine 5 plugin at Unreal Fest 2026. This video walks developers through building an AI NPC directly inside Unreal Engine 5.7 using those tools. The key is running speech recognition, a small language model, and speech synthesis all on the device to cut latency."
+        },
+        {
+          "t": "p",
+          "x": "The ACE Game Agent SDK is a lightweight C/C++ agent framework that plugs directly into a game. It's open source, so it can be freely modified, and it's accelerated on NVIDIA RTX hardware tuned for small models. The API splits into three parts. The Agent API manages conversation history and drives multi-step reasoning. The Chat API directly controls inference and responses. The RAG API handles retrieval-augmented generation, tying answers to a knowledge base the developer specifies."
+        },
+        {
+          "t": "p",
+          "x": "In Unreal Engine 5.7, MetaHuman NPCs run on-device. Riva Parakeet ASR handles real-time speech recognition, while Chatterbox TTS handles emotionally expressive voice synthesis. Audio2Face moves the face to match the speech."
+        },
+        {
+          "t": "p",
+          "x": "Because none of it goes to the cloud, it all runs on-device for fast responses. This changes how studios build conversational characters in the first place."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA also presented real-world examples. Krafton introduced an AI teammate named Ally in Battlegrounds, which listens to players by voice, reads the situation, and reacts in real time — all running on-device on GeForce RTX. Total War: Pharaoh's advisor searches more than 1,200 game data tables to answer strategy questions."
+        }
+      ]
+    },
+    "games/lucas-ai-future": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "These days, barely a day goes by without news that some famous director has embraced AI as the future of creativity or joined forces with it. This time it's none other than the father of Star Wars, George Lucas — and the logic is more than a little bitter."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an interview with A Rabbit's Foot, Lucas talked about his career and the Lucas Narrative Art Museum, opening in Los Angeles this fall. The museum showcases decades of handmade art and, as its website puts it, shines a light on “stories and the people who tell them.” In the interview, he also shared insights on filmmaking, his collaborations with people like Steven Spielberg, and remarks on the pitfalls of preview focus groups."
+        },
+        {
+          "t": "p",
+          "x": "“If an audience doesn't like a certain character, that's interesting, and as a director I want to know why,” he says. “But studios misread that. They let the audience make the movie themselves. These days it's gone too far — it's all about what the fans think. That's not how you make a movie. You need to find someone who knows how to make a film, has a story to tell, and has passion for it, for it to become a movie.”"
+        },
+        {
+          "t": "p",
+          "x": "Yet having just championed human-centered creation, he immediately turns around and calls AI the “future,” comparing not using the new technology to clinging to outdated transportation in the age of the automobile."
+        },
+        {
+          "t": "p",
+          "x": "“Artificial intelligence lets us make movies much more easily,” he says. “It's like sitting here saying, ‘I believe the horse carriage is the real thing. Cars break down, you have to put gas in them, they're full of problems. Soon they'll turn them into tanks and kill people with them. It's terrible.’ There's nothing you can do about it. That's progress, that's the future.”"
+        },
+        {
+          "t": "p",
+          "x": "When A Rabbit's Foot pressed further, Lucas acknowledged the risks of plagiarism machines but didn't back down, pointing instead to other benefits he says AI will bring in the future."
+        },
+        {
+          "t": "p",
+          "x": "“If you want AI that can tell you whether something is fake or where it came from, AI can do that,” he says. “Humans can't. We're not smart enough for that. The key thing is that you're human, and you're accountable for what you say and do. If you break the law, you should be punished. Whatever you do, it tends to come out eventually. It's just like reality.”"
+        },
+        {
+          "t": "p",
+          "x": "In 'Star Wars Episode V: The Empire Strikes Back,' there's a scene where Luke Skywalker, training as a Jedi with Yoda, asks whether the dark side of the Force is stronger than the light. Yoda says it isn't, but answers that many fall to the dark side because it's “quicker, easier, more seductive.” It's a 46-year-old film, but it captures the logic Lucas is using right now rather well."
+        },
+        {
+          "t": "p",
+          "x": "He champions the importance of human-made art, yet argues that a technology notorious for stealing from humans — and whose output is usually worse than handmade work — makes filmmaking “easier.” Holding both the belief that the human spirit is what makes great films and the belief that a technology which strips away that humanity is the future of film is a contradiction. Even if it's naive, even if it goes against the grain, I'll keep standing against it."
+        }
+      ]
+    },
+    "games/sts2-placeholder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mega Crit is deliberately putting “crappy” hand-drawn placeholder art into its new roguelike, Slay the Spire 2, instead of AI-generated images. Casey Yano, co-founder and lead on the game, says it's not just about avoiding the appearance of laziness — it's “important” that unfinished art openly looks unfinished."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an interview with GameSpot, Yano explained Slay the Spire 2's approach to placeholder art. You can see plenty of it in the game's timeline sequences, looking almost like it was drawn in MS Paint. Yano said that's very much intentional."
+        },
+        {
+          "t": "p",
+          "x": "Since the game is still in Early Access, he “wanted to make it clear that some elements are unfinished.” At the initial launch in March, the artists may have wanted to finish more art, but Yano said he “knew they'd be drawing a lot of garbage-looking art during Early Access,” and that the unfinished feel matters because otherwise “people will judge this game like it's a finished 1.0 game.”"
+        },
+        {
+          "t": "p",
+          "x": "He goes on: “If you use art that looks almost finished, people assume that's the final art. It needs to look rough. Looking rough matters.”"
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean the placeholder art has no job to do, though. Yano especially wants the art used in the timeline to serve as a kind of “frame.” Those drawings are key narrative beats, meant to properly convey the planned composition, detail, and color."
+        },
+        {
+          "t": "p",
+          "x": "On AI-generated art, Yano was clear about where he stands: “If you've gone through the artistic process… you might not say you felt cheated, but you'd feel a kind of sadness, because you can't see the path someone took to build their skill and develop their own style.” He also noted that the game already has its own style, so there's no reason to use AI to imitate it."
+        },
+        {
+          "t": "p",
+          "x": "Hand-drawn work has “a decision behind nearly every line, down to a single erased line or a single refining stroke,” he says. AI art, by contrast, has a distinct look that's “very dense, flashy, and pronounced,” which clashes with the rest of the art style and “just feels lazy.”"
+        },
+        {
+          "t": "p",
+          "x": "Yano isn't rejecting AI outright. For some programmers who use it in code review, he says AI is basically a “fancy spell-checker.” Generative AI, though, is a different matter, and the team keeps it at a distance. To him, art isn't something with a “definable end goal” — it's a form of “expression.”"
+        }
+      ]
+    },
+    "games/vibe-clone-steam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Just the concept of AI-based “vibe coding” is enough to make us spit out our strawberry matcha latte, but Circana industry analyst Mat Piscatella thinks it's about to make Steam and other game storefronts even worse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nothing grows in our bleak world anymore — not physical PlayStation discs, not originality, not anything that isn't AI slop. As a prime example, 404 Media reported that thanks to AI vibe coding, developers can now effectively clone someone else's video game, sometimes in a matter of dozens of hours. Piscatella reacted to the news on Bluesky, writing: “Good games are going to be cloned and buried. Players will gravitate toward games and franchises they know and trust. It will be harder to stand out.”"
+        },
+        {
+          "t": "p",
+          "x": "Just in case, as Piscatella put it, this is a situation some experts would call “not good. Not good at all.”"
+        },
+        {
+          "t": "p",
+          "x": "AI knockoffs that rip off successful games — especially indie darlings with social buzz but no team of copyright lawyers — are already scattered across most major storefronts. Think the fake “Peak” on the PlayStation Store or the knockoff “REPO” on the Nintendo eShop. Browsing Steam is already overwhelming now, and it's chilling to imagine these storefronts getting filled with even more AI junk going forward."
+        },
+        {
+          "t": "p",
+          "x": "Of vibe coding, Piscatella says it's “a strong counterargument to people who claim AI will help the game market by lowering development time and cost.” “Add that to the already enormous discoverability problem — the explosion in the number of games launching per day — plus demand that's matured… bad!”"
+        },
+        {
+          "t": "p",
+          "x": "Still, isn't there something someone could do? Shouldn't mega-corporations at least on the scale of Sony and Nintendo be doing better quality control?"
+        },
+        {
+          "t": "p",
+          "x": "“At this point, it doesn't look stoppable,” Piscatella says. “As for a solution… yeah, if I knew how to solve this, I'd be out there doing it right now and getting ready to buy an island.”"
+        },
+        {
+          "t": "p",
+          "x": "Well, what can you do. Just another day in paradise."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, we talked to dozens of game developers and heard the many reasons they don't want to use generative AI."
+        }
+      ]
+    },
+    "games/ai-clone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Solo developers use AI coding tools to churn out playable clones of indie games within days. Sometimes they list the clone before the original even ships."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It is a concrete shift upending how small studios reveal and protect their work in progress."
+        }
+      ]
+    },
+    "games/meccha-chameleon": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The hit game Meccha Chameleon is establishing itself as a human-made counterweight to the wave of AI-generated content and imitators flooding the storefronts."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png"
+        },
+        {
+          "t": "p",
+          "x": "It presents hand-crafted chaos as an edge that sets it apart from generative pipelines, a rebuttal told in the language of craft and design."
+        }
+      ]
     }
   }
 }

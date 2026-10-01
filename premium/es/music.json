@@ -2148,6 +2148,539 @@
           "x": "Un usuario escribió en los comentarios: \"Adding AI into the mix is aiding laziness, not adding efficiency or creativity\", señalando que los parámetros aleatorios que ya existían eran suficientes."
         }
       ]
+    },
+    "music/logic-pro-123": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rDZVv7ELXUmbiewWfFYqM7.png"
+        },
+        {
+          "t": "p",
+          "x": "Apple ha lanzado Logic Pro 12.3. La actualización amplía los plugins de fábrica Sample Alchemy y Beat Breaker y renueva por completo la herramienta de análisis armónico con IA Chord ID, además de un montón de mejoras menores."
+        },
+        {
+          "t": "p",
+          "x": "El mayor beneficiado es Beat Breaker. Este efecto, que llegó en 2023 para cortar y voltear cualquier fuente en tiempo real y crear patrones glitch, suma tres modos nuevos. El modo Filter aplica un filtro paso bajo o paso alto a cada corte, permitiendo ajustar por separado el tipo de filtro, el corte, la pendiente y la curva, mientras que el modo Resonance ajusta la resonancia por corte para crear automatizaciones de filtro rítmicas y rápidas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QvaNWdvb6HCoohnbwZ5EkE.png"
+        },
+        {
+          "t": "p",
+          "x": "El modo Pan fija la posición estéreo de cada corte individual. Los controles de aleatorización, que ajustan probabilidad e intensidad, ya están disponibles en todos los modos."
+        },
+        {
+          "t": "p",
+          "x": "Sample Alchemy, a medio camino entre un sampler y un sintetizador, también recibió mejoras. El motor granular suma un nuevo modo Sync que apila varios flujos de grano en paralelo desde distintos puntos de una muestra, ajustando el número de flujos, la posición, el desplazamiento de formante y la aleatorización. Junto a esto se lanzó un paquete de sonidos Granular Alchemy que muestra el nuevo modo con loops, one-shots y grabaciones de campo."
+        },
+        {
+          "t": "p",
+          "x": "Chord ID, la herramienta de análisis con IA que identifica progresiones de acordes en regiones de audio y MIDI, ha mejorado su precisión tanto en instrumentos individuales como en mezclas completas. Apple explica que capta acordes extendidos e inversiones incluso tocados en \"un piano desafinado o una guitarra eléctrica distorsionada\"."
+        },
+        {
+          "t": "p",
+          "x": "A esto se suma un nuevo Producer Project que muestra el proceso de producción de Shoulda Never, el tema de Kehlani y Usher de 2026, además de mejoras importantes en Flex, el motor de estiramiento temporal y corrección de tono en tiempo real."
+        }
+      ]
+    },
+    "music/sza-ai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/SZA-Grammy-Awards-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, el organismo de vigilancia de IA de The Atlantic reveló que más de 12 millones de canciones se están usando ilegalmente para desarrollar IA. Dentro de ese \"enorme conjunto de datos de canciones\", SZA encontró 238 de sus propios temas."
+        },
+        {
+          "t": "p",
+          "x": "Publicó una captura de la búsqueda del organismo de vigilancia de IA en su cuenta privada de Instagram, NotMusicAtAllISwear, y escribió: \"si eres músico y apoyas esta mierda depravada, eres repugnante, y no hay nada que nadie pueda decir para que esto me parezca bien\"."
+        },
+        {
+          "t": "p",
+          "x": "En otra publicación señaló directamente a Diplo. \"No sé quién necesita oír esto, pero Diplo tiene una participación en Suno y está intentando entrenarla con los cerebros de algunos de los mejores escritores y productores negros\"."
+        },
+        {
+          "t": "p",
+          "x": "Diplo elogió la IA en el podcast Behind The Wall en abril pasado, admitiendo que ahora prefiere las voces de IA a las de cantantes reales. \"Ya no necesitas voces. Puedes conseguir la mejor voz con IA. Ya no necesitas a nadie que cante por ti\"."
+        },
+        {
+          "t": "p",
+          "x": "Para SZA, entrenar IA con el trabajo de músicos negros es solo otra forma en que la industria musical ha menospreciado y explotado el talento negro. \"Somos el 13% de la población de EE. UU. y, sin embargo, influimos en el mundo con nuestro sonido y nuestra perspectiva. Sin protección en la legislación, ni en la sanidad, ni en la creación. El blanco más fácil para robar... No entrenes IA con tu genio. Que se jodan estos tipos raros y buitres\"."
+        },
+        {
+          "t": "p",
+          "x": "La indignación de SZA con la IA venía hirviendo desde hace tiempo. En mayo pasado, después de que la guitarrista Sophie Burrell denunciara una cuenta de deepfake de IA que clonaba sus videos tocando, SZA dejó este comentario: \"Me siento sinceramente faltada al respeto. Duele todavía más que ni los servicios de streaming ni las discográficas nos protejan o hablen por nosotros. No somos nada para nadie\"."
+        }
+      ]
+    },
+    "music/fender-studio-pro": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicTech analizó el DAW gratuito de Fender, Studio Pro 8.1. Esta versión se apoya mucho más en la IA. El motor Moises se encarga tanto de la separación como de la generación de pistas, junto con el cambio de voz y la corrección de tono con IA."
+        },
+        {
+          "t": "p",
+          "x": "La nueva función beta “Studio Assistant” es un chatbot dentro de la app que responde preguntas relacionadas con la producción. Está disponible en el nivel Pro+."
+        },
+        {
+          "t": "p",
+          "x": "Lo llamativo es que se trata de un DAW gratuito que integra IA de nivel Moises directamente en el flujo de mezcla y masterización, en lugar de como una extensión aparte. Cambia lo que alguien que hace música en su cuarto puede hacer desde mañana mismo."
+        }
+      ]
+    },
+    "music/meaw-chain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meaw Chain es un plugin de IA que analiza el audio y construye una cadena de efectos adecuada mediante prompts en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de ajustar los plugins uno por uno a mano, permite describir con palabras el sonido deseado para construir la cadena de procesamiento, bajo un concepto que llama “mezcla por vibra.”"
+        }
+      ]
+    },
+    "music/resing-brazilian": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia añadió ocho modelos de voz en portugués brasileño a su plataforma de síntesis vocal con IA, ReSing."
+        },
+        {
+          "t": "p",
+          "x": "Es una herramienta vocal con IA que convierte voces guía en una toma profesional terminada en un nuevo idioma, y llega junto con la plataforma Singer Showcase, que descubre nuevos artistas."
+        }
+      ]
+    },
+    "music/tidal-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg"
+        },
+        {
+          "t": "p",
+          "x": "TIDAL ha empezado a marcar las pistas que considera hechas enteramente con IA, y también bloquea la acumulación de regalías de esas pistas."
+        },
+        {
+          "t": "p",
+          "x": "Es una política pensada para dirigir los pagos hacia música “hecha, escrita y tocada por personas”, y afecta directamente la forma en que los creadores de música con IA distribuyen sus pistas y reciben su pago."
+        }
+      ]
+    },
+    "music/motiontones": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MotionTones es un instrumento independiente y también un plugin que usa una simulación física bidimensional como motor de composición."
+        },
+        {
+          "t": "p",
+          "x": "Si colocas una bola en la pantalla y dibujas formas, en el instante del choque surgen notas de una escala o acorde elegido de antemano. Como el movimiento de la bola cambia sin cesar, la música también fluye y crece sin detenerse."
+        },
+        {
+          "t": "p",
+          "x": "Admite entrada y salida MIDI, por lo que puede conectarse con otros instrumentos o un DAW, lo que la hace útil como herramienta de composición generativa para esbozar rodando la bola con la mano."
+        }
+      ]
+    },
+    "music/audiotool-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Audiotool 3.0 ya está disponible. Es una reconstrucción desde cero de la DAW basada en navegador conocida por su fuerte capacidad de colaboración. La creación musical multijugador en tiempo real ya funciona en navegadores web y tablets, y pronto llegará una versión nativa para móvil."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esta versión 3.0 también trae Nexus. Es un SDK de código abierto que permite a músicos y desarrolladores construir sus propios instrumentos, plugins y herramientas creativas conectadas a IA directamente dentro de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Rowland, cofundador de Audiotool y productor él mismo, lo expresó así: \"Prácticamente he vivido en un estudio toda mi vida, y lo que frenaba la creatividad casi nunca era la persona en la sala, sino casi siempre el software. Audiotool 3.0 derriba ese muro. Ahora cualquiera, en cualquier lugar, con cualquier dispositivo, puede crear junto a otros, y les abrimos un camino para que construyan ellos mismos las herramientas que necesitará la música de mañana.\""
+        },
+        {
+          "t": "p",
+          "x": "Pasar proyectos entre productores se ha vuelto más fácil año tras año. Aun así, el trabajo sigue avanzando a paso de tortuga cuando los dispositivos no coinciden, los plugins no encajan o faltan archivos."
+        },
+        {
+          "t": "p",
+          "x": "Audiotool dice que su plataforma recién construida elimina estos obstáculos. La empresa explica que permite la colaboración en tiempo real en casi cualquier dispositivo y que tiene la latencia más baja entre las herramientas de producción musical en línea."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de la colaboración, 3.0 abre la propia DAW a través de Nexus. En vez de depender solo de funciones integradas, los usuarios pueden construir instrumentos, efectos, visualizadores, herramientas educativas, juegos musicales e incluso apps conectadas a hardware. El SDK también admite integración con IA mediante MCP y Context I/O. Los creadores pueden conectar a la plataforma el modelo de lenguaje extenso (LLM) que prefieran."
+        },
+        {
+          "t": "p",
+          "x": "Andreas Jacobi, cofundador y CEO, lo comparó así: \"Es básicamente Google Docs con un sandbox creativo como Fortnite o Minecraft añadido. La DAW se convierte en una plataforma donde los creadores construyen, experimentan y hacen música juntos.\" Dijo que las herramientas de desarrollo low-code y no-code traen una nueva mirada sobre cómo hacer música de parte de personas que nunca se consideraron desarrolladoras. Y añadió: \"La próxima generación de herramientas musicales la construirán quienes realmente hacen música.\""
+        },
+        {
+          "t": "p",
+          "x": "Entre los socios iniciales de Nexus figuran Splice, UJAM, BandM8 y Fraunhofer. Audiotool también invitó a más empresas de tecnología musical a sumarse. Además, lanza su serie de hackathons 'Let's Build!', que va desde ahora hasta el 23 de agosto."
+        }
+      ]
+    },
+    "music/ai-song-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La historia del derecho de autor en la música es un registro de luchas interminables entre discográficas y artistas. En los últimos 100 años, el marco legal que protege los derechos de los artistas se ha ido ajustando tarde, y de forma desigual, cada vez que estalla un conflicto. Ahora se abre un nuevo frente. Las empresas de generadores de canciones se están aliando estrechamente con las discográficas en torno a una tecnología que la legislación de autoría existente no maneja bien. El autor, Hunter Hillman, es director de producto en Daydream."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/07/pexels-yasinaydin-3796788.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Aunque todas las discográficas licenciaran su catálogo a Suno mañana mismo, la generación de archivos a partir de indicaciones seguiría entregando a los usuarios canciones terminadas con autoría poco clara. La jurisprudencia estadounidense y las directrices de la Oficina de Derechos de Autor sostienen que un resultado creado por IA sin un control creativo humano significativo no es elegible para registro. Pero nadie ha definido en realidad qué es ese 'control creativo significativo', y el diseño del producto de Suno no fomenta la autoría humana."
+        },
+        {
+          "t": "p",
+          "x": "Un flujo en el que entra una sola indicación y sale un archivo renderizado no deja rastro de las decisiones que una persona toma por el camino. No quedan registros de parámetros cambiados a mitad de proceso, ni de tomas descartadas y regrabadas. Por eso Suno transfiere derechos, título e interés sobre el resultado a los suscriptores Pro y Premier, pero niega explícitamente cualquier garantía de que el derecho de autor recaiga sobre ese resultado. Tras llegar a un acuerdo con Warner, Suno eliminó la palabra 'posee' de un lenguaje que antes decía que los suscriptores 'poseen' sus canciones, y pasó a que Suno siga siendo técnicamente el 'autor' mientras otorga una licencia comercial perpetua."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es una ley de la naturaleza, sino una decisión de diseño. Imaginemos el caso contrario: si alguien toca como si fuera un instrumento mientras el sonido se sigue generando, ajustando parámetros en tiempo real y grabando su propia interpretación, el problema de la autoría humana se resuelve en gran medida por sí solo, porque la persona toma decisiones visibles de principio a fin. El sistema de indicación a archivo fue simplemente un producto pensado para crear más rápido, demostrar más rápido y monetizar más rápido."
+        },
+        {
+          "t": "p",
+          "x": "Las discográficas siguen sin dar marcha atrás. Universal y Sony han optado por seguir litigando en lugar de negociar con Suno, ampliando sus demandas a más de 61.000 grabaciones, y Universal mantiene su demanda contra Suno mientras firma una licencia con su rival Udio. En cualquiera de los dos casos, los artistas quedan fuera de la conversación. Para que la música hecha con IA pueda reclamar la propiedad de forma adecuada, la solución está en el diseño de la herramienta, no en los términos de servicio: construirla de modo que quien la crea sea inequívocamente el autor."
+        }
+      ]
+    },
+    "music/dahlback-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El DJ y productor John Dahlback explicó por qué incorporó la IA a su trabajo. Dijo que disfruta especialmente usando herramientas de IA centradas en la voz."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/john-dahlback@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dahlback ha trabajado con Cazzette y Benny Benassi, y en sus primeros años, bajo el nombre Johvan, incluso hizo 'Don't Hold Back' con Avicii. En esta entrevista dijo que trata la IA 'como un instrumento', y que le resulta emocionante más que atemorizante."
+        },
+        {
+          "t": "p",
+          "x": "A MusicRadar le dijo: 'Sobre todo recurro a la IA para inspirarme. La uso como un instrumento más, como Splice o un sintetizador. Igual que trastear con un sintetizador acaba dando algo, uso la IA de la misma manera. Si le metes el beat en el que estás trabajando, te da ideas sobre hacia dónde llevarlo.'"
+        },
+        {
+          "t": "p",
+          "x": "'De joven estaba metido de lleno en el sampleo. En lugar de meter la muestra directamente en la versión final, prefería reconstruirla yo mismo y usar eso, y con la IA me pasa lo mismo. También confío firmemente en las herramientas de conversión vocal. Canto al micrófono con mi voz horrible, y eso lo convierte en una voz cantada pulida.'"
+        },
+        {
+          "t": "p",
+          "x": "'Si quien la usa no es perezoso y es creativo, la IA es realmente bienvenida. Mi hermano es un productor de la vieja escuela que graba bandas de forma tradicional.'"
+        },
+        {
+          "t": "p",
+          "x": "'Antes le tenía miedo a la IA en la música, pero mi hermano me dijo que era increíble. Vino una cantante, grabó todas las voces principales y se fue, y solo después se dieron cuenta de que no había coros. Así que metieron el a cappella de esa cantante en la IA y sacaron stems y coros excelentes, y las voces quedaron mucho más ricas. Pensé que era un uso realmente genial.'"
+        },
+        {
+          "t": "p",
+          "x": "También contó una conversación reciente con el productor de una 'cantante sueca bastante famosa' cuyo nombre no puede revelar. Esa cantante encontró una cinta en la que cantaba alrededor de los cinco años, y hay un plan en marcha para entrenar a la IA con esa voz infantil y que pueda 'hacer un dueto consigo misma'. 'Es algo realmente increíble. Estoy completamente de acuerdo.' Aun así, trazó una línea: que cualquiera use la IA de forma perezosa para sacar una canción pop y subirla a Spotify no tiene sentido, según dijo."
+        }
+      ]
+    },
+    "music/riaa-ai-labels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "RIAA e IFPI encabezan una iniciativa del sector para añadir etiquetas estándar de IA a los principales servicios de streaming, incluidos Spotify y Apple Music. La Recording Academy, SAG-AFTRA, la Human Artistry Campaign y la Asociación Estadounidense de Música Independiente también respaldan la propuesta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/05/shutterstock_2777587797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El etiquetado tiene dos ramas. 'IA generada' se aplica a canciones hechas por completo a partir de una indicación de texto, o en las que la máquina creó la voz principal o los instrumentos principales. 'IA asistida' designa canciones hechas principalmente por personas que recurren a la IA en partes específicas."
+        },
+        {
+          "t": "p",
+          "x": "La etiqueta aparece como un pequeño icono en forma de mosaico. Los contenidos totalmente generados llevan una 'IA' blanca sobre fondo negro, mientras que las canciones asistidas llevan una 'ia' en minúscula sobre fondo blanco, con un aspecto similar a los avisos de contenido existentes."
+        },
+        {
+          "t": "p",
+          "x": "Mitch Glazier, presidente de la RIAA, dijo que 'la transparencia es la mejor forma de conseguir ambas cosas a la vez', señalando tanto la libertad creativa como el derecho de los oyentes a saber."
+        },
+        {
+          "t": "p",
+          "x": "Una encuesta de Deezer e Ipsos halló que el 97% de los oyentes no podía distinguir la música hecha con IA de la hecha por personas, pero el 80% quería que, al menos, las canciones totalmente de IA se etiquetaran con claridad. Sin embargo, este sistema excluye del etiquetado la IA usada en composición, letras, portadas y videos musicales. DiMA, que representa a las plataformas de streaming, apoya que llegue a los oyentes información más confiable sobre la IA proveniente de los creadores, pero aún no ha confirmado si sus empresas miembro adoptarán el sistema."
+        }
+      ]
+    },
+    "music/spotify-umg-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify y Universal Music Group anunciaron recientemente una función de IA de pago. Permitirá a los suscriptores Premium crear covers y remixes con canciones de artistas y compositores participantes. Los artistas eligen participar voluntariamente, reciben crédito y también una compensación. Universal la llamó la 'AI Superfan Initiative', y Spotify dijo que abre una nueva fuente de ingresos y 'nuevas formas de impulsar el descubrimiento'."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-8-spotify-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spotify lleva años combatiendo el streaming falso, porque los oyentes falsos contaminan las métricas, las regalías, las listas y el descubrimiento. Pero ahora anima a los usuarios a producir en masa versiones sintéticas de canciones ya existentes. Quien pulsa reproducir puede ser una persona real, pero la música consumida en sí es artificial y derivada, y favorece a canciones de catálogo que ya tenían éxito. Bloquea un tipo de distorsión de IA mientras convierte el otro en una fuente de ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Hay una diferencia entre que un artista use IA al crear una canción y que una plataforma use una canción terminada como materia prima para un nuevo producto. Una canción es un cúmulo de innumerables decisiones. Alguien se aferró a una letra que casi descartó; alguien eligió la toma con la voz quebrada en lugar de la perfecta. Spotify intenta ahora vender a los oyentes un botón que pregunta: 'eso está bien, pero ¿y si querías otra cosa?'."
+        },
+        {
+          "t": "p",
+          "x": "El problema del descubrimiento es peor todavía. Las canciones mejor posicionadas para infinitas variaciones de IA son las que la gente ya conoce, es decir, las que ya tienen valor de catálogo y atención asegurados. Esto no es descubrimiento, es reconsumo. En un lugar donde entran más de 100.000 canciones nuevas cada día, Spotify quiere añadir también covers y remixes de IA de canciones ya conocidas."
+        },
+        {
+          "t": "p",
+          "x": "La participación debería ser voluntaria, remunerada y estar bajo el control del artista. Eso es lo mínimo para evitar el robo, pero una 'mala idea debidamente licenciada' sigue siendo una mala idea. Además, el consentimiento se complica en una era en la que los propios catálogos se compran y venden. Como ocurrió con la reciente venta del catálogo de grabaciones de los Red Hot Chili Peppers, ni siquiera está claro quién tiene el derecho a aprobar y quién puede negarse. Spotify ya ha construido la máquina. Ahora queda ver qué artistas meterán sus canciones en ella."
+        }
+      ]
+    },
+    "music/bbc-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
+          "cap": "La BBC y la IA musical"
+        },
+        {
+          "t": "p",
+          "x": "Lorna Clarke, directora de música de la BBC, presentó la política de IA musical de la emisora. Las emisoras de radio de la BBC y sus distintas plataformas priorizarán siempre la música que sea 'producto de una creación humana significativa'. Eso no significa que los creadores no puedan usar herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, lo que la BBC quiere es ser transparente sobre cómo se usó la IA en la música que emite y promueve. Por eso, los artistas y las discográficas deberán revelar el uso de herramientas de IA cuando publiquen música. Al menos a corto plazo, esto no será fácil, porque el propio sector aún no ha decidido cómo identificar, reportar y etiquetar el uso de IA en la creación musical."
+        },
+        {
+          "t": "p",
+          "x": "Clarke también dijo que la BBC 'no emitirá a sabiendas música generada por IA que infrinja obras existentes'. Esta también es una promesa difícil de cumplir. La cuestión cambia según si se refiere solo a música que infringe abiertamente obras existentes, o si también incluye música creada o modificada por modelos de IA entrenados con música sin licencia."
+        },
+        {
+          "t": "p",
+          "x": "Si es lo segundo, el problema se agrava. La mayoría de las empresas de IA mantienen muy en la ambigüedad con qué contenido existente entrenaron sus modelos. Iniciativas como Fairly Trained, de Ed Newton-Rex, que certifica modelos entrenados solo con contenido con licencia, ayudan algo, pero por ahora es muy probable que muchas de las herramientas de IA que usan los creadores hayan sido entrenadas con obras sin licencia."
+        },
+        {
+          "t": "p",
+          "x": "Como emisora pública, la BBC siempre recibe un escrutinio más estricto sobre sus políticas de IA. El año pasado, 'BBC Introducing' West Midlands fue criticado por incluir una pista mediocre generada por IA en su sección de artista del mes, aunque parecía hacerlo para generar debate sobre las herramientas de IA musical en antena."
+        },
+        {
+          "t": "p",
+          "x": "En una entrada de blog publicada ayer, Clarke dijo que los artistas que usan herramientas de IA también serán considerados para la programación. Pero marcó un límite: 'estas herramientas deben usarse para apoyar la creatividad humana, no para sustituir el papel humano de desarrollar, pulir y expresar la idea creativa en sí misma'. Limitarse a introducir un prompt, generar y elegir un resultado, o retocar levemente una salida de IA, difícilmente cuenta como creación humana significativa."
+        },
+        {
+          "t": "p",
+          "x": "Esta política de transparencia surgió de una investigación entre oyentes, que mostró que a los oyentes les importan los músicos y la creación humana, y que quieren saber cuánto intervino la IA en la música que escuchan. Por eso, la BBC decidió exigir a los artistas y socios que envían obras que revelen si usaron IA y cómo lo hicieron."
+        },
+        {
+          "t": "p",
+          "x": "Esto conecta con un debate cada vez más candente dentro de la industria musical. Las opiniones difieren sobre la utilidad real de las herramientas automáticas para detectar música con IA, sobre todo cuando se trata de música en la que la IA solo colaboró, en lugar de crearla por completo. El sector todavía no tiene reglas generales de autodeclaración del uso de IA, y esas reglas se están volviendo urgentes."
+        }
+      ]
+    },
+    "music/brand-audit-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La forma de descubrir música ha cambiado por completo. Los fans, los agentes de contratación e incluso las discográficas ya no se limitan a escribir el nombre de un artista en la caja de búsqueda. Le preguntan a una IA como ChatGPT, Claude o Google Gemini cosas como \"quién es un artista de neo soul emergente en Roanoke, Virginia\" o \"recomiéndame una banda de indie rock que haga giras por locales pequeños en mi zona.\""
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/photo-1743796055664-3473eedab36e.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Pedirle a los fans que busquen en redes sociales no es mala idea. Pero si tu presencia en línea no está preparada tanto para la optimización de búsqueda tradicional como para los motores de recomendación de IA actuales, estás dejando escapar nuevos fans y ventas de entradas."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que el algoritmo te conoce demasiado bien. Si buscas el nombre de tu banda desde tu propio portátil o teléfono, Google combina tu historial de búsqueda, tu ubicación y las cookies para darte un resultado hecho a tu medida. Cuando tu último lanzamiento en Spotify y tu sitio web aparecen arriba, es fácil creer que tu optimización de búsqueda es perfecta. Para ver lo que realmente ve un posible fan o un agente de contratación local, hay que eliminar ese sesgo. Abrir una ventana de incógnito impide que el motor de búsqueda use tu comportamiento pasado, y revela tu exposición real, sin filtrar."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres cosas que revisar. Comprueba si los primeros resultados llevan a tu sitio web oficial y a tus perfiles actuales en servicios de música, o si derivan hacia una página muerta de MySpace o un artículo local de hace cinco años, y ajusta el relato según corresponda. Tanto la búsqueda como la IA dan prioridad al contexto local, así que revisa si tu ciudad de origen, tu historial de conciertos y la prensa local están bien vinculados a tu identidad. Los modelos de IA aprenden de datos estructurados repartidos por toda la web, y si no apareces con precisión en lugares como Google, Wikipedia o MusicBrainz, la IA no te recomendará."
+        },
+        {
+          "t": "p",
+          "x": "El método es simple. Abre una ventana de incógnito en Chrome, Safari, Edge o Firefox, busca tu nombre de artista y comprueba si tus redes sociales activas, Spotify y tu sitio web ocupan los primeros puestos. Prueba también la búsqueda local con palabras clave que combinen un género y una ciudad (por ejemplo, \"banda de indie pop de Chicago\"). Luego pregúntale a ChatGPT o Claude cosas como \"quién es el músico [nombre]\" o \"recomiéndame artistas parecidos a [nombre].\" Anota los enlaces que falten, las fotos desactualizadas o las descripciones de género incorrectas, y corrige tus perfiles, tu biografía y, sobre todo, tus metadatos."
+        },
+        {
+          "t": "p",
+          "x": "Gestionar tu exposición en las búsquedas ya no es vanidad, es infraestructura para una carrera musical actual. Los chatbots de IA y los algoritmos de búsqueda basados en la ubicación son los nuevos guardianes del descubrimiento de fans y las contrataciones locales. Si no te ocupas tú mismo de los datos que alimentan estos motores, corres el riesgo de volverte invisible para un agente de contratación local o tu próximo fan incondicional."
+        }
+      ]
+    },
+    "music/ciauru": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El DJ y productor italiano Ciauru ganó el concurso de música Repli AI, una competencia para experimentos que cruzan IA, música y actuación en directo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LJqZcGQnRf5zmTFYbHgkVZ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se llevó la victoria tras subir al escenario del Kappa FuturFestival en Turín, junto a otros cuatro finalistas elegidos por un jurado internacional. Su obra ganadora, 'Raw Botanical Data', usó plataformas como Krea (Krea.ai), SeeDance y Higgsfield para transformar el material de video en \"movimiento imposible, estructuras espaciales recursivas, texturas inestables\"."
+        },
+        {
+          "t": "video",
+          "yt": "WID7ZZZ8Oog"
+        },
+        {
+          "t": "p",
+          "x": "Ciauru, cuyo nombre real es Simone Privitera, dijo: \"La inteligencia artificial no es necesariamente una amenaza ni un obstáculo. Esta vez la usé de forma creativa. Todo empezó en manos humanas, y esas manos llevaron el 90% del trabajo.\""
+        },
+        {
+          "t": "p",
+          "x": "Al concurso se presentaron, según se informa, más de 1.400 obras a Repli. En medio de esa multitud, quien llegó a la cima fue, al final, un creador con experiencia. Privitera ha trabajado con artistas reconocidos como el peso pesado italiano del electro house Benny Benassi, el DJ neerlandés Don Diablo y el superproductor estadounidense Steve Aoki."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, muchos en la industria no ven con buenos ojos su decisión de lanzarse de lleno al controvertido mundo de la música con IA. Jay Ahern, director de estrategia de la Association For Electronic Music (AFEM), advirtió recientemente sobre el riesgo de que la IA se use para \"replicar por completo el trabajo creativo de otra persona\". La formación de la banda antiIA Bootleg Velvet Sundown muestra hasta dónde están dispuestos a llegar algunos artistas para proteger a los músicos en directo y rechazar la inteligencia artificial en la música."
+        },
+        {
+          "t": "p",
+          "x": "\"La IA ayudó muchísimo a acelerar un proceso que de otro modo habría tardado mucho más\", dijo Privitera. \"Espero que participen más artistas emergentes. Crear una conexión con estas plataformas a través de intentos como este no solo es posible, sino muy efectivo.\""
+        }
+      ]
+    },
+    "music/m-compressor-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Techivation ha lanzado M-Compressor 2, una actualización de su plugin de compresión espectral. Hay varios cambios notables."
+        },
+        {
+          "t": "p",
+          "x": "Las funciones principales del original se mantienen, combinando compresión ascendente, compresión descendente y gating. Las funciones Up, Down y Gate tienen umbrales independientes: las señales por encima del umbral Down se reducen con compresión descendente estándar, las señales entre los umbrales Up y Gate se potencian, y lo que queda por debajo del umbral Gate se atenúa."
+        },
+        {
+          "t": "p",
+          "x": "Al ser un compresor espectral, aplica distintos niveles de compresión por banda de frecuencia sin dividir en múltiples bandas. El usuario puede ajustar los parámetros espectrales directamente o activar el control Shaping, que analiza continuamente el audio entrante y ajusta la compresión para evitar un sonido “turbio” o “áspero”."
+        },
+        {
+          "t": "p",
+          "x": "La función estrella es la nueva herramienta Mix Assistant, que reúne todos los parámetros del plugin en un único control. La herramienta analiza el audio entrante y genera 12 ajustes de compresión adaptados a la pista. El usuario elige cuatro de ellos y se mueve con suavidad entre ellos para ajustar de forma intuitiva el carácter de compresión que busca."
+        },
+        {
+          "t": "p",
+          "x": "Es compatible con Windows 7 o posterior y macOS 10.15 o posterior, y está disponible en formatos VST, VST3, AU y AAX."
+        },
+        {
+          "t": "p",
+          "x": "El precio de introducción es de 55 dólares hasta el 20 de julio de 2026, tras lo cual sube a 149 dólares. Ya se puede comprar."
+        }
+      ]
+    },
+    "music/devocean": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ocean Swift lanzó DevOcean Modular, un sintetizador modular de software y entorno de diseño sonoro con 145 módulos. Lo que destaca es MaYa, un agente de IA modular integrado en él. Trabaja junto al usuario mientras se arma el parche, sugiriendo qué módulos usar e incluso ayudando a conectar los cables."
+        },
+        {
+          "t": "p",
+          "x": "Esto difiere de los generadores que producen una canción terminada a partir de texto. Es un caso temprano de IA generativa instalada en pleno flujo de trabajo de un sintetizador modular para “parchear junto” al usuario, lo que toca la forma misma de crear sonido."
+        },
+        {
+          "t": "p",
+          "x": "El precio es de 129,99 euros, un 35% por debajo del precio de lista de 199 euros, y el descuento se mantiene hasta el 1 de septiembre de 2026."
+        }
+      ]
+    },
+    "music/josh-fawaz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El DJ australiano Josh Fawaz añadió nuevos créditos de IA a su versión de “Like a Prayer” de Madonna, un tema que ha superado los 38 millones de streams."
+        },
+        {
+          "t": "p",
+          "x": "El origen fue una investigación de ABC. La pesquisa reveló que se había usado IA generativa de forma extensa en el tema, y después llegaron duras críticas."
+        },
+        {
+          "t": "p",
+          "x": "Cuando la polémica creció, Fawaz añadió créditos de voz con IA y de batería con IA al tema publicado en Spotify, un caso que pone de relieve cómo se etiquetan los éxitos hechos con IA."
+        }
+      ]
+    },
+    "music/eldoraudio-midi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eldoraudio presentó \"Guitar Audio to MIDI Converter\", una herramienta de navegador que convierte grabaciones de guitarra en archivos MIDI estándar."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Este conversor de guitarra se suma al ya existente \"Piano Audio to MIDI Converter\". Basta con subir un archivo de audio y, si es necesario, ajustar el BPM, para recibir una transcripción MIDI que se puede retocar en un DAW."
+        },
+        {
+          "t": "p",
+          "x": "Puede ser útil para quienes graban primero la parte de guitarra y dejan el MIDI para después. Una vez convertida a MIDI, se pueden corregir notas erróneas, ajustar el tiempo, cambiar el tempo o añadir instrumentos virtuales sin tener que volver a tocar la parte desde cero."
+        },
+        {
+          "t": "p",
+          "x": "Acepta formatos de audio comunes como MP3, WAV, FLAC y M4A. Los usuarios gratuitos pueden convertir los primeros 30 segundos de un archivo sin registrarse ni introducir una tarjeta."
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio afirma que el modelo actual está ajustado para guitarra limpia. Está optimizado para grabaciones de cuerdas de acero, cuerdas de nailon, eléctrica limpia y guitarra de jazz. Ya se prepara un modelo dedicado a guitarra eléctrica con distorsión y overdrive, aunque por ahora la precisión cae notablemente en guitarra distorsionada."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta no capta deliberadamente los bends de altura. Según la empresa, los modelos que intentan seguir los bends suelen hacerlo de forma torpe y desafinan la nota, por lo que prefieren centrarse en la precisión de las notas y dejar los bends a la edición manual."
+        },
+        {
+          "t": "p",
+          "x": "Como el resultado es un archivo MIDI estándar, puede importarse en la mayoría de DAW, apps de partituras y herramientas de tablatura. Todavía no hay exportación nativa a Guitar Pro ni a MusicXML, pero la empresa dice que ambas están en el plan."
+        },
+        {
+          "t": "p",
+          "x": "Aunque el modelo está ajustado para guitarra en solitario, también puede aislar la parte de guitarra en grabaciones mixtas y usarse con instrumentos como arpa, violín o piano. Aun así, para grabaciones centradas en piano conviene más el conversor de piano dedicado."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de Eldoraudio también ofrece otras herramientas de conversión de audio, como un separador de pistas y un eliminador de voz. El conversor de guitarra es la incorporación más reciente a esa gama."
+        },
+        {
+          "t": "p",
+          "x": "Las subidas están limitadas a 100MB, y los planes de pago admiten archivos de hasta 30 minutos. Las conversiones más largas se cobran por segundo a una tarifa flexible de 0,25 dólares por minuto. Las recargas comienzan en 5 dólares por 20 minutos. El plan Pro, de 15 dólares al mes, da 1.000 minutos de procesamiento y se puede cancelar en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio señaló que los archivos convertidos pueden usarse comercialmente si el usuario posee los derechos del audio subido."
+        }
+      ]
     }
   }
 }

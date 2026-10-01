@@ -2016,6 +2016,583 @@
           "x": "结论很明确。如果你已经喜欢Ray-Ban Meta，并想每天戴着配镜款使用，Optics是目前能买到的最舒适、最高端的版本。剩下的问题只是你是否愿意为此付费。"
         }
       ]
+    },
+    "gadgets/apple-smart-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "苹果将在2026年重新加大对智能家居业务的投入，核心是更加个性化的Siri。"
+        },
+        {
+          "t": "p",
+          "x": "新款家庭中枢搭载6~7英寸显示屏和A18芯片，在设备本地直接运行Apple Intelligence。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时还将一并推出AI性能提升的Apple TV 4K，以及重新打磨的HomePod和HomePod mini。"
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "三星应用泄露中出现了一个新名字——“Galaxy Buds On”。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-6.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "这是一款不堵塞耳道的开放式、骨传导耳机，与Galaxy Watch 9、Watch Ultra 2一同出现在列表中。"
+        },
+        {
+          "t": "p",
+          "x": "这三款设备预计都将在7月的Unpacked上搭载Galaxy AI功能亮相。"
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-watch-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "三星在7月22日Unpacked发布会前，悄悄透露了新款Galaxy Watch。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这款手表搭载“全新内部元件”，用AI实时读取身体状态。"
+        },
+        {
+          "t": "p",
+          "x": "它不只是记录数据，而是转向先理解健康、再提前管理的方向。"
+        }
+      ]
+    },
+    "gadgets/siri-gemini": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "苹果推迟了一年的新Siri终于登陆iOS27，这次的Siri基于谷歌Gemini模型运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
+          "cap": "体验iOS27中的新Siri"
+        },
+        {
+          "t": "p",
+          "x": "Gizmodo使用一个月后发现，它在检索个人数据和处理多步骤任务方面表现不错。"
+        },
+        {
+          "t": "p",
+          "x": "不过评价认为它还没有做到完美流畅。即便如此，对依赖苹果助手的人来说，这仍是值得关注的变化。"
+        }
+      ]
+    },
+    "gadgets/apple-google-cloud": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "苹果为Apple Intelligence的部分功能新增了隐私弹窗,对象是把处理工作转交给Google Cloud的功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "这是一项UI变化,用于显示哪些任务会离开设备发往Google Cloud。这也是一个信号,表明由Gemini协助的Siri改版正在走向iPhone。"
+        }
+      ]
+    },
+    "gadgets/dreame-x60": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "追觅旗舰扫地机器人X60 Max Ultra配备了两颗AI摄像头,还增加了可优先照亮暗角的主动补光。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg"
+        },
+        {
+          "t": "p",
+          "x": "凭借这一组合,它能辨别280种障碍物,展现出家用机器人端侧AI视觉已经发展到何种程度。"
+        }
+      ]
+    },
+    "gadgets/sk-hynix-tetramem": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SK海力士和Tetramem正在打造一款基于忆阻器的存内计算SoC。其方式是在存储器内部直接完成运算,以降低功耗。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "目标很明确:降低在设备端运行轻量模型的边缘AI推理功耗。不过,实际性能究竟如何,目前仍不明朗。"
+        }
+      ]
+    },
+    "gadgets/alexa-moonraker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "亚马逊正在打造Alexa的高阶版本\"Moonraker\"。据Business Insider确认的内部规划文件显示，这个智能体型助手能把多个请求一次串联处理，比如一边叫车一边给朋友发短信。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/intro-1783528237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Google、Anthropic和OpenAI的智能体模型纷纷抢先的背景下，这是亚马逊为保住Alexa竞争力所做的尝试。但成本是个障碍。亚马逊将2026年的GPU支出预算定在超过1亿美元，一些高层管理人员认为过去在Alexa上投入已经过多。"
+        },
+        {
+          "t": "p",
+          "x": "据2025年末的文件显示，亚马逊计划为Moonraker配备数百台Nvidia GPU，并用Anthropic的Sonnet模型测试高级推理与视觉能力。"
+        },
+        {
+          "t": "p",
+          "x": "Alexa+在2026年初已在美国全面上线，但起步并不顺利。连基本请求都会卡顿，Engadget评测人员Cherlynn Low指出，这个助手不太能记住此前的对话，或是像叫Uber这样的应用请求。"
+        },
+        {
+          "t": "p",
+          "x": "与Moonraker的消息无关，亚马逊仍在持续为Alexa+增加功能。2月份加入了可选择性格的选项，随后又加入了允许说脏话的\"Sassy\"模式。最近还加入了在Grubhub和Uber Eats上用语音点餐的功能。"
+        }
+      ]
+    },
+    "gadgets/robert-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "科幻作家和AI研究者们数十年来一直梦想着这样一天：与人形机器人对话会自然到和与人交谈没有区别。聊天机器人已经到了让自己相信自己有意识的地步，但真正能和人类生活在一起的、像人一样的机器人还有很长的路要走。"
+        },
+        {
+          "t": "p",
+          "x": "本周在日内瓦举行的联合国\"AI for Good\"峰会上，参观者得以与机器人罗伯特互动。它身高约180厘米，穿着西装打领带，外形与特斯拉Optimus如出一辙，屏幕做成的脸上轮流显示特朗普、奥巴马和马克·扎克伯格的影像。别把它和1956年电影《禁忌星球》里的罗比搞混了。罗伯特由瑞士机器人公司RB Labs制造，设计目的是模仿人与人之间交流时那些微妙的非语言表情信号。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"未来，和机器人交谈并从表情中读取信息会变得很重要。就像看到笑脸就知道对方心情不错一样。\"这是RB Labs联合创始人Robin Cranbroukers在接受路透社录制采访时说的话。他身后，戴着特朗普面具般脸孔的罗伯特，正茫然地望向镜头外的某处。\"就算现在让罗伯特做些奇怪的动作，人们也不会把它误认成真的特朗普。我不认为它陷入了恐怖谷。\""
+        },
+        {
+          "t": "p",
+          "x": "这一点倒是说得通。在路透社发布的视频里，罗伯特的两只眼睛各自飘向不同方向，另一个画面中，它带着一副不对称的眼睛、面无表情地像卡通一样皱起脸，随即又突然露出灿烂笑容。看这段视频有不少令人惊讶之处，但唯独不用担心人们会把罗伯特误认成真的扎克伯格或特朗普。"
+        },
+        {
+          "t": "p",
+          "x": "人形机器人研究近年确实取得了很大进展，这得益于在海量真实数据上训练的AI，能够预测自己在陌生情境下该如何反应。但正如自动驾驶行业长久以来的教训所示，目前还没有哪款机器人能娴熟应对现实中无穷的变量。2024年Optimus端饮料的视频一度看起来像是突破，但后来发现它更接近于背后有人操控的机械木偶。"
+        },
+        {
+          "t": "p",
+          "x": "只靠文字交流的语言模型，反而更容易骗过人。就连坚定的唯物主义者理查德·道金斯，也曾掉入过这个陷阱。语音模型也在逐渐更好地模仿人类说话的细微之处，但距离进入恐怖谷还很远。"
+        },
+        {
+          "t": "p",
+          "x": "据RB Labs官网介绍，罗伯特可以被邀请参加展览、会议和各种活动，遗憾的是不能出席生日派对。公司正在招聘多个职位，包括\"机器人安全保证工程师\"和世界模型专业工程师，世界模型是部分研究者眼中通向通用人工智能(AGI)最有希望的路径之一。"
+        }
+      ]
+    },
+    "gadgets/rollme-aircam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在耳机里装相机，如今已经不只是新奇的实验，而正在变成一个独立的产品品类。Razer在CES 2026上展示了Project Moto'ko，Vibelens去年在Kickstarter上推出了MusicCam。据传Apple也在考虑给AirPods加相机。Rollme也加入了这场竞争，而AirCam是其中对钱包最友好的一款。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Rollme-AirCam-in-black.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "花79.99美元，就能买到一款配备8MP相机、Wi-Fi 6和板载AI的开放式骨传导耳机。Rollme没有透露具体的传感器型号。相机带EIS，可拍摄1080p 30fps视频，存进内置的8GB存储空间。"
+        },
+        {
+          "t": "p",
+          "x": "不过单个片段被限制在10分钟，要拍更长的视频就得分几次录制。照片和视频通过Wi-Fi传输，而不是蓝牙。操作靠触控完成：点一下拍照，点两下录视频，点三下录音。"
+        },
+        {
+          "t": "p",
+          "x": "和如今几乎所有产品一样，它也配备了板载AI。可以实时识别物体并回答相关提问，还支持实时翻译，这对旅行者或遇到语言障碍的人很有用。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Rollme-AirCam-live-translation.jpg?resize=1258%2C716"
+        },
+        {
+          "t": "p",
+          "x": "音频方面配备16mm高保真单元、通话用双ENC麦克风和220mAh电池，可支持10小时音乐或通话，待机120小时。实际音质得用过才知道，但就这个价格而言，塞进去的东西显然不少。"
+        },
+        {
+          "t": "p",
+          "x": "最明显的对手是Vibelens的MusicCam，它用旋转式Sony传感器拍摄2K视频，支持6轴防抖，可连续录制2.6小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Vibelens-MusicCam.jpg?resize=2000%2C1200"
+        },
+        {
+          "t": "p",
+          "x": "MusicCam在Amazon上售价约129美元，即便考虑到规格差异，AirCam的定价也明显低了不少。如果你在找便宜的相机耳机，AirCam也是个不错的选择。"
+        }
+      ]
+    },
+    "gadgets/watch-illness-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "智能手表如今已经不只是数步数和心率了。它还监测睡眠、皮肤温度、呼吸频率、血氧、心率变异性，甚至睡眠呼吸暂停的迹象。光看营销话术，仿佛腕上的三录仪已经近在眼前，但它究竟能在多大程度上捕捉到疾病的早期信号，仍是个值得推敲的问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/intro-1782925052.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这些设备最擅长的，是察觉身体偏离平常模式的那一刻。那个异常值就成为去看医生的信号。最典型的例子是检测会提高中风风险的心律不齐——心房颤动。一项Apple Watch的研究发现，\"在不规则心跳提醒中，84%被确认为真实的心房颤动\"。"
+        },
+        {
+          "t": "p",
+          "x": "医生认为在临床上真正有用的指标，基本上也就是加上基础睡眠模式和步数这些而已。血压提醒、卡路里估算，以及精细的睡眠阶段追踪，都还不足以用来做诊疗判断。VO2 max和心率变异性也只能当作大致的参考值。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/knowing-the-limits-1782925054.jpg"
+        },
+        {
+          "t": "p",
+          "x": "即便是可靠的指标，也会带来误报。静息心率升高可能意味着身体在对抗感染，但也可能只是因为没睡好，或者比平时多喝了点酒。因此医生看的是趋势，而不是单次数值。"
+        },
+        {
+          "t": "p",
+          "x": "早在感到流感或COVID-19症状之前很久，身体就已经出现细微变化。德克萨斯A&M大学和斯坦福大学的研究人员发现，智能手表能在感染后几小时内捕捉到早期信号，并估计\"如果能让人们更早隔离、检测和治疗，大流行的传播最多可以减少50%\"。"
+        },
+        {
+          "t": "p",
+          "x": "Google、Oura和Whoop都在各自的应用里加入了AI教练，还有像Oura的Symptom Radar或Apple的Vitals那样，把多个传感器整合起来和基准值比对的功能。不过这类分析大多在后台运行，还拿不出医生能立刻信赖并使用的结果。"
+        },
+        {
+          "t": "p",
+          "x": "说到底，能在手腕上诊断疾病的三录仪很可能不会出现。取而代之的，是一种安静地观察模式、一旦出现异常就提醒你，并为你和医生的沟通递上一条线索的设备。"
+        }
+      ]
+    },
+    "gadgets/sony-rx10v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "索尼让它最受欢迎的全能相机重获新生，这次搭载了从专业级Alpha无反相机系列移植而来的自动对焦AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Sony-RX10-V-featured-image.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "上一代的优点全部保留：覆盖24mm至600mm、光圈F2.4至4.0的ZEISS Vario-Sonnar T*镜头、1.0型堆栈式传感器，以及小巧的机身。"
+        },
+        {
+          "t": "p",
+          "x": "那么RX10 V真正的新意是什么？是由端侧BIONZ XR AI处理器驱动的实时识别自动对焦，能自动分辨人物、动物、飞鸟、昆虫、汽车、火车和飞机，改变了相机在实际场景中的反应方式。"
+        },
+        {
+          "t": "p",
+          "x": "加上每秒30张的无黑屏连拍和每秒60次的AF/AE运算，这是RX10系列首次能在飞行途中追上转向的苍鹭。"
+        },
+        {
+          "t": "p",
+          "x": "视频性能也大幅提升。RX10 IV最高只能拍4K 30fps，而RX10 V可拍摄4K 120fps(视角会略有缩小)。电池续航比上一代提升50%，使用NP-FZ100约可拍630张。368万点的全新Quad-VGA OLED取景器，也能在强光下保持取景清晰。"
+        },
+        {
+          "t": "p",
+          "x": "不过价格为2,299美元，明显高于RX10 IV的1,699.99美元。如果想在拍摄野生动物、鸟类、体育和旅行时，不更换镜头就用一个机身覆盖全焦段，这是无反相机组合给不出的价值。美国上市时间为2026年8月。"
+        }
+      ]
+    },
+    "gadgets/ms-terminal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "微软在Build 2026上公布的实验性「智能终端」是从Windows Terminal分支出来的独立应用。它不会取代现有终端,而是单独安装,采用用户自愿选用的opt-in方式。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-1.png"
+        },
+        {
+          "t": "p",
+          "x": "引人注意的是,这款终端并不被Copilot绑定。默认代理是GitHub Copilot,但Claude Code、OpenAI的Codex、Google的Gemini,甚至Pi都可以并列接入。"
+        },
+        {
+          "t": "p",
+          "x": "作者只用五分钟就把开源的Pi连接到了本地模型Qwen 3.6 27B上。在Computex演示中,也用Qwen 3.6 35B-A3B跑了一遍。一个不依赖云端、就在桌面上运行的代理型AI,仿佛已经触手可及。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-3.png"
+        },
+        {
+          "t": "p",
+          "x": "整体架构搭建在代理客户端协议(ACP)之上。由于通过stdio以JSON-RPC 2.0的方式交换数据,任何代理都能用同一套规格替换接入。"
+        },
+        {
+          "t": "p",
+          "x": "界面上也花了功夫。屏幕底部始终显示代理状态栏,并带有可通过Ctrl+Shift+.开合的停靠面板。Ctrl+Shift+/可以一目了然地管理会话,还能在命令面板加上前缀直接发出提示词。"
+        },
+        {
+          "t": "p",
+          "x": "一旦命令出错,终端会率先察觉。作者输入了Windows上没有的Linux编辑器「nano」,代理随即指出问题,并给出了通过WinGet、Chocolatey、Scoop安装,或改用记事本、VS Code等替代方案的建议。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/microsoft-intelligent-terminal-6.png"
+        },
+        {
+          "t": "p",
+          "x": "这种方式的选择透露出用意。微软没有把这个功能塞进主终端,而是把它拆成了一个独立应用。这似乎是在呼应2025年把Copilot硬塞进画图和记事本、次年又在K2质量整顿中撤回的那次经历。"
+        },
+        {
+          "t": "p",
+          "x": "代理分四类方式运作:执行shell命令、自行诊断并修复、委托给其他AI服务,以及单纯对话。版本号是0.1,刻意从极简开始。"
+        },
+        {
+          "t": "p",
+          "x": "也有人对这种开放姿态持怀疑态度,认为微软只是因为自己没有拿得出手的云端模型才敞开大门,一旦情况改变,随时可能重新收紧。"
+        }
+      ]
+    },
+    "gadgets/galaxy-watch-teaser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "三星已经开始正式预告下一代Galaxy Watch系列。Galaxy Watch9系列和Galaxy Watch Ultra2将于7月22日发布。"
+        },
+        {
+          "t": "p",
+          "x": "发布会将于7月22日上午9点(美国东部时间,太平洋时间上午6点)举行。三星表示,新表将采用“全新的内部元件”,电池续航也会延长。"
+        },
+        {
+          "t": "p",
+          "x": "三星将这款新表称为“全新的AI健康伙伴”,主打实时AI健康洞察和更精准的测量,称这是个性化AI愿景的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "三星表示,新款Galaxy Watch“提供智能的实时健康洞察,帮助用户更好地了解自己的健康并提前采取行动”。这意味着设备不再只是记录数字,而是由后台AI持续运行,“主动解读”健康数据。"
+        },
+        {
+          "t": "p",
+          "x": "预告视频中出现了心率测量、睡眠呼吸暂停检测、个性化健康指导,以及专为跑步设计的运动表盘等内容。不过,具体硬件细节和电池续航时间这次并未在预告中公开。"
+        }
+      ]
+    },
+    "gadgets/galaxy-z8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Android Headlines获得了三星多款新品的官方渲染图,Galaxy Z Flip 8、Z Fold 8、Galaxy Watch9和Watch Ultra2一次性全部曝光。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/official-renders-for-samsungs-galaxy-z-flip-8-watch-9-watch-2-ultra-and-z-fold-8-leak/intro-1783527075.jpg",
+          "cap": "泄露的三星Galaxy新品官方渲染图"
+        },
+        {
+          "t": "p",
+          "x": "Z Flip 8将提供白色、灰色和粉色三种颜色。设计与Z Flip 7几乎一模一样,但这并不是坏事。摄像头和闪光灯位置也保持不变。只是希望Flip 7唯一的短板——老旧的摄像头,内部能有所改善。"
+        },
+        {
+          "t": "p",
+          "x": "有传言称芯片将分为两种版本:搭载Exynos 2600的型号和搭载Snapdragon 8 Elite Gen 5的型号。外界猜测,由于全球内存短缺,这次硬件没有进行大幅改动。还有消息称转轴重新设计过,机身也变得更轻。"
+        },
+        {
+          "t": "p",
+          "x": "Z Fold 8看起来就是三星在Unpacked广告中暗示的“宽屏折叠机”。机身短而宽,提供四种颜色。外屏为5.5英寸QHD+、16:10比例,与三星平板电脑比例相同。内屏则是更传统的7.6英寸4:3面板。重量约200克,非常轻,据说搭载Snapdragon 8 Elite Gen 5。更高端的Z Fold 8 Ultra也在筹备中,其渲染图上周已经曝光。"
+        },
+        {
+          "t": "p",
+          "x": "Watch9与Watch8几乎一样,提供三种颜色和两种尺寸。有传言称价格将上涨30至60美元。Watch Ultra2只有47mm一种尺寸,两种颜色,同样传出涨价消息。目前尚无确认信息,但Android Headlines在泄露消息方面一向可靠。发布会将于7月22日举行。"
+        }
+      ]
+    },
+    "gadgets/meta-glasses-subscription": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "很少有什么比在原本不收费的地方突然推出订阅更让人反感。本月初,Meta宣布将对智能眼镜设置“使用限额”,正是拉下了这根杠杆。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "引发反弹后,Meta又把这项计划收了回去——至少目前如此。据The Verge报道,Meta已停止尝试为“对话专注”(Conversation Focus)功能设置使用限额。该功能利用AI和眼镜麦克风,帮助佩戴者更清楚地听到对方说话。"
+        },
+        {
+          "t": "p",
+          "x": "Meta发言人向The Verge表示,公司并没有完全放弃订阅制。未来仍计划对部分功能收费,只是暂停了先从“对话专注”开始收费的方案。"
+        },
+        {
+          "t": "p",
+          "x": "其实一开始选择从“对话专注”下手就很奇怪。这项功能在离线状态下运行,不会给Meta的服务器带来负担,却要对重度用户设置使用限额,逻辑上说不通。Meta并未将其宣传为无障碍功能,但它也确实主要被听力不佳的人群使用。"
+        },
+        {
+          "t": "p",
+          "x": "Meta解释说,设置使用限额是为了弥补硬件成本。不过,装满各种订阅服务的智能眼镜最终是否真的会变得更便宜,目前谁也说不清。"
+        }
+      ]
+    },
+    "gadgets/meta-rayban-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta对雷朋AI眼镜进行了修补。只要有人动录像指示灯(LED),摄像头就会直接关闭。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
+          "cap": "Meta雷朋智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "此举是在改装圈开始出售关闭LED服务之后推出的。人们担心,一旦让表示正在录像的指示灯失效,就可能被用来偷偷拍摄。"
+        },
+        {
+          "t": "p",
+          "x": "TechRadar借此再次提出疑问:无摄像头的AI眼镜是否才是更安全的设计。对于正在考虑以隐私为先的可穿戴设备的人来说,这一点值得细想。"
+        }
+      ]
+    },
+    "gadgets/one-ui-9-watch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg"
+        },
+        {
+          "t": "p",
+          "x": "三星健康应用中出现的功能变更提示表明,One UI 9 Watch最早可能在7月底发布。"
+        },
+        {
+          "t": "p",
+          "x": "根据该提示,三星将在美国取消Galaxy Watch的血管负荷(Vascular Load)功能。取而代之的是与One UI 9 Watch一同到来的新功能“血压趋势(Blood Pressure Trend)”。三星表示:“这项变更将在本月随One UI 9 Watch一起生效。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Watch-9-Ultra-2-Blood-Pressure-Trend-Feature-Announced-Members-App.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9 Watch基于谷歌的Wear OS 7打造。预计2024年和2025年推出的Galaxy Watch8及Galaxy Watch Ultra机型都能获得测试版。"
+        },
+        {
+          "t": "p",
+          "x": "新版本预计还将带来大量不易察觉的内部改进。即将发布的Galaxy Watch9和Galaxy Watch Ultra2也会同期推出。"
+        }
+      ]
+    },
+    "gadgets/openai-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "据最新报道,OpenAI首款推出的设备是一款没有屏幕的便携式音箱。它配备摄像头和多个传感器,被描绘成一种能在用户提问之前就先读懂环境并提供帮助的AI伙伴。"
+        },
+        {
+          "t": "p",
+          "x": "这款产品也是由Jony Ive领导的io团队打造的首款消费级设备。它不依赖屏幕,而是依靠语音和感知能力,形态与以往的智能设备都不相同。"
+        }
+      ]
+    },
+    "gadgets/smart-glasses-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tom's Guide一年间行驶5万英里试用AI智能眼镜，最终从2026年至今发布的产品中选出三款。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "入选产品兼顾显示型与音频优先型，为关注智能眼镜的人提供一次实地对比。"
+        }
+      ]
+    },
+    "gadgets/codex-micro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+          "cap": "OpenAI Codex键盘的宣传图片。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正式推出了首款硬件。但这不是大家此前设想的那款产品。这家打造ChatGPT的公司周三发布了一款230美元的迷你键盘，专为AI编程代理Codex打造。此次与制造可编程键盘和宏键盘的Work Louder合作。"
+        },
+        {
+          "t": "p",
+          "x": "严格来说，与其说是全尺寸键盘，更接近可编程宏键盘。这款小巧方形键盘的正式名称是kbd-1.0-codex-micro，简称Codex Micro。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI的开发者账号在X上配发设备运行视频并写道：“Map the buttons and joystick to your workflow, and keep your pinned chats in view.”产品页面将该设备介绍为“command center for agentic work”。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Codex-micro-overview-orange.jpeg",
+          "cap": "Codex Micro"
+        },
+        {
+          "t": "p",
+          "x": "设备配有13个机械开关、触控感应器、旋钮和摇杆，分为有按键声版和静音版两种。购买者还会获得32个Codex图标键帽，可按自己喜欢的快捷键装饰这块键盘。"
+        },
+        {
+          "t": "p",
+          "x": "其中6个带灯键通过颜色提示各代理的状态：绿色表示有未读消息，蓝色表示正在思考，橙色表示需要批准或有疑问，红色则是出错的信号。"
+        },
+        {
+          "t": "p",
+          "x": "摇杆可编程用于启动调试错误或重构代码之类的工作流程，旋钮则用来调整Codex执行任务所用的推理水平。"
+        },
+        {
+          "t": "p",
+          "x": "这款键盘的发布正值外界对OpenAI长期传闻中的消费级设备兴趣升温之际。彭博社周二援引匿名消息人士报道称，这款备受期待的产品可能是一款能够自行移动、没有屏幕的智能音箱。据称该设备瞄准的是一款“humanlike AI companion”，借助ChatGPT完成播放音乐与媒体、控制家电、回答问题等多项任务。该产品预计今年内公开，2027年上市。据悉OpenAI还在考虑另一款独立的移动AI设备。"
+        },
+        {
+          "t": "p",
+          "x": "据悉这些项目正与苹果前设计总监Jony Ive创立的硬件初创公司io Products共同开发。OpenAI去年以65亿美元收购了io Products。"
+        },
+        {
+          "t": "p",
+          "x": "不过，OpenAI的硬件野心已经引来了法律纠纷。苹果上周在加州联邦法院起诉了OpenAI和两名苹果前员工，指控他们窃取了与苹果制造工艺及一款仍在开发中产品相关的商业机密。io Products也被列为该诉讼的被告之一。"
+        },
+        {
+          "t": "p",
+          "x": "眼下，想要拿到OpenAI设备的人，只能先用这款新Codex键盘来解解馋。"
+        }
+      ]
     }
   }
 }

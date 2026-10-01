@@ -2144,6 +2144,650 @@
           "x": "The conclusion is clear. If you already like Ray-Ban Meta and want to wear it every day with prescription lenses, Optics is the most comfortable, most premium version you can buy right now. What's left is whether you can afford it."
         }
       ]
+    },
+    "gadgets/apple-smart-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple is putting fresh weight behind its smart home business in 2026. At the center is a more personalized Siri."
+        },
+        {
+          "t": "p",
+          "x": "The new home hub carries a 6-7 inch display and an A18 chip to run Apple Intelligence directly on the device."
+        },
+        {
+          "t": "p",
+          "x": "Alongside it comes a bundle including an Apple TV 4K with boosted AI performance and freshly refined HomePod and HomePod mini units."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A Samsung app leak has revealed a new name: “Galaxy Buds On.”"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-6.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "It's an open-ear, bone-conduction earbud that doesn't block the ear canal, and it appeared alongside the Galaxy Watch 9 and Watch Ultra 2."
+        },
+        {
+          "t": "p",
+          "x": "All three devices are expected to arrive with Galaxy AI features at the July Unpacked event."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-watch-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahead of its July 22 Unpacked event, Samsung gave a glimpse of a new Galaxy Watch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This watch packs “completely new internal components” and uses AI to read the body's condition in real time."
+        },
+        {
+          "t": "p",
+          "x": "Rather than just logging data, it is aimed at understanding health first and managing it proactively."
+        }
+      ]
+    },
+    "gadgets/pixel10-gemma4": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google's Gemma 4 E2B runs directly on the Pixel 10's Tensor G5 TPU."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+          "cap": "Google's Tensor G5 chip"
+        },
+        {
+          "t": "p",
+          "x": "Without an internet connection, the phone handles AI chat, image recognition and voice dictation on its own."
+        },
+        {
+          "t": "p",
+          "x": "It marks a step toward local generative AI that keeps data from leaving the device, in line with the privacy-first on-device AI trend."
+        }
+      ]
+    },
+    "gadgets/apple-google-cloud": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple has added a new privacy popup to some Apple Intelligence features — specifically, those that hand off processing to Google Cloud."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "It's a UI change that reveals which tasks leave the device for Google Cloud, and it's also a sign that a Gemini-assisted Siri overhaul is coming to the iPhone."
+        }
+      ]
+    },
+    "gadgets/dreame-x60": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dreame's flagship robot vacuum, the X60 Max Ultra, uses two AI cameras. It also adds active lighting that illuminates dark corners first."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This combination lets it distinguish 280 types of obstacles, showing how far on-device AI vision has come for home robots."
+        }
+      ]
+    },
+    "gadgets/sk-hynix-tetramem": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SK Hynix and Tetramem are building a memristor-based in-memory computing SoC. It processes computation inside memory itself to cut power consumption."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The goal is clear: lower the power needed for edge AI inference running lightweight models on-device. How well it will actually perform, though, remains unclear."
+        }
+      ]
+    },
+    "gadgets/alexa-moonraker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon is building a higher-tier version of Alexa called 'Moonraker.' According to internal planning documents reviewed by Business Insider, this agentic assistant strings together multiple requests at once—calling a cab while also texting a friend, for instance."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/intro-1783528237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It's an attempt to keep Alexa competitive while agentic models from Google, Anthropic and OpenAI race ahead. Cost is the obstacle, though. Amazon has budgeted over $100 million for GPU spending in 2026, and some senior executives think the investment already poured into Alexa has been excessive."
+        },
+        {
+          "t": "p",
+          "x": "According to documents from late 2025, Amazon plans to attach hundreds of Nvidia GPUs to Moonraker and test advanced reasoning and vision capabilities using Anthropic's Sonnet model."
+        },
+        {
+          "t": "p",
+          "x": "Alexa+ rolled out nationwide in the US in early 2026, but the launch wasn't smooth. Even basic requests stumbled, and Engadget reviewer Cherlynn Low noted that the assistant struggled to remember earlier conversations or app requests like an Uber ride."
+        },
+        {
+          "t": "p",
+          "x": "Separately from the Moonraker news, Amazon keeps adding features to Alexa+. In February it added the option to pick a personality, then followed up with a 'Sassy' mode that even allows swearing. Most recently, it added the ability to order food by voice through Grubhub and Uber Eats."
+        }
+      ]
+    },
+    "gadgets/robert-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Science fiction writers and AI researchers have spent decades dreaming of a day when talking with a humanoid robot would feel no different from talking to a person. Chatbots have reached the point of convincing themselves they're conscious, but a truly humanlike robot that lives alongside people is still a long way off."
+        },
+        {
+          "t": "p",
+          "x": "This week at the UN's 'AI for Good' summit in Geneva, visitors got to hang out with a robot named Robert. Dressed in a suit and tie, about 180cm tall, it's a dead ringer for Tesla's Optimus, and its screen face cycled through images of Trump, Obama and Mark Zuckerberg. Don't confuse it with Robby from the 1956 film 'Forbidden Planet.' Robert was built by the Swiss robotics company RB Labs and designed to mimic the subtle nonverbal expressions people exchange with each other."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"In the future, it's going to be important to talk to robots and read information off their expressions—like knowing someone's in a good mood by seeing them smile.\" That's what RB Labs co-founder Robin Cranbroukers said in a recorded interview with Reuters. Behind him, Robert, wearing Trump's face like a mask, stared blankly off camera somewhere. \"Even if you make Robert do something weird right now, people won't mistake it for the real Trump. I don't think it's fallen into the uncanny valley.\""
+        },
+        {
+          "t": "p",
+          "x": "That's fair to agree with. In the footage Reuters posted, Robert's two eyes drift off in different directions on their own, and in another scene it scrunches up cartoonishly with a blank, mismatched-eyed expression before suddenly breaking into a wide grin. There's plenty to be surprised by watching the video, but worrying that people might mistake Robert for the real Zuckerberg or Trump isn't one of them."
+        },
+        {
+          "t": "p",
+          "x": "It's true that humanoid robot research has advanced a lot in recent years, thanks to AI trained on vast amounts of real-world data predicting how it should react in unfamiliar situations. But as the self-driving car industry's long-running lesson shows, no robot yet handles the endless variables of reality with real skill. When footage of Optimus carrying drinks went viral in 2024 it looked like a breakthrough, but it turned out to be closer to a mechanical marionette puppeteered by a person behind the scenes."
+        },
+        {
+          "t": "p",
+          "x": "Language models that communicate only through text are, if anything, better at fooling people. Even a committed materialist like Richard Dawkins has fallen into that trap before. Voice models are also getting better at mimicking the subtleties of human speech, but they're still far from entering the uncanny valley."
+        },
+        {
+          "t": "p",
+          "x": "According to RB Labs' website, Robert can be booked for exhibitions, conferences and various events. Unfortunately, birthday parties are off the table. The company is hiring for several roles, including a 'robot safety assurance engineer' and engineers specializing in world models—an AI field some researchers consider the most promising path to artificial general intelligence (AGI)."
+        }
+      ]
+    },
+    "gadgets/watch-illness-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Smartwatches no longer just count steps or heart rate. They track sleep, skin temperature, breathing rate, blood oxygen, heart rate variability, and even signs of sleep apnea. Marketing alone makes it sound like a tricorder on your wrist is just around the corner, but how well these devices actually catch early signs of illness is worth scrutinizing."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/intro-1782925052.jpg"
+        },
+        {
+          "t": "p",
+          "x": "What they do best is notice the moment the body strays from its usual pattern. That outlier becomes a signal to see a doctor. The clearest example is detecting atrial fibrillation, an arrhythmia that raises stroke risk. One Apple Watch study found that \"84% of irregular rhythm notifications were confirmed as actual AFib.\""
+        },
+        {
+          "t": "p",
+          "x": "The metrics doctors see as clinically useful add little beyond this—basically baseline sleep patterns and step counts. Blood pressure alerts, calorie estimates, and granular sleep-stage tracking fall short of being useful for clinical decisions. VO2 max and heart rate variability also remain rough reference points at best."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/knowing-the-limits-1782925054.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Even the reliable metrics trigger false alarms. An elevated resting heart rate can signal the body fighting an infection, but it could just as easily mean a bad night's sleep or a few extra drinks. That's why doctors watch trends rather than any single reading."
+        },
+        {
+          "t": "p",
+          "x": "The body changes subtly long before you feel symptoms of the flu or COVID-19. Researchers at Texas A&M and Stanford found that smartwatches can pick up early signals within hours of infection, and estimated that \"getting people to isolate, test, and treat earlier could cut pandemic spread by up to 50%.\""
+        },
+        {
+          "t": "p",
+          "x": "Google, Oura and Whoop have all added AI coaches to their apps, and features like Oura's Symptom Radar or Apple's Vitals pool multiple sensors to compare against a baseline. Still, most of this analysis runs in the background and doesn't produce results a doctor can immediately trust and use."
+        },
+        {
+          "t": "p",
+          "x": "In the end, a tricorder that diagnoses illness from your wrist probably isn't coming. What's left instead is a device that quietly watches your patterns, flags you when something looks off, and hands you one clue to bring up with your doctor."
+        }
+      ]
+    },
+    "gadgets/ubtech-u1": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "UBTech, known for humanoids that patrol the China-Vietnam border, has now brought out its most unsettling creation yet: the UWorld U1, its first mass-produced, life-size 'Ultra Bionic Humanoid.'"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gREUsk6DXP8X9RFAsEP6TB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The UWorld U1 series marks something of a pivot for UBTech. It has mainly built faceless robots for enterprise and border use, but it has long harbored ambitions for the consumer market."
+        },
+        {
+          "t": "p",
+          "x": "It has silicone skin, eyes that track your gaze, blinking eyelashes, and 88 degrees of freedom across its body. The company says it also added a structure it calls a 'dual-axis bionic cervical spine' to make its movements more human-like."
+        },
+        {
+          "t": "p",
+          "x": "UBTech unveiled the robots this week at a grand event in Shenzhen, China. Three models were shown: the half-body U1 Lite, the full-body high-performance U1 Pro, and the full-body high-mobility U1 Ultra."
+        },
+        {
+          "t": "video",
+          "yt": "90J5I8woxyo"
+        },
+        {
+          "t": "p",
+          "x": "At the June 30 reveal, several U1 Ultra units walked out mixed in among real people. The intent seemed to be to make the audience mistake robots for humans, but the robots all looked a bit plastic-like and their gait was somewhat awkward."
+        },
+        {
+          "t": "p",
+          "x": "The company says the U1 has an 'emotion-recognition LLM' that reads and responds to subtle emotional states, aiming to be a proactive companion that responds to people in under a second."
+        },
+        {
+          "t": "p",
+          "x": "UBTech said it is targeting the reality in China of 90 million adults living alone and 118 million elderly people whose children have left home. It also said it would donate 100 of the robots in 2026."
+        },
+        {
+          "t": "p",
+          "x": "This is where things get strange. UBTech put it this way: \"This unit incorporates 3D facial reconstruction and voiceprint-based identity cloning technology to recreate a designated person, combined with an emotion-based interaction model and a dedicated long-term memory system.\""
+        },
+        {
+          "t": "p",
+          "x": "In other words, it intends to build a custom U1 Ultra closely resembling the face and voice of anyone you want, whether a departed spouse or a child living far away. Still, that cold silicone and awkward gait seem unlikely to fill the void left by someone who is gone."
+        },
+        {
+          "t": "p",
+          "x": "If you're interested, you'll need to travel to China and pay about $18,000 (roughly £13,570 / AU$26,120). It's set to launch sometime this year."
+        }
+      ]
+    },
+    "gadgets/codex-macropad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI and mechanical-keyboard maker Work Louder are building something together. The claim rests on a post from the OpenAI Developers account on X, with a reveal date of July 15. The teaser read: \"Your favorite Codex shortcuts just got an upgrade.\""
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/openai-work-louder.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Coding and mechanical keyboards are two tastes that naturally overlap. The device OpenAI is set to release looks like it turns commonly used Codex shortcuts into single-button presses, with lighting effects added on top. Its look is close to a tweaked version of the Work Louder macropad — the same product Gizmodo recommended back in 2023, and one Figma also commissioned a custom version of from Work Louder in late 2023."
+        },
+        {
+          "t": "p",
+          "x": "A macropad is a small, freely configurable input device you keep on your desk. It handles key presses and knob controls in a body that's more pleasing to look at than a regular keyboard."
+        },
+        {
+          "t": "p",
+          "x": "Sensory feedback like clicking sounds and blinking lights can reduce mistakes and improve work efficiency. Of course, some people just want to turn their work into the game 'Simon.'"
+        }
+      ]
+    },
+    "gadgets/insta360-x6": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In the action-camera market, GoPro has long held the top spot. Rival Insta360 has also been building its footing, and the upcoming X6 may close that gap."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05.jpg"
+        },
+        {
+          "t": "p",
+          "x": "New images of the Insta360 X6 circulated today via camera leaker Mauro Tandoi, just days after the new camera's certification paperwork was spotted online. In the leaked images shared by WinFuture, the X6 has a noticeably smaller body than the X5, with a silhouette closer to a typical action cam — more GoPro-like than Insta360's previous products. Still, placing two sensors behind front and rear fisheye lenses and adding a status display for settings remains distinctly Insta360."
+        },
+        {
+          "t": "p",
+          "x": "The leaked specs carry real weight. In 360 mode, it's said to capture 8K resolution at up to 50 frames per second — a big jump from the X5, which topped out at 30 fps."
+        },
+        {
+          "t": "p",
+          "x": "True to 2026 form, the price has also gone up. According to WinFuture, retail pricing starts at around $800 for the X6 body alone, with an 'Essential Bundle' of unspecified accessories adding roughly $100 more on top. That tracks given camera component costs, and shrinking the size often raises the price too."
+        },
+        {
+          "t": "p",
+          "x": "There's no release date yet, but the timing could be fortuitous. GoPro was pushed into a corner earlier this week after filing for bankruptcy. GoPro CEO Nicholas Woodman is reported to have bought $20 million worth of the company's own stock to keep it afloat for now. He said he remains open to a sale or merger if the right buyer comes along."
+        },
+        {
+          "t": "p",
+          "x": "At $800, that's not an easy price for the average consumer. Still, in a world without GoPro, the X6 becomes a more attractive option for anyone shopping for an action camera."
+        }
+      ]
+    },
+    "gadgets/nokia-ai-button": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HMD hasn't given up on feature phones. Its newly released Nokia 200 4G, 210 4G, 215 4G 2nd Edition, and 235 4G 2nd Edition keep up with the times by placing an AI button right in the middle of the D-pad."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pressing this button brings up an on-device AI assistant. It runs on Siki AI, answering basic questions and handling device functions by voice. According to HMD's spec page, \"the AI assistant is free for the first 180 days, but requires a paid subscription after that.\" Amusingly, buying that subscription requires having an actual smartphone."
+        },
+        {
+          "t": "p",
+          "x": "All four models carry a VGA camera and support Xpress video chat."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The displays differ slightly. The Nokia 210 4G and 215 4G use a 2.4-inch QVGA screen, while the 215 and 235 carry a 2.8-inch IPS panel at the same resolution. The 210 4G and 235 4G come with a rear camera, and the 235 packs a 2MP sensor."
+        },
+        {
+          "t": "p",
+          "x": "All four run on the S30+ operating system and use a 1,450mAh battery. They also come with Bluetooth 5.0, a 3.5mm headphone jack, FM radio, and USB-C charging."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pricing and release timing have not yet been disclosed."
+        }
+      ]
+    },
+    "gadgets/galaxy-watch-teaser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/samsung-galaxy-watch-8-third-party-watch-face-roundup-8-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung has officially begun teasing its next-generation Galaxy Watch lineup. The Galaxy Watch9 series and the Galaxy Watch Ultra2 are set to be unveiled on July 22."
+        },
+        {
+          "t": "p",
+          "x": "The Unpacked event will take place at 9 a.m. Eastern time (6 a.m. Pacific) on July 22. Samsung said the new watches will feature “completely new internal components” and longer battery life."
+        },
+        {
+          "t": "p",
+          "x": "Samsung is calling the new watches its “new AI health companion,” leading with real-time AI health insights and more accurate measurements. The company describes this as one pillar of its personalized AI vision."
+        },
+        {
+          "t": "p",
+          "x": "Samsung said the new Galaxy Watch “delivers intelligent, real-time health insights that help users better understand their health and take action ahead of time.” It marks a shift from a device that simply logged numbers to one where background AI runs constantly to “proactively interpret” health data."
+        },
+        {
+          "t": "p",
+          "x": "The teaser video featured heart-rate measurement, sleep apnea detection, personalized health coaching, and a running-focused activity watch face. Specific hardware details and battery life, however, were not revealed in this teaser."
+        }
+      ]
+    },
+    "gadgets/meta-glasses-subscription": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Few things rub people the wrong way like introducing a subscription where there wasn't one before. Meta pulled exactly that lever earlier this month when it said it would put “rate limits” on its smart glasses."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "After the backlash, Meta pulled the plan back — for now, at least. According to The Verge, Meta has stopped trying to put a rate limit on Conversation Focus, a feature that uses AI and the glasses' microphones to help wearers hear the other person more clearly."
+        },
+        {
+          "t": "p",
+          "x": "A Meta spokesperson told The Verge the company hasn't scrapped subscriptions altogether. Plans to charge for some features later are still in place; only the plan to start with Conversation Focus has been paused."
+        },
+        {
+          "t": "p",
+          "x": "Starting with Conversation Focus was an odd choice to begin with. The feature runs offline and puts no load on Meta's servers, so putting a rate limit on power users doesn't add up. Meta never marketed it as an accessibility feature, but it's also a tool mainly used by people who have trouble hearing."
+        },
+        {
+          "t": "p",
+          "x": "Meta says the rate limits are meant to help offset the cost of the hardware. Still, no one knows whether smart glasses loaded with subscriptions will actually end up cheaper."
+        }
+      ]
+    },
+    "gadgets/meta-rayban-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta patched its Ray-Ban AI glasses. The patch shuts the camera off entirely if someone tampers with the recording indicator light (LED)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
+          "cap": "Meta Ray-Ban smart glasses"
+        },
+        {
+          "t": "p",
+          "x": "The move came after modders started selling services that disable the LED. Concerns had grown that defeating the light meant to signal recording could let someone film covertly."
+        },
+        {
+          "t": "p",
+          "x": "TechRadar uses the episode to ask again whether cameraless AI glasses are the safer design. It's worth chewing on for anyone weighing a privacy-first wearable."
+        }
+      ]
+    },
+    "gadgets/one-ui-9-watch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An update notice in the Samsung Health app signals that One UI 9 Watch could arrive as early as late July."
+        },
+        {
+          "t": "p",
+          "x": "According to the notice, Samsung is removing the Vascular Load feature from the Galaxy Watch in the US. In its place comes a new feature called “Blood Pressure Trend,” arriving alongside One UI 9 Watch. Samsung said: “This change goes into effect this month along with One UI 9 Watch.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Watch-9-Ultra-2-Blood-Pressure-Trend-Feature-Announced-Members-App.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9 Watch is built on Google's Wear OS 7. The beta is expected to be available on the Galaxy Watch8 and Galaxy Watch Ultra models that launched in 2024 and 2025."
+        },
+        {
+          "t": "p",
+          "x": "The new version is also expected to bring a long list of under-the-hood improvements that aren't immediately visible. It arrives alongside the soon-to-be-unveiled Galaxy Watch9 and Galaxy Watch Ultra2."
+        }
+      ]
+    },
+    "gadgets/openai-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "According to a new report, OpenAI's first device is a portable speaker with no screen. Fitted with a camera and several sensors, it's described as an AI companion that reads a situation before the user even asks."
+        },
+        {
+          "t": "p",
+          "x": "The product is also the first consumer device built by the io team led by Jony Ive. It leans on voice and sensing instead of a display, a shape unlike the smart devices that have come before it."
+        }
+      ]
+    },
+    "gadgets/roborock-saros20": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brent Rose tried out the $1,600 Roborock Saros 20. Robot vacuums usually have some weakness or another — strong suction but poor at cleaning corners, or good at recognizing objects but short on power. He called the Saros 20 the first one to do everything evenly well. It's Gizmodo's 2026 Editor's Choice."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09.jpg",
+          "cap": "Roborock Saros 20"
+        },
+        {
+          "t": "p",
+          "x": "Suction reaches 36,000Pa. Just two years ago, 10,000Pa counted as premium. The AdaptLift chassis 3.0 climbs double thresholds up to 3.46 inches tall, and the new StarSight 2.0 navigation recognizes more than 300 kinds of objects. Dual solid-state lidar units on the front replace the old spinning laser sensor (LDS), which let the body flatten out enough to slide under furniture as low as 3.13 inches."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-08.jpg",
+          "cap": "The redesigned dock"
+        },
+        {
+          "t": "p",
+          "x": "The dock was redesigned too. It fast-charges the battery to 100% in two and a half hours. It has a 4-liter clean-water tank and a 3.5-liter dirty-water tank, heating water to 212°F (boiling point) to soak the mop, washing it, then drying it with 131°F air. Since the mop gets sanitized every time, there's no odor or risk of spreading bacteria. A separate detergent compartment means you just refill water, and depending on settings, you can go up to two months without touching it."
+        },
+        {
+          "t": "p",
+          "x": "AI object recognition impressed. It correctly identified a power strip and a cable stuck to a wall, labeled slippers left under a table as “shoes,” and flagged an office chair as “furniture prone to getting stuck.” Cleaning an entire studio apartment took 90 minutes, and just the kitchen took 5. Mapping the home took 12 minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-01.jpg",
+          "cap": "Autonomy that isn't quite perfect"
+        },
+        {
+          "t": "p",
+          "x": "The weaknesses are clear too. Left alone in an empty house, it got wedged between a sofa and a table and couldn't get out, draining the battery completely. On a patterned rug, it sucked up a USB-C cable, and it once wound up a robe's waist tie left hanging off a bed. It also wandered more than 8 feet outside a designated zone into the wrong area. Still, the conclusion is that it's the best robot vacuum he's used so far."
+        }
+      ]
+    },
+    "gadgets/smart-glasses-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tom's Guide spent a year and 50,000 miles testing AI smart glasses, and narrowed the field to three models released so far in 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The picks span both display-equipped and audio-first designs, offering a side-by-side look for anyone considering smart glasses."
+        }
+      ]
+    },
+    "gadgets/codex-micro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+          "cap": "Promotional image of the OpenAI Codex keyboard."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI has formally released its first piece of hardware. It is not the product everyone had been picturing. The company behind ChatGPT unveiled a $230 mini keyboard on Wednesday built exclusively for its AI coding agent, Codex. It partnered with Work Louder, which makes programmable keyboards and macropads."
+        },
+        {
+          "t": "p",
+          "x": "Strictly speaking, it is less a full keyboard than a programmable macropad. The small, square pad's official name is kbd-1.0-codex-micro, shortened to Codex Micro."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's developer account posted on X alongside a video of the device in action, writing, “Map the buttons and joystick to your workflow, and keep your pinned chats in view.” The product page describes the device as a “command center for agentic work.”"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Codex-micro-overview-orange.jpeg",
+          "cap": "Codex Micro"
+        },
+        {
+          "t": "p",
+          "x": "The device has 13 mechanical switches, a touch sensor, a rotary dial, and a joystick. It comes in two versions, clicky and quiet. Buyers also get 32 Codex icon keycaps to customize the pad with the shortcuts they want."
+        },
+        {
+          "t": "p",
+          "x": "Six of the keys light up and signal each agent's status by color. Green means an unread message, blue means it is thinking, orange means it needs approval or has a question, and red signals an error."
+        },
+        {
+          "t": "p",
+          "x": "The joystick can be programmed to launch workflows such as debugging errors or refactoring code. The dial adjusts the reasoning level Codex uses for a task."
+        },
+        {
+          "t": "p",
+          "x": "The keyboard arrives amid growing interest in a long-rumored OpenAI consumer device. On Tuesday, Bloomberg reported, citing anonymous sources, that the highly anticipated product may be a screenless smart speaker that moves on its own. The device is reportedly aimed at a “humanlike AI companion” that uses ChatGPT to handle tasks such as playing music and media, controlling appliances, and answering questions. It is expected to be unveiled this year and launch in 2027. OpenAI is also said to be exploring a separate mobile AI device."
+        },
+        {
+          "t": "p",
+          "x": "These projects are reportedly being developed with io Products, the hardware startup founded by former Apple design chief Jony Ive. OpenAI acquired io Products last year for $6.5 billion."
+        },
+        {
+          "t": "p",
+          "x": "But OpenAI's hardware ambitions have already drawn legal trouble. Apple sued OpenAI and two former Apple employees in a California federal court last week, alleging they stole trade secrets related to Apple's manufacturing processes and a product still in development. io Products is also named as a defendant in the suit."
+        },
+        {
+          "t": "p",
+          "x": "For now, anyone eager to get their hands on an OpenAI device will have to settle for the new Codex keyboard instead."
+        }
+      ]
+    },
+    "gadgets/ear-3a": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/nothing-announces-ear-3a-sub-100-anc-earbuds/intro-1782482143.jpg",
+          "cap": "Nothing Ear (3a) in multiple colors"
+        },
+        {
+          "t": "p",
+          "x": "Nothing has unveiled the Ear (3a). It is a new mid-tier wireless earbud that fills the gap between the budget Ear (a) and the flagship Ear (3). At $99, it packs in a fairly generous set of features for budget-conscious users."
+        },
+        {
+          "t": "p",
+          "x": "The standout feature is Audio Snapshot. Using 32MB of built-in flash storage, it records a short “audio moment” directly on the earbuds. Pinching both earbuds captures the sound just before and after that gesture, letting you save a bit of a lecture or a voice memo. Recordings sync automatically to the Nothing X app, where you can play, edit, share, and transcribe them. The app also generates shareable “quote cards” so you can easily revisit previously transcribed moments."
+        },
+        {
+          "t": "p",
+          "x": "The earbuds can capture calls and meetings for up to two hours, and the recording moves to the Nothing X app once it ends. When recording starts, it shows a notification to participants to protect privacy."
+        },
+        {
+          "t": "p",
+          "x": "Sound comes from a new 12mm dynamic driver that boosts bass and detail, with support for LDAC streaming and an 8-band EQ in the Nothing X app. Spatial audio is also included, improving immersion when watching mobile video."
+        },
+        {
+          "t": "p",
+          "x": "Active noise cancelling reaches 45dB. Nothing says it refined its algorithm and improved the acoustic mesh design, making it 17.1 percent better than the previous model and reducing noise across a wider frequency range."
+        },
+        {
+          "t": "p",
+          "x": "The transparent design carries over, and pink and yellow have been added alongside black and white. An XS eartip size was also added to fit more people."
+        },
+        {
+          "t": "p",
+          "x": "Battery life totals 42 hours including the charging case. On the earbuds alone, it lasts 10 hours with ANC off and 25 hours with ANC on."
+        }
+      ]
     }
   }
 }

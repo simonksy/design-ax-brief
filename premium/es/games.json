@@ -2307,6 +2307,470 @@
           "x": "La expansión entre medios también continúa. Sony planea hacer películas y series de televisión basadas en la propiedad intelectual de los juegos de PlayStation, con el objetivo de ampliar el alcance y la monetización de su propiedad intelectual."
         }
       ]
+    },
+    "games/aoe2-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/ageofem2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años se han multiplicado los documentales que examinan con calma cómo funcionan realmente los ordenadores. The End of the Internet, de Dylan Reibling, señala que detrás de la elegante expresión \"computación en la nube\" hay un manojo de cables expuesto por igual a las válvulas del gobierno y a tiburones hambrientos, mientras que So Unreal, de Amanda Kramer, rastrea cómo fantasías como The Matrix, Terminator y Tron han moldeado la comprensión pública del ciberespacio. Es una historia que resuena más que nunca ahora que el discurso de ventas de la IA se siente como el villano final de la era de las estafas."
+        },
+        {
+          "t": "p",
+          "x": "Adrian de Winter, investigador y programador de la Universidad de York, intentó mostrar con un artículo de tono satírico, algo swiftiano, cuán fácilmente antropomorfizamos la tecnología. Fiel a su título, \"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II\", usó el editor de escenarios de ese legendario RTS para recrear las funciones básicas de un LLM con cabras, hierba y puentes. Dijo que a él mismo le sorprendió que, de los más de 300 artículos revisados en los últimos dos años, el 57% partiera de la premisa de que la IA tiene algo parecido a la consciencia."
+        },
+        {
+          "t": "p",
+          "x": "De Winter dijo a 404 Media: \"I pointed out that if goats could show emergent capabilities, that's great\", y \"these properties need to be preserved if we remove the chat panel. After all, it's not like your neurons know they are part of a brain\". Añadió que hace tiempo se investiga cómo los usuarios se encariñan con facilidad cuando perciben calidez o personalidad en un LLM, y que la gente no se encariña con una tostadora, pero sí con un personaje de película."
+        },
+        {
+          "t": "p",
+          "x": "En el artículo evita por completo el término \"inteligencia artificial\" y elige la expresión más precisa \"modelo de aprendizaje de lenguaje\". El objetivo del estudio era mostrar que, al quitar la capa amigable, la tecnología vuelve a ser el bloque de código extraño pero familiar que ya conocemos."
+        },
+        {
+          "t": "p",
+          "x": "Zack Kotzer, de Kotaku, usa el artículo como trampolín para criticar el discurso de la industria. La promesa de ordenadores que piensan como personas sostiene el auge de la inversión en IA, pero imitar tareas humanas no genera pensamiento, intención ni razonamiento. En sus palabras, la consciencia de la IA equivale a la sed de un pájaro de juguete que bebe agua."
+        },
+        {
+          "t": "p",
+          "x": "La propuesta de De Winter es clara: \"I propose that we need to stop assuming that LLMs behave like humans just because they were trained with natural language. We should perform experiments that allow us to see LLMs as how they are, not how we believe they should be.\""
+        }
+      ]
+    },
+    "games/steam-ai-stigma": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ross Burton, analista de datos de mercado en Game Oracle, investigó qué huella dejan los avisos de contenido con IA de Steam en la respuesta de los jugadores. La muestra abarca 9.879 juegos lanzados entre enero y octubre de 2025, tras filtrar lanzamientos de spam, lanzamientos puramente comerciales y juegos free-to-play. De ellos, el 17,9% declaraba el uso de IA."
+        },
+        {
+          "t": "p",
+          "x": "En términos generales, la diferencia era pequeña. Los juegos sin aviso de IA tenían algo más de reseñas y era menos frecuente que no tuvieran ninguna, y al limitarse a juegos con 100 reseñas o más, la calificación media era alrededor de un 4% más alta."
+        },
+        {
+          "t": "p",
+          "x": "Pero al controlar variables como el editor, la experiencia del desarrollador y el tipo de juego, el panorama cambió por completo. \"After controlling for publisher, developer experience, and game type, developers using AI see a ~53% reduction in reviews compared to those who do not.\""
+        },
+        {
+          "t": "p",
+          "x": "Burton también consideró la posibilidad de una variable oculta. Para que otro factor explique la penalización observada, esa variable X desconocida tendría que ser lo bastante fuerte como para elevar 2,7 veces la probabilidad de adoptar IA y, al mismo tiempo, reducir un 22% el número de reseñas, independientemente del respaldo del editor o la experiencia del desarrollador."
+        },
+        {
+          "t": "p",
+          "x": "El estigma golpea con más fuerza a los juegos bien hechos. Según el informe, en los juegos de baja calidad la IA no supone ninguna diferencia, pero en los juegos con gran potencial de éxito el \"estigma de la IA\" es real y castiga con dureza a desarrolladores que, de otro modo, habrían tenido éxito."
+        },
+        {
+          "t": "p",
+          "x": "También hay contraejemplos. Burton cita The Finals, que usa IA de forma extensa y aun así tuvo éxito comercial, y escribe: \"AI can be used well, or it can be sloppy, and that matters\". El informe termina comparando la IA con un martillo: una herramienta necesaria, pero que rompe las cosas si se usa mal."
+        }
+      ]
+    },
+    "games/szymanski-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WmejxQBkaqazsjdBHXvNJ9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "David Szymanski, el veterano desarrollador independiente conocido por Dusk y Iron Lung, no se opone a la IA como tecnología en general. Pero no tiene ningún interés en hacer videojuegos con IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con GamesRadar+, Szymanski planteó ideas en la misma línea que un reportaje sobre por qué tantos desarrolladores rechazan la IA generativa. Dijo que hablar de esta tecnología exige abordar primero las preocupaciones éticas sobre el plagio, la carga ambiental y el empleo, y que eso solo ya basta para que no le atraiga la tecnología en su forma actual."
+        },
+        {
+          "t": "p",
+          "x": "Incluso si se superaran todas esas barreras, para Szymanski la IA generativa sigue siendo \"a complicated machine for generating subpar stock photos, buggy code, and a big neon sign for your audience that says 'I don't give a fuck,' and I'm not really in the market for any of those.\""
+        },
+        {
+          "t": "p",
+          "x": "Cree que la IA simplemente no es apta para el trabajo creativo desde el principio. Dijo que puede haber áreas donde realmente ayude, pero que todavía tiene demasiadas dudas sobre el daño que esta tecnología está causando y podría causar, y que, si se usa, debe ser útil de un modo que no dañe las partes importantes del proceso creativo."
+        },
+        {
+          "t": "p",
+          "x": "Tal como él lo ve, el atractivo actual de la IA está en ser rápida y fácil. Algunas tareas requieren rapidez y facilidad, pero otras requieren lentitud y dificultad. Su opinión es que la creatividad se revela en el proceso de resolver los problemas que surgen entre una idea y la obra terminada. \"Your creative voice is defined by your limitations and how you work around those limitations.\" Si se delegan todos esos problemas a un algoritmo de copia, no queda nada que distinga la obra terminada del original que el algoritmo copió."
+        },
+        {
+          "t": "p",
+          "x": "Afirmó sin rodeos que los desarrolladores no tienen voz sobre cómo terminará tratando la industria la IA generativa. Lo único que cada uno puede decidir es cómo responde personalmente y si sigue o no esa tendencia. \"In its current form I don't have any interest in generative AI as a development tool and I don't think my audience has any interest in me using it either.\""
+        }
+      ]
+    },
+    "games/hi3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "80 Level probó de primera mano Hi3D, una herramienta de creación 3D con IA. Al introducir una sola frase, obtuvo un modelo de personaje 3D totalmente ensamblado y listo para imprimir."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49096/images/6a478c6a55990/contain_1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es un reportaje práctico que examina, desde la perspectiva del creador, el flujo que va del texto al activo 3D. Muestra paso a paso cómo una idea se convierte en una figura física que se puede sostener en la mano."
+        },
+        {
+          "t": "p",
+          "x": "Para artistas de videojuegos y activos que quieran probar prototipos de personajes con rapidez, es un flujo de trabajo listo para usar de inmediato. La distancia entre la imaginación y el objeto físico se acorta aún más."
+        }
+      ]
+    },
+    "games/mw4-gunny": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Circuló cierta confusión sobre “Gunny”, el asistente de equipamiento de Modern Warfare 4. El desarrollador Infinity Ward dejó claro que Gunny no es un chatbot conversacional."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B9Xn3FVtk9V33MnFZaYtJi-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Por usar sus propias palabras, Gunny se parece más al “Clippy de Windows, pero para armar equipamiento”. Es solo una función de guía basada en reglas que ayuda con las combinaciones de armas, algo distinto de un modelo de lenguaje generativo."
+        },
+        {
+          "t": "p",
+          "x": "Eso no significa que el juego carezca de IA. Infinity Ward confirmó que sí usa IA en áreas fuera de Gunny. Es un momento que revela dónde traza un estudio AAA la línea de lo que llama IA."
+        }
+      ]
+    },
+    "games/roblox-build": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Roblox presentó una aplicación móvil llamada “Build.” Al escribir una frase en lenguaje natural, se crea un juego sencillo que se puede jugar de inmediato. Es un intento de bajar la barrera para crear algo en la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "La empresa dejó claro que lo que esto produce no llenará la página de inicio de “slop” barato. Explicó que no busca sustituir las líneas de producción existentes de Studio, sino servir de puerta de entrada para los creadores que recién llegan."
+        },
+        {
+          "t": "p",
+          "x": "Destaca como un caso de texto a juego surgido de una plataforma de UGC masiva. Al mismo tiempo, deja nuevas preguntas abiertas sobre cómo se resolverán el descubrimiento y el control de calidad."
+        }
+      ]
+    },
+    "games/capybara-vibe-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un desarrollador de iOS creó y lanzó un juego móvil llamado “Capybara Food Delivery”. Las aproximadamente 27.000 líneas de código fueron escritas íntegramente por Claude Code mediante “vibe coding”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Capybara-food-delivery-game-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El juego ganó un concurso con un premio de 25.000 dólares. Es un ejemplo concreto de un juego terminado de principio a fin con código escrito por IA."
+        },
+        {
+          "t": "p",
+          "x": "Permite medir hasta dónde ha llegado el desarrollo guiado por prompts, más allá de la simple asistencia de autocompletado."
+        }
+      ]
+    },
+    "games/sony-synthetic-assets": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los ejecutivos de Sony han definido la IA, en particular la que genera “activos sintéticos” para el desarrollo de videojuegos, como tecnología fundamental que sostiene la estrategia de la empresa. Incluso la calificaron de “interesante”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ew9bQTUUihnM5rx7nh6UHD-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los ejecutivos consideran que la IA abarca la eficiencia de producción, la experiencia del jugador y el descubrimiento de contenido. Una gran editora de primera parte ha adoptado abiertamente un flujo de trabajo de activos generativos."
+        },
+        {
+          "t": "p",
+          "x": "Es una señal de que la IA está entrando con fuerza en la producción de títulos AAA."
+        }
+      ]
+    },
+    "games/steam-ai-flood": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un estudio difundido por el medio GamesRadar+ analizó 53.597 títulos nuevos subidos a Steam entre julio de 2023 y julio de 2026. Encontró que la mayor parte del aumento mensual de lanzamientos, hasta un 60% a 90%, provenía de juegos etiquetados como IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z5TsdKs6B9MQbQ2wCkxqRP-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los lanzamientos mensuales de juegos con IA llegaron a dispararse hasta unos 530 títulos. Pero ese volumen no se tradujo directamente en ingresos. En el segundo trimestre de 2026, los juegos con IA representaron el 33% de todos los lanzamientos, pero su parte de las ventas se mantuvo en torno al 10%."
+        },
+        {
+          "t": "p",
+          "x": "Son datos sobrios sobre cómo las herramientas generativas están alterando el volumen de producción de videojuegos y la economía de la tienda. La producción sigue creciendo, pero la visibilidad y los ingresos no le siguen el ritmo."
+        }
+      ]
+    },
+    "games/meccha-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/y53ariz5jKVciNeguYEeg5-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El juego cooperativo de escondidas Meccha Chameleon ha estado arrasando en Steam últimamente. Parecido a Prop Hunt, vendió 7 millones de copias en menos de dos semanas desde su lanzamiento. En cuanto se volvió un éxito, apareció de inmediato una copia: un juego llamado Scribble Hunt subió a Steam con capturas de pantalla casi idénticas a las de Meccha Chameleon."
+        },
+        {
+          "t": "p",
+          "x": "Hecho por un estudio desconocido llamado Scribble Bunny, este juego copia al original hasta en su texto de presentación. La premisa —pintar a un humano conejo para que se mezcle con el fondo como un camaleón— y el formato de escondidas en línea para 2 a 10 jugadores se mantienen igual. Además, lleva un aviso de que algunas imágenes de la tienda y parte del arte promocional se hicieron con IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Es un ejemplo claro de cómo las líneas de producción de contenido con IA barata pueden copiar un éxito en pocos días y volcarlo en la tienda. Tras el éxito de lemorion_1224, quien hizo el original, se ha vuelto un entorno en el que una imitación con el nombre y el diseño apenas modificados puede aparecer en cualquier momento."
+        }
+      ]
+    },
+    "games/recomp-battleground": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cnYqvbCpcTAgL4NMej8Ea3-1213-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Portar juegos de consolas antiguas a PC se ha convertido últimamente en un escenario de enfrentamientos cargados de emoción. El ejemplo más claro es DK64 Recompiled, revelado a fines de junio. La comunidad de randomizers, que lleva años desarmando y volviendo a armar este juego, decidió construir su propio port oficial para PC frente a un port del mismo nombre hecho a toda prisa con IA."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esto hay una técnica llamada recompilación estática, que traslada el código original por completo a otro lenguaje de sistema, a diferencia de la emulación, que imita el hardware. Gracias a N64 Recomp, lanzado hace dos años, juegos como Banjo-Kazooie, Star Fox 64 y Mario Kart 64 se han portado a PC. Como no incluye los assets originales y hace que el usuario aporte su propia ROM, queda limpio desde el punto de vista legal."
+        },
+        {
+          "t": "p",
+          "x": "El problema son los ports hechos con vibe coding que inundan todo casi a diario. Un desarrollador usó Claude para sacar en serie herramientas de recompilación para NES, Sega Genesis, PlayStation y SNES, y otro abrió repositorios que van desde PS3 hasta ZX Spectrum. Balam, colaborador del randomizer de DK64, cuenta que los recomps que dependen en gran medida de IA ya ni se promocionan en el servidor principal de recomps de N64."
+        },
+        {
+          "t": "p",
+          "x": "2dos señala la deuda técnica como el mayor riesgo. Si los desarrolladores no entienden bien el código escrito por IA, el mantenimiento se vuelve \"una pesadilla\", y terminan quemando más tokens solo para perseguir errores. De hecho, en la versión con IA de Donkey Kong 64, al parecer se había tocado RT64, el módulo central que renderiza los gráficos de N64. Por eso el motor Godot y los proyectos del lado de GameCube/Wii y PS1 han ido trazando, uno tras otro, la misma línea: \"no usamos código de IA\"."
+        }
+      ]
+    },
+    "games/terrain-diffusion": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Ae9q7KsRbuI"
+        },
+        {
+          "t": "p",
+          "x": "Esta vez Two Minute Papers habló de Minecraft. En un mod llamado Terrain Diffusion, un modelo de difusión genera el terreno del juego directamente. Minecraft normalmente genera el terreno con una función de ruido ajustada a mano, un método propenso a producir montañas y valles con texturas que se repiten de forma monótona."
+        },
+        {
+          "t": "p",
+          "x": "Terrain Diffusion traslada directamente a los mapas de altura los mismos modelos de difusión usados para generar imágenes. Partiendo de ruido aleatorio, refina el terreno paso a paso, dando forma a cadenas montañosas más variadas y naturales que siguen la distribución del terreno real con la que fue entrenado. El video lo coloca junto al terreno generado por ruido para mostrar la diferencia."
+        },
+        {
+          "t": "p",
+          "x": "Lo importante es que esto no se queda en una demo dentro de un paper. Su creador (xandergos) subió el mod a Modrinth y GitHub, así que cualquiera puede descargarlo y añadirlo a su propio Minecraft. Para diseñadores de juegos y modders, es un caso de IA generativa que ha pasado a ser una herramienta de generación de contenido procedural que realmente pueden usar con sus manos."
+        }
+      ]
+    },
+    "games/ace-game-agent": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4syKq_OrbGA"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA presentó una beta del ACE Game Agent SDK y un plugin de Unreal Engine 5 en Unreal Fest 2026. Este video muestra a los desarrolladores el proceso de crear un NPC con IA directamente dentro de Unreal Engine 5.7 usando esas herramientas. La clave está en ejecutar el reconocimiento de voz, un modelo de lenguaje pequeño y la síntesis de voz todo en el dispositivo para reducir la latencia."
+        },
+        {
+          "t": "p",
+          "x": "El ACE Game Agent SDK es un framework de agentes ligero en C/C++ que se conecta directamente a un juego. Es de código abierto, por lo que se puede modificar libremente, y se acelera en NVIDIA RTX ajustado para modelos pequeños. La API se divide en tres partes. La Agent API gestiona el historial de conversación e impulsa el razonamiento en varios pasos. La Chat API controla directamente la inferencia y las respuestas. La RAG API se encarga de la generación basada en recuperación, vinculando las respuestas a una base de conocimiento especificada por el desarrollador."
+        },
+        {
+          "t": "p",
+          "x": "En Unreal Engine 5.7, los NPC MetaHuman corren en el dispositivo. Riva Parakeet ASR se encarga del reconocimiento de voz en tiempo real, mientras que Chatterbox TTS se encarga de la síntesis de voz con expresión emocional. Audio2Face mueve el rostro para que coincida con el habla."
+        },
+        {
+          "t": "p",
+          "x": "Como nada pasa por la nube, todo corre en el dispositivo y las respuestas son rápidas. Esto cambia la forma misma en que los estudios construyen personajes conversacionales."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA también presentó ejemplos reales. Krafton introdujo a un compañero de equipo con IA llamado Ally en Battlegrounds, que escucha a los jugadores por voz, interpreta la situación y reacciona en tiempo real, todo ejecutándose en el dispositivo sobre GeForce RTX. El asesor de Total War: Pharaoh busca en más de 1,200 tablas de datos del juego para responder preguntas de estrategia."
+        }
+      ]
+    },
+    "games/lucas-ai-future": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy en día casi no pasa un día sin que un director famoso defienda la IA como el futuro de la creatividad o se asocie con ella. Esta vez le toca justamente al padre de Star Wars, George Lucas, aunque su razonamiento resulta bastante amargo."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/Screen-Shot-2026-07-14-at-9.46.17-AM-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con A Rabbit's Foot, Lucas habló de su carrera y del Museo de Arte Narrativo Lucas, que abrirá este otoño en Los Ángeles. El museo exhibe décadas de arte hecho a mano y, como dice su sitio web, pone el foco en “las historias y las personas que las cuentan”. En la entrevista también compartió reflexiones sobre el cine, sus colaboraciones con figuras como Steven Spielberg y comentarios sobre las trampas de los grupos de enfoque en los preestrenos."
+        },
+        {
+          "t": "p",
+          "x": "“Si al público no le gusta un personaje, eso es interesante, y como director quiero saber por qué”, dice. “Pero los estudios malinterpretan eso. Dejan que el público haga la película por sí mismo. Hoy eso se ha pasado de la raya. Todo se reduce a lo que piensan los fans. Así no se hace una película. Hay que encontrar a alguien que sepa hacer cine, que tenga una historia que contar y que le ponga pasión; solo así se convierte en película”."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, tras defender la creación centrada en lo humano, pasa de inmediato a llamar a la IA el “futuro”, y compara no usar la nueva tecnología con aferrarse a un medio de transporte anticuado en la era del automóvil."
+        },
+        {
+          "t": "p",
+          "x": "“La inteligencia artificial nos permite hacer películas mucho más fácilmente”, dice. “Es como sentarse aquí y decir: ‘creo que el carruaje es lo auténtico. Los autos se rompen, hay que echarles gasolina, están llenos de problemas. Pronto los convertirán en tanques para matar gente. Es terrible’. No hay nada que hacer. Eso es el progreso, eso es el futuro”."
+        },
+        {
+          "t": "p",
+          "x": "Cuando A Rabbit's Foot insistió, Lucas reconoció los riesgos de una “máquina de plagio”, pero no dio marcha atrás, y en su lugar señaló otros beneficios que, según él, la IA traerá en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "“Si quieres una IA que te diga si algo es falso o de dónde viene, la IA puede hacerlo”, dice. “Los humanos no podemos. No somos tan inteligentes. Lo importante es que tú eres humano y respondes por lo que dices y haces. Si cometiste algo ilegal, debes recibir un castigo. Haga lo que haga uno, tiende a salir a la luz. Es igual que la realidad”."
+        },
+        {
+          "t": "p",
+          "x": "En la película 'Star Wars Episodio V: El Imperio Contraataca' hay una escena en la que Luke Skywalker, entrenando como Jedi junto a Yoda, pregunta si el lado oscuro de la Fuerza es más fuerte que el lado luminoso. Yoda responde que no, pero que muchos caen en el lado oscuro porque es “más rápido, más fácil, más seductor”. Es una película de hace 46 años, pero retrata bien la lógica que usa Lucas ahora."
+        },
+        {
+          "t": "p",
+          "x": "Defiende la importancia del arte hecho por personas y, al mismo tiempo, sostiene que una tecnología famosa por robarle a los humanos, y cuyos resultados suelen ser peores que el trabajo hecho a mano, hace el cine “más fácil”. Sostener a la vez que el espíritu humano es lo que hace grandes películas y que una tecnología que elimina esa humanidad es el futuro del cine es una contradicción. Aunque sea ingenuo, aunque vaya contra la corriente, seguiré oponiéndome hasta el final."
+        }
+      ]
+    },
+    "games/sts2-placeholder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mega Crit está metiendo a propósito arte provisional dibujado a mano, “malo”, en su nuevo roguelike, Slay the Spire 2, en lugar de imágenes generadas por IA. Casey Yano, cofundador y líder del juego, dice que no es solo para evitar parecer perezosos: es “importante” que el arte inacabado se vea abiertamente inacabado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XrgnHf92GMsNTfMNCXwnDn-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con GameSpot, Yano explicó el enfoque de Slay the Spire 2 hacia el arte provisional. En la línea temporal del juego se ve mucho de este tipo de dibujo, casi como si estuviera hecho en MS Paint. Yano dijo que eso es totalmente intencional."
+        },
+        {
+          "t": "p",
+          "x": "Como el juego aún está en Acceso Anticipado, “quería dejar claro que algunos elementos están sin terminar”. En el lanzamiento inicial de marzo, los artistas quizá querían terminar más arte, pero Yano dijo que “sabía que durante el Acceso Anticipado iban a dibujar un montón de cosas que parecerían basura”, y que esa sensación de algo inacabado importa porque, de lo contrario, “la gente juzgará este juego como si fuera un juego 1.0 terminado”."
+        },
+        {
+          "t": "p",
+          "x": "Y añade: “Si usas arte que parece casi terminado, la gente asume que es el arte final. Tiene que verse tosco. Que se vea tosco es importante”."
+        },
+        {
+          "t": "p",
+          "x": "Eso no significa que el arte provisional no cumpla ninguna función. Yano quiere, sobre todo, que el arte usado en la línea temporal funcione como una especie de “marco”. Esos dibujos son momentos clave de la narrativa, pensados para transmitir bien la composición, el detalle y el color planeados."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el arte generado por IA, Yano dejó clara su postura: “Si has pasado por el proceso artístico… quizá no dirías que te sientes engañado, pero sentirías una especie de tristeza, porque no se ve el camino que alguien recorrió para desarrollar su habilidad y su propio estilo”. También señaló que el juego ya tiene su propio estilo, así que no hay razón para usar IA para imitarlo."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo hecho a mano tiene “una decisión detrás de casi cada línea, hasta una sola línea borrada o un solo trazo de ajuste”, dice. El arte de IA, en cambio, tiene una apariencia distintiva “muy densa, llamativa y marcada” que no encaja con el resto del estilo artístico y “simplemente se siente perezosa”."
+        },
+        {
+          "t": "p",
+          "x": "Yano no rechaza la IA por completo. Para algunos programadores que la usan en revisiones de código, dice que la IA es básicamente un “corrector ortográfico avanzado”. La IA generativa, sin embargo, es otra historia, y el equipo la mantiene a distancia. Para él, el arte no tiene un “objetivo final definible”: es una forma de “expresión”."
+        }
+      ]
+    },
+    "games/vibe-clone-steam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El solo concepto de la “vibe coding” basada en IA ya basta para que se nos escape el café con leche de matcha y fresa, pero el analista de la industria en Circana, Mat Piscatella, cree que está a punto de hacer que Steam y otras tiendas de videojuegos empeoren aún más."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vKeJ9qKxGQ6swbjALZ5kMQ-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ya nada crece en nuestro mundo despiadado: ni los discos físicos de PlayStation, ni la originalidad, ni nada que no sea basura de IA. Como ejemplo claro, 404 Media informó que, gracias a la vibe coding con IA, los desarrolladores ya pueden clonar efectivamente el videojuego de otra persona, a veces en apenas decenas de horas. Piscatella reaccionó a la noticia en Bluesky y escribió: “Los buenos juegos serán clonados y enterrados. Los jugadores se inclinarán hacia los juegos y franquicias que conocen y en los que confían. Será más difícil destacar”."
+        },
+        {
+          "t": "p",
+          "x": "Por si acaso, como dice Piscatella, esta es una situación que algunos expertos calificarían de “no buena. Nada buena”."
+        },
+        {
+          "t": "p",
+          "x": "Las imitaciones de IA que copian juegos exitosos —en especial estrellas indie con mucho revuelo social pero sin un equipo de abogados de derechos de autor— ya están dispersas por la mayoría de las grandes tiendas. Ahí están el falso “Peak” en la PlayStation Store o el imitador “REPO” en la Nintendo eShop. Recorrer Steam ya resulta agotador hoy en día, y da escalofríos imaginar que estas tiendas se llenen de aún más basura de IA en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "Sobre la vibe coding, Piscatella dice que es “un fuerte contraargumento para quienes afirman que la IA ayudará al mercado de los videojuegos al reducir el tiempo y el costo de desarrollo”. “Si a esto le sumamos el ya enorme problema de la capacidad de descubrimiento —la explosión en el número de juegos que se lanzan por día— y una demanda que ya madura… ¡es malo!”."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, ¿no hay algo que alguien pueda hacer? ¿No deberían al menos las megacorporaciones del tamaño de Sony y Nintendo controlar mejor la calidad?"
+        },
+        {
+          "t": "p",
+          "x": "“Por ahora, no parece que se pueda detener”, dice Piscatella. “En cuanto a una solución… bueno, si yo supiera cómo resolver esto, ya estaría ahí fuera haciéndolo y preparándome para comprar una isla”."
+        },
+        {
+          "t": "p",
+          "x": "En fin, qué se le va a hacer. Es solo otro día en el paraíso."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año hablamos con decenas de desarrolladores de videojuegos y escuchamos las numerosas razones por las que no quieren usar IA generativa."
+        }
+      ]
+    },
+    "games/ai-clone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Algunos desarrolladores en solitario usan herramientas de codificación con IA para producir clones jugables de juegos indie en pocos días. A veces los publican antes de que el original siquiera salga."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es un cambio concreto que trastoca cómo los estudios pequeños muestran y protegen su trabajo en curso."
+        }
+      ]
+    },
+    "games/meccha-chameleon": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El éxito Meccha Chameleon se está consolidando como un contrapeso hecho por humanos frente a la ola de contenido generado por IA e imitaciones que inunda las tiendas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/07/meccha-3.png"
+        },
+        {
+          "t": "p",
+          "x": "Presenta el caos hecho a mano como una ventaja que lo distingue de los pipelines generativos, una respuesta formulada en el lenguaje de la creación y el diseño."
+        }
+      ]
     }
   }
 }

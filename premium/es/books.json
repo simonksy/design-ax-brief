@@ -1996,6 +1996,359 @@
           "x": "Kindle Translate se lanzó en noviembre de 2025 con las combinaciones inglés↔español y alemán→inglés. Esta es la primera vez que se amplía de forma significativa el número de idiomas."
         }
       ]
+    },
+    "books/kindle-story-so-far": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon ha lanzado una actualización de software para Kindle y Kindle Scribe. La función destacada del firmware 5.19.5 es \"Story So Far\". Ofrece un resumen de la trama sin spoilers hasta el punto donde has leído, para que no tengas que ir hacia atrás por los capítulos cuando vuelves a un libro que dejaste apartado. Funciona en miles de bestsellers en inglés comprados o prestados."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/06/30080037/kindle-paperwhite-signature-edition-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kindle Scribe recibe varias mejoras tangibles. En libros electrónicos y documentos de Word con tipografía mejorada, dibujar un círculo ahora ordena las anotaciones automáticamente. Además de tocar la esquina superior derecha mientras lees, también puedes crear un marcador tocando el icono de marcador en la miniatura de página en la vista Page Flip. Las notas adhesivas se pueden mover a cualquier parte de la página manteniendo pulsado el icono con el dedo y arrastrándolo, o elegir \"Mover nota\" en el cuadro de diálogo de la nota o en el menú de tres puntos del panel lateral."
+        },
+        {
+          "t": "p",
+          "x": "Story So Far llega a todos los modelos actuales de Amazon Kindle. La misma mejora para crear marcadores desde las miniaturas de la vista Page Flip también se aplica. Viene junto con mejoras de rendimiento, corrección de errores y otros ajustes generales. Amazon ha ampliado los resúmenes de IA (Recaps) que presentó a nivel de serie en 2025 para que ahora cubran el punto en el que estás dentro de un libro. El artículo lo escribió Michael Kozlowski."
+        }
+      ]
+    },
+    "books/platform-comes-apart": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este artículo para The Scholarly Kitchen lo escribieron juntos el chef Hong Zhou y el bloguero invitado Adam Hyde, fundador de Pure Science Inc. Si los agentes pueden conjurar software al instante, ¿sigue habiendo motivo para alquilar por asiento el producto fijo de un proveedor? Esa pregunta, apodada el \"SaaSpocalipsis\", apunta a toda plataforma que empaqueta interfaz, lógica, datos y flujo de trabajo en un solo bloque que se vende por asiento. Casi toda la edición académica, desde los sistemas de gestión de envíos hasta las bases de datos de contenido, se sostiene sobre plataformas de este tipo."
+        },
+        {
+          "t": "p",
+          "x": "En el evento PurePub.ai del 22 de mayo de 2026, Adam Hyde moderó mientras Hong Zhou, de KnowledgeWorks Global, Stuart Rutch, de Silverchair, y Paul Shannon, de eLife, se enfrentaban de lleno a la cuestión. Ante la pregunta de si los agentes son un asalto total al SaaS, la respuesta del panel resultó más interesante que un simple sí o no. Las plataformas no están muriendo; se están dividiendo en dos. Abajo, un núcleo de confianza; arriba, una capa de agentes. Lo que antes conectaba ambos, asientos y pantallas, se está soltando."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/iStock-841596778.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La división ocurre porque el consumidor está cambiando. Durante treinta años, el consumidor de la plataforma fue la persona sentada frente a la pantalla, es decir, el asiento. Ahora los agentes también se suman como consumidores, y en la siguiente etapa, sin importar quién haga el trabajo, los datos pasan por agentes que se comunican directamente con un núcleo headless en lugar de una interfaz heredada. Rutch predijo que las plataformas \"se descompondrán en primitivas\". En la base hay una base de datos cargada de reglas de negocio, y encima, \"de forma progresiva, esta capa de agentes\" se va construyendo, aunque todavía no está decidido quién es el dueño de esa capa."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz solía sostener juntas la confianza y la facturación. La familiaridad, \"la misma interfaz que viste ayer\", generaba confianza, pero una vez que la interfaz se desprende del núcleo y puede regenerarse y sustituirse en cualquier momento, esa familiaridad ya no avala lo que hay debajo. La facturación es aún más grave. Cuando un puñado de personas despliega agentes, la carga ya no se puede medir por número de asientos. Hyde dijo que \"no cree que sea un modelo de asientos\", y Rutch vio que la unidad pasaría a ser el cómputo, no el número de personas. También surgieron escenarios como la facturación por token, la facturación basada en resultados y el BYOK, en el que los clientes traen sus propias claves de API de modelo."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el núcleo de confianza permanece. El costo de construir internamente va bajando gracias a los agentes de codificación con IA, y los sistemas abiertos para que los agentes los lean facilitan igual de bien la migración de datos, lo que adelgaza a la vez los dos fosos del SaaS. Pero los registros verificados que una institución ha operado y auditado durante años, su lógica de negocio acumulada, sus relaciones y su conocimiento del sector no se pueden replicar en poco tiempo. Rutch considera que \"la dimensión de la confianza\" seguirá siendo el valor esencial del sistema núcleo, y dijo que prefiere \"disruptirnos a nosotros mismos a la misma velocidad\" antes de que alguien más lo haga."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta del panel se quedó corta de un asalto total. Lo que se cuestiona no es la existencia de la plataforma, sino la suposición de que solo debe usarse a través de la interfaz y el flujo de trabajo controlados por el proveedor. A medida que los agentes pasan a mediar no solo el descubrimiento y el consumo de la investigación, sino también la revisión, la evaluación, la producción y la gestión, una porción creciente del valor se inclina hacia la capa de agentes. Leer dónde se acumula el valor entre ambas capas se convierte en la tarea estratégica central de editoriales y proveedores. La segunda parte aborda qué ocurre cuando las interfaces se vuelven lo bastante inteligentes y personalizadas como para independizarse de la plataforma."
+        }
+      ]
+    },
+    "books/kindle-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon lanzará una nueva línea de Kindle a fines de 2026. El centro de esta línea es un procesador más rápido y más RAM. Estas especificaciones están pensadas para ejecutar en el dispositivo funciones de lectura con IA más avanzadas que el actual Kindle Recap o “La historia hasta ahora.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo interesante no es el hardware en sí, sino hacia dónde apunta. Es una señal de que la IA en el dispositivo se está integrando profundamente en la forma en que los lectores navegan por un libro y repasan contenido anterior. Las funciones de recuerdo y navegación con IA se están convirtiendo ahora en un eje clave que define las especificaciones de Kindle."
+        }
+      ]
+    },
+    "books/libby-filter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta es una noticia destacada en una recopilación de enlaces para escritores. La aplicación Libby, de OverDrive, ahora permite a los usuarios filtrar libros que contienen contenido generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "El método de filtrado no es la detección automática. Se basa en etiquetas que los propios editores y autores añaden. La misma recopilación también incluía una entrevista de The Atlantic sobre un ganador del Commonwealth Prize acusado de usar IA."
+        }
+      ]
+    },
+    "books/textbook-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mientras las editoriales evalúan si incorporar modelos 3D interactivos en los libros de texto digitales, la IA generativa está emergiendo como la palanca que determina el costo."
+        },
+        {
+          "t": "p",
+          "x": "Esto se debe a que los modelos 3D preliminares pueden generarse solo a partir de descripciones escritas o bocetos. Sin embargo, antes de llegar al aula, la precisión todavía debe ser verificada por expertos humanos."
+        }
+      ]
+    },
+    "books/uk-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un enlace seleccionado para escritores destacó un análisis legal del Reino Unido. Su diagnóstico es que la ley de derechos de autor no logra prevenir adecuadamente el daño causado por el entrenamiento de IA. Señala que los juicios colapsan por cuestiones técnicas y no por el fondo del caso."
+        },
+        {
+          "t": "p",
+          "x": "El mismo número también incluyó un artículo sobre una ola de startups de IA que se acercan a las editoriales con herramientas de edición, derechos, regalías y recomendaciones."
+        }
+      ]
+    },
+    "books/anu-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un informe de Millicent Weber, de la Universidad Nacional de Australia (ANU), titulado 'Audiobook Listening in Australia', encuestó a 503 oyentes australianos y 500 oyentes alemanes. Entre ellos, el 17.4% ya había escuchado un audiolibro con narración por IA o voz sintética."
+        },
+        {
+          "t": "p",
+          "x": "La brecha de percepción llama tanto la atención como los hábitos de escucha en sí. Solo el 40% de los australianos consideraba que escuchar audiolibros era 'leer'."
+        },
+        {
+          "t": "p",
+          "x": "El informe completo y el resto de las cifras solo están disponibles para suscriptores de pago, así que no fue posible confirmar los detalles."
+        }
+      ]
+    },
+    "books/ipa-emerging-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la sesión 'Mercados emergentes: nueva tecnología, nuevos retos' del congreso de la Asociación Internacional de Editores (IPA) en Kuala Lumpur, Malasia, la moderadora Fatima Abbas dijo: 'No existe un solo modelo para la innovación.' Quiso decir que, como las condiciones varían de un mercado a otro, cada uno adopta la nueva tecnología por su propio camino."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Low King Hui, director general de grupo de la malasia Sasbadi Holdings, dijo que el sector lleva casi 20 años atravesando una transición digital. Señaló que seguir generando ingresos digitales mientras se mantiene la inversión sigue siendo difícil, y que la IA está nivelando el terreno de juego, intensificando la competencia entre las editoriales ya existentes."
+        },
+        {
+          "t": "p",
+          "x": "Ali Abdel-Moneim Ahmed, director general de la egipcia Arabookers International, explicó que usan IA para seguir a clientes y competidores y para gestionar la producción. La empresa está creciendo rápidamente, en alianza con Amazon y BookWire, con el objetivo de digitalizar 100.000 títulos de libros electrónicos y 1.000 títulos de audiolibros."
+        },
+        {
+          "t": "p",
+          "x": "GeumJoo Lin, cofundadora y directora de la surcoreana CO.MINT, puso el acento en proteger los derechos de autor mientras se amplían las oportunidades de derechos. En particular, expresó su preocupación de que la tendencia de libros hechos con IA que reciben compensación por depósito legal de la Biblioteca Nacional de Corea esté erosionando la confianza en el sector editorial."
+        }
+      ]
+    },
+    "books/steamy-coauthor": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "je-MwvQaJ0Y"
+        },
+        {
+          "t": "p",
+          "x": "El canal de YouTube 'AI Tool Box', dedicado a presentar software de IA, probó de primera mano 'Steamy Co-Author'. Lo describe como una herramienta de escritura con IA dirigida a autores de romance y ficción de género, pensada para generar ideas, crear personajes, armar la trama y superar el bloqueo del escritor."
+        },
+        {
+          "t": "p",
+          "x": "El video recorre, en orden, el panel, la generación de historia y personajes, el constructor de tramas, la construcción de diálogos y escenas, y los precios y productos adicionales (OTO). Señala como usuarios principales a los autores autopublicados que suben libros de forma constante a Kindle Direct Publishing (KDP)."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, esta reseña es un video promocional que incluye un enlace de afiliado de WarriorPlus y un paquete de bonos, por lo que su evaluación de ventajas y desventajas debe tomarse con cautela."
+        }
+      ]
+    },
+    "books/debbonaire-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La baronesa Thangam Debbonaire, par laborista y ex secretaria de Estado en la sombra para Cultura, Medios y Deporte, habló con The Bookseller tras dar el discurso principal en la conferencia de Publishers' Licensing Services (PLS). Describió el debate del sector creativo sobre la IA como \"un canario en la mina de carbón frente a una pregunta más grande sobre el papel de los humanos.\""
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Baroness_Thangam_Debbonaire_speaking_at_the_PLS_conference_2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rebate directamente el argumento de las empresas de IA de que pagar a los creadores \"no es rentable.\" \"Básicamente le están diciendo a los creadores que van a usar su trabajo pero no van a compensarlos por ello\", dijo, y añadió: \"si tu negocio no funciona cuando pagas bien a la gente, entonces tu negocio está mal.\""
+        },
+        {
+          "t": "p",
+          "x": "También ofreció una analogía con la construcción. Para construir una casa se necesitan ladrillos, ventanas, un carpintero y madera, y si le pagas a todos los demás pero no le pagas al proveedor de ladrillos ni al carpintero, eso no es un negocio legal en este país."
+        },
+        {
+          "t": "p",
+          "x": "También señaló la preocupación por el agotamiento. Los grandes modelos de lenguaje usan el trabajo de escritores humanos como datos de entrenamiento, y si esa fuente desaparece, \"la IA no puede escribir obra nueva.\" Lo único que queda es repetir lo mismo, o que la IA entrene a la IA."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por el valor de la creatividad humana, señaló la emoción. \"Queremos la creatividad humana porque nos mueve, nos calma, nos provoca\", dijo. Aunque la IA pudiera imitar ese papel, preguntó: \"entonces hay que hacerse la pregunta filosófica más grande: ¿no hay algo demasiado importante para ser humano como para entregárselo por completo a la IA?\""
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/PLS_Conference_2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La concesión de licencias es un término medio realista entre el miedo y la inacción. \"Es mejor que no tener ninguna licencia. En esta etapa no habrá un sistema perfecto, pero PLS está dando un buen comienzo\", evaluó. Prefiere ajustar el marco actual en lugar de derribar la ley de derechos de autor. Concluyó: \"si seguimos así, acabaremos sin creación original o con gente trabajando gratis. No hacer nada ya no es una opción.\""
+        }
+      ]
+    },
+    "books/rakuten-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según Bunka News, Rakuten Books dijo en una sesión informativa estratégica para editoriales en Tokio el 7 de julio que volvería a posicionarse como una librería en línea más \"a la Rakuten\". Con 28 millones de visitantes al mes, se encuentra entre las propiedades más grandes dentro del mercado de Rakuten."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios son 57% mujeres y 43% hombres, y entre los productos para mujeres, las amas de casa son el segmento más fuerte. La empresa ve margen de crecimiento en categorías dirigidas a hombres, como los libros de negocios. El 63% de los usuarios usa tanto librerías en línea como físicas."
+        },
+        {
+          "t": "p",
+          "x": "La nueva estrategia tiene cuatro ejes: promoción a través del ecosistema de Rakuten, mantener el inventario para no perder oportunidades de venta, descubrimiento personalizado usando los datos y la IA de Rakuten, y beneficios y experiencias exclusivos de Rakuten Books."
+        },
+        {
+          "t": "p",
+          "x": "Fuera de Japón, Rakuten se asocia sobre todo con Kobo y los libros electrónicos, lo que suele ocultar la escala de su negocio de libros impresos. Rakuten Books es un actor importante que compite directamente con Amazon Japan en el mercado de libros impresos."
+        }
+      ]
+    },
+    "books/vancouver-standard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este artículo de opinión, escrito junto con otros siete autores por Cari Weaver, sostiene que se necesita un estándar unificado para informar cómo se usó la IA en la investigación. Así como se revelan las fuentes de financiación o los conflictos de interés, el uso de la IA debería divulgarse con el mismo rigor. \"Divulgar el uso de la IA de forma transparente es una cuestión de integridad de la investigación\", escribieron los autores."
+        },
+        {
+          "t": "p",
+          "x": "Hay muchas pautas sobre el uso responsable de la IA, pero en realidad \"no existe un estándar común sobre cómo divulgar de qué manera la IA contribuyó a los resultados de la investigación.\" Una encuesta de 2026 encontró que aproximadamente un tercio de los investigadores que usan IA de forma habitual nunca habían divulgado su uso."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/02/iStock-2226074210-1024x683.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Conferencia Mundial sobre Integridad en la Investigación (WCRI) creó una vía temática para cerrar esta brecha. Con apoyo de organizaciones como el Consejo Internacional de Ciencia, está perfeccionando un borrador del llamado \"Estándar de Vancouver\" a través de tres rondas de consulta. La primera ronda comenzó a finales de 2025, la segunda en julio de 2026, y la tercera está prevista para finales de 2026 o principios de 2027."
+        },
+        {
+          "t": "p",
+          "x": "La primera ronda de consulta mostró un deseo claro de contar con estándares, pero también reveló tensiones. Los puntos de discusión fueron hasta qué nivel de detalle divulgar, cómo conciliar expectativas distintas entre disciplinas, y cómo encajar con los marcos ya existentes."
+        },
+        {
+          "t": "p",
+          "x": "Los autores destacan que el foco de la divulgación está en la integridad de la investigación y la fiabilidad de los métodos. \"La responsabilidad y la supervisión humanas siguen siendo centrales para usar la IA de forma responsable\", y se debe divulgar lo suficiente para que un colega del mismo campo pueda juzgar si la contribución de la IA afectó la fiabilidad de los resultados."
+        }
+      ]
+    },
+    "books/guatemala-ai-authorship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-12-at-9.31.32-PM.png",
+          "cap": "CONTEC Guatemala"
+        },
+        {
+          "t": "p",
+          "x": "Este reportaje sobre el mercado del libro en Guatemala recoge el panel de CONTEC Guatemala (CONTEC Guatemala) sobre “IA y autoría”. Traductores literarios, editores y escritores se reunieron para hablar de cómo los traductores podrían adoptar herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "Coincidieron en que, aunque los traductores incorporen la IA a su trabajo, los traductores humanos siguen siendo indispensables. La traducción literaria consiste en inventar, para cada texto, una solución lingüística distinta y hecha a su medida."
+        },
+        {
+          "t": "p",
+          "x": "Hubo debate sobre hasta dónde delegar en la IA, pero la conclusión se acercó más a dejar el juicio final en manos de las personas. El mercado del libro en Guatemala está creciendo, pero todavía enfrenta desafíos conocidos."
+        }
+      ]
+    },
+    "books/ai-audiobook-surveys": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En una encuesta encargada por Spoken, una productora de audiolibros con IA con sede en Portland, el 61% de los encuestados confundió parte de la narración de IA con voces humanas. La misma proporción vio con buenos ojos el uso de voces de IA en escenas con varios personajes. En los pasajes descriptivos sin varios personajes, en cambio, siguieron preferiendo la narración humana."
+        },
+        {
+          "t": "p",
+          "x": "La encuesta fue realizada en mayo por Edison Research at SSRS entre 1.005 adultos estadounidenses que se identificaron como oyentes de audiolibros de ficción. Los encuestados escucharon al azar o bien la lectura de un narrador profesional, o bien un fragmento con la \"Multi-Cast technology\" de Spoken, que asigna una voz distinta a cada personaje dentro de un mismo pasaje. Spoken comercializa el servicio como una alternativa más barata y rápida que las producciones tradicionales, que requieren coordinar a varios actores de voz."
+        },
+        {
+          "t": "p",
+          "x": "Tras escuchar la muestra, el porcentaje de encuestados dispuestos a terminar un audiolibro con varias voces subió del 31% antes de escuchar al 65% después. Entre los oyentes frecuentes, el 81% mostró interés en que cada personaje tuviera una voz distinta, y el 51% dijo estar \"muy interesado\". La calidad de la narración, la inmersión y las voces de varios personajes pesaron más en su elección que un precio bajo o un narrador famoso."
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio contrasta con una encuesta de consumidores de 2026 que la Audio Publishers Association (APA) también encargó a Edison. Publicada el 5 de junio, esa encuesta encontró que la disposición a probar la narración de IA cayó del 70% en 2025 al 61% en 2026, y que solo el 16% de los oyentes la había escuchado realmente. Los títulos narrados por IA, aunque aumentan en número, representaron solo el 0,03% de las ventas de audiolibros en 2025."
+        },
+        {
+          "t": "p",
+          "x": "\"Hay algo de demanda de narración generada por IA, pero nuestra encuesta de hace unos meses muestra que la proporción de oyentes que realmente ha escuchado un audiolibro narrado por IA sigue siendo bastante baja\", dijo a PW el director ejecutivo de la APA, Jim Dinegar. Señaló la sensibilidad al precio como un factor, indicando que la narración de IA crece en títulos de catálogo antiguo o libros con mercados pequeños debido a los costos de grabación."
+        },
+        {
+          "t": "p",
+          "x": "Ambos estudios fueron realizados por Edison, pero con diseños distintos. Spoken midió las reacciones de un experimento de escucha ciega y controlada, mientras que la APA midió intenciones autodeclaradas de una base de oyentes más amplia. La ficción con mucho diálogo, como el teatro, depende del intercambio emocional y psicológico entre voces. Un narrador humano aporta al texto una perspectiva interpretativa y culturalmente matizada que ni la IA más humana está diseñada para replicar."
+        },
+        {
+          "t": "p",
+          "x": "Las encuestas contradictorias llegan en medio de un renovado interés por las producciones con varias voces, que Audible mostró recientemente con su edición de audio con reparto completo de toda la serie de Harry Potter. Dinegar dijo que la encuesta de ventas de la APA confirmó \"un crecimiento constante e impresionante de las ventas de audiolibros año tras año\", pero añadió: \"los oyentes prefieren fuertemente las voces humanas\"."
+        }
+      ]
+    },
+    "books/google-gemini-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Importantes editoriales, entre ellas Hachette, Cengage y Elsevier, presentaron una demanda contra Google. Alegan que Google usó copias digitales de Google Books, Google Play y Google Scholar para entrenar sus modelos Gemini sin permiso."
+        },
+        {
+          "t": "p",
+          "x": "Según la demanda, la propia revisión interna de Google calificó la práctica de \"highly problematic\" (muy problemática) y advirtió sobre miles de millones de dólares en posibles multas, pero la empresa siguió adelante de todos modos."
+        },
+        {
+          "t": "p",
+          "x": "Es una disputa sobre derechos y consentimiento: si el texto de los libros puede usarse para entrenar modelos de IA y, de ser así, cómo debe usarse."
+        }
+      ]
+    },
+    "books/ipa-childrens-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 35º Congreso de la Unión Internacional de Editores (IPA), celebrado en Kuala Lumpur, Malasia, concluyó su programa de dos días el 7 de julio. Tres sesiones trataron sobre publicación infantil y juvenil (YA)."
+        },
+        {
+          "t": "p",
+          "x": "En la sesión \"Conectando el mundo: narración y lectura interculturales para la próxima generación\", el consultor editorial canadiense Simon de Jocas repasó el estado actual de la literatura infantil y los hábitos de lectura junto con la directora de la Feria del Libro Infantil de Bolonia, Elena Pasoli, y el presidente de IBBY Malasia, Ahmad Redza bin Ahmad Khairuddin. Pasoli dijo: \"Sigan dando a los niños lo que les gusta, normalmente lo familiar y conocido, pero introduzcan siempre otras cosas que necesiten o deban conocer\", y añadió que \"los libros conectan con el mundo a los niños que se sienten solos, y al dejarlos viajar a otros mundos, cultivan el sentido de pertenencia y la empatía\"."
+        },
+        {
+          "t": "p",
+          "x": "Ahmad Redza contó que intentó transmitir a sus hijos The Famous Five y The Secret Seven, de Enid Blyton, libros que él apreciaba mucho, pero ellos no mostraron interés ni siquiera en las nuevas ediciones, y prefirieron El Señor de los Anillos y Harry Potter. \"El entorno ha cambiado, y los niños pasan mucho tiempo en la escuela. Si todavía están leyendo, eso ya es suficiente y da esperanza\", dijo. También subrayó: \"La tecnología no es una amenaza ni algo malo. Los libros digitales dan acceso a contenido a los niños que necesitan apoyo especial. El problema no es el formato, sino el contenido\"."
+        },
+        {
+          "t": "p",
+          "x": "La sesión \"Continuando un legado: medio siglo de publicación infantil\" centró la atención en Gallimard Jeunesse, una de las editoriales infantiles más destacadas del mundo. Su CEO, Hedwige Pasquet, se sentó junto a Karine Pansa, CEO de Grupo Girassol Brasil. En 2025, títulos de catálogo como El Principito, Beatrix Potter, Harry Potter y Roald Dahl representaron más del 64% de los 52 millones de euros de ingresos totales de la empresa, de los cuales 6 millones de euros correspondieron a ventas en el extranjero. Uno de cada diez libros vendidos a niños y jóvenes en todo el mundo es de Gallimard Jeunesse."
+        },
+        {
+          "t": "p",
+          "x": "Pasquet dijo que los objetivos y valores de la empresa se han mantenido igual desde su fundación, y señaló un contenido sobresaliente, la belleza transmitida mediante la ilustración y la creatividad para crear nuevos formatos. Dijo que la IA se usa principalmente en marketing y promoción, no en el proceso editorial."
+        },
+        {
+          "t": "p",
+          "x": "En el segundo día del Congreso, el tema central fue la creciente crisis de alfabetización. Cientos de millones de niños y jóvenes crecen sin libros. La Embajadora de Buena Voluntad de la UNESCO para la Educación y la Cultura del Libro, y fundadora de Kalimat Group y PublisHer, Sheikha Bodour Al Qasimi, conversó con Emma House, de Oreham Group. Dijo: \"Las publicaciones abundan, pero en campos de refugiados o lugares sin internet es difícil acceder tanto a libros impresos como a libros electrónicos\", y añadió que \"con libros, incluso los refugiados pueden volver a trazar su camino hacia el futuro\"."
+        },
+        {
+          "t": "p",
+          "x": "A continuación dijo: \"No son los libros los que crean lectores, sino la cultura de la lectura la que crea lectores\", y añadió: \"La IA está cambiando la forma de hacer libros, pero ningún algoritmo se enamora de la lectura. Las personas sí pueden. Un solo libro cambia una vida\"."
+        }
+      ]
     }
   }
 }

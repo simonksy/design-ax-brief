@@ -2164,6 +2164,667 @@
           "x": "La conclusión es clara. Si ya te gustan las Ray-Ban Meta y quieres usarlas a diario con lentes graduadas, las Optics son la versión más cómoda y más premium que se puede comprar ahora. Lo que queda por decidir es si puedes pagar ese precio."
         }
       ]
+    },
+    "gadgets/apple-smart-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple vuelve a reforzar su negocio de hogar inteligente en 2026. En el centro está un Siri más personalizado."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo hub de hogar incorpora una pantalla de 6 a 7 pulgadas y un chip A18 para ejecutar Apple Intelligence directamente en el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Junto a esto llega un paquete que incluye un Apple TV 4K con mejor rendimiento de IA, y versiones renovadas del HomePod y el HomePod mini."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una filtración de la app de Samsung reveló un nuevo nombre: “Galaxy Buds On”."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-6.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Son auriculares open-ear de conducción ósea que no bloquean el oído, y aparecieron junto al Galaxy Watch 9 y al Watch Ultra 2."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que los tres dispositivos lleguen con funciones de Galaxy AI en el Unpacked de julio."
+        }
+      ]
+    },
+    "gadgets/samsung-galaxy-watch-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Antes de su evento Unpacked del 22 de julio, Samsung mostró un adelanto de un nuevo Galaxy Watch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Este reloj incorpora “componentes internos completamente nuevos” y usa IA para leer el estado del cuerpo en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Más allá del simple registro, apunta a entender primero la salud y gestionarla de forma anticipada."
+        }
+      ]
+    },
+    "gadgets/pixel10-gemma4": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Gemma 4 E2B de Google funciona directamente en el Tensor G5 TPU del Pixel 10."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?quality=82&strip=all&w=1600",
+          "cap": "El chip Tensor G5 de Google"
+        },
+        {
+          "t": "p",
+          "x": "Sin necesidad de conexión a internet, el teléfono procesa conversaciones con IA, reconocimiento de imágenes y dictado de voz."
+        },
+        {
+          "t": "p",
+          "x": "Es un paso hacia una IA generativa local que no envía datos fuera del dispositivo, en línea con la tendencia de la IA en el dispositivo centrada en la privacidad."
+        }
+      ]
+    },
+    "gadgets/siri-gemini": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El nuevo Siri de Apple, retrasado un año, llegó a iOS 27. Esta vez Siri funciona con el modelo Gemini de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3.jpg",
+          "cap": "Probando el nuevo Siri en iOS 27"
+        },
+        {
+          "t": "p",
+          "x": "Tras un mes de uso, Gizmodo encontró que resultaba bastante útil para buscar datos personales y realizar tareas de varios pasos."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, se dice que todavía no alcanza un nivel perfectamente pulido. De todos modos, es un cambio a tener en cuenta para quienes dependen del asistente de Apple."
+        }
+      ]
+    },
+    "gadgets/apple-google-cloud": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple añadió un nuevo aviso de privacidad a algunas funciones de Apple Intelligence. El objetivo son las funciones que transfieren el procesamiento a Google Cloud."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-ai-apple-intelligence-ios-27-fi-site.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Es un cambio de interfaz que revela qué tareas salen del dispositivo hacia Google Cloud. También es una señal de que una renovación de Siri asistida por Gemini se acerca al iPhone."
+        }
+      ]
+    },
+    "gadgets/dreame-x60": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El robot aspirador insignia de Dreame, el X60 Max Ultra, usa dos cámaras de IA. También añade una luz activa que ilumina primero los rincones oscuros."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Dreame-X60-Max-Ultra-tile.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con esta combinación distingue 280 tipos de obstáculos, una muestra de cuánto ha avanzado la visión por IA en el dispositivo para robots domésticos."
+        }
+      ]
+    },
+    "gadgets/sk-hynix-tetramem": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SK Hynix y Tetramem están construyendo un SoC de computación en memoria basado en memristores. El método procesa los cálculos dentro de la propia memoria para reducir el consumo de energía."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7mqMxYN2TCm5aj9QooiDgH-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es claro: reducir la energía que necesita la inferencia de IA de borde al ejecutar modelos ligeros en el propio dispositivo. Sin embargo, aún no está claro cuál será el rendimiento real."
+        }
+      ]
+    },
+    "gadgets/alexa-moonraker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon está construyendo una versión superior de Alexa llamada 'Moonraker'. Según documentos internos de planificación revisados por Business Insider, este asistente agéntico encadena varias solicitudes a la vez, por ejemplo pedir un taxi mientras envía un mensaje de texto a un amigo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-more-powerful-agentic-alexa-assistant/intro-1783528237.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es un intento de mantener a Alexa competitiva mientras los modelos agénticos de Google, Anthropic y OpenAI se adelantan. Sin embargo, el costo es un obstáculo. Amazon ha presupuestado más de 100 millones de dólares en gasto de GPU para 2026, y algunos altos ejecutivos consideran que la inversión que ya se ha destinado a Alexa ha sido excesiva."
+        },
+        {
+          "t": "p",
+          "x": "Según documentos de finales de 2025, Amazon planea conectar cientos de GPU de Nvidia a Moonraker y probar capacidades avanzadas de razonamiento y visión con el modelo Sonnet de Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Alexa+ se lanzó en todo Estados Unidos a comienzos de 2026, pero el arranque no fue fluido. Incluso las solicitudes básicas fallaban, y la revisora de Engadget Cherlynn Low señaló que el asistente no recordaba bien conversaciones anteriores ni solicitudes de aplicaciones como pedir un Uber."
+        },
+        {
+          "t": "p",
+          "x": "Aparte de la noticia de Moonraker, Amazon sigue añadiendo funciones a Alexa+. En febrero agregó la opción de elegir una personalidad, y luego sumó un modo 'Sassy' que incluso permite groserías. Más recientemente, añadió la posibilidad de pedir comida por voz en Grubhub y Uber Eats."
+        }
+      ]
+    },
+    "gadgets/robert-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los escritores de ciencia ficción y los investigadores de IA han soñado durante décadas con un día en que hablar con un robot humanoide no se distinga de hablar con una persona. Los chatbots ya han llegado al punto de convencerse a sí mismos de que son conscientes, pero un robot verdaderamente humano que viva junto a las personas todavía está lejos."
+        },
+        {
+          "t": "p",
+          "x": "Esta semana, en la cumbre 'AI for Good' de la ONU en Ginebra, los visitantes pudieron convivir con el robot Robert. Vestido con traje y corbata, de poco más de 180 cm, es idéntico al Optimus de Tesla, y su cara de pantalla mostraba por turnos imágenes de Trump, Obama y Mark Zuckerberg. No lo confunda con Robby, de la película de 1956 'Planeta prohibido'. Robert fue construido por la empresa suiza de robótica RB Labs y diseñado para imitar las sutiles señales de expresión no verbal que las personas intercambian entre sí."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/RoberttheRobot.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"En el futuro va a ser importante hablar con los robots y leer información en sus expresiones, como saber que alguien está de buen humor al verlo sonreír.\" Eso dijo el cofundador de RB Labs, Robin Cranbroukers, en una entrevista grabada con Reuters. Detrás de él, Robert, con la cara de Trump puesta como una máscara, miraba fijamente hacia algún punto fuera de cámara. \"Aunque ahora mismo hagas que Robert haga algo raro, la gente no lo va a confundir con el verdadero Trump. No creo que haya caído en el valle inquietante.\""
+        },
+        {
+          "t": "p",
+          "x": "Eso se puede aceptar. En el video que publicó Reuters, los dos ojos de Robert se desvían cada uno hacia un lado distinto, y en otra escena, con los ojos desparejos y sin expresión, hace una mueca de caricatura antes de soltar de repente una sonrisa enorme. Hay mucho que sorprende al ver el video, pero que la gente confunda a Robert con el verdadero Zuckerberg o Trump no es una de esas cosas."
+        },
+        {
+          "t": "p",
+          "x": "Es cierto que la investigación en robots humanoides ha avanzado mucho en los últimos años, gracias a una IA entrenada con enormes cantidades de datos reales que predice cómo debería reaccionar en situaciones desconocidas. Pero como ha mostrado durante años la industria de los coches autónomos, todavía no existe un robot que maneje con soltura las variables infinitas de la realidad. Cuando en 2024 circuló un video de Optimus llevando bebidas, pareció un avance, pero resultó ser más bien una marioneta mecánica manejada por una persona desde atrás."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje que solo se comunican por texto, si acaso, engañan mejor a la gente. Hasta un materialista convencido como Richard Dawkins ha caído antes en esa trampa. Los modelos de voz también van imitando cada vez mejor las sutilezas del habla humana, pero todavía están lejos de entrar en el valle inquietante."
+        },
+        {
+          "t": "p",
+          "x": "Según el sitio web de RB Labs, se puede contratar a Robert para exposiciones, conferencias y distintos eventos. Lamentablemente, las fiestas de cumpleaños quedan descartadas. La empresa está contratando para varios puestos, entre ellos un 'ingeniero de garantía de seguridad de robots' e ingenieros especializados en modelos del mundo, un campo de la IA que algunos investigadores consideran el camino más prometedor hacia la inteligencia artificial general (AGI)."
+        }
+      ]
+    },
+    "gadgets/watch-illness-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los relojes inteligentes ya no se limitan a contar pasos o pulsaciones. Vigilan el sueño, la temperatura de la piel, la frecuencia respiratoria, el oxígeno en sangre, la variabilidad del ritmo cardíaco e incluso señales de apnea del sueño. A juzgar solo por el marketing, parece que un tricorder de muñeca está a la vuelta de la esquina, pero cuánto detectan realmente estos dispositivos de las señales tempranas de enfermedad es algo que vale la pena examinar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/intro-1782925052.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lo que mejor hacen es notar el momento en que el cuerpo se sale de su patrón habitual. Ese valor atípico se convierte en una señal para consultar al médico. El ejemplo más claro es la detección de la fibrilación auricular, una arritmia que eleva el riesgo de derrame cerebral. Un estudio de Apple Watch encontró que \"el 84% de las notificaciones de ritmo irregular se confirmaron como fibrilación auricular real\"."
+        },
+        {
+          "t": "p",
+          "x": "Los indicadores que los médicos consideran clínicamente útiles apenas suman, a esto, el patrón básico de sueño y el conteo de pasos. Las alertas de presión arterial, las estimaciones de calorías y el seguimiento detallado de las fases del sueño no llegan a ser útiles para decisiones clínicas. El VO2 máx y la variabilidad del ritmo cardíaco también se quedan en valores de referencia aproximados."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-your-smartwatch-and-ai-can-detect-early-signs-of-illness/knowing-the-limits-1782925054.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Incluso los indicadores confiables producen falsas alarmas. Un ritmo cardíaco en reposo elevado puede ser señal de que el cuerpo está combatiendo una infección, pero también puede deberse simplemente a dormir mal o a beber algo más de lo habitual. Por eso los médicos miran la tendencia y no una sola lectura."
+        },
+        {
+          "t": "p",
+          "x": "El cuerpo cambia de forma sutil mucho antes de sentir síntomas de gripe o COVID-19. Investigadores de Texas A&M y Stanford consideraron que los relojes inteligentes pueden captar señales tempranas a pocas horas de la infección, y estimaron que \"lograr que la gente se aísle, se haga pruebas y se trate antes podría reducir la propagación de una pandemia hasta en un 50%\"."
+        },
+        {
+          "t": "p",
+          "x": "Google, Oura y Whoop también han añadido entrenadores de IA a sus aplicaciones, y hay funciones como el Symptom Radar de Oura o el Vitals de Apple que combinan varios sensores para comparar contra una línea base. Aun así, la mayor parte de este análisis corre en segundo plano y no produce resultados que un médico pueda confiar y usar de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Al final, es poco probable que llegue un tricorder capaz de diagnosticar enfermedades desde la muñeca. Lo que queda, en cambio, es un dispositivo que vigila en silencio tus patrones, te avisa cuando algo se ve distinto y te entrega una pista para comentar con tu médico."
+        }
+      ]
+    },
+    "gadgets/sony-rx10v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sony revivió su cámara todo en uno más querida. Esta vez incorporó una IA de autoenfoque tomada de su línea profesional de mirrorless Alpha."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Sony-RX10-V-featured-image.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Lo que hacía buena a la generación anterior se mantiene: un objetivo ZEISS Vario-Sonnar T* que cubre de 24mm a 600mm con F2.4-4.0, un sensor apilado de 1.0 pulgadas y un cuerpo compacto."
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿qué es realmente nuevo en la RX10 V? Un AF de reconocimiento en tiempo real impulsado por el procesador BIONZ XR AI integrado en el dispositivo. Identifica automáticamente a personas, animales, aves, insectos, autos, trenes y aviones, cambiando la forma en que la cámara reacciona en situaciones reales."
+        },
+        {
+          "t": "p",
+          "x": "Con disparo continuo de 30 fps sin apagón de pantalla y 60 cálculos de AF/AE por segundo, esta es la primera RX10 capaz de seguir a una garza que cambia de dirección en pleno vuelo."
+        },
+        {
+          "t": "p",
+          "x": "El video también dio un gran salto. Mientras la RX10 IV se detenía en 4K a 30 fps, la RX10 V captura 4K a 120 fps (el ángulo de visión se estrecha algo). La batería dura un 50% más que el modelo anterior, con unas 630 fotos usando la NP-FZ100. Un nuevo visor OLED Quad-VGA de 3,68 millones de puntos también mantiene la composición clara bajo luz directa."
+        },
+        {
+          "t": "p",
+          "x": "El precio, sin embargo, es de 2.299 dólares, claramente por encima de los 1.699,99 dólares de la RX10 IV. Para fotografiar fauna, aves, deportes y viajes cubriendo todo el rango de zoom en un solo cuerpo sin cambiar de objetivo, es un valor que ninguna combinación mirrorless ofrece. El lanzamiento en EE. UU. está previsto para agosto de 2026."
+        }
+      ]
+    },
+    "gadgets/ubtech-u1": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "UBTech, conocida por sus humanoides que patrullan la frontera entre China y Vietnam, presentó ahora su creación más inquietante hasta la fecha: el UWorld U1, su primer 'Humanoide Ultra Biónico' de producción en serie a tamaño real."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gREUsk6DXP8X9RFAsEP6TB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La serie UWorld U1 representa algo así como un giro para UBTech. Hasta ahora había construido principalmente robots sin rostro para uso empresarial y fronterizo, pero durante mucho tiempo ha albergado ambiciones de llegar al mercado de consumo."
+        },
+        {
+          "t": "p",
+          "x": "Tiene piel de silicona, ojos que siguen la mirada, pestañas que parpadean y 88 grados de libertad en todo el cuerpo. La compañía dice que también añadió una estructura que llama 'cuello cervical biomimético de doble eje' para que sus movimientos se parezcan más a los humanos."
+        },
+        {
+          "t": "p",
+          "x": "UBTech presentó los robots esta semana en un gran evento en Shenzhen, China. Se mostraron tres modelos: el de medio cuerpo U1 Lite, el de cuerpo completo de alto rendimiento U1 Pro, y el de cuerpo completo de alta movilidad U1 Ultra."
+        },
+        {
+          "t": "video",
+          "yt": "90J5I8woxyo"
+        },
+        {
+          "t": "p",
+          "x": "En la presentación del 30 de junio, varias unidades U1 Ultra salieron caminando mezcladas entre personas reales. La intención parecía ser que el público confundiera robots con humanos, pero todos los robots se veían algo plásticos y su andar resultaba algo torpe."
+        },
+        {
+          "t": "p",
+          "x": "La compañía dice que el U1 cuenta con un 'LLM de reconocimiento emocional' que lee y responde a estados emocionales sutiles, con el objetivo de ser un compañero proactivo que responda a las personas en menos de un segundo."
+        },
+        {
+          "t": "p",
+          "x": "UBTech dijo que apunta a la realidad de China, con 90 millones de adultos que viven solos y 118 millones de personas mayores cuyos hijos ya no viven con ellas. También dijo que donaría 100 de estos robots en 2026."
+        },
+        {
+          "t": "p",
+          "x": "Aquí es donde la historia se vuelve extraña. UBTech lo expresó así: \"Esta unidad incorpora reconstrucción facial 3D y tecnología de clonación de identidad basada en huella vocal para recrear a una persona designada, combinada con un modelo de interacción basado en emociones y un sistema de memoria de largo plazo dedicado.\""
+        },
+        {
+          "t": "p",
+          "x": "En otras palabras, pretende construir un U1 Ultra personalizado que se parezca mucho al rostro y la voz de quien se desee, ya sea un cónyuge fallecido o un hijo que vive lejos. Aun así, esa silicona fría y ese andar torpe parecen difícilmente capaces de llenar el vacío de alguien que ya no está."
+        },
+        {
+          "t": "p",
+          "x": "Si te interesa, tendrás que viajar a China y pagar unos 18.000 dólares (unas £13.570 / AU$26.120). Su lanzamiento está previsto para este mismo año."
+        }
+      ]
+    },
+    "gadgets/codex-macropad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI y el fabricante de teclados mecánicos Work Louder están creando algo juntos. La información se basa en una publicación de la cuenta OpenAI Developers en X, con fecha de presentación el 15 de julio. El texto de adelanto decía: \"Tus atajos favoritos de Codex suben de nivel.\""
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/openai-work-louder.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La programación y los teclados mecánicos son dos gustos que se entrelazan de forma natural. El producto que OpenAI va a lanzar parece convertir los atajos habituales de Codex en un solo botón, con efectos de iluminación añadidos. Su aspecto se acerca a una versión modificada del macropad de Work Louder, el mismo producto que Gizmodo recomendó en 2023, y del que Figma también encargó una versión personalizada a Work Louder a finales de 2023."
+        },
+        {
+          "t": "p",
+          "x": "Un macropad es un dispositivo de entrada pequeño y libremente configurable que se coloca sobre el escritorio. Gestiona pulsaciones de teclas y mandos en un cuerpo más agradable a la vista que un teclado normal."
+        },
+        {
+          "t": "p",
+          "x": "La retroalimentación sensorial, como sonidos de clic y luces parpadeantes, puede reducir errores y mejorar la eficiencia del trabajo. Claro que también hay quienes solo quieren convertir su trabajo en el juego 'Simon.'"
+        }
+      ]
+    },
+    "gadgets/insta360-x6": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En el mercado de cámaras de acción, GoPro ha mantenido durante mucho tiempo el primer puesto. Su rival Insta360 también ha ido consolidando su posición, y la próxima X6 podría cerrar esa distancia."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-05.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hoy circularon nuevas imágenes del Insta360 X6 a través del filtrador de cámaras Mauro Tandoi, pocos días después de que los documentos de certificación de la nueva cámara se detectaran en línea. En las imágenes filtradas compartidas por WinFuture, la X6 tiene un cuerpo notablemente más pequeño que la X5, con una silueta más cercana a la de una cámara de acción típica, más parecida a GoPro que los productos anteriores de Insta360. Aun así, colocar dos sensores detrás de lentes de ojo de pez delantera y trasera, y añadir una pantalla de estado para la configuración, sigue siendo claramente propio de Insta360."
+        },
+        {
+          "t": "p",
+          "x": "Las especificaciones filtradas tienen peso real. En modo 360, se dice que captura resolución 8K a hasta 50 fotogramas por segundo, un salto considerable respecto a la X5, que llegaba como máximo a 30 fps."
+        },
+        {
+          "t": "p",
+          "x": "Fiel al estilo de 2026, el precio también ha subido. Según WinFuture, el precio minorista parte de unos 800 dólares solo por el cuerpo de la X6, y un 'paquete esencial' de accesorios sin especificar añade unos 100 dólares más. Eso tiene sentido dado el coste de los componentes de la cámara, y reducir el tamaño también suele encarecer el precio."
+        },
+        {
+          "t": "p",
+          "x": "Todavía no hay fecha de lanzamiento, pero el momento podría ser oportuno. GoPro quedó en una posición difícil a principios de esta semana tras declararse en quiebra. Se informa que el CEO de GoPro, Nicholas Woodman, compró 20 millones de dólares en acciones propias de la empresa para mantenerla a flote por ahora. Dijo que sigue abierto a una venta o fusión si aparece el comprador adecuado."
+        },
+        {
+          "t": "p",
+          "x": "A 800 dólares, no es un precio fácil para el consumidor medio. Aun así, en un mundo sin GoPro, la X6 se vuelve una opción más atractiva para quienes buscan comprar una cámara de acción."
+        }
+      ]
+    },
+    "gadgets/nokia-ai-button": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HMD no ha abandonado los teléfonos básicos. Sus nuevos Nokia 200 4G, 210 4G, 215 4G 2ª edición y 235 4G 2ª edición se adaptan a los tiempos colocando un botón de IA justo en el centro del D-pad."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Al pulsar este botón aparece un asistente de IA en el dispositivo. Funciona con Siki AI, responde preguntas básicas y maneja las funciones del equipo por voz. Según la página de especificaciones de HMD, \"el asistente de IA es gratuito durante los primeros 180 días, pero después requiere una suscripción de pago.\" Curiosamente, para comprar esa suscripción hace falta tener un smartphone real."
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro modelos llevan cámara VGA y admiten videollamadas Xpress."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_007.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las pantallas varían un poco. El Nokia 210 4G y el 215 4G usan una pantalla QVGA de 2,4 pulgadas, mientras que el 215 y el 235 llevan un panel IPS de 2,8 pulgadas con la misma resolución. El 210 4G y el 235 4G incluyen cámara trasera, y el 235 lleva un sensor de 2MP."
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro funcionan con el sistema operativo S30+ y usan una batería de 1.450mAh. También incluyen Bluetooth 5.0, entrada para auriculares de 3,5mm, radio FM y carga por USB-C."
+        },
+        {
+          "t": "img",
+          "src": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-nokia-200-4g-210-215-235-ofic/inline/-1200/gsmarena_003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Precio y fecha de lanzamiento aún no se han revelado."
+        }
+      ]
+    },
+    "gadgets/meta-glasses-subscription": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pocas cosas incomodan tanto a la gente como introducir una suscripción donde antes no la había. A principios de este mes, Meta tiró precisamente de esa palanca al anunciar que pondría “límites de uso” en sus gafas inteligentes."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-2-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tras la reacción negativa, Meta dio marcha atrás, al menos por ahora. Según The Verge, Meta detuvo su plan de poner un límite de uso a Conversation Focus, una función que usa IA y los micrófonos de las gafas para ayudar a oír con más claridad a la persona con la que se habla."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Meta dijo a The Verge que la empresa no ha abandonado las suscripciones como tales. Los planes de cobrar por algunas funciones más adelante siguen en pie; solo se detuvo la idea de empezar por Conversation Focus."
+        },
+        {
+          "t": "p",
+          "x": "En realidad, empezar por Conversation Focus ya era una elección extraña. La función funciona sin conexión y no supone carga alguna para los servidores de Meta, así que poner un límite de uso a los usuarios avanzados no tiene mucho sentido. Meta nunca la presentó como una función de accesibilidad, pero también es una herramienta que usan sobre todo personas con dificultades auditivas."
+        },
+        {
+          "t": "p",
+          "x": "Meta explica que introduce los límites de uso para ayudar a compensar el coste del hardware. Aun así, nadie sabe si unas gafas inteligentes cargadas de suscripciones terminarán siendo realmente más baratas."
+        }
+      ]
+    },
+    "gadgets/meta-rayban-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta modificó sus gafas de IA Ray-Ban. El parche apaga la cámara por completo si alguien manipula la luz indicadora de grabación (LED)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hEJdTA3TwbnfDQCMUCHyc9-2560-80.jpg",
+          "cap": "Gafas inteligentes Meta Ray-Ban"
+        },
+        {
+          "t": "p",
+          "x": "La medida llega después de que el mundo del modding empezara a vender servicios para apagar el LED. Creció la preocupación de que desactivar la luz que avisa de una grabación permitiera filmar a escondidas."
+        },
+        {
+          "t": "p",
+          "x": "TechRadar usa este episodio para volver a preguntarse si las gafas de IA sin cámara son un diseño más seguro. Es un punto para reflexionar para quien esté valorando un dispositivo wearable centrado en la privacidad."
+        }
+      ]
+    },
+    "gadgets/one-ui-9-watch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2024/08/Galaxy-Watch-Ultra-tiles.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un aviso de cambio de función en la app Samsung Health indica que One UI 9 Watch podría llegar tan pronto como a finales de julio."
+        },
+        {
+          "t": "p",
+          "x": "Según el aviso, Samsung retira en EE. UU. la función de Carga Vascular (Vascular Load) del Galaxy Watch. En su lugar llega, junto con One UI 9 Watch, una nueva función llamada “Tendencia de Presión Arterial” (Blood Pressure Trend). Samsung dijo: “Este cambio entra en vigor este mes junto con One UI 9 Watch”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Watch-9-Ultra-2-Blood-Pressure-Trend-Feature-Announced-Members-App.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9 Watch se basa en Wear OS 7 de Google. Se espera que la beta llegue a los modelos Galaxy Watch8 y Galaxy Watch Ultra lanzados en 2024 y 2025."
+        },
+        {
+          "t": "p",
+          "x": "También se espera que la nueva versión traiga numerosas mejoras internas poco visibles. Llega junto con los próximos Galaxy Watch9 y Galaxy Watch Ultra2."
+        }
+      ]
+    },
+    "gadgets/openai-speaker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Según un nuevo informe, el primer dispositivo de OpenAI es un altavoz portátil sin pantalla. Equipado con una cámara y varios sensores, se describe como un compañero de IA que lee la situación antes de que el usuario pregunte."
+        },
+        {
+          "t": "p",
+          "x": "El producto es también el primer dispositivo de consumo creado por el equipo io, liderado por Jony Ive. En lugar de pantalla, se apoya en la voz y en capacidades de detección, una forma distinta a la de los dispositivos inteligentes anteriores."
+        }
+      ]
+    },
+    "gadgets/roborock-saros20": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brent Rose probó el Roborock Saros 20 de 1,600 dólares. Los robots aspiradores suelen tener algún punto débil: buena succión pero no limpian bien las esquinas, o reconocen objetos pero les falta potencia. Dijo que el Saros 20 es el primero que lo hace todo bien por igual. Es el Editor's Choice 2026 de Gizmodo."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-09.jpg",
+          "cap": "Roborock Saros 20"
+        },
+        {
+          "t": "p",
+          "x": "La succión alcanza 36,000Pa. Hace apenas dos años, 10,000Pa se consideraba de gama alta. El chasis AdaptLift 3.0 sube umbrales dobles de hasta 3.46 pulgadas de altura, y la nueva navegación StarSight 2.0 reconoce más de 300 tipos de objetos. Lleva un lidar dual de estado sólido en la parte delantera que sustituye al antiguo sensor láser giratorio (LDS), lo que permite un cuerpo más plano capaz de deslizarse bajo muebles de hasta 3.13 pulgadas de altura."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-08.jpg",
+          "cap": "La base rediseñada"
+        },
+        {
+          "t": "p",
+          "x": "La base también se rediseñó. Carga la batería al 100% en dos horas y media con carga rápida. Tiene un depósito de agua limpia de 4 litros y uno de agua sucia de 3.5 litros; calienta el agua hasta 212°F (punto de ebullición) para mojar la mopa, la lava y luego la seca con aire a 131°F. Como la mopa se desinfecta cada vez, no hay malos olores ni riesgo de propagar bacterias. Tiene un compartimento aparte para detergente, así que solo hay que rellenar agua, y según la configuración se puede dejar hasta dos meses sin tocarla."
+        },
+        {
+          "t": "p",
+          "x": "El reconocimiento de objetos con IA impresionó. Distinguió un regulador de corriente y un cable pegado a la pared, marcó unas zapatillas bajo una mesa como “zapatos” y una silla de oficina como “mueble propenso a atascos”. Limpiar todo un estudio tomó 90 minutos, y solo la cocina, 5 minutos. Mapear la casa tardó 12 minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roborock-Saros-S20-review-01.jpg",
+          "cap": "Una autonomía que no es perfecta"
+        },
+        {
+          "t": "p",
+          "x": "Las debilidades también son claras. Estando la casa vacía, quedó atrapado entre el sofá y una mesa sin poder salir y agotó la batería. Sobre una alfombra con estampado, aspiró un cable USB-C, y en una ocasión enrolló el cinturón de una bata que colgaba de la cama. También salió más de 8 pies de la zona asignada y dio vueltas por sitios equivocados. Aun así, la conclusión es que es el mejor robot aspirador que ha usado hasta ahora."
+        }
+      ]
+    },
+    "gadgets/surface-x2plus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NotebookCheck ha probado el Surface Laptop 13.8 de Microsoft de 2026. Para ser una actualización tras dos años, el hardware se mantiene casi igual y solo incorpora el nuevo Snapdragon X2 Plus de Qualcomm, pero consideran que esa mejora de rendimiento justifica el precio por sí sola. La nota global es 88%, “muy bueno”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/Microsoft/Surface_Laptop_8_13_8_X2_Plus/surface_laptop_13_2026_x2_plus_case_07.JPG",
+          "cap": "Surface Laptop 13.8"
+        },
+        {
+          "t": "p",
+          "x": "El Snapdragon X2 Plus (X2P-64-100) tiene 10 núcleos: seis núcleos Prime a 4.0GHz y cuatro núcleos de rendimiento a 3.4GHz. El consumo llega a un máximo de 28W, con 18W sostenidos, y la GPU integrada es la Adreno X2-45 a 1350MHz. El rendimiento se acerca mucho al del X2 Elite de 12 núcleos. Obtuvo 854 puntos en Cinebench 2024 multinúcleo (1078 el X2 Elite, 957 el Apple M5) y 14,277 puntos en Geekbench 6.7 multinúcleo."
+        },
+        {
+          "t": "p",
+          "x": "La pantalla es una táctil IPS de 13.8 pulgadas en formato 3:2, con resolución de 2304×1536 y 120Hz. Alcanza un brillo máximo de 659cd/m², un contraste de 1402:1 y cubre 97.8% de sRGB y 96.5% de P3. El panel es brillante pero sin parpadeo PWM."
+        },
+        {
+          "t": "p",
+          "x": "La memoria son 16GB de LPDDR5x-9523 soldados a la placa, por lo que no se puede ampliar. El SSD SK hynix de 512GB usa el formato M.2 2230 y sí se puede reemplazar. La batería es de 54Wh, e incluye dos puertos USB4 de 40Gbps, USB-A 3.1, Wi-Fi 7 y Surface Connect. Los colores suman el nuevo Jade a Platinum, Dune y Black, y el peso es de 1.338kg. Cuenta con certificación Copilot+ PC."
+        },
+        {
+          "t": "p",
+          "x": "La configuración base es X2 Plus·16GB·512GB por 1,599 dólares (1,699 euros en Europa). La diferencia de rendimiento con el X2 Elite es mínima, así que no hay motivo para cambiar a menos que se necesite más RAM o almacenamiento. La reseña lamenta que a los clientes particulares solo se les ofrezca Snapdragon, ya que la versión con Intel y GPU más rápida no está disponible para el público general."
+        }
+      ]
+    },
+    "gadgets/smart-glasses-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tom's Guide probó gafas inteligentes con IA durante un año y 50.000 millas, y al final eligió tres modelos lanzados hasta 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/G3Xc3jkMkkFvQMKqYnBi4k-1992-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La selección abarca tanto modelos con pantalla como modelos centrados en audio, una comparación práctica para quien considera gafas inteligentes."
+        }
+      ]
+    },
+    "gadgets/codex-micro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/openAI_keyboard.jpg",
+          "cap": "Imagen promocional del teclado Codex de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI presentó oficialmente su primer hardware. No es el producto que todos imaginaban. La empresa detrás de ChatGPT reveló el miércoles un mini teclado de 230 dólares pensado exclusivamente para su agente de codificación con IA, Codex. Se asoció con Work Louder, que fabrica teclados programables y macropads."
+        },
+        {
+          "t": "p",
+          "x": "En rigor, es menos un teclado completo que un macropad programable. El nombre oficial de este pequeño panel cuadrado es kbd-1.0-codex-micro, abreviado como Codex Micro."
+        },
+        {
+          "t": "p",
+          "x": "La cuenta de desarrolladores de OpenAI publicó en X un video del dispositivo en funcionamiento con el texto: “Map the buttons and joystick to your workflow, and keep your pinned chats in view.” La página del producto describe el dispositivo como un “command center for agentic work”."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Codex-micro-overview-orange.jpeg",
+          "cap": "Codex Micro"
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo tiene 13 interruptores mecánicos, un sensor táctil, un dial giratorio y un joystick. Viene en dos versiones, una con clic audible y otra silenciosa. Los compradores también reciben 32 teclas con iconos de Codex para personalizar el panel con los atajos que prefieran."
+        },
+        {
+          "t": "p",
+          "x": "Seis de las teclas se iluminan y señalan el estado de cada agente por color. Verde significa un mensaje sin leer, azul significa que está pensando, naranja significa que necesita aprobación o tiene una pregunta, y rojo indica un error."
+        },
+        {
+          "t": "p",
+          "x": "El joystick se puede programar para abrir flujos de trabajo como depurar errores o refactorizar código. El dial ajusta el nivel de razonamiento que Codex usa para una tarea."
+        },
+        {
+          "t": "p",
+          "x": "El teclado llega en medio de un interés creciente por un dispositivo de consumo de OpenAI del que se rumorea desde hace tiempo. El martes, Bloomberg informó, citando fuentes anónimas, que el producto muy esperado podría ser un altavoz inteligente sin pantalla que se mueve por sí solo. Se dice que el dispositivo apunta a un “humanlike AI companion” que usa ChatGPT para tareas como reproducir música y medios, controlar electrodomésticos y responder preguntas. Se espera que se presente este año y se lance en 2027. Se dice que OpenAI también explora un dispositivo móvil de IA independiente."
+        },
+        {
+          "t": "p",
+          "x": "Según se informa, estos proyectos se están desarrollando junto con io Products, la startup de hardware fundada por el ex responsable de diseño de Apple, Jony Ive. OpenAI adquirió io Products el año pasado por 6.500 millones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Pero las ambiciones de hardware de OpenAI ya han provocado una disputa legal. Apple demandó la semana pasada a OpenAI y a dos exempleados de Apple ante un tribunal federal de California, alegando que robaron secretos comerciales relacionados con los procesos de fabricación de Apple y con un producto aún en desarrollo. io Products también figura como demandada en la demanda."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, quien quiera hacerse con un dispositivo de OpenAI tendrá que conformarse con el nuevo teclado Codex."
+        }
+      ]
     }
   }
 }

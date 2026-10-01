@@ -2760,6 +2760,872 @@
           "x": "La conversación también abordó las campañas publicitarias del Mundial, evaluaciones de campañas de marcas importantes como Nike, Adidas y Starbucks, y la trayectoria profesional de CMO a CEO. Este artículo es una versión resumida de una entrevista del podcast 'Rapid Response', que recoge conversaciones francas con líderes."
         }
       ]
+    },
+    "design/figma-to-code-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stéphane LaFlèche pensaba escribir en un principio un artículo criticando el bombo del Figma-to-code. Tras estudiar a fondo el pipeline de diseño a código de monday.com, cambió de rumbo. El cambio real no estaba en las herramientas, sino en \"quién hace realmente el trabajo y quién es dueño de las decisiones que las herramientas toman en silencio\"."
+        },
+        {
+          "t": "p",
+          "x": "A simple vista, el panorama parece asentado. El 82,3% de los diseñadores nombra a Figma como su herramienta principal de diseño de UI, y alrededor del 60% de los clientes de Figma que gastan más de 100.000 dólares al año usa Figma Make cada semana. El estándar del Design Tokens Community Group (DTCG) alcanzó su primera versión estable a finales de 2025. La industria converge hacia un esquema en el que el código fluye desde Figma, pasando por un servidor MCP, hacia agentes como Copilot, Cursor, Claude Code y Codex."
+        },
+        {
+          "t": "p",
+          "x": "Pero en la práctica, los pipelines ingenuos fallan de forma predecible. Los modelos toman componentes que no existen, codifican colores a mano en vez de usar tokens e inventan valores CSS como 'fit-parent'. Hasta la propia guía de configuración de MCP de Figma señala que, sin Code Connect vinculando código real, \"el modelo está adivinando\"."
+        },
+        {
+          "t": "p",
+          "x": "monday.com construyó un pipeline de LangGraph con 11 nodos. Extrae el diseño en bruto desde Figma, resuelve los valores en tokens semánticos, los cruza con la librería real y le pasa a Cursor contexto estructurado en lugar de código. Elad Mizrahi, responsable de sistemas de diseño, dice que entre el 70 y el 90% del código de los componentes se genera, y los desarrolladores terminan el último 10-30%. Todo cambio sigue pasando por una revisión humana de diseño y de código."
+        },
+        {
+          "t": "p",
+          "x": "Este techo no es exclusivo de monday. Shopify reporta cerca del 80% por su cuenta, y Ramp cerca del 70%. Sin importar cuán sofisticado sea el pipeline, las cifras se agrupan en una banda similar. Además, esos números solo cuentan la capa visible, el layout y los happy paths, mientras que el trabajo real, como los estados, los casos límite, la accesibilidad y la coherencia con producción, nunca aparece en las demos."
+        },
+        {
+          "t": "p",
+          "x": "Romina Kavcic analizó 158 sistemas de diseño públicos. El 89% incluye ejemplos de código, pero la documentación de guías de uso solo llega al 37%, la accesibilidad al 21% y el contenido interno de los componentes a apenas el 13%. Solo tres, Polaris, Paste y eBay Playbook, obtuvieron la puntuación máxima. Ella dice que \"la IA no puede arreglar el buen gusto\" y que hay que empezar por arreglar esa capa."
+        },
+        {
+          "t": "p",
+          "x": "El mercado tampoco está tranquilo. Las herramientas de codificación con IA se venden por debajo del costo operativo, y Anthropic ha acordado pagarle a xAI 1.250 millones de dólares al mes por GPU, según los documentos de la SEC de SpaceX, frente a unos ingresos totales hasta ahora de unos 5.000 millones de dólares. GitHub Copilot pasó a facturación por uso a partir del 1 de junio, y las acciones de Figma han caído desde cerca de 142 dólares justo tras su salida a bolsa hasta los 20 dólares bajos."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, los roles se están separando. Los diseñadores ascienden a \"diseñadores de prototipado\" que construyen prototipos funcionales en código y los llevan hasta la aprobación de las partes interesadas, mientras los desarrolladores se desplazan río abajo, puliendo el código una vez que la forma ya está decidida. Para la \"zona media de decisiones\" que queda vacía entre ambos, el autor señala a los ingenieros de diseño: quienes traducen el diseño a un lenguaje que el código y los modelos pueden ejecutar, y documentan las razones detrás de las decisiones."
+        },
+        {
+          "t": "p",
+          "x": "La receta es poco glamurosa: desacoplar. Documentar las decisiones, no solo los tokens, y separar en módulos el paso de resolución, la capa de tokens y la generación de código, para que nada quede atado a un proveedor, un LLM o una herramienta en concreto. El autor añade que, ahora que cada empresa construye esta capa por su cuenta internamente, espera que surja pronto una buena alternativa de código abierto."
+        }
+      ]
+    },
+    "design/quiet-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A menudo oímos que una nueva herramienta llamativa va a cambiarlo todo (otra vez). Pero lo que de verdad necesita la mayoría de la gente no es otra herramienta que aprender a usar, sino una mejor integración de funciones útiles que encajen de forma natural en modelos mentales que ya tienen asumidos."
+        },
+        {
+          "t": "p",
+          "x": "Ese es el punto de partida del artículo que Vitaly Friedman escribió para Smashing Magazine. A los usuarios no les emociona un nuevo flujo de trabajo \"inteligente\", un comando de terminal o un chat interminable de ida y vuelta. Solo quieren integraciones fluidas que resuelvan problemas serios, frecuentes y muy molestos."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/document-management-interface-folder-instructions.jpg",
+          "cap": "Una función de IA integrada de forma natural al crear una nueva carpeta. Diseño de Karthikeya GS."
+        },
+        {
+          "t": "p",
+          "x": "Friedman empieza cuestionando la propia idea de un producto \"AI-first\". Puede acelerar la producción, pero antes hay que saber bien qué se va a construir, y lo \"AI-first\" suele saltarse años de decisiones de diseño, grandes y pequeñas, que han moldeado las expectativas y los modelos mentales de los usuarios."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/claude-excel-integration.jpg",
+          "cap": "La integración de Claude con Excel permite revisar filas y columnas concretas directamente, sin cambiar de herramienta."
+        },
+        {
+          "t": "p",
+          "x": "Lo que a él le encanta es la \"IA silenciosa\": herramientas que la mayor parte del tiempo se quedan sin notarse en segundo plano, atendiendo pequeñas tareas en nombre del usuario. Ayudan en silencio con trabajo repetitivo fácil de automatizar, sin gritar para llamar la atención. La integración de Claude en Microsoft Excel, PowerPoint y Word es un buen ejemplo: ayuda dentro del contexto sin interrumpir el flujo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Por eso le atrae la idea de las \"instrucciones de carpeta\" (folder instructions). Es una forma de que el usuario defina qué debe hacer una carpeta según el motivo por el que la creó. Las instrucciones fijan el propósito de la carpeta, cómo se organizan los archivos, cómo se comportan las subcarpetas y qué acciones ocurren dentro de ella. En vez de gestionar la carpeta a mano, se fija la intención una vez y el sistema la sigue."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/folder-instructions-passport-application.jpg",
+          "cap": "Una vez que el usuario escribe las instrucciones y elige las reglas del sistema, el resto lo gestiona el sistema."
+        },
+        {
+          "t": "p",
+          "x": "Ejemplos del artículo: a una carpeta de renovación de pasaporte se le indica \"toma el formulario, reúne los documentos necesarios, señala los que falten y luego rellena el formulario todo lo posible\". Una carpeta de facturación renombra los archivos nuevos en orden al llegar, los ordena numéricamente y los coloca en carpetas por cliente. Cuando se añade un PDF nuevo, genera un resumen, lo envía y notifica por correo."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/ux-impact-seamless-integrations/file-management-setup-summarizing-pdfs.jpg",
+          "cap": "Automatizar tareas como generar resúmenes justo donde ocurre el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Los permisos y las acciones quedan limitados a esa carpeta a menos que el usuario los amplíe explícitamente. El concepto se explora con más profundidad en el artículo de Karthikeya GS, 'Folder Instructions: Instructions For System-Level AI'."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de Friedman es esta: el valor no viene de que el usuario salte cada pocos minutos entre varias apps, pantallas y fuentes. Viene de reducir la irritación, los retrasos y los errores para ayudar a terminar lo que hay que hacer. La integración fluida sigue siendo una forma infravalorada de entregar valor rápido, sin la carga de instalar y aprender otra herramienta más."
+        }
+      ]
+    },
+    "design/frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esto trata sobre cómo empaquetar los estándares de frontend y las reglas de componentes que un equipo ha acumulado en una sola skill de IA instalable. La clave está en configurar herramientas como Claude Code, Cursor y Copilot para que carguen esta skill automáticamente."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzhbwlf011opou0uey47.png"
+        },
+        {
+          "t": "p",
+          "x": "Con esto en marcha, los agentes no se desvían del sistema de diseño ni improvisan al generar código en React, Next, Vue o Svelte. En su lugar, producen código que respeta las reglas establecidas por el equipo."
+        }
+      ]
+    },
+    "design/lenovo-keyboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El vicepresidente de diseño de Lenovo habla de cómo su afecto por la IA, las pantallas plegables y el tacto, que ha vuelto a cobrar protagonismo, está reconfigurando los ordenadores personales."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8QGgKW9LJ2Xiy6gpKsgyVc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cree que las interfaces de IA podrían significar “el fin del teclado” en la forma en que los diseñadores piensan la interacción con el hardware."
+        }
+      ]
+    },
+    "design/ui-score-gate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un informe de experimento que parte de una preocupación: si a un agente de codificación con IA solo se le dan reglas, termina saltándose el ciclo real de verificación."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fstyleseed-demo.vercel.app%2Fv26-compare.png"
+        },
+        {
+          "t": "p",
+          "x": "El autor construyó un gate obligatorio que va de bloqueo a build, puntuación y arreglo, filtrando la UI hecha por IA por puntuación antes de mostrarla a cualquier humano. La primera víctima fue la propia página de aterrizaje del autor, que obtuvo 58/100, y la hoja de puntuación completa está publicada."
+        }
+      ]
+    },
+    "design/post-chat-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*xueXM438PdvFdB4J8p3z_A.png"
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa está alterando desde la base, por primera vez en mucho tiempo, la forma de interactuar con el software. Este artículo sostiene que los diseñadores están en el centro de ese cambio."
+        },
+        {
+          "t": "p",
+          "x": "La experiencia actual con la IA suele limitarse a ventanas de chat y prompts. El autor pregunta quién creará los patrones que van más allá, las nuevas interfaces que ni siquiera tienen nombre todavía."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta recae, en definitiva, en los diseñadores. Si no empiezan a prototipar ahora, otro ocupará ese lugar."
+        }
+      ]
+    },
+    "design/aibluff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*60luMDrt-06DqeMv"
+        },
+        {
+          "t": "p",
+          "x": "El autor dice que, en la última década, los diseñadores se han escondido tras la interfaz. Pulir la pantalla con precisión se llegó a considerar prueba de talento en sí misma."
+        },
+        {
+          "t": "p",
+          "x": "Pero ese escudo desapareció cuando la IA empezó a generar interfaces por sí misma. Cuando el trabajo de mover píxeles se automatiza, surge de frente la pregunta de qué queda detrás."
+        },
+        {
+          "t": "p",
+          "x": "Lo que queda es el juicio, el gusto y la capacidad de decidir cómo plantear un problema. No es la mano que dibuja la pantalla, sino el criterio de qué hacer y por qué, lo que ahora es la verdadera ventaja del diseñador."
+        }
+      ]
+    },
+    "design/dscontract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*aJoJclHmavEMRUGzBN3ThA.png"
+        },
+        {
+          "t": "p",
+          "x": "¿Vive el componente de un sistema de diseño en Figma o en el código? La respuesta del autor es 'ninguno de los dos'. El componente real es el contrato del centro, y Figma y el código son solo dos copias honestas de ese contrato."
+        },
+        {
+          "t": "p",
+          "x": "Esta idea se vuelve más urgente ahora que los agentes de IA empiezan a generar ambos lados. Cuando el diseño y el código los crean agentes distintos, si no se decide cuál es el original, las dos copias empiezan a desalinearse en silencio."
+        },
+        {
+          "t": "p",
+          "x": "Al tratar el componente como un contrato, los equipos de sistemas de diseño obtienen un modelo de gestión concreto. Ni Figma ni el código monopolizan la verdad: ambos se verifican según si cumplen el contrato."
+        }
+      ]
+    },
+    "design/hallmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Frohitraj.tech%2Fimages%2Fhallmark.png"
+        },
+        {
+          "t": "p",
+          "x": "Las pantallas hechas por agentes tienen un olor particular: fuente Inter, degradados morados, tarjetas que todas se ven iguales. El autor llama 'AI slop' a esa impresión obvia de 'esto lo hizo una IA'."
+        },
+        {
+          "t": "p",
+          "x": "Hallmark es una habilidad de diseño que intercepta estos valores predeterminados. Si se conecta a Claude Code, Cursor o Codex, cuando el agente construye una UI, la orienta hacia un diseño consciente de marca en lugar del estilo inicial sin personalidad."
+        },
+        {
+          "t": "p",
+          "x": "El punto es la viabilidad práctica. No es un discurso, sino un mecanismo que se puede instalar ya mismo en las herramientas, y un diseñador puede instalarlo mañana para borrar ese aire tan reconocible."
+        }
+      ]
+    },
+    "design/lightcraft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Probamos Spark Story, de Lightcraft, presentada en SIGGRAPH 2026. Es una herramienta de producción virtual que parte del guion, con la que guionistas, directores y directores de fotografía pueden construir y filmar un set virtual juntos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nzsdtuoJAMKAHiWHUjmMgZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Para rodar basta con un solo iPhone. Lo llamativo es que ya se puede encuadrar una escena desde la etapa del guion, incluso sin un lugar o set real todavía."
+        },
+        {
+          "t": "p",
+          "x": "Eso significa comprobar el encuadre y los movimientos mucho antes de que exista un espacio físico, lo que reduce mucho la barrera de la previsualización."
+        }
+      ]
+    },
+    "design/zephyr9": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "3Dflow lanzó la versión 9.0 de su software de fotogrametría 3DF Zephyr. La novedad principal es la generación de splats gaussianos 3D. Ahora, con solo imágenes o video de origen, se pueden producir nubes de puntos, mallas y splats gaussianos en un mismo flujo."
+        },
+        {
+          "t": "p",
+          "x": "El splat gaussiano es un método de captura de la familia de radiancia neuronal, con fuerza para reproducir con ligereza escenas casi fotorrealistas. El significado de este lanzamiento es que una técnica que hasta ahora quedaba en el terreno de la investigación y la experimentación entra en una herramienta de captura masiva."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a ello, quienes pasan de la captura al 3D obtienen una nueva vía de producción que pueden probar hoy mismo. Como se trata de una función ya lanzada y no de un comentario, vale la pena llevarla directamente al flujo de trabajo."
+        }
+      ]
+    },
+    "design/ax-orchestration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*oClaxaWA_8gphYwyopqP7g.png"
+        },
+        {
+          "t": "p",
+          "x": "Cinco pasos manuales se repliegan en una sola delegación, y todo lo que antes los coordinaba desciende por debajo de la línea, a una capa que nadie aprendió nunca a dibujar. Imagen generada con Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Leí el Design in Tech Report de John Maeda tarde, desde el móvil, pasándolo por alto a medias como se lee algo con lo que ya se está de acuerdo. Él le puso nombre a este cambio, y el nombre era bueno. De UX a AX. De experiencia de usuario a experiencia de agente."
+        },
+        {
+          "t": "p",
+          "x": "Entonces el pulgar se detuvo en una palabra."
+        },
+        {
+          "t": "p",
+          "x": "Maeda describe el nuevo trabajo como \"pasar de construir interfaces a orquestar resultados\". Ni diseño, ni disposición, ni flujo: orquestación. Ya tenía una carpeta para esa palabra, pero su etiqueta no era 'tendencia', sino 'capa'. Maeda usó esa palabra para señalar hacia dónde se dirige el diseño, es decir, un movimiento."
+        },
+        {
+          "t": "p",
+          "x": "Esa brecha entre una palabra que señala un movimiento y un nombre que señala un lugar es el tema de este texto. No porque uno de los dos esté equivocado. El movimiento se nota: el feed no habla de otra cosa. El lugar no. Y ese lugar es exactamente donde vive hoy el trabajo real de diseño. (Es un artículo exclusivo para miembros de Medium, así que solo se tradujo aquí la introducción pública.)"
+        }
+      ]
+    },
+    "design/logo-quits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "k3_VO8HybME"
+        },
+        {
+          "t": "p",
+          "x": "Esto trata la controversia de la semana pasada. Un reconocido diseñador de logos se retiró públicamente diciendo: \"la IA es mejor que yo\"."
+        },
+        {
+          "t": "p",
+          "x": "Gary Simon pone a prueba Fable 5. Le hace crear nueve conceptos de logo para tres negocios, para ver qué tan bien lo hace y si realmente supera a un diseñador de logos profesional."
+        },
+        {
+          "t": "p",
+          "x": "El video empieza presentando la controversia, recorre los logos de cada negocio y termina con su valoración general."
+        }
+      ]
+    },
+    "design/terminal-canvas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*DWyRC6NyUUgkB5GW1mkmyQ.png"
+        },
+        {
+          "t": "p",
+          "x": "Durante toda su carrera, su herramienta creativa fue un lienzo: Figma, Illustrator, un cuaderno de bocetos, una pared. Algo que podía ver y moldear con las manos."
+        },
+        {
+          "t": "p",
+          "x": "Pero desde hace casi dos años, ese lienzo es la terminal."
+        },
+        {
+          "t": "p",
+          "x": "Todo el día, frente a una pantalla negra, habla con agentes, ejecuta comandos, revisa código, da retroalimentación y pone en marcha otro agente más, tratando de no perder de vista qué están haciendo."
+        },
+        {
+          "t": "p",
+          "x": "Lo extraño es que nunca ha sido tan productivo. Construye en un día lo que antes tardaba semanas, explora diez ideas a la vez en lugar de una, y entrega más rápido que nunca."
+        },
+        {
+          "t": "p",
+          "x": "Es bueno. Pero también da miedo. (Es un artículo exclusivo para miembros de Medium, así que esta tarjeta solo traduce la introducción pública.)"
+        }
+      ]
+    },
+    "design/agent-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una pregunta que hace un agente no es un adorno de la conversación. Es un traspaso de responsabilidad: una señal de que el sistema ha llegado a un límite que no debe cruzar solo. La interfaz debe explicar esa decisión, preservar el trabajo ya hecho, mostrar las consecuencias de cada opción y reanudar el proceso sin crear nuevas tareas pendientes."
+        },
+        {
+          "t": "p",
+          "x": "Muchos productos tratan este momento como una burbuja de chat más, lo cual solo funciona si una persona ya está mirando la pantalla. Las tareas de larga duración necesitan un 'contrato de interrupción' que resista pestañas cerradas, notificaciones móviles, diferencias de horario y contexto caducado. Una pregunta no es lo mismo que un mensaje de chat: puede cambiar el estado de la tarea, pausar el consumo de recursos, y necesita reglas claras para reanudarse."
+        },
+        {
+          "t": "p",
+          "x": "Toda interrupción debería incluir seis elementos: la pregunta más pequeña que desbloquea el trabajo (decisión), la razón por la que el sistema no puede elegir con seguridad por sí mismo (justificación), los archivos, registros o vistas previas que ayudan a responder (evidencia), lo que cambia cada opción (consecuencia), cuándo caduca la respuesta (vencimiento), y qué ocurre si el usuario demora o no tiene permisos (recuperación). '¿Qué rama debería usar?' es peor que: 'Elige la rama de destino para el parche de autenticación. main está protegida, así que abre un PR; release/2.4 aplica el parche directamente a la versión actual. Todavía no se ha cambiado ningún archivo.'"
+        },
+        {
+          "t": "p",
+          "x": "Las preguntas, aprobaciones y confirmaciones llevan riesgos distintos. Diseña una pregunta ligera sobre una rama para que sea reversible; una aprobación para ejecutar una migración debe mostrar alcance, efectos secundarios, responsable y vencimiento; una confirmación irreversible debe revelar qué se perderá y cualquier alternativa más segura. No pidas credenciales por chat: usa un flujo de autenticación confiable. En el backend, todo esto puede compartir un único estado de 'entrada requerida', pero en pantalla, una pregunta de bajo riesgo nunca debe disfrazarse de aprobación operativa."
+        },
+        {
+          "t": "p",
+          "x": "Una notificación es un puntero, no una pantalla de decisión. Debe llevar solo lo necesario para señalar la prioridad, dejando la evidencia sensible y las acciones irreversibles detrás de la autenticación. No pongas el contenido del repositorio ni un botón de 'aprobar' directamente en la pantalla de bloqueo. Cuando alguien sigue el enlace, vuelve a verificar la cuenta, el rol, la versión de la tarea y si esa decisión sigue siendo válida. Mientras espera, muestra si el cómputo sigue en marcha, si se guardaron resultados parciales, si otra persona podría responder y cuándo se acaba el tiempo. El vencimiento debe revelarse antes de que ocurra, no después."
+        },
+        {
+          "t": "p",
+          "x": "Después de recibir una respuesta, registra quién decidió qué, cuándo, y qué versión actuó con esa respuesta, para que el agente no vuelva a hacer la misma pregunta si falla más tarde. Si el repositorio o la política cambiaron mientras se esperaba, revierte con cortesía la respuesta caducada y solicita una nueva decisión junto con el análisis que se conservó. El tiempo en que un agente queda en pausa no es tiempo muerto: es el momento en que la autoridad cambia de manos. Ese traspaso merece tanto cuidado en su diseño como las acciones que autorizará."
+        }
+      ]
+    },
+    "design/fireship-sol": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "URKml8lgw8Y"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI presentó GPT-5.6. Incluye un nuevo modelo Sol que parece superar a Claude Fable. Fireship le echa un vistazo rápido y analiza qué significa para crear cosas con IA."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué lanzarlo justo ahora, y cumple en la práctica lo que indican sus cifras de referencia? El video se centra en estas dos preguntas para dar las primeras impresiones de GPT-5.6 Sol."
+        }
+      ]
+    },
+    "design/interface-left": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En 2026 no dejamos de preguntarnos qué es lo que realmente estamos diseñando. Durante treinta años, la respuesta fue la pantalla. Construimos jerarquías de información con menús, modales y botones, obsesionados con los píxeles. Ese lenguaje ahora se divide en varias direcciones. La gente le habla al software, le delega tareas y, cada vez más, no lo toca en absoluto. Las pantallas siguen existiendo, pero ya no son la superficie central."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/0*3TvKprbciicWhw1X"
+        },
+        {
+          "t": "p",
+          "x": "El primer cambio fue el chat. En 2025, el 73% de las empresas usaba alguna forma de interfaz conversacional para la atención al cliente. Pero el chat no es automáticamente buena UX. Erika Hall señala que la conversación es la opción correcta solo cuando el sistema necesita negociar significado con el usuario. Cuando lo que se quiere es claro, como 'añadir al carrito', la estructura es más rápida. En la 'UI generativa', donde la interfaz se ensambla en tiempo real, el trabajo del diseñador pasa de dibujar cada estado a construir el sistema que genera los estados."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*dn6MbbIIlwobt0jnUcrt_Q.png"
+        },
+        {
+          "t": "p",
+          "x": "La voz lleva una década repitiendo promesas, pero la marea cambió en los oídos a finales de 2025. El nuevo Siri que Apple lanzó en junio de 2026 no es un asistente de voz pegado a un dispositivo, sino una capa conversacional que se mueve entre dispositivos. Una pregunta iniciada en el iPhone puede continuar en el iPad sin perder el contexto. Como mostró la investigación de Clifford Nass, el cerebro humano trata la voz como un canal social, no como una línea de comandos. Por eso el Humane AI Pin, con tiempos de respuesta de 2 a 5 segundos y contexto perdido, no duró ni un año. La UX de voz es especialmente dura con la latencia y la pérdida de contexto."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/0*f9931MVuWVZFOSoY.png"
+        },
+        {
+          "t": "p",
+          "x": "El cambio más radical son los agentes, donde la interfaz desaparece por completo. Los agentes no solo responden preguntas: rastrean la web, escriben código y envían correos. Gartner prevé que, para fines de 2026, el 40% de las aplicaciones empresariales tendrá un agente dedicado a una tarea específica. El reto es cómo presentar un agente que no necesita interfaz para trabajar a un usuario que sí necesita una interfaz para confiar en él. Los casos que lo resuelven bien respetan tres cosas: mostrar el plan en lenguaje llano antes de actuar, ceder autonomía solo en la medida en que se ha ganado la confianza, y permitir detenerse y recuperar el control en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "El hilo que atraviesa las tres formas es el paso de la interacción a la intención. La UX tradicional suponía que el usuario llegaba ya con una intención, pero las personas llegan con un objetivo, no con una intención. Los diseñadores ya no son arquitectos de la interacción, sino arquitectos de la relación de confianza entre las personas y los sistemas delegados. Aun así, hay algo que no cambia: las personas siguen queriendo ser comprendidas, temen perder el control, castigan la opacidad y recompensan la honestidad. Lo único que ha cambiado es la superficie sobre la que se proyecta esa psicología."
+        }
+      ]
+    },
+    "design/taste-delegated": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuanto más abarata la IA la ejecución, más se convierte el pensamiento estratégico en la verdadera ventaja competitiva. Ahora que cualquiera puede generar interfaces e imágenes en segundos, el valor del diseñador ya no está en producir más. Está en saber qué resultado merece existir."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*IE9hoyTwzWtd3hUTEOI9Ow.png"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la IA generativa mejora, circula la idea de que 'la IA aprende el gusto'. Los modelos entrenan con enormes cantidades de datos sobre lo que prefiere la gente y suelen predecirlo bien. Pero predecir no es juzgar. \"La preferencia dice qué elige la gente; el juicio explica por qué esa es la elección correcta.\" Un modelo capta la estadística de que un diseño limpio funciona mejor, pero no conoce la intención. No puede distinguir si quitar un elemento aporta claridad o borra el carácter."
+        },
+        {
+          "t": "p",
+          "x": "Antes del iPhone, el sentido común decía que cualquier dispositivo móvil serio necesitaba un teclado físico. Todas las señales apuntaban en esa dirección. Apple planteó una pregunta distinta y eliminó la interfaz misma. Eso no fue optimización, sino una apuesta por un futuro que los usuarios aún no habían vivido. La optimización mejora lo que existe; el juicio decide qué debería venir después."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*dtCcwFyLdGcAvFUpKhobzw.png"
+        },
+        {
+          "t": "p",
+          "x": "La IA no creó este problema. Las organizaciones llevan mucho tiempo convirtiendo el juicio en una suma de preferencias. Cuando una propuesta de diseño llega a una reunión, todos se convierten en revisores. Cuanto más participa la gente, más silenciosamente desaparece la responsabilidad, y la opción más fuerte se reduce a la más segura. Nadie pide un diseño mediocre, pero la mediocridad es lo que queda cuando se intenta satisfacer por igual a todas las partes interesadas. Cuando Mastercard quitó su nombre del logotipo en 2016, la decisión parecía arriesgada según las métricas, pero fue un juicio de que los dos círculos superpuestos ya sostenían la marca."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*fG1vvRFCwbsLmslmRZ-UWg.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Los productos se refinan cada vez más con métricas. Los clics, las conversiones y el tiempo de permanencia muestran qué tan bien se cumple el objetivo de hoy, pero casi nunca dicen si ese objetivo era el correcto desde el principio. \"Snow Fall\", del New York Times en 2012, fue un formato que ningún panel de control podía medir; el juicio vino primero y las métricas después. El valor de un líder de diseño no está en tener el gusto más fuerte, sino en tejer estética, estrategia, comportamiento del usuario, restricciones y marca en una sola perspectiva que resuelva el desacuerdo. Una organización saludable se sostiene no en el consenso, sino en una propiedad clara."
+        },
+        {
+          "t": "p",
+          "x": "El gusto se acumula al observar trabajo sobresaliente y al aprender historia, proporción y tipografía. El juicio aparece solo cuando ese gusto se encuentra con la responsabilidad. Crece cuando las decisiones tienen consecuencias y cuando alguien mantiene una dirección incluso sin certeza. La IA seguirá prediciendo mejor las preferencias, y las organizaciones seguirán reuniendo mejor las opiniones. Ninguna de las dos produce juicio. La IA cambia cómo se crea, pero no cambia quién es responsable de decidir qué merece existir. El gusto se puede ayudar, pero no se puede delegar."
+        }
+      ]
+    },
+    "design/novineer-cad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DEVELOP3D se reunió con Ali Tamijani, CEO de la startup Novineer. La plataforma de Novineer es un conjunto de herramientas basadas en IA que abarca desde la ingeniería inversa hasta la simulación de rendimiento y el diseño generativo para fabricación aditiva. En primer lugar, NoviVision crea un modelo CAD editable en unos dos minutos a partir de unas pocas fotos de smartphone, sustituyendo el equipo especializado, el escaneo 3D y la reconstrucción manual."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/Novineer_NoviVision-Heropng.jpg",
+          "cap": "NoviVision, de Novineer"
+        },
+        {
+          "t": "p",
+          "x": "A continuación, NoviPath es una herramienta de simulación de rendimiento de polímeros que predice la rigidez, la resistencia y el fallo de piezas fabricadas de forma aditiva antes de imprimirlas. A diferencia del FEA convencional, que trata la pieza impresa como un sólido uniforme, utiliza datos reales de trayectoria de herramienta para reflejar las características capa por capa de la extrusión del material. Está integrada mediante una alianza estratégica con GrabCAD Print Pro, de Stratasys. NoviDesign se encarga del diseño generativo y completa el conjunto generando modelos CAD optimizados que son tanto editables como fabricables."
+        },
+        {
+          "t": "p",
+          "x": "El mayor impacto se da en los fabricantes subcontratados de fabricación aditiva (AM), clientes que ahora quieren imprimir en FDM piezas que antes se hacían por CNC o inyección. Por ejemplo, una gran aerolínea quiere sustituir una pieza del reposabrazos de un asiento, pero el subcontratista no tiene un modelo 3D, por lo que debe enviar un ingeniero y un escáner al hangar para desmontar el asiento y escanearlo. Incluso al entrar en diseño, no hay datos de propiedades basados en cargas de rotura, así que se recurre a un FEA genérico. Después vienen las pruebas de impresión 3D y la certificación de otro organismo. Todo el proceso dura unas tres semanas y cuesta entre 15,000 y 20,000 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Con Novineer, un empleado de la aerolínea solo tiene que enviar unas pocas fotos y datos de referencia básicos. NoviVision procesa las imágenes con IA para crear un modelo 3D, lo que permite obtener un presupuesto sin ir al hangar. Se eliminan los viajes y el escáner. Los materiales FDM conocidos, como los de Stratasys, ya cuentan con datos de propiedades, por lo que no es necesario probarlos por separado, y NoviPath simula directamente con los datos de trayectoria de herramienta que se usarán en la impresión real. Tamijani dice: “¿Nuestro método sustituye las pruebas físicas? No. Pero no todas las iteraciones del proceso de diseño necesitan pruebas. Se pueden dejar para el final.”"
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle dónde se usa realmente la IA, responde que la IA en sí no es el objetivo. La cuestión es qué hacer cuando no hay un modelo CAD. Los modelos de lenguaje de gran tamaño (LLM) ayudan a obtener un modelo a partir de cuatro o cinco fotos, según la precisión requerida. Una simulación precisa necesita muchos elementos pequeños y densos, lo que toma tiempo, así que el aprendizaje automático convierte una malla densa en una malla más gruesa para analizarla y luego la revierte. La IA solo ayuda en tareas específicas; no sustituye el razonamiento de ingeniería ni la física."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de IA se desarrolla internamente. En aeroespacial y defensa debe alojarse en servidores privados, porque ponerla en otra plataforma siempre la ata a la nube. Por eso ofrecen tanto una versión en la nube como una versión en servidor privado. El crecimiento llega a través del socio estratégico Stratasys, que la conecta con cientos de OEM y fabricantes subcontratados, y de otro socio, AM Craft, que con certificación EASA ha fabricado más de 35,000 piezas de vuelo para aerolíneas, MRO y OEM, vinculando a Novineer con aerolíneas y OEM aeroespaciales."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, la precisión de NoviVision es de entre el 95% y el 97% según la pieza, con un error promedio del 3%, a veces del 1% y a veces del 2%. Eso aún no basta para el mecanizado, que necesita modelos más precisos, así que por ahora se centran en la AM. Aun así, también puede usarse para crear un mapa digital que permita ver de un vistazo las piezas ya disponibles, en lugar de modelarlas una por una."
+        }
+      ]
+    },
+    "design/tokens-prompts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Durante una década, el autor escribió tokens de diseño para ingenieros humanos. En 2026, cambió el tipo de actor que consume los sistemas de diseño. Los tokens siempre fueron un contrato: datos que dicen que esto es lo que entendemos por azul, esta es la cadencia del espaciado, una promesa que permite que el código use esos valores incluso sin un diseñador presente."
+        },
+        {
+          "t": "p",
+          "x": "En Dell, el autor reconstruyó la estructura de tokens a partir de esa idea. La base era sólida, pero el sistema estaba paralizado como una caja negra. El verdadero obstáculo no era la gobernanza que suponían los directivos, sino que los diseñadores habían nombrado los tokens para otros diseñadores, sin una vía de exportación, y los ingenieros de frontend que realmente usaban los tokens quedaban fuera del proceso de nombrado. El equipo añadió una jerarquía semántica sobre un núcleo simplificado, incorporó los modos claro y oscuro, y lo publicó en JSON y CSS en todas las pantallas de dell.com. La lección es una sola: nombrar es una decisión de producto, y debe servir al consumidor real, no a quien escribe."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw0rrc7gvfxwh373tz90i.png",
+          "cap": "Cómo los tokens se volvieron prompts para las máquinas"
+        },
+        {
+          "t": "p",
+          "x": "Ese consumidor volvió a cambiar. Para 2026, las máquinas escriben una gran parte del nuevo código de interfaz. La mitad de los diseñadores encuestados dijo haber llevado a producción código generado por IA. Claude Design lee y aplica el sistema de diseño de un equipo directamente desde el código, y Figma lanzó un agente de diseño con IA nativa. En cada equipo de producto, los agentes de codificación generan componentes más rápido de lo que la revisión de diseño puede seguir."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz generada tiene su propio modo de fallo: velocidad sin memoria. Cada sesión, cada modelo, cada prompt inventa su propio espaciado, sus propios grises y radios de esquina. Cada uno parece razonable por separado, pero juntos se desalinean. La deriva que antes tomaba a una organización varios trimestres, ahora un grupo de agentes la produce en medio día."
+        },
+        {
+          "t": "p",
+          "x": "Aquí cambia la hoja de ruta. Cuando un agente genera una interfaz, lo que lee no es una biblioteca de Figma, sino el repositorio: archivos de tokens, firmas de componentes y, si el formato se puede analizar, hasta la documentación. Figma mismo creó un servidor Dev Mode MCP y dijo que la calidad del resultado depende de qué tan conectado esté el sistema; el modo de fallo documentado es que aparecen valores codificados a mano cuando la máquina no puede leer el sistema. La superficie orientada a la máquina es ahora la interfaz principal. Los archivos de tokens dejaron de ser un producto de exportación y se convirtieron en prompts."
+        },
+        {
+          "t": "p",
+          "x": "Si los tokens son prompts, surge un problema nuevo. Los prompts son sugerencias, y el modelo, como una persona ocupada, los sigue solo a medias. La gobernanza basada en convenciones siempre ha fallado, y el único punto de aplicación que no falla es el build. Para un IDE de autoría escrito en Rust, el autor rehizo el lenguaje de diseño de shadcn/ui para egui, construyendo más de 60 componentes con prioridad en los tokens. Fijó pruebas para que el build se rompa si aparece un literal de color, tamaño de fuente o espaciado por encima de la capa de tokens. Tras semanas trabajando a diario junto a un agente de codificación, el sistema no derivó, no porque el modelo se contuviera, sino porque el build lo obligaba."
+        },
+        {
+          "t": "p",
+          "x": "Las maquetas nunca fueron el producto, y ahora ni siquiera la biblioteca de componentes lo es. El producto es el sistema de restricciones que sigue haciendo reconocibles mil pantallas generadas como propias. Ese trabajo es gusto, jerarquía e intención, pero se entrega como tokens, pruebas, tipos y documentación. Los diseñadores que saben manejar esa capa se están convirtiendo en las personas con más apalancamiento dentro de la organización. El PDF de normas de marca ha muerto dos veces: primero, los tokens lo sustituyeron porque la gente quería datos, no prosa; ahora, con la superficie orientada a la máquina al mando, esa prosa vuelve a morir. Los tokens de diseño son ya prompts. El build es el revisor."
+        }
+      ]
+    },
+    "design/visual-native": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tras una década liderada por grandes modelos de lenguaje basados en palabras, los investigadores apuestan ahora por modelos que razonan directamente con imágenes en lugar de texto."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91571127-elorian-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Andrew Dai, un veterano investigador de IA que dejó Google DeepMind, fundó la startup Elorian AI, que salió del modo sigiloso en abril."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de razonamiento visual que construye Elorian piensa directamente sobre las imágenes. Igual que una persona imagina algo en su mente, construye un mapa interno en 3D denso de la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Esto difiere del enfoque multimodal actual. Modelos como Gemini, de Google, al procesar una imagen, primero la describen densamente en palabras y luego razonan sobre ese texto para emitir juicios sobre la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Dai considera que las imágenes visuales son tan fundamentales para la inteligencia de un modelo como el lenguaje, quizá más. Dice que los modelos de lenguaje de frontera han chocado con un muro porque no logran razonar bien sobre el mundo físico."
+        },
+        {
+          "t": "p",
+          "x": "Elorian, que cofundó con Yinfei Yang, un investigador de aprendizaje automático que antes trabajó en Apple, otorga a los datos visuales el mismo lugar que a los tokens de lenguaje dentro de la arquitectura del modelo."
+        }
+      ]
+    },
+    "design/best-ai-tools-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6OpWU-HrsuQ"
+        },
+        {
+          "t": "p",
+          "x": "El canal de diseño Build Great Products enfrentó a las principales herramientas de diseño con IA de 2026: Figma, Claude Design de Anthropic y Google Stitch."
+        },
+        {
+          "t": "p",
+          "x": "Se dio a las tres herramientas exactamente el mismo briefing para que compitieran en las mismas condiciones. No se trataba de demostraciones vistosas, sino de ver cuál se integraba mejor en un flujo real de diseño de producto."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados variaron según la herramienta. Algunas generaron borradores con rapidez, mientras que otras resultaron más útiles en la etapa de pulido."
+        }
+      ]
+    },
+    "design/daniel-porto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w2frQCRmA29oa6Dy8McJwU-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Daniel Porto, artista conceptual con más de 20 años de trayectoria, dice que la IA no lo reemplazó. Al contrario, dice, multiplicó varias veces su larga carrera."
+        },
+        {
+          "t": "p",
+          "x": "La ventaja real, dice, no está en la herramienta sino en lo que viene antes: la mirada creativa y el sentido de dirección que decide qué dibujar."
+        },
+        {
+          "t": "p",
+          "x": "La IA solo agiliza la mano, concluye. Hacia dónde ir sigue siendo algo que decide una persona."
+        }
+      ]
+    },
+    "design/illusion-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KSVwbVdmgFXa26FozrvfJ7-1910-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Una tipografía nueva está diseñada para leerse perfectamente bien a simple vista, pero aparecer confusa para la IA y el OCR. Es una fuente que usa ilusiones ópticas."
+        },
+        {
+          "t": "p",
+          "x": "El propósito es claro: es un intento de resistir, con el toque de la artesanía, la tendencia de las máquinas a extraer trabajo visual y reinterpretarlo a su antojo."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, tiene límites. Su propio creador añadió una advertencia: “por ahora funciona”. Cuánto tiempo resistirá a medida que los modelos sigan entrenándose es algo que no se sabe."
+        }
+      ]
+    },
+    "design/no-more-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/people-dont-want-more-ai/people-dont-want-more-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En una era en la que la IA se añade a todo, este artículo plantea la postura contraria. Cada producto suma nuevas funciones de IA, pero los usuarios en realidad no las reciben con agrado."
+        },
+        {
+          "t": "p",
+          "x": "El autor no interpreta este cansancio como una simple queja, sino como una señal de diseño. Dónde decide un diseñador poner la IA y dónde contenerse es, en sí mismo, lo que separa una buena experiencia de una mala."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión es clara. La contención (poner IA solo donde realmente se necesita, en vez de acumularla) se está convirtiendo en la habilidad que importará de ahora en adelante."
+        }
+      ]
+    },
+    "design/meta-regret": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DZ5HL5Ey33WZDGAYGr6SyU-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta dejó de impulsar en silencio la herramienta de creación con IA que había promovido y, tarde, mostró pesar. Creative Bloq no acepta esta disculpa al pie de la letra."
+        },
+        {
+          "t": "p",
+          "x": "La comparación del artículo es afilada: es como un ladrón que saquea una casa y luego dice que lo siente. Si la disculpa llega solo después de que el daño ya está hecho, se parece menos a sinceridad hacia los creadores y más a un gesto para tapar el asunto."
+        },
+        {
+          "t": "p",
+          "x": "Lo que queda, al final, es una cuestión de confianza. Cada decisión de una plataforma al lanzar, retirar y revertir funciones de IA sacude el terreno de las herramientas en las que confían los creadores. Qué creer para apoyar el propio trabajo es la verdadera pregunta que plantea el artículo."
+        }
+      ]
+    },
+    "design/agents-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si has usado Cursor, Claude Code, Codex, v0, Bolt o Lovable, hay una escena que te resultará familiar."
+        },
+        {
+          "t": "p",
+          "x": "Fuente Inter en todas partes, un degradado que fluye de morado a índigo, una sección hero seguida de tres tarjetas de funciones y una tabla de precios. Se ve bien dentro del chat, pero en cuanto sale en producción, se nota de inmediato que es una plantilla."
+        },
+        {
+          "t": "p",
+          "x": "No hay que culpar al modelo, sino el contexto de diseño que se le entrega."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyc71r1kuqsz6tjcx1t4r.png"
+        },
+        {
+          "t": "p",
+          "x": "agents.design es una galería curada de recursos de diseño para agentes de codificación con IA. Incluye especificaciones DESIGN.md que los agentes pueden seguir directamente, junto con prompts listos para copiar y pegar, ajustados para agentes de codificación."
+        },
+        {
+          "t": "p",
+          "x": "Así se usa: elige un diseño que se ajuste al tono del producto, luego copia el prompt o descarga la plantilla y el DESIGN.md, y pégalo en Cursor, Claude Code, Codex, v0, Bolt o Lovable."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de codificación con IA son extraordinariamente buenas en la implementación, pero sin un sistema de diseño, una estructura y restricciones adecuadas, su gusto resulta genérico. Las plantillas siguen creciendo, y se puede empezar por los diseños gratuitos o abrir todo el catálogo de una vez."
+        }
+      ]
+    },
+    "design/canva-code2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Canva lanzó Canva Code 2.0 el martes. Es una gran actualización de la herramienta de codificación con IA que permite escribir indicaciones en lenguaje sencillo para crear sitios web, apps y experiencias interactivas, y luego editar el resultado como si se editara una presentación de Canva. Esta vez se abrió a toda la base de usuarios de Canva, más de 265 millones de usuarios mensuales, en todos los planes, incluidas las cuentas gratuitas."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3wHn92IpIJRa3DbgFwkrO7/f80c8eb1c3bfb4537fd1188e6640dbec/Nuneybits_Vector_art_of_a_text_prompt_becoming_a_polished_websi_143e4159-4f87-4af2-b95a-48898affcf2d.webp?w=1200&q=60",
+          "cap": "Un mensaje convirtiéndose en un sitio web terminado"
+        },
+        {
+          "t": "p",
+          "x": "Es el movimiento más agresivo de Canva hacia el mercado de la \"codificación por vibras\" (vibe coding). Una categoría que apenas existía hace 18 meses ya ha producido varias startups valoradas en billones. Mientras competidores como Lovable, Replit y Bolt.new se han centrado en generar código funcional a partir de indicaciones, Canva apuesta de forma distinta: el verdadero cuello de botella no es el código, sino lograr que el resultado se vea bien."
+        },
+        {
+          "t": "p",
+          "x": "Danny Wu, responsable de productos de IA de Canva, dejó claro el público al que se dirige en una entrevista con VentureBeat. \"Estamos apuntando deliberadamente a los no desarrolladores\", dijo. Explicó que Canva Code no está pensado para desarrolladores, sino para traer el poder de la codificación con IA a Canva y responder a la demanda de los usuarios de más interactividad, edición personalizada y flexibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Esta actualización incluye varias funciones que acortan la distancia entre la generación de código y un resultado terminado. Ahora se pueden crear proyectos de Canva Code directamente dentro de pizarras, presentaciones o páginas independientes, y se añadieron más de 50 nuevas plantillas para diseños interactivos. También se añadió la posibilidad de importar HTML original creado con otras herramientas de codificación con IA y convertirlo en un diseño editable de Canva."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento también mejoró de forma notable. Canva dijo que redujo el tiempo promedio de generación de código en un 75% y acortó en un 30% el tiempo mediano desde la primera indicación hasta la publicación del sitio. También dijo que, al integrar Canva Code en todo el editor y tratar el resultado del código como cualquier otro elemento de diseño, los usuarios activos de Code crecieron un 25%."
+        },
+        {
+          "t": "p",
+          "x": "Lo más destacado es la experiencia de edición. Se puede hacer clic directamente sobre los elementos generados para cambiar el texto, arrastrar y soltar imágenes desde la biblioteca de Canva de más de 120 millones de plantillas y recursos, cambiar colores y tipografías desde la barra de herramientas, o seleccionar un elemento concreto y refinarlo con IA conversacional. El resultado es totalmente interactivo, se ajusta automáticamente al tamaño de la pantalla e incluye una vista previa móvil."
+        },
+        {
+          "t": "p",
+          "x": "Según una encuesta publicada por Luminix AI en mayo de 2026, el mercado de codificación por vibras y constructores de apps con IA vale 4.700 millones de dólares en 2026 y se prevé que crezca a un ritmo anual de aproximadamente 38% hasta los 12.300 millones de dólares en 2027. Se estima que alrededor del 41% del código escrito en el mundo ya es generado por IA. Lovable alcanzó unos 400 millones de dólares de ingresos recurrentes anuales (ARR) a principios de 2026, mientras que Replit triplicó su valoración hasta los 9.000 millones de dólares y busca una tasa de ejecución de 1.000 millones de dólares para fin de año. Bolt.new aumentó su ARR de 4 millones a 40 millones de dólares en cuestión de meses."
+        },
+        {
+          "t": "p",
+          "x": "La función de importación de HTML trae código creado con cualquier herramienta —ChatGPT, Claude, Lovable, Bolt y otras— a un diseño editable de Canva. Es una apuesta para posicionar a Canva como el lugar donde el código generado por IA recibe sus últimos retoques. Los modelos que impulsan Canva Code combinan modelos propios y externos, incluidos OpenAI y Anthropic, aunque la empresa no reveló la combinación exacta. Un año después de su lanzamiento, los usuarios han publicado más de 6 millones de sitios."
+        }
+      ]
+    },
+    "design/design-org": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Imagina una reunión de estrategia. El momento en que alguien insistió, con firmeza, en que el pensamiento de diseño debía impregnar toda la organización."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El autor Zeeshan Khalid plantea la pregunta así: si el diseño integrado significa que el diseño se filtra en cada rincón de una organización, ¿cómo se ve cuando la IA se filtra en cada rincón del diseño?"
+        },
+        {
+          "t": "p",
+          "x": "Él distingue claramente entre usar la IA como una simple herramienta y dejar que la IA permee el propio proceso de diseño."
+        },
+        {
+          "t": "p",
+          "x": "La última pregunta apunta a la identidad y al poder de decisión. Ahora que incluso la entidad que lo diseña todo está siendo rediseñada por máquinas, ¿qué es un diseñador y qué es una organización?"
+        },
+        {
+          "t": "p",
+          "x": "Este artículo es solo para miembros de Medium, así que aquí se tradujo únicamente la introducción pública."
+        }
+      ]
+    },
+    "design/generative-ui2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La afirmación de la primera parte era simple: una página web puede comportarse como un vendedor capaz. Observa con consentimiento, clasifica por comportamiento y elimina la friction para cada visitante. Pero cualquier afirmación sobre el comportamiento en tiempo de ejecución es solo teoría hasta que se pone a prueba. Así que el autor construyó una tienda de comercio electrónico completa sobre IBM Carbon usando ui-morph, y ejecutó un laboratorio en el que un modelo real proponía variaciones de pantalla desde la página de entrada hasta la confirmación del pedido, reproduciendo de forma determinista a 200 compradores virtuales. El concepto se sostuvo, y la economía también."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs7guf3zv61k8bd71n6je.png",
+          "cap": "Cinco compradores, una tienda, las mismas cinco manipulaciones — solo cambiaba la persona"
+        },
+        {
+          "t": "p",
+          "x": "La tienda de demostración, llamada NOVA, vende laptops y equipo. Hay una sola versión, un HTML por página, un manifiesto por ruta y cinco manipulaciones permitidas. Cada diferencia visible surgió de decisiones que el motor tomó según la persona cuantizada del visitante. Los visitantes con más conocimientos técnicos reciben un tema oscuro centrado en datos, mientras que los gamers reciben tokens g100 con acentos morados. Ambos entraron por la misma URL que todos los demás."
+        },
+        {
+          "t": "p",
+          "x": "El caso más llamativo es el de la persona con menos afinidad técnica. \"Dona Marta\" llega desde un anuncio de \"laptop fino branco presente\" (una laptop blanca y delgada como regalo), y ese término de búsqueda se convierte en la primera señal. En la página de producto, el motor mueve la galería delante de la tabla de especificaciones, muestra comparaciones de tamaño con objetos cotidianos, preselecciona el color blanco, colapsa las especificaciones y envía el pago al modo de invitado. Cada manipulación queda registrada con una razón en lenguaje sencillo en el registro de auditoría. Ninguna diseñadora construyó estas páginas persona por persona: el motor simplemente las ensambló a partir de un vocabulario que la página ya había declarado."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5iqwq5kwh1ddw23tklvd.webp",
+          "cap": "La página de producto de Dona Marta: galería primero, comparación de tamaño, blanco preseleccionado"
+        },
+        {
+          "t": "p",
+          "x": "La promesa central de la primera parte era la preadaptación: precompilar los cambios de la siguiente página mientras el visitante aún está en la página actual, y aplicarlos en el límite, para que el diseño nunca se mueva bajo el cursor. El laboratorio reprodujo de forma determinista compradores con guiones predefinidos a lo largo de todo el embudo. En 200 sesiones, las llegadas a páginas superaron las 1.000, y el 72% de ellas se sirvieron desde caché. Los aciertos exactos y las sustituciones por similitud se dividieron casi a la mitad. Al principio de la sesión, como la persona evoluciona con cada página, las claves exactas fallaban con frecuencia, pero la similitud determinista sobre claves cuantizadas cubrió ese hueco y ahora por sí sola representa un tercio de todas las llegadas."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftsewceyfre1smtuv3f0w.webp",
+          "cap": "La página de accesorios, ya ajustada mientras el usuario seguía en la página anterior"
+        },
+        {
+          "t": "p",
+          "x": "En la mayor parte del recorrido, la ruta fría era una maqueta determinista escrita por una persona. Después el modelo real tomó el relevo y, para la misma persona de regalo, hizo elecciones distintas pero igualmente plausibles: conservó el hero, ocultó la tabla comparativa y puso por delante la guía de regalos. El intercambio mediano tomó 5,5 segundos de tiempo en segundo plano que el visitante nunca tuvo que esperar."
+        },
+        {
+          "t": "p",
+          "x": "Durante veinte años, el diseño de interfaces consistió en elegir un único diseño para todos. Se fija la persona en la que más se confía, la página se congela y el resto ve un compromiso. La IU generativa elimina esa restricción y eleva el medio del diseñador a otro nivel. No construye un diseño, sino un espacio de diseños permitidos: decide qué puede moverse, qué variantes y temas se pueden ofrecer, qué zonas están protegidas y qué rasgos y objetivos hay que leer. En el momento en que el motor interpreta la señal, Dona Marta recibió su propia página hecha con componentes que ya existían. La economía de atender la cola larga se invierte."
+        },
+        {
+          "t": "p",
+          "x": "Los siguientes pasos ya están en orden: un bucle de retroalimentación de resultados en el que las cadenas que no ayudan a una persona se retiran y se recompilan solas; adaptadores de tienda para React y Vue; un vocabulario de rasgos más rico que rescata 12 términos de búsqueda sin mapear; un almacén de cadenas compartido que convierte las adaptaciones compiladas en conocimiento común; y un piloto en un sitio real con tráfico real."
+        }
+      ]
+    },
+    "design/intern-desk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autonomous presentó una nueva versión de su AI Intern, un superasistente de IA plug-and-play que se coloca sobre el escritorio y se usa de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tp4DyZiXWrd6UMUjXTaSgY-2042-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con esta actualización, el Intern ha ganado pensamiento y voz. En palabras de la empresa, la única diferencia entre este intern y el colega del escritorio de al lado es que el intern trabaja sin límites."
+        },
+        {
+          "t": "p",
+          "x": "Pensado para creadores, el dispositivo gestiona publicaciones en redes sociales y tareas cotidianas de agenda y administración, y asume incluso trabajo laborioso como la programación. En la práctica, pone a prueba cuánto de las tareas rutinarias de un pequeño equipo creativo puede absorber."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de un colega de IA que vive en una pestaña del navegador, este hardware funciona todo el día. Organiza la agenda y clasifica el correo incluso mientras el ordenador principal está dormido."
+        },
+        {
+          "t": "p",
+          "x": "Las instrucciones pueden darse por texto o por voz, y las tareas también pueden pasarse a chats de equipo como Slack, Discord o Telegram. El procesamiento ocurre en el propio dispositivo, no en la nube."
+        }
+      ]
+    },
+    "design/leaders-fast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una responsable de diseño del sector de la ciberseguridad lo explica así: el tiempo de producción de diseño pasó de cuatro días a seis u ocho horas, y el tiempo hasta el lanzamiento se redujo de forma exponencial. Aun así, añade, afinar los procesos internos es la parte fácil."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*gkRv4ROxY5MhgxY9URVs_w.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Gracias a la IA, una investigación que antes tomaba semanas ahora toma días, y los bocetos de concepto que ocupaban toda una tarde ahora toman 20 minutos."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que los ejecutivos piden todavía más velocidad a partir de ahí. La generación se ha acelerado, pero el tiempo para pensar sigue igual."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la autora Kai Wong repasa, uno por uno, cómo actúan en la práctica 32 líderes de diseño cuando están bajo presión de velocidad."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo es solo para miembros de Medium, así que aquí se tradujo únicamente la parte pública."
+        }
+      ]
     }
   }
 }

@@ -2057,6 +2057,359 @@
           "x": "Kindle Translate launched in November 2025 with English↔Spanish and German→English pairs. This is the first time the language lineup has been expanded significantly."
         }
       ]
+    },
+    "books/kindle-story-so-far": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon has released a software update for Kindle and Kindle Scribe. The headline feature in firmware 5.19.5 is \"Story So Far.\" It gives you a spoiler-free recap of the plot up to where you've read, so you don't have to flip back through chapters when you return to a book you've set aside. It works across thousands of purchased or borrowed English bestsellers."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/06/30080037/kindle-paperwhite-signature-edition-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kindle Scribe gets a few tangible improvements. On ebooks and Word documents with enhanced typesetting, drawing a circle now automatically tidies up annotations. Along with tapping the top-right corner while reading, you can now create a bookmark by tapping the bookmark icon on a page thumbnail in Page Flip view. Sticky notes can be moved anywhere on the page by long-pressing the icon with your finger and dragging it, or by choosing \"Move Note\" from the three-dot menu in the note's dialogue box or the side panel."
+        },
+        {
+          "t": "p",
+          "x": "Story So Far rolls out to every current Amazon Kindle model. The same improvement for creating bookmarks from Page Flip view thumbnails applies as well. It comes alongside performance improvements, bug fixes, and other general refinements. Amazon has extended the AI summaries (Recaps) it introduced at the series level in 2025 to cover where you are within a single book. The piece was written by Michael Kozlowski."
+        }
+      ]
+    },
+    "books/platform-comes-apart": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This piece for The Scholarly Kitchen was co-written by chef Hong Zhou and guest blogger Adam Hyde, founder of Pure Science Inc. If agents can conjure up software on the fly, is there still a reason to rent a vendor's fixed product by the seat? That question, dubbed the \"SaaSpocalypse,\" targets every platform that bundles interface, logic, data, and workflow into one package sold per seat. Nearly all of scholarly publishing, from submission management systems to content databases, sits on top of platforms like this."
+        },
+        {
+          "t": "p",
+          "x": "At the PurePub.ai event on May 22, 2026, Adam Hyde moderated as Hong Zhou of KnowledgeWorks Global, Stuart Rutch of Silverchair, and Paul Shannon of eLife took the question head-on. Asked whether agents amount to a full-scale assault on SaaS, the panel's answer was more interesting than a simple yes or no. Platforms aren't dying; they're splitting in two. Below, a trusted core; above, an agent layer. What used to connect the two — seats and screens — is letting go."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/06/iStock-841596778.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The split is happening because the consumer is changing. For thirty years, the platform's consumer was the person sitting in front of the screen — the seat. Now agents are standing alongside as consumers too, and at the next stage, regardless of who's doing the work, data passes through agents that talk directly to a headless core instead of a legacy interface. Rutch predicted platforms would \"decompose into primitives.\" At the bottom sits a database loaded with business rules, and above it, \"progressively, this agent layer\" builds up — though who owns that layer is still undecided."
+        },
+        {
+          "t": "p",
+          "x": "The interface used to hold trust and billing together. Familiarity — \"the same interface you saw yesterday\" — created trust, but once the interface detaches from the core and can be regenerated and swapped out at any time, that familiarity no longer vouches for what's underneath. Billing is even more serious. When a handful of people deploy agents, the load can't be measured by seat count. Hyde said he \"doesn't think it's a seat model,\" and Rutch saw compute, not headcount, becoming the unit. Scenarios like per-token billing, outcome-based billing, and BYOK, where customers bring their own model API keys, also came up."
+        },
+        {
+          "t": "p",
+          "x": "Still, the trust core remains. The cost of building in-house is falling thanks to AI coding agents, and systems opened up for agents to read make data migration just as easy, thinning both of SaaS's moats at once. But the verified records an institution has run and audited for years, its accumulated business logic, relationships, and industry knowledge, can't be replicated in a short time. Rutch sees \"the trust dimension\" remaining as the core system's essential value, and said he'd rather \"disrupt ourselves at the same speed\" before someone else does it first."
+        },
+        {
+          "t": "p",
+          "x": "The panel's answer landed short of a full-scale assault. What's being challenged isn't the platform's existence but the assumption that it must be used only through a vendor-controlled interface and workflow. As agents come to mediate not just the discovery and consumption of research but also review, evaluation, production, and management, a growing share of value tilts toward the agent layer. Reading where value pools between the two layers becomes a core strategic task for publishers and vendors. Part two covers what happens once interfaces grow intelligent and personalized enough to break free of the platform."
+        }
+      ]
+    },
+    "books/kindle-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon will release a new Kindle lineup in late 2026. At the center of this lineup are a faster processor and more generous RAM. These specs are meant to run AI reading features on the device itself that go further than the existing Kindle Recap or “The Story So Far.”"
+        },
+        {
+          "t": "p",
+          "x": "The real point of interest isn't the hardware itself but the direction it points toward. It signals that on-device AI is moving deeply into how readers move through a book and look back at earlier content. AI recall and navigation features are now emerging as a key factor shaping Kindle specifications."
+        }
+      ]
+    },
+    "books/libby-filter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a notable item from a roundup of links for writers. OverDrive's Libby app now lets users filter out books that contain AI-generated content."
+        },
+        {
+          "t": "p",
+          "x": "The filtering method is not automatic detection. It relies on labels that publishers and authors add themselves. The same roundup also included an Atlantic interview about a Commonwealth Prize winner accused of using AI."
+        }
+      ]
+    },
+    "books/textbook-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/12220738/unnamed-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As publishers weigh whether to add interactive 3D models to digital textbooks, generative AI is emerging as the lever that determines cost."
+        },
+        {
+          "t": "p",
+          "x": "That's because draft 3D models can be generated from written descriptions or sketches alone. Before they reach the classroom, though, human experts still need to verify their accuracy."
+        }
+      ]
+    },
+    "books/uk-copyright": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/01/cropped-JF-horizontal-scaled-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A curated roundup of links for writers surfaced a UK legal analysis. Its diagnosis is that copyright law fails to adequately prevent the harm caused by AI training. It points to lawsuits collapsing on technical issues rather than on the merits."
+        },
+        {
+          "t": "p",
+          "x": "The same issue also included an article on a wave of AI startups approaching publishers with tools for editing, rights, royalties, and recommendations."
+        }
+      ]
+    },
+    "books/anu-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A report by Millicent Weber of the Australian National University (ANU), 'Audiobook Listening in Australia,' surveyed 503 Australian listeners and 500 German listeners. Among them, 17.4% had already listened to an audiobook using AI narration or synthetic voice."
+        },
+        {
+          "t": "p",
+          "x": "The perception gap is as notable as the listening habits themselves. Only 40% of Australians counted listening to audiobooks as 'reading.'"
+        },
+        {
+          "t": "p",
+          "x": "The full report and the remaining figures are only available to paying subscribers, so the details couldn't be confirmed."
+        }
+      ]
+    },
+    "books/ipa-emerging-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the International Publishers Association (IPA) congress in Kuala Lumpur, Malaysia, during the 'Emerging Markets: New Technology, New Challenges' session, moderator Fatima Abbas said, 'There is no single model for innovation.' She meant that because conditions differ from market to market, each one adopts new technology its own way."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6299-793x595.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Low King Hui, Group CEO of Malaysia's Sasbadi Holdings, said the industry has been going through a digital transition for nearly 20 years. He noted that making digital revenue work while sustaining investment remains difficult, and that AI is leveling the playing field, intensifying competition among existing publishers."
+        },
+        {
+          "t": "p",
+          "x": "Ali Abdel-Moneim Ahmed, CEO of Egypt's Arabookers International, described using AI to track customers and competitors and to manage production. The company is rapidly scaling its business, partnering with Amazon and BookWire with a goal of digitizing 100,000 ebook titles and 1,000 audiobook titles."
+        },
+        {
+          "t": "p",
+          "x": "GeumJoo Lin, co-founder and CEO of South Korea's CO.MINT, emphasized protecting copyright while expanding rights opportunities. In particular, she expressed concern that the trend of AI-generated books receiving legal deposit compensation from the National Library of Korea is eroding trust in publishing."
+        }
+      ]
+    },
+    "books/steamy-coauthor": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "je-MwvQaJ0Y"
+        },
+        {
+          "t": "p",
+          "x": "The YouTube channel 'AI Tool Box,' which covers AI software, reviewed 'Steamy Co-Author' hands-on. It describes the tool as AI writing software aimed at romance and genre fiction writers, built to help generate ideas, build characters, structure plots, and break through writer's block."
+        },
+        {
+          "t": "p",
+          "x": "The video walks through the dashboard, story and character generation, the plot builder, dialogue and scene building, and pricing and add-on products (OTOs), in that order. It frames self-published authors who consistently publish through Kindle Direct Publishing (KDP) as the main target users."
+        },
+        {
+          "t": "p",
+          "x": "That said, this review is a promotional video built around a WarriorPlus affiliate link and a bonus bundle, so its praise and criticism should be weighed with that in mind."
+        }
+      ]
+    },
+    "books/debbonaire-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Baroness Thangam Debbonaire, a Labour peer and former Shadow Secretary of State for Culture, Media and Sport, spoke with The Bookseller after delivering the keynote at the Publishers' Licensing Services (PLS) conference. She described the creative industry's debate over AI as \"a canary in the coal mine for a bigger question about the role of humans.\""
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Baroness_Thangam_Debbonaire_speaking_at_the_PLS_conference_2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "She directly pushes back on AI companies' argument that paying creators \"doesn't add up.\" \"It's basically telling creators, we're going to use your work but we're not going to compensate you for it,\" she said, adding, \"if your business doesn't work when you pay people properly, then your business is wrong.\""
+        },
+        {
+          "t": "p",
+          "x": "She also drew an analogy with construction. You need bricks, windows, a carpenter, and timber to build a house, and if you pay everyone else but refuse to pay the brick supplier and the carpenter, that isn't a legal business in this country."
+        },
+        {
+          "t": "p",
+          "x": "She also raised concerns about depletion. Large language models use human writers' work as training data, and if that source disappears, \"AI can't write new work.\" All that's left is repeating the same things, or AI training on AI."
+        },
+        {
+          "t": "p",
+          "x": "Asked about the value of human creativity, she pointed to emotion. \"We want human creativity because it moves us, soothes us, provokes us,\" she said. Even if AI could mimic that role, she asked, \"then we have to ask the bigger philosophical question: isn't there something too important to being human to hand over entirely to AI?\""
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/PLS_Conference_2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Licensing is a practical middle ground between fear and doing nothing. \"It's better than having no licensing. There's no perfect system at this stage, but PLS is making a good start,\" she assessed. She favors fixing the current framework rather than overturning copyright law. She concluded, \"if we carry on like this, we'll end up either running out of original creative work or having people work for free. Doing nothing is no longer an option.\""
+        }
+      ]
+    },
+    "books/rakuten-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "According to Bunka News, Rakuten Books said at a strategy briefing for publishers in Tokyo on July 7 that it would reposition itself as a more \"Rakuten-like\" online bookstore. With 28 million monthly visitors, it ranks among the largest properties within the Rakuten marketplace."
+        },
+        {
+          "t": "p",
+          "x": "Users are 57% women and 43% men, with housewives being the strongest segment among women's products. The company sees room to grow in categories aimed at men, like business books. 63% of users use both online and offline bookstores."
+        },
+        {
+          "t": "p",
+          "x": "The new strategy has four prongs: promotion through the Rakuten ecosystem, keeping inventory stocked so no sales opportunity is missed, personalized discovery using Rakuten's data and AI, and benefits and experiences unique to Rakuten Books."
+        },
+        {
+          "t": "p",
+          "x": "Outside Japan, Rakuten is mostly associated with Kobo and e-books, which tends to obscure the scale of its print book business. Rakuten Books is a major player going head-to-head with Amazon Japan in the print book market."
+        }
+      ]
+    },
+    "books/vancouver-standard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This op-ed, co-written by Cari Weaver and seven others, argues that a unified standard is needed for how AI use in research is disclosed. Just as funding sources or conflicts of interest are disclosed, AI use should be disclosed with the same rigor. \"Transparently disclosing AI use is a matter of research integrity,\" the authors wrote."
+        },
+        {
+          "t": "p",
+          "x": "There are many guidelines on responsible AI use, but there's no common standard for \"how to disclose the way AI contributed to research findings.\" A 2026 survey found that about a third of researchers who use AI widely had never disclosed their AI use."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/02/iStock-2226074210-1024x683.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The World Conference on Research Integrity (WCRI) set up a focus track to close this gap. With support from groups including the International Science Council, it is refining a draft of the so-called \"Vancouver Standard\" through three rounds of consultation. The first round began in late 2025, the second in July 2026, and the third is scheduled for late 2026 to early 2027."
+        },
+        {
+          "t": "p",
+          "x": "The first round of consultation showed a clear desire for standards, but also revealed tensions. The points of contention were how much detail to disclose, how to reconcile differing expectations across fields, and how to fit with existing frameworks."
+        },
+        {
+          "t": "p",
+          "x": "The authors emphasize that the focus of disclosure is research integrity and the trustworthiness of methods. \"Human responsibility and oversight remain central to using AI responsibly,\" and enough must be disclosed for a peer in the same field to judge whether AI's contribution affected the reliability of the results."
+        }
+      ]
+    },
+    "books/guatemala-ai-authorship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-12-at-9.31.32-PM.png",
+          "cap": "CONTEC Guatemala"
+        },
+        {
+          "t": "p",
+          "x": "This report on Guatemala's book market covers CONTEC Guatemala's panel on “AI and Authorship.” Literary translators, publishers and authors gathered to discuss how translators might embrace AI tools."
+        },
+        {
+          "t": "p",
+          "x": "They agreed that even as translators bring AI into their work, human translators remain indispensable. Literary translation means inventing a linguistic solution tailored to each text, which differs every time."
+        },
+        {
+          "t": "p",
+          "x": "Debate went back and forth over how much could be handed to AI, but the conclusion leaned toward keeping humans in the seat of judgment. Guatemala's book market is growing, but it still faces familiar challenges."
+        }
+      ]
+    },
+    "books/ai-audiobook-surveys": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a survey commissioned by Spoken, an AI audiobook producer based in Portland, 61% of respondents mistook some AI narration for human voices. The same share viewed the use of AI voices favorably in scenes with multiple characters. In descriptive passages without multiple characters, though, they still preferred human narration."
+        },
+        {
+          "t": "p",
+          "x": "The survey was conducted in May by Edison Research at SSRS among 1,005 US adults who identified as fiction audiobook listeners. Respondents randomly heard either a professional narrator's reading or an excerpt using Spoken's \"Multi-Cast technology,\" which assigns a different voice to each character within a passage. Spoken markets the service as a cheaper, faster alternative to traditional productions that require coordinating multiple voice actors."
+        },
+        {
+          "t": "p",
+          "x": "After hearing the sample, respondents who said they'd finish a multi-voice audiobook rose from 31% before listening to 65% after. Among frequent listeners, 81% expressed interest in different voices for different characters, and 51% said they were \"very interested.\" Narration quality, immersion and multiple character voices mattered more to their choices than a low price or a celebrity narrator."
+        },
+        {
+          "t": "p",
+          "x": "This announcement conflicts with a 2026 consumer survey that the Audio Publishers Association (APA) also commissioned from Edison. Released on June 5, that survey found willingness to try AI narration fell from 70% in 2025 to 61% in 2026, and only 16% of listeners had actually heard one. AI-narrated titles, despite rising in number, accounted for just 0.03% of audiobook sales in 2025."
+        },
+        {
+          "t": "p",
+          "x": "\"There's some demand for AI-generated narration, but our survey from a few months ago shows the share of listeners who've actually heard an AI-narrated audiobook is still pretty low,\" APA executive director Jim Dinegar told PW. He pointed to price sensitivity as one factor, noting that AI narration is growing for backlist titles or books with small markets because of recording costs."
+        },
+        {
+          "t": "p",
+          "x": "Both studies were conducted by Edison, but their designs differed. Spoken measured reactions from a controlled, blind listening experiment, while the APA measured self-reported intentions from a broader listener base. Dialogue-heavy fiction, like stage drama, relies on emotional and psychological exchange between voices. A human narrator brings an interpretive, culturally inflected perspective to the text that even the most human-sounding AI isn't designed to replicate."
+        },
+        {
+          "t": "p",
+          "x": "The conflicting surveys arrive amid a revival of interest in multi-voice production, which Audible recently showed with its full-cast audio edition of the complete Harry Potter series. Dinegar said the APA's sales survey confirmed \"steady, impressive year-over-year growth in audiobook sales,\" but added, \"listeners strongly prefer human voices.\""
+        }
+      ]
+    },
+    "books/google-gemini-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Major publishers including Hachette, Cengage and Elsevier have filed suit against Google. They allege that Google used digital copies from Google Books, Google Play and Google Scholar to train its Gemini models without permission."
+        },
+        {
+          "t": "p",
+          "x": "According to the complaint, Google's own internal review flagged the practice as \"highly problematic\" and warned of billions of dollars in potential fines, yet the company proceeded anyway."
+        },
+        {
+          "t": "p",
+          "x": "It is a fight over rights and consent — whether book text may be used to train AI models, and if so, how it should be used."
+        }
+      ]
+    },
+    "books/ipa-childrens-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The 35th International Publishers Association (IPA) Congress, held in Kuala Lumpur, Malaysia, wrapped up its two-day schedule on July 7. Three sessions addressed children's and YA publishing."
+        },
+        {
+          "t": "p",
+          "x": "In the session \"Connecting the World: Cross-Cultural Storytelling and Reading for the Next Generation,\" Canadian publishing consultant Simon de Jocas discussed the current state of children's literature and reading habits with Bologna Children's Book Fair director Elena Pasoli and Malaysian IBBY president Ahmad Redza bin Ahmad Khairuddin. Pasoli said, \"Keep giving children what they love — usually the familiar and the known — but always introduce other things they need or should know,\" adding, \"Books connect children who feel lonely to the world, letting them travel to other worlds and building a sense of belonging and empathy.\""
+        },
+        {
+          "t": "p",
+          "x": "Ahmad Redza shared that he tried to pass on Enid Blyton's The Famous Five and The Secret Seven, books he cherished, to his children, but they showed no interest even in new editions, preferring The Lord of the Rings and Harry Potter instead. \"The environment has changed, and children spend a lot of time at school. If they're still reading, that's enough, and it's hopeful,\" he said. He also stressed, \"Technology is neither a threat nor an evil. Digital books give children who need special support access to content. The issue isn't format — it's content.\""
+        },
+        {
+          "t": "p",
+          "x": "The session \"Carrying On a Legacy: Half a Century of Children's Publishing\" turned attention to Gallimard Jeunesse, one of the world's leading children's publishers. CEO Hedwige Pasquet sat down with Karine Pansa, CEO of Grupo Girassol Brasil. In 2025, backlist titles such as The Little Prince, Beatrix Potter, Harry Potter and Roald Dahl accounted for more than 64% of the company's total revenue of 52 million euros, with 6 million euros of that coming from sales abroad. One in every ten books sold to children and young people worldwide is a Gallimard Jeunesse book."
+        },
+        {
+          "t": "p",
+          "x": "Pasquet said the company's goals and values have remained unchanged since its founding, citing outstanding content, beauty conveyed through illustration, and creativity in developing new formats. She said AI is used mainly for marketing and promotion, not in the editorial process."
+        },
+        {
+          "t": "p",
+          "x": "On the Congress's second day, the deepening literacy crisis took center stage. Hundreds of millions of children and young people grow up without books. UNESCO Goodwill Ambassador for Education and Book Culture, and founder of Kalimat Group and PublisHer, Sheikha Bodour Al Qasimi spoke with Emma House of Oreham Group. She said, \"Publications are abundant, but in refugee camps or places without internet, both print and e-books are hard to come by,\" adding, \"With books, even refugees can redraw their path to the future.\""
+        },
+        {
+          "t": "p",
+          "x": "She went on to say, \"It's not books that make readers — it's a culture of reading that makes readers,\" adding, \"AI is changing how books are made, but no algorithm falls in love with reading. People can. A single book changes a life.\""
+        }
+      ]
     }
   }
 }

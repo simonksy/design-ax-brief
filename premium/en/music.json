@@ -2200,6 +2200,571 @@
           "x": "One user wrote in the comments, \"Adding AI into the mix is aiding laziness, not adding efficiency or creativity,\" arguing that the existing random parameters already do the job."
         }
       ]
+    },
+    "music/izotope-rx12": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_01-tXMDju4hvv5jZgQO_E2EVD40.__y0Wyi.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RX10 arrived in late 2022, RX11 in mid-2024. In between, AI-based audio restoration and separation tools made a major leap forward, with competitors overtaking some of RX11's capabilities, and iZotope answered with RX12 after two years of research. Hugh Robjohns reviewed the Advanced edition in the July 2026 issue of Sound on Sound. New features grab the headlines, but it matters just as much that several tools have been completely rebuilt with machine learning and neural net technology."
+        },
+        {
+          "t": "p",
+          "x": "The lineup is still the usual three: Elements, Standard, and Advanced. The flagship Advanced includes all 90-plus tools, plugins, and standalone processing features. Standard has more than 70, dropping the newest additions and most of the film and TV-specific modules, but keeping Dialogue Isolate. Elements is the entry-level edition with six basic noise-removal tools, and both lower editions can be upgraded to a higher one."
+        },
+        {
+          "t": "p",
+          "x": "All three editions have a refined GUI that feels more modern, but the overall layout and workflow stay the same. The central spectrogram display is bigger, and a new monitor volume slider in the top right is especially handy when working on a laptop without an external interface. The rebuilt tools run faster and more precisely without losing audio quality. Pressing the new 'ear' button next to the preview button lets you hear what's being removed instead of the processed result — the so-called delta signal — making it easier to check whether the algorithm is throwing away anything important."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/izotope_rx12_02-2L39HA84hoglMDrDxHPjoL3zyOZgZNKz.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is the 'Stem Split' button added to three stem-separation tools. It opens a 'Stems View' mode where, instead of separate tabs, the separated stems stack on top of each other within the same time-aligned spectrogram, a big workflow improvement over the previous approach. On top of that comes a new Scene Rebalance tool that brings what music stem separation has long done to movie sound, plus a search function that helps you find the processing module you want."
+        }
+      ]
+    },
+    "music/logic-pro-123": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rDZVv7ELXUmbiewWfFYqM7.png"
+        },
+        {
+          "t": "p",
+          "x": "Apple has released Logic Pro 12.3. The update expands the stock plugins Sample Alchemy and Beat Breaker and overhauls the AI harmony analysis tool Chord ID, along with a pile of smaller improvements."
+        },
+        {
+          "t": "p",
+          "x": "The biggest winner is Beat Breaker. The effect, which debuted in 2023 to slice and flip any source in real time to create glitch patterns, gains three new modes. Filter mode applies a low-pass or high-pass filter to each slice, letting you adjust filter type, cutoff, slope, and curve independently, while Resonance mode adjusts resonance per slice to create fast, rhythmic filter automation."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QvaNWdvb6HCoohnbwZ5EkE.png"
+        },
+        {
+          "t": "p",
+          "x": "Pan mode sets the stereo position of each individual slice. Randomization controls that adjust probability and intensity are now available across all modes."
+        },
+        {
+          "t": "p",
+          "x": "Sample Alchemy, which sits somewhere between a sampler and a synth, also got an update. The granular engine gains a new Sync mode that stacks multiple grain streams in parallel from different points in a sample, adjusting stream count, position, formant shift, and randomization. A new Granular Alchemy sound pack, showcasing the new mode with loops, one-shots, and field recordings, was released alongside it."
+        },
+        {
+          "t": "p",
+          "x": "Chord ID, the AI analysis tool that picks out chord progressions in audio and MIDI regions, has improved accuracy on both single instruments and full mixes. Apple says it catches extended chords and inversions even when played on \"an out-of-tune piano or a distorted electric guitar.\""
+        },
+        {
+          "t": "p",
+          "x": "On top of that comes a new Producer Project that looks behind the scenes of Kehlani and Usher's 2026 track Shoulda Never, plus major improvements to Flex, the real-time time-stretching and pitch-correction engine."
+        }
+      ]
+    },
+    "music/sza-ai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/SZA-Grammy-Awards-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Last week, The Atlantic's AI watchdog revealed that more than 12 million songs are being used illegally in AI development. Inside that \"massive song dataset,\" SZA found 238 of her own tracks."
+        },
+        {
+          "t": "p",
+          "x": "She posted a screenshot of the AI watchdog search on her private Instagram account, NotMusicAtAllISwear, and wrote: \"if you're a musician and you support this depraved shit, you're disgusting, and there's nothing anyone can say to make this okay with me.\""
+        },
+        {
+          "t": "p",
+          "x": "In a separate post, she singled out Diplo. \"I don't know who needs to hear this but Diplo has a stake in Suno and is trying to train it on some of the best black writers/producers' brains.\""
+        },
+        {
+          "t": "p",
+          "x": "Diplo praised AI on the Behind The Wall podcast last April, admitting he now prefers AI voices to real singers. \"You don't need voices anymore. You can get the best voice from AI. You don't need anyone to sing for you anymore.\""
+        },
+        {
+          "t": "p",
+          "x": "To SZA, training AI on Black musicians' work is just another way the music industry has diminished and exploited Black minds. \"We are 13% of the US population yet influence the world with our sound and perspective. No protections in legislature, healthcare, or creativity. Easiest target to steal from... Do not train AI off your genius. Fuck these weird vulture ass men.\""
+        },
+        {
+          "t": "p",
+          "x": "SZA's anger at AI has been simmering for a while. Last May, after guitarist Sophie Burrell called out an AI deepfake account that cloned her playing videos, SZA left this comment: \"I genuinely feel so disrespected. It hurts worse that streaming services or labels don't protect or speak up for us. We are nothing to anyone.\""
+        }
+      ]
+    },
+    "music/fender-studio-pro": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MusicTech reviewed Fender's free DAW, Studio Pro 8.1. This version leans heavily on AI. The Moises engine handles both stem separation and stem generation, alongside vocal swapping and AI pitch correction."
+        },
+        {
+          "t": "p",
+          "x": "The new beta feature “Studio Assistant” is an in-app chatbot that answers production-related questions. It's available at the Pro+ tier."
+        },
+        {
+          "t": "p",
+          "x": "What stands out is a free DAW that weaves Moises-level AI directly into the mixing and mastering workflow rather than as a separate add-on. It changes what someone making music in their bedroom can do as soon as tomorrow."
+        }
+      ]
+    },
+    "music/meaw-chain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Meaw-Chain-with-explanation-hero-credit-press@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meaw Chain is an AI plugin that analyzes audio and builds a fitting effect chain using natural-language prompts."
+        },
+        {
+          "t": "p",
+          "x": "Instead of adjusting plugins one by one by hand, it lets users describe the sound they want in words to build the processing chain, under a concept it calls “vibe mixing.”"
+        }
+      ]
+    },
+    "music/resing-brazilian": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/i/ik_multimedia_resing_brazilian_voices-_myCd9eY2RT2_VX_LNEwx7kV.VASHyZr.jpg"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia added eight Brazilian Portuguese voice models to its AI vocal synthesis platform, ReSing."
+        },
+        {
+          "t": "p",
+          "x": "It's an AI vocal tool that turns guide vocals into a professional-grade finished take in a new language, and it arrives alongside the Singer Showcase platform, which scouts new artists."
+        }
+      ]
+    },
+    "music/tidal-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/07/tidal-bans-ai-music-payments.jpg"
+        },
+        {
+          "t": "p",
+          "x": "TIDAL has begun flagging tracks it judges to be fully AI-made, and it also blocks those tracks from accruing royalties."
+        },
+        {
+          "t": "p",
+          "x": "It's a policy meant to steer payouts toward music “made, written and performed by humans,” and it directly affects how AI music creators distribute tracks and get paid."
+        }
+      ]
+    },
+    "music/fl-studio-gopher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7JZA5WS4Bj9XbhdqgxNdHj.png"
+        },
+        {
+          "t": "p",
+          "x": "Image-Line's FL Studio 2026 ships with Gopher, an agentic AI assistant."
+        },
+        {
+          "t": "p",
+          "x": "Gopher directly handles DAW functions such as track organization, mixer routing and piano roll content, so a single chat can get the work done."
+        },
+        {
+          "t": "p",
+          "x": "As the first mainstream DAW to build conversational agent control into the creative workflow, it reads as a sign that how producers work with a DAW is about to change."
+        }
+      ]
+    },
+    "music/motiontones": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MotionTones is a standalone instrument and plugin that uses two-dimensional physics simulation as its composition engine."
+        },
+        {
+          "t": "p",
+          "x": "Place a ball on screen and draw shapes, and the moment the ball collides, notes burst out from a scale or chord chosen in advance. Because the ball's motion keeps changing, the music keeps flowing and growing without stopping."
+        },
+        {
+          "t": "p",
+          "x": "It supports MIDI input and output, so it can connect to other instruments or a DAW, making it useful as a hands-on generative composition sketch tool."
+        }
+      ]
+    },
+    "music/audiotool-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Audiotool 3.0 is out. It's a from-the-ground-up rebuild of the browser-based DAW known for its strong collaboration. Real-time multiplayer music making now runs in web browsers and on tablets, with a native mobile version coming soon."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This 3.0 release also brings Nexus. It's an open-source SDK that lets musicians and developers build their own instruments, plugins, and AI-connected creative tools directly into the platform."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Rowland, Audiotool co-founder and a producer himself, put it this way: \"I've basically lived in a studio my whole life, and what held creativity back was almost never the person in the room—it was almost always the software. Audiotool 3.0 tears down that wall. Now anyone, anywhere, on any device, can create together, and we're opening up a path for people to build the tools tomorrow's music needs themselves.\""
+        },
+        {
+          "t": "p",
+          "x": "Passing projects between producers has gotten easier year after year. Even so, work still crawls to a halt when devices don't match, plugins don't line up, or files go missing."
+        },
+        {
+          "t": "p",
+          "x": "Audiotool says its newly built platform clears away these obstacles. The company says it enables real-time collaboration across nearly every device and has the lowest latency among online music production tools."
+        },
+        {
+          "t": "p",
+          "x": "Beyond collaboration, 3.0 opens up the DAW itself through Nexus. Rather than relying solely on built-in features, users can build instruments, effects, visualizers, educational tools, music games, and even hardware-linked apps. The SDK also supports AI integration through MCP and Context I/O. Creators can connect whichever large language model (LLM) they want to the platform."
+        },
+        {
+          "t": "p",
+          "x": "Andreas Jacobi, co-founder and CEO, put it this way: \"It's basically Google Docs plus a creative sandbox like Fortnite or Minecraft. The DAW becomes a platform where creators build, experiment, and make music together.\" He said low-code and no-code development tools are bringing fresh perspectives on making music from people who never thought of themselves as developers. He added, \"The next generation of music tools will be built by the people who actually make music.\""
+        },
+        {
+          "t": "p",
+          "x": "Nexus's early partners include Splice, UJAM, BandM8, and Fraunhofer. Audiotool has also invited more music-tech companies to join. It's also launching its 'Let's Build!' hackathon series, running from now through August 23."
+        }
+      ]
+    },
+    "music/ai-song-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The history of music copyright is a record of labels and artists fighting endlessly. Over the past 100 years, the legal framework protecting artists' rights has been refined late, and unevenly, after each dispute broke out. A new front is opening now. Song generator companies are teaming up closely with labels over technology that existing authorship law doesn't handle well. The author, Hunter Hillman, is Head of Product at Daydream."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/07/pexels-yasinaydin-3796788.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Even if every label licensed its catalog to Suno tomorrow, prompt-to-file generation would still hand users finished songs with unclear authorship. US case law and Copyright Office guidance hold that AI output made without meaningful human creative control isn't eligible for registration. Yet no one has actually defined what 'meaningful creative control' means, and Suno's product design doesn't encourage human authorship."
+        },
+        {
+          "t": "p",
+          "x": "A flow where a single prompt goes in and a rendered file comes out leaves no trace of the choices a person makes along the way. There's no record of parameters changed mid-process, no discarded and re-recorded takes. That's why Suno transfers rights, title, and interest in the output to Pro and Premier subscribers while explicitly disclaiming any guarantee that copyright attaches to that output. After settling with Warner, Suno dropped the word 'own' from language that once said subscribers 'own' their songs, shifting instead to Suno technically remaining the 'author' while granting a perpetual commercial license."
+        },
+        {
+          "t": "p",
+          "x": "This isn't a law of nature; it's a design choice. Picture the opposite case: if someone plays it like an instrument while sound keeps being generated, adjusting parameters in real time and recording their own performance, the human-authorship problem largely solves itself, because a person is visibly making decisions from start to finish. Prompt-to-file was simply a product built to create faster, demo faster, and monetize faster."
+        },
+        {
+          "t": "p",
+          "x": "Labels still aren't backing down. Universal and Sony have kept suing instead of negotiating with Suno, expanding their case to cover more than 61,000 recordings, and Universal has licensed rival Udio while keeping its suit against Suno in place. Either way, artists are left out of the conversation. If AI-made music is going to properly claim ownership, the fix lies in tool design, not terms of service — building it so the person who made the work is unmistakably the author."
+        }
+      ]
+    },
+    "music/dahlback-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DJ and producer John Dahlback explained why he brought AI into his work. He said he especially enjoys using vocal-focused AI tools."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/john-dahlback@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dahlback has worked with Cazzette and Benny Benassi, and in his early days, under the name Johvan, he even made 'Don't Hold Back' with Avicii. In this interview, he said he treats AI 'like an instrument,' and finds it exciting rather than scary."
+        },
+        {
+          "t": "p",
+          "x": "He told MusicRadar: 'I mostly turn to AI for inspiration. I use it as one instrument, like Splice or a synthesizer. Just as tweaking a synth here and there produces something, I use AI the same way. If you feed it a beat you're working on, it gives you ideas on where to take it.'"
+        },
+        {
+          "t": "p",
+          "x": "'When I was younger, I was deep into sampling. Rather than dropping a sample straight into the final version, I'd rebuild it myself and use that, and AI is the same for me. I'm also a firm believer in vocal conversion tools. I sing into the mic with my terrible voice, and it turns that into a polished singing voice.'"
+        },
+        {
+          "t": "p",
+          "x": "'If the person using it isn't lazy and is creative, AI is genuinely welcome. My older brother is an old-school producer who records bands the traditional way.'"
+        },
+        {
+          "t": "p",
+          "x": "'I used to be scared of AI in music, but my brother said it was amazing. A singer came in, recorded all the lead vocals, and left, and only afterward did they realize there were no backing vocals. So they fed that singer's a cappella into AI and pulled out great stems and backing vocals, making the vocals much richer. I thought that was a really great use of it.'"
+        },
+        {
+          "t": "p",
+          "x": "He also shared a recent conversation with the producer of a 'fairly famous Swedish singer' he couldn't name. That singer found a tape of themselves singing around age five, and there's now a plan in progress to train AI on that childhood voice so the singer can 'duet with themselves.' 'That's really amazing. I'm completely in favor of it.' Still, he drew a line at anyone lazily cranking out a pop song with AI and dropping it on Spotify, saying that doesn't make sense."
+        }
+      ]
+    },
+    "music/riaa-ai-labels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The RIAA and IFPI are leading an industry initiative to add standard AI labels to major streaming services including Spotify and Apple Music. The Recording Academy, SAG-AFTRA, the Human Artistry Campaign, and the American Association of Independent Music are also backing the proposal."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/05/shutterstock_2777587797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The labeling comes in two forms. 'AI-generated' applies to songs made entirely from a text prompt, or where machines created the lead vocals or main instruments. 'AI-assisted' refers to songs mainly made by humans that draw on AI for specific parts."
+        },
+        {
+          "t": "p",
+          "x": "The labels appear as small tile-shaped icons. Fully generated content gets a white 'AI' on a black background, while assisted songs get a lowercase 'ai' on a white background, styled similarly to existing content-advisory labels."
+        },
+        {
+          "t": "p",
+          "x": "RIAA Chairman Mitch Glazier said 'transparency is the best way to have it both ways,' pointing to both creative freedom and listeners' right to know."
+        },
+        {
+          "t": "p",
+          "x": "A survey from Deezer and Ipsos found that 97% of listeners couldn't tell AI music apart from human-made music, but 80% wanted fully AI songs clearly labeled at the very least. However, this system excludes AI used in composition, lyrics, cover art, and music videos from labeling. DiMA, which represents streaming platforms, supports more trustworthy AI information flowing from creators to listeners, but hasn't yet confirmed whether its member companies will adopt the system."
+        }
+      ]
+    },
+    "music/spotify-umg-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify and Universal Music Group recently previewed a paid AI feature. It would let Premium subscribers create covers and remixes using songs from participating artists and songwriters. Artists choose to opt in, receive credit, and get compensated. Universal called it the 'AI Superfan Initiative,' while Spotify said it opens up a new revenue stream and 'new ways to drive discovery.'"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/7-8-spotify-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spotify has spent years fighting fake streaming, because fake listeners pollute metrics, royalties, charts, and discovery. Yet now it's encouraging users to mass-produce synthetic versions of existing songs. The person pressing play might be real, but the music being consumed is itself artificial and derivative, and it favors catalog songs that were already doing well. It blocks one kind of AI distortion while turning the other into a revenue stream."
+        },
+        {
+          "t": "p",
+          "x": "There's a difference between an artist using AI while making a song and a platform using a finished song as raw material for a new product. A song is a pile of countless decisions. Someone held onto a lyric they almost cut; someone chose the take where the voice cracked over the perfect one. Spotify is now trying to sell listeners a button that asks, 'That's fine, but what if you wanted something else?'"
+        },
+        {
+          "t": "p",
+          "x": "The discovery problem is worse. The songs best positioned for endless AI variations are the ones people already know — ones that already hold catalog value and attention. This isn't discovery, it's re-consumption. In a place where more than 100,000 new songs pour in every day, Spotify wants to pour in AI covers and remixes of familiar songs on top of that."
+        },
+        {
+          "t": "p",
+          "x": "Participation should be voluntary, paid, and under the artist's control. That's the bare minimum to avoid theft, but a 'properly licensed bad idea' is still a bad idea. On top of that, consent gets complicated in an era when catalogs themselves get traded. As with the Red Hot Chili Peppers' recent sale of their recorded catalog, it isn't even clear who holds the right to approve and who can refuse. Spotify has already built the machine. Now it's a matter of watching which artists feed their songs into it."
+        }
+      ]
+    },
+    "music/bbc-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/2026/07/BBC-AI.png",
+          "cap": "BBC and music AI"
+        },
+        {
+          "t": "p",
+          "x": "BBC's head of music, Lorna Clarke, has laid out the broadcaster's music AI policy. BBC radio stations and its various platforms will always prioritize music that is the 'product of meaningful human creativity.' That doesn't mean creators can't use AI tools."
+        },
+        {
+          "t": "p",
+          "x": "What the BBC does want is transparency about how AI was used in the music it plays and promotes. So artists and labels will be required to disclose their use of AI tools when they release music. At least in the short term, that won't be easy, since the industry itself hasn't yet decided how to identify, report, or label AI use in music creation."
+        },
+        {
+          "t": "p",
+          "x": "Clarke also said the BBC 'won't knowingly broadcast AI-generated music that infringes on existing copyrighted work.' That, too, is a promise that's hard to keep. It depends on whether that means only music that blatantly infringes existing works in its output, or whether it also covers music made or touched by AI models trained on unlicensed music."
+        },
+        {
+          "t": "p",
+          "x": "If it's the latter, the problem gets bigger. Most AI companies keep it very vague what existing content they trained their models on. Efforts like Ed Newton-Rex's Fairly Trained, which certifies models trained only on licensed content, help to some degree, but for now, there's a good chance that many of the AI tools creators use were trained on unlicensed work."
+        },
+        {
+          "t": "p",
+          "x": "As a public broadcaster, the BBC always faces tougher scrutiny over its AI policies. Last year, 'BBC Introducing' West Midlands came under fire for featuring a mediocre AI-generated track in its artist-of-the-month segment, even though it seemed to be doing so to spark discussion about music AI tools on air."
+        },
+        {
+          "t": "p",
+          "x": "In a blog post published yesterday, Clarke said artists who use AI tools will still be considered for airplay. But she drew a line: 'these tools should be used to support human creativity, not to replace the human role of developing, refining, and expressing the creative idea itself.' Simply entering a prompt, generating and picking a result, or lightly touching up an AI output isn't enough to count as meaningful human creativity."
+        },
+        {
+          "t": "p",
+          "x": "This transparency policy grew out of listener research, which found that listeners care about musicians and human creativity and want to know how much AI was involved in the music they hear. So the BBC decided to require artists and partners submitting work to disclose whether and how they used AI."
+        },
+        {
+          "t": "p",
+          "x": "This touches on a debate that's heating up across the music industry. Opinions differ on how useful automated tools for flagging AI music really are, especially for music that AI merely assisted rather than fully created. The industry still has no broad rules for self-reporting AI use, and those rules are now becoming urgent."
+        }
+      ]
+    },
+    "music/brand-audit-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The way people discover music has completely changed. Fans, booking agents, even labels no longer just type an artist's name into a search box. They ask AI like ChatGPT, Claude, or Google Gemini questions like \"who's an up-and-coming neo-soul artist in Roanoke, Virginia\" or \"recommend an indie rock band touring small venues in my area.\""
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/photo-1743796055664-3473eedab36e.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Asking fans to dig through social media isn't a bad idea. But if your online presence isn't tuned for both traditional search optimization and today's AI recommendation engines, you're letting new fans and ticket sales slip away."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that the algorithm knows you too well. Search your band's name from your own laptop or phone, and Google pulls in your search history, location, and cookies to give you a result tailored just for you. When your latest Spotify release and your website pop up at the top, it's easy to assume your search optimization is flawless. To see what a potential fan or a local booking agent actually sees, you need to strip away that bias. Opening an incognito window keeps the search engine from drawing on your past behavior, revealing your real, unprocessed exposure."
+        },
+        {
+          "t": "p",
+          "x": "There are three things to check. See whether the top results lead to your official website and your current music service profiles, or whether they drift off to a dead MySpace page or a five-year-old local article, and fix the narrative accordingly. Both search and AI favor local context, so check whether your hometown, venue history, and local press are properly tied to your identity. AI models learn from structured data scattered across the web, and if you're not accurately represented on places like Google, Wikipedia, and MusicBrainz, AI won't recommend you."
+        },
+        {
+          "t": "p",
+          "x": "The method is simple. Open an incognito window in Chrome, Safari, Edge, or Firefox, search your artist name, and see whether your active social accounts, Spotify, and website occupy the top spots. Also test local search with keywords pairing a genre and a city (for example, \"Chicago indie pop band\"). Then ask ChatGPT or Claude questions like \"who is the musician [name]\" or \"recommend artists similar to [name].\" Note any missing links, outdated photos, or incorrect genre descriptions, and fix your profiles, bio, and, above all, your metadata."
+        },
+        {
+          "t": "p",
+          "x": "Managing your search exposure is no longer vanity — it's infrastructure for a modern music career. AI chatbots and location-based search algorithms are the new gatekeepers of fan discovery and local bookings. If you don't take charge of the data feeding into these engines yourself, you risk being invisible to a local booking agent or your next devoted fan altogether."
+        }
+      ]
+    },
+    "music/ciauru": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Italian DJ and producer Ciauru has won the Repli AI music contest, a competition for experiments spanning AI, music, and live performance."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LJqZcGQnRf5zmTFYbHgkVZ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He clinched the win after taking the stage at Kappa FuturFestival in Turin, alongside four other finalists chosen by an international jury. His winning piece, 'Raw Botanical Data,' used platforms like Krea (Krea.ai), SeeDance, and Higgsfield to turn video material into \"impossible movement, recursive spatial structures, unstable textures.\""
+        },
+        {
+          "t": "video",
+          "yt": "WID7ZZZ8Oog"
+        },
+        {
+          "t": "p",
+          "x": "Ciauru, whose real name is Simone Privitera, said: \"Artificial intelligence isn't necessarily a threat or an obstacle. This time I used it creatively. Everything started in human hands, and those hands drove 90% of the work.\""
+        },
+        {
+          "t": "p",
+          "x": "More than 1,400 entries were reportedly submitted to Repli for the contest. In that crowded field, it was ultimately a seasoned creator who rose to the top. Privitera has worked with well-known artists including Italian electro house heavyweight Benny Benassi, Dutch DJ Don Diablo, and American superproducer Steve Aoki."
+        },
+        {
+          "t": "p",
+          "x": "Of course, many in the industry don't look kindly on his choice to dive headfirst into the contentious world of AI music. Jay Ahern, Chief Strategy Officer at the Association For Electronic Music (AFEM), recently warned of the risk of AI being used to \"completely replicate someone else's creative work.\" The formation of the anti-AI band Bootleg Velvet Sundown shows just how far some artists are willing to go to protect live performers and reject AI in music."
+        },
+        {
+          "t": "p",
+          "x": "\"AI was a huge help in speeding up a process that would otherwise have taken much longer,\" Privitera said. \"I hope more emerging artists take part. Building a connection with these platforms through efforts like this isn't just possible, it's extremely effective.\""
+        }
+      ]
+    },
+    "music/m-compressor-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/techivation_m-compressor_2-TvIvyE7Qeq8UiOcsBlz0Y54SG.6wIA8N.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Techivation has released M-Compressor 2, an upgrade to its spectral compression plugin. Several things have noticeably changed."
+        },
+        {
+          "t": "p",
+          "x": "The original's core features remain, combining upward compression, downward compression and gating. The Up, Down and Gate functions each have independent thresholds: signals above the Down threshold are reduced through standard downward compression, signals between the Up and Gate thresholds are boosted, and anything below the Gate threshold is attenuated."
+        },
+        {
+          "t": "p",
+          "x": "As a spectral compressor, it applies different amounts of compression across frequency bands without splitting into multiple bands. Users can adjust the spectral parameters directly, or turn on the Shaping control, which continuously analyzes incoming audio and adjusts compression to prevent “muddy” or “harsh” sound."
+        },
+        {
+          "t": "p",
+          "x": "The headline feature is the new Mix Assistant tool. It brings all of the plugin's parameters together into a single control. The tool analyzes the incoming audio and generates 12 compression settings tailored to the track. Users pick four of them and move smoothly between them to intuitively dial in the compression character they want."
+        },
+        {
+          "t": "p",
+          "x": "It's compatible with Windows 7 or later and macOS 10.15 or later, and comes in VST, VST3, AU and AAX formats."
+        },
+        {
+          "t": "p",
+          "x": "The introductory price is $55 through July 20, 2026, after which it rises to $149. It's available to buy right now."
+        }
+      ]
+    },
+    "music/devocean": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ocean Swift released DevOcean Modular, a software modular synth and sound design environment with 145 modules. What stands out is MaYa, a modular AI agent built in. It patches alongside the user, suggesting which modules to use and even helping wire up the connections itself."
+        },
+        {
+          "t": "p",
+          "x": "This differs in kind from generators that turn text into a finished song. It is an early case of generative AI planted in the middle of a modular synth workflow to “patch alongside” the user, touching the very way sound gets made."
+        },
+        {
+          "t": "p",
+          "x": "It is priced at 129.99 euros, 35% off the list price of 199 euros, with the discount running through September 1, 2026."
+        }
+      ]
+    },
+    "music/eldoraudio-midi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eldoraudio has released \"Guitar Audio to MIDI Converter,\" a browser tool that turns guitar recordings into standard MIDI files."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/guitar-midi-1-728x364.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The guitar converter is a new addition to the existing \"Piano Audio to MIDI Converter.\" Users upload an audio file and adjust the BPM if needed, and get back a MIDI transcription they can refine in a DAW."
+        },
+        {
+          "t": "p",
+          "x": "It could help those who record guitar parts first and worry about MIDI later. Once a part is in MIDI, wrong notes can be fixed, timing tightened, tempo changed, or virtual instruments layered in, all without replaying the part from scratch."
+        },
+        {
+          "t": "p",
+          "x": "It accepts common audio formats such as MP3, WAV, FLAC and M4A. Free users can convert the first 30 seconds of a file without signing up or registering a card."
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio says the current model is tuned for clean guitar. It is optimized for steel-string, nylon-string, clean electric and jazz guitar recordings. A model dedicated to distorted and overdriven electric guitar is in the works. For now, the company says accuracy drops noticeably on distorted guitar."
+        },
+        {
+          "t": "p",
+          "x": "The tool deliberately does not capture pitch bends. The company explains that models which attempt to track bends tend to handle them clumsily and throw off pitch, so it focuses on note accuracy and leaves bends to manual editing."
+        },
+        {
+          "t": "p",
+          "x": "Because the output is a standard MIDI file, it can be imported into most DAWs, notation apps and tab tools. Native export to Guitar Pro and MusicXML isn't available yet, but the company says both are on the roadmap."
+        },
+        {
+          "t": "p",
+          "x": "Although the model is tuned for solo guitar, it can also isolate guitar parts from mixed recordings and work on instruments such as harp, violin or piano. Still, for piano-focused recordings the dedicated piano converter works better."
+        },
+        {
+          "t": "p",
+          "x": "The Eldoraudio platform also offers other audio conversion tools, including a stem splitter and a vocal remover. The guitar converter is the latest addition to that lineup."
+        },
+        {
+          "t": "p",
+          "x": "Uploads are capped at 100MB, and paid plans support files up to 30 minutes long. Longer conversions are billed by the second at a flex rate of $0.25 per minute. Top-ups start at $5 for 20 minutes. A $15-a-month Pro plan provides 1,000 minutes of processing time and can be canceled anytime."
+        },
+        {
+          "t": "p",
+          "x": "Eldoraudio said users may use the converted files commercially if they hold the rights to the uploaded audio."
+        }
+      ]
     }
   }
 }
