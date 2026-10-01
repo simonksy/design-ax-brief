@@ -138,4 +138,25 @@ assert any("number" in e for e in check(src_f500, tgt_f200, "en"))
 # that a following Latin letter could demote to a mere suffix.
 assert numbers("100万users") == {1000000.0}
 
+# Fix round 4: 조/兆 is the ×10^12 multiplier ONLY when money or a smaller CJK
+# magnitude unit follows it — Korean/Japanese legal copy uses the same character for
+# an "Article" marker ("제4조", "9401조 (3)항", "4조 3항"), which must stay a bare,
+# un-multiplied number (and the usual ≤31 bare-integer exemption still applies).
+assert numbers("미국 연방법전 15편 9401조 (3)항") == {9401.0}
+assert numbers("4조 3항에 따라") == set()
+assert numbers("4조 원 규모") == {4e12}
+assert numbers("1조 2천억 원") == {1.2e12}
+assert numbers("3兆円") == {3e12}
+src_art = {"headline": "법 개정안\n9401조 (3)항",
+           "body": "9401조 (3)항에 따라 해당 조치가 즉시 시행된다는 설명이 뒤따랐다.",
+           "full": {"blocks": []}}
+tgt_art = {"headline": "Amendment under\n§ 9401(3) rule",
+           "body": "Officials explained that the measure takes effect immediately under § 9401(3) of the code.",
+           "full": {"blocks": []}}
+assert check(src_art, tgt_art, "en") == [], check(src_art, tgt_art, "en")
+
+# Fix round 4: geographic/organizational acronyms are routinely translated (欧盟,
+# 美国, 联合国, ONU, UE, EE. UU.) and are not brand names.
+assert brand_tokens("EU and US at the UN") == set()
+
 print("translate_check OK")

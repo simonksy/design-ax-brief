@@ -55,7 +55,29 @@ UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
 NUM_CORE = r"\d{1,3}(?:[,.]\d{3})+(?!\d)|\d+(?:[.,]\d+)?"
 NUM = re.compile(r"(" + NUM_CORE + r")\s*(" + UNIT + r")?", re.I)
 CURRENCY_SYMS = "$€£¥₩"
-CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
+CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|엔|위안|유로|ドル|円|美元|元|dólares|euros|dollars", re.I)
+
+# 조/兆 is ambiguous in Korean/Japanese: it's the ×10^12 multiplier ("4조 원" = 4
+# trillion won), but it's ALSO the word for a law/contract "Article" ("제4조" =
+# "Article 4", "9401조 (3)항" = "§ 9401(3)") — a shape real legal/regulatory copy
+# uses constantly. Treat it as the multiplier only when money or a smaller CJK
+# magnitude unit follows (after optional whitespace, possibly with a digit run in
+# between when it chains, e.g. "1조 2천억 원"); never when "제" precedes it, or an
+# article/clause marker ("항", optionally as "(N)항") immediately follows.
+TRILLION_CHARS = {"조", "兆"}
+_TRILLION_SMALLER = "억億亿만萬万천千"
+_ARTICLE_RE = re.compile(r"\s*(?:\(\d+\)|\d+)?\s*항")
+
+
+def _trillion_valid(text, start, unit_end):
+    if start >= 1 and text[start - 1] == "제":
+        return False
+    rest = text[unit_end:]
+    if _ARTICLE_RE.match(rest):
+        return False
+    if CURRENCY.match(rest.lstrip()):
+        return True
+    return bool(re.match(r"\s*\d*[" + _TRILLION_SMALLER + "]", rest))
 
 
 def _latin(ch):
@@ -125,6 +147,11 @@ def _scan(text):
         # 1,000,000, since "万" isn't a Latin abbreviation that a following Latin
         # letter could turn into a mere suffix.
         if unit and mult != 1 and not is_cjk and _latin(text[m.end(): m.end() + 1]):
+            mult, is_cjk = 1, False
+        # 조/兆 alone is often an "Article" marker, not the trillion multiplier —
+        # see _trillion_valid. (A 조/兆 stacked with other CJK magnitude characters,
+        # e.g. "천조", is unambiguous and left alone.)
+        if unit in TRILLION_CHARS and not _trillion_valid(text, start, m.end()):
             mult, is_cjk = 1, False
         matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
 
@@ -199,7 +226,8 @@ BRAND = re.compile(r"(?<![A-Za-z0-9])[A-Za-z][A-Za-z0-9.+\-]*[A-Za-z0-9](?![A-Za
 # translation is free to render them natively (Spanish "IA" for "AI", Chinese "界面"
 # for "UI") without that counting as a dropped brand/name.
 GENERIC_ACRONYMS = {"ai", "ui", "ux", "ceo", "cto", "cfo", "coo", "cpo",
-                     "vr", "ar", "xr", "pc", "tv", "os"}
+                     "vr", "ar", "xr", "pc", "tv", "os",
+                     "eu", "us", "usa", "uk", "un", "g7", "g20", "nato", "oecd", "who"}
 
 
 def brand_tokens(text):
