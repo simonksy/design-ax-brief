@@ -5,7 +5,9 @@
   var TAGS = { en: "en-US", ko: "ko-KR", ja: "ja-JP", zh: "zh-CN", es: "es-ES" };
   window.AX_LANG_TAG = TAGS[LANG] || "ko-KR";
   window.t = function (key, vars) {
-    var s = (window.AX_I18N && window.AX_I18N[key]) || (window.AX_I18N_KO && window.AX_I18N_KO[key]) || key;
+    var own = Object.prototype.hasOwnProperty;
+    var s = window.AX_I18N && own.call(window.AX_I18N, key) ? window.AX_I18N[key]
+      : window.AX_I18N_KO && own.call(window.AX_I18N_KO, key) ? window.AX_I18N_KO[key] : key;
     if (vars) for (var k in vars) s = s.split("{" + k + "}").join(String(vars[k]));
     return s;
   };

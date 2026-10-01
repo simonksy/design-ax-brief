@@ -389,7 +389,7 @@ function axBodyFor(tool) {
 function axEnrich(item) {
   return {
     ...item,
-    eyebrow: item.eyebrow || 'AI NEWS',
+    eyebrow: item.eyebrow || tx('card.eyebrow_default'),
     motif: item.motif || axMotifFor(item.tool),
     body: item.body || axBodyFor(item.tool),
   };
@@ -476,7 +476,7 @@ function ShareButton({ url, t }) {
         transition: 'opacity .18s ease, transform .18s ease', pointerEvents: 'none', whiteSpace: 'nowrap',
         background: t.hl, color: '#fff', fontFamily: 'var(--font-mono)', fontSize: 11, letterSpacing: '.04em',
         padding: '6px 10px', borderRadius: 8, boxShadow: '0 6px 16px -6px rgba(40,30,20,.5)' }}>
-        copied
+        {tx('share.copied')}
         <span style={{ position: 'absolute', top: '100%', left: '50%', transform: 'translateX(-50%)',
           borderLeft: '5px solid transparent', borderRight: '5px solid transparent', borderTop: `5px solid ${t.hl}` }} />
       </div>
@@ -535,7 +535,7 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
         <div style={{ flex: '0 0 auto', borderTop: `1px solid ${t.rule}`, paddingTop: mobile ? 13 : 14, marginTop: mobile ? 14 : 18 }}>
           {onExpand ? (
             <div style={{ display: 'flex', alignItems: 'center', gap: 9 }}>
-              <div style={{ flex: 1, minWidth: 0 }}><AxPill label="Read" onClick={onExpand} t={t} /></div>
+              <div style={{ flex: 1, minWidth: 0 }}><AxPill label={tx('card.read')} onClick={onExpand} t={t} /></div>
               {shareUrl && <ShareButton url={shareUrl} t={t} />}
             </div>
           ) : (
@@ -557,7 +557,7 @@ function renderFullBlocks(blocks) {
     if (b.t === 'video') return (
       <div key={i} className="ax-vid">
         {b.yt
-          ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title="video" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
+          ? <iframe src={`https://www.youtube.com/embed/${b.yt}`} title={tx('common.video')} allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowFullScreen />
           : <video src={b.src} poster={b.poster || undefined} controls playsInline />}
       </div>
     );
@@ -605,7 +605,7 @@ function FullArticle({ item, t, section, onClose }) {
           background: `linear-gradient(to top, ${solid} 56%, ${solid}d9 78%, ${solid}00)`,
           pointerEvents: 'none', zIndex: 5 }}>
           <div style={{ pointerEvents: 'auto', maxWidth: 520, margin: '0 auto' }}>
-            <AxPill label="close" onClick={onClose} t={t} />
+            <AxPill label={tx('common.close_pill')} onClick={onClose} t={t} />
           </div>
         </div>
       )}
@@ -658,7 +658,7 @@ function PremiumFullArticle({ item, t, section, onClose }) {
           background: `linear-gradient(to top, ${solid} 56%, ${solid}d9 78%, ${solid}00)`,
           pointerEvents: 'none', zIndex: 5 }}>
           <div style={{ pointerEvents: 'auto', maxWidth: 520, margin: '0 auto' }}>
-            <AxPill label="close" onClick={onClose} t={t} />
+            <AxPill label={tx('common.close_pill')} onClick={onClose} t={t} />
           </div>
         </div>
       )}
@@ -993,7 +993,7 @@ function Masthead({ t, mobile, onHome }) {
         <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl}
           fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
       </div>
-      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>Daily Brief · {ds}</div>
+      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>{tx('masthead.daily_brief')} · {ds}</div>
     </div>
   );
 }
@@ -1091,7 +1091,7 @@ function ProBadge({ onClick }) {
       style={{ display: 'inline-flex', alignItems: 'center', cursor: 'pointer', background: '#1c1a18', color: '#fff',
         fontFamily: 'Pretendard, system-ui', fontSize: 11.5, fontWeight: 600, letterSpacing: '.01em',
         padding: '5px 12px', borderRadius: 999, whiteSpace: 'nowrap' }}>
-      Become a Pro
+      {tx('paywall.become_pro')}
     </span>
   );
 }
@@ -1114,7 +1114,7 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
     <section style={{ paddingTop: 92 }} onMouseLeave={clear}>
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
-          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
+          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>{tx('deck.past_days')}</span>
         <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>
           {entitled
@@ -1211,7 +1211,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
     <section style={{ paddingTop: 30 }}>
       <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
-          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past Days</span>
+          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>{tx('deck.past_days')}</span>
         <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>
           {entitled ? tx('deck.hint_mobile')
@@ -1283,7 +1283,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
             style={insightsActive
               ? { background: '#7928ca', color: '#fff', border: '1px solid #7928ca' }
               : { background: 'rgba(121,40,202,.08)', color: '#7928ca', border: '1px solid #7928ca' }}>
-            ✦ Knowledge Graph
+            {tx('insights.tab_label')}
           </button>
           <span aria-hidden style={{ alignSelf: 'center', color: t.rule, fontSize: 15, padding: '0 3px', userSelect: 'none' }}>|</span>
         </React.Fragment>
@@ -1336,7 +1336,7 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
           fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 16,
           color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
-        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1 }}>Daily Brief · {ds}</div>
+        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1 }}>{tx('masthead.daily_brief')} · {ds}</div>
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
       <div ref={tabsRef} style={{ padding: `0 ${g}px 12px` }}>
@@ -1360,10 +1360,7 @@ const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#9aa8c7',
 };
-const INSIGHTS_LABELS = {
-  design: 'Design', music: 'Music', movies: 'Movies', games: 'Games',
-  books: 'Books', gadgets: 'Gadgets', science: 'Science', politics: 'Politics',
-};
+const insightsLabel = (sec) => tx('insights.legend_' + sec);   // legend label per section key
 const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
 const INSIGHTS_GAP = 14;
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
@@ -1914,7 +1911,7 @@ function InsightsView({ t, mobile, entitled }) {
      넘겨 entitled 플립(백면 PremiumFullArticle이 /api/premium/full에서 전문 로드,
      맨 아래 SourceLine 원문 링크까지 본 카드와 동일)을 그대로 탄다. */
   const toItem = (c) => ({
-    id: c.id, eyebrow: 'AI NEWS', headline: c.headline, body: c.body,
+    id: c.id, eyebrow: tx('card.eyebrow_default'), headline: c.headline, body: c.body,
     tool: c.tool, source: c.source, url: c.url, accent: c.accent,
     motif: c.motif, image: c.image,
     // Pro: locked 플립(전문). 무료: 플립 없이 원문 링크(SourceLine)만
@@ -2003,7 +2000,7 @@ function InsightsView({ t, mobile, entitled }) {
                     padding: '4px 10px', opacity: off ? 0.45 : 1, cursor: 'pointer' }}>
                   <span style={{ width: 8, height: 8, borderRadius: '50%', background: INSIGHTS_COLORS[s] }} />
                   <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 9.5,
-                    textDecoration: off ? 'line-through' : 'none' }}>{INSIGHTS_LABELS[s]}</span>
+                    textDecoration: off ? 'line-through' : 'none' }}>{insightsLabel(s)}</span>
                 </button>
               );
             })}
@@ -2022,7 +2019,7 @@ function InsightsView({ t, mobile, entitled }) {
                 <span style={{ width: 9, height: 9, borderRadius: '50%', flex: '0 0 auto',
                   background: INSIGHTS_COLORS[s] }} />
                 <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10, flex: 1, minWidth: 52 }}>
-                  {INSIGHTS_LABELS[s]}
+                  {insightsLabel(s)}
                 </span>
                 {/* 눈 아이콘 — 뜬 눈 = 표시 중, 감은 눈 = 숨김 */}
                 {off ? (

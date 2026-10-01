@@ -364,7 +364,7 @@ function axBodyFor(tool) {
 function axEnrich(item) {
   return {
     ...item,
-    eyebrow: item.eyebrow || 'AI NEWS',
+    eyebrow: item.eyebrow || tx('card.eyebrow_default'),
     motif: item.motif || axMotifFor(item.tool),
     body: item.body || axBodyFor(item.tool),
   };
@@ -507,7 +507,7 @@ function Masthead({ t }) {
   return (
     <header className="ax-top">
       <span style={{ fontFamily: 'var(--font-sans)', fontWeight: 600, fontSize: 19, letterSpacing: '-0.03em', color: t.hl }}>Design AX</span>
-      <span className="ax-eyebrow" style={{ color: t.mute }}>Daily Brief · {ds}</span>
+      <span className="ax-eyebrow" style={{ color: t.mute }}>{tx('masthead.daily_brief')} · {ds}</span>
     </header>
   );
 }
@@ -639,7 +639,7 @@ function ArchiveGallery({ t, onOpen }) {
           padding: 'clamp(70px,12vh,130px) 24px clamp(20px,4vh,44px)' }}>
         <span className="ax-rev ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
           borderRadius: 100, border: t.cardBorder, background: t.cardBg, transitionDelay: '0s',
-          WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>Past 5 Days</span>
+          WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>{tx('deck.past_5_days')}</span>
         <h2 className="ax-rev ax-hl" style={{ fontSize: 'clamp(30px,3.8vw,46px)', lineHeight: 1.14, color: t.hl,
           margin: '18px 0 10px', transitionDelay: '.1s' }}>{tx('deck.title')}</h2>
         <p className="ax-rev ax-body" style={{ fontSize: 16, color: t.body, margin: 0, transitionDelay: '.2s' }}>
@@ -737,7 +737,7 @@ function HeroExpand({ t }) {
   const zoneRef = useRef(), stickyRef = useRef(), mediaRef = useRef(), logoRef = useRef(),
         scrimRef = useRef(), dateRef = useRef(), hintRef = useRef();
   const d = new Date();
-  const edition = `Daily Brief · ${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+  const edition = `${tx('masthead.daily_brief')} · ${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   useEffect(() => {
     const c01 = (x) => Math.max(0, Math.min(1, x));
     const lerp = (a, b, x) => a + (b - a) * x;
@@ -820,7 +820,7 @@ function HeroExpand({ t }) {
       {/* scroll cue stays pinned at the bottom through the whole hero — until the
           first news card is fully up — so the full-screen GIF isn't mistaken for it */}
       <div ref={hintRef} className="ax-hero-hint" aria-hidden>
-        <span>SCROLL</span>
+        <span>{tx('large.scroll')}</span>
         <span className="ax-hint-arrow">↓</span>
       </div>
     </React.Fragment>

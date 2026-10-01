@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archive · AX-it NOW</title>
-<meta name="description" content="" data-i18n-content="archive.meta_description">
+<title data-i18n="archive.page_title">Archive · AX-it NOW</title>
+<meta name="description" content="AX-it NOW가 지금까지 발행한 모든 AI 뉴스 카드 아카이브" data-i18n-content="archive.meta_description">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css">
 <style>
   * { box-sizing: border-box; }
@@ -157,14 +157,14 @@
 <div class="wrap">
   <header>
     <a class="back" href="/">← AX-it NOW</a>
-    <h1>Archive</h1>
+    <h1 data-i18n="archive.heading">Archive</h1>
     <div class="count" id="count"></div>
   </header>
   <div class="controls">
     <!-- 네트워크 뷰는 본 앱의 Insights(Pro 전용) 메뉴로 이동 — 여기는 리스트 전용 -->
     <div class="views" hidden>
-      <button class="view-btn on" id="v-list">List</button>
-      <button class="view-btn" id="v-graph">Network</button>
+      <button class="view-btn on" id="v-list" data-i18n="archive.view_list">List</button>
+      <button class="view-btn" id="v-graph" data-i18n="archive.view_network">Network</button>
     </div>
     <div class="tabs" id="tabs"></div>
     <input class="search" id="q" type="search" placeholder="" data-i18n-placeholder="archive.search_placeholder" autocomplete="off">
@@ -205,7 +205,7 @@
   var state = { sec: "all", q: "" };
 
   /* 탭 */
-  var tabs = [{ key: "all", label: "All" }].concat(
+  var tabs = [{ key: "all", label: t("archive.tab_all") }].concat(
     SECTIONS.filter(function (s) { return present[s.key]; }));
   tabs.forEach(function (tab) {
     var b = document.createElement("button");
@@ -299,8 +299,8 @@
     emptyEl.hidden = groups.length > 0;
     renderChunk();
     var total = groups.reduce(function (n, g) { return n + g.cards.length; }, 0);
-    $("count").textContent = total + " cards · " +
-      (groups.length ? kr(groups[groups.length - 1].date) + " – " + kr(groups[0].date) : "");
+    $("count").textContent = t("archive.count", { n: total,
+      range: groups.length ? kr(groups[groups.length - 1].date) + " – " + kr(groups[0].date) : "" });
   }
 
   /* 무한 스크롤 */
@@ -335,8 +335,8 @@
     var nodes = GD.nodes.filter(nodeMatch);
     var ok = {}; nodes.forEach(function (n) { ok[n.id] = 1; });
     var links = GD.links.filter(function (l) {
-      var s = l.source.id || l.source, t = l.target.id || l.target;
-      return ok[s] && ok[t];
+      var s = l.source.id || l.source, tg = l.target.id || l.target;
+      return ok[s] && ok[tg];
     }).map(function (l) {
       return { source: l.source.id || l.source, target: l.target.id || l.target, w: l.w, kw: l.kw };
     });
@@ -397,7 +397,7 @@
       '<div class="bigcard" style="--a:' + esc(c.accent || "#171717") + '">' +
         thumbHTML(c, "bc-img", "bc-ph") +
         '<div class="bc-body">' +
-          '<div class="bc-eyebrow"><span>AI NEWS · <b>' + esc(c.tool || c.section) + '</b></span>' +
+          '<div class="bc-eyebrow"><span>' + t("archive.eyebrow") + ' · <b>' + esc(c.tool || c.section) + '</b></span>' +
             '<span>' + esc(kr(c.date)) + " · " + esc(c.source || "") + '</span></div>' +
           '<div class="bc-hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
           '<div class="bc-bd">' + esc(c.body || "") + '</div>' +
@@ -453,8 +453,8 @@
       })
       .linkColor(function (l) {
         var f = focusId();
-        var s = l.source.id || l.source, t = l.target.id || l.target;
-        if (f && (s === f || t === f)) {
+        var s = l.source.id || l.source, tg = l.target.id || l.target;
+        if (f && (s === f || tg === f)) {
           var fc = CARD[f];
           return withAlpha(fc && fc.accent, 0.65);
         }
@@ -462,8 +462,8 @@
       })
       .linkWidth(function (l) {
         var f = focusId();
-        var s = l.source.id || l.source, t = l.target.id || l.target;
-        return (f && (s === f || t === f)) ? 1.8 : 0.8;
+        var s = l.source.id || l.source, tg = l.target.id || l.target;
+        return (f && (s === f || tg === f)) ? 1.8 : 0.8;
       })
       .nodeLabel(tipHTML)
       .onNodeHover(function (n) { hover = n || null; el.style.cursor = n ? "pointer" : "default"; })
