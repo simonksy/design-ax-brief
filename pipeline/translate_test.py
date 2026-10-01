@@ -75,6 +75,18 @@ assert tr.apply_ui(d2, retry, {"ui|ja": {"a.x": "購読", "a.y": "{date}のニ�
 assert json.load(open(f"{d2}/i18n/ja.json"))["a.y"] == "{date}のニュースを表示中"
 r = run("jobs", "--ui", "--root", d2, "--out", os.path.join(d2, "jobs_ui.json"))
 assert r.returncode == 0 and json.load(open(os.path.join(d2, "jobs_ui.json")))["kind"] == "ui"
+# check: re-validate after Korean humanize edits; broken language -> fallback; top-level = ko
+d3 = tempfile.mkdtemp(); f3 = os.path.join(d3, "cards_y.json")
+c3 = dict(card, text={"en": SRC, "ko": dict(KO, body="짧다.")})
+json.dump({"date": "2026-10-02", "cards": [c3]}, open(f3, "w"), ensure_ascii=False)
+assert tr.main(["check", f3]) == 0
+c3o = json.load(open(f3))["cards"][0]
+assert "ko" not in c3o["text"] and c3o["i18n_status"] == {"ko": "fallback"}
+c4 = dict(card, text={"en": SRC, "ko": KO})
+json.dump({"date": "2026-10-02", "cards": [c4]}, open(f3, "w"), ensure_ascii=False)
+tr.main(["check", f3])
+assert json.load(open(f3))["cards"][0]["body"] == KO["body"]
+
 print("translate OK")
 
 # Fix round 1: malformed answers files and non-str/dict replies must not crash

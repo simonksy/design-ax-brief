@@ -231,6 +231,30 @@ def apply_ui(root, jobs, answers):
     return retry
 
 
+def recheck_card(card):
+    card = json.loads(json.dumps(card))
+    src, src_lang = source_fields(card)
+    status = dict(card.get("i18n_status") or {})
+    for lang in [l for l in LANGS if l != src_lang and l in (card.get("text") or {})]:
+        errs = check(src, card["text"][lang], lang)
+        if errs:
+            del card["text"][lang]
+            status[lang] = "fallback"
+            print(f"  [{card.get('id')}] {lang} failed re-check: {'; '.join(errs)}", file=sys.stderr)
+    if status:
+        card["i18n_status"] = status
+    if (card.get("text") or {}).get("ko"):
+        card.update({k: v for k, v in card["text"]["ko"].items() if k in TEXT_FIELDS})
+    return card
+
+
+def cmd_check(path):
+    doc = _load(path)
+    doc["cards"] = [recheck_card(c) for c in doc.get("cards", [])]
+    _save(path, doc)
+    return 0
+
+
 def cmd_jobs(kind, path, out, **kw):
     doc = _load(path)
     jobs = [j for key, c in TARGETS[kind](doc, **kw).items() for j in card_jobs(c, key)]
@@ -293,6 +317,8 @@ def main(argv):
     a.add_argument("--jobs", required=True)
     a.add_argument("--answers", required=True)
     a.add_argument("--retry-out")
+    c = sub.add_parser("check")
+    c.add_argument("path")
     args = ap.parse_args(argv)
     if args.cmd == "jobs":
         if args.ui:
@@ -300,6 +326,8 @@ def main(argv):
         if not args.cards:
             ap.error("jobs needs --cards or --ui")
         return cmd_jobs("cards", args.cards, args.out)
+    if args.cmd == "check":
+        return cmd_check(args.path)
     return cmd_apply(args.jobs, args.answers, args.retry_out)
 
 
