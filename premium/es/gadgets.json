@@ -1199,6 +1199,971 @@
           "x": "El modo sin conexión también tiene límites. Timekettle ofrece 14 pares de idiomas sin conexión, los dos primeros gratis y el resto a 10 dólares cada uno. La traducción de medios, las llamadas y las funciones avanzadas de IA necesitan internet. Muchos de estos productos también funcionan como auriculares para llamadas o música, así que revisar qué funciones necesitas evita comprar dos pares."
         }
       ]
+    },
+    "gadgets/kindle-ask-book": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon está incorporando IA de lleno a la experiencia de lectura de Kindle. La empresa describe estas funciones, anunciadas oficialmente en junio de 2026, como una forma de ayudar a los lectores a \"sumergirse más en los libros\". El núcleo son los resúmenes sin spoilers y un asistente de IA que aporta contexto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/intro-1782429214.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, no todos pueden disfrutarlo. La función de resúmenes se abrió primero a los Kindle relativamente recientes y a los usuarios de iOS en EE. UU., y el chatbot 'Ask This Book' por ahora solo funciona en la versión estadounidense de la app de iOS de Kindle. Los dispositivos Kindle y la app de Android lo recibirán de forma escalonada hasta finales de 2026. Las nuevas funciones solo están disponibles en los Kindle lanzados desde 2024."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/previously-on-kindle-1782429215.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Recaps, pensado como un 'anteriormente en' televisivo, repasa rápidamente la trama y la evolución de los personajes de los volúmenes anteriores de una serie. Junto a eso se añadió 'Story So Far', que ofrece un resumen sin spoilers ajustado al punto exacto en que te encuentras del libro. No todos los libros son compatibles, claro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/your-new-ai-reading-assistant-1782429216.jpg"
+        },
+        {
+          "t": "p",
+          "x": "'Ask This Book' es un chatbot que responde preguntas sobre la trama, las relaciones entre personajes y los temas sin interrumpir el flujo de lectura. Las respuestas se ajustan a dónde estás leyendo en ese momento, pero también se puede preguntar sobre el libro completo. También se puede resaltar una frase y preguntar específicamente sobre ese pasaje."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/the-kindle-app-for-ios-has-features-your-aging-kindle-doesnt/a-controversial-new-feature-1782429217.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También ha generado controversia. The Authors Guild critica que Amazon haya incorporado obras al chatbot sin el permiso previo de los titulares de derechos. Amazon responde que 'Ask This Book' solo usa el contenido del libro como prompt, no para entrenar el modelo, y que es una extensión en lenguaje natural de una función de búsqueda ya existente, por lo que no requiere una licencia aparte."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, autores y editoriales no tienen forma de excluir sus libros del chatbot. Amazon afirma que no incluyó una opción para excluirse en aras de una \"experiencia de lectura coherente\". Con Amazon controlando aproximadamente tres cuartas partes del mercado de libros electrónicos, el margen para oponerse es aún más estrecho. The Authors Guild dice que esta función sienta un precedente peligroso para la concesión de licencias de funciones de IA."
+        }
+      ]
+    },
+    "gadgets/color-touch-sensor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los robots son bastante buenos para ver, pero tocar ha sido siempre un problema mucho más difícil. Los humanos sabemos instintivamente con qué fuerza sujetamos una taza de café, pero los robots han tenido que estimarlo llenándolos de pequeños sensores. El equipo de la Universidad Queen Mary de Londres propone una respuesta mucho más simple: hacer visible el tacto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Touch-Human-Finger.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según un estudio publicado en Science Advances, este sensor táctil cambia de color cada vez que se aplica presión, lo que permite que una cámara normal 'vea' en tiempo real cómo se está tocando un objeto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Mechanochromic-tactile-sensing-Comparison-with-state-of-the-art-vision-based-sensing-strategies-and-example-of-embodiment-in-a-robotic-finger.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En lugar de incrustar miles de sensores de presión electrónicos en la punta de un dedo robótico, el equipo incorporó la capacidad de detección en el propio material. Al presionar la superficie blanda aparecen patrones de color nítidos que revelan directamente dónde se aplicó la presión, cuánta fuerza se ejerció y cómo se deforma el material."
+        },
+        {
+          "t": "p",
+          "x": "El truco está en que este color puede leerse con una cámara USB normal y barata. Ya no hace falta el pesado cálculo de reconstruir el tacto a partir de datos de sensores: basta con mirar el patrón de color para saber al instante qué se está sintiendo. El equipo explica que esto simplifica mucho el hardware sin dejar de obtener un mapa de presión de alta resolución."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Mechanochromic-tactile-sensor-Structure-working-principle-and-examples-of-contact-morphology-maps.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El alcance se extiende más allá del laboratorio. Los investigadores esperan que pueda ayudar a que los robots de fábrica ensamblen piezas pequeñas con más precisión, a que las prótesis de mano obtengan una sensación más natural, y a que los robots quirúrgicos distingan tejido sano de tejido anómalo durante procedimientos delicados."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/Robot-Arm-Robotic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas táctiles existentes suelen obligar a elegir entre velocidad y precisión. Este método, que convierte la presión directamente en color para que la lea una cámara, logra ambas cosas sin cálculos complejos."
+        }
+      ]
+    },
+    "gadgets/dune-keypad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Usar un MacBook implica hacer malabares con atajos distintos en videollamadas, apps de productividad y herramientas de desarrollo. Ha llegado un accesorio que ataca justamente ese punto molesto."
+        },
+        {
+          "t": "p",
+          "x": "Dune, de la startup Project Mirage, es un pequeño accesorio USB-C que añade tres botones programables al MacBook. La función de los botones cambia automáticamente según la app que estés usando, así que en lugar de memorizar atajos, terminas la misma tarea con una sola pulsación."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140905.053.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de los teclados de macros habituales, Dune está hecho exclusivamente para MacBook, con una forma que se ajusta al lateral según cada modelo de laptop. Se conecta directamente al puerto USB-C y toma energía de la laptop, así que no necesita batería ni carga."
+        },
+        {
+          "t": "p",
+          "x": "Los tres botones siguen a la app. En una videollamada se convierten en silenciar el micrófono, encender o apagar la cámara y abrir la ventana de la reunión; en una hoja de cálculo se convierten en copiar, pegar y deshacer. Los desarrolladores pueden asignar acciones para Visual Studio Code o GitHub."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140920.688.jpg?resize=2000%2C1200"
+        },
+        {
+          "t": "p",
+          "x": "Es compatible con MacBook Air con chips M2 o posteriores, MacBook Pro con M1 Pro o posteriores, y macOS Sequoia 15 o superior."
+        },
+        {
+          "t": "p",
+          "x": "La app complementaria que viene incluida permite crear atajos por app o acciones a nivel de todo el sistema. Más allá de comandos de teclado, se pueden asignar a los botones el lanzamiento de apps, abrir sitios web o ejecutar scripts personalizados."
+        },
+        {
+          "t": "p",
+          "x": "Lo más llamativo es la integración con Claude Desktop. En lugar de escribir scripts de automatización a mano, describes con palabras la acción rápida que quieres y Claude genera el código Python necesario y lo asigna a un botón. TechCrunch informó que esto permite que incluso usuarios sin experiencia en programación creen flujos de trabajo personalizados con mucha más facilidad."
+        },
+        {
+          "t": "p",
+          "x": "También se conecta con el calendario. Muestra con antelación las reuniones próximas y, con una sola pulsación, permite unirse a la llamada, descartar el recordatorio o enviar un mensaje de 'voy a llegar un poco tarde'."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/DT-2026-07-05T140911.175.jpg?resize=2000%2C1200"
+        },
+        {
+          "t": "p",
+          "x": "El precio es de 119 dólares por el lanzamiento, y después el precio regular será de 149 dólares. En una tendencia en la que las herramientas de productividad con IA se extienden más allá del software, dispositivos como Dune muestran que los fabricantes de hardware buscan formas de hacer que las operaciones cotidianas del ordenador sean más rápidas e intuitivas. La clave está en cuánto valor le encuentren los usuarios a una biblioteca cada vez mayor de atajos y automatizaciones."
+        }
+      ]
+    },
+    "gadgets/samsung-ufs5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung presentó un chip de almacenamiento UFS 5.0 más pequeño que una uña. Mostrado por primera vez el 23 de junio, Samsung presenta este estándar de almacenamiento embebido como un avance clave para la IA local, es decir, en el dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iejV8QZAxdNZqCmirUU7DN-1678-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Lectura secuencial de hasta 10,8 GB/s y escritura secuencial de hasta 9,5 GB/s: más del doble de los 4,2 GB/s y 2,8 GB/s del estándar UFS predominante actual, según explica Samsung."
+        },
+        {
+          "t": "p",
+          "x": "No se trata solo de un salto de velocidad generacional. Con la demanda de IA en el dispositivo superando ya con creces lo que esperaban varios fabricantes, esto equivale a preparar el terreno para dispositivos que todavía no existen."
+        },
+        {
+          "t": "p",
+          "x": "Con la IA generativa recurriendo con frecuencia a NAND flash rápida en lugar de DRAM cara, y con smartphones y PCs enfrentando subidas de precio en ambos componentes, los productos basados en UFS 5.0 cubren un vacío tanto para los clientes OEM de Samsung como para su propia línea de dispositivos inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Choi Jang-seok, jefe del equipo de planificación de productos de memoria de Samsung Electronics, dijo: 'En la era de la IA en el dispositivo, el almacenamiento está evolucionando hacia un motor central que define la experiencia de IA', y añadió: 'Tras superar con éxito la fase de desarrollo de la primera solución UFS 5.0 de la industria, Samsung establecerá un nuevo estándar para el almacenamiento móvil y seguirá impulsando la innovación en la próxima generación de plataformas móviles'."
+        },
+        {
+          "t": "p",
+          "x": "El encapsulado mide 7,5×13×0,9 mm, un 16,7% más pequeño que la generación anterior, más pequeño que la mayoría de las uñas. A medida que la IA se extiende desde los hyperscalers hasta dispositivos más pequeños que un smartwatch, ese tamaño cobra más peso."
+        },
+        {
+          "t": "p",
+          "x": "El mayor logro podría ser la mejora del 40% en eficiencia energética frente a la generación anterior, lograda manteniendo una velocidad suficiente para ejecutar un modelo local decente. Si se añade una velocidad de lectura aleatoria 5 veces más rápida, todo indica que Samsung está impulsando este módulo como el estándar de facto para la inferencia de IA en el dispositivo, lo que podría representar una amenaza real incluso para los SSD NVMe de gama más alta."
+        }
+      ]
+    },
+    "gadgets/spacex-handheld": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SpaceX, la empresa de internet satelital que salió a bolsa hace poco, podría estar construyendo su propio hardware de IA. The Wall Street Journal informó que SpaceX mostró un dispositivo de IA portátil a inversores antes de su salida a bolsa. De ser cierto, eso la pondría en la misma categoría que Rabbit, y quizá algún día que OpenAI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/space-x-is-reportedly-testing-a-handheld-ai-device/l-intro-1782937421.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Justo después del informe, Elon Musk respondió en una publicación en X y calificó el artículo del WSJ de 'completamente falso'. A continuación, lo que decía el informe original."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que el dispositivo es más fino que un iPhone y funciona con un chip Qualcomm Snapdragon. Se explica que usa su propio sistema operativo y que está vinculado a servicios como el asistente Grok de xAI. Todavía no se sabe para qué piensan usar este dispositivo, ni si realmente planean venderlo."
+        },
+        {
+          "t": "p",
+          "x": "Grok ya puede usarse en cualquier lugar a través de la web, la app de X y una app dedicada, pero montarse en la plataforma de otro tiene un costo. Hay que compartir con Apple una parte de los ingresos por suscripciones vendidas en el iPhone, y queda sujeto a las reglas de cada tienda de apps. Esa es parte de la razón por la que Meta y varias otras empresas quieren lanzar sus propias plataformas de hardware en lugar de depender de iOS o Android."
+        },
+        {
+          "t": "p",
+          "x": "Musk ha dicho abiertamente que no le entusiasma mucho fabricar dispositivos móviles. Aun así, las piezas están en su lugar. En julio de 2025, SpaceX se asoció con T-Mobile para permitir que los smartphones usaran la red satelital de Starlink. Añadir una conectividad similar a un dispositivo de IA propio no sería difícil si la empresa quisiera."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, las noticias de producto vinculadas a Musk o sus empresas conviene tomarlas con cierto escepticismo. SpaceX tiene un historial más sólido que Tesla, que lleva años prometiendo robots personales y conducción autónoma, pero sigue existiendo la posibilidad real de que este dispositivo haya sido más una demostración para entusiasmar a los inversores que un nuevo rumbo de la empresa."
+        }
+      ]
+    },
+    "gadgets/watch9-leak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se espera ampliamente que el Galaxy Watch9 y el Watch Ultra2 se presenten el miércoles 22 de julio. Filtraciones de las últimas semanas ya han revelado el diseño, el precio, una batería notablemente más grande y una pantalla más brillante en el modelo superior, y se rumorea que ambos relojes llevarán el nuevo chip Snapdragon Wear Elite de Qualcomm."
+        },
+        {
+          "t": "p",
+          "x": "El software también se retoca. SammyGuru publicó imágenes de cinco nuevas esferas. 'Analog Balance' y 'Dual Digit' son esferas analógicas y digitales pulcras, cada una con algunas complicaciones. 'Dual Clock Info Board' muestra dos zonas horarias en una sola pantalla, pensada para quienes viajan con frecuencia, mientras que 'Radial Dashboard' coloca las complicaciones en forma de anillo alrededor de la hora digital. 'Ultra Performance' sería exclusiva del Ultra2."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/%5Fnc5/Analog-Balance.png.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/%5Fnc5/Radial-Dashboard.png.webp"
+        },
+        {
+          "t": "p",
+          "x": "También salieron capturas de pantalla de una nueva versión de la app Samsung Galaxy Wearable. Esta actualización, que pulió el diseño y añadió funciones, se espera que llegue también a los usuarios del Watch8. La configuración se vuelve más intuitiva, un smartwatch ocupa el centro de la pantalla de inicio y se añaden nuevas vistas previas de esferas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/%5Fnc5/Screenshot%5F20260704%5F124947%5FWatch-Manager-461x1024.jpg.webp"
+        },
+        {
+          "t": "p",
+          "x": "El One UI 9 Watch incorpora varias funciones nuevas. Con solo ver la pantalla de apps ya se aprecia una función que genera mosaicos con IA, y el asistente de voz Gemini se activa acercando el reloj a la boca, en vez de pulsar un botón o decir una palabra de activación."
+        },
+        {
+          "t": "p",
+          "x": "También se anuncian novedades en salud: recomendaciones de intensidad de entrenamiento, un análisis más amplio de los datos recogidos durante el sueño y un aviso si se permanece demasiado tiempo en un entorno ruidoso. El Ultra2 también incorporaría un modo de trail running que muestra la elevación acumulada y un modo de buceo que se activa automáticamente al alcanzar cierta profundidad."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/%5Fnc5/BcA.png.webp"
+        }
+      ]
+    },
+    "gadgets/meta-super-sensing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según un reportaje de Financial Times, Meta está desarrollando gafas de IA 'Super Sensing'."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%20AM-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas toman una foto cada pocos segundos y graban el sonido ambiente durante todo el día, capturando así de forma continua el día de quien las usa."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a todo ese contexto acumulado, el asistente puede ayudar a recordar dónde se dejó algo o qué acaba de ocurrir."
+        }
+      ]
+    },
+    "gadgets/samsung-gaia": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung está preparando 'Gaia,' un NPU acelerador de IA para PC de cliente. Es un chip pensado para ejecutar IA generativa directamente dentro de un portátil."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4AwuaQsSRccnfs9YmA2RVT-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se informa que HP y Lenovo están probando este chip para incluirlo en su próxima generación de portátiles con IA generativa en el dispositivo. Es una señal de hacia dónde se dirige la próxima ola de portátiles con IA local."
+        }
+      ]
+    },
+    "gadgets/watchos27-siri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La beta 3 de watchOS 27 que Apple lanzó hoy incluye tanto el renovado Siri AI como una app independiente de Siri juntos. Es la primera vez que el Apple Watch tiene ambos."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/siri-watchos-27-apple-watch.webp?w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple dijo en la WWDC de junio que llevaría Siri AI a watchOS 27. Sin embargo, Siri AI no estaba en las dos betas de desarrollador anteriores, y tampoco existía aún una app propia de Siri."
+        },
+        {
+          "t": "p",
+          "x": "A partir de la beta de desarrollador de hoy, el Apple Watch incorpora por primera vez la nueva experiencia de Siri."
+        },
+        {
+          "t": "p",
+          "x": "En la cuadrícula dinámica de apps, ahora renovada, la app de Siri ocupa el lugar central. El sistema elige automáticamente los otros iconos que la rodean."
+        },
+        {
+          "t": "p",
+          "x": "La app de Siri en el Apple Watch se conecta con Siri en el iPhone, el iPad, la Mac y el Vision Pro. Al cambiar de dispositivo, el contexto se mantiene y la conversación continúa."
+        },
+        {
+          "t": "p",
+          "x": "Incluso en un Apple Watch que ya terminó de actualizarse, puede ser necesario esperar un poco antes de usar Siri AI o la app independiente de Siri, mientras se termina de cargar la nueva experiencia de Siri."
+        },
+        {
+          "t": "p",
+          "x": "Con la llegada de Siri AI y la app propia de Siri, una experiencia parecida a ChatGPT llegó por primera vez al Apple Watch."
+        }
+      ]
+    },
+    "gadgets/galaxy-glasses-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/05/Samsung-Galaxy-Glasses-Gentle-Monster-Warby-Parker-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung presentará varios productos nuevos en su próximo evento Unpacked. Durante los últimos meses se ha informado que la empresa hablaría más de las gafas inteligentes allí. Y hoy ha aparecido en línea una filtración importante con detalles interesantes sobre el proyecto Galaxy Glasses."
+        },
+        {
+          "t": "p",
+          "x": "Lo que obtuvo SammyGuru es la app Galaxy Glasses Manager, la aplicación que se usará para conectar las gafas inteligentes al teléfono y acceder a sus distintas funciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/06/leaked-glasses-manager-app-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas que aparecen en las capturas no son las Galaxy Glasses propias de Samsung. Son un producto de la marca Warby Parker que Samsung desarrolla junto con Google y Qualcomm."
+        },
+        {
+          "t": "p",
+          "x": "Según la filtración, estas gafas inteligentes funcionan con One UI XR. No es ninguna sorpresa, ya que ya se había visto en el visor Galaxy XR. Se basa en la plataforma Android XR desarrollada por Google."
+        },
+        {
+          "t": "p",
+          "x": "Todo lo necesario para operar las gafas, desde ajustar la configuración hasta instalar actualizaciones de software y transferir fotos y videos tomados con ellas, se gestiona a través de esta app."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/06/leaked-glasses-manager-app-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como las gafas no estaban realmente conectadas, no fue posible examinar en profundidad todas las funciones, pero las cadenas de código dentro de la app revelan más. Samsung está creando una app aparte, Galaxy Glasses Controller, que se instalará en los relojes inteligentes Galaxy, y también se encontraron indicios de control por gestos mediante el Galaxy Ring."
+        },
+        {
+          "t": "p",
+          "x": "Esta app se usará no solo con las gafas inteligentes propias de Samsung, sino también con los productos que se desarrollan junto con Warby Parker y Gentle Monster. Una razón más para esperar el próximo Unpacked."
+        }
+      ]
+    },
+    "gadgets/ios27-beta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple ya había anunciado que lanzaría la primera beta pública de iOS 27 en julio. Eso significa que debería llegar en algún momento de este mes."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/H9CMBRmw3tzFTEh1pfzWGGINEcI=/2500x/article-new/2026/06/iOS-27-Install-Beta-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La beta pública suele llegar después de la tercera o cuarta beta para desarrolladores. Según el historial, la primera beta pública de todas las versiones desde iOS 16 hasta iOS 26 ha llegado entre el 11 y el 24 de julio. iOS 26 llegó el 24 de julio de 2025; iOS 18, el 15 de julio de 2024; iOS 17, el 12 de julio de 2023; y iOS 16, el 11 de julio de 2022."
+        },
+        {
+          "t": "p",
+          "x": "Una vez que empiece a distribuirse, cualquiera podrá instalarla gratis en un iPhone compatible. Hay que registrarse gratis en beta.apple.com y luego, en la app de Ajustes, ir a General → Actualización de software → Actualizaciones beta y elegir la beta pública de iOS 27 (si no aparece la opción, reinicia el iPhone). Si es difícil esperar, también se puede instalar ya la beta para desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, aunque la primera beta pública sea más estable que la primera beta para desarrolladores, las betas suelen traer errores y problemas de rendimiento. Alguna app favorita puede dejar de funcionar, y los problemas pueden extenderse incluso a CarPlay. Hacer una copia de seguridad antes de instalarla es imprescindible, y si es posible, es más seguro instalarla en un iPhone secundario."
+        },
+        {
+          "t": "p",
+          "x": "iOS 27 es compatible con el iPhone 11 y modelos posteriores, pero funciones de Apple Intelligence como el Siri AI solo funcionan en el iPhone 15 Pro y modelos posteriores."
+        },
+        {
+          "t": "p",
+          "x": "El Siri renovado tiene lista de espera. Hay que solicitarlo en la sección Siri de la app de Ajustes de iOS 27, y conseguir acceso al Siri AI y a la app de Siri puede tardar varias semanas. Además del nuevo Siri, iOS 27 incluye mejoras en el diseño Liquid Glass, mejor rendimiento y funciones de seguridad infantil ampliadas."
+        }
+      ]
+    },
+    "gadgets/roomba-five": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Por primera vez desde que se declaró en quiebra en diciembre pasado y pasó a nuevos propietarios, el negocio de iRobot en Estados Unidos muestra señales de vida. La empresa anunció hoy el lanzamiento en EE. UU. de cinco nuevos robots aspiradores Roomba con bases autovaciables. Todos cuestan $1,000 o menos."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-775-by-dock.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El buque insignia es el Roomba Max 775 Combo Robot + base AutoWash, de $1,000. Tiene mapeo basado en lidar, una cámara para evitar obstáculos, dos cepillos de rodillo antienredos y dos cepillos laterales. La mopa de rodillo se extiende hacia el costado para limpiar hasta el borde de la pared, y una cubierta envuelve la mopa para que las alfombras no se mojen."
+        },
+        {
+          "t": "p",
+          "x": "La explicación de iRobot suena como cualquier otro anuncio de robot aspirador: el Max 775 reconoce las manchas grandes, húmedas o secas, que tiene delante y aumenta automáticamente las pasadas de limpieza. La base autovaciable vacía el depósito de polvo y lava la mopa con agua a 165°F, lo que supuestamente permite no tocar el equipo durante hasta tres meses, aunque en una casa donde se trapea con frecuencia, tres meses le parece al autor una cifra generosa."
+        },
+        {
+          "t": "p",
+          "x": "En resumen, el Max 775 se parece mucho a rivales más caros, en especial al Dreame Aqua10 Ultra Roller que el autor reseñó el año pasado. Ese producto también usaba una mopa de rodillo autocubierta y una base de lavado de mopa, e incluso tenía pequeñas patas que levantaban el cuerpo para superar los umbrales entre habitaciones. El autor solo espera que el nuevo Roomba sea mejor en batería y en capacidad de desplazamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-575-mopping.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Roomba Plus 575, de $800, también usa mapeo por lidar y evasión de obstáculos por cámara (de hecho, todos los modelos nuevos lo hacen). Lleva una almohadilla de mopa giratoria que se levanta sola sobre alfombras, pero según la experiencia del autor, este método tiende a dejar rayas y, en alfombras gruesas, a menudo termina arrastrando la almohadilla."
+        },
+        {
+          "t": "p",
+          "x": "El Roomba Plus 515, de $700, y el Plus 415, de $600, salieron junto con ellos. Ambos tienen autovaciado y autolimpieza en la base. El Plus 515, como el 575, es de cuerpo pequeño y admite lavado de mopa con agua a 167°F, pero el 415 parece no tener lavado con agua caliente."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Plus-415-in-dock.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La excepción sin mopa es el Roomba Max 715, de $700. Como el Max 775, lleva dos cepillos de rodillo antienredos en la base, pero solo un cepillo lateral y no trapea. Un bulto de sensores que sobresale por arriba lo distingue a simple vista de los demás modelos nuevos."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Roomba-Max-715.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Estos cinco modelos son los primeros Roomba anunciados en EE. UU. desde que la empresa fue adquirida por Picea Robotics a finales del año pasado, pero no es la primera línea de productos que las dos empresas han hecho juntas. Incluso antes de la adquisición, iRobot ya se había asociado con Picea para lanzar ocho modelos de Roomba. Por eso los modelos nuevos suenan parecidos a tantos otros que ya hay en el mercado. Los cinco modelos ya están disponibles desde hoy en el sitio web de iRobot."
+        }
+      ]
+    },
+    "gadgets/gmktec-ai-tower": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "GMKtec presentó el EVO-X3, una estación de trabajo mini PC con IA construida alrededor del procesador AMD Ryzen AI Max+ 395 'Strix Halo'. El chip es el mismo que el de su predecesor, el EVO-X2, el mismo silicio que la CEO de AMD, Lisa Su, firmó en persona en señal de reconocimiento. Lo que cambió por completo fue el chasis. GMKtec abandonó la típica caja plana y cuadrada que viene a la mente al pensar en una mini PC."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zAfCQqJs5qpfgQUi8hFrMX.png"
+        },
+        {
+          "t": "p",
+          "x": "El EVO-X3 es una torre alargada con tres ventiladores. Luce menos como una mini PC convencional y más como una tarjeta gráfica revestida en acero, y aunque su altura aumentó, su huella en el escritorio sigue siendo tan compacta como una PS4 puesta de pie. Según la explicación, el rediseño busca equilibrar rendimiento, eficiencia y estabilidad térmica en cargas de trabajo profesionales sostenidas. Su predecesor fue criticado repetidamente por una carcasa de aspecto barato, un acceso interno complicado y el ruido del ventilador bajo carga. Queda por ver si este cambio resuelve realmente esos problemas."
+        },
+        {
+          "t": "p",
+          "x": "Elegir el 395 en lugar del más nuevo Ryzen AI Max+ 495 decepcionó a los entusiastas. Aun así, este chip, que combina CPU y GPU con una NPU de clase 50 TOPS, supera con holgura el umbral de 40 TOPS de Copilot+ de Microsoft. El almacenamiento viene en dos opciones, 2TB y 4TB, y ambas configuraciones incluyen 128GB de memoria LPDDR5X-8000. Dos ranuras M.2 2280 PCIe Gen4x4 permiten ampliar el almacenamiento hasta 8TB. El dispositivo también viene con la herramienta de agente de IA propia de GMKtec, OpenClaw, integrada de forma predeterminada: un kit de inferencia local para configuración con un clic y agentes siempre activos, y la empresa afirma que la configuración de 128GB puede ejecutar por completo, en el propio dispositivo, modelos de hasta 235.000 millones de parámetros. Al no pasar por la nube, no hay tarifa por token ni datos que salgan del dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "El precio de preventa es de 3.600 dólares para la configuración de 128GB/2TB y 3.849 dólares para la de 4TB, ambos señalados como precios de lanzamiento con descuento. El registro de acceso anticipado, abierto el 22 de junio, resta otros 20 dólares, y el lanzamiento global con envíos está previsto para el 7 de julio. Su predecesor, el EVO-X2, costaba 1.999 dólares con 64GB de memoria y 1TB de almacenamiento, así que, incluso teniendo en cuenta la mejora de especificaciones, el aumento de precio es considerable. Partiendo del EVO-X1 (Ryzen AI 9 HX 370), de unos 900 dólares a finales de 2024, la línea ha visto su precio subir casi cuatro veces, alrededor de un 300%, en dos años. Ahora compite directamente con otras máquinas Strix Halo con el mismo límite de 128GB, la MINIX ER939-AI Pro y la ONEXStation."
+        }
+      ]
+    },
+    "gadgets/google-home-speaker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una reseña de uso real del altavoz de $99 'Home Speaker', el altavoz inteligente que Google diseñó desde cero pensando en Gemini."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NYZV4dx79XHGaCbAd57Y8J-2048-80.jpg",
+          "cap": "Google Home Speaker"
+        },
+        {
+          "t": "p",
+          "x": "Incorpora una NPU dedicada para el procesamiento de IA en el dispositivo, y el sonido se difunde en 360 grados. Los dispositivos del hogar se manejan como si se conversara con Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Android Central tituló su reseña 'Volver a lo básico', poniendo el peso en cómo se pulieron los fundamentos antes que en funciones vistosas."
+        }
+      ]
+    },
+    "gadgets/meta-fury-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fury son las primeras gafas inteligentes con marca propia de Meta, con un precio de 299 dólares. Son más baratas que las Ray-Ban Meta de segunda generación (379 dólares), pero lo curioso es el veredicto general del reseñador de Gizmodo: llevarlas es como llevar en la cara la sensación de que 'la persona más horrible que conozco acaba de decir algo brillante'."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El hardware deja poco que reprochar. La cámara de 12MP graba video de hasta 3K, y la batería dura hasta 8 horas. El diseño es más grande y angular que el de Ray-Ban, con un color translúcido 'Racing Green' que llama la atención. Las almohadillas para la nariz vienen en tres tamaños —pequeño, mediano y grande—, las puntas de las varillas se pueden doblar para ajustarlas, y se añadió una bisagra para rostros más anchos. La varilla derecha tiene un botón de acción que se puede asignar a la función que se prefiera, y el estuche de carga se rediseñó para plegarse de forma plana."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-13.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA corre a cargo de Muse Spark, una actualización de Llama 4. Las respuestas son notablemente más fluidas y, según la reseña, ahora son realmente útiles. Incluye visión por computadora, integración con Spotify, Google Calendar, Apple Health y Gmail, hyperlapse y cámara lenta, captura automática, e incluso 'Be My Eyes', una función que ayuda a personas ciegas o con baja visión."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-09.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El problema es la propia empresa Meta. La reseña dedica un largo tramo a su historial de usar video sin permiso para entrenar IA, a la posible incorporación de reconocimiento facial, y a las preocupaciones sobre grabar en espacios públicos. La calificación es de 3.5 sobre 5 estrellas. Su conclusión —que 'a pesar de todo este malestar y la distopía de vigilancia, una Big Tech casi en el fondo de la tabla sigue fabricando las mejores gafas inteligentes que se pueden comprar'— deja a los lectores la pregunta de si un buen hardware vale la pena a cambio de atravesar un campo minado de privacidad."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/06/Meta-Fury-AI-Glasses-review-03.jpg"
+        }
+      ]
+    },
+    "gadgets/ubtech-uworld": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un robot humanoide que se instala en casa, aprende tus hábitos y percibe tu estado de ánimo sin que se le pregunte: esto ya no es ciencia ficción. UBTech Robotics, con sede en Shenzhen, presentó esta semana su serie Uworld U1, tres robots pensados no para el trabajo de fábrica ni las tareas domésticas, sino para la 'compañía'."
+        },
+        {
+          "t": "p",
+          "x": "La gama está formada por el U1 Lite de medio cuerpo, el U1 Pro de cuerpo completo y el U1 Ultra de alto rendimiento, con precios desde 119.800 yuanes (unos 17.650 dólares). La empresa afirma que cada modelo cuenta con 88 grados de libertad y una articulación cervical bioinspirada de doble eje que reproduce hasta el 90% del movimiento humano básico. Las expresiones faciales y la forma de la boca se sincronizan con la voz en tan solo 20 milisegundos, lo que hace que la conversación se sienta bastante natural. Gracias a una arquitectura de 'cerebro rápido, cerebro lento', el cálculo complejo corre en segundo plano mientras los tiempos de respuesta se mantienen alrededor de 0,5 segundos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-2.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "El mayor atractivo es la inteligencia emocional. UBTech afirma que la serie U1 funciona con 'el primer modelo de lenguaje a gran escala del mundo diseñado para la compañía emocional a largo plazo'. Identifica más de 20 estados emocionales con un 90% de precisión, y una plataforma de memoria integrada, Agent Memory OS, recuerda a largo plazo a las personas, sus preferencias y la rutina del hogar. También puede iniciar una conversación según el contexto, sin necesidad de una palabra de activación."
+        },
+        {
+          "t": "p",
+          "x": "UBTech presenta la serie U1 como una respuesta a la soledad y el aislamiento social. Cita como justificación a más de 90 millones de adultos en hogares unipersonales en China y a 118 millones de personas mayores con el 'nido vacío'. Como parte de su recién lanzada 'Iniciativa de Compañía Humano-Robot', planea donar este año unidades U1 personalizadas a niños separados de sus padres, personas mayores que viven solas y familias en circunstancias difíciles."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/07/UBTech-Uworld-U1-series-robot-launch-image-1.jpg?resize=2000%2C1200"
+        },
+        {
+          "t": "p",
+          "x": "Es esta personalización la que lleva el concepto a un terreno mucho más incómodo: usar reconstrucción facial en 3D y clonación de voz para recrear tal cual la apariencia y la voz de una persona concreta. El objetivo es combinar memoria a largo plazo con una IA especializada en emociones para ofrecer apoyo emocional personalizado, y la empresa dice que los datos del usuario se protegen con un esquema de privacidad que prioriza el procesamiento local y minimiza la dependencia de la nube. Aun así, la idea de un humanoide que imita a un padre ausente, a una pareja que ya no está, o a un familiar fallecido, se parece menos a la electrónica de consumo y más a un episodio incómodo de una serie de ciencia ficción."
+        }
+      ]
+    },
+    "gadgets/unpacked-2026-preview": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se acerca el Unpacked de verano de Samsung. Aún no hay anuncio oficial, pero el rumor más fuerte apunta al 22 de julio en Londres. Lo que hace especial a este año es que habrá tres plegables en lugar de los dos habituales. Se rumorea que Samsung está preparando un plegable ancho para contrarrestar el lanzamiento de un iPhone Ultra con pantalla más grande."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8Q6VDcoVt3UQUCEnH6ZWoW.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El propio esquema de nombres está cambiando. El modelo antes llamado 'Galaxy Z Fold Wide' se queda con el nombre del Galaxy Z Fold 8 estándar. Según los renders, es más corto y ancho que el Fold actual, con pantalla interior de 7,8 pulgadas, pantalla de cubierta de 5,4 pulgadas, dos cámaras traseras, un Snapdragon 8 Elite de quinta generación y una batería de 4.800mAh. El verdadero sucesor del Fold 7 pasa a ser el Galaxy Z Fold 8 Ultra. Lo más interesante es cuánto se acerca a una pantalla sin pliegue. Se rumorea una pantalla principal de 8 pulgadas y una de cubierta de 6,5 pulgadas, 15g menos de peso, y que la cámara principal salte de 50MP a 200MP. La batería subiría a 5.000mAh, con una carga que pasa de 25W a 45W. Sin embargo, también circulan rumores de precio que sitúan el modelo base de 256GB en 2.199 dólares debido a la escasez de suministro de RAM."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QKQzWNhR8MQrybWC3YGXhS.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se espera que el Galaxy Z Flip 8 vuelva a tener solo mejoras incrementales esta vez. Se dice que tendrá una pantalla plegable de 6,9 pulgadas, una pantalla de cubierta de 4,1 pulgadas, y como chip más probable un Exynos 2600 de 2nm. También hay informes de que la serie Flip podría discontinuarse, lo que lo convertiría por un tiempo en el último teléfono plegable de Samsung. En el lado de los relojes llegan el Galaxy Watch 9 y el Watch Ultra 2. Se informa que usarán un chip Qualcomm Snapdragon Wear Elite en lugar de la serie Exynos 1, con soporte 5G y sensores de salud con mayor precisión para el seguimiento de frecuencia cardíaca, sueño y fibrilación auricular."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LzjikHeVFkwLBqvCgTDAyW.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Y luego está Intelligent Eyewear. Apareció brevemente como unas gafas de diseño con cámara e IA en Google I/O el pasado mayo, pero se compartieron pocos detalles. Si este Unpacked revela el precio, el momento de lanzamiento, las especificaciones y posibles colaboraciones de marca adicionales para estas gafas con Gemini, desarrolladas junto con Google sobre una base de Android XR, sigue siendo una pregunta clave. Los protagonistas serán claramente los nuevos plegables, pero qué otras cartas juegue Samsung ese día está por verse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/v2/t:777,l:0,cw:5712,ch:3213,q:80/cPAuWECKeoefhrNnuupYnU.jpg"
+        }
+      ]
+    },
+    "gadgets/gemini-android-auto": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rita El Khoury, de Android Authority, probó Gemini Live en Android Auto mientras viajaba por Rumania en un coche de alquiler. Dos años después de su lanzamiento junto a la serie Pixel 9 — tras usarlo para todo, desde preguntas de cocina hasta diagnosticar plantas mustias — la experiencia dentro del coche resultó ser un éxito a medias."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-live-in-android-auto.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los momentos brillantes fueron claros. Basta con llamar a Gemini y decir \"Let's chat\" para que se active Live, mientras la navegación y la música se quedan en la pantalla principal. En el camino a Salina Turda, preguntó qué hacer cerca y le recomendó una caminata de una hora por el desfiladero de Turda, que resultó ser una experiencia realmente estupenda. Entendió todo incluso cuando mezcló inglés, francés, español y árabe a mitad de frase. En un tramo de autopista aburrido, le hizo compañía y la ayudó a espabilarse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/gemini-live-on-hold-in-android-auto.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pero las desventajas pesaron más que las ventajas. Live, que funcionaba sin problemas en el Pixel 10 Pro XL, no reconoció ni una palabra en el Pixel 7 Pro de su marido, y ni cerrar apps ni reiniciar sirvió de nada. No hay forma de terminar una conversación por voz: probó \"I'm done\", \"Stop\" y frases similares decenas de veces antes de tener que estirar la mano mientras conducía y pulsar el botón rojo. El acceso a datos personales como el calendario también era superficial, y cuanto más lo usaba, más sentía que había vuelto al Live de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El golpe decisivo fue el mapa. Cada vez que entran las indicaciones de voz de Maps, la sesión de Live no se pausa, sino que se cierra por completo, así que hay que volver a llamarla desde cero cada vez. El área de Live que ocupa parte de la pantalla es solo un rectángulo vacío con un degradado azul girando, lo que lleva a pedir que al menos muestre una foto del desfiladero o el pronóstico del tiempo. La conclusión es que a Google le queda un largo camino, pero el comienzo es lo bastante bueno como para seguir puliéndolo."
+        }
+      ]
+    },
+    "gadgets/hp-omnibook-x2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HP ha presentado el Omnibook Ultra 14 (2026), un PC Copilot+ construido con el Qualcomm Snapdragon X2 Elite. La unidad de prueba que recibió Tom's Hardware, con 64GB de memoria y un SSD de 2TB, cuesta $2.879,99. Envuelve un lenguaje de diseño totalmente angular, distinto del predecesor de 2024, en color 'Stone Blue' con bordes de aluminio brillante. El modelo base, con Snapdragon X2 Plus y 16GB/512GB, parte de $1.249,99."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JhipJ4xdPpZNFRi3tiFJ2o.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento muestra en qué punto están hoy los portátiles con Arm. Obtuvo 3.942 en el single-core de Geekbench 6, por detrás solo del MacBook Air (4.168), y alcanzó 20.075 en multi-core. La transferencia de archivos fue de 2.620,91MBps, la mejor del grupo comparado, y una conversión de 4K a 1080p en HandBrake terminó en 2 minutos 11 segundos. Bajo carga sostenida en Cinebench 2024, los 1.099 puntos de la primera pasada bajaron después a un rango de 920 a 950."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nGCCuVQh34oxXcRBssP6Tn.png"
+        },
+        {
+          "t": "p",
+          "x": "El panel OLED de 14 pulgadas a 2880x1800 encabezó el grupo en reproducción de color a 120Hz, con 87% DCI-P3 y 122% sRGB, y un brillo máximo de 414 nits. La batería de 70WHr duró 13 horas 27 minutos a 150 nits, tres horas más que el Zenbook A16, que usa el mismo Snapdragon X2 Elite, y quedó por detrás solo del MacBook Air (15 horas 28 minutos). Pesa 2,81 libras."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/L4Uf3hBTdQ7WEVkp7toQqn.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los defectos también destacan. Ninguno de los tres puertos USB-C admite Thunderbolt, el botón de encendido no tiene lector de huellas y la webcam es mediocre. El revisor concluyó que \"HP ha construido una base sólida con el Omnibook Ultra y el SoC Snapdragon X2 Elite\", pero que la configuración intermedia de 32GB/1TB por $2.399 es una opción mucho más razonable que la de la unidad de prueba, cercana a los $2.900."
+        }
+      ]
+    },
+    "gadgets/agibot-humanoids": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AgiBot, con sede en Shanghái, es una empresa fundada en 2023 por dos ingenieros procedentes de Huawei. En un evento público celebrado en Londres el 30 de junio, la compañía presentó varios humanoides A3 de tamaño real y humanoides X2 de media talla, y el lugar se llenó de socios de negocio actuales y futuros."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/v2/t:259,l:367,cw:3636,ch:2045,q:80/PdMz9quhVMKobddrpAXSKb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un X2 bailó de forma bastante convincente al ritmo de una música animada, y la gente no quería irse. Otro, con la camiseta de Harry Kane, metió un balón en la portería. Un tercero llevaba una armadura de estilo Gundam (bastante vistosa), mostrando lo mucho que se puede personalizar a los robots."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yxx6dexztAMXixTBPA8tDW.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el evento se oía la expresión «IA encarnada» («embodied AI») casi tanto como la palabra «robot». AgiBot buscaba presentar su gama de productos como el símbolo de una nueva era tecnológica, la llamada «cuarta revolución industrial»."
+        },
+        {
+          "t": "p",
+          "x": "Las tres inteligencias se encargan, respectivamente, de la interacción, la locomoción y la manipulación, impulsadas por un modelo de IA que corre en el propio dispositivo y que intercambia datos con servidores en la nube. AgiBot se considera, antes que nada, una empresa de IA, y dirige sus recursos en consecuencia: «Nuestro núcleo está en investigar y desarrollar las tres inteligencias; el 75% de nuestro personal de I+D y el 80% de nuestro presupuesto se destinan a esto»."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el escenario, el A3 se presentó como el producto insignia de la compañía. En comparación, el X2, de 131 cm (4 pies 3 pulgadas), pesa 39 kg y aguanta dos horas. La conexión a internet es mediante 5G de doble módulo y doble SIM."
+        },
+        {
+          "t": "p",
+          "x": "También aparecieron robots cuadrúpedos D1 capaces de hacer una voltereta hacia atrás a la orden, junto con robots industriales de la serie G2 y robots de limpieza C5. El modelo tope de gama, el D1 MaxPro, pesa 68 kg y aun así puede cargar 50 kg."
+        },
+        {
+          "t": "p",
+          "x": "Incluso después de estrechar la mano de un X2 y ver a un D1 agitar su «pata» mientras hacía una voltereta hacia atrás perfecta una y otra vez, los robots de AgiBot seguían resultando asombrosos. El evento no disipó todas las dudas sobre la IA, pero ver caminar a robots de verdad resultaba difícil de creer."
+        },
+        {
+          "t": "p",
+          "x": "Está claro que AgiBot busca que sus robots parezcan cercanos. El baile, los apretones de manos y los tiros libres son un intento de despertar cierto cariño en la mente de los clientes potenciales. No sería mentira decir que el X2 resultó muy divertido, aun sabiendo que es solo un bloque de metal y plástico; ese es precisamente el poder del reconocimiento de patrones."
+        },
+        {
+          "t": "p",
+          "x": "Aunque todavía es pronto, la determinación de los directivos parece firme. En su intervención, Yan Xiong dijo: «La producción en masa es la primera puerta que debe cruzar la industria de la IA encarnada para madurar. El siguiente paso tras lograr la producción en masa es comercializar nuestra gama de productos». Añadió que «la IA no debe quedarse encerrada detrás de una pantalla» y que «necesita salir al mundo físico»."
+        }
+      ]
+    },
+    "gadgets/ryzen-ai-halo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La inferencia local ya funciona en casi cualquier dispositivo. Tanto un modelo Qwen de 9B como una Gemma ultraligera y cuantizada que corre en un teléfono ofrecen un rendimiento perfectamente usable. El problema es que el coste de entrada se dispara en cuanto te metes en desarrollo de IA o quieres ejecutar modelos más grandes. Ahí es donde apunta el Ryzen AI Halo de AMD: un mini PC relativamente asequible con una APU Strix Halo y 128GB de memoria LPDDR5x."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-glowing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apunta al DGX Spark de Nvidia y busca el mismo nicho: una máquina para desarrolladores que quieren prototipar sistemas o crear modelos pequeños en hardware local antes de escalarlos a producción. No es un producto que compita en velocidad —una H100 o una RTX 5090 lo superan sin esfuerzo—, pero cuando hay que meter un número enorme de parámetros en la VRAM, tiene pocos rivales."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo es una APU Ryzen AI Max+ 395 (16 núcleos, 32 hilos), una GPU Radeon 8060S y 128GB de memoria unificada con un ancho de banda de 256GB/s. También incluye un SSD NVMe de 2TB y un NPU de 50 TOPS, y cuesta 4.000 dólares en Micro Center. Funciona con instrucciones x86, evitando los problemas de compatibilidad ARM de los productos de la competencia."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-next-to-dgx-spark.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El DGX Spark es unas cinco veces más rápido en el prefill, pero el Ryzen AI Halo va por delante en el rendimiento de decodificación, que es lo que realmente importa en el uso diario de la mayoría. A diferencia del DGX Spark, que trae 4TB por 4.699 dólares, este tiene solo 2TB, pero funciona como un escritorio x86 completo. Durante toda la prueba, el consumo medido en el enchufe se quedó en 83W, y la APU alcanzó como máximo 53°C, 40 grados por debajo del umbral de limitación térmica."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento en LLM también es sólido. El modelo de mezcla de expertos (MoE) Qwen3 Coder 30B-A3B produjo 69,5 tokens por segundo en ROCm y 90,1 en Vulkan, cerca de dos tercios más rápido que un modelo de 8B. Como un MoE solo activa unos 3B de parámetros a la vez, los 128GB de memoria unificada le vienen muy bien a este tipo de modelo."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/amd-ryzen-ai-halo-lemonade-server.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El NPU ejecuta inferencia aparte en segundo plano mientras la GPU se encarga de la tarea principal, algo que ni el DGX Spark ni el Mac Studio pueden hacer. La valoración es de 9 sobre 10. Es adecuado para desarrolladores que necesiten flujos de trabajo fuera de CUDA, que quieran manejar en local modelos que superan la VRAM de consumo, o que prefieran evitar la nube. Que tenga poco margen de ampliación es una pena, y algunos sugieren que podría valer la pena esperar al modelo superior AI Max+ Pro 495, con 192GB de RAM."
+        }
+      ]
+    },
+    "gadgets/visionos27-beta3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple lanzó hoy a los desarrolladores la tercera beta de la próxima actualización visionOS 27, para pruebas, dos semanas después de la segunda beta."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/HnbWdb1qxI6-t6aIEmt9atRqLGg=/1600x/article-new/2026/06/curved_windows_visionos-27.jpg"
+        },
+        {
+          "t": "p",
+          "x": "visionOS 27 se puede instalar entrando en Actualización de software, dentro de la app Ajustes, y activando las actualizaciones beta."
+        },
+        {
+          "t": "p",
+          "x": "visionOS 27 incorpora un nuevo Siri con IA, lo bastante inteligente y capaz como para rivalizar con chatbots como ChatGPT o Claude. En Vision Pro, Siri puede responder sobre lo que sea que esté mirando quien lleva el dispositivo, y hay un nuevo Siri Orb que se puede colocar en cualquier punto del espacio virtual."
+        },
+        {
+          "t": "p",
+          "x": "Las fotos panorámicas ahora se pueden convertir en entornos espaciales, y se ha añadido un nuevo entorno islandés de Þórsmörk, con montañas y valles espectaculares, glaciares e incluso auroras. El soporte de entornos web permite a los desarrolladores crear entornos de 360 grados en Safari, dando forma a una navegación web más adecuada para Vision Pro."
+        },
+        {
+          "t": "p",
+          "x": "Las ventanas de las apps ahora se curvan para crear un espacio de trabajo más inmersivo. El Centro de control se ha reorganizado para que los ajustes del sistema sean más fáciles de encontrar, y hay un tamaño de widget más pequeño. Las notificaciones se despliegan automáticamente cuando quien lleva el dispositivo las mira."
+        }
+      ]
+    },
+    "gadgets/meta-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta ha ofrecido a los usuarios de sus gafas inteligentes una suscripción de $20 al mes llamada 'Meta One Premium'. Una de las primeras funciones en quedar bloqueadas es 'Conversation Focus', que aísla y amplifica la voz de alguien cercano."
+        },
+        {
+          "t": "p",
+          "x": "Meta One Premium, anunciado el pasado mayo, forma parte de un sistema de suscripción que abarca Instagram, Facebook, WhatsApp e incluso las gafas con IA. Según un documento de ayuda actualizado, sin suscripción Conversation Focus se limita a tres horas al mes, y pagar $20 al mes no lo hace ilimitado: el tope es de 15 horas. Como muchos planes de IA de ahora, se reinicia al mes siguiente."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/meta-oakley-glasses-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "El problema es que esta función no pasa por ningún servidor. Según constató The Verge, Conversation Focus amplifica la voz usando solo los micrófonos de formación de haz y el procesador integrado en las gafas. Como no implica coste de nube, las críticas apuntan a que recortar el tiempo de uso y dejar la ampliación detrás de una suscripción equivale a revender una parte de un dispositivo que la gente ya compró."
+        },
+        {
+          "t": "p",
+          "x": "Al crecer la polémica, Meta dio explicaciones el 2 de julio. \"Por ahora, esta suscripción solo incluye el uso ampliado de Conversation Focus y soporte premium del dispositivo, pero la mayoría de los usuarios no llegará al límite mensual\", explicó la empresa, y añadió: \"Esto no es un límite de uso de IA. El equipo sigue desarrollando y mejorando la IA que impulsa Conversation Focus, y la suscripción respalda ese trabajo.\" También subrayó que las funciones de IA principales siguen siendo gratuitas sin suscripción."
+        },
+        {
+          "t": "p",
+          "x": "La polémica estalló justo después de que se revelara que Meta había lanzado una función de reconocimiento facial en las gafas, algo que la empresa había dicho que no tenía planeado introducir."
+        }
+      ]
+    },
+    "gadgets/nokia-ai-buttons": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HMD ha lanzado en silencio cuatro teléfonos con función de la marca Nokia a nivel global: el Nokia 210 4G, el 235 4G 2nd Edition, el 215 4G 2nd Edition y el 200 4G. Los cuatro modelos llevan un botón dedicado de asistente de IA que llama directamente a un asistente de IA en el dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/200-4G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de IA corren a cargo de Sikey AI. Con comandos de voz se puede encender la linterna, abrir la cámara trasera, poner recordatorios y alarmas, hacer llamadas e incluso responder preguntas sencillas. Sin embargo, no es gratis. Según la página de producto de HMD, el uso es gratuito durante los primeros 180 días, tras lo cual hay que suscribirse a un plan de pago. Resulta irónico que, para pagar esa suscripción, haga falta otro teléfono en condiciones. Los teléfonos también llevan un servicio de teléfono en la nube que permite consultar los últimos vídeos, el pronóstico del tiempo y noticias deportivas sin usar el almacenamiento del propio dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nokia-210-4G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro modelos mantienen el cuerpo clásico característico de los teléfonos con función de Nokia, con toques nuevos como una cámara selfie y un marco metálico alrededor del altavoz. Comparten el mismo sistema operativo S30+ y una batería de 1.450mAh. El 215 4G 2nd Edition y el 235 4G 2nd Edition llevan una pantalla IPS QVGA de 2,8 pulgadas con cámaras VGA delantera y trasera, mientras que el 210 4G y el 200 4G llevan una pantalla de 2,4 pulgadas con la misma resolución y una cámara trasera de 2MP."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nokia-215-4G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También incluyen conector de auriculares de 3,5mm, radio FM, videollamadas Xpress Chat y puerto de carga USB-C. El precio y la fecha de lanzamiento todavía no se han anunciado."
+        }
+      ]
+    },
+    "gadgets/snap-specs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Snap ha abierto las reservas de SPECS, sus gafas de RA transparentes. Cuestan $2.195, con un depósito reembolsable de $200, y el envío está previsto para el otoño de 2026. Para quien lleva esperando un dispositivo de RA que no parezca un accesorio de película de ciencia ficción, es el resultado de más de una década de desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "Snap lleva desde 2015 ofreciendo lentes y experiencias de RA a cientos de millones de usuarios de Snapchat. Esa acumulación de experiencia desemboca en una pantalla de guía de onda transparente con un campo de visión de 51 grados y 16 millones de colores. Puede proyectar, a unos 3 metros de distancia, una imagen del tamaño de una pantalla de cine de 115 pulgadas, mientras la realidad más allá de la lente sigue viéndose con normalidad. Justo ahí es donde se separa de cascos como el Apple Vision Pro o el Meta Quest."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Specs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los usos resultan más amplios de lo esperado. En un avión, un hotel o una sala de espera, se puede ver vídeo en una gran pantalla virtual, o proyectar la pantalla del móvil o del portátil como monitor auxiliar personal y trabajar sin un monitor físico. Una pestaña del navegador que se deja abierta te sigue aunque cambies de asiento. Los altavoces de oído abierto solo los oye quien los lleva puestos, y seis micrófonos MEMS de alta sensibilidad integrados en la montura captan llamadas y comandos de voz incluso en lugares ruidosos. El control se hace solo con gestos y voz, así que no hace falta ningún mando."
+        },
+        {
+          "t": "p",
+          "x": "El hardware está pensado para el uso diario. Con montura de polímero suizo TR90, la talla de 47mm pesa solo 132g y la de 52mm, 136g. Las lentes electrocrómicas ajustan automáticamente su tinte según la luz ambiental, y también admiten graduación. Un doble procesador Snapdragon, junto con cámaras RGB e infrarrojas y sensores de visión por computador, se encargan del reconocimiento espacial en tiempo real, de modo que la IA identifica lo que el usuario está mirando y muestra información relevante."
+        },
+        {
+          "t": "p",
+          "x": "Snap calcula una autonomía de 4 horas con uso mixto, o unas 20 horas combinada con el estuche de carga. Su precio no corresponde a un dispositivo barato pensado para el mercado masivo, sino a un producto tecnológico serio, y las reservas ya están abiertas para early adopters y creadores."
+        }
+      ]
+    },
+    "gadgets/android-halo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En una conversación en el canal Google for Developers, el responsable de Android, Samir Samat, repasó los cambios de Android 17, el rumbo de la IA y las mejoras de Gemini para Android Automotive."
+        },
+        {
+          "t": "video",
+          "yt": "YvVsdZL2ogY"
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que llama la atención es el reconocimiento franco de Google: la gente ya no quiere oír más la palabra 'IA'. De hecho, el Android Show no pronunció la palabra 'IA' ni una sola vez, aunque casi todas las funciones nuevas se basan en IA. Samat explica que buscaron centrarse en el beneficio real para el usuario, no en la tecnología que sostiene cada función."
+        },
+        {
+          "t": "p",
+          "x": "La conversación pasa a funciones agrupadas bajo Gemini Intelligence, como 'Rambler' de Gboard, mostrado incluso con una demostración en video, y el autocompletado de formularios 'Superfill'. El punto central es 'Android Halo', que en la keynote de Google I/O solo se nombró, sin explicación."
+        },
+        {
+          "t": "p",
+          "x": "Samat explicó Halo en el contexto de los agentes de IA: \"Anunciamos un nuevo concepto llamado Android Halo, que es un lugar designado dentro de la barra de estado. Ya sea Gemini u otro agente, es el lugar donde el agente que elijas informa del progreso de la tarea que le encargaste y recoge tu aporte. Un agente que trabaja en segundo plano puede querer hacer una pregunta, dar una actualización de estado o mostrar un resultado, y ahí es donde lo sigues. Es un punto nuevo e interesante que muestra hacia dónde puede evolucionar la computación, y es el sistema operativo el que hace más fluido el contacto con este tipo de tareas de larga duración.\""
+        },
+        {
+          "t": "p",
+          "x": "La interacción completa aún no se ha mostrado, pero la idea se parece a las notificaciones en vivo: un lugar fijo, el mismo sin importar la app, donde un único ícono anclado en la barra de estado permite comprobar al instante el trabajo del agente."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/image.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "La segunda mitad de la conversación pasa a los vehículos con Google integrado, es decir, Android Automotive. Samat mostró una mejora de Gemini que permite ajustar el climatizador o la asistencia de carril con lenguaje natural. Lo más interesante es que Gemini se conecta con la cámara frontal del coche, lo que permite preguntar directamente qué ocurre delante del vehículo."
+        }
+      ]
+    },
+    "gadgets/phones-less-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tom Pritchard, editor de teléfonos de Tom's Guide UK, ha apuntado directamente a la obsesión de la industria de smartphones con la IA. Su diagnóstico: la última vez que los teléfonos fueron realmente nuevos fue hace ocho años, cuando llegó el primer plegable, y desde entonces solo ha habido mejoras discretas. Los fabricantes llenan ese vacío con listas de funciones de IA. Su argumento es que un puñado de funciones de IA de utilidad incierta no basta cuando los precios de los buques insignia superan los mil dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vbGrCLaZGfUvCojyg8YYUd.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Galaxy S26 Ultra es el ejemplo más claro. Es uno de los mejores teléfonos que se pueden comprar ahora, pero su hardware solo mejoró respecto al S25 Ultra anterior en la pantalla de privacidad y la velocidad de carga. Pritchard escribió que \"las diferencias son tan mínimas que la mayoría no notará ningún cambio\". También consideró que el Pixel 10 Pro tiene la misma calidad de cámara y casi la misma batería que su antecesor, salvo por la carga magnética Qi2, y que el Tensor G5 tampoco impresiona. Ambos teléfonos invirtieron sin reparos en funciones de IA como el zoom Super Res de 100x o un Circle to Search más inteligente, pero eso no oculta el estancamiento del hardware."
+        },
+        {
+          "t": "p",
+          "x": "También señaló la práctica de que funciones de IA presentadas como exclusivas de los teléfonos nuevos terminen llegando a dispositivos más antiguos. La One UI 8.5 de Samsung acabó con la exclusividad del Galaxy S26 sobre Call Screening, Creative Studio y Audio Magic Eraser en solo tres meses, abriéndolas al S25. Una función que de todos modos vas a recibir si esperas es una razón débil para comprar un teléfono nuevo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w4ggsUZxULQaBMcwv7iJs6.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El alza en los precios de la memoria provocada por el auge de la IA es otra carga. El Galaxy S26 Plus y el Ultra ya subieron de precio. Se prevé que la línea iPhone 18 Pro, que llega en septiembre, suba hasta 200 dólares. Subir los precios y provocar rechazo, o recortar el hardware y renunciar a la IA en el dispositivo: ninguna de las dos opciones es una buena respuesta para los fabricantes."
+        },
+        {
+          "t": "p",
+          "x": "Pritchard tampoco niega del todo la utilidad de la IA. Hay claramente un lugar para ella en cosas como la fotografía computacional o las herramientas de edición que realmente mejoran un teléfono. Su petición es simplemente que, en lugar de mostrar cuánta IA metieron cada año, los fabricantes muestren cuánto ha crecido el hardware que la sostiene. Solo una mejora visible hace que la gente esté dispuesta a pagar cientos de dólares."
+        }
+      ]
+    },
+    "gadgets/rayban-optics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Karissa Bell, de Engadget, usó durante dos semanas las Ray-Ban Meta Optics, la línea exclusiva para lentes graduadas de Meta, como sus gafas principales, y las reseñó con una puntuación de 7.4 sobre 10. Es una versión de las monturas Ray-Ban Meta de segunda generación adaptada para quienes necesitan gafas, no solo las quieren, y viene en dos estilos, Blazer y Scriber."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/gen-2-gets-a-refresh-1782151654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El cambio más grande es el ajuste. Las almohadillas nasales ahora son intercambiables, con opciones Universal, High Bridge y Low Bridge. Bell escribió que al cambiar a las almohadillas High Bridge, el deslizamiento se redujo notablemente. Las puntas de las varillas se pueden moldear al calor según el rostro en tienda. La batería también pasó del 'hasta 8 horas' de la generación anterior a '8 horas o más', y en el uso real superó con holgura las 8 horas sin cargar."
+        },
+        {
+          "t": "p",
+          "x": "El botón de acción personalizable, que apareció primero en las Oakley Meta Vanguard, también llegó a las Optics. La combinación favorita de Bell es asignar 'lee mi mensaje de texto más reciente' como instrucción personalizada. Permite escuchar un mensaje con solo pulsar el botón, sin decir 'Hey Meta', una forma más discreta que mirar el teléfono."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ray-ban-meta-optics-review-a-better-fit-comes-with-a-price/meta-ais-new-brain-1782151655.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El asistente lo maneja el modelo más reciente de Meta, Muse Spark. Se le puede interrumpir mientras responde, y sigue la conversación sin necesitar la palabra de activación cada vez. Aun así, el micrófono permanece abierto 20 segundos después de dejar de hablar, lo que provocó momentos incómodos en los que la IA se metía en conversaciones de gente cercana. La función de información nutricional de alimentos funcionó de forma irregular según cómo se formulara la pregunta."
+        },
+        {
+          "t": "p",
+          "x": "La montura parte de 499 dólares, pero con la configuración de Bell, al añadir lentes graduadas, filtro de luz azul y recubrimientos, el precio superó los 700 dólares antes de impuestos. Las preocupaciones de privacidad también persisten. En Estados Unidos ya no se puede rechazar el almacenamiento en la nube de las grabaciones de voz. Hace poco también se descubrió código de una función de reconocimiento facial no publicada llamada 'Name Tag'; Meta dijo que no había tomado una decisión final y eliminó el código justo después de que lo reportara Wired."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión es clara. Si ya te gustan las Ray-Ban Meta y quieres usarlas a diario con lentes graduadas, las Optics son la versión más cómoda y más premium que se puede comprar ahora. Lo que queda por decidir es si puedes pagar ese precio."
+        }
+      ]
     }
   }
 }

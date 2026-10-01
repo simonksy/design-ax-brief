@@ -1817,6 +1817,949 @@
           "x": "La noticia se reveló en el Festival Internacional de Cine de Animación de Annecy en junio de 2026, y la obra se estrenará en 2027."
         }
       ]
+    },
+    "design/figma-pm-os": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2nn5J6tUzwE"
+        },
+        {
+          "t": "p",
+          "x": "La forma en que una empresa usa la IA revela la cultura y el futuro de esa organización. Esa fue la historia que contó Figma en el escenario de Config 2026."
+        },
+        {
+          "t": "p",
+          "x": "Ramp creó Glass, Stripe creó Minions, y Figma creó PM OS: una herramienta pensada para reducir el tiempo que los product managers dedican a tareas administrativas, de modo que puedan concentrarse más en las decisiones que realmente importan."
+        },
+        {
+          "t": "p",
+          "x": "Cuenta cómo una herramienta de IA, creada por un pequeño grupo de voluntarios dentro de una cultura que fomenta la experimentación, pasó a formar parte del trabajo diario de todos los PM en poco tiempo. La charla está dirigida a PMs, diseñadores y a cualquiera que quiera ayudar a construir las herramientas que dan forma a la manera en que trabajamos."
+        }
+      ]
+    },
+    "design/gpt56-rollout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI pondrá a disposición general los tres modelos de GPT-5.6 — Sol, Luna y Terra — el jueves 9 de julio. Dijo en X que también ampliará el acceso a la vista previa a todo el mundo. A finales de junio, el acceso estaba limitado a un 'pequeño grupo de socios de confianza', a petición de la administración Trump."
+        },
+        {
+          "t": "p",
+          "x": "El presidente Trump firmó a principios de junio una orden ejecutiva de ciberseguridad de IA que exige que los modelos más potentes pasen por una revisión gubernamental 30 días antes de su lanzamiento. El despliegue inicial de GPT-5.6 se limitó a entidades con aprobación gubernamental. OpenAI dijo que no cree que este proceso 'deba convertirse en la norma a largo plazo', pero que lo siguió para poder lanzar antes."
+        },
+        {
+          "t": "p",
+          "x": "Tras más pruebas y conversaciones, la administración aprobó un lanzamiento más amplio. El Centro de Normas e Innovación en IA, dependiente del Departamento de Comercio, realizó pruebas adicionales, y OpenAI envió expertos técnicos para responder preguntas e inquietudes."
+        },
+        {
+          "t": "p",
+          "x": "Los tres modelos tienen usos distintos. Sol es el modelo más potente, Terra es la opción para el día a día que ofrece un rendimiento del nivel de GPT-5.5 a mitad de precio, y Luna es la opción más económica. Los precios por millón de tokens de entrada/salida son de 5/30 dólares para Sol, 2,50/15 dólares para Terra y 1/6 dólares para Luna."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic también restringió el acceso a sus modelos Mythos y Fable para cumplir con la normativa, y luego, tras obtener la aprobación del gobierno, volvió a desplegar Mythos 5 y después Fable 5."
+        }
+      ]
+    },
+    "design/kpmg-builder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Matthew Adinger lleva casi 25 años en diseño digital y siempre vio el mismo patrón: un diseñador construía una pantalla y la entregaba, un desarrollador la reconstruía desde cero, y pasaban meses antes de que una idea se convirtiera en producto. Es el director de UX de KPMG."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7464784da1384373989caf168c5c2600?format=webp&width=800",
+          "cap": "El cambio de KPMG en la colaboración entre diseño y desarrollo"
+        },
+        {
+          "t": "p",
+          "x": "Hace un año, KPMG decidió romper ese ciclo. El problema era la brecha entre la intención y la ejecución. Al entregar prototipos hechos en Sketch y Figma al equipo de desarrollo, había que esperar semanas para ver el resultado, y se repetía el ciclo de documentar dónde se había desviado del diseño original y volver a trazar redlines."
+        },
+        {
+          "t": "p",
+          "x": "Los estándares de KPMG subieron aún más el umbral. El código pasa por varias capas de escaneo de seguridad, examinando hasta la última dependencia de terceros. Hay muchas herramientas de IA que generan algo rápido, pero pocas producían resultados que esta firma pudiera presentar ante un cliente."
+        },
+        {
+          "t": "p",
+          "x": "Builder se diferenciaba en dos cosas. Una era un entorno parecido a Figma, así que pasarse a él no daba miedo, y una vez familiarizados podían entrar directamente en CSS y JavaScript. La otra era su sistema de inteligencia de diseño."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fe5feb7ae55674fb0bb6ee1938bfd8b39?width=800",
+          "cap": "El flujo de trabajo de inteligencia de diseño de Builder"
+        },
+        {
+          "t": "p",
+          "x": "\"La mayoría de las herramientas de código extraen patrones de toda la base de código y dan una respuesta probabilística\", explica Abhijit Lokhande. Según él, es justo ahí donde un agente toma algo aproximado y adivina, y donde el código de frontend termina deformándose. Builder indica explícitamente qué es un componente, cuándo y cómo usarlo, y cómo encaja con otros componentes y con el backend, hasta el punto de adjuntar ejemplos de código."
+        },
+        {
+          "t": "p",
+          "x": "Los patrones de componentes indexados en Builder llevaron al equipo a una precisión del 80-90%, y el resto lo revisaban personas. Las revisiones que tardaban diez días terminaban el mismo día, y el tiempo de despliegue se redujo un 88%. \"Los diseñadores se volvieron desarrolladores, y los desarrolladores se volvieron diseñadores\", dice Lokhande."
+        }
+      ]
+    },
+    "design/ntop-coreweave": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "nTop y CoreWeave demostraron que la tecnología actual puede alcanzar los objetivos de simulación de 'Vision 2030' de la NASA."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/ntop-coreweave-nvidia-nasa-1024x576.jpg",
+          "cap": "El estudio NASA Vision 2030 de nTop, CoreWeave y Nvidia"
+        },
+        {
+          "t": "p",
+          "x": "El 'CFD Vision 2030 Study' que la NASA publicó en 2015 se propuso que los ingenieros pudieran generar, analizar e interpretar simulaciones estrechamente acopladas a gran escala, sin gestionar cada una a mano, y terminarlas dentro de un plazo determinado con niveles definidos de precisión y confianza."
+        },
+        {
+          "t": "p",
+          "x": "En abril de 2026, nTop y CoreWeave superaron ese estándar. Ejecutaron 2.400 formas de fuselaje de dron en cinco ángulos de ataque, simulando 12.000 casos en total. Mientras un solo ingeniero lo configuraba y se alejaba, 280 GPU Nvidia de CoreWeave funcionaron de principio a fin sin un solo fallo de geometría."
+        },
+        {
+          "t": "p",
+          "x": "El pipeline funcionó 'sin cabeza', sin que nadie interviniera. Ninguna geometría falló, y no hizo falta ningún reinicio manual. CoreWeave aportó 280 GPU Nvidia RTX Pro 6000 Blackwell, cada una con 96GB de VRAM, y en cada GPU se ejecutaba simultáneamente una simulación LES."
+        },
+        {
+          "t": "p",
+          "x": "Max Gaedtke, el ingeniero de nTop que construyó y ejecutó el pipeline, lo llamó el mayor conjunto de datos de nTop Fluids hasta la fecha. \"Si la geometría falla en el caso 47, no importa cuántas GPU tengas. Alguien tiene que encontrar la causa y corregirla a mano antes de que el pipeline vuelva a funcionar, y entonces no puedes ejecutar 12.000 casos en una noche\", dijo."
+        },
+        {
+          "t": "p",
+          "x": "El estudio generó un frente de Pareto que abarca sustentación, resistencia y L/D, un resultado prácticamente imposible con un diseño de experimentos manual. El logro más duradero es el propio conjunto de datos. Con 12.000 resultados de CFD, cada uno con un campo de flujo 3D completo, es suficiente para entrenar un modelo sustituto que prediga el rendimiento aerodinámico en todo el espacio de formas sin volver a ejecutar simulaciones."
+        }
+      ]
+    },
+    "design/decagon-deco": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El servicio al cliente es el próximo campo que la IA va a cambiar, y Decagon está preparando el terreno. Tres años después de su fundación, sus agentes de IA que abarcan voz, chat y correo han eliminado colas y tiempos de espera de décadas. El secreto detrás de entrar en el CNBC Disruptor 50 no está en qué construye, sino en cómo lo construye."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a6469cadcc96476913042e85925c1eaf9e395d10-3840x2160.png?w=1632&h=918&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "En las empresas nativas de IA, el camino del diseño al código es rápido, pero igual de fácil de romper. Los agentes de codificación solo producen resultados confiables si reciben una entrada precisa. Sin un sistema de diseño, cada componente depende de un criterio individual, y eso no aguanta a escala. Cuando la diseñadora de producto Jennifer Shieh se unió, Decagon no tenía sistema de diseño."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, llamado Deco, se construyó desde el principio con diseñadores e ingenieros trabajando codo a codo. Preguntas fáciles de postergar, como qué pasa en el modo de enfoque, qué estado necesita cada componente entre inactivo, solo lectura, error o advertencia, o si incluir un placeholder, se abordaron desde el inicio. 'Pudimos pensar desde el principio en qué había ya en el código y cuáles eran los casos límite', dice Jennifer."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/dc36f56b6b757de762df00ff02f82d82b394f846-8475x2796.png?rect=0,1,8475,2794&w=1632&h=538&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "El resultado es una biblioteca a nivel de toda la organización con cientos de componentes, estilos y variables. Según los análisis de Figma, se insertó decenas de miles de veces en 30 días. 'Con la biblioteca lista, dejamos de pelear por el estilo o la implementación. Los ingenieros saben exactamente qué botón y qué tabla usar. Como la diseñadora, yo, y los ingenieros partimos de los mismos elementos base, la comunicación también es mucho más fácil', dice él."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de codificación no interpretan una especificación como lo haría un desarrollador; solo trabajan con lo que se les da. Antes, un diseñador exportaba una especificación, un desarrollador la interpretaba, los desajustes se detectaban en la revisión, y el ciclo se repetía. El servidor MCP de Figma cambió eso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/971c05ae16b76a56dd3c005f2e5751985b7c0020-3744x2238.png?rect=1,0,3742,2238&w=1080&h=646&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de ingeniería de Decagon trasladó los componentes del sistema de diseño a Storybook y creó una skill para que los agentes de codificación usen el componente correcto al implementar. Otra skill permite a los diseñadores añadir nuevos componentes, manteniendo Figma y el código siempre alineados. 'Con el MCP de Figma activado para el agente, la especificación, el código y el lienzo se quedan en un solo flujo en vez de ir y venir', dice Jennifer. Ahora basta pegar un enlace de Figma para que lea el contexto de diseño y lo ajuste a los componentes del sistema."
+        },
+        {
+          "t": "p",
+          "x": "Alrededor del 70% de la hoja de ruta de producto de Decagon viene directamente de los clientes. Con Make y varios conectores, muestran bocetos y prototipos directamente desde Figma, y en vez de reunir requisitos y presentar un producto terminado, construyen 10 prototipos y los muestran a 10 clientes. El responsable de producto, Vihan Jiang, dice que así 'construyen mejores productos mucho más rápido'. Mantener el oficio mientras se gana velocidad es lo que Decagon considera su verdadera ventaja."
+        }
+      ]
+    },
+    "design/economist-billboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un visual sin nada de más se convierte en una herramienta narrativa poderosa. Combinada con copys ingeniosos, esta campaña de vallas publicitarias muestra de nuevo el valor del copywriting bien afilado en el branding. En un momento en que abunda el diseño ruidoso pensado para lo social, esta campaña de The Economist es una pausa bienvenida en medio de ese ruido."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xFgvdcsqVu9ywMoLaoaeMV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hecha junto con la agencia creativa independiente Cocogun, la campaña consiste en vallas minimalistas en rojo con frases cortas como 'Think outside the bot' y 'actual intelligence'. El color contenido y la tipografía serif característica de la marca permiten identificarla de un vistazo como The Economist, proyectando autoridad y seguridad sin alardear."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ru6LB92MVmwRUH5GrHyxMV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Estas vallas se exhibirán en la zona del World Trade Center de Nueva York, en estaciones de metro importantes de Nueva York y Chicago, y en el Reino Unido en Leicester Square, Carnaby Street y Canary Wharf."
+        },
+        {
+          "t": "p",
+          "x": "Ant Melder, socio creativo de Cocogun, dijo: 'Seguir los pasos de algunos de los mejores anuncios que el mundo ha visto nunca no es tarea fácil. Saber que alguien llamado Abbott está en algún lugar observando todo lo que hacemos con una mirada rigurosa pero cariñosa resulta a la vez reconfortante y absolutamente aterrador. No podría estar más orgulloso de encargarme de esto, y espero seguir colaborando en el futuro.'"
+        }
+      ]
+    },
+    "design/jen-dunnam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Jen Dunnam, líder de diseño que ha pasado por Patreon y Shopify, compartió consejos para navegar la era de la IA. Es VP de Futures en Hinge, y habló en el Figma Config 2026 Leadership Collective, que reunió a más de 1,300 personas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/69641c3d5bd8ea3be1045dd92c70b930a71f76d5-1406x788.png?rect=1,0,1405,788&w=1632&h=915&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "El enfoque de Dunnam difiere del de colegas que lideran con urgencia. 'Quiero moverme rápido, pero con menos caos. He visto líderes que ven su rol actual como instaurar urgencia, pero los grandes diseñadores con los que trabajo ya generan ese impulso por sí mismos.' Ella ve su propio rol como dar estabilidad. 'Existe el riesgo de perseguir herramientas, capacidades, algo que cambie el mundo, pero seguimos diseñando para personas. Eso no cambia.'"
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle qué haría distinto si reconstruyera un equipo, dijo que emparejaría a los nuevos con los veteranos y contrataría investigadores curiosos. La cualidad que se ha vuelto más importante en la contratación, dijo, es el pensamiento crítico. 'Cuando entrevisto a diseñadores, excavo muy a fondo en esto. ¿Dónde se opuso? ¿Cómo se enfrentó a un stakeholder?' La razón: las herramientas de IA parecen plausibles, así que existe el riesgo de inclinarse hacia la respuesta pulida sin examinarla."
+        },
+        {
+          "t": "p",
+          "x": "Como señal de un equipo sano, señaló un ambiente donde las personas pueden discrepar y discutir con intensidad entre sí. Dijo que las críticas de diseño importan para proteger el tiempo de pensar, y que son un lugar donde un líder puede mostrarse cuestionando sus propias decisiones. También recomendó offsites de varios días sin reuniones ni entregables. 'Si quieres hacer espacio para ideas nuevas, hay que reservar unos días aparte. Ya abandoné la idea de que un sprint de innovación necesita seis semanas.'"
+        },
+        {
+          "t": "p",
+          "x": "Comparando su experiencia en Shopify y Patreon, abordó el tema de la velocidad. 'Toda empresa quiere ir rápido. Pero primero hay que tener claro qué tipo de velocidad le importa realmente a la organización.' De rápido, barato y bueno solo se pueden elegir dos, dijo, pero los líderes quieren los tres. En Shopify, la velocidad significaba reconstruir el producto principal para desarrolladores; en Patreon, significaba lanzar varios MVP para probar funciones para creadores. 'El trabajo real es hablar con honestidad sobre esa disyuntiva y preguntar qué es lo más importante ahora.'"
+        },
+        {
+          "t": "video",
+          "yt": "JVGhbJhOEx4"
+        }
+      ]
+    },
+    "design/lovable-vercel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel ahora admite apps hechas con Lovable sin necesidad de configuración."
+        },
+        {
+          "t": "p",
+          "x": "Para empezar, sincroniza tu proyecto de Lovable con GitHub y luego importa ese repositorio en Vercel. Vercel detecta automáticamente el framework (TanStack Start) y lo despliega. Una vez conectado, los cambios hechos en Lovable se sincronizan con GitHub, y Vercel activa un nuevo despliegue."
+        },
+        {
+          "t": "p",
+          "x": "Los proyectos de Lovable ahora usan Nitro internamente. Nitro es un kit de herramientas de servidor universal que sostiene el despliegue sin configuración de TanStack Start y de otros varios frameworks, así que no hace falta tocar la configuración de build por separado."
+        }
+      ]
+    },
+    "design/ai-ui-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace apenas uno o dos años, las herramientas de IA para UI llegaban como máximo a una landing page creíble. Ahora construyen productos completos de varias pantallas, exportan código de producción e incluso levantan apps que funcionan a partir de un solo prompt. El autor dio a cinco herramientas el mismo prompt, palabra por palabra, y comparó los resultados."
+        },
+        {
+          "t": "p",
+          "x": "La tarea era una app de gestión de proyectos SaaS de seis pantallas: inicio de sesión, panel, proyectos, detalle de proyecto, tablero kanban y planificación de sprints. Una pantalla aislada se ve bien en cualquier herramienta, así que la elección buscaba ver si el sistema de diseño se sostenía al encadenar pantallas. Los criterios fueron cobertura de pantallas, consistencia del sistema, utilidad desde la perspectiva de un desarrollador y el tiempo hasta obtener un resultado usable."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F38qz98wkerm2addwhq64.png",
+          "cap": "Pantalla de SaaS generada por Flowstep"
+        },
+        {
+          "t": "p",
+          "x": "Flowstep, que se presenta como un 'ingeniero de diseño con IA', produjo las seis pantallas a la vez, de forma consistente, en solo 1,5 minutos: el más rápido de la prueba. Su lienzo se apoya en código en lugar de ser una capa estática, por lo que exporta a React, TypeScript y Tailwind CSS, se pega en Figma con ⌘C/⌘V sin necesidad de plugin, y se conecta mediante MCP con herramientas de código como Cursor y Claude Code."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftwuwg7psrvin4hs1lp9m.png",
+          "cap": "Google Stitch, que empieza por el sistema de diseño"
+        },
+        {
+          "t": "p",
+          "x": "Google Stitch empieza por el sistema. Destacó por generar también un panel de sistema de diseño —tokens de color, escala de tipografía e incluso variantes de botones— pero solo produjo cinco de las seis pantallas, con lo que el flujo quedó interrumpido."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyse6364dugzzu6s8640v.png",
+          "cap": "Figma Make, que crea una app que funciona dentro de Figma"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make es vibe coding dentro de Figma. Las seis pantallas salieron como una app completamente funcional, y su transparencia —explica por sí misma sus decisiones de cuadrícula, espaciado y tipografía— fue un punto fuerte, aunque los créditos gratuitos se agotaron rápido y la generación tardó 5,5 minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcd9an3fnc7exq4zb4zwm.png",
+          "cap": "El resultado de Lovable, que se comporta como software real"
+        },
+        {
+          "t": "p",
+          "x": "Lovable entregó una app que se comporta como software real, con IDs de incidencias como PROJ-104 e incluso prioridades P0 a P3. Fue, en cambio, la más lenta, con 10 minutos. Base44 adoptó un enfoque estructural que empieza por la planificación de funciones, y añadió incluso una pantalla de restablecimiento de contraseña que no se había pedido, aunque su acabado visual queda un escalón por debajo y en la versión gratuita no se puede ver el código."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión no es un único ganador, sino una bifurcación. Flowstep si se diseña un sistema pensado para alimentar una base de código; Lovable y Base44 si se necesita un producto que funcione de inmediato; Figma Make si ya se vive dentro de Figma; Stitch si lo que interesa son los tokens y la estructura. A mitad del experimento, el autor dejó de comparar lo visual. Al final, lo que importó fue el flujo de trabajo."
+        }
+      ]
+    },
+    "design/ds-governance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando la IA y el diseño aparecen en la misma frase, la conversación suele derivar hacia la generación de interfaces. Kalpick Sharma, que ha trabajado entre diseño y desarrollo front-end, ve una oportunidad más interesante en otro lugar: el mantenimiento de sistemas de diseño."
+        },
+        {
+          "t": "p",
+          "x": "A medida que un producto crece, también crecen la biblioteca de componentes, la documentación, los tokens de diseño, los requisitos de accesibilidad y los detalles de implementación. En cierto punto, mantener todo consistente se vuelve más difícil que construirlo por primera vez. Ahí es donde la IA puede marcar una diferencia real."
+        },
+        {
+          "t": "p",
+          "x": "Los usos que él señala son estos: detectar componentes duplicados, sugerir patrones existentes antes de crear uno nuevo, generar documentación de componentes, auditorías de accesibilidad, sincronizar tokens de diseño y ayudar a que los desarrolladores nuevos entiendan el sistema rápido. Ninguno sustituye a diseñadores o desarrolladores. Solo elimina el mantenimiento repetitivo que venía desgastando la velocidad del equipo."
+        },
+        {
+          "t": "p",
+          "x": "'¿Ya existe un componente como este?' '¿Por qué este botón es distinto del sistema de diseño?' Un asistente de IA que entiende a la vez la biblioteca de diseño y el código puede responder al instante. Según él, es un uso mucho más práctico que producir otra landing page más."
+        },
+        {
+          "t": "p",
+          "x": "El artículo cierra así: el punto de un sistema de diseño con IA no es construir la interfaz más rápido, sino ayudar a los equipos a mantener la consistencia, afinar la colaboración y dedicar más tiempo a los problemas reales del producto."
+        }
+      ]
+    },
+    "design/hi3d-print": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los Space Marines llevan décadas siendo un icono de la cultura de miniaturas de ciencia ficción. Soñar con crear tu propio capítulo era algo común, pero el problema siempre fue la ejecución. En una canalización que pasa por arte conceptual, escultura 3D, reparación de malla, CAD y laminadores, la barrera técnica era mucho más alta que la creativa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/bb/images/6a478aeb84cfb/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hi3D, una plataforma todo en uno de creación 3D con IA, busca cerrar esa brecha conectando directamente la generación con IA y la fabricación física. 80 Level siguió paso a paso el proceso por el cual un solo prompt de texto se convierte en una figura impresa en 3D y completamente ensamblada."
+        },
+        {
+          "t": "p",
+          "x": "Todo empieza con un concepto. Al introducir un prompt, los motores de imagen Nano-Banana 2 / ChatGPT image2 / Seedream V4.5 generan varios borradores con distintos estilos de armadura, emblemas y configuraciones de armas. A diferencia de los generadores pensados solo para lo visual, esta canalización de imágenes está optimizada pensando en la reconstrucción 3D, de modo que el arte conceptual no es el punto final, sino un plano de producción."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c5/images/6a46766bb77f9/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "Al pulsar 'Generate 3D', el motor Sparc3D convierte el concepto 2D en un modelo 3D preciso en pocos minutos. Errores comunes como superficies abiertas o autointersecciones se corrigen automáticamente en la etapa de generación, lo que da como resultado una malla hermética lista para fabricación, sin las horas de limpieza de malla que antes hacían falta."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0d/images/6a46767ba8af4/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "Sacar un modelo grande de una sola pieza es poco frecuente. Hi3D usa IA con reconocimiento de estructura para separar automáticamente piezas como el casco, el torso, las hombreras y las armas, y luego genera automáticamente conectores de montaje entre las piezas que se tocan. Crea tanto conectores fijos para exhibición como articulaciones de bola para cambiar la pose, y su tecnología Press-Fit Tolerance ajusta las tolerancias de montaje según la configuración de la impresora, el tamaño de la boquilla y las propiedades del material."
+        },
+        {
+          "t": "p",
+          "x": "La preparación para imprimir también es automática. Determina la orientación evaluando la exposición de superficie y la fiabilidad de impresión, coloca soportes evitando zonas como el casco o el emblema, y exporta un archivo 3MF compatible con Bambu Studio, OrcaSlicer, Creality Print y Elegoo Slicer. Según la empresa, el proceso completo, desde la generación del modelo hasta quedar listo para imprimir, a menudo 'tarda menos de 5 minutos'."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/a0/images/6a4676e5880e0/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "Unas horas después, al encajar con los conectores las piezas salidas de la impresora, una figura única que no existía antes queda en pie sobre el escritorio. Los nuevos usuarios reciben 300 créditos gratis."
+        }
+      ]
+    },
+    "design/ai-quality-signals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El autor dirigió la monetización de una gran plataforma educativa de preguntas y respuestas. Era un negocio que vendía respuestas confiables a millones de estudiantes, pero cuando llegó la IA generativa, la señal se rompió. Cualquiera podía pegar una pregunta en un chatbot y obtener una respuesta fluida y segura que apenas se distinguía de una respuesta realmente buena."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/Designing-quality-signals-when-AI-makes-everything-look-credible.png"
+        },
+        {
+          "t": "p",
+          "x": "Ese es el problema. La IA rompió el vínculo entre parecer creíble y ser realmente confiable. Antes, la seguridad era un indicador indirecto de calidad, pero ahora la seguridad es gratis."
+        },
+        {
+          "t": "p",
+          "x": "La primera reacción, como la de todos, fue poner etiquetas: una insignia de 'generado por IA' en el contenido de IA y de 'verificado' en las respuestas de expertos. Apenas funcionó. La gente ya sabe que 'verificado' puede significar solo que se ejecutó un script una vez. Así que dejaron de decorar y reconstruyeron la confianza como un sistema."
+        },
+        {
+          "t": "p",
+          "x": "La primera señal es la transparencia de la fuente. En vez de poner cualquier enlace, la respuesta debe anclarse en la fuente más confiable disponible para ese uso. Citar el libro de texto que el estudiante realmente usa elevó el compromiso, las visitas repetidas y la satisfacción. Uno o dos libros de texto superaron a veinte enlaces de internet, y eso es un resultado de pruebas directas."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/source-transparency-for-AI-UX-content.png"
+        },
+        {
+          "t": "p",
+          "x": "La segunda es la verificación. Las respuestas verificadas por expertos eran la razón por la que los estudiantes volvían, y cuantas más respuestas verificadas aparecían al inicio de una sesión, mayor era la tasa de conversión. La confianza cambió notablemente al reemplazar un 'verificado' anónimo por el nombre y el rostro de un docente real."
+        },
+        {
+          "t": "p",
+          "x": "La tercera es la forma de comunicar la certeza. Dejar abierta una sección de 'ejemplos y justificación' en cada respuesta elevó las métricas de interacción más de un 20%, aunque la mayoría nunca la abrió. Poner las respuestas de ChatGPT y Gemini una junto a la otra para compararlas también terminó generando más confianza."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/communicating-confidence-for-AI-UX-content-credibility.png"
+        },
+        {
+          "t": "p",
+          "x": "La cuarta es la reputación. La prueba social pesa menos en los productos de IA que antes, pero la gente sigue queriendo escuchar a otras personas. Estas cuatro señales funcionan en cualquier lugar: búsqueda, documentación, publicaciones o atención al cliente. La confianza no la gana el producto con más insignias, sino el que deja que los usuarios comprueben las cosas por sí mismos."
+        }
+      ]
+    },
+    "design/lovable-0708": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 8 de julio, Lovable lanzó varias funciones nuevas para su creador de apps conversacional."
+        },
+        {
+          "t": "p",
+          "x": "La barra lateral de ajustes ahora tiene un cuadro de búsqueda. Escribir en 'Buscar ajustes' filtra los ajustes del espacio de trabajo y del proyecto por nombre y sinónimos habituales. Por ejemplo, 'env' muestra los secretos de compilación, y 'sso' muestra los ajustes de identidad."
+        },
+        {
+          "t": "p",
+          "x": "Ahora se pueden referenciar conectores de la app directamente dentro de los mensajes de chat. Escribir @ en el cuadro de entrada abre un selector de conectores, que se puede filtrar escribiendo para insertar el conector deseado dentro de la frase."
+        },
+        {
+          "t": "p",
+          "x": "Un backend de Lovable Cloud ahora se puede pausar manualmente. Esto evita el consumo de créditos de cómputo mientras está inactivo; al pausarlo se apagan la base de datos, la autenticación, el almacenamiento y las funciones edge, y la app también se detiene. Los datos se conservan intactos, y 'Wake' los restaura. El uso de almacenamiento, sin embargo, sigue acumulándose incluso mientras está pausado."
+        },
+        {
+          "t": "p",
+          "x": "El tamaño de la instancia también se puede cambiar por chat, sin abrir los ajustes avanzados. Mencionar un problema de rendimiento del backend abre un selector de tamaño (de Tiny a Large). Solo cambian la CPU y la memoria; la capacidad de almacenamiento se mantiene igual. El backend se apaga brevemente durante unos minutos mientras se realiza el cambio, disponible en los planes Pro, Business y Enterprise."
+        },
+        {
+          "t": "p",
+          "x": "Los administradores de Enterprise pueden activar o desactivar por separado el aprovisionamiento JIT, que añade automáticamente a los usuarios en su primer inicio de sesión con SSO. Workspace Insights ahora también está disponible en el plan Business, con una lista de proyectos, búsqueda, filtros, exportación a CSV y escaneos de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes que Lovable crea o edita ahora incluyen metadatos de procedencia IPTC que indican que fueron generadas por IA. Esto se aplica a las creaciones de agentes, las imágenes editadas, las vistas previas sociales y las variaciones del editor visual, y servicios como Google o las redes sociales pueden leer esta información para aplicar etiquetas. Solo afecta a las imágenes creadas de nuevo, y el proceso de generación y el costo no cambian."
+        }
+      ]
+    },
+    "design/muse-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/intro-1783457258.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta, que en abril abrió una nueva familia de modelos de IA con Muse Spark, ahora avanza hacia la generación de imágenes. Muse Image es el primer modelo de imagen de Meta Superintelligence Labs, disponible en Estados Unidos a través de la app de Meta AI, Instagram y WhatsApp."
+        },
+        {
+          "t": "p",
+          "x": "Meta describe el modelo como capaz de \"entender indicaciones complejas y fusionar varias fotos sin fisuras en una sola\". Genera imágenes en distintos formatos y estilos, y las ediciones se pueden pedir de forma conversacional. También puede producir códigos QR funcionales, y el texto dentro de las imágenes, según Meta, se ajusta en un estilo que se mantiene legible."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de la app de Meta AI, se usa principalmente para generar y editar. Se puede partir de un ajuste predefinido o seguir afinando desde la pestaña 'Ideas' del editor, y también se puede dibujar directamente sobre una foto o escribir texto para indicar qué se quiere cambiar."
+        },
+        {
+          "t": "p",
+          "x": "Igual que Google, Meta también integró sus propios servicios. Si se pide redecorar la foto de una habitación, trae muebles de anuncios de la web y de Facebook Marketplace. Si se etiqueta la cuenta de Instagram de un amigo, incluye el aspecto de esa persona en la imagen generada. Los ajustes de reutilización de fotos se aplican igual que en Instagram. Meta parece buscar el mismo interés que generó OpenAI con su app Sora, ahora retirada, que dejaba crear videos de amigos."
+        },
+        {
+          "t": "p",
+          "x": "Fuera de la app de Meta AI, Muse Image impulsa más de 30 efectos de Historias de Instagram, incluido uno que imita el aspecto de una cámara descartable y otro llamado simplemente 'Puffer'. El nuevo editor permite previsualizar un efecto antes de aplicarlo, y si no convence, se puede pedir una nueva edición directamente con una indicación. La misma función está disponible en las conversaciones de Meta AI en WhatsApp."
+        },
+        {
+          "t": "p",
+          "x": "La 'creación cotidiana' es gratuita, pero crear más requiere una suscripción paga a Meta One. Meta dijo que los límites pueden variar según el servicio desde el que se accede o la región."
+        },
+        {
+          "t": "p",
+          "x": "Muse Image está disponible primero en la app de Meta AI, Instagram y WhatsApp en Estados Unidos, y se planea ampliar a más países y productos. Meta dijo que también está desarrollando un modelo Muse Video."
+        }
+      ]
+    },
+    "design/not-ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un comunicado de prensa que llegó esta semana armó mucho ruido por la nueva campaña del collar para perros con conexión satelital de Fi. Una frase me llamó la atención: \"Es IA, pero no es basura IA\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QTUBdkMkuaj4aA5pYczzda.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿cuál es la diferencia entre basura IA y una IA que no lo es? Al final, parece ser una cuestión de cuánto esfuerzo se puso. Si se saca un video de un perro de Luma AI o Google Flow con una sola indicación breve, el resultado es tosco. Con más esfuerzo, se escucha menos la palabra 'basura', e incluso se puede lograr algo que nadie note que es IA."
+        },
+        {
+          "t": "p",
+          "x": "Dolstenandco, el estudio enfocado en IA dirigido por Simon Dolsten, claramente puso ese esfuerzo en este video. Entrenó un modelo personalizado con perros reales y consultó a un etólogo sobre el andar y el movimiento propio de cada raza. Para contrarrestar el \"instinto tecnológico de fluir hacia la perfección sintetizada\", añadió deliberadamente manchas de lente y temblor de cámara."
+        },
+        {
+          "t": "p",
+          "x": "Hay que reconocer el oficio. Se parece a la forma en que directores como Caban Cardoza usan el conocimiento tradicional de rodaje, dirección y edición para evitar que una película hecha con IA se vea como IA. Los perros del video se mueven como perros reales, no como esas aproximaciones torpes tan conocidas de los anuncios de Facebook."
+        },
+        {
+          "t": "video",
+          "yt": "1B8kM7Nafgo"
+        },
+        {
+          "t": "p",
+          "x": "Pero cuanto más leía el comunicado, más incómodo me sentía. No porque el trabajo sea malo, sino por la premisa que la industria nos pide aceptar en silencio: que lo único que separa a la IA 'buena' de la 'basura' es qué tan bien se esconde. ¿De verdad hemos llegado a esto?"
+        },
+        {
+          "t": "p",
+          "x": "Que no se malentienda: el logro técnico aquí no es menor. Crear un perro de IA consistente es difícil. A diferencia de productos o paisajes estáticos, los animales se definen por movimientos impredecibles, y por lo general no hay suficientes datos para crear un perro convincente a partir de una simple indicación."
+        }
+      ]
+    },
+    "design/seedream5-krea": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ByteDance lanzó su nuevo modelo insignia de generación y edición de imágenes, Seedream 5.0 Pro, con Krea como socio oficial de lanzamiento. Está disponible directamente en Krea desde el día de su presentación, el 8 de julio de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Acepta texto, una sola imagen o varias imágenes como entrada, y entrega el resultado como una imagen única o como un lote. También admite salida en streaming, que devuelve las imágenes a medida que están listas."
+        },
+        {
+          "t": "p",
+          "x": "Es el primero de la línea Seedream en incorporar búsqueda web. En lugar de seguir la indicación de forma literal, interpreta las instrucciones como lo haría un diseñador y busca información por su cuenta cuando lo necesita. A esto se suma la consistencia de estilo y el detalle cinematográfico característicos de Seedream."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-4.png"
+        },
+        {
+          "t": "p",
+          "x": "También admite ediciones que mantienen la composición y la pose intactas mientras ajustan solo el material, la iluminación y el realismo, así como la combinación de referencias, que une personas y vestuario de distintas imágenes en una sola. A partir de una sola imagen de referencia también se puede generar una serie que mantiene la misma identidad."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La generación por lotes es un punto fuerte particular. Con una sola indicación o referencia, crea un conjunto de imágenes que comparten reglas visuales, algo útil para storyboards, campañas o sistemas de marca, donde varias imágenes deben funcionar juntas."
+        },
+        {
+          "t": "p",
+          "x": "En Krea, se puede comparar con otros modelos de imagen y video en el mismo lienzo, mantener los recursos reunidos en un solo lugar y adaptar el flujo de trabajo al propio ritmo."
+        }
+      ]
+    },
+    "design/config-ai-evals": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "VfA-vjsFQ1o"
+        },
+        {
+          "t": "p",
+          "x": "La IA está en todas partes, pero ¿cómo saber si realmente es buena? Esa es la pregunta que Setor Zilevu, de Figma, planteó en el escenario de Config 2026. Lo que tienen en común los equipos que obtienen resultados con la IA no es moverse rápido. Es medir bien."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida de esa medición es definir 'bueno' en torno a las personas, y esa definición vive dentro del diseño y la investigación: esa es la base de la sesión. Las evaluaciones de IA (evals) se consideraron durante mucho tiempo tarea de la ingeniería, pero ahora eso está cambiando."
+        },
+        {
+          "t": "p",
+          "x": "A medida que las capacidades de los modelos se nivelan hacia arriba, el foso se convierte en el diseño. Esta charla de poco más de 18 minutos es una invitación a que diseñadores e investigadores se conviertan en los arquitectos de cómo se evalúa la IA frente a las necesidades reales de las personas."
+        }
+      ]
+    },
+    "design/meta-content-seal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta está desarrollando una herramienta para identificar imágenes y videos creados con su propio modelo Muse Image. Lanzó una vista previa de un detector basado en la web que lee una marca de agua invisible incrustada en contenido generado por IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
+          "cap": "Herramienta de Meta para detectar contenido de IA"
+        },
+        {
+          "t": "p",
+          "x": "El sistema de marca de agua se llama Content Seal. Según Meta, la marca sobrevive al recorte, la compresión, el cambio de tamaño y las capturas de pantalla. El objetivo es que los usuarios puedan verificar por sí mismos si el contenido que tienen delante proviene de Meta AI."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque también cambió. Antes Meta colocaba un logotipo visible; el nuevo Muse Image usa en cambio una marca de agua imperceptible. A diferencia del sistema de marcado que antes publicó como código abierto, esta versión es cerrada. Por ahora solo identifica imágenes generadas o editadas con Muse Image, y Meta planea extender Content Seal al video junto con el próximo Muse Video."
+        },
+        {
+          "t": "p",
+          "x": "Al probarlo, Engadget encontró la marca de agua no solo en imágenes hechas con IA, sino también en capturas de pantalla de esas imágenes. Según las preguntas frecuentes, un resultado positivo significa que la imagen probablemente proviene de una herramienta de Meta AI, y uno negativo que probablemente no. La propia app de Meta AI no tiene esta función, así que si se le pregunta directamente al asistente, responde que no puede identificar con certeza ni siquiera las imágenes de su propia empresa."
+        },
+        {
+          "t": "p",
+          "x": "Las limitaciones también son claras. Content Seal no es compatible con sistemas rivales como SynthID o C2PA Content Credentials, no identifica resultados de modelos anteriores de Meta AI, y la herramienta web limita cuántas comprobaciones se pueden hacer al día. A principios de este año el Oversight Board criticó la aplicación desigual de las marcas de agua en contenido de IA de Meta, así que está por verse cuánto llena esta herramienta ese vacío."
+        }
+      ]
+    },
+    "design/meta-one-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Algunas funciones de las gafas inteligentes de Meta han quedado detrás de un muro de pago. Documentos de soporte indican que ciertas funciones son limitadas para usuarios gratuitos y que se necesita una suscripción de pago para usarlas por más tiempo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
+          "cap": "La función de accesibilidad en disputa, Conversation Focus"
+        },
+        {
+          "t": "p",
+          "x": "La suscripción Meta One, lanzada en algunos mercados desde el mes pasado, abarca Instagram, WhatsApp, Facebook y Meta AI con un plan de dos niveles. El nivel Plus, de $8 al mes, combina beneficios propios de cada plataforma, como iconos personalizados, con un mayor uso mensual de IA y más generación de imágenes y video. El nivel Premium, de $20 al mes, añade a eso un uso aún mayor y razonamiento avanzado mediante el modo Thinking."
+        },
+        {
+          "t": "p",
+          "x": "El centro de la polémica es Conversation Focus, una función de accesibilidad. Esta función, que amplifica la voz de la persona con la que se habla, da 3 horas al mes a los usuarios gratuitos y 15 horas a los suscriptores Premium. Llegó como función de acceso anticipado en enero de este año, tras seis años de investigación en mejora de audio."
+        },
+        {
+          "t": "p",
+          "x": "Poner funciones de un dispositivo detrás de una suscripción es algo común en consolas de videojuegos y hogares inteligentes, pero este rechazo tiene su razón. Conversation Focus se ejecuta en el propio dispositivo, no en servidores, así que el argumento del costo de la nube no se sostiene. Algunos lo interpretan como un intento de recuperar una enorme inversión en investigación, mientras otros ven en ello una forma de sondear si el mercado está dispuesto a pagar por funciones de las gafas."
+        }
+      ]
+    },
+    "design/trimble-mep-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble ha añadido funciones de IA a su software de estimación para instalaciones mecánicas, eléctricas y de plomería (MEP). Lo central es reducir el trabajo previo al cómputo de cantidades y reconocer automáticamente objetos en los planos de construcción; los datos de 2026 de contratistas que usaron esta función mostraron una reducción del tiempo manual de hasta el 60%. Es decir, atienden más licitaciones sin aumentar personal."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
+          "cap": "Funciones de IA en la solución de estimación MEP de Trimble"
+        },
+        {
+          "t": "p",
+          "x": "Accubid Anywhere ahora incluye un AI Smart Assistant. Este asistente, que funciona sobre la plataforma de IA agéntica de Trimble, se encarga de buscar precios históricos de materiales o comparar versiones de estimaciones cuando se le pregunta en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas funciones abarcan todo el flujo de trabajo de estimación. En la etapa previa al cómputo, la IA fija por sí sola la escala y el nombre de los conjuntos de planos. En el cómputo de cantidades, lee, marca y cuenta símbolos como tomacorrientes, interruptores y luminarias en los planos; hasta ahora se han detectado automáticamente más de 3 millones de símbolos, lo que redujo el tiempo de reconocimiento manual en más del 50%. Para la tubería conduit, traza automáticamente la ruta, incluidos los tramos verticales de subida y bajada, para obtener la longitud, y usar el asistente ahorró en promedio más del 80% del tiempo en la búsqueda de precios históricos y en comparaciones complejas de estimaciones."
+        },
+        {
+          "t": "p",
+          "x": "Trimble deja claro que esta es una herramienta para ayudar a los estimadores, no para reemplazarlos. Los resultados se revisan con los procesos de control y aseguramiento de calidad (QA/QC) de cada empresa para filtrar falsos positivos, y esa retroalimentación se usa para seguir ajustando el modelo. La responsabilidad de la revisión y aprobación final sigue siendo del estimador. Las nuevas funciones ya están disponibles en las soluciones de estimación MEP de Trimble en Norteamérica y el Reino Unido."
+        }
+      ]
+    },
+    "design/fable5-global": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic ha restaurado el acceso mundial a Claude Fable 5, su modelo más potente. Esto ocurre después de que el Departamento de Comercio de EE. UU. retirara el 30 de junio los controles de exportación de emergencia que había impuesto el 12 de junio. Fable 5 vuelve a estar disponible en la plataforma Claude, Claude.ai, Claude Code y Claude Cowork, y la empresa afirmó que está restaurando el acceso en AWS, Google Cloud y Microsoft Foundry 'tan rápido como sea posible'."
+        },
+        {
+          "t": "p",
+          "x": "El origen fue un informe de investigadores de Amazon. Tras llegar al gobierno una técnica que eludía las salvaguardas de Fable 5 para encontrar vulnerabilidades de software e incluso generar código de explotación, a las 5:21 p.m. del 12 de junio se emitió una orden que prohibía por completo el acceso al modelo a usuarios extranjeros. Como Anthropic no tenía forma de verificar la nacionalidad de los usuarios a nivel de API, tuvo que cortar el acceso a todos sus clientes. Esto ocurrió solo tres días después del lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic argumentó que otros modelos como Opus 4.8, GPT-5.5 y Kimi K2.7 también podrían encontrar la misma vulnerabilidad, mientras creaba un nuevo clasificador de seguridad automático que bloquea la técnica más del 99% de las veces y superó la verificación del CAISI del Departamento de Comercio. Sin embargo, al ampliarse el margen de seguridad, también podrían aumentar las solicitudes de codificación legítimas que se bloquean, y las sesiones bloqueadas se degradan automáticamente a Opus 4.8."
+        },
+        {
+          "t": "p",
+          "x": "El precio es de 10 dólares por millón de tokens de entrada y 50 dólares por millón de tokens de salida, el más alto entre los modelos de frontera. A cambio, hasta el 7 de julio, los suscriptores de Pro, Max, Team y algunos de Enterprise pueden usar hasta el 50% de su límite semanal sin coste adicional. Mythos 5, un modelo especializado en ciberseguridad, sigue bajo un régimen de acceso verificado abierto solo a ciertas organizaciones de EE. UU. aprobadas el 26 de junio, aunque los controles legales ya se levantaron."
+        },
+        {
+          "t": "p",
+          "x": "Como condiciones para la reanudación, Anthropic se comprometió a detectar riesgos de seguridad de forma preventiva, cooperar con el gobierno en protocolos y estándares, e informar de actividad maliciosa. El Departamento de Comercio se reservó el derecho de reimponer los controles si las circunstancias cambian. El apagón de tres semanas mostró cuán frágil puede ser la infraestructura empresarial que depende de APIs cerradas, y una arquitectura de respaldo agnóstica de modelo, capaz de cambiar a alternativas de pesos abiertos, se ha convertido en una nueva prioridad para los líderes tecnológicos empresariales."
+        }
+      ]
+    },
+    "design/figma-agent-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cada equipo tiene su propia forma de trabajar: convenciones de nombres de producto, la plantilla de especificaciones de un PM, las indicaciones que todos usan para dar feedback de diseño — un saber que vive en la cabeza de alguien y es difícil de explicar. Las 'skills' de Figma escriben ese proceso en lenguaje llano y se lo enseñan al agente una vez, como un conjunto de instrucciones reutilizable. Se pueden invocar con una barra (/) en cualquier chat, y se pueden publicar para compartirlas con un equipo o con toda la organización. Tras presentar las skills en Config, el equipo de Figma compartió lo que aprendió al usarlas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1632&h=1632&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Las skills complementan los sistemas de diseño. Si el sistema aporta componentes y patrones, las skills añaden la experiencia del equipo: voz de marca, cumplimiento, procesos de revisión. Figma ha creado skills que se entrenan con los comentarios del CEO Dylan para adelantar feedback antes de una revisión, que verifican los estándares de terminología y puntuación del equipo de UX writing, y que recorren la experiencia con ojos de usuario nuevo para encontrar fricciones ocultas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Los rituales de equipo que se repiten también son buenos candidatos para skills: un 'catch-up' que resume la actividad reciente de un archivo para quien estuvo fuera, una lista de preparación que entrevista sobre personas y alcance para crear una página de crítica, y una tarjeta de resumen que convierte el feedback de una crítica en planes de seguimiento por tema que se pueden pegar en Slack. Si es algo que se hace siempre de la misma manera, vale la pena convertirlo en una skill."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Las skills funcionan tanto en Figma Agent como en Figma Make, y los conectores les permiten traer contexto de herramientas externas: convertir comentarios de revisión en tareas de una herramienta de gestión de proyectos, o buscar evidencia que respalde un diseño en HeyMarvin o en una biblioteca de investigación de Notion. Pronto podrán usarse en cualquier lugar a través de clientes compatibles con MCP, mediante el servidor MCP de Figma."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "En los archivos colaborativos, los chats del agente ahora se comparten por defecto, lo que significa que se puede abrir el chat de un colega y seguir exactamente qué skills e indicaciones usó para resolver un problema. El trabajo sensible siempre se puede cambiar a privado. El agente está disponible en beta abierta para usuarios con asiento Full en los planes Professional, Organization y Enterprise, y es gratis durante la beta."
+        }
+      ]
+    },
+    "design/zai-zcode": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El laboratorio de IA pekinés Z.ai (antes Zhipu AI) ha lanzado de forma gratuita ZCode, un 'entorno de desarrollo agéntico' creado exclusivamente para su modelo insignia GLM-5.2. Es compatible con macOS, Windows y Linux, y también ofrece una configuración BYOK para modelos de terceros. En otras palabras, se enfrenta de lleno a Cursor, Claude Code, GitHub Copilot y Google Antigravity."
+        },
+        {
+          "t": "p",
+          "x": "ZCode es distinto de los IDE habituales con una barra lateral de chat añadida. Cuando el usuario expresa un objetivo, el agente traza un plan, modifica archivos y ejecuta comprobaciones, repitiendo el proceso hasta alcanzar la meta. El mismo trabajo puede continuar no solo en el escritorio, sino también en móvil y a través de bots de WeChat y Feishu, una función dirigida directamente al mercado de desarrolladores chinos, donde la mensajería domina la comunicación laboral. Los comandos sensibles y los cambios de archivo pasan por confirmación antes de ejecutarse."
+        },
+        {
+          "t": "p",
+          "x": "Los ingresos provienen de las suscripciones al GLM Coding Plan. Desde el nivel Lite de 16,20 dólares al mes hasta el nivel Max de 144 dólares, los precios son mucho más bajos que los de niveles equivalentes de Claude Code o Cursor. Hasta el 31 de julio, los suscriptores también reciben una bonificación de cuota de 1,5 veces. También se admiten otros modelos y agentes como Claude Code, Codex, Gemini y OpenCode."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo es GLM-5.2: un modelo MoE de 744.000 millones de parámetros (40.000 millones activos) con un contexto de 1 millón de tokens, publicado como pesos abiertos bajo licencia MIT. El entrenamiento se realizó por completo en chips de Huawei, y a mediados de junio ocupó el segundo puesto mundial en Code Arena, por detrás de Claude Fable 5 de Anthropic. El precio de la API es de 1,40 dólares por millón de tokens de entrada y 4,40 dólares por millón de salida, hasta un 82% más barato que Claude Opus 4.8."
+        },
+        {
+          "t": "p",
+          "x": "El momento fue muy oportuno. El mismo día en que el gobierno de EE. UU. impuso, el 12 de junio, controles de exportación que bloqueaban el acceso extranjero a Fable 5 y Mythos 5 de Anthropic, Z.ai publicó GLM-5.2 como código abierto sin restricciones. Al quedar expuesto el 'riesgo de acceso soberano' —que un gobierno pueda apagar un modelo de la noche a la mañana—, el interés se volcó hacia alternativas que se pueden alojar uno mismo, y la capitalización de mercado de Zhipu superó el 22 de junio el billón de dólares de Hong Kong (128.000 millones de dólares)."
+        },
+        {
+          "t": "p",
+          "x": "En el mercado de agentes de codificación con IA para empresas, que Gartner estima en unos 10.000 millones de dólares al año, Z.ai todavía no figura entre los 12 proveedores evaluados en el Magic Quadrant. ZCode en sí no es de código abierto, el soporte de Linux está en beta, y hay críticas sobre que el manejo de credenciales de agentes invocados por mensajería aún necesita revisión. Si puede ganarse la confianza de las empresas occidentales, y si puede sostener una compañía de 128.000 millones de dólares que pierde dinero, son preguntas que siguen abiertas."
+        }
+      ]
+    },
+    "design/adonis-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Inbibo ha lanzado la versión 2.1 de Adonis, su framework de anatomía modular para Maya y Houdini. La edición base, AdonisFX, incorpora un nuevo sistema de transferencia de estructura anatómica y un nuevo deformador, AdnMush, que suaviza los artefactos de simulación sin perder el detalle anatómico. También se añade una nueva edición premium, AdonisML, un sistema de aprendizaje automático que entrena configuraciones de tejido complejas y lentas de procesar en modelos de aproximación ligeros e interactivos."
+        },
+        {
+          "t": "p",
+          "x": "Adonis, lanzado por primera vez el año pasado, permite a los artistas de rigging superponer en los personajes tejido blando simulado físicamente —músculo, grasa y piel, cada uno con su propio solver—. Es un conjunto de herramientas dirigido al vacío que dejó Ziva VFX, muy popular pero ya discontinuado, y grandes estudios de VFX, incluido Sony Pictures Imageworks, ya lo utilizan."
+        },
+        {
+          "t": "video",
+          "yt": "1Zmb_QUqEP4"
+        },
+        {
+          "t": "p",
+          "x": "El software se divide ahora en dos ediciones: la edición base existente, AdonisFX, y la nueva edición ampliada, AdonisML. Como su nombre indica, AdonisML incluye funciones basadas en aprendizaje automático, ML Deformer y SmartTissue. Igual que las funciones homónimas de Maya y Unreal Engine, ML Deformer aprende la deformación que produce una configuración de tejido compleja y lenta, y la reproduce en su lugar. El modelo de aproximación entrenado se procesa más rápido que la configuración original, lo que permite a los animadores trabajar con los personajes de forma mucho más interactiva. El sistema SmartTissue recupera el movimiento secundario perdido durante el entrenamiento —vaivén, asentamiento, rebote— para producir una deformación más precisa y realista. Inbibo describe la combinación de ambas herramientas como \"una vía basada en ML para animadores que necesitan resultados de alta calidad a velocidad interactiva.\""
+        },
+        {
+          "t": "p",
+          "x": "Otra función nueva de Adonis 2.1 es AdnTransfer, un sistema de transferencia de estructura anatómica. Permite trasladar configuraciones de tejido incluso entre personajes o criaturas con formas corporales muy distintas. Se compone de dos deformadores —AdnRigidWrap, que fija automáticamente los puntos de referencia de la malla objetivo a la malla de origen, y AdnSoftWrap, que procesa el tejido blando entre ambos—, y los pares de puntos de referencia también se pueden ajustar directamente con la Landmark Tool."
+        },
+        {
+          "t": "p",
+          "x": "También se añade un nuevo deformador para suavizar artefactos de simulación, AdnMush. Comparado con el AdnRelax existente, conserva mejor detalles anatómicos finos como los músculos pectorales, lo que beneficia a los personajes con musculatura marcada. Puede usarse como nodo independiente para posprocesado, y también se ejecuta automáticamente dentro de todos los demás solvers, reduciendo la necesidad misma de posprocesado."
+        },
+        {
+          "t": "p",
+          "x": "Adonis 2.1 es compatible con Maya 2023 o posterior y Houdini 20 o posterior, en Windows 10 o posterior y CentOS 7+/RHEL 8+/Rocky Linux 8+. Para AdonisFX, la suscripción Indie para artistas con ingresos anuales inferiores a 100.000 libras cuesta 25 libras al mes (unos 33 dólares) por licencia bloqueada a un nodo, o 250 libras al año. La suscripción Pro cuesta 110 libras al mes/1.100 libras al año bloqueada a un nodo, o 150 libras al mes/1.500 libras al año flotante. AdonisML requiere consulta de precio, pero la suscripción Pro \"empieza en 3.000 libras al año.\""
+        }
+      ]
+    },
+    "design/figma-lc-7q": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El pasado junio, Figma reunió a más de 1.300 líderes senior de diseño, producto e ingeniería en el Config Leadership Collective para dos días de debate sobre el diseño en la era de la IA. Directivos de Airbnb, OpenAI, Sephora, Atlassian, Cisco y otros subieron al escenario, y Figma recopiló las siete preguntas que llevó al evento junto con las respuestas que tuvieron más eco."
+        },
+        {
+          "t": "p",
+          "x": "Ante la pregunta de cómo liderar un cambio que ni ellos mismos terminan de entender, el responsable de diseño de producto de OpenAI, Ian Silber, respondió: \"Todo el sector ha cambiado en pocos meses. Es difícil aferrarse a un solo proceso; al final es una cuestión de capacidad de adaptación.\" La vicepresidenta de diseño de Airbnb, Teo Connor, dijo que aborda esto con mentalidad de principiante, prototipando y experimentando junto a su equipo, mientras que la vicepresidenta de diseño de Expedia, Rachel Been, dijo que hay que dar a los equipos permiso para experimentar y disfrutarlo aunque algo no salga bien."
+        },
+        {
+          "t": "p",
+          "x": "Hay cosas que no cambian: los fundamentos de entender a los usuarios y proteger el craft. Sobre esa base, el centro de gravedad de la pericia se desplaza de la ejecución al juicio. Como dijo la directora de tecnología de Sephora, Sneha Narahalli: \"La pericia ya no es conocer la respuesta. Es saber qué respuesta funciona en el contexto en el que te encuentras ahora.\""
+        },
+        {
+          "t": "p",
+          "x": "La estructura de los equipos también se está rediseñando. Airbnb se ha reorganizado en pods que funcionan como pequeñas startups, agrupando incluso a científicos de datos y personal de negocio en un mismo equipo. En cuanto a la adopción de herramientas, Rachel Been creó un programa de formación en IA para elevar el uso de su equipo, mientras que Alex Embiricos, de OpenAI, aconsejó empezar por las tareas más pequeñas, como resumir un hilo largo de Slack, en lugar de planear grandes esquemas de automatización."
+        },
+        {
+          "t": "p",
+          "x": "La confianza en los agentes se construye ampliando poco a poco la autonomía alrededor de pasos de aprobación, y el estándar de calidad lo mantiene, al final, la gente. El presidente y CPO de Cisco, Jeetu Patel, lo dijo sin rodeos: \"El gusto no se puede externalizar.\" Cuanto más código se genera automáticamente, viene a decir, más importan el buen gusto y el buen juicio."
+        }
+      ]
+    },
+    "design/mixos-pbr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Si necesitas una forma de trabajar con texturas mientras te desplazas, vale la pena echarle un vistazo a Mixos. Es una app nueva basada en WebGPU que permite pintar texturas 4K PBR directamente en el navegador web, o mezclarlas a partir de una biblioteca de más de 2.600 materiales CC0. Si activas la función opcional de IA, también genera conjuntos completos de texturas PBR solo a partir de prompts de texto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_UI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mixos incluye la mayoría de las funciones que se esperarían de una herramienta de pintura de texturas 3D; solo que funciona dentro de una ventana del navegador en lugar de como aplicación offline. Importa modelos 3D en formatos estándar como FBX, OBJ y glTF/GLB, y permite pintar texturas directamente con modos de pincel, sellos, stencils y pintura por proyección. Además de los mapas PBR estándar, como albedo, normal, rugosidad, metálico, altura y opacidad, también puede hornear mapas derivados de la geometría, como la oclusión ambiental o la curvatura."
+        },
+        {
+          "t": "p",
+          "x": "También existe la opción de crear texturas mezclando 2.600 materiales PBR ya hechos, obtenidos principalmente de ambientCG y Poly Haven, mediante un sistema de capas. Este conjunto de herramientas de mezcla de materiales también está disponible como una app web independiente llamada Strata. Los modelos con textura se pueden guardar localmente o exportar como mapas de textura de hasta 4K de resolución para usarlos en apps de DCC y motores de videojuegos como Blender, Cinema 4D, Maya, Unity y UE5."
+        },
+        {
+          "t": "p",
+          "x": "También cuenta con un flujo de trabajo de IA generativa. Con solo una descripción de texto se puede crear un material PBR completo o texturas, máscaras, alfas y calcomanías individuales, y el sistema Auto-Texture texturiza automáticamente un modelo 3D importado y genera renders de prueba desde varios ángulos. Las funciones de IA funcionan por créditos, y las suscripciones de pago incluyen créditos mensuales."
+        },
+        {
+          "t": "p",
+          "x": "No tiene todas las funciones de un software de creación de materiales offline como Substance 3D de Adobe o el de código abierto ArmorPaint. A cambio, al estar basado en el navegador no requiere instalación ni una máquina de alta gama. El requisito de hardware real se resume en \"una GPU de los últimos seis años.\" Para quien trabaja a menudo de forma remota, puede ser útil para trabajar sobre la marcha o para retocar un material con rapidez cuando no se tiene a mano la máquina principal."
+        },
+        {
+          "t": "p",
+          "x": "Es compatible con Chrome, Edge y Safari 18 o posterior en escritorio. Usar el editor y guardar escenas es gratis, pero las texturas exportadas llevan marca de agua, así que para proyectos comerciales se necesita una cuenta Pro o Studio de pago. Pro cuesta $9 al mes o $84 al año por 100 créditos de IA al mes, y Studio cuesta $19 al mes o $180 al año por 400 créditos de IA al mes."
+        }
+      ]
+    },
+    "design/prometheus-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/Stephen_Holmes_prometheus_comment-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Stephen Holmes, de DEVELOP3D, plantea preguntas sobre Prometheus, la startup de IA que Jeff Bezos lanzó en noviembre de 2025. La empresa ya ha reunido más de 18.000 millones de dólares en dos rondas de financiación con grandes inversores como JP Morgan y BlackRock, pero lo que realmente está construyendo sigue siendo un misterio."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo declarado es hacer por la ingeniería física lo que los agentes de codificación con IA han hecho por el software: comprimir un proyecto que a 100 ingenieros les tomaría 10 años en un programa de un año, para que la humanidad pueda construir más cosas. En mayo de 2026, hablando con Andrew Ross Sorkin en el Squawk Pod de CNBC, Bezos dijo: \"Estamos construyendo un ingeniero general artificial. Probablemente hayas oído hablar del CAD; esto es, digamos, una versión muy, muy moderna de eso.\" Es la declaración más clara hasta ahora, pero sigue sin saberse qué saldrá de esto en realidad."
+        },
+        {
+          "t": "p",
+          "x": "Un vistazo a LinkedIn muestra más de 100 empleados en oficinas de San Francisco, Londres y Zúrich, la mayoría ingenieros de software procedentes de grandes empresas tecnológicas. Sus currículos abarcan desde herramientas de VFX hasta algoritmos de diseño de fármacos y apps de transporte público, pero pocos han trabajado antes con CAD o con fabricación física."
+        },
+        {
+          "t": "p",
+          "x": "Holmes señala que el término 'ingeniero general artificial' describe, en el fondo, un sistema que depende de la AGI. La AGI todavía no existe; lo que hay ahora es solo 'IA estrecha', limitada a tareas específicas. La idea de volcar tanto dinero en el desarrollo de AGI solo para sacar un nuevo sistema CAD no resulta del todo convincente, y las cuentas también sugieren que 18.000 millones de dólares bastarían de sobra para comprar empresas existentes con tecnología de diseño e ingeniería ya probada."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, su diagnóstico es que no parece que esto vaya a poner del revés a la industria del CAD actual. Los cuatro grandes proveedores de CAD están aumentando su colaboración con startups de nicho, y no se sabe cuándo, ni siquiera si, llegará un producto comercial de Prometheus. Lo que sí está claro, dice, es que si la AGI llega a aparecer de verdad, podría dejar muy atrás a las herramientas de diseño actuales. Hasta entonces, Holmes cierra con una broma: tal vez baste con pedirle a Jeff que vuelva a mandar a Katy Perry al espacio en un cohete."
+        }
+      ]
+    },
+    "design/octane-2026-4": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Otoy presentó OctaneRender 2026.4, su renderizador de producción por GPU. La actualización amplía tanto el renderizado neuronal como el renderizado por gaussianas 3D."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260707_OctaneRender20264_f.jpg",
+          "cap": "OctaneRender 2026.4"
+        },
+        {
+          "t": "p",
+          "x": "El elemento central es la caché de radiancia neuronal (NRC). Se trata de una red neuronal que aprende durante el renderizado para reducir el ruido desde el primer píxel, con un efecto especialmente notable en escenas con mucha luz indirecta. En 2026.4, el soporte que antes se limitaba a Windows y Linux se amplía a Mac, y funciona tanto en renderizado local como en red."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de splatting gaussiano 3D admiten SPZ 4, la última versión del formato de código abierto para datos 3DGS. Octane X, la versión para Mac, también funciona en el nuevo MacBook Neo."
+        },
+        {
+          "t": "p",
+          "x": "La suscripción es el plan Studio+, por 23,95 € al mes, que incluye complementos de integración para 21 aplicaciones DCC. También existe una edición Prime gratuita limitada a una sola GPU."
+        }
+      ]
+    },
+    "design/meta-bci": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta presentó la siguiente versión de un sistema de IA que convierte la actividad cerebral en texto de forma no invasiva. Se llama Brain2Qwerty v2 y busca ayudar a pacientes con daño o enfermedad neurológica que han perdido la capacidad de hablar."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1068%2C601&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "v2 parte de v1, lanzado el año pasado. v1 fue el primero en mostrar que los registros cerebrales no invasivos por sí solos podían leer letras con una precisión sorprendentemente alta, pero incluso combinando electroencefalografía (EEG) y magnetoencefalografía (MEG) solo lograba decodificar caracteres individuales."
+        },
+        {
+          "t": "p",
+          "x": "Este v2 decodifica directamente a partir de señales cerebrales en bruto mediante aprendizaje profundo de extremo a extremo, en lugar de una canalización diseñada por humanos. Esto le permite ir más allá de las letras sueltas y leer palabras y oraciones. Se le suman un modelo de lenguaje de gran escala, decodificación en tiempo real y un reconocimiento de patrones mejorado."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meg-brain2qwerty.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no es perfecto. Meta afirmó que 'v2 reconstruye oraciones de forma consistente a partir de señales neuronales con ruido, logrando un 61% de precisión por palabra', muy por encima del 8% de otros métodos no invasivos. El participante con mejor desempeño alcanzó el 78%, y 'más de la mitad de todas las oraciones se decodificaron con, como máximo, un error de palabra'. Meta añadió que 'la precisión mejora de forma log-lineal con el volumen de datos, por lo que la brecha restante con los métodos quirúrgicos también podría cerrarse simplemente aumentando los datos'."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo a largo plazo es dar a los pacientes que han perdido el habla una forma de comunicarse sin cirugía. A diferencia de los métodos invasivos, como Neuralink de Elon Musk, que amplió sus ensayos humanos este año, este enfoque no requiere operación. Los investigadores señalaron en Nature que los métodos invasivos son más eficientes para convertir pensamientos en texto, pero conllevan riesgos no triviales de hemorragia cerebral e infección, y son menos escalables porque es difícil mantener el funcionamiento de los dispositivos implantados a largo plazo."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, todavía falta mucho para un dispositivo MEG de consumo. Hoy en día, muchos equipos MEG clásicos siguen siendo tan voluminosos como 'un casco colocado en una sala de hospital'. Ya han surgido dispositivos más pequeños que funcionan a temperatura ambiente, como el magnetómetro de bombeo óptico (OPM) de Cerca, pero los campos magnéticos que genera el cerebro son millones de veces más débiles que los del campo magnético terrestre o los que producen los teléfonos, el Wi-Fi y el cableado, por lo que se necesita una sala con blindaje magnético para bloquear la interferencia de fondo."
+        }
+      ]
+    },
+    "design/autodesk-ai-judgment": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dara Treseder, directora de marketing (CMO) de Autodesk, dijo en una entrevista en Cannes Lions que los mejores equipos creativos y de marketing saben cuándo no deben poner las manos en la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91567691-autodesk-cmo-dara-treseder-says-the-best-marketers-will-know-when-not-to-use-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Al ser preguntada sobre el ambiente de la industria, respondió: \"La gente está realmente entusiasmada, pero también hay mucha ansiedad por lo que está pasando ahora mismo\"."
+        },
+        {
+          "t": "p",
+          "x": "Añadió que \"la confusión en torno a la IA ha empeorado respecto al año pasado\", subrayando que, a medida que las herramientas generativas se extienden por el diseño y la creatividad en general, es aún más importante mantener la narrativa de marca y el juicio humano en el centro."
+        },
+        {
+          "t": "p",
+          "x": "La conversación también abordó las campañas publicitarias del Mundial, evaluaciones de campañas de marcas importantes como Nike, Adidas y Starbucks, y la trayectoria profesional de CMO a CEO. Este artículo es una versión resumida de una entrevista del podcast 'Rapid Response', que recoge conversaciones francas con líderes."
+        }
+      ]
     }
   }
 }

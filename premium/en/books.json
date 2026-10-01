@@ -1578,6 +1578,485 @@
           "x": "Genie rolls out first to subscribers in Sweden today and will be available across all of Sweden by July 1. Other markets will open one after another starting in August."
         }
       ]
+    },
+    "books/cn-webnovel-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a story about China's web fiction market, as reported by Electronic Times. The free platform Fanqie Novel sharply tightened its crackdown on AI-generated content in the first half of this year. In June alone, it rejected contracts for more than 100,000 low-quality works and processed more than 40,000 works that violated its rules. It sanctioned 855 violating accounts, with some suspended permanently."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.64bf7d155b834bf4a1b35034fe6d1658_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Fanqie Novel isn't blocking AI itself. It filters out writing with tangled sentences, plots that don't hold together, padding with no real content, or a lack of originality. By contrast, Qimao Chinese Network and Qidian Chinese Network have told writers that they ban any form of AI-assisted writing, in any shape."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that detection isn't perfect. Since AI was built by learning from human writing, even human-written text can be mistaken for AI style. That creates a paradox: some writers now work hard to write in a way that doesn't look like AI. They use 'humanizer' tools that turn AI-sounding sentences into a more 'human' style, and pass drafts around to each other before publishing to check for any trace of AI."
+        },
+        {
+          "t": "p",
+          "x": "Industry observers think today's generative AI still can't fully replace a long novel on its own. A story running into the millions of characters needs to keep track of its world-building, character relationships, and prior events, and carry them forward consistently. In the end, the real question isn't whether AI was used, but how to protect quality and the value of human-made creative work."
+        }
+      ]
+    },
+    "books/ipa-innovation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452.jpeg",
+          "cap": "Nadim Sadek, Gvantsa Jobava, Senthil Nathan"
+        },
+        {
+          "t": "p",
+          "x": "The 35th International Publishers Congress, held in Kuala Lumpur, once again presented two awards honoring achievement and innovation in publishing. At the closing gala dinner, the International Publishers Association (IPA) announced that Brazilian publisher Alfredo Weiszflog would receive the 2026 IPA Champion Award. Two AI companies already well known in publishing, Shimmr and Ailaysa, took home the IPA Publishing Innovation Award."
+        },
+        {
+          "t": "p",
+          "x": "The Champion Award goes to an individual who has gone beyond the ordinary call of duty to advance IPA's goals for the publishing industry. The IPA described Weiszflog as a central pillar of the Brazilian and international publishing markets over a half-century career."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-07-at-3.22.43-PM.png",
+          "cap": "Alfredo Weiszflog"
+        },
+        {
+          "t": "p",
+          "x": "His publishing life began in 1967 on the marketing team at Companhia Melhoramentos, and he went on to work through nearly every department at the company. According to the IPA, the publisher modernized under his leadership and drew some of Brazil's leading authors. He served as president of the Brazilian Book Chamber (CBL) from 1985 to 1989, and organized Brazil's first appearance as guest of honor at the Frankfurt Book Fair in 1994. In a video shown at the ceremony, he said the moment fulfilled a promise he'd made to himself long ago, and that he was grateful to receive this recognition while he's still alive."
+        },
+        {
+          "t": "p",
+          "x": "The Publishing Innovation Award goes to an organization or individual that has carried out an innovative publishing practice that others can replicate and that benefits the industry."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2023/07/Nadim-Sadek-shimmr-270.jpg",
+          "cap": "Nadim Sadek"
+        },
+        {
+          "t": "p",
+          "x": "Shimmr is the company behind the world's first 'Advertising as a Service (AaaS)' platform, a subscription-based autonomous AI system designed to run book marketing continuously at an affordable cost. CEO Nadim Sadek said the IPA's recognition was \"deeply appreciated\" by the team. He said publishing is often described as conservative and risk-averse, but their own experience was the opposite — they met broad curiosity, constructive criticism, and bold adoption, and were welcomed rather than met with suspicion, even in an era when new technology tends to draw doubt first."
+        },
+        {
+          "t": "p",
+          "x": "Ailaysa founder and CEO Senthil Nathan also expressed thanks. He said the award means everything to a company built by people who have spent their lives among translators, writers, and publishers. He added that Ailaysa exists to make sure a book, no matter who wrote it or in what language, can reach readers anywhere in the world in the language they choose."
+        },
+        {
+          "t": "p",
+          "x": "Ailaysa is a multilingual AI company that offers dedicated solutions for publishers, and it also created the reading and book-discovery platform Chai Reader. The IPA holds the International Publishers Congress every two years. This year's Kuala Lumpur congress ran from July 5 to 9."
+        }
+      ]
+    },
+    "books/kindle-recaps": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The news comes from Michael Kozlowski at Good e-Reader. Reading a series on and off tends to leave the plot and characters fuzzy. Kindle's Recaps feature fills that gap, and it's now available in web browsers too."
+        },
+        {
+          "t": "p",
+          "x": "Recaps works like a TV show's 'previously on' segment. It gives a short, spoiler-free summary of earlier books in a series or of the book you're currently reading, so you can catch up on characters and events without rereading. Until now it was only available on Kindle e-readers and the iOS app; now that content shows up in browsers as well."
+        },
+        {
+          "t": "p",
+          "x": "Just hit 'View Recaps' on a series page on Amazon's website. Signing in with an Amazon account also shows your reading goals and history for the year. You can use whichever browser you like — Chrome, Firefox, Edge — but for now it's only open to users in the US."
+        }
+      ]
+    },
+    "books/infinite-story": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishing industry analyst Jane Friedman led her newsletter with this research. It analyzed 500,000 anonymized English-language ChatGPT conversations to look at how people use AI to make fiction. What stood out was a small group of heavy users dubbed 'infinite story demanders,' who mass-produce repetitive AI fan fiction and erotica purely for their own private enjoyment."
+        },
+        {
+          "t": "p",
+          "x": "Friedman highlighted the questions the study raises about AI's relationship with entertainment: \"LLMs clearly enable interaction, play, and variation in ways that give users pleasure, and that raises questions about where AI fits into the contemporary storytelling and entertainment ecosystem.\""
+        },
+        {
+          "t": "p",
+          "x": "The study sees AI-generated fiction as resembling an on-demand, personalized, repetitive cultural form, a sign that story consumption is starting to happen outside the paths of traditional publishing. The paper is available on arXiv."
+        }
+      ]
+    },
+    "books/ipa-congress": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishers Weekly carried this report from the 35th International Publishers Association (IPA) Congress. Running July 5-9 at the Grand Hyatt in Kuala Lumpur, Malaysia, the congress drew 500 people from 40 countries, with 70 speakers from six continents on stage. From the opening remarks through the keynotes and panel discussions, AI ran across the entire agenda."
+        },
+        {
+          "t": "p",
+          "x": "Sheikh Faisal Sheikh Mansor, president of the Malaysian Book Publishers Association, opened the event by saying, \"The world has changed dramatically, but our purpose of connecting people through knowledge, ideas, and stories remains the same.\" IPA President Gvantsa Jobava went a step further: \"Our collective work has become the best source of training data for AI. If AI ever lives up to its promise, it will be solely thanks to the quality of the books all of us make.\""
+        },
+        {
+          "t": "p",
+          "x": "Thad McIlroy of 'The Future of Publishing' assessed that publishing has moved past the stage of marveling at AI and into a stage asking, 'now what do we actually do?' His observation was that academic publishing is largely working to understand AI and figure out how to integrate it, while book publishing has just moved from anxiety, fear, and panic toward cautiously, and sometimes quietly, experimenting with AI."
+        },
+        {
+          "t": "p",
+          "x": "AI wasn't the only thing on stage. Richard Mollet of RELX moderated an ethics panel, and UN Under-Secretary-General Melissa Fleming addressed the problem of disinformation and possible solutions. Kai Zenner of the European Parliament covered policy challenges, and there were also stories from Prix Voltaire winners, who have been honored for championing freedom to publish."
+        }
+      ]
+    },
+    "books/pls-litigation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a report on the Publishers Licensing Services (PLS) conference, carried by Melina Spanoudi of The Bookseller. At the event, publishers said they're still waiting for a 'clear' legal answer on AI training, output, and licensing. The assessment was that years of copyright litigation have failed to answer the core questions publishers actually need answered before they can set an AI licensing strategy."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg"
+        },
+        {
+          "t": "p",
+          "x": "There's a reason for the frustration. Litigation is still ongoing in the US this year. Last May, five publishers—Elsevier, Cengage, Hachette, Macmillan, and McGraw Hill—filed a class action against Meta together with bestselling author Scott Turow. Across different courts, arguments are playing out over training data, output, licensing, and piracy, with a growing body of rulings treating model training as transformative use, even as output claims face tightening demands to prove substantial similarity to a plaintiff's own work."
+        },
+        {
+          "t": "p",
+          "x": "PLS is the organization that launched a collective AI licensing scheme at the London Book Fair earlier this year, and around 250 UK publishers have recently said they want to take part. Licensing practice has already started moving even while everyone waits for litigation to set the standards. The full article is available to Bookseller subscribers."
+        }
+      ]
+    },
+    "books/ao3-ai-markup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The first time AI came up at a writing and publishing event, one fan fiction author got heated during the Q&A. Her argument was that the technology amounts to mass copyright infringement, trained on fan fiction sites without permission. That's a fair point, though it's an awkward one to raise given that fan fiction itself is written without the original copyright holder's permission, which could itself be infringement. Since then, it's become clear that the fan fiction community runs especially strong on anti-AI sentiment, but as in other corners of publishing, it seemed reasonable to assume quite a few people there were using AI without disclosing it."
+        },
+        {
+          "t": "p",
+          "x": "A X user known only as John Doe found that fan fiction copied from Claude and pasted into Archive of Our Own (AO3) carries code pointing to AI involvement. Popular works inspired by 'Heated Rivalry,' 'Stranger Things' and 'The Pit' were among those flagged as having AI's hand in them."
+        },
+        {
+          "t": "p",
+          "x": "The interesting part is the psychology. A good number of the flagged AO3 works carried an 'AI-free' tag or made strong anti-AI statements. The author keeps repeating in writing communities that \"transparency and honesty around AI use can't be relied on.\" The honor system doesn't work, and no publisher or group with an anti-AI policy can really enforce that purity."
+        }
+      ]
+    },
+    "books/cartland-clone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Audiobook publisher Bolinda has used AI to bring back the voice of the late romance author Barbara Cartland. Interviews, archival material and human input were combined to give her distinctive narration to new audiobook editions."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rebecca Herrmann, Elise Pulford-Moore and Tara Parker told The Bookseller how they wove together AI and archives to 'clone' Cartland's voice."
+        },
+        {
+          "t": "p",
+          "x": "The original article is behind a paywall for paying subscribers only, so details such as which titles will come out and when could not be confirmed."
+        }
+      ]
+    },
+    "books/fiction-feast-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Popular fiction magazine Take a Break's Fiction Feast reportedly told its regular contributing writers that it will use \"AI tools\" on stories produced in-house going forward."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "For a magazine that has long run short fiction aimed at a mass audience, it's a signal of a shift in how stories get made, and no small change for the contributing writers and editors who've steadily supplied copy."
+        },
+        {
+          "t": "p",
+          "x": "Details such as the specific scope of use or how writers have reacted couldn't be confirmed, as they're locked behind a paywalled article."
+        }
+      ]
+    },
+    "books/pub-data-edge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Three companies leading with AI data analysis are knocking on publishers' doors this year. Each targets a different angle, rights acquisition or marketing, but the pitch is similar: they'll back up decisions long made on gut feeling with data, without replacing an editor's judgment, they all say."
+        },
+        {
+          "t": "p",
+          "x": "Spain's Alegría is about to launch 'Publisher OS,' which expands its editing tools into rights, royalties and financial management. It started as a proofreading tool and has grown to include translation, analytics, automated marketing and press release production. It counts publishers like Anagrama and Trotta as clients, has expanded into Mexico and Argentina, and has entered pilot runs with large English-language publishers. Content lead Antonio J. Rodríguez named big AI labs like OpenAI and Google, not DeepL or Grammarly, as the real competition."
+        },
+        {
+          "t": "p",
+          "x": "Germany's Lit-X focuses on spotting books trending worldwide and connecting them through licensing. It scans 12,800 book influencers and 2.5 million posts across Amazon, Goodreads, TikTok, Instagram and YouTube, combining ratings with reach and engagement into a 'Trend Momentum' score. Editors get the results through a biweekly digest email. Instead of charging per seat, it takes flat enterprise subscriptions; co-founder Lars Leibsohn said, 'If you charge per license, nobody uses it.'"
+        },
+        {
+          "t": "p",
+          "x": "New Zealand's Narrative Muse runs a consumer recommendation engine spanning books, film and TV alongside a reader analytics dashboard for publishers and self-published authors. Drawing on taste data from roughly 100,000 users of its recommendation engine, it helps gauge reader demand at the rights and editing stage rather than only looking at sales after publication. It breaks down a single book into more than 220 attributes to match against reader taste. Co-founder Bruff Johnson said, 'We look at everything we do through an ethics lens,' calling that their edge."
+        }
+      ]
+    },
+    "books/libby-ai-filter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This piece is from The Verge's weekly newsletter Lowpass by Janko Roettgers. Mark DeBevoise, who became OverDrive's CEO last week, says, \"AI is a new frontier for us.\" OverDrive runs Libby, the e-book lending app used by tens of thousands of public libraries, and it now stands right where a wave of AI-made books is pouring in."
+        },
+        {
+          "t": "p",
+          "x": "That's why Libby is getting AI content controls, a feature letting readers choose in app settings whether to see AI-generated content. It filters not just AI-written books but AI-narrated audiobooks, machine translations and AI-generated art. DeBevoise said, \"we need to let people know what's there and how it was made.\" Libby faced backlash last year after adding its own AI recommendation feature, so OverDrive is aiming for a middle ground: letting readers and librarians avoid AI while still keeping benefits like recommendations and localization."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/AI-Content-Control-Image-1.png?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Founded 40 years ago to move books onto floppy disks and CD-ROMs, the company now works with 92,000 libraries, schools and universities across 115 countries. Libby's catalog holds more than 6 million books and has passed 1 billion checkouts. DeBevoise flatly says most of the catalog has nothing to do with AI, since \"books from before 2020 or 2022 are, by definition, not AI.\""
+        },
+        {
+          "t": "p",
+          "x": "Still, this setup may not last. Amazon has capped self-publishing uploads since 2023, and Kobo CEO Michael Tamblyn said last month that it rejects nearly half of new self-published titles over AI concerns. OverDrive has no direct channel for authors to upload books themselves, but it receives books through intermediaries like Draft2Digital, which allows AI books if they've been sufficiently edited by a person. That means AI books are hard to keep from flowing into Libby. Even so, OverDrive chose to rely on publishers self-labeling with standard metadata rather than using an AI detector."
+        },
+        {
+          "t": "p",
+          "x": "Audiobooks make up 15% of the catalog but account for half of app usage. DeBevoise values audiobooks read by human narrators more highly, but believes translating into dozens or even a hundred languages isn't affordable without AI. Critics also say machine translation of literary works is problematic. The new filter does have an option to exclude machine translations, but it only works if the book is properly labeled."
+        }
+      ]
+    },
+    "books/sudowrite-sonnet5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sudowrite rolled out a bundle of updates in its June 30 changelog. The centerpiece is Claude Sonnet 5. Anthropic had just released the new model, and Sudowrite added support right away, describing it as approaching the quality of its flagship, Opus 4.8, while following instructions noticeably well. It works across Write, Draft and plugins generally, and credit costs are actually lower."
+        },
+        {
+          "t": "p",
+          "x": "Folder export also arrived. From the folder menu, you can now bundle an entire folder of documents into a .zip file or pull them together into a single combined .docx, making it easier to move manuscripts and materials around."
+        },
+        {
+          "t": "p",
+          "x": "Document reordering can now be done entirely with the keyboard. The Alt (Option) key plus arrow keys change order and nest items as sub-items, with an announcement on every move that works with screen readers."
+        },
+        {
+          "t": "p",
+          "x": "Smaller fixes followed too. These include mobile app stability (2026.26.16), preserved Write Guidance prompts, a fix for a browser tab error, optimized comment loading, preserved display of feedback text, expanded series chat history, a Quick Edit layout, adjusted draft-generation credits, and improved character detection in novel imports. The post closes with a call for beta testers for an upcoming style guide feature."
+        }
+      ]
+    },
+    "books/zoom-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is the lead item Carlo Carrenho flagged in Publishing Perspectives' weekly international publishing briefing. According to a Börsenblatt report citing investigations by German public broadcaster SWR and Swiss public broadcaster SRF, US AI companies are buying up large quantities of used German-language books to train large language models."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "Secondhand bookshops across Germany have seen unusually large orders from the Canadian-American company Zoom Books. The orders concentrated on nonfiction and specialist titles from the 1970s onward that carry ISBNs, and the purchased books are reportedly scanned and then discarded."
+        },
+        {
+          "t": "p",
+          "x": "Roger Sonnewald, a bookseller in Tübingen, told SWR that the purchases themselves are legal, but warned that if the discarding is true, cultural heritage could be lost. SRF reported that as freely scrapable text online runs dry, AI companies are turning to older specialist books. Some companies reportedly see buying physical books, scanning them and disposing of them as a way to lean on the US fair use doctrine."
+        },
+        {
+          "t": "p",
+          "x": "Carrenho noted that there have been earlier reports of AI companies amassing large quantities of paper books inside the US, but this appears to be a case of the practice spreading into a foreign-language market. In the focus on out-of-print used books, he reads a sign that AI companies are now searching beyond current publishing catalogs for training material. If confirmed, he wrote, it's a trend the publishing industry needs to watch."
+        }
+      ]
+    },
+    "books/byus-storychat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On the 1st, Naver Webtoon unveiled byUs, an AI storychat service built on webtoon IP. It uses official IP approved by the original creators as is, letting users become the protagonist of the story and continue their own narrative by talking with characters. The original world is respected, while the immersion is left in users' hands."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "There are two ways to use it. 'Original Story' opens with an intro set in the original world and unfolds a new narrative through back-and-forth dialogue with characters. 'Fan Story' is a mode that brings in original characters to enjoy created stories with new situations and relationships. A UGC tool that lets users create and share their own Fan Stories is also provided."
+        },
+        {
+          "t": "p",
+          "x": "Features such as suggested replies, autoplay, snapshots and special cuts add to the immersion. The first title available on byUs is 'Job Change Log.' Naver Webtoon plans to expand its IP lineup starting with titles that have a strong fan base."
+        },
+        {
+          "t": "p",
+          "x": "Kim Shin-hyung, head of Naver Webtoon's IP business, said, \"Webtoons are moving beyond content you simply 'watch' into an 'interactive' space where fans directly take part in and expand the story world.\" He added, \"Through byUs, we will help fans rediscover the appeal of the original works and build a virtuous cycle that leads to deeper attachment to IP and a stronger lifecycle.\""
+        }
+      ]
+    },
+    "books/choco-daldal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "How do kids used to video and short-form content read? According to the National Library for Children and Young Adults' '2025 Survey on Reading and Library Use by Children and Young Adults,' use of video, e-books and audiobooks has grown compared with 2012, and young people are increasingly moving away from paper books toward digital reading on mobile devices as their main way of reading. In step with this shift, Mirae N has released reading content through its AI-based learning platform Choco."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Choco is an online platform that draws on Mirae N's 78 years of education experience to deliver content matched to each learner's level and progress. It covers curricula from early childhood through every grade of elementary school and works on PC, tablet or smartphone. In Mirae N's own 2025 parent survey, it recorded a 98% satisfaction rate. The platform also offers ChocoPop, which covers Korean, math, social studies and science, along with the AI-powered literacy, math and English services Daldal Dokhae, Daldal Suhak and Daldal Yeongeo."
+        },
+        {
+          "t": "p",
+          "x": "Daldal Dokhae, the literacy service, runs a diagnostic test to check a student's reading disposition and level before giving personalized passages. It moves through three stages—Vocabulary Check, Reading Growth and Skill Boost—to build vocabulary and background knowledge, then on to passage comprehension and problem solving. It holds more than 2,300 passages across six fields: humanities, social studies, science, technology, art and literature. It was developed jointly by Mirae N and the Natmal Vocabulary Information Processing Institute, which created the 'LQ Literacy Test' taken by more than 240,000 people."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.865bb6dd008c43778807e3038c288096_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "ChocoToon is a digital learning webtoon made by Mirae N, the top publisher of textbooks by print volume. It has digitized more than 1,000 popular educational comics and added a reward structure that links learning and reading, rather than making it just a webtoon to watch. A Mirae N representative said, \"It's designed so students use their ChocoChip learning mileage points to read ChocoToon for free, leading them toward self-directed learning,\" adding, \"Various features support a proper reading experience even in a digital environment.\""
+        }
+      ]
+    },
+    "books/kobo-h2-roadmap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kobo said it will roll out features in the second half of 2026 that fundamentally change how its devices handle reading and writing. In a recent email to customers, CEO Michael Tamblyn previewed \"development that will fundamentally change how we read and write on our devices.\" The timing is expected to be this fall or winter. Kobo also detailed, on its blog, changes it's making this summer."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg"
+        },
+        {
+          "t": "p",
+          "x": "First is StoryGraph integration. StoryGraph is an app and website for rating and reviewing books you've read and managing reading plans and challenges; now, linking an account syncs your reading history automatically, whether you're on the Kobo app, the web reader or an e-reader. There's no more need to keep track of it separately across devices. Kobo.com's product detail pages also got reorganized information and faster loading."
+        },
+        {
+          "t": "p",
+          "x": "The web reader got attention too. New fade and swipe page-turn effects were added, alongside the existing default flicker. A feature to select and copy sentences from a book you're reading was also added, letting you pull up to 600 characters at a time."
+        },
+        {
+          "t": "p",
+          "x": "The subscription service Kobo Plus expanded to Poland, Romania, the Czech Republic, the Philippines, Greece and Luxembourg. Users in Belgium can also pay with Bancontact, a payment method widely used there."
+        }
+      ]
+    },
+    "books/proust-chatgpt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an essay by Brian Charles published in Literary Hub. Prompted by Oxford World's Classics' new translation of Proust's 'In Search of Lost Time,' it looks squarely at how AI is quietly seeping into literary translation. To Charles, translation seemed like slow, deliberate work done 'outside of time,' a poor fit for machine translation from the start. So he asked two translators who actually use the tools."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png"
+        },
+        {
+          "t": "p",
+          "x": "Andrew Rothwell, who translated 'The Captive,' uses Wordscope, a translation platform that brings DeepL, Google Translate and ChatGPT together on one screen. Placing the original text, the 1929 Moncrieff translation and AI's suggestions side by side cuts down on switching between screens, easing the translator's 'cognitive load,' he explains. Still, he draws a line: the decision is always his, and the machine only proposes. He does his final polishing in a Word document outside the CAT tool. He added that today's skepticism resembles the suspicion once aimed at word processors."
+        },
+        {
+          "t": "p",
+          "x": "Sam Taylor, who won the Scott Moncrieff Prize, translates 4,000 words a day with a French PDF open on the left and Word on the right. Instead of letting ChatGPT write sentences, he uses it only for research and checking facts. He said the tool is \"like working with a smart but lazy child. You can't leave it unsupervised.\" He recounted an episode where he asked it to research something and it invented a book title that didn't exist, then apologized. His conclusion is clear: \"It holds every language on earth at its fingertips, but it has no aesthetic sense.\""
+        },
+        {
+          "t": "p",
+          "x": "The numbers are telling too. A 2024 survey by the European Council of Literary Translators' Associations found overwhelmingly negative views of machine translation, and a 2025 study named translators as the profession most threatened by the spread of AI. Taylor predicted that ordinary translators would disappear, leaving only those with a distinct style. Charles wrote that his conversations with the two left him somewhat reassured, though not entirely free of unease, and that he would keep turning pages, savoring language through slow reading."
+        }
+      ]
+    },
+    "books/plutonium-or-salt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an essay by Rakuten Kobo CEO Michael Tamblyn for Publishing Perspectives. At a recent Kobo leadership meeting, colleagues who rarely argue had a heated debate over whether AI-generated books should be sold in the Kobo store."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-09-at-7.01.42-PM-793x508.png"
+        },
+        {
+          "t": "p",
+          "x": "Kobo receives thousands of new titles every day, and books that look AI-made keep increasing. Watching the uproar over Hachette canceling the release of Mia Ballard's buzzy novel 'Shy Girl,' Kobo's teams tried to set standards for which books to accept and which to block."
+        },
+        {
+          "t": "p",
+          "x": "The debate actually had three strands: how much AI should be allowed in books, how to enforce any rule that is made, and what kind of bookstore Kobo wants to be in the AI era. Last year Kobo rejected 45% of the books submitted to its self-publishing platform Kobo Writing Life — literally hundreds of thousands of titles — mostly low-quality books judged to be AI-generated. Those cases are easy calls. The problem is the vast middle ground in between. Nonfiction writers use AI to organize research, and some writers ask AI for five versions of a stuck paragraph. Editors at understaffed small publishers use AI to check spelling and grammar."
+        },
+        {
+          "t": "p",
+          "x": "Tamblyn sums up the core of the debate this way: in books, is AI plutonium or salt? Plutonium is lethal even in trace amounts, while salt, used in moderation, makes food better. Is any trace of it, like plagiarism, instant disqualification, or is it a tool that can be used with restraint? For many working writers angry at AI services trained on pirated books, AI is plutonium. But allowing only 0% AI would also filter out countless books that deserve to be read."
+        },
+        {
+          "t": "p",
+          "x": "Enforcement is even trickier. As models improve, detecting AI-written text gets harder, and the detection software Kobo tested often misjudged human writing as AI and AI writing as human. It is too risky to let software make a call that could ruin a writer's career. A recent study in a linguistics journal found that people who regularly work with AI text judge it far better than detection software does."
+        },
+        {
+          "t": "p",
+          "x": "The final issue was one of values: a 'readers first' view that any good book readers want should be sold, versus a 'book community first' view that the ecosystem of writers, publishers and editors must be protected — and Kobo leaned toward the latter. Everyone agreed that the book industry exists because people spend time and money on words on a page. This essay is adapted from Tamblyn's keynote at the Frankfurter Buchmesse CONTEC event, held April 21 at the Buenos Aires International Book Fair."
+        }
+      ]
+    },
+    "books/ai-peer-review": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a piece by Elena Vicario, research ethics director at Frontiers, published on Scholarly Kitchen. As recent discussions of paper mills and industrialized research misconduct show, AI has become a tool that accelerates fraud at scale. But Vicario's conclusion points the other way: if AI is part of the problem, it must also be part of the solution."
+        },
+        {
+          "t": "p",
+          "x": "Publishers already use AI-based systems to screen for image manipulation, plagiarism, signs of paper mills, and citation anomalies, with STM's Integrity Hub as a leading example. From a research ethics standpoint, whether AI belongs in academic publishing is no longer the question; what remains is how to govern it."
+        },
+        {
+          "t": "p",
+          "x": "Peer review alone remains a contested zone. Since it handles unpublished manuscripts, concerns about security and misuse are legitimate, but with AI embedded throughout the publishing process, it's getting harder to impose a blanket ban on reviewers alone. Reviewers are already quietly using AI to summarize manuscripts, check statistics, scrutinize code, and polish sentences. The author's diagnosis is that a ban doesn't eliminate this use — it just pushes it outside regulation, out of sight."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2025/03/iStock-2114984318.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Peer review itself has hit its limits. Submissions are rising while reviewer capacity falls behind. IOP Publishing's 'State of Peer Review 2024,' with responses from more than 3,000 researchers, named reviewer fatigue and workload concentration as structural problems."
+        },
+        {
+          "t": "p",
+          "x": "The author proposes that the Committee on Publication Ethics (COPE) lead practical standards that move beyond the binary of 'allow or ban.' Five of them: meaningful disclosure of AI use; a principle that responsibility for judgment rests with the human reviewer regardless of which tool is used; a boundary where AI can help with summaries, wording, and structure but cannot replace judgments of novelty and scientific rigor; security that keeps unpublished manuscripts off substandard tools; and editorial processes that make AI use reviewable and auditable."
+        },
+        {
+          "t": "p",
+          "x": "The wheels are already turning: STM's AI disclosure policy is set to be discussed at the 2026 World Conference on Research Integrity (WCRI). Left unaddressed, the gap between policy and reality will only widen, and AI in peer review won't disappear — it will just remain inconsistent. The piece's core point is that this gap is exactly what erodes trust."
+        }
+      ]
+    },
+    "books/kindle-translate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon has added new language pairs to Kindle Translate. The AI translation service, still in beta, connects KDP (Kindle Direct Publishing) authors' ebooks with readers worldwide. This expansion adds support for translation between English and Spanish, German, French, Italian, and Portuguese. Historically, fewer than 5% of books on Amazon.com have appeared in more than one language, so this opens a path for authors to reach new readers and grow their income."
+        },
+        {
+          "t": "p",
+          "x": "KDP authors in the beta create and manage the translations themselves. They just choose a language and set a price, and a few clicks produce a fully typeset translated edition. Every translation goes through automated quality and accuracy checks before publication. Authors can review it beforehand or let it publish automatically once it's ready. Translated editions can be enrolled in KDP Select, which also puts them on Kindle Unlimited."
+        },
+        {
+          "t": "p",
+          "x": "This expansion extends Amazon KDP's push to help independent authors reach international markets and earn more. Kindle Translate offers free translations to independent authors like Diane C. She said, \"Working with Kindle Translate is better, faster, and much easier than translation services I've used before.\" KDP author Isabel Acuña's reaction was also featured: \"Trying the Kindle Translate beta showed me that self-published authors no longer have to be held back by language when reaching readers abroad.\""
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kindle Translate launched in November 2025 with English↔Spanish and German→English pairs. This is the first time the language lineup has been expanded significantly."
+        }
+      ]
     }
   }
 }

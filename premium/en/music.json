@@ -1623,6 +1623,583 @@
           "x": "This week, national class-action law firm Hagens Berman joined a lawsuit brought by independent artists who claim their copyrighted music was used to train Suno's models without authorization, infringing their copyrights."
         }
       ]
+    },
+    "music/ableton-learn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ableton has soft-launched Learn, a free music education platform. It opens lessons directly in the browser for people starting music and production from scratch, and there's a trick behind it: its interactive features run on the same engine used in Move and Note. Instead of embedding video, the lessons embed a simplified version of the Live clip view or audio, and the minimal screen strips away anything that might confuse beginners or kids."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/beats-and-drums.png"
+        },
+        {
+          "t": "p",
+          "x": "It's still closer to a preview, and the early lessons target beginners. CDM's Peter Kirn sees that as actually important. It lets people clear the first barrier to entry, and \"instead of prompting AI or something\" — opens up a far more rewarding path to learning to make and play your own music."
+        },
+        {
+          "t": "p",
+          "x": "What's up now is the 'Building Blocks' lessons and an intro-to-beats lesson. There's also something that wasn't in earlier online materials: 'Playground,' a radically simplified Live sketchpad for the browser. A few tracks made in it are up as well. It runs smoothly on both mobile and desktop, and Ableton told CDM it was built mobile-first."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/live-in-browser.png"
+        },
+        {
+          "t": "p",
+          "x": "Ableton's education projects have a long lineage: Dennis Desantis's book Making Music (2015), the interactive guide Learning Music (2017), translated into 19 languages, the free Making music at home (2020) released early in the COVID lockdowns, and tuning.ableton.com (2024), paired with Live 12's tuning system. When those projects began, Web Audio wasn't yet mature and Web Assembly hadn't arrived. Now that browsers can do far more, it's worth watching how Learn grows, and how artist involvement and use by education partners carry it forward."
+        }
+      ]
+    },
+    "music/lumen-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Developer Pixelsncodes has released Lumen, a free, open-source Windows synth that turns images into sound. It's a wavetable synth built with the Claude AI coding agent."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The feature set is substantial. Two wavetable oscillators, each with Morph, Pan, Unison, Detune, Width, and Blend controls, are joined by a multi-wave sub oscillator, a multi-mode noise generator, and a state-variable filter with drive. There are also three ADSR envelopes, three drag-and-drop multi-wave LFOs, and a built-in multi-effects section combining Drive, Chorus, Delay, and Reverb."
+        },
+        {
+          "t": "p",
+          "x": "The most unusual part is still the image-to-wavetable engine. Drag any image onto it and it reads that file's bytes and converts them into a wavetable. The idea of translating pixel brightness into sound isn't new — Serum and Ableton's Image2Wavetable Max for Live device have done it too — but it can be a fun way to shake up a sound at random."
+        },
+        {
+          "t": "p",
+          "x": "The interface is split into two screens, Play and Deep. The Deep view gives access to everything above, while the Play view moves multiple parameters at once using just the image engine and four macros — Tone, Motion, Space, and Texture. There are 32 presets, split into Bass, Leads, Pads, Keys, and Textures."
+        },
+        {
+          "t": "p",
+          "x": "For now it's available on GitHub as a VST3 and standalone format for Windows; a macOS version is in development. AI-made plugins won't be to everyone's taste, but releases built with AI coding agents keep increasing, with no sign of slowing down anytime soon."
+        }
+      ]
+    },
+    "music/skrillex-032c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Skrillex discussed AI and the humanity of art in his first formal interview in roughly a decade. It's a conversation in the latest issue of the Berlin culture magazine 032c, with his interlocutor British-Swedish artist Ecco2K. Born Sonny Moore, he said he'd been thinking about AI a few days earlier and something had struck him deeply: \"I think the value of art can almost be measured by its ability to make someone feel seen.\""
+        },
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/skrillex_shotbynaisha.webp"
+        },
+        {
+          "t": "p",
+          "x": "\"Maybe there are some AI songs that can go viral, but you can't have that feeling of being seen if there isn't a human on the other side.\" He said the reason revisiting Justice, Daft Punk, or Metallica hits so hard is that there's something familiar yet never heard before in them, and that feeling doesn't hold up if there's no human on the other side."
+        },
+        {
+          "t": "p",
+          "x": "He also spent time on taking risks and embracing criticism. Saying he'd braced for pushback since his From First to Last days, he looked back on making tracks like 'Bangarang' with a Snowball mic or a laptop mic. \"Starting from something imperfect forces you to end up somewhere you'd never expect.\" He also shared that his 2010 breakout EP 'Scary Monsters and Nice Sprites' came out on a marketing budget of $2,000."
+        },
+        {
+          "t": "p",
+          "x": "The two-day event CONTRA, held in late May at Berlin's Kraftwerk, also came up. With Ecco2K, Bladee, Blawan, Knock2, and others on the bill, he said that the more we live in an age of AI and smartphones, the more important it becomes to create spaces where people can simply be together and feel together. Following June's surprise album 'SOMA,' this week he released the single 'Rumpta' with Solomun — part of the 'independent' chapter he's been in since leaving Atlantic Records."
+        }
+      ]
+    },
+    "music/viberate-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Music data company Viberate has opened an official MCP server, letting AI services like Claude, ChatGPT, Gemini, and Grok pull its data through everyday-language questions. Founded in Slovenia in 2015 and based in Ljubljana and Los Angeles, the analytics firm calls this launch the first step in its shift to being 'AI-first.'"
+        },
+        {
+          "t": "p",
+          "x": "The platform's data covers 11 million artists, 100 million tracks, 19 million playlists, 160,000 labels, and roughly 7,000 festivals. Through the MCP server, that data turns into artist forecasts, lineup suggestions, and marketing strategy inside a compatible AI assistant. MCP is the open standard Anthropic introduced and that OpenAI's ChatGPT, Google's Gemini, and xAI's Grok have since adopted — Viberate describes it as 'USB-C for AI.'"
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/06/Screenshot-2026-06-25-at-11.13.59-e1782382474632.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and CCO Vasja Veber expects the entire business intelligence industry to eventually shift to a data layer that AI agents read and process. Where using Viberate used to mean two paths — the platform itself or the API — the MCP server is a third, and he predicts it will soon become the dominant way to use any data analytics service. \"Anything they can do on the platform, they can do in their AI app ten times better and faster.\""
+        },
+        {
+          "t": "p",
+          "x": "The company is also building standalone AI apps aimed at specific customer problems. Instead of crafting prompts, users just enter an artist, label, or track name, and the AI fills a set template with data from the Viberate API. It can also be fine-tuned on a client's own data, and it's currently in private beta for select customers."
+        },
+        {
+          "t": "p",
+          "x": "Setting up the MCP connector is said to take just seconds. The free tier gives basic access, while paid plans unlock more than 20 advanced tools. For three months after launch, paid plans get a 20% 'founding discount,' locked in for as long as the subscription continues. Veber says AI integration puts music analytics at an 'adapt or die' crossroads, and he's confident that within a few years, more people will use the data inside AI services than on the company's own platform. \"It's like having a consultant with the combined IQ of all the best data scientists in the world times a million.\""
+        }
+      ]
+    },
+    "music/smol-seq": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stretta, a synthesizer performer and developer, demonstrated Smol Sequencer, a browser-based modular sequencing environment, in a video."
+        },
+        {
+          "t": "video",
+          "yt": "4_iaxowmQqI"
+        },
+        {
+          "t": "p",
+          "x": "The video shows the process of linking small sequencer modules together to build music patterns that keep evolving. It goes from tweaking note values and mixing in randomness, to learning scale-based composition through pitch-class rotation, to sharing your own musical ideas through a compressed, link-based project file."
+        },
+        {
+          "t": "p",
+          "x": "Smol Sequencer is a free browser application you can start using right now."
+        }
+      ]
+    },
+    "music/suno-61k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno pushed back against demands from UMG and Sony. The two labels sought to add 61,000 tracks to their ongoing copyright lawsuit, and Suno countered by asking the court to block the move."
+        },
+        {
+          "t": "p",
+          "x": "The issue at stake is fair use. This ruling on how far copying for training can be allowed could set a precedent for how AI music tools are legally trained and licensed."
+        },
+        {
+          "t": "p",
+          "x": "So this fight isn't just between two companies. A line is about to be drawn here over which recordings can be used for AI training, and under what conditions."
+        }
+      ]
+    },
+    "music/suno-api": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno is preparing a developer API. Chief Product Officer Jack Brody announced the plan on LinkedIn, posting a link to an early-access sign-up form. The setup works like this: an outside app sends a text prompt, and Suno's generative model sends back finished audio. Instead of sending users to Suno, developers will be able to embed music generation directly inside their own products. Right now Suno has no official public API, only unofficial third-party wrappers floating around."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brody stressed a cautious start. \"We plan to start with a curated group of partners so we can develop this thoughtfully, and we're especially interested in applications that unlock experiences generative music makes possible for the first time.\" The Typeform sign-up form also says only that the company will reach out first to \"a small group of folks,\" without giving a launch timeline. Brody spent 10 years running product at Snap before joining in late 2024, with former Warner Music executive Paul Sinclair and former Merlin CEO Jeremy Sirota coming on board around the same time."
+        },
+        {
+          "t": "p",
+          "x": "The growth curve is steep. In June, Suno closed a Series D of more than $400 million at a post-money valuation of $5.4 billion. That's more than double the $2.45 billion valuation it had right after its November 2025 Series C ($250 million), in just half a year. Back in February, CEO Mikey Shulman said Suno had passed 2 million paying subscribers, $300 million in annual recurring revenue, and 100 million cumulative users."
+        },
+        {
+          "t": "p",
+          "x": "The licensing picture is still only half-settled. Among the majors, the only deal in place is with Warner Music Group, which settled its lawsuit in November 2025; Universal and Sony remain in litigation. Last month, the two companies asked the court to add more than 61,000 recordings to that lawsuit. Last week, Suno also rolled out Spark, a support program for independent artists, which included a clause barring participants from publicly criticizing the company."
+        }
+      ]
+    },
+    "music/klangio-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Klangio is a browser-based AI tool that turns audio recordings into sheet music, lead sheets and guitar tabs. You can upload a file, paste a YouTube, Instagram or TikTok link, or record straight from a microphone. Reviewer Ethan Hine tested it directly with several recordings."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KJ2csKzprZwAWMjUuzXjuh.png"
+        },
+        {
+          "t": "p",
+          "x": "Its strengths are clear. A cleanly recorded single acoustic instrument gets accurate pitch detection, ordinary pop vocals are tracked well, and chord recognition holds up. It offers Multi-Instrument, Single Instrument, Classical, Rock (beta) and Arrangement modes, and you can manually set key, tempo, instrument and time signature to refine the result. Output exports as MusicXML and MIDI."
+        },
+        {
+          "t": "p",
+          "x": "The limits are just as clear. It wobbles on layered or processed sounds with multiple instruments, and misses the beat on swing, free expression or irregular rhythms. Drums, especially brushes or unconventional patterns, are weak, and it struggles with rhythms or tempo changes that fall off the grid. Old or noisy recordings are also tough for it. The built-in score editor is basic, so a proper polish still needs a separate program like MuseScore, Dorico or Finale."
+        },
+        {
+          "t": "p",
+          "x": "The reviewer redefines the tool not as something that automatically churns out sheet music, but as something that gives you the cues to write your own score. It assumes a user with musical knowledge and editing skill, and the company's CEO said he doesn't expect AI to replace human transcription either. Pricing for Pro is £6.67 a month billed annually or £16.99 billed monthly, covering 50 transcriptions a month, with clips under 20 seconds free to use."
+        }
+      ]
+    },
+    "music/landr-fairtrade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LANDR has unveiled the next phase of Fair Trade AI, its music licensing program for independent artists. This month it's paying participating artists their first settlement, while also launching a $1 million advance program that lets them take a lump sum upfront while keeping the recurring royalties still to come."
+        },
+        {
+          "t": "p",
+          "x": "The program is open through July 20, 2026 to eligible LANDR Distribution users. LANDR Distribution is part of SOS For Artists and distributes music to more than 150 streaming platforms, including Spotify, Apple Music, Tidal, Amazon Music and Deezer."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/l/landr_ai-AgzoNOzhBFPDAzR4QJFWJs6iKoYsjU1z.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fair Trade AI licenses the music catalogs of artists who opt in to AI companies building audio technology, creative tools, voice apps and music AI. LANDR says transparent licensing is becoming increasingly important to the future of the music industry. Eligible artists draw from this $1 million fund to receive an advance that's settled against future licensing revenue."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Rowland, VP of Strategy and Partnerships, said that for independent artists, distribution shouldn't end the moment a song lands on streaming. He said the future of music distribution is helping creators find new revenue wherever value is created, that responsibly licensing music to AI is one of those avenues, and that LANDR already has the infrastructure to support it at scale."
+        },
+        {
+          "t": "p",
+          "x": "LANDR raised the artist share from 20% to 25% of net licensing revenue. Artists are paid based on their contribution to the dataset, and additional revenue is added each time LANDR signs a new licensing deal."
+        }
+      ]
+    },
+    "music/wisetracker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BPB reader Wiseman has released WiseTracker, a free public beta tracker. It runs as a standalone Windows app alongside a VST3 instrument plugin called WiseTracks."
+        },
+        {
+          "t": "p",
+          "x": "The backstory is fun. Wiseman isn't what you'd call a developer in the usual sense. But he's used trackers for decades, and lately wanted that FastTracker 2 feel inside a modern DAW. So he sat down with Claude and built it himself."
+        },
+        {
+          "t": "p",
+          "x": "Yes, a vibe-coded plugin posted on a vibe-coded website. The same day we covered this, YMCK's Magical FDS plug was also a new music tool with AI's hand in it. This kind of thing has become ordinary now, and there seems to be no escaping the AI era for a while."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/wisetracker.jpg"
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean it's a sloppy thing stamped out with a single prompt. Wiseman says he spent hundreds of hours designing, testing and rewriting it, and fixed bugs with help from Discord users. In the hands of someone who knows the workflow they want, AI becomes a way to bring into the world a tool that otherwise wouldn't exist."
+        },
+        {
+          "t": "p",
+          "x": "WiseTracker follows the FastTracker 2 and Renoise-style workflow closely. You type notes and effect commands into a grid and move around quickly with the keyboard. It supports up to 64 tracks, 256 instruments, 128-voice polyphony, and 200 levels of undo."
+        },
+        {
+          "t": "p",
+          "x": "Downloading it gets you both the VST3 plugin WiseTracks and the standalone app WiseTracker together. WiseTracks sits inside a DAW and locks to its transport and tempo, while WiseTracker runs without a DAW and has its own transport, tempo, metronome, tap tempo and audio device settings. The two share an engine, layout and file format, so an entire song, including patterns, samples, kits and settings, saves as a single .wise file. You can start in the standalone app and finish in a DAW, or go the other way."
+        },
+        {
+          "t": "p",
+          "x": "It also works as a sampler. Drag in WAV, AIFF, FLAC or OGG files, map them onto the keyboard with the KEYZONES editor, slice loops by transient, tune by root note and pitch, and render a whole song out as WAV, FLAC or OGG. There's also a Euclidean-pattern-based rhythm generator for stamping a rhythm you like straight onto the grid. It can also import FastTracker 2's .xm and Amiga ProTracker's .mod files. It's free during the public beta and stays free after the full release under a PolyForm Shield license. It's Windows-only for now."
+        }
+      ]
+    },
+    "music/spectralayers13": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SpectraLayers 13 leads with AI processing to automatically split tangled audio into separate, independent layers."
+        },
+        {
+          "t": "p",
+          "x": "The new Voice Enhance uses generative AI to reconstruct damaged voices, restoring speech muddled by noise or damage into something intelligible."
+        },
+        {
+          "t": "p",
+          "x": "It's an update that could reshape workflows in editing, remixing and audio restoration."
+        }
+      ]
+    },
+    "music/peel-stems2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "zplane has released PEEL STEMS 2, a major overhaul of its real-time stem separation plugin, for macOS and Windows. Stem separation tools are everywhere these days, but PEEL STEMS takes a different approach: it runs right inside the DAW."
+        },
+        {
+          "t": "p",
+          "x": "There's no need to upload audio to an online service or move files between apps; load the plugin and separate vocals, drums, bass and other elements right inside the session."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/peel-stems.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Version 2 focuses on making that workflow faster and cleaner. Updated real-time separation technology cuts latency at 44.1kHz from 483 milliseconds to 245 milliseconds. Intel Macs are still supported, with processing latency of 385 milliseconds on that platform."
+        },
+        {
+          "t": "p",
+          "x": "Separation quality and clarity have also improved, with fewer artifacts than the first version. Real-time separation is most useful when it feels like an ordinary production tool rather than a separate cleanup step."
+        },
+        {
+          "t": "p",
+          "x": "The Isolation slider now has a wider range, giving finer control over how aggressively a selected sound is separated. Spectral processing that targets specific frequencies and stereo zones is also included, which helps when pulling out only part of a sound instead of an entire stem. The Focus Frame in Focus EQ shows the upper and lower cutoff frequencies, and the interface has been refreshed with new visual feedback and stem colors."
+        },
+        {
+          "t": "p",
+          "x": "All processing happens locally. That's useful when working with unreleased tracks or client material that shouldn't leave your computer."
+        },
+        {
+          "t": "video",
+          "yt": "Pk1vflUQn7o"
+        },
+        {
+          "t": "p",
+          "x": "It costs 59 euros, with existing PEEL STEMS users able to upgrade for 19 euros. A free demo is also planned. It's available as an AU, VST3 and AAX plugin for compatible DAWs on macOS and Windows."
+        }
+      ]
+    },
+    "music/yamaha-creatorpass": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yamaha Music Innovations has updated its music-creation subscription service, Yamaha Creator Pass. The update widens DAW access and adds educational tutorials along with a low-cost tier for beginners."
+        },
+        {
+          "t": "p",
+          "x": "The platform bundles creation, mastering, distribution and promotion tools from more than 20 partners under a single login and subscription. After debuting a public beta at SXSW in March, Yamaha refined it with artists to fit their production and release workflows."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/06/Attack-Mag-News-Feat-Images-Yamaha-Creator-Pass.png?fit=1400%2C479&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The music tiers are now Starter, Grow and Pro. The new Starter tier costs $9.99 a month and targets first-time creators who want songwriting, beat-making and idea tools without any DAW, routing or audio-engineering experience."
+        },
+        {
+          "t": "p",
+          "x": "Grow costs $19.99 a month and is aimed at users with some production experience. It includes Output Arcade, LANDR samples, a DAW bundle, plugins, LANDR's AI mastering, more than 200 online courses, and four Groover credits for pitching music to curators. Pro costs $39.99 a month and adds Output's Co-Producer, Portal, Thermal and more on top of Grow, along with 10 Groover credits."
+        },
+        {
+          "t": "p",
+          "x": "Grow and Pro subscribers get Cubase 15 AI on both monthly and annual plans. Annual subscribers also get Ableton Live 12 Lite, and users without a DAW can download both at no extra cost. Yamaha said the service is designed to work alongside existing DAWs."
+        },
+        {
+          "t": "p",
+          "x": "The first 100 people in the US to buy an annual Pro Pass by July 10 get a free Yamaha AG01 USB microphone while supplies last."
+        }
+      ]
+    },
+    "music/napster-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eBa52A7zBPMPZxt6uoKqp4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Remember Napster? Of course you do. The troublemaker of the early internet era is back, launching its own AI app and jumping into the AI music race."
+        },
+        {
+          "t": "p",
+          "x": "It's a slightly different vibe from Suno or Udio. It's closer to an experience of hanging out with 'real' AI artists through chatbot characters. Napster CEO Edo Segal explained it this way in a Rolling Stone interview: \"What we're trying to make is something closer to an experience. A human experience of interacting with another party, a back-and-forth creative process, like people jamming together to make something.\""
+        },
+        {
+          "t": "p",
+          "x": "There's another interesting wrinkle. Segal said the new Napster app will license \"ethically trained,\" copyright-friendly music generation models — the opposite of the days when fighting copyright law was the entire business model."
+        },
+        {
+          "t": "p",
+          "x": "Napster has changed a lot in the meantime. Last year, the AI company Infinite Reality acquired the brand for $207 million. A $3 billion investment that was supposed to go into the relaunched brand fell through when the investor disappeared, and there are still claims that Napster owes roughly $9.2 million in royalties for streaming the Sony catalog even after the licensing deal ended last June."
+        },
+        {
+          "t": "p",
+          "x": "Even so, the anti-music-industry stance hasn't changed. In Segal's words: \"The major labels have been a problem that kept people from owning their own content and data, and that's still true. So we don't have much interest in building a relationship with them. We don't think labels are part of the future of music anymore.\""
+        },
+        {
+          "t": "p",
+          "x": "\"The old label model is dead. We've already seen distribution platforms like TikTok and Instagram spread and promote music far better than labels have in this digital era. I just think it's dead.\""
+        },
+        {
+          "t": "p",
+          "x": "In Segal's view, Napster has always been on the consumer's side. \"Looking back, Napster's core idea was this: you bought a CD with 27 songs from a store when you really wanted just one, ripped it to your computer, and wanted the right to share what you owned. I bought it, it's mine, so I felt I had the right to share it. Napster was an attempt to protect data. The core of our business is to genuinely protect and preserve data.\""
+        },
+        {
+          "t": "p",
+          "x": "Asked how he plans to compete with Suno and Udio, which have struck deals with major labels, he dismissed those deals as \"a very IBM move.\" \"It's opened the door for major labels to figure out how to own the data, how to own all of this. That's the opposite of what we're trying to do. I want you — literally you — to own your own data and the content you create.\""
+        },
+        {
+          "t": "p",
+          "x": "\"I keep seeing attempts to bolt old business models onto something new, but the world doesn't work that way. You can't put a horse and carriage inside a car.\""
+        }
+      ]
+    },
+    "music/bootleg-vs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When the controversial AI-generated band The Velvet Sundown took off, TV writer and producer Simon Balch formed a counter tribute act staffed by real musicians: The Bootleg Velvet Sundown."
+        },
+        {
+          "t": "p",
+          "x": "The Velvet Sundown became a sensation last year, drawing hundreds of thousands of monthly Spotify listeners. An unofficial spokesperson said the songs were made with the AI music platform Suno, but the band denied this, countering that they were a \"multidisciplinary art project blending music, analog aesthetics, and speculative storytelling.\" Either way, it signaled that AI could now make genuinely popular music."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/R4yXjFWqUYXc4mRGuunNBh.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Now the pushback has begun. Balch wrote on Instagram, \"What's the one thing AI music can't do? Play live.\" In other words, the one thing AI music can't do is perform live. He made clear that while he'd formed a tribute band for the most famous AI group, it wasn't a genuine tribute. \"Instead of giving any money to the Velvet Sundown, I'm giving all the profits back to real musicians, whose work AI stole in the first place.\" In other words, the profits go not to Velvet Sundown but to the real musicians whose work AI took in the first place."
+        },
+        {
+          "t": "video",
+          "yt": "BzX1YFZW0jc"
+        },
+        {
+          "t": "p",
+          "x": "The group, made up of Leo Walrus, Enzo Allen, Milo Garland, and Luke McQueen, plans to re-record several Velvet Sundown songs in the studio. The goal is to rack up more streams than the originals. A tribute band has never out-streamed the act it's covering, so if it happens, it would be a first."
+        },
+        {
+          "t": "p",
+          "x": "Some read the entire Velvet Sundown project as an elaborate stunt meant to expose the problems with AI music, while others see it as simple cynical money-making, given that it has already earned tens of thousands of dollars in royalties. Whatever the motive, this copy band carries itself with confidence. In a recent Instagram video, Balch narrates over footage of The Bootleg Velvet Sundown standing on a London rooftop: \"If you're making AI music, be very afraid.\" It's a playful post, but real anger runs through it, and understandably so. \"This is humans versus machines, and today, the humans are rising.\""
+        }
+      ]
+    },
+    "music/musixmatch-hack": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "With the rise of AI, one little-noticed shift has emerged: the corporate hackathon is back. Musixmatch joined in too, inviting developers to build something with its own and partner APIs."
+        },
+        {
+          "t": "p",
+          "x": "'Musicathon' was a global event held online for seven days in June. 523 developers built more than 100 AI tools and apps centered on lyrics, song metadata, and music search."
+        },
+        {
+          "t": "p",
+          "x": "The three winning entries show what's possible right now. Fusion Karaoke reimagined karaoke by pairing synced lyrics with AI-generated visuals that react to the music."
+        },
+        {
+          "t": "p",
+          "x": "Lyri is an \"AI songwriting assistant\" that helps break through creative blocks, drawing on Musixmatch's lyrics analysis and search API along with APIs from Cyanite, ElevenLabs, and Lalal.ai. SoundClash is a multiplayer music quiz game built for venues and classrooms, pairing Musixmatch's lyrics catalog with AI voice and audio recognition."
+        }
+      ]
+    },
+    "music/afro-charles": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sydney booking agency Good Intent has issued an apology after an AI-generated 'artist' turned up in a lineup they had put together. The show in question was the July 1 installment of Mixed Bag, a weekly new-talent series at Newtown's Bootleggers, which listed a name called Afro Charles alongside The Duke of Randwick, Pillar Lane and Genevieve."
+        },
+        {
+          "t": "img",
+          "src": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=900,height=600/https://images-r2.thebrag.com/rs/uploads/2026/07/bootleggers-.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Musician Aidan Sammut, who played the same show, exposed it the next day, July 2, in an Instagram video. He said another band member happened to look into Afro Charles's account and found that the visuals, as well as the music, lyrics and vocals, were \"clearly and blatantly\" AI-made. He pointed out that \"at no point was it disclosed to us that we would be playing with an AI artist,\" noting there was no notice anywhere in the promotional material. He also called sharing a stage with technology that can only exist by stealing the work of human musicians on a massive scale \"a complete insult.\""
+        },
+        {
+          "t": "p",
+          "x": "Rob, who handles Mixed Bag at Good Intent, took full responsibility, saying he hadn't checked the artist's social accounts and believed it was a real artist because the booking agency had introduced it as a 'producer' who used 'live vocals.' Good Intent and Bootleggers said they have never knowingly booked AI music and never will, and promised to overhaul their vetting process and donate to the musician support organization Support Act."
+        },
+        {
+          "t": "p",
+          "x": "The incident landed right as Australia's music industry is colliding head-on with AI. Last month, reports emerged that millions of Australian and New Zealand songs had gone into AI training datasets without consent, and this week artists and industry bodies including ARIA and APRA AMCOS gathered in Canberra to press the government for copyright protections. Sammut closed his video this way: \"There is no place for generative AI slop in the live music scene.\""
+        }
+      ]
+    },
+    "music/izotope-borisfx": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "iZotope has been acquired by VFX software company Boris FX. After Native Instruments was sold to inMusic last May, there was interest in what would happen to iZotope, which had been part of the same family, and it has now left the NI brand family for a new home. Existing licenses and subscriptions remain 'fully valid,' and support won't be interrupted. Account access and plugin purchases continue as before on the iZotope website, but purchases through Plugin Alliance are blocked for now."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It also closes the book on a tangled ownership structure. In 2021, iZotope and Native Instruments were brought together into a music tech group with investment from Francisco Partners, and in 2022 that group was renamed Soundwide and expanded to include Brainworx and Plugin Alliance. Then, in January of this year, Native Instruments entered preliminary insolvency proceedings, and when it was sold to inMusic in May 2026, iZotope was among the assets on that list."
+        },
+        {
+          "t": "p",
+          "x": "iZotope's Todd Baker said, \"There are no interruptions to plugin development,\" noting that the engineers who have built RX, Ozone, Neutron and Nectar are still on the job."
+        },
+        {
+          "t": "p",
+          "x": "Boris FX founder and CEO Boris Yamnitsky named AI as the reason for the acquisition. \"iZotope is known for its smart and practical use of AI,\" he said, adding that combining it with the AI audio and video technology Boris FX has built will let the company move faster and build more powerful tools. Boris FX is also the company behind pro audio tools like Sequoia, Samplitude and CrumplePop."
+        }
+      ]
+    },
+    "music/corus-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Finding music today is largely controlled by algorithmic curation on platforms like Spotify, TikTok, and YouTube. The new social platform Corus pushes back against this approach, putting human taste and personal recommendations ahead of machine learning."
+        },
+        {
+          "t": "p",
+          "x": "Corus was created by Gabe Jacobs, a co-founder of Cymbal, a music platform that operated from 2015 to 2018. Corus is a social network for discovering music and movies together through recommendations and conversation. Early users include artists such as Nicki Nair, Daedelus, Conductah, and DJ Noir."
+        },
+        {
+          "t": "p",
+          "x": "The app integrates with SoundCloud, Apple Music, Spotify, Tidal, and Deezer, letting people share across multiple streaming services. It works on mobile and desktop, and instead of Cymbal's Reddit-style recommendation voting, it borrows sensibilities from Instagram and Letterboxd to emphasize visual design and personal expression."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Corus@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Jacobs describes the vision this way: \"Corus... will be a place that connects and celebrates the art we love and share together. Social media today is painful to use, full of ads, bots, and algorithms that box us in. I want this to be different — more human, more genuine.\""
+        },
+        {
+          "t": "p",
+          "x": "Pricing is split into free and paid tiers. Free users can post up to five times a day, while Premium, at $3.99 a month or $24.99 a year, offers unlimited posting, profile customization, playlist exporting, and a favorites-only feed."
+        },
+        {
+          "t": "p",
+          "x": "Corus said it plans to keep running on subscriptions rather than ads. Going forward, it plans to add a trending conversation feed, spotlight features for new songs, and tools for artist monetization."
+        }
+      ]
+    },
+    "music/traxsource-labels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Starting July 1, music download platform Traxsource will add labels distinguishing human-made music from AI-assisted music."
+        },
+        {
+          "t": "p",
+          "x": "The classification will be carried out with AI detection firms SH Labs and SoundPatrol. Tracks made entirely by AI from start to finish will be filtered out for removal, and the remaining music will be sorted into AI-assisted music and human-made music."
+        },
+        {
+          "t": "p",
+          "x": "This step extends a position Traxsource announced last February. At the time, Traxsource said it would allow AI to be used as a production tool within a human-led creative process, but would not accept music made entirely by AI on the platform."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/03/headphones-stock-image@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and CEO Brian Tappert said, \"We don't think AI is going away. Everything we do is about finding a way to live alongside AI while making sure the value stays where it should — with human-made work.\""
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and CTO Marc Pomeroy added, \"We imagine a future where buying music becomes something like buying groceries today, with certified organic products sitting right next to regular ones, leaving the choice to the consumer.\""
+        },
+        {
+          "t": "p",
+          "x": "With the labels in place, listeners can choose according to their own taste for AI. Traxsource will keep filtering out fully AI-made music every day, and it will also have a process for reviewing classifications if someone disputes them."
+        }
+      ]
+    },
+    "music/sugarbytes-claude": {
+      "blocks": [
+        {
+          "t": "text",
+          "x": "Sugarbytes has released a Claude extension for its drum computer. It's a free add-on that builds beats from a text prompt."
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/06/ai-beat-making.jpg",
+          "cap": "The drum computer's Claude extension, which builds beats from text"
+        },
+        {
+          "t": "text",
+          "x": "A single prompt line is enough to complete an entire drum computer sound. You can see how it works in the demo video."
+        },
+        {
+          "t": "text",
+          "x": "It's available now on Sugarbytes' website."
+        },
+        {
+          "t": "text",
+          "x": "One user wrote in the comments, \"Adding AI into the mix is aiding laziness, not adding efficiency or creativity,\" arguing that the existing random parameters already do the job."
+        }
+      ]
     }
   }
 }

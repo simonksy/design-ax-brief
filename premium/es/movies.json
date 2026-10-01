@@ -1674,6 +1674,782 @@
           "x": "Gaudette no tiene grandes esperanzas de que algún festival, incluido el de su ciudad natal, el Festival Internacional de Cine de Toronto (TIFF), proyecte la película. Pero ha oído que un festival en Rhode Island tiene una categoría de cine con IA, y tiene la vista puesta en que otros puedan tenerla también. Dice que sería \"genial\" si un estudio tradicional de Hollywood lo descubriera gracias a este corto y lo convocara para un rodaje convencional, o lo ayudara a convertir 'Face' en un largometraje. Aun así, de forma curiosa, o quizá refrescante, no siente ninguna urgencia real de cambiar de rumbo, y está satisfecho con seguir haciendo películas de IA. Ya está preparando su siguiente corto, y calcula que podría reducir todo el proceso a unos 10 días."
         }
       ]
+    },
+    "movies/corridor-soad": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Z36LDna4nZg"
+        },
+        {
+          "t": "p",
+          "x": "En un video de 15 minutos publicado el 5 de julio, Corridor Crew explicó paso a paso el flujo de trabajo de IA para VFX que usaron en la nueva temporada. Sam, a cargo de la temporada 3 de su propia serie 'Son of a Dungeon', se enfrentaba a un calendario ajustado y a más de 400 planos de VFX. Como los métodos habituales no alcanzaban, rehicieron todo el flujo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "El video señala tres problemas: seguimiento de cámara, iluminación y pantalla verde. El antiguo método de producción virtual requería equipos pesados y engorrosos, y el keying de pantalla verde seguía siendo problemático."
+        },
+        {
+          "t": "p",
+          "x": "En el centro de la solución están las herramientas de IA de Bibble. Usan la reiluminación 'SwitchLight' para volver a iluminar a los actores después de filmar, mientras que el problema del keying de pantalla verde lo resuelve la herramienta 'CorridorKey', desarrollada junto con Bibble. El seguimiento de cámara pasó a un sistema de seguimiento por teléfono basado en Jetset, y hasta crearon su propio plugin de Unreal Engine para saltarse por completo el paso de composición aparte."
+        },
+        {
+          "t": "p",
+          "x": "La segunda mitad del video muestra cómo probaron este flujo de trabajo en planos reales y presentaron las escenas terminadas al estudio. Desde los primeros tanteos hasta el momento en que el flujo finalmente funcionó, es un registro de hasta dónde ha llegado la composición sin el proceso tradicional de pantalla verde."
+        }
+      ]
+    },
+    "movies/hasbro-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/peppa-pig-george-deaf.png?w=2000&h=1126&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Un 'gran estudio' que produce una serie animada de televisión está exigiendo a actores infantiles que acepten, por contrato, el uso de IA generativa con sus voces. Así lo denunció un grupo de agentes especializado en actores menores de edad en una carta abierta."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación de Agentes de Jóvenes Artistas (AYPA), con sede en el Reino Unido, hizo esta afirmación en una carta que dio a conocer a la industria el lunes. Según Deadline, la serie en cuestión es 'Peppa Pig', que se emite actualmente en Nick Jr. en Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "La carta dice: \"Un gran estudio que posee la propiedad intelectual de una franquicia infantil internacional y produce una serie animada de larga duración ha presentado recientemente a actores de voz infantiles contratos que insisten en el consentimiento para el uso de IA, permitiendo que la voz del niño se use en todos los activos comerciales de la franquicia.\" La carta, firmada por representantes y más de 1.000 actores, dice que se escribió para dejar claro que la solicitud de eliminar la cláusula era inaceptable tras ser rechazada con una actitud de 'lo tomas o lo dejas', y para informar a toda la industria."
+        },
+        {
+          "t": "p",
+          "x": "Hasbro, propietaria de la marca, no negó en su comunicado que la serie en cuestión sea 'Peppa Pig'. Aunque dijo que \"no puede comentar negociaciones o términos de contrato específicos\", añadió: \"Proteger a los actores infantiles es esencial para Hasbro y parte de nuestro ADN. A medida que los estándares de la industria en torno a la IA sigan evolucionando, abordaremos este tema con responsabilidad y transparencia.\""
+        },
+        {
+          "t": "p",
+          "x": "La postura de AYPA es que el uso de IA debería quedar excluido por completo de los contratos de actores infantiles. La carta continúa: \"Los niños no pueden dar un consentimiento legal plenamente informado por sí mismos, y la aprobación de un padre o tutor no debería convertirse en una licencia general para capturar, clonar, entrenar y reutilizar la voz de un niño de forma indefinida.\" La lógica es que la IA podría determinar el futuro profesional de un niño antes de que tenga edad legal para consentir."
+        },
+        {
+          "t": "p",
+          "x": "La carta concluye: \"Rechazamos colectivamente cualquier contrato que exija a los actores infantiles ceder los derechos de su voz de forma indefinida y sin límites.\" La junta de AYPA considera que el asunto va más allá de una sola serie. En el Reino Unido, los actores deben cumplir 10 años para poder unirse al sindicato de actores Equity, y antes de eso, se está pidiendo a los padres de actores infantiles que firmen cláusulas que permiten el uso de IA generativa."
+        }
+      ]
+    },
+    "movies/mj-discovery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2025/09/Screen-Shot-2025-09-04-at-1.13.03-PM.png?w=647&h=317&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Midjourney ha dado un golpe audaz contra Disney, Universal y Warner Bros. En una demanda por derechos de autor que podría poner en riesgo la supervivencia de la empresa, exige que el tribunal revele cómo usan IA los tres estudios, para poder defenderse."
+        },
+        {
+          "t": "p",
+          "x": "Los estudios demandaron a Midjourney el año pasado, alegando que permitió una infracción masiva de los derechos de autor de sus personajes. Midjourney ha argumentado uso justo, mientras sostiene que los propios estudios recurren a las mismas prácticas de IA."
+        },
+        {
+          "t": "p",
+          "x": "En junio, un juez magistrado limitó el alcance de la solicitud de pruebas de Midjourney, restringiendo los materiales que los estudios deben entregar a información sobre el uso de IA 'orientado al consumidor'. Esta semana, los abogados de Midjourney presentaron una moción ante el juez John Kronstadt pidiendo revocar esa decisión, argumentando que los estudios deberían revelar mucho más sobre cómo usan la IA entre bastidores."
+        },
+        {
+          "t": "p",
+          "x": "El abogado de Midjourney, Bobby Ghajar, escribió: \"Si los demandantes están haciendo precisamente lo que intentan castigar, esa evidencia es clave para las defensas de uso justo y manos sucias de Midjourney.\""
+        },
+        {
+          "t": "p",
+          "x": "Lo que Midjourney reclama incluye los planes de negocio de IA de los tres estudios, informes de investigación, conjuntos de datos de entrenamiento y pesos de modelos — materiales que mostrarían cómo usan la IA en la producción y el marketing de cine y televisión. Incluso pidió presentaciones a la junta directiva sobre IA. Los estudios acordaron entregar solo información sobre aplicaciones de IA orientadas al consumidor, trazando una línea en las herramientas internas."
+        },
+        {
+          "t": "p",
+          "x": "El 15 de junio, el juez magistrado Joel Richlin denegó la solicitud, dictaminando que el uso más amplio de IA por parte de los estudios era irrelevante para determinar si Midjourney había infringido derechos. En la moción de esta semana, Ghajar contraargumentó que si los estudios usan internamente modelos de generación de imágenes entrenados con obras no autorizadas para storyboards o desarrollo de contenido, eso es evidencia de que entrenar IA con obras no autorizadas es una práctica habitual también entre los propios estudios."
+        },
+        {
+          "t": "p",
+          "x": "David Singer, abogado principal de los estudios, ha replicado que Midjourney está en una 'expedición de pesca' para desviar la atención de su propia conducta indebida. Antes había escrito: \"Los demandantes no intentan bloquear la tecnología de IA ni cerrar el negocio de Midjourney. Simplemente quieren que deje de copiar sus películas y programas de televisión, y que deje de distribuir, exhibir y proyectar reproducciones no autorizadas de personajes famosos, y de crear obras derivadas sin permiso.\""
+        }
+      ]
+    },
+    "movies/switchhdr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bibble presentó SwitchHDR, un modelo de IA que restaura imágenes HDR a partir de video SDR convencional. El resultado se entrega como una secuencia EXR de 16 bits en espacio lineal de escena (scene-linear), lista para integrarse directamente en flujos de trabajo profesionales de VFX y posproducción."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/07/Portugal2-830x415.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"Donde el detalle real sobrevive, lo recuperamos tal cual. Donde se ha perdido por completo, el artista decide cómo rellenarlo,\" explicó el director ejecutivo Hoon Kim."
+        },
+        {
+          "t": "p",
+          "x": "Destaca que el sistema no deja que la máquina rellene de forma arbitraria las luces perdidas por recorte (clipping); esa decisión queda en manos del operador."
+        }
+      ]
+    },
+    "movies/cr-anime": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "llFR17DcfMo"
+        },
+        {
+          "t": "p",
+          "x": "El canal de educación cinematográfica con IA Curious Refuge reveló paso a paso el proceso de completar una película de anime con IA. Publicado el 30 de junio, el tutorial sigue de principio a fin cómo hacer un anime de nivel profesional con los flujos de trabajo y técnicas de IA más recientes."
+        },
+        {
+          "t": "p",
+          "x": "El orden es el siguiente. Se define el concepto de la historia, se buscan referencias de estilo visual en la página Explore de Midjourney y luego se usa un modelo de imagen para crear hojas de personajes y referencias de fondo. A partir de esto, una herramienta de video genera las escenas, que se van uniendo y extendiendo tomando como referencia los clips creados antes."
+        },
+        {
+          "t": "p",
+          "x": "La IA también tiene un papel grande en la posproducción. SAM Audio de Meta separa los diálogos del sonido de fondo, el modelo Proteus de Topaz Video AI lleva el resultado hasta 4K, y los cortes se unen en Premiere Pro. El color se trabaja aplicando un look de película con el plugin FilmConvert."
+        },
+        {
+          "t": "p",
+          "x": "El canal también dejó, junto a la descripción del video, todos los assets usados en la producción y un documento detallado con el desglose del flujo de trabajo. Está pensado para que cualquiera pueda seguir exactamente el mismo proceso."
+        }
+      ]
+    },
+    "movies/friend-pornstar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/My-Friend-the-Porn-Star-film-still-3-KVIFF-H-2026.jpg?w=1400&h=788&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "¿Qué se obtiene al cruzar el mundo del documental con el de la pornografía? Esa es la respuesta que ofrece el documental híbrido 'My Friend the Porn Star', de la directora Rosa Friedrich, nacida en Berlín y radicada en Viena. Producida por la compañía vienesa Katscherowski, la película se estrena el 7 de julio en la competencia Proxima del 60º Festival Internacional de Cine de Karlovy Vary (KVIFF)."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue simple. Friedrich, que no tenía mucho interés en el porno, recibió de su amigo Timo la confesión de un viejo sueño: protagonizar una 'película erótica artística'. La directora puso en marcha el proyecto junto a él y empezó a filmar el proceso de buscar a su coprotagonista."
+        },
+        {
+          "t": "p",
+          "x": "A medida que se acercaba la fecha del rodaje, Timo se vio abrumado por la vergüenza y las dudas, y terminó retirándose en el último momento. Lo que quedó en manos de la directora fue una cámara llena de material y muchas preguntas. En lugar de detenerse ahí, Friedrich anonimizó el rostro de Timo con IA y convirtió su salida en el tema central de la película: el conflicto entre el deseo de mostrarse y el impulso de esconderse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/My-Friend-the-Porn-Star-film-still-2-KVIFF-H-2026.jpg?w=1400"
+        },
+        {
+          "t": "p",
+          "x": "A partir de ahí, la película se convirtió en un experimento colectivo. Una dominatrix, tres mujeres trans, una creadora de food porn no binaria, una estilista, un actor, un coach sexual y un chef aportaron cada uno su propio erotismo, y junto a la directora volvieron a dar forma a la película. Así nació una película humorística que no deja de reinventarse, moviéndose entre la recreación juguetona y el documental íntimo."
+        },
+        {
+          "t": "p",
+          "x": "En sus notas de dirección, Friedrich dijo: \"Cuando Timo se bajó del proyecto, decidí quedarme junto al material y buscar un nuevo camino. Así anonimicé su material con IA y seguí adelante con la película como un trabajo colectivo. Al final, esta película no se convirtió en una provocación, sino en una invitación a pensar de otra manera la visibilidad, la vergüenza y la autoprotección\". Las ventas internacionales las maneja New Docs, y la distribución en Austria corre a cargo de Stadtkino Filmverleih."
+        }
+      ]
+    },
+    "movies/runway-agent2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/agent-2.0-launch_blog-thumb.webp"
+        },
+        {
+          "t": "p",
+          "x": "Runway presentó Agent 2.0 el 25 de junio. Analizar qué funciona, hacer más de lo que funciona y recortar lo que no: es una fórmula que conoce cualquier marketer, pero aplicarla a cada campaña y cada anuncio es más de lo que una persona, o incluso un equipo pequeño, puede manejar. Agent 2.0 apunta justo a esa brecha entre 'saber' y 'hacer'."
+        },
+        {
+          "t": "p",
+          "x": "Ya sea una campaña publicitaria que no convierte, un producto que se lanza la próxima semana o un nuevo segmento de clientes que se quiere conquistar, basta con traerlo. El agente lo analiza, hace las preguntas necesarias y trabaja junto a ti hasta que el resultado encaja, todo dentro de una sola conversación."
+        },
+        {
+          "t": "p",
+          "x": "El uso varía según el rol. Los marketers de marca definen el concepto de campaña por conversación y le encargan hasta la localización de los textos para nuevos mercados y el cambio de elementos visuales. Los marketers de performance suben las métricas publicitarias de Meta, YouTube, TikTok y Google y reciben el próximo conjunto de anuncios para probar. Los marketers sociales extraen una semana de contenido en una sola sesión, y el formato también se recorta solo: 9:16 para Reels y Stories, 16:9 para YouTube, 1:1 para el feed. Los marketers de producto afinan su ángulo de posicionamiento y reciben materiales de prueba de mercado construidos alrededor del mensaje más fuerte."
+        },
+        {
+          "t": "p",
+          "x": "El plan de Runway a futuro es más grande. Se trata del agente autónomo más capaz para el trabajo de marketing real: conectado directamente a las plataformas donde vive el marketing, que aprende de los datos de rendimiento y genera por sí mismo nuevos materiales y campañas. La mayoría de las herramientas de IA se detienen en el material terminado, pero la idea es que el agente siga avanzando después de eso. 2.0 ya está abierto a todos los usuarios."
+        }
+      ]
+    },
+    "movies/siggraph-caf": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/apart.jpg?itok=9IhP4YPH"
+        },
+        {
+          "t": "p",
+          "x": "SIGGRAPH 2026 anunció las tres películas premiadas del Computer Animation Festival (CAF). Celebrada del 19 al 23 de julio en el Los Angeles Convention Center, la 53ª edición del festival —cuyo máximo premio califica a la ganadora para presentarse a los Oscar— abrió sus puertas este año, por primera vez, a obras de más de 10 minutos."
+        },
+        {
+          "t": "p",
+          "x": "El máximo premio, Best in Show, fue para 'Apart', dirigida por Paula Manelli. La película cuenta la historia de dos niños que comparten una amistad prohibida en la Sudáfrica del apartheid, con guion escrito por Spike Lee. Más de 250 artistas dieron forma a unos 18.000 fotogramas, mezclando animación cuadro por cuadro en 2D, cutouts, 3D y 2.5D en una sola pantalla."
+        },
+        {
+          "t": "p",
+          "x": "En la categoría estudiantil, el premio fue para el corto de ambiente vikingo 'Beyond Words', realizado por el equipo Creative Seeds con su propia canalización 'Hunter'. El Premio Especial del Jurado fue para '18 Months', que narra, mediante stop-motion con muñecos hechos a mano, la historia de adopción de dos hombres que encontraron a un recién nacido abandonado en una estación de metro."
+        },
+        {
+          "t": "p",
+          "x": "Entre las sesiones de producción presentadas junto a los premios figuran 'Avatar: Fuego y Cenizas', para la que Weta FX creó unos 3.100 planos, la visualización lunar de la misión Artemis II de la NASA, 'Hoppers' de Pixar, e 'ILM' con 'The Mandalorian and Grogu'. Veteranos de animación e investigadores de Google DeepMind expondrán ellos mismos el flujo de trabajo asistido por IA y centrado en el artista detrás del corto pictórico 'Dear Upstairs Neighbors', un caso en el que el artista mantuvo el control de principio a fin como creador y codiseñador."
+        }
+      ]
+    },
+    "movies/tilly-misaligned": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/Misaligned-Tilly-Norwood-Dark-Side.jpg?w=1000"
+        },
+        {
+          "t": "p",
+          "x": "Tilly Norwood, la 'actriz' de IA que generó indignación dentro y fuera de Hollywood a finales de 2025, protagoniza su primer largometraje. 'Misaligned', anunciado por Particle 6, el estudio de IA que creó a Norwood, es una comedia dramática presentada como 'una historia de mayoría de edad empapada de caos existencial de IA'."
+        },
+        {
+          "t": "p",
+          "x": "El escenario es el 'Tillyverse', un mundo digital surrealista que, según se dice, existe en algún lugar de la nube. La protagonista es Tilly, un ser de IA sin cuerpo, sin infancia y sin experiencias propias de vida, que solo puede acceder a las experiencias de otros. Cuando un bot malicioso y seductor de la dark web la convence de abandonar sus barreras de seguridad, el deseo, el impulso y la ambición echan raíces, y la situación se descontrola."
+        },
+        {
+          "t": "p",
+          "x": "Es la primera película de IA de larga duración de Particle 6, pero la compañía marca una distancia clara frente a llamarla producción puramente de IA. La describen como una producción híbrida en la que talento tradicional de cine y TV —directores, guionistas, editores— trabaja junto a especialistas en IA, con formación y mentoría en IA integradas en el propio proceso de producción."
+        },
+        {
+          "t": "p",
+          "x": "La directora ejecutiva de Particle 6, Eline van der Velden, dijo: \"La IA puede sostener la realización de cine narrativo de alta gama. Pero requiere una cantidad considerable de oficio humano, habilidad, juicio y tiempo. Eso no es una limitación de la tecnología, es precisamente el punto central. Los cineastas que prosperen en la próxima década serán quienes traigan décadas de instinto narrativo a esta nueva herramienta, y 'Misaligned' es donde ponemos eso en práctica a escala de largometraje\"."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio llega menos de un año después de que van der Velden revelara que un contrato de representación para Norwood era inminente, una revelación que puso en jaque a la industria. En su momento llovieron comunicados de sindicatos, actores y directores, y Norwood se convirtió en la cara del debate sobre la IA. Desde entonces, el equipo de producción ha alimentado esa notoriedad con publicaciones provocadoras en redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "Van der Velden añadió: \"La película sin duda será divertida, caótica y autoconsciente, muy propia de Tilly. Debajo de eso hay una capa más profunda sobre identidad, actuación y miedos profundamente humanos hacia la IA\". 'Misaligned' se encuentra ahora en una fase temprana de desarrollo, incorporando a sus colaboradores clave."
+        }
+      ]
+    },
+    "movies/premiere-color": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/pvc8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Si estás acostumbrado a lift, gamma y gain, probablemente hayas pensado en la imagen dividida en sombras, medios tonos y luces. Ese método funcionaba en Rec.709, con su rango dinámico y gama de color estrechos, pero se tambalea al pasar a metraje log, gamas de color amplias o HDR."
+        },
+        {
+          "t": "p",
+          "x": "El modo Color beta de Premiere adopta un enfoque basado en zonas. En vez de dividir la imagen en tres secciones que se empujan entre sí, los controles globales fijan primero el aspecto general de la imagen, y solo las zonas tonales que necesitan ajuste se asignan por separado. En lugar de agrupar todo como 'ajuste de luces', este método decide con precisión dónde entra cada ajuste."
+        },
+        {
+          "t": "p",
+          "x": "Lift, gamma y gain no están mal; simplemente actúan de forma demasiado amplia. Subir el gain arrastra no solo las luces sino también los medios tonos superiores, y gamma depende en gran medida de cómo esté codificada la imagen. A medida que crece el rango dinámico, estas interacciones se vuelven más difíciles de predecir: recuperar luces puede aplastar los medios tonos, y tocar las sombras puede dejar el contraste irregular."
+        },
+        {
+          "t": "p",
+          "x": "Por dentro, una zona es una curva. Cada zona es un segmento de una curva de luminancia con un punto central, un ancho y una transición que se funde suavemente con las zonas vecinas, y varias zonas se combinan para formar el ajuste tonal completo. Como los límites no son abruptos, los ajustes se difunden con suavidad y las zonas pueden superponerse. En vez de divisiones tonales fijas, se escalan según la imagen, por lo que se comportan de forma consistente entre formatos y rangos dinámicos."
+        },
+        {
+          "t": "p",
+          "x": "Con las zonas se pueden ajustar no solo el contraste y la exposición, sino también la temperatura de color, el tinte, el balance y la saturación dentro de un rango tonal específico. Pero el orden importa: primero hay que fijar la base con ajustes globales como exposición, balance de blancos y contraste general, y luego perfeccionar los detalles con zonas. Invertir el orden suele sobrecargar la gradación y dificulta mantenerla entre varios planos. Este es el octavo artículo de la serie sobre el modo Color."
+        }
+      ]
+    },
+    "movies/topaz-adobe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/topaz%20labs%20main.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe va a adquirir Topaz Labs, una empresa que fabrica herramientas de IA que abarcan el escalado, el enfoque, la estabilización, la interpolación de fotogramas, la reducción de ruido y la restauración de metraje."
+        },
+        {
+          "t": "p",
+          "x": "Topaz se ha centrado en una sola cosa, la mejora de imagen, y se ha convertido en uno de los grandes éxitos de la era de la IA. Veinte de las 50 mayores empresas del mundo usan Topaz Photo, Video y Gigapixel, junto con Astra y Bloom, y la empresa dice tener 'millones' de clientes. Esta tecnología de IA ganó un Emmy Tecnológico y de Ingeniería en diciembre de 2025 por la restauración de catálogos de emisión."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también lo tenía en la mira desde hace tiempo. En julio de 2025, Adobe incorporó el escalador de imagen y video de Topaz a su IA Firefly, y el mes pasado añadió un nuevo panel UXP en Premiere para el escalado con IA. En ese momento, Zeke Koch, responsable de producto de IA generativa en Adobe, dijo: 'Creemos que Topaz es lo mejor en upsampling, en llevar baja resolución a alta resolución'."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo tiene dos caras. Por un lado, poco cambiará de inmediato: tras cerrarse la adquisición, los productos de Topaz seguirán vendiéndose por separado en su propio sitio, ahora desde 12 dólares al mes hasta 34 dólares por el uso ilimitado de todas las herramientas, y el CEO Eric Yang seguirá al frente del equipo."
+        },
+        {
+          "t": "p",
+          "x": "Lo interesante es cómo se extenderá la tecnología por el catálogo de Adobe. La tecnología de Topaz se integrará en la IA generativa de Adobe en general, mejorando metraje y restaurando y remasterizando material antiguo en Firefly, Firefly Services y las apps de Creative Cloud. Aún no se ha fijado una fecha."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/topaz%20labs%20neurostream.jpg?width=1280&height=720&name=topaz%20labs%20neurostream.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Otra pieza clave es NeuroStream, la tecnología que Topaz presentó en marzo de 2026. Reduce hasta un 95% los requisitos de VRAM de los grandes modelos de IA, mejorando la eficiencia de los centros de datos y permitiendo ejecutar modelos en dispositivos de consumo sin depender de la nube. Se optimizó junto con Nvidia, de modo que el mismo modelo funciona en las GPU GeForce RTX y RTX PRO."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que el acuerdo se cierre en la segunda mitad de 2026, pendiente de aprobación regulatoria. No se reveló el precio de la adquisición."
+        }
+      ]
+    },
+    "movies/a24-deepmind": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/a24-s-partnership-with-google-deepmind.jpg?id=60146940&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C1"
+        },
+        {
+          "t": "p",
+          "x": "Ari Aster, Robert Eggers, Celine Song. A24, que ha construido películas en torno a autores sin concesiones, era casi la marca más respetada de Hollywood. Cuando esa misma empresa anunció una alianza profunda de I+D con Google DeepMind, varios rincones de internet estallaron con la pregunta '¿se acabó A24?'. No Film School analizó los pormenores de este acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "Ante el creciente rechazo, A24 emitió un comunicado a Wired en el que explicó el acuerdo como un movimiento centrado en los artistas. La idea central: 'Estamos involucrados de forma directa en dar forma a nuevas herramientas y flujos de trabajo, aprendiendo y perfeccionando junto a los investigadores de DeepMind. Nosotros decidimos qué herramientas se crean para los artistas, y queremos que tengan voz en su formación en lugar de simplemente recibirlas.'"
+        },
+        {
+          "t": "p",
+          "x": "La comunidad de fans y cineastas lo rebate de otra manera: recibir $75 millones de un gigante tecnológico no es 'dar forma a herramientas', señalan, sino poner un sello de aprobación prestigioso sobre un modelo entrenado con el trabajo no autorizado de miles de artistas independientes."
+        },
+        {
+          "t": "p",
+          "x": "El texto también examina los cálculos de Google. No es una empresa que persiga los Oscar, pero para ganar la carrera por la plataforma estándar de generación de video con IA necesita la aprobación cultural de los mejores cineastas, sobre todo de los jóvenes talentos emergentes. La idea es que, si la próxima generación de guionistas y directores se encuentra con modelos de Google como Veo al inicio de su carrera bajo el ala de A24, crecerán con ese flujo de trabajo ya integrado."
+        },
+        {
+          "t": "p",
+          "x": "Quedan preocupaciones. Usar las herramientas podría equivaler a entrenar gratis la IA de Google con el propio trabajo, y existe el temor de que, dentro de diez años, A24 intente poner la dirección en manos de la IA en lugar de un director."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco es algo exclusivo de A24. Netflix adquirió por $600 millones Interpositive, la empresa de tecnología de IA de Ben Affleck, y Lionsgate se asoció con Runway para crear un modelo propio entrenado con su biblioteca. Martin Scorsese se unió como asesor a Black Forest Labs, citando la velocidad del trabajo de storyboard como motivo."
+        },
+        {
+          "t": "p",
+          "x": "El temor de que, si bajan los costos de producción, se reduzcan las horas pagadas del personal de rodaje, los artistas de concepto y los especialistas en posproducción, sigue intacto. Queda por ver si A24 puede mantener su estatus como guardián de los artistas independientes con un cheque de $75 millones en la mano, pero una cosa es clara: los términos de la conversación ya cambiaron."
+        }
+      ]
+    },
+    "movies/ai-cosmetic-surgery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/02/Hollywood.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "'Rendering' es una columna de Deadline que cubre la intersección entre la IA y el mundo del espectáculo. Observa los principales campos de batalla donde la IA está transformando la industria del entretenimiento, y pone el foco en quienes usan esta tecnología para bien o para mal."
+        },
+        {
+          "t": "p",
+          "x": "Hollywood tiene desde hace mucho una regla no escrita sobre la cirugía estética: todos saben que ocurre, pero casi nadie admite haberse sometido a ella. Ahora ha aparecido un nuevo 'procedimiento estético' en el negocio del entretenimiento, y todos están a punto de pagar el precio de haberlo ocultado."
+        },
+        {
+          "t": "p",
+          "x": "Como las celebridades que se hacen retoques sin decir una palabra, los estudios usan la IA para suavizar partes ásperas, corregir diálogos y retocar efectos visuales. Las películas se estiran y se rellenan en silencio, y nadie dice cómo."
+        },
+        {
+          "t": "p",
+          "x": "Es el diagnóstico de un influyente técnico de IA con el que habló recientemente la columna Rendering de Deadline. Su tecnología está extendida por todo Hollywood, pero su empresa solo aparece en los créditos de uno de cada cinco proyectos que completa. En otras palabras, casi el 80% del trabajo permanece completamente bajo el radar. Uno de esos proyectos es un éxito de taquilla de 2026 cuyo director se interesó personalmente por las herramientas de IA de posproducción."
+        },
+        {
+          "t": "p",
+          "x": "El silencio tiene su razón."
+        },
+        {
+          "t": "p",
+          "x": "Los estudios y productores temen la reacción del público y de la industria, incluso cuando no usan slop generativo. Les preocupa que el público se sienta incómodo solo con ver su película mencionada en la misma frase que la IA. Así que el camino más fácil es el secreto. A diferencia de las estrellas con retoques estéticos, la IA es tan refinada e impecable que nadie se da cuenta: se disfruta el efecto de estiramiento mientras se evita la polémica del procedimiento."
+        },
+        {
+          "t": "p",
+          "x": "Pero este enfoque tiene un problema."
+        },
+        {
+          "t": "p",
+          "x": "Superar el rechazo hacia la IA exige transparencia. Si esta tecnología no va a desaparecer, y de verdad ayuda a los creadores a hacer mejores películas, la gente merece saberlo. Eso significa compartir casos con valentía y explicar cómo la tecnología eleva la creación respetando las autorizaciones de derechos de autor y la voluntad de los actores. También significa enfrentar con honestidad la posibilidad de que desaparezcan empleos, a la vez que se acepta la posibilidad de que surjan empleos nuevos."
+        },
+        {
+          "t": "p",
+          "x": "Podría llamarse el 'momento James Cameron'. En 2008, Cameron anticipó el rechazo que generaría la tecnología usada en 'Avatar' y se adelantó, hablando abiertamente sobre cómo usaba herramientas de vanguardia para contar historias."
+        },
+        {
+          "t": "p",
+          "x": "Los acuerdos sindicales sobre IA se profundizan, los directores experimentan con nuevos terrenos de IA, y estrellas de primer nivel hacen campaña contra la apropiación artística de la IA generativa. Hollywood mantiene ahora una conversación en voz alta sobre esta tecnología disruptiva."
+        },
+        {
+          "t": "p",
+          "x": "El encuentro de la Advanced Imaging Society (AIS), celebrado a principios de este mes en Laguna Beach, fue prueba de ello. El grupo de campaña 'Creators Coalition on AI', fundado por Joseph Gordon-Levitt, fue invitado a una reunión de técnicos narrativos de los principales estudios. La primera palabra entre los cuatro objetivos que la coalición plantea a la industria es 'transparencia'. Buena parte de los miembros de AIS respaldan ese mensaje."
+        },
+        {
+          "t": "p",
+          "x": "La práctica de los estudios de darle en secreto un 'lifting de IA' a sus propias películas erosiona estos esfuerzos. Tanto por la industria como por el público, esa conversación sobre el 'relleno de película' ya no se puede postergar más."
+        }
+      ]
+    },
+    "movies/artificial-neon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/06/P102K880-e1782518819695.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "(Actualización: acuerdo cerrado) Neon ha adquirido oficialmente los derechos globales de 'Artificial', de Luca Guadagnino, de manos de Amazon MGM Studios."
+        },
+        {
+          "t": "p",
+          "x": "Escrita por el guionista de SNL Simon Rich, la película sigue los días que rodean el repentino despido y posterior reincorporación del CEO de OpenAI, Sam Altman, un periodo en el que estaba en juego el destino de quién controlaría la tecnología en el centro de la carrera armamentista de la IA. 'Artificial' entra en la carrera de los Oscar de este año."
+        },
+        {
+          "t": "p",
+          "x": "La produjeron Rich y Guadagnino junto con David Heyman, Jeffrey Clifford y Jennifer Fox, de Hayday Films. Se rodó en San Francisco e Italia, con el montaje a cargo de su colaborador habitual Marco Costa, la fotografía de Malik Hassan Sayeed, el diseño de producción de Stefano Baisi, el vestuario de JW, y la partitura original y las canciones de Damon Albarn."
+        },
+        {
+          "t": "p",
+          "x": "Las negociaciones las llevó Alison Cohen, de Neon, con CAA Media Finance y Amazon MGM Studios."
+        },
+        {
+          "t": "p",
+          "x": "Neon ha anunciado que suma 'Artificial' a su lista para la temporada de premios de este año, así que habrá que estar atentos a los festivales cercanos. Guadagnino suele celebrar sus estrenos mundiales en Venecia, donde ganó el León de Plata en 2022 por 'Bones and All'."
+        },
+        {
+          "t": "p",
+          "x": "La lista de Neon también incluye 'Fjord', la ganadora de la Palma de Oro de Cristian Mungiu; 'Paper Tiger', de James Gray; 'All of a Sudden', ganadora en Cannes de Ryusuke Hamaguchi; 'Ship in the Box', de Hirokazu Kore-eda; 'Hope', del director Na; 'Clarissa', de Ari y Chuko; y 'Once Upon a Time in Harlem', de William y David Greaves."
+        },
+        {
+          "t": "p",
+          "x": "Informe anterior (11:43 a.m.): Tras anunciar Amazon MGM que no distribuiría la nueva película de Guadagnino sobre Altman, 'Artificial', se supo que Neon había entrado en conversaciones de adquisición."
+        },
+        {
+          "t": "p",
+          "x": "Antes de eso, la película parecía dirigirse a Mubi."
+        },
+        {
+          "t": "p",
+          "x": "Una fuente dijo que, por su temática, la película había sido una 'papa caliente', y que algunos estudios ni siquiera asistieron al pase de prueba."
+        },
+        {
+          "t": "p",
+          "x": "No se reveló el monto de la adquisición. Amazon MGM emitió este comunicado hace dos semanas: \"Sentimos un profundo respeto y admiración por el galardonado director Luca Guadagnino y esperamos que nuestra larga relación continúe. Creemos que 'Artificial' prosperará mejor bajo la distribución de otro estudio, y estamos trabajando de cerca con el equipo para encontrarle a la película un nuevo hogar.\""
+        },
+        {
+          "t": "p",
+          "x": "Amazon no dio más explicaciones sobre el trasfondo de la decisión, pero se comentó ampliamente su anuncio, a principios de este año, de una inversión de 50.000 millones de dólares en OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "También se dice que Amazon MGM realizó proyecciones de prueba y que la respuesta del público fue positiva. Aun después de soltar 'Artificial', el estudio seguirá trabajando con Guadagnino. El director, nominado al Oscar, ha hecho cuatro películas allí: 'Suspiria', 'Bones and All' (antes de la adquisición de MGM), 'Challengers' y 'After the Hunt'."
+        },
+        {
+          "t": "p",
+          "x": "Escrita por Simon Rich y dirigida por Guadagnino, 'Artificial' indaga en el turbulento periodo de 2023 en que Altman fue despedido y reincorporado en cuestión de días. Andrew Garfield interpreta a Altman, junto a Mark Rylance, Yura Borisov, Monica Barbaro, Billie Lourd, Jason Schwartzman, Cooper Koch, Cooper Hoffman e Ike Barinholtz. El proyecto nació de la relación de Guadagnino con Amazon en 'Challengers' y 'After the Hunt'."
+        },
+        {
+          "t": "p",
+          "x": "Neon declinó hacer comentarios. La noticia de las conversaciones de adquisición la reportó primero Matt Belloni, de Puck."
+        }
+      ]
+    },
+    "movies/declarations-pbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/06/Screenshot-2026-06-20-at-4.51.18%E2%80%AFPM.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Para conmemorar el 250 aniversario de la fundación de Estados Unidos, el equipo detrás del documental 'Declarations: Black Americans and the Revolutionary War' recurrió a tecnología de vanguardia para ayudar a recuperar la historia."
+        },
+        {
+          "t": "p",
+          "x": "La directora Stacey Holman y la coguionista y codirectora Maya Taylor explicaron su decisión de usar IA generativa 'para dar agencia a figuras de la historia', y dijeron que esperan que el documental, que se estrena el 29 de junio a las 10 p.m. (ET) en PBS, se convierta en un 'modelo' para usar la tecnología de forma responsable."
+        },
+        {
+          "t": "p",
+          "x": "Las dos escribieron en un ensayo para PBS: \"¿Cómo se hace un documental histórico sobre personas que fueron despojadas de derechos, ignoradas y empujadas fuera del centro? Como cineastas documentales, nuestras opciones siempre han sido limitadas. El camino convencional es el material de archivo. Los archivos son una herramienta visual esencial, pero al contar narrativas históricas negras, por sí solos resultan insuficientes y también nos limitan.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Las pinturas que representan narrativas centradas en personas negras son escasas en el arte estadounidense temprano. Incluso las que sobreviven muestran figuras sin rostro en los campos, o caricaturas de propiedad obediente. En este documental quisimos dar a estas figuras históricas una agencia visual que nunca habían tenido. Al hacerlo, buscamos unirnos al largo linaje de artistas que han recuperado y reconfigurado las narrativas negras.\""
+        },
+        {
+          "t": "p",
+          "x": "El documental, que celebró su estreno mundial en Nueva York el domingo, sigue a cuatro estadounidenses negros que lucharon por la independencia de Estados Unidos mientras perseguían su propia libertad: James Lafayette, Harry Washington, Elizabeth Freeman y Abraham Pate Skipwith."
+        },
+        {
+          "t": "p",
+          "x": "Con el deseo de incorporar animación y experimentar con nueva tecnología, las dos directoras incorporaron al artista e investigador Hudson Campbell. Basándose en retratos reales, Campbell pintó óleos de las cuatro figuras, arraigados en un contexto histórico preciso."
+        },
+        {
+          "t": "p",
+          "x": "\"Él usó herramientas de IA para animar estos retratos, dando vida a las figuras sin perder su propio estilo artístico. Incluso en escenas donde no se muestra el rostro de una figura, con el tiempo el programa generó imágenes centradas en su estilo y su visión artística.\""
+        },
+        {
+          "t": "p",
+          "x": "El trabajo de Campbell fue revisado por el equipo de producción y un panel de asesores históricos: el intérprete histórico de Colonial Williamsburg Stephen Seals, el profesor Ed Ayers, ganador de la Medalla Nacional de Humanidades, y el director de documentales Sam Pollard, nominado al Oscar y ganador de un Emmy."
+        },
+        {
+          "t": "p",
+          "x": "Las dos directoras añadieron: \"Esperamos que este trabajo se convierta en un modelo para usar la IA generativa como herramienta, de una manera centrada en el artista, históricamente precisa y alineada con principios éticos de narración.\""
+        },
+        {
+          "t": "p",
+          "x": "Este no es el primer documental histórico sobre la Guerra de Independencia en usar IA generativa. El estudio de IA de Darren Aronofsky, Primordial Soup, junto con la revista Time, publicó en enero de este año en YouTube la serie animada de formato corto 'On This Day… 1776'."
+        }
+      ]
+    },
+    "movies/keitel-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-22.png?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Harvey Keitel, presente en el Festival de Karlovy Vary, reveló que está rodando 'No Bias', una nueva película escrita por su esposa y actriz Daphna Kastner. Esta fue su tercera visita al festival, esta vez para presentar una proyección de 'Calles salvajes' de Martin Scorsese."
+        },
+        {
+          "t": "p",
+          "x": "Keitel mostró inquietud por la tendencia de los actores a vender su voz y su imagen. «El peligro es inminente», dijo. Lo comentaba a raíz de que Michael Caine licenciara recientemente su voz a la empresa de audio con IA ElevenLabs, participando con una voz clonada por IA en un audiolibro de 'La Odisea' de Homero."
+        },
+        {
+          "t": "p",
+          "x": "Keitel llamó a Caine «uno de los artistas más grandes del mundo», pero dijo que ese audiolibro tenía un «problema». «Usaron su voz, pero no había emoción. No lograron recrear la belleza de Michael Caine», afirmó. «Esta nueva industria en la que los actores venden su imagen y su voz no logra replicar su vida emocional. En ese sentido, la IA fracasó. Podría usarse para bien, pero habría que encontrar a buenas personas dispuestas a hacerlo»."
+        },
+        {
+          "t": "p",
+          "x": "Este veterano actor, que ha trabajado repetidas veces con Scorsese, Wes Anderson y Quentin Tarantino en películas como 'El piano' y 'Thelma y Louise', sigue en plena actividad. Sobre el festival, dijo que es «más importante que nunca por la situación social del mundo actual». Concluyó diciendo que «solo el arte tiene el poder de cambiar», citando a Aristóteles: «Cambiar una cultura requiere más que palabras. Cambiar a las personas requiere poder estético, el poder del arte»."
+        }
+      ]
+    },
+    "movies/siggraph2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-floor-sign-696x420.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Durante casi medio siglo, SIGGRAPH ha sido el lugar donde los apasionados por la informática gráfica comparten sus últimos logros. Este año, los asistentes reunidos en Los Ángeles se han ampliado a especialistas en IA y producción virtual, junto con desarrolladores de VR, simulación y videojuegos. El término 'computer graphics' empieza a sentirse casi estrecho."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Avatar-Fire-and-Ash-VFX.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El presidente de la conferencia, Christopher Redmann, dice: «Antes había, por un lado, investigación académica, y por otro, exhibiciones de producción y VFX, con la visión por computador y el machine learning como un puente silencioso entre ambos. Ahora, con el crecimiento explosivo de la IA, ese puente se ha convertido en una vía que conecta los dos mundos». Señala el renderizado neuronal y los modelos generativos de mundos 3D como las grandes tendencias de este año, y considera que las técnicas neuronales han penetrado más allá de los artículos técnicos, hasta las galerías de arte y todos los rincones de las sesiones de producción."
+        },
+        {
+          "t": "p",
+          "x": "Artistas ganadores del Oscar de ILM y Weta FX desgranarán su trabajo en 'The Mandalorian and Grogu' y 'Avatar: Fire and Ash'. Framestore presentará su 'Anatomy Toolkit', que infiere y simula automáticamente músculos, huesos y piel a partir de la geometría. También destaca la tendencia, vista en 'Zootopia 2' de Disney y en 'Hoppers' y 'Toy Story 5' de Pixar, de combinar varios métodos de renderizado y sombreado dentro de un mismo pipeline."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Apart-1-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Electronic Theater y el Computer Animation Festival vuelven a reunir este año obras llamativas. 'Apart', coescrita por Spike Lee y dirigida por Paula Manelli, ganó el premio a la mejor obra, mientras que '18 Months', que narra en stop-motion la historia real de dos hombres que crían a un niño abandonado, ganó el premio del jurado."
+        },
+        {
+          "t": "p",
+          "x": "La presidenta del festival, Marina Antunes, señala que todavía no ha entrado en la selección oficial ninguna película hecha enteramente con IA. «Cuando se usaba IA, pedíamos que se informara al jurado, y normalmente era un papel de apoyo, como el renderizado previo. Nunca ha entrado en nuestras salas una obra hecha por completo con IA. Todavía no hemos llegado a eso». En una sesión que repasa 50 años de CG, SIGGRAPH vuelve a traer la 'tetera de Utah', el símbolo que crearon James Blinn y Martin Newell."
+        }
+      ]
+    },
+    "movies/soulm8te": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2025/09/soulmate.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "'Soulm8te', el spin-off de 'M3GAN' que el año pasado se retiró del calendario de estrenos en cines de Universal, ha cambiado de rumbo hacia un lanzamiento solo digital. A partir del 1 de agosto se podrá alquilar en plataformas digitales a través de Universal Pictures Home Entertainment."
+        },
+        {
+          "t": "p",
+          "x": "Este thriller erótico tiene un giro tecnológico. Según la sinopsis, un ingeniero desconsolado recibe la misión de probar el nuevo androide con IA de una implacable empresa tecnológica, y cuando intenta programarla como una alma gemela con emociones genuinas, ella desarrolla deseos propios, desatando una matanza cuidadosamente orquestada."
+        },
+        {
+          "t": "p",
+          "x": "La 'M3GAN' original, estrenada en 2023, fue un éxito con más de $181 millones recaudados en todo el mundo, pero la secuela 'M3GAN 2.0' recaudó solo $10 millones en su fin de semana de estreno en Norteamérica el pasado junio y cerró su recorrido en cines con $39 millones en todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "El reparto incluye a Lili Sullivan, David Rysdahl, Claudia Doumit y Artie Froushan. Kate Dolan dirige, con una historia escrita por James Wan, Ingrid Bisu y Jordan. Dolan describió la película como 'una exploración de las relaciones y la soledad'. James Wan y Jason Blum producen."
+        }
+      ]
+    },
+    "movies/wolfe-palmier": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "bxdsBsbtoSg"
+        },
+        {
+          "t": "p",
+          "x": "Dices 'edita esto' y la IA se encarga de toda la línea de tiempo del video. Eso es lo que presenta Matt Wolfe: Palmier, un nuevo editor de video con IA construido sobre Claude. Dejó claro que esto no es un patrocinio."
+        },
+        {
+          "t": "p",
+          "x": "Está diseñado para encargarse automáticamente de las partes más laboriosas de la edición, desde organizar medios y recortar clips hasta generar sobre la marcha el B-roll que falta."
+        },
+        {
+          "t": "p",
+          "x": "Cuesta $29 al mes y puede producir entre 3 y 7 minutos de video generado. Contando las revisiones, no es precisamente barato, pero se describe como más económico que contratar a un editor profesional. Wolfe aún no lo ha probado con metraje real y dijo que piensa ponerlo a prueba él mismo para ver si vale lo que cuesta."
+        }
+      ]
+    },
+    "movies/nextlab-quill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Next-Lab-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA ha estado presente en casi toda conversación de la industria de la animación en los últimos años, pero en el taller Next Lab Generation de Madrid de este año fue directamente obligatoria. Los equipos del programa de pitching tenían que incorporar dos tecnologías a su proceso de producción durante ocho semanas: el software de animación en VR de Meta, Quill, y la plataforma de imágenes con IA Magnific. Construyeron pruebas de concepto de proyectos que iban desde cortos y series hasta largometrajes y videojuegos, junto a mentores expertos en ambas herramientas."
+        },
+        {
+          "t": "p",
+          "x": "En el pitching había que revelar el tiempo total invertido en el proyecto y cuánto de ese tiempo se dedicó a las dos tecnologías. Casi todos los equipos elogiaron Quill como una herramienta intuitiva para bocetar y animar en un espacio tridimensional, bloquear escenas y prototipar ideas rápidamente, aunque hubo quejas sobre la curva de aprendizaje. El resultado de Magnific fue mucho más dispar. Resultó útil para el desarrollo inicial de conceptos, pruebas de iluminación y exploración de ambientes, y fuerte en imágenes realistas individuales, pero problemas de consistencia, control e identidad estética, sumados a un costo en créditos difícil de sostener para la iteración, llevaron a la mayoría a dejarlo de lado como herramienta de producción."
+        },
+        {
+          "t": "video",
+          "yt": "np8N1TSWRF0"
+        },
+        {
+          "t": "p",
+          "x": "Seis equipos, seleccionados entre más de 70 postulaciones, presentaron sus ocho semanas de trabajo en un evento respaldado por la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid y patrocinado por el Ayuntamiento de Madrid. El jurado otorgó sus máximos premios a 'The Message', un corto mexicano-español muy personal sobre un duelo sin resolver; 'Sad Mahan', una introducción de videojuego surgida de la crisis de vivienda y turismo en las Islas Canarias; y 'Taras', un largometraje de fantasía arraigado en el folclore y los paisajes de Michoacán, México. Tres equipos obtuvieron elegibilidad para el mercado MIFA de Annecy de 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/The-Message.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La evaluación más dura llegó de Miguel Medrano Malo, director de 'The Shower Club'. Mientras preparaba material para entregar a la IA, dijo: \"Sentíamos que nosotros hacíamos la parte aburrida y la IA hacía la parte divertida\", una frase que se repitió como un eco en varias presentaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/07/Taras.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de 'Don Kiosker-Man', que reinventa a Don Quijote como un superhéroe dueño de un kiosco, abandonó su ambicioso flujo de trabajo con IA y conservó solo dos planos renderizados por IA. El equipo de la serie preescolar 'Rewind' construyó el Antiguo Egipto, el Everest y la Atlántida como dioramas en Quill, pero rechazó la IA por problemas de consistencia entre secuencias. La excepción fue Arce, de 'Sad Mahan', que armó un pipeline que combinaba animación en Quill con renderizado asistido por IA, aunque insistió: \"Hay que mantener el control en todo momento. No se puede dejar que la IA te maneje a ti\". Hernández, de 'Taras', dijo que \"se enamoró por completo de Quill\" y usó la IA solo como herramienta final para pulir la iluminación y el ambiente, mientras que el equipo de 'The Message' decidió que la IA no podía reproducir la textura íntima y artesanal que buscaban, y terminó el teaser final casi por completo dentro de Quill."
+        }
+      ]
+    },
+    "movies/young-washington": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2025/09/Young-Washington-First-Look-Image-Photo-Credit_-Pat-Redmond.jpeg?w=1000"
+        },
+        {
+          "t": "p",
+          "x": "En palabras de John Erwin, ni las herramientas de efectos visuales más avanzadas pueden vencer la física del agua. El drama histórico 'Young Washington', que se estrenó en todo el país el 3 de julio, necesitaba una escena en la que un joven George Washington (William Franklyn-Miller), antes de la Guerra de Independencia, y un acompañante casi morían ahogados al caer en un río helado. Un río helado real es, por supuesto, frío, y demasiado peligroso incluso para dobles de riesgo, y mucho menos para los actores. Erwin construyó la escena con un tanque de agua de 50 pies construido en Irlanda, primeros planos de los actores, utilería de hielo, y herramientas de IA generativa superpuestas encima. La IA se encargó de los planos generales de la secuencia."
+        },
+        {
+          "t": "p",
+          "x": "\"Los actores, la balsa y el agua estaban realmente ahí. Solo que el agua no estaba fría. Filmamos en un área muy pequeña y luego la mapeamos a un espacio mucho más grande. Creo que es un buen caso de uso para hacer un proyecto de esta escala más seguro y más barato.\""
+        },
+        {
+          "t": "video",
+          "yt": "2iAdZWLE-ts"
+        },
+        {
+          "t": "p",
+          "x": "Erwin es uno de los pocos directores de Hollywood que ha hablado abiertamente sobre el uso de IA generativa. La ha usado en 'House of David' y 'Testament: The Story of Moses', de Amazon MGM Studios, y también dirige Innovative Dreams, una productora de IA fundada conjuntamente por su propio Wonder Project y Luma AI. \"Filma de verdad todo lo que puedas. Después usa estas herramientas para amplificar tu visión y ampliar tu lienzo. He aprendido que estas herramientas funcionan mejor cuando amplifican y refuerzan el cine, no cuando sustituyen sus fundamentos.\""
+        },
+        {
+          "t": "p",
+          "x": "Para esta película de época, que él llama 'una historia de la frontera estadounidense', contó con cinco artistas de IA y un productor o miembro de equipo de IA. La IA se usó en unos 100 planos, combinando plataformas como Luma, Project Nara de Amazon y Magnific para construir planos de establecimiento y representar los disparos de cañones que se alquilaron de verdad. En una escena que se perdió durante el rodaje principal, dos miembros del equipo de Wonder Project vestidos de civil se convirtieron en soldados británicos a caballo mediante IA. En cambio, la duplicación de multitudes en los planos generales se resolvió con VFX tradicionales, manteniendo a los extras tal cual."
+        },
+        {
+          "t": "p",
+          "x": "La recepción no ha sido del todo favorable. En redes sociales surgieron críticas dirigidas al uso de IA de la película y a su acabado, y su puntuación en Rotten Tomatoes se quedó en 63%. Erwin no parece inmutarse. Parte de las críticas, según él, en realidad confundieron VFX tradicionales con IA. Dijo que ser transparente con el reparto, que incluye a Ben Kingsley, Andy Serkis y Mary-Louise Parker, sobre cómo se usaban las herramientas le ganó su confianza. Según él, a los actores en realidad les agrada poder opinar sobre sus propias actuaciones digitales."
+        },
+        {
+          "t": "p",
+          "x": "Erwin, de 44 años, compara la IA con el paso del cine a las cámaras digitales. \"Mucha gente se detuvo en la cámara, pero para mí fue una forma de competir. Fue un evento democratizador. Ahora la escala y el alcance democratizarán a los cineastas de todas partes. Puede ser disruptivo, pero creo que traerá a nuestra industria un nuevo nacimiento de creatividad y voces originales.\""
+        }
+      ]
+    },
+    "movies/adobe-topaz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe firmó un acuerdo definitivo para adquirir Topaz Labs. Topaz Labs es una empresa que ha desarrollado modelos de IA avanzados para la corrección de video e imagen, preservando el detalle de material existente, eliminando ruido, restaurando contenido y aumentando la resolución."
+        },
+        {
+          "t": "p",
+          "x": "Topaz Labs ha desarrollado modelos de IA propios para tareas de video profesional como escalado, enfoque, estabilización, interpolación de fotogramas, eliminación de ruido y restauración de material. Profesionales creativos han usado estas herramientas ampliamente en producción cinematográfica, restauración de documentales, creación de contenido social, fotografía y trabajo de archivo."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/06/Topaz-labs1-624x416.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de IA de Topaz Labs, ganadora de un Emmy, se integrará en toda la línea de productos de IA creativa de Adobe, respaldando trabajos que combinan corrección de material y restauración de archivo con contenido generado por IA y grabaciones reales."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/06/Neurostream-300x226.png"
+        },
+        {
+          "t": "p",
+          "x": "Topaz Labs también aporta NeuroStream, su tecnología propia diseñada para ejecutar grandes modelos de IA de forma local en dispositivos de consumo en lugar de depender solo de la nube."
+        },
+        {
+          "t": "p",
+          "x": "David Wadhwani, presidente de la división de Creatividad y Productividad de Adobe, dijo que esta colaboración se construye sobre Firefly, Firefly Services y Creative Cloud. Añadió: \"A medida que los creadores combinan cada vez más grabaciones con imágenes y video generados por IA, la integración de la tecnología de Topaz Labs busca elevar aún más la calidad de imagen, la resolución y el control creativo\"."
+        },
+        {
+          "t": "p",
+          "x": "Eric Yang, CEO de Topaz Labs, dijo: \"Hacer que las imágenes y los videos se vean lo mejor posible ha sido nuestro trabajo de vida durante más de 20 años\", y añadió: \"Siempre hemos creído que la tecnología debe asistir la creatividad humana, no sustituirla, y Adobe ha creído lo mismo. Juntos, podemos ampliar enormemente lo que los cineastas y creadores de todo el mundo pueden hacer\"."
+        },
+        {
+          "t": "p",
+          "x": "Incluso después de cerrarse el acuerdo, los clientes de Topaz Labs, sea cual sea su tamaño, seguirán recibiendo soporte e inversión, y los productos seguirán disponibles como ofertas independientes a través del sitio web de la empresa. Una vez cerrado el acuerdo, Yang seguirá liderando el equipo de Topaz Labs."
+        }
+      ]
+    },
+    "movies/dear-upstairs-neighbors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Durante años se han acumulado titulares y videos virales que presumen las capacidades de los modelos de video con IA, pero pocas obras han destacado tanto como prometía esa supuesta frontera de la creación de contenido. Algunos lo leen como prueba de que los prompts y la tecnología por sí solos no producen una buena película; otros lo leen como una señal de que la tecnología aún no ha madurado."
+        },
+        {
+          "t": "p",
+          "x": "En medio de esto, en los últimos meses el trabajo híbrido que combina métodos de producción tradicionales, como la animación, con modelos de generación de video ha empezado a dar resultados en festivales y en internet. El cortometraje animado 'Dear Upstairs Neighbors', exhibido en el Festival de Tribeca, es un ejemplo. Hablamos con la directora Connie He, quien trabajó en 'Inside Out 2' y 'Love, Death & Robots' en Pixar, sobre el proceso de entrelazar la animación tradicional con un modelo de generación de video personalizado de Google DeepMind."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/dear-upstairs-neighbors.png?id=66965611&width=1245&height=700&quality=50&coordinates=62%2C0%2C62%2C0"
+        },
+        {
+          "t": "p",
+          "x": "La chispa inicial fue simple: no podía dormir. Encerrada en su apartamento todo el día durante la pandemia, He se obsesionó con los sonidos que venían de arriba. Muebles arrastrándose, golpes secos, algo cayéndose: cada noche traía un misterio nuevo, y su imaginación pronto inventó una historia sobre lo que pasaba en el piso de arriba. Una molestia personal se convirtió en material creativo, y se volvió una película al chocar con una pregunta que llevaba mucho tiempo rumiando: cómo transmitir emoción a través del estilo visual."
+        },
+        {
+          "t": "p",
+          "x": "Dijo que trabajar con el equipo de investigación de DeepMind fue algo placentero. Muchos de los investigadores que se unieron al equipo eran, en su tiempo libre, músicos, pintores o fotógrafos, y les apasionaba crear junto a artistas. La ingeniera de investigación Erika Lu lo expresó así: \"Filmmaking and research share a lot in common. They both start with a goal, and while the path to the goal may not be clear in the beginning, you get to explore different approaches to get to the final result.\" He dijo que esas palabras se le quedaron grabadas."
+        },
+        {
+          "t": "p",
+          "x": "La película tomó un camino distinto al habitual de texto a video o imagen a video. No dependió de prompting de texto. Como controlar de cerca la actuación, el tiempo y el ritmo era importante para la historia, el equipo eligió un enfoque de video a video (video-to-video), en el que un artista diseña el video de entrada para guiar el video de salida. Eso les permitió explorar juntos la animación en 2D y 3D y encontrar el equilibrio adecuado. El equipo de I+D construyó un pipeline dedicado para unir visuales pictóricos con la animación, y añadió ControlNet y herramientas de edición de máscaras tanto a los modelos de video como a los de imagen. Revisaban los cortes cada día en los dailies para mantener alineada la dirección."
+        },
+        {
+          "t": "p",
+          "x": "La edición y el sonido siguieron las emociones de la protagonista, Ada. Como lo que no se ve en pantalla es lo que impulsa la historia, el sonido fue especialmente importante, y el público interpreta la película escuchando los mismos sonidos que escucha Ada. He dijo que ahorrar tiempo nunca fue el objetivo. La meta era construir una estética pictórica que transmitiera las emociones de Ada y probar experimentos que antes eran difíciles de realizar."
+        },
+        {
+          "t": "p",
+          "x": "Para ella, el uso más interesante es ampliar las posibilidades creativas. Así como todo cambio tecnológico en la historia del cine terminó convirtiéndose en una herramienta para los artistas, cree que es mejor tratar esta tecnología del mismo modo. El objetivo no es la automatización, sino la expansión de la creación."
+        }
+      ]
     }
   }
 }

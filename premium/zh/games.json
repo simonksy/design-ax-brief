@@ -1509,6 +1509,607 @@
           "x": "LLM在处理空间问题上较为薄弱，为此Epic预先提供了80多个程序化内容生成基础模块、示例库，以及涵盖特定Unreal工作流的Skills来弥补这一短板。最重要的是，一切都处于开发者的掌控之下，要在多大程度上借助LLM，由开发者自行决定。MCP服务器、PCG Primitive Plugin以及自制的Skills，其实已经作为今天5.8版本的一部分发布。UE6的抢先体验目标是2027年底，正式发布则在那之后12到18个月，最早可能在2028年底，现实来看更可能是2029年。"
         }
       ]
+    },
+    "games/cnc-ios-vibeport": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
+          "cap": "iPad上运行的《命令与征服:将军 – 零时刻》(图片:Ammaar Reshi)"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic在美国经历一次临时访问限制后,仅仅几天前才发布了Claude Fable 5。这款模型已经被用来将2003年的游戏《命令与征服:将军 – 零时刻》移植到iOS上。据称这需要源代码、此前的移植工作以及人工调整才能运行。"
+        },
+        {
+          "t": "p",
+          "x": "这是Google AI Studio产品与设计负责人Ammaar Reshi在7月4日于X上发布的消息。Reshi表示,这次移植是站在此前移植与现代化工作的基础之上,他将其形容为\"had a chain of giants to stand on\"。他直接复刻了The Super Hackers制作的Linux/Mac版本。"
+        },
+        {
+          "t": "p",
+          "x": "Reshi的公告这样写道:\"I used Fable 5 to port Command & Conquer: Generals Zero Hour to the iPhone and iPad! This is the actual 2003 engine compiled for ARM64 natively, no emulator. Campaign, skirmish, Generals Challenge all work with touch controls built for an RTS.\""
+        },
+        {
+          "t": "p",
+          "x": "这次移植的特别之处在于它能在iOS上运行这件事本身。还新增了专为RTS设计的触控操作,可以点击选中、拖动画框、长按取消选择。想亲自尝试的人可以到GitHub上下载,但游戏本体需要自行准备。这不是套了一层模拟器,而是真正的引擎在苹果设备上原生运行。"
+        },
+        {
+          "t": "p",
+          "x": "Reshi在GitHub上记录了移植过程,并强调这项工作是人与AI的协作,而不是让AI'自己去搞'。代码和调试由Claude负责,playtest则由人来完成。遇到'小地图是黑的''能听到啾啾的声音'之类的问题,只要用语言告诉模型,它就会去修复。用Reshi的话说:\"Neither half ships this alone: one of us can't write C++, and the other can't hear the chirping.\""
+        },
+        {
+          "t": "p",
+          "x": "这种方法能否用在其他游戏上?目前还不知道。Reshi对《红色警戒2》本身就持怀疑态度,因为EA似乎已经丢失了源代码。即便源代码还存在,企业也不太可能轻易放出可能损害重制版销售的移植版本。此外还有一个担忧,就是AI模型可能把输入的信息用于训练。"
+        },
+        {
+          "t": "p",
+          "x": "成本也不算小。Reshi说他两天之内就用完了整个Claude Max订阅额度。据估算,仅token费用就在100到200美元之间。他似乎认为只有Fable 5才能完成这项工作,据说即便给Opus 4.8配上Ultra Code也做不到。他没有提到是否在Google自家的vibe编程平台上尝试过。"
+        },
+        {
+          "t": "p",
+          "x": "所以只要有几百美元、游戏源代码,再加上一个可参考的此前移植版本,一个周末就足够在iPad上把游戏跑起来。确实很简单。"
+        }
+      ]
+    },
+    "games/jgs2-realtime": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "uO5cvkzh3P0"
+        },
+        {
+          "t": "p",
+          "x": "Two Minute Papers以《They Said This Will Never Run In Real Time》为题介绍的这篇论文,原题为《JGS2: Near Second-order Converging Jacobi/Gauss-Seidel for GPU Elastodynamics》。它提出了一种方法,可以在GPU上实时运行软物体被按压、弹回的弹性体仿真。"
+        },
+        {
+          "t": "p",
+          "x": "在并行仿真中,收敛性与并行性往往相互冲突:提高并行性会让局部计算变轻、耦合变弱,从而拖慢整体收敛速度。以Lei Lan为首的研究团队深入研究了一种'过冲'现象——局部求解器只顾降低自身能量而忽略全局上下文,结果破坏了整体收敛——并将能够抑制这一现象的二阶最优解,转化为可以预先计算的形式。"
+        },
+        {
+          "t": "p",
+          "x": "结果令人惊讶。该方法能以雅可比法同等的并行度运行,同时收敛效果接近牛顿法。它在刚性材料和软性材料上都表现出二阶收敛,收敛速度比现有最先进的GPU方法快50到100倍。曾被认为'绝对无法实时运行'的领域,如今已进入游戏与交互式仿真的可及范围。"
+        }
+      ]
+    },
+    "games/metahuman-sizzle": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "55H81dP46ck"
+        },
+        {
+          "t": "p",
+          "x": "这是在Unreal Fest Chicago上公开的MetaHuman 2026秀片。汇集了全球各地团队用MetaHuman制作的数字角色作品。"
+        },
+        {
+          "t": "p",
+          "x": "Epic表示,随着MetaHuman框架不断变强,展示这项技术能走多远的案例也在不断涌现。视频中的项目涵盖各行各业,从游戏到电影·电视、动画,再到广播与现场活动。"
+        },
+        {
+          "t": "p",
+          "x": "想亲自制作逼真数字人的话,可以从metahuman.com开始。"
+        }
+      ]
+    },
+    "games/unity-ai-audit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OmN7RPIxf60"
+        },
+        {
+          "t": "p",
+          "x": "这是Unity发布在官方频道上的演示视频。Unity AI会为生成式工具制作的资源自动打上标签。发布前可以查看项目中哪里混入了生成资源,觉得不合适的当场就能替换。"
+        },
+        {
+          "t": "p",
+          "x": "视频说明很简短:生成资源会被自动打标,让发布前的审查和替换变得简单。Unity AI测试版现在可以免费试用。"
+        },
+        {
+          "t": "p",
+          "x": "演示虽短,目标却很明确。先按项目掌握哪些资源经过了AI之手,标签正是这一切的起点。"
+        }
+      ]
+    },
+    "games/caveman-tokens": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/caveman.jpg",
+          "cap": "Caveman(图片:Kotaku)"
+        },
+        {
+          "t": "p",
+          "x": "整个AI世界的成本都在飙升。消费电子设备、PC零部件和游戏都在经历硬件短缺,AI公司的处境也好不了多少。最近几周,多家知名AI公司把订阅方案从包月制改成了按量付费,这说明维持服务运转的成本已经难以承受,曾经热情拥抱AI的大公司也开始收紧。与此同时,一些公司相信自己找到了新办法:让AI像泰山一样说话。"
+        },
+        {
+          "t": "p",
+          "x": "据404 Media报道,一款插件正在想要削减Token用量的公司之间流传。包括OpenAI在内的多家公司的员工都在用'Caveman',这个工具会让Claude之类的模型不再像SNL里的'戏精大师',而是像SNL里的原始人律师那样说话。"
+        },
+        {
+          "t": "p",
+          "x": "\"I made Caveman back in early April because I was using Claude Code heavily and noticed a lot of my token spend was going to unnecessary prose.\" 这是Caveman的作者Julius Brussee对404说的话。他点名的那些多余内容是\"pleasantries, hedging, transitions, and chatty language that does not really matter\"。"
+        },
+        {
+          "t": "p",
+          "x": "打开这个插件后,那些故意装得友好、想要延续对话的回应,会缩减成简短粗硬的吼叫和咆哮。少了温和的建议,多了行军命令。Brussee说,正是靠降低AI的IQ,Token用量才减少了大约65%。"
+        },
+        {
+          "t": "p",
+          "x": "围绕AI的叙事大多给人一种比喻失控的感觉,但这一次实在让人忍不住想笑。多年来一直拿聊天机器人堪比人类的智能作卖点,结果一到算成本的时候,就相当于强行做了一场额叶切除手术。AI行业和融资竞赛一直严重依赖大众文化对机器学习的理解,为了把语言模型拟人化甚至走到了荒唐的地步。等到利润真正变得重要,局面迅速翻转。维持AI服务运转的成本难以承受,目前还没有哪家大公司能自然地实现盈利。今年早些时候,OpenAI关停了每天烧掉100万美元的视频生成工具Sora,与迪士尼那份不错的合作也因此被搞得一团糟。"
+        }
+      ]
+    },
+    "games/devs-reject-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
+          "cap": "图片:FC Tech Labs"
+        },
+        {
+          "t": "p",
+          "x": "一款在Steam上架的新动作RPG,在其他开发者中引发了争论。起因是其制作者表示,为了提高开发速度,生成AI是必不可少的,但同时又说如果收入增加,就能减少对它的依赖。"
+        },
+        {
+          "t": "p",
+          "x": "游戏开发者兼动画师Aura Triolo(Bluesky账号:Aura/Moom)指出了新作Bahast的Steam AI披露说明。Bahast号称是一款黑暗幻想题材的放置类ARPG。Triolo只分享了那段文字,但其他人很快就找出了这款游戏。"
+        },
+        {
+          "t": "p",
+          "x": "这个问题仍是游戏与开发领域围绕生成AI争论的引爆点。GamesRadar+采访了30多名开发者后发现,尽管有人声称效率会提高,反对把生成AI当作工具使用的声音仍然五花八门。相关媒体还计划推出聚焦独立开发者视角的后续报道,这些独立开发者同样对这项技术持负面看法。"
+        },
+        {
+          "t": "p",
+          "x": "像Epic Games CEO Tim Sweeney这样的业界人士认为,未来融入AI的开发将变得不可或缺。"
+        },
+        {
+          "t": "p",
+          "x": "对于Bahast的解释,不少开发者强烈反弹。Triolo写道:'给我钱,我也许会少用点AI',这是我见过最不像话的恳求。'"
+        },
+        {
+          "t": "p",
+          "x": "打造了Eldritch的Minor Key Games的David Lindsay Pittman反驳说:'我只是个小小的独立开发者'这种话,对我们这样没有靠偷图诈骗机器就做出作品的独立和小型开发者来说,根本说不过去。"
+        },
+        {
+          "t": "p",
+          "x": "打造了Squikross的Studio Alblune的Alexandre Strukov表示:'去学学怎么做大规模,别在这儿抱怨了。'独立开发者Mtgames补充说:'我压根就没工作,照样全部手工制作素材。为什么?因为好玩。'"
+        },
+        {
+          "t": "p",
+          "x": "Altrix Studios的独立开发者Ryan Nurse表示:'除了Steam的发行抽成,以及2019年花5美元买TIC-80 Pro之外,无论是Prism Indigo还是Prism Warriors,我在开发上没花过一分钱。'他还说:'没钱'是在游戏里用生成AI的荒唐借口。"
+        },
+        {
+          "t": "p",
+          "x": "最近一项调查显示,Steam用户中真正把游戏中的AI当作大问题的人并不多。不过,发起调查的一方警告说,使用AI仍然会对销量造成损害,并认为相关问题设置和样本并不完全贴合整体用户群体。"
+        }
+      ]
+    },
+    "games/dreamcast-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
+          "cap": "图片:Sega"
+        },
+        {
+          "t": "p",
+          "x": "世嘉Dreamcast也没能躲过AI。GamesRadar+的硬件编辑Phil Hayton刷社交媒体时手指停住了。扭曲的复古主机和手柄,还有VMU上,都带着糊成一团的字体和怪异的按键图案。"
+        },
+        {
+          "t": "p",
+          "x": "出问题的钥匙圈,是世嘉商店正在出售的Anime Expo纪念款Dreamcast钥匙链。它仿照主机本体、手柄,甚至还做了带有《索尼克大冒险》Chao图案的VMU,东西本身相当可爱。要不是AI把细节搞砸了,本会是世嘉收藏者眼中抢手的一件周边。"
+        },
+        {
+          "t": "p",
+          "x": "乍一看没什么异样。放大世嘉的标志才能看出,那并不是真正的字母,而是类似潦草笔迹的线条,手柄按键上的B看起来更像一个脏乱的圆圈。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SU2bRC6kKxkWMJcgjM9NvE.jpg",
+          "cap": "图片:Sega"
+        },
+        {
+          "t": "p",
+          "x": "翻看商店其他商品会发现,Anime Expo系列以及大多数常规商品用的都是没动过的原图。另一个违规产品是《疯狂出租车》香氛套装。此前Danny8bit在X上指出过这一点,SEGAbits随后把真实原画喂给生成式AI工具,复现出了同类的图像。按上个月Time Extension报道所梳理的内容,这也留下了一丝希望:原画本身或许并非AI制作。"
+        },
+        {
+          "t": "p",
+          "x": "看起来是在把真实产品照片合成到某个背景时用了AI,结果AI没能还原的细节出了问题。Hayton写道,他猜这些图可能只是'占位用',但如果实物上真的照搬了AI做出的细节,那就令人震惊了。他还提到,《疯狂出租车:世界巡游》此前已经因使用生成式AI而受到批评,希望这个他喜爱的品牌不要跌进\"slop\"的泥潭。"
+        }
+      ]
+    },
+    "games/ue-image-gen": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "LGvsShWEH3k"
+        },
+        {
+          "t": "p",
+          "x": "在Unreal Fest Chicago 2026的State of Unreal环节上,Epic公布了一套把图像、视频生成模型与Unreal Engine工具搭配使用的工作流程。目标是让艺术家能以更清晰的意图和控制力来处理生成结果。"
+        },
+        {
+          "t": "p",
+          "x": "演示展示了让生成结果匹配UE视口的镜头构图、生成与已布置场景元素相似的变体,甚至能按项目需求把整个场景换成另一种风格。"
+        },
+        {
+          "t": "p",
+          "x": "该功能还挂着'即将推出'的标签,尚未正式上线。5.8版本的其余更新已整理在Epic的博客上。"
+        }
+      ]
+    },
+    "games/unity-scene-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_D26zKNPX7s"
+        },
+        {
+          "t": "p",
+          "x": "这是Unity在官方频道发布的短视频。视频简介里只有一句话:Unity AI减少了场景搭建所花的时间,省下来的时间就该用在打磨创意上。"
+        },
+        {
+          "t": "p",
+          "x": "在编辑器里让AI协助场景搭建,初期布置之类的重复劳动就会变轻松。这项功能和7号介绍过的生成式素材自动打标签功能相配套,Unity AI测试版现在可以免费试用。"
+        }
+      ]
+    },
+    "games/ea-creativity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.zenfs.com/en/gamespot_323/ea0d57d939c44a1bbae794f2bf936ef2"
+        },
+        {
+          "t": "p",
+          "x": "艺电(Electronic Arts)负责企业开发的总裁劳拉·米勒谈到了AI在游戏开发中的作用。她表示,开发者把枯燥的工作交给AI工具后,腾出了更多精力投入创作,也正因此,她在EA内部看到了「真正的创造力提升」。"
+        },
+        {
+          "t": "p",
+          "x": "在接受The Game Business采访、被问及AI技术是否能加快游戏开发进度时,米勒回答道:\"Perhaps in some parts they will\"。"
+        },
+        {
+          "t": "p",
+          "x": "她还表示,为开发者的工作「消除摩擦」一直是自己长久以来的心愿,而AI的引入已经在帮助实现这一点。"
+        },
+        {
+          "t": "p",
+          "x": "\"I always have kind of wanted to be a hero to them and help them create career-defining experiences. And I think that AI—what I've seen—how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs.\""
+        },
+        {
+          "t": "p",
+          "x": "她没有举出具体案例,但米勒表示,使用AI后原型制作速度加快,她也看到了「更快的创造力」——也就是从想法到落地所需时间变短了。\"So we're seeing it. I think there is a real rise of creativity that comes from removing some of the tedious tasks out of development.\""
+        },
+        {
+          "t": "p",
+          "x": "把杂务交给AI、让人专注创作的说法,是业界高管们的常用话术。《巫师3》导演康拉德·托马斯凯维奇表示,生成式AI对新作《The Blood of Dawnwalker》的早期开发至关重要;Take-Two掌门人斯特劳斯·泽尔尼克也对在非创意领域使用AI持乐观态度;以《守望先锋》闻名的杰夫·卡普兰同样表示,游戏制作的某些环节有AI的一席之地。"
+        },
+        {
+          "t": "p",
+          "x": "但有一点值得指出:这些话大多出自高管和领导层之口,而不是真正动手干活的人。反映一线情绪的GDC调查显示,认为生成式AI对游戏行业有害的开发者比以往任何时候都多。"
+        }
+      ]
+    },
+    "games/godot-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Godot基金会宣布,将调整免费开源引擎Godot的贡献政策。内容是:几乎所有情况下都不再接受使用生成式AI完成的代码贡献,也就是拉取请求(PR)。"
+        },
+        {
+          "t": "p",
+          "x": "在昨天发布的博客文章中,基金会指出,由AI代理直接提交、或由人提交AI生成代码的贡献最近明显增多。谈到负责筛选PR的维护者时,文章写道:\"AI contributions have the added pain of being demoralizing\"。"
+        },
+        {
+          "t": "p",
+          "x": "这次政策调整,正值各工作室持续推进生成式AI之际。而开发者群体中,认为这项技术正在侵蚀行业的负面评价已经持续了好几年,且占据主流。"
+        },
+        {
+          "t": "p",
+          "x": "基金会提出的原则只有一条:所有贡献都必须由「能为自己代码负责的人」完成,并且在需要时具备修改的能力和意愿。\"AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.\""
+        },
+        {
+          "t": "p",
+          "x": "今后的贡献政策将把以下行为列为禁止项:使用自主AI代理、所谓的vibe coding、用AI生成大量代码,以及在人与人的交流中夹带AI撰写的文字。"
+        },
+        {
+          "t": "p",
+          "x": "也有例外。代码必须全部由人编写,但在代码补全、正则表达式、查找替换等琐碎工作上可以使用AI。无论以何种方式借助了AI,都必须在PR讨论中说明这一事实。"
+        },
+        {
+          "t": "p",
+          "x": "沟通规则的理由很简单:维护者是自愿花时间审阅issue、PR和提案的志愿者,他们不想和机器对话。基金会将这称为\"a basic principle of respect\"。不过,只要原文是人写的,机器翻译仍然被允许。"
+        },
+        {
+          "t": "p",
+          "x": "这次公告发布前几周,Godot刚表示会容忍\"部分AI辅助\",同时拒绝被贴上「vibe coding引擎」的标签。2月,资深开发者雷米·韦尔谢尔德也曾对涌向该引擎的\"AI slop\" PR表达过失望。"
+        },
+        {
+          "t": "p",
+          "x": "基金会如此总结:\"目前市面上的AI工具每天都在变化。我们会继续坚持保守的政策,但一旦情况改变,我们会重新评估。\""
+        }
+      ]
+    },
+    "games/valve-ai-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aw2Us2NVKyuN3JbpnKVtaH.jpg"
+        },
+        {
+          "t": "p",
+          "x": "就在Epic Games CEO蒂姆·斯威尼就AI生成内容强制提示批评Valve之后,一款反其道而行的浏览器插件出现了——它让这个提示变得更加醒目,还会在搜索结果中把AI游戏直接隐藏起来。这显然不是斯威尼乐见的东西。"
+        },
+        {
+          "t": "p",
+          "x": "自称Linux玩家兼程序员的开发者seeeeew本月初在Bluesky上发布了「AI warning for Steam」插件,就在斯威尼发表Steam的提示会让游戏成功的可能性\"much, much, much harder\"这番言论之前不久。"
+        },
+        {
+          "t": "p",
+          "x": "该插件已发布Firefox和Chrome版本,并上传到了GitHub。也有消息称存在可以直接在Steam客户端内运行的变通方法,但记者本人未能直接核实。"
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+试用了Chrome版本,确认其表现与描述一致。打开带有AI内容提示的游戏在Steam商店的页面时,提示会从第一屏就以弹窗形式跳出来,根本无法忽略。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aFSperWAifMjMjLcLpsNad.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在搜索结果中,使用了AI的游戏会默认被模糊处理,上面还会盖上一条\"AI Generated Content Disclosure found\"的标签。对于把使用生成式AI视为扣分项的人来说,这省去了逐一查看游戏的功夫。"
+        },
+        {
+          "t": "p",
+          "x": "这款插件被广泛关注,源于近期涌入大量待发售作品演示的Steam Next Fest。正如《Palworld》主创John Buckley所感叹的那样,Next Fest参展作品中使用AI生成图像或素材的游戏正越来越多。"
+        },
+        {
+          "t": "p",
+          "x": "斯威尼一再要求Steam也取消这种Epic Games Store上并不存在的AI提示。他最近还声称,这种提示给使用AI的游戏贴上了\"Scarlet Letter\",并招来了\"想要扼杀游戏的仇恨社群\"。他的论点是,开发者必须在放弃一个能大幅提升生产力的工具从而在竞争中落后、与接受这种污名之间做出选择。"
+        },
+        {
+          "t": "p",
+          "x": "但在GamesRadar+采访全球约30名开发者的一篇报道中,出于各种原因不愿使用生成式AI的声音反复出现。"
+        }
+      ]
+    },
+    "games/slopfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg",
+          "cap": "图片:PC Gamer"
+        },
+        {
+          "t": "p",
+          "x": "vibe coding真正的麻烦并不在于产出本身,而在于在那套代码库之上继续搭建东西时很不稳定。AI代理很擅长产出人们偏好的结果,却无法为下一步\"思考\",于是AI代码里充斥着重复和低效。这正是所谓\"AI slop\"的来源。"
+        },
+        {
+          "t": "p",
+          "x": "据Tom's Hardware报道,这个团队名叫Slopfix。他们会清除一定量不必要的AI代码,并根据完成目标的程度,拿走1万美元费用中的一部分。网站给出的示例是把10万行代码减到3.5万行:删掉6.5万行可拿1万美元,只减少3.25万行则拿5000美元。"
+        },
+        {
+          "t": "p",
+          "x": "这也是当下常见的问题。几个月前,一个热门PS3模拟器团队要求用户停止\"submitting AI slop code\",开源游戏引擎Godot也在年初被AI劣质代码淹没。Godot上个月决定干脆不再接受AI生成代码的贡献,理由是很难\"trust heavy users of AI to understand their code enough to fix it\"。"
+        },
+        {
+          "t": "p",
+          "x": "清理AI代码,并不能解决用户看不懂自己产出内容这一根本问题,却能让AI代理更容易在其之上继续搭建。至于是否有人愿意花数万美元,用同样的工具请别人清理代码库,还是个未知数。笔者写道,自己首先就怀疑Slopfix这个网站是不是真由人手打造,网站上的文案也难以让人信服。"
+        },
+        {
+          "t": "p",
+          "x": "不过,一个疑问依然存在:如果你花钱让AI代理去修正另一个AI代码留下的错误,那谁来确认这个代理真的把活干好了?如果Slopfix的三名工程师最终还是要靠人工去逐行检查代码,那最初用编码机器人又有什么意义?"
+        }
+      ]
+    },
+    "games/unity-ai-debug": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7FtJiOTYtP0"
+        },
+        {
+          "t": "p",
+          "x": "这是Unity发布在官方频道上的一段视频。它展示了用Unity AI(测试版)仅凭提示词就能设置并调试动画状态机、行为树和过渡的过程。核心思路是减少重复劳动,把时间还给打磨游戏手感。"
+        },
+        {
+          "t": "p",
+          "x": "在7日和8日介绍的生成式资源打标签、场景设置演示之后,这展示了Unity AI工作流的另一个侧面。Unity AI测试版现在可以免费试用。"
+        }
+      ]
+    },
+    "games/amazon-ai-guides": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "亚马逊的'AI垃圾书'问题恐怕才刚刚开始。亚马逊最近向OpenAI投资500亿美元，同时在各个角落大力推广口碑不佳的自家AI助手Rufus。这家公司似乎不太可能遏制劣质书的泛滥。把这种荒诞现实浓缩得淋漓尽致的例子，就是尚未完成、尚未发布的游戏的'AI幻想攻略书'。"
+        },
+        {
+          "t": "p",
+          "x": "这一现象被Substack博客Rick's Game Backlog整理得很到位。作者原本只是在亚马逊搜索游戏发布日期，却发现了Alien: Isolation 2（发布日期未定）、Control: Resonant（9月24日）、Gears of War: E-Day（10月6日）的高价攻略书销售页面。这些书现在都可以直接购买。"
+        },
+        {
+          "t": "p",
+          "x": "封面全部是AI生成的，简介也是AI写的。为防止还有人心存疑虑，Rick's Game Backlog指出了其中一段。一本标题冗长、写成'Gear of War E-Day Game Guide…'（不是'Gears'）的书，简介是这样开头的：'Here is a high-converting Amazon-style book description crafted to sell your book while keeping it emotionally engaging, persuasive, and read-focused.'再没有比这更完美的开场了。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/gear-of-war-guide2.jpg",
+          "cap": "亚马逊上架的AI攻略书销售页面（Amazon / Kotaku）"
+        },
+        {
+          "t": "p",
+          "x": "幸好，Rick亲自下单买了几本书，公开了内容。目录没有页码，而是以超链接形式印刷，全书没有一张插图，排版像小说一样，连攻略书的样子都没装出来。以维基百科为基础、由AI写成的约60页世界观介绍之后，紧接着是'生存机制'或'心理战'之类游戏里根本不存在的功能的'攻略'章节。Alien: Isolation 2那本书里甚至整整一章讲的是尚未公布的系统配置要求。Rick's Game Backlog向亚马逊客服举报后书被下架，但很快又重新上架。"
+        },
+        {
+          "t": "p",
+          "x": "正规攻略书确实可能在发售前出版。这类书的作者会提前拿到未完成版本，仔细整理内容。而这次的东西是抄袭网络信息拼凑出来的一堆废话，还是一场精明的骗局，恰好利用了亚马逊向预购用户推荐相关商品的习惯。价格超过20美元，也不是靠便宜蒙混过关的小把戏。封面看起来还算像样，为孩子挑礼物的家长或玩家很可能毫无防备地被骗。"
+        },
+        {
+          "t": "p",
+          "x": "同类的AI劣质攻略书也挂在已经发售的游戏名下。写了Alien: Isolation 2那本书的'作者'George D. Brogan名下有一本关于P的伪书，高产攻略机器人Donald C. Campbell则上架了The Adventures of Elliot、Mina the Hollower和Star Fox的攻略书。Kotaku作者指出的一大亮点是，这些书的简介大多都用了'Step into the world of…'的某种变体。"
+        },
+        {
+          "t": "p",
+          "x": "亚马逊发言人对Kotaku表示：'We have content guidelines governing which books can be listed for sale and promptly investigate any book when a concern is raised'，并称违反规定的书会被下架。文章首次发布后，部分问题书籍确实被删除，但很快又有完全相同的书填补了原来的位置。"
+        }
+      ]
+    },
+    "games/broche-prompt-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gpTpJThJANY4UHSHEmoDyf.jpg",
+          "cap": "《Clair Obscur: Expedition 33》中的古斯塔夫（图片：Sandfall Interactive）"
+        },
+        {
+          "t": "p",
+          "x": "去年凭借广受好评的RPG《Clair Obscur: Expedition 33》执导的Guillaume Broche认为，总有一天只靠一个提示词就能生成整款游戏。这对他本人和许多其他开发者来说都是一个可怕的设想。"
+        },
+        {
+          "t": "p",
+          "x": "在Konbini的电子游戏俱乐部节目上谈到游戏行业的生成式AI话题时，Broche划清了界限：他的工作室Sandfall Interactive不会把这项技术用在'创作'环节。对于行政事务或编程，他说'it depends'，但生成其他内容则让他感觉'like it takes away from the joy of creating things'。"
+        },
+        {
+          "t": "video",
+          "yt": "i5x2hm7Epdc"
+        },
+        {
+          "t": "p",
+          "x": "Sandfall去年因为发售版游戏中被发现AI生成的材质而陷入困境。相关素材随即被移除，官方解释称那只是未打算用于发售的占位素材。尽管如此，这件事还是导致至少两个GOTY奖项被撤销。在下一部作品中，工作室看起来并不打算以同样方式触碰这项技术。"
+        },
+        {
+          "t": "p",
+          "x": "Broche接着说道：'I think everyone's a little scared, though - of the road ahead, of how things might turn out. With video games, we're still somewhat protected because, technically speaking, it's a different ball game. But I think the day will come when we'll be able to churn out a game in five seconds with a prompt. Will it be a good game? I hope not. But I think everyone's asking themselves the same question - and admitting it's a little scary.'"
+        },
+        {
+          "t": "p",
+          "x": "至少在《Clair Obscur: Expedition 33》大获成功之后，Broche和团队感受到的压力并不大。'That's why I'm also glad… because we're a studio that's secure. So even if we're not doing things in the best way possible, we don't care.'"
+        }
+      ]
+    },
+    "games/hasbro-child-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w7g6p9yU934Mam8K7HtkzN.png",
+          "cap": "万智牌'Corrupt Court Official'画作，Drew Baker（Wizards of the Coast）"
+        },
+        {
+          "t": "p",
+          "x": "Hasbro几乎没有喘息的机会。PC Gamer的作者认为，它本来也不配有。有报道称，这家掌控《龙与地下城》和《万智牌》的巨头公司，这次正在推行把孩子的声音权利交给AI的合约。"
+        },
+        {
+          "t": "p",
+          "x": "依据来自儿童与青少年演员经纪人团体Agents of Young Performers Association的公开信，以及Deadline把这封信与《小猪佩奇》联系起来的报道。信中写道：'A major studio who owns the IP for an international children's franchise producing a long running animated television series has offered contracts to child voice actors insisting that they agree to the use of AI thus allowing them to use the child's voice in all commercial assets within their franchise.'"
+        },
+        {
+          "t": "p",
+          "x": "信中接着写道：'The refusal to remove this clause with an attitude of 'take it or leave it' has led us [to] write this letter to make it clear that this will not be accepted and to bring this matter to the attention of the wider industry.'已确认的签名已超过1,000人。"
+        },
+        {
+          "t": "p",
+          "x": "过去十年，Hasbro的所作所为相当难看。它派Pinkerton侦探追查提前拿到MTG卡牌的粉丝，解雇了1,100人，其中包括促成《博德之门3》那笔交易的关键人物，还发起了激烈的反工会行动。其CEO对AI十分沉迷。公司也失去了虚拟桌面平台Sigil，甚至取消了《星球大战：原力陨落》导演执导的一款游戏。"
+        },
+        {
+          "t": "p",
+          "x": "如果公开信的指控属实，那对一家口碑早已跌到谷底的公司来说也是越线了。Hasbro没有向Deadline给出具体回应，只留下了这样一份声明：'The protection of child performers is core to who Hasbro is, it's part of our DNA. As industry standards around AI continue to evolve, we are committed to engaging with this issue in a responsible and transparent manner.'"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer的作者写道，让AI能够使用孩子声音的合约本身就令人不安。归根结底是同意的问题。成年演员交出类似权利已经令人不快，但那至少是成年人自己的选择。而把一个必须靠父母代为理解和同意的孩子，拉进声音AI克隆合约里，根本不存在什么'负责任且透明的方式'。"
+        },
+        {
+          "t": "p",
+          "x": "这对Hasbro的游戏业务也不是什么好信号。自这项技术出现以来，配音演员一直在与AI问题角力，花了一场旷日持久的罢工才换来公平的合约。而那场罢工，是能够自行组织、为自己发声的成年人才能做到的事。孩子做不到。"
+        }
+      ]
+    },
+    "games/gaider-plague": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/dragon-age-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "龙腾世纪联合创作者大卫·盖德猛烈批评了游戏开发中使用的生成式AI。这位前BioWare编剧在接受GamesRadar采访时表示,这项技术\"在重复性工作上很糟糕\",并断言生成式AI的产出\"没有灵魂\"。"
+        },
+        {
+          "t": "p",
+          "x": "盖德曾在《龙腾世纪:起源》《龙腾世纪2》《龙腾世纪:审判》中担任首席编剧。他指出,生成式AI常常在未经创作者同意的情况下使用数据进行训练,这在伦理和法律上都会引发问题。"
+        },
+        {
+          "t": "p",
+          "x": "他说,\"生成式AI常常在未经创作者或所有者同意数据被掠夺的情况下进行训练\",并表示这种方式会使项目面临法律风险。他还补充说,\"如果不允许我们窃取所需的东西,AI就无法正常运作!\"这种说法毫无依据。"
+        },
+        {
+          "t": "p",
+          "x": "谈到AI生成的内容时,他问道:\"这让工作更高效了吗?让产出变得更好了吗?\"他结合自己在叙事设计方面的经验说,\"修复低质量的产出,比直接丢弃重做花费的时间更多\"。"
+        },
+        {
+          "t": "p",
+          "x": "人们期待AI承担琐碎工作,让人类专注于重要任务,但盖德看到的现实恰恰相反。他说,这是一种\"AI做重要的工作,而劳动者则在旁边负责'收拾'\"的局面。"
+        },
+        {
+          "t": "p",
+          "x": "他也对取消初级岗位提出警告:\"如果取消所有初级岗位,又该如何培养下一代开发者?\""
+        },
+        {
+          "t": "p",
+          "x": "结论很明确:在适当的监管和合法获取的训练数据到位之前,\"现在它就是一场恶性瘟疫,应该这样对待它\"。"
+        }
+      ]
+    },
+    "games/sony-ai-annual-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamingbolt.com/wp-content/uploads/2024/09/chroma-indigo-1-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "索尼向美国证券交易委员会(SEC)提交了新的年度报告。正如Game File的Stephen Totilo所指出的,从调整后的业务规划来看,索尼目前正为当下市场营收可能下滑做准备。与此同时,关于将自家第一方作品带到PC平台的措辞也被一并删除。"
+        },
+        {
+          "t": "p",
+          "x": "去年的报告中写道,PlayStation\"致力于实现可持续且盈利的业务增长\"。而在这一版中,这句话被改为\"致力于实现可持续的业务增长\"。Totilo认为,\"盈利\"一词的消失,是零部件价格飙升开始对PlayStation营收产生更大影响的信号。"
+        },
+        {
+          "t": "p",
+          "x": "报告对硬件业务的描述是:\"在硬件业务方面,索尼预计将受到存储芯片价格上涨和供应短缺的影响,但计划通过灵活调整销量和促销等方式来管理对盈利能力的影响。\""
+        },
+        {
+          "t": "p",
+          "x": "与此同时,索尼正试图扩大像PlayStation Plus这样的服务类收入。这被解读为试图弥补硬件业务利润空间收窄的一种算计。"
+        },
+        {
+          "t": "p",
+          "x": "平台扩张的方向也发生了变化。去年的报告中有一句话是\"计划继续将第一方作品分发到包括PC等多个平台\"。而在今年的报告中,这部分内容整段消失。这也与近期有关索尼未能从PC市场获得预期利润和增长的传闻相吻合。"
+        },
+        {
+          "t": "p",
+          "x": "最近,PlayStation CEO西野秀明(Hideaki Nishino)几乎已经明确表示,以单人游玩为主的第一方游戏不会再登陆PC。发行计划将取决于\"每款作品的特性\",带有在线元素的live service游戏仍会为了触达更广泛的用户群而考虑登陆PC。相比之下,单人游玩的第一方游戏将继续留在PlayStation硬件上。西野表示:\"无论平台如何,我们都会根据让每款作品的独特特性发挥到极致、提供最佳游戏体验这一原则来做决定。\""
+        },
+        {
+          "t": "p",
+          "x": "与AI相关的内容也十分引人注目。索尼表示将在游戏开发中更广泛地使用基于AI的工具。报告中写道:\"索尼正在利用AI来激发工作室的创造力,并进一步强化PlayStation体验。\""
+        },
+        {
+          "t": "p",
+          "x": "报告进一步补充道:\"在工作室业务方面,基于AI的工具提升了生产力,让开发团队能把节省下来的时间重新投入到打造更丰富的世界和游玩体验上。在平台业务方面,AI让交易处理更高效,并在PlayStation Store上为每位用户个性化推荐内容。我们还将持续投资AI与机器学习,以提升画面表现力,带来更高品质的游玩体验。\""
+        },
+        {
+          "t": "p",
+          "x": "跨媒体拓展也在继续推进。索尼计划基于PlayStation游戏IP制作电影和电视剧,以进一步扩大知识产权的覆盖范围和变现能力。"
+        }
+      ]
     }
   }
 }

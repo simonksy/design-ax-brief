@@ -1549,6 +1549,453 @@
           "x": "Genie se lanza hoy primero para los suscriptores en Suecia y estará disponible en todo el país antes del 1 de julio. Otros mercados se abrirán sucesivamente a partir de agosto."
         }
       ]
+    },
+    "books/cn-webnovel-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta es una historia sobre el mercado chino de novelas web, según informó Electronic Times. La plataforma gratuita Fanqie Novel endureció notablemente su represión del contenido generado por IA en la primera mitad de este año. Solo en junio rechazó contratos de más de 100.000 obras de baja calidad y procesó más de 40.000 obras que infringían sus normas. Sancionó 855 cuentas infractoras, algunas con suspensión permanente."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.64bf7d155b834bf4a1b35034fe6d1658_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Fanqie Novel no prohíbe la IA en sí. Filtra textos con frases enredadas, tramas incoherentes, relleno sin contenido real o poca originalidad. En cambio, Qimao Chinese Network y Qidian Chinese Network han dicho a sus autores que prohíben cualquier forma de escritura asistida por IA."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que la detección no es perfecta. Como la IA se entrenó aprendiendo de textos humanos, incluso un texto escrito por una persona puede confundirse con estilo de IA. Eso crea una paradoja: algunos autores se esfuerzan por escribir de forma que 'no parezca IA'. Usan herramientas 'humanizadoras' que convierten frases con sonido de IA en un estilo más 'humano', y se pasan los borradores entre ellos antes de publicarlos para comprobar que no quede ningún rastro de IA."
+        },
+        {
+          "t": "p",
+          "x": "En la industria se considera que la IA generativa actual todavía no puede sustituir por completo una novela larga. Una historia que llega a millones de caracteres necesita mantener de forma constante su mundo narrativo, las relaciones entre personajes y los hechos ya ocurridos. Al final, la cuestión no es detectar si se usó IA, sino cómo proteger la calidad y el valor de la creación humana."
+        }
+      ]
+    },
+    "books/ipa-innovation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/IMG_6452.jpeg",
+          "cap": "Nadim Sadek, Gvantsa Jobava, Senthil Nathan"
+        },
+        {
+          "t": "p",
+          "x": "El 35º Congreso Internacional de Editores, celebrado en Kuala Lumpur, volvió a entregar dos premios que honran los logros y la innovación en la edición. En la cena de gala de clausura del congreso, la Asociación Internacional de Editores (IPA) anunció que el editor brasileño Alfredo Weiszflog recibiría el Premio Campeón IPA 2026. Dos empresas de IA ya conocidas en el mundo editorial, Shimmr y Ailaysa, se llevaron el Premio a la Innovación Editorial de la IPA."
+        },
+        {
+          "t": "p",
+          "x": "El Premio Campeón se otorga a una persona que ha ayudado a avanzar los objetivos de la IPA para la industria editorial más allá de lo habitual. La IPA describió a Weiszflog como un pilar central de los mercados editoriales brasileño e internacional a lo largo de una carrera de medio siglo."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/07/Screen-Shot-2026-07-07-at-3.22.43-PM.png",
+          "cap": "Alfredo Weiszflog"
+        },
+        {
+          "t": "p",
+          "x": "Su vida editorial comenzó en 1967 en el equipo de marketing de Companhia Melhoramentos, y pasó por casi todos los departamentos de la empresa. Según la IPA, bajo su liderazgo la editorial se modernizó y reunió a algunos de los autores más destacados de Brasil. Entre 1985 y 1989 presidió la Cámara Brasileña del Libro (CBL), y en 1994 organizó la primera participación de Brasil como país invitado de honor en la Feria del Libro de Fráncfort. En un video presentado durante la ceremonia, dijo que era el momento en que se cumplía una promesa que se había hecho a sí mismo hace mucho tiempo, y que estaba agradecido de recibir este reconocimiento en vida."
+        },
+        {
+          "t": "p",
+          "x": "El Premio a la Innovación Editorial se otorga a una organización o persona que ha puesto en práctica una práctica editorial innovadora, replicable en otros lugares y beneficiosa para la industria."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2023/07/Nadim-Sadek-shimmr-270.jpg",
+          "cap": "Nadim Sadek"
+        },
+        {
+          "t": "p",
+          "x": "Shimmr es la empresa detrás de la primera plataforma de 'publicidad como servicio (AaaS)' del mundo, un sistema de IA autónomo por suscripción, diseñado para mantener el marketing de libros funcionando de forma continua a un costo asequible. El CEO Nadim Sadek dijo que el reconocimiento de la IPA fue \"deeply appreciated\", es decir, profundamente valorado por el equipo. Dijo que a la edición se la suele describir como conservadora y reacia al riesgo, pero que su propia experiencia fue todo lo contrario: encontraron curiosidad amplia, crítica constructiva y una adopción audaz, y fueron bien recibidos incluso en una época en que la nueva tecnología suele generar sospecha antes que nada."
+        },
+        {
+          "t": "p",
+          "x": "Senthil Nathan, fundador y CEO de Ailaysa, también expresó su agradecimiento. Dijo que el premio lo significa todo para una empresa fundada por personas que han pasado su vida entre traductores, escritores y editores. Añadió que la razón de ser de Ailaysa es lograr que un libro, sin importar quién lo escribió ni en qué idioma, llegue a lectores de cualquier parte del mundo en el idioma que ellos elijan."
+        },
+        {
+          "t": "p",
+          "x": "Ailaysa es una empresa de IA multilingüe que ofrece soluciones dedicadas para editoriales, y también creó la plataforma de lectura y descubrimiento de libros Chai Reader. La IPA celebra el Congreso Internacional de Editores cada dos años. El congreso de este año en Kuala Lumpur se celebró del 5 al 9 de julio."
+        }
+      ]
+    },
+    "books/kindle-recaps": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La noticia la dio a conocer Michael Kozlowski de Good e-Reader. Leer una serie a ratos suele hacer que la trama y los personajes se vuelvan confusos. Kindle Recaps es la función que llena ese vacío, y ahora también se puede usar en el navegador web."
+        },
+        {
+          "t": "p",
+          "x": "Recaps funciona como la sección de 'anteriormente en' de una serie de televisión. Resume brevemente y sin spoilers el argumento de los libros anteriores de una serie o del libro que estás leyendo, para que puedas ponerte al día con los personajes y los hechos sin volver a leerlos. Hasta ahora solo se podía ver en los lectores Kindle y en la app de iOS; ahora ese contenido también se puede consultar en el navegador."
+        },
+        {
+          "t": "p",
+          "x": "Basta con pulsar 'View Recaps' en la página de la serie en el sitio web de Amazon. Si inicias sesión con tu cuenta de Amazon, también puedes ver tus metas y tu historial de lectura del año. Puedes usar el navegador que prefieras —Chrome, Firefox, Edge—, pero por ahora solo está disponible para usuarios en Estados Unidos."
+        }
+      ]
+    },
+    "books/infinite-story": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es la investigación con la que la analista de la industria editorial Jane Friedman abrió su newsletter. Analizó 500.000 conversaciones de ChatGPT en inglés, anonimizadas, para ver cómo la gente usa la IA para crear ficción. Lo que llamó la atención fue un pequeño grupo de usuarios intensivos bautizados 'buscadores de historias infinitas', que producen en masa fan fiction y erótica con IA repetitiva solo para su propio disfrute."
+        },
+        {
+          "t": "p",
+          "x": "Friedman señaló las preguntas que este estudio plantea sobre la relación entre la IA y el entretenimiento: \"Los LLM claramente permiten interacción, juego y variación de maneras que dan placer a los usuarios, y eso plantea preguntas sobre dónde encaja la IA en el ecosistema contemporáneo de narrativa y entretenimiento\"."
+        },
+        {
+          "t": "p",
+          "x": "El estudio considera que la ficción generada por IA se parece a una forma cultural a la carta, personalizada y repetitiva, una señal de que el consumo de historias empieza a darse fuera de los circuitos de la edición tradicional. El artículo está disponible en arXiv."
+        }
+      ]
+    },
+    "books/ipa-congress": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es la noticia que Publishers Weekly dio sobre el 35º Congreso de la Asociación Internacional de Editores (IPA). Celebrado del 5 al 9 de julio en el Grand Hyatt de Kuala Lumpur, Malasia, el congreso reunió a 500 personas de 40 países, con 70 ponentes de seis continentes en el escenario. Desde el discurso de apertura hasta las conferencias magistrales y los paneles, la IA atravesó toda la agenda."
+        },
+        {
+          "t": "p",
+          "x": "Sheikh Faisal Sheikh Mansor, presidente de la Asociación de Editores de Libros de Malasia, abrió el evento diciendo: \"El mundo ha cambiado drásticamente, pero nuestro propósito de conectar a las personas a través del conocimiento, las ideas y las historias sigue siendo el mismo\". La presidenta de la IPA, Gvantsa Jobava, fue un paso más allá: \"Nuestro trabajo colectivo se ha convertido en la mejor fuente de datos de entrenamiento para la IA. Si la IA alguna vez cumple su promesa, será únicamente gracias a la calidad de los libros que todos hacemos\"."
+        },
+        {
+          "t": "p",
+          "x": "Thad McIlroy, de 'The Future of Publishing', diagnosticó que la industria editorial ha superado la etapa de mirar la IA con asombro y ha entrado en la etapa de preguntarse 'y ahora, ¿qué hacemos?'. Su observación es que la edición académica está sobre todo tratando de entender la IA y de pensar cómo integrarla, mientras que la edición de libros acaba de pasar de la ansiedad, el miedo y el pánico a experimentar con la IA con cautela, y a veces en secreto."
+        },
+        {
+          "t": "p",
+          "x": "La IA no fue lo único en el escenario. Richard Mollet, de RELX, moderó un panel sobre ética, y la subsecretaria general de la ONU Melissa Fleming abordó el problema de la desinformación y sus posibles soluciones. Kai Zenner, del Parlamento Europeo, trató los retos de política pública, y también se contaron las historias de los ganadores del Prix Voltaire, que han sido reconocidos por defender la libertad de publicar."
+        }
+      ]
+    },
+    "books/pls-litigation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es la noticia de la conferencia de Publishers Licensing Services (PLS) que recogió Melina Spanoudi de The Bookseller. En el evento se dijo que las editoriales siguen esperando una respuesta legal 'clara' sobre el entrenamiento de IA, los resultados y las licencias. El diagnóstico es que años de litigios por derechos de autor no han respondido a las preguntas clave que las editoriales realmente necesitan antes de fijar su estrategia de licencias de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/573/shutterstock_24176304991.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Esta frustración tiene un trasfondo. En Estados Unidos los litigios siguen este año. En mayo pasado, cinco editoriales —Elsevier, Cengage, Hachette, Macmillan y McGraw Hill— presentaron una demanda colectiva contra Meta junto con el autor de bestsellers Scott Turow. En distintos tribunales hay en juego argumentos sobre datos de entrenamiento, resultados, licencias y piratería: por un lado se acumulan fallos que tratan el entrenamiento de modelos como uso transformativo, mientras que, del lado de los resultados, se endurecen las exigencias de probar una similitud sustancial con la propia obra."
+        },
+        {
+          "t": "p",
+          "x": "PLS es la organización que lanzó a comienzos de este año, en la Feria del Libro de Londres, un esquema colectivo de licencias de IA, y recientemente unas 250 editoriales del Reino Unido han expresado su intención de participar. Mientras se espera que los litigios fijen los estándares, la práctica de las licencias ya ha empezado a rodar. El artículo completo está disponible para los suscriptores de The Bookseller."
+        }
+      ]
+    },
+    "books/ao3-ai-markup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La primera vez que la IA salió a relucir en un evento de escritura y publicación, una autora de fan fiction se acaloró durante el turno de preguntas. Su argumento era que esta tecnología constituye una infracción masiva de derechos de autor, entrenada sin permiso con sitios de fan fiction. Es un punto válido, aunque también incómodo de plantear, dado que el fan fiction en sí se escribe sin permiso del titular original de los derechos, lo que también podría ser una infracción. Desde entonces ha quedado claro que la comunidad de fan fiction tiene un sentimiento anti-IA especialmente fuerte, pero, como en otros rincones de la edición, parecía razonable suponer que no pocas personas allí usaban IA sin decirlo."
+        },
+        {
+          "t": "p",
+          "x": "Un usuario de X conocido solo como John Doe descubrió que el fan fiction copiado de Claude y pegado en Archive of Our Own (AO3) conserva código que señala la participación de IA. Obras populares inspiradas en 'Heated Rivalry', 'Stranger Things' y 'The Pit' estuvieron entre las señaladas como hechas con ayuda de IA."
+        },
+        {
+          "t": "p",
+          "x": "Lo interesante es la psicología detrás de esto. Buena parte de las obras de AO3 señaladas llevaban la etiqueta 'sin IA' o declaraban con firmeza su postura anti-IA. El autor repite una y otra vez en las comunidades de escritura que 'no se puede confiar en la transparencia y la honestidad en torno al uso de la IA'. El sistema basado en el honor no funciona, y ninguna editorial o grupo con una política anti-IA puede realmente hacer cumplir esa pureza."
+        }
+      ]
+    },
+    "books/cartland-clone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La editorial de audiolibros Bolinda ha usado IA para traer de vuelta la voz de la ya fallecida autora de novela romántica Barbara Cartland. Entrevistas, material de archivo y un toque humano se combinaron para dar su narración característica a las nuevas ediciones en audiolibro."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/667/Barbara_Cartland_c_The_estaste_of_Barbara_Cartland.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rebecca Herrmann, Elise Pulford-Moore y Tara Parker contaron a The Bookseller cómo combinaron IA y archivos para 'clonar' la voz de Cartland."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original está detrás de un muro de pago solo para suscriptores, así que no se pudieron confirmar detalles como qué títulos saldrán y cuándo."
+        }
+      ]
+    },
+    "books/fiction-feast-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según se informó, la revista de ficción popular Take a Break's Fiction Feast avisó a sus escritores colaboradores habituales de que a partir de ahora usará 'herramientas de IA' en las historias producidas internamente."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Para una revista que durante años ha publicado relatos cortos pensados para el gran público, es una señal de cambio en cómo se producen las historias, y no un cambio menor para los escritores colaboradores y el equipo editorial que han suministrado copia de forma constante."
+        },
+        {
+          "t": "p",
+          "x": "Detalles como el alcance concreto del uso o la reacción de los escritores no se pudieron confirmar, ya que quedan detrás de un artículo de pago."
+        }
+      ]
+    },
+    "books/pub-data-edge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tres empresas que apuestan por el análisis de datos con IA están llamando a la puerta de las editoriales este año. Cada una apunta a un ángulo distinto, adquisición de derechos o marketing, pero la promesa es similar: respaldarán con datos decisiones que durante mucho tiempo se tomaron por intuición, sin sustituir el criterio del editor, según coinciden todas."
+        },
+        {
+          "t": "p",
+          "x": "La española Alegría está a punto de lanzar 'Publisher OS', que amplía sus herramientas de edición a derechos, regalías y gestión financiera. Empezó como herramienta de corrección y ha crecido hasta incluir traducción, análisis, marketing automatizado y producción de notas de prensa. Tiene como clientes a editoriales como Anagrama y Trotta, se ha expandido a México y Argentina, y ha entrado en pruebas piloto con grandes editoriales de habla inglesa. El responsable de contenido, Antonio J. Rodríguez, señaló como verdadera competencia no a DeepL o Grammarly, sino a grandes laboratorios de IA como OpenAI y Google."
+        },
+        {
+          "t": "p",
+          "x": "La alemana Lit-X se centra en detectar libros que están despegando en el mundo y conectarlos mediante licencias. Analiza a 12.800 influencers de libros y 2,5 millones de publicaciones en Amazon, Goodreads, TikTok, Instagram y YouTube, combinando valoraciones con alcance y engagement en una puntuación de 'Trend Momentum'. Los editores reciben los resultados por correo en un resumen quincenal. En vez de cobrar por asiento, ofrece suscripciones corporativas a tarifa fija; el cofundador Lars Leibsohn dijo: 'Si cobras por cada licencia, nadie lo usa'."
+        },
+        {
+          "t": "p",
+          "x": "La neozelandesa Narrative Muse combina un motor de recomendación para consumidores que abarca libros, cine y series con un panel de análisis de lectores para editoriales y autores autopublicados. A partir de los datos de gusto de unos 100.000 usuarios de su motor de recomendación, ayuda a estimar la demanda de los lectores en la etapa de derechos y edición, en lugar de mirar solo las ventas después de la publicación. Desglosa un solo libro en más de 220 atributos para compararlo con los gustos de los lectores. El cofundador Bruff Johnson dijo: 'Vemos todo lo que hacemos a través de una lente ética', y lo señaló como su ventaja."
+        }
+      ]
+    },
+    "books/libby-ai-filter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este artículo proviene de Lowpass, el boletín semanal de Janko Roettgers publicado por The Verge. Mark DeBevoise, que asumió como CEO de OverDrive la semana pasada, dice: \"la IA es una nueva frontera para nosotros\". OverDrive opera Libby, la app de préstamo de libros electrónicos que usan decenas de miles de bibliotecas públicas, y ahora se encuentra justo donde llega la ola de libros creados con IA."
+        },
+        {
+          "t": "p",
+          "x": "Por eso Libby incorporará controles de contenido de IA, una función que permite a los lectores elegir en la configuración de la app si quieren ver contenido generado por IA. Filtra no solo libros escritos por IA, sino también audiolibros narrados por IA, traducciones automáticas y arte generado por IA. DeBevoise dijo: \"hay que hacer saber a la gente qué existe y cómo se hizo\". Como Libby sufrió reacciones negativas el año pasado al añadir su propia función de recomendaciones con IA, OverDrive busca un punto medio: dejar que lectores y bibliotecarios eviten la IA sin perder beneficios como las recomendaciones o la localización."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/AI-Content-Control-Image-1.png?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Fundada hace 40 años para pasar libros a disquetes y CD-ROM, la compañía trabaja hoy con 92.000 bibliotecas, escuelas y universidades en 115 países. El catálogo de Libby supera los 6 millones de libros y ha superado los 1.000 millones de préstamos. DeBevoise afirma sin rodeos que la mayor parte del catálogo no tiene relación con la IA, ya que \"los libros de antes de 2020 o 2022 no son, por definición, IA\"."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, este equilibrio podría no durar. Amazon limita las subidas de autopublicación desde 2023, y el CEO de Kobo, Michael Tamblyn, dijo el mes pasado que rechaza casi la mitad de los títulos nuevos autopublicados por preocupaciones sobre IA. OverDrive no tiene un canal para que los autores suban libros directamente, pero recibe obras a través de intermediarios como Draft2Digital, que permite libros con IA si han sido suficientemente revisados por una persona. Esto significa que es difícil impedir que libros con IA lleguen a Libby. Aun así, OverDrive optó por dejar que las editoriales se etiqueten solas con metadatos estándar en lugar de usar un detector de IA."
+        },
+        {
+          "t": "p",
+          "x": "Los audiolibros representan el 15% del catálogo, pero generan la mitad del uso de la app. DeBevoise también valora más los audiolibros narrados por personas, pero considera que traducir a decenas o incluso cien idiomas no es viable sin IA. También hay críticas de que la traducción automática de obras literarias es problemática. El nuevo filtro sí incluye una opción para excluir traducciones automáticas, pero solo funciona si el libro está correctamente etiquetado."
+        }
+      ]
+    },
+    "books/sudowrite-sonnet5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sudowrite publicó un paquete de actualizaciones en su registro de cambios del 30 de junio. El elemento central es Claude Sonnet 5. Anthropic acababa de lanzar el nuevo modelo y Sudowrite lo incorporó de inmediato, describiéndolo como cercano en calidad a su buque insignia, Opus 4.8, y especialmente bueno siguiendo instrucciones. Funciona en Write, Draft y los plugins en general, y el costo en créditos es incluso menor."
+        },
+        {
+          "t": "p",
+          "x": "También llegó la exportación de carpetas. Desde el menú de carpetas, ahora se puede agrupar todo el conjunto de documentos en un archivo .zip o extraerlo como un único .docx combinado, lo que facilita mover manuscritos y materiales."
+        },
+        {
+          "t": "p",
+          "x": "Reordenar documentos ahora se hace solo con el teclado. La tecla Alt (Opción) junto con las flechas cambia el orden y permite anidar elementos como subelementos, con un aviso en cada movimiento que funciona también con lectores de pantalla."
+        },
+        {
+          "t": "p",
+          "x": "También llegaron correcciones menores. Incluyen estabilidad de la app móvil (2026.26.16), conservación de los prompts de Write Guidance, corrección de un error en las pestañas del navegador, optimización de la carga de comentarios, conservación del texto de retroalimentación mostrado, historial de chat de series ampliado, un diseño de Quick Edit, ajuste de los créditos de generación de borradores y mejor detección de personajes al importar novelas. El artículo cierra con una convocatoria para probadores beta de una futura función de guía de estilo."
+        }
+      ]
+    },
+    "books/zoom-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es el titular principal que Carlo Carrenho destacó en el boletín semanal internacional de publicación de Publishing Perspectives. Según un reportaje de Börsenblatt que cita investigaciones de la radiotelevisión pública alemana SWR y la radiotelevisión pública suiza SRF, empresas de IA estadounidenses compran grandes cantidades de libros usados en alemán para entrenar modelos de lenguaje de gran tamaño."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "Librerías de libros usados en toda Alemania han visto pedidos inusualmente grandes de la empresa canadiense-estadounidense Zoom Books. Los pedidos se concentraron en libros de no ficción y obras especializadas con ISBN publicadas desde la década de 1970, y los libros comprados, según se informa, se escanean y luego se desechan."
+        },
+        {
+          "t": "p",
+          "x": "Roger Sonnewald, librero de Tubinga, dijo a SWR que la compra en sí es legal, pero advirtió que, si el descarte es real, podría perderse patrimonio cultural. SRF informó que, a medida que se agota el texto disponible libremente en internet, las empresas de IA se vuelcan hacia libros especializados antiguos. Según se informa, algunas empresas consideran comprar libros físicos, escanearlos y eliminarlos como una forma de apoyarse en el principio estadounidense de uso justo."
+        },
+        {
+          "t": "p",
+          "x": "Carrenho señaló que ya había informes previos de empresas de IA acumulando grandes cantidades de libros en papel dentro de Estados Unidos, pero que esta vez la práctica parece haberse extendido a un mercado en otro idioma. En la concentración en libros usados agotados, él ve una señal de que las empresas de IA buscan material de entrenamiento más allá de los catálogos editoriales actuales. Si se confirma, escribió, es una tendencia que la industria editorial debe observar."
+        }
+      ]
+    },
+    "books/byus-storychat": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El día 1, Naver Webtoon presentó byUs, un servicio de chat con IA basado en IP de manhwa. Usa tal cual la IP oficial autorizada por los creadores originales, dejando que el usuario se convierta en protagonista de la historia y continúe su propia narrativa conversando con los personajes. Se respeta el universo original, mientras que la inmersión queda en manos del usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.1b4fcc88c9e044b6ae8011e9c39409e2_P1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hay dos formas de usarlo. 'Historia original' abre con una introducción ambientada en el universo original y despliega una nueva narrativa mediante el diálogo con los personajes. 'Historia de fans' es un modo que trae a los personajes originales para disfrutar de historias creadas con nuevas situaciones y relaciones. También se ofrece una herramienta UGC para que los usuarios creen y compartan sus propias Historias de fans."
+        },
+        {
+          "t": "p",
+          "x": "Funciones como respuestas sugeridas, reproducción automática, capturas y cortes especiales refuerzan la inmersión. El primer título disponible en byUs es 'Job Change Log'. Naver Webtoon planea ampliar su catálogo de IP comenzando por títulos con una base de fans sólida."
+        },
+        {
+          "t": "p",
+          "x": "Kim Shin-hyung, responsable del negocio de IP de Naver Webtoon, dijo: \"Los webtoons están dejando de ser contenido que simplemente se 've' para convertirse en un espacio 'interactivo' donde los fans participan directamente en el universo y lo amplían\". Y añadió: \"A través de byUs, ayudaremos a los fans a redescubrir el atractivo de las obras originales y a construir un círculo virtuoso que fortalezca el apego a la IP y su ciclo de vida\"."
+        }
+      ]
+    },
+    "books/choco-daldal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "¿Cómo leen los niños acostumbrados al video y al contenido breve? Según la 'Encuesta de 2025 sobre lectura y uso de bibliotecas entre niños y adolescentes' de la Biblioteca Nacional para Niños y Adolescentes, el uso de video, libros electrónicos y audiolibros ha aumentado respecto a 2012, y los adolescentes se alejan cada vez más del libro en papel hacia la lectura digital en dispositivos móviles como su forma principal de leer. En línea con este cambio, Mirae N lanzó contenido de lectura a través de su plataforma de aprendizaje con IA, Choco."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.ddb290e0f1a642af8284446eb68da1a3_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Choco es una plataforma en línea que aprovecha los 78 años de experiencia educativa de Mirae N para ofrecer contenido adaptado al nivel y al progreso de cada estudiante. Cubre el currículo desde la primera infancia hasta todos los grados de primaria y funciona en PC, tableta o smartphone. En una encuesta propia a padres realizada en 2025, registró una satisfacción del 98%. La plataforma también ofrece ChocoPop, que abarca lengua, matemáticas, ciencias sociales y ciencias, junto con los servicios de IA especializados en lectura, matemáticas e inglés Daldal Dokhae, Daldal Suhak y Daldal Yeongeo."
+        },
+        {
+          "t": "p",
+          "x": "Daldal Dokhae, el servicio de lectura, aplica primero una prueba diagnóstica para conocer la disposición y el nivel de lectura del estudiante, y luego ofrece textos personalizados. Avanza en tres etapas —Vocabulary Check, Reading Growth y Skill Boost— para reforzar vocabulario y conocimiento previo antes de pasar a la comprensión de textos y la resolución de ejercicios. Incluye más de 2.300 textos en seis áreas: humanidades, ciencias sociales, ciencia, tecnología, arte y literatura. Fue desarrollado junto con el Natmal Vocabulary Information Processing Institute, creador de la 'Prueba de Alfabetización LQ' realizada por más de 240.000 personas."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/07/06/news-p.v1.20260706.865bb6dd008c43778807e3038c288096_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "ChocoToon es un webtoon educativo digital creado por Mirae N, la editorial con mayor volumen de libros de texto publicados. Digitalizó más de 1.000 cómics educativos populares y, en lugar de ser solo un webtoon para ver, añadió una estructura de recompensas que conecta aprendizaje y lectura. Un representante de Mirae N dijo: \"Está pensado para que los estudiantes usen sus puntos de millaje ChocoChip para leer ChocoToon gratis, lo que los lleva hacia un aprendizaje autodirigido\", y añadió: \"Con distintas funciones, apoyamos una experiencia de lectura adecuada incluso en un entorno digital\"."
+        }
+      ]
+    },
+    "books/kobo-h2-roadmap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kobo dijo que lanzará, en la segunda mitad de 2026, funciones que cambiarán por completo la forma de leer y escribir en sus dispositivos. En un correo reciente a sus clientes, el CEO Michael Tamblyn anticipó \"un desarrollo que cambiará por completo la forma en que leemos y escribimos en nuestros dispositivos\". Se espera que llegue este otoño o invierno. Kobo también detalló, en su blog, los cambios que está preparando para este verano."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/02210457/exec_michaeltamblyn.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lo primero es la integración con StoryGraph. StoryGraph es una app y un sitio web para calificar y reseñar los libros leídos y gestionar planes de lectura y retos; ahora, con solo vincular la cuenta, el historial de lectura se sincroniza automáticamente, ya sea en la app de Kobo, en el lector web o en un lector de libros electrónicos. Ya no hace falta organizarlo por separado entre dispositivos. Las páginas de detalle de producto de Kobo.com también reorganizaron su información y mejoraron la velocidad de carga."
+        },
+        {
+          "t": "p",
+          "x": "El lector web también recibió cambios. Se añadieron nuevos efectos de cambio de página con desvanecimiento y deslizamiento, y se mantuvo el parpadeo predeterminado habitual. También se añadió una función para seleccionar y copiar frases del libro que se está leyendo, con un límite de hasta 600 caracteres por vez."
+        },
+        {
+          "t": "p",
+          "x": "El servicio de suscripción Kobo Plus amplió su cobertura a Polonia, Rumania, la República Checa, Filipinas, Grecia y Luxemburgo. Los usuarios en Bélgica también pueden pagar con Bancontact, un método de pago muy usado allí."
+        }
+      ]
+    },
+    "books/proust-chatgpt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un ensayo de Brian Charles publicado en Literary Hub. Con la nueva traducción de 'En busca del tiempo perdido' de Proust en Oxford World's Classics como punto de partida, examina de frente cómo la IA se infiltra poco a poco en la traducción literaria. Para Charles, la traducción parecía un trabajo lento y cuidadoso realizado 'fuera del tiempo', por lo que de entrada no encajaba con la traducción automática. Así que preguntó a dos traductores que de hecho usan estas herramientas."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/06/proust-chatgpt.png"
+        },
+        {
+          "t": "p",
+          "x": "Andrew Rothwell, que tradujo 'La prisionera', usa Wordscope, una plataforma que reúne en una sola pantalla DeepL, Google Translate y ChatGPT. Al poner lado a lado el texto original, la traducción de Moncrieff de 1929 y las sugerencias de la IA, explica que se reduce el ir y venir entre pantallas, lo que aligera la 'carga cognitiva' del traductor. Aun así, deja claro que la decisión siempre es suya y que la máquina solo propone. Hace los últimos ajustes en un documento de Word, fuera de la herramienta CAT. También señaló que el escepticismo actual se parece a la desconfianza que antes despertaban los procesadores de texto."
+        },
+        {
+          "t": "p",
+          "x": "Sam Taylor, ganador del Premio Scott Moncrieff, traduce 4.000 palabras al día con un PDF en francés a la izquierda y Word a la derecha. En vez de dejar que ChatGPT escriba frases, lo usa solo para investigar y verificar. Dijo que la herramienta es \"como trabajar con un niño inteligente pero perezoso: no se puede dejar sin supervisión\". Contó una anécdota en la que, al pedirle que investigara, inventó el título de un libro que no existe y luego se disculpó. La conclusión es clara: \"tiene todas las lenguas del planeta en la punta de los dedos, pero no tiene sentido estético\"."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras también son reveladoras. Una encuesta de 2024 de la Asociación Europea de Traductores Literarios mostró una visión abrumadoramente negativa de la traducción automática, y un estudio de 2025 señaló a los traductores como el grupo cuyo empleo está más amenazado por la expansión de la IA. Taylor prevé que los traductores comunes desaparecerán y solo quedarán quienes tengan un estilo propio y reconocible. Charles escribió que, tras hablar con ambos, sintió cierto alivio sin librarse del todo de la inquietud, y que seguirá con esa lectura lenta de pasar páginas y sopesar el lenguaje."
+        }
+      ]
+    },
+    "books/plutonium-or-salt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un artículo de Michael Tamblyn, CEO de Rakuten Kobo, publicado en Publishing Perspectives. Hace poco, en una reunión de directivos de Kobo, colegas que rara vez discuten mantuvieron un debate acalorado sobre si Kobo debía vender en su tienda libros creados con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-09-at-7.01.42-PM-793x508.png"
+        },
+        {
+          "t": "p",
+          "x": "Cada día llegan a Kobo miles de títulos nuevos, y cada vez hay más libros que parecen hechos con IA. Al ver el revuelo cuando Hachette canceló el lanzamiento de 'Shy Girl', la novela de moda de Mia Ballard, cada equipo de Kobo intentó fijar criterios sobre qué libros aceptar y cuáles bloquear."
+        },
+        {
+          "t": "p",
+          "x": "El debate tenía en realidad tres frentes: hasta dónde debería permitirse la IA en los libros, cómo aplicar cualquier regla que se cree, y qué tipo de librería quiere ser Kobo en la era de la IA. El año pasado, Kobo rechazó el 45% de los libros enviados a su plataforma de autopublicación Kobo Writing Life —literalmente cientos de miles de títulos—, en su mayoría libros de baja calidad considerados generados por IA. Esos casos son fáciles de decidir. El problema es la enorme zona intermedia entre ambos extremos. Los autores de no ficción usan IA para organizar material de investigación, y algunos piden a la IA cinco versiones de un párrafo atascado. Los editores de pequeñas editoriales con poco personal usan IA para revisar ortografía y gramática."
+        },
+        {
+          "t": "p",
+          "x": "Tamblyn resume así el núcleo del debate: en los libros, ¿la IA es plutonio o sal? El plutonio es letal incluso en cantidades mínimas, mientras que la sal, usada con moderación, mejora la comida. ¿Basta un poco, como con el plagio, para descalificar un libro, o es una herramienta que puede usarse con mesura? Para muchos autores en activo, enfadados por los servicios de IA entrenados con libros piratas, la IA es plutonio. Pero permitir solo un 0% de IA también descartaría a muchísimos libros que merecen ser leídos."
+        },
+        {
+          "t": "p",
+          "x": "La aplicación es aún más complicada. Cuanto mejores son los modelos, más difícil es detectar texto generado por IA, y el software de detección que probó Kobo a menudo confundía texto humano con IA, y texto de IA con humano. Es demasiado arriesgado dejar en manos de un software un veredicto que podría arruinar la carrera de un escritor. Un estudio reciente en una revista de lingüística encontró que las personas que trabajan a menudo con texto de IA la identifican mucho mejor que el software de detección."
+        },
+        {
+          "t": "p",
+          "x": "La última cuestión es de valores: una visión de 'los lectores primero', según la cual debería venderse cualquier buen libro que los lectores quieran, se enfrentó a otra de 'la comunidad del libro primero', que defiende proteger el ecosistema de autores, editoriales y editores; Kobo se inclinó por esta segunda. Todos coincidieron en que la industria del libro existe porque la gente dedica tiempo y dinero a las palabras en una página. Este artículo es una adaptación de la charla inaugural de Tamblyn en el Frankfurter Buchmesse CONTEC, celebrada el 21 de abril en la Feria Internacional del Libro de Buenos Aires."
+        }
+      ]
+    },
+    "books/kindle-translate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon ha añadido nuevos pares de idiomas a Kindle Translate. Es un servicio de traducción con IA, todavía en fase beta, que conecta los libros electrónicos de los autores de KDP (Kindle Direct Publishing) con lectores de todo el mundo. Esta expansión añade soporte para traducir entre inglés y español, alemán, francés, italiano y portugués. Históricamente, menos del 5% de los libros en Amazon.com han aparecido en más de un idioma, así que esto abre un camino para que los autores lleguen a nuevos lectores y aumenten sus ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Los autores de KDP que participan en la beta crean y gestionan sus propias traducciones. Basta con elegir el idioma y fijar el precio de venta, y unos pocos clics bastan para producir una edición traducida con la maquetación ya lista. Todas las traducciones pasan por una revisión automática de precisión y calidad antes de publicarse. El autor puede revisarla antes de publicarla o dejar que se publique automáticamente en cuanto esté lista. Las traducciones se pueden inscribir en KDP Select, con lo que también entran en Kindle Unlimited."
+        },
+        {
+          "t": "p",
+          "x": "Esta expansión amplía la línea de Amazon KDP de ayudar a los autores independientes a llegar a mercados internacionales y aumentar sus ingresos. Kindle Translate ofrece traducciones gratuitas a autores independientes como Diane C. Ella dijo: \"Trabajar con Kindle Translate es mejor, más rápido y mucho más fácil que los servicios de traducción que usaba antes.\" También se recogió la opinión de la autora de KDP Isabel Acuña: \"Probar la beta de Kindle Translate me hizo ver que los autores autopublicados ya no tienen que verse frenados por el idioma al llegar a lectores en el extranjero.\""
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/07/01164056/assetsaboutamazon.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kindle Translate se lanzó en noviembre de 2025 con las combinaciones inglés↔español y alemán→inglés. Esta es la primera vez que se amplía de forma significativa el número de idiomas."
+        }
+      ]
     }
   }
 }

@@ -1759,6 +1759,950 @@
           "x": "The news was revealed at the Annecy International Animation Film Festival in June 2026, and the work is set to come out in 2027."
         }
       ]
+    },
+    "design/figma-pm-os": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2nn5J6tUzwE"
+        },
+        {
+          "t": "p",
+          "x": "How a company uses AI reveals its culture and its future. That's the story Figma told on the Config 2026 stage."
+        },
+        {
+          "t": "p",
+          "x": "Ramp built Glass, Stripe built Minions, and Figma built PM OS — a tool meant to cut the time product managers spend on busywork so they can focus more on the decisions that actually matter."
+        },
+        {
+          "t": "p",
+          "x": "It's the story of how an AI tool, built by a small group of volunteers in a culture that encourages experimentation, quickly became woven into every PM's daily work. The talk is aimed at PMs, designers, and anyone who wants to help build the tools that shape how we work."
+        }
+      ]
+    },
+    "design/kpmg-builder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Matthew Adinger has spent nearly 25 years in digital design and always saw the same rhythm: a designer would build a screen and hand it off, and a developer would rebuild it from scratch, with months passing before an idea became a product. He's KPMG's UX director."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7464784da1384373989caf168c5c2600?format=webp&width=800",
+          "cap": "KPMG's shift in design-development collaboration"
+        },
+        {
+          "t": "p",
+          "x": "A year ago, KPMG decided to break that cycle. The problem was the gap between intent and execution. Handing off prototypes built in Sketch and Figma to development meant waiting weeks to see the result, and the cycle of documenting where things had drifted from the original and redrawing redlines kept repeating."
+        },
+        {
+          "t": "p",
+          "x": "KPMG's standards raised the bar further. Code goes through multiple layers of security scanning, down to scrutinizing a single third-party dependency. Plenty of AI tools can quickly generate something, but few produced results this firm could put in front of a client."
+        },
+        {
+          "t": "p",
+          "x": "Builder stood out in two ways. One was an environment close enough to Figma that switching over didn't feel risky, and once you got comfortable, you could drop straight into CSS and JavaScript. The other was its design intelligence system."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fe5feb7ae55674fb0bb6ee1938bfd8b39?width=800",
+          "cap": "Builder's design intelligence workflow"
+        },
+        {
+          "t": "p",
+          "x": "\"Most coding tools pull patterns from across the whole codebase and give a probabilistic answer,\" explains Abhijit Lokhande. That's exactly where an agent grabs something approximate and guesses, and where frontend code ends up warped, he says. Builder spells things out explicitly — what a component is, when and how to use it, how it fits with other components and the backend — down to attaching code examples."
+        },
+        {
+          "t": "p",
+          "x": "The component patterns indexed in Builder got the team to 80-90% accuracy, with people checking the rest by hand. Reviews that used to take ten days finished the same day, and deployment time dropped 88%. \"Designers became developers, and developers became designers,\" Lokhande says."
+        }
+      ]
+    },
+    "design/ntop-coreweave": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "nTop and CoreWeave showed that today's technology can meet the simulation goals of NASA's 'Vision 2030.'"
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/ntop-coreweave-nvidia-nasa-1024x576.jpg",
+          "cap": "nTop, CoreWeave, and Nvidia's NASA Vision 2030 study"
+        },
+        {
+          "t": "p",
+          "x": "NASA's 'CFD Vision 2030 Study,' released in 2015, set a goal for engineers to generate, analyze, and interpret tightly coupled simulations at scale — without managing each one by hand — while finishing within a set time at defined levels of accuracy and confidence."
+        },
+        {
+          "t": "p",
+          "x": "In April 2026, nTop and CoreWeave went beyond that benchmark. They ran 2,400 drone airframe shapes across five angles of attack, simulating 12,000 cases in total. After one engineer set it up and walked away, 280 of CoreWeave's Nvidia GPUs ran the whole thing through to completion without a single geometry failure."
+        },
+        {
+          "t": "p",
+          "x": "The pipeline ran 'headless,' with no one involved. No geometry broke, and nothing needed a manual restart. CoreWeave supplied 280 Nvidia RTX Pro 6000 Blackwell GPUs, each with 96GB of VRAM, with one LES simulation running simultaneously per GPU."
+        },
+        {
+          "t": "p",
+          "x": "Max Gaedtke, the nTop engineer who built and ran the pipeline, called it the largest nTop Fluids dataset ever assembled. \"If the geometry breaks on case 47, it doesn't matter how many GPUs you have. Someone has to find the cause and fix it by hand before the pipeline runs again, and then you can't run 12,000 cases overnight,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "The study produced a Pareto front spanning lift, drag, and L/D — a result that's effectively impossible with manual design-of-experiments work. The more lasting payoff is the dataset itself. With 12,000 CFD results, each holding a full 3D flow field, it's substantial enough to train a surrogate model that predicts aerodynamic performance across the shape space without rerunning simulations."
+        }
+      ]
+    },
+    "design/decagon-deco": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Customer service is the next field AI will reshape, and Decagon is setting up the board. Three years after launch, its AI agents spanning voice, chat and email have torn down decades-old queues and wait times. The secret behind landing on the CNBC Disruptor 50 isn't what it builds, but how it builds it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a6469cadcc96476913042e85925c1eaf9e395d10-3840x2160.png?w=1632&h=918&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "At AI-native companies, the path from design to code moves fast, and breaks just as easily. Coding agents only produce reliable output when given precise input. Without a design system, every component falls back on judgment calls, and that doesn't hold up at scale. When product designer Jennifer Shieh joined, Decagon had no design system."
+        },
+        {
+          "t": "p",
+          "x": "The system, named Deco, was built from the start with designers and engineers sitting side by side. Questions that are easy to put off, like what happens in focus mode, which state, disabled, read-only, error or warning, each component needs, and whether to include a placeholder, got addressed up front. \"We could think from the start about what already existed in the code and what the edge cases were,\" Jennifer says."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/dc36f56b6b757de762df00ff02f82d82b394f846-8475x2796.png?rect=0,1,8475,2794&w=1632&h=538&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "The result is an organization-wide library holding hundreds of components, styles and variables. According to Figma analytics, it was inserted tens of thousands of times over 30 days. \"Once the library was in place, we stopped fighting over style or implementation. Engineers know exactly which button and table to use. Since the designer, me, and the engineers work from the same base elements, communication is a lot easier too,\" he says."
+        },
+        {
+          "t": "p",
+          "x": "Coding agents don't interpret a spec the way a developer does; they only work with what's given to them. In the old flow, a designer would export a spec, a developer would interpret it, mismatches would get caught in review, and the cycle would repeat. Figma's MCP server changed that."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/971c05ae16b76a56dd3c005f2e5751985b7c0020-3744x2238.png?rect=1,0,3742,2238&w=1080&h=646&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Decagon's engineering team moved the design system's components into Storybook and built a skill so coding agents use the right component when implementing. Another skill lets designers add new components, keeping Figma and code always side by side. \"With Figma MCP turned on for the agent, the spec, the code and the canvas stay in one flow instead of bouncing back and forth,\" Jennifer says. Now you can just paste in a Figma link, and it reads the design context and matches it to system components."
+        },
+        {
+          "t": "p",
+          "x": "About 70% of Decagon's product roadmap comes directly from customers. Using Make and various connectors, it shows mockups and prototypes straight from Figma, and instead of gathering requirements and presenting a finished product, it builds 10 prototypes and shows them to 10 customers. Product lead Vihan Jiang says it lets them \"build better products much faster.\" Keeping craft while gaining speed is what Decagon sees as its real edge."
+        }
+      ]
+    },
+    "design/economist-billboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A visual with nothing extra becomes a powerful storytelling tool. Paired with witty copy, this billboard campaign shows again the value of well-honed copywriting in branding. At a time when loud, social-first design is everywhere, this Economist campaign is a welcome pause in that noise."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xFgvdcsqVu9ywMoLaoaeMV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Made with independent creative agency Cocogun, the campaign is a minimalist red billboard carrying short lines like \"Think outside the bot\" and \"actual intelligence.\" The restrained color and the brand's signature serif typeface make it instantly readable as The Economist, projecting authority and confidence without showing off."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ru6LB92MVmwRUH5GrHyxMV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The billboards will appear around the World Trade Center in New York, major subway stations in New York and Chicago, and in the UK at Leicester Square, Carnaby Street and Canary Wharf."
+        },
+        {
+          "t": "p",
+          "x": "Cocogun creative partner Ant Melder said, \"Following in the footsteps of some of the best advertising the world has ever seen is never a light task. Knowing that someone named Abbott is up there somewhere, watching everything we do with a strict but affectionate eye, is both reassuring and absolutely terrifying. I couldn't be prouder to take this on, and I look forward to continuing the partnership.\""
+        }
+      ]
+    },
+    "design/jen-dunnam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Design leader Jen Dunnam, who has worked at Patreon and Shopify, shared advice for navigating the AI era. She's VP of Futures at Hinge, and she spoke at the Figma Config 2026 Leadership Collective, which drew more than 1,300 people."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/69641c3d5bd8ea3be1045dd92c70b930a71f76d5-1406x788.png?rect=1,0,1405,788&w=1632&h=915&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Dunnam's approach differs from peers who lead with urgency. \"I want to move fast, but with less scrambling. I've seen leaders treat their current role as instilling urgency, but the great designers I work with already generate that drive themselves.\" She sees her own role as providing stability. \"There's a risk of chasing tools, capabilities, something that will change the world, but we're still designing for people. That doesn't change.\""
+        },
+        {
+          "t": "p",
+          "x": "Asked what she'd do differently if rebuilding a team, she said she'd pair newcomers with veterans and hire curious researchers. The quality that's become more important in hiring, she said, is critical thinking. \"When I interview designers, I dig really deep into this. Where did you push back? How did you stand up to a stakeholder?\" The reason: AI tools look plausible, so there's a risk of drifting toward the polished answer without scrutinizing it."
+        },
+        {
+          "t": "p",
+          "x": "As a sign of a healthy team, she pointed to an atmosphere where people can disagree and argue fiercely with each other. Design critiques matter, she said, for protecting time to think, and they're a place where a leader can be seen questioning their own decisions. She also recommended multi-day offsites with no meetings and no deliverables. \"If you want to make room for new ideas, you need to set aside a few days. I've given up on the idea that an innovation sprint needs six weeks.\""
+        },
+        {
+          "t": "p",
+          "x": "Comparing her experience at Shopify and Patreon, she touched on the question of speed. \"Every company wants to move fast. But you first have to be clear about which kind of speed actually matters to the organization.\" Of fast, cheap and good, you can only pick two, yet leaders want all three, she said. At Shopify, speed meant rebuilding the core product for developers; at Patreon, it meant shipping multiple MVPs to test creator features. \"The real work is talking honestly about that trade-off and asking what matters most right now.\""
+        },
+        {
+          "t": "video",
+          "yt": "JVGhbJhOEx4"
+        }
+      ]
+    },
+    "design/lovable-vercel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel now supports apps built with Lovable with zero configuration."
+        },
+        {
+          "t": "p",
+          "x": "To get started, sync your Lovable project to GitHub, then import that repository into Vercel. Vercel automatically detects the framework (TanStack Start) and deploys it. Once connected, changes made in Lovable sync to GitHub, and Vercel triggers a new deployment."
+        },
+        {
+          "t": "p",
+          "x": "Lovable projects now use Nitro internally. Nitro is a universal server toolkit that powers zero-config deployment for TanStack Start and several other frameworks, so there's no need to touch build configuration separately."
+        }
+      ]
+    },
+    "design/ai-ui-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Just a year or two ago, AI UI tools topped out at one plausible-looking landing page. Now they build entire multi-screen products, export production code, and even construct apps that work from a single prompt. The author gave five tools the exact same prompt, word for word, and compared the results."
+        },
+        {
+          "t": "p",
+          "x": "The task was a six-screen SaaS project management app covering login, dashboard, projects, project detail, a kanban board, and sprint planning. A single isolated screen looks good from any tool, so the choice was meant to reveal whether the design system holds up as screens connect. The criteria were screen coverage, system consistency, usefulness from a developer's perspective, and time to a usable result."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F38qz98wkerm2addwhq64.png",
+          "cap": "SaaS screen generated by Flowstep"
+        },
+        {
+          "t": "p",
+          "x": "Flowstep, which bills itself as an 'AI design engineer,' produced all six screens at once, consistently, in just 1.5 minutes — the fastest in the test. Its canvas sits on top of code rather than being a static layer, so it exports to React, TypeScript and Tailwind CSS, pastes into Figma with ⌘C/⌘V with no plugin needed, and connects to coding tools like Cursor and Claude Code via MCP."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftwuwg7psrvin4hs1lp9m.png",
+          "cap": "Google Stitch, which builds the design system first"
+        },
+        {
+          "t": "p",
+          "x": "Google Stitch builds the system first. It stood out for generating a design system panel alongside the work — color tokens, a type scale, even button variants — but it only produced five of the six screens, breaking the flow."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyse6364dugzzu6s8640v.png",
+          "cap": "Figma Make, which builds an app that works inside Figma"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make is vibe coding inside Figma. All six screens came out as a fully working app, and its transparency — explaining its own grid, spacing and typography decisions — stood out as a strength, but its free credits ran out quickly and generation took a long 5.5 minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcd9an3fnc7exq4zb4zwm.png",
+          "cap": "Lovable's output, which moves like real software"
+        },
+        {
+          "t": "p",
+          "x": "Lovable delivered an app that behaves like real software, complete with issue IDs like PROJ-104 and P0–P3 priorities. It was the slowest, though, at 10 minutes. Base44 took a structural approach that starts with a feature plan, even adding a password-reset screen that wasn't requested, but its visual polish was a notch behind, and the free tier doesn't let you see the code."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion isn't a single winner but a fork in the road. Pick Flowstep if you're designing a system meant to feed into a codebase, Lovable or Base44 if you need a working product right away, Figma Make if you already live inside Figma, and Stitch if tokens and structure are your concern. Partway through the experiment, the author stopped comparing visuals. In the end, what mattered was the workflow."
+        }
+      ]
+    },
+    "design/ds-governance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When AI and design show up in the same sentence, the conversation usually drifts toward interface generation. Kalpick Sharma, who has worked across design and front-end development, sees a more interesting opportunity elsewhere: design system maintenance."
+        },
+        {
+          "t": "p",
+          "x": "As a product grows, its component library, documentation, design tokens, accessibility requirements and implementation details all grow with it. At some point, keeping everything consistent becomes harder than building it in the first place. That's where AI can make a real difference."
+        },
+        {
+          "t": "p",
+          "x": "He lists the use cases this way: detecting duplicate components, suggesting existing patterns before building new ones, generating component documentation, accessibility audits, syncing design tokens, and helping new developers get up to speed on the system quickly. None of it replaces designers or developers. It just removes the repetitive maintenance that eats away at team speed."
+        },
+        {
+          "t": "p",
+          "x": "'Does a component like this already exist?' 'Why is this button different from the design system?' An AI assistant that understands both the design library and the codebase can answer instantly. That, he argues, is a far more practical use than spitting out yet another landing page."
+        },
+        {
+          "t": "p",
+          "x": "The piece closes this way: the point of an AI design system isn't to build UI faster, but to help teams stay consistent, refine collaboration, and spend more time on real product problems."
+        }
+      ]
+    },
+    "design/hi3d-print": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Space Marines have been an icon of sci-fi miniature culture for decades. Wanting to create your own chapter was a common fantasy, but execution was always the problem. In a pipeline running through concept art, 3D sculpting, mesh repair, CAD and slicers, the technical barrier stood far higher than the creative one."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/bb/images/6a478aeb84cfb/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hi3D, an all-in-one AI 3D maker platform, tries to close that gap by linking AI generation directly to physical manufacturing. 80 Level followed, step by step, the process of a single text prompt becoming a fully assembled 3D-printed figure."
+        },
+        {
+          "t": "p",
+          "x": "It starts with a concept. Enter a prompt, and the Nano-Banana 2 / ChatGPT image2 / Seedream V4.5 image engines produce several drafts with different armor styles, emblems and weapon loadouts. Unlike generators built purely for visuals, this image pipeline is optimized with 3D reconstruction in mind, so the concept art becomes a production blueprint rather than an endpoint."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c5/images/6a46766bb77f9/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "Pressing 'Generate 3D' has the Sparc3D engine turn the 2D concept into a precise 3D model within minutes. Common errors like open surfaces or self-intersections are automatically repaired at the generation stage, producing a watertight mesh that's ready for manufacturing without the hours of mesh cleanup it used to take."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0d/images/6a46767ba8af4/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "Pulling out one big model as a single piece is rare. Hi3D uses structure-aware AI to automatically split parts like the helmet, torso, shoulder armor and weapons, then auto-generates assembly connectors between adjoining parts. It makes fixed connectors for display as well as ball joints for repositioning, and its Press-Fit Tolerance technology sets assembly tolerances to match printer settings, nozzle size and material properties."
+        },
+        {
+          "t": "p",
+          "x": "Print preparation is automatic too. It determines orientation by weighing surface exposure and print reliability, places supports while avoiding areas like the helmet or emblem, and exports a 3MF file compatible with Bambu Studio, OrcaSlicer, Creality Print and Elegoo Slicer. The company says the process from model generation to print-ready often takes 'less than 5 minutes.'"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/a0/images/6a4676e5880e0/widen_1840x0.png"
+        },
+        {
+          "t": "p",
+          "x": "A few hours later, once the printer's parts are snapped together with the connectors, a one-of-a-kind figure that never existed before stands on the desk. New sign-ups get 300 free credits."
+        }
+      ]
+    },
+    "design/kyrall-cad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kyrall has launched an AI CAD modeling system that turns engineering data — specs, requirements and sizing results — into parametric, manufacturing-ready 3D models within minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/Kyrall-launch-2026-Context-Manager-1024x576.jpg",
+          "cap": "Kyrall's Context Manager"
+        },
+        {
+          "t": "p",
+          "x": "A designer describes what's needed, and Kyrall designs the 3D model accordingly. It builds on in-house engineering knowledge to create a functioning assembly while also capturing design intent and best practices."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/Kyrall-launch-2026-3d-model.jpg",
+          "cap": "A parametric 3D model generated by Kyrall"
+        },
+        {
+          "t": "p",
+          "x": "The core is the Context Manager. Rather than relying on a single prompt, it's an engineering data repository that grounds outputs in the user's own files. Upload specs covering part geometry, constraints, design rules and industry standards, and Kyrall generates immediately in a way that stays consistent with the team's workflow."
+        },
+        {
+          "t": "p",
+          "x": "The output lets you adjust dimensions and refine parts in real time, then export GLB, STL or STEP files for CAD integration or direct manufacturing. This release also brings a new UI, an API for building custom tools, and generation performance refined through long testing."
+        },
+        {
+          "t": "p",
+          "x": "Co-founder Osama Atwi said, 'Until now, mechanical design has been a purely manual job, and a single complex part could burn through an entire week.' He added, 'With Kyrall, you don't need to model parts by hand. You describe what you need, and it designs the 3D model for you.'"
+        }
+      ]
+    },
+    "design/ai-quality-signals": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The author led monetization at a large edtech Q&A platform. The business sold trustworthy answers to millions of students, but when generative AI arrived, the signal broke down. Anyone could paste a question into a chatbot and get a smooth, confident answer that was hard to tell apart from a genuinely good one."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/Designing-quality-signals-when-AI-makes-everything-look-credible.png"
+        },
+        {
+          "t": "p",
+          "x": "That's the problem. AI severed the link between looking credible and actually being trustworthy. Confidence used to be a proxy for quality, but now confidence is free."
+        },
+        {
+          "t": "p",
+          "x": "The first response, like everyone else's, was slapping on labels: an 'AI-generated' badge on AI output, a 'verified' badge on expert answers. It barely worked. People already know that 'verified' might just mean a script ran once. So the team stopped decorating and rebuilt trust as a system instead."
+        },
+        {
+          "t": "p",
+          "x": "The first signal is source transparency. Instead of attaching just any link, an answer needs to be grounded in the most credible source available for the use case. Citing the textbook a student actually uses drove up engagement, return visits and satisfaction. One or two textbooks beat twenty internet links, and that's a result from direct testing."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/source-transparency-for-AI-UX-content.png"
+        },
+        {
+          "t": "p",
+          "x": "The second is verification. Expert-verified answers were why students came back, and the more verified answers appeared early in a session, the higher the conversion rate. Trust shifted noticeably once an anonymous 'verified' badge was replaced with a real teacher's name and face."
+        },
+        {
+          "t": "p",
+          "x": "The third is how confidence is communicated. Leaving an 'examples and reasoning' section open on every answer lifted engagement metrics more than 20%, even though most people never clicked it. Placing ChatGPT's and Gemini's answers side by side for direct comparison also ended up building more trust."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/07/communicating-confidence-for-AI-UX-content-credibility.png"
+        },
+        {
+          "t": "p",
+          "x": "The fourth is reputation. Social proof carries less weight in AI products than it used to, but people still want to hear from other people. These four signals work anywhere—search, documentation, publishing or customer support. Trust goes not to the product with the most badges, but to the one that lets users check for themselves."
+        }
+      ]
+    },
+    "design/lovable-0708": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On July 8, Lovable rolled out several new features for its conversational app builder."
+        },
+        {
+          "t": "p",
+          "x": "The settings sidebar now has a search box. Typing into 'Search settings' filters workspace and project settings by name and common synonyms. For example, 'env' surfaces build secrets, and 'sso' surfaces identity settings."
+        },
+        {
+          "t": "p",
+          "x": "App connectors can now be referenced directly inside chat messages. Typing @ in the input box brings up a connector picker, which you can filter by typing to insert the connector you want into the sentence."
+        },
+        {
+          "t": "p",
+          "x": "A Lovable Cloud backend can now be manually paused. This stops compute credit usage while idle; pausing turns off the database, auth, storage and edge functions, and the app stops as well. Data stays intact, and 'Wake' brings it back. Storage usage, however, keeps accumulating even while paused."
+        },
+        {
+          "t": "p",
+          "x": "Instance size can also be changed through chat, without opening advanced settings. Mentioning a backend performance issue brings up a size picker (Tiny to Large). Only CPU and memory change; storage capacity stays the same. The backend briefly goes offline for a few minutes during the change, and this is available on the Pro, Business and Enterprise plans."
+        },
+        {
+          "t": "p",
+          "x": "Enterprise admins can separately turn on or off JIT provisioning, which automatically adds users on their first SSO login. Workspace Insights is now also available on the Business plan, offering a project list with search, filters, CSV export and security scans."
+        },
+        {
+          "t": "p",
+          "x": "Images that Lovable creates or edits now carry IPTC provenance metadata disclosing that they're AI-generated. This applies to agent-generated output, edited images, social previews and visual editor variations, and services like Google or social networks can read this information to apply labels. It only affects newly created images, and the generation process and cost remain unchanged."
+        }
+      ]
+    },
+    "design/muse-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-new-muse-image-model-accepts-instagram-accounts-as-a-prompt/intro-1783457258.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta, which opened a new AI model family in April with Muse Spark, is now moving into image generation. Muse Image is the first image model from Meta Superintelligence Labs, available in the US through the Meta AI app, Instagram and WhatsApp."
+        },
+        {
+          "t": "p",
+          "x": "Meta describes the model as able to \"understand complex prompts and seamlessly merge multiple photos into one.\" It generates images in various formats and styles, and edits can be requested conversationally. It can also produce working QR codes, and text inside images reportedly comes out styled to stay readable."
+        },
+        {
+          "t": "p",
+          "x": "Inside the Meta AI app, it's used mainly for generation and editing. You can start from a preset or refine further using the editor's 'Ideas' tab, and you can also draw directly on a photo or write text to indicate what you want changed."
+        },
+        {
+          "t": "p",
+          "x": "Like Google, Meta has woven in its own services. Ask it to redecorate a photo of a room, and it pulls furniture from listings on the web and Facebook Marketplace. Tag a friend's Instagram account, and it puts that person's likeness into the generated image. Photo reuse settings apply exactly as they do on Instagram. Meta appears to be chasing the same buzz OpenAI generated with its now-shelved Sora app, which let people make videos of their friends."
+        },
+        {
+          "t": "p",
+          "x": "Outside the Meta AI app, Muse Image powers more than 30 Instagram Stories effects, including one that mimics the look of a disposable camera and another simply called 'Puffer.' The new editor lets you preview an effect before applying it, and if you don't like it, you can request a new edit directly through a prompt. The same capability is available in Meta AI conversations on WhatsApp."
+        },
+        {
+          "t": "p",
+          "x": "'Everyday creation' is free, but making more requires a paid Meta One subscription. Meta said limits can vary depending on which service you access it from or your region."
+        },
+        {
+          "t": "p",
+          "x": "Muse Image is available first on the Meta AI app, Instagram and WhatsApp in the US, with plans to expand to more countries and products. Meta said it is also developing a Muse Video model."
+        }
+      ]
+    },
+    "design/not-ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A press release that landed this week made a lot of noise about Fi's new satellite-connected dog collar campaign. One line caught my eye: \"It's AI, but it's not AI slop.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QTUBdkMkuaj4aA5pYczzda.jpg"
+        },
+        {
+          "t": "p",
+          "x": "So what's the difference between AI slop and AI that isn't slop? In the end, it seems to come down to how much effort went in. Pull a dog video out of Luma AI or Google Flow with a single short prompt, and you get a sloppy result. Put in more effort, and you hear the word 'slop' less, or even make something nobody realizes is AI at all."
+        },
+        {
+          "t": "p",
+          "x": "Dolstenandco, the AI-first studio led by Simon Dolsten, clearly put in that effort for this video. It trained a custom model on real dogs and consulted an animal behaviorist on gait and breed-specific movement. To push back against technology's \"instinct to flow toward synthesized perfection,\" it deliberately added lens smudges and hand-shake."
+        },
+        {
+          "t": "p",
+          "x": "Credit where it's due. It resembles the way directors like Caban Cardoza use traditional cinematography, direction and editing knowledge to keep AI films from looking like AI. The dogs in the video move like real dogs, not the awkward approximations familiar from Facebook ads."
+        },
+        {
+          "t": "video",
+          "yt": "1B8kM7Nafgo"
+        },
+        {
+          "t": "p",
+          "x": "But the more I read the press release, the more uneasy I felt. Not because the work is bad, but because of the premise the industry is quietly asking us to accept: that what separates 'good' AI from 'slop' comes down only to how well it's hidden. Is this really where we've ended up?"
+        },
+        {
+          "t": "p",
+          "x": "To be clear, the technical achievement here is not trivial. Making a consistent AI dog is hard. Unlike static products or landscapes, animals are defined by unpredictable movement, and there's generally not enough data to make a convincing dog from a simple prompt alone."
+        }
+      ]
+    },
+    "design/seedream5-krea": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ByteDance released its new flagship image generation and editing model, Seedream 5.0 Pro, with Krea joining as the official launch partner. It's available directly on Krea starting on the release date, July 8, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It accepts text, a single image or multiple images as input, and can output a single image or a batch. Streaming output, which returns finished images as they're ready, is also supported."
+        },
+        {
+          "t": "p",
+          "x": "It's the first in the Seedream line to add web search. Rather than following a prompt literally, it interprets instructions the way a designer would and looks things up itself when needed. On top of that comes Seedream's signature style consistency and cinematic detail."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-4.png"
+        },
+        {
+          "t": "p",
+          "x": "It also supports edits that keep composition and pose unchanged while adjusting only material, lighting and realism, as well as reference blending that combines people and outfits from different images into one. A single reference image can also produce a series that keeps a consistent identity."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/seedream-5-0-pro-live-on-krea/image-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Batch generation is a particular strength. A single prompt or reference can produce a set of images that share visual rules, which suits work like storyboards, campaigns or brand systems where multiple images need to work together."
+        },
+        {
+          "t": "p",
+          "x": "On Krea, you can compare it with other image and video models on the same canvas, keep assets in one place, and adapt the workflow to how you work."
+        }
+      ]
+    },
+    "design/config-ai-evals": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "VfA-vjsFQ1o"
+        },
+        {
+          "t": "p",
+          "x": "AI is everywhere, but how do you know if it's actually good? That's the question Figma's Setor Zilevu posed on the Config 2026 stage. What teams that get results from AI have in common isn't moving fast. It's measuring well."
+        },
+        {
+          "t": "p",
+          "x": "The session's core argument is that measurement starts with defining 'good' around people, and that definition lives within design and research. AI evaluations (evals) were long seen as engineering's job, but that is now changing."
+        },
+        {
+          "t": "p",
+          "x": "As model capabilities level up across the board, design becomes the moat. This roughly 18-minute talk is an invitation for designers and researchers to become the architects of how AI is evaluated against real human needs."
+        }
+      ]
+    },
+    "design/meta-content-seal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is building a tool to identify images and videos made with its own Muse Image model. It has released a preview of a web-based detector that reads an invisible watermark embedded in AI-generated content."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/intro-1783466213.jpg",
+          "cap": "Meta's AI content detection tool"
+        },
+        {
+          "t": "p",
+          "x": "The watermarking system is called Content Seal. According to Meta, the mark survives cropping, compression, resizing and screenshots. The goal is to let users check for themselves whether content in front of them came from Meta AI."
+        },
+        {
+          "t": "p",
+          "x": "The approach has changed too. Where Meta once attached a visible logo, the new Muse Image uses an invisible watermark instead. Unlike the watermarking it previously released as open source, this version is closed. For now it only identifies images generated or edited with Muse Image, and Meta plans to extend Content Seal to video alongside the soon-to-arrive Muse Video."
+        },
+        {
+          "t": "p",
+          "x": "When Engadget tested it, the tool found the watermark not only in AI-made images but also in screenshots of them. Per the FAQ, a positive result means the image likely came from a Meta AI tool, while a negative result means it likely did not. The Meta AI app itself has no such feature, so asking the assistant directly gets an answer that it can't reliably identify even its own company's images."
+        },
+        {
+          "t": "p",
+          "x": "The limits are clear too. Content Seal is not compatible with rival systems like SynthID or C2PA Content Credentials, it cannot identify output from earlier Meta AI models, and the web tool caps the number of checks allowed per day. Earlier this year the Oversight Board criticized Meta's uneven application of AI content watermarks, so it remains to be seen how much this tool closes that gap."
+        }
+      ]
+    },
+    "design/meta-one-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Some features of Meta's smart glasses have moved behind a paywall. Support documents now say certain features are limited for free users, and a paid subscription is required to use them for longer."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/07/Conversation-Focus-Meta-Connect-2025-shot.jpeg",
+          "cap": "The disputed accessibility feature Conversation Focus"
+        },
+        {
+          "t": "p",
+          "x": "The Meta One subscription, rolled out in some markets starting last month, spans Instagram, WhatsApp, Facebook and Meta AI with a two-tier plan. The $8-a-month Plus tier bundles platform-specific perks like custom icons with a higher monthly AI usage cap and expanded image and video generation. The $20-a-month Premium tier adds even more usage on top of that, plus advanced reasoning through Thinking mode."
+        },
+        {
+          "t": "p",
+          "x": "At the center of the controversy is Conversation Focus, an accessibility feature that boosts the voice of whoever you're talking to. Free users get 3 hours a month, while Premium subscribers get 15. It arrived as an early-access feature this past January after six years of audio-enhancement research."
+        },
+        {
+          "t": "p",
+          "x": "Subscription-gated device features are common in game consoles and smart homes too, but this backlash has a reason behind it. Conversation Focus runs on the device itself, not on servers, so the usual justification of cloud costs doesn't hold up. Some read it as an attempt to recoup a massive research investment, while others see it as a way to test whether the market will pay for glasses features."
+        }
+      ]
+    },
+    "design/trimble-mep-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trimble has added AI features to its mechanical, electrical and plumbing (MEP) estimating software. The core of it is reducing pre-takeoff prep work and automatically recognizing objects in construction drawings; 2026 data from contractors using the feature showed manual work time dropping by up to 60%. That means handling more bids without adding headcount."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/07/Trimble-adds-AI-tools-to-MEP-estimating-software.png",
+          "cap": "AI features in Trimble's MEP estimating solution"
+        },
+        {
+          "t": "p",
+          "x": "Accubid Anywhere now includes an AI Smart Assistant. Running on Trimble's agentic AI platform, this assistant takes over tasks like digging up historical material prices or comparing estimate versions when asked in natural language."
+        },
+        {
+          "t": "p",
+          "x": "The new features span the whole estimating workflow. In the pre-takeoff stage, AI sets the scale and naming of drawing sets on its own. In quantity takeoff, it reads, marks and counts symbols such as outlets, switches and light fixtures on drawings; more than 3 million symbols have been auto-detected so far, cutting manual recognition time by over 50%. For conduit, it automatically traces routes including vertical risers and drops to pull lengths, and using the assistant is reported to save more than 80% of the time on average in historical price research and complex estimate comparisons."
+        },
+        {
+          "t": "p",
+          "x": "Trimble is careful to say this is a tool meant to assist estimators, not replace them. Results are checked through each company's QA/QC process to filter out false positives, and that feedback is used to refine the model further. Final review and approval remain the estimator's responsibility. The new features are available now in Trimble's MEP estimating solutions in North America and the UK."
+        }
+      ]
+    },
+    "design/fable5-global": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic has restored worldwide access to Claude Fable 5, its most powerful model. This follows the US Commerce Department's withdrawal on June 30 of the emergency export controls it had imposed on June 12. Fable 5 is again available on the Claude platform, Claude.ai, Claude Code, and Claude Cowork, and the company said it is restoring access on AWS, Google Cloud, and Microsoft Foundry 'as quickly as possible.'"
+        },
+        {
+          "t": "p",
+          "x": "The trigger was a report from Amazon researchers. After a technique for bypassing Fable 5's safeguards to find software vulnerabilities and even generate exploit code reached the government, an order banning all foreign access to the model was issued at 5:21 p.m. on June 12. Because Anthropic had no way to screen users' nationality at the API level, it had to cut off access for all customers. This came just three days after launch."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic countered that other models such as Opus 4.8, GPT-5.5, and Kimi K2.7 could find the same vulnerability, while building a new automated safety classifier that blocks the technique more than 99% of the time and passed verification by the Commerce Department's CAISI. However, the wider safety margin may also increase the number of legitimate coding requests that get blocked, and blocked sessions are automatically downgraded to Opus 4.8."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is $10 per million input tokens and $50 per million output tokens, the highest among frontier models. In exchange, Pro, Max, Team, and some Enterprise subscribers can use up to 50% of their weekly limit at no extra cost through July 7. Mythos 5, a cybersecurity-focused model, remains under a vetted-access scheme open only to select US organizations approved on June 26, even though the legal controls have been lifted."
+        },
+        {
+          "t": "p",
+          "x": "As conditions for the resumption, Anthropic committed to proactively detecting security risks, cooperating with the government on protocols and standards, and reporting malicious activity. The Commerce Department reserved the right to reimpose the controls if circumstances change. The three-week blackout exposed how fragile enterprise infrastructure built on closed APIs can be, and model-agnostic fallback architectures that can switch to open-weight alternatives have become a new priority for enterprise tech leaders."
+        }
+      ]
+    },
+    "design/figma-agent-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Every team has its own way of working: naming conventions for products, a PM's spec template, the prompts everyone relies on for design feedback — know-how that lives in someone's head and is hard to explain. Figma's 'skills' write down that process in plain language and teach it to the agent once, as a reusable set of instructions. They can be called up with a slash (/) in any chat, and can be published to share across a team or an entire organization. After introducing skills at Config, the Figma team shared what it learned from using them."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1632&h=1632&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Skills complement design systems. If a system provides components and patterns, skills add a team's expertise — brand voice, compliance, review processes. Figma has built skills that train on CEO Dylan's comments to get feedback before a review, that check the UX writing team's terminology and punctuation standards, and that walk through an experience with first-time-user eyes to find hidden friction."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Recurring team rituals are also good candidates for skills: a 'catch-up' that summarizes a file's recent activity for someone who was away, a prep checklist that interviews you about personas and scope to build a critique page, and a recap card that turns critique feedback into topic-based follow-up plans you can paste into Slack. If it's something you do the same way every time, it's worth turning into a skill."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ae0303b2ad7753600fee94eb32a43e026cc220ae-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Skills run in both Figma Agent and Figma Make, and connectors let them pull in context from outside tools — turning review comments into tasks in a project-management tool, or pulling supporting evidence for a design from HeyMarvin or a Notion research library. Soon they'll be usable anywhere through MCP-compatible clients via the Figma MCP server."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "In collaborative files, agent chats are now shared by default, meaning you can open a colleague's chat and follow exactly which skills and prompts they used to solve a problem. Sensitive work can always be switched to private. The agent is available in open beta to Full-seat users on Professional, Organization, and Enterprise plans, and it's free during the beta."
+        }
+      ]
+    },
+    "design/figma-lc-7q": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last June, Figma brought together over 1,300 senior design, product, and engineering leaders at the Config Leadership Collective for two days of discussion on design in the AI era. Executives from Airbnb, OpenAI, Sephora, Atlassian, Cisco, and others took the stage, and Figma compiled the seven questions it brought to the event along with the answers that resonated most."
+        },
+        {
+          "t": "p",
+          "x": "Asked how to lead change that even they themselves are still figuring out, OpenAI's head of product design, Ian Silber, said, \"The entire industry has changed within a few months. It's hard to commit to a single process — in the end, it comes down to adaptability.\" Airbnb VP of Design Teo Connor said she approaches it with a beginner's mindset, prototyping and experimenting directly alongside her team, while Expedia VP of Design Rachel Been said teams need permission to experiment and enjoy it even when it doesn't work out."
+        },
+        {
+          "t": "p",
+          "x": "Some things haven't changed: the fundamentals of understanding users and protecting craft. On top of that foundation, the center of gravity for expertise is shifting from execution to judgment. As Sephora's Chief Technology Officer Sneha Narahalli put it, \"Expertise is no longer knowing the answer. It's knowing which answer works in the context you're in right now.\""
+        },
+        {
+          "t": "p",
+          "x": "Team structures are being redrawn too. Airbnb has reorganized into pods that move like small startups, bundling even data scientists and business staff into a single team. On tool adoption, Rachel Been built an AI training program to raise her team's use of it, while OpenAI's Alex Embiricos advised starting with the smallest tasks, like summarizing a long Slack thread, instead of planning grand automation schemes."
+        },
+        {
+          "t": "p",
+          "x": "Trust in agents is built by gradually widening autonomy around approval steps, and the standard for quality is ultimately kept by people. Cisco President and CPO Jeetu Patel put it plainly: \"You can't outsource taste.\" The more code gets generated automatically, the point goes, the more taste and good judgment matter."
+        }
+      ]
+    },
+    "design/mixos-pbr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "If you need a way to work on textures while on the move, Mixos is worth a look. It's a new WebGPU-based app that lets you paint 4K PBR textures directly in a web browser, or mix them from a library of more than 2,600 CC0 materials. Turning on the optional AI feature also generates complete PBR texture sets from text prompts alone."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260703_Mixos_Paint4KPBRTexturesInBrowser_UI.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mixos includes most of the features you'd expect from a 3D texture painting tool — it just runs inside a browser window instead of as an offline application. It imports 3D models in standard formats like FBX, OBJ, and glTF/GLB, and lets you paint textures directly using brush modes, stamps, stencils, and projection painting. Beyond standard PBR maps like albedo, normal, roughness, metallic, height, and opacity, it can also bake maps derived from geometry, like ambient occlusion or curvature."
+        },
+        {
+          "t": "p",
+          "x": "There's also a way to build textures by blending 2,600 ready-made PBR materials, drawn mainly from ambientCG and Poly Haven, through a layer system. This material-mixing toolset is also available as a separate web app called Strata. Textured models can be saved locally or exported as texture maps up to 4K resolution for use in DCC apps and game engines like Blender, Cinema 4D, Maya, Unity, and UE5."
+        },
+        {
+          "t": "p",
+          "x": "It also has a generative AI workflow. A text description alone can produce a complete PBR material or individual textures, masks, alphas, and decals, and the Auto-Texture system automatically textures an imported 3D model and produces test renders from multiple angles. The AI features run on credits, with paid subscriptions including monthly credits."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't have the full feature set of offline material-creation software like Adobe's Substance 3D or the open-source ArmorPaint. In exchange, being browser-based means no installation and no need for a high-end machine. The practical hardware requirement amounts to \"a GPU from within the last six years.\" For anyone who often works remotely, it can be handy for working on the move or for quickly fixing up a material when the main machine isn't available."
+        },
+        {
+          "t": "p",
+          "x": "It supports Chrome, Edge, and Safari 18 or later on desktop. Using the editor and saving scenes is free, but exported textures carry a watermark, so commercial projects require a paid Pro or Studio account. Pro is $9 a month or $84 a year for 100 AI credits a month, and Studio is $19 a month or $180 a year for 400 AI credits a month."
+        }
+      ]
+    },
+    "design/prometheus-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/07/Stephen_Holmes_prometheus_comment-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Stephen Holmes of DEVELOP3D raises questions about Prometheus, the AI startup Jeff Bezos launched in November 2025. The company has already raised more than $18 billion across two funding rounds with major investors including JP Morgan and BlackRock, yet what it's actually building remains shrouded in mystery."
+        },
+        {
+          "t": "p",
+          "x": "Its stated goal is to do for physical engineering what AI coding agents have done for software — compressing a project that would take 100 engineers 10 years into a one-year program, so humanity can build more. In May 2026, speaking with Andrew Ross Sorkin on CNBC's Squawk Pod, Bezos said, \"We're building an artificial general engineer. You've probably heard of CAD — this is, let's say, a very, very modern version of that.\" It's the clearest statement yet, but what will actually come out of it remains unknown."
+        },
+        {
+          "t": "p",
+          "x": "A look through LinkedIn shows more than 100 employees across offices in San Francisco, London, and Zurich, most of them software engineers from major tech companies. Their résumés range impressively from VFX tools to drug-design algorithms to transit apps, but few have ever worked with CAD or physical manufacturing."
+        },
+        {
+          "t": "p",
+          "x": "Holmes points out that the term 'artificial general engineer' ultimately describes a system that depends on AGI. AGI doesn't exist yet — what exists now is only 'narrow AI' limited to specific tasks. The picture of pouring this much money into AGI development just to put out a new CAD system doesn't quite add up, and the math also suggests that $18 billion would be more than enough to buy up existing companies with proven design and engineering expertise."
+        },
+        {
+          "t": "p",
+          "x": "Still, his diagnosis is that the existing CAD industry doesn't seem likely to be turned upside down. The big four CAD vendors are increasing their collaborations with niche startups, and it's unclear when — or even whether — Prometheus's commercial product will ever arrive. What is clear, he says, is that if AGI truly emerges, it could leave today's design tools far behind. Until then, Holmes closes with a joke: maybe just ask Jeff to send Katy Perry back up on a rocket instead."
+        }
+      ]
+    },
+    "design/octane-2026-4": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Otoy has released OctaneRender 2026.4, a GPU production renderer. The update expands both neural rendering and 3D Gaussian rendering."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260707_OctaneRender20264_f.jpg",
+          "cap": "OctaneRender 2026.4"
+        },
+        {
+          "t": "p",
+          "x": "The core feature is the Neural Radiance Cache (NRC), a neural network that trains during rendering to reduce noise from the very first pixel, with the biggest effect in scenes with heavy indirect light. In 2026.4, support that had been limited to Windows and Linux now extends to Mac, and it works in network rendering as well as locally."
+        },
+        {
+          "t": "p",
+          "x": "The 3D Gaussian splatting tools support SPZ 4, the latest version of the open-source format for 3DGS data. Octane X, the Mac version, also runs on the new MacBook Neo."
+        },
+        {
+          "t": "p",
+          "x": "The subscription is the Studio+ plan at €23.95 a month, which comes with integration plugins for 21 DCC apps. There is also a free Prime edition limited to a single GPU."
+        }
+      ]
+    },
+    "design/ram-crisis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In 2026, creative gear has never mattered more. Whether you're a photographer handling 45MP RAW files, a video editor scrubbing 4K footage, or a graphic designer running several Creative Cloud apps at once, everyone depends on one unglamorous component: RAM, random access memory."
+        },
+        {
+          "t": "p",
+          "x": "That 'memory' is now at the center of a global supply squeeze. Prices are rising on anything with a chip, from laptops and phones to tablets and game consoles, and Creative Bloq's Tom May argues this isn't a brief disturbance but a problem that could last through the end of the decade."
+        },
+        {
+          "t": "p",
+          "x": "Apple, Microsoft, Dell and Samsung have raised prices by hundreds of pounds in recent months without changing a single device. The 56-year-old writer, who has bought computers since the early 1980s, calls this 'historic,' since the formula of computers getting faster and cheaper every year is being reversed for the first time in the modern era."
+        },
+        {
+          "t": "p",
+          "x": "RAM is different from storage. If storage is where files live long-term, RAM is the memory that runs the work happening right now. The photo you're editing, the video timeline you're scrubbing, the dozen browser tabs you have open all sit here. The more RAM you have, the more smoothly work runs without stalling, and it's also one of the most expensive components to make."
+        },
+        {
+          "t": "p",
+          "x": "Why the shortage? In a word, AI. The massive data centers running AI services like ChatGPT, Gemini and Claude demand enormous amounts of RAM, and the handful of makers, Samsung, SK hynix and Micron, have found it far more profitable to sell to AI buyers than to laptop, tablet and phone companies. Some have shifted factories to high-margin memory built for AI servers, narrowing the supply of ordinary memory, and Micron has dropped direct sales to consumers entirely."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dsCkQtFtwTFrWPQHpq2q9P.jpg",
+          "cap": "Microsoft raised the 12-inch Surface Pro's price in the US by $250 ($799 to $1,049)"
+        },
+        {
+          "t": "p",
+          "x": "The increases are steep. Analysts expect memory prices to jump 40-50% in the third quarter of 2026 alone, with further hikes likely afterward. Some laptop makers say memory now accounts for more than a third of a PC's manufacturing cost, roughly double the share from a year ago. Apple has raised MacBook and iPad prices by $100 to $500 in recent months, and Microsoft has done the same with Surface and Xbox while discontinuing the Xbox's top memory configuration. Sony has raised PS5 prices, and its successor could be delayed."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/kB7YJLHPxcdbdkhvy2Az2U.jpg",
+          "cap": "The iPad Pro M5's base price jumped $200, from $999 to $1,199"
+        },
+        {
+          "t": "p",
+          "x": "What sets this supply shock apart is its trajectory. New memory plants take two to three years and billions of dollars to build, and most of the capacity under construction now won't come online before 2027 or 2028 at the earliest. Some in the industry believe prices won't properly stabilize until 2030, and few analysts think prices will fall back to where they started even once supply catches up, since makers that have sold at higher prices have little reason to cut them."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hrJCGZHSkzYFfpDDAULmWc.jpg",
+          "cap": "The Mac Studio (M4 Max) rose $500, with its entry price going from $1,999 to $2,499"
+        },
+        {
+          "t": "p",
+          "x": "For creators, the implication is simple: the party is over. The steeper the memory a device needs for serious photo and video work, the sharper its price increase, while budget models hold the line by cutting specs. On devices with soldered-in memory, like thin laptops and every phone and tablet, you're locked into whatever configuration you chose on day one. The writer compares this to chocolate-bar 'shrinkflation' and promises a follow-up on practical strategies like buying refurbished."
+        }
+      ]
+    },
+    "design/meta-bci": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has unveiled the next version of an AI system that converts brain activity into text non-invasively. Called Brain2Qwerty v2, it aims to help patients with neurological damage or disease who have lost the ability to speak."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/Meta-Brain2QWERTY.jpeg?resize=1068%2C601&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "v2 builds on v1, released last year. v1 was the first to show that non-invasive brain recordings alone could read letters with surprisingly high accuracy, but even combining EEG and MEG, it could only decode individual characters."
+        },
+        {
+          "t": "p",
+          "x": "v2 instead decodes directly from raw brain signals using end-to-end deep learning rather than a hand-built pipeline. This lets it go beyond individual letters to read words and sentences. It adds a large language model, real-time decoding, and improved pattern recognition."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/meg-brain2qwerty.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "It is not yet perfect. Meta said v2 'consistently reconstructs sentences from noisy neural signals, achieving 61% word accuracy,' far above the 8% of other non-invasive methods. The best-performing participant reached 78%, and 'more than half of all sentences were decoded with at most one word error.' Meta added that 'accuracy improves log-linearly with data volume, so the remaining gap with surgical methods could be closed simply by adding more data.'"
+        },
+        {
+          "t": "p",
+          "x": "The long-term goal is to give patients who have lost speech a way to communicate without surgery. Unlike invasive methods such as Elon Musk's Neuralink, which expanded human trials this year, this approach requires no operation. Writing in Nature, the researchers noted that invasive methods are more efficient at turning thoughts into text, but carry non-trivial risks of brain hemorrhage and infection, and are less scalable because implanted devices are hard to keep functioning over the long term."
+        },
+        {
+          "t": "p",
+          "x": "A consumer MEG device is still a long way off, though. Many classic MEG machines today remain as bulky as 'a helmet in a hospital room.' Smaller devices that work at room temperature have emerged, such as Cerca's optically pumped magnetometer (OPM), but the magnetic fields the brain produces are millions of times weaker than those from the Earth's magnetic field or from smartphones, Wi-Fi, and wiring, so a magnetically shielded room is needed to block background interference."
+        }
+      ]
+    },
+    "design/autodesk-ai-judgment": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk Chief Marketing Officer Dara Treseder said in an interview at Cannes Lions that the best creative and marketing teams know when not to put their hands on AI."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91567691-autodesk-cmo-dara-treseder-says-the-best-marketers-will-know-when-not-to-use-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Asked about the mood in the industry, she said, \"People are really excited, but there's also a lot of anxiety around what's happening right now.\""
+        },
+        {
+          "t": "p",
+          "x": "She went on to say that \"the confusion around AI has gotten worse than last year,\" stressing that as generative tools spread across design and creative work, it matters even more to keep brand storytelling and human judgment at the center."
+        },
+        {
+          "t": "p",
+          "x": "The conversation also touched on World Cup ad campaigns, assessments of major brand campaigns from Nike, Adidas, and Starbucks, and the career path from CMO to CEO. This piece is a condensed version of a 'Rapid Response' podcast interview featuring candid conversations with leaders."
+        }
+      ]
     }
   }
 }

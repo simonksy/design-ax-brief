@@ -1623,6 +1623,451 @@
           "x": "本周,专注全国性集体诉讼的律所Hagens Berman加入了一场由独立艺人发起的诉讼,这些艺人指控自己拥有版权的音乐被用于训练Suno的模型,构成版权侵权。"
         }
       ]
+    },
+    "music/ableton-learn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ableton悄悄软启动了免费音乐教育平台Learn。它让从零开始学习音乐和制作的人直接在浏览器中打开课程,背后有一个关键:其交互功能采用了与Move和Note相同的引擎。课程没有嵌入视频,而是嵌入了Live的简化版剪辑视图或音频,极简的界面去掉了可能让初学者或孩子感到困惑的元素。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/beats-and-drums.png"
+        },
+        {
+          "t": "p",
+          "x": "目前这更接近于预览版,早期课程面向初学者。CDM的Peter Kirn认为这一点反而很重要。它能帮人跨过入门的第一道门槛,'instead of prompting AI or something'——与向AI输入提示词相比,学会自己创作和演奏音乐是一条回报更丰厚的路。"
+        },
+        {
+          "t": "p",
+          "x": "目前上线的是'Building Blocks'课程和节奏入门课程。此前的在线教材中也出现了新内容:为浏览器打造的极简Live创作面板'Playground'。上面还挂了几首用它做出来的曲子。它在移动端和桌面端都运行顺畅,Ableton向CDM透露,产品是按移动优先的思路开发的。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/live-in-browser.png"
+        },
+        {
+          "t": "p",
+          "x": "Ableton的教育项目有着悠久的脉络:Dennis Desantis的著作Making Music(2015)、被译成19种语言的互动指南Learning Music(2017)、新冠疫情初期封锁阶段免费发布的Making music at home(2020),直到与Live 12调音系统配套的tuning.ableton.com(2024)。这些项目刚起步时,Web Audio还不成熟,Web Assembly尚未出现。如今浏览器能做的事情多得多,Learn会如何成长,艺术家参与和教育合作伙伴的使用会如何延续,值得关注。"
+        }
+      ]
+    },
+    "music/lumen-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "开发者Pixelsncodes推出了免费开源的Windows合成器Lumen,能把图像转换成声音。这是一款用Claude AI编程智能体打造的波表合成器。"
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/Pixelsncodes-Lumen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "配置相当充实。两个波表振荡器各自配备Morph、Pan、Unison、Detune、Width、Blend控制,外加一个多波形副振荡器、一个多模式噪声发生器,以及带驱动的状态可变滤波器。还有三个ADSR包络、三个可拖放的多波形LFO,以及集合了Drive、Chorus、Delay、Reverb的内置多效果段。"
+        },
+        {
+          "t": "p",
+          "x": "最特别的部分还是图像-波表引擎。随意拖入一张图像,它就会读取该文件的字节数据并转换成波表。把像素亮度转化为声音的想法本身并不新鲜,Serum和Ableton的Image2Wavetable Max for Live设备也有类似功能,但它仍不失为一种随机搅动音色的有趣方法。"
+        },
+        {
+          "t": "p",
+          "x": "界面分为Play和Deep两个画面。在Deep视图中可以操作上述所有功能,而在Play视图中,只靠图像引擎和Tone、Motion、Space、Texture四个宏就能同时调动多个参数。预设共32个,分为Bass、Leads、Pads、Keys、Textures几类。"
+        },
+        {
+          "t": "p",
+          "x": "目前可在GitHub上获取Windows版VST3和独立版格式,macOS版本仍在开发中。AI制作的插件未必人人都喜欢,但使用AI编程智能体完成的发布正在不断增加,短期内看不出放缓的迹象。"
+        }
+      ]
+    },
+    "music/skrillex-032c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Skrillex在时隔约10年的首次正式专访中,谈到了AI与艺术的人性。这是刊登在柏林文化杂志032c最新一期上的对谈,对话对象是英国-瑞典艺术家Ecco2K。本名Sonny Moore的他说,几天前思考AI时有过深有感触的一刻,并这样说道:'I think the value of art can almost be measured by its ability to make someone feel seen.'也就是说,艺术的价值可以用它让人产生'被看见'的感觉这种力量来衡量。"
+        },
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-07/skrillex_shotbynaisha.webp"
+        },
+        {
+          "t": "p",
+          "x": "'Maybe there are some AI songs that can go viral, but you can't have that feeling of being seen if there isn't a human on the other side.'他认为,重听Justice、Daft Punk或Metallica时之所以仍能被深深打动,是因为那里面有既熟悉又前所未有的东西,而如果对面没有人,这种感觉就不成立。"
+        },
+        {
+          "t": "p",
+          "x": "他也花了不少篇幅谈承担风险、接受批评的态度。他说自己从From First to Last时期就已经做好了迎接反对的准备,并回顾了用Snowball麦克风或笔记本麦克风制作像'Bangarang'这样的歌曲的日子。'Starting from something imperfect forces you to end up somewhere you'd never expect.'他还透露,2010年的成名作EP《Scary Monsters and Nice Sprites》当年的营销预算只有2,000美元。"
+        },
+        {
+          "t": "p",
+          "x": "5月末在柏林Kraftwerk举行的为期两天的活动CONTRA也成为话题。那场演出有Ecco2K、Bladee、Blawan、Knock2等人登台,他说在AI和智能手机的时代,创造一个人们能单纯地在一起、一起感受的空间比以往任何时候都更重要。继6月的惊喜专辑《SOMA》之后,本周他又发布了与Solomun合作的单曲《Rumpta》。这是他离开Atlantic Records之后'独立'篇章的延续。"
+        }
+      ]
+    },
+    "music/viberate-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "音乐数据公司Viberate开放了官方MCP服务器。Claude、ChatGPT、Gemini、Grok等AI服务都可以用日常语言提问,调用这家公司的数据。这家2015年在斯洛文尼亚创立、总部设在卢布尔雅那和洛杉矶的分析公司,称这次发布是其向'AI优先'转型的第一步。"
+        },
+        {
+          "t": "p",
+          "x": "该平台覆盖的数据包括1,100万位艺人、1亿首歌曲、1,900万个播放列表、16万个厂牌以及约7,000个音乐节。通过MCP服务器,这些数据会在兼容的AI助手中转化为艺人预测、阵容建议和营销策略。MCP是Anthropic推出、随后被OpenAI的ChatGPT、谷歌Gemini和xAI的Grok接纳的开放标准,Viberate将其称为'USB-C for AI'。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/06/Screenshot-2026-06-25-at-11.13.59-e1782382474632.jpg"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼首席客户官(CCO)Vasja Veber预计,整个商业智能行业最终都会转向由AI代理读取和处理的数据层。此前使用Viberate的途径只有平台访问和API两种,MCP服务器是第三种途径,他预测这很快会成为所有数据分析服务的主流使用方式。'Anything they can do on the platform, they can do in their AI app ten times better and faster.'"
+        },
+        {
+          "t": "p",
+          "x": "公司还在针对特定客户的问题开发独立的AI应用。用户无需琢磨提示词,只要输入艺人、厂牌或曲目名称,AI就会把Viberate API的数据填入既定模板。该应用也可以用客户自有数据做个性化训练,目前处于针对部分客户的私人测试阶段。"
+        },
+        {
+          "t": "p",
+          "x": "据介绍,设置MCP连接器只需几秒钟。免费版提供基础访问权限,付费版则开放20多种高级工具。发布后三个月内,付费版享受20%的'创始折扣',只要保持订阅就能一直锁定这个价格。Veber表示,AI整合让音乐分析行业走到了'适应或淘汰'的十字路口,他断言几年之内,在AI服务里使用这些数据的人会比在自家平台上使用的人更多。'It's like having a consultant with the combined IQ of all the best data scientists in the world times a million.'"
+        }
+      ]
+    },
+    "music/smol-seq": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "合成器演奏者兼开发者Stretta,用视频演示了基于浏览器的模块化音序环境Smol Sequencer。"
+        },
+        {
+          "t": "video",
+          "yt": "4_iaxowmQqI"
+        },
+        {
+          "t": "p",
+          "x": "视频展示了把一个个小型音序器模块相互连接、做出不断演化的音乐模式的过程。内容一路涵盖调整音符数值、混入随机性,通过音高类旋转学习基于音阶的作曲,直至用压缩成链接形式的项目文件分享自己的乐思。"
+        },
+        {
+          "t": "p",
+          "x": "Smol Sequencer是一款免费的浏览器应用,现在就可以直接使用。"
+        }
+      ]
+    },
+    "music/suno-61k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno对抗了UMG和Sony的要求。两家唱片公司试图在正在进行的版权诉讼中新增6.1万首录音曲目,Suno则反驳称应阻止这一做法,并要求法院出面制止。"
+        },
+        {
+          "t": "p",
+          "x": "争议焦点是合理使用(fair use)。这次对训练用复制可以被允许到什么程度的判断,可能成为AI音乐工具如何合法训练和授权的先例。"
+        },
+        {
+          "t": "p",
+          "x": "因此这场争端并不止是两家公司之间的事。到底哪些录音、在什么条件下可以用于AI训练,这条分界线即将在这里划定。"
+        }
+      ]
+    },
+    "music/suno-api": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno正在筹备开发者API。首席产品官Jack Brody在LinkedIn上发布了早期访问报名表的链接,宣布了这一计划。其运作方式是:外部应用发送文本提示词,Suno的生成模型就会返回成品音频。开发者将不再需要把用户导流到Suno,而是可以直接把音乐生成功能嵌入自己的产品里。目前Suno还没有官方公开API,市面上流通的只是第三方做的非官方封装。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/07/Screenshot-2026-07-02-at-20.44.21.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brody强调了谨慎的起步方式。'We plan to start with a curated group of partners so we can develop this thoughtfully, and we're especially interested in applications that unlock experiences generative music makes possible for the first time.'Typeform报名表上也只写着会先联系'a small group of folks',没有透露具体上线时间。Brody曾在Snap负责产品十年,于2024年底加入Suno,前后分别有前Warner Music高管Paul Sinclair、前Merlin CEO Jeremy Sirota加入。"
+        },
+        {
+          "t": "p",
+          "x": "增长势头十分迅猛。6月,Suno完成了超过4亿美元的D轮融资,投后估值达到54亿美元。相比2025年11月C轮融资(2.5亿美元)刚结束时24.5亿美元的估值,半年时间里翻了一倍多。今年2月,CEO Mikey Shulman宣布付费订阅用户突破200万,年度经常性收入达3亿美元,累计用户超过1亿。"
+        },
+        {
+          "t": "p",
+          "x": "授权版图仍只填满了一半。各大厂牌中,唯一已经签约的是2025年11月以和解方式结束诉讼的Warner Music Group,Universal和Sony仍在诉讼中。上个月,这两家公司要求法院在诉讼中追加超过6.1万首录音曲目。上周,Suno还推出了面向独立艺人的扶持项目Spark,其中含有一条禁止参与者公开批评公司的条款。"
+        }
+      ]
+    },
+    "music/klangio-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Klangio是一款基于浏览器的AI工具，可以把音频录音转换成乐谱、主旋律谱（lead sheet）和吉他谱。你可以上传文件，粘贴YouTube、Instagram或TikTok链接，也可以直接用麦克风录音导入。评测者Ethan Hine用多段录音亲自做了测试。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KJ2csKzprZwAWMjUuzXjuh.png"
+        },
+        {
+          "t": "p",
+          "x": "它的优势很明显。对于录音干净的单一原声乐器，音高识别很准确，普通流行人声也能跟得不错，和弦识别也够用。它提供Multi-Instrument、Single Instrument、Classical、Rock（测试版）和Arrangement几种模式，还可以手动指定调性、速度、乐器和节拍来微调结果。输出可导出为MusicXML和MIDI。"
+        },
+        {
+          "t": "p",
+          "x": "局限同样明显。遇到多种乐器叠加或经过处理的声音时会不稳定，摇摆节奏、自由表现或不规则节奏容易对不上节拍。鼓组尤其是刷子奏法或非常规节奏型表现较弱，偏离网格的节奏或拍号变化也难以准确捕捉。老旧或噪音较多的录音同样吃力。内置的乐谱编辑器比较简单，要真正打磨成品，还需要MuseScore、Dorico或Finale这类专门软件。"
+        },
+        {
+          "t": "p",
+          "x": "评测者把这款工具重新定义为：它不是自动产出乐谱的机器，而是给你线索、让你自己写出乐谱的工具。它的前提是使用者具备一定音乐知识和编辑能力，该公司CEO也表示，并不认为AI会取代人工记谱。定价方面，Pro版按年付费为每月6.67英镑，按月付费为16.99英镑，每月可记谱50次，20秒以下的片段可免费使用。"
+        }
+      ]
+    },
+    "music/landr-fairtrade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LANDR公布了面向独立艺人的音乐授权计划Fair Trade AI的下一阶段。本月，LANDR将向参与艺人支付首笔结算款，同时启动一项总额100万美元的预付计划：艺人可以提前拿到一笔整钱，同时继续保留未来的持续性收益。"
+        },
+        {
+          "t": "p",
+          "x": "该计划面向符合条件的LANDR Distribution用户开放，截止日期为2026年7月20日。LANDR Distribution归属于SOS For Artists，可将音乐发行至150多个流媒体平台，包括Spotify、Apple Music、Tidal、Amazon Music和Deezer等。"
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/l/landr_ai-AgzoNOzhBFPDAzR4QJFWJs6iKoYsjU1z.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fair Trade AI会把选择参与的音乐目录授权给从事音频技术、创作工具、语音应用和音乐AI开发的AI公司。LANDR认为，透明的授权方式对音乐产业的未来会变得越来越重要。符合条件的艺人可从这笔100万美元资金中提前拿到一笔预付款，这笔款项将从未来的授权收益中扣抵。"
+        },
+        {
+          "t": "p",
+          "x": "战略与合作伙伴关系副总裁Daniel Rowland表示，对独立艺人来说，发行不应该在歌曲上线流媒体的那一刻就结束。他说，音乐发行的未来在于帮助创作者在价值产生的任何地方找到新的收入来源，负责任地把音乐授权给AI正是其中一环，而LANDR已经具备了大规模支撑这一模式的基础。"
+        },
+        {
+          "t": "p",
+          "x": "LANDR把艺人分成比例从净授权收入的20%提高到25%。艺人按照各自对数据集的贡献获得相应分成，并且每当LANDR签下新的授权协议，都会带来额外收益。"
+        }
+      ]
+    },
+    "music/wisetracker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BPB读者Wiseman发布了免费公测版音序器WiseTracker。它以Windows独立应用程序的形式运行，并配有VST3乐器插件WiseTracks。"
+        },
+        {
+          "t": "p",
+          "x": "背后的故事很有意思。Wiseman并不是通常意义上的开发者，但他用了几十年的音序器，最近想在现代DAW里找回FastTracker 2那种手感，于是干脆找Claude一起把它做出来了。"
+        },
+        {
+          "t": "p",
+          "x": "没错，一个靠vibe coding做出来的插件，被放上了一个同样靠vibe coding做出来的网站。同一天我们介绍的YMCK的Magical FDS插件，也是借助AI之手诞生的新音乐工具。这种事现在已经成了日常，看起来短时间内很难摆脱这个AI时代。"
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/06/wisetracker.jpg"
+        },
+        {
+          "t": "p",
+          "x": "但这并不是靠一句提示词草草生成的粗糙作品。Wiseman说自己花了数百个小时去设计、测试、重写，还在Discord用户的帮助下修复了bug。当AI落到清楚自己想要什么工作流程的人手里时，它就成了把原本不存在的工具带到世界上的一种方式。"
+        },
+        {
+          "t": "p",
+          "x": "WiseTracker沿用了FastTracker 2和Renoise那种工作方式。你在网格里输入音符和效果指令，用键盘快速移动。它支持最多64条音轨、256种乐器、128声部复音，以及200级撤销。"
+        },
+        {
+          "t": "p",
+          "x": "下载之后会同时得到VST3插件WiseTracks和独立应用WiseTracker。WiseTracks挂载在DAW里，与其传输和速度同步；WiseTracker则可以脱离DAW独立运行，自带传输、速度、节拍器、点击设定速度和音频设备设置。两者共享引擎、界面布局和文件格式，整首曲子——包括模式、采样、鼓组和设置——都保存为一个.wise文件。你可以从独立应用开始、在DAW里完成，也可以反过来。"
+        },
+        {
+          "t": "p",
+          "x": "它也能当采样器用。把WAV、AIFF、FLAC、OGG文件拖进来，用KEYZONES编辑器映射到键盘上，按瞬态切割循环，用根音和音高调音，再把整首曲子渲染成WAV、FLAC或OGG。还有一个基于欧几里得节奏型的生成器，可以把喜欢的节奏直接打进网格里。它还能导入FastTracker 2的.xm和Amiga ProTracker的.mod文件。公测期间免费，正式发布后依旧依据PolyForm Shield许可证保持免费。目前仅支持Windows。"
+        }
+      ]
+    },
+    "music/napster-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eBa52A7zBPMPZxt6uoKqp4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "还记得Napster吗?当然记得。这个早期互联网时代的\"问题少年\"回归了,推出了自己的AI应用,加入AI音乐大战。"
+        },
+        {
+          "t": "p",
+          "x": "它和Suno、Udio的路数略有不同,更像是通过聊天机器人角色,与\"真正的\"AI艺术家互动的体验。Napster首席执行官埃多·西格尔在接受《滚石》采访时这样解释:\"我们想做的是更接近一种体验的东西——一种与另一方互动的人性化体验,就像人们一起即兴合奏、反复交流创作出某种东西的过程。\""
+        },
+        {
+          "t": "p",
+          "x": "还有一点很有意思。西格尔表示,新的Napster应用将采用\"经过伦理训练\"、对版权友好的音乐生成模型,这与当年把对抗版权法当作整个商业模式的做法正好相反。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时,Napster已经发生了很大变化。去年,AI公司Infinite Reality以2.07亿美元收购了这个品牌。原本计划投入重启品牌的30亿美元投资因投资方消失而告吹,去年6月授权协议到期后,仍有说法称Napster欠下约920万美元的版税,这些版税来自对Sony曲库的流媒体播放。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此,反音乐产业的基调没有变。西格尔说:\"大型厂牌一直是阻止人们拥有自己内容和数据的问题所在,现在依然如此。所以我们不太想和他们建立关系。我们认为厂牌已经不再是音乐未来的一部分了。\""
+        },
+        {
+          "t": "p",
+          "x": "\"旧的厂牌模式已经死了。我们已经看到,TikTok和Instagram这样的分发平台,在这个数字时代传播和推广音乐的效果,远胜过厂牌过去的所作所为。我就认为它已经死了。\""
+        },
+        {
+          "t": "p",
+          "x": "在西格尔看来,Napster无论过去还是现在都站在消费者这一边。\"回想起来,Napster的核心就是这样:你在店里买了一张27首歌的CD,其实只想要其中一首,把它拷到电脑上后,你想要分享自己所拥有之物的权利。我买了它,它是我的,所以我觉得我有权分享它。Napster是一种保护数据的尝试。我们业务的核心,就是真正地保护和保存数据。\""
+        },
+        {
+          "t": "p",
+          "x": "被问及将如何与已经和大型厂牌达成协议的Suno、Udio竞争时,他直言那些协议\"是非常IBM式的做法\"。\"这等于为大型厂牌打开了一条路,让他们去琢磨如何拥有数据、拥有这一切。这和我们要做的正好相反。我希望你——真的是你——能拥有自己的数据和自己创作的内容。\""
+        },
+        {
+          "t": "p",
+          "x": "\"总有人想把旧的商业模式硬套到新事物上,但世界不是这样运转的。你没办法把马和马车塞进汽车里。\""
+        }
+      ]
+    },
+    "music/bootleg-vs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "备受争议的AI生成乐队The Velvet Sundown火了之后,电视编剧兼制片人Simon Balch组建了一支由真人音乐人组成的\"反制\"致敬乐队The Bootleg Velvet Sundown。"
+        },
+        {
+          "t": "p",
+          "x": "The Velvet Sundown去年在Spotify上积累了数十万月度听众,一度成为话题。一名非官方发言人称这些歌曲是用AI音乐生成平台Suno制作的,但乐队方否认了这一说法,反驳称自己是\"融合音乐、模拟美学与推测性叙事的多学科艺术项目\"。无论哪种说法是真,这都标志着AI已经能制作出真正走红的音乐。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/R4yXjFWqUYXc4mRGuunNBh.jpg"
+        },
+        {
+          "t": "p",
+          "x": "如今,反击开始了。Balch在Instagram上写道:\"What's the one thing AI music can't do? Play live.\"意思是,AI音乐唯一做不到的一件事,就是现场演出。他明确表示,自己虽然组建了这支全球最知名AI乐队的致敬乐队,但这并非真正意义上的致敬。\"Instead of giving any money to the Velvet Sundown, I'm giving all the profits back to real musicians, whose work AI stole in the first place.\"也就是说,收益不会给Velvet Sundown,而是归还给那些作品最初被AI\"偷走\"的真实音乐人。"
+        },
+        {
+          "t": "video",
+          "yt": "BzX1YFZW0jc"
+        },
+        {
+          "t": "p",
+          "x": "这支由Leo Walrus、Enzo Allen、Milo Garland、Luke McQueen组成的乐队,计划在录音室重新录制The Velvet Sundown的几首歌曲。目标是获得比原曲更多的流媒体播放量。此前从未有致敬乐队的播放量超过原版,一旦实现,将是头一次。"
+        },
+        {
+          "t": "p",
+          "x": "有人认为,Velvet Sundown整个项目是一场精心策划、意在揭露AI音乐问题的行动;也有人认为,既然该项目已经靠版税赚了数万美元,这不过是一场冷酷的捞金生意。无论动机为何,这支翻唱乐队的姿态都相当强硬。在最近一段Instagram视频里,画面是站在伦敦屋顶上的The Bootleg Velvet Sundown,配上Balch的旁白:\"If you're making AI music, be very afraid.\"这是一则带着玩闹意味的帖子,但其中透出真实的怒气,而这怒气也在情理之中。\"This is humans versus machines, and today, the humans are rising."
+        }
+      ]
+    },
+    "music/afro-charles": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "悉尼演出经纪公司Good Intent发布了道歉声明，原因是自家排出的阵容中混进了一个AI生成的'艺人'。出事的演出是在Newtown的Bootleggers每周举办的新人系列Mixed Bag，7月1日那场节目单上，除了The Duke of Randwick、Pillar Lane和Genevieve，还列着一个名叫Afro Charles的名字。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=900,height=600/https://images-r2.thebrag.com/rs/uploads/2026/07/bootleggers-.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "同场演出的音乐人Aidan Sammut第二天，也就是7月2日，在Instagram发视频揭穿了这件事。他说乐队另一位成员偶然查看了Afro Charles的账号，发现从视觉效果到音乐、歌词、人声，全都'clearly and blatantly'是AI制作的。他指出：'At no point was it disclosed to us that we would be playing with an AI artist'，并强调宣传材料中根本没有任何说明。他还说，和一项只能靠大规模盗用人类音乐人作品才能存在的技术同台演出，'a complete insult'。"
+        },
+        {
+          "t": "p",
+          "x": "在Good Intent负责Mixed Bag的Rob低头承认这完全是自己的责任。他说自己没有核实这位'艺人'的社交账号，而中介经纪公司把对方介绍为使用'真人演唱'的'制作人'，所以他才相信这是真正的艺人。Good Intent和Bootleggers表示，他们从未明知故犯地预订过AI音乐，以后也不会，并承诺整改审核流程，并向音乐人支援机构Support Act捐款。"
+        },
+        {
+          "t": "p",
+          "x": "这件事恰好发生在澳大利亚音乐界与AI正面碰撞之际。上个月有报道称，数以百万计的澳大利亚和新西兰歌曲未经同意就被纳入了AI训练数据集；本周，多位艺人以及ARIA、APRA AMCOS等行业组织齐聚堪培拉，呼吁政府加强版权保护。Sammut在视频结尾这样说：'There is no place for generative AI slop in the live music scene.'"
+        }
+      ]
+    },
+    "music/corus-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今寻找音乐的方式,几乎被Spotify、TikTok、YouTube等平台的算法推荐所主导。新推出的社交平台Corus(科鲁斯)则反其道而行,把人的喜好和个性化推荐置于机器学习之上。"
+        },
+        {
+          "t": "p",
+          "x": "Corus的创建者是Gabe Jacobs,他是2015年至2018年运营的音乐平台Cymbal的联合创始人。Corus是一个通过推荐和对话一起发现音乐与电影的社交网络。早期用户包括Nicki Nair、Daedelus、Conductah、DJ Noir等艺术家。"
+        },
+        {
+          "t": "p",
+          "x": "该应用与SoundCloud、Apple Music、Spotify、Tidal、Deezer互联,可以跨多个流媒体服务进行分享。它支持移动端和桌面端使用,并没有沿用Cymbal类似Reddit式的推荐投票方式,而是借鉴Instagram和Letterboxd的风格,强调视觉设计与个人表达。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Corus@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Jacobs这样阐述方向:\"Corus……将成为一个连接并致敬我们共同热爱与分享的艺术的地方。如今的社交媒体用起来令人痛苦,充斥着广告、机器人,以及把我们困在框架里的算法。我希望这里与众不同,更有人情味,更真实。\""
+        },
+        {
+          "t": "p",
+          "x": "资费分为免费版和付费版。免费用户每天最多可发布五条内容,而每月3.99美元或每年24.99美元的高级版则提供无限发布、个人资料美化、播放列表导出以及收藏专属信息流。"
+        },
+        {
+          "t": "p",
+          "x": "Corus表示将继续依靠订阅而非广告维持运营。未来计划新增热门话题讨论信息流、新歌精选推荐,以及艺术家变现工具。"
+        }
+      ]
+    },
+    "music/traxsource-labels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "音乐下载平台Traxsource从7月1日起,将为人类创作音乐和AI辅助音乐添加区分标签。"
+        },
+        {
+          "t": "p",
+          "x": "分类将与AI检测公司SH Labs和SoundPatrol合作完成。从头到尾完全由AI制作的曲目将被筛出并删除,其余音乐则分为AI辅助音乐和人类创作音乐。"
+        },
+        {
+          "t": "p",
+          "x": "此次举措延续了去年2月发布的立场声明。当时Traxsource表示,在以人类为主导的创作过程中使用AI作为制作工具是可以接受的,但完全由AI制作的音乐不会被平台接受。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/03/headphones-stock-image@2000x1500.jpg"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CEO Brian Tappert表示:\"我们不认为AI会消失。我们所做的一切,都是为了找到与AI共存的方式,并确保价值留在它应该在的地方,也就是人类创作的作品中。\""
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CTO Marc Pomeroy补充说:\"我们设想的未来,是买音乐会变得像如今买食品杂货一样:普通商品旁边摆放着有机认证商品,选择权交给消费者。\""
+        },
+        {
+          "t": "p",
+          "x": "贴上标签后,听众可以按照自己对AI的喜好来挑选。Traxsource将继续每天筛查并剔除完全由AI制作的音乐,对分类结果有异议时也可以申请重新审核。"
+        }
+      ]
+    },
+    "music/sugarbytes-claude": {
+      "blocks": [
+        {
+          "t": "text",
+          "x": "Sugarbytes推出了用于鼓机的Claude扩展。这是一款通过文本提示编排节拍的免费插件。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/06/ai-beat-making.jpg",
+          "cap": "用文本制作节拍的鼓机Claude扩展"
+        },
+        {
+          "t": "text",
+          "x": "只要一句提示词,整套鼓机音色就能一次完成。具体运作方式可以在演示视频中看到。"
+        },
+        {
+          "t": "text",
+          "x": "现在可以在Sugarbytes官网下载。"
+        },
+        {
+          "t": "text",
+          "x": "一位用户在评论中写道:\"Adding AI into the mix is aiding laziness, not adding efficiency or creativity\",并指出现有的随机参数功能已经足够。"
+        }
+      ]
     }
   }
 }

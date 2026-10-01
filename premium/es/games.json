@@ -1605,6 +1605,708 @@
           "x": "Los LLM son débiles a la hora de manejar el espacio, pero Epic cubrió esa carencia proporcionando más de 80 bloques primitivos de generación procedural de contenido, una biblioteca de ejemplos y Skills que recogen flujos de trabajo específicos de Unreal. Sobre todo, todo permanece bajo el control del desarrollador, que decide cuánta ayuda recibir del LLM. El servidor MCP, el PCG Primitive Plugin y las Skills personalizadas, de hecho, ya se publicaron hoy como parte de 5.8. El objetivo de acceso anticipado de UE6 es a finales de 2027, con el lanzamiento completo entre 12 y 18 meses después, lo que lo sitúa a finales de 2028 como muy pronto y, de forma más realista, en 2029."
         }
       ]
+    },
+    "games/cnc-ios-vibeport": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Ny5gxLuhNTziwfznwoUfDV-1920-80.jpg",
+          "cap": "Command & Conquer: Generals – Zero Hour ejecutándose en un iPad (Imagen: Ammaar Reshi)"
+        },
+        {
+          "t": "p",
+          "x": "Hace apenas unos días que Anthropic lanzó Claude Fable 5 tras una restricción temporal de acceso en Estados Unidos. Ese modelo ya se ha usado para portar el juego de 2003 Command & Conquer: Generals – Zero Hour a iOS. Según se informa, el port necesitó el código fuente, ports anteriores y ajustes manuales para funcionar."
+        },
+        {
+          "t": "p",
+          "x": "La noticia la dio Ammaar Reshi, líder de producto y diseño en Google AI Studio, en una publicación en X el 4 de julio. Reshi dijo que este port se apoya en ports anteriores y en trabajo de modernización, describiéndolo como \"had a chain of giants to stand on\". Hizo un fork directo de una build para Linux/Mac creada por The Super Hackers."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio de Reshi decía: \"I used Fable 5 to port Command & Conquer: Generals Zero Hour to the iPhone and iPad! This is the actual 2003 engine compiled for ARM64 natively, no emulator. Campaign, skirmish, Generals Challenge all work with touch controls built for an RTS.\""
+        },
+        {
+          "t": "p",
+          "x": "Lo inusual de este port es, en sí mismo, el hecho de que funcione en iOS. También se añadieron controles táctiles nuevos pensados para un RTS, que permiten tocar para seleccionar, arrastrar para dibujar un recuadro y mantener presionado para deseleccionar. Quien quiera probarlo puede descargarlo de GitHub, aunque debe conseguir por su cuenta una copia del juego. En lugar de correr bajo un emulador, el motor real funciona de forma nativa en dispositivos de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Al escribir sobre el port en GitHub, Reshi insistió en que el trabajo fue una colaboración entre una persona y una IA, no un caso de decirle a la IA que 'se encargara sola'. Claude se hizo cargo del código y la depuración, mientras una persona se encargó del playtesting. Problemas como 'el minimapa está negro' o 'se oye un chirrido' se describían con palabras, y el modelo los corregía. En palabras de Reshi: \"Neither half ships this alone: one of us can't write C++, and the other can't hear the chirping.\""
+        },
+        {
+          "t": "p",
+          "x": "¿Funcionará con otros juegos? Todavía no se sabe. El propio Reshi se muestra escéptico sobre Red Alert 2, ya que EA parece haber perdido el código fuente. Incluso si el código fuente sobrevive, es poco probable que una empresa permita de buena gana un port que pueda perjudicar las ventas de un remaster o un remake. También queda la preocupación de que un modelo de IA pueda usar la información recibida para entrenarse."
+        },
+        {
+          "t": "p",
+          "x": "El costo tampoco fue poca cosa. Reshi dijo que agotó toda su suscripción a Claude Max en dos días. Según sus cálculos, solo los tokens costaron entre 100 y 200 dólares. Parece creer que Fable 5 es el único modelo capaz de lograrlo, señalando que Opus 4.8 no pudo hacerlo ni siquiera con Ultra Code. No mencionó si lo intentó en la propia plataforma de vibe coding de Google."
+        },
+        {
+          "t": "p",
+          "x": "Así que, con unos cientos de dólares, el código fuente del juego y un port anterior como referencia, se puede tener el juego funcionando en un iPad en un solo fin de semana. Así de simple."
+        }
+      ]
+    },
+    "games/jgs2-realtime": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "uO5cvkzh3P0"
+        },
+        {
+          "t": "p",
+          "x": "Two Minute Papers cubrió el artículo bajo el título 'They Said This Will Never Run In Real Time.' El artículo en sí se titula 'JGS2: Near Second-order Converging Jacobi/Gauss-Seidel for GPU Elastodynamics.' Presenta un método para ejecutar en tiempo real, en una GPU, simulaciones de cuerpos elásticos de objetos blandos que se presionan y rebotan."
+        },
+        {
+          "t": "p",
+          "x": "En la simulación paralela, la convergencia y el paralelismo suelen chocar: aumentar el paralelismo aligera el cálculo local y debilita el acoplamiento, lo que ralentiza la convergencia global. Un equipo de investigadores liderado por Lei Lan estudió el fenómeno de 'sobredisparo', en el que un solver local reduce solo su propia energía ignorando el contexto global y termina arruinando la convergencia global, y transformó la solución óptima de segundo orden que lo contiene en una forma que puede precalcularse."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados son sorprendentes. El método corre tan en paralelo como el método de Jacobi mientras converge casi tan bien como el método de Newton. Mostró convergencia de segundo orden tanto en materiales rígidos como en materiales blandos, y convergió entre 50 y 100 veces mejor que los métodos de GPU más avanzados existentes. Un ámbito que se consideraba absolutamente imposible en tiempo real ha quedado al alcance de los juegos y las simulaciones interactivas."
+        }
+      ]
+    },
+    "games/metahuman-sizzle": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "55H81dP46ck"
+        },
+        {
+          "t": "p",
+          "x": "Este es el sizzle reel de MetaHuman 2026, presentado en Unreal Fest Chicago. Reúne trabajos de personajes digitales creados con MetaHuman por equipos de todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Epic explica que, a medida que el framework de MetaHuman se vuelve más potente, no dejan de surgir ejemplos que muestran hasta dónde se puede llevar esta tecnología. Los proyectos del video abarcan todas las industrias, de los juegos al cine y la televisión, la animación, y la radiodifusión y los eventos en vivo."
+        },
+        {
+          "t": "p",
+          "x": "Quien quiera crear un humano digital realista puede empezar en metahuman.com."
+        }
+      ]
+    },
+    "games/unity-ai-audit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "OmN7RPIxf60"
+        },
+        {
+          "t": "p",
+          "x": "Este es un video de demostración que Unity publicó en su canal oficial. Unity AI etiqueta automáticamente los assets creados con herramientas generativas. Antes del lanzamiento, se puede revisar dónde del proyecto se han mezclado assets generados y reemplazar al momento lo que no convenza."
+        },
+        {
+          "t": "p",
+          "x": "La descripción del video es breve: etiqueta automáticamente los assets generados, lo que facilita auditarlos y reemplazarlos antes del lanzamiento. La beta de Unity AI puede probarse gratis ahora mismo."
+        },
+        {
+          "t": "p",
+          "x": "Es una demo breve, pero el objetivo es claro. Lo primero es identificar, a nivel de proyecto, qué assets han pasado por manos de la IA, y el etiquetado es el punto de partida para eso."
+        }
+      ]
+    },
+    "games/caveman-tokens": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/caveman.jpg",
+          "cap": "Caveman (Imagen: Kotaku)"
+        },
+        {
+          "t": "p",
+          "x": "Los costos se están disparando en todo el mundo de la IA. Los dispositivos de consumo, los componentes de PC y los videojuegos atraviesan escasez de hardware, y a las empresas de IA no les va mucho mejor. En las últimas semanas, varias empresas conocidas de IA cambiaron sus suscripciones de tarifa plana a pago por uso, una señal de que el costo de mantener los servicios en marcha resulta difícil de soportar, y hasta las grandes empresas que habían adoptado la IA se han vuelto más cautelosas. En medio de todo esto, algunas empresas creen haber encontrado una nueva solución: hacer que la IA hable como Tarzán."
+        },
+        {
+          "t": "p",
+          "x": "Según 404 Media, un plugin circula entre las empresas que buscan reducir el uso de tokens. Empleados de varias empresas, incluida OpenAI, usan 'Caveman', una herramienta que le indica a modelos como Claude que hablen no como el Master Thespian de SNL, sino como el abogado cavernícola de SNL."
+        },
+        {
+          "t": "p",
+          "x": "\"I made Caveman back in early April because I was using Claude Code heavily and noticed a lot of my token spend was going to unnecessary prose.\" Eso le dijo a 404 Julius Brussee, quien creó Caveman. El relleno que él señala es \"pleasantries, hedging, transitions, and chatty language that does not really matter\"."
+        },
+        {
+          "t": "p",
+          "x": "Al activar el plugin, las respuestas que intentan deliberadamente sonar amigables y mantener la conversación se reducen a ladridos y gruñidos secos. En vez de un consejo amable, se obtiene una orden de marcha. Brussee dice que bajar el IQ de la IA redujo el uso de tokens en alrededor de un 65%."
+        },
+        {
+          "t": "p",
+          "x": "Casi todo lo relacionado con la IA suele sentirse como una metáfora desbocada, pero esta vez cuesta no reírse. Durante años se vendió la inteligencia a nivel humano de los chatbots, y ahora, frente al cálculo de costos, es básicamente una lobotomía forzada. La industria de la IA y la carrera por financiación se han apoyado mucho en la comprensión popular del aprendizaje automático, llegando a extremos absurdos para antropomorfizar los modelos de lenguaje. Cuando las ganancias empezaron a importar de verdad, el panorama cambió de golpe. El costo de mantener los servicios de IA es difícil de sostener, y todavía ninguna gran empresa genera ganancias de forma natural. A comienzos de este año, OpenAI cerró su generador de video Sora, que perdía 1 millón de dólares al día, y eso también enredó su lucrativo acuerdo con Disney."
+        }
+      ]
+    },
+    "games/devs-reject-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/okQ2ASPgYJB5onPXFyNNcK-1920-80.jpg",
+          "cap": "Imagen: FC Tech Labs"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo RPG de acción en Steam desató un debate entre otros desarrolladores. Todo comenzó cuando su creador dijo que la IA generativa era esencial para acelerar el desarrollo, aunque también dijo que más ingresos podrían reducir esa dependencia."
+        },
+        {
+          "t": "p",
+          "x": "La desarrolladora de videojuegos y animadora Aura Triolo (Bluesky: Aura/Moom) señaló el texto de divulgación de IA en Steam de Bahast, un nuevo título presentado como un ARPG idle de fantasía oscura. Triolo solo compartió el texto, pero otros encontraron el juego poco después."
+        },
+        {
+          "t": "p",
+          "x": "El tema sigue siendo un punto de fricción en el debate sobre la IA generativa en los juegos y el desarrollo. Cuando GamesRadar+ preguntó a más de 30 desarrolladores, surgieron objeciones de todo tipo a la IA generativa como herramienta, a pesar de las afirmaciones de que mejora la eficiencia. Está previsto un reportaje de seguimiento centrado en las opiniones de desarrolladores indie, que también se mostraron negativos respecto a la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Figuras de la industria como el director ejecutivo de Epic Games, Tim Sweeney, creen que el desarrollo integrado con IA será esencial en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "Varios desarrolladores respondieron con dureza a la explicación de Bahast. Triolo escribió: \"'Dame dinero y quizá use menos IA' es el ruego más desesperado que he visto\"."
+        },
+        {
+          "t": "p",
+          "x": "David Lindsay Pittman, de Minor Key Games, creador de Eldritch, respondió: \"'Solo soy un pequeño desarrollador independiente' no convence a desarrolladores solos y pequeños como nosotros, que hemos trabajado sin una máquina estafadora que roba dibujos\"."
+        },
+        {
+          "t": "p",
+          "x": "Alexandre Strukov, de Studio Alblune, creador de Squikross, dijo: \"Aprendan a escalar en vez de quejarse\". El desarrollador independiente Mtgames añadió: \"Literalmente no tengo trabajo y aun así hago todos mis assets a mano. ¿Por qué? Porque es divertido\"."
+        },
+        {
+          "t": "p",
+          "x": "Ryan Nurse, desarrollador independiente de Altrix Studios, dijo: \"Aparte de la comisión de distribución de Steam y los 5 dólares que gasté en TIC-80 Pro en 2019, no he gastado un solo centavo en desarrollar ni Prism Indigo ni Prism Warriors\", y añadió: \"'No tengo dinero' es una excusa absurda para usar IA generativa en los juegos\"."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta reciente, no fueron muchos los usuarios de Steam que le dieron gran importancia a la IA en los juegos. Sin embargo, quienes hicieron la encuesta advirtieron que usar IA sigue perjudicando las ventas, y consideraron que las preguntas y la muestra no se ajustan del todo a la base de usuarios en general."
+        }
+      ]
+    },
+    "games/steam-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iYbJwiXnDe6Rccst38FsBF-1920-80.jpg",
+          "cap": "Imagen: Valve"
+        },
+        {
+          "t": "p",
+          "x": "Resulta extraño que, mientras el mundo entero —o al menos la comunidad de los videojuegos— parece hablar con una sola voz en contra de la expansión de la IA en los juegos, las compañías de videojuegos sigan adoptando cada vez más esta tecnología por razones de eficiencia, desplazando en muchos casos puestos de trabajo humanos. Una encuesta reciente podría ayudar a explicar parte de esa brecha."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta reciente del boletín de The GameDiscoverCo, que preguntó a 3.800 usuarios de Steam, una parte considerable dijo estar en general de acuerdo con que se use IA en los juegos. Entre los encuestados, el 23,4% dijo \"no tengo ningún problema con ello\" y el 19,6% dijo \"me parece bien, sin más\"."
+        },
+        {
+          "t": "p",
+          "x": "Valve exige a todos los desarrolladores que divulguen en Steam si usaron IA en un juego y en qué medida. Gracias a eso, los usuarios, sea cual sea su postura, pueden revisar esa información antes de comprar. Ahí hay algo que las desarrolladoras y editoras que quieren impulsar la IA deberían tener presente: la tolerancia puede ser sorprendentemente alta, pero la gente está mirando."
+        },
+        {
+          "t": "p",
+          "x": "En otra pregunta de la encuesta, el 44,4% de los encuestados dijo que \"revisa con cuidado\" si un juego de Steam se hizo con ayuda de IA, el 44,7% dijo que \"lo mira por encima pero no le importa mucho\", y el 10,9% dijo que \"no lo lee en absoluto\". Eso significa que casi el 90% de los usuarios de Steam suele revisar la divulgación de IA antes de comprar."
+        },
+        {
+          "t": "p",
+          "x": "Cabe señalar que quienes respondieron a estas encuestas no representan a la base completa de usuarios de Steam. En palabras de The GameDiscoverCo, son personas \"más involucradas de lo habitual\". Aun así, resulta útil para medir cómo se siente cierto segmento de usuarios de Steam respecto a la IA en el desarrollo de juegos hoy."
+        }
+      ]
+    },
+    "games/dreamcast-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NHUvfgQ2PsQUt3Q2uRsFBB-1920-80.jpg",
+          "cap": "Imagen: Sega"
+        },
+        {
+          "t": "p",
+          "x": "Ni siquiera la Sega Dreamcast pudo esquivar la IA. Phil Hayton, editor de hardware de GamesRadar+, se detuvo con el pulgar a mitad de scroll en redes sociales. Allí había consolas y controles retro deformados, y un VMU con letras borrosas y símbolos de botones extraños."
+        },
+        {
+          "t": "p",
+          "x": "El llavero en cuestión es un llavero conmemorativo de Dreamcast por Anime Expo que se vende en la Sega Shop. Con la forma de la consola, el control y hasta un VMU con el sprite de Chao de Sonic Adventure, el objeto en sí es bastante mono. Si la IA no hubiera arruinado los detalles, habría sido una pieza codiciada para los coleccionistas de Sega."
+        },
+        {
+          "t": "p",
+          "x": "A primera vista, nada parece raro. Solo al acercar la imagen al logo de Sega queda claro que no son letras reales, sino líneas parecidas a garabatos, y la B del botón del control se ve más como un círculo desprolijo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SU2bRC6kKxkWMJcgjM9NvE.jpg",
+          "cap": "Imagen: Sega"
+        },
+        {
+          "t": "p",
+          "x": "Al revisar la tienda, la mayoría de la línea de Anime Expo y la mercancía habitual usaba imágenes sin retocar. Otro infractor es el set de ambientadores de Crazy Taxi. Danny8bit ya lo había señalado antes en X, y SEGAbits introdujo el arte real en una herramienta de IA generativa y reprodujo el mismo tipo de imagen. Según lo recogido el mes pasado en un reportaje de Time Extension, eso deja la esperanza de que el arte en sí no haya sido hecho por IA."
+        },
+        {
+          "t": "p",
+          "x": "Parece que se usó IA para colocar fotos reales de los productos sobre un fondo determinado, y en el proceso se arruinaron detalles que la IA no pudo reconstruir bien. Hayton escribió que sospecha que estas imágenes son 'marcadores de posición', aunque añadió que sería alarmante si los detalles generados por IA aparecieran igual en los productos reales. Señaló que Crazy Taxi: World Tour ya había sido criticado por el uso de IA generativa, y dijo que espera que una marca que le importa no acabe cayendo en el pozo del slop."
+        }
+      ]
+    },
+    "games/ue-image-gen": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "LGvsShWEH3k"
+        },
+        {
+          "t": "p",
+          "x": "En la sesión State of Unreal de Unreal Fest Chicago 2026, Epic presentó un flujo de trabajo que usa modelos de generación de imágenes y video junto con las herramientas de Unreal Engine. El objetivo es que los artistas manejen los resultados generados con intención y control más claros."
+        },
+        {
+          "t": "p",
+          "x": "Muestra cómo ajustar los resultados generados al encuadre de la cámara del viewport de UE, crear variaciones parecidas a elementos de escena ya colocados, e incluso cambiar el estilo de toda una escena según los requisitos del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "La función lleva la etiqueta 'coming soon', así que todavía no se ha lanzado. El resto de las novedades de la versión 5.8 está detallado en el blog de Epic."
+        }
+      ]
+    },
+    "games/unity-scene-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_D26zKNPX7s"
+        },
+        {
+          "t": "p",
+          "x": "Es un video corto que Unity publicó en su canal oficial. El único mensaje en la descripción es que Unity AI reduce el tiempo dedicado a la configuración de la escena, para que ese tiempo se use en pulir ideas."
+        },
+        {
+          "t": "p",
+          "x": "Cuando la IA ayuda a ensamblar la escena dentro del editor, el trabajo repetitivo, como la colocación inicial, se vuelve más ligero. Es una función que acompaña al etiquetado automático de assets generativos visto el día 7, y la beta de Unity AI ya se puede probar gratis."
+        }
+      ]
+    },
+    "games/ea-creativity": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.zenfs.com/en/gamespot_323/ea0d57d939c44a1bbae794f2bf936ef2"
+        },
+        {
+          "t": "p",
+          "x": "Laura Miele, presidenta que supervisa el desarrollo corporativo en Electronic Arts, habló sobre el papel de la IA en el desarrollo de videojuegos. A medida que los desarrolladores delegan tareas tediosas en herramientas de IA, dijo, se libera capacidad para el trabajo creativo, y eso, según ella, ha llevado a lo que llamó un 'aumento real de la creatividad' dentro de EA."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con The Game Business, al preguntarle si la tecnología de IA podría acelerar el desarrollo de videojuegos, Miele respondió: \"Perhaps in some parts they will\"."
+        },
+        {
+          "t": "p",
+          "x": "Dijo que eliminar la \"fricción\" del trabajo de los desarrolladores ha sido durante mucho tiempo uno de sus deseos, y que la adopción de la IA ya está ayudando en eso."
+        },
+        {
+          "t": "p",
+          "x": "\"I always have kind of wanted to be a hero to them and help them create career-defining experiences. And I think that AI—what I've seen—how AI has enabled removing friction from our pipelines and our tools and our workflows, has been pretty exciting. It's removed some tedium out of their jobs.\""
+        },
+        {
+          "t": "p",
+          "x": "No dio ejemplos concretos, pero Miele dijo que usar IA ha acelerado la creación de prototipos, y que también ha visto \"una creatividad más rápida\", es decir, que el tiempo entre tener una idea y verla realizada se ha reducido. \"So we're seeing it. I think there is a real rise of creativity that comes from removing some of the tedious tasks out of development.\""
+        },
+        {
+          "t": "p",
+          "x": "La lógica de delegar tareas tediosas en la IA para centrarse en la creación es un argumento habitual entre los ejecutivos de la industria. El director de Witcher 3, Konrad Tomaszkiewicz, dijo que la IA generativa fue esencial para el desarrollo inicial del nuevo juego 'The Blood of Dawnwalker', el jefe de Take-Two, Strauss Zelnick, también es optimista sobre el uso de IA en áreas no creativas, y Jeff Kaplan, conocido por Overwatch, dijo igualmente que la IA tiene un lugar en ciertas partes de la producción de videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "Hay algo que conviene señalar: la mayoría de estas declaraciones provienen de ejecutivos y directivos, no de quienes realmente hacen el trabajo manual. Una encuesta de la GDC, que refleja el ánimo sobre el terreno, encontró que más desarrolladores que nunca consideran que la IA generativa es perjudicial para la industria de los videojuegos."
+        }
+      ]
+    },
+    "games/godot-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf37f0e888236bac1/6a453c420818ce731dd5fb9c/godot-fb-tw-share-image-1920x1080-0abe26cbac38.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Fundación Godot ha anunciado que revisará la política de contribuciones de Godot, su motor gratuito y de código abierto. El contenido es que ya no aceptará, en casi todos los casos, contribuciones de código hechas con IA generativa, es decir, pull requests (PR)."
+        },
+        {
+          "t": "p",
+          "x": "En una entrada de blog publicada ayer, la fundación señaló que han aumentado notablemente las contribuciones enviadas directamente por agentes de IA, o por personas que envían código generado por IA. Sobre los mantenedores que filtran los PR, escribió: \"AI contributions have the added pain of being demoralizing\"."
+        },
+        {
+          "t": "p",
+          "x": "Esta revisión llega mientras los estudios siguen impulsando la IA generativa. Entre los propios desarrolladores, en cambio, predomina desde hace años una valoración negativa de que esta tecnología está erosionando la industria."
+        },
+        {
+          "t": "p",
+          "x": "El principio que plantea la fundación es uno solo: toda contribución debe ser hecha por \"alguien que pueda responsabilizarse de su código\" y que tenga la capacidad y la voluntad de corregirlo cuando sea necesario. \"AI cannot take responsibility, and we can't trust heavy users of AI to understand their code enough to fix it.\""
+        },
+        {
+          "t": "p",
+          "x": "De ahora en adelante, la política de contribuciones prohibirá el uso de agentes de IA autónomos, el llamado vibe coding, la generación de cantidades considerables de código con IA, y la inclusión de texto escrito por IA en la comunicación entre personas."
+        },
+        {
+          "t": "p",
+          "x": "Hay excepciones. Todo el código debe estar escrito por una persona, pero se puede usar IA para tareas menores como autocompletado de código, expresiones regulares o buscar y reemplazar. Quien haya usado IA de cualquier forma debe revelarlo en la discusión del PR."
+        },
+        {
+          "t": "p",
+          "x": "La razón de la norma sobre comunicación es simple. Los mantenedores son voluntarios que dedican su propio tiempo a revisar issues, PR y propuestas, y no quieren conversar con una máquina. La fundación lo llamó \"a basic principle of respect\". Aun así, la traducción automática sigue permitida siempre que el texto original lo haya escrito una persona."
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio llega pocas semanas después de que Godot dijera que tolera \"cierta asistencia de IA\" mientras rechazaba la etiqueta de \"motor de vibe coding\". En febrero, el desarrollador veterano Remi Verschelde ya había expresado su frustración por los PR de \"AI slop\" que inundan el motor."
+        },
+        {
+          "t": "p",
+          "x": "La fundación cerró así: \"Las herramientas de IA que existen hoy cambian cada día. Seguiremos manteniendo una política conservadora, pero la reevaluaremos si la situación cambia.\""
+        }
+      ]
+    },
+    "games/valve-ai-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aw2Us2NVKyuN3JbpnKVtaH.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Justo después de que el CEO de Epic Games, Tim Sweeney, criticara a Valve por su aviso obligatorio de contenido generado por IA, apareció un plugin de navegador que hace justo lo contrario: vuelve ese aviso mucho más visible y oculta los juegos con IA de los resultados de búsqueda. No es algo que Sweeney vaya a recibir con agrado."
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador que se identifica como seeeeew, autodenominado jugador y programador de Linux, publicó el plugin 'AI warning for Steam' en Bluesky a principios de este mes, justo antes de que Sweeney declarara que el aviso de Steam hace que las posibilidades de éxito de un juego sean \"much, much, much harder\"."
+        },
+        {
+          "t": "p",
+          "x": "El plugin se distribuye para Firefox y Chrome, y también está en GitHub. Hay reportes de un método para usarlo directamente desde el propio cliente de Steam, pero este reportero no pudo verificarlo de primera mano."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ probó la versión de Chrome y confirmó que funciona como se describe. Al abrir la página de la tienda de Steam de un juego con aviso de contenido de IA, ese aviso aparece como ventana emergente desde la primera pantalla, imposible de ignorar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aFSperWAifMjMjLcLpsNad.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En los resultados de búsqueda, los juegos que usaron IA quedan difuminados por defecto, con una etiqueta que dice \"AI Generated Content Disclosure found\" encima. Para quien considera el uso de IA generativa un motivo de descalificación, esto evita tener que revisar juego por juego."
+        },
+        {
+          "t": "p",
+          "x": "El plugin se dio a conocer ampliamente durante el reciente Steam Next Fest, cuando llegó una oleada de demos de futuros lanzamientos. Como lamentó John Buckley, líder de Palworld, cada vez más entradas del Next Fest usan imágenes o activos generados por IA."
+        },
+        {
+          "t": "p",
+          "x": "Sweeney ha exigido en repetidas ocasiones que Steam elimine el aviso de IA, algo que no existe en la Epic Games Store. Recientemente afirmó que el aviso les pone una \"Scarlet Letter\" a los juegos que usan IA y atrae a una \"comunidad de odio que intenta matar los juegos\". Su argumento es que los desarrolladores deben elegir entre renunciar a una herramienta que mejora mucho la productividad y perder frente a la competencia, o aceptar el estigma."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, en un reportaje de GamesRadar+ que entrevistó a unos 30 desarrolladores de todo el mundo, surgieron una y otra vez voces que decían no querer usar IA generativa, por diversas razones."
+        }
+      ]
+    },
+    "games/slopfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pmiZmnzKJMigLWmND6869K-2560-80.jpg",
+          "cap": "Imagen: PC Gamer"
+        },
+        {
+          "t": "p",
+          "x": "El verdadero problema del vibe coding no es el resultado en sí, sino lo inestable que resulta construir algo más sobre esa base de código. Los agentes de IA son buenos produciendo resultados que gustan, pero no pueden 'pensar' el siguiente paso, así que el código de IA acaba lleno de duplicaciones e ineficiencias. De ahí sale el llamado 'AI slop'."
+        },
+        {
+          "t": "p",
+          "x": "Según Tom's Hardware, el equipo se llama Slopfix. Elimina una cantidad fija de código de IA innecesario y se lleva una parte de una tarifa de $10.000 según cuánto se acerque al objetivo. El ejemplo que figura en su web es reducir 100.000 líneas a 35.000: borrar 65.000 líneas da $10.000, y reducir solo 32.500 da $5.000."
+        },
+        {
+          "t": "p",
+          "x": "También es un problema habitual hoy en día. Hace unos meses, el equipo de un popular emulador de PS3 pidió a los usuarios que dejaran de \"submitting AI slop code\", y el motor de videojuegos de código abierto Godot se vio inundado de código de IA a principios de año. El mes pasado, Godot decidió dejar de aceptar por completo contribuciones de código generado por IA, alegando lo difícil que es \"trust heavy users of AI to understand their code enough to fix it\"."
+        },
+        {
+          "t": "p",
+          "x": "Limpiar el código de IA no resuelve el problema de fondo de que los usuarios no entienden su propio resultado. Lo que sí hace es facilitar que los agentes de IA sigan construyendo sobre él. Si la gente va a pagar de verdad decenas de miles de dólares para que otro limpie una base de código con las mismas herramientas es una incógnita. Escribí que ya dudo de que el sitio de Slopfix lo haya hecho siquiera una mano humana, y sus textos tampoco inspiran mucha confianza."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, queda una pregunta. Si pagas a un agente de IA para corregir los errores que dejó el código de otra IA, ¿quién vigila que ese agente haga bien su trabajo? Y si los tres ingenieros de Slopfix terminan revisando el código a mano, ¿qué sentido tenía usar un bot de programación desde el principio?"
+        }
+      ]
+    },
+    "games/unity-ai-debug": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7FtJiOTYtP0"
+        },
+        {
+          "t": "p",
+          "x": "Es un video que Unity publicó en su canal oficial. Muestra a Unity AI (beta) configurando y depurando máquinas de estado de animación, árboles de comportamiento y transiciones a partir de prompts únicamente. La idea es quitar trabajo repetitivo para devolver ese tiempo a pulir la sensación de juego."
+        },
+        {
+          "t": "p",
+          "x": "Tras las demos de etiquetado de assets generativos y configuración de escenas que se vieron los días 7 y 8, esto muestra otra faceta del flujo de trabajo de Unity AI. La beta de Unity AI ya se puede probar gratis."
+        }
+      ]
+    },
+    "games/amazon-ai-guides": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El problema de los libros basura generados por IA en Amazon probablemente apenas empieza. La empresa invirtió recientemente 50,000 millones de dólares en OpenAI y sigue metiendo su asistente de IA interno de mala reputación, Rufus, por todas partes. No parece probable que esta compañía vaya a frenar la avalancha de libros basura. Un caso que resume esa realidad absurda a la perfección son las 'guías con alucinaciones de IA' para juegos que ni siquiera están terminados ni lanzados."
+        },
+        {
+          "t": "p",
+          "x": "El blog de Substack Rick's Game Backlog documentó bien este fenómeno. Mientras buscaba en Amazon para confirmar fechas de lanzamiento, el autor encontró páginas de venta de guías caras para Alien: Isolation 2 (fecha de lanzamiento sin anunciar), Control: Resonant (24 de septiembre) y Gears of War: E-Day (6 de octubre). Todas se pueden comprar ya mismo."
+        },
+        {
+          "t": "p",
+          "x": "Las portadas son todas generadas por IA, y las descripciones también las escribió una IA. Por si quedaba alguna duda, Rick's Game Backlog señaló un pasaje. La descripción de un libro con el título larguísimo 'Gear of War E-Day Game Guide…' (ni siquiera dice 'Gears') empieza así: \"Here is a high-converting Amazon-style book description crafted to sell your book while keeping it emotionally engaging, persuasive, and read-focused.\" No se puede pedir mejor arranque."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/gear-of-war-guide2.jpg",
+          "cap": "Una página de venta de una guía con IA publicada en Amazon (Amazon / Kotaku)"
+        },
+        {
+          "t": "p",
+          "x": "Por suerte, Rick pidió él mismo varios de estos libros y mostró lo que hay dentro. El índice está impreso como hiperenlaces, sin números de página, y el libro está estructurado como una novela, sin una sola imagen, sin ni siquiera fingir ser una guía. Tras unas 60 páginas de trasfondo escrito por IA a partir de Wikipedia, siguen capítulos 'guía' sobre funciones que ningún juego tendría, como 'mecánicas de supervivencia' o 'guerra psicológica'. El libro de Alien: Isolation 2 incluso tiene un capítulo entero sobre requisitos del sistema que ni siquiera se han anunciado. Rick's Game Backlog lo reportó al servicio de atención al cliente de Amazon y logró que retiraran los libros, que reaparecieron de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Las guías legítimas sí salen antes del lanzamiento. Sus autores obtienen acceso anticipado a versiones inacabadas y documentan el contenido con cuidado. Esto, en cambio, es un montón de disparates plagiados de información en línea. También es una estafa ingeniosa que se aprovecha del hábito de Amazon de recomendar productos relacionados a quienes han reservado un juego. Con un precio de más de 20 dólares, tampoco es un engaño tan barato como para pasar desapercibido. Las portadas parecen lo bastante creíbles como para engañar sin sospechas a un padre que busca un regalo para su hijo, o a un jugador cualquiera."
+        },
+        {
+          "t": "p",
+          "x": "El mismo tipo de guías basura con IA también aparece en juegos ya lanzados. Hay un libro sobre P acreditado al 'autor' George D. Brogan, el mismo que escribió el libro de Alien: Isolation 2, y el prolífico bot de guías Donald C. Campbell ha publicado guías de The Adventures of Elliot, Mina the Hollower y Star Fox. El detalle favorito del autor de Kotaku es que la mayoría de las descripciones de estos libros incluyen alguna variación de \"Step into the world of…\""
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Amazon dijo a Kotaku: \"We have content guidelines governing which books can be listed for sale and promptly investigate any book when a concern is raised\", y añadió que los libros que incumplen las normas se eliminan. Tras la publicación inicial del artículo, algunos de los libros en cuestión fueron retirados, solo para que copias idénticas ocuparan su lugar de inmediato."
+        }
+      ]
+    },
+    "games/hasbro-child-voices": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w7g6p9yU934Mam8K7HtkzN.png",
+          "cap": "Arte de Magic: The Gathering 'Corrupt Court Official', de Drew Baker (Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "Hasbro casi nunca tiene un momento de respiro. El redactor de PC Gamer cree que tampoco se lo merece. Han surgido informes de que esta empresa gigante, dueña de Dungeons & Dragons y Magic: The Gathering, está presionando esta vez con contratos que entregan los derechos de la voz de niños a la IA."
+        },
+        {
+          "t": "p",
+          "x": "La base es una carta abierta de la Agents of Young Performers Association, un grupo que representa a agentes de actores infantiles y adolescentes, junto con el reportaje de Deadline que vinculó esa carta con Peppa Pig. La carta dice: \"A major studio who owns the IP for an international children's franchise producing a long running animated television series has offered contracts to child voice actors insisting that they agree to the use of AI thus allowing them to use the child's voice in all commercial assets within their franchise.\""
+        },
+        {
+          "t": "p",
+          "x": "La carta continúa: \"The refusal to remove this clause with an attitude of 'take it or leave it' has led us [to] write this letter to make it clear that this will not be accepted and to bring this matter to the attention of the wider industry.\" Las firmas confirmadas ya superan las 1,000."
+        },
+        {
+          "t": "p",
+          "x": "La trayectoria de Hasbro en la última década ha sido deplorable. Envió detectives de Pinkerton tras los fanáticos que consiguieron cartas de MTG antes de tiempo, despidió a 1,100 personas, incluidas figuras clave del acuerdo que dio origen a Baldur's Gate 3, y llevó adelante campañas antisindicales agresivas. Su director ejecutivo está fascinado con la IA. La empresa también perdió Sigil, su mesa virtual, e incluso canceló un juego del director de Jedi: Fallen Order."
+        },
+        {
+          "t": "p",
+          "x": "Si las acusaciones de la carta abierta son ciertas, es un exceso incluso para una empresa cuya reputación ya está por el suelo. En lugar de una respuesta concreta, Hasbro solo dejó a Deadline esta declaración: \"The protection of child performers is core to who Hasbro is, it's part of our DNA. As industry standards around AI continue to evolve, we are committed to engaging with this issue in a responsible and transparent manner.\""
+        },
+        {
+          "t": "p",
+          "x": "El redactor de PC Gamer escribió que la sola idea de un contrato que permita a la IA usar la voz de un niño resulta espeluznante. Al final, todo se reduce al consentimiento. Que un actor adulto cede derechos similares ya resulta incómodo, pero esa es una decisión del propio adulto. No existe ninguna versión 'responsable y transparente' de involucrar en un contrato de clonación de voz por IA a un niño que necesita que un padre entienda y consienta en su nombre."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco es una buena señal para los juegos de Hasbro. Los actores de voz han lidiado con los problemas de la IA desde que apareció esta tecnología, y hizo falta una larga huelga para conseguir contratos justos. Esa huelga fue algo que pudieron hacer adultos capaces de organizarse y hablar por sí mismos. Los niños no pueden."
+        }
+      ]
+    },
+    "games/wildchat-fiction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sMLxaGjg9NGtHWpvtPSjLG.jpg",
+          "cap": "Doki Doki Literature Club (Imagen: Serenity Forge)"
+        },
+        {
+          "t": "p",
+          "x": "La noticia la señaló primero el medio japonés ITmedia News. El estudio 'AI Fiction in the Wild', presentado en la conferencia MFS Cultural AI de la Universidad Purdue, analizó 500,000 conversaciones anonimizadas en inglés de ChatGPT recopiladas mediante WildChat, y surgió un caso de lo más curioso."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo del estudio se reducía, en el fondo, a examinar la enorme cantidad de prompts de IA que equivalen a 'escríbeme algo de fan fiction'. El volumen real es asombroso. Los investigadores escribieron: \"More than a third of the conversations contained some form of fiction generation.\" La cifra incluye ficción original, guiones, juego de rol, construcción de mundos, fan fiction y erotismo."
+        },
+        {
+          "t": "p",
+          "x": "El estudio divide a los usuarios de ficción con IA en dos tipos: \"Story cyclers ask for iterations of the same story for a period of time, then switch to another story or topic. Infinite story demanders request the same story, or a very similar one, over and over again for long stretches of time.\""
+        },
+        {
+          "t": "p",
+          "x": "Entre esos usuarios de demanda infinita, el interés del más prolífico de todos era extrañamente específico. Durante varios meses, generó miles de variaciones de una historia sobre una de las chicas de la novela visual Doki Doki Literature Club, principalmente Natsuki, dando a luz a un hijo. El hijo suele ser una niña llamada Sakura. Los investigadores incluso añadieron una nota aclaratoria: \"Sakura may be a reference to a character from the Naruto manga and anime series.\""
+        },
+        {
+          "t": "p",
+          "x": "Ese usuario intensivo no era el único. \"Two percent of users within the fiction subset are responsible for more than 80% of the conversations.\" Un usuario obsesionado con la ficción sobre embarazos infló esa cifra, pero los universos más solicitados para fan fiction, en orden, fueron Doki Doki Literature Club, League of Legends, Freedom Planet y Naruto."
+        },
+        {
+          "t": "p",
+          "x": "WildChat, la fuente de los datos, es una interfaz gratuita de ChatGPT alojada en Hugging Face. Se podía usar con la condición de que las conversaciones se anonimizaran y se publicaran para investigación académica, y solo la primera publicación pública, recopilada entre abril de 2023 y mayo de 2024, contenía más de 500,000 conversaciones en inglés."
+        },
+        {
+          "t": "p",
+          "x": "Lo interesante es que estos datos de fan fiction con IA no se parecen en nada a lo que se publica en AO3. En el mismo período, en AO3 eran mucho más comunes las historias basadas en Harry Potter, My Hero Academia y Supernatural. En el mundo de la fan fiction escrita por humanos, los autores se animan entre sí, y los lectores siguen a los autores hacia otros fandoms para encontrar algo nuevo que amar. Es una actividad comunitaria. PC Gamer señaló que generar ficción con IA es, en comparación, un acto mucho más aislado."
+        }
+      ]
+    },
+    "games/dk64-vibecoding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/dk64.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Recompilar juegos clásicos se está volviendo cada vez más popular en los juegos de PC. El proyecto en desarrollo 'Donkey Kong 64: Recompiled' lleva el clásico plataformero de N64 de 1999 a PC sin depender del desarrollo asistido por IA."
+        },
+        {
+          "t": "p",
+          "x": "El youtuber 2dos reveló un breve tráiler de este port hecho por fans el 28 de junio. Construido con la herramienta de recompilación de N64 de Wiseguy, el proyecto convierte el código original para el entorno de PC. Los planes incluyen soporte de pantalla ancha, tasas de fotogramas más altas, opciones de resolución 4K, minijuegos ajustados para baja latencia y soporte de mods."
+        },
+        {
+          "t": "p",
+          "x": "Como ocurre con otros proyectos de recompilación, el port no incluye los recursos de la versión de N64, por lo que los jugadores deben poseer el juego original. Esa condición ha permitido que las herramientas relacionadas eviten las solicitudes de retirada de Nintendo."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de desarrollo de 'DK64: Recompiled' creó antes el popular mod 'Donkey Kong 64 Randomizer'. Marcan una clara distinción entre su trabajo y el llamado 'vibe coding', en el que el código se genera y corrige con IA."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador theballaam96 lo explicó así: \"Hay un competidor que avanza a base de vibe coding, y lo está haciendo muy mal\"."
+        },
+        {
+          "t": "p",
+          "x": "El equipo subrayó su experiencia, afirmando que cuenta con \"gente que ha trabajado en el backend del código de DK64 durante más de una década\" y que \"no depende del vibe coding\"."
+        },
+        {
+          "t": "p",
+          "x": "PC Gaming Wiki eliminó recientemente este tipo de proyectos asistidos por IA de su lista de recompilaciones, citando problemas de calidad y estabilidad. Por ahora, 'DK64: Recompiled' es el único que figura en el registro oficial."
+        }
+      ]
+    },
+    "games/gaider-plague": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/dragon-age-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El cocreador de Dragon Age, David Gaider, criticó duramente el uso de la IA generativa en el desarrollo de videojuegos. El exguionista de BioWare dijo a GamesRadar que la tecnología es \"terrible en tareas repetitivas\" y afirmó sin rodeos que los resultados de la IA generativa \"no tienen alma\"."
+        },
+        {
+          "t": "p",
+          "x": "Gaider fue guionista principal en Dragon Age: Origins, Dragon Age 2 y Dragon Age: Inquisition. Señaló que la IA generativa suele entrenarse con datos sin el consentimiento de los creadores, lo que plantea problemas tanto éticos como legales."
+        },
+        {
+          "t": "p",
+          "x": "Dijo que \"la IA generativa a menudo se entrena sin importar si el creador o el propietario consintió que sus datos fueran saqueados\", y añadió que esto expone a los proyectos a riesgos legales. Agregó que el argumento de que \"la IA no funciona bien si no se nos permite robar lo que necesitamos\" carece de fundamento."
+        },
+        {
+          "t": "p",
+          "x": "Sobre los resultados generados por IA, preguntó: \"¿Hace el trabajo más eficiente? ¿Mejora el resultado?\". Basándose en su experiencia en diseño narrativo, dijo que \"corregir un resultado de baja calidad tomó más tiempo que simplemente desecharlo y volver a hacerlo\"."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que la IA se encargue del trabajo rutinario mientras las personas se concentran en lo importante, pero Gaider dijo que la realidad que vio fue la opuesta: una situación en la que \"la IA hace el trabajo importante, y el trabajador está ahí para 'limpiar' después\"."
+        },
+        {
+          "t": "p",
+          "x": "También advirtió sobre eliminar el trabajo de nivel inicial: \"Si eliminas todo el trabajo de nivel inicial, ¿cómo vas a formar a la próxima generación de desarrolladores?\"."
+        },
+        {
+          "t": "p",
+          "x": "Su conclusión fue clara: hasta que exista una regulación adecuada y datos de entrenamiento obtenidos legalmente, \"ahora mismo es una plaga maligna, y debería tratarse como tal\"."
+        }
+      ]
+    },
+    "games/sonic-arg-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/06/sonic-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 23 de junio, Sega anunció un nuevo juego de realidad aumentada (ARG) de Sonic the Hedgehog llamado 'Chaos Hunt'. Pedía a los jugadores recuperar las Esmeraldas del Caos repartidas por Estados Unidos para activar 'Club Chaos' este otoño. Pero surgió una reacción negativa cuando los participantes descubrieron que debían entregar datos personales para entrenar IA."
+        },
+        {
+          "t": "p",
+          "x": "Para participar en el juego hay que enviar nombre, fecha de nacimiento, código postal y número de teléfono. Los jugadores deben aceptar los términos de servicio y la política de privacidad de Community, y aceptar \"recibir mensajes recurrentes relacionados con Chaos Hunt (que pueden ser de marketing o automatizados) en el número indicado, de parte de Sega o de Community en nombre de Sega\"."
+        },
+        {
+          "t": "p",
+          "x": "Los fans que revisaron la letra pequeña encontraron una cláusula relacionada con IA. Los términos indican que \"sus datos de usuario pueden utilizarse para entrenar y mejorar nuestros modelos de IA propios con el fin de mejorar la funcionalidad, precisión y seguridad de nuestros servicios\". También permiten compartir datos con proveedores externos y dejan que Sega conserve la información incluso después de que termine el ARG."
+        },
+        {
+          "t": "p",
+          "x": "La reacción fue rápida y fuerte. Un usuario escribió \"que se vaya Sega\", y otro comentó \"pensé que Sonic se oponía a este tipo de entrenamiento de IA, pero bueno, supongo\". El anuncio original recibió una nota de la comunidad, y en redes sociales la proporción de reacciones se revirtió fuertemente en su contra."
+        },
+        {
+          "t": "p",
+          "x": "Los ejecutivos de Sega han dado a entender que adoptar la IA es inevitable. En una presentación en CEDEC 2025, los directores técnicos Daishi Yokoshima y Atsuki Yagi dijeron: \"Estamos entrando en una era en la que no podemos evitar usar IA\". Dijeron que están explorando la IA para \"generación de código, generación de imágenes y generación de movimiento\" en pruebas internas, y mencionaron la posibilidad de ampliarla a la \"generación automática de historia y diálogos\"."
+        },
+        {
+          "t": "p",
+          "x": "Este ARG parece consistir en escanear códigos QR en varios lugares, pero como aún no ha comenzado por completo, no está claro ni su alcance total ni qué anuncio relacionado con Sonic podría llegar."
+        }
+      ]
+    },
+    "games/sony-ai-annual-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamingbolt.com/wp-content/uploads/2024/09/chroma-indigo-1-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sony presentó un nuevo informe anual ante la Comisión de Bolsa y Valores de Estados Unidos (SEC). Como señaló Stephen Totilo de Game File, el plan de negocio revisado sugiere que Sony se está preparando ahora ante la posibilidad de una caída de ingresos en el mercado actual. También eliminó la mención de que llevaría sus títulos first-party a PC."
+        },
+        {
+          "t": "p",
+          "x": "El informe del año pasado decía que PlayStation \"apunta a un crecimiento de negocio sostenible y rentable\". En esta edición, esa frase se cambió a \"apunta a un crecimiento de negocio sostenible\". Totilo vio la desaparición de la palabra 'rentable' como una señal de que el aumento disparado en los precios de los componentes está empezando a afectar también con más fuerza a las ganancias de PlayStation."
+        },
+        {
+          "t": "p",
+          "x": "El informe describe así el hardware: \"En el segmento de hardware, Sony espera verse afectada por el aumento de los precios de los semiconductores de memoria y por la escasez de suministro, pero planea gestionar el impacto en la rentabilidad ajustando de forma flexible los volúmenes de ventas, las promociones y otros factores\"."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, Sony busca aumentar los ingresos basados en servicios, como PlayStation Plus, un movimiento que se interpreta como un intento de compensar los márgenes más estrechos en hardware."
+        },
+        {
+          "t": "p",
+          "x": "La dirección de la expansión de plataformas también cambió. El informe del año pasado incluía una frase que decía que Sony \"planea seguir distribuyendo títulos first-party en varias plataformas, incluida PC\". Ese pasaje ha desaparecido por completo del informe de este año, lo que coincide con rumores recientes de que Sony no obtuvo del mercado de PC el beneficio ni el crecimiento que esperaba."
+        },
+        {
+          "t": "p",
+          "x": "Recientemente, el CEO de PlayStation, Hideaki Nishino, confirmó en la práctica que los juegos first-party centrados en un solo jugador ya no llegarán a PC. Los planes de lanzamiento dependerán de \"las características de cada título\", y los juegos de servicio en vivo con elementos en línea seguirán considerándose para lanzamientos en PC con el fin de llegar a un público más amplio. Los juegos first-party para un solo jugador, en cambio, seguirán quedándose en el hardware de PlayStation. Nishino dijo: \"Independientemente de la plataforma, decidiremos según el principio de ofrecer la mejor experiencia de juego que maximice las características únicas de cada título\"."
+        },
+        {
+          "t": "p",
+          "x": "El pasaje relacionado con la IA también destaca. Sony dijo que hará un uso más amplio de herramientas basadas en IA en el desarrollo de juegos. El informe afirma: \"Sony está aprovechando la IA para sacar a la luz la creatividad de los estudios y reforzar aún más la experiencia de PlayStation\"."
+        },
+        {
+          "t": "p",
+          "x": "El informe añade: \"En nuestro negocio de estudios, las herramientas basadas en IA aumentan la productividad, permitiendo que los equipos de desarrollo reinviertan el tiempo ahorrado en construir mundos y experiencias de juego más ricos. En nuestro negocio de plataforma, la IA gestiona las transacciones de forma más eficiente y personaliza las recomendaciones de contenido para cada usuario en PlayStation Store. También buscamos seguir invirtiendo en IA y aprendizaje automático para elevar la fidelidad visual y ofrecer experiencias de juego de mayor calidad\"."
+        },
+        {
+          "t": "p",
+          "x": "La expansión entre medios también continúa. Sony planea hacer películas y series de televisión basadas en la propiedad intelectual de los juegos de PlayStation, con el objetivo de ampliar el alcance y la monetización de su propiedad intelectual."
+        }
+      ]
     }
   }
 }
