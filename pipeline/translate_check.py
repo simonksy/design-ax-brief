@@ -34,8 +34,20 @@ CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
 _CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
 
 UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
-NUM = re.compile(r"(\d[\d,.\s]*\d|\d)\s*(" + UNIT + r")?", re.I)
-CURRENCY = re.compile(r"[$€£¥₩]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
+# A number token is never glued to a Latin letter on either side: "Y2K" is not the
+# number 2000 (a letter sits right before the digit) and "GPT-4o" is not the number 4
+# (a letter sits right after it, including right after a consumed multiplier suffix
+# like "k"/"m"/"b" — a trailing lookahead after the optional unit group covers both).
+# A thousands separator (",") or European grouping dot (".") only counts as part of
+# ONE number when it is followed by exactly three digits and then a non-digit; this
+# keeps whitespace from ever being swallowed into a number (a date like "25, 2026"
+# must not merge into "252026") since whitespace is no longer in the token's character
+# class at all, and keeps a 4+ digit run after a separator from being misread as a
+# thousands group.
+NUM_CORE = r"\d{1,3}(?:[,.]\d{3})+(?!\d)|\d+(?:[.,]\d+)?"
+NUM = re.compile(r"(?<![A-Za-z])(" + NUM_CORE + r")\s*(" + UNIT + r")?(?![A-Za-z])", re.I)
+CURRENCY_SYMS = "$€£¥₩"
+CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
 
 
 def _unit_mult(unit):
@@ -66,7 +78,12 @@ def _value(raw):
         return None
 
 
-def numbers(text):
+def _scan(text):
+    """Yield (value, unit_derived) for every number-ish token in text, honoring the
+    bare day/month exemption, the money-adjacency override, and CJK chaining.
+    unit_derived is True iff the token's magnitude came from an explicit multiplier
+    unit (a Latin word/abbreviation or a CJK magnitude run) rather than being a bare
+    digit string."""
     text = text or ""
     matches = []
     for m in NUM.finditer(text):
@@ -77,7 +94,7 @@ def numbers(text):
         mult, is_cjk = _unit_mult(unit)
         matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
 
-    out = set()
+    out = []
     i, n = 0, len(matches)
     while i < n:
         start_i, end_i, v_i, unit_i, mult_i, cjk_i = matches[i]
@@ -95,15 +112,47 @@ def numbers(text):
         # the bare day/month exemption only applies to a lone, unmerged, un-multiplied
         # integer — a compound CJK number (mult > 1) is never a date
         if j == i and mult_i == 1 and unit_i != "%":
-            tail = text[end_i: end_i + 12]
-            head = text[max(0, start_i - 2): start_i]
-            money = bool(CURRENCY.search(tail) or CURRENCY.search(head))
+            # Money overrides the day/month exemption, but only on TIGHT adjacency: a
+            # currency symbol immediately before the number (whitespace allowed), or a
+            # currency word/symbol immediately after it — after the multiplier unit (if
+            # any; already inside [end_i] since the unit is part of the match) and
+            # whitespace. A "$" or "5" merely appearing somewhere nearby in the
+            # sentence (e.g. "Sonnet 5: $2 per million") must NOT make "5" money.
+            head_stripped = text[:start_i].rstrip()
+            money_before = bool(head_stripped) and head_stripped[-1] in CURRENCY_SYMS
+            tail_stripped = text[end_i:].lstrip()
+            money_after = bool(CURRENCY.match(tail_stripped))
+            money = money_before or money_after
             if not money and v_i.is_integer() and v_i <= 31:
                 i = j + 1
                 continue
-        out.add(round(term, 2))
+        out.append((round(term, 2), mult_i != 1))
         i = j + 1
     return out
+
+
+def numbers(text):
+    return {term for term, _ in _scan(text)}
+
+
+def _is_pow10_ge(value, floor):
+    """True iff value is an exact power of ten that is >= floor."""
+    if value < floor:
+        return False
+    t = int(round(value))
+    if t <= 0 or t != value:
+        return False
+    s = str(t)
+    return s[0] == "1" and set(s[1:]) <= {"0"}
+
+
+def _idiomatic_pow10(text):
+    """Values that are an exact power of ten >= 10,000 AND came from a digit+unit
+    magnitude combo (100만, 1억, 1 million, 1M, …) rather than a bare literal digit
+    string. A translation is free to reword that combo idiomatically (e.g. "100만
+    토큰당" -> "per million tokens"), dropping the literal digit — that is a style
+    choice, not a dropped fact, so it must not fail check()."""
+    return {term for term, unit_derived in _scan(text) if unit_derived and _is_pow10_ge(term, 10000)}
 
 
 # Python's \b is Unicode-aware, so it will NOT split "FTC" from an attached Korean/
@@ -112,13 +161,22 @@ def numbers(text):
 # so a CJK neighbor still counts as a boundary.
 BRAND = re.compile(r"(?<![A-Za-z0-9])[A-Za-z][A-Za-z0-9.+\-]*[A-Za-z0-9](?![A-Za-z0-9])")
 
+# Generic acronyms that read as all-caps brand-shaped tokens but are not names: a
+# translation is free to render them natively (Spanish "IA" for "AI", Chinese "界面"
+# for "UI") without that counting as a dropped brand/name.
+GENERIC_ACRONYMS = {"ai", "ui", "ux", "ceo", "cto", "cfo", "coo", "cpo",
+                     "vr", "ar", "xr", "pc", "tv", "os"}
+
 
 def brand_tokens(text):
     out = set()
     for t in BRAND.findall(text or ""):
+        low = t.lower()
+        if low in GENERIC_ACRONYMS:
+            continue
         mixed = any(c.isupper() for c in t[1:]) and any(c.islower() for c in t)
         if mixed or any(c.isdigit() for c in t) or (t.isupper() and len(t) >= 2):
-            out.add(t.lower())
+            out.add(low)
     return out
 
 
@@ -161,6 +219,10 @@ def check(src, tgt, lang):
                                   ("body", _body_text(src), _body_text(tgt))):
         s_num, t_num = numbers(s_text), numbers(t_text)
         missing, added = s_num - t_num, t_num - s_num
+        # An idiomatic magnitude dropped on translation (see _idiomatic_pow10) is a
+        # style choice, not a missing fact — only exempt it from the SOURCE side, so
+        # a target that invents a brand-new round number still fails via "added".
+        missing -= _idiomatic_pow10(s_text)
         if missing:
             errs.append(f"number(s) missing or changed in {name}: {sorted(missing)}")
         if added:

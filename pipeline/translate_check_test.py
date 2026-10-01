@@ -60,4 +60,43 @@ assert numbers("3百万円") == {3000000.0}
 assert numbers("2千億円") == {200000000000.0}
 assert numbers("2千亿元") == {200000000000.0}
 assert numbers("3十億円") == {3000000000.0}
+
+# 1) 일반 약어(AI/UI 등)는 브랜드 토큰이 아니다 — 스페인어 "IA", 중국어 "界面"처럼
+#    언어별로 자연스럽게 옮겨도 "이름 소실"로 잡히면 안 된다
+assert brand_tokens("OpenAI and the FTC use AI for UI") == {"openai", "ftc"}
+src_ai = {"headline": "Startup launches\nnew AI tool",
+          "body": "The startup unveiled a new AI tool for developers this week, aiming at small teams.",
+          "full": {"blocks": []}}
+tgt_ia = {"headline": "Startup lanza\nnueva herramienta IA",
+          "body": "La startup presentó esta semana una nueva herramienta de IA para equipos pequeños de desarrolladores.",
+          "full": {"blocks": []}}
+assert check(src_ai, tgt_ia, "es") == [], check(src_ai, tgt_ia, "es")
+
+# 2) 글자에 붙은 숫자는 숫자가 아니다 — "Y2K"의 2는 2000이 아니고, "GPT-4o"의 4는
+#    숫자 4가 아니다 (뒤에 글자가 바로 붙은 곱수 접미사도 마찬가지)
+assert numbers("트리비아 밤용 Y2K 슬라이드") == set()
+assert numbers("GPT-4o") == set()
+assert numbers("$30.3 million") == {30300000.0}
+
+# 3) 통화 인식은 "바로 앞/뒤"에만 반응한다 — 문장 어딘가에 "$"가 있다는 것만으로
+#    멀리 떨어진 맨숫자(여기서는 "Sonnet 5"의 5)를 돈으로 잘못 세면 안 된다
+assert numbers("Pricing is unchanged from Sonnet 5: $2 per million input tokens") == {2.0}
+assert numbers("10달러") == {10.0}
+
+# 4) 공백은 절대 숫자 토큰에 섞이지 않는다 — 날짜의 쉼표가 뒤 숫자와 합쳐지면 안 된다
+assert numbers("announced September 25, 2026") == {2026.0}
+assert numbers("1,200 users") == {1200.0}
+assert numbers("pidió 30,3 millones de dólares") == {30300000.0}
+assert numbers("1.200억 원") == {120000000000.0}
+
+# 5) "100만 토큰당" -> "per million tokens"처럼 관용적으로 숫자를 생략하는 번역은
+#    (10,000 이상의 정확한 10의 거듭제곱이, 숫자+단위 조합에서 나온 경우에 한해) 통과해야 한다
+src_mil = {"headline": "모델 가격 정책\n새롭게 공개됐다",
+           "body": "100만 토큰당 입력 2달러 수준으로 책정됐다고 밝혔다.",
+           "full": {"blocks": []}}
+tgt_mil = {"headline": "New model pricing\nis now public today",
+           "body": "The company priced the new model at $2 per million input tokens, executives said.",
+           "full": {"blocks": []}}
+assert check(src_mil, tgt_mil, "en") == [], check(src_mil, tgt_mil, "en")
+
 print("translate_check OK")
