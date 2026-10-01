@@ -121,4 +121,28 @@ for bad in (123, ["a"], True):
     out, errs = tr.judge(jobs[0], bad)
     assert out is None and any("invalid reply" in e for e in errs), (bad, errs)
 
+# news target: only today + last N days, only cards missing languages; limit/offset split
+d4 = tempfile.mkdtemp(); f4 = os.path.join(d4, "news_data.json"); j4 = os.path.join(d4, "jobs_n.json")
+old_card = {"id": "o", "url": "https://o", "headline": KO["headline"], "body": KO["body"], "full": KO["full"]}
+done = dict(card, id="d", url="https://d", text={l: KO for l in ["en", "ko", "ja", "zh", "es"]})
+nd = {"sections": {"design": {"today": {"date": "2026-10-02", "cards": [old_card, done]},
+                              "days": [{"date": "2026-09-01", "cards": [dict(old_card, id="far")]},
+                                       {"date": "2026-10-01", "cards": [dict(old_card, id="near")]}]}}}
+json.dump(nd, open(f4, "w"), ensure_ascii=False)
+r = run("jobs", "--news", f4, "--days", "1", "--out", j4)
+assert r.returncode == 0, r.stderr
+jobs4 = json.load(open(j4))["jobs"]
+assert {x["key"] for x in jobs4} == {"design/o", "design/near"} and len(jobs4) == 8   # 4 langs each (src ko)
+assert all(x["src_lang"] == "ko" for x in jobs4)
+r = run("jobs", "--news", f4, "--days", "1", "--limit", "3", "--offset", "6", "--out", j4)
+assert len(json.load(open(j4))["jobs"]) == 2
+r = run("jobs", "--news", f4, "--days", "1", "--out", j4)
+ans = {x["job_id"]: KO for x in json.load(open(j4))["jobs"] if x["lang"] in ("ja", "zh")}
+json.dump(ans, open(os.path.join(d4, "a.json"), "w"), ensure_ascii=False)
+r = run("apply", "--jobs", j4, "--answers", os.path.join(d4, "a.json"))
+assert r.returncode == 10                                         # en/es unanswered -> retry
+res = json.load(open(f4))["sections"]["design"]
+assert res["today"]["cards"][0]["text"]["ja"] == KO and res["days"][1]["cards"][0]["text"]["zh"] == KO
+assert res["days"][0]["cards"][0].get("text") is None             # outside --days
+
 print("translate fix-1 OK")

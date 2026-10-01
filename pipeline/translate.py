@@ -138,6 +138,21 @@ def _cards_index(doc, **_):
 TARGETS = {"cards": _cards_index}
 
 
+def _news_index(doc, days=None, **_):
+    out = {}
+    for sec, s in (doc.get("sections") or {}).items():
+        all_days = s.get("days") or []
+        groups = [s.get("today") or {}] + (all_days[-days:] if days else all_days)
+        for day in groups:
+            for c in day.get("cards", []):
+                if c.get("id"):
+                    out[f"{sec}/{c['id']}"] = c
+    return out
+
+
+TARGETS["news"] = _news_index
+
+
 def _load(path, default=None):
     if default is not None and not os.path.exists(path):
         return default
@@ -255,9 +270,10 @@ def cmd_check(path):
     return 0
 
 
-def cmd_jobs(kind, path, out, **kw):
+def cmd_jobs(kind, path, out, limit=None, offset=0, **kw):
     doc = _load(path)
     jobs = [j for key, c in TARGETS[kind](doc, **kw).items() for j in card_jobs(c, key)]
+    jobs = jobs[offset: offset + limit] if limit else jobs[offset:]
     _save(out, {"kind": kind, "target": os.path.abspath(path), "jobs": jobs})
     print(f"{len(jobs)} job(s) -> {out}")
     return 0
@@ -311,6 +327,10 @@ def main(argv):
     j = sub.add_parser("jobs")
     j.add_argument("--cards")
     j.add_argument("--ui", action="store_true", help="translate the i18n/ko.json UI dictionary")
+    j.add_argument("--news", help="news_data.json path — recently published cards, backfill in chunks")
+    j.add_argument("--days", type=int, default=5, help="with --news: today + last N days (default 5)")
+    j.add_argument("--limit", type=int, help="with --news: keep only this many jobs, for parallel splits")
+    j.add_argument("--offset", type=int, default=0, help="with --news: skip this many jobs before --limit")
     j.add_argument("--root", default=os.path.dirname(HERE), help="repo root holding i18n/ (with --ui)")
     j.add_argument("--out", required=True)
     a = sub.add_parser("apply")
@@ -323,8 +343,11 @@ def main(argv):
     if args.cmd == "jobs":
         if args.ui:
             return cmd_jobs_ui(args.root, args.out)
+        if args.news:
+            return cmd_jobs("news", args.news, args.out, days=args.days,
+                             limit=args.limit, offset=args.offset)
         if not args.cards:
-            ap.error("jobs needs --cards or --ui")
+            ap.error("jobs needs --cards, --ui or --news")
         return cmd_jobs("cards", args.cards, args.out)
     if args.cmd == "check":
         return cmd_check(args.path)
