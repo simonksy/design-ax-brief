@@ -99,4 +99,24 @@ tgt_mil = {"headline": "New model pricing\nis now public today",
            "full": {"blocks": []}}
 assert check(src_mil, tgt_mil, "en") == [], check(src_mil, tgt_mil, "en")
 
+# Fix round 1: a letter glued AFTER a number is a unit/suffix, not a truncation —
+# "123kg" is 123, not a lookahead-driven backtrack down to "12". Keeping this at full
+# value (rather than silently dropping it like the old regex did) is what lets check()
+# notice a real 123 -> 120 content change instead of letting both collapse to nothing.
+assert numbers("weighs 123kg") == {123.0}
+assert numbers("weighs 120kg") == {120.0}
+src_kg = {"headline": "New sensor\nweighs 123kg",
+          "body": "Engineers confirmed the new sensor housing weighs 123kg, slightly heavier than the prototype.",
+          "full": {"blocks": []}}
+tgt_kg = dict(src_kg, body="Engineers confirmed the new sensor housing weighs 120kg, slightly heavier than the prototype.")
+assert any("number" in e for e in check(src_kg, tgt_kg, "en"))
+assert numbers("a 1000km trip") == {1000.0}
+assert numbers("the 1990s") == {1990.0}
+assert numbers("100MB") == {100.0}
+assert numbers("5M users") == {5000000.0}
+# A multiplier letter/word only multiplies when nothing is glued right after it: "km"
+# is a unit suffix on "2", not a "k" thousand-multiplier followed by "m" — so this is
+# still just the bare, ignorable day/month-range integer "2".
+assert numbers("2km") == set()
+
 print("translate_check OK")

@@ -34,20 +34,32 @@ CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
 _CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
 
 UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
-# A number token is never glued to a Latin letter on either side: "Y2K" is not the
-# number 2000 (a letter sits right before the digit) and "GPT-4o" is not the number 4
-# (a letter sits right after it, including right after a consumed multiplier suffix
-# like "k"/"m"/"b" — a trailing lookahead after the optional unit group covers both).
 # A thousands separator (",") or European grouping dot (".") only counts as part of
 # ONE number when it is followed by exactly three digits and then a non-digit; this
 # keeps whitespace from ever being swallowed into a number (a date like "25, 2026"
 # must not merge into "252026") since whitespace is no longer in the token's character
 # class at all, and keeps a 4+ digit run after a separator from being misread as a
 # thousands group.
+#
+# Deliberately NO lookbehind/lookahead on this regex: an assertion anchored to a
+# fixed offset from the END of a greedy \d+ forces the engine to backtrack the digit
+# run to whatever shorter prefix satisfies it (e.g. "123kg" would shrink to "12" to
+# dodge a trailing-letter lookahead, silently corrupting the value — 123 and 120 both
+# collapsed to the same wrong "12"). Letters glued to a number are decided in Python
+# instead, by inspecting the plain string around each match (see _scan): a letter
+# (optionally letter+hyphen) immediately BEFORE a number means it's not a number at
+# all ("Y2K", the "4" in "GPT-4o"); a letter immediately AFTER a number is just a unit
+# or suffix ("123kg" is 123, "1990s" is 1990, "100MB" is 100) and never truncates the
+# digits — it only blocks a *multiplier* word/abbreviation from applying ("2km" is a
+# bare 2, not 2000, because "k" is directly followed by "m").
 NUM_CORE = r"\d{1,3}(?:[,.]\d{3})+(?!\d)|\d+(?:[.,]\d+)?"
-NUM = re.compile(r"(?<![A-Za-z])(" + NUM_CORE + r")\s*(" + UNIT + r")?(?![A-Za-z])", re.I)
+NUM = re.compile(r"(" + NUM_CORE + r")\s*(" + UNIT + r")?", re.I)
 CURRENCY_SYMS = "$€£¥₩"
 CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
+
+
+def _latin(ch):
+    return bool(ch) and ch.isascii() and ch.isalpha()
 
 
 def _unit_mult(unit):
@@ -87,11 +99,26 @@ def _scan(text):
     text = text or ""
     matches = []
     for m in NUM.finditer(text):
+        start = m.start()
+        # Glued to a preceding Latin letter — directly ("Y2K") or through a hyphen
+        # right after one ("GPT-4o", where the "4" follows "-" which follows "T") —
+        # means this is not a number at all.
+        prev = text[start - 1] if start >= 1 else ""
+        glued = _latin(prev)
+        if not glued and prev == "-" and start >= 2:
+            glued = _latin(text[start - 2])
+        if glued:
+            continue
         v = _value(m.group(1))
         if v is None:
             continue
         unit = m.group(2) or ""
         mult, is_cjk = _unit_mult(unit)
+        # A multiplier unit/abbreviation only multiplies when nothing is glued right
+        # after it ("5M users" is 5,000,000; "100MB" is a bare 100, since "M" is
+        # immediately followed by "B", not a boundary — it's a suffix, not a unit).
+        if unit and mult != 1 and _latin(text[m.end(): m.end() + 1]):
+            mult, is_cjk = 1, False
         matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
 
     out = []
