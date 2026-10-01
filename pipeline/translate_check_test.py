@@ -255,4 +255,30 @@ tgt_tok = {"headline": "Inference uses\n11,138 tokens on avg",
            "full": {"blocks": []}}
 assert check(src_tok, tgt_tok, "en") == [], check(src_tok, tgt_tok, "en")
 
+# Fix round 7: the round-6 compound merge was too permissive and fused unrelated
+# adjacent numbers. A bare remainder only merges when it fills the NEXT-LOWER order
+# of magnitude under the group's multiplier M (M/10 <= v2 < M) and is not itself
+# immediately followed by a date/time counter (년/월/일/시/분/초/…) — otherwise the
+# numbers stay separate. All prior merge asserts (above) must still hold.
+assert numbers("4조 5명 참석") == {4e12}
+assert numbers("4조 5000원 투자") == {4e12, 5000.0}
+assert numbers("3만 2024년 개봉") == {30000.0, 2024.0}
+assert numbers("1억 300kg") == {1e8, 300.0}
+assert numbers("5억 7시 출발") == {5e8}
+src_jobs = {"headline": "투자 유치\n5000명 고용 효과",
+            "body": "이번 라운드로 4조 원을 투자받고 5000명 고용 효과가 기대된다고 밝혔다.",
+            "full": {"blocks": []}}
+tgt_jobs = {"headline": "Funding round\ncreates 5000 jobs",
+            "body": "The round brings in 4 trillion won and is expected to create 5000 jobs, officials said.",
+            "full": {"blocks": []}}
+assert check(src_jobs, tgt_jobs, "en") == [], check(src_jobs, tgt_jobs, "en")
+
+# Fix round 7: "제" also marks the article prefix with optional whitespace before
+# the digits ("제 4조에 따라"), not just glued directly ("제4조").
+assert numbers("제 4조에 따라") == set()
+
+# Fix round 7 addendum: more generic acronyms with standard localized forms, not
+# product/org brand names (openai, gpt-6, ftc, c2pa, nvidia, etc. stay required).
+assert brand_tokens("DNA, ADHD, SNS, OTT, IPO, GPU") == set()
+
 print("translate_check OK")

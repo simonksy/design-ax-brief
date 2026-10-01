@@ -41,6 +41,10 @@ CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
 # 拾/佰/仟 (formal/anti-fraud variants of 十/百/千, mainly on Chinese cheques) are
 # deliberately not included — real news copy doesn't use them.
 _CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
+# A date/time counter right after a would-be CJK-group remainder means that number
+# is a date/time component, not a continuation of the group's count — "3만 2024년"
+# is 30,000 (something) and separately the year 2024, not 32,024 of anything.
+_DATE_TIME_COUNTERS = set("년年월月일日시時분分초秒")
 
 UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
 # A thousands separator (",") or European grouping dot (".") only counts as part of
@@ -102,12 +106,16 @@ def _is_article_marker(rest):
 
 
 def _trillion_valid(text, start, unit_end):
-    # "제" counts as the article marker ("제4조") only when IT is itself at a word
-    # boundary — whitespace, punctuation, or start of text right before it — so a
-    # word that merely ENDS in "제" ("경제4조" = "economy" + "4조") doesn't trigger
-    # it: numbers("경제4조 원 규모") must keep the 4e12.
-    if start >= 1 and text[start - 1] == "제":
-        prev2 = text[start - 2] if start >= 2 else ""
+    # "제" counts as the article marker ("제4조", "제 4조") only when IT is itself
+    # at a word boundary — whitespace, punctuation, or start of text right before
+    # it — so a word that merely ENDS in "제" ("경제4조" = "economy" + "4조")
+    # doesn't trigger it: numbers("경제4조 원 규모") must keep the 4e12. Optional
+    # whitespace between "제" and the digits is allowed ("제 4조에 따라").
+    idx = start - 1
+    while idx >= 0 and text[idx].isspace():
+        idx -= 1
+    if idx >= 0 and text[idx] == "제":
+        prev2 = text[idx - 1] if idx >= 1 else ""
         if not prev2.isalnum():
             return False
     return not _is_article_marker(text[unit_end:])
@@ -206,20 +214,31 @@ def _scan(text):
                 term += v2 * mult2
                 chain_mult, chain_cjk = mult2, cjk2
                 j += 1
-            elif (not cjk2 and mult2 == 1 and not u2 and v2 < chain_mult
+            elif (not cjk2 and mult2 == 1 and not u2
+                  and chain_mult / 10 <= v2 < chain_mult
                   and gap in ("", " ")
-                  and (e2 >= len(text) or not (text[e2].isdigit() or text[e2].isspace()))):
+                  and (e2 >= len(text) or (not (text[e2].isdigit() or text[e2].isspace())
+                                            and text[e2] not in _DATE_TIME_COUNTERS))):
                 # A bare (unitless) number right after a CJK magnitude group, with at
                 # most one space between them, is read as CONTINUING that group's
                 # count rather than a separate figure — Korean/Japanese commonly
                 # write a number as 만-group + remainder instead of a single Arabic
                 # numeral: "약 3만 5000부" = "about 35,000 copies", "1만1,138개" =
                 # "11,138 items" (the GROUPED comma form "1,138" is itself a single
-                # bare match here). Require the remainder to be immediately followed
-                # by a non-digit, non-whitespace counter (or end of text) — e.g. "부",
-                # "개", "명" fused directly on — rather than trying to resolve the
-                # genuinely ambiguous case of a *separate* number later in the same
-                # sentence; a particle-joined list like "3만 명과 5000명" never
+                # bare match here). But this must be NARROW: the remainder only
+                # merges when it fills the next-lower order of magnitude under the
+                # group's multiplier M (M/10 <= v2 < M — a 4-digit remainder under
+                # 만, an 11-digit-scale remainder under 조, …); otherwise "4조 5명"
+                # (4 trillion, 5 attendees) or "4조 5000원" (4 trillion won
+                # investment, separately 5000 won) would wrongly fuse into one
+                # number. It also never merges when immediately followed by a
+                # date/time counter (년/월/일/시/분/초/…) — "3만 2024년 개봉" is
+                # 30,000 (something) + the year 2024, not 32024 of anything. Require
+                # the remainder to be immediately followed by a non-digit,
+                # non-whitespace, non-date/time counter (or end of text) — e.g.
+                # "부", "개", "명" fused directly on — rather than trying to resolve
+                # the genuinely ambiguous case of a *separate* number later in the
+                # same sentence; a particle-joined list like "3만 명과 5000명" never
                 # reaches here anyway, since its gap is "명과" (non-empty, not a
                 # single space) and breaks the chain below.
                 term += v2
@@ -284,7 +303,10 @@ BRAND = re.compile(r"(?<![A-Za-z0-9])[A-Za-z][A-Za-z0-9.+\-]*[A-Za-z0-9](?![A-Za
 # for "UI") without that counting as a dropped brand/name.
 GENERIC_ACRONYMS = {"ai", "ui", "ux", "ceo", "cto", "cfo", "coo", "cpo",
                      "vr", "ar", "xr", "pc", "tv", "os",
-                     "eu", "us", "usa", "uk", "un", "g7", "g20", "nato", "oecd", "who"}
+                     "eu", "us", "usa", "uk", "un", "g7", "g20", "nato", "oecd", "who",
+                     "sns", "sf", "la", "ny", "dna", "adhd", "hd", "ott", "ugc", "mou",
+                     "ipo", "gdp", "faq", "pdf", "gps", "cpu", "gpu", "ram", "ssd", "usb",
+                     "ip", "rnd"}
 
 
 def brand_tokens(text):
@@ -334,8 +356,13 @@ def check(src, tgt, lang):
     # drops or changes hide behind an unrelated field that still has it (and vice
     # versa) — the headline has its own line-count check above but still carries
     # facts (e.g. a dollar amount) that must survive just like the body's.
+    # The "body" error label is deliberately "body/full text", not "body" — this
+    # check spans the one-line card body AND the long-form full.blocks paragraphs,
+    # and a bare "body" reads to a translator as just the one-line sentence,
+    # pushing them to stuff a dropped fact back into that line instead of wherever
+    # (body or full text) it actually belongs.
     for name, s_text, t_text in (("headline", _headline_text(src), _headline_text(tgt)),
-                                  ("body", _body_text(src), _body_text(tgt))):
+                                  ("body/full text", _body_text(src), _body_text(tgt))):
         s_num, t_num = numbers(s_text), numbers(t_text)
         missing, added = s_num - t_num, t_num - s_num
         # An idiomatic magnitude dropped on translation (see _idiomatic_pow10) is a
