@@ -41,4 +41,14 @@ tgt_h = {"headline": "국방부, AI 거짓말\n탐지에 5천만 달러",
          "body": "당국은 신규 채용자를 위한 더 빠른 심사 도구를 찾고 있다.",
          "full": {"blocks": []}}
 assert any("headline" in e and "number" in e for e in check(src_h, tgt_h, "ko"))
+
+# 겹친 한자/한글 단위("천만","백만","십만","천억","백억","십억")는 체인으로 곱해진다
+assert numbers("3천만 달러") == {30000000.0} == numbers("$30 million")
+# 인접한 두 단위 그룹(공백 또는 공백 없음)이 내려가는 자릿수면 하나의 수로 합산된다
+assert numbers("1억 2천만 원") == {120000000.0}
+assert numbers("3억5천만원") == {350000000.0}
+# 일본어 쉼표+万, 중국어/일본어 단위도 동일하게 동작
+assert numbers("5,000万円") == {50000000.0}
+# 숫자 없이 단위만 있는 토큰은 숫자가 아니다
+assert numbers("百万ドル") == set()
 print("translate_check OK")

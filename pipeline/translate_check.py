@@ -11,12 +11,45 @@ LIMITS = {"ko": {"line": 14, "body": (28, 46)}, "ja": {"line": 14, "body": (28, 
           "zh": {"line": 14, "body": (28, 46)}, "en": {"line": 32, "body": (70, 120)},
           "es": {"line": 32, "body": (70, 120)}}
 
-MULT = [(r"mil\s+millones", 1e9), (r"millones|millón|million|mn\b|m\b", 1e6),
-        (r"billones|billón", 1e12), (r"billion|bn\b|b\b", 1e9), (r"trillion", 1e12),
-        (r"thousand|mil\b|k\b", 1e3), (r"조|兆", 1e12), (r"억|億|亿", 1e8),
-        (r"만|万|萬", 1e4), (r"천|千", 1e3)]
-NUM = re.compile(r"(\d[\d,.\s]*\d|\d)\s*(%|" + "|".join(p for p, _ in MULT) + r")?", re.I)
+LATIN_MULT = [(r"mil\s+millones", 1e9), (r"millones|millón|million|mn\b|m\b", 1e6),
+              (r"billones|billón", 1e12), (r"billion|bn\b|b\b", 1e9), (r"trillion", 1e12),
+              (r"thousand|mil\b|k\b", 1e3)]
+
+# CJK magnitude characters are stacked, not chosen from one at a time: "천만" (lit.
+# "thousand ten-thousand") means (thousand × ten-thousand) = 10,000,000, the normal
+# Korean/Japanese/Chinese way to write $10M-scale numbers — "3천만 달러" is just as
+# common as "$30 million". Each character below contributes a multiplicative factor;
+# a run of them after one digit (e.g. "천만", "백만", "십억") multiplies together.
+# A *second* digit+unit run immediately after (only whitespace, or nothing, between
+# them) with a strictly smaller magnitude continues the SAME number rather than
+# starting a new one — "1억 2천만" is one number (120,000,000), not two ("1억" and
+# "2천만" written separately would be unusual, but when they ARE two separate figures
+# — e.g. "20억·50억 달러", two distinct dollar amounts — the magnitudes are equal, not
+# strictly decreasing, so they are correctly kept apart).
+CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
+                   "만": 1e4, "万": 1e4, "萬": 1e4, "천": 1e3, "千": 1e3,
+                   "백": 1e2, "십": 1e1}
+_CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
+
+UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
+NUM = re.compile(r"(\d[\d,.\s]*\d|\d)\s*(" + UNIT + r")?", re.I)
 CURRENCY = re.compile(r"[$€£¥₩]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
+
+
+def _unit_mult(unit):
+    """Multiplier for one matched unit token, and whether it's a CJK magnitude run
+    (stackable/chainable) as opposed to a Latin word or bare "%"."""
+    if not unit:
+        return 1, False
+    if all(c in CJK_UNIT_VALUES for c in unit):
+        mult = 1.0
+        for c in unit:
+            mult *= CJK_UNIT_VALUES[c]
+        return mult, True
+    if unit == "%":
+        return 1, False
+    low = unit.lower()
+    return next((f for p, f in LATIN_MULT if re.fullmatch(p, low, re.I)), 1), False
 
 
 def _value(raw):
@@ -32,19 +65,42 @@ def _value(raw):
 
 
 def numbers(text):
-    out = set()
-    for m in NUM.finditer(text or ""):
+    text = text or ""
+    matches = []
+    for m in NUM.finditer(text):
         v = _value(m.group(1))
         if v is None:
             continue
-        unit = (m.group(2) or "").lower()
-        mult = next((f for p, f in MULT if unit and re.fullmatch(p, unit, re.I)), 1)
-        tail = text[m.end(): m.end() + 12]
-        head = text[max(0, m.start() - 2): m.start()]
-        money = bool(CURRENCY.search(tail) or CURRENCY.search(head))
-        if mult == 1 and unit != "%" and not money and v.is_integer() and v <= 31:
-            continue
-        out.add(round(v * mult, 2))
+        unit = m.group(2) or ""
+        mult, is_cjk = _unit_mult(unit)
+        matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
+
+    out = set()
+    i, n = 0, len(matches)
+    while i < n:
+        start_i, end_i, v_i, unit_i, mult_i, cjk_i = matches[i]
+        term = v_i * mult_i
+        chain_mult, chain_cjk, j = mult_i, cjk_i, i
+        while chain_cjk and chain_mult > 1 and j + 1 < n:
+            s2, _e2, v2, _u2, mult2, cjk2 = matches[j + 1]
+            gap = text[matches[j][1]: s2]
+            if cjk2 and 1 < mult2 < chain_mult and gap.strip() == "":
+                term += v2 * mult2
+                chain_mult, chain_cjk = mult2, cjk2
+                j += 1
+            else:
+                break
+        # the bare day/month exemption only applies to a lone, unmerged, un-multiplied
+        # integer — a compound CJK number (mult > 1) is never a date
+        if j == i and mult_i == 1 and unit_i != "%":
+            tail = text[end_i: end_i + 12]
+            head = text[max(0, start_i - 2): start_i]
+            money = bool(CURRENCY.search(tail) or CURRENCY.search(head))
+            if not money and v_i.is_integer() and v_i <= 31:
+                i = j + 1
+                continue
+        out.add(round(term, 2))
+        i = j + 1
     return out
 
 
