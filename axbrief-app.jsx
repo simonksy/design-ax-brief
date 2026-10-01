@@ -512,8 +512,12 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
   // Share a per-card static page (/s/<section>/<id>) — it carries OG/Twitter meta so
   // the link unfurls with the card's image + headline, then redirects into the app
   // (/?c=<section>:<id>). The legacy ?c= link still works if anyone has one copied.
+  // Under a language route (/<lang>/…) share that language's page /s/<lang>/<section>/<id>;
+  // on the legacy / route keep /s/<section>/<id>.
+  const shareLang = (typeof window !== 'undefined' && window.AX_LANG
+    && window.location.pathname.indexOf('/' + window.AX_LANG + '/') === 0) ? window.AX_LANG + '/' : '';
   const shareUrl = (typeof window !== 'undefined' && item.id)
-    ? window.location.origin + '/s/' + (section || 'design') + '/' + item.id
+    ? window.location.origin + '/s/' + shareLang + (section || 'design') + '/' + item.id
     : '';
   const it = axEnrich(item);
   return (

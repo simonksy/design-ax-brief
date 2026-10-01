@@ -223,6 +223,10 @@
     $("tabs").appendChild(b);
   });
 
+  /* 언어 경로(/<lang>/archive)에서는 '← 홈' 링크도 같은 언어 홈으로 */
+  if (window.AX_LANG && location.pathname.indexOf("/" + window.AX_LANG + "/") === 0)
+    document.querySelector("a.back").setAttribute("href", "/" + window.AX_LANG + "/");
+
   /* 언어 메뉴 — 미리보기 플래그(Worker가 AX_I18N_ON 주입)일 때만. 언어 이름은 고정 라벨 */
   if (window.AX_I18N_ON) {
     var sel = document.createElement("select");
