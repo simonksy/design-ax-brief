@@ -127,6 +127,7 @@ if (!document.getElementById('ax-styles')) {
   .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
      padding:7px 15px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
+  .ax-lang{appearance:none;-webkit-appearance:none;background:transparent;padding:7px 13px;}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
@@ -362,6 +363,10 @@ function Eyebrow({ item, index, total, t }) {
 function SourceLine({ item, t }) {
   return <a className="ax-src" style={{ color: t.mute }} href={item.url} target="_blank" rel="noopener">{item.source} <span aria-hidden>↗</span></a>;
 }
+/* quiet gray note on a card served in a fallback language (build sets `untranslated`) */
+function UntranslatedNote({ t, style }) {
+  return <div className="ax-eyebrow" style={{ fontSize: 10, color: t.faint, ...style }}>{tx('card.untranslated')}</div>;
+}
 
 /* ---- enrich: derive eyebrow/body/motif when a card lacks them
    (day-deck cards carry only tool/headline/source) ---- */
@@ -529,6 +534,7 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
         {/* desktop pushes the source line to the card bottom; on mobile the card is
             content-height so the line simply follows the body (never clipped). */}
         <div style={{ flex: 1, minHeight: 14 }} />
+        {it.untranslated && <UntranslatedNote t={t} style={{ flex: '0 0 auto', marginTop: mobile ? 8 : 0 }} />}
         {/* footer: divider, then one clean row — full-width "Read" pill + share button.
             The source link lives only inside the full view now (bottom of the article);
             cards WITHOUT a Read button keep the source line so the link isn't lost. */}
@@ -588,6 +594,7 @@ function FullArticle({ item, t, section, onClose }) {
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
             {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {tx('card.preview_translated')}</span>
           </div>
+          {it.untranslated && <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
       </div>
@@ -622,13 +629,14 @@ function FullArticle({ item, t, section, onClose }) {
 function PremiumFullArticle({ item, t, section, onClose }) {
   const it = axEnrich(item);
   const solid = t.cardSolid || '#fbf8f3';
-  const [state, setState] = useState({ status: 'loading', blocks: null });
+  const [state, setState] = useState({ status: 'loading', blocks: null, lang: null });
+  const want = window.AX_LANG || 'ko';
   useEffect(() => {
     let alive = true;
-    setState({ status: 'loading', blocks: null });
-    fetch(`/api/premium/full?section=${encodeURIComponent(section || '')}&id=${encodeURIComponent(item.id || '')}`, { credentials: 'same-origin' })
+    setState({ status: 'loading', blocks: null, lang: null });
+    fetch(`/api/premium/full?section=${encodeURIComponent(section || '')}&id=${encodeURIComponent(item.id || '')}&lang=${encodeURIComponent(want)}`, { credentials: 'same-origin' })
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error('http_' + r.status))))
-      .then((d) => { if (alive) setState({ status: 'ready', blocks: (d.full && d.full.blocks) || [] }); })
+      .then((d) => { if (alive) setState({ status: 'ready', blocks: (d.full && d.full.blocks) || [], lang: d.lang || null }); })
       .catch(() => { if (alive) setState({ status: 'error', blocks: null }); });
     return () => { alive = false; };
   }, [section, item.id]);
@@ -637,6 +645,8 @@ function PremiumFullArticle({ item, t, section, onClose }) {
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
         <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>{it.eyebrow} · {it.tool}</div>
+          {(it.untranslated || (state.status === 'ready' && state.lang && state.lang !== want)) &&
+            <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
       </div>
@@ -1270,6 +1280,20 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
   );
 }
 
+/* ---- LangMenu: site-language picker. Only behind the preview flag (the Worker sets
+   window.AX_I18N_ON); language names are fixed endonyms, never translated. ---- */
+const AX_LANG_NAMES = [['en', 'English'], ['ko', '한국어'], ['ja', '日本語'], ['zh', '中文'], ['es', 'Español']];
+function LangMenu({ t }) {
+  if (!window.AX_I18N_ON) return null;
+  return (
+    <select className="ax-tab ax-lang" aria-label={tx('lang.menu')} title={tx('lang.menu')}
+      value={window.AX_LANG || 'ko'} onChange={(e) => window.axSetLang(e.target.value)}
+      style={{ color: t.mute, border: '1px solid ' + t.rule }}>
+      {AX_LANG_NAMES.map(([code, name]) => <option key={code} value={code}>{name}</option>)}
+    </select>
+  );
+}
+
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
 function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
@@ -1300,6 +1324,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
           </button>
         );
       })}
+      <LangMenu t={t} />
     </div>
   );
 }

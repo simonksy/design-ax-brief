@@ -59,6 +59,22 @@ assert r.returncode == 10, r.stdout + r.stderr
 saved = json.load(open(f))["cards"][0]
 assert saved["text"]["ko"] == KO and saved["body"] == KO["body"]
 assert len(json.load(open(os.path.join(d, "jobs_x.retry.json")))["jobs"]) == 3
+# UI dictionary jobs: only missing keys are sent, {placeholders} must survive, existing kept
+d2 = tempfile.mkdtemp(); os.makedirs(f"{d2}/i18n")
+json.dump({"a.x": "구독하기", "a.y": "{date} 소식 보는 중"}, open(f"{d2}/i18n/ko.json", "w"), ensure_ascii=False)
+json.dump({"a.x": "Subscribe (kept)"}, open(f"{d2}/i18n/en.json", "w"))
+uj = tr.ui_jobs(d2, langs=["en", "ja"])
+assert [(x["job_id"], sorted(x["src"])) for x in uj] == [("ui|en", ["a.y"]), ("ui|ja", ["a.x", "a.y"])]
+assert "Japanese" in uj[1]["prompt"] and "{placeholder}" in uj[1]["prompt"]
+retry = tr.apply_ui(d2, uj, {"ui|en": {"a.y": "Viewing {date}"},
+                             "ui|ja": {"a.x": "購読", "a.y": "ニュースを表示中"}})   # {date} lost
+assert json.load(open(f"{d2}/i18n/en.json")) == {"a.x": "Subscribe (kept)", "a.y": "Viewing {date}"}
+assert [x["job_id"] for x in retry] == ["ui|ja"] and "placeholder" in retry[0]["prompt"]
+assert not os.path.exists(f"{d2}/i18n/ja.json")
+assert tr.apply_ui(d2, retry, {"ui|ja": {"a.x": "購読", "a.y": "{date}のニュースを表示中"}}) == []
+assert json.load(open(f"{d2}/i18n/ja.json"))["a.y"] == "{date}のニュースを表示中"
+r = run("jobs", "--ui", "--root", d2, "--out", os.path.join(d2, "jobs_ui.json"))
+assert r.returncode == 0 and json.load(open(os.path.join(d2, "jobs_ui.json")))["kind"] == "ui"
 print("translate OK")
 
 # Fix round 1: malformed answers files and non-str/dict replies must not crash

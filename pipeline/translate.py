@@ -9,17 +9,22 @@ translating inside the normal pipeline run; this script prepares the work and ju
         exit 0  = every job resolved (translated, or recorded as fallback)
         exit 10 = some answers failed translate_check -> jobs_<S>.retry.json (errors fed
                   back into each prompt); run ax-translator on it and apply again.
+UI dictionary (i18n/ko.json -> i18n/<lang>.json, missing keys only, then build_i18n.py):
+    python3 translate.py jobs  --ui [--root R] --out jobs_ui.json
+    python3 translate.py apply --jobs jobs_ui.json --answers answers_ui.json
 A job gets MAX_ATTEMPTS tries; a language that still fails is recorded in
 `i18n_status` and the build serves the fallback language with an "untranslated" label."""
 import argparse
 import json
 import os
 import re
+import subprocess
 import sys
 
 from i18n_text import LANGS, TEXT_FIELDS, source_fields
 from translate_check import LIMITS, check
 
+HERE = os.path.dirname(os.path.abspath(__file__))
 MAX_ATTEMPTS = 3
 NAMES = {"en": "English", "ko": "Korean", "ja": "Japanese", "zh": "Simplified Chinese",
          "es": "Spanish", "de": "German", "fr": "French"}
@@ -164,6 +169,68 @@ def _load_answers(path):
     return obj
 
 
+UI_RULES = ("- Translate these UI strings of a calm news-briefing website from Korean into {lang}. "
+            "Short, natural UI wording.\n- Keep every {{placeholder}} token (like {{date}}) exactly.\n"
+            "- Answer with ONLY a JSON object with exactly the same keys.\n")
+
+
+def _ui_job(lang, todo, attempt=1, errors=None):
+    prompt = UI_RULES.format(lang=NAMES[lang])
+    if errors:
+        prompt += "- Your previous answer failed these checks — fix them: " + "; ".join(errors) + "\n"
+    return {"job_id": f"ui|{lang}", "key": "ui", "lang": lang, "attempt": attempt, "src": todo,
+            "prompt": prompt + "\nINPUT:\n" + json.dumps(todo, ensure_ascii=False)}
+
+
+def ui_jobs(root, langs=None):
+    """One job per language holding only the i18n/ko.json keys that language lacks."""
+    d = os.path.join(root, "i18n")
+    ko = _load(os.path.join(d, "ko.json"))
+    jobs = []
+    for lang in (langs or [l for l in LANGS if l != "ko"]):
+        cur = _load(os.path.join(d, f"{lang}.json"), default={})
+        todo = {k: v for k, v in ko.items() if k not in cur}
+        if todo:
+            jobs.append(_ui_job(lang, todo))
+    return jobs
+
+
+def _placeholders(s):
+    return sorted(re.findall(r"\{\w+\}", s if isinstance(s, str) else ""))
+
+
+def apply_ui(root, jobs, answers):
+    """Merge passing answers into i18n/<lang>.json (existing translations kept); a missing
+    key, a non-string value or a lost {placeholder} sends the whole job back for retry."""
+    d = os.path.join(root, "i18n")
+    retry = []
+    for job in jobs:
+        todo, lang = job["src"], job["lang"]
+        out, errs = None, []
+        if job["job_id"] not in answers:
+            errs = ["no answer"]
+        else:
+            try:
+                out = parse_reply(answers[job["job_id"]])
+            except ValueError as e:
+                errs = [f"invalid reply: {e}"]
+        if out is not None:
+            errs = [f"{k}: missing" for k in todo if k not in out] + \
+                   [f"{k}: not a string" for k in todo if k in out and not isinstance(out[k], str)] + \
+                   [f"{k}: placeholder lost" for k in todo if isinstance(out.get(k), str)
+                    and _placeholders(todo[k]) != _placeholders(out[k])]
+        if out is not None and not errs:
+            p = os.path.join(d, f"{lang}.json")
+            cur = _load(p, default={})
+            cur.update({k: out[k] for k in todo})
+            _save(p, cur)
+        elif job["attempt"] < MAX_ATTEMPTS:
+            retry.append(_ui_job(lang, todo, job["attempt"] + 1, errs))
+        else:
+            print(f"  [ui] {lang} failed: {'; '.join(errs)} — Korean shown for these keys", file=sys.stderr)
+    return retry
+
+
 def cmd_jobs(kind, path, out, **kw):
     doc = _load(path)
     jobs = [j for key, c in TARGETS[kind](doc, **kw).items() for j in card_jobs(c, key)]
@@ -172,9 +239,14 @@ def cmd_jobs(kind, path, out, **kw):
     return 0
 
 
-def cmd_apply(jobs_path, answers_path, retry_out=None):
-    jf = _load(jobs_path)
-    answers = _load_answers(answers_path)
+def cmd_jobs_ui(root, out):
+    jobs = ui_jobs(root)
+    _save(out, {"kind": "ui", "target": os.path.abspath(root), "jobs": jobs})
+    print(f"{len(jobs)} job(s) -> {out}")
+    return 0
+
+
+def _apply_cards(jf, answers):
     doc = _load(jf["target"])
     index = TARGETS[jf["kind"]](doc)
     by_key = {}
@@ -188,12 +260,24 @@ def cmd_apply(jobs_path, answers_path, retry_out=None):
             continue
         retry += apply_to_card(card, jobs, answers)
     _save(jf["target"], doc)
+    return retry
+
+
+def cmd_apply(jobs_path, answers_path, retry_out=None):
+    jf = _load(jobs_path)
+    answers = _load_answers(answers_path)
+    if jf["kind"] == "ui":
+        retry = apply_ui(jf["target"], jf["jobs"], answers)
+    else:
+        retry = _apply_cards(jf, answers)
     if retry:
         rp = retry_out or re.sub(r"(\.retry)?\.json$", ".retry.json", jobs_path)
         _save(rp, {"kind": jf["kind"], "target": jf["target"], "jobs": retry})
         print(f"{len(retry)} job(s) need another pass -> {rp}")
         return 10
     print("all jobs resolved")
+    if jf["kind"] == "ui":
+        subprocess.run([sys.executable, os.path.join(HERE, "build_i18n.py"), "--root", jf["target"]])
     return 0
 
 
@@ -201,7 +285,9 @@ def main(argv):
     ap = argparse.ArgumentParser()
     sub = ap.add_subparsers(dest="cmd", required=True)
     j = sub.add_parser("jobs")
-    j.add_argument("--cards", required=True)
+    j.add_argument("--cards")
+    j.add_argument("--ui", action="store_true", help="translate the i18n/ko.json UI dictionary")
+    j.add_argument("--root", default=os.path.dirname(HERE), help="repo root holding i18n/ (with --ui)")
     j.add_argument("--out", required=True)
     a = sub.add_parser("apply")
     a.add_argument("--jobs", required=True)
@@ -209,6 +295,10 @@ def main(argv):
     a.add_argument("--retry-out")
     args = ap.parse_args(argv)
     if args.cmd == "jobs":
+        if args.ui:
+            return cmd_jobs_ui(args.root, args.out)
+        if not args.cards:
+            ap.error("jobs needs --cards or --ui")
         return cmd_jobs("cards", args.cards, args.out)
     return cmd_apply(args.jobs, args.answers, args.retry_out)
 

@@ -430,6 +430,9 @@ function CardOverlay({ it, num, tot, t }) {
       <p className="ax-body" style={{ color: 'rgba(255,255,255,.85)', fontSize: 'clamp(14px,1.05vw,18px)',
         lineHeight: 1.56, marginTop: 14 }}>{it.body}</p>
       <div style={{ marginTop: 18 }}><SourceLine item={it} t={t} /></div>
+      {it.untranslated && (
+        <div className="ax-eyebrow" style={{ fontSize: 10, color: 'rgba(255,255,255,.6)', marginTop: 8 }}>{tx('card.untranslated')}</div>
+      )}
     </div>
   );
 }

@@ -32,6 +32,8 @@
     padding: 6px 13px; cursor: pointer; }
   .tab:hover { border-color: #a49c8d; }
   .tab.on { background: #171717; border-color: #171717; color: #fff; }
+  .lang { appearance: none; -webkit-appearance: none; }
+  .untr { flex: none; font-size: 10.5px; color: #a49c8d; white-space: nowrap; }
   .search { display: block; width: 100%; max-width: 420px; margin: 0 auto; font-size: 14px;
     font-family: inherit; border: 1px solid #d9d2c6; border-radius: 12px; background: #faf7f1;
     padding: 9px 14px; outline: none; color: #171717; }
@@ -220,6 +222,22 @@
     $("tabs").appendChild(b);
   });
 
+  /* 언어 메뉴 — 미리보기 플래그(Worker가 AX_I18N_ON 주입)일 때만. 언어 이름은 고정 라벨 */
+  if (window.AX_I18N_ON) {
+    var sel = document.createElement("select");
+    sel.className = "tab lang";
+    sel.setAttribute("aria-label", t("lang.menu"));
+    sel.title = t("lang.menu");
+    [["en", "English"], ["ko", "한국어"], ["ja", "日本語"], ["zh", "中文"], ["es", "Español"]].forEach(function (o) {
+      var opt = document.createElement("option");
+      opt.value = o[0]; opt.textContent = o[1];
+      sel.appendChild(opt);
+    });
+    sel.value = window.AX_LANG || "ko";
+    sel.onchange = function () { window.axSetLang(sel.value); };
+    $("tabs").appendChild(sel);
+  }
+
   var deb;
   $("q").addEventListener("input", function () {
     clearTimeout(deb);
@@ -275,7 +293,8 @@
         meta.className = "meta";
         var chip = c.tool || c.section;
         meta.innerHTML =
-          '<div class="chiprow"><span class="chip">' + esc(chip) + '</span><span class="src">' + esc(c.source || "") + '</span></div>' +
+          '<div class="chiprow"><span class="chip">' + esc(chip) + '</span><span class="src">' + esc(c.source || "") + '</span>' +
+          (c.untranslated ? '<span class="untr">' + esc(t("card.untranslated")) + '</span>' : '') + '</div>' +
           '<div class="hl">' + esc((c.headline || "").replace(/\n/g, " ")) + '</div>' +
           '<div class="bd">' + esc(c.body || "") + '</div>';
         a.appendChild(img); a.appendChild(meta);
