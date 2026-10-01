@@ -32,7 +32,6 @@
     padding: 6px 13px; cursor: pointer; }
   .tab:hover { border-color: #a49c8d; }
   .tab.on { background: #171717; border-color: #171717; color: #fff; }
-  .lang { appearance: none; -webkit-appearance: none; }
   .untr { flex: none; font-size: 10.5px; color: #a49c8d; white-space: nowrap; }
   .search { display: block; width: 100%; max-width: 420px; margin: 0 auto; font-size: 14px;
     font-family: inherit; border: 1px solid #d9d2c6; border-radius: 12px; background: #faf7f1;
@@ -226,22 +225,6 @@
   /* 언어 경로(/<lang>/archive)에서는 '← 홈' 링크도 같은 언어 홈으로 */
   if (window.AX_LANG && location.pathname.indexOf("/" + window.AX_LANG + "/") === 0)
     document.querySelector("a.back").setAttribute("href", "/" + window.AX_LANG + "/");
-
-  /* 언어 메뉴 — 미리보기 플래그(Worker가 AX_I18N_ON 주입)일 때만. 언어 이름은 고정 라벨 */
-  if (window.AX_I18N_ON) {
-    var sel = document.createElement("select");
-    sel.className = "tab lang";
-    sel.setAttribute("aria-label", t("lang.menu"));
-    sel.title = t("lang.menu");
-    [["en", "English"], ["ko", "한국어"], ["ja", "日本語"], ["zh", "中文"], ["es", "Español"]].forEach(function (o) {
-      var opt = document.createElement("option");
-      opt.value = o[0]; opt.textContent = o[1];
-      sel.appendChild(opt);
-    });
-    sel.value = window.AX_LANG || "ko";
-    sel.onchange = function () { window.axSetLang(sel.value); };
-    $("tabs").appendChild(sel);
-  }
 
   var deb;
   $("q").addEventListener("input", function () {

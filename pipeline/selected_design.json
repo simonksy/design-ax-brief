@@ -1,94 +1,101 @@
 {
- "date": "2026-10-01",
- "section": "design",
- "picks": [
-  {
-   "rank": 1,
-   "title": "Maxon releases Cinema 4D 2026.4 with a new MCP Server",
-   "url": "https://www.cgchannel.com/2026/09/maxon-releases-cinema-4d-2026-4-with-a-new-mcp-server/",
-   "source": "CG Channel",
-   "category": "render",
-   "tool": "KeyShot",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "published_iso": "2026-09-30T14:52:00Z",
-   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
-   "excerpt": "Cinema 4D 2026.4 adds an official MCP Server so Claude Desktop or ChatGPT Desktop can drive routine scene, render and rigging tasks via natural-language prompts; local, off by default, 'not a generative system'.",
-   "rationale": "Major DCC tool ships an official MCP bridge — directly changes 3D/motion designers' daily workflow; CG Channel chosen over Creative Bloq/DEVELOP3D (same story; Creative Bloq URL is also in movies' pool)."
-  },
-  {
-   "rank": 2,
-   "title": "Photoshop's controversial new AI tool is dividing opinion",
-   "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-   "source": "Creative Bloq",
-   "category": "workflow",
-   "tool": "AI Workflow",
-   "accent": "#ff5a4d",
-   "motif": "frame",
-   "published_iso": "2026-09-30T07:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
-   "excerpt": "Relight, a generative AI feature in Photoshop beta, strips an image's lighting and lets you add up to three controllable lights; early results split opinion over a 3D-avatar look. 30 credits per render.",
-   "rationale": "New Photoshop beta feature with hands-on usage details plus the craft debate — actionable for retouchers/visual designers."
-  },
-  {
-   "rank": 3,
-   "title": "Introducing Runway Ads",
-   "url": "https://runway.com/news/introducing-runway-ads",
-   "source": "Runway",
-   "category": "render",
-   "tool": "KeyShot",
-   "accent": "#eb367f",
-   "motif": "sphere",
-   "published_iso": "2026-09-30T18:32:00Z",
-   "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
-   "excerpt": "Runway Ads connects an ad account and brand kit, generates video/image creative, publishes approved variants to Meta, Google and TikTok, reads performance back and produces the next round.",
-   "rationale": "Primary-source product launch that automates the creative-iteration loop for brand/marketing designers."
-  },
-  {
-   "rank": 4,
-   "title": "OwlCAD brings parametric CAD and AI-powered design to the browser",
-   "url": "https://www.voxelmatters.com/owlcad-brings-parametric-cad-and-ai-powered-design-to-the-browser/",
-   "source": "VoxelMatters",
-   "category": "cad",
-   "tool": "Text-to-CAD",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "published_iso": "2026-09-30T09:00:14+00:00",
-   "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
-   "excerpt": "Spare Matter's browser-based OwlCAD returns AI-described parts as editable parametric node trees; Pro plan adds AI and a hosted 29-tool MCP server for Claude Code, Cursor and other agents.",
-   "rationale": "Text-to-CAD that keeps editable dimensions + agent MCP access — concrete for product/industrial designers; fills the CAD slot."
-  },
-  {
-   "rank": 5,
-   "title": "AI Has Changed What Makes a Great Designer",
-   "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
-   "source": "Core77",
-   "category": "workflow",
-   "tool": "AI Workflow",
-   "accent": "#3b6bff",
-   "motif": "frame",
-   "published_iso": "2026-09-29T14:07:00Z",
-   "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
-   "excerpt": "Parsons professor Steven Faerm argues that as AI makes production abundant, organizations should hire and evaluate designers on problem framing and judgment, and decide deliberately where AI enters the process.",
-   "rationale": "Design-org (AX) perspective on hiring, reviews and junior development — directly relevant to a design organization's AI transformation."
+  "date": "2026-10-02",
+  "section": "design",
+  "picks": [
+    {
+      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "title": "Release Notes 2026: September Edition",
+      "rationale": "Figma's September Release Notes ship new Figma Motion features (custom animation styles, audio, text animations for design systems), so it's a concrete release designers can use tomorrow.",
+      "published_iso": "2026-10-01T10:15:32-07:00",
+      "og_image": "https://i.ytimg.com/vi/1lnuBH7CbEY/maxresdefault.jpg",
+      "excerpt": "New Figma Motion and features in the canvas just dropped at Release Notes: → Custom animation styles, audio, and text animations for your design system  → Ap..."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "rationale": "New product launch: Shopify Canvas lets merchants build and restyle storefronts conversationally with live preview, which changes how commerce UI gets designed.",
+      "published_iso": "2026-10-01T16:44:35+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+      "excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
+    },
+    {
+      "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "title": "We asked five AI tools to build accessible websites. All 15 sites failed.",
+      "rationale": "Hard data (AudioEye study) that every AI-built site failed WCAG Level A, a direct, actionable warning for anyone shipping AI-generated UI.",
+      "published_iso": "2026-09-30T14:30:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png",
+      "excerpt": "An AudioEye study had OpenAI, Anthropic, Google, xAI and Lovable tools build 15 sites; all failed WCAG Level A, averaging 55 issues per page, while 81% of teams believe AI code is compliant."
+    },
+    {
+      "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "title": "Workflow Lab: From Design System to Campaign in Figma Weave",
+      "rationale": "Hands-on Weave recipe using the Gen Effect and Figma nodes to turn design-system raw materials into campaign collateral; a reproducible workflow, distinct from the 9/17 community-publishing story.",
+      "published_iso": "2026-10-01T16:48:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and Figma nodes in Figma Weave."
+    },
+    {
+      "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7",
+      "source": "UX Collective",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "title": "Headless AI will make every product a platform. Here's what to consider when designing for this.",
+      "rationale": "Fresh design-practice insight: when agents consume products headlessly, the design surface moves to the contract underneath, with concrete considerations for designers.",
+      "published_iso": "2026-09-30T23:10:18Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*6iRJB6ItsfYbPIy5nfFPsA.png",
+      "excerpt": "Chat will always be just an interface; agents are not, and the design work has moved to the contract underneath your product."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.youtube.com/watch?v=1lnuBH7CbEY": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=spMhSWAmduw",
+        "new_action": ""
+      },
+      "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as running-story repeats: Verge 'Inside Microsoft's big Copilot rethink' (same Copilot 'OS for work'/super-app story published 2026-09-26, commentary with no new release); Engineering.com 'Welcome to the vibe-CAD era' (Backflip review/commentary, the running Backflip X-to-CAD story was published 2026-09-18). Excluded as AI-business noise: Runway joins OpenAI Marketplace (partnership/distribution), Synopsys + OpenAI partnership. Off-topic for design: Gemini 4 Argon (frontier model launch), Gemini skills, Guided Vision accessibility assistant, ChatGPT virtual try-on (consumer shopping). Lower-scored: Builder.io agent-loop, DEV Lovable/Bolt handoff guide, UX Collective Jevons/attention essays (same outlet, opinion), Engineering.com AI-recommendations op-ed, Lightroom search and Firefly upscale promo videos. History-match on the Release Notes video (Figma Motion shaders basics, 9/20) and Weave Workflow Lab (Weave community tools, 9/17) reviewed: both cover different content/releases, so kept as new. No cluster ids present; 5 distinct outlets, max 2 per category (workflow)."
   }
- ],
- "set_aside": [
-  {
-   "url": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d",
-   "reason": "same story as pick 1 (Cinema 4D MCP)"
-  },
-  {
-   "url": "https://develop3d.com/visualisation/cinema-4d-mcp-server/",
-   "reason": "same story as pick 1"
-  },
-  {
-   "url": "https://www.cined.com/adobe-after-effects-ai-assistant-enters-public-beta-whole-project-scope-expression-rigs-and-project-cleanup/",
-   "reason": "same-story dupe: AE AI Assistant beta published 2026-09-12 (cgchannel)"
-  },
-  {
-   "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
-   "reason": "Backflip X-to-CAD already covered 2026-09-18 (develop3d); kept as backup only"
-  }
- ]
 }

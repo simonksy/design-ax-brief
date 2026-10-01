@@ -1,31 +1,31 @@
 {
- "date": "2026-10-01",
- "section": "books",
- "media": [
-  {
-   "id": "books-springer-ai-slop",
-   "type": "image",
-   "src": "pipeline/media/books-springer-ai-slop.jpg"
-  },
-  {
-   "id": "books-kpa-ai-data-mou",
-   "type": "image",
-   "src": "pipeline/media/books-kpa-ai-data-mou.png"
-  },
-  {
-   "id": "books-chatgpt-book-recs",
-   "type": "image",
-   "src": "pipeline/media/books-chatgpt-book-recs.jpg"
-  },
-  {
-   "id": "books-dutch-meta-protest",
-   "type": "image",
-   "src": "pipeline/media/books-dutch-meta-protest.jpg"
-  },
-  {
-   "id": "books-guild-anthropic-share",
-   "type": "image",
-   "src": "pipeline/media/books-guild-anthropic-share.jpg"
-  }
- ]
+  "date": "2026-10-02",
+  "section": "books",
+  "media": [
+    {
+      "id": "audible-worlds",
+      "type": "image",
+      "src": "pipeline/media/audible-worlds.png"
+    },
+    {
+      "id": "idpa-finalists",
+      "type": "image",
+      "src": "pipeline/media/idpa-finalists.png"
+    },
+    {
+      "id": "opus-tells",
+      "type": "image",
+      "src": "pipeline/media/opus-tells.jpg"
+    },
+    {
+      "id": "ai-comic-dramas",
+      "type": "image",
+      "src": "pipeline/media/ai-comic-dramas.jpg"
+    },
+    {
+      "id": "ai-narration-trojan",
+      "type": "image",
+      "src": "pipeline/media/ai-narration-trojan.jpg"
+    }
+  ]
 }

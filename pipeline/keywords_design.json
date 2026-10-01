@@ -1,601 +1,196 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "section": "design",
  "plan_notes": {
   "mode": "override: ALL design core + ENTIRE pool used (no rotation); planned without WebSearch",
   "user_seeds": [],
-  "social_rotation": "day-of-year 274: YouTube Google Design/Matt Wolfe/Theo/Two Minute Papers/Jesse Showalter; IG adobe/awwwards",
+  "social_rotation": "day-of-year 275 (275 mod 13 = 2): YouTube Adobe/Microsoft Design/Fireship/DesignCourse/AI Jason/Figma; IG midjourney/runway (275 mod 7 = 2)",
   "recently_covered_avoid": [
+   "Cinema 4D 2026.4 MCP server (10/1)",
+   "Flux AI PCB enclosure text-to-CAD (10/1)",
+   "Claude Opus 5.5 website showdown, The AI Advantage (10/1)",
    "Adobe plugin hands-on editing in ChatGPT (9/30)",
    "Claude Sonnet 5.5 (9/30)",
    "UX Collective de-slopify (9/30)",
    "OpenAI Dots mascots (9/30)",
    "Meta hologram avatars (9/30)",
    "CorelDRAW Text-to-Vector (9/29)",
-   "UserTesting MCP (9/29)",
-   "Nano Banana 2.1 leak (9/29)",
-   "Google Stitch brand UI (9/28)",
-   "Photoshop/Lightroom in Gemini (9/28)"
+   "UserTesting MCP (9/29)"
   ],
-  "dedup_hint": "OpenAI DevDay 9/29 and Sonnet 5.5 already covered; prefer different vendors"
+  "dedup_hint": "MCP-in-creative-app and Claude 5.5 model stories already covered 9/30-10/1; prefer other vendors (Figma, Google, Adobe Firefly video, Autodesk, XR, Nvidia) and genuinely new releases; The AI Advantage deprioritized in social today"
  },
  "working_keywords": {
-  "core": [
-   "AI Design Tool",
-   "Design AX",
-   "AI Workflow"
-  ],
-  "tools_creative": [
-   "Higgsfield",
-   "Kling",
-   "Runway",
-   "Sora",
-   "Midjourney",
-   "Adobe Firefly",
-   "Google Veo",
-   "Luma Dream Machine",
-   "Pika",
-   "Krea",
-   "Stable Diffusion",
-   "Flux"
-  ],
-  "tools_design_code": [
-   "Figma",
-   "Claude Design",
-   "Claude Code",
-   "v0 Vercel",
-   "Framer AI",
-   "Cursor",
-   "Lovable",
-   "Bolt",
-   "Generative UI",
-   "Design-to-code",
-   "Vibe coding",
-   "Model Context Protocol"
-  ],
-  "models_labs": [
-   "OpenAI",
-   "ChatGPT",
-   "Anthropic",
-   "Gemini",
-   "Meta",
-   "Ollama",
-   "Llama",
-   "Mistral",
-   "Grok xAI",
-   "DeepSeek"
-  ],
-  "concepts": [
-   "AI Agent",
-   "Agentic AI",
-   "Physical AI",
-   "Embodied AI",
-   "World models",
-   "Multimodal AI"
-  ],
-  "people": [
-   "Yann LeCun",
-   "Andrej Karpathy",
-   "Dario Amodei",
-   "Sam Altman",
-   "Demis Hassabis",
-   "Fei-Fei Li",
-   "Ilya Sutskever",
-   "Mira Murati",
-   "Jensen Huang"
-  ],
-  "frontier_broad": [
-   "Nvidia",
-   "Figure AI",
-   "Tesla Optimus",
-   "1X robot",
-   "Boston Dynamics",
-   "Humanoid robot",
-   "Apple Vision Pro",
-   "Meta Quest",
-   "Spatial computing",
-   "Meta Ray-Ban",
-   "Suno",
-   "Udio",
-   "ElevenLabs",
-   "Hugging Face",
-   "open-source AI",
-   "AGI",
-   "superintelligence",
-   "AI safety",
-   "AI regulation",
-   "Enterprise AI agents"
-  ],
-  "social": [
-   "Figma YouTube",
-   "Vercel YouTube",
-   "Matt Wolfe AI",
-   "The AI Advantage",
-   "Fireship AI",
-   "DesignCourse",
-   "AI design tutorial YouTube",
-   "Midjourney Instagram",
-   "Runway Instagram",
-   "Awwwards",
-   "design AI reel"
-  ]
+  "core": ["AI Design Tool", "Design AX", "AI Workflow"],
+  "tools_creative": ["Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly", "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"],
+  "tools_design_code": ["Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor", "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding", "Model Context Protocol"],
+  "models_labs": ["OpenAI", "ChatGPT", "Anthropic", "Gemini", "Meta", "Ollama", "Llama", "Mistral", "Grok xAI", "DeepSeek"],
+  "concepts": ["AI Agent", "Agentic AI", "Physical AI", "Embodied AI", "World models", "Multimodal AI"],
+  "people": ["Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman", "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"],
+  "frontier_broad": ["Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics", "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing", "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face", "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation", "Enterprise AI agents"],
+  "social": ["Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage", "Fireship AI", "DesignCourse", "AI design tutorial YouTube", "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"]
  },
  "expansions": {
-  "AI Design Tool": [
-   "AI 디자인 툴",
-   "generative design software",
-   "AI features for designers"
-  ],
-  "Design AX": [
-   "디자인 AI 전환",
-   "design team AI adoption",
-   "AI transformation design org"
-  ],
-  "AI Workflow": [
-   "AI 워크플로",
-   "agentic design workflow",
-   "AI-assisted product design process"
-  ],
-  "Higgsfield": [
-   "Higgsfield AI video",
-   "Higgsfield Soul",
-   "cinematic camera control AI"
-  ],
-  "Kling": [
-   "Kling 3",
-   "Kuaishou Kling AI video"
-  ],
-  "Runway": [
-   "Runway Gen-4",
-   "Runway Aleph",
-   "Runway world model"
-  ],
-  "Sora": [
-   "Sora 2",
-   "OpenAI Sora app"
-  ],
-  "Midjourney": [
-   "Midjourney V8",
-   "Midjourney video"
-  ],
-  "Adobe Firefly": [
-   "Firefly Image model",
-   "Photoshop generative fill",
-   "Adobe Express AI"
-  ],
-  "Google Veo": [
-   "Veo 3",
-   "Google Flow",
-   "Nano Banana"
-  ],
-  "Luma Dream Machine": [
-   "Luma Ray",
-   "Luma AI video"
-  ],
-  "Pika": [
-   "Pika Labs",
-   "Pikaffects"
-  ],
-  "Krea": [
-   "Krea AI realtime",
-   "Krea 1"
-  ],
-  "Stable Diffusion": [
-   "Stability AI",
-   "SD 3.5",
-   "ComfyUI"
-  ],
-  "Flux": [
-   "Black Forest Labs FLUX",
-   "FLUX Kontext"
-  ],
-  "Figma": [
-   "Figma Make",
-   "Figma AI",
-   "Figma Sites",
-   "Figma MCP server"
-  ],
-  "Claude Design": [
-   "Anthropic Claude design",
-   "Claude artifacts UI"
-  ],
-  "Claude Code": [
-   "Claude Code designers",
-   "Claude Code frontend"
-  ],
-  "v0 Vercel": [
-   "v0.dev",
-   "Vercel AI SDK"
-  ],
-  "Framer AI": [
-   "Framer Wireframer",
-   "Framer AI site builder"
-  ],
-  "Cursor": [
-   "Cursor IDE",
-   "Cursor agent"
-  ],
-  "Lovable": [
-   "Lovable app builder"
-  ],
-  "Bolt": [
-   "Bolt.new",
-   "StackBlitz Bolt"
-  ],
-  "Generative UI": [
-   "AI-generated interfaces",
-   "dynamic UI generation"
-  ],
-  "Design-to-code": [
-   "Figma to React AI",
-   "design handoff AI"
-  ],
-  "Vibe coding": [
-   "바이브 코딩",
-   "prompt-to-app"
-  ],
-  "Model Context Protocol": [
-   "MCP server design tools",
-   "MCP integration"
-  ],
-  "OpenAI": [
-   "GPT-5",
-   "OpenAI image generation",
-   "OpenAI devices"
-  ],
-  "ChatGPT": [
-   "ChatGPT apps",
-   "ChatGPT canvas",
-   "ChatGPT agent"
-  ],
-  "Anthropic": [
-   "Claude Opus",
-   "Claude Sonnet",
-   "Anthropic release"
-  ],
-  "Gemini": [
-   "Gemini 3",
-   "Gemini Canvas",
-   "Google AI Studio"
-  ],
-  "Meta": [
-   "Meta AI",
-   "Meta superintelligence lab"
-  ],
-  "Ollama": [
-   "local LLM",
-   "Ollama app"
-  ],
-  "Llama": [
-   "Llama 5",
-   "Meta open model"
-  ],
-  "Mistral": [
-   "Mistral Medium",
-   "Le Chat"
-  ],
-  "Grok xAI": [
-   "Grok Imagine",
-   "xAI Grok 5"
-  ],
-  "DeepSeek": [
-   "DeepSeek V4",
-   "DeepSeek R2"
-  ],
-  "AI Agent": [
-   "AI 에이전트",
-   "computer-use agent"
-  ],
-  "Agentic AI": [
-   "agentic workflows",
-   "multi-agent"
-  ],
-  "Physical AI": [
-   "피지컬 AI",
-   "Nvidia Cosmos"
-  ],
-  "Embodied AI": [
-   "robot foundation model",
-   "Gemini Robotics"
-  ],
-  "World models": [
-   "World Labs Marble",
-   "Genie 3",
-   "interactive 3D worlds"
-  ],
-  "Multimodal AI": [
-   "image-video-audio model",
-   "omni model"
-  ],
-  "Yann LeCun": [
-   "LeCun world model startup",
-   "JEPA"
-  ],
-  "Andrej Karpathy": [
-   "Karpathy Eureka Labs",
-   "software 3.0"
-  ],
-  "Dario Amodei": [
-   "Anthropic CEO"
-  ],
-  "Sam Altman": [
-   "OpenAI CEO",
-   "Altman io device"
-  ],
-  "Demis Hassabis": [
-   "Google DeepMind CEO"
-  ],
-  "Fei-Fei Li": [
-   "World Labs",
-   "spatial intelligence"
-  ],
-  "Ilya Sutskever": [
-   "Safe Superintelligence SSI"
-  ],
-  "Mira Murati": [
-   "Thinking Machines Lab"
-  ],
-  "Jensen Huang": [
-   "Nvidia keynote",
-   "GTC"
-  ],
-  "Nvidia": [
-   "Nvidia Omniverse",
-   "RTX AI",
-   "Nvidia Cosmos"
-  ],
-  "Figure AI": [
-   "Figure 03"
-  ],
-  "Tesla Optimus": [
-   "Optimus V3"
-  ],
-  "1X robot": [
-   "1X NEO home robot"
-  ],
-  "Boston Dynamics": [
-   "Atlas electric"
-  ],
-  "Humanoid robot": [
-   "휴머노이드 로봇",
-   "humanoid industrial design"
-  ],
-  "Apple Vision Pro": [
-   "visionOS 26",
-   "Vision Pro M5"
-  ],
-  "Meta Quest": [
-   "Quest 4",
-   "Horizon OS"
-  ],
-  "Spatial computing": [
-   "공간 컴퓨팅",
-   "Android XR",
-   "Galaxy XR"
-  ],
-  "Meta Ray-Ban": [
-   "Ray-Ban Display",
-   "Meta smart glasses"
-  ],
-  "Suno": [
-   "Suno v5",
-   "Suno Studio"
-  ],
-  "Udio": [
-   "Udio licensing"
-  ],
-  "ElevenLabs": [
-   "ElevenLabs v3",
-   "ElevenLabs agents"
-  ],
-  "Hugging Face": [
-   "HF open model release",
-   "Hugging Face Spaces"
-  ],
-  "open-source AI": [
-   "open-weight model",
-   "오픈소스 AI"
-  ],
-  "AGI": [
-   "artificial general intelligence timeline"
-  ],
-  "superintelligence": [
-   "초지능"
-  ],
-  "AI safety": [
-   "AI 안전",
-   "model welfare"
-  ],
-  "AI regulation": [
-   "AI 규제",
-   "EU AI Act creative industry",
-   "AI copyright designers"
-  ],
-  "Enterprise AI agents": [
-   "Agentforce",
-   "Microsoft Copilot agents",
-   "enterprise agent platform"
-  ],
-  "Figma YouTube": [
-   "site:youtube.com Figma"
-  ],
-  "Vercel YouTube": [
-   "site:youtube.com Vercel v0"
-  ],
-  "Matt Wolfe AI": [
-   "Matt Wolfe AI news"
-  ],
-  "The AI Advantage": [
-   "AI Advantage Igor"
-  ],
-  "Fireship AI": [
-   "Fireship code report"
-  ],
-  "DesignCourse": [
-   "DesignCourse Gary Simon AI"
-  ],
-  "AI design tutorial YouTube": [
-   "AI UI design tutorial"
-  ],
-  "Midjourney Instagram": [
-   "site:instagram.com midjourney"
-  ],
-  "Runway Instagram": [
-   "site:instagram.com runwayapp"
-  ],
-  "Awwwards": [
-   "Awwwards AI site of the day",
-   "Awwwards conference AI"
-  ],
-  "design AI reel": [
-   "AI design reel",
-   "AI motion design showcase"
-  ]
+  "AI Design Tool": ["AI 디자인 툴", "generative design software", "AI features for designers"],
+  "Design AX": ["디자인 AI 전환", "design team AI adoption", "AI transformation design org"],
+  "AI Workflow": ["AI 워크플로", "agentic design workflow", "AI-assisted product design process"],
+  "Higgsfield": ["Higgsfield AI video", "Higgsfield Soul", "cinematic camera control AI"],
+  "Kling": ["Kling 3", "Kuaishou Kling AI video"],
+  "Runway": ["Runway Gen-4", "Runway Aleph", "Runway world model"],
+  "Sora": ["Sora 2", "OpenAI Sora app"],
+  "Midjourney": ["Midjourney V8", "Midjourney video"],
+  "Adobe Firefly": ["Firefly Image model", "Firefly video", "Photoshop generative fill", "Adobe Express AI"],
+  "Google Veo": ["Veo 3", "Google Flow", "Nano Banana"],
+  "Luma Dream Machine": ["Luma Ray", "Luma AI video"],
+  "Pika": ["Pika Labs", "Pikaffects"],
+  "Krea": ["Krea AI realtime", "Krea 1"],
+  "Stable Diffusion": ["Stability AI", "SD 3.5", "ComfyUI"],
+  "Flux": ["Black Forest Labs FLUX", "FLUX Kontext"],
+  "Figma": ["Figma Make", "Figma AI", "Figma Sites", "Figma MCP server"],
+  "Claude Design": ["Anthropic Claude design", "Claude artifacts UI"],
+  "Claude Code": ["Claude Code designers", "Claude Code frontend"],
+  "v0 Vercel": ["v0.dev", "Vercel AI SDK"],
+  "Framer AI": ["Framer Wireframer", "Framer AI site builder"],
+  "Cursor": ["Cursor IDE", "Cursor agent"],
+  "Lovable": ["Lovable app builder"],
+  "Bolt": ["Bolt.new", "StackBlitz Bolt"],
+  "Generative UI": ["AI-generated interfaces", "dynamic UI generation"],
+  "Design-to-code": ["Figma to React AI", "design handoff AI"],
+  "Vibe coding": ["바이브 코딩", "prompt-to-app"],
+  "Model Context Protocol": ["MCP server design tools", "MCP integration"],
+  "OpenAI": ["GPT-5", "OpenAI image generation", "OpenAI devices"],
+  "ChatGPT": ["ChatGPT apps", "ChatGPT canvas", "ChatGPT agent"],
+  "Anthropic": ["Claude Opus", "Claude Sonnet", "Anthropic release"],
+  "Gemini": ["Gemini 3", "Gemini Canvas", "Google AI Studio", "Google Stitch"],
+  "Meta": ["Meta AI", "Meta superintelligence lab"],
+  "Ollama": ["local LLM", "Ollama app"],
+  "Llama": ["Llama 5", "Meta open model"],
+  "Mistral": ["Mistral Medium", "Le Chat"],
+  "Grok xAI": ["Grok Imagine", "xAI Grok 5"],
+  "DeepSeek": ["DeepSeek V4", "DeepSeek R2"],
+  "AI Agent": ["AI 에이전트", "computer-use agent"],
+  "Agentic AI": ["agentic workflows", "multi-agent"],
+  "Physical AI": ["피지컬 AI", "Nvidia Cosmos"],
+  "Embodied AI": ["robot foundation model", "Gemini Robotics"],
+  "World models": ["World Labs Marble", "Genie 3", "interactive 3D worlds"],
+  "Multimodal AI": ["image-video-audio model", "omni model"],
+  "Yann LeCun": ["LeCun world model startup", "JEPA"],
+  "Andrej Karpathy": ["Karpathy Eureka Labs", "software 3.0"],
+  "Dario Amodei": ["Anthropic CEO"],
+  "Sam Altman": ["OpenAI CEO", "Altman io device"],
+  "Demis Hassabis": ["Google DeepMind CEO"],
+  "Fei-Fei Li": ["World Labs", "spatial intelligence"],
+  "Ilya Sutskever": ["Safe Superintelligence SSI"],
+  "Mira Murati": ["Thinking Machines Lab"],
+  "Jensen Huang": ["Nvidia keynote", "GTC DC"],
+  "Nvidia": ["Nvidia Omniverse", "RTX AI", "Nvidia Cosmos"],
+  "Figure AI": ["Figure 03"],
+  "Tesla Optimus": ["Optimus V3"],
+  "1X robot": ["1X NEO home robot"],
+  "Boston Dynamics": ["Atlas electric"],
+  "Humanoid robot": ["휴머노이드 로봇", "humanoid industrial design"],
+  "Apple Vision Pro": ["visionOS 26", "Vision Pro M5"],
+  "Meta Quest": ["Quest 4", "Horizon OS"],
+  "Spatial computing": ["공간 컴퓨팅", "Android XR", "Galaxy XR"],
+  "Meta Ray-Ban": ["Ray-Ban Display", "Meta smart glasses"],
+  "Suno": ["Suno v5", "Suno Studio"],
+  "Udio": ["Udio licensing"],
+  "ElevenLabs": ["ElevenLabs v3", "ElevenLabs agents"],
+  "Hugging Face": ["HF open model release", "Hugging Face Spaces"],
+  "open-source AI": ["open-weight model", "오픈소스 AI"],
+  "AGI": ["artificial general intelligence timeline"],
+  "superintelligence": ["초지능"],
+  "AI safety": ["AI 안전", "model welfare"],
+  "AI regulation": ["AI 규제", "EU AI Act creative industry", "AI copyright designers"],
+  "Enterprise AI agents": ["Agentforce", "Microsoft Copilot agents", "enterprise agent platform"],
+  "Figma YouTube": ["site:youtube.com Figma"],
+  "Vercel YouTube": ["site:youtube.com Vercel v0"],
+  "Matt Wolfe AI": ["Matt Wolfe AI news"],
+  "The AI Advantage": ["AI Advantage Igor"],
+  "Fireship AI": ["Fireship code report"],
+  "DesignCourse": ["DesignCourse Gary Simon AI"],
+  "AI design tutorial YouTube": ["AI UI design tutorial"],
+  "Midjourney Instagram": ["site:instagram.com midjourney"],
+  "Runway Instagram": ["site:instagram.com runwayapp"],
+  "Awwwards": ["Awwwards AI site of the day", "Awwwards conference AI"],
+  "design AI reel": ["AI design reel", "AI motion design showcase"]
  },
  "categories": [
   {
    "category": "figma",
    "queries": [
-    "Figma Make AI new feature release September 2026",
-    "Claude Design OR Claude Code designers design-to-code UI 2026",
-    "v0 Vercel OR Framer AI OR Lovable generative UI launch",
-    "Cursor Bolt vibe coding for designers prototype 바이브 코딩"
+    "Figma Make OR Figma AI new feature October 2026",
+    "v0 Vercel OR Framer AI OR Lovable OR Bolt.new generative UI launch",
+    "Cursor OR Claude Code designers design-to-code prototype 바이브 코딩",
+    "Google Stitch OR Gemini Canvas UI design generation update"
    ],
-   "allowed_domains": [
-    "figma.com",
-    "vercel.com",
-    "builder.io",
-    "logrocket.com",
-    "uxdesign.cc",
-    "dev.to",
-    "creativebloq.com",
-    "framer.com",
-    "anthropic.com",
-    "lovable.dev",
-    "cursor.com"
-   ]
+   "allowed_domains": ["figma.com", "vercel.com", "builder.io", "logrocket.com", "uxdesign.cc", "dev.to", "creativebloq.com", "framer.com", "lovable.dev", "cursor.com", "blog.google"]
   },
   {
    "category": "render",
    "queries": [
-    "Runway OR Kling OR Higgsfield AI video model update",
-    "Midjourney OR Sora 2 OR Google Veo new release designers",
-    "Adobe Firefly Luma Dream Machine Pika Krea new model",
-    "FLUX Black Forest Labs Stable Diffusion Nvidia RTX AI rendering"
+    "Runway OR Kling OR Higgsfield AI video model new release",
+    "Midjourney OR Sora 2 OR Google Veo OR Nano Banana update for designers",
+    "Adobe Firefly OR Luma Ray OR Pika OR Krea new model launch",
+    "FLUX Black Forest Labs OR Stability AI OR ComfyUI OR Nvidia RTX AI rendering release"
    ],
-   "allowed_domains": [
-    "cgchannel.com",
-    "keyshot.com",
-    "80.lv",
-    "fxguide.com",
-    "nvidia.com",
-    "engadget.com",
-    "blog.adobe.com",
-    "runwayml.com",
-    "theverge.com",
-    "creativebloq.com"
-   ]
+   "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com", "blog.adobe.com", "runwayml.com", "theverge.com", "creativebloq.com"]
   },
   {
    "category": "cad",
    "queries": [
-    "text-to-CAD AI generative design new release",
-    "Autodesk Fusion neural CAD AI feature 2026",
-    "AI 3D model generation product design engineering physical AI"
+    "text-to-CAD generative design AI new release",
+    "Autodesk Fusion OR Onshape OR Solidworks AI feature 2026",
+    "AI 3D model generation product design physical AI Nvidia Omniverse Cosmos"
    ],
-   "allowed_domains": [
-    "engineering.com",
-    "getleo.ai",
-    "autodesk.com",
-    "all3dp.com",
-    "develop3d.com",
-    "nvidia.com"
-   ]
+   "allowed_domains": ["engineering.com", "getleo.ai", "autodesk.com", "all3dp.com", "develop3d.com", "nvidia.com"]
   },
   {
    "category": "tokens",
    "queries": [
     "design tokens AI agent design system automation",
-    "generative UI design system components AI agents",
-    "Model Context Protocol server design tool integration"
+    "generative UI design system components AI agents 디자인 시스템",
+    "Model Context Protocol server design tool integration new"
    ],
-   "allowed_domains": [
-    "parallelhq.com",
-    "mindstudio.ai",
-    "smashingmagazine.com",
-    "css-tricks.com",
-    "dev.to",
-    "figma.com",
-    "uxdesign.cc"
-   ]
+   "allowed_domains": ["parallelhq.com", "mindstudio.ai", "smashingmagazine.com", "css-tricks.com", "dev.to", "figma.com", "uxdesign.cc"]
   },
   {
    "category": "vr",
    "queries": [
-    "Apple Vision Pro visionOS spatial computing AI design",
-    "Meta Quest OR Meta Ray-Ban Display AI glasses developers",
-    "world models Fei-Fei Li World Labs Genie 3D worlds",
-    "humanoid robot Figure AI 1X NEO Tesla Optimus Boston Dynamics design"
+    "Apple Vision Pro visionOS OR Galaxy XR Android XR spatial computing AI design",
+    "Meta Quest OR Meta Ray-Ban Display smart glasses AI developers",
+    "world models World Labs Marble OR Genie 3 interactive 3D worlds",
+    "humanoid robot Figure 03 OR 1X NEO OR Tesla Optimus OR Boston Dynamics Atlas design"
    ],
-   "allowed_domains": [
-    "sgwdesignworks.com",
-    "boston-engineering.com",
-    "roadtovr.com",
-    "uploadvr.com",
-    "apple.com",
-    "theverge.com",
-    "engadget.com"
-   ]
+   "allowed_domains": ["sgwdesignworks.com", "boston-engineering.com", "roadtovr.com", "uploadvr.com", "apple.com", "theverge.com", "engadget.com"]
   },
   {
    "category": "workflow",
    "queries": [
-    "AI design tool designers workflow shift 2026",
+    "AI design tool designers workflow shift October 2026",
     "디자인 AI 전환 AI 디자인 툴 신기능",
-    "agentic AI enterprise AI agents design teams workflow",
-    "OpenAI ChatGPT OR Anthropic Claude OR Gemini new feature for designers",
+    "agentic AI enterprise AI agents design teams Agentforce Copilot agents",
+    "OpenAI ChatGPT OR Gemini OR Meta AI new creative feature for designers",
     "open-source AI Llama Mistral DeepSeek Grok Hugging Face Ollama model release",
-    "Altman OR Amodei OR Hassabis OR Karpathy OR LeCun OR Huang AI design creativity",
-    "multimodal AI Suno Udio ElevenLabs creative tools",
-    "AI regulation AI safety copyright creative industry designers"
+    "Altman OR Amodei OR Hassabis OR Karpathy OR LeCun OR Fei-Fei Li OR Murati OR Sutskever OR Jensen Huang AI design creativity",
+    "multimodal AI Suno Udio ElevenLabs creative tools launch",
+    "AI regulation AI safety AGI superintelligence copyright creative industry designers"
    ],
-   "allowed_domains": [
-    "orq.ai",
-    "fastcompany.com",
-    "cio.com",
-    "eleken.co",
-    "palettt.com",
-    "theverge.com",
-    "venturebeat.com",
-    "openai.com",
-    "anthropic.com",
-    "blog.google",
-    "techcrunch.com"
-   ]
+   "allowed_domains": ["orq.ai", "fastcompany.com", "cio.com", "eleken.co", "palettt.com", "theverge.com", "venturebeat.com", "openai.com", "anthropic.com", "blog.google", "techcrunch.com"]
   },
   {
    "category": "social",
    "queries": [
-    "site:youtube.com Figma OR Vercel OR Adobe OR \"Microsoft Design\" AI design 2026",
-    "site:youtube.com Matt Wolfe OR \"The AI Advantage\" OR Fireship AI design tools 2026",
-    "site:youtube.com DesignCourse AI design tutorial 2026",
+    "site:youtube.com Adobe OR \"Microsoft Design\" OR Figma AI design 2026",
+    "site:youtube.com Fireship OR \"AI Jason\" OR \"Matt Wolfe\" AI design tools 2026",
+    "site:youtube.com DesignCourse OR Vercel AI design tutorial 2026",
     "site:instagram.com midjourney OR runwayapp OR awwwards AI design reel"
    ],
-   "allowed_domains": [
-    "youtube.com",
-    "youtu.be",
-    "instagram.com"
-   ]
+   "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"]
   }
  ],
  "wildcard": {
   "category": "workflow",
   "query": "AI design news this week product launch designers",
-  "allowed_domains": [
-   "theverge.com",
-   "creativebloq.com",
-   "fastcompany.com",
-   "techcrunch.com"
-  ]
+  "allowed_domains": ["theverge.com", "creativebloq.com", "fastcompany.com", "techcrunch.com"]
  }
 }

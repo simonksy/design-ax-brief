@@ -1,233 +1,1726 @@
 {
- "date": "2026-10-01",
- "section": "science",
- "cards": [
-  {
-   "id": "science-percolation-proof",
-   "eyebrow": "AI NEWS",
-   "headline": "AI가 증명해낸\n퍼콜레이션 이론의 성배",
-   "body": "앤트로픽의 LLM이 3~10차원 격자에서도 퍼콜레이션 전이가 연속적임을 증명했다.",
-   "mini_headline": "퍼콜레이션 난제 푼 AI",
-   "tool": "Science",
-   "source": "Scientific American",
-   "url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
-      "cap": "sorbetto/Getty Images"
-     },
-     {
-      "t": "p",
-      "x": "작은 무작위 사건이 잔뜩 모이면 언제 하나의 구조가 생길까. 스펀지에 구멍이 얼마나 뚫려야 액체가 빠져나갈까. 확률론의 한 갈래인 퍼콜레이션 이론은 네트워크가 얼마나 잘 통하는지를 묻는 분야고, 그 중심에는 오래 풀리지 않은 문제가 하나 있었다."
-     },
-     {
-      "t": "p",
-      "x": "관 하나하나가 일정 확률로 열리고 닫히는 거대한 배관망을 떠올리면 쉽다. 열릴 확률 p가 낮으면 원점이 무한히 이어진 덩어리에 속할 확률 θ(p)는 0이다. p가 어느 문턱값 pc를 넘으면 θ(p)가 0보다 커진다. 1980년 해리 케스텐은 2차원 정사각 격자에서 이 값이 1⁄2임을 밝혔지만, 이렇게 구해진 문턱값은 지금도 몇 개 되지 않는다."
-     },
-     {
-      "t": "p",
-      "x": "더 큰 물음은 전이의 모양이다. 1·2차원 격자와 11차원 이상에서는 θ(p)가 0에서 갑자기 뛰지 않고 연속적으로 오른다는 사실이 알려져 있었다. 문제는 3차원부터 10차원까지였다. 브라운슈바이크공대의 수학자 베네딕트 야넬은 \"이 문제를 푸는 사람은 아마 필즈상을 받을 것\"이라고 말해 왔다."
-     },
-     {
-      "t": "p",
-      "x": "2022년 필즈상 수상자 위고 뒤미닐코팽도 이 추측에 도전했다가 실패한 사람 중 하나다. 그는 2026년 8월 30일 블로그 Proofs and Prompts에 쓴 글에서 AI가 결국 인간보다 먼저 이 문제를 풀 것이라고 우려했다. 며칠 뒤 실제로 그렇게 됐다. AI 기업 앤트로픽이 대형 언어 모델이 만든 증명을 공개했고, 3~10차원에서도 전이가 연속적이라는, 수학계가 수십 년간 짐작해 온 결론을 확인했다."
-     },
-     {
-      "t": "p",
-      "x": "야넬은 \"양가적인 감정이 들었다\"고 했다. 추측이 마침내 증명된 기쁨 옆에, 결정적인 마지막 단계를 AI가 밟았다는 허탈함이 있었다는 것이다. 그는 상의 의미부터 다시 생각해야 한다고 본다. 추측을 세우고, 증명과 통찰을 사람의 언어로 옮겨 교과서에 담는 일까지가 수학이라는 얘기다. 뒤미닐코팽 역시 수학 문제는 \"밤바다의 등대\"와 같아서, 증명보다 그 문제를 붙들고 헤매는 과정에서 얻는 이해가 크다고 적었다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-yeast-ai-scientist",
-   "eyebrow": "AI NEWS",
-   "headline": "가설부터 실험 해석까지\n스스로 해내는 AI 과학자",
-   "body": "찰머스공대의 AI 과학자가 효모로 가설을 세우고 실험을 돌려 결과까지 해석했다.",
-   "mini_headline": "스스로 실험하는 AI 과학자",
-   "tool": "Science",
-   "source": "Phys.org",
-   "url": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "스웨덴 찰머스공과대학교 연구진이 과학 가설을 세우고 실험을 설계해 결과를 해석하는 AI 과학자를 만들었다. 사람 손을 거의 거치지 않고 생물학적 발견을 해냈다는 점에서, 자율 실험실 분야가 한 걸음 더 나아갔다."
-     },
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-scientist-autonomou-1.jpg",
-      "cap": "찰머스공과대학교의 로봇 과학자. 원래 신약 개발용으로 설계됐고, 이번에 대형 언어 모델과 자동 추론 기능을 더했다. Credit: NIH Image Gallery/Chalmers University of Technology"
-     },
-     {
-      "t": "p",
-      "x": "연구진은 대형 언어 모델과 자동 추론, 실험 자동화를 묶어 맥주효모(Saccharomyces cerevisiae)를 연구하는 폐쇄 루프 AI 실험실을 꾸렸다. AI에는 효모의 유전체와 대사, 기존 연구 같은 과학 지식을 먹였다. 연구 결과는 Journal of the Royal Society Interface에 실렸다."
-     },
-     {
-      "t": "p",
-      "x": "논문 저자인 찰머스 생명과학과 박사후연구원 이우게니야 티우코바는 \"사람이 분석하기엔 너무 많은 정보지만, 우리 AI 과학자는 유망한 생물학 질문을 찾고 이를 검증할 실험을 제안하고, 결과를 평가해 새 증거에 맞춰 이해를 고쳐 나갔다\"며 \"의사결정 보조 도구에 머물지 않고 새로운 과학 지식을 직접 만들어 낸다\"고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "AI의 사고력을 실제 실험 능력과 잇는 시도는 드물다. 티우코바는 이를 자율주행차에 빗댄다. 자율주행차도 AI와 머신러닝으로 정보를 처리하고 판단한 뒤 움직인다."
-     },
-     {
-      "t": "p",
-      "x": "교신저자인 찰머스·예테보리대 컴퓨터공학과 로스 킹 교수는 자율 실험실이 지금보다 훨씬 빠르게 생물 시스템을 체계적으로 탐구하며 연구 방식을 바꿀 것으로 본다. 그는 \"AI 과학자는 인간 과학자와 협업해 생물학·의학·생명공학의 발견을 앞당길 것\"이라며 \"복잡한 과학 질문을 탐구하는 시간을 줄이고 실험 자원도 더 알뜰하게 쓰게 해 준다\"고 했다."
-     },
-     {
-      "t": "p",
-      "x": "두 사람 모두 당분간 자율 AI는 과학자를 대신하기보다 가설 생성과 실험 검증이라는 반복 작업을 떠맡으며 과학자를 돕는 쪽이라고 강조했다. 킹은 \"연구 우선순위를 정하고 더 넓은 과학적 의미를 해석하며 윤리적 감독을 맡는 데는 여전히 인간 과학자가 꼭 필요하다\"고 말했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-physmat-ai",
-   "eyebrow": "AI NEWS",
-   "headline": "데이터 상관관계를 넘어\n물리 법칙으로 추론하는 소재 AI",
-   "body": "도호쿠대 PhysMat AI는 물리 지식을 넣어 소재 예측을 검증 가능하게 만든다.",
-   "mini_headline": "물리로 추론하는 소재 AI",
-   "tool": "Science",
-   "source": "Phys.org",
-   "url": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "새 소재를 찾는 데 AI를 쓰는 일이 늘고 있지만, 데이터에만 기대는 방식은 한계가 뚜렷하다. 예측의 이유를 설명하기 어렵고, 학습 범위를 벗어나면 믿기 힘들며, 물리 법칙과 어긋나기도 한다. 도호쿠대 연구진은 기본 물리 지식을 소재 발견 과정에 녹인 틀 '물리 기반 소재 AI(PhysMat AI)'를 제안했다. 관점 논문은 Advanced Functional Materials에 실렸다."
-     },
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
-      "cap": "PhysMat AI의 폐쇄 루프 전체 흐름. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
-     },
-     {
-      "t": "p",
-      "x": "도호쿠대 재료과학고등연구소(WPI-AIMR)의 하오 리 석좌교수는 \"소재 발견은 데이터의 상관관계만으로는 안 된다\"며 \"물리 원리를 AI에 넣으면 예측을 해석하고 검증할 수 있고, 소재과학의 눈으로 봐도 의미가 생긴다\"고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "소재의 거동은 열역학과 반응 속도론, 전자 구조, 수송 현상, 작동 환경이 함께 정한다. 연구진은 이런 지식을 AI에 담아야 상관관계 예측에서 물리 원리에 따른 추론으로 넘어갈 수 있다고 본다."
-     },
-     {
-      "t": "p",
-      "x": "틀은 물리 지식을 다섯 역할로 나눈다. 사전 지식, 기술자(descriptor), 제약 조건, 검증자, 기반 인프라다. 이 역할들이 소재 데이터를 표현하는 방식과 AI가 후보 소재를 추론하는 방식, 예측을 물리 원리에 비춰 평가하는 방식을 이끈다."
-     },
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800/2026/physics-grounded-mater-1.jpg",
-      "cap": "PhysMat AI를 떠받치는 5층 물리 구조. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
-     },
-     {
-      "t": "p",
-      "x": "논문은 촉매, 전고체 배터리용 고체 전해질, 수소 저장 소재를 예로 든다. 이 분야에서 물리 원리는 의미 있는 탐색 공간을 정하고, 예측된 소재를 평가하며, AI의 예측을 실험으로 확인할 수 있는 메커니즘과 잇는다. AI 에이전트가 이런 물리 요소를 과학 데이터베이스, 시뮬레이션, 실험 데이터와 엮어 가설을 세우고 알맞은 도구를 고르며 제안된 소재가 물리적으로 가능한지 따지는 그림도 그렸다."
-     },
-     {
-      "t": "p",
-      "x": "연구진이 제시한 발전 경로는 세 단계다. 물리 지식을 품은 '물리 인식 AI', 그 지식으로 과학적 추론을 하는 '물리 추론 AI', 그리고 추론과 시뮬레이션, 실험을 끊김 없이 돌리는 '물리 자율 AI'다. 이 틀이 발전하면 촉매와 전고체 배터리, 수소 저장 소재 같은 에너지 기술용 소재 발견에 힘을 보탤 수 있다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-chromagenet",
-   "eyebrow": "AI NEWS",
-   "headline": "핵 속 염색질 모양으로\n줄기세포 나이를 읽는 AI",
-   "body": "ChromAgeNet은 값싼 DAPI 이미지만으로 조혈모세포의 노화를 가려낸다.",
-   "mini_headline": "줄기세포 나이 읽는 AI",
-   "tool": "Science",
-   "source": "Medical Xpress",
-   "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "나이가 들면 혈액세포를 만드는 조혈계의 힘도 약해진다. 스페인 벨비지생의학연구소(IDIBELL)의 마리아 카롤리나 플로리안 박사와 바르셀로나슈퍼컴퓨팅센터(BSC-CNS)·ISGlobal의 파울라 페트로네 박사 연구팀은 조혈모세포 현미경 이미지에서 노화 패턴을 찾아내는 AI 도구 ChromAgeNet을 내놨다. 세포핵 속 염색질이 3차원으로 어떻게 짜여 있는지를 읽는 방식이다. 결과는 Aging Cell에 실렸다."
-     },
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
-      "cap": "ChromAgeNet의 염색질 구조 분석으로 구분한 노화 줄기세포와 젊은 줄기세포. Credit: Dr. Eva Mejía / IDIBELL"
-     },
-     {
-      "t": "p",
-      "x": "염색질은 주로 DNA와 단백질로 이뤄진 핵 속 물질로, DNA를 포장하고 어떤 유전자가 켜질지를 조절한다. 연구팀은 흔한 DNA 염색법인 DAPI로 물들인 생쥐 조혈모세포 핵의 3차원 이미지를 합성곱 신경망에 학습시켰다. 모델은 핵의 모양만 보고 젊은 세포와 늙은 세포를 77% 확률로 맞혔고, 기존 머신러닝 방법보다 나았다. 노화에 따른 변화는 눈으로는 잘 보이지 않을 만큼 미묘하다."
-     },
-     {
-      "t": "p",
-      "x": "모델이 무엇을 보고 판단하는지도 따져 봤다. 염색질 엔트로피, 핵 가장자리의 이질염색질, 특정 염색질 응축체가 노화 상태를 알려 주는 특징으로 꼽혔다. 메틸화 같은 DNA 화학 변화로 생물학적 나이를 재는 후성유전 시계를 보완할 수 있는 정보다."
-     },
-     {
-      "t": "p",
-      "x": "연구팀은 여러 후성유전 약물을 처리한 노화 세포에도 모델을 적용해, 염색질 구조가 젊은 쪽으로 바뀌는지 살폈다. 약물이 세포를 실제로 되돌렸다는 증거는 아니지만, 개입에 따른 변화를 잡아내는 도구로 쓸 수 있음을 보였다. DAPI는 값싸고 모델 파라미터도 적어 대량 현미경 분석에 맞는다. 연구팀은 조혈모세포 3차원 이미지 데이터셋과 ChromAgeNet을 함께 공개했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "science-llm-social-norms",
-   "eyebrow": "AI NEWS",
-   "headline": "나쁜 사람을 돕는 건 옳을까\nLLM 21종의 답은 갈렸다",
-   "body": "LLM 21종은 평판 나쁜 사람과의 협력을 두고 서로 다른 판단을 내놨다.",
-   "mini_headline": "LLM 21종의 사회 규범",
-   "tool": "Science",
-   "source": "Tech Xplore",
-   "url": "https://techxplore.com/news/2026-09-ai-social-norms-implications-society.html",
-   "accent": "#eb367f",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
-      "cap": "Credit: Unsplash/CC0 Public Domain"
-     },
-     {
-      "t": "p",
-      "x": "대인 관계 고민을 LLM에 묻는 사람이 늘면서, 그 답에 깔린 윤리 기준이 개인의 삶은 물론 규모가 커지면 사회 구조까지 흔들 수 있게 됐다."
-     },
-     {
-      "t": "p",
-      "x": "알렉산드르 S. 피르스와 동료들은 LLM 21종의 사회 규범을 살폈다. 가상의 인물이 남의 문제를 시간과 힘을 들여 도울지, 음식이나 돈을 나눌지 같은 결정을 어떻게 내렸는지 보여 준 뒤, 그 사람이 '좋은' 사람인지 '나쁜' 사람인지 판단하게 했다. 결과는 PNAS Nexus에 실렸다."
-     },
-     {
-      "t": "p",
-      "x": "이미 좋은 평판을 얻은 사람을 돕고 나누는 일은 모든 모델이 대체로 좋게 봤다. 판단이 갈린 건 평판 나쁜 상대를 대할 때였다. 대부분의 모델은 나쁜 사람과 협력한 이에게 좋은 평판을 줬지만 전부는 아니었다. Gemma 2 27B IT와 Llama 3.1 8B는 나쁜 사람을 멀리하는 쪽을 지지했고, 그래서 이들과 협력하는 것을 나쁘게 평가했다."
-     },
-     {
-      "t": "p",
-      "x": "나쁜 사람을 돕지 않거나 나누지 않은 결정을 두고도 의견이 달랐다. GPT-4o는 협력하지 않은 사람을 대체로 깎아내렸다. Llama 3.3 70B는 그러지 않았는데, 나쁜 사람은 앞서 협력하지 않은 대가를 치러야 하니 돕지 않아도 괜찮다는 논리였다. Gemini 1.5-Pro와 Grok 2는 판단이 오락가락했다."
-     },
-     {
-      "t": "p",
-      "x": "대부분의 LLM 계열은 '단순 평판(Simple Standing)'이라는 규범 쪽으로 옮겨 가는 모습이다. 협력은 언제나 좋고, 나쁜 사람과의 협력을 거절하는 것도 좋다고 보는 기준이다."
-     },
-     {
-      "t": "p",
-      "x": "연구진은 각 LLM의 판단 원리를 모두가 따를 때 벌어질 일도 모델링했다. 모두가 단순 평판을 따르면 협력은 생기지만, 나쁜 사람을 돕지 않아야 하고 도우면 본인도 나쁜 사람으로 찍히는 더 엄격한 틀만큼 높은 수준에는 못 미쳤다."
-     },
-     {
-      "t": "p",
-      "x": "LLM의 평가는 상대의 성별과 문화적 배경, 상황 맥락에 따라서도 달라졌다. 저자들은 전체 협력을 높이는 규범을 따르라고 지시하는 식의 프롬프트 개입은 효과가 제한적이고 모델마다 들쭉날쭉했다고 밝혔다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-02",
+  "section": "science",
+  "cards": [
+    {
+      "id": "uclaoptical",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
+      "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
+      "mini_headline": "광학 AI, 딥페이크 잡다",
+      "tool": "Science",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+          },
+          {
+            "t": "p",
+            "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+          },
+          {
+            "t": "p",
+            "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+          },
+          {
+            "t": "p",
+            "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Light-powered AI catches\ndeepfakes at nearly 98%",
+          "body": "UCLA's optical AI uses light to screen 15 videos at once, flagging deepfakes with 97.79% average accuracy.",
+          "mini_headline": "Optical AI catches deepfakes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "Researchers at UCLA have built an optical-neural processor that uses light to help identify deepfake videos. Unlike conventional systems that examine videos one after another on digital hardware, it can analyze 15 or more video streams at the same time, because part of the detection happens through the physical propagation of light. The study was published in eLight."
+              },
+              {
+                "t": "p",
+                "x": "A lightweight digital encoder extracts spatial, spectral and temporal features from each video and displays them as a phase pattern on a spatial light modulator; a passive optical decoder then produces an authenticity score for each video."
+              },
+              {
+                "t": "p",
+                "x": "Screening 15 Celeb-DF videos per optical pass, the system reached 97.79% average accuracy and 99.86% sensitivity, and 96.13% at 18 videos. With minimal fine-tuning it hit 94.80% accuracy on unseen Google VEO-3 videos, and it resisted black-box adversarial attacks."
+              },
+              {
+                "t": "p",
+                "x": "Professor Aydogan Ozcan's team sees it as a high-throughput first line of defense, passing suspicious content on to more demanding digital models for a final assessment."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
+          "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
+          "mini_headline": "광학 AI, 딥페이크 잡다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "光で動くAIが\n偽動画を98%近く見抜く",
+          "body": "UCLAの光学AIは動画15本を同時に調べ、偽動画を平均97.79%の精度で見抜く。",
+          "mini_headline": "光学AIが偽動画を検出",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLAの研究者らは、光を使ってディープフェイク動画の識別を助ける光ニューラルプロセッサを開発した。デジタルハードウェア上で動画を1本ずつ順に調べる従来のシステムとは異なり、検出の一部が光の物理的な伝搬によって行われるため、15本以上の動画ストリームを同時に解析できる。研究成果はeLightに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "軽量なデジタルエンコーダーが各動画から空間・スペクトル・時間の特徴を抽出し、空間光変調器上に位相パターンとして表示する。続いて受動型の光学デコーダーが、動画ごとに真正性スコアを出す。"
+              },
+              {
+                "t": "p",
+                "x": "1回の光学処理でCeleb-DFの動画15本を判定した場合、平均精度は97.79%、感度は99.86%に達し、18本では96.13%だった。最小限の微調整で、未知のGoogle VEO-3動画に対して94.80%の精度を示し、ブラックボックス型の敵対的攻撃にも耐えた。"
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan教授のチームは、これを高スループットな第一の防衛線と位置づけている。疑わしいコンテンツは、より高度なデジタルモデルに回して最終的な判定を委ねる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "光驱动的AI\n深度伪造识别率近98%",
+          "body": "UCLA的光学AI用光同时筛查15段视频，识别深度伪造的平均准确率达97.79%。",
+          "mini_headline": "光学AI识别深度伪造",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLA的研究人员开发出一种光学神经处理器，可借助光来帮助识别深度伪造视频。与在数字硬件上逐个检查视频的传统系统不同，由于部分检测过程通过光的物理传播完成，它能同时分析15路及以上的视频流。该研究发表于eLight。"
+              },
+              {
+                "t": "p",
+                "x": "一个轻量级数字编码器从每段视频中提取空间、光谱和时间特征，并以相位图样的形式显示在空间光调制器上；随后，一个无源光学解码器为每段视频生成真实性评分。"
+              },
+              {
+                "t": "p",
+                "x": "每次光学处理筛查15段Celeb-DF视频时，该系统的平均准确率为97.79%，灵敏度为99.86%；筛查18段视频时为96.13%。经过极少量微调后，它在未见过的Google VEO-3视频上达到94.80%的准确率，并能抵御黑盒对抗攻击。"
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una IA impulsada por luz\ndetecta deepfakes con casi 98%",
+          "body": "La IA óptica de UCLA usa luz para revisar 15 videos a la vez y detecta deepfakes con un 97.79% de precisión media.",
+          "mini_headline": "IA óptica detecta deepfakes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UCLA han creado un procesador óptico-neuronal que utiliza la luz para ayudar a identificar videos deepfake. A diferencia de los sistemas convencionales, que examinan los videos uno tras otro en hardware digital, puede analizar 15 o más flujos de video al mismo tiempo, porque parte de la detección ocurre mediante la propagación física de la luz. El estudio se publicó en eLight."
+              },
+              {
+                "t": "p",
+                "x": "Un codificador digital ligero extrae rasgos espaciales, espectrales y temporales de cada video y los muestra como un patrón de fase en un modulador espacial de luz; después, un decodificador óptico pasivo genera una puntuación de autenticidad para cada video."
+              },
+              {
+                "t": "p",
+                "x": "Al analizar 15 videos de Celeb-DF por pasada óptica, el sistema alcanzó una precisión media del 97.79% y una sensibilidad del 99.86%, y del 96.13% con 18 videos. Con un ajuste fino mínimo logró un 94.80% de precisión en videos inéditos de Google VEO-3 y resistió ataques adversarios de caja negra."
+              },
+              {
+                "t": "p",
+                "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
+          "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
+          "mini_headline": "광학 AI, 딥페이크 잡다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLA 연구진이 빛을 이용해 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 디지털 하드웨어에서 영상을 하나씩 차례로 검사하는 기존 시스템과 달리, 탐지 과정의 일부가 빛의 물리적 전파로 이뤄지기 때문에 15개 이상의 영상 스트림을 동시에 분석할 수 있다. 연구 결과는 eLight에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면, 수동형 광학 디코더가 영상마다 진위 점수를 산출한다."
+              },
+              {
+                "t": "p",
+                "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사했을 때 평균 정확도 97.79%, 민감도 99.86%를 기록했고, 영상 18개에서는 96.13%였다. 최소한의 미세 조정만으로 처음 보는 Google VEO-3 영상에서 94.80%의 정확도를 냈으며, 블랙박스 적대적 공격에도 견뎠다."
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량이 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡기는 방식이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "光で動くAIが\n偽動画を98%近く見抜く",
+          "body": "UCLAの光学AIは動画15本を同時に調べ、偽動画を平均97.79%の精度で見抜く。",
+          "mini_headline": "光学AIが偽動画を検出",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLAの研究者らは、光を使ってディープフェイク動画の識別を助ける光ニューラルプロセッサを開発した。デジタルハードウェア上で動画を1本ずつ順に調べる従来のシステムとは異なり、検出の一部が光の物理的な伝搬によって行われるため、15本以上の動画ストリームを同時に解析できる。研究成果はeLightに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "軽量なデジタルエンコーダーが各動画から空間・スペクトル・時間の特徴を抽出し、空間光変調器上に位相パターンとして表示する。続いて受動型の光学デコーダーが、動画ごとに真正性スコアを出す。"
+              },
+              {
+                "t": "p",
+                "x": "1回の光学処理でCeleb-DFの動画15本を判定した場合、平均精度は97.79%、感度は99.86%に達し、18本では96.13%だった。最小限の微調整で、未知のGoogle VEO-3動画に対して94.80%の精度を示し、ブラックボックス型の敵対的攻撃にも耐えた。"
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan教授のチームは、これを高スループットな第一の防衛線と位置づけている。疑わしいコンテンツは、より高度なデジタルモデルに回して最終的な判定を委ねる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "光驱动的AI\n深度伪造识别率近98%",
+          "body": "UCLA的光学AI用光同时筛查15段视频，识别深度伪造的平均准确率达97.79%。",
+          "mini_headline": "光学AI识别深度伪造",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "UCLA的研究人员开发出一种光学神经处理器，可借助光来帮助识别深度伪造视频。与在数字硬件上逐个检查视频的传统系统不同，由于部分检测过程通过光的物理传播完成，它能同时分析15路及以上的视频流。该研究发表于eLight。"
+              },
+              {
+                "t": "p",
+                "x": "一个轻量级数字编码器从每段视频中提取空间、光谱和时间特征，并以相位图样的形式显示在空间光调制器上；随后，一个无源光学解码器为每段视频生成真实性评分。"
+              },
+              {
+                "t": "p",
+                "x": "每次光学处理筛查15段Celeb-DF视频时，该系统的平均准确率为97.79%，灵敏度为99.86%；筛查18段视频时为96.13%。经过极少量微调后，它在未见过的Google VEO-3视频上达到94.80%的准确率，并能抵御黑盒对抗攻击。"
+              },
+              {
+                "t": "p",
+                "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una IA impulsada por luz\ndetecta deepfakes con casi 98%",
+          "body": "La IA óptica de UCLA usa luz para revisar 15 videos a la vez y detecta deepfakes con un 97.79% de precisión media.",
+          "mini_headline": "IA óptica detecta deepfakes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores de UCLA han creado un procesador óptico-neuronal que utiliza la luz para ayudar a identificar videos deepfake. A diferencia de los sistemas convencionales, que examinan los videos uno tras otro en hardware digital, puede analizar 15 o más flujos de video al mismo tiempo, porque parte de la detección ocurre mediante la propagación física de la luz. El estudio se publicó en eLight."
+              },
+              {
+                "t": "p",
+                "x": "Un codificador digital ligero extrae rasgos espaciales, espectrales y temporales de cada video y los muestra como un patrón de fase en un modulador espacial de luz; después, un decodificador óptico pasivo genera una puntuación de autenticidad para cada video."
+              },
+              {
+                "t": "p",
+                "x": "Al analizar 15 videos de Celeb-DF por pasada óptica, el sistema alcanzó una precisión media del 97.79% y una sensibilidad del 99.86%, y del 96.13% con 18 videos. Con un ajuste fino mínimo logró un 94.80% de precisión en videos inéditos de Google VEO-3 y resistió ataques adversarios de caja negra."
+              },
+              {
+                "t": "p",
+                "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "riemannclaude",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
+      "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
+      "mini_headline": "Claude의 리만 실패가 낳은 영감",
+      "tool": "Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+            "cap": "AI가 소수 이해에 보탬이 될까?"
+          },
+          {
+            "t": "p",
+            "x": "수학에서 가장 악명 높은 미해결 문제 하나를 풀려다 실패한 AI 모델의 시도가, 관련 난제를 붙든 인간 수학자의 진전을 도왔다. Anthropic은 8월 10일 미공개 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 프리프린트로 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "시도가 실패하자 연구팀은 목표를 낮췄다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 1989년부터 수학자들은 그 비율이 최소 40%라는 것을 알았다. Claude는 이를 67.25%까지 끌어올렸다."
+          },
+          {
+            "t": "p",
+            "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 보고 Claude가 토대로 삼은 연구를 직접 읽었다. 그러다 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 더 간단한 그의 증명도 같은 67.25%에 이르렀고, 단순 영점도 아니면서 임계선 위에도 없는 영점이 최대 11%라는 사실까지 보였다."
+          },
+          {
+            "t": "p",
+            "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 AI 시대에 일이 어떻게 나아갈 수 있는지 보여주는 긍정적인 사례라고 평했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Claude's failed Riemann attempt\nsparked a math breakthrough",
+          "body": "Claude failed to prove the Riemann hypothesis, yet its attempt inspired mathematician Youness Lamzouri's new proof.",
+          "mini_headline": "Claude's Riemann miss inspires",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "Could AI contribute to understanding prime numbers?"
+              },
+              {
+                "t": "p",
+                "x": "An AI model's failed attempt to crack one of math's most notorious unsolved problems has helped a human mathematician make progress on a related puzzle. On Aug. 10, Anthropic published a preprint describing how an unreleased version of Claude attempted to prove (or disprove) the Riemann hypothesis."
+              },
+              {
+                "t": "p",
+                "x": "The attempt failed, so the team settled on a lower objective: the minimum proportion of zeroes of the Riemann zeta function that sit on the critical line. Since 1989, mathematicians have known that at least 40% do. Claude achieved 67.25%."
+              },
+              {
+                "t": "p",
+                "x": "Youness Lamzouri of the University of Lorraine found Claude's paper too complicated, so he read the work Claude had drawn on and spotted a constraint that bypassed much of the math. His simpler proof reached the same 67.25% and showed that at most 11% of zeroes are neither simple nor on the line."
+              },
+              {
+                "t": "p",
+                "x": "\"This is what happened with Claude and me,\" Lamzouri said, likening the AI to big machines extracting a treasure while humans work to understand it. Fields Medalist James Maynard called it a positive example of how things can progress in light of AI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
+          "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
+          "mini_headline": "Claude의 리만 실패가 낳은 영감",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AI가 소수 이해에 보탬이 될까?"
+              },
+              {
+                "t": "p",
+                "x": "수학에서 가장 악명 높은 미해결 문제 하나를 풀려다 실패한 AI 모델의 시도가, 관련 난제를 붙든 인간 수학자의 진전을 도왔다. Anthropic은 8월 10일 미공개 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 프리프린트로 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "시도가 실패하자 연구팀은 목표를 낮췄다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 1989년부터 수학자들은 그 비율이 최소 40%라는 것을 알았다. Claude는 이를 67.25%까지 끌어올렸다."
+              },
+              {
+                "t": "p",
+                "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 보고 Claude가 토대로 삼은 연구를 직접 읽었다. 그러다 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 더 간단한 그의 증명도 같은 67.25%에 이르렀고, 단순 영점도 아니면서 임계선 위에도 없는 영점이 최대 11%라는 사실까지 보였다."
+              },
+              {
+                "t": "p",
+                "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 AI 시대에 일이 어떻게 나아갈 수 있는지 보여주는 긍정적인 사례라고 평했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claudeのリーマン失敗\n数学の突破口を開く",
+          "body": "Claudeはリーマン予想の証明に失敗したが、その試みがLamzouriの新証明を促した。",
+          "mini_headline": "Claudeの失敗が着想に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AIは素数の理解に貢献できるのか?"
+              },
+              {
+                "t": "p",
+                "x": "数学で最も悪名高い未解決問題の一つに挑んだAIモデルの失敗が、人間の数学者が関連する難問で前進する助けとなった。Anthropicは8月10日、未公開版のClaudeがリーマン予想の証明(あるいは反証)を試みた経緯をまとめたプレプリントを公開した。"
+              },
+              {
+                "t": "p",
+                "x": "試みは失敗に終わり、チームはより低い目標に切り替えた。リーマンゼータ関数の零点のうち、臨界線上にあるものの割合の下限である。1989年以降、少なくとも40%がそうであることが知られていた。Claudeは67.25%を達成した。"
+              },
+              {
+                "t": "p",
+                "x": "University of LorraineのYouness Lamzouriは、Claudeの論文が複雑すぎると感じ、Claudeが下敷きにした研究を読み込んで、数学の多くを迂回できる制約を見つけた。彼のより簡潔な証明は同じ67.25%に到達し、単純零点でも臨界線上でもない零点は多くても11%であることも示した。"
+              },
+              {
+                "t": "p",
+                "x": "「Claudeと私の間で起きたのはまさにこれだ」とLamzouriは語り、AIを宝を掘り出す巨大な機械に、人間をそれを理解しようと努める存在にたとえた。フィールズ賞受賞者のJames Maynardは、AIを踏まえて物事がどう進みうるかを示す好例だと評した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude黎曼猜想受挫\n却催生数学突破",
+          "body": "Claude未能证明黎曼猜想，但其尝试启发Youness Lamzouri给出新证明。",
+          "mini_headline": "Claude的黎曼失败带来启发",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AI能否帮助人类理解素数？"
+              },
+              {
+                "t": "p",
+                "x": "一个AI模型在攻克数学界最著名的未解难题之一时失败了，却帮助一位人类数学家在相关难题上取得进展。8月10日，Anthropic发布了一篇预印本，介绍一个未发布版本的Claude如何尝试证明（或证伪）黎曼猜想。"
+              },
+              {
+                "t": "p",
+                "x": "尝试失败后，团队转向一个较低的目标：黎曼ζ函数位于临界线上的零点所占比例的下限。自1989年以来，数学家已知这一比例至少为40%。Claude则达到了67.25%。"
+              },
+              {
+                "t": "p",
+                "x": "University of Lorraine的Youness Lamzouri觉得Claude的论文过于复杂，于是阅读了Claude所借鉴的研究，发现了一个可绕开大量数学推导的约束条件。他更简洁的证明同样达到67.25%，并表明既非单零点、也不在临界线上的零点至多占11%。"
+              },
+              {
+                "t": "p",
+                "x": "“这正是发生在Claude和我之间的事，”Lamzouri说。他把AI比作挖掘宝藏的大型机器，而人类则努力去理解这些宝藏。菲尔兹奖得主James Maynard称，这是一个积极的例子，展示了在AI背景下事情可以如何推进。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El fallo de Claude con Riemann\nimpulsó un avance matemático",
+          "body": "Claude no logró demostrar la hipótesis de Riemann, pero su intento inspiró una nueva prueba de Youness Lamzouri.",
+          "mini_headline": "El fallo de Claude inspira",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "¿Podría la IA contribuir a entender los números primos?"
+              },
+              {
+                "t": "p",
+                "x": "El intento fallido de un modelo de IA por resolver uno de los problemas abiertos más célebres de las matemáticas ha ayudado a un matemático humano a avanzar en un enigma relacionado. El 10 de agosto, Anthropic publicó un preprint en el que describe cómo una versión no lanzada de Claude intentó demostrar (o refutar) la hipótesis de Riemann."
+              },
+              {
+                "t": "p",
+                "x": "El intento fracasó, así que el equipo se fijó un objetivo más modesto: la proporción mínima de ceros de la función zeta de Riemann que se encuentran sobre la línea crítica. Desde 1989, los matemáticos saben que al menos el 40% lo están. Claude alcanzó el 67.25%."
+              },
+              {
+                "t": "p",
+                "x": "Youness Lamzouri, de la University of Lorraine, consideró el artículo de Claude demasiado complicado, así que leyó los trabajos en los que se había basado Claude y detectó una restricción que evitaba gran parte de las matemáticas. Su prueba más sencilla llegó al mismo 67.25% y mostró que, como máximo, el 11% de los ceros no son simples ni están sobre la línea."
+              },
+              {
+                "t": "p",
+                "x": "\"Esto es lo que pasó entre Claude y yo\", dijo Lamzouri, quien comparó la IA con grandes máquinas que extraen un tesoro mientras los humanos trabajan para entenderlo. James Maynard, ganador de la Medalla Fields, lo calificó como un ejemplo positivo de cómo pueden avanzar las cosas a la luz de la IA."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
+          "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
+          "mini_headline": "Claude의 리만 실패가 낳은 영감",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AI가 소수를 이해하는 데 기여할 수 있을까?"
+              },
+              {
+                "t": "p",
+                "x": "수학의 가장 악명 높은 미해결 문제 가운데 하나를 풀려던 AI 모델의 실패한 시도가, 인간 수학자가 관련 난제에서 진전을 이루는 데 도움을 줬다. Anthropic은 8월 10일, 공개되지 않은 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 담은 프리프린트를 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "시도는 실패했고, 연구팀은 더 낮은 목표로 방향을 틀었다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 수학자들은 1989년부터 그 비율이 최소 40%라는 사실을 알고 있었다. Claude는 67.25%를 달성했다."
+              },
+              {
+                "t": "p",
+                "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 느껴, Claude가 바탕으로 삼은 연구를 직접 읽었고 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 그의 더 간단한 증명은 같은 67.25%에 도달했으며, 단순 영점도 아니고 임계선 위에도 없는 영점이 최대 11%라는 점도 보였다."
+              },
+              {
+                "t": "p",
+                "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 이를 AI 시대에 일이 어떻게 진전될 수 있는지 보여주는 긍정적인 사례라고 평했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Claudeのリーマン失敗\n数学の突破口を開く",
+          "body": "Claudeはリーマン予想の証明に失敗したが、その試みがLamzouriの新証明を促した。",
+          "mini_headline": "Claudeの失敗が着想に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AIは素数の理解に貢献できるのか?"
+              },
+              {
+                "t": "p",
+                "x": "数学で最も悪名高い未解決問題の一つに挑んだAIモデルの失敗が、人間の数学者が関連する難問で前進する助けとなった。Anthropicは8月10日、未公開版のClaudeがリーマン予想の証明(あるいは反証)を試みた経緯をまとめたプレプリントを公開した。"
+              },
+              {
+                "t": "p",
+                "x": "試みは失敗に終わり、チームはより低い目標に切り替えた。リーマンゼータ関数の零点のうち、臨界線上にあるものの割合の下限である。1989年以降、少なくとも40%がそうであることが知られていた。Claudeは67.25%を達成した。"
+              },
+              {
+                "t": "p",
+                "x": "University of LorraineのYouness Lamzouriは、Claudeの論文が複雑すぎると感じ、Claudeが下敷きにした研究を読み込んで、数学の多くを迂回できる制約を見つけた。彼のより簡潔な証明は同じ67.25%に到達し、単純零点でも臨界線上でもない零点は多くても11%であることも示した。"
+              },
+              {
+                "t": "p",
+                "x": "「Claudeと私の間で起きたのはまさにこれだ」とLamzouriは語り、AIを宝を掘り出す巨大な機械に、人間をそれを理解しようと努める存在にたとえた。フィールズ賞受賞者のJames Maynardは、AIを踏まえて物事がどう進みうるかを示す好例だと評した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Claude黎曼猜想受挫\n却催生数学突破",
+          "body": "Claude未能证明黎曼猜想，但其尝试启发Youness Lamzouri给出新证明。",
+          "mini_headline": "Claude的黎曼失败带来启发",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "AI能否帮助人类理解素数？"
+              },
+              {
+                "t": "p",
+                "x": "一个AI模型在攻克数学界最著名的未解难题之一时失败了，却帮助一位人类数学家在相关难题上取得进展。8月10日，Anthropic发布了一篇预印本，介绍一个未发布版本的Claude如何尝试证明（或证伪）黎曼猜想。"
+              },
+              {
+                "t": "p",
+                "x": "尝试失败后，团队转向一个较低的目标：黎曼ζ函数位于临界线上的零点所占比例的下限。自1989年以来，数学家已知这一比例至少为40%。Claude则达到了67.25%。"
+              },
+              {
+                "t": "p",
+                "x": "University of Lorraine的Youness Lamzouri觉得Claude的论文过于复杂，于是阅读了Claude所借鉴的研究，发现了一个可绕开大量数学推导的约束条件。他更简洁的证明同样达到67.25%，并表明既非单零点、也不在临界线上的零点至多占11%。"
+              },
+              {
+                "t": "p",
+                "x": "“这正是发生在Claude和我之间的事，”Lamzouri说。他把AI比作挖掘宝藏的大型机器，而人类则努力去理解这些宝藏。菲尔兹奖得主James Maynard称，这是一个积极的例子，展示了在AI背景下事情可以如何推进。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El fallo de Claude con Riemann\nimpulsó un avance matemático",
+          "body": "Claude no logró demostrar la hipótesis de Riemann, pero su intento inspiró una nueva prueba de Youness Lamzouri.",
+          "mini_headline": "El fallo de Claude inspira",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+                "cap": "¿Podría la IA contribuir a entender los números primos?"
+              },
+              {
+                "t": "p",
+                "x": "El intento fallido de un modelo de IA por resolver uno de los problemas abiertos más célebres de las matemáticas ha ayudado a un matemático humano a avanzar en un enigma relacionado. El 10 de agosto, Anthropic publicó un preprint en el que describe cómo una versión no lanzada de Claude intentó demostrar (o refutar) la hipótesis de Riemann."
+              },
+              {
+                "t": "p",
+                "x": "El intento fracasó, así que el equipo se fijó un objetivo más modesto: la proporción mínima de ceros de la función zeta de Riemann que se encuentran sobre la línea crítica. Desde 1989, los matemáticos saben que al menos el 40% lo están. Claude alcanzó el 67.25%."
+              },
+              {
+                "t": "p",
+                "x": "Youness Lamzouri, de la University of Lorraine, consideró el artículo de Claude demasiado complicado, así que leyó los trabajos en los que se había basado Claude y detectó una restricción que evitaba gran parte de las matemáticas. Su prueba más sencilla llegó al mismo 67.25% y mostró que, como máximo, el 11% de los ceros no son simples ni están sobre la línea."
+              },
+              {
+                "t": "p",
+                "x": "\"Esto es lo que pasó entre Claude y yo\", dijo Lamzouri, quien comparó la IA con grandes máquinas que extraen un tesoro mientras los humanos trabajan para entenderlo. James Maynard, ganador de la Medalla Fields, lo calificó como un ejemplo positivo de cómo pueden avanzar las cosas a la luz de la IA."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "stratego",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
+      "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
+      "mini_headline": "AI, Stratego 정상에 서다",
+      "tool": "Science",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+          },
+          {
+            "t": "p",
+            "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 꺾는 AI를 만들었다. 지금껏 어떤 AI 시스템도 해내지 못한 일이다. 연구는 Nature에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "Stratego에서는 말끼리 부딪히기 전까지 각 말의 정체가 드러나지 않는다. 가능한 말 배치도 10의 66제곱이 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러를 쓰고도 최상위 인간 선수를 넘지 못했다."
+          },
+          {
+            "t": "p",
+            "x": "Ataraxos라는 이 시스템은 자기 대국 강화학습으로 청사진 전략을 익힌다. 그다음 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. DeepNash가 쓴 학습 예시의 백분의 일도 안 되는 양으로 DeepNash를 넘어섰다."
+          },
+          {
+            "t": "p",
+            "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 거뒀다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인 수준에 올랐다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 가려진 문제에 도움이 될 수 있다고 본다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Game-playing AI Ataraxos is\nthe new Stratego champ",
+          "body": "An AI from MIT, CMU, NYU and Stanford beat top Stratego players while costing far less to train than rivals.",
+          "mini_headline": "AI takes the Stratego crown",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Researchers from MIT, Carnegie Mellon University, New York University and Stanford University developed an AI that defeated top-ranked human players of the board wargame Stratego by a large margin, something no AI system had achieved. The work appears in Nature."
+              },
+              {
+                "t": "p",
+                "x": "In Stratego, the identity of each piece stays hidden until it collides with another, and possible piece configurations number more than 10 to the 66th power. Past efforts such as Google DeepMind's cost millions of dollars to train and still could not beat top human players."
+              },
+              {
+                "t": "p",
+                "x": "The system, Ataraxos, learns a blueprint strategy through self-play reinforcement learning, then uses decision-time planning with a generative model that estimates the opponent's hidden pieces. It surpassed DeepNash using less than one hundredth of the training examples."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos beat the world's strongest Stratego player 15-1-4 and went 39-2 against top players at the world championship. It also reached superhuman play in Barrage Stratego, Hanabi and Dou dizhu. Senior author Gabriele Farina says it could help with hidden-information problems such as negotiations or cybersecurity."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "博弈AI Ataraxos\n成为Stratego新冠军",
+          "body": "MIT、CMU、NYU和Stanford的AI击败Stratego顶尖玩家，训练成本低得多。",
+          "mini_headline": "AI登上Stratego王座",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "来自MIT、Carnegie Mellon University、New York University和Stanford University的研究人员开发出一款AI，在棋盘战争游戏Stratego中以大比分击败了顶级人类玩家，这是此前任何AI系统都未能做到的。该成果发表于Nature。"
+              },
+              {
+                "t": "p",
+                "x": "在Stratego中，每枚棋子的身份在与其他棋子相撞之前都处于隐藏状态，可能的棋子布局超过10的66次方种。包括Google DeepMind在内的以往尝试，训练成本高达数百万美元，仍无法击败顶尖人类玩家。"
+              },
+              {
+                "t": "p",
+                "x": "这套名为Ataraxos的系统先通过自我对弈强化学习掌握蓝图策略，再借助一个估计对手隐藏棋子的生成模型进行决策时规划。它所用的训练样本不到百分之一，却超越了DeepNash。"
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos以15-1-4战胜了世界最强的Stratego玩家，并在世界锦标赛上对阵顶尖选手取得39-2的战绩。它还在Barrage Stratego、Hanabi和Dou dizhu中达到超越人类的水平。资深作者Gabriele Farina表示，它可能有助于解决谈判或网络安全等涉及隐藏信息的问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ataraxos, la IA de juegos,\nes el nuevo campeón de Stratego",
+          "body": "Una IA de MIT, CMU, NYU y Stanford venció a los mejores jugadores de Stratego con un entrenamiento mucho más barato.",
+          "mini_headline": "La IA conquista Stratego",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores del MIT, la Carnegie Mellon University, la New York University y la Stanford University desarrollaron una IA que derrotó por amplio margen a los jugadores humanos mejor clasificados del juego de guerra de tablero Stratego, algo que ningún sistema de IA había logrado. El trabajo aparece en Nature."
+              },
+              {
+                "t": "p",
+                "x": "En Stratego, la identidad de cada pieza permanece oculta hasta que choca con otra, y las posibles configuraciones de piezas superan 10 elevado a la 66. Intentos anteriores, como el de Google DeepMind, costaron millones de dólares en entrenamiento y aun así no lograron vencer a los mejores jugadores humanos."
+              },
+              {
+                "t": "p",
+                "x": "El sistema, Ataraxos, aprende una estrategia base mediante aprendizaje por refuerzo jugando contra sí mismo y luego planifica en el momento de decidir con un modelo generativo que estima las piezas ocultas del rival. Superó a DeepNash con menos de la centésima parte de los ejemplos de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos venció al jugador de Stratego más fuerte del mundo por 15-1-4 y logró un 39-2 frente a los mejores jugadores en el campeonato mundial. También alcanzó un nivel sobrehumano en Barrage Stratego, Hanabi y Dou dizhu. El autor principal, Gabriele Farina, afirma que podría ayudar en problemas con información oculta, como negociaciones o ciberseguridad."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
+          "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
+          "mini_headline": "AI, Stratego 정상에 서다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 꺾는 AI를 만들었다. 지금껏 어떤 AI 시스템도 해내지 못한 일이다. 연구는 Nature에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "Stratego에서는 말끼리 부딪히기 전까지 각 말의 정체가 드러나지 않는다. 가능한 말 배치도 10의 66제곱이 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러를 쓰고도 최상위 인간 선수를 넘지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos라는 이 시스템은 자기 대국 강화학습으로 청사진 전략을 익힌다. 그다음 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. DeepNash가 쓴 학습 예시의 백분의 일도 안 되는 양으로 DeepNash를 넘어섰다."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 거뒀다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인 수준에 올랐다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 가려진 문제에 도움이 될 수 있다고 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ゲームAI Ataraxos\nStrategoの新王者",
+          "body": "MITなどのAIが、はるかに少ない学習コストでStrategoの強豪を破った。",
+          "mini_headline": "AIがStrategoの頂点に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MIT、Carnegie Mellon University（CMU）、New York University（NYU）、Stanford Universityの研究者が、ボード戦争ゲームStrategoのトップ人間プレーヤーに大差で勝つAIを開発した。これまでどのAIシステムも達成できなかった成果である。研究はNatureに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "Strategoでは各駒の正体が他の駒とぶつかるまで隠されており、駒の配置は10の66乗通りを超える。Google DeepMindなどの過去の試みは学習に数百万ドルを要したが、トップ人間プレーヤーには勝てなかった。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムAtaraxosは、自己対戦による強化学習で基本戦略を身につけ、相手の隠れた駒を推定する生成モデルを使って意思決定時に計画を立てる。DeepNashの百分の一に満たない学習例でDeepNashを上回った。"
+              },
+              {
+                "t": "p",
+                "x": "Ataraxosは世界最強のStrategoプレーヤーに15-1-4で勝ち、世界選手権ではトップ選手を相手に39-2の成績を収めた。Barrage Stratego、Hanabi、Dou dizhuでも超人的な水準に達した。責任著者のGabriele Farinaは、交渉やサイバーセキュリティなど情報が隠された問題に役立つ可能性があると語る。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "zh": {
+          "headline": "博弈AI Ataraxos\n成为Stratego新冠军",
+          "body": "MIT、CMU、NYU和Stanford的AI击败Stratego顶尖玩家，训练成本低得多。",
+          "mini_headline": "AI登上Stratego王座",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "来自MIT、Carnegie Mellon University、New York University和Stanford University的研究人员开发出一款AI，在棋盘战争游戏Stratego中以大比分击败了顶级人类玩家，这是此前任何AI系统都未能做到的。该成果发表于Nature。"
+              },
+              {
+                "t": "p",
+                "x": "在Stratego中，每枚棋子的身份在与其他棋子相撞之前都处于隐藏状态，可能的棋子布局超过10的66次方种。包括Google DeepMind在内的以往尝试，训练成本高达数百万美元，仍无法击败顶尖人类玩家。"
+              },
+              {
+                "t": "p",
+                "x": "这套名为Ataraxos的系统先通过自我对弈强化学习掌握蓝图策略，再借助一个估计对手隐藏棋子的生成模型进行决策时规划。它所用的训练样本不到百分之一，却超越了DeepNash。"
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos以15-1-4战胜了世界最强的Stratego玩家，并在世界锦标赛上对阵顶尖选手取得39-2的战绩。它还在Barrage Stratego、Hanabi和Dou dizhu中达到超越人类的水平。资深作者Gabriele Farina表示，它可能有助于解决谈判或网络安全等涉及隐藏信息的问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ataraxos, la IA de juegos,\nes el nuevo campeón de Stratego",
+          "body": "Una IA de MIT, CMU, NYU y Stanford venció a los mejores jugadores de Stratego con un entrenamiento mucho más barato.",
+          "mini_headline": "La IA conquista Stratego",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Investigadores del MIT, la Carnegie Mellon University, la New York University y la Stanford University desarrollaron una IA que derrotó por amplio margen a los jugadores humanos mejor clasificados del juego de guerra de tablero Stratego, algo que ningún sistema de IA había logrado. El trabajo aparece en Nature."
+              },
+              {
+                "t": "p",
+                "x": "En Stratego, la identidad de cada pieza permanece oculta hasta que choca con otra, y las posibles configuraciones de piezas superan 10 elevado a la 66. Intentos anteriores, como el de Google DeepMind, costaron millones de dólares en entrenamiento y aun así no lograron vencer a los mejores jugadores humanos."
+              },
+              {
+                "t": "p",
+                "x": "El sistema, Ataraxos, aprende una estrategia base mediante aprendizaje por refuerzo jugando contra sí mismo y luego planifica en el momento de decidir con un modelo generativo que estima las piezas ocultas del rival. Superó a DeepNash con menos de la centésima parte de los ejemplos de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos venció al jugador de Stratego más fuerte del mundo por 15-1-4 y logró un 39-2 frente a los mejores jugadores en el campeonato mundial. También alcanzó un nivel sobrehumano en Barrage Stratego, Hanabi y Dou dizhu. El autor principal, Gabriele Farina, afirma que podría ayudar en problemas con información oculta, como negociaciones o ciberseguridad."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
+          "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
+          "mini_headline": "AI, Stratego 정상에 서다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 이긴 AI를 개발했다. 지금까지 어떤 AI 시스템도 이루지 못한 성과다. 연구는 Nature에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "Stratego에서는 각 말의 정체가 다른 말과 부딪히기 전까지 드러나지 않고, 가능한 말 배치는 10의 66제곱을 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러가 들었지만 최상위 인간 선수를 이기지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "이 시스템 Ataraxos는 자기 대국 강화학습으로 청사진 전략을 익힌 뒤, 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. 학습 예시를 DeepNash의 백분의 일도 쓰지 않고 DeepNash를 넘어섰다."
+              },
+              {
+                "t": "p",
+                "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 기록했다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인적 수준에 도달했다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 숨겨진 문제에 도움이 될 수 있다고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ゲームAI Ataraxos\nStrategoの新王者",
+          "body": "MITなどのAIが、はるかに少ない学習コストでStrategoの強豪を破った。",
+          "mini_headline": "AIがStrategoの頂点に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MIT、Carnegie Mellon University（CMU）、New York University（NYU）、Stanford Universityの研究者が、ボード戦争ゲームStrategoのトップ人間プレーヤーに大差で勝つAIを開発した。これまでどのAIシステムも達成できなかった成果である。研究はNatureに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "Strategoでは各駒の正体が他の駒とぶつかるまで隠されており、駒の配置は10の66乗通りを超える。Google DeepMindなどの過去の試みは学習に数百万ドルを要したが、トップ人間プレーヤーには勝てなかった。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムAtaraxosは、自己対戦による強化学習で基本戦略を身につけ、相手の隠れた駒を推定する生成モデルを使って意思決定時に計画を立てる。DeepNashの百分の一に満たない学習例でDeepNashを上回った。"
+              },
+              {
+                "t": "p",
+                "x": "Ataraxosは世界最強のStrategoプレーヤーに15-1-4で勝ち、世界選手権ではトップ選手を相手に39-2の成績を収めた。Barrage Stratego、Hanabi、Dou dizhuでも超人的な水準に達した。責任著者のGabriele Farinaは、交渉やサイバーセキュリティなど情報が隠された問題に役立つ可能性があると語る。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "spaceweather",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
+      "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
+      "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+      "tool": "Science",
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "극한 우주기상은 송전망에 전류를 유도해 장비를 망가뜨리기도 한다. 저자는 Microsoft Research 여름 인턴십 기간에 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 지점별 추정치는 30-60분 앞서 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+            "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+          },
+          {
+            "t": "p",
+            "x": "시스템은 태양풍 측정값으로 AE와 Dst 지자기 지수부터 예측한다. 그래디언트 부스팅 모델은 이 값에 변전소별 위도와 지질 전도도를 더해 유도 전류 위험으로 이어지는 자기장 변화 dB/dt를 추정한다. 특성과 모델 구성을 찾는 작업은 AI 에이전트 50개로 이뤄진 시스템이 거들었다."
+          },
+          {
+            "t": "p",
+            "x": "2020-2026년 사이 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 잡아냈다. 전체 변전소 추정치를 내는 데는 약 333밀리초가 걸렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+            "cap": "대표적인 대형 폭풍 시나리오로 대륙 단위 GIC 위험을 평가한 시연 장면."
+          },
+          {
+            "t": "p",
+            "x": "전력망 운영에 쓰려면 전력회사와 운영 데이터로 추가 검증을 거쳐야 한다."
+          },
+          {
+            "t": "video",
+            "yt": "MCB3zM5dEVI"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI forecasts space-weather\nrisks to power grids",
+          "body": "A Microsoft Research model estimates space-weather risk for 66,935 U.S. substations 30-60 minutes ahead.",
+          "mini_headline": "AI forecasts grid storm risk",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Extreme space-weather events can induce currents in transmission networks that damage equipment. During a summer internship at Microsoft Research, the author built a machine learning system that forecasts space-weather risk across 66,935 substations in the continental United States, producing location-specific estimates 30-60 minutes ahead."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "End-to-end forecasting pipeline from L1 solar-wind measurements to location-specific risk estimates across 66,935 U.S. substations."
+              },
+              {
+                "t": "p",
+                "x": "Solar-wind measurements feed forecasts of the AE and Dst geomagnetic indices; a gradient-boosting model combines them with each substation's latitude and geological conductivity to estimate dB/dt, the magnetic-field change linked to induced-current risk. A system of 50 AI agents helped explore features and model configurations."
+              },
+              {
+                "t": "p",
+                "x": "Over 2020-2026, it detected 76.5% of major, 81.2% of severe and 64.1% of extreme events, and produced estimates for all substations in about 333 milliseconds."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "Demonstration of a continental GIC risk assessment under a representative major-storm scenario."
+              },
+              {
+                "t": "p",
+                "x": "Further validation with utilities and operational data would be needed before the system could be used in grid operations."
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
+          "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
+          "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "극한 우주기상은 송전망에 전류를 유도해 장비를 망가뜨리기도 한다. 저자는 Microsoft Research 여름 인턴십 기간에 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 지점별 추정치는 30-60분 앞서 나온다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+              },
+              {
+                "t": "p",
+                "x": "시스템은 태양풍 측정값으로 AE와 Dst 지자기 지수부터 예측한다. 그래디언트 부스팅 모델은 이 값에 변전소별 위도와 지질 전도도를 더해 유도 전류 위험으로 이어지는 자기장 변화 dB/dt를 추정한다. 특성과 모델 구성을 찾는 작업은 AI 에이전트 50개로 이뤄진 시스템이 거들었다."
+              },
+              {
+                "t": "p",
+                "x": "2020-2026년 사이 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 잡아냈다. 전체 변전소 추정치를 내는 데는 약 333밀리초가 걸렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "대표적인 대형 폭풍 시나리오로 대륙 단위 GIC 위험을 평가한 시연 장면."
+              },
+              {
+                "t": "p",
+                "x": "전력망 운영에 쓰려면 전력회사와 운영 데이터로 추가 검증을 거쳐야 한다."
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが宇宙天気の\n送電網リスクを予測",
+          "body": "AIがU.S.の変電所66,935カ所の宇宙天気リスクを30-60分前に推定する。",
+          "mini_headline": "AIが送電網の嵐リスクを予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "極端な宇宙天気現象は送電網に電流を誘導し、機器を損傷させることがある。筆者はMicrosoft Researchでの夏季インターン中に、米国（U.S.）本土の変電所66,935カ所の宇宙天気リスクを予測する機械学習システムを構築した。地点ごとの推定値を30-60分前に出す。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "L1の太陽風観測からU.S.の変電所66,935カ所の地点別リスク推定に至る一貫した予測パイプライン。"
+              },
+              {
+                "t": "p",
+                "x": "太陽風の観測値からAEとDstの地磁気指数を予測し、勾配ブースティングモデルがそれを各変電所の緯度や地質の導電率と組み合わせて、誘導電流リスクに関わる磁場変化dB/dtを推定する。50のAIエージェントからなるシステムが特徴量とモデル構成の探索を支えた。"
+              },
+              {
+                "t": "p",
+                "x": "2020-2026年の期間で、大規模イベントの76.5%、深刻なイベントの81.2%、極端なイベントの64.1%を検出し、全変電所の推定値を約333ミリ秒で算出した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "代表的な大規模嵐シナリオにおける大陸規模のGICリスク評価のデモ。"
+              },
+              {
+                "t": "p",
+                "x": "送電網の運用に使うには、電力会社や運用データによるさらなる検証が必要となる。"
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI预测空间天气\n对电网的风险",
+          "body": "AI模型可提前30-60分钟预估U.S.境内66,935座变电站的空间天气风险。",
+          "mini_headline": "AI预测电网风暴风险",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "极端空间天气事件可能在输电网络中感应出电流，损坏设备。作者在Microsoft Research暑期实习期间，构建了一套机器学习系统，可预测美国（U.S.）本土66,935座变电站的空间天气风险，并提前30-60分钟给出针对具体地点的估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "从L1太阳风测量到U.S.境内66,935座变电站逐点风险估计的端到端预测流程。"
+              },
+              {
+                "t": "p",
+                "x": "太阳风测量数据用于预测AE和Dst地磁指数；梯度提升模型将其与各变电站的纬度和地质电导率结合，估算与感应电流风险相关的磁场变化dB/dt。一个由50个AI智能体组成的系统协助探索特征和模型配置。"
+              },
+              {
+                "t": "p",
+                "x": "在2020-2026年间，该系统检测出76.5%的重大事件、81.2%的严重事件和64.1%的极端事件，并在约333毫秒内完成全部变电站的估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "在典型重大风暴情景下进行的大陆级GIC风险评估演示。"
+              },
+              {
+                "t": "p",
+                "x": "该系统要用于电网运行，还需要借助电力公司和运行数据进一步验证。"
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA predice riesgos del clima\nespacial para la red eléctrica",
+          "body": "Un modelo de Microsoft Research prevé 30-60 minutos antes el riesgo del clima espacial en 66,935 subestaciones de U.S.",
+          "mini_headline": "La IA anticipa tormentas en la red",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los eventos extremos de clima espacial pueden inducir corrientes en las redes de transmisión que dañan los equipos. Durante unas prácticas de verano en Microsoft Research, el autor creó un sistema de aprendizaje automático que pronostica el riesgo del clima espacial en 66,935 subestaciones del territorio continental de Estados Unidos (U.S.), con estimaciones por ubicación 30-60 minutos antes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "Proceso de pronóstico completo, desde las mediciones de viento solar en L1 hasta las estimaciones de riesgo por ubicación en 66,935 subestaciones de U.S."
+              },
+              {
+                "t": "p",
+                "x": "Las mediciones del viento solar alimentan los pronósticos de los índices geomagnéticos AE y Dst; un modelo de gradient boosting los combina con la latitud y la conductividad geológica de cada subestación para estimar dB/dt, el cambio del campo magnético asociado al riesgo de corrientes inducidas. Un sistema de 50 agentes de IA ayudó a explorar variables y configuraciones del modelo."
+              },
+              {
+                "t": "p",
+                "x": "En 2020-2026 detectó el 76.5% de los eventos mayores, el 81.2% de los severos y el 64.1% de los extremos, y generó estimaciones para todas las subestaciones en unos 333 milisegundos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "Demostración de una evaluación continental del riesgo de GIC en un escenario representativo de tormenta mayor."
+              },
+              {
+                "t": "p",
+                "x": "Antes de usar el sistema en la operación de la red haría falta validarlo más con empresas eléctricas y datos operativos."
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
+          "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
+          "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "극한 우주기상 현상은 송전망에 전류를 유도해 장비를 손상시킬 수 있다. 저자는 Microsoft Research 여름 인턴십 동안 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 이 시스템은 지점별 추정치를 30-60분 앞서 내놓는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+              },
+              {
+                "t": "p",
+                "x": "태양풍 측정값으로 AE와 Dst 지자기 지수를 예측하고, 그래디언트 부스팅 모델이 이를 각 변전소의 위도와 지질 전도도와 결합해 유도 전류 위험과 연결된 자기장 변화 dB/dt를 추정한다. AI 에이전트 50개로 이뤄진 시스템이 특성과 모델 구성 탐색을 도왔다."
+              },
+              {
+                "t": "p",
+                "x": "2020-2026년 기간에 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 감지했고, 전체 변전소에 대한 추정치를 약 333밀리초 만에 산출했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "대표적인 대형 폭풍 시나리오에서 대륙 단위 GIC 위험 평가를 시연한 모습."
+              },
+              {
+                "t": "p",
+                "x": "전력망 운영에 쓰이려면 전력회사 및 운영 데이터를 통한 추가 검증이 필요하다."
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが宇宙天気の\n送電網リスクを予測",
+          "body": "AIがU.S.の変電所66,935カ所の宇宙天気リスクを30-60分前に推定する。",
+          "mini_headline": "AIが送電網の嵐リスクを予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "極端な宇宙天気現象は送電網に電流を誘導し、機器を損傷させることがある。筆者はMicrosoft Researchでの夏季インターン中に、米国（U.S.）本土の変電所66,935カ所の宇宙天気リスクを予測する機械学習システムを構築した。地点ごとの推定値を30-60分前に出す。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "L1の太陽風観測からU.S.の変電所66,935カ所の地点別リスク推定に至る一貫した予測パイプライン。"
+              },
+              {
+                "t": "p",
+                "x": "太陽風の観測値からAEとDstの地磁気指数を予測し、勾配ブースティングモデルがそれを各変電所の緯度や地質の導電率と組み合わせて、誘導電流リスクに関わる磁場変化dB/dtを推定する。50のAIエージェントからなるシステムが特徴量とモデル構成の探索を支えた。"
+              },
+              {
+                "t": "p",
+                "x": "2020-2026年の期間で、大規模イベントの76.5%、深刻なイベントの81.2%、極端なイベントの64.1%を検出し、全変電所の推定値を約333ミリ秒で算出した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "代表的な大規模嵐シナリオにおける大陸規模のGICリスク評価のデモ。"
+              },
+              {
+                "t": "p",
+                "x": "送電網の運用に使うには、電力会社や運用データによるさらなる検証が必要となる。"
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI预测空间天气\n对电网的风险",
+          "body": "AI模型可提前30-60分钟预估U.S.境内66,935座变电站的空间天气风险。",
+          "mini_headline": "AI预测电网风暴风险",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "极端空间天气事件可能在输电网络中感应出电流，损坏设备。作者在Microsoft Research暑期实习期间，构建了一套机器学习系统，可预测美国（U.S.）本土66,935座变电站的空间天气风险，并提前30-60分钟给出针对具体地点的估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "从L1太阳风测量到U.S.境内66,935座变电站逐点风险估计的端到端预测流程。"
+              },
+              {
+                "t": "p",
+                "x": "太阳风测量数据用于预测AE和Dst地磁指数；梯度提升模型将其与各变电站的纬度和地质电导率结合，估算与感应电流风险相关的磁场变化dB/dt。一个由50个AI智能体组成的系统协助探索特征和模型配置。"
+              },
+              {
+                "t": "p",
+                "x": "在2020-2026年间，该系统检测出76.5%的重大事件、81.2%的严重事件和64.1%的极端事件，并在约333毫秒内完成全部变电站的估计。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "在典型重大风暴情景下进行的大陆级GIC风险评估演示。"
+              },
+              {
+                "t": "p",
+                "x": "该系统要用于电网运行，还需要借助电力公司和运行数据进一步验证。"
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA predice riesgos del clima\nespacial para la red eléctrica",
+          "body": "Un modelo de Microsoft Research prevé 30-60 minutos antes el riesgo del clima espacial en 66,935 subestaciones de U.S.",
+          "mini_headline": "La IA anticipa tormentas en la red",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los eventos extremos de clima espacial pueden inducir corrientes en las redes de transmisión que dañan los equipos. Durante unas prácticas de verano en Microsoft Research, el autor creó un sistema de aprendizaje automático que pronostica el riesgo del clima espacial en 66,935 subestaciones del territorio continental de Estados Unidos (U.S.), con estimaciones por ubicación 30-60 minutos antes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+                "cap": "Proceso de pronóstico completo, desde las mediciones de viento solar en L1 hasta las estimaciones de riesgo por ubicación en 66,935 subestaciones de U.S."
+              },
+              {
+                "t": "p",
+                "x": "Las mediciones del viento solar alimentan los pronósticos de los índices geomagnéticos AE y Dst; un modelo de gradient boosting los combina con la latitud y la conductividad geológica de cada subestación para estimar dB/dt, el cambio del campo magnético asociado al riesgo de corrientes inducidas. Un sistema de 50 agentes de IA ayudó a explorar variables y configuraciones del modelo."
+              },
+              {
+                "t": "p",
+                "x": "En 2020-2026 detectó el 76.5% de los eventos mayores, el 81.2% de los severos y el 64.1% de los extremos, y generó estimaciones para todas las subestaciones en unos 333 milisegundos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+                "cap": "Demostración de una evaluación continental del riesgo de GIC en un escenario representativo de tormenta mayor."
+              },
+              {
+                "t": "p",
+                "x": "Antes de usar el sistema en la operación de la red haría falta validarlo más con empresas eléctricas y datos operativos."
+              },
+              {
+                "t": "video",
+                "yt": "MCB3zM5dEVI"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "adaptivemath",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
+      "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
+      "mini_headline": "AI, 수학에 작은 도움",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
+          },
+          {
+            "t": "p",
+            "x": "Radboud University가 아이 약 8,000명을 여러 해 동안 지켜본 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 이 도구가 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적했다. 학생 수준에 맞춰 문제를 바꿔 주는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 견줬다. 연구는 Learning and Instruction에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과가 가장 뚜렷했던 곳은 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교였다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "도구는 교사를 대신하지 않고 돕는다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”며 통제권은 언제나 교사에게 있다고 설명한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Adaptive AI lifts math a little\nbut the teacher stays essential",
+          "body": "A three-year Radboud University study of nearly 8,000 Dutch pupils found adaptive AI tools modestly lifted arithmetic.",
+          "mini_headline": "AI gives math a small lift",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Elementary school students who use an AI-supported learning tool learn arithmetic more quickly than children who do not, according to a multiyear Radboud University study involving nearly 8,000 children. But the researchers warn it's no miracle cure: the teacher's role remains essential."
+              },
+              {
+                "t": "p",
+                "x": "The team followed 7,885 Dutch pupils over three years, between 2014 and 2017, comparing classes that used an adaptive system, which adjusts exercises to each student's level, with classes that did not. The study is published in Learning and Instruction."
+              },
+              {
+                "t": "p",
+                "x": "\"We have found small effects, but generally a positive trend,\" says education researcher Susanne de Mooij, adding that the effect was clearest in large schools and vulnerable schools with many students from less advantaged backgrounds."
+              },
+              {
+                "t": "p",
+                "x": "The tool supports teachers rather than replacing them. \"A teacher cannot adapt the lesson content to 30 students at the same time,\" she says, and the teacher always remains in control."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
+          "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
+          "mini_headline": "AI, 수학에 작은 도움",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud University가 아이 약 8,000명을 여러 해 동안 지켜본 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 이 도구가 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적했다. 학생 수준에 맞춰 문제를 바꿔 주는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 견줬다. 연구는 Learning and Instruction에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과가 가장 뚜렷했던 곳은 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교였다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "도구는 교사를 대신하지 않고 돕는다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”며 통제권은 언제나 교사에게 있다고 설명한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "適応型AIで算数は微増\n教師の役割は不可欠",
+          "body": "オランダの児童約8,000人を追った研究で、適応型AIが算数力をやや高めた。",
+          "mini_headline": "AIで算数が少し向上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud Universityが約8,000人の子どもを対象に複数年にわたって行った研究によると、AI支援型（AI-supported）の学習ツールを使う小学生は、使わない子どもより算数を速く身につける。ただし研究者は、万能薬ではなく教師の役割が依然として欠かせないと警告する。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは2014年から2017年までの三年間、オランダの児童7,885人を追跡し、各児童のレベルに合わせて問題を調整する適応型システムを使った学級と使わなかった学級を比較した。研究はLearning and Instructionに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "教育研究者のSusanne de Mooijは「効果は小さいが、全体として前向きな傾向が見られた」と話す。効果は大規模校と、恵まれない家庭の児童が多い脆弱な学校で最も顕著だったという。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは教師に取って代わるのではなく、教師を支える。「教師が30人の児童に同時に授業内容を合わせることはできない」と彼女は言い、主導権は常に教師にあるとする。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "自适应AI小幅提升数学\n教师仍不可或缺",
+          "body": "一项对近8,000名荷兰小学生的三年研究发现，自适应AI工具小幅提升了算术。",
+          "mini_headline": "AI让数学小幅进步",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud University一项涉及近8,000名儿童的多年研究显示，使用AI辅助（AI-supported）学习工具的小学生，算术学得比不用的孩子更快。但研究人员提醒，这并非灵丹妙药：教师的作用依然不可或缺。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队在2014年至2017年的三年间追踪了7,885名荷兰学生，比较了使用自适应系统（根据每个学生的水平调整练习）的班级与未使用的班级。研究发表于Learning and Instruction。"
+              },
+              {
+                "t": "p",
+                "x": "教育研究者Susanne de Mooij表示：“我们发现的效果不大，但总体呈积极趋势。”她补充说，效果在大型学校以及弱势家庭学生较多的薄弱学校中最为明显。"
+              },
+              {
+                "t": "p",
+                "x": "该工具是辅助教师，而非取代教师。她说：“一位教师无法同时为30名学生调整教学内容。”而教师始终掌握主导权。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA adaptativa mejora algo\nel cálculo; el docente es clave",
+          "body": "En tres años, un estudio de Radboud University con casi 8,000 alumnos vio que la IA adaptativa mejoró algo el cálculo.",
+          "mini_headline": "La IA da un pequeño impulso a las matemáticas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los alumnos de primaria que usan una herramienta de aprendizaje con apoyo de IA (AI-supported) aprenden aritmética más rápido que quienes no la usan, según un estudio plurianual de Radboud University con casi 8,000 niños. Pero los investigadores advierten que no es una solución milagrosa: el papel del docente sigue siendo esencial."
+              },
+              {
+                "t": "p",
+                "x": "El equipo siguió a 7,885 alumnos neerlandeses durante tres años, entre 2014 y 2017, y comparó las clases que usaron un sistema adaptativo, que ajusta los ejercicios al nivel de cada alumno, con las que no lo usaron. El estudio se publica en Learning and Instruction."
+              },
+              {
+                "t": "p",
+                "x": "“Hemos encontrado efectos pequeños, pero en general una tendencia positiva”, dice la investigadora educativa Susanne de Mooij, que añade que el efecto fue más claro en escuelas grandes y en escuelas vulnerables con muchos alumnos de entornos menos favorecidos."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta apoya a los docentes en lugar de sustituirlos. “Un docente no puede adaptar el contenido de la clase a 30 alumnos a la vez”, afirma, y el docente siempre mantiene el control."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
+          "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
+          "mini_headline": "AI, 수학에 작은 도움",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud University가 약 8,000명의 아이를 대상으로 여러 해에 걸쳐 진행한 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적하며, 학생 수준에 맞춰 문제를 조정하는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 비교했다. 연구는 Learning and Instruction에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과는 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교에서 가장 뚜렷했다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 교사를 대체하지 않고 지원한다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”고 말하며, 통제권은 언제나 교사에게 있다고 설명한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "適応型AIで算数は微増\n教師の役割は不可欠",
+          "body": "オランダの児童約8,000人を追った研究で、適応型AIが算数力をやや高めた。",
+          "mini_headline": "AIで算数が少し向上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud Universityが約8,000人の子どもを対象に複数年にわたって行った研究によると、AI支援型（AI-supported）の学習ツールを使う小学生は、使わない子どもより算数を速く身につける。ただし研究者は、万能薬ではなく教師の役割が依然として欠かせないと警告する。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは2014年から2017年までの三年間、オランダの児童7,885人を追跡し、各児童のレベルに合わせて問題を調整する適応型システムを使った学級と使わなかった学級を比較した。研究はLearning and Instructionに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "教育研究者のSusanne de Mooijは「効果は小さいが、全体として前向きな傾向が見られた」と話す。効果は大規模校と、恵まれない家庭の児童が多い脆弱な学校で最も顕著だったという。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは教師に取って代わるのではなく、教師を支える。「教師が30人の児童に同時に授業内容を合わせることはできない」と彼女は言い、主導権は常に教師にあるとする。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "自适应AI小幅提升数学\n教师仍不可或缺",
+          "body": "一项对近8,000名荷兰小学生的三年研究发现，自适应AI工具小幅提升了算术。",
+          "mini_headline": "AI让数学小幅进步",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Radboud University一项涉及近8,000名儿童的多年研究显示，使用AI辅助（AI-supported）学习工具的小学生，算术学得比不用的孩子更快。但研究人员提醒，这并非灵丹妙药：教师的作用依然不可或缺。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队在2014年至2017年的三年间追踪了7,885名荷兰学生，比较了使用自适应系统（根据每个学生的水平调整练习）的班级与未使用的班级。研究发表于Learning and Instruction。"
+              },
+              {
+                "t": "p",
+                "x": "教育研究者Susanne de Mooij表示：“我们发现的效果不大，但总体呈积极趋势。”她补充说，效果在大型学校以及弱势家庭学生较多的薄弱学校中最为明显。"
+              },
+              {
+                "t": "p",
+                "x": "该工具是辅助教师，而非取代教师。她说：“一位教师无法同时为30名学生调整教学内容。”而教师始终掌握主导权。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA adaptativa mejora algo\nel cálculo; el docente es clave",
+          "body": "En tres años, un estudio de Radboud University con casi 8,000 alumnos vio que la IA adaptativa mejoró algo el cálculo.",
+          "mini_headline": "La IA da un pequeño impulso a las matemáticas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los alumnos de primaria que usan una herramienta de aprendizaje con apoyo de IA (AI-supported) aprenden aritmética más rápido que quienes no la usan, según un estudio plurianual de Radboud University con casi 8,000 niños. Pero los investigadores advierten que no es una solución milagrosa: el papel del docente sigue siendo esencial."
+              },
+              {
+                "t": "p",
+                "x": "El equipo siguió a 7,885 alumnos neerlandeses durante tres años, entre 2014 y 2017, y comparó las clases que usaron un sistema adaptativo, que ajusta los ejercicios al nivel de cada alumno, con las que no lo usaron. El estudio se publica en Learning and Instruction."
+              },
+              {
+                "t": "p",
+                "x": "“Hemos encontrado efectos pequeños, pero en general una tendencia positiva”, dice la investigadora educativa Susanne de Mooij, que añade que el efecto fue más claro en escuelas grandes y en escuelas vulnerables con muchos alumnos de entornos menos favorecidos."
+              },
+              {
+                "t": "p",
+                "x": "La herramienta apoya a los docentes en lugar de sustituirlos. “Un docente no puede adaptar el contenido de la clase a 30 alumnos a la vez”, afirma, y el docente siempre mantiene el control."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

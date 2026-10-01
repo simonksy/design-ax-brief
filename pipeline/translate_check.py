@@ -15,6 +15,15 @@ LATIN_MULT = [(r"mil\s+millones", 1e9), (r"millones|millón|million|mn\b|m\b", 1
               (r"billones|billón", 1e12), (r"billion|bn\b|b\b", 1e9), (r"trillion", 1e12),
               (r"thousand|mil\b|k\b", 1e3)]
 
+# A 1- or 2-letter Latin multiplier ABBREVIATION (k/K, m/M, b/B, bn, mn) only applies
+# as a multiplier when the number's integer part is at most 3 digits (< 1000) — "5M",
+# "30.3B", "100k", "$2bn" are magnitudes, but a 4-digit number with a trailing single
+# letter is almost always something else gluing onto it, most commonly a product
+# version string ("MATLAB, Simulink 2026b" — the "b" is a beta/revision suffix, not a
+# billion). Spelled-out multiplier words (thousand, million, billion, millones, …) are
+# unaffected — nobody writes "2026 billion" to mean 2026.
+LATIN_ABBREV = {"k", "m", "b", "mn", "bn"}
+
 # CJK magnitude characters are stacked, not chosen from one at a time: "천만" (lit.
 # "thousand ten-thousand") means (thousand × ten-thousand) = 10,000,000, the normal
 # Korean/Japanese/Chinese way to write $10M-scale numbers — "3천만 달러" is just as
@@ -32,10 +41,88 @@ CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
 # 拾/佰/仟 (formal/anti-fraud variants of 十/百/千, mainly on Chinese cheques) are
 # deliberately not included — real news copy doesn't use them.
 _CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
+# A date/time counter right after a would-be CJK-group remainder means that number
+# is a date/time component, not a continuation of the group's count — "3만 2024년"
+# is 30,000 (something) and separately the year 2024, not 32,024 of anything.
+_DATE_TIME_COUNTERS = set("년年월月일日시時분分초秒")
 
 UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN
-NUM = re.compile(r"(\d[\d,.\s]*\d|\d)\s*(" + UNIT + r")?", re.I)
-CURRENCY = re.compile(r"[$€£¥₩]|달러|원|ドル|円|美元|元|dólares|euros|dollars", re.I)
+# A thousands separator (",") or European grouping dot (".") only counts as part of
+# ONE number when it is followed by exactly three digits and then a non-digit; this
+# keeps whitespace from ever being swallowed into a number (a date like "25, 2026"
+# must not merge into "252026") since whitespace is no longer in the token's character
+# class at all, and keeps a 4+ digit run after a separator from being misread as a
+# thousands group.
+#
+# Deliberately NO lookbehind/lookahead on this regex: an assertion anchored to a
+# fixed offset from the END of a greedy \d+ forces the engine to backtrack the digit
+# run to whatever shorter prefix satisfies it (e.g. "123kg" would shrink to "12" to
+# dodge a trailing-letter lookahead, silently corrupting the value — 123 and 120 both
+# collapsed to the same wrong "12"). Letters glued to a number are decided in Python
+# instead, by inspecting the plain string around each match (see _scan): a letter
+# (optionally letter+hyphen) immediately BEFORE a number means it's not a number at
+# all ("Y2K", the "4" in "GPT-4o"); a letter immediately AFTER a number is just a unit
+# or suffix ("123kg" is 123, "1990s" is 1990, "100MB" is 100) and never truncates the
+# digits — it only blocks a *multiplier* word/abbreviation from applying ("2km" is a
+# bare 2, not 2000, because "k" is directly followed by "m").
+NUM_CORE = r"\d{1,3}(?:[,.]\d{3})+(?!\d)|\d+(?:[.,]\d+)?"
+NUM = re.compile(r"(" + NUM_CORE + r")\s*(" + UNIT + r")?", re.I)
+CURRENCY_SYMS = "$€£¥₩"
+CURRENCY = re.compile(r"[" + CURRENCY_SYMS + r"]|달러|원|엔|위안|유로|ドル|円|美元|元|dólares|euros|dollars", re.I)
+
+# 조/兆 is ambiguous in Korean/Japanese: it's the ×10^12 multiplier by default
+# ("4조 원" = 4 trillion won, "매출 4조" = revenue of 4 trillion — no currency word
+# required), but it's ALSO the word for a law/contract "Article" ("제4조" =
+# "Article 4", "9401조 (3)항" = "§ 9401(3)") — a shape real legal/regulatory copy
+# uses constantly. Treat it as a bare article number (no multiplier) ONLY when
+# "제" immediately precedes the digits, or an article/clause marker ("항",
+# optionally as "(N)항") immediately follows the 조/兆 after optional whitespace.
+TRILLION_CHARS = {"조", "兆"}
+_ARTICLE_RE = re.compile(r"\s*(?:\(\d+\)|\d+)?\s*항")
+# A Korean particle that can directly follow "항" as part of an article/clause
+# reference ("3항에 따라", "9401조 (3)항이 정의한") — checking only the FIRST
+# character covers multi-syllable particles too ("에서" starts with "에").
+_PARTICLES = set("에의을를은는이가과와")
+
+
+def _is_hangul(ch):
+    return bool(ch) and "가" <= ch <= "힣"
+
+
+def _is_article_marker(rest):
+    """True iff `rest` (the text right after a 조/兆) opens with an article/clause
+    reference ("항" / "(N)항") that is actually acting as one — i.e. "항" is NOT
+    immediately followed by another Hangul syllable (meaning it's the end of a
+    word, punctuation, or end of text), or that next syllable is a particle. This
+    stops a word that merely STARTS with "항" ("항공산업" = aviation industry) from
+    being misread as an article marker: numbers("4조 항공산업에 투자") must keep the
+    4e12, since "항" there is immediately followed by "공", neither absent nor a
+    particle."""
+    m = _ARTICLE_RE.match(rest)
+    if not m:
+        return False
+    nxt = rest[m.end(): m.end() + 1]
+    return not _is_hangul(nxt) or nxt in _PARTICLES
+
+
+def _trillion_valid(text, start, unit_end):
+    # "제" counts as the article marker ("제4조", "제 4조") only when IT is itself
+    # at a word boundary — whitespace, punctuation, or start of text right before
+    # it — so a word that merely ENDS in "제" ("경제4조" = "economy" + "4조")
+    # doesn't trigger it: numbers("경제4조 원 규모") must keep the 4e12. Optional
+    # whitespace between "제" and the digits is allowed ("제 4조에 따라").
+    idx = start - 1
+    while idx >= 0 and text[idx].isspace():
+        idx -= 1
+    if idx >= 0 and text[idx] == "제":
+        prev2 = text[idx - 1] if idx >= 1 else ""
+        if not prev2.isalnum():
+            return False
+    return not _is_article_marker(text[unit_end:])
+
+
+def _latin(ch):
+    return bool(ch) and ch.isascii() and ch.isalpha()
 
 
 def _unit_mult(unit):
@@ -66,44 +153,143 @@ def _value(raw):
         return None
 
 
-def numbers(text):
+def _scan(text):
+    """Yield (value, unit_derived) for every number-ish token in text, honoring the
+    bare day/month exemption, the money-adjacency override, and CJK chaining.
+    unit_derived is True iff the token's magnitude came from an explicit multiplier
+    unit (a Latin word/abbreviation or a CJK magnitude run) rather than being a bare
+    digit string."""
     text = text or ""
     matches = []
     for m in NUM.finditer(text):
+        start, digit_end = m.start(), m.end(1)
+        # Glued to a preceding Latin letter — directly ("Y2K") — means this is not a
+        # number at all. A letter-HYPHEN-digit is only glued when the digit run is
+        # ALSO immediately followed by a letter, i.e. the full letter-hyphen-digit-
+        # letter shape of "GPT-4o" (the "4" sits between "-" and "o"). A bare
+        # letter-hyphen-digit with nothing stuck on the other side — "F-35 fighter",
+        # "Fortune-500 list" — is a real designator, not a glued-together token: the
+        # hyphen there is separating, not fusing, so the number must survive.
+        prev = text[start - 1] if start >= 1 else ""
+        glued = _latin(prev)
+        if not glued and prev == "-" and start >= 2 and _latin(text[start - 2]):
+            glued = _latin(text[digit_end: digit_end + 1])
+        if glued:
+            continue
         v = _value(m.group(1))
         if v is None:
             continue
         unit = m.group(2) or ""
         mult, is_cjk = _unit_mult(unit)
+        # A Latin multiplier unit/abbreviation only multiplies when nothing is glued
+        # right after it ("5M users" is 5,000,000; "100MB" is a bare 100, since "M" is
+        # immediately followed by "B", not a boundary — it's a suffix, not a unit).
+        # CJK magnitude units are never affected by this — "100万users" still means
+        # 1,000,000, since "万" isn't a Latin abbreviation that a following Latin
+        # letter could turn into a mere suffix.
+        if unit and mult != 1 and not is_cjk and _latin(text[m.end(): m.end() + 1]):
+            mult, is_cjk = 1, False
+        # A 1-/2-letter Latin abbreviation (k/m/b/mn/bn) only multiplies a number
+        # whose integer part is at most 3 digits — "2026b" (a version string) stays
+        # 2026, not 2026 billion. Spelled-out words are untouched by this.
+        if unit and mult != 1 and not is_cjk and unit.lower() in LATIN_ABBREV and v >= 1000:
+            mult, is_cjk = 1, False
+        # 조/兆 alone is often an "Article" marker, not the trillion multiplier —
+        # see _trillion_valid. (A 조/兆 stacked with other CJK magnitude characters,
+        # e.g. "천조", is unambiguous and left alone.)
+        if unit in TRILLION_CHARS and not _trillion_valid(text, start, m.end()):
+            mult, is_cjk = 1, False
         matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
 
-    out = set()
+    out = []
     i, n = 0, len(matches)
     while i < n:
         start_i, end_i, v_i, unit_i, mult_i, cjk_i = matches[i]
         term = v_i * mult_i
         chain_mult, chain_cjk, j = mult_i, cjk_i, i
         while chain_cjk and chain_mult > 1 and j + 1 < n:
-            s2, _e2, v2, _u2, mult2, cjk2 = matches[j + 1]
+            s2, e2, v2, u2, mult2, cjk2 = matches[j + 1]
             gap = text[matches[j][1]: s2]
             if cjk2 and 1 < mult2 < chain_mult and gap.strip() == "":
                 term += v2 * mult2
                 chain_mult, chain_cjk = mult2, cjk2
+                j += 1
+            elif (not cjk2 and mult2 == 1 and not u2
+                  and chain_mult / 10 <= v2 < chain_mult
+                  and gap in ("", " ")
+                  and (e2 >= len(text) or (not (text[e2].isdigit() or text[e2].isspace())
+                                            and text[e2] not in _DATE_TIME_COUNTERS))):
+                # A bare (unitless) number right after a CJK magnitude group, with at
+                # most one space between them, is read as CONTINUING that group's
+                # count rather than a separate figure — Korean/Japanese commonly
+                # write a number as 만-group + remainder instead of a single Arabic
+                # numeral: "약 3만 5000부" = "about 35,000 copies", "1만1,138개" =
+                # "11,138 items" (the GROUPED comma form "1,138" is itself a single
+                # bare match here). But this must be NARROW: the remainder only
+                # merges when it fills the next-lower order of magnitude under the
+                # group's multiplier M (M/10 <= v2 < M — a 4-digit remainder under
+                # 만, an 11-digit-scale remainder under 조, …); otherwise "4조 5명"
+                # (4 trillion, 5 attendees) or "4조 5000원" (4 trillion won
+                # investment, separately 5000 won) would wrongly fuse into one
+                # number. It also never merges when immediately followed by a
+                # date/time counter (년/월/일/시/분/초/…) — "3만 2024년 개봉" is
+                # 30,000 (something) + the year 2024, not 32024 of anything. Require
+                # the remainder to be immediately followed by a non-digit,
+                # non-whitespace, non-date/time counter (or end of text) — e.g.
+                # "부", "개", "명" fused directly on — rather than trying to resolve
+                # the genuinely ambiguous case of a *separate* number later in the
+                # same sentence; a particle-joined list like "3만 명과 5000명" never
+                # reaches here anyway, since its gap is "명과" (non-empty, not a
+                # single space) and breaks the chain below.
+                term += v2
+                chain_mult, chain_cjk = 1, False
                 j += 1
             else:
                 break
         # the bare day/month exemption only applies to a lone, unmerged, un-multiplied
         # integer — a compound CJK number (mult > 1) is never a date
         if j == i and mult_i == 1 and unit_i != "%":
-            tail = text[end_i: end_i + 12]
-            head = text[max(0, start_i - 2): start_i]
-            money = bool(CURRENCY.search(tail) or CURRENCY.search(head))
+            # Money overrides the day/month exemption, but only on TIGHT adjacency: a
+            # currency symbol immediately before the number (whitespace allowed), or a
+            # currency word/symbol immediately after it — after the multiplier unit (if
+            # any; already inside [end_i] since the unit is part of the match) and
+            # whitespace. A "$" or "5" merely appearing somewhere nearby in the
+            # sentence (e.g. "Sonnet 5: $2 per million") must NOT make "5" money.
+            head_stripped = text[:start_i].rstrip()
+            money_before = bool(head_stripped) and head_stripped[-1] in CURRENCY_SYMS
+            tail_stripped = text[end_i:].lstrip()
+            money_after = bool(CURRENCY.match(tail_stripped))
+            money = money_before or money_after
             if not money and v_i.is_integer() and v_i <= 31:
                 i = j + 1
                 continue
-        out.add(round(term, 2))
+        out.append((round(term, 2), mult_i != 1))
         i = j + 1
     return out
+
+
+def numbers(text):
+    return {term for term, _ in _scan(text)}
+
+
+def _is_pow10_ge(value, floor):
+    """True iff value is an exact power of ten that is >= floor."""
+    if value < floor:
+        return False
+    t = int(round(value))
+    if t <= 0 or t != value:
+        return False
+    s = str(t)
+    return s[0] == "1" and set(s[1:]) <= {"0"}
+
+
+def _idiomatic_pow10(text):
+    """Values that are an exact power of ten >= 10,000 AND came from a digit+unit
+    magnitude combo (100만, 1억, 1 million, 1M, …) rather than a bare literal digit
+    string. A translation is free to reword that combo idiomatically (e.g. "100만
+    토큰당" -> "per million tokens"), dropping the literal digit — that is a style
+    choice, not a dropped fact, so it must not fail check()."""
+    return {term for term, unit_derived in _scan(text) if unit_derived and _is_pow10_ge(term, 10000)}
 
 
 # Python's \b is Unicode-aware, so it will NOT split "FTC" from an attached Korean/
@@ -112,13 +298,26 @@ def numbers(text):
 # so a CJK neighbor still counts as a boundary.
 BRAND = re.compile(r"(?<![A-Za-z0-9])[A-Za-z][A-Za-z0-9.+\-]*[A-Za-z0-9](?![A-Za-z0-9])")
 
+# Generic acronyms that read as all-caps brand-shaped tokens but are not names: a
+# translation is free to render them natively (Spanish "IA" for "AI", Chinese "界面"
+# for "UI") without that counting as a dropped brand/name.
+GENERIC_ACRONYMS = {"ai", "ui", "ux", "ceo", "cto", "cfo", "coo", "cpo",
+                     "vr", "ar", "xr", "pc", "tv", "os",
+                     "eu", "us", "usa", "uk", "un", "g7", "g20", "nato", "oecd", "who",
+                     "sns", "sf", "la", "ny", "dna", "adhd", "hd", "ott", "ugc", "mou",
+                     "ipo", "gdp", "faq", "pdf", "gps", "cpu", "gpu", "ram", "ssd", "usb",
+                     "ip", "rnd"}
+
 
 def brand_tokens(text):
     out = set()
     for t in BRAND.findall(text or ""):
+        low = t.lower()
+        if low in GENERIC_ACRONYMS:
+            continue
         mixed = any(c.isupper() for c in t[1:]) and any(c.islower() for c in t)
         if mixed or any(c.isdigit() for c in t) or (t.isupper() and len(t) >= 2):
-            out.add(t.lower())
+            out.add(low)
     return out
 
 
@@ -157,10 +356,19 @@ def check(src, tgt, lang):
     # drops or changes hide behind an unrelated field that still has it (and vice
     # versa) — the headline has its own line-count check above but still carries
     # facts (e.g. a dollar amount) that must survive just like the body's.
+    # The "body" error label is deliberately "body/full text", not "body" — this
+    # check spans the one-line card body AND the long-form full.blocks paragraphs,
+    # and a bare "body" reads to a translator as just the one-line sentence,
+    # pushing them to stuff a dropped fact back into that line instead of wherever
+    # (body or full text) it actually belongs.
     for name, s_text, t_text in (("headline", _headline_text(src), _headline_text(tgt)),
-                                  ("body", _body_text(src), _body_text(tgt))):
+                                  ("body/full text", _body_text(src), _body_text(tgt))):
         s_num, t_num = numbers(s_text), numbers(t_text)
         missing, added = s_num - t_num, t_num - s_num
+        # An idiomatic magnitude dropped on translation (see _idiomatic_pow10) is a
+        # style choice, not a missing fact — only exempt it from the SOURCE side, so
+        # a target that invents a brand-new round number still fails via "added".
+        missing -= _idiomatic_pow10(s_text)
         if missing:
             errs.append(f"number(s) missing or changed in {name}: {sorted(missing)}")
         if added:

@@ -1,16 +1,90 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "section": "politics",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
-      "source": "Axios",
+      "url": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "published_iso": "2026-09-30T21:31:59Z",
-      "og_image": "https://images.axios.com/Oljo4sMWJ7gbB1B6mXs8BzjQbHw=/0x0:1920x1080/1366x768/2025/12/17/1766006317612.jpeg",
-      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
-      "excerpt": "An FTC spokesperson confirmed to Axios the agency is investigating OpenAI, Anthropic and other AI companies over potential safety risks of their products; per the New York Post, Chair Andrew Ferguson is preparing civil investigative demands compelling documents and testimony. Probe predates the Hugging Face incident disclosure.",
+      "published_iso": "2026-10-01T08:03:04.508Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
+      "title": "Taiwan's Election Needs a Deepfake Law That Works",
+      "excerpt": "Ahead of Taiwanese elections in November, the risk of political deepfakes undermining democratic institutions is rapidly escalating, warns Eddy Yen-Ting Lin.",
+      "axis": "elections",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-09-21",
+        "url": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter",
+        "title": "When Nigeria's Election Technology Cannot Recognize the Voter",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.techpolicy.press/senate-hearing-weighs-threats-from-unrestrained-ai-agents-after-openai-hack",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-10-01T12:13:44.568Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/8a438d633a9c53d0f2659db302fc728a1b4a296f-1200x675.png",
+      "title": "Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI Hack",
+      "excerpt": "Witnesses detailed how OpenAI agents hacked Hugging Face, and senators split over whether slowing AI would hand China the 'lead', reports Yuqing Liu.",
+      "axis": "policy",
+      "history_match": {
+        "score": 0.232,
+        "date": "2026-10-01",
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-10-01T13:08:51.582Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/98a8d3ed6339a4035d465b236fe3d3df672c32a9-1200x675.png",
+      "title": "When AI Agents Break In, Governments Shouldn't Be Stuck With the Cleanup",
+      "excerpt": "OpenAI tasked its agent with answering a question about public spending. It has left us with a much bigger question about public power, writes Daniel Stone.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance",
+      "source": "Lawfare",
+      "category": "politics",
+      "published_iso": "2026-10-01T17:30:01Z",
+      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/2560px-code_on_computer_monitor_(unsplash).jpeg?sfvrsn=c4bce09_9",
+      "title": "A Warning for Frontier AI Model Governance",
+      "excerpt": "As Congress debates who should control frontier AI governance, “cybersecurity” can become a substitute for reasoning about hard policy choices.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-10-01T17:12:21+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "excerpt": "Chegg and PMC’s claims don’t stand up to antitrust laws, a judge ruled.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-09-29T12:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&strip=all&crop=0%2C10.729583668295%2C100%2C78.54083266341&w=1200",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "excerpt": "He says both US and Chinese leaders lack the necessary urgency to rein in the technology’s risks.",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge",
+      "category": "politics",
+      "published_iso": "2026-09-30T12:24:32+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "excerpt": "The bar is very, very low.",
       "axis": "policy"
     },
     {
@@ -20,37 +94,77 @@
       "published_iso": "2026-09-30T21:04:26Z",
       "og_image": "",
       "title": "Federal appeals court upholds Thomson Reuters' landmark AI copyright win",
-      "excerpt": "The 3rd U.S. Circuit affirmed Thomson Reuters' win over Ross Intelligence — the first federal appeals ruling to reject fair use for training a commercial AI product on publisher content without permission; Judge Montgomery-Reeves noted the case did not involve an LLM or generative AI, possibly limiting its reach.",
+      "excerpt": "A U.S. federal appeals court upheld Thomson Reuters' copyright win against defunct legal AI startup Ross Intelligence - the first federal appeals ruling to reject a fair-use defense for training AI on publisher content without permission or compensation.",
       "axis": "policy"
     },
     {
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "source": "Ars Technica",
-      "category": "politics",
-      "published_iso": "2026-09-30T18:25:04+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "excerpt": "Nonprofit LASST sued OpenAI in San Francisco County Superior Court under California's CDAFA and Unfair Competition Law over the July Hugging Face hack, seeking an injunction barring its AI agents from unauthorized access; OpenAI calls the suit 'completely without merit'.",
-      "axis": "policy"
-    },
-    {
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
-      "source": "The White House",
-      "category": "politics",
-      "published_iso": "2026-09-29T14:50:54+00:00",
-      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-      "title": "Streamlining Access to Government Services Through America.gov",
-      "excerpt": "Executive order establishes America.gov as a conversational 'digital front door' to federal services and requires that super intelligence used with it be accurate, reliable and transparent; OMB has 90 days to issue implementation guidance. Primary document.",
-      "axis": "policy"
-    },
-    {
-      "url": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
+      "url": "https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
       "source": "The Register",
       "category": "politics",
-      "published_iso": "2026-09-29T20:14:32Z",
-      "og_image": "https://image.theregister.com/258442.jpg",
-      "title": "Trump launches America.gov with AI chatbots at its core",
-      "excerpt": "America.gov launches with Google Gemini and xAI Grok chatbots trained on 29,000 government websites; most transactional features slated for 2027. Same event as the EO.",
+      "published_iso": "2026-10-01T16:43:30.000Z",
+      "og_image": "https://image.theregister.com/5300612.jpg?imageId=5300612&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "title": "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+      "excerpt": "Your invite to a fake AI policy advisory committee has strings attached",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-09-30T21:36:00.000Z",
+      "og_image": "https://image.theregister.com/5300289.jpg?imageId=5300289&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+      "excerpt": "US model makers can train on web data - but distilling theirs is a ",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-09-30T10:45:00.000Z",
+      "og_image": "https://image.theregister.com/261440.jpg?imageId=261440&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "title": "America is planning more AI datacenters than its chip supply can fill",
+      "excerpt": "Satellite imagery shows construction accelerating, but advanced packaging could cap 2027 deployment in the low 20s of gigawatts",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+      "source": "U.S. Department of Justice",
+      "category": "politics",
+      "published_iso": "2026-10-01T15:58:35-04:00",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "title": "California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China",
+      "excerpt": "DOJ indicted the owner of a San Gabriel Valley tech company on three counts for allegedly smuggling more than $300 million in export-controlled servers containing U.S. GPUs to China via false paperwork and third-country transshipment.",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/09/30/new-mexico-ai-regulation-bill-01101379",
+      "source": "Politico",
+      "category": "politics",
+      "published_iso": "2026-10-01T00:26:00Z",
+      "og_image": "https://static.politico.com/04/0d/c0fa46b3459abb89f1ba91276c6b/meta-new-mexico-44782.jpg",
+      "title": "New Mexico to jump into frontier AI regulation",
+      "excerpt": "New Mexico Attorney General Raul Torrez is set to announce a proposal for safety checks on frontier AI development, following California and New York's lead.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/09/30/zuckerberg-huang-white-house-ai-pact-01101248",
+      "source": "Politico",
+      "category": "politics",
+      "published_iso": "2026-09-30T23:21:10Z",
+      "og_image": "",
+      "title": "Inside Zuckerberg, Huang's push for White House AI pact",
+      "excerpt": "Mark Zuckerberg and Jensen Huang helped build support for the 'morally binding' AI accords signed by President Trump and AI company leaders at a White House lunch.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.axios.com/2026/10/01/senate-ai-artificial-intelligence-trump",
+      "source": "Axios",
+      "category": "politics",
+      "published_iso": "2026-10-01T09:02:00Z",
+      "og_image": "",
+      "title": "Exclusive: Sens. Hawley, Murphy push AI liability as Trump backs self-regulation",
+      "excerpt": "Sens. Josh Hawley and Chris Murphy are pushing AI liability legislation as the White House backs voluntary industry self-regulation.",
       "axis": "policy"
     },
     {
@@ -58,60 +172,27 @@
       "source": "Axios",
       "category": "politics",
       "published_iso": "2026-09-30T20:47:56Z",
-      "og_image": "https://images.axios.com/BBZDIhoMLXTxRVpbElc5GwsIKoU=/2026/09/30/1790789811602.jpeg",
+      "og_image": "https://images.axios.com/42cabldVU44MVuNHe4AF6JJ8ftU=/0x0:1280x720/2026/07/21/1784658790942.gif",
       "title": "Ask Trump's AI chatbot who won in 2020. You might not get an answer.",
-      "excerpt": "America.gov's chatbot gave inconsistent answers to politically sensitive questions; same America.gov thread.",
+      "excerpt": "The administration's new America.gov AI service gave users conflicting responses to politically sensitive questions, sometimes answering and sometimes refusing - raising questions about how models and guardrails shape statements carrying government authority.",
       "axis": "elections"
     },
     {
-      "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
-      "source": "POLITICO Europe",
+      "url": "https://www.axios.com/2026/10/01/trump-ai-industry-risks-safety-gamble",
+      "source": "Axios",
       "category": "politics",
-      "published_iso": "2026-09-29T13:39:11+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/09/29/GettyImages-2270908077-scaled.jpg",
-      "title": "EU to Trump: We will keep pushing for global AI safety rules",
-      "excerpt": "EU tech chief Henna Virkkunen said the Commission will keep seeking an international AI safety and security agreement despite U.S. opposition, backing the Finland/Norway-led international safety body initiative signed by 20 other countries.",
-      "axis": "geopolitics"
-    },
-    {
-      "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-      "source": "The Register",
-      "category": "politics",
-      "published_iso": "2026-09-30T20:16:14Z",
-      "og_image": "https://image.theregister.com/261217.jpg",
-      "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
-      "excerpt": "Huawei rotating chairman Eric Xu claimed Ascend NPUs have surpassed Nvidia's share in China, framing chip self-sufficiency as the path forward amid shifting U.S. export controls.",
-      "axis": "geopolitics"
-    },
-    {
-      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "source": "The Verge",
-      "category": "politics",
-      "published_iso": "2026-09-29T12:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg",
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "excerpt": "Rep. Ro Khanna sent letters to ODNI and to DeepSeek, Alibaba and Moonshot AI asking about incident preparedness, superintelligence/RSI efforts, kill switches and openness to inspections under a possible US-China treaty.",
-      "axis": "geopolitics"
-    },
-    {
-      "url": "https://www.techpolicy.press/what-counts-as-scientific-research-the-eus-digital-omnibus-could-set-the-definition",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "published_iso": "2026-09-29T08:47:00Z",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/d7aafce3dac38982888613fe7f667bb6e2e3975b-1200x675.png",
-      "title": "What Counts as Scientific Research? The EU's Digital Omnibus Could Set the Definition",
-      "excerpt": "Parliament amendments to the Digital Omnibus GDPR 'scientific research' definition split between explicitly including and excluding AI development, training and testing.",
-      "axis": "policy"
-    },
-    {
-      "url": "https://www.techpolicy.press/ai-transparency-starts-with-the-audience",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "published_iso": "2026-09-29T08:41:17Z",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/c00af05a897828fe74f76d39d9f3271ea164b4d1-1200x675.png",
-      "title": "AI Transparency Starts With the Audience",
-      "excerpt": "Partnership on AI authors argue AI disclosure rules should be designed around each audience; commentary on PAI's disclosure recommendations.",
-      "axis": "policy"
+      "published_iso": "2026-10-01T09:52:05Z",
+      "og_image": "https://images.axios.com/8qW9S8z5uy3Wappii4y1o24n88A=/0x0:1920x1080/1366x768/2026/09/30/1790801665135.jpeg",
+      "title": "Trump, Big AI go all-in together",
+      "excerpt": "President Trump and the AI industry have co-signed one of the biggest technological wagers of all time, with the White House backing voluntary self-regulation over binding rules.",
+      "axis": "policy",
+      "history_match": {
+        "score": 0.181,
+        "date": "2026-09-30",
+        "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+        "title": "Trump, top AI leaders agree to voluntary AI standards",
+        "band": "related"
+      }
     },
     {
       "url": "https://restofworld.org/2026/ai-safety-independent-evaluation/",
@@ -120,23 +201,246 @@
       "published_iso": "2026-09-30T10:00:00+00:00",
       "og_image": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_safety_concentration_final-1600x900.jpg",
       "title": "AI companies want to embed safety evaluators, but countries need their own",
-      "excerpt": "After OpenAI agent incidents incl. the Australian health database access, experts at a Rest of World event urged countries to run their own AI safety evaluations.",
+      "excerpt": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others. ",
       "axis": "geopolitics"
     },
     {
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Technology Review",
+      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+      "source": "Rest of World",
       "category": "politics",
-      "published_iso": "2026-09-28T08:06:22Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg",
-      "title": "Who's liable when AI agents go rogue?",
-      "excerpt": "Explainer: state AI transparency laws (SB 53, RAISE Act, Illinois SB 315) define critical incidents narrowly, so OpenAI likely wasn't required to disclose its agents' hacks; liability paths analyzed.",
+      "published_iso": "2026-09-29T10:00:00+00:00",
+      "og_image": "https://restofworld.org/wp-content/uploads/2026/09/illo_hugging_face_china_final-1600x900.jpg",
+      "title": "The open-source AI platforms vying to become China’s Hugging Face",
+      "excerpt": "AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall. ",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://thediplomat.com/2026/10/australia-as-an-ai-middle-power/",
+      "source": "The Diplomat",
+      "category": "politics",
+      "published_iso": "2026-10-01T14:05:00Z",
+      "og_image": "https://thediplomat.com/wp-content/uploads/2024/09/sizes/td-story-s-2/thediplomat_2024-09-09-132927.jpg",
+      "title": "Australia as an AI Middle Power",
+      "excerpt": "As a middle power, with a range of assets and resources, Australia is not powerless in the face of change.",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://thediplomat.com/2026/09/the-geopolitics-of-ai-in-the-asia-pacific/",
+      "source": "The Diplomat",
+      "category": "politics",
+      "published_iso": "2026-09-30T13:37:00Z",
+      "og_image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-30-223959.jpg",
+      "title": "The Geopolitics of AI in the Asia-Pacific",
+      "excerpt": "Insights from Jouko Ahvenainen.",
+      "axis": "geopolitics"
+    },
+    {
+      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "source": "WIRED",
+      "category": "politics",
+      "published_iso": "2026-09-30T20:30:09.828Z",
+      "og_image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/191:100/w_1280,c_limit/093026-ai-regulations.jpg",
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "excerpt": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
       "axis": "policy"
+    },
+    {
+      "url": "https://www.cjr.org/ask-anika/is-my-chatbot-poisoned-by-disinformation.php",
+      "source": "Columbia Journalism Review",
+      "category": "politics",
+      "published_iso": "2026-10-01T10:00:00Z",
+      "og_image": "https://www.cjr.org/wp-content/uploads/2026/09/ask-anika5-3.jpg",
+      "title": "Ask Anika: Is my chatbot poisoned by disinformation?",
+      "excerpt": "How to keep AI from killing us with fake news.",
+      "axis": "elections"
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "published_iso": "2026-09-30T18:47:01+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "excerpt": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261002005300091",
+      "source": "Yonhap News",
+      "category": "politics",
+      "published_iso": "2026-10-02T05:04:49+09:00",
+      "og_image": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
+      "title": "美캘리포니아주, 오픈AI에 소환장…AI해킹·안전성 조사",
+      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다.",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261001171400530",
+      "source": "Yonhap News",
+      "category": "politics",
+      "published_iso": "2026-10-01T19:00:00+09:00",
+      "og_image": "https://img9.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001171400530_01_i_P4.jpg",
+      "title": "공공부문 AI 윤리기준 확정…\"최종 책임·통제는 사람에게\"",
+      "excerpt": "(서울=연합뉴스) 차민지 기자 = 복지대상자 선정이나 인허가 등 국민의 권리와 생활에 영향을 미치는 행정업무에 인공지능(AI)을 활용하더라도 최...",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20260930169300530",
+      "source": "Yonhap News",
+      "category": "politics",
+      "published_iso": "2026-10-02T06:11:01+09:00",
+      "og_image": "https://img1.yna.co.kr/etc/inner/KR/2026/09/30/AKR20260930169300530_01_i_P4.jpg",
+      "title": "의료AI 핵심자원 진료기록, 누구 것?…소유권 규정 없다",
+      "excerpt": "(서울=연합뉴스) 서한기 기자 = 국민 대부분이 매년 병원을 이용하면서 의료 인공지능(AI)의 핵심 자원인 진료기록이 방대하게 쌓이고 있지만, ...",
+      "axis": "policy"
+    },
+    {
+      "url": "https://www.etnews.com/20261001000397",
+      "source": "Electronic Times (etnews)",
+      "category": "politics",
+      "published_iso": "2026-10-01T15:29:39+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.62b073e465ca4fe8801eb77a2059dc1a_P1.png",
+      "title": "국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안",
+      "excerpt": "미국 빅테크를 중심으로 제기된 인공지능(AI) 개발 속도조절론에 국가AI전략위원회가 속도조절이 아닌 신속한 대응을 꺼내들었다. 글로벌 AI 3대 강국 도약을 목표로 미국과 중국을 추격하고 3위권 그룹과 경쟁해야 하는 상황을 고려, 프런티어 AI 모델 개발 등 자체 역량을 키우면서 검증·통제 등 보안 속도를 더 빠르게 높이겠다는 구상이다. 하정우 국가AI전략위 상근 부위원장은 1일 ",
+      "axis": "geopolitics"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 28,
     "against_days": 5
-  }
+  },
+  "story_dedup": {
+    "history_days": 30,
+    "dropped": [],
+    "review": 3,
+    "same_story_pairs": []
+  },
+  "history_digest": [
+    {
+      "date": "2026-09-21",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "A view from DC: A sudden shift in gravity for AI politics",
+      "url": "https://iapp.org/news/a/a-view-from-dc-a-sudden-shift-in-gravity-for-ai-politics"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "UN's Global Digital Compact Review Could Sideline the Global South",
+      "url": "https://www.techpolicy.press/uns-global-digital-compact-review-could-sideline-the-global-south"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "When Nigeria's Election Technology Cannot Recognize the Voter",
+      "url": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Virginia governor wakes up to fact datacenters have become political cancer",
+      "url": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Bring On the AI Lawsuits",
+      "url": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "At the UN and in Washington, Leaders Clash on Approach to AI",
+      "url": "https://www.techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Fact Sheet: Trump-Xi state visit outcomes, including a U.S.-China 'Super Intelligence (SI) Dialogue'",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Defining “Agentic”: Why We Need a Shared Taxonomy for AI Agents",
+      "url": "https://fpf.org/blog/defining-agentic-why-we-need-a-shared-taxonomy-for-ai-agents/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Pope Leo rejects AI \"fake news\" claims after Trump calls fears a \"hoax\"",
+      "url": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Tracking AI Chips: What Does It Cost?",
+      "url": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Targeted consultation to support a better copyright environment for creativity and innovation (incl. copyright and generative AI)",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Trump, top AI leaders agree to voluntary AI standards",
+      "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "AI researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Inaugurating The Era Of Super Intelligence",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
+      "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "EU to Trump: We will keep pushing for global AI safety rules",
+      "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
+      "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Streamlining Access to Government Services Through America.gov",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/"
+    }
+  ]
 }

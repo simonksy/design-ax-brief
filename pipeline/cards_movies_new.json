@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-02",
+  "section": "movies",
+  "cards": [
+    {
+      "id": "variety-animators-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "10 Animators to Watch on AI\nand why the human hand matters",
+      "body": "Variety's 2026 class of 10 Animators to Watch discusses AI, unsung artists, collaboration and the medium's future.",
+      "mini_headline": "Animators weigh in on AI",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "On the final day of the 10th annual SCAD AnimationFest in Atlanta, Variety's 2026 class of 10 Animators to Watch took the stage to talk about the future of their craft and why the human hand still matters. The group spans Ireland, France, Belgium, Bulgaria, Singapore, Hong Kong, Canada and the U.S., working in hand-drawn, stop-motion and CG animation."
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "When the talk turned to artificial intelligence, the panelists did not treat it as a single problem with one answer, returning instead to craft, specificity and collaboration. Cartoon Saloon's Louise Bagnall argued the best defense is to get more specific: \"AI tends toward homogeneity... You can lean into your own point of view. Nobody else has your point of view on the world.\""
+          },
+          {
+            "t": "p",
+            "x": "\"Iron Boy\" animation director Chloë Aubert recalled being told 15 years ago that 2D was disappearing, and simply kept making the work she wanted to make. Laika's Tilly Fiddler said she loses interest in work once she learns it is AI."
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "\"It's a little scary, but I believe in us,\" said Spider-Verse storyboard artist Samantha Suyi Lee. Disney's Amol Sathe added that the best projects still come from people collaborating and relying on their teams. The panel also championed overlooked roles, from cleanup artists and riggers to production teams."
+          }
+        ]
+      }
+    }
+  ]
+}

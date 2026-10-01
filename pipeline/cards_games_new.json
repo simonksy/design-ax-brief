@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-02",
+ "section": "games",
+ "cards": [
+  {
+   "id": "unity-grok-build-plugin",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Unity ships an official plugin\nfor xAI's Grok Build agent",
+   "body": "Unity's official plugin for xAI's Grok Build coding agent brings Unity engineering guidance directly into the terminal.",
+   "mini_headline": "Unity plugin for Grok Build",
+   "tool": "Games",
+   "source": "Unity (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "Fx1orSJc8d4"
+     },
+     {
+      "t": "p",
+      "x": "Unity has released its official plugin for Grok Build, bringing its engineering guidance directly to the terminal. One command installs it, with no manual setup, and it works out of the box with Unity 6 and above."
+     },
+     {
+      "t": "p",
+      "x": "The plugin carries 30+ Unity skills written by Unity feature teams, covering areas such as UI Toolkit, URP, Shader Graph, physics, LevelPlay and localization, plus Unity CLI workflows that let the agent drive a running Unity Editor and build and test projects."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+     },
+     {
+      "t": "p",
+      "x": "According to Unity's blog, Grok Build is the third coding agent to get the plugin after Claude Code and Codex. The skills are identical across all three and maintained from a single repository, so every agent gives the same Unity guidance for the same question. Unity says it will publish data on how developers use the CLI and plugin with these agents in October."
+     }
+    ]
+   }
+  }
+ ]
+}

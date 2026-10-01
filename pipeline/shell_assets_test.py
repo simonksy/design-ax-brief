@@ -99,7 +99,9 @@ assert {"axbrief-data.js", "archive-data.js", "archive-graph.js"} <= legacy, leg
 fake = """<script>(function () { var L = window.AX_LANG || 'ko';
   document.write('<scr' + 'ipt src="axbrief-data.' + L + '.js?v=1"><\\/scr' + 'ipt>');
   document.write('<scr' + 'ipt src="nobody-builds-this.js"><\\/scr' + 'ipt>'); })();</script>"""
-fe = problems("fake.html", fake, tracked, legacy)
+# (checked against a tracked set without axbrief-data.ko.js: the backfill commits it,
+# but the shells must not depend on that.)
+fe = problems("fake.html", fake, tracked - {"axbrief-data.ko.js"}, legacy)
 assert any("[ko] loads axbrief-data.ko.js" in e for e in fe), fe     # the original Critical bug
 assert any("nobody-builds-this.js" in e for e in fe), fe
 assert not any("[en] loads axbrief-data.en.js" in e for e in fe), fe  # per-language build output

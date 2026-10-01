@@ -34,12 +34,21 @@ describe("pickLang", () => {
 
 describe("html routing", () => {
   it("/ stays ko (no redirect) while I18N_PUBLIC is off", async () => {
-    const r = await call("/", { headers: { "accept-language": "ja" } });
+    const r = await call("/", { headers: { "accept-language": "ja" } }, { I18N_MENU: "0" });
     expect(r.status).toBe(200);
     const html = await r.text();
     expect(html).toContain('<html lang="ko"');
     expect(html).toContain('window.AX_LANG="ko"');
     expect(html).toContain("window.AX_I18N_ON=false");
+  });
+  it("I18N_MENU shows the language menu to everyone without the public redirect", async () => {
+    const r = await call("/", { headers: { "accept-language": "ja" } }, { I18N_MENU: "1" });
+    expect(r.status).toBe(200);
+    expect(await r.text()).toContain("window.AX_I18N_ON=true");
+    expect(r.headers.get("set-cookie")).toBe(null);
+    const ja = await call("/ja/", {}, { I18N_MENU: "1" });
+    expect(ja.headers.get("x-robots-tag")).toBe("noindex");
+    expect(await ja.text()).toContain("window.AX_I18N_ON=true");
   });
   it("/ redirects by cookie/header once public", async () => {
     let r = await call("/", { headers: { "accept-language": "ja-JP" } }, { I18N_PUBLIC: "1" });
