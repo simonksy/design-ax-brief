@@ -127,7 +127,6 @@ if (!document.getElementById('ax-styles')) {
   .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
      padding:7px 15px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
-  .ax-lang{appearance:none;-webkit-appearance:none;background:transparent;padding:7px 13px;}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
@@ -1284,20 +1283,6 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
   );
 }
 
-/* ---- LangMenu: site-language picker. Only behind the preview flag (the Worker sets
-   window.AX_I18N_ON); language names are fixed endonyms, never translated. ---- */
-const AX_LANG_NAMES = [['en', 'English'], ['ko', '한국어'], ['ja', '日本語'], ['zh', '中文'], ['es', 'Español']];
-function LangMenu({ t }) {
-  if (!window.AX_I18N_ON) return null;
-  return (
-    <select className="ax-tab ax-lang" aria-label={tx('lang.menu')} title={tx('lang.menu')}
-      value={window.AX_LANG || 'ko'} onChange={(e) => window.axSetLang(e.target.value)}
-      style={{ color: t.mute, border: '1px solid ' + t.rule }}>
-      {AX_LANG_NAMES.map(([code, name]) => <option key={code} value={code}>{name}</option>)}
-    </select>
-  );
-}
-
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
 function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
@@ -1328,7 +1313,6 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
           </button>
         );
       })}
-      <LangMenu t={t} />
     </div>
   );
 }
