@@ -28,7 +28,9 @@ LATIN_MULT = [(r"mil\s+millones", 1e9), (r"millones|millón|million|mn\b|m\b", 1
 # strictly decreasing, so they are correctly kept apart).
 CJK_UNIT_VALUES = {"조": 1e12, "兆": 1e12, "억": 1e8, "億": 1e8, "亿": 1e8,
                    "만": 1e4, "万": 1e4, "萬": 1e4, "천": 1e3, "千": 1e3,
-                   "백": 1e2, "십": 1e1}
+                   "백": 1e2, "百": 1e2, "십": 1e1, "十": 1e1}
+# 拾/佰/仟 (formal/anti-fraud variants of 十/百/千, mainly on Chinese cheques) are
+# deliberately not included — real news copy doesn't use them.
 _CJK_RUN = "[" + "".join(CJK_UNIT_VALUES) + "]+"
 
 UNIT = "%|" + "|".join(p for p, _ in LATIN_MULT) + "|" + _CJK_RUN

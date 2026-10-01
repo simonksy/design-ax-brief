@@ -51,4 +51,13 @@ assert numbers("3억5천만원") == {350000000.0}
 assert numbers("5,000万円") == {50000000.0}
 # 숫자 없이 단위만 있는 토큰은 숫자가 아니다
 assert numbers("百万ドル") == set()
+
+# 한글 백/십 단위의 한자 대응(百/十)도 빠짐없이 체인에 들어가야 한다
+assert numbers("3백만 달러") == {3000000.0}
+assert numbers("2십억 원") == {2000000000.0}
+assert numbers("2千万円") == {20000000.0}
+assert numbers("3百万円") == {3000000.0}
+assert numbers("2千億円") == {200000000000.0}
+assert numbers("2千亿元") == {200000000000.0}
+assert numbers("3十億円") == {3000000000.0}
 print("translate_check OK")
