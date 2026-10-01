@@ -1,3 +1,4 @@
+import { LANGS, pickLang, splitLangPath } from "./lib/lang.js";
 import { signSession, verifySession } from "./lib/crypto.js";
 import { issueMagicToken, consumeMagicToken } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
@@ -14,10 +15,44 @@ async function currentEmail(request, env) {
   return sess ? sess.email : null;
 }
 
+async function serveHtml(env, file, lang, i18nOn, previewOn) {
+  const res = await env.ASSETS.fetch(new Request(new URL(file, env.BASE_URL)));
+  const sub = { "/index.html": "", "/large.html": "large", "/archive.html": "archive" }[file] ?? "";
+  const base = String(env.BASE_URL).replace(/\/$/, "");
+  const alts = LANGS.map((l) => `<link rel="alternate" hreflang="${l}" href="${base}/${l}/${sub}">`).join("")
+    + `<link rel="alternate" hreflang="x-default" href="${base}/en/${sub}">`;
+  const out = new HTMLRewriter()
+    .on("html", { element(e) { e.setAttribute("lang", lang); } })
+    .on("head", { element(e) {
+      e.prepend(`<base href="/"><script>window.AX_LANG=${JSON.stringify(lang)};window.AX_I18N_ON=${i18nOn};</script>`,
+                { html: true });
+      e.append(alts, { html: true });
+    } })
+    .transform(res);
+  const headers = new Headers(out.headers);
+  headers.set("content-language", lang);
+  if (previewOn) headers.append("set-cookie", "ax_i18n=1; Path=/; Max-Age=31536000; SameSite=Lax; Secure");
+  return new Response(out.body, { status: res.status, headers });
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const p = url.pathname;
+
+    const cookies = parseCookies(request.headers.get("cookie"));
+    const previewOn = url.searchParams.get("i18n") === "1";
+    const i18nOn = env.I18N_PUBLIC === "1" || previewOn || cookies.ax_i18n === "1";
+    const PAGES = { "/": "/index.html", "/large": "/large.html", "/archive": "/archive.html" };
+
+    if (p === "/" || p === "/index.html") {
+      if (env.I18N_PUBLIC === "1")
+        return new Response(null, { status: 302, headers: {
+          location: `/${pickLang(cookies.ax_lang, request.headers.get("accept-language"))}/` } });
+      return serveHtml(env, "/index.html", "ko", i18nOn, previewOn);
+    }
+    const lp = splitLangPath(p);
+    if (lp && PAGES[lp.rest]) return serveHtml(env, PAGES[lp.rest], lp.lang, i18nOn, previewOn);
 
     if (p.startsWith("/premium/")) return new Response("Forbidden", { status: 403 });
 
