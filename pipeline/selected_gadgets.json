@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "section": "gadgets",
  "picks": [
   {
@@ -8,91 +8,108 @@
    "category": "gadgets",
    "accent": "#ff5a4d",
    "motif": "headset",
-   "headline": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
-   "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
-   "source": "Engadget",
-   "published_iso": "2026-09-30T13:00:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg",
-   "excerpt": "Newsletter Big Tech Amazon Amazon's new Fire TV interface and mobile app will come with Alexa+ up",
-   "rationale": "Alexa+ reasoning, photo-based recommendations and a new AI hub on Fire TV — a concrete AI-TV rollout with dates (Nov, US)."
+   "headline": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
+   "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
+   "source": "Road to VR",
+   "published_iso": "2026-10-01T09:00:17Z",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg",
+   "excerpt": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. The News Two distinct SM-O200P and SM-O200J have appeared in FCC filings, which is typically one of the last steps before commercialization. Those two product codes indicate Warby Park",
+   "rationale": "Two concrete FCC filings (SM-O200P/J) for Samsung's first Android XR glasses. This is the single card for the Samsung glasses cluster."
   },
   {
    "rank": 2,
    "tool": "Gadgets",
    "category": "gadgets",
-   "accent": "#3b6bff",
+   "accent": "#2ec5c5",
    "motif": "headset",
-   "headline": "Nanoleaf will soon let you control your smart lights with ChatGPT and Claude",
-   "url": "https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/",
-   "source": "Android Authority",
-   "published_iso": "2026-09-30T13:00:02+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
-   "excerpt": "Search results forAll search results Best daily dealsLoginAffiliate links on Android Authority may earn us a commission. Learn more.",
-   "rationale": "First major smart-lighting MCP server: LLM assistants drive physical devices by natural-language mood prompts; dev tools live now."
+   "headline": "Hearing tech startup Legato launches its AI hearing glasses",
+   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+   "source": "TechCrunch",
+   "published_iso": "2026-10-01T13:00:00Z",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+   "excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+   "rationale": "A new product launch of AI hearing-aid glasses. It is a different company and device from Meta's hearing feature (09-28)."
   },
   {
    "rank": 3,
    "tool": "Gadgets",
    "category": "gadgets",
-   "accent": "#2ec5c5",
+   "accent": "#0070f3",
    "motif": "headset",
-   "headline": "Freckle Phone has a kid-friendly name, but I'm not sure it can overcome the AI gadget curse",
-   "url": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
-   "source": "TechRadar",
-   "published_iso": "2026-09-30T16:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/jf39h7L6Z7u7LoAsPztuC3-1920-80.jpg",
-   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti",
-   "rationale": "New AI-first kids device (Gemini + local model, curiosity camera, no app store) — tests the post-Rabbit AI gadget thesis."
+   "headline": "Google’s new Guided Vision feature can help you read the fine print",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+   "source": "The Verge",
+   "published_iso": "2026-10-01T19:47:51Z",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "excerpt": "Can you trust AI to see what’s going on around you?",
+   "rationale": "A new Gemini Live camera feature (Guided Vision) for reading the world around you. It is separate from the Live Avatar release on 09-25."
   },
   {
    "rank": 4,
    "tool": "Gadgets",
    "category": "gadgets",
-   "accent": "#7928ca",
+   "accent": "#f5a623",
    "motif": "headset",
-   "headline": "I tried Peloton's redesigned Tread Vision and its AI feedback features",
-   "url": "https://www.techradar.com/health-fitness/exercise-equipment/could-a-treadmill-make-you-a-better-runner-than-an-apple-watch-peloton-cpo-nick-caldwell-and-cmo-megan-imbres-believe-the-peloton-tread-visions-ai-cameras-offer-much-higher-accuracy-than-wearables",
+   "headline": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+   "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
    "source": "TechRadar",
-   "published_iso": "2026-09-30T15:36:40Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/WNyYwDgN8zKN5SWB5ZKSBV-1920-80.jpg",
-   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti",
-   "rationale": "Computer-vision form feedback built into a treadmill, launching Oct 1 — AI camera moves from wearables into home fitness hardware."
+   "published_iso": "2026-10-01T20:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+   "excerpt": "Oura spots the changes, Xella tries to explain why",
+   "rationale": "A new Oura integration that pairs ring data with AI biomarker screening for 130+ conditions. It adds a wearables/health angle to the set."
   },
   {
    "rank": 5,
    "tool": "Gadgets",
    "category": "gadgets",
-   "accent": "#f5a623",
+   "accent": "#eb367f",
    "motif": "headset",
-   "headline": "Humanoid robots are getting even creepier (this one can cry on command)",
-   "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-   "source": "Engadget",
-   "published_iso": "2026-09-27T13:15:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-   "excerpt": "Newsletter Tomorrow Robotics Humanoid robots are getting even creepier (this one can cry on comma",
-   "rationale": "Affective-computing humanoid (Yansyn-X2) that sheds tears on AI-detected emotional cues — a distinct robot story from the Flourish/Optimus cards."
+   "headline": "Gemini for Home is now better at hearing you in noisy rooms",
+   "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+   "source": "Android Authority",
+   "published_iso": "2026-09-30T20:58:51Z",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
+   "excerpt": "Google Home’s latest update makes Gemini faster and more reliable, while fixing lights, cameras, setup, and more.",
+   "rationale": "Google's third September Gemini for Home release improves voice pickup in noisy rooms and fixes several smart-home issues. It is a new shipped update that adds smart-home coverage and a fifth outlet."
   }
  ],
+ "dedup": {
+  "checks": {
+   "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/": {
+    "verdict": "new",
+    "nearest": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+    "new_action": ""
+   },
+   "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/": {
+    "verdict": "new",
+    "nearest": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
+    "new_action": ""
+   },
+   "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision": {
+    "verdict": "new",
+    "nearest": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "new_action": ""
+   },
+   "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions": {
+    "verdict": "new",
+    "nearest": "",
+    "new_action": ""
+   },
+   "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/": {
+    "verdict": "follow-up",
+    "nearest": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
+    "new_action": "A new Google Home release (the third September update, shipped 09-30) that improves Gemini's voice pickup in noisy rooms and speed, and fixes lights, cameras and setup. The 09-06 card covered an earlier, separate update."
+   }
+  },
+  "note": "Re-curation after a cross-section clash. Removed The Verge 'Sony brings AI graphics upscaling to the regular PS5' because the same QSSR story is published today in GAMES (IGN). Replacement: Android Authority Gemini for Home third September update, kept as a follow-up (a new shipped release, distinct from the 09-06 update card). Still dropped: UploadVR Meta camera-less glasses (likely-repeat of roadtovr 09-18). Also dropped 9to5Google Samsung XR November-launch report because it is in the same cluster as the Road to VR FCC pick. Dropped Verge 'Inside Microsoft's big Copilot rethink' (analysis piece; related to Ars Copilot+ PC 09-26). Dropped CNET Amazon driver glasses (privacy commentary on an ongoing rollout). Dropped the etnews AI-chip market piece (market trend). Dropped Tether offline translation (crypto PR, 9 days old). Passed over: Gemini replaces Assistant (rollout of an already-announced deprecation) and Android Auto Magic Cue (APK teardown, not a release; related to 09-20). Outlets: Road to VR, TechCrunch, The Verge, TechRadar, Android Authority (5 distinct)."
+ },
  "dropped": [
-  {
-   "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-   "reason": "event-promo copy for Disrupt tickets (advertorial-like); Stretch 4 itself launched in May"
-  },
-  {
-   "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
-   "reason": "URL already in design ledger (09-22); Snap Specs covered in gadgets 09-18 (WIRED)"
-  },
-  {
-   "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
-   "reason": "Muse-on-glasses already dropped/covered (AA leak, Ars 09-25)"
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-   "reason": "overlaps Muse Charm card (09-25) — commentary on same device trend"
-  },
-  {
-   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-   "reason": "Meta Connect glasses lineup already covered (09-25/09-28); glasses slot saturated"
-  }
+  {"url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr", "reason": "cross-section clash: same QSSR story published today in games (IGN)"},
+  {"url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/", "reason": "likely-repeat of roadtovr 09-18 camera-less Meta glasses"},
+  {"url": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/", "reason": "same Samsung XR glasses cluster as the Road to VR FCC pick"},
+  {"url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad", "reason": "analysis/feature piece; related to Copilot+ PC card 09-26"},
+  {"url": "https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/", "reason": "privacy commentary on an ongoing rollout, no new release"},
+  {"url": "https://www.etnews.com/20261001000279", "reason": "AI-chip market trend piece (business noise)"},
+  {"url": "https://www.techradar.com/pro/no-internet-no-problem-tether-just-released-free-ai-translation-models-that-work-offline-on-your-phone-and-laptop", "reason": "crypto-company model PR, 9 days old"}
  ]
 }

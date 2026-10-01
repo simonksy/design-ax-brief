@@ -1,178 +1,196 @@
 {
- "date": "2026-10-01",
- "section": "design",
- "window_hours": 72,
- "items": [
-  {
-   "url": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d",
-   "source": "Creative Bloq",
-   "category": "render",
-   "published_iso": "2026-09-30T16:14:50Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/DT46hrKgj3M2G2y2xf3KA3-1920-80.jpg",
-   "title": "You can now use ChatGPT and Claude to speed up 3D art in Cinema 4D",
-   "excerpt": "Maxon's latest update brings AI assistants to its 3D modelling and animation software."
-  },
-  {
-   "url": "https://www.cgchannel.com/2026/09/maxon-releases-cinema-4d-2026-4-with-a-new-mcp-server/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-09-30T14:52:00Z",
-   "og_image": "",
-   "title": "Maxon releases Cinema 4D 2026.4 with a new MCP Server | CG Channel",
-   "excerpt": "New AI connection makes it possible to use Claude or ChatGPT  to control tasks in the 3D animation and motion graphics software."
-  },
-  {
-   "url": "https://develop3d.com/visualisation/cinema-4d-mcp-server/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-09-30T13:20:53+00:00",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/09/cinema-4d-mcp-server.jpg",
-   "title": "New Cinema 4D MCP Server automates tasks and streamlines rendering",
-   "excerpt": "Maxon has added artist-controlled AI automation with the new Cinema 4D MCP Server. Allows users to leverage their AI assistant of choice"
-  },
-  {
-   "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-   "source": "Creative Bloq",
-   "category": "workflow",
-   "published_iso": "2026-09-30T07:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
-   "title": "Photoshop's controversial new AI tool is dividing opinion",
-   "excerpt": "Does Relight transform photo retouching.... or turn people into video game characters?"
-  },
-  {
-   "url": "https://www.creativebloq.com/ai/two-animators-reveal-the-roles-risks-and-limits-of-making-don-quixote-with-ai",
-   "source": "Creative Bloq",
-   "category": "render",
-   "published_iso": "2026-09-29T13:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/yTsiNcv4KpypUTG54t53rU-1600-80.jpg",
-   "title": "Making an 11-minute animated short using AI exposed serious creative limits",
-   "excerpt": "Guillermo Miranda and Javier de la Chica open up about what AI still can't do and the unease it creates."
-  },
-  {
-   "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
-   "source": "Engineering.com",
-   "category": "cad",
-   "published_iso": "2026-09-30T20:37:29+00:00",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep30.png",
-   "title": "Welcome to the vibe-CAD era - Engineering.com",
-   "excerpt": "Backflip’s X-to-CAD AI platform now supports meshes, photos, videos, and engineering drawings. It’s gotten surprisingly good."
-  },
-  {
-   "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-09-30T11:14:00Z",
-   "og_image": "",
-   "title": "Attention Required! | Cloudflare",
-   "excerpt": ""
-  },
-  {
-   "url": "https://www.builder.io/blog/build-an-agentic-software-factory-starting-with-one-bug",
-   "source": "Builder.io",
-   "category": "figma",
-   "published_iso": "2026-09-29T18:00:00.000Z",
-   "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/691257b8c4a642a6a25c8f61a2e34390?width=1200",
-   "title": "Build an agentic software factory, starting with one bug",
-   "excerpt": "Learn how to build an agentic software factory: turn one bug report into a reproducible, thoroughly tested PR workflow you can reuse across hundreds of fixes."
-  },
-  {
-   "url": "https://www.digitalcameraworld.com/photography/photo-editing/nano-banana-is-now-inside-lightroom-adobe-has-quietly-added-an-experimental-prompt-to-edit-tool-that-regenerates-images-inside-lightroom",
-   "source": "Digital Camera World",
-   "category": "workflow",
-   "published_iso": "2026-09-29T20:39:17Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/MMTh7MoNPWdEUGimtN3PR3-700-80.jpg",
-   "title": "Nano Banana is now inside Lightroom. Prompt to Edit generates new images from an existing photo and a prompt",
-   "excerpt": "Adobe added a new Nano Banana-powered tool that re-generates images in the September 2026 Lightroom updates"
-  },
-  {
-   "url": "https://petapixel.com/2026/09/29/imagens-new-intelligent-studio-aims-to-rethink-how-photographers-edit/",
-   "source": "PetaPixel",
-   "category": "workflow",
-   "published_iso": "2026-09-29T17:00:40+00:00",
-   "og_image": "https://petapixel.com/assets/uploads/2026/09/imagen-showcase-featured.jpg",
-   "title": "Imagen’s New Intelligent Studio Aims to Rethink How Photographers Edit",
-   "excerpt": "We tested Imagen's new AI-powered Intelligent Studio workflow."
-  },
-  {
-   "url": "https://petapixel.com/2026/09/30/could-agentic-ai-help-photographers/",
-   "source": "PetaPixel",
-   "category": "workflow",
-   "published_iso": "2026-09-30T20:56:20+00:00",
-   "og_image": "https://petapixel.com/assets/uploads/2026/09/agentic-ai-featured.jpg",
-   "title": "Could Agentic AI Help Photographers?",
-   "excerpt": "I just don't know what to think about agentic AI."
-  },
-  {
-   "url": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-09-30T14:30:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg",
-   "title": "Meta introduces a new AI assistant for its Instagram creators - Engadget",
-   "excerpt": "The Edits assistant offers personalized guidance based on your audience and best-performing content."
-  },
-  {
-   "url": "https://runway.com/news/introducing-runway-ads",
-   "source": "Runway",
-   "category": "workflow",
-   "published_iso": "2026-09-30T18:32:00.000Z",
-   "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
-   "title": "Runway News | Introducing Runway Ads",
-   "excerpt": "Runway Ads is an autonomous engine for performance marketing that generates, localizes, publishes and iterates on ad creative with human approval built in."
-  },
-  {
-   "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
-   "source": "Core77",
-   "category": "workflow",
-   "published_iso": "2026-09-29T14:07:00Z",
-   "og_image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851461_lead_400_145488_.png",
-   "title": "AI Has Changed What Makes a Great Designer  - Core77",
-   "excerpt": "What human capabilities become more valuable when AI can perform the production?"
-  },
-  {
-   "url": "https://www.voxelmatters.com/owlcad-brings-parametric-cad-and-ai-powered-design-to-the-browser/",
-   "source": "VoxelMatters",
-   "category": "cad",
-   "published_iso": "2026-09-30T09:00:14+00:00",
-   "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
-   "title": "OwlCAD brings parametric CAD and AI-powered design to the browser",
-   "excerpt": "OwlCAD is a browser-based parametric CAD tool for 3D printing, combining editable model history, AI-powered design, and MCP support for AI agents."
-  },
-  {
-   "url": "https://3dadept.com/constructor-ai-opens-free-public-test-of-its-browser-based-design-without-cad-tool/",
-   "source": "3D ADEPT",
-   "category": "cad",
-   "published_iso": "2026-09-29T06:33:45+00:00",
-   "og_image": "https://3dadept.com/wp-content/uploads/2026/09/Constructor-AI.png",
-   "title": "Constructor AI opens free public test of its browser-based \"design without CAD\" tool",
-   "excerpt": "Constructor AI makes 3D printing accessible. Describe components easily and move from concept to STL file in no time."
-  },
-  {
-   "url": "https://www.tech360.tv/kuaishou-kling-ai-unveils-kling-4-0-with-30-second-video",
-   "source": "tech360.tv",
-   "category": "render",
-   "published_iso": "2026-09-30T07:00:13.852Z",
-   "og_image": "https://static.wixstatic.com/media/ad0c1e_c0507f572b884ced8780e66e47790a90~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/ad0c1e_c0507f572b884ced8780e66e47790a90~mv2.jpg",
-   "title": "Kuaishou's Kling AI Unveils Kling 4.0 with 30-Second Video |  tech360tv",
-   "excerpt": "Kuaishou's Kling AI has introduced its latest video model, Kling 4.0, featuring capabilities for single-pass clips extending up to 30 seconds. This new iteration supports up to 15 multimodal references and allows for the setting of 10 keyframes. A lighter version, Kling 4.0 Flash, became available t"
-  },
-  {
-   "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-   "source": "The Verge",
-   "category": "workflow",
-   "published_iso": "2026-09-30T20:41:41+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-   "excerpt": "Google claims Gemini 4 Argon stacks up against OpenAI and Anthropic’s models."
-  },
-  {
-   "url": "https://www.cined.com/adobe-after-effects-ai-assistant-enters-public-beta-whole-project-scope-expression-rigs-and-project-cleanup/",
-   "source": "CineD",
-   "category": "render",
-   "published_iso": "2026-09-28T07:41:39+00:00",
-   "og_image": "https://www.cined.com/content/uploads/2026/09/AI-assistant-for-After-Effects-feature.jpg",
-   "title": "Adobe After Effects AI Assistant Enters Public Beta – Whole-Project Scope, Expression Rigs, and Project Cleanup | CineD",
-   "excerpt": "After Effects AI Assistant enters public beta with project-wide tools, localization, file-access fixes, and improved expressions."
-  }
- ]
+  "date": "2026-10-02",
+  "section": "design",
+  "window_hours": 72,
+  "items": [
+    {
+      "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-10-01T16:48:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "title": "Workflow Lab: From Design System to Campaign in Figma Weave",
+      "excerpt": "This workflow shows you how to turn raw materials into brand campaign collateral using the Gen Effect and Figma nodes in Figma Weave."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-10-01T16:44:35+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "category": "workflow",
+      "published_iso": "2026-10-01T19:21:53+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+    },
+    {
+      "url": "https://www.builder.io/blog/build-an-agent-loop-a-small-model-can-finish",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-10-01T18:00:00.000Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/2641d6ee48e140879c576884ce5efcf1?width=1200",
+      "title": "Build an agent loop a small model can finish",
+      "excerpt": "Learn how to build agent loops small models can finish by creating reliable checks, visual diffs, holdouts, and back pressure that rewards real progress"
+    },
+    {
+      "url": "https://dev.to/manveer-banxal/hand-off-a-lovable-or-bolt-app-to-a-developer-prep-guide-2b9a",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-01T21:14:32Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fbanxal.com%2Fblog%2Fhandoff-lovable-bolt-app-to-developer%2Fcover-wide.png",
+      "title": "Hand Off a Lovable or Bolt App to a Developer: Prep Guide",
+      "excerpt": "How to hand off a Lovable app to a developer (or a Bolt app): what to export, which secrets to rotate, and the checklist to finish before they open the repo."
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "source": "Google Blog",
+      "category": "workflow",
+      "published_iso": "2026-09-30T16:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skills_thumbnail.width-1300.png",
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "excerpt": "Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "source": "Google Blog",
+      "category": "workflow",
+      "published_iso": "2026-10-01T16:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.width-1300.png",
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "excerpt": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Google Blog",
+      "category": "workflow",
+      "published_iso": "2026-09-30T20:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "excerpt": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-28-september-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-09-29T04:30:00Z",
+      "og_image": "",
+      "title": "New CG software you may have missed: 28 September 2026",
+      "excerpt": "CG Channel's weekly roundup: Tripo P2 AI model for generative 3D modeling, Polygonflow FrameRef adding credit-based AI image/video generation, editing and upscaling, plus Shapelab Lite, Sisir and more."
+    },
+    {
+      "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-09-30T20:37:29+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/09/img_engpaper_thumb2026-sep30.png",
+      "title": "Welcome to the vibe-CAD era",
+      "excerpt": "Backflip’s X-to-CAD AI platform now supports meshes, photos, videos, and engineering drawings. It’s gotten surprisingly good."
+    },
+    {
+      "url": "https://www.engineering.com/synopsys-and-openai-partner-on-semiconductor-design-ai/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-01T11:25:21+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/07/Synopsys-Logo-Purple-1.jpg",
+      "title": "Synopsys and OpenAI partner on semiconductor design AI",
+      "excerpt": "GPT-Synopsys will support EDA workflows, including PPA optimization, timing closure and verification on customer data."
+    },
+    {
+      "url": "https://www.engineering.com/when-ai-recommendations-become-engineering-decisions/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-01T15:01:29+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/photo-1744627049721-73c27008ad28.png",
+      "title": "When AI recommendations become engineering decisions",
+      "excerpt": "Successful organizations provide the context needed to make AI recommendations explainable, traceable, and trustworthy."
+    },
+    {
+      "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-09-30T23:10:18Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*6iRJB6ItsfYbPIy5nfFPsA.png",
+      "title": "Headless AI will make every product a platform. Here's what to consider when designing for this.",
+      "excerpt": "Chat will always be just an interface; agents are not, and the design work has moved to the contract underneath your product."
+    },
+    {
+      "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-09-29T03:41:54Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg",
+      "title": "The strategic designer: navigating the Jevons paradox in the AI age",
+      "excerpt": "From specialist makers to strategic orchestrators: why compressing execution time with AI increases the demand for design vision and systems thinking."
+    },
+    {
+      "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-09-30T11:14:25Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*wgcbjGIuBCpXmEIoZgd-nA.png",
+      "title": "The economics of attention in the age of AI",
+      "excerpt": "When machines pay attention, what deserves ours? How AI filtering of information reshapes the attention economy digital products are designed around."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-01T16:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&strip=all&crop=0%2C10.889260556288%2C100%2C78.221478887424&w=1200",
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "excerpt": "Copilot is now being positioned as the ‘OS for work.’"
+    },
+    {
+      "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed",
+      "source": "VentureBeat",
+      "category": "workflow",
+      "published_iso": "2026-09-30T14:30:00Z",
+      "og_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png",
+      "title": "We asked five AI tools to build accessible websites. All 15 sites failed.",
+      "excerpt": "An AudioEye study had OpenAI, Anthropic, Google, xAI and Lovable tools build 15 sites; all failed WCAG Level A, averaging 55 issues per page, while 81% of teams believe AI code is compliant."
+    },
+    {
+      "url": "https://runway.com/news/company-news/runway-openai-marketplace",
+      "source": "Runway",
+      "category": "render",
+      "published_iso": "2026-09-29T15:19:00.000Z",
+      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/v2092826-openai-casestudy-c-ff45e702-aa7b-484e-8ad2-6c3d3153ea74.png",
+      "title": "Runway News",
+      "excerpt": "Runway joins the OpenAI Marketplace as a launch partner. Enterprise teams can now purchase the best from Runway and other labs into one workspace, including Gen-4.5, Seedance 2.5, GPT Image 2.5 and ElevenLabs V4."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-01T10:15:32-07:00",
+      "og_image": "https://i.ytimg.com/vi/1lnuBH7CbEY/maxresdefault.jpg",
+      "title": "Release Notes 2026: September Edition",
+      "excerpt": "New Figma Motion and features in the canvas just dropped at Release Notes: → Custom animation styles, audio, and text animations for your design system  → Ap..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R0Kf1TaA_Fc",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-09-30T12:34:45-07:00",
+      "og_image": "https://i.ytimg.com/vi/R0Kf1TaA_Fc/maxresdefault.jpg",
+      "title": "Describe What Image You're Looking For with Improved Search in Lightroom",
+      "excerpt": "When you submit feedback to our product team, there's a very real chance you'll see your requested updates in-app. That's exactly how our team improved @Ligh..."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Hg3Ak_rkAtY",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-09-29T14:13:26-07:00",
+      "og_image": "https://i.ytimg.com/vi/Hg3Ak_rkAtY/maxresdefault.jpg",
+      "title": "College student Careb uses Generative Upscale in Adobe Firefly to get her visuals portfolio-ready",
+      "excerpt": "🎨: TikTok | carebrosee"
+    }
+  ]
 }

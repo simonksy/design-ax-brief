@@ -1,153 +1,142 @@
 {
- "date": "2026-10-01",
- "section": "gadgets",
- "window_hours": 336,
- "now_iso": "2026-09-30T22:00:00Z",
- "expansion_note": "No expansion needed beyond planned keywords (16 fresh on-topic candidates). Discovery via 25 outlet RSS feeds + Google News RSS (22 keyword queries, when:14d); 3 WebSearch calls (1 failed on blocked domains).",
- "items": [
-  {
-   "category": "gadgets",
-   "source": "Engadget",
-   "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
-   "headline": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
-   "published_iso": "2026-09-30T13:00:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg",
-   "excerpt": "Newsletter Big Tech Amazon Amazon's new Fire TV interface and mobile app will come with Alexa+ up"
-  },
-  {
-   "category": "gadgets",
-   "source": "Engadget",
-   "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-   "headline": "Humanoid robots are getting even creepier (this one can cry on command)",
-   "published_iso": "2026-09-27T13:15:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-   "excerpt": "Newsletter Tomorrow Robotics Humanoid robots are getting even creepier (this one can cry on comma"
-  },
-  {
-   "category": "gadgets",
-   "source": "TechRadar",
-   "url": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
-   "headline": "Freckle Phone has a kid-friendly name, but I'm not sure it can overcome the AI gadget curse",
-   "published_iso": "2026-09-30T16:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/jf39h7L6Z7u7LoAsPztuC3-1920-80.jpg",
-   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti"
-  },
-  {
-   "category": "gadgets",
-   "source": "TechRadar",
-   "url": "https://www.techradar.com/health-fitness/exercise-equipment/could-a-treadmill-make-you-a-better-runner-than-an-apple-watch-peloton-cpo-nick-caldwell-and-cmo-megan-imbres-believe-the-peloton-tread-visions-ai-cameras-offer-much-higher-accuracy-than-wearables",
-   "headline": "I tried Peloton's redesigned Tread Vision and its AI feedback features",
-   "published_iso": "2026-09-30T15:36:40Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/WNyYwDgN8zKN5SWB5ZKSBV-1920-80.jpg",
-   "excerpt": "Weekly newsletters Get daily news, weekly deals and the week’s top tech stories Commenting access Join the conversation, share your thoughts and get expert advice Member badges Earn badges as you explore news, deals, reviews, guides and more Exclusive deals Save on gadgets, subscripti"
-  },
-  {
-   "category": "gadgets",
-   "source": "Android Authority",
-   "url": "https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/",
-   "headline": "Nanoleaf will soon let you control your smart lights with ChatGPT and Claude",
-   "published_iso": "2026-09-30T13:00:02+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
-   "excerpt": "Search results forAll search results Best daily dealsLoginAffiliate links on Android Authority may earn us a commission. Learn more."
-  },
-  {
-   "category": "gadgets",
-   "source": "Android Authority",
-   "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-   "headline": "Gemini for Home is now better at hearing you in noisy rooms",
-   "published_iso": "2026-09-30T20:58:51+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
-   "excerpt": "Search results forAll search results Best daily dealsLoginAffiliate links on Android Authority may earn us a commission. Learn more."
-  },
-  {
-   "category": "gadgets",
-   "source": "Android Authority",
-   "url": "https://www.androidauthority.com/amazon-echo-first-gen-custom-android-jailbreak-3717419/",
-   "headline": "Alexa who? This jailbroken Echo Spot runs a custom Android skin and reports to a PC",
-   "published_iso": "2026-09-30T14:50:40+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/jailbroken-Echo-Spot-Android.jpg",
-   "excerpt": "Search results forAll search results Best daily dealsLoginAffiliate links on Android Authority may earn us a commission. Learn more."
-  },
-  {
-   "category": "gadgets",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-   "headline": "The AI Tamagotchis are coming",
-   "published_iso": "2026-09-30T18:07:38+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0%2C30.366492146597%2C100%2C39.267015706806&w=1200",
-   "excerpt": "The VergeThe Verge logo.TechReviewsScienceEntertainmentAIPolicyNotificationsNotificationsHamburger Navigation ButtonThe homepageThe VergeThe Verge logo.NotificationsNotificationsHamburger Navigation ButtonNavigation DrawerThe VergeThe Verge logo.Login / Sign UpcloseCloseSearchLightSystemDarkTechExpa"
-  },
-  {
-   "category": "gadgets",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
-   "headline": "Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’",
-   "published_iso": "2026-09-30T17:21:29+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
-   "excerpt": "The VergeThe Verge logo.TechReviewsScienceEntertainmentAIPolicyNotificationsNotificationsHamburger Navigation ButtonThe homepageThe VergeThe Verge logo.NotificationsNotificationsHamburger Navigation ButtonNavigation DrawerThe VergeThe Verge logo.Login / Sign UpcloseCloseSearchLightSystemDarkTechExpa"
-  },
-  {
-   "category": "gadgets",
-   "source": "UploadVR",
-   "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
-   "headline": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
-   "published_iso": "2026-09-29T01:26:21.000Z",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare-1.jpg",
-   "excerpt": "Search Search UploadVR Sign In Support Us"
-  },
-  {
-   "category": "gadgets",
-   "source": "UploadVR",
-   "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
-   "headline": "Snap's Specs Have A Cross-Platform AI Agent & Optional Cellular Charging Case",
-   "published_iso": "2026-09-21T02:49:42.000Z",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Specs-Intelligence-and-Cellular-Charging-Case-featured.png",
-   "excerpt": "Search Search UploadVR Sign In Support Us"
-  },
-  {
-   "category": "gadgets",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-   "headline": "Meta introduces camera-free AI glasses",
-   "published_iso": "2026-09-23T23:39:44+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
-   "excerpt": "Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2. Book Exhibit Table Now."
-  },
-  {
-   "category": "gadgets",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-   "headline": "Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage at Disrupt 2026",
-   "published_iso": "2026-09-22T14:30:00+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
-   "excerpt": "Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2. Book Exhibit Table Now."
-  },
-  {
-   "category": "gadgets",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-   "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-   "published_iso": "2026-09-19T15:00:00+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
-   "excerpt": "Last day to demo your breakthrough to 10,000+ tech leaders is on Oct 2. Book Exhibit Table Now."
-  },
-  {
-   "category": "gadgets",
-   "source": "Android Central",
-   "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-details-the-features-coming-to-galaxy-s26-series-with-one-ui-9-update",
-   "headline": "Samsung finally reveals everything coming to your Galaxy S26 with One UI 9",
-   "published_iso": "2026-09-28T10:41:14Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/QzPp3JoFMJmPf52sjcfLsG-2048-80.jpg",
-   "excerpt": "Android Central US Edition US UK Australia Canada India RSS Sign in View Profile Sign out Search Search Android Central Explore By Brand Google Apple Samsung"
-  },
-  {
-   "category": "gadgets",
-   "source": "전자신문",
-   "url": "https://www.etnews.com/20260929000315",
-   "headline": "밭 뛰어다니며 병충해 찾는 농업용 '로봇견'",
-   "published_iso": "2026-09-30T15:00:00+09:00",
-   "og_image": "https://img.etnews.com/news/article/2026/09/29/news-p.v1.20260929.26d14824325642afbe37b31bb0716e20_P1.jpg",
-   "excerpt": "작물 사이를 돌아다니며 잡초와 병해충을 찾아내는 '로봇견'이 농업 연구에 활용되고 있습니다. 글로벌 농업기업 신젠타는 영국 노팅엄대와 함께 4족 보행 로봇을 활용한 작물 관찰 기술을 개발하고 있습니다. 로봇에는 고해상도 카메라와 라이다가 탑재됐습니다. 작물 사이를 이동하며 잎과 줄기를 가까이에서 촬영합니다. AI를 이용해 잡초와 해충, 질병 징후 등을 확인할 수 있습니다. 걸을 때 발생하는 흔들림을 줄이기 위해 영화 촬영 등에 쓰이는 방식의 카메라 안정화 장치도 적용했습니다. 바퀴형 로봇보다 작물을 훼손할 가능성이 적고 진흙이나"
-  }
- ]
+  "date": "2026-10-02",
+  "section": "gadgets",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge",
+      "category": "gadgets",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "published_iso": "2026-10-01T19:47:51Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Can you trust AI to see what’s going on around you?"
+    },
+    {
+      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+      "source": "The Verge",
+      "category": "gadgets",
+      "title": "Sony brings AI graphics upscaling to the regular PS5",
+      "published_iso": "2026-10-01T16:53:39Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "It will be available today in two games."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "source": "The Verge",
+      "category": "gadgets",
+      "title": "Inside Microsoft’s big Copilot rethink",
+      "published_iso": "2026-10-01T16:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&strip=all&crop=0%2C10.889260556288%2C100%2C78.221478887424&w=1200",
+      "excerpt": "Copilot is now being positioned as the ‘OS for work.’"
+    },
+    {
+      "url": "https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/",
+      "source": "CNET",
+      "category": "gadgets",
+      "title": "Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?",
+      "published_iso": "2026-10-01T00:50:17Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-driver-ai-smart-glasses.jpg",
+      "excerpt": "Amazon continues its rollout of AI smart glasses to help streamline the delivery process. Meanwhile, the privacy concerns are growing."
+    },
+    {
+      "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+      "published_iso": "2026-10-01T20:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+      "excerpt": "Oura spots the changes, Xella tries to explain why"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "title": "Gemini for Home is now better at hearing you in noisy rooms",
+      "published_iso": "2026-09-30T20:58:51Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
+      "excerpt": "Google Home’s latest update makes Gemini faster and more reliable, while fixing lights, cameras, setup, and more."
+    },
+    {
+      "url": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "Samsung reportedly confirms November launch for first Android XR glasses",
+      "published_iso": "2026-10-01T14:20:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Samsung's first Android XR glasses reportedly have a release date confirmed for sometime in November 2026."
+    },
+    {
+      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "Gemini fully replaces Google Assistant on Android",
+      "published_iso": "2026-09-28T20:48:08Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out."
+    },
+    {
+      "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
+      "published_iso": "2026-10-01T09:00:17Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg",
+      "excerpt": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. The News Two distinct SM-O200P and SM-O200J have appeared in FCC filings, which is typically one of the last steps before commercialization. Those two product codes indicate Warby Park"
+    },
+    {
+      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "title": "Meta To Launch Smart Glasses Without Camera As Privacy Backlash Grows",
+      "published_iso": "2026-09-21T01:49:28Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-glasses-recording-LED.png",
+      "excerpt": "Meta will launch cheaper smart glasses without a camera at Connect, The Information reports, as the backlash to the form factor grows."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "published_iso": "2026-10-01T13:00:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+      "excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
+    },
+    {
+      "url": "https://www.etnews.com/20261001000279",
+      "source": "전자신문",
+      "category": "gadgets",
+      "title": "AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다",
+      "published_iso": "2026-10-01T07:00:00Z",
+      "og_image": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.b895ab04939443ddbc97cfdd1bfa73fb_P1.png",
+      "excerpt": "인공지능(AI) 가전 열풍이 대형가전을 넘어 인덕션과 환기가전 등 중소·생활가전으로 확산하고 있다. 별도 신경망처리장치(NPU) 없이도 마이크로컨트롤러유닛(MCU) 단위에서 저렴한 가격으로 필요한 AI 기능을 구현하는 온디바이스AI가 확산하고 있다. 1일 시장조사업체 ABI리서치에 따르면 스마트폰과 PC를 제외한 TinyML용 AI 반도체 출하량은 2026년부터 2031년까지 연평균 37% 증가해 2031년 41억개를 넘어설 전망이다. 관련 시"
+    },
+    {
+      "url": "https://9to5google.com/2026/10/01/android-auto-prepares-support-for-google-pixels-magic-cue-proactive-assistance/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "title": "Android Auto prepares support for Google Pixel’s Magic Cue & Proactive Assistance",
+      "published_iso": "2026-10-01T14:55:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/android-auto-magic-cue-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google is apparently preparing to bring Proactive Assistance – also known as “Magic Cue” – from its Pixel phones over..."
+    },
+    {
+      "url": "https://www.techradar.com/pro/no-internet-no-problem-tether-just-released-free-ai-translation-models-that-work-offline-on-your-phone-and-laptop",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "title": "Your phone could soon translate African languages without internet access",
+      "published_iso": "2026-09-23T22:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/A5ZrYAQqb4wSUm4tLAHqdb-1920-80.png",
+      "excerpt": "Tether built tiny translation models for phones, and one African version takes on systems far larger than itself"
+    },
+    {
+      "url": "https://zdnet.co.kr/view/?no=20260928100211",
+      "source": "지디넷코리아",
+      "category": "gadgets",
+      "title": "모빌린트, LG·두산·대동과 '온디바이스 AI 칩' 공동 개발",
+      "published_iso": "2026-09-28T01:59:03Z",
+      "og_image": "https://image.zdnet.co.kr/2026/09/28/029655a537115e882f4f545f2f7fc761.jpg",
+      "excerpt": "국내 인공지능(AI) 반도체 스타트업 모빌린트가 LG전자, 두산로보틱스, 대동과 손잡고 로봇 및 가전에 탑재될 차세대 온디바이스 AI 반도체 기술 개발에 착수한다.모빌린트는 산업통상자원부가 추진하는 ‘K-온디바이스 AI 반도체 기술개발사업’의 총 4개 주요 과제에 참여한다고 28일..."
+    }
+  ]
 }

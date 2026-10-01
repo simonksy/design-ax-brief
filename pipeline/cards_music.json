@@ -1,219 +1,1479 @@
 {
- "date": "2026-10-01",
- "section": "music",
- "cards": [
-  {
-   "id": "music-todd-edwards-suno-sampling",
-   "tool": "Music",
-   "eyebrow": "AI NEWS",
-   "headline": "토드 에드워즈는 수노로\n샘플 재료를 직접 만든다",
-   "body": "수노로 만든 곡을 잘라 쓰면 샘플 소송을 걱정할 일이 없다고 그는 말한다.",
-   "mini_headline": "수노를 샘플 재료로",
-   "source": "MusicRadar",
-   "url": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
-   "accent": "#ff2d55",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-1600-80.jpg",
-      "cap": "토드 에드워즈"
-     },
-     {
-      "t": "p",
-      "x": "하우스·UK 개러지의 전설이자 샘플링 장인 토드 에드워즈가 MusicRadar와 긴 대화를 나눴다. 34년 경력과 첫 영국 공연, 여러 차례 이어진 다프트 펑크와의 협업, 요즘 DJ 문화에 대한 생각이 두루 나왔다."
-     },
-     {
-      "t": "p",
-      "x": "그의 첫 장비는 엔소닉 EPS 샘플링 워크스테이션이었다. 13비트 특유의 거친 질감과 유명한 스윙이 여기서 나왔다. 키보드가 없던 시절이라 짧은 샘플 수백 개를 이어 붙여 음악과 가사를 만들었다. 그는 이를 \"레코드를 물감처럼, 원재료처럼 다뤘다\"고 돌아본다."
-     },
-     {
-      "t": "video",
-      "yt": "1UxY5LonBIc"
-     },
-     {
-      "t": "p",
-      "x": "곡 하나에 마이크로 샘플이 수백 개씩 들어가니 일일이 허가를 받기는 불가능에 가깝다. AI로 샘플을 찾아내기가 쉬워지고 저작권 소송도 흔해지면서 그는 방식을 바꿔야 했다. 2025년 초에는 신스를 연주하거나 Splice로 직접 샘플을 만들어 봤지만 레코드를 뒤지던 즐거움이 그리워 우울했다고 한다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/TwCUDXyr9V6cev9XZxMgPT-1200-80.jpg",
-      "cap": "토드 에드워즈"
-     },
-     {
-      "t": "p",
-      "x": "돌파구는 AI 음악 플랫폼 Suno Studio였다. 안전하게 샘플링할 재료를 여기서 만들면서 음악 만드는 재미가 되살아났다. \"사람들이 이 기술을 악마에게서 온 것처럼 말하는 게 싫다\"고 그는 말한다. 노련한 프로듀서는 강력한 도구로 보고 기술이 없는 사람은 위협으로 본다는 얘기다."
-     },
-     {
-      "t": "p",
-      "x": "그는 AI로 스템을 만들어 샘플링하는 일이 Splice 루프를 고르는 것보다 덜 창의적이지 않다고 본다. \"업계의 위선이 대단하다\"는 말도 여기서 나왔다. 프롬프트만 넣으면 뻔한 소리가 나오지만 자기 아이디어를 넣어 디스코나 소프트 록 곡을 만든 뒤 잘라 쓰면 \"전부 내 것이니 다시는 소송을 걱정할 필요가 없다\"고 했다."
-     },
-     {
-      "t": "p",
-      "x": "AI 없이도 평생 음악을 만들어 왔다는 그는 \"놀라운 모험이라서 쓰는 것\"이라며 결국 어떻게 쓰느냐의 문제라고 덧붙였다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "music-sampleson-backgrounds",
-   "tool": "Music",
-   "eyebrow": "AI NEWS",
-   "headline": "단어를 캔버스에 놓으면\n사운드스케이프가 된다",
-   "body": "Backgrounds는 키워드를 섞어 계속 변하는 배경음을 내 컴퓨터에서 만든다.",
-   "mini_headline": "단어로 짓는 배경음",
-   "source": "Synthtopia",
-   "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "video",
-      "yt": "ITJOoZMiS7E"
-     },
-     {
-      "t": "p",
-      "x": "Sampleson Backgrounds는 새로 나온 사운드스케이프 제작 도구다. 캔버스 위에서 단어와 아이디어를 조합하면 계속 변하는 영화 같은 분위기 음향이 만들어진다."
-     },
-     {
-      "t": "p",
-      "x": "핵심은 시맨틱 오디오 검색이다. 단어와 개념을 2만 2,000개가 넘는 오디오 셀, 1만 1,000개의 로컬 임베딩으로 이뤄진 큐레이션 라이브러리와 짝지어 준다. 사용자는 현악, 비, 베이스, 천둥 같은 키워드를 캔버스로 끌어다 섞으면서 사운드스케이프를 쌓는다."
-     },
-     {
-      "t": "p",
-      "x": "클라우드 처리나 구독형 토큰 없이 내 컴퓨터에서 돌아간다. 단독 앱과 플러그인으로 나와 음악 제작과 사운드 디자인 작업에 바로 쓸 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "macOS와 윈도우용 단독 앱, VST3/AU 플러그인으로 지금 구할 수 있다. 출시 기념가는 39달러(정가 59달러)다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "music-impf-impel-ai-licensing",
-   "tool": "Music",
-   "eyebrow": "AI NEWS",
-   "headline": "독립 퍼블리셔들이 내놓은\nAI 라이선스 원칙",
-   "body": "IMPF와 IMPEL은 AI 라이선스에서 곡도 녹음만큼 받아야 한다고 못 박았다.",
-   "mini_headline": "곡과 녹음은 같은 값",
-   "source": "CMU",
-   "url": "https://completemusicupdate.com/impf-and-impel-publish-ai-licensing-principles-insisting-songs-and-recordings-must-be-valued-equally/",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/IMPF-IMPEL-AI-.png",
-      "cap": "IMPF·IMPEL AI 라이선스 원칙"
-     },
-     {
-      "t": "p",
-      "x": "독립 음악 퍼블리셔를 대표하는 IMPF와 IMPEL이 생성형 AI 플랫폼과 라이선스를 맺을 때 업계가 따라야 할 원칙을 내놨다. 맨 앞에는 \"타협할 수 없는\" 원칙 하나가 있다. 곡은 제대로 평가받아야 하며 다른 뚜렷한 사정이 없다면 적어도 녹음과 같은 값을 받아야 한다는 것이다."
-     },
-     {
-      "t": "p",
-      "x": "AI 기업이 학습과 서비스에 기존 음악을 쓸 때, 한 트랙에 담긴 두 권리인 녹음(마스터)권과 곡(작품)권의 사용료를 거의 같게 매기라는 요구다. 스트리밍에서는 늘 녹음이 곡보다 훨씬 많이 받아 왔다. 두 단체는 스트리밍의 불균형을 수년간 다퉈 온 만큼 생성형 AI를 더 공정한 틀을 세울 기회로 본다며 곡을 작은 몫으로 두고 수익 대부분을 마스터에 돌리는 모델은 \"받아들일 수 없다\"고 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "이들은 곡과 가사, 멜로디가 AI 음악 제품의 학습부터 프롬프트, 생성, 출력, 상업화까지 한가운데에 있다고 강조한다. 라이선스 범위는 구체적이어야 하고 뜻하지 않게 더 넓은 미래 사용으로 이어지는 통로를 만들어서는 안 된다고도 했다."
-     },
-     {
-      "t": "p",
-      "x": "투명성도 요구했다. 권리자는 무엇이 라이선스되는지, 작품이 어떻게 쓰이고 귀속은 어떻게 처리되는지, 어떤 공제가 붙고 수익이 어떻게 계산·분배되는지 알아야 한다. 과거 사용분과 학습, 출력, 향후 이용에 대한 지급은 분명히 나눠 공정하게 다뤄야 한다."
-     },
-     {
-      "t": "p",
-      "x": "메이저가 AI 파트너에게 기존 트랙을 쓰는 리믹스·매시업 도구를 우선하라고 압박하는 만큼, 학습 대가와 출력 사용 대가라는 최소 두 갈래의 수입이 생긴다. 두 흐름의 배분 방식이 다를 수 있어 원칙의 쓸모가 커진다. IMPF 회장 아네트 배럿은 \"곡은 이 모든 것의 핵심이며 보호받아야 한다\"고 말했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "music-absolute-anthology-os",
-   "tool": "Music",
-   "eyebrow": "AI NEWS",
-   "headline": "Absolute, 자체 LLM을 품은\n음악 운영체제를 인디에 연다",
-   "body": "앤솔로지는 유통과 인접권 등록, 정산 보고까지 레이블 업무를 AI로 한데 묶는다.",
-   "mini_headline": "인디용 AI 음악 OS",
-   "source": "Music Business Worldwide",
-   "url": "https://www.musicbusinessworldwide.com/absolute-label-services-opens-ai-powered-anthology-business-management-music-os-to-indie-sector-infrastructure-is-the-next-logical-thing-to-democratize/",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.musicbusinessworldwide.com/files/2026/09/Screenshot-2026-09-30-at-13.04.12-e1790769884456.jpg",
-      "cap": "Anthology"
-     },
-     {
-      "t": "p",
-      "x": "영국의 Absolute Label Services가 AI 기반 음악 운영체제 앤솔로지(Anthology)를 독립 음악계 전체에 개방한다. 화이트 라벨 방식의 사업 관리 플랫폼으로, 첫 고객은 Cherry Red Records와 Reservoir Media 산하 Blue Raincoat Music이다."
-     },
-     {
-      "t": "p",
-      "x": "'음악 OS'는 한 가지 기능이 아니라 권리 회사의 데이터와 운영 전반을 아우르는 소프트웨어를 가리키는 Absolute의 용어다. 앤솔로지는 전 세계 디지털·실물 유통, 인접권 등록, 마케팅, 재무 보고, 재고·공급사 관리, 청구를 하나로 잇는다. 그 전체를 자체 LLM 'Ant'가 관통한다."
-     },
-     {
-      "t": "p",
-      "x": "앤솔로지를 이끄는 사이먼 윌스는 \"AI가 창작과 저작권, 사람이 만든 음악의 가치에 무엇을 뜻하는지에 대한 우려는 정당하다\"면서도 \"AI는 음악 생성보다 훨씬 크다\"고 말했다. 사람을 대신하기보다 일을 돕는 부분에 집중했다고 한다. AI가 데이터를 24시간 지켜보며 이상 징후나 로열티 문제, 놓치기 쉬운 사업 기회를 찾게 하자는 구상이다."
-     },
-     {
-      "t": "p",
-      "x": "그는 Ant가 Absolute가 수십 년간 쌓은 음악 산업 지식에 뿌리를 두고 있으며 고객은 데이터 주권을 온전히 지킨다고 설명했다. 회사는 5년간 수백만 파운드를 들여 시스템을 만들었고 2024년 7월부터 내부에서 써 왔다."
-     },
-     {
-      "t": "p",
-      "x": "Cherry Red의 매트 브리스토는 발매 한 건에 15개 플랫폼에 데이터를 따로 입력한 적도 있다며 한 달 30건씩 발매하는 입장에서 매달 많은 시간을 아끼게 될 거라고 했다. 윌스는 구글, 애플, 메타, 스포티파이 같은 상대와 협상하면서 PDF와 스프레드시트로 버틸 수는 없다며 음악 회사가 스스로 기술 역량을 가져야 한다고 강조했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "music-ross-fair-use-appeal",
-   "tool": "Music",
-   "eyebrow": "AI NEWS",
-   "headline": "미 항소법원, AI 학습용 복제는\n공정 이용이 아니라고 봤다",
-   "body": "RIAA·NMPA는 AI 학습 복제가 공정 이용이 아니라며 톰슨 로이터를 지지했다.",
-   "mini_headline": "AI 학습, 공정 이용 아니다",
-   "source": "Music Business Worldwide",
-   "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2412154257.jpg"
-     },
-     {
-      "t": "p",
-      "x": "미국 연방 제3순회항소법원이 AI 기업이 학습 데이터를 만들려고 저작물을 복제한 행위는 공정 이용이 아니라는 원심을 유지했다. 법원은 법률 검색 서비스 웨스트로(Westlaw)를 가진 톰슨 로이터의 손을 들어줬다. 상대는 웨스트로의 판례 요약(헤드노트)으로 경쟁 검색 도구를 만든 스타트업 로스 인텔리전스로, 지금은 문을 닫았다."
-     },
-     {
-      "t": "p",
-      "x": "미국음반산업협회(RIAA)와 전미음악출판인협회(NMPA)는 공동 의견서를 내고 경쟁 서비스를 만들려고 저작물로 AI 모델을 학습시키는 일은 \"공정 이용이 될 수 없다\"고 주장했다. 32쪽 분량의 판결문은 봉인 상태다. 공개되면 관할 지방법원을 구속하는 선례가 된다."
-     },
-     {
-      "t": "p",
-      "x": "두 단체는 의견서에서 Suno가 \"인터넷에서 접근 가능한, 품질이 괜찮은 거의 모든 음악 파일\"로 모델을 학습했다고 밝힌 답변서를 인용했다. 디저가 2025년 11월 하루 5만 곡 넘는 완전 AI 생성곡을 받았다고 공개한 수치도 들었다. 이 숫자는 올해 6월 하루 9만 곡 가까이로 늘었다. UMG·워너와 Stability AI·Udio의 계약, Kobalt와 ElevenLabs의 계약은 학습 데이터 라이선스 시장이 실제로 있다는 근거로 제시됐다."
-     },
-     {
-      "t": "p",
-      "x": "다만 이번 판결이 Suno·Udio 사건의 공정 이용 쟁점을 정리하지는 않는다. 로스는 생성형 AI가 아니라 기존 판례를 찾아 주는 도구였다. 1심의 스테파노스 비버스 판사도 2025년 판결에서 \"비생성형 AI만 다룬다\"고 선을 그었다. Suno와 Udio는 공정 이용을 방어의 중심에 두고 있다. 매사추세츠의 Suno 사건은 양측이 공정 이용을 두고 약식판결을 신청할 예정이다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-02",
+  "section": "music",
+  "cards": [
+    {
+      "id": "japanvoice",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
+      "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
+      "mini_headline": "AI 복제에서 목소리를 지킨 판결",
+      "tool": "Music",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+          },
+          {
+            "t": "p",
+            "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+          },
+          {
+            "t": "p",
+            "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+          },
+          {
+            "t": "p",
+            "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+          },
+          {
+            "t": "p",
+            "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A Japanese court rules a voice\nis protected by publicity rights",
+          "body": "A Tokyo court partly sided with an anime voice actor against an anonymous TikTok account that cloned his voice with AI.",
+          "mini_headline": "Court shields a voice from AI clones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A Tokyo court has sided with Japanese voice actor Kenjiro Tsuda, who claimed a TikTok account had used AI to clone his \"lustrous\" baritone delivery, ruling that the human voice is protected by law in a landmark case."
+              },
+              {
+                "t": "p",
+                "x": "Tsuda, best known as Seto Kaiba in Yu-Gi-Oh!, said the narrator of several videos posted by an anonymous account between July 2024 and the second half of last year was cloned from his voice. His request to order TikTok to remove the videos was dismissed, as the account has already been deleted."
+              },
+              {
+                "t": "p",
+                "x": "The court said using an actor's voice without permission should be deemed an infringement on their publicity rights, as reported by AFP — the first case of its kind in Japan. TikTok had argued in court that a \"generic male voice\" was used."
+              },
+              {
+                "t": "p",
+                "x": "The ruling lands amid growing concern among anime voice actors that more must be done to protect creators whose work or likeness is ingested by AI."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tribunal japonés ampara la voz\ncon el derecho de imagen",
+          "body": "Un tribunal de Tokio respaldó en parte a un actor de voz contra una cuenta anónima de TikTok que clonó su voz con IA.",
+          "mini_headline": "Un tribunal protege la voz de los clones de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un tribunal de Tokio ha dado la razón al actor de voz japonés Kenjiro Tsuda, que denunció que una cuenta de TikTok había usado IA para clonar su \"lustrosa\" interpretación de barítono, y ha dictaminado en un caso histórico que la voz humana está protegida por la ley."
+              },
+              {
+                "t": "p",
+                "x": "Tsuda, conocido sobre todo como Seto Kaiba en Yu-Gi-Oh!, afirmó que la narración de varios vídeos publicados por una cuenta anónima entre julio de 2024 y la segunda mitad del año pasado se clonó a partir de su voz. Su petición de ordenar a TikTok la retirada de los vídeos fue desestimada, ya que la cuenta ya había sido eliminada."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal señaló que usar la voz de un actor sin permiso debe considerarse una vulneración de sus derechos de imagen, según informó AFP; es el primer caso de este tipo en Japón. TikTok había alegado ante el tribunal que se utilizó una \"voz masculina genérica\"."
+              },
+              {
+                "t": "p",
+                "x": "El fallo llega en medio de una creciente preocupación entre los actores de voz de anime, que consideran que hay que hacer más para proteger a los creadores cuya obra o imagen es absorbida por la IA."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
+          "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
+          "mini_headline": "AI 복제에서 목소리를 지킨 판결",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+              },
+              {
+                "t": "p",
+                "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+              },
+              {
+                "t": "p",
+                "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本の裁判所、声に\nパブリシティ権認める",
+          "body": "東京の裁判所は、AIで声を複製した匿名TikTokアカウントを巡り声優の訴えを一部認めた。",
+          "mini_headline": "AIの複製から声を守る判決",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "東京の裁判所は、TikTokのアカウントがAIを使って自身の「艶のある」バリトンの語りを複製したと主張した日本の声優、津田健次郎(Kenjiro Tsuda)の訴えを認め、画期的な判断として人間の声は法律で保護されるとした。"
+              },
+              {
+                "t": "p",
+                "x": "『遊☆戯☆王』(Yu-Gi-Oh!)の海馬瀬人(Seto Kaiba)役で知られる津田は、匿名アカウントが2024年7月から昨年下半期にかけて投稿した複数の動画のナレーションが、自身の声から複製されたものだと述べた。TikTokに動画の削除を命じるよう求めた請求は、アカウントがすでに削除されていたため棄却された。"
+              },
+              {
+                "t": "p",
+                "x": "AFPによると、裁判所は俳優の声を無断で使うことはパブリシティ権の侵害にあたると判断した。日本で初めてのケースである。TikTok側は法廷で「一般的な男性の声」が使われたと主張していた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の判決は、作品や肖像がAIに取り込まれるクリエイターを守るため、さらなる対策が必要だとするアニメ声優の懸念が高まるなかで出された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本法院裁定声音\n受形象权保护",
+          "body": "东京法院部分支持一名动漫声优，其声音遭匿名TikTok账号用AI克隆。",
+          "mini_headline": "法院保护声音免遭AI克隆",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "东京一家法院支持了日本声优津田健次郎（Kenjiro Tsuda）的主张，在这起具有里程碑意义的案件中裁定人类声音受法律保护。津田称，一个TikTok账号用AI克隆了他“富有光泽”的男中音。"
+              },
+              {
+                "t": "p",
+                "x": "以在《Yu-Gi-Oh!》（游戏王）中为海马濑人（Seto Kaiba）配音而闻名的津田表示，一个匿名账号在2024年7月至去年下半年间发布的多段视频，其旁白克隆自他的声音。由于该账号已被删除，他要求法院责令TikTok删除视频的请求被驳回。"
+              },
+              {
+                "t": "p",
+                "x": "据AFP报道，法院认为未经许可使用演员的声音应被视为侵犯其形象权，这是日本首例此类案件。TikTok曾在庭上辩称，视频使用的是“普通男性声音”。"
+              },
+              {
+                "t": "p",
+                "x": "动漫声优日益担忧，作品或形象被AI吸收的创作者需要得到更多保护，这一裁决正是在此背景下作出的。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Tribunal japonés ampara la voz\ncon el derecho de imagen",
+          "body": "Un tribunal de Tokio respaldó en parte a un actor de voz contra una cuenta anónima de TikTok que clonó su voz con IA.",
+          "mini_headline": "Un tribunal protege la voz de los clones de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Un tribunal de Tokio ha dado la razón al actor de voz japonés Kenjiro Tsuda, que denunció que una cuenta de TikTok había usado IA para clonar su \"lustrosa\" interpretación de barítono, y ha dictaminado en un caso histórico que la voz humana está protegida por la ley."
+              },
+              {
+                "t": "p",
+                "x": "Tsuda, conocido sobre todo como Seto Kaiba en Yu-Gi-Oh!, afirmó que la narración de varios vídeos publicados por una cuenta anónima entre julio de 2024 y la segunda mitad del año pasado se clonó a partir de su voz. Su petición de ordenar a TikTok la retirada de los vídeos fue desestimada, ya que la cuenta ya había sido eliminada."
+              },
+              {
+                "t": "p",
+                "x": "El tribunal señaló que usar la voz de un actor sin permiso debe considerarse una vulneración de sus derechos de imagen, según informó AFP; es el primer caso de este tipo en Japón. TikTok había alegado ante el tribunal que se utilizó una \"voz masculina genérica\"."
+              },
+              {
+                "t": "p",
+                "x": "El fallo llega en medio de una creciente preocupación entre los actores de voz de anime, que consideran que hay que hacer más para proteger a los creadores cuya obra o imagen es absorbida por la IA."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
+          "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
+          "mini_headline": "AI 복제로부터 목소리를 지킨 판결",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "도쿄 법원이 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장한 일본 성우 쓰다 겐지로(Kenjiro Tsuda)의 손을 들어줬다. 획기적인 이번 판결에서 법원은 사람의 목소리가 법으로 보호된다고 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda는 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 여러 영상의 내레이션이 자신의 목소리를 복제한 것이라고 밝혔다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+              },
+              {
+                "t": "p",
+                "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰는 것은 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 이런 판결은 처음이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 판결은 작품이나 초상이 AI에 학습되는 창작자를 보호하기 위해 더 많은 조치가 필요하다는 애니메이션 성우들의 우려가 커지는 가운데 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本の裁判所、声に\nパブリシティ権認める",
+          "body": "東京の裁判所は、AIで声を複製した匿名TikTokアカウントを巡り声優の訴えを一部認めた。",
+          "mini_headline": "AIの複製から声を守る判決",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "東京の裁判所は、TikTokのアカウントがAIを使って自身の「艶のある」バリトンの語りを複製したと主張した日本の声優、津田健次郎(Kenjiro Tsuda)の訴えを認め、画期的な判断として人間の声は法律で保護されるとした。"
+              },
+              {
+                "t": "p",
+                "x": "『遊☆戯☆王』(Yu-Gi-Oh!)の海馬瀬人(Seto Kaiba)役で知られる津田は、匿名アカウントが2024年7月から昨年下半期にかけて投稿した複数の動画のナレーションが、自身の声から複製されたものだと述べた。TikTokに動画の削除を命じるよう求めた請求は、アカウントがすでに削除されていたため棄却された。"
+              },
+              {
+                "t": "p",
+                "x": "AFPによると、裁判所は俳優の声を無断で使うことはパブリシティ権の侵害にあたると判断した。日本で初めてのケースである。TikTok側は法廷で「一般的な男性の声」が使われたと主張していた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の判決は、作品や肖像がAIに取り込まれるクリエイターを守るため、さらなる対策が必要だとするアニメ声優の懸念が高まるなかで出された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本法院裁定声音\n受形象权保护",
+          "body": "东京法院部分支持一名动漫声优，其声音遭匿名TikTok账号用AI克隆。",
+          "mini_headline": "法院保护声音免遭AI克隆",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+              },
+              {
+                "t": "p",
+                "x": "东京一家法院支持了日本声优津田健次郎（Kenjiro Tsuda）的主张，在这起具有里程碑意义的案件中裁定人类声音受法律保护。津田称，一个TikTok账号用AI克隆了他“富有光泽”的男中音。"
+              },
+              {
+                "t": "p",
+                "x": "以在《Yu-Gi-Oh!》（游戏王）中为海马濑人（Seto Kaiba）配音而闻名的津田表示，一个匿名账号在2024年7月至去年下半年间发布的多段视频，其旁白克隆自他的声音。由于该账号已被删除，他要求法院责令TikTok删除视频的请求被驳回。"
+              },
+              {
+                "t": "p",
+                "x": "据AFP报道，法院认为未经许可使用演员的声音应被视为侵犯其形象权，这是日本首例此类案件。TikTok曾在庭上辩称，视频使用的是“普通男性声音”。"
+              },
+              {
+                "t": "p",
+                "x": "动漫声优日益担忧，作品或形象被AI吸收的创作者需要得到更多保护，这一裁决正是在此背景下作出的。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "songhunt",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
+      "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
+      "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+      "tool": "Music",
+      "source": "Epidemic Sound (Cision)",
+      "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+          },
+          {
+            "t": "p",
+            "x": "Epidemic Sound가 Overwolf, MyPart와 함께 Songhunt의 새 Stream 모드를 출시한다고 발표했다. Songhunt는 Overwolf의 인게임 앱으로, 1,500개가 넘는 PC 게임에서 PC 게이머 각자에게 맞춘 적응형 음악을 들려준다."
+          },
+          {
+            "t": "p",
+            "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 쉬지 않고 읽는다. 조용한 탐험이든 빠른 전투든 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 골라낸다."
+          },
+          {
+            "t": "p",
+            "x": "Epidemic Sound의 카탈로그는 100% IP-owned(지식재산권 100% 보유)다. 덕분에 Twitch와 YouTube 스트리머는 VODs 음소거나 저작권 신고, 영상 삭제를 걱정하지 않아도 된다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Songhunt lets AI pick music\nto match live PC gameplay",
+          "body": "Songhunt uses MyPart's multimodal AI to read gameplay live and pick matching tracks from Epidemic Sound's catalog.",
+          "mini_headline": "AI scores PC gameplay live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound announced a partnership with Overwolf and MyPart to launch a new Stream mode in Songhunt, the Overwolf in-game app that gives PC gamers a personalized, adaptive music experience across more than 1,500 PC games."
+              },
+              {
+                "t": "p",
+                "x": "Songhunt uses MyPart's multimodal AI to interpret gameplay continuously and select music from Epidemic Sound's catalog that matches what is happening on screen, shifting from quiet exploration to fast-paced combat."
+              },
+              {
+                "t": "p",
+                "x": "For streamers on Twitch and YouTube, Epidemic Sound's 100% IP-owned catalog removes the risk of muted VODs, copyright claims and takedowns. \"Songhunt removes that trade-off,\" said Rasmus Thofte, SVP B2B at Epidemic Sound."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
+          "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
+          "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound가 Overwolf, MyPart와 함께 Songhunt의 새 Stream 모드를 출시한다고 발표했다. Songhunt는 Overwolf의 인게임 앱으로, 1,500개가 넘는 PC 게임에서 PC 게이머 각자에게 맞춘 적응형 음악을 들려준다."
+              },
+              {
+                "t": "p",
+                "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 쉬지 않고 읽는다. 조용한 탐험이든 빠른 전투든 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 골라낸다."
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound의 카탈로그는 100% IP-owned(지식재산권 100% 보유)다. 덕분에 Twitch와 YouTube 스트리머는 VODs 음소거나 저작권 신고, 영상 삭제를 걱정하지 않아도 된다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Songhunt、AIが\nPCゲームに合わせ選曲",
+          "body": "SonghuntはマルチモーダルAIでゲームをリアルタイムで読み取り、合う曲を選ぶ。",
+          "mini_headline": "AIがPCゲームの音楽をライブで選ぶ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic SoundはOverwolfおよびMyPartとの提携を発表し、Songhuntに新しいStreamモードを導入する。SonghuntはOverwolfのゲーム内アプリで、1,500本以上のPCゲームでPCゲーマーにパーソナライズされた適応型の音楽体験を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "SonghuntはMyPartのマルチモーダルAIでゲームプレイを継続的に解釈し、静かな探索から激しい戦闘まで、画面上の状況に合った音楽をEpidemic Soundのカタログから選ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "TwitchやYouTubeの配信者にとって、Epidemic Soundの100% IP-owned(IPを100%自社保有する)カタログは、VODsのミュート、著作権申し立て、削除のリスクをなくす。Epidemic SoundのSVP B2B、Rasmus Thofteは「Songhuntはそのトレードオフをなくす」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Songhunt让AI\n为PC游戏实时配乐",
+          "body": "Songhunt借助多模态AI实时解读游戏画面，并挑选相匹配的曲目。",
+          "mini_headline": "AI为PC游戏实时配乐",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound宣布与Overwolf和MyPart合作，在Songhunt中推出全新Stream模式。Songhunt是Overwolf旗下的游戏内应用，在超过1,500款PC游戏中为PC玩家提供个性化、自适应的音乐体验。"
+              },
+              {
+                "t": "p",
+                "x": "Songhunt借助MyPart的多模态AI持续解读游戏过程，从Epidemic Sound曲库中挑选与画面情境相匹配的音乐，从安静的探索切换到快节奏的战斗。"
+              },
+              {
+                "t": "p",
+                "x": "对于Twitch和YouTube上的主播而言，Epidemic Sound 100% IP-owned（完全自有版权）的曲库消除了VODs被静音、版权申诉和下架的风险。Epidemic Sound的SVP B2B Rasmus Thofte表示：“Songhunt消除了这种取舍。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Songhunt deja que la IA elija\nmúsica para partidas de PC",
+          "body": "Songhunt usa la IA multimodal de MyPart para leer la partida en vivo y elegir temas del catálogo de Epidemic Sound.",
+          "mini_headline": "La IA musicaliza partidas de PC en vivo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound anunció una alianza con Overwolf y MyPart para lanzar un nuevo modo Stream en Songhunt, la app integrada en el juego de Overwolf que ofrece a los jugadores de PC una experiencia musical personalizada y adaptativa en más de 1,500 juegos de PC."
+              },
+              {
+                "t": "p",
+                "x": "Songhunt usa la IA multimodal de MyPart para interpretar la partida de forma continua y seleccionar del catálogo de Epidemic Sound música acorde con lo que ocurre en pantalla, desde una exploración tranquila hasta un combate frenético."
+              },
+              {
+                "t": "p",
+                "x": "Para los streamers de Twitch y YouTube, el catálogo 100% IP-owned de Epidemic Sound elimina el riesgo de VODs silenciados, reclamaciones de derechos de autor y retiradas. \"Songhunt elimina ese dilema\", dijo Rasmus Thofte, SVP B2B de Epidemic Sound."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
+          "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
+          "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound가 Overwolf, MyPart와 손잡고 Songhunt에 새 Stream 모드를 출시한다고 발표했다. Songhunt는 1,500개가 넘는 PC 게임에서 PC 게이머에게 개인화된 적응형 음악 경험을 제공하는 Overwolf의 인게임 앱이다."
+              },
+              {
+                "t": "p",
+                "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 계속 해석해, 조용한 탐험부터 빠른 전투까지 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 고른다."
+              },
+              {
+                "t": "p",
+                "x": "Twitch와 YouTube 스트리머에게 Epidemic Sound의 100% IP-owned(지식재산권 100% 보유) 카탈로그는 VODs 음소거, 저작권 신고, 영상 삭제의 위험을 없애준다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Songhunt、AIが\nPCゲームに合わせ選曲",
+          "body": "SonghuntはマルチモーダルAIでゲームをリアルタイムで読み取り、合う曲を選ぶ。",
+          "mini_headline": "AIがPCゲームの音楽をライブで選ぶ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic SoundはOverwolfおよびMyPartとの提携を発表し、Songhuntに新しいStreamモードを導入する。SonghuntはOverwolfのゲーム内アプリで、1,500本以上のPCゲームでPCゲーマーにパーソナライズされた適応型の音楽体験を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "SonghuntはMyPartのマルチモーダルAIでゲームプレイを継続的に解釈し、静かな探索から激しい戦闘まで、画面上の状況に合った音楽をEpidemic Soundのカタログから選ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "TwitchやYouTubeの配信者にとって、Epidemic Soundの100% IP-owned(IPを100%自社保有する)カタログは、VODsのミュート、著作権申し立て、削除のリスクをなくす。Epidemic SoundのSVP B2B、Rasmus Thofteは「Songhuntはそのトレードオフをなくす」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Songhunt让AI\n为PC游戏实时配乐",
+          "body": "Songhunt借助多模态AI实时解读游戏画面，并挑选相匹配的曲目。",
+          "mini_headline": "AI为PC游戏实时配乐",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound宣布与Overwolf和MyPart合作，在Songhunt中推出全新Stream模式。Songhunt是Overwolf旗下的游戏内应用，在超过1,500款PC游戏中为PC玩家提供个性化、自适应的音乐体验。"
+              },
+              {
+                "t": "p",
+                "x": "Songhunt借助MyPart的多模态AI持续解读游戏过程，从Epidemic Sound曲库中挑选与画面情境相匹配的音乐，从安静的探索切换到快节奏的战斗。"
+              },
+              {
+                "t": "p",
+                "x": "对于Twitch和YouTube上的主播而言，Epidemic Sound 100% IP-owned（完全自有版权）的曲库消除了VODs被静音、版权申诉和下架的风险。Epidemic Sound的SVP B2B Rasmus Thofte表示：“Songhunt消除了这种取舍。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Songhunt deja que la IA elija\nmúsica para partidas de PC",
+          "body": "Songhunt usa la IA multimodal de MyPart para leer la partida en vivo y elegir temas del catálogo de Epidemic Sound.",
+          "mini_headline": "La IA musicaliza partidas de PC en vivo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+              },
+              {
+                "t": "p",
+                "x": "Epidemic Sound anunció una alianza con Overwolf y MyPart para lanzar un nuevo modo Stream en Songhunt, la app integrada en el juego de Overwolf que ofrece a los jugadores de PC una experiencia musical personalizada y adaptativa en más de 1,500 juegos de PC."
+              },
+              {
+                "t": "p",
+                "x": "Songhunt usa la IA multimodal de MyPart para interpretar la partida de forma continua y seleccionar del catálogo de Epidemic Sound música acorde con lo que ocurre en pantalla, desde una exploración tranquila hasta un combate frenético."
+              },
+              {
+                "t": "p",
+                "x": "Para los streamers de Twitch y YouTube, el catálogo 100% IP-owned de Epidemic Sound elimina el riesgo de VODs silenciados, reclamaciones de derechos de autor y retiradas. \"Songhunt elimina ese dilema\", dijo Rasmus Thofte, SVP B2B de Epidemic Sound."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "clarkson",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Kelly Clarkson welcomes AI\nbut wants separate charts",
+      "body": "Kelly Clarkson says she loves AI and is into it artistically, but thinks AI artists should be on a separate chart.",
+      "mini_headline": "Clarkson: AI music, separate charts",
+      "tool": "Music",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "R4nt1u0z27s"
+          },
+          {
+            "t": "p",
+            "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+          },
+          {
+            "t": "p",
+            "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+          },
+          {
+            "t": "p",
+            "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+          },
+          {
+            "t": "p",
+            "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Kelly Clarkson welcomes AI\nbut wants separate charts",
+          "body": "Kelly Clarkson says she loves AI and is into it artistically, but thinks AI artists should be on a separate chart.",
+          "mini_headline": "Clarkson: AI music, separate charts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+              },
+              {
+                "t": "p",
+                "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+              },
+              {
+                "t": "p",
+                "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+              },
+              {
+                "t": "p",
+                "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Clarkson、AIを歓迎\nただしチャートは別に",
+          "body": "ClarksonはAIを好むが、AIアーティストは別チャートにすべきだと語った。",
+          "mini_headline": "Clarkson、AI音楽は別チャートに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "Kelly ClarksonはLas Culturistasの最新エピソードで、AIから多くの良いものが生まれうると語った。「物議を醸す?気にしない。私はAIが大好き。……芸術的にも興味がある。楽しんで使っている」"
+              },
+              {
+                "t": "p",
+                "x": "彼女はAI音楽をめぐる意見の多くは「白黒をつけすぎ」だとし、「AIを迎え入れるのはいいと思う……でも人間と競い合うべきではないと思う」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「AIアーティストがチャートで人間と競っているのを見ると、問題だと感じる」と彼女は言う。「別のチャートがあるべきだと思う……人間らしさを失ってはいけない」"
+              },
+              {
+                "t": "p",
+                "x": "8月、BillboardはAI-generated(AI生成)の楽曲がチャート入りした際に透明性をもって明記する方針を再確認し、LuminateもAI-created(AIで作られた)コンテンツにラベルを付ける計画を発表した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Clarkson欢迎AI\n但希望另设榜单",
+          "body": "Kelly Clarkson称自己喜欢AI，但认为AI艺人应进入单独的榜单。",
+          "mini_headline": "Clarkson：AI音乐应另设榜单",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "Kelly Clarkson在最新一期Las Culturistas节目中表示，AI能带来很多好处：“有争议？我不在乎：我爱AI。……在艺术上我也很喜欢它。我玩得很开心。”"
+              },
+              {
+                "t": "p",
+                "x": "她认为，多数关于AI音乐的看法都太过“非黑即白”：“我觉得欢迎它加入……但我不认为它们应该与人类竞争。”"
+              },
+              {
+                "t": "p",
+                "x": "“看到AI艺人在榜单上与人类竞争，我就有意见，”她说，“我认为应该有一个单独的榜单……我们不能失去人性。”"
+              },
+              {
+                "t": "p",
+                "x": "8月，Billboard重申将在AI-generated（AI生成）歌曲进入榜单时予以透明标注，同时Luminate宣布计划为AI-created（AI创作）内容添加标签。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Kelly Clarkson acoge la IA\npero pide listas separadas",
+          "body": "Kelly Clarkson dice que le encanta la IA, pero cree que los artistas de IA deberían tener una lista aparte.",
+          "mini_headline": "Clarkson: música de IA, en listas aparte",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "En el episodio más reciente de Las Culturistas, Kelly Clarkson dijo que la IA puede aportar mucho bueno: \"¿Polémico? No me importa: me encanta la IA. ... También me interesa en lo artístico. Me divierto con ella.\""
+              },
+              {
+                "t": "p",
+                "x": "Calificó la mayoría de las opiniones sobre la música con IA de demasiado \"blanco o negro\": \"Creo que es bienvenida a la mesa ... pero no creo que deban competir con los humanos.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando veo a artistas de IA compitiendo en una lista con humanos, tengo un problema\", dijo. \"Creo que debería haber una lista aparte ... No podemos perder lo humano.\""
+              },
+              {
+                "t": "p",
+                "x": "En agosto, Billboard reafirmó su compromiso de señalar con transparencia cuándo una canción AI-generated (generada por IA) entra en sus listas, mientras Luminate anunció planes para etiquetar el contenido AI-created (creado con IA)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "Clarkson、AIを歓迎\nただしチャートは別に",
+          "body": "ClarksonはAIを好むが、AIアーティストは別チャートにすべきだと語った。",
+          "mini_headline": "Clarkson、AI音楽は別チャートに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "Kelly ClarksonはLas Culturistasの最新エピソードで、AIから多くの良いものが生まれうると語った。「物議を醸す?気にしない。私はAIが大好き。……芸術的にも興味がある。楽しんで使っている」"
+              },
+              {
+                "t": "p",
+                "x": "彼女はAI音楽をめぐる意見の多くは「白黒をつけすぎ」だとし、「AIを迎え入れるのはいいと思う……でも人間と競い合うべきではないと思う」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「AIアーティストがチャートで人間と競っているのを見ると、問題だと感じる」と彼女は言う。「別のチャートがあるべきだと思う……人間らしさを失ってはいけない」"
+              },
+              {
+                "t": "p",
+                "x": "8月、BillboardはAI-generated(AI生成)の楽曲がチャート入りした際に透明性をもって明記する方針を再確認し、LuminateもAI-created(AIで作られた)コンテンツにラベルを付ける計画を発表した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Clarkson欢迎AI\n但希望另设榜单",
+          "body": "Kelly Clarkson称自己喜欢AI，但认为AI艺人应进入单独的榜单。",
+          "mini_headline": "Clarkson：AI音乐应另设榜单",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "Kelly Clarkson在最新一期Las Culturistas节目中表示，AI能带来很多好处：“有争议？我不在乎：我爱AI。……在艺术上我也很喜欢它。我玩得很开心。”"
+              },
+              {
+                "t": "p",
+                "x": "她认为，多数关于AI音乐的看法都太过“非黑即白”：“我觉得欢迎它加入……但我不认为它们应该与人类竞争。”"
+              },
+              {
+                "t": "p",
+                "x": "“看到AI艺人在榜单上与人类竞争，我就有意见，”她说，“我认为应该有一个单独的榜单……我们不能失去人性。”"
+              },
+              {
+                "t": "p",
+                "x": "8月，Billboard重申将在AI-generated（AI生成）歌曲进入榜单时予以透明标注，同时Luminate宣布计划为AI-created（AI创作）内容添加标签。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Kelly Clarkson acoge la IA\npero pide listas separadas",
+          "body": "Kelly Clarkson dice que le encanta la IA, pero cree que los artistas de IA deberían tener una lista aparte.",
+          "mini_headline": "Clarkson: música de IA, en listas aparte",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "R4nt1u0z27s"
+              },
+              {
+                "t": "p",
+                "x": "En el episodio más reciente de Las Culturistas, Kelly Clarkson dijo que la IA puede aportar mucho bueno: \"¿Polémico? No me importa: me encanta la IA. ... También me interesa en lo artístico. Me divierto con ella.\""
+              },
+              {
+                "t": "p",
+                "x": "Calificó la mayoría de las opiniones sobre la música con IA de demasiado \"blanco o negro\": \"Creo que es bienvenida a la mesa ... pero no creo que deban competir con los humanos.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Cuando veo a artistas de IA compitiendo en una lista con humanos, tengo un problema\", dijo. \"Creo que debería haber una lista aparte ... No podemos perder lo humano.\""
+              },
+              {
+                "t": "p",
+                "x": "En agosto, Billboard reafirmó su compromiso de señalar con transparencia cuándo una canción AI-generated (generada por IA) entra en sus listas, mientras Luminate anunció planes para etiquetar el contenido AI-created (creado con IA)."
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "ko": "fallback"
+      }
+    },
+    {
+      "id": "sleepclub",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
+      "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
+      "mini_headline": "Spotify AI, 또 밴드를 오판",
+      "tool": "Music",
+      "source": "Theprp",
+      "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+          },
+          {
+            "t": "p",
+            "x": "Spotify가 슈게이즈 밴드 SLEEP CLUB의 최신 싱글 \"Weight Of Ease\"를 AI 사용 곡으로 잘못 분류한 것으로 보인다. 곧 나올 데뷔 앨범 \"Dweller\"의 수록곡이다. Spotify는 앞서 밴드 카탈로그 전체를 이렇게 분류했다가 바로잡은 적이 있다."
+          },
+          {
+            "t": "p",
+            "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝혔다. 그는 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 짚었다. 카탈로그 복구에는 약 5주가 걸렸다."
+          },
+          {
+            "t": "p",
+            "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 나중에 첫 번째 분류의 원인이 밴드명에 든 \"sleep\"이라는 단어였다고 밝혔다. Spotify는 이번 건을 설명하지 않았다."
+          },
+          {
+            "t": "video",
+            "yt": "kfolpGoqW10"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Spotify's AI system flags\nSLEEP CLUB's new single again",
+          "body": "Spotify's AI-driven system flagged SLEEP CLUB's new single as ineligible for recommendation, again misjudging the band.",
+          "mini_headline": "Spotify's AI flags a band again",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "Shoegaze outfit SLEEP CLUB's latest single \"Weight Of Ease\", from their upcoming debut album \"Dweller\", has seemingly been incorrectly flagged by Spotify for AI usage. The band's entire catalog had previously been flagged before Spotify resolved it."
+              },
+              {
+                "t": "p",
+                "x": "\"For the 2nd time in two releases, our newest single 'Weight of Ease' has been flagged by Spotify's AI driven internal system as 'ineligible for recommendation',\" said Matt Jones, noting algorithmic support makes up roughly 50-70% of an average artist's streams. It took roughly 5 weeks to restore the catalog."
+              },
+              {
+                "t": "p",
+                "x": "\"It's ironic that this album, which is about the intrusion of AI into every aspect of our lives, keeps getting flagged by AI systems incorrectly,\" he added. The band later said the first flag stemmed from the word \"sleep\" in their name; Spotify has not explained the current one."
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
+          "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
+          "mini_headline": "Spotify AI, 또 밴드를 오판",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "Spotify가 슈게이즈 밴드 SLEEP CLUB의 최신 싱글 \"Weight Of Ease\"를 AI 사용 곡으로 잘못 분류한 것으로 보인다. 곧 나올 데뷔 앨범 \"Dweller\"의 수록곡이다. Spotify는 앞서 밴드 카탈로그 전체를 이렇게 분류했다가 바로잡은 적이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝혔다. 그는 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 짚었다. 카탈로그 복구에는 약 5주가 걸렸다."
+              },
+              {
+                "t": "p",
+                "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 나중에 첫 번째 분류의 원인이 밴드명에 든 \"sleep\"이라는 단어였다고 밝혔다. Spotify는 이번 건을 설명하지 않았다."
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SpotifyのAIが再び\nSLEEP CLUBを誤判定",
+          "body": "SpotifyのAIシステムがSLEEP CLUBの新曲を再び推薦対象外と判定した。",
+          "mini_headline": "SpotifyのAIがまたバンドを誤判定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "シューゲイザーバンドSLEEP CLUBが近く発表するデビューアルバム「Dweller」からの最新シングル「Weight Of Ease」が、SpotifyにAI使用として誤ってフラグを立てられたようだ。以前にはバンドの全カタログがフラグ対象となり、その後Spotifyが解決していた。"
+              },
+              {
+                "t": "p",
+                "x": "「2作続けて2度目となるが、最新シングル『Weight of Ease』がSpotifyのAI-driven(AI駆動)の内部システムによって『推薦対象外』と判定された」とMatt Jonesは述べ、アルゴリズムによる後押しが平均的なアーティストのストリーム数の約50-70%を占めると指摘した。カタログの復旧には約5週間かかった。"
+              },
+              {
+                "t": "p",
+                "x": "「AIが私たちの生活のあらゆる面に入り込むことをテーマにしたこのアルバムが、AIシステムに何度も誤ってフラグを立てられるのは皮肉だ」と彼は付け加えた。バンドは後に、最初のフラグはバンド名の「sleep」という単語が原因だったと説明した。今回の件についてSpotifyは説明していない。"
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Spotify的AI系统\n再次标记SLEEP CLUB",
+          "body": "Spotify的AI系统再次将SLEEP CLUB新单曲判为不符合推荐条件。",
+          "mini_headline": "Spotify的AI再次误判乐队",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "盯鞋乐队SLEEP CLUB即将发行的首张专辑《Dweller》中的最新单曲《Weight Of Ease》，似乎被Spotify误判为使用了AI。此前，该乐队的全部作品曾被标记，后来由Spotify解决。"
+              },
+              {
+                "t": "p",
+                "x": "“这是我们连续两次发行中第二次遇到这种情况，最新单曲《Weight of Ease》被Spotify的AI-driven（AI驱动）内部系统标记为‘不符合推荐条件’，”Matt Jones说。他指出，算法推荐约占普通艺人播放量的50-70%。此前恢复作品目录花了约5周。"
+              },
+              {
+                "t": "p",
+                "x": "“讽刺的是，这张讲述AI侵入我们生活方方面面的专辑，一再被AI系统错误标记，”他补充道。乐队后来表示，第一次标记源于乐队名中的“sleep”一词；Spotify尚未解释此次标记的原因。"
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El sistema de IA de Spotify\nvuelve a marcar a SLEEP CLUB",
+          "body": "El sistema de IA de Spotify volvió a marcar el nuevo sencillo de SLEEP CLUB como no apto para recomendación.",
+          "mini_headline": "La IA de Spotify vuelve a marcar a una banda",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "El último sencillo del grupo de shoegaze SLEEP CLUB, \"Weight Of Ease\", de su próximo álbum debut \"Dweller\", habría sido marcado por error por Spotify por uso de IA. Antes, todo el catálogo de la banda había sido marcado hasta que Spotify lo resolvió."
+              },
+              {
+                "t": "p",
+                "x": "\"Por segunda vez en dos lanzamientos, nuestro nuevo sencillo 'Weight of Ease' ha sido marcado por el sistema interno AI-driven (impulsado por IA) de Spotify como 'no apto para recomendación'\", dijo Matt Jones, quien señaló que el apoyo algorítmico representa aproximadamente el 50-70% de las reproducciones de un artista promedio. Restaurar el catálogo llevó unas 5 semanas."
+              },
+              {
+                "t": "p",
+                "x": "\"Es irónico que este álbum, que trata sobre la intrusión de la IA en todos los aspectos de nuestras vidas, siga siendo marcado por error por sistemas de IA\", añadió. La banda dijo después que la primera marca se debió a la palabra \"sleep\" en su nombre; Spotify no ha explicado la actual."
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
+          "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
+          "mini_headline": "Spotify AI, 또 밴드를 오판",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "슈게이즈 밴드 SLEEP CLUB이 곧 낼 데뷔 앨범 \"Dweller\"의 최신 싱글 \"Weight Of Ease\"를 Spotify가 AI 사용 곡으로 잘못 분류한 것으로 보인다. 앞서 Spotify는 밴드의 전체 카탈로그를 분류했다가 문제를 해결한 바 있다."
+              },
+              {
+                "t": "p",
+                "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝히며, 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 지적했다. 카탈로그를 복구하는 데는 약 5주가 걸렸다."
+              },
+              {
+                "t": "p",
+                "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 이후 첫 번째 분류가 밴드명의 \"sleep\"이라는 단어 때문이었다고 밝혔다. Spotify는 이번 건에 대해 설명하지 않았다."
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SpotifyのAIが再び\nSLEEP CLUBを誤判定",
+          "body": "SpotifyのAIシステムがSLEEP CLUBの新曲を再び推薦対象外と判定した。",
+          "mini_headline": "SpotifyのAIがまたバンドを誤判定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "シューゲイザーバンドSLEEP CLUBが近く発表するデビューアルバム「Dweller」からの最新シングル「Weight Of Ease」が、SpotifyにAI使用として誤ってフラグを立てられたようだ。以前にはバンドの全カタログがフラグ対象となり、その後Spotifyが解決していた。"
+              },
+              {
+                "t": "p",
+                "x": "「2作続けて2度目となるが、最新シングル『Weight of Ease』がSpotifyのAI-driven(AI駆動)の内部システムによって『推薦対象外』と判定された」とMatt Jonesは述べ、アルゴリズムによる後押しが平均的なアーティストのストリーム数の約50-70%を占めると指摘した。カタログの復旧には約5週間かかった。"
+              },
+              {
+                "t": "p",
+                "x": "「AIが私たちの生活のあらゆる面に入り込むことをテーマにしたこのアルバムが、AIシステムに何度も誤ってフラグを立てられるのは皮肉だ」と彼は付け加えた。バンドは後に、最初のフラグはバンド名の「sleep」という単語が原因だったと説明した。今回の件についてSpotifyは説明していない。"
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Spotify的AI系统\n再次标记SLEEP CLUB",
+          "body": "Spotify的AI系统再次将SLEEP CLUB新单曲判为不符合推荐条件。",
+          "mini_headline": "Spotify的AI再次误判乐队",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "盯鞋乐队SLEEP CLUB即将发行的首张专辑《Dweller》中的最新单曲《Weight Of Ease》，似乎被Spotify误判为使用了AI。此前，该乐队的全部作品曾被标记，后来由Spotify解决。"
+              },
+              {
+                "t": "p",
+                "x": "“这是我们连续两次发行中第二次遇到这种情况，最新单曲《Weight of Ease》被Spotify的AI-driven（AI驱动）内部系统标记为‘不符合推荐条件’，”Matt Jones说。他指出，算法推荐约占普通艺人播放量的50-70%。此前恢复作品目录花了约5周。"
+              },
+              {
+                "t": "p",
+                "x": "“讽刺的是，这张讲述AI侵入我们生活方方面面的专辑，一再被AI系统错误标记，”他补充道。乐队后来表示，第一次标记源于乐队名中的“sleep”一词；Spotify尚未解释此次标记的原因。"
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El sistema de IA de Spotify\nvuelve a marcar a SLEEP CLUB",
+          "body": "El sistema de IA de Spotify volvió a marcar el nuevo sencillo de SLEEP CLUB como no apto para recomendación.",
+          "mini_headline": "La IA de Spotify vuelve a marcar a una banda",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+              },
+              {
+                "t": "p",
+                "x": "El último sencillo del grupo de shoegaze SLEEP CLUB, \"Weight Of Ease\", de su próximo álbum debut \"Dweller\", habría sido marcado por error por Spotify por uso de IA. Antes, todo el catálogo de la banda había sido marcado hasta que Spotify lo resolvió."
+              },
+              {
+                "t": "p",
+                "x": "\"Por segunda vez en dos lanzamientos, nuestro nuevo sencillo 'Weight of Ease' ha sido marcado por el sistema interno AI-driven (impulsado por IA) de Spotify como 'no apto para recomendación'\", dijo Matt Jones, quien señaló que el apoyo algorítmico representa aproximadamente el 50-70% de las reproducciones de un artista promedio. Restaurar el catálogo llevó unas 5 semanas."
+              },
+              {
+                "t": "p",
+                "x": "\"Es irónico que este álbum, que trata sobre la intrusión de la IA en todos los aspectos de nuestras vidas, siga siendo marcado por error por sistemas de IA\", añadió. La banda dijo después que la primera marca se debió a la palabra \"sleep\" en su nombre; Spotify no ha explicado la actual."
+              },
+              {
+                "t": "video",
+                "yt": "kfolpGoqW10"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "agentcore",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
+      "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
+      "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+      "tool": "Music",
+      "source": "AWS Machine Learning Blog",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+          },
+          {
+            "t": "p",
+            "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 관리형 EC2 인프라로, 며칠씩 이어지는 세션과 GPUs, 영구 볼륨을 지원하고 여러 에이전트를 한 곳에 함께 배치할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+            "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+          },
+          {
+            "t": "p",
+            "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 정리한 뒤 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량이면 약 9초 걸린다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 건다. 컴플라이언스 에이전트가 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조한다. 일치 항목이 나오면 교체를 요청한다."
+          },
+          {
+            "t": "p",
+            "x": "같은 세션 ID로 부른 에이전트는 인스턴스 하나와 파일 시스템 하나를 함께 쓴다. 세션은 최대 14일까지 유지된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AWS maps a three-agent\nmusic production pipeline",
+          "body": "AWS shows composition, delivery and compliance agents handing off a track while sharing one GPU instance and filesystem.",
+          "mini_headline": "AWS agents build a music pipeline",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS walks through deploying a music production pipeline on Amazon Bedrock AgentCore Runtime Instances, managed EC2 infrastructure that adds multi-day sessions, GPUs, persistent volumes and colocation of multiple agents."
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "The three-agent pipeline (Compose, Deliver, Screen) sharing one GPU instance and session"
+              },
+              {
+                "t": "p",
+                "x": "A composition agent turns a producer's request into a brief with Claude Sonnet 4.6 and renders audio with the open-source ACE-Step model on the instance's NVIDIA L4 — 20 seconds of 48 kHz stereo in about 9 seconds. A delivery agent measures the .wav and applies an EQ, compression and limiting chain; a compliance agent re-measures it and screens it against the studio's back catalog, asking for a replacement if it flags a match."
+              },
+              {
+                "t": "p",
+                "x": "Invoked with the same session ID, the agents share one instance and filesystem, and sessions can persist for up to 14 days."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
+          "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
+          "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 관리형 EC2 인프라로, 며칠씩 이어지는 세션과 GPUs, 영구 볼륨을 지원하고 여러 에이전트를 한 곳에 함께 배치할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+              },
+              {
+                "t": "p",
+                "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 정리한 뒤 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량이면 약 9초 걸린다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 건다. 컴플라이언스 에이전트가 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조한다. 일치 항목이 나오면 교체를 요청한다."
+              },
+              {
+                "t": "p",
+                "x": "같은 세션 ID로 부른 에이전트는 인스턴스 하나와 파일 시스템 하나를 함께 쓴다. 세션은 최대 14일까지 유지된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AWS、3エージェントの\n音楽制作パイプライン",
+          "body": "AWSは作曲・納品・審査の3エージェントが1つのGPUインスタンスを共有する構成を示した。",
+          "mini_headline": "AWSのエージェントが音楽パイプラインを構築",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWSは、Amazon Bedrock AgentCore Runtime Instances上に音楽制作パイプラインをデプロイする手順を解説した。これはマネージドなEC2インフラで、複数日にわたるセッション、GPUs、永続ボリューム、複数エージェントの同居配置を可能にする。"
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "1つのGPUインスタンスとセッションを共有する3エージェントのパイプライン(Compose、Deliver、Screen)"
+              },
+              {
+                "t": "p",
+                "x": "作曲エージェントは、プロデューサーの依頼をClaude Sonnet 4.6でブリーフに変換し、インスタンスのNVIDIA L4上でオープンソースのACE-Stepモデルを使って音声をレンダリングする。48 kHzステレオ20秒分を約9秒で生成する。納品エージェントは.wavを測定し、EQ、コンプレッション、リミッティングのチェーンを適用する。コンプライアンスエージェントはそれを再測定してスタジオの過去カタログと照合し、一致が検出されれば差し替えを求める。"
+              },
+              {
+                "t": "p",
+                "x": "同じセッションIDで呼び出されたエージェントは1つのインスタンスとファイルシステムを共有し、セッションは最長14日間持続できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AWS展示三智能体\n音乐制作流水线",
+          "body": "AWS展示了作曲、交付和合规三个智能体共享一台GPU实例协作的方案。",
+          "mini_headline": "AWS智能体搭建音乐流水线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS介绍了如何在Amazon Bedrock AgentCore Runtime Instances上部署音乐制作流水线。这是一种托管式EC2基础设施，支持多日会话、GPUs、持久化卷以及多个智能体同机部署。"
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "共享一台GPU实例和同一会话的三智能体流水线（Compose、Deliver、Screen）"
+              },
+              {
+                "t": "p",
+                "x": "作曲智能体借助Claude Sonnet 4.6将制作人的需求转化为创作简报，并在实例的NVIDIA L4上用开源ACE-Step模型渲染音频——约9秒即可生成20秒48 kHz立体声。交付智能体对.wav进行测量，并施加EQ、压缩和限幅处理链；合规智能体再次测量，并将其与工作室的过往曲库比对，如发现匹配则要求替换。"
+              },
+              {
+                "t": "p",
+                "x": "使用同一会话ID调用的智能体共享一个实例和文件系统，会话最长可持续14天。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AWS describe una cadena de\nproducción musical con 3 agentes",
+          "body": "AWS muestra agentes de composición, entrega y cumplimiento que comparten una instancia GPU y un sistema de archivos.",
+          "mini_headline": "Agentes de AWS arman una cadena musical",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS explica cómo desplegar una cadena de producción musical en Amazon Bedrock AgentCore Runtime Instances, una infraestructura EC2 gestionada que añade sesiones de varios días, GPUs, volúmenes persistentes y la ubicación conjunta de varios agentes."
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "La cadena de tres agentes (Compose, Deliver, Screen) que comparte una instancia GPU y una sesión"
+              },
+              {
+                "t": "p",
+                "x": "Un agente de composición convierte la solicitud de un productor en un brief con Claude Sonnet 4.6 y genera el audio con el modelo de código abierto ACE-Step en la NVIDIA L4 de la instancia: 20 segundos de estéreo a 48 kHz en unos 9 segundos. Un agente de entrega mide el .wav y aplica una cadena de EQ, compresión y limitación; un agente de cumplimiento vuelve a medirlo y lo contrasta con el catálogo anterior del estudio, y pide un reemplazo si detecta una coincidencia."
+              },
+              {
+                "t": "p",
+                "x": "Invocados con el mismo ID de sesión, los agentes comparten una instancia y un sistema de archivos, y las sesiones pueden durar hasta 14 días."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
+          "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
+          "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 이 관리형 EC2 인프라는 여러 날에 걸친 세션, GPUs, 영구 볼륨, 여러 에이전트의 동일 위치 배치를 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+              },
+              {
+                "t": "p",
+                "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 바꾸고, 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량을 약 9초 만에 만든다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 적용한다. 컴플라이언스 에이전트는 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조해, 일치 항목이 나오면 교체를 요청한다."
+              },
+              {
+                "t": "p",
+                "x": "같은 세션 ID로 호출한 에이전트들은 인스턴스와 파일 시스템 하나를 공유하며, 세션은 최대 14일까지 유지할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AWS、3エージェントの\n音楽制作パイプライン",
+          "body": "AWSは作曲・納品・審査の3エージェントが1つのGPUインスタンスを共有する構成を示した。",
+          "mini_headline": "AWSのエージェントが音楽パイプラインを構築",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWSは、Amazon Bedrock AgentCore Runtime Instances上に音楽制作パイプラインをデプロイする手順を解説した。これはマネージドなEC2インフラで、複数日にわたるセッション、GPUs、永続ボリューム、複数エージェントの同居配置を可能にする。"
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "1つのGPUインスタンスとセッションを共有する3エージェントのパイプライン(Compose、Deliver、Screen)"
+              },
+              {
+                "t": "p",
+                "x": "作曲エージェントは、プロデューサーの依頼をClaude Sonnet 4.6でブリーフに変換し、インスタンスのNVIDIA L4上でオープンソースのACE-Stepモデルを使って音声をレンダリングする。48 kHzステレオ20秒分を約9秒で生成する。納品エージェントは.wavを測定し、EQ、コンプレッション、リミッティングのチェーンを適用する。コンプライアンスエージェントはそれを再測定してスタジオの過去カタログと照合し、一致が検出されれば差し替えを求める。"
+              },
+              {
+                "t": "p",
+                "x": "同じセッションIDで呼び出されたエージェントは1つのインスタンスとファイルシステムを共有し、セッションは最長14日間持続できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AWS展示三智能体\n音乐制作流水线",
+          "body": "AWS展示了作曲、交付和合规三个智能体共享一台GPU实例协作的方案。",
+          "mini_headline": "AWS智能体搭建音乐流水线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS介绍了如何在Amazon Bedrock AgentCore Runtime Instances上部署音乐制作流水线。这是一种托管式EC2基础设施，支持多日会话、GPUs、持久化卷以及多个智能体同机部署。"
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "共享一台GPU实例和同一会话的三智能体流水线（Compose、Deliver、Screen）"
+              },
+              {
+                "t": "p",
+                "x": "作曲智能体借助Claude Sonnet 4.6将制作人的需求转化为创作简报，并在实例的NVIDIA L4上用开源ACE-Step模型渲染音频——约9秒即可生成20秒48 kHz立体声。交付智能体对.wav进行测量，并施加EQ、压缩和限幅处理链；合规智能体再次测量，并将其与工作室的过往曲库比对，如发现匹配则要求替换。"
+              },
+              {
+                "t": "p",
+                "x": "使用同一会话ID调用的智能体共享一个实例和文件系统，会话最长可持续14天。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AWS describe una cadena de\nproducción musical con 3 agentes",
+          "body": "AWS muestra agentes de composición, entrega y cumplimiento que comparten una instancia GPU y un sistema de archivos.",
+          "mini_headline": "Agentes de AWS arman una cadena musical",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+              },
+              {
+                "t": "p",
+                "x": "AWS explica cómo desplegar una cadena de producción musical en Amazon Bedrock AgentCore Runtime Instances, una infraestructura EC2 gestionada que añade sesiones de varios días, GPUs, volúmenes persistentes y la ubicación conjunta de varios agentes."
+              },
+              {
+                "t": "img",
+                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+                "cap": "La cadena de tres agentes (Compose, Deliver, Screen) que comparte una instancia GPU y una sesión"
+              },
+              {
+                "t": "p",
+                "x": "Un agente de composición convierte la solicitud de un productor en un brief con Claude Sonnet 4.6 y genera el audio con el modelo de código abierto ACE-Step en la NVIDIA L4 de la instancia: 20 segundos de estéreo a 48 kHz en unos 9 segundos. Un agente de entrega mide el .wav y aplica una cadena de EQ, compresión y limitación; un agente de cumplimiento vuelve a medirlo y lo contrasta con el catálogo anterior del estudio, y pide un reemplazo si detecta una coincidencia."
+              },
+              {
+                "t": "p",
+                "x": "Invocados con el mismo ID de sesión, los agentes comparten una instancia y un sistema de archivos, y las sesiones pueden durar hasta 14 días."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

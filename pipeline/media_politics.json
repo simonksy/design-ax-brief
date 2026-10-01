@@ -1,31 +1,7 @@
-{
- "date": "2026-10-01",
- "section": "politics",
- "media": [
-  {
-   "id": "politics-ftc-ai-safety-probe",
-   "type": "image",
-   "src": "pipeline/media/politics-ftc-ai-safety-probe.jpg"
-  },
-  {
-   "id": "politics-lasst-openai-suit",
-   "type": "image",
-   "src": "pipeline/media/politics-lasst-openai-suit.jpg"
-  },
-  {
-   "id": "politics-america-gov-eo",
-   "type": "image",
-   "src": "pipeline/media/politics-america-gov-eo.jpg"
-  },
-  {
-   "id": "politics-eu-global-ai-safety",
-   "type": "image",
-   "src": "pipeline/media/politics-eu-global-ai-safety.jpg"
-  },
-  {
-   "id": "politics-huawei-ascend-share",
-   "type": "image",
-   "src": "pipeline/media/politics-huawei-ascend-share.jpg"
-  }
- ]
-}
+{"date":"2026-10-02","section":"politics","media":[
+{"id":"rossappeal","type":"svg"},
+{"id":"gpusmuggle","type":"svg"},
+{"id":"aioverviewsuit","type":"image","src":"pipeline/media/aioverviewsuit.jpg"},
+{"id":"openaicasubpoena","type":"image","src":"pipeline/media/openaicasubpoena.jpg"},
+{"id":"taiwandeepfake","type":"image","src":"pipeline/media/taiwandeepfake.png"}
+]}

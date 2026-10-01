@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "section": "music",
  "picks": [
   {
@@ -8,41 +8,41 @@
    "category": "music",
    "accent": "#ff2d55",
    "motif": "sphere",
-   "headline": "\"The hypocrisy in the industry is insane\": Todd Edwards on sampling Suno",
-   "url": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
-   "source": "MusicRadar",
-   "published_iso": "2026-09-29T23:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-2560-80.jpg",
-   "excerpt": "House/UKG producer Todd Edwards says he now generates his own material in Suno Studio to sample and chop, calling it a co-producer that frees him from sample-clearance lawsuits, and calls industry criticism hypocritical.",
-   "rationale": "A concrete producer workflow: a veteran sampling artist generates his own Suno Studio material to chop, sidestepping clearance. New angle vs recent Suno v6 deal/lawsuit cards."
+   "headline": "Japanese court rules human voices are protected in landmark AI case",
+   "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
+   "source": "Engadget",
+   "published_iso": "2026-10-01T14:58:44Z",
+   "og_image": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/l-intro-1790866642.jpg",
+   "excerpt": "A Japanese court partly sided with an anime voice actor against an anonymous TikTok user who posted AI clones of his voice, ruling that a person's voice is protected by publicity rights — a precedent for singers facing unauthorised AI voice models.",
+   "rationale": "Follow-up with a new concrete event: the court's ruling that a voice is protected by publicity rights. The 9/30 card covered only the filing and TikTok's defence. Engadget chosen over CMU, which bundles the already-published US fair-use ruling."
   },
   {
    "rank": 2,
    "tool": "Music",
    "category": "music",
-   "accent": "#7928ca",
+   "accent": "#0070f3",
    "motif": "sphere",
-   "headline": "Backgrounds creates soundscapes from keyword prompts",
-   "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/",
-   "source": "Synthtopia",
-   "published_iso": "2026-09-29T19:45:47Z",
-   "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/09/backgrounds.jpg",
-   "excerpt": "Sampleson Backgrounds uses semantic audio retrieval over 22,000 audio cells and 11,000 local embeddings to build evolving soundscapes from keywords dragged onto a canvas; runs locally.",
-   "rationale": "New local, subscription-free tool that builds soundscapes from keyword prompts via embeddings; actionable for sound designers."
+   "headline": "Epidemic Sound partners with MyPart to bring adaptive music to PC gamers and streamers on Overwolf",
+   "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604",
+   "source": "Epidemic Sound (Cision)",
+   "published_iso": "2026-10-01T07:29:00Z",
+   "og_image": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_400x400ar.png",
+   "excerpt": "Songhunt, an Overwolf in-game app, uses MyPart's multimodal AI to read gameplay in real time and pick matching tracks from Epidemic Sound's catalog across 1,500+ PC games, so streamers' soundtracks shift with the action.",
+   "rationale": "New shipping product: multimodal AI reads gameplay and picks licensed tracks in real time, so streamers' music adapts to the game. A concrete adaptive-music use case for creators."
   },
   {
    "rank": 3,
    "tool": "Music",
    "category": "music",
-   "accent": "#0070f3",
+   "accent": "#7928ca",
    "motif": "sphere",
-   "headline": "IMPF and IMPEL publish AI licensing principles",
-   "url": "https://completemusicupdate.com/impf-and-impel-publish-ai-licensing-principles-insisting-songs-and-recordings-must-be-valued-equally/",
-   "source": "CMU",
-   "published_iso": "2026-09-30T15:45:04Z",
-   "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/09/IMPF-IMPEL-AI-.png",
-   "excerpt": "Independent publisher bodies IMPF and IMPEL publish a generative-AI licensing framework whose non-negotiable principle is that songs be valued at least equally with recordings, plus transparency on training vs output payments.",
-   "rationale": "Fresh licensing framework from indie publishers setting song-vs-master parity for AI deals; strongest of 4 same-story outlets (CMU chosen, Music Ally/MBW/DMN set aside)."
+   "headline": "Kelly Clarkson Shares Her 'Controversial' Take on AI: 'I Think It's Welcome to the Table'",
+   "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/",
+   "source": "Billboard",
+   "published_iso": "2026-10-01T21:57:53Z",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/kelly-clarkson-las-culturistas-screenshot-billboard-1800.jpg?w=1024",
+   "excerpt": "Kelly Clarkson says she 'loves AI' and uses it artistically, but argues AI-made music should sit on separate charts rather than compete with human creations — a working artist's line on where AI belongs in the craft.",
+   "rationale": "A major artist says she uses AI in her work but wants AI music on separate charts. A fresh voice and a concrete proposal, and it differs from the earlier Fred again / Brian May / Todd Edwards cards."
   },
   {
    "rank": 4,
@@ -50,13 +50,13 @@
    "category": "music",
    "accent": "#2ec5c5",
    "motif": "sphere",
-   "headline": "Absolute opens AI-powered Anthology Music OS",
-   "url": "https://www.musicbusinessworldwide.com/absolute-label-services-opens-ai-powered-anthology-business-management-music-os-to-indie-sector-infrastructure-is-the-next-logical-thing-to-democratize/",
-   "source": "Music Business Worldwide",
-   "published_iso": "2026-09-30T12:10:48Z",
-   "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/Screenshot-2026-09-30-at-13.04.12-e1790769884456.jpg",
-   "excerpt": "Absolute Label Services opens its AI-powered Anthology 'Music OS' with in-house LLM Ant to indie rights holders; Cherry Red and Blue Raincoat are first customers.",
-   "rationale": "Non-generative AI applied to label operations (in-house LLM across distribution, royalties, reporting) now opened to indies."
+   "headline": "SLEEP CLUB's New Music About The 'Intrusion' Of AI Got Incorrectly Flagged By Spotify's AI Systems",
+   "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/",
+   "source": "Theprp",
+   "published_iso": "2026-09-28T18:29:52Z",
+   "og_image": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp",
+   "excerpt": "Band SLEEP CLUB's new single — about AI's intrusion into daily life — was again wrongly flagged by Spotify's AI-detection systems, after their whole catalog was previously mis-tagged: a false-positive problem for streaming AI labelling.",
+   "rationale": "A real false positive from Spotify's AI-music detection hitting human artists. This is a different story from the Qobuz tagging and LANDR fraud cards and the Hypebot LLM essay (its history_match)."
   },
   {
    "rank": 5,
@@ -64,18 +64,40 @@
    "category": "music",
    "accent": "#f5a623",
    "motif": "sphere",
-   "headline": "Appeals court rejects fair use defense over AI training",
-   "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
-   "source": "Music Business Worldwide",
-   "published_iso": "2026-09-30T10:19:48Z",
-   "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2412154257.jpg",
-   "excerpt": "US Third Circuit upholds that Ross Intelligence's copying of Westlaw material for AI training was not fair use; RIAA and NMPA backed Thomson Reuters, framing it as precedent for Suno/Udio cases.",
-   "rationale": "First appellate ruling rejecting fair use for AI training, backed by RIAA/NMPA with direct implications for the Suno and Udio cases."
+   "headline": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+   "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+   "source": "AWS Machine Learning Blog",
+   "published_iso": "2026-09-30T15:21:57Z",
+   "og_image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png",
+   "excerpt": "AWS walks through a three-agent music production pipeline (composition, generation, mixing hand-offs) sharing one GPU instance and filesystem — a reference workflow for agentic music creation.",
+   "rationale": "A hands-on reference build for agentic music production (composition, generation and mixing agents on one GPU). It is the most actionable workflow item in a pool with few tools."
   }
  ],
- "set_aside_same_story": {
-  "https://www.digitalmusicnews.com/2026/09/30/japanese-court-voice-protected/": "follow-up of the Kenjiro Tsuda v TikTok case already published 2026-09-30 (music-tiktok-voice-clone-suit)",
-  "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/": "same UMG/Sony v Suno v6 lawsuit story already covered 2026-09-22/09-28"
+ "dedup": {
+  "checks": {
+   "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/": {
+    "verdict": "follow-up",
+    "nearest": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
+    "new_action": "Court ruling: the Japanese court partly sided with voice actor Kenjiro Tsuda and held that a person's voice is protected by publicity rights. The 9/30 card covered only the lawsuit and TikTok's 'ordinary male voice' defence, with no ruling yet."
+   },
+   "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604": {
+    "verdict": "new",
+    "nearest": ""
+   },
+   "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/": {
+    "verdict": "new",
+    "nearest": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/"
+   },
+   "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/": {
+    "verdict": "new",
+    "nearest": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/"
+   },
+   "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/": {
+    "verdict": "new",
+    "nearest": ""
+   }
+  },
+  "note": "Cluster c0 (Japan voice ruling): kept Engadget and dropped CMU. CMU is the same Japan story and is also bundled with the US Third Circuit fair-use ruling already published 2026-10-01 (MBW). The Engadget item is kept as a follow-up because the ruling is a new judicial decision beyond the 9/30 lawsuit card; note the 10/01 curator had set aside the DMN version of the ruling, so this is its first publication. Not picked (fresh, but lower ranked): Questlove sampling/AI interview (overlaps the 10/01 Todd Edwards AI-sampling card; also a second Billboard card), Stability AI CEO prediction (exec talk / AI-business noise), Variety guest op-ed (opinion on the training-licensing fight already covered), Hypebot Braille (AI is speculative), T3 Woody Cook interview, RouteNote Dust & Harmony, Pressian Jeongseon Arirang municipal AI MV, RS AU Jason Derulo (edge of window), RS PH Taylor Swift 'Patient Zero' (speculative listener comparison). No advertorials or funding items were selected."
  },
- "not_picked": "Questlove (overlaps Todd Edwards AI-sampling theme), Suno v6 artist films (thin promo, Suno covered 9/30), Andrew Huang short (21s, no detail), Hypebot Braille (AI speculative), Music Ally ad campaigns (paywalled stub)"
+ "not_picked": "CMU Japan/US double-ruling (same story as pick 1, plus the published fair-use ruling), Questlove, Stability AI CEO, Variety op-ed, Hypebot Braille, T3 Woody Cook, RouteNote Dust & Harmony, Pressian Arirang, RS AU Derulo, RS PH Taylor Swift"
 }

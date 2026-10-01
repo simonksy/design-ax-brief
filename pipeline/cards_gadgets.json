@@ -1,252 +1,1656 @@
 {
- "date": "2026-10-01",
- "section": "gadgets",
- "cards": [
-  {
-   "id": "gadgets-fire-tv-alexa-plus-hub",
-   "eyebrow": "AI NEWS",
-   "headline": "파이어 TV의 알렉사+,\n시청 기록까지 읽고 추론한다",
-   "body": "11월부터 미국 파이어 TV에 추론하는 알렉사+ 허브가 들어온다.",
-   "mini_headline": "파이어 TV 알렉사+ 허브",
-   "tool": "Gadgets",
-   "source": "Engadget",
-   "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
-   "accent": "#ff5a4d",
-   "motif": "headset",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/intro-1790771374.jpg",
-      "cap": "알렉사+가 더 복잡한 질문도 처리하게 된다"
-     },
-     {
-      "t": "p",
-      "x": "11월부터 미국 파이어 TV 사용자는 TV 화면과 모바일 앱에서 새 알렉사+ 기능을 쓰게 된다. AI 비서 전용 허브가 생기고, 이용 기록에 맞춘 프롬프트 제안이 뜬다. 알렉사+에는 추론 기능이 붙어 더 복잡한 질문에도 답한다. 사용자의 구독 서비스와 시청 기록은 물론 현실의 시사 이슈까지 끌어다 쓴다. 이를테면 \"Alexa, find shows that were nominated for the recent Emmys but got snubbed\"나 \"Alexa, show me MCU films based on their in-universe timeline order\" 같은 질문에도 답할 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "업그레이드된 파이어 TV 모바일 앱에도 알렉사+가 들어간다. 드라마나 영화를 다룬 기사 링크를 건네면 글에 나온 작품을 관심 목록에 넣어 준다. 사진을 올리면 그 사진에서 떠오르는 작품도 추천한다. 어떤 장소나 스크린숏, 포스터를 보고 생각나는 작품이 있으면 알렉사+에 보여 주면 된다. 사진 속에서 알아본 것을 바탕으로 제안을 내놓는다. 모바일 앱은 스트리밍 서비스로 바로 가는 딥링크도 지원한다. 앱 안의 스트리밍 아이콘을 누르면 휴대폰에서 곧장 재생되고, 큰 화면으로 옮기고 싶으면 TV의 ‘Continue Watching’ 줄에서 이어 보면 된다."
-     },
-     {
-      "t": "p",
-      "x": "파이어 TV는 이제 YouTube TV, Peacock, Tubi, Sling, DirecTV 등 40개가 넘는 앱의 실시간 콘텐츠를 한데 모아 보여 준다. 게임 허브에서는 Xbox, Luna, NVIDIA GeForce NOW의 클라우드 게임을 한곳에서 고를 수 있다. 이 업데이트는 올해 안에 미국 사용자에게, 내년 초에는 다른 지역에 배포된다. 아마존은 올가을 파이어 TV용 음악 앱도 새로 내놓는다. 뮤직비디오와 팟캐스트, 콘서트·페스티벌 생중계까지 서비스 전체를 이 앱에서 찾아볼 수 있다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "gadgets-nanoleaf-mcp-lights",
-   "eyebrow": "AI NEWS",
-   "headline": "“방을 노을처럼”, 나노리프 조명을\nChatGPT·Claude가 켠다",
-   "body": "나노리프가 MCP 서버를 열어 ChatGPT와 Claude로 조명을 다루게 했다.",
-   "mini_headline": "나노리프 MCP 조명",
-   "tool": "Gadgets",
-   "source": "Android Authority",
-   "url": "https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/",
-   "accent": "#3b6bff",
-   "motif": "headset",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
-      "cap": "나노리프 월 패널"
-     },
-     {
-      "t": "p",
-      "x": "집 안에 스마트 조명을 여럿 달아 두었다면 정해진 명령어를 소리 내 말하는 데 익숙할 것이다. “침실 불 꺼 줘”, “조명 50%로 낮춰 줘” 같은 말은 외우기 쉽지만 사람이 평소에 쓰는 말투와는 거리가 있다. 나노리프가 이 문제를 풀어 보겠다고 나섰다."
-     },
-     {
-      "t": "p",
-      "x": "토론토에 있는 이 회사는 오늘 MCP 서버를 출시한다고 밝혔다. 사용자는 ChatGPT, Claude 같은 AI 비서에 나노리프 스마트 조명을 연결해 제어할 수 있다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/nanoleaf-mcp-server-image.jpg",
-      "cap": "나노리프 MCP 서버"
-     },
-     {
-      "t": "p",
-      "x": "나노리프 MCP를 쓰면 자연스러운 말로 조명을 다룰 수 있어 스마트홈 앱을 따로 열 필요가 없다. “make my room feel like sunset”이라고 하면 Claude나 ChatGPT가 노을 분위기에 맞는 색을 정확히 골라 조명에 전달한다."
-     },
-     {
-      "t": "p",
-      "x": "MCP 서버 덕분에 날씨 같은 실시간 정보에 조명이 반응하는 길도 열린다. 하루 내내 바뀌는 조명 환경을 꾸밀 수 있다. 뇌우가 치는 날에는 아늑하게, 맑은 날에는 밝고 활기차게 바꾸는 식이다."
-     },
-     {
-      "t": "p",
-      "x": "ChatGPT와 Claude 등 AI 비서용 원클릭 통합 기능은 10월에 나온다. 쓰는 AI 비서에 통합 기능을 추가하기만 하면 바로 나노리프 조명을 제어할 수 있다. 개발자용 MCP 도구와 가이드는 오늘부터 나노리프 웹사이트에 올라와 있다. 이걸로 맞춤 루틴을 만들고 실시간 업데이트용 API를 연동하는 등 여러 작업을 할 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "조명 전용 앱 여러 개를 치우고 ChatGPT나 Claude로 집 조명을 다룬다니 반가운 일이다. 날씨와 기분을 두서없이 늘어놓아도 원하는 조명을 알아듣는 통합 기능이길 기대해 본다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "gadgets-freckle-kids-phone",
-   "eyebrow": "AI NEWS",
-   "headline": "앱스토어 없는 아이용 AI 폰,\n프레클 폰이 노리는 것",
-   "body": "프레클 폰은 제미나이와 소형 로컬 모델로 아이의 바깥 탐험을 돕는다.",
-   "mini_headline": "아이용 AI 폰 프레클",
-   "tool": "Gadgets",
-   "source": "TechRadar",
-   "url": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
-   "accent": "#2ec5c5",
-   "motif": "headset",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/sJHMAjnRb9DhtWJJYEm4N3.jpg",
-      "cap": "프레클 폰 (이미지: Freckle Phone)"
-     },
-     {
-      "t": "p",
-      "x": "휴대폰이 없던 시절 아이들은 친구 집에 혼자 놀러 가고 동네 개울을 누볐다. 연구자들은 이런 자율성이 사라진 것이 아이들의 불안과 우울이 늘어난 주요 원인이라고 본다. 프레클 폰을 만든 샘 테리스도 그렇게 자랐다. 그래서 내놓은 답이 역설적으로 또 하나의 휴대폰이다. 테리스는 “It's the first phone for kids that encourages real-world adventure”라고 소개한다."
-     },
-     {
-      "t": "p",
-      "x": "약 3×3인치, 두께 0.61인치의 네모난 기기는 몸에 거는 형태다. 프레클 모바일 망을 쓰는 5G 기기라 전화번호가 있고, 부모가 허락한 번호로만 문자와 통화를 한다. 1,200만·500만 화소 카메라 두 개와 마이크, 스피커도 달렸다. 공통점은 거기까지다. 안드로이드를 덧씌운 운영체제에는 앱 다운로드도 인터넷 접속도 없다. 그 자리를 퀘스트, 채팅(AI에게 묻거나 어려운 질문은 부모에게 보내기), 지도, 무전기, 캐릭터 같은 바깥 탐험용 도구와 AI 기능이 채운다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/ZJGV77GJyiGNrfn7dWa4R3.jpg",
-      "cap": "이미지: Freckle Phone"
-     },
-     {
-      "t": "p",
-      "x": "온보드 AI는 제미나이와 소형 로컬 모델을 섞어 쓴다. 아이가 질문하거나 눈앞의 식물·동물·물건을 찍으면 바로 설명해 준다. NFC로 기기끼리 맞대면 무전기 모드가 켜지고, 부모가 충전해 둔 지갑으로 탭 결제도 된다. 하루를 마치면 화면 속 캐릭터의 배낭에 ‘아티팩트’가 쌓인다. 호기심 카메라로 찍은 것, 다녀온 장소, 함께 지은 이야기, 받은 배지가 기념품처럼 모인다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/ZjkBPhdrosoSeRbAxyW673.jpg",
-      "cap": "이미지: Freckle Phone"
-     },
-     {
-      "t": "p",
-      "x": "가격은 4GB 램, 64GB 저장공간 모델이 199달러부터이고 통신 요금은 월 25달러다. 초록·파랑·번트 오렌지 세 색에 어깨끈이 딸려 오고, IP54 등급이라 비 정도는 견딘다. 기사를 쓴 TechRadar 기자는 이 기기가 결국 또 하나의 웨어러블 AI 기기일 수 있다고 봤다. 휴메인과 래빗 R1의 전철을 어떻게 피하느냐는 물음에 테리스는 앞선 제품들이 분명한 필요도 뚜렷한 쓰임새도 없었다고 답했다. 프레클에는 탐험 경험과 함께 연락이라는 기본 쓸모가 있다는 것이다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/CRBeZARQXs3ewYz7YweeL3.jpg",
-      "cap": "이미지: Freckle Phone"
-     },
-     {
-      "t": "p",
-      "x": "프레클 폰은 12월 미국에서 출시된다. 테리스는 신기능 약 1,000개를 쌓아 두고 몇 주마다 새 기능을 열겠다고 했다. 투자자 알렉시스 오해니언의 딸 올림피아가 베타 테스터로 참여하고 있다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "gadgets-peloton-tread-vision",
-   "eyebrow": "AI NEWS",
-   "headline": "펠로톤 트레드 비전,\n카메라가 달리기 자세를 본다",
-   "body": "펠로톤 새 러닝머신은 카메라로 달리는 자세를 읽고 AI 피드백을 준다.",
-   "mini_headline": "자세 보는 러닝머신",
-   "tool": "Gadgets",
-   "source": "TechRadar",
-   "url": "https://www.techradar.com/health-fitness/exercise-equipment/could-a-treadmill-make-you-a-better-runner-than-an-apple-watch-peloton-cpo-nick-caldwell-and-cmo-megan-imbres-believe-the-peloton-tread-visions-ai-cameras-offer-much-higher-accuracy-than-wearables",
-   "accent": "#7928ca",
-   "motif": "headset",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/EwHeYVQhRYuaoMguHX6xNW.jpg",
-      "cap": "펠로톤 트레드 비전"
-     },
-     {
-      "t": "p",
-      "x": "펠로톤이 10월 1일부터 러닝머신 세 종을 차례로 내놓는다. 트레드 플렉스, 트레드 비전, 트레드 비전 플러스다. 트레드 플렉스는 2,195달러로 펠로톤 제품 가운데 가장 싸고, 회사의 첫 접이식 러닝머신이다. 미국 외 지역에는 2027년 봄에 나온다. 닉 콜드웰 최고제품책임자는 기본 트레드 비전 플랫폼의 46% 면적에 아주 조용하다고 설명했다."
-     },
-     {
-      "t": "p",
-      "x": "새 소프트웨어 기능 ‘ReRun’은 실제 코스의 고도 변화를 추출해 러닝머신 경사로 재현한다. 뉴욕 마라톤을 다섯 구간으로 나눈 코스가 기본으로 들어가고, 야외에서 달린 GPX 파일을 올려 그대로 재현할 수도 있다."
-     },
-     {
-      "t": "p",
-      "x": "트레드 비전은 3,495달러부터 시작하는 AI 모델이다. 새 쿠셔닝과 점프 버튼도 달렸지만 핵심은 ‘무브먼트 트래킹 카메라’다. 콜드웰은 “We've created a new form feedback system for runners”라고 말했다. 카메라가 수직 변위로 걸음 수와 케이던스를 세고, 자세가 맞는지와 달리기 효율이 최대인지를 알려 준다. 수직 진폭 같은 지표를 묶어 러닝 효율 점수를 내고, 개인 맞춤 AI 피드백도 준다. 콜드웰은 가민 같은 웨어러블의 비슷한 지표보다 정확하다는 뜻을 내비쳤다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/yBdM5yfzt4454YAHEPHqQN.jpg",
-      "cap": "트레드 비전의 러닝 분석"
-     },
-     {
-      "t": "p",
-      "x": "6,695달러짜리 트레드+ 비전에는 하이록스식 썰매 밀기 운동인 ‘Sled Mode’가 들어갔다. 모든 러닝머신에 ReRun과 AI로 구간별 목표 시간을 계산하는 IQ Pace Target 같은 펠로톤 IQ 기능이 들어가고, 이전 기종에도 제공된다. 메건 임브레스 최고마케팅책임자는 “The only thing that is gated is the Run Analysis because it uses that Computer Vision camera”라고 했다."
-     },
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/YRAk2ZfvBzpBY6fpycEo3o.jpg",
-      "cap": "펠로톤 러닝머신"
-     },
-     {
-      "t": "p",
-      "x": "TechRadar 기자는 런던 본사에서 트레드 비전을 10분 달려 봤다. 키를 입력하고 몸을 세워 찍는 카메라 설정은 금방 끝났다. 결과는 러닝 효율 점수 66점이었고, 수직 진폭을 고치라는 꽤 쓸모 있는 조언이 따라왔다. 기자는 더 오래 달리면 정확도가 오를 것이라고 봤다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "gadgets-yansyn-crying-robot",
-   "eyebrow": "AI NEWS",
-   "headline": "부탁하면 눈물을 흘리는\n휴머노이드 얀신-X2",
-   "body": "얀신-X2는 AI가 대화의 감정을 읽어 내면 실리콘 얼굴로 눈물을 흘린다.",
-   "mini_headline": "눈물 흘리는 휴머노이드",
-   "tool": "Gadgets",
-   "source": "Engadget",
-   "url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-   "accent": "#f5a623",
-   "motif": "headset",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/intro-1790191546.jpg",
-      "cap": "감정을 흉내 내는 로봇, 위안과 섬뜩함 사이"
-     },
-     {
-      "t": "p",
-      "x": "휴머노이드는 이제 대화를 나누고 춤도 추고, 사람 표정도 소름 끼칠 만큼 정확하게 따라 한다. 여기에 얀신-X2가 더해졌다. 지금껏 어떤 소비자용 기기도 하지 못한 일, 부탁하면 우는 로봇이다. 상하이에서 열린 2026 인클루전 콘퍼런스 영상에서 시연자가 “Can you shed tears for me?”라고 묻자, 몇 초 뒤 눈물 한 방울이 로봇의 얼굴을 타고 흘렀다."
-     },
-     {
-      "t": "p",
-      "x": "단순한 볼거리는 아니다. 그 눈물샘 뒤에는 로봇 업계에서 연구가 활발한 감성 컴퓨팅이 있다. 기계가 사람의 감정을 알아보고 해석해 반응하게 만드는 분야다. 로봇이 정말 슬프다고 믿게 하려는 게 아니라 사람과 로봇 사이의 교류를 더 자연스럽게 하려는 것이다. 그래도 눈물 맺힌 기계는 불쾌한 골짜기 한가운데에 서 있다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-crying-robot-engineering-emotion-1790191547.jpg",
-      "cap": "감정을 설계하는 우는 로봇"
-     },
-     {
-      "t": "p",
-      "x": "얀신-X2는 닝보에 있는 중국 로봇 기업 얀시 테크놀로지가 만들었다. 회사 설명으로는 세 단계 구조다. 먼저 AI 알고리즘이 대화의 맥락과 어조를 분석해 감정 반응이 필요한 순간을 가린다. 슬프거나 공감하는 말이 감지되면 의료용 실리콘 얼굴 아래 생체 모방 부품에 신호를 보내 표정을 슬프게 바꾼다. 마지막으로 별도의 미세유체 장치가 눈가에 ‘눈물’을 내보낸다."
-     },
-     {
-      "t": "p",
-      "x": "지금 버전은 걷지 못하는 고정형 모델이다. 대신 고개를 돌리고, 사람을 따라 보고, 팔로 몸짓을 한다. 앞으로는 서보 모터 대신 생체 모방 근육을 써서 표정을 더 매끄럽고 다양하게 바꿀 계획이다. 2023년 Frontiers에 실린 연구에서는 대화의 감정에 맞는 표정을 짓는 로봇이 표정이 없거나 엇나간 로봇보다 더 호감 가고 믿음직하며 사람 같다는 평가를 받았다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-fast-growing-robotics-landscape-1790191548.jpg",
-      "cap": "빠르게 커지는 로봇 시장"
-     },
-     {
-      "t": "p",
-      "x": "얀신-X2만 튀는 것도 아니다. CES 2026에서는 빨래를 개는 LG CLOiD, 세탁기에 빨래를 넣는 스위치봇 Onero H1 등이 나왔다. 베이징 세계 휴머노이드 로봇 대회에서는 Tiangong Ultra가 100m를 9.39초에 달렸다. 1X의 2만 달러짜리 NEO는 집안일을 배우겠다고 나섰다. 업계는 속도와 손재주, 쓸모, 그리고 감정의 그럴듯함까지 끌어올리는 중이다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-02",
+  "section": "gadgets",
+  "cards": [
+    {
+      "id": "gadgets-samsung-glasses-fcc",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
+      "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
+      "mini_headline": "Samsung 안경, FCC 통과",
+      "tool": "Gadgets",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+          },
+          {
+            "t": "p",
+            "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Samsung smart glasses\nclear FCC testing",
+          "body": "Samsung models SM-O200P and SM-O200J appear in FCC filings, pointing to Warby Parker and Gentle Monster frames.",
+          "mini_headline": "Samsung glasses clear FCC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Samsung's long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. Two distinct models, SM-O200P and SM-O200J, have appeared in FCC filings, typically one of the last steps before commercialization."
+              },
+              {
+                "t": "p",
+                "x": "The two product codes indicate Warby Parker and Gentle Monster frames, respectively, as seen on pre-production models. Multiple frame styles will use those codes: three from Warby Parker and two (so far) from Gentle Monster."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Built with Samsung and Google, the glasses are set to be the first to run Android XR, with onboard cameras, microphones and off-ear speakers for calls, podcasts and interacting with Google Gemini. They are said to use a Snapdragon AR1 Gen 1 chipset, a single 12MP camera with indicator LED, and up to 9 hours of use per charge. No pricing or launch date has been announced outside the Fall 2026 window."
+              },
+              {
+                "t": "p",
+                "x": "Road to VR notes Samsung will face Meta's multi-year lead, and the same public scrutiny over camera-clad glasses that Meta has drawn."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
+          "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
+          "mini_headline": "Samsung 안경, FCC 통과",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Samsungの眼鏡型端末\nFCC試験を通過",
+          "body": "SamsungのSM-O200PとSM-O200JがFCC文書に登場した。",
+          "mini_headline": "Samsung眼鏡がFCC通過",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "待望のSamsungスマートグラスがFCCの試験を通過し、発売が目前に迫っていることがうかがえる。FCCの書類にはSM-O200PとSM-O200Jという2つのモデルが登場した。これは通常、商用化前の最終段階の一つである。"
+              },
+              {
+                "t": "p",
+                "x": "2つの製品コードは、量産前モデルで確認されたとおり、それぞれWarby ParkerとGentle Monsterのフレームを示している。これらのコードは複数のフレームスタイルで使われ、Warby Parkerが3種類、Gentle Monsterが(現時点で)2種類となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "SamsungとGoogleが共同で開発したこのグラスは、Android XRを搭載する初の製品となる予定だ。カメラ、マイク、耳をふさがないスピーカーを備え、通話やポッドキャスト、Google Geminiとのやり取りに対応する。Snapdragon AR1 Gen 1チップセット、インジケーターLED付きの12MPカメラ1基を採用し、1回の充電で最大9時間使えるとされる。2026年秋という時期以外に、価格や発売日は発表されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Samsung智能眼镜\n通过FCC测试",
+          "body": "Samsung两款眼镜SM-O200P与SM-O200J现身FCC文件。",
+          "mini_headline": "Samsung眼镜通过FCC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "备受期待的Samsung智能眼镜已通过FCC测试，意味着发布在即。SM-O200P和SM-O200J两款不同型号出现在FCC文件中，这通常是商业化之前的最后步骤之一。"
+              },
+              {
+                "t": "p",
+                "x": "从试产机型来看，这两个产品代码分别对应Warby Parker和Gentle Monster镜框。多种镜框款式将共用这些代码：Warby Parker有三款，Gentle Monster（目前）有两款。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "这款眼镜由Samsung与Google联合打造，将成为首款运行Android XR的产品，配备摄像头、麦克风和开放式扬声器，可用于通话、收听播客以及与Google Gemini互动。据悉，它采用Snapdragon AR1 Gen 1芯片组、一颗带指示LED的12MP摄像头，单次充电最多可使用9小时。除2026年秋季这一时间窗口外，价格和发布日期均未公布。"
+              },
+              {
+                "t": "p",
+                "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gafas inteligentes de Samsung\nsuperan las pruebas de la FCC",
+          "body": "Los modelos SM-O200P y SM-O200J de Samsung aparecen en la FCC y apuntan a monturas de Warby Parker y Gentle Monster.",
+          "mini_headline": "Las gafas de Samsung pasan la FCC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Las esperadas gafas inteligentes de Samsung han superado las pruebas de la FCC, lo que sugiere que su lanzamiento está muy cerca. Dos modelos distintos, SM-O200P y SM-O200J, han aparecido en registros de la FCC, que suelen ser uno de los últimos pasos antes de la comercialización."
+              },
+              {
+                "t": "p",
+                "x": "Los dos códigos de producto corresponden, respectivamente, a monturas de Warby Parker y Gentle Monster, como se ha visto en modelos de preproducción. Varios estilos de montura usarán esos códigos: tres de Warby Parker y dos (por ahora) de Gentle Monster."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Desarrolladas por Samsung y Google, las gafas serán las primeras en ejecutar Android XR, con cámaras, micrófonos y altavoces fuera del oído para llamadas, pódcast e interacción con Google Gemini. Según se informa, usarán un chipset Snapdragon AR1 Gen 1, una única cámara de 12MP con LED indicador y hasta 9 horas de uso por carga. No se han anunciado precio ni fecha de lanzamiento más allá de la ventana de otoño de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
+          "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
+          "mini_headline": "Samsung 안경, FCC 통과",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과하면서 출시가 임박했음을 시사한다. FCC 서류에는 SM-O200P와 SM-O200J라는 서로 다른 두 모델이 등장했는데, 이는 보통 상용화 직전의 마지막 단계 중 하나다."
+              },
+              {
+                "t": "p",
+                "x": "두 제품 코드는 양산 전 모델에서 확인된 대로 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 이 코드는 여러 프레임 스타일에 쓰일 예정이며, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음으로 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화와 팟캐스트 청취, Google Gemini와의 상호작용을 지원한다. Snapdragon AR1 Gen 1 칩셋과 표시 LED가 달린 12MP 카메라 한 대를 쓰며, 한 번 충전으로 최대 9시간 사용할 수 있는 것으로 알려졌다. 2026년 가을이라는 출시 시기 외에 가격이나 출시일은 발표되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하며, 카메라 달린 안경을 두고 Meta가 받아온 것과 같은 대중의 시선도 감당해야 한다고 짚었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Samsungの眼鏡型端末\nFCC試験を通過",
+          "body": "SamsungのSM-O200PとSM-O200JがFCC文書に登場した。",
+          "mini_headline": "Samsung眼鏡がFCC通過",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "待望のSamsungスマートグラスがFCCの試験を通過し、発売が目前に迫っていることがうかがえる。FCCの書類にはSM-O200PとSM-O200Jという2つのモデルが登場した。これは通常、商用化前の最終段階の一つである。"
+              },
+              {
+                "t": "p",
+                "x": "2つの製品コードは、量産前モデルで確認されたとおり、それぞれWarby ParkerとGentle Monsterのフレームを示している。これらのコードは複数のフレームスタイルで使われ、Warby Parkerが3種類、Gentle Monsterが(現時点で)2種類となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "SamsungとGoogleが共同で開発したこのグラスは、Android XRを搭載する初の製品となる予定だ。カメラ、マイク、耳をふさがないスピーカーを備え、通話やポッドキャスト、Google Geminiとのやり取りに対応する。Snapdragon AR1 Gen 1チップセット、インジケーターLED付きの12MPカメラ1基を採用し、1回の充電で最大9時間使えるとされる。2026年秋という時期以外に、価格や発売日は発表されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Samsung智能眼镜\n通过FCC测试",
+          "body": "Samsung两款眼镜SM-O200P与SM-O200J现身FCC文件。",
+          "mini_headline": "Samsung眼镜通过FCC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "备受期待的Samsung智能眼镜已通过FCC测试，意味着发布在即。SM-O200P和SM-O200J两款不同型号出现在FCC文件中，这通常是商业化之前的最后步骤之一。"
+              },
+              {
+                "t": "p",
+                "x": "从试产机型来看，这两个产品代码分别对应Warby Parker和Gentle Monster镜框。多种镜框款式将共用这些代码：Warby Parker有三款，Gentle Monster（目前）有两款。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "这款眼镜由Samsung与Google联合打造，将成为首款运行Android XR的产品，配备摄像头、麦克风和开放式扬声器，可用于通话、收听播客以及与Google Gemini互动。据悉，它采用Snapdragon AR1 Gen 1芯片组、一颗带指示LED的12MP摄像头，单次充电最多可使用9小时。除2026年秋季这一时间窗口外，价格和发布日期均未公布。"
+              },
+              {
+                "t": "p",
+                "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gafas inteligentes de Samsung\nsuperan las pruebas de la FCC",
+          "body": "Los modelos SM-O200P y SM-O200J de Samsung aparecen en la FCC y apuntan a monturas de Warby Parker y Gentle Monster.",
+          "mini_headline": "Las gafas de Samsung pasan la FCC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Las esperadas gafas inteligentes de Samsung han superado las pruebas de la FCC, lo que sugiere que su lanzamiento está muy cerca. Dos modelos distintos, SM-O200P y SM-O200J, han aparecido en registros de la FCC, que suelen ser uno de los últimos pasos antes de la comercialización."
+              },
+              {
+                "t": "p",
+                "x": "Los dos códigos de producto corresponden, respectivamente, a monturas de Warby Parker y Gentle Monster, como se ha visto en modelos de preproducción. Varios estilos de montura usarán esos códigos: tres de Warby Parker y dos (por ahora) de Gentle Monster."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Desarrolladas por Samsung y Google, las gafas serán las primeras en ejecutar Android XR, con cámaras, micrófonos y altavoces fuera del oído para llamadas, pódcast e interacción con Google Gemini. Según se informa, usarán un chipset Snapdragon AR1 Gen 1, una única cámara de 12MP con LED indicador y hasta 9 horas de uso por carga. No se han anunciado precio ni fecha de lanzamiento más allá de la ventana de otoño de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-legato-hearing-glasses",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Legato\nAI 청각 안경 출시",
+      "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
+      "mini_headline": "Legato의 AI 청각 안경",
+      "tool": "Gadgets",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames 판매를 시작했다고 밝혔다. 특허받은 청각 보조 기술을 안경다리에 넣은 제품이다. 가격은 999달러부터이고, 중등도 이하 난청이 있는 성인용으로 설계했다. 기존 보청기의 비용과 착용감, 낙인 문제를 풀겠다는 목표다."
+          },
+          {
+            "t": "p",
+            "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템은 소리를 착용자 쪽으로 보내고 밖으로 새는 소리는 상쇄한다. 귀에서 몇 인치 떨어진 곳에서는 새는 소리가 99% 줄어든다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+          },
+          {
+            "t": "p",
+            "x": "모든 처리는 안경 안에서 끝나며 카메라나 녹음 기능은 없다. 무게는 렌즈를 포함해 34그램이고 배터리는 10-12시간 간다. 스타일은 세 가지이며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사다. 최근 1200만 달러를 투자받으며 스텔스 모드에서 나왔다. 안경은 온라인과 일부 U.S. 안과 업체에서 팔고, 시력 보험도 적용된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Legato launches\nAI hearing glasses",
+          "body": "Legato Frames, starting at $999, use on-device AI to pick out voices from background noise for people with hearing loss.",
+          "mini_headline": "Legato's AI hearing glasses",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Hearing tech startup Legato announced that its AI-based hearing glasses, Legato Frames, are now available. They build its patented hearing-assistance tech into the arms of eyewear frames. Starting at $999, they are designed for adults with up to moderate hearing loss, aiming to address the cost, comfort, and stigma of traditional hearing aids."
+              },
+              {
+                "t": "p",
+                "x": "Rather than directional microphones, Legato's AI-powered system distinguishes voices from background noise, amplifying voices while reducing unwanted sounds. A dual-speaker system directs sound to the wearer and cancels escaping sound, reducing it by 99% a few inches from the ear."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "All processing happens on the glasses, with no cameras or recording. They weigh 34 grams with lenses, get 10-12 hours of battery life, come in three styles, and support prescription lenses and Bluetooth streaming."
+              },
+              {
+                "t": "p",
+                "x": "Legato, founded in 2024 by Bose veterans Mehul Trivedi and Steve Romine, recently emerged from stealth with $12 million in funding. The frames are sold online and through select U.S. eye care providers, eligible for vision insurance coverage."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Legato\nAI 청각 안경 출시",
+          "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
+          "mini_headline": "Legato의 AI 청각 안경",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames 판매를 시작했다고 밝혔다. 특허받은 청각 보조 기술을 안경다리에 넣은 제품이다. 가격은 999달러부터이고, 중등도 이하 난청이 있는 성인용으로 설계했다. 기존 보청기의 비용과 착용감, 낙인 문제를 풀겠다는 목표다."
+              },
+              {
+                "t": "p",
+                "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템은 소리를 착용자 쪽으로 보내고 밖으로 새는 소리는 상쇄한다. 귀에서 몇 인치 떨어진 곳에서는 새는 소리가 99% 줄어든다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "모든 처리는 안경 안에서 끝나며 카메라나 녹음 기능은 없다. 무게는 렌즈를 포함해 34그램이고 배터리는 10-12시간 간다. 스타일은 세 가지이며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사다. 최근 1200만 달러를 투자받으며 스텔스 모드에서 나왔다. 안경은 온라인과 일부 U.S. 안과 업체에서 팔고, 시력 보험도 적용된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Legatoが\nAI聴覚メガネを発売",
+          "body": "999ドルからのLegato Framesは、端末内AIで騒音から声を聞き分ける。",
+          "mini_headline": "LegatoのAI聴覚メガネ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "聴覚テックのスタートアップLegatoは、AI-basedの聴覚メガネ「Legato Frames」の販売開始を発表した。特許取得済みの聴覚補助技術をメガネフレームのテンプルに組み込んでいる。価格は999ドルからで、中等度までの難聴がある成人向けに設計され、従来の補聴器が抱えるコスト、装着感、偏見の問題の解消を目指す。"
+              },
+              {
+                "t": "p",
+                "x": "指向性マイクではなく、LegatoのAI-poweredシステムが声と背景雑音を識別し、声を増幅しつつ不要な音を抑える。デュアルスピーカーシステムが音を装着者に届け、外に漏れる音を打ち消すことで、耳から数インチ離れた位置で音漏れを99%低減する。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "処理はすべてメガネ上で行われ、カメラや録音機能はない。重さはレンズ込みで34グラム、バッテリーは10-12時間持ち、3種類のスタイルで展開する。度付きレンズとBluetoothストリーミングにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Legatoは2024年、Bose出身のMehul TrivediとSteve Romineが創業した。最近1200万ドルの資金調達とともにステルス状態から姿を現した。フレームはオンラインと一部のU.S.の眼科医療機関で販売され、視力保険の適用対象となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Legato推出\nAI助听眼镜",
+          "body": "Legato Frames起价999美元，借助端侧AI从背景噪音中分辨人声。",
+          "mini_headline": "Legato的AI助听眼镜",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "听力科技初创公司Legato宣布，其AI-based助听眼镜Legato Frames现已上市。该产品将其专利听力辅助技术嵌入镜腿中，起价999美元，面向中度及以下听力损失的成年人，旨在解决传统助听器在成本、舒适度和社会偏见方面的问题。"
+              },
+              {
+                "t": "p",
+                "x": "Legato的AI-powered系统不依赖定向麦克风，而是从背景噪音中区分人声，在放大人声的同时减少多余声音。双扬声器系统将声音导向佩戴者，并抵消外泄的声音，在距耳朵几英寸处可将其降低99%。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "所有处理都在眼镜上完成，没有摄像头，也不录音。含镜片重34克，续航10-12小时，提供三种款式，支持处方镜片和Bluetooth串流。"
+              },
+              {
+                "t": "p",
+                "x": "Legato由Bose老员工Mehul Trivedi和Steve Romine于2024年创立，近期获得1200万美元融资并结束隐身状态。眼镜通过线上渠道及部分U.S.眼科服务机构销售，可使用视力保险。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Legato lanza gafas\nauditivas con IA",
+          "body": "Las Legato Frames, desde $999, ayudan a personas con pérdida auditiva a separar voces del ruido con IA local.",
+          "mini_headline": "Las gafas auditivas con IA de Legato",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "La startup de tecnología auditiva Legato anunció que sus gafas auditivas AI-based, Legato Frames, ya están disponibles. Integran su tecnología patentada de asistencia auditiva en las patillas de la montura. Con un precio desde $999, están diseñadas para adultos con pérdida auditiva de hasta grado moderado y buscan resolver el costo, la comodidad y el estigma de los audífonos tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de micrófonos direccionales, el sistema AI-powered de Legato distingue las voces del ruido de fondo, amplifica las voces y reduce los sonidos no deseados. Un sistema de doble altavoz dirige el sonido al usuario y cancela el que se escapa, reduciéndolo un 99% a unas pocas pulgadas del oído."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "Todo el procesamiento ocurre en las gafas, sin cámaras ni grabación. Pesan 34 gramos con lentes, ofrecen 10-12 horas de batería, vienen en tres estilos y admiten lentes graduadas y streaming por Bluetooth."
+              },
+              {
+                "t": "p",
+                "x": "Legato, fundada en 2024 por los veteranos de Bose Mehul Trivedi y Steve Romine, salió recientemente del modo sigiloso con $12 millones de financiación. Las monturas se venden en línea y a través de proveedores de salud visual seleccionados en U.S., y pueden cubrirse con el seguro de visión."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Legato\nAI 청각 안경 출시",
+          "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
+          "mini_headline": "Legato의 AI 청각 안경",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames의 판매를 시작했다고 발표했다. 특허받은 청각 보조 기술을 안경테 다리에 넣었다. 가격은 999달러부터이며, 중등도 이하 난청을 겪는 성인을 위해 설계했다. 기존 보청기의 비용, 착용감, 낙인 문제를 해결하는 것이 목표다."
+              },
+              {
+                "t": "p",
+                "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해, 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템이 소리를 착용자에게 보내고 새어 나가는 소리를 상쇄해, 귀에서 몇 인치 떨어진 곳에서 이를 99% 줄인다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "모든 처리는 안경 안에서 이뤄지며 카메라나 녹음 기능은 없다. 렌즈를 포함한 무게는 34그램이고 배터리는 10-12시간 간다. 세 가지 스타일로 나오며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사로, 최근 1200만 달러 투자를 받고 스텔스 모드에서 벗어났다. 안경은 온라인과 일부 U.S. 안과 업체에서 판매하며, 시력 보험 적용 대상이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Legatoが\nAI聴覚メガネを発売",
+          "body": "999ドルからのLegato Framesは、端末内AIで騒音から声を聞き分ける。",
+          "mini_headline": "LegatoのAI聴覚メガネ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "聴覚テックのスタートアップLegatoは、AI-basedの聴覚メガネ「Legato Frames」の販売開始を発表した。特許取得済みの聴覚補助技術をメガネフレームのテンプルに組み込んでいる。価格は999ドルからで、中等度までの難聴がある成人向けに設計され、従来の補聴器が抱えるコスト、装着感、偏見の問題の解消を目指す。"
+              },
+              {
+                "t": "p",
+                "x": "指向性マイクではなく、LegatoのAI-poweredシステムが声と背景雑音を識別し、声を増幅しつつ不要な音を抑える。デュアルスピーカーシステムが音を装着者に届け、外に漏れる音を打ち消すことで、耳から数インチ離れた位置で音漏れを99%低減する。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "処理はすべてメガネ上で行われ、カメラや録音機能はない。重さはレンズ込みで34グラム、バッテリーは10-12時間持ち、3種類のスタイルで展開する。度付きレンズとBluetoothストリーミングにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Legatoは2024年、Bose出身のMehul TrivediとSteve Romineが創業した。最近1200万ドルの資金調達とともにステルス状態から姿を現した。フレームはオンラインと一部のU.S.の眼科医療機関で販売され、視力保険の適用対象となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Legato推出\nAI助听眼镜",
+          "body": "Legato Frames起价999美元，借助端侧AI从背景噪音中分辨人声。",
+          "mini_headline": "Legato的AI助听眼镜",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "听力科技初创公司Legato宣布，其AI-based助听眼镜Legato Frames现已上市。该产品将其专利听力辅助技术嵌入镜腿中，起价999美元，面向中度及以下听力损失的成年人，旨在解决传统助听器在成本、舒适度和社会偏见方面的问题。"
+              },
+              {
+                "t": "p",
+                "x": "Legato的AI-powered系统不依赖定向麦克风，而是从背景噪音中区分人声，在放大人声的同时减少多余声音。双扬声器系统将声音导向佩戴者，并抵消外泄的声音，在距耳朵几英寸处可将其降低99%。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "所有处理都在眼镜上完成，没有摄像头，也不录音。含镜片重34克，续航10-12小时，提供三种款式，支持处方镜片和Bluetooth串流。"
+              },
+              {
+                "t": "p",
+                "x": "Legato由Bose老员工Mehul Trivedi和Steve Romine于2024年创立，近期获得1200万美元融资并结束隐身状态。眼镜通过线上渠道及部分U.S.眼科服务机构销售，可使用视力保险。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Legato lanza gafas\nauditivas con IA",
+          "body": "Las Legato Frames, desde $999, ayudan a personas con pérdida auditiva a separar voces del ruido con IA local.",
+          "mini_headline": "Las gafas auditivas con IA de Legato",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "La startup de tecnología auditiva Legato anunció que sus gafas auditivas AI-based, Legato Frames, ya están disponibles. Integran su tecnología patentada de asistencia auditiva en las patillas de la montura. Con un precio desde $999, están diseñadas para adultos con pérdida auditiva de hasta grado moderado y buscan resolver el costo, la comodidad y el estigma de los audífonos tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de micrófonos direccionales, el sistema AI-powered de Legato distingue las voces del ruido de fondo, amplifica las voces y reduce los sonidos no deseados. Un sistema de doble altavoz dirige el sonido al usuario y cancela el que se escapa, reduciéndolo un 99% a unas pocas pulgadas del oído."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+              },
+              {
+                "t": "p",
+                "x": "Todo el procesamiento ocurre en las gafas, sin cámaras ni grabación. Pesan 34 gramos con lentes, ofrecen 10-12 horas de batería, vienen en tres estilos y admiten lentes graduadas y streaming por Bluetooth."
+              },
+              {
+                "t": "p",
+                "x": "Legato, fundada en 2024 por los veteranos de Bose Mehul Trivedi y Steve Romine, salió recientemente del modo sigiloso con $12 millones de financiación. Las monturas se venden en línea y a través de proveedores de salud visual seleccionados en U.S., y pueden cubrirse con el seguro de visión."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-gemini-guided-vision",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Guided Vision,\n작은 글씨도 읽어준다",
+      "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
+      "mini_headline": "Gemini Guided Vision",
+      "tool": "Gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+          },
+          {
+            "t": "p",
+            "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 들어간다. 휴대폰 카메라에 비친 모든 것을 AI가 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨를 읽어 주고, 주변 환경을 설명하고, 근처 사물을 찾아 알려 주고, 특정 사물을 자세히 묘사한다."
+          },
+          {
+            "t": "p",
+            "x": "Apple이 iPhone과 Vision Pro에 넣은 VoiceOver Live Recognition 기능처럼 시각장애인과 저시력자, 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트 때 공개된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있다. Android 9 이상 기기라면 설정 앱에서 접근성 바로가기로 지정해 둘 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "보고 있는 대상을 두고 이어서 질문할 수도 있다. Gemini가 찾아준 물건의 유통기한을 읽어 달라고 하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 소리 신호로 카메라 위치를 맞추게 돕는다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google's Guided Vision\nhelps read the fine print",
+          "body": "Guided Vision in Gemini Live describes aloud whatever you point your phone's camera at, from small text to objects.",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone’s camera at. By sharing your camera in Gemini Live, you can have Google’s AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects."
+              },
+              {
+                "t": "p",
+                "x": "Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it’s designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available in Google TalkBack, or users can set up an accessibility shortcut for it in the Settings app on devices running Android 9 and above, after it was announced in a recent set of Pixel updates."
+              },
+              {
+                "t": "p",
+                "x": "You can also ask follow-up questions about whatever you’re looking at, like asking Gemini to read off the expiration date on an item it helped you find. Google says Gemini will give you audio cues to help line up your camera if you ask about something that’s not in the shot. However, Google cautions users not to rely on Guided Vision for things like “navigation, safe-travel guidance, or obstacle detection,” or as a replacement for a cane or mobility aid."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Guided Vision,\n작은 글씨도 읽어준다",
+          "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 들어간다. 휴대폰 카메라에 비친 모든 것을 AI가 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨를 읽어 주고, 주변 환경을 설명하고, 근처 사물을 찾아 알려 주고, 특정 사물을 자세히 묘사한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple이 iPhone과 Vision Pro에 넣은 VoiceOver Live Recognition 기능처럼 시각장애인과 저시력자, 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트 때 공개된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있다. Android 9 이상 기기라면 설정 앱에서 접근성 바로가기로 지정해 둘 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "보고 있는 대상을 두고 이어서 질문할 수도 있다. Gemini가 찾아준 물건의 유통기한을 읽어 달라고 하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 소리 신호로 카메라 위치를 맞추게 돕는다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Guided Vision\n小さな文字も読み上げ",
+          "body": "Gemini LiveのGuided Visionはカメラに映るものを音声で説明する。",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "対応するAndroid端末のGemini Liveで本日、Guided Visionの提供が始まる。スマートフォンのカメラを向けたものをAIがリアルタイムに音声で説明する機能だ。Gemini Liveでカメラを共有すると、小さな文字の読み上げ、周囲の様子の説明、身の回りの物の発見や識別、特定の物の細部の説明などをGoogleのAIが手助けする。"
+              },
+              {
+                "t": "p",
+                "x": "AppleがiPhoneとVision Proに追加したVoiceOver Live Recognitionと同様、視覚に障害のある人やロービジョンの人、特定の場面で支援を必要とする人に向けて設計されている。最近のPixelアップデートで発表されたGuided Visionは、Geminiアプリに加えてGoogle TalkBackでも利用でき、Android 9以降の端末では設定アプリでユーザー補助のショートカットを設定することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "見ている対象について追加で質問することもできる。たとえば、見つけてもらった商品の賞味期限をGeminiに読み上げてもらうといった使い方だ。画面に映っていないものについて尋ねると、Geminiが音声の合図でカメラの位置合わせを手助けするとGoogleは説明する。ただしGoogleは、Guided Visionを「ナビゲーション、安全な移動の案内、障害物の検知」などに頼ったり、杖や移動補助具の代わりにしたりしないよう注意を促している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Guided Vision\n帮你读清小字",
+          "body": "Gemini Live的Guided Vision可用语音描述手机摄像头拍到的内容。",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision今天起在兼容Android设备上的Gemini Live中推出，利用AI实时语音描述手机摄像头所对准的任何事物。在Gemini Live中共享摄像头后，Google的AI可以帮助你阅读小字、描述周围环境、寻找或识别身边物体，以及描述特定物体的细节。"
+              },
+              {
+                "t": "p",
+                "x": "与Apple为iPhone和Vision Pro加入的VoiceOver Live Recognition功能类似，它面向盲人、低视力人群，或在特定场景下需要帮助的用户。Guided Vision已在最近一批Pixel更新中公布，除Gemini应用外，也可在Google TalkBack中使用；在运行Android 9及以上版本的设备上，用户还可以在设置应用中为其设置无障碍快捷方式。"
+              },
+              {
+                "t": "p",
+                "x": "你还可以就所看的东西继续追问，例如让Gemini读出它帮你找到的物品上的保质期。Google表示，如果你询问的东西不在画面中，Gemini会给出音频提示，帮你对准摄像头。不过，Google提醒用户，不要依赖Guided Vision进行“导航、安全出行指引或障碍物检测”等用途，也不要用它代替手杖或助行器具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guided Vision de Google\nayuda a leer la letra pequeña",
+          "body": "Guided Vision en Gemini Live describe en voz alta lo que enfoca la cámara, desde texto pequeño hasta objetos.",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision llega hoy a Gemini Live en dispositivos Android compatibles para usar IA y ofrecer descripciones de audio en tiempo real de todo lo que se enfoque con la cámara del teléfono. Al compartir la cámara en Gemini Live, la IA de Google puede ayudar a leer texto pequeño, describir el entorno, encontrar o identificar objetos cercanos y describir detalles de objetos concretos."
+              },
+              {
+                "t": "p",
+                "x": "Al igual que la función VoiceOver Live Recognition que Apple ha añadido al iPhone y al Vision Pro, está pensada para personas ciegas, con baja visión o que necesitan ayuda en situaciones concretas. Además de en la app Gemini, Guided Vision también está disponible en Google TalkBack, y los usuarios pueden configurar un acceso directo de accesibilidad en la app Ajustes de los dispositivos con Android 9 o posterior, después de que se anunciara en una reciente tanda de actualizaciones de Pixel."
+              },
+              {
+                "t": "p",
+                "x": "También se pueden hacer preguntas de seguimiento sobre lo que se está mirando, como pedir a Gemini que lea la fecha de caducidad de un artículo que ayudó a encontrar. Google afirma que Gemini dará indicaciones sonoras para ayudar a encuadrar la cámara si se pregunta por algo que no está en la imagen. Sin embargo, Google advierte a los usuarios que no confíen en Guided Vision para tareas como “navegación, orientación para desplazarse con seguridad o detección de obstáculos”, ni como sustituto de un bastón o una ayuda para la movilidad."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Guided Vision,\n작은 글씨도 읽어준다",
+          "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 도입된다. AI를 활용해 휴대폰 카메라로 비춘 모든 것을 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨 읽기, 주변 환경 설명, 주변 사물 찾기와 식별, 특정 사물의 세부 묘사 등을 돕는다."
+              },
+              {
+                "t": "p",
+                "x": "Apple이 iPhone과 Vision Pro에 추가한 VoiceOver Live Recognition 기능처럼, 시각장애인이나 저시력자, 혹은 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트에서 발표된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있으며, Android 9 이상 기기에서는 설정 앱에서 접근성 바로가기로 지정할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "보고 있는 대상에 대해 후속 질문도 할 수 있다. 예컨대 Gemini가 찾아준 물건의 유통기한을 읽어 달라고 요청하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 카메라 위치를 맞추도록 소리 신호를 준다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Guided Vision\n小さな文字も読み上げ",
+          "body": "Gemini LiveのGuided Visionはカメラに映るものを音声で説明する。",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "対応するAndroid端末のGemini Liveで本日、Guided Visionの提供が始まる。スマートフォンのカメラを向けたものをAIがリアルタイムに音声で説明する機能だ。Gemini Liveでカメラを共有すると、小さな文字の読み上げ、周囲の様子の説明、身の回りの物の発見や識別、特定の物の細部の説明などをGoogleのAIが手助けする。"
+              },
+              {
+                "t": "p",
+                "x": "AppleがiPhoneとVision Proに追加したVoiceOver Live Recognitionと同様、視覚に障害のある人やロービジョンの人、特定の場面で支援を必要とする人に向けて設計されている。最近のPixelアップデートで発表されたGuided Visionは、Geminiアプリに加えてGoogle TalkBackでも利用でき、Android 9以降の端末では設定アプリでユーザー補助のショートカットを設定することもできる。"
+              },
+              {
+                "t": "p",
+                "x": "見ている対象について追加で質問することもできる。たとえば、見つけてもらった商品の賞味期限をGeminiに読み上げてもらうといった使い方だ。画面に映っていないものについて尋ねると、Geminiが音声の合図でカメラの位置合わせを手助けするとGoogleは説明する。ただしGoogleは、Guided Visionを「ナビゲーション、安全な移動の案内、障害物の検知」などに頼ったり、杖や移動補助具の代わりにしたりしないよう注意を促している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Guided Vision\n帮你读清小字",
+          "body": "Gemini Live的Guided Vision可用语音描述手机摄像头拍到的内容。",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision今天起在兼容Android设备上的Gemini Live中推出，利用AI实时语音描述手机摄像头所对准的任何事物。在Gemini Live中共享摄像头后，Google的AI可以帮助你阅读小字、描述周围环境、寻找或识别身边物体，以及描述特定物体的细节。"
+              },
+              {
+                "t": "p",
+                "x": "与Apple为iPhone和Vision Pro加入的VoiceOver Live Recognition功能类似，它面向盲人、低视力人群，或在特定场景下需要帮助的用户。Guided Vision已在最近一批Pixel更新中公布，除Gemini应用外，也可在Google TalkBack中使用；在运行Android 9及以上版本的设备上，用户还可以在设置应用中为其设置无障碍快捷方式。"
+              },
+              {
+                "t": "p",
+                "x": "你还可以就所看的东西继续追问，例如让Gemini读出它帮你找到的物品上的保质期。Google表示，如果你询问的东西不在画面中，Gemini会给出音频提示，帮你对准摄像头。不过，Google提醒用户，不要依赖Guided Vision进行“导航、安全出行指引或障碍物检测”等用途，也不要用它代替手杖或助行器具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guided Vision de Google\nayuda a leer la letra pequeña",
+          "body": "Guided Vision en Gemini Live describe en voz alta lo que enfoca la cámara, desde texto pequeño hasta objetos.",
+          "mini_headline": "Gemini Guided Vision",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Guided Vision llega hoy a Gemini Live en dispositivos Android compatibles para usar IA y ofrecer descripciones de audio en tiempo real de todo lo que se enfoque con la cámara del teléfono. Al compartir la cámara en Gemini Live, la IA de Google puede ayudar a leer texto pequeño, describir el entorno, encontrar o identificar objetos cercanos y describir detalles de objetos concretos."
+              },
+              {
+                "t": "p",
+                "x": "Al igual que la función VoiceOver Live Recognition que Apple ha añadido al iPhone y al Vision Pro, está pensada para personas ciegas, con baja visión o que necesitan ayuda en situaciones concretas. Además de en la app Gemini, Guided Vision también está disponible en Google TalkBack, y los usuarios pueden configurar un acceso directo de accesibilidad en la app Ajustes de los dispositivos con Android 9 o posterior, después de que se anunciara en una reciente tanda de actualizaciones de Pixel."
+              },
+              {
+                "t": "p",
+                "x": "También se pueden hacer preguntas de seguimiento sobre lo que se está mirando, como pedir a Gemini que lea la fecha de caducidad de un artículo que ayudó a encontrar. Google afirma que Gemini dará indicaciones sonoras para ayudar a encuadrar la cámara si se pregunta por algo que no está en la imagen. Sin embargo, Google advierte a los usuarios que no confíen en Guided Vision para tareas como “navegación, orientación para desplazarse con seguridad o detección de obstáculos”, ni como sustituto de un bastón o una ayuda para la movilidad."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-oura-xella-biomarkers",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
+      "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
+      "mini_headline": "Oura, AI 바이오마커 검사 추가",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+            "cap": "Oura Ring 5"
+          },
+          {
+            "t": "p",
+            "x": "Oura가 Xella Health와 제휴했다. 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼이다. 미국에서 Xella를 구독하는 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Xella는 이어 자체 AI로 이른바 \"multi-omic\" 진단을 한다. Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석해 건강 변화의 조짐일 수 있는 패턴을 찾는다. 그다음 Xella의 AI가 의사와 함께 관리 계획을 세운다. 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료도 여기에 들어갈 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Xella는 연 499달러짜리 별도 멤버십이며, New York과 New Jersey를 뺀 U.S. 모든 주에서 쓸 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 더 든다. 의료기기는 아니다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Oura pairs ring data with\nAI biomarker testing",
+          "body": "US Oura users can share ring data with Xella Health, whose AI pairs it with biomarker tests and doctor-led care.",
+          "mini_headline": "Oura adds AI biomarker tests",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura has partnered with Xella Health, a women's precision health platform that combines lab testing with telehealth care. Oura ring owners in the US who subscribe to Xella can share sleep, HRV, resting heart rate, temperature trends, recovery, activity, and menstrual cycle insights."
+              },
+              {
+                "t": "p",
+                "x": "Xella then runs what it calls \"multi-omic\" diagnostics, using custom AI to analyze Oura's physiologic data alongside hormones, metabolism, inflammation, nutrition, reproductive health, and cardiometabolic risk to spot patterns that may indicate a change in health. Xella's AI then creates a care plan with a doctor, which can include treatment for more than 130 conditions that impact women, such as endometriosis."
+              },
+              {
+                "t": "p",
+                "x": "\"Wearables have transformed our ability to detect physiologic change,\" said Xella Health CEO and co-founder Kelly Lacob."
+              },
+              {
+                "t": "p",
+                "x": "Xella is a separate membership costing $499 a year, available in all U.S. states except New York and New Jersey. The Oura Ring 5 starts at $399 plus $5.99 a month, and is not a medical device."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
+          "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
+          "mini_headline": "Oura, AI 바이오마커 검사 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura가 Xella Health와 제휴했다. 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼이다. 미국에서 Xella를 구독하는 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Xella는 이어 자체 AI로 이른바 \"multi-omic\" 진단을 한다. Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석해 건강 변화의 조짐일 수 있는 패턴을 찾는다. 그다음 Xella의 AI가 의사와 함께 관리 계획을 세운다. 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료도 여기에 들어갈 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Xella는 연 499달러짜리 별도 멤버십이며, New York과 New Jersey를 뺀 U.S. 모든 주에서 쓸 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 더 든다. 의료기기는 아니다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ouraがリング情報を\nAIバイオマーカー検査に",
+          "body": "米国のOuraユーザーは、リングデータをXellaのAI検査と診療に使える。",
+          "mini_headline": "Oura、AIバイオマーカー検査を追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Ouraは、ラボ検査と遠隔医療を組み合わせた女性向けプレシジョン・ヘルスプラットフォームXella Healthと提携した。Xellaに加入する米国のOuraリング所有者は、睡眠、HRV、安静時心拍数、体温の傾向、回復、活動、月経周期のインサイトを共有できる。"
+              },
+              {
+                "t": "p",
+                "x": "Xellaはその後、独自のAIでOuraの生理データをホルモン、代謝、炎症、栄養、生殖の健康、心血管代謝リスクとあわせて分析する「multi-omic」診断を行い、健康の変化を示しうるパターンを探る。さらにXellaのAIが医師とともにケアプランを作成し、子宮内膜症など女性に影響する130以上の疾患の治療を含めることができる。"
+              },
+              {
+                "t": "p",
+                "x": "「ウェアラブルは生理的変化を検知する私たちの能力を一変させた」と、Xella HealthのCEO兼共同創業者Kelly Lacobは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Xellaは年499ドルの別会員制サービスで、New YorkとNew Jerseyを除くU.S.の全州で利用できる。Oura Ring 5は399ドルからで月額5.99ドルがかかり、医療機器ではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Oura将戒指数据\n与AI生物标志物检测结合",
+          "body": "美国Oura用户可将戒指数据共享给Xella，由AI结合生物标志物检测。",
+          "mini_headline": "Oura新增AI生物标志物检测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura与Xella Health达成合作，后者是一家将实验室检测与远程医疗相结合的女性精准健康平台。订阅Xella的美国Oura戒指用户可共享睡眠、HRV、静息心率、体温趋势、恢复、活动和月经周期洞察。"
+              },
+              {
+                "t": "p",
+                "x": "随后，Xella会进行其所称的\"multi-omic\"诊断，利用定制AI将Oura的生理数据与激素、代谢、炎症、营养、生殖健康及心脏代谢风险一并分析，寻找可能预示健康变化的模式。之后，Xella的AI会与医生共同制定护理计划，其中可包括针对子宫内膜异位症等130多种影响女性的疾病的治疗。"
+              },
+              {
+                "t": "p",
+                "x": "Xella Health CEO兼联合创始人Kelly Lacob表示：\"可穿戴设备彻底改变了我们检测生理变化的能力。\""
+              },
+              {
+                "t": "p",
+                "x": "Xella是一项单独的会员服务，年费499美元，在除New York和New Jersey以外的所有U.S.州均可使用。Oura Ring 5起价399美元，另需每月5.99美元，且不属于医疗设备。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Oura une los datos del anillo\ncon biomarcadores e IA",
+          "body": "Los usuarios de Oura en EE. UU. pueden compartir datos con Xella Health, cuya IA los cruza con biomarcadores.",
+          "mini_headline": "Oura suma pruebas de biomarcadores con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura se ha asociado con Xella Health, una plataforma de salud de precisión para mujeres que combina pruebas de laboratorio con atención por telemedicina. Los propietarios de un anillo Oura en EE. UU. que se suscriban a Xella pueden compartir datos de sueño, HRV, frecuencia cardíaca en reposo, tendencias de temperatura, recuperación, actividad y ciclo menstrual."
+              },
+              {
+                "t": "p",
+                "x": "Después, Xella realiza lo que denomina diagnósticos \"multi-omic\", con una IA propia que analiza los datos fisiológicos de Oura junto con hormonas, metabolismo, inflamación, nutrición, salud reproductiva y riesgo cardiometabólico para detectar patrones que puedan indicar un cambio en la salud. Luego, la IA de Xella elabora un plan de atención con un médico, que puede incluir tratamiento para más de 130 afecciones que afectan a las mujeres, como la endometriosis."
+              },
+              {
+                "t": "p",
+                "x": "\"Los wearables han transformado nuestra capacidad de detectar cambios fisiológicos\", afirmó Kelly Lacob, quien dirige Xella Health como CEO y la cofundó."
+              },
+              {
+                "t": "p",
+                "x": "Xella es una membresía aparte que cuesta $499 al año y está disponible en todos los estados de U.S. salvo New York y New Jersey. El Oura Ring 5 parte de $399 más $5.99 al mes y no es un dispositivo médico."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
+          "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
+          "mini_headline": "Oura, AI 바이오마커 검사 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura가 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼 Xella Health와 제휴했다. Xella를 구독하는 미국의 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Xella는 이어 자체 AI로 Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석하는 이른바 \"multi-omic\" 진단을 실시해, 건강 변화를 시사할 수 있는 패턴을 찾는다. 이후 Xella의 AI가 의사와 함께 관리 계획을 세우며, 여기에는 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료가 포함될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Xella는 연 499달러의 별도 멤버십으로, New York과 New Jersey를 제외한 U.S. 모든 주에서 이용할 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 추가되며, 의료기기가 아니다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ouraがリング情報を\nAIバイオマーカー検査に",
+          "body": "米国のOuraユーザーは、リングデータをXellaのAI検査と診療に使える。",
+          "mini_headline": "Oura、AIバイオマーカー検査を追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Ouraは、ラボ検査と遠隔医療を組み合わせた女性向けプレシジョン・ヘルスプラットフォームXella Healthと提携した。Xellaに加入する米国のOuraリング所有者は、睡眠、HRV、安静時心拍数、体温の傾向、回復、活動、月経周期のインサイトを共有できる。"
+              },
+              {
+                "t": "p",
+                "x": "Xellaはその後、独自のAIでOuraの生理データをホルモン、代謝、炎症、栄養、生殖の健康、心血管代謝リスクとあわせて分析する「multi-omic」診断を行い、健康の変化を示しうるパターンを探る。さらにXellaのAIが医師とともにケアプランを作成し、子宮内膜症など女性に影響する130以上の疾患の治療を含めることができる。"
+              },
+              {
+                "t": "p",
+                "x": "「ウェアラブルは生理的変化を検知する私たちの能力を一変させた」と、Xella HealthのCEO兼共同創業者Kelly Lacobは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Xellaは年499ドルの別会員制サービスで、New YorkとNew Jerseyを除くU.S.の全州で利用できる。Oura Ring 5は399ドルからで月額5.99ドルがかかり、医療機器ではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Oura将戒指数据\n与AI生物标志物检测结合",
+          "body": "美国Oura用户可将戒指数据共享给Xella，由AI结合生物标志物检测。",
+          "mini_headline": "Oura新增AI生物标志物检测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura与Xella Health达成合作，后者是一家将实验室检测与远程医疗相结合的女性精准健康平台。订阅Xella的美国Oura戒指用户可共享睡眠、HRV、静息心率、体温趋势、恢复、活动和月经周期洞察。"
+              },
+              {
+                "t": "p",
+                "x": "随后，Xella会进行其所称的\"multi-omic\"诊断，利用定制AI将Oura的生理数据与激素、代谢、炎症、营养、生殖健康及心脏代谢风险一并分析，寻找可能预示健康变化的模式。之后，Xella的AI会与医生共同制定护理计划，其中可包括针对子宫内膜异位症等130多种影响女性的疾病的治疗。"
+              },
+              {
+                "t": "p",
+                "x": "Xella Health CEO兼联合创始人Kelly Lacob表示：\"可穿戴设备彻底改变了我们检测生理变化的能力。\""
+              },
+              {
+                "t": "p",
+                "x": "Xella是一项单独的会员服务，年费499美元，在除New York和New Jersey以外的所有U.S.州均可使用。Oura Ring 5起价399美元，另需每月5.99美元，且不属于医疗设备。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Oura une los datos del anillo\ncon biomarcadores e IA",
+          "body": "Los usuarios de Oura en EE. UU. pueden compartir datos con Xella Health, cuya IA los cruza con biomarcadores.",
+          "mini_headline": "Oura suma pruebas de biomarcadores con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+                "cap": "Oura Ring 5"
+              },
+              {
+                "t": "p",
+                "x": "Oura se ha asociado con Xella Health, una plataforma de salud de precisión para mujeres que combina pruebas de laboratorio con atención por telemedicina. Los propietarios de un anillo Oura en EE. UU. que se suscriban a Xella pueden compartir datos de sueño, HRV, frecuencia cardíaca en reposo, tendencias de temperatura, recuperación, actividad y ciclo menstrual."
+              },
+              {
+                "t": "p",
+                "x": "Después, Xella realiza lo que denomina diagnósticos \"multi-omic\", con una IA propia que analiza los datos fisiológicos de Oura junto con hormonas, metabolismo, inflamación, nutrición, salud reproductiva y riesgo cardiometabólico para detectar patrones que puedan indicar un cambio en la salud. Luego, la IA de Xella elabora un plan de atención con un médico, que puede incluir tratamiento para más de 130 afecciones que afectan a las mujeres, como la endometriosis."
+              },
+              {
+                "t": "p",
+                "x": "\"Los wearables han transformado nuestra capacidad de detectar cambios fisiológicos\", afirmó Kelly Lacob, quien dirige Xella Health como CEO y la cofundó."
+              },
+              {
+                "t": "p",
+                "x": "Xella es una membresía aparte que cuesta $499 al año y está disponible en todos los estados de U.S. salvo New York y New Jersey. El Oura Ring 5 parte de $399 más $5.99 al mes y no es un dispositivo médico."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-gemini-home-noisy-rooms",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
+      "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
+      "mini_headline": "Gemini for Home, 더 잘 듣는다",
+      "tool": "Gadgets",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Google Home이 9월 들어 세 번째 업데이트를 받는다. Google에 따르면 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 더 잘 걸러내 요청을 알아듣는 일이 늘었다. 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에는 더 빨리 응답한다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하고, 오류가 난 뒤 \"이해하지 못했어요\"만 되풀이하던 문제도 사라졌다. 휴대폰 찾기 요청 처리도 훨씬 믿을 만해졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 나가고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 바뀐다. Android와 iOS의 Nest 설정도 더 매끄러워졌다. 앱이 네트워크 자격 증명을 안전하게 캐시해 두므로 연이어 설정할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 고쳤다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Gemini for Home hears\nyou better in noisy rooms",
+          "body": "Google Home's third September update helps Gemini for Home filter out background chatter in loud rooms and reply faster.",
+          "mini_headline": "Gemini for Home hears better",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home is getting its third update this September. Google says it has enhanced how Gemini for Home filters out background conversation when you give it a command in a loud room, so requests register more often, and it replies faster across common smart home, media, alarm, and timer commands."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home should also be more reliable in multilingual households, and it no longer gets stuck repeating \"I didn't understand\" after an error. Asking it to find your phone is now a lot more reliable."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In the Home app, sliding brightness to 0% now sends a proper power-off command, online camera and doorbell tiles appear as filled icons, and Nest setup on Android and iOS is smoother, with the app able to securely cache network credentials for back-to-back setups."
+              },
+              {
+                "t": "p",
+                "x": "The update also fixes Matter switch offline status, Favorites tiles, camera playback and buffering, Walmart Onn camera history, and Automations device names."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
+          "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
+          "mini_headline": "Gemini for Home, 더 잘 듣는다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home이 9월 들어 세 번째 업데이트를 받는다. Google에 따르면 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 더 잘 걸러내 요청을 알아듣는 일이 늘었다. 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에는 더 빨리 응답한다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하고, 오류가 난 뒤 \"이해하지 못했어요\"만 되풀이하던 문제도 사라졌다. 휴대폰 찾기 요청 처리도 훨씬 믿을 만해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 나가고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 바뀐다. Android와 iOS의 Nest 설정도 더 매끄러워졌다. 앱이 네트워크 자격 증명을 안전하게 캐시해 두므로 연이어 설정할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 고쳤다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "騒がしい部屋でも\nGeminiが聞き取る",
+          "body": "Gemini for Homeが騒がしい部屋で周囲の会話を取り除き、より速く応答する。",
+          "mini_headline": "Gemini for Homeの聞き取り向上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Homeが今年9月で3度目となるアップデートを受ける。Googleによると、騒がしい部屋で指示を出した際にGemini for Homeが背景の会話を除去する仕組みを強化し、リクエストが認識されやすくなった。よく使うスマートホーム、メディア、アラーム、タイマーの各コマンドへの応答も速くなった。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Homeは多言語の家庭でもより安定して動作するようになり、エラーの後に「わかりませんでした」を繰り返して抜け出せなくなる問題も解消された。スマートフォンを探すよう頼んだときの信頼性も大きく向上した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Homeアプリでは、明るさを0%までスライドすると正しく電源オフのコマンドが送られるようになり、オンラインのカメラとドアベルのタイルは塗りつぶしのアイコンで表示される。AndroidとiOSでのNestのセットアップもスムーズになり、アプリがネットワークの認証情報を安全にキャッシュして連続でセットアップできる。"
+              },
+              {
+                "t": "p",
+                "x": "今回のアップデートでは、Matterスイッチのオフライン表示、Favoritesタイル、カメラの再生とバッファリング、Walmart Onnカメラの履歴、Automationsのデバイス名に関する不具合も修正された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "嘈杂环境中\nGemini听得更清楚",
+          "body": "更新后，Gemini for Home在嘈杂房间里能滤除背景人声，回应也更快。",
+          "mini_headline": "Gemini for Home听得更清楚",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home迎来今年9月的第三次更新。Google表示，已改进Gemini for Home在嘈杂房间中接收指令时过滤背景对话的方式，使请求更容易被识别，并在常见的智能家居、媒体、闹钟和计时器指令上回应更快。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home在多语言家庭中也应更加可靠，出错后不会再反复说“我没听懂”。让它帮你找手机的功能也可靠了许多。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在Home应用中，将亮度滑到0%现在会发送真正的关机指令，在线的摄像头和门铃磁贴会显示为实心图标；Android和iOS上的Nest设置也更顺畅，应用可以安全缓存网络凭据，便于连续设置。"
+              },
+              {
+                "t": "p",
+                "x": "此次更新还修复了Matter开关离线状态、Favorites磁贴、摄像头播放与缓冲、Walmart Onn摄像头历史记录以及Automations设备名称等问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini for Home te oye mejor\nen habitaciones ruidosas",
+          "body": "La actualización de septiembre de Google Home ayuda a Gemini for Home a filtrar voces de fondo y responder más rápido.",
+          "mini_headline": "Gemini for Home oye mejor",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home recibe su tercera actualización de este mes de septiembre. Google afirma que ha mejorado la forma en que Gemini for Home filtra las conversaciones de fondo cuando se le da una orden en una habitación ruidosa, de modo que las solicitudes se registran con más frecuencia, y que responde más rápido a los comandos habituales de hogar inteligente, multimedia, alarmas y temporizadores."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home también debería ser más fiable en hogares multilingües y ya no se queda atascado repitiendo \"No lo he entendido\" tras un error. Pedirle que encuentre el teléfono ahora es mucho más fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En la app Home, deslizar el brillo hasta el 0% ahora envía un comando de apagado real, los mosaicos de cámaras y timbres en línea aparecen como iconos rellenos, y la configuración de Nest en Android e iOS es más fluida, ya que la app puede almacenar en caché de forma segura las credenciales de red para configuraciones consecutivas."
+              },
+              {
+                "t": "p",
+                "x": "La actualización también corrige el estado sin conexión de los interruptores Matter, los mosaicos de Favorites, la reproducción y el almacenamiento en búfer de las cámaras, el historial de las cámaras Walmart Onn y los nombres de dispositivos en Automations."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
+          "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
+          "mini_headline": "Gemini for Home, 더 잘 듣는다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home이 이번 9월 들어 세 번째 업데이트를 받는다. Google은 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 걸러내는 방식을 개선해 요청이 더 자주 인식되도록 했으며, 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에 대한 응답도 빨라졌다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하며, 오류가 난 뒤 \"이해하지 못했어요\"를 반복하는 문제도 사라졌다. 휴대폰 찾기 요청도 훨씬 안정적으로 처리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 전송되고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 표시된다. Android와 iOS에서 Nest 설정도 더 매끄러워졌으며, 앱이 네트워크 자격 증명을 안전하게 캐시해 연속 설정을 할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 수정했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "騒がしい部屋でも\nGeminiが聞き取る",
+          "body": "Gemini for Homeが騒がしい部屋で周囲の会話を取り除き、より速く応答する。",
+          "mini_headline": "Gemini for Homeの聞き取り向上",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Homeが今年9月で3度目となるアップデートを受ける。Googleによると、騒がしい部屋で指示を出した際にGemini for Homeが背景の会話を除去する仕組みを強化し、リクエストが認識されやすくなった。よく使うスマートホーム、メディア、アラーム、タイマーの各コマンドへの応答も速くなった。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Homeは多言語の家庭でもより安定して動作するようになり、エラーの後に「わかりませんでした」を繰り返して抜け出せなくなる問題も解消された。スマートフォンを探すよう頼んだときの信頼性も大きく向上した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Homeアプリでは、明るさを0%までスライドすると正しく電源オフのコマンドが送られるようになり、オンラインのカメラとドアベルのタイルは塗りつぶしのアイコンで表示される。AndroidとiOSでのNestのセットアップもスムーズになり、アプリがネットワークの認証情報を安全にキャッシュして連続でセットアップできる。"
+              },
+              {
+                "t": "p",
+                "x": "今回のアップデートでは、Matterスイッチのオフライン表示、Favoritesタイル、カメラの再生とバッファリング、Walmart Onnカメラの履歴、Automationsのデバイス名に関する不具合も修正された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "嘈杂环境中\nGemini听得更清楚",
+          "body": "更新后，Gemini for Home在嘈杂房间里能滤除背景人声，回应也更快。",
+          "mini_headline": "Gemini for Home听得更清楚",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home迎来今年9月的第三次更新。Google表示，已改进Gemini for Home在嘈杂房间中接收指令时过滤背景对话的方式，使请求更容易被识别，并在常见的智能家居、媒体、闹钟和计时器指令上回应更快。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home在多语言家庭中也应更加可靠，出错后不会再反复说“我没听懂”。让它帮你找手机的功能也可靠了许多。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在Home应用中，将亮度滑到0%现在会发送真正的关机指令，在线的摄像头和门铃磁贴会显示为实心图标；Android和iOS上的Nest设置也更顺畅，应用可以安全缓存网络凭据，便于连续设置。"
+              },
+              {
+                "t": "p",
+                "x": "此次更新还修复了Matter开关离线状态、Favorites磁贴、摄像头播放与缓冲、Walmart Onn摄像头历史记录以及Automations设备名称等问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini for Home te oye mejor\nen habitaciones ruidosas",
+          "body": "La actualización de septiembre de Google Home ayuda a Gemini for Home a filtrar voces de fondo y responder más rápido.",
+          "mini_headline": "Gemini for Home oye mejor",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Home recibe su tercera actualización de este mes de septiembre. Google afirma que ha mejorado la forma en que Gemini for Home filtra las conversaciones de fondo cuando se le da una orden en una habitación ruidosa, de modo que las solicitudes se registran con más frecuencia, y que responde más rápido a los comandos habituales de hogar inteligente, multimedia, alarmas y temporizadores."
+              },
+              {
+                "t": "p",
+                "x": "Gemini for Home también debería ser más fiable en hogares multilingües y ya no se queda atascado repitiendo \"No lo he entendido\" tras un error. Pedirle que encuentre el teléfono ahora es mucho más fiable."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En la app Home, deslizar el brillo hasta el 0% ahora envía un comando de apagado real, los mosaicos de cámaras y timbres en línea aparecen como iconos rellenos, y la configuración de Nest en Android e iOS es más fluida, ya que la app puede almacenar en caché de forma segura las credenciales de red para configuraciones consecutivas."
+              },
+              {
+                "t": "p",
+                "x": "La actualización también corrige el estado sin conexión de los interruptores Matter, los mosaicos de Favorites, la reproducción y el almacenamiento en búfer de las cámaras, el historial de las cámaras Walmart Onn y los nombres de dispositivos en Automations."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
 }
