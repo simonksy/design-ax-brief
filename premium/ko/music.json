@@ -3457,6 +3457,99 @@
           "x": "'보이스 워핑' 기능은 연주한 테이크를 그리드에 맞춰 늘려 주면서도 원래 연주의 감은 그대로 남긴다."
         }
       ]
+    },
+    "music/songhunt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+        },
+        {
+          "t": "p",
+          "x": "Epidemic Sound가 Overwolf, MyPart와 함께 Songhunt의 새 Stream 모드를 출시한다고 발표했다. Songhunt는 Overwolf의 인게임 앱으로, 1,500개가 넘는 PC 게임에서 PC 게이머 각자에게 맞춘 적응형 음악을 들려준다."
+        },
+        {
+          "t": "p",
+          "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 쉬지 않고 읽는다. 조용한 탐험이든 빠른 전투든 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 골라낸다."
+        },
+        {
+          "t": "p",
+          "x": "Epidemic Sound의 카탈로그는 100% IP-owned(지식재산권 100% 보유)다. 덕분에 Twitch와 YouTube 스트리머는 VODs 음소거나 저작권 신고, 영상 삭제를 걱정하지 않아도 된다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+        }
+      ]
+    },
+    "music/clarkson": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "R4nt1u0z27s"
+        },
+        {
+          "t": "p",
+          "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+        },
+        {
+          "t": "p",
+          "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+        },
+        {
+          "t": "p",
+          "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+        },
+        {
+          "t": "p",
+          "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+        }
+      ]
+    },
+    "music/sleepclub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+        },
+        {
+          "t": "p",
+          "x": "Spotify가 슈게이즈 밴드 SLEEP CLUB의 최신 싱글 \"Weight Of Ease\"를 AI 사용 곡으로 잘못 분류한 것으로 보인다. 곧 나올 데뷔 앨범 \"Dweller\"의 수록곡이다. Spotify는 앞서 밴드 카탈로그 전체를 이렇게 분류했다가 바로잡은 적이 있다."
+        },
+        {
+          "t": "p",
+          "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝혔다. 그는 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 짚었다. 카탈로그 복구에는 약 5주가 걸렸다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 나중에 첫 번째 분류의 원인이 밴드명에 든 \"sleep\"이라는 단어였다고 밝혔다. Spotify는 이번 건을 설명하지 않았다."
+        },
+        {
+          "t": "video",
+          "yt": "kfolpGoqW10"
+        }
+      ]
+    },
+    "music/agentcore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 관리형 EC2 인프라로, 며칠씩 이어지는 세션과 GPUs, 영구 볼륨을 지원하고 여러 에이전트를 한 곳에 함께 배치할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+          "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+        },
+        {
+          "t": "p",
+          "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 정리한 뒤 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량이면 약 9초 걸린다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 건다. 컴플라이언스 에이전트가 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조한다. 일치 항목이 나오면 교체를 요청한다."
+        },
+        {
+          "t": "p",
+          "x": "같은 세션 ID로 부른 에이전트는 인스턴스 하나와 파일 시스템 하나를 함께 쓴다. 세션은 최대 14일까지 유지된다."
+        }
+      ]
     }
   }
 }

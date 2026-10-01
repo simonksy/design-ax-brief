@@ -4018,6 +4018,107 @@
           "x": "기억에는 조건이 붙었다. 30일이 지난 대화를 계속 붙들어 두려면 매달 10달러를 내야 한다. 웨어러블 AI가 향하는 지점을 프렌드 2.0이 담담하게 드러낸다."
         }
       ]
+    },
+    "gadgets/gadgets-legato-hearing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames 판매를 시작했다고 밝혔다. 특허받은 청각 보조 기술을 안경다리에 넣은 제품이다. 가격은 999달러부터이고, 중등도 이하 난청이 있는 성인용으로 설계했다. 기존 보청기의 비용과 착용감, 낙인 문제를 풀겠다는 목표다."
+        },
+        {
+          "t": "p",
+          "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템은 소리를 착용자 쪽으로 보내고 밖으로 새는 소리는 상쇄한다. 귀에서 몇 인치 떨어진 곳에서는 새는 소리가 99% 줄어든다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "모든 처리는 안경 안에서 끝나며 카메라나 녹음 기능은 없다. 무게는 렌즈를 포함해 34그램이고 배터리는 10-12시간 간다. 스타일은 세 가지이며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사다. 최근 1200만 달러를 투자받으며 스텔스 모드에서 나왔다. 안경은 온라인과 일부 U.S. 안과 업체에서 팔고, 시력 보험도 적용된다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-guided-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 들어간다. 휴대폰 카메라에 비친 모든 것을 AI가 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨를 읽어 주고, 주변 환경을 설명하고, 근처 사물을 찾아 알려 주고, 특정 사물을 자세히 묘사한다."
+        },
+        {
+          "t": "p",
+          "x": "Apple이 iPhone과 Vision Pro에 넣은 VoiceOver Live Recognition 기능처럼 시각장애인과 저시력자, 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트 때 공개된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있다. Android 9 이상 기기라면 설정 앱에서 접근성 바로가기로 지정해 둘 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "보고 있는 대상을 두고 이어서 질문할 수도 있다. Gemini가 찾아준 물건의 유통기한을 읽어 달라고 하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 소리 신호로 카메라 위치를 맞추게 돕는다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-xella-biomarkers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+          "cap": "Oura Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "Oura가 Xella Health와 제휴했다. 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼이다. 미국에서 Xella를 구독하는 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Xella는 이어 자체 AI로 이른바 \"multi-omic\" 진단을 한다. Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석해 건강 변화의 조짐일 수 있는 패턴을 찾는다. 그다음 Xella의 AI가 의사와 함께 관리 계획을 세운다. 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료도 여기에 들어갈 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Xella는 연 499달러짜리 별도 멤버십이며, New York과 New Jersey를 뺀 U.S. 모든 주에서 쓸 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 더 든다. 의료기기는 아니다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-noisy-rooms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Home이 9월 들어 세 번째 업데이트를 받는다. Google에 따르면 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 더 잘 걸러내 요청을 알아듣는 일이 늘었다. 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에는 더 빨리 응답한다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하고, 오류가 난 뒤 \"이해하지 못했어요\"만 되풀이하던 문제도 사라졌다. 휴대폰 찾기 요청 처리도 훨씬 믿을 만해졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 나가고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 바뀐다. Android와 iOS의 Nest 설정도 더 매끄러워졌다. 앱이 네트워크 자격 증명을 안전하게 캐시해 두므로 연이어 설정할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 고쳤다."
+        }
+      ]
     }
   }
 }

@@ -2922,6 +2922,118 @@
           "x": "It is a case of a different weight, showing how questions of AI provenance and disclosure can actually upend deals and the editing process."
         }
       ]
+    },
+    "books/idpa-finalists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
+          "cap": "Virginie Clayssen receiving the Digital Leadership Award last year at the Frankfurter Buchmesse"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Report has announced the shortlist for its annual Digital Publishing Awards, which went international last year. Entries from AI-focused companies increased; DPR says AI has become the standard, and what sets the finalists apart is their drive to “make books accessible, to bring audiobooks to underserved languages, and to give authors and editors better tools with human expertise firmly in charge.”"
+        },
+        {
+          "t": "p",
+          "x": "The 12 finalists, from Egypt, Germany, India, the U.K. and the U.S., were selected from 42 submissions. Product/business model: Ailaysa, Nahdet Misr Group, Pocket FM and Storywise. Process/technology: Abjjad’s Project Genome, Ernst Klett Sprachen’s allango, MPS Limited and Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books and ReadBee."
+        },
+        {
+          "t": "p",
+          "x": "Highlights include Ailaysa’s adaptive AI translation, which preserves terminology, author voice and page layout, and Project Genome’s Arabic-first audiobook pipeline, which cuts production costs by around 90 percent. Winners will be announced on October 7 at the Frankfurter Buchmesse."
+        }
+      ]
+    },
+    "books/opus-tells": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
+          "cap": "Image Credits: nomadnes / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A new study from the marketing firm Graphite looked at the writing habits of frontier models. It found 13,000 phrases at least twice as common in AI content as in human content, its definition of a “tell.” Researchers had models rewrite a corpus of 10,000 pre-ChatGPT articles from summaries to compare against the human originals."
+        },
+        {
+          "t": "p",
+          "x": "According to Graphite, Claude Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. Above all, Opus loves to tell you why things matter: “this matters” appears 116 times more often than in human writing, and “why X matters” 92 times more often."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI’s Astra leans on “corrective framing” such as “not simply X,” more than 100 times more common than in human prose. Opus 5.5 used em-dashes 99% less often than Opus 5. “They are managing to remove the most well-known tells, but other ones pop up,” said Graphite’s chief AI officer Greg Druck."
+        }
+      ]
+    },
+    "books/ai-comic-dramas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chinese enterprises are monopolizing the overseas short drama market, and AI manhua dramas have reinforced this. In August 2026, 9 of the top 10 global overseas short drama apps belonged to Chinese companies, and more than 90% of the AI manhua dramas streamed on them were made in China."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "9 out of 10: the dominance of Chinese overseas short drama platforms. Illustration: Short Drama Study Room"
+        },
+        {
+          "t": "p",
+          "x": "The author argues this mirrors Korean webtoon platforms a decade ago, which at their peak held over 60% of the global digital manhua market. Exporting one set of stories worldwide brought cultural backlash, and in September 2026 Kakao announced it would shut down Tapas, acquired for $510 million, and the international version of Kakao Webtoon."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "The exception is Kakao’s Japanese platform Piccoma, where Korean and Japanese manhua run about 6:4 and 2025 transactions reached about 140 billion yen. The lesson for Chinese AI manhua drama firms, the author says, is to localize, keeping local content near 40%."
+        }
+      ]
+    },
+    "books/ai-narration-trojan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a comment piece for The Bookseller, audiobook specialist Jessica Barnfield argues that AI voice firms like ElevenLabs aren’t widening access to audiobooks, they’re gathering data. Barnfield has spent over a decade in audiobook production, distribution and business development, working across the UK, US and international markets."
+        }
+      ]
+    },
+    "books/books-springer-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
+          "cap": "A robotic hand holds a stack of books, with 'AI' printed on the spine of the bottom book."
+        },
+        {
+          "t": "p",
+          "x": "Daniel M. Gross, a professor of English at UC Irvine, was surprised to learn that AI-generated books had entered his university library's collection. The source was not fringe — it was Springer Nature, central to the collection."
+        },
+        {
+          "t": "p",
+          "x": "Springer Nature has published 'AI-based' literature review books since May 2021. The publisher itself describes them as books that mix human-written text with machine-generated literature overviews. Because the California Digital Library buys new Springer e-book titles in bulk, these books are available to faculty and students across all UC campuses."
+        },
+        {
+          "t": "p",
+          "x": "The disclaimer appears only in the metadata. The $159.99 hardcover Criticism and Critical Theory: A Machine-Generated Overview says it was made by extractive summarization and then carefully edited, but the prose reads as formulaic from the preface on. Springer also retracted Mastering Machine Learning after Retraction Watch reported it was full of nonexistent references."
+        },
+        {
+          "t": "p",
+          "x": "Gross believes publishers are testing how much universities will tolerate. Elsevier, too, effectively answers yes when asked whether AI-generated text can be used in manuscripts. Authors remain responsible, but increasingly end up acting as quality inspectors."
+        },
+        {
+          "t": "p",
+          "x": "He offers three prescriptions. First, raise awareness: when he presented the case to Becky Imamoto, the library's head of collection strategy, and the campus AI advisory committee, most faculty had not known for five years. Second, act collectively, as UC and Springer Nature did in their 2020 open-access negotiation. Third, choose to support publishers that hold the line."
+        },
+        {
+          "t": "p",
+          "x": "Gross writes that librarians are the closest gatekeepers to what counts as knowledge, and that faculty and librarians must now refuse together."
+        }
+      ]
     }
   }
 }

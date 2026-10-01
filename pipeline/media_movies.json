@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-01",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-terrarium-ai-hybrid-set",
-      "type": "image",
-      "src": "pipeline/media/movies-terrarium-ai-hybrid-set.jpg"
-    },
-    {
-      "id": "movies-unmasking-monster-ai-mask",
-      "type": "image",
-      "src": "pipeline/media/movies-unmasking-monster-ai-mask.jpg"
-    },
-    {
-      "id": "movies-utopai-pai-x",
-      "type": "image",
-      "src": "pipeline/media/movies-utopai-pai-x.png"
-    },
-    {
-      "id": "movies-silnakwon-universe-ai",
-      "type": "image",
-      "src": "pipeline/media/movies-silnakwon-universe-ai.jpg"
-    },
-    {
-      "id": "movies-garbo-ai-skf-ad",
-      "type": "video",
-      "src": "pipeline/media/movies-garbo-ai-skf-ad.mp4",
-      "poster": "pipeline/media/movies-garbo-ai-skf-ad.jpg"
-    }
-  ]
-}
+{"date":"2026-10-02","section":"movies","media":[
+{"id":"continuum","type":"video","src":"pipeline/media/continuum.mp4","poster":"pipeline/media/continuum.jpg"},
+{"id":"affleck","type":"image","src":"pipeline/media/affleck.jpg"},
+{"id":"jadu","type":"image","src":"pipeline/media/jadu.jpg"},
+{"id":"variety-animators-ai","type":"image","src":"pipeline/media/variety-animators-ai.jpg"},
+{"id":"massive","type":"image","src":"pipeline/media/massive.jpg"}
+]}

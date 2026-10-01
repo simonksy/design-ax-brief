@@ -4462,6 +4462,157 @@
           "x": "This perspective also changes the design process itself. Deciding which pauses and confirmations to keep, rather than what to remove, becomes the design that hands judgment back to the user."
         }
       ]
+    },
+    "design/shopify-canvas-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+        },
+        {
+          "t": "p",
+          "x": "Shopify introduced Canvas, a site-building tool that lets merchants set up their store by chatting with AI. Its earlier no-code builder meant rearranging a theme's sections and blocks, and deeper customization required code or a developer."
+        },
+        {
+          "t": "p",
+          "x": "In Canvas, merchants chat with Shopify's AI agent, Sidekick, and see changes in real time. It isn't a static preview but the store's real code being rendered, so merchants can test interactivity and animation across screen sizes; Sidekick also takes screenshots to see what the merchant sees."
+        },
+        {
+          "t": "video",
+          "yt": "MYtJ_qk8WBo"
+        },
+        {
+          "t": "p",
+          "x": "Merchants can still click elements to edit directly. Shopify gave Sidekick the ability to work directly with theme files and simplified the theme architecture so it can understand and change it."
+        },
+        {
+          "t": "p",
+          "x": "Third-party themes, app blocks and extensions, markets, translations, rollouts and theme updates aren't in the initial launch, and Canvas is desktop-only; Shopify says it plans to support these over time."
+        }
+      ]
+    },
+    "design/ai-sites-wcag-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+        },
+        {
+          "t": "p",
+          "x": "Nine in 10 developers use at least one AI tool at work, per a JetBrains survey, but AI coding tools learned from a largely inaccessible web. WebAIM's latest report found average issues per page rose 10% year over year, naming AI-assisted code a likely contributor."
+        },
+        {
+          "t": "p",
+          "x": "AudioEye gave five AI tools (OpenAI, Anthropic, Google, xAI and Lovable) the same brief: build three websites meeting WCAG at the AA standard. All 15 sites failed WCAG Level A, averaging 55 issues per page, close to the typical site's 62. 91% of issues were medium or high severity."
+        },
+        {
+          "t": "p",
+          "x": "Yet 81% of teams using AI tools are confident their AI-generated code meets accessibility guidelines, while 50% of that group have noticed more issues and complaints since adopting AI."
+        },
+        {
+          "t": "p",
+          "x": "46% of surveyed organizations using AI received an accessibility complaint, demand letter or lawsuit in the last 24 months. The piece is written by AudioEye CEO Kelly Georgevich."
+        }
+      ]
+    },
+    "design/figma-weave-campaign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Brand designers use many of the same building blocks as product designers, such as type, color and layout. In this Workflow Lab, a designer at the fictional Museum of Speculative Futures (MOSF) brings the design system from Figma Design into Figma Weave to build an exhibition campaign: a poster, a billboard and social posts."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Elements from the brand designer and the MOSF design system used as input in Weave"
+        },
+        {
+          "t": "p",
+          "x": "Layout and swatch frames are pasted onto the Weave canvas as Figma nodes and connected to an Image Describer. Photos of the exhibition installations run through the same setup, and the Gen Effect node pushes the imagery further, returning something slightly different each run."
+        },
+        {
+          "t": "p",
+          "x": "The Figma node sends each image back into Figma Design frames with editable text, and social posts are localized for French, German, Japanese and Portuguese markets."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "The exhibition poster"
+        },
+        {
+          "t": "p",
+          "x": "Because the Figma nodes stay connected, a new color token or type style updates the frame in Figma, the node in Weave, and reruns the baseline."
+        }
+      ]
+    },
+    "design/headless-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+        },
+        {
+          "t": "p",
+          "x": "Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product. DataDome counted 17.7 billion AI agent requests in Q2 2026, up 45% from the quarter before."
+        },
+        {
+          "t": "p",
+          "x": "In headless AI, the UI becomes a client rather than the product. The author suggests sorting 30 days of requests and sequencing agent calls into journeys: a retry loop is confusion, a call that always precedes an abandon is a dead end."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+        },
+        {
+          "t": "p",
+          "x": "Map every door into the product, including APIs, webhooks and MCP servers; constraints that lived only in the interface were never really constraints. The craft is service design plus API literacy: field names, scopes and the tool description a model reads."
+        },
+        {
+          "t": "p",
+          "x": "Error strings become the only recovery interface an agent sees, so design for partial success, idempotent writes and explicit confirmation, and measure task completion rather than page views."
+        }
+      ]
+    },
+    "design/design-c4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "H53drzzUFfo"
+        },
+        {
+          "t": "p",
+          "x": "Maxon has released Cinema 4D 2026.4, a new version of its 3D software for motion graphics, VFX and visualization. The update's core feature is a new MCP server. It lets external AI tools such as Claude or ChatGPT run repetitive tasks automatically."
+        },
+        {
+          "t": "p",
+          "x": "An MCP (Model Context Protocol) server opens an app's features to external AI tools. The Cinema 4D MCP server officially supports Claude Desktop and ChatGPT Desktop, and runs the program through natural-language prompts. Maxon describes it as a way to offload procedural, repetitive work without breaking the creative flow."
+        },
+        {
+          "t": "p",
+          "x": "Cited uses include changing scene hierarchies or naming conventions, managing multi-pass renders, and setting up camera tracking. It can also handle basic modeling, UV editing, character rigging and animation, and particle and fluid simulations, with more complex tasks left to Python scripts."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
+          "cap": "A 3D environment assembled from off-the-shelf assets while conversing with an AI agent."
+        },
+        {
+          "t": "p",
+          "x": "Still, mindful of users wary of AI, Maxon's documentation stresses that the feature is not a generative system. \"It doesn't invent designs, doesn't generate images, and has no opinion on whether a shot looks good. It has no taste. Every instruction comes from the user, every action stays in the undo list, and turning off the MCP server means nothing happens.\""
+        },
+        {
+          "t": "p",
+          "x": "The server runs locally on the artist's computer and is off by default. Using it with other devices on the local network requires separate permission. It also connects to apps that run AI models locally, like LM Studio, though GPU memory can be a bottleneck. It only works in the full version of Cinema 4D, not the Lite edition bundled with After Effects, Team Render, or command-line rendering."
+        },
+        {
+          "t": "p",
+          "x": "Cinema 4D joins DaVinci Resolve and Unreal Engine, which added MCP servers earlier this year. Blender has an official MCP server as an add-on, and Houdini showed a technical preview in Houdini 22. Cinema 4D 2026.4 runs on Windows 10 or later and macOS 14.0 or later, and is sold only by subscription: $109 a month or $839 a year."
+        }
+      ]
     }
   }
 }

@@ -2350,6 +2350,147 @@
           "x": "The researchers aimed to design the structure so it remains trainable while staying hard to simulate on classical computers."
         }
       ]
+    },
+    "science/riemannclaude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+          "cap": "Could AI contribute to understanding prime numbers?"
+        },
+        {
+          "t": "p",
+          "x": "An AI model's failed attempt to crack one of math's most notorious unsolved problems has helped a human mathematician make progress on a related puzzle. On Aug. 10, Anthropic published a preprint describing how an unreleased version of Claude attempted to prove (or disprove) the Riemann hypothesis."
+        },
+        {
+          "t": "p",
+          "x": "The attempt failed, so the team settled on a lower objective: the minimum proportion of zeroes of the Riemann zeta function that sit on the critical line. Since 1989, mathematicians have known that at least 40% do. Claude achieved 67.25%."
+        },
+        {
+          "t": "p",
+          "x": "Youness Lamzouri of the University of Lorraine found Claude's paper too complicated, so he read the work Claude had drawn on and spotted a constraint that bypassed much of the math. His simpler proof reached the same 67.25% and showed that at most 11% of zeroes are neither simple nor on the line."
+        },
+        {
+          "t": "p",
+          "x": "\"This is what happened with Claude and me,\" Lamzouri said, likening the AI to big machines extracting a treasure while humans work to understand it. Fields Medalist James Maynard called it a positive example of how things can progress in light of AI."
+        }
+      ]
+    },
+    "science/stratego": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from MIT, Carnegie Mellon University, New York University and Stanford University developed an AI that defeated top-ranked human players of the board wargame Stratego by a large margin, something no AI system had achieved. The work appears in Nature."
+        },
+        {
+          "t": "p",
+          "x": "In Stratego, the identity of each piece stays hidden until it collides with another, and possible piece configurations number more than 10 to the 66th power. Past efforts such as Google DeepMind's cost millions of dollars to train and still could not beat top human players."
+        },
+        {
+          "t": "p",
+          "x": "The system, Ataraxos, learns a blueprint strategy through self-play reinforcement learning, then uses decision-time planning with a generative model that estimates the opponent's hidden pieces. It surpassed DeepNash using less than one hundredth of the training examples."
+        },
+        {
+          "t": "p",
+          "x": "Ataraxos beat the world's strongest Stratego player 15-1-4 and went 39-2 against top players at the world championship. It also reached superhuman play in Barrage Stratego, Hanabi and Dou dizhu. Senior author Gabriele Farina says it could help with hidden-information problems such as negotiations or cybersecurity."
+        }
+      ]
+    },
+    "science/spaceweather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Extreme space-weather events can induce currents in transmission networks that damage equipment. During a summer internship at Microsoft Research, the author built a machine learning system that forecasts space-weather risk across 66,935 substations in the continental United States, producing location-specific estimates 30-60 minutes ahead."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+          "cap": "End-to-end forecasting pipeline from L1 solar-wind measurements to location-specific risk estimates across 66,935 U.S. substations."
+        },
+        {
+          "t": "p",
+          "x": "Solar-wind measurements feed forecasts of the AE and Dst geomagnetic indices; a gradient-boosting model combines them with each substation's latitude and geological conductivity to estimate dB/dt, the magnetic-field change linked to induced-current risk. A system of 50 AI agents helped explore features and model configurations."
+        },
+        {
+          "t": "p",
+          "x": "Over 2020-2026, it detected 76.5% of major, 81.2% of severe and 64.1% of extreme events, and produced estimates for all substations in about 333 milliseconds."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+          "cap": "Demonstration of a continental GIC risk assessment under a representative major-storm scenario."
+        },
+        {
+          "t": "p",
+          "x": "Further validation with utilities and operational data would be needed before the system could be used in grid operations."
+        },
+        {
+          "t": "video",
+          "yt": "MCB3zM5dEVI"
+        }
+      ]
+    },
+    "science/adaptivemath": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Elementary school students who use an AI-supported learning tool learn arithmetic more quickly than children who do not, according to a multiyear Radboud University study involving nearly 8,000 children. But the researchers warn it's no miracle cure: the teacher's role remains essential."
+        },
+        {
+          "t": "p",
+          "x": "The team followed 7,885 Dutch pupils over three years, between 2014 and 2017, comparing classes that used an adaptive system, which adjusts exercises to each student's level, with classes that did not. The study is published in Learning and Instruction."
+        },
+        {
+          "t": "p",
+          "x": "\"We have found small effects, but generally a positive trend,\" says education researcher Susanne de Mooij, adding that the effect was clearest in large schools and vulnerable schools with many students from less advantaged backgrounds."
+        },
+        {
+          "t": "p",
+          "x": "The tool supports teachers rather than replacing them. \"A teacher cannot adapt the lesson content to 30 students at the same time,\" she says, and the teacher always remains in control."
+        }
+      ]
+    },
+    "science/science-percolation-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
+          "cap": "sorbetto/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "When do enough small random events add up to form a single structure? How many holes does a sponge need before liquid can escape? Percolation theory, a branch of probability theory, asks how well a network connects, and at its center sat one long-unsolved problem."
+        },
+        {
+          "t": "p",
+          "x": "Picture a vast network of pipes, each one opening or closing with a given probability. If the probability p that a pipe is open is low, the probability θ(p) that the origin belongs to an infinite cluster is zero. Once p crosses a threshold pc, θ(p) becomes greater than zero. In 1980, Harry Kesten showed this value was 1/2 for the two-dimensional square lattice, but even now only a handful of such thresholds have been found."
+        },
+        {
+          "t": "p",
+          "x": "The bigger question was the shape of the transition. It was already known that in 1- and 2-dimensional lattices and in 11 or more dimensions, θ(p) rises continuously rather than jumping suddenly from zero. The open cases ran from 3 to 10 dimensions. Benedikt Jahnel, a mathematician at TU Braunschweig, has said, “Whoever solves this problem will probably win a Fields Medal.”"
+        },
+        {
+          "t": "p",
+          "x": "Hugo Duminil-Copin, who won the Fields Medal in 2022, is among those who tried and failed to crack the conjecture. In a post on his blog Proofs and Prompts on August 30, 2026, he worried that AI would end up solving the problem before humans did. Days later, that is exactly what happened. Anthropic, the AI company, released a proof produced by a large language model, confirming a conclusion mathematicians had suspected for decades: that the transition is continuous in 3 through 10 dimensions as well."
+        },
+        {
+          "t": "p",
+          "x": "Jahnel said he felt “ambivalent.” Alongside the joy of seeing the conjecture finally proved, there was a deflation in knowing that AI had taken the decisive final step. He believes the meaning of the medal itself now needs rethinking, arguing that mathematics includes posing conjectures and carrying proofs and insight into human language and textbooks, not just the proof itself. Duminil-Copin likewise wrote that a math problem is like “a lighthouse on a night sea,” and that the understanding gained from wrestling with the problem matters more than the proof."
+        }
+      ]
     }
   }
 }

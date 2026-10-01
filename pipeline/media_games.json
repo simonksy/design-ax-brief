@@ -1,31 +1,34 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "section": "games",
   "media": [
     {
-      "id": "games-uebox-unreal-agent",
+      "id": "qssr",
       "type": "image",
-      "src": "pipeline/media/games-uebox-unreal-agent.png"
+      "src": "pipeline/media/qssr.jpg"
     },
     {
-      "id": "games-ryzachat-input-limits",
-      "type": "image",
-      "src": "pipeline/media/games-ryzachat-input-limits.jpg"
+      "id": "unity-grok-build-plugin",
+      "type": "video",
+      "src": "pipeline/media/unity-grok-build-plugin.mp4",
+      "poster": "pipeline/media/unity-grok-build-plugin.jpg"
     },
     {
-      "id": "games-tsuda-voice-ruling",
-      "type": "image",
-      "src": "pipeline/media/games-tsuda-voice-ruling.jpg"
+      "id": "uefnclaudekit",
+      "type": "video",
+      "src": "pipeline/media/uefnclaudekit.mp4",
+      "poster": "pipeline/media/uefnclaudekit.jpg"
     },
     {
-      "id": "games-borderless-dlss5",
+      "id": "twitchadsai",
       "type": "image",
-      "src": "pipeline/media/games-borderless-dlss5.jpg"
+      "src": "pipeline/media/twitchadsai.jpg"
     },
     {
-      "id": "games-logitech-replay",
-      "type": "image",
-      "src": "pipeline/media/games-logitech-replay.jpg"
+      "id": "sinametahuman",
+      "type": "video",
+      "src": "pipeline/media/sinametahuman.mp4",
+      "poster": "pipeline/media/sinametahuman.jpg"
     }
   ]
 }

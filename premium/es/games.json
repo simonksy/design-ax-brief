@@ -3149,6 +3149,157 @@
           "x": "Es un caso que permite asomarse a hasta dónde llevan en realidad los estudios la IA generativa dentro de su proceso de concepto y diseño, y a qué forma están tomando ahora las normas de divulgación que fijan ese límite."
         }
       ]
+    },
+    "games/unity-grok-build-plugin": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Fx1orSJc8d4"
+        },
+        {
+          "t": "p",
+          "x": "Unity ha lanzado su plugin oficial para Grok Build, que lleva sus pautas de ingeniería directamente a la terminal. Se instala con un solo comando, sin configuración manual, y funciona de inmediato con Unity 6 y versiones posteriores."
+        },
+        {
+          "t": "p",
+          "x": "El plugin incluye más de 30 skills de Unity escritas por los equipos de funciones de Unity, que abarcan áreas como UI Toolkit, URP, Shader Graph, física, LevelPlay y localización, además de flujos de trabajo de Unity CLI que permiten al agente controlar un Unity Editor en ejecución y compilar y probar proyectos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+        },
+        {
+          "t": "p",
+          "x": "Según el blog de Unity, Grok Build es el tercer agente de programación que recibe el plugin, después de Claude Code y Codex. Las skills son idénticas en los tres y se mantienen desde un único repositorio, de modo que todos los agentes dan la misma orientación de Unity ante la misma pregunta. Unity afirma que en octubre publicará datos sobre cómo usan los desarrolladores la CLI y el plugin con estos agentes."
+        }
+      ]
+    },
+    "games/uefnclaudekit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un creador de la comunidad ha publicado la v1.84 del UEFN Claude Team Starter Kit, que convierte una configuración de Claude Code + Unreal MCP para UEFN en un equipo de desarrollo de IA funcional con un panel en vivo. Es gratuito y de código abierto."
+        },
+        {
+          "t": "video",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+        },
+        {
+          "t": "p",
+          "x": "La Agent Console muestra 12 agentes especializados (programador, revisores, QA, control de lanzamiento, planificador y más) con cada traspaso visible en tiempo real, junto con estadísticas de la isla como partidas, retención D1/D7 y posición en el género. El equipo también redacta y actualiza la especificación, la hoja de ruta y el backlog de errores mientras trabaja."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
+          "cap": "Agent Console"
+        },
+        {
+          "t": "p",
+          "x": "Como novedad en la v1.84, las skills de género (incluidas supervivencia y roguelike) aprenden patrones de tus propios proyectos. Cada lección se propone, nunca se aplica en silencio, y un patrón solo pasa a ser \"probado\" cuando se cumple en varios mapas. Los proyectos también se actualizan solos a partir de una plantilla al inicio de cada sesión."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
+          "cap": "Diagrama del pipeline"
+        },
+        {
+          "t": "p",
+          "x": "Tras cada prueba de juego se ejecutan comprobaciones automáticas de errores y regresiones, con una compuerta de go/no-go antes del lanzamiento."
+        }
+      ]
+    },
+    "games/twitchadsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el Snarketing Podcast, el CEO de Twitch, Dan Clancy, dijo que, como el sitio ya transcribe los streams, \"últimamente también ha estado usando IA para identificar a streamers que quizá no encajen con una marca\", de modo que se puedan retirar anuncios de las emisiones que no se ajusten a las consideraciones de un anunciante."
+        },
+        {
+          "t": "p",
+          "x": "Los streamers no están entusiasmados. \"Ahhh, así que por eso bajaron los ingresos por anuncios\", dijo JP \"itmeJP\" McDaniel, mientras que la Vtuber LuminusRed temía que ser lesbiana pudiera hacer que la IA le retirara los anuncios. Otros preguntaron si los creadores llegarán a saber alguna vez por qué fueron señalados."
+        },
+        {
+          "t": "p",
+          "x": "En una actualización, un representante de Twitch dijo a Aftermath que cada anunciante fija sus propias preferencias y que un mejor emparejamiento debería abrir más oportunidades publicitarias. \"El personal de Twitch revisa el contenido señalado en varias etapas y, como siempre, cualquier cambio en la elegibilidad publicitaria a largo plazo sería una decisión humana\", afirmó el representante, y añadió que Twitch está creando formas de avisar a los creadores cuando las preferencias de los anunciantes afectan a sus ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Aftermath sostiene que siguen abiertas las preguntas sobre qué criterios sigue la IA y dónde recae la responsabilidad."
+        }
+      ]
+    },
+    "games/sinametahuman": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "He estado creando un plugin que conecta cualquier proyecto de UE5 con un \"cerebro\" de IA local, para que un MetaHuman pueda hablar y actuar dentro del nivel, sin IA en la nube."
+        },
+        {
+          "t": "video",
+          "yt": "ho8m2GuVW3k"
+        },
+        {
+          "t": "p",
+          "x": "En esta demo ella es instructora de seguridad: camina hasta un motor eléctrico, explica sus controles y pulsa los botones ella misma, de modo que el motor realmente arranca y se detiene."
+        },
+        {
+          "t": "p",
+          "x": "El movimiento corporal lo genera en directo ARDY (text-to-motion) de NVIDIA y se retargetea al MetaHuman, sin recursos de animación. Al caminar se usa el root motion generado a lo largo del NavMesh, así que los pies no se deslizan."
+        },
+        {
+          "t": "p",
+          "x": "Ella maneja el nivel llamando a sus propias funciones de Blueprint (StartMotor, StopMotor…). El plugin las descubre automáticamente y lee las variables del Blueprint (IsRunning, EmergencyLatched) y sus mensajes de Print String, así que sabe cuándo una máquina se niega (p. ej., \"press RESET first\")."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Toca cualquier cosa en el stream para preguntar \"¿qué es esto?\" o decir \"ve allí\" (line trace desde la vista). Lip sync sincronizado por fonemas, expresiones faciales, un rig de luces de retrato que sigue a la cámara y un primer plano del rostro con profundidad de campo. Pixel Streaming a teléfonos, además de una API de JavaScript (p. ej., setExpression(\"uncertain\", 0.4))."
+        },
+        {
+          "t": "p",
+          "x": "La parte de IA se ejecuta en la misma máquina (una GPU RTX): reconocimiento de voz local, un LLM local, TTS neuronal y un grafo de conocimiento construido a partir de los propios documentos de la empresa."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
+        },
+        {
+          "t": "p",
+          "x": "Cualquier comentario es muy bienvenido, ¡sobre todo sobre el movimiento y el lip sync!"
+        }
+      ]
+    },
+    "games/games-uebox-unreal-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/ueboxai/uebox/main/website/public/shots/ai-conversation.png",
+          "cap": "Pantalla de conversación de UE Box: pregunta, llamada a herramienta, respuesta"
+        },
+        {
+          "t": "p",
+          "x": "En el foro de la Comunidad de Desarrolladores de Epic apareció UE Box (虚幻盒子), un agente de IA de código abierto. Su desarrollador explicó que la herramienta no solo conversa sobre código, sino que trabaja directamente dentro del Editor Unreal."
+        },
+        {
+          "t": "p",
+          "x": "Si se le da un objetivo, coloca actores, corrige Blueprints y conecta materiales. Cuando aparece un error de compilación en C++, lo corrige y vuelve a ejecutar. En los pasos de riesgo se detiene a esperar aprobación, y cada ronda deja un registro de cambios que se puede comparar con el estado del editor."
+        },
+        {
+          "t": "p",
+          "x": "Con el plugin UnrealAgentLink usa más de 100 herramientas del motor, e incluye 25 habilidades predefinidas para tareas habituales de UE. No apunta solo a los entornos MCP más recientes: admite UE desde la versión 5.0 hasta la 5.8. Funciona en local sin necesidad de cuenta, y la clave de API permanece solo en el PC del usuario. La aplicación tiene licencia Apache-2.0 y el plugin licencia MIT."
+        },
+        {
+          "t": "p",
+          "x": "Hay un sitio en inglés y un repositorio en GitHub (ueboxai/uebox) abiertos, y también se puede descargar un instalador para Windows. El desarrollador pidió comentarios sin filtros sobre los puntos donde las ediciones del agente se sienten inestables, y donde los grafos de Blueprint o de materiales todavía se rompen."
+        }
+      ]
     }
   }
 }

@@ -3360,6 +3360,128 @@
           "x": "La memoria viene con una condición. Para conservar conversaciones de más de 30 días hay que pagar 10 dólares al mes. Friend 2.0 muestra, sin rodeos, hacia dónde se dirige la IA ponible."
         }
       ]
+    },
+    "gadgets/gadgets-legato-hearing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "La startup de tecnología auditiva Legato anunció que sus gafas auditivas AI-based, Legato Frames, ya están disponibles. Integran su tecnología patentada de asistencia auditiva en las patillas de la montura. Con un precio desde $999, están diseñadas para adultos con pérdida auditiva de hasta grado moderado y buscan resolver el costo, la comodidad y el estigma de los audífonos tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de micrófonos direccionales, el sistema AI-powered de Legato distingue las voces del ruido de fondo, amplifica las voces y reduce los sonidos no deseados. Un sistema de doble altavoz dirige el sonido al usuario y cancela el que se escapa, reduciéndolo un 99% a unas pocas pulgadas del oído."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "Todo el procesamiento ocurre en las gafas, sin cámaras ni grabación. Pesan 34 gramos con lentes, ofrecen 10-12 horas de batería, vienen en tres estilos y admiten lentes graduadas y streaming por Bluetooth."
+        },
+        {
+          "t": "p",
+          "x": "Legato, fundada en 2024 por los veteranos de Bose Mehul Trivedi y Steve Romine, salió recientemente del modo sigiloso con $12 millones de financiación. Las monturas se venden en línea y a través de proveedores de salud visual seleccionados en U.S., y pueden cubrirse con el seguro de visión."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-guided-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Guided Vision llega hoy a Gemini Live en dispositivos Android compatibles para usar IA y ofrecer descripciones de audio en tiempo real de todo lo que se enfoque con la cámara del teléfono. Al compartir la cámara en Gemini Live, la IA de Google puede ayudar a leer texto pequeño, describir el entorno, encontrar o identificar objetos cercanos y describir detalles de objetos concretos."
+        },
+        {
+          "t": "p",
+          "x": "Al igual que la función VoiceOver Live Recognition que Apple ha añadido al iPhone y al Vision Pro, está pensada para personas ciegas, con baja visión o que necesitan ayuda en situaciones concretas. Además de en la app Gemini, Guided Vision también está disponible en Google TalkBack, y los usuarios pueden configurar un acceso directo de accesibilidad en la app Ajustes de los dispositivos con Android 9 o posterior, después de que se anunciara en una reciente tanda de actualizaciones de Pixel."
+        },
+        {
+          "t": "p",
+          "x": "También se pueden hacer preguntas de seguimiento sobre lo que se está mirando, como pedir a Gemini que lea la fecha de caducidad de un artículo que ayudó a encontrar. Google afirma que Gemini dará indicaciones sonoras para ayudar a encuadrar la cámara si se pregunta por algo que no está en la imagen. Sin embargo, Google advierte a los usuarios que no confíen en Guided Vision para tareas como “navegación, orientación para desplazarse con seguridad o detección de obstáculos”, ni como sustituto de un bastón o una ayuda para la movilidad."
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-xella-biomarkers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+          "cap": "Oura Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "Oura se ha asociado con Xella Health, una plataforma de salud de precisión para mujeres que combina pruebas de laboratorio con atención por telemedicina. Los propietarios de un anillo Oura en EE. UU. que se suscriban a Xella pueden compartir datos de sueño, HRV, frecuencia cardíaca en reposo, tendencias de temperatura, recuperación, actividad y ciclo menstrual."
+        },
+        {
+          "t": "p",
+          "x": "Después, Xella realiza lo que denomina diagnósticos \"multi-omic\", con una IA propia que analiza los datos fisiológicos de Oura junto con hormonas, metabolismo, inflamación, nutrición, salud reproductiva y riesgo cardiometabólico para detectar patrones que puedan indicar un cambio en la salud. Luego, la IA de Xella elabora un plan de atención con un médico, que puede incluir tratamiento para más de 130 afecciones que afectan a las mujeres, como la endometriosis."
+        },
+        {
+          "t": "p",
+          "x": "\"Los wearables han transformado nuestra capacidad de detectar cambios fisiológicos\", afirmó Kelly Lacob, quien dirige Xella Health como CEO y la cofundó."
+        },
+        {
+          "t": "p",
+          "x": "Xella es una membresía aparte que cuesta $499 al año y está disponible en todos los estados de U.S. salvo New York y New Jersey. El Oura Ring 5 parte de $399 más $5.99 al mes y no es un dispositivo médico."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-noisy-rooms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Home recibe su tercera actualización de este mes de septiembre. Google afirma que ha mejorado la forma en que Gemini for Home filtra las conversaciones de fondo cuando se le da una orden en una habitación ruidosa, de modo que las solicitudes se registran con más frecuencia, y que responde más rápido a los comandos habituales de hogar inteligente, multimedia, alarmas y temporizadores."
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home también debería ser más fiable en hogares multilingües y ya no se queda atascado repitiendo \"No lo he entendido\" tras un error. Pedirle que encuentre el teléfono ahora es mucho más fiable."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En la app Home, deslizar el brillo hasta el 0% ahora envía un comando de apagado real, los mosaicos de cámaras y timbres en línea aparecen como iconos rellenos, y la configuración de Nest en Android e iOS es más fluida, ya que la app puede almacenar en caché de forma segura las credenciales de red para configuraciones consecutivas."
+        },
+        {
+          "t": "p",
+          "x": "La actualización también corrige el estado sin conexión de los interruptores Matter, los mosaicos de Favorites, la reproducción y el almacenamiento en búfer de las cámaras, el historial de las cámaras Walmart Onn y los nombres de dispositivos en Automations."
+        }
+      ]
+    },
+    "gadgets/gadgets-fire-tv-alexa-plus-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/intro-1790771374.jpg",
+          "cap": "Alexa+ podrá manejar preguntas más complejas"
+        },
+        {
+          "t": "p",
+          "x": "A partir de noviembre, los usuarios de Fire TV en Estados Unidos podrán usar las nuevas funciones de Alexa+ en la pantalla del televisor y en la app móvil. Se crea un centro dedicado al asistente de IA, con sugerencias de instrucciones adaptadas al historial de uso. Alexa+ incorpora capacidad de razonamiento, por lo que puede responder preguntas más complejas. Recurre tanto a las suscripciones y el historial de visualización del usuario como a temas de actualidad del mundo real. Por ejemplo, puede responder preguntas como “Alexa, find shows that were nominated for the recent Emmys but got snubbed” o “Alexa, show me MCU films based on their in-universe timeline order”."
+        },
+        {
+          "t": "p",
+          "x": "Alexa+ también llega a la app móvil mejorada de Fire TV. Si se le pasa el enlace de un artículo sobre una serie o película, añade los títulos mencionados a la lista de interés. Si se sube una foto, también recomienda títulos que esa imagen evoca. Si un lugar, una captura de pantalla o un póster recuerdan a algo, basta con mostrárselo a Alexa+. Hace sugerencias a partir de lo que reconoce en la foto. La app móvil también admite enlaces directos a los servicios de streaming. Al tocar el icono de streaming dentro de la app, el contenido se reproduce de inmediato en el teléfono, y si se quiere pasar a la pantalla grande, se puede continuar desde la fila ‘Continue Watching’ del televisor."
+        },
+        {
+          "t": "p",
+          "x": "Fire TV ahora reúne en un solo lugar el contenido en vivo de más de 40 apps, como YouTube TV, Peacock, Tubi, Sling y DirecTV. En el centro de juegos se pueden elegir juegos en la nube de Xbox, Luna y NVIDIA GeForce NOW desde un mismo sitio. Esta actualización llegará a los usuarios de Estados Unidos dentro de este año y a otras regiones a principios del próximo. Amazon también lanzará esta otoño una nueva app de música para Fire TV, que reunirá videos musicales, podcasts y transmisiones en vivo de conciertos y festivales."
+        }
+      ]
     }
   }
 }

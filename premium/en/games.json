@@ -3217,6 +3217,157 @@
           "x": "It's a case that offers a glimpse of how far studios actually bring generative AI into their concept and design pipelines, and what shape the disclosure norms setting those boundaries are now taking."
         }
       ]
+    },
+    "games/unity-grok-build-plugin": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Fx1orSJc8d4"
+        },
+        {
+          "t": "p",
+          "x": "Unity has released its official plugin for Grok Build, bringing its engineering guidance directly to the terminal. One command installs it, with no manual setup, and it works out of the box with Unity 6 and above."
+        },
+        {
+          "t": "p",
+          "x": "The plugin carries 30+ Unity skills written by Unity feature teams, covering areas such as UI Toolkit, URP, Shader Graph, physics, LevelPlay and localization, plus Unity CLI workflows that let the agent drive a running Unity Editor and build and test projects."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+        },
+        {
+          "t": "p",
+          "x": "According to Unity's blog, Grok Build is the third coding agent to get the plugin after Claude Code and Codex. The skills are identical across all three and maintained from a single repository, so every agent gives the same Unity guidance for the same question. Unity says it will publish data on how developers use the CLI and plugin with these agents in October."
+        }
+      ]
+    },
+    "games/uefnclaudekit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A community creator has released v1.84 of the UEFN Claude Team Starter Kit, which turns a Claude Code + Unreal MCP setup for UEFN into a working AI dev team with a live dashboard. It is free and open source."
+        },
+        {
+          "t": "video",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The Agent Console shows 12 specialist agents (coder, reviewers, QA, release gate, planner and more) with every handoff visible in real time, alongside island stats such as plays, D1/D7 retention and genre rank. The team also writes and updates the spec, roadmap and bug backlog as it works."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
+          "cap": "Agent Console"
+        },
+        {
+          "t": "p",
+          "x": "New in v1.84, genre skills (survival and roguelike included) learn patterns from your own projects. Every lesson is proposed, never applied silently, and a pattern becomes \"proven\" only when it holds across several maps. Projects also update themselves from a template at the start of each session."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
+          "cap": "Pipeline diagram"
+        },
+        {
+          "t": "p",
+          "x": "Automatic bug and regression checks run after every playtest, with a go/no-go gate before release."
+        }
+      ]
+    },
+    "games/twitchadsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On the Snarketing Podcast, Twitch CEO Dan Clancy said that because the site already transcribes streams, it has \"lately been using AI to also identify streamers that may not match a brand\" so ads can be pulled from broadcasts that don't fit an advertiser's considerations."
+        },
+        {
+          "t": "p",
+          "x": "Streamers are not enthused. \"Ohhh so that's why ad revenue dropped,\" said JP \"itmeJP\" McDaniel, while Vtuber LuminusRed worried that being a lesbian could cause the AI to remove ads. Others asked whether creators will ever learn what they were flagged for."
+        },
+        {
+          "t": "p",
+          "x": "In an update, a Twitch representative told Aftermath that each advertiser sets its own preferences and that better matching should open up more ad opportunities. \"Twitch staff reviews flagged content at multiple stages, and as always, any changes to longer term ad eligibility would be a human decision,\" the rep said, adding that Twitch is building ways to tell creators when advertiser preferences affect their revenue."
+        },
+        {
+          "t": "p",
+          "x": "Aftermath argues questions remain about what standards the AI follows and where accountability lies."
+        }
+      ]
+    },
+    "games/sinametahuman": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "I've been building a plugin that links any UE5 project to a local AI \"brain\", so a MetaHuman can talk and act inside the level, with no cloud AI."
+        },
+        {
+          "t": "video",
+          "yt": "ho8m2GuVW3k"
+        },
+        {
+          "t": "p",
+          "x": "In this demo she's a safety trainer: she walks to an electric motor, explains its controls, and presses the buttons herself, so the motor really starts and stops."
+        },
+        {
+          "t": "p",
+          "x": "Body motion is generated live by NVIDIA's ARDY (text-to-motion) and retargeted onto the MetaHuman, with no animation assets. Walking uses the generated root motion along the NavMesh, so the feet don't slide."
+        },
+        {
+          "t": "p",
+          "x": "She operates the level by calling its own Blueprint functions (StartMotor, StopMotor…). The plugin discovers them automatically and reads the Blueprint's variables (IsRunning, EmergencyLatched) and its Print String messages, so she knows when a machine refuses (e.g. \"press RESET first\")."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Tap anything on the stream to ask \"what is this?\" or \"go there\" (line trace from the view). Phoneme-timed lip sync, facial expressions, a portrait light rig that follows the camera, and a face close-up with depth of field. Pixel Streaming to phones, plus a JavaScript API (e.g. setExpression(\"uncertain\", 0.4))."
+        },
+        {
+          "t": "p",
+          "x": "The AI side runs on the same machine (one RTX GPU): local speech recognition, a local LLM, neural TTS, and a knowledge graph built from the company's own documents."
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
+        },
+        {
+          "t": "p",
+          "x": "Feedback is very welcome, especially on the motion and the lip sync!"
+        }
+      ]
+    },
+    "games/games-uebox-unreal-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/ueboxai/uebox/main/website/public/shots/ai-conversation.png",
+          "cap": "UE Box chat screen: question, tool call, answer"
+        },
+        {
+          "t": "p",
+          "x": "An open-source AI agent called UE Box (虚幻盒子) appeared on the Epic Developer Community forum. Its developer said the tool does not just talk about code — it works directly inside the Unreal Editor."
+        },
+        {
+          "t": "p",
+          "x": "Given a goal, it places actors, fixes Blueprints, and wires up materials. When a C++ compile error occurs, it fixes the error and reruns the build. It pauses for approval at risky steps, and each round leaves a change log you can check against the editor state."
+        },
+        {
+          "t": "p",
+          "x": "The UnrealAgentLink plugin gives it access to more than 100 engine tools, and 25 built-in skills cover common UE tasks. It is not built only for the latest MCP setups — it supports UE 5.0 through 5.8. It runs locally without an account, and the API key stays only on the user's PC. The app is licensed under Apache-2.0, and the plugin under MIT."
+        },
+        {
+          "t": "p",
+          "x": "An English-language site and a GitHub repository (ueboxai/uebox) are open, and a Windows installer is available. The developer asked for blunt feedback on places where the agent's edits feel unstable, and where Blueprint or material graphs still break."
+        }
+      ]
     }
   }
 }

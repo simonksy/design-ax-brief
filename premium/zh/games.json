@@ -2833,6 +2833,157 @@
           "x": "这个案例让人得以一窥,工作室究竟把生成式AI引入概念与设计流程到何种程度,以及划定这一界限的公开规范如今正在形成怎样的面貌。"
         }
       ]
+    },
+    "games/unity-grok-build-plugin": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Fx1orSJc8d4"
+        },
+        {
+          "t": "p",
+          "x": "Unity发布了面向xAI旗下Grok Build的官方插件，将其工程指导直接带进终端。只需一条命令即可安装，无需手动设置，在Unity 6及以上版本中开箱即用。"
+        },
+        {
+          "t": "p",
+          "x": "该插件包含30多项由Unity功能团队编写的Unity技能，涵盖UI Toolkit、URP、Shader Graph、物理、LevelPlay和本地化等领域，另有Unity CLI工作流，可让智能体操控正在运行的Unity Editor，并构建和测试项目。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+        },
+        {
+          "t": "p",
+          "x": "据Unity博客介绍，Grok Build是继Claude Code和Codex之后第三个获得该插件的编程智能体。三者的技能完全相同，并由同一个代码仓库维护，因此对同一个问题，每个智能体都会给出相同的Unity指导。Unity表示，将于10月公布开发者如何配合这些智能体使用CLI和插件的数据。"
+        }
+      ]
+    },
+    "games/uefnclaudekit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一位社区创作者发布了UEFN Claude Team Starter Kit v1.84，可将UEFN的Claude Code + Unreal MCP环境变成一支带实时仪表盘、真正可用的AI开发团队。它免费且开源。"
+        },
+        {
+          "t": "video",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Agent Console显示12个专职智能体（编码、审查、QA、发布把关、规划等），每一次交接都实时可见，同时还列出游玩次数、D1/D7留存和类型排名等岛屿数据。团队在工作中还会编写并更新规格文档、路线图和缺陷待办清单。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
+          "cap": "Agent Console"
+        },
+        {
+          "t": "p",
+          "x": "v1.84新增了类型技能（包括生存和Roguelike），可从你自己的项目中学习模式。每条经验都会以提议形式提出，绝不会悄悄应用；只有在多张地图上都成立时，一个模式才会被标为\"已验证\"。项目还会在每次会话开始时从模板自动更新。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
+          "cap": "流程示意图"
+        },
+        {
+          "t": "p",
+          "x": "每次试玩后都会自动运行缺陷和回归检查，发布前还设有go/no-go关卡。"
+        }
+      ]
+    },
+    "games/twitchadsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Twitch CEO Dan Clancy在Snarketing Podcast上表示，由于网站本来就会转录直播内容，平台\"最近也开始用AI识别可能与品牌不匹配的主播\"，以便从不符合广告主考量的直播中撤下广告。"
+        },
+        {
+          "t": "p",
+          "x": "主播们对此并不买账。JP \"itmeJP\" McDaniel说：\"哦——原来广告收入是这么掉的。\"Vtuber LuminusRed则担心，自己是女同性恋可能会导致AI撤掉广告。还有人问，创作者究竟能否得知自己因何被标记。"
+        },
+        {
+          "t": "p",
+          "x": "在后续更新中，一位Twitch代表告诉Aftermath，每个广告主都会设定自己的偏好，而更好的匹配应会带来更多广告机会。这位代表说：\"Twitch员工会在多个环节审核被标记的内容，并且一如既往，任何涉及长期广告资格的变更都将由人来决定。\"他还补充说，Twitch正在开发相关功能，在广告主偏好影响创作者收入时告知他们。"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath认为，AI遵循什么标准、责任由谁承担，这些问题仍未得到解答。"
+        }
+      ]
+    },
+    "games/sinametahuman": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我一直在开发一款插件，可将任意UE5项目连接到本地AI\"大脑\"，让MetaHuman无需云端AI就能在关卡中说话和行动。"
+        },
+        {
+          "t": "video",
+          "yt": "ho8m2GuVW3k"
+        },
+        {
+          "t": "p",
+          "x": "在这个演示中，她是一名安全培训师：她走到一台电动机前，讲解它的控制装置，并亲自按下按钮，让电机真正启动和停止。"
+        },
+        {
+          "t": "p",
+          "x": "身体动作由NVIDIA的ARDY（text-to-motion）实时生成，并重定向到MetaHuman上，不使用任何动画资产。行走时沿NavMesh使用生成的根运动，因此脚步不会打滑。"
+        },
+        {
+          "t": "p",
+          "x": "她通过调用关卡自身的Blueprint函数（StartMotor、StopMotor…）来操作关卡。插件会自动发现这些函数，并读取Blueprint的变量（IsRunning、EmergencyLatched）及其Print String消息，因此当机器拒绝执行时（例如\"press RESET first\"），她能知道。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "点击画面中的任何东西，就可以问\"这是什么？\"或说\"去那里\"（从视角发出线迹检测）。另有按音素计时的口型同步、面部表情、跟随摄像机的人像灯光组，以及带景深的面部特写。支持向手机进行Pixel Streaming，并提供JavaScript API（例如setExpression(\"uncertain\", 0.4)）。"
+        },
+        {
+          "t": "p",
+          "x": "AI部分运行在同一台机器上（一块RTX GPU）：本地语音识别、本地LLM、神经TTS，以及基于公司自有文档构建的知识图谱。"
+        },
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
+        },
+        {
+          "t": "p",
+          "x": "非常欢迎反馈，尤其是关于动作和口型同步的！"
+        }
+      ]
+    },
+    "games/games-uebox-unreal-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/ueboxai/uebox/main/website/public/shots/ai-conversation.png",
+          "cap": "UE Box对话界面:提问、工具调用、回答"
+        },
+        {
+          "t": "p",
+          "x": "Epic开发者社区论坛上出现了开源AI代理UE Box(虚幻盒子)。开发者介绍说，这款工具不只是聊代码，而是直接在Unreal编辑器里工作。"
+        },
+        {
+          "t": "p",
+          "x": "给定目标后，它会放置角色(Actor)、修改蓝图、连接材质。遇到C++编译错误时会修复后重新运行。遇到风险步骤会暂停等待批准，每一轮留下的变更日志可以用来和编辑器状态对照。"
+        },
+        {
+          "t": "p",
+          "x": "借助UnrealAgentLink插件，它能调用100多个引擎工具，并内置25个常用UE任务技能。它瞄准的不只是最新的MCP环境，还支持从UE 5.0到5.8的版本。无需账号即可在本地运行，API密钥也只留在用户电脑上。应用采用Apache-2.0许可，插件采用MIT许可。"
+        },
+        {
+          "t": "p",
+          "x": "英文网站和GitHub仓库(ueboxai/uebox)已经开放，还提供Windows版安装文件。开发者表示，希望大家对代理编辑让人感到不安的地方，以及蓝图或材质图表仍会出错的地方给出直接的反馈。"
+        }
+      ]
     }
   }
 }

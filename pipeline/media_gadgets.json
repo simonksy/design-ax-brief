@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-01",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-fire-tv-alexa-plus-hub",
-      "type": "image",
-      "src": "pipeline/media/gadgets-fire-tv-alexa-plus-hub.jpg"
-    },
-    {
-      "id": "gadgets-nanoleaf-mcp-lights",
-      "type": "image",
-      "src": "pipeline/media/gadgets-nanoleaf-mcp-lights.jpg"
-    },
-    {
-      "id": "gadgets-freckle-kids-phone",
-      "type": "image",
-      "src": "pipeline/media/gadgets-freckle-kids-phone.jpg"
-    },
-    {
-      "id": "gadgets-peloton-tread-vision",
-      "type": "image",
-      "src": "pipeline/media/gadgets-peloton-tread-vision.jpg"
-    },
-    {
-      "id": "gadgets-yansyn-crying-robot",
-      "type": "image",
-      "src": "pipeline/media/gadgets-yansyn-crying-robot.jpg"
-    }
-  ]
-}
+{"date":"2026-10-02","section":"gadgets","media":[
+{"id":"gadgets-samsung-glasses-fcc","type":"image","src":"pipeline/media/gadgets-samsung-glasses-fcc.jpg"},
+{"id":"gadgets-legato-hearing-glasses","type":"image","src":"pipeline/media/gadgets-legato-hearing-glasses.jpg"},
+{"id":"gadgets-gemini-guided-vision","type":"video","src":"pipeline/media/gadgets-gemini-guided-vision.mp4","poster":"pipeline/media/gadgets-gemini-guided-vision.jpg"},
+{"id":"gadgets-oura-xella-biomarkers","type":"image","src":"pipeline/media/gadgets-oura-xella-biomarkers.jpg"},
+{"id":"gadgets-gemini-home-noisy-rooms","type":"image","src":"pipeline/media/gadgets-gemini-home-noisy-rooms.jpg"}
+]}

@@ -3078,6 +3078,141 @@
           "x": "「人声变形」功能可将演奏片段对齐节拍网格并拉伸,同时保留原始演奏的感觉。"
         }
       ]
+    },
+    "music/songhunt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+        },
+        {
+          "t": "p",
+          "x": "Epidemic Sound宣布与Overwolf和MyPart合作，在Songhunt中推出全新Stream模式。Songhunt是Overwolf旗下的游戏内应用，在超过1,500款PC游戏中为PC玩家提供个性化、自适应的音乐体验。"
+        },
+        {
+          "t": "p",
+          "x": "Songhunt借助MyPart的多模态AI持续解读游戏过程，从Epidemic Sound曲库中挑选与画面情境相匹配的音乐，从安静的探索切换到快节奏的战斗。"
+        },
+        {
+          "t": "p",
+          "x": "对于Twitch和YouTube上的主播而言，Epidemic Sound 100% IP-owned（完全自有版权）的曲库消除了VODs被静音、版权申诉和下架的风险。Epidemic Sound的SVP B2B Rasmus Thofte表示：“Songhunt消除了这种取舍。”"
+        }
+      ]
+    },
+    "music/clarkson": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "R4nt1u0z27s"
+        },
+        {
+          "t": "p",
+          "x": "Kelly Clarkson在最新一期Las Culturistas节目中表示，AI能带来很多好处：“有争议？我不在乎：我爱AI。……在艺术上我也很喜欢它。我玩得很开心。”"
+        },
+        {
+          "t": "p",
+          "x": "她认为，多数关于AI音乐的看法都太过“非黑即白”：“我觉得欢迎它加入……但我不认为它们应该与人类竞争。”"
+        },
+        {
+          "t": "p",
+          "x": "“看到AI艺人在榜单上与人类竞争，我就有意见，”她说，“我认为应该有一个单独的榜单……我们不能失去人性。”"
+        },
+        {
+          "t": "p",
+          "x": "8月，Billboard重申将在AI-generated（AI生成）歌曲进入榜单时予以透明标注，同时Luminate宣布计划为AI-created（AI创作）内容添加标签。"
+        }
+      ]
+    },
+    "music/sleepclub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+        },
+        {
+          "t": "p",
+          "x": "盯鞋乐队SLEEP CLUB即将发行的首张专辑《Dweller》中的最新单曲《Weight Of Ease》，似乎被Spotify误判为使用了AI。此前，该乐队的全部作品曾被标记，后来由Spotify解决。"
+        },
+        {
+          "t": "p",
+          "x": "“这是我们连续两次发行中第二次遇到这种情况，最新单曲《Weight of Ease》被Spotify的AI-driven（AI驱动）内部系统标记为‘不符合推荐条件’，”Matt Jones说。他指出，算法推荐约占普通艺人播放量的50-70%。此前恢复作品目录花了约5周。"
+        },
+        {
+          "t": "p",
+          "x": "“讽刺的是，这张讲述AI侵入我们生活方方面面的专辑，一再被AI系统错误标记，”他补充道。乐队后来表示，第一次标记源于乐队名中的“sleep”一词；Spotify尚未解释此次标记的原因。"
+        },
+        {
+          "t": "video",
+          "yt": "kfolpGoqW10"
+        }
+      ]
+    },
+    "music/agentcore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS介绍了如何在Amazon Bedrock AgentCore Runtime Instances上部署音乐制作流水线。这是一种托管式EC2基础设施，支持多日会话、GPUs、持久化卷以及多个智能体同机部署。"
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+          "cap": "共享一台GPU实例和同一会话的三智能体流水线（Compose、Deliver、Screen）"
+        },
+        {
+          "t": "p",
+          "x": "作曲智能体借助Claude Sonnet 4.6将制作人的需求转化为创作简报，并在实例的NVIDIA L4上用开源ACE-Step模型渲染音频——约9秒即可生成20秒48 kHz立体声。交付智能体对.wav进行测量，并施加EQ、压缩和限幅处理链；合规智能体再次测量，并将其与工作室的过往曲库比对，如发现匹配则要求替换。"
+        },
+        {
+          "t": "p",
+          "x": "使用同一会话ID调用的智能体共享一个实例和文件系统，会话最长可持续14天。"
+        }
+      ]
+    },
+    "music/music-todd-edwards-suno-sampling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-1600-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "浩室与UK garage传奇、采样大师Todd Edwards与MusicRadar进行了一次长谈,谈及34年的职业生涯、首次英国演出、与Daft Punk多次合作,以及他对当下DJ文化的看法。"
+        },
+        {
+          "t": "p",
+          "x": "他最早使用的设备是Ensoniq EPS采样工作站,13比特特有的粗糙质感和标志性摆动节奏由此而来。那时他没有键盘,只能把几百个短采样拼接起来做出音乐和歌词。他回忆道,曾把唱片当成颜料、当成原材料来处理。"
+        },
+        {
+          "t": "video",
+          "yt": "1UxY5LonBIc"
+        },
+        {
+          "t": "p",
+          "x": "一首歌里往往用到几百个微采样,逐一获得授权几乎不可能。随着AI让识别采样变得更容易、版权诉讼也越来越常见,他必须改变做法。2025年初他曾尝试弹奏合成器或用Splice自己制作采样,但怀念翻唱片的乐趣,一度感到低落。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TwCUDXyr9V6cev9XZxMgPT-1200-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "转机出现在AI音乐平台Suno Studio。他在这里制作可以安全采样的素材,找回了做音乐的乐趣。他说,不喜欢人们把这项技术说得像是来自恶魔。在他看来,经验丰富的制作人把它当作强大的工具,没有技术的人则把它视为威胁。"
+        },
+        {
+          "t": "p",
+          "x": "他认为,用AI制作音轨再采样,并不比从Splice里挑现成loop更缺乏创造力。他还提到,这个行业的虚伪相当惊人。只输入提示词确实会得到平庸的结果,但如果加入自己的想法做出disco或soft rock曲子再剪辑使用,那就全部属于自己,再也不用担心诉讼。"
+        },
+        {
+          "t": "p",
+          "x": "他说自己即便没有AI也做了一辈子音乐,使用AI只是因为这是一场奇妙的冒险,归根结底是看怎么使用它。"
+        }
+      ]
     }
   }
 }

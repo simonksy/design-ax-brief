@@ -3279,6 +3279,141 @@
           "x": "The “Voice Warping” feature snaps a played take to the grid while keeping the feel of the original performance."
         }
       ]
+    },
+    "music/songhunt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+        },
+        {
+          "t": "p",
+          "x": "Epidemic Sound announced a partnership with Overwolf and MyPart to launch a new Stream mode in Songhunt, the Overwolf in-game app that gives PC gamers a personalized, adaptive music experience across more than 1,500 PC games."
+        },
+        {
+          "t": "p",
+          "x": "Songhunt uses MyPart's multimodal AI to interpret gameplay continuously and select music from Epidemic Sound's catalog that matches what is happening on screen, shifting from quiet exploration to fast-paced combat."
+        },
+        {
+          "t": "p",
+          "x": "For streamers on Twitch and YouTube, Epidemic Sound's 100% IP-owned catalog removes the risk of muted VODs, copyright claims and takedowns. \"Songhunt removes that trade-off,\" said Rasmus Thofte, SVP B2B at Epidemic Sound."
+        }
+      ]
+    },
+    "music/clarkson": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "R4nt1u0z27s"
+        },
+        {
+          "t": "p",
+          "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+        },
+        {
+          "t": "p",
+          "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+        },
+        {
+          "t": "p",
+          "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+        },
+        {
+          "t": "p",
+          "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+        }
+      ]
+    },
+    "music/sleepclub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+        },
+        {
+          "t": "p",
+          "x": "Shoegaze outfit SLEEP CLUB's latest single \"Weight Of Ease\", from their upcoming debut album \"Dweller\", has seemingly been incorrectly flagged by Spotify for AI usage. The band's entire catalog had previously been flagged before Spotify resolved it."
+        },
+        {
+          "t": "p",
+          "x": "\"For the 2nd time in two releases, our newest single 'Weight of Ease' has been flagged by Spotify's AI driven internal system as 'ineligible for recommendation',\" said Matt Jones, noting algorithmic support makes up roughly 50-70% of an average artist's streams. It took roughly 5 weeks to restore the catalog."
+        },
+        {
+          "t": "p",
+          "x": "\"It's ironic that this album, which is about the intrusion of AI into every aspect of our lives, keeps getting flagged by AI systems incorrectly,\" he added. The band later said the first flag stemmed from the word \"sleep\" in their name; Spotify has not explained the current one."
+        },
+        {
+          "t": "video",
+          "yt": "kfolpGoqW10"
+        }
+      ]
+    },
+    "music/agentcore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS walks through deploying a music production pipeline on Amazon Bedrock AgentCore Runtime Instances, managed EC2 infrastructure that adds multi-day sessions, GPUs, persistent volumes and colocation of multiple agents."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+          "cap": "The three-agent pipeline (Compose, Deliver, Screen) sharing one GPU instance and session"
+        },
+        {
+          "t": "p",
+          "x": "A composition agent turns a producer's request into a brief with Claude Sonnet 4.6 and renders audio with the open-source ACE-Step model on the instance's NVIDIA L4 — 20 seconds of 48 kHz stereo in about 9 seconds. A delivery agent measures the .wav and applies an EQ, compression and limiting chain; a compliance agent re-measures it and screens it against the studio's back catalog, asking for a replacement if it flags a match."
+        },
+        {
+          "t": "p",
+          "x": "Invoked with the same session ID, the agents share one instance and filesystem, and sessions can persist for up to 14 days."
+        }
+      ]
+    },
+    "music/music-todd-edwards-suno-sampling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-1600-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "Todd Edwards, a house and UK garage legend and master of sampling, sat down for a long conversation with MusicRadar. He covered his 34-year career, his first UK show, his repeated collaborations with Daft Punk, and his thoughts on today's DJ culture."
+        },
+        {
+          "t": "p",
+          "x": "His first piece of gear was an Ensoniq EPS sampling workstation. Its signature 13-bit grit and famous swing both came from there. With no keyboard at the time, he stitched together hundreds of short samples to build music and lyrics. He recalls that he \"treated records like paint, like raw material.\""
+        },
+        {
+          "t": "video",
+          "yt": "1UxY5LonBIc"
+        },
+        {
+          "t": "p",
+          "x": "With hundreds of micro samples in a single track, clearing each one individually is close to impossible. As AI made it easier to detect samples and copyright lawsuits grew more common, he had to change his approach. In early 2025 he tried playing synths or making his own samples with Splice, but he missed the joy of digging through records, and it left him depressed."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TwCUDXyr9V6cev9XZxMgPT-1200-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "The breakthrough was the AI music platform Suno Studio. Making material he could safely sample there brought back the joy of making music. \"I hate it when people talk about this technology like it came from the devil,\" he says. He adds that seasoned producers see it as a powerful tool, while those without skills see it as a threat."
+        },
+        {
+          "t": "p",
+          "x": "He believes making stems with AI to sample is no less creative than picking a Splice loop. That's also where he says \"the hypocrisy in the industry is remarkable.\" A plain prompt alone produces something generic, he says, but if he puts in his own ideas to make a disco or soft rock track and then cuts it up, \"it's all mine, so I never have to worry about a lawsuit again.\""
+        },
+        {
+          "t": "p",
+          "x": "Having made music his whole life without AI, he says he uses it because \"it's an amazing adventure,\" adding that in the end it comes down to how you use it."
+        }
+      ]
     }
   }
 }

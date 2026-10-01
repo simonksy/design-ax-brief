@@ -1,90 +1,96 @@
 {
- "date": "2026-10-01",
- "section": "politics",
- "picks": [
-  {
-   "id": "politics-ftc-ai-safety-probe",
-   "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
-   "source": "Axios",
-   "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
-   "tool": "Politics",
-   "accent": "#3b6bff",
-   "motif": "cube",
-   "axis": "policy",
-   "rationale": "Policy: first confirmed federal regulator investigation into frontier-lab product safety; CIDs could compel documents and testimony — direct compliance exposure for AI builders.",
-   "published_iso": "2026-09-30T21:31:59Z",
-   "og_image": "https://images.axios.com/Oljo4sMWJ7gbB1B6mXs8BzjQbHw=/0x0:1920x1080/1366x768/2025/12/17/1766006317612.jpeg",
-   "excerpt": "An FTC spokesperson confirmed to Axios the agency is investigating OpenAI, Anthropic and other AI companies over potential safety risks of their products; per the New York Post, Chair Andrew Ferguson is preparing civil investigative demands compelling documents and testimony. Probe predates the Hugging Face incident disclosure."
-  },
-  {
-   "id": "politics-lasst-openai-suit",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-   "source": "Ars Technica",
-   "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-   "tool": "Politics",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "axis": "policy",
-   "rationale": "Policy/liability: first suit using California's CDAFA clause that autonomous AI action is no defense, seeking an injunction on AI-agent access to third-party systems — direct legal exposure for teams deploying agents.",
-   "published_iso": "2026-09-30T18:25:04+00:00",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-   "excerpt": "Nonprofit LASST sued OpenAI in San Francisco County Superior Court under California's CDAFA and Unfair Competition Law over the July Hugging Face hack, seeking an injunction barring its AI agents from unauthorized access; OpenAI calls the suit 'completely without merit'."
-  },
-  {
-   "id": "politics-america-gov-eo",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
-   "source": "The White House",
-   "title": "Streamlining Access to Government Services Through America.gov",
-   "tool": "Politics",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "axis": "policy",
-   "rationale": "Policy (primary document): EO makes an AI conversational portal the federal front door and sets accuracy/reliability/transparency requirements for its AI; OMB guidance in 90 days.",
-   "published_iso": "2026-09-29T14:50:54+00:00",
-   "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-   "excerpt": "Executive order establishes America.gov as a conversational 'digital front door' to federal services and requires that super intelligence used with it be accurate, reliable and transparent; OMB has 90 days to issue implementation guidance. Primary document."
-  },
-  {
-   "id": "politics-eu-global-ai-safety",
-   "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
-   "source": "POLITICO Europe",
-   "title": "EU to Trump: We will keep pushing for global AI safety rules",
-   "tool": "Politics",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "axis": "geopolitics",
-   "rationale": "Geopolitics: EU commits on record to pursue an international AI safety agreement despite US opposition and backs the Finland/Norway safety-body initiative.",
-   "published_iso": "2026-09-29T13:39:11+00:00",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/09/29/GettyImages-2270908077-scaled.jpg",
-   "excerpt": "EU tech chief Henna Virkkunen said the Commission will keep seeking an international AI safety and security agreement despite U.S. opposition, backing the Finland/Norway-led international safety body initiative signed by 20 other countries."
-  },
-  {
-   "id": "politics-huawei-ascend-share",
-   "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266",
-   "source": "The Register",
-   "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China",
-   "tool": "Politics",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "axis": "geopolitics",
-   "rationale": "Geopolitics: Huawei claims domestic AI chips now outsell Nvidia in China after shifting US export controls — attributed claim, relevant to compute supply.",
-   "published_iso": "2026-09-30T20:16:14Z",
-   "og_image": "https://image.theregister.com/261217.jpg",
-   "excerpt": "Huawei rotating chairman Eric Xu claimed Ascend NPUs have surpassed Nvidia's share in China, framing chip self-sufficiency as the path forward amid shifting U.S. export controls."
+  "date": "2026-10-02",
+  "section": "politics",
+  "picks": [
+    {
+      "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
+      "source": "Nieman Lab",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "First federal appeals ruling rejecting fair use for training AI on publisher content (Thomson Reuters v. Ross); a new ruling that sets precedent for anyone training models on licensed text.",
+      "published_iso": "2026-09-30T21:04:26Z",
+      "og_image": "",
+      "excerpt": "A U.S. federal appeals court upheld Thomson Reuters' copyright win against defunct legal AI startup Ross Intelligence - the first federal appeals ruling to reject a fair-use defense for training AI on publisher content without permission or compensation."
+    },
+    {
+      "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+      "source": "U.S. Department of Justice",
+      "tool": "Politics",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "axis": "geopolitics",
+      "rationale": "Primary DOJ release: indictment over $300M+ of export-controlled GPU servers smuggled to China via transshipment; concrete enforcement of AI chip export controls.",
+      "published_iso": "2026-10-01T15:58:35-04:00",
+      "og_image": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
+      "excerpt": "DOJ indicted the owner of a San Gabriel Valley tech company on three counts for allegedly smuggling more than $300 million in export-controlled servers containing U.S. GPUs to China via false paperwork and third-country transshipment."
+    },
+    {
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Court ruling dismissing Chegg and Penske Media antitrust suits over Google's AI Overviews; a new decision on how publishers can (not) challenge AI search summaries.",
+      "published_iso": "2026-10-01T17:12:21+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Chegg and PMC's claims don't stand up to antitrust laws, a judge ruled."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261002005300091",
+      "source": "Yonhap News",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Follow-up with a new official action: California state authorities subpoena OpenAI in an investigation into AI hacking and safety, after the Hugging Face agent incident.",
+      "published_iso": "2026-10-02T05:04:49+09:00",
+      "og_image": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
+      "excerpt": "(샌프란시스코=연합뉴스) 권영전 특파원 = 미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다."
+    },
+    {
+      "url": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+      "source": "Tech Policy Press",
+      "tool": "Politics",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "axis": "elections",
+      "rationale": "Elections axis: examines Taiwan's deepfake rules ahead of November elections; a distinct story from the published Nigeria election-tech piece.",
+      "published_iso": "2026-10-01T08:03:04.508Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
+      "excerpt": "Ahead of Taiwanese elections in November, the risk of political deepfakes undermining democratic institutions is rapidly escalating, warns Eddy Yen-Ting Lin."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/": {
+        "verdict": "new",
+        "nearest": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits",
+        "new_action": ""
+      },
+      "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china": {
+        "verdict": "new",
+        "nearest": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
+        "new_action": ""
+      },
+      "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.yna.co.kr/view/AKR20261002005300091": {
+        "verdict": "follow-up",
+        "nearest": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "new_action": "California state authorities issued a subpoena to OpenAI opening a state investigation into AI hacking and safety (distinct from the nonprofit lawsuit published 10-01 and the FTC probe published 10-01)."
+      },
+      "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works": {
+        "verdict": "new",
+        "nearest": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as follow-ups of the published White House voluntary AI safety accord (axios 2026-09-29, 9/30) with no new decision: Verge 'how tech leaders will self-police', Politico 'Inside Zuckerberg, Huang's push', Axios 'Trump, Big AI go all-in', WIRED 'Fancy Pinky-Swear', Ars 'Trump plan hinges on Big Tech pals' (all analysis/extra reporting). Axios Hawley/Murphy liability push: framed as reaction to the accord with no bill text/filing confirmed - dropped. OpenAI Hugging Face hack running story (Ars 10-01, FTC 10-01, WIRED pause 9-29): Senate hearing (testimony, no decision) and Tech Policy Press 'governments shouldn't be stuck with the cleanup' (commentary) dropped; kept only the California subpoena as a new official action. Axios America.gov chatbot 2020-answers: extra reporting on the America.gov service published 10-01 (whitehouse.gov EO) - dropped. Not picked on score/diversity: Politico New Mexico (proposal not yet announced), Lawfare frontier governance (commentary), Verge Khanna/China, Register phishing/distillation/datacenters, Rest of World x2, Diplomat x2, CJR, Yonhap public-sector AI ethics and medical records, etnews committee stance. Outlets: 5 distinct; axes: policy x3, geopolitics x1, elections x1. No shared URLs."
   }
- ],
- "set_aside": [
-  {
-   "url": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907",
-   "reason": "same story as America.gov EO (primary doc preferred)"
-  },
-  {
-   "url": "https://www.axios.com/2026/09/30/trump-america-gov-ai-chatbot-conflicting-answers",
-   "reason": "same America.gov thread; politically contested framing"
-  },
-  {
-   "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
-   "reason": "swapped out: same story (Thomson Reuters v. Ross appeal) published in music section today — one section per story"
-  }
- ]
 }

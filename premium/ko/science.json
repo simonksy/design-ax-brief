@@ -2554,6 +2554,118 @@
           "x": "연구진은 이 구조가 훈련은 가능하게 하면서도 고전 컴퓨터로는 흉내 내기 어렵게 남겨 두는 것을 목표로 삼았다."
         }
       ]
+    },
+    "science/riemannclaude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+          "cap": "AI가 소수 이해에 보탬이 될까?"
+        },
+        {
+          "t": "p",
+          "x": "수학에서 가장 악명 높은 미해결 문제 하나를 풀려다 실패한 AI 모델의 시도가, 관련 난제를 붙든 인간 수학자의 진전을 도왔다. Anthropic은 8월 10일 미공개 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 프리프린트로 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "시도가 실패하자 연구팀은 목표를 낮췄다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 1989년부터 수학자들은 그 비율이 최소 40%라는 것을 알았다. Claude는 이를 67.25%까지 끌어올렸다."
+        },
+        {
+          "t": "p",
+          "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 보고 Claude가 토대로 삼은 연구를 직접 읽었다. 그러다 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 더 간단한 그의 증명도 같은 67.25%에 이르렀고, 단순 영점도 아니면서 임계선 위에도 없는 영점이 최대 11%라는 사실까지 보였다."
+        },
+        {
+          "t": "p",
+          "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 AI 시대에 일이 어떻게 나아갈 수 있는지 보여주는 긍정적인 사례라고 평했다."
+        }
+      ]
+    },
+    "science/stratego": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 꺾는 AI를 만들었다. 지금껏 어떤 AI 시스템도 해내지 못한 일이다. 연구는 Nature에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "Stratego에서는 말끼리 부딪히기 전까지 각 말의 정체가 드러나지 않는다. 가능한 말 배치도 10의 66제곱이 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러를 쓰고도 최상위 인간 선수를 넘지 못했다."
+        },
+        {
+          "t": "p",
+          "x": "Ataraxos라는 이 시스템은 자기 대국 강화학습으로 청사진 전략을 익힌다. 그다음 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. DeepNash가 쓴 학습 예시의 백분의 일도 안 되는 양으로 DeepNash를 넘어섰다."
+        },
+        {
+          "t": "p",
+          "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 거뒀다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인 수준에 올랐다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 가려진 문제에 도움이 될 수 있다고 본다."
+        }
+      ]
+    },
+    "science/spaceweather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "극한 우주기상은 송전망에 전류를 유도해 장비를 망가뜨리기도 한다. 저자는 Microsoft Research 여름 인턴십 기간에 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 지점별 추정치는 30-60분 앞서 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+          "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+        },
+        {
+          "t": "p",
+          "x": "시스템은 태양풍 측정값으로 AE와 Dst 지자기 지수부터 예측한다. 그래디언트 부스팅 모델은 이 값에 변전소별 위도와 지질 전도도를 더해 유도 전류 위험으로 이어지는 자기장 변화 dB/dt를 추정한다. 특성과 모델 구성을 찾는 작업은 AI 에이전트 50개로 이뤄진 시스템이 거들었다."
+        },
+        {
+          "t": "p",
+          "x": "2020-2026년 사이 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 잡아냈다. 전체 변전소 추정치를 내는 데는 약 333밀리초가 걸렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+          "cap": "대표적인 대형 폭풍 시나리오로 대륙 단위 GIC 위험을 평가한 시연 장면."
+        },
+        {
+          "t": "p",
+          "x": "전력망 운영에 쓰려면 전력회사와 운영 데이터로 추가 검증을 거쳐야 한다."
+        },
+        {
+          "t": "video",
+          "yt": "MCB3zM5dEVI"
+        }
+      ]
+    },
+    "science/adaptivemath": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud University가 아이 약 8,000명을 여러 해 동안 지켜본 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 이 도구가 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적했다. 학생 수준에 맞춰 문제를 바꿔 주는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 견줬다. 연구는 Learning and Instruction에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과가 가장 뚜렷했던 곳은 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교였다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "도구는 교사를 대신하지 않고 돕는다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”며 통제권은 언제나 교사에게 있다고 설명한다."
+        }
+      ]
     }
   }
 }

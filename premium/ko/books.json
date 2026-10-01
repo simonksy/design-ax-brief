@@ -2999,6 +2999,85 @@
           "x": "AI의 출처와 표기 문제가 실제 계약과 편집 공정을 어떻게 뒤흔드는지 보여주는, 무게가 다른 사례다."
         }
       ]
+    },
+    "books/idpa-finalists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
+          "cap": "Virginie Clayssen receiving the Digital Leadership Award last year at the Frankfurter Buchmesse"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Report has announced the shortlist for its annual Digital Publishing Awards, which went international last year. Entries from AI-focused companies increased; DPR says AI has become the standard, and what sets the finalists apart is their drive to “make books accessible, to bring audiobooks to underserved languages, and to give authors and editors better tools with human expertise firmly in charge.”"
+        },
+        {
+          "t": "p",
+          "x": "The 12 finalists, from Egypt, Germany, India, the U.K. and the U.S., were selected from 42 submissions. Product/business model: Ailaysa, Nahdet Misr Group, Pocket FM and Storywise. Process/technology: Abjjad’s Project Genome, Ernst Klett Sprachen’s allango, MPS Limited and Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books and ReadBee."
+        },
+        {
+          "t": "p",
+          "x": "Highlights include Ailaysa’s adaptive AI translation, which preserves terminology, author voice and page layout, and Project Genome’s Arabic-first audiobook pipeline, which cuts production costs by around 90 percent. Winners will be announced on October 7 at the Frankfurter Buchmesse."
+        }
+      ]
+    },
+    "books/opus-tells": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
+          "cap": "이미지 출처: nomadnes / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "마케팅 기업 Graphite가 새 연구에서 프런티어 모델의 글쓰기 습관을 살폈다. 사람이 쓴 글보다 AI 글에 두 배 이상 자주 나오는 표현을 연구진은 ‘단서(tell)’라 부르는데, 이런 단서를 13,000개 찾아냈다. 연구진은 ChatGPT 이전(pre-ChatGPT) 기사 10,000건의 요약을 모델에게 주고 기사를 다시 쓰게 한 뒤 사람이 쓴 원문과 견줬다."
+        },
+        {
+          "t": "p",
+          "x": "Graphite에 따르면 Claude Opus 5.5의 가장 큰 단서는 “dependable”이라는 단어다. 사람의 샘플보다 23배 더 자주 등장한다. Opus는 무엇보다 왜 중요한지 짚기를 좋아한다. “this matters”는 사람의 글보다 116배, “why X matters”는 92배 더 자주 나온다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI의 Astra는 “not simply X” 같은 ‘교정형 프레이밍’에 기댄다. 사람의 글보다 100배 넘게 많다. Opus 5.5의 엠대시는 Opus 5보다 99% 줄었다. Graphite의 최고 AI 책임자 Greg Druck은 “가장 잘 알려진 단서는 없애고 있지만, 다른 단서가 튀어나온다”고 말했다."
+        }
+      ]
+    },
+    "books/ai-comic-dramas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "중국 기업들이 해외 숏드라마 시장을 독점하고, AI 만화극은 이 흐름을 더 굳혔다. 2026년 8월 글로벌 해외 숏드라마 앱 상위 10개 중 9개가 중국 기업 소유였다. 이들 앱에서 스트리밍된 AI 만화극도 90% 이상이 중국산이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "10개 중 9개를 차지한 중국 해외 숏드라마 플랫폼. 일러스트: Short Drama Study Room"
+        },
+        {
+          "t": "p",
+          "x": "필자는 지금 상황이 10년 전 한국 웹툰 플랫폼과 닮았다고 본다. 전성기의 한국 웹툰 플랫폼은 세계 디지털 만화 시장의 60% 이상을 차지했다. 그런데 같은 이야기를 그대로 세계에 수출하자 문화적 반발이 일었다. 2026년 9월 Kakao는 5억 1천만 달러에 인수한 Tapas와 Kakao Webtoon 국제판 서비스를 종료한다고 발표했다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "예외는 Kakao의 일본 플랫폼 Piccoma다. 한국 만화와 일본 만화 비율이 약 6:4이고, 2025년 거래액은 약 1,400억 엔에 이르렀다. 필자가 보기에 중국 AI 만화극 기업들이 얻을 교훈은 현지화다. 현지 콘텐츠 비중은 40% 가까이 지켜야 한다고 덧붙인다."
+        }
+      ]
+    },
+    "books/ai-narration-trojan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+        },
+        {
+          "t": "p",
+          "x": "오디오북 전문가 Jessica Barnfield는 The Bookseller 기고문에서 ElevenLabs 같은 AI 음성 기업이 오디오북 접근성을 넓히는 게 아니라 데이터를 모으는 중이라고 주장한다. Barnfield는 10년 넘게 영국과 미국, 해외 시장을 오가며 오디오북 제작과 유통, 사업 개발을 해 왔다."
+        }
+      ]
     }
   }
 }

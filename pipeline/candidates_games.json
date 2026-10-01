@@ -1,125 +1,148 @@
 {
- "date": "2026-10-01",
- "section": "games",
- "window_hours": 336,
- "items": [
-  {
-   "url": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/",
-   "source": "AUTOMATON",
-   "category": "games",
-   "published_iso": "2026-09-30T06:50:15Z",
-   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg",
-   "headline": "Voice actor Kenjiro Tsuda’s lawsuit over AI voice cloning dismissed, but ruling sets important precedent for protecting seiyuu voices in Japan - AUTOMATON WEST",
-   "excerpt": "Kenjiro Tsuda's AI voice-cloning suit vs TikTok dismissed, but Tokyo District Court rules voices are protected under publicity rights."
-  },
-  {
-   "url": "https://www.inven.co.kr/webzine/news/?news=321627",
-   "source": "인벤",
-   "category": "games",
-   "published_iso": "2026-09-30T13:33:17Z",
-   "og_image": "https://static.inven.co.kr/column/2026/09/30/news/i1255078930.jpg",
-   "headline": "청구는 기각, 목소리 권리는 인정...성우 츠다 켄지로 AI 음성 복제 판결 | 웹진 인벤",
-   "excerpt": "Inven: Tsuda AI voice cloning ruling — claim dismissed, voice rights recognized (same story as automaton)."
-  },
-  {
-   "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
-   "source": "AUTOMATON",
-   "category": "games",
-   "published_iso": "2026-09-30T05:38:17Z",
-   "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp",
-   "headline": "Atelier Ryza AI chatbot game developer to place restrictions on user inputs “to protect the integrity of the character and series” - AUTOMATON WEST",
-   "excerpt": "Spiral AI will restrict user inputs in RyzaChat:AI's October model update after prompt-injection misuse of the Ryza character AI."
-  },
-  {
-   "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
-   "source": "Aftermath",
-   "category": "games",
-   "published_iso": "2026-09-29T23:12:41Z",
-   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
-   "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
-   "excerpt": "Twitch CEO says AI transcribes streams and is now used to flag streamers who may not match advertisers' brands, pulling ads."
-  },
-  {
-   "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
-   "source": "PC Gamer",
-   "category": "games",
-   "published_iso": "2026-09-30T15:58:32Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1916-80.jpg",
-   "headline": "Logitech",
-   "excerpt": "Logitech's beta Replay software uses deep learning to auto-pick and splice game highlight clips; PC Gamer tests it in Counter-Strike."
-  },
-  {
-   "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
-   "source": "Wccftech",
-   "category": "games",
-   "published_iso": "2026-09-30T16:45:00Z",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg",
-   "headline": "Borderless Gaming's DLSS 5 Implementation Runs Without Touching NVIDIA's Software, Quantized to Work Well Even on Unsupported GPUs",
-   "excerpt": "Borderless Gaming adds a quantized DLSS 5 neural rendering effect that runs without NVIDIA software, plus its own trained frame generation."
-  },
-  {
-   "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
-   "source": "Wccftech",
-   "category": "games",
-   "published_iso": "2026-09-29T20:30:00Z",
-   "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
-   "headline": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
-   "excerpt": "Wccftech injects DLSS 5 neural rendering into The Witcher 3 Remastered: faces improve, up to 30% performance cost; only NBA 2K27 is official."
-  },
-  {
-   "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
-   "source": "Epic Developer Community",
-   "category": "games",
-   "published_iso": "2026-09-28T18:30:00Z",
-   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
-   "headline": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
-   "excerpt": "Open-source UE Box AI agent operates the Unreal Editor directly — places actors, edits Blueprints, wires materials, fixes C++ errors."
-  },
-  {
-   "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
-   "source": "Epic Developer Community",
-   "category": "games",
-   "published_iso": "2026-09-29T20:39:41Z",
-   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
-   "headline": "Sina — a 100% local AI digital human that walks the level and operates real Blueprint equipment (MetaHuman + NVIDIA ARDY) ",
-   "excerpt": "Sina plugin links a UE5 MetaHuman to a fully local AI brain (ASR, LLM, neural TTS) so it walks the level and operates Blueprint equipment."
-  },
-  {
-   "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/",
-   "source": "PC Gamer",
-   "category": "games",
-   "published_iso": "2026-09-17T13:45:27Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/6e2eGX2VSocFcNeEdt85NB-2560-80.jpg",
-   "headline": "",
-   "excerpt": "AMD researchers publish a method that treats real-time global illumination as an image-generation problem, hinting at FSR's neural-rendering path."
-  },
-  {
-   "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
-   "source": "PocketGamer.biz",
-   "category": "games",
-   "published_iso": "2026-09-30T14:45:00Z",
-   "og_image": "https://media.pocketgamer.biz/images/141584/89954/maria-redin_l1200.jpg",
-   "headline": "MTG wants to double its size while leveraging AI",
-   "excerpt": "MTG CEO Maria Redin wants to double the group's size while scaling AI tooling across its studios."
-  },
-  {
-   "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
-   "source": "PocketGamer.biz",
-   "category": "games",
-   "published_iso": "2026-09-25T11:38:00Z",
-   "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
-   "headline": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
-   "excerpt": "Qualcomm unveils two flagship Snapdragon chips pitched at mobile and AI gaming."
-  },
-  {
-   "url": "https://www.thisisgame.com/articles/430508?newsId=400289&categoryId=0",
-   "source": "디스이즈게임",
-   "category": "games",
-   "published_iso": "2026-09-29T16:30:23Z",
-   "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/09/29/1639263221496091255_9d102bdb-2caa-4e68-9a44-c3401feb66b7_image002.jpg",
-   "headline": "엔비디아, 11월 9일 코엑스서 'AI 데이 서울 2026' 개최",
-   "excerpt": "NVIDIA AI Day Seoul 2026 set for Nov 9–10 at COEX (event notice)."
-  }
- ],
- "note": "Primary collection via allowed-domain RSS + Google News RSS (when:14d) + YouTube channel feeds; 6 WebSearch queries (2 rejected by domain filter). Expansion keywords added: DLSS 5 / neural rendering, Twitch AI moderation, AI voice cloning law (seiyuu), Unreal Editor AI agent / MCP, MetaHuman local LLM, Krafton/Nexon/NCSoft/Netmarble AI, Roblox Cube, Genie 3, SAG-AFTRA, AI QA/anti-cheat. Pool thin: most fresh AI×games items were already published in the last 14 days (Motherbrain, CESA 85%, Level-5, Wolverine sign, Ocarina port, Unity Claude Code plugin, Microsoft ads patent, TGS opinion, etc.)."
+  "date": "2026-10-02",
+  "section": "games",
+  "window_hours": 336,
+  "now_iso": "2026-10-01T22:03:11Z",
+  "items": [
+    {
+      "url": "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-10-01T19:38:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50467/images/6abeb649e7440/contain_1200x630.jpg",
+      "headline": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling",
+      "excerpt": "Sony's new Quick Spectral Super Resolution (QSSR) uses a streamlined neural network to bring PS5 Pro-style AI upscaling to the base PS5, starting with Marvel's Wolverine and Ghost of Yotei.",
+      "title": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling"
+    },
+    {
+      "url": "https://www.thegamer.com/ps5-adds-ai-upscaling-good-luck-seeing-a-difference/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-10-01T17:52:37Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/marvelswolverinenocowl.jpg?w=1600&h=900&fit=crop",
+      "headline": "PS5 AI Upscaling Rolls Out With Already Mixed Results",
+      "excerpt": "TheGamer's hands-on take finds Sony's new QSSR AI upscaler on the base PS5 delivers only minimal visible gains so far in its first two supported games.",
+      "title": "PS5 AI Upscaling Rolls Out With Already Mixed Results"
+    },
+    {
+      "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-01T16:48:27.491Z",
+      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "headline": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
+      "excerpt": "Sony's QSSR is a lighter neural upscaler that runs on the base PS5's weaker GPU, extending the PS5 Pro's PSSR pipeline to the whole install base.",
+      "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5"
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321697",
+      "source": "인벤",
+      "category": "games",
+      "published_iso": "2026-10-02T02:46:58+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/10/02/news/i1665018735.jpg",
+      "headline": "일반 PS5 생명 연장, 프로에만 있던 'AI 업스케일' 도입된다",
+      "excerpt": "소니가 일반 PS5용 AI 업스케일링 라이브러리 QSSR(퀵 스펙트럴 슈퍼 레졸루션)을 발표했다. 신경망을 간소화해 일반 PS5에서도 고품질 그래픽 구현이 가능해졌다는 설명이다.",
+      "title": "일반 PS5 생명 연장, 프로에만 있던 'AI 업스케일' 도입된다"
+    },
+    {
+      "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-10-01T14:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141588/89956/header-4_l1200.jpg",
+      "headline": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios",
+      "excerpt": "Layer, an agentic creative platform for game studios, launched Playables, which builds end-to-end, network-ready HTML5 playable ads in hours rather than weeks.",
+      "title": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios"
+    },
+    {
+      "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-09-29T23:12:41.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
+      "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
+      "excerpt": "Twitch is now using AI classification of stream content to decide which creators are eligible for ad revenue, drawing pushback from streamers.",
+      "title": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads"
+    },
+    {
+      "url": "https://www.inven.co.kr/webzine/news/?news=321667",
+      "source": "인벤",
+      "category": "games",
+      "published_iso": "2026-10-01T14:39:26+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/10/01/news/i1564923888.jpg",
+      "headline": "[이슈] 던전앤파이터, 신규 이벤트 AI 일러스트 논란에 '교체'",
+      "excerpt": "던전앤파이터 신규 이벤트의 레전더리 카드 일러스트가 AI 활용 논란에 휩싸였고, 넥슨은 일부 이미지에 AI를 활용했다고 밝힌 뒤 해당 일러스트를 교체하기로 했다.",
+      "title": "[이슈] 던전앤파이터, 신규 이벤트 AI 일러스트 논란에 '교체'"
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-10-01T13:15:35Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nTfkeFn4nFPXAga8497qdH-1920-80.jpg",
+      "headline": "Can you tell which of these images has been injected with DLSS 5?",
+      "excerpt": "PC Gamer runs GTA 6 trailer frames through DLSS 5 neural rendering at varying intensities, challenging readers to tell the AI-reinterpreted images from the originals.",
+      "title": "Can you tell which of these images has been injected with DLSS 5?"
+    },
+    {
+      "url": "https://wccftech.com/dlss-4-5-comes-to-radeon-rx-9000-gpus-in-experimental-mod-using-amds-native-fp8-capabilities/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-10-01T11:20:38+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RX-9070-XT-DLSS-4.5.jpg",
+      "headline": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities",
+      "excerpt": "A new d4r release adds experimental NVIDIA DLSS 4 and 4.5 support to AMD RDNA 4 GPUs by running the neural upscaler on native FP8 hardware.",
+      "title": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities"
+    },
+    {
+      "url": "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895",
+      "source": "Epic Developer Community",
+      "category": "games",
+      "published_iso": "2026-10-01T00:26:54+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/c/2/b/c2bc03a97a71aae9baf73e98f646ab64c3a1fb03_2_1024x512.png",
+      "headline": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
+      "excerpt": "A community kit turns Claude Code plus Unreal MCP into a visible multi-agent 'AI dev team' for UEFN map building, with a live dashboard and memory that learns from each shipped map.",
+      "title": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map"
+    },
+    {
+      "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
+      "source": "Epic Developer Community",
+      "category": "games",
+      "published_iso": "2026-09-29T20:39:41+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
+      "headline": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
+      "excerpt": "A UE5 plugin links any project to a local AI 'brain' so a MetaHuman can talk, move through the level and operate Blueprint-driven equipment with no cloud AI.",
+      "title": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-10-01T09:01:29-07:00",
+      "og_image": "https://i.ytimg.com/vi/Fx1orSJc8d4/maxresdefault.jpg",
+      "headline": "Introducing the official Unity plugin for Grok Build",
+      "excerpt": "Unity introduces an official plugin for xAI's Grok Build coding agent, bringing Unity engineering guidance directly into the terminal for AI-assisted game development.",
+      "title": "Introducing the official Unity plugin for Grok Build"
+    },
+    {
+      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+      "source": "Epic Developer Community",
+      "category": "games",
+      "published_iso": "2026-09-28T03:03:13+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
+      "headline": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
+      "excerpt": "A step-by-step guide to animated NPCs with AI-generated dialogue and conversation history, built with Codex, Unreal MCP, UnrealAI and the OpenAI API.",
+      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-10-01T19:34:14Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iMksT7u6r7yCyLKwVKkiT4-1920-80.jpg",
+      "headline": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature",
+      "excerpt": "Marvel's Wolverine and Ghost of Yotei are the first games to use Sony's new QSSR neural upscaler on the base PS5.",
+      "title": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature"
+    }
+  ]
 }

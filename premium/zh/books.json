@@ -2667,6 +2667,118 @@
           "x": "这是一个分量不同的案例,展示了AI来源与标注问题如何实际动摇签约与编辑流程。"
         }
       ]
+    },
+    "books/idpa-finalists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
+          "cap": "Virginie Clayssen去年在Frankfurter Buchmesse上领取Digital Leadership Award"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Report公布了其年度Digital Publishing Awards的决选名单，该奖项去年起走向国际。专注AI的企业（AI-focused）参赛作品有所增加；DPR表示，AI已成为标准，决选者的不同之处在于他们致力于“让书籍更易获取，把有声书带给服务不足的语言，并在人类专业能力牢牢主导的前提下为作者和编辑提供更好的工具”。"
+        },
+        {
+          "t": "p",
+          "x": "12个决选者来自埃及、德国、印度、英国（U.K.）和美国（U.S.），从42份参赛作品中选出。产品/商业模式类：Ailaysa、Nahdet Misr Group、Pocket FM和Storywise。流程/技术类：Abjjad的Project Genome、Ernst Klett Sprachen的allango、MPS Limited和Pozotron Studio。初创企业类：KitabooONE、Whisper by Stck、Pellerin Books和ReadBee。"
+        },
+        {
+          "t": "p",
+          "x": "亮点包括Ailaysa的自适应AI翻译，可保留术语、作者语气和页面版式；以及Project Genome以阿拉伯语为先的有声书制作流程，可将制作成本降低约90%。获奖者将于10月7日在Frankfurter Buchmesse上公布。"
+        }
+      ]
+    },
+    "books/opus-tells": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
+          "cap": "图片来源：nomadnes / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "营销公司Graphite的一项新研究考察了前沿模型的写作习惯。研究发现了13,000个在AI内容中出现频率至少是人类内容两倍的短语，即其定义的“特征”（tell）。研究人员让模型根据摘要重写10,000篇ChatGPT问世前（pre-ChatGPT）的文章，再与人类原文进行比较。"
+        },
+        {
+          "t": "p",
+          "x": "据Graphite称，Claude Opus 5.5最大的特征是“dependable”一词，其出现频率是人类样本的23倍。最突出的是，Opus喜欢告诉你事情为何重要：“this matters”的出现频率是人类写作的116倍，“why X matters”则是92倍。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI的Astra则偏爱“not simply X”之类的“纠正式表述”，频率是人类文章的100多倍。Opus 5.5使用破折号的频率比Opus 5低99%。Graphite首席AI官Greg Druck表示：“他们正设法去除最广为人知的特征，但其他特征又冒了出来。”"
+        }
+      ]
+    },
+    "books/ai-comic-dramas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "中国企业正垄断海外短剧市场，AI漫剧进一步强化了这一格局。2026年8月，全球海外短剧应用前10名中有9个属于中国公司，在这些应用上播放的AI漫剧90%以上由中国制作。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "10中占9：中国海外短剧平台的统治地位。插图：Short Drama Study Room"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，这与十年前的韩国网漫平台如出一辙，后者巅峰时期占据全球数字漫画市场60%以上的份额。将同一套故事输出到全球引发了文化反弹，2026年9月，Kakao宣布将关闭以5.1亿美元收购的Tapas以及Kakao Webtoon国际版。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "例外是Kakao旗下的日本平台Piccoma，其韩国与日本漫画的比例约为6:4，2025年交易额约达1400亿日元。作者表示，中国AI漫剧企业应汲取的教训是本地化，将本地内容占比保持在40%左右。"
+        }
+      ]
+    },
+    "books/ai-narration-trojan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+        },
+        {
+          "t": "p",
+          "x": "有声书专家Jessica Barnfield在为The Bookseller撰写的评论文章中指出，ElevenLabs等AI语音公司并不是在扩大有声书的可及性，而是在收集数据。Barnfield在有声书制作、发行和业务拓展领域工作了十多年，足迹遍及英国、美国和国际市场。"
+        }
+      ]
+    },
+    "books/books-springer-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
+          "cap": "机械手捧着一摞书，最底下那本书的书脊上写着“AI”。"
+        },
+        {
+          "t": "p",
+          "x": "加州大学欧文分校英文系教授丹尼尔·M·格罗斯最近惊讶地发现，学校图书馆藏书中混入了AI生成的书。来源并非边缘渠道，而是藏书核心——施普林格·自然出版集团。"
+        },
+        {
+          "t": "p",
+          "x": "施普林格·自然出版集团自2021年5月起出版“AI驱动”的文献综述书籍。出版社自己说明，这类书是将人工撰写的文字与机器生成的文献概述混合而成。由于加州数字图书馆会批量采购施普林格新出的电子书，这些书会直接向UC所有校区的教师和学生开放。"
+        },
+        {
+          "t": "p",
+          "x": "免责声明只写在元数据里。售价159.99美元的精装书《Criticism and Critical Theory: A Machine-Generated Overview》称是用提取式摘要制作后又“仔细编辑”过的，但从序言开始就充满套路化的句子。施普林格还曾在Retraction Watch报道该书参考文献大量不存在后，撤回了《Mastering Machine Learning》。"
+        },
+        {
+          "t": "p",
+          "x": "格罗斯认为，出版社正在试探大学能容忍到什么程度。爱思唯尔同样在被问及手稿能否使用AI生成文字时，实际上给出了肯定的答案。作者仍需承担责任，却越来越像在扮演质量检查员的角色。"
+        },
+        {
+          "t": "p",
+          "x": "他给出了三条建议。首先是让人知情：他向图书馆藏书战略负责人贝基·伊马莫托和校园AI咨询委员会介绍此事后，发现大多数教师五年来都毫不知情。其次是像2020年UC与施普林格·自然就开放获取展开谈判那样集体行动。最后是选择支持坚守标准的出版社。"
+        },
+        {
+          "t": "p",
+          "x": "格罗斯写道，图书馆员是判定何为知识的最近一道把关人，教师和图书馆员如今必须共同拒绝。"
+        }
+      ]
     }
   }
 }

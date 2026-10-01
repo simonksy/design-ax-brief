@@ -1,63 +1,249 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-terrarium-ai-hybrid-set",
+      "id": "continuum",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "배우만 있고 세트는 없다\nAI 하이브리드 영화 ‘테라리움’ 현장",
-      "body": "‘테라리움’은 빈 스튜디오에서 배우만 찍고 장소와 소품은 AI 아티스트들이 만든다.",
-      "mini_headline": "세트 없는 AI 영화",
+      "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
+      "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
+      "mini_headline": "Runway의 Project Continuum",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/features/terrarium-ai-hybrid-set-visit-1236893846/",
-      "accent": "#0070f3",
+      "source": "Runway",
+      "url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/09/Terrarium-On-Set-Photo-2-1.jpg?w=1200",
-            "cap": "‘테라리움’ 촬영 현장. 사진 Secret Level"
+            "t": "video",
+            "yt": "K7Q7FESRHJY"
           },
           {
             "t": "p",
-            "x": "9월 어느 수요일 오전, 할리우드 BLT 스튜디오. 제이슨 자다 감독의 파운드푸티지 호러 ‘테라리움’의 막바지 촬영이 한창이었다. 모니터에는 길이 보이지 않는다. 길도, 길 세트도 없다. 배우들은 검은 천으로 26명의 스태프를 가린 밝은 무대에서 허공을 보고 연기한다. 소품도, 볼륨식 LED 벽도 없다. 사람을 뺀 거의 모든 것을 AI로 만든다."
+            "x": "Runway Labs가 Project Continuum을 소개한다. 실시간 영상 인터페이스를 중심에 둔 새 운영체제 연구 애플리케이션이다."
           },
           {
             "t": "p",
-            "x": "제작진은 이를 ‘AI 하이브리드 제작’이라 부른다. 15~20명의 AI 아티스트가 배우 주변의 장소와 소품을 생성한다. 과자가 쌓인 편의점도, 어두운 지하 터널도 AI다. 배우를 한 명씩 개별 카메라 앞에 세워 찍은 뒤 합성해 한 장면에 함께 있는 것처럼 만드는 작업도 AI로 한다."
-          },
-          {
-            "t": "p",
-            "x": "AI 기반 스튜디오 시크릿 레벨과 AI 제작 플랫폼 아트리스트가 공동 제작하고, 아트리스트가 투자와 도구를 댔다. ‘파라노멀 액티비티’의 스티븐 슈나이더가 총괄 프로듀서를 맡았고 제이크 비지 등이 출연한다. 자다는 제작비를 밝히지 않았지만 4천만 달러짜리 영화처럼 보이게 만들겠다고 했다. “이게 앞으로 영화를 만드는 방식”이라는 게 그의 말이다."
-          },
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/09/Terrarium-On-Set-Photo-1.jpg",
-            "cap": "빈 무대에서 촬영 중인 배우들"
-          },
-          {
-            "t": "p",
-            "x": "배우들에게는 낯선 현장이다. 비지는 “유치원으로 돌아가는 것 같다”며 머릿속으로 모든 걸 그려야 한다고 했다. 주연을 맡은 17세 카일리 레비엔은 계약 단계에서 자기 연기가 “AI가 흉내 낸 나”가 되지 않도록 조율했다. AI가 바꾸는 건 배경과 소품, 자세까지이고 표정과 눈빛은 건드리지 않는다는 선이 안심이 됐다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "프로듀서 크리스티나 리 스톰은 SAG-AFTRA의 디지털 복제·AI 규정에 맞춰 촬영했다며 “기준은 투명성과 동의”라고 강조했다. 슈나이더도 AI 사용은 숨기지 말고 알려야 한다고 했다. 자다는 “AI를 싫어하는 건 CGI를 싫어하는 것과 같다”고 말한다. 촬영 중에 배경을 바로 손볼 수 있어 후반 작업을 기다릴 필요도 없다. 영화는 아직 배급사를 찾고 있다."
+            "x": "오늘 컴퓨터와 상호작용하는 네 가지 새 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지 새로 그린다."
           }
         ]
+      },
+      "text": {
+        "en": {
+          "headline": "Runway Labs unveils\nProject Continuum",
+          "body": "Runway Labs previews Project Continuum, an operating system research application built around real-time video.",
+          "mini_headline": "Runway's Project Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Introducing Project Continuum by Runway Labs, a new operating system research application built around real-time video interfaces."
+              },
+              {
+                "t": "p",
+                "x": "Today, we're sharing an early look at four new ways of interacting with your computer: Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds. Interface World Models, like Solaris, are reimagining what an interface can be."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
+          "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
+          "mini_headline": "Runway의 Project Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labs가 Project Continuum을 소개한다. 실시간 영상 인터페이스를 중심에 둔 새 운영체제 연구 애플리케이션이다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 컴퓨터와 상호작용하는 네 가지 새 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지 새로 그린다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Runway Labs、\n映像OS研究アプリを公開",
+          "body": "Runway Labsが映像OS研究アプリProject Continuumを公開した。",
+          "mini_headline": "RunwayのProject Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labsによる、リアルタイム映像インターフェースを軸に構築された新たなオペレーティングシステム研究アプリケーション、Project Continuumを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "本日、コンピューターとの新たな4つの関わり方であるPortals、Visual Thinking、Responsive Video Interfaces、Interactive Worldsの初期段階を公開する。SolarisのようなInterface World Modelsは、インターフェースのあり方そのものを描き直しつつある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Runway Labs发布\n实时视频OS研究应用",
+          "body": "Runway Labs预览基于实时视频的OS研究应用Project Continuum。",
+          "mini_headline": "Runway的Project Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labs推出Project Continuum，这是一款围绕实时视频界面打造的全新操作系统研究应用。"
+              },
+              {
+                "t": "p",
+                "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Runway Labs presenta\nProject Continuum",
+          "body": "Runway Labs adelanta Project Continuum, una app de investigación de sistemas operativos con video en tiempo real.",
+          "mini_headline": "Project Continuum de Runway",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Presentamos Project Continuum de Runway Labs, una nueva aplicación de investigación de sistemas operativos construida en torno a interfaces de video en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Hoy compartimos un primer vistazo a cuatro nuevas formas de interactuar con el equipo: Portals, Visual Thinking, Responsive Video Interfaces e Interactive Worlds. Los Interface World Models, como Solaris, están replanteando lo que puede ser una interfaz."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
+          "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
+          "mini_headline": "Runway의 Project Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labs가 실시간 영상 인터페이스를 중심으로 만든 새로운 운영체제 연구 애플리케이션 Project Continuum을 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 우리는 컴퓨터와 상호작용하는 네 가지 새로운 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지를 새롭게 그리고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Runway Labs、\n映像OS研究アプリを公開",
+          "body": "Runway Labsが映像OS研究アプリProject Continuumを公開した。",
+          "mini_headline": "RunwayのProject Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labsによる、リアルタイム映像インターフェースを軸に構築された新たなオペレーティングシステム研究アプリケーション、Project Continuumを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "本日、コンピューターとの新たな4つの関わり方であるPortals、Visual Thinking、Responsive Video Interfaces、Interactive Worldsの初期段階を公開する。SolarisのようなInterface World Modelsは、インターフェースのあり方そのものを描き直しつつある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Runway Labs发布\n实时视频OS研究应用",
+          "body": "Runway Labs预览基于实时视频的OS研究应用Project Continuum。",
+          "mini_headline": "Runway的Project Continuum",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Runway Labs推出Project Continuum，这是一款围绕实时视频界面打造的全新操作系统研究应用。"
+              },
+              {
+                "t": "p",
+                "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Runway Labs presenta\nProject Continuum",
+          "body": "Runway Labs adelanta Project Continuum, una app de investigación de sistemas operativos con video en tiempo real.",
+          "mini_headline": "Project Continuum de Runway",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K7Q7FESRHJY"
+              },
+              {
+                "t": "p",
+                "x": "Presentamos Project Continuum de Runway Labs, una nueva aplicación de investigación de sistemas operativos construida en torno a interfaces de video en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "Hoy compartimos un primer vistazo a cuatro nuevas formas de interactuar con el equipo: Portals, Visual Thinking, Responsive Video Interfaces e Interactive Worlds. Los Interface World Models, como Solaris, están replanteando lo que puede ser una interfaz."
+              }
+            ]
+          }
+        }
       }
     },
     {
-      "id": "movies-unmasking-monster-ai-mask",
+      "id": "affleck",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 마스크로 입힌 실존 인물의 얼굴\nID 다큐 ‘언마스킹 어 몬스터’",
-      "body": "ID 다큐가 AI 마스크로 배우 얼굴을 에일린 워노스와 똑같이 바꿨다.",
-      "mini_headline": "AI 마스크 재연 다큐",
+      "headline": "Ben Affleck,\nAnimals에 AI 활용",
+      "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
+      "mini_headline": "Affleck의 AI 활용작 Animals",
       "tool": "Movies",
       "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/unmasking-a-monster-aileen-wuornos-defending-its-ai-use-1236709653/",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -65,168 +251,1275 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Unmasking-a-Monster-Aileen-Wuornos-Split-Publicity-H-2026.jpg",
-            "cap": "AI 마스크 적용 전의 배우 모랙 피콕. 사진 Investigation Discovery"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
           },
           {
             "t": "p",
-            "x": "인베스티게이션 디스커버리(ID)의 3부작 다큐 ‘언마스킹 어 몬스터: 에일린 워노스’는 후반 작업에서 AI 마스크 도구를 썼다. 배우 모랙 피콕의 얼굴을 연쇄살인범 워노스와 똑같이 바꿨고, 다른 배우 9명도 실제 인물의 얼굴로 바꿨다."
+            "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 이를 밝히는 일은 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔다. 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 본다는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "총괄 프로듀서 스티븐 도스트는 이런 방식이 업계 처음이라고 말한다. 그는 이 기술을 “아주 발전한 모션캡처”라 부른다. 얼굴을 보여 주려면 이유가 있어야 했고, 고통이 얼굴에 새겨진 워노스가 떠올랐다. 워노스의 기록 영상은 매우 적다. ID 사장 제이슨 살라니스는 재연 장면이 늘 사실감의 걸림돌이었다며 디지털 분장으로 새로운 수준의 진정성을 끌어냈다고 했다."
+            "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 6억 달러 가까이 받고 이 스트리머에 팔았다."
           },
           {
             "t": "p",
-            "x": "기존 재연에서는 배우 얼굴을 일부러 피한다. 이번엔 정면으로 들여다봤다. 당시 기술로는 얼굴형이 비슷한 배우가 필요했고, 피콕은 90분간 분장을 받고 의치 하나를 끼웠다. 무게를 실은 건 그의 눈이었다. 도스트는 테이크가 끝나면 “바늘 떨어지는 소리도 들렸다”고 회상했다."
+            "x": "그는 영화 제작자가 AI 도구를 다루는 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 그렇다고 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고 믿지는 않는다."
           },
           {
             "t": "p",
-            "x": "피콕도 처음엔 망설였다. “AI라는 말을 보면 누구나 ‘잠깐만’ 하게 된다.” 에이전트와 무엇을 요구받는지 따져 본 뒤에야 받아들였다. “나는 대체되지도 복제되지도 않았다. AI 페르소나를 만드는 게 아니다. 결국 CGI 같은 것이고 여전히 나다.” 예고편을 보고는 가면 아래 자기 얼굴이 보였다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "도스트는 “AI가 작업을 빠르게 해 준다는 말은 틀렸다”고 잘라 말한다. 제대로 하려면 오히려 훨씬 느려진다. ‘윤리적으로’ AI를 쓰는 데 3년이 걸렸다. 살라니스는 기술 역량만큼 사용 지침을 만드는 데도 시간을 들였다고 밝혔다. 시리즈는 ID와 HBO 맥스에서 공개됐다."
+            "x": "Netflix가 영화 제작자에게 줄거리를 거듭 설명하게 한다는, 온라인에서 화제가 된 주장도 부인했다. “[Netflix는] 절대 그렇게 하지 않을 것”이라는 설명이다."
           }
         ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ben Affleck used AI for lots\nof things in Netflix's Animals",
+          "body": "Ben Affleck says he used AI for lots of things in his upcoming Netflix thriller Animals, premiering Oct. 9.",
+          "mini_headline": "Affleck's AI-aided Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck used AI “for lots of things” in his upcoming Netflix thriller Animals, he said Wednesday at Bloomberg's 2026 Screentime event — but he won't say which things, because “in my business, we're trying to foster the illusion of reality.” He likened revealing them to a magician announcing the hidden bunny, adding that he thought the film was a good example of using AI ethically “because it's a very human movie.”"
+              },
+              {
+                "t": "p",
+                "x": "Animals, with Gillian Anderson, Steven Yuen and Kerry Washington, premieres on Netflix on Oct. 9. Affleck sold his AI company InterPositive to the streamer for nearly $600 million."
+              },
+              {
+                "t": "p",
+                "x": "He said that once filmmakers gain “a sense of control” over AI tools, the technology stops being a “terrifying alien” and becomes “another form of computing,” though he doesn't believe AI will ever let a filmmaker “type [a prompt] in and make a movie that people want to see.”"
+              },
+              {
+                "t": "p",
+                "x": "He also rejected the viral claim that Netflix makes filmmakers restate the plot of their movies, saying “[Netflix] would never do that.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Ben Affleck,\nAnimals에 AI 활용",
+          "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
+          "mini_headline": "Affleck의 AI 활용작 Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 이를 밝히는 일은 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔다. 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 본다는 말도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 6억 달러 가까이 받고 이 스트리머에 팔았다."
+              },
+              {
+                "t": "p",
+                "x": "그는 영화 제작자가 AI 도구를 다루는 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 그렇다고 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고 믿지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Netflix가 영화 제작자에게 줄거리를 거듭 설명하게 한다는, 온라인에서 화제가 된 주장도 부인했다. “[Netflix는] 절대 그렇게 하지 않을 것”이라는 설명이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ben Affleck、\n新作AnimalsでAI活用",
+          "body": "Ben AffleckはNetflixのスリラーAnimalsでAIを多用したと語った。",
+          "mini_headline": "AffleckのAI活用作Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleckは水曜日、Bloombergの2026 Screentimeイベントで、近く配信されるNetflixのスリラーAnimalsでAIを「いろいろなことに」使ったと語った。ただし、どこに使ったかは明かさない。「私の業界では、現実だという錯覚を育もうとしているから」だという。彼はそれを明かすことを、マジシャンが隠したウサギを先に告げることにたとえ、この作品は「とても人間的な映画だから」AIを倫理的に使った好例だと思うと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Gillian Anderson、Steven Yuen、Kerry Washingtonが出演するAnimalsは、10月9日にNetflixで配信される。Affleckは自身のAI企業InterPositiveを同ストリーマーに6億ドル近くで売却している。"
+              },
+              {
+                "t": "p",
+                "x": "彼は、映画制作者がAIツールに対して「コントロールしている感覚」を得れば、この技術は「恐ろしいエイリアン」ではなくなり、「もう一つのコンピューティングの形」になると述べた。ただし、AIによって映画制作者が「［プロンプトを］打ち込んで、人々が見たい映画を作る」ことができるようになるとは考えていない。"
+              },
+              {
+                "t": "p",
+                "x": "また、Netflixが映画制作者に作品のあらすじを繰り返し説明させるという、ネットで拡散した主張も否定し、「［Netflixは］決してそんなことはしない」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ben Affleck称\nAnimals多处用AI",
+          "body": "Ben Affleck称他在Netflix惊悚片Animals中多处用了AI。",
+          "mini_headline": "Affleck借助AI的Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck周三在Bloomberg的2026 Screentime活动上表示，他在即将登陆Netflix的惊悚片Animals中把AI用于“很多方面”，但不愿透露具体是哪些，因为“在我这一行，我们努力营造真实的幻觉”。他把公开这些细节比作魔术师预先说出藏起来的兔子，并补充说，他认为这部电影是合乎伦理地使用AI的好例子，“因为它是一部非常有人情味的电影”。"
+              },
+              {
+                "t": "p",
+                "x": "Animals由Gillian Anderson、Steven Yuen和Kerry Washington主演，将于10月9日在Netflix上线。Affleck曾以近6亿美元将自己的AI公司InterPositive出售给这家流媒体平台。"
+              },
+              {
+                "t": "p",
+                "x": "他说，一旦电影人对AI工具有了“掌控感”，这项技术就不再是“可怕的外星生物”，而会成为“另一种计算形式”；不过他并不认为AI能让电影人“输入[提示词]就做出一部人们想看的电影”。"
+              },
+              {
+                "t": "p",
+                "x": "他还否认了网上热传的Netflix要求电影人在片中反复交代剧情的说法，称“[Netflix]绝不会那样做”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ben Affleck usó IA para muchas\ncosas en Animals de Netflix",
+          "body": "Ben Affleck dice que usó IA para muchas cosas en Animals, su thriller de Netflix que se estrena el 9 de octubre.",
+          "mini_headline": "Animals, de Affleck, con ayuda de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck usó IA “para muchas cosas” en Animals, su próximo thriller de Netflix, según dijo el miércoles en el evento 2026 Screentime de Bloomberg, pero no quiso decir cuáles, porque “en mi negocio intentamos fomentar la ilusión de realidad”. Comparó revelarlas con un mago que anuncia dónde está el conejo escondido y añadió que considera la película un buen ejemplo de uso ético de la IA “porque es una película muy humana”."
+              },
+              {
+                "t": "p",
+                "x": "Animals, con Gillian Anderson, Steven Yuen y Kerry Washington, se estrena en Netflix el 9 de octubre. Affleck vendió su empresa de IA, InterPositive, a la plataforma por casi 600 millones de dólares."
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que, cuando los cineastas adquieren “una sensación de control” sobre las herramientas de IA, la tecnología deja de ser un “alienígena aterrador” y se convierte en “otra forma de computación”, aunque no cree que la IA vaya a permitir nunca a un cineasta “escribir [un prompt] y hacer una película que la gente quiera ver”."
+              },
+              {
+                "t": "p",
+                "x": "También rechazó la afirmación viral de que Netflix obliga a los cineastas a repetir la trama de sus películas: “[Netflix] nunca haría eso”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Ben Affleck,\nAnimals에 AI 활용",
+          "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
+          "mini_headline": "Affleck의 AI 활용작 Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 그는 이를 공개하는 일을 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔고, 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 생각한다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 이 스트리머에 6억 달러 가까운 금액에 매각했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 영화 제작자가 AI 도구에 대해 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 다만 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고는 믿지 않는다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 Netflix가 영화 제작자에게 영화 줄거리를 거듭 설명하게 한다는 온라인 화제의 주장도 부인하며 “[Netflix는] 절대 그렇게 하지 않을 것”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ben Affleck、\n新作AnimalsでAI活用",
+          "body": "Ben AffleckはNetflixのスリラーAnimalsでAIを多用したと語った。",
+          "mini_headline": "AffleckのAI活用作Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleckは水曜日、Bloombergの2026 Screentimeイベントで、近く配信されるNetflixのスリラーAnimalsでAIを「いろいろなことに」使ったと語った。ただし、どこに使ったかは明かさない。「私の業界では、現実だという錯覚を育もうとしているから」だという。彼はそれを明かすことを、マジシャンが隠したウサギを先に告げることにたとえ、この作品は「とても人間的な映画だから」AIを倫理的に使った好例だと思うと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Gillian Anderson、Steven Yuen、Kerry Washingtonが出演するAnimalsは、10月9日にNetflixで配信される。Affleckは自身のAI企業InterPositiveを同ストリーマーに6億ドル近くで売却している。"
+              },
+              {
+                "t": "p",
+                "x": "彼は、映画制作者がAIツールに対して「コントロールしている感覚」を得れば、この技術は「恐ろしいエイリアン」ではなくなり、「もう一つのコンピューティングの形」になると述べた。ただし、AIによって映画制作者が「［プロンプトを］打ち込んで、人々が見たい映画を作る」ことができるようになるとは考えていない。"
+              },
+              {
+                "t": "p",
+                "x": "また、Netflixが映画制作者に作品のあらすじを繰り返し説明させるという、ネットで拡散した主張も否定し、「［Netflixは］決してそんなことはしない」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ben Affleck称\nAnimals多处用AI",
+          "body": "Ben Affleck称他在Netflix惊悚片Animals中多处用了AI。",
+          "mini_headline": "Affleck借助AI的Animals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck周三在Bloomberg的2026 Screentime活动上表示，他在即将登陆Netflix的惊悚片Animals中把AI用于“很多方面”，但不愿透露具体是哪些，因为“在我这一行，我们努力营造真实的幻觉”。他把公开这些细节比作魔术师预先说出藏起来的兔子，并补充说，他认为这部电影是合乎伦理地使用AI的好例子，“因为它是一部非常有人情味的电影”。"
+              },
+              {
+                "t": "p",
+                "x": "Animals由Gillian Anderson、Steven Yuen和Kerry Washington主演，将于10月9日在Netflix上线。Affleck曾以近6亿美元将自己的AI公司InterPositive出售给这家流媒体平台。"
+              },
+              {
+                "t": "p",
+                "x": "他说，一旦电影人对AI工具有了“掌控感”，这项技术就不再是“可怕的外星生物”，而会成为“另一种计算形式”；不过他并不认为AI能让电影人“输入[提示词]就做出一部人们想看的电影”。"
+              },
+              {
+                "t": "p",
+                "x": "他还否认了网上热传的Netflix要求电影人在片中反复交代剧情的说法，称“[Netflix]绝不会那样做”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ben Affleck usó IA para muchas\ncosas en Animals de Netflix",
+          "body": "Ben Affleck dice que usó IA para muchas cosas en Animals, su thriller de Netflix que se estrena el 9 de octubre.",
+          "mini_headline": "Animals, de Affleck, con ayuda de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Ben Affleck usó IA “para muchas cosas” en Animals, su próximo thriller de Netflix, según dijo el miércoles en el evento 2026 Screentime de Bloomberg, pero no quiso decir cuáles, porque “en mi negocio intentamos fomentar la ilusión de realidad”. Comparó revelarlas con un mago que anuncia dónde está el conejo escondido y añadió que considera la película un buen ejemplo de uso ético de la IA “porque es una película muy humana”."
+              },
+              {
+                "t": "p",
+                "x": "Animals, con Gillian Anderson, Steven Yuen y Kerry Washington, se estrena en Netflix el 9 de octubre. Affleck vendió su empresa de IA, InterPositive, a la plataforma por casi 600 millones de dólares."
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que, cuando los cineastas adquieren “una sensación de control” sobre las herramientas de IA, la tecnología deja de ser un “alienígena aterrador” y se convierte en “otra forma de computación”, aunque no cree que la IA vaya a permitir nunca a un cineasta “escribir [un prompt] y hacer una película que la gente quiera ver”."
+              },
+              {
+                "t": "p",
+                "x": "También rechazó la afirmación viral de que Netflix obliga a los cineastas a repetir la trama de sus películas: “[Netflix] nunca haría eso”."
+              }
+            ]
+          }
+        }
       }
     },
     {
-      "id": "movies-utopai-pai-x",
+      "id": "jadu",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유토파이, 대본부터 촬영본까지\n한곳에서 다루는 PAI 공개",
-      "body": "PAI에선 AI 에이전트가 대본을 숏으로 나누고 Utopai X가 영상을 만든다.",
-      "mini_headline": "유토파이 PAI 공개",
+      "headline": "Studio Jadu,\n대본을 애니메이션으로",
+      "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
+      "mini_headline": "Studio Jadu 출범",
       "tool": "Movies",
-      "source": "TV Technology",
-      "url": "https://www.tvtechnology.com/production/live-production/utopai-studios-launches-new-pai-and-utopai-x-to-advance-production-intelligence-for-film-and-tv",
+      "source": "AWN",
+      "url": "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu",
       "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/5gfKKN2xTmbsHcvmAh9tbR.png",
-            "cap": "사진 Utopai"
-          },
-          {
-            "t": "p",
-            "x": "유토파이 스튜디오가 영화·TV 제작용 시스템 PAI와 영상 생성 모델 Utopai X를 내놨다. PAI는 영상 생성과 제작 맥락, 영화인 중심 워크플로를 하나로 묶었다."
-          },
-          {
-            "t": "p",
-            "x": "실제로 돌아가는 스튜디오 안에서 개발한 만큼 전문 제작 현장의 요구에 맞췄다. 숏을 계획하고 에셋을 만들고 영상을 생성하고, 테이크를 검토하고 수정본을 관리한다. 그동안 대본과 캐릭터, 장소, 에셋, 창작 결정이 계속 연결된 채로 남는다."
-          },
-          {
-            "t": "p",
-            "x": "Utopai X는 PAI의 영상 생성 층이다. 회사에 따르면 아티피셜 애널리시스의 ‘오디오 포함 텍스트-비디오’ 순위에서 Elo 1,150점으로 세계 2위다. 1위와는 9점 차이이고, 미국 회사 모델 가운데서는 가장 높다. 이 순위는 참가자가 어느 모델 결과인지 모른 채 비교하는 블라인드 선호 테스트로 매긴다."
-          },
-          {
-            "t": "p",
-            "x": "Utopai X는 반사와 커스틱 같은 까다로운 시각 표현, 세계 이해, 공간 일관성에 강하다. 숏이 복잡해져도 화면 연속성과 환경이 흐트러지지 않게 돕는다."
-          },
-          {
-            "t": "p",
-            "x": "PAI에 대본을 넣으면 장면과 숏 단위로 정리된다. 캐릭터, 장소, 사물, 시각 레퍼런스, 제작 결정은 프로젝트에 묶여 있다. 유토파이의 AI 에이전트인 ‘프로덕션 어시스턴트’가 이 맥락을 읽고 숏 계획과 아이디어, 새 버전을 돕는다. 무엇을 만들고 남기고 고칠지는 영화인이 정한다."
-          },
-          {
-            "t": "p",
-            "x": "PAI 안에서 숏을 짜고 Utopai X로 영상을 뽑아 여러 테이크를 나란히 비교할 수 있다. 이전 버전은 그대로 남고, 고른 영상은 어도비 프리미어와 다빈치 리졸브 같은 기존 편집·후반 공정으로 넘긴다. 유토파이는 마이크 벤더가 각본·연출하는 애니메이션 장편 ‘더 모스트 시리어스 파트’ 등 자사 작품에 이미 두 도구를 쓰고 있다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-silnakwon-universe-ai",
-      "eyebrow": "AI NEWS",
-      "headline": "연상호 ‘실낙원’ 프리퀄 단편\n생성형 AI로 만들어 공개",
-      "body": "연상호가 각본을 쓴 ‘실낙원 - 유니버스’가 생성형 AI로 만들어져 공개됐다.",
-      "mini_headline": "실낙원 AI 프리퀄",
-      "tool": "Movies",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260928048300005",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://img0.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928048300005_01_i_P4.jpg",
-            "cap": "단편 영화 ‘실낙원 - 유니버스’ 예고편. CJ ENM 제공"
-          },
-          {
-            "t": "p",
-            "x": "연상호 감독의 신작 영화 ‘실낙원’ 세계관을 넓힌 단편 시리즈 ‘실낙원 - 유니버스’가 공개된다."
-          },
-          {
-            "t": "p",
-            "x": "배급사 CJ ENM은 28일, 첫 번째 시리즈 ‘당신의 미역국’과 두 번째 시리즈 ‘아빠가 있잖아’를 29일 유튜브와 네이버 TV, 인스타그램, 페이스북 등에 올린다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "‘실낙원 - 유니버스’는 영화 ‘실낙원’과 같은 세계관의 프리퀄이다. 떠나보낸 사람을 다시 만나게 해 주는 인공지능(AI) 기술이 일상이 된 시대, 여러 사람이 겪는 일을 에피소드로 엮었다."
-          },
-          {
-            "t": "p",
-            "x": "1화 ‘당신의 미역국’은 아내를 먼저 보낸 노인이 낯선 장치 하나로 아내와 다시 마주 앉는 이야기다. 2화 ‘아빠가 있잖아’는 아빠를 잃은 어린 딸이 낯선 안경 속에 구현된 아빠와 재회하는 기묘한 이야기를 그린다."
-          },
-          {
-            "t": "p",
-            "x": "연상호 감독이 쓴 각본을 바탕으로 생성형 AI를 써서 만들었다. 음악은 ‘실낙원’의 채민주 음악 감독이 맡았다."
-          },
-          {
-            "t": "p",
-            "x": "영화 ‘실낙원’은 아들의 실종 사고를 겪은 엄마 류소영(김현주 분)이 9년 만에 아들 류선우(배현성)와 재회하며 벌어지는 이야기다. 류소영은 죽은 아들을 AI로 구현하는 ‘트랜스 휴먼’ 기술에 기대 슬픔을 견뎌 왔다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-garbo-ai-skf-ad",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 돌아온 그레타 가르보\n첫 무대는 베어링 광고",
-      "body": "SKF 광고에 AI로 되살린 가르보가 나왔고 후손은 영화 출연 가능성도 열어 뒀다.",
-      "mini_headline": "AI 가르보 복귀",
-      "tool": "Movies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.guim.co.uk/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg",
-            "cap": "1930년 ‘안나 크리스티’의 그레타 가르보. 사진 MGM/Sportsphoto/Allstar"
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
           },
           {
             "t": "p",
-            "x": "무성영화 시대를 빛내고 첫 토키 영화까지 밝혔던 그레타 가르보가 AI 시대의 영화에 출연할지도 모른다. 스크린 데뷔 100여 년, 스웨덴 숲속 묘지에 유해가 묻힌 지 수십 년 만이다. 후손들은 AI 가르보가 21세기 영화 배역을 맡는 것도 검토할 뜻을 내비쳤다."
+            "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 돕고 수익도 함께 나눈다. 회사는 캘리포니아주 San Mateo에 있으며 Khosla Ventures와 Shakti VC에서 투자를 받았다."
           },
           {
             "t": "p",
-            "x": "가르보의 모습은 이미 스웨덴 산업 기업 SKF 광고에서 AI로 되살아났다. 비평가들이 ‘고스트플로이테이션’이라 부르는 방식으로, 지난해 세상을 뜬 발 킬머에게도 쓰였다. 유산을 관리하는 친척 셋 중 한 명인 크레이그 라이스필드는 “아니라고는 하지 않겠다”며 영화 배역 가능성을 열어 뒀다. 가르보가 두 번째로 출연한 작품이 1921년 SKF가 등장한 홍보 영화였다는 인연도 있다."
-          },
-          {
-            "t": "video",
-            "yt": "JbttlHN0A4U"
+            "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이 도구를 프롬프트 기반 영상 생성기가 아니라 \"creative soundboard\"라고 부른다. 배급과 마케팅, 팬덤 형성, 수익화까지 돕는다."
           },
           {
             "t": "p",
-            "x": "99초짜리 광고에서 AI 가르보의 연기는 볼베어링 화면과 교차 편집된다. 라이스필드는 몸짓과 의상, 얼굴, 목소리까지 담아낸 데 “완전히 감탄했다”고 했다."
+            "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. YouTube 구독자는 250만 명을 넘겼다."
           },
           {
             "t": "p",
-            "x": "제작진은 중국의 시드림과 구글 나노 바나나 프로 등으로 가르보를 만들었다. 저작권 때문에 가르보의 영상이나 사진은 AI에 넣지 않았다. 대신 얼음처럼 푸른 눈, 물결치는 금발 단발 같은 특징을 텍스트 프롬프트로 묘사했다. 실제 배우가 연기하고 그 위에 AI로 만든 외모를 입혔다. 목소리는 초기 영화 녹음으로 재현했다."
-          },
-          {
-            "t": "p",
-            "x": "결과물은 ‘불쾌한 골짜기’를 넘어선 듯 보인다. 대사는 MGM 작가들 수준에 못 미친다. 라이스필드는 가르보의 목소리와 이름, 이미지 권리를 가진 쪽이 파트너를 “매우 까다롭게” 고른다고 했다. 가르보의 초상은 페라가모, 구찌, 루이비통이 쓴 적 있지만 움직이는 영상은 이번이 처음이다. 광고는 ‘그랜드 호텔’의 명대사 “혼자 있고 싶어요”로 끝난다."
+            "x": "지금은 Pioneer Program 지원서를 받는 중이며, 애니메 스타일 프로젝트를 특히 눈여겨본다."
           }
         ]
+      },
+      "text": {
+        "en": {
+          "headline": "Studio Jadu turns creator\nscripts into animation",
+          "body": "Masoud Loghmani's Studio Jadu uses its AIDA tool to animate creator scripts, with artists sharing in revenue.",
+          "mini_headline": "Studio Jadu launches",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "Masoud Loghmani, who built and scaled creator monetization products at YouTube and TikTok, has launched Studio Jadu, an AI-powered animation studio that backs solo artists and small teams as they make original animated shows and share in the revenue. The San Mateo, California company is backed by Khosla Ventures and Shakti VC."
+              },
+              {
+                "t": "p",
+                "x": "Its production tool, AIDA (AI Director's Assistant), turns an artist's script into animation while leaving creative decisions with the artist; the studio calls it a \"creative soundboard\" rather than a prompt-to-video generator, and also supports distribution, marketing, fandom development and monetization."
+              },
+              {
+                "t": "p",
+                "x": "Early shows include The Future Was Awesome, a comedy from four-time Emmy winner Fred Graver, the thriller Sentinels and the supernatural mystery SDF. The company has built an audience of more than 2.5 million YouTube subscribers."
+              },
+              {
+                "t": "p",
+                "x": "Its Pioneer Program is now accepting applications, with particular interest in anime-inspired projects."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Studio Jadu,\n대본을 애니메이션으로",
+          "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
+          "mini_headline": "Studio Jadu 출범",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 돕고 수익도 함께 나눈다. 회사는 캘리포니아주 San Mateo에 있으며 Khosla Ventures와 Shakti VC에서 투자를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이 도구를 프롬프트 기반 영상 생성기가 아니라 \"creative soundboard\"라고 부른다. 배급과 마케팅, 팬덤 형성, 수익화까지 돕는다."
+              },
+              {
+                "t": "p",
+                "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. YouTube 구독자는 250만 명을 넘겼다."
+              },
+              {
+                "t": "p",
+                "x": "지금은 Pioneer Program 지원서를 받는 중이며, 애니메 스타일 프로젝트를 특히 눈여겨본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Studio Jadu、\n脚本をアニメに",
+          "body": "Studio JaduはAIDAでクリエイターの脚本をアニメ化し、収益を分け合う。",
+          "mini_headline": "Studio Jadu始動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "YouTubeとTikTokでクリエイター収益化プロダクトを構築・拡大してきたMasoud Loghmaniが、AIを活用した(AI-powered)アニメーションスタジオStudio Jaduを立ち上げた。オリジナルのアニメ作品を制作する個人アーティストや小規模チームを支援し、収益を分け合う。カリフォルニア州San Mateoを拠点とし、Khosla VenturesとShakti VCが出資している。"
+              },
+              {
+                "t": "p",
+                "x": "制作ツールAIDA(AI Director's Assistant)はアーティストの脚本をアニメーションに変換しつつ、創作上の判断はアーティストに委ねる。スタジオはこれをプロンプトから動画を生成するツールではなく\"creative soundboard\"と位置づけ、配信、マーケティング、ファンダム形成、収益化も支援する。"
+              },
+              {
+                "t": "p",
+                "x": "初期作品には、エミー賞4回受賞のFred Graverによるコメディ The Future Was Awesome、スリラー Sentinels、超自然ミステリー SDFがある。同社はYouTubeで250万人以上の登録者を獲得している。"
+              },
+              {
+                "t": "p",
+                "x": "現在Pioneer Programの応募を受け付けており、特にアニメ調のプロジェクトに関心を寄せている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Studio Jadu\n把创作者剧本变动画",
+          "body": "Studio Jadu用AIDA工具将创作者剧本制成动画，并与艺术家分享收入。",
+          "mini_headline": "Studio Jadu上线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "曾在YouTube和TikTok打造并扩展创作者变现产品的Masoud Loghmani推出了AI驱动(AI-powered)的动画工作室Studio Jadu，支持独立艺术家和小团队制作原创动画节目，并与他们分享收入。这家位于加州San Mateo的公司获得了Khosla Ventures和Shakti VC的投资。"
+              },
+              {
+                "t": "p",
+                "x": "其制作工具AIDA(AI Director's Assistant)可将艺术家的剧本转化为动画，同时把创作决定权留给艺术家；工作室称它是\"creative soundboard\"，而非提示词生成视频的工具，并同时支持发行、营销、粉丝社群培育与变现。"
+              },
+              {
+                "t": "p",
+                "x": "首批作品包括四届艾美奖得主Fred Graver的喜剧The Future Was Awesome、惊悚片Sentinels和超自然悬疑片SDF。公司已在YouTube积累超过250万订阅者。"
+              },
+              {
+                "t": "p",
+                "x": "其Pioneer Program现已开放申请，尤其欢迎受日本动漫启发的项目。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Studio Jadu convierte guiones\nde creadores en animación",
+          "body": "Studio Jadu, de Masoud Loghmani, anima guiones de creadores con AIDA y comparte ingresos con los artistas.",
+          "mini_headline": "Nace Studio Jadu",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "Masoud Loghmani, que creó y escaló productos de monetización para creadores en YouTube y TikTok, ha lanzado Studio Jadu, un estudio de animación impulsado por IA (AI-powered) que respalda a artistas individuales y equipos pequeños mientras crean series animadas originales y comparten los ingresos. La empresa, con sede en San Mateo, California, cuenta con el respaldo de Khosla Ventures y Shakti VC."
+              },
+              {
+                "t": "p",
+                "x": "Su herramienta de producción, AIDA (AI Director's Assistant), convierte el guion de un artista en animación y deja las decisiones creativas en manos del artista; el estudio la describe como una \"creative soundboard\" y no como un generador de video a partir de prompts, y además apoya la distribución, el marketing, el desarrollo de comunidades de fans y la monetización."
+              },
+              {
+                "t": "p",
+                "x": "Entre las primeras series figuran The Future Was Awesome, una comedia de Fred Graver, ganador de cuatro premios Emmy; el thriller Sentinels y el misterio sobrenatural SDF. La compañía ha reunido una audiencia de más de 2,5 millones de suscriptores en YouTube."
+              },
+              {
+                "t": "p",
+                "x": "Su Pioneer Program ya acepta solicitudes, con especial interés en proyectos inspirados en el anime."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Studio Jadu,\n대본을 애니메이션으로",
+          "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
+          "mini_headline": "Studio Jadu 출범",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 이 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 지원하고 수익을 함께 나눈다. 캘리포니아주 San Mateo에 자리한 이 회사는 Khosla Ventures와 Shakti VC의 투자를 받았다."
+              },
+              {
+                "t": "p",
+                "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이를 프롬프트 기반 영상 생성기가 아닌 \"creative soundboard\"라고 부르며, 배급과 마케팅, 팬덤 형성, 수익화도 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. 회사는 250만 명이 넘는 YouTube 구독자를 확보했다."
+              },
+              {
+                "t": "p",
+                "x": "현재 Pioneer Program 지원서를 받고 있으며, 특히 애니메 스타일의 프로젝트에 관심을 두고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Studio Jadu、\n脚本をアニメに",
+          "body": "Studio JaduはAIDAでクリエイターの脚本をアニメ化し、収益を分け合う。",
+          "mini_headline": "Studio Jadu始動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "YouTubeとTikTokでクリエイター収益化プロダクトを構築・拡大してきたMasoud Loghmaniが、AIを活用した(AI-powered)アニメーションスタジオStudio Jaduを立ち上げた。オリジナルのアニメ作品を制作する個人アーティストや小規模チームを支援し、収益を分け合う。カリフォルニア州San Mateoを拠点とし、Khosla VenturesとShakti VCが出資している。"
+              },
+              {
+                "t": "p",
+                "x": "制作ツールAIDA(AI Director's Assistant)はアーティストの脚本をアニメーションに変換しつつ、創作上の判断はアーティストに委ねる。スタジオはこれをプロンプトから動画を生成するツールではなく\"creative soundboard\"と位置づけ、配信、マーケティング、ファンダム形成、収益化も支援する。"
+              },
+              {
+                "t": "p",
+                "x": "初期作品には、エミー賞4回受賞のFred Graverによるコメディ The Future Was Awesome、スリラー Sentinels、超自然ミステリー SDFがある。同社はYouTubeで250万人以上の登録者を獲得している。"
+              },
+              {
+                "t": "p",
+                "x": "現在Pioneer Programの応募を受け付けており、特にアニメ調のプロジェクトに関心を寄せている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Studio Jadu\n把创作者剧本变动画",
+          "body": "Studio Jadu用AIDA工具将创作者剧本制成动画，并与艺术家分享收入。",
+          "mini_headline": "Studio Jadu上线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "曾在YouTube和TikTok打造并扩展创作者变现产品的Masoud Loghmani推出了AI驱动(AI-powered)的动画工作室Studio Jadu，支持独立艺术家和小团队制作原创动画节目，并与他们分享收入。这家位于加州San Mateo的公司获得了Khosla Ventures和Shakti VC的投资。"
+              },
+              {
+                "t": "p",
+                "x": "其制作工具AIDA(AI Director's Assistant)可将艺术家的剧本转化为动画，同时把创作决定权留给艺术家；工作室称它是\"creative soundboard\"，而非提示词生成视频的工具，并同时支持发行、营销、粉丝社群培育与变现。"
+              },
+              {
+                "t": "p",
+                "x": "首批作品包括四届艾美奖得主Fred Graver的喜剧The Future Was Awesome、惊悚片Sentinels和超自然悬疑片SDF。公司已在YouTube积累超过250万订阅者。"
+              },
+              {
+                "t": "p",
+                "x": "其Pioneer Program现已开放申请，尤其欢迎受日本动漫启发的项目。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Studio Jadu convierte guiones\nde creadores en animación",
+          "body": "Studio Jadu, de Masoud Loghmani, anima guiones de creadores con AIDA y comparte ingresos con los artistas.",
+          "mini_headline": "Nace Studio Jadu",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
+              },
+              {
+                "t": "p",
+                "x": "Masoud Loghmani, que creó y escaló productos de monetización para creadores en YouTube y TikTok, ha lanzado Studio Jadu, un estudio de animación impulsado por IA (AI-powered) que respalda a artistas individuales y equipos pequeños mientras crean series animadas originales y comparten los ingresos. La empresa, con sede en San Mateo, California, cuenta con el respaldo de Khosla Ventures y Shakti VC."
+              },
+              {
+                "t": "p",
+                "x": "Su herramienta de producción, AIDA (AI Director's Assistant), convierte el guion de un artista en animación y deja las decisiones creativas en manos del artista; el estudio la describe como una \"creative soundboard\" y no como un generador de video a partir de prompts, y además apoya la distribución, el marketing, el desarrollo de comunidades de fans y la monetización."
+              },
+              {
+                "t": "p",
+                "x": "Entre las primeras series figuran The Future Was Awesome, una comedia de Fred Graver, ganador de cuatro premios Emmy; el thriller Sentinels y el misterio sobrenatural SDF. La compañía ha reunido una audiencia de más de 2,5 millones de suscriptores en YouTube."
+              },
+              {
+                "t": "p",
+                "x": "Su Pioneer Program ya acepta solicitudes, con especial interés en proyectos inspirados en el anime."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "variety-animators-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 시대 주목할\n애니메이터 10인",
+      "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
+      "mini_headline": "애니메이터들이 말하는 AI",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자기 작업의 미래와, 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신이며 손그림, 스톱모션, CG 애니메이션을 만든다."
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "대화가 인공지능으로 넘어가자 패널들은 이를 정답이 하나뿐인 문제로 다루지 않았다. 대신 기술과 구체성, 협업 이야기로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 AI로 만든 작품이라는 걸 알게 되면 흥미가 식는다고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 클린업 아티스트와 리거부터 제작팀까지, 잘 드러나지 않는 역할도 이날 조명을 받았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "10 Animators to Watch on AI\nand why the human hand matters",
+          "body": "Variety's 2026 class of 10 Animators to Watch discusses AI, unsung artists, collaboration and the medium's future.",
+          "mini_headline": "Animators weigh in on AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "On the final day of the 10th annual SCAD AnimationFest in Atlanta, Variety's 2026 class of 10 Animators to Watch took the stage to talk about the future of their craft and why the human hand still matters. The group spans Ireland, France, Belgium, Bulgaria, Singapore, Hong Kong, Canada and the U.S., working in hand-drawn, stop-motion and CG animation."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "When the talk turned to artificial intelligence, the panelists did not treat it as a single problem with one answer, returning instead to craft, specificity and collaboration. Cartoon Saloon's Louise Bagnall argued the best defense is to get more specific: \"AI tends toward homogeneity... You can lean into your own point of view. Nobody else has your point of view on the world.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Iron Boy\" animation director Chloë Aubert recalled being told 15 years ago that 2D was disappearing, and simply kept making the work she wanted to make. Laika's Tilly Fiddler said she loses interest in work once she learns it is AI."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "\"It's a little scary, but I believe in us,\" said Spider-Verse storyboard artist Samantha Suyi Lee. Disney's Amol Sathe added that the best projects still come from people collaborating and relying on their teams. The panel also championed overlooked roles, from cleanup artists and riggers to production teams."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 시대 주목할\n애니메이터 10인",
+          "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
+          "mini_headline": "애니메이터들이 말하는 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자기 작업의 미래와, 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신이며 손그림, 스톱모션, CG 애니메이션을 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "대화가 인공지능으로 넘어가자 패널들은 이를 정답이 하나뿐인 문제로 다루지 않았다. 대신 기술과 구체성, 협업 이야기로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 AI로 만든 작품이라는 걸 알게 되면 흥미가 식는다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 클린업 아티스트와 리거부터 제작팀까지, 잘 드러나지 않는 역할도 이날 조명을 받았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI時代に注目の\nアニメーター10人",
+          "body": "Variety選出の2026年注目アニメーター10人が、AIや協働、表現の未来を語った。",
+          "mini_headline": "アニメーターが語るAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "アトランタで開かれた第10回SCAD AnimationFestの最終日、Varietyが選んだ2026年の10 Animators to Watchが登壇し、自らの仕事の未来と、人の手がなお重要である理由を語った。メンバーはアイルランド、フランス、ベルギー、ブルガリア、シンガポール、香港、カナダ、米国(U.S.)にまたがり、手描き、ストップモーション、CGアニメーションを手がける。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "話題が人工知能に及ぶと、パネリストたちはそれを答えが一つしかない単一の問題として扱わず、技巧、具体性、協働へと立ち返った。Cartoon SaloonのLouise Bagnallは、最善の防御はより具体的になることだと述べた。「AIは均質化に向かいがちだ……自分の視点に寄りかかればいい。世界に対するあなたの視点は、ほかの誰も持っていない」"
+              },
+              {
+                "t": "p",
+                "x": "「Iron Boy」のアニメーション監督Chloë Aubertは、15年前に2Dは消えつつあると言われたが、ただ作りたい作品を作り続けたと振り返った。LaikaのTilly Fiddlerは、作品がAIによるものだと知った途端に興味を失うと語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "「少し怖いけれど、私たちを信じている」とSpider-VerseのストーリーボードアーティストSamantha Suyi Leeは語った。DisneyのAmol Satheは、最良のプロジェクトは今も人々が協働し、チームを頼りにするところから生まれると付け加えた。パネルはクリーンアップアーティストやリガーから制作チームまで、見過ごされがちな役割にも光を当てた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Variety十位动画师\n谈AI与人手价值",
+          "body": "Variety评选的2026年十位值得关注的动画师，畅谈AI、协作与媒介的未来。",
+          "mini_headline": "动画师谈AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "在亚特兰大举行的第10届SCAD AnimationFest最后一天，Variety评选的2026年10 Animators to Watch登台，谈论这门手艺的未来，以及人手为何依然重要。这群动画师来自爱尔兰、法国、比利时、保加利亚、新加坡、香港、加拿大和美国(U.S.)，从事手绘、定格和CG动画创作。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "话题转到人工智能时，嘉宾们并未把它当作只有一个答案的单一问题，而是回到技艺、具体性与协作。Cartoon Saloon的Louise Bagnall认为最好的防御是变得更具体：“AI往往趋于同质化……你可以坚持自己的视角。没有人拥有你看待世界的视角。”"
+              },
+              {
+                "t": "p",
+                "x": "《Iron Boy》动画导演Chloë Aubert回忆，15年前就有人告诉她2D正在消失，而她只是继续做自己想做的作品。Laika的Tilly Fiddler说，一旦得知作品出自AI，她就会失去兴趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Spider-Verse分镜师Samantha Suyi Lee说：“有点可怕，但我相信我们。”Disney的Amol Sathe补充说，最好的项目依然来自人们的协作和对团队的依靠。嘉宾们也为常被忽视的岗位发声，从清稿师、绑定师到制作团队。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "10 Animators to Watch y la IA:\nla mano humana sigue importando",
+          "body": "La promoción 2026 de 10 Animators to Watch de Variety habla de IA, artistas anónimos, colaboración y futuro.",
+          "mini_headline": "Los animadores opinan sobre la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "En la última jornada de la 10.ª edición de SCAD AnimationFest en Atlanta, la promoción 2026 de 10 Animators to Watch de Variety subió al escenario para hablar del futuro de su oficio y de por qué la mano humana sigue importando. El grupo abarca Irlanda, Francia, Bélgica, Bulgaria, Singapur, Hong Kong, Canadá y EE. UU. (U.S.), y trabaja en animación dibujada a mano, stop-motion y CG."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Cuando la conversación llegó a la inteligencia artificial, los panelistas no la trataron como un único problema con una sola respuesta, sino que volvieron al oficio, la especificidad y la colaboración. Louise Bagnall, de Cartoon Saloon, sostuvo que la mejor defensa es ser más específico: \"La IA tiende a la homogeneidad... Puedes apoyarte en tu propio punto de vista. Nadie más tiene tu punto de vista sobre el mundo\"."
+              },
+              {
+                "t": "p",
+                "x": "Chloë Aubert, directora de animación de \"Iron Boy\", recordó que hace 15 años le dijeron que el 2D estaba desapareciendo, y simplemente siguió haciendo el trabajo que quería hacer. Tilly Fiddler, de Laika, dijo que pierde el interés en una obra cuando se entera de que es IA."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "\"Da un poco de miedo, pero creo en nosotros\", dijo Samantha Suyi Lee, artista de storyboard de Spider-Verse. Amol Sathe, de Disney, añadió que los mejores proyectos siguen surgiendo de la colaboración entre personas y de la confianza en sus equipos. El panel también reivindicó funciones poco visibles, desde los artistas de limpieza y los riggers hasta los equipos de producción."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 시대 주목할\n애니메이터 10인",
+          "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
+          "mini_headline": "애니메이터들이 말하는 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자신들의 작업의 미래와 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신으로 손그림, 스톱모션, CG 애니메이션 작업을 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "대화가 인공지능으로 옮겨 가자 패널들은 이를 정답이 하나뿐인 단일 문제로 다루지 않고 기술, 구체성, 협업으로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 작품이 AI로 만들어졌다는 사실을 알게 되면 흥미를 잃는다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 패널은 클린업 아티스트와 리거부터 제작팀까지 주목받지 못한 역할들도 조명했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI時代に注目の\nアニメーター10人",
+          "body": "Variety選出の2026年注目アニメーター10人が、AIや協働、表現の未来を語った。",
+          "mini_headline": "アニメーターが語るAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "アトランタで開かれた第10回SCAD AnimationFestの最終日、Varietyが選んだ2026年の10 Animators to Watchが登壇し、自らの仕事の未来と、人の手がなお重要である理由を語った。メンバーはアイルランド、フランス、ベルギー、ブルガリア、シンガポール、香港、カナダ、米国(U.S.)にまたがり、手描き、ストップモーション、CGアニメーションを手がける。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "話題が人工知能に及ぶと、パネリストたちはそれを答えが一つしかない単一の問題として扱わず、技巧、具体性、協働へと立ち返った。Cartoon SaloonのLouise Bagnallは、最善の防御はより具体的になることだと述べた。「AIは均質化に向かいがちだ……自分の視点に寄りかかればいい。世界に対するあなたの視点は、ほかの誰も持っていない」"
+              },
+              {
+                "t": "p",
+                "x": "「Iron Boy」のアニメーション監督Chloë Aubertは、15年前に2Dは消えつつあると言われたが、ただ作りたい作品を作り続けたと振り返った。LaikaのTilly Fiddlerは、作品がAIによるものだと知った途端に興味を失うと語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "「少し怖いけれど、私たちを信じている」とSpider-VerseのストーリーボードアーティストSamantha Suyi Leeは語った。DisneyのAmol Satheは、最良のプロジェクトは今も人々が協働し、チームを頼りにするところから生まれると付け加えた。パネルはクリーンアップアーティストやリガーから制作チームまで、見過ごされがちな役割にも光を当てた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Variety十位动画师\n谈AI与人手价值",
+          "body": "Variety评选的2026年十位值得关注的动画师，畅谈AI、协作与媒介的未来。",
+          "mini_headline": "动画师谈AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "在亚特兰大举行的第10届SCAD AnimationFest最后一天，Variety评选的2026年10 Animators to Watch登台，谈论这门手艺的未来，以及人手为何依然重要。这群动画师来自爱尔兰、法国、比利时、保加利亚、新加坡、香港、加拿大和美国(U.S.)，从事手绘、定格和CG动画创作。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "话题转到人工智能时，嘉宾们并未把它当作只有一个答案的单一问题，而是回到技艺、具体性与协作。Cartoon Saloon的Louise Bagnall认为最好的防御是变得更具体：“AI往往趋于同质化……你可以坚持自己的视角。没有人拥有你看待世界的视角。”"
+              },
+              {
+                "t": "p",
+                "x": "《Iron Boy》动画导演Chloë Aubert回忆，15年前就有人告诉她2D正在消失，而她只是继续做自己想做的作品。Laika的Tilly Fiddler说，一旦得知作品出自AI，她就会失去兴趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Spider-Verse分镜师Samantha Suyi Lee说：“有点可怕，但我相信我们。”Disney的Amol Sathe补充说，最好的项目依然来自人们的协作和对团队的依靠。嘉宾们也为常被忽视的岗位发声，从清稿师、绑定师到制作团队。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "10 Animators to Watch y la IA:\nla mano humana sigue importando",
+          "body": "La promoción 2026 de 10 Animators to Watch de Variety habla de IA, artistas anónimos, colaboración y futuro.",
+          "mini_headline": "Los animadores opinan sobre la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "En la última jornada de la 10.ª edición de SCAD AnimationFest en Atlanta, la promoción 2026 de 10 Animators to Watch de Variety subió al escenario para hablar del futuro de su oficio y de por qué la mano humana sigue importando. El grupo abarca Irlanda, Francia, Bélgica, Bulgaria, Singapur, Hong Kong, Canadá y EE. UU. (U.S.), y trabaja en animación dibujada a mano, stop-motion y CG."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Cuando la conversación llegó a la inteligencia artificial, los panelistas no la trataron como un único problema con una sola respuesta, sino que volvieron al oficio, la especificidad y la colaboración. Louise Bagnall, de Cartoon Saloon, sostuvo que la mejor defensa es ser más específico: \"La IA tiende a la homogeneidad... Puedes apoyarte en tu propio punto de vista. Nadie más tiene tu punto de vista sobre el mundo\"."
+              },
+              {
+                "t": "p",
+                "x": "Chloë Aubert, directora de animación de \"Iron Boy\", recordó que hace 15 años le dijeron que el 2D estaba desapareciendo, y simplemente siguió haciendo el trabajo que quería hacer. Tilly Fiddler, de Laika, dijo que pierde el interés en una obra cuando se entera de que es IA."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "\"Da un poco de miedo, pero creo en nosotros\", dijo Samantha Suyi Lee, artista de storyboard de Spider-Verse. Amol Sathe, de Disney, añadió que los mejores proyectos siguen surgiendo de la colaboración entre personas y de la confianza en sus equipos. El panel también reivindicó funciones poco visibles, desde los artistas de limpieza y los riggers hasta los equipos de producción."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "massive",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Garfield 작가진,\nAI 애니 단편 제작",
+      "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
+      "mini_headline": "Massive의 AI 단편",
+      "tool": "Movies",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+          },
+          {
+            "t": "p",
+            "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이고, 연말 전에 무료로 나온다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발한다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편이 추수감사절 주말에 먼저 나오고, 작품은 크리스마스이브에 무료로 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했다. AI는 그 뒤 움직임을 입히는 데 썼다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Garfield writers make\nAI animated shorts",
+          "body": "Massive Studios, CapCut and the Garfield Movie writers unveiled three free AI-animated Christmas shorts at TIFF.",
+          "mini_headline": "Massive's AI shorts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "A trio of AI-powered animated shorts set around the Christmas holiday is in the works and poised to debut before the end of the year — for free. Massive Studios co-founder Reza Sixo Safai, The Garfield Movie scribes Paul A. Kaplan and Mark Torgove and producer Todd Garner unveiled them at a Toronto International Film Festival panel."
+              },
+              {
+                "t": "p",
+                "x": "The films come from Massive Studios with CapCut and are being developed using AI tools like Video Studio and the video model Seedance 2.5. Safai will direct from Kaplan and Torgove's scripts, with Garner producing. A trailer debuts Thanksgiving weekend and the films arrive free on Christmas Eve."
+              },
+              {
+                "t": "p",
+                "x": "The team says the shorts began as hand-drawn designs combined with actor performances before AI helps bring them into motion. “What matters to me is that you can still feel the people behind every frame,” Safai said."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Garfield 작가진,\nAI 애니 단편 제작",
+          "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
+          "mini_headline": "Massive의 AI 단편",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이고, 연말 전에 무료로 나온다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발한다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편이 추수감사절 주말에 먼저 나오고, 작품은 크리스마스이브에 무료로 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했다. AI는 그 뒤 움직임을 입히는 데 썼다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Garfield脚本家が\nAIアニメ短編",
+          "body": "Massive StudiosとCapCutがTIFFでAIクリスマス短編3本を発表した。",
+          "mini_headline": "MassiveのAI短編",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "クリスマス休暇を舞台にしたAIを活用した(AI-powered)アニメーション短編3本が制作中で、年内に無料で公開される予定だ。Massive Studios共同創業者のReza Sixo Safai、The Garfield Movieの脚本家Paul A. KaplanとMark Torgove、プロデューサーのTodd Garnerが、Toronto International Film Festivalのパネルでこれらの AI-animated 短編を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "作品はMassive StudiosがCapCutと組んで手がけ、Video Studioや動画モデルSeedance 2.5などのAIツールを使って開発している。KaplanとTorgoveの脚本をSafaiが監督し、Garnerがプロデュースする。予告編は感謝祭の週末に公開され、作品はクリスマスイブに無料で届けられる。"
+              },
+              {
+                "t": "p",
+                "x": "チームによると、短編は手描きのデザインと俳優の演技を組み合わせるところから始まり、その後AIが動きを与えている。「私にとって大切なのは、すべてのフレームの背後にいる人々を今も感じられることだ」とSafaiは語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Garfield编剧\n打造AI动画短片",
+          "body": "Massive Studios与CapCut在TIFF发布三部免费AI圣诞动画短片。",
+          "mini_headline": "Massive的AI短片",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "三部以圣诞假期为背景的AI驱动(AI-powered)动画短片正在制作中，预计年底前免费上线。Massive Studios联合创始人Reza Sixo Safai、The Garfield Movie编剧Paul A. Kaplan和Mark Torgove以及制片人Todd Garner在Toronto International Film Festival的一场座谈中公布了这些AI动画(AI-animated)短片。"
+              },
+              {
+                "t": "p",
+                "x": "这些作品由Massive Studios与CapCut合作出品，使用Video Studio和视频模型Seedance 2.5等AI工具开发。Safai将执导Kaplan和Torgove的剧本，Garner担任制片。预告片将于感恩节周末首发，影片将在平安夜免费上线。"
+              },
+              {
+                "t": "p",
+                "x": "团队表示，这些短片最初由手绘设计与演员表演结合而成，之后再借助AI让画面动起来。Safai说：“对我来说重要的是，你依然能感受到每一帧背后的人。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guionistas de Garfield crean\ncortos animados con IA",
+          "body": "Massive Studios, CapCut y los guionistas de Garfield presentaron en TIFF tres cortos navideños gratuitos hechos con IA.",
+          "mini_headline": "Los cortos con IA de Massive",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Un trío de cortos animados impulsados por IA (AI-powered) ambientados en las fiestas navideñas está en preparación y se estrenará antes de fin de año, de forma gratuita. Reza Sixo Safai, cofundador de Massive Studios; Paul A. Kaplan y Mark Torgove, guionistas de The Garfield Movie, y el productor Todd Garner presentaron estos cortos animados con IA (AI-animated) en un panel del Toronto International Film Festival."
+              },
+              {
+                "t": "p",
+                "x": "Las películas son de Massive Studios junto con CapCut y se desarrollan con herramientas de IA como Video Studio y el modelo de video Seedance 2.5. Safai dirigirá a partir de los guiones de Kaplan y Torgove, con Garner como productor. Un tráiler se estrena el fin de semana de Acción de Gracias y las películas llegarán gratis en Nochebuena."
+              },
+              {
+                "t": "p",
+                "x": "El equipo explica que los cortos empezaron como diseños dibujados a mano combinados con interpretaciones de actores, antes de que la IA ayudara a ponerlos en movimiento. “Lo que me importa es que todavía se pueda sentir a las personas detrás de cada fotograma”, dijo Safai."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Garfield 작가진,\nAI 애니 단편 제작",
+          "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
+          "mini_headline": "Massive의 AI 단편",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이며, 연말 전에 무료로 공개될 예정이다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발하고 있다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편은 추수감사절 주말에 공개되고, 작품은 크리스마스이브에 무료로 나온다."
+              },
+              {
+                "t": "p",
+                "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했고, 이후 AI가 움직임을 입히는 데 쓰였다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Garfield脚本家が\nAIアニメ短編",
+          "body": "Massive StudiosとCapCutがTIFFでAIクリスマス短編3本を発表した。",
+          "mini_headline": "MassiveのAI短編",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "クリスマス休暇を舞台にしたAIを活用した(AI-powered)アニメーション短編3本が制作中で、年内に無料で公開される予定だ。Massive Studios共同創業者のReza Sixo Safai、The Garfield Movieの脚本家Paul A. KaplanとMark Torgove、プロデューサーのTodd Garnerが、Toronto International Film Festivalのパネルでこれらの AI-animated 短編を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "作品はMassive StudiosがCapCutと組んで手がけ、Video Studioや動画モデルSeedance 2.5などのAIツールを使って開発している。KaplanとTorgoveの脚本をSafaiが監督し、Garnerがプロデュースする。予告編は感謝祭の週末に公開され、作品はクリスマスイブに無料で届けられる。"
+              },
+              {
+                "t": "p",
+                "x": "チームによると、短編は手描きのデザインと俳優の演技を組み合わせるところから始まり、その後AIが動きを与えている。「私にとって大切なのは、すべてのフレームの背後にいる人々を今も感じられることだ」とSafaiは語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Garfield编剧\n打造AI动画短片",
+          "body": "Massive Studios与CapCut在TIFF发布三部免费AI圣诞动画短片。",
+          "mini_headline": "Massive的AI短片",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "三部以圣诞假期为背景的AI驱动(AI-powered)动画短片正在制作中，预计年底前免费上线。Massive Studios联合创始人Reza Sixo Safai、The Garfield Movie编剧Paul A. Kaplan和Mark Torgove以及制片人Todd Garner在Toronto International Film Festival的一场座谈中公布了这些AI动画(AI-animated)短片。"
+              },
+              {
+                "t": "p",
+                "x": "这些作品由Massive Studios与CapCut合作出品，使用Video Studio和视频模型Seedance 2.5等AI工具开发。Safai将执导Kaplan和Torgove的剧本，Garner担任制片。预告片将于感恩节周末首发，影片将在平安夜免费上线。"
+              },
+              {
+                "t": "p",
+                "x": "团队表示，这些短片最初由手绘设计与演员表演结合而成，之后再借助AI让画面动起来。Safai说：“对我来说重要的是，你依然能感受到每一帧背后的人。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guionistas de Garfield crean\ncortos animados con IA",
+          "body": "Massive Studios, CapCut y los guionistas de Garfield presentaron en TIFF tres cortos navideños gratuitos hechos con IA.",
+          "mini_headline": "Los cortos con IA de Massive",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Un trío de cortos animados impulsados por IA (AI-powered) ambientados en las fiestas navideñas está en preparación y se estrenará antes de fin de año, de forma gratuita. Reza Sixo Safai, cofundador de Massive Studios; Paul A. Kaplan y Mark Torgove, guionistas de The Garfield Movie, y el productor Todd Garner presentaron estos cortos animados con IA (AI-animated) en un panel del Toronto International Film Festival."
+              },
+              {
+                "t": "p",
+                "x": "Las películas son de Massive Studios junto con CapCut y se desarrollan con herramientas de IA como Video Studio y el modelo de video Seedance 2.5. Safai dirigirá a partir de los guiones de Kaplan y Torgove, con Garner como productor. Un tráiler se estrena el fin de semana de Acción de Gracias y las películas llegarán gratis en Nochebuena."
+              },
+              {
+                "t": "p",
+                "x": "El equipo explica que los cortos empezaron como diseños dibujados a mano combinados con interpretaciones de actores, antes de que la IA ayudara a ponerlos en movimiento. “Lo que me importa es que todavía se pueda sentir a las personas detrás de cada fotograma”, dijo Safai."
+              }
+            ]
+          }
+        }
       }
     }
   ]

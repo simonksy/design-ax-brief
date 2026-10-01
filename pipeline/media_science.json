@@ -1,31 +1,7 @@
-{
- "date": "2026-10-01",
- "section": "science",
- "media": [
-  {
-   "id": "science-percolation-proof",
-   "type": "image",
-   "src": "pipeline/media/science-percolation-proof.jpg"
-  },
-  {
-   "id": "science-yeast-ai-scientist",
-   "type": "image",
-   "src": "pipeline/media/science-yeast-ai-scientist.jpg"
-  },
-  {
-   "id": "science-physmat-ai",
-   "type": "image",
-   "src": "pipeline/media/science-physmat-ai.jpg"
-  },
-  {
-   "id": "science-chromagenet",
-   "type": "image",
-   "src": "pipeline/media/science-chromagenet.jpg"
-  },
-  {
-   "id": "science-llm-social-norms",
-   "type": "image",
-   "src": "pipeline/media/science-llm-social-norms.jpg"
-  }
- ]
-}
+{"date":"2026-10-02","section":"science","media":[
+{"id":"uclaoptical","type":"image","src":"pipeline/media/uclaoptical.jpg"},
+{"id":"riemannclaude","type":"image","src":"pipeline/media/riemannclaude.jpg"},
+{"id":"stratego","type":"image","src":"pipeline/media/stratego.jpg"},
+{"id":"spaceweather","type":"image","src":"pipeline/media/spaceweather.jpg"},
+{"id":"adaptivemath","type":"image","src":"pipeline/media/adaptivemath.jpg"}
+]}

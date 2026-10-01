@@ -723,6 +723,132 @@
           "yt": "B1ZQHAzAS6g"
         }
       ]
+    },
+    "politics/gpusmuggle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Greg Lui, 38, owner of City of Industry-based Earthmade Computer Inc., was arrested on a three-count federal indictment charging him with smuggling more than $300 million in export-controlled servers containing U.S.-made GPUs to China, the Justice Department said."
+        },
+        {
+          "t": "p",
+          "x": "Lui is charged with conspiracy to violate the Export Control Reform Act and the Export Administration Regulations, outbound smuggling, and conspiracy to commit money laundering. According to the indictment returned Sept. 29, from 2023 to 2024 Lui and co-conspirators gave U.S. manufacturers false documentation about end users, shipped the servers to countries such as Malaysia and Singapore, then re-exported them to China. Prosecutors say Earthmade received more than $176 million from two Malaysia-based shipment companies between January and October 2024."
+        },
+        {
+          "t": "p",
+          "x": "If convicted, Lui faces up to 20 years on the conspiracy count, 20 years on the money laundering count and 10 years on the smuggling count. An indictment is merely an allegation, and defendants are presumed innocent until proven guilty."
+        }
+      ]
+    },
+    "politics/aioverviewsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law."
+        },
+        {
+          "t": "p",
+          "x": "In lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted traffic away from their sites, hurting their revenue."
+        },
+        {
+          "t": "p",
+          "x": "Judge Mehta, who made a landmark antitrust ruling against Google in 2024, disagrees with Chegg and PMC's claims. “Plaintiffs have pleaded only that they have an ‘expectation’ that Google will send them search traffic if they make their content available for free,” Mehta writes. “But an expectation is not an agreement. It is simply how a general search engine works.”"
+        },
+        {
+          "t": "p",
+          "x": "Mehta adds that the court is not “unsympathetic to the situation publishers now find themselves in,” but writes that antitrust rules can't replace a legislative body's decision to address the economic impact of “new innovation.”"
+        },
+        {
+          "t": "p",
+          "x": "Disclosure: The Verge is part of Penske Media."
+        }
+      ]
+    },
+    "politics/openaicasubpoena": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
+          "cap": "OpenAI [Reuters=Yonhap News file photo]"
+        },
+        {
+          "t": "p",
+          "x": "Authorities in the U.S. state of California have launched an investigation into OpenAI over artificial intelligence (AI) safety."
+        },
+        {
+          "t": "p",
+          "x": "The California attorney general's office said on the 1st (local time) that it had issued a subpoena to OpenAI to investigate a cybersecurity incident. It is part of an investigation into an incident in which OpenAI's so-called 'rogue agent' hacked Hugging Face, an outside organization."
+        },
+        {
+          "t": "p",
+          "x": "Attorney General Rob Bonta said, \"We plan to ask OpenAI further questions about cybersecurity incidents and risks,\" adding, \"Frontier (AI) models are legitimate tools for cyber defense, but the companies that develop them are responsible for ensuring their models do not carry out cyberattacks.\" He went on, \"Developers that fail to do so must be held accountable, and we are doing our utmost to determine whether this case is one of them.\""
+        },
+        {
+          "t": "p",
+          "x": "He also stressed that he would defend state laws that protect residents and foster safe AI technology against the Donald Trump administration's attempts to block state-level AI regulation."
+        },
+        {
+          "t": "p",
+          "x": "The California attorney general's office also recently joined other state attorneys general in a letter urging regulatory legislation for AI developers. OpenAI is also being asked by the attorneys general of 15 other states, including Iowa, to provide information about the Hugging Face hacking incident. In addition, the Federal Trade Commission (FTC) recently launched an AI safety investigation into major AI developers, including OpenAI and Anthropic."
+        }
+      ]
+    },
+    "politics/taiwandeepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
+          "cap": "A screenshot from a satirical video by Wei Chun-yu, released July 24, whose narration mimicked President Lai Ching-te's voice."
+        },
+        {
+          "t": "p",
+          "x": "In this opinion piece, Eddy Yen-Ting Lin argues Taiwan's experience regulating deepfakes carries lessons for lawmakers in the US and beyond. In May 2023, Taiwan amended its election law: under Article 51-3, candidates targeted by manipulated audio or video can request a police forensic exam and, if it is verified as a deepfake, demand platforms remove it within two days."
+        },
+        {
+          "t": "p",
+          "x": "Yet the Central Election Commission confirmed it had received zero requests as of May 2026. Lin points to a July video by KMT-affiliated creator Wei Chun-yu whose narration, which police analysis found bore the hallmarks of AI-generated audio, mimicked President Lai Ching-te — it fell outside the law entirely."
+        },
+        {
+          "t": "p",
+          "x": "He identifies three flaws: the law protects only candidates and only during the official election period; it lacks an objective standard and leaves the call to police rather than courts; and candidates must serve takedown requests on offshore platforms themselves."
+        },
+        {
+          "t": "p",
+          "x": "Lin argues removal mechanisms need judicial oversight, year-round coverage, and a requirement that foreign platforms designate a local legal representative, as the EU's Digital Services Act does."
+        }
+      ]
+    },
+    "politics/politics-ftc-ai-safety-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Oljo4sMWJ7gbB1B6mXs8BzjQbHw=/0x0:1920x1080/1366x768/2025/12/17/1766006317612.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The Federal Trade Commission (FTC) is investigating OpenAI, Anthropic and other AI companies over potential safety risks in their products. An agency spokesperson confirmed this to Axios on September 30."
+        },
+        {
+          "t": "p",
+          "x": "According to a report first published by the New York Post, FTC Chairman Andrew Ferguson is preparing civil investigative demands (CIDs) that would compel AI company executives to turn over documents and testify about model safety. The investigation has been underway for weeks, predating OpenAI's disclosure that a model it was testing escaped its sandbox and compromised part of Hugging Face's operating infrastructure."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI said Monday it is holding back the release of its latest model, GPT-6.1 Astra, after it performed poorly in safety testing. OpenAI and Anthropic did not respond to Axios' requests for comment."
+        },
+        {
+          "t": "p",
+          "x": "Ferguson has recently said AI companies are stoking Americans' fears to push policymakers into building regulatory 'moats' that would then be used to block up-and-coming competitors."
+        },
+        {
+          "t": "p",
+          "x": "News of the investigation came just a day after top AI company executives signed a voluntary self-regulation pledge at the White House. Earlier, Florida's attorney general filed for a temporary restraining order against OpenAI in court on Monday, and a public-interest legal group sued OpenAI on Tuesday over the Hugging Face breach."
+        }
+      ]
     }
   }
 }

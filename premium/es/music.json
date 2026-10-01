@@ -3162,6 +3162,141 @@
           "x": "La función “Voice Warping” ajusta la toma interpretada a la cuadrícula sin perder la sensación de la interpretación original."
         }
       ]
+    },
+    "music/songhunt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+        },
+        {
+          "t": "p",
+          "x": "Epidemic Sound anunció una alianza con Overwolf y MyPart para lanzar un nuevo modo Stream en Songhunt, la app integrada en el juego de Overwolf que ofrece a los jugadores de PC una experiencia musical personalizada y adaptativa en más de 1,500 juegos de PC."
+        },
+        {
+          "t": "p",
+          "x": "Songhunt usa la IA multimodal de MyPart para interpretar la partida de forma continua y seleccionar del catálogo de Epidemic Sound música acorde con lo que ocurre en pantalla, desde una exploración tranquila hasta un combate frenético."
+        },
+        {
+          "t": "p",
+          "x": "Para los streamers de Twitch y YouTube, el catálogo 100% IP-owned de Epidemic Sound elimina el riesgo de VODs silenciados, reclamaciones de derechos de autor y retiradas. \"Songhunt elimina ese dilema\", dijo Rasmus Thofte, SVP B2B de Epidemic Sound."
+        }
+      ]
+    },
+    "music/clarkson": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "R4nt1u0z27s"
+        },
+        {
+          "t": "p",
+          "x": "En el episodio más reciente de Las Culturistas, Kelly Clarkson dijo que la IA puede aportar mucho bueno: \"¿Polémico? No me importa: me encanta la IA. ... También me interesa en lo artístico. Me divierto con ella.\""
+        },
+        {
+          "t": "p",
+          "x": "Calificó la mayoría de las opiniones sobre la música con IA de demasiado \"blanco o negro\": \"Creo que es bienvenida a la mesa ... pero no creo que deban competir con los humanos.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Cuando veo a artistas de IA compitiendo en una lista con humanos, tengo un problema\", dijo. \"Creo que debería haber una lista aparte ... No podemos perder lo humano.\""
+        },
+        {
+          "t": "p",
+          "x": "En agosto, Billboard reafirmó su compromiso de señalar con transparencia cuándo una canción AI-generated (generada por IA) entra en sus listas, mientras Luminate anunció planes para etiquetar el contenido AI-created (creado con IA)."
+        }
+      ]
+    },
+    "music/sleepclub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+        },
+        {
+          "t": "p",
+          "x": "El último sencillo del grupo de shoegaze SLEEP CLUB, \"Weight Of Ease\", de su próximo álbum debut \"Dweller\", habría sido marcado por error por Spotify por uso de IA. Antes, todo el catálogo de la banda había sido marcado hasta que Spotify lo resolvió."
+        },
+        {
+          "t": "p",
+          "x": "\"Por segunda vez en dos lanzamientos, nuestro nuevo sencillo 'Weight of Ease' ha sido marcado por el sistema interno AI-driven (impulsado por IA) de Spotify como 'no apto para recomendación'\", dijo Matt Jones, quien señaló que el apoyo algorítmico representa aproximadamente el 50-70% de las reproducciones de un artista promedio. Restaurar el catálogo llevó unas 5 semanas."
+        },
+        {
+          "t": "p",
+          "x": "\"Es irónico que este álbum, que trata sobre la intrusión de la IA en todos los aspectos de nuestras vidas, siga siendo marcado por error por sistemas de IA\", añadió. La banda dijo después que la primera marca se debió a la palabra \"sleep\" en su nombre; Spotify no ha explicado la actual."
+        },
+        {
+          "t": "video",
+          "yt": "kfolpGoqW10"
+        }
+      ]
+    },
+    "music/agentcore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+        },
+        {
+          "t": "p",
+          "x": "AWS explica cómo desplegar una cadena de producción musical en Amazon Bedrock AgentCore Runtime Instances, una infraestructura EC2 gestionada que añade sesiones de varios días, GPUs, volúmenes persistentes y la ubicación conjunta de varios agentes."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
+          "cap": "La cadena de tres agentes (Compose, Deliver, Screen) que comparte una instancia GPU y una sesión"
+        },
+        {
+          "t": "p",
+          "x": "Un agente de composición convierte la solicitud de un productor en un brief con Claude Sonnet 4.6 y genera el audio con el modelo de código abierto ACE-Step en la NVIDIA L4 de la instancia: 20 segundos de estéreo a 48 kHz en unos 9 segundos. Un agente de entrega mide el .wav y aplica una cadena de EQ, compresión y limitación; un agente de cumplimiento vuelve a medirlo y lo contrasta con el catálogo anterior del estudio, y pide un reemplazo si detecta una coincidencia."
+        },
+        {
+          "t": "p",
+          "x": "Invocados con el mismo ID de sesión, los agentes comparten una instancia y un sistema de archivos, y las sesiones pueden durar hasta 14 días."
+        }
+      ]
+    },
+    "music/music-todd-edwards-suno-sampling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HyQ5mMazFMHvkYM3Ds6syG-1600-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "Todd Edwards, leyenda del house y el UK garage y maestro del muestreo, mantuvo una larga conversación con MusicRadar. Habló de sus 34 años de carrera, su primer concierto en el Reino Unido, sus repetidas colaboraciones con Daft Punk y sus ideas sobre la cultura de DJ actual."
+        },
+        {
+          "t": "p",
+          "x": "Su primer equipo fue una estación de trabajo de muestreo Ensoniq EPS. De ahí vinieron su textura característica de 13 bits y su célebre swing. Como no tenía teclado en esa época, unía cientos de muestras cortas para crear música y letras. Recuerda que \"trataba los discos como pintura, como materia prima\"."
+        },
+        {
+          "t": "video",
+          "yt": "1UxY5LonBIc"
+        },
+        {
+          "t": "p",
+          "x": "Con cientos de microsamples en una sola canción, obtener permiso para cada uno es casi imposible. Como la IA facilita detectar muestras y las demandas por derechos de autor se han vuelto comunes, tuvo que cambiar de método. A principios de 2025 probó tocar sintetizadores o crear sus propias muestras con Splice, pero echaba de menos el placer de rebuscar entre discos y eso lo deprimía."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TwCUDXyr9V6cev9XZxMgPT-1200-80.jpg",
+          "cap": "Todd Edwards"
+        },
+        {
+          "t": "p",
+          "x": "La solución llegó con la plataforma de música con IA Suno Studio. Al crear allí material que puede muestrear con seguridad, recuperó el placer de hacer música. \"No me gusta que la gente hable de esta tecnología como si viniera del diablo\", dice. Según él, los productores experimentados la ven como una herramienta poderosa, mientras que quienes carecen de destreza la ven como una amenaza."
+        },
+        {
+          "t": "p",
+          "x": "Considera que crear stems con IA para muestrear no es menos creativo que elegir un loop de Splice. De ahí también la frase \"la hipocresía de la industria es enorme\". Un simple prompt produce algo genérico, dice, pero si pone sus propias ideas para crear una canción de disco o soft rock y luego la recorta, \"todo es mío, así que nunca más tendré que preocuparme por una demanda\"."
+        },
+        {
+          "t": "p",
+          "x": "Aunque ha hecho música toda su vida sin IA, dice que la usa porque \"es una aventura increíble\", y añade que, al final, todo depende de cómo se use."
+        }
+      ]
     }
   }
 }

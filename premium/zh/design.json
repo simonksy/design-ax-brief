@@ -4052,6 +4052,157 @@
           "x": "这种视角也改变了设计过程本身。决定保留哪些停顿与确认,而不是该删除什么,才是把判断权还给用户的设计方式。"
         }
       ]
+    },
+    "design/shopify-canvas-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+        },
+        {
+          "t": "p",
+          "x": "Shopify推出了建站工具Canvas，商家可通过与AI对话来搭建店铺。此前的无代码编辑器需要重新排列主题的区块和模块，更深度的定制则需要写代码或找开发者。"
+        },
+        {
+          "t": "p",
+          "x": "在Canvas中，商家与Shopify的AI智能体Sidekick对话，并实时查看改动。它不是静态预览，而是渲染店铺的真实代码，因此商家可以在不同屏幕尺寸下测试交互和动画；Sidekick还会截图，以看到商家所看到的画面。"
+        },
+        {
+          "t": "video",
+          "yt": "MYtJ_qk8WBo"
+        },
+        {
+          "t": "p",
+          "x": "商家仍可点击元素直接编辑。Shopify让Sidekick能够直接处理主题文件，并简化了主题架构，使其能够理解和修改。"
+        },
+        {
+          "t": "p",
+          "x": "第三方主题、应用区块和扩展、市场、翻译、分阶段发布和主题更新均未包含在首发版本中，且Canvas仅支持桌面端；Shopify表示计划逐步支持这些功能。"
+        }
+      ]
+    },
+    "design/ai-sites-wcag-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+        },
+        {
+          "t": "p",
+          "x": "JetBrains调查显示，十分之九的开发者在工作中至少使用一种AI工具，但AI编程工具的学习素材大多来自缺乏无障碍设计的网页。WebAIM最新报告发现，每页平均问题数同比上升10%，并指出AI-assisted代码可能是原因之一。"
+        },
+        {
+          "t": "p",
+          "x": "AudioEye给五款AI工具（OpenAI、Anthropic、Google、xAI和Lovable）布置了同样的任务：搭建三个符合WCAG AA标准的网站。15个网站全部未通过WCAG Level A，每页平均有55个问题，接近普通网站的62个。其中91%的问题属于中等或高严重度。"
+        },
+        {
+          "t": "p",
+          "x": "然而，使用AI工具的团队中有81%确信其AI-generated代码符合无障碍指南，而这些团队中有50%注意到引入AI后问题和投诉增多。"
+        },
+        {
+          "t": "p",
+          "x": "受访的使用AI的组织中，46%在过去24个月里收到过无障碍相关的投诉、律师函或诉讼。本文作者为AudioEye CEO Kelly Georgevich。"
+        }
+      ]
+    },
+    "design/figma-weave-campaign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "品牌设计师与产品设计师使用的许多基本元素相同，比如字体、色彩和版式。在这期Workflow Lab中，虚构的Museum of Speculative Futures（MOSF）的一位设计师把Figma Design中的设计系统带入Figma Weave，制作一场展览的营销活动：一张海报、一块广告牌和若干社交媒体帖子。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "作为Weave输入的品牌设计师素材与MOSF设计系统元素"
+        },
+        {
+          "t": "p",
+          "x": "版式和色板框架以Figma节点的形式粘贴到Weave画布上，并连接到Image Describer。展览装置的照片也经过同样的流程，Gen Effect节点会进一步推进图像效果，每次运行的结果都略有不同。"
+        },
+        {
+          "t": "p",
+          "x": "Figma节点将每张图像送回带可编辑文字的Figma Design框架中，社交媒体帖子则针对法语、德语、日语和葡萄牙语市场进行本地化。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "展览海报"
+        },
+        {
+          "t": "p",
+          "x": "由于Figma节点保持连接，新增颜色令牌或字体样式会同时更新Figma中的框架和Weave中的节点，并重新运行基线。"
+        }
+      ]
+    },
+    "design/headless-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+        },
+        {
+          "t": "p",
+          "x": "聊天永远只是一种界面。智能体则不然，设计工作已经转移到产品底层的契约上。DataDome统计，2026年Q2共有177亿次AI智能体请求，比上一季度增长45%。"
+        },
+        {
+          "t": "p",
+          "x": "在无头AI中，UI不再是产品本身，而是一个客户端。作者建议把30天的请求分类，并将智能体调用按旅程排序：重试循环意味着困惑，总在放弃之前出现的调用就是死胡同。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+        },
+        {
+          "t": "p",
+          "x": "梳理进入产品的每一扇门，包括APIs、webhook和MCP服务器；只存在于界面里的约束，从来算不上真正的约束。这门手艺是服务设计加上API素养：字段名、权限范围，以及模型读取的工具描述。"
+        },
+        {
+          "t": "p",
+          "x": "错误信息成为智能体能看到的唯一恢复界面，因此要为部分成功、幂等写入和明确确认而设计，并衡量任务完成情况而非页面浏览量。"
+        }
+      ]
+    },
+    "design/design-c4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "H53drzzUFfo"
+        },
+        {
+          "t": "p",
+          "x": "Maxon发布了用于动态图形、VFX和可视化的3D软件Cinema 4D的新版本2026.4。此次更新的核心是全新的MCP服务器,可连接Claude、ChatGPT等外部AI工具,自动执行重复性工作。"
+        },
+        {
+          "t": "p",
+          "x": "MCP(Model Context Protocol)服务器是把应用功能开放给外部AI工具的通道。Cinema 4D的MCP服务器正式支持Claude Desktop和ChatGPT Desktop,通过自然语言提示词操作程序。Maxon将其介绍为“在不打断创作流程的情况下,减轻程序化和重复性工作”的方式。"
+        },
+        {
+          "t": "p",
+          "x": "官方举例的用途包括更改场景层级结构或命名规则、管理多通道渲染、设置摄像机跟踪。它还能处理基础建模和UV编辑、角色绑定与动画、粒子与液体模拟,更复杂的工作可以用Python脚本解决。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
+          "cap": "与AI代理对话、用现成素材组装而成的3D环境。"
+        },
+        {
+          "t": "p",
+          "x": "不过Maxon似乎顾及了对AI持怀疑态度的用户群体,在文档中明确表示这项功能不是生成式系统。“它不会凭空设计,也不会生成图像,对画面是否好看也没有意见。它没有品味。所有指令都来自用户,所有操作都保留在撤销列表中,关闭MCP服务器后什么也不会发生。”"
+        },
+        {
+          "t": "p",
+          "x": "服务器在艺术家的电脑上本地运行,默认是关闭的。要与本地网络上的其他设备一起使用,需要另行开启权限。它也能与LM Studio等在本地运行AI模型的应用连接,但GPU内存可能成为瓶颈。它只能在正式版Cinema 4D上运行,无法用于After Effects自带的Lite版、Team Render或命令行渲染。"
+        },
+        {
+          "t": "p",
+          "x": "继今年已加入MCP服务器的DaVinci Resolve和Unreal Engine之后,Cinema 4D也加入了这一阵营。Blender以插件形式提供官方MCP服务器,Houdini则在Houdini 22中展示了技术预览。Cinema 4D 2026.4可在Windows 10及以上、macOS 14.0及以上系统运行,仅以订阅方式出售,每月109美元,每年839美元。"
+        }
+      ]
     }
   }
 }

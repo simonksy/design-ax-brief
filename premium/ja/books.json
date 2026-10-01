@@ -2805,6 +2805,118 @@
           "x": "AIの出典と表示の問題が実際の契約や編集工程をどう揺るがすかを示す、重みの異なる事例だ。"
         }
       ]
+    },
+    "books/idpa-finalists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
+          "cap": "昨年のFrankfurter BuchmesseでDigital Leadership Awardを受け取るVirginie Clayssen"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Reportは、昨年国際化した年次のDigital Publishing Awardsの最終候補を発表した。AI特化型（AI-focused）企業からの応募が増えた。DPRによれば、AIはすでに標準となっており、最終候補を際立たせたのは「本をアクセシブルにし、十分にサービスが行き届いていない言語にオーディオブックを届け、人間の専門性がしっかりと主導権を握ったまま著者や編集者により良いツールを提供する」という意欲だという。"
+        },
+        {
+          "t": "p",
+          "x": "エジプト、ドイツ、インド、英国（U.K.）、米国（U.S.）からの最終候補12件は、42件の応募から選ばれた。プロダクト／ビジネスモデル部門：Ailaysa、Nahdet Misr Group、Pocket FM、Storywise。プロセス／テクノロジー部門：AbjjadのProject Genome、Ernst Klett Sprachenのallango、MPS Limited、Pozotron Studio。スタートアップ部門：KitabooONE、Whisper by Stck、Pellerin Books、ReadBee。"
+        },
+        {
+          "t": "p",
+          "x": "注目は、用語や著者の文体、ページレイアウトを保持するAilaysaの適応型AI翻訳と、制作コストを約90％削減するProject Genomeのアラビア語優先のオーディオブック制作パイプラインだ。受賞者は10月7日にFrankfurter Buchmesseで発表される。"
+        }
+      ]
+    },
+    "books/opus-tells": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
+          "cap": "画像提供：nomadnes / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "マーケティング企業Graphiteの新たな研究は、フロンティアモデルの文章の癖を調べた。AIのコンテンツで人間のコンテンツより2倍以上多く現れるフレーズ、つまり同社が定義する「テル（tell）」を13,000個見つけた。研究者はChatGPT以前（pre-ChatGPT）の記事10,000本の要約からモデルに書き直させ、人間による原文と比較した。"
+        },
+        {
+          "t": "p",
+          "x": "Graphiteによれば、Claude Opus 5.5の最大のテルは“dependable”という単語で、人間のサンプルより23倍多く現れる。何よりOpusは物事がなぜ重要かを語りたがる。“this matters”は人間の文章の116倍、“why X matters”は92倍の頻度で登場する。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIのAstraは“not simply X”のような「訂正型フレーミング」に頼り、その頻度は人間の文章の100倍を超える。Opus 5.5はOpus 5に比べてemダッシュの使用が99%少なかった。「最もよく知られたテルは取り除けているが、別のものが現れる」とGraphiteのチーフAIオフィサー、Greg Druckは述べた。"
+        }
+      ]
+    },
+    "books/ai-comic-dramas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "中国企業が海外向けショートドラマ市場を独占しており、AI漫画ドラマがその傾向を強めている。2026年8月、世界の海外向けショートドラマアプリ上位10本のうち9本が中国企業のもので、そこで配信されたAI漫画ドラマの90%以上が中国製だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "10本中9本：中国の海外向けショートドラマプラットフォームの優位。イラスト：Short Drama Study Room"
+        },
+        {
+          "t": "p",
+          "x": "筆者は、これが10年前の韓国ウェブトゥーンプラットフォームに重なると論じる。韓国勢は最盛期に世界のデジタル漫画市場の60%超を握っていた。同じ物語群をそのまま世界に輸出したことで文化的な反発を招き、2026年9月、Kakaoは5億1000万ドルで買収したTapasと、Kakao Webtoonの国際版を閉鎖すると発表した。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "例外はKakaoの日本向けプラットフォームPiccomaで、韓国と日本の漫画の比率は約6:4、2025年の取引額は約1400億円に達した。筆者によれば、中国のAI漫画ドラマ企業が学ぶべき教訓は現地化であり、現地コンテンツを40%近くに保つことだという。"
+        }
+      ]
+    },
+    "books/ai-narration-trojan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+        },
+        {
+          "t": "p",
+          "x": "オーディオブックの専門家Jessica BarnfieldはThe Booksellerへの寄稿で、ElevenLabsのようなAI音声企業はオーディオブックへのアクセスを広げているのではなく、データを集めているのだと論じている。Barnfieldは10年以上にわたり、英国、米国、国際市場でオーディオブックの制作、流通、事業開発に携わってきた。"
+        }
+      ]
+    },
+    "books/books-springer-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
+          "cap": "ロボットの手に抱えられた本の山、一番下の本の背に「AI」の文字がある。"
+        },
+        {
+          "t": "p",
+          "x": "UCアーバイン校の英文学教授ダニエル・M・グロスは、大学図書館の蔵書にAIが作った本が紛れ込んでいることを知り、驚いた。出どころは傍流ではなく、蔵書の中核をなすシュプリンガー・ネイチャーだった。"
+        },
+        {
+          "t": "p",
+          "x": "シュプリンガー・ネイチャーは2021年5月から「AIベース」の文献レビュー本を刊行してきた。出版社自身、人間が書いた文章と機械が生成した文献概観を混ぜた本だと説明する。カリフォルニア・デジタル・ライブラリーがシュプリンガーの新刊電子書籍を一括購入するため、これらの本はUC全キャンパスの教員と学生にそのまま公開されている。"
+        },
+        {
+          "t": "p",
+          "x": "免責事項はメタデータにしか記されていない。159.99ドルのハードカバー『Criticism and Critical Theory: A Machine-Generated Overview』は抽出型要約で作成後、入念に編集したとするが、序文から定型文が続く。シュプリンガーは、存在しない参考文献であふれているとのRetraction Watchの報道の後、『Mastering Machine Learning』を撤回したこともある。"
+        },
+        {
+          "t": "p",
+          "x": "グロスは、出版社が大学がどこまで許容するかを探っていると見る。エルゼビアもまた、原稿にAI生成テキストを使えるかという問いに実質「使える」と答える。著者は責任を負いながら、次第に品質検査員の役割を担わされていく。"
+        },
+        {
+          "t": "p",
+          "x": "彼が示す処方は三つだ。まず知らせること。図書館蔵書戦略責任者のベッキー・イマモトとキャンパスAI諮問委員会にこの事例を発表したところ、教員の大半が5年間知らなかった。次は、2020年のUCとシュプリンガー・ネイチャーのオープンアクセス交渉のように集団で動くこと。最後は、基準を守る出版社を選んで支持することだ。"
+        },
+        {
+          "t": "p",
+          "x": "グロスは、司書は何が知識かを分ける最も近い門番であり、教員と司書は今こそ共に拒むべきだと書いた。"
+        }
+      ]
     }
   }
 }

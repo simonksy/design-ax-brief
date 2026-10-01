@@ -1,67 +1,92 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "section": "movies",
   "picks": [
     {
-      "url": "https://variety.com/2026/film/features/terrarium-ai-hybrid-set-visit-1236893846/",
-      "source": "Variety",
+      "url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
+      "source": "Runway",
       "tool": "Movies",
-      "accent": "#0070f3",
+      "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Rare on-set look at an AI-hybrid production workflow: human actors on a bare stage, AI artists generating sets/props.",
-      "published_iso": "2026-09-30T19:17:09+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/09/Terrarium-On-Set-Photo-2-1.jpg?w=1000&h=563&crop=1",
-      "excerpt": "An exclusive set visit to \"Terrarium\", an AI-hybrid production where 15–20 AI artists generate locations and props around human actors shot on a bare soundstage.",
-      "title": "I Toured the Set of an AI-Hybrid Film. There Are Actors — but No Set (EXCLUSIVE)"
+      "rationale": "New Runway Labs research release: a real-time video 'operating system' with Portals, responsive video interfaces and interactive worlds.",
+      "published_iso": "2026-10-01T08:45:30-07:00",
+      "og_image": "https://i.ytimg.com/vi/K7Q7FESRHJY/maxresdefault.jpg",
+      "excerpt": "Runway Labs previews Project Continuum, a research 'real-time video operating system' with Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds.",
+      "title": "Introducing Project Continuum by Runway Labs"
     },
     {
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/unmasking-a-monster-aileen-wuornos-defending-its-ai-use-1236709653/",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
       "source": "The Hollywood Reporter",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Concrete post-production use of AI masks in a docuseries, framed by the EP as an industry first.",
-      "published_iso": "2026-09-30T15:15:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Unmasking-a-Monster-Aileen-Wuornos-Split-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
-      "excerpt": "ID docuseries \"Unmasking a Monster: Aileen Wuornos\" used an AI-mask tool in post to make actors look like their real-life counterparts, which its EP calls an industry first.",
-      "title": "‘Unmasking a Monster’: Star, EP, and ID President on Using AI Masks to Perfect Their Aileen Wuornos Look"
+      "rationale": "A-list director confirms broad AI use in a new Netflix feature, a concrete studio-level production disclosure.",
+      "published_iso": "2026-10-01T03:41:35+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810",
+      "excerpt": "Well, sure, when a platform pays like $600 million for your artificial intelligence company...",
+      "title": "Ben Affleck Used AI “For Lots of Things” in His New Netflix Movie ‘Animals’"
     },
     {
-      "url": "https://www.tvtechnology.com/production/live-production/utopai-studios-launches-new-pai-and-utopai-x-to-advance-production-intelligence-for-film-and-tv",
-      "source": "TV Technology",
+      "url": "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu",
+      "source": "AWN",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Tool release: AI agents that break a script into scenes/shots and assist production planning.",
-      "published_iso": "2026-09-30T18:21:26Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5gfKKN2xTmbsHcvmAh9tbR-603-75.png",
-      "excerpt": "Utopai Studios launches PAI and Utopai X, production-intelligence tools whose AI agents break a screenplay into scenes and shots and help plan production.",
-      "title": "Utopai Studios Launches New PAI and Utopai X to Advance Production Intelligence for Film and TV"
+      "rationale": "New studio launch with its AIDA tool turning creator scripts into animation, with artist control and revenue share; open Pioneer Program applications.",
+      "published_iso": "2026-09-30T16:18:00-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/jadu1-1280.jpg?itok=heTk96jv",
+      "excerpt": "The company turns independent creators' scripts into animation with its AIDA tool; artists keep creative control and share in revenue; 'The Future Was Awesome,' from Emmy winner Fred Graver, is among its first shows, and its Pioneer Program is taking applications.",
+      "title": "Former YouTube and TikTok Exec Masoud Loghmani Launches Studio Jadu"
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20260928048300005",
-      "source": "연합뉴스",
+      "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/",
+      "source": "Variety",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Major Korean director Yeon Sang-ho extends a theatrical IP via a generative-AI short series from CJ ENM.",
-      "published_iso": "2026-09-28T10:10:28+09:00",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/09/28/AKR20260928048300005_01_i_P4.jpg",
-      "excerpt": "CJ ENM releases \"실낙원 - 유니버스\", a prequel short series written by Yeon Sang-ho and produced with generative AI; episodes 1–2 on 9/29, 3–4 on 10/6.",
-      "title": "연상호 '실낙원' 프리퀄 단편 29일 공개…생성형 AI로 제작 | 연합뉴스"
+      "rationale": "Variety's newly published 2026 '10 Animators to Watch' class weighs in on AI and the human hand in animation; fresh feature, adds a fifth outlet.",
+      "published_iso": "2026-10-01T19:14:15+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Variety’s 10 Animators to Watch discuss AI, animation’s unsung artists, the importance of collaboration and the future of the medium.",
+      "title": "10 Animators to Watch on AI, Animation’s Future and Why the Human Hand Still Matters: ‘Nobody Else Has Your Point of View’"
     },
     {
-      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-      "source": "The Guardian",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/",
+      "source": "The Hollywood Reporter",
       "tool": "Movies",
-      "accent": "#f5a623",
+      "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Digital resurrection of a screen legend built from text prompts, with heirs open to a future film role — likeness-rights precedent.",
-      "published_iso": "2026-09-30T05:00:12.000Z",
-      "og_image": "https://i.guim.co.uk/img/media/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a0ce1efca0865f556197e376bdee016",
-      "excerpt": "SKF recreates Greta Garbo with AI for a 99-second advert, built from text prompts rather than copyrighted footage; her heirs say they would not rule out a film role.",
-      "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert"
+      "rationale": "New slate of AI-animated shorts from Massive Studios with the 'Garfield Movie' writers and producer Todd Garner, detailing their CapCut-based production process.",
+      "published_iso": "2026-09-30T09:25:57+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810",
+      "excerpt": "Massive co-founder Reza Sixo Safai, scribes Paul A. Kaplan and Mark Torgove and Garner detailed the projects and their process during a panel at the Toronto International Film Festival.",
+      "title": "Massive Studios, ‘Garfield Movie’ Writers and Producer Todd Garner Team on AI Animated Short Films"
     }
   ],
-  "notes": "User deferred (알아서). Set aside as same-story: THR Tom Cruise/Digger AI remarks (Variety Cruise AI story published 9/22). Backups in order: Curious Refuge agents test, THR Massive/CapCut shorts, Deadline Doctor Who AI episode, Cartoon Brew LightBox no-genAI."
+  "dedup": {
+    "checks": {
+      "https://www.youtube.com/watch?v=K7Q7FESRHJY": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=c2yCePPnrSA"
+      },
+      "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/": {
+        "verdict": "new",
+        "nearest": ""
+      },
+      "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests"
+      },
+      "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/": {
+        "verdict": "new",
+        "nearest": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html"
+      },
+      "https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/"
+      }
+    },
+    "note": "Re-curation 2: fact-check rejected No Film School 'Adobe ... Plugin in ChatGPT' (update covers images/designs/PDFs; Adobe calls it minor for video workflows, so not AI x film) - removed. Replacement: Variety '10 Animators to Watch' (published 10/1, no history_match); no prior 30-day card covers this annual Variety feature or these animators - nearest in spirit is Cartoon Brew Del Toro on what artists lose to AI (9/12), a different person and piece. Earlier re-curation: removed Engadget Japanese voice ruling (published today in MUSIC). Passed over IndieWire art-house AI data models (audience marketing via a podcast/data partnership, weaker film-craft angle) and Curious Refuge GPT Astra agent test (possible paraphrase of the 9/28 'Video Editing Is About to Change Forever' card). Still dropped as published: slist 실낙원 AI shorts (yna 10/1); OIAF recap (Cartoon Brew OIAF TAC 9/25); fxguide Flow Studio explainer (Flow Studio 9/3); After Effects Portal Sept (monthly roundup, August ran 9/2). Excluded as business noise/advertorial/commentary: MForMedia-Arcana pact, Topview sponsored intro, Motionographer AI-animation promo, postPerspective Katzenberg-prediction op-ed (Katzenberg 9/25), Deadline Doctor Who/Kelly Day remarks, Iberseries preview, LightBox Expo interview."
+  },
+  "notes": "User deferred (알아서). 5 distinct outlets: Runway, THR x2 (within the per-outlet cap of 2), AWN, Variety. Remaining backups: IndieWire art-house AI data models, Curious Refuge AI agents test."
 }

@@ -2829,6 +2829,118 @@
           "x": "Es un caso de otro calibre, que muestra cómo los problemas de procedencia y divulgación de la IA pueden sacudir contratos reales y el proceso de edición."
         }
       ]
+    },
+    "books/idpa-finalists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
+          "cap": "Virginie Clayssen recibe el Digital Leadership Award el año pasado en la Frankfurter Buchmesse"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Report anunció la lista de finalistas de sus Digital Publishing Awards anuales, que el año pasado se internacionalizaron. Aumentaron las candidaturas de empresas centradas en IA (AI-focused); DPR afirma que la IA se ha convertido en el estándar y que lo que distingue a los finalistas es su empeño en “hacer los libros accesibles, llevar audiolibros a lenguas desatendidas y dar a autores y editores mejores herramientas con la experiencia humana firmemente al mando”."
+        },
+        {
+          "t": "p",
+          "x": "Los 12 finalistas, de Egipto, Alemania, India, Reino Unido (U.K.) y Estados Unidos (U.S.), se seleccionaron entre 42 candidaturas. Producto/modelo de negocio: Ailaysa, Nahdet Misr Group, Pocket FM y Storywise. Proceso/tecnología: Project Genome de Abjjad, allango de Ernst Klett Sprachen, MPS Limited y Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books y ReadBee."
+        },
+        {
+          "t": "p",
+          "x": "Destacan la traducción adaptativa con IA de Ailaysa, que conserva la terminología, la voz del autor y la maquetación, y el flujo de producción de audiolibros con prioridad al árabe de Project Genome, que reduce los costes de producción en torno a un 90 por ciento. Los ganadores se anunciarán el 7 de octubre en la Frankfurter Buchmesse."
+        }
+      ]
+    },
+    "books/opus-tells": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
+          "cap": "Créditos de imagen: nomadnes / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo estudio de la firma de marketing Graphite analizó los hábitos de escritura de los modelos de frontera. Encontró 13,000 frases al menos dos veces más comunes en el contenido de IA que en el humano, su definición de un “tic” (tell). Los investigadores pidieron a los modelos reescribir, a partir de resúmenes, un corpus de 10,000 artículos anteriores a ChatGPT (pre-ChatGPT) para compararlos con los originales humanos."
+        },
+        {
+          "t": "p",
+          "x": "Según Graphite, el mayor tic de Claude Opus 5.5 es la palabra “dependable”, que aparece 23 veces más que en las muestras humanas. Sobre todo, a Opus le encanta explicar por qué las cosas importan: “this matters” aparece 116 veces más que en la escritura humana, y “why X matters”, 92 veces más."
+        },
+        {
+          "t": "p",
+          "x": "Astra, de OpenAI, se apoya en el “encuadre correctivo”, como “not simply X”, más de 100 veces más común que en la prosa humana. Opus 5.5 usó rayas un 99% menos que Opus 5. “Están logrando eliminar los tics más conocidos, pero aparecen otros”, dijo Greg Druck, director de IA de Graphite."
+        }
+      ]
+    },
+    "books/ai-comic-dramas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las empresas chinas monopolizan el mercado internacional de microdramas, y los dramas de manhua con IA han reforzado esa posición. En agosto de 2026, 9 de las 10 principales apps globales de microdramas para el extranjero pertenecían a compañías chinas, y más del 90 % de los dramas de manhua con IA que se emitían en ellas se habían hecho en China."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "9 de cada 10: el dominio de las plataformas chinas de microdramas en el extranjero. Ilustración: Short Drama Study Room"
+        },
+        {
+          "t": "p",
+          "x": "El autor sostiene que esto recuerda a las plataformas coreanas de webtoon de hace una década, que en su apogeo tenían más del 60 % del mercado mundial de manhua digital. Exportar un mismo conjunto de historias a todo el mundo provocó rechazo cultural, y en septiembre de 2026 Kakao anunció el cierre de Tapas, adquirida por 510 millones de dólares, y de la versión internacional de Kakao Webtoon."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "La excepción es Piccoma, la plataforma japonesa de Kakao, donde el manhua coreano y el japonés guardan una proporción aproximada de 6:4 y las transacciones de 2025 alcanzaron unos 140.000 millones de yenes. La lección para las empresas chinas de dramas de manhua con IA, según el autor, es localizar y mantener el contenido local cerca del 40 %."
+        }
+      ]
+    },
+    "books/ai-narration-trojan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un artículo de opinión para The Bookseller, la especialista en audiolibros Jessica Barnfield sostiene que empresas de voz con IA como ElevenLabs no están ampliando el acceso a los audiolibros, sino recopilando datos. Barnfield lleva más de una década en la producción, la distribución y el desarrollo de negocio de audiolibros, y ha trabajado en los mercados del Reino Unido, Estados Unidos e internacionales."
+        }
+      ]
+    },
+    "books/books-springer-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-06/Robot_hand_holding_Books_Orange_GettyImages-1657016969_edit.jpg?itok=bY8FaxpZ",
+          "cap": "Una mano robótica sostiene una pila de libros; en el lomo del libro de abajo se lee 'AI'."
+        },
+        {
+          "t": "p",
+          "x": "Daniel M. Gross, profesor de inglés en UC Irvine, se sorprendió al descubrir que la colección de la biblioteca de su universidad incluía libros generados por IA. La fuente no era marginal: era Springer Nature, parte central de la colección."
+        },
+        {
+          "t": "p",
+          "x": "Springer Nature publica libros de revisión bibliográfica 'basados en IA' desde mayo de 2021. La propia editorial los describe como libros que mezclan texto escrito por humanos con panoramas bibliográficos generados por máquina. Como la California Digital Library compra en bloque los nuevos libros electrónicos de Springer, estos títulos quedan abiertos a profesores y estudiantes de todos los campus de la UC."
+        },
+        {
+          "t": "p",
+          "x": "El descargo de responsabilidad solo aparece en los metadatos. El libro de tapa dura de 159.99 dólares Criticism and Critical Theory: A Machine-Generated Overview dice haber sido hecho mediante resumen extractivo y luego cuidadosamente editado, pero el prefacio ya suena formulado. Springer también retiró Mastering Machine Learning después de que Retraction Watch informara que estaba lleno de referencias inexistentes."
+        },
+        {
+          "t": "p",
+          "x": "Gross cree que las editoriales están probando hasta dónde están dispuestas a tolerar las universidades. Elsevier también responde, en la práctica, que sí cuando se le pregunta si se puede usar texto generado por IA en los manuscritos. Los autores siguen siendo responsables, pero cada vez actúan más como inspectores de calidad."
+        },
+        {
+          "t": "p",
+          "x": "Propone tres remedios. Primero, dar a conocer el caso: al presentarlo a Becky Imamoto, responsable de estrategia de colecciones de la biblioteca, y al comité asesor de IA del campus, la mayoría de los profesores no lo sabían desde hacía cinco años. Segundo, actuar de forma colectiva, como hicieron la UC y Springer Nature en su negociación de acceso abierto de 2020. Tercero, elegir apoyar a las editoriales que respetan los estándares."
+        },
+        {
+          "t": "p",
+          "x": "Gross escribe que los bibliotecarios son los guardianes más cercanos de lo que cuenta como conocimiento, y que profesores y bibliotecarios deben negarse juntos ahora."
+        }
+      ]
     }
   }
 }

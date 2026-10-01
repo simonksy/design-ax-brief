@@ -3256,6 +3256,128 @@
           "x": "記憶には条件がついた。30日を過ぎた会話を保持し続けるには、毎月10ドルを払う必要がある。ウェアラブルAIが向かう先を、フレンド2.0は淡々と示している。"
         }
       ]
+    },
+    "gadgets/gadgets-legato-hearing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "聴覚テックのスタートアップLegatoは、AI-basedの聴覚メガネ「Legato Frames」の販売開始を発表した。特許取得済みの聴覚補助技術をメガネフレームのテンプルに組み込んでいる。価格は999ドルからで、中等度までの難聴がある成人向けに設計され、従来の補聴器が抱えるコスト、装着感、偏見の問題の解消を目指す。"
+        },
+        {
+          "t": "p",
+          "x": "指向性マイクではなく、LegatoのAI-poweredシステムが声と背景雑音を識別し、声を増幅しつつ不要な音を抑える。デュアルスピーカーシステムが音を装着者に届け、外に漏れる音を打ち消すことで、耳から数インチ離れた位置で音漏れを99%低減する。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "処理はすべてメガネ上で行われ、カメラや録音機能はない。重さはレンズ込みで34グラム、バッテリーは10-12時間持ち、3種類のスタイルで展開する。度付きレンズとBluetoothストリーミングにも対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Legatoは2024年、Bose出身のMehul TrivediとSteve Romineが創業した。最近1200万ドルの資金調達とともにステルス状態から姿を現した。フレームはオンラインと一部のU.S.の眼科医療機関で販売され、視力保険の適用対象となる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-guided-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "対応するAndroid端末のGemini Liveで本日、Guided Visionの提供が始まる。スマートフォンのカメラを向けたものをAIがリアルタイムに音声で説明する機能だ。Gemini Liveでカメラを共有すると、小さな文字の読み上げ、周囲の様子の説明、身の回りの物の発見や識別、特定の物の細部の説明などをGoogleのAIが手助けする。"
+        },
+        {
+          "t": "p",
+          "x": "AppleがiPhoneとVision Proに追加したVoiceOver Live Recognitionと同様、視覚に障害のある人やロービジョンの人、特定の場面で支援を必要とする人に向けて設計されている。最近のPixelアップデートで発表されたGuided Visionは、Geminiアプリに加えてGoogle TalkBackでも利用でき、Android 9以降の端末では設定アプリでユーザー補助のショートカットを設定することもできる。"
+        },
+        {
+          "t": "p",
+          "x": "見ている対象について追加で質問することもできる。たとえば、見つけてもらった商品の賞味期限をGeminiに読み上げてもらうといった使い方だ。画面に映っていないものについて尋ねると、Geminiが音声の合図でカメラの位置合わせを手助けするとGoogleは説明する。ただしGoogleは、Guided Visionを「ナビゲーション、安全な移動の案内、障害物の検知」などに頼ったり、杖や移動補助具の代わりにしたりしないよう注意を促している。"
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-xella-biomarkers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+          "cap": "Oura Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "Ouraは、ラボ検査と遠隔医療を組み合わせた女性向けプレシジョン・ヘルスプラットフォームXella Healthと提携した。Xellaに加入する米国のOuraリング所有者は、睡眠、HRV、安静時心拍数、体温の傾向、回復、活動、月経周期のインサイトを共有できる。"
+        },
+        {
+          "t": "p",
+          "x": "Xellaはその後、独自のAIでOuraの生理データをホルモン、代謝、炎症、栄養、生殖の健康、心血管代謝リスクとあわせて分析する「multi-omic」診断を行い、健康の変化を示しうるパターンを探る。さらにXellaのAIが医師とともにケアプランを作成し、子宮内膜症など女性に影響する130以上の疾患の治療を含めることができる。"
+        },
+        {
+          "t": "p",
+          "x": "「ウェアラブルは生理的変化を検知する私たちの能力を一変させた」と、Xella HealthのCEO兼共同創業者Kelly Lacobは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Xellaは年499ドルの別会員制サービスで、New YorkとNew Jerseyを除くU.S.の全州で利用できる。Oura Ring 5は399ドルからで月額5.99ドルがかかり、医療機器ではない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-noisy-rooms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Homeが今年9月で3度目となるアップデートを受ける。Googleによると、騒がしい部屋で指示を出した際にGemini for Homeが背景の会話を除去する仕組みを強化し、リクエストが認識されやすくなった。よく使うスマートホーム、メディア、アラーム、タイマーの各コマンドへの応答も速くなった。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Homeは多言語の家庭でもより安定して動作するようになり、エラーの後に「わかりませんでした」を繰り返して抜け出せなくなる問題も解消された。スマートフォンを探すよう頼んだときの信頼性も大きく向上した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Homeアプリでは、明るさを0%までスライドすると正しく電源オフのコマンドが送られるようになり、オンラインのカメラとドアベルのタイルは塗りつぶしのアイコンで表示される。AndroidとiOSでのNestのセットアップもスムーズになり、アプリがネットワークの認証情報を安全にキャッシュして連続でセットアップできる。"
+        },
+        {
+          "t": "p",
+          "x": "今回のアップデートでは、Matterスイッチのオフライン表示、Favoritesタイル、カメラの再生とバッファリング、Walmart Onnカメラの履歴、Automationsのデバイス名に関する不具合も修正された。"
+        }
+      ]
+    },
+    "gadgets/gadgets-fire-tv-alexa-plus-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/intro-1790771374.jpg",
+          "cap": "Alexa+がより複雑な質問に対応する"
+        },
+        {
+          "t": "p",
+          "x": "11月から、米国のFire TVユーザーはテレビ画面とモバイルアプリで新しいAlexa+機能を使えるようになる。AIアシスタント専用のハブが設けられ、利用履歴に合わせたプロンプトの提案が表示される。Alexa+には推論機能が加わり、より複雑な質問にも答えられる。ユーザーの定額サービスや視聴履歴はもちろん、現実の時事問題まで踏まえて答える。例えば「Alexa, find shows that were nominated for the recent Emmys but got snubbed」や「Alexa, show me MCU films based on their in-universe timeline order」といった質問にも対応できる。"
+        },
+        {
+          "t": "p",
+          "x": "アップグレードされたFire TVモバイルアプリにもAlexa+が搭載される。ドラマや映画を紹介する記事のリンクを渡すと、記事に出てくる作品をウォッチリストに追加してくれる。写真をアップロードすると、その写真から連想される作品も提案する。場所やスクリーンショット、ポスターから思い出す作品があれば、それをAlexa+に見せればいい。写真の中から認識した内容をもとに提案を行う。モバイルアプリは各ストリーミングサービスへ直接飛べるディープリンクにも対応する。アプリ内のストリーミングアイコンをタップすればスマートフォンでそのまま再生され、大画面に移したい場合はテレビの「Continue Watching」の行から続けて視聴できる。"
+        },
+        {
+          "t": "p",
+          "x": "Fire TVは現在、YouTube TV、Peacock、Tubi、Sling、DirecTVなど40以上のアプリのライブコンテンツを一つに集めて表示する。ゲームハブでは、Xbox、Luna、NVIDIA GeForce NOWのクラウドゲームを一か所で選べる。この更新は年内に米国のユーザーに、来年初めにはほかの地域にも展開される。アマゾンはこの秋、Fire TV向けの新しい音楽アプリも発表する。ミュージックビデオやポッドキャスト、コンサートやフェスティバルのライブ配信まで、サービス全体をこのアプリから探せる。"
+        }
+      ]
     }
   }
 }

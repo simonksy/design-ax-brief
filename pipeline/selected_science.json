@@ -1,72 +1,96 @@
 {
- "date": "2026-10-01",
- "section": "science",
- "note": "User deferred (알아서): ax-curator auto-picked. 4 outlets (phys.org x2). DeepMind SynthID Bio was picked first, then swapped out when it tripped the safety classifier during writing. Alternates: GAMES drug toolkit (medicalxpress), knowledge collapse (techxplore), Navier-Stokes loophole (SciAm), Antarctica geospatial AI (phys.org).",
- "picks": [
-  {
-   "url": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
-   "source": "Scientific American",
-   "category": "science",
-   "tool": "Science",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "rationale": "An LLM-generated proof (Anthropic) of a flagship percolation-theory conjecture that a Fields Medalist predicted AI would crack — a landmark AI-in-mathematics/statistical-physics result, distinct from earlier sphere-packing/curve stories.",
-   "published_iso": "2026-09-30T13:00:00Z",
-   "og_image": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
-   "excerpt": "Days after Fields Medalist Hugo Duminil-Copin predicted it, Anthropic released an LLM-generated proof of a long-standing percolation-theory conjecture on the critical threshold.",
-   "headline": "AI solves a 'holy grail' problem from probability theory"
-  },
-  {
-   "url": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
-   "source": "Phys.org",
-   "category": "science",
-   "tool": "Science",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "rationale": "Chalmers closed-loop AI scientist (LLM + automated reasoning + lab robot) that hypothesises, runs and interprets yeast experiments — peer-reviewed self-driving-lab result in systems biology.",
-   "published_iso": "2026-09-30T21:40:13Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-scientist-autonomou-1.jpg",
-   "excerpt": "Chalmers researchers combined LLMs, automated reasoning and lab robotics into a closed-loop AI scientist that generates hypotheses, runs experiments on brewer's yeast and interprets results (J. R. Soc. Interface).",
-   "headline": "AI scientist autonomously generates and validates new biological discoveries"
-  },
-  {
-   "url": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
-   "source": "Phys.org",
-   "category": "science",
-   "tool": "Science",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "rationale": "Tohoku's PhysMat AI framework puts physical knowledge into materials-discovery AI so predictions become testable (Adv. Funct. Mater.); materials angle adds category spread. Swapped in for DeepMind SynthID Bio, which tripped the safety classifier mid-write.",
-   "published_iso": "2026-09-29T21:20:12Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
-   "excerpt": "Tohoku's PhysMat AI perspective (Adv. Funct. Mater.) builds physical knowledge into materials-discovery AI as priors, descriptors, constraints, verifiers and infrastructure.",
-   "headline": "Physics-grounded AI framework aims to make predictions about new materials more testable"
-  },
-  {
-   "url": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
-   "source": "Medical Xpress",
-   "category": "science",
-   "tool": "Science",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "rationale": "ChromAgeNet reads chromatin architecture in cheap DAPI images to call stem-cell age and screen rejuvenation drugs; open dataset + model — life-science imaging angle not covered this week.",
-   "published_iso": "2026-09-28T04:00:01Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
-   "excerpt": "IDIBELL/BSC's ChromAgeNet CNN reads 3D chromatin organization in DAPI-stained hematopoietic stem cell nuclei to classify young vs aged cells (77%), Aging Cell.",
-   "headline": "AI detects signs of aging in blood stem cells from nuclear images"
-  },
-  {
-   "url": "https://techxplore.com/news/2026-09-ai-social-norms-implications-society.html",
-   "source": "Tech Xplore",
-   "category": "science",
-   "tool": "Science",
-   "accent": "#eb367f",
-   "motif": "sphere",
-   "rationale": "PNAS Nexus study maps the moral/social norms of 21 LLMs with evolutionary-game modelling of the consequences — machine-psychology angle distinct from recent memory/face-bias stories.",
-   "published_iso": "2026-09-29T12:40:06Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
-   "excerpt": "PNAS Nexus study probes the social norms of 21 LLMs judging cooperation with people of good or bad reputation; most drift toward 'Simple Standing'.",
-   "headline": "Helping 'bad' people drew disapproval from some of 21 AI models"
+  "date": "2026-10-02",
+  "section": "science",
+  "picks": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "source": "ScienceDaily",
+      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "tool": "Science",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "UCLA optical (light-based) AI screens a dozen-plus videos at once for deepfakes at ~98% accuracy and low energy; a new hardware method with broad relevance.",
+      "published_iso": "2026-10-01T13:03:50Z",
+      "og_image": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp",
+      "excerpt": "UCLA researchers built an optical AI system that uses light to analyze more than a dozen videos at once, detecting deepfakes with nearly 98% accuracy at low energy cost and with resistance to adversarial attacks."
+    },
+    {
+      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "source": "Live Science",
+      "title": "AI's failed attempt to crack the Riemann hypothesis led a mathematician to a breakthrough",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "First-person account of Claude's failed Riemann attempt that still sparked a real result; a fresh angle on AI in mathematics that is distinct from the earlier curve, sphere and probability stories.",
+      "published_iso": "2026-10-01T15:56:04Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+      "excerpt": "An attempt by Anthropic's Claude failed to prove the Riemann hypothesis, but it did produce something genuinely useful: inspiration."
+    },
+    {
+      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "MIT News",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "MIT system beats human experts at the hidden-information game Stratego more cheaply than larger models, a step toward AI that supports decisions under uncertainty.",
+      "published_iso": "2026-09-30T15:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg",
+      "excerpt": "Researchers developed an AI system that beat human experts at the board wargame Stratego and outperformed more expensive models. This new system could someday help humans make strategic decisions in situations when some information is hidden."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "title": "Forecasting space weather risks on power grids",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "ML system predicts where geomagnetic storms will damage power grids 30-60 minutes ahead; new space-weather application, distinct from the published hurricane-intensity story.",
+      "published_iso": "2026-09-30T16:00:00Z",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-TWLIFB-1200x627-1.jpg",
+      "excerpt": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives."
+    },
+    {
+      "url": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
+      "source": "Phys.org",
+      "title": "Adaptive AI boosts math only slightly; the human teacher remains essential",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Three-year study of ~8,000 Dutch pupils gives hard evidence on adaptive AI learning systems in classrooms: modest arithmetic gains, and the teacher is still essential.",
+      "published_iso": "2026-10-01T20:20:02Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+      "excerpt": "A three-year study of nearly 8,000 Dutch elementary pupils found adaptive AI learning systems modestly improved arithmetic performance, but researchers stress the human teacher remains essential."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.sciencedaily.com/releases/2026/09/260929053534.htm": {
+        "verdict": "new",
+        "nearest": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
+        "new_action": ""
+      },
+      "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough": {
+        "verdict": "new",
+        "nearest": "https://www.scientificamerican.com/article/anthropics-ai-steals-mathematicians-record-for-most-complicated-curve/",
+        "new_action": ""
+      },
+      "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "Pool 20, no clusters. history_match review: space weather (related to hurricane intensity, 09-28) is a different event, so it stays as new. Retention-time small molecules (related to 'hidden universe of small molecules', 09-05) is a different tool, not a dup, but I left it out for outlet balance (phys.org already has a pick). Excluded at the orchestrator's direction: SynthID Bio (biosecurity, and it has no og_image). Also skipped MALVINA bacterial invasion as pathogen-adjacent. Left out arXiv x3 (no og_image), Talus Bio (company product launch, too close to AI-business noise), and STAT Claude genome op-ed (commentary). Quine (MSR) was not picked because it overlaps the recent 'AI scientist' and 'virtual cell' biology-agent stories and MSR already has a pick. Other good items held back to keep outlet diversity: voice aging clock (Live Science), algorithmic monoculture and visual AI cities (MIT News), drones for wildlife (Physics World), and AI vs human getting-to-know (Psychology Today). The 5 picks come from 5 different outlets, and all have an og_image."
   }
- ]
 }

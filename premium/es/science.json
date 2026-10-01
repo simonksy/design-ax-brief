@@ -2246,6 +2246,147 @@
           "x": "Los investigadores buscaron que esta estructura siguiera siendo entrenable, pero difícil de simular en computadoras clásicas."
         }
       ]
+    },
+    "science/riemannclaude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+          "cap": "¿Podría la IA contribuir a entender los números primos?"
+        },
+        {
+          "t": "p",
+          "x": "El intento fallido de un modelo de IA por resolver uno de los problemas abiertos más célebres de las matemáticas ha ayudado a un matemático humano a avanzar en un enigma relacionado. El 10 de agosto, Anthropic publicó un preprint en el que describe cómo una versión no lanzada de Claude intentó demostrar (o refutar) la hipótesis de Riemann."
+        },
+        {
+          "t": "p",
+          "x": "El intento fracasó, así que el equipo se fijó un objetivo más modesto: la proporción mínima de ceros de la función zeta de Riemann que se encuentran sobre la línea crítica. Desde 1989, los matemáticos saben que al menos el 40% lo están. Claude alcanzó el 67.25%."
+        },
+        {
+          "t": "p",
+          "x": "Youness Lamzouri, de la University of Lorraine, consideró el artículo de Claude demasiado complicado, así que leyó los trabajos en los que se había basado Claude y detectó una restricción que evitaba gran parte de las matemáticas. Su prueba más sencilla llegó al mismo 67.25% y mostró que, como máximo, el 11% de los ceros no son simples ni están sobre la línea."
+        },
+        {
+          "t": "p",
+          "x": "\"Esto es lo que pasó entre Claude y yo\", dijo Lamzouri, quien comparó la IA con grandes máquinas que extraen un tesoro mientras los humanos trabajan para entenderlo. James Maynard, ganador de la Medalla Fields, lo calificó como un ejemplo positivo de cómo pueden avanzar las cosas a la luz de la IA."
+        }
+      ]
+    },
+    "science/stratego": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT, la Carnegie Mellon University, la New York University y la Stanford University desarrollaron una IA que derrotó por amplio margen a los jugadores humanos mejor clasificados del juego de guerra de tablero Stratego, algo que ningún sistema de IA había logrado. El trabajo aparece en Nature."
+        },
+        {
+          "t": "p",
+          "x": "En Stratego, la identidad de cada pieza permanece oculta hasta que choca con otra, y las posibles configuraciones de piezas superan 10 elevado a la 66. Intentos anteriores, como el de Google DeepMind, costaron millones de dólares en entrenamiento y aun así no lograron vencer a los mejores jugadores humanos."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, Ataraxos, aprende una estrategia base mediante aprendizaje por refuerzo jugando contra sí mismo y luego planifica en el momento de decidir con un modelo generativo que estima las piezas ocultas del rival. Superó a DeepNash con menos de la centésima parte de los ejemplos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Ataraxos venció al jugador de Stratego más fuerte del mundo por 15-1-4 y logró un 39-2 frente a los mejores jugadores en el campeonato mundial. También alcanzó un nivel sobrehumano en Barrage Stratego, Hanabi y Dou dizhu. El autor principal, Gabriele Farina, afirma que podría ayudar en problemas con información oculta, como negociaciones o ciberseguridad."
+        }
+      ]
+    },
+    "science/spaceweather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los eventos extremos de clima espacial pueden inducir corrientes en las redes de transmisión que dañan los equipos. Durante unas prácticas de verano en Microsoft Research, el autor creó un sistema de aprendizaje automático que pronostica el riesgo del clima espacial en 66,935 subestaciones del territorio continental de Estados Unidos (U.S.), con estimaciones por ubicación 30-60 minutos antes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+          "cap": "Proceso de pronóstico completo, desde las mediciones de viento solar en L1 hasta las estimaciones de riesgo por ubicación en 66,935 subestaciones de U.S."
+        },
+        {
+          "t": "p",
+          "x": "Las mediciones del viento solar alimentan los pronósticos de los índices geomagnéticos AE y Dst; un modelo de gradient boosting los combina con la latitud y la conductividad geológica de cada subestación para estimar dB/dt, el cambio del campo magnético asociado al riesgo de corrientes inducidas. Un sistema de 50 agentes de IA ayudó a explorar variables y configuraciones del modelo."
+        },
+        {
+          "t": "p",
+          "x": "En 2020-2026 detectó el 76.5% de los eventos mayores, el 81.2% de los severos y el 64.1% de los extremos, y generó estimaciones para todas las subestaciones en unos 333 milisegundos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+          "cap": "Demostración de una evaluación continental del riesgo de GIC en un escenario representativo de tormenta mayor."
+        },
+        {
+          "t": "p",
+          "x": "Antes de usar el sistema en la operación de la red haría falta validarlo más con empresas eléctricas y datos operativos."
+        },
+        {
+          "t": "video",
+          "yt": "MCB3zM5dEVI"
+        }
+      ]
+    },
+    "science/adaptivemath": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los alumnos de primaria que usan una herramienta de aprendizaje con apoyo de IA (AI-supported) aprenden aritmética más rápido que quienes no la usan, según un estudio plurianual de Radboud University con casi 8,000 niños. Pero los investigadores advierten que no es una solución milagrosa: el papel del docente sigue siendo esencial."
+        },
+        {
+          "t": "p",
+          "x": "El equipo siguió a 7,885 alumnos neerlandeses durante tres años, entre 2014 y 2017, y comparó las clases que usaron un sistema adaptativo, que ajusta los ejercicios al nivel de cada alumno, con las que no lo usaron. El estudio se publica en Learning and Instruction."
+        },
+        {
+          "t": "p",
+          "x": "“Hemos encontrado efectos pequeños, pero en general una tendencia positiva”, dice la investigadora educativa Susanne de Mooij, que añade que el efecto fue más claro en escuelas grandes y en escuelas vulnerables con muchos alumnos de entornos menos favorecidos."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta apoya a los docentes en lugar de sustituirlos. “Un docente no puede adaptar el contenido de la clase a 30 alumnos a la vez”, afirma, y el docente siempre mantiene el control."
+        }
+      ]
+    },
+    "science/science-percolation-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
+          "cap": "sorbetto/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "¿Cuándo, al acumularse muchos sucesos aleatorios pequeños, surge una sola estructura? ¿Cuántos agujeros necesita una esponja para que el líquido pueda escapar? La teoría de la percolación, una rama de la probabilidad, pregunta qué tan bien se conecta una red, y en su centro había un problema sin resolver desde hacía mucho tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Resulta fácil imaginar una enorme red de tuberías, cada una de las cuales se abre o se cierra con una probabilidad determinada. Si la probabilidad p de que una tubería esté abierta es baja, la probabilidad θ(p) de que el origen pertenezca a un conglomerado infinito es cero. Cuando p supera un umbral pc, θ(p) se vuelve mayor que cero. En 1980, Harry Kesten demostró que, en la red cuadrada bidimensional, ese valor es 1/2, pero incluso hoy solo se han hallado unos pocos umbrales de este tipo."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta más importante era la forma de la transición. Ya se sabía que en las redes de una y dos dimensiones, y en once dimensiones o más, θ(p) no salta de repente desde cero, sino que aumenta de forma continua. El problema abarcaba de la dimensión 3 a la 10. Benedikt Jahnel, matemático de la Universidad Técnica de Brunswick, venía diciendo: “Quien resuelva este problema probablemente ganará una Medalla Fields.”"
+        },
+        {
+          "t": "p",
+          "x": "Hugo Duminil-Copin, ganador de la Medalla Fields en 2022, es una de las personas que intentó esta conjetura y fracasó. El 30 de agosto de 2026, en una entrada de su blog Proofs and Prompts, expresó su temor de que la IA terminara resolviendo el problema antes que los humanos. Días después, eso fue exactamente lo que ocurrió. La empresa de IA Anthropic publicó una demostración elaborada por un modelo de lenguaje de gran escala, confirmando una conclusión que la comunidad matemática llevaba décadas suponiendo: que la transición también es continua entre las dimensiones 3 y 10."
+        },
+        {
+          "t": "p",
+          "x": "Jahnel dijo sentirse “ambivalente”. Junto a la alegría de ver la conjetura finalmente demostrada, hubo cierto vacío al saber que la IA había dado el paso final decisivo. Cree que el significado mismo del premio debe repensarse, pues sostiene que las matemáticas incluyen plantear conjeturas y trasladar demostraciones e intuiciones al lenguaje humano hasta llevarlas a los libros de texto, no solo la demostración en sí. Duminil-Copin escribió también que un problema matemático es como “un faro en el mar nocturno”, y que la comprensión que se obtiene al luchar con el problema importa más que la demostración misma."
+        }
+      ]
     }
   }
 }

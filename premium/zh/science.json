@@ -2204,6 +2204,147 @@
           "x": "研究团队的目标是让这种结构既能训练,又难以被传统计算机模拟。"
         }
       ]
+    },
+    "science/riemannclaude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
+          "cap": "AI能否帮助人类理解素数？"
+        },
+        {
+          "t": "p",
+          "x": "一个AI模型在攻克数学界最著名的未解难题之一时失败了，却帮助一位人类数学家在相关难题上取得进展。8月10日，Anthropic发布了一篇预印本，介绍一个未发布版本的Claude如何尝试证明（或证伪）黎曼猜想。"
+        },
+        {
+          "t": "p",
+          "x": "尝试失败后，团队转向一个较低的目标：黎曼ζ函数位于临界线上的零点所占比例的下限。自1989年以来，数学家已知这一比例至少为40%。Claude则达到了67.25%。"
+        },
+        {
+          "t": "p",
+          "x": "University of Lorraine的Youness Lamzouri觉得Claude的论文过于复杂，于是阅读了Claude所借鉴的研究，发现了一个可绕开大量数学推导的约束条件。他更简洁的证明同样达到67.25%，并表明既非单零点、也不在临界线上的零点至多占11%。"
+        },
+        {
+          "t": "p",
+          "x": "“这正是发生在Claude和我之间的事，”Lamzouri说。他把AI比作挖掘宝藏的大型机器，而人类则努力去理解这些宝藏。菲尔兹奖得主James Maynard称，这是一个积极的例子，展示了在AI背景下事情可以如何推进。"
+        }
+      ]
+    },
+    "science/stratego": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "来自MIT、Carnegie Mellon University、New York University和Stanford University的研究人员开发出一款AI，在棋盘战争游戏Stratego中以大比分击败了顶级人类玩家，这是此前任何AI系统都未能做到的。该成果发表于Nature。"
+        },
+        {
+          "t": "p",
+          "x": "在Stratego中，每枚棋子的身份在与其他棋子相撞之前都处于隐藏状态，可能的棋子布局超过10的66次方种。包括Google DeepMind在内的以往尝试，训练成本高达数百万美元，仍无法击败顶尖人类玩家。"
+        },
+        {
+          "t": "p",
+          "x": "这套名为Ataraxos的系统先通过自我对弈强化学习掌握蓝图策略，再借助一个估计对手隐藏棋子的生成模型进行决策时规划。它所用的训练样本不到百分之一，却超越了DeepNash。"
+        },
+        {
+          "t": "p",
+          "x": "Ataraxos以15-1-4战胜了世界最强的Stratego玩家，并在世界锦标赛上对阵顶尖选手取得39-2的战绩。它还在Barrage Stratego、Hanabi和Dou dizhu中达到超越人类的水平。资深作者Gabriele Farina表示，它可能有助于解决谈判或网络安全等涉及隐藏信息的问题。"
+        }
+      ]
+    },
+    "science/spaceweather": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "极端空间天气事件可能在输电网络中感应出电流，损坏设备。作者在Microsoft Research暑期实习期间，构建了一套机器学习系统，可预测美国（U.S.）本土66,935座变电站的空间天气风险，并提前30-60分钟给出针对具体地点的估计。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
+          "cap": "从L1太阳风测量到U.S.境内66,935座变电站逐点风险估计的端到端预测流程。"
+        },
+        {
+          "t": "p",
+          "x": "太阳风测量数据用于预测AE和Dst地磁指数；梯度提升模型将其与各变电站的纬度和地质电导率结合，估算与感应电流风险相关的磁场变化dB/dt。一个由50个AI智能体组成的系统协助探索特征和模型配置。"
+        },
+        {
+          "t": "p",
+          "x": "在2020-2026年间，该系统检测出76.5%的重大事件、81.2%的严重事件和64.1%的极端事件，并在约333毫秒内完成全部变电站的估计。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
+          "cap": "在典型重大风暴情景下进行的大陆级GIC风险评估演示。"
+        },
+        {
+          "t": "p",
+          "x": "该系统要用于电网运行，还需要借助电力公司和运行数据进一步验证。"
+        },
+        {
+          "t": "video",
+          "yt": "MCB3zM5dEVI"
+        }
+      ]
+    },
+    "science/adaptivemath": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Radboud University一项涉及近8,000名儿童的多年研究显示，使用AI辅助（AI-supported）学习工具的小学生，算术学得比不用的孩子更快。但研究人员提醒，这并非灵丹妙药：教师的作用依然不可或缺。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队在2014年至2017年的三年间追踪了7,885名荷兰学生，比较了使用自适应系统（根据每个学生的水平调整练习）的班级与未使用的班级。研究发表于Learning and Instruction。"
+        },
+        {
+          "t": "p",
+          "x": "教育研究者Susanne de Mooij表示：“我们发现的效果不大，但总体呈积极趋势。”她补充说，效果在大型学校以及弱势家庭学生较多的薄弱学校中最为明显。"
+        },
+        {
+          "t": "p",
+          "x": "该工具是辅助教师，而非取代教师。她说：“一位教师无法同时为30名学生调整教学内容。”而教师始终掌握主导权。"
+        }
+      ]
+    },
+    "science/science-percolation-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/032ce61a-5b32-4dc5-b26e-3f2cde513be9/robot-dice.jpg?w=1200",
+          "cap": "sorbetto/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "当大量微小的随机事件累积起来，什么时候会形成一个整体结构？海绵需要打多少孔，液体才能流出？渗流理论是概率论的一个分支，研究的是网络的连通程度，其核心长期存在一个未解的问题。"
+        },
+        {
+          "t": "p",
+          "x": "可以把它想象成一个巨大的管道网络，每根管子都以一定概率开启或关闭。如果管子开启的概率p较低，原点属于无限连通团的概率θ(p)为0。当p超过某个阈值pc时，θ(p)就会大于0。1980年，哈里·凯斯滕证明了在二维正方格点中，这个值为1/2，但像这样被求出的阈值至今仍寥寥无几。"
+        },
+        {
+          "t": "p",
+          "x": "更大的问题在于相变的形态。人们已经知道，在一维、二维格点以及十一维以上，θ(p)不会从0突然跳升，而是连续上升。悬而未决的是三维到十维的情形。布伦瑞克工业大学数学家贝内迪克特·雅内尔曾说：“解决这个问题的人大概会获得菲尔兹奖。”"
+        },
+        {
+          "t": "p",
+          "x": "2022年菲尔兹奖得主雨果·杜米尼-科潘也是挑战这一猜想却未能成功的人之一。他在2026年8月30日的博客Proofs and Prompts中写道，他担心AI最终会比人类更早解决这个问题。几天后，这果然发生了。AI公司Anthropic公开了一份由大型语言模型完成的证明，证实了数学界数十年来一直猜测的结论：在三维到十维之间，相变同样是连续的。"
+        },
+        {
+          "t": "p",
+          "x": "雅内尔说他感到“矛盾”。猜想终于被证明带来喜悦，但决定性的最后一步是由AI完成的，这让他感到一种失落。他认为，奖项本身的意义也需要重新思考——提出猜想、把证明和洞见转化为人类语言并写入教科书，这些同样是数学的一部分。杜米尼-科潘也写道，数学问题就像“暗夜海上的灯塔”，比起证明本身，纠结于问题本身所获得的理解更为重要。"
+        }
+      ]
     }
   }
 }

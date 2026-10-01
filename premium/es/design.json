@@ -4552,6 +4552,157 @@
           "x": "Esta perspectiva también transforma el propio proceso de diseño. Decidir qué pausas y confirmaciones conservar, en lugar de qué eliminar, es lo que devuelve al usuario el margen de decisión."
         }
       ]
+    },
+    "design/shopify-canvas-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+        },
+        {
+          "t": "p",
+          "x": "Shopify presentó Canvas, una herramienta para crear sitios que permite a los comerciantes montar su tienda conversando con IA. Su anterior constructor sin código obligaba a reordenar las secciones y bloques de un tema, y una personalización más profunda requería código o un desarrollador."
+        },
+        {
+          "t": "p",
+          "x": "En Canvas, los comerciantes conversan con Sidekick, el agente de IA de Shopify, y ven los cambios en tiempo real. No es una vista previa estática, sino el código real de la tienda renderizado, por lo que pueden probar la interactividad y la animación en distintos tamaños de pantalla; Sidekick también toma capturas para ver lo que ve el comerciante."
+        },
+        {
+          "t": "video",
+          "yt": "MYtJ_qk8WBo"
+        },
+        {
+          "t": "p",
+          "x": "Los comerciantes aún pueden hacer clic en los elementos para editarlos directamente. Shopify dio a Sidekick la capacidad de trabajar directamente con los archivos del tema y simplificó la arquitectura de temas para que pueda entenderla y modificarla."
+        },
+        {
+          "t": "p",
+          "x": "Los temas de terceros, los bloques y extensiones de apps, los mercados, las traducciones, los despliegues y las actualizaciones de temas no forman parte del lanzamiento inicial, y Canvas solo funciona en escritorio; Shopify afirma que planea darles soporte con el tiempo."
+        }
+      ]
+    },
+    "design/ai-sites-wcag-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+        },
+        {
+          "t": "p",
+          "x": "Nueve de cada 10 desarrolladores usan al menos una herramienta de IA en el trabajo, según una encuesta de JetBrains, pero las herramientas de programación con IA aprendieron de una web en gran parte inaccesible. El último informe de WebAIM halló que el promedio de problemas por página subió un 10% interanual y señaló el código AI-assisted como probable causa."
+        },
+        {
+          "t": "p",
+          "x": "AudioEye dio a cinco herramientas de IA (OpenAI, Anthropic, Google, xAI y Lovable) el mismo encargo: crear tres sitios web que cumplieran WCAG en el nivel AA. Los 15 sitios fallaron el nivel A de WCAG, con un promedio de 55 problemas por página, cerca de los 62 de un sitio típico. El 91% de los problemas fue de gravedad media o alta."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el 81% de los equipos que usan herramientas de IA confía en que su código AI-generated cumple las pautas de accesibilidad, mientras que el 50% de ese grupo ha notado más problemas y quejas desde que adoptó la IA."
+        },
+        {
+          "t": "p",
+          "x": "El 46% de las organizaciones encuestadas que usan IA recibió una queja, un requerimiento o una demanda por accesibilidad en los últimos 24 meses. El artículo lo firma la CEO de AudioEye, Kelly Georgevich."
+        }
+      ]
+    },
+    "design/figma-weave-campaign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores de marca usan muchos de los mismos elementos básicos que los diseñadores de producto, como la tipografía, el color y la maquetación. En este Workflow Lab, un diseñador del ficticio Museum of Speculative Futures (MOSF) lleva el sistema de diseño de Figma Design a Figma Weave para crear la campaña de una exposición: un cartel, una valla publicitaria y publicaciones para redes sociales."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Elementos del diseñador de marca y del sistema de diseño de MOSF usados como entrada en Weave"
+        },
+        {
+          "t": "p",
+          "x": "Los marcos de maquetación y de muestras de color se pegan en el lienzo de Weave como nodos de Figma y se conectan a un Image Describer. Las fotos de las instalaciones de la exposición pasan por la misma configuración, y el nodo Gen Effect lleva las imágenes más lejos y devuelve algo ligeramente distinto en cada ejecución."
+        },
+        {
+          "t": "p",
+          "x": "El nodo de Figma devuelve cada imagen a marcos de Figma Design con texto editable, y las publicaciones para redes se localizan para los mercados francés, alemán, japonés y portugués."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "El cartel de la exposición"
+        },
+        {
+          "t": "p",
+          "x": "Como los nodos de Figma siguen conectados, un nuevo token de color o estilo tipográfico actualiza el marco en Figma y el nodo en Weave, y vuelve a ejecutar la base."
+        }
+      ]
+    },
+    "design/headless-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+        },
+        {
+          "t": "p",
+          "x": "El chat siempre será solo una interfaz. Los agentes no, y el trabajo de diseño se ha trasladado al contrato que hay bajo el producto. DataDome contabilizó 17.700 millones de solicitudes de agentes de IA en el Q2 de 2026, un 45% más que el trimestre anterior."
+        },
+        {
+          "t": "p",
+          "x": "En la IA headless, la UI pasa a ser un cliente y no el producto. El autor propone clasificar 30 días de solicitudes y ordenar las llamadas de los agentes en recorridos: un bucle de reintentos indica confusión, y una llamada que siempre precede a un abandono es un callejón sin salida."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+        },
+        {
+          "t": "p",
+          "x": "Hay que mapear cada puerta de entrada al producto, incluidas las APIs, los webhooks y los servidores MCP; las restricciones que solo existían en la interfaz nunca fueron restricciones reales. El oficio combina diseño de servicios y dominio de API: nombres de campos, permisos y la descripción de la herramienta que lee un modelo."
+        },
+        {
+          "t": "p",
+          "x": "Los mensajes de error se convierten en la única interfaz de recuperación que ve un agente, así que conviene diseñar para el éxito parcial, las escrituras idempotentes y la confirmación explícita, y medir la finalización de tareas en lugar de las páginas vistas."
+        }
+      ]
+    },
+    "design/design-c4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "H53drzzUFfo"
+        },
+        {
+          "t": "p",
+          "x": "Maxon lanzó Cinema 4D 2026.4, la nueva versión de su software 3D para motion graphics, VFX y visualización. El eje de esta actualización es un nuevo servidor MCP. Permite conectar herramientas de IA externas, como Claude o ChatGPT, para ejecutar tareas repetitivas de forma automática."
+        },
+        {
+          "t": "p",
+          "x": "Un servidor MCP (Model Context Protocol) abre las funciones de una aplicación a herramientas de IA externas. El servidor MCP de Cinema 4D admite oficialmente Claude Desktop y ChatGPT Desktop, y maneja el programa mediante indicaciones en lenguaje natural. Maxon lo presenta como una forma de \"aligerar el trabajo procedimental y repetitivo sin romper el flujo creativo\"."
+        },
+        {
+          "t": "p",
+          "x": "Entre los usos citados están cambiar la jerarquía de la escena o las convenciones de nombres, gestionar renders multipasada y configurar el seguimiento de cámara. También puede encargarse de modelado básico, edición de UV, rigging y animación de personajes, y simulaciones de partículas y fluidos; las tareas más complejas se resuelven con scripts de Python."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
+          "cap": "Un entorno 3D ensamblado con activos ya existentes mientras se conversa con un agente de IA."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, consciente de los usuarios escépticos ante la IA, Maxon deja claro en su documentación que esta función no es un sistema generativo. \"No inventa diseños, no genera imágenes y no tiene opinión sobre si un plano se ve bien. No tiene gusto. Toda instrucción viene del usuario, toda acción queda en la lista de deshacer, y si se apaga el servidor MCP no pasa nada.\""
+        },
+        {
+          "t": "p",
+          "x": "El servidor funciona de forma local en el ordenador del artista y está desactivado por defecto. Usarlo con otros dispositivos de la red local requiere un permiso aparte. También se conecta con aplicaciones que ejecutan modelos de IA localmente, como LM Studio, aunque la memoria de la GPU puede ser un obstáculo. Solo funciona en la versión completa de Cinema 4D, no en la edición Lite incluida en After Effects, ni en Team Render ni en el renderizado por línea de comandos."
+        },
+        {
+          "t": "p",
+          "x": "Cinema 4D se suma así a DaVinci Resolve y Unreal Engine, que añadieron un servidor MCP este año. Blender tiene un servidor MCP oficial en forma de complemento, y Houdini mostró una vista previa técnica en Houdini 22. Cinema 4D 2026.4 funciona en Windows 10 o posterior y macOS 14.0 o posterior, y se vende solo por suscripción: 109 dólares al mes o 839 dólares al año."
+        }
+      ]
     }
   }
 }

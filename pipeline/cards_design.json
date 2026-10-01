@@ -1,242 +1,1746 @@
 {
- "date": "2026-10-01",
- "section": "design",
- "cards": [
-  {
-   "id": "design-c4d-mcp-server",
-   "tool": "KeyShot",
-   "eyebrow": "AI NEWS",
-   "headline": "시네마 4D에 MCP 서버,\n반복 작업은 클로드에게",
-   "body": "시네마 4D 2026.4가 MCP 서버를 품어 클로드·챗GPT에 반복 일을 맡긴다.",
-   "mini_headline": "시네마 4D MCP 서버",
-   "source": "CG Channel",
-   "url": "https://www.cgchannel.com/2026/09/maxon-releases-cinema-4d-2026-4-with-a-new-mcp-server/",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "video",
-      "yt": "H53drzzUFfo"
-     },
-     {
-      "t": "p",
-      "x": "맥슨이 모션그래픽·VFX·시각화용 3D 소프트웨어 시네마 4D의 새 버전 2026.4를 내놨다. 이번 업데이트의 핵심은 새 MCP 서버다. 클로드나 챗GPT 같은 외부 AI 도구를 연결해 반복 작업을 자동으로 돌릴 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "MCP(Model Context Protocol) 서버는 앱의 기능을 외부 AI 도구에 열어 주는 통로다. 시네마 4D MCP 서버는 클로드 데스크톱과 챗GPT 데스크톱을 공식 지원하고, 자연어 프롬프트로 프로그램을 움직인다. 맥슨은 이를 \"창작 흐름을 끊지 않고 절차적이고 반복적인 작업을 덜어 주는\" 방법이라고 소개한다."
-     },
-     {
-      "t": "p",
-      "x": "예시로 든 용도는 씬 계층 구조나 이름 규칙 바꾸기, 멀티패스 렌더 관리, 카메라 트래킹 설정이다. 기본 모델링과 UV 편집, 캐릭터 리깅과 애니메이션, 파티클·액체 시뮬레이션까지 다룰 수 있고, 더 복잡한 작업은 파이썬 스크립트로 풀면 된다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260610_Cinema4D20263_GeneratedScene-960x480.jpg",
-      "cap": "AI 에이전트와 대화하며 기성 에셋으로 조립한 3D 환경."
-     },
-     {
-      "t": "p",
-      "x": "그래도 맥슨은 AI에 회의적이던 사용자층을 의식한 듯 문서에서 이 기능이 생성형 시스템이 아니라고 못 박았다. \"디자인을 지어내지도, 이미지를 만들지도 않고, 샷이 좋은지에 대한 의견도 없다. 취향이 없다. 모든 지시는 사용자에게서 나오고, 모든 동작은 실행 취소 목록에 남으며, MCP 서버를 끄면 아무 일도 일어나지 않는다.\""
-     },
-     {
-      "t": "p",
-      "x": "서버는 아티스트의 컴퓨터에서 로컬로 돌고 기본값은 꺼짐이다. 로컬 네트워크의 다른 기기와 쓰려면 따로 허용해야 한다. LM Studio처럼 AI 모델을 로컬에서 돌리는 앱과도 붙지만 GPU 메모리가 걸림돌이 될 수 있다. 정식 버전 시네마 4D에서만 동작해 애프터 이펙트에 든 Lite 에디션이나 Team Render, 커맨드라인 렌더링에서는 쓸 수 없다."
-     },
-     {
-      "t": "p",
-      "x": "올해 MCP 서버를 들인 다빈치 리졸브와 언리얼 엔진에 이어 시네마 4D도 합류했다. 블렌더는 애드온 형태로 공식 MCP 서버가 있고, 후디니는 Houdini 22에서 기술 프리뷰를 선보였다. 시네마 4D 2026.4는 Windows 10 이상, macOS 14.0 이상에서 돌며 구독제로만 판매한다. 월 109달러, 연 839달러다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "design-photoshop-relight-beta",
-   "tool": "AI Workflow",
-   "eyebrow": "AI NEWS",
-   "headline": "포토샵 리라이트 베타,\n찍은 뒤에 조명을 다시 켠다",
-   "body": "포토샵 베타의 리라이트는 원래 조명을 걷어 내고 생성형 AI로 광원을 새로 얹는다.",
-   "mini_headline": "포토샵 리라이트 베타",
-   "source": "Creative Bloq",
-   "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-   "accent": "#ff5a4d",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
-      "cap": "포토샵 베타에서 리라이트 레이어로 광원을 추가한 화면."
-     },
-     {
-      "t": "p",
-      "x": "어도비가 데스크톱 포토샵 베타에 생성형 AI 기능 리라이트(Relight)를 추가했다. 이미지에 인터랙티브하고 비파괴적인 조명을 새로 달 수 있다. 촬영이 끝난 뒤에도 조명을 다시 짜는 셈이다. 광원 위치를 옮기고 세기와 색, 확산 정도를 바꾸면서 결과를 실시간으로 본다."
-     },
-     {
-      "t": "p",
-      "x": "리라이트는 이미지의 기존 조명을 지운 뒤 생성형 AI로 조명을 새로 만든다. 인공 광원은 최대 세 개까지 넣고 하나씩 따로 조절한다. 모두 끄면 주변광이나 원래 빛만 남고, 광원마다 켜고 끄는 방식이 실제 조명과 같다."
-     },
-     {
-      "t": "p",
-      "x": "소셜미디어에 올라온 초기 실험은 반응이 갈린다. 수작업 라이트 페인팅을 없애거나 적어도 훌륭한 출발점이 돼 작업을 크게 앞당길 거라는 쪽이 있다. 반면 질감이 뭉개져 사실적인 인물 사진보다 3D 아바타에 가까워 보인다는 지적도 나온다. 다른 AI 편집 도구처럼 인물의 생김새를 의도와 달리 바꾸는 경향도 보인다. 엔비디아 DLSS 5를 두고 벌어진 논쟁, 곧 원본을 살리는 건지 새 그림을 만드는 건지를 묻는 논쟁이 여기서도 되풀이된다."
-     },
-     {
-      "t": "p",
-      "x": "부자연스러운 느낌은 리라이트를 조정 레이어처럼 쓰고 결과를 손으로 블렌딩해 원래 질감을 되살리면 줄일 수 있다. 아직 베타로 막 나온 기능이라 정식 출시 전에 다듬어질 가능성도 크다."
-     },
-     {
-      "t": "p",
-      "x": "쓰려면 최신 베타 빌드(Version: 27.10.0 202600802.m.3625)로 업데이트한 뒤 이미지를 열고 레이어 메뉴에서 New Relight layer를 고른다. 화면 한가운데 흰색 기본 광원이 생기고, 캔버스 안팎으로 끌어 옮길 수 있다. 레이어 패널에는 'Relight Layer'가 따로 생겨 원본 픽셀은 그대로 남는다. 조정을 마치고 'Done'을 누르면 원본 해상도로 최종 결과를 만든다. 다만 Done을 누를 때마다 30크레딧이 든다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "design-runway-ads",
-   "tool": "KeyShot",
-   "eyebrow": "AI NEWS",
-   "headline": "런웨이 애즈, 광고 소재를\n만들고 성과까지 되읽는다",
-   "body": "런웨이 애즈는 소재를 만들어 메타·구글·틱톡에 올리고 성과로 다음 안을 짠다.",
-   "mini_headline": "런웨이 애즈 공개",
-   "source": "Runway",
-   "url": "https://runway.com/news/introducing-runway-ads",
-   "accent": "#eb367f",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
-      "cap": "런웨이 애즈 발표 이미지."
-     },
-     {
-      "t": "p",
-      "x": "런웨이가 유료 광고의 크리에이티브 쪽을 처음부터 끝까지 운영하고 최적화하는 새 제품 런웨이 애즈(Runway Ads)를 발표했다. 광고 계정과 브랜드 키트를 연결하면 영상·이미지 소재를 만들고, 승인한 변형안을 메타·구글·틱톡에 바로 게시한다. 같은 플랫폼에서 성과를 다시 읽어 들이고, 실제로 예산을 끌어온 소재를 바탕으로 다음 회차 소재를 만든다."
-     },
-     {
-      "t": "p",
-      "x": "퍼포먼스 광고는 물량이 많을수록 유리하다. 그런데 대부분의 광고주는 만든 광고 중 일부에만 제대로 예산을 싣는다. 반복 개선과 꾸준한 집행이 없으면 운영 중인 프로그램에서 뽑아낼 가치를 다 뽑지 못한다. 잘 되는 광고를 찾는 일은 취향이나 판단보다 팀이 변형안을 얼마나 많이 만들 수 있느냐에 달렸다. 규모와 상관없이 회사를 묶어 두는 건 분석이나 직관이 아니라 소재를 충분히 만들어 내는 역량이다."
-     },
-     {
-      "t": "p",
-      "x": "런웨이 애즈는 퍼포먼스 광고 캠페인을 만들고 지켜보고 고쳐 나가는 과정을 한데 묶어 이 문제를 푼다. 글로벌 캠페인을 대규모로 돌리는 대기업이라면 테스트가 빨라지고 변주가 늘며 현지화도 일관된다. 작은 팀도 주당 수천 개 광고를 돌리며 날마다 잘 되는 쪽으로 방향을 틀 수 있다. 소상공인과 개인 크리에이터는 본업에 쓸 시간을 빼지 않고도 새 채널에 들어간다."
-     },
-     {
-      "t": "p",
-      "x": "런웨이 애즈는 런웨이 에이전트 작업을 토대로 광고 생성과 구매 과정의 핵심 단계를 자동화하되, 소유권과 승인은 사람에게 남겨 둔다."
-     },
-     {
-      "t": "p",
-      "x": "런웨이는 자사 퍼포먼스 마케팅, 특히 메타와 틱톡 광고를 키울 때 쓴 인프라 위에 이 제품을 올렸다. 7월 이후 주간 광고 수는 77개에서 약 900개로 늘었고 광고비 대비 수익은 두 배가 됐다. 전환율은 약 34% 올랐고 클릭률은 그대로다. 규모를 키우느라 지출이 늘었는데도 같은 기간 구독자당 비용은 41% 내려갔다."
-     },
-     {
-      "t": "p",
-      "x": "런웨이 공동 CEO 아나스타시스 게르마니디스는 \"우리 스스로 필요해서 런웨이 애즈를 만들었다\"며 \"광고 생성과 게시, 측정을 도구 세 개를 이어 붙이는 대신 하나의 시스템에 담으니 유료 광고 효율이 한눈에 보이고, 더 빨리 움직이고 더 많이 시도해 시장 점유율을 가져올 수 있었다\"고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "런웨이는 일부 엔터프라이즈 파트너와 런웨이 애즈를 시범 운영하고 있다. 유료 광고 프로그램을 알려 주면 엔터프라이즈 영업팀이 연락한다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "design-owlcad-parametric-ai",
-   "tool": "Text-to-CAD",
-   "eyebrow": "AI NEWS",
-   "headline": "브라우저 CAD 아울캐드,\nAI가 만든 부품도 치수가 살아 있다",
-   "body": "아울캐드는 말로 설명한 부품을 치수를 고칠 수 있는 파라메트릭 트리로 돌려준다.",
-   "mini_headline": "아울캐드 파라메트릭 AI",
-   "source": "VoxelMatters",
-   "url": "https://www.voxelmatters.com/owlcad-brings-parametric-cad-and-ai-powered-design-to-the-browser/",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
-      "cap": "아울캐드로 만든 유성 기어박스."
-     },
-     {
-      "t": "p",
-      "x": "스페어 매터(Spare Matter Corp)가 3D 프린팅용 파라메트릭 CAD 프로그램 아울캐드(OwlCAD)를 베타로 내놨다. 전부 브라우저에서 돌아 설치도 계정도 필요 없다. 형상 엔진이 사용자 컴퓨터에서 모델을 처리해 서버 응답을 기다릴 일이 없다. 모든 내보내기 형식을 포함한 전체 편집기는 무료이고, 출력물과 파일을 팔아도 라이선스 비용이 없다. AI 기능과 MCP 서버를 통한 에이전트 접근은 월 12달러, 연 120달러인 Pro 요금제에 들어 있다."
-     },
-     {
-      "t": "p",
-      "x": "AI 3D 생성기는 한동안 화면에서 그럴듯한 형상을 만들어 왔다. 문제는 구멍을 0.4mm 넓혀야 할 때 생긴다. 삼각형 메시는 그게 구멍이었다는 사실을 기억하지 못한다. 아울캐드는 더 소박하지만 실용적인 것을 내건다. 치수가 살아 있고 편집 이력이 남는 모델이다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/2-editor-dimensions-1536x960.png",
-      "cap": "치수를 바로 고칠 수 있는 편집기 화면."
-     },
-     {
-      "t": "p",
-      "x": "부품을 말로 설명하면 파라메트릭 모드는 기본 솔리드와 불리언 연산, 변환으로 이뤄진 노드 트리를 돌려주고, 모든 치수를 계속 고칠 수 있다. 30mm를 32mm로 바꾸면 부품 전체가 다시 만들어지고 다른 편집처럼 되돌릴 수도 있다. Modify with AI 기능의 수정도 형상에 굳지 않고 모델 이력에 쌓인다. 회사 설명은 간단하다. 메시는 무엇처럼 보이는지 기억하고, 파라메트릭 모델은 어떻게 만들어졌는지 기억한다."
-     },
-     {
-      "t": "p",
-      "x": "AI 아래에는 온전한 편집기가 있다. 구속 조건 스케치, 돌출·회전·스윕·로프트, 모서리별 필렛과 챔퍼, 메이트와 BOM을 갖춘 어셈블리, 변수와 수식, 기어·나사산·경첩·인클로저·Gridfinity 수납함 등 33가지 생성기를 쓴다. 출력용으로는 맞춤 공차 프리셋, 오버행·얇은 벽·수밀성 검사, 프린터 프로필, 자동 방향 설정, 질량·비용 추정이 붙는다."
-     },
-     {
-      "t": "img",
-      "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/4-print-check-1536x960.png",
-      "cap": "출력 전 오버행과 벽 두께를 점검하는 화면."
-     },
-     {
-      "t": "p",
-      "x": "호스팅 MCP 서버를 쓰면 Claude Code, Claude Desktop, Cursor 등 HTTP로 통신하는 MCP 클라이언트가 CAD 앱 없이 모델을 만들고 고친다. 도구 29개로 에이전트가 모델 트리를 짜고, 미리보기를 렌더링해 스스로 검토하고, 오버행과 출력 부피를 확인하고, 필라멘트 사용량과 비용을 계산한다. 큰 부품을 다월·슬롯·위치 핀·나사로 잇는 두 조각으로 나눌 수도 있다. 회사가 공개한 벤치마크에서는 Gemini 3.6 Flash가 구멍 네 개 난 80×60×5mm 장착판을 만들고 검증한 뒤 PLA 18.5g이 든다고 추정했다."
-     }
-    ]
-   }
-  },
-  {
-   "id": "design-core77-designer-judgment",
-   "tool": "AI Workflow",
-   "eyebrow": "AI NEWS",
-   "headline": "AI 시대, 좋은 디자이너의\n조건이 달라졌다",
-   "body": "만드는 일이 흔해진 지금, 디자이너의 가치는 무엇을 만들지 고르는 판단에서 나온다.",
-   "mini_headline": "좋은 디자이너의 새 조건",
-   "source": "Core77",
-   "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
-   "accent": "#3b6bff",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
-      "cap": "스케치와 모형이 놓인 디자인 작업대."
-     },
-     {
-      "t": "p",
-      "x": "파슨스 디자인 스쿨에서 30년 가까이 가르쳐 온 스티븐 펌 교수는 오랫동안 젊은 디자이너의 가치를 기술 숙련도에서 찾았다. 그리고, 만들고, 렌더링하고, 프로토타입을 뽑고, 새 디지털 도구를 익히는 능력이다. 지금은 몇 분이면 매끈한 이미지와 프레젠테이션, 시각적 방향까지 뽑아낸다. 생산이 흔해지면 다른 무언가가 귀해진다."
-     },
-     {
-      "t": "p",
-      "x": "그는 경쟁력이 상류로 옮겨 갔다고 본다. 아름다운 이미지는 더 이상 귀하지 않고, 어떤 이미지를 만들 가치가 있는지 아는 쪽이 중요해졌다. 디자이너는 의자를 만들기 전에 그 의자가 필요한지, 누가 쓸지, 무엇을 전달할지를 정한다. AI는 만드는 일은 거들어도 결정의 책임은 지지 못한다. 그래서 포트폴리오도 완성작보다 실패한 실험과 버린 콘셉트, 그 뒤의 사고 과정을 보여 줄 때 더 많은 것을 드러낸다."
-     },
-     {
-      "t": "p",
-      "x": "연구 결과도 엇갈린다. 2025년 고객 상담원 5,172명을 조사한 연구에서 생성형 AI 보조 도구는 생산성을 평균 15% 높였고, 경험이 적은 사람일수록 효과가 컸다. 반면 2024년 60명이 참여한 실험에서는 AI 이미지 생성기를 쓴 쪽이 디자인 고착이 심했고 아이디어 수와 다양성, 독창성이 모두 낮았다. 2025년 한 기술 컨설팅 회사 직원 250명 대상 현장 실험에서는 메타인지 전략이 강한 사람에게서 AI의 창의성 효과가 두드러졌다."
-     },
-     {
-      "t": "p",
-      "x": "펌은 디자이너를 AI에서 떼어 놓자는 게 아니라 AI가 언제 과정에 들어올지 신중히 정하자고 말한다. 작업을 검토할 때는 어떤 문제를 골랐고 어떤 대안을 왜 버렸는지 묻는다. AI를 들이기 전에 고객을 관찰하고 맥락을 살펴 문제를 스스로 정의할 시간을 준다. 병원 안내 표지 개선 의뢰라면 시안부터 뽑기보다 환자가 왜 길을 잃는지부터 묻는 식이다. 전문성을 키우는 마찰은 때로 지켜야 한다."
-     },
-     {
-      "t": "p",
-      "x": "그는 미래의 디자이너를 모든 AI 도구를 아는 사람이 아니라 언제 쓰고, 무엇을 묻고, 무엇을 의심하고, 언제 쓰지 않을지 아는 사람으로 그린다. 한 시간에 콘셉트 100개를 내는 디자이너가 더 생산적일 수는 있다. 그중 99개가 엉뚱한 문제를 풀고 있다는 걸 알아채는 디자이너가 더 가치 있을 수 있다. 조직도 속도와 물량, 완성도만이 아니라 문제 정의와 분별력, 실험을 평가해야 한다는 게 그의 결론이다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-02",
+  "section": "design",
+  "cards": [
+    {
+      "id": "figma-motion-sept",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
+      "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
+      "mini_headline": "Figma Motion에 오디오",
+      "tool": "Social",
+      "source": "Figma (YouTube)",
+      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "1lnuBH7CbEY"
+          },
+          {
+            "t": "p",
+            "x": "Figma가 'Release Notes 2026: September Edition'에서 Figma Motion의 새 기능과 캔버스 업데이트를 소개했다."
+          },
+          {
+            "t": "p",
+            "x": "Motion은 이제 디자인 시스템용 맞춤 애니메이션 스타일과 오디오, 텍스트 애니메이션을 지원한다. Figma 에이전트, 그리고 MCP로 연결한 코딩 에이전트가 이 기능을 자동으로 적용할 수 있고 Lottie로 곧장 내보낼 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Community Riffs도 공개됐다. 애니메이션과 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP가 업데이트돼 에이전트와 함께 고친 내용을 다시 Figma로 보내는 것도 가능해졌다."
+          },
+          {
+            "t": "p",
+            "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선까지 보여준다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Figma Motion adds audio\nand custom animation styles",
+          "body": "Figma's September Release Notes add custom animation styles, audio and text animations to Figma Motion.",
+          "mini_headline": "Figma Motion gets audio",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figma's Release Notes 2026: September Edition brings new Figma Motion features and updates to the canvas."
+              },
+              {
+                "t": "p",
+                "x": "Motion now supports custom animation styles, audio and text animations for your design system. They can be applied automatically with the Figma agent and coding agents via MCP, and exported directly to Lottie."
+              },
+              {
+                "t": "p",
+                "x": "Community Riffs are now live, letting people share animations, prototypes and experiments directly to the Figma Community page. Code viewer and MCP updates let you make changes with your agent and push them back to Figma."
+              },
+              {
+                "t": "p",
+                "x": "The session also demos launch animations and text staggers, keyframe easing, scaling marketing assets automatically, generative plugins and shaders, custom AI skills in the canvas, image creation in Weave, opacity as variables and design-to-code fidelity improvements."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
+          "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
+          "mini_headline": "Figma Motion에 오디오",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figma가 'Release Notes 2026: September Edition'에서 Figma Motion의 새 기능과 캔버스 업데이트를 소개했다."
+              },
+              {
+                "t": "p",
+                "x": "Motion은 이제 디자인 시스템용 맞춤 애니메이션 스타일과 오디오, 텍스트 애니메이션을 지원한다. Figma 에이전트, 그리고 MCP로 연결한 코딩 에이전트가 이 기능을 자동으로 적용할 수 있고 Lottie로 곧장 내보낼 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Community Riffs도 공개됐다. 애니메이션과 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP가 업데이트돼 에이전트와 함께 고친 내용을 다시 Figma로 보내는 것도 가능해졌다."
+              },
+              {
+                "t": "p",
+                "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선까지 보여준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figma Motionに\n音声とカスタムスタイルを追加",
+          "body": "Figma Motionに、カスタムスタイルや音声、テキストアニメーションが加わった。",
+          "mini_headline": "Figma Motionに音声",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figmaの「Release Notes 2026: September Edition」は、Figma Motionの新機能とキャンバスのアップデートを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "Motionは、デザインシステム向けのカスタムアニメーションスタイル、音声、テキストアニメーションに対応した。これらはFigmaエージェントやMCP経由のコーディングエージェントで自動適用でき、Lottieへ直接書き出せる。"
+              },
+              {
+                "t": "p",
+                "x": "Community Riffsも公開され、アニメーションやプロトタイプ、実験をFigma Communityページに直接共有できるようになった。コードビューアとMCPのアップデートにより、エージェントで加えた変更をFigmaに戻せる。"
+              },
+              {
+                "t": "p",
+                "x": "セッションでは、ローンチアニメーションとテキストのスタッガー、キーフレームのイージング、マーケティング素材の自動スケーリング、生成系プラグインとシェーダー、キャンバス内のカスタムAIスキル、Weaveでの画像生成、変数としての不透明度、デザインからコードへの忠実度向上もデモされる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma Motion\n新增音频与自定义动画样式",
+          "body": "Figma九月版本说明为Figma Motion新增自定义动画样式、音频和文字动画。",
+          "mini_headline": "Figma Motion支持音频",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figma的《Release Notes 2026: September Edition》介绍了Figma Motion的新功能和画布更新。"
+              },
+              {
+                "t": "p",
+                "x": "Motion现在支持为设计系统定制动画样式、音频和文字动画。这些效果可通过Figma智能体以及经由MCP的编程智能体自动应用，并可直接导出为Lottie。"
+              },
+              {
+                "t": "p",
+                "x": "Community Riffs现已上线，用户可将动画、原型和实验作品直接分享到Figma Community页面。代码查看器和MCP更新让用户借助智能体修改内容，再推送回Figma。"
+              },
+              {
+                "t": "p",
+                "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Figma Motion suma audio y\nestilos de animación propios",
+          "body": "Las notas de Figma de septiembre añaden a Figma Motion estilos de animación a medida, audio y animaciones de texto.",
+          "mini_headline": "Figma Motion incorpora audio",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Release Notes 2026: September Edition, de Figma, trae nuevas funciones de Figma Motion y actualizaciones del lienzo."
+              },
+              {
+                "t": "p",
+                "x": "Motion ahora admite estilos de animación personalizados, audio y animaciones de texto para tu sistema de diseño. Pueden aplicarse automáticamente con el agente de Figma y con agentes de programación vía MCP, y exportarse directamente a Lottie."
+              },
+              {
+                "t": "p",
+                "x": "Ya están disponibles los Community Riffs, que permiten compartir animaciones, prototipos y experimentos directamente en la página de Figma Community. Las actualizaciones del visor de código y de MCP permiten hacer cambios con tu agente y enviarlos de vuelta a Figma."
+              },
+              {
+                "t": "p",
+                "x": "La sesión también muestra animaciones de lanzamiento y escalonado de texto, suavizado de fotogramas clave, escalado automático de piezas de marketing, plugins y shaders generativos, habilidades de IA personalizadas en el lienzo, creación de imágenes en Weave, opacidad como variable y mejoras en la fidelidad del diseño al código."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
+          "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
+          "mini_headline": "Figma Motion에 오디오",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figma의 'Release Notes 2026: September Edition'은 Figma Motion의 새 기능과 캔버스 업데이트를 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "이제 Motion은 디자인 시스템용 맞춤 애니메이션 스타일, 오디오, 텍스트 애니메이션을 지원한다. 이 기능들은 Figma 에이전트와 MCP를 통한 코딩 에이전트로 자동 적용할 수 있고, Lottie로 바로 내보낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Community Riffs도 공개돼 애니메이션, 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP 업데이트로 에이전트와 함께 수정한 내용을 다시 Figma로 보낼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선도 시연한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figma Motionに\n音声とカスタムスタイルを追加",
+          "body": "Figma Motionに、カスタムスタイルや音声、テキストアニメーションが加わった。",
+          "mini_headline": "Figma Motionに音声",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figmaの「Release Notes 2026: September Edition」は、Figma Motionの新機能とキャンバスのアップデートを紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "Motionは、デザインシステム向けのカスタムアニメーションスタイル、音声、テキストアニメーションに対応した。これらはFigmaエージェントやMCP経由のコーディングエージェントで自動適用でき、Lottieへ直接書き出せる。"
+              },
+              {
+                "t": "p",
+                "x": "Community Riffsも公開され、アニメーションやプロトタイプ、実験をFigma Communityページに直接共有できるようになった。コードビューアとMCPのアップデートにより、エージェントで加えた変更をFigmaに戻せる。"
+              },
+              {
+                "t": "p",
+                "x": "セッションでは、ローンチアニメーションとテキストのスタッガー、キーフレームのイージング、マーケティング素材の自動スケーリング、生成系プラグインとシェーダー、キャンバス内のカスタムAIスキル、Weaveでの画像生成、変数としての不透明度、デザインからコードへの忠実度向上もデモされる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma Motion\n新增音频与自定义动画样式",
+          "body": "Figma九月版本说明为Figma Motion新增自定义动画样式、音频和文字动画。",
+          "mini_headline": "Figma Motion支持音频",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Figma的《Release Notes 2026: September Edition》介绍了Figma Motion的新功能和画布更新。"
+              },
+              {
+                "t": "p",
+                "x": "Motion现在支持为设计系统定制动画样式、音频和文字动画。这些效果可通过Figma智能体以及经由MCP的编程智能体自动应用，并可直接导出为Lottie。"
+              },
+              {
+                "t": "p",
+                "x": "Community Riffs现已上线，用户可将动画、原型和实验作品直接分享到Figma Community页面。代码查看器和MCP更新让用户借助智能体修改内容，再推送回Figma。"
+              },
+              {
+                "t": "p",
+                "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Figma Motion suma audio y\nestilos de animación propios",
+          "body": "Las notas de Figma de septiembre añaden a Figma Motion estilos de animación a medida, audio y animaciones de texto.",
+          "mini_headline": "Figma Motion incorpora audio",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "1lnuBH7CbEY"
+              },
+              {
+                "t": "p",
+                "x": "Release Notes 2026: September Edition, de Figma, trae nuevas funciones de Figma Motion y actualizaciones del lienzo."
+              },
+              {
+                "t": "p",
+                "x": "Motion ahora admite estilos de animación personalizados, audio y animaciones de texto para tu sistema de diseño. Pueden aplicarse automáticamente con el agente de Figma y con agentes de programación vía MCP, y exportarse directamente a Lottie."
+              },
+              {
+                "t": "p",
+                "x": "Ya están disponibles los Community Riffs, que permiten compartir animaciones, prototipos y experimentos directamente en la página de Figma Community. Las actualizaciones del visor de código y de MCP permiten hacer cambios con tu agente y enviarlos de vuelta a Figma."
+              },
+              {
+                "t": "p",
+                "x": "La sesión también muestra animaciones de lanzamiento y escalonado de texto, suavizado de fotogramas clave, escalado automático de piezas de marketing, plugins y shaders generativos, habilidades de IA personalizadas en el lienzo, creación de imágenes en Weave, opacidad como variable y mejoras en la fidelidad del diseño al código."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "shopify-canvas-builder",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
+      "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
+      "mini_headline": "Shopify Canvas 대화형 빌더",
+      "tool": "AI Workflow",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+          },
+          {
+            "t": "p",
+            "x": "Shopify가 사이트 제작 도구 Canvas를 내놓았다. AI와 대화하면서 스토어를 꾸리는 방식이다. 기존 노코드 빌더는 테마의 섹션과 블록을 옮겨 배치하는 수준이었고 더 깊이 커스터마이즈하려면 코드를 쓰거나 개발자에게 맡겨야 했다."
+          },
+          {
+            "t": "p",
+            "x": "판매자는 Canvas에서 Shopify의 AI 에이전트 Sidekick과 대화하며 바뀐 내용을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하므로 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있다. Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
+          },
+          {
+            "t": "video",
+            "yt": "MYtJ_qk8WBo"
+          },
+          {
+            "t": "p",
+            "x": "요소를 클릭해 직접 편집하는 방식도 그대로 남았다. Shopify는 Sidekick이 테마 파일을 직접 다루게 했고 Sidekick이 이해하고 고치기 쉽도록 테마 구조도 단순하게 정리했다."
+          },
+          {
+            "t": "p",
+            "x": "초기 출시에는 서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트가 빠졌다. Canvas는 데스크톱에서만 쓸 수 있으며, Shopify는 이 부분을 차차 지원하겠다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Shopify Canvas builds stores\nby chatting with AI",
+          "body": "Shopify Canvas lets merchants build stores by chatting with its AI agent Sidekick and see edits live.",
+          "mini_headline": "Shopify Canvas chat builder",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify introduced Canvas, a site-building tool that lets merchants set up their store by chatting with AI. Its earlier no-code builder meant rearranging a theme's sections and blocks, and deeper customization required code or a developer."
+              },
+              {
+                "t": "p",
+                "x": "In Canvas, merchants chat with Shopify's AI agent, Sidekick, and see changes in real time. It isn't a static preview but the store's real code being rendered, so merchants can test interactivity and animation across screen sizes; Sidekick also takes screenshots to see what the merchant sees."
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "Merchants can still click elements to edit directly. Shopify gave Sidekick the ability to work directly with theme files and simplified the theme architecture so it can understand and change it."
+              },
+              {
+                "t": "p",
+                "x": "Third-party themes, app blocks and extensions, markets, translations, rollouts and theme updates aren't in the initial launch, and Canvas is desktop-only; Shopify says it plans to support these over time."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
+          "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
+          "mini_headline": "Shopify Canvas 대화형 빌더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify가 사이트 제작 도구 Canvas를 내놓았다. AI와 대화하면서 스토어를 꾸리는 방식이다. 기존 노코드 빌더는 테마의 섹션과 블록을 옮겨 배치하는 수준이었고 더 깊이 커스터마이즈하려면 코드를 쓰거나 개발자에게 맡겨야 했다."
+              },
+              {
+                "t": "p",
+                "x": "판매자는 Canvas에서 Shopify의 AI 에이전트 Sidekick과 대화하며 바뀐 내용을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하므로 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있다. Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "요소를 클릭해 직접 편집하는 방식도 그대로 남았다. Shopify는 Sidekick이 테마 파일을 직접 다루게 했고 Sidekick이 이해하고 고치기 쉽도록 테마 구조도 단순하게 정리했다."
+              },
+              {
+                "t": "p",
+                "x": "초기 출시에는 서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트가 빠졌다. Canvas는 데스크톱에서만 쓸 수 있으며, Shopify는 이 부분을 차차 지원하겠다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shopify Canvas\nAIとの対話でストア構築",
+          "body": "Canvasでは、Sidekickとの対話でストアを作り、変更を即座に確認できる。",
+          "mini_headline": "Shopify Canvasの対話型ビルダー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopifyは、AIと対話しながらストアを構築できるサイト制作ツールCanvasを発表した。従来のノーコードビルダーはテーマのセクションやブロックを並べ替える方式で、より深いカスタマイズにはコードや開発者が必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "Canvasでは、マーチャントがShopifyのAIエージェントSidekickと対話し、変更をリアルタイムで確認できる。静的なプレビューではなくストアの実際のコードがレンダリングされるため、画面サイズごとにインタラクションやアニメーションを試せる。Sidekickもスクリーンショットを撮り、マーチャントが見ている画面を把握する。"
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "要素をクリックして直接編集することも引き続き可能だ。ShopifyはSidekickがテーマファイルを直接扱えるようにし、理解して変更できるようテーマのアーキテクチャを簡素化した。"
+              },
+              {
+                "t": "p",
+                "x": "サードパーティ製テーマ、アプリブロックと拡張機能、マーケット、翻訳、ロールアウト、テーマの更新は初期リリースに含まれず、Canvasはデスクトップ専用だ。Shopifyは今後これらに順次対応する予定だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Shopify Canvas\n与AI对话即可搭建店铺",
+          "body": "商家在Shopify Canvas中与AI智能体Sidekick对话建店，实时查看修改。",
+          "mini_headline": "Shopify Canvas对话式建站",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify推出了建站工具Canvas，商家可通过与AI对话来搭建店铺。此前的无代码编辑器需要重新排列主题的区块和模块，更深度的定制则需要写代码或找开发者。"
+              },
+              {
+                "t": "p",
+                "x": "在Canvas中，商家与Shopify的AI智能体Sidekick对话，并实时查看改动。它不是静态预览，而是渲染店铺的真实代码，因此商家可以在不同屏幕尺寸下测试交互和动画；Sidekick还会截图，以看到商家所看到的画面。"
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "商家仍可点击元素直接编辑。Shopify让Sidekick能够直接处理主题文件，并简化了主题架构，使其能够理解和修改。"
+              },
+              {
+                "t": "p",
+                "x": "第三方主题、应用区块和扩展、市场、翻译、分阶段发布和主题更新均未包含在首发版本中，且Canvas仅支持桌面端；Shopify表示计划逐步支持这些功能。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Shopify Canvas crea tiendas\nconversando con la IA",
+          "body": "Shopify Canvas permite crear tiendas conversando con su agente de IA, Sidekick, y ver los cambios en vivo.",
+          "mini_headline": "Shopify Canvas: constructor por chat",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify presentó Canvas, una herramienta para crear sitios que permite a los comerciantes montar su tienda conversando con IA. Su anterior constructor sin código obligaba a reordenar las secciones y bloques de un tema, y una personalización más profunda requería código o un desarrollador."
+              },
+              {
+                "t": "p",
+                "x": "En Canvas, los comerciantes conversan con Sidekick, el agente de IA de Shopify, y ven los cambios en tiempo real. No es una vista previa estática, sino el código real de la tienda renderizado, por lo que pueden probar la interactividad y la animación en distintos tamaños de pantalla; Sidekick también toma capturas para ver lo que ve el comerciante."
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "Los comerciantes aún pueden hacer clic en los elementos para editarlos directamente. Shopify dio a Sidekick la capacidad de trabajar directamente con los archivos del tema y simplificó la arquitectura de temas para que pueda entenderla y modificarla."
+              },
+              {
+                "t": "p",
+                "x": "Los temas de terceros, los bloques y extensiones de apps, los mercados, las traducciones, los despliegues y las actualizaciones de temas no forman parte del lanzamiento inicial, y Canvas solo funciona en escritorio; Shopify afirma que planea darles soporte con el tiempo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
+          "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
+          "mini_headline": "Shopify Canvas 대화형 빌더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify가 AI와 대화하며 스토어를 꾸릴 수 있는 사이트 제작 도구 Canvas를 내놓았다. 기존 노코드 빌더는 테마의 섹션과 블록을 재배치하는 방식이었고, 더 깊이 커스터마이즈하려면 코드나 개발자가 필요했다."
+              },
+              {
+                "t": "p",
+                "x": "Canvas에서 판매자는 Shopify의 AI 에이전트 Sidekick과 대화하며 변경 사항을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하기 때문에 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있고, Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "판매자는 여전히 요소를 클릭해 직접 편집할 수 있다. Shopify는 Sidekick이 테마 파일을 직접 다룰 수 있게 했고, Sidekick이 이해하고 수정할 수 있도록 테마 구조를 단순화했다."
+              },
+              {
+                "t": "p",
+                "x": "서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트는 초기 출시에 포함되지 않았고 Canvas는 데스크톱에서만 쓸 수 있다. Shopify는 이를 차차 지원할 계획이라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Shopify Canvas\nAIとの対話でストア構築",
+          "body": "Canvasでは、Sidekickとの対話でストアを作り、変更を即座に確認できる。",
+          "mini_headline": "Shopify Canvasの対話型ビルダー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopifyは、AIと対話しながらストアを構築できるサイト制作ツールCanvasを発表した。従来のノーコードビルダーはテーマのセクションやブロックを並べ替える方式で、より深いカスタマイズにはコードや開発者が必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "Canvasでは、マーチャントがShopifyのAIエージェントSidekickと対話し、変更をリアルタイムで確認できる。静的なプレビューではなくストアの実際のコードがレンダリングされるため、画面サイズごとにインタラクションやアニメーションを試せる。Sidekickもスクリーンショットを撮り、マーチャントが見ている画面を把握する。"
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "要素をクリックして直接編集することも引き続き可能だ。ShopifyはSidekickがテーマファイルを直接扱えるようにし、理解して変更できるようテーマのアーキテクチャを簡素化した。"
+              },
+              {
+                "t": "p",
+                "x": "サードパーティ製テーマ、アプリブロックと拡張機能、マーケット、翻訳、ロールアウト、テーマの更新は初期リリースに含まれず、Canvasはデスクトップ専用だ。Shopifyは今後これらに順次対応する予定だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Shopify Canvas\n与AI对话即可搭建店铺",
+          "body": "商家在Shopify Canvas中与AI智能体Sidekick对话建店，实时查看修改。",
+          "mini_headline": "Shopify Canvas对话式建站",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify推出了建站工具Canvas，商家可通过与AI对话来搭建店铺。此前的无代码编辑器需要重新排列主题的区块和模块，更深度的定制则需要写代码或找开发者。"
+              },
+              {
+                "t": "p",
+                "x": "在Canvas中，商家与Shopify的AI智能体Sidekick对话，并实时查看改动。它不是静态预览，而是渲染店铺的真实代码，因此商家可以在不同屏幕尺寸下测试交互和动画；Sidekick还会截图，以看到商家所看到的画面。"
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "商家仍可点击元素直接编辑。Shopify让Sidekick能够直接处理主题文件，并简化了主题架构，使其能够理解和修改。"
+              },
+              {
+                "t": "p",
+                "x": "第三方主题、应用区块和扩展、市场、翻译、分阶段发布和主题更新均未包含在首发版本中，且Canvas仅支持桌面端；Shopify表示计划逐步支持这些功能。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Shopify Canvas crea tiendas\nconversando con la IA",
+          "body": "Shopify Canvas permite crear tiendas conversando con su agente de IA, Sidekick, y ver los cambios en vivo.",
+          "mini_headline": "Shopify Canvas: constructor por chat",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+              },
+              {
+                "t": "p",
+                "x": "Shopify presentó Canvas, una herramienta para crear sitios que permite a los comerciantes montar su tienda conversando con IA. Su anterior constructor sin código obligaba a reordenar las secciones y bloques de un tema, y una personalización más profunda requería código o un desarrollador."
+              },
+              {
+                "t": "p",
+                "x": "En Canvas, los comerciantes conversan con Sidekick, el agente de IA de Shopify, y ven los cambios en tiempo real. No es una vista previa estática, sino el código real de la tienda renderizado, por lo que pueden probar la interactividad y la animación en distintos tamaños de pantalla; Sidekick también toma capturas para ver lo que ve el comerciante."
+              },
+              {
+                "t": "video",
+                "yt": "MYtJ_qk8WBo"
+              },
+              {
+                "t": "p",
+                "x": "Los comerciantes aún pueden hacer clic en los elementos para editarlos directamente. Shopify dio a Sidekick la capacidad de trabajar directamente con los archivos del tema y simplificó la arquitectura de temas para que pueda entenderla y modificarla."
+              },
+              {
+                "t": "p",
+                "x": "Los temas de terceros, los bloques y extensiones de apps, los mercados, las traducciones, los despliegues y las actualizaciones de temas no forman parte del lanzamiento inicial, y Canvas solo funciona en escritorio; Shopify afirma que planea darles soporte con el tiempo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ai-sites-wcag-audit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-built 15곳\n모두 접근성 불합격",
+      "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
+      "mini_headline": "AI-built 사이트, 접근성 낙제",
+      "tool": "AI Workflow",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+          },
+          {
+            "t": "p",
+            "x": "JetBrains 조사를 보면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓴다. 그런데 AI 코딩 도구가 학습한 웹은 대체로 접근성이 떨어진다. WebAIM 최신 보고서는 페이지당 평균 문제 수가 전년보다 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+          },
+          {
+            "t": "p",
+            "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만들라는 것이었다. 결과물 15개 사이트는 하나도 WCAG Level A를 넘지 못했다. 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠고, 그중 91%가 중간 또는 높은 심각도였다."
+          },
+          {
+            "t": "p",
+            "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 정작 이들 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+          },
+          {
+            "t": "p",
+            "x": "조사 대상 가운데 AI를 쓰는 조직의 46%는 지난 24개월 사이 접근성 문제로 불만이나 요구서, 소송을 받았다. 글쓴이는 AudioEye CEO Kelly Georgevich다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "All 15 AI-built websites\nfailed accessibility tests",
+          "body": "In an AudioEye study, 15 sites built by five AI tools all failed WCAG Level A, averaging 55 issues per page.",
+          "mini_headline": "AI sites fail accessibility",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "Nine in 10 developers use at least one AI tool at work, per a JetBrains survey, but AI coding tools learned from a largely inaccessible web. WebAIM's latest report found average issues per page rose 10% year over year, naming AI-assisted code a likely contributor."
+              },
+              {
+                "t": "p",
+                "x": "AudioEye gave five AI tools (OpenAI, Anthropic, Google, xAI and Lovable) the same brief: build three websites meeting WCAG at the AA standard. All 15 sites failed WCAG Level A, averaging 55 issues per page, close to the typical site's 62. 91% of issues were medium or high severity."
+              },
+              {
+                "t": "p",
+                "x": "Yet 81% of teams using AI tools are confident their AI-generated code meets accessibility guidelines, while 50% of that group have noticed more issues and complaints since adopting AI."
+              },
+              {
+                "t": "p",
+                "x": "46% of surveyed organizations using AI received an accessibility complaint, demand letter or lawsuit in the last 24 months. The piece is written by AudioEye CEO Kelly Georgevich."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-built 15곳\n모두 접근성 불합격",
+          "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
+          "mini_headline": "AI-built 사이트, 접근성 낙제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrains 조사를 보면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓴다. 그런데 AI 코딩 도구가 학습한 웹은 대체로 접근성이 떨어진다. WebAIM 최신 보고서는 페이지당 평균 문제 수가 전년보다 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만들라는 것이었다. 결과물 15개 사이트는 하나도 WCAG Level A를 넘지 못했다. 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠고, 그중 91%가 중간 또는 높은 심각도였다."
+              },
+              {
+                "t": "p",
+                "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 정작 이들 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+              },
+              {
+                "t": "p",
+                "x": "조사 대상 가운데 AI를 쓰는 조직의 46%는 지난 24개월 사이 접근성 문제로 불만이나 요구서, 소송을 받았다. 글쓴이는 AudioEye CEO Kelly Georgevich다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-built 15件\nアクセシビリティ不合格",
+          "body": "AudioEyeの調査で、AI製の15サイトすべてがWCAGレベルAに不合格だった。",
+          "mini_headline": "AI-builtサイト、アクセシビリティで不合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrainsの調査では開発者の10人中9人が仕事で少なくとも一つのAIツールを使うが、AIコーディングツールはアクセシビリティの低いウェブから大半を学んできた。WebAIMの最新報告では、ページあたりの平均問題数が前年比10%増え、AI-assistedコードが一因とみられるという。"
+              },
+              {
+                "t": "p",
+                "x": "AudioEyeは5つのAIツール(OpenAI、Anthropic、Google、xAI、Lovable)に、WCAGのAA基準を満たすウェブサイトを3つ作るという同じ課題を与えた。15サイトはすべてWCAGレベルAに不合格で、ページあたりの問題は平均55件と、一般的なサイトの62件に近かった。問題の91%は中程度か高い深刻度だった。"
+              },
+              {
+                "t": "p",
+                "x": "それでもAIツールを使うチームの81%は、AI-generatedコードがアクセシビリティ指針を満たしていると確信している。そのうち50%は、AI導入後に問題や苦情が増えたと感じている。"
+              },
+              {
+                "t": "p",
+                "x": "AIを使う調査対象組織の46%が、過去24カ月にアクセシビリティに関する苦情、要求書、訴訟のいずれかを受けた。筆者はAudioEye CEOのKelly Georgevichである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "15个AI-built网站\n无障碍测试全不合格",
+          "body": "AudioEye研究中，五款AI工具搭建的15个网站全部未达到WCAG A级标准。",
+          "mini_headline": "AI-built网站无障碍不合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrains调查显示，十分之九的开发者在工作中至少使用一种AI工具，但AI编程工具的学习素材大多来自缺乏无障碍设计的网页。WebAIM最新报告发现，每页平均问题数同比上升10%，并指出AI-assisted代码可能是原因之一。"
+              },
+              {
+                "t": "p",
+                "x": "AudioEye给五款AI工具（OpenAI、Anthropic、Google、xAI和Lovable）布置了同样的任务：搭建三个符合WCAG AA标准的网站。15个网站全部未通过WCAG Level A，每页平均有55个问题，接近普通网站的62个。其中91%的问题属于中等或高严重度。"
+              },
+              {
+                "t": "p",
+                "x": "然而，使用AI工具的团队中有81%确信其AI-generated代码符合无障碍指南，而这些团队中有50%注意到引入AI后问题和投诉增多。"
+              },
+              {
+                "t": "p",
+                "x": "受访的使用AI的组织中，46%在过去24个月里收到过无障碍相关的投诉、律师函或诉讼。本文作者为AudioEye CEO Kelly Georgevich。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los 15 sitios AI-built\nno superaron la accesibilidad",
+          "body": "En un estudio de AudioEye, los 15 sitios creados por cinco herramientas de IA no superaron el nivel A de WCAG.",
+          "mini_headline": "Sitios AI-built suspenden en accesibilidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "Nueve de cada 10 desarrolladores usan al menos una herramienta de IA en el trabajo, según una encuesta de JetBrains, pero las herramientas de programación con IA aprendieron de una web en gran parte inaccesible. El último informe de WebAIM halló que el promedio de problemas por página subió un 10% interanual y señaló el código AI-assisted como probable causa."
+              },
+              {
+                "t": "p",
+                "x": "AudioEye dio a cinco herramientas de IA (OpenAI, Anthropic, Google, xAI y Lovable) el mismo encargo: crear tres sitios web que cumplieran WCAG en el nivel AA. Los 15 sitios fallaron el nivel A de WCAG, con un promedio de 55 problemas por página, cerca de los 62 de un sitio típico. El 91% de los problemas fue de gravedad media o alta."
+              },
+              {
+                "t": "p",
+                "x": "Aun así, el 81% de los equipos que usan herramientas de IA confía en que su código AI-generated cumple las pautas de accesibilidad, mientras que el 50% de ese grupo ha notado más problemas y quejas desde que adoptó la IA."
+              },
+              {
+                "t": "p",
+                "x": "El 46% de las organizaciones encuestadas que usan IA recibió una queja, un requerimiento o una demanda por accesibilidad en los últimos 24 meses. El artículo lo firma la CEO de AudioEye, Kelly Georgevich."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-built 15곳\n모두 접근성 불합격",
+          "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
+          "mini_headline": "AI-built 사이트, 접근성 낙제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrains 조사에 따르면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓰지만, AI 코딩 도구는 대체로 접근성이 떨어지는 웹에서 학습했다. WebAIM의 최신 보고서는 페이지당 평균 문제 수가 전년 대비 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만드는 것이다. 15개 사이트는 모두 WCAG Level A에 미달했고, 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠다. 문제의 91%는 중간 또는 높은 심각도였다."
+              },
+              {
+                "t": "p",
+                "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 이 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 쓰는 조사 대상 조직의 46%가 지난 24개월 동안 접근성 관련 불만이나 요구서, 소송을 받았다. 이 글은 AudioEye CEO Kelly Georgevich가 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-built 15件\nアクセシビリティ不合格",
+          "body": "AudioEyeの調査で、AI製の15サイトすべてがWCAGレベルAに不合格だった。",
+          "mini_headline": "AI-builtサイト、アクセシビリティで不合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrainsの調査では開発者の10人中9人が仕事で少なくとも一つのAIツールを使うが、AIコーディングツールはアクセシビリティの低いウェブから大半を学んできた。WebAIMの最新報告では、ページあたりの平均問題数が前年比10%増え、AI-assistedコードが一因とみられるという。"
+              },
+              {
+                "t": "p",
+                "x": "AudioEyeは5つのAIツール(OpenAI、Anthropic、Google、xAI、Lovable)に、WCAGのAA基準を満たすウェブサイトを3つ作るという同じ課題を与えた。15サイトはすべてWCAGレベルAに不合格で、ページあたりの問題は平均55件と、一般的なサイトの62件に近かった。問題の91%は中程度か高い深刻度だった。"
+              },
+              {
+                "t": "p",
+                "x": "それでもAIツールを使うチームの81%は、AI-generatedコードがアクセシビリティ指針を満たしていると確信している。そのうち50%は、AI導入後に問題や苦情が増えたと感じている。"
+              },
+              {
+                "t": "p",
+                "x": "AIを使う調査対象組織の46%が、過去24カ月にアクセシビリティに関する苦情、要求書、訴訟のいずれかを受けた。筆者はAudioEye CEOのKelly Georgevichである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "15个AI-built网站\n无障碍测试全不合格",
+          "body": "AudioEye研究中，五款AI工具搭建的15个网站全部未达到WCAG A级标准。",
+          "mini_headline": "AI-built网站无障碍不合格",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "JetBrains调查显示，十分之九的开发者在工作中至少使用一种AI工具，但AI编程工具的学习素材大多来自缺乏无障碍设计的网页。WebAIM最新报告发现，每页平均问题数同比上升10%，并指出AI-assisted代码可能是原因之一。"
+              },
+              {
+                "t": "p",
+                "x": "AudioEye给五款AI工具（OpenAI、Anthropic、Google、xAI和Lovable）布置了同样的任务：搭建三个符合WCAG AA标准的网站。15个网站全部未通过WCAG Level A，每页平均有55个问题，接近普通网站的62个。其中91%的问题属于中等或高严重度。"
+              },
+              {
+                "t": "p",
+                "x": "然而，使用AI工具的团队中有81%确信其AI-generated代码符合无障碍指南，而这些团队中有50%注意到引入AI后问题和投诉增多。"
+              },
+              {
+                "t": "p",
+                "x": "受访的使用AI的组织中，46%在过去24个月里收到过无障碍相关的投诉、律师函或诉讼。本文作者为AudioEye CEO Kelly Georgevich。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los 15 sitios AI-built\nno superaron la accesibilidad",
+          "body": "En un estudio de AudioEye, los 15 sitios creados por cinco herramientas de IA no superaron el nivel A de WCAG.",
+          "mini_headline": "Sitios AI-built suspenden en accesibilidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+              },
+              {
+                "t": "p",
+                "x": "Nueve de cada 10 desarrolladores usan al menos una herramienta de IA en el trabajo, según una encuesta de JetBrains, pero las herramientas de programación con IA aprendieron de una web en gran parte inaccesible. El último informe de WebAIM halló que el promedio de problemas por página subió un 10% interanual y señaló el código AI-assisted como probable causa."
+              },
+              {
+                "t": "p",
+                "x": "AudioEye dio a cinco herramientas de IA (OpenAI, Anthropic, Google, xAI y Lovable) el mismo encargo: crear tres sitios web que cumplieran WCAG en el nivel AA. Los 15 sitios fallaron el nivel A de WCAG, con un promedio de 55 problemas por página, cerca de los 62 de un sitio típico. El 91% de los problemas fue de gravedad media o alta."
+              },
+              {
+                "t": "p",
+                "x": "Aun así, el 81% de los equipos que usan herramientas de IA confía en que su código AI-generated cumple las pautas de accesibilidad, mientras que el 50% de ese grupo ha notado más problemas y quejas desde que adoptó la IA."
+              },
+              {
+                "t": "p",
+                "x": "El 46% de las organizaciones encuestadas que usan IA recibió una queja, un requerimiento o una demanda por accesibilidad en los últimos 24 meses. El artículo lo firma la CEO de AudioEye, Kelly Georgevich."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "figma-weave-campaign",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
+      "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
+      "mini_headline": "Weave로 캠페인 에셋 제작",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "브랜드 디자이너가 쓰는 구성 요소는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 겹치는 것이 많다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져온다. 그리고 포스터와 빌보드, 소셜 게시물로 전시 캠페인을 꾸린다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "Weave에 넣은 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
+          },
+          {
+            "t": "p",
+            "x": "레이아웃과 스와치 프레임은 Figma 노드로 Weave 캔버스에 붙여 넣은 뒤 Image Describer에 연결한다. 전시 설치물 사진도 같은 과정을 거친다. 여기에 Gen Effect 노드가 이미지를 한 단계 더 밀어붙여 돌릴 때마다 결과가 조금씩 달라진다."
+          },
+          {
+            "t": "p",
+            "x": "Figma 노드는 이미지마다 편집 가능한 텍스트를 붙여 Figma Design 프레임으로 돌려보낸다. 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞춰 현지화한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "전시 포스터"
+          },
+          {
+            "t": "p",
+            "x": "Figma 노드는 계속 연결된 상태라 새 컬러 토큰이나 타입 스타일을 추가하면 Figma 프레임과 Weave 노드가 함께 갱신되고 베이스라인도 다시 실행된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "From design system to\ncampaign in Figma Weave",
+          "body": "Figma's Workflow Lab shows how to turn raw materials into campaign collateral with Weave's Gen Effect and Figma nodes.",
+          "mini_headline": "Weave builds campaign assets",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Brand designers use many of the same building blocks as product designers, such as type, color and layout. In this Workflow Lab, a designer at the fictional Museum of Speculative Futures (MOSF) brings the design system from Figma Design into Figma Weave to build an exhibition campaign: a poster, a billboard and social posts."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Elements from the brand designer and the MOSF design system used as input in Weave"
+              },
+              {
+                "t": "p",
+                "x": "Layout and swatch frames are pasted onto the Weave canvas as Figma nodes and connected to an Image Describer. Photos of the exhibition installations run through the same setup, and the Gen Effect node pushes the imagery further, returning something slightly different each run."
+              },
+              {
+                "t": "p",
+                "x": "The Figma node sends each image back into Figma Design frames with editable text, and social posts are localized for French, German, Japanese and Portuguese markets."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "The exhibition poster"
+              },
+              {
+                "t": "p",
+                "x": "Because the Figma nodes stay connected, a new color token or type style updates the frame in Figma, the node in Weave, and reruns the baseline."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
+          "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
+          "mini_headline": "Weave로 캠페인 에셋 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "브랜드 디자이너가 쓰는 구성 요소는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 겹치는 것이 많다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져온다. 그리고 포스터와 빌보드, 소셜 게시물로 전시 캠페인을 꾸린다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Weave에 넣은 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
+              },
+              {
+                "t": "p",
+                "x": "레이아웃과 스와치 프레임은 Figma 노드로 Weave 캔버스에 붙여 넣은 뒤 Image Describer에 연결한다. 전시 설치물 사진도 같은 과정을 거친다. 여기에 Gen Effect 노드가 이미지를 한 단계 더 밀어붙여 돌릴 때마다 결과가 조금씩 달라진다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드는 이미지마다 편집 가능한 텍스트를 붙여 Figma Design 프레임으로 돌려보낸다. 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞춰 현지화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "전시 포스터"
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드는 계속 연결된 상태라 새 컬러 토큰이나 타입 스타일을 추가하면 Figma 프레임과 Weave 노드가 함께 갱신되고 베이스라인도 다시 실행된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "デザインシステムから\nWeaveでキャンペーンへ",
+          "body": "Figmaが、Weaveで素材をキャンペーン制作物に仕上げる手順を紹介した。",
+          "mini_headline": "Weaveでキャンペーン素材を制作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "ブランドデザイナーは、書体や色、レイアウトなど、プロダクトデザイナーと同じ構成要素の多くを使う。今回のWorkflow Labでは、架空のMuseum of Speculative Futures（MOSF）のデザイナーが、Figma DesignのデザインシステムをFigma Weaveに持ち込み、ポスター、ビルボード、SNS投稿からなる展覧会キャンペーンを制作する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Weaveへの入力に使った、ブランドデザイナーの素材とMOSFデザインシステムの要素"
+              },
+              {
+                "t": "p",
+                "x": "レイアウトとスウォッチのフレームをFigmaノードとしてWeaveのキャンバスに貼り付け、Image Describerにつなぐ。展示インスタレーションの写真も同じ構成に通し、Gen Effectノードが画像をさらに押し広げ、実行のたびに少しずつ異なる結果を返す。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードは各画像を、編集可能なテキストを備えたFigma Designのフレームに戻し、SNS投稿はフランス語、ドイツ語、日本語、ポルトガル語の市場向けにローカライズされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "展覧会のポスター"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードは接続されたままなので、新しいカラートークンや文字スタイルを加えると、Figma上のフレームとWeave上のノードが更新され、ベースラインも再実行される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "从设计系统到营销活动\n尽在Figma Weave",
+          "body": "Figma演示如何在Weave中用Gen Effect把原始素材做成营销物料。",
+          "mini_headline": "Weave制作营销素材",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "品牌设计师与产品设计师使用的许多基本元素相同，比如字体、色彩和版式。在这期Workflow Lab中，虚构的Museum of Speculative Futures（MOSF）的一位设计师把Figma Design中的设计系统带入Figma Weave，制作一场展览的营销活动：一张海报、一块广告牌和若干社交媒体帖子。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "作为Weave输入的品牌设计师素材与MOSF设计系统元素"
+              },
+              {
+                "t": "p",
+                "x": "版式和色板框架以Figma节点的形式粘贴到Weave画布上，并连接到Image Describer。展览装置的照片也经过同样的流程，Gen Effect节点会进一步推进图像效果，每次运行的结果都略有不同。"
+              },
+              {
+                "t": "p",
+                "x": "Figma节点将每张图像送回带可编辑文字的Figma Design框架中，社交媒体帖子则针对法语、德语、日语和葡萄牙语市场进行本地化。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "展览海报"
+              },
+              {
+                "t": "p",
+                "x": "由于Figma节点保持连接，新增颜色令牌或字体样式会同时更新Figma中的框架和Weave中的节点，并重新运行基线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Del sistema de diseño a la\ncampaña en Figma Weave",
+          "body": "El Workflow Lab de Figma enseña a convertir materiales en piezas de campaña con Gen Effect de Weave y nodos de Figma.",
+          "mini_headline": "Weave crea piezas de campaña",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores de marca usan muchos de los mismos elementos básicos que los diseñadores de producto, como la tipografía, el color y la maquetación. En este Workflow Lab, un diseñador del ficticio Museum of Speculative Futures (MOSF) lleva el sistema de diseño de Figma Design a Figma Weave para crear la campaña de una exposición: un cartel, una valla publicitaria y publicaciones para redes sociales."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Elementos del diseñador de marca y del sistema de diseño de MOSF usados como entrada en Weave"
+              },
+              {
+                "t": "p",
+                "x": "Los marcos de maquetación y de muestras de color se pegan en el lienzo de Weave como nodos de Figma y se conectan a un Image Describer. Las fotos de las instalaciones de la exposición pasan por la misma configuración, y el nodo Gen Effect lleva las imágenes más lejos y devuelve algo ligeramente distinto en cada ejecución."
+              },
+              {
+                "t": "p",
+                "x": "El nodo de Figma devuelve cada imagen a marcos de Figma Design con texto editable, y las publicaciones para redes se localizan para los mercados francés, alemán, japonés y portugués."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "El cartel de la exposición"
+              },
+              {
+                "t": "p",
+                "x": "Como los nodos de Figma siguen conectados, un nuevo token de color o estilo tipográfico actualiza el marco en Figma y el nodo en Weave, y vuelve a ejecutar la base."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
+          "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
+          "mini_headline": "Weave로 캠페인 에셋 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "브랜드 디자이너는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 같은 구성 요소를 상당수 쓴다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져와 포스터, 빌보드, 소셜 게시물로 이뤄진 전시 캠페인을 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Weave에 입력으로 쓴 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
+              },
+              {
+                "t": "p",
+                "x": "레이아웃과 스와치 프레임을 Figma 노드로 Weave 캔버스에 붙여 넣고 Image Describer에 연결한다. 전시 설치물 사진도 같은 구성을 거치고, Gen Effect 노드가 이미지를 한층 더 밀어붙여 실행할 때마다 조금씩 다른 결과를 낸다."
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드는 각 이미지를 편집 가능한 텍스트와 함께 Figma Design 프레임으로 돌려보내고, 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞게 현지화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "전시 포스터"
+              },
+              {
+                "t": "p",
+                "x": "Figma 노드가 계속 연결돼 있어 새 컬러 토큰이나 타입 스타일을 추가하면 Figma의 프레임과 Weave의 노드가 갱신되고 베이스라인도 다시 실행된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "デザインシステムから\nWeaveでキャンペーンへ",
+          "body": "Figmaが、Weaveで素材をキャンペーン制作物に仕上げる手順を紹介した。",
+          "mini_headline": "Weaveでキャンペーン素材を制作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "ブランドデザイナーは、書体や色、レイアウトなど、プロダクトデザイナーと同じ構成要素の多くを使う。今回のWorkflow Labでは、架空のMuseum of Speculative Futures（MOSF）のデザイナーが、Figma DesignのデザインシステムをFigma Weaveに持ち込み、ポスター、ビルボード、SNS投稿からなる展覧会キャンペーンを制作する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Weaveへの入力に使った、ブランドデザイナーの素材とMOSFデザインシステムの要素"
+              },
+              {
+                "t": "p",
+                "x": "レイアウトとスウォッチのフレームをFigmaノードとしてWeaveのキャンバスに貼り付け、Image Describerにつなぐ。展示インスタレーションの写真も同じ構成に通し、Gen Effectノードが画像をさらに押し広げ、実行のたびに少しずつ異なる結果を返す。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードは各画像を、編集可能なテキストを備えたFigma Designのフレームに戻し、SNS投稿はフランス語、ドイツ語、日本語、ポルトガル語の市場向けにローカライズされる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "展覧会のポスター"
+              },
+              {
+                "t": "p",
+                "x": "Figmaノードは接続されたままなので、新しいカラートークンや文字スタイルを加えると、Figma上のフレームとWeave上のノードが更新され、ベースラインも再実行される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "从设计系统到营销活动\n尽在Figma Weave",
+          "body": "Figma演示如何在Weave中用Gen Effect把原始素材做成营销物料。",
+          "mini_headline": "Weave制作营销素材",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "品牌设计师与产品设计师使用的许多基本元素相同，比如字体、色彩和版式。在这期Workflow Lab中，虚构的Museum of Speculative Futures（MOSF）的一位设计师把Figma Design中的设计系统带入Figma Weave，制作一场展览的营销活动：一张海报、一块广告牌和若干社交媒体帖子。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "作为Weave输入的品牌设计师素材与MOSF设计系统元素"
+              },
+              {
+                "t": "p",
+                "x": "版式和色板框架以Figma节点的形式粘贴到Weave画布上，并连接到Image Describer。展览装置的照片也经过同样的流程，Gen Effect节点会进一步推进图像效果，每次运行的结果都略有不同。"
+              },
+              {
+                "t": "p",
+                "x": "Figma节点将每张图像送回带可编辑文字的Figma Design框架中，社交媒体帖子则针对法语、德语、日语和葡萄牙语市场进行本地化。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "展览海报"
+              },
+              {
+                "t": "p",
+                "x": "由于Figma节点保持连接，新增颜色令牌或字体样式会同时更新Figma中的框架和Weave中的节点，并重新运行基线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Del sistema de diseño a la\ncampaña en Figma Weave",
+          "body": "El Workflow Lab de Figma enseña a convertir materiales en piezas de campaña con Gen Effect de Weave y nodos de Figma.",
+          "mini_headline": "Weave crea piezas de campaña",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores de marca usan muchos de los mismos elementos básicos que los diseñadores de producto, como la tipografía, el color y la maquetación. En este Workflow Lab, un diseñador del ficticio Museum of Speculative Futures (MOSF) lleva el sistema de diseño de Figma Design a Figma Weave para crear la campaña de una exposición: un cartel, una valla publicitaria y publicaciones para redes sociales."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Elementos del diseñador de marca y del sistema de diseño de MOSF usados como entrada en Weave"
+              },
+              {
+                "t": "p",
+                "x": "Los marcos de maquetación y de muestras de color se pegan en el lienzo de Weave como nodos de Figma y se conectan a un Image Describer. Las fotos de las instalaciones de la exposición pasan por la misma configuración, y el nodo Gen Effect lleva las imágenes más lejos y devuelve algo ligeramente distinto en cada ejecución."
+              },
+              {
+                "t": "p",
+                "x": "El nodo de Figma devuelve cada imagen a marcos de Figma Design con texto editable, y las publicaciones para redes se localizan para los mercados francés, alemán, japonés y portugués."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "El cartel de la exposición"
+              },
+              {
+                "t": "p",
+                "x": "Como los nodos de Figma siguen conectados, un nuevo token de color o estilo tipográfico actualiza el marco en Figma y el nodo en Weave, y vuelve a ejecutar la base."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "headless-ai-platform",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
+      "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
+      "mini_headline": "헤드리스 AI를 위한 디자인",
+      "tool": "Design Tokens",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+          },
+          {
+            "t": "p",
+            "x": "채팅은 끝까지 인터페이스에 머문다. 에이전트는 다르다. 디자인 작업도 제품 아래의 계약으로 옮겨갔다. DataDome이 2026년 Q2에 집계한 AI 에이전트 요청은 177억 건으로 직전 분기보다 45% 늘었다."
+          },
+          {
+            "t": "p",
+            "x": "헤드리스 AI에서 UI는 제품이 아니라 여러 클라이언트 중 하나다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서대로 엮어 보라고 권한다. 재시도 루프는 혼란의 신호다. 이탈 직전마다 나오는 호출은 막다른 길이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+          },
+          {
+            "t": "p",
+            "x": "APIs와 웹훅, MCP 서버까지 제품으로 들어오는 문을 모두 지도로 그려야 한다. 인터페이스에만 있던 제약은 애초에 제약이 아니었다. 지금 필요한 건 서비스 디자인에 API 이해력을 더한 역량이다. 필드 이름과 스코프, 모델이 읽는 도구 설명이 모두 여기에 든다."
+          },
+          {
+            "t": "p",
+            "x": "에이전트가 마주하는 복구 인터페이스는 오류 문자열이 전부다. 그러니 부분 성공과 멱등 쓰기, 명시적 확인을 염두에 두고 설계해야 한다. 성과도 페이지 조회수가 아니라 작업 완료율로 잰다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Headless AI turns every\nproduct into a platform",
+          "body": "Because agents, unlike chat, are not just an interface, design work moves to the contract underneath the product.",
+          "mini_headline": "Designing for headless AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product. DataDome counted 17.7 billion AI agent requests in Q2 2026, up 45% from the quarter before."
+              },
+              {
+                "t": "p",
+                "x": "In headless AI, the UI becomes a client rather than the product. The author suggests sorting 30 days of requests and sequencing agent calls into journeys: a retry loop is confusion, a call that always precedes an abandon is a dead end."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "Map every door into the product, including APIs, webhooks and MCP servers; constraints that lived only in the interface were never really constraints. The craft is service design plus API literacy: field names, scopes and the tool description a model reads."
+              },
+              {
+                "t": "p",
+                "x": "Error strings become the only recovery interface an agent sees, so design for partial success, idempotent writes and explicit confirmation, and measure task completion rather than page views."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
+          "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
+          "mini_headline": "헤드리스 AI를 위한 디자인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "채팅은 끝까지 인터페이스에 머문다. 에이전트는 다르다. 디자인 작업도 제품 아래의 계약으로 옮겨갔다. DataDome이 2026년 Q2에 집계한 AI 에이전트 요청은 177억 건으로 직전 분기보다 45% 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "헤드리스 AI에서 UI는 제품이 아니라 여러 클라이언트 중 하나다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서대로 엮어 보라고 권한다. 재시도 루프는 혼란의 신호다. 이탈 직전마다 나오는 호출은 막다른 길이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "APIs와 웹훅, MCP 서버까지 제품으로 들어오는 문을 모두 지도로 그려야 한다. 인터페이스에만 있던 제약은 애초에 제약이 아니었다. 지금 필요한 건 서비스 디자인에 API 이해력을 더한 역량이다. 필드 이름과 스코프, 모델이 읽는 도구 설명이 모두 여기에 든다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트가 마주하는 복구 인터페이스는 오류 문자열이 전부다. 그러니 부분 성공과 멱등 쓰기, 명시적 확인을 염두에 두고 설계해야 한다. 성과도 페이지 조회수가 아니라 작업 완료율로 잰다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ヘッドレスAIで\n全製品がプラットフォームに",
+          "body": "エージェントは単なるインターフェースではないため、設計は製品の下の契約へ移る。",
+          "mini_headline": "ヘッドレスAIのための設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "チャットはいつまでも単なるインターフェースだ。エージェントは違い、設計の仕事は製品の下にある契約へ移った。DataDomeは2026年Q2にAIエージェントのリクエストを177億件数え、前四半期から45%増えた。"
+              },
+              {
+                "t": "p",
+                "x": "ヘッドレスAIでは、UIは製品ではなく一つのクライアントになる。筆者は30日分のリクエストを分類し、エージェントの呼び出しをジャーニーとして並べることを勧める。リトライのループは混乱を示し、常に離脱の直前に来る呼び出しは行き止まりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "APIs、Webhook、MCPサーバーを含め、製品へのあらゆる入口を洗い出す。インターフェースの中にしかなかった制約は、もともと制約ではなかった。求められる技能は、サービスデザインにAPIリテラシーを加えたものだ。フィールド名、スコープ、そしてモデルが読むツール説明である。"
+              },
+              {
+                "t": "p",
+                "x": "エラー文字列はエージェントにとって唯一の回復用インターフェースになる。だから部分的な成功、冪等な書き込み、明示的な確認を前提に設計し、ページビューではなくタスク完了を測るべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无头AI让每个产品\n都成为平台",
+          "body": "智能体不同于聊天，不只是界面，设计工作因此转向产品底层的契约。",
+          "mini_headline": "为无头AI而设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "聊天永远只是一种界面。智能体则不然，设计工作已经转移到产品底层的契约上。DataDome统计，2026年Q2共有177亿次AI智能体请求，比上一季度增长45%。"
+              },
+              {
+                "t": "p",
+                "x": "在无头AI中，UI不再是产品本身，而是一个客户端。作者建议把30天的请求分类，并将智能体调用按旅程排序：重试循环意味着困惑，总在放弃之前出现的调用就是死胡同。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "梳理进入产品的每一扇门，包括APIs、webhook和MCP服务器；只存在于界面里的约束，从来算不上真正的约束。这门手艺是服务设计加上API素养：字段名、权限范围，以及模型读取的工具描述。"
+              },
+              {
+                "t": "p",
+                "x": "错误信息成为智能体能看到的唯一恢复界面，因此要为部分成功、幂等写入和明确确认而设计，并衡量任务完成情况而非页面浏览量。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA headless convierte cada\nproducto en una plataforma",
+          "body": "Como los agentes, a diferencia del chat, no son solo una interfaz, el diseño pasa al contrato bajo el producto.",
+          "mini_headline": "Diseñar para la IA headless",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "El chat siempre será solo una interfaz. Los agentes no, y el trabajo de diseño se ha trasladado al contrato que hay bajo el producto. DataDome contabilizó 17.700 millones de solicitudes de agentes de IA en el Q2 de 2026, un 45% más que el trimestre anterior."
+              },
+              {
+                "t": "p",
+                "x": "En la IA headless, la UI pasa a ser un cliente y no el producto. El autor propone clasificar 30 días de solicitudes y ordenar las llamadas de los agentes en recorridos: un bucle de reintentos indica confusión, y una llamada que siempre precede a un abandono es un callejón sin salida."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "Hay que mapear cada puerta de entrada al producto, incluidas las APIs, los webhooks y los servidores MCP; las restricciones que solo existían en la interfaz nunca fueron restricciones reales. El oficio combina diseño de servicios y dominio de API: nombres de campos, permisos y la descripción de la herramienta que lee un modelo."
+              },
+              {
+                "t": "p",
+                "x": "Los mensajes de error se convierten en la única interfaz de recuperación que ve un agente, así que conviene diseñar para el éxito parcial, las escrituras idempotentes y la confirmación explícita, y medir la finalización de tareas en lugar de las páginas vistas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
+          "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
+          "mini_headline": "헤드리스 AI를 위한 디자인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "채팅은 언제까지나 인터페이스일 뿐이다. 에이전트는 다르다. 디자인 작업은 제품 아래의 계약으로 옮겨갔다. DataDome은 2026년 Q2에 AI 에이전트 요청 177억 건을 집계했는데, 직전 분기보다 45% 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "헤드리스 AI에서 UI는 제품이 아니라 하나의 클라이언트가 된다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서로 엮어 보라고 제안한다. 재시도 루프는 혼란의 신호이고, 늘 이탈 직전에 오는 호출은 막다른 길이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "APIs, 웹훅, MCP 서버를 포함해 제품으로 들어오는 모든 문을 지도로 그려야 한다. 인터페이스에만 있던 제약은 처음부터 제약이 아니었다. 이제 필요한 역량은 서비스 디자인에 API 이해력을 더한 것이다. 필드 이름, 스코프, 그리고 모델이 읽는 도구 설명이 그 대상이다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트가 보는 복구 인터페이스는 오류 문자열뿐이다. 그러니 부분 성공, 멱등 쓰기, 명시적 확인을 고려해 설계하고, 페이지 조회수 대신 작업 완료율을 측정해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ヘッドレスAIで\n全製品がプラットフォームに",
+          "body": "エージェントは単なるインターフェースではないため、設計は製品の下の契約へ移る。",
+          "mini_headline": "ヘッドレスAIのための設計",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "チャットはいつまでも単なるインターフェースだ。エージェントは違い、設計の仕事は製品の下にある契約へ移った。DataDomeは2026年Q2にAIエージェントのリクエストを177億件数え、前四半期から45%増えた。"
+              },
+              {
+                "t": "p",
+                "x": "ヘッドレスAIでは、UIは製品ではなく一つのクライアントになる。筆者は30日分のリクエストを分類し、エージェントの呼び出しをジャーニーとして並べることを勧める。リトライのループは混乱を示し、常に離脱の直前に来る呼び出しは行き止まりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "APIs、Webhook、MCPサーバーを含め、製品へのあらゆる入口を洗い出す。インターフェースの中にしかなかった制約は、もともと制約ではなかった。求められる技能は、サービスデザインにAPIリテラシーを加えたものだ。フィールド名、スコープ、そしてモデルが読むツール説明である。"
+              },
+              {
+                "t": "p",
+                "x": "エラー文字列はエージェントにとって唯一の回復用インターフェースになる。だから部分的な成功、冪等な書き込み、明示的な確認を前提に設計し、ページビューではなくタスク完了を測るべきだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无头AI让每个产品\n都成为平台",
+          "body": "智能体不同于聊天，不只是界面，设计工作因此转向产品底层的契约。",
+          "mini_headline": "为无头AI而设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "聊天永远只是一种界面。智能体则不然，设计工作已经转移到产品底层的契约上。DataDome统计，2026年Q2共有177亿次AI智能体请求，比上一季度增长45%。"
+              },
+              {
+                "t": "p",
+                "x": "在无头AI中，UI不再是产品本身，而是一个客户端。作者建议把30天的请求分类，并将智能体调用按旅程排序：重试循环意味着困惑，总在放弃之前出现的调用就是死胡同。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "梳理进入产品的每一扇门，包括APIs、webhook和MCP服务器；只存在于界面里的约束，从来算不上真正的约束。这门手艺是服务设计加上API素养：字段名、权限范围，以及模型读取的工具描述。"
+              },
+              {
+                "t": "p",
+                "x": "错误信息成为智能体能看到的唯一恢复界面，因此要为部分成功、幂等写入和明确确认而设计，并衡量任务完成情况而非页面浏览量。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA headless convierte cada\nproducto en una plataforma",
+          "body": "Como los agentes, a diferencia del chat, no son solo una interfaz, el diseño pasa al contrato bajo el producto.",
+          "mini_headline": "Diseñar para la IA headless",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+              },
+              {
+                "t": "p",
+                "x": "El chat siempre será solo una interfaz. Los agentes no, y el trabajo de diseño se ha trasladado al contrato que hay bajo el producto. DataDome contabilizó 17.700 millones de solicitudes de agentes de IA en el Q2 de 2026, un 45% más que el trimestre anterior."
+              },
+              {
+                "t": "p",
+                "x": "En la IA headless, la UI pasa a ser un cliente y no el producto. El autor propone clasificar 30 días de solicitudes y ordenar las llamadas de los agentes en recorridos: un bucle de reintentos indica confusión, y una llamada que siempre precede a un abandono es un callejón sin salida."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+              },
+              {
+                "t": "p",
+                "x": "Hay que mapear cada puerta de entrada al producto, incluidas las APIs, los webhooks y los servidores MCP; las restricciones que solo existían en la interfaz nunca fueron restricciones reales. El oficio combina diseño de servicios y dominio de API: nombres de campos, permisos y la descripción de la herramienta que lee un modelo."
+              },
+              {
+                "t": "p",
+                "x": "Los mensajes de error se convierten en la única interfaz de recuperación que ve un agente, así que conviene diseñar para el éxito parcial, las escrituras idempotentes y la confirmación explícita, y medir la finalización de tareas en lugar de las páginas vistas."
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

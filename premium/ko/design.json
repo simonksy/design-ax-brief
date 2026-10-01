@@ -5134,6 +5134,120 @@
           "x": "이런 관점은 디자인 과정 자체도 바꿔놓는다. 무엇을 없앨지가 아니라, 어떤 멈춤과 확인을 남길지가 곧 사용자에게 판단의 여지를 돌려주는 설계가 된다."
         }
       ]
+    },
+    "design/shopify-canvas-builder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+        },
+        {
+          "t": "p",
+          "x": "Shopify가 사이트 제작 도구 Canvas를 내놓았다. AI와 대화하면서 스토어를 꾸리는 방식이다. 기존 노코드 빌더는 테마의 섹션과 블록을 옮겨 배치하는 수준이었고 더 깊이 커스터마이즈하려면 코드를 쓰거나 개발자에게 맡겨야 했다."
+        },
+        {
+          "t": "p",
+          "x": "판매자는 Canvas에서 Shopify의 AI 에이전트 Sidekick과 대화하며 바뀐 내용을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하므로 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있다. Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
+        },
+        {
+          "t": "video",
+          "yt": "MYtJ_qk8WBo"
+        },
+        {
+          "t": "p",
+          "x": "요소를 클릭해 직접 편집하는 방식도 그대로 남았다. Shopify는 Sidekick이 테마 파일을 직접 다루게 했고 Sidekick이 이해하고 고치기 쉽도록 테마 구조도 단순하게 정리했다."
+        },
+        {
+          "t": "p",
+          "x": "초기 출시에는 서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트가 빠졌다. Canvas는 데스크톱에서만 쓸 수 있으며, Shopify는 이 부분을 차차 지원하겠다고 밝혔다."
+        }
+      ]
+    },
+    "design/ai-sites-wcag-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+        },
+        {
+          "t": "p",
+          "x": "JetBrains 조사를 보면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓴다. 그런데 AI 코딩 도구가 학습한 웹은 대체로 접근성이 떨어진다. WebAIM 최신 보고서는 페이지당 평균 문제 수가 전년보다 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만들라는 것이었다. 결과물 15개 사이트는 하나도 WCAG Level A를 넘지 못했다. 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠고, 그중 91%가 중간 또는 높은 심각도였다."
+        },
+        {
+          "t": "p",
+          "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 정작 이들 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+        },
+        {
+          "t": "p",
+          "x": "조사 대상 가운데 AI를 쓰는 조직의 46%는 지난 24개월 사이 접근성 문제로 불만이나 요구서, 소송을 받았다. 글쓴이는 AudioEye CEO Kelly Georgevich다."
+        }
+      ]
+    },
+    "design/figma-weave-campaign": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "브랜드 디자이너가 쓰는 구성 요소는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 겹치는 것이 많다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져온다. 그리고 포스터와 빌보드, 소셜 게시물로 전시 캠페인을 꾸린다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Weave에 넣은 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
+        },
+        {
+          "t": "p",
+          "x": "레이아웃과 스와치 프레임은 Figma 노드로 Weave 캔버스에 붙여 넣은 뒤 Image Describer에 연결한다. 전시 설치물 사진도 같은 과정을 거친다. 여기에 Gen Effect 노드가 이미지를 한 단계 더 밀어붙여 돌릴 때마다 결과가 조금씩 달라진다."
+        },
+        {
+          "t": "p",
+          "x": "Figma 노드는 이미지마다 편집 가능한 텍스트를 붙여 Figma Design 프레임으로 돌려보낸다. 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞춰 현지화한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "전시 포스터"
+        },
+        {
+          "t": "p",
+          "x": "Figma 노드는 계속 연결된 상태라 새 컬러 토큰이나 타입 스타일을 추가하면 Figma 프레임과 Weave 노드가 함께 갱신되고 베이스라인도 다시 실행된다."
+        }
+      ]
+    },
+    "design/headless-ai-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+        },
+        {
+          "t": "p",
+          "x": "채팅은 끝까지 인터페이스에 머문다. 에이전트는 다르다. 디자인 작업도 제품 아래의 계약으로 옮겨갔다. DataDome이 2026년 Q2에 집계한 AI 에이전트 요청은 177억 건으로 직전 분기보다 45% 늘었다."
+        },
+        {
+          "t": "p",
+          "x": "헤드리스 AI에서 UI는 제품이 아니라 여러 클라이언트 중 하나다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서대로 엮어 보라고 권한다. 재시도 루프는 혼란의 신호다. 이탈 직전마다 나오는 호출은 막다른 길이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+        },
+        {
+          "t": "p",
+          "x": "APIs와 웹훅, MCP 서버까지 제품으로 들어오는 문을 모두 지도로 그려야 한다. 인터페이스에만 있던 제약은 애초에 제약이 아니었다. 지금 필요한 건 서비스 디자인에 API 이해력을 더한 역량이다. 필드 이름과 스코프, 모델이 읽는 도구 설명이 모두 여기에 든다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트가 마주하는 복구 인터페이스는 오류 문자열이 전부다. 그러니 부분 성공과 멱등 쓰기, 명시적 확인을 염두에 두고 설계해야 한다. 성과도 페이지 조회수가 아니라 작업 완료율로 잰다."
+        }
+      ]
     }
   }
 }

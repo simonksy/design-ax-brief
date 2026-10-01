@@ -3102,6 +3102,128 @@
           "x": "记忆功能附带条件:若想保留超过30天的对话,需每月支付10美元。Friend 2.0平静地揭示了可穿戴AI的发展方向。"
         }
       ]
+    },
+    "gadgets/gadgets-legato-hearing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "听力科技初创公司Legato宣布，其AI-based助听眼镜Legato Frames现已上市。该产品将其专利听力辅助技术嵌入镜腿中，起价999美元，面向中度及以下听力损失的成年人，旨在解决传统助听器在成本、舒适度和社会偏见方面的问题。"
+        },
+        {
+          "t": "p",
+          "x": "Legato的AI-powered系统不依赖定向麦克风，而是从背景噪音中区分人声，在放大人声的同时减少多余声音。双扬声器系统将声音导向佩戴者，并抵消外泄的声音，在距耳朵几英寸处可将其降低99%。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "所有处理都在眼镜上完成，没有摄像头，也不录音。含镜片重34克，续航10-12小时，提供三种款式，支持处方镜片和Bluetooth串流。"
+        },
+        {
+          "t": "p",
+          "x": "Legato由Bose老员工Mehul Trivedi和Steve Romine于2024年创立，近期获得1200万美元融资并结束隐身状态。眼镜通过线上渠道及部分U.S.眼科服务机构销售，可使用视力保险。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-guided-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Guided Vision今天起在兼容Android设备上的Gemini Live中推出，利用AI实时语音描述手机摄像头所对准的任何事物。在Gemini Live中共享摄像头后，Google的AI可以帮助你阅读小字、描述周围环境、寻找或识别身边物体，以及描述特定物体的细节。"
+        },
+        {
+          "t": "p",
+          "x": "与Apple为iPhone和Vision Pro加入的VoiceOver Live Recognition功能类似，它面向盲人、低视力人群，或在特定场景下需要帮助的用户。Guided Vision已在最近一批Pixel更新中公布，除Gemini应用外，也可在Google TalkBack中使用；在运行Android 9及以上版本的设备上，用户还可以在设置应用中为其设置无障碍快捷方式。"
+        },
+        {
+          "t": "p",
+          "x": "你还可以就所看的东西继续追问，例如让Gemini读出它帮你找到的物品上的保质期。Google表示，如果你询问的东西不在画面中，Gemini会给出音频提示，帮你对准摄像头。不过，Google提醒用户，不要依赖Guided Vision进行“导航、安全出行指引或障碍物检测”等用途，也不要用它代替手杖或助行器具。"
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-xella-biomarkers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
+          "cap": "Oura Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "Oura与Xella Health达成合作，后者是一家将实验室检测与远程医疗相结合的女性精准健康平台。订阅Xella的美国Oura戒指用户可共享睡眠、HRV、静息心率、体温趋势、恢复、活动和月经周期洞察。"
+        },
+        {
+          "t": "p",
+          "x": "随后，Xella会进行其所称的\"multi-omic\"诊断，利用定制AI将Oura的生理数据与激素、代谢、炎症、营养、生殖健康及心脏代谢风险一并分析，寻找可能预示健康变化的模式。之后，Xella的AI会与医生共同制定护理计划，其中可包括针对子宫内膜异位症等130多种影响女性的疾病的治疗。"
+        },
+        {
+          "t": "p",
+          "x": "Xella Health CEO兼联合创始人Kelly Lacob表示：\"可穿戴设备彻底改变了我们检测生理变化的能力。\""
+        },
+        {
+          "t": "p",
+          "x": "Xella是一项单独的会员服务，年费499美元，在除New York和New Jersey以外的所有U.S.州均可使用。Oura Ring 5起价399美元，另需每月5.99美元，且不属于医疗设备。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-noisy-rooms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Home迎来今年9月的第三次更新。Google表示，已改进Gemini for Home在嘈杂房间中接收指令时过滤背景对话的方式，使请求更容易被识别，并在常见的智能家居、媒体、闹钟和计时器指令上回应更快。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini for Home在多语言家庭中也应更加可靠，出错后不会再反复说“我没听懂”。让它帮你找手机的功能也可靠了许多。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Home应用中，将亮度滑到0%现在会发送真正的关机指令，在线的摄像头和门铃磁贴会显示为实心图标；Android和iOS上的Nest设置也更顺畅，应用可以安全缓存网络凭据，便于连续设置。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新还修复了Matter开关离线状态、Favorites磁贴、摄像头播放与缓冲、Walmart Onn摄像头历史记录以及Automations设备名称等问题。"
+        }
+      ]
+    },
+    "gadgets/gadgets-fire-tv-alexa-plus-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/intro-1790771374.jpg",
+          "cap": "Alexa+现在能处理更复杂的问题了"
+        },
+        {
+          "t": "p",
+          "x": "从11月起，美国Fire TV用户将在电视屏幕和手机应用上使用全新的Alexa+功能。系统会新增一个专属的AI助手中枢，并根据使用记录推荐提示语。Alexa+加入了推理能力，可以回答更复杂的问题。它会调用用户的订阅服务和观看记录，甚至结合现实中的时事话题。例如，它可以回答像「Alexa, find shows that were nominated for the recent Emmys but got snubbed」或「Alexa, show me MCU films based on their in-universe timeline order」这样的问题。"
+        },
+        {
+          "t": "p",
+          "x": "升级后的Fire TV手机应用也加入了Alexa+。只要提供一篇介绍剧集或电影的文章链接，它就会把文中提到的作品加入片单。上传一张照片，它也会推荐这张照片让人联想到的作品。如果某个地点、截图或海报让你想起某部作品，把它展示给Alexa+即可。它会根据从照片中识别出的内容给出建议。手机应用还支持直达各大流媒体服务的深度链接。点击应用内的流媒体图标即可在手机上直接播放，想换到大屏幕时，也可以从电视的「Continue Watching」一栏继续观看。"
+        },
+        {
+          "t": "p",
+          "x": "Fire TV现在把YouTube TV、Peacock、Tubi、Sling、DirecTV等40多个应用的直播内容汇集在一起展示。在游戏中枢里，用户可以在一处选择Xbox、Luna和NVIDIA GeForce NOW的云游戏。此次更新将在今年内面向美国用户推出，明年初推广到其他地区。亚马逊今年秋天还将为Fire TV推出一款新的音乐应用，音乐视频、播客，乃至演唱会和音乐节的直播，整个服务都可以在这个应用中找到。"
+        }
+      ]
     }
   }
 }

@@ -1,112 +1,838 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "section": "games",
   "window_hours": 336,
+  "now_iso": "2026-10-01T22:03:11Z",
   "items": [
     {
-      "url": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/",
-      "source": "AUTOMATON",
+      "url": "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-09-30T06:50:15Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg",
-      "headline": "Voice actor Kenjiro Tsuda’s lawsuit over AI voice cloning dismissed, but ruling sets important precedent for protecting seiyuu voices in Japan - AUTOMATON WEST",
-      "excerpt": "Kenjiro Tsuda's AI voice-cloning suit vs TikTok dismissed, but Tokyo District Court rules voices are protected under publicity rights."
+      "published_iso": "2026-10-01T19:38:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50467/images/6abeb649e7440/contain_1200x630.jpg",
+      "headline": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling",
+      "excerpt": "Sony's new Quick Spectral Super Resolution (QSSR) uses a streamlined neural network to bring PS5 Pro-style AI upscaling to the base PS5, starting with Marvel's Wolverine and Ghost of Yotei.",
+      "title": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling",
+      "cluster": "c1"
     },
     {
-      "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
-      "source": "AUTOMATON",
+      "url": "https://www.thegamer.com/ps5-adds-ai-upscaling-good-luck-seeing-a-difference/",
+      "source": "TheGamer",
       "category": "games",
-      "published_iso": "2026-09-30T05:38:17Z",
-      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp",
-      "headline": "Atelier Ryza AI chatbot game developer to place restrictions on user inputs “to protect the integrity of the character and series” - AUTOMATON WEST",
-      "excerpt": "Spiral AI will restrict user inputs in RyzaChat:AI's October model update after prompt-injection misuse of the Ryza character AI."
+      "published_iso": "2026-10-01T17:52:37Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/marvelswolverinenocowl.jpg?w=1600&h=900&fit=crop",
+      "headline": "PS5 AI Upscaling Rolls Out With Already Mixed Results",
+      "excerpt": "TheGamer's hands-on take finds Sony's new QSSR AI upscaler on the base PS5 delivers only minimal visible gains so far in its first two supported games.",
+      "title": "PS5 AI Upscaling Rolls Out With Already Mixed Results",
+      "cluster": "c1"
+    },
+    {
+      "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-01T16:48:27.491Z",
+      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "headline": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
+      "excerpt": "Sony's QSSR is a lighter neural upscaler that runs on the base PS5's weaker GPU, extending the PS5 Pro's PSSR pipeline to the whole install base.",
+      "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
+      "cluster": "c1"
+    },
+    {
+      "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
+      "source": "PocketGamer.biz",
+      "category": "games",
+      "published_iso": "2026-10-01T14:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141588/89956/header-4_l1200.jpg",
+      "headline": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios",
+      "excerpt": "Layer, an agentic creative platform for game studios, launched Playables, which builds end-to-end, network-ready HTML5 playable ads in hours rather than weeks.",
+      "title": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios",
+      "history_match": {
+        "score": 0.204,
+        "date": "2026-09-23",
+        "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play",
+        "title": "로블록스가 프롬프트와 참조 이미지로 플레이 가능한 레이아웃을 뽑는 Scene Generator를 예고했다",
+        "band": "related"
+      }
     },
     {
       "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
       "source": "Aftermath",
       "category": "games",
-      "published_iso": "2026-09-29T23:12:41Z",
+      "published_iso": "2026-09-29T23:12:41.000Z",
       "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
       "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
-      "excerpt": "Twitch CEO says AI transcribes streams and is now used to flag streamers who may not match advertisers' brands, pulling ads."
+      "excerpt": "Twitch is now using AI classification of stream content to decide which creators are eligible for ad revenue, drawing pushback from streamers.",
+      "title": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads"
     },
     {
-      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/",
+      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-09-30T15:58:32Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/upL4hKeyXzbpXXZJTed3SX-1916-80.jpg",
-      "headline": "Logitech",
-      "excerpt": "Logitech's beta Replay software uses deep learning to auto-pick and splice game highlight clips; PC Gamer tests it in Counter-Strike."
+      "published_iso": "2026-10-01T13:15:35Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nTfkeFn4nFPXAga8497qdH-1920-80.jpg",
+      "headline": "Can you tell which of these images has been injected with DLSS 5?",
+      "excerpt": "PC Gamer runs GTA 6 trailer frames through DLSS 5 neural rendering at varying intensities, challenging readers to tell the AI-reinterpreted images from the originals.",
+      "title": "Can you tell which of these images has been injected with DLSS 5?"
     },
     {
-      "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
+      "url": "https://wccftech.com/dlss-4-5-comes-to-radeon-rx-9000-gpus-in-experimental-mod-using-amds-native-fp8-capabilities/",
       "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-09-30T16:45:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg",
-      "headline": "Borderless Gaming's DLSS 5 Implementation Runs Without Touching NVIDIA's Software, Quantized to Work Well Even on Unsupported GPUs",
-      "excerpt": "Borderless Gaming adds a quantized DLSS 5 neural rendering effect that runs without NVIDIA software, plus its own trained frame generation."
+      "published_iso": "2026-10-01T11:20:38+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RX-9070-XT-DLSS-4.5.jpg",
+      "headline": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities",
+      "excerpt": "A new d4r release adds experimental NVIDIA DLSS 4 and 4.5 support to AMD RDNA 4 GPUs by running the neural upscaler on native FP8 hardware.",
+      "title": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities",
+      "history_match": {
+        "score": 0.326,
+        "date": "2026-09-05",
+        "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/",
+        "title": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
+        "band": "related"
+      }
     },
     {
-      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
-      "source": "Wccftech",
-      "category": "games",
-      "published_iso": "2026-09-29T20:30:00Z",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
-      "headline": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
-      "excerpt": "Wccftech injects DLSS 5 neural rendering into The Witcher 3 Remastered: faces improve, up to 30% performance cost; only NBA 2K27 is official."
-    },
-    {
-      "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
+      "url": "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895",
       "source": "Epic Developer Community",
       "category": "games",
-      "published_iso": "2026-09-28T18:30:00Z",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
-      "headline": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
-      "excerpt": "Open-source UE Box AI agent operates the Unreal Editor directly — places actors, edits Blueprints, wires materials, fixes C++ errors."
+      "published_iso": "2026-10-01T00:26:54+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/c/2/b/c2bc03a97a71aae9baf73e98f646ab64c3a1fb03_2_1024x512.png",
+      "headline": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
+      "excerpt": "A community kit turns Claude Code plus Unreal MCP into a visible multi-agent 'AI dev team' for UEFN map building, with a live dashboard and memory that learns from each shipped map.",
+      "title": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
+      "history_match": {
+        "score": 0.173,
+        "date": "2026-09-13",
+        "url": "https://unity.com/blog/unity-plugin-for-claude-code",
+        "title": "Official Unity Plugin for Claude Code",
+        "band": "related"
+      }
     },
     {
       "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
       "source": "Epic Developer Community",
       "category": "games",
-      "published_iso": "2026-09-29T20:39:41Z",
+      "published_iso": "2026-09-29T20:39:41+00:00",
       "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
-      "headline": "Sina — a 100% local AI digital human that walks the level and operates real Blueprint equipment (MetaHuman + NVIDIA ARDY) ",
-      "excerpt": "Sina plugin links a UE5 MetaHuman to a fully local AI brain (ASR, LLM, neural TTS) so it walks the level and operates Blueprint equipment."
+      "headline": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
+      "excerpt": "A UE5 plugin links any project to a local AI 'brain' so a MetaHuman can talk, move through the level and operate Blueprint-driven equipment with no cloud AI.",
+      "title": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
+      "history_match": {
+        "score": 0.226,
+        "date": "2026-10-01",
+        "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
+        "title": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
+        "band": "related"
+      }
     },
     {
-      "url": "https://www.pocketgamer.biz/mtg-wants-to-double-its-size-while-leveraging-ai/",
-      "source": "PocketGamer.biz",
+      "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+      "source": "Unity (YouTube)",
       "category": "games",
-      "published_iso": "2026-09-30T14:45:00Z",
-      "og_image": "https://media.pocketgamer.biz/images/141584/89954/maria-redin_l1200.jpg",
-      "headline": "MTG wants to double its size while leveraging AI",
-      "excerpt": "MTG CEO Maria Redin wants to double the group's size while scaling AI tooling across its studios."
+      "published_iso": "2026-10-01T09:01:29-07:00",
+      "og_image": "https://i.ytimg.com/vi/Fx1orSJc8d4/maxresdefault.jpg",
+      "headline": "Introducing the official Unity plugin for Grok Build",
+      "excerpt": "Unity introduces an official plugin for xAI's Grok Build coding agent, bringing Unity engineering guidance directly into the terminal for AI-assisted game development.",
+      "title": "Introducing the official Unity plugin for Grok Build",
+      "history_match": {
+        "score": 0.451,
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
+        "title": "Introducing the official Unity plugin for OpenAI Codex",
+        "band": "likely-repeat"
+      }
     },
     {
-      "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
-      "source": "PocketGamer.biz",
+      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+      "source": "Epic Developer Community",
       "category": "games",
-      "published_iso": "2026-09-25T11:38:00Z",
-      "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
-      "headline": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
-      "excerpt": "Qualcomm unveils two flagship Snapdragon chips pitched at mobile and AI gaming."
+      "published_iso": "2026-09-28T03:03:13+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
+      "headline": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
+      "excerpt": "A step-by-step guide to animated NPCs with AI-generated dialogue and conversation history, built with Codex, Unreal MCP, UnrealAI and the OpenAI API.",
+      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
+      "history_match": {
+        "score": 0.192,
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+        "title": "Getting Started with MCP in Unreal Engine 5.8",
+        "band": "related"
+      }
     },
     {
-      "url": "https://www.thisisgame.com/articles/430508?newsId=400289&categoryId=0",
-      "source": "디스이즈게임",
+      "url": "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-09-29T16:30:23Z",
-      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/09/29/1639263221496091255_9d102bdb-2caa-4e68-9a44-c3401feb66b7_image002.jpg",
-      "headline": "엔비디아, 11월 9일 코엑스서 'AI 데이 서울 2026' 개최",
-      "excerpt": "NVIDIA AI Day Seoul 2026 set for Nov 9–10 at COEX (event notice)."
+      "published_iso": "2026-10-01T19:34:14Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/iMksT7u6r7yCyLKwVKkiT4-1920-80.jpg",
+      "headline": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature",
+      "excerpt": "Marvel's Wolverine and Ghost of Yotei are the first games to use Sony's new QSSR neural upscaler on the base PS5.",
+      "title": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature",
+      "cluster": "c1"
     }
   ],
-  "note": "Primary collection via allowed-domain RSS + Google News RSS (when:14d) + YouTube channel feeds; 6 WebSearch queries (2 rejected by domain filter). Expansion keywords added: DLSS 5 / neural rendering, Twitch AI moderation, AI voice cloning law (seiyuu), Unreal Editor AI agent / MCP, MetaHuman local LLM, Krafton/Nexon/NCSoft/Netmarble AI, Roblox Cube, Genie 3, SAG-AFTRA, AI QA/anti-cheat. Pool thin: most fresh AI×games items were already published in the last 14 days (Motherbrain, CESA 85%, Level-5, Wolverine sign, Ocarina port, Unity Claude Code plugin, Microsoft ads patent, TGS opinion, etc.).",
   "dedup": {
     "dropped": 2,
-    "kept": 11,
+    "kept": 12,
     "against_days": 5
-  }
+  },
+  "story_dedup": {
+    "history_days": 30,
+    "dropped": [],
+    "review": 6,
+    "same_story_pairs": [
+      [
+        "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
+        "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+        0.523
+      ],
+      [
+        "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
+        "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
+        0.592
+      ],
+      [
+        "https://www.thegamer.com/ps5-adds-ai-upscaling-good-luck-seeing-a-difference/",
+        "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
+        0.316
+      ],
+      [
+        "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+        "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
+        0.477
+      ]
+    ]
+  },
+  "history_digest": [
+    {
+      "date": "2026-09-02",
+      "title": "How Dream Racers uses Roblox's Cube AI to generate playable vehicles in real time",
+      "url": "https://gamesbeat.com/how-dream-racers-uses-robloxs-cube-ai-to-generate-playable-vehicles-in-real-time-exclusive/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Nimble Fox launches AI tool for building Unity games worldwide",
+      "url": "https://gamesbeat.com/nimble-fox-launches-ai-tool-for-building-unity-games-worldwide/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Dwarf Fortress Creator Calls Out One Of AI's Biggest Issues: The Bosses Who Force Us To Use It",
+      "url": "https://kotaku.com/dwarf-fortress-tarn-adams-genai-ai-vibe-coding-claude-copilot-2000730266"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "30 years later, I finally got to play Quake on the PS1, but that's before I found a better version that doesn't rely on \"substantial AI assistance\"",
+      "url": "https://www.gamesradar.com/hardware/retro/30-years-later-i-finally-got-to-play-quake-on-the-ps1-but-thats-before-i-found-a-better-version-that-doesnt-rely-on-substantial-ai-assistance/"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Nvidia says DLSS 5 comes with a 50-60% performance hit, which makes me wonder what we're doing here",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Create Procedural UE5 Animations Based on Music with Vizibeat",
+      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "New Game Uses Local AI Model Trained Entirely on Studio's Own Artists",
+      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "How Agents 404's Devs Prototyped With AI and Gained 120K Wishlists in Two Months",
+      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Video Game Companies Keep Trying To Bait And Switch Us With AI, And It Sucks",
+      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "ByteBrew Brings Live Operations Into App Developers' AI Workflows",
+      "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "No Man's Sky Fan Adds DLSS 5 — Hello Games Programmer Worries It Could Ruin Its Look and Feel",
+      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Steam Week in Review: A Touch of AI Is All It Takes to Trigger Backlash",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
+      "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
+      "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
+      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Hands-on with DLSS 5 in NBA 2K27: what works and what doesn't about Nvidia's new AI upscaler",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "ArtStation Has New Owners Who Say They'll Put Artists First By Blocking AI Scrapers",
+      "url": "https://aftermath.site/artstation-owners-ownership-ai/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "DLSS 5 Now Works on RTX 20 & 30 GPUs, Older Graphics APIs and Even PCSX2",
+      "url": "https://wccftech.com/dlss-5-now-works-on-rtx-20-30-gpus-older-graphics-apis-and-even-pcsx2/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Kingdom Come: Deliverance director says DLSS 5 does right by KCD 2, people are 'crazy' for thinking it's AI slop",
+      "url": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Dwarf Fortress creator says we have a natural lean towards human-made stories, 'but we're all going to be very sorely tested in the coming years' by AI",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/dwarf-fortress-creator-says-we-have-a-natural-lean-towards-human-made-stories-but-but-were-all-going-to-be-very-sorely-tested-in-the-coming-years-by-ai/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Indie Devs Show Why Art Direction Still Matters In DLSS 5 Era",
+      "url": "https://80.lv/articles/indie-devs-show-why-art-direction-still-matters-in-dlss-5-era"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse",
+      "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-says-the-industry-is-crashing-and-ai-is-making-it-worse-2000731564"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles",
+      "url": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "'There is absolutely no generative AI in Space Marine 3' promises Saber Interactive executive",
+      "url": "https://www.pcgamer.com/games/action/there-is-absolutely-no-generative-ai-in-space-marine-3-promises-saber-interactive-executive/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "DoubleDown Interactive's Faith Price on D2C growth, ageing apps and the real cost of AI",
+      "url": "https://www.pocketgamer.biz/doubledown-interactives-faith-price-on-d2c-growth-ageing-apps-and-the-real-cost-of-ai/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "내 게임 아트만 학습한 모델로 1분짜리 세로 애니 열 편 아스트로번 팀이 자기 아트만 학습시킨 모델로 1분짜리 세로 에피소드 열 편을 뽑았다.",
+      "url": "https://gamesbeat.com/astroburn-expands-into-ai-powered-animated-vertical-micro-series/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "퍼블리셔 계약 조건에 생성형 AI 슬롭은 없다 어그로 크랩이 퍼블리싱 부문을 열면서 계약 조건에 생성형 AI 슬롭 금지를 못 박았다.",
+      "url": "https://kotaku.com/aggro-crab-peak-new-indie-publisher-outersloth-bigmode-2000730611"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "NVIDIA DLSS 5 Cripples Most PCs in Modded Games, but DLSS 5 Autopilot Restores Playable Performance",
+      "url": "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Go grandmaster becomes first human to win series against advanced AI engine in 3-hour match",
+      "url": "https://www.pcgamer.com/software/ai/go-grandmaster-becomes-first-human-to-win-series-against-advanced-ai-engine-in-3-hour-match/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Penguin Colony gave me a genAI fright in its release date trailer, but there's no actual cause for concern",
+      "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Report: EA's NHL 27 is using genAI for commentator voiceover, claims a sports broadcaster",
+      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Arm explains its mobile-first AI-reconstruction tech, a different tack from the \"black box\" approach of DLSS 5",
+      "url": "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "European game developers fear AI will pressure them to work faster more than they fear losing their jobs",
+      "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "New DLSS 5 mod offloads Neural Rendering to a second card massively cutting the AI filter's performance hit",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/new-dlss-5-mod-offloads-neural-rendering-to-a-second-card-massively-cutting-the-ai-filters-performance-hit/"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "It's still possible to make good Skyrim mods \"without any use of AI\" in 2026, says the maker of a DLC-sized Black Marsh expansion",
+      "url": "https://www.rockpapershotgun.com/its-still-very-much-possible-to-make-good-skyrim-mods-without-any-use-of-ai-in-2026-declares-the-maker-of-a-new-dlc-sized-black-marsh-expansion"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Blizzard Workers Secure Historic Contract Covering AI Use & Layoff Protections",
+      "url": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "How ABCD Trains Large Gaussian Splat Scenes With Constant VRAM",
+      "url": "https://80.lv/articles/how-abcd-trains-large-gaussian-splat-scenes-with-constant-vram/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Acclaimed Visual Novel Studio Announces AI-Generated Quake Clone",
+      "url": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "TikTok Parent Reportedly Building AI Model to Rival Google's Genie for Real-Time Spatial Video",
+      "url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Genshin Impact dev HoYoverse wins $112,000 in court after AI company stole 63 of its characters' voices",
+      "url": "https://www.gamesradar.com/games/open-world/genshin-impact-dev-hoyoverse-wins-usd112-000-in-court-after-ai-company-stole-63-of-its-characters-voices/"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "How EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
+      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity/"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Roblox Reality brings greater realism to Roblox graphics",
+      "url": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Official Unity Plugin for Claude Code",
+      "url": "https://unity.com/blog/unity-plugin-for-claude-code"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
+      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "'You Were a Beautiful Studio' — Level-5 Dev Calls AI Backlash a 'Learning Opportunity' as Fans Worry for Professor Layton's Future",
+      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Fable Devs Hand-Crafted 1,000 NPCs Instead of Using a Randomizer Tool",
+      "url": "https://80.lv/articles/fable-developers-hand-crafted-1-000-npcs-instead-of-using-a-randomizer-tool"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Zelda Art Director Receives Backlash For AI Prototype Test",
+      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP",
+      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "The Witcher 4 Will Be Made “Predominantly Using People” And Not AI",
+      "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Yu-Gi-Oh Tag Force GX Is The Latest Game Under Fire Over AI",
+      "url": "https://www.thegamer.com/yu-gi-oh-tag-force-use-of-generative-ai/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "PUBG DED.NET Was Built to Reach People PUBG Never Could, and Its \"Useful\" AI Placeholder Art Is Being Fully Replaced",
+      "url": "https://wccftech.com/pubg-ded-net-interview-ai-placeholder-art-replaced/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Qwen3.8-27B Was Allegedly Used To Develop A First-Person Zombie Shooter In About 5 Hours; It’s Far From a Visual Masterpiece, But Just Shows How Far AI Can Go",
+      "url": "https://wccftech.com/qwen-38-27b-local-llm-first-person-zombie-shooter-game-5-hours/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game",
+      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Legendary Zelda and Star Fox artist is \"genuinely amazed\" by AI even as he catches backlash from Nintendo fans | GamesRadar+",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/legendary-zelda-and-star-fox-artist-is-genuinely-amazed-by-ai-even-as-he-catches-backlash-from-nintendo-fans/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "I Had Never Built A VR App – 8 Days Later, Mine Was On The Quest Store",
+      "url": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "블리자드가 밝힌 디아블로 V의 절차적 오픈월드 구조 블리자드가 디아블로 III부터 쌓아 온 절차적 오픈월드 구조를 블리즈컨에서 직접 설명했다.",
+      "url": "https://80.lv/articles/diablo-v-developers-explain-how-its-procedural-open-world-works/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "블렌더 리토폴로지, 스캔과 AI 모델까지 정리한다 3D 스캔과 AI 생성 모델의 지저분한 지오메트리를 ReFace 2.0이 블렌더 안에서 정리한다.",
+      "url": "https://80.lv/articles/hard-surface-retopology-just-got-easier-in-blender/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "DLSS 5 뉴럴 렌더링으로 옛 게임을 실시간 리마스터 개인 프로젝트 UNCANNY가 DLSS 5 뉴럴 렌더링을 얹어 구작과 신작을 실시간으로 손본다.",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-uncanny-remastering-engine/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "PS5 Linux dev quits as AI 'slop kiddies' flood open-source modding",
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Dev vibe codes a VR tool that throws models straight at his 3D printer",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans",
+      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year’s 51%",
+      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Ramen launches Aura 1.0 to push agentic AI in game development | interview",
+      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Introducing the official Unity plugin for OpenAI Codex",
+      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Recreating the Late-'90s Console Shooter Enemy AI for an FPS",
+      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku",
+      "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Unity's Official Plugin for Codex: Skills, CLI, Editor Control",
+      "url": "https://unity.com/blog/unity-plugin-codex"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Getting Started with MCP in Unreal Engine 5.8",
+      "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "MetaHuman Animator Markerless Motion Capture Demo",
+      "url": "https://www.youtube.com/watch?v=r_-fEi7fXLA"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Interview: How Cyberpunk 2077's Night City Was Built Almost Entirely by Hand",
+      "url": "https://80.lv/articles/interview-how-cyberpunk-2077-s-night-city-was-built-almost-entirely-by-hand/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "FromSoftware's Dark Souls 3 Gets Next-Gen Leap With Path Tracing and NVIDIA DLSS 5, As New Video Showcases Remake-Level Visuals",
+      "url": "https://wccftech.com/fromsoftwares-dark-souls-3-next-gen-path-tracing-nvidia-dlss-5/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Intel Arc 140V Runs DLSS 5 Neural Rendering Without CUDA, But Frame Rates Collapse To Just 3-5 FPS",
+      "url": "https://wccftech.com/intel-arc-140v-runs-dlss-5-neural-rendering-without-cuda/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Indie Dev Says \"AI\" Voice In His Game Was Actually His Wife",
+      "url": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Marvel's Wolverine Has 'No AI-Generated Assets,' Insomniac Confirms After Suspicious Signs Go Viral Online",
+      "url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "마이크로소프트가 AI 학습 규칙 초안을 공개하고 의견을 받는다",
+      "url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "도쿄 게임쇼 2026 — 과거를 기념한 전시장 옆에 불확실한 AI가 서 있었다",
+      "url": "https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "바이럴 감자 깎기 게임, 생성형 도구로 복제당했다 — 인디 개발자 토마스 살라의 고발",
+      "url": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "슈타인즈 게이트를 만든 스튜디오의 다음 게임은 통째로 바이브 코딩한 FPS다",
+      "url": "https://www.pcgamer.com/games/fps/the-next-game-by-the-creators-of-steins-gate-is-an-entirely-vibe-coded-fps-slopfest/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "당신이 광고에 가장 덜 짜증 낼 순간 — 마이크로소프트가 플레이 데이터로 학습하는 광고 타이밍 특허를 냈다",
+      "url": "https://www.rockpapershotgun.com/microsoft-file-patent-for-a-machine-learning-system-that-would-train-itself-on-your-playtime-to-work-out-when-youll-be-least-annoyed-by-in-game-ads"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "로블록스가 프롬프트와 참조 이미지로 플레이 가능한 레이아웃을 뽑는 Scene Generator를 예고했다",
+      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "일본 게임업계에서 생성형 AI 영향이 가장 큰 직무는 배경·소품 아티스트와 보조 프로그래머",
+      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "코에이 테크모·거스트, 아틀리에 소피 세계관의 LLM 자유 시나리오 RPG SophieChat:AI 발표",
+      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "넥슨게임즈 신작 Pareidolia, 기기 안에서 도는 자체 음성인식 AI로 캐릭터를 목소리로 부른다",
+      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "이매지네이션, 모바일 GPU 안에서 540p를 1080p로 2.3ms에 올리는 AI 업스케일러 NSR 공개",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321275"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "파이널 판타지 14, 팬 굿즈 허용 범위는 넓히고 생성형 AI 사용은 명시적으로 금지",
+      "url": "https://automaton-media.com/en/news/final-fantasy-14-relaxes-guidelines-for-non-commercial-fan-made-merch-new-rules-prohibit-use-of-generative-ai-and-3d-printing/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "구글 Gemini 3.8 Flash TTS, 커스텀 캐릭터 음성과 다화자 장면 대사 연출을 API로 제공",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "NVIDIA, 아티스트 의도를 지키는 세밀한 제어를 붙인 DLSS 5 3D 가이드 뉴럴 렌더링과 ACE·RTX Kit 업데이트 공개",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Twitch, 방송이 끝날 때마다 잘한 점과 고칠 점을 알려 주는 AI 스트림 코치를 일부 사용자에게 시험 중",
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "마이크로소프트 특허, 플레이어 표정과 음성을 읽어 퀘스트·NPC·대사를 실시간으로 다시 생성하는 AI 게임 설계 구상",
+      "url": "https://www.rockpapershotgun.com/microsoft-want-to-record-your-face-and-feed-it-to-a-generative-ai-telling-it-to-go-off-and-design-a-game-from-your-frown"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Claude AI Helped Make an RTX-Accelerated Path Tracer From Start to Finish in Just an Hour",
+      "url": "https://wccftech.com/claude-ai-builds-rtx-path-tracer-autonomous-engineering/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "NVIDIA DLSS 5 Gets Open-Source Vulkan Reimplementation, Runs on RTX 40 GPUs and Even in Web Browsers",
+      "url": "https://wccftech.com/nvidia-dlss-5-gets-open-source-vulkan-reimplementation-runs-on-rtx-40-gpus-and-even-in-web-browsers/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Steam's Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
+      "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another",
+      "url": "https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Control Resonant Is The Latest Game To Mock GenAI",
+      "url": "https://www.thegamer.com/control-resonant-calls-out-generative-ai-collectible/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "The Biggest 3D Art & Technology Highlights From Gamescom 2026",
+      "url": "https://80.lv/articles/the-biggest-3d-art-technology-highlights-from-gamescom-2026"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Nippon Ichi, NIS America Head Says Company Is 'Researching' AI",
+      "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "NVIDIA DLSS 5 Neural Rendering Usually Disappoints In Stylized Games, Yet Delivers Solid Results in Super Smash Bros. Melee",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-disappoints-stylized-yet-solid-super-smash-bros-melee/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
+      "url": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "UK's Largest Tabletop Convention Bans AI",
+      "url": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "PixVerse Introduces R2, Advancing Its Real-Time World Model Toward Persistent, Playable Worlds",
+      "url": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
+      "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "New $500 AI-Powered Console Can Create Digital Tabletop Games From Scratch",
+      "url": "https://www.polygon.com/everboard-tablet-tabletop-board-gaming-evervibe-ai-creation-interview/"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Meshy Details Mora, a Research Architecture for AI-Generated Interactive Worlds, and Launches Meshy 7.1",
+      "url": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Disgaea creator Sohei Niikawa has \"absolutely no interest in having AI write stories instead of him\"",
+      "url": "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches",
+      "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "'AI could never make Tenebris Somnia,' the 2D retro survival horror with live-action cutscenes and practical effects",
+      "url": "https://www.pcgamer.com/games/horror/ai-could-never-make-tenebris-somnia-the-2d-retro-survival-horror-with-live-action-cutscenes-and-practical-effects/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
+      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Arc Raiders' New Machine-Learning Enemy Looks Absolutely Terrifying",
+      "url": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Twitch CEO Dan Clancy says platform doesn't need AI disclosure rules — for now",
+      "url": "https://gamesbeat.com/twitch-ceo-dan-clancy-says-platform-doesnt-need-ai-disclosure-rules-for-now/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "PlayStation 5 Pro's PSSR Strikes Another Victory, As Final Fantasy VII Revelation Director Promises 4K@60 FPS",
+      "url": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Radeon RX 9070 XT Finally Touches 75 FPS At 1080p In Cyberpunk 2077 With DLSS 5, Thanks To The Efforts Of DLSS-NR-on-AMD Developer",
+      "url": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Ubisoft's calling its next push into gen-AI game development Motherbrain, according to new trademarks from the Assassin's Creed maker",
+      "url": "https://www.eurogamer.net/ubisoft-gen-ai-game-motherbrain-assassins-creed"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
+      "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
+      "url": "https://eu.36kr.com/en/p/3995368325501056"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321491"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "원스토어, AI 게임 등록 전면 개방",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321517"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "SecretSauce Labs' Simon Davis on leaving games behind and solving AI's brand consistency problem",
+      "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Atelier Ryza AI chatbot game developer to place restrictions on user inputs “to protect the integrity of the character and series” - AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Voice actor Kenjiro Tsuda’s lawsuit over AI voice cloning dismissed, but ruling sets important precedent for protecting seiyuu voices in Japan - AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Open-sourced UE Box — an AI agent that operates the Unreal Editor (levels, Blueprints, materials, C++) ",
+      "url": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Borderless Gaming's DLSS 5 Implementation Runs Without Touching NVIDIA's Software, Quantized to Work Well Even on Unsupported GPUs",
+      "url": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Logitech",
+      "url": "https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/"
+    }
+  ]
 }
