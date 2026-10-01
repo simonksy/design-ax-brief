@@ -16,6 +16,19 @@ NOTE — two designs, one data file. The same generated `axbrief-data.js` (+ the
 You regenerate the data ONCE; both pages reflect it. There is no per-design build
 step — the large hero slideshow reads the same per-card images from the data.
 
+PER-LANGUAGE OUTPUTS (en, ko, ja, zh, es). One `build_data.py` run writes, next to `--out`:
+  · `axbrief-data.{en,ko,ja,zh,es}.js` — each language's page data (cards flattened to
+    that language; untranslated cards carry `"untranslated": true` + the fallback `lang`).
+    The ko shell path (`/`, and `/ko/`) loads the legacy `axbrief-data.js`, which is
+    written byte-identical to `axbrief-data.ko.js`; `/en/` `/ja/` `/zh/` `/es/` load
+    `axbrief-data.{L}.js`.
+  · `premium/{lang}/{section}.json` (+ legacy ko `premium/full.json`) — paywalled full text.
+  · with `--share-root .`: `s/{lang}/{section}/{id}.html` per language + legacy `s/{section}/{id}.html`.
+`build_archive.py` likewise writes `archive-data.{lang}.js` + legacy `archive-data.js` (= ko).
+Commit ALL of these together with the legacy files — a language page whose data file is
+not committed renders empty in production. Never commit `pipeline/jobs_*.json` /
+`pipeline/answers_*.json` (translator scratch, gitignored).
+
 Steps (run from the repo root /Users/leopard/Projects/design-ax-brief):
 1. Back up the current live file:
    `mkdir -p pipeline/runs/<date> && cp axbrief-data.js pipeline/runs/<date>/axbrief-data.prev.js`
@@ -23,7 +36,8 @@ Steps (run from the repo root /Users/leopard/Projects/design-ax-brief):
    `python3 pipeline/roll.py --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json`
    (this moves the previous `today` into `days`, trims to 5, sets the new `today`).
 3. Regenerate the page data: `python3 pipeline/build_data.py --in pipeline/news_data.json --out axbrief-data.js`
-4. Validate: `node --check axbrief-data.js`. If it fails, restore the backup
+4. Validate: `node --check axbrief-data.js` and `node --check` each
+   `axbrief-data.{en,ko,ja,zh,es}.js`. If any fails, restore the backup
    (`cp pipeline/runs/<date>/axbrief-data.prev.js axbrief-data.js`) and STOP with an error.
 5. Verify render over HTTP (NOT file://, which Babel/XHR blocks via CORS). Start a
    static server from the repo root in the background and keep it running for the
