@@ -115,6 +115,10 @@ def apply_to_card(card, jobs, answers):
         out, errs = judge(job, answers.get(job["job_id"]))
         if out:
             card["text"][job["lang"]] = out
+            # Snapshot of the accepted translation: a later re-check (after the ko
+            # humanize pass) restores it instead of dropping the language to fallback.
+            # Pipeline-internal only; i18n_text.flatten strips it from public output.
+            card.setdefault("_i18n_passed", {})[job["lang"]] = json.loads(json.dumps(out))
             status.pop(job["lang"], None)
         elif job["attempt"] < MAX_ATTEMPTS:
             retry.append(make_job(job["key"], job["src"], job["src_lang"], job["lang"],
@@ -301,12 +305,22 @@ def recheck_card(card):
     status = dict(card.get("i18n_status") or {})
     for lang in [l for l in LANGS if l != src_lang and l in (card.get("text") or {})]:
         errs = check(src, card["text"][lang], lang)
-        if errs:
+        if not errs:
+            continue
+        snap = (card.get("_i18n_passed") or {}).get(lang)
+        if snap:
+            card["text"][lang] = json.loads(json.dumps(snap))
+            status.pop(lang, None)
+            print(f"  WARNING [{card.get('id')}] {lang} failed re-check ({'; '.join(errs)}); "
+                  f"restored the previously accepted translation", file=sys.stderr)
+        else:
             del card["text"][lang]
             status[lang] = "fallback"
             print(f"  [{card.get('id')}] {lang} failed re-check: {'; '.join(errs)}", file=sys.stderr)
     if status:
         card["i18n_status"] = status
+    else:
+        card.pop("i18n_status", None)
     if (card.get("text") or {}).get("ko"):
         card.update({k: v for k, v in card["text"]["ko"].items() if k in TEXT_FIELDS})
     return card

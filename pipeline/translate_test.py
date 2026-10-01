@@ -86,6 +86,20 @@ c4 = dict(card, text={"en": SRC, "ko": KO})
 json.dump({"date": "2026-10-02", "cards": [c4]}, open(f3, "w"), ensure_ascii=False)
 tr.main(["check", f3])
 assert json.load(open(f3))["cards"][0]["body"] == KO["body"]
+# check: a failing re-check restores the snapshot of the accepted translation (no fallback)
+assert c["_i18n_passed"]["ko"] == KO                       # apply_to_card keeps the snapshot
+c5 = dict(card, text={"en": SRC, "ko": dict(KO, body="짧다.")}, _i18n_passed={"ko": KO})
+json.dump({"date": "2026-10-02", "cards": [c5]}, open(f3, "w"), ensure_ascii=False)
+r = run("check", f3)
+assert r.returncode == 0 and "WARNING" in r.stderr and "restored" in r.stderr, r.stderr
+c5o = json.load(open(f3))["cards"][0]
+assert c5o["text"]["ko"] == KO and c5o["body"] == KO["body"] and c5o["headline"] == KO["headline"]
+assert "i18n_status" not in c5o
+# snapshot only for ko: a broken ja with no snapshot still drops to fallback
+c6 = dict(card, text={"en": SRC, "ko": dict(KO, body="짧다."), "ja": {"headline": "x", "body": "y"}},
+          _i18n_passed={"ko": KO})
+c6o = tr.recheck_card(c6)
+assert c6o["text"]["ko"] == KO and "ja" not in c6o["text"] and c6o["i18n_status"] == {"ja": "fallback"}
 
 print("translate OK")
 
