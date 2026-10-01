@@ -18,7 +18,7 @@
     return new Intl.DateTimeFormat(window.AX_LANG_TAG, { month: "short", day: "numeric" }).format(d);
   };
   window.axSetLang = function (lang) {
-    document.cookie = "ax_lang=" + lang + "; Path=/; Max-Age=31536000; SameSite=Lax";
+    document.cookie = "ax_lang=" + lang + "; Path=/; Max-Age=31536000; SameSite=Lax; Secure";
     var sub = (location.pathname.match(/\/(large|archive)(\.html)?$/) || [])[1];
     location.href = "/" + lang + "/" + (sub || "") + location.search;
   };

@@ -15,9 +15,14 @@ async function currentEmail(request, env) {
   return sess ? sess.email : null;
 }
 
-async function serveHtml(env, file, lang, i18nOn, previewOn) {
-  const res = await env.ASSETS.fetch(new Request(new URL(file, env.BASE_URL)));
-  const sub = { "/index.html": "", "/large.html": "large", "/archive.html": "archive" }[file] ?? "";
+// Canonical asset paths (fetching "/index.html" etc. gets a 307 to these under html_handling).
+const PAGE_ASSET = { "/": "/", "/large": "/large", "/archive": "/archive" };
+
+async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute) {
+  const res = await env.ASSETS.fetch(new Request(new URL(PAGE_ASSET[page] ?? "/", env.BASE_URL)));
+  if (res.status !== 200) return res; // pass redirects/errors through untouched
+  const isPublic = env.I18N_PUBLIC === "1";
+  const sub = page.replace(/^\//, "");
   const base = String(env.BASE_URL).replace(/\/$/, "");
   const alts = LANGS.map((l) => `<link rel="alternate" hreflang="${l}" href="${base}/${l}/${sub}">`).join("")
     + `<link rel="alternate" hreflang="x-default" href="${base}/en/${sub}">`;
@@ -26,11 +31,13 @@ async function serveHtml(env, file, lang, i18nOn, previewOn) {
     .on("head", { element(e) {
       e.prepend(`<base href="/"><script>window.AX_LANG=${JSON.stringify(lang)};window.AX_I18N_ON=${i18nOn};</script>`,
                 { html: true });
-      e.append(alts, { html: true });
+      if (isPublic) e.append(alts, { html: true });
     } })
     .transform(res);
   const headers = new Headers(out.headers);
   headers.set("content-language", lang);
+  // Language routes stay out of search indexes until the multilingual site is public.
+  if (langRoute && !isPublic) headers.set("x-robots-tag", "noindex");
   if (previewOn) headers.append("set-cookie", "ax_i18n=1; Path=/; Max-Age=31536000; SameSite=Lax; Secure");
   return new Response(out.body, { status: res.status, headers });
 }
@@ -43,16 +50,18 @@ export default {
     const cookies = parseCookies(request.headers.get("cookie"));
     const previewOn = url.searchParams.get("i18n") === "1";
     const i18nOn = env.I18N_PUBLIC === "1" || previewOn || cookies.ax_i18n === "1";
-    const PAGES = { "/": "/index.html", "/large": "/large.html", "/archive": "/archive.html" };
-
     if (p === "/" || p === "/index.html") {
       if (env.I18N_PUBLIC === "1")
         return new Response(null, { status: 302, headers: {
-          location: `/${pickLang(cookies.ax_lang, request.headers.get("accept-language"))}/` } });
-      return serveHtml(env, "/index.html", "ko", i18nOn, previewOn);
+          location: `/${pickLang(cookies.ax_lang, request.headers.get("accept-language"))}/${url.search}`,
+          "cache-control": "no-store",
+          vary: "Cookie, Accept-Language" } });
+      return serveHtml(env, "/", "ko", i18nOn, previewOn, false);
     }
+    if (LANGS.includes(p.slice(1)))
+      return new Response(null, { status: 301, headers: { location: `${p}/${url.search}` } });
     const lp = splitLangPath(p);
-    if (lp && PAGES[lp.rest]) return serveHtml(env, PAGES[lp.rest], lp.lang, i18nOn, previewOn);
+    if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true);
 
     if (p.startsWith("/premium/")) return new Response("Forbidden", { status: 403 });
 

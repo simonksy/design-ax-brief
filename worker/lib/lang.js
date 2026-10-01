@@ -9,7 +9,7 @@ export function pickLang(cookieLang, acceptLanguage) {
       const q = params.map((p) => p.trim()).find((p) => p.startsWith("q="));
       return { base: tag.trim().toLowerCase().split("-")[0], q: q ? parseFloat(q.slice(2)) || 0 : 1 };
     })
-    .filter((x) => x.base)
+    .filter((x) => x.base && x.q > 0) // q=0 means "not acceptable"
     .sort((a, b) => b.q - a.q);
   const hit = prefs.find((x) => LANGS.includes(x.base));
   return hit ? hit.base : "en";

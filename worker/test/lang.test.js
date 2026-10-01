@@ -20,6 +20,10 @@ describe("pickLang", () => {
     expect(pickLang(undefined, "pt-BR,ko;q=0.5")).toBe("ko");
     expect(pickLang("xx", null)).toBe("en");
   });
+  it("q=0 means not acceptable", () => {
+    expect(pickLang(undefined, "ja;q=0, es;q=0.5")).toBe("es");
+    expect(pickLang(undefined, "ko;q=0")).toBe("en");
+  });
   it("splitLangPath", () => {
     expect(splitLangPath("/en/")).toEqual({ lang: "en", rest: "/" });
     expect(splitLangPath("/ja/large")).toEqual({ lang: "ja", rest: "/large" });
@@ -43,6 +47,20 @@ describe("html routing", () => {
     expect(r.headers.get("location")).toBe("/ja/");
     r = await call("/", { headers: { cookie: "ax_lang=es", "accept-language": "ja" } }, { I18N_PUBLIC: "1" });
     expect(r.headers.get("location")).toBe("/es/");
+    expect(r.headers.get("cache-control")).toBe("no-store");
+    expect(r.headers.get("vary")).toBe("Cookie, Accept-Language");
+  });
+  it("public / redirect keeps the query (legacy ?c= deep links)", async () => {
+    const r = await call("/?c=design:some-id", { headers: { "accept-language": "ja" } }, { I18N_PUBLIC: "1" });
+    expect(r.status).toBe(302);
+    expect(r.headers.get("location")).toBe("/ja/?c=design:some-id");
+  });
+  it("bare /{lang} 301s to /{lang}/ with the query", async () => {
+    for (const l of ["en", "ko", "ja", "zh", "es"]) {
+      const r = await call(`/${l}?c=x:y`);
+      expect(r.status).toBe(301);
+      expect(r.headers.get("location")).toBe(`/${l}/?c=x:y`);
+    }
   });
   it("/{lang}/ pages get base href + lang", async () => {
     for (const [path, marker] of [["/en/", "axbrief-app.jsx"], ["/zh/large", "axbrief-app-large.jsx"], ["/es/archive", "archive-data"]]) {
@@ -53,10 +71,28 @@ describe("html routing", () => {
       expect(html).toContain(`window.AX_LANG="${path.split("/")[1]}"`);
       expect(html).toContain(marker);
     }
-    const html = await (await call("/ja/large")).text();
+    const html = await (await call("/ja/large", {}, { I18N_PUBLIC: "1" })).text();
     for (const l of ["en", "ko", "ja", "zh", "es"])
       expect(html).toContain(`<link rel="alternate" hreflang="${l}" href="http://localhost/${l}/large">`);
     expect(html).toContain(`<link rel="alternate" hreflang="x-default" href="http://localhost/en/large">`);
+  });
+  it("hreflang alternates + noindex follow I18N_PUBLIC", async () => {
+    const off = await call("/ja/large");
+    expect(off.status).toBe(200);
+    expect(off.headers.get("x-robots-tag")).toBe("noindex");
+    expect(await off.text()).not.toContain('hreflang=');
+    const root = await call("/");
+    expect(root.headers.get("x-robots-tag")).toBe(null);
+    expect(await root.text()).not.toContain('hreflang=');
+    const on = await call("/ja/large", {}, { I18N_PUBLIC: "1" });
+    expect(on.headers.get("x-robots-tag")).toBe(null);
+    expect(await on.text()).toContain('hreflang="ja"');
+  });
+  it("serves canonical page assets with 200 for every page", async () => {
+    for (const path of ["/", "/en/", "/en/large", "/en/archive", "/index.html"]) {
+      const r = await call(path);
+      expect(r.status, path).toBe(200);
+    }
   });
   it("?i18n=1 sets the preview cookie and turns the menu on", async () => {
     const r = await call("/en/?i18n=1");
