@@ -28,6 +28,20 @@ def build_story_ledger(ledger, base, out_path):
     # Curator picks first, then the librarian's candidate files — selected_*.json
     # sometimes omits `title`, the candidates always carry it. First non-empty wins.
     src = {}
+    # Seed from the EXISTING story_ledger.json first: runs/ is gitignored/ephemeral, so
+    # an environment that lacks it (a fresh worktree, a stale CI checkout) must never
+    # blank out titles/excerpts this file already has. Everything below only fills
+    # slots that are still empty.
+    try:
+        for urls in json.load(open(out_path, encoding="utf-8")).values():
+            for h in urls:
+                u = (h.get("url") or "").strip()
+                if u and (h.get("title") or h.get("excerpt")):
+                    e = src.setdefault(u, {"title": "", "excerpt": ""})
+                    e["title"] = e["title"] or h.get("title") or ""
+                    e["excerpt"] = e["excerpt"] or h.get("excerpt") or ""
+    except (OSError, ValueError):
+        pass
     pats = []
     for kind in ("selected", "candidates"):
         pats += [os.path.join(base, "runs", "*", "*", kind + "_*.json"),
