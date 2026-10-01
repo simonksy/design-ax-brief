@@ -395,8 +395,29 @@ def cmd_apply(jobs_path, answers_path, retry_out=None):
     if jf["kind"] == "ui":
         subprocess.run([sys.executable, os.path.join(HERE, "build_i18n.py"), "--root", jf["target"]])
     elif jf["kind"] == "archive":
-        subprocess.run([sys.executable, os.path.join(HERE, "build_archive.py")])
+        _run_build_archive(jf["target"])
     return 0
+
+
+def _run_build_archive(target):
+    """Run build_archive.py scoped entirely under `target` — every path is passed
+    explicitly so a backfill against a tmp root (tests, or a chunked archive
+    backfill run) never falls back to build_archive.py's own defaults, which point
+    at the real repo's pipeline/archive.json, premium/full.json, archive-data*.js and
+    archive-graph.js. build_archive.py has no fallback for a missing --news file (it
+    does a bare `open()`), and a tmp root used only for the `archive` target has no
+    pipeline/news_data.json of its own — so write an empty `{"sections": {}}` stub
+    there first when one isn't already present, rather than teaching build_archive.py
+    (shared with the real daily run) a new missing-file code path."""
+    news_path = os.path.join(target, "pipeline", "news_data.json")
+    if not os.path.exists(news_path):
+        _save(news_path, {"sections": {}})
+    subprocess.run([sys.executable, os.path.join(HERE, "build_archive.py"),
+                    "--news", news_path,
+                    "--archive", os.path.join(target, "pipeline", "archive.json"),
+                    "--premium", os.path.join(target, "premium", "full.json"),
+                    "--out", os.path.join(target, "archive-data.js"),
+                    "--graph-out", os.path.join(target, "archive-graph.js")])
 
 
 def main(argv):

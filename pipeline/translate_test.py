@@ -1,5 +1,5 @@
 # pipeline/translate_test.py
-import json, os, subprocess, tempfile
+import hashlib, json, os, subprocess, tempfile
 import translate as tr
 
 SRC = {"headline": "FTC opens probe\ninto OpenAI safety",
@@ -163,3 +163,45 @@ assert rec["text"]["ja"] == {"headline": KO["headline"], "body": KO["body"]} and
 assert json.load(open(f"{d5}/premium/ja/design.json"))["cards"]["design/o"]["blocks"] == KO["full"]["blocks"]
 
 print("translate fix-1 OK")
+
+# Fix round 1: apply(kind="archive") must run build_archive.py scoped entirely under
+# jf["target"] (--news/--archive/--premium/--out/--graph-out all explicit) and never
+# fall back to the real repo's pipeline/archive.json, premium/full.json,
+# archive-data*.js or archive-graph.js — even though the CLI apply path only accepts
+# the usual --jobs/--answers (this exercises that real subprocess call end to end).
+
+def _sha(path):
+    with open(path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
+
+REPO_ROOT = os.path.dirname(tr.HERE)
+REAL_PATHS = [os.path.join(REPO_ROOT, "archive-data.js"),
+              os.path.join(tr.HERE, "archive.json"),
+              os.path.join(REPO_ROOT, "archive-graph.js")]
+before = {p: _sha(p) for p in REAL_PATHS}
+
+d6 = tempfile.mkdtemp(); os.makedirs(f"{d6}/pipeline"); os.makedirs(f"{d6}/premium")
+ko_head, ko_body = "디자인 소식\n오늘 업데이트", "오늘 디자인 관련 소식을 간단히 정리해서 전달해 드립니다."
+other = {"headline": "placeholder\nplaceholder", "body": "placeholder text here, not checked"}
+json.dump({"cards": [{"id": "x", "section": "design", "date": "2026-01-01", "url": "https://x",
+                      "headline": ko_head, "body": ko_body,
+                      "text": {"en": other, "ja": other, "zh": other}}]},   # only "es" missing
+          open(f"{d6}/pipeline/archive.json", "w"), ensure_ascii=False)
+json.dump({"cards": {}}, open(f"{d6}/premium/full.json", "w"), ensure_ascii=False)
+j6 = os.path.join(d6, "jobs.json")
+r = run("jobs", "--archive", "--root", d6, "--out", j6)
+assert r.returncode == 0, r.stderr
+jobs6 = json.load(open(j6))["jobs"]
+assert [x["lang"] for x in jobs6] == ["es"]        # pre-filled languages are not re-queued
+es_head = "Noticias de diseno\nActualizacion de hoy"
+es_body = "Hoy resumimos brevemente las noticias relacionadas con el diseno y las compartimos con ustedes."
+a6 = os.path.join(d6, "answers.json")
+json.dump({jobs6[0]["job_id"]: {"headline": es_head, "body": es_body}}, open(a6, "w"), ensure_ascii=False)
+r = run("apply", "--jobs", j6, "--answers", a6)
+assert r.returncode == 0, r.stdout + r.stderr          # every job resolved -> build_archive.py ran
+assert os.path.exists(os.path.join(d6, "archive-data.js")) or os.path.exists(os.path.join(d6, "archive-data.ko.js"))
+
+after = {p: _sha(p) for p in REAL_PATHS}
+assert before == after, "apply(kind='archive') modified the real repo's archive/premium files"
+
+print("translate fix-round-1 OK")
