@@ -11,13 +11,63 @@ Usage:
 
 Idempotent, append-only: an existing (section, url) keeps its ORIGINAL date, so
 earliest-wins survives re-runs.
+
+Also (re)builds story_ledger.json — the same published cards with the English source
+title + excerpt (from the curator's selected_*.json files, current and archived under
+runs/) and the Korean headline/body (from archive.json). story_dedup.py scores new
+candidates against it to catch the same story under a different URL.
 """
+import glob
 import json
+import os
 import sys
 
 
+def build_story_ledger(ledger, base, out_path):
+    """{section: [{url, date, title, excerpt, ko}]} for every URL in the ledger."""
+    # Curator picks first, then the librarian's candidate files — selected_*.json
+    # sometimes omits `title`, the candidates always carry it. First non-empty wins.
+    src = {}
+    pats = []
+    for kind in ("selected", "candidates"):
+        pats += [os.path.join(base, "runs", "*", "*", kind + "_*.json"),
+                 os.path.join(base, "runs", "*", kind + "*.json"),
+                 os.path.join(base, kind + "_*.json")]
+    for f in [f for p in pats for f in sorted(glob.glob(p))]:
+        try:
+            doc = json.load(open(f, encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        picks = doc if isinstance(doc, list) else (
+            doc.get("picks") or doc.get("items") or doc.get("candidates") or [])
+        for p in picks:
+            u = (p.get("url") or "").strip() if isinstance(p, dict) else ""
+            if not u:
+                continue
+            e = src.setdefault(u, {"title": "", "excerpt": ""})
+            e["title"] = e["title"] or p.get("title") or p.get("headline") or ""
+            e["excerpt"] = e["excerpt"] or (p.get("excerpt") or "")[:600]
+    ko = {}
+    try:
+        for c in json.load(open(os.path.join(base, "archive.json"), encoding="utf-8"))["cards"]:
+            ko[(c.get("url") or "").strip()] = " ".join(
+                [c.get("headline", "").replace("\n", " "), c.get("body", "")])
+    except (OSError, ValueError, KeyError):
+        pass
+    story = {}
+    for section, urls in ledger.items():
+        story[section] = [dict({"url": u, "date": d, "ko": ko.get(u, "")},
+                               **src.get(u, {"title": "", "excerpt": ""}))
+                          for u, d in sorted(urls.items(), key=lambda kv: (kv[1], kv[0]))]
+    json.dump(story, open(out_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    with_title = sum(1 for s in story.values() for h in s if h["title"])
+    total = sum(len(s) for s in story.values())
+    print(f"story ledger: {total} cards ({with_title} with source title) -> {out_path}")
+
+
 def main(argv):
-    args = {"--news": "news_data.json", "--ledger": "published_urls.json"}
+    args = {"--news": "news_data.json", "--ledger": "published_urls.json",
+            "--story": None}
     it = iter(argv)
     for a in it:
         if a in args:
@@ -45,6 +95,8 @@ def main(argv):
               ensure_ascii=False, indent=1)
     print(f"ledger: +{added} new URLs  "
           f"({ {s: len(u) for s, u in ledger.items()} })")
+    base = os.path.dirname(os.path.abspath(args["--ledger"]))
+    build_story_ledger(ledger, base, args["--story"] or os.path.join(base, "story_ledger.json"))
     return 0
 
 

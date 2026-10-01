@@ -77,9 +77,13 @@ science, politics):
 2. **ax-librarian** — "Section: S. now_iso = <now_iso>. Run your steps." Searches ONLY
    the `allowed_domains` of S's categories (from sources.json). WIDE funnel (~16–28),
    ≤3 per outlet, freshness-gated (S's per-section window). → `pipeline/candidates.json`
-3. **DEDUP PRE-FILTER** — `python3 pipeline/dedup_candidates.py --section S` → drops URLs
-   already published in S's last 5 days → `pipeline/candidates_filtered.json`. Then set
-   aside content-level dupes within S.
+3. **DEDUP PRE-FILTER** (run from `pipeline/`) —
+   a. URL: `python3 dedup_candidates.py --section S --candidates candidates_S.json --out candidates_filtered_S.json`
+      → drops URLs ever published in S (permanent ledger `published_urls.json` + news_data).
+   b. STORY: `python3 story_dedup.py annotate --section S` (edits `candidates_filtered_S.json`
+      in place) → drops near-verbatim repeats of S's last 30 days (`story_ledger.json`),
+      tags look-alikes (`history_match`) and same-day same-story groups (`cluster`), and
+      attaches `history_digest` (30 days) for the curator's content check.
 4. **DECISION GATE** — present S's de-duplicated candidates to the user (numbered: source,
    category, date, headline, URL), state how many were dropped, and ask in Korean 존댓말
    which to publish (3–5). If the user defers ("알아서"), ax-curator picks. (You may batch
@@ -101,7 +105,16 @@ science, politics):
    `body` and every `full` paragraph — with the **humanize-korean** skill (see "Korean
    voice" below). Content fidelity is absolute (facts/numbers/quotes/names unchanged).
 7. **ax-media** — "Run your steps." → `pipeline/media.json` + downloaded media
-8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards.json --media pipeline/media.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
+8. **roll S** — `python3 pipeline/roll.py --section S --data pipeline/news_data.json --cards pipeline/cards_S.json --media pipeline/media_S.json` (moves S's previous `today` into S's deck, trims to 5, sets S's new `today`). Archive the section's JSONs to `pipeline/runs/<date>/<section>/`.
+   **Story gate:** roll.py first runs `story_dedup.py verify` on `selected_S.json` (next to
+   the cards file) and refuses to roll if any card is not a curated pick, a pick lacks its
+   `dedup.checks` verdict, a pick repeats S's 30-day history, or two picks are one story.
+   **Swapping a pick after curation** (cross-section clash, failed media, fact problem)
+   goes back through ax-curator so the replacement gets its own dedup verdict — never
+   edit selected/cards by hand to slip it in. `--no-story-check` is for manual repair only.
+   Then **`python3 pipeline/update_ledger.py --news pipeline/news_data.json --ledger pipeline/published_urls.json`**
+   — records S's URLs permanently and rebuilds `story_ledger.json` (the history the
+   next day's story dedup checks against). Skipping it lets repeats through after day 5.
    **Every card keeps its full payload forever** — `roll.py` preserves `eyebrow`/`body`/`full` on deck cards, so opening ANY past card shows the same main-card layout as today (thumbnail · headline · one-line summary · Read → flip to the Korean full article). A card without `full` (no Read button) is a defect: backfill it.
 
 After ALL sections are rolled:
