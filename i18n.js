@@ -49,7 +49,8 @@
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">' +
       '<circle cx="12" cy="12" r="9.2"/><path d="M2.8 12h18.4M12 2.8c2.6 2.6 3.9 5.6 3.9 9.2s-1.3 6.6-3.9 9.2' +
       'M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg><span aria-hidden="true"></span>';
-    box.querySelector("span").textContent = LANG.toUpperCase();
+    var ABBR = { en: "ENG", ko: "KOR", ja: "JPN", zh: "CHN", es: "ESP" };
+    box.querySelector("span").textContent = ABBR[LANG] || LANG.toUpperCase();
     var sel = document.createElement("select");
     sel.setAttribute("aria-label", window.t("lang.menu"));
     sel.title = window.t("lang.menu");
