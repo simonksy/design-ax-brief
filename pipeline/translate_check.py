@@ -99,14 +99,18 @@ def _scan(text):
     text = text or ""
     matches = []
     for m in NUM.finditer(text):
-        start = m.start()
-        # Glued to a preceding Latin letter — directly ("Y2K") or through a hyphen
-        # right after one ("GPT-4o", where the "4" follows "-" which follows "T") —
-        # means this is not a number at all.
+        start, digit_end = m.start(), m.end(1)
+        # Glued to a preceding Latin letter — directly ("Y2K") — means this is not a
+        # number at all. A letter-HYPHEN-digit is only glued when the digit run is
+        # ALSO immediately followed by a letter, i.e. the full letter-hyphen-digit-
+        # letter shape of "GPT-4o" (the "4" sits between "-" and "o"). A bare
+        # letter-hyphen-digit with nothing stuck on the other side — "F-35 fighter",
+        # "Fortune-500 list" — is a real designator, not a glued-together token: the
+        # hyphen there is separating, not fusing, so the number must survive.
         prev = text[start - 1] if start >= 1 else ""
         glued = _latin(prev)
-        if not glued and prev == "-" and start >= 2:
-            glued = _latin(text[start - 2])
+        if not glued and prev == "-" and start >= 2 and _latin(text[start - 2]):
+            glued = _latin(text[digit_end: digit_end + 1])
         if glued:
             continue
         v = _value(m.group(1))
@@ -114,10 +118,13 @@ def _scan(text):
             continue
         unit = m.group(2) or ""
         mult, is_cjk = _unit_mult(unit)
-        # A multiplier unit/abbreviation only multiplies when nothing is glued right
-        # after it ("5M users" is 5,000,000; "100MB" is a bare 100, since "M" is
+        # A Latin multiplier unit/abbreviation only multiplies when nothing is glued
+        # right after it ("5M users" is 5,000,000; "100MB" is a bare 100, since "M" is
         # immediately followed by "B", not a boundary — it's a suffix, not a unit).
-        if unit and mult != 1 and _latin(text[m.end(): m.end() + 1]):
+        # CJK magnitude units are never affected by this — "100万users" still means
+        # 1,000,000, since "万" isn't a Latin abbreviation that a following Latin
+        # letter could turn into a mere suffix.
+        if unit and mult != 1 and not is_cjk and _latin(text[m.end(): m.end() + 1]):
             mult, is_cjk = 1, False
         matches.append((m.start(), m.end(), v, unit, mult, is_cjk))
 

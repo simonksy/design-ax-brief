@@ -119,4 +119,23 @@ assert numbers("5M users") == {5000000.0}
 # still just the bare, ignorable day/month-range integer "2".
 assert numbers("2km") == set()
 
+# Fix round 3: letter-HYPHEN-digit is only glued when the digit run is ALSO
+# immediately followed by a letter (the letter-hyphen-digit-letter shape of
+# "GPT-4o"). A bare letter-hyphen-digit designator like "F-35" or "Fortune-500" is
+# not glued — the hyphen separates, it doesn't fuse — so the number must survive,
+# and a real F-35->F-22 or Fortune-500->Fortune-200 mistranslation must get caught.
+assert numbers("F-35 fighter") == {35.0}
+assert numbers("Fortune-500 list") == {500.0}
+assert numbers("GPT-4o") == set()
+src_f500 = {"headline": "Startup makes\nFortune-500 list",
+            "body": "The company climbed onto the Fortune-500 list this year for the first time, executives said.",
+            "full": {"blocks": []}}
+tgt_f200 = dict(src_f500, body="The company climbed onto the Fortune-200 list this year for the first time, executives said.")
+assert any("number" in e for e in check(src_f500, tgt_f200, "en"))
+
+# Fix round 3: nullifying a multiplier when a Latin letter follows it applies only to
+# Latin units (k/m/b/million/…) — a CJK unit like "万" is never a Latin abbreviation
+# that a following Latin letter could demote to a mere suffix.
+assert numbers("100万users") == {1000000.0}
+
 print("translate_check OK")
