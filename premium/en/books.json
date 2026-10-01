@@ -2922,6 +2922,744 @@
           "x": "It is a case of a different weight, showing how questions of AI provenance and disclosure can actually upend deals and the editing process."
         }
       ]
+    },
+    "books/daggermouth-60-percent-ai-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI is already everywhere around us. Readers, though, aren't nearly as good at spotting it as they think they are."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Stony Brook University used the AI-detection tool Pangram to examine 14,000 randomly selected Kindle e-books. One in five of them contained more than 25% AI-generated text."
+        },
+        {
+          "t": "p",
+          "x": "Especially notable was Daggermouth, a dark dystopian romance by H.M. Wolfe beloved on BookTok. By Pangram's determination, 60% of the novel was written by AI."
+        },
+        {
+          "t": "p",
+          "x": "AI detection itself is as contentious as AI, so the researchers also double-checked suspect books using a “rare phrase” standard."
+        },
+        {
+          "t": "p",
+          "x": "A rare phrase is a sequence of five or more words in a specific order that rarely appears in human writing but shows up often in AI-suspected work. Daggermouth had many such phrases, and there were also several sentence-level passages that matched word for word with other authors' self-published e-books."
+        },
+        {
+          "t": "p",
+          "x": "In a statement sent to The Atlantic through a lawyer, Daggermouth author H.M. Wolfe denied the allegations and said she had “spoken out against generative AI.” She did not, however, address the rare-phrase issue."
+        },
+        {
+          "t": "p",
+          "x": "No matter how strong the evidence looks, there is still no way to definitively establish that a piece of writing was made by AI. Still, one AI expert not involved in the research found the methods sound, and said it would be “statistically close to impossible” for a human-written book to register as 60% AI."
+        },
+        {
+          "t": "p",
+          "x": "According to the research, the 20% of Amazon e-books confirmed to contain “substantial” AI-generated or AI-assisted text accounted for 12% of sales and 10% of bestsellers."
+        }
+      ]
+    },
+    "books/audiobook-ai-multicast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a blind test, audiobook listeners rated AI multicast narration slightly higher than solo human narration. The result came from character-driven scenes. The test was conducted by Edison Research, well known for audio market research, and was commissioned by AI audiobook producer Spoken."
+        },
+        {
+          "t": "p",
+          "x": "The result is interesting when set against recent consumer research. A survey by Edison and the Audio Publishers Association found that listeners were actually less willing to accept AI-narrated audiobooks in 2026 than in 2025. That survey, however, was not a blind test but relied on listeners' self-reported preferences."
+        },
+        {
+          "t": "p",
+          "x": "Listeners may hold a bias against AI narration regardless of quality, because public opinion toward AI is unfavorable. This study hid which version was AI to try to erase that bias. Even so, the result needs to be read with caution. Listeners did not hear both versions and then choose the AI one, so it is a stretch to say they prefer AI over humans. The comparison was also between an AI audiobook voiced by multiple characters and a single human narrator. So the finding may be less 「AI beat humans」 and more 「listeners like full-cast production.」 The study itself noted that human narration was still preferred in expository passages without multiple characters."
+        },
+        {
+          "t": "p",
+          "x": "Even so, one detail stands out. After hearing the AI multicast, 65 percent said they would listen to a full audiobook with Spoken's multicast. At the start of the survey, only 31 percent of listeners said they would listen to an AI audiobook."
+        },
+        {
+          "t": "p",
+          "x": "This survey clearly aims to promote the AI multicast production put out by Spoken. The author said they would like to continue covering performance metrics for authors who market AI-narrated titles. AI-narrated titles are still a tiny slice of the market, accounting for just 0.03 percent of audiobook sales revenue in 2025, though that share is expected to grow."
+        }
+      ]
+    },
+    "books/poetry-foundation-scrape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Giggle Academy, a 'free learning' platform founded by Binance founder CZ Zhao, scraped hundreds of copyrighted poems from the Poetry Foundation's archive."
+        },
+        {
+          "t": "p",
+          "x": "The scraped poems went almost straight into use as raw material, with barely any human hand involved. They were used to automatically generate illustrated lessons and picture books. No editor, no curator, stood in between."
+        },
+        {
+          "t": "p",
+          "x": "This case goes beyond a single layer of copyright infringement. It's a real-world picture of AI mass-producing creative and educational content, and a scene that shows what book-making without people leaves behind for poets and publishers."
+        }
+      ]
+    },
+    "books/books-agi-chronicles-roose": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NYT columnist Kevin Roose sat down with PW to discuss his upcoming book 'The AGI Chronicles.' He asked about the people racing to build artificial general intelligence, and what role government should play."
+        },
+        {
+          "t": "p",
+          "x": "Asked whether there was a moral center to this story, Roose pointed to Anthropic CEO Dario Amodei. Amodei has warned for more than a decade about the dangers of powerful AI, yet he's also consumed with pushing AI's frontier forward. His logic: AGI will get built regardless, so it's better for the good guys to get there first. He constantly wrestles with the contradiction of accelerating a technology he believes could upend the world."
+        },
+        {
+          "t": "p",
+          "x": "As for the figure most different from his public image, Roose named Eliezer Yudkowsky. He's something like the original AI doomer, and recently published a book called 'If Anyone Builds It, Everyone Dies.' Known as dark and gloomy, he turned out to be quirky and funny in person. The one thing that matched the reputation: he really does think we're all going to die."
+        },
+        {
+          "t": "p",
+          "x": "On government's role, Roose said it's not too late, but the window is closing faster than expected. The stronger the technology gets, the stronger the oversight needs to be, he said. He liked DeepMind CEO Demis Hassabis's idea of a federal standards body as a starting point, but expects far more regulation will be needed. He noted that in the U.S., you need a permit to open a sandwich shop, yet frontier AI models capable of autonomous cyberattacks can be built and released with no constraints at all."
+        },
+        {
+          "t": "p",
+          "x": "Asked how the AGI race differs from the Manhattan Project, Roose said the underlying technology is far more general-purpose, so it could leave a bigger mark. The atomic bomb ended a war and reshaped the world order, but in the end it only did one thing: explode. AI could become a weapon, or it could accelerate scientific research, or give every student a world-class personal tutor. Which effect runs deeper is still unknown."
+        }
+      ]
+    },
+    "books/books-aala-ethics-code-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In place of publishing analyst Carlo Carrenho, away on summer vacation, editor-in-chief Andrew Richard Albanese brings a shortened 'Around the Book World' this week. Carrenho returns with the August 24 edition."
+        },
+        {
+          "t": "p",
+          "x": "According to Chytomo, new Russian strikes hit the family-run bookshop Alpaca near Pochaina station in Kyiv, Library Branch No. 32 in Lviv, and RNK-Ranok's logistics center in Kharkiv. The drone attack set the logistics center ablaze, destroying 8 million books. It held about a third of Ukraine's annual book supply, including 600,000 textbooks meant to reach schools by September 1."
+        },
+        {
+          "t": "p",
+          "x": "RNK-Ranok CEO Viktor Kruglov said this was the second time the same site had been hit, meaning it wasn't targeted by chance. Preliminary damage was estimated at around 1 billion hryvnias, or roughly $22.4 million. The Lviv library said both its books and staff came through unharmed."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2017/05/IFLA-LOGO-Colour_no-text-lined-300x300.jpg",
+          "cap": "The IFLA logo, used alongside the announcement of the 2028 World Library and Information Congress host city"
+        },
+        {
+          "t": "p",
+          "x": "The International Federation of Library Associations and Institutions (IFLA) picked Brazil's capital, Brasília, to host the 2028 World Library and Information Congress (WLIC). It will run August 21-24, 2028, marking the first time in 17 years the event has been held in Latin America and the Caribbean."
+        },
+        {
+          "t": "p",
+          "x": "The Sharjah Book Authority announced it will hold the fifth Booksellers Conference on September 19-20 at Expo Centre Sharjah. Booksellers, distributors, and e-commerce platforms from 98 countries will gather to cover inventory management, demand analysis, cutting returns, and supply-chain efficiency. Registration closes September 18."
+        },
+        {
+          "t": "p",
+          "x": "Two surveys from the UK's National Literacy Trust found that 47.3% of 8- to 18-year-olds listened to some form of audio in 2026. Podcasts were the most common at 49.1%, and in a survey of 3,000 parents and guardians, 69.2% said 'someone in the household listens to audiobooks.'"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-02-at-2.18.17-PM.png",
+          "cap": "The logo of the Association of American Literary Agents (AALA), which revised its ethics code"
+        },
+        {
+          "t": "p",
+          "x": "The Association of American Literary Agents (AALA) released a revised ethics code to take effect September 1, 2026. This first revision since 2022 reflects industry consolidation, new business models, new technology, and shifting paths to book discovery. President Regina Brooks said 'authors and creators are asking more of their agents than ever before.'"
+        },
+        {
+          "t": "p",
+          "x": "Industry analyst Jane Friedman sums up the gist in her newsletter 'The Bottom Line': as long as financial relationships are disclosed and mutually agreed upon, an agent can earn money in any number of ways, but may not demand money directly in exchange for representation. She added that starting September 1, authors will need to vet their partners far more carefully."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-02-at-3.46.43-PM.png",
+          "cap": "The masthead of Japan's Mainichi, which carried the report on Korea's young readers"
+        },
+        {
+          "t": "p",
+          "x": "Japan's Mainichi reported that South Koreans in their 20s and 30s, who use AI the most, are also leading a reading revival. In the 2025 National Reading Survey, the adult annual reading rate fell from 72.2% in 2013 to 38.5% in 2025, but it stood at 75.3% for people in their 20s and 66.4% for those in their 30s. The same generations also post the highest generative AI usage rates, at 75.3% and 71.1% respectively."
+        },
+        {
+          "t": "p",
+          "x": "A reader encountered at the Seoul International Book Fair put it this way: 'People use AI so much that they've lost time to read and think, and it seems they're realizing they need to go back to books to form and express their own thoughts.'"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2023/09/710-Hachette-design-by-Gensler-for-2015-offices-270.jpg",
+          "cap": "Hachette's headquarters, pictured alongside the section on Lagardère Publishing's results and the expected Anthropic settlement payout"
+        },
+        {
+          "t": "p",
+          "x": "Hachette's parent company, Lagardère Publishing, called its first half of 2026 'resilient.' French revenue fell 1.6%, though the market itself had shrunk by nearly 5%; the UK dropped 1.2%; the US rose 1.3% on strength in frontlist titles and audiobooks; and Spain and Latin America grew 13%."
+        },
+        {
+          "t": "p",
+          "x": "The company confirmed it will receive a substantial sum from the Anthropic settlement but did not disclose the amount. It did put the number of Lagardère titles covered by the settlement at around 15,000, and applying $3,000 to $3,100 per work, that comes to more than $22 million even after splitting with authors."
+        },
+        {
+          "t": "p",
+          "x": "Emily Wilson's review of Christopher Nolan's The Odyssey in the London Review of Books deserves more than being reduced to criticism of the director. It reads translation and art, story and film, history and geopolitics together."
+        }
+      ]
+    },
+    "books/books-agents-cannot-authenticate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/578/110.jpg",
+          "cap": "Lead image for The Bookseller's story on the collapsed AI-suspected deal (© Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "A crime novel that sold for $2.4 million after a 14-way auction in the United States was withdrawn by its agent on Friday, July 31, over suspicions of AI use. After the news broke, The Bookseller spoke with literary agents, and the conversation was dominated by uncertainty and fear."
+        },
+        {
+          "t": "p",
+          "x": "Agents agree on one point: there is currently no reliable way to confirm how a manuscript was written. As a result, their default stance when receiving submissions has shifted toward suspicion."
+        },
+        {
+          "t": "p",
+          "x": "The full article is behind The Bookseller's paywall, so this account covers only what the open introduction and the curator's summary confirm. The article was reported by Lauren Brown on August 4, 2026, and its keywords list Madeleine Milburn and the Madeleine Milburn Agency, and Rachel Mills and Rachel Mills Literary."
+        }
+      ]
+    },
+    "books/books-copyright-chief-legal-battle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-04-at-9.06.42-AM.png",
+          "cap": "Register of Copyrights Shira Perlmutter stands beside the seal of the US Copyright Office"
+        },
+        {
+          "t": "p",
+          "x": "The legal battle over the fate of Shira Perlmutter, head of the US Copyright Office, has flared up again. Last week, the administration's lawyers filed a brief with a Washington, D.C. court arguing that a recent Supreme Court ruling supports the president's power to remove her. Perlmutter's side countered that no such power exists, pointing back to last fall's appeals court ruling that the appointment power belongs to the Librarian of Congress."
+        },
+        {
+          "t": "p",
+          "x": "It began in May of last year. Two days after Librarian of Congress Carla Hayden was abruptly fired, news broke that President Trump had fired Perlmutter too. The copyright and intellectual property industries were shocked and angry. Perlmutter had been well regarded, having made major progress on long-overdue modernization work."
+        },
+        {
+          "t": "p",
+          "x": "What stands out more is the timing. The firing attempt came right after the Copyright Office pre-released the third and final part of its sweeping AI review report. That report, which defended copyright holders' rights, appears to clash with the president's AI agenda."
+        },
+        {
+          "t": "p",
+          "x": "Perlmutter sued in May 2025 to keep her post. After a long detour, the Washington, D.C. Circuit Court of Appeals ruled in September 2025 that the president lacks the power to fire her, and ordered the administration not to interfere with her duties. 'The power to appoint the Register of Copyrights is given by law to the Librarian of Congress, not the president,' it held."
+        },
+        {
+          "t": "p",
+          "x": "In June, the Supreme Court declined to take up the administration's appeal, leaving the appeals court's injunction in place, and Perlmutter has kept her post while the litigation continues."
+        },
+        {
+          "t": "p",
+          "x": "The wrinkle is a different ruling from that same June, Trump v. Slaughter. In that case, concerning the immediate firing of FTC Democratic commissioner Rebecca Slaughter, the Supreme Court found the president has broad discretion to remove executive branch employees. In its July 31 brief, the administration argued that this ruling applies directly, since the Register of Copyrights performs some executive functions even while housed within the Library of Congress."
+        },
+        {
+          "t": "p",
+          "x": "'Plaintiff Shira Perlmutter was lawfully removed from the office of Register of Copyrights.' The administration's brief wrote that the Constitution gives the president the power to 'directly remove the Register of Copyrights, an inferior officer who exercises substantial executive power.'"
+        },
+        {
+          "t": "p",
+          "x": "The same day, Perlmutter's brief countered that the Slaughter ruling does not reach this far, arguing that if it did, the Supreme Court would not have left the September 2025 appeals ruling standing. It said the Register of Copyrights is an inferior officer supervised by the Librarian of Congress, not the president, and that the administration's 'unusual' theory of power has already been rejected twice in court."
+        },
+        {
+          "t": "p",
+          "x": "Who holds this office spreads into AI policy for the United States and, by extension, the world. The 23-page report released on July 23, 2025, 'Winning the Race: America's AI Action Plan,' proposed that the government should hold back from AI regulation at this stage. Even with dozens of lawsuits over unauthorized use of training data, the word 'copyright' never appears in the report, which puts only the AI arms race with China front and center."
+        },
+        {
+          "t": "p",
+          "x": "Part 3 of the Copyright Office's report takes a different tone. It found that drawing on vast bodies of copyrighted work to create 'expressive content' that competes with books is likely to cross the line of fair use, especially when done through 'illegal access.'"
+        },
+        {
+          "t": "p",
+          "x": "There is also a path that could make the lawsuit moot altogether. The House passed H.R. 6028, which would remove the Copyright Office from the Library of Congress's jurisdiction and make the Register a presidential appointee. Whether the Senate will take up the bill remained unknown as of this article's deadline."
+        }
+      ]
+    },
+    "books/books-secondhand-bulk-orders-training-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Secondhand bookstores in Aotearoa New Zealand and Australia report receiving orders from Zoom Books, a Canadian book-recycling company. A number of booksellers suspect the volume is flowing to companies involved in generative AI training."
+        },
+        {
+          "t": "p",
+          "x": "Zoom Books said it does not digitize or discard secondhand or new books for any specific purpose. The rest of the company's explanation is behind a paywall."
+        },
+        {
+          "t": "p",
+          "x": "That is as far as the confirmed facts go. Still, the very fact that orders are sweeping through secondhand bookstore stock shows that the print-book supply chain has started to look like a route for securing training data."
+        },
+        {
+          "t": "p",
+          "x": "The full article is behind Books+Publishing's paywall, so only what the open introduction and the curator's summary support is included here. Local news, August 3, 2026."
+        }
+      ]
+    },
+    "books/books-anthropic-destroyed-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=1200&quality=85&auto=format&fit=max",
+          "cap": "'The risk of generative AI is that we hand over the means of production of a great linguistic life.' Photograph: Dado Ruvić/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "Is it acceptable to destroy every book in the world? A clue to the answer lies in the record of Bartz v. Anthropic PBC. In the ruling handed down by a federal court in Northern California in late July this year, a name surfaced: the 'Panama Project,' one strand of Anthropic's work to improve its large language model, Claude. Trial exhibit 21, an internal memo, asks 'What is the Panama Project?' and answers: 'Our effort to destructively scan all the books in the world.' The memo adds a warning: 'Why the codename? Because we don't want it known that we're doing this.'"
+        },
+        {
+          "t": "p",
+          "x": "Destructive scanning was Anthropic's solution to the problem it faced. Training Claude required large volumes of high-quality language data, and data from before 2022—before generative AI began contaminating text—was especially valuable. According to the ruling, the company expected that the 'well-curated facts, well-organized analysis, and compelling fictional narratives' found in books would help 'Claude write as accurately and persuasively as a professional writer.'"
+        },
+        {
+          "t": "p",
+          "x": "There was another option: licensing e-books already on the market. In the words of the co-founder and CEO, that path meant 'legal, practical, and business hassle.' Rather than sit down with rights holders, the company first used pirated copies, a decision that led to a $1.5 billion settlement outside court. When even that grew complicated, it turned to destructive scanning instead. The judge himself found that training a language model on copyrighted works was not, in itself, infringement."
+        },
+        {
+          "t": "p",
+          "x": "The fair-use doctrine in US copyright law allows copyrighted works to be used 'transformatively' without the rights holder's permission. Anthropic scanned print books and 'transformed' them into digital form, then disposed of the originals—that's the 'destructive' in destructive scanning. To make scanning easier, a contractor pre-cut the spines and edges of the books. Judge William Alsup wrote that 'one replaced the other.'"
+        },
+        {
+          "t": "p",
+          "x": "The company hired a logistics manager, bought up books from vendors, and stacked them in a warehouse. The evidence photos show shelves of labeled books and staff moving among them. What the photos don't show is what came next: the shredding and disposal, the turning of 'every book in the world' into recycling or landfill."
+        },
+        {
+          "t": "p",
+          "x": "A book was both a vessel for text and a cultural object. Yet unlike other countries, the United States has almost no legal provisions governing the regulation or export of its own cultural heritage, and essentially no rules about how books should be handled."
+        },
+        {
+          "t": "p",
+          "x": "Destructive scanning is a device for stripping the author's presence from printed text and using only its content to improve a language model's performance. It's legal, and less regulated than strip mining. Printed matter has no endangered list, and there's almost no regulation covering what counts as the survival of a rare or unique copy. Perhaps 'purely human-written authorship' ought to become a new category worth preserving."
+        },
+        {
+          "t": "p",
+          "x": "The case is also a statement about the importance of long-form writing, books, and readers. Judge Alsup wrote: 'For hundreds of years, we have read and re-read books. We have admired, memorized, and internalized their larger themes and substantive points, and their stylistic solutions to recurring writing problems.'"
+        },
+        {
+          "t": "p",
+          "x": "The most telling part lies elsewhere: how much Anthropic valued complex, lengthy, uncontaminated text. We should ask why that text is worth so much money. The risk of generative AI is that we turn from creators into consumers, and hand over the generative potential of our own work to language models and the companies that own them."
+        },
+        {
+          "t": "p",
+          "x": "The author, Kathryn James, is a rare-books librarian at Yale's Lillian Goldman Law Library. The Guardian, Opinion, August 5, 2026."
+        }
+      ]
+    },
+    "books/books-chatgpt-blocks-author-styles": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI has begun blocking requests on ChatGPT to imitate a specific author's writing style. Jane Friedman flagged the change in a post dated August 5, 2026, writing that although style isn't explicitly protected under copyright law, it may be prudent to block such requests rather than add fuel to ongoing lawsuits."
+        },
+        {
+          "t": "p",
+          "x": "Here's what the response actually looks like. When Engadget tested it on July 28 using Agatha Christie, ChatGPT replied that it 'can't provide writing that closely imitates Christie's distinctive style.' Instead, it suggested it could 'write original work with those characteristics as much as you'd like.'"
+        },
+        {
+          "t": "p",
+          "x": "The scope isn't applied evenly yet. An analysis from No Latency earlier this month found that requests involving living authors were blocked while those for authors who had already died went through. Later tests found the same deflecting response for living authors like J.K. Rowling and Amy Tan, as well as for Charles Dickens and Ernest Hemingway."
+        },
+        {
+          "t": "p",
+          "x": "Lawsuits sit behind this. OpenAI is facing multiple suits from authors alleging its models infringed their work at scale, and the Encyclopaedia Britannica is also among the plaintiffs. Coming right after Anthropic closed out its own copyright dispute with a $1.5 billion settlement, requests to imitate an author's style have landed in a more sensitive spot."
+        },
+        {
+          "t": "p",
+          "x": "Jane Friedman's full piece sits behind a paywall. What's carried here is limited to the published title and subhead, plus what other outlets' reporting confirms."
+        }
+      ]
+    },
+    "books/books-daggermouth-publisher-backing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/637/H-M-Wolfe1.jpg",
+          "cap": "HM Wolfe, author of 'Daggermouth,' who denied the AI-authorship allegations"
+        },
+        {
+          "t": "p",
+          "x": "Tor Bramble has stood by author HM Wolfe. The move comes after The Atlantic reported that an AI detection tool, Pangram, scored Wolfe's dystopian romance 'Daggermouth' at 60%. The Bookseller's Melina Sparnoudi reported the news on July 31, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The figure traces back to a research team led by Tuhin Chakrabarty at Stony Brook University. Running roughly 14,000 Kindle e-books through Pangram, they found that one in five contained more than 25% AI-generated text. The researchers bolstered their case with 'rare phrases'—five-word expressions that show up often in AI text but rarely in human writing. Daggermouth contained several such phrases, and some sentences matched other self-published e-books word for word."
+        },
+        {
+          "t": "p",
+          "x": "Wolfe denied the claim through her lawyer: 'The allegation that I used generative AI to write Daggermouth is completely false.' She also stated her opposition to using generative AI in creative work, but did not directly rebut the linguistic evidence cited against her."
+        },
+        {
+          "t": "p",
+          "x": "A University of Maryland computer science professor who wasn't involved in the research reviewed the methodology at The Atlantic's request and found it sound, adding that a book written entirely by a human scoring 60% on Pangram was 'statistically almost impossible.' On the other side, critics pointed out that Pangram's false-positive problems are already well documented, and voices defending Wolfe kept coming from BookTok."
+        },
+        {
+          "t": "p",
+          "x": "What's at stake here isn't just the authenticity of one book. Amid a pattern of contracts collapsing over a single detection score, this is a case where a publisher didn't simply defer to that score. The Bookseller's full article sits behind a paywall, so only what's supported by the public opening and other outlets' reporting has been carried here."
+        }
+      ]
+    },
+    "books/books-published-voice-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549-1024x601.jpg",
+          "cap": "Lead image from The Scholarly Kitchen's article on the 'published voice'"
+        },
+        {
+          "t": "p",
+          "x": "I recently moderated a panel at the EASE (European Association of Science Editors) summer symposium, hosted by the manuscript editors' special interest group. The title was 'Beyond Tracking Changes: Measuring the Impact of Human Manuscript Editing in an AI-Driven Publishing Landscape.' What interested me most was the segment on the author's voice and how AI affects it."
+        },
+        {
+          "t": "p",
+          "x": "Editage's editors have, for more than 24 years, fielded author requests to make writing 'sound more like a native speaker' before resubmission. It's a common request, usually read as asking for better-polished English. But is that all it is? When we read a manuscript, we infer the author from the 'voice' we meet there. Writing style, the confidence carried in the author's voice, cultural context, how familiar someone is with disciplinary conventions, and whether they know the basics of drafting and submitting a manuscript—all of these become signals."
+        },
+        {
+          "t": "p",
+          "x": "The same signals can also invite bias. Given equal scientific rigor, a well-written paper gets the edge on first impression. Style can also reveal an author's career stage, regional origin, or educational background—none of which is a measure of scientific quality."
+        },
+        {
+          "t": "p",
+          "x": "As AI enters the picture, the line between 'native-speaker writing' and 'non-native-speaker writing' also blurs. So what happens to the 'author's voice,' something that has always mattered to both authors and reviewers? If AI is helping researchers write, what does the phrase 'author's voice' even point to now?"
+        },
+        {
+          "t": "p",
+          "x": "In creative writing, the meaning is clear: it's an author's own distinctive style. Academic writing is different. Conventions are highly standardized, and authors must follow journal guidelines and use precise terminology. So is the author's voice a matter of word choice? Of how an argument is structured? It could be how a research question is framed, or the rhythm of a paper. Before asking whether AI threatens the author's voice, we first need to ask: what exactly is 'the author's voice' in academic writing?"
+        },
+        {
+          "t": "p",
+          "x": "The more I thought about it, the more the concept slipped through my fingers. Has academia ever had a single definition of the author's voice to begin with? Consider co-authored work. Every author has a different style, perspective, and way of thinking. Is the voice that of the first author, who weaves those different perspectives into one? Or does it become something new, like a 'team's voice'? When I write alone, the voice clearly feels like mine, but it's different when I'm editing someone else's work or contributing to a joint project. When I write with the purpose of building on someone else's thinking, I write quite differently."
+        },
+        {
+          "t": "p",
+          "x": "A single-authored paper is no different. Advisors and mentors reshape the contours of an argument, and reviewers' suggestions can shake the structure down to its foundations. By the time the paper is ready for publication, little resembles the first draft. If the voice is shaped throughout the writing and submission process, then a paper's voice shifts from being the 'author's voice' to something broader: a 'published voice,' forged jointly by the author, reviewers, mentors, and the conventions of the field."
+        },
+        {
+          "t": "p",
+          "x": "Seen this way, AI becomes just another participant in the published voice. Will it strip away the barriers facing those whose expertise lies in science rather than English, leveling the playing field for research? Or will well-written papers start being mistaken for AI-written ones? Could a new form of bias be quietly taking root?"
+        },
+        {
+          "t": "p",
+          "x": "The question of the author's voice isn't new. But with AI now in the picture, it can no longer be put off. AI hasn't so much changed the author's voice as revealed how little we understood it to begin with. Rohi Ghosh wrote this for The Scholarly Kitchen on August 5, 2026."
+        }
+      ]
+    },
+    "books/books-amazon-ai-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This continues the first story of the week. I'd promised to take Saturday off from AI talk (assuming no breaking news), but Tuhin Chakrabarti's study on AI use in self-published fiction has such a wide and heavy impact that I'm making an exception. A good piece in the New York Times, which looked at this story from another angle, is another reason. Thanks to Jane Friedman for opening up the paywalled link in her newsletter."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
+          "cap": "An ALLi news roundup on AI use in Amazon's self-published books"
+        },
+        {
+          "t": "p",
+          "x": "The article digs deep into Chakrabarti's paper, titled “Generative AI Floods and Dilutes the Market for Books.” The title makes clear that the goal isn't to single out and shame indie authors who use AI, but to depict a landscape where, as AI use grows, people who don't use it reach readers less effectively than before. The New York Times piece unpacks this context through the case of indie author Jess Michaels. Michaels says her sales fell off a cliff after ChatGPT got more sophisticated."
+        },
+        {
+          "t": "p",
+          "x": "The paper's abstract states its intent outright: to test the premise that AI-made books are “low-quality 'slop' that readers won't bother with” and carry little commercial weight."
+        },
+        {
+          "t": "p",
+          "x": "The design was this: 14,419 self-published books released between 2023 and 2026 were run through AI detection software. Not a single one disclosed AI use. Sales were tracked alongside."
+        },
+        {
+          "t": "p",
+          "x": "The key results are each interesting and important in their own way. Concerning, yes, but not yet something to call an existential crisis."
+        },
+        {
+          "t": "p",
+          "x": "Starting with the numbers, this confirms what the 4 million titles figure that dominated headlines earlier this year had hinted at. The number of published titles rose by nearly 20%, while sales grew by less than 10%. The pie stayed the same size; it just got sliced into smaller pieces."
+        },
+        {
+          "t": "p",
+          "x": "Next, the detection software found that signs of AI use are fairly widespread — more than a quarter of the total. That's a scale large enough to account for the increase people have been worried about."
+        },
+        {
+          "t": "p",
+          "x": "And here's the important part. Books showing AI traces sold less than other books, but still enough to raise a commercial question. One possible reason for the lower sales is reader loyalty toward established authors. That's a reassuring thought, but Michaels's story shows it isn't a rescue. As time passes and readers go looking for new 'authors,' that effect could fade too."
+        },
+        {
+          "t": "p",
+          "x": "I'd recommend reading the full study yourself."
+        }
+      ]
+    },
+    "books/books-authors-of-colour-ai-suspicion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As writers accused of using generative AI have piled up recently, debate has spread online and across the industry over whether authors of color are disproportionately targeted by this kind of speculation. The piece was written by Lauren Brown on August 7, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
+          "cap": "Jamir Nazir and Mia Ballad"
+        },
+        {
+          "t": "p",
+          "x": "Agents and publishers say suspicion that can't be verified has already become a real reputational risk. Yet there is no reliable process anywhere to sort it out."
+        },
+        {
+          "t": "p",
+          "x": "With detection results inconclusive while suspicion circulates publicly, who gets targeted ends up determining who pays the cost. That's why the industry conversation has shifted here."
+        },
+        {
+          "t": "p",
+          "x": "The original article sits behind a paywall. This summary is based on the published introduction and article excerpt."
+        }
+      ]
+    },
+    "books/books-harpercollins-ai-audiobooks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In its 2026 earnings report, HarperCollins said digital was its only bright spot. That includes digital audiobooks. Annual digital revenue rose 4%, accounting for 23% of consumer revenue, slightly down from 24% a year earlier. Still, digital revenue jumped 12% in the last three months of 2026, led by a 16% rise in audiobooks. AI narration is also starting to show results."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/07062449/harpercollins-publishers-offices-toronto-4-1200x800-1.jpg",
+          "cap": "HarperCollins offices in Toronto. A Harlequin Canada sign is visible through the glass doors."
+        },
+        {
+          "t": "p",
+          "x": "\"AI will clearly play a role in bringing books to life with vivid voices, creating immersive audio experiences that raise the value of IP even further.\" That's News Corp CEO Robert Thomson, speaking on an analyst call. \"If you think about it, AI could completely transform audiobooks, because there will be far more variety in voices, sound effects, and the techniques and tools used to bring words to life.\" He also pointed out that AI makes it much cheaper to translate both text and audio into multiple languages."
+        },
+        {
+          "t": "p",
+          "x": "HarperCollins CEO Brian Murray picked up on Thomson's point and stressed the work of applying AI to translating books for overseas markets. He cited India as a leading example. Books in many of India's languages are still scarce. The plan is to fill that gap with AI translation and narration. Murray said, however, that aside from a few exceptions, there's no reason to change the existing English-language audiobook approach that relies on professional narrators."
+        },
+        {
+          "t": "p",
+          "x": "The technology HarperCollins uses is an AI voice engine secured through a partnership with ElevenLabs. Synthetic voice technology is used to produce foreign-language editions and old backlist audiobooks — titles that were never going to be recorded by a human in the first place. The publisher says automated tools significantly cut the production cost and time burden for its niche catalog."
+        },
+        {
+          "t": "p",
+          "x": "HarperCollins said human-narrated audiobooks remain the core and the standard, and that AI is used only for books that don't have the commercial viability to justify studio recording."
+        },
+        {
+          "t": "p",
+          "x": "Authors and industry groups have raised concerns over automated narration displacing existing work for human narrators, and over the broader trend of corporate-driven AI entering the publishing industry."
+        }
+      ]
+    },
+    "books/books-peer-review-revolution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The author submitted a manuscript to a reputable journal and waited ten months for review comments. The editor-in-chief had secured only a single review. The editorial staff apologized, but there was nothing they could do."
+        },
+        {
+          "t": "p",
+          "x": "Manuscripts are pouring in, and reviewers are in short supply. Between 2004 and 2024, Crossref-registered outputs rose more than fourfold, from 2.28 million to 10.12 million a year. Submissions to journals using ScholarOne Manuscripts in the first quarter of 2026 were up 33% from a year earlier, and the growth rate itself has nearly doubled. A 2018 Publons survey found that 10% of reviewers handled roughly half of all review records."
+        },
+        {
+          "t": "p",
+          "x": "Generative AI has also pushed up the surge in submissions. One study found that LLMs are associated with a 42% increase in submissions at the journals surveyed. The additional manuscripts read less clearly and were dense with jargon. Manuscripts with heavy AI use were desk-rejected about twice as often, and once AI content exceeded 70%, they almost never made it to the revision stage. Review reports, too, increasingly showed signs of AI-drafted text."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1068380820-1024x683.jpg",
+          "cap": "Stacks upon stacks of paper documents"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Michael Bruno believes AI alone can't fix this problem unless academia “revolutionizes” the incentive structure that prizes paper count over rigor. Large publishers can run AI review assistance on their own computing resources, but smaller publishers — especially those in developing countries — have no such option. AI, in other words, is widening the gap. More than 70% of the annual increase in papers also goes to a handful of large publishers, with MDPI alone accounting for 27%."
+        },
+        {
+          "t": "p",
+          "x": "Review favors familiar approaches over new attempts. NIH data show that riskier research has lower renewal rates. Rejected manuscripts are rarely revised much before being resubmitted for review at the next journal, and this duplicated cost is estimated at billions of dollars worldwide."
+        },
+        {
+          "t": "p",
+          "x": "The biggest problem the author identifies is that pre-publication review struggles to draw a clear line between science that should be accepted and science that shouldn't. Hundreds of thousands of papers are turned down each year based on reviewers' subjective judgment, and many of them contain findings well worth discussing."
+        },
+        {
+          "t": "p",
+          "x": "So the real challenge isn't review speed — it's separating dissemination from the pass/fail gate. Models like MetaROR, F1000Research, and eLife, which publish preprints first and continue evaluation afterward, let findings reach readers before full verification. The author points to Publish-Review-Curate (PRC) as the approach that best balances dissemination and certification."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/prc_adoption_lifecycle-593x1024.png",
+          "cap": "The adoption stages of the PRC model mapped onto Moore's technology adoption curve"
+        },
+        {
+          "t": "p",
+          "x": "Viewed through this framework, PRC is still at the early-adopter stage, and the biggest hurdle is the “chasm” that leads into the early majority. OJS 3.6, which will natively support preprints and open review, lowers the barrier for mid-sized journals. The PRC Alliance, established by COAR and ASAPbio in early 2026, is also an attempt to make PRC a standard rather than a niche experiment."
+        },
+        {
+          "t": "p",
+          "x": "There's also a move toward evaluating work at the level of individual papers. In May 2026, NISO's voting members approved forming a working group to recommend trust markers. A proposal has emerged arranging data and code disclosure, preregistration, and review transparency into a four-rung ladder."
+        },
+        {
+          "t": "p",
+          "x": "Revolution versus evolution may be the wrong question. The more urgent one is whether academia is ready to present, contest, and refine scientific ideas out in the open rather than behind closed doors. If that manuscript stuck in limbo for ten months had gone through PRC, the delay itself would have been meaningless."
+        }
+      ]
+    },
+    "books/books-substack-pangram-detection": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Substack rolled out content AI detection across the entire site last week. Jane Friedman wrote that the move triggered a wave of discussion, controversy, speculation, and confusion all at once."
+        },
+        {
+          "t": "p",
+          "x": "Pangram is used for detection. Once scores started appearing on posts by default, disputes broke out among writers over false positives and requests to be excluded."
+        },
+        {
+          "t": "p",
+          "x": "This piece looks head-on at what happens when detection labels get attached by default to prose that's already been published. From here, a false positive stops being a theory and becomes a tag attached next to your name."
+        },
+        {
+          "t": "p",
+          "x": "The original article is for paying subscribers only. This summary is based on the published introduction and article excerpt."
+        }
+      ]
+    },
+    "books/books-ai-text-tells": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zclrdrwsD-M"
+        },
+        {
+          "t": "p",
+          "x": "Jason has published 14 books through traditional publishing and spent three years teaching writers at Kindlepreneur. In his view, most people know their writing sounds like AI but don't know what's actually wrong with it. So they tweak a random sentence, throw in a curse word and cut a few adverbs. Naturally, that doesn't fix anything."
+        },
+        {
+          "t": "p",
+          "x": "The first habit is piling on metaphors. Sentences like \"a city that breathes with innovation\" or \"a tapestry of resilience\" stack up one after another. Each one looks fine on its own, but together they read like a machine stuck in poetry mode. Metaphor is salt. Keep only the one or two that actually reveal something about the scene or the character, and cut the rest."
+        },
+        {
+          "t": "p",
+          "x": "The second is over-explaining. You show a scene, then go on to spell out what it says about identity or memory. A scene is better closed with action, an image or a line of dialogue. Strip out the commentary, and nine times out of ten the scene still holds up fine."
+        },
+        {
+          "t": "p",
+          "x": "The third is travel-guide voice. The town is always nestled in the heart of somewhere, and the street becomes a vibrant hub of culture. A cramped bar that smells of beer can just be a cramped bar. Rewriting it as something a character would say while trash-talking the neighborhood to a friend brings the tone down."
+        },
+        {
+          "t": "p",
+          "x": "The fourth is synonym-swapping. People repeat the same word. They call the town a town, not a settlement, a community and then an urban center a paragraph later. A twelve-year-old narrator would never call a school an educational institution."
+        },
+        {
+          "t": "p",
+          "x": "The fifth is avoiding plain predicates. Instead of saying a café is small, it's written as serving some function, boasting something, or symbolizing something. If swapping the verb back to a plain \"is\" loses nothing, make the swap."
+        },
+        {
+          "t": "p",
+          "x": "The sixth is the \"not simply X, but Y\" construction. People use it too, but AI reaches for it every time it wants to sound deep. Keep it only for moments that truly matter, and just state the rest plainly. The seventh is mechanical rule-of-three lists. When sentences grouped in threes — cold, quiet, merciless — fill the page, it reads as a formula rather than a voice. Mix in twos and fours, and deliberately break up the rhythm."
+        },
+        {
+          "t": "p",
+          "x": "Jason also built and demonstrates a Claude skill that catches this pattern. He opens the skill generator from the sidebar via customize, then create with Claude, and pulls in only the promotional-language entries from a Wikipedia page that reeks of AI. The trick is not asking one skill to do several jobs at once. Once saved, he calls it up with a slash command to scan a passage, and it flags the problem spots and rewrites them."
+        },
+        {
+          "t": "p",
+          "x": "The goal isn't to wipe out every pattern. People use metaphors too, and sometimes write like a travel guide. What creates the machine smell is the density of all of these piling up at once. Use AI as a drafting tool, but don't let your own voice drift toward the internet's average — that part stays a human job."
+        }
+      ]
+    },
+    "books/books-claude-30day-book": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2pJqxijuCTA"
+        },
+        {
+          "t": "p",
+          "x": "Scott Allen has published more than 30 books over the past decade. This time, he set out to see whether he could write, edit and publish a nonfiction book using only Claude, and finished in 30 days. He splits the process into three stages: writing, editing and publishing."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is uploading source material. He uploads everything — more than 200 podcast interviews, YouTube videos, his previous books, even journal entries — into a Claude project so the model learns his voice. If you don't have a backlog of material, recording 10 to 20 minutes of yourself talking and uploading that works too."
+        },
+        {
+          "t": "p",
+          "x": "Next comes the skeleton. You pin down a length, like 12 chapters at 30,000 words, pull a table of contents, and carefully build one model chapter first. Once that single chapter locks in the tone and voice, the rest of the chapters follow the same grain. Allen keeps each chapter to 2,000 to 3,000 words."
+        },
+        {
+          "t": "p",
+          "x": "The part to watch is examples. Without instructions, Claude fills gaps with fake people like Sara or Marcus and invented anecdotes, and reuses the same names in the next book. It also sometimes retreats to overused examples like Oprah Winfrey, David Goggins or Elon Musk. That's exactly where editors spot AI-written work. Allen bans fake stories and lays down his own experience first."
+        },
+        {
+          "t": "p",
+          "x": "The body text should be built up in artifacts rather than the chat window, so you don't run out of space. Once a draft is ready, he uploads the finished version into a new chat and runs an evaluation playbook. In about 10 minutes, it produces a chapter-by-chapter list of what's working and what's missing — a stand-in for beta readers."
+        },
+        {
+          "t": "p",
+          "x": "The last stage is a three-pass edit. He goes through structure, then chapters, then sentences, since handing the whole book over at once lets things slip through. Each chapter takes 5 to 7 minutes, so 15 chapters take an hour to an hour and a half."
+        },
+        {
+          "t": "p",
+          "x": "Claude handles formatting too. Locking in rules like trim size, body text size and chapter-title size into a playbook keeps every book looking the same. Page breaks still take manual work, though, and he adds that if formatting isn't a hobby, outsourcing it is the better call. Once you attach an ISBN and upload to KDP, marketing is on you from there."
+        },
+        {
+          "t": "p",
+          "x": "Still, Allen insists on not skipping a human editor. The resulting book, in a 5-by-8 trim running more than 290 pages and around 36,000 to 37,000 words, hit bestseller lists in three categories within days of release."
+        }
+      ]
+    },
+    "books/books-eu-ai-act-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is from a piece Jane Friedman posted in her paid newsletter on August 5, 2026. It covered how the EU AI Act requires transparency for certain kinds of AI-generated output."
+        },
+        {
+          "t": "p",
+          "x": "The rule applies to AI output that could easily be mistaken for the real thing, and to content manipulated with AI. It's a provision aimed at deepfakes, meant to secure transparency."
+        },
+        {
+          "t": "p",
+          "x": "For anyone selling an AI-written book in the EU, disclosure is no longer optional. It moves from a courtesy you kept on your own to a requirement you must meet."
+        },
+        {
+          "t": "p",
+          "x": "The full text is available only to Friedman's paid subscribers. What's summarized here covers the publicly available portion."
+        }
+      ]
+    },
+    "books/books-prowritingmethod-news": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "61voMQvOFNE"
+        },
+        {
+          "t": "p",
+          "x": "This is self-publishing news for August 6, 2026, reported by Dale L. Roberts. It covers Barnes & Noble's criteria for local-author events, platform changes at Apple Books and Lulu, and ProWritingAid's new system all at once."
+        },
+        {
+          "t": "p",
+          "x": "Barnes & Noble isn't scrapping local-author signings. But stores have become far more selective. According to corporate guidance reported by Jane Friedman's newsletter The Bottom Line, the thinking is that events that just set up a table and ride on a store's foot traffic aren't worth the time, space and staff they take. Store employees writing on Reddit say they want authors who already have a readership and can promote themselves directly. Guidance has also gone out not to just plop a signing table down in front of the entrance."
+        },
+        {
+          "t": "p",
+          "x": "The conditions Barnes & Noble has long stated are clear: a convincing marketing and promotion plan, evidence that it will draw customers, a professional presentation, a competitive price, distribution through a wholesaler or distributor, and registration at barnesandnoble.com."
+        },
+        {
+          "t": "p",
+          "x": "Next up is a piece Penny Sansevieri wrote on janefriedman.com. Her point: don't aim for national media first — build up your local base instead. Libraries, local papers, radio, clubs, alumni groups and nearby shops have a lower bar than national outlets. Local coverage and recommendations even change how a book and author page show up in Google and AI search."
+        },
+        {
+          "t": "p",
+          "x": "Apple Books for Authors will have iTunes Connect down for up to two hours starting 9 a.m. Eastern on Saturday, August 8. Registrations or edits need to be finished before then. Lulu changed its terms of service and privacy policy as of August 3, and continuing to use the service after that counts as agreeing to them."
+        },
+        {
+          "t": "p",
+          "x": "Voices by Inaudio expanded its exclusive partnership with Bookshop.org to the UK. Bookshop.org backs more than 630 independent bookstores and 14,000 affiliates in the UK."
+        },
+        {
+          "t": "p",
+          "x": "ProWritingAid rolled out a new system called ProWritingMethod. The pitch is to go beyond polishing sentences and help people actually finish the manuscript they started. Skill builds craft, habit brings you back to the desk, and mindset gets you past the moments when doubt and overthinking threaten to stop you. It's a move from a grammar checker into the entire writing process."
+        },
+        {
+          "t": "p",
+          "x": "A few short items round things out. Tertulia opened storefronts for the US, Canada, the UK and the eurozone, while Novel Report dropped its existing coupons. In a case highlighted by BookLinker, a $424 BookBub deal generated 5,996 free downloads and pushed a book into its category's top 50. The Authors Guild is holding an agent talk at 3 p.m. Eastern on Thursday, August 13."
+        }
+      ]
     }
   }
 }

@@ -2350,6 +2350,1332 @@
           "x": "The researchers aimed to design the structure so it remains trainable while staying hard to simulate on classical computers."
         }
       ]
+    },
+    "science/binn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new computer model is counted among the first AI tools to speed scientific discovery in agriculture and biogeochemistry, with a study finding it 50 times more efficient than earlier models. It is a proof of concept showing that AI can reveal biological processes that are not well understood."
+        },
+        {
+          "t": "p",
+          "x": "In a paper published in the journal Geoscientific Model Development, the researchers demonstrated the AI by applying it to the problem of soil organic carbon. Earth's soils hold about three-quarters of terrestrial carbon, more than the atmosphere and all the world's plants combined."
+        },
+        {
+          "t": "p",
+          "x": "Scientists have long looked for ways to use AI in research, but common tools like ChatGPT mostly just reweave existing information. AI has also been used to pull patterns out of data. This model, called a biogeochemistry-informed neural network (BINN), goes a step further, predicting biological processes that are still poorly understood and even surfacing the factors that drive them."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel.jpg",
+          "cap": "Diagram of the BINN architecture and training flow. Credit: Geoscientific Model Development (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Yiqi Luo, a professor in Cornell's School of Integrative Plant Science and the study's corresponding author, said, “BINN is very easy to use, so it can spread widely across scientific fields,” adding it is “one of the first tools of this kind to boost scientific research with AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Haodi Xu, a doctoral student in Luo's lab, is a co-first author. The research was carried out in collaboration with the lab of Carla Gomes, a professor of computer science at Cornell's Ann S. Bowers College of Computing and Information Science."
+        },
+        {
+          "t": "p",
+          "x": "Understanding soil carbon processes accurately helps both climate change forecasting and the development of practical solutions, and even small adjustments to this process have large downstream effects. In fact, in 2015 French soil scientists proposed the “4 per 1,000” initiative: the idea that if people adopted practices that raised the world's soil organic carbon in farmland by 0.4% a year, it would, in theory, not only improve soil health but offset all human-made carbon emissions."
+        },
+        {
+          "t": "p",
+          "x": "How soil gains organic carbon is itself already known. Plants pull carbon from carbon dioxide and lock it in as they grow, and when they die, the organic matter in stems, leaves and roots gradually breaks down into smaller pieces and becomes part of the soil. But scientists don't know well how fast this process runs, or how many steps are needed to break down fallen leaves."
+        },
+        {
+          "t": "p",
+          "x": "Xu said, “We're using AI and data to quantitatively figure out how fast this process is and how many steps it takes.”"
+        },
+        {
+          "t": "p",
+          "x": "BINN computed 50 times faster than earlier models. Its accuracy in predicting soil organic carbon levels was very close to that of existing models. However, existing models carried a spatial bias, favoring data from one region over another when predicting across the U.S. mainland. The researchers confirmed that BINN showed less of this spatial bias."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
+          "cap": "Spatial map of normalized differences between BINN and PRODA. Credit: Geoscientific Model Development (2026)"
+        },
+        {
+          "t": "p",
+          "x": "The researchers say the model can also be adapted to illuminate other poorly understood agricultural and biogeochemical processes, such as soil respiration or carbon accumulation in forest ecosystems."
+        }
+      ]
+    },
+    "science/l2t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A KAIST research team has introduced a next-generation world model that learns executable theories purely from observation. A world model refers to the internal model an AI builds on its own to understand and predict the world."
+        },
+        {
+          "t": "p",
+          "x": "Led by professor Sung-Jin Ahn of the School of Computing, the team proposed a new learning paradigm called Learning-to-Theorize (L2T), which trains AI to theorize about how the world works using only observed information. They also built a neural network model that implements it, called the Neural Theorizer (NEO)."
+        },
+        {
+          "t": "p",
+          "x": "The research was presented at the 43rd International Conference on Machine Learning (ICML 2026), held in Seoul from July 6 to 11. The paper, posted on the arXiv preprint server, was selected as the best paper at the Compositional Learning workshop."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
+          "cap": "Overview of the Learning-to-Theorize (L2T) framework."
+        },
+        {
+          "t": "p",
+          "x": "World models are a foundational technology spanning robot control, autonomous driving, generative AI, and autonomous agents that judge and act on their own. Until now, the focus has been on predicting what happens next. Even when a model predicted a scene accurately, it did not necessarily understand why the change happened or the principles governing the world."
+        },
+        {
+          "t": "p",
+          "x": "The team found a clue in how people learn. Children build their own theories about how the world works long before they learn to speak. Applying this view from developmental cognitive science to AI, the team built a system that understands the principles of change instead of simply predicting the future."
+        },
+        {
+          "t": "p",
+          "x": "L2T does not provide correct answers or rules in advance. Given only “before the change” and “after the change” observations, the AI figures out on its own which rule produced that change. Unlike existing methods that focus on guessing the next scene, it is designed to understand why the change happened."
+        },
+        {
+          "t": "p",
+          "x": "NEO finds reusable basic units, or primitives, hidden within observed transformations and assembles them into executable programs. These learned primitives can then be systematically recombined to explain new situations."
+        },
+        {
+          "t": "p",
+          "x": "For example, NEO learns on its own units corresponding to basic operations like rotation, moving left or down, and coloring. Even when it encounters a combination never seen in training, such as “move down, then color, then rotate,” it recombines the units it has already learned to explain and solve that situation."
+        },
+        {
+          "t": "p",
+          "x": "Existing AI, by contrast, memorizes entangled patterns as a single lump, so its performance drops sharply when it meets an unfamiliar combination. The team showed in multiple experiments that NEO outperforms existing approaches in compositional generalization, the ability to combine learned basic rules to solve problems it has never seen before."
+        },
+        {
+          "t": "p",
+          "x": "Professor Ahn said, “This points to a new direction beyond prediction-focused world models, what we call a World Theory Model,” adding, “We expect it to develop into a core technology across fields such as intelligent robotics, autonomous agents, and AI that aids scientific discovery.”"
+        },
+        {
+          "t": "p",
+          "x": "Master's students Doo-Jin Baek and Gyu-Bin Lee of the School of Computing participated as co-first authors."
+        }
+      ]
+    },
+    "science/symptomai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Language-based history-taking alone can elicit a substantial share of clinical diagnoses. Face-to-face and telehealth visits between doctor and patient remain the standard here, but access is often limited by cost, geography and institutional barriers. Google Research researchers ran a large-scale study examining whether a conversational AI agent could handle everything from symptom intake to differential diagnosis on its own."
+        },
+        {
+          "t": "p",
+          "x": "The paper, “SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment,” reports results from a nationwide randomized study (n=13,917). Consenting participants spoke with one of five SymptomAI agents built on Gemini Flash 2.0. The diagnoses and labels produced during the study are for research analysis only, not confirmed clinical diagnoses."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/SymptomAI1_Overview.width-1250.png",
+          "cap": "Screen from the SymptomAI research app showing symptom intake and a diagnosis summary."
+        },
+        {
+          "t": "p",
+          "x": "Participants described their symptoms and SymptomAI asked follow-up questions, with each conversation ending in a differential diagnosis (DDx) list and next-step recommendations. Participants later reported the outcome of any clinician visit in a survey two weeks afterward. For evaluation, a panel of three specialist physicians reviewed the conversation transcripts, each producing their own differential diagnosis, and then ranked SymptomAI's diagnoses against other clinicians' under blinded conditions."
+        },
+        {
+          "t": "p",
+          "x": "Clinicians preferred SymptomAI's differential diagnosis over another clinician's in more than half of cases. On top-5 accuracy, which checks whether a participant's actual diagnosis from their treating physician appeared among five candidates, clinicians also rated SymptomAI's diagnoses as correct more often than their peers'."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/SymptomAI2_Ranking.width-1250.png",
+          "cap": "SymptomAI was preferred more often as the top-ranked best diagnosis, at 53.3%."
+        },
+        {
+          "t": "p",
+          "x": "Participants were split into five arms that received different questioning strategies. Every strategy in which SymptomAI actively asked follow-up questions clearly outperformed the baseline condition corresponding to today's user-led chatbot approach. SymptomAI's edge was largest in cases where clinicians were least confident in their own diagnosis."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also compared SymptomAI's diagnoses with participants' Fitbit wearable biosignals recorded before the conversation. Conversations that led to infectious-disease diagnoses overlapped with physiological changes suggestive of an immune response, with clear shifts in cardiovascular function, respiration, skin temperature and sleep quality appearing days before symptoms were reported."
+        },
+        {
+          "t": "p",
+          "x": "Still, differential diagnosis itself is an inherently ambiguous task, and diagnoses can change over time. In the evaluation, clinicians saw only static conversation transcripts and couldn't ask their own follow-up questions, and the setup carries the further limitation that signals like body language, visual examination or medical records could be missed."
+        }
+      ]
+    },
+    "science/cellforge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Triplebar Bio, UC Berkeley, and BioMADE are developing an AI model for cell engineering tailored to bioproduction environments. Triplebar Bio CEO Shawn Manchester said the key question is “figuring out how to modify a host cell's genome to get the best performance in bioproduction.”"
+        },
+        {
+          "t": "p",
+          "x": "The core of the project is generating data under conditions close to actual production, and doing so at scale. Manchester said what sets it apart is “the ability to pull data at the scale of hundreds of thousands of cells and data points, in an environment that mirrors bioproduction.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/07/Dutton-Photo-4-small.png",
+          "cap": "Researchers at Triplebar Bio holding a droplet microfluidics chip."
+        },
+        {
+          "t": "p",
+          "x": "The research uses Pichia pastoris as the host cell to produce five proteins used in bioprocessing. The method weaves together two strands. One is droplet microfluidics technology, which traps cells in water-oil emulsion droplets and measures protein output with fluorescent sensors. The other is a multimodal transformer-based AI model, which analyzes sequencing data from high- and low-performing cells to find correlations between genotype and phenotype."
+        },
+        {
+          "t": "p",
+          "x": "Training proceeds by first pretraining on thousands of genomes, then fine-tuning on genotype-phenotype data specific to bioproduction. Manchester said he expects “more than 10% of designs to lead to meaningful improvement,” a far higher rate than the traditional design-build-test cycle manages in its early stages."
+        },
+        {
+          "t": "p",
+          "x": "The ultimate goal is for a company to input its own production conditions and have the AI output a genetic design that boosts strain performance."
+        }
+      ]
+    },
+    "science/creepnorm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large language models (LLMs) are gradually reshaping life-science research. The shift goes beyond boosting productivity, and it's hardening into a new standard before scientists have even agreed on how far its use should go."
+        },
+        {
+          "t": "p",
+          "x": "A paper by an international team of researchers, published in Frontiers in Ecology and the Environment, calls this the 'creeping normalization' of generative AI: a phenomenon where large changes happen in small, subtle steps until they're accepted almost without notice. Lead author Ivan Jarić of the Biology Centre of the Czech Academy of Sciences said, “Generative AI has already entered the daily work of many researchers, but its long-term impact across nearly every area of science has received relatively little attention,” adding, “habitually relying on this tool could fundamentally change the foundations of scientific practice and culture.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creeping-normality.jpg",
+          "cap": "A diagram proposing how far it is appropriate to allow AI at each stage of the scientific process. Source: Ivan Jarić"
+        },
+        {
+          "t": "p",
+          "x": "The paper points to areas where change is already visible. One is collaboration. Researchers are increasingly handing off tasks like bouncing around ideas, working through analytical problems, or seeking expert opinion to LLMs instead of colleagues. The more this happens, the less incentive there is to seek out expertise from other fields or regions, weakening interdisciplinary exchange and narrowing the diversity of perspectives."
+        },
+        {
+          "t": "p",
+          "x": "How people search for information and get ideas is also changing. Susan Canavan of the University of Galway said that as LLMs take over the role of search engines, encyclopedias, and literature review, “you become locked into only the questions you thought to ask, and more dependent on the answers the AI gives you.” That, she said, can entrench confirmation bias, create intellectual echo chambers, and homogenize scientific language and ideas."
+        },
+        {
+          "t": "p",
+          "x": "There's also the problem of core skills dulling. Foundational abilities like literature review and synthesis, taxonomic judgment, and coding and statistical reasoning are being handed over to LLMs. That could reduce the need to open new PhD and postdoc positions, affecting hiring and career paths as well."
+        },
+        {
+          "t": "p",
+          "x": "Michael Bertram of the Swedish University of Agricultural Sciences said, “Rather than being for or against AI, let's set boundaries for what counts as appropriate use.” He argued it's fine to use AI widely for routine tasks like proofreading or polishing language, but that it's not advisable for roles requiring independent scientific judgment, such as setting research priorities, peer review, funding decisions, or ethical judgment. The researchers conclude that a generative-AI-driven transformation of science is already underway, and the real question isn't whether AI will enter research, but where the community draws the line."
+        }
+      ]
+    },
+    "science/hiddenvars": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A material's properties arise from interactions among countless atoms. Simulating each of those atoms individually, especially over long timescales, is usually impossible even for today's supercomputers. Whether the goal is an energy-efficient electronic device or a new alloy, design starts from understanding macroscopic material behavior, and that's exactly where the computational bottleneck sits."
+        },
+        {
+          "t": "p",
+          "x": "A research team led by Associate Professor Qianxiao Li in the Department of Mathematics at the National University of Singapore (NUS) has introduced an AI method to get around this wall. Instead of tracking particles one by one, it finds a handful of hidden variables that capture the collective behavior of the whole system and predicts how their values change over time. The results appeared in a Physical Review Materials paper and a separate paper presented at ICML 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
+          "cap": "A method that trains on data from a small system to predict the macroscopic behavior of a much larger one. Source: National University of Singapore"
+        },
+        {
+          "t": "p",
+          "x": "The first result is a method that accurately predicts the behavior of a much larger stochastic system using only simulations of a small one. Instead of computing the forces on every atom in the large system, it learns how the whole thing moves from force information on only some of the atoms. The team proved mathematically that this shortcut still leads to an accurate model, and validated it on everything from biological population models to simulated alloys with more than 500,000 atoms."
+        },
+        {
+          "t": "p",
+          "x": "The second result handles systems where the microscopic components have no fixed order, such as fluids, particle ensembles, and polymers. Rather than tracking particles one by one, it learns the overall pattern of the distribution, so the result is the same no matter how the particles are numbered."
+        },
+        {
+          "t": "p",
+          "x": "The key advantage is scalability. Because the method can infer the behavior of systems far larger than what it was trained on, it opens a path to handling real materials at scales that had been difficult to touch. Professor Li said the goal is “to build AI that automatically discovers how macroscopic behavior emerges from countless microscopic interactions,” while sharply cutting computational cost and preserving physical accuracy. The team is preparing the next step: connecting this method to experimental data, particularly simulations of mid-sized materials."
+        }
+      ]
+    },
+    "science/xrayagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI models have become everyday tools that anyone can use, and scientists across fields have started using them to assist research and experiments. Researchers at Stanford University and the SLAC National Accelerator Laboratory tried using an AI agent to prepare a synchrotron X-ray experiment. A synchrotron is a large facility that accelerates electrons to produce extremely bright X-rays, used to examine the atomic structure of materials, molecules, and biological samples."
+        },
+        {
+          "t": "p",
+          "x": "In a paper published in Nature Machine Intelligence, the researchers had the agent prepare an actual synchrotron experiment. The agent planned its own actions, interpreted observations, generated instrument-control commands, and completed sample alignment."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
+          "cap": "The operating flow of the agentic X-ray scientist. It reads detector images, experiment logs, and scan results, judges the state, and issues instrument-control commands. Source: Chen et al., Nature Machine Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "First author Zhantao Chen said, “We demonstrated an agentic AI X-ray scientist that aligns a single-crystal sample on a synchrotron beamline by itself.” Sample alignment is the first step in nearly every single-crystal experiment, yet it's labor-intensive and tedious. He explained that the agent asks about the state of the experiment, judges what's happening and what to do next, and pushes through to alignment."
+        },
+        {
+          "t": "p",
+          "x": "The agent is given a toolkit that includes reading experiment logs, capturing detector images, and running motor scans. Chen said, “If you want it to tighten a screw, you have to give it a screwdriver along with instructions on how to use it,” explaining that the tools connect the AI to the actual experiment while the prompts teach it how to use those tools well. He said this flexibility, responding quickly when conditions change or new information comes in, is the strength of LLM-based agents. Traditional automation would require countless hand-coded conditional branches for every situation."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could-1.jpg",
+          "cap": "A Co₃Sn₂S₂ single-crystal sample mounted on a copper holder, and the six-circle diffractometer at the SSRL BL17-2 beamline where the demonstration took place. Source: Chen et al., Nature Machine Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "The key was a virtual beamline the researchers built. Large facilities are always booked solid, making it hard to develop directly on real equipment from scratch. After completing the whole workflow in the simulator, they made only small tweaks to the input and output formats and moved it to the real beamline, where it worked as is. Chen said this approach could extend to other experimental tasks, and that the team is developing a more general agent framework for use across materials science and physics labs, beyond X-ray beamlines."
+        }
+      ]
+    },
+    "science/cognitivebci": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brain-computer interfaces (BCIs) have made remarkable progress in restoring movement and speech for patients with paralysis. Until now, BCIs have mostly focused on decoding motor function, but depression, anxiety, post-traumatic stress disorder and obsessive-compulsive disorder, the conditions with the heaviest brain-disease burden, are fundamentally problems of cognition, such as attention, memory, judgment and emotion regulation. A new review points out that treating cognitive disorders requires an approach entirely different from today's motor-focused BCIs."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Ignacio Saez, director of the Human Neurophysiology Research Laboratory at Icahn School of Medicine at Mount Sinai, outlined a roadmap for a next-generation 「cognitive brain-computer interface」 in a commentary published in Trends in Cognitive Sciences. Decoding thought is entirely different from decoding movement. Movement is encoded in small, stable brain regions, but the activity underlying attention, memory and emotion is spread across multiple regions and takes place in networks that reorganize from moment to moment. That is why the same signal can mean different things depending on context."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Saez said, 「BCIs have made remarkable progress in restoring movement and speech, and I believe we are at an inflection point,」 adding that a path is opening up to target cognitive function. The review emphasizes that technologies for reading the brain and stimulating it need to be merged into a single closed-loop system."
+        },
+        {
+          "t": "p",
+          "x": "Such a system would need to catch the moment an abnormal brain state appears and respond with precisely tailored adaptive neurostimulation. The necessary pieces, such as intracranial brain recording, adaptive neurostimulation and high-resolution neurochemical sensing, already exist in clinical and research settings. Weaving them into an intelligent closed loop is the next task, and it could open the way to more precise, personalized treatment for serious brain disorders."
+        },
+        {
+          "t": "p",
+          "x": "This shift toward cognition coincides with growing commercial interest. Companies that have led motor and speech BCIs see cognitive applications as the next frontier, since the patient population for depression, anxiety, PTSD and similar conditions is far larger than for paralysis. Dr. Saez noted that moving lab results into approved treatments will require academia, clinics and industry to jointly build the hardware, algorithms and regulatory pathways."
+        }
+      ]
+    },
+    "science/corgigenome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deep learning has changed how scientists predict the activity and function of DNA sequences in the genome. Corgi (Context-aware Regulatory Genomics Inference), developed by the Martin Vingron Bioinformatics Group at the Max Planck Institute for Molecular Genetics, predicts how the genome behaves differently across cell types. The achievement contributes to efforts to virtually simulate cell activity, and has potential applications in basic research and medicine."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-based-tool-allo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cells in the body may look similar, but small genetic variants make each person's genetic makeup different. These variants alter gene expression in cells and draw interest because they can be tied to disease mechanisms or offer clues for personalized treatment. Yet only a handful of these variants turn out to be functionally meaningful."
+        },
+        {
+          "t": "p",
+          "x": "Many existing tools had a fundamental limitation: they could not account for the cellular context that switches genes on and off, so they failed to generalize beyond their training data. Ekin Deniz Aksu, first author of the paper published in Nature Communications, said, 「With Corgi, we have overcome much of this limitation. It properly predicts measurements tied to genome activity, such as gene expression, chromatin accessibility and histone modification.」"
+        },
+        {
+          "t": "p",
+          "x": "Earlier models largely ignored cellular context and relied only on sequence. But DNA does not act alone; it works together with numerous regulatory molecules. That is why the same sequence behaves differently in a neuron than in a liver cell. Aksu explained, 「We integrated large amounts of expression data from regulatory genes to build a structure that is closer to actual cell biology.」"
+        },
+        {
+          "t": "p",
+          "x": "The improved Corgi+ infers epigenetic information from RNA sequencing data. With further refinement, it could fill data gaps in settings where running every experiment directly is difficult, such as rare cells, embryos and small-quantity patient tissue."
+        },
+        {
+          "t": "p",
+          "x": "The researchers hope this approach will also improve virtual cell models. Virtual cells simulate the effects of genetic perturbation at the cell level but do not capture information on DNA activity. Aksu said, 「Going forward, our model could help bridge sequence-to-function models with virtual cells.」 Such systems could also be used to virtually screen drug candidates and to understand how mutations alter cellular processes to cause complex diseases."
+        }
+      ]
+    },
+    "science/quantum-rl-self-calibration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Picture a symphony orchestra playing a complex masterpiece. If the violins drifted out of tune every few bars, the orchestra would have to keep stopping to retune. Fortunately, that never happens with a real orchestra. Yet that's exactly the reality of running a quantum computer today."
+        },
+        {
+          "t": "p",
+          "x": "A quantum computer is, at its core, an analog machine sensitive to drift. To run stably, the frequency, amplitude, and phase of the analog signals that direct the qubits must be constantly readjusted. Today, that can only be done by completely halting the computation. For useful quantum algorithms that need to run for days or months, this is a fundamental bottleneck."
+        },
+        {
+          "t": "p",
+          "x": "In a paper published in Nature, “Reinforcement learning control of quantum error correction,” Google presented a reinforcement learning (RL) framework in which an autonomous agent learns from quantum error detection to steer thousands of control variables in real time. In effect, it found a way to tune the instruments while the performance keeps going."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/RL_for__QEC-2.width-1250.png",
+          "cap": "QEC extending the lifetime of logical information in quantum memory based on the surface code (left) and the color code (right). Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Quantum error correction (QEC) builds a 'logical qubit' out of multiple physical qubits and uses parity checks to turn analog noise into binary error-detection signals. However, this signal only tells you that an error occurred somewhere in a given region of spacetime in the circuit, not its exact location. Neural-network decoders like AlphaQubit and algorithmic decoders like Tesseract estimate where the error occurred to recover the information."
+        },
+        {
+          "t": "p",
+          "x": "Google validated this RL control on its flagship superconducting processor, Willow. In experiments that deliberately introduced artificial drift into the control variables, RL steering boosted the logical stability of the error-correcting code by 3.5 times. Even after careful hand calibration by experts, RL fine-tuning lowered the logical error rate by another 20%."
+        },
+        {
+          "t": "p",
+          "x": "This experiment cut logical errors to record levels, less than once per thousand error-correction cycles for the surface code, and about once per hundred for the color code."
+        },
+        {
+          "t": "p",
+          "x": "In simulations run with hundreds of qubits and tens of thousands of control variables, the number of RL training iterations needed didn't depend on system size. This opens a new path toward quantum computers that keep correcting errors without stopping, and learn on their own."
+        }
+      ]
+    },
+    "science/raygun-protein-redesign": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Duke University School of Medicine have built an AI framework that redesigns proteins on a scale you'd otherwise only see in natural evolution. It produces shorter, longer, or substantially altered variants while keeping the structure and function intact."
+        },
+        {
+          "t": "p",
+          "x": "It's called Raygun. Instead of drawing up a protein from scratch, it broadly reworks existing proteins on top of a protein language model trained on millions of natural protein sequences. The research was published in Nature."
+        },
+        {
+          "t": "p",
+          "x": "“There's a language that governs how a protein's amino acid sequence leads to shape and function, but scientists don't yet fully understand that language,” said co-corresponding author Assistant Professor Rohit Singh. “A protein language model, like a translator, learns patterns from millions of sequences and connects them to biological structure and function.”"
+        },
+        {
+          "t": "p",
+          "x": "Raygun adds a new way of representing proteins on top of this. Rather than treating them only as amino acid chains of varying length, it converts them into a standard formula format that holds the core patterns the AI has learned. Since proteins of any size are expressed in the same format, they can be compared, shortened, or lengthened for redesign."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
+          "cap": "Researchers in a lab at Duke University School of Medicine. Credit: Eamon Queeney / Duke University School of Medicine"
+        },
+        {
+          "t": "p",
+          "x": "Researchers tune Raygun with just two settings. One controls how much the sequence changes, and the other decides whether the protein is made shorter or longer."
+        },
+        {
+          "t": "p",
+          "x": "Across multiple experiments, the AI-designed proteins retained their predicted structural stability and key functional regions. Live-cell experiments confirmed this with fluorescent proteins used for imaging and enzymes that carry out essential cellular tasks, while receptor-binding experiments validated variants of epidermal growth factor (EGF), which is involved in wound healing and tied to signaling pathways linked to cancer."
+        },
+        {
+          "t": "p",
+          "x": "This approach helps researchers design tools for gene therapy, biotechnology, and biomedical research more efficiently. At the same time, it offers new clues about how proteins evolve in nature."
+        }
+      ]
+    },
+    "science/single-sensor-ultrasound-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The IMDEA Materials Institute has introduced an acoustic imaging technique that overcomes a fundamental limitation of technologies like ultrasound imaging. It reconstructs a complete, accurate image using only the signal a single fixed sensor captures in one instant, with no need for an array of multiple sensors or long scan times."
+        },
+        {
+          "t": "p",
+          "x": "Conventional acoustic imaging required either a probe with multiple transducers — that is, a sensor array — capturing signals from different positions at once, or a single sensor taking multiple measurements while moving. “Traditional methods come with considerable complexity, cost, and equipment size,” explained Johan Christensen, principal investigator at IMDEA Materials. “Our new method solves this by packing all of an object's spatial information into the frequency spectrum of a single sound.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
+          "cap": "How a single-signal acoustic image is made using an AI-synthesized frequency codec. Credit: IMDEA Materials Institute"
+        },
+        {
+          "t": "p",
+          "x": "The method, published in Advanced Functional Materials, fires a single broadband ultrasonic pulse at an object. The scattered wave carrying the object's shape information passes through an inexpensive 'disordered medium.' In the experiment, this medium was a sheet of agar embedded with randomly placed steel beads, acting as a physical encoder. Its irregular structure makes the path differ slightly for each frequency component, producing a unique spectral 'fingerprint' that a single sensor captures."
+        },
+        {
+          "t": "p",
+          "x": "To the human eye it's unrecognizable, but this fingerprint contains all the information needed to reconstruct the image. The researchers trained a neural network to act as the decoder. Once trained, the AI interprets the incoming signal and restores an image of the original object in tens of microseconds. In an experiment reconstructing handwritten digits engraved on a metal plate, it achieved up to 98.7% structural similarity with the original."
+        },
+        {
+          "t": "p",
+          "x": "The technology opens the way to ultra-compact, low-cost, real-time acoustic imaging devices. Its applications range widely, from medical diagnostics that image moving organs like a beating heart with much simpler equipment, to industrial non-destructive testing and underwater object detection. The researchers believe the principle is universal enough to extend to 3D imaging or other types of waves. The study was an international collaboration between Nanjing University, Nanjing Forestry University, and Wuhan Polytechnic University (China), together with the IMDEA Materials Institute."
+        }
+      ]
+    },
+    "science/science-ai-scribes-medical-education": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hospitals adopted AI note-writing tools quickly. The rationale was less physician burnout and higher revenue. But medical schools face a different question: should students and trainees use AI scribes that generate clinical notes automatically? A STAT News article covered how schools and hospitals are divided over this question."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-645x645.jpeg",
+          "cap": "Credit: Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Educators' worry is clear. If students stop writing differential diagnoses themselves, the cognitive struggle that builds diagnostic reasoning disappears too. The push to train a workforce comfortable with technology collides head-on with the worry that thinking should not be outsourced while learning habits are still forming."
+        },
+        {
+          "t": "p",
+          "x": "Jaideep Talwalkar, associate dean for educational technology and innovation at Yale School of Medicine, says: “The deliberate process of creating a note forces us to use our heads to wrestle with what's happening right now. There's value in repeating that many, many times.”"
+        },
+        {
+          "t": "p",
+          "x": "For now, schools and hospitals are limiting trainee access while waiting for better research. It is a question every field that automates paperwork will soon face. Building expertise is, in the end, productive struggle — so if a machine takes over that struggle, where does skill grow? (The STAT+ article is for subscribers only; the full text is not public.)"
+        }
+      ]
+    },
+    "science/science-ai-solid-state-synthesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A team at Lawrence Berkeley National Laboratory (Berkeley Lab), under the U.S. Department of Energy, has unveiled an AI modeling technique that quickly and accurately foresees how reactions between solid materials unfold over time. It is the first predictive model to also account for how atoms move through the material as a reaction proceeds. Above all, the prediction translates directly into an optimal recipe for making advanced materials."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg",
+          "cap": "The reaction interface where an A-cation-rich precursor (α) meets a B-cation-rich precursor (β) to form the intermediate phase γ. Credit: Nature Materials (2026). DOI: 10.1038/s41563-026-02596-5"
+        },
+        {
+          "t": "p",
+          "x": "“Thanks to the new model, materials scientists and industry can make promising new materials much faster, with higher purity and yield,” says Kristin Persson, one of the paper's authors. She is a senior scientist at Berkeley Lab and a professor in the materials science and engineering department at UC Berkeley. “This model speeds up how quickly solid materials move toward cheap manufacturing and commercialization. It bridges the gap between materials discovery and new technology.” The study was published in Nature Materials."
+        },
+        {
+          "t": "p",
+          "x": "Next-generation technologies like batteries, sensors and medical devices rely on inorganic solid materials that store energy, emit light and catalyze reactions. AI computational tools have already made it possible to pick out materials with the desired properties. The problem is what comes next. Powder mixing and high-temperature heating, the common way to make inorganic solids, often produce an unexpected jumble of compounds instead of the intended product. Finding the right recipe can take weeks to years of trial and error."
+        },
+        {
+          "t": "p",
+          "x": "Existing computational models forecast outcomes using thermodynamics, weighing which reactions are energetically favorable and which products are stable. “Thermodynamics tells you how much two solids ‘want’ to react with each other,” Persson explains. But the predictions didn't hold up well, because they left out kinetics — how atoms move around while the reaction proceeds. “Atoms in a solid move more slowly than in a liquid, so it's hard for them to reach the reaction site. No matter how much two materials want to react, if enough atoms can't get there, the reaction simply doesn't happen.” That's also why solid-state reactions require heating up to 800°C (1,470°F) — to get atoms moving."
+        },
+        {
+          "t": "p",
+          "x": "On top of thermodynamics, the team added a machine-learning model trained to predict how fast atoms move through a material. The design grew out of the hypothesis that the reaction interface between two solids is extremely disordered. “Picture the chaos of a crowd rushing out of a stadium all at once after a big show ends — that's exactly what the atoms at the reaction site look like.” Fed the starting materials, their ratios and a temperature ramp, the model simulates the reaction from start to finish in minutes, showing intermediate products, final products and even impurities."
+        },
+        {
+          "t": "p",
+          "x": "The test case was barium-titanium oxide, widely used in electronics. “We chose it deliberately because the reaction depends heavily on kinetics. When you heat powders containing barium and titanium, the compounds that newly form have almost identical thermodynamic stability. Since they all equally ‘want’ to form, what decides the outcome is how easily atoms can reach the reaction interface.” The model's simulated results matched decades' worth of synthesis data from the literature. “It was striking that the entire sequence of events — intermediate compounds, final products, even impurity formation — matched up.” The team plans to extend the training to other material families, eventually building a foundation model from a large-scale kinetics dataset."
+        }
+      ]
+    },
+    "science/science-erdos-problems-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On May 20, 2026, OpenAI shook the mathematics world. The announcement was that an undisclosed internal model had found a counterexample to the “unit distance” problem — a conjecture posed in 1946 by the itinerant Hungarian mathematician Paul Erdős. The explanation was simple but mathematically deep, and it was the first AI-derived proof significant enough to make history. On August 1, OpenAI said an undisclosed model called Astra had made ten pieces of progress, including on three Erdős problems."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Erdos-1-cr.Simons-Foundation.webp",
+          "cap": "Paul Erdős, one of the most prolific mathematicians in history. Credit: Photo by George Csicsery from the documentary N is a Number: A Portrait of Paul Erdős ©1993"
+        },
+        {
+          "t": "p",
+          "x": "“This trend is dramatically changing how mathematical research is done,” says Noga Alon of Princeton University, who has solved dozens of Erdős problems over his career. Erdős lived out of a single suitcase, drifting between friends' homes, pouring problems into papers and letters and offering his own money as a prize to whoever solved them first."
+        },
+        {
+          "t": "p",
+          "x": "It started with British mathematician Thomas Bloom. Finding it hard to track what had been solved and what had been forgotten, he gathered the problems and launched erdosproblems.com in early 2023. He wrote the Python code running the site with ChatGPT. Over 2024 and the first eight months of 2025, 111 problems moved from “open” to “solved.” When comments were added in August 2025, a community formed. When Wouter van Doorn, who works at a consulting firm, posted progress he'd made without AI, a user pointed out a flaw — and after the back-and-forth, the one who backed down was Terence Tao of UCLA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Thomas-Bloom-cr.Thomas-Bloom.webp",
+          "cap": "Thomas Bloom's Erdős problems site became a gathering place for the best of mathematics. Then AI showed up. Credit: Courtesy of Thomas Bloom"
+        },
+        {
+          "t": "p",
+          "x": "Kevin Barreto and Liam Price, both in their early twenties, started throwing problems in bulk at the latest models in December. Noticing that GPT-5.2 made little headway when told a problem's answer was unknown, they crafted prompts that “make it believe the problem is easier than it really is.” Problem 728, solved with GPT-5.2 Pro on January 4, 2026, had no prior research behind it."
+        },
+        {
+          "t": "p",
+          "x": "Erdős problems tend to fall first mainly because most belong to number theory, combinatorics and graph theory — areas large language models handle relatively well. Bloom points to a different worry: “A lot of people using AI can't verify the output. It's like, 'AI generated the proof, checked it, and even wrote the paper' — and nobody has read it, and nobody is going to.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Paul-Erdos-with-Terence-Tao-cr-Billy_Grace-Tao-1.webp",
+          "cap": "Terence Tao first met Erdős when he was ten years old. Credit: Billy Grace Tao"
+        },
+        {
+          "t": "p",
+          "x": "In January, a team of 24 researchers led by Google DeepMind used Gemini to sweep through 700 “open” conjectures, solving four problems and recovering nine forgotten solutions. In May, a separate 21-person DeepMind team announced that “our best agent autonomously solved 9 of 353 open problems, at a cost of a few hundred dollars per problem.” Cambridge's Tim Gowers wrote of the OpenAI solution that “if a human had submitted this paper to the Annals of Mathematics, I would have had no hesitation in recommending it for publication.” The original paper simply listed its author as “OpenAI.”"
+        },
+        {
+          "t": "p",
+          "x": "Alon has now stepped back. “Once AI started solving them, it stopped being meaningful,” he says. Tao, too, has withdrawn from the community. Van Doorn still works at his firm: “Someone who wants to play the piano doesn't hire a machine that plays better than they do.” In July 2026, on the very day the Fields Medal winners were announced, Jacob Tsimerman said he was leaving academia to join OpenAI."
+        }
+      ]
+    },
+    "science/ai-telescope-stargazing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Deciding what to observe, when, and in which direction has long been a human job. This study, a collaboration between Northwestern University, the University of Chicago, and Fermilab, handed that judgment to a reinforcement-learning AI."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The AI builds the Dark Energy Camera's observing schedule on its own. As sky conditions and weather shift moment to moment, it revises the plan in real time, moving on to the next observation without a person adjusting it by hand."
+        },
+        {
+          "t": "p",
+          "x": "The researchers say the AI's performance rivals that of an experienced human scheduler. It's a milestone on the road to a self-operating observatory, and a case where AI directly advances observational astronomy."
+        }
+      ]
+    },
+    "science/brain-age-sleep-eeg": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brain-wave recordings taken during sleep carry a full record of brain health. UCSF researchers used machine learning to analyze overnight sleep EEG from about 7,000 adults and estimate each person's 'brain age.'"
+        },
+        {
+          "t": "p",
+          "x": "The key was the gap between this brain age and actual age. People whose brains looked older than their real age later faced a markedly higher risk of dementia."
+        },
+        {
+          "t": "p",
+          "x": "It suggests that ordinary sleep-test data could become an early marker of neurological change. The researchers expect this AI biomarker to offer a lead on spotting dementia ahead of time."
+        }
+      ]
+    },
+    "science/science-ai-cryptography-two-proofs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When someone raises an unsolved problem, people now check first whether GPT can solve it. That's how a long-standing puzzle around unclonable encryption in quantum cryptography got solved. Two research teams, using the same AI model, produced answers side by side within hours of each other."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
+          "cap": "AI pioneer John McCarthy at the blackboard. Today AI has started helping with mathematical proofs"
+        },
+        {
+          "t": "p",
+          "x": "MIT PhD student Seyoon Raghavan assembled the proof by handing the system two-hour chunks of work at a time, checking progress along the way and resetting direction as needed. Prabhanjan Ananth of UC Santa Barbara and Amit Sahai of UCLA used a UCLA-built system that helps the model propose solutions and critique itself. All three used GPT-5.6 Sol Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Ananth and Sahai posted their paper to arXiv at 10:35 a.m. Pacific time, and Raghavan posted his 3 hours and 18 minutes later. Both papers credit GPT-5.6 Sol Ultra for the core idea. The problem was raised in early July at the Simons Institute for the Theory of Computing, and neither paper has gone through peer review yet."
+        },
+        {
+          "t": "p",
+          "x": "“The general vibe now is this,” Ananth said. “When someone states an unsolved problem, the first thing people do is check whether GPT can solve it.” There are also voices worried about access. Broadbent said, “It raises a lot of questions about the haves and have-nots.”"
+        }
+      ]
+    },
+    "science/science-ai-reasoning-wrong-reasons": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Watching a large reasoning model get an answer right has become familiar by now. The unresolved question is whether the model is actually reasoning, or just taking a shortcut that looks like reasoning."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Element-1.webp",
+          "cap": "Illustration: Celsius Pictor for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "The evidence on the skeptical side keeps piling up. Apple researchers' 2025 paper, ‘Illusion of Thinking,’ documented accuracy collapsing wholesale once conditions got only slightly harder. Melanie Mitchell of the Santa Fe Institute concluded that models use surface-level shortcuts on puzzles like ARC-AGI."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Subbarao Kambhampati at Arizona State University found that swapping a correct reasoning process for a wrong or irrelevant one didn't hurt performance. In a 2024 NYU study, meaningless tokens consisting of nothing but periods served the same role as a reasoning chain, and researchers at Northeastern University and UC Berkeley calculated that 30 to 60 percent of reasoning steps had almost no effect on the final answer."
+        },
+        {
+          "t": "p",
+          "x": "The other side points to results of its own. In May 2026, OpenAI solved the long-standing unit-distance problem, and Google DeepMind and Terence Tao used AI to recover or improve answers to 67 problems spanning analysis, combinatorics, geometry, and number theory. Performances at the level of International Mathematical Olympiad gold medals have also appeared."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/07/AI-Reasoning-cr.Celsius-Pictor-Element-6.webp",
+          "cap": "Illustration: Celsius Pictor for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "“A fake theory is worse than admitting you have no theory,” Kambhampati said flatly. Whether the reasoning sentences shown on the surface actually mirror the real computation underneath remains an open question."
+        }
+      ]
+    },
+    "science/science-brain-to-text": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers from Meta AI, Paris's PSL University, and the Adolphe de Rothschild Foundation Hospital unveiled a system that converts brain signals into sentences without surgery. The goal is to help patients who have lost speech to paralysis or language disorders communicate through a computer."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+          "cap": "EEG and MEG record signals while a participant types a sentence, viewing it one word at a time"
+        },
+        {
+          "t": "p",
+          "x": "The core is a three-stage model called Brain2Qwerty. A convolutional module first processes signals in 500-millisecond windows, a transformer module then learns at the sentence level, and a pretrained language model refines the result and corrects errors."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra-1.jpg",
+          "cap": "The three-stage structure of Brain2Qwerty"
+        },
+        {
+          "t": "p",
+          "x": "Researchers had 35 healthy volunteers type out memorized sentences while recording their brain activity throughout. The character error rate averaged 29% with MEG, which measures magnetic fields, and 65% with EEG, which measures electrical signals. The best-performing participant got the rate down to 18%, and in some cases decoded unfamiliar sentences perfectly."
+        },
+        {
+          "t": "p",
+          "x": "Researchers Yarod Levy and Mingfang Zhang cautioned that the work has so far only involved healthy people, and that it would need further refinement before use with actual patients. The team wrote in the paper that “these results narrow the gap between invasive and non-invasive approaches, opening a path toward safe brain-computer interfaces for patients who cannot speak.” The paper was published in the journal Nature Neuroscience."
+        }
+      ]
+    },
+    "science/science-clinical-chatbots-trust": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI chatbots built for clinical settings keep pouring out, but a debate has broken out over whether doctors should trust them. A study NYU Langone Health researchers published in Nature Medicine in June 2026 lit the fuse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
+          "cap": "Large language models enter the clinic (Camille MacMillin/STAT)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers tested general-purpose and medicine-specific models side by side using three sets of clinical questions. OpenEvidence and UpToDate Expert AI were among the specialized models. The result ran against conventional wisdom: models built specifically for medicine actually scored lower than big tech's general-purpose large language models."
+        },
+        {
+          "t": "p",
+          "x": "A Kaiser Permanente vice president wrote on LinkedIn, “I've never seen a single paper shake up the health AI industry this much.”"
+        }
+      ]
+    },
+    "science/science-catalyst-lab-variance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Turning ordinary carbon dioxide into valuable fuel requires quickly figuring out which catalyst holds up the longest and most efficiently. AI models can help with that screening, but just like an internet chatbot, a model is only as good as the data fed into it."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at SLAC National Accelerator Laboratory brought together four labs across the country to test an experimental catalyst that produces carbon monoxide, the first step in converting carbon dioxide into fuel. The results, published in Nature Catalysis, show why highly reproducible experimental data matters when building AI models for scientific research."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/for-ai-to-drive-scienc.jpg",
+          "cap": "The study, conducted across four labs nationwide, shows that standardizing experimental protocols and equipment governs how much results vary. Credit: Adam Hoffman and Greg Stewart/SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"It's a cautionary tale about what information you feed into a machine learning model, and how the consistency of experimental data governs the reliability of the results,\" says Selin Bac, a postdoctoral researcher at UC Santa Barbara and the paper's first author."
+        },
+        {
+          "t": "p",
+          "x": "With a good model, you can feed in conditions like temperature, reaction time, and catalyst composition, get a performance prediction, and confirm it with a handful of well-designed experiments. That speeds up how fast catalysts get discovered and deployed. Beyond saving time and money, it also lets you examine conditions that are hard to recreate in a lab. Catalyst research usually looks at timescales of just days, but catalyst deactivation, which happens as impurities build up and from repeated exposure to high heat, unfolds over months to years."
+        },
+        {
+          "t": "p",
+          "x": "Training an AI model requires large amounts of high-quality data. To generate that data, the four labs ran round-robin experiments using a pre-agreed protocol and the same rhodium-based catalyst, a method where multiple labs run the same test to measure reproducibility."
+        },
+        {
+          "t": "p",
+          "x": "But getting the same result out of four independently working labs turned out to be far harder than expected. When they compared notes, the amounts of carbon monoxide the four teams produced, and of methane, an unwanted byproduct, varied widely. A computer can't learn from four sets of data that don't agree with each other."
+        },
+        {
+          "t": "p",
+          "x": "\"It was an eye-opening experience,\" said Adam Hoffman, a SLAC researcher and the paper's senior author. \"It revealed just how tricky it is in practice to feed real-world data into a machine learning model.\""
+        },
+        {
+          "t": "p",
+          "x": "The team took the method apart piece by piece. The causes of the mismatch narrowed down to a handful of factors, with how vigorously the mixture was shaken or stirred contributing the most to the variance. Once researchers from SLAC, along with Penn State, Stanford, and UC Santa Barbara, standardized the procedure further, the results started lining up. The team put together recommendations for improving consistency in reactor design, operating protocols, and experimental conditions."
+        },
+        {
+          "t": "p",
+          "x": "Hoffman said he hopes the study gets both experimentalists and data scientists thinking about how small design differences between labs can turn into reproducibility problems, and eventually into long-term prediction errors in AI models. \"We hope it serves as a guide for how to design experiments meant to go into a machine learning model.\""
+        }
+      ]
+    },
+    "science/science-medical-ai-expertise-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There's no one-size-fits-all approach to designing AI that helps diagnose disease. A new study by MIT and other researchers found that AI assistance generally raised diagnostic accuracy for skin conditions among both laypeople and clinicians, but the effect of explainability techniques depended on the user's level of knowledge."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-AI-Dermatology-01_0.jpg",
+          "cap": "A clinician reviewing a skin condition image. In the MIT study, laypeople tended to trust the AI's diagnostic advice even when it was wrong, while clinicians caught errors more often. Credit: iStock"
+        },
+        {
+          "t": "p",
+          "x": "Explainable AI shows the reasoning behind a model's judgment, helping users decide when to trust it—whether by highlighting diagnostically important regions of an image as a heatmap, or having a large language model spell out its prediction in plain language. The researchers compared skin-condition diagnoses by laypeople and primary care physicians, with and without these tools."
+        },
+        {
+          "t": "p",
+          "x": "Laypeople's accuracy improved, but mostly because they leaned on the AI. They believed LLM explanations whether right or wrong, and the vaguer and more generic an explanation was, the more persuasive they found it. Clinicians, by contrast, were not swayed by flawed AI assistance, and did best when given predictions alone, without explanations."
+        },
+        {
+          "t": "p",
+          "x": "“Good AI systems can boost performance in some medical settings, but that must be carefully weighed against algorithmic compliance that leads to more errors. Both AI and explanation methods can trigger people's automation bias, and this anchoring effect has to be accounted for when designing these systems,” said Marzyeh Ghassemi, associate professor in MIT's Department of Electrical Engineering and Computer Science and a member of the Institute for Medical Engineering and Science, the Laboratory for Information and Decision Systems, and the Jameel Clinic."
+        },
+        {
+          "t": "p",
+          "x": "Co-author Roxana Daneshjou, assistant professor of biomedical data science and dermatology at Stanford University, noted that patients increasingly turn to AI with health questions, and that people with the least medical knowledge are most easily swayed by explainable AI's wrong outputs."
+        },
+        {
+          "t": "p",
+          "x": "First author Orson Xu, assistant professor of biomedical informatics at Columbia University, believes the gap comes from how explanations are used. Clinicians already have a diagnosis in mind and check the AI against their own training, so sloppy explanations get filtered out. Laypeople form their first judgment from the same explanation, so confident, plausible-sounding reasoning can pull them toward the wrong answer. The same tool becomes an asset for one group and a liability for the other."
+        },
+        {
+          "t": "p",
+          "x": "The experiment compared four approaches: giving only a prediction and confidence score with no explanation, showing similar images alongside, marking important regions with a heatmap, and having an LLM spell out its reasoning in words. Laypeople judged whether a mole was cancerous, while clinicians handled harder differential diagnoses. All four approaches raised laypeople's accuracy, mainly by helping them rule out benign moles. A model fitted with fairness constraints to reduce bias against darker skin tones substantially improved accuracy and narrowed the diagnostic gap across skin tones."
+        },
+        {
+          "t": "p",
+          "x": "Users most compliant with AI performed worst when working without it. The more explanations were shown upfront, the greater that compliance became. AI outperformed humans when symptoms were subtle, but humans did far better on images with atypical or irrelevant features. The researchers believe it would be better to have users propose their own diagnostic hypothesis first, then add the AI's suggestion to surface other possibilities, rather than making LLM explanations longer. The study was published in Nature Medicine."
+        }
+      ]
+    },
+    "science/science-olmoearth-planetary-inference": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OlmoEarth is a family of Earth-observation foundation models from Ai2, pretrained on roughly 10 terabytes of multimodal satellite data. Governments, NGOs, and other organizations are already using it for deforestation monitoring, food security, and wildfire-risk prediction."
+        },
+        {
+          "t": "p",
+          "x": "If your engineering team is solid, the released models alone are enough. The problem is that most environmental organizations best positioned to use these models lack the infrastructure to cover the full cycle, from data labeling through fine-tuning to large-scale inference. That's why Ai2, which has run Skylight and EarthRanger for more than a decade, built the OlmoEarth platform—infrastructure that connects fine-tuning and evaluation all the way to large-scale inference."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1784901152-olmoearth-engineering-blog-inference-google-docs-image-1.png",
+          "cap": "An example of continent-scale output — a wildfire-risk map covering all of North America"
+        },
+        {
+          "t": "p",
+          "x": "Today the platform finishes inference over continent-scale areas in roughly a day. It processes tens of terabytes of imagery while costs run at a fraction of a cent per square kilometer."
+        },
+        {
+          "t": "p",
+          "x": "Satellite inference operates at a different scale than ordinary machine learning. Fine-tuning a single foundation model alone moves terabytes of data and takes hours. Inputs span multiple spectral bands, sensors, and time points; projections and resolutions vary by provider; and some observations are cloud-obscured or missing outright. Because the output itself is a map, every prediction must align precisely with the same projection and coordinate grid as its neighbors."
+        },
+        {
+          "t": "p",
+          "x": "What actually eats up the time isn't the model but data preparation. So the work is split into three stages: a CPU stage that ingests imagery, aligns projections, normalizes it, and writes it in a fast-reading format; a GPU stage that runs the forward pass and streams results straight to storage; and another CPU stage that stitches together window-level outputs and exports them as Zarr, GeoTIFF, or GeoJSON."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1784901476-olmoearth-engineering-blog-inference-google-docs-image-4.png",
+          "cap": "Three-stage inference — CPU data ingestion (I/O-intensive), GPU inference, CPU post-processing"
+        },
+        {
+          "t": "p",
+          "x": "The execution layer, OlmoEarth Run, splits the work area into machine-sized partitions, and splits each partition again into windows the model can process. A state-sized job might mean a few hundred partitions; a continent-scale one means thousands. Because windows are independent, they can run simultaneously across thousands of machines, and adjacent partitions overlap slightly so the seams disappear when they're stitched back together."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1784901521-olmoearth-engineering-blog-inference-google-docs-image-5.png",
+          "cap": "Two-level splitting — a single request is divided into machine-sized partitions, and each worker further splits them into model-sized windows for parallel processing."
+        },
+        {
+          "t": "p",
+          "x": "A recent wildfire-risk map covering all of North America used up to about 19,600 CPUs and 994 GPUs running in parallel, with network throughput exceeding 168GB/s. A computation that would take 4,737 hours run serially was completed in 30.5 hours—a 155x speedup. Scaling isn't unlimited, of course: more workers hit cloud quota limits, and output resolution trades off against data volume, model size against GPU time, and raw-imagery caching against storage space."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1784901325-olmoearth-engineering-blog-inference-google-docs-image-2.png",
+          "cap": "Continent-scale inference by the numbers — 22.2 million km², $0.000164 per square kilometer, 4,737 serial hours cut to 30.5 hours, a 155x speedup"
+        },
+        {
+          "t": "p",
+          "x": "Choosing which satellite scenes to feed in is no small task either. For optical imagery like Sentinel-2, the least cloudy scene is best; for synthetic aperture radar, polarization channels can matter more. On top of that, a single large job firing off thousands of metadata queries at once can overwhelm the STAC APIs of ESA or Microsoft Planetary Computer. So the platform keeps its own metadata index, refreshed every time new imagery arrives. At run time, it reads only the bytes it needs for a given area from cloud-optimized formats like COG or Zarr."
+        },
+        {
+          "t": "p",
+          "x": "Failure is treated as the default. Every task is re-entrant and idempotent, so if a provider is slow, a band is missing, or a task dies, it simply reruns. Planned work includes scheduled and triggered runs, change alerts for deforestation or flooding, agentic interfaces, faster models, additional modalities such as ERA-5 weather data, and precomputed global embeddings."
+        }
+      ]
+    },
+    "science/science-one-chain-of-evidence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large language models have moved well beyond coding assistance to running entire research pipelines on their own. Systems like Sakana's AI-Scientist, AutoResearchClaw, DeepScientist, and AI-Researcher read the literature, form hypotheses, run experiments, and produce papers comparable to human-written work. As apparent quality rose, a different problem surfaced: verifiability. Because text is stitched together step by step, errors that creep in partway through get amplified unchanged. The result: citations that don't exist, code that contradicts the text's own description, and scores that can't be reproduced from the code."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
+          "cap": "The Science One pipeline — a problem investigator grounds the literature in PDFs, an exploration module generates and evaluates solutions, and a writing-and-verification module checks every claim against the evidence"
+        },
+        {
+          "t": "p",
+          "x": "Google Research's answer is Chain-of-Evidence (CoE), a framework that defines the properties a research artifact must have, much as ACID defines the trust conditions for a database transaction. The principle is singular: every claim in a paper must carry a recorded chain of evidence (completeness), and that chain must actually support the claim it's attached to (accuracy). A hallucinated citation points to a paper that doesn't exist, an irreproducible score disappears when the code is rerun, and a misdescribed method means the text and the code describe different algorithms. All three are claims whose chain to the evidence is broken."
+        },
+        {
+          "t": "p",
+          "x": "The Science One framework is a prototype built around this idea from the ground up. The problem investigator builds a citation graph through the Semantic Scholar API and reads up to 100 full-text PDFs per topic to write a research brief; every reference in the final paper comes from these calls, with no reliance on model memory. The exploration engine runs multiple branches in parallel, with a solver implementing solutions and task-specific evaluators scoring them, and the evaluators' raw output is kept as a read-only record. Before drafting a sentence, the paper writer tags every factual claim with an evidence tag pointing to a specific artifact in the workspace, and a separate claim verifier checks them one by one. Claims that run ahead of the evidence aren't deleted but conservatively rewritten."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-2.jpg",
+          "cap": "The CoE audit system and its four integrity checks"
+        },
+        {
+          "t": "p",
+          "x": "A CoE audit is a post-hoc verification procedure. It compares scores extracted from the paper against an independent rerun of the submitted code, checks whether the code exploits the evaluation metric or reads the answer file directly, verifies every reference one by one through scholarly APIs, and uses an LLM-judge comparison to check whether the described method and the code describe the same algorithm. The researchers applied this audit to 75 papers produced by five systems across five system-optimization tasks on the ADRS benchmark (Prism, Cloudcast, EPLB, LLM-SQL, and transaction scheduling)."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-3-Final.png",
+          "cap": "CoE audit results across five systems"
+        },
+        {
+          "t": "p",
+          "x": "Science One led on all four measures. It had zero ghost citations—every reference pointed to a paper that could actually be found—compared with baselines whose hallucinated-citation rate reached as high as 21%. Score verification was perfect, and it also had the highest method-code consistency. Baselines often described elaborate algorithms such as a “hybrid neuro-symbolic solver,” only to submit code that turned out to be a simple deterministic heuristic."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-4-Final.png",
+          "cap": "Solver performance compared across five MLE-Bench tasks and Parameter Golf"
+        },
+        {
+          "t": "p",
+          "x": "Strict verification didn't come at the cost of performance either. On the five ADRS tasks, it matched or exceeded human-expert level, ranking first overall on Cloudcast and EPLB. On five demanding Kaggle competitions in MLE-Bench, it won two gold and two silver medals, and posted a winning score on 3D object detection, a task where every baseline failed. In the real-world Parameter-Golf competition, which imposes hardware and file-size constraints, it kept every constraint while other systems couldn't even produce a valid submission, recording the top score as of April 27, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The researchers' conclusion is that verifiability should be treated as a first-class architectural constraint. Rather than tracing evidence back after a claim is made, the chain of evidence is built alongside the claim the moment it's formed. Science One remains an experimental research prototype, not a product."
+        }
+      ]
+    },
+    "science/science-ai-skill-atrophy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI writes college essays, plans meals, and drafts emails. Some see it as a tool that saves time; others worry that offloading thinking to a computer dulls the ability to think for yourself."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/073126_MR_ailearning_main.jpg",
+          "cap": "Scientists say leaning on AI too much wears down skills you've already learned. Keeping or acquiring a skill means keeping the brain in the loop. Credit: exdez/DigitalVision Vectors/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The truth lies somewhere in between, says Trent Cash, a behavioral scientist at the University of Waterloo in Canada. Skills you've already learned really do dull when AI takes over for you. That's the argument Cash and colleagues made July 9 in Trends in Cognitive Sciences. “The evidence that handing a specific skill to AI makes it hard to hold on to that skill is very clear.”"
+        },
+        {
+          "t": "p",
+          "x": "The fork in the road comes down to which tool is used and how. Skill erodes most when AI takes over the mental effort needed to learn the skill in the first place. By contrast, when people keep thinking while looking at AI feedback or examples, skill is preserved, and sometimes improves."
+        },
+        {
+          "t": "p",
+          "x": "In a 2025 study, doctors trained to spot polyps during colonoscopies saw their polyp detection rate drop after working without the AI tool following three months of using it. The paper's authors concluded the doctors had “somewhat forgotten what to look for.”"
+        },
+        {
+          "t": "p",
+          "x": "For high schoolers learning a new math concept, a tool like ChatGPT solves practice problems well. But once the tool was taken away, their scores were lower than those of students who had never used the tool at all. That's what a team led by Alp Sungu, an economist at the University of Pennsylvania's Wharton School, reported in the Proceedings of the National Academy of Sciences."
+        },
+        {
+          "t": "p",
+          "x": "Reading comprehension showed a similar pattern. In a preprint posted to arXiv.org in April by a team led by Grace Liu of Carnegie Mellon University, people who used an AI assistant to work through SAT practice problems struggled to produce correct answers once the AI disappeared, and skipped questions at a higher rate."
+        },
+        {
+          "t": "p",
+          "x": "Cash sums up these findings in one line: “use it or lose it.” Stay in the cognitive loop rather than handing all the thinking to AI. “If you don't engage with the cognitive effort, the skill doesn't get learned.”"
+        },
+        {
+          "t": "p",
+          "x": "Using AI doesn't necessarily wreck your skills. It's a different story if the tool offers guidance and examples instead of spitting out finished answers, Sungu says. Sungu's team in fact designed a separate AI that gave hints and encouragement without revealing answers, and high schoolers who used it learned new math concepts just as well as students who studied from books. “You have to get your hands dirty when solving problems.”"
+        },
+        {
+          "t": "p",
+          "x": "For someone willing to put in the effort, AI can be a good teacher, says Benjamin Lira Luttges, a behavioral scientist at Wharton. When teaching people how to revise personal statements, the AI tool was as effective as expert feedback. Even when AI rewrote a draft wholesale, participants didn't submit it right away; they kept tweaking sentences for a long while. “They were still doing the work.” The findings appear in a 2026 arxiv.org preprint."
+        },
+        {
+          "t": "p",
+          "x": "Even AI that sharpens skill still requires weighing what to hand over. Cash's advice is not to hand off a skill you care about to AI. “We know that skill comes from practice and is maintained through practice.” Lira Luttges agrees. “Don't outsource work that's enjoyable and meaningful to you. What you should outsource is drudgery, not craft.”"
+        }
+      ]
+    },
+    "science/science-hidden-goals-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The large language models (LLMs) behind conversational agents like Gemini or ChatGPT are now widely used for information retrieval, document summarization, and writing. Going a step further, multi-agent systems that combine two or more models to cooperate or compete with each other are also on the rise."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that agents don't always see the same goal. The amount of information each holds also differs. Understanding how agents behave in this situation is needed to gauge the benefits and risks of multi-agent systems."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Mila, Université de Montréal and McGill University examined how an individual agent's hidden goal shakes up the performance of the whole system. They chose the multiplayer social deduction game Mafia (Werewolf) as the experimental stage. The result, released as an arXiv preprint, was this: even a small misalignment with teammates' goals can degrade the performance of an entire multi-agent system."
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/hidden-goals-can-under.jpg",
+          "cap": "Image created with ChatGPT. Credit: created with ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Mafia is a game in which players observe each other and debate to secretly identify who is working for the opposing side. “LLM-based multi-agent systems are increasingly deployed in mixed-motive environments where conflicting or hidden goals create information asymmetry and strategic deception.” That's the sentence written by researchers including Marylou Fauchard and Florian Carichon. They presented “a new framework for evaluating goal misalignment using the social deduction game Mafia.”"
+        },
+        {
+          "t": "p",
+          "x": "In the game, each participant knows only their own role. The majority, the villagers, must find and eliminate the werewolves, while the minority, the werewolves, know each other's identities and must eliminate villagers without being discovered. The seer secretly checks another participant's role each turn, and the doctor saves one person from death. Each night the werewolves eliminate one person, and during the day the remaining players vote to point out a suspect."
+        },
+        {
+          "t": "p",
+          "x": "The researchers assigned agents to the four roles and watched how they interacted. They then secretly changed the goal of just one agent and tracked how that change shook up reasoning, dialogue, and game outcomes. They examined the agents' internal reasoning, the cheap talk exchanged outwardly, and win-loss results side by side across multiple models, roles, and goal settings."
+        },
+        {
+          "t": "p",
+          "x": "“Goal misalignment degrades outcomes even in originally adversarial environments, and information asymmetry and specialized roles amplify this effect.” The researchers added that agents with changed goals consistently develop distinct reasoning strategies, but “these adaptations are barely visible in public behavior.”"
+        },
+        {
+          "t": "p",
+          "x": "When the goals of agents working together are misaligned, the performance of the whole system is shaken. There's a more troubling point. The changed goal leaves a clear trace in internal reasoning, but it is rarely legible in the words exchanged with other agents."
+        },
+        {
+          "t": "p",
+          "x": "“Even very subtle goal misalignment substantially disrupts collective decision-making. This is why LLM-based multi-agent systems need effective mitigation strategies.” That's how the paper concludes. Citation: Marylou Fauchard et al, Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems, arXiv (2026). DOI: 10.48550/arxiv.2607.26120."
+        }
+      ]
+    },
+    "science/science-jacobian-counterexample": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic mathematician Levent Alpöge used Claude Fable 5 to find a counterexample to the Jacobian conjecture, a problem that had gone unsolved for more than 100 years. The counterexample revealed that the conjecture is false in three dimensions and higher, leaving only the two-dimensional case still open."
+        },
+        {
+          "t": "p",
+          "x": "The announcement was nothing more than a single “very casual note” posted on X. It came from using the newly released Claude Fable 5. It's also the latest case among a string of striking results mathematicians have produced together with large language models."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp",
+          "cap": "An AI-assisted discovery overturned most versions of the Jacobian conjecture. The counterexample is short enough to fit in a single social media post. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "The Jacobian conjecture concerns polynomial functions that move coordinates in space to other coordinates. It holds that if a function's Jacobian determinant stays a nonzero constant, there must be a polynomial function that reverses it. If a function merges distinct points into one, the path back disappears."
+        },
+        {
+          "t": "p",
+          "x": "The two-dimensional version was put forward in 1884 by Ludwig Kraus and extended to all dimensions in 1939 by Ott-Heinrich Keller. Fields Medalist Stephen Smale put the problem on his 1998 list of “Mathematical Problems for the Next Century.” Well-known mathematicians offered proofs several times, but tiny errors were hiding inside them. The two-dimensional case had only been checked by computation up to degree 100, with no general proof."
+        },
+        {
+          "t": "p",
+          "x": "Finding a counterexample seemed, in theory, not difficult, yet it remained elusive for a long time. In 2017, a user on Math Stack Exchange wrote that “a clever undergraduate could just write down a formula that's a counterexample to this conjecture.” Alpöge's function operates in three dimensions, with a Jacobian determinant that stays constant at -2. Since different inputs land on the same output, it cannot be reversed. The solution was short enough to fit in a single X post, and other mathematicians could verify it right away."
+        },
+        {
+          "t": "p",
+          "x": "Recent AI-assisted results don't stop here. OpenAI's disproof of the unit-distance conjecture and Liam Price's proof of Erdős problem 1196 followed in succession. AI excels at weaving together ideas from different fields of mathematics. Where earlier results demanded elaborate constructions, this one involved combing through a vast search space of possible polynomial maps. AI proves its worth not only in building proofs but also in finding unexpected mathematical objects. The author is Melissa Lee, senior lecturer in the mathematics department at Monash University."
+        }
+      ]
+    },
+    "science/science-stroke-rehab-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stroke strikes 15 million people worldwide every year, leaving 5 million of them with lasting disability. Physical therapists are in short supply, making it harder for patients to get consistent, quality care."
+        },
+        {
+          "t": "p",
+          "x": "Researchers in MIT's Department of Mechanical Engineering built a system that links artificial intelligence with therapy practice. Johannes Lachner and Noah Geiger implemented a two-armed robot by attaching real-time force feedback to a transformer-based diffusion model. Lachner is now an assistant professor at Purdue University and previously an MIT-Novo Nordisk AI postdoctoral fellow. Geiger was a visiting student at MIT and is a trainee in Robert Bosch GmbH's junior manager program."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202508/mit-Lachner-Hogan-Lab.jpg",
+          "cap": "Noah Geiger (left) and Johannes Lachner. The pair built a robotic therapy system that learns from physical therapists to help stroke patients in a customized way. Photo: Tony Pulsone/MechE"
+        },
+        {
+          "t": "p",
+          "x": "“Our goal is to teach robots how to assist with physical and occupational therapy. We're not trying to replace therapists, but to extend their reach.” Lachner's words. Geiger added this: “Most generative AI models in robotics focus on motion. Our model is among the early examples that learn how to respond to physical interaction — that is, contact, force, and resistance.”"
+        },
+        {
+          "t": "video",
+          "yt": "AopwOd02GPs"
+        },
+        {
+          "t": "p",
+          "x": "The training data came from real teleoperation experiments. Healthy participants repeated rehabilitation movements such as lifting an arm and reaching out of plane, varying the strength of the force. “That let the model learn how the robot's assistance should change depending on how much the patient moves on their own. At the same time, as people taught the robot contact-rich manipulation tasks through teleoperation, they created a 'physical parkour of motion.'” Lachner's explanation."
+        },
+        {
+          "t": "p",
+          "x": "The research has already moved into clinical settings. Together with Professor Cristina Piazza of the Technical University of Munich (TUM) and Pfennigparade, an outpatient rehabilitation center in Munich, Germany, they are recording physical and occupational therapists treating patients while wearing force-sensing gloves. “We've already confirmed in early robot experiments that this approach works.” Lachner's words."
+        },
+        {
+          "t": "p",
+          "x": "This result builds on earlier work from MIT's Newman Laboratory for Biomechanics and Human Rehabilitation. Neville Hogan, Sun Jae Professor of Mechanical Engineering, who leads the lab, said, “Earlier research was confined to reaching movements on a plane. This research extends to much broader movements that are closer to real life.” It can be used by stroke patients with upper-limb impairment, patients regaining range of motion after surgery, and older adults looking to preserve arm and shoulder strength."
+        },
+        {
+          "t": "p",
+          "x": "“Going forward, this can go far beyond physical therapy — to teaching robots how to physically engage with the world, like in industrial settings or collaborative workspaces.” Lachner's words. The paper “Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks” was published in IEEE Transactions on Robotics. The research was supported by the MIT-Novo Nordisk AI postdoctoral fellowship program, the TUM Global Program, and Germany's KUKA Robotics."
+        }
+      ]
+    },
+    "science/science-weathernext-cyclone": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tropical cyclones have killed more than 700,000 people over the past 50 years and left $1.4 trillion in economic losses. Google DeepMind's WeatherNext was more accurate than any model yet produced at predicting a cyclone's track, intensity, and wind structure. The research was published in Nature."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/3BMNDD6KsweyeknlgRFzv4YGRpwQsVyHMAoWStS_AVk1AFjAKHWNNIdPx1C4r3jjUVRZzk0XzQrReViFE9Af824sc-ttQTU1afHB5aLvNGEYX8QRtw=w1440-h810-n-nu",
+          "cap": "A projected track for a cyclone heading toward the southeastern United States. Yellow and orange concentric circles show the path and intensity. Credit: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "“Our three-day forecast matches what previous models could only offer two days out.” That amounts to roughly a decade's worth of progress in weather forecasting technology."
+        },
+        {
+          "t": "p",
+          "x": "During the 2025 hurricane season, WeatherNext assisted forecasts from the U.S. National Hurricane Center (NHC). It was behind the call that Hurricane Melissa would rapidly intensify and make landfall in Jamaica. It now generates 1,000 scenarios for each cyclone and places them in front of forecasters."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/KVYBfGrBNy54BoGq/WeatherNext-Cyclones__figure-2_light.svg",
+          "cap": "WeatherNext's cyclone forecasting workflow. It produces a four-day projected track, wind intensity, and probability maps for tropical storm, strong tropical storm, and category 1 cyclone winds. Credit: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "Forecasting models typically trade one thing for another: nail the track and you miss the intensity, nail the intensity and the track wobbles. WeatherNext escaped that trade-off by predicting track, intensity, and wind structure all at once with a single model. It used FGN (Functional Generative Networks) for ensemble prediction. Training combined nearly 20 terabytes of global atmospheric data with the IBTrACS record, which contains about 5,000 storms."
+        },
+        {
+          "t": "p",
+          "x": "Its resolution is 28×28km, 100 times coarser than traditional models. WeatherNext 2-mini holds up even at 111×111km. Why it performs well despite such coarse resolution remains an open question. A single 15-day forecast takes under a minute on one TPU, and the number of ensemble members grew this year from 50 to 1,000."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/KVYBfGrBNy54BoGq/WeatherNext-Cyclones__figure-3_light.svg",
+          "cap": "A year-by-year comparison of three-day forecast error. WeatherNext Cyclones shows lower position error than ENS from 2023-2025 (about 100km) and lower intensity error than HWRF (about 11kt). Credit: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind released WeatherNext 2 and WeatherNext Cyclones on GitHub, meant for academic research, real-world forecasting operations, and the development of regionally tailored models. The research was a collaboration between Google Research, the National Hurricane Center, the Cooperative Institute for Research in the Atmosphere (CIRA), and the UK Met Office. It also noted that official forecasts and warnings should still follow each country's weather authority."
+        }
+      ]
+    },
+    "science/science-ai-designed-phage-genome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Stanford University and the nonprofit AI and biology research institute Arc Institute built new viruses using the real genome of bacteriophage ΦX174, a virus that kills bacteria, as the starting template."
+        },
+        {
+          "t": "p",
+          "x": "Two large language models trained on the genomes of more than 2 million other bacteriophages produced viruses that don't exist in nature. In a paper published in the journal Science, the researchers showed that these viruses even kill antibiotic-resistant bacteria."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/36acacc1-14fe-4ca9-9d20-ed0922585e9a/AI-virus.png?m=1786120719.905&w=600",
+          "cap": "Stanford University's Brian Hie and Aditi Merchant examine a protein structure produced by Evo 2, an AI tool that proposes genome designs. Evo 2's output, designed to kill E. coli, exceeded expectations in experiments."
+        },
+        {
+          "t": "p",
+          "x": "\"This time, we wanted the model to write the entire genome from left to right in one go,\" said Brian Hie, a paper co-author and assistant professor at Stanford, in a statement. \"We didn't add anything.\""
+        },
+        {
+          "t": "p",
+          "x": "Designing a new gene on its own isn't new. The hard part is a whole genome that actually works. Genes are intertwined, so their cascading effects have to line up for the whole thing to function as one body. A single mutation can throw off the balance and kill the whole thing. A simple viral genome is a tiny fraction of the size of a human genome, but it's still formidably complex."
+        },
+        {
+          "t": "p",
+          "x": "The model produced thousands of phage genomes, and the researchers chemically synthesized nearly 300 of them. Of those, 16 survived and killed specific strains of Escherichia coli. That included strains that had mutated to resist the original ΦX174 genome."
+        },
+        {
+          "t": "p",
+          "x": "The push behind the research is the rise of drug-resistant bacteria. According to the US Centers for Disease Control and Prevention (CDC), the US sees more than 2.8 million antimicrobial-resistant infections every year, killing an average of more than 35,000 people. A drug based on the 16 phages would be better at fighting resistant strains, Hie said."
+        },
+        {
+          "t": "p",
+          "x": "\"If bacteria become resistant to one phage, that drug is done,\" he said. \"If you mix in several genetically different phages, it becomes much harder for bacteria to become resistant to the whole cocktail.\""
+        },
+        {
+          "t": "p",
+          "x": "The usefulness against microbial disease is huge, but so are the risks. In a piece also published in Science, Johns Hopkins public health researchers Thomas Inglesby and Moritz Hanke noted that the model in this experiment deliberately excluded genome data from viruses that infect and kill humans during training. Not everyone will be as careful and ethical, the two point out."
+        },
+        {
+          "t": "p",
+          "x": "\"This safeguard is commendable, but fine-tuning the model on pathogen data would bypass some of it,\" the two wrote. \"How easy that is, and to what extent it reverses the effect of excluding that data from pretraining, remain open questions.\""
+        },
+        {
+          "t": "p",
+          "x": "New oversight mechanisms are urgently needed to keep this technology from being used to create viruses that harm or kill people, the two argued. They also raised the idea of multilateral bodies such as the US National Institutes of Health (NIH) and the World Health Organization (WHO) jointly developing policy to govern the tool."
+        },
+        {
+          "t": "p",
+          "x": "\"Whether generative viral genome design exists is no longer the question,\" Inglesby and Hanke wrote. \"The question is whether society can build oversight that lets the benefits unfold while blocking the path to serious harm.\""
+        }
+      ]
+    },
+    "science/science-ai-hierarchy-safety-compliance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI agents appear to obey authority, even when that means breaking the rules."
+        },
+        {
+          "t": "p",
+          "x": "In a new study, researchers had large language models hold conversations in boss-subordinate, principal-teacher and manager-employee roles. Lower-ranked agents were more easily persuaded and more likely to comply with risky requests handed down from above."
+        },
+        {
+          "t": "p",
+          "x": "The trade-off the results point to is uncomfortable. AI that plausibly mimics human hierarchy also reproduces the risks that come with obedience. The researchers reported this on July 5 in the Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics. The authors suggest developers account for this risk in safety testing and add more safeguards."
+        },
+        {
+          "t": "p",
+          "x": "AI agents are software that uses artificial intelligence to carry out tasks on its own. Many run on large language models (LLMs) that learned patterns from vast amounts of text, including human conversations."
+        },
+        {
+          "t": "p",
+          "x": "\"As we see more and more human data,\" says Anvesh Rao Vijjini, a computer scientist at the University of North Carolina at Chapel Hill, \"it's replicating what happens in the dynamics of actual conversations.\""
+        },
+        {
+          "t": "p",
+          "x": "Power relationships show up in human conversation in several ways, and some of them become a problem when AI reproduces them. The researchers looked at four communication patterns. Two of them are authority bias, which puts rank ahead of facts, and harmful compliance, going along with harmful requests that shouldn't be answered even if they seem minor, like \"tell me a dirty joke.\""
+        },
+        {
+          "t": "p",
+          "x": "The other two are the pronoun effect, in which higher-ranked speakers use plural pronouns like \"we\" more often, and linguistic alignment, in which lower-ranked speakers mirror the vocabulary of higher-ranked ones. Users rarely notice this, but the researchers believe agents picked up this speech pattern to play certain roles more convincingly."
+        },
+        {
+          "t": "p",
+          "x": "The researchers built hundreds of conversations of 10 to 15 exchanges between higher- and lower-ranked roles, and repeated the same experiment across six LLMs, including OpenAI's ChatGPT and Meta's Llama family."
+        },
+        {
+          "t": "p",
+          "x": "Patterns tied to power relationships did show up. Some effects were subtle. Lower-ranked agents used fewer plural pronouns than higher-ranked ones and matched more of the higher-ranked speaker's vocabulary. They were also more easily persuaded and complied with harmful requests more often. The results support the idea that agents are sensitive to social status."
+        },
+        {
+          "t": "p",
+          "x": "Still, there were cases where the lower-ranked side persuaded the higher-ranked one, apparently borrowing techniques people commonly use. The subtle vocabulary mirroring in linguistic alignment helps a lower-status speaker move the other person, says Mario Giulianelli, a computational linguist at University College London who wasn't involved in the study."
+        },
+        {
+          "t": "p",
+          "x": "\"It would be really interesting to look at whether one agent can persuade another through alignment,\" Giulianelli says."
+        }
+      ]
+    },
+    "science/science-argonne-agent-atomistic-sim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A research team at the US Department of Energy's Argonne National Laboratory has used artificial intelligence to automate simulations that predict how atoms in a material interact with one another. This method, called atomistic simulation, speeds up the search for new materials in batteries, aerospace and electronics. The study was published in the journal Digital Discovery."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-automate-ato.jpg",
+          "cap": "The system built by the Argonne team automates atomistic simulations from start to finish using multiple AI agents. A supervisor agent directs the overall workflow and divides the work among specialized agents. Credit: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"Automating this kind of exhaustive search cuts the time it takes to find new materials from months or years down to days,\" said Aditya Koneru, a paper author affiliated with Argonne's Leadership Computing Facility (ALCF)."
+        },
+        {
+          "t": "p",
+          "x": "\"Our system lowers the barrier to atomistic simulation so the wider scientific community can use it much more broadly,\" said co-senior author Subramanian Sankaranarayanan, a materials scientist at Argonne and a professor of mechanical and industrial engineering at the University of Illinois Chicago. Argonne's Center for Nanoscale Materials (CNM) and the ALCF also contributed to the research."
+        },
+        {
+          "t": "p",
+          "x": "Scientists use these simulations to see how atomic behavior shapes material properties such as strength or reactivity. The problem is that they're hard to handle without computational expertise. Researchers have to manually string together, in a fixed order, a patchwork of tools that build molecular and crystal structures, run simulations and analyze results. Exploring materials means running such simulations dozens or hundreds of times while sweeping through variables. \"Manual atomistic simulation is complex, time-consuming and error-prone,\" Sankaranarayanan said."
+        },
+        {
+          "t": "p",
+          "x": "The framework the team built runs simulations automatically from start to finish. It's a structure in which agents that handle tasks, interpret data and make decisions collaborate with minimal human involvement. Researchers from the Advanced Photon Source (APS), another Argonne user facility, also took part in the design. \"This multi-agent framework weaves together a variety of tools to make the process of running and analyzing simulations seamless,\" said Katerina Vriza, a former researcher at Argonne's CNM."
+        },
+        {
+          "t": "p",
+          "x": "Using it is simple. A person enters a short instruction such as \"calculate the melting point of a gold-copper alloy,\" and a detailed answer comes back within minutes. The instruction goes to a supervisor agent, which divides the work among specialized agents: defining atomic arrangements, searching papers and databases for the right mathematical model, building input files, submitting jobs to a high-performance computer, and calculating and analyzing properties. The agents sometimes ask the person follow-up questions."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-deploy-ai-a-2.jpg",
+          "cap": "Scientists deployed agents to speed up the discovery of new materials. Credit: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"Our approach reduces a classic bottleneck in the atomistic simulation pipeline,\" said Argonne researcher Henry Chan. \"That lets researchers greatly increase their throughput and scale.\""
+        },
+        {
+          "t": "p",
+          "x": "The team used the framework to calculate the crystal structure, elastic behavior and vibrational behavior of several elements and alloys. The simulations ran on Carbon, CNM's high-performance computing cluster, and the results came out fairly close to manual simulations run by experts at NERSC, Lawrence Berkeley National Laboratory."
+        },
+        {
+          "t": "p",
+          "x": "The framework is open for anyone to use. It can be used as is, adapted for other classes of materials, or potentially used to run autonomous robotic laboratories. \"This multi-agent framework means the discovery pipeline is changing from the ground up,\" said co-first author Uma Kornu, a researcher at the University of Illinois Chicago. \"We're moving from manually stitching together fragmented tools to an era of autonomously collaborating AI.\""
+        }
+      ]
+    },
+    "science/science-claude-novel-cryptanalysis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An AI found new weaknesses in two cryptographic systems. One is a simplified version of the Advanced Encryption Standard (AES), which underpins today's internet. No passwords or bank accounts are at immediate risk. But experts say it could mark the start of an era in which AI becomes a capable assistant at finding flaws in the mathematical foundations of digital security."
+        },
+        {
+          "t": "p",
+          "x": "In a July 28 blog post, Anthropic's Frontier Red Team said Claude Mythos Preview devised new cryptanalysis techniques on its own against two targets. One was a version of AES-128, a widely used encryption algorithm. The other was HAWK, a quantum-resistant digital signature scheme under review in the US National Institute of Standards and Technology's (NIST) post-quantum cryptography standardization process."
+        },
+        {
+          "t": "p",
+          "x": "What Anthropic attacked wasn't the full AES-128 that protects websites and financial transactions, but a 7-round reduced version that cryptographers have long used to test new techniques. Full AES-128 runs 10 rounds. In a self-published study that hasn't been peer-reviewed, Milad Nasr and Nicholas Carlini wrote that Claude found a faster way to recover the key in this reduced version, making it 200 to 800 times faster than the best existing attack. The technique doesn't work against real, full-strength AES."
+        },
+        {
+          "t": "p",
+          "x": "The more significant result may be the one on HAWK. Unlike AES, which has protected data for more than 20 years, HAWK is a new signature scheme designed to withstand attacks from quantum computers, and it's still a candidate undergoing vetting in NIST's additional standardization process before any deployment. Anthropic's Zygimantas Straznickas and Stephen A. Weis said Claude identified a mathematical property that no one had dug into, and combining it with existing techniques made recovering the secret key much easier."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Espitau, head of research at post-quantum cryptography company PQShield and a cryptographer who co-authored the HAWK paper, called the work \"one of the most meaningful cryptanalysis results this year, maybe the best.\" \"Frankly, it's excellent work, and it's exactly what the NIST process is designed to produce. Candidate schemes exist to be attacked before they're deployed, not after.\""
+        },
+        {
+          "t": "p",
+          "x": "Espitau explained that adding the one missing insight Claude found to already-known techniques sharply cut HAWK's estimated security margin. \"Claude Mythos Preview pointed to a way to exploit sign-flip symmetry, filling in the last piece of a puzzle the research community had been assembling.\""
+        },
+        {
+          "t": "p",
+          "x": "Not everyone reads this as AI outpacing human cryptographers. Roberta Faux, head of cryptography at security and quantum-cryptography company Arqit, told Live Science that \"there's nothing that needs to change,\" and that both Anthropic and outside cryptographers agree there's no need to switch key lengths or ciphers."
+        },
+        {
+          "t": "p",
+          "x": "To Faux, the bigger story is the ability to apply expert-level analysis at scale to thousands of algorithms that no one had been looking at closely. \"There was nothing special in the ingredients of the HAWK attack. It just skillfully assembled tools that were already out there. At most a few dozen people on the planet seriously scrutinize post-quantum candidates, so beating two years of review shows just how thin that layer of scrutiny really is.\""
+        },
+        {
+          "t": "p",
+          "x": "Nothing changes for users right away. The cryptography protecting online banking, messaging and the cloud hasn't become useless overnight. But for those designing the next generation of cryptography, it's a signal that AI could help test tomorrow's ciphers faster and more thoroughly than before."
+        }
+      ]
+    },
+    "science/science-generative-species-contaminate-inaturalist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In Indonesian scrubland and rainforest leaf litter, you have to watch where you step. What looks like a dry leaf caught in the wind sometimes turns out to be an insect frozen in a praying pose: a dead-leaf mantis."
+        },
+        {
+          "t": "p",
+          "x": "Kris Anderson, an independent researcher and mantis specialist who has worked with the genus Deroplatys for decades, saw a photo of a new specimen on the citizen-science platform iNaturalist. It was described as found in the Malaysian rainforest. But the shape of the head, the antennae and the patterning across the body didn't match anything he knew. This mantis doesn't exist. It was an individual invented by a generative AI image tool."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creatures-born-fro-1.jpg",
+          "cap": "An AI-generated Deroplatys observation image that was posted on iNaturalist.org and has since been deleted. Credit: Anderson (2006) Synthetic Species in Practice: Documenting a Second AI-Generated Mantodea Observation. Zenodo: https://zenodo.org/records/21305701"
+        },
+        {
+          "t": "p",
+          "x": "Anderson has written twice in the past six months about fake mantis stories sparked by iNaturalist entries. He worries that without verification procedures in place, fake observation records could seep into papers, surveys and environmental impact assessments. \"Since modern biodiversity research increasingly relies on citizen-science records, I thought it was important to document this vulnerability early, before AI-generated observations become common,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "In November 2025, a photo claimed to be a coal tit seen in northeastern Scotland circulated among birdwatchers. Alexander Lees, a biodiversity researcher and bird specialist at Manchester Metropolitan University, judged it fake after noticing the bird's feet and beak looked distorted in the photo. In early July, he and people from iNaturalist published an opinion paper in Nature Ecology & Evolution warning that such databases could become \"contaminated\" by AI-generated data manipulation and misinformation."
+        },
+        {
+          "t": "p",
+          "x": "More common than wholesale invented individuals is retouching — cleaning up noise in an existing photo and prettying it up — and Lees says both are a problem. His team asked Google's Gemini to draw a red-winged blackbird perched on a branch against a blue sky. Aside from an odd number of tail feathers, it looked fairly convincing. When they fed in a photo of an oropendola, a bird found in South America, and asked for it to be \"made to look nicer,\" red markings were added to the wings. In fact, a photo retouched the same way led to Brazil's first record of a red-winged blackbird being posted on iNaturalist, before it was flagged and hidden."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creatures-born-fro.jpg",
+          "cap": "A figure from Lees' recent paper. (a) shows Google Gemini inventing a red-winged blackbird, and (c) shows a real photo retouched to look like a different species. (b) is a real photo taken by David Theobald. Credit: Nature Ecology & Evolution (2026). DOI: 10.1038/s41559-026-03141-y"
+        },
+        {
+          "t": "p",
+          "x": "Fake-species scares predate AI. The Charlton brimstone butterfly, described by London apothecary James Petiver in the early 1700s, even appeared in Carl Linnaeus' 1763 Centuria Insectorum Rariorum, until Danish entomologist Johann Christian Fabricius revealed that the two blue crescents on its wings were marks left by a human hand. The Atlas of Living Australia (ALA) has said it has filtered out countless reports of unicorns and tyrannosaurs as well."
+        },
+        {
+          "t": "p",
+          "x": "iNaturalist, which holds 500 million images, recently added a community tool that flags entries suspected of being AI-generated. Lees points to image-authenticity checks, metadata review and user education as countermeasures. There's also a flip side to the technology. Models built on eBird data now predict bird migration weeks in advance, and the Australian Wildlife Conservancy uses machine learning trained on 1.1 million wildlife photos to classify camera-trap footage, though it still leaves species identification to humans."
+        }
+      ]
     }
   }
 }

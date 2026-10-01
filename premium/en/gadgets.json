@@ -3363,6 +3363,1261 @@
           "x": "Memory comes with a condition. Holding on to conversations older than 30 days requires paying $10 a month. Friend 2.0 plainly reveals where wearable AI is headed."
         }
       ]
+    },
+    "gadgets/mouthpad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/mouthpad-hero-7.jpg",
+          "cap": "Augmental's MouthPad mouthpiece © Augmental"
+        },
+        {
+          "t": "p",
+          "x": "There has always been talk that AI could greatly improve accessibility for people with disabilities. The problem is that accessibility devices are rarely treated as something profitable. So tech bros, who believe every innovation belongs to them, tend to swoop in and claim it."
+        },
+        {
+          "t": "p",
+          "x": "Augmental is exactly that case. The startup clearly presents itself as an accessibility technology company. Its about page reads, “We build first for people with the greatest need: people living with quadriplegia, ALS, spinal cord injury, or severe motor limitations.” That is a rare stance in an industry where commercial appeal and mass popularity often push accessibility aside."
+        },
+        {
+          "t": "p",
+          "x": "This week, Augmental made waves online by releasing two devices it calls “skinware.” One is MouthPad, a trackpad operated with the tongue. The other is Vox, a stethoscope-like microphone pendant. Vox picks up and transcribes the speech of people with dysarthria or damaged vocal cords who can only speak very faintly."
+        },
+        {
+          "t": "p",
+          "x": "It is technology with a clear purpose and thoughtful design. Yet some people's first thought on seeing it was, “This would be great for vibe coding.”"
+        },
+        {
+          "t": "p",
+          "x": "AI believers have long argued that this kind of technology will change how humans meet computers. Coding and searching through chatbots has grown remarkably, but that claim has not quite come true. Seeing Augmental's new devices, these believers are eager, convinced a path to finally ditching the mouse and keyboard has opened up."
+        },
+        {
+          "t": "p",
+          "x": "Beff Jezos, a prominent AI “effective accelerationist” on Twitter, reposted a MouthPad video and wrote, “This + subvocalization = new optimal vibe coding setup”. He then added of Vox, “You may not like it, but this is what peak vibe coding performance apparatus looks like. We are in the beginning of a soft merge with non-invasive brain-machine interfaces”."
+        },
+        {
+          "t": "p",
+          "x": "It might have been a light joke aimed at innovation. But accelerationist ideology is indistinguishable from parody. These people want to merge with machines as soon as possible. Since they cannot yet implant an interface in their brains, they grab onto anything that comes close, including a mouthpiece that was not made for them at all."
+        },
+        {
+          "t": "p",
+          "x": "Another habit Jezos champions is already annoying people: talking to AI out loud. The Wall Street Journal recently reported that offices have turned into something like call centers, full of people talking to AI. Everyone is verbally wrangling an AI agent meant to do their work for them. The article's premise was that this trend annoys the coworker sitting nearby, but accelerationists, who have made being annoying part of their identity, see it instead as an opportunity."
+        },
+        {
+          "t": "p",
+          "x": "What Augmental is doing is interesting. So perhaps the technology should reach the hands, or more precisely the mouths, of the people who truly need it first, rather than people rushing to live like the humans in WALL-E."
+        }
+      ]
+    },
+    "gadgets/ultrahumanemerald": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/intro-1784735062.jpg",
+          "cap": "The redesigned Ultrahuman app"
+        },
+        {
+          "t": "p",
+          "x": "I always liked the dense, data-heavy screens of the Ultrahuman app, but apparently not everyone did. So the company overhauled the platform to simplify its screens and make them easier to read. The app, code-named Emerald, surfaces whatever information you need at the moment on its default tab."
+        },
+        {
+          "t": "p",
+          "x": "The second major change is Ultrasphere. The company calls it a “decision engine” that surfaces “next best actions.” Its own AI, Jade, looks at biological signals and contextual data to suggest ways to protect your health. For example, if you work nine to six and crash at 3 p.m., it might suggest a 10-minute walk in the sun instead of coffee to wake you up."
+        },
+        {
+          "t": "p",
+          "x": "With this overhaul, the Ultrahuman app processes all insights on-device. That means it works even when the phone has no connection. The upside is that it can be used exactly when you need it, like on a plane."
+        },
+        {
+          "t": "p",
+          "x": "The company says it also refined the VO2 Max calculation algorithm for more accurate blood oxygen readings. AFib (atrial fibrillation) detection and sharing have changed too, and heart rate data can now be viewed in real time in the app."
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman's Emerald update rolls out to all users starting today."
+        }
+      ]
+    },
+    "gadgets/voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/iwIllyfONk3Cy6W_Z_MxFcuS9e0=/400x0/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg?lossy",
+          "cap": "The Siri app in macOS/iOS 27"
+        },
+        {
+          "t": "p",
+          "x": "The latest beta shows signs that Apple is building a new screen for choosing Siri AI's voice in macOS 27 Golden Gate."
+        },
+        {
+          "t": "p",
+          "x": "MacRumors forum member “mactracker” revealed a hidden “voice pad” inside macOS 27 beta 4, which came out on Monday. Turning on the screen changes the Siri voice section in System Settings into an almost black canvas, leaving only the currently selected voice as a single colored dot."
+        },
+        {
+          "t": "p",
+          "x": "Holding the pointer down on the pad and moving it brings the screen to life. Colors bleed past one another and dots appear one by one, each changing the character of the voice as well. The dots rise into view like stars revealed in a hidden constellation."
+        },
+        {
+          "t": "p",
+          "x": "The visual effect responds to cursor movement through spatial audio. When the pointer approaches a voice, it sounds clear and close, while distant voices blur into the background. A spatial mixer tracks the pointer's distance, angle, and speed, adjusting volume, reverb, occlusion, and filtering for the voice and background sound."
+        },
+        {
+          "t": "p",
+          "x": "The pad holds 13 voice slots arranged in a loose grid. This suggests Apple is preparing to attach up to 13 custom voices to Siri AI."
+        },
+        {
+          "t": "p",
+          "x": "The current macOS 27 beta lacks the necessary voice models, so two existing custom voices are substituted instead. However, a file found alongside the beta describes all 13 American English voices by gender, age, and personality, ranging from a soft-spoken young female voice to a deep adult male voice and two voices that sound older."
+        },
+        {
+          "t": "p",
+          "x": "If this screen survives to the final version of macOS 27, things will look quite different from now. In the current beta, Siri AI has only one American voice, with sliders adjusting only expressivity and pace."
+        },
+        {
+          "t": "p",
+          "x": "So this screen looks more like a first step for choosing Siri's default voice. After picking one, you would refine it using the existing selector's Pace and Expressivity controls. Even though it is unfinished, it has reportedly been localized into 44 languages. Since it shares the same Siri settings framework as iOS 27, it could also appear on iPhone and iPad."
+        },
+        {
+          "t": "p",
+          "x": "Unlike the hidden Siri popover covered earlier this week, this feature cannot be easily turned on by beta testers. It requires disabling SIP (System Integrity Protection) and overwriting internal code with a debugger."
+        },
+        {
+          "t": "p",
+          "x": "The new Siri AI, built on a large language model, arrives in supported regions this September with Apple's software updates, including iOS 27 and macOS 27."
+        }
+      ]
+    },
+    "gadgets/alexa-plus-smart-home-app-store": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You've probably asked Alexa for all kinds of pointless things, but you've likely never asked it something like, “Which of my washer's 30 cycles is a cold wash?” Amazon has built a toolkit that makes exactly that possible, and it's rolling it out across many brands today."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
+          "cap": "Amazon Echo Hub"
+        },
+        {
+          "t": "p",
+          "x": "The new AI smart-home developer toolkit lets manufacturers plug their full feature set directly into Alexa+, instead of burying it in an app menu. Amazon said users who upgraded to Alexa+ increased their smart-home usage by nearly 50% in their first month."
+        },
+        {
+          "t": "p",
+          "x": "The washer example is real. Tell it to wash your kid's soccer uniform deep but with cold water only, and Alexa picks the right cycle. It currently supports devices from Bosch, Whirlpool, iRobot, Govee, Yale Home, and Yeepeat."
+        },
+        {
+          "t": "p",
+          "x": "Amazon has also embraced the Model Context Protocol (MCP). If a brand brings its own MCP server, Alexa+ examines it and hands developers an integration path they can use right away. Priceline, Lyft, Headspace, and Virgin Atlantic will be the first to test it this year."
+        },
+        {
+          "t": "p",
+          "x": "Pair it with the new Amazon Wallet and you can check out instantly with a saved payment method, and Atom Tickets and Fandango are already building out ticket-purchase flows. Still, everything carries a “preview” label for now, so the public rollout may not be as fast as the announcement suggests. By pushing MCP, Amazon is positioning Alexa+ not as a standalone app but as an orchestration layer, putting it in the same camp as agent tools from Anthropic and OpenAI."
+        }
+      ]
+    },
+    "gadgets/ios-27-siri-apple-intelligence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siri AI is coming this fall with iOS 27. After more than a month on the beta, the writer says the new Siri has delivered on every single thing they hoped for."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+          "cap": "The Siri app in iOS 27"
+        },
+        {
+          "t": "p",
+          "x": "The writer describes themselves as a “light” AI user. They're not interested in building apps with AI or benchmarking model performance, and mostly use it as a stand-in for search — not so different from the average iPhone user."
+        },
+        {
+          "t": "p",
+          "x": "Before iOS 27, the writer had three wishes for Siri: broad world knowledge, a conversational UI, and consistency and integration across Apple devices. So far, Siri has delivered on all three."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&strip=all",
+          "cap": "The new Siri in iOS 27"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI can answer almost anything. It isn't boxed into the handful of knowledge domains Apple used to support. The new Siri app is a comfortable place to hold a conversation, so you can ask follow-up questions and easily revisit past chats. Unlike the old Siri, whose features were split across devices, Siri AI is designed to be the same on every platform. It uses the same intelligence on iPhone, Mac, Apple Watch, and iPad, and Apple TV and HomePod will join soon."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&strip=all",
+          "cap": "The iOS 27 device lineup"
+        },
+        {
+          "t": "p",
+          "x": "Siri isn't just consistent across devices — it's also deeply woven into Apple's own apps and services. It draws on Messages, Notes, and Mail to give personalized help, a point rivals will find hard to copy. A lot has changed since Apple first previewed AI Siri in 2024, but for the average user, the new Siri in iOS 27 looks like it was worth the wait."
+        }
+      ]
+    },
+    "gadgets/samsung-intelligent-eyewear": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung will officially launch its Intelligent Eyewear this fall. At Unpacked, the company revealed for the first time the designs created with Warby Parker and Gentle Monster. I had handled the prototype Android XR glasses a few times before, but this was the first time holding a production design model."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yRpEsjBTHTpd8Q9YLP7f8R-1200-80.jpg",
+          "cap": "Samsung Intelligent Eyewear, designed with Warby Parker and Gentle Monster"
+        },
+        {
+          "t": "p",
+          "x": "The model I handled wasn't a working product but a pre-launch mockup showing only its shape. I didn't get to put it on, but just holding it left a good impression. The Gentle Monster model caught my eye with a classic design close to the glasses I usually wear, while the Warby Parker version looked more refined."
+        },
+        {
+          "t": "p",
+          "x": "James Choi, the vice president leading Samsung's XR research and development, stressed the collaboration with Gentle Monster and Warby Parker. At a roundtable, he said, “Above all, it has to be something people want to wear every day. In the end, these are glasses. We want a natural, stylish fashion item, not a tech device perched on your face.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/huH92NSCogK3mLtHSQT2tQ-1200-80.jpg",
+          "cap": "Intelligent Eyewear stands out for its thin, light frame"
+        },
+        {
+          "t": "p",
+          "x": "The glasses looked thin, and picking them up, they were surprisingly light. Weight is a major obstacle for smart glasses, so the lighter they are, the less fatigue they cause. The thin design also made them look more like ordinary glasses than a tech device, which I liked. Samsung said they still pass 'mobile-grade quality testing' and are sturdy enough to survive being dropped."
+        },
+        {
+          "t": "p",
+          "x": "Battery life was optimized through 'Power Camp,' refined jointly by Samsung, Google and Qualcomm. The glasses run on a Snapdragon AR1 Gen 1, but draw on the phone's memory and processing power to respond faster. Mixing camera use, music playback, and Gemini (or Bixby) calls gives about 9 hours, with seven more charges available from the case. They're controlled via a Wear OS watch and connect to apps like Maps, Interpreter, and Samsung Notes."
+        },
+        {
+          "t": "p",
+          "x": "Choi said privacy was treated as a core part of development, not an afterthought. Examples include an LED indicator that signals when the camera is on, and wear detection that turns off the camera if the glasses are removed or the LED is covered. He added that Samsung is in ongoing discussions with governments over public opinion and regulations that vary by region."
+        }
+      ]
+    },
+    "gadgets/amd-x100-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AMD is bringing its Strix Halo APU into the physical AI space. The new X100 series shares specs with the Ryzen AI Max used in client devices, but it is built for embedded environments that run around the clock, like robots, with a guaranteed 10-year lifespan."
+        },
+        {
+          "t": "p",
+          "x": "The lineup has three tiers. The top X199 packs 16 Zen 5 cores and 40 RDNA 3.5 compute units, while the X188 steps down to 12 cores with 32 CUs and the X168 to 8 cores with 32 CUs. Boost clock reaches up to 5.1GHz, and unified memory goes up to 128GB. An XDNA 2 NPU delivering up to 50 TOPS is included, with TDP ranging from 45W to 120W and an operating range of minus 40 to 105 degrees Celsius."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9sPH3tmCzcVsbEbQQLkUx4-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The target is Intel, which released Panther Lake for physical AI earlier this year. Both chips follow the same logic of combining CPU, AI accelerator and memory on one chip to cut latency, but the X100 is larger than Panther Lake and aims at heavier workloads."
+        },
+        {
+          "t": "p",
+          "x": "AMD is not just selling bare chips. It is also offering the X100 as a Kria SOM or a robot development platform. The 120mm Kria board comes as a turnkey box bundled with a Spartan UltraScale+ FPGA baseboard, currently in early access with mass production starting in Q4. AMD also compares its performance against Nvidia's Thor and Jetson platforms."
+        }
+      ]
+    },
+    "gadgets/byd-xiaodi-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The humanoid AI robot race has entered its next phase. While Tesla and XPeng already have mass-production plans underway with Optimus and Iron, electric vehicle maker BYD is joining late. A post briefly uploaded and deleted by a D Space experience center in Zhengzhou, along with chatter on Chinese social media, leaked fairly specific details about a project called 「Xiaodi」."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/9/a/csm_BYD_KI_Roboter_Xiao_Di_AI_robot_01_d751459729.jpg"
+        },
+        {
+          "t": "p",
+          "x": "According to the leaked details, Xiaodi stands 5 feet 3 inches tall and weighs 130 pounds. With 31 degrees of freedom across its hands, legs, torso and neck, its movements are smooth and precise. Its hands can grasp up to 2.2 pounds with 0.04-inch accuracy. With 360-degree vision and real-time 3D modeling, it recognizes objects, faces, gestures and lip shapes, and translates six dialects and six foreign languages in real time."
+        },
+        {
+          "t": "p",
+          "x": "Even the name was chosen to feel approachable. Xiaodi combines 「xiao」, meaning 「small」, with 「Di」, the brand's shorthand, roughly meaning 「little BYD」. BYD refers to the robot as female. Vice president Stella Li had earlier said each store could place two or three humanoids as sales assistants. The idea is for them to greet customers, explain the EVs and even handle demonstrations."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/6/1/csm_BYD_KI_Roboter_Xiao_Di_AI_robot_04_7a92250d88.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Robot competition is heating up across China's auto industry. Chery already sells its Aimo robot, and SAIC-GM uses wheeled robots in its factories. BYD plans to deploy Xiaodi across its own factories and hundreds of showrooms. A prototype reveal rumored for August could further intensify the rivalry with Optimus."
+        }
+      ]
+    },
+    "gadgets/looki-ai-pendant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CNET's Scott Stein lived with Looki around his neck. It is a camera pendant that stays on almost constantly, capturing the day and later playing it back. He wore it nearly nonstop from April through Apple's WWDC, Google I/O and a Princeton alumni gathering, before stopping at some point."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.L1.table_.pendant.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Looki L1 is a small black pendant about the size of a watch. It has a camera on the front, with a microphone hidden somewhere on it. Unlike smart glasses, its battery lasts a full day, recording audio and video clips intermittently. Its 「AI mode」 automatically captures short clips of around five seconds, but even after three months of use he could not figure out what criteria it used to pick them."
+        },
+        {
+          "t": "p",
+          "x": "The most convincing feature turns automatically captured scenes into cartoon-style AI images. It occasionally wove the day into a plausible story, but with no settings to adjust, the results were left to chance. The rest of its recordings were mostly awkward: faces got cut off or shot from odd angles, and many just showed him staring at his phone."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.AI_.commute.cartoon.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Above all, wearing it the whole time felt like being a spy. Its recording light is far less noticeable than on Meta's glasses, making it hard for people nearby to tell if they were being filmed. His son asked him to take it off more than once, and he would quietly slip it into his pocket on trains or in bathrooms. His conclusion: it is a preview of an always-on recording-glasses future to come."
+        }
+      ]
+    },
+    "gadgets/ai-activity-dashboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung unveiled the first official version of One UI 9 today alongside the launch of the Galaxy Z Fold8, Fold8 Ultra and Flip8. An official changelog has not yet been released, but Samsung said the new foldables' One UI 9.0 includes a new AI Assistant Activity dashboard."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI's AI Assistant Activity dashboard closely resembles the AI improvements that Android 17 added to its Privacy Dashboard. The dashboard 「brings together in one screen the AI automation running on your behalf, lets you review what AI has done in one place, and, if needed, jump directly into the relevant agent to check its context and settings.」"
+        },
+        {
+          "t": "p",
+          "x": "The dashboard matters even more because these Samsung foldables are the first devices to carry Gemini Intelligence, which enables app automation."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard_4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On the new Galaxy Z8 series, you can have Gemini carry out tasks inside third-party apps. It handles actions like ordering food or booking event tickets on your behalf, while also reading what's currently on screen. For instance, if you're discussing dinner plans with friends, Gemini can look at that context and find a restaurant or finish a reservation without you switching between apps. This task automation feature is currently available only in the US and South Korea."
+        },
+        {
+          "t": "p",
+          "x": "Tasks can run in the background, which makes it easy to forget that an AI assistant is working behind the scenes. That's where the dashboard becomes useful. It tells you whether an invisible worker is running behind your phone and which AI app it was, without you having to rack your brain trying to recall and hunt it down."
+        }
+      ]
+    },
+    "gadgets/galaxy-watch-9-health": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung unveiled the Galaxy Watch9 and the rugged Watch Ultra2 with a wide range of AI-based health features. A personalized health coach, fitness index, vascular load, and expanded sleep and heart analysis are bundled into a new AI health assistant."
+        },
+        {
+          "t": "p",
+          "x": "Both watches rely on upgraded internal components to stay on the body longer and track its condition more accurately."
+        }
+      ]
+    },
+    "gadgets/gemini-automation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At Galaxy Unpacked, Google unveiled several Gemini updates for the Galaxy Z Fold8 Ultra, Fold8 and Flip8."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On the Android side, the new devices come with an improved 「native migration」 feature that wirelessly transfers more kinds of data from an iPhone. As part of Android 17, it now brings over Google account information, passwords, Wi-Fi credentials and eSIM data, in addition to the existing photos, videos, contacts, messages and calendars. The feature is rolling out to Pixel devices first and will expand to other Android devices."
+        },
+        {
+          "t": "p",
+          "x": "When Gemini task automation first launched in beta earlier this year, it covered only six ride-share and delivery apps on the Pixel 10 and Galaxy S26 series. Now, as part of Gemini Intelligence, task automation supports more than 40 apps spanning shopping, restaurant reservations, travel bookings and event tickets. Etsy and Expedia are among them. On the Flip8, you can access this everyday support feature in the Flex Window by long-pressing the power button."
+        },
+        {
+          "t": "p",
+          "x": "The Gemini app now 「uses advanced reasoning to understand what's on screen and interpret complex images as prompts.」 You can show Gemini a shopping list or an inspiration photo and get help from it."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The recently renamed Gemini Notebook comes pre-installed on Samsung's new foldables. On the Fold8's large screen, you can 「drag and drop photos, documents, whiteboard images, voice recordings and more directly into a side-by-side workspace.」"
+        },
+        {
+          "t": "p",
+          "x": "The Galaxy Z Fold8 Ultra, Fold8 and Flip8 come with six months of Google AI Pro included."
+        },
+        {
+          "t": "p",
+          "x": "On wearables, you can summon Gemini on the Galaxy Watch9 just by raising your wrist, with no wake word needed, the same way it works on the Pixel Watch4."
+        },
+        {
+          "t": "p",
+          "x": "Ahead of their fall launch, Samsung and Google also showed additional Android XR glasses designs from Gentle Monster and Warby Parker."
+        }
+      ]
+    },
+    "gadgets/meta-ray-ban-display-muse-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is putting an improved AI model on its flagship smart glasses. This week, Meta said it has begun rolling out a new Meta AI built on the enhanced Muse Spark model to the Ray-Ban Display, its only glasses with a screen. The rollout is happening gradually, so even if you haven't gotten it yet, the update will reach you soon. Muse Spark was previously available first on Meta's other AI glasses that lack a screen."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
+          "cap": "Ray-Ban Display (© Raymond Wong / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "The previous Meta AI assistant on these glasses, in the reviewer's words, “generally handled basic tasks but wasn't exactly sharp.” It often stumbled, especially on queries asking about its surroundings via computer vision. The new Muse Spark version looks clearly different, based on experience with the recently released Meta Fury glasses."
+        },
+        {
+          "t": "p",
+          "x": "The upgraded AI is “snappier and more natural, and keeps up far better with what I'm doing.” The reviewer tested it by asking step by step how to pickle banana peppers grown at home, and while not perfect, said it was “genuinely helpful.” Compared with the previous version, the sophistication stands out."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-22.jpg",
+          "cap": "Ray-Ban Display (© Raymond Wong / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "Apart from the AI improvements, Meta is adding other features as well. These include a Threads app for scanning and reacting to feeds, an Instagram app with improved Reels sharing and voice search, and an early look at Neural Handwriting, which lets users write messages by moving their fingers via the Neural Band."
+        }
+      ]
+    },
+    "gadgets/oura-ring-5-advisor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
+          "cap": "Oura Ring 5 review"
+        },
+        {
+          "t": "p",
+          "x": "A good health tracker really has just two goals: measure accurately, and be comfortable. Over the past decade or so of using trackers, I never found one I wanted to wear all day without a break. The Oura Ring 5, released on June 4, isn't perfect, but it comes closer than any tracker before it to being a device I don't want to take off."
+        },
+        {
+          "t": "p",
+          "x": "The biggest hardware change is size. It's 40% smaller and lighter than the previous Ring 4, making it one of the thinnest smart rings and smallest wearables on the market today. At 6.09mm wide and 2.28mm thick, it's a clear step down from the Ring 4's 7.9mm width and roughly 2.88mm thickness."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-13.jpg",
+          "cap": "Oura Ring 4 Ceramic and Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "Pricing is $399 for black and silver, and $499 for brushed silver, deep rose, gold, and stealth. Battery life also grew from the Ring 4's 5 to 7 days to 6 to 9 days, with a full charge taking about an hour, or as little as 15 minutes. Enhanced LED sensors are also said to deliver a more consistent heart-rate read."
+        },
+        {
+          "t": "p",
+          "x": "The Oura Ring 5 includes Oura Advisor, the AI health companion launched last year. It answers questions like “How was my sleep this week?” or “Has my activity changed?” conversationally and suggests ways to improve. But since users have to ask first, the reviewer admitted that after checking daily activity and sleep, they stopped bothering to seek it out. The AI companion for women's health works in a similar way."
+        },
+        {
+          "t": "p",
+          "x": "Preventive and longevity features such as blood pressure signals and a health radar have also increased. Still, there's too much data to track daily, leaving a wish for a way to get just one combined score on a weekly basis."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-ai-glasses-wwdc27": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple has set a timeline for the AI smart glasses it has long been preparing. Bloomberg's Mark Gurman reports Apple plans to show the glasses for the first time at next year's WWDC27 developer conference."
+        },
+        {
+          "t": "p",
+          "x": "Going by the timing, Apple will likely launch hardware and software a few months ahead, as it did with Vision Pro in 2023, giving developers tools to build apps in advance. Sales are expected in late 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Mike-Rockwell-WWDC23-visionOS-Reveal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The launch, originally planned for late 2026, was pushed back over privacy concerns. After a camera-equipped rival product ran into filming controversies, Apple is weighing either dropping the camera entirely or limiting it to recognizing objects and places without taking photos or video."
+        },
+        {
+          "t": "p",
+          "x": "The glasses have no screen. Instead, they take photos, play music, summon Siri, and take calls. The design direction is to keep them looking like real glasses."
+        }
+      ]
+    },
+    "gadgets/gadgets-qualcomm-mediatek-wearable-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xK6Jm3y5tWqqadFBvjXV6K-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Small wearables are always squeezed for power because their batteries are tiny. MediaTek and Qualcomm lowered that wall by rolling out 3-nanometer chips side by side."
+        },
+        {
+          "t": "p",
+          "x": "MediaTek's Genio Pro 5100 packs an Intel Core-class CPU, an ARM Immortalis GPU, and a strong NPU into a 3nm process. It can take in up to 16 full-HD cameras or two 4K feeds at 30 frames per second, and runs a vision-language model tuned for the chip. MediaTek supports Linux and the robot operating system ROS, targeting factory automation, logistics, and robotics as well."
+        },
+        {
+          "t": "p",
+          "x": "Qualcomm's new Snapdragon Wear Elite is also built on 3nm. It splits the NPU in two. The main NPU handles about what a smartphone did two years ago (roughly 18-20 tokens per second on a 1-billion-parameter model), while the new eNPU takes on tasks that need fast response, like voice recognition or noise cancellation, letting the device last for days."
+        },
+        {
+          "t": "p",
+          "x": "That flexibility is aimed at next-generation features like health coaching, daily logging, and on-device translation. Samsung, Motorola, and Google have confirmed support for Wear Elite, and one model of the Galaxy Watch9 will use this chip."
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-gemini-notebook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/intro-1784722468.jpg",
+          "cap": "Google AI features built into Samsung's new foldables"
+        },
+        {
+          "t": "p",
+          "x": "Samsung has released its new foldables — the Galaxy Z Fold8 Ultra, Fold8, and Flip8 — with Google Gemini Notebook built in by default. It's the former NotebookLM, renamed."
+        },
+        {
+          "t": "p",
+          "x": "Gather material like web pages, videos, and conversation transcripts in one place, and Gemini Notebook turns them into slides, videos, flashcards, or even a podcast. There's also a chat feature for asking questions directly about the gathered topic."
+        },
+        {
+          "t": "p",
+          "x": "Some features require a paid Gemini plan, but buying the device comes with a six-month trial of Google AI Pro. On the Galaxy Watch9, simply raising your wrist calls up Gemini so you can ask it a question."
+        }
+      ]
+    },
+    "gadgets/gadgets-asus-googlebook-leak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Googlebook still has time before its fall debut, but the hardware's outline is emerging a little more each week. Not long after a Lenovo model's render leaked, the Asus Googlebook CX9406 has now shown up for the first time."
+        },
+        {
+          "t": "p",
+          "x": "The images obtained by 9to5Google came from an iF Design registration page that has since been taken down. The page listed the CX9406 as a Chromebook, but the operating system field showed Google's Android-based Aluminum OS. That's a sign this thing isn't a Chromebook, and it isn't the only clue."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/ASUS-Googlebook-CX9406-Leaked-Image-4.jpg",
+          "cap": "A render of the Asus Googlebook CX9406 that appeared on the iF Design registration page"
+        },
+        {
+          "t": "p",
+          "x": "The dark gray body is fairly restrained. What stands out is a single white Glowbar running across the lid above the Asus logo. Google has already said this light strip will become a Googlebook signature, but what role it plays exactly on this model isn't in the registration page either. Speculation holds that it will light up for notifications, similar to the highlight indicator expected in the Pixel 11 Pro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/ASUS-Googlebook-CX9406-Leaked-Image-2.jpg",
+          "cap": "The CX9406 lid, with a white Glowbar running above the Asus logo"
+        },
+        {
+          "t": "p",
+          "x": "Open it up, and there are more clues. Where the Windows Start key would sit, a Google 'G' takes its place, and the Caps Lock key carries a launcher symbol — the same layout seen on the recently leaked Lenovo Googlebook's keyboard. The ports appear to be two USB-C, two USB-A, HDMI, and a 3.5mm headphone jack, though the rounded corners make them hard to pin down with certainty."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/ASUS-Googlebook-CX9406-Leaked-Image-1.jpg",
+          "cap": "The CX9406 keyboard, with a Google 'G' key visible"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/ASUS-Googlebook-CX9406-Leaked-Image-3.jpg",
+          "cap": "The side of the CX9406, showing its port layout"
+        },
+        {
+          "t": "p",
+          "x": "The iF Design description doesn't quite add up. It notes that the CX9406 uses an 'ultra ceramic light alloy' and weighs under 1 kilogram, and it throws in figures claiming it's 34% lighter and 13% stronger than something — without saying what. There's no information at all on the processor, storage, or display."
+        },
+        {
+          "t": "p",
+          "x": "Asus is one of five Googlebook launch partners, alongside Acer, Dell, HP, and Lenovo. With products from two of them leaking within days of each other, Google's Android laptop launch is clearly getting closer."
+        }
+      ]
+    },
+    "gadgets/gadgets-byd-xiao-di-humanoid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A story that had only circulated through a deleted social media post and Chinese online media reports in late July is now official. BYD confirmed to Chinese business outlets including the South China Morning Post and Caixin that it will unveil its first humanoid AI robot, Xiao Di, in early August 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google_KI_Generated_Image_BYD_Xiao_Di.png",
+          "cap": "BYD's Xiao Di will compete with Tesla's Optimus, XPeng's Iron, and Chery's iMoga (image)"
+        },
+        {
+          "t": "p",
+          "x": "At the same time, the United States is raising the level of its tech conflict with China. The FCC imposed new import restrictions on Chinese-made AI robots, citing cybersecurity and espionage risks. BYD will show off its android at Di Space, its own experience venue in Zhengzhou."
+        },
+        {
+          "t": "p",
+          "x": "The official teaser line reads: 'In early August, a new friend is coming to meet you.' After the confirmation, BYD's stock on the Hong Kong exchange rose more than 2% at one point. BYD made clear that Xiao Di is not a concept model but a fully functioning prototype. As Vice President Stella Li outlined earlier, the plan is to place two or three humanoids in every store going forward."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/BYD_Humanoider_KI_Roboter_Xiao_Di_kommt.jpg",
+          "cap": "A teaser image of BYD's Xiao Di released by the Chinese social media account 科技C先生"
+        },
+        {
+          "t": "p",
+          "x": "Xiao Di will greet visitors, explain electric vehicles, and handle product demonstrations. Its height of 1.61 meters, weight of 58.5 kilograms, and notably smooth movement — details known from earlier leaks — are expected to be confirmed at the official announcement. BYD sees the android not as a replacement for sales staff but as something that helps with customer service."
+        },
+        {
+          "t": "p",
+          "x": "Its move into humanoids reads as a natural extension of BYD's business structure. As a company that makes batteries, electric motors, and power semiconductors at the world's largest scale, it can carry over the core components used in vehicle production, lowering development and manufacturing costs."
+        },
+        {
+          "t": "p",
+          "x": "Observers note the parallel with the advantage Tesla's Optimus enjoys. Competition within China's auto industry is also speeding up, with industrial and service humanoids such as XPeng's Iron and Chery's iMoga emerging one after another."
+        },
+        {
+          "t": "p",
+          "x": "On July 28, 2026, the US Federal Communications Commission approved strict import restrictions on newly developed Chinese humanoid robots and connected inverters. Leading companies already under scrutiny from US authorities, such as Unitree, are hit especially hard. Since the restrictions target new models that have never been approved before, every new Chinese product, including Xiao Di, is in the same position."
+        },
+        {
+          "t": "p",
+          "x": "For now, the US market is effectively closed, and Tesla's Optimus faces no real competitor there. In China and various overseas markets, by contrast, the humanoid race shows no sign of slowing down."
+        }
+      ]
+    },
+    "gadgets/gadgets-duckduckgo-anti-ai-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amid reports that Apple is weighing whether to add photo and video capture to the glasses it's developing, DuckDuckGo went a step further."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/DuckDuckGo-glasses-offer-zero-cameras-and-notifications.webp?w=1300",
+          "cap": "Matte black DuckDuckGo x Knockaround sunglasses, set against the 'Normal F***ing Sunglasses' tagline"
+        },
+        {
+          "t": "p",
+          "x": "The privacy-focused search company is selling sunglasses called DuckDuckGo Paso Robles, branded with the tagline 'Normal F***ing Sunglasses.'"
+        },
+        {
+          "t": "p",
+          "x": "The description, written together with Knockaround, goes like this: the world's most innovative anti-surveillance sunglasses — otherwise known as just plain ordinary sunglasses. No camera, no microphone, no AI, no battery, no electronics of any kind. Just a pair of matte black sunglasses with a glossy logo, which block the sun and send no data to the cloud."
+        },
+        {
+          "t": "p",
+          "x": "The advantages the company touts are infinite battery life, a guarantee of zero notifications, and 'seamless offline mode.'"
+        },
+        {
+          "t": "p",
+          "x": "It's clearly satire meant to make a point about privacy. Still, the glasses are real, and you can actually buy them. Clever marketing."
+        }
+      ]
+    },
+    "gadgets/gadgets-garmin-cirqa-screen-free": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "I wore the $199 Garmin Cirqa, which has no screen and no subscription, for more than a week. My first impressions were largely positive, but questions remained, so I asked Jill Kaiser, who leads the product, directly. Having spent 10 years at the Kansas-based company, she calls Cirqa her 'baby.'"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WtBsy3z4pD8Bpyf4cQ6VV6.jpg",
+          "cap": "The screen-free Garmin Cirqa worn on the wrist"
+        },
+        {
+          "t": "p",
+          "x": "Why drop the screen? Kaiser points first to user requests. Feedback asking for a screen-free product had been piling up for quite a while, and the team judged that all the pieces needed to support it had finally come together. Training and health metrics are captured the same as on other devices; only the distraction on the wrist is removed, she explains."
+        },
+        {
+          "t": "p",
+          "x": "Instead, the burden shifts to the app. 'No screen on the wrist means the entire ecosystem has to be built to carry that weight,' she says."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YDCri7XxMdmeimo7d9tfhd.jpg",
+          "cap": "The Cirqa band, with a single physical button"
+        },
+        {
+          "t": "p",
+          "x": "Kaiser suggests thinking of Cirqa as an 'all-day version' of the screen-free Index sleep tracker. In terms of what it tracks, it's closer to the Vivoactive/Venu line, carrying over training metrics straight from the latest Venu. What sets it apart from other screen-free trackers is a single physical button."
+        },
+        {
+          "t": "p",
+          "x": "Press the button once and it starts recording the default workout, which you can swap for whichever activity you want in Garmin Connect. If you climb stairs often, you can set that as the default on the device. A long press triggers heart rate broadcasting, and three presses enter pairing mode. With the battery indicator turned on, a double tap gets a green LED response, and there's also an on-the-hour vibration alert for anyone wondering what time it is."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w9ZVBojNpXhRMYs4thsM8Y.jpg",
+          "cap": "The Cirqa shown alongside the Garmin Connect app"
+        },
+        {
+          "t": "p",
+          "x": "It's also useful for people who already wear a Garmin watch. Set a primary device in the Connect app, and you can train with a Fenix or Forerunner while tracking sleep with Cirqa. The app automatically pulls data from whichever device you wore that day, so no manual switching is needed."
+        },
+        {
+          "t": "p",
+          "x": "Automatic activity detection needs some learning. For the first week or two, logging activities manually and answering whether you walked or not helps the system adapt to you, according to the explanation. Reliability will be examined further in the review."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2P456f4tr6erhmBPEQbgEe.jpg",
+          "cap": "Cirqa recording a workout with no screen"
+        },
+        {
+          "t": "p",
+          "x": "GPS was left out for reasons of size, cost, and battery. The team knows GPS matters, but judged that a phone alone gets customers what they want. Asked whether more screen-free products are coming, Kaiser would only say, 'We'll keep looking at what's possible in this space.'"
+        }
+      ]
+    },
+    "gadgets/gadgets-chrome-on-device-ai-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There was a time when Chrome quietly downloaded a 4GB AI model to people's PCs. In May 2026, that drew no small amount of criticism. The next day, a Chrome executive explained that on-device AI was central to its \"developer and security strategy,\" and that the model processes data locally."
+        },
+        {
+          "t": "p",
+          "x": "Chrome has now revised its support documentation to explain that download—and, crucially, how to stop it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/Google-Chrome-with-Gemini.jpg?resize=1200%2C720",
+          "cap": "Google Chrome with Gemini built in"
+        },
+        {
+          "t": "p",
+          "x": "Sometime between July 29 and August 1, Google quietly updated Chrome's on-device AI support page (WindowsReport). Four entirely new sections were added: eligibility requirements, download conditions, guidance for multiple users and devices, and enterprise-only rules."
+        },
+        {
+          "t": "p",
+          "x": "Per the eligibility requirements section, Chrome won't even attempt the download if a device lacks the hardware to run the model. Machines that are unsupported or don't meet spec get skipped entirely."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Googles-refreshed-Chrome-requirements-scaled.jpg?resize=2560%2C1536",
+          "cap": "Chrome's refreshed requirements page"
+        },
+        {
+          "t": "p",
+          "x": "On a device that does qualify, Chrome checks for an unmetered internet connection and roughly 20GB of free disk space, which includes the 4GB model. It also checks whether processing power is sufficient before downloading."
+        },
+        {
+          "t": "p",
+          "x": "How to manage it is also clearer than before. The documentation states plainly that the 'on-device AI' toggle in Chrome settings is the only way to manage this download. It also warns against manually hunting down and deleting the model files—doing so just makes Chrome download them again."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/On-device-AI-toggle-on-Chrome-scaled.jpg?resize=2560%2C1536",
+          "cap": "The on-device AI toggle in Chrome settings"
+        },
+        {
+          "t": "p",
+          "x": "Turning the toggle off deletes the files Chrome has already downloaded and disables every feature that relies on them. Only turning it back on re-checks eligibility and triggers another download. This setting is scoped per user and per device, and IT administrators get separate control through Chrome Enterprise policy."
+        },
+        {
+          "t": "p",
+          "x": "The update comes just months after people first noticed Google quietly downloading the 4GB on-device model Gemini Nano without really asking. Google hasn't directly connected the two, but the timing doesn't look like a coincidence."
+        }
+      ]
+    },
+    "gadgets/gadgets-google-assistant-shutdown": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Assistant held on longer than expected during the shift to Gemini. Now Google has confirmed it's removing Assistant from Android phones and tablets, Wear OS watches, and a handful of connected devices. There are only weeks left."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-assistant-will-vanish-from-android-phones-and-connected-devices-in-september/intro-1785941062.jpg",
+          "cap": "The Google Assistant icon"
+        },
+        {
+          "t": "p",
+          "x": "According to 9to5Google, Google has started emailing notices that Assistant will disappear from these products starting September 4. The company said it \"could take several weeks to reach everyone.\" After that, Assistant won't be usable on the affected devices."
+        },
+        {
+          "t": "p",
+          "x": "This applies to Android phones that meet Gemini's minimum specifications, and only in regions where Gemini is available. Paired devices, like headphones that support Gemini, are affected too."
+        },
+        {
+          "t": "p",
+          "x": "Google TV, Google Home, and smart displays aren't changing at this stage. Google has previously said that phones running Android 9 or lower with under 2GB of RAM will keep the older Assistant for basic tasks. Assistant will also keep working in cars with Google built-in, though \"vehicles running Android Auto projected from a user's phone\" are an exception."
+        },
+        {
+          "t": "p",
+          "x": "If Gemini isn't yet on your Android device and you'd like to try it, you can grab the app from the Play Store. If not, going without a chatbot is also an option. Meanwhile, Google's new Pixel devices will be unveiled on August 12."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-cmf-ai-marketing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yesterday Nothing's CMF brand launched a decent pair of open-ear earbuds, but much of the online conversation has focused on the AI-generated images the company keeps posting."
+        },
+        {
+          "t": "p",
+          "x": "It's probably safe to say AI has gotten under the public's skin. There are clearly useful ways to use it, but the web has been overrun by 'AI slop,' and people are growing tired of it. One more eye-straining ChatGPT poster might be enough to break some of us."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/nothing-cmf-clip-pro-ai-marketing.jpg?quality=82&strip=all&w=1600",
+          "cap": "CMF Clip Pro AI marketing image"
+        },
+        {
+          "t": "p",
+          "x": "Nothing's CMF is taking that backlash head-on. The use of AI in CMF Clip Pro marketing images has drawn fierce pushback."
+        },
+        {
+          "t": "p",
+          "x": "While some images have already been deleted, the CMF by Nothing account posted several marketing images meant to show off the Clip Pro. No real people were used. The images carried a notice saying “any resemblance to actual persons is purely coincidental.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/HOyAlOobEAAPzRi.jpg?ssl=1",
+          "cap": "The first AI-made marketing image"
+        },
+        {
+          "t": "p",
+          "x": "The two images below are passable enough, but the last one, which Nothing deleted, looks like a crude edit at best."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/HO4cIFbb0AAIhZp-1.jpg?ssl=1",
+          "cap": "The second AI marketing image"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/IMG_20260802_220239.jpg?ssl=1",
+          "cap": "The third image, deleted by Nothing"
+        },
+        {
+          "t": "p",
+          "x": "The same goes for the press images distributed for the Clip Pro launch. It's obvious that no one is actually wearing the earbuds, and the disclaimer strongly implies there was no real person to begin with."
+        },
+        {
+          "t": "p",
+          "x": "A video posted today looks convincing enough at a glance, but there are several spots where the AI use shows through. The mountain scene is especially bad. In the subway scene, the text in the background doesn't look like real text, and there's also the basic question of wearing open-ear earbuds on a subway in the first place. No one seems to have flagged that one."
+        },
+        {
+          "t": "p",
+          "x": "None of this is really surprising. Nothing is reportedly betting the company's future on AI. But as online resentment toward AI-generated content keeps growing, the company, led by Carl Pei, will need to figure out where to draw the line."
+        },
+        {
+          "t": "p",
+          "x": "9to5Google asked Nothing about the AI use in these marketing images, but the company has not yet given a public response and had no immediate comment."
+        }
+      ]
+    },
+    "gadgets/gadgets-peloton-ai-tracking-camera": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After some tough choices and a scaled-back business, Peloton has released its most advanced fitness machine yet, combining the Guide camera's AI motion recognition with a premium indoor bike and treadmill. The new Cross Training Bike+ costs $2,695, plus a separate $50-a-month All-Access membership. It scored 8.1 out of 10 in reviews."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/intro-1785506020.jpg",
+          "cap": "The Peloton Cross Training Bike+ with its screen rotated outward"
+        },
+        {
+          "t": "p",
+          "x": "The changes fall into two categories: software, like AI-powered training programs and motion tracking, and hardware, like an adjustable fan, a phone tray, and a tracking camera built into the console."
+        },
+        {
+          "t": "p",
+          "x": "The 23.8-inch screen rotates to face outward from the bike. That's meant for floor, strength, and stretching classes, extending the usefulness of a machine that otherwise can't be carried anywhere. The Sonos-tuned speakers include a woofer for the first time."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/a-big-rotatable-screen-1785506021.jpg",
+          "cap": "The 23-inch display"
+        },
+        {
+          "t": "p",
+          "x": "Below the fan, the camera sits in a small capsule inside the console that can be rotated to hide it. Footage from rides isn't streamed to other members; it's used only for coaching, form correction, and counting reps."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/ai-form-tracking-that-doesnt-let-you-slack-1785506022.jpg",
+          "cap": "The adjustable camera angle"
+        },
+        {
+          "t": "p",
+          "x": "Thanks to the camera, this bike moves beyond being just a connected bike. The device corrects your form on its own even while an instructor guides a recorded class. The built-in AI voice is mechanical enough that you won't mistake it for a person. Peloton IQ makes a small sound for each rep and counts down for static holds like planks. Compared with the older coach camera, the algorithm has improved enough that the guidance is rarely wrong. When it told me to raise my hips higher, I really did need to raise them higher."
+        },
+        {
+          "t": "p",
+          "x": "The letdown is that motion-tracking coaching and rep counting don't extend beyond strength and core classes. If you were hoping for form advice in downward dog or warrior pose, you'll still need a real yoga instructor. For users paying a premium for both the classes and the hardware, that feels like a missed opportunity."
+        },
+        {
+          "t": "p",
+          "x": "The training program got an update too. The device logs your workouts to build a weekly schedule, and personalizes metrics and goals based on the targets you first set and your workout history. It's been useful for Peloton IQ to tag classes as “harder than usual” based on workouts you've already done. On the flip side, it keeps pushing classes you'd rather skip, and there's not much room to adjust the AI's suggestions."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/wrap-up-1785506022.jpg",
+          "cap": "The Cross Training Bike+ frame"
+        },
+        {
+          "t": "p",
+          "x": "It's expensive, but it's the best in the current indoor bike ecosystem. Still, you need All-Access to use it as intended, and the cost climbs further once you add cleated shoes, a mat, and dumbbells."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ai-device-tiering": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siri AI is the headline feature of this update, alongside iOS 27 and macOS Golden Gate. But the overhauled Siri only runs on the newest Apple devices. Here is the full list of supported hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+          "cap": "The new Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "The update arriving with iOS 27 brings the long-awaited Siri overhaul. Siri AI is currently in beta and will launch fully this fall. The catch is that it only works on compatible hardware. Setting aside unreleased devices like the iPhone 18 Pro or iPhone Ultra, here is the list of currently available products that support Siri AI."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&strip=all",
+          "cap": "The iOS 27 supported device lineup"
+        },
+        {
+          "t": "p",
+          "x": "On iPhone, that covers the 17 Pro and 17 Pro Max, iPhone Air, iPhone 17, iPhone 17e, 16 Pro and 16 Pro Max, 16 and 16 Plus, 16e, and 15 Pro and 15 Pro Max. On iPad, it covers iPad Pro and iPad Air from the M1 chip onward, and iPad mini with the A17 Pro chip."
+        },
+        {
+          "t": "p",
+          "x": "On Mac, it covers every Apple silicon model from the M1 chip onward, plus the A18 Pro chip model. On Apple Watch, paired with an AI-capable iPhone, that means Series 9 and later, Ultra 2 and later, and SE 3. Every Apple Vision Pro model is supported."
+        },
+        {
+          "t": "p",
+          "x": "Every product on the list runs Siri AI from launch. But some parts of the Siri experience only get better on specific hardware, such as the feature that lets you freely adjust the speed and tone of the Siri AI voice."
+        },
+        {
+          "t": "p",
+          "x": "“iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air, iPad with 12GB or more of unified memory from M4 onward, Mac with 12GB or more of unified memory from M3 onward, and Apple Vision Pro (M5)”"
+        },
+        {
+          "t": "p",
+          "x": "Apple's most powerful on-device AI model is similarly limited to a similar set of the newest products. It's not yet clear what effect this will have on Siri."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-z-flip-8-flexwindow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There are rumors that the Galaxy Z Flip 8 could be Samsung's last foldable flip phone. After spending a little time with this generation, it wouldn't be much of a loss if it disappeared. Still, it's clear why Samsung might want to fold it up."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-01.jpg?quality=82&strip=all&w=1600",
+          "cap": "Galaxy Z Flip 8"
+        },
+        {
+          "t": "p",
+          "x": "Let's start with the good. It has almost everything you'd expect from a flip foldable. The hardware isn't new, but it's genuinely well made. This year's model got the same upgrades as the Fold 8: a body that's easier to open, a fainter screen crease, and a much more usable low-reflectivity inner display."
+        },
+        {
+          "t": "p",
+          "x": "Bulk got attention too. Samsung shaved about 1mm off the folded thickness. It's not a huge amount, but it's noticeably better in hand or in a pocket. Switching to silicon-carbon means no loss in battery capacity. That doesn't mean 4,300mAh is plenty, though, and endurance is still just okay. The Snapdragon 8 Elite Gen 5 performs about as briskly as expected, and heat management holds up fine. The cameras are largely unchanged, and One UI 9 is just as good here as it is on the Fold 8."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-07.jpg?quality=82&strip=all",
+          "cap": "This “Pink” color is great too."
+        },
+        {
+          "t": "p",
+          "x": "What's frustrating is that Samsung, like Motorola, has essentially stopped pushing this device forward. Hardware changes are minimal, and the software hasn't moved either."
+        },
+        {
+          "t": "p",
+          "x": "This year's big change is the cover screen, the “FlexWindow”, and specifically how AI attaches to it. The first page of the cover screen now surfaces context-aware notifications, and the whole experience has been rebuilt to run more like the rest of the phone. As noted earlier, it looks like what Google might have built if it had made a flip foldable. Time was tight, so there wasn't enough time to use the new features fully. It likely needs one to two weeks of learning a user's habits and schedule before it pulls its weight."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-04.jpg?quality=82&strip=all",
+          "cap": "AI on the FlexWindow cover screen"
+        },
+        {
+          "t": "p",
+          "x": "Still, it falls short, because the apps you can run on the cover screen remain tightly limited. Alongside a handful of Samsung apps that permanently sit at the top of the app drawer, a “Labs” section supports four apps, and installing MultiStar from Good Lock immediately unlocks 50 more. The entire process has to happen on the cover screen, and nothing related to it shows up in the full Settings menu. In the end, what changed is that Samsung finally fit a good number of its own apps to the cover screen and added a proper app drawer."
+        },
+        {
+          "t": "p",
+          "x": "The Galaxy Z Flip was Samsung's first foldable hit, and the form factor the public first responded to, largely because of its size. But the tide is shifting as the Galaxy Z Fold 8's new form arrives. Samsung said more Flip users switched to the Fold this year. Folded, it's not much bigger than the Flip while its outer screen is fully usable, and unfolded, it reaches a size the Flip can't match."
+        },
+        {
+          "t": "p",
+          "x": "The Galaxy Z Flip 8 is a decent device. But as long as the Fold 8's form factor fills the same needs with greater value, this form factor keeps getting pushed aside. Since Motorola dominates this category over Samsung, it's easy to picture Samsung easing off at least partly, say, moving to a two-year release cycle. The Galaxy Z Flip 8 costs $1,199. Preorders were still open as of August 6 and close tomorrow. Samsung.com offers up to $600 in trade-in credit, and other retailer and carrier deals are circulating."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-rayban-muse-spark-handwriting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last year, Meta introduced the Ray-Ban Display, smart glasses with a color screen built into the lens, alongside the gesture-control accessory, the Meta Neural Band. The screen already lets it do quite a lot, and now Meta is expanding that list while adding its latest AI model on top."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
+          "cap": "Meta Ray-Ban Display"
+        },
+        {
+          "t": "p",
+          "x": "Starting with this week's version 127 rollout, the Ray-Ban Display supports Meta's newest model, Muse Spark. The company says it answers questions more “intelligently” and recognizes what's in front of you better. Meta also wrote on its blog that the suggestions it offers throughout the day have improved."
+        },
+        {
+          "t": "p",
+          "x": "This includes a neural handwriting feature that uses Meta AI. It's early access for now, limited to the US and Canada. It expands the handwriting feature already on the Meta Ray-Ban Display, dropping into Meta AI directly without needing to say “Hey Meta.”"
+        },
+        {
+          "t": "p",
+          "x": "As you'd expect, it works together with the Neural Band. Double-tap your thumb, then look for the “Write” button on the AI home screen. After that, write a prompt with one finger on any surface, and Meta AI picks it up automatically."
+        },
+        {
+          "t": "p",
+          "x": "Meta also added its own social platform, Threads. Ray-Ban Display users can browse posts, leave reactions, and share them with others using just their voice."
+        },
+        {
+          "t": "p",
+          "x": "Instagram Reels now lets you find popular videos by voice and send them to friends or view comments too. Instagram Instant sharing gets simpler with voice commands like “Hey Meta, share an Instant” or “Hey Meta, post an Instant.”"
+        },
+        {
+          "t": "p",
+          "x": "That's a fairly substantial upgrade for the Ray-Ban Display. As is widely known, these glasses sell for about the same price as a base Google Pixel 10. That price includes the Neural Band, and features including handwriting are unlocked through that band."
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-ring-speaker-price": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple news usually breaks first through Bloomberg's Mark Gurman, but today what he brought up was OpenAI's hardware. After a wave of reporting last month on the smart speaker the company has been developing, this time he dug deeper into the device itself."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/intro-1786052707.jpg",
+          "cap": "OpenAI CEO Sam Altman sitting in a white chair on stage, with the company's name shown on a blue screen behind him"
+        },
+        {
+          "t": "p",
+          "x": "According to Gurman's sources, the product is ring-shaped, about the size of a hockey puck. It runs on battery power and is shaped to be easy to carry around. It reportedly includes parts that move on their own, which reads as a way to make the device feel more alive. This first piece of hardware appears to have no screen, but cameras and sensors take in its surroundings."
+        },
+        {
+          "t": "p",
+          "x": "Since OpenAI pivoted toward hardware by acquiring Jony Ive's startup io for $6.5 billion, it's not surprising that the price lands on the high side. Sources told Gurman the figure is $300 to $400. That's clearly expensive even next to premium smart speakers already on the market. It's already been noted that if consumers won't bear whatever price OpenAI ultimately sets, this experiment could end up an expensive detour. Ahead of a launch expected in 2027, there's also room for OpenAI to gauge reaction to this price and revise its plans."
+        }
+      ]
+    },
+    "gadgets/gadgets-viture-pro-2-xr-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Video glasses keep getting noticeably better while prices drop. Viture's new Pro 2 shows that trend clearly: specs are up from the previous model, and the price is down."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/viture-pro-2.jpg",
+          "cap": "Viture Pro 2 © Viture"
+        },
+        {
+          "t": "p",
+          "x": "The Viture Pro 2 launches today at $299. That price puts it up against RayNeo and Xreal's X by Xreal lineup. It's a big drop from the original Viture Pro's $459. Brightness climbed from the previous generation's 1,000 nits to 1,600 nits, and weight dropped 20% to 63 grams. It's also the thinnest device the company has made."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/viture-pro-2-front.jpg",
+          "cap": "Viture Pro 2 front © Viture"
+        },
+        {
+          "t": "p",
+          "x": "The display was refined with Viture's UltraClarity 3.0, focused on sharper clarity and less distortion. Per-eye resolution stays at 1,920 x 1,080, the same as before, but the field of view widened from 46 degrees to 50 degrees."
+        },
+        {
+          "t": "p",
+          "x": "Even with the thinner build, diopter adjustment for vision correction and 3DoF support through the SpaceWalker app both stuck around. The diopter setting is especially useful for anyone nearsighted who'd rather skip prescription lens inserts."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/viture-pro-2-diopter.jpg",
+          "cap": "For nearsighted users, the diopter is a big advantage. © Viture"
+        },
+        {
+          "t": "p",
+          "x": "In the growing XR/AR glasses market, the Pro 2 lands on the side that covers both price and performance. It's available now directly from Viture.com and Amazon."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-wear-os-overlay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The new look for Gemini on Wear OS, unveiled alongside Wear OS 7, has finally started rolling out. The approach is lifted straight from the phone. It is an overlay design built on Neural Expressive, the visual language Gemini already uses on Android phones and tablets. The change is meant to make the assistant feel the same no matter which screen you tap."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/Wear-OS-7-featured-image.jpg?resize=1200%2C720",
+          "cap": "Wear OS 7 (Photo: Google)"
+        },
+        {
+          "t": "p",
+          "x": "Until now, calling up Gemini on the Pixel Watch meant opening the app in full. The entire screen got taken over by it. There was nothing wrong with using it that way, but it fell short of the smooth, connected feel of calling Gemini on a phone. This update closes that gap."
+        },
+        {
+          "t": "p",
+          "x": "Instead of a separate app popping up, Gemini now appears as an overlay on top of whatever watch face you are looking at, just as it does on an Android phone or tablet. The background is the same Neural Expressive, and the spark icon and greeting used everywhere else carry over unchanged."
+        },
+        {
+          "t": "p",
+          "x": "The Play Store screenshots show a few more small touches. What you say to Gemini now streams by as live captions, and a checkmark appears once a task is done instead. It is a small change, but it shifts the back-and-forth from a black box toward something more like a conversation."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/google-gemini-wear-os-play-store-screenshot.jpg?resize=1478%2C512",
+          "cap": "The new overlay screen as it appears on the Play Store (Google Play Store)"
+        },
+        {
+          "t": "p",
+          "x": "The phrase cross-device consistency sounds dull, but it actually changes how using the assistant feels. When Gemini has the same face and moves the same way whether you tap the watch or the phone, it reads not as three things stitched together, but as one helper that follows you around."
+        },
+        {
+          "t": "p",
+          "x": "If you have a Pixel Watch 4, it is worth keeping an eye on your Play Store updates. This overlay has already started reaching some watches, and you could be next."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemma4-offline-translator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you've wondered just how far Google's Gemma models can go, here's something worth seeing. A handful of Google engineers built a fully offline translator powered by Gemma 4 E4B running on a Raspberry Pi 5."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
+          "cap": "The Gemma translator prototype (Google Antigravity / YouTube)"
+        },
+        {
+          "t": "video",
+          "yt": "4dNry5zP0Jo"
+        },
+        {
+          "t": "p",
+          "x": "The build used Google Antigravity for development, with Gemma 4 E4B acting as the brain that moves between languages. The case to hold the electronics was 3D-printed from scratch. A display for showing the translated sentence, a microphone, a speaker, a push-to-talk button, and a knob for switching languages all fit into one unit."
+        },
+        {
+          "t": "p",
+          "x": "LiteRT-LM drives Gemma 4 E4B, and Moonshine speech synthesis handles sending the translated words out through the speaker. Everything runs on the Raspberry Pi 5, and a custom-built screen on the small touchscreen shows the translation in real time."
+        },
+        {
+          "t": "p",
+          "x": "The most striking part of this project is that, once the initial setup is done, everything runs offline. It just works in places with no cellular signal and no Wi-Fi. Gemma 4 E4B handles the translation without leaning on a server to borrow compute. Google Translate and most other translation apps need to be connected to the internet to translate speech."
+        },
+        {
+          "t": "p",
+          "x": "The translator is a solid showcase for Google Antigravity and the Gemma 4 model at the same time. The 3D-printing files for the case and the code are all up on GitHub, so anyone can download them, compile them, and build their own translator."
+        }
+      ]
+    },
+    "gadgets/gadgets-kids-smartwatch-stalkerware": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A smartwatch built to let parents keep an eye on their kids turned out to be surprisingly easy to crack. In a newly published demonstration, security researchers showed how to secretly spy on someone wearing a GPS-equipped kids' smartwatch."
+        },
+        {
+          "t": "p",
+          "x": "It takes photos, listens through the microphone, and even tracks location, all without the wearer noticing a thing. The findings, reported by Wired, go well beyond a problem with a single device."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/kid-wearing-smartwatch.jpg?resize=1200%2C720",
+          "cap": "A child wearing a smartwatch (Ron Lach / Pexels)"
+        },
+        {
+          "t": "p",
+          "x": "Security researchers Vangelis Stykas and Felipe Solferini quietly followed a wearer's entire day using a $30 kids' smartwatch bought online. Even when the GPS signal wavered, the watch kept leaking nearby Wi-Fi information, and the pair used that to pin down the location."
+        },
+        {
+          "t": "p",
+          "x": "They remotely turned on the camera to take photos and listened in through the built-in microphone. The device showed no warning of any kind. The watch runs on the SETracker platform made by Shenzhen-based manufacturer YiQingTeng, and a hole in its authentication let anyone send commands to connected devices."
+        },
+        {
+          "t": "p",
+          "x": "What is more worrying is that this smartwatch is not a special case. Other connected devices aimed at families have a history of letting outsiders quietly in without the family ever knowing. According to the researchers, dozens of smartwatch brands sit on top of the same software platform and backend services."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/infographic-showing-various-smart-wearbale-devices.jpg?resize=1350%2C810",
+          "cap": "Various smart wearable devices (Simon Hill/Digital Trends)"
+        },
+        {
+          "t": "p",
+          "x": "Vulnerabilities the researchers found included viewing location, intercepting messages, swapping emergency contacts, recording audio, and capturing photos and video. They notified the manufacturers privately months ago. One appeared to close some of the holes right before the public disclosure, but the rest either never responded or remained wide open."
+        },
+        {
+          "t": "p",
+          "x": "After examining more than 70 GPS-equipped devices, the two researchers reached this conclusion: millions of smartwatches and vehicle trackers are built on a supply chain small enough to count on one hand. A single hole touches products sold under many different brand names at once. Parents in different countries can buy watches from different brands and still never know that their child's location is being sent to the same vulnerable server."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-ai-lockscreen-clocks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Alongside a feature that lets you freely rearrange Quick Settings, Android Canary 2608 has revealed work on AI-generated lock screen clocks for Pixel."
+        },
+        {
+          "t": "p",
+          "x": "With a bit of tinkering, you can get as far as seeing the screen on Android Canary 2608. The server-side feature, though, is not switched on yet."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-1-1.jpg?ssl=1",
+          "cap": "The screen for entering an AI prompt"
+        },
+        {
+          "t": "p",
+          "x": "There is an “Enter AI Prompt” field, and Google offers examples under “Ideas.” You can also upload a reference image. The gallery screen lets you save several designs and pull them up later."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-2-1.jpg?ssl=1",
+          "cap": "A generated set of clock digits"
+        },
+        {
+          "t": "p",
+          "x": "What it ends up producing is a unique set of digits from 0 to 9. Any material or visual style can be applied, and the scope looks set to be limited to digital clocks. It is not a very different approach from AI wallpapers. The eight clocks Google built into Pixel have stayed the same for quite a while now."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-3-1.jpg?ssl=1",
+          "cap": "A gallery for viewing saved designs together"
+        },
+        {
+          "t": "p",
+          "x": "A feature that shows up in Canary does not always make it out into the world. The expanded dynamic color theme option that landed in the June build still has not appeared, even now that Android 17 QPR2 Beta 2 is out."
+        }
+      ]
     }
   }
 }

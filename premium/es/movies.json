@@ -3457,6 +3457,942 @@
           "x": "Esto saca el trabajo generativo del terreno del azar del prompt y lo lleva a un trabajo controlado, dirigible y corregible. El tipo de control fino que cineastas y artistas de previsualización esperaban."
         }
       ]
+    },
+    "movies/kokboru": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield, una plataforma de video con IA, presentó su primer cortometraje animado de 15 minutos, Kök Börü, en SIGGRAPH 2026. No solo proyectó la obra, sino que también repasó el flujo de trabajo híbrido entre humanos e IA que la hizo posible."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx"
+        },
+        {
+          "t": "p",
+          "x": "La historia ocurre en Asia Central en el siglo XV. Es un drama de época arraigado en la vida nómada y el folclore, que combina IA generativa con animación digital dibujada a mano. Es una historia difícil de financiar con un presupuesto grande, y más difícil aún como cortometraje."
+        },
+        {
+          "t": "p",
+          "x": "“Como artistas de Asia Central, son historias que escuchamos al crecer, pero que casi nunca se ven en pantalla”, dijo el director Shakhnazar Borboev. “Este tipo de películas no siempre tiene oportunidad, así que llevar nuestras historias a la pantalla lo significa todo para nosotros”."
+        },
+        {
+          "t": "p",
+          "x": "El título viene de kök börü, el juego tradicional ecuestre de Asia Central también llamado kokpar, en el que equipos a caballo arrastran el cadáver de un animal para cruzar la línea de meta y anotar puntos, y que en 2017 entró en la Lista Representativa del Patrimonio Cultural Inmaterial de la UNESCO. El juego usa una cabra o una oveja, pero la película pone a un lobo en el centro."
+        },
+        {
+          "t": "p",
+          "x": "Ana, una joven madre nómada que tuvo que elegir a cuál de sus dos hijos salvar de una manada de lobos en medio de una tormenta de nieve, pierde a su hija pequeña en la estepa. Años después, el pueblo sale a matar a una niña “demonio” que corre junto a los lobos, y Ana debe decidir si busca a esa hija y la lleva a casa o la deja ir."
+        },
+        {
+          "t": "video",
+          "yt": "BwVG_n9-jz4"
+        },
+        {
+          "t": "p",
+          "x": "La codirección corre a cargo de Borboev, de Kirguistán, y de Amina Ömirjan y Stepan Abramov, de Kazajistán. El equipo lo forman 12 personas en total: cinco animadores, dos guionistas, tres productores de sonido, una artista de color y un supervisor de sonido. Las voces las pusieron directamente actores kazajos."
+        },
+        {
+          "t": "p",
+          "x": "Las hojas de personajes, las localizaciones y todos los fondos se generaron primero con Soul Cartoon de Higgsfield, un modelo entrenado en un clúster de NVIDIA B300 conectado con NVLink. Después vino un proceso más cercano a la animación tradicional, en el que los artistas redibujaron y pulieron esos resultados con tabletas Wacom."
+        },
+        {
+          "t": "p",
+          "x": "Las escenas de actuación se rodaron de verdad y se trasladaron a los personajes con el Motion Control de Higgsfield. Sin trajes, sin marcadores y sin pantalla verde, los personajes recibieron el ritmo, el peso y la emoción de las actuaciones humanas tal cual."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081150-kopiyakbvis03-1280.jpg?itok=qoP41Dgo"
+        },
+        {
+          "t": "p",
+          "x": "La animación principal salió de Higgsfield Cinema Studio, un agente de IA que dirige varios modelos, y de su Supercomputer. Se encargó de los fotogramas intermedios, la puesta en escena, la construcción de fondos, la actuación de los personajes, el movimiento de las escenas de acción, los diálogos cargados de emoción y los ajustes de iluminación y atmósfera. El proceso corre de principio a fin sobre GPU de NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield dijo que este enfoque híbrido le permitió terminar la película en dos semanas, un trabajo que con producción tradicional habría costado entre uno y dos años y entre 1 y 2 millones de dólares. “Mostrar esta película y el proceso que hay detrás es demostrar lo que ya es posible hoy”, dijo el cofundador y CEO Alex Mashrabov. “El objetivo nunca fue sustituir a los artistas”."
+        },
+        {
+          "t": "p",
+          "x": "La empresa describe Kök Börü como un ejemplo de human-conditioned production, es decir, producción condicionada por humanos. El diseño de personajes dibujado a mano, los props y las texturas pintadas fijan primero el aspecto, la actuación y la dirección emocional de cada plano, y después se superpone la salida de la IA."
+        }
+      ]
+    },
+    "movies/promiseai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Desde que comenzó la era del cine con IA, los guionistas de Hollywood se han resistido a poner su nombre cerca de ese tipo de trabajo. A lo sumo, retocaban algún proyecto en silencio y cobraban el cheque, o le pedían ideas a ChatGPT cuando una escena no funcionaba. Poner su nombre en un anuncio es otra cosa. Antes de eso, parecía más probable que un LLM ganara un Oscar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/PromiseTuning.png?w=960&h=540&crop=1",
+          "cap": "Una escena de la película animada de IA 'Tuning In', hecha por Promise AI"
+        },
+        {
+          "t": "p",
+          "x": "Eso está cambiando. Guionistas con crédito se están subiendo a películas de IA que desarrolla Promise AI, dijo la compañía a The Hollywood Reporter. Esta startup de Los Ángeles se dedica a crear obras originales con IA."
+        },
+        {
+          "t": "p",
+          "x": "Estos son los nombres. Jamie Magnus Stone, que dirigió ocho episodios de las temporadas 12 y 13 del Doctor Who moderno, y Micho Rutare, que hizo crecer la franquicia Sharknado en su antigua casa The Asylum y escribió el año pasado la película de Hulu Predator: Killer of Killers. A diferencia de figuras como Martin Scorsese, que solo probaron las herramientas, estos dos se metieron mucho más a fondo en la IA."
+        },
+        {
+          "t": "p",
+          "x": "El emparejamiento viene del criterio de los directivos de Promise de que las películas de IA salen mejor cuanto más se mezclan con el guion y el desarrollo tradicionales. “Las personas que hacen películas de IA tienen una habilidad muy poco común, porque tienen que dominar decenas de herramientas”, dijo Tyler Mitchell, quien dirige el desarrollo en Promise. “A eso se suma que el escritor aporta todo su talento. Se forma un mapa muy sólido y todos quedan alineados en la misma dirección.”"
+        },
+        {
+          "t": "p",
+          "x": "Stone está escribiendo Everything is Within Tolerance, una historia en un búnker sobre científicos que hacen experimentos mientras, sin saberlo, también son sujetos de experimentación. Rutare se encarga de Ninja Punk, una animación sobre ninjas, yakuzas y un submundo sobrenatural en el Los Ángeles de 2065. A Stone lo acompaña el cineasta de IA Guillaume Hurbault, y a Rutare, el director de creatividad de Promise, Dave Clark."
+        },
+        {
+          "t": "p",
+          "x": "Promise, fundada por dos personas que vienen de YouTube, ya ha mezclado a personas ajenas al mundo tecnológico con el entretenimiento tradicional. Su financiación viene de North Road, fundada por Peter Chernin. Mitchell no ve contradicción en eso. “Miren lo que hace Pixar. Lo pasan por el proceso una y otra vez y lo reescriben varias veces. Pero eso sale muy caro.”"
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por el rechazo, Rutare respondió por correo. “Hablando con otros guionistas, hay miedo a lo desconocido, pero también entusiasmo por las oportunidades que abrirán estas nuevas herramientas.” Sobre si películas como Sharknado se volverán más fáciles de hacer, dijo: “Por supuesto.”"
+        },
+        {
+          "t": "p",
+          "x": "Hay otras combinaciones. Clark está haciendo Tuning In, una animación musical sobrenatural de mayoría de edad, junto con Robert Rugan, coguionista de The Curse of Bridge Hollow. Clark y el artista de IA Metapuppet ya están produciendo la serie de cortos Hardcore 94 con el recién llegado Ivan Rome."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, toda la financiación sale de Promise. A menos que sea un híbrido que mezcle imagen real, no cuesta mucho dinero. Mitchell dijo que buscarán socios de distribución, pero no está claro si se sumará un gran servicio de streaming o una cadena de cines. “Queremos estar entre los primeros en contar grandes historias con esta nueva tecnología. Al final, nos juzgarán por eso.”"
+        }
+      ]
+    },
+    "movies/raindanceimgn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Festival de Cine Raindance se ha asociado con IMGN, una plataforma israelí de desarrollo creativo con IA. Lanza su primer fondo de £10,000 (13,394 dólares) para apoyar a cineastas independientes, y construye junto con IMGN un centro de desarrollo vinculado al concurso de guiones de Raindance."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El anuncio se hizo en la 34.ª edición del Festival de Cine Raindance, celebrada en Londres. El IMGN/Raindance Film Fund está dirigido a guionistas y directores indie que recién empiezan, y crecerá en escala a medida que la colaboración se amplíe. El centro se integrará formalmente en el concurso de guiones de Raindance de 2027. Los guionistas seleccionados perfeccionarán sus guiones y crearán material visual con IMGN durante el desarrollo del guion antes de presentar sus proyectos."
+        },
+        {
+          "t": "p",
+          "x": "“Raindance se creó para dar a los cineastas independientes un hogar, un lugar donde las historias audaces y ambiciosas puedan encontrar el apoyo que necesitan”, dijo el fundador Elliot Grove. “Junto con IMGN, estamos reforzando ese apoyo desde la etapa más temprana, el guion. Empezar el fondo en £10,000 y dejar claro que pensamos hacerlo crecer es convertir esa promesa en algo tangible para la próxima generación de directores indie.”"
+        },
+        {
+          "t": "p",
+          "x": "El fondo está abierto a los solicitantes que cumplan los requisitos del concurso de 2027. Presentan junto con su solicitud el material desarrollado con IMGN, y si son seleccionados, reciben financiación además del desarrollo creativo y estratégico del centro. Está diseñado para reducir la barrera de entrada de los creadores independientes que no tienen contactos en la industria ni recursos de desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "“Esta colaboración con IMGN es una extensión natural de lo que Raindance siempre ha hecho: sacar el cine de las manos de unos pocos y ponerlo en las de cualquiera que tenga una historia que contar”, dijo el director ejecutivo David Martínez. “Para una nueva generación de directores indie que aprende y trabaja fuera del sistema tradicional, herramientas como esta marcan una diferencia real. IMGN y nosotros usamos la IA no para sustituir a los guionistas, sino para apoyarlos y fortalecerlos, dejando el control, los derechos de autor y la independencia en manos del propio director y no de un guardián.”"
+        },
+        {
+          "t": "p",
+          "x": "Martínez dejó claro que las herramientas de IA de este programa “se centran en la planificación de la producción, no en cambiar el guion.” “En el fondo de producción de £10,000 solo evaluamos cómo usa el guionista las herramientas de planificación de producción y flujo de trabajo de IMGN. El resto de las funciones de la plataforma son todas opcionales. No pasa nada si decide no usar IMGN en absoluto. No hay obligación de participar, y el guion sigue siendo totalmente válido para el concurso de guiones de Raindance y todos sus premios. Solo queda excluido de la consideración para el fondo de producción de £10,000.”"
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de IMGN, Oz Vidal, dijo que “IMGN ayuda a los creadores a pasar de una idea a un proyecto listo para pantalla de la forma más eficiente y creativa posible.” También dijo que ve un “cambio claro” en la industria. “La conversación está pasando de si la IA tiene lugar en el cine a cómo usarla de forma responsable para resolver problemas reales de producción.”"
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos de elegibilidad, los plazos de presentación y los criterios de evaluación se darán a conocer más adelante, antes del concurso de guiones de Raindance de 2027. La IA destacó en Raindance este año. “Lost Canon”, una iniciativa de cortometrajes asistidos por IA con CapCut y Moonmax, presentó 10 cortos hechos con CapCut Video Studio, y Moonmax también organizó una masterclass de cine con IA."
+        }
+      ]
+    },
+    "movies/gods-gifts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El largometraje 'Gods Don't Give Gifts', del canal de YouTube Gossip Goblin, se hizo de principio a fin con IA. El proyecto se perfila como la siguiente película de IA en pasar de una sólida base de seguidores en YouTube a un estreno en cines."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/07/Gods-Dont-Give-Gifts-still.png?w=1024",
+          "cap": "Fotograma de 'Gods Don't Give Gifts'"
+        },
+        {
+          "t": "p",
+          "x": "Al llevar directamente a los cines al público reunido en línea, se convierte en un ejemplo concreto de una película hecha con IA generativa que alcanza la distribución convencional."
+        }
+      ]
+    },
+    "movies/reluctant-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Durante 15 años hice cine de forma tradicional. Trabajando como ejecutivo de cine independiente en franquicias como The Expendables, Has Fallen, The Hitman's Bodyguard, Rambo y Hellboy, conocí la magia de un rodaje a las 4 de la madrugada. La primera vez que vi a la IA generar una película dentro de un ordenador, en lugar de en un plató, lo que sentí no fue asombro, sino tristeza."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DSC00794-1.jpg?w=1296&h=730&crop=1",
+          "cap": "Scott Eastwood y el productor Jonathan Yunger en el rodaje de la película sobre la Segunda Guerra Mundial “Lucky Strike”."
+        },
+        {
+          "t": "p",
+          "x": "Me negué a convertirme en defensor de la IA. La idea de que los algoritmos sustituyeran a los directores y de que una “actriz” de IA se convirtiera en estrella me incomodaba y me asustaba. Aun así, cambié de postura, no por entusiasmo, sino por necesidad."
+        },
+        {
+          "t": "p",
+          "x": "La economía del cine se tambaleó con fuerza. Las películas de presupuesto medio, que antes costaban 35 millones de dólares, ahora se tratan como apuestas temerarias, y los márgenes se han reducido año tras año hasta que los números que sostenían mi carrera dejaron de funcionar. Casi uno de cada dos estrenos es una secuela, un reinicio o la adaptación de una propiedad existente. La verdadera víctima no es el presupuesto, sino la originalidad. Al no encontrar los estudios motivos para apostar por historias sin probar, desaparece el espacio para que surja el próximo Ryan Coogler, Chloé Zhao o Paul Thomas Anderson."
+        },
+        {
+          "t": "p",
+          "x": "Si quienes entienden de cine se quedan fuera del desarrollo de herramientas de IA, la tecnología se alejará aún más del arte que amamos. La tecnología llegará de todos modos; la pregunta es en qué manos se moldea. En el rodaje, la IA no debería sustituir a las personas, sino eliminar el costo y la fricción de procesos que nunca fueron la esencia del cine. De los miles de decisiones que hay detrás de una sola película, la mayoría no son actuación ni guion, sino la costosa labor de repetir, coordinar y convertir ideas en fotogramas terminados. Al comprimir ese proceso, una historia de 40 millones de dólares se vuelve posible por una fracción del costo."
+        },
+        {
+          "t": "p",
+          "x": "Más películas baratas significan más películas, y más oportunidades para nuevas voces. Hay un solo principio que proteger: no frenar la creatividad, sino protegerla. Ya lo hemos demostrado. Hank Hoffman y yo creamos Arcana, un conjunto de herramientas de IA generativa: un sistema integrado que preserva el control narrativo y la coherencia desde el guion hasta la escena terminada, mientras protege los datos y la imagen de las personas."
+        },
+        {
+          "t": "p",
+          "x": "En 2025 firmamos un acuerdo con el SAG-AFTRA para el cortometraje Echo Hunter, con el que buscamos demostrar que incluso una película hecha con IA puede mantener en su centro a personas reales: actores, guionistas, directores, compositores. Dirigida por Kavan the Kid, la película capturó la voz y las expresiones reales de los actores y luego usó Arcana para la animación y los efectos visuales, con un presupuesto de menos de 50.000 dólares."
+        },
+        {
+          "t": "video",
+          "yt": "B-lfTmZp1DE"
+        },
+        {
+          "t": "p",
+          "x": "Lo que más me enorgullece es ese acuerdo sindical. Echo Hunter demuestra que las herramientas de IA y la creatividad humana pueden coexistir en condiciones que un sindicato acepte. Las visualizaciones de este corto en YouTube se acercan a las 500.000. Todos los estudios y plataformas enfrentarán pronto la misma decisión. La postura que recomiendo es una IA guiada por artistas, no un arte guiado por IA. No fundé esta empresa para eliminar a los cineastas, sino porque no podía quedarme viendo cómo la industria que los emplea se derrumbaba sin luchar. Cómo, con qué rapidez y según las reglas de quién la IA cambiará Hollywood sigue siendo una decisión que nos corresponde a nosotros."
+        }
+      ]
+    },
+    "movies/reply-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Festival de Cine Reply AI, que se celebra junto a Venecia, presentó a su jurado para los cortometrajes hechos con IA. En la lista figuran el director Rob Minkoff, de The Lion King, y la directora Catherine Hardwicke, de Twilight."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1",
+          "cap": "Rob Minkoff y Catherine Hardwicke"
+        },
+        {
+          "t": "p",
+          "x": "Dada a conocer antes del anuncio de los premios, esta lista señala que directores ya consolidados han empezado a involucrarse directamente en la producción de cortometrajes con IA generativa."
+        }
+      ]
+    },
+    "movies/sparkstory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lightcraft Technologies ha abierto una beta progresiva de Spark Story, un sistema de producción virtual rápido pensado para ayudar a los cineastas a pulir la historia juntos desde el primer día. Con entornos digitales realistas, movimiento físicamente preciso y modelos reales de cámara y lente, las decisiones creativas iniciales se mantienen hasta el rodaje. El lanzamiento oficial será este otoño."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg",
+          "cap": "Biblioteca de entornos y localizaciones de Spark Story"
+        },
+        {
+          "t": "p",
+          "x": "El sistema se mostrará en SIGGRAPH 2026, estand 512, del 21 al 23 de julio. Spark Story está diseñado para esbozar historias originales en 3D desde un navegador o una app móvil, reduciendo costos y ayudando a definir los planos. Equipos de todo el mundo colaboran en tiempo real sobre guiones, Gaussian splats, activos USD importados y movimientos de cámara."
+        },
+        {
+          "t": "p",
+          "x": "“Ha llegado un nuevo día para los cineastas que buscan romper con las viejas fórmulas. Backrooms y Obsession son solo el comienzo,” dijo Elliot Mack, cofundador y CEO de Lightcraft. “Con Spark Story, los equipos ambiciosos crean los proyectos que quieren sin grandes costos ni infraestructura.”"
+        },
+        {
+          "t": "p",
+          "x": "La beta incorpora una nueva biblioteca de activos y entornos 3D: 25 entornos Marble de World Labs y más de 300 activos 3D seleccionados por género. La app para iOS admite composición en vivo 24p/25p con un clic, de modo que quienes usan IA o croma azul/verde también pueden obtener un 'SuperDaily' de calidad completa directamente desde el teléfono durante el rodaje."
+        },
+        {
+          "t": "p",
+          "x": "Lightcraft también lanzó Spark Atlas, una app de transferencia multiplataforma que sincroniza el material con la base de datos de Spark y lo vincula a la escena 3D y el fragmento de guion correspondientes. Ahora los archivos USD de Blender, Unreal Engine y Maya se importan directamente, sin convertirlos a USDZ."
+        },
+        {
+          "t": "p",
+          "x": "Lightcraft fue fundada por el inventor ganador de un Emmy Elliot Mack y el fundador de Avid, Bill Warner, su presidente. Las solicitudes para la beta de Spark Story están abiertas, y el acceso se concede por fases antes del lanzamiento."
+        }
+      ]
+    },
+    "movies/aitoolvetting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta es la continuación de un artículo que escribí hace seis meses sobre los riesgos de la 「programación vibe」. Llevo casi 10 años asesorando en torno al aprendizaje automático, y fui de los que pagaron por ChatGPT en cuanto salió, en noviembre de 2022. En los últimos 18 meses he creado más de diez programas, todos ellos hechos con programación vibe. También administro el subreddit /r/editors, donde ahora se abre un hilo nuevo sobre herramientas cada mes. Ahí fue donde vi explotar este tipo de herramientas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/image-20260722162716907-1024x185.png"
+        },
+        {
+          "t": "p",
+          "x": "Aquí suele haber dos corrientes. La de la fiebre del oro quiere cobrar una suscripción por algo que dicen haber hecho único, pero por apurarse a llegar al mercado no terminan de entender a sus usuarios. La de resolver problemas es un equipo pequeño que topó con un cuello de botella real y lo arregló por su cuenta. Si es una herramienta hecha para su propio uso, el riesgo es bajo y está bien usarla tal cual. Pero ambas comparten la misma debilidad: el riesgo. De hecho, una gran producción confió en un software pequeño que parecía útil y lo dejó correr, y sin que nadie se diera cuenta se acumularon miles de archivos pequeños en el SAN."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, antes de llevar cualquier herramienta a producción, me hago cinco preguntas. Si quien la creó desaparece, ¿quién la mantiene? ¿Qué pasa si cambia la API o la plataforma? ¿Cómo se probó, qué intentaron romper? ¿Guarda credenciales o datos personales, y cómo maneja la seguridad? ¿Es un producto vivo con versiones y registro de cambios? Ninguna respuesta por sí sola descarta una herramienta. Es simplemente una medida de cuánto riesgo estoy asumiendo ahora, y de si mi cliente y yo podemos absorberlo si algo sale mal."
+        },
+        {
+          "t": "p",
+          "x": "Lo que sostiene un flujo de trabajo es la fiabilidad, y eso es el verdadero producto. Un equipo que ha acumulado en silencio diez de estas herramientas se viene abajo en cuanto cambia una API o el desarrollador pierde interés. Así que asegura primero una salida. Antes de montar tu flujo de trabajo sobre la herramienta de otro, averigua cómo recuperarías tu trabajo si esa herramienta deja de existir. También hay que comprobar si el backend está en un país que incomodaría a tus clientes, y si está usando la propiedad intelectual de tus clientes para entrenar modelos. La respuesta nunca iba a ser 「no」 desde el principio. Es 「sí」, pero con los ojos abiertos."
+        }
+      ]
+    },
+    "movies/nvidia-synthetic-video-detector-mcp-siggraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA presentó dos novedades en SIGGRAPH 2026. Una es un detector de video sintético para verificación de medios; la otra es un agente de IA que llega a todo tipo de herramientas creativas mediante MCP (Model Context Protocol)."
+        },
+        {
+          "t": "p",
+          "x": "El microservicio NIM de detección de video sintético ayuda a las salas de redacción y a las cadenas de radiodifusión a identificar video sintético. Analiza el metraje fotograma por fotograma y genera una puntuación de clasificación sobre si hay elementos sintéticos mezclados. Los equipos de edición pueden usar esta puntuación para “priorizar la revisión, marcar y aislar clips sospechosos, o remitirlos a una verificación adicional”. NVIDIA aclaró que esta herramienta “no sustituye la verificación de hechos existente, sino que añade una señal al proceso de verificación”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg?width=1920&height=1080&name=agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg",
+          "cap": "IA agéntica NeMo Claw en una estación DGX en SIGGRAPH 2026"
+        },
+        {
+          "t": "p",
+          "x": "La precisión es del 92% en video sin comprimir, 87% con compresión del 15% y 82% con compresión del 50%. La velocidad de procesamiento es de 22 milisegundos para 1080p en RTX y 30 milisegundos en una GPU L40. Maneja la compresión, el redimensionado, el recorte y la recodificación habituales en video de noticias y redes sociales, y se despliega en entornos locales, de borde, híbridos y con separación de red (air-gapped). Como primer socio, Waza incorporó el detector a su propio Video Intelligence Framework."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/nvidiaai%20agents.jpg?width=1920&height=1084&name=nvidiaai%20agents.jpg",
+          "cap": "Los agentes de IA de NVIDIA llegan a las herramientas creativas"
+        },
+        {
+          "t": "p",
+          "x": "La integración con MCP también se amplió. Adobe está extendiendo los agentes a Firefly, Express y toda la Creative Cloud, mientras que Affinity, de Canva, añadió un conector de IA para Claude para encargarse de renombrar capas y realizar ediciones masivas. Blender, Boris FX Silhouette, Foundry Griptape, SideFX Houdini 22 y Unreal Engine también abrieron sus puertas, cada uno a través de MCP, para que los agentes puedan leer y manipular el estado de la escena y del proyecto."
+        }
+      ]
+    },
+    "movies/saga-ai-video-source-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación de UC Riverside presentó SAGA (Source Attribution of Generative AI Videos). No se limita a distinguir lo falso de lo real, sino que es un marco que rastrea el sistema de IA que creó el video. El profesor supervisor es Amit Roy-Chowdhury, y el trabajo fue liderado por el estudiante de doctorado Rohit Kundu."
+        },
+        {
+          "t": "p",
+          "x": "Así es como funciona: lee los patrones visuales distintivos que un generador deja en sus fotogramas. Kundu explicó que “estos patrones son como huellas dejadas por el modelo generativo”. Como cada generador deja una firma forense distinta, el sistema puede diferenciarlos."
+        },
+        {
+          "t": "p",
+          "x": "Examina cómo cambian los elementos visuales de un fotograma a otro. El enfoque profundiza en el hecho de que cada generador maneja estas transiciones de forma distinta y deja artefactos diferentes."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
+          "cap": "El marco SAGA rastrea el origen del video generado por IA"
+        },
+        {
+          "t": "p",
+          "x": "Con los deepfakes y la desinformación por IA en aumento, este es un dispositivo que ayuda a los investigadores forenses digitales a rastrear campañas de desinformación hasta su origen. YouTube y Google DeepMind también participaron en esta investigación."
+        }
+      ]
+    },
+    "movies/wonder-dynamics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24"
+        },
+        {
+          "t": "p",
+          "x": "Los cofundadores de Wonder Dynamics, Tye Sheridan y Nikola Todorovic, explicaron cómo su trayectoria en el cine dio forma a Autodesk Flow Studio."
+        },
+        {
+          "t": "p",
+          "x": "Flow Studio es una herramienta de IA que traslada la actuación real a personajes de CG, pero no deja todo en manos de la máquina. El artista toma las decisiones clave, y se integra sin problemas en los flujos de trabajo de VFX existentes."
+        },
+        {
+          "t": "p",
+          "x": "Es un relato sobrio y cercano que presenta el paso de la actuación al CG como un flujo de trabajo artesanal, no como un reemplazo."
+        }
+      ]
+    },
+    "movies/movies-indiewire-a16z-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sea cual sea la postura, hoy no hay tema que aparezca tan a menudo en el mundo del cine como la IA. También es el área de mayor crecimiento en la inversión en cine independiente. La respuesta depende de a quién se le pregunte: para unos es una herramienta revolucionaria que libera un potencial oculto, para otros es una amenaza que arrebata la esencia del arte."
+        },
+        {
+          "t": "p",
+          "x": "Entre esos dos extremos, es difícil que se asiente una conversación realista. IndieWire y el Cultural Leadership Fund de Andreessen Horowitz crearon ese espacio en el American Pavilion del Festival de Cannes. El evento se llamó “Music, Film & the New Storytelling Stack — Co-Authoring What Comes Next”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/07/DSC_7794.jpg?w=1200&h=758&crop=1",
+          "cap": "Judine Small, Chris Opalt, Roan Hilton, Diego Rodriguez y David Clark sobre el escenario del American Pavilion en Cannes"
+        },
+        {
+          "t": "p",
+          "x": "La primera sesión fue moderada por Judine Small, socia del Cultural Leadership Fund, junto a Roan Hilton, CEO de Masters vs. Machine; Diego Rodriguez, fundador y CTO de Krea; y Chris Opalt, de IndieWire. Los tres hablaron del equilibrio entre la mano humana y las herramientas de IA, e insistieron sobre todo en aclarar la terminología."
+        },
+        {
+          "t": "p",
+          "x": "Rodriguez lo planteó así: “La palabra 'IA' me molesta especialmente, porque significa algo distinto para cada persona. Para algunos es un chatbot, para otros es TikTok o un motor de recomendaciones, para otros es la tecnología que automatiza su trabajo, y para otros es una nueva herramienta que ayuda a los artistas. Si eso no se aclara, ni siquiera se puede empezar la conversación.”"
+        },
+        {
+          "t": "p",
+          "x": "Opalt consideró que el debate actual llega demasiado pronto, que la gente está reaccionando a prototipos burdos que nunca llegarán a una producción real. “El problema es que en el momento en que alguien dice 'IA', lo primero que viene a la mente es algún montaje tosco de Brad Pitt peleando con Tom Cruise. Ya es difícil crear un espacio para hablar de esto. Es un mundo que mueve el dinero, y el público da la espalda en cuanto oye esa palabra.”"
+        },
+        {
+          "t": "p",
+          "x": "Hilton consideró que el problema va más allá de la tecnología o la economía y toca la filosofía. “Los humanos quieren que el arte tenga un costo. Nos conectamos con el esfuerzo, con el proceso de conseguir algo invirtiendo tiempo. En el momento en que un resultado sale de una sola instrucción, ese costo se tambalea.” Dijo que defender la IA tiene que empezar por reconocer ese miedo."
+        },
+        {
+          "t": "p",
+          "x": "La colaboración se mostró directamente sobre el escenario. Mientras Hilton y un chelista tocaban, Rodriguez superponía imágenes generadas en tiempo real con Krea. Fue un momento en el que se pudo ver con los propios ojos el argumento de que esto es expansión, no sustitución."
+        },
+        {
+          "t": "p",
+          "x": "La conversación pronto pasó a los derechos de autor. Rodriguez dijo: “Me frustra que los reguladores y los titulares de propiedad intelectual vean la IA como un enemigo y no como una herramienta. ¿Sabían que con IA se puede detectar a gran escala si mi propiedad intelectual está siendo infringida?” Small añadió que, ahora que la industria todavía es joven, es precisamente el momento para que los creadores aseguren su parte desde la etapa de infraestructura."
+        },
+        {
+          "t": "p",
+          "x": "El último turno fue para Dave Clark, cofundador y director de contenido creativo (CCO) de Promise Studios. Un cortometraje hecho con herramientas de IA, “Silent Valley”, lo llevó a sentarse frente a Ridley Scott. “Para él lo importante no era el acabado del resultado, sino la historia. Me dijo que había sacado mi historia con herramientas de las que nadie conoce ni el nombre. Pero las herramientas solas no lograron nada. Fueron los diez años que pasé investigando la historia y aprendiendo la historia que quería contar los que dejaron que las herramientas me convirtieran en director.”"
+        }
+      ]
+    },
+    "movies/movies-seedance-nvidia": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2vSqzvonRts"
+        },
+        {
+          "t": "p",
+          "x": "La primera noticia de esta semana es InSpatio 4D Gaussian Splats, una herramienta que permite subir un único clip de video y moverse por él en un espacio 3D. La herramienta de la semana pasada necesitaba un conjunto de cámaras filmando desde varios ángulos, pero esta deja que la IA adivine y rellene lo que hay al otro lado del sujeto. Reconstruye la geometría 3D, el movimiento de cámara e incluso el movimiento de los objetos. En una escena de una mujer sirviendo zumo de naranja, mover el punto de vista con las teclas de dirección se parece a reposicionar físicamente una cámara en el set. Todavía no tiene calidad de producción, pero resulta sorprendente hasta dónde se puede llegar con un solo clip."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también presentó una investigación en la misma dirección. Project Wonder convierte una sola imagen o video en un entorno 3D que se puede explorar en tiempo real. No hay demo interactiva, solo ejemplos del paper, pero genera activos en tiempo real tanto en fondos de fantasía y escenas animadas como en un espacio de acción real de una mujer tomando café. Incluso los movimientos de dron que serían costosos de filmar de verdad se generan y completan lo que no era visible desde el ángulo inicial. Que varios equipos hablen a la vez de modelos de mundo 4D sugiere que esa es la dirección de los próximos años."
+        },
+        {
+          "t": "p",
+          "x": "Midjourney lanzó la versión 8.2, con promesas de imágenes más atrevidas y refinadas, menos resultados de baja calidad, y una mejor comprensión del gusto personalizado. En un prompt que colocaba las palabras “North Star” dentro de una esfera de cristal, el texto se alejó del foco y se fundió de forma convincente con la escena. En un prompt de una chaqueta de mezclilla y una señal de “no entry”, hasta el grano de película y la corrección de color resultaron creíbles. GPT-2 dejó una impresión de foto de stock con un ruido fractal sutil, y Reeve se adelantó en el detalle de los personajes y la precisión del texto, pero su dirección y color se acercaban más al stock. Si el objetivo es el realismo cinematográfico y la exploración creativa, sigue siendo Midjourney."
+        },
+        {
+          "t": "p",
+          "x": "LTX lanzó una versión de código abierto 2.3. Al subir un clip, elimina a las personas y produce una placa limpia en segundos. Puede ejecutarse localmente y también se puede probar directamente en Hugging Face, con un máximo de 10 segundos y hasta 960p. Sin embargo, al pasar la misma fuente por Seedance, el resultado fue mejor: el destello de lente se conectaba de forma natural con el sol, y el desenfoque de movimiento y los reflejos de una mujer corriendo eran mucho más estables. En una herramienta de reiluminación que cambia la hora del día, la versión de LTX también deformó a la persona o pintó, de forma incongruente, una playa y globos. Aun así, el hecho de ser gratuita, poder ejecutarse localmente e integrarse con ComfyUI la mantiene útil dentro de un pipeline."
+        },
+        {
+          "t": "p",
+          "x": "Y ahora el tema central de esta semana: Cosmos 3 Super, de Nvidia. Es una actualización del proyecto Cosmos existente y un modelo de mundo abierto que se puede descargar y ejecutar localmente, 25 veces más rápido que los modelos del mercado. El verdadero punto no es la velocidad. Toma cualquier tipo de dato —imágenes, documentos, video, audio, incluso el movimiento físico de robots o personas— y lo entrega en cualquier formato. También ocupa el primer lugar entre los modelos de peso abierto tanto en imagen a video como en texto a imagen. Esto significa que un robot puede explicar sus propias acciones con imágenes o video, no solo con texto, y que el metraje de un humanoide en Marte o un brazo robótico recogiendo una manzana resiste la comparación con los mejores modelos de video en cuanto a realismo físico. La época de encender una herramienta específica para cada tarea específica está a punto de terminar."
+        }
+      ]
+    },
+    "movies/movies-snapchat-ai-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mientras el video corto se ve arrastrado por una ola de contenido basura generado con IA, Snapchat ha vuelto a trazar la línea sobre qué contenido deja entrar en su plataforma."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2271501657.jpg?crop=0px%2C123px%2C6000px%2C3357px&resize=2000%2C1126",
+          "cap": "El logotipo de la app de Snapchat, mientras la compañía aplica nuevas reglas al video generado por IA"
+        },
+        {
+          "t": "p",
+          "x": "La compañía anunció el viernes que prohibirá los videos hechos completamente con IA en Spotlight, el feed que muestra el contenido popular de creadores y estudios."
+        },
+        {
+          "t": "p",
+          "x": "“A medida que el contenido generado por IA de baja calidad y repetitivo se vuelve común en todo internet, queremos que Spotlight siga siendo un lugar donde la gente encuentre creación real de personas reales. Creemos que hay un valor duradero en recompensar perspectivas únicas, historias personales y los momentos que la gente elige crear y compartir por sí misma”, dijo la compañía en un comunicado."
+        },
+        {
+          "t": "p",
+          "x": "Esto no significa eliminar la IA por completo. Los videos “mejorados o editados con las herramientas creativas de IA de Snapchat” todavía pueden aparecer en Spotlight. La explicación añadía: “Reconocemos que para algunos, la IA es una parte importante del proceso creativo y puede abrir nuevas formas de expresión”."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la medida para bloquear el video totalmente generado apunta al contenido basura producido en masa a partir de prompts. A medida que modelos de video como Nano Banana de Google o Seedance siguen mejorando, ese tipo de contenido va en aumento en todas las plataformas."
+        },
+        {
+          "t": "p",
+          "x": "También puede leerse como una reacción frente a Facebook e Instagram, que han sido más abiertos al contenido de IA. De hecho, Mark Zuckerberg escribió en una publicación del jueves que el modelo de imagen y video de la compañía, Muse, podría llevar a “un mundo de contenido personalizado casi infinito”. También añadió que “nuestros servicios se volverán muchísimo más útiles y atractivos”."
+        },
+        {
+          "t": "p",
+          "x": "El cálculo de Snapchat es este: no está eliminando la IA por completo, pero apuesta a que la gente preferirá los resultados guiados por personas."
+        }
+      ]
+    },
+    "movies/movies-tech-reviews-blender5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lo que Blender 5.0 lleva años intentando ganar no es cuota de mercado ni premios. Es la confianza del pipeline, en sets donde un espacio de color desalineado filtra dinero y una integración rota filtra tiempo. Esa confianza no llega con una sola función destacada; se acumula."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Blender2.jpg",
+          "cap": "El visor de Blender 5.0, con un pipeline de color y un flujo de shading actualizados"
+        },
+        {
+          "t": "p",
+          "x": "El centro de gravedad de esta versión es el pipeline de color: soporte HDR mejorado, opciones de gestión de color ampliadas y desarrollo continuo de la transformación de vista AgX. Nada de eso es el tipo de cosa que recibe aplausos en una presentación de producto, pero resulta decisivo para quien entrega un render de Blender a un compositor en Nuke o va y viene por el etalonaje de DaVinci Resolve. Durante mucho tiempo, la respuesta sobre cómo maneja Blender el color fue “más o menos correcto”. La 5.0 intenta hacer innecesaria esa respuesta. Cycles volvió a acelerarse gracias a la optimización de GPU y a mejoras en el renderizado basado en física, y Eevee pasa silenciosamente de ser un parche de previsualización a un renderizador en tiempo real. La ambición se nota más en Geometry Nodes, que trae la forma de trabajo no destructiva y modular que popularizó Houdini, sin el precio ni años de deuda de aprendizaje. Sumado a mejoras de compositing, soporte USD y rendimiento del visor, moverse entre aplicaciones empieza a sentirse menos como traducción y más como un traspaso."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Silhouette.jpg",
+          "cap": "Boris FX Silhouette 2026, con un conjunto de herramientas de roto y matting por aprendizaje automático muy ampliado"
+        },
+        {
+          "t": "p",
+          "x": "El sufrimiento del trabajo de roto tiene una textura propia: sin explosiones ni catástrofes, solo fotogramas que se acumulan, bordes que se desalinean, parpadeos en la línea de tiempo, y una forma que se mantenía bien a mitad del plano y que se desmorona en ambos extremos. Silhouette 2026 apunta directamente a ese sufrimiento, sin afirmar que la automatización pueda borrarlo. El conjunto de IA ampliado —FaceML, Depth Map ML, Mask ML, Matte Assist ML, Matte Refine ML— logra avances reales en calidad de bordes, manejo del desenfoque de movimiento y consistencia entre fotogramas. Point Track ML maneja de forma más fiable la oclusión y la reaparición, y Object Tracker crea automáticamente capas de tracking, dejando que el trabajo de configuración avance junto a la primera pasada del artista. Head Track ML genera una malla de cabeza en 3D con datos de expresión y pose, y los nuevos nodos Unwrap y Rewrap conectan esa información con la pintura 2D y el roto. La 3D Scene basada en SynthEyes ahora tiene Refine Solve, que refina un solve de cámara existente en lugar de descartarlo. El precio es de 103 dólares al mes, 44,42 dólares al mes con facturación anual, o una licencia perpetua de 1.195 dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/DaVinci-Resolve.jpg",
+          "cap": "Blackmagic Design DaVinci Resolve 21, con una nueva página Photo basada en nodos"
+        },
+        {
+          "t": "p",
+          "x": "La versión de la historia en la que DaVinci Resolve se quedaba como un simple suite de color terminó hace mucho. El tema más comentado de la versión 21 es la página Photo, que lleva el pipeline de color basado en nodos a las fotos fijas, añadiendo soporte RAW, aplicación de LUT, Resolve FX y controles de etalonaje completos. Los fotógrafos que simulaban un etalonaje cinematográfico con trucos ahora tienen una herramienta adecuada para ello. Funciones de IA como IntelliSearch, AI Cinefocus, Face Age Transformer, Face Reshaper, UltraSharpen y Motion Deblur no pretenden sustituir la destreza; apuntan al tiempo que antes se perdía en trabajo repetitivo. Fusion incorporó el conjunto de herramientas Krokodove, sumando más de 70 herramientas gráficas, y las páginas Edit y Cut refinaron la edición de keyframes y curvas, y la manipulación de la línea de tiempo. Los coloristas recibieron una limpieza del grafo de nodos, recortes de MultiMaster y actualizaciones de gestión de color. La versión básica es gratuita; Studio 21 cuesta 295 dólares."
+        }
+      ]
+    },
+    "movies/movies-chikaboom-craig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Antes de Chika Batstone, una actriz de nueve años se paró en un escenario de producción virtual y vio cómo el mundo se movía a su alrededor. Era 2023, y el escritor y director c. Craig estaba rodando la película Fathead en el Stage 15 de Amazon. Cuando el equipo giró el entorno para el siguiente plano, la joven protagonista, Capri Ladd, preguntó qué pasaba, y Craig le dijo que era magia."
+        },
+        {
+          "t": "p",
+          "x": "“Ella creía por completo que estaba viendo magia. Eso me permitió ver el asombro en sus ojos, y su fe en la magia.” Al terminar de rodar ese día y volver a casa, Craig escribió el primer borrador de la historia que se convertiría en ChikaBOOM!"
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1.jpg",
+          "cap": "ChikaBOOM!, el corto que tuvo su estreno mundial en el Festival de Tribeca 2026"
+        },
+        {
+          "t": "p",
+          "x": "Tres años después, el cortometraje animado de nueve minutos tuvo su estreno mundial en Whoopi's Wonderful World of Animation, en el Festival de Tribeca 2026. Sigue a Chika Batstone, una aspirante a maga que, por curiosidad, libera a una criatura mágica y caótica llamada Kaboom en medio de Nueva York. Yara Shahidi pone la voz de Chika, Natasha Lyonne la de Kaboom, y David Dicks la de su padre, Amazing Ani. Pero la presencia más importante es la que Craig luchó por mantener visible hasta el final: la mano del artista detrás de cada fotograma."
+        },
+        {
+          "t": "p",
+          "x": "Más del 90% de la película es CG. La parte que muestra con más claridad su carácter híbrido es Kaboom, un personaje de nube volumétrica, que fue tan costoso como técnicamente exigente. La solución empezó en 2D. El artista 2D principal, Hoze Wheeler, y sus colegas dibujaron a mano el movimiento y la actuación de Kaboom, y luego envolvieron esos dibujos con una malla 3D generada para darle un volumen parecido al de una nube. La actuación vino de los animadores; la tecnología le dio a esa actuación una textura distinta."
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-2.png",
+          "cap": "Kaboom, con los contornos del artista intactos"
+        },
+        {
+          "t": "p",
+          "x": "Para mantener clara la procedencia, el equipo decidió no suavizar los contornos del artista que quedaban alrededor de Kaboom. “En cada fotograma en el que aparece Kaboom, se puede ver la mano del artista que lo movió. Dejamos el trabajo del artista justo ahí dentro.” En el momento en que se incluyeron los contornos, el equipo supo que estaba bien. “El personaje resaltaba dentro del mundo, y de alguna manera se sentía más mágico.”"
+        },
+        {
+          "t": "p",
+          "x": "Uno de los rasgos más expresivos de Kaboom nació de un error. En una escena en la que Kaboom conecta emocionalmente con Chika, el modelo generó de forma inesperada un efecto parecido a una bengala alrededor de sus ojos. Era incontrolable y molesto, y además interrumpía justo un momento emotivo. El problema técnico se resolvió dos semanas después, pero para entonces el equipo ya le había tomado cariño al efecto. Bajaron su intensidad y lo incorporaron a la actuación de Kaboom, así que ahora saltan chispas cuando el personaje se emociona mucho o se asusta. Un error técnico se convirtió en un comportamiento, una vez que los artistas tomaron el control de dirigirlo."
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-3.png",
+          "cap": "El equipo envolvió una malla generada sobre la actuación dibujada a mano"
+        },
+        {
+          "t": "p",
+          "x": "Por usar técnicas generativas, esta película no puede evitar que la arrastren al debate de la industria sobre la IA. Craig se opone, con respeto, a que la palabra 'artificial' aplane lo que realmente ocurrió. “Los artistas que trabajaron en esto se esforzaron muchísimo y pusieron creatividad real. Pasaron años pensando y cuidando bien cada fotograma de esta pieza.” Tomar un atajo lleva al mismo problema que enfrenta Chika cuando recurre a la magia sin estar preparada. “Si tomas un atajo sin saber qué estás haciendo, algo va a salir mal.”"
+        },
+        {
+          "t": "p",
+          "x": "“Usado con cuidado, puede ser solo una capa más del proceso de animación. Es útil para algunas películas y no para otras.” Dijo que no tiene ningún interés en borrar a la gente que lo rodea en nombre de la eficiencia. “Quiero a mi equipo. No tengo interés en hacer una película solo, ni en hacer una película con dos o tres personas y un solo modelo.”"
+        }
+      ]
+    },
+    "movies/movies-greenlight-coverage-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este episodio del podcast No Film School trata sobre cómo evaluar el potencial comercial de un guion antes de rodar un solo fotograma. Es un episodio patrocinado, con los invitados Jack Jang, fundador de Greenlight Coverage, y Andreas Olavarria, vicepresidente de Level 33 Entertainment."
+        },
+        {
+          "t": "p",
+          "x": "Greenlight Coverage evalúa guiones mediante ciencia de datos y análisis de IA. En lugar de depender solo de la puntuación algorítmica, suma el criterio de profesionales con experiencia en la industria. En la conversación, la cobertura de guiones con IA se plantea no como un sustituto de los lectores humanos, sino como una herramienta de evaluación situada en la primera puerta de entrada."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/greenlight-coverage.jpg?id=61494571&width=1245&height=700&quality=50",
+          "cap": "Greenlight Coverage, que puntúa guiones con datos"
+        },
+        {
+          "t": "p",
+          "x": "La puntuación se basa en la originalidad, la estructura de la trama, los personajes, el tema y el posicionamiento ante la audiencia. En el cine independiente, surge con frecuencia el punto en que la calidad de la escritura y la viabilidad comercial se separan, además de los conceptos contenidos que permiten controlar el presupuesto. También se señalan los casos en que el propio género atrae audiencia, como el terror, el thriller, el romance o las películas al estilo Hallmark y Lifetime."
+        },
+        {
+          "t": "p",
+          "x": "La conversación sobre distribución repasa las ventanas teatral, TVOD, SVOD y AVOD. En las plataformas basadas en publicidad, lo que importa son los primeros cinco minutos. “Sea cual sea el género, una película tiene que atrapar a la audiencia en los primeros cinco minutos.” También se trata cómo el casting, los productores ejecutivos y la audiencia que trae un creador influyen en el marketing."
+        },
+        {
+          "t": "p",
+          "x": "El premio de The Greenlight List es “$100,000 in equity financing and guaranteed distribution through Level 33 Entertainment”, es decir, 100.000 dólares en financiación de capital y distribución garantizada a través de Level 33 Entertainment. Los dos recomiendan usar la fecha límite de inscripción como un hito que de verdad obligue a terminar el guion."
+        }
+      ]
+    },
+    "movies/movies-youtube-ai-slop-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vivimos la era del slop de IA. En 2025, Merriam-Webster incluso eligió slop como su palabra del año. Ahora que basta un solo prompt para producir un video de YouTube, la plataforma revisó su política de monetización de canales. En una entrevista con Creator Insider, el vicepresidente de Confianza y Seguridad de YouTube, Matt Halprin, explicó cómo la empresa planea restringir el contenido de IA dentro del Programa de Socios de YouTube."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/intro-1784819058.jpg",
+          "cap": "YouTube reescribió sus reglas para monetizar contenido de IA"
+        },
+        {
+          "t": "p",
+          "x": "El volumen de contenido de IA que llega a YouTube es considerable. El año pasado, The Guardian informó que uno de cada diez de los canales de YouTube de más rápido crecimiento trataba sobre IA. Lo que la gente realmente quiere va en sentido contrario. Según una encuesta reciente citada por Fortune, solo el 26% de los encuestados dijo ver la IA de forma positiva. Igual que la reciente revisión de la política de IA de LinkedIn, este cambio de YouTube no significa que el slop de IA quede bloqueado por completo."
+        },
+        {
+          "t": "p",
+          "x": "Halprin dijo que YouTube es “agnóstico” respecto a las herramientas que eligen los creadores, sin tomar partido por ninguna. El propio texto de la política también cambió, de “contenido repetitivo” a “contenido inauténtico”. Eso significa que, uses IA o no, si estás en el Programa de Socios, tus videos necesitan esfuerzo y creatividad detrás. En lugar de prohibir por completo el contenido generativo, YouTube optó por explicar qué hay que mantener para que el contenido de IA siga en la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "La política apunta específicamente a tres tipos de contenido de IA: videos obviamente producidos en masa y repetitivos que salen de granjas de contenido; escenas perturbadoras o angustiantes, como animales en peligro; y lo que Halprin llama “personas de IA”, figuras falsas que dan consejos sobre temas serios como las finanzas. Esto es independiente de las Normas de la Comunidad generales que bloquean la desnudez o el discurso de odio, y este cambio solo afecta a quienes buscan monetizar videos de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/how-to-tell-if-a-video-is-ai-generated-1784819059.jpg",
+          "cap": "Pistas para saber si un video fue hecho con IA"
+        },
+        {
+          "t": "p",
+          "x": "YouTube ha implementado detección automática de IA, pero algunos videos todavía se le escapan. A medida que la tecnología mejora, cuesta más detectarlos, y la página de inicio se siente como un campo minado. Claro que algunos son obviamente falsos. Una escena que no tiene sentido, como un bebé rescatando a un perro de las llamas, se nota de inmediato, y casi todo el mundo ya conoce el truco de contar los dedos. Pero no siempre es tan fácil."
+        },
+        {
+          "t": "p",
+          "x": "Si te topas con un video sospechoso, revisa primero la duración. Cuanto más dura, más probable es que la IA cometa un error delator, así que muchos creadores se quedan en clips cortos. La calidad de imagen es otra señal. Un video que simula haber sido grabado desde lejos o con una cámara de baja calidad es un truco común, porque así se ocultan mejor los fallos."
+        },
+        {
+          "t": "p",
+          "x": "Lo contrario también vale la pena vigilarlo. Conviene sospechar de videos demasiado pulidos, con gente que tiene el cabello perfectamente arreglado, la piel como aerografiada y el rostro simétrico, sobre todo en contextos donde ese aspecto no encaja, como una protesta o un campo de batalla. Incluso la mejor IA sigue dejando errores de perspectiva y física. Sombras que no tienen sentido o que simplemente no están, joyas que cuelgan de forma extraña y reflejos distorsionados son pistas. Hasta que YouTube lance algún día una función que filtre los videos de IA del feed, esta es la mejor forma de detectar el slop."
+        }
+      ]
+    },
+    "movies/movies-adobe-chatgpt-plugin": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Después de que Adobe presentara por primera vez un flujo de edición conversacional con la integración de ChatGPT el diciembre pasado, las dos empresas construyeron juntas un nuevo plugin de Adobe, entrelazando aún más sus productos."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
+          "cap": "El plugin de Adobe dentro de ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Adobe metió sus herramientas de creación y productividad en un único plugin unificado. Funciona tanto en ChatGPT Work como en Codex, y cuando describes con palabras el resultado que quieres, el modelo elige y encadena las herramientas de Adobe adecuadas."
+        },
+        {
+          "t": "p",
+          "x": "El plugin llama a más de 70 herramientas. Están todas las apps insignia: Adobe Express, Photoshop, Firefly, Premiere, Acrobat, Lightroom, Illustrator, InDesign, Stock. La idea es que los cientos de millones de personas y los 2 millones de empresas que usan ChatGPT puedan crear imágenes, video, diseños y documentos de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Vibhor Chhabra, que dirige los productos del ecosistema de ChatGPT en OpenAI, lo explicó así: “Estamos construyendo ChatGPT para conectar a los usuarios con las mejores capacidades para lo que necesitan ahora mismo. Las herramientas de creación y productividad de Adobe ayudan a las personas a expresar su creatividad, comunicarse y trabajar de forma más productiva”."
+        },
+        {
+          "t": "p",
+          "x": "La asociación en sí no es nueva. Adobe lleva casi un año trabajando también con otras plataformas de chatbots de IA, como Copilot y Claude. Lo que cambia es la forma de reunir integraciones que estaban dispersas en un solo plugin."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo que dio Adobe es este: subes fotos de una campaña y describes el look que quieres, el mismo estilo se aplica a todo el conjunto, el resultado se guarda en Creative Cloud, y la imagen más potente se convierte en una maqueta de producto o de empaque."
+        },
+        {
+          "t": "p",
+          "x": "Los videos largos se recortan en reels destacados ajustados a los formatos de YouTube Shorts e Instagram Reels. También existe la opción de elegir una plantilla, cambiar el texto y los colores, y exportarla como animación para redes sociales o como PDF listo para imprimir. Si subes una hoja de cálculo, la organiza en documentos como gafetes de eventos, catálogos o infografías."
+        },
+        {
+          "t": "p",
+          "x": "Usarlo es sencillo. Se añade el plugin de Adobe desde Plugins en ChatGPT, y en una conversación nueva se escribe “@Adobe” o se elige con el botón “+”. Como invitado también se puede tocar buena parte de las herramientas, pero las funciones de generación, el acceso a los archivos de Creative Cloud y el guardado de trabajos requieren iniciar sesión con una cuenta de Adobe."
+        },
+        {
+          "t": "p",
+          "x": "No es una noticia bienvenida para los creadores que ya están inquietos. Aun así, esta tendencia no muestra señales de frenar por ahora."
+        }
+      ]
+    },
+    "movies/movies-brevidy-premiere": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brevidy es un kit de herramientas de IA que funciona dentro de Adobe Premiere Pro. Subtítulos animados, extracción automática de clips de videos largos, recorte vertical que sigue al interlocutor y un buscador de material de stock, todo en un solo panel. Es un producto de socio oficial de video de Adobe, pensado para editores que manejan entregables para redes sociales."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
+          "cap": "El panel de Brevidy integrado en Premiere Pro"
+        },
+        {
+          "t": "p",
+          "x": "Quien haya recortado entregables para redes sociales en Premiere sabe dónde se atasca el proceso. Los subtítulos son tediosos, y reajustar una línea de tiempo de 16:9 a 9:16 puede quemar horas en keyframes. Elegir los momentos aprovechables de un podcast de 60 minutos es puro trabajo manual. La mayoría de las herramientas de IA exigen aquí un ciclo de exportar, subir y volver a importar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Captions-Brevidy-D-900x506.jpg",
+          "cap": "Transcribe la secuencia y crea una capa de subtítulos editable"
+        },
+        {
+          "t": "p",
+          "x": "El módulo de subtítulos transcribe la secuencia y aplica uno de más de 700 presets animados. La empresa indica un 95% de precisión, con soporte para más de 99 idiomas. La transcripción permite dividir líneas o entrenarla con terminología propia al instante. También se puede extraer solo la capa nueva de subtítulos sin sobrescribir el trabajo existente."
+        },
+        {
+          "t": "p",
+          "x": "AutoCut está pensado para podcasts y entrevistas. Revisa material original de más de 20 minutos para encontrar momentos aprovechables, y el resultado sale como una secuencia que se sigue editando directamente en Premiere, no como una exportación bloqueada."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Autocrop-Brevidy-D-900x506.jpg",
+          "cap": "AutoCrop reencuadra la secuencia en formato vertical"
+        },
+        {
+          "t": "p",
+          "x": "AutoCrop sigue a la persona que habla y la centra dentro de un cuadro de 1080×1920. Hay tres modos de movimiento, Tracked, Dynamic y Static, y como usa keyframes estándar, ajustar a mano después no supone ningún problema."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-B-900x506.jpg",
+          "cap": "Trae material de stock directamente desde el panel"
+        },
+        {
+          "t": "p",
+          "x": "El buscador de stock recorre a la vez Pexels, Unsplash, Pixabay y Giphy. Lee la transcripción, recomienda material que combine, y también aplica presets de movimiento a los clips importados."
+        },
+        {
+          "t": "p",
+          "x": "Los precios son así. Los usuarios nuevos reciben una secuencia de subtítulos de 10 minutos y una prueba de 7 días sin necesidad de tarjeta. El plan Captioner cuesta 14,99 dólares al mes con facturación anual, o 17,99 dólares con facturación mensual. Al pasar al plan de equipo, los editores pueden compartir presets entre ellos."
+        }
+      ]
+    },
+    "movies/movies-catmull-genai-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ed Catmull, cofundador de Pixar y expresidente tanto de Pixar como de Walt Disney Animation Studios, se incorporó al jurado del Higgsfield Global Film Festival, una nueva competencia exclusiva para películas de IA generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull.jpg",
+          "cap": "Ed Catmull sentado en el jurado del festival de cine de IA generativa"
+        },
+        {
+          "t": "p",
+          "x": "La competencia la organiza Higgsfield AI para dar a conocer su propia plataforma de creación de películas con IA generativa. Participar requiere ser suscriptor de Higgsfield, y las propuestas deben hacerse dentro del Cinema Studio de la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Alex Mashrabov, cofundador y CEO de Higgsfield, anunció la incorporación de Catmull en LinkedIn y señaló a Pixar como una inspiración temprana para la empresa. Escribió que “admiraba cómo Pixar reunía a artistas e ingenieros para crear lo que ninguno de los dos podría haber hecho solo”. Explicó que esa filosofía también influyó en cómo construyen su propia plataforma, y dijo que Catmull ayudará a identificar a los que él llamó “la primera generación de cineastas de IA”."
+        },
+        {
+          "t": "p",
+          "x": "En su promoción, Higgsfield destaca la trayectoria de Catmull en animación: ganador de cinco Oscar, productor ejecutivo de Toy Story, premiado con el Turing Award, expresidente de Disney Animation. En X lo presenta como “el hombre que inventó los gráficos en 3D”."
+        },
+        {
+          "t": "p",
+          "x": "Catmull, retirado de Disney desde 2018, es una incorporación particularmente valiosa para Higgsfield. La empresa impulsa la IA generativa como el próximo cambio tecnológico en la producción de cine, y traer a una figura que lideró la época dorada de la innovación tecnológica cinematográfica le permite trazar una línea directa entre la revolución del CG de Pixar y su propia plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Que esa línea se sostenga fuera de la empresa es otra cuestión. Tampoco se sabe aún si los dos cambios tecnológicos dejarán resultados igualmente buenos para los artistas que hacen las películas."
+        }
+      ]
+    },
+    "movies/movies-disney-tiktok-shorts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Disney vuelve a abrirle sus archivos a creadores en línea. Esta vez el socio es TikTok, y el acuerdo consiste en compartir videos cortos juntos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
+          "cap": "Aquello a lo que Disney abre sus activos son los videos cortos hechos por fans"
+        },
+        {
+          "t": "p",
+          "x": "Los creadores de TikTok que participan toman material de cientos de películas y series de marcas de Disney, entre ellas Pixar, Marvel, Star Wars y FX. Una selección de los videos resultantes se destaca junto en TikTok y en Verts, el feed de videos verticales de Disney+."
+        },
+        {
+          "t": "p",
+          "x": "El planteamiento recuerda a la colaboración con OpenAI que Disney archivó. Aquel acuerdo, anunciado en diciembre pasado, permitía a los usuarios de Sora hacer videos cortos con más de 200 personajes de Disney, y algunos de ellos se subirían a Disney+."
+        },
+        {
+          "t": "p",
+          "x": "Disney también había planeado invertir 1.000 millones de dólares en OpenAI. El acuerdo se vino abajo antes de cerrarse después de que OpenAI retirara Sora de golpe de su app de consumo y de su API en marzo, y no llegó a cambiar de manos el dinero."
+        },
+        {
+          "t": "p",
+          "x": "La colaboración con TikTok pone el mismo objetivo en manos humanas. Cuando los fans hacen videos cortos con material de Disney, algunos regresan a Disney+. Según el plan de Sora, se habrían generado escenas nuevas a partir de prompts de texto, pero el centro de este acuerdo es remezclar activos de Disney que ya existen."
+        },
+        {
+          "t": "p",
+          "x": "Arranca como piloto en Estados Unidos dentro de unos meses, y otros mercados le seguirán. Los videos solo pasan a Disney+ si el creador decide participar por su cuenta. No se revelaron las condiciones económicas."
+        },
+        {
+          "t": "p",
+          "x": "Las dos empresas también gestionan juntas un Creator Ambassador Program. Aumenta la visibilidad de los participantes y ofrece recompensas como invitaciones a eventos privados y oportunidades de desarrollo profesional."
+        },
+        {
+          "t": "p",
+          "x": "Con este acuerdo, Disney+ se convierte en la primera plataforma externa en alojar videos de TikTok. El intento de Disney de colocar videos verticales hechos por fans junto a sus propias películas y series también se amplía un poco más."
+        }
+      ]
+    },
+    "movies/movies-autodesk-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk lanzó 3D Editor + Canvas, una gran expansión de Flow Studio enfocada en el problema del control en el video con IA generativa. En vez de dirigir personajes, animación, movimiento de cámara y composición mediante prompts o imágenes de referencia en una pantalla 2D, los creadores ahora trabajan directamente en 3D, mientras la IA se encarga del render final."
+        },
+        {
+          "t": "video",
+          "yt": "ca76F7Jo84k"
+        },
+        {
+          "t": "p",
+          "x": "En 3D Editor + Canvas, los personajes, activos y escenas construidos en Flow Studio se combinan con mundos y entornos generados por herramientas como World Labs Marble. Según la empresa, esto permite armar una escena cinematográfica terminada en minutos."
+        },
+        {
+          "t": "p",
+          "x": "Nikola Todorovic, cofundador de Wonder Dynamics, adquirida por Autodesk, lo explicó así: \"Vivimos en 3D y dirigimos en 3D. Sin embargo, la mayoría de las herramientas de video con IA generativa todavía te piden jugar y editar en un mundo 2D. Llamar a una imagen plana con un prompt, o dibujar para dirigir una actuación y diseñar un movimiento de cámara, tiene limitaciones inherentes. En el 3D Editor bloqueas escenas, diriges actuaciones y controlas el timing, el ritmo y el movimiento de cámara en 3D. Luego, en Canvas, generas, refinas y construyes el look final en 2D.\""
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio apunta a un vacío conocido. Las herramientas generativas han acelerado la extracción de personajes, entornos y activos visuales individuales. Pero unir esas piezas en una sola toma dirigida todavía exige manejar con precisión la actuación y la cámara."
+        },
+        {
+          "t": "p",
+          "x": "3D Editor reúne personajes, entornos, animación, pistas de cámara y datos de captura de movimiento con IA en un solo espacio de trabajo, y permite ajustar la composición, el movimiento de cámara y la configuración de la escena. Canvas es el flujo de trabajo 2D basado en nodos que corre a su lado, donde se explora, itera y genera resultados con modelos de imagen y video. Se puede quedar en 2D cuando la velocidad importa, y entrar en 3D solo para las tomas que necesitan una dirección precisa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Z8UI4Gq6",
+          "cap": "'3D Editor + Canvas'. Imagen cortesía de Autodesk"
+        },
+        {
+          "t": "p",
+          "x": "El programa continúa la línea que ha llevado a Maya, 3ds Max y Arnold hacia la narración con IA. Este lanzamiento también deja sentada la base para una integración ampliada con DCC, incluida Maya, nuevas opciones de importación de activos, composición de escenas asistida por IA, y flujos de trabajo en los que agentes ayudan con la dirección."
+        },
+        {
+          "t": "p",
+          "x": "El antiguo nombre de Flow Studio era Wonder Studio. Autodesk adquirió Wonder Dynamics en 2024."
+        }
+      ]
+    },
+    "movies/movies-eli-roth-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eli Roth admitió que su nueva película de terror 'Ice Cream Man' usó inteligencia artificial generativa, incluidas escenas de animación que él mismo había descrito como hechas con un proceso tradicional, dibujado a mano."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man.jpg",
+          "cap": "'Ice Cream Man'"
+        },
+        {
+          "t": "p",
+          "x": "La película aún no se ha estrenado ampliamente, pero el público de los pases previos señaló partes que parecían hechas con IA: una caricatura al estilo Fleischer que ven los personajes y una escena retrospectiva ilustrada que explica el origen del villano. Dark Half, una empresa especializada en efectos visuales de IA, figura en los créditos."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista publicada por Polygon el lunes de esta semana, Roth describió un proceso dibujado a mano y destacó su propio papel en la creación de la animación."
+        },
+        {
+          "t": "p",
+          "x": "“Soy alguien que ha hecho animación, y yo lo dibujé.” Roth añadió que trabajó con un equipo de animadores. “Yo dibujé los ciclos de bucle y el estilo. Luego varios animadores ayudaron a suavizarlo, y junto con un artista le dimos ese toque entrecortado al estilo antiguo. Pero yo mismo me senté y dibujé los fotogramas que quería, tratando de acercarme al estilo de los dibujos animados de Mickey Mouse de los años 1920 con fantasmas.”"
+        },
+        {
+          "t": "p",
+          "x": "El martes, Polygon actualizó el artículo con una nueva declaración de Roth, confirmando que la película sí usó IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "“Me expresé mal.” Ofreció entonces una versión que contradecía por completo su explicación anterior. “Se usó IA en una parte muy pequeña de algunas escenas de la película. Fue una oportunidad en la que la tecnología y la creatividad se unieron para ayudar a hacer realidad la visión de la película que yo dibujé.”"
+        },
+        {
+          "t": "p",
+          "x": "Roth no precisó en qué escenas se usó la tecnología, cuánto material hecho con IA terminó en la versión final ni cómo se combinó con el trabajo de los artistas humanos. Polygon dijo que pidió más explicaciones a Roth y a Dark Half, pero no recibió respuesta."
+        }
+      ]
+    },
+    "movies/movies-minimax-bootleg": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si quieres ver a Kim Jong Un irrumpiendo en Dunder Mifflin o a Darth Vader cortándole la cabeza a Ross Geller, basta con ir a X (antes Twitter). Está lleno de fans de la IA metiendo a personajes queridos en la trituradora y publicaciones que proclaman que Hollywood «se acabó»."
+        },
+        {
+          "t": "p",
+          "x": "Es un ciclo que se repite con cada modelo nuevo. Esta semana debía ser el turno de Seedance 2.5, el generador de video de ByteDance que la comunidad de IA esperaba desde que Seedance 2.0 sorprendió a los creadores y alarmó a los titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "Pero la protagonista no fue Seedance 2.5. Lo que impresionó al mundo de la IA fue Hailuo 3, de MiniMax, otro contendiente chino. MiniMax H3 no está disponible directamente para usuarios de EE. UU. y la UE, pero se ha difundido fuera de China por vías de terceros."
+        },
+        {
+          "t": "p",
+          "x": "Justin Moore, socio de la firma de inversión tecnológica Andreessen Horowitz, usó un simple prompt de texto de H3 en Krea, un estudio en línea que reúne varios modelos de IA generativa, para crear un clip de Dwight y Jim de 'The Office'. Ese prompt también pasó por los servidores de MiniMax, por lo que las protecciones de derechos de autor no funcionaron."
+        },
+        {
+          "t": "p",
+          "x": "El momento no podría ser más inoportuno. MiniMax se defiende de una demanda presentada por Disney, Universal y Warner Bros. Los estudios alegan que Hailuo «pirata y expolia obras protegidas a gran escala». La demanda incluso afirma que MiniMax promocionó el modelo en su cuenta oficial de YouTube con videos de IA de Deadpool, Wolverine y el Joker. MiniMax negó las acusaciones, pero esos videos de superhéroes fueron eliminados discretamente de YouTube."
+        },
+        {
+          "t": "p",
+          "x": "MiniMax no respondió a una solicitud de comentarios. Al lanzar H3, un representante de la empresa dijo que «hay procedimientos legales en curso relacionados con derechos de autor en torno a la IA de video generativa» y que no abriría el modelo completo en EE. UU."
+        },
+        {
+          "t": "p",
+          "x": "Que Seedance 2.5 no se usara en la misma medida para explotar el filón de Hollywood sugiere que ByteDance reforzó sus barreras tras el caos de Seedance 2.0. Ese modelo anterior se difundió ampliamente con deepfakes de Tom Cruise y Brad Pitt peleando, lo que llevó a Netflix, Disney y otros a enviar cartas de cese y desistimiento. ByteDance, que también es dueña de TikTok, prometió mejoras."
+        },
+        {
+          "t": "p",
+          "x": "Esto no significa que los modelos de ByteDance estén libres de problemas. VN.ai, una startup que pone a prueba la IA generativa en busca de infracciones de derechos de autor, usó esta semana el generador de imágenes de ByteDance, Seedream 5.0, para producir imágenes no autorizadas de Elsa, Shrek y Buzz Lightyear, según un informe revisado por Rendering."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai usó una API de terceros, que pudo tener protecciones más laxas que el servicio propio de ByteDance. Los prompts que nombraban a personajes famosos fueron rechazados en su mayoría, pero al retorcer la solicitud —por ejemplo, exigiendo dimensiones exactas en píxeles— Seedream 5.0 llegó a producir un Buzz Lightyear reconocible. La industria llama a esto «red teaming»."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos con fugas no son exclusivos de ByteDance. Aun así, la empresa no suele desatender estas inquietudes. Dijo a Rendering que «ByteDance lanza sus modelos con protecciones diseñadas para evitar el uso no autorizado de propiedad intelectual, y sigue trabajando con los titulares de derechos y la comunidad creativa para ampliarlas y reforzarlas»."
+        },
+        {
+          "t": "p",
+          "x": "También pedimos comentarios a los estudios de EE. UU. y a la Motion Picture Association (MPA). Su postura ya es clara por las cartas legales y la demanda. MiniMax H3 y Seedream 5.0 son solo el último recordatorio de que esta ofensiva es un juego interminable y global de topos."
+        }
+      ]
+    },
+    "movies/movies-runway-seedance": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8P6G4yyzOpA"
+        },
+        {
+          "t": "p",
+          "x": "Es el video de presentación de 1 minuto y 23 segundos que Runway publicó en su propio canal de YouTube. Tal como dice el título, Seedance 2.5 de ByteDance ya funciona dentro de Runway."
+        },
+        {
+          "t": "p",
+          "x": "Según la descripción del video, una sola generación puede tomar hasta 50 referencias y construir todo un mundo lleno de personajes. Los clips duran hasta 30 segundos, con sonido y diálogo incluidos."
+        },
+        {
+          "t": "p",
+          "x": "No es necesario dejar los clips generados tal como salen. La indicación de Runway es editarlos y combinarlos según lo que pida la historia. El punto de partida es app.runwayml.com."
+        }
+      ]
     }
   }
 }

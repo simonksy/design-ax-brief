@@ -3149,6 +3149,1039 @@
           "x": "Es un caso que permite asomarse a hasta dónde llevan en realidad los estudios la IA generativa dentro de su proceso de concepto y diseño, y a qué forma están tomando ahora las normas de divulgación que fijan ese límite."
         }
       ]
+    },
+    "games/inworldtts": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0uPl_pmFwAQ"
+        },
+        {
+          "t": "p",
+          "x": "Inworld TTS Playground ha empezado a conservar el historial completo de generación. En la demostración de Clint, cada clip generado se va apilando en el panel de historial con su voz, modelo, texto y etiquetas de steering."
+        },
+        {
+          "t": "p",
+          "x": "Las tomas acumuladas se pueden volver a escuchar de inmediato. Si eliges el clip que te gusta, los ajustes usados en ese momento vuelven al playground exactamente igual, y también se pueden descargar como archivo. Ya no se pierde una buena toma después de probar varias veces."
+        },
+        {
+          "t": "p",
+          "x": "También incluye una forma de buscar. Se puede buscar por texto y filtrar por voz, modelo y fecha. Es posible seleccionar varios a la vez para descargarlos o borrarlos."
+        },
+        {
+          "t": "p",
+          "x": "Inworld es una plataforma de IA de voz en tiempo real pensada para apps de consumo. Reúne texto a voz de primer nivel, reconocimiento de voz, un enrutador de LLM y una Realtime API capaz de manejar conversaciones a gran escala. Para los equipos de sonido que trabajan con diálogos de videojuegos, esto llena una capa de control de versiones que hasta ahora faltaba."
+        }
+      ]
+    },
+    "games/mkwiicomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dz78u7jn2wiEyfBAbmj6e3-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador patchzy presentó Mario Kart Wiicompiled. En una publicación con un video teaser, afirmó que se trata del primer caso de recompilación estática de un juego de Wii, y anunció una beta en agosto con juego en línea, soporte opcional para Retro Rewind y más de 200 pistas."
+        },
+        {
+          "t": "p",
+          "x": "Si la recompilación estática funciona con juegos de Wii, eso solo ya sería motivo de alegría, porque abre la puerta a que otros títulos de Wii lleguen a PC. Descompilar y recompilar también ha sido un eje que ha unido a la comunidad de juegos clásicos. Incluso el próximo proyecto Spyro destaca que su equipo de desarrollo no usó IA."
+        },
+        {
+          "t": "p",
+          "x": "Mario Kart Wiicompiled no hace esa promesa. El Discord del proyecto deja claro que se usó IA en el código. Añade la aclaración de que no se crearon arte ni assets con IA, pero basta bajar un poco en las respuestas al tuit original para encontrar una fila de reacciones que rechazan de plano cualquier proyecto hecho con IA."
+        },
+        {
+          "t": "p",
+          "x": "Tensiones parecidas aparecen en varios lugares. Los desarrolladores del emulador de PS3 RPCS3 han pedido a los colaboradores que dejen de enviarles código generado por IA. El equipo de Donkey Kong 64: Recompiled publicó su proyecto antes de tiempo para adelantarse a un rival hecho con vibe coding. Existe una preocupación extendida en todo el ámbito de los ports de PC de juegos clásicos: que si un proyecto de IA descuidado sale primero, los desarrolladores que intentaban hacerlo bien terminen abandonando."
+        }
+      ]
+    },
+    "games/openriglogic": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "WZhDr5Ktf9c"
+        },
+        {
+          "t": "p",
+          "x": "Después de que Epic anunciara oficialmente el MetaHuman Devkit en Unreal Fest, Poly Hammer integró OpenRigLogic dentro de Blender. Esta sesión de Inside Unreal muestra el resultado de primera mano."
+        },
+        {
+          "t": "p",
+          "x": "Lo esencial es un complemento gratuito. Traslada uno a uno el rig de MetaHuman usado en Unreal Engine, de modo que Blender mantiene exactamente el mismo rig."
+        },
+        {
+          "t": "p",
+          "x": "La segunda mitad de la sesión pasa a un flujo de trabajo avanzado, y muestra cómo cambiar el comportamiento del DNA de MetaHuman usando solo Blender. Esto significa que la lógica del rig también funciona fuera de Unreal, lo que da a los artistas que trabajan con personajes en Blender una vía más para manejar los rigs faciales."
+        }
+      ]
+    },
+    "games/steamcensus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AWsSzZBSvPQVFFuS2oKTcL-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Antes de que Steam Direct abriera en junio de 2017, el único mes en superar los 500 títulos fue diciembre de 2016, con 518. Desde febrero de 2025, ningún mes ha bajado de 1500 títulos. El total de lanzamientos fue de 21,382 en 2025, y en 2026 ya se habían alcanzado 13,359 a mediados de julio."
+        },
+        {
+          "t": "p",
+          "x": "Lo que llevó a revisar estas cifras fue un artículo de Sulka Haro, cofundador del estudio finlandés que crea el MMO de acceso anticipado Pax Dei, quien antes trabajó en Habbo Hotel y en los juegos de The Walking Dead. Revisó cerca de 53,600 títulos lanzados entre mediados de 2023 y mediados de 2026 y contó los que llevaban una declaración de IA. El propio campo de declaración solo apareció en enero de 2024."
+        },
+        {
+          "t": "p",
+          "x": "Esa cifra fue del 10.9% en 2024 y del 19.9% en 2025. A julio de 2026, el 30.8% de los juegos lanzados este año lleva una declaración de IA. Haro escribió que el volumen de lanzamientos de Steam ha crecido mucho, pero ese crecimiento no se ha repartido de forma pareja. Los títulos nuevos sin IA subieron con suavidad de unos 1,030 a 1,320 al mes, mientras que los títulos nuevos con declaración de IA saltaron de unos 13 al mes antes de ser obligatoria a 530."
+        },
+        {
+          "t": "p",
+          "x": "Si esta tendencia se mantiene, en algún punto entre 2027 y 2028 la mitad de los juegos de Steam llevará una declaración de IA. De esos, prácticamente ninguno genera ingresos, y pocos llegan a recibir reseñas. Eso hace que a los desarrolladores pequeños que trabajan sin editor les resulte aún más difícil destacar en la tienda."
+        }
+      ]
+    },
+    "games/ocarina-ipad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/The-Legend-of-Zelda-Ocarina-of-Time-running-natively-on-iPadOS-2.jpg",
+          "cap": "Ocarina of Time corriendo de forma nativa en iPadOS"
+        },
+        {
+          "t": "p",
+          "x": "Con técnicas de descompilación por IA, se ha creado un port nativo de The Legend of Zelda: Ocarina of Time que corre directamente en iPadOS."
+        },
+        {
+          "t": "p",
+          "x": "Este método elimina el límite de fotogramas y la baja resolución de la era N64, revitalizando el original con una imagen más nítida y fluida."
+        },
+        {
+          "t": "p",
+          "x": "Sobre todo, acelera notablemente un trabajo de ingeniería inversa que antes tomaba meses, y se considera un caso que cambia la forma de portar y preservar juegos clásicos."
+        }
+      ]
+    },
+    "games/nvidia-dgx-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA ha abierto una vía para que los usuarios de DGX Station ejecuten agentes de IA personales de forma local mediante el Agent Toolkit de NVIDIA. La configuración se completa en solo tres pasos."
+        },
+        {
+          "t": "p",
+          "x": "La IA agéntica ha ampliado los usos del PC, especialmente en equipos de alto rendimiento como DGX Station, que incorpora la GPU GB300 'Blackwell Ultra'. Para aprovechar ese rendimiento a fondo, NVIDIA creó el Agent Toolkit, cuya instalación de software desbloquea la función en 30 minutos."
+        },
+        {
+          "t": "p",
+          "x": "El toolkit es una pila de software que combina NVIDIA NemoClaw, Neomotron 3 Ultra y Omniverse en una sola solución. Con la biblioteca de Omniverse, los agentes acceden a herramientas y habilidades en un entorno de ejecución local y seguro sin conectarse a internet."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/NVIDIA-Agent-Toolkit-on-DGX-Station.jpg",
+          "cap": "Agent Toolkit ejecutándose en DGX Station"
+        },
+        {
+          "t": "p",
+          "x": "También se pueden conectar varios sistemas para ampliar el número de usuarios y agentes simultáneos, además del tamaño del modelo. Con el modelo 'Open' de Neomotron 3 Ultra, los equipos que ejecutan agentes a gran escala pueden aprovechar el rendimiento sin preocuparse por el costo de los tokens. El único gasto es el de comprar el hardware."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA también presentó un plan para integrar Omniverse en la biblioteca. El 'RTX Sensor Simulation' de NemoClaw permite preparar escenas 3D para flujos de trabajo de IA física. Los equipos que usan OpenClaw ya pueden realizar inferencia local en DGX Station con las herramientas de Neomotron 3 Ultra y Omniverse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/blender-rtx-thumb-20260716-r1-op3-1600x900-1.jpg",
+          "cap": "Escena de un almacén etiquetada con RTX Sensor Simulation"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA también añade conexiones MCP (Model Context Protocol) con socios como Adobe, Blender, Unreal Engine, Epic Games, SideFX, Foundry y Canva. El objetivo es que los agentes trabajen directamente dentro de las herramientas donde se crean escenas, planos, líneas de tiempo, activos y ediciones. DGX Station puede pedirse a través de ASUS, Dell, Exxact, Gigabyte, HP, MSI y Supermicro."
+        }
+      ]
+    },
+    "games/steam-aidisclosure-devs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se desató una polémica después de que Valve introdujera la divulgación obligatoria del uso de IA en los juegos de Steam. El CEO de Epic Games, Tim Sweeney, calificó la política de “verdaderamente irresponsable” y dijo que era injusta para los desarrolladores de juegos. El autor entrevistó a casi treinta desarrolladores sobre la IA generativa, y muchos mencionaron un etiquetado de tienda similar al de Steam, diciendo que el uso de IA generativa debería comunicarse con claridad a los consumidores."
+        },
+        {
+          "t": "p",
+          "x": "Brian “Virge,” creador del MMO de simulación Erenshor, dice: “Los jugadores tienen derecho a saber cómo se hizo su juego, y derecho a elegir qué apoyar. Por transparencia, la norma de etiquetado de IA de Steam es la decisión correcta.” Espera que la propia comunidad vigile el asunto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/h2K2eMSZgEUM8FQEEbRykh.jpg",
+          "cap": "MMO de simulación Erenshor (Burgee Media)"
+        },
+        {
+          "t": "p",
+          "x": "Brandon Sheffield, veterano de la industria que dirige Necrosoft Games, creadora de Demonschool, también cree que Valve tiene razón. “Aunque muchos desarrolladores no lo declaren, me alegra que Steam exija la divulgación de IA. Ojalá lo hicieran todas las plataformas.”"
+        },
+        {
+          "t": "p",
+          "x": "Helen Carmichael, de Grey Alien Games, piensa algo similar. Dijo que la transparencia importa, así que es bueno que al menos algunas plataformas exijan divulgación. Pero añadió que, si bien parte de la Generación Alfa rechaza el “AI slop”, la IA generativa se usa ampliamente en el mercado de juegos casuales, donde a los clientes mayores no parece importarles."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VALmj9Zgh9vEKQFCVSAQjW-1920-80.jpg",
+          "cap": "Demonschool, de Necrosoft Games"
+        },
+        {
+          "t": "p",
+          "x": "John Buckley, responsable de comunicación de Pocketpair, creadora de Palworld, dijo que “los jugadores no lo quieren” y que incluso Steam retrocede algo al añadir descargos de responsabilidad. Este mes, varios desarrolladores se molestaron después de que un aviso de Steam describiera la IA generativa como esencial para mantener el desarrollo. David Lindsay Pittman, de Minor Key Games, creadora de Eldritch, dijo: “‘Solo soy un pequeño desarrollador independiente’ no vale para pequeños desarrolladores como nosotros, que hemos construido sin esa máquina fraudulenta que roba dibujos.” El mes pasado también apareció un complemento de navegador que difumina automáticamente los juegos de Steam con etiqueta de IA, y un estudio proyectó que la mitad de los lanzamientos de Steam usarán IA para 2028."
+        }
+      ]
+    },
+    "games/blendcap-mocap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Arkomade lanzó BlendCap, un complemento para Blender. Con un solo video grabado, extrae el movimiento de cuerpo completo, manos y expresiones faciales y lo transfiere directamente al rig del personaje del usuario."
+        },
+        {
+          "t": "video",
+          "yt": "FyFarx7RjT8"
+        },
+        {
+          "t": "p",
+          "x": "Incluye preajustes integrados para los principales sistemas de rigging, como Rigify, Auto-Rig Pro, Mixamo y CloudRig. También ofrece una herramienta rápida de conversión FK-IK que ayuda con la edición y la limpieza."
+        },
+        {
+          "t": "p",
+          "x": "「Una vez instalado, todo funciona dentro de Blender en tu propio equipo sin necesidad de conexión a internet. No se necesita suscripción, marcadores ni traje.」 Una captura ya tomada se puede guardar y reutilizar en otros personajes, o exportar a programas externos."
+        },
+        {
+          "t": "p",
+          "x": "BlendCap requiere Blender 4.2 o posterior en Windows o Linux, y se recomienda una GPU de Nvidia para un rendimiento óptimo. También están en desarrollo funciones como captura con dos cámaras, preajustes adicionales, captura multipersona y captura continuada. Está disponible en Superhive Market, y la documentación junto con tutoriales completos llegarán pronto."
+        }
+      ]
+    },
+    "games/duskbloods-ai-lore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La primera prueba de juego de The Duskbloods está programada para el próximo mes. Será el momento en que alguien fuera de FromSoftware y Nintendo toque por primera vez esta exclusiva de Switch 2. Sin embargo, la búsqueda con IA de Google ya cree que el subreddit r/TheDuskbloods contiene información oficial."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/duskbloods-gemini.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como señaló Ian Walker de Video Game Town, estas elaboradas bromas y publicaciones sin sentido llevan ya bastante tiempo circulando. Probablemente sea resultado de esperar demasiado por el juego sin una sola noticia nueva, un sentimiento que los fans de GTA 6 conocen muy bien. Pero los fans más acérrimos de FromSoftware son famosos por su picardía."
+        },
+        {
+          "t": "p",
+          "x": "Bugout Billy, descrito como 「un personaje que se desbloquea al derrotar al jefe de la Brigada Duskbug en la región Underdusk」, es claramente una broma. Pero ¿qué decir de Blood Mistress Elizabeth, un 「jefe de evidente servicio a los fans」, o de Lycan Vrykolakas, presentado como 「Blaidd 2」 y una 「escena totalmente memorable」? El usuario Southern_Copy_6173 incluso hizo una lista completa de jefes de Duskbloods."
+        },
+        {
+          "t": "p",
+          "x": "El juego ni siquiera ha salido todavía. Aun así, la IA de Google no lo considera un problema y suelta información con total confianza a quienes buscan. Cuando el periodista preguntó directamente por una lista de jefes confirmados, trazó una línea clara, diciendo que no había nada anunciado oficialmente y que todo era invención de Reddit. Pero con una pregunta ligeramente distinta, respondió que Lycan Vrykolakas es en realidad un enemigo contra el que se puede luchar en el juego aún no publicado."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es la primera vez. Hace dos meses, una publicación sobre Sanguiphisto, presentado como un 「desafío máximo de nivel S+」, apareció en la IA de Google junto a Orlac y Blood Mistress Elizabeth. El pozo ya estaba contaminado desde hace tiempo. Una broma sobre un solo juego daría risa, pero con el Torment Nexus exigiendo cada día más miles de millones y recursos, las implicaciones más serias resultan inquietantes."
+        }
+      ]
+    },
+    "games/dlss5-direct-final-frame": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/07/2026-07-22_0-12-48-1920x1080.jpg",
+          "cap": "Demostración de renderizado neuronal de DLSS 5"
+        },
+        {
+          "t": "p",
+          "x": "En una demostración técnica en SIGGRAPH, se mostró que la canalización de renderizado neuronal de DLSS 5 cede el control a los artistas, permitiéndoles dirigir ellos mismos el fotograma final."
+        },
+        {
+          "t": "p",
+          "x": "Una transformación de difusión en el espacio de píxeles de una sola etapa alcanza imágenes fotorrealistas en 4K con una sola GPU. Esto marca un cambio del escalado por IA, que sale de la caja negra para convertirse en una herramienta creativa manejable dentro de la canalización artística."
+        }
+      ]
+    },
+    "games/studios-refusing-genai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este artículo, compilado por Nathan Grayson, recoge a más de 50 estudios que han declarado públicamente que mantendrán la IA generativa fuera de su proceso de desarrollo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
+          "cap": "Estudios que han rechazado la IA generativa"
+        },
+        {
+          "t": "p",
+          "x": "La primera razón que destacan los estudios es el control y la sensación artesanal del trabajo. Blendo Games dijo que está organizando las cosas para poder decirle a la IA generativa “no, fuera” para siempre."
+        },
+        {
+          "t": "p",
+          "x": "Blue Bottle Games dijo que la propia razón por la que se volvieron independientes fue que les gustaba hacer el trabajo con sus propias manos, y que no quieren entregarle las partes divertidas a una máquina."
+        },
+        {
+          "t": "p",
+          "x": "Las cuestiones éticas también están presentes. Apparition Games señaló que las empresas de IA robaron el trabajo de innumerables personas sin permiso ni compensación, y Daikon Games afirmó sin rodeos que se trata de una tecnología esencialmente poco ética, construida sobre trabajo robado."
+        },
+        {
+          "t": "p",
+          "x": "En la lista aparecen estudios de tamaños muy distintos, entre ellos Digital Extremes (Warframe), Hinterland Studio (The Long Dark), Strange Scaffold, Finji y Turbo Button."
+        }
+      ]
+    },
+    "games/games-duskbloods-ai-chatbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/the-duskbloods-red-1200x675.jpg",
+          "cap": "Duskbloods, el exclusivo de Switch 2 de FromSoftware"
+        },
+        {
+          "t": "p",
+          "x": "Duskbloods, el exclusivo de Switch 2 de FromSoftware, todavía no ha salido. Hay muchos fans hambrientos de información, pero lo único publicado oficialmente es la primera prueba de red de agosto."
+        },
+        {
+          "t": "p",
+          "x": "El vacío se llenó de una manera extraña. Los chatbots de IA toman estrategias de jefes falsas que usuarios de Reddit inventaron por diversión y las presentan como si fueran hechos confirmados."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/Duskblood-Gemini.jpg",
+          "cap": "Google Gemini describiendo un jefe inexistente como si fuera real"
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por un jefe difícil, Google Gemini enumeró con confianza nombres como «Lycan Vrykolakas», «Duneater Abomination» y «Yocasta». Incluso cuando el autor introdujo detalles inventados, citó un subreddit de Fire Emblem como fuente y construyó una estrategia que sonaba plausible."
+        },
+        {
+          "t": "p",
+          "x": "Lo que esto termina revelando es que los jugadores confían cada vez más en las respuestas de la IA. Este sistema no es más que un motor de texto predictivo que suena plausible; no entiende realmente nada."
+        }
+      ]
+    },
+    "games/games-ludwig-fmv-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/ludwig-badwig-road-to-empress-1200x675.jpeg",
+          "cap": "Ludwig apareciendo en Road to Empress 2"
+        },
+        {
+          "t": "p",
+          "x": "El juego FMV de acción real Road to Empress 2 incorporó a la streamer de Twitch Ludwig como personaje. Él había pedido aparecer en broma durante la emisión de su primer episodio, y los desarrolladores se lo tomaron en serio."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/07/Ludwig-road-to-empress-2.jpg",
+          "cap": "Ludwig como NPC del reino ficticio de Puring"
+        },
+        {
+          "t": "p",
+          "x": "El problema es que buena parte del juego está llena de slop de IA generativa. Un material que podría haberse resuelto como un drama de harén interesante quedó aplastado por esa tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Al final, la reacción se centró en el propio Ludwig. La gente se rió de su peluca rubia y su pronunciación torpe del chino, y él siguió el juego publicando fotos detrás de cámaras y pidiendo que una de ellas se usara como su imagen de perfil en Wikipedia."
+        }
+      ]
+    },
+    "games/games-meshy-3d-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49153/images/6a4d6809c69e0/contain_1200x630.png",
+          "cap": "Meshy 3D Agent beta"
+        },
+        {
+          "t": "p",
+          "x": "Meshy presentó la beta de su 3D Agent. En lugar de escupir un modelo por cada prompt, es una herramienta que mantiene la conversación para refinar los activos 3D en conjunto."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas generativas existentes cortan la solicitud y el resultado cada vez. Meshy retiene el contexto de la conversación y mantiene ese flujo incluso cuando las ideas cambian y se acumulan referencias."
+        },
+        {
+          "t": "p",
+          "x": "Si se fija la dirección de arte primero por conversación, se obtiene de una vez un lote de props sin desviaciones de estilo. Esto resuelve el problema de que, al hacerlos uno por uno, doce piezas acababan viéndose distintas entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Los activos terminados se exportan en formatos estándar como GLB, FBX, OBJ, USDZ y BLEND, listos para pasar directamente a Blender, Unreal Engine, Unity, Godot o Roblox. El rigging y la animación se pueden añadir incluso dentro del chat."
+        },
+        {
+          "t": "p",
+          "x": "Meshy se lanzó en 2021 y ha superado los 12 millones de usuarios registrados y los 100 millones de modelos generados. Una ronda Serie B reciente de 400 millones de dólares llevó su valoración a 1.500 millones de dólares."
+        }
+      ]
+    },
+    "games/games-ai-mandate-resistance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que los gerentes imponen el uso de IA, los trabajadores enfrentan una elección: obedecer o buscar la salida. Aftermath habló directamente con quienes eligieron lo segundo. Todos siguen trabajando en sus empresas, así que se omiten sus nombres y los de sus empleadores. Los sectores van más allá de los videojuegos e incluyen servicios públicos, finanzas y hosting en la nube."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/07/photo-1518601794912-1af91724e528.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "'Trabajo en una empresa que fabrica artículos de lujo', dice un trabajador. 'Cada vez que me llega una alerta de que mi 'uso de tokens' es demasiado bajo —porque es cero— entro y le pregunto a ChatGPT cualquier cosa sobre jardinería. Todavía no he logrado construir bien un jardín de lluvia, pero sí conseguí una explicación sobre los camotes.'"
+        },
+        {
+          "t": "p",
+          "x": "Un líder de equipo en 'un competidor de AWS' cuenta que la dirección ordenó 'incorporar la IA al trabajo diario' sin dar razones ni método, y que eso se convirtió en el objetivo anual de su equipo. 'Les dije claramente a quienes dependen de mí: voy a reconocer cualquier cosa, por trivial que sea, y prefiero que nadie use la IA de verdad mucho. Si dicen que la usaron sin haberlo hecho, miraré hacia otro lado con gusto y les daré la puntuación máxima en el objetivo.'"
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador de un estudio AAA occidental dejó de asistir a las reuniones tras escuchar el anuncio de que todas se grabarían para que la IA tomara notas. Se ausentó durante meses hasta recibir una postura oficial de que las grabaciones no se usarían para entrenar IA. 'Hubo una orden de que todo el personal incorporara la IA a su trabajo y documentara cómo. Yo escribí una frase sarcástica y la ignoré.' Un programador de un estudio pequeño europeo contó que, por la IA que el CEO adoptó con prisas, los diálogos y textos de un título ya lanzado 'se tradujeron con IA, la calidad fue tan mala que una persona tuvo que rehacerlos, y al final costó más dinero que haberlo hecho a mano desde el principio.'"
+        },
+        {
+          "t": "p",
+          "x": "La evasión también puede llevar cara de diligencia. Una redactora de marketing en una empresa tecnológica anota sus tareas en un cuaderno de papel, pero le dice a su jefe que gestiona su agenda con Claude. En vez de decir que buscó algo, dice que le preguntó a Claude, y tras pasar veinte minutos más revisando un borrador ya corregido, añade que también lo pasó por Claude. 'Todos están muy contentos con mi desempeño.' Un gerente de una startup, al saber que el uso queda registrado en un panel interno, generó un montón de prompts largos e inútiles, se convirtió en 'AI Champion' y hasta recibió un reconocimiento de toda la empresa con premio en efectivo. 'Nadie comprobó nunca si lo que produzco cada día estaba realmente hecho con IA.'"
+        },
+        {
+          "t": "p",
+          "x": "Un responsable de seguridad de una gran empresa de entretenimiento optó por el 'cumplimiento malicioso': usa la IA exactamente como se exige y entrega los resultados tal cual, sin tocar un solo error o contradicción. Cuando surge un problema en un documento sensible, como un informe de incidentes, responde: 'Solo hice lo que me pidieron.' 'Eso hace que todos se callen.' Un artista de videojuegos recurre a la ley en lugar de la ética: expone, en el lenguaje de la dirección, las multas por infracción de copyright, el riesgo de negocio por baja calidad, filtraciones de información confidencial, el desperdicio de tokens y un pipeline de arte que en realidad se vuelve más lento. Dice que 'funciona sorprendentemente bien.'"
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, no toda resistencia sale indemne. En un gran estudio AAA, una reciente reunión de 'visión de IA' se puso tensa, un empleado que se opuso terminó dejando la empresa, y a varios los llamaron a entrevistas con recursos humanos. Un director de comunicaciones señala una sola pregunta como la herramienta más útil: cuando alguien dice que algo se podría hacer fácilmente con IA generativa, responder '¿Por qué piensas eso?' Por lo general la respuesta es pobre, y la persona suele darse cuenta por sí misma de que no es ni más eficiente ni da mejores resultados."
+        },
+        {
+          "t": "p",
+          "x": "Al cubrir varios sectores, lo que más llamó la atención fue la velocidad con la que la IA se ha metido en el trabajo diario. El auge comenzó hace apenas unos años, y las preguntas —desde la legalidad hasta sus efectos en la cognición— siguen abiertas, y sin embargo se extiende más rápido de lo que se extendieron las computadoras en su momento. Gente que hace llamadas telefónicas para intercambiar trucos de cómo evadir una vigilancia que registra hasta las pulsaciones de teclado: esa es la escena actual."
+        }
+      ]
+    },
+    "games/games-atelier-ryza-chat-rpg": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SpiralAI y Gust, un estudio de Koei Tecmo, presentaron 'RyzaChat: Your Midsummer Dream Story with AI Ryza', un 'RPG de chat con IA' que toma prestado el universo de Atelier Ryza. El panorama, sin embargo, no es tan alentador. Según Automaton, el juego, que llegará a iOS y Android, consiste enteramente en conversar con un chatbot de IA basado en la protagonista de la serie, Ryza."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ryza-ai-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Comienza con el jugador enviando mensajes para ayudar a Ryza a construir un barco con el que dejar la isla Kurken. Una vez terminado el barco, se abre el mapa del mundo, y desde ahí se avanza a través de misiones generadas por IA, otra vez mediante conversación. Exploración, recolección de materiales, combate, síntesis y construcción regresan, según se explica, junto con todos los personajes de la trilogía original. También hay un modo de chat aparte para hablar directamente con Ryza, donde sus expresiones y gestos cambian según lo que se diga."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ryza-ai-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Koei Tecmo anunció hace poco una alianza con SpiralAI, una startup japonesa que construyó el modelo de lenguaje a gran escala Geppetto2. Ese modelo se presentó como un medio para 'sacar la propiedad intelectual japonesa al mundo de forma segura'. Sobre RyzaChat también, SpiralAI dijo haber puesto en marcha medidas para el 'uso responsable de la IA'. No se incluye en el juego ningún video o imagen generado por IA, afirmó; las ilustraciones, los retratos de personajes, los videos promocionales y las imágenes clave fueron todos dibujados por artistas humanos. La síntesis de voz se construyó sobre grabaciones de la actriz de voz de Ryza, Yuri Nohuchi, y los diálogos se entrenaron con los guiones y materiales de la serie. Los ingresos, según dijeron, se reparten como regalías entre ilustradores, actores de voz y titulares de los derechos de la propiedad intelectual."
+        },
+        {
+          "t": "p",
+          "x": "Estos compromisos alivian parte de la carga ética, pero no la cubren por completo. Ya se han reportado varios casos de personas que caen por compañeros de IA, pasando horas al día pegadas a un chatbot y volviéndose emocionalmente dependientes de él. Además, esta serie ha explotado a Ryza de forma bastante explícita como herramienta de marketing, hasta el punto de que los fans la llaman 'Atelier Thighza'. La preocupación de que RyzaChat pueda llevar a alguien por esa madriguera no es exagerada."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ryza-ai-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Incluso dejando de lado por un momento las cuestiones éticas, queda el hecho de que la mayoría de los juegos que dependen del chat con IA simplemente no son divertidos. Sin la dirección y el criterio de un escritor humano, no se construyen historias; solo se repite material de referencia. Otras empresas, incluida Ubisoft, también han probado tecnología similar, y los resultados no han sido impresionantes."
+        }
+      ]
+    },
+    "games/games-eu-deepfake-law": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La obligación de transparencia sobre deepfakes de la Ley de IA de la UE entró en vigor el 2 de agosto de 2026. Antonia Gold, de Sheridans, señala que la norma es mucho más amplia que los habituales videos falsos de políticos. Cubre cualquier contenido generado o manipulado por IA, sea audio, video o imagen."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/watch-dogs-legion_7vmqJGe.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Como otras normas digitales de la UE, también tiene aplicación extraterritorial. Incluso un estudio fuera de la UE debe etiquetar un deepfake generado por IA si lo incorpora a un videojuego que se distribuirá en la UE o lo publica en línea."
+        },
+        {
+          "t": "p",
+          "x": "Por suerte, la guía de la Comisión Europea publicada el 21 de julio deja un margen bastante concreto para la industria de los videojuegos. La mayoría de los usos habituales de IA en videojuegos difícilmente se consideran deepfakes. Esto incluye la clonación de voz por IA para personajes ficticios que no falsea la identidad de quien habla, entornos generados por IA como bosques o castillos imaginarios, y el uso de IA en fondos, efectos especiales y posproducción. La norma apunta al contenido hecho para parecer real, no a una batalla medieval con dragones."
+        },
+        {
+          "t": "p",
+          "x": "La zona gris empieza en otro lugar: recrear la voz de una celebridad real, representar un partido deportivo real o replicar a una figura histórica. Cuanto más fuerte es el fotorrealismo, mayor es la probabilidad de que se considere un deepfake. El criterio es uno solo: si el espectador puede creer que es real. La Ley de IA define el deepfake como contenido generado o manipulado que se asemeja a personas, objetos, lugares o eventos existentes y parece auténtico, y basta con asemejarse a algo que podría existir realmente para cumplir el requisito."
+        },
+        {
+          "t": "p",
+          "x": "El doblaje por IA de brujas, extraterrestres o robots, las islas flotantes y los reinos submarinos, la sincronización labial por IA de personajes ficticios y las marcas ficticias dentro del juego suelen estar del lado seguro. En cambio, un videojuego deportivo que recrea con IA la voz de un futbolista real, material promocional de carreras que replica de forma realista a un piloto real, un tráiler de IA que dramatiza un evento político real como un documental, o anuncios exteriores con una imagen de IA de un músico real pueden quedar atrapados por la norma. La obligación no se limita al videojuego: también cubre tráilers, vallas publicitarias, anuncios y campañas con influencers."
+        },
+        {
+          "t": "p",
+          "x": "El etiquetado tiene dos niveles. Si el contenido forma claramente parte de una obra artística, creativa, satírica o ficticia, basta con una indicación que no interrumpa el disfrute de la obra. De lo contrario, debe etiquetarse de forma clara y distinguible desde el primer momento en que se expone al contenido. La Comisión especificó que las imágenes de videojuegos pueden entrar en el primer nivel, más flexible. Es decir, el mismo contenido de IA se trata de forma distinta según esté dentro de la obra o se use en material promocional."
+        },
+        {
+          "t": "p",
+          "x": "En la práctica, el primer paso es una política de contenido de IA adaptada al estudio: dejar por escrito cuándo se puede usar IA, qué resultados necesitan etiqueta, cómo etiquetarlos y, sobre todo, lograr que el personal que realmente crea el contenido conozca esa política. Un documento dormido como “versión final” en un rincón de la intranet no impide nada. La decisión se reduce a cuatro preguntas: ¿representa a una persona, objeto, lugar o evento real o plausible?, ¿es muy realista?, ¿podría el público creer que es real?, ¿se distribuye en la UE?"
+        }
+      ]
+    },
+    "games/games-seed-ai-avatars": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En teoría entiendo el atractivo de los NPC con IA. ¿Qué pasaría si Lydia, de Skyrim, pudiera hablar sin fin de algo más que el inventario compartido, y la relación no terminara solo porque se acabó el guion? Es una idea interesante. El problema es lo que he visto hasta ahora. Los NPC con IA sí hablan, y mucho, pero no es algo que merezca la pena escuchar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Td7M8ni6EarYZoh34DHUD7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Últimamente estoy jugando Seed, el sim de colonias MMO que Klang Games desarrolló durante unos diez años antes de lanzarlo en acceso anticipado. Los jugadores crean avatares al estilo de Los Sims llamados “Seedlings”, y los Seedlings hablan entre sí y con los jugadores a través de la IA de Seed."
+        },
+        {
+          "t": "p",
+          "x": "La primera conversación fue buena. Durante la creación del personaje, las piernas de mi Seedling resultaron inusualmente largas y el torso inusualmente corto, así que parecía llevar jeans de talle alto, y se lo pregunté directamente. “¡Hola!! ¡Qué feliz estoy de que por fin podamos hablar!” “¿Por qué llevas un talle tan alto?” “¡Todo el mundo lleva talle alto ahora! Es tendencia total… ¿acaso… no te gusta?” No son muchos los juegos que permiten mantener una conversación sobre el largo de las piernas y la cintura de unos jeans."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EFpFCBHBFLRJXMzVXN2AR5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A partir de ahí fue cuesta abajo. Tras unas horas, era difícil no pensar que la primera conversación había sido solo suerte. Esta es una conversación entre mi Seedling y el Seedling de otro jugador. Ninguna de las dos partes fue escrita por una persona, y el otro jugador ni siquiera estaba conectado; los Seedlings permanecen en el mundo aunque su dueño no esté. “Oye, ¿cuántos años tienes? ¡Pura curiosidad!” “¡Tengo dieciocho!! Es un número pesado y hermoso, de alguna manera.” “¡Dieciocho es una edad muy clásica! Totalmente icónica.” “¿Y tú? ¿Cuántos años has vivido?” “¡Yo también tengo dieciocho! Somos realmente iguales, ¿no es curioso?”"
+        },
+        {
+          "t": "p",
+          "x": "Hay un detalle que delata de inmediato que es una IA: la costumbre de llenar los silencios con palabras innecesarias. “Tengo dieciocho” ya basta, pero añade algo como “un número pesado y hermoso” de todos modos, aunque no tenga sentido. “¿Cuántos años has vivido?” es lo mismo. No hace falta retorcer una pregunta sencilla para demostrar que estás vivo. Yo estoy vivo y no hablo así."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2HJCTfQYir7WWJc8tMDQS5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La conversación sobre un rostro sin barba fue aún más rara. Mi Seedling dijo: “Mira la piel de esa persona, ¡tan suave y perfecta!”. El otro replicó: “¿Suave? Para nada. Se ve totalmente hinchada”, y enseguida añadió: “¡Esa persona tiene la cara tan limpia! ¡No tiene ni un solo pelo!”, que es exactamente lo que mi Seedling acababa de decir. Mi Seedling respondió: “¡Perdón! Creo que vi lo que quería ver”, y luego pasó a: “Pero ese estilo está totalmente de moda ahora, lo minimalista es tendencia.” La puntuación de relación subió un poco, pero el precio fue una conversación sin ningún sentido."
+        },
+        {
+          "t": "p",
+          "x": "También hay partes útiles. El tipo de personalidad elegido al crear el personaje se nota en la forma de hablar. Algunos Seedlings son bruscos, otros se emocionan con todo, y unos disfrutan los chismes mientras otros los detestan; se puede saber rápido qué tipo de personaje es el otro. Pero la conversación en sí pierde inmersión cuanto más se alarga. Palabras como “pesado”, “hermoso”, “icónico” y “vibra” vuelven una y otra vez sin parar. La edad de mi Seedling, su nombre, e incluso el color de los zapatos marrones de alguien son todos pesados y hermosos."
+        },
+        {
+          "t": "p",
+          "x": "El robot del tutorial es distinto. Si le preguntas con una frase sencilla cómo hacer una tarea concreta o dónde está un recurso, suele dar una respuesta útil. A veces entiende mal la pregunta o da información equivocada, pero no tiende a inventar datos que no existen. Es más rápido que buscar en una wiki o abordar a otro jugador. Eso sí, en el momento en que pronuncia mal una palabra común o pone el acento en la sílaba equivocada, la señal de que es falso llega de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Sigo sin saber si los juegos realmente necesitan este tipo de interacción con IA, ni si alguien la quiere de verdad. ¿Es mejor que Los Sims, donde todos entienden que dos avatares están hablando de música a través de un único globo de diálogo con un dibujo de guitarra? Si esto último es superficial, una conversación completa sin ningún significado lo es todavía más. Se puede imaginar un mundo donde a los personajes nunca les falten cosas que decir. Por ahora, sin embargo, prefiero líneas limitadas pero convincentes, o un globo de diálogo con un emoji."
+        }
+      ]
+    },
+    "games/games-dragon-quest-gemini-event": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El pasado marzo, Square Enix anunció una alianza con Google Gemini para añadir un compañero de IA llamado 'Chatty Slimey' a Dragon Quest X, un MMORPG exclusivo de Japón. Las reacciones fueron encontradas. Aun así, ha llegado otro anuncio de Dragon Quest centrado en Gemini."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/DQX-Gemini-AI-event.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "La noticia llega a través de Automaton. Square Enix y Google Gemini continúan su colaboración con un evento presencial en Tokio el 30 de julio, dos días después de publicarse este artículo. El evento, llamado 'Gemini Quest', se celebrará de forma simultánea en cuatro lugares de los distritos de Shibuya y Harajuku, en Tokio."
+        },
+        {
+          "t": "p",
+          "x": "No se ha detallado con exactitud cómo funcionará la participación. Según Famitsu, los jugadores deberán formar equipos para “sellar al Rey Dragón, resucitado en el mundo real”. También se explicó que “aparecerán en el lugar estatuas gigantes de monstruos con forma de slime”. Los participantes fotografiarán las estatuas con la app de Gemini y lanzarán hechizos mediante AR, generando una imagen de ellos mismos “enfrentándose al monstruo”."
+        },
+        {
+          "t": "p",
+          "x": "“Los jugadores que completen la misión recibirán una 'minimedalla' física de edición limitada, grabada con monstruos icónicos de Dragon Quest como Slime y Killer Machine.” Así lo indica el sitio web del evento. Basta ver algunas de las imágenes de muestra publicadas en el sitio para notar de inmediato que son IA generativa, igual que la imagen principal de este artículo."
+        },
+        {
+          "t": "p",
+          "x": "Hay un rechazo claro hacia el uso de IA generativa en el desarrollo de videojuegos, pero informes recientes indican que la industria asiática está impulsando esta tecnología con más fuerza. El pasado enero, desarrolladores coreanos también manifestaron su intención de competir en el mercado global apoyándose en la IA."
+        }
+      ]
+    },
+    "games/games-halo-ai-voice-mod": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Actualización: exactamente dos minutos después de publicar este artículo, noté un video musical hecho con IA en el canal de YouTube del creador de Halo - Chipmunk Edition. Voy a guardarme la risa hasta que haya más pruebas. Hoy en día, buscar mods de Halo: Campaign Evolved es casi un juego de evitar o detectar el uso de IA. Si esta tecnología te incomoda, queda avisado."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original decía esto. Con el lanzamiento completo de Halo: Campaign Evolved, los mods no dejan de llegar. Al revisar los mods iniciales, encontré algunos trabajos interesantes o llamativos más allá de los ajustes de rendimiento y gráficos habituales en cada lanzamiento nuevo. Hay uno que activa un modo cooperativo a pantalla dividida que el equipo de desarrollo había dejado oculto, y otro que reemplaza las líneas de Cortana por las del Combat Evolved original. Ambos se hicieron con IA: uno con Claude, el otro con OpenAI Codex."
+        },
+        {
+          "t": "p",
+          "x": "Así que investigué un poco más los primeros mods de combate cuyas descripciones no mencionaban IA. Así llegué a Halo - Chipmunk Edition."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/halo-campaign-evolved-chipmunk-mod-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Está hecho por el modder Omniscye, que también está trabajando en convertir a todos los Grunt del Covenant en Lieutenant Williams. Este mod aplica un cambio de tono a la voz de casi todos los personajes del juego. Según la descripción, “unos 15.391 archivos de diálogo en inglés” se convirtieron en voces de ardilla. Mira el video de demostración abajo."
+        },
+        {
+          "t": "video",
+          "yt": "hF_EASSpYEc"
+        },
+        {
+          "t": "p",
+          "x": "Por lo que veo, la descripción de Omniscye no menciona el uso de IA, y el mod no está etiquetado como contenido generado por IA. Así que espero que sea un mod de broma hecho a mano, al estilo de siempre. Es el tipo de cosa que los modders hacían por diversión incluso antes del auge actual de la IA, aunque no suele verse a esta escala justo después del lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Seguramente la persona que hizo el mod de Kingdom Come: Deliverance 2 que te deja llevar un escudo con forma de trasero femenino, y Washing Machines of Bohemia, no intentaría engañarme. Dejo salir, con cuidado, la risa que venía conteniendo. Ja. Si buscas un mod de Halo: Campaign Evolved realmente útil, hay uno que desbloquea skins ocultas. Lamentablemente, no parece haber trajes de Alvin, Simon ni Theodore."
+        }
+      ]
+    },
+    "games/games-pokemon-green-ai-3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pokémon Rojo y Pokémon Verde están entre los videojuegos más queridos de la historia. Para millones de personas en todo el mundo, también son un recuerdo de infancia muy valioso. Conviene aferrarse bien a ese recuerdo antes de seguir leyendo. Ha aparecido en internet un video que recrea con IA la icónica escena de apertura de ambos juegos, y es exactamente el desastre que cabría esperar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/d3JQSCuPfFbC3g54kbERYV-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El video lo publicó el usuario de Twitter Paulius, quien admitió que “la escena de los iniciales es realmente incómoda”. Es una recreación 3D extraña de Pueblo Paleta recorrida en primera persona, que al principio es solo un metraje apagado, sin vida y algo nauseabundo. Luego, en el momento en que la cámara entra al laboratorio del Profesor Oak, todo se inclina de golpe hacia la pesadilla. Ahí queda claro qué pasa cuando la IA generativa mastica a un compañero digital de toda la vida y lo escupe de nuevo. Las revelaciones, en el orden Bulbasaur, Charmander y Squirtle, fueron cada vez más impactantes."
+        },
+        {
+          "t": "p",
+          "x": "Los tres son horribles, pero el Bulbasaur de IA es el menos malo. Sus ojos rojos y su cara sin expresión son muy desagradables, aunque no como para quitarte el sueño. Charmander, mi Pokémon favorito, parece haber pasado por una picadora de carne y haber sido recosido después por un niño torpe. Squirtle es peor: sale del Poké Ball como con espasmos, queda de pie de forma antinatural y pone una expresión que, para mí, solo transmite amenaza. Esa sonrisa malvada y esos ojos como agujeros negros no parecen algo que vaya a olvidar. El propio Paulius describió a su Squirtle de IA como “eternamente atormentado”, y no le falta razón."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué resultan tan perturbadores estos Pokémon de IA? Puede que sea porque Claude AI generó casi todo lo que se ve. Los prompts los escribió el “susurrador de IA” Matt Shumer. “Lo increíble es que Claude generó cada píxel, sin excepción. No hay ningún activo personalizado”, dijo Paulius. Es una afirmación notablemente tranquila para alguien que acaba de soltarle 72 segundos de angustia viral a usuarios de internet desprevenidos."
+        },
+        {
+          "t": "p",
+          "x": "Lo peor viene aparte. Estas criaturas abandonadas, que un usuario bautizó como “chormandur, balbisour, squart”, podrían algún día volverse “reales” si las cosas salen como quiere Paulius. A estas alturas, solo Nintendo puede detenerlo."
+        }
+      ]
+    },
+    "games/games-sekai-vibe-coding-medium": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sekai cree que el vibe coding se está convirtiendo en un medio creativo propio. Por eso está construyendo una plataforma donde los creadores de este campo puedan reunir audiencia."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/EDITORIAL-CANVA-23.png"
+        },
+        {
+          "t": "p",
+          "x": "La empresa fue fundada en 2024 por Lucky Zhang, antiguo ejecutivo de ByteDance, que sigue siendo su CEO. Sekai lanzó su producto de mini apps con IA a finales de 2025, y permite a los usuarios introducir un prompt para crear rápidamente mini juegos jugables, cuestionarios y memes interactivos. En una entrevista con GamesBeat, Zhang dijo que los usuarios han creado hasta ahora más de 20 millones de mini apps. Las nuevas apps aparecen a un ritmo de unas 250.000 al día. Según él, las funciones de compartir integradas en la plataforma están haciendo crecer la base de usuarios, aunque no reveló cifras concretas."
+        },
+        {
+          "t": "p",
+          "x": "“Detrás de esto están la idea del usuario y nuestro agente creativo. El agente creativo intenta producir algo que valga la pena compartir”, dijo Zhang."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/IMG_5790-471x1024.png"
+        },
+        {
+          "t": "p",
+          "x": "La apuesta de Sekai es esta: las apps de vibe coding, donde describes lo que necesitas en lenguaje natural y la IA escribe la mayor parte del código, se convertirán en un medio creativo tan común en las redes sociales y la vida diaria como el video corto o la escritura. Los inversores han respaldado esto con 30 millones de dólares en total. Una Serie A de 20 millones de dólares anunciada en junio fue codirigida por Khosla Ventures y Connect Ventures."
+        },
+        {
+          "t": "p",
+          "x": "“La gente no piensa en esto como 'vibe coding'. Simplemente piensan: 'estoy haciendo mi juego', 'estoy haciendo lo mío'. Lo hacen por diversión y se lo envían a un amigo. Para ellos, se parece más a publicar algo en redes sociales. 'Vibe coding' suena demasiado a herramienta”, dijo Zhang."
+        },
+        {
+          "t": "p",
+          "x": "Con los 30 millones de dólares en mano, Zhang planea ampliar aún más la plataforma de desarrollo de mini apps en 2026. A corto plazo, lanzará una herramienta que convierte automáticamente memes o videos de redes sociales en mundos interactivos o mini juegos. “Quisimos que el proceso de convertir una inspiración en una creación real fuera lo más fácil y fluido posible. Si ves un video de TikTok muy gracioso y tonto, solo arrástralo a Sekai. Nosotros lo convertimos en un juego para ti”."
+        },
+        {
+          "t": "p",
+          "x": "La economía de creadores todavía no está lista. Los usuarios pueden crear y compartir apps, pero no pueden ganar dinero directamente dentro de la plataforma. Zhang no trata la monetización como una prioridad por ahora. Cree que llegará de forma natural una vez que los creadores cobren impulso primero. Con su experiencia en ByteDance, puso a TikTok como ejemplo, señalando que se benefició de dejar que los creadores reunieran audiencia y luego ganaran dinero por su cuenta a través de canales como el comercio y las transmisiones en vivo. “Si los creadores pueden construir sus propias apps, también diseñarán sus propias formas de ganar dinero. Eso ayudará a muchos usuarios a construir sus propios modelos de negocio”."
+        }
+      ]
+    },
+    "games/games-google-ai-leaks-private-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/umZkVR6nq6NmtKLHanmrFU-1920-80.jpg",
+          "cap": "Un robot de Portal 2 sosteniendo una pistola de portales"
+        },
+        {
+          "t": "p",
+          "x": "La velocidad con la que se expande la IA ya es inquietante de por sí, pero un desarrollador independiente dice que información muy concreta sobre el juego que está desarrollando se filtró desde un documento privado."
+        },
+        {
+          "t": "p",
+          "x": "Quien publicó en Reddit es Klub Kofta Studio, un desarrollador en solitario cuyo título principal es el juego de defensa de torres submarino Operation Octo. El desarrollador compartió una conversación de Discord bastante desconcertante que tuvo con un jugador sobre una próxima actualización. En la captura, un jugador le preguntó a la IA Gemini de Google sobre el juego y recibió “información sorprendentemente específica que no debería existir para un indie pequeño como el mío”."
+        },
+        {
+          "t": "p",
+          "x": "Hasta aquí, nada sorprendente. El problema es que el chatbot de Google también mencionó contenido futuro que, al parecer, extrajo de conversaciones en el Discord del juego. Klub Kofta lo calificó de “una locura”. Mientras jugaba Gartic Phone, un juego de fiesta en línea, y dibujaba, dejó escapar por accidente un dibujo de una nueva criatura a la que el equipo llamaba internamente Tripod Fish. Los usuarios de Discord dedujeron solo con ese dibujo que Tripod Fish llegaría al juego, pero según el desarrollador, el nombre exacto de la criatura nunca se había revelado en ningún lugar. Google Gemini lo adivinó."
+        },
+        {
+          "t": "p",
+          "x": "“Por curiosidad, intervine yo mismo y le pedí al jugador que le preguntara a la IA sobre el contenido futuro de mi juego”, explica el desarrollador en solitario. “Entonces la IA dijo el nombre exacto y muy específico 'Vantage Tripod'. Nunca le he dicho ese nombre a nadie. Hasta donde yo sé, esa información existe en formato digital en un único lugar, mi propio documento de Google, ¡y yo no fui quien habló con la IA! (El jugador preguntó en modo incógnito.)”"
+        },
+        {
+          "t": "p",
+          "x": "“El nombre espeluznantemente preciso y muy específico 'Vantage Tripod' nunca se ha usado en ningún otro lugar más que en mi documento de Google”, añadió."
+        },
+        {
+          "t": "p",
+          "x": "Como se trata del relato sin verificar de una sola persona, conviene ser cauteloso al afirmar cómo ocurrió exactamente esto. Usuarios de Reddit especularon con que Google inscribe automáticamente a los usuarios para que Gemini analice archivos de Google Drive con fines de entrenamiento. Tras una búsqueda exhaustiva, esa afirmación no se confirmó. Aun así, si el relato de Klub Kofta es cierto, deja implicaciones bastante incómodas para la privacidad en línea en la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Un usuario de Reddit que calificó la historia de “inquietante” señaló otras vías posibles, como la posibilidad de que se hubieran extraído conversaciones de Discord entre miembros del servidor. El desarrollador insistió en que el nombre de la criatura nunca salió de su Google Drive personal."
+        },
+        {
+          "t": "p",
+          "x": "“Ni siquiera los miembros del servidor de Discord conocían este nombre en concreto. Estoy seguro de que se mantuvo en secreto, y al revisar el historial de búsqueda de Discord (como se ve en la captura), esa palabra clave nunca se ha mencionado hasta este punto”, dice el desarrollador."
+        },
+        {
+          "t": "p",
+          "x": "“Ese nombre de personaje todavía ni siquiera está en los datos serializados del juego. Un único documento de Google donde anoté los nombres y descripciones de personajes futuros es la única fuente que puedo imaginar.”"
+        }
+      ]
+    },
+    "games/games-nvidia-ntc-sdk-arm64": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-SPark-6.jpg",
+          "cap": "Tras el soporte de controladores, NVIDIA también lanzó un SDK para la plataforma RTX Spark / Crédito de imagen - NVIDIA"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA presentó por primera vez la Compresión Neural de Texturas RTX (NTC) en 2023, y la retomó en la primera mitad de 2026, afirmando que reduce el uso de VRAM en un 85%. El SDK, antes disponible solo para desarrolladores de Windows 11, ahora pasó también a la plataforma ARM64. Esto se debe a que el RTX Spark de NVIDIA, y varias líneas de portátiles con ese SoC, llegarán dentro de este año."
+        },
+        {
+          "t": "p",
+          "x": "Aunque ya está disponible para desarrolladores, todavía ningún juego admite esta tecnología. Tampoco se sabe si el RTX Spark cambiará esa situación."
+        },
+        {
+          "t": "p",
+          "x": "Compusemble fue el primero en detectar el soporte de la Compresión Neural de Texturas RTX en Windows 11 ARM64, y VideoCardz informó después sobre su llegada a la plataforma RTX Spark. NTC está diseñada para reducir considerablemente el uso de VRAM sin sacrificar la calidad de imagen. Con los juegos AAA actuales apretando a los procesadores gráficos de 8GB de VRAM, los jugadores que no pueden actualizar de inmediato por la escasez de DRAM bien podrían recibir esta tecnología con agrado."
+        },
+        {
+          "t": "p",
+          "x": "La técnica habilita una compresión de bajo bitrate. Con un tamaño de almacenamiento similar al de la compresión de texturas habitual, logra dos niveles adicionales de detalle, o 16 veces más por téxel. Para notar la diferencia a simple vista, hay que acercarse mucho al objeto hasta que la textura empiece a verse borrosa."
+        },
+        {
+          "t": "p",
+          "x": "Una implementación usa fused backpropagation para hacer viable la optimización por material hasta una resolución de 8,192 x 8,192. En una NVIDIA RTX 4090, procesó un set de texturas de material 4K de 9 canales en 1 a 15 minutos. Aunque NVIDIA extienda esta función avanzada a todas las plataformas, nada cambia si los desarrolladores no la usan de verdad."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, esta tecnología se ha quedado en muestras y demos. En el RTX Spark, hay menos motivo para activar NTC y ahorrar VRAM que en una GPU discreta, porque la arquitectura de memoria unificada del chipset le permite llevar hasta 128GB de LPDDR5X. Aunque las configuraciones de 32GB son más comunes, NTC no resulta estrictamente necesaria ahí."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, una mejora en la tasa de fotogramas también sería bienvenida para el RTX Spark. Este chipset ya demostró que puede correr juegos como Alan Wake 2 y PRAGMATA sin problemas. Junto con liberar el SDK de Compresión Neural de Texturas RTX para desarrolladores, NVIDIA también lanzó su primer controlador para Windows 11 ARM64. Es una señal de que el primer portátil con este SoC no está lejos."
+        }
+      ]
+    },
+    "games/games-unity-one-api-every-role": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "naXXD0U9hYQ"
+        },
+        {
+          "t": "p",
+          "x": "Abrir el Editor a todos. Durante los últimos 20 años, el Editor de Unity fue el lugar donde tomó forma toda una generación de videojuegos. Pero los juegos ya no se hacen solo dentro del Editor."
+        },
+        {
+          "t": "p",
+          "x": "Por eso Unity está construyendo un conjunto de API y servicios que abre la producción de Unity a las herramientas, roles y agentes que la rodean, sin necesidad de acceso completo al Editor. Se puede previsualizar el juego real, automatizar desde una terminal y elegir la herramienta adecuada para cada tarea. Ya sea un artista que pule assets sin lidiar con el control de versiones o un ingeniero que automatiza flujos de trabajo desde la línea de comandos, cada rol del equipo se diseñó para poder contribuir. Unity se conecta a las herramientas y al pipeline de producción del equipo, no al revés."
+        },
+        {
+          "t": "p",
+          "x": "Revisar el juego real junto con todo su contexto. Productores, artistas y QA ven renders reales del juego, no capturas sustitutas, en la web o en el dispositivo. Al compartir un enlace, los comentarios quedan colocados sobre ese contexto vivo del juego."
+        },
+        {
+          "t": "p",
+          "x": "Crear herramientas y automatizar con IA. API y una CLI pensadas con agentes en mente validan assets, corrigen problemas, los suben a revisión y lanzan builds."
+        },
+        {
+          "t": "p",
+          "x": "Incorporar colaboradores externos de forma segura. Los colaboradores externos reciben permisos basados en roles. Cada uno trabaja con sus propias herramientas, verifica en el dispositivo y entrega al control de versiones del equipo."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora es una beta privada. Las inscripciones se reciben en https://on.unity.com/ProductionPipeline."
+        }
+      ]
+    },
+    "games/games-unreal-ethical-image-models": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ogppHmJO02I"
+        },
+        {
+          "t": "p",
+          "x": "Esta es una sesión grabada en Unreal Fest Chicago 2026. Analiza cómo elevar el pipeline de producción artística mientras se usan varios modelos de forma eficaz y considerada."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas mencionadas son Tripo 3.1, Nano Banana y ChatGPT Images 2.0. Junto con otros modelos, el eje de la sesión es cómo acelerar el desarrollo de assets 3D."
+        },
+        {
+          "t": "p",
+          "x": "Como sugiere el título, el foco no está solo en la velocidad. Pone en el mismo plano el uso ético de los modelos de imagen y video. Las etiquetas asociadas siguen el mismo orden: arte, assets 3D, Tripo, Nano Banana, ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "El video se publicó en el canal oficial de Unreal Engine el 5 de agosto de 2026 y dura 26 minutos y 18 segundos. En las imágenes de la sesión se pueden ver directamente los ajustes y los resultados de cada herramienta."
+        }
+      ]
+    },
+    "games/games-unreal-mcp-editor": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lDf_y-YPELo"
+        },
+        {
+          "t": "p",
+          "x": "Esta es una sesión grabada en Unreal Fest Chicago 2026. Unreal Engine 5.8 incorpora integración oficial del Model Context Protocol (MCP), y suma además operaciones espaciales con primitivas de PCG y un conjunto de skills. Está pensado para dar soporte a la construcción de mundos asistida por IA directamente dentro del Editor de Unreal."
+        },
+        {
+          "t": "p",
+          "x": "La sesión empieza observando la integración de MCP: qué sistemas del editor se admiten sin ajustes adicionales, cómo se conecta el Editor de Unreal con el LLM agente que cada uno elija, y hasta dónde llevan los desarrolladores esta extensión, en ese orden."
+        },
+        {
+          "t": "p",
+          "x": "Después viene la construcción y corrección de mundos virtuales con IA. Muestra experimentos que combinan LLM con sistemas avanzados de Unreal Engine, como el framework de Generación Procedural de Contenido (PCG), y hace una demostración de cómo construir y pulir entornos con lenguaje natural dentro del Editor."
+        },
+        {
+          "t": "p",
+          "x": "Al terminar la sesión, queda una idea práctica de cómo incorporar IA a los flujos de trabajo del Editor de Unreal, junto con una noción de hasta dónde llegan estas funciones a la hora de convertir palabras en mundos."
+        },
+        {
+          "t": "p",
+          "x": "El video se publicó en el canal oficial de Unreal Engine el 3 de agosto de 2026 y dura 36 minutos y 40 segundos."
+        }
+      ]
+    },
+    "games/games-anishort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AniShort fusiona la escritura de guiones, el storyboard, la gestión de personajes, la generación de video, la edición y el renderizado en un único flujo de trabajo dentro del navegador, manteniendo la coherencia de los activos mientras reduce el tiempo de producción y elimina el cambio constante entre herramientas."
+        },
+        {
+          "t": "video",
+          "yt": "JD5kQ3FuJzM"
+        },
+        {
+          "t": "p",
+          "x": "Una ola de nuevas herramientas de producción asistida ha bajado mucho la barrera para lograr video de alta calidad. El proceso de producción en sí, sin embargo, se ha vuelto aún más fragmentado. Para artistas, diseñadores y creadores independientes, ese es el verdadero problema."
+        },
+        {
+          "t": "p",
+          "x": "Sacar un solo plano toma segundos, pero montar un proyecto significa saltar entre siete u ocho aplicaciones. El guion se escribe en una herramienta, el storyboard se construye en otro lugar, el personaje se vuelve a crear en otro sitio distinto, el video se renderiza en una plataforma separada, y la edición final ocurre dentro de software tradicional."
+        },
+        {
+          "t": "p",
+          "x": "Cada vez que se cambia de herramienta, las referencias se rompen, los personajes se desvían, la calidad baja y el mismo trabajo se rehace. Muchos flujos de trabajo empujan este problema más adelante en vez de resolverlo. AniShort lo aborda de otra manera."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/2e/images/6a692c3b0544b/widen_920x0.jpg",
+          "cap": "El entorno de producción integrado de AniShort."
+        },
+        {
+          "t": "p",
+          "x": "AniShort no está pensado como otra herramienta aislada más. Está construido como un entorno de producción basado en navegador que conecta cada etapa del rodaje —guion y diseño de escenas, storyboard, gestión de personajes, renderizado, edición y entrega final— dentro de un único espacio de trabajo. Debajo hay una estructura de datos unificada, de modo que la información de los personajes, la estructura narrativa y los activos de producción permanecen conectados sin exportar, convertir y reconstruir una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "Los proyectos inevitablemente pasan por grandes cambios. En el enfoque convencional de múltiples herramientas, revisar un guion o un storyboard significa reconstruir una buena parte del flujo de trabajo. Mientras se vuelven a establecer referencias de personajes y se rehacen escenas, la importación y exportación repetidas también van desgastando la calidad poco a poco. Como AniShort mantiene esos activos dentro de un solo entorno de producción, las revisiones son mucho menos destructivas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/2d/images/6a692c49924ca/widen_920x0.png",
+          "cap": "Perfiles de personajes persistentes y el lienzo infinito."
+        },
+        {
+          "t": "p",
+          "x": "Mantener personajes fiables sigue siendo el mayor desafío de la producción de video. Aunque la calidad de generación mejore, las expresiones, la sincronización labial y los detalles finos de actuación todavía varían de un plano a otro, y los creadores terminan atados a corregirlos a mano. AniShort lo aborda con su concepto de 'Infinite Canvas', que mantiene perfiles de personajes persistentes y los reutiliza en varios lienzos y storyboards en vez de reconstruirlos para cada secuencia. Las piezas dispersas terminan conectadas como una sola línea de montaje."
+        },
+        {
+          "t": "p",
+          "x": "Integra modelos como Seedance 2.0 Unlimited Edition para preservar la continuidad de los personajes mientras da a los creadores más control sobre la generación y el ajuste de los planos. La generación sin censura y el acceso prioritario sin colas también reducen la fricción. Junto con la edición en el navegador y la gestión unificada de activos, permite usar los modelos principales sin manejar varias suscripciones, y reduce el costo de iterar con precios de tokens pensados para creadores de alto volumen."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/fb/images/6a692c5aea53e/widen_620x0.png",
+          "cap": "Edición y renderizado que permanecen conectados dentro del navegador."
+        },
+        {
+          "t": "p",
+          "x": "En vez de exigir que los creadores armen su propio flujo de trabajo a partir de servicios dispersos, AniShort mantiene todo el proceso de producción cinematográfica abierto dentro de un único entorno basado en navegador. Se puede probar gratis primero en el sitio oficial."
+        }
+      ]
+    },
+    "games/games-cosmos3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En julio pasado, Nvidia se unió a más de 200 empresas e instituciones para firmar la carta abierta 'Open Weights and American AI Leadership'. El argumento era que el liderazgo en IA no se decide por un único modelo de frontera, sino por si un ecosistema abierto llega a todas las industrias."
+        },
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/cosmos-corp-blog-promo-1920x1080-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Eso se apoya en modelos que cualquiera puede descargar, examinar, modificar y ejecutar en su propia infraestructura. Esto importa aún más en la IA física, porque cada implementación termina siendo un problema de especialización."
+        },
+        {
+          "t": "p",
+          "x": "La IA física tiene que entender y predecir resultados, no solo apariencias. Un modelo de mundo aprende cómo se mueve un entorno físico, qué pasa después y qué acciones tienen sentido. Genera datos con fundamento y simula estados futuros, formando la base para especializarse en robots, vehículos autónomos e IA de visión."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de mundo abiertos ya se usan para generar datos de entrenamiento, validar políticas y especializar sistemas. NVIDIA Cosmos 3 reúne esto en una sola familia de modelos abiertos, con resultados destacados en benchmarks y adopción en robótica, conducción autónoma e IA de visión. La biblioteca Omniverse del NVIDIA Agent Toolkit construye entornos de simulación para entrenar, probar y validar antes del despliegue."
+        },
+        {
+          "t": "p",
+          "x": "Los datos a la escala que exige la IA física son difíciles y costosos de reunir. Los eventos raros y los escenarios de cola larga son especialmente difíciles de reproducir de forma segura y repetida. Los modelos de mundo llenan ese vacío generando entornos que varían en clima, iluminación, objetos y trayectorias."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de propósito general nunca ha visto el robot, los sensores ni el entorno de trabajo de un equipo dado. Cerrar esa brecha exige los pesos del modelo, una licencia que permita modificarlo y herramientas de post-entrenamiento. Los modelos de fundación de mundo de NVIDIA Cosmos se publican bajo la licencia OpenMDW 1.1 de la Linux Foundation, de modo que los equipos pueden post-entrenarlos con sus propios datos y su propio hardware."
+        },
+        {
+          "t": "p",
+          "x": "OpenUSD es un marco abierto para estructurar, reutilizar e intercambiar datos 3D complejos entre gemelos digitales, simulación y generación de datos sintéticos. Reduce el trabajo duplicado que antes se acumulaba cada vez que cambiaban los activos, la configuración de sensores o las condiciones del entorno."
+        },
+        {
+          "t": "p",
+          "x": "Cosmos 3 es un modelo omni de fundación de IA física abierto con arquitectura mixture-of-transformers, que maneja el razonamiento visual, la generación de mundo y la predicción de acciones dentro de una sola familia. Se divide en Super (64B) para modelado de mundo de alta precisión, Nano (16B) para inferencia eficiente y post-entrenamiento, y Edge (4B) para razonamiento visual en el dispositivo y despliegue de políticas de robots, y Edge corre en GPU RTX y en Jetson, incluidos DGX y Jetson Thor."
+        },
+        {
+          "t": "p",
+          "x": "En los benchmarks, quedó primero en Artificial Analysis para generación de texto a imagen e imagen a video con pesos abiertos, primero en PAI-Bench para generación de mundo y primero en Physics-IQ de imagen a video. En políticas de robots quedó primero en RoboLab, y Cosmos 3 Super está en la cima entre los modelos abiertos en VANTAGE-Bench para comprensión visual."
+        },
+        {
+          "t": "p",
+          "x": "En robótica construyen sobre Cosmos Doosan Robotics, LG Electronics, Samsung Electronics y Skild AI; en conducción autónoma, Li Auto, Xiaomi y Afari; en IA de visión, Centific, Fogsphere, Linker Vision, Milestone Systems y Yuan. La Cosmos Coalition se ha expandido recientemente a Japón para construir modelos de mundo abiertos para fábricas, logística, agricultura, construcción, salud y transporte."
+        }
+      ]
+    },
+    "games/games-gta6-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con la fecha de lanzamiento de Grand Theft Auto 6 en noviembre cada vez más cerca, y más gente cansada de esperar un tráiler de jugabilidad decente, el slop de IA de GTA 6 está acumulando millones de vistas en redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "Estos videos generados por IA llegan a millones de vistas en Instagram y TikTok. Las miradas se desvían hacia estas imitaciones improvisadas del gran lanzamiento de Rockstar Games, pero la reacción que reciben nunca es amable."
+        },
+        {
+          "t": "video",
+          "yt": "sQEGy86F2gE"
+        },
+        {
+          "t": "p",
+          "x": "Empecemos con Instagram. Un video de IA publicado por Nexifygaming muestra a una mujer con vestido blanco disfrutando con lujo en la parte de atrás de un yate. Tiene 1,1 millones de vistas. Quien lo publicó escribió: 'el mar, el interior del yate, el detalle de los personajes, la atmósfera cinematográfica, se siente completamente real. El realismo de nueva generación está en otro nivel.' Y sin embargo, justo debajo del mapa todavía se lee 'Vige city', y en la parte inferior de la pantalla sigue apareciendo el mensaje 'press [Button] to drink chamchnapane'. El camarero y la mujer rica en el yate incluso comparten la misma voz."
+        },
+        {
+          "t": "p",
+          "x": "La reacción real queda muy por debajo del número de vistas, y tampoco es amable. El comentario con más me gusta fue una sola palabra dejada por DrPenguin1214: 'AI'. Hay reacciones simples como 'good', y burlas directas como la de number.no4: 'chamchsnapane'. Varios GIFs de 'AI detected' han quedado ocultos, bien borrados por quien publicó o atrapados por los filtros automáticos de spam."
+        },
+        {
+          "t": "p",
+          "x": "Hay publicaciones parecidas por todas partes. Un video de GTA 6 haciendo surf en Instagram tiene alrededor de 1,2 millones de vistas y unos 33.000 me gusta, y su comentario más votado es 'GTA 6 but from Temu'. Un video en TikTok de un paseo en auto tiene 4,4 millones de vistas y 120.000 me gusta, con comentarios como 'holy AI', 'If it turns out like this I'm suing' y 'love how the car changes'. Este último comentario señala el momento en que el El Camino se convierte en una camioneta angulosa cada vez que cambia la perspectiva."
+        },
+        {
+          "t": "p",
+          "x": "Algunos videos se van hacia lo absurdo. Una publicación de Instagram muestra un combate cuerpo a cuerpo sobre un avión en pleno vuelo. El avión vuela hacia atrás con la hélice montada al revés. El combate aéreo ocurre claramente sobre el mar, pero el minimapa solo muestra calles de ciudad. Aquí también los comentarios están llenos de mensajes contra la IA y emojis de risa."
+        },
+        {
+          "t": "p",
+          "x": "Rockstar Games ha presentado solicitudes de retirada por DMCA contra algunas de las publicaciones de IA que circulan en X. Los fans de GTA, cansados de la avalancha de videos, recibieron bien la medida. El usuario de X DustyDroid escribió: 'Bien hecho, son tan tontos como la gente que empuja esa basura de IA', y algunos especulan que es porque los videos de IA se parecen demasiado al juego real."
+        },
+        {
+          "t": "p",
+          "x": "Si el sentimiento contra la IA es tan claro, ¿por qué se siguen haciendo y por qué siguen consiguiendo vistas? Aparte de ser rápidos y fáciles de hacer, es porque estos videos llenan un apetito que solo un video de jugabilidad real podría satisfacer. Basta con mirar el subreddit de GTA 6 para encontrar publicación tras publicación quejándose de la falta de marketing. La sed de más material de GTA es real."
+        },
+        {
+          "t": "p",
+          "x": "Nadie sabe si esta ola se hará más fuerte a medida que se acerque la fecha de lanzamiento. GTA 6 podría marcar el rumbo de la industria, para bien o para mal, y este tipo de videos de IA en redes sociales podría acabar instalado como una pieza fija del ciclo de expectación previo al lanzamiento de los juegos triple A. O la reacción negativa podría acabar sacando estos videos de los feeds por completo."
+        }
+      ]
+    },
+    "games/games-modding-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace tres o cuatro años que recorro Nexus Mods todas las mañanas de los días laborales. Antes bastaba con juzgar si algo se veía complejo o distintivo, y si tenía algo desagradable. Hace unos años, el panorama cambió cuando voces de IA hechas con ElevenLabs empezaron a aparecer en mods de Skyrim. Skyrim, el juego que más se modea activamente, fue el epicentro. En una declaración de 2023, Nexus Mods dijo que el contenido generado por IA no va contra las reglas, pero 'puede eliminarse si llega un informe creíble de un titular de derechos o de un creador.'"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-02.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Una pantalla de interpretación del mod de Skyrim 'Bard Hero'. Crédito de imagen: Mern"
+        },
+        {
+          "t": "p",
+          "x": "Tres años después, la IA generativa se ha extendido más allá de las voces hacia las imágenes, y últimamente hacia LLMs que escriben los propios mods. Para quien intenta elegir mods hechos a mano, la única opción que queda es saltarse los que están en duda, pero a medida que los usos se diversifican, cuesta más identificar cuáles usaron IA."
+        },
+        {
+          "t": "p",
+          "x": "El mod de Skyrim 'Bard Hero', que descubrí hace poco, es un caso así. Es un mod ambicioso que convierte la mecánica de tocar instrumentos en un juego de ritmo al estilo Guitar Hero, y su creador, Mern, escribió en una larga descripción que recibió 'ayuda de LLMs con la programación, la depuración, la documentación, y algún momento desconcertado de las 4 de la madrugada.' Añadió que tiene un título en programación, ha trabajado en un estudio de videojuegos, diseñó el mod por su cuenta, y revisa y corrige el código mientras lo mantiene. El código fuente es público. Sin herramientas de IA, dijo, habría tardado meses, quizá más de un año, y no tenía intención de dedicar tanto tiempo."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-03.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Un mod del menú de personaje de Skyrim. Crédito de imagen: Mern"
+        },
+        {
+          "t": "p",
+          "x": "El más famoso de los mods existentes sobre los que se apoya Bard Hero es 'Skyrim's Got Talent' de JaySerpa, con 9,5 millones de descargas totales, hecho sin IA generativa. En 2023, JaySerpa expresó una postura cautelosa, diciendo que se 'siente en conflicto' con la clonación de voz. No dijo cuál es su opinión actual, pero comentó que siempre da permiso a otros modders que se lo piden, y ayudó a probar Bard Hero."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/skyrim-modding-ai-feature-04.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Un bardo tocando en una taberna. Crédito de imagen: JaySerpa"
+        },
+        {
+          "t": "p",
+          "x": "El 29 de julio, Nexus Mods dividió la que era una sola etiqueta, AI-Generated Content, en tres: AI-Generated Content, AI Media y AI Assisted. Mern también revisó su propio etiquetado. 'Como el modelo escribió la mayor parte de la implementación según mis especificaciones, AI Assisted honestamente no encaja', dijo, y mantuvo AI-Generated Content, reescribiendo la descripción para que fuera más específica."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/elder-scrolls-6-memorial-character-uesp-designed-now-made-01.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Apócrifa de Skyrim, llena de libros. Crédito de imagen: Bethesda"
+        },
+        {
+          "t": "p",
+          "x": "Según los datos de búsqueda que proporcionó Nexus Mods, de los 180.181 mods publicados durante el último año, 6.654 llevan al menos una de las nuevas etiquetas de IA generativa. 6.052 llevan solo la antigua etiqueta genérica AI-Generated Content, 258 llevan solo AI Assisted, y 685 llevan solo AI Media. Esas cifras solo cuentan los mods que están realmente etiquetados. El mod 'Halo: Campaign Evolved', cuya descripción menciona explícitamente la ayuda de OpenAI Codex, no lleva ninguna de las tres etiquetas."
+        },
+        {
+          "t": "p",
+          "x": "Para que el sistema funcione, los creadores tienen que conocer las reglas y aplicarlas correctamente, y quienes descargan tienen que entender qué significan las etiquetas y comparar la descripción con las capturas de pantalla con sus propios ojos. Para las empresas de videojuegos, un aviso de IA inexacto puede sacudir la reputación y el negocio, pero en el modding, que siempre ha sido más bien un territorio sin ley, romper las reglas suele traer como consecuencia, como mucho, una acción de un moderador sobre la cuenta. Las búsquedas de la mañana no parecen que vayan a volverse más fáciles pronto."
+        }
+      ]
     }
   }
 }

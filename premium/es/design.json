@@ -4552,6 +4552,1087 @@
           "x": "Esta perspectiva también transforma el propio proceso de diseño. Decidir qué pausas y confirmaciones conservar, en lugar de qué eliminar, es lo que devuelve al usuario el margen de decisión."
         }
       ]
+    },
+    "design/nexthena-121-i18n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexthena, una pizarra de lienzo infinito asistida por IA, lanzó la versión 1.2.1. La actualización se centra en dos ejes: soporte multilingüe y una corrección del tema del sistema."
+        },
+        {
+          "t": "p",
+          "x": "Ahora admite inglés y chino de forma predeterminada. La interfaz usa claves de traducción en lugar de textos codificados a mano, y un interruptor de idioma en el encabezado cambia la configuración regional al instante. El ajuste se guarda en el backend, por lo que se mantiene en la siguiente sesión. La pizarra de Excalidraw también sigue la configuración regional de la app, y aplica automáticamente zh-CN al elegir chino."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rj99sj81lcekbfyqkhl.png",
+          "cap": "Pantalla de cambio de idioma"
+        },
+        {
+          "t": "p",
+          "x": "La actualización también corrige un error por el que, con el tema “seguir al sistema” activado, la pizarra y el resaltado de sintaxis del código no coincidían con la configuración de modo claro u oscuro del sistema operativo. Antes, el valor del tema llegaba solo como 'system' y caía al modo claro; ahora un campo effectiveTheme se resuelve con claridad como 'dark' o 'light', y todos los componentes lo usan como referencia."
+        }
+      ]
+    },
+    "design/where-ai-belongs-games": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Luke Dicken ha estudiado la IA en la industria de los videojuegos durante más de 15 años. Dirigió un grupo central de analítica en Zynga y formó un equipo de I+D centrado en contenido procedimental y perfilado de jugadores. El trabajo llamó la atención de los directivos de Take-Two, pero el equipo fue despedido menos de un año después de expandirse."
+        },
+        {
+          "t": "p",
+          "x": "Sostiene que el entusiasmo actual por la IA generativa surge menos de una ventaja técnica que de los modelos de negocio. Como él dice, “los algoritmos deberían ser invisibles y aburridos”: la IA clásica, como la robótica o la generación procedimental, ha hecho funcionar en silencio sistemas sofisticados durante décadas. El revuelo actual, afirma, se sostiene con los enormes presupuestos de marketing de las grandes empresas."
+        },
+        {
+          "t": "p",
+          "x": "Su concepto más elaborado es la metáfora del “maestro de mazmorras”. Como un buen DM, la inteligencia del juego no debería ser una IA de combate, sino un entramado de emparejamiento, perfilado de jugadores, ritmo y diseño económico que construya una experiencia gestionada para cada jugador. Señala al Director de IA de Left 4 Dead (2008) como un ejemplo poco frecuente de esa integración."
+        },
+        {
+          "t": "p",
+          "x": "Advierte que el valor real de producción de la IA generativa es limitado. Hay mejoras incrementales en la generación de código o la asistencia documental, pero brilla solo al resolver problemas de una escala que las personas no pueden manejar. Intentar automatizar toda una canalización produce “cosas extrañas”, y a los estudios les cuesta asumir esa responsabilidad."
+        },
+        {
+          "t": "p",
+          "x": "La realidad de los costos es aún más fría. OpenAI pierde más de mil millones de dólares a la semana subsidiando las tarifas de uso, y Uber agotó su presupuesto de IA generativa de 2026 en cuatro meses. Cuando GitHub Copilot pasó de un modelo de suscripción a uno de pago por uso, las tarifas se multiplicaron de 10 a 20 veces, y en casos extremos hasta 1.000 veces. Prevé un shock de precios dentro de 18 meses."
+        },
+        {
+          "t": "p",
+          "x": "Lo que más le preocupa es la cantera de talento. Si los directivos tratan la IA generativa solo como una forma de recortar costos, desaparecen los puestos de nivel inicial, y con ellos el camino para que los más jóvenes aprendan el oficio. Resume la pregunta real en una sola: qué hace posible esto, por primera vez, que antes era imposible y beneficia a los jugadores."
+        }
+      ]
+    },
+    "design/bookdrift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy en día, crear una ilustración de un niño a partir de una foto de referencia es fácil. Crear al mismo niño, con el mismo estilo, en escenas distintas y sin variaciones a lo largo de veinticuatro láminas es otra historia."
+        },
+        {
+          "t": "p",
+          "x": "Si generas cada página por separado, cada una resulta creíble por sí sola. Pero al colocarlas en orden, entre la página 4 y la 11 el niño parece haber envejecido tres años, el largo del cabello cambia y la forma de la nariz se distorsiona. Nadie lo nota al ver una sola página, pero cualquiera lo nota al encuadernarlas en un libro. Un libro ilustrado se lee como un flujo continuo, así que los errores de consistencia se acumulan de un modo que una métrica de imagen individual no puede detectar."
+        },
+        {
+          "t": "p",
+          "x": "La identidad y el estilo son problemas distintos. Como se corrigen de forma diferente, conviene separarlos desde el principio. La consistencia de identidad es 'si se reconoce como el mismo niño', y depende del embedding de referencia y de cuán fuerte se aplique en cada generación. La consistencia de estilo es 'si todas las páginas parecen hechas por un mismo ilustrador', y abarca la textura de la acuarela, el grosor de línea, la paleta y el grano del papel. De los dos, el estilo es más fácil: se fija la contribución de semilla para el estilo, se usa el mismo fragmento de prompt de estilo y se deja el sampler sin cambios. La identidad es más difícil porque debe resistir las poses, expresiones e iluminación que cambian de escena a escena."
+        },
+        {
+          "t": "p",
+          "x": "Así es como se logra que resista. Se fija todo lo que se puede fijar: la misma versión del modelo base, el mismo sampler, el mismo número de pasos, el mismo token de estilo en todo el libro. Cada variable libre es un lugar donde puede haber deriva. Suena obvio, pero las canalizaciones que dejan que cada página fije sus propios parámetros lo infringen todo el tiempo. Se regenera el libro entero, no una sola página. Si la página 9 está mal y solo se regenera esa página, no coincidirá con las vecinas. La consistencia es una propiedad del conjunto, así que el conjunto es la unidad de trabajo, lo que implica, de forma incómoda, que una sola página mala obliga a regenerar todo. Al condicionamiento de identidad se le da más peso del que parece necesario: un fallo en el que el niño resulta irreconocible es mucho peor que uno en el que la pose queda algo rígida. La rigidez se puede perdonar; 'ese no es mi hijo' no se puede. También se acota el vocabulario de las escenas. Si los entornos varían demasiado, bajo el agua, una nave espacial, un bosque de noche, la iluminación y la paleta se ven arrastradas, y aunque la identidad se mantenga, se lee como si el estilo hubiera derivado."
+        },
+        {
+          "t": "p",
+          "x": "Se evalúa el conjunto, no la imagen. Las métricas de calidad por imagen pasan por alto el problema en sí. Lo que realmente se corresponde con 'esto parece un solo libro' no es la distancia entre la referencia y la página, sino la distancia de embedding facial entre cada par de páginas, y la varianza importa más que el promedio. Eso se combina con la distancia de paleta entre páginas, y con la revisión humana directa del par más distante, donde la deriva aparece primero."
+        },
+        {
+          "t": "p",
+          "x": "La capa de voz enfrenta un problema del mismo tipo, pero de otra manera. Para clonar la voz de un padre a partir de una muestra corta y que lea el libro en voz alta, la voz debe mantenerse consistente aunque cada capítulo se sintetice por separado. Es la misma disciplina: fijar el embedding del hablante y los parámetros de síntesis en todo el libro. El autor trata esto en StoryMine (storymine.app): se introduce una foto, y el resultado es un libro de acuarela como recuerdo con la misma cara en cada página. Dicho esto, todo esto es empírico y varía según el modelo. Los patrones de fallo se han mantenido estables, pero las soluciones cambian con cada generación de modelos, así que conviene tratar los detalles como perecederos y las categorías como duraderas."
+        }
+      ]
+    },
+    "design/handfont": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png",
+          "cap": "El pipeline draw-your-font, que extrae una fuente a partir de una foto de letra manuscrita"
+        },
+        {
+          "t": "p",
+          "x": "Escribí el alfabeto en un cuaderno de espiral, tomé una foto con poca luz, y de ahí salió un TTF instalable. Ahora mi computadora escribe con mi propia letra. Todo es de código abierto (MIT), funciona en local, y está construido en tres capas: una librería npm, una CLI y una skill de Claude Code encima. El repositorio está en github.com/danilo-znamerovszkij/draw-your-font, y la demo en el navegador en danilo-znamerovszkij.github.io/draw-your-font/."
+        },
+        {
+          "t": "p",
+          "x": "Crear una fuente personalizada siempre significaba prepararse para sufrir. Los editores de fuentes te hacen dibujar cada glifo a mano con un lápiz de tableta, y Calligraphr, que acepta fotos, cobra 8 dólares al mes por la versión completa. Las piezas en sí llevaban años siendo de código abierto: sharp para el procesamiento de imágenes, un port en JS de potrace para la vectorización, y svg2ttf para el ensamblado. Nadie las había unido en un solo paquete sin instalación. Lo más cercano, builtree/handwrite, todavía exigía instalar FontForge y potrace a nivel de todo el sistema en Python, que era la verdadera barrera."
+        },
+        {
+          "t": "p",
+          "x": "Así que el hueco que apunté fue un paquete npm puro, sin dependencias del sistema, que aun así aguantara fotos tomadas sin cuidado. Se instala con npx skills add danilo-znamerovszkij/draw-your-font, se arrastra una foto a Claude Code y se dice 'hazme mi fuente.' Claude encuentra las letras, las etiqueta con visión, construye la fuente y luego critica su propio resultado antes de que tú señales nada. La foto solo va a un modelo para el etiquetado; los datos de forma nunca salen del dispositivo. No se necesita nada más que Node 18+."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en seis pasos. El umbralizado adaptativo rescata la tinta perdida en la sombra, los componentes conectados encuentran los bloques de tinta, y la visión lee una hoja de referencia numerada para etiquetarlos, como marcar 'el blob 14 es una g minúscula.' La vectorización la hace el mismo potrace que hay dentro de FontForge e Inkscape, y la IA no dibuja ni una sola curva. En el paso de métricas, cada letra recibe una franja vertical dentro de un em cuadrado compartido, así que la g cuelga bajo la línea base y la o queda más pequeña que la O. Por último, los contornos y las métricas se ensamblan en TTF, WOFF/WOFF2 y un fragmento @font-face. Las únicas condiciones son tinta oscura y letras que no se toquen entre sí. La fuente resultante es 100% tuya, y también se puede usar comercialmente."
+        }
+      ]
+    },
+    "design/opus5daily": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic lanzó el 24 de julio su nuevo modelo de frontera, Claude Opus 5. Lo central es que ofrece una inteligencia cercana a la de frontera a mitad de precio: 5 dólares por millón de tokens de entrada y 25 dólares por millón de tokens de salida. El Fast Mode, 2.5 veces más rápido, cuesta el doble ($10/$50), y el almacenamiento en caché de prompts ahorra hasta un 90%, mientras que el procesamiento por lotes ahorra un 50%."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento está a la altura del precio. En Frontier-Bench v0.1 más que duplicó la puntuación de Opus 4.8, superando a todos los demás modelos, y en CursorBench 3.2 quedó a menos del 0.5% del máximo de Fable 5 con la mitad del costo por tarea. Un dial de esfuerzo de tres niveles, bajo, medio y alto, permite equilibrar directamente costo y rendimiento. Sin embargo, para las tareas más exigentes que se ejecutan de forma autónoma durante varios días, Anthropic sigue recomendando el Fable 5, de mayor tamaño."
+        },
+        {
+          "t": "p",
+          "x": "Lo importante para los diseñadores es que este modelo es el motor detrás de herramientas de diseño con IA como Claude Design, Cursor, Lovable y Figma Make. Un Opus 5 más barato y más potente eleva toda la pila de diseño a código, y se filtra directamente en los flujos de trabajo que se usan todos los días. Opus 5 está disponible en Claude.ai, Claude Code, Claude Cowork y la API, y es el modelo predeterminado de Claude Max y el modelo de nivel superior de Claude Pro."
+        }
+      ]
+    },
+    "design/macpaw-eney": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muchas herramientas de IA reciben a los usuarios con un cuadro de texto. Pero otras formas de interacción también merecen explorarse. Este artículo examina cómo rediseñar la experiencia del asistente de IA manteniendo la creatividad humana en el centro."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa trajo a la vez expectativas y preocupaciones a la comunidad creativa. A medida que herramientas como DALL-E o Midjourney inundaban internet, surgieron cuestiones sobre empleo y consentimiento. Entrenar sistemas con el trabajo de artistas sin permiso ha creado tensión entre el avance tecnológico y los derechos de los creadores."
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más se llena el entorno de IA sin rostro, más importa preservar lo humano. En lugar de ver la IA como un sustituto del talento humano, hay margen para mantener a las personas en el centro mientras se hacen las herramientas más cercanas y amigables."
+        },
+        {
+          "t": "p",
+          "x": "MacPaw vio la oportunidad de replantear cómo funciona un asistente de IA. Opciones como Claude o ChatGPT se apoyan en su mayoría en interfaces de texto. Son prácticas, pero impersonales. El reto era crear algo más personal sin sacrificar la facilidad de uso."
+        },
+        {
+          "t": "p",
+          "x": "Las personas se abren de forma natural a algo que se les parece, o a animales y personajes con rasgos reconocibles. De ahí surgió la dirección de diseño de añadir personalidad a la funcionalidad."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-character.jpg",
+          "cap": "El rostro mínimo de Eney, centrado en los ojos"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw creó a Eney, un asistente de IA proactivo con una interfaz basada en un personaje. Buscaba una sensación expresiva y cercana sin resultar demasiado juguetona, y necesitaba equilibrar la accesibilidad con la seriedad. El equipo de diseño limitó deliberadamente el movimiento y las expresiones, eligiendo solo emociones y gestos que transmitieran información útil. Mientras procesa una tarea, Eney se parece a un indicador de carga, de modo que no distrae la atención."
+        },
+        {
+          "t": "p",
+          "x": "Tras pasar por varias propuestas, el círculo se mantuvo como la forma más cómoda. En la práctica, esto creó un compañero digital que flota con calma, en lugar de un elemento rígido de escritorio. En particular, el rostro mínimo centrado en los ojos funciona como el vínculo emocional clave sin parecer una caricatura."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-colors.jpg",
+          "cap": "Los colores de Eney"
+        },
+        {
+          "t": "p",
+          "x": "El color también importaba. Los productos de IA suelen usar el azul, que evoca inteligencia. MacPaw eligió el rosa para destacar mientras mantenía calidez y cercanía. Fue una elección pensada para que Eney resaltara tanto en la pantalla como en la mente del usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-lettering.jpg",
+          "cap": "El lettering de Eney"
+        },
+        {
+          "t": "p",
+          "x": "El objetivo era un asistente digital cálido y confiable que apoyara el flujo de trabajo sin estorbar al usuario. El diseño de personajes le da personalidad a un proceso computacional que antes era invisible. Es fácil pasarlo por alto a simple vista, pero cada detalle, desde el estilo, la emoción y el tamaño hasta el nombre y los elementos visuales, lo decidió una persona, no una máquina."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la IA acorte parte del proceso de diseño, sus límites siguen siendo muchos. Mientras se creaba a Eney, la tecnología ayudó con las tareas, pero las decisiones y la dirección quedaron totalmente en manos de los diseñadores humanos. Los diseñadores de hoy necesitan criterio, sensibilidad artística, autenticidad y matices emocionales. Extraer algo con un prompt es fundamentalmente distinto de crearlo a mano con intención y esmero."
+        },
+        {
+          "t": "p",
+          "x": "No hay razón para evitar las nuevas herramientas. Es mejor entender su utilidad e integrarlas en el proceso creativo. Pero no son más que herramientas. La lección central es que la curiosidad desarrolla el buen criterio con el tiempo, y que en la era de la IA ese criterio no se vuelve obsoleto, sino cada vez más valioso."
+        }
+      ]
+    },
+    "design/no-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ierh1778u6wtw2u015pd.png"
+        },
+        {
+          "t": "p",
+          "x": "Era tarde en la noche. Estaba mirando un portafolio que no había tocado en cinco años. El trabajo que contenía era real, pero el sitio ya no se parecía a la persona que lo había hecho. Hace cinco años, habría tenido solo dos opciones: pagarle a un desarrollador y esperar, o dedicar semanas enteras de noches a pelear con el código yo misma. Esa noche no hice ninguna de las dos cosas. Abrí un proyecto en blanco y empecé a dirigir a la IA para que lo construyera por mí. Cuando me quedé dormida, meravish.com ya estaba reconstruido."
+        },
+        {
+          "t": "p",
+          "x": "La gente suele llamar a la IA una ayudante, una herramienta que me hace más rápida. Ese marco es demasiado pequeño y me deja en el asiento del copiloto. Así es como trabajo en realidad: yo diseño el producto y yo lo construyo. Defino la visión, el sistema de diseño, la experiencia de usuario y la voz, y luego lo lanzo tal cual. La IA no es una asistente ni un sustituto; se mueve como un equipo que yo dirijo. Es un papel completamente distinto, que mantiene el control creativo por completo en mis manos."
+        },
+        {
+          "t": "p",
+          "x": "Durante 15 años he sido la persona que decide cómo se ve y se siente un producto. Lo que cambió no fue el rol, sino la distancia entre una decisión y el producto terminado. Esa distancia se redujo de semanas a horas."
+        },
+        {
+          "t": "p",
+          "x": "Quiero ser honesta también sobre las partes que no fueron fáciles. Usé Claude para la estructura y el código, Figma para registrar las decisiones de diseño y Cloudflare para el despliegue. Nada de eso fue una línea recta y limpia. Redirigí a la IA constantemente. Descarté diseños que parecían convincentes pero no decían nada, y reescribí la misma sección principal tantas veces que me da vergüenza admitirlo, porque en un trabajo que lleva mi nombre no existe el 「con esto basta」."
+        },
+        {
+          "t": "p",
+          "x": "Esa es la parte que la gente suele dejar fuera de historias como esta. Dirigir la IA no es magia ni es soltar las manos. Es rápido, pero sigue exigiendo criterio, juicio y la disposición a decir 「no, otra vez」. La IA me dio velocidad; el estándar era enteramente mío de sostener."
+        },
+        {
+          "t": "p",
+          "x": "Cuando digo que no hubo un desarrollador en medio, no intento menospreciar a los desarrolladores. Quiero decir que la forma en que fluye el trabajo cambió de verdad. Durante la mayor parte de mi carrera, mis diseños salían de mis manos y pasaban a las de otra persona. En ese traspaso siempre se perdía algo: un espacio en blanco ignorado, una interacción aplanada, una intención visible pero imposible de imponer."
+        },
+        {
+          "t": "p",
+          "x": "Eliminar el traspaso significa que lo que imagino y lo que realmente sale al mundo por fin coinciden. Es liberador, pero también más duro, porque no hay nadie a quien culpar ni a quien entregarle el trabajo. Si un detalle está mal, es porque yo dejé que quedara así. Trabajo mejor cuando trabajo de esta manera."
+        },
+        {
+          "t": "p",
+          "x": "Aquí está la parte que no había planeado. El estudio de caso de la reconstrucción prácticamente se escribió solo, porque registré el proceso de creación en tiempo real. Capturé las decisiones en el momento, no las reconstruí después, y esa es la única forma en que un estudio de caso se siente real. Así, el portafolio se convirtió en evidencia de mi forma de trabajar, no en una galería de piezas terminadas. Un sitio sobre dirigir IA, construido dirigiendo IA. El medio y el mensaje por fin coincidieron."
+        },
+        {
+          "t": "p",
+          "x": "La barrera nunca fueron las herramientas. Ya son suficientemente buenas y mejoran cada mes. La barrera es la mentalidad: pasar de 「la IA me ayuda con mi trabajo」 a entender que, mientras yo mantenga la dirección creativa, la IA es simplemente la forma en que el trabajo se realiza."
+        },
+        {
+          "t": "p",
+          "x": "Si eres una diseñadora que abre herramientas de IA todos los días, esto está más cerca de lo que crees. El siguiente paso no es aprender a programar, sino aprender a dirigir: sostener tus estándares, dar instrucciones claras y decir 「otra vez」 hasta que el resultado coincida con lo que viste en tu cabeza. El portafolio fue una pequeña victoria. La verdadera victoria fue demostrarme a mí misma, primero, que quien diseña también puede ser quien construye."
+        }
+      ]
+    },
+    "design/octane-neural": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El modo de render neuronal de OctaneRender 2027.1 promete un renderizado en tiempo real casi sin ruido, incluso en efectos complejos de iluminación y materiales como el subsurface scattering."
+        },
+        {
+          "t": "p",
+          "x": "Otoy ha comenzado a distribuir una build alfa pública de OctaneRender 2027.1, la próxima versión principal de su renderizador de producción para GPU. Esta build experimental, ofrecida junto a la versión estable OctaneRender 2026, incluye un nuevo modo de render neuronal en tiempo real, mejoras en AI Light y exportación a USD."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+          "cap": "Comparación de AI Light 2.0 reduciendo ruido en una escena con múltiples luces"
+        },
+        {
+          "t": "p",
+          "x": "El cambio principal es un modo de render neuronal que mejora el rendimiento del render en el viewport y reduce el ruido. Se construye sobre la Neural Radiance Cache (NRC) presentada en OctaneRender 2026, que usa una red entrenada en el momento del render para reducir el ruido desde el primer píxel."
+        },
+        {
+          "t": "p",
+          "x": "Otoy explica que el render neuronal permite un renderizado en tiempo real casi sin ruido incluso con iluminación compleja, usando muchas menos muestras que el path tracing tradicional. El enfoque se basa tanto en la tecnología de reconstrucción de rayos de NVIDIA DLSS como en la investigación propia de Otoy. Entre las tecnologías de escalado se incorporan DLSS 4 y el FSR 3 de AMD, aunque como OctaneRender está basado en CUDA, el FSR 3 solo puede usarse en GPU de NVIDIA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_EDF.jpg",
+          "cap": "Demostración de los nuevos nodos EDF"
+        },
+        {
+          "t": "p",
+          "x": "AI Light, el algoritmo jerárquico que muestrea múltiples fuentes de luz, ha recibido su primera gran revisión desde OctaneRender 4.0. Ahora tiene en cuenta toda la información espacial y direccional de todas las primitivas emisivas, reduciendo el ruido con el mismo número de muestras. También se amplió el soporte para flujos de trabajo con USD y MaterialX: la geometría ya puede exportarse en formato USD, y la edición independiente incorpora un editor de USD stage. MaterialX recibe tres nuevos nodos EDF (función de distribución de emisión)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_PhysicalOpticsMaterial-960x201.jpg",
+          "cap": "Ejemplo de renderizado con el material Physical Optics"
+        },
+        {
+          "t": "p",
+          "x": "Alfa 2 añade el material Physical Optics, que representa efectos de superficie de óptica ondulatoria como la difracción, la interferencia de capa fina y la iridiscencia birrefringente. Reproduce a la vez una rugosidad aleatoria y microestructuras regulares, abarcando desde burbujas de jabón hasta metal cepillado, pegatinas holográficas y superficies de CD o DVD."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_RetroreflectiveMaterial-960x480.jpg",
+          "cap": "Ejemplo del material de microfacetas retrorreflectante"
+        },
+        {
+          "t": "p",
+          "x": "También se añadió un nuevo modelo de microfacetas retrorreflectante que simula superficies que devuelven la luz directamente hacia su origen en lugar de dispersarla, como las señales de tráfico o la ropa reflectante. A esto se suman una opción de caché de visibilidad de mapas de entorno que reduce el ruido en renders de interiores oscuros, soporte inicial para glTF 2.0 y soporte de escalado MetalFX para la edición de Octane X en macOS."
+        },
+        {
+          "t": "p",
+          "x": "Antes de la versión estable están previstas nuevas funciones de IA que se habían postergado durante mucho tiempo, como un renderizador de animación tipo boceto, el renderizado de splats gaussianos 3D y la generación integrada de materiales PBR. OctaneRender 2027.1 está disponible actualmente como alfa pública en Windows 10+, Linux y macOS 15.0+. Es solo de alquiler, y la suscripción Studio+ de Otoy cuesta €23.95 al mes o €239.88 al año, e incluye plugins para 21 aplicaciones DCC."
+        }
+      ]
+    },
+    "design/design-accuface-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Reallusion presentó AccuFace 2, un plugin de captura de movimiento por video con IA para iClone. Pensado para juegos, VFX y motion graphics, incorpora un nuevo modelo de IA afinado para el perfil de expresión CC5 HD y se mantiene más estable con luz tenue o rostros captados a distancia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260731_AccuFace2_ExpressionCurve-960x480.jpg",
+          "cap": "Sistema de curvas de expresión"
+        },
+        {
+          "t": "p",
+          "x": "La clave es el sistema de curvas de expresión. Sustituye el mapeo lineal de la primera versión por un ajuste basado en curvas, refinando cómo el movimiento facial del actor pasa a la expresión del personaje. Una sola entrada de tracking mueve varios morphs del personaje a la vez, generando de forma natural las expresiones secundarias que siguen."
+        },
+        {
+          "t": "p",
+          "x": "La calidad de la forma de la boca también mejoró. Junto con el lip-sync de AccuLips, admite hasta 128 morphs de labios. En escenas oscuras ajusta la gamma automáticamente, con especial cuidado por los tonos de piel más oscuros. Sigue procesando rostros tan pequeños como 120 x 120 píxeles en pantalla."
+        },
+        {
+          "t": "p",
+          "x": "La instalación es más simple. Ya no hace falta volver a capturar o recalibrar la pose neutra base de cada actor. La aceleración por GPU, antes solo NVIDIA, ahora llega también a AMD Radeon RX 5700 y superiores. AccuFace 2 requiere iClone 8.74 o posterior, y su precio sugerido es de $299, $200 menos que el de lanzamiento."
+        }
+      ]
+    },
+    "design/design-ai-copyright-payout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic acordó pagar 1.500 millones de dólares a un grupo de autores, y un tribunal de EE. UU. lo aprobó. Suena a una gran victoria, pero es difícil llamarlo un triunfo de los creadores frente a la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c3aEWQDN2yh4Y34UXAR7kY-2560-80.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Para empezar, este caso no decidió si la IA puede leer y aprender de libros. El año pasado, el juez William Alsup dictaminó que entrenar modelos de IA con texto protegido por derechos de autor es 'uso justo,' y esa parte sigue siendo legal."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic es castigada por otra cosa: descargó millones de libros sin comprarlos, de sitios ilegales como Library Genesis. El fallo no dice que el entrenamiento necesite permiso. Solo dice que hace falta un recibo."
+        },
+        {
+          "t": "p",
+          "x": "La cifra tampoco es tan grande como parece. 1.500 millones de dólares es mucho dinero, pero es casi suelto para una empresa valorada en 965.000 millones de dólares en mayo. Es menos del 0,2% de su valor. El acuerdo cubre unos 500.000 casos, y autores y editoriales reciben unos 3.000 dólares por cada libro distribuido ilegalmente. Según la ley estadounidense, la infracción deliberada permite hasta 150.000 dólares por obra, así que es cerca del 2% del tope teórico."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, es un cheque útil: el 91% de los aproximadamente 440.000 reclamantes elegibles ya lo cobró. Pero 'la mayor recuperación de derechos de autor de la historia' y 'un triunfo significativo para los creadores' son cosas distintas. El acuerdo no exime a Anthropic de responsabilidad futura ni de reclamos sobre lo que sus modelos realmente generan."
+        },
+        {
+          "t": "p",
+          "x": "Este fallo tampoco deja un precedente vinculante, porque resolver con un acuerdo en vez de un juicio evita llegar a una apelación. Google, Meta, Midjourney y OpenAI están librando cada uno sus propios pleitos con sus propios hechos. La semana pasada, editoriales como Hachette y Cengage presentaron una nueva demanda contra Google por los datos de entrenamiento de Gemini."
+        }
+      ]
+    },
+    "design/design-cost-aware-ai-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas de video con IA a menudo solo dicen cuánto cuesta una elección después de que la generación ya empezó. El costo nace de los mismos controles que definen el resultado, así que debe actualizarse dentro de la misma interacción."
+        },
+        {
+          "t": "p",
+          "x": "Primero, trata el costo como un valor derivado, no como una sorpresa al pagar. El flujo de Grok, por ejemplo, admite videos de 1 a 15 segundos en 480p (1,6 créditos por segundo) o 720p (3 créditos por segundo). No lo calcules solo en el servidor tras el envío; muestra el costo estimado junto al botón de generar cada vez que cambien la duración o la resolución."
+        },
+        {
+          "t": "p",
+          "x": "Segundo, define las capacidades del modelo como datos y deja que el formulario se adapte a ellas. Eso bloquea combinaciones imposibles y reduce la carga de manejo de errores. Tercero, fija los valores por defecto pensando en el primer éxito. Un render de 8 segundos en 480p cuesta 13 créditos, así que un saldo inicial de 20 créditos aún deja margen para ajustar."
+        },
+        {
+          "t": "p",
+          "x": "Cuarto, coloca una pista breve junto a la opción más cara. Una frase como 'empieza en 480p para probar el movimiento' funciona mejor que un aviso de advertencia. Quinto, trata la vista previa del cliente solo como referencia; vuelve a validar en el servidor, revisa el saldo y recién entonces descuenta los créditos. Sexto, prueba el flujo de decisión, no solo los controles: hay que revisar la estimación por defecto, el cambio de resolución, el redondeo y la recuperación del saldo tras un fallo."
+        }
+      ]
+    },
+    "design/design-tokenignite": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cambia una variable CSS en las herramientas de desarrollador del navegador y la pantalla se actualiza al instante. ¿Qué pasaría si editar una variable de Figma se reflejara igual de rápido en la app web real? De esa pregunta nació TokenIgnite, y su desarrollador construyó una prueba de concepto en 8 horas."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe9g3xz7azg8gv1csfxdg.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "El problema es el 'design drift.' El código de layout que saca la IA se desvía del diseño original, rompiendo los modos de color y descolocando los espacios. Los pipelines de tokens actuales necesitan una compilación completa solo para revisar un cambio menor, lo que vuelve lenta la retroalimentación."
+        },
+        {
+          "t": "p",
+          "x": "TokenIgnite transmite las variables de Figma a un entorno de desarrollo local o a un servidor de staging privado sin demora. Se refleja de inmediato en el navegador sin tocar el código del repositorio, y el archivo original queda intacto hasta que se exporta. El código generado por un modelo de lenguaje conectado al servidor MCP de Figma recibe las mismas propiedades."
+        },
+        {
+          "t": "video",
+          "yt": "L-oEhdSFxNU"
+        },
+        {
+          "t": "p",
+          "x": "Una vez terminado el trabajo, las variables de Figma se ordenan en propiedades CSS personalizadas y limpias. Al ser una dependencia solo de desarrollo (npm i -D tokenignite), no afecta a producción. El desarrollador pasó cuatro meses solo, encargándose de la planificación, el diseño, la ingeniería y la infraestructura, para convertir esta idea en un SaaS, con un código de unas 61.000 líneas y alrededor de 1.000 commits."
+        }
+      ]
+    },
+    "design/design-design-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Al encargarle a una herramienta de código de IA un póster de “vieja librería bajo la lluvia”, el resultado fue un icono de libro, unas gotas de lluvia y un nivel de boletín escolar. Ese fue el motivo para indagar por qué los bocetos de la IA son tan planos."
+        },
+        {
+          "t": "p",
+          "x": "El problema no es la tecnología, sino el gusto. Una herramienta como Codex puede colocar elementos en la pantalla sin ningún problema. Pero no puede explicar por qué una composición se siente “tranquila y elegante” mientras otra parece clip art. En la cabeza de un modelo genérico no hay un sistema de diseño."
+        },
+        {
+          "t": "p",
+          "x": "gc-minimal-zine-poster es una skill de código abierto para Codex que condensa todo el lenguaje visual del zine. En vez de pedir de forma vaga “hazme un póster”, invoca el propio sistema de diseño. La skill divide el estilo zine en cuatro ejes: composición con equilibrio asimétrico y amplios espacios en blanco, tipografía que mezcla manuscrita o serifas en distintos tamaños, color con una paleta contenida más un único acento, y textura que añade grano de papel y un ruido sutil."
+        },
+        {
+          "t": "p",
+          "x": "La serie de pósters que su creador original (@BTCqzy1 en X) hizo con esta skill registró 875 me gusta y unas 50.000 visualizaciones. El mismo prompt de una sola frase, pero resultados completamente distintos: en lugar de iconos previsibles, pantallas con intención, dignas de colgar en una galería."
+        },
+        {
+          "t": "p",
+          "x": "Si los bocetos de la IA siguen saliendo sin alma, la respuesta puede no ser un mejor prompt. Puede ser darle al modelo un vocabulario de diseño que nunca tuvo."
+        }
+      ]
+    },
+    "design/design-proxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*p9ZSUqRu3IsE9au13EPvLg.png",
+          "cap": "La pantalla que una máquina lee antes de llegar a una persona"
+        },
+        {
+          "t": "p",
+          "x": "Durante décadas, el público de un diseñador fue una sola persona. Todos los métodos y principios se orientaban a entender las necesidades humanas y crear experiencias en las que la gente pudiera confiar y disfrutar. Esa base no ha desaparecido, pero el entorno ha cambiado."
+        },
+        {
+          "t": "p",
+          "x": "Ahora muchas experiencias digitales encuentran otro público antes de llegar a una persona. Un modelo de lenguaje lee y cita primero un texto escrito para responder la pregunta de alguien; los desarrolladores le preguntan a un asistente de IA antes de revisar la documentación oficial. El primer punto de contacto pasa ahora por otra máquina. Este sistema ya no es solo una herramienta: se ha vuelto un participante que interviene en cómo se descubre e interpreta el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Los motores de búsqueda premiaban la posibilidad de ser descubierto; las redes sociales, la interacción. Los modelos de lenguaje premian la interpretabilidad. El problema es que, mientras los sistemas se optimizan para este intermediario, la experiencia humana queda en segundo plano. Por muy pulida que sea, una captura de pantalla oculta casi todo lo que hace funcionar a un producto. La jerarquía creada por el espaciado, la estructura de componentes, los patrones de interacción y las decisiones de accesibilidad no se ven en una imagen estática, pero determinan si el producto sobrevive."
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más abarata la IA la construcción de la capa visible, más sube el valor de la capa invisible. Los modelos de lenguaje prefieren la coherencia y la estructura explícita; las personas responden a la personalidad, la ambigüedad, la sorpresa y la emoción. Una buena experiencia satisface ambas cosas. Ajustarse a la máquina pasa a ser parte del trabajo, pero no es lo mismo que diseñar para la máquina."
+        },
+        {
+          "t": "p",
+          "x": "Generar se ha vuelto común; discernir se ha vuelto escaso. La IA no cambió para quién creamos, sino quién lee primero. No confundir ambas cosas es tarea del diseñador."
+        }
+      ]
+    },
+    "design/design-backflip-mesh-to-cad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Backflip AI reformuló de manera sustancial el modelo fundacional de Copilot. Aplica ingeniería inversa a una pieza y la devuelve como CAD paramétrico, completamente editable y con árbol de funciones. El resultado parece construido desde cero por un ingeniero experto."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/08/Backflip-AI-Fusion-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las entradas son datos de escaneo 3D y archivos de malla, incluido STL. La empresa dice que esta actualización de Mesh-to-CAD es especialmente sólida en piezas de complejidad media mecanizadas con fresado CNC de 3 ejes y tornos. El resultado pasa directamente al paquete CAD que ya usas, donde puedes seguir trabajando tal cual."
+        },
+        {
+          "t": "p",
+          "x": "Un bucle de agente superpuesto al modelo va un paso más allá. La herramienta 3D Scan to CAD reconstruye la malla, luego inspecciona su propio resultado y vuelve a ejecutarse para mejorar la fidelidad de la forma y la precisión dimensional. Hay dos modos: Fast restaura geometrías comunes en minutos, y Thinking dedica más tiempo a geometrías complejas para elevar el acabado."
+        },
+        {
+          "t": "p",
+          "x": "También se añadió Multimodal AI Search, que recorre la biblioteca de piezas con un texto o una foto para encontrar de inmediato la pieza buscada. Desde hoy está disponible como complemento de Autodesk Fusion y en la web, y los plugins para otros paquetes CAD llegarán dentro del año. El precio parte de 20 dólares al mes en los planes Builder, Pro, Business y Enterprise."
+        },
+        {
+          "t": "p",
+          "x": "'La mayoría de los modelos de frontera tienen una comprensión 3D limitada, obtenida como subproducto de entrenarse con enormes volúmenes de datos de internet. Nosotros construimos nuestro modelo tratando las operaciones de CAD 3D como primitivas de primera clase, y lo entrenamos de la forma en que los ingenieros diseñan en la práctica: descomponiendo una forma sólida y luego reconstruyéndola operación por operación, función por función.' Así lo explica el ingeniero fundador Kairo Morton."
+        },
+        {
+          "t": "p",
+          "x": "Añadió que es 'el primer modelo fundacional que produce un resultado que puedes abrir en un paquete CAD y seguir trabajando tal cual', y que 'ahora mismo, eso abre el camino del escaneo al CAD, y todo lo que construyamos de aquí en adelante se apoyará en él'."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, convertir una sola pieza física en un modelo CAD utilizable exigía horas de ingeniería inversa especializada, con un costo que normalmente superaba los 1.500 dólares por pieza. Backflip AI dice que esa cifra baja a unos 10 dólares. Con una caída de más de 100 veces, digitalizar todas las piezas del piso de fábrica, no solo algunas, empieza a tener sentido económico."
+        },
+        {
+          "t": "p",
+          "x": "'Star Trek tenía un replicador, una máquina que fabricaba cualquier cosa. Nosotros construimos lo contrario: tomamos algo que ya existe y lo devolvemos a una versión digital que se puede construir, arreglar y mejorar.' Así lo dice el CEO Greg Mark. Cuando algo se rompía en el terreno, había que empezar con ingeniería inversa para llevarlo a forma digital, 'un proceso que tomaba de horas a días y costaba unos 1.500 dólares por pieza'. 'Nuestro nuevo modelo de IA lo hace en uno a cinco minutos por unos 10 dólares.' Consideró que este cambio liberará a los ingenieros de CAD más capaces para diseños más importantes, elevará la eficiencia de las fábricas y ampliará el número de personas que pueden usar CAD."
+        }
+      ]
+    },
+    "design/design-context-files-tokens": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dejar una pantalla en manos de la IA da un resultado bueno y, a la vez, anodino. Está limpio, es usable, y se nota una mano que sabe algo. Pero falta el estado vacío, el significado se transmite con un solo color, y vuelve a aparecer un patrón que decidiste no usar hace tres semanas. No es que el agente sea perezoso. Fue fiel al brief que recibió; ese brief era simplemente mucho más delgado que el que tienes en la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que desaparece es la intención de diseño. Un agente puede escribir React todo el día, pero no sabe qué color lleva significado y cuál es decorativo. No sabe que los usuarios siguen leyendo mal un estado marcado solo por color, ni que el mes pasado dedicaste un buen rato a decidir si poner un modal justo ahí y al final lo descartaste. Así que rellena con una suposición, casi siempre lo bastante cercana como para parecer válida. Las afirmaciones generales cerradas con un tono seguro, vistas de pasada, parecen el resultado de una reflexión cuidadosa."
+        },
+        {
+          "t": "p",
+          "x": "El autor ve esto como un problema de briefing, no de prompting. El techo del resultado no lo fija lo ingeniosa que sea la petición, sino cuánto de tu propio juicio ya está en el contexto en el momento de pedirla. Es el giro de la ingeniería de prompts a la ingeniería de contexto, y la guía de Anthropic para construir agentes llega al mismo punto."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UTQAX5iMTiBM_RTdmauD5Q.png"
+        },
+        {
+          "t": "p",
+          "x": "Tratar los archivos markdown como documentación es un modo de fallo. Las personas quieren razones e historias antes de confiar en una regla. Los agentes no quieren eso. Antes de generar siquiera una línea, quieren una regla contra la cual comparar su propia salida."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo ocurre dentro de la terminal. En vez de escribir en una ventana de chat y mover el resultado a otro lugar, se construye directamente dentro del proyecto junto con un agente de código. Por eso los archivos también se colocan en una carpeta que el agente ya lee. El sistema de diseño está enlazado, de modo que la terminal lee los tokens, componentes y variables reales, no tu descripción de ellos. Leer la escala de espaciado directamente en lugar de adivinarla: esa conexión es lo que da fuerza a los archivos."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JB4oGfgjs0LjFggL.png"
+        },
+        {
+          "t": "p",
+          "x": "Son nueve archivos, agrupados en tres conjuntos según su uso. CLAUDE.md, DESIGN.md y VOICE.md se cargan en cada sesión, así que se mantienen delgados porque los tokens cuestan caro. DESIGN.md no es un inventario. Los valores hex ya se leen desde un sistema conectado, así que lo que va aquí es hasta dónde puede llegar ese valor. No 'space-4: 16px', sino algo como 'space-4 entre elementos relacionados, space-8 entre secciones, inclínate hacia lo amplio si hay duda: para este usuario, la densidad se lee como tensión'."
+        },
+        {
+          "t": "p",
+          "x": "El segundo conjunto, PRD.md, FLOWS.md y RESEARCH.md, se escribe cuando empieza una función y se archiva con el lanzamiento. Lo que realmente cumple su función en un PRD es la lista de lo fuera de alcance: 'esto no, ahora no'. FLOWS.md registra todos los estados: predeterminado, cargando, vacío, guardado, error, bloqueado, para que el estado vacío que nadie recuerda haber diseñado no desaparezca. El tercer conjunto, que solo se lee cuando se necesita, es COMPONENTS.md, DECISIONS.md y REVIEW.md. DECISIONS.md solo se añade, nunca se edita."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Mc5vMOqAUb5rnbZL2f6Rpw.png"
+        },
+        {
+          "t": "p",
+          "x": "No se usan los nueve a la vez. Se empieza con el archivo raíz y el archivo de diseño, y el resto llega en cuanto su ausencia empieza a doler. Se escribe alrededor del 60% y se deja que el agente indique el resto. Se generan tres versiones de la pantalla más compleja y no se mira si son bonitas, sino hacia dónde se desvían. Si las tres se desvían en la misma dirección, hay una restricción aún no dicha ahí. Se añade una frase y se vuelve a ejecutar. Por lo general, con dos o tres pasadas basta."
+        },
+        {
+          "t": "p",
+          "x": "Si el resultado se siente plano o algo desajustado, la respuesta no es un prompt más ingenioso ni una herramienta más nueva. Es subir un nivel, contarle al agente en qué mundo está parado, y entregarle unas pocas reglas que no se pueden inferir de un valor hex. Los estados y decisiones, las opciones descartadas y por qué, ya forman parte del trabajo habitual. Escribirlos para un agente no es distinto de escribir un traspaso para otro diseñador."
+        }
+      ]
+    },
+    "design/design-eve-agent-browser": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El agente eve navega por la web como una persona, a través de agent-browser."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1D7dKimTHvQQeeW7Xa87YH/ae57e47291e68f5acb7a0376d64c2afd/give-your-agent-a-browser-04__2_.png"
+        },
+        {
+          "t": "p",
+          "x": "La extensión @agent-browser/eve le da a cualquier agente eve un conjunto completo de herramientas de navegador: navegar páginas, leer contenido, hacer clic, rellenar formularios, tomar capturas de pantalla y revisar la actividad de consola y de red. Todo corre dentro del sandbox del agente."
+        },
+        {
+          "t": "p",
+          "x": "La instalación consiste en ejecutar pnpm add @agent-browser/eve y luego montarla en agent/extensions/browser.ts. Entre las opciones de la extensión, allowedDomains define los dominios accesibles, como [\"example.com\", \"*.example.com\"], y maxOutputChars fija el tamaño de la salida."
+        },
+        {
+          "t": "p",
+          "x": "El agente obtiene herramientas con espacio de nombres como browser__navigate, browser__snapshot, browser__click, browser__fill y browser__screenshot. Una referencia como [ref=e12] en una instantánea se convierte en el selector @e12, lo que significa que primero mira la página y luego toma y actúa exactamente sobre lo que vio."
+        },
+        {
+          "t": "p",
+          "x": "Aislamiento de sandbox — Chromium y agent-browser corren en el sandbox de eve, no en la propia app. Preinstalarlo en la plantilla del sandbox hace que las sesiones empiecen ya calientes; de lo contrario, la extensión se instala sola en el primer uso."
+        },
+        {
+          "t": "p",
+          "x": "Lista blanca de dominios — allowedDomains restringe la navegación de páginas y los subrecursos. El tamaño de la salida, el manejo de capturas, el uso de proxy y el nombre de sesión también se ajustan desde las opciones de la extensión."
+        },
+        {
+          "t": "p",
+          "x": "Protección de credenciales — los comandos que manejan cookies, almacenamiento y estado de autenticación guardado nunca se exponen al modelo. Las anulaciones de la extensión eve permiten desactivar herramientas concretas o añadir un paso de aprobación, y se pueden sumar herramientas de protección propias de cada app."
+        },
+        {
+          "t": "p",
+          "x": "Se publicaron junto con esto un ejemplo de app Next.js eve con la extensión montada y su documentación."
+        }
+      ]
+    },
+    "design/design-figma-motion-keyframes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los keyframes son una de dos formas de mover un objeto en Figma Motion. Un keyframe es un marcador que fija el valor de una propiedad de capa en un punto específico del tiempo. Si marcas un segundo keyframe en la misma propiedad con un valor distinto, Figma Motion crea la transición entre ambos."
+        },
+        {
+          "t": "video",
+          "yt": "0lnvIXzocj4"
+        },
+        {
+          "t": "p",
+          "x": "Cualquier propiedad con un ícono de diamante junto a ella puede recibir un keyframe. Eso incluye propiedades básicas como posición, tamaño y rotación, además de otras menos obvias como relleno, efectos y shaders."
+        },
+        {
+          "t": "p",
+          "x": "Para marcar uno, se hace clic en el diamante junto a la propiedad. El ícono se vuelve azul y aparece un keyframe en la línea de tiempo. El área de capas de la línea de tiempo muestra tanto el tipo de keyframe como el valor de la propiedad asociado."
+        },
+        {
+          "t": "p",
+          "x": "Crear movimiento requiere al menos dos keyframes en la misma propiedad. Para escalar un rectángulo de 0 a 100% en 1.000 milisegundos, se marca un keyframe de escala con valor 0 al inicio de la línea de tiempo, y otro con valor 100 en la marca de 1.000 milisegundos."
+        },
+        {
+          "t": "p",
+          "x": "Para cambiar un valor, se hace doble clic en el keyframe para seleccionarlo, y se ajusta desde la barra lateral derecha o el área de capas de la línea de tiempo. También se puede copiar y pegar, y al seleccionar dos keyframes en distintas pistas de capa y hacer clic derecho, se alinean verticalmente en la línea de tiempo. Para borrar uno, se selecciona y se presiona Delete."
+        },
+        {
+          "t": "p",
+          "x": "Para que el movimiento se repita durante toda la duración de la animación, se hace clic derecho en un keyframe dentro del área de capas y se elige loop track. Los keyframes existentes se duplican a lo largo de toda la línea de tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Para marcarlos más rápido, se activa auto keyframe en los controles de la línea de tiempo. Mientras está activo, cualquier cambio hecho al objeto se registra como keyframe. Basta colocar el cabezal de reproducción en el punto deseado y cambiar un valor en la barra lateral, o tocar el objeto directamente en el lienzo. Eso sí, como se registra toda propiedad modificada, no hay que olvidar desactivarlo al terminar."
+        }
+      ]
+    },
+    "design/design-flow-studio-3d-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Producir una escena que se vea bien con IA ya no es difícil. Paisajes, personajes, ángulos cinematográficos: escenas que hace poco requerían un pequeño equipo ahora salen en segundos. El problema viene después. En el momento en que se intenta unir esos clips para que formen algo coherente, la brecha entre lo corto y simple y lo largo y significativo queda expuesta."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Autodesk al ampliar Autodesk Flow Studio no fue 'usar más IA'. El nuevo flujo de trabajo 3D Editor + Canvas coloca primero la cámara, los personajes, la animación, los entornos y los datos de captura de movimiento con IA en un espacio de trabajo 3D adecuado. A la IA solo le queda generar y pulir los visuales finales. La empresa ahora llama a Flow Studio una 'plataforma creativa nativa de IA', no solo otra herramienta generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/M9P3q5ugS47buP6Kwia5sR-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "'El cine siempre se ha dirigido dentro del 3D. Pero la mayor parte del trabajo de video con IA generativa ha intentado controlarlo mediante entradas en 2D.' Así lo dice Nikola Todorovic, cofundador de Wonder Dynamics, filial de Autodesk. Un director fija el bloqueo del actor, su mirada y el ritmo de la actuación, coloca la cámara y ajusta el encuadre y el tiempo; todo, dice, son decisiones tomadas en un espacio tridimensional."
+        },
+        {
+          "t": "p",
+          "x": "Se bloquea la escena en el 3D Editor, se fija la actuación, el tiempo, el ritmo y el movimiento de cámara, y luego se pasa a Canvas para construir el aspecto final en 2D. Canvas es un editor familiar basado en nodos. La dirección y el renderizado se separan en este punto: basta quedarse en 2D si se necesita velocidad, y entrar en 3D solo cuando hay que controlar con precisión la composición y la cámara."
+        },
+        {
+          "t": "video",
+          "yt": "dv92ImhAEIQ"
+        },
+        {
+          "t": "p",
+          "x": "La demostración no fue un desfile de prompts. Todorovic extrajo una actuación de un video de una persona caminando, la convirtió en animación y la aplicó a un robot construido en Wonder 3D. También extrajo el movimiento de cámara del clip original. Lo que queda no es un solo bloque de video con IA, sino actuación, movimientos de cámara y un personaje que se pueden reutilizar por separado. En sus palabras, era 'un robot algo triste que camina hacia el vacío y cuestiona su propia existencia'."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W3jKG6SKcXGGnDS6Fwk82S-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Ese robot se colocó en una ciudad construida por World Labs Marble. La ciudad se volvió un paisaje de ciencia ficción, y luego un callejón trasero. La animación y la cámara se mantuvieron iguales; solo cambió el mundo alrededor del personaje. La demostración también invirtió el orden habitual: caminar por un garaje generado hasta encontrar un ángulo que gustara, armar primero el plano y añadir al personaje después, algo no muy distinto de trabajar en Maya o Blender."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/oGgRJ2n2zTQkBLtvsmGhsR-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "'No creo que las habilidades 3D se vuelvan obligatorias. Pero su valor aumenta.' Así lo dice Todorovic. Cuanto más entienda alguien ya el bloqueo de cámara, la puesta en escena, la composición y la animación, más saca de esto. Con solo 2D, añadió, 'se llega rápido al 80% del plano, pero el control del último 20%, sobre todo en revisiones repetidas, se desmorona'."
+        },
+        {
+          "t": "p",
+          "x": "Lo que Autodesk apuesta no es por una mejor generación, sino por un mejor control. Una integración más profunda con Maya, una importación de assets más amplia, composición de escenas asistida por IA y flujos de dirección basados en agentes figuran en la hoja de ruta. Eso no significa que los prompts desaparezcan. Significa que el lugar donde se toman las decisiones se traslada del cuadro de prompt al espacio 3D."
+        }
+      ]
+    },
+    "design/design-agent-evidence-approval": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando un agente se ofrece a hacer algo en tu nombre, es habitual que la pantalla muestre solo un botón de aprobación. El autor propone invertir ese orden: en lugar de mostrar un resumen y pedir la aprobación, desplegar primero la evidencia y colocar el veredicto y la ejecución después."
+        },
+        {
+          "t": "p",
+          "x": "La aprobación con intervención humana requiere definir tres cosas de antemano. Quién es responsable de la decisión: una persona o un rol, no un equipo. La gravedad del resultado: si se puede revertir en segundos, si requiere esfuerzo revertirlo, o si no se puede revertir en absoluto. Y por último, el punto de no retorno: el último momento en que se puede detener sin costo."
+        },
+        {
+          "t": "p",
+          "x": "La 'tarjeta de revisión con evidencia primero' que propone el texto se divide en cuatro secciones. Arriba: la acción solicitada y su nivel de gravedad. Luego, una sección de evidencia que enumera cada verificación realizada con una marca de aprobado, mientras que las verificaciones que fallaron o nunca se ejecutaron ocupan su propia fila con el mismo estatus. El punto clave es que la evidencia faltante queda como una fila explícita, no como una omisión."
+        },
+        {
+          "t": "p",
+          "x": "El veredicto del agente está plegado por defecto, un recurso para evitar el anclaje que se produce al leerlo primero y dejarse arrastrar por él. Los botones de abajo tampoco se dividen en un simple sí o no: ejecutar, ejecutar primero la prueba de reversión, o rechazar. En el medio hay una ruta de recuperación."
+        },
+        {
+          "t": "p",
+          "x": "También se organiza en una tabla qué bloquea la aprobación. El botón de aprobación se bloquea si una acción irreversible nunca ha pasado por su ruta de reversión, si la verificación se ejecutó con datos obsoletos o que no son de producción, o si la confianza del agente cae por debajo del umbral que él mismo declaró. Si la cobertura de evidencia no llega al 100%, eso solo genera una advertencia, pero el usuario debe escribir una razón para continuar. La información complementaria añadida sin una verificación asociada se muestra, pero no bloquea nada."
+        },
+        {
+          "t": "p",
+          "x": "En la implementación, el papel del modelo termina en el borrador. Un LLM lee los registros de llamadas a herramientas y escribe el resumen de evidencia, pero el código determinista vuelve a verificar el juicio de si se bloquea o se desbloquea el botón de aprobación. El modelo es quien redacta, no la fuente de la verdad."
+        },
+        {
+          "t": "p",
+          "x": "También se adjunta un método de validación: mostrar tres pantallas a entre seis y ocho personas que realmente toman estas decisiones. La pantalla actual, con un resumen de una línea y solo un botón de aprobación; la tarjeta de evidencia primero, que expone una prueba de reversión faltante; y una tarjeta con tres fragmentos de contexto irrelevante mezclados. Se mide cuánto mejora la tasa de detectar una verificación faltante, y cómo es la calidad de la razón dada cuando, aun así, alguien decide seguir adelante."
+        },
+        {
+          "t": "p",
+          "x": "También se fijan los requisitos de accesibilidad. El estado no debe depender solo de glifos como marcas de verificación y equis: hay que añadir también etiquetas de texto para que los lectores de pantalla puedan leerlas. Un veredicto plegado debe poder abrirse con el teclado, y hay que anunciar que se puede expandir. Un botón de aprobación deshabilitado debe comunicar el motivo mediante aria-describedby. Cuando se activa una parada forzosa, el foco debe moverse hacia la explicación, no hacia un aviso emergente que desaparece."
+        }
+      ]
+    },
+    "design/design-chat-wrong-interface": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si el chat con la IA te frustra, no es porque la IA sea insuficiente. El diagnóstico del autor va en sentido contrario: una capacidad bastante sofisticada está atrapada dentro de un formato anticuado."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El autor pone como ejemplo una conversación de una hora mientras paseaba al perro. El LLM siguió sin perder el hilo una charla que iba y venía entre diseño, ingeniería, psicología y física. Notó conexiones entre ideas que habían quedado separadas, volvió a hipótesis planteadas antes, contraargumentó cuando se le pidió, y organizó en su lugar pensamientos que aún no habían tomado forma."
+        },
+        {
+          "t": "p",
+          "x": "El problema viene después. Cuanto más se alarga la conversación, más se acorta la barra de desplazamiento. Una buena idea termina enterrada 'en algún punto entre diez llamadas a herramientas, tres resultados, y cien elogios sobre lo interesante de mi pregunta y lo valiosa que es mi idea'."
+        },
+        {
+          "t": "p",
+          "x": "El autor, una diseñadora con formación en lingüística, psicología y teoría de la comunicación, no ve esto solo como un problema de usabilidad. Por qué el lenguaje todavía ocupa el lugar de interfaz por defecto, y qué oculta esa elección, es el problema de diseño de la comunicación que se esconde una capa más abajo."
+        },
+        {
+          "t": "p",
+          "x": "El argumento del texto es claro: la caja de chat es el valor por defecto perezoso que los productos de IA adoptan sin pensarlo. Lo que los diseñadores necesitan son patrones de interfaz que muestren las capacidades del modelo en lugar de esconderlas detrás de un campo de texto."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original se publicó en UX Collective. La segunda parte solo está disponible para suscriptores de pago de Medium, así que lo recogido aquí se limita a lo que se puede confirmar en la sección inicial, de acceso público."
+        }
+      ]
+    },
+    "design/design-code-connect-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Al traducir un diseño a código, el agente no conoce los componentes reales que usa nuestro equipo. Así que reconstruye todo desde primitivas. La pantalla se ve más o menos bien, pero no coincide con el código base, y el tiempo y los tokens se filtran mientras busca, adivina, depura y vuelve a escribir."
+        },
+        {
+          "t": "p",
+          "x": "Si se conecta Code Connect al servidor MCP de Figma, la historia cambia. Los componentes de Figma quedan vinculados a los componentes reales del código base, de modo que la respuesta del MCP incluye fragmentos de código de producción en lugar de una aproximación en React del diseño. Qué importar y qué valores de propiedades pasar llegan escritos exactamente así."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Coinbase Design Systems lo comprobó primero. El ingeniero de frontend Erich Kuerschner ejecutó el mismo diseño, el mismo prompt y el mismo modelo con Code Connect activado y desactivado. 'Sin Code Connect, el agente a veces inventaba sus propios componentes, por ejemplo convertía un stepper en una barra de progreso.' Con Code Connect activado, dice, el agente recibe directamente declaraciones de import que apuntan a los componentes correctos de CDS, lo que mejoró mucho la calidad del código y además ahorró tokens."
+        },
+        {
+          "t": "p",
+          "x": "Figma construyó un arnés de evaluación que ejecuta la misma tarea de diseño a código una vez sin Code Connect y otra con la plantilla conectada. Había 27 casos de prueba, y se midió la calidad del código, el uso de tokens y el tiempo empleado. Se usaron dos sistemas de diseño basados en React. En el Simple Design System, pensado como ejemplo, el 20% de las respuestas eran fragmentos de Code Connect; en el Figma Pattern Library interno, la cobertura era escasa, de alrededor del 6%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png"
+        },
+        {
+          "t": "p",
+          "x": "Un juez LLM evaluó cinco criterios —precisión, calidad del código, mantenibilidad, integridad y buenas prácticas— en una escala Likert de 1 a 4, de 'roto' a 'excelente'. Las rondas repetidas varias veces por variante para filtrar valores atípicos tardaron más de 24 horas en completarse. Los modelos usados fueron Claude Sonnet 4.5 y Claude Opus 4.7 juntos."
+        },
+        {
+          "t": "p",
+          "x": "Tomando todas las ejecuciones del agente que usaron get_design_context, las medianas fueron estas: la calidad del código subió un punto completo, de 2 a 3; el uso de tokens bajó 29,5%; y el tiempo empleado bajó 19,6%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/759b9b5b387a1bcf07985fff39faec17aac5102a-2050x1153.png"
+        },
+        {
+          "t": "p",
+          "x": "Al final, lo que marcó la diferencia en los números fue la cobertura: cuánto del diseño entregado estaba cubierto por componentes del sistema de diseño, y cuántos de esos estaban conectados mediante Code Connect. Cuanto más altas eran ambas cifras, mayor era el peso de los fragmentos frente al React genérico en las respuestas, y mejores los resultados."
+        },
+        {
+          "t": "p",
+          "x": "Con mayor cobertura, el agente hacía menos llamadas a herramientas de exploración. En el caso de FPL, las ejecuciones sin Code Connect rebuscaban en node_modules y hacían grep amplio de nombres de iconos. En algunas, el agente construía a mano una barra de pestañas y luchaba con CSS personalizado. Una vez conectado, el agente fue directo a los componentes reales Tabs y Button, y terminó usando 77% del tiempo y 62% de los tokens."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/396116262667f31a91d215cb60dc1b4981e94553-3264x1836.png"
+        },
+        {
+          "t": "p",
+          "x": "Las pestañas y botones construidos sin Code Connect se veían parecidos pero no funcionaban. Las pestañas no respondían al hacer clic, y hasta el estado seleccionado estaba codificado de forma fija. Los iconos y el padding también estaban ligeramente desalineados."
+        },
+        {
+          "t": "p",
+          "x": "Un agente no sabe por sí solo qué cuenta como buen código en nuestra empresa. Si se le deja solo, o gasta tokens buscando el componente correcto, o reconstruye todo desde cero con total tranquilidad. Puede verse bien a simple vista, pero no es código que uno quiera comitear. Lo que se necesita es un fragmento de código real que muestre cómo se implementa ese componente en el código base."
+        }
+      ]
+    },
+    "design/design-material-creator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BiteTheBytes, creador de World Creator, anunció que está preparando una nueva aplicación llamada Material Creator. La propia empresa la describe como una 'alternativa real' a Adobe Substance 3D Designer. El software, previsto para este mismo mes, crea materiales para juegos y VFX mediante un flujo de trabajo basado en nodos, y también puede importar grafos de Substance."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_MaterialCreator_NewAlternativeToSubstance3DDesigner_main-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Material Creator es una de varias herramientas nuevas que BiteTheBytes ha lanzado junto a su producto insignia, el software de generación de mundos World Creator. Cubify, lanzado antes, es un editor para crear modelos de vóxeles basados en bloques para videojuegos, mientras que byteInstaller genera ejecutables de instalación para aplicaciones de Windows. La que debería interesar a los lectores de CG Channel es la última: una herramienta de creación de materiales basada en nodos pensada para juegos, motion graphics y VFX. El desarrollo lleva más de un año, y el diseñador de videojuegos independiente y desarrollador de herramientas Steven Koch se unió al equipo para construirla."
+        },
+        {
+          "t": "p",
+          "x": "Una vez lanzada, competirá directamente con herramientas comerciales de creación de materiales como Substance 3D Designer e InstaMAT, además del Material Maker de código abierto. Todas comparten el mismo enfoque: crear materiales de juegos y VFX de forma procedimental mediante un flujo de nodos no destructivo. BiteTheBytes se describe como una 'alternativa real' a Substance 3D Designer e InstaMAT, y afirma que aporta 'las funciones que ya conoces, pero hace varias cosas notablemente mejor'."
+        },
+        {
+          "t": "p",
+          "x": "Las vistas previas publicadas en el Discord de Material Maker muestran una de las áreas donde busca mejorar: el grafo. Un grafo más simple, más modular y más fácil de gestionar. El sistema Function Node envuelve un grupo de nodos en un solo nodo, permitiendo elegir qué parámetros exponer. Koch lo comparó con las Material Functions de Unreal Engine: es decir, se crean activos reutilizables para añadir a una biblioteca de materiales o compartir con el equipo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_MaterialCreator_NewAlternativeToSubstance3DDesigner_Nodes-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "'The Cleaner' ordena automáticamente el grafo de nodos de una zona seleccionada, simplificando las conexiones. Los tipos de material de uso frecuente, como el follaje, vienen preconstruidos como 'Smart Nodes', con los controles principales y las entradas de máscara ya configurados."
+        },
+        {
+          "t": "p",
+          "x": "La lista completa de funciones aún no se ha publicado. Según detalles que se han filtrado en el servidor de Discord, incluirá un sistema Image to PBR, que parece corresponder a la función Image to Material de las herramientas de Substance. También admite flujos de trabajo relativamente nuevos como el hex tiling. Se pueden importar grafos de Substance 3D Designer para reutilizar activos existentes, aunque el resultado puede no ser completamente idéntico. Las texturas se exportan a un mínimo de 8K (8.192 x 8.192px), como en otras herramientas comerciales."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento está previsto para agosto de 2026. Los requisitos del sistema y el precio exacto aún no se conocen. En Discord, la empresa dijo que ofrecerá tanto licencias perpetuas como suscripciones, y que buscará ser 'más barata que Substance 3D Designer'."
+        }
+      ]
+    },
+    "design/design-v0-api": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel ha publicado oficialmente una nueva v0 API, una forma de acceder sin interfaz al agente constructor de apps de v0. Se le envía un prompt, y v0 construye una app, levanta un servidor de desarrollo dentro de Vercel Sandbox, y devuelve una URL de vista previa que se puede insertar directamente en tu propia interfaz."
+        },
+        {
+          "t": "p",
+          "x": "Un solo chat se convierte en el espacio de trabajo de una sola app. Dentro de él, v0 lee, edita y ejecuta archivos. Los mensajes siguientes continúan desde el estado actual. Como v0 verifica el código que corre en el sandbox, también detecta y corrige errores en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de uso es simple. Instala el SDK de v0, crea un chat, envía un prompt, sigue el trabajo en streaming y abre la vista previa. Cuando esté lista, se despliega en Vercel con una sola llamada a la API. v0 maneja todo el pipeline: sandbox, servidor de desarrollo y vista previa."
+        },
+        {
+          "t": "p",
+          "x": "Vercel señala tres casos de uso. Un constructor de apps de marca blanca, donde el usuario describe una app y recibe una a cambio. Automatización desde scripts, trabajos de CI o webhooks que llaman a v0 para construir o corregir una app. Y herramientas de construcción para agentes: un agente que entrega una app funcionando en lugar de un fragmento de código."
+        },
+        {
+          "t": "p",
+          "x": "La API también responde a cómo llenar la pantalla durante el tiempo entre una solicitud y la vista previa. Cada mensaje llega como partes ordenadas: texto, razonamiento, lecturas y ediciones de archivos, búsquedas, comandos bash, llamadas a herramientas, acciones del agente. El mismo objeto puede alimentar un indicador de estado de una línea, una lista de archivos modificados o una vista de seguimiento completa. El uso viene adjunto tanto al chat como a la respuesta del mensaje."
+        },
+        {
+          "t": "p",
+          "x": "Se elige entre tres modos de respuesta: síncrono, asíncrono y en streaming. Úsese síncrono cuando se necesite una respuesta completa, asíncrono cuando el trabajo se vaya a encolar y recoger por webhook o polling, y streaming cuando se quiera mostrar el trabajo mientras ocurre. También se puede iniciar un chat desde un repositorio, un ZIP o un conjunto de archivos."
+        },
+        {
+          "t": "p",
+          "x": "La vista previa de cada chat recibe un token de corta duración. Se obtiene el token en una ruta del servidor y se pasan las solicitudes del navegador a través de ese proxy, de modo que la clave de la API de v0 nunca llega al navegador. Mientras el sandbox se está levantando, el tráfico se dirige a una ruta de carga, y una vez listo se entrega a la vista previa."
+        },
+        {
+          "t": "p",
+          "x": "También se pueden conectar sistemas de diseño. Design Systems 2.0 guarda un sistema de diseño como una skill; al incluirla en una solicitud, trae consigo componentes, tokens, configuración y una app de partida. Se permiten hasta tres skills por solicitud. También se pueden habilitar solo servidores MCP específicos por cada chat."
+        },
+        {
+          "t": "p",
+          "x": "Si estás construyendo un agente, puedes entregarle v0 mismo como herramienta. Hay tres formas de conectarlo: vincular un servidor MCP a un IDE, un asistente de escritorio o un runtime de agentes; para un agente en TypeScript, exponer las operaciones de la API de v0 como herramientas mediante @v0-sdk/ai-tools para el AI SDK; o para un agente eve, adjuntar un archivo de conexión OpenAPI."
+        },
+        {
+          "t": "p",
+          "x": "Los chats de la versión anterior de la API de v0 no funcionan en la nueva API. Hay que elegir la versión que se quiera conservar, descargarla como ZIP y crear un nuevo chat a partir de ese ZIP. Las nuevas solicitudes se envían a https://api.v0.dev/v2. Un chat guarda el estado actual de la app; sus mensajes guardan el historial."
+        }
+      ]
+    },
+    "design/design-armature-auto-rig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "FabricatorStudio, dirigido por el artista de videojuegos Adrian Melian, lanzó Armature. Es una herramienta independiente de rigging y skinning de personajes asistida por IA, pensada para trabajos de videojuegos, animación y VFX. Importa modelos de personajes y criaturas en formatos 3D estándar, genera rigs y pesos de piel, y exporta archivos USD utilizables en Maya, Unreal Engine o Blender. Los usuarios de Maya también pueden optar por generar un control rig. El núcleo de Armature es gratis para artistas independientes, y el conjunto de herramientas de pipeline es gratis para artistas y estudios con ingresos anuales inferiores a 2 millones de dólares."
+        },
+        {
+          "t": "video",
+          "yt": "Zl2CS10_DRg"
+        },
+        {
+          "t": "p",
+          "x": "Ya existen varios conjuntos de herramientas de auto-rigging consolidados, sobre todo en el lado de Maya. Aun así, el historial de Melian en el desarrollo de herramientas es sólido. Como artista técnico líder en Sledgehammer Games, creadora de la serie Call of Duty, construyó herramientas de rigging internas, y también pasó por Ubisoft y Meta. “Durante toda mi carrera construí este tipo de herramientas para grandes estudios. Cuando me senté a hacer un juego independiente, me di cuenta de que mi caja de herramientas personal estaba vacía, así que reconstruí todo desde cero.”"
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo es simple. Se importa un modelo en USD, OBJ, FBX o glTF/GLB, se ajusta la orientación, y Armature encaja el esqueleto y genera los pesos de piel automáticamente. Hay plantillas de rig listas para bípedos, cuadrúpedos y props, y ensamblando piezas modulares se puede incluso hacer el rig de criaturas como un calamar."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos motores de skinning, y ambos corren en el ordenador del usuario. Uno es el geodesic voxel binding, la misma tecnología usada en la herramienta de skinning Smooth de Maya, y funciona en cualquier sistema. El otro es un motor de IA que requiere una GPU de NVIDIA. Una vez que un personaje tiene rig y skinning, se puede exportar como USD y usar en cualquier programa que lea datos UsdSkel. Maya y Unreal Engine son los objetivos principales, pero Blender y Houdini también pueden importarlo."
+        },
+        {
+          "t": "p",
+          "x": "Melian llama a Armature una “herramienta de rigging humano + IA”. La idea es que la salida bruta de la IA “es suficiente para aficionados”, y el ajuste manual puede llevarla hasta “el nivel que necesitan los profesionales”. Las herramientas de corrección manual se pueden usar sin un orden fijo, y si se vuelve a importar un modelo original modificado, el skinning ya creado se mantiene intacto."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios de Maya pueden crear un control rig para animar directamente, en vez de retargetizar animación existente o datos de mocap. Para esto se necesita el conjunto de herramientas de Maya aparte de FabricatorStudio, que lee las claves personalizadas creadas por Armature para construir el control rig. Es un “pipeline de personajes completo de Maya a Unreal” que incluye, entre otras funciones, una biblioteca de poses y animación. Melian también está construyendo un generador de control rig para Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "Armature solo es compatible con Windows 10 o superior, y la versión actual es 2.1.3. El motor de skinning por IA requiere una GPU de NVIDIA; todo lo demás es independiente del hardware. Es gratis para uso personal, y los artistas independientes con ingresos anuales inferiores a 100.000 dólares pueden usarlo también para trabajo comercial, sin costo. Una licencia perpetua cuesta 149 dólares. El conjunto de herramientas de Maya es compatible con Maya 2022 y versiones posteriores."
+        }
+      ]
+    },
+    "design/design-claude-screen-states": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
+          "cap": "Los estados que faltan en las pantallas de Claude"
+        },
+        {
+          "t": "p",
+          "x": "Si le pides que haga una pantalla, lo que sale es esa pantalla en su mejor día. El contenido está completo, sin carga ni fallos. Los permisos ya están concedidos y la red funciona bien. No es el producto de un martes por la tarde, sino el producto de un caso de estudio. A menudo se dice que es una limitación del modelo, pero yo creo que es un problema más concreto."
+        },
+        {
+          "t": "p",
+          "x": "Casi todas las imágenes de interfaz disponibles públicamente son imágenes de marketing. Las páginas de inicio, los casos de estudio y las pantallas expuestas en galerías están todas seleccionadas y completas. Casi nadie publica un estado vacío y nadie pone una pantalla de error en su portafolio. Por eso, al pedir una “pantalla de reserva”, aparece la versión que ya se ha visto miles de veces, la versión en la que todo sale bien. No está fallando; está devolviendo lo que aprendió. Lo que falta no es la capacidad del modelo, sino las fotos que el mundo decidió tomar."
+        },
+        {
+          "t": "p",
+          "x": "Tomemos un producto de reservas. 68 funciones, 44 en el MVP, 7 flujos, 28 pantallas clave. Veintiocho suena a un proyecto pequeño. El número real de mesas de trabajo se multiplicó varias veces, porque una pantalla no está terminada hasta que tiene sus estados. Carga, vacío, error, permisos, sin conexión: todo lo que ese producto puede hacerle realmente al usuario. Ahí es donde se desmorona el presupuesto."
+        },
+        {
+          "t": "p",
+          "x": "Un estado vacío no es una pantalla con el contenido borrado. Es una respuesta a la situación de que esta persona todavía no tiene nada delante. ¿Es nuevo? ¿Los filtros eliminaron todo? ¿Algo falló? Tres situaciones, tres mensajes, tres acciones, y de ellas solo una es “añade tu primer elemento”. Un estado de error tampoco es una caja roja; es decidir si hay recuperación, si se pierde lo que se escribió y si fue culpa del usuario. El modelo puede representar cualquiera de estas opciones de forma convincente. Pero cuál situación aplica ahora no está en el encargo, así que no puede elegir, y no pregunta."
+        },
+        {
+          "t": "p",
+          "x": "Por eso los estados se nombran antes de generar, no después. Al armar la lista de pantallas, mientras aún se recuerda por qué existe esa pantalla, se anotan junto a ella los estados necesarios. Si se añaden más tarde, se convierten en variantes visuales de la pantalla terminada y heredan su diseño tal cual. Lo que queda entonces es un estado vacío con una barra de filtros que no filtra nada y un encabezado de tabla sin filas. Tiene forma de estado vacío, pero no tiene sentido como producto."
+        },
+        {
+          "t": "p",
+          "x": "Lo mismo pasa con los componentes. Los campos de texto tienen enfoque, lleno, deshabilitado, error y solo lectura; los botones tienen presionado, deshabilitado y cargando. El estado intermedio de una casilla aparece en cuanto alguien crea una selección masiva. Si la biblioteca solo guarda lo que apareció por casualidad, los estados que faltan los termina construyendo, más tarde y con prisa, el desarrollador que se los encuentre, de forma distinta en tres lugares distintos. Así que la regla es esta: no es necesario crear todos los arquetipos de componentes, pero el que se cree debe tener la matriz completa de estados, aunque ninguna pantalla lo exija todavía."
+        },
+        {
+          "t": "p",
+          "x": "Los estados son justo donde el producto se encuentra realmente con el usuario: el día en que los resultados de búsqueda salieron vacíos, el día en que falló un pago, el día en que se abrió la aplicación en un tren. Una pantalla pulida es una pantalla para mostrar; un estado es una pantalla para usar."
+        },
+        {
+          "t": "p",
+          "x": "También se puede exagerar. Llegué a construir todos los estados de una pantalla que al final se eliminó del producto. Fue trabajo desperdiciado, y hace que la lista de estados parezca un trámite formal a quien la ve. No hay una regla clara de hasta dónde llegar. El comportamiento sin conexión es decisivo para una herramienta de campo y casi irrelevante para un panel interno. La única manera de distinguirlos es pensar bien quién lo usa y dónde."
+        }
+      ]
+    },
+    "design/design-designesy-40-checks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.designesy.org/blog/scoring-30-sites/opengraph-image",
+          "cap": "Resultado de calificar 30 sitios con 40 pruebas"
+        },
+        {
+          "t": "p",
+          "x": "Designesy calificó los 30 sitios que aparecen en su propia clasificación. El conjunto abarcaba sistemas de diseño, SaaS, hardware y galerías de inspiración. Ejecuta 40 pruebas deterministas sobre una URL, que cubren tokens, movimiento, accesibilidad, interacción, rendimiento, capacidad de respuesta, semántica, seguridad y redacción. No usa LLM ni heurísticas: cada prueba se reproduce exactamente igual."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados fueron peores de lo esperado. Las puntuaciones fueron de 37.9 a 100, con un promedio de 62.2 y una mediana de 62.4. Un sitio (3%) obtuvo A, ninguno obtuvo B, seis (20%) obtuvieron C, once (37%) obtuvieron D y doce (40%) obtuvieron F. El 60% recibió D o F, y nadie recibió B. Así de grande es la brecha entre verse bien y aprobar un contrato de diseño determinista."
+        },
+        {
+          "t": "p",
+          "x": "En 30 sitios y 40 pruebas, 1.110 verificaciones en total, 411 pasaron (37.0%) y 506 (45.6%) resultaron en advertencia, más que las que pasaron. Hubo 118 fallos (10.6%) y 75 omisiones (6.8%). Una advertencia significa que algo solo está a medias: existe un archivo de tokens pero usa hexadecimales sueltos, o existe reduced-motion pero sin niveles diferenciados."
+        },
+        {
+          "t": "p",
+          "x": "El peor rubro fue el de tokens, con un promedio de 40.8, y 11 de los 30 sitios por debajo de 50. Fueron comunes los colores en hexadecimal suelto, la falta de declaración $schema, los espaciados con números mágicos y la ausencia de tokens de superficie para el modo oscuro. La especificación W3C DTCG 2025.10 se estabilizó en octubre de 2025, y el 84% de los equipos dice usar tokens de diseño, pero la mayoría los usa de forma laxa, sin ajustarse al estándar."
+        },
+        {
+          "t": "p",
+          "x": "El segundo peor rubro fue el movimiento, con un promedio de 52.5, también con 11 sitios por debajo de 50. prefers-reduced-motion falta por completo o se usa solo como un interruptor que apaga toda la animación. El enfoque de Apple HIG —nivel 1 eliminar, nivel 2 reducir, nivel 3 mantener— solo lo aplicó correctamente un sitio de la muestra. La interacción promedió 60.0, con 12 sitios por debajo de 50, y el patrón más común fue quitar el contorno de :focus sin sustituto."
+        },
+        {
+          "t": "p",
+          "x": "Los cinco mejores fueron Designesy (100, A, autoevaluado), Apple (77.7), GitHub Primer (77.6, 518 tokens), zeroheight (73.8) y Vercel (73.6). Entre los cinco peores estuvieron Adobe Spectrum (49.4), Vercel Geist (50.3), Pentagram (41.1), FWA (41.1) y CSS Design Awards (37.9). Sitios que premian el buen diseño reprobaron el propio contrato de diseño."
+        },
+        {
+          "t": "p",
+          "x": "El dato más interesante es que el sitio de marketing de Vercel (73.6, C) obtiene 23 puntos más que su propio sistema de diseño, geist.dev (50.3, F). El equipo de marketing optimiza el acabado visual y el equipo del sistema de diseño optimiza la estabilidad de la API, y este contrato premia al primero."
+        },
+        {
+          "t": "p",
+          "x": "Entre una C y una A, una brecha de 22 puntos, ningún sitio cayó en B. Es porque el camino de tokens informales a tokens conformes con DTCG es un precipicio, no una pendiente. El motor de calificación es determinista, público y gratuito. Ejecutar npx designesy-score@latest califica cualquier URL en cinco segundos."
+        }
+      ]
+    },
+    "design/design-electronauts-vr-ui": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La serie Inside XR Design analiza una pieza destacada de diseño XR a la vez. En esta entrega se examina qué puede enseñarnos el juego Electronauts sobre un diseño de interfaz de VR inteligente. Nota del editor: Electronauts cumplió esta semana su octavo aniversario, y fue el tema de la primera entrega de Inside XR Design. Todavía hay mucho que aprender de él hoy, así que volvemos a traer este episodio al frente."
+        },
+        {
+          "t": "video",
+          "yt": "HS5W0lbLGcc"
+        },
+        {
+          "t": "p",
+          "x": "Electronauts es un juego musical hecho por Survivors. Está diseñado para hacerte sentir como un DJ competente incluso sin talento musical, y funciona en todos los visores de VR principales. Es fácil suponer que esta interfaz no sirve fuera de la música, pero es justo lo contrario. Está bien diseñada desde su base, por razones que no tienen nada que ver con la música ni los juegos de ritmo. Hay tres pilares: facilidad de uso, jerarquía y flexibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Como es un juego sobre manejar instrumentos como la batería, darle baquetas a los jugadores es una elección natural. Lo verdaderamente inteligente es usar también esas baquetas como herramienta para operar la interfaz. Los humanos son evolutivamente buenos manejando herramientas, y hay investigaciones que sugieren que, una vez dominada, una herramienta se asimila de forma inconsciente como una extensión del propio cuerpo. Como las baquetas extienden el alcance del brazo, la interfaz pudo hacerse generosamente grande, aliviando los problemas de precisión y reduciendo los errores."
+        },
+        {
+          "t": "p",
+          "x": "Este diseño se ve con claridad en cómo funcionan los botones. La suposición intuitiva es un botón que se presiona al tocarlo, pero Electronauts toma un camino distinto por precisión y estabilidad. Hay que clavar la baqueta dentro del botón y luego tirar de un gatillo. Es una solución inteligente a la falta de retroalimentación física en VR. Los botones reales están diseñados en torno a la sensación de empuje de vuelta, pero en VR nada empuja la baqueta hacia atrás, lo que dificulta apuntar con confianza a un botón simulado físicamente. Clavar y confirmar con un gatillo aumenta la precisión de forma notable."
+        },
+        {
+          "t": "p",
+          "x": "La jerarquía es central en cualquier interfaz. Es la forma en que se organizan las funciones para que sean lógicas, memorables y fáciles de recuperar. Electronauts agrupa cada función dentro de una herramienta y representa cada herramienta como un cubo. Para usar la función de una herramienta, se coloca su cubo en un soporte. Cada cubo es, en esencia, una pequeña mini-aplicación, como un ícono en la pantalla de un teléfono. Solo hasta tres cubos pueden estar activos a la vez, así que la jerarquía se mantiene clara sin volverse profunda. Si se profundiza más, como carpetas dentro de carpetas, las cosas siguen organizadas pero toma más tiempo llegar a la función que se busca."
+        },
+        {
+          "t": "p",
+          "x": "Esta estructura también se traslada a la flexibilidad. Como las herramientas viven en cubos físicos, los usuarios pueden organizarlos como mejor se adapte a sus necesidades. La interfaz se vuelve ambidiestra por diseño. En vez de dejar la herramienta Backing Tracks fija a la derecha, yo, que soy zurdo, la muevo a la izquierda con facilidad. Es similar a arrastrar una ventana en una computadora, y al hacer música, poder reorganizar el espacio de trabajo sobre la marcha es más útil que una disposición única y fija."
+        },
+        {
+          "t": "p",
+          "x": "Una prueba de una buena interfaz es si se puede usar rápido y con precisión sin estorbar al usuario. Electronauts permite manejar sin problemas una gran cantidad de variables incluso mientras se persigue el ritmo de una canción. Los principios de facilidad de uso, jerarquía y flexibilidad son ideales para cualquier interfaz de VR, no solo para juegos musicales, incluida la elección de hacer de una herramienta de mano el medio principal de control."
+        }
+      ]
+    },
+    "design/design-figma-claude-code-loop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma y Anthropic anunciaron una integración bidireccional. El texto de marketing prometía “escapar de la visión de túnel”, “empezar desde cualquier lugar” y “marcos editables”. La reacción en Reddit fue mucho más dura. Un usuario la llamó una “pesadilla” y otro advirtió que hay que prepararse para quemar tokens sin límite. Eleken considera que ambos tienen razón."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422d152193d9e8cd6ac518_figma-to-claude-code-reddit-comment-01.webp",
+          "cap": "Reacciones en Reddit a la integración de Figma y Claude Code"
+        },
+        {
+          "t": "p",
+          "x": "La integración funciona en dos direcciones. Figma → Claude Code usa MCP para leer un archivo de diseño y generar código. Es la más antigua de las dos y donde se concentra el valor real. Claude Code → Figma se anunció en febrero de 2026 y devuelve a la mesa de trabajo, como marcos editables, la interfaz construida con código. Juntando ambas se obtiene un bucle que va del diseño al código, al lienzo y de vuelta al código."
+        },
+        {
+          "t": "p",
+          "x": "Hay algo que conviene saber primero. El MCP solo entrega datos estructurales: nombres de componentes, propiedades de diseño, tokens de espaciado. No transmite cómo se ve el diseño visualmente. Claude redibuja la pantalla basándose solo en los valores de propiedad originales. Por eso un resultado idéntico a nivel de píxel es un mito."
+        },
+        {
+          "t": "p",
+          "x": "El caso de uso más claro es el prototipado interactivo rápido. Se introduce un diseño, o incluso una idea en bruto, y sale algo que se puede probar al instante. El líder de diseño Maksym Chervynskyi lo explica así: “Se lo puedes mostrar a un cliente y dejar que lo toque de verdad. Puedes armar una demo con datos falsos para mostrar en una presentación cómo se comportaría.” Un par de variantes para pruebas A/B también quedan listas en un día, sin esperar un ciclo de ingeniería."
+        },
+        {
+          "t": "video",
+          "yt": "i6ApeRSrSgk"
+        },
+        {
+          "t": "p",
+          "x": "Rediseñar un producto existente es un caso más avanzado y consume muchos más tokens. Claude analiza la interfaz existente, extrae los patrones subyacentes, encuentra componentes reutilizables, unifica los estilos dispersos y luego aplica eso a todo el producto. Maksym lo explica así: “Estás cambiando los bloques que forman la interfaz. Luego abres una página y dices: el botón por defecto era azul, ahora es morado, cámbialos todos.”"
+        },
+        {
+          "t": "p",
+          "x": "Dónde falla está igual de claro. Tocar una base de código existente se convierte en regeneración, no en edición. Esperar precisión de píxel en un diseño complejo de múltiples marcos deja decepcionado. La iteración frecuente consume tokens rápido tanto en Claude como en la API de Figma. Y si el archivo de Figma no tiene un sistema de diseño, el resultado sale plano."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422f1ee8149984467a365a_figma-to-claude-code-figma-07.webp",
+          "cap": "Figma, lo que Maksym llama la estrella del norte"
+        },
+        {
+          "t": "p",
+          "x": "Los equipos que logran mejores resultados dan mucha más estructura y contexto de lo esperado. Escriben en CLAUDE.md dónde están los componentes, qué convenciones de nombres importan y cuáles son los ejemplos de referencia. Empiezan con un solo componente, no con una página. Adjuntan el CSS del modo desarrollador a los datos del MCP para que la estructura y la intención visual viajen juntas. Mantienen un documento de referencia separado con las reglas de color, tipografía y espaciado, y hacen que Claude lo consulte siempre."
+        },
+        {
+          "t": "p",
+          "x": "A través de todo esto, Figma se mantiene en el lugar que Maksym llama la “estrella del norte”. Incluso al construir directamente dentro de Claude, perder una pantalla estática de referencia significa perder el plano. El flujo anterior era una línea recta de diseño a entrega y desarrollo; ahora es un bucle. Si no te decides, dedicar solo 20 minutos a un único componente, en vez de a todo el proyecto, te dará la respuesta."
+        }
+      ]
     }
   }
 }

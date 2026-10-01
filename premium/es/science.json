@@ -2246,6 +2246,1009 @@
           "x": "Los investigadores buscaron que esta estructura siguiera siendo entrenable, pero difícil de simular en computadoras clásicas."
         }
       ]
+    },
+    "science/binn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un nuevo modelo informático se cuenta entre las primeras herramientas de IA en acelerar el descubrimiento científico en agricultura y biogeoquímica, con un estudio que lo encuentra 50 veces más eficiente que los modelos anteriores. Es una prueba de concepto que muestra que la IA puede revelar procesos biológicos poco conocidos."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado en la revista Geoscientific Model Development, los investigadores demostraron la IA aplicándola al problema del carbono orgánico del suelo. Los suelos de la Tierra contienen alrededor de tres cuartas partes del carbono terrestre, más que la atmósfera y todas las plantas del mundo juntas."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos han buscado formas de usar la IA en la investigación, pero herramientas comunes como ChatGPT suelen limitarse a recombinar información existente. La IA también se ha usado para extraer patrones de los datos. En cambio, este modelo, llamado red neuronal informada por biogeoquímica (BINN), va un paso más allá: predice procesos biológicos todavía poco entendidos y hasta señala los factores que los determinan."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel.jpg",
+          "cap": "Esquema de la arquitectura y el flujo de entrenamiento de BINN. Crédito: Geoscientific Model Development (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Yiqi Luo, profesor de la Facultad de Ciencia Vegetal Integrativa de Cornell y autor correspondiente del estudio, dijo que “BINN es muy fácil de usar, por lo que puede difundirse ampliamente entre distintos campos científicos”, y añadió que es “una de las primeras herramientas de este tipo para impulsar la investigación científica con IA”."
+        },
+        {
+          "t": "p",
+          "x": "Haodi Xu, estudiante de doctorado en el laboratorio del profesor Luo, es coautor principal. La investigación se realizó en colaboración con el laboratorio de Carla Gomes, profesora de ciencias de la computación en la Facultad Ann S. Bowers de Computación e Información de Cornell."
+        },
+        {
+          "t": "p",
+          "x": "Entender con precisión los procesos del carbono del suelo ayuda tanto a predecir el cambio climático como a desarrollar soluciones prácticas, y pequeños ajustes en este proceso producen grandes efectos río abajo. De hecho, en 2015 científicos del suelo franceses propusieron la iniciativa “4 por 1.000”: la idea de que, si se adoptaran prácticas que aumentaran el carbono orgánico del suelo agrícola mundial un 0,4% al año, en teoría no solo mejoraría la salud del suelo, sino que se compensarían todas las emisiones de carbono generadas por el ser humano."
+        },
+        {
+          "t": "p",
+          "x": "La forma en que el suelo gana carbono orgánico ya se conoce. Las plantas extraen carbono del dióxido de carbono y lo fijan al crecer, y cuando mueren, la materia orgánica de tallos, hojas y raíces se descompone poco a poco en fragmentos cada vez más pequeños hasta formar parte del suelo. Sin embargo, los científicos no saben bien a qué velocidad ocurre este proceso, ni cuántas etapas hacen falta para descomponer las hojas caídas."
+        },
+        {
+          "t": "p",
+          "x": "Xu dijo: “Usamos la IA y los datos para averiguar de forma cuantitativa qué tan rápido es este proceso y cuántas etapas requiere”."
+        },
+        {
+          "t": "p",
+          "x": "BINN calculó 50 veces más rápido que los modelos anteriores. Su precisión al predecir los niveles de carbono orgánico del suelo fue muy similar a la de los modelos existentes. Sin embargo, los modelos existentes tenían un sesgo espacial que, al predecir en todo el territorio continental de EE. UU., podía favorecer los datos de una región sobre los de otra. Los investigadores confirmaron que BINN presenta menos de este sesgo espacial."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/soil-carbon-effectivel-3.jpg",
+          "cap": "Mapa espacial de las diferencias normalizadas entre BINN y PRODA. Crédito: Geoscientific Model Development (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores dicen que el modelo también puede adaptarse para esclarecer otros procesos agrícolas y biogeoquímicos poco conocidos, como la respiración del suelo o la acumulación de carbono en los ecosistemas forestales."
+        }
+      ]
+    },
+    "science/l2t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación de KAIST presentó un modelo de mundo de nueva generación que aprende teorías ejecutables únicamente a partir de la observación. Un modelo de mundo es el modelo interno que una IA construye por sí misma para entender y predecir el mundo."
+        },
+        {
+          "t": "p",
+          "x": "El equipo, liderado por el profesor Sung-Jin Ahn de la Facultad de Informática, propuso un nuevo paradigma de aprendizaje llamado Learning-to-Theorize (L2T), que entrena a la IA para teorizar sobre cómo funciona el mundo usando solo información observada. También construyeron un modelo de red neuronal que lo implementa, llamado Neural Theorizer (NEO)."
+        },
+        {
+          "t": "p",
+          "x": "La investigación se presentó en la 43.ª Conferencia Internacional sobre Aprendizaje Automático (ICML 2026), celebrada en Seúl del 6 al 11 de julio. El artículo, publicado en el servidor de preprints arXiv, fue elegido mejor artículo del taller de Compositional Learning."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-1.jpg",
+          "cap": "Resumen del marco de Learning-to-Theorize (L2T)."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de mundo son una tecnología fundamental que abarca el control de robots, la conducción autónoma, la IA generativa y los agentes autónomos que juzgan y actúan por sí mismos. Hasta ahora, el foco estaba en predecir qué pasaría a continuación. Aunque un modelo predijera una escena con precisión, no necesariamente entendía por qué ocurrió el cambio ni los principios que rigen el mundo."
+        },
+        {
+          "t": "p",
+          "x": "El equipo encontró una pista en la forma en que aprenden las personas. Los niños construyen sus propias teorías sobre cómo funciona el mundo mucho antes de aprender a hablar. Al trasladar esta perspectiva de la ciencia cognitiva del desarrollo a la IA, el equipo creó un sistema que entiende los principios del cambio en lugar de limitarse a predecir el futuro."
+        },
+        {
+          "t": "p",
+          "x": "L2T no proporciona respuestas correctas ni reglas de antemano. Con solo observaciones de “antes del cambio” y “después del cambio”, la IA averigua por sí misma qué regla produjo ese cambio. A diferencia de los métodos existentes, centrados en adivinar la siguiente escena, está diseñado para entender por qué ocurrió el cambio."
+        },
+        {
+          "t": "p",
+          "x": "NEO encuentra unidades básicas reutilizables, o primitivas, ocultas en las transformaciones observadas y las combina en programas ejecutables. Estas unidades aprendidas pueden luego recombinarse de forma sistemática para explicar situaciones nuevas."
+        },
+        {
+          "t": "p",
+          "x": "Por ejemplo, NEO aprende por sí mismo unidades correspondientes a operaciones básicas como rotar, moverse a la izquierda o hacia abajo, y colorear. Incluso al encontrar una combinación nunca vista en el entrenamiento, como “moverse hacia abajo, luego colorear y luego rotar”, recombina las unidades ya aprendidas para explicar y resolver esa situación."
+        },
+        {
+          "t": "p",
+          "x": "La IA existente, en cambio, memoriza los patrones entrelazados como un solo bloque, por lo que su rendimiento cae con fuerza ante una combinación desconocida. El equipo demostró en varios experimentos que NEO supera a los métodos existentes en generalización composicional, la capacidad de combinar reglas básicas aprendidas para resolver problemas nunca vistos."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Ahn dijo: “Esto señala una nueva dirección más allá de los modelos de mundo centrados en la predicción, lo que llamamos un World Theory Model”, y añadió: “Esperamos que se convierta en una tecnología central en campos como la robótica inteligente, los agentes autónomos y la IA que ayuda al descubrimiento científico”."
+        },
+        {
+          "t": "p",
+          "x": "Los estudiantes de maestría Doo-Jin Baek y Gyu-Bin Lee, de la Facultad de Informática, participaron como coautores principales."
+        }
+      ]
+    },
+    "science/symptomai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La anamnesis basada solo en el lenguaje puede, por sí sola, llevar a una parte sustancial de los diagnósticos clínicos. Las consultas presenciales y de telemedicina entre médico y paciente siguen siendo el estándar aquí, pero el acceso a menudo se limita por el costo, la geografía y las barreras institucionales. Los investigadores de Google Research realizaron un estudio a gran escala para examinar si un agente de IA conversacional podía encargarse por sí solo, desde la anamnesis de síntomas hasta el diagnóstico diferencial."
+        },
+        {
+          "t": "p",
+          "x": "El artículo, “SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment”, presenta los resultados de un estudio aleatorizado a escala nacional (n=13.917). Los participantes que dieron su consentimiento conversaron con uno de cinco agentes SymptomAI basados en Gemini Flash 2.0. Los diagnósticos y etiquetas generados durante el estudio son solo para análisis de investigación, no diagnósticos clínicos confirmados."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/SymptomAI1_Overview.width-1250.png",
+          "cap": "Pantalla de la aplicación de investigación de SymptomAI que muestra la anamnesis de síntomas y un resumen del diagnóstico."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes describían sus síntomas y SymptomAI hacía preguntas de seguimiento, y cada conversación terminaba con una lista de diagnóstico diferencial (DDx) y recomendaciones de próximos pasos. Los participantes informaron después, en una encuesta dos semanas más tarde, el resultado de cualquier visita a un médico. Para la evaluación, un panel de tres médicos especialistas revisó las transcripciones de las conversaciones, cada uno elaboró su propio diagnóstico diferencial, y luego clasificó los diagnósticos de SymptomAI frente a los de otros clínicos en condiciones ciegas."
+        },
+        {
+          "t": "p",
+          "x": "Los clínicos prefirieron el diagnóstico diferencial de SymptomAI al de otro clínico en más de la mitad de los casos. En la precisión de los 5 primeros, que comprueba si el diagnóstico real del médico tratante del participante aparecía entre cinco candidatos, los clínicos también calificaron los diagnósticos de SymptomAI como correctos con más frecuencia que los de sus colegas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/SymptomAI2_Ranking.width-1250.png",
+          "cap": "SymptomAI fue preferido con más frecuencia como el mejor diagnóstico en primer lugar, en el 53,3% de los casos."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes se dividieron en cinco grupos que recibieron distintas estrategias de preguntas. Toda estrategia en la que SymptomAI formulaba preguntas de seguimiento de forma activa superó claramente a la condición de referencia, equivalente al enfoque actual de chatbot dirigido por el usuario. La ventaja de SymptomAI fue mayor en los casos en que los clínicos tenían menos confianza en su propio diagnóstico."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también compararon los diagnósticos de SymptomAI con las señales biológicas de los dispositivos Fitbit de los participantes, registradas antes de la conversación. Las conversaciones que llevaron a diagnósticos de enfermedades infecciosas coincidieron con cambios fisiológicos sugestivos de una respuesta inmunitaria, con cambios claros en la función cardiovascular, la respiración, la temperatura de la piel y la calidad del sueño que aparecían días antes de que se reportaran los síntomas."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el diagnóstico diferencial es en sí mismo una tarea inherentemente ambigua, y los diagnósticos pueden cambiar con el tiempo. En la evaluación, los clínicos solo vieron transcripciones estáticas de las conversaciones y no pudieron hacer sus propias preguntas de seguimiento, y el diseño conlleva la limitación adicional de que señales como el lenguaje corporal, la exploración visual o los registros médicos podrían pasarse por alto."
+        }
+      ]
+    },
+    "science/cellforge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de Triplebar Bio, UC Berkeley y BioMADE están desarrollando un modelo de IA para ingeniería celular adaptado a entornos de bioproducción. Shawn Manchester, CEO de Triplebar Bio, dijo que la clave está en “averiguar cómo hay que modificar el genoma de la célula huésped para lograr el mejor rendimiento en bioproducción”."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo del proyecto está en generar datos en condiciones cercanas a la producción real, y hacerlo a gran escala. Manchester dijo que lo que lo distingue es “la capacidad de extraer datos a la escala de cientos de miles de células y puntos de datos, en un entorno cercano a la bioproducción”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/07/Dutton-Photo-4-small.png",
+          "cap": "Investigadores de Triplebar Bio con un chip de microfluídica de gotas."
+        },
+        {
+          "t": "p",
+          "x": "La investigación usa Pichia pastoris como célula huésped para producir cinco proteínas empleadas en bioprocesos. El método combina dos ejes. Uno es la tecnología de microfluídica de gotas, que atrapa las células en gotas de emulsión agua-aceite y mide la producción de proteína con sensores fluorescentes. El otro es un modelo de IA basado en transformadores multimodales, que analiza datos de secuenciación de células de alto y bajo rendimiento para hallar correlaciones entre genotipo y fenotipo."
+        },
+        {
+          "t": "p",
+          "x": "El entrenamiento consiste primero en un preentrenamiento con miles de genomas, y luego en un ajuste fino con datos de genotipo-fenotipo específicos de la bioproducción. Manchester dijo que espera que “más del 10% de los diseños lleven a una mejora significativa”, una cifra mucho más alta que la del ciclo tradicional de diseño-construcción-prueba en sus etapas iniciales."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo final es que una empresa introduzca sus propias condiciones de producción y la IA entregue un diseño genético que mejore el rendimiento de la cepa."
+        }
+      ]
+    },
+    "science/creepnorm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje (LLM) están transformando poco a poco la investigación en ciencias de la vida. El cambio va más allá de aumentar la productividad, y se está consolidando como un nuevo estándar antes de que los científicos se pongan de acuerdo sobre hasta dónde debería llegar su uso."
+        },
+        {
+          "t": "p",
+          "x": "Un artículo de un equipo internacional de investigadores, publicado en Frontiers in Ecology and the Environment, llama a esto la 'normalización progresiva' de la IA generativa: un fenómeno en el que grandes cambios ocurren en pasos pequeños y sutiles hasta que terminan aceptándose casi sin que nadie se dé cuenta. El primer autor, Ivan Jarić, del Centro de Biología de la Academia de Ciencias de la República Checa, dijo: “La IA generativa ya forma parte del trabajo diario de muchos investigadores, pero su impacto a largo plazo en casi todas las áreas de la ciencia ha recibido relativamente poca atención,” y añadió: “depender habitualmente de esta herramienta podría cambiar de manera fundamental las bases de la práctica y la cultura científicas.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/the-creeping-normality.jpg",
+          "cap": "Un diagrama que propone hasta qué punto conviene permitir la IA en cada etapa del proceso científico. Fuente: Ivan Jarić"
+        },
+        {
+          "t": "p",
+          "x": "El artículo señala áreas donde el cambio ya es visible. Una es la colaboración. Cada vez más investigadores delegan en los LLM, en lugar de en sus colegas, tareas como darle vueltas a una idea, resolver problemas de análisis o pedir la opinión de un experto. Cuanto más ocurre esto, menos incentivo hay para buscar experiencia de otras disciplinas o regiones, lo que debilita el intercambio interdisciplinario y reduce la diversidad de perspectivas."
+        },
+        {
+          "t": "p",
+          "x": "La forma de buscar información y obtener ideas también está cambiando. Susan Canavan, de la Universidad de Galway, dijo que a medida que los LLM sustituyen a los motores de búsqueda, las enciclopedias y la revisión de literatura, “uno queda encerrado solo en las preguntas que se le ocurrieron, y se vuelve más dependiente de las respuestas que da la IA.” Según ella, eso puede afianzar el sesgo de confirmación, crear cámaras de eco intelectuales y homogeneizar el lenguaje y las ideas científicas."
+        },
+        {
+          "t": "p",
+          "x": "También existe el problema de que las competencias clave se debilitan. Capacidades básicas como la revisión y síntesis de literatura, el juicio taxonómico y el razonamiento estadístico o de programación están pasando a manos de los LLM. Esto podría reducir la necesidad de abrir nuevas plazas de doctorado y posdoctorado, afectando también a la contratación y las trayectorias profesionales."
+        },
+        {
+          "t": "p",
+          "x": "Michael Bertram, de la Universidad Sueca de Ciencias Agrícolas, dijo: “En lugar de estar a favor o en contra de la IA, fijemos límites sobre qué cuenta como un uso apropiado.” Sostuvo que está bien usarla ampliamente para tareas rutinarias como la corrección o el pulido del lenguaje, pero que no es aconsejable para funciones que requieren juicio científico independiente, como definir prioridades de investigación, la revisión por pares, las decisiones de financiación o los juicios éticos. Los investigadores concluyen que la transformación de la ciencia impulsada por la IA generativa ya está en marcha, y que la cuestión no es si la IA entrará en la investigación, sino dónde traza la línea la comunidad."
+        }
+      ]
+    },
+    "science/hiddenvars": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las propiedades de un material surgen de las interacciones entre innumerables átomos. Simular esos átomos uno por uno, y además durante largos periodos de tiempo, suele ser imposible incluso para las supercomputadoras actuales. Ya sea el objetivo un dispositivo electrónico de alta eficiencia energética o una nueva aleación, el diseño parte de entender el comportamiento macroscópico del material, y ahí es justo donde aparece el cuello de botella computacional."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo dirigido por el profesor asociado Qianxiao Li, del Departamento de Matemáticas de la Universidad Nacional de Singapur (NUS), presentó un método de IA para rodear este obstáculo. En lugar de seguir partícula por partícula, encuentra un puñado de variables ocultas que capturan el comportamiento colectivo de todo el sistema y predice cómo cambian sus valores con el tiempo. Los resultados se publicaron en un artículo de Physical Review Materials y en otro presentado en ICML 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-methods-to-discover.jpg",
+          "cap": "Un método que entrena con datos de un sistema pequeño para predecir el comportamiento macroscópico de uno mucho más grande. Fuente: Universidad Nacional de Singapur"
+        },
+        {
+          "t": "p",
+          "x": "El primer resultado es un método que predice con precisión el comportamiento de un sistema estocástico mucho más grande usando solo simulaciones de uno pequeño. En lugar de calcular las fuerzas sobre cada átomo del sistema grande, aprende cómo se mueve el conjunto a partir de la información de fuerza en solo algunos átomos. El equipo demostró matemáticamente que este atajo sigue llevando a un modelo preciso, y lo validó desde modelos de poblaciones biológicas hasta aleaciones simuladas con más de 500.000 átomos."
+        },
+        {
+          "t": "p",
+          "x": "El segundo resultado aborda sistemas donde los componentes microscópicos no tienen un orden fijo, como fluidos, conjuntos de partículas y polímeros. En lugar de rastrear cada partícula, aprende el patrón global de la distribución, de modo que el resultado es el mismo sin importar cómo se numeren las partículas."
+        },
+        {
+          "t": "p",
+          "x": "La ventaja clave es la escalabilidad. Como el método puede inferir el comportamiento de sistemas mucho más grandes que aquellos con los que fue entrenado, abre una vía para tratar materiales reales a escalas que antes eran difíciles de abordar. El profesor Li dijo que el objetivo es “crear una IA que descubra automáticamente cómo emerge el comportamiento macroscópico a partir de innumerables interacciones microscópicas”, reduciendo mucho el costo computacional sin perder precisión física. El equipo prepara el siguiente paso: conectar este método con datos experimentales, en particular simulaciones de materiales de tamaño intermedio."
+        }
+      ]
+    },
+    "science/xrayagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de IA se han convertido en herramientas cotidianas que cualquiera puede usar, y científicos de distintos campos han empezado a emplearlos para ayudar en investigaciones y experimentos. Investigadores de la Universidad de Stanford y el Laboratorio Nacional de Aceleradores SLAC probaron a usar un agente de IA para preparar un experimento de rayos X en sincrotrón. Un sincrotrón es una gran instalación que acelera electrones para producir rayos X extremadamente brillantes, usados para examinar la estructura atómica de materiales, moléculas y muestras biológicas."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado en Nature Machine Intelligence, los investigadores dejaron que el agente preparara un experimento de sincrotrón real. El agente planificó sus propias acciones, interpretó las observaciones, generó comandos de control del instrumento y completó la alineación de la muestra."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could.jpg",
+          "cap": "El flujo de trabajo del científico de rayos X agéntico. Lee imágenes del detector, registros del experimento y resultados de escaneo, evalúa el estado y emite comandos de control del instrumento. Fuente: Chen et al., Nature Machine Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "El primer autor, Zhantao Chen, dijo: “Mostramos un científico de rayos X con IA agéntica que alinea por sí solo una muestra monocristalina en una línea de luz de sincrotrón.” La alineación de la muestra es el primer paso en casi todo experimento con monocristales, pero requiere mucho trabajo manual y es tediosa. Explicó que el agente consulta el estado del experimento, determina qué está pasando y qué hacer a continuación, y avanza hasta completar la alineación."
+        },
+        {
+          "t": "p",
+          "x": "Al agente se le da un conjunto de herramientas que incluye leer registros del experimento, tomar imágenes del detector y realizar escaneos de motor. Chen dijo: “Si quieres que apriete un tornillo, tienes que darle también un destornillador y cómo usarlo,” explicando que las herramientas conectan la IA con el experimento real, mientras que los prompts le enseñan a usar bien esas herramientas. Consideró que esta flexibilidad, la capacidad de responder rápido cuando cambian las condiciones o llega información nueva, es la fortaleza de los agentes basados en LLM. La automatización tradicional necesitaría innumerables ramas condicionales codificadas a mano para cada situación."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-scientist-could-1.jpg",
+          "cap": "Una muestra monocristalina de Co₃Sn₂S₂ montada en un soporte de cobre, y el difractómetro de seis círculos de la línea de luz SSRL BL17-2 donde se realizó la demostración. Fuente: Chen et al., Nature Machine Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "La clave fue una línea de luz virtual creada por los investigadores. Las grandes instalaciones siempre tienen la agenda llena, lo que dificulta desarrollar directamente con el equipo real desde el principio. Tras completar todo el flujo de trabajo en el simulador, solo ajustaron ligeramente los formatos de entrada y salida, lo trasladaron a la línea de luz real y funcionó tal cual. Chen dijo que este enfoque podría extenderse a otras tareas experimentales, y que el equipo está desarrollando un marco de agente más general para usarlo en laboratorios de ciencia de materiales y física en general, más allá de las líneas de luz de rayos X."
+        }
+      ]
+    },
+    "science/quantum-rl-self-calibration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Imagina una orquesta sinfónica tocando una obra maestra compleja. Si los violines se desafinaran cada pocos compases, la orquesta tendría que detenerse continuamente para volver a afinar. Por suerte, eso nunca pasa en una orquesta real. Sin embargo, esa es exactamente la realidad de hacer funcionar una computadora cuántica hoy en día."
+        },
+        {
+          "t": "p",
+          "x": "Una computadora cuántica es, en esencia, una máquina analógica sensible a la deriva. Para funcionar de forma estable, la frecuencia, la amplitud y la fase de las señales analógicas que dirigen los cúbits deben reajustarse constantemente. Hoy en día, esto solo puede hacerse deteniendo por completo todo el cálculo. Para los algoritmos cuánticos útiles, que deben ejecutarse durante días o meses, esto es un cuello de botella fundamental."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado en Nature, “Reinforcement learning control of quantum error correction”, Google presentó un marco de aprendizaje por refuerzo (RL) en el que un agente autónomo aprende de la detección de errores cuánticos para dirigir miles de variables de control en tiempo real. En efecto, encontró una forma de afinar los instrumentos mientras la interpretación continúa."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/RL_for__QEC-2.width-1250.png",
+          "cap": "QEC prolongando la vida de la información lógica en memoria cuántica basada en el código de superficie (izquierda) y el código de color (derecha). Crédito: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "La corrección de errores cuánticos (QEC) construye un 'cúbit lógico' a partir de varios cúbits físicos y usa comprobaciones de paridad para convertir el ruido analógico en señales binarias de detección de errores. Sin embargo, esta señal solo indica que ocurrió un error en alguna región del espacio-tiempo del circuito, no su ubicación exacta. Decodificadores de redes neuronales como AlphaQubit, y decodificadores algorítmicos como Tesseract, estiman la ubicación del error para recuperar la información."
+        },
+        {
+          "t": "p",
+          "x": "Google validó este control de RL en Willow, su procesador superconductor insignia. En experimentos que introdujeron deliberadamente una deriva artificial en las variables de control, la dirección por RL elevó la estabilidad lógica del código de corrección de errores 3.5 veces. Incluso después de una calibración manual cuidadosa por parte de expertos, el ajuste fino de RL redujo la tasa de error lógico otro 20%."
+        },
+        {
+          "t": "p",
+          "x": "Este experimento redujo los errores lógicos a niveles récord: menos de una vez por cada mil ciclos de corrección de errores en el código de superficie, y alrededor de una vez por cada cien en el código de color."
+        },
+        {
+          "t": "p",
+          "x": "En simulaciones realizadas con cientos de cúbits y decenas de miles de variables de control, el número de iteraciones de entrenamiento de RL necesarias no dependió del tamaño del sistema. Esto abre un nuevo camino hacia computadoras cuánticas que siguen corrigiendo errores sin detenerse, y que aprenden por sí mismas."
+        }
+      ]
+    },
+    "science/raygun-protein-redesign": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Facultad de Medicina de Duke han creado un marco de IA que rediseña proteínas a una escala que normalmente solo se ve en la evolución natural. Genera variantes más cortas, más largas o muy alteradas, manteniendo la estructura y la función."
+        },
+        {
+          "t": "p",
+          "x": "Se llama Raygun. En lugar de dibujar una proteína desde cero, modifica ampliamente proteínas existentes sobre un modelo de lenguaje de proteínas entrenado con millones de secuencias de proteínas naturales. La investigación se publicó en Nature."
+        },
+        {
+          "t": "p",
+          "x": "“Existe un lenguaje que rige cómo la secuencia de aminoácidos de una proteína se traduce en forma y función, pero los científicos todavía no comprenden ese lenguaje por completo”, dijo el coautor correspondiente, el profesor asistente Rohit Singh. “Un modelo de lenguaje de proteínas, como un traductor, aprende patrones de millones de secuencias y los conecta con la estructura y la función biológicas.”"
+        },
+        {
+          "t": "p",
+          "x": "Raygun añade a esto una nueva forma de representar proteínas. En lugar de tratarlas solo como cadenas de aminoácidos de longitud variable, las convierte en un formato de fórmula estándar que contiene los patrones clave que la IA ha aprendido. Como las proteínas de cualquier tamaño se expresan en el mismo formato, se pueden comparar, acortar o alargar para su rediseño."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/like-a-molecular-shrin.jpg",
+          "cap": "Investigadores en un laboratorio de la Facultad de Medicina de Duke. Crédito: Eamon Queeney / Duke University School of Medicine"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores ajustan Raygun con solo dos parámetros. Uno controla cuánto cambia la secuencia, y el otro decide si la proteína se hace más corta o más larga."
+        },
+        {
+          "t": "p",
+          "x": "En varios experimentos, las proteínas diseñadas por la IA conservaron la estabilidad estructural prevista y sus regiones funcionales clave. Experimentos en células vivas lo confirmaron con proteínas fluorescentes usadas para imagenología y enzimas que realizan tareas celulares esenciales, mientras que experimentos de unión a receptores validaron variantes del factor de crecimiento epidérmico (EGF), implicado en la curación de heridas y vinculado a vías de señalización relacionadas con el cáncer."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque ayuda a diseñar de forma más eficiente herramientas para la terapia génica, la biotecnología y la investigación biomédica. Al mismo tiempo, ofrece nuevas pistas sobre cómo evolucionan las proteínas en la naturaleza."
+        }
+      ]
+    },
+    "science/single-sensor-ultrasound-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Instituto IMDEA Materiales ha presentado una técnica de imagen acústica que supera una limitación fundamental de tecnologías como la ecografía. Reconstruye una imagen completa y precisa usando solo la señal que un único sensor fijo capta en un instante, sin necesidad de una matriz de varios sensores ni de tiempos de escaneo largos."
+        },
+        {
+          "t": "p",
+          "x": "La imagen acústica convencional requería o bien una sonda con varios transductores —es decir, una matriz de sensores— capturando señales de distintas posiciones a la vez, o un único sensor realizando varias mediciones mientras se desplazaba. “Los métodos tradicionales conllevan una complejidad, un costo y un tamaño de equipo considerables”, explicó Johan Christensen, investigador principal del IMDEA Materiales. “Nuestro nuevo método resuelve esto empaquetando toda la información espacial de un objeto en el espectro de frecuencias de un único sonido”."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/instant-ultrasound-ima.jpg",
+          "cap": "Cómo se genera una imagen acústica de señal única mediante un codec de frecuencias sintetizado por IA. Crédito: IMDEA Materials Institute"
+        },
+        {
+          "t": "p",
+          "x": "El método, publicado en Advanced Functional Materials, dispara un único pulso ultrasónico de banda ancha hacia un objeto. La onda dispersada, que porta la información de la forma del objeto, atraviesa un 'medio desordenado' de bajo costo. En el experimento, este medio era una lámina de agar con esferas de acero incrustadas al azar, que actuaba como codificador físico. Su estructura irregular hace que el camino difiera ligeramente para cada componente de frecuencia, generando una 'huella' espectral única que capta un único sensor."
+        },
+        {
+          "t": "p",
+          "x": "Es irreconocible para el ojo humano, pero esta huella contiene toda la información necesaria para reconstruir la imagen. Los investigadores entrenaron una red neuronal para que actuara como decodificador. Una vez entrenada, la IA interpreta la señal recibida y restaura una imagen del objeto original en decenas de microsegundos. En un experimento de reconstrucción de dígitos manuscritos grabados en una placa metálica, alcanzó hasta un 98.7% de similitud estructural con el original."
+        },
+        {
+          "t": "p",
+          "x": "Esta tecnología abre camino a dispositivos de imagen acústica ultracompactos, de bajo costo y en tiempo real. Sus aplicaciones son amplias, desde diagnósticos médicos que visualizan órganos en movimiento, como un corazón latiendo, con equipos mucho más sencillos, hasta pruebas industriales no destructivas y detección de objetos bajo el agua. Los investigadores creen que el principio es lo bastante universal como para extenderse a imágenes 3D u otros tipos de ondas. El estudio fue una colaboración internacional entre la Universidad de Nanjing, la Universidad Forestal de Nanjing y la Universidad Politécnica de Wuhan (China), junto con el Instituto IMDEA Materiales."
+        }
+      ]
+    },
+    "science/science-ai-scribes-medical-education": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los hospitales adoptaron rápidamente herramientas de IA para redactar notas. La justificación era reducir el agotamiento de los médicos y aumentar los ingresos. Pero las facultades de medicina se enfrentan a otra pregunta: ¿deben los estudiantes y residentes usar escribas de IA que generan automáticamente las notas clínicas? Un artículo de STAT News abordó cómo las escuelas y los hospitales están divididos frente a esta pregunta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1686952984-645x645.jpeg",
+          "cap": "Credit: Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "La preocupación de los educadores es clara. Si los estudiantes dejan de escribir ellos mismos los diagnósticos diferenciales, también desaparece la lucha cognitiva que construye el razonamiento diagnóstico. La exigencia de formar profesionales cómodos con la tecnología choca de frente con el temor de externalizar el pensamiento justo cuando el aprendizaje aún se está formando."
+        },
+        {
+          "t": "p",
+          "x": "Jaideep Talwalkar, vicedecano de tecnología educativa e innovación en la Facultad de Medicina de Yale, lo dice así: «El proceso de construir una nota de forma deliberada nos obliga a usar la cabeza para lidiar con lo que está pasando en ese momento. Repetirlo muchísimas veces es lo que le da sentido»."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, escuelas y hospitales optan por limitar el acceso de los residentes mientras esperan mejores estudios. Es una pregunta que pronto enfrentará todo campo que automatice el trabajo documental. Construir pericia es, al final, un esfuerzo productivo; si una máquina asume ese esfuerzo, ¿dónde crece la habilidad? (El artículo es exclusivo para suscriptores de STAT+ y el texto completo no es público.)"
+        }
+      ]
+    },
+    "science/science-ai-solid-state-synthesis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo del Laboratorio Nacional Lawrence Berkeley (Berkeley Lab), dependiente del Departamento de Energía de EE. UU., presentó una técnica de modelado con IA que prevé de forma rápida y precisa cómo se desarrollan con el tiempo las reacciones entre materiales sólidos. Es el primer modelo predictivo que también tiene en cuenta cómo se mueven los átomos dentro del material mientras avanza la reacción. Sobre todo, esa predicción se traduce directamente en la receta óptima para fabricar materiales avanzados."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-modeling-approa.jpg",
+          "cap": "Interfaz de reacción donde un precursor rico en el catión A (α) se encuentra con un precursor rico en el catión B (β) para formar la fase intermedia γ. Credit: Nature Materials (2026). DOI: 10.1038/s41563-026-02596-5"
+        },
+        {
+          "t": "p",
+          "x": "«Gracias al nuevo modelo, los científicos de materiales y la industria pueden fabricar materiales nuevos y prometedores mucho más rápido, con mayor pureza y rendimiento», dice Kristin Persson, una de las autoras del estudio. Es científica principal en Berkeley Lab y profesora del departamento de ciencia e ingeniería de materiales de UC Berkeley. «Este modelo acelera el paso de los materiales sólidos hacia una fabricación más económica y su comercialización. Cierra la brecha entre el descubrimiento de materiales y la nueva tecnología». El estudio se publicó en Nature Materials."
+        },
+        {
+          "t": "p",
+          "x": "Tecnologías de nueva generación como baterías, sensores y dispositivos médicos dependen de materiales sólidos inorgánicos que almacenan energía, emiten luz y catalizan reacciones. Las herramientas de cálculo con IA ya permiten seleccionar materiales con las propiedades deseadas. El problema viene después. Mezclar polvos y calentarlos a alta temperatura, el método habitual para fabricar sólidos inorgánicos, a menudo produce una mezcla inesperada de compuestos en lugar del producto buscado. Encontrar la receta correcta puede llevar de semanas a años de prueba y error."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de cálculo existentes predecían los resultados mediante la termodinámica, evaluando qué reacciones son favorables energéticamente y qué productos son estables. «La termodinámica indica cuánto 'quieren' reaccionar entre sí dos sólidos», explica Persson. Pero las predicciones no se cumplían bien, porque dejaban fuera la cinética: cómo se desplazan los átomos mientras avanza la reacción. «Los átomos en un sólido se mueven más despacio que en un líquido, así que les cuesta llegar al punto de reacción. Por mucho que dos materiales quieran reaccionar, si no llegan suficientes átomos a ese punto, la reacción simplemente no ocurre». Por eso las reacciones en estado sólido necesitan calentarse hasta 800 °C (1.470 °F): para poner los átomos en movimiento."
+        },
+        {
+          "t": "p",
+          "x": "Además de la termodinámica, el equipo añadió un modelo de aprendizaje automático entrenado para predecir con qué rapidez se desplazan los átomos dentro del material. El diseño surgió de la hipótesis de que la interfaz de reacción entre dos sólidos es extremadamente desordenada. «Imaginen el caos de un público saliendo todo a la vez de un estadio tras un gran espectáculo: así son los átomos en el punto de reacción». Con los materiales de partida, sus proporciones y una curva de calentamiento, el modelo simula la reacción de principio a fin en minutos, mostrando productos intermedios, productos finales e incluso impurezas."
+        },
+        {
+          "t": "p",
+          "x": "El caso de prueba fue el óxido de bario y titanio, muy usado en electrónica. «Lo elegimos a propósito porque la reacción depende mucho de la cinética. Al calentar polvos que contienen bario y titanio, los compuestos que se forman tienen una estabilidad termodinámica casi idéntica entre sí. Como todos 'quieren' formarse por igual, lo que decide el resultado es con qué facilidad llegan los átomos hasta la interfaz de reacción». Los resultados simulados por el modelo coincidieron bien al compararlos con décadas de datos de síntesis publicados en la literatura. «Fue sorprendente que coincidiera toda la secuencia de eventos: compuestos intermedios, productos finales e incluso la formación de impurezas». El equipo planea ampliar el entrenamiento a otras familias de materiales, con la idea de construir, finalmente, un modelo fundacional a partir de un gran conjunto de datos de cinética."
+        }
+      ]
+    },
+    "science/ai-telescope-stargazing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Decidir qué observar, cuándo y en qué dirección siempre fue tarea humana. Este estudio, una colaboración entre la Universidad Northwestern, la Universidad de Chicago y Fermilab, dejó esa decisión en manos de una IA de aprendizaje por refuerzo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/first-ai-driven-telesc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA elabora por sí misma el calendario de observación de la Dark Energy Camera. Cuando el cielo y el clima cambian de un momento a otro, el plan se ajusta en tiempo real, de modo que la siguiente observación se decide según la situación, sin que nadie la reprograme a mano."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores afirman que el rendimiento de esta IA se compara con el de un programador humano experimentado. Es un hito en el camino hacia un observatorio que se opera a sí mismo, y un caso en el que la IA impulsa directamente la astronomía observacional."
+        }
+      ]
+    },
+    "science/brain-age-sleep-eeg": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las ondas cerebrales registradas durante el sueño reflejan fielmente el estado del cerebro. Investigadores de la UCSF usaron aprendizaje automático para analizar el EEG de sueño nocturno de unos 7.000 adultos y estimar la 'edad cerebral' de cada persona."
+        },
+        {
+          "t": "p",
+          "x": "La clave fue la diferencia entre esta edad cerebral y la edad real. Las personas cuyo cerebro parecía más viejo que su edad real enfrentaron después un riesgo claramente mayor de demencia."
+        },
+        {
+          "t": "p",
+          "x": "Sugiere que los datos de un test de sueño corriente podrían convertirse en un indicador temprano de cambios neurológicos. Los investigadores esperan que este biomarcador de IA sea una pista para detectar la demencia con antelación."
+        }
+      ]
+    },
+    "science/science-ai-cryptography-two-proofs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando alguien plantea un problema sin resolver, ahora la gente primero comprueba si GPT puede resolverlo. Así se resolvió un enigma de larga data sobre el cifrado no clonable en criptografía cuántica. Dos equipos de investigación, usando el mismo modelo de IA, llegaron a respuestas casi al mismo tiempo, con horas de diferencia."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e97018e5-ae61-4316-a006-bdb874245d1d/Man-at-mathematics-blackboard.jpg",
+          "cap": "El pionero de la IA John McCarthy frente a la pizarra. Hoy la IA ha empezado a ayudar con demostraciones matemáticas"
+        },
+        {
+          "t": "p",
+          "x": "Seyoon Raghavan, estudiante de doctorado del MIT, armó la demostración encargando al sistema bloques de trabajo de dos horas, revisando el progreso y reorientando el rumbo sobre la marcha. Prabhanjan Ananth, de UC Santa Bárbara, y Amit Sahai, de UCLA, usaron un sistema propio de UCLA que ayuda al modelo a proponer soluciones y criticarse a sí mismo. Los tres usaron GPT-5.6 Sol Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Ananth y Sahai publicaron su artículo en arXiv a las 10:35 a.m., hora del Pacífico, y Raghavan publicó el suyo 3 horas y 18 minutos después. Ambos artículos atribuyen la idea central a GPT-5.6 Sol Ultra. El problema se planteó a comienzos de julio en el Simons Institute for the Theory of Computing, y ninguno de los dos artículos ha pasado aún por revisión por pares."
+        },
+        {
+          "t": "p",
+          "x": "“El ambiente general ahora es este”, dijo Ananth. “Cuando alguien plantea un problema sin resolver, lo primero que se hace es ver si GPT puede resolverlo.” También hay voces preocupadas por el acceso. Broadbent dijo: “Surgen muchas preguntas sobre quiénes tienen recursos y quiénes no.”"
+        }
+      ]
+    },
+    "science/science-brain-to-text": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de Meta AI, la Universidad PSL de París y el Hospital Fundación Adolphe de Rothschild presentaron un sistema que convierte señales cerebrales en frases sin cirugía. El objetivo es ayudar a pacientes que perdieron el habla por parálisis o trastornos del lenguaje a comunicarse mediante una computadora."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra.jpg",
+          "cap": "El EEG y el MEG registran señales mientras un participante escribe una frase, viéndola una palabra a la vez"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo es un modelo de tres etapas llamado Brain2Qwerty. Primero un módulo convolucional procesa señales en ventanas de 500 milisegundos, luego un módulo transformer aprende a nivel de frase, y por último un modelo de lenguaje preentrenado refina el resultado y corrige errores."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-based-system-tra-1.jpg",
+          "cap": "La estructura de tres etapas de Brain2Qwerty"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores hicieron que 35 voluntarios sanos escribieran frases memorizadas mientras registraban su actividad cerebral. La tasa de error de caracteres fue del 29% de media con el MEG, que mide campos magnéticos, y del 65% con el EEG, que mide señales eléctricas. El participante con mejor desempeño bajó hasta el 18%, y en algunos casos se descodificaron a la perfección frases nunca vistas."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores Yarod Levy y Mingfang Zhang advirtieron que el trabajo, por ahora, solo ha incluido a personas sanas, y que haría falta más perfeccionamiento antes de usarlo con pacientes reales. El equipo escribió en el artículo que “estos resultados acortan la brecha entre los métodos invasivos y no invasivos, abriendo un camino hacia interfaces cerebro-computadora seguras para pacientes que no pueden hablar”. El artículo se publicó en la revista Nature Neuroscience."
+        }
+      ]
+    },
+    "science/science-clinical-chatbots-trust": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los chatbots de IA hechos para entornos clínicos no dejan de multiplicarse, pero ha estallado un debate sobre si los médicos deberían confiar en ellos. Lo encendió un estudio que investigadores de NYU Langone Health publicaron en Nature Medicine en junio de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/07/doctors-llms-1-645x645.jpg",
+          "cap": "Los modelos de lenguaje de gran tamaño entran en la clínica (Camille MacMillin/STAT)"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores pusieron a prueba, lado a lado, modelos generales y modelos especializados en medicina usando tres bloques de preguntas clínicas. Entre los modelos especializados estaban OpenEvidence y UpToDate Expert AI. El resultado fue contrario al sentido común: los modelos hechos específicamente para medicina obtuvieron, de hecho, peores resultados que los modelos de lenguaje generales de las grandes tecnológicas."
+        },
+        {
+          "t": "p",
+          "x": "Un vicepresidente de Kaiser Permanente escribió en LinkedIn: “Nunca había visto que un solo artículo sacudiera tanto a la industria de la IA en salud.”"
+        }
+      ]
+    },
+    "science/science-catalyst-lab-variance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Para convertir el dióxido de carbono común en un combustible valioso, hay que distinguir rápidamente qué catalizador resiste más tiempo y de forma más eficiente. Los modelos de IA pueden ayudar en esa selección, pero, igual que un chatbot de internet, un modelo es tan bueno como los datos que se le dan."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Laboratorio Nacional de Aceleradores SLAC reunieron a cuatro laboratorios de todo el país para probar un catalizador experimental que produce monóxido de carbono, el primer paso para convertir el dióxido de carbono en combustible. Los resultados, publicados en Nature Catalysis, muestran por qué importan los datos experimentales altamente reproducibles al construir modelos de IA para la investigación científica."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/for-ai-to-drive-scienc.jpg",
+          "cap": "El estudio, realizado en cuatro laboratorios de todo el país, muestra que la estandarización de los protocolos experimentales y del equipo determina cuánto varían los resultados. Crédito: Adam Hoffman and Greg Stewart/SLAC National Accelerator Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"Es una historia de advertencia sobre qué información se introduce en un modelo de aprendizaje automático, y sobre cómo la consistencia de los datos experimentales determina la fiabilidad de los resultados\", dice Selin Bac, investigadora posdoctoral en UC Santa Barbara y primera autora del artículo."
+        },
+        {
+          "t": "p",
+          "x": "Con un buen modelo, se pueden introducir condiciones como la temperatura, el tiempo de reacción y la composición del catalizador, obtener una predicción de rendimiento y confirmarla con unos pocos experimentos bien diseñados. Eso acelera el ritmo de descubrimiento y aplicación de catalizadores. Además de ahorrar tiempo y dinero, permite examinar condiciones difíciles de recrear en un laboratorio. La investigación de catalizadores suele mirar escalas de solo unos días, pero la desactivación del catalizador, que ocurre a medida que se acumulan impurezas y por la exposición repetida a altas temperaturas, se desarrolla durante meses o años."
+        },
+        {
+          "t": "p",
+          "x": "Entrenar un modelo de IA requiere grandes cantidades de datos de alta calidad. Para generar esos datos, los cuatro laboratorios realizaron experimentos round-robin usando un protocolo acordado de antemano y el mismo catalizador a base de rodio, un método en el que varios laboratorios ejecutan la misma prueba para medir la reproducibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Pero lograr que cuatro laboratorios que trabajaban de forma independiente obtuvieran el mismo resultado resultó mucho más difícil de lo esperado. Al comparar notas, las cantidades de monóxido de carbono que produjeron los cuatro equipos, y de metano, un subproducto no deseado, variaban ampliamente. Un ordenador no puede aprender de cuatro conjuntos de datos que no concuerdan entre sí."
+        },
+        {
+          "t": "p",
+          "x": "\"Fue una experiencia que nos abrió los ojos\", dijo Adam Hoffman, investigador de SLAC y autor principal del artículo. \"Reveló lo complicado que resulta, en la práctica, introducir datos del mundo real en un modelo de aprendizaje automático.\""
+        },
+        {
+          "t": "p",
+          "x": "El equipo desmontó el método pieza por pieza. Las causas de la discrepancia se redujeron a unos pocos factores, y lo que más contribuía a la variación era la intensidad con la que se agitaba o removía la mezcla. Cuando los investigadores de SLAC, junto con Penn State, Stanford y UC Santa Barbara, estandarizaron aún más el procedimiento, los resultados empezaron a coincidir. El equipo elaboró recomendaciones para mejorar la consistencia en el diseño de reactores, los protocolos de operación y las condiciones experimentales."
+        },
+        {
+          "t": "p",
+          "x": "Hoffman dijo que espera que el estudio haga pensar tanto a los experimentalistas como a los científicos de datos sobre cómo pequeñas diferencias de diseño entre laboratorios pueden convertirse en problemas de reproducibilidad y, finalmente, en errores de predicción a largo plazo en los modelos de IA. \"Esperamos que sirva como guía sobre cómo diseñar experimentos destinados a alimentar un modelo de aprendizaje automático.\""
+        }
+      ]
+    },
+    "science/science-one-chain-of-evidence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje grandes ya van mucho más allá de la asistencia en programación: ahora ejecutan solos pipelines de investigación completos. Sistemas como AI-Scientist de Sakana, AutoResearchClaw, DeepScientist y AI-Researcher leen la literatura, formulan hipótesis, ejecutan experimentos y producen artículos comparables a los escritos por humanos. A medida que la calidad aparente subía, surgió otro problema: la verificabilidad. Como el texto se va encadenando paso a paso, los errores que se cuelan a mitad de camino se amplifican sin cambios. El resultado: citas que no existen, código que contradice la descripción del propio texto, y puntuaciones que no se pueden reproducir a partir del código."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
+          "cap": "El pipeline de Science One — un investigador de problemas fundamenta la literatura en PDF, un módulo de exploración genera y evalúa soluciones, y un módulo de escritura y verificación contrasta cada afirmación con la evidencia"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Google Research es Chain-of-Evidence (CoE), un marco que define las propiedades que debe tener un producto de investigación, tal como ACID define las condiciones de confianza de una transacción de base de datos. El principio es uno solo: toda afirmación de un artículo debe llevar una cadena de evidencia registrada (completitud), y esa cadena debe respaldar realmente la afirmación a la que está vinculada (precisión). Una cita alucinada apunta a un artículo que no existe, una puntuación irreproducible desaparece al volver a ejecutar el código, y un método mal descrito significa que el texto y el código describen algoritmos distintos. Los tres casos son afirmaciones cuya cadena hacia la evidencia está rota."
+        },
+        {
+          "t": "p",
+          "x": "El marco Science One es un prototipo construido desde cero alrededor de esta idea. El investigador de problemas construye un grafo de citas mediante la API de Semantic Scholar y lee hasta 100 PDF completos por tema para escribir un resumen de investigación; todas las referencias del artículo final provienen de estas consultas, sin depender de la memoria del modelo. El motor de exploración ejecuta varias ramas en paralelo, con un solver que implementa soluciones y evaluadores específicos de cada tarea que las puntúan, y la salida original de los evaluadores se conserva como registro de solo lectura. Antes de redactar una frase, el escritor del artículo etiqueta cada afirmación factual con una etiqueta de evidencia que apunta a un producto concreto del espacio de trabajo, y un verificador de afirmaciones independiente las contrasta una por una. Las afirmaciones que se adelantan a la evidencia no se eliminan, sino que se reescriben de forma conservadora."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-2.jpg",
+          "cap": "El sistema de auditoría CoE y sus cuatro verificaciones de integridad"
+        },
+        {
+          "t": "p",
+          "x": "Una auditoría CoE es un procedimiento de verificación posterior. Compara las puntuaciones extraídas del artículo con una reejecución independiente del código enviado, comprueba si el código explota la métrica de evaluación o lee directamente el archivo de respuestas, verifica cada referencia una por una mediante APIs académicas, y usa una comparación con un LLM como juez para ver si el método descrito y el código describen el mismo algoritmo. Los investigadores aplicaron esta auditoría a 75 artículos producidos por cinco sistemas en cinco tareas de optimización de sistemas del benchmark ADRS (Prism, Cloudcast, EPLB, LLM-SQL y programación de transacciones)."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-3-Final.png",
+          "cap": "Resultados de la auditoría CoE en los cinco sistemas"
+        },
+        {
+          "t": "p",
+          "x": "Science One lideró en las cuatro medidas. No tuvo ninguna cita fantasma: cada referencia apuntaba a un artículo que realmente podía encontrarse, frente a los sistemas base, cuya tasa de citas alucinadas llegó hasta el 21%. La verificación de puntuaciones fue perfecta, y también tuvo la mayor coherencia entre método y código. Los sistemas base a menudo describían algoritmos elaborados, como un “solver híbrido neuro-simbólico”, solo para presentar código que resultaba ser una simple heurística determinista."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-4-Final.png",
+          "cap": "Comparación del rendimiento del solver en cinco tareas de MLE-Bench y en Parameter Golf"
+        },
+        {
+          "t": "p",
+          "x": "La verificación estricta tampoco tuvo un coste en rendimiento. En las cinco tareas de ADRS, igualó o superó el nivel de un experto humano, y quedó primero en general en Cloudcast y EPLB. En cinco competiciones exigentes de Kaggle dentro de MLE-Bench, obtuvo dos medallas de oro y dos de plata, y logró la puntuación ganadora en detección de objetos 3D, una tarea en la que fallaron todos los sistemas base. En la competición real de Parameter-Golf, que impone restricciones de hardware y de tamaño de archivo, respetó todas las restricciones mientras otros sistemas ni siquiera lograban una presentación válida, registrando la puntuación más alta a fecha del 27 de abril de 2026."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de los investigadores es que la verificabilidad debe tratarse como una restricción arquitectónica de primer orden. En lugar de rastrear la evidencia después de hacer una afirmación, la cadena de evidencia se construye junto con la afirmación en el momento en que se forma. Science One sigue siendo un prototipo de investigación experimental, no un producto."
+        }
+      ]
+    },
+    "science/science-ai-skill-atrophy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA escribe ensayos universitarios, planifica dietas y redacta borradores de correos. Para algunos es una herramienta que ahorra tiempo; otros temen que delegar el pensamiento a una computadora embote la capacidad de pensar por cuenta propia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/073126_MR_ailearning_main.jpg",
+          "cap": "Los científicos dicen que depender demasiado de la IA desgasta las habilidades ya aprendidas. Para mantener o adquirir una habilidad hay que mantener el cerebro dentro del circuito. Credit: exdez/DigitalVision Vectors/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La verdad está en algún punto intermedio, dice Trent Cash, científico del comportamiento en la Universidad de Waterloo, en Canadá. Las habilidades ya aprendidas realmente se embotan cuando la IA se encarga en lugar de la persona. Es el argumento que Cash y sus colegas presentaron el 9 de julio en Trends in Cognitive Sciences. “La evidencia de que entregar una habilidad específica a la IA dificulta conservarla es muy clara.”"
+        },
+        {
+          "t": "p",
+          "x": "La bifurcación está en qué herramienta se usa y cómo. La habilidad se resiente más cuando la IA se hace cargo del esfuerzo mental necesario para aprenderla en primer lugar. En cambio, cuando la persona sigue pensando mientras observa la retroalimentación o los ejemplos de la IA, la habilidad se mantiene, y a veces mejora."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio de 2025, médicos entrenados para detectar pólipos durante colonoscopias vieron caer su tasa de detección de pólipos al trabajar sin la herramienta de IA tras haberla usado durante tres meses. Los autores del estudio concluyeron que los médicos habían “olvidado en cierta medida qué debían buscar”."
+        },
+        {
+          "t": "p",
+          "x": "Para estudiantes de secundaria que aprenden un concepto matemático nuevo, una herramienta como ChatGPT resuelve bien los problemas de práctica. Pero al retirar la herramienta, sus resultados fueron más bajos que los de alumnos que nunca la habían usado. Es lo que reportó en Proceedings of the National Academy of Sciences un equipo dirigido por Alp Sungu, economista de la Wharton School de la Universidad de Pensilvania."
+        },
+        {
+          "t": "p",
+          "x": "La comprensión de lectura mostró un patrón similar. Según un preprint publicado en abril en arXiv.org por un equipo dirigido por Grace Liu, de la Universidad Carnegie Mellon, las personas que usaban un asistente de IA para resolver problemas de práctica del SAT tuvieron dificultades para dar respuestas correctas una vez que la IA desaparecía, y saltaban preguntas con más frecuencia."
+        },
+        {
+          "t": "p",
+          "x": "Cash resume estos resultados en una frase: “lo que no se usa, se pierde.” Se trata de permanecer dentro del circuito cognitivo en lugar de entregarle todo el pensamiento a la IA. “Si no te involucras en el esfuerzo cognitivo, la habilidad no se aprende.”"
+        },
+        {
+          "t": "p",
+          "x": "Usar IA no necesariamente destruye las habilidades. La historia es distinta si la herramienta ofrece guía y ejemplos en lugar de entregar respuestas terminadas, dice Sungu. De hecho, el equipo de Sungu diseñó una IA aparte que daba solo pistas y aliento sin revelar las respuestas, y los estudiantes de secundaria que la usaron aprendieron los nuevos conceptos matemáticos tan bien como los que estudiaron con libros. “Hay que ensuciarse las manos al resolver los problemas.”"
+        },
+        {
+          "t": "p",
+          "x": "Para quien esté dispuesto a hacer el esfuerzo, la IA puede ser un buen maestro, dice Benjamin Lira Luttges, científico del comportamiento en Wharton. Al enseñar a corregir cartas de presentación, la herramienta de IA fue tan eficaz como la retroalimentación de expertos. Incluso cuando la IA reescribió un borrador por completo, los participantes no lo entregaron de inmediato; siguieron ajustando las frases durante un buen rato. “Seguían trabajando.” El hallazgo aparece en un preprint de 2026 en arxiv.org."
+        },
+        {
+          "t": "p",
+          "x": "Incluso una IA que afila la habilidad exige evaluar qué se le entrega. El consejo de Cash es no entregarle a la IA una habilidad que te importa. “Sabemos que la habilidad surge de la práctica y se mantiene con la práctica.” Lira Luttges piensa lo mismo. “No externalices el trabajo que disfrutas y que te da sentido. Lo que hay que externalizar son las tareas tediosas, no el oficio.”"
+        }
+      ]
+    },
+    "science/science-hidden-goals-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje de gran escala (LLM) que sostienen a agentes conversacionales como Gemini o ChatGPT ahora se usan ampliamente para la búsqueda de información, el resumen de documentos y la escritura. Dando un paso más, también están en aumento los sistemas multiagente que combinan dos o más modelos para que cooperen o compitan entre sí."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que los agentes no siempre ven el mismo objetivo. La cantidad de información que cada uno tiene también varía. Entender cómo se comportan los agentes en esta situación es necesario para medir los beneficios y riesgos de los sistemas multiagente."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Mila, la Universidad de Montreal y la Universidad McGill examinaron cómo el objetivo oculto de un agente individual sacude el rendimiento de todo el sistema. Como escenario experimental elegieron Mafia (Werewolf), un juego de deducción social para varios jugadores. El resultado, publicado como preprint en arXiv, fue el siguiente: incluso una pequeña desalineación con los objetivos de los compañeros puede empeorar el rendimiento de todo un sistema multiagente."
+        },
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/hidden-goals-can-under.jpg",
+          "cap": "Imagen creada con ChatGPT. Credit: created with ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Mafia es un juego en el que los jugadores se observan y debaten entre sí para identificar en secreto a quien trabaja para el bando contrario. “Los sistemas multiagente basados en LLM se están desplegando cada vez más en entornos de motivación mixta donde los objetivos en conflicto u ocultos generan asimetría de información y engaño estratégico.” Esa es la frase escrita por investigadores entre los que están Marylou Fauchard y Florian Carichon. Presentaron “un nuevo marco para evaluar la desalineación de objetivos usando el juego de deducción social Mafia”."
+        },
+        {
+          "t": "p",
+          "x": "En el juego, cada participante solo conoce su propio rol. Los aldeanos, que son mayoría, deben encontrar y eliminar a los hombres lobo, mientras que los hombres lobo, que son minoría, conocen la identidad de los demás y deben eliminar aldeanos sin ser descubiertos. El vidente comprueba en secreto el rol de otro participante en cada turno, y el médico salva a una persona de la muerte. Cada noche los hombres lobo eliminan a una persona, y durante el día los que quedan votan para señalar a un sospechoso."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores asignaron a los agentes los cuatro roles y observaron cómo interactuaban entre sí. Luego cambiaron en secreto el objetivo de un solo agente y siguieron cómo ese cambio sacudía el razonamiento, el diálogo y los resultados del juego. Examinaron en paralelo el razonamiento interno de los agentes, la “cháchara barata” (cheap talk) intercambiada hacia fuera, y los resultados de victoria o derrota, a lo largo de distintos modelos, roles y configuraciones de objetivos."
+        },
+        {
+          "t": "p",
+          "x": "“La desalineación de objetivos deteriora los resultados incluso en entornos originalmente adversariales, y la asimetría de información y los roles especializados amplifican ese efecto.” Los investigadores añadieron que los agentes con objetivos modificados desarrollan de forma consistente estrategias de razonamiento distintas, pero “estas adaptaciones son apenas visibles en el comportamiento público”."
+        },
+        {
+          "t": "p",
+          "x": "Cuando los objetivos de los agentes que actúan juntos se desalinean, el rendimiento de todo el sistema se resiente. Hay un punto aún más complicado. El objetivo modificado deja una huella clara en el razonamiento interno, pero apenas se puede leer en las palabras que se intercambian con otros agentes."
+        },
+        {
+          "t": "p",
+          "x": "“Incluso una desalineación de objetivos muy sutil altera de forma considerable la toma de decisiones colectiva. Por eso los sistemas multiagente basados en LLM necesitan estrategias de mitigación realmente eficaces.” Así concluye el artículo. La referencia es Marylou Fauchard et al, Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems, arXiv (2026). DOI: 10.48550/arxiv.2607.26120."
+        }
+      ]
+    },
+    "science/science-jacobian-counterexample": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El matemático de Anthropic Levent Alpöge usó Claude Fable 5 para encontrar un contraejemplo de la conjetura jacobiana, un problema sin resolver durante más de 100 años. El contraejemplo reveló que la conjetura es falsa en tres dimensiones y más, y deja abierto solo el caso bidimensional."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio fue solo una “nota muy informal” publicada en X. Fue el resultado de usar Claude Fable 5, recién presentado. Es también el caso más reciente dentro de una serie de resultados sorprendentes que los matemáticos han producido junto con grandes modelos de lenguaje."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp",
+          "cap": "Un descubrimiento asistido por IA refutó la mayoría de las versiones de la conjetura jacobiana. El contraejemplo es tan corto que cabe en una sola publicación en redes sociales. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La conjetura jacobiana trata sobre funciones polinómicas que llevan las coordenadas de un espacio a otras coordenadas. Sostiene que si el determinante jacobiano de una función se mantiene como una constante distinta de cero, debe existir una función polinómica que la invierta. Si la función fusiona puntos distintos en uno solo, la vía de regreso desaparece."
+        },
+        {
+          "t": "p",
+          "x": "La versión bidimensional fue planteada en 1884 por Ludwig Kraus y extendida a todas las dimensiones en 1939 por Ott-Heinrich Keller. El medallista Fields Stephen Smale incluyó el problema en su lista de 1998 de “Problemas matemáticos para el próximo siglo”. Matemáticos reconocidos presentaron pruebas varias veces, pero se ocultaban errores diminutos. El caso bidimensional solo se había verificado por cálculo hasta el grado 100, sin una prueba general."
+        },
+        {
+          "t": "p",
+          "x": "Encontrar un contraejemplo parecía, en teoría, no ser difícil, y sin embargo se resistió durante mucho tiempo. En 2017, un usuario de Math Stack Exchange escribió que “un estudiante de grado inteligente podría simplemente escribir una fórmula que fuera un contraejemplo de esta conjetura”. La función de Alpöge opera en tres dimensiones, con un determinante jacobiano constante de -2. Como distintas entradas producen la misma salida, no se puede invertir. La solución era tan corta que cabía en una sola publicación en X, y otros matemáticos pudieron verificarla de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados recientes asistidos por IA no se limitan a este caso. Le siguieron la refutación de la conjetura de la distancia unitaria por parte de OpenAI y la demostración de Liam Price del problema 1196 de Erdős. La IA es especialmente buena para entrelazar ideas de distintas áreas de las matemáticas. Mientras que los logros anteriores exigían construcciones elaboradas, este caso consistió en rastrear un enorme espacio de búsqueda de posibles aplicaciones polinómicas. La IA demuestra su valor no solo al construir demostraciones, sino también al encontrar objetos matemáticos inesperados. La autora es Melissa Lee, profesora titular del departamento de matemáticas de la Universidad Monash."
+        }
+      ]
+    },
+    "science/science-stroke-rehab-robot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El ictus golpea a 15 millones de personas en todo el mundo cada año, y deja a 5 millones de ellas con una discapacidad duradera. Los fisioterapeutas escasean, lo que hace aún más difícil que los pacientes reciban una atención constante y de calidad."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Departamento de Ingeniería Mecánica del MIT construyeron un sistema que conecta la inteligencia artificial con la práctica terapéutica. Johannes Lachner y Noah Geiger implementaron un robot de dos brazos añadiendo retroalimentación de fuerza en tiempo real a un modelo de difusión basado en transformers. Lachner es ahora profesor asistente en la Universidad Purdue y antes fue investigador posdoctoral del programa MIT-Novo Nordisk AI. Geiger fue estudiante visitante en el MIT y es becario del programa de gerentes junior de Robert Bosch GmbH."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202508/mit-Lachner-Hogan-Lab.jpg",
+          "cap": "Noah Geiger (izquierda) y Johannes Lachner. Los dos construyeron un sistema robótico de terapia que aprende de fisioterapeutas para ayudar a pacientes de ictus de forma personalizada. Photo: Tony Pulsone/MechE"
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro objetivo es enseñar a los robots a ayudar en la fisioterapia y la terapia ocupacional. No buscamos sustituir a los terapeutas, sino extender el alcance de sus manos.” Son palabras de Lachner. Geiger añadió lo siguiente: “La mayoría de los modelos de IA generativa en robótica se centran en el movimiento. Nuestro modelo está entre los primeros ejemplos que aprenden a responder a la interacción física, es decir, al contacto, la fuerza y la resistencia.”"
+        },
+        {
+          "t": "video",
+          "yt": "AopwOd02GPs"
+        },
+        {
+          "t": "p",
+          "x": "Los datos de entrenamiento provienen de experimentos reales de teleoperación. Participantes sanos repitieron movimientos de rehabilitación, como levantar el brazo o extenderse fuera de un plano, variando la intensidad de la fuerza. “Eso permitió que el modelo aprendiera cómo debía cambiar la asistencia del robot según cuánto se moviera el paciente por sí mismo. Al mismo tiempo, a medida que las personas enseñaban al robot tareas de manipulación con mucho contacto mediante teleoperación, creaban un 'parkour físico del movimiento'.” Explicación de Lachner."
+        },
+        {
+          "t": "p",
+          "x": "La investigación ya pasó al entorno clínico. Junto con la profesora Cristina Piazza de la Universidad Técnica de Múnich (TUM) y Pfennigparade, un centro de rehabilitación ambulatoria en Múnich, Alemania, están registrando a fisioterapeutas y terapeutas ocupacionales tratando a pacientes mientras usan guantes sensibles a la fuerza. “Ya confirmamos en experimentos robóticos iniciales que este enfoque funciona.” Palabras de Lachner."
+        },
+        {
+          "t": "p",
+          "x": "Este resultado se apoya en trabajos anteriores del Laboratorio Newman de Biomecánica y Rehabilitación Humana del MIT. Neville Hogan, profesor Sun Jae de Ingeniería Mecánica, quien dirige el laboratorio, dijo: “Las investigaciones anteriores estaban confinadas a movimientos de alcance sobre un plano. Esta investigación se extiende a movimientos mucho más amplios y cercanos a la vida real.” Puede usarlo pacientes de ictus con deterioro en las extremidades superiores, pacientes que recuperan el rango de movimiento tras una cirugía, y personas mayores que buscan preservar la fuerza del brazo y el hombro."
+        },
+        {
+          "t": "p",
+          "x": "“De cara al futuro, esto puede ir mucho más allá de la fisioterapia: hasta enseñar a los robots a interactuar físicamente con el mundo, como en entornos industriales o espacios de trabajo colaborativo.” Palabras de Lachner. El artículo “Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks” se publicó en IEEE Transactions on Robotics. La investigación contó con el apoyo del programa de investigación posdoctoral MIT-Novo Nordisk AI, el Programa Global de la TUM y KUKA Robotics, de Alemania."
+        }
+      ]
+    },
+    "science/science-ai-designed-phage-genome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Stanford y del instituto de investigación sin fines de lucro en IA y biología Arc Institute crearon nuevos virus usando como plantilla el genoma real del bacteriófago ΦX174, un virus que mata bacterias."
+        },
+        {
+          "t": "p",
+          "x": "Dos modelos de lenguaje de gran tamaño, entrenados con los genomas de más de 2 millones de otros bacteriófagos, produjeron virus que no existen en la naturaleza. En un artículo publicado en la revista Science, los investigadores demostraron que estos virus matan incluso bacterias resistentes a los antibióticos."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/36acacc1-14fe-4ca9-9d20-ed0922585e9a/AI-virus.png?m=1786120719.905&w=600",
+          "cap": "Brian Hie y Aditi Merchant, de la Universidad de Stanford, examinan una estructura de proteína producida por Evo 2, una herramienta de IA que propone diseños de genomas. El resultado de Evo 2, diseñado para matar E. coli, superó las expectativas en los experimentos."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta vez queríamos que el modelo escribiera todo el genoma de izquierda a derecha de una sola vez\", dijo en un comunicado Brian Hie, coautor del artículo y profesor asistente en Stanford. \"No añadimos nada.\""
+        },
+        {
+          "t": "p",
+          "x": "Crear un gen nuevo en sí no es novedad. Lo difícil es un genoma completo que funcione. Los genes están entrelazados, así que sus efectos en cadena deben encajar para que todo funcione como un solo organismo. Una sola mutación puede romper el equilibrio y matarlo todo. Un genoma viral simple es una fracción mínima del tamaño de un genoma humano, pero sigue siendo bastante complejo."
+        },
+        {
+          "t": "p",
+          "x": "El modelo produjo miles de genomas de fagos, y los investigadores sintetizaron químicamente cerca de 300 de ellos. De esos, 16 sobrevivieron y mataron cepas específicas de Escherichia coli, incluidas cepas que habían mutado para resistir el genoma original de ΦX174."
+        },
+        {
+          "t": "p",
+          "x": "Lo que impulsa la investigación es el aumento de bacterias resistentes a los fármacos. Según los Centros para el Control y la Prevención de Enfermedades de EE. UU. (CDC), cada año se registran en el país más de 2.8 millones de infecciones resistentes a antimicrobianos, que matan en promedio a más de 35,000 personas. Un fármaco basado en los 16 fagos sería mejor para combatir cepas resistentes, dijo Hie."
+        },
+        {
+          "t": "p",
+          "x": "\"Si las bacterias se vuelven resistentes a un fago, ese fármaco deja de servir\", dijo. \"Si se mezclan varios fagos genéticamente distintos, es mucho más difícil que las bacterias se vuelvan resistentes a todo el cóctel.\""
+        },
+        {
+          "t": "p",
+          "x": "La utilidad frente a las enfermedades microbianas es enorme, pero los riesgos también son evidentes. En otro artículo publicado en la misma revista Science, los investigadores de salud pública de Johns Hopkins Thomas Inglesby y Moritz Hanke señalaron que el modelo de este experimento excluyó deliberadamente, durante el entrenamiento, los datos genómicos de virus que infectan y matan a personas. No todos serán igual de cuidadosos y éticos, señalan ambos."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta salvaguarda es loable, pero ajustar el modelo con datos de patógenos eludiría parte de ella\", escribieron. \"Qué tan fácil es eso, y hasta qué punto revierte el efecto de excluir esos datos del preentrenamiento, siguen siendo preguntas abiertas.\""
+        },
+        {
+          "t": "p",
+          "x": "Los dos autores sostienen que se necesitan con urgencia nuevos mecanismos de supervisión para evitar que esta tecnología se use para crear virus que dañen o maten personas. También plantean la idea de que organismos multilaterales como los Institutos Nacionales de Salud de EE. UU. (NIH) y la Organización Mundial de la Salud (OMS) elaboren juntos políticas para controlar esta herramienta."
+        },
+        {
+          "t": "p",
+          "x": "\"Si existe o no el diseño generativo de genomas virales ya no es la pregunta\", escribieron Inglesby y Hanke. \"La pregunta es si la sociedad puede construir una supervisión que permita que se desplieguen los beneficios mientras bloquea el camino hacia daños graves.\""
+        }
+      ]
+    },
+    "science/science-ai-hierarchy-safety-compliance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los agentes de IA parecen obedecer a la autoridad, incluso cuando eso implica romper las reglas."
+        },
+        {
+          "t": "p",
+          "x": "En un nuevo estudio, los investigadores hicieron que modelos de lenguaje de gran tamaño mantuvieran conversaciones en roles de jefe-subordinado, director-profesor y gerente-empleado. Los agentes de rango inferior se dejaban persuadir más fácilmente y cumplían mejor las peticiones riesgosas que venían de arriba."
+        },
+        {
+          "t": "p",
+          "x": "La disyuntiva que señalan los resultados resulta incómoda. Una IA que imita de forma plausible la jerarquía humana también reproduce los riesgos que trae la obediencia. Los investigadores informaron esto el 5 de julio en Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics. Los autores sugieren que los desarrolladores tengan en cuenta este riesgo en las pruebas de seguridad y añadan más salvaguardas."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de IA son software que usa inteligencia artificial para realizar tareas por sí solo. Muchos funcionan con modelos de lenguaje de gran tamaño (LLM) que aprendieron patrones a partir de enormes cantidades de texto, incluidas conversaciones humanas."
+        },
+        {
+          "t": "p",
+          "x": "\"A medida que vemos cada vez más datos humanos\", dice Anvesh Rao Vijjini, científico de la computación en la Universidad de Carolina del Norte en Chapel Hill, \"se está replicando lo que ocurre en la dinámica de las conversaciones reales\"."
+        },
+        {
+          "t": "p",
+          "x": "Las relaciones de poder aparecen en la conversación humana de varias maneras, y algunas se vuelven un problema cuando la IA las reproduce tal cual. Los investigadores observaron cuatro patrones de comunicación. Dos de ellos son el sesgo de autoridad, que antepone el rango a los hechos, y el cumplimiento dañino, que consiste en seguir peticiones dañinas que no deberían atenderse aunque parezcan menores, como \"cuéntame un chiste subido de tono\"."
+        },
+        {
+          "t": "p",
+          "x": "Los otros dos son el efecto pronominal, en el que los hablantes de mayor rango usan más pronombres plurales como \"nosotros\", y la alineación lingüística, en la que los hablantes de menor rango imitan el vocabulario de los de mayor rango. Los usuarios casi nunca lo notan, pero los investigadores creen que los agentes adoptaron este patrón de habla para interpretar ciertos roles de manera más convincente."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores crearon cientos de conversaciones de entre 10 y 15 intercambios entre roles de mayor y menor rango, y repitieron el mismo experimento en seis LLM, incluidos el ChatGPT de OpenAI y la familia Llama de Meta."
+        },
+        {
+          "t": "p",
+          "x": "Los patrones ligados a las relaciones de poder sí aparecieron. Algunos efectos fueron sutiles. Los agentes de menor rango usaron menos pronombres plurales que los de mayor rango y adaptaron más su vocabulario al de estos últimos. También se dejaron persuadir más fácilmente y cumplieron peticiones dañinas con más frecuencia. Los resultados respaldan la idea de que los agentes son sensibles al estatus social."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, hubo casos en los que el lado de menor rango persuadió al de mayor rango, aparentemente tomando prestadas técnicas que la gente usa habitualmente. El sutil efecto de imitar el vocabulario propio de la alineación lingüística ayuda a un hablante de menor estatus a influir en el otro, dice Mario Giulianelli, lingüista computacional de University College London que no participó en el estudio."
+        },
+        {
+          "t": "p",
+          "x": "\"Sería realmente interesante ver si un agente puede persuadir a otro a través de la alineación\", dice Giulianelli."
+        }
+      ]
+    },
+    "science/science-argonne-agent-atomistic-sim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación del Laboratorio Nacional Argonne (Argonne National Laboratory) del Departamento de Energía de EE. UU. ha usado inteligencia artificial para automatizar simulaciones que predicen cómo interactúan entre sí los átomos de un material. Este método, llamado simulación atómica, acelera la búsqueda de nuevos materiales para baterías, aeroespacial y electrónica. El estudio se publicó en la revista Digital Discovery."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-automate-ato.jpg",
+          "cap": "El sistema creado por el equipo de Argonne automatiza las simulaciones atómicas de principio a fin usando varios agentes de IA. Un agente supervisor dirige todo el flujo de trabajo y reparte las tareas entre agentes especializados. Crédito: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"Automatizar este tipo de búsqueda exhaustiva reduce el tiempo que toma encontrar nuevos materiales de meses o años a solo días\", dijo Aditya Koneru, autor del artículo y miembro del Argonne Leadership Computing Facility (ALCF)."
+        },
+        {
+          "t": "p",
+          "x": "\"Nuestro sistema reduce la barrera de entrada a la simulación atómica, de modo que toda la comunidad científica pueda usarla con mucha más amplitud\", dijo el coautor principal Subramanian Sankaranarayanan, científico de materiales en Argonne y profesor de ingeniería mecánica e industrial en la Universidad de Illinois en Chicago. En la investigación también participaron el Centro de Materiales a Nanoescala (CNM) de Argonne y el ALCF."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos usan estas simulaciones para ver cómo el comportamiento de los átomos da forma a propiedades de los materiales, como la resistencia o la reactividad. El problema es que son difíciles de manejar sin experiencia en computación. Hay que enlazar a mano, en un orden fijo, un conjunto de herramientas fragmentadas que construyen estructuras moleculares y cristalinas, ejecutan simulaciones y analizan resultados. Explorar materiales significa correr esas simulaciones decenas o cientos de veces mientras se recorren variables. \"La simulación atómica manual es compleja, consume mucho tiempo y es propensa a errores\", dijo Sankaranarayanan."
+        },
+        {
+          "t": "p",
+          "x": "El marco que construyó el equipo ejecuta las simulaciones de forma automática de principio a fin. Es una estructura en la que agentes que procesan tareas, interpretan datos y toman decisiones colaboran con una intervención humana mínima. En el diseño también participaron investigadores de la Advanced Photon Source (APS), otra instalación de usuarios de Argonne. \"Este marco multiagente entrelaza distintas herramientas para que el proceso de ejecutar y analizar simulaciones sea fluido\", dijo Katerina Vriza, exinvestigadora del CNM de Argonne."
+        },
+        {
+          "t": "p",
+          "x": "Usarlo es sencillo. Una persona introduce una instrucción breve, como \"calcula el punto de fusión de una aleación de oro y cobre\", y en pocos minutos recibe una respuesta detallada. La instrucción llega a un agente supervisor, que reparte el trabajo entre agentes especializados: definir disposiciones atómicas, buscar en artículos y bases de datos el modelo matemático adecuado, crear archivos de entrada, enviar tareas a una computadora de alto rendimiento, y calcular y analizar propiedades. Los agentes a veces hacen preguntas de vuelta a la persona."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-deploy-ai-a-2.jpg",
+          "cap": "Los científicos desplegaron agentes para acelerar el descubrimiento de nuevos materiales. Crédito: Argonne National Laboratory"
+        },
+        {
+          "t": "p",
+          "x": "\"Nuestro enfoque reduce un cuello de botella clásico en el flujo de la simulación atómica\", dijo el investigador de Argonne Henry Chan. \"Eso permite a los investigadores aumentar mucho su rendimiento y escala\"."
+        },
+        {
+          "t": "p",
+          "x": "El equipo usó el marco para calcular la estructura cristalina, el comportamiento elástico y el comportamiento vibracional de varios elementos y aleaciones. Las simulaciones se ejecutaron en Carbon, el clúster de computación de alto rendimiento del CNM, y los resultados quedaron bastante cerca de las simulaciones manuales realizadas por expertos en NERSC, del Laboratorio Nacional Lawrence Berkeley."
+        },
+        {
+          "t": "p",
+          "x": "El marco está disponible para que cualquiera lo use. Puede usarse tal cual, adaptarse a otras familias de materiales o, potencialmente, emplearse para operar laboratorios robóticos autónomos. \"Este marco multiagente significa que el flujo de descubrimiento está cambiando desde la raíz\", dijo la coautora principal Uma Kornu, investigadora de la Universidad de Illinois en Chicago. \"Estamos pasando de enlazar a mano herramientas fragmentadas a una era de IA que colabora de forma autónoma\"."
+        }
+      ]
+    },
+    "science/science-claude-novel-cryptanalysis": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una IA encontró nuevas debilidades en dos sistemas criptográficos. Uno es una versión simplificada del Estándar de Cifrado Avanzado (AES), que hoy sostiene gran parte de internet. No hay riesgo inmediato para contraseñas ni cuentas bancarias. Pero los expertos dicen que podría marcar el comienzo de una era en la que la IA se convierta en un asistente capaz de encontrar fallos en los fundamentos matemáticos de la seguridad digital."
+        },
+        {
+          "t": "p",
+          "x": "En una publicación de blog del 28 de julio, el Frontier Red Team de Anthropic dijo que Claude Mythos Preview creó por sí solo nuevas técnicas de criptoanálisis contra dos objetivos. Uno fue una versión de AES-128, un algoritmo de cifrado muy usado. El otro fue HAWK, un esquema de firma digital resistente a la computación cuántica que está bajo revisión en el proceso de estandarización poscuántica del Instituto Nacional de Estándares y Tecnología de EE. UU. (NIST)."
+        },
+        {
+          "t": "p",
+          "x": "Lo que atacó Anthropic no fue el AES-128 completo que protege sitios web y transacciones financieras, sino una versión reducida de 7 rondas que los criptógrafos usan desde hace tiempo para probar nuevas técnicas. El AES-128 completo corre 10 rondas. En un estudio autopublicado que no ha pasado revisión por pares, Milad Nasr y Nicholas Carlini escribieron que Claude encontró una forma más rápida de recuperar la clave en esta versión reducida, 200 a 800 veces más rápida que el mejor ataque existente. La técnica no funciona contra el AES completo y real."
+        },
+        {
+          "t": "p",
+          "x": "El resultado más significativo podría ser el relacionado con HAWK. A diferencia de AES, que ha protegido datos durante más de 20 años, HAWK es un nuevo esquema de firma diseñado para resistir ataques de computadoras cuánticas, y todavía es un candidato bajo revisión en el proceso adicional de estandarización del NIST antes de cualquier despliegue. Zygimantas Straznickas y Stephen A. Weis, de Anthropic, dijeron que Claude identificó una propiedad matemática que nadie había explorado, y que al combinarla con técnicas ya conocidas, recuperar la clave secreta se volvió mucho más fácil."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Espitau, jefe de investigación de la empresa de criptografía poscuántica PQShield y criptógrafo coautor del artículo de HAWK, calificó el trabajo como \"uno de los resultados de criptoanálisis más significativos de este año, quizás el mejor\". \"Sinceramente, es un trabajo excelente, y es exactamente lo que el proceso del NIST está diseñado para producir. Los esquemas candidatos existen para ser atacados antes de desplegarse, no después\"."
+        },
+        {
+          "t": "p",
+          "x": "Espitau explicó que al sumar a las técnicas ya conocidas la única idea que faltaba y que Claude encontró, el margen de seguridad estimado de HAWK se redujo drásticamente. \"Claude Mythos Preview señaló una manera de explotar la simetría de inversión de signo, completando la última pieza de un rompecabezas que la comunidad investigadora venía armando\"."
+        },
+        {
+          "t": "p",
+          "x": "No todos interpretan esto como una IA que supera a los criptógrafos humanos. Roberta Faux, jefa de criptografía de la empresa de seguridad y criptografía cuántica Arqit, dijo a Live Science que \"no hay nada que deba cambiar\", y que tanto Anthropic como criptógrafos externos coinciden en que no es necesario cambiar la longitud de las claves ni los cifrados."
+        },
+        {
+          "t": "p",
+          "x": "Para Faux, la historia más importante es la capacidad de aplicar análisis de nivel experto a gran escala sobre miles de algoritmos que nadie había examinado de cerca. \"No había nada especial en los ingredientes del ataque a HAWK. Solo ensambló con habilidad herramientas que ya existían. Como mucho unas pocas decenas de personas en el planeta examinan en serio a los candidatos poscuánticos, así que superar dos años de revisión muestra lo delgada que es realmente esa capa de escrutinio\"."
+        },
+        {
+          "t": "p",
+          "x": "Para los usuarios, nada cambia de inmediato. La criptografía que protege la banca en línea, la mensajería y la nube no se volvió inútil de la noche a la mañana. Pero para quienes diseñan la próxima generación de criptografía, es una señal de que la IA podría ayudar a probar los cifrados del futuro más rápido y con mayor minuciosidad que hasta ahora."
+        }
+      ]
     }
   }
 }

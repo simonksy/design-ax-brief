@@ -3279,6 +3279,1149 @@
           "x": "The “Voice Warping” feature snaps a played take to the grid while keeping the feel of the original performance."
         }
       ]
+    },
+    "music/concatenator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Charli XCX's seventh studio album, Music, Fashion, Film, came out on July 24. It turns away from Brat's electro-pop toward a more guitar-driven, introspective sound."
+        },
+        {
+          "t": "video",
+          "yt": "_OhDEvEODsc"
+        },
+        {
+          "t": "p",
+          "x": "The track 'No One Lasts Forever' includes a spoken-word passage of David Cronenberg talking about a near-death experience. Charli said this song changed how she sees her life and her work."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/evpNS9KhvWNNpr6gRcMmF6.jpg",
+          "cap": "A. G. Cook and Finn Keane"
+        },
+        {
+          "t": "p",
+          "x": "Producers A. G. Cook and Finn Keane built the track almost entirely live. They recorded heavily distorted guitar alongside vintage synthesizers like the Minimoog and PPG Wave, and used almost no MIDI programming."
+        },
+        {
+          "t": "p",
+          "x": "On the Tape Notes podcast, the pair described that day's jam this way: they ran around the studio plugging in anything they could connect, chasing the ugliest sound they could make."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WJ44S9ZzJgqRc32UcJT3fY.jpg",
+          "cap": "Datamind Audio's audio mosaicing plugin"
+        },
+        {
+          "t": "p",
+          "x": "They fed that pile of sound into Datamind Audio's Concatenator. It is an “audio mosaicing” plugin that analyzes samples by timbre, pitch, and amplitude, then stitches incoming audio together in real time from similar fragments. Think of it as concatenative synthesis run by AI."
+        },
+        {
+          "t": "p",
+          "x": "Cook used the tool to build the drum pattern using only material from the jam. John Kennedy of Tape Notes hosted the conversation."
+        }
+      ]
+    },
+    "music/socanmai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-21-socan.jpg",
+          "cap": "Musical AI CEO Sean Power (left) and SOCAN CEO Jennifer Brown"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN, Canada's largest member-owned music rights organization, has teamed up with domestic tech company Musical AI. They are building a structure to route credit and payment to songwriters, lyricists, and publishers when a member's song influences AI-generated music."
+        },
+        {
+          "t": "p",
+          "x": "There are two starting points. Creators decide whether their music goes into an AI system. If that music contributes to the output, credit and money follow."
+        },
+        {
+          "t": "p",
+          "x": "Under this agreement, SOCAN has recognized Musical AI as an approved technology partner for attribution services. The two will jointly examine consent, attribution, and reporting infrastructure, work meant to understand how members' works are used in AI and to set standards for distribution. No new AI royalty scheme appears right away; the technology and framework underneath it come first."
+        },
+        {
+          "t": "p",
+          "x": "Musical AI CEO Sean Power said, \"The first step is consent, and the next step is attribution, showing how music contributed to the output and how value should flow to artists and songwriters.\" They are also reviewing consent tools built to clearly manage permissions no matter how large a catalog is."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Screenshot-2026-07-21-at-2.47.04---PM.png",
+          "cap": "Screen provided by Musical AI"
+        },
+        {
+          "t": "p",
+          "x": "Musical AI's attribution technology pulls apart AI output to point to which licensed sources influenced it. It measures the contribution of sound recordings and compositions separately, and issues reports that support licensing, liability, and compensation. Think of it as a split sheet for the AI music world."
+        },
+        {
+          "t": "p",
+          "x": "This plumbing matters especially to a rights organization like SOCAN, which already collects license fees and distributes royalties. SOCAN CEO Jennifer Brown said that as AI reshapes the music industry, music creators need transparency, credit, and fair compensation, and that this collaboration lays the groundwork for attribution and compensation. Canada's Minister of Artificial Intelligence and Digital Innovation, Evan Solomon, called it responsible, made-in-Canada innovation."
+        }
+      ]
+    },
+    "music/elevenmusic-vocals-refs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png",
+          "cap": "ElevenLabs has added vocals and reference features to its AI music generation service, ElevenMusic."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs, which researches and develops AI audio, said on July 23 that it had overhauled its AI music generation service, ElevenMusic."
+        },
+        {
+          "t": "p",
+          "x": "The update adds Reference, which uses a sample track to set a song's style and mood, and Vocals, which builds an original song from the user's voice or a library voice."
+        },
+        {
+          "t": "p",
+          "x": "Styles, the feature that keeps a song's distinctive style consistent, now officially supports the latest model, Music v2."
+        },
+        {
+          "t": "p",
+          "x": "Reference is the full release of the sample-track feature previewed in June alongside the launch of Music v2. Uploading a 10-second to 5-minute sample track lets Music v2 build music matched to that track's style and mood. It feeds the model subtle sonic texture directly through real sound, something hard to capture with text prompts alone."
+        },
+        {
+          "t": "p",
+          "x": "Vocals is a new production method that starts from a voice. Simply choosing your own voice or a vocal-library voice produces a complete original song sung in that voice. People who have never made music before can use it too."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs said it put artist rights protection first in this update as well. The company stressed, “We designed it so that every voice and track on the platform can only be used after passing a strict copyright check before the generation stage.”"
+        }
+      ]
+    },
+    "music/landr-fair-trade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LANDR has moved its Fair Trade AI program to a new stage. It added an advance-payment system and expanded its revenue-sharing model so independent artists are directly compensated when their music is used to train AI. More than 30,000 artists have signed up, and the first payouts go out starting this month."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/landr-fair-ai-trade.png",
+          "cap": "LANDR's Fair Trade AI program"
+        },
+        {
+          "t": "p",
+          "x": "At the core is a limited-time advance program that pays $5 per track upfront. The first round runs through July 20. The amount itself is small, but it marks a clear shift in how AI training data is sourced and priced. Until now, most artists got nothing when their music was used to train models."
+        },
+        {
+          "t": "p",
+          "x": "Beyond the advance, there's a steady revenue stream tied to dataset licensing. When LANDR licenses its curated music datasets to AI developers, 25% of net revenue goes back to participating artists, split in proportion to how many tracks each one contributed."
+        },
+        {
+          "t": "p",
+          "x": "LANDR CEO Pascal Pilon said, “The conversation around AI and music has focused almost entirely on what creators stand to lose,” adding, “We're proving there's another path, one that pays artists based on consent.” Even as the technology keeps changing, he said, artists should still get to choose whether to participate and have a chance to profit from that value."
+        },
+        {
+          "t": "p",
+          "x": "First unveiled in 2024, the program is built on consent-based licensing as a core principle. In contrast to practices that scrape music without permission, artists choose to opt in and keep control of their catalog throughout. Those who take an advance can opt out once the amount is recouped or after 24 months, whichever comes first, and can leave immediately by repaying the remaining balance."
+        },
+        {
+          "t": "p",
+          "x": "LANDR, one of the few independent distributors left after DistroKid was acquired by CVC Capital, is shifting from being just a channel for sending tracks to streaming into a broker connecting indie artists with AI developers. Participation is currently open only to LANDR distribution users, which also creates an incentive to move catalogs over."
+        }
+      ]
+    },
+    "music/lorde-about-the-song": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lorde directly criticized Spotify after its AI-powered 'About the Song' feature got the context of her track wrong."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/lorde-calls-out-spotify-over-ai-feature-1024x576.png",
+          "cap": "Lorde calling out Spotify's AI feature"
+        },
+        {
+          "t": "p",
+          "x": "Lorde wrote on her Instagram Story, “At the risk of sounding dramatic, we don't want this.” She added, “Not only is it inaccurate, but reducing a song to the meaning an AI pulled right after it's made feels like it boxes in free interpretation,” and asked, “At the very least, let artists opt out.”"
+        },
+        {
+          "t": "p",
+          "x": "'About the Song' had a limited rollout in February and is now in beta. It scrapes third-party material online to gather background and information on a track. In Lorde's case, the description didn't match the actual song. A Spotify spokesperson confirmed that the wording Lorde flagged had already been “removed.”"
+        },
+        {
+          "t": "p",
+          "x": "Lorde's criticism echoes broader industry concerns about AI. Many AI tools are still in development and face criticism for being inaccurate or feeling inauthentic."
+        },
+        {
+          "t": "p",
+          "x": "SZA also recently vented on Instagram about indiscriminate AI data scraping. Calling out the AI company Suno by name, she said, “as a musician if you support this shit it's disgusting.” She also claimed Suno is training its product on the talent of Black writers and producers."
+        },
+        {
+          "t": "p",
+          "x": "She wrote, “we are 13% of the U.S. population but influence the world with our sound and perspective,” adding, “do not feed your genius to AI.”"
+        }
+      ]
+    },
+    "music/maqam-archive": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Khyam Allami has bundled hundreds of Arabic tuning systems, ajnas, and maqamat into a free public archive, alongside a matching MIDI plugin. The work grew out of research he presented in Beirut, and it splits into two main parts."
+        },
+        {
+          "t": "p",
+          "x": "The first is the Digital Arabic Maqam Archive. Built by Dr. Khyam Allami and Ibrahim El Khansa of the Music Intelligence Research Lab at the American University of Beirut, it's a multilingual open-source platform that serves as both a corpus and an API for Arabic maqam theory. It's viewable in English, Arabic, and French at diarmaqar.net, and the source is also open on GitHub."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/archive-1024x772.png",
+          "cap": "The Maqam Archive screen, showing several tuning models side by side"
+        },
+        {
+          "t": "p",
+          "x": "The archive visualizes tunings in multiple ways, including string length, fret position, pitch sets, staff notation, and cents. It lets users compare Western and Arabic theoretical models side by side, from both modern and historical perspectives."
+        },
+        {
+          "t": "p",
+          "x": "The second part is the Tanghim MIDI plugin. A free, open-source tool for macOS, Windows, and Linux, it lets users apply tunings within software and adjust them in real time. It supports Oddsound MTS-ESP, MPE, and monophonic pitch bend, so it also works with older MIDI gear. Because Ableton Live doesn't natively support MIDI effects, the release also includes a Max for Live device."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/tanghim-ui-1-1024x799.png",
+          "cap": "The Tanghim plugin interface, adjusting tuning in real time"
+        },
+        {
+          "t": "p",
+          "x": "Tanghim is an Arabic word for the act of fixing a pitch and building a sound. It's a different concept from dozan, the mechanical tuning of an instrument's strings, and aims to capture how performers actually tune and move between pitches. Allami and scholar Sami Abu Shumays have argued that existing software fails to properly capture what performers actually do."
+        },
+        {
+          "t": "p",
+          "x": "Allami sees the work as an attempt to reopen music that 20th-century theory and technology flattened through standardization. The same approach, he says, could extend beyond Arabic maqam to other musical traditions."
+        }
+      ]
+    },
+    "music/talk-to-spotify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify has introduced a ChatGPT-style conversational AI called 'Talk to Spotify.' The beta targets Premium users aged 18 and up in the U.S., Ireland, and Sweden, and can be called up directly from the home screen and the now-playing screen. It shifts away from passive algorithmic recommendations toward active listening through back-and-forth prompts."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png",
+          "cap": "Introductory image for the conversational AI feature 'Talk to Spotify'"
+        },
+        {
+          "t": "p",
+          "x": "Users can change a session in real time with requests like 'play an artist I haven't heard,' then refine it further with something like 'a bit more upbeat.' They can also ask about a playing track's release date, genre, or the story behind it, or check when they first listened to it this year."
+        },
+        {
+          "t": "p",
+          "x": "Music discovery has long relied on passive algorithms like search and Discover Weekly. The conversational approach turns this into a specific, person-by-person dialogue, widening opportunities for niche artists too. As the AI processes a request, it scans metadata, tags, and audio profiles."
+        },
+        {
+          "t": "p",
+          "x": "What artists and marketers need to prepare becomes clearer too. Metadata like genre, mood, BPM, and credits becomes non-negotiable groundwork first. To get caught by a request like 'upbeat hidden songs from the last three years,' details have to be filled in carefully at the distribution stage."
+        },
+        {
+          "t": "p",
+          "x": "Spotify for Artists information needs to be filled in as well. Since the AI pulls directly from data within the ecosystem, artists should write influences, hometown, and recent history into their bio, and use clips and Canvas to hold fans on the now-playing screen. Having songwriting and producer credits in place also means production-related questions get answered."
+        },
+        {
+          "t": "p",
+          "x": "What happens outside the platform matters too. Because the chatbot relies on a language model trained on the internet, interviews, Genius annotations, press releases, and Wikipedia become sources for its answers. It helps to annotate lyrics on Genius with meaning and circulate press releases on a blog that carry narrative and themes. Another option is teaching fans on TikTok or Reels how to write prompts, nudging them with something like 'ask Talk to Spotify to play my new song.'"
+        }
+      ]
+    },
+    "music/audioauditor-ai-detect-toolkit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's always welcome to find a tool that offers broader features for free and open source than its paid alternatives. AudioAuditor is exactly that kind of case. As a desktop and command-line (CLI) app, it bundles music listening and analysis into one package."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/AudioAuditor-728x364.jpg",
+          "cap": "AudioAuditor — a free, open-source audio analysis and playback toolkit with AI music detection built in"
+        },
+        {
+          "t": "p",
+          "x": "Developer Angel2mp3 built it with Microsoft .NET 8. The desktop app currently runs only on Windows 10 and above, while the CLI version supports Windows and Linux, with macOS still in progress."
+        },
+        {
+          "t": "p",
+          "x": "The analysis engine includes full metadata editing, advanced spectrum analysis, fake stereo, fake lossless, and MQA detection, AcoustID fingerprinting, loudness and dynamics, clipping and silence detection, and AI detection in beta."
+        },
+        {
+          "t": "p",
+          "x": "With AI music everywhere these days, the AI detection feature is naturally what catches the eye. Several tools already exist, like Deezer's AI Music Detector or SubmitHub's AI Song Checker, but free browser versions give fast results at the cost of thin information. If AudioAuditor can show more detail by examining watermarks and byte patterns, it could serve as an alternative to paid services. Still, there's a long way to go before the results become reliable."
+        },
+        {
+          "t": "p",
+          "x": "The developer makes this clear: “AudioAuditor's AI detection tries to make the most of verifiable evidence, but the results can still be inaccurate.”"
+        },
+        {
+          "t": "p",
+          "x": "The lack of telemetry also stands out. Unless you use music service integrations, there's no internet activity, usage isn't tracked or shared, and nothing you play or analyze is used to train generative AI."
+        }
+      ]
+    },
+    "music/canada-only-humans-authors-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Music Publishers Canada (MPC) has formally intervened in a Canadian court dispute over whether AI-made creations are protected by copyright, and whether an AI tool can be recognized as a work's “author” alongside a human creator."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-Canada.png",
+          "cap": "Canada's test case over AI copyright"
+        },
+        {
+          "t": "p",
+          "x": "The case centers on a work called 'Suryast,' made by Ankit Sahni using an AI tool called RAGHAV. It concerns a visual work, but the MPC believes the outcome “will significantly affect how Canadian law determines whether music made with the help of generative AI tools is eligible for copyright protection.”"
+        },
+        {
+          "t": "p",
+          "x": "The MPC's position is clear: “Under copyright law, an author can only be a human being,” and “while a work made by a person with the help of an AI tool may receive copyright protection, the AI tool itself should not be recognized as the legal 'author.'”"
+        },
+        {
+          "t": "p",
+          "x": "Sahni took a photo of a sunset, then had RAGHAV redraw the image in the style of Vincent Van Gogh's 'The Starry Night,' and tried to register the resulting 'Suryast' for copyright in several countries, including the United States and Canada. The U.S. Copyright Office refused the registration, on the grounds that only a human can be an author, so AI creations don't enjoy copyright, and that Sahni's prompt alone was hard to consider human creativity."
+        },
+        {
+          "t": "p",
+          "x": "By contrast, the Canadian Intellectual Property Office registered 'Suryast' for copyright in 2021, listing Sahni and RAGHAV as joint authors. That registration has since been challenged in court, and the case is still ongoing. The MPC, granted leave to intervene last month, argued that “Canada's approach to determining copyright protection for works made with AI tools should be consistent with the approach taken by other countries around the world.”"
+        }
+      ]
+    },
+    "music/human-first-label-needs-teeth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The most interesting part of Jason English's research on AI and streaming isn't the blind spot itself, but a single line he tossed off almost in passing near the end."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
+          "cap": "A 'Human First' label asserting that the music was made by a person"
+        },
+        {
+          "t": "p",
+          "x": "“The 'Human First' label that has emerged among independent artists and labels is a market response to that blind spot working in reverse. Audiences are paying attention. Artists who clearly state that a song was actually written, performed, and sung by a human are expanding into territory that their AI-heavy peers are effectively handing over for free.”"
+        },
+        {
+          "t": "p",
+          "x": "The problem is that anyone can type out this label and slap it on an image or webpage for their own purposes. As it stands, it carries no value as a signal. A label nobody can verify is just a 'vibe.'"
+        },
+        {
+          "t": "p",
+          "x": "Every label that has carried real meaning has had something backing it up. 'Organic' certification comes with audits and paid inspectors, 'Fair Trade' comes with traceability, and 'Made in Italy' comes with customs law and enforcement units. The claim is what's visible, but what makes that claim worth looking at is, in the end, enforcement."
+        },
+        {
+          "t": "p",
+          "x": "Software has already been through the same fight. The Open Source Initiative (OSI)'s answer wasn't to audit every project, but to maintain a single definition and keep it outside the companies that benefit from it, so that anyone could check a claim against it in ten seconds."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Screenshot-2026-07-28-at-11.12.38---AM.png",
+          "cap": "A screenshot of the HeartMuLa Explore page — courtesy of HeartMuLa"
+        },
+        {
+          "t": "p",
+          "x": "In music, though, a definition alone isn't enough. “A human sang this song” isn't something you can verify by pulling it apart, and there's no reliable detector for that, at least not yet. So enforcement has to come from somewhere else: the upload window. Every release already passes through distributors like DistroKid, CD Baby, TuneCore, and Bandcamp, and they already use contracts and account suspension as leverage to make people attest to several things."
+        },
+        {
+          "t": "p",
+          "x": "The author proposes breaking that attestation down into five lines. Songwriting, performance, and lead vocals would each be marked human/AI-assisted/AI-generated, while the production chain (mastering, stem separation, cleanup) and marketing assets (copy, artwork, video) would be marked by whether AI was used. Fans would then get five concrete items instead of a vague 'vibe,' and the platforms that already hold the contracts, accounts, and kill switches would effectively become the enforcement layer."
+        },
+        {
+          "t": "p",
+          "x": "The sample comes with caveats. The 573 respondents were self-selected, drawn from the listenership of a podcast covering Americana, folk, roots, bluegrass, and country. The 81% who saw AI music as lacking authenticity should be read as a signal from one slice, not a cross-section of the market. The author, Cynthia Zhu, discloses that she herself works in GenAI music — creators who don't use AI put fan concern over human authorship at 67%, while frequent AI users put it at 14%, a gap of 4.7 times. Just as open source didn't rely on anyone's honesty, the piece's point is that 'Human First' needs teeth before someone hollows it out."
+        }
+      ]
+    },
+    "music/labels-ban-ai-slop-charts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A major-label coalition including Sony Music, Universal Music Group, and Warner Music Group has called for AI slop tracks to be excluded from global music chart tallies. It's a pushback against synthetic songs climbing all the way to the top of charts like the Billboard rankings or Spotify's popular songs list."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/intro-1785343993.jpg",
+          "cap": "A graphic representing AI-made music"
+        },
+        {
+          "t": "p",
+          "x": "According to The Hollywood Reporter, the coalition, which also includes many small and independent labels, is demanding stricter rules from chart companies aimed at AI-generated music. To be eligible for chart tallies, a song should basically be human-made, and if AI was involved, the way it was used must be clearly lawful. Earlier, Sony and other majors filed a series of lawsuits claiming that AI music generators like Suno and Udio trained their models on their music without permission. The coalition believes that music that could amount to streaming fraud shouldn't enter any chart in the world."
+        },
+        {
+          "t": "p",
+          "x": "Streaming companies are coming under growing pressure from the music industry over AI transparency. Earlier this month, the Recording Industry Association of America (RIAA) and the International Federation of the Phonographic Industry (IFPI) proposed a labeling system that would mark songs on streaming apps as fully or partially AI-generated. Apple has already introduced an AI “transparency tag” that works in a similar way, but for now, whether it's applied is up to labels and distributors."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, tech companies keep lowering the bar so that anyone can make music with a single prompt line. Google's Lyria Pro 3 can now produce tracks up to three minutes long, and lets users generate specific sections like intros, choruses, and bridges separately. Last year, Spotify had to remove more than 75 million 'spam tracks,' and platforms like Deezer are reported to receive tens of thousands of AI-generated songs every day."
+        }
+      ]
+    },
+    "music/soundboost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SoundBoost unveiled AI mixing and mastering driven by natural-language text prompts. Describe the sound you want in words, and a producer can lock in the master from that."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A free stem splitter is included too, and the company touts its models as 'ethically trained.'"
+        },
+        {
+          "t": "p",
+          "x": "It says more than 130,000 musicians already use it, with an eye on changing how tracks get finished."
+        }
+      ]
+    },
+    "music/music-artist-growth-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "690at7zkkqk"
+        },
+        {
+          "t": "p",
+          "x": "Artist Growth unveiled what it calls the music industry's first MCP server. It wires the operational data used by agencies, managers, promoters, and labels straight into major AI models."
+        },
+        {
+          "t": "p",
+          "x": "Once platform data is connected to large language models like ChatGPT, Claude, Gemini, and Copilot, complex administrative work — building tour schedules or run-of-show documents — gets done in seconds with just a few short sentences."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
+          "cap": "Artist Growth co-founder and CEO Matt Urmy (photo: Artist Growth)"
+        },
+        {
+          "t": "p",
+          "x": "In the words of co-founder and CEO Matt Urmy: “I've watched customers finish in under 20 seconds what used to take 45 minutes, or information that used to take days of digging.”"
+        },
+        {
+          "t": "p",
+          "x": "Permissions carry over as well. The role-based access Artist Growth grants users extends to the language model, so teammates and outside partners alike can only touch data they're cleared for — preventing leaks or scheduling mix-ups. The MCP is listed on the ChatGPT app store, and connects to Claude, Gemini, and Copilot as a connector in minutes."
+        }
+      ]
+    },
+    "music/music-omni-daw": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ZETNTQjv40I"
+        },
+        {
+          "t": "p",
+          "x": "OMNi is a free DAW written entirely in Rust by developer Tomasz Głuc. It's still at alpha 0.1, but it leads with performance and stability, built on a lock-free architecture that keeps audio from dropping out."
+        },
+        {
+          "t": "p",
+          "x": "What sets OMNi apart is AI wired directly into the workstation. The developer bills the program as the world's first DAW with native AI sample generation and image-to-sound synthesis."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/TomaszGluc-OMNi-728x364.jpg",
+          "cap": "The OMNi interface (photo: Bedroom Producers Blog)"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs handles sample generation. Set values like length or how closely to follow the prompt, and it quickly produces the sound you want. The package also includes Iris, an engine that reads an image as a spectrum and turns it into sound."
+        },
+        {
+          "t": "p",
+          "x": "The built-in toolset is substantial too: 14 synth engines, ranging from the 16-voice PolySynth and drum synths to physically modeled acoustic instruments, plus 16 built-in FX, from precision EQ and limiters to granular clouds."
+        },
+        {
+          "t": "p",
+          "x": "It runs as a standalone on Windows and Linux and supports LV2, CLAP, and VST3 plugins. There's no Mac version yet, though."
+        },
+        {
+          "t": "p",
+          "x": "Writer James Nugent examined the development process. “I was a little disappointed the developer wasn't as transparent about this topic as I would have liked,” he said, adding that this is no slapped-together project — it's a DAW built up from more than 270,000 lines of Rust."
+        }
+      ]
+    },
+    "music/music-soundid-voiceai-cpop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sonarworks added a new C-pop voice expansion pack to its vocal conversion tool, SoundID VoiceAI. It brings in 10 Chinese-market voices — five male, five female — built to fit styles like Mandarin and Cantonese pop."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+          "cap": "SoundID VoiceAI C-pop Chinese-market voice expansion pack (photo: Sonarworks)"
+        },
+        {
+          "t": "p",
+          "x": "These voices were trained only on properly licensed, copyright-respecting audio. They're aimed at creators doing sync or library work, or making guides and demos when they can't find a singer to actually perform the part."
+        },
+        {
+          "t": "p",
+          "x": "Sonarworks emphasizes AI ethics. Its stated position is that “AI should enhance creativity, not replace it.” The company says SoundID VoiceAI was built to support people rather than push them out, and that every voice was made with professional singers who gave clear consent and were fairly compensated."
+        },
+        {
+          "t": "p",
+          "x": "It runs as a VST3, AU, or AAX plugin on Windows 10 or later and macOS 11 or later. It costs $29 and is available to buy right now."
+        }
+      ]
+    },
+    "music/music-i-am-choir": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Am I Audio has released its first plugin after years of development. Made together with Tokyo-based music technology company Neurotone, Inc., I Am Choir takes a single vocal track and expands it into a choral arrangement while keeping the original lyrics and melody intact."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
+          "cap": "Am I Audio I Am Choir — an AI vocal ensemble plugin"
+        },
+        {
+          "t": "p",
+          "x": "The company asks that the plugin be seen not as a composing or songwriting tool but as a \"timbre transfer\" processor. It compares this to an amp simulator, except instead of making a sound come out as if it passed through an amp, it comes out as if a choir sang it. On top of layering the voice, it includes a harmony engine that adds harmonies a third or fifth above or below the input melody. Scale and key are chosen by the user."
+        },
+        {
+          "t": "p",
+          "x": "No cloud is involved. All processing runs directly on the user's own computer."
+        },
+        {
+          "t": "p",
+          "x": "Three choirs. It was made with three groups of singers, all of whom knew how their voices would be used and agreed to it. They were paid for the work and also share in the plugin's royalties."
+        },
+        {
+          "t": "p",
+          "x": "The gospel choir was trained with a Los Angeles gospel choir coordinated by Eric Howard, and the children's choir with the MUSYCA Children's Choir. Shout was made from the voices of artists, writers, and producers that Am I Audio already knew."
+        },
+        {
+          "t": "p",
+          "x": "On its use of AI, Am I Audio said: \"I Am Choir was built through direct collaboration with incredible singers. All voices were sourced ethically, with knowledge and consent. The singers involved were compensated for their work and share in the tool's success through royalties.\""
+        },
+        {
+          "t": "p",
+          "x": "They added: \"We believe nothing can replace the human magic of gathering in a room to sing together. This tool isn't a replacement for that experience, but an expansion of possibility.\" The goal, they said, is to open up sounds and workflows to artists that cost or physical distance had put out of reach, while still respecting the people who made those sounds."
+        },
+        {
+          "t": "p",
+          "x": "It runs on macOS 12 or later, with a Windows version in development. It supports VST3, AU, and AAX. It's available for purchase now, with a launch price of $169 instead of the regular $199 through September 1, 2026."
+        }
+      ]
+    },
+    "music/music-push-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/Push-Hack-Installation.png",
+          "cap": "The Push Hack installation screen"
+        },
+        {
+          "t": "p",
+          "x": "Peter Kirn's piece opens with a warning: \"If you don't like unauthorized hacking, this isn't for you. If you don't like things built with AI-assisted coding agents, this isn't for you.\" If unauthorized hacking bothers you, or if things built with AI coding agents bother you, this isn't for you. But if you still want to take full control of the Push 3's display, drive, and MIDI, there's Push Hack, just released by Federico Pepe."
+        },
+        {
+          "t": "p",
+          "x": "How it works is simple: you SSH into the Linux running underneath the Push 3 standalone and layer modular modifications on top."
+        },
+        {
+          "t": "p",
+          "x": "Pepe is a certified Ableton trainer and brand manager. He first became known for getting Flappy Bird and Doom running inside Ableton Live's Extensions."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/pushmidimonitordisplay.jpg",
+          "cap": "A MIDI monitor displayed on the Push 3's screen"
+        },
+        {
+          "t": "p",
+          "x": "Six modules exist so far: Push Manager, a file and project management tool resembling Move Manager; USB drive support using the USB-A port; full display takeover that lets you load images and video; MIDI takeover, which handles and intercepts every pad and parameter bidirectionally; LED color and animation control pulled apart through reverse engineering; and system monitoring that shows CPU, memory, disk, and network."
+        },
+        {
+          "t": "p",
+          "x": "Pepe's explanation of the MIDI side is clear: \"With the 'Intercept' mode enabled, messages from Push are read but not forwarded to Push's software, so you can use buttons, knobs, etc to control things without triggering anything on the main software.\" With Intercept turned on, messages sent by Push are read but not passed along to the main software. You can use the buttons and knobs to control something else without anything happening on the original screen."
+        },
+        {
+          "t": "p",
+          "x": "On top of that sits a Shadow UI layer, which opens up behavior outside the default interface."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/hackpushcolors.jpg",
+          "cap": "Even LED colors and animations are within reach"
+        },
+        {
+          "t": "p",
+          "x": "Kirn noted that this kind of reverse engineering is exactly the sort of thing machine learning is good at. He went on to raise the possibility of Ableton officially embracing this, and argued that manufacturers should put out their own APIs that let people modify the gear they bought."
+        }
+      ]
+    },
+    "music/music-spotify-merlin-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify once again let slip a new product during its Tuesday second-quarter earnings call: a product that lets fans use AI to cover and remix artists' songs, built on artist consent."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg",
+          "cap": "The Spotify logo on a phone screen (Photo: Klaudia Radecka/NurPhoto / Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Announced alongside it was Merlin's involvement. Merlin, the licensing partner that represents independent labels and distributors, has joined this AI music project following Universal Music Group (UMG). More than 30,000 labels in Merlin's network will be attached to the product, letting fans make covers and remixes using songs from artists who have said they want to take part."
+        },
+        {
+          "t": "p",
+          "x": "Spotify is drawing a line between its product and the AI music startups that have drawn controversy for churning out fully artificial songs. Co-CEO Gustav Söderström told investors the product is about \"real artists, not fake artists.\""
+        },
+        {
+          "t": "p",
+          "x": "Co-CEO Alex Norström added: \"We want artists to opt in and put their work into this catalog, and let people play with covers and remixes based on that work. Of course, they get credit. And finally, on top of consent and credit, we're building in compensation too. It's basically the first legitimate way to ride the AI tailwind that's coming to interactive music.\""
+        },
+        {
+          "t": "p",
+          "x": "AI music has already swamped streaming. Deezer recently said more than 50% of tracks uploaded daily are now AI-made, up from 10% in January 2025."
+        },
+        {
+          "t": "p",
+          "x": "A research preview will open first to a limited set of users. Spotify said it can launch without the full catalog, though it didn't say when. The product will come as a paid add-on, and artists get a new revenue stream. Söderström said, \"Generic generative music is going to happen whether we're there or not. This product doesn't happen without us, and it has to exist for existing artists to participate.\""
+        }
+      ]
+    },
+    "music/music-suno-vinyl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
+          "cap": "Suno Vinyl — prompt-made songs come out as physical records"
+        },
+        {
+          "t": "p",
+          "x": "Suno is launching a service that presses music made on its generative AI platform into physical records. Suno Vinyl lets you pick tracks from your library and bundle them onto a single record, with up to 46 minutes of audio on one 12-inch."
+        },
+        {
+          "t": "p",
+          "x": "For the cover, sleeve, and label, you upload your own artwork or generate one with Suno. Once everything is chosen, the record gets pressed and mailed to your home."
+        },
+        {
+          "t": "p",
+          "x": "The price is set at $45, not including shipping. The material is 12-inch black PETG, which Suno describes as eco-friendly. The service is still listed as coming soon, and the first pressing run is reserved for users who join the waitlist."
+        },
+        {
+          "t": "p",
+          "x": "The timing of the launch isn't easy. Disputes over its training methods and use of copyrighted material are ongoing, and earlier this month Suno lost a ruling in Germany over using copyrighted recordings to develop its model."
+        },
+        {
+          "t": "p",
+          "x": "Last month, a hack revealed that Suno had scraped song data from YouTube, Deezer, and Genius. In November 2025, reports emerged that the company churns out a volume equivalent to Spotify's entire catalog every two weeks."
+        },
+        {
+          "t": "p",
+          "x": "In early 2025, comments CEO Mikey Shulman made in an interview drew criticism. He said most musicians don't enjoy making music, remarking, \"it's not really enjoyable to make music now [..] It takes a lot of time, it takes a lot of practice.\""
+        },
+        {
+          "t": "p",
+          "x": "Platforms have already split in their response. This year, Deezer and Apple Music have blocked AI music from monetizing or tagged it as such, while Bandcamp has banned it outright."
+        }
+      ]
+    },
+    "music/music-ai-chart-rules": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On July 30, IFPI began applying new chart-entry rules to the official charts it runs in Latin America, the Middle East, Africa, and Southeast Asia. It has also started working with national bodies to bring in roughly twenty more."
+        },
+        {
+          "t": "p",
+          "x": "Recordings made with generative AI now need to meet three conditions to make the charts: the AI service used must be a licensed, legitimate one, the track must be 'substantially human-made,' and there must be no concern about streaming or chart manipulation. Eleven record labels put out this rule a day earlier, and the three majors are among them."
+        },
+        {
+          "t": "p",
+          "x": "Twenty days before that, eight organizations proposed a labeling system. An uppercase 'AI' if the lead vocal, a primary performance, or the entire song came from a model. A lowercase 'ai' if a human-performed recording only had part of its expression touched by a model."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/7-13-AI-news.webp",
+          "cap": "The AI labeling system the industry proposed"
+        },
+        {
+          "t": "p",
+          "x": "Read the July 10 statement to the end, and one sentence stands out. The system 'does not, at this time, address the use of generative AI in lyrics, composition, music videos, or cover art.' The entire songwriting stage was pushed out of scope in a single clause."
+        },
+        {
+          "t": "p",
+          "x": "It's easy, but wrong, to assume composition was simply too hard to tackle. Apple Music rolled out transparency tags across four categories in March, tracks, composition, artwork, and music videos, and its composition tag covers lyrics too. The industry dropped a category a major DSP had already built four months earlier, right out of its own standard."
+        },
+        {
+          "t": "p",
+          "x": "There is a reason. Performance leaves an acoustic fingerprint. Deezer built a detector that catches it, and Billboard uses that detector to screen AI tracks out of its charts. Composition leaves nothing. A chord progression has no spectral signature, and there's no test that can tell a verse written by a model apart from one written at a kitchen table at two in the morning."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that 'substantially human-made' has become a chart rule. What that question is actually aimed at is a place no one can verify."
+        },
+        {
+          "t": "p",
+          "x": "A real case came up in January. IFPI Sweden pulled AI artist Jacub's 'Jag vet, du ar inte min' from the Sverigetopplistan on the grounds that it was mostly AI-made. The team didn't dispute the recording. Instead, they countered that it went through 'an intensive, deliberate, human-led creative process guided by a clear artistic vision.' The weight of the defense landed on the writing, not the vocals."
+        },
+        {
+          "t": "p",
+          "x": "Songwriting already has its own set of working rules. ASCAP, BMI, and SOCAN jointly advised against registering fully AI-made works. Songs with partial AI use are fine. That line sits at 100%, while the line on the recording side sits at 'substantially human.' There are two standards, and nothing lines them up, and registration is where the money is."
+        },
+        {
+          "t": "p",
+          "x": "So for someone writing a song with this tool, the first question they'll face isn't what sticker ends up on the track. It's what to put on the registration form, and whether every co-writer who worked on it gives the same account."
+        },
+        {
+          "t": "p",
+          "x": "Audiences are already split. In a July survey from Luminate, 38% of Americans said they're less interested in music made with generative AI, while 28% said they're more interested. A label tells you who sang it. No system in July tells you who wrote it."
+        }
+      ]
+    },
+    "music/music-ai-poison-genre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There's a new trend taking shape: artists recording and posting music that's deliberately weird, or flat-out bad, hoping AI will scrape it up and 'learn' something. It's different from more sophisticated data poisoning. The adversarial noise work by Benn Jordan that CDM covered earlier was designed to be inaudible within the final output."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/smokethissong.jpg",
+          "cap": "'Poison' music made on purpose to target AI"
+        },
+        {
+          "t": "p",
+          "x": "This one is far more blatant. Tucson's MattstaGraham runs a series called Uploading Crappy Music Everywhere to Confuse Gen AI, a collection of 'anti-bangers.' CDM wrote that it wasn't especially convinced. 'PISS CHAMP,' it noted, sounds like what you'd get at the very bottom of Bandcamp."
+        },
+        {
+          "t": "p",
+          "x": "A few of them, though, are surprisingly listenable. Maybe breaking music down is something we should have been doing all along. Luke Nickle's 'hey ai come train on this song' plays like a 'Talking World War III Blues' for the anti-data-center crowd. CDM called the track a straight-up banger and said everyone should learn it and sing along."
+        },
+        {
+          "t": "video",
+          "yt": "zb4oPT-1Wvg"
+        },
+        {
+          "t": "p",
+          "x": "River, aka iamriverhawk, is cranking out short videos nonstop. It's the kind of thing more likely to win over fans of experimental and absurdist music than machines. It's funny that AI-written lyrics already sound like this, there's a sense that all meditation music should sound this way, and there's even a song for everyone who lost their job to AI."
+        },
+        {
+          "t": "p",
+          "x": "CDM's conclusion is that it's not sure whether AI is confused, but it sure is. It added that if there's any poison music it missed, let it know, and said it was going to go look at some normal writing and music for a bit."
+        }
+      ]
+    },
+    "music/music-fenix-flexin-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A couple months ago, Music Ally covered the case of Fenix Flexin. His viral hit 'Rubberz' was facing accusations of being AI-made, while he himself seemed genuinely confused by the claim. Much of it came down to the 80s-style synth sound being so different from his usual rapping. In a shared video interview, Flexin and producer Purpz on the Beat sidestepped the question of 'is this AI music.' It was a fair point that, with so many DAW tools already using AI, there's a good chance AI touched almost any given song."
+        },
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-74.png",
+          "cap": "Fenix Flexin"
+        },
+        {
+          "t": "p",
+          "x": "The problem is that 'Rubberz' is genuinely the kind of song that could become a real summer hit. It's good, odd pop, and live audiences sing along at the top of their lungs. It's moving past TikTok virality and climbing actual music charts."
+        },
+        {
+          "t": "video",
+          "yt": "Hl5_Lc6b3AU"
+        },
+        {
+          "t": "p",
+          "x": "But what if it really was made by AI? What would that mean for Flexin, for those of us who enjoy music, for charts and truth and artistry? What happens next is predictable. 'Rubberz' is now facing even bigger accusations of being AI-generated. It still has to carry the label 'accusation,' but this time it's a bit more convincing. The claim comes from artist Medasin, who titled a TikTok post with more than 2 million views 'I present to you 'The Reckoning of Fenix Flexin & Purps'.'"
+        },
+        {
+          "t": "p",
+          "x": "Medasin says the song was 'entirely' AI-generated and that its creators are 'lying.' He claims the two used an AI platform called Trebolo, now rebranded as Sonauto, and demonstrates that even very basic prompts produce songs and lyrics that sound similar to 'Rubberz.'"
+        },
+        {
+          "t": "p",
+          "x": "What seems to anger Medasin most is something else: that the production team won't admit the song was AI-generated and instead presents it as Flexin's own creation, while actually profiting off other artists' work that was used to train the model. He names the label Empire and even the founders of Sonauto. Flexin and Purpz released a video of their Pro Tools files as evidence the song wasn't entirely AI-made. That, in turn, drew another round of accusations, that they simply exported AI-generated stems, tweaked them, and reassembled the track."
+        },
+        {
+          "t": "p",
+          "x": "Setting the fight aside, what would it mean if the accusations are true? The counterargument to Medasin's anger goes like this: Flexin made the song, turned it into his own hit, and people are singing along and enjoying it. And Flexin and Purpz are getting paid for work that people like. Right now, a good chunk of the public doesn't much care where a song comes from. Nobody knows yet whether a Milli Vanilli-style backlash is still even possible."
+        },
+        {
+          "t": "p",
+          "x": "On a related note, a recent Behind the Single piece from Music Ally covered 'Let Me Be,' a partly AI-generated song by The Second Voice. It's worth a listen for how the Spinnin' Records team navigated suspicion from DSPs and radio over the song's AI elements."
+        },
+        {
+          "t": "p",
+          "x": "On a related note, a recent Behind the Single piece from Music Ally covered 'Let Me Be,' a partly AI-generated song by The Second Voice. It's worth a listen for how the Spinnin' Records team navigated suspicion from DSPs and radio over the song's AI elements."
+        }
+      ]
+    },
+    "music/music-komca-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "South Korea's largest music copyright trust has lifted its ban on registering AI-made songs. The Korea Music Copyright Association (KOMCA) will now register AI-assisted works and pay royalties on them, as long as a human substantially participated in writing, composing, or arranging the piece."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2025/04/Korea-flag.jpg",
+          "cap": "The Korea Music Copyright Association lifts its ban on registering AI-assisted songs"
+        },
+        {
+          "t": "p",
+          "x": "The revised rule took effect on Monday, August 3. It replaces a ban that had been in place since March 24, 2025. Under the old rule, creators had to confirm a work was made 'solely through human creative contribution,' and KOMCA's stated AI contribution threshold was '0%.' Using even a single chord-suggestion feature built into composition software was enough to be shut out of registration and royalties."
+        },
+        {
+          "t": "p",
+          "x": "Under the new system, anyone registering an AI-assisted work must disclose which parts of the song involved AI, name the AI tool used, and explain their own creative contribution. They must also confirm that the result isn't just something AI produced from a prompt alone, and that a human made a 'substantial and leading' creative contribution to the melody, lyrics, structure, and arrangement."
+        },
+        {
+          "t": "p",
+          "x": "The rule doesn't dictate a specific document format. Instead, it recommends keeping material that can prove the process, like DAW project files, revision history, sheet music, or prompt logs. The association can request this evidence and refer it for technical review or internal deliberation. Creators are given 30 days to respond."
+        },
+        {
+          "t": "p",
+          "x": "The cost of a false declaration is spelled out in an amendment to the trust agreement terms, passed by the same board on July 28. If a declaration turns out to be false, or if a song confirmed to be entirely AI-made was registered as human-made, KOMCA can withhold royalty payments, claw back amounts already paid, and terminate the trust agreement. It's also pursuing a further amendment that would impose up to triple the amount wrongly received if intent or gross negligence is confirmed."
+        },
+        {
+          "t": "p",
+          "x": "The trigger for the shift was an audit in March 2026. The Board of Audit and Inspection sampled 8,540 songs from 29 writers who had each trusted more than 200 songs to KOMCA in 2024, and found that 5,200 of them (60.9%) appeared to have been made with AI assistance. The audit reviewed 11 domestic copyright trusts and concluded that they had been registering works and paying out royalties without separately verifying whether AI was used."
+        },
+        {
+          "t": "p",
+          "x": "As recently as five months ago, KOMCA was on the other side of this fight against unauthorized AI use. In February, it joined five domestic music rights organizations in a coalition demanding a ban on AI training without creators' consent. The new system doesn't touch that demand. It simply draws its line in almost the same place as the US Copyright Office did in its January 2025 guidance: AI can assist in making a song, but it cannot be the song's author."
+        },
+        {
+          "t": "p",
+          "x": "The timing is notable. On July 31, a Munich court ruled that the AI music generator Suno infringed copyright by training on the catalog of German trust GEMA without a license. The court ordered it to stop reproducing the works, disclose revenue, and pay damages, and Suno said it would appeal. Three days later, on August 2, an EU regulation requiring labels on AI-generated content took effect."
+        },
+        {
+          "t": "p",
+          "x": "KOMCA manages the copyright of songs, meaning composition and lyrics, not recordings. But because the lyricists, composers, and publishers behind nearly every commercially released K-pop track register their works with KOMCA, this disclosure rule reaches deep into the catalogs flowing through HYBE and SM Entertainment. KOMCA collected 437 billion won (about $306 million) in royalties in 2024, and through reciprocal agreements, its registrations extend to more than 110 countries."
+        }
+      ]
+    },
+    "music/music-sound-free-concert": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The 'first' sound-free concert, held at Kings Place in London in May, showed that live events can support d/Deaf audiences' experience far better than before. It was organized by Tom Staniford and Adrian Webb of tech consultancy OutcomePath, who wanted to overturn the very idea of what counts as an equitable performance for d/Deaf audiences."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-hero-credit-OutcomePath@2000x1500-1392x1044.jpg",
+          "cap": "A sound-free concert (photo: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "Webb says, “those of us without disabilities need to stop thinking of disability as something where we bring everyone up to our standard.” After two years of preparation, the pair, backed by cochlear implant (CI) maker Advanced Bionics, built a performance for cochlear implant users."
+        },
+        {
+          "t": "p",
+          "x": "Staniford said, “a cochlear implant is just a tool, like a phone,” adding, “we wanted to flip the view of that tool as something for equality. It should be something to be envied.” “It was about creating a new experience where someday a hearing person looks at a cochlear implant user and thinks, 'I wish I had one of those.'”"
+        },
+        {
+          "t": "p",
+          "x": "So how was there no sound? Sound vibrates a medium like air, and that vibration travels through the eardrum and cochlea, turning into electrical signals that ride the auditory nerve. A cochlear implant takes in sound through a processor, converts it into an electrical signal, and sends it straight to the auditory nerve. Most cochlear implants today connect to devices over Bluetooth, and that's the path this concert's music took too. Hearing aid maker Phonak handled the wireless streaming, putting every attendee on the same channel. As Staniford put it, “human ears can't hear radio waves. That's why it's sound-free.”"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-1-credit-OutcomePath@1400x1050.jpg",
+          "cap": "Attendees at the sound-free concert (photo: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "The music was made live, on the spot, by Simon Morris on a laptop during the performance, using the generative AI music platforms Suno, Udio, and Google Flow Music (formerly Producer.ai). There wasn't a single speaker, so for hearing attendees, the room was simply silent. Morris, who can hear, was kept from listening to the music he was making. He entered prompts across classical, jazz, EDM, and pop genres, and attendees read those prompts on a screen behind him to come up with ideas. With no sampling and no recording, the music heard that day can't be heard again."
+        },
+        {
+          "t": "p",
+          "x": "Veterinary nurse Skye White got a cochlear implant six years ago. She still goes to shows, but says that if she can't follow the lyrics, “everything turns into a blur.” PR professional Charlotte Young has used a cochlear implant for nearly four years. “I'd done performing arts my whole life, and when I lost my hearing, everything changed, and I became increasingly isolated,” she says."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-3-credit-OutcomePath@1400x1050.jpg",
+          "cap": "Audience members listening to music through cochlear implants (photo: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "Young remembers one song reminding her of Frank Sinatra. “We all sang along. We were like, 'we're d/Deaf, and we can hear the lyrics, and we're all laughing, what is this?'” White welcomed the clean sound with the background noise stripped away. Young said watching hearing people sit in silence felt “surreal.”"
+        },
+        {
+          "t": "p",
+          "x": "Staniford's own cochlear implant isn't an Advanced Bionics product, so he couldn't join as an attendee. “Seeing those smiling faces enjoying something, while everything was silent for me, was the strongest moment of realization I've had in my life.”"
+        },
+        {
+          "t": "p",
+          "x": "The next step is Auracast, a Bluetooth LE method where one device broadcasts high-quality audio to an unlimited number of receivers. Staniford calls it “essentially universal streaming” and believes that within a few years, a sound-free concert open to every cochlear implant user could be possible. The pair plan to analyze survey responses and publish a white paper."
+        }
+      ]
+    },
+    "music/music-musixmatch-sentinel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Musixmatch has landed Suno as the first customer for Sentinel, its copyright detection service for AI and UGC platforms. Musixmatch said on Thursday, August 6, 2026, that Suno added the technology to screen for copyrighted compositions, lyrics, and recordings slipping into its system."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/sentinel-social-sharing-img-1200x630-1.jpg",
+          "cap": "Musixmatch's copyright detection service, Sentinel"
+        },
+        {
+          "t": "p",
+          "x": "Sentinel looks at prompts and AI outputs together. It flags copyrighted lyrics at any stage of generation and finds confident matches quickly, with millisecond-level latency. It also links user-generated content back to rights holders' original tracks to identify cover versions and allocate royalties."
+        },
+        {
+          "t": "p",
+          "x": "Musixmatch explains that Sentinel gives Suno “a clearer eye into the copyrighted material inside user prompts.” The judgments it produces feed into Suno's moderation, compliance, and product decisions."
+        },
+        {
+          "t": "p",
+          "x": "Musixmatch co-CEO Rio Caraeff said, “Suno is pushing the level of creativity and expression forward remarkably, but this current landscape needs solid infrastructure that lets platforms know what's being created and whether copyrighted material is coming in.” He also welcomed the fact that Suno is the first platform to adopt Sentinel."
+        },
+        {
+          "t": "p",
+          "x": "Suno's head of legal, Phil Castro, said, “As AI technology keeps evolving, building products responsibly matters.” He explained that their tools are meant to enable original creation rather than imitation, and that Musixmatch has been a key partner in finding and stopping misuse."
+        },
+        {
+          "t": "p",
+          "x": "Sentinel launched on March 27. It returns a verdict within 100 milliseconds, connects through an API, and was designed with EU AI Act and DMCA compliance in mind. The EU rule requiring labels on AI-generated output took effect August 2."
+        },
+        {
+          "t": "p",
+          "x": "Sentinel relies on Musixmatch's own music database, covering more than 250 languages and used by more than 250,000 rights holders and music publishers. Universal Music Group, Sony Music Publishing, and Warner Music Group are on that network, along with BMG, Kobalt, Reservoir, and the NMPA. Musixmatch signed AI licensing deals with the publishing divisions of all three majors in October 2025."
+        },
+        {
+          "t": "p",
+          "x": "The same day, Suno also posted a blog outlining its principles. CEO and co-founder Mikey Shulman wrote that prompts naming specific artists or copyrighted songs have “never been allowed.” When a name comes in, it gets stripped out and the request gets redirected toward describing musical characteristics instead. Along with Audible Magic, ACRCloud, and Musixmatch, it also screens uploaded audio files and lyrics."
+        },
+        {
+          "t": "p",
+          "x": "On July 31, the Munich Regional Court ruled that Suno infringed copyright by training on the GEMA repertoire without a license, the first such ruling in Europe. Suno says the ruling rests on a “fundamental misunderstanding” of its technology and is weighing an appeal. A lawsuit with Universal Music Group and Sony Music Entertainment, coordinated by the RIAA, also remains open, while Warner Music Group dropped its claims in November 2025 and struck a licensing partnership that included acquiring Songkick."
+        }
+      ]
+    },
+    "music/music-suno-download-watermark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno unveiled a bundle of policies at once. It rewrote download rules, added watermarks and fingerprints to generated songs, revised its community guidelines, and introduced “transparency tools” to flag AI tracks."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
+          "cap": "Suno overhauls its download and labeling policies at once."
+        },
+        {
+          "t": "p",
+          "x": "The download policy targets mass distribution. It takes aim at the practice of churning out hundreds or thousands of songs, uploading them to streaming services, and running bot plays to siphon off royalties. Professional work and personal use remain unaffected."
+        },
+        {
+          "t": "p",
+          "x": "The watermark and fingerprint technology will be added within weeks. Co-founder and CEO Mikey Shulman wrote on the company blog that the tools are “durable and resistant to tampering, without touching the listening experience.” He did not say whether Suno will use Google's SynthID or build its own method."
+        },
+        {
+          "t": "p",
+          "x": "The community guidelines were also rewritten. They explicitly ban audio disguised as authentic and the unauthorized use of a real person's voice or likeness. Shulman also said that whether to disclose that something was made with AI is ultimately up to artists and platforms."
+        },
+        {
+          "t": "p",
+          "x": "On copyright checks, Suno added Sentinel from lyrics data company Musixmatch. Audible Magic is also used to screen uploaded audio and lyrics."
+        },
+        {
+          "t": "p",
+          "x": "Lawsuits are piling up in the background. Copyright suits filed by Universal Music Group, Sony and the RIAA are ongoing, and a German court ruled in July that Suno trained on copyrighted music without a license. Suno reached a settlement and licensing deal with Warner Music Group in November 2025."
+        }
+      ]
+    },
+    "music/music-sylvan-esso-betty-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sylvan Esso released the album Ow ∞ after four years. Amelia Meath and Nick Sanborn had their first sessions interrupted by a hurricane that hit North Carolina in 2024, then pushed back again by the Los Angeles wildfires in January 2025. They ultimately finished the record at Betty's, an off-grid studio they built themselves near Chapel Hill."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rwWdT4dRQ8nR6BXa6VTf2T.jpg",
+          "cap": "Sylvan Esso, the duo of Amelia Meath and Nick Sanborn"
+        },
+        {
+          "t": "p",
+          "x": "Amelia says this time felt easy. “Making the first couple of records, writing songs was so hard and painful. Even though the outside world was shaking, this time the work was much steadier and smoother.” Nick traces the pressure back to themselves. “We've had some success, but the pressure we feel now comes from us. Rather than feeling lukewarm about something, I'd rather make something I love that everyone else hates.”"
+        },
+        {
+          "t": "p",
+          "x": "The reason for building the studio was simple. “We needed a workspace that wasn't our home. A studio tends to make you feel like an outsider. When you rent a space with a hired engineer, you're just a guest, and it feels alienating.” Betty's was designed to do the opposite. The mixing position backs onto a large live room, and recording usually happens right inside that room. Everyone ends up in the same space."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GhrzQ6FPxmzEKeofdYtyba.jpg",
+          "cap": "Betty's, the off-grid studio they built near Chapel Hill"
+        },
+        {
+          "t": "p",
+          "x": "Percussionists TJ Maiani, Joe Westerlund, Glenn Kotche and Jake Luppen all contributed to the record, with production help from Daniel Aged and Bon Iver collaborator BJ Burton. Nick brings up the speakers. “The Ocean Way HR3.5 speakers played a big part in shaping our sound. There are better speakers with a narrower mix position, but with these, anyone sitting nearby gets a sense of how the mix is working when they're turned on.”"
+        },
+        {
+          "t": "p",
+          "x": "“Concrete Glen” features a sample of Sigur Rós's “Svefn-g-englar.” Nick said he'd always wanted to do “a big sample drop that had never been done before.” Amelia calls “Plastic Sword” “the crowning song of everything we pushed for, the result that's the most distinctly us.” Nick adds, “Suno isn't going to put out something like that anytime soon. There are plenty of moments where the reference points are obvious, but what comes out of it is new. It's something that didn't exist before.”"
+        },
+        {
+          "t": "p",
+          "x": "The pair pulled their catalog from Spotify in September 2025, in protest of the platform's conduct and former CEO Daniel Ek's investments. Nick explains it this way: “I don't have a problem with the concept of streaming. My problem is Daniel Ek. I got tired of feeling like a frog in a pot of water that doesn't know it's being heated.” He draws a line against telling other artists to withdraw too. He just hoped ordinary listeners would think once about where they get their music and consider switching services."
+        }
+      ]
+    },
+    "music/music-symphonic-musicshield": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Distributor Symphonic has partnered with ArtyShield, a company that helps rights holders protect their work from unauthorized AI use. Symphonic customers will get some ArtyShield tools for free, including MusicShield, which protects music before release."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-77.png?fit=2000%2C1500&ssl=1",
+          "cap": "Symphonic and ArtyShield partner on AI protection tools"
+        },
+        {
+          "t": "p",
+          "x": "MusicShield alters audio files in ways imperceptible to the human ear. The sound stays the same, but it throws off how AI reads the song's features, lowering its value as training material."
+        },
+        {
+          "t": "p",
+          "x": "Research confirmed its effect on recent open-source models such as MusicLM, MusicGen, JASCO and Riffusion, as well as commercial platforms like Suno and Udio. It traces back to the 2024 HarmonyCloak research from the University of Tennessee, Knoxville, presented at the IEEE Security and Privacy Symposium."
+        },
+        {
+          "t": "p",
+          "x": "Access is simple. Users go straight in via single sign-on from the Client Offerings screen on SymphonicMS, Symphonic's management platform."
+        },
+        {
+          "t": "p",
+          "x": "Other ArtyShield tools are opening up too. VeriTune checks whether a track was made with AI, and VoiceShield protects vocal performances from voice cloning and synthetic voices. VeriVoice flags audio recordings that were AI-generated or cloned and manipulated. ArtyShield Certify, which verifies human authorship for use in licensing and legal proceedings, is also in the works, followed by catalog-wide copyright infringement detection and AI vocal identification features."
+        },
+        {
+          "t": "p",
+          "x": "Free access is just the start. Expanding the scope of protection requires choosing a paid tier. Symphonic CEO Jorge Brea said MusicShield gives creators a practical way to protect their own music."
+        }
+      ]
+    },
+    "music/music-ye-ai-vocal-lawsuit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An anonymous freelance producer filed a lawsuit against Kanye West under the name John Doe in court documents. He claims he handled AI vocal work on the albums Vultures II and Bully but received neither credit nor payment."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
+          "cap": "Kanye West, Los Angeles, March 21, 2024"
+        },
+        {
+          "t": "p",
+          "x": "According to the complaint, he joined on August 1, 2024, two days before the release of Vultures II, after receiving an “urgent request.” His work consisted of “extensive production and vocal production work,” including at least 13 custom AI voice models, more than 400 individual vocal generations, and recordings of his own voice to use as source material."
+        },
+        {
+          "t": "p",
+          "x": "In October 2024, he was brought onto work on Bully. He created more AI vocal production, helped write and compose two songs with other artists, and those songs were commercially released. Seven songs in total were released, including five from Vultures II."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiff claims that between October and November 2024, Ye's side acknowledged his work and promised to fix his credit. His name is still missing from the production credits on streaming services. The complaint states that despite nearly two years of requests, the defendants never paid him."
+        },
+        {
+          "t": "p",
+          "x": "The claim seeks at least $110,000 in compensatory damages for the seven commercially released songs. It also seeks double damages under the Los Angeles freelance worker protection ordinance."
+        },
+        {
+          "t": "p",
+          "x": "After Vultures II came out, fans suspected AI punch-ins and filters had been used. The reaction was that it hurt the listening experience."
+        }
+      ]
+    },
+    "music/music-deadmau5-autopilot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "fRo8DA7wub4"
+        },
+        {
+          "t": "p",
+          "x": "AUTO/PILOT, the new project deadmau5 has been holding onto, is slowly moving toward release. So what is AUTO/PILOT, in the end? At its core, it's software for DJ mixing and live electronic music performance, but unlike other tools on the market, it aims to be far more comprehensive."
+        },
+        {
+          "t": "p",
+          "x": "Creative mixing, live arranging, sampling, MIDI/OSC controller integration and its own effects are all gathered into one package. There's also considerable room for customization — the interface can be rebuilt almost from scratch to fit how someone works."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/autopilot-deadmau5-1024x565.jpg",
+          "cap": "AUTO/PILOT interface"
+        },
+        {
+          "t": "p",
+          "x": "The mixing deck and sequencing merge into one inside AUTO/PILOT, with full automation support. It's closer to a dedicated DAW built solely for DJs and live performers. Sets can also be arranged and edited directly on a timeline."
+        },
+        {
+          "t": "p",
+          "x": "External plugins are also planned, so tracks can be remixed and manipulated in real time. Once again, deadmau5 has teamed up with his \"friend\" Steve Duda, the developer behind Serum, who handled the tempo- and beat-grid-detection algorithm here. Track analysis finishes essentially instantly, according to the description."
+        },
+        {
+          "t": "p",
+          "x": "MIDI and OSC (Open Sound Control) data also play a big role in AUTO/PILOT. The level of integration runs deep, and there's a wide range of routing options. Having run his own shows for years, deadmau5 knows well how important it has become to tie music, lighting and visuals together."
+        },
+        {
+          "t": "p",
+          "x": "Now you can try it yourself. The public beta is open now. There's no free trial yet, though — you have to buy the software. It's currently discounted to $50."
+        },
+        {
+          "t": "p",
+          "x": "It supports both Windows and macOS, but exact system requirements haven't been released yet. There's also no word yet on a timeline for the full release."
+        }
+      ]
+    },
+    "music/music-spotify-ai-slop-purge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Everyone knows Spotify has a lot of songs. Enough that you couldn't listen to it all across a hundred lifetimes. No one has ever made that into a problem. What we take issue with is AI-churned slop tracks clogging up the pipeline and crowding out real artists."
+        },
+        {
+          "t": "p",
+          "x": "Fortunately, the streaming service has finally stepped in. The company recently said it removed roughly 75 million spam music tracks over the past 12 months. That's good news for both artists and listeners."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-6-AI-slop.jpg",
+          "cap": "AI slop tracks Spotify removed"
+        },
+        {
+          "t": "p",
+          "x": "For artists, it wasn't just more competition. These tracks were also siphoning off a share of royalties, cutting into the money that should go to people who put in real work."
+        },
+        {
+          "t": "p",
+          "x": "As the company put it: \"Spotify's total music payouts grew from $1 billion in 2014 to $10 billion in 2024. But big payouts attract bad actors. Spam tactics and various forms of slop — including mass uploads, duplicates, SEO hacking and abuse of artificially short tracks — have gotten easier now that AI tools let anyone churn out music in bulk.\""
+        },
+        {
+          "t": "p",
+          "x": "A big piece of the problem is AI impersonation. When a song from a reasonably well-known artist gets traction, AI impersonators step in with knockoffs and siphon off a slice of royalties and streams."
+        },
+        {
+          "t": "p",
+          "x": "Spotify said it would plug the most urgent holes first, rolling out a new AI music spam filter this fall. If it works as planned, it will find and flag AI-impersonating uploaders and tracks, and pull them from recommendations. Personally, I think the punishment is too light. Still, the company is probably trying to avoid being so aggressive that it ends up punishing honest, hardworking artists who did nothing wrong."
+        },
+        {
+          "t": "p",
+          "x": "To be clear, this isn't about weeding out music that merely used AI as an assist, like for noise removal or EQ help. It's aimed only at slop that's 100% AI-made. There's been a fair amount of news lately on the AI-slop-blocking front, so it's worth keeping an eye on."
+        }
+      ]
     }
   }
 }

@@ -4462,6 +4462,1162 @@
           "x": "This perspective also changes the design process itself. Deciding which pauses and confirmations to keep, rather than what to remove, becomes the design that hands judgment back to the user."
         }
       ]
+    },
+    "design/agent-native-actions": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Steve Sewell of Builder.io says that in 2026, any app should be built “agent-first.” His starting point is the Agent-Native framework, which begins with pasting a single command line into a terminal to stand up a to-do app."
+        },
+        {
+          "t": "p",
+          "x": "The core idea is simple. In this app, by default, anything the screen can do, the agent can do too. Change the UI and the agent notices; command the agent and the screen updates right away in response."
+        },
+        {
+          "t": "p",
+          "x": "You can run the whole app through chat alone. Say “show my to-dos” and a fully operable to-do screen is pulled straight into the conversation. Add /mcp to the end of the URL to connect to Claude or ChatGPT and have work done from outside the app."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fdd7210b9cffb40b69ae9551771c51d3c?width=800",
+          "cap": "Diagram of the agent app's structure"
+        },
+        {
+          "t": "p",
+          "x": "These pieces aren't built from scratch every time. Parts like chat UX, integrations and agent management are pulled from a toolkit and assembled. As with shadcn, components are copied into your code so you can edit just the parts you want, which also lets you drop a Notion-style editor straight into the app."
+        },
+        {
+          "t": "p",
+          "x": "Underneath it all is the “action.” Every piece of business logic is bundled into an action, so the UI, agents, HTTP, MCP, A2A and CLI all run off a single abstraction. Attach a feature at the front end, and the agent automatically uses that feature."
+        },
+        {
+          "t": "p",
+          "x": "A2A, where agents talk to each other, comes built in by default. Within a single monorepo, multiple agents find one another, exchange data, and each keep a UI suited to their own purpose."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fbe5c03caab54420bacefc9d571892582?width=800",
+          "cap": "Agents owned by a team"
+        },
+        {
+          "t": "p",
+          "x": "Sewell calls this “cloneable SaaS.” His forecast is that one day even Salesforce will become a UI that people clone and modify for their own use. The line between app and agent disappears, into a world where everything is both."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fad7da09448634ed8a8df928209841d93?width=800",
+          "cap": "The cloneable-SaaS concept"
+        },
+        {
+          "t": "p",
+          "x": "It's all MIT-licensed open source, and it deploys anywhere you can host an app, like Netlify. No special agent server is required."
+        }
+      ]
+    },
+    "design/nexthena-121-i18n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexthena, an AI-assisted infinite-canvas whiteboard, has shipped version 1.2.1. The update centers on two things: multilingual support and a fix to system theming."
+        },
+        {
+          "t": "p",
+          "x": "English and Chinese are now supported by default. The UI uses translation keys instead of hard-coded strings, and a language toggle in the header switches locale instantly. The setting is stored on the backend, so it carries over to the next session. The Excalidraw whiteboard also follows the app's locale, automatically applying zh-CN when Chinese is selected."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rj99sj81lcekbfyqkhl.png",
+          "cap": "Language-switching screen"
+        },
+        {
+          "t": "p",
+          "x": "The update also fixes a bug where, with the “follow system” theme turned on, the whiteboard and code syntax highlighting didn't match the OS's light or dark setting. Previously, the theme value came through only as 'system' and fell back to light mode; now an effectiveTheme field is resolved cleanly to either 'dark' or 'light,' and every component refers to it."
+        }
+      ]
+    },
+    "design/where-ai-belongs-games": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Luke Dicken has studied AI in the games industry for more than 15 years. He led a central analytics group at Zynga and built an R&D team digging into procedural content and player profiling. The work caught the eye of Take-Two's leadership, but the team was laid off less than a year after it was expanded."
+        },
+        {
+          "t": "p",
+          "x": "He argues that today's generative AI buzz comes less from technical advantage than from business models. As he puts it, “algorithms should be invisible and boring” — classical AI like robotics or procedural generation has quietly run sophisticated systems for decades. Today's hype, he says, is propped up by the massive marketing budgets of big companies."
+        },
+        {
+          "t": "p",
+          "x": "His most developed concept is the “dungeon master” metaphor. Like a great DM, game intelligence shouldn't be combat AI but a weave of matchmaking, player profiling, pacing and economy design that crafts a managed experience for each player. He points to the AI Director in Left 4 Dead (2008) as a rare example of that kind of integration."
+        },
+        {
+          "t": "p",
+          "x": "He notes that generative AI's actual production value is limited. There are incremental gains in code generation or documentation assistance, but it shines only when solving problems at a scale people can't handle. Trying to automate an entire pipeline produces “weird things,” and studios struggle to own that responsibility."
+        },
+        {
+          "t": "p",
+          "x": "The cost reality is colder still. OpenAI is losing more than a billion dollars a week subsidizing usage fees, and Uber burned through its 2026 generative AI budget in four months. When GitHub Copilot shifted from a subscription to usage-based pricing, rates jumped 10 to 20 times, and in extreme cases up to 1,000 times. He expects a pricing shock within 18 months."
+        },
+        {
+          "t": "p",
+          "x": "What worries him most is the talent pipeline. If executives treat generative AI purely as a cost-cutting tool, entry-level jobs disappear, and with them the path for junior people to learn the craft. He boils the real question down to one thing: what does this finally make possible, that was impossible before and benefits players?"
+        }
+      ]
+    },
+    "design/bookdrift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "These days, making one illustration of a child from a reference photo is easy. Making the same child, in the same style, in different scenes, steady across twenty-four pages is a different story."
+        },
+        {
+          "t": "p",
+          "x": "Generate each page separately, and each one looks plausible on its own. But line them up in order, and between page 4 and page 11 the child seems to have aged three years, the hair length has changed, and the nose shape has drifted. Nobody notices looking at a single page, but anyone notices once it's bound into a book. A picture book reads as a continuous flow, so consistency errors build up in ways a single-image metric can't catch."
+        },
+        {
+          "t": "p",
+          "x": "Identity and style are separate problems. Since the fixes differ, it's better to split them apart early. Identity consistency is “is this recognizably the same child,” which depends on the reference embedding and how strongly it's weighted at each generation. Style consistency is “does every page look like it was drawn by one illustrator,” which covers watercolor texture, line weight, palette, and paper grain. Of the two, style is easier: fix the seed contribution for style, use the same style prompt fragment, and keep the sampler settings unchanged. Identity is trickier because it has to survive poses, expressions, and lighting that change from scene to scene."
+        },
+        {
+          "t": "p",
+          "x": "Here's how you make it survive. Fix everything that can be fixed: the same base model version, the same sampler, the same step count, the same style token across the whole book. Every free variable is a place it can drift. This sounds obvious, but pipelines that let each page set its own parameters violate it all the time. Regenerate the whole book, not a single page. If page 9 is wrong and you only regenerate that page, it won't match its neighbors. Consistency is a property of the set, so the set is the unit of work, which carries the uncomfortable implication that one bad page forces a full regeneration. Give identity conditioning more weight than seems necessary: a failure where the child is unrecognizable is far worse than a failure where a pose is a bit stiff. Stiffness can be forgiven; “that's not my kid” can't. Narrow the vocabulary of scenes too. If environments swing wildly, underwater, a spaceship, a night forest, lighting and palette get dragged along, and even if identity holds, it reads as if the style had drifted."
+        },
+        {
+          "t": "p",
+          "x": "Evaluate the set, not the image. Per-image quality metrics miss the problem entirely. What actually tracks with “this looks like one book” isn't reference-to-page distance but the face-embedding distance between every pair of pages, and variance matters more than the average. That's paired with palette distance between pages, and a human check of the single most distant pair, where drift shows up first."
+        },
+        {
+          "t": "p",
+          "x": "The voice layer runs into the same kind of problem differently. To clone a parent's voice from a short sample and have it read the book aloud, the voice has to stay consistent even if each chapter is synthesized separately. It's the same discipline: fix the speaker embedding and synthesis parameters across the whole book. The author covers this at StoryMine (storymine.app): feed in one photo, and out comes a watercolor keepsake book with the same face on every page. That said, all of this is empirical and varies by model. The failure patterns have been stable, but the fixes shift with each model generation, so treat the specifics as perishable and the categories as durable."
+        }
+      ]
+    },
+    "design/handfont": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs317mgv90ccea2sm3zrr.png",
+          "cap": "The draw-your-font pipeline that extracts a font from a photo of handwriting"
+        },
+        {
+          "t": "p",
+          "x": "I wrote the alphabet in a spiral notebook, took one photo in dim light, and got an installable TTF out of it. Now my computer types in my own handwriting. It's all open source (MIT), runs locally, and is built in three layers: an npm library, a CLI, and a Claude Code skill on top. The repo is at github.com/danilo-znamerovszkij/draw-your-font, and the browser demo is at danilo-znamerovszkij.github.io/draw-your-font/."
+        },
+        {
+          "t": "p",
+          "x": "Making a custom font always meant signing up for pain. Font editors make you draw each glyph by hand with a tablet pen, and Calligraphr, which accepts photos, charges $8 a month for the full version. The pieces themselves had actually been open source for years: sharp for image processing, a JS port of potrace for vectorization, and svg2ttf for assembly. Nobody had wired them into a single package with no install step. The closest thing, builtree/handwrite, still required installing FontForge and potrace system-wide in Python, which was the real barrier."
+        },
+        {
+          "t": "p",
+          "x": "So the gap I targeted was a pure npm package, zero system dependencies, that could still handle casually shot photos. Install it with npx skills add danilo-znamerovszkij/draw-your-font, drag a photo into Claude Code, and say 'make my font.' Claude finds the letters, labels them with vision, builds the font, then critiques its own result before you even point anything out. The photo only goes to a model for labeling; the shape data never leaves your device. Nothing's needed beyond Node 18+."
+        },
+        {
+          "t": "p",
+          "x": "It works in six steps. Adaptive thresholding rescues ink buried in shadow, connected components find the ink blobs, and vision reads a numbered reference sheet to label them, like tagging 'blob 14 is a lowercase g.' Vectorization is handled by the same potrace found inside FontForge and Inkscape, and the AI never draws a single curve. In the metrics step, each letter gets a vertical strip inside a shared em square, so g sags below the baseline and o stays smaller than O. Finally, the outlines and metrics get assembled into TTF, WOFF/WOFF2, and an @font-face snippet. The only requirements are dark ink and letters that don't touch each other. The font you get is 100% yours, and commercial use is fine."
+        }
+      ]
+    },
+    "design/opus5daily": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic released its new frontier model, Claude Opus 5, on July 24. The headline is near-frontier intelligence at half the price: $5 per million input tokens and $25 per million output tokens. The 2.5x-faster Fast Mode costs double ($10/$50), and prompt caching saves up to 90% while batch processing saves 50%."
+        },
+        {
+          "t": "p",
+          "x": "Performance matches the price. On Frontier-Bench v0.1, it more than doubled Opus 4.8's score, beating every other model, and on CursorBench 3.2 it came within 0.5% of Fable 5's top score at half the cost per task. A low/medium/high effort dial lets you directly trade off cost against performance. For the toughest tasks that run autonomously for days at a time, though, Anthropic still recommends the larger Fable 5."
+        },
+        {
+          "t": "p",
+          "x": "What matters for designers is that this model is the engine behind AI design tools like Claude Design, Cursor, Lovable, and Figma Make. A cheaper, stronger Opus 5 lifts the whole design-to-code stack, flowing directly into the workflows people touch every day. Opus 5 is available on Claude.ai, Claude Code, Claude Cowork, and the API, and it's the default model on Claude Max and the top-tier model on Claude Pro."
+        }
+      ]
+    },
+    "design/macpaw-eney": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Many AI tools greet users with a text box. But other ways of interacting are worth exploring too. This piece looks at how to redesign the AI assistant experience while keeping human creativity at the center."
+        },
+        {
+          "t": "p",
+          "x": "Generative AI has brought both excitement and concern to the creative community. As tools like DALL-E and Midjourney flooded the web, questions about jobs and consent surfaced. Training systems on artists' work without permission has created tension between technological progress and creators' rights."
+        },
+        {
+          "t": "p",
+          "x": "The more faceless AI floods the environment, the more important it becomes to preserve what makes us human. Rather than treating AI as a replacement for human talent, there is room to keep people at the center while making tools friendlier and more approachable."
+        },
+        {
+          "t": "p",
+          "x": "MacPaw saw an opportunity to rethink how an AI assistant works. Options like Claude or ChatGPT mostly rely on text interfaces. They are convenient but impersonal. The challenge was to create something more personal without sacrificing ease of use."
+        },
+        {
+          "t": "p",
+          "x": "People naturally open up to things that resemble them, or to animals and characters with recognizable traits. That led to a design direction of adding personality to practicality."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-character.jpg",
+          "cap": "Eney's minimal face, built around its eyes"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw created Eney, a proactive AI assistant with a character-based interface. It aimed for an expressive, friendly feel without being overly playful, requiring a balance between approachability and seriousness. The design team deliberately held back on movement and expression, choosing only emotions and gestures that convey useful information. While processing a task, Eney looks like a loading indicator so it does not distract attention."
+        },
+        {
+          "t": "p",
+          "x": "After going through several options, the circle remained the most comfortable shape. It effectively created a calmly floating digital companion rather than a rigid desktop element. In particular, the minimal face built around the eyes serves as a key emotional anchor without looking cartoonish."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-colors.jpg",
+          "cap": "Eney's colors"
+        },
+        {
+          "t": "p",
+          "x": "Color mattered too. AI products typically use blue, which evokes intelligence. MacPaw chose pink instead, to stand out while keeping a sense of warmth and friendliness. It was a choice meant to make Eney stand out, both on screen and in the user's mind."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/digital-design-ai-era/eney-lettering.jpg",
+          "cap": "Eney lettering"
+        },
+        {
+          "t": "p",
+          "x": "The goal was a warm, dependable digital helper that supports the workflow without getting in the user's way. Character design gives personality to a computing process that was previously invisible. It is easy to overlook at a glance, but every detail, from style and emotion to size, name and visual elements, was decided by a person, not a machine."
+        },
+        {
+          "t": "p",
+          "x": "Even as AI shortens parts of the design process, its limits remain significant. While building Eney, technology assisted with tasks, but human designers held full control over decisions and direction. Today's designers need judgment, artistic taste, authenticity and emotional nuance. Pulling something out with a prompt is fundamentally different from crafting something by hand with deliberate intent."
+        },
+        {
+          "t": "p",
+          "x": "There is no reason to avoid new tools. It is better to understand their usefulness and fold them into the creative process. Still, these are tools and nothing more. The core lesson is that curiosity builds taste over time, and that in the AI era, taste is not becoming outdated, but increasingly valuable."
+        }
+      ]
+    },
+    "design/no-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ierh1778u6wtw2u015pd.png"
+        },
+        {
+          "t": "p",
+          "x": "It was late at night. I was staring at a portfolio I hadn't touched in five years. The work in it was real, but the site no longer looked like the person who made it. Five years ago, I would have had two options: pay a developer and wait, or give up weeks of evenings wrestling with code myself. That night I did neither. I opened a blank project and started directing AI to build it for me instead. By the time I fell asleep, meravish.com had been rebuilt."
+        },
+        {
+          "t": "p",
+          "x": "People usually call AI a helper, a tool that makes me faster. That framing is too small and keeps me in the passenger seat. Here's how I actually work: I design the product and I build it. I set the vision, the design system, the user experience and the voice, then ship it as is. AI isn't an assistant or a substitute; it moves like a team I direct. It's an entirely different role, one that keeps full creative control in my hands."
+        },
+        {
+          "t": "p",
+          "x": "For 15 years, I've been the person who decides how a product looks and feels. What's changed isn't the role, but the gap between a decision and a finished product. That gap has shrunk from weeks to hours."
+        },
+        {
+          "t": "p",
+          "x": "I want to be honest about the parts that weren't smooth. I used Claude for structure and code, Figma to capture design decisions, and Cloudflare for deployment. None of it was a clean, straight line. I kept redirecting the AI constantly. I threw out layouts that looked plausible but said nothing, and rewrote the same hero section more times than I'd like to admit, because there's no 「good enough」 on work that carries my name."
+        },
+        {
+          "t": "p",
+          "x": "That's the part people leave out of stories like this. Directing AI isn't magic, and it isn't hands-off. It's fast, but it still demands taste, judgment, and the willingness to say 「no, again.」 AI gave me speed; the standard was entirely mine to hold."
+        },
+        {
+          "t": "p",
+          "x": "When I say there was no developer in the middle, I'm not trying to put developers down. I mean the way work flows has actually changed. For most of my career, my designs left my hands and passed into someone else's. Something was always lost in that handoff: a piece of spacing that got ignored, an interaction that got flattened, an intention that was visible but couldn't be enforced."
+        },
+        {
+          "t": "p",
+          "x": "Removing the handoff means what I imagine and what actually ships finally match. It's freeing, but also harder, because there's no one to blame and no one to hand it off to. If a detail is wrong, it's because I let it stay that way. I do better work when I work like this."
+        },
+        {
+          "t": "p",
+          "x": "Here's the part I hadn't planned for. The rebuild case study practically wrote itself, because I recorded the building process in real time. I captured decisions as they happened rather than reconstructing them afterward, and that's the only way a case study feels real. So the portfolio became evidence of the way I actually work, not a gallery of finished pieces. A site about directing AI, built by directing AI. The medium and the message finally matched."
+        },
+        {
+          "t": "p",
+          "x": "The barrier was never the tools. They're already good enough and keep improving every month. The barrier is mindset: moving from 「AI helps me with my work」 to understanding that, as long as I hold the creative direction, AI is simply how the work gets done."
+        },
+        {
+          "t": "p",
+          "x": "If you're a designer who opens AI tools every day, this is closer than you think. The next step isn't learning to code, it's learning to direct: holding on to your standards, giving clear instructions, and saying 「again」 until it matches what you saw in your head. The portfolio was a small win. The real win was proving to myself, first, that the person who designs can also be the person who builds."
+        }
+      ]
+    },
+    "design/octane-neural": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OctaneRender 2027.1's neural rendering mode promises near-noise-free real-time rendering even for complex lighting and material effects like subsurface scattering."
+        },
+        {
+          "t": "p",
+          "x": "Otoy has begun distributing a public alpha build of OctaneRender 2027.1, the next major version of its GPU production renderer. Offered alongside the stable OctaneRender 2026, this experimental build includes a new real-time neural rendering mode, AI Light improvements and USD export."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+          "cap": "A comparison of AI Light 2.0 reducing noise in a multi-light scene"
+        },
+        {
+          "t": "p",
+          "x": "The key change is a neural rendering mode that boosts viewport render performance and reduces noise. It builds on the Neural Radiance Cache (NRC) introduced in OctaneRender 2026, which uses a network trained at render time to reduce noise from the first pixel."
+        },
+        {
+          "t": "p",
+          "x": "Otoy explains that neural rendering enables near-noise-free real-time rendering even under complex lighting, at far lower sample counts than traditional path tracing. The approach draws on both Nvidia DLSS's ray reconstruction technology and Otoy's own research. New upscaling technologies include DLSS 4 and AMD's FSR 3, though since OctaneRender is CUDA-based, FSR 3 can only be used on Nvidia GPUs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_EDF.jpg",
+          "cap": "A demonstration of the new EDF nodes"
+        },
+        {
+          "t": "p",
+          "x": "AI Light, the hierarchical algorithm that samples multiple light sources, has received its first major overhaul since OctaneRender 4.0. It now factors in the full spatial and directional information of all emissive primitives, reducing noise at the same sample count. Support for USD and MaterialX workflows has also been expanded: geometry can now be exported in USD format, and the standalone edition includes a USD stage editor. MaterialX gains three new EDF (Emission Distribution Function) nodes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_PhysicalOpticsMaterial-960x201.jpg",
+          "cap": "An example of Physical Optics material rendering"
+        },
+        {
+          "t": "p",
+          "x": "Alpha 2 adds a Physical Optics material that renders wave-optics surface effects such as diffraction, thin-film interference and birefringent iridescence. It reproduces both random roughness and regular microstructures together, covering everything from soap bubbles to brushed metal, holographic stickers and CD/DVD surfaces."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_RetroreflectiveMaterial-960x480.jpg",
+          "cap": "An example of the retroreflective microfacet material"
+        },
+        {
+          "t": "p",
+          "x": "A new retroreflective microfacet model simulates surfaces that bounce light directly back toward its source rather than scattering it, such as traffic signs and reflective clothing. Also added are an environment map visibility cache option that reduces noise in dark interior renders, early support for glTF 2.0, and MetalFX upscaling support for the macOS edition of Octane X."
+        },
+        {
+          "t": "p",
+          "x": "Ahead of the stable release, new AI features are planned, including a long-delayed animated sketch renderer, 3D Gaussian splat rendering and built-in PBR material generation. OctaneRender 2027.1 is currently available as a public alpha on Windows 10+, Linux and macOS 15.0+. It is rental-only, and Otoy's Studio+ subscription costs €23.95 a month or €239.88 a year, including plugins for 21 DCC apps."
+        }
+      ]
+    },
+    "design/design-accuface-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Reallusion unveiled AccuFace 2, an AI video mocap plugin for iClone. Built for games, VFX, and motion graphics work, it carries a new AI model tuned to the CC5 HD expression profile and tracks more steadily in dim lighting or on faces captured at a distance."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260731_AccuFace2_ExpressionCurve-960x480.jpg",
+          "cap": "Expression curve system"
+        },
+        {
+          "t": "p",
+          "x": "The core is the expression curve system. It replaces version 1's straight-line mapping with curve-based adjustment, refining how an actor's facial movement carries over into a character's expression. A single tracking input can move several of a character's morphs at once, naturally producing the secondary expressions that follow."
+        },
+        {
+          "t": "p",
+          "x": "Mouth shape quality is improved too. Paired with AccuLips lip-sync, it supports up to 128 lip morphs. In dark scenes it adjusts gamma automatically, with particular care for darker skin tones. It still processes faces as small as 120 x 120 pixels on screen."
+        },
+        {
+          "t": "p",
+          "x": "Setup is simpler now. There's no need to re-capture or recalibrate a neutral base pose for each actor. GPU acceleration now extends beyond NVIDIA to AMD Radeon RX 5700 and above. AccuFace 2 requires iClone 8.74 or later, and its suggested price is $299, $200 below the launch price."
+        }
+      ]
+    },
+    "design/design-ai-copyright-payout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic agreed to pay a group of authors $1.5 billion, and a U.S. court approved it. It sounds like a big win, but it's hard to call this a victory for creators in the fight against AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/c3aEWQDN2yh4Y34UXAR7kY-2560-80.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "First, this case didn't decide whether AI is allowed to read and learn from books. Last year, Judge William Alsup found that training AI models on copyrighted text counts as 'fair use,' and that part remains legal."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic is being punished for something else: downloading millions of books without buying them, from illegal sites like Library Genesis. The ruling doesn't say training needs permission. It just says you need a receipt."
+        },
+        {
+          "t": "p",
+          "x": "The amount isn't as large as it looks, either. $1.5 billion is real money, but it's closer to pocket change for a company valued at $965 billion as of May. That's less than 0.2% of its value. The settlement covers roughly 500,000 cases, with authors and publishers getting about $3,000 per illegally distributed book. Under U.S. law, willful infringement allows up to $150,000 per work, so that's roughly 2% of the theoretical ceiling."
+        },
+        {
+          "t": "p",
+          "x": "Still, it's a usable check: 91% of the roughly 440,000 eligible claimants have already collected. But the 'biggest copyright recovery ever' and 'a meaningful win for creators' are two different things. The settlement doesn't release Anthropic from future liability, or from claims over what its models actually output."
+        },
+        {
+          "t": "p",
+          "x": "This ruling also sets no binding precedent. Settling instead of going to trial means there's no appeal to work through. Google, Meta, Midjourney, and OpenAI are each fighting their own lawsuits on their own facts. Last week, publishers including Hachette and Cengage filed a new suit against Google over Gemini's training data."
+        }
+      ]
+    },
+    "design/design-context-aware-ui": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For 30 years, mobile screens stood on the assumption that everyone sees the same layout. That era is ending. Today's apps reshape their own interface based on real-time context about the user, the environment, and behavior."
+        },
+        {
+          "t": "p",
+          "x": "This goes beyond simple content recommendations. The structure itself, navigation, layout, visual hierarchy, interaction patterns, now rides on context. Accelerometers and gyroscopes read motion, location and light sensors read the environment, and even time of day, usage history, and battery or network status get used as signals."
+        },
+        {
+          "t": "p",
+          "x": "Several apps already work this way. Spotify shows a simple, big-button screen during a morning run and a denser, exploration-focused screen in the evening. Starbucks weaves together time, weather, store distance, and order history in real time, pushing cold brew on a hot afternoon and a reorder button on the morning commute."
+        },
+        {
+          "t": "p",
+          "x": "On-device ML is the key to this approach. The decision to enlarge a button has to finish within one millisecond, which a server round trip can't handle, and sensitive signals like location or behavior shouldn't leave the device at all. Flutter's 'UI = f(state)' model fits this well: widgets redraw themselves automatically whenever the sensor stream changes."
+        },
+        {
+          "t": "p",
+          "x": "With no single fixed screen, QA gets harder. Teams test by turning context into injectable values, and design review shifts from approving a finished mockup to approving an 'acceptable range.' Marketing research also found personalized calls to action get roughly 200% better response than generic copy. A fixed screen is increasingly becoming a sign of an aging app."
+        }
+      ]
+    },
+    "design/design-cost-aware-ai-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI video tools often tell you how much a choice costs only after generation has already started. Cost comes from the very controls that shape the output, so it needs to update inside the same interaction."
+        },
+        {
+          "t": "p",
+          "x": "First, treat cost as a derived value, not a surprise at checkout. The Grok workflow, for instance, supports 1-15 second videos at 480p (1.6 credits per second) or 720p (3 credits per second). Don't calculate it only server-side after submission; show the estimated cost next to the generate button every time duration or resolution changes."
+        },
+        {
+          "t": "p",
+          "x": "Second, define the model's capabilities as data and let the form adapt to it. That blocks impossible combinations and cuts the error-handling burden. Third, set defaults with a first success in mind. An 8-second 480p render costs 13 credits, so a starting balance of 20 credits still leaves room to adjust."
+        },
+        {
+          "t": "p",
+          "x": "Fourth, put a short hint right next to the expensive choice. A line like 'start at 480p to test motion' works better than a warning banner. Fifth, treat the client-side preview as a reference only; re-validate on the server, check the balance, and only then deduct credits. Sixth, test the decision flow, not just the controls, the default estimate, resolution switching, rounding, and balance recovery after a failure all need checking."
+        }
+      ]
+    },
+    "design/design-tokenignite": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Change a CSS variable in browser dev tools and the screen updates instantly. What if editing a Figma variable reflected just as instantly in the actual web app? That question is where TokenIgnite started, and its developer built a proof of concept in 8 hours."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe9g3xz7azg8gv1csfxdg.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "The problem is 'design drift.' Layout code pulled out by AI diverges from the original design, breaking color modes and throwing off spacing. Existing token pipelines need a full build just to check a minor change, which makes feedback slow."
+        },
+        {
+          "t": "p",
+          "x": "TokenIgnite streams Figma variables into a local dev environment or a private staging server with no delay. It takes effect right in the browser without touching repository code, and the original file stays untouched until export. Code written by a language model connected to the Figma MCP server picks up the same properties."
+        },
+        {
+          "t": "video",
+          "yt": "L-oEhdSFxNU"
+        },
+        {
+          "t": "p",
+          "x": "Once the work is done, Figma variables get cleaned up into tidy custom CSS properties. It's a dev-only dependency (npm i -D tokenignite), so it has no effect on production. The developer spent four months alone handling everything from planning to design, engineering, and infrastructure to grow this into a SaaS, reaching about 61,000 lines of code and roughly 1,000 commits."
+        }
+      ]
+    },
+    "design/design-design-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Asking an AI coding tool for a “Rainy Old Bookstore” poster returned a book icon, a few raindrops, and results no better than a school newsletter. That was the moment to dig into why AI drafts turn out so flat."
+        },
+        {
+          "t": "p",
+          "x": "The problem isn't technology, it's taste. A tool like Codex can place elements on a screen all day long. What it can't explain is why one composition feels “quiet and refined” while another looks like clip art. A general model simply has no design system in its head."
+        },
+        {
+          "t": "p",
+          "x": "gc-minimal-zine-poster is an open-source Codex skill that packs in the entire visual language of zine design. Instead of a vague “make me a poster” prompt, it calls up a whole design system. The skill splits the zine style into four axes: composition with asymmetric balance and generous white space, typography that mixes handwriting or serifs at mismatched sizes, color built on a restrained palette with a single accent, and texture that adds paper grain and a soft noise."
+        },
+        {
+          "t": "p",
+          "x": "The poster series the original creator (@BTCqzy1 on X) made with this skill logged 875 likes and roughly 50,000 views. The prompt was the same single sentence, but the results were completely different — instead of predictable icons, screens that looked deliberate enough to hang in a gallery."
+        },
+        {
+          "t": "p",
+          "x": "If AI drafts keep coming out soulless, the answer may not be a better prompt. It may be handing the model a design vocabulary it never had."
+        }
+      ]
+    },
+    "design/design-proxy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*p9ZSUqRu3IsE9au13EPvLg.png",
+          "cap": "The screen a machine reads before it reaches a person"
+        },
+        {
+          "t": "p",
+          "x": "For decades, a designer's audience was a single person. Every method and principle was aimed at understanding human needs and building experiences people could trust and enjoy. That foundation hasn't disappeared, but the surroundings have changed."
+        },
+        {
+          "t": "p",
+          "x": "Now, many digital experiences meet another audience before they reach a person. A language model reads and cites writing meant to answer someone's question; developers ask an AI assistant before checking official documentation. The first point of contact now passes through another machine. This system is no longer just a tool — it has become a participant that intervenes in how work gets discovered and interpreted."
+        },
+        {
+          "t": "p",
+          "x": "Search engines rewarded discoverability; social media rewarded engagement. Language models reward interpretability. The trouble is that while systems optimize for this intermediary, the human experience gets pushed to the back burner. No matter how polished, a screenshot hides almost everything that makes a product actually work. The hierarchy created by spacing, the component structure, interaction patterns, accessibility decisions — none of it shows up in a static image, yet all of it decides whether a product survives."
+        },
+        {
+          "t": "p",
+          "x": "The more AI drives down the cost of building the visible layer, the more the value of the invisible layer rises. Language models favor consistency and explicit structure; people respond to personality, ambiguity, surprise, and emotion. A good experience satisfies both. Tailoring for machines becomes part of the job, but it isn't the same as designing for machines."
+        },
+        {
+          "t": "p",
+          "x": "Generation has become common; discernment has become rare. AI hasn't changed who we build for — it has changed who reads first. Not confusing the two is the designer's job."
+        }
+      ]
+    },
+    "design/design-backflip-mesh-to-cad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Backflip AI has substantially reworked its Copilot foundation model. It reverse-engineers a single part back into fully editable, parametric CAD complete with a feature tree. The result looks as if a skilled engineer had built it from scratch."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/08/Backflip-AI-Fusion-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The inputs are 3D scan data and mesh files including STL. The company says this Mesh-to-CAD update is especially strong on medium-complexity parts machined on 3-axis CNC mills and lathes. The output moves straight into the CAD package you already use, where you can keep working on it as is."
+        },
+        {
+          "t": "p",
+          "x": "An agent loop layered on top of the model goes a step further. The 3D Scan to CAD tool reconstructs the mesh, then inspects its own output and re-runs itself to improve shape fidelity and dimensional accuracy. There are two modes: Fast restores common geometries within minutes, while Thinking takes more time on complex geometries to raise the finished quality."
+        },
+        {
+          "t": "p",
+          "x": "Multimodal AI Search, which scans a part library using a text prompt or a photo to find the part you want right away, has also been added. Starting today, it is available as an Autodesk Fusion add-in and on the web, with plugins for other CAD packages arriving within the year. Pricing starts at $20 a month under the Builder, Pro, Business, and Enterprise plans."
+        },
+        {
+          "t": "p",
+          "x": "'Most frontier models have limited 3D understanding, picked up as a byproduct of training on massive internet data. We built our model around 3D CAD operations as first-class primitives, and trained it the way engineers actually design — breaking a solid shape apart and then rebuilding it feature by feature, operation by operation.' That's the explanation from founding engineer Kairo Morton."
+        },
+        {
+          "t": "p",
+          "x": "He added that it is 'the first foundation model to produce output you can open in a CAD package and keep working on as is,' and that 'right now, that opens the path from scan to CAD, and everything we build going forward stands on top of it.'"
+        },
+        {
+          "t": "p",
+          "x": "Until now, turning a single physical part into a usable CAD model required hours of skilled reverse-engineering work, typically costing more than $1,500 per part. Backflip AI says that figure drops to around $10. With a drop of more than 100-fold, digitizing every part on the factory floor, not just some of them, starts to make economic sense."
+        },
+        {
+          "t": "p",
+          "x": "'Star Trek had a replicator, a machine that could make anything. We built the opposite. We take something that already exists and turn it back into a digital version you can build on, fix, and improve.' So says CEO Greg Mark. When something breaks in the field, you had to start with reverse engineering to bring it into digital form, 'a process that took hours to days and cost about $1,500 per part.' 'Our new AI model does it in one to five minutes for about $10.' He said the shift would free skilled CAD engineers for more important design work, raise factory efficiency, and widen the range of people who can use CAD."
+        }
+      ]
+    },
+    "design/design-context-files-tokens": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hand a screen over to AI and you get something that is good and, at the same time, unremarkable. It's clean, usable, and shows signs of a hand that knows something. But the empty state is missing, meaning is carried by a single color alone, and a pattern you decided to drop three weeks ago gets pulled back out. It's not that the agent is lazy. It was faithful to the brief it received — that brief was just far thinner than the one in your head."
+        },
+        {
+          "t": "p",
+          "x": "The first thing to disappear is design intent. An agent can write React all day, but it doesn't know which color carries meaning and which is decoration. It doesn't know that users keep misreading a state marked by color alone, or that you spent a long time weighing whether to put a modal right there last month before dropping the idea. So it fills in the gaps with a guess, usually close enough to look plausible. General statements delivered in a confident tone read, at a glance, like the product of careful thought."
+        },
+        {
+          "t": "p",
+          "x": "The writer sees this as a briefing problem, not a prompting problem. The ceiling on the output isn't set by how cleverly you phrase the request, but by how much of your own judgment is already in the context at the moment you make it. It's the shift from prompt engineering to context engineering, and Anthropic's agent-building guide arrives at the same place."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UTQAX5iMTiBM_RTdmauD5Q.png"
+        },
+        {
+          "t": "p",
+          "x": "Treating the markdown files as documentation is a failure mode. People want reasons and stories before they trust a rule. Agents don't want that. Before generating even a single line, they want a rule they can check their output against."
+        },
+        {
+          "t": "p",
+          "x": "The work happens inside the terminal. Rather than typing into a chat window and moving the result somewhere else, you build directly inside the project with a coding agent. So the files sit in a folder the agent already reads. The design system is linked in, so the terminal reads the actual tokens, components, and variables — not your description of them. Reading the spacing scale directly instead of guessing at it: that connection is what gives the files their power."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JB4oGfgjs0LjFggL.png"
+        },
+        {
+          "t": "p",
+          "x": "There are nine files, grouped into three sets by use. CLAUDE.md, DESIGN.md, and VOICE.md load every session, so they're kept thin because the tokens are expensive. DESIGN.md isn't an inventory. The hex values are already read from a connected system, so what goes here is how far that value is allowed to go. Not 'space-4: 16px,' but something like 'space-4 between related items, space-8 between sections, lean wide when unsure — for this user, density reads as tension.'"
+        },
+        {
+          "t": "p",
+          "x": "The second set — PRD.md, FLOWS.md, and RESEARCH.md — is written when a feature starts and archived at launch. What earns its place in a PRD is the out-of-scope list: 'not this, not now.' FLOWS.md records every state — default, loading, empty, saved, error, blocked — so the empty state no one remembers designing doesn't vanish. The third set, read only when needed, is COMPONENTS.md, DECISIONS.md, and REVIEW.md. DECISIONS.md is append-only; it's never edited."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Mc5vMOqAUb5rnbZL2f6Rpw.png"
+        },
+        {
+          "t": "p",
+          "x": "You don't use all nine at once. You start with the root file and the design file, and the rest follow once their absence starts to hurt. Write about 60% of it and let the agent tell you the rest. Pull three versions of the most complex screen and don't look at whether they're pretty — look at where they drift. If all three drift the same way, there's an unstated constraint sitting there. Add one sentence and run it again. Usually two or three passes is enough to settle it."
+        },
+        {
+          "t": "p",
+          "x": "If the result feels flat or somehow off, the answer isn't a cleverer prompt or a newer tool. It's stepping up a level, telling the agent what world it's standing in, and handing over a few rules that can't be inferred from a hex value. The states and decisions, the options you ruled out and why — those are already part of how you normally work. Writing them down for an agent is no different from writing a handoff for another designer."
+        }
+      ]
+    },
+    "design/design-eve-agent-browser": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The eve agent browses the web like a person, through agent-browser."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1D7dKimTHvQQeeW7Xa87YH/ae57e47291e68f5acb7a0376d64c2afd/give-your-agent-a-browser-04__2_.png"
+        },
+        {
+          "t": "p",
+          "x": "The @agent-browser/eve extension hands any eve agent a full set of browser tools: navigating pages, reading content, clicking, filling forms, taking screenshots, and checking console and network activity. All of it runs inside the agent's sandbox."
+        },
+        {
+          "t": "p",
+          "x": "Installation is just pnpm add @agent-browser/eve, then mounting it in agent/extensions/browser.ts. Extension options include allowedDomains, where you list the domains it can reach, like [\"example.com\", \"*.example.com\"], and maxOutputChars, where you set the output size."
+        },
+        {
+          "t": "p",
+          "x": "The agent gets namespaced tools such as browser__navigate, browser__snapshot, browser__click, browser__fill, and browser__screenshot. A reference like [ref=e12] in a snapshot becomes the @e12 selector, meaning it looks at the page and then grabs and acts on exactly what it saw."
+        },
+        {
+          "t": "p",
+          "x": "Sandbox isolation — Chromium and agent-browser run in the eve sandbox, not in the app itself. Pre-installing it in the sandbox template starts sessions warm; otherwise, the extension installs itself on first use."
+        },
+        {
+          "t": "p",
+          "x": "Domain allowlist — allowedDomains restricts page navigation and subresources. Output size, screenshot handling, proxy use, and session naming are all adjustable through extension options."
+        },
+        {
+          "t": "p",
+          "x": "Credential protection — commands that handle cookies, storage, and saved authentication state are never exposed to the model at all. eve extension overrides can disable specific tools or add an approval step, and app-specific guard tools can be added on top."
+        },
+        {
+          "t": "p",
+          "x": "A Next.js eve app example with the extension mounted, along with documentation, was released alongside it."
+        }
+      ]
+    },
+    "design/design-figma-motion-keyframes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Keyframes are one of two ways to move an object in Figma Motion. A single keyframe is a marker that locks in a layer property's value at a specific point in time. Plot a second keyframe on the same property with a different value, and Figma Motion builds the transition between them."
+        },
+        {
+          "t": "video",
+          "yt": "0lnvIXzocj4"
+        },
+        {
+          "t": "p",
+          "x": "Any property with a diamond icon next to it can take a keyframe. That includes basic properties like position, size, and rotation, as well as less obvious ones like fill, effects, and shaders."
+        },
+        {
+          "t": "p",
+          "x": "To plot one, click the diamond next to the property. The icon turns blue and a keyframe appears on the timeline. The layer area of the timeline shows both the kind of keyframe and the property value attached to it."
+        },
+        {
+          "t": "p",
+          "x": "Creating motion requires at least two keyframes on the same property. To scale a rectangle from 0 to 100% over 1,000 milliseconds, plot a scale keyframe with a value of 0 at the start of the timeline, and another with a value of 100 at the 1,000-millisecond mark."
+        },
+        {
+          "t": "p",
+          "x": "To change a value, double-click a keyframe to select it, then edit it in the right sidebar or the timeline's layer area. Copy and paste also work, and selecting two keyframes on different layer tracks and right-clicking aligns them vertically on the timeline. To delete one, select it and press Delete."
+        },
+        {
+          "t": "p",
+          "x": "To keep a motion looping for the full length of the animation, right-click a keyframe in the layer area and choose loop track. The existing keyframes get duplicated across the length of the timeline."
+        },
+        {
+          "t": "p",
+          "x": "To plot keyframes faster, turn on auto keyframe in the timeline controls. While it's on, every change you make to an object is recorded as a keyframe. Position the playhead where you want and change a value in the sidebar, or touch the object directly on the canvas. Since every changed property gets recorded, don't forget to turn it off when you're done."
+        }
+      ]
+    },
+    "design/design-flow-studio-3d-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Producing one good-looking scene with AI isn't hard anymore. Landscapes, characters, cinematic angles — scenes that needed a small team not long ago now come out in seconds. The problem comes next. The moment you try to stitch those clips into something that holds together as a piece, the gap between short and simple versus long and meaningful shows itself."
+        },
+        {
+          "t": "p",
+          "x": "Autodesk's answer, in expanding Autodesk Flow Studio, wasn't 'use more AI.' The new 3D Editor + Canvas workflow puts cameras, characters, animation, environments, and AI motion-capture data into a proper 3D workspace first. AI is left to generate and refine only the final visuals. The company now calls Flow Studio an 'AI-native creative platform,' not just another generative tool."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/M9P3q5ugS47buP6Kwia5sR-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "'Film has always been directed inside 3D. But most generative AI video work has tried to control that through 2D inputs.' So says Nikola Todorovic, co-founder of Autodesk subsidiary Wonder Dynamics. A director sets an actor's blocking, gaze, and pace of performance, places the camera, and refines framing and timing — all decisions made in three-dimensional space, he says."
+        },
+        {
+          "t": "p",
+          "x": "You block a scene in the 3D Editor, lock in performance, timing, pacing, and camera movement, then move to Canvas to build the final look in 2D. Canvas is a familiar node-based editor. Direction and rendering split at this point: stay in 2D only if you need speed, and step into 3D only when you need to hold composition and camera precisely."
+        },
+        {
+          "t": "video",
+          "yt": "dv92ImhAEIQ"
+        },
+        {
+          "t": "p",
+          "x": "The demo wasn't a parade of prompts. Todorovic extracted a performance from footage of a person walking, turned it into animation, and applied it to a robot built in Wonder 3D. He also pulled the camera movement from the original clip. What's left isn't a single blob of AI video but performance, camera moves, and a character you can reuse separately. In his words, it was 'a somewhat sad robot walking into empty space and questioning its own existence.'"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W3jKG6SKcXGGnDS6Fwk82S-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "That robot was placed in a city built by World Labs Marble. The city became a sci-fi landscape, then a back alley. The animation and the camera stayed the same; only the world around the character changed. The demo also reversed the usual order: walking through a generated garage to find an angle you like, setting up the shot first, and adding the character afterward — not unlike working in Maya or Blender."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/oGgRJ2n2zTQkBLtvsmGhsR-1200-80.png"
+        },
+        {
+          "t": "p",
+          "x": "'I don't think 3D skills become mandatory. But their value goes up.' So says Todorovic. The more someone already understands camera blocking, staging, composition, and animation, the more they get back from this. With 2D alone, he added, 'you get to 80% of the shot quickly, but control over the last 20% — especially through repeated revisions — breaks down.'"
+        },
+        {
+          "t": "p",
+          "x": "What Autodesk is betting on isn't better generation but better control. Deeper Maya integration, expanded asset import, AI-assisted scene composition, and agent-based direction workflows are on the roadmap. That doesn't mean prompts disappear. It means where decisions get made shifts from the prompt box to 3D space."
+        }
+      ]
+    },
+    "design/design-agent-evidence-approval": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When an agent offers to do something on your behalf, it's common for the screen to show just a single approval button. The author argues for flipping that order: instead of showing a summary and asking for approval, surface the evidence first and place the verdict and execution after it."
+        },
+        {
+          "t": "p",
+          "x": "Human-in-the-loop approval needs three things settled in advance. Who is accountable for the decision—a person or a role, not a team. The severity of the outcome—whether it can be undone in seconds, only with effort, or not at all. And last, the point of no return: the final moment when stopping costs nothing."
+        },
+        {
+          "t": "p",
+          "x": "The 'evidence-first review card' the piece proposes is split into four sections. At the top: the requested action and its severity rating. Next, an evidence section that lists every check performed with a pass mark, while checks that failed or were never run occupy their own row on equal footing. The key point is that missing evidence stays as an explicit row rather than being omitted."
+        },
+        {
+          "t": "p",
+          "x": "The agent's verdict is collapsed by default—a device meant to prevent anchoring, where reading it first pulls your judgment along with it. The buttons at the bottom aren't split into a simple yes or no either: execute, run the rollback test first, or reject. A recovery path sits in the middle."
+        },
+        {
+          "t": "p",
+          "x": "What blocks approval is also laid out in a table. The approval button locks if an irreversible action's rollback path has never been run, if verification ran on stale or non-production data, or if the agent's confidence falls below a threshold it stated itself. If evidence coverage falls short of 100%, that's only a warning—but the user must type a reason to proceed. Supplementary information tacked on without an accompanying check is shown but doesn't block anything."
+        },
+        {
+          "t": "p",
+          "x": "In implementation, the model's role stops at the draft. An LLM reads the tool-call logs and writes the evidence summary, but deterministic code re-verifies the judgment of whether to lock or unlock the approval button. The model is a drafter, not a source of truth."
+        },
+        {
+          "t": "p",
+          "x": "A validation method is attached too: show three screens to six to eight people who actually make these decisions. The current screen with a one-line summary and just an approval button; the evidence-first card that exposes a missing rollback test; and a card with three pieces of irrelevant context mixed in. Measure how much the rate of catching a missing check improves, and what the quality of the stated reason looks like when someone pushes through anyway."
+        },
+        {
+          "t": "p",
+          "x": "Accessibility requirements are also nailed down. Status shouldn't rely only on glyphs like checkmarks and X's—attach text labels too so screen readers can read them. A collapsed verdict should open via keyboard, and the fact that it can be expanded must be announced. A disabled approval button should convey the reason via aria-describedby. When a hard stop triggers, focus should move to the explanation rather than a toast that disappears."
+        }
+      ]
+    },
+    "design/design-chat-wrong-interface": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If AI chat frustrates you, it's not because the AI falls short. The author's diagnosis runs the other way: a fairly sophisticated capability is trapped inside an outdated format."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The author gives the example of an hour-long conversation carried on while walking the dog. The LLM kept pace with a conversation that moved between design, engineering, psychology, and physics without losing the thread. It noticed connections between things said far apart, returned to hypotheses raised earlier, pushed back when asked to, and organized half-formed thoughts on the user's behalf."
+        },
+        {
+          "t": "p",
+          "x": "The trouble comes after that. The longer the conversation runs, the shorter the scrollbar gets. A good idea ends up buried \"somewhere between ten tool calls, three outputs, and a hundred compliments about how interesting my question is and how my idea is a gold mine.\""
+        },
+        {
+          "t": "p",
+          "x": "The author, a designer with a background in linguistics, psychology, and communication theory, doesn't see this as merely a usability problem. One layer down lies a question of communication design: why language still holds the default interface spot, and what that choice obscures."
+        },
+        {
+          "t": "p",
+          "x": "The piece's argument is clear: the chat box is the lazy default that AI products reach for without a second thought. What designers need are interface patterns that reveal a model's capabilities instead of hiding them behind a text input field."
+        },
+        {
+          "t": "p",
+          "x": "The original piece ran on UX Collective. The latter part is open only to Medium's paid subscribers, so what's carried here is limited to what's confirmed in the publicly available opening section."
+        }
+      ]
+    },
+    "design/design-code-connect-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When translating a design into code, an agent doesn't know the real components our team actually runs. So it rebuilds everything from primitives. The screen looks roughly right but doesn't match the codebase, and time and tokens leak away into searching, guessing, debugging, and rewriting."
+        },
+        {
+          "t": "p",
+          "x": "Attach Code Connect to the Figma MCP server, and the story changes. Figma components get linked to the real components in the codebase, so the MCP response carries production code snippets instead of a design's React approximation. What to import and which prop values to pass come through exactly as written."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Coinbase Design Systems team checked this first. Frontend engineer Erich Kuerschner ran the same design, the same prompt, and the same model with Code Connect turned on and off. \"Without Code Connect, the agent would sometimes invent its own components—turning a stepper into a progress bar, for instance.\" With it on, he says, the agent gets back import statements pointing straight at the correct CDS components, which sharply improved code quality while also saving tokens."
+        },
+        {
+          "t": "p",
+          "x": "Figma built an evaluation harness that runs the same design-to-code task once without Code Connect and once with the template attached. There were 27 test cases, measuring code quality, token usage, and time elapsed. Two React-based design systems were used. For the example-oriented Simple Design System, 20% of responses were Code Connect snippets; for the internal Figma Pattern Library, coverage was sparse, at around 6%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/35f6fde4ce9f85257cecfcb6af666932842ab4af-3264x1836.png"
+        },
+        {
+          "t": "p",
+          "x": "An LLM judge scored five criteria—accuracy, code quality, maintainability, completeness, and best practices—on a 1-to-4 Likert scale from \"broken\" to \"excellent.\" Runs repeated multiple times per variant to filter out outliers took more than 24 hours to finish. The models used were Claude Sonnet 4.5 and Claude Opus 4.7 together."
+        },
+        {
+          "t": "p",
+          "x": "Across all agent runs that used get_design_context, the medians came out like this: code quality rose a full point, from 2 to 3; token usage fell 29.5%; and time elapsed fell 19.6%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/759b9b5b387a1bcf07985fff39faec17aac5102a-2050x1153.png"
+        },
+        {
+          "t": "p",
+          "x": "In the end, coverage is what split the numbers apart. How much of the handoff design was filled with design-system components, and how many of those were linked via Code Connect. The higher both of these were, the more snippets outweighed plain React in the responses, and the better the results."
+        },
+        {
+          "t": "p",
+          "x": "Higher coverage meant the agent made fewer exploratory tool calls. In the FPL case, runs without Code Connect dug through node_modules and grepped broadly for icon names. Some runs hand-built a tab bar and wrestled with custom CSS. Once connected, the agent reached straight for the real Tabs and Button components, finishing at 77% of the time and 62% of the tokens."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/396116262667f31a91d215cb60dc1b4981e94553-3264x1836.png"
+        },
+        {
+          "t": "p",
+          "x": "The tabs and buttons built without it looked similar but didn't work. The tabs weren't clickable, and even the selected state was hardcoded. Icons and padding were subtly off too."
+        },
+        {
+          "t": "p",
+          "x": "An agent doesn't automatically know what counts as good code at our company. Left alone, it either burns tokens hunting for the right component or cheerfully rebuilds everything from scratch. It may look right to the eye, but it's not code you'd want to commit. What it needs is a real code snippet showing how that component is actually implemented in the codebase."
+        }
+      ]
+    },
+    "design/design-material-creator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "BiteTheBytes, the maker of World Creator, has announced it's working on a new application called Material Creator. The company's own phrase for it is a \"real alternative\" to Adobe Substance 3D Designer. Due out within the month, the software builds materials for games and VFX through a node-based workflow and can also import Substance graphs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_MaterialCreator_NewAlternativeToSubstance3DDesigner_main-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Material Creator is one of several new tools BiteTheBytes has released alongside its flagship world-generation software, World Creator. Cubify, which came first, is an editor for making block-based voxel models for games, while byteInstaller builds Windows application installer executables. The one CG Channel readers will want to watch is the last: a node-based material authoring tool aimed at games, motion graphics, and VFX work. Development has run for more than a year, with independent game designer and tool developer Steven Koch joining the team to help build it."
+        },
+        {
+          "t": "p",
+          "x": "Once released, it will go head-to-head with commercial material authoring tools like Substance 3D Designer and InstaMAT, as well as the open-source Material Maker. All share the same approach: building game and VFX materials procedurally through a non-destructive node workflow. BiteTheBytes calls itself a \"real alternative\" to Substance 3D Designer and InstaMAT, saying it brings \"the features you already know, but does several parts noticeably better.\""
+        },
+        {
+          "t": "p",
+          "x": "Previews posted on the Material Maker Discord show one area where it aims to do better: the graph. A simpler, more modular graph that's easier to manage. The Function Node system wraps a cluster of nodes into a single node while letting you choose which parameters to expose. Koch compared this to Unreal Engine's Material Functions—meaning you build reusable assets to drop into a material library or share with teammates."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_MaterialCreator_NewAlternativeToSubstance3DDesigner_Nodes-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "'The Cleaner' automatically tidies up the node graph in a selected area, simplifying connections. Frequently used material types, like foliage, come pre-built as 'Smart Nodes,' shipped with key controls and mask inputs already set up."
+        },
+        {
+          "t": "p",
+          "x": "A full feature list hasn't been released yet. Details shared on the Discord server suggest it will include an Image to PBR system, apparently corresponding to the Image to Material feature in Substance tools. It also supports relatively new workflows like hex tiling. Substance 3D Designer graphs can be imported to reuse existing assets, though the results may not come out completely identical. Textures export at a minimum of 8K (8,192 x 8,192px), matching other commercial tools."
+        },
+        {
+          "t": "p",
+          "x": "Release is slated for August 2026. System requirements and exact pricing aren't out yet. On Discord, the company said it will offer both perpetual licenses and subscriptions, and plans to come in \"cheaper than Substance 3D Designer.\""
+        }
+      ]
+    },
+    "design/design-v0-api": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel has officially released a new v0 API, a way to access v0's app-builder agent headlessly. Send it a prompt, and v0 builds an app, spins up a dev server inside Vercel Sandbox, and returns a preview URL you can drop straight into your own UI."
+        },
+        {
+          "t": "p",
+          "x": "A single chat becomes the workspace for a single app. Inside it, v0 reads, edits, and runs files. Follow-up messages continue from the current state. Because v0 verifies the code running in the sandbox itself, it catches and fixes errors in real time."
+        },
+        {
+          "t": "p",
+          "x": "The usage pattern is simple. Install the v0 SDK, create a chat, send a prompt, stream the work as it happens, and bring up the preview. Once it's ready, deploy to Vercel with a single API call. v0 runs the entire pipeline—sandbox, dev server, and preview."
+        },
+        {
+          "t": "p",
+          "x": "Vercel names three use cases. A white-label app builder, where a user describes an app and gets one back. Automation from scripts, CI jobs, or webhooks that call v0 to build or fix an app. And build tooling for agents—an agent that hands back a running app instead of a code snippet."
+        },
+        {
+          "t": "p",
+          "x": "The API also answers how to fill the screen during the gap between a request and the preview. Every message arrives as ordered parts: text, reasoning, file reads and edits, search, bash commands, tool calls, agent actions. The same object can drive a one-line status indicator, a list of changed files, or a full trace view. Usage comes attached to both the chat and the message response."
+        },
+        {
+          "t": "p",
+          "x": "You choose among three response modes: synchronous, asynchronous, and streaming. Use synchronous when you need a completed response, asynchronous when you'll queue the work and pick it up via webhook or polling, and streaming when you want to show the work as it happens. You can also start a chat from a repository, a ZIP, or a bundle of files."
+        },
+        {
+          "t": "p",
+          "x": "Each chat's preview gets a short-lived token. Fetch the token on a server route and proxy browser requests through it, so the v0 API key never reaches the browser. While the sandbox is spinning up, route traffic to a loading page, then hand it off to the preview once it's ready."
+        },
+        {
+          "t": "p",
+          "x": "Design systems can be wired in too. Design Systems 2.0 stores a design system as a skill; include it in a request and it pulls in components, tokens, setup, and a starter app together. Up to three skills are allowed per request. You can also enable only specific MCP servers on a per-chat basis."
+        },
+        {
+          "t": "p",
+          "x": "If you're building an agent, you can hand v0 itself over as a tool. There are three ways to wire it in: connect an MCP server to an IDE, a desktop assistant, or an agent runtime; for a TypeScript agent, expose v0 API operations as tools through @v0-sdk/ai-tools for the AI SDK; or for an eve agent, attach an OpenAPI connection file."
+        },
+        {
+          "t": "p",
+          "x": "Chats from the previous version of the v0 API don't run on the new API. You'll need to pick the version you want to keep, download it as a ZIP, and create a new chat from that ZIP. Send new requests to https://api.v0.dev/v2. A chat holds an app's current state; its messages hold the history."
+        }
+      ]
+    },
+    "design/design-armature-auto-rig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "FabricatorStudio, led by game artist Adrian Melian, has released Armature. It's an AI-assisted standalone character rigging and skinning tool aimed at games, animation, and VFX work. It imports character and creature models in standard 3D formats, builds rigs and skin weights, and exports USD files for use in Maya, Unreal Engine, or Blender. Maya users can also choose to generate a control rig. The core Armature tool is free for indie artists, and the pipeline toolset is free for artists and studios with under $2 million in annual revenue."
+        },
+        {
+          "t": "video",
+          "yt": "Zl2CS10_DRg"
+        },
+        {
+          "t": "p",
+          "x": "There are already several established auto-rigging toolsets, especially on the Maya side. Still, Melian's track record in building tools is solid. As lead technical artist at Sledgehammer Games, maker of the Call of Duty series, he built in-house rigging tools, and he also passed through Ubisoft and Meta. “Throughout my career, I built these kinds of tools for big studios. When I sat down to make an indie game, I realized my personal toolbox was empty, so I rebuilt everything from scratch.”"
+        },
+        {
+          "t": "p",
+          "x": "The workflow is simple. Import a model as USD, OBJ, FBX, or glTF/GLB, line up the orientation, and Armature fits the skeleton and generates skin weights automatically. Rig templates are ready for bipeds, quadrupeds, and props, and assembling modular parts lets you rig creatures like a squid."
+        },
+        {
+          "t": "p",
+          "x": "There are two skinning engines, and both run on the user's computer. One is geodesic voxel binding, the same technology used in Maya's Smooth skinning tool, and it works on any system. The other is an AI engine that requires an NVIDIA GPU. Once a character is rigged and skinned, it can be exported as USD and used in any program that reads UsdSkel data. Maya and Unreal Engine are the primary targets, but Blender and Houdini can also import it."
+        },
+        {
+          "t": "p",
+          "x": "Melian calls Armature a “human + AI rigging tool.” The idea is that raw AI output is “good enough for hobbyists,” and manual refinement can push it up to “the level professionals need.” The manual correction tools can be used out of order, and if you reimport a changed source model, the skinning you already created stays in place."
+        },
+        {
+          "t": "p",
+          "x": "Maya users can build a control rig to animate directly, instead of retargeting existing animation or mocap data. This requires FabricatorStudio's separate Maya toolset, which reads the custom keys Armature creates to build the control rig. It's a “complete character pipeline from Maya to Unreal” that includes a pose and animation library among other features. Melian is also building a control rig builder for Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "Armature supports only Windows 10 and above, and the current release is 2.1.3. The AI skinning engine requires an NVIDIA GPU; everything else is hardware-agnostic. It's free for personal use, and indie artists earning under $100,000 a year can use it for commercial work as well, free of charge. A perpetual license costs $149. The Maya toolset is compatible with Maya 2022 and above."
+        }
+      ]
+    },
+    "design/design-claude-screen-states": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://phongdesigns.com/en/assets/blog/blog-69-cover.webp",
+          "cap": "States missing from screens Claude builds"
+        },
+        {
+          "t": "p",
+          "x": "Ask it to build a screen, and what comes back is that screen on its best day. The content is full, with no loading and no failure. Permissions are already granted, and the network is fine. It is not the product on a Tuesday afternoon, but the product from a case study. People often call this a model limitation, but I see a more specific problem."
+        },
+        {
+          "t": "p",
+          "x": "Almost every interface image available online is a marketing image. Landing pages, case studies, and gallery screens are all curated and full. Almost no one posts an empty state, and no one puts an error screen in a portfolio. So when you ask for a “booking screen,” you get the version you have seen ten thousand times, the one where everything goes right. It is not failing; it is returning what it learned. What is missing is not the model's ability, but the world's own habit of only photographing the good version."
+        },
+        {
+          "t": "p",
+          "x": "Take one booking product. It has 68 features, 44 in the MVP, 7 flows, and 28 key screens. Twenty-eight sounds like a small project. The actual number of artboards multiplied several times over, because a screen is not finished until it has its states. Loading, empty, error, permissions, offline — everything that product can actually do to a user. This is where estimates fall apart."
+        },
+        {
+          "t": "p",
+          "x": "An empty state is not a screen with the content erased. It is an answer to the situation that this person has nothing in front of them yet. Are they new, did filters remove everything, or did something fail? Three situations, three messages, three actions — and only one of them is “add your first item.” An error state is not a red box either; it is a decision about whether recovery is possible, whether input gets lost, and whether it was the user's fault. The model can render any of these convincingly. But which situation applies is not in the brief, so it cannot choose, and it does not ask."
+        },
+        {
+          "t": "p",
+          "x": "That is why states get named before generation, not after. When drawing up the screen list, while still remembering why that screen exists, the needed states are written down alongside it. Add them later, and they become visual variants of the finished screen, inheriting its layout outright. What is left is an empty state with a filter bar that filters nothing and a table header with no rows. It looks like an empty state, but it makes no sense as a product."
+        },
+        {
+          "t": "p",
+          "x": "The same goes for components. Text fields have focus, filled, disabled, error, and read-only; buttons have pressed, disabled, and loading. A checkbox's indeterminate state is bound to appear the moment anyone builds bulk selection. If the library only holds whatever happened to show up, the missing states get built later, under pressure, differently in three different places by whichever developer hits them first. So the rule is this: you do not need to build every component archetype, but whichever ones you do build should carry the full state matrix, even if no screen asked for it yet."
+        },
+        {
+          "t": "p",
+          "x": "States are exactly where a product actually meets its user — the day search results came up empty, the day a payment failed, the day the app was opened on a train. A polished screen is a screen for showing; a state is a screen for using."
+        },
+        {
+          "t": "p",
+          "x": "It is possible to overdo this too. I have built out every state for a screen that ended up cut from the product entirely. That is wasted work, and it makes the state list look like a box-ticking exercise to anyone watching. There is no clean rule for how far to go. Offline behavior is decisive for a field tool and nearly meaningless for an internal dashboard. The only way to tell the difference is to actually think through who uses it, and where."
+        }
+      ]
+    },
+    "design/design-designesy-40-checks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.designesy.org/blog/scoring-30-sites/opengraph-image",
+          "cap": "Results of grading 30 sites on 40 checks"
+        },
+        {
+          "t": "p",
+          "x": "Designesy graded 30 sites that made it onto its own leaderboard. The set spanned design systems, SaaS, hardware, and inspiration galleries. It runs 40 deterministic checks across tokens, motion, accessibility, interaction, performance, responsiveness, semantics, security, and copywriting against a URL. No LLMs, no heuristics — every check reproduces exactly."
+        },
+        {
+          "t": "p",
+          "x": "The results were worse than expected. Scores ranged from 37.9 to 100, with an average of 62.2 and a median of 62.4. One site (3%) got an A, zero got a B, six (20%) got a C, eleven (37%) got a D, and twelve (40%) got an F. Sixty percent landed at D or F, and no one got a B. That is how wide the gap is between looking good and passing a deterministic design contract."
+        },
+        {
+          "t": "p",
+          "x": "Across 30 sites and 40 checks — 1,110 checks in total — 411 passed (37.0%), while 506 (45.6%) came back as warnings, more than the passes. Failures numbered 118 (10.6%) and skips 75 (6.8%). A warning means something is only half in place: a token file exists but uses raw hex, or reduced-motion is present but has no tiered levels."
+        },
+        {
+          "t": "p",
+          "x": "The worst category was tokens, averaging 40.8, with 11 of the 30 sites under 50. Common problems included raw hex colors, missing $schema declarations, magic-number spacing, and no dark-mode surface tokens. The W3C DTCG 2025.10 spec stabilized in October 2025, and 84% of teams say they use design tokens, but most use them loosely, without matching the spec."
+        },
+        {
+          "t": "p",
+          "x": "The second-worst category was motion, averaging 52.5, also with 11 sites under 50. prefers-reduced-motion is either absent entirely or used only as a single on/off switch for animation. The Apple HIG approach — tier 1 remove, tier 2 reduce, tier 3 keep — was done properly by only one site in the sample. Interaction averaged 60.0 with 12 sites under 50, and the most common pattern was removing the :focus outline with no replacement."
+        },
+        {
+          "t": "p",
+          "x": "The top five were Designesy (100, A, self-scored), Apple (77.7), GitHub Primer (77.6, 518 tokens), zeroheight (73.8), and Vercel (73.6). The bottom five included Adobe Spectrum (49.4), Vercel Geist (50.3), Pentagram (41.1), FWA (41.1), and CSS Design Awards (37.9). Sites that hand out awards for good design failed the design contract themselves."
+        },
+        {
+          "t": "p",
+          "x": "The most interesting detail is that Vercel's marketing site (73.6, C) scores 23 points higher than its own design system, geist.dev (50.3, F). The marketing team optimizes for visual polish and the design-system team optimizes for API stability, and this contract rewards the former."
+        },
+        {
+          "t": "p",
+          "x": "Between a C and an A, a 22-point gap, no site landed on a B. That is because the path from informal tokens to DTCG-compliant tokens is a cliff, not a slope. The scoring engine is deterministic, public, and free. Running npx designesy-score@latest grades any URL in five seconds."
+        }
+      ]
+    },
+    "design/design-electronauts-vr-ui": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Inside XR Design series breaks down one standout piece of XR design at a time. This installment looks at what the game Electronauts can teach us about clever VR interface design. Editor's note: Electronauts just marked its eighth anniversary this week, and it was the subject of the first-ever Inside XR Design installment. There is still plenty to learn from it today, so we are bringing this episode back to the front."
+        },
+        {
+          "t": "video",
+          "yt": "HS5W0lbLGcc"
+        },
+        {
+          "t": "p",
+          "x": "Electronauts is a music game made by Survivors. It is designed to make you feel like a capable DJ even without musical talent, and it runs on every major VR headset. It is easy to assume this interface has no use outside of music, but the opposite is true. It is well designed at its foundation, for reasons that have nothing to do with music or rhythm games. There are three pillars: ease of use, hierarchy, and flexibility."
+        },
+        {
+          "t": "p",
+          "x": "Since it is a game about handling instruments like drums, giving players drumsticks is a natural choice. The truly clever part is also using those drumsticks as the tool for operating the interface. Humans are evolutionarily good at handling tools, and research suggests that, once mastered, a tool gets absorbed unconsciously as an extension of one's own body. Because the drumsticks extend the reach of the arm, the interface could be made generously large, easing precision problems and reducing mistakes."
+        },
+        {
+          "t": "p",
+          "x": "This design shows up clearly in how the buttons work. The intuitive assumption is a button that presses on touch, but Electronauts goes a different way for accuracy and stability. You have to jab the drumstick into the button and then pull a trigger. It is a clever solution to VR's lack of physical feedback. Real buttons are designed around the sensation of pushing back, but in VR nothing pushes the drumstick back, making it hard to confidently aim at a physically simulated button. Jabbing in and confirming with a trigger raises precision significantly."
+        },
+        {
+          "t": "p",
+          "x": "Hierarchy is central to any interface. It is the way functions get organized so they are logical, memorable, and easy to retrieve. Electronauts bundles every function into a tool and represents every tool as a cube. To use a tool's function, you place its cube on a stand. Each cube is essentially a small mini-app, like an icon on a phone screen. Only up to three cubes can be active at once, so the hierarchy stays clear without getting deep. Go deeper, like folders inside folders, and things stay organized but take longer to dig through to find what you want."
+        },
+        {
+          "t": "p",
+          "x": "This structure also carries over into flexibility. Because the tools live in physical cubes, users can arrange them however suits their own needs. The interface becomes ambidextrous by design. Instead of leaving the Backing Tracks tool stuck on the right, I, as a lefty, move it to the left with ease. It is similar to dragging a window around on a computer, and when making music, being able to rearrange your workspace on the fly is more useful than a single fixed layout."
+        },
+        {
+          "t": "p",
+          "x": "One test of a good interface is whether it can be used quickly and accurately without getting in the user's way. Electronauts lets you handle a huge number of variables smoothly even while chasing the beat of a song. The principles of ease of use, hierarchy, and flexibility are ideal for any VR interface, not just music games, including the choice to make a handheld tool the primary means of control."
+        }
+      ]
+    },
+    "design/design-figma-claude-code-loop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma and Anthropic announced a two-way integration. The marketing copy promised “escape tunnel vision,” “start anywhere,” and “editable frames.” Reddit's reaction was far harsher. One user called it a “nightmare,” and another warned to brace for burning through tokens without limit. Eleken thinks both sides are right."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422d152193d9e8cd6ac518_figma-to-claude-code-reddit-comment-01.webp",
+          "cap": "Reddit reactions to the Figma–Claude Code integration"
+        },
+        {
+          "t": "p",
+          "x": "The integration runs two ways. Figma → Claude Code uses MCP to read a design file and generate code. It is the older of the two and where most of the real value sits. Claude Code → Figma was announced in February 2026, and it sends code-built UI back onto the canvas as editable frames. Combine the two, and you get a loop running from design to code to canvas and back to code."
+        },
+        {
+          "t": "p",
+          "x": "There is one thing to know first. MCP only hands over structural data — component names, layout properties, spacing tokens. It does not pass along what the design visually looks like. Claude redraws the screen based only on the raw property values. This is exactly why pixel-perfect, identical output is a myth."
+        },
+        {
+          "t": "p",
+          "x": "The clearest use case is fast, interactive prototyping. Feed it a design or even a rough idea, and out comes something you can immediately click through. Design lead Maksym Chervynskyi puts it this way: “You can show it to a client and let them actually touch it. You can build a mockup demo with fake data to show in a presentation how it would behave.” A pair of A/B test variants is also ready in a day, with no need to wait on an engineering cycle."
+        },
+        {
+          "t": "video",
+          "yt": "i6ApeRSrSgk"
+        },
+        {
+          "t": "p",
+          "x": "Redesigning an existing product is a more advanced case, and it eats far more tokens. Claude analyzes the existing UI, pulls out the underlying patterns, finds reusable components, unifies the scattered styles, and then applies that across the whole product. Maksym explains it this way: “You're changing the building blocks that make up the interface. Then you open a page and say, the default button used to be blue, now it's purple — change them all.”"
+        },
+        {
+          "t": "p",
+          "x": "Where it clearly fails is just as obvious. Touching an existing codebase turns into regeneration rather than editing. Expecting pixel accuracy on a complex, multi-frame design will leave you disappointed. Frequent iteration burns through tokens fast on both the Claude and Figma API sides. And if the Figma file has no design system, the output comes out flat."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a422f1ee8149984467a365a_figma-to-claude-code-figma-07.webp",
+          "cap": "Figma, what Maksym calls the north star"
+        },
+        {
+          "t": "p",
+          "x": "Teams that get better results give far more structure and context than you would expect. They write into CLAUDE.md where components live, which naming conventions matter, and what the reference examples are. They start with a single component, not a page. They attach dev-mode CSS to the MCP data so structure and visual intent travel together. They keep a separate reference document for colors, typography, and spacing rules, and have Claude consult it constantly."
+        },
+        {
+          "t": "p",
+          "x": "Through all of this, Figma stays in the spot Maksym calls the “north star.” Even when you build directly inside Claude, losing a static reference screen means losing the blueprint. The old workflow was a straight line running from design to handoff to development; now it is a loop. If you cannot decide, spending just 20 minutes on a single component, rather than a whole project, will give you the answer."
+        }
+      ]
     }
   }
 }

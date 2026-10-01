@@ -3102,6 +3102,1168 @@
           "x": "记忆功能附带条件:若想保留超过30天的对话,需每月支付10美元。Friend 2.0平静地揭示了可穿戴AI的发展方向。"
         }
       ]
+    },
+    "gadgets/mouthpad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/mouthpad-hero-7.jpg",
+          "cap": "Augmental的MouthPad口含装置 © Augmental"
+        },
+        {
+          "t": "p",
+          "x": "AI能大幅提升残障人士的无障碍体验,这种说法一直都有。问题在于,无障碍设备很少被当作能赚钱的产品。于是,那些认为所有创新都属于自己的科技精英们,常常趁机据为己有。"
+        },
+        {
+          "t": "p",
+          "x": "Augmental正是如此。这家初创公司明确将自己定位为无障碍技术公司。其公司简介页面写道:“We build first for people with the greatest need: people living with quadriplegia, ALS, spinal cord injury, or severe motor limitations.”在商业性和大众化容易让无障碍需求靠后的行业里,这种态度并不常见。"
+        },
+        {
+          "t": "p",
+          "x": "本周,Augmental发布了两款被称为“皮肤设备(skinware)”的产品,引发网络热议。其中一款是用舌头操作的触控板MouthPad,另一款是形似听诊器的麦克风挂件Vox。Vox能捕捉并转录构音障碍者或声带受损、只能极小声说话的人的话语。"
+        },
+        {
+          "t": "p",
+          "x": "这是一项用途清晰、设计也颇为用心的技术。但有些人看到后,第一反应却是“这个拿来做氛围编程正合适”。"
+        },
+        {
+          "t": "p",
+          "x": "AI信徒们长期主张,这类技术会改变人与计算机交互的方式。尽管用聊天机器人编程和搜索的情况确实大幅增加,但这个主张并未完全成为现实。这些人看到Augmental的新技术后,兴奋地认为终于找到了摆脱鼠标和键盘的办法。"
+        },
+        {
+          "t": "p",
+          "x": "Twitter上知名的AI“有效加速主义者”Beff Jezos转发了MouthPad的视频,并写道:“This + subvocalization = new optimal vibe coding setup”。随后他谈到Vox时又补充:“You may not like it, but this is what peak vibe coding performance apparatus looks like. We are in the beginning of a soft merge with non-invasive brain-machine interfaces”。"
+        },
+        {
+          "t": "p",
+          "x": "这或许只是对创新开的一个小玩笑。但加速主义者的理念与讽刺模仿难以区分。他们渴望尽快与机器融合。由于还无法在大脑中植入接口,他们便抓住任何稍微接近的东西,甚至包括这款并非为他们设计的口含装置。"
+        },
+        {
+          "t": "p",
+          "x": "Jezos推崇的另一个习惯,早已让人心烦,那就是对着AI轻声说话。《华尔街日报》近日报道称,办公室里到处是跟AI说话的人,俨然变成了呼叫中心。大家都在用语音操控本该替自己干活的AI代理。报道的立场是,这种风气让邻座同事感到厌烦,但加速主义者们早已把“招人烦”当作自己的身份标签,反而把它视为机会。"
+        },
+        {
+          "t": "p",
+          "x": "Augmental所做的事很有意思。既然如此,不如先让这项技术送到真正需要它的人的手中,更准确地说,是口中。而不是人们为了活成《机器人总动员》里的人类模样而主动扑上去。"
+        }
+      ]
+    },
+    "gadgets/ultrahumanemerald": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/ultrahuman-overhauls-its-app-brings-all-of-its-analysis-on-device/intro-1784735062.jpg",
+          "cap": "全新改版的Ultrahuman应用"
+        },
+        {
+          "t": "p",
+          "x": "我一直很喜欢Ultrahuman应用那种信息密集的界面,但似乎并非所有人都这么想。于是公司对平台进行了大幅改版,让界面变得更简洁、更易读。这款代号为Emerald的新应用,会在默认标签页里实时推送我当下需要的信息。"
+        },
+        {
+          "t": "p",
+          "x": "第二大变化是Ultrasphere。公司将其称为能给出“next best actions”的“decision engine”。公司自研的AI——Jade会根据生理信号和情境数据,给出维护健康的建议。比如,如果你朝九晚六工作,下午3点精神低落,它可能会建议你在阳光下散步10分钟来提神,而不是喝咖啡。"
+        },
+        {
+          "t": "p",
+          "x": "经过这次改版,Ultrahuman应用的洞察处理全部在设备本地完成。也就是说,即使手机没有联网也能正常运行。这意味着在真正需要的时候——比如在飞机上——也能使用,这一点很重要。"
+        },
+        {
+          "t": "p",
+          "x": "公司表示,VO2 Max计算算法也经过调整,血氧数值读取更加准确。心房颤动(AFib)检测与分享功能也有所变化,心率数据还可以在应用中实时查看。"
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman的Emerald更新从今天开始向全部用户推送。"
+        }
+      ]
+    },
+    "gadgets/voicepad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/iwIllyfONk3Cy6W_Z_MxFcuS9e0=/400x0/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg?lossy",
+          "cap": "macOS·iOS 27的Siri应用"
+        },
+        {
+          "t": "p",
+          "x": "最新测试版显示迹象:苹果正在macOS 27 Golden Gate中打造一个选择Siri AI声音的新界面。"
+        },
+        {
+          "t": "p",
+          "x": "MacRumors论坛用户“mactracker”公开了隐藏在macOS 27 beta 4中的“语音盘(voice pad)”。这个测试版于周一发布。打开该界面后,系统设置中的Siri语音选项几乎变成一块黑色画布,只留下当前所选声音的一个彩色光点。"
+        },
+        {
+          "t": "p",
+          "x": "用指针按住语音盘并移动,画面便会活跃起来。多种颜色如晕染般流过,光点一个接一个出现,声音的性格也随之改变。这些光点仿佛隐藏星座中显露出的星星,从虚空中浮现。"
+        },
+        {
+          "t": "p",
+          "x": "视觉效果通过空间音效对光标移动做出反应。指针靠近某个声音时,那个声音会清晰、贴近地传来;远处的声音则像背景一样变得模糊。空间混音器会跟随指针的距离、角度和速度,调节声音与背景音的音量、混响、遮蔽和滤波。"
+        },
+        {
+          "t": "p",
+          "x": "语音盘上松散地排列着13个声音位。这似乎意味着苹果正准备为Siri AI最多配备13种定制声音。"
+        },
+        {
+          "t": "p",
+          "x": "目前macOS 27测试版缺少所需的语音模型,因此暂由两种现有定制声音替代。不过,与测试版一起被发现的文件按性别、年龄和性格描述了全部13种美式英语声音,范围从轻声细语的年轻女声,到低沉的成年男声,再到两种年长感的声音,跨度很广。"
+        },
+        {
+          "t": "p",
+          "x": "如果这一界面能保留到macOS 27正式版,与现在相比会有相当大的变化。当前测试版中,Siri AI的声音只有一种美式口音,只能通过滑块调整表达力和语速。"
+        },
+        {
+          "t": "p",
+          "x": "因此,这个界面更像是选择Siri默认声音的第一步设置。选定之后,再用现有选择器中的Pace和Expressivity进行微调。尽管尚未完成,据说已被本地化为44种语言。由于它使用了与iOS 27相同的Siri设置框架,也有可能出现在iPhone和iPad上。"
+        },
+        {
+          "t": "p",
+          "x": "与本周早些时候报道的隐藏Siri弹出框不同,这项功能测试者并不容易启用。需要关闭SIP(System Integrity Protection),并用调试器覆写内部代码。"
+        },
+        {
+          "t": "p",
+          "x": "搭载大语言模型的新版Siri AI,将于今年9月随iOS 27、macOS 27等苹果软件更新一起抵达支持地区。"
+        }
+      ]
+    },
+    "gadgets/alexa-plus-smart-home-app-store": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "你或许已经让Alexa做过各种无聊的事情，但大概从没问过类似“我洗衣机的30种程序里，哪个是冷水洗”这样的问题。亚马逊打造了一款正好能实现这一点的工具包，并于今天在众多品牌中推广开来。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/06/Amazon-Echo-Hub-3.jpg?resize=1200%2C720",
+          "cap": "亚马逊Echo Hub"
+        },
+        {
+          "t": "p",
+          "x": "全新的AI智能家居开发者工具包，让厂商可以把全部功能直接接入Alexa+，而不必把功能埋在应用菜单里。亚马逊表示，升级到Alexa+的用户在第一个月里，智能家居使用量增加了近50%。"
+        },
+        {
+          "t": "p",
+          "x": "洗衣机的例子是真实的。告诉Alexa要把孩子的足球球衣洗得干净一些，但只能用冷水，Alexa就会挑选合适的洗涤程序。目前已支持博世(Bosch)、惠而浦(Whirlpool)、iRobot、Govee、Yale Home、Yeepeat等品牌的设备。"
+        },
+        {
+          "t": "p",
+          "x": "亚马逊同时接纳了模型上下文协议(MCP)。品牌方只要带来自己的MCP服务器，Alexa+就会对其进行检查，并为开发者提供可以立即使用的接入路径。Priceline、Lyft、Headspace和Virgin Atlantic将在今年率先进行测试。"
+        },
+        {
+          "t": "p",
+          "x": "如果与新的Amazon Wallet搭配使用，就能用已保存的支付方式即时结账，而Atom Tickets和Fandango也已经在搭建购票流程。不过，这些功能目前都还贴着“预览版”的标签，因此正式大范围推出的速度可能不会像发布会上说得那么快。通过力推MCP，亚马逊把Alexa+定位为编排层，而不是一个独立应用，这使其站在了与Anthropic、OpenAI的智能体工具同一阵营。"
+        }
+      ]
+    },
+    "gadgets/ios-27-siri-apple-intelligence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siri AI将在今秋与iOS 27一同到来。用了一个多月测试版的作者表示，新Siri把自己期待的每一点都满足了。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-app-ios-27-fi.jpg?quality=82&strip=all&w=1600",
+          "cap": "iOS 27中的Siri应用"
+        },
+        {
+          "t": "p",
+          "x": "作者把自己称为“轻度”AI用户。他对用AI做应用、评测模型性能都不感兴趣，大多只是把它当作搜索的替代品来用，这和普通的iPhone用户相差不大。"
+        },
+        {
+          "t": "p",
+          "x": "在iOS 27之前，作者对Siri的愿望有三个：广博的世界知识、对话式界面，以及在苹果各类设备间的一致性与整合。到目前为止，Siri在这三点上都做到了。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?quality=82&strip=all",
+          "cap": "iOS 27中全新的Siri"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI几乎什么都能回答，不再被苹果过去支持的那几个知识领域所局限。新的Siri应用是一个承载对话的舒适空间，可以不断追问、也能轻松回看过去的对话。与功能分散在各设备上的旧版Siri不同，Siri AI被设计成在所有平台上保持一致。它在iPhone、Mac、Apple Watch和iPad上使用相同的智能，Apple TV和HomePod也即将加入。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&strip=all",
+          "cap": "iOS 27设备阵容"
+        },
+        {
+          "t": "p",
+          "x": "Siri不仅在各设备间保持一致，还与苹果自家的应用和服务深度绑定。它会依据信息、备忘录和邮件给出个性化帮助，这是竞争对手难以模仿的地方。自苹果在2024年首次预告AI版Siri以来，局面已经发生了很大变化，但对普通用户来说，iOS 27中的新Siri看起来值得这一番等待。"
+        }
+      ]
+    },
+    "gadgets/samsung-intelligent-eyewear": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "三星将在今年秋季正式推出“智能眼镜”。在Unpacked发布会上,公司首次展示了与Warby Parker和Gentle Monster合作设计的产品。此前我曾多次体验过原型Android XR眼镜,但这是第一次拿到量产设计版本。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yRpEsjBTHTpd8Q9YLP7f8R-1200-80.jpg",
+          "cap": "由Warby Parker和Gentle Monster设计的三星智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "这次上手的并非可运行的成品,而是只展示发布前外形的模型机。虽然没能戴上试戴,但仅凭上手的质感就留下了不错的印象。Gentle Monster版本采用接近我平时所戴眼镜的经典设计,很吸引人,而Warby Parker版本看起来更加精致。"
+        },
+        {
+          "t": "p",
+          "x": "带领三星XR研发的James Choi副总裁强调了与Gentle Monster、Warby Parker的合作。他在圆桌会议上表示:“首先,它必须是人们每天都愿意佩戴的东西。归根结底,这是一副眼镜。我们想要的是自然、时髦的时尚单品,而不是戴在脸上的科技装置。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/huH92NSCogK3mLtHSQT2tQ-1200-80.jpg",
+          "cap": "轻薄框架格外醒目的智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "眼镜看起来很薄,拿在手上出乎意料地轻。重量一直是智能眼镜的一大障碍,越轻就越不容易让人疲劳。得益于轻薄的设计,它看起来更像普通眼镜,而不是科技装置,这一点也让人满意。三星表示,产品仍通过了“移动设备级品质验证”,足够结实,即使跌落也能承受。"
+        },
+        {
+          "t": "p",
+          "x": "电池续航通过三星、谷歌、高通共同打磨的“Power Camp”进行了优化。眼镜搭载骁龙AR1 Gen 1芯片运行,但会借助手机的内存和算力实现更快的响应。混合使用摄像头、播放音乐以及调用Gemini(或Bixby)时,续航约为9小时,配合眼镜盒还可再充电七次。用户可通过Wear OS手表进行操作,并与地图、翻译官、三星Notes等应用相连。"
+        },
+        {
+          "t": "p",
+          "x": "Choi副总裁表示,隐私并非事后考虑的问题,而是产品开发的核心。例如,摄像头开启时会亮起的LED指示灯,以及摘下眼镜或遮住LED时会自动关闭摄像头的佩戴检测功能。他还补充说,针对各地不同的舆论和监管,公司仍在与各国政府持续协商。"
+        }
+      ]
+    },
+    "gadgets/amd-x100-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AMD正将Strix Halo APU带入物理AI领域。新的X100系列规格与用于客户端设备的锐龙AI Max相近，但针对像机器人那样全天候运行的嵌入式环境，保证10年使用寿命。"
+        },
+        {
+          "t": "p",
+          "x": "产品线分为三档。顶配X199搭载16个Zen 5核心和40个RDNA 3.5计算单元，X188降为12核心32CU，X168为8核心32CU。加速频率最高达5.1GHz，统一内存最高支持128GB。此外还配备最高50 TOPS算力的XDNA 2 NPU，TDP为45~120W，工作温度可承受零下40度到105度。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9sPH3tmCzcVsbEbQQLkUx4-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AMD瞄准的对手是年初推出面向物理AI的Panther Lake的英特尔。将CPU、AI加速器和内存整合到一块芯片以降低延迟的思路双方相同，但X100体量比Panther Lake更大，瞄准更重的工作负载。"
+        },
+        {
+          "t": "p",
+          "x": "AMD不只卖芯片。它还将X100以Kria SOM或机器人开发平台的形式推出。120mm大小的Kria板是与Spartan UltraScale+ FPGA底板搭配的一体化方案，目前处于早期访问阶段，第四季度投入量产。AMD还将其性能与英伟达的Thor、Jetson平台相比较。"
+        }
+      ]
+    },
+    "gadgets/looki-ai-pendant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CNET的斯科特·斯坦（Scott Stein）把Looki挂在脖子上生活了一段时间。这是一款几乎全天开启的相机吊坠，持续记录一天后再回放展示。从4月起，他几乎不间断地戴着它，经历了苹果WWDC、谷歌I/O和普林斯顿校友聚会，直到某个时刻停了下来。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.L1.table_.pendant.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Looki L1是一个手表大小的黑色小吊坠，正面有摄像头，麦克风藏在某处。与智能眼镜不同，它的电池能撑一整天，断断续续地录制音频和视频片段。「AI模式」会自动拍摄约5秒左右的短片，但用了三个月他也没弄明白它挑选片段的标准。"
+        },
+        {
+          "t": "p",
+          "x": "最靠谱的功能是把自动拍到的画面转换成漫画风格的AI图像。它有时能把一天剪成一个说得过去的故事，但由于没有可调设置，结果只能听天由命。其余的记录大多很尴尬：脸被切掉或角度奇怪，很多画面只是他盯着手机看。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Looki.AI_.commute.cartoon.1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "最重要的是，整天戴着它让他感觉自己像个间谍。录制指示灯比Meta眼镜更不显眼，让周围的人很难分辨是否在拍摄。儿子多次让他摘下来，他也常在火车上或洗手间里偷偷把它塞进口袋。他的结论是：这是全天录制眼镜即将到来的一个预告。"
+        }
+      ]
+    },
+    "gadgets/ai-activity-dashboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "三星今天在发布Galaxy Z Fold8、Fold8 Ultra和Flip8的同时，公开了One UI 9的首个正式版本。官方更新日志尚未发布，但三星表示新款折叠屏的One UI 9.0将加入全新的AI助手活动面板。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI的AI助手活动面板与Android 17为隐私面板加入的AI改进相当相似。这个面板能让用户「在一个界面中集中查看代表自己运行的AI自动化，在同一位置回顾AI所做的事，必要时直接跳转到相应代理查看其上下文和设置」。"
+        },
+        {
+          "t": "p",
+          "x": "这个面板之所以更加重要，是因为这款三星折叠屏是首批搭载支持应用自动化的Gemini Intelligence的设备。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-Ultra-AI-Assistant-Activity-Dashboard_4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在新款Galaxy Z8系列上，可以让Gemini在第三方应用内代为完成任务。它能代替用户处理点餐、预订活动门票等操作，同时还能读取当前屏幕上显示的内容。比如，如果正在和朋友讨论晚餐安排，Gemini会结合这一上下文，在不切换多个应用的情况下帮忙找餐厅或完成预订。这项任务自动化功能目前仅限美国和韩国使用。"
+        },
+        {
+          "t": "p",
+          "x": "任务可以在后台运行，这也让人很容易忘记AI助手正在幕后处理工作。这正是面板派上用场的地方。它会告诉你手机背后是否有看不见的「工作者」在运行，以及是哪个AI应用，而不必费力去回想和查找。"
+        }
+      ]
+    },
+    "gadgets/galaxy-watch-9-health": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pVHnWGB8JJwGSUs6EGiLE7-2048-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "三星发布了Galaxy Watch9和坚固耐用的Watch Ultra2，加入了大量基于AI的健康功能。个性化健康教练、体适能指数、血管负荷，以及进一步扩展的睡眠与心脏分析，都被整合进全新的AI健康助手中。"
+        },
+        {
+          "t": "p",
+          "x": "两款手表依靠升级的内部元件，能够更长时间贴合身体，更准确地监测状态。"
+        }
+      ]
+    },
+    "gadgets/gemini-automation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在Galaxy Unpacked上，谷歌公开了多项面向Galaxy Z Fold8 Ultra、Fold8和Flip8的Gemini更新。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Android方面，新机型配备了进一步升级的「原生迁移」功能，可从iPhone无线迁移更多种类的数据。作为Android 17的一部分，除了原有的照片、视频、联系人、消息、日历外，现在还能迁移Google账号信息、密码、Wi-Fi凭证和eSIM数据。该功能先在Pixel设备上推出，之后再扩展到其他Android设备。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini任务自动化今年初以测试版首次亮相时，仅在Pixel 10和Galaxy S26系列上支持六款打车及外送类应用。如今作为Gemini Intelligence的一部分，任务自动化已支持购物、餐厅预订、旅行预订乃至活动门票等40多款应用，Etsy和Expedia也在其中。在Flip8上，可长按电源键，在Flex Window中使用这项日常辅助功能。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini应用现在「借助更高级的推理理解屏幕上的内容，并将复杂图像解读为提示」。用户可以把购物清单或灵感图片展示给Gemini，从中获得帮助。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "最近更名的Gemini Notebook将预装在三星新款折叠屏手机上。在Fold8的大屏幕上，用户可以「把照片、文档、白板图像、语音录音等直接拖放到并排排列的工作区中」。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy Z Fold8 Ultra、Fold8和Flip8都附赠6个月的Google AI Pro使用权。"
+        },
+        {
+          "t": "p",
+          "x": "在可穿戴设备方面，用户只需抬起手腕，无需唤醒词即可呼出Galaxy Watch9上的Gemini，这与Pixel Watch4的方式相同。"
+        },
+        {
+          "t": "p",
+          "x": "在秋季上市之前，三星与谷歌还额外展示了Gentle Monster和Warby Parker设计的Android XR眼镜。"
+        }
+      ]
+    },
+    "gadgets/meta-ray-ban-display-muse-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta正在为其旗舰智能眼镜搭载更强的AI模型。本周，Meta表示已开始向Ray-Ban Display——其唯一配备屏幕的眼镜——推送基于增强版Muse Spark模型的新版Meta AI。推送将逐步进行，即使尚未收到，更新也会很快送达。Muse Spark此前已率先在Meta其他不带屏幕的AI眼镜上使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-17.jpg",
+          "cap": "Ray-Ban Display（© Raymond Wong / Gizmodo）"
+        },
+        {
+          "t": "p",
+          "x": "这款眼镜此前搭载的旧版Meta AI助手，用评测者的话说，“大体能完成基本任务，但谈不上有多敏锐”。它在被问及周围环境的计算机视觉查询时尤其容易卡顿。对照最近发布的Meta Fury眼镜的使用体验，新版Muse Spark明显不同。"
+        },
+        {
+          "t": "p",
+          "x": "升级后的AI“更灵敏、更自然，也更能跟上我在做什么”。评测者逐步询问如何腌制自家种植的香蕉辣椒来测试效果，虽不完美，但表示“确实很有帮助”。与上一版相比，精细程度的提升十分明显。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/10/Meta-Ray-Ban-Display-review-22.jpg",
+          "cap": "Ray-Ban Display（© Raymond Wong / Gizmodo）"
+        },
+        {
+          "t": "p",
+          "x": "除了AI方面的提升，Meta还加入了其他功能，包括可浏览并回应动态的Threads应用、Reels分享和语音搜索体验更好的Instagram应用，以及通过Neural Band移动手指书写信息的Neural Handwriting功能的早期体验。"
+        }
+      ]
+    },
+    "gadgets/oura-ring-5-advisor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-04.jpg",
+          "cap": "Oura Ring 5评测"
+        },
+        {
+          "t": "p",
+          "x": "一款好的健康追踪器，目标其实只有两个：测得准确，戴得舒适。过去十多年用过不少追踪器，却从没有一款能让人整天不间断佩戴。6月4日推出的Oura Ring 5虽不完美，但比以往任何追踪器都更接近那种让人不想摘下的设备。"
+        },
+        {
+          "t": "p",
+          "x": "硬件上最大的变化是尺寸。它比上一代Ring 4小且轻40%，是目前市面上最薄的智能戒指之一，也是最小的可穿戴设备之一。宽6.09毫米、厚2.28毫米，相比Ring 4的7.9毫米宽、约2.88毫米厚，明显缩小。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/Oura-Ring-5-review-13.jpg",
+          "cap": "Oura Ring 4陶瓷版与Ring 5"
+        },
+        {
+          "t": "p",
+          "x": "价格方面，黑色和银色为399美元，拉丝银、深玫瑰色、金色和隐形色为499美元。电池续航也从Ring 4的5至7天提升到6至9天，充满电约需一小时，最短15分钟即可。据称增强后的LED传感器也让心率读数更加稳定。"
+        },
+        {
+          "t": "p",
+          "x": "Oura Ring 5搭载了去年推出的AI健康伙伴Oura Advisor。面对“这周睡得怎么样？”或“我的活动量有变化吗？”之类的问题，它会以对话形式回答并提出改进建议。不过由于需要用户主动提问，评测者坦言，查看完每日活动和睡眠数据后，就不再特意去问了。面向女性健康的AI伙伴运作方式也类似。"
+        },
+        {
+          "t": "p",
+          "x": "血压信号、健康雷达等预防与长寿功能也有所增加。不过数据量太大，难以每天追踪，评测者希望能有一种按周获取单一综合评分的方式。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-ai-glasses-wwdc27": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg"
+        },
+        {
+          "t": "p",
+          "x": "苹果长期筹备的AI智能眼镜，公开时间已经敲定。彭博社的Mark Gurman透露，苹果打算在明年的全球开发者大会WWDC27上首次展示这款眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "从时间点来看，苹果很可能会像2023年Vision Pro那样，让硬件和软件提前数月亮相，并同步提供开发者工具，方便他们提前做应用。销售预计在2027年底开始。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Mike-Rockwell-WWDC23-visionOS-Reveal.jpg"
+        },
+        {
+          "t": "p",
+          "x": "原定于2026年底的发布被推迟，原因是隐私问题。一款带摄像头的竞品遭遇了拍摄争议后，苹果正在同时考虑两种方案：彻底去掉摄像头，或者让它只能识别物体和地点，不能拍照或录像。"
+        },
+        {
+          "t": "p",
+          "x": "这款眼镜没有屏幕，而是用来拍照、播放音乐、唤醒Siri和接听电话。设计方向是把它打磨得更像一副真正的眼镜。"
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-gemini-notebook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/samsungs-new-foldables-come-with-gemini-notebook-pre-installed/intro-1784722468.jpg",
+          "cap": "三星新折叠屏搭载的谷歌AI功能"
+        },
+        {
+          "t": "p",
+          "x": "三星新款折叠屏Galaxy Z Fold8 Ultra、Fold8及Flip8标配谷歌Gemini Notebook。这是把原来的NotebookLM换了个名字的工具。"
+        },
+        {
+          "t": "p",
+          "x": "把网页、视频、对话记录等资料汇总到一处，Gemini Notebook就能把它们做成幻灯片、视频、速记卡，甚至播客。还有一个聊天功能，可以直接针对收集的主题提问。"
+        },
+        {
+          "t": "p",
+          "x": "部分功能需要付费版Gemini才能使用，但买下设备即附赠六个月的谷歌AI Pro试用。在Galaxy Watch9上，只要抬一下手腕就能唤出Gemini并提问。"
+        }
+      ]
+    },
+    "gadgets/gadgets-duckduckgo-anti-ai-glasses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "有报道称苹果正在考虑是否为其正在开发的眼镜加入拍照和录像功能，与此同时，DuckDuckGo又往前走了一步。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/DuckDuckGo-glasses-offer-zero-cameras-and-notifications.webp?w=1300",
+          "cap": "以「Normal F***ing Sunglasses」字样为背景的DuckDuckGo x Knockaround磨砂黑墨镜"
+        },
+        {
+          "t": "p",
+          "x": "这家以隐私为卖点的搜索公司打出「Normal F***ing Sunglasses」的口号，推出了一款名为DuckDuckGo Paso Robles的墨镜。"
+        },
+        {
+          "t": "p",
+          "x": "与Knockaround联合撰写的介绍这样写道：世界上最具革新性的反监控墨镜，说白了就是普通得不能再普通的墨镜。没有摄像头，没有麦克风，没有AI，没有电池，没有任何电子元件。它只是一副带光面Logo的磨砂黑墨镜，只负责遮挡阳光，不会把任何数据传上云端。"
+        },
+        {
+          "t": "p",
+          "x": "该公司宣称的优点是无限的电池续航、零通知保证，以及「顺滑的离线模式」。"
+        },
+        {
+          "t": "p",
+          "x": "这显然是一场意在谈论隐私的讽刺。尽管如此，这款眼镜是真实存在的，也确实可以购买。算得上是一次聪明的宣传。"
+        }
+      ]
+    },
+    "gadgets/gadgets-garmin-cirqa-screen-free": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我戴着这款没有屏幕也不需要订阅的199美元佳明Cirqa超过一周。第一印象总体不错，但仍有疑问，于是直接问了负责这款产品的吉尔·凯瑟（Jill Kaiser）。在位于堪萨斯的这家公司工作了10年的她，把Cirqa称作自己的「孩子」。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WtBsy3z4pD8Bpyf4cQ6VV6.jpg",
+          "cap": "戴在手腕上的无屏幕佳明Cirqa"
+        },
+        {
+          "t": "p",
+          "x": "为什么去掉屏幕？凯瑟首先提到的是用户的诉求。希望有一款无屏幕产品的反馈已经积累了相当长时间，团队判断支撑这一想法的条件终于齐备了。训练和健康指标与其他设备一样完整记录，只是去掉了手腕上的干扰因素，她解释道。"
+        },
+        {
+          "t": "p",
+          "x": "取而代之的是，负担转移到了应用上。「手腕上没有屏幕，意味着整个生态系统都必须被设计成能够承担这一点」，她说。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YDCri7XxMdmeimo7d9tfhd.jpg",
+          "cap": "带有一个物理按钮的Cirqa表带"
+        },
+        {
+          "t": "p",
+          "x": "凯瑟建议把Cirqa看作无屏幕睡眠追踪器Index的「全天版」。单从追踪项目来看，它更接近直接沿用最新款Venu训练指标的Vivoactive·Venu系列。与其他无屏幕追踪器的区别在于那一个物理按钮。"
+        },
+        {
+          "t": "p",
+          "x": "按一次按钮就会开始记录默认运动项目，可以在Garmin Connect中换成想要的项目。如果经常爬楼梯，就可以把这一项设为设备上的默认项目。长按触发心率广播，按三次进入配对模式。打开电量显示后，连点两次LED会以绿色回应，另外还有整点震动提醒，方便想知道时间的人。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w9ZVBojNpXhRMYs4thsM8Y.jpg",
+          "cap": "与Garmin Connect应用并排放置的Cirqa"
+        },
+        {
+          "t": "p",
+          "x": "这对已经在用佳明手表的人同样有用。在Connect应用中指定主设备后，就可以用Fenix或Forerunner训练，同时用Cirqa记录睡眠。应用会自动读取当天佩戴设备的数据，无需手动切换。"
+        },
+        {
+          "t": "p",
+          "x": "自动运动识别需要一段学习期。据介绍，最初一两周手动记录、并回答是否在走路，系统就会据此逐渐适应使用者。可靠性将在评测中进一步确认。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2P456f4tr6erhmBPEQbgEe.jpg",
+          "cap": "正在无屏幕状态下记录运动的Cirqa"
+        },
+        {
+          "t": "p",
+          "x": "之所以没有GPS，是出于尺寸、成本和电量的考虑。团队清楚GPS很重要，但判断仅凭手机也能满足用户的需求。被问及是否会推出更多无屏幕产品时，凯瑟只回答「会持续关注这个领域还能做些什么」。"
+        }
+      ]
+    },
+    "gadgets/gadgets-self-hosted-doc-assistants": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今，文档对话几乎是每项工作都离不开的环节。深挖课程资料时，NotebookLM依然是最佳选择，但其余文档我主要用Claude处理。不过Claude终究是云端工具，有些文件我并不想轻易交出去。"
+        },
+        {
+          "t": "p",
+          "x": "于是有了自托管的需求。日常的本地文档工作我一般用LM Studio，但随着选择不断增多，不能只说一句「用LM Studio就行」就草草了事。我把同一批信息密度很高的文档，原样喂给了Cherry Studio、Jan AI和AnythingLLM这三款工具。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/adding-anthropic-endpoint-model-in-cherry-studio-settings.png",
+          "cap": "在Cherry Studio设置中添加Anthropic端点模型的界面"
+        },
+        {
+          "t": "p",
+          "x": "Cherry Studio用更少的折腾完成了同样的工作。它是一款一体化桌面客户端，无论云端还是本地模型都能接入，装好之后只需加载模型即可。文档方面是一套名为Knowledge Base的正规RAG配置，把文件切块转成嵌入向量存在本地，再按问题取出匹配的片段，答案下方还会附上引用来源。八份文档很快就完成了嵌入。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/asking-qwen-in-cherry-studio-for-fib-01-backoff-from-attached-docs.png",
+          "cap": "在Cherry Studio中向Qwen询问附件文档中的设置值"
+        },
+        {
+          "t": "p",
+          "x": "第一个问题是找出埋在最长文档深处的一个设置值——对检索能力不足的工具而言，这是很容易引发幻觉或空转的考验。Cherry准确地找到了这个值，甚至原样引用了原文中的注释字符串。面对两份文档在同一问题上相互矛盾的刁钻提问，它选择了更晚的决定作为当前答案，还提前指出早先的决定已被正式废弃。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-answering-fib-01-golden-ratio-backoff-in-cherry-studio.png",
+          "cap": "带有引用来源、返回准确设置值的Cherry Studio"
+        },
+        {
+          "t": "p",
+          "x": "遗憾的是它不展示过程。答案和参考的文件会显示出来，却没有可供核实的推理痕迹。信得过答案时无所谓，信不过时就麻烦了。"
+        },
+        {
+          "t": "p",
+          "x": "AnythingLLM在最初10分钟内完全读不了文档。默认设置是把整篇文档塞进提示词，而不是做嵌入，解决办法藏在工作区设置的深处。每次打开新对话都会跳到智能体模式、空转却给不出答案的问题，也是另一个设置造成的。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-3-5-9b-reasoning-about-meridian-hq-move-in-anythingllm.png",
+          "cap": "面对相互矛盾的文档，AnythingLLM原样展示了Qwen 3.5 9B的推理过程"
+        },
+        {
+          "t": "p",
+          "x": "不过结果还算不错。在接入Qwen 3.5 9B的情况下，面对技术细节问题，它给出的上下文比Cherry更宽；面对矛盾提问，它把往返于两次会议之间的完整思考过程全部展开后才给出正确答案。旁边的面板还会标出每条依据来自哪份文档。透明度无疑是其优势，但文档处理的使用体验仍显粗糙。"
+        },
+        {
+          "t": "p",
+          "x": "Jan作为运行本地模型的应用令人喜爱，但不适合这项任务。打开文档扩展功能后首次启动就弹出一个全黑窗口，最后只能重新安装；文件也必须一个一个点确认窗口才能添加。每个问题它都会尝试Exa网页搜索，每次都得手动拒绝，答案还很空洞。面对答案分散在两份附件文档中的矛盾提问，它干脆回答找不到相关信息，整个漏答。"
+        },
+        {
+          "t": "p",
+          "x": "单论文档分析本身，我的一票投给AnythingLLM——它在答案质量和透明度上更胜一筹。不过Cherry Studio以微弱差距紧随其后，使用体验要顺畅得多。Jan本来就不是这场比拼的对手，但在日常运行本地模型时，我依然会用它。"
+        }
+      ]
+    },
+    "gadgets/gadgets-chrome-on-device-ai-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "曾有一段时间，Chrome会悄悄把一个4GB的AI模型下载到用户的电脑上。2026年5月，这招来了不小的批评。第二天，一位Chrome高管解释说，端侧AI是其“开发者与安全战略”的核心，而且该模型会在本地处理数据。"
+        },
+        {
+          "t": "p",
+          "x": "现在Chrome修改了支持文档，说明了这次下载，更重要的是，加入了停止下载的方法。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/Google-Chrome-with-Gemini.jpg?resize=1200%2C720",
+          "cap": "搭载Gemini的Google Chrome"
+        },
+        {
+          "t": "p",
+          "x": "谷歌在7月29日至8月1日之间，悄悄修改了Chrome的端侧AI支持页面（WindowsReport）。新增了四个全新的条目：资格要求、下载条件、针对多用户多设备的说明，以及企业专用规则。"
+        },
+        {
+          "t": "p",
+          "x": "从资格要求这一条可以看出，如果设备没有运行该模型所需的硬件，Chrome根本不会尝试下载。不受支持或规格不符的机器会被整体跳过。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Googles-refreshed-Chrome-requirements-scaled.jpg?resize=2560%2C1536",
+          "cap": "更新后的Chrome要求页面"
+        },
+        {
+          "t": "p",
+          "x": "对于满足条件的设备，Chrome会检查是否为非计量制的网络连接，并查看大约20GB的空闲磁盘空间（其中包含那个4GB的模型）。下载前还会判断处理性能是否足够。"
+        },
+        {
+          "t": "p",
+          "x": "管理方式也比以前更清楚了。文档明确指出，Chrome设置中的“端侧AI”开关是管理这次下载的唯一方式，并提醒不要自行找到模型文件并删除——删了也没用，Chrome会重新下载。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/On-device-AI-toggle-on-Chrome-scaled.jpg?resize=2560%2C1536",
+          "cap": "Chrome设置中的端侧AI开关"
+        },
+        {
+          "t": "p",
+          "x": "关掉这个开关，Chrome会删除已下载的文件，并关闭所有依赖它的功能。只有重新打开时，才会再次检查资格并重新下载。这项设置按用户和设备分别生效，IT管理员则可通过Chrome企业版策略另行控制。"
+        },
+        {
+          "t": "p",
+          "x": "就在人们第一次发现谷歌未经充分告知就悄悄下载4GB端侧模型Gemini Nano之后，没过几个月便迎来了这次更新。谷歌没有把两者直接联系起来，但这个时间点看起来不太像是巧合。"
+        }
+      ]
+    },
+    "gadgets/gadgets-google-assistant-shutdown": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在转向Gemini的过程中，谷歌助理坚持的时间比预期更长。现在谷歌确认，将从Android手机和平板、Wear OS手表以及少数配套设备中移除谷歌助理。留给用户的时间只有几周。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-assistant-will-vanish-from-android-phones-and-connected-devices-in-september/intro-1785941062.jpg",
+          "cap": "谷歌助理图标"
+        },
+        {
+          "t": "p",
+          "x": "据9to5Google报道，谷歌已开始发送邮件通知，告知这些产品将从9月4日起失去谷歌助理。该公司表示，“可能需要几周时间才能通知到所有用户”。此后，相关设备上将无法使用谷歌助理。"
+        },
+        {
+          "t": "p",
+          "x": "此次变更适用于满足Gemini最低配置要求的Android手机，且仅限于Gemini可用的地区。像支持Gemini的耳机这类配对设备也会受到影响。"
+        },
+        {
+          "t": "p",
+          "x": "Google TV、Google Home和智能显示屏目前阶段不会有变化。谷歌此前表示，运行Android 9及更低版本、内存不足2GB的手机，仍会保留旧版谷歌助理用于基础任务。搭载Google built-in的汽车中，谷歌助理也可以继续使用，但“通过用户手机投屏运行Android Auto的车辆”属于例外。"
+        },
+        {
+          "t": "p",
+          "x": "如果你的Android设备上还没有Gemini、又想体验一下，可以到Play商店下载该应用。如果不想用，不依赖聊天机器人过日子也是一种选择。另外，谷歌的新款Pixel设备将于8月12日发布。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-cmf-ai-marketing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "昨天，Nothing的CMF品牌推出了一款相当不错的开放式耳机，但网上的讨论大多集中在该公司持续发布的AI生成图片上。"
+        },
+        {
+          "t": "p",
+          "x": "现在也许可以说，AI已经触动了大众的神经。AI确实有实用的用法，但网络已经被「AI劣质内容」淹没，人们开始感到厌倦。要是再看到一张刺眼的ChatGPT海报，可能真的要受不了了。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/nothing-cmf-clip-pro-ai-marketing.jpg?quality=82&strip=all&w=1600",
+          "cap": "CMF Clip Pro的AI营销图片"
+        },
+        {
+          "t": "p",
+          "x": "Nothing的CMF正首当其冲。CMF Clip Pro营销图片使用AI引发强烈反弹。"
+        },
+        {
+          "t": "p",
+          "x": "部分图片已被删除，CMF by Nothing账号发布了多张展示Clip Pro的营销图片，没有使用真人。图片附有说明：「与真实人物的相似纯属巧合」。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/HOyAlOobEAAPzRi.jpg?ssl=1",
+          "cap": "AI制作的第一张营销图片"
+        },
+        {
+          "t": "p",
+          "x": "下面两张图还算过得去，但Nothing删除的最后一张，最多也就是粗糙的修图水平。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/HO4cIFbb0AAIhZp-1.jpg?ssl=1",
+          "cap": "第二张AI营销图片"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/IMG_20260802_220239.jpg?ssl=1",
+          "cap": "Nothing删除的第三张图片"
+        },
+        {
+          "t": "p",
+          "x": "Clip Pro发布时分发给媒体的图片也是如此。一眼就能看出没有人真正戴着耳机，说明文字也强烈暗示本来就不存在真实人物。"
+        },
+        {
+          "t": "p",
+          "x": "今天发布的视频乍看也挺像真的，但有几处能看出使用了AI。山景场景尤其明显。地铁场景里背景文字看起来不像真正的文字，而且在地铁上戴开放式耳机本身就不合常理。似乎没人在意这个问题。"
+        },
+        {
+          "t": "p",
+          "x": "其实这并不令人意外。据悉Nothing把公司的未来押在了AI上。但随着网络对AI生成内容的反感日益增长，由Carl Pei领导的这家公司需要找到平衡点。"
+        },
+        {
+          "t": "p",
+          "x": "9to5Google就这些营销图片使用AI一事询问了Nothing，但该公司尚未给出公开回应，也没有立即置评。"
+        }
+      ]
+    },
+    "gadgets/gadgets-peloton-ai-tracking-camera": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "经过艰难取舍和业务收缩之后，Peloton推出了迄今最先进的健身器材，将Guide摄像头的AI动作识别与高端室内单车、跑步机结合在一起。新款Cross Training Bike+售价2695美元，另需每月50美元的All-Access会员。评测得分为10分制中的8.1分。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/intro-1785506020.jpg",
+          "cap": "屏幕转向外侧的Peloton Cross Training Bike+"
+        },
+        {
+          "t": "p",
+          "x": "变化分为两方面：一是软件层面，如搭载AI的训练计划和动作追踪；二是硬件层面，如可调节风扇、手机托架以及内置于控制台的追踪摄像头。"
+        },
+        {
+          "t": "p",
+          "x": "23.8英寸屏幕可转向单车外侧，方便在地面训练、力量和拉伸课程中使用，扩大了这台无法随身携带的器材的用途。Sonos调校的扬声器首次配备了低音单元。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/a-big-rotatable-screen-1785506021.jpg",
+          "cap": "23英寸显示屏"
+        },
+        {
+          "t": "p",
+          "x": "风扇下方，摄像头藏在控制台内的小舱体中，可以转动将其隐藏。骑行中的画面不会传输给其他会员，只用于指导、姿势纠正和计数。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/ai-form-tracking-that-doesnt-let-you-slack-1785506022.jpg",
+          "cap": "可调节角度的摄像头"
+        },
+        {
+          "t": "p",
+          "x": "有了摄像头，这款单车不再只是一台联网单车。即便在录播课程中由教练讲解时，设备也会单独纠正你的姿势。内置的AI语音足够机械，不会被误认为真人。Peloton IQ会在每次动作时发出小提示音，并为平板支撑等静态动作倒数计时。与旧款教练摄像头相比，算法有所提升，指导出错的情况很少。当它提示要把臀部抬高时，确实需要再抬高一些。"
+        },
+        {
+          "t": "p",
+          "x": "遗憾的是，动作追踪指导和计数功能没有扩展到力量和核心课程之外。如果你期待在下犬式或战士式中得到姿势建议，还是得找真正的瑜伽老师。对于课程和设备都付了溢价的用户来说，这显得是个错失的机会。"
+        },
+        {
+          "t": "p",
+          "x": "训练计划也做了调整。设备会记录锻炼情况并安排每周计划，并根据最初设定的目标和锻炼历史个性化指标和目标。Peloton IQ根据已完成的锻炼为课程打上「比平时更难」之类的标签，这点很实用。但另一方面，它会不断推荐你不想上的课程，而且调整AI建议的空间也不大。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/peloton-cross-training-bike-review-a-better-connected-bike-that-still-demands-a-premium-price/wrap-up-1785506022.jpg",
+          "cap": "Cross Training Bike+车架"
+        },
+        {
+          "t": "p",
+          "x": "价格不便宜，但在目前的室内单车生态中是最好的。不过必须拥有All-Access才能按预期使用，再加上卡扣鞋、瑜伽垫和哑铃，费用还会进一步增加。"
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ai-device-tiering": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siri AI是本次更新的招牌功能之一，与iOS 27和macOS Golden Gate并列。不过经过改造的Siri只能在最新的Apple设备上运行。以下是iPhone、iPad、Mac、Apple Watch和Apple Vision Pro的完整支持机型列表。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
+          "cap": "全新的Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "随iOS 27一同到来的更新带来了期待已久的Siri革新。Siri AI目前处于测试阶段，将于今年秋季正式发布。问题在于它只能在兼容的硬件上使用。除去iPhone 18 Pro或iPhone Ultra等尚未发布的机型，目前在售产品中支持Siri AI的列表如下。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&strip=all",
+          "cap": "iOS 27支持机型阵容"
+        },
+        {
+          "t": "p",
+          "x": "iPhone方面包括17 Pro和17 Pro Max、iPhone Air、iPhone 17、iPhone 17e、16 Pro和16 Pro Max、16和16 Plus、16e，以及15 Pro和15 Pro Max。iPad方面包括M1芯片及以后的iPad Pro和iPad Air，以及搭载A17 Pro芯片的iPad mini。"
+        },
+        {
+          "t": "p",
+          "x": "Mac方面包括M1芯片及以后的所有Apple芯片机型，以及搭载A18 Pro芯片的机型。Apple Watch在与支持AI的iPhone搭配使用时，指Series 9及以后、Ultra 2及以后以及SE 3。Apple Vision Pro全系列均支持。"
+        },
+        {
+          "t": "p",
+          "x": "列表中的产品在发布时都能使用Siri AI。不过Siri体验中的部分功能只有在特定硬件上才会进一步提升，比如可以自由调节Siri AI语音速度和语气的功能。"
+        },
+        {
+          "t": "p",
+          "x": "「iPhone 17 Pro、iPhone 17 Pro Max、iPhone Air、搭载M4及以后芯片且统一内存12GB以上的iPad、搭载M3及以后芯片且统一内存12GB以上的Mac，以及Apple Vision Pro(M5)」"
+        },
+        {
+          "t": "p",
+          "x": "Apple最强大的设备端AI模型同样仅限于类似的最新产品阵容。这将对Siri产生怎样的影响，目前还不清楚。"
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-z-flip-8-flexwindow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "有传言称Galaxy Z Flip 8可能是三星最后一款折叠翻盖手机。短暂体验这一代产品后,即便它真的消失也不会让人太遗憾。不过,我能理解三星为什么想要收起这条产品线。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-01.jpg?quality=82&strip=all&w=1600",
+          "cap": "Galaxy Z Flip 8"
+        },
+        {
+          "t": "p",
+          "x": "先说好的方面。翻盖式折叠屏该有的素质几乎都具备了。硬件虽不算全新,但做得确实扎实。今年的产品获得了和Fold 8相同的改进:更容易打开的机身、更浅的屏幕折痕,以及好用得多的低反射内屏。"
+        },
+        {
+          "t": "p",
+          "x": "体积也有调整。三星把折叠后的厚度削减了约1毫米。幅度不大,但握在手里或放进口袋时确实能感觉出差别。换用硅碳电池后电池容量也没有缩水。不过这不代表4,300mAh就足够了,续航依旧平平。骁龙8至尊版Gen 5的性能如预期般流畅,散热控制也没问题。相机几乎没变,One UI 9在这款机型上和Fold 8一样出色。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-07.jpg?quality=82&strip=all",
+          "cap": "这款“粉色”配色也很出色"
+        },
+        {
+          "t": "p",
+          "x": "令人郁闷的是,三星和摩托罗拉一样,几乎完全停下了推进这款设备的脚步。硬件变化微乎其微,软件也原地踏步。"
+        },
+        {
+          "t": "p",
+          "x": "今年最大的变化在于封面屏“FlexWindow”,尤其是AI如何融入其中。封面屏首页现在会推送情境化通知,整体体验也被重新设计,运行方式更接近手机的其他部分。正如前面提到的,这看起来就像谷歌造了一款翻盖折叠机会有的样子。由于时间有限,没能充分体验这些新功能。它大概需要一到两周来学习用户习惯和日程安排,才能真正发挥作用。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-flip-8-04.jpg?quality=82&strip=all",
+          "cap": "FlexWindow封面屏上的AI"
+        },
+        {
+          "t": "p",
+          "x": "但这仍然不够,因为封面屏上可运行的应用依旧受到很大限制。在永久占据应用抽屉顶部的几个三星自带应用旁边,“Labs”栏目支持4款应用,而在Good Lock中安装MultiStar后会立即再解锁50款。整个过程都必须在封面屏上完成,完整设置菜单里看不到相关选项。说到底,变化只是三星终于让自家不少应用适配了封面屏,并加入了像样的应用抽屉。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy Z Flip是三星首款爆款折叠机,也是大众最先接受的形态,很大程度上得益于它的尺寸。但随着Galaxy Z Fold 8新形态的出现,风向正在转变。三星表示,今年从Flip转向Fold的用户比例有所上升。折叠后它并不比Flip大多少,外屏却能完整使用,展开后又能达到Flip望尘莫及的尺寸。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy Z Flip 8是一款不错的设备。但只要Fold 8的形态能以更高价值满足同样的需求,这种形态就会持续被边缘化。鉴于摩托罗拉在这一领域全面压制三星,也不难想象三星部分放手,比如转向两年一次的发布节奏。Galaxy Z Flip 8售价1,199美元。截至8月6日预购仍开放,明天截止。三星官网以旧换新最高可抵600美元,其他零售商和运营商的优惠也在流传。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-rayban-muse-spark-handwriting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "去年,Meta推出了在镜片中嵌入彩色屏幕的智能眼镜Meta Ray-Ban Display,并配上手势控制配件Meta Neural Band。得益于这块屏幕,它已经能做不少事情,这次Meta又扩充了功能列表,还加上了最新的AI模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/Meta-Ray-Ban-Display-2.jpg",
+          "cap": "Meta Ray-Ban Display"
+        },
+        {
+          "t": "p",
+          "x": "本周开始推送的127版本更新让Ray-Ban Display支持了Meta最新的模型Muse Spark。官方表示,它能更“智能”地回答问题,也能更准确地识别眼前的事物。Meta在博客中写道,全天提供的建议也有所改进。"
+        },
+        {
+          "t": "p",
+          "x": "随之而来的还有使用Meta AI的神经手写功能,目前仅在美国和加拿大开放早期体验。这是对Meta Ray-Ban Display原有手写功能的扩展,不用说“Hey Meta”也能直接进入Meta AI。"
+        },
+        {
+          "t": "p",
+          "x": "正如预期,它要配合Neural Band使用。双击大拇指,然后在AI主页找到“Write”按钮即可。接下来只需用一根手指在任意表面写下提示词,Meta AI就会自动接收。"
+        },
+        {
+          "t": "p",
+          "x": "Meta还接入了自家的社交平台Threads。Ray-Ban Display用户只靠语音就能浏览帖子、留下反应并分享给他人。"
+        },
+        {
+          "t": "p",
+          "x": "Instagram Reels现在也能靠语音找到热门视频,发送给朋友或查看评论。Instagram的Instant分享则可以用“Hey Meta, share an Instant”或“Hey Meta, post an Instant”之类的语音指令简化完成。"
+        },
+        {
+          "t": "p",
+          "x": "对Ray-Ban Display来说,这是相当大的升级。众所周知,这款眼镜的售价与Google Pixel 10基础版相当。这个价格里已经包含了Neural Band,而手写等多项功能正是通过这条腕带解锁的。"
+        }
+      ]
+    },
+    "gadgets/gadgets-esp32-tiny-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一位名叫slvDev的开发者，正在ESP32-S3上运行一个2890万参数的语言模型。这是一款面向传感器节点和智能插座设计的微控制器。速度是每秒9.88个令牌，数据一个字节也不会离开芯片。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XJxYihidzczXcGX9g2rsNn-1920-80.jpg",
+          "cap": "电路板上亮着的AI芯片(Pixabay)"
+        },
+        {
+          "t": "p",
+          "x": "这个名为esp32-ai的项目，在2026年7月底以MIT许可证发布到GitHub上。经Better Stack的YouTube频道介绍后，star数超过了3600个，底层代码的fork也超过470个。"
+        },
+        {
+          "t": "p",
+          "x": "由于硬件实在太局促，只能把微软研究院在TinyStories数据集上训练出的模型削减一番。"
+        },
+        {
+          "t": "p",
+          "x": "算术是冷酷的。权重光是加载进内存，每个参数就要占1到4个字节。把2890万参数按16位算，内存要接近60MB。而ESP32-S3能给的只有512KB的SRAM和8MB的PSRAM，乍一看完全不够用。"
+        },
+        {
+          "t": "p",
+          "x": "第一道缺口由量化来填。把权重降到4位，精度稍有损失，但容量减少75%，60MB降到了14.9MB。"
+        },
+        {
+          "t": "p",
+          "x": "在第二步上，这个项目赚到了大部分关注。语言模型的大部分参数，躺在一个只会被读取、不参与计算的嵌入表里，而只读的东西，可以放在慢一点的地方。"
+        },
+        {
+          "t": "p",
+          "x": "借用Google Gemma 3n的Per-Layer Embeddings，slvDev把约2500万个参数、4位下约12MB，挪到了板子16MB的闪存里。每个令牌只拉取大约6行，约450字节。"
+        },
+        {
+          "t": "p",
+          "x": "留给工作内存的大约只有2MB。密集核心和输出头放在PSRAM里，激活值和归一化权重放在SRAM里。每一层都装着按自己的频率被读取的东西，芯片自身的内存层级，就变成了驱动LLM运行的结构。"
+        },
+        {
+          "t": "p",
+          "x": "把权重推到存储设备上的做法并不新鲜。这是把前沿级模型硬塞进顶不住的硬件时常用的招数，通常会让吞吐量崩掉，每秒令牌数翻转成每令牌所需的秒，严重时甚至是分钟。PLE方式只是稀疏地读取已经卸载的权重，让闪存带宽不至于变成瓶颈。这样跑出来的每秒9.88个令牌，仍然比人读字的速度快。"
+        },
+        {
+          "t": "p",
+          "x": "局限很明显。这个模型只会写简短、大体连贯的故事，回答不了问题，也不会遵循指示、写代码或知道事实。开发者说，这是因为负责推理的那部分只有400万参数左右，规模太小。内存上的技巧并不会改变模型本身的能力。仓库里还附带了第二个模型Barista，它只回答关于意式浓缩咖啡的问题。"
+        },
+        {
+          "t": "p",
+          "x": "一句话说，这个方法不会让小模型变聪明。它只是在板子内部搬动数据，把模型塞进了以前根本装不下的芯片里。这是个有趣的选择，但以目前的样子，能用的场合还很窄。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-wear-os-overlay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "随Wear OS 7一起公布的Wear OS版Gemini新面貌，终于开始推送了。做法直接照搬自手机端。这是一套以Neural Expressive为底的悬浮层设计，而Neural Expressive正是Gemini在Android手机和平板上使用的视觉语言。这番调整是为了让助手不管点在哪个屏幕上，感觉都是一样的。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/Wear-OS-7-featured-image.jpg?resize=1200%2C720",
+          "cap": "Wear OS 7(图片:Google)"
+        },
+        {
+          "t": "p",
+          "x": "到目前为止，要在Pixel Watch上唤出Gemini，得把整个应用打开，整块屏幕都被它占满。用起来没什么问题，但比不上在手机上唤出Gemini时那种顺滑、连成一体的感觉。这次更新补上了这道差距。"
+        },
+        {
+          "t": "p",
+          "x": "现在不再弹出单独的应用，Gemini会像在Android手机或平板上那样，以悬浮层的形式叠在你正看着的表盘上面。背景还是同一个Neural Expressive，到处都在用的那个火花图标和问候语也原样保留。"
+        },
+        {
+          "t": "p",
+          "x": "Play商店的截图里还能看到一些小改动。问Gemini的话会以实时字幕的形式滚动显示，事情做完后则会弹出一个确认标记。改动不大，但一来一回的过程从黑箱变得更像对话。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/google-gemini-wear-os-play-store-screenshot.jpg?resize=1478%2C512",
+          "cap": "Play商店上线的新悬浮层界面(Google Play Store)"
+        },
+        {
+          "t": "p",
+          "x": "「跨设备一致性」这个说法听起来很无聊，但它确实改变了使用助手的实际感觉。不管是点手表还是点手机，只要Gemini的样子和动作都一样，它就不再像是三个东拼西凑起来的东西，而是读成一个一直跟着你的助手。"
+        },
+        {
+          "t": "p",
+          "x": "如果你用的是Pixel Watch 4，值得留意一下Play商店的更新。这个悬浮层已经开始推送到部分手表上，下一个可能就是你。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemma4-offline-translator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如果好奇Google的Gemma模型到底能做到什么程度，这里有个值得一看的东西。几位Google工程师用跑在树莓派5上的Gemma 4 E4B，做出了一台完全离线的翻译机。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/gemma-translator-featured-image.jpg",
+          "cap": "Gemma翻译机原型机(Google Antigravity / YouTube)"
+        },
+        {
+          "t": "video",
+          "yt": "4dNry5zP0Jo"
+        },
+        {
+          "t": "p",
+          "x": "开发用的是Google Antigravity，负责在语言之间转换的大脑是Gemma 4 E4B。装电子元件的外壳是自己用3D打印出来的。显示翻译文字的屏幕、麦克风、扬声器、按下说话的按钮，还有切换语言的旋钮，都装进了同一个机身里。"
+        },
+        {
+          "t": "p",
+          "x": "驱动Gemma 4 E4B用的是LiteRT-LM，把翻译好的话送出扬声器用的是Moonshine语音合成。全部都跑在树莓派5上，小触摸屏上自制的界面实时显示翻译结果。"
+        },
+        {
+          "t": "p",
+          "x": "这个项目最引人注目的地方，是只要完成初始设置，剩下的全部离线运行。在蜂窝信号和Wi-Fi都够不到的地方，照样能直接用。不用靠服务器借算力，Gemma 4 E4B自己就能扛下翻译。Google翻译和大多数翻译应用，要翻译语音都得连着网。"
+        },
+        {
+          "t": "p",
+          "x": "这台翻译机同时很好地展示了Google Antigravity和Gemma 4模型。外壳用的3D打印文件和代码全部都放在GitHub上，谁都可以下载下来编译一遍，做出自己的翻译机。"
+        }
+      ]
+    },
+    "gadgets/gadgets-kids-smartwatch-stalkerware": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "本是让家长照看孩子用的智能手表，意外地很容易就被攻破了。在一次新公开的演示中，安全研究人员展示了如何悄悄监视一个戴着带GPS的儿童智能手表的人。"
+        },
+        {
+          "t": "p",
+          "x": "拍照、用麦克风听声音，甚至追踪位置，佩戴者却毫无察觉。Wired报道的这一结果，远远超出了单台设备的问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/kid-wearing-smartwatch.jpg?resize=1200%2C720",
+          "cap": "戴着智能手表的孩子(Ron Lach / Pexels)"
+        },
+        {
+          "t": "p",
+          "x": "安全研究人员Vangelis Stykas和Felipe Solferini用一款网上出售的30美元儿童智能手表，悄悄跟踪了佩戴者一整天的行踪。就算GPS信号不稳，手表还在不断泄露周边的Wi-Fi信息，两人靠这些信息锁定了位置。"
+        },
+        {
+          "t": "p",
+          "x": "他们远程打开摄像头拍照，还用内置麦克风听声音，设备却没弹出任何警告。这款手表跑在深圳制造商YiQingTeng开发的SETracker平台上，认证环节有个漏洞，谁都能向联网的设备发命令。"
+        },
+        {
+          "t": "p",
+          "x": "更让人担心的是，这款智能手表并不是特例。瞄准家庭的其他联网设备，也有过外人在家人毫不知情的情况下悄悄潜入的先例。据研究人员说，有几十个智能手表品牌都架在同一套软件平台和后端服务上。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/05/infographic-showing-various-smart-wearbale-devices.jpg?resize=1350%2C810",
+          "cap": "各种智能可穿戴设备(Simon Hill/Digital Trends)"
+        },
+        {
+          "t": "p",
+          "x": "研究人员发现的漏洞，能做到查看位置、拦截消息、更换紧急联系人、录音，甚至拍照拍视频。他们几个月前就私下通知了各制造商。有一家在公开披露前似乎堵上了部分漏洞，其余的要么没有回应，要么原样敞开。"
+        },
+        {
+          "t": "p",
+          "x": "在查看了70多种带GPS的设备后，两人得出的结论是：数以百万计的智能手表和车辆追踪器，建立在一条屈指可数的供应链上。一个漏洞能同时波及挂着许多不同商标卖出去的产品。不同国家的家长买了不同品牌的手表，却可能一直不知道，孩子的位置信息正被送往同一个有漏洞的服务器。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-ai-lockscreen-clocks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "伴随可以随意调整快速设置的功能，Android Canary 2608里还曝光了给Pixel用的AI生成锁屏时钟方面的工作。"
+        },
+        {
+          "t": "p",
+          "x": "稍微动手调一下，在Android Canary 2608里能看到这块界面。不过服务器端的功能还没打开。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-1-1.jpg?ssl=1",
+          "cap": "输入AI提示词的界面"
+        },
+        {
+          "t": "p",
+          "x": "界面上放着一个「Enter AI Prompt」输入框，Google用「Ideas」给出示例，也可以上传一张参考图片。图库界面里可以保存多套设计，随时拿出来用。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-2-1.jpg?ssl=1",
+          "cap": "生成出来的时钟数字套组"
+        },
+        {
+          "t": "p",
+          "x": "最终做出来的，是一套0到9的专属数字。可以套上任何材质或视觉风格，适用范围看起来会局限在数字时钟上。这和AI壁纸的思路没太大差别。Google放进Pixel里的那八款时钟，已经好一段时间没变过了。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Canary-2608-AI-Clock-3-1.jpg?ssl=1",
+          "cap": "汇总保存设计的图库"
+        },
+        {
+          "t": "p",
+          "x": "出现在Canary里的功能，不总是会最终落地。6月的构建版本里出现过的扩展动态配色主题选项，直到Android 17 QPR2 Beta 2发布的现在，依然没有露面。"
+        }
+      ]
     }
   }
 }

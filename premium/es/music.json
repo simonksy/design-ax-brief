@@ -3162,6 +3162,1012 @@
           "x": "La función “Voice Warping” ajusta la toma interpretada a la cuadrícula sin perder la sensación de la interpretación original."
         }
       ]
+    },
+    "music/concatenator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El séptimo álbum de estudio de Charli XCX, Music, Fashion, Film, salió el 24 de julio. Es un disco que se aleja del electropop de Brat hacia un sonido más guiado por guitarras e introspectivo."
+        },
+        {
+          "t": "video",
+          "yt": "_OhDEvEODsc"
+        },
+        {
+          "t": "p",
+          "x": "La canción 'No One Lasts Forever' incluye un pasaje hablado de David Cronenberg sobre una experiencia cercana a la muerte. Charli dijo que esta canción cambió su forma de ver su vida y su trabajo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/evpNS9KhvWNNpr6gRcMmF6.jpg",
+          "cap": "A. G. Cook y Finn Keane"
+        },
+        {
+          "t": "p",
+          "x": "Los productores A. G. Cook y Finn Keane construyeron esta canción casi por completo en directo. Grabaron guitarra muy distorsionada junto a sintetizadores antiguos como el Minimoog y el PPG Wave, y apenas usaron programación MIDI."
+        },
+        {
+          "t": "p",
+          "x": "En el podcast Tape Notes, los dos describieron así la jam de ese día: corrieron por el estudio conectando todo lo que pudieron conectar, persiguiendo el sonido más feo que pudieran sacar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WJ44S9ZzJgqRc32UcJT3fY.jpg",
+          "cap": "El plugin de mosaico de audio de Datamind Audio"
+        },
+        {
+          "t": "p",
+          "x": "Metieron ese montón de sonido acumulado en el Concatenator de Datamind Audio. Es un plugin de “mosaico de audio” que analiza las muestras por timbre, tono y amplitud, y luego une en tiempo real el audio que entra con fragmentos similares. Puede pensarse como síntesis concatenativa manejada por IA."
+        },
+        {
+          "t": "p",
+          "x": "Cook usó esta herramienta para armar el patrón de batería usando solo material salido de la jam. John Kennedy, de Tape Notes, condujo la conversación."
+        }
+      ]
+    },
+    "music/socanmai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/7-21-socan.jpg",
+          "cap": "Sean Power, CEO de Musical AI (izquierda), y Jennifer Brown, CEO de SOCAN"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN, la mayor organización de derechos musicales propiedad de sus miembros en Canadá, se ha asociado con la empresa tecnológica nacional Musical AI. Están construyendo una estructura para que, cuando la canción de un miembro influya en música generada por IA, el crédito y el pago lleguen a compositores, letristas y editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos puntos de partida. El creador decide si su música entra en un sistema de IA. Si esa música contribuye al resultado, el nombre y el dinero la siguen."
+        },
+        {
+          "t": "p",
+          "x": "Con este acuerdo, SOCAN reconoce a Musical AI como socio tecnológico aprobado para servicios de atribución. Ambas partes examinarán juntas el consentimiento, la atribución y la infraestructura de reportes, un trabajo pensado para entender cómo se usan las obras de los miembros en la IA y fijar criterios de reparto. No surge de inmediato un nuevo régimen de regalías de IA; primero se construye la tecnología y el marco que lo sostendrán."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Musical AI, Sean Power, dijo: “El primer paso es el consentimiento, y el siguiente es la atribución, que muestra cómo contribuyó la música al resultado y cómo debe fluir el valor hacia artistas y compositores.” También están revisando herramientas de consentimiento diseñadas para gestionar con claridad los permisos sin importar el tamaño del catálogo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Screenshot-2026-07-21-at-2.47.04---PM.png",
+          "cap": "Pantalla proporcionada por Musical AI"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de atribución de Musical AI desarma el resultado de la IA para señalar qué fuentes con licencia influyeron en él. Mide por separado la contribución de las grabaciones sonoras y las composiciones, y emite informes que respaldan licencias, responsabilidad y compensación. Es, en esencia, una hoja de reparto para el mundo de la música con IA."
+        },
+        {
+          "t": "p",
+          "x": "Esta tubería importa especialmente a una organización de derechos como SOCAN, que ya cobra tarifas de licencia y reparte regalías. La CEO de SOCAN, Jennifer Brown, dijo que, mientras la IA rediseña la industria musical, los creadores de música necesitan transparencia, crédito y una compensación justa, y que esta colaboración sienta las bases para la atribución y la compensación. El ministro canadiense de Inteligencia Artificial e Innovación Digital, Evan Solomon, lo calificó de innovación responsable hecha en Canadá."
+        }
+      ]
+    },
+    "music/elevenmusic-vocals-refs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202607/686478_634663_48.png",
+          "cap": "ElevenLabs añadió funciones de voz y referencia a ElevenMusic, su servicio de generación de música con IA."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs, que investiga y desarrolla audio con IA, anunció el 23 de julio una renovación de ElevenMusic, su servicio de generación de música con IA."
+        },
+        {
+          "t": "p",
+          "x": "Con esta actualización se añadieron Referencia, que usa una pista de muestra para fijar el estilo y el ambiente de la canción, y Voz, que crea una canción original a partir de la voz del usuario o de una voz de la biblioteca."
+        },
+        {
+          "t": "p",
+          "x": "La función Styles, que mantiene de forma consistente el estilo propio de una canción, ahora da soporte oficial al modelo más reciente, Music v2."
+        },
+        {
+          "t": "p",
+          "x": "Referencia es la versión final de la función de pista de referencia que se había mostrado en junio, junto con el lanzamiento de Music v2. Al subir una pista de muestra de entre 10 segundos y 5 minutos, Music v2 crea música acorde al estilo y al ambiente de esa pista. Transmite directamente al modelo, en sonido real, matices sonoros difíciles de captar solo con un texto de referencia."
+        },
+        {
+          "t": "p",
+          "x": "Voz es un nuevo método de creación que parte de la voz. Basta con elegir la propia voz o una voz de la biblioteca para obtener una canción original completa cantada con esa voz. También pueden usarla personas que nunca han hecho música."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs afirmó que, también en esta actualización, puso en primer lugar la protección de los derechos de los artistas. La empresa subrayó: “Diseñamos el sistema para que toda voz y toda canción subidas a la plataforma solo puedan usarse después de pasar una revisión de derechos de autor estricta antes de la etapa de generación.”"
+        }
+      ]
+    },
+    "music/landr-fair-trade": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LANDR llevó su programa Fair Trade AI a una nueva etapa. Añadió un sistema de pagos por adelantado y amplió su modelo de reparto de ingresos, para que los artistas independientes reciban una compensación directa cuando su música se usa para entrenar IA. Más de 30.000 artistas se han inscrito, y los primeros pagos salen a partir de este mes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/landr-fair-ai-trade.png",
+          "cap": "Programa Fair Trade AI de LANDR"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo es un sistema temporal de adelanto que paga 5 dólares por pista por adelantado. La primera ronda dura hasta el 20 de julio. La cifra en sí no es grande, pero marca un cambio claro en la forma de obtener y poner precio a los datos de entrenamiento de IA. Hasta ahora, la mayoría de los artistas no recibía nada aunque su música se usara para entrenar modelos."
+        },
+        {
+          "t": "p",
+          "x": "Más allá del adelanto, hay una fuente de ingresos constante ligada a la licencia de los conjuntos de datos. Cuando LANDR licencia sus conjuntos de datos musicales seleccionados a desarrolladores de IA, el 25% de los ingresos netos vuelve a los artistas participantes, repartido según la cantidad de pistas que aportó cada uno."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de LANDR, Pascal Pilon, dijo: “El debate sobre la IA y la música se ha centrado casi por completo en lo que los creadores pueden perder,” y añadió: “Estamos demostrando que existe otro camino, uno que paga a los artistas a partir del consentimiento.” Aunque la tecnología siga cambiando, dijo, los artistas deben conservar el derecho a elegir si participan y la oportunidad de beneficiarse de ese valor."
+        },
+        {
+          "t": "p",
+          "x": "Presentado por primera vez en 2024, el programa se basa en la licencia por consentimiento como principio central. En contraste con las prácticas que recopilan música sin permiso, los artistas eligen participar y mantienen el control de su catálogo en todo momento. Quienes reciben un adelanto pueden salir una vez recuperado el monto o tras 24 meses, lo que ocurra primero, y pueden salir de inmediato si devuelven el saldo restante."
+        },
+        {
+          "t": "p",
+          "x": "LANDR, uno de los pocos distribuidores independientes que quedan tras la adquisición de DistroKid por CVC Capital, está dejando de ser solo un canal para enviar canciones a streaming y pasa a actuar como intermediario entre artistas indie y desarrolladores de IA. La participación está abierta por ahora solo a los usuarios de distribución de LANDR, lo que también incentiva a trasladar catálogos."
+        }
+      ]
+    },
+    "music/lorde-about-the-song": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lorde criticó a Spotify de forma directa, después de que su función de IA 'About the Song' describiera mal el contexto de una de sus canciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/lorde-calls-out-spotify-over-ai-feature-1024x576.png",
+          "cap": "Lorde señalando la función de IA de Spotify"
+        },
+        {
+          "t": "p",
+          "x": "Lorde escribió en su historia de Instagram: “A riesgo de sonar dramática, no queremos esto.” Añadió: “No solo es inexacto, sino que reducir una canción al significado que una IA extrae justo después de crearla da la sensación de encerrar la interpretación libre,” y agregó: “Al menos, dejen que los artistas puedan optar por no participar.”"
+        },
+        {
+          "t": "p",
+          "x": "'About the Song' tuvo un lanzamiento limitado en febrero y ahora está en fase beta. Rastrea material de terceros en internet para reunir contexto e información sobre una canción. En el caso de Lorde, esa descripción no coincidía con la canción real. Un portavoz de Spotify confirmó que el texto que Lorde señaló ya había sido “eliminado.”"
+        },
+        {
+          "t": "p",
+          "x": "La crítica de Lorde conecta con preocupaciones más amplias de la industria sobre la IA. Muchas herramientas de IA aún están en desarrollo y reciben críticas por ser inexactas o por no sentirse auténticas."
+        },
+        {
+          "t": "p",
+          "x": "SZA también se desahogó recientemente en Instagram sobre la recopilación indiscriminada de datos por IA. Señalando directamente a la empresa de IA Suno, dijo: “como música, si apoyas esta mierda es repugnante.” También afirmó que Suno está entrenando su producto con el talento de escritores y productores negros."
+        },
+        {
+          "t": "p",
+          "x": "Escribió: “somos el 13% de la población de EE. UU., pero influimos en el mundo con nuestro sonido y nuestra perspectiva,” y añadió: “no alimenten a la IA con su genio.”"
+        }
+      ]
+    },
+    "music/maqam-archive": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Khyam Allami reunió cientos de sistemas de afinación árabes, ajnas y maqamat en un archivo público y gratuito, junto con un plugin MIDI a juego. El trabajo surgió de una investigación presentada en Beirut y se divide en dos grandes partes."
+        },
+        {
+          "t": "p",
+          "x": "La primera es el Archivo Digital de Maqam Árabe. Se trata de una plataforma multilingüe de código abierto creada por el Dr. Khyam Allami e Ibrahim El Khansa, del Music Intelligence Research Lab de la American University of Beirut, que funciona como corpus y como API de la teoría del maqam árabe. Puede verse en inglés, árabe y francés en diarmaqar.net, y el código también está abierto en GitHub."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/archive-1024x772.png",
+          "cap": "La pantalla del Archivo Maqam, mostrando varios modelos de afinación en paralelo"
+        },
+        {
+          "t": "p",
+          "x": "El archivo visualiza las afinaciones de varias maneras, como la longitud de la cuerda, la posición del traste, los grupos de notas, la notación en pentagrama y los centésimos (cents). Permite comparar los modelos teóricos occidentales y árabes lado a lado, desde una perspectiva tanto moderna como histórica."
+        },
+        {
+          "t": "p",
+          "x": "La segunda parte es el plugin MIDI Tanghim. Es una herramienta gratuita y de código abierto para macOS, Windows y Linux que permite aplicar afinaciones dentro del software y ajustarlas en tiempo real. Admite Oddsound MTS-ESP, MPE y pitch bend monofónico, por lo que también funciona con equipos MIDI antiguos. Como Ableton Live no admite efectos MIDI de forma nativa, el lanzamiento incluye también un dispositivo Max for Live."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/07/tanghim-ui-1-1024x799.png",
+          "cap": "La interfaz del plugin Tanghim, ajustando la afinación en tiempo real"
+        },
+        {
+          "t": "p",
+          "x": "Tanghim es una palabra árabe que designa el acto de fijar un tono y construir un sonido. Es un concepto distinto de dozan, la afinación mecánica de las cuerdas de un instrumento, y busca capturar cómo los interpretes afinan y se desplazan realmente entre tonos. Allami y el académico Sami Abu Shumays han señalado que el software existente no logra capturar bien lo que los interpretes realmente hacen."
+        },
+        {
+          "t": "p",
+          "x": "Allami ve este trabajo como un intento de reabrir una música que la teoría y la tecnología del siglo XX reprimieron mediante la estandarización. Dice que el mismo enfoque podría aplicarse, más allá del maqam árabe, a otras tradiciones musicales."
+        }
+      ]
+    },
+    "music/talk-to-spotify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify presentó una IA conversacional al estilo ChatGPT llamada 'Talk to Spotify'. La beta está dirigida a usuarios Premium mayores de 18 años en Estados Unidos, Irlanda y Suecia, y puede invocarse directamente desde la pantalla de inicio y la de reproducción. Se aleja de las recomendaciones algorítmicas pasivas hacia una escucha activa mediante prompts en ida y vuelta."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Talk-To-Spotify.png",
+          "cap": "Imagen de presentación de la función de IA conversacional 'Talk to Spotify'"
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden cambiar una sesión en tiempo real con peticiones como 'pon un artista que no haya escuchado', y luego ajustarla más con algo como 'un poco más animado'. También pueden preguntar por la fecha de lanzamiento, el género o la historia detrás de la canción que suena, o comprobar cuándo la escucharon por primera vez este año."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, el descubrimiento musical dependía de algoritmos pasivos como la búsqueda y Discover Weekly. El enfoque conversacional lo convierte en un diálogo concreto y distinto para cada persona, ampliando también las oportunidades para artistas de nicho. Al procesar una petición, la IA revisa metadatos, etiquetas y perfiles de audio."
+        },
+        {
+          "t": "p",
+          "x": "También queda más claro lo que artistas y responsables de marketing deben preparar. Primero, metadatos como género, ambiente, BPM y créditos se vuelven la base no negociable. Para que una petición como 'canciones animadas y poco conocidas de los últimos tres años' dé con una canción, hay que completar los detalles con cuidado en la etapa de distribución."
+        },
+        {
+          "t": "p",
+          "x": "También hay que completar la información de Spotify for Artists. Como la IA toma los datos directamente del propio ecosistema, conviene escribir en la biografía las influencias, la ciudad de origen y la trayectoria reciente, y usar clips y Canvas para retener a los fans en la pantalla de reproducción. Tener también los créditos de composición y producción hace que se puedan responder preguntas sobre cómo se hizo la canción."
+        },
+        {
+          "t": "p",
+          "x": "Lo que ocurre fuera de la plataforma también importa. Como el chatbot depende de un modelo de lenguaje entrenado con internet, las entrevistas, las anotaciones de Genius, los comunicados de prensa y Wikipedia se convierten en fuentes de sus respuestas. Ayuda anotar el significado de las letras en Genius y difundir en un blog comunicados de prensa con narrativa y temas claros. Otra opción es enseñar a los fans en TikTok o Reels a escribir prompts, animándolos con algo como 'pídele a Talk to Spotify que ponga mi nueva canción'."
+        }
+      ]
+    },
+    "music/audioauditor-ai-detect-toolkit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siempre es bienvenido encontrar una herramienta que ofrece funciones más amplias que sus alternativas de pago, y de forma gratuita y de código abierto. AudioAuditor es exactamente ese caso. Como app de escritorio y de línea de comandos (CLI), combina en uno solo las funciones de escuchar y analizar música."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/07/AudioAuditor-728x364.jpg",
+          "cap": "AudioAuditor: un kit de análisis y reproducción de audio gratuito y de código abierto con detección de música de IA"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Angel2mp3 la creó con Microsoft .NET 8. La app de escritorio por ahora solo funciona en Windows 10 o superior, mientras que la versión CLI admite Windows y Linux, con macOS aún en preparación."
+        },
+        {
+          "t": "p",
+          "x": "El motor de análisis incluye edición completa de metadatos, análisis espectral avanzado, detección de falso estéreo, falso sin pérdida y MQA, huellas digitales AcoustID, sonoridad y dinámica, detección de recorte y silencios, y detección de IA en fase beta."
+        },
+        {
+          "t": "p",
+          "x": "Con la música de IA presente en todas partes hoy en día, lo que naturalmente llama la atención es la función de detección de IA. Ya existen varias herramientas, como el AI Music Detector de Deezer o el AI Song Checker de SubmitHub, pero las versiones gratuitas de navegador dan resultados rápidos a costa de poca información. Si AudioAuditor puede mostrar más detalle analizando marcas de agua y patrones de bytes, podría ser una alternativa a los servicios de pago. Aun así, queda un largo camino para que los resultados sean fiables."
+        },
+        {
+          "t": "p",
+          "x": "El propio desarrollador lo deja claro: “La detección de IA de AudioAuditor intenta aprovechar al máximo la evidencia verificable, pero aun así los resultados pueden ser inexactos”."
+        },
+        {
+          "t": "p",
+          "x": "También destaca la ausencia de telemetría. A menos que se usen integraciones con servicios de música, no hay actividad de internet, el historial de uso no se rastrea ni se comparte, y nada de lo que se reproduce o analiza se usa para entrenar IA generativa."
+        }
+      ]
+    },
+    "music/canada-only-humans-authors-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La asociación de editoriales musicales de Canadá (MPC) intervino formalmente en una disputa judicial canadiense sobre si las creaciones hechas con IA están protegidas por derechos de autor, y si una herramienta de IA puede ser reconocida como “autora” de una obra junto a un creador humano."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/07/AI-Canada.png",
+          "cap": "La prueba canadiense sobre los derechos de autor de la IA"
+        },
+        {
+          "t": "p",
+          "x": "El caso gira en torno a una obra llamada 'Suryast', creada por Ankit Sahni con una herramienta de IA llamada RAGHAV. Se trata de una obra visual, pero la MPC considera que el resultado “tendrá un impacto significativo en la forma en que el derecho canadiense determine si la música creada con la ayuda de herramientas de IA generativa puede recibir protección de derechos de autor”."
+        },
+        {
+          "t": "p",
+          "x": "La posición de la MPC es clara: “Según el derecho de autor, el autor solo puede ser una persona”, y “aunque una obra hecha por una persona con la ayuda de una herramienta de IA puede recibir protección de derechos de autor, la herramienta de IA en sí no debe ser reconocida como la 'autora' legal”."
+        },
+        {
+          "t": "p",
+          "x": "Sahni tomó una foto de un atardecer y luego hizo que RAGHAV volviera a dibujar esa imagen al estilo de 'The Starry Night' de Vincent Van Gogh, e intentó registrar el 'Suryast' resultante con derechos de autor en varios países, incluidos Estados Unidos y Canadá. La Oficina de Derechos de Autor de EE. UU. rechazó el registro, alegando que solo una persona puede ser autora, por lo que las creaciones de IA no gozan de derechos de autor, y que el mensaje introducido por Sahni por sí solo era difícil de considerar creatividad humana."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, la Oficina de Propiedad Intelectual de Canadá registró 'Suryast' con derechos de autor en 2021, listando a Sahni y a RAGHAV como coautores. Ese registro ha sido impugnado desde entonces en los tribunales, y el litigio todavía continúa. La MPC, a la que se concedió autorización para intervenir el mes pasado, argumentó que “el enfoque de Canadá para determinar la protección de derechos de autor de obras hechas con herramientas de IA debe ser coherente con el enfoque adoptado por otros países del mundo”."
+        }
+      ]
+    },
+    "music/human-first-label-needs-teeth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lo más interesante de la investigación de Jason English sobre IA y streaming no es el punto ciego en sí, sino una frase que dejó caer casi de paso al final."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/pexels-pavel-danilyuk-8294663.jpg",
+          "cap": "Una etiqueta 'Humano Primero' que afirma que la música fue hecha por una persona"
+        },
+        {
+          "t": "p",
+          "x": "“La etiqueta 'Humano Primero' que ha surgido entre artistas independientes y sellos es una respuesta del mercado a ese punto ciego funcionando a la inversa. El público está prestando atención. Los artistas que afirman claramente que una canción fue realmente escrita, interpretada y cantada por un humano están ampliando el terreno que sus colegas muy dependientes de la IA, en la práctica, están cediendo gratis.”"
+        },
+        {
+          "t": "p",
+          "x": "El problema es que cualquiera puede escribir esta etiqueta y pegarla en una imagen o una página web para sus propios fines. Por ahora, no tiene ningún valor como señal. Una etiqueta que nadie puede verificar es solo una 'sensación'."
+        },
+        {
+          "t": "p",
+          "x": "Toda etiqueta que ha tenido un significado real ha contado siempre con algo que la respalda. La certificación 'orgánico' viene con auditorías e inspectores pagados, 'comercio justo' viene con trazabilidad, y 'Made in Italy' viene con legislación aduanera y equipos de control. La afirmación es lo visible, y lo que hace que valga la pena mirarla es, al final, la aplicación."
+        },
+        {
+          "t": "p",
+          "x": "El software ya pasó por la misma pelea. La respuesta de la Open Source Initiative (OSI) no fue auditar todos los proyectos, sino mantener una única definición y dejarla fuera de las empresas que se benefician de ella, para que cualquiera pudiera comprobar una afirmación en diez segundos."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/07/Screenshot-2026-07-28-at-11.12.38---AM.png",
+          "cap": "Captura de la página Explore de HeartMuLa — cortesía de HeartMuLa"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, en la música una definición no basta. “Un humano cantó esta canción” no es algo que se pueda verificar analizándolo, y por ahora no existe un detector confiable para eso. Por eso la aplicación debe venir de otro lugar: la ventana de subida. Todos los lanzamientos ya pasan por distribuidores como DistroKid, CD Baby, TuneCore y Bandcamp, que ya usan los contratos y la suspensión de cuentas como palanca para hacer que se declaren varios puntos."
+        },
+        {
+          "t": "p",
+          "x": "El autor propone desglosar esa declaración en cinco líneas. Composición, interpretación y voz principal se marcarían cada una como humano/asistido por IA/generado por IA, mientras que la cadena de producción (masterización, separación de pistas, limpieza) y los activos de marketing (textos, arte, video) se marcarían según si se usó IA. Así los fans recibirían cinco elementos concretos en lugar de una 'sensación' difusa, y las plataformas que ya controlan los contratos, las cuentas y los interruptores de bloqueo se convertirían, de hecho, en la capa de aplicación."
+        },
+        {
+          "t": "p",
+          "x": "La muestra tiene salvedades. Los 573 encuestados participaron por iniciativa propia y se reunieron entre la audiencia de un podcast dedicado a Americana, folk, roots, bluegrass y country. El 81% que consideró que la música de IA carece de autenticidad debe leerse como la señal de un solo segmento, no como un corte transversal del mercado. La autora, Cynthia Zhu, revela que ella misma trabaja en música GenAI: los creadores que no usan IA situaron la preocupación de los fans por la autoría humana en el 67%, y los usuarios frecuentes de IA en el 14%, una diferencia de 4.7 veces. Así como el código abierto no dependió de la honestidad de nadie, el punto del texto es que 'Humano Primero' también necesita dientes antes de que alguien lo vacíe por dentro."
+        }
+      ]
+    },
+    "music/labels-ban-ai-slop-charts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una coalición de grandes discográficas formada por Sony Music, Universal Music Group y Warner Music Group ha pedido que las pistas de AI slop queden fuera de los recuentos de las listas musicales mundiales. Es una respuesta a que canciones sintéticas hayan llegado hasta lo más alto de listas como el ranking de Billboard o la lista de canciones populares de Spotify."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/intro-1785343993.jpg",
+          "cap": "Un gráfico que representa música hecha por IA"
+        },
+        {
+          "t": "p",
+          "x": "Según The Hollywood Reporter, esta coalición, a la que también se han sumado numerosos sellos pequeños e independientes, está exigiendo a las empresas de listas reglas más estrictas dirigidas a la música generada por IA. Para entrar en el recuento, una canción debería ser básicamente hecha por humanos, y si la IA intervino, la forma en que se usó debe ser claramente legal. Antes, Sony y otras grandes discográficas presentaron una serie de demandas alegando que generadores de música por IA como Suno o Udio entrenaron sus modelos con su música sin permiso. La coalición considera que la música que pudiera equivaler a fraude de streaming no debería entrar en ninguna lista del mundo."
+        },
+        {
+          "t": "p",
+          "x": "Las plataformas de streaming están bajo una presión cada vez mayor de la industria musical en torno a la transparencia sobre la IA. A principios de este mes, la Recording Industry Association of America (RIAA) y la International Federation of the Phonographic Industry (IFPI) propusieron un sistema de etiquetas que marcaría las canciones en las apps de streaming como generadas total o parcialmente por IA. Apple ya ha introducido una “etiqueta de transparencia” de IA que funciona de forma similar, pero por ahora su aplicación queda a discreción de los sellos y distribuidores."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, las empresas tecnológicas siguen bajando el umbral para que cualquiera pueda hacer música con una sola línea de instrucción. Lyria Pro 3 de Google ahora puede generar pistas de hasta tres minutos, y permite crear por separado secciones específicas como intros, estribillos y puentes. El año pasado, Spotify tuvo que eliminar más de 75 millones de 'pistas de spam', y se informa que plataformas como Deezer reciben decenas de miles de canciones generadas por IA cada día."
+        }
+      ]
+    },
+    "music/soundboost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SoundBoost presentó una mezcla y masterización por IA que funciona con indicaciones de texto en lenguaje natural. Basta describir con palabras el sonido que quieres, y un productor puede obtener el máster a partir de eso."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/soundboost-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A esto se suma un separador de pistas gratuito, y la empresa presenta sus modelos como entrenados de forma 'ética'."
+        },
+        {
+          "t": "p",
+          "x": "Afirma que ya lo usan más de 130.000 músicos, con la idea de cambiar la forma de terminar las pistas."
+        }
+      ]
+    },
+    "music/music-artist-growth-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "690at7zkkqk"
+        },
+        {
+          "t": "p",
+          "x": "Artist Growth presentó lo que llama el primer servidor MCP de la industria musical. Conecta directamente con los principales modelos de IA los datos operativos que usan agencias, mánagers, promotores y sellos."
+        },
+        {
+          "t": "p",
+          "x": "Al conectar los datos de la plataforma con grandes modelos de lenguaje como ChatGPT, Claude, Gemini y Copilot, trabajo administrativo complejo —como armar itinerarios de gira o documentos de run-of-show— se resuelve en segundos con solo unas pocas frases."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/07/Matt-Urmy.jpg",
+          "cap": "Matt Urmy, cofundador y director ejecutivo de Artist Growth (foto: Artist Growth)"
+        },
+        {
+          "t": "p",
+          "x": "En palabras del cofundador y director ejecutivo Matt Urmy: “He visto a clientes terminar en menos de 20 segundos algo que antes tomaba 45 minutos, o información que antes costaba días de búsqueda.”"
+        },
+        {
+          "t": "p",
+          "x": "Los permisos también se trasladan sin cambios. El acceso por roles que Artist Growth otorga a los usuarios se extiende al modelo de lenguaje, de modo que tanto el equipo como los socios externos solo tocan los datos que tienen autorizados, lo que evita filtraciones o errores de calendario. El MCP está disponible en la tienda de apps de ChatGPT, y se conecta a Claude, Gemini y Copilot como conector en minutos."
+        }
+      ]
+    },
+    "music/music-soundid-voiceai-cpop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sonarworks añadió un nuevo paquete de expansión de voces C-pop a su herramienta de conversión vocal, SoundID VoiceAI. Suma 10 voces del mercado chino —cinco masculinas, cinco femeninas— hechas para estilos como el pop mandarín y el cantonés."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/s/sonarworks_c-pop_expansion_0-4UvzTer86AgS0yQlp1vW9K49WVHKHwLj.jpg",
+          "cap": "Paquete de expansión de voces chinas C-pop de SoundID VoiceAI (foto: Sonarworks)"
+        },
+        {
+          "t": "p",
+          "x": "Estas voces se entrenaron únicamente con audio obtenido mediante licencia formal y que respeta los derechos de autor. Están pensadas para creadores que hacen trabajo de sincronización o de librería, o que necesitan guías y demos cuando no consiguen un cantante real."
+        },
+        {
+          "t": "p",
+          "x": "Sonarworks pone énfasis en la ética de la IA. Su postura declarada es que “la IA debe potenciar la creatividad, no sustituirla”. La empresa dice que SoundID VoiceAI se construyó para apoyar a las personas, no para desplazarlas, y que cada voz se hizo junto a cantantes profesionales que dieron su consentimiento claro y recibieron una compensación justa."
+        },
+        {
+          "t": "p",
+          "x": "Funciona como plugin VST3, AU o AAX en Windows 10 o posterior y macOS 11 o posterior. Cuesta 29 dólares y ya se puede comprar."
+        }
+      ]
+    },
+    "music/music-i-am-choir": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Am I Audio ha lanzado su primer plugin tras años de desarrollo. Creado junto con la empresa de tecnología musical con sede en Tokio Neurotone, Inc., I Am Choir toma una sola pista vocal y la despliega en un arreglo coral, manteniendo intactas la letra y la melodía originales."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/am_i_audio_i_am_choir-7A67gqQJWf3467Zt70zwv.fCbrj1BoxY.jpg",
+          "cap": "Am I Audio I Am Choir — un plugin de ensamble vocal con IA"
+        },
+        {
+          "t": "p",
+          "x": "La compañía pide que el plugin se vea no como una herramienta de composición o escritura de canciones, sino como un procesador de “transferencia de timbre” (timbre transfer). Lo compara con un simulador de amplificador, salvo que, en lugar de hacer que el sonido salga como si hubiera pasado por un amplificador, sale como si lo hubiera cantado un coro. Además de generar varias capas de voz, incluye un motor de armonía que añade armonías una tercera o una quinta por encima o por debajo de la melodía de entrada. La escala y la tonalidad las elige el usuario."
+        },
+        {
+          "t": "p",
+          "x": "No interviene la nube. Todo el procesamiento se ejecuta directamente en el ordenador del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Tres coros. Se hizo junto con tres grupos de cantantes, todos los cuales sabían cómo se usaría su voz y lo aceptaron. Recibieron pago por el trabajo y también comparten las regalías del plugin."
+        },
+        {
+          "t": "p",
+          "x": "El coro de gospel se entrenó con un coro de gospel de Los Ángeles coordinado por Eric Howard, y el coro infantil con el MUSYCA Children's Choir. Shout se hizo con las voces de artistas, compositores y productores que Am I Audio ya conocía."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el uso de IA, Am I Audio declaró: “I Am Choir se construyó mediante colaboración directa con cantantes extraordinarios. Todas las voces se obtuvieron de forma ética, con conocimiento y consentimiento. Los cantantes que participaron fueron compensados por su trabajo y comparten el éxito de esta herramienta a través de regalías”."
+        },
+        {
+          "t": "p",
+          "x": "También añadieron: “Creemos que nada puede sustituir la magia humana de reunirse en una sala para cantar juntos. Esta herramienta no es un sustituto de esa experiencia, sino una expansión de lo posible”. El objetivo, dijeron, es abrir a los artistas sonidos y flujos de trabajo que el costo o la distancia física habían dejado fuera de su alcance, respetando al mismo tiempo a las personas que crearon esos sonidos."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en macOS 12 o posterior, con una versión para Windows en desarrollo. Es compatible con VST3, AU y AAX. Ya está disponible para su compra, con un precio de lanzamiento de 169 dólares en lugar del precio regular de 199 dólares hasta el 1 de septiembre de 2026."
+        }
+      ]
+    },
+    "music/music-spotify-merlin-remix": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify volvió a dejar entrever un nuevo producto el martes durante su presentación de resultados del segundo trimestre: un producto que permite a los fans usar IA para hacer covers y remixes de canciones de artistas, basado en el consentimiento de los artistas."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg",
+          "cap": "El logotipo de Spotify en la pantalla de un teléfono (Foto: Klaudia Radecka/NurPhoto / Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Junto con eso se anunció la incorporación de Merlin. Merlin, el socio de licencias que representa a sellos y distribuidoras independientes, se ha unido a este proyecto de música con IA tras Universal Music Group (UMG). Más de 30.000 sellos de la red de Merlin quedarán vinculados al producto, y los fans podrán hacer covers y remixes con canciones de los artistas que hayan dicho que quieren participar."
+        },
+        {
+          "t": "p",
+          "x": "Spotify traza una línea entre su producto y las startups de música con IA que han generado controversia por producir canciones totalmente artificiales en masa. El co-CEO Gustav Söderström dijo a los inversores que el producto trata sobre \"artistas reales, no artistas falsos\"."
+        },
+        {
+          "t": "p",
+          "x": "El co-CEO Alex Norström añadió: \"Queremos que los artistas den su consentimiento para poner su trabajo en este catálogo, y que la gente pueda jugar con covers y remixes basados en ese trabajo. Por supuesto, reciben crédito. Y por último, además del consentimiento y el crédito, también estamos construyendo la compensación. Es básicamente la primera forma legítima de subirse al impulso de la IA que se acerca a la música interactiva.\""
+        },
+        {
+          "t": "p",
+          "x": "La música con IA ya ha inundado el streaming. Deezer dijo recientemente que más del 50% de las pistas subidas a diario ya son hechas con IA, frente al 10% de enero de 2025."
+        },
+        {
+          "t": "p",
+          "x": "La vista previa de investigación se abrirá primero a un grupo limitado de usuarios. Spotify dijo que puede lanzarse sin el catálogo completo, aunque no precisó cuándo. El producto llegará como complemento de pago, y los artistas obtienen una nueva fuente de ingresos. Söderström dijo: \"La música generativa genérica va a ocurrir, estemos o no. Este producto no ocurre sin nosotros, y tiene que existir para que los artistas ya establecidos puedan participar.\""
+        }
+      ]
+    },
+    "music/music-suno-vinyl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_961x540/public/2026-08/Suno.jpg.webp",
+          "cap": "Suno Vinyl: canciones creadas con prompts que se convierten en discos físicos"
+        },
+        {
+          "t": "p",
+          "x": "Suno va a lanzar un servicio que prensa en discos físicos la música hecha en su plataforma de IA generativa. Suno Vinyl permite elegir pistas de la biblioteca y reunirlas en un solo disco, con hasta 46 minutos de audio en un vinilo de 12 pulgadas."
+        },
+        {
+          "t": "p",
+          "x": "Para la portada, la funda y la etiqueta, puedes subir tu propio arte o generarlo con Suno. Una vez elegido todo, el disco se prensa y se envía a tu casa."
+        },
+        {
+          "t": "p",
+          "x": "El precio se fijó en 45 dólares, sin incluir el envío. El material es PETG negro de 12 pulgadas, que Suno describe como ecológico. El servicio todavía figura como \"coming soon\", y el primer lote de prensado se reserva para los usuarios que se apunten a la lista de espera."
+        },
+        {
+          "t": "p",
+          "x": "El momento del lanzamiento no es fácil. Las disputas sobre sus métodos de entrenamiento y el uso de material protegido por derechos de autor continúan, y a principios de este mes Suno perdió un fallo en Alemania por usar grabaciones con derechos de autor para desarrollar su modelo."
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado, un hackeo reveló que Suno había extraído datos de canciones de YouTube, Deezer y Genius. En noviembre de 2025 surgieron informes de que la empresa produce, cada dos semanas, un volumen equivalente al catálogo completo de Spotify."
+        },
+        {
+          "t": "p",
+          "x": "A principios de 2025, unos comentarios del director ejecutivo Mikey Shulman en una entrevista generaron críticas. Dijo que la mayoría de los músicos no disfrutan haciendo música, y señaló: \"it's not really enjoyable to make music now [..] It takes a lot of time, it takes a lot of practice.\""
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de las plataformas ya se ha dividido. Este año, Deezer y Apple Music han bloqueado la monetización de la música con IA o la han etiquetado como tal, mientras que Bandcamp la ha prohibido por completo."
+        }
+      ]
+    },
+    "music/music-ai-poison-genre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hay una tendencia nueva tomando forma: artistas que graban y suben música deliberadamente rara, o directamente mala, esperando que la IA la rastree y 'aprenda' algo. Es distinto de técnicas de envenenamiento de datos más sofisticadas. El trabajo de ruido adversarial de Benn Jordan que CDM cubrió antes estaba diseñado para ser inaudible dentro del resultado final."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/smokethissong.jpg",
+          "cap": "Música 'veneno' hecha a propósito para apuntar a la IA"
+        },
+        {
+          "t": "p",
+          "x": "Esto es mucho más directo. MattstaGraham, de Tucson, publica una serie llamada Uploading Crappy Music Everywhere to Confuse Gen AI, una colección de 'anti-himnos'. CDM escribió que no quedó muy convencido. 'PISS CHAMP', señaló, suena a lo que sale cuando llegas hasta el fondo de Bandcamp."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, algunas son sorprendentemente escuchables. Tal vez romper la música es algo que deberíamos haber estado haciendo desde siempre. 'hey ai come train on this song', de Luke Nickle, suena como un 'Talking World War III Blues' para el bando contrario a los centros de datos. CDM calificó el tema de himno puro y dijo que todos deberían aprenderlo y cantarlo juntos."
+        },
+        {
+          "t": "video",
+          "yt": "zb4oPT-1Wvg"
+        },
+        {
+          "t": "p",
+          "x": "River, también conocido como iamriverhawk, produce videos cortos sin parar. Es el tipo de cosa que atraería más a fans de la música experimental y absurdista que a las máquinas. Resulta gracioso que las letras escritas por IA ya suenen así, da la sensación de que toda la música de meditación debería sonar así, y hasta hay una canción para todos los que perdieron su trabajo por culpa de la IA."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de CDM es que no sabe si la IA está confundida, pero que ellos sí lo están. Añadieron que, si se les escapó alguna música veneno, que se lo hagan saber, y dijeron que se iban a ir a ver textos y música normales por un rato."
+        }
+      ]
+    },
+    "music/music-fenix-flexin-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace un par de meses, Music Ally cubrió el caso de Fenix Flexin. Su éxito viral 'Rubberz' enfrentaba acusaciones de haber sido hecho con IA, mientras él mismo parecía genuinamente confundido por la afirmación. Buena parte se debía a que el sonido de sintetizador estilo años 80 era muy distinto de su rap habitual. En una entrevista en video compartida, Flexin y el productor Purpz on the Beat evitaron responder directamente a la pregunta de 'si esto es música de IA'. Fue un punto razonable: con tantas herramientas DAW que ya usan IA, hay buenas probabilidades de que la IA haya tocado casi cualquier canción."
+        },
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-74.png",
+          "cap": "Fenix Flexin"
+        },
+        {
+          "t": "p",
+          "x": "El problema es que 'Rubberz' es realmente el tipo de canción que podría volverse un verdadero éxito de verano. Es un pop bueno y extraño, y en los shows en vivo el público la canta a todo pulmón. Ya superó la viralidad en TikTok y está subiendo en listas musicales reales."
+        },
+        {
+          "t": "video",
+          "yt": "Hl5_Lc6b3AU"
+        },
+        {
+          "t": "p",
+          "x": "Pero, ¿y si de verdad la hizo la IA? ¿Qué significaría eso para Flexin, para quienes disfrutamos la música, para las listas, la verdad y el arte? Lo que viene después es predecible. 'Rubberz' enfrenta ahora acusaciones aún mayores de haber sido generada por IA. Todavía hay que ponerle la etiqueta de 'acusación', pero esta vez resulta un poco más convincente. La afirmación viene del artista Medasin, quien tituló una publicación de TikTok con más de 2 millones de vistas 'I present to you 'The Reckoning of Fenix Flexin & Purps'.'"
+        },
+        {
+          "t": "p",
+          "x": "Medasin dice que la canción fue generada 'por completo' con IA y que sus creadores están 'mintiendo'. Afirma que los dos usaron una plataforma de IA llamada Trebolo, ahora renombrada como Sonauto, y demuestra que incluso con prompts muy básicos se obtienen canciones y letras que suenan parecidas a 'Rubberz'."
+        },
+        {
+          "t": "p",
+          "x": "Lo que parece enfurecer más a Medasin es otra cosa: que el equipo de producción no admite que la canción fue generada por IA y en cambio la presenta como creación propia de Flexin, mientras se beneficia del trabajo de otros artistas usado para entrenar el modelo. Nombra al sello Empire e incluso a los fundadores de Sonauto. Flexin y Purpz publicaron un video de sus archivos de Pro Tools como prueba de que la canción no fue hecha enteramente con IA. Eso, a su vez, generó otra ronda de acusaciones: que simplemente exportaron stems generados por IA, los retocaron y volvieron a ensamblar el tema."
+        },
+        {
+          "t": "p",
+          "x": "Dejando la disputa de lado, ¿qué significaría si las acusaciones fueran ciertas? El contraargumento al enojo de Medasin es este: Flexin hizo la canción, la convirtió en su propio éxito, y la gente la canta y la disfruta. Y Flexin y Purpz cobran por un trabajo que a la gente le gusta. Ahora mismo, buena parte del público no le presta mucha atención al origen de una canción. Nadie sabe todavía si una reacción al estilo Milli Vanilli sigue siendo posible."
+        },
+        {
+          "t": "p",
+          "x": "En una nota relacionada, un artículo reciente de Behind the Single de Music Ally cubrió 'Let Me Be', una canción parcialmente generada por IA de The Second Voice. Vale la pena escucharlo para saber cómo el equipo de Spinnin' Records superó las sospechas de los DSP y la radio sobre los elementos de IA de la canción."
+        },
+        {
+          "t": "p",
+          "x": "En una nota relacionada, un artículo reciente de Behind the Single de Music Ally cubrió 'Let Me Be', una canción parcialmente generada por IA de The Second Voice. Vale la pena escucharlo para saber cómo el equipo de Spinnin' Records superó las sospechas de los DSP y la radio sobre los elementos de IA de la canción."
+        }
+      ]
+    },
+    "music/music-komca-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El mayor organismo de gestión de derechos de autor musicales de Corea del Sur ha levantado su prohibición de registrar canciones hechas con IA. La Asociación de Derechos de Autor Musicales de Corea (KOMCA) registrará ahora obras asistidas por IA y pagará regalías por ellas, siempre que un humano haya participado de forma sustancial en la letra, la composición o el arreglo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2025/04/Korea-flag.jpg",
+          "cap": "La Asociación de Derechos de Autor Musicales de Corea levanta la prohibición de registrar canciones asistidas por IA"
+        },
+        {
+          "t": "p",
+          "x": "La norma revisada entró en vigor el lunes 3 de agosto. Reemplaza una prohibición vigente desde el 24 de marzo de 2025. Con la norma anterior, los creadores tenían que confirmar que la obra se había hecho 'únicamente mediante una contribución creativa humana', y el umbral de contribución de IA que fijaba KOMCA era del '0%'. Usar siquiera una función de sugerencia de acordes incluida en un software de composición bastaba para quedar excluido del registro y las regalías."
+        },
+        {
+          "t": "p",
+          "x": "Con el nuevo sistema, quien registre una obra asistida por IA debe indicar en qué partes de la canción intervino la IA, nombrar la herramienta de IA usada y explicar su propia contribución creativa. También debe confirmar que el resultado no es algo que la IA produjo solo a partir de un prompt, y que una persona hizo una contribución creativa 'sustancial y protagónica' en la melodía, la letra, la estructura y el arreglo."
+        },
+        {
+          "t": "p",
+          "x": "La norma no fija un formato de documento específico. En su lugar, recomienda conservar material que pueda probar el proceso, como archivos de proyecto de DAW, historial de revisiones, partituras o registros de prompts. La asociación puede solicitar estas pruebas y remitirlas a revisión técnica o deliberación interna. Los creadores tienen 30 días para responder."
+        },
+        {
+          "t": "p",
+          "x": "El costo de una declaración falsa queda fijado en una enmienda a los términos del contrato de fideicomiso, aprobada por la misma junta el 28 de julio. Si se demuestra que una declaración es falsa, o si se confirma que una canción hecha enteramente por IA se registró como obra humana, KOMCA puede retener el pago de regalías, recuperar las cantidades ya pagadas y rescindir el contrato de fideicomiso. También está impulsando otra enmienda que impondría hasta el triple del monto recibido indebidamente si se confirma intención o negligencia grave."
+        },
+        {
+          "t": "p",
+          "x": "El cambio de rumbo se originó en una auditoría de marzo de 2026. La Junta de Auditoría e Inspección tomó como muestra 8.540 canciones de 29 autores que habían confiado a KOMCA más de 200 canciones cada uno en 2024, y determinó que 5.200 de ellas (60,9%) parecían hechas con ayuda de IA. La auditoría revisó 11 organismos nacionales de gestión de derechos y concluyó que habían estado registrando obras y pagando regalías sin verificar por separado si se había usado IA."
+        },
+        {
+          "t": "p",
+          "x": "Hace apenas cinco meses, KOMCA estaba del otro lado de esta pelea contra el uso no autorizado de IA. En febrero, se unió a cinco organizaciones nacionales de derechos musicales en una coalición que exigía prohibir el entrenamiento de IA sin el consentimiento de los creadores. El nuevo sistema no toca esa exigencia. Simplemente traza su línea casi en el mismo lugar que la Oficina de Derechos de Autor de EE. UU. marcó en su guía de enero de 2025: la IA puede ayudar a hacer una canción, pero no puede ser su autora."
+        },
+        {
+          "t": "p",
+          "x": "El momento no deja de llamar la atención. El 31 de julio, un tribunal de Múnich dictaminó que el generador de música con IA Suno infringió derechos de autor al entrenarse con el repertorio de la entidad alemana GEMA sin licencia. El tribunal ordenó detener la reproducción, revelar ingresos y pagar daños, y Suno dijo que apelaría. Tres días después, el 2 de agosto, entró en vigor un reglamento de la UE que exige etiquetar el contenido generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "KOMCA gestiona los derechos de autor de las canciones, es decir, de la composición y la letra, no de las grabaciones. Pero como los letristas, compositores y editoriales de casi todas las canciones de K-pop publicadas comercialmente registran sus obras en KOMCA, esta norma de divulgación llega hasta el fondo de los catálogos que fluyen hacia HYBE y SM Entertainment. KOMCA recaudó 437.000 millones de wones (unos 306 millones de dólares) en regalías en 2024, y mediante acuerdos de reciprocidad, sus registros se extienden a más de 110 países."
+        }
+      ]
+    },
+    "music/music-sound-free-concert": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 'primer' concierto sin sonido, celebrado en mayo en Kings Place, en Londres, demostró que los eventos en vivo pueden sostener mucho mejor la experiencia del público d/Deaf. Lo organizaron Tom Staniford y Adrian Webb, de la consultora tecnológica OutcomePath, quienes querían dar la vuelta a la propia idea de lo que es una actuación equitativa para el público d/Deaf."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-hero-credit-OutcomePath@2000x1500-1392x1044.jpg",
+          "cap": "Un concierto sin sonido (foto: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "Webb dice: “quienes no tenemos discapacidades debemos dejar de pensar que la discapacidad consiste en llevar a todos hasta nuestro propio estándar”. Tras dos años de preparación, el dúo, con el respaldo del fabricante de implantes cocleares (CI) Advanced Bionics, creó una actuación para usuarios de implante coclear."
+        },
+        {
+          "t": "p",
+          "x": "Staniford dijo: “un implante coclear es solo una herramienta, como un teléfono”, y añadió: “queríamos dar la vuelta a la idea de ver esa herramienta como algo para la igualdad. Debería ser algo envidiable”. “Se trataba de crear una experiencia nueva en la que, algún día, una persona oyente mire a un usuario de implante coclear y piense: 'ojalá tuviera uno de esos'”."
+        },
+        {
+          "t": "p",
+          "x": "¿Cómo es que no había sonido? El sonido hace vibrar un medio como el aire, y esa vibración pasa por el tímpano y la cóclea, convirtiéndose en señales eléctricas que viajan por el nervio auditivo. Un implante coclear capta el sonido con un procesador, lo convierte en una señal eléctrica y la envía directamente al nervio auditivo. Hoy casi todos los implantes cocleares se conectan a dispositivos por Bluetooth, y la música de este concierto siguió ese mismo camino. El fabricante de audífonos Phonak se encargó de la transmisión inalámbrica, conectando a todos los asistentes al mismo canal. Como dijo Staniford: “los oídos humanos no pueden oír las ondas de radio. Por eso es sin sonido”."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-1-credit-OutcomePath@1400x1050.jpg",
+          "cap": "Asistentes al concierto sin sonido (foto: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "La música la hizo Simon Morris en vivo, con una laptop durante la actuación, usando las plataformas de música con IA generativa Suno, Udio y Google Flow Music (antes Producer.ai). No había ni un solo altavoz, así que para los asistentes oyentes la sala estaba simplemente en silencio. A Morris, que sí oye, se le impidió escuchar la música que estaba creando. Introdujo prompts de géneros clásico, jazz, EDM y pop, y los asistentes leían esos prompts en una pantalla detrás de él para sacar ideas. Como no hubo muestreo ni grabación, la música que se escuchó ese día no puede volver a escucharse."
+        },
+        {
+          "t": "p",
+          "x": "La enfermera veterinaria Skye White se puso un implante coclear hace seis años. Sigue yendo a conciertos, pero dice que si no logra seguir la letra, “todo se vuelve un borrón”. La profesional de relaciones públicas Charlotte Young usa un implante coclear desde hace casi cuatro años. “Me dediqué a las artes escénicas toda mi vida, y cuando perdí la audición todo cambió, y me fui aislando cada vez más”, dice."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Sound-free-concerts-3-credit-OutcomePath@1400x1050.jpg",
+          "cap": "Público escuchando música a través de implantes cocleares (foto: OutcomePath)"
+        },
+        {
+          "t": "p",
+          "x": "Young recuerda que una canción le recordó a Frank Sinatra. “Todos cantamos juntos. Decíamos: 'somos d/Deaf, y podemos oír la letra, y todos nos estamos riendo, ¿qué es esto?'”. White disfrutó el sonido limpio, sin ruido de fondo. Young dijo que ver a los oyentes sentados en silencio le resultó “surrealista”."
+        },
+        {
+          "t": "p",
+          "x": "El propio implante coclear de Staniford no es un producto de Advanced Bionics, así que él no pudo participar como asistente. “Ver esas caras sonrientes disfrutando de algo, mientras para mí todo estaba en silencio, fue el momento de mayor comprensión que he vivido.”"
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso es Auracast, un método Bluetooth LE en el que un solo dispositivo emite audio de alta calidad a un número ilimitado de receptores. Staniford lo llama “prácticamente streaming universal” y cree que, dentro de unos años, podría ser posible un concierto sin sonido abierto a todos los usuarios de implante coclear. El dúo planea analizar las respuestas de la encuesta y publicar un informe técnico."
+        }
+      ]
+    },
+    "music/music-musixmatch-sentinel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Musixmatch consiguió a Suno como primer cliente de Sentinel, su servicio de detección de copyright para plataformas de IA y contenido generado por usuarios. Musixmatch anunció el jueves 6 de agosto de 2026 que Suno incorporó esta tecnología para detectar si composiciones, letras y grabaciones con copyright se filtran al sistema."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/sentinel-social-sharing-img-1200x630-1.jpg",
+          "cap": "Sentinel, el servicio de detección de copyright de Musixmatch"
+        },
+        {
+          "t": "p",
+          "x": "Sentinel examina los prompts y las salidas de la IA al mismo tiempo. Detecta letras con copyright en cualquier etapa de la generación y encuentra coincidencias confiables con rapidez, con una latencia de milisegundos. También conecta el contenido generado por usuarios con las pistas originales de los titulares de derechos para identificar versiones y repartir regalías."
+        },
+        {
+          "t": "p",
+          "x": "Musixmatch explica que Sentinel le da a Suno “una mirada más clara sobre el material protegido por derechos de autor dentro de los prompts de los usuarios”. Los criterios que arroja se reflejan en las decisiones de moderación, cumplimiento y producto de Suno."
+        },
+        {
+          "t": "p",
+          "x": "Rio Caraeff, co-CEO de Musixmatch, dijo: “Suno está elevando el nivel de creatividad y expresión de forma sorprendente, pero el panorama actual necesita una infraestructura sólida que permita a las plataformas saber qué se está creando y si está entrando material con derechos de autor”. También se mostró satisfecho de que Suno sea la primera plataforma en adoptar Sentinel."
+        },
+        {
+          "t": "p",
+          "x": "Phil Castro, jefe de asuntos legales de Suno, dijo: “A medida que la tecnología de IA sigue evolucionando, construir productos de forma responsable es importante”. Explicó que su principio es que sus herramientas permitan la creación original y no la imitación, y que Musixmatch ha sido un socio clave para detectar y frenar el uso indebido."
+        },
+        {
+          "t": "p",
+          "x": "Sentinel se lanzó el 27 de marzo. Devuelve un veredicto en menos de 100 milisegundos, se conecta mediante una API, y se diseñó pensando en el cumplimiento de la Ley de IA de la UE y la DMCA. La norma de la UE que exige etiquetar el contenido generado por IA entró en vigor el 2 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Sentinel se apoya en la base de datos musical propia de Musixmatch, que cubre más de 250 idiomas y usan más de 250.000 titulares de derechos y editoriales musicales. Universal Music Group, Sony Music Publishing y Warner Music Group figuran en esa red, junto con BMG, Kobalt, Reservoir y la NMPA. Musixmatch firmó acuerdos de licencia de IA con las divisiones editoriales de las tres grandes discográficas en octubre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El mismo día, Suno también publicó una entrada de blog en la que expuso sus principios. El CEO y cofundador Mikey Shulman escribió que los prompts que designan a artistas específicos o canciones con copyright “nunca se han permitido”. Cuando aparece un nombre, se elimina y la solicitud se redirige hacia la descripción de características musicales. Junto con Audible Magic, ACRCloud y Musixmatch, también revisa los archivos de audio y las letras que se suben."
+        },
+        {
+          "t": "p",
+          "x": "El pasado 31 de julio, el tribunal regional de Múnich falló que Suno infringió derechos de autor al entrenarse con el repertorio de GEMA sin licencia, el primer fallo de este tipo en Europa. Suno sostiene que el fallo se basa en un “malentendido fundamental” de su tecnología y está considerando apelar. También queda pendiente una demanda con Universal Music Group y Sony Music Entertainment, coordinada por la RIAA, mientras que Warner Music Group retiró sus reclamos en noviembre de 2025 y firmó una asociación de licencias que incluyó la adquisición de Songkick."
+        }
+      ]
+    },
+    "music/music-suno-download-watermark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno dio a conocer de golpe un paquete de políticas. Reescribió las reglas de descarga, incorporó marcas de agua y huellas digitales en las canciones generadas, revisó sus normas comunitarias y presentó además “herramientas de transparencia” para detectar pistas creadas con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Suno-New-Policies.webp",
+          "cap": "Suno revisa de una vez sus políticas de descarga y etiquetado"
+        },
+        {
+          "t": "p",
+          "x": "La política de descargas apunta a la distribución masiva. Está dirigida a la práctica de producir cientos o miles de canciones, subirlas a servicios de streaming y usar bots para generar reproducciones y desviar regalías. El trabajo profesional y el uso personal no se ven afectados."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de marcas de agua y huellas digitales se añadirá en pocas semanas. El cofundador y director ejecutivo Mikey Shulman escribió en el blog de la empresa que estas herramientas son “duraderas y resistentes a la manipulación, sin alterar la experiencia de escucha”. No precisó si la empresa usará SynthID de Google o desarrollará un método propio."
+        },
+        {
+          "t": "p",
+          "x": "También se reescribieron las normas comunitarias. Prohíben explícitamente el audio disfrazado de auténtico y el uso sin permiso de la voz o la imagen de una persona real. Shulman dijo además que la decisión de informar si algo fue creado con IA corresponde, en última instancia, a los artistas y a las plataformas."
+        },
+        {
+          "t": "p",
+          "x": "En materia de verificación de derechos de autor, Suno incorporó Sentinel, de la empresa de datos de letras Musixmatch. Para revisar el audio y las letras subidas también se usa Audible Magic."
+        },
+        {
+          "t": "p",
+          "x": "De fondo se acumulan las demandas. Siguen en curso las demandas por derechos de autor presentadas por Universal Music Group, Sony y la RIAA, y en julio un tribunal alemán determinó que Suno entrenó con música protegida sin licencia. Con Warner Music Group llegó a un acuerdo y firmó una licencia en noviembre de 2025."
+        }
+      ]
+    },
+    "music/music-sylvan-esso-betty-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sylvan Esso publicó el álbum Ow ∞ después de cuatro años. Amelia Meath y Nick Sanborn vieron interrumpido su primer trabajo por un huracán que azotó Carolina del Norte en 2024, y luego se retrasaron de nuevo por los incendios forestales de Los Ángeles en enero de 2025. Finalmente terminaron el disco en Betty's, un estudio fuera de la red que construyeron ellos mismos cerca de Chapel Hill."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rwWdT4dRQ8nR6BXa6VTf2T.jpg",
+          "cap": "Sylvan Esso, el dúo de Amelia Meath y Nick Sanborn"
+        },
+        {
+          "t": "p",
+          "x": "Amelia dice que esta vez fue más fácil. “Al hacer los primeros dos o tres discos, escribir canciones era muy difícil y doloroso. Aunque el mundo exterior temblaba, este trabajo fue mucho más estable y sencillo.” Nick atribuye la presión a ellos mismos. “Hemos tenido algo de éxito, pero la presión que sentimos ahora viene de nosotros. Más que sentir que algo es tibio, prefiero hacer algo que yo ame y que a todos los demás les desagrade.”"
+        },
+        {
+          "t": "p",
+          "x": "La razón para construir el estudio fue simple. “Necesitábamos un espacio de trabajo que no fuera nuestra casa. Un estudio suele hacerte sentir como un extraño. Si alquilas un espacio con un ingeniero incluido, no eres más que un invitado, y eso aísla.” Betty's se diseñó justo al contrario. La posición de mezcla da la espalda a una gran sala en vivo, y la grabación suele hacerse dentro de esa misma sala. Todos terminan en el mismo espacio."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GhrzQ6FPxmzEKeofdYtyba.jpg",
+          "cap": "Betty's, el estudio fuera de la red que construyeron cerca de Chapel Hill"
+        },
+        {
+          "t": "p",
+          "x": "En el disco participaron los percusionistas TJ Maiani, Joe Westerlund, Glenn Kotche y Jake Luppen, y en la producción ayudaron Daniel Aged y BJ Burton, colaborador de Bon Iver. Nick menciona los altavoces. “Los altavoces Ocean Way HR3.5 fueron clave para dar forma a nuestro sonido. Hay altavoces mejores con una posición de mezcla más estrecha, pero con estos, cualquiera que se sienta cerca percibe cómo va la mezcla cuando están encendidos.”"
+        },
+        {
+          "t": "p",
+          "x": "“Concrete Glen” incluye una muestra de “Svefn-g-englar”, de Sigur Rós. Nick dijo que siempre había querido hacer “una gran caída de muestra que nunca se hubiera hecho antes”. Amelia describe “Plastic Sword” como “la canción que corona todo lo que buscamos, el resultado donde somos más nosotros mismos”. Nick añade: “Suno no va a sacar algo así en el corto plazo. Aunque haya muchos momentos donde los puntos de referencia son obvios, lo que sale de ahí es nuevo. Es algo que no existía antes.”"
+        },
+        {
+          "t": "p",
+          "x": "La pareja retiró su catálogo de Spotify en septiembre de 2025, en protesta por la conducta de la plataforma y por las inversiones del entonces director ejecutivo Daniel Ek. Nick lo explica así: “No tengo ningún problema con el concepto de streaming. Mi problema es Daniel Ek. Me cansé de sentirme como una rana en una olla que no se da cuenta de que el agua se está calentando.” Aclara que no pidió a otros artistas que se retiraran también. Solo esperaba que los oyentes comunes pensaran una vez de dónde obtienen su música y consideraran cambiar de servicio."
+        }
+      ]
+    },
+    "music/music-symphonic-musicshield": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La distribuidora Symphonic se asoció con ArtyShield, una empresa que ayuda a los titulares de derechos a proteger su trabajo del uso no autorizado por IA. Los clientes de Symphonic podrán usar gratis algunas herramientas de ArtyShield, entre ellas MusicShield, que protege la música antes de su lanzamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-77.png?fit=2000%2C1500&ssl=1",
+          "cap": "Symphonic y ArtyShield se asocian en herramientas de protección frente a la IA"
+        },
+        {
+          "t": "p",
+          "x": "MusicShield altera los archivos de audio de una forma imperceptible para el oído humano. El sonido se mantiene igual, pero distorsiona la forma en que la IA lee las características de la canción, lo que reduce su valor como material de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Se confirmó su efecto en modelos de código abierto recientes como MusicLM, MusicGen, JASCO y Riffusion, además de plataformas comerciales como Suno y Udio. Su origen está en la investigación HarmonyCloak de 2024 de la Universidad de Tennessee, Knoxville, presentada en el IEEE Security and Privacy Symposium."
+        },
+        {
+          "t": "p",
+          "x": "El acceso es sencillo. Se entra directamente mediante inicio de sesión único desde la pantalla Client Offerings de SymphonicMS, la plataforma de gestión de Symphonic."
+        },
+        {
+          "t": "p",
+          "x": "También se abren otras herramientas de ArtyShield. VeriTune comprueba si una pista fue hecha con IA, y VoiceShield protege las interpretaciones vocales frente a la clonación de voz y las voces sintéticas. VeriVoice identifica grabaciones de voz generadas por IA o clonadas y manipuladas. También está en desarrollo ArtyShield Certify, que verifica la autoría humana para su uso en licencias y procedimientos legales, seguido de funciones de detección de infracciones de derechos de autor en todo el catálogo e identificación de voces cantadas por IA."
+        },
+        {
+          "t": "p",
+          "x": "El acceso gratuito es solo el comienzo. Ampliar el alcance de la protección exige elegir un nivel de pago. El director ejecutivo de Symphonic, Jorge Brea, dijo que MusicShield da a los creadores una forma práctica de proteger su propia música."
+        }
+      ]
+    },
+    "music/music-ye-ai-vocal-lawsuit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un productor freelance anónimo presentó una demanda contra Kanye West bajo el nombre de John Doe en los documentos judiciales. Afirma que se encargó del trabajo de voces con IA en los álbumes Vultures II y Bully, pero no recibió ni crédito ni pago."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6a7262f7f2099ddd9073c842/16:9/w_1280,c_limit/Kanye-West.jpeg",
+          "cap": "Kanye West, 21 de marzo de 2024, Los Ángeles"
+        },
+        {
+          "t": "p",
+          "x": "Según la demanda, se incorporó el 1 de agosto de 2024, dos días antes del lanzamiento de Vultures II, tras recibir una “solicitud urgente”. Su trabajo consistió en “un extenso trabajo de producción y producción vocal”, que incluyó al menos 13 modelos de voz de IA personalizados, más de 400 generaciones vocales individuales y grabaciones de su propia voz para usar como material fuente."
+        },
+        {
+          "t": "p",
+          "x": "En octubre de 2024 se incorporó al trabajo de Bully. Creó más producción vocal con IA, ayudó a escribir y componer dos canciones con otros artistas, y esas canciones se lanzaron comercialmente. En total se publicaron siete canciones, incluidas cinco de Vultures II."
+        },
+        {
+          "t": "p",
+          "x": "El demandante afirma que, entre octubre y noviembre de 2024, el equipo de Ye reconoció su trabajo y prometió corregir el crédito. Su nombre sigue sin aparecer en los créditos de producción en los servicios de streaming. La demanda señala que, a pesar de casi dos años de reclamos, los demandados nunca le pagaron."
+        },
+        {
+          "t": "p",
+          "x": "La demanda reclama al menos 110.000 dólares en daños compensatorios por las siete canciones lanzadas comercialmente. También solicita el pago doble conforme a la ordenanza de protección de trabajadores freelance de Los Ángeles."
+        },
+        {
+          "t": "p",
+          "x": "Tras el lanzamiento de Vultures II, los fans sospecharon que se habían usado punch-ins y filtros de IA. La reacción fue que eso dañó la experiencia de escucha."
+        }
+      ]
+    },
+    "music/music-deadmau5-autopilot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "fRo8DA7wub4"
+        },
+        {
+          "t": "p",
+          "x": "AUTO/PILOT, el nuevo proyecto que deadmau5 ha estado desarrollando, avanza lentamente hacia su lanzamiento. Entonces, ¿qué es AUTO/PILOT en definitiva? En esencia, es un software para mezcla de DJ y actuación en vivo de música electrónica, pero a diferencia de otras herramientas del mercado, apunta a ser mucho más completo."
+        },
+        {
+          "t": "p",
+          "x": "Reúne en un solo paquete mezcla creativa, arreglo en vivo, muestreo, integración con controladores MIDI/OSC y efectos propios. También hay bastante margen de personalización: la interfaz puede reconstruirse casi desde cero para adaptarse a la forma de trabajar de cada usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/autopilot-deadmau5-1024x565.jpg",
+          "cap": "Interfaz de AUTO/PILOT"
+        },
+        {
+          "t": "p",
+          "x": "La mesa de mezclas y la secuenciación se unen en una sola cosa dentro de AUTO/PILOT, con soporte completo de automatización. Es más parecido a una DAW dedicada, pensada solo para DJs y artistas en vivo. También permite organizar y editar los sets directamente sobre una línea de tiempo."
+        },
+        {
+          "t": "p",
+          "x": "También está previsto el soporte para plugins externos, lo que permitirá remezclar y manipular las pistas en tiempo real. Una vez más, deadmau5 se ha asociado con su \"amigo\" Steve Duda, el desarrollador de Serum, quien aquí se encargó del algoritmo de detección de tempo y de la grilla de beats. Según explican, el análisis de la pista termina prácticamente al instante."
+        },
+        {
+          "t": "p",
+          "x": "Los datos MIDI y OSC (Open Sound Control) también cumplen un papel importante en AUTO/PILOT. El nivel de integración es profundo y las opciones de ruteo son amplias. Como deadmau5 ha organizado sus propios shows durante años, sabe bien cuán importante es hoy hacer que la música, la iluminación y los visuales funcionen juntos."
+        },
+        {
+          "t": "p",
+          "x": "Ahora se puede probar directamente. La beta pública ya está abierta. Sin embargo, todavía no hay una prueba gratuita: hay que comprar el software. Por ahora tiene un precio de descuento de 50 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Es compatible tanto con Windows como con macOS, pero los requisitos de sistema exactos aún no se han publicado. Tampoco hay noticias sobre la fecha de lanzamiento definitivo."
+        }
+      ]
+    },
+    "music/music-spotify-ai-slop-purge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Todos saben que Spotify tiene muchas canciones. Tantas que no se podrían escuchar todas ni viviendo cien vidas. Nadie ha hecho de eso un problema jamás. Lo que nos preocupa es que las pistas basura generadas por IA llenen el catálogo y desplacen a los artistas de verdad."
+        },
+        {
+          "t": "p",
+          "x": "Por suerte, este servicio de streaming finalmente actuó. La empresa dijo hace poco que eliminó alrededor de 75 millones de pistas musicales de tipo spam durante los últimos 12 meses. Es una buena noticia tanto para los artistas como para quienes escuchan."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-6-AI-slop.jpg",
+          "cap": "Pistas basura de IA que Spotify eliminó"
+        },
+        {
+          "t": "p",
+          "x": "Para los artistas, no se trataba solo de más competencia. Estas pistas también se llevaban parte de las regalías, reduciendo el dinero que debería llegar a quienes se dedican de verdad a su trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Así lo explicó la empresa: \"Los pagos totales de música de Spotify crecieron de 1,000 millones de dólares en 2014 a 10,000 millones de dólares en 2024. Pero los pagos grandes atraen a malos actores. Tácticas de spam y distintos tipos de contenido basura —incluidas las subidas masivas, los duplicados, la manipulación de SEO y el abuso de pistas artificialmente cortas— se han vuelto más fáciles ahora que las herramientas de IA permiten a cualquiera producir música en masa.\""
+        },
+        {
+          "t": "p",
+          "x": "Una gran parte del problema es la suplantación con IA. Cuando una canción de un artista con cierta notoriedad empieza a tener repercusión, suplantadores con IA entran con copias y se quedan con una parte de las regalías y las reproducciones."
+        },
+        {
+          "t": "p",
+          "x": "Spotify dijo que primero taparía los agujeros más urgentes, lanzando este otoño un nuevo filtro contra el spam musical de IA. Si funciona como está previsto, identificará y marcará a los que suben pistas y cuentas suplantadoras con IA, y los sacará de las recomendaciones. En mi opinión, el castigo sigue siendo demasiado leve. Aun así, la empresa probablemente quiere evitar ser tan agresiva que termine castigando a artistas honestos y trabajadores que no hicieron nada malo."
+        },
+        {
+          "t": "p",
+          "x": "Para que quede claro, esto no busca eliminar música que simplemente usó la IA como ayuda, como para quitar ruido o ajustar el EQ. Apunta solo al contenido basura hecho 100% con IA. Últimamente hay bastantes novedades en el frente de la lucha contra el contenido basura de IA, así que vale la pena seguirlo de cerca."
+        }
+      ]
     }
   }
 }

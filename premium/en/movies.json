@@ -3477,6 +3477,1123 @@
           "x": "It pulls generative work out of the realm of prompt luck and moves it into controlled, directable, revisable work. The kind of fine-grained control filmmakers and previsualization artists have been waiting for."
         }
       ]
+    },
+    "movies/kokboru": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI video platform Higgsfield unveiled its first 15-minute animated film, Kök Börü, at SIGGRAPH 2026. It did not just screen the work; it also walked through the human-AI hybrid pipeline that made the short."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/kokboru1.jpg?itok=GWcRy1zx"
+        },
+        {
+          "t": "p",
+          "x": "The setting is 15th-century Central Asia. It is a period piece rooted in nomadic life and folklore, using generative AI alongside hand-drawn digital animation. It is a story that is hard to fund with a large budget, and harder still as a short."
+        },
+        {
+          "t": "p",
+          "x": "“As artists from Central Asia, these are stories we grew up hearing but rarely see on screen,” said director Shakhnazar Borboev. “Films like this don't always get a chance, so putting our stories on screen means everything to us.”"
+        },
+        {
+          "t": "p",
+          "x": "The title comes from kök börü, the traditional Central Asian horseback game also known as kokpar, in which mounted teams drag an animal carcass across a goal line to score, and which was added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2017. The game uses a goat or sheep, but the film puts a wolf at its center."
+        },
+        {
+          "t": "p",
+          "x": "Ana, a young nomadic mother forced to choose which of her two children to save from a wolf pack in a snowstorm, loses her young daughter on the steppe. Years later, the village sets out to kill a “demon” child seen running with wolves, and Ana must decide whether to find her daughter and bring her home or let her go."
+        },
+        {
+          "t": "video",
+          "yt": "BwVG_n9-jz4"
+        },
+        {
+          "t": "p",
+          "x": "Co-directing are Borboev from Kyrgyzstan and Amina Ömirjan and Stepan Abramov from Kazakhstan. The crew numbers 12 in total: five animators, two writers, three sound producers, one color artist, and one sound supervisor. Kazakh actors provided the voices themselves."
+        },
+        {
+          "t": "p",
+          "x": "Character sheets, locations, and all backgrounds were first drawn from Higgsfield's Soul Cartoon, a model trained on an NVIDIA B300 cluster linked with NVLink. What followed was a process closer to traditional animation, with artists redrawing and refining those outputs on Wacom tablets."
+        },
+        {
+          "t": "p",
+          "x": "Performance scenes were actually filmed and transferred onto the characters using Higgsfield's Motion Control. With no suits, markers, or green screen, the characters took on the timing, weight, and emotion of the human performances exactly as they were."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081150-kopiyakbvis03-1280.jpg?itok=qoP41Dgo"
+        },
+        {
+          "t": "p",
+          "x": "The main animation came out of Higgsfield Cinema Studio, an AI agent that directs multiple models, and the Supercomputer behind it. It handled in-between frames, staging, background construction, character performance, action-scene movement, emotionally charged dialogue, and lighting and atmosphere adjustments. The pipeline runs on NVIDIA GPUs from start to finish."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield said this hybrid approach let it finish the film in two weeks, work that would have taken one to two years and $1 million to $2 million under traditional production. “Showing this film and the pipeline behind it is about proving what's already possible today,” said co-founder and CEO Alex Mashrabov. “The goal was never to replace artists.”"
+        },
+        {
+          "t": "p",
+          "x": "The company describes Kök Börü as an example of human-conditioned production. Hand-drawn character designs, props, and painted textures first set each shot's look, performance, and emotional direction, and AI output is layered on top of that."
+        }
+      ]
+    },
+    "movies/promiseai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Since the era of AI film began, Hollywood screenwriters have been reluctant to put their names anywhere near that kind of work. At most, they would quietly touch up a few projects and cash the check, or ask ChatGPT for ideas when a scene wasn't working. Putting your name on an announcement is another matter. An LLM winning an Oscar seemed more likely to happen first."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/PromiseTuning.png?w=960&h=540&crop=1",
+          "cap": "A scene from the animated AI film 'Tuning In,' made by Promise AI"
+        },
+        {
+          "t": "p",
+          "x": "That is changing. Credited screenwriters are signing on to AI films that Promise AI is developing, the company told The Hollywood Reporter. The Los Angeles startup is focused on making original work with AI."
+        },
+        {
+          "t": "p",
+          "x": "Here are the names. Jamie Magnus Stone, who directed eight episodes of the modern Doctor Who's seasons 12 and 13, and Micho Rutare, who grew the Sharknado franchise at his former home The Asylum and wrote last year's Hulu film Predator: Killer of Killers. Unlike figures such as Martin Scorsese, who have only dabbled with the tools, these two have gone much further into AI."
+        },
+        {
+          "t": "p",
+          "x": "The pairing comes from Promise leadership's judgment that AI films turn out better the more traditional screenwriting and development gets mixed in. “People who make AI films have an incredibly rare skill set, because they have to learn dozens of tools,” said Tyler Mitchell, who leads development at Promise. “On top of that, a writer brings their whole talent to the table. You get a very strong map, and everyone's direction lines up.”"
+        },
+        {
+          "t": "p",
+          "x": "Stone is writing Everything is Within Tolerance, a bunker story about scientists running experiments while unknowingly becoming subjects themselves. Rutare is handling Ninja Punk, an animated film about ninjas, yakuza, and a supernatural underworld in 2065 Los Angeles. Stone is paired with AI filmmaker Guillaume Hurbault, and Rutare with Promise's chief creative officer, Dave Clark."
+        },
+        {
+          "t": "p",
+          "x": "Promise, founded by two people who came out of YouTube, has already been blending tech outsiders with traditional entertainment. Its funding comes from North Road, founded by Peter Chernin. Mitchell sees no contradiction in that. “Look at what Pixar does. They keep putting it through the mill and rewriting it over and over. But that's really expensive.”"
+        },
+        {
+          "t": "p",
+          "x": "Asked about the backlash, Rutare answered by email. “Talking with fellow screenwriters, there's fear of the unknown, but also excitement about the opportunities these new tools will open up.” Asked whether films like Sharknado would get easier to make, he said, “Of course.”"
+        },
+        {
+          "t": "p",
+          "x": "There are other pairings too. Clark is making Tuning In, a supernatural coming-of-age musical animation, with Robert Rugan, co-writer of The Curse of Bridge Hollow. Clark and AI artist Metapuppet are already producing the short series Hardcore 94 with newcomer Ivan Rome."
+        },
+        {
+          "t": "p",
+          "x": "For now, all the funding comes from Promise. Unless it's a live-action hybrid, it doesn't cost much. Mitchell said they will look for distribution partners, but it's unclear whether a major streamer or theater chain will come on board. “We want to be among the first to make great stories with this new technology. In the end, that's what we'll be judged on.”"
+        }
+      ]
+    },
+    "movies/raindanceimgn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Raindance Film Festival has teamed up with IMGN, an Israeli AI creative development platform. It is launching its first £10,000 ($13,394) fund to support independent filmmakers, and building a development hub tied to the Raindance screenplay competition."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/Raindance.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The announcement came at the 34th Raindance Film Festival in London. The IMGN/Raindance Film Fund targets indie writers and directors just starting out, and will grow in scale as the collaboration expands. The hub formally joins the 2027 Raindance screenplay competition. Selected writers will refine their scripts and build visual material with IMGN during script development before submitting their projects."
+        },
+        {
+          "t": "p",
+          "x": "“Raindance was built to give independent filmmakers a home, a place where bold, ambitious stories can find the support they need,” said founder Elliot Grove. “Together with IMGN, we are building that support thick from the earliest stage, the screenplay. Starting the fund at £10,000 while making clear we intend to grow it is about turning that promise into something the next generation of indie directors can hold in their hands.”"
+        },
+        {
+          "t": "p",
+          "x": "The fund is open to applicants eligible for the 2027 competition. They submit material developed with IMGN alongside their application, and if selected, receive funding on top of the hub's creative and strategic development. It is designed to lower the barrier to entry for independent creators without industry connections or development resources."
+        },
+        {
+          "t": "p",
+          "x": "“This collaboration with IMGN is a natural extension of what Raindance has always done, taking filmmaking out of the hands of the few and putting it into the hands of anyone who has a story to tell,” said executive director David Martínez. “For a new generation of indie directors learning and working outside the traditional system, tools like this make a real difference. IMGN and we use AI not to replace writers but to support and strengthen them, while leaving control, copyright, and independence in the director's own hands rather than a gatekeeper's.”"
+        },
+        {
+          "t": "p",
+          "x": "Martínez made clear that the program's AI tools “focus on production planning, not on changing the screenplay.” “For the £10,000 production fund, we only look at how a writer uses IMGN's production-planning and workflow tools. Everything else on the platform is optional. It's fine to decide not to use IMGN at all. There's no obligation to participate, and the screenplay remains fully valid for the Raindance screenplay competition and all its awards. It would only be excluded from consideration for the £10,000 production fund.”"
+        },
+        {
+          "t": "p",
+          "x": "IMGN co-founder Oz Vidal said “IMGN helps creators move from an idea to a screen-ready project in the most efficient and creative way possible.” He also said he sees a “clear shift” in the industry. “The conversation is moving from whether AI belongs in filmmaking to how to use it responsibly to solve real production problems.”"
+        },
+        {
+          "t": "p",
+          "x": "Eligibility requirements, submission timelines, and judging criteria will follow ahead of the 2027 Raindance screenplay competition. AI stood out at Raindance this year. “Lost Canon,” an AI-assisted short film initiative with CapCut and Moonmax, showcased 10 shorts made with CapCut Video Studio, and Moonmax also held an AI filmmaking masterclass."
+        }
+      ]
+    },
+    "movies/sam2matte": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Tr0AzAljYUE"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge demonstrated a free matting tool in a short video. It is titled exactly that: FREE SAM2 Matting Tool. It pulls rotoscoping and mattes using SAM2-family segmentation."
+        },
+        {
+          "t": "p",
+          "x": "The point is time. This tool takes over work that used to burn hours of hand masking. The gap is widest on fine details like hair. Anyone who has cleaned up hundreds of frames one by one for a single clip knows exactly what kind of labor this cuts out."
+        },
+        {
+          "t": "p",
+          "x": "The usefulness is even clearer for people working on AI compositing or visual effects. It plugs directly into generative video post-production, and since it costs nothing, you can try it on the next shot right away."
+        }
+      ]
+    },
+    "movies/gods-gifts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The YouTube channel Gossip Goblin's feature film 'Gods Don't Give Gifts' was made entirely with AI from start to finish. The project is set to become the next AI movie to move from a loyal YouTube following into theatrical release."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/07/Gods-Dont-Give-Gifts-still.png?w=1024",
+          "cap": "Still from 'Gods Don't Give Gifts'"
+        },
+        {
+          "t": "p",
+          "x": "By carrying viewers built up online straight into theaters, it becomes a concrete example of a generative-AI film reaching mainstream distribution."
+        }
+      ]
+    },
+    "movies/reluctant-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For 15 years I made films the traditional way. Working as an independent-film executive on franchises like The Expendables, Has Fallen, The Hitman's Bodyguard, Rambo, and Hellboy, I knew the magic of a 4 a.m. set. The first time I saw AI generate a film inside a computer instead of on a soundstage, what I felt was not wonder but sorrow."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/DSC00794-1.jpg?w=1296&h=730&crop=1",
+          "cap": "Scott Eastwood and producer Jonathan Yunger on the set of the World War II film 'Lucky Strike.'"
+        },
+        {
+          "t": "p",
+          "x": "I refused to become an AI advocate. The idea of algorithms replacing directors and AI “actresses” becoming stars unsettled and frightened me. Even so, I changed my position, not out of passion, but necessity."
+        },
+        {
+          "t": "p",
+          "x": "Film economics have been shaken badly. Mid-budget movies once made for $35 million are now treated as reckless gambles, and margins have shrunk year after year until the math that once sustained my career no longer works. Every other release is a sequel, reboot, or adaptation of existing IP. The real casualty isn't budget, it's originality. As studios find no case for betting on unproven stories, there's less and less room for the next Ryan Coogler, Chloé Zhao, or Paul Thomas Anderson to emerge."
+        },
+        {
+          "t": "p",
+          "x": "If people who understand film stay out of building AI tools, the technology drifts further from the art we love. The technology is coming regardless, the question is whose hands shape it. On set, AI shouldn't replace people; it should strip out the cost and friction from processes that were never the essence of filmmaking to begin with. Of the thousands of decisions behind a single film, most aren't acting or writing but the costly labor of iteration, coordination, and turning ideas into finished frames. Compress that process, and a $40 million story becomes possible for a fraction of the cost."
+        },
+        {
+          "t": "p",
+          "x": "More affordable films mean more films, and more chances for new voices. There's one principle to protect: not blocking creativity, but safeguarding it. We've already proven it. Hank Hoffman and I built Arcana, a generative AI toolset, an integrated system that preserves narrative control and consistency from script to finished scene, while protecting data and likeness."
+        },
+        {
+          "t": "p",
+          "x": "In 2025 we signed a SAG-AFTRA agreement for the short film Echo Hunter, aiming to show that even an AI-made film can keep real people, actors, writers, directors, composers, at its center. Directed by Kavan the Kid, the film captured the actors' actual voices and expressions, then used Arcana for animation and visual effects, with a budget under $50,000."
+        },
+        {
+          "t": "video",
+          "yt": "B-lfTmZp1DE"
+        },
+        {
+          "t": "p",
+          "x": "What I'm most proud of is that union deal. Echo Hunter shows that AI tools and human creativity can coexist on terms a union would accept. The short's YouTube view count is close to 500,000. Every studio and platform will soon face the same decision. The approach I recommend is artist-led AI, not AI-led art. I didn't start this company to eliminate filmmakers, I started it because I couldn't watch the industry that employs them collapse without a fight. How AI changes Hollywood, how fast, and on whose terms, remains a choice that's still ours to make."
+        }
+      ]
+    },
+    "movies/reply-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Reply AI Film Festival, held alongside Venice, unveiled its panel of judges for AI-made shorts. The lineup includes director Rob Minkoff of The Lion King and director Catherine Hardwicke of Twilight."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/07/minkoff-hardwicke.jpg?w=1000&h=563&crop=1",
+          "cap": "Rob Minkoff and Catherine Hardwicke"
+        },
+        {
+          "t": "p",
+          "x": "Coming ahead of the award announcement, the lineup signals that established directors are now directly involved in generative-AI short filmmaking."
+        }
+      ]
+    },
+    "movies/sparkstory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lightcraft Technologies has opened a rolling beta for Spark Story, a fast virtual production system designed to help filmmakers refine their story together from day one. With realistic digital environments, physically accurate motion, and real camera and lens models, early creative decisions carry straight through to the shoot. Full launch is this fall."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/web_library_locations-1280.jpg",
+          "cap": "Spark Story's environment and location library"
+        },
+        {
+          "t": "p",
+          "x": "The system will be demonstrated at SIGGRAPH 2026, booth 512, July 21-23. Spark Story is designed to sketch out original stories in 3D from a browser or mobile app, cutting costs and helping users block out shots. Teams around the world collaborate in real time on scripts, Gaussian splats, imported USD assets, and camera moves."
+        },
+        {
+          "t": "p",
+          "x": "“A new day has dawned for filmmakers trying to break free from old formulas. Backrooms and Obsession are just the start,” said Lightcraft co-founder and CEO Elliot Mack. “With Spark Story, ambitious teams build the projects they want without heavy cost or infrastructure.”"
+        },
+        {
+          "t": "p",
+          "x": "The beta adds a new library of 3D assets and environments: 25 Marble environments from World Labs and more than 300 genre-curated 3D assets. The iOS app supports one-click, real-time 24p/25p live-action compositing, so even people using AI or blue/green screen keyers can pull a full-quality 'SuperDaily' straight from their phone during the shoot."
+        },
+        {
+          "t": "p",
+          "x": "Lightcraft also released Spark Atlas, a cross-platform transfer app that syncs footage to the Spark database and attaches it to the right 3D scene and script section. Blender, Unreal Engine, and Maya USD files can now be imported directly, with no need to convert to USDZ."
+        },
+        {
+          "t": "p",
+          "x": "Lightcraft was founded by Emmy-winning inventor Elliot Mack and Avid founder Bill Warner, who serves as chairman. Applications for the Spark Story beta are open, with access granted in phases ahead of launch."
+        }
+      ]
+    },
+    "movies/aitoolvetting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a follow-up to a piece I wrote six months ago on the risks of 「vibe coding.」 I have consulted around machine learning for nearly 10 years, and I was among those who paid for ChatGPT as soon as it launched in November 2022. Over the past 18 months I have built more than ten pieces of software, all of them vibe-coded. I also run the subreddit /r/editors, where a new-tool thread now opens every month. That is where I watched these tools explode."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/image-20260722162716907-1024x185.png"
+        },
+        {
+          "t": "p",
+          "x": "There are generally two camps here. The gold-rush camp wants to charge a subscription for something they claim is unique, but in rushing to market they fail to actually understand their users. The problem-solving camp is a small team that hit a real bottleneck and fixed it themselves. If it is a tool built for their own use, the risk is low and it is fine to use as is. Both camps share the same weakness, though, and that is risk. In one real case, a large production trusted a small piece of software that looked usable, and without anyone noticing, thousands of tiny files piled up on the SAN."
+        },
+        {
+          "t": "p",
+          "x": "So before I bring any tool into production, I ask five questions. Who maintains it if the creator disappears? What happens if the API or platform changes? How was it tested, and what did they try to break? Does it store credentials or personal data, and how is security handled? Is it a living product with versions and a changelog? No single answer disqualifies a tool. It is simply a measure of how much risk I am taking on right now, and whether I and my client can absorb it if something breaks."
+        },
+        {
+          "t": "p",
+          "x": "What holds a workflow together is reliability, and that is the real product. A shop that has quietly stacked up ten of these tools will collapse the moment one API changes or a developer loses interest. So secure your exit first. Before you build a workflow on someone else's tool, know how you would get your work back if it died. You also need to check whether the backend sits in a country your clients would object to, and whether it is feeding your clients' IP into training. The answer was never going to be 「no」 from the start. It is 「yes,」 just with your eyes open."
+        }
+      ]
+    },
+    "movies/nvidia-synthetic-video-detector-mcp-siggraph": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA brought out two things at SIGGRAPH 2026. One is a synthetic video detector for media verification, and the other is an AI agent that reaches into creative tools everywhere via MCP (Model Context Protocol)."
+        },
+        {
+          "t": "p",
+          "x": "The synthetic video detection NIM microservice helps newsrooms and broadcasters identify synthetic video. It breaks footage down frame by frame and outputs a classification score for whether synthetic elements are mixed in. Editorial teams can use this score to “prioritize review, flag and quarantine suspicious clips, or hand them off for further verification.” NVIDIA was careful to note that the tool “doesn't replace existing fact-checking, but adds a signal to the verification process.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg?width=1920&height=1080&name=agentic-ai-nemoclaw-on-dgx-station-siggraph26-1920x1080-1.jpg",
+          "cap": "Agentic AI NeMo Claw on a DGX Station at SIGGRAPH 2026"
+        },
+        {
+          "t": "p",
+          "x": "Accuracy is 92% on uncompressed video, 87% at 15% compression, and 82% at 50% compression. Processing speed is 22 milliseconds for 1080p on RTX, and 30 milliseconds on an L40 GPU. It handles the compression, resizing, cropping, and re-encoding common to newsroom and social video, and deploys across on-premises, edge, hybrid, and air-gapped environments. The first partner, Waza, has added the detector to its own Video Intelligence Framework."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/nvidiaai%20agents.jpg?width=1920&height=1084&name=nvidiaai%20agents.jpg",
+          "cap": "NVIDIA's AI agents reaching into creative tools"
+        },
+        {
+          "t": "p",
+          "x": "MCP integration has also expanded. Adobe is extending agents across Firefly, Express, and the Creative Cloud as a whole, while Canva's Affinity added an AI connector for Claude to handle layer renaming and bulk editing. Blender, Boris FX Silhouette, Foundry Griptape, SideFX Houdini 22, and Unreal Engine have each opened their doors through MCP so agents can read and manipulate scene and project state."
+        }
+      ]
+    },
+    "movies/saga-ai-video-source-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A UC Riverside research team has introduced SAGA (Source Attribution of Generative AI Videos). Rather than just telling fake from real, it's a framework that traces back to the AI system that made the video. The supervising professor is Amit Roy-Chowdhury, and the work was led by PhD student Rohit Kundu."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works: it reads the distinctive visual patterns a generator leaves in its frames. Kundu explained that “these patterns are like fingerprints left behind by the generative model.” Since each generator leaves a different forensic signature, the system can tell them apart."
+        },
+        {
+          "t": "p",
+          "x": "It examines how visual elements change from one frame to the next. The approach digs into the fact that each generator handles these transitions differently and leaves behind its own distinct artifacts."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.jpg?id=67547306&width=1200&height=600&coordinates=0%2C333%2C0%2C334",
+          "cap": "The SAGA framework tracing the source of AI-generated video"
+        },
+        {
+          "t": "p",
+          "x": "With deepfakes and AI disinformation on the rise, this is a device that helps digital forensics investigators trace disinformation campaigns back to their source. YouTube and Google DeepMind also took part in the research."
+        }
+      ]
+    },
+    "movies/wonder-dynamics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/wonder-dynamics.webp?id=67559520&width=1245&height=700&quality=50&coordinates=0%2C53%2C0%2C24"
+        },
+        {
+          "t": "p",
+          "x": "Wonder Dynamics co-founders Tye Sheridan and Nikola Todorovic discussed how their filmmaking backgrounds shaped Autodesk Flow Studio."
+        },
+        {
+          "t": "p",
+          "x": "Flow Studio is an AI tool that transfers live-action performances into CG characters. But it doesn't take artists' hands off the wheel entirely. Artists hold the key decisions, and it fits smoothly into existing VFX pipelines."
+        },
+        {
+          "t": "p",
+          "x": "It's a calm, grounded account that frames the shift from performance to CG as a craft workflow, not a replacement."
+        }
+      ]
+    },
+    "movies/movies-stranger-vfx": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Season 5's opening, which brings back young Will, was difficult enough that it landed on VFX supervisor Patterson's risk list from the script stage. The production cast Luke, an actor who resembles young Noah Schnapp, and Schnapp coached him on-set on the texture of his original performance — the frightened eyes, the trembling mouth."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/07/onsetwires-830x414.jpg",
+          "cap": "On-set filming with wire stunts rigged"
+        },
+        {
+          "t": "p",
+          "x": "The shoot used facial tracking dots, two witness cameras mounted on the main camera, and four cameras around the forest set, with a Weta FX supervisor overseeing data capture on set. The finished sequence runs roughly 40 face shots. Jumps and falls were performed physically by a small-statured stunt performer, with only the head attached digitally."
+        },
+        {
+          "t": "p",
+          "x": "Patterson reviewed both ILM's and Weta FX's approaches. Machine-learning face swaps looked great frame by frame but left little room to fine-tune specific direction. So a traditional full-CG face, backed by generous capture material, was the safer path. Weta gathered every usable image of young Will — Season 1 footage, alternate takes, outtakes, promotional material, even interviews. The mouth was the hardest part to crack, and the solution came from a singing scene."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/07/progression-830x155.jpg",
+          "cap": "The stage-by-stage progression of young Will's digital face"
+        },
+        {
+          "t": "p",
+          "x": "For Vecna, Jamie Campbell Bower performed nearly every shot on set himself, with only his body swapped digitally. “It being Jamie's performance really mattered to everyone,” Patterson said. Rather than redesigning the Demogorgon, the team refined its shoulder and hip movement, running, and muscle simulation. Most of the creature work was handled by Weta FX, with Martin Hill as supervisor. ILM worked on environments such as the destruction of the Upside Down."
+        }
+      ]
+    },
+    "movies/movies-indiewire-a16z-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Whichever side you're on, no topic comes up as often in the film world right now as AI. It's also the fastest-growing area of independent film investment. The answer depends on who you ask: either a revolutionary tool that unlocks hidden potential, or a threat that strips away the essence of art."
+        },
+        {
+          "t": "p",
+          "x": "Between those two extremes, it's hard for a grounded conversation to take hold. IndieWire and Andreessen Horowitz's Cultural Leadership Fund made room for one at the American Pavilion during the Cannes Film Festival. The event was called \"Music, Film & the New Storytelling Stack — Co-Authoring What Comes Next.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/07/DSC_7794.jpg?w=1200&h=758&crop=1",
+          "cap": "Judine Small, Chris Opalt, Roan Hilton, Diego Rodriguez, and David Clark on stage at the Cannes American Pavilion"
+        },
+        {
+          "t": "p",
+          "x": "The first session was led by Judine Small, a partner at the Cultural Leadership Fund, joined by Roan Hilton, CEO of Masters vs. Machine; Diego Rodriguez, founder and CTO of Krea; and IndieWire's Chris Opalt. All three spoke about the balance between the human hand and AI tools, and above all pressed for clear terminology."
+        },
+        {
+          "t": "p",
+          "x": "Rodriguez put it this way: \"The word 'AI' particularly bothers me, because it means something different to everyone. To some it's a chatbot, to some it's TikTok or a recommendation engine, to some it's technology that automates their labor, and to others it's a new tool that helps artists. If that isn't sorted out, you can't even start the conversation.\""
+        },
+        {
+          "t": "p",
+          "x": "Opalt thought the current debate was happening too early, that people are reacting to crude prototypes that will never make it into actual production. \"The problem is that the moment someone says 'AI,' the first thing that comes to mind is some sloppy mashup of Brad Pitt fighting Tom Cruise. It's hard just to create a space to talk about this. It's a world run by money, and audiences turn away the moment they hear that word.\""
+        },
+        {
+          "t": "p",
+          "x": "Hilton saw the issue as reaching beyond technology or economics into philosophy. \"Humans want art to cost something. We connect with struggle, with the process of earning something over time. The moment a result comes from a single prompt, that cost gets shaky.\" He said that defending AI has to start with acknowledging that fear."
+        },
+        {
+          "t": "p",
+          "x": "They showed what collaboration could look like right on stage. As Hilton and a cellist performed, Rodriguez layered real-time images generated with Krea on top. It was a moment where the claim that this is expansion, not replacement, became visible."
+        },
+        {
+          "t": "p",
+          "x": "The conversation soon moved to copyright. Rodriguez said, \"It's frustrating that regulators and IP holders see AI as an enemy instead of a tool. Do you realize you can use AI to detect infringement of your IP at scale?\" Small added that now, while the industry is still young, is exactly when creators should secure a stake starting at the infrastructure level."
+        },
+        {
+          "t": "p",
+          "x": "The final slot went to Dave Clark, co-founder and CCO of Promise Studios. A short film made with AI tools, \"Silent Valley,\" landed him a seat across from Ridley Scott. \"What mattered to him wasn't the polish of the output but the story. He told me I'd pulled my story out using tools nobody even knows the name of. But tools alone didn't make it happen. It was the ten years I spent digging into history and learning the story I wanted to tell that let the tools turn me into a director.\""
+        }
+      ]
+    },
+    "movies/movies-reply-ai-film-festival": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650",
+          "cap": "A scene from the AI short film 'A Face Only a Mother Could Love'"
+        },
+        {
+          "t": "p",
+          "x": "The Reply AI Film Festival takes place in Venice this weekend. It has no connection to the Venice Film Festival; it just happens to be held at the same time, a short gondola ride away."
+        },
+        {
+          "t": "p",
+          "x": "IndieWire's Brian Welk judged a little under 60 AI-generated short films. Sitting alongside him were Oscar winner Gabriele Salvatores, Rob Minkoff, co-director of \"The Lion King,\" Catherine Hardwicke of \"Twilight,\" along with AI and VFX specialists and journalists."
+        },
+        {
+          "t": "p",
+          "x": "Reply AI has only been around for a few years, yet this year's entries bear no resemblance to the best work from two years ago. Picture quality, the control creators have, audio generation, and running time have all changed."
+        },
+        {
+          "t": "p",
+          "x": "The shortest ran 2 minutes, the longest a bit over 30, and the average was 7 to 15 minutes. That's not short at all compared to a few years ago, when sustaining even one minute was considered impressive. Some were remarkably good; others, despite being only a few minutes long, dragged unbearably."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Centenarian_.00_18_59_19.Immagine023.png?w=650",
+          "cap": "The AI short film 'Centenarian Kindergarten'"
+        },
+        {
+          "t": "p",
+          "x": "The uncanny valley that plagued early AI video is a thing of the past. Robotic-sounding audio can still break the spell, but the visuals have become convincing, because creators now mix multiple models and add VFX tools instead of just feeding a prompt to a single model."
+        },
+        {
+          "t": "p",
+          "x": "Among the finalists, Canadian filmmaker Robert Gaudette's \"A Face Only a Mother Could Love\" depicts a meeting between a man with a condition resembling Proteus syndrome and a woman who has watched him dance in the park for years. It's his first work."
+        },
+        {
+          "t": "p",
+          "x": "The Chinese studio 2x Labs' \"Centenarian Kindergarten\" follows a dystopian day care where 100-year-old residents live under the instructions and rewards of robotic caregivers. If AI is an extension of cheap VFX, it's also a way to put older actors back in front of the camera."
+        },
+        {
+          "t": "p",
+          "x": "It got tiresome watching one short after another break the fourth wall to make the fact of using AI itself the subject. The exception was Chinese director Jiaze Li's \"Website,\" a piece of science fiction where fake news becomes real — and one piece of a larger interactive project that includes an actual website built for it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Kev_.00_14_05_15.Immagine017.png?w=650",
+          "cap": "The AI short film 'Kev'"
+        },
+        {
+          "t": "p",
+          "x": "Entrants had to list which AI tools they used, whether they qualified for the AI For Good special prize, and the point at which AI made something possible that wouldn't have been otherwise. The same phrases kept recurring in the descriptions: \"overcame physical and financial barriers,\" \"iterated quickly.\""
+        },
+        {
+          "t": "p",
+          "x": "Judge Welk's feedback is firm: that's not enough. Don't call something a breakthrough over the impossible when it was always achievable with unlimited money, time, and manpower. A good many entries felt less like short films than proofs of concept aimed at feature-length projects."
+        },
+        {
+          "t": "p",
+          "x": "British filmmaker Mike Bennion's \"Kev\" takes the form of a documentary about a young blind man who loves football, but everything on screen is generated. Welk writes that getting emotionally invested in a fiction presented as a real person felt strangely uncomfortable."
+        },
+        {
+          "t": "p",
+          "x": "\"Field Notes,\" which didn't make the final ten, was built with Midjourney, ElevenLabs, and Suno, using director Arielko Kotzer's conversation with ChatGPT about its own existence as narration. Charles Dillon Ward's \"Oobado\" recreates scenes from \"Taxi Driver\" and \"The Matrix\" using green screen and a faceless green suit."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_Oobado-1.00_01_12_02.Immagine003.png?w=650",
+          "cap": "The AI short film 'Oobado'"
+        },
+        {
+          "t": "p",
+          "x": "Where Welk guesses AI film will find its place is the gallery more than the theater. Inside Hollywood, its role is to lighten the load on VFX or previs, not to replace actors and writers. As long as it imitates film, AI can't become a medium of its own."
+        }
+      ]
+    },
+    "movies/movies-seedance-nvidia": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2vSqzvonRts"
+        },
+        {
+          "t": "p",
+          "x": "This week's first item is InSpatio 4D Gaussian Splats, a tool that lets you upload a single video clip and move around it in 3D space. The tool covered last week needed a multi-camera rig shot from several angles, but this one has AI guess and fill in what's on the far side of the subject. It reconstructs 3D geometry, camera movement, and even the motion of objects. In a scene of a woman pouring orange juice, nudging the viewpoint with the arrow keys feels close to physically repositioning a camera on set. It's not production quality yet, but it's remarkable how far a single clip can take you."
+        },
+        {
+          "t": "p",
+          "x": "Adobe has put out research pointed in the same direction. Project Wonder turns a single image or video into a 3D environment you can explore in real time. There's no interactive demo, only examples from the paper, but it generates assets in real time across fantasy backdrops, animated scenes, and even a live-action space of a woman drinking coffee. Drone moves that would be a hassle to actually shoot get filled in, generating what wasn't visible from the starting angle. Several teams talking about 4D world models at once suggests that's the direction for the next few years."
+        },
+        {
+          "t": "p",
+          "x": "Midjourney released 8.2, promising bolder, more refined images, fewer low-quality results slipping through, and better understanding of personalized taste. In a prompt putting the words \"North Star\" inside a glass sphere, the text actually receded out of focus and blended into the scene. On a denim jacket and a \"no entry\" sign prompt, even the film grain and color grading looked convincing. GPT-2 left behind a stock-photo impression with faint fractal noise, and Reeve led on character detail and text accuracy but leaned closer to stock in its direction and color. If the goal is cinematic realism and creative exploration, it's still Midjourney."
+        },
+        {
+          "t": "p",
+          "x": "LTX released an open-source 2.3 version. Upload a clip and it removes people to produce a clean plate in seconds. It can run locally and you can try it directly on Hugging Face, up to 10 seconds at up to 960p. That said, running the same source through Seedance produced better results: the lens flare connected naturally to the sun, and the motion blur and reflections on a running woman were far more stable. On a relighting tool that shifts time of day, LTX's version also smeared the person or oddly painted in a beach and balloons. Still, being free, running locally, and integrating with ComfyUI keep it useful inside a pipeline."
+        },
+        {
+          "t": "p",
+          "x": "And now this week's real story: Nvidia's Cosmos 3 Super. It's an update to the existing Cosmos project and an open world model you can download and run locally, running 25 times faster than models on the market. But speed isn't actually the point. It takes in any kind of data — images, documents, video, audio, even the physical movement of robots or people — and outputs in any format. It also ranks first among open-weight models in both image-to-video and text-to-image. That means a robot can explain its own actions through images or video instead of just text, and footage of a humanoid on Mars or a robotic arm picking up an apple holds up against top video models for physical realism. The days of switching on a specific tool for each specific task are about to be over."
+        }
+      ]
+    },
+    "movies/movies-snapchat-ai-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As short-form video gets swept up in a wave of AI slop, Snapchat has redrawn the line on what content it will let onto its platform."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2271501657.jpg?crop=0px%2C123px%2C6000px%2C3357px&resize=2000%2C1126",
+          "cap": "Snapchat's app logo, as the company applies new rules to AI-generated video"
+        },
+        {
+          "t": "p",
+          "x": "On Friday, the company said it would ban fully AI-made videos from Spotlight, the feed that surfaces popular content from creators and studios."
+        },
+        {
+          "t": "p",
+          "x": "\"As low-quality, repetitive AI-generated content becomes common across the internet, we want Spotlight to remain a place where people encounter real creation from real people. We believe there is lasting value in rewarding unique perspectives, personal stories, and the moments people choose to create and share themselves,\" the company said in a statement."
+        },
+        {
+          "t": "p",
+          "x": "It's not stripping out AI altogether. Videos \"enhanced or edited using Snapchat's AI creative tools\" can still appear on Spotlight. The explanation added: \"We recognize that for some, AI is an important part of the creative process and can unlock new forms of expression.\""
+        },
+        {
+          "t": "p",
+          "x": "Even so, the move to block fully generated video targets prompt-churned slop. As video models like Google's Nano Banana or Seedance keep improving, that kind of content is increasing across every platform."
+        },
+        {
+          "t": "p",
+          "x": "It also reads as a reaction against Facebook and Instagram, which have been more open to AI content. In a Thursday post, Mark Zuckerberg wrote that the company's image and video model, Muse, could lead to \"a world of nearly infinite personalized content.\" He added that \"our services will become dramatically more useful and engaging.\""
+        },
+        {
+          "t": "p",
+          "x": "Snapchat's bet is this: it isn't cutting AI out entirely, but it's wagering that people will prefer results led by humans."
+        }
+      ]
+    },
+    "movies/movies-tech-reviews-blender5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "What Blender 5.0 has spent years trying to earn isn't market share or awards. It's pipeline trust, on sets where a mismatched color space leaks money and a broken integration leaks time. That kind of trust doesn't arrive with a single headline feature; it accumulates."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Blender2.jpg",
+          "cap": "The Blender 5.0 viewport, with an updated color pipeline and shading workflow"
+        },
+        {
+          "t": "p",
+          "x": "The center of gravity in this release is the color pipeline: improved HDR support, expanded color management options, and continued development of the AgX view transform. None of that is the kind of thing that gets applause at a product launch, but it's decisive for anyone handing a Blender render to a Nuke compositor or round-tripping through DaVinci Resolve grading. For a long time, the answer to how Blender handles color was \"more or less right.\" 5.0 is trying to make that answer unnecessary. Cycles got faster again thanks to GPU optimization and improved physically based rendering, and Eevee is quietly shifting from a preview stopgap into a real-time renderer. The ambition shows most clearly in Geometry Nodes, which brings the non-destructive, modular way of working that Houdini popularized, without the price tag or years of learning debt. Add improved compositing, USD support, and viewport performance, and moving between apps starts to feel less like translation and more like a handoff."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Silhouette.jpg",
+          "cap": "Boris FX Silhouette 2026, with a substantially expanded set of machine learning roto and matting tools"
+        },
+        {
+          "t": "p",
+          "x": "The misery of roto work has a texture all its own: no explosions, no catastrophes, just frames piling up, edges drifting, flicker across the timeline, and a shape that held fine mid-shot collapsing at both ends. Silhouette 2026 takes direct aim at that misery, without claiming that automation can erase it. The expanded AI toolset — FaceML, Depth Map ML, Mask ML, Matte Assist ML, Matte Refine ML — delivers real gains in edge quality, motion blur handling, and frame-to-frame consistency. Point Track ML handles occlusion and reappearance more reliably, and Object Tracker automatically builds tracking layers, running the setup work alongside an artist's first pass. Head Track ML generates a 3D head mesh carrying expression and pose data, and new Unwrap and Rewrap nodes connect that information to 2D paint and roto. The SynthEyes-based 3D Scene now has Refine Solve, which polishes an existing camera solve rather than discarding it. Pricing is $103 a month, $44.42 a month billed annually, or a $1,195 perpetual license."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/DaVinci-Resolve.jpg",
+          "cap": "Blackmagic Design DaVinci Resolve 21, with a new node-based Photo page"
+        },
+        {
+          "t": "p",
+          "x": "The version of history where DaVinci Resolve stayed just a color suite ended long ago. The biggest talking point in 21 is the Photo page, which brings the node-based color pipeline to stills, adding RAW support, LUT application, Resolve FX, and full grading controls. Photographers who were faking cinematic grading now have a proper tool for it. AI features like IntelliSearch, AI Cinefocus, Face Age Transformer, Face Reshaper, UltraSharpen, and Motion Deblur don't claim to replace skill; they target the time that used to get eaten up by repetitive work. Fusion gained the Krokodove toolset, adding more than 70 graphics tools, and the Edit and Cut pages got refined keyframe and curve editing and timeline manipulation. Colorists got node graph cleanup, MultiMaster trims, and color management updates. The base version is free; Studio 21 costs $295."
+        }
+      ]
+    },
+    "movies/movies-chikaboom-craig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Before there was Chika Batstone, a nine-year-old actor stood on a virtual production stage and watched the world move around her. It was 2023, and writer-director c. Craig was shooting the film Fathead on Amazon's Stage 15. When the crew rotated the environment for the next shot, the young lead, Capri Ladd, asked what was happening, and Craig told her it was magic."
+        },
+        {
+          "t": "p",
+          "x": "“She fully believed she was watching magic. That let me see the wonder in her eyes, and her belief in magic.” After wrapping that day and heading home, Craig wrote the first draft of the story that would become ChikaBOOM!"
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-1.jpg",
+          "cap": "ChikaBOOM!, the short that had its world premiere at the 2026 Tribeca Festival"
+        },
+        {
+          "t": "p",
+          "x": "Three years later, the nine-minute animated short had its world premiere at Whoopi's Wonderful World of Animation at the 2026 Tribeca Festival. It follows Chika Batstone, an aspiring magician who, out of curiosity, unleashes a chaotic magical creature named Kaboom in the middle of New York City. Yara Shahidi voices Chika, Natasha Lyonne voices Kaboom, and David Dicks voices her father, Amazing Ani. But the most important presence is the one Craig fought to keep visible all the way through: the artist's hand behind every frame."
+        },
+        {
+          "t": "p",
+          "x": "More than 90% of the film is CG. The part that shows its hybrid nature most clearly is Kaboom, a volumetric cloud character, which was both expensive and technically demanding. The solution started in 2D. Lead 2D artist Hoze Wheeler and colleagues hand-drew Kaboom's movement and performance, then wrapped a generated 3D mesh over those drawings to give it cloud-like volume. The performance came from the animators; the technology gave that performance a different material quality."
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-2.png",
+          "cap": "Kaboom, with the artist's outlines left intact"
+        },
+        {
+          "t": "p",
+          "x": "To keep the source clear, the team chose not to smooth away the artist's outlines left around Kaboom. “In every frame Kaboom appears in, you can see the hand of the artist who moved it. We kept the artist's work right there inside it.” The moment the outlines went in, the team knew it was right. “The character stood out within the world, and somehow felt more magical.”"
+        },
+        {
+          "t": "p",
+          "x": "One of Kaboom's most expressive traits came from a mistake. In a scene where Kaboom bonds with Chika, the model unexpectedly produced a sparkler-like effect around its eyes. It was uncontrolled and annoying, and it happened to disrupt an emotional moment. The technical issue was fixed two weeks later, but by then, the team had grown fond of the effect. They dialed down its intensity and folded it into Kaboom's performance, so now sparks fly when the character gets extremely excited or scared. A glitch became a behavior, once the artists took control of directing it."
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/07/Chikaboom-Still-3.png",
+          "cap": "The crew wrapped a generated mesh over hand-drawn performance"
+        },
+        {
+          "t": "p",
+          "x": "Because it used generative techniques, this film can't avoid getting pulled into the industry's AI debate. Craig respectfully objects to the word 'artificial' flattening what actually happened. “The artists on this worked incredibly hard and poured in real creativity. They spent years properly thinking through and caring about every frame of this piece.” Taking a shortcut approach runs into the same problem Chika hits when she reaches for magic unprepared. “If you take a shortcut without knowing what you're doing, something will go wrong.”"
+        },
+        {
+          "t": "p",
+          "x": "“Used carefully, it can just be one layer of the animation process. It's useful for some films and not for others.” He said he has no interest in erasing the people around him in the name of efficiency. “I love my team. I have no interest in making a movie alone, or making a movie with two or three people and one model.”"
+        }
+      ]
+    },
+    "movies/movies-greenlight-coverage-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This episode of the No Film School podcast looks at how to gauge a script's commercial potential before a single frame is shot. It's a sponsored episode, with guests Greenlight Coverage founder Jack Jang and Level 33 Entertainment VP Andreas Olavarria."
+        },
+        {
+          "t": "p",
+          "x": "Greenlight Coverage evaluates scripts using data science and AI analysis. Rather than relying on algorithmic scoring alone, it layers in judgment from experienced industry professionals. In the conversation, AI script coverage is framed not as a replacement for human readers, but as an evaluation tool placed at the first gate."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/greenlight-coverage.jpg?id=61494571&width=1245&height=700&quality=50",
+          "cap": "Greenlight Coverage, which scores scripts with data"
+        },
+        {
+          "t": "p",
+          "x": "The scoring rests on originality, plot structure, character, theme, and audience positioning. In independent film, the conversation often turns to the point where craft and commercial viability diverge, and to contained concepts that can keep budgets in check. It also covers cases where the genre itself brings in an audience, as with horror, thrillers, romance, or Hallmark- and Lifetime-style films."
+        },
+        {
+          "t": "p",
+          "x": "The distribution discussion covers theatrical, TVOD, SVOD, and AVOD outlets. On ad-based platforms, the first five minutes are what matter. “Whatever the genre, a film has to hook the audience within the first five minutes.” It also covers how casting, executive producers, and the audience a creator brings in factor into marketing."
+        },
+        {
+          "t": "p",
+          "x": "The prize for The Greenlight List is “$100,000 in equity financing and guaranteed distribution through Level 33 Entertainment.” The two recommend using the submission deadline as a milestone that actually gets a script finished."
+        }
+      ]
+    },
+    "movies/movies-youtube-ai-slop-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is the age of AI slop. Merriam-Webster even picked slop as its word of the year for 2025. Now that a single prompt can produce a YouTube video, YouTube has revised its channel monetization policy. In an interview with Creator Insider, YouTube VP of Trust and Safety Matt Halprin explained how the company plans to tighten up AI content within the YouTube Partner Program."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/intro-1784819058.jpg",
+          "cap": "YouTube rewrote its rules for monetizing AI content"
+        },
+        {
+          "t": "p",
+          "x": "The volume of AI content pouring into YouTube is substantial. Last year, the Guardian reported that one in ten of the fastest-growing YouTube channels focused on AI. What people actually want runs the other way. In a recent survey reported by Fortune, only 26% of respondents said they view AI positively. As with LinkedIn's recent AI policy overhaul, this YouTube revision doesn't mean AI slop is being blocked outright."
+        },
+        {
+          "t": "p",
+          "x": "Halprin said YouTube is “agnostic” about which tools creators choose, taking no side either way. The policy language itself also changed, from “repetitious content” to “inauthentic content.” That means whether or not you use AI, if you're in the Partner Program, your videos need effort and creativity behind them. Rather than banning generative content outright, YouTube chose to spell out what you need to preserve to keep AI content on the platform."
+        },
+        {
+          "t": "p",
+          "x": "The policy specifically targets three kinds of AI content: obviously mass-produced, repetitive videos cranked out by content farms; disturbing or distressing scenes, like animals in danger; and what Halprin calls “AI personas,” fake figures dispensing advice on serious topics like finance. This is separate from the general Community Guidelines that block nudity or hate speech, and this change applies only to those trying to monetize AI videos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/youtube-explains-its-ai-slop-policy-and-why-some-creators-wont-get-paid/how-to-tell-if-a-video-is-ai-generated-1784819059.jpg",
+          "cap": "Clues for telling if a video was made with AI"
+        },
+        {
+          "t": "p",
+          "x": "YouTube has rolled out automatic AI detection, but some videos still slip through. As the technology improves, it gets harder to spot, making the home feed feel like a minefield. Of course, some are obviously fake. A scene that makes no sense, like a baby rescuing a dog from flames, is easy to catch, and most people now know the trick of counting fingers. But it's not always that easy."
+        },
+        {
+          "t": "p",
+          "x": "When you run into a suspicious video, check the length first. The longer it runs, the higher the odds AI will make a telltale mistake, so many creators stick to short clips. Video quality is another signal. Footage that fakes being shot from a distance or with a low-quality camera is a common trick, since it's good at hiding glitches."
+        },
+        {
+          "t": "p",
+          "x": "The opposite case is worth watching too. Be suspicious of videos that look overly polished, with people whose hair is perfectly styled, whose skin looks airbrushed, and whose faces are symmetrical, especially in contexts where that look doesn't fit, like a protest or a battlefield. Even the best AI still leaves mistakes in perspective and physics. Shadows that don't make sense or aren't there at all, jewelry that hangs awkwardly, and warped reflections are all tells. Until YouTube someday rolls out a feature that filters AI videos out of the feed, this is about as good as it gets for spotting slop."
+        }
+      ]
+    },
+    "movies/movies-adobe-chatgpt-plugin": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After Adobe first showed off a conversational editing flow with ChatGPT integration last December, the two companies built a new Adobe plugin together, tying their products even closer."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/adobe-plugin-in-chatgpt.webp?id=67582778&width=1245&height=700&quality=50",
+          "cap": "The Adobe plugin inside ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Adobe packed its creative and productivity tools into a single unified plugin. It runs across ChatGPT Work and Codex, and when you describe in words what you want to make, the model picks out and strings together the right Adobe tools."
+        },
+        {
+          "t": "p",
+          "x": "The plugin calls on more than 70 tools. All the marquee apps are in there: Adobe Express, Photoshop, Firefly, Premiere, Acrobat, Lightroom, Illustrator, InDesign, Stock. The pitch is letting the hundreds of millions of people and 2 million businesses using ChatGPT create images, video, designs, and documents right away."
+        },
+        {
+          "t": "p",
+          "x": "Vibhor Chhabra, who leads ChatGPT ecosystem products at OpenAI, put it this way: “We're building ChatGPT to connect users with the best capabilities for what they need right now. Adobe's creative and productivity tools help people express their creativity, communicate, and work more productively.”"
+        },
+        {
+          "t": "p",
+          "x": "The partnership itself isn't new. Adobe has spent nearly a year working with other AI chatbot platforms too, including Copilot and Claude. What's changed is bringing together previously scattered integrations into a single plugin."
+        },
+        {
+          "t": "p",
+          "x": "Here's the example Adobe gave: upload campaign photos and describe the look you want, and the same style gets applied across the whole set, with the results saved to Creative Cloud and the strongest single image turned into a product or packaging mockup."
+        },
+        {
+          "t": "p",
+          "x": "Long videos get trimmed into highlight reels sized for YouTube Shorts and Instagram Reels. There's also a path where you pick a template, swap in new copy and colors, and export it as a social animation or a print-ready PDF. Upload a spreadsheet, and it gets organized into documents like event badges, catalogs, or infographics."
+        },
+        {
+          "t": "p",
+          "x": "Using it is simple. Add the Adobe plugin from ChatGPT's Plugins, then in a new conversation type “@Adobe” or pick it with the “+” button. Guests can touch a good number of the tools too, but generation features, access to Creative Cloud files, and saving work all require logging into an Adobe account."
+        },
+        {
+          "t": "p",
+          "x": "That's not welcome news for anxious creators. Even so, this trend shows no sign of slowing down for now."
+        }
+      ]
+    },
+    "movies/movies-brevidy-premiere": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brevidy is an AI toolkit that runs inside Adobe Premiere Pro. Animated captions, automatic clip extraction from long-form video, speaker-tracking vertical reframing, and a stock media browser all live in one panel. It's an official Adobe video partner product, aimed at editors handling social deliverables."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-C-1300x750.jpg",
+          "cap": "The Brevidy panel attached inside Premiere Pro"
+        },
+        {
+          "t": "p",
+          "x": "Anyone who's cut social deliverables in Premiere knows where things get stuck. Captions are tedious, and reworking a 16:9 timeline into 9:16 can burn hours on keyframes. Picking usable moments out of a 60-minute podcast is just labor. Most AI tools demand a round trip of exporting, uploading, and reimporting to handle it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Captions-Brevidy-D-900x506.jpg",
+          "cap": "Transcribes the sequence and builds an editable caption layer"
+        },
+        {
+          "t": "p",
+          "x": "The captions module transcribes the sequence and applies one of more than 700 animated presets. The company states 95% accuracy, with support for more than 99 languages. The transcript lets you break lines or train it on custom terminology right on the spot. You can also pull out just a new caption layer without overwriting existing work."
+        },
+        {
+          "t": "p",
+          "x": "AutoCut targets podcasts and interviews. It scans source footage longer than 20 minutes to find usable moments to cut, and the result comes out as a sequence you can keep editing directly in Premiere, not a locked export."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Autocrop-Brevidy-D-900x506.jpg",
+          "cap": "AutoCrop reframes the sequence into a vertical format"
+        },
+        {
+          "t": "p",
+          "x": "AutoCrop tracks the speaker and shifts them into the center of a 1080×1920 frame. There are three motion modes, Tracked, Dynamic, and Static, and since it uses standard keyframes, fine-tuning by hand afterward isn't a problem."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Media-Brevidy-B-900x506.jpg",
+          "cap": "Pulls in stock material directly from within the panel"
+        },
+        {
+          "t": "p",
+          "x": "The stock browser searches Pexels, Unsplash, Pixabay, and Giphy together. It reads the transcript, recommends matching material, and applies motion presets to imported clips too."
+        },
+        {
+          "t": "p",
+          "x": "Pricing works like this. New users get one 10-minute caption sequence and a 7-day trial with no card required. The Captioner plan runs $14.99 a month billed annually, or $17.99 billed monthly. Moving up to the team plan lets editors share presets with each other."
+        }
+      ]
+    },
+    "movies/movies-catmull-genai-jury": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ed Catmull, who co-founded Pixar and later served as president of both Pixar and Walt Disney Animation Studios, has joined the jury of the Higgsfield Global Film Festival, a new competition exclusively for generative AI films."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ed-Catmull.jpg",
+          "cap": "Ed Catmull taking a seat on the jury of the generative AI film festival"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield AI is running the competition to promote its own generative AI filmmaking platform. Entry requires being a Higgsfield subscriber, and submissions must be made inside the company's Cinema Studio."
+        },
+        {
+          "t": "p",
+          "x": "Alex Mashrabov, Higgsfield's co-founder and CEO, announced Catmull's involvement on LinkedIn, naming Pixar as an early inspiration for the company. He wrote that he “admired how Pixar brought artists and engineers together to make what neither could have built alone.” He explained that this philosophy shaped how the company builds its own platform, and said Catmull will help identify what he called the “first generation of AI filmmakers.”"
+        },
+        {
+          "t": "p",
+          "x": "In its promotion, Higgsfield leads with Catmull's animation résumé: five-time Oscar winner, executive producer on Toy Story, Turing Award recipient, former Disney Animation president. On X, it introduces him as “the man who invented 3D graphics.”"
+        },
+        {
+          "t": "p",
+          "x": "Catmull, who retired from Disney in 2018, is a particularly valuable addition for Higgsfield. The company is pushing generative AI as the next technological shift in filmmaking, and bringing in a figure who led the golden age of cinematic technology innovation lets it draw a direct line between Pixar's CG revolution and its own platform."
+        },
+        {
+          "t": "p",
+          "x": "Whether that line holds up outside the company is a separate question. It's also not yet clear whether the two technological shifts will leave similarly good results for the artists who make films."
+        }
+      ]
+    },
+    "movies/movies-disney-tiktok-shorts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Disney is opening its vaults to online creators again. This time the partner is TikTok, and the deal is about sharing short-form videos together."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hoppers.jpg",
+          "cap": "What Disney is opening its assets to is short videos made by fans"
+        },
+        {
+          "t": "p",
+          "x": "Participating TikTok creators pull material from hundreds of films and series under Disney-owned brands, including Pixar, Marvel, Star Wars, and FX. A selection of the resulting videos gets featured together across TikTok and Verts, Disney+'s vertical video feed."
+        },
+        {
+          "t": "p",
+          "x": "The setup echoes Disney's collaboration with OpenAI, which was shelved. That deal, announced last December, had Sora users making short videos featuring more than 200 Disney characters, with some of them going up on Disney+."
+        },
+        {
+          "t": "p",
+          "x": "Disney had also planned to put $1 billion into OpenAI. The deal collapsed before it was finalized after OpenAI abruptly pulled Sora from its consumer app and API in March, and no money changed hands."
+        },
+        {
+          "t": "p",
+          "x": "The TikTok collaboration hands the same goal to human hands. When fans make short videos with Disney material, some of them make their way back to Disney+. Under Sora, new footage would have been pulled from text prompts, but the center of this deal is remixing Disney assets that already exist."
+        },
+        {
+          "t": "p",
+          "x": "It starts as a pilot in the US within a few months, with other markets to follow. Creators have to opt in themselves for a video to move over to Disney+. Financial terms weren't disclosed."
+        },
+        {
+          "t": "p",
+          "x": "The two companies are also running a Creator Ambassador Program together. It boosts exposure for participants and gives rewards like invitations to private events and career development opportunities."
+        },
+        {
+          "t": "p",
+          "x": "This deal makes Disney+ the first outside platform to carry TikTok videos. It also widens Disney's push to place fan-made vertical videos alongside its own films and series."
+        }
+      ]
+    },
+    "movies/movies-autodesk-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk has released 3D Editor + Canvas, a major expansion of Flow Studio aimed at the control problem in generative AI video. Instead of directing characters, animation, camera movement, and composition through prompts or reference images on a 2D screen, creators now work directly in 3D, while AI handles the final render."
+        },
+        {
+          "t": "video",
+          "yt": "ca76F7Jo84k"
+        },
+        {
+          "t": "p",
+          "x": "In 3D Editor + Canvas, characters, assets, and scenes built in Flow Studio get combined with worlds and environments generated by tools like World Labs Marble. According to the company, this lets a finished cinematic scene come together in minutes."
+        },
+        {
+          "t": "p",
+          "x": "Nikola Todorovic, co-founder of Wonder Dynamics, which Autodesk acquired, put it this way: \"We live in 3D and direct in 3D. Yet most generative AI video tools still ask you to play and edit in a 2D world. Calling up a flat image with a prompt, or drawing to direct a performance and design a camera move, is inherently limited. In the 3D Editor, you block scenes, direct performances, and control timing, pacing, and camera movement in 3D. Then, in Canvas, you generate, refine, and build the final 2D look.\""
+        },
+        {
+          "t": "p",
+          "x": "This announcement targets a familiar gap. Generative tools have sped up pulling out characters, environments, and individual visual assets. But stitching those pieces into a single directed shot still requires precise handling of performance and camera."
+        },
+        {
+          "t": "p",
+          "x": "3D Editor brings characters, environments, animation, camera tracks, and AI motion-capture data together in one workspace and lets you adjust composition, camera movement, and scene setup. Canvas is the node-based 2D workflow running alongside it, where you explore, iterate, and generate results with image and video models. Stay in 2D when speed matters, and only step into 3D for shots that need precise direction."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/autodesk_flow_studio-final-for_stills.00_00_36_19.still011-1280.jpg?itok=Z8UI4Gq6",
+          "cap": "'3D Editor + Canvas.' Image courtesy of Autodesk"
+        },
+        {
+          "t": "p",
+          "x": "The program continues the line that has extended Maya, 3ds Max, and Arnold into AI storytelling. This release also lays the groundwork for expanded DCC integration including Maya, added asset import options, AI-assisted scene composition, and workflows where agents help with direction."
+        },
+        {
+          "t": "p",
+          "x": "Flow Studio's former name was Wonder Studio. Autodesk acquired Wonder Dynamics in 2024."
+        }
+      ]
+    },
+    "movies/movies-eli-roth-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eli Roth has admitted that his new horror film 'Ice Cream Man' used generative AI, including in animated scenes he had described as made through a traditional, hand-drawn pipeline."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Ice-Cream-Man.jpg",
+          "cap": "'Ice Cream Man'"
+        },
+        {
+          "t": "p",
+          "x": "The film has not yet opened widely, but preview audiences flagged parts that looked AI-made: a Fleischer-style cartoon the characters watch, and an illustrated flashback explaining the villain's origin. Dark Half, a company specializing in AI visual effects, is listed in the credits."
+        },
+        {
+          "t": "p",
+          "x": "In an interview published by Polygon this past Monday, Roth described a hand-drawn process and emphasized his own role in making the animation."
+        },
+        {
+          "t": "p",
+          "x": "“I'm someone who has done animation, and I drew it.” Roth added that he worked with a team of animators. “I drew the loop cycles and the style. Then a few animators helped smooth it out, and together with an artist we added that old-fashioned, jittery feel. But I sat down and drew the frames I wanted, trying to match the style of 1920s Mickey Mouse cartoons with ghosts in them.”"
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, Polygon updated the article with a new statement from Roth, confirming that the film did use generative AI."
+        },
+        {
+          "t": "p",
+          "x": "“I misspoke.” He then offered an account that completely contradicted his earlier explanation. “AI was used in a very small part of a few scenes in the film. It was an opportunity where technology and creativity came together to help realize the vision I drew for the film.”"
+        },
+        {
+          "t": "p",
+          "x": "Roth did not specify which scenes used the technology, how much AI-made material ended up in the finished film, or how it was combined with the human artists' work. Polygon said it had asked Roth and Dark Half for further comment but had not received a response."
+        }
+      ]
+    },
+    "movies/movies-minimax-bootleg": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you want to see Kim Jong Un storming into Dunder Mifflin or Darth Vader slicing off Ross Geller's head, head to X (formerly Twitter). It's full of AI fans feeding beloved characters into the grinder and declaring that Hollywood is \"over.\""
+        },
+        {
+          "t": "p",
+          "x": "It's a cycle that repeats with every new model. This week was supposed to belong to Seedance 2.5, the video generator from ByteDance that the AI community has been eagerly awaiting since Seedance 2.0 both wowed creators and alarmed IP holders."
+        },
+        {
+          "t": "p",
+          "x": "But Seedance 2.5 wasn't the star. What impressed the AI crowd instead was Hailuo 3, from China's other contender, MiniMax. MiniMax H3 isn't directly available to users in the US and EU, but it has spread outside China through third-party routes."
+        },
+        {
+          "t": "p",
+          "x": "Justin Moore, a partner at tech investment firm Andreessen Horowitz, used a simple H3 text prompt on Krea, an online studio that gathers several generative AI models in one place, to create a clip of Dwight and Jim from 'The Office.' That prompt also passed through MiniMax's servers, meaning the copyright safeguards didn't hold."
+        },
+        {
+          "t": "p",
+          "x": "The timing is awkward. MiniMax is defending itself against a lawsuit filed by Disney, Universal and Warner Bros. The studios allege that Hailuo \"pirates and plunders copyrighted works\" on a massive scale. The complaint even states that MiniMax promoted the model on its official YouTube account with AI videos of Deadpool, Wolverine and the Joker. MiniMax has denied the allegations, but the hero videos in question were quietly removed from YouTube."
+        },
+        {
+          "t": "p",
+          "x": "MiniMax did not respond to a request for comment. When it launched H3, a company representative said \"legal proceedings related to copyright around generative video AI are ongoing\" and that it would not open the full model to the US."
+        },
+        {
+          "t": "p",
+          "x": "That Seedance 2.5 wasn't put to similar use mining Hollywood's gold suggests ByteDance raised its guardrails after the chaos of Seedance 2.0. That earlier model spread widely through deepfakes of Tom Cruise and Brad Pitt fighting, prompting cease-and-desist letters from Netflix, Disney and others. ByteDance, which also owns TikTok, promised improvements."
+        },
+        {
+          "t": "p",
+          "x": "That's not to say ByteDance's models are clean. VN.ai, a startup that stress-tests generative AI for copyright infringement, used ByteDance's image generator Seedream 5.0 this week to produce unauthorized images of Elsa, Shrek and Buzz Lightyear, according to a report reviewed by Rendering."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai used a third-party API, which may have had looser safeguards than ByteDance's own service. Prompts naming famous characters were mostly rejected, but twisting the request — for instance, by demanding exact pixel dimensions — got Seedream 5.0 to produce a recognizable Buzz Lightyear. The industry calls this \"red teaming.\""
+        },
+        {
+          "t": "p",
+          "x": "Leaky models aren't unique to ByteDance. Still, the company tends not to brush off such concerns. It told Rendering that \"ByteDance ships its models with safeguards designed to prevent unauthorized use of intellectual property, and it continues to work with rights holders and the creative community to expand and strengthen them.\""
+        },
+        {
+          "t": "p",
+          "x": "We also asked the US studios and the Motion Picture Association (MPA) for comment. Their stance is already clear from the legal letters and the lawsuit. MiniMax H3 and Seedream 5.0 are just the latest reminder that this crackdown is an endless, global game of whack-a-mole."
+        }
+      ]
+    },
+    "movies/movies-runway-seedance": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8P6G4yyzOpA"
+        },
+        {
+          "t": "p",
+          "x": "This is the 1-minute-23-second introduction video Runway posted on its own YouTube channel. As the title says, ByteDance's Seedance 2.5 now runs inside Runway."
+        },
+        {
+          "t": "p",
+          "x": "According to the video's description, a single generation can take up to 50 references and build out an entire world full of characters. Clips run up to 30 seconds, complete with sound and dialogue."
+        },
+        {
+          "t": "p",
+          "x": "There's no need to leave the generated clips as they are. Runway's guidance is to edit and splice them together however the story requires. The starting point is app.runwayml.com."
+        }
+      ]
+    },
+    "movies/movies-siggraph-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Every year we resolve not to open our SIGGRAPH wrap-up with a comment about the size of the show floor, and this year was no exception. SIGGRAPH 2026 drew more than 9,500 people from 69 countries to the LA Convention Center. But walk the floor and a large share of the usual halls sits empty. There was more bare carpet than there were booths, and there was noticeably less carpet, too."
+        },
+        {
+          "t": "p",
+          "x": "The explanation exhibitors and reporters gave most often was simple. Traditional booths no longer pay for themselves. Rather than pay for floor space that gets a photo and then gets walked past, companies would rather throw a party at a nearby hotel or run a private demo suite."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Autodesk-John-Fujii-c-2026-ACM-SIGGRAPH.jpg",
+          "cap": "ph: John Fujii ©2026 ACM SIGGRAPH"
+        },
+        {
+          "t": "p",
+          "x": "What hasn't shrunk is the ambition of the program. Monday's opening keynote went to Lanny Smoot, a Disney Research Fellow and Imagineering inventor. He holds more than 100 patents, including the Holotile floor and the extending lightsaber, and is the second Disney employee inducted into the National Inventors Hall of Fame after Walt Disney himself. His talk spanned 45 years from Bell Labs to theme parks, and its message was this: invention is a team sport, and the practitioners who last stay curious about other people's work."
+        },
+        {
+          "t": "p",
+          "x": "AI didn't dominate the week so much as soak into it. Rather than a single AI keynote, three sponsored sessions shared that role. Nvidia's Neil Ashton, Mingyu Liu and Edward Liu covered neural rendering, world models and AI simulation, topped off by a Physical AI Day with 21 papers linking 3D worlds to robot control. A DLSS 5 technical session generated the kind of hallway chatter usually reserved for a launch announcement."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-Wacom-x-TourBox.jpg",
+          "cap": "A SIGGRAPH 2026 booth put together by Wacom and TourBox"
+        },
+        {
+          "t": "p",
+          "x": "Bolt Graphics' Darwesh Singh argued for a GPU architecture built specifically for real-time path tracing, while Tripo AI's research team outlined a shift from generating static assets to building interactive worlds. Neither claimed to replace artists. But all of it stood on the premise that AI is already infrastructure."
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/SIGGRAPH-Unitree-G1.jpg",
+          "cap": "A Unitree G1 danced at the LA Convention Center during SIGGRAPH 2026"
+        },
+        {
+          "t": "p",
+          "x": "Robots weren't a side note this year. Simulation and motion-control research ran through the technical program, and Robo Dojo, where attendees guided robots through a training course themselves, was one of the most crowded spots. The new Game Summit pulled its own weight, with sessions on destruction systems, performance-capture pipelines, motion-sickness accessibility and studio-by-studio OpenUSD adoption."
+        },
+        {
+          "t": "p",
+          "x": "The Computer Animation Festival widened its own rules. The Electronic Theater dropped its runtime cap, so films running longer than 10 minutes could now compete for Best in Show, a slot that carries Oscar-qualifying status. That award went to Apart, made by Paula Manelli of Social Popcorn Films. The Jury Award went to 18 Months, Best Student Project went to Beyond Words, and the Audience Award went to Saba."
+        },
+        {
+          "t": "p",
+          "x": "Production sessions carried their own weight. Weta FX and Lightstorm broke down 'Avatar: Fire and Ash,' and ILM did the same for 'The Mandalorian and Grogu.' Senior VFX supervisor John Knoll revisited how his team built a motion-control system to shoot the Razor Crest miniature. Disney and Pixar unveiled 'Hoppers,' and NASA presented lunar visualizations for Artemis II."
+        },
+        {
+          "t": "p",
+          "x": "A smaller floor plan didn't make the conference any less weighty. The center of gravity moved from booths to sessions, from things you watch to things you sit down and learn. SIGGRAPH 2027 will run in Anaheim from August 8 to 12, with Christy Fron taking over as the new chair."
+        }
+      ]
     }
   }
 }

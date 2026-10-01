@@ -2829,6 +2829,777 @@
           "x": "Es un caso de otro calibre, que muestra cómo los problemas de procedencia y divulgación de la IA pueden sacudir contratos reales y el proceso de edición."
         }
       ]
+    },
+    "books/daggermouth-60-percent-ai-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA ya está presente en todas partes. Sin embargo, los lectores no la detectan tan bien como creen."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Stony Brook usaron la herramienta de detección de IA Pangram para examinar 14.000 libros electrónicos de Kindle elegidos al azar. Uno de cada cinco contenía más de un 25% de texto generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "Lo que más llamó la atención fue Daggermouth, una oscura novela romántica distópica de H.M. Wolfe muy querida en BookTok. Según la determinación de Pangram, el 60% de la novela fue escrito por IA."
+        },
+        {
+          "t": "p",
+          "x": "La propia detección de IA es tan polémica como la IA misma, así que los investigadores también volvieron a verificar los libros sospechosos con un criterio de “frase rara”."
+        },
+        {
+          "t": "p",
+          "x": "Una frase rara es una secuencia de cinco o más palabras en un orden específico que casi nunca aparece en textos escritos por humanos, pero que sí aparece a menudo en obras sospechosas de usar IA. Daggermouth tenía muchas de estas frases, y también había varios pasajes que coincidían palabra por palabra con libros electrónicos autopublicados de otros autores."
+        },
+        {
+          "t": "p",
+          "x": "En una declaración enviada a The Atlantic a través de un abogado, la autora de Daggermouth, H.M. Wolfe, negó las acusaciones y dijo que había “alzado la voz contra la IA generativa”. Sin embargo, no respondió a la cuestión de las frases raras."
+        },
+        {
+          "t": "p",
+          "x": "Por sólidas que parezcan las pruebas, aún no existe una forma de determinar con certeza que un texto fue creado por IA. Aun así, un experto en IA no involucrado en la investigación consideró válidos los métodos, y dijo que sería “estadísticamente casi imposible” que un libro escrito por un humano se clasificara como 60% IA."
+        },
+        {
+          "t": "p",
+          "x": "Según la investigación, el 20% de los libros electrónicos de Amazon confirmados como portadores de una cantidad “sustancial” de texto generado o asistido por IA representó el 12% de las ventas y el 10% de los superventas."
+        }
+      ]
+    },
+    "books/audiobook-ai-multicast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En una prueba ciega, los oyentes de audiolibros calificaron la narración multicast con IA un poco más alto que la narración humana en solitario. El resultado surgió de escenas centradas en personajes. La prueba la realizó Edison Research, reconocida en la investigación del mercado del audio, y fue encargada por Spoken, una productora de audiolibros con IA."
+        },
+        {
+          "t": "p",
+          "x": "El resultado resulta interesante frente a encuestas de consumidores recientes. Una encuesta conjunta de Edison y la Audio Publishers Association encontró que los oyentes estaban en realidad menos dispuestos a aceptar audiolibros narrados por IA en 2026 que en 2025. Sin embargo, esa encuesta no era una prueba ciega, sino que se basaba en las preferencias que los propios oyentes declararon."
+        },
+        {
+          "t": "p",
+          "x": "Los oyentes pueden tener un sesgo contra la narración por IA independientemente de la calidad, debido a la opinión pública desfavorable hacia la IA. Este estudio ocultó qué versión era de IA para intentar eliminar ese sesgo. Aun así, el resultado hay que leerlo con cautela. Los oyentes no escucharon ambas versiones y luego eligieron la de IA, así que es exagerado decir que prefieren la IA sobre los humanos. La comparación también fue entre un audiolibro de IA con voces de varios personajes y una sola narración humana. Por eso este resultado podría acercarse más a 「a los oyentes les gusta la producción con reparto completo」 que a 「la IA venció a los humanos」. De hecho, el propio estudio señaló que en los pasajes expositivos sin varios personajes la narración humana seguía siendo preferida."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, hay un detalle que destaca. Tras escuchar el multicast con IA, el 65 por ciento dijo que escucharía un audiolibro completo con el multicast de Spoken. Al comienzo de la encuesta, solo el 31 por ciento de los oyentes dijo que escucharía un audiolibro con IA."
+        },
+        {
+          "t": "p",
+          "x": "Esta encuesta tiene el claro propósito de promover la producción multicast con IA lanzada por Spoken. El autor dijo que le gustaría seguir cubriendo las métricas de desempeño de los autores que comercializan obras narradas por IA. Las obras narradas por IA siguen siendo una parte muy pequeña del mercado, apenas el 0.03 por ciento de los ingresos por ventas de audiolibros en 2025, aunque se espera que esa proporción crezca."
+        }
+      ]
+    },
+    "books/poetry-foundation-scrape": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Giggle Academy, la plataforma de 'aprendizaje gratuito' fundada por el fundador de Binance, CZ Zhao, raspó cientos de poemas con derechos de autor del archivo de Poetry Foundation."
+        },
+        {
+          "t": "p",
+          "x": "Los poemas raspados se convirtieron en materia prima casi sin pasar por manos humanas. Se usaron para generar automáticamente lecciones ilustradas y libros ilustrados. No había editor ni curador de por medio."
+        },
+        {
+          "t": "p",
+          "x": "Este caso va más allá de una simple capa de infracción de derechos de autor. Es una imagen real de cómo la IA produce en masa contenido creativo y educativo, y una escena que muestra qué queda para los poetas y las editoriales cuando los libros se hacen sin personas de por medio."
+        }
+      ]
+    },
+    "books/books-agi-chronicles-roose": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El columnista del NYT Kevin Roose se sentó con PW para hablar de su próximo libro 'The AGI Chronicles.' Preguntó por quienes corren para crear inteligencia artificial general, y qué papel debería jugar el gobierno."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle si había un centro moral en esta historia, Roose señaló al CEO de Anthropic, Dario Amodei. Lleva más de una década advirtiendo sobre los peligros de una IA potente, y al mismo tiempo está obsesionado con empujar la frontera de la IA. Su lógica: la AGI se va a construir de todos modos, así que es mejor que los buenos lleguen primero. Lucha constantemente con la contradicción de adelantar él mismo una tecnología que cree capaz de derribar el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Como la figura más distinta a su imagen pública, mencionó a Eliezer Yudkowsky. Es algo así como el padre del catastrofismo sobre la IA, y publicó hace poco un libro llamado 'If Anyone Builds It, Everyone Dies.' Se le conoce como alguien oscuro y sombrío, pero al conocerlo resultó ser extravagante y divertido. Lo único que coincidió con la fama: de verdad cree que todos vamos a morir."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el papel del gobierno, dijo que no es tarde, pero que la ventana se cierra más rápido de lo esperado. Cuanto más fuerte se vuelve la tecnología, más fuerte debe ser la supervisión. Le gustó la idea del CEO de DeepMind, Demis Hassabis, de un organismo federal de estándares como punto de partida, pero prevé que se necesitará mucha más regulación. Señaló que en EE. UU. hace falta un permiso hasta para abrir una sandwichería, mientras que los modelos de IA de frontera capaces de ejecutar ciberataques autónomos pueden crearse y lanzarse sin ninguna restricción."
+        },
+        {
+          "t": "p",
+          "x": "Preguntado por cómo difiere la carrera por la AGI del Proyecto Manhattan, respondió que la tecnología de fondo es mucho más versátil, así que puede dejar una huella mayor. La bomba atómica acabó una guerra y cambió el orden mundial, pero al final solo hizo una cosa: explotar. La IA puede convertirse en un arma, o puede acelerar la investigación científica, o darle a cada estudiante un tutor personal de primer nivel. Aún no se sabe cuál efecto será más profundo."
+        }
+      ]
+    },
+    "books/books-aala-ethics-code-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En lugar del analista editorial Carlo Carrenho, de vacaciones de verano, el editor en jefe Andrew Richard Albanese trae esta semana una versión abreviada de 'Around the Book World'. Carrenho regresa con la edición del 24 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Según Chytomo, nuevos ataques rusos golpearon la librería familiar Alpaca cerca de la estación de Pochaina en Kiev, la Biblioteca Sucursal N.º 32 de Leópolis y el centro logístico de RNK-Ranok en Járkov. El ataque con drones provocó un incendio en el centro logístico que destruyó 8 millones de libros. Allí se guardaba alrededor de un tercio del suministro anual de libros de Ucrania, incluidos 600.000 libros de texto que debían llegar a las escuelas antes del 1 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Viktor Kruglov, director ejecutivo de RNK-Ranok, dijo que era la segunda vez que atacaban el mismo lugar, lo que indica que el objetivo no fue casual. Los daños preliminares se estimaron en unos 1.000 millones de grivnas, cerca de 22,4 millones de dólares. La biblioteca de Leópolis informó que tanto los libros como el personal estaban a salvo."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2017/05/IFLA-LOGO-Colour_no-text-lined-300x300.jpg",
+          "cap": "El logotipo de la IFLA, usado junto al anuncio de la sede del Congreso Mundial de Bibliotecas e Información de 2028"
+        },
+        {
+          "t": "p",
+          "x": "La Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA) eligió Brasilia, la capital de Brasil, como sede del Congreso Mundial de Bibliotecas e Información (WLIC) de 2028. Se celebrará del 21 al 24 de agosto de 2028, la primera vez en 17 años que el evento se realiza en América Latina y el Caribe."
+        },
+        {
+          "t": "p",
+          "x": "La Autoridad del Libro de Sharjah anunció que celebrará la quinta Conferencia de Librerías los días 19 y 20 de septiembre en el Expo Centre Sharjah. Librerías, distribuidores y plataformas de comercio electrónico de 98 países se reunirán para tratar la gestión de inventario, el análisis de demanda, la reducción de devoluciones y la eficiencia de la cadena de suministro. La inscripción cierra el 18 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Dos encuestas del National Literacy Trust del Reino Unido encontraron que el 47,3% de los jóvenes de 8 a 18 años escuchó algún tipo de audio en 2026. Los pódcast fueron lo más común, con 49,1%, y en una encuesta a 3.000 padres y tutores, el 69,2% dijo que 'alguien en casa escucha audiolibros.'"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-02-at-2.18.17-PM.png",
+          "cap": "El logotipo de la Association of American Literary Agents (AALA), que revisó su código ético"
+        },
+        {
+          "t": "p",
+          "x": "La Association of American Literary Agents (AALA) publicó un código ético revisado que entrará en vigor el 1 de septiembre de 2026. Esta primera revisión desde 2022 refleja la consolidación de la industria, nuevos modelos de negocio, nuevas tecnologías y las rutas cambiantes del descubrimiento de libros. La presidenta Regina Brooks dijo que 'los autores y creadores les piden más que nunca a sus agentes.'"
+        },
+        {
+          "t": "p",
+          "x": "La analista de la industria Jane Friedman resume la idea central en su boletín 'The Bottom Line': mientras se revelen las relaciones económicas y haya acuerdo mutuo, un agente puede obtener ingresos de cualquier forma, pero no puede exigir dinero directamente a cambio de la representación. Añadió que, desde el 1 de septiembre, los autores deberán examinar a sus socios con mucho más cuidado."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-02-at-3.46.43-PM.png",
+          "cap": "La cabecera del diario japonés Mainichi, que publicó el reportaje sobre los jóvenes lectores de Corea del Sur"
+        },
+        {
+          "t": "p",
+          "x": "El diario japonés Mainichi informó que los surcoreanos de 20 y 30 años, que son quienes más usan la IA, también están liderando un resurgimiento de la lectura. En la Encuesta Nacional de Lectura de 2025, la tasa de lectura anual de adultos cayó del 72,2% en 2013 al 38,5% en 2025, pero fue del 75,3% entre quienes tienen 20 años y del 66,4% entre quienes tienen 30. Las mismas generaciones también tienen las tasas más altas de uso de IA generativa, con 75,3% y 71,1% respectivamente."
+        },
+        {
+          "t": "p",
+          "x": "Una lectora con la que se habló en la Feria Internacional del Libro de Seúl lo expresó así: 'Como la gente usa tanto la IA, ha perdido tiempo para leer y pensar, y parece que están dándose cuenta de que, para formar y expresar sus propias ideas, hay que volver a los libros.'"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2023/09/710-Hachette-design-by-Gensler-for-2015-offices-270.jpg",
+          "cap": "La sede de Hachette, usada junto al apartado sobre los resultados de Lagardère Publishing y las previsiones del pago por el acuerdo con Anthropic"
+        },
+        {
+          "t": "p",
+          "x": "Lagardère Publishing, la matriz de Hachette, calificó de 'resiliente' su primer semestre de 2026. Los ingresos en Francia cayeron un 1,6%, aunque el mercado mismo se había contraído casi un 5%; el Reino Unido bajó un 1,2%; Estados Unidos subió un 1,3% gracias al buen desempeño de novedades y audiolibros; y España y América Latina crecieron un 13%."
+        },
+        {
+          "t": "p",
+          "x": "La empresa confirmó que recibirá una suma considerable del acuerdo con Anthropic, aunque no reveló la cifra. Sí indicó que alrededor de 15.000 títulos de Lagardère están cubiertos por el acuerdo, y que, aplicando entre 3.000 y 3.100 dólares por obra, la cifra supera los 22 millones de dólares incluso después de repartir con los autores."
+        },
+        {
+          "t": "p",
+          "x": "La reseña de Emily Wilson en la London Review of Books sobre The Odyssey de Christopher Nolan merece más que resumirse como una crítica al director. Es un texto que lee juntos la traducción y el arte, la narrativa y el cine, la historia y la geopolítica."
+        }
+      ]
+    },
+    "books/books-agents-cannot-authenticate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/578/110.jpg",
+          "cap": "Imagen principal del artículo de The Bookseller sobre el contrato frustrado por sospechas de IA (© Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Una novela criminal vendida por 2,4 millones de dólares tras una subasta con 14 interesados en Estados Unidos fue retirada por su agente el viernes 31 de julio por sospechas de uso de IA. Tras la noticia, The Bookseller habló con agentes literarios, y la conversación estuvo dominada por la incertidumbre y el miedo."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes coinciden en un punto: hoy no existe una forma confiable de confirmar cómo se escribió un manuscrito. Por eso, su actitud por defecto al recibir propuestas se inclina hacia la sospecha."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo está en la sección de pago de The Bookseller, así que aquí solo se traduce lo que confirman la introducción abierta y el resumen del curador. El artículo fue reportado por Lauren Brown el 4 de agosto de 2026, y entre sus palabras clave figuran Madeleine Milburn y Madeleine Milburn Agency, y Rachel Mills y Rachel Mills Literary."
+        }
+      ]
+    },
+    "books/books-copyright-chief-legal-battle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-04-at-9.06.42-AM.png",
+          "cap": "La registradora de derechos de autor Shira Perlmutter junto al sello de la Oficina de Copyright de Estados Unidos"
+        },
+        {
+          "t": "p",
+          "x": "La batalla legal sobre el futuro de Shira Perlmutter, jefa de la Oficina de Copyright de Estados Unidos, volvió a encenderse. La semana pasada, los abogados del gobierno presentaron un escrito ante un tribunal de Washington D.C. argumentando que un fallo reciente de la Corte Suprema respalda el poder del presidente para destituirla. La parte de Perlmutter replicó que tal poder no existe, y recordó el fallo del tribunal de apelaciones del otoño pasado según el cual el poder de nombramiento corresponde al bibliotecario del Congreso."
+        },
+        {
+          "t": "p",
+          "x": "Todo comenzó en mayo del año pasado. Dos días después de que la bibliotecaria del Congreso Carla Hayden fuera destituida de forma abrupta, se supo que el presidente Trump también había destituido a Perlmutter. La industria del copyright y la propiedad intelectual quedó sorprendida e indignada. Perlmutter había sido bien valorada por avanzar de forma significativa en una modernización largamente pendiente."
+        },
+        {
+          "t": "p",
+          "x": "Lo que más llama la atención es el momento elegido. El intento de destitución llegó justo después de que la Oficina de Copyright publicara por anticipado la tercera y última parte de su amplio informe sobre IA. Ese informe, que defendía los derechos de los titulares de copyright, parece chocar con el plan de IA del presidente."
+        },
+        {
+          "t": "p",
+          "x": "Perlmutter demandó en mayo de 2025 para conservar su puesto. Tras un largo recorrido, en septiembre de 2025 el Tribunal de Apelaciones del Circuito de Washington D.C. determinó que el presidente no tiene poder para destituirla, y ordenó al gobierno no interferir en su labor. 'El poder para nombrar al registrador de derechos de autor lo otorga la ley al bibliotecario del Congreso, no al presidente', sostuvo."
+        },
+        {
+          "t": "p",
+          "x": "En junio, la Corte Suprema rechazó atender la apelación del gobierno, por lo que la medida cautelar del tribunal de apelaciones sigue vigente, y Perlmutter conserva su puesto mientras continúa el litigio."
+        },
+        {
+          "t": "p",
+          "x": "La variable es otro fallo de ese mismo junio, Trump contra Slaughter. En ese caso, sobre la destitución inmediata de la comisionada demócrata de la FTC Rebecca Slaughter, la Corte Suprema determinó que el presidente tiene amplia discreción para destituir a empleados del poder ejecutivo. En su escrito del 31 de julio, el gobierno argumentó que ese fallo se aplica igual, ya que la jefa de Copyright cumple funciones ejecutivas aunque dependa de la Biblioteca del Congreso."
+        },
+        {
+          "t": "p",
+          "x": "'La demandante Shira Perlmutter fue destituida legalmente del cargo de registradora de derechos de autor.' El escrito del gobierno sostuvo que la Constitución otorga al presidente el poder de 'destituir directamente a la registradora de derechos de autor, una funcionaria subalterna que ejerce un poder ejecutivo considerable'."
+        },
+        {
+          "t": "p",
+          "x": "El mismo día, el escrito de Perlmutter replicó que el fallo Slaughter no llega tan lejos. De ser así, la Corte Suprema no habría dejado en pie la decisión de apelación de septiembre de 2025. Afirmó que la registradora de derechos de autor es una funcionaria subalterna supervisada por el bibliotecario del Congreso, no por el presidente, y que la teoría de poder 'inusual' del gobierno ya fue rechazada dos veces en los tribunales."
+        },
+        {
+          "t": "p",
+          "x": "Quién ocupe este cargo repercute en la política de IA de Estados Unidos y, por extensión, del mundo. El informe de 23 páginas publicado el 23 de julio de 2025, 'Ganar la carrera: el plan de acción de IA de Estados Unidos', propuso que el gobierno debía contenerse de regular la IA en esta etapa. Aunque existen decenas de demandas por uso no autorizado de datos de entrenamiento, la palabra copyright no aparece ni una vez en el informe, que pone al frente solo la carrera armamentista de IA con China."
+        },
+        {
+          "t": "p",
+          "x": "La tercera parte del informe de la Oficina de Copyright tiene un tono distinto. Concluyó que usar grandes cantidades de obras protegidas para crear 'contenido expresivo' que compita con libros probablemente cruza el límite del uso justo, sobre todo si se hace mediante 'acceso ilegal'."
+        },
+        {
+          "t": "p",
+          "x": "También existe un camino para que la demanda misma pierda sentido. La Cámara de Representantes aprobó el proyecto H.R. 6028, que separaría a la Oficina de Copyright de la jurisdicción de la Biblioteca del Congreso y convertiría al registrador en un cargo de designación presidencial. Hasta el cierre de este artículo no se sabía si el Senado tratará el proyecto."
+        }
+      ]
+    },
+    "books/books-secondhand-bulk-orders-training-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Librerías de segunda mano en Aotearoa Nueva Zelanda y Australia informan que están recibiendo pedidos de Zoom Books, una empresa canadiense de reciclaje de libros. Muchos libreros sospechan que ese volumen termina en empresas vinculadas al entrenamiento de IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Zoom Books afirmó que no digitaliza ni desecha libros, sean usados o nuevos, con un fin específico. El resto de la explicación de la empresa queda detrás de un muro de pago."
+        },
+        {
+          "t": "p",
+          "x": "Hasta aquí llegan los hechos confirmados. Aun así, el solo hecho de que surjan pedidos que recorren incluso el inventario de librerías de segunda mano muestra que la cadena de distribución del libro impreso ha empezado a leerse como una vía para conseguir datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo está detrás del muro de pago de Books+Publishing, así que aquí solo se incluye lo que respaldan la introducción abierta y el resumen del curador. Noticia local del 3 de agosto de 2026."
+        }
+      ]
+    },
+    "books/books-ai-stories-rated-higher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/557/Artificial-Intelligence1.jpg",
+          "cap": "Imagen principal del artículo de The Bookseller sobre el estudio de valoración de relatos generados por IA (© Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "En un nuevo estudio de Cambridge University Press, los lectores dieron sus puntuaciones más altas a los relatos creados por IA cuando creían que los había escrito un humano. Lauren Brown, de The Bookseller, dio la noticia el 5 de agosto de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El estudio fue dirigido por investigadores de la Universidad de Villanova, en Estados Unidos, y se publicó en la revista Judgment and Decision Making. Unos 2.500 adultos de entre 18 y 81 años participaron en tres experimentos. Leyeron tres relatos cortos de autores humanos publicados en revistas literarias o antologías, junto a tres relatos equivalentes escritos por ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes valoraron más alto el lado escrito por la IA tanto en calidad como en nivel de inmersión. Incluso el mismo texto obtenía puntuaciones más altas en ambos aspectos cuando se decía que lo había escrito un humano. El porcentaje que adivinó correctamente cuál era el relato de IA osciló entre el 39% y el 52%, no mejor que el azar, y a veces peor."
+        },
+        {
+          "t": "p",
+          "x": "Lo que marcaba la diferencia en el acierto no era la formación literaria. La experiencia previa con la IA predecía la precisión; la experiencia literaria no tenía relación con ella."
+        },
+        {
+          "t": "p",
+          "x": "La doctora Dinah Weisberg lo explica así: 'El texto escrito por IA es más claro y directo, así que es más fácil de leer. Las historias escritas por humanos, en cambio, suelen ser más sutiles y complejas'. Las versiones de IA no dejan que el lector intuya el tema: lo dicen abiertamente. Para los lectores que encuentran cómodo lo predecible, esa sencillez en realidad funciona a su favor."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo de The Bookseller está detrás de un muro de pago, así que aquí solo se recoge lo que respaldan la introducción pública y los materiales de presentación del propio estudio."
+        }
+      ]
+    },
+    "books/books-anthropic-destroyed-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=1200&quality=85&auto=format&fit=max",
+          "cap": "“El riesgo de la IA generativa es que entreguemos los medios de producción de una gran vida lingüística.” Fotografía: Dado Ruvić/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "¿Es aceptable destruir todos los libros del mundo? Una pista de la respuesta está en el expediente de Bartz contra Anthropic PBC. En el fallo dictado por un tribunal federal del norte de California a finales de julio de este año, salió a la luz un nombre: el 'Proyecto Panamá', una de las líneas de trabajo de Anthropic para mejorar su modelo de lenguaje grande, Claude. El documento de prueba número 21, un memo interno, pregunta '¿qué es el Proyecto Panamá?' y responde: 'Nuestro esfuerzo por escanear destructivamente todos los libros del mundo.' El memo añade una advertencia: '¿Por qué el nombre en clave? Porque no queremos que se sepa que estamos haciendo esto.'"
+        },
+        {
+          "t": "p",
+          "x": "El escaneo destructivo fue la solución de Anthropic al problema que enfrentaba. Entrenar a Claude requería grandes volúmenes de datos lingüísticos de buena calidad, y los datos anteriores a 2022 —antes de que la IA generativa comenzara a contaminar el texto— eran aún más valiosos. Según el fallo, la empresa esperaba que los 'hechos bien organizados, el análisis bien estructurado y las narrativas de ficción que atrapan al lector' presentes en los libros ayudaran a que 'Claude escribiera con la misma precisión y poder de persuasión que un escritor profesional.'"
+        },
+        {
+          "t": "p",
+          "x": "Había otra opción: obtener licencias de los libros electrónicos ya disponibles en el mercado. En palabras del cofundador y CEO, ese camino implicaba 'complicaciones legales, prácticas y comerciales.' En lugar de sentarse con los titulares de derechos, la empresa usó primero copias pirateadas, una decisión que llevó a un acuerdo extrajudicial de 1.500 millones de dólares. Cuando incluso eso se volvió complicado, la empresa giró hacia el escaneo destructivo. El propio juez consideró que entrenar un modelo de lenguaje con obras protegidas por derechos de autor no constituía, en sí mismo, una infracción."
+        },
+        {
+          "t": "p",
+          "x": "El principio de uso justo del derecho de autor estadounidense permite usar obras protegidas de forma 'transformativa' sin el permiso del titular de los derechos. Anthropic escaneó libros impresos y los 'transformó' en formato digital, y luego desechó los originales; eso es lo 'destructivo' del escaneo destructivo. Para facilitar el escaneo, un contratista cortaba de antemano el lomo y los bordes de los libros. El juez William Alsup escribió que 'uno sustituyó al otro.'"
+        },
+        {
+          "t": "p",
+          "x": "La empresa contrató a un gestor de logística, compró libros a proveedores y los apiló en un almacén. Las fotos presentadas como prueba muestran estantes con libros etiquetados y empleados moviéndose entre ellos. Lo que esas fotos no muestran es lo que vino después: la trituración y el desecho, la transformación de 'todos los libros del mundo' en material reciclado o relleno de vertedero."
+        },
+        {
+          "t": "p",
+          "x": "Un libro era a la vez un vehículo de texto y un objeto cultural. Sin embargo, a diferencia de otros países, Estados Unidos apenas tiene disposiciones legales que regulen o controlen la salida de su propio patrimonio cultural, y prácticamente no existen normas sobre cómo deben tratarse los libros."
+        },
+        {
+          "t": "p",
+          "x": "El escaneo destructivo es un mecanismo para despojar al texto impreso de la presencia de su autor y usar solo su contenido para mejorar el rendimiento de un modelo de lenguaje. Es legal, y está menos regulado que la minería a cielo abierto. El material impreso no tiene una lista de especies en peligro, y casi no hay normas sobre qué cuenta como la supervivencia de un ejemplar raro o único. Quizá la 'autoría puramente humana' debería convertirse en una nueva categoría digna de preservación."
+        },
+        {
+          "t": "p",
+          "x": "El caso es también una declaración sobre la importancia de los textos largos, los libros y los lectores. El juez Alsup escribió: 'Durante cientos de años hemos leído y releído libros. Hemos admirado, memorizado e internalizado sus grandes temas, sus argumentos sustantivos y sus soluciones estilísticas a problemas de escritura que se repiten.'"
+        },
+        {
+          "t": "p",
+          "x": "Lo más revelador está en otra parte: lo mucho que Anthropic valoraba un texto complejo, extenso y no contaminado. Deberíamos preguntarnos por qué ese texto vale tanto dinero. El riesgo de la IA generativa es que pasemos de ser creadores a ser consumidores, y entreguemos el potencial generativo de nuestro propio trabajo a los modelos de lenguaje y a quienes los poseen."
+        },
+        {
+          "t": "p",
+          "x": "La autora, Kathryn James, es bibliotecaria de libros raros en la Biblioteca de Derecho Lillian Goldman de Yale. The Guardian, Opinión, 5 de agosto de 2026."
+        }
+      ]
+    },
+    "books/books-chatgpt-blocks-author-styles": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI ha empezado a bloquear en ChatGPT las solicitudes para imitar el estilo de un autor concreto. Jane Friedman señaló el cambio en un artículo del 5 de agosto de 2026, y escribió que, aunque el estilo no es un objeto de protección explícita en la ley de derechos de autor, bloquear este tipo de solicitudes puede ser prudente para no echar más leña a los litigios en curso."
+        },
+        {
+          "t": "p",
+          "x": "Así es la respuesta en la práctica. Cuando Engadget lo probó el 28 de julio con Agatha Christie, ChatGPT respondió que 'no puede ofrecer un texto que imite de cerca el estilo característico de Christie'. En su lugar, sugirió que podía 'escribir de forma original todo lo que quieras con esas características'."
+        },
+        {
+          "t": "p",
+          "x": "El alcance todavía no es uniforme. Un análisis de No Latency publicado a principios de este mes concluyó que solo se bloqueaban las solicitudes sobre autores vivos, mientras que los ya fallecidos pasaban sin problema. Pruebas posteriores encontraron la misma respuesta evasiva tanto para autores vivos como J.K. Rowling y Amy Tan como para Charles Dickens y Ernest Hemingway."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esto hay litigios. OpenAI enfrenta varias demandas de autores que alegan que sus modelos infringieron sus obras a gran escala, y la Encyclopaedia Britannica también figura entre los demandantes. Justo después de que Anthropic cerrara su propia disputa de derechos de autor con un acuerdo de 1.500 millones de dólares, las solicitudes de imitación de estilo quedaron en un lugar más sensible."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo de Jane Friedman está detrás de un muro de pago. Aquí solo se recoge lo que respaldan el título y el subtítulo publicados, además de lo confirmado por la cobertura de otros medios."
+        }
+      ]
+    },
+    "books/books-daggermouth-publisher-backing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/637/H-M-Wolfe1.jpg",
+          "cap": "HM Wolfe, autora de 'Daggermouth', que negó las acusaciones de autoría por IA"
+        },
+        {
+          "t": "p",
+          "x": "Tor Bramble se puso del lado de la autora HM Wolfe. La medida llega después de que The Atlantic informara que la herramienta de detección de IA Pangram analizó la novela romántica distópica de Wolfe, 'Daggermouth', y le dio una puntuación del 60%. Melina Sparnoudi, de The Bookseller, dio la noticia el 31 de julio de 2026."
+        },
+        {
+          "t": "p",
+          "x": "La cifra proviene de un equipo de investigación dirigido por Tuhin Chakrabarty en la Universidad de Stony Brook. Al pasar unos 14.000 libros electrónicos de Kindle por Pangram, encontraron que uno de cada cinco contenía más del 25% de texto generado por IA. Los investigadores reforzaron su argumento con 'frases raras': expresiones de cinco palabras que aparecen a menudo en texto de IA pero rara vez en la escritura humana. Daggermouth contenía varias de esas frases, y algunas oraciones coincidían palabra por palabra con otros libros electrónicos autopublicados."
+        },
+        {
+          "t": "p",
+          "x": "Wolfe lo negó a través de su abogado: 'La afirmación de que usé IA generativa para escribir Daggermouth es completamente falsa.' También declaró su oposición al uso de IA generativa en la creación literaria, pero no refutó directamente la evidencia lingüística señalada en su contra."
+        },
+        {
+          "t": "p",
+          "x": "Un profesor de ciencias de la computación de la Universidad de Maryland que no participó en la investigación revisó la metodología a petición de The Atlantic y la consideró válida, y añadió que un libro escrito enteramente por un humano obtuviera un 60% en Pangram era 'estadísticamente casi imposible'. Del otro lado, se señaló que los problemas de falsos positivos de Pangram ya están bien documentados, y en BookTok siguieron las voces en defensa de Wolfe."
+        },
+        {
+          "t": "p",
+          "x": "Lo que está en juego aquí no es solo la autenticidad de un libro. En medio de una tendencia en la que los contratos se rompían por una sola puntuación de detección, este es un caso en el que una editorial no se limitó a seguir esa puntuación sin más. El artículo completo de The Bookseller está detrás de un muro de pago, así que aquí solo se recoge lo que respaldan la introducción pública y la cobertura de otros medios."
+        }
+      ]
+    },
+    "books/books-published-voice-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1964440549-1024x601.jpg",
+          "cap": "Imagen principal del artículo de The Scholarly Kitchen sobre la 'voz publicada'"
+        },
+        {
+          "t": "p",
+          "x": "Hace poco moderé un panel en el simposio de verano de EASE (Asociación Europea de Editores Científicos), organizado por el grupo de interés especial de editores de manuscritos. El título era 'Más allá del seguimiento de cambios: midiendo el impacto de la edición humana de manuscritos en un panorama editorial impulsado por la IA'. Lo que más me interesó fue la parte sobre la voz del autor y cómo la afecta la IA."
+        },
+        {
+          "t": "p",
+          "x": "Los editores de Editage llevan más de 24 años recibiendo solicitudes de autores para que el texto 'suene más a hablante nativo' antes de volver a enviarlo. Es una petición habitual, que suele leerse como un pedido de pulir mejor el inglés. ¿Pero es solo eso? Cuando leemos un manuscrito, inferimos al autor a partir de la 'voz' que encontramos en él. El estilo de escritura, la confianza que lleva la voz del autor, el contexto cultural, cuán familiarizado está con las convenciones del campo, y si conoce lo básico de redactar y enviar un manuscrito: todo esto se convierte en señales."
+        },
+        {
+          "t": "p",
+          "x": "Las mismas señales también pueden generar sesgo. Con el mismo rigor científico, un artículo bien escrito gana terreno en la primera impresión. El estilo también puede revelar la etapa de carrera del autor, su origen regional o su formación educativa, ninguno de los cuales mide la calidad científica."
+        },
+        {
+          "t": "p",
+          "x": "Con la llegada de la IA, también se difumina la línea entre 'escritura de hablante nativo' y 'escritura de no nativo'. Entonces, ¿qué pasa con la 'voz del autor', algo que siempre ha importado tanto a autores como a revisores? Si la IA ayuda a los investigadores a escribir, ¿a qué apunta ahora la expresión 'voz del autor'?"
+        },
+        {
+          "t": "p",
+          "x": "En la escritura creativa el significado es claro: es el estilo propio y distintivo del autor. La escritura académica es distinta. Las convenciones están muy estandarizadas, y el autor debe seguir las pautas de la revista y usar terminología precisa. Entonces, ¿la voz del autor es una cuestión de elección de palabras? ¿De cómo se estructura un argumento? Podría ser la forma de plantear la pregunta de investigación, o el ritmo del artículo. Antes de preguntar si la IA amenaza la voz del autor, primero hay que preguntar: ¿qué es exactamente 'la voz del autor' en la escritura académica?"
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más lo pensaba, más se me escapaba el concepto de las manos. ¿Alguna vez tuvo el mundo académico una definición única de la voz del autor? Pensemos en un trabajo coescrito. Cada autor tiene un estilo, una perspectiva y una forma de pensar distintos. ¿La voz es la del primer autor, que entrelaza esas perspectivas en una sola? ¿O se convierte en algo nuevo, como una 'voz de equipo'? Cuando escribo sola, la voz claramente se siente mía, pero es distinto cuando edito el texto de otra persona o contribuyo a un trabajo conjunto. Cuando escribo con el propósito de construir sobre las ideas de otro, escribo de manera bastante distinta."
+        },
+        {
+          "t": "p",
+          "x": "Un artículo de autoría única no es diferente. Los asesores y mentores remodelan el contorno de un argumento, y las sugerencias de los revisores a veces sacuden la estructura desde sus cimientos. Para cuando el artículo está listo para publicarse, queda poco que se parezca al primer borrador. Si la voz se ve moldeada durante todo el proceso de escritura y envío, entonces la voz del artículo pasa de ser la 'voz del autor' a algo más amplio: una 'voz publicada', forjada conjuntamente por el autor, los revisores, los mentores y las convenciones del campo."
+        },
+        {
+          "t": "p",
+          "x": "Vista así, la IA se convierte en otro participante más de la voz publicada. ¿Eliminará las barreras que enfrentan quienes tienen experiencia en ciencia y no en inglés, nivelando el terreno de juego para la investigación? ¿O los artículos bien escritos empezarán a confundirse con artículos escritos por IA? ¿Podría estar arraigándose en silencio una nueva forma de sesgo?"
+        },
+        {
+          "t": "p",
+          "x": "La pregunta sobre la voz del autor no es nueva. Pero ahora que la IA está presente, ya no se puede postergar. La IA no tanto cambió la voz del autor como reveló cuánto la desconocíamos. Rohi Ghosh escribió esto para The Scholarly Kitchen el 5 de agosto de 2026."
+        }
+      ]
+    },
+    "books/books-amazon-ai-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esto continúa la primera noticia de la semana. Había prometido tomarme el sábado libre de temas de IA (asumiendo que no surgiera ninguna noticia urgente), pero el estudio de Tuhin Chakrabarti sobre el uso de IA en la ficción autopublicada tiene un impacto tan amplio y profundo que decidí hacer una excepción. Un buen artículo del New York Times, que abordó esta historia desde otro ángulo, es otra razón. Gracias a Jane Friedman por abrir en su newsletter el enlace que estaba detrás del muro de pago."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-6.jpg",
+          "cap": "Un resumen de noticias de ALLi sobre el uso de IA en libros autopublicados de Amazon"
+        },
+        {
+          "t": "p",
+          "x": "El artículo examina a fondo el estudio de Chakrabarti, titulado “Generative AI Floods and Dilutes the Market for Books”. El título deja claro que el objetivo no es señalar y avergonzar a autores independientes que usan IA, sino describir un panorama en el que, a medida que aumenta el uso de IA, quienes no la usan llegan a los lectores con menos eficacia que antes. El artículo del New York Times desarrolla este contexto a través del caso de la autora independiente Jess Michaels. Michaels dice que sus ventas cayeron en picado después de que ChatGPT se volviera más sofisticado."
+        },
+        {
+          "t": "p",
+          "x": "El resumen del estudio expone su intención sin rodeos: poner a prueba la premisa de que los libros hechos con IA son “slop de baja calidad que los lectores no se tomarán la molestia de mirar” y que apenas tienen peso comercial."
+        },
+        {
+          "t": "p",
+          "x": "El diseño fue el siguiente: se pasaron por un software de detección de IA 14.419 libros autopublicados publicados entre 2023 y 2026. Ni un solo libro declaraba el uso de IA. También se hizo seguimiento de las ventas."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados clave son, cada uno a su manera, interesantes e importantes. Es motivo de preocupación, sí, pero todavía no algo que pueda llamarse una crisis existencial."
+        },
+        {
+          "t": "p",
+          "x": "Empezando por las cifras, esto confirma lo que ya sugería la cifra de 4 millones de títulos que dominó los titulares a comienzos de este año. El número de títulos publicados creció casi un 20%, mientras que las ventas no llegaron a crecer ni un 10%. El pastel se mantuvo del mismo tamaño; solo se repartió en porciones más pequeñas."
+        },
+        {
+          "t": "p",
+          "x": "A continuación, el software de detección encontró que los indicios de uso de IA están bastante extendidos: superan la cuarta parte del total. Es una escala suficiente para explicar el aumento que preocupaba a la gente."
+        },
+        {
+          "t": "p",
+          "x": "Y aquí viene la parte importante. Los libros con rastros de IA vendieron menos que los demás, pero aun así lo bastante como para plantear una cuestión comercial. Una posible razón de las menores ventas es la lealtad de los lectores hacia autores ya consagrados. Es un dato reconfortante, pero la historia de Michaels muestra que no es una salvación. Con el tiempo, si los lectores salen a buscar nuevos 'autores', ese efecto también podría desvanecerse."
+        },
+        {
+          "t": "p",
+          "x": "Recomiendo leer el estudio completo por cuenta propia."
+        }
+      ]
+    },
+    "books/books-authors-of-colour-ai-suspicion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tras una serie reciente de escritores acusados de usar IA generativa, se extendió un debate en línea y en la industria sobre si los autores de color son blanco desproporcionado de este tipo de sospechas. El artículo fue escrito por Lauren Brown el 7 de agosto de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd4.jpg",
+          "cap": "Jamir Nazir y Mia Ballad"
+        },
+        {
+          "t": "p",
+          "x": "Agentes y editoriales dicen que una sospecha imposible de verificar ya se ha convertido en un riesgo real de reputación. Sin embargo, no existe en ninguna parte un proceso confiable para aclararla."
+        },
+        {
+          "t": "p",
+          "x": "Con resultados de detección poco concluyentes mientras la sospecha circula públicamente, quién se convierte en blanco determina quién termina pagando el costo. Por eso la conversación del sector se ha desplazado hacia aquí."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original está detrás de un muro de pago. Este resumen se basa en la introducción publicada y el extracto del artículo."
+        }
+      ]
+    },
+    "books/books-harpercollins-ai-audiobooks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En su informe de resultados de 2026, HarperCollins dijo que lo digital fue su único punto positivo. Eso incluye los audiolibros digitales. Los ingresos digitales anuales crecieron un 4%, hasta representar el 23% de los ingresos de consumo, un poco por debajo del 24% de un año antes. Aun así, los ingresos digitales subieron un 12% en los últimos tres meses de 2026, impulsados por un alza del 16% en audiolibros. La narración con IA también empieza a mostrar resultados."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/07062449/harpercollins-publishers-offices-toronto-4-1200x800-1.jpg",
+          "cap": "Oficinas de HarperCollins en Toronto. A través de las puertas de cristal se ve el cartel de Harlequin Canada."
+        },
+        {
+          "t": "p",
+          "x": "\"La IA desempeñará claramente un papel al dar vida a los libros con voces vívidas, creando experiencias de audio inmersivas que elevan aún más el valor de la propiedad intelectual.\" Son palabras de Robert Thomson, director ejecutivo de News Corp, en una llamada con analistas. \"Si lo piensas, la IA podría transformar por completo los audiolibros, porque habrá muchas más variedades de voces, efectos de sonido, y de técnicas y herramientas para dar vida a las palabras.\" También destacó que, gracias a la IA, traducir tanto el texto como el audio a varios idiomas resulta mucho más barato."
+        },
+        {
+          "t": "p",
+          "x": "Brian Murray, director ejecutivo de HarperCollins, retomó el punto de Thomson y subrayó el trabajo de aplicar IA a la traducción de libros para mercados extranjeros. Citó a India como ejemplo principal. En muchos idiomas de India todavía apenas hay libros publicados. La idea es llenar ese vacío con traducción y narración por IA. Sin embargo, Murray dijo que, salvo algunas excepciones, no hay razón para cambiar el enfoque actual de los audiolibros en inglés, que se basa en narradores profesionales."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología que usa HarperCollins es un motor de voz de IA conseguido mediante una alianza con ElevenLabs. La tecnología de voz sintética se usa para producir ediciones en otros idiomas y audiolibros de títulos antiguos del catálogo, libros que de entrada nunca iban a ser grabados por una persona. Según la editorial, las herramientas automatizadas reducen de forma considerable el costo y el tiempo de producción de ese catálogo de nicho."
+        },
+        {
+          "t": "p",
+          "x": "HarperCollins dijo que los audiolibros narrados por humanos siguen siendo el núcleo y el estándar, y que la IA solo se usa en libros que no tienen la viabilidad comercial para justificar una grabación en estudio."
+        },
+        {
+          "t": "p",
+          "x": "Autores y asociaciones del sector han expresado preocupación por que la narración automatizada desplace el trabajo de los narradores humanos existentes, y por la tendencia más amplia de una IA impulsada por las empresas que entra en el conjunto de la industria editorial."
+        }
+      ]
+    },
+    "books/books-peer-review-revolution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El autor envió un manuscrito a una revista reconocida y esperó diez meses por los comentarios de revisión. El redactor jefe solo había conseguido una reseña. El equipo editorial se disculpó, pero no pudo hacer nada."
+        },
+        {
+          "t": "p",
+          "x": "Los manuscritos se acumulan y los revisores escasean. Entre 2004 y 2024, los resultados registrados en Crossref aumentaron más de cuatro veces, de 2,28 millones a 10,12 millones al año. Los envíos a revistas que usan ScholarOne Manuscripts en el primer trimestre de 2026 fueron un 33% más que un año antes, y la propia tasa de crecimiento casi se duplicó. Una encuesta de Publons de 2018 encontró que el 10% de los revisores se encargaba de alrededor de la mitad de los registros de revisión."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa también impulsó el aumento de envíos. Un estudio concluyó que los LLM están asociados con un incremento del 42% en los envíos en las revistas estudiadas. Los manuscritos adicionales eran menos legibles y estaban llenos de jerga. Los manuscritos con uso intensivo de IA fueron rechazados de entrada (desk reject) casi el doble de veces, y cuando la proporción de IA superaba el 70%, casi nunca llegaban a la etapa de revisión. Los informes de revisión también mostraron cada vez más señales de haber sido redactados con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1068380820-1024x683.jpg",
+          "cap": "Pilas y más pilas de documentos de papel"
+        },
+        {
+          "t": "p",
+          "x": "El doctor Michael Bruno cree que la IA sola no puede resolver este problema a menos que el mundo académico transforme “de manera revolucionaria” la estructura de incentivos que prioriza el número de artículos por encima del rigor. Las grandes editoriales pueden ejecutar asistencia de revisión por IA con sus propios recursos de computación, pero las editoriales pequeñas, especialmente las de países en desarrollo, no tienen esa opción. La IA, en otras palabras, amplía la brecha. Más del 70% del aumento anual de artículos también va a un puñado de grandes editoriales, y MDPI por sí sola genera el 27%."
+        },
+        {
+          "t": "p",
+          "x": "La revisión favorece los enfoques conocidos por encima de los intentos nuevos. Los datos de los NIH muestran que la investigación más arriesgada tiene tasas de renovación más bajas. Los manuscritos rechazados rara vez se corrigen a fondo antes de volver a someterse a revisión en la siguiente revista, y este costo duplicado se estima en miles de millones de dólares a nivel mundial."
+        },
+        {
+          "t": "p",
+          "x": "El mayor problema que señala el autor es que la revisión previa a la publicación tiene dificultades para trazar una línea clara entre la ciencia que debería aceptarse y la que no. Cada año, cientos de miles de artículos quedan fuera por el juicio subjetivo de los revisores, y muchos de ellos contienen hallazgos que bien merecen discutirse."
+        },
+        {
+          "t": "p",
+          "x": "Por eso el verdadero desafío no es la velocidad de la revisión, sino separar la difusión de la puerta de aprobado o rechazado. Modelos como MetaROR, F1000Research y eLife, que publican primero el preprint y continúan la evaluación después, permiten que los hallazgos lleguen a los lectores antes de la verificación completa. El autor señala Publish-Review-Curate (PRC) como el enfoque que mejor combina difusión y certificación."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/prc_adoption_lifecycle-593x1024.png",
+          "cap": "Las etapas de adopción del modelo PRC situadas sobre la curva de adopción tecnológica de Moore"
+        },
+        {
+          "t": "p",
+          "x": "Vista con este marco, la PRC todavía está en la etapa de los primeros adoptantes, y el mayor obstáculo es el “abismo” hacia la mayoría temprana. OJS 3.6, que dará soporte nativo a los preprints y la revisión abierta, reduce la barrera para las revistas de tamaño mediano. La Alianza PRC, creada por COAR y ASAPbio a comienzos de 2026, también busca convertir la PRC en un estándar y no en un experimento marginal."
+        },
+        {
+          "t": "p",
+          "x": "También hay un movimiento hacia evaluar el trabajo a nivel de cada artículo individual. En mayo de 2026, los miembros con derecho a voto de NISO aprobaron formar un grupo de trabajo para recomendar marcadores de confianza (trust markers). Se ha propuesto una escalera de cuatro niveles que ordena la divulgación de datos y código, el preregistro y la transparencia de la revisión."
+        },
+        {
+          "t": "p",
+          "x": "Revolución o evolución puede ser la pregunta equivocada. La más urgente es si el mundo académico está listo para presentar, debatir y pulir las ideas científicas en un espacio abierto en lugar de detrás de puertas cerradas. Si aquel manuscrito atascado durante diez meses hubiera pasado por la PRC, el propio retraso habría carecido de sentido."
+        }
+      ]
+    },
+    "books/books-substack-pangram-detection": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Substack implementó la semana pasada la detección de IA en el contenido de todo el sitio. Jane Friedman escribió que la medida desató de golpe un gran debate, controversia, especulación y confusión."
+        },
+        {
+          "t": "p",
+          "x": "Para la detección se usa Pangram. En cuanto las puntuaciones empezaron a aparecer por defecto en los textos, surgieron disputas entre escritores por falsos positivos y solicitudes de exclusión."
+        },
+        {
+          "t": "p",
+          "x": "Este artículo mira de frente lo que ocurre cuando las etiquetas de detección se adhieren por defecto a textos ya publicados. A partir de ahí, un falso positivo deja de ser una teoría y se convierte en una etiqueta junto al nombre de alguien."
+        },
+        {
+          "t": "p",
+          "x": "El artículo original es solo para suscriptores de pago. Este resumen se basa en la introducción publicada y el extracto del artículo."
+        }
+      ]
+    },
+    "books/books-ai-text-tells": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zclrdrwsD-M"
+        },
+        {
+          "t": "p",
+          "x": "Jason ha publicado 14 libros por vías editoriales tradicionales y lleva tres años enseñando a escritores en Kindlepreneur. A su juicio, la mayoría sabe que su texto suena a IA pero no sabe qué es exactamente lo que falla. Entonces retocan cualquier frase, meten una palabrota y recortan algunos adverbios. Como es de esperar, eso no arregla nada."
+        },
+        {
+          "t": "p",
+          "x": "El primero es el exceso de metáforas. Frases como \"una ciudad que respira innovación\" o \"un tapiz de resiliencia\" se acumulan una tras otra. Cada una por separado parece aceptable, pero juntas se leen como una máquina atascada en modo poético. La metáfora es sal. Hay que dejar solo una o dos que realmente revelen algo de la escena o del personaje, y quitar el resto."
+        },
+        {
+          "t": "p",
+          "x": "El segundo es explicar de más. Se muestra una escena y luego se añade, innecesariamente, lo que eso dice sobre la identidad o la memoria. Es mejor cerrar la escena con una acción, una imagen o una línea de diálogo. Si se quita el comentario, nueve de cada diez veces la escena se sostiene igual."
+        },
+        {
+          "t": "p",
+          "x": "El tercero es el tono de guía turística. El pueblo siempre está asentado en el corazón de algún lugar, y la calle se vuelve un vibrante centro cultural. Un bar estrecho que huele a cerveza puede ser simplemente un bar estrecho. Reescribirlo como algo que un personaje diría al criticar ese barrio ante un amigo rebaja el tono."
+        },
+        {
+          "t": "p",
+          "x": "El cuarto es el reciclaje de sinónimos. Las personas repiten la misma palabra. Llaman al pueblo pueblo, no lo cambian un párrafo después por asentamiento, comunidad y luego centro urbano. Un narrador de doce años jamás llamaría a la escuela \"institución educativa\"."
+        },
+        {
+          "t": "p",
+          "x": "El quinto es el hábito de evitar predicados simples. En vez de decir que un café es pequeño, se escribe que cumple cierta función, que exhibe algo o que simboliza algo. Si cambiar el verbo de vuelta a un simple \"es\" no pierde nada, se cambia."
+        },
+        {
+          "t": "p",
+          "x": "El sexto es la construcción \"no simplemente X, sino Y\". Las personas también la usan, pero la IA recurre a ella cada vez que quiere sonar profunda. Hay que reservarla para los momentos que realmente importan y, en el resto, decir las cosas sin adornos. El séptimo es la enumeración mecánica de tres en tres. Cuando frases agrupadas de tres en tres —fría, silenciosa, despiadada— llenan la página, se lee como una fórmula y no como una voz. Hay que mezclar grupos de dos y de cuatro, y romper el ritmo a propósito."
+        },
+        {
+          "t": "p",
+          "x": "Jason también construyó y muestra en vivo una skill de Claude que detecta este patrón. Abre el generador de skills desde la barra lateral, en customize y luego create with Claude, y pega solo las entradas de lenguaje promocional de una página de Wikipedia que huele a IA. El truco está en no pedirle a una sola skill que haga varias tareas a la vez. Una vez guardada, la invoca con un comando de barra para que revise un texto, y esta señala los puntos problemáticos y los reescribe."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo no es erradicar todos los patrones. Las personas también usan metáforas y a veces escriben como una guía turística. Lo que produce el olor a máquina es la densidad con la que todo esto se acumula a la vez. Usar la IA como herramienta de borrador, sin dejar que la propia voz se desvíe hacia el promedio de internet: eso sigue siendo tarea humana."
+        }
+      ]
+    },
+    "books/books-claude-30day-book": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2pJqxijuCTA"
+        },
+        {
+          "t": "p",
+          "x": "Scott Allen ha publicado más de 30 libros en la última década. Esta vez quiso comprobar por sí mismo si podía escribir, editar y publicar un libro de no ficción usando solo Claude, y lo terminó en 30 días. Divide el proceso en tres etapas: escritura, edición y publicación."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida es subir material de referencia. Sube todo a un proyecto de Claude —más de 200 entrevistas de podcast, videos de YouTube, sus libros anteriores, incluso diarios— para que el modelo aprenda su voz. Si no se tiene material acumulado, basta con grabar 10 o 20 minutos contando la propia historia y subirlo."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es el esqueleto. Se fija de antemano una extensión, como 12 capítulos de 30,000 palabras, se saca un índice y primero se construye con cuidado un capítulo modelo. En cuanto ese capítulo fija el tono y la voz, el resto de los capítulos sigue la misma línea. Allen mantiene cada capítulo entre 2,000 y 3,000 palabras."
+        },
+        {
+          "t": "p",
+          "x": "El punto a vigilar son los ejemplos. Sin instrucciones, Claude llena los vacíos con personajes inventados como Sara o Marcus y anécdotas ficticias, y repite los mismos nombres en el siguiente libro. También tiende a recurrir a ejemplos ya muy usados, como Oprah Winfrey, David Goggins o Elon Musk. Ahí es exactamente donde los editores notan que algo fue escrito por IA. Allen prohíbe las historias falsas y antepone su propia experiencia."
+        },
+        {
+          "t": "p",
+          "x": "El cuerpo del texto hay que acumularlo en artifacts y no en la ventana del chat, para no quedarse sin espacio. Cuando el borrador está listo, sube la versión terminada a un chat nuevo y ejecuta un playbook de evaluación. En unos 10 minutos, se obtiene una lista capítulo por capítulo de qué funciona y qué falta, a modo de sustituto de los lectores beta."
+        },
+        {
+          "t": "p",
+          "x": "La última etapa es una edición en tres pasadas. Revisa estructura, luego capítulos, luego frases, porque si se le entrega el libro entero de una sola vez se escapan cosas. Cada capítulo toma de 5 a 7 minutos, así que 15 capítulos se resuelven en una hora o una hora y media."
+        },
+        {
+          "t": "p",
+          "x": "Claude también se encarga del formato. Fijar reglas como el tamaño de recorte, el tamaño del texto del cuerpo y el tamaño de los títulos de capítulo en un playbook mantiene el mismo aspecto en todos los libros. Aun así, los saltos de página requieren trabajo manual, y añade que si el formato no es un pasatiempo, conviene encargarlo a otra persona. Una vez puesto el ISBN y subido a KDP, el marketing queda en manos del autor."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, Allen insiste en no saltarse a un editor humano. El libro resultante, en un formato de 5 por 8 pulgadas con más de 290 páginas y entre 36,000 y 37,000 palabras, llegó a listas de más vendidos en tres categorías a los pocos días de su lanzamiento."
+        }
+      ]
+    },
+    "books/books-eu-ai-act-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es un fragmento de un artículo que Jane Friedman publicó en su boletín de pago el 5 de agosto de 2026. Trataba sobre cómo la Ley de IA de la UE exige transparencia para ciertos tipos de contenido generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "La norma se aplica a contenido de IA que podría confundirse fácilmente con algo real, y a contenido manipulado con IA. Es una disposición dirigida a los deepfakes, pensada para garantizar transparencia."
+        },
+        {
+          "t": "p",
+          "x": "Para quien venda en la UE un libro escrito con IA, la divulgación ya no es opcional. Pasa de ser una cortesía que se cumplía por iniciativa propia a una obligación que hay que cumplir."
+        },
+        {
+          "t": "p",
+          "x": "El texto completo solo está disponible para los suscriptores de pago de Friedman. Lo que se resume aquí corresponde a la parte disponible públicamente."
+        }
+      ]
+    },
+    "books/books-prowritingmethod-news": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "61voMQvOFNE"
+        },
+        {
+          "t": "p",
+          "x": "Esta es la noticia de autopublicación del 6 de agosto de 2026 reportada por Dale L. Roberts. Cubre de un vistazo los criterios de Barnes & Noble para eventos de autores locales, los cambios de plataforma en Apple Books y Lulu, y el nuevo sistema de ProWritingAid."
+        },
+        {
+          "t": "p",
+          "x": "Barnes & Noble no está eliminando las firmas de autores locales. Pero las tiendas se han vuelto mucho más selectivas. Según la directriz corporativa reportada por el boletín de Jane Friedman, The Bottom Line, la idea es que los eventos que solo ponen una mesa y aprovechan el tráfico de la tienda no justifican el tiempo, el espacio y el personal que requieren. Según comentarios de empleados de tienda en Reddit, quieren autores que ya tengan público propio y puedan promocionarse por sí mismos. También se emitió una guía para no colocar mesas de firma de cualquier manera frente a la entrada."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones que Barnes & Noble ha señalado desde hace tiempo son claras: un plan de marketing y promoción convincente, evidencia de que atraerá clientes, una presentación profesional, un precio competitivo, distribución a través de un mayorista o distribuidor, y registro en barnesandnoble.com."
+        },
+        {
+          "t": "p",
+          "x": "A continuación se presenta un artículo de Penny Sansevieri publicado en janefriedman.com. Su idea: no apuntar primero a los medios nacionales, sino afianzarse primero en el ámbito local. Bibliotecas, periódicos locales, radio, clubes, asociaciones de exalumnos y tiendas cercanas tienen un umbral de entrada más bajo que los medios nacionales. La cobertura y las recomendaciones locales incluso cambian cómo aparecen la página del libro y del autor en las búsquedas de Google y de IA."
+        },
+        {
+          "t": "p",
+          "x": "Apple Books for Authors tendrá iTunes Connect fuera de servicio hasta dos horas a partir de las 9 a.m., hora del este de EE. UU., el sábado 8 de agosto. Los registros o modificaciones deben completarse antes de esa hora. Lulu cambió sus términos de servicio y su política de privacidad a partir del 3 de agosto, y seguir usando el servicio después de eso se considera una aceptación."
+        },
+        {
+          "t": "p",
+          "x": "Voices by Inaudio amplió su alianza exclusiva con Bookshop.org al Reino Unido. Bookshop.org respalda a más de 630 librerías independientes y 14,000 afiliados en el Reino Unido."
+        },
+        {
+          "t": "p",
+          "x": "ProWritingAid presentó un nuevo sistema llamado ProWritingMethod. La idea es no limitarse a pulir frases, sino ayudar a terminar el manuscrito que ya se empezó. La técnica desarrolla el oficio de escribir, el hábito hace que se vuelva al escritorio, y la mentalidad ayuda a superar los momentos en que la duda y el exceso de reflexión amenazan con detener el avance. Es un salto de un corrector gramatical a todo el proceso de escritura."
+        },
+        {
+          "t": "p",
+          "x": "También hay noticias breves. Tertulia abrió tiendas para Estados Unidos, Canadá, el Reino Unido y la eurozona, mientras que Novel Report eliminó sus cupones existentes. En un caso destacado por BookLinker, una promoción de BookBub de 424 dólares generó 5,996 descargas gratuitas y llevó a un libro al top 50 de su categoría. The Authors Guild celebrará una charla con agentes el jueves 13 de agosto a las 3 p.m., hora del este."
+        }
+      ]
     }
   }
 }
