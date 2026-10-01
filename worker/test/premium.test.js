@@ -24,6 +24,12 @@ async function call(path, init) {
   await waitOnExecutionContext(ctx);
   return res;
 }
+async function callWith(path, init, extraEnv) {
+  const ctx = createExecutionContext();
+  const res = await worker.fetch(new Request("http://localhost" + path, init), { ...env, ...extraEnv }, ctx);
+  await waitOnExecutionContext(ctx);
+  return res;
+}
 async function paidCookie() {
   return "ax_session=" + (await signSession("paid@x.com", env.SESSION_SIGNING_KEY));
 }
@@ -48,5 +54,28 @@ describe("premium gating", () => {
     expect(Array.isArray(body.full.blocks)).toBe(true);
     expect(body.full.blocks.length).toBeGreaterThan(0);
     expect(body.full.blocks[0].x).toBe(SECRET);
+  });
+});
+
+const fakeAssets = (files) => ({ fetch: async (req) => {
+  const p = new URL(req.url || req).pathname;
+  return p in files ? new Response(JSON.stringify(files[p]), { status: 200 }) : new Response("nf", { status: 404 });
+} });
+
+describe("premium full by language", () => {
+  const files = {
+    "/premium/en/design.json": { cards: { "design/a": { blocks: [{ t: "p", x: "en" }] } } },
+    "/premium/ko/design.json": { cards: { "design/a": { blocks: [{ t: "p", x: "ko" }] },
+                                          "design/b": { blocks: [{ t: "p", x: "ko-b" }] } } },
+    "/premium/full.json": { cards: { "design/c": { blocks: [{ t: "p", x: "legacy" }] } } },
+  };
+  it("serves the requested language, then en, ko, legacy", async () => {
+    const cookie = await paidCookie();
+    const get = async (q) => (await callWith(`/api/premium/full?${q}`, { headers: { cookie } },
+                                             { ASSETS: fakeAssets(files) })).json();
+    expect(await get("lang=en&section=design&id=a")).toEqual({ full: files["/premium/en/design.json"].cards["design/a"], lang: "en" });
+    expect((await get("lang=ja&section=design&id=a")).lang).toBe("en");
+    expect((await get("lang=ja&section=design&id=b")).lang).toBe("ko");
+    expect(await get("section=design&id=c")).toEqual({ full: files["/premium/full.json"].cards["design/c"], lang: "ko" });
   });
 });

@@ -136,13 +136,19 @@ export default {
       if (!ent.entitled) return json({ reason: "subscription_required" }, 402);
       const section = url.searchParams.get("section");
       const id = url.searchParams.get("id");
-      const res = await env.ASSETS.fetch(new URL("/premium/full.json", env.BASE_URL));
-      if (!res.ok) return json({ reason: "unavailable" }, 503);
-      const map = await res.json();
-      const cardsByKey = map.cards || map;
-      const full = cardsByKey[`${section}/${id}`];
-      if (!full) return json({ reason: "not_found" }, 404);
-      return json({ full });
+      const want = LANGS.includes(url.searchParams.get("lang")) ? url.searchParams.get("lang") : "ko";
+      const key = `${section}/${id}`;
+      const tries = [...new Set([want, "en", "ko"])].map((l) => [l, `/premium/${l}/${section}.json`]);
+      tries.push(["ko", "/premium/full.json"]);
+      for (const [l, path] of tries) {
+        if (!/^[a-z]+$/.test(section || "")) break;
+        const res = await env.ASSETS.fetch(new Request(new URL(path, env.BASE_URL)));
+        if (!res.ok) continue;
+        const map = await res.json();
+        const full = (map.cards || map)[key];
+        if (full) return json({ full, lang: l });
+      }
+      return json({ reason: "not_found" }, 404);
     }
 
     // Knowledge Graph 클러스터 요약 — 선택 뉴스+연결 뉴스의 시간 흐름 요약을
@@ -157,6 +163,7 @@ export default {
       try { body = await request.json(); } catch { return json({ reason: "bad_request" }, 400); }
       const items = Array.isArray(body.items) ? body.items.slice(0, 16) : [];
       if (items.length < 2) return json({ reason: "bad_request" }, 400);
+      const lang = LANGS.includes(body.lang) ? body.lang : "ko";
       const clip = (s, n) => String(s || "").replace(/\s+/g, " ").slice(0, n);
       const lines = items.map((it) =>
         `- ${clip(it.date, 10)} [${clip(it.tool, 30)}${it.isSel ? " · 선택한 뉴스" : ""}] ${clip(it.headline, 120)} — ${clip(it.body, 180)}`
@@ -164,7 +171,7 @@ export default {
       // 동일 클러스터는 캐시 재사용 (LLM 호출 비용 절약)
       const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(lines));
       const hash = [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("").slice(0, 32);
-      const cacheKey = `insum:${hash}`;
+      const cacheKey = `insum:${lang}:${hash}`;
       const cached = await env.AUTH_TOKENS.get(cacheKey);
       if (cached) return json({ summary: cached, cached: true });
       const prompt = `당신은 AI 뉴스 큐레이션 서비스의 에디터입니다. 아래는 하나의 토픽 클러스터입니다 — 사용자가 선택한 뉴스와, 공유 키워드로 직접 연결된 뉴스들의 날짜·매체·헤드라인·한 줄 요약입니다.
@@ -177,6 +184,7 @@ export default {
 - 사실·수치는 제공된 내용 안에서만 쓰고 추측하지 않는다.
 - '선택한 뉴스'가 흐름의 어디에 있는지 자연스럽게 짚는다.
 - 날짜는 필요한 곳에만 '6월 말', '9월 19일' 정도로 가볍게.
+- 출력 언어: ${{ en: "English", ko: "한국어", ja: "日本語", zh: "简体中文", es: "Español" }[lang]}. 고유명사·수치는 그대로.
 
 클러스터:
 ${lines}`;
