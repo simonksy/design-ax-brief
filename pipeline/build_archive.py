@@ -316,11 +316,12 @@ def main(argv):
     archive.sort(key=lambda c: (c["date"], c["section"], c["id"]))
     with open(a.archive, "w", encoding="utf-8") as f:
         json.dump({"cards": archive}, f, ensure_ascii=False, indent=1)
+    out_dir = os.path.dirname(a.out) or ROOT
     for lang in LANGS:
         js = to_js(archive, lang)
-        open(os.path.join(ROOT, f"archive-data.{lang}.js"), "w", encoding="utf-8").write(js)
+        open(os.path.join(out_dir, f"archive-data.{lang}.js"), "w", encoding="utf-8").write(js)
         if lang == "ko":
-            open(os.path.join(ROOT, "archive-data.js"), "w", encoding="utf-8").write(js)
+            open(a.out, "w", encoding="utf-8").write(js)  # legacy path, exact
     graph = build_graph(archive)
     with open(a.graph_out, "w", encoding="utf-8") as f:
         f.write(graph_to_js(graph))

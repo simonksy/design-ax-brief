@@ -88,6 +88,7 @@ def test_main_idempotent(tmpdir):
     gout = os.path.join(tmpdir, "archive-graph.js")
     prem = os.path.join(tmpdir, "premium-full.json")
     json.dump(sectioned("design", "2026-09-01", [card("a")]), open(news, "w"))
+    root_before = set(os.listdir(build_archive.ROOT))
     for _ in range(2):  # second run must not duplicate
         build_archive.main(["--news", news, "--archive", arch, "--out", out,
                             "--graph-out", gout, "--premium", prem])
@@ -95,6 +96,10 @@ def test_main_idempotent(tmpdir):
     assert len(got) == 1
     assert got[0]["has_full"] is True
     assert os.path.exists(out) and os.path.exists(gout)
+    # per-language outputs must land next to --out (tmpdir), never the repo root
+    assert os.path.exists(os.path.join(tmpdir, "archive-data.en.js"))
+    assert set(os.listdir(build_archive.ROOT)) == root_before, \
+        "--out must redirect per-language writes away from the repo root"
     prem_cards = json.load(open(prem))["cards"]
     assert "design/a" in prem_cards and prem_cards["design/a"]["blocks"]
     js = open(out).read()
