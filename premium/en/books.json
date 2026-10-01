@@ -1,0 +1,996 @@
+{
+  "cards": {
+    "books/books-kpa-ai-data-mou": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51607_824.png",
+          "cap": "The pen is still before the signature. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishing Culture Association (KPA) sent publishers an 'application guide for the AI training data provision project memorandum of understanding (MOU).' The association says it will set up an 'AI Publishing Data Center' to negotiate with AI companies through a single channel and manage rights, summarizing the project as 'rights protection, joint negotiation, controlled supply, and revenue sharing.' The KPA did not join the AI use principles that 12 organizations announced on September 29."
+        },
+        {
+          "t": "p",
+          "x": "By structure alone, this is not a giveaway. Once a publisher submits its intent to join and the scope of rights, the association negotiates price, term, use and output limits, and the final contract is signed only if the publisher and author agree. As the guide states, 'signing the MOU carries no obligation and no cost.'"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51608_917.png",
+          "cap": "On a non-binding pledge, the list has already begun to bind. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "What troubles editor Park Chul-woong is the list. For now, only the book title and ISBN need be submitted, but it was also the ISBN that determined claim eligibility in the $1.5 billion Bartz v. Anthropic settlement. The more a book is out of print or an older backlist title, the murkier its rights holder becomes, and the author appears only in the last line."
+        },
+        {
+          "t": "p",
+          "x": "The word 'training' is also too broad. Pretraining, RAG retrieval, and AI tutor and consulting services are all lumped into one category, and no standard for 'AI-Safe refinement' appears anywhere. There is no visible formula for setting price, no minimum guarantee, and no withdrawal terms. HarperCollins' contract with Microsoft runs three years, pays $5,000 per book split evenly with the author, and caps output at 200 words or 5% of the text."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51610_1056.png",
+          "cap": "The price is paid once, but the answer flows out tens of millions of times. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "So the piece says six questions must be asked before signing: the definition and scope of AI training, separate consent and pricing for each type of use, the author's right to refuse, withdraw, and renegotiate, a mechanism to delete data after training, compensation for data already used without permission, and who oversees this entire process. It concludes that the answer to this project must be far more precise than a single MOU."
+        }
+      ]
+    },
+    "books/books-chatgpt-book-recs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1400/azure/dazed-prod/1450/6/1456127.png",
+          "cap": "Eternal Sunshine of the Spotless Mind"
+        },
+        {
+          "t": "p",
+          "x": "Natalie Beacroft, who works at a London bookshop, was helping a customer find a walking guide last week when the customer suddenly tapped at their phone and asked, \"ChatGPT recommended this book — do you have it?\" They found the book, but the conversation vanished."
+        },
+        {
+          "t": "p",
+          "x": "More and more customers now show up with books recommended by an LLM. With nearly six in ten UK adults now using AI, Beacroft wonders whether browsing the shelves is over. Danielle Moylan of Lalla Books met a customer who read two AI-recommended books and was disappointed: \"Same genre, but it didn't have the emotional soul of the first book.\""
+        },
+        {
+          "t": "p",
+          "x": "AI recommendations can also be wrong. Last year, the Chicago Sun-Times' summer reading list included books invented by a chatbot. Since algorithms push books that are already popular, indie presses, debut authors, writers of color, and translated literature get pushed back. The piece also cites a case in a Korean library where AI generates customized book lists without going through a librarian."
+        },
+        {
+          "t": "p",
+          "x": "Madeline, a bookshop worker, admits AI has lowered the threshold to reading but says \"AI is ruining people's individual taste.\" If everyone who types in that they like Demon Copperhead gets the same recommendation, culture ends up in the hands of a few bestselling authors."
+        },
+        {
+          "t": "p",
+          "x": "The fix is simple: choose a conversation instead of a chatbot. As booksellers at Funny Weather put it, \"Recommending a book is ultimately about recommending a feeling. AI can't feel, but a bookseller can.\""
+        }
+      ]
+    },
+    "books/books-dutch-meta-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2019/02/depositphotos_85000222_l-2015.jpg?h=02abf47d",
+          "cap": "Facebook - Credit: goglik83 / DepositPhotos"
+        },
+        {
+          "t": "p",
+          "x": "Writers and journalists will protest outside Facebook's Dutch headquarters on Tuesday against using their writing to train AI models. The protest comes a day before Children's Book Week opens on Wednesday. It is organized by the writers' rights foundation Stichting Lira, the Dutch writers' union Auteursbond, and the Dutch Association of Journalists (NVJ)."
+        },
+        {
+          "t": "p",
+          "x": "They claim their writing is being stored and shared on so-called shadow libraries — illegal online repositories that copy and distribute copyrighted books and writing without rights holders' permission."
+        },
+        {
+          "t": "p",
+          "x": "According to Marketing Tribune, well-known writers, columnists, and journalists including Sheila Sitalsing, Philip Dröge, Anja Sieckinga, and Emy Koopman are publicly supporting the campaign or appearing at the protest."
+        },
+        {
+          "t": "p",
+          "x": "What the organizations want is \"a collective agreement covering fair compensation, control over one's own work, and transparency from Big Tech.\" They said the protest is part of a class-action lawsuit against Meta now in preparation."
+        },
+        {
+          "t": "p",
+          "x": "Lira, Auteursbond, and NVJ sent Meta a formal demand letter on February 27, calling on it to stop using the work of Dutch writers, translators, and journalists, and not to offer in Europe AI models trained on illegally obtained data. The organizations said Meta's response did not open the door to negotiation."
+        },
+        {
+          "t": "p",
+          "x": "In May, more than 600 writers, translators, and journalists responded to a request to check whether their work was in Meta's training dataset, Auteursbond said. Lisette van Zuunen, chair of Auteursbond, said at the time: \"We are not against large language models. But the AI industry is a multibillion-dollar business... writers are not free resources for AI.\""
+        }
+      ]
+    },
+    "books/books-guild-anthropic-share": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131741-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "As the $1.5 billion Anthropic copyright settlement is divided among publishers, authors, and lawyers, the Authors Guild has asked publishers to split some claims more fairly."
+        },
+        {
+          "t": "p",
+          "x": "In a newsletter on September 25, the Authors Guild said that for books long out of print, publishers should voluntarily give up their claims even without evidence that contractual rights were formally reverted to the author. Authors who had been out of print for decades with no contact from their publisher found it \"too much\" that publishers are still claiming 50% of the settlement money."
+        },
+        {
+          "t": "p",
+          "x": "Mary Rasenberger, CEO of the Authors Guild, told PW in a September 9 interview that the most common problem is uncertainty over whether rights were reverted, since publisher records are often incomplete or nonexistent. The newsletter wrote: \"Let's please agree that that right should have already reverted and the author should get 100%.\""
+        },
+        {
+          "t": "p",
+          "x": "Another complaint concerns books left out of the settlement because publishers failed to register them in time, since only books registered with the U.S. Copyright Office and actually downloaded by Anthropic are compensated. The Authors Guild asked that for books that predate the settlement's download cutoffs (July 2021, August 2022), that are now on LibGen or the Pirate Mirror Library, and that publishers had a duty to register but did not, publishers pay authors 50% of the per-book compensation."
+        },
+        {
+          "t": "p",
+          "x": "The Authors Guild noted that while many publishers are receiving large settlement amounts, most authors won't get much more than \"a modest vacation or some bills paid.\" It also said that even as settlements and lawsuits continue, \"AI models keep devouring books without authors' or publishers' consent, now through destructive scanning.\""
+        },
+        {
+          "t": "p",
+          "x": "The newsletter also included news on claims procedures. Authors now have 60 days, not 30, from the date they receive a claim notice to file paperwork. Where a publisher wrongly claimed 100%, the settlement administrator has been sending correction emails since the week of September 14. All Big Five publishers have opened dedicated inboxes for author inquiries."
+        }
+      ]
+    },
+    "books/books-storytel-recaps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
+          "cap": "Susi Aubinen does not think the Recaps summaries help listeners much. Photo: Mikko Koski / Yle"
+        },
+        {
+          "t": "p",
+          "x": "Audiobook streaming service Storytel turned on an AI-made plot summary feature called ‘Recaps.’ It sums up in a few sentences what happened in the last 5 to 15 minutes of the book being listened to. The feature's rollout was announced in early September."
+        },
+        {
+          "t": "p",
+          "x": "Storytel's head of product and technology, Johan Stolle, says: ‘The point of the short summary is to help users finish the book they started and read more books. Customers are happier when they finish a book.’"
+        },
+        {
+          "t": "p",
+          "x": "Author and journalist Susi Aubinen was surprised last week when she was browsing the app and found an AI summary attached to her own book. A summary had been added to a book Storytel itself had published, with no prior notice. ‘As far as I know, I never gave permission for my writing to be processed by AI,’ she said."
+        },
+        {
+          "t": "img",
+          "src": "https://img.img-cdn.yle.fi/crop_extract,w_1080,h_607,x_0,y_302/crop_fill,w_767,h_431,ar_16:9,dpr_1/f_auto/39-17112416ab26825dfdac/1790077167",
+          "cap": "The AI-summary screen for Aubinen's book ‘Unitarinoita’ as it appears in the Storytel app. Photo: Storytel, edited by Miia Anttila / Yle"
+        },
+        {
+          "t": "p",
+          "x": "What worries Aubinen is hallucination. When the AI fails to ‘understand’ the text it is summarizing, it invents gaps, and errors creep in. ‘The content of the work can change in the summary. Readers can no longer tell whether the summary matches the original book.’"
+        },
+        {
+          "t": "p",
+          "x": "Ville Huotonen, chair of the Finnish Writers' Union, believes AI summaries alter even the literary character of the original work. ‘In that process, the author's contribution is reduced to just plot structure. That's an unpleasant thought for a writer. Literary fiction is about far more than plot summary — language, the psychological depth of characters, and other elements AI struggles to capture matter.’ Huotonen added that the history of AI models being trained on copyrighted works without permission deepens writers' suspicion."
+        },
+        {
+          "t": "p",
+          "x": "Stolle said he understands authors' concerns. The company says negative feedback from authors so far has been very limited. ‘Authors are artists. It's natural and reasonable to worry about AI's advance — who wouldn't? We try to respect the original text as much as possible.’ He explained that because the summaries are short, there is less room for hallucination."
+        },
+        {
+          "t": "p",
+          "x": "Stolle says publishers were notified a month in advance and given a chance to opt out. The reasoning is that publishers represent authors, so the company does not negotiate with each author separately. Huotonen said he has not heard of the company notifying authors directly. The Swedish company Storytel currently operates in more than 20 countries."
+        },
+        {
+          "t": "p",
+          "x": "Aubinen is not confident that copyright will be respected, since authors were not notified and the company has not disclosed how the summaries are actually made. ‘This ambiguity is the problem,’ she said. She hopes authors, publishers and streaming services will hold an open discussion to set clear rules. ‘The current approach of act first, sort it out later, doesn't work.’"
+        }
+      ]
+    },
+    "books/books-mangaplus-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurv2.png",
+          "cap": "Screenshot: Siliconera"
+        },
+        {
+          "t": "p",
+          "x": "Shueisha, publisher of Shonen Jump, circulated a survey asking about AI translation. The Manga Plus survey remains open until September 27, 2026. Shueisha has not decided to adopt it, but the survey alone has reignited debate over machine translation of manga."
+        },
+        {
+          "t": "p",
+          "x": "A string of concerns followed, from noise and fuel pollution to jobs, privacy, mental health, and intellectual-property theft. But Siliconera's argument operates on a different level: that large language models are simply not suited to translation and localization work in the first place."
+        },
+        {
+          "t": "p",
+          "x": "This isn't a matter of needing more training data or something that will be refined over time, the outlet insists. The claim is that the way machine translation works is fundamentally at odds with the job."
+        },
+        {
+          "t": "p",
+          "x": "Contrary to tech CEOs' repeated claims, AI has no consciousness or awareness. It simply swaps a word for another word flagged as similar in a database. Any surviving meaning is a product of chance. AI cannot judge whether that word or phrase is an adequate substitute, or how much of the implication it carries, because it cannot judge meaning itself. The problem is that meaning is everything in translation."
+        },
+        {
+          "t": "img",
+          "src": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurveybig.png?w=1024&resize=1024%2C576",
+          "cap": "The AI-translation question included in the survey. Screenshot: Siliconera"
+        },
+        {
+          "t": "p",
+          "x": "Language is information-dense. Tone, theme, meaning, allusion, and broader context all touch one another. Rendering something as complex as a story without dropping anything is nearly impossible. That's why a translator's job is largely triage — choosing which meanings to preserve and which to leave behind. Translator Sarah Moon, in a video about the anime ‘Chihayafuru,’ pointed to choices the translation and localization team had to make to achieve readability."
+        },
+        {
+          "t": "p",
+          "x": "Constraints can also spark creativity. Human translators fill cultural gaps in unexpected ways. Yangus from Dragon Quest VIII is one example. In the Japanese original, Yangus talks like a yakuza thug and calls the protagonist ‘aniki.’ The English version gave him a Cockney or Estuary accent, carrying his criminal past, simple personality, and role as comic relief all at once."
+        },
+        {
+          "t": "p",
+          "x": "Siliconera renders a line from Jost Zetzsche's piece in the ATA Chronicle this way: ‘Machines translate words; people translate meaning.’ The outlet's conclusion is that when dealing with anything more complex than a tweet, human translators are not a luxury but a necessity."
+        }
+      ]
+    },
+    "books/books-japan-usedbooks-scan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aimatters.co.kr/wp-content/uploads/2026/09/10_japan-used-books-ai.jpg",
+          "cap": "Image source: generated with Ideogram"
+        },
+        {
+          "t": "p",
+          "x": "Daily sales at Japanese used bookstores have jumped as much as fivefold, Tom's Hardware reported on 24 September local time, citing reporting by Nippon TV."
+        },
+        {
+          "t": "p",
+          "x": "The jump follows the appearance of buyers purchasing pre-2022 books by the ton, aiming to secure training data for AI models."
+        },
+        {
+          "t": "p",
+          "x": "Why 2022? Books published after 2022, when generative AI spread widely, may contain sentences written or edited by AI, which lowers their value as training data."
+        },
+        {
+          "t": "p",
+          "x": "Trade statistics show that an affiliate of a major Japanese publishing distributor has exported more than 50 tons of goods to the US under the category 'JAPANESE BOOKS' since last year, equivalent to roughly 100,000 volumes. Tom's Hardware reported that the shipment appears to have been headed to a facility that scans and then discards the books."
+        },
+        {
+          "t": "p",
+          "x": "Destructive scanning cuts the binding off a book and separates it into loose pages, which are then photographed at high speed. It's far faster than scanning one page at a time, but no original copy survives."
+        },
+        {
+          "t": "p",
+          "x": "There's also a reason publications specifically draw buyers' attention. Japanese has far fewer large, publicly available corpora than English. A corpus refers to a collection of documents gathered to train a language model, and the amount of Japanese text that can be scraped from the web is relatively limited."
+        },
+        {
+          "t": "p",
+          "x": "What about the law? Japan's Copyright Act Article 30-4 broadly permits the use of copyrighted works for the purpose of information analysis, but debate continues over how far that provision extends. Even if used books were legitimately purchased, whether using scanned data to train a model is permitted is a separate question."
+        }
+      ]
+    },
+    "books/books-naverwebtoon-byus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/eb3d3a460a5de7.jpg",
+          "cap": "Photo: Naver Webtoon"
+        },
+        {
+          "t": "p",
+          "x": "Naver Webtoon's AI StoryChat 'byUs' has surpassed 14 million cumulative conversations just 10 weeks after launch, the company said on the 25th. The service launched in July and is available in the app's More menu."
+        },
+        {
+          "t": "p",
+          "x": "Here is how it works. Readers become the protagonist of a story and craft their own narrative. The feature uses intellectual property approved by the original creator, with derivative storytelling built on settings the author has reviewed."
+        },
+        {
+          "t": "p",
+          "x": "Several webtoon-based conversational titles are live, and the one based on 'Job Change Log' drew particular attention after passing 3.2 million cumulative conversations."
+        },
+        {
+          "t": "p",
+          "x": "The new experience fed back into consumption of the original work. Even though 'Job Change Log' was on hiatus, comparing the week before and after the service's launch showed views of the original rose 67% and new users rose 105%."
+        },
+        {
+          "t": "p",
+          "x": "Safeguards are in place too. Profanity and sexual language are filtered out in advance, and AI keyword analysis blocks inappropriate settings during content creation."
+        },
+        {
+          "t": "p",
+          "x": "Naver Webtoon is also considering overseas launches, including in Japan, building on its domestic operating experience."
+        },
+        {
+          "t": "p",
+          "x": "A Naver Webtoon representative said webtoons are moving beyond content that is 'watched' and into an interactive area where fans take part in and expand a story's universe, adding that the company will build a virtuous cycle in which readers rediscover the appeal of original works and that deepens their attachment to the IP and strengthens its life cycle."
+        },
+        {
+          "t": "p",
+          "x": "The idea is to give readers enjoyment while opening new revenue opportunities for creators."
+        }
+      ]
+    },
+    "books/books-goncourt-orelien": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
+          "cap": "Télisson Aurélien. His book 'C'était ça ou mourir' has sold about 35,000 copies. Photograph: Joel Saget/AFP/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The organizers of France's most prestigious literary prize removed a Canadian-Haitian author's novel from its first-round shortlist, after an anonymous online account claimed the book was “almost entirely” written by AI."
+        },
+        {
+          "t": "p",
+          "x": "On Friday, the Académie Goncourt in Paris said its decision to withdraw Télisson Aurélien's novel 'C'était ça ou mourir' (That or Death) was made “to protect the integrity of the Prix Goncourt and of the Academy itself.” The Academy wrote that its central role is “to promote and honor literature written by women and men.”"
+        },
+        {
+          "t": "p",
+          "x": "Written by the Haitian-born author in the first person, the book follows a history and geography teacher who flees a homeland gripped by gang violence, crosses 12 countries, and seeks refuge in Canada. Published in August by Grasset in France, it has sold about 35,000 copies, and translation rights have been sold in more than 20 countries."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/f706bd5d45cabade0c52f0a21e0444d455ed3068/514_0_5140_4116/master/5140.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "The novel on display in a Paris bookshop. Photograph: Sarah Meyssonnier/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "The AI-authorship claim surfaced on X on September 21st, the same day the book won the Fnac Best Novel prize. An anonymous account called 'Balance ton Claude,' a name referencing Anthropic's AI agent, claimed that running the novel through the AI-detection software Pangram showed it was “almost entirely” written by artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "The claim remains unproven. Questions have been raised about Pangram's accuracy, and French media outlets found other AI-detection programs that rated the same book as very likely written by a human."
+        },
+        {
+          "t": "p",
+          "x": "Aurélien, 38, denied the allegations and said they were racially motivated. “I have always loved creating and writing. Why would I use a machine?” He told Libération that he had used traditional Haitian and Caribbean language and rhythms. “The images, the repetition, the rhythm are a living language, and it is mine.”"
+        },
+        {
+          "t": "p",
+          "x": "The owner of the anonymous account was revealed, in the pages of the center-right Le Figaro, to be the paper's own columnist, Samuel Fitoussi. He wrote on X that he was a “tech optimist” who nonetheless started the campaign out of fear that AI would “make reading and writing disappear.”"
+        },
+        {
+          "t": "p",
+          "x": "On Wednesday, Académie Goncourt president Philippe Claudel urged caution in handling the allegations. What appears to have changed minds is a separate plagiarism accusation reported by French media: Libération alleged that Aurélien plagiarized the preface of French journalist Louis Pauwels's book 'The Morning of the Magicians' (first published in 1960) in a prize-winning short story."
+        },
+        {
+          "t": "p",
+          "x": "The Academy's statement cited both “instances of plagiarism committed by the author over time and only now coming to light” and the fact that “several analyses by credible researchers and journalists converge to suggest it is highly likely that this book is, to a significant extent, the product of artificial intelligence.” It added that it wanted to make clear it “does not support or tolerate in any way the creation of texts with the help of AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Boréal, the Canadian publisher that first put out the book, told the Guardian it “can neither confirm nor deny, at this stage, the allegations against the author.” “Without credible, concrete evidence, it is not our place to decide whether this book has the right to exist.” It said it had “concerns” about the plagiarism allegations but “clearly condemns” the hate messages and personal attacks of recent days."
+        },
+        {
+          "t": "p",
+          "x": "Aurélien said he would not add anything further. At the Rencontres de la Correspondance literary festival in Manosque, southern France, on Thursday, he said “there is a desire to attack not just the book but especially my voice, in order to silence me,” and that he would step back and wait for the situation to calm down. The Academy will announce its final shortlist on October 6th and the winner on November 4th."
+        }
+      ]
+    },
+    "books/books-oxford-bodleian-openai-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74d7555c5ff03c9f1d0748fdc68055e",
+          "cap": "OpenAI has digitized materials from Oxford's Bodleian Library and used them as training data. Photo AP"
+        },
+        {
+          "t": "p",
+          "x": "Oxford University has allowed OpenAI to train its AI models on historical texts from the Bodleian Library. The move comes as tech companies scour academia for new data. Internal documents state that Bodleian material digitized by OpenAI was used to 'fill out OpenAI's training set.'"
+        },
+        {
+          "t": "p",
+          "x": "In March 2025, Oxford announced its partnership with OpenAI, saying it would use OpenAI's software to digitize its collections so students and researchers could access them more easily. The announcement made no mention that the material would be used to train models."
+        },
+        {
+          "t": "p",
+          "x": "Internal meeting minutes obtained through a freedom-of-information request record concerns among staff, including members of the Bodleian's steering committee. They note that partnering with OpenAI could risk the university's reputation, and that contracting with an energy-intensive technology could clash with the university's environmental commitments."
+        },
+        {
+          "t": "p",
+          "x": "The web has grown increasingly saturated with AI-generated writing, lowering its value for training. So developers are turning to physical book collections, especially older books. Through a project called NextGenAI, OpenAI has struck similar deals with the Boston Public Library, Caltech, MIT, and the University of Michigan. Oxford is the only UK institution involved."
+        },
+        {
+          "t": "p",
+          "x": "By June 2025, 125,000 images had passed from the Bodleian to OpenAI. They include 19th- and 20th-century doctoral theses from European and American universities, and 10,000 16th-century 'broadside ballads' that circulated on Tudor-era streets. The minutes also mention the possibility of mass-digitizing the entire 23 million-item collection and plans for an 'Ask the Bod' chatbot."
+        },
+        {
+          "t": "p",
+          "x": "The university said the scale of digitization is 'not large' and covers only material whose copyright has expired. The Bodleian retains rights to the scans, which are made public online within months. It also denied concealing the training purpose, saying digitization was the priority and that the fact the material would also be used as training data was shared from the start."
+        },
+        {
+          "t": "p",
+          "x": "This deal does not damage the collection. Anthropic has spent tens of millions of dollars buying books, then cutting off their spines to scan and discard them. The university said, however, that it does not buy and destroy rare books and antiquarian volumes."
+        },
+        {
+          "t": "p",
+          "x": "An OpenAI spokesperson said the company is 'proud' to help ensure that 'today's AI models preserve the world's historical knowledge for the future.'"
+        }
+      ]
+    },
+    "books/books-illustrator-genai-cover-concepts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Daniela Frongia, a British children's book illustrator and award-winning hyperrealist airbrush artist, wrote a column for The Bookseller. Its title is “If AI imagines before we do, what's left for illustrators?”"
+        },
+        {
+          "t": "p",
+          "x": "Frongia's target is the practice of publishers generating initial design ideas with generative AI. She examines how illustrators' role changes when AI takes the first step of imagination, and the problems that raises."
+        },
+        {
+          "t": "p",
+          "x": "The full column is available only to The Bookseller's members. This summary is based on the published abstract and the author's bio."
+        }
+      ]
+    },
+    "books/books-ai-fiction-detection-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.platum.kr/wp-content/uploads/2026/09/image-87-1024x683.png"
+        },
+        {
+          "t": "p",
+          "x": "What helped people tell whether a short story was written by a human or by AI was not how much literature they had read, but their experience using AI. Still, across all participants, the rate of correctly identifying the author was similar to or lower than random chance."
+        },
+        {
+          "t": "p",
+          "x": "Researchers Sydney Sears and Deena Skolnick Weisberg of Villanova University published the findings in the journal Judgment and Decision Making on August 4. They had adults aged 18 to 81 read three human-written short stories from literary magazines and anthologies, along with three ChatGPT-generated stories each matched to one of them."
+        },
+        {
+          "t": "p",
+          "x": "The author-identification task was run twice. In the two rounds, 424 and 481 participants each read two stories without knowing the authors and picked one; the accuracy rates were 39.93% and 51.97%. The first was below the random-chance expectation, and the second showed no difference from it."
+        },
+        {
+          "t": "p",
+          "x": "What determined accuracy was AI experience and literacy. People who said they knew AI well, and those who scored higher on a validated AI literacy scale, performed better. Reporting extensive exposure to literature made no difference. Professor Weisberg suggested that people familiar with AI may have used clues such as frequent em-dashes or sentence structures like “not only X but Y.”"
+        },
+        {
+          "t": "p",
+          "x": "An evaluation experiment produced different results. When 1,682 people were told the author's identity, either truthfully or falsely, and then rated stories on quality and engagement, AI-written stories scored higher on both measures. The highest-scoring story was one written by AI but attributed to a human."
+        },
+        {
+          "t": "p",
+          "x": "Professor Weisberg interpreted this as a bias favoring stories believed to be human-written. She attributed the AI stories' higher scores to their clear, direct writing. The AI versions stated their themes outright, while the originals let meaning emerge through characters' words and actions."
+        },
+        {
+          "t": "p",
+          "x": "The scope is narrow, with only three stories per set and a single model, ChatGPT. The results are better read not as AI writing better fiction, but as showing that the ability to identify a short story's author was linked more to AI experience than to literary experience."
+        }
+      ]
+    },
+    "books/books-gemini-tts-30sec-voice-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google's new voice model clones a voice from just a 30-second recording. Before that, the voice's owner must give spoken consent in their own voice. For voice actors, the consent process, and the list of regions where Google has not enabled the feature at all, are the most notable parts of this announcement."
+        },
+        {
+          "t": "p",
+          "x": "Google released “Gemini 3.8 Flash TTS” and “Gemini 3.8 Flash-Lite TTS” on September 23. Flash TTS is meant for performance direction in games, immersive audiobooks and podcasts, while Flash-Lite is for bulk dubbing and voice agents. Scripts can include performance cues like laughter or sighs, and the model offers more than 2,000 ready-made voices across over 100 languages and dialects. Google claims the tone barely drifts even across audio that runs for hours."
+        },
+        {
+          "t": "p",
+          "x": "The safeguards for the cloning feature work like this. Users must submit a recording of spoken consent from the voice's owner that matches the reference speaker, and the system compares the two voices. If they don't match, there's no clone. Every generated audio file carries a SynthID watermark, and cloned voices also get C2PA content credentials."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/inside-en-1.png",
+          "cap": "The five steps of Google's voice cloning: a 30-second sample, the voice owner's spoken consent, voice matching, SynthID/C2PA labeling, and regions where it is not offered."
+        },
+        {
+          "t": "p",
+          "x": "One footnote stands out. Voice cloning in AI Studio cannot be used in Illinois, Texas, the European Economic Area, the UK, Switzerland and India. Google did not explain why, but these are places with laws protecting voiceprints as biometric data."
+        },
+        {
+          "t": "p",
+          "x": "For voice actors, the bigger competitor isn't cloning but ready-made voice libraries and tools that design new voices from text. Spoken consent is now effectively a document. If a request to read “just one more line” at the end of a recording sounds like permission, actors should first ask about the use, platform, duration and pay."
+        },
+        {
+          "t": "p",
+          "x": "Google named Figma, HeyGen and Wondercraft among its partners and positioned dubbing and localization as key markets. How much of the work shifts to machines remains unknown. But it has become clear that major AI companies now operate on the premise that they must obtain consent."
+        }
+      ]
+    },
+    "books/books-nonfiction-slump-publishers-turn-literary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/697/imgdb/original/2026/0916/20260916501373.jpg",
+          "cap": "The Kyobo Book Centre Hapjeong branch in Mapo-gu, Seoul. Its “Hot Pick” corner is arranged mainly around genre fiction and other literary works."
+        },
+        {
+          "t": "p",
+          "x": "Amid a publishing slump, major South Korean publishers are rapidly expanding into literature. The general-interest nonfiction market has shrunk, while literature is still selling. In the first half of 2024, only one literary title made the “bestseller 10” list; this year that number rose to nine."
+        },
+        {
+          "t": "p",
+          "x": "According to Hankyoreh reporting, publishers including Sahoipyoungnon and Huembooks are pushing into literary publishing. Sahoipyoungnon, which built its footprint on general and academic nonfiction, children's books and English textbooks, will release an anthology of poetry late this year and a series of short-story collections next year. Huembooks is preparing a literary imprint called “Tilda” and has signed contracts with around 10 genre and short-form novelists."
+        },
+        {
+          "t": "p",
+          "x": "The main reason cited is the decline of “knowledge nonfiction.” The head of one general-interest publisher said, “In the AI era, with so much knowledge and information already being supplied, the time has come to rebuild the layers of general knowledge publishing, but it's hard to find direction.” An official at a general publishing house said that since mainstream literary publishers already have first claim on domestic authors, they are also exploring foreign literature."
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/433/imgdb/original/2026/0916/20260916501376.jpg",
+          "cap": "An infographic from the “Integrated Publishing Distribution Network Sales Data Report” (June 2026)."
+        },
+        {
+          "t": "p",
+          "x": "A report from the Korea Publication Industry Promotion Agency also found the market's center of gravity shifting toward literature. The sales share of fiction rose from 5.8% in 2024 to 7.3% in 2025 and 8.4% this year. By contrast, sales share and revenue fell sharply for self-help, social science, art, and philosophy/religion, in that order."
+        },
+        {
+          "t": "p",
+          "x": "Latecomers are seizing on literary novelists' moves outside their usual genres. Rabbit Hole published Park Sang-young's first mystery historical novel, and Woorischool published Park Seo-ryeon's first young-adult novel. More publishers are starting with genre fiction, “since essays simply aren't selling.”"
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/350/518/imgdb/original/2026/0916/20260916501375.jpg",
+          "cap": "The cover of the inaugural issue of “Munhak-rim,” a quarterly launched this month by Yolimwon."
+        },
+        {
+          "t": "p",
+          "x": "Following its short-story series, literary prize and poetry imprint, Yolimwon is launching the quarterly “Munhak-rim.” Even so, literary publishing is not easy. Even mainstream literary publishers print second editions for only 20% of their new titles. Yoo Jung-yeon, head of Huembooks, said, “It's not that we're entering literature because there's necessarily a market for it,” adding that efforts to draw readers to books must continue."
+        }
+      ]
+    },
+    "books/books-sudowrite-character-portraits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You gave the character a name, a dream, a backstory, maybe even a wound they didn't need. Now it's time to give them a face."
+        },
+        {
+          "t": "p",
+          "x": "Sudowrite's Story Bible now has a character portrait feature. You can generate a portrait straight from a character card or upload an existing image, so every character has a visual reference on hand."
+        },
+        {
+          "t": "p",
+          "x": "The portrait is generated from the appearance description already written on the character. There's no need to write a separate image prompt. Open the character card, tap the empty portrait slot, pick an art style, and press generate — that's it."
+        },
+        {
+          "t": "p",
+          "x": "There are four default styles: Painterly, Cinematic Realism, Bright Editorial, and Storybook. You can pick just one, or select all four to generate several versions at once. A brooding villain might end up looking surprisingly cute in the Storybook style."
+        },
+        {
+          "t": "p",
+          "x": "If you want a specific outfit, expression, or background, you can write instructions in the appearance details field. You can also upload a reference image and describe what to take from it, such as a jacket the character should wear."
+        },
+        {
+          "t": "p",
+          "x": "For finer control over the style, you can turn off all the default presets and write your own instead. You can try anything from black-and-white pencil drawings to a bold graphic-novel look."
+        },
+        {
+          "t": "p",
+          "x": "Generated portraits are saved automatically to each character's gallery. You can collect several versions and compare them later. If you already have an image you like, uploading it adds it straight to the gallery."
+        },
+        {
+          "t": "p",
+          "x": "Pick a favorite and set it as the thumbnail, and that face shows up next to the name even when the card is collapsed. That makes it easier to spot a familiar face in a Story Bible crowded with characters. The thumbnail can be changed anytime, and portraits you don't need can be deleted."
+        }
+      ]
+    },
+    "books/books-novelcrafter-live-manuscript-org": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lo9p8bVnDxE"
+        },
+        {
+          "t": "p",
+          "x": "Novelcrafter held a livestream called 'Breaking Free From Writer's Block' on September 27. The broadcast ran a little over 55 minutes."
+        },
+        {
+          "t": "p",
+          "x": "The host opens by saying they've hit writer's block. The premise of the stream is to try out several newly released AI models to work through the stuck writing."
+        },
+        {
+          "t": "p",
+          "x": "The stream also gives a brief look at a manuscript-organizing option coming soon to Novelcrafter. The team called it a preview of a new organization feature."
+        }
+      ]
+    },
+    "books/books-apex-covantage-eden-copyediting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS1994083/33.jpg?id=OA2964297&p=facebook",
+          "cap": "Apex CoVantage's AI proofreading engine, Eden"
+        },
+        {
+          "t": "p",
+          "x": "Content and data conversion services firm Apex CoVantage announced its AI proofreading engine, Eden (eden), on September 23. Built for the demanding needs of trade and academic publishing, it will make its first public appearance at the Frankfurt Book Fair on October 7."
+        },
+        {
+          "t": "p",
+          "x": "Eden is designed to work alongside professional proofreaders and subject-matter experts. It uses AI to catch errors and inconsistencies that ordinary grammar and spelling checks miss. The idea is to extend the reach of editorial expertise while leaving the final decisions to professional editors throughout."
+        },
+        {
+          "t": "p",
+          "x": "Unlike general-purpose writing tools, Eden is built for what publishing proofreading actually requires: catching errors that take knowledge of the subject matter, not just grammar, to spot. In early trials with professional proofreaders, 80-90% of Eden's suggestions were adopted, and proofreading was about 3x faster than when done by a person alone."
+        },
+        {
+          "t": "p",
+          "x": "Greg Suprock, head of solution architecture, said: “Any proofreader knows how much work stays invisible to the author until a mistake slips through. I've watched editors carry that pressure for years, and Eden is the first product that actually lightens that load. The day has come when an AI language model can boost a proofreader's capabilities and raise author satisfaction too.”"
+        },
+        {
+          "t": "p",
+          "x": "Eden leaves control with the human editor from start to finish. It doesn't replace proofreaders or subject-matter experts; instead, it surfaces suggestions and leaves it to them to accept, revise, or discard each one. The company says this design is behind the high adoption rate for its suggestions."
+        },
+        {
+          "t": "p",
+          "x": "CEO Pardha Karamsetty said, “The future of publishing isn't about AI replacing human expertise, but about what becomes possible when the two work together,” adding, “With Eden, we're building a new proofreading model that adds the judgment and experience of professional editors to the speed and scale of AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Eden will be on view at the Apex CoVantage booth (H70) at the Frankfurt Book Fair from October 7 to 11. On-site or online demos can be requested through the company's website."
+        }
+      ]
+    },
+    "books/books-sudowrite-opus55-gpt6-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It was a busy day for the AI industry. Anthropic's Claude Opus 5.5, along with OpenAI's GPT-6 Sol and GPT-6 Luna, all launched on the same day, and all three are now available in Sudowrite."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5 is the first model released from Anthropic's new Claude 5.5 lineup. Anthropic says it matches Fable 5.1-level performance on most tasks while running more than 30% faster than Opus 5. The company says its prose is clearer and it follows instructions better; one early tester said, “It writes the way I write.”"
+        },
+        {
+          "t": "p",
+          "x": "GPT-6 Sol and GPT-6 Luna fill the tier below Astra in OpenAI's GPT-6 lineup. Sol is sharp and makes about half as many factual mistakes as the previous model, which makes it good for sticking closely to a Story Bible, and it also works well for the plugin. Luna is fast and cheap, suited to running many attempts or dumping out ideas to sort through later."
+        },
+        {
+          "t": "p",
+          "x": "All three models use fewer credits than their predecessors. In an early comparison running the same paragraph with the same input, GPT-6 Sol was about 40% cheaper than GPT-5.6 Sol, and GPT-6 Luna was about 10% cheaper than GPT-5.6 Luna. Opus 5.5 was only slightly cheaper than Opus 5."
+        },
+        {
+          "t": "p",
+          "x": "The gap between the models is large. Sol's credit cost is about a third of Opus 5.5's, and Luna's is about a seventh."
+        },
+        {
+          "t": "p",
+          "x": "That's a lot of numbers for a writing service. In the end, what matters is whether you like the prose these models produce. All three models are now available in Write, Draft, and the plugin."
+        }
+      ]
+    },
+    "books/books-kenya-ai-textbook-alarm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/d8UfxHh7UAF3aj9kyHetJaIhNIBrWsKxbS8M5PgV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kenyan publishers have voiced concern as AI use grows among authors writing textbooks and learning materials. The warning is that machine-generated content could harm the authenticity and quality of the books students read."
+        },
+        {
+          "t": "p",
+          "x": "Publishers say a growing number of authors are submitting content produced with AI tools. In response, they are tightening editorial review and training editors to identify AI-generated writing."
+        },
+        {
+          "t": "p",
+          "x": "Henry Mogoba, a director at the Kenya Publishers Association, said AI use has spread beyond creative writing into educational publishing. He said, “There are lazy authors who use AI to generate information and put it even into textbooks, and they're very easy to spot.”"
+        },
+        {
+          "t": "p",
+          "x": "The warning comes ahead of the 27th Nairobi International Book Fair, an annual event where publishers, authors, booksellers, and readers gather to showcase books and discuss industry trends."
+        },
+        {
+          "t": "p",
+          "x": "Mogoba said he is especially concerned about authors who use AI not just for research or brainstorming but to produce the creative work itself. “Using AI for research or to get ideas isn't a problem. But how can AI tell the story of our village?”"
+        },
+        {
+          "t": "p",
+          "x": "He said some authors have recently been disqualified over AI use, adding, “A lot of writers have been dropped over this issue.” He also asked how AI could possibly create real characters like a Kenyan, a Mijikenda person, or someone from central Kenya."
+        },
+        {
+          "t": "p",
+          "x": "Publishers are working with editors to keep AI-made books out of the market. Mogoba said, “There's a lot being lost to AI. We advise authors not to use it.”"
+        },
+        {
+          "t": "p",
+          "x": "Textbooks must be not only original but also accurate and suitable for students. Publishers are grappling with where to draw the line between using AI as a tool and handing an author's work over to it."
+        }
+      ]
+    },
+    "books/books-mvb-snackz-metadata": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is one line from Carlo Carrenho's weekly roundup of publishing news at Publishing Perspectives. Germany's MVB is adding Snackz's AI tool to its own system. The tool takes a manuscript or book proposal and generates categories, keywords, and SEO copy. It was first reported by the German trade publication Börsenblatt."
+        }
+      ]
+    },
+    "books/books-ai-secrecy-authors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Robot_hand_typingC_Shutterstock.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Author and editor Madeline F. White wrote a column for The Bookseller. In her view, the way publishing currently treats AI is pushing authors toward secrecy."
+        },
+        {
+          "t": "p",
+          "x": "If the industry wants AI use to be transparent, she argues, it must first make honesty safer than hiding it."
+        },
+        {
+          "t": "p",
+          "x": "White is a poet, author and editor born in Germany with roots in Canada and the UK. Her debut novel, Mother Of Floods, was published by Crowsnest Books, and her new novel, No One, will be published by Constellations Press in 2027."
+        }
+      ]
+    },
+    "books/books-soundgrab-cinema-audiobook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.a81bb6dd9c1b489896bd1871866eb7da_P1.png",
+          "cap": "Hybrid Cinema Audiobook logo"
+        },
+        {
+          "t": "p",
+          "x": "Audio post-production studio SoundGrab and AI voice company VoiceGrab announced on the 22nd that they are launching the 'Hybrid Cinema Audiobook,' a format that blends Hollywood-level sound mixing with AI voices."
+        },
+        {
+          "t": "p",
+          "x": "The audiobook market is growing fast, but for publishers, hiring multiple voice actors raises production costs and stretches schedules. Listeners, meanwhile, want sound that is more dramatic than a plain reading."
+        },
+        {
+          "t": "p",
+          "x": "SoundGrab oversaw production of the audiobooks for Jung Hae-yeon's thriller 'I Killed Her' and Keigo Higashino's 'The Transparent Spiral,' both released on Millie's Library. It heightened immersion with layered sound effects, original scene-by-scene scores, and vocal processing that preserved the actors' nuance. This new product is the result of the know-how built up through that work."
+        },
+        {
+          "t": "p",
+          "x": "The company also brought in staff who worked as re-recording engineers on films and major media content in the United States. By applying the loudness standards and spatial surround mixing used in film and OTT production, it says listeners get sound that feels like sitting in the middle of a theater even with just earphones."
+        },
+        {
+          "t": "p",
+          "x": "The key is division of labor. Professional voice actors handle the main characters where emotional performance matters, while VoiceGrab's custom AI voices read the lengthy stage directions and narration. Publishers were able to cut production costs by more than 50% and halve production time compared with using multiple voice actors."
+        },
+        {
+          "t": "p",
+          "x": "This fall, the two companies are expanding B2B partnerships with genre publishers of mystery, thriller and romance fantasy as well as major publishing houses. They also plan to help extend publishing IP into webtoon trailers, web novels, short-form drama, and audio storyboards made before any screen adaptation. SoundGrab is based at the Pangyo Virtual Fusion Industry Hub, a project led by the Ministry of Science and ICT and NIPA."
+        }
+      ]
+    },
+    "books/books-translator-ai-post-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mediatoday.co.kr/news/photo/202609/337377_483867_243.jpg",
+          "cap": "Translator Noh Seung-young presents at a discussion at the National Assembly Library's International Strategic Information Center on September 17. Photo: reporter Kim Ye-ri"
+        },
+        {
+          "t": "p",
+          "x": "Translator Noh Seung-young spoke on the 17th as a presenter at an expert discussion titled Translation in the Age of Artificial Intelligence: Reading Meaning Across Language Borders, held at the National Assembly Library's International Strategic Information Center. He said, “Artificial-intelligence machine translation is not sustainable in the short term. Human intervention is needed.” Now in his 21st year as a translator, he won the 2024 Korea Publishing Culture Award for translation for his rendering of Suji Sihi's The Substance of All Things."
+        },
+        {
+          "t": "p",
+          "x": "Interpretation and translation is seen as a field heavily affected by AI. In a report analyzing Copilot user data, Microsoft named interpreters and translators as the occupation most open to AI application. In practice, MTPE (machine translation post-editing), where people refine machine-translated output, is spreading quickly. One major U.S. news outlet, when hiring a Korean translator, looked not for someone to translate articles directly but for someone to adapt machine-translated drafts to fit the Korean context."
+        },
+        {
+          "t": "p",
+          "x": "Has that made the work easier? His answer is the opposite. In the past, easy and difficult sentences were mixed together, but editing and checking machine-translated output requires staying on edge the whole time. To earn what he used to earn, he now has to work longer hours. He described this as “a human adjusting to the speed of AI, a human becoming a tool of the machine.”"
+        },
+        {
+          "t": "p",
+          "x": "He named the limits of AI translation as its difficulty producing above-average translation and keeping up with language that is always changing, such as new coinages. Machine translation chases the average, he said, while people chase excellence. He also warned that if AI pushes people out and machine-translated material fills the market, AI will end up learning from that material again, degrading information over time — what he called the “ouroboros trap,” after the snake that eats its own tail."
+        },
+        {
+          "t": "p",
+          "x": "He sees translation less as code-breaking and more as restoring intent. He cited the sentence “Love is happiness” as an example. If he imagined that sentence as something translated from Korean, he said he would have rendered it as “to love is to be happy,” adding, “I want to believe AI still can't translate that way.”"
+        }
+      ]
+    },
+    "books/books-grandmaslop-ai-storybooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As tools like Gemini, Claude and ChatGPT became something anyone can use, a new term emerged: “grandmaslop.” It describes grandparents turning photos of their grandchildren into AI versions to fill family albums and send to their children. Generational lines are sharp on the use of generative AI in family photos."
+        },
+        {
+          "t": "p",
+          "x": "One Reddit user wrote, “I'm Gen X, and my Boomer mom made an entire AI book for my two kids. It was bizarre.” Others asked that if a photo is a way to preserve a moment as a memory, what exactly is an AI image depicting a moment that never happened."
+        },
+        {
+          "t": "p",
+          "x": "As the tools got easier, grandparents began making entire storybooks starring their grandchildren and emailing them to their children. Complaints followed: “The books are terrible. It's all the same AI slop cartoon style, the stories don't make sense, and the rhymes don't even rhyme.” Some pointed out that books meant to rhyme contained words that didn't rhyme at all."
+        },
+        {
+          "t": "p",
+          "x": "Things look different at work. According to a Randstad report, 50% of Millennials use AI on the job, ahead of Boomers (19%) and Gen X (34%). Yet when it comes to their own children, they seem to want AI left out."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/n8CZCZFtGvzzrDJXRnWVFD.jpg",
+          "cap": "Image credit: Shutterstock / Studio Romantic"
+        },
+        {
+          "t": "p",
+          "x": "The Reddit thread quickly turned into complaints about grandparents who don't put in effort for their grandchildren. The author argues that the backlash against grandmaslop may reveal less about AI itself than about economic and cultural generational tension. An AI picture of a grandchild riding a dinosaur is harmless enough, and some kids would love it. But when grandparents who barely show their faces send an AI storybook instead, it can look like just another shortcut. The real issue is that generative AI has made it possible to fake the effort parents want their children to actually receive."
+        }
+      ]
+    },
+    "books/books-demarque-elevenlabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131766-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "De Marque, a distributor in Quebec, Canada, has enabled publishers using its digital service bundle Cantook to release audiobooks with the AI voice company ElevenLabs. The process runs through ElevenLabs' platform, ElevenReader."
+        },
+        {
+          "t": "p",
+          "x": "Cantook's catalog spans 1.8 million titles in languages including English and Spanish. Publishers choose the books they want and let ElevenReader's automated narration handle them, letting them release more audiobooks."
+        },
+        {
+          "t": "p",
+          "x": "According to the announcement, the partnership aims to narrow the 'chronic gap' between English-language and non-English audio publishing. Public figures show U.S. publishers have released more than 750,000 audiobook titles, while French publishers have produced only about 20,000. ElevenReader now supports more than 90 languages, including French, English, Spanish and Portuguese."
+        },
+        {
+          "t": "p",
+          "x": "Marc Boutet, president of De Marque, said the publishers he works with have been asking about audio for years, adding, 'The honest answer was always the same: most of the catalog didn't pencil out financially.'"
+        },
+        {
+          "t": "p",
+          "x": "De Marque has said it uses AI tools to lower the barriers to digital reading. It has also partnered with the e-commerce platform Supadu to help client publishers build stores that sell directly to readers. At the time, Boutet explained the move was meant to reduce the 'technical and commercial obstacles' publishers face."
+        },
+        {
+          "t": "p",
+          "x": "Publishers choose whether to take part. Participating titles can be heard on ElevenReader's subscription listening app."
+        }
+      ]
+    },
+    "books/books-bisg-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/131/131772-v1-600x.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Organizational AI use in North American publishing has risen sharply over the past year. Personal use has actually declined. That's according to the second annual AI report from the Book Industry Study Group (BISG) and BookNet Canada."
+        },
+        {
+          "t": "p",
+          "x": "A survey of 771 people working in publishing found that organizational AI use at publishers jumped from 48% to 63%. Personal use fell from 46% in 2025 to 38% now."
+        },
+        {
+          "t": "p",
+          "x": "The industry appears to be splitting along a clear fault line. Publishers are bringing in AI with policies and controlled workflows, tightening governance as they go. The individuals doing the work, meanwhile, are stepping back and approaching it cautiously."
+        },
+        {
+          "t": "p",
+          "x": "BISG Executive Director Alison Belan said in the report, 'The conversation around AI in publishing is becoming much more nuanced and practical.' 'Organizations are weighing where these tools actually create value, while placing more emphasis on policy, controlled workflows and risk management. These results make clearer where the industry stands right now, on both the organizational and individual sides, and where more guidance and shared learning are needed.'"
+        },
+        {
+          "t": "p",
+          "x": "Of respondents who use AI, 72% said it improved efficiency or productivity. The most common uses were administrative and operational tasks (46% personal, 56% organizational) and marketing (44% personal, 54% organizational). Organizations were more likely to use AI for data analysis and reporting, at 41%, compared with 36% for individuals."
+        },
+        {
+          "t": "p",
+          "x": "The biggest concerns cited were the lack of safeguards governing the use of copyrighted material, inaccuracy in AI-generated content, and the flood of fraudulent or low-quality AI books on major distribution platforms."
+        },
+        {
+          "t": "p",
+          "x": "Full adoption is met with caution. Just 33% of respondents agreed that the industry should adapt to new technology and embrace AI carefully. Even short of adoption, 79% agreed that AI's changes need to keep being watched closely. Caution runs ahead of excitement."
+        }
+      ]
+    },
+    "books/books-ai-label-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503377.webp",
+          "cap": "Hong Young-wan, chairman of the Korean Publishers Association, announcing the 'AI Use Principles for Publishers and Authors, for Readers' on the 29th (far right)"
+        },
+        {
+          "t": "p",
+          "x": "Voices in the publishing industry have called for actively adopting a labeling system that discloses how much AI was used in publications such as print books, e-books and audiobooks. If an 'AI publication labeling system' is introduced, authors would also tell publishers which AI they used in a manuscript and how much, and that would be written into the contract."
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishers Association held a forum titled 'Publishing-AI Policy Forum: Beyond Crisis to Coexistence' on the 29th at Mapo Central Library in Seoul. Park Jeong-in, a professor at Duksung Women's University who gave the keynote, proposed dividing publications into human works, AI-assisted works and AI-generated publications, and labeling how much human control and verification went into each. According to Park's July survey of 188 domestic publishers, 76.1% had piloted or were already using generative AI in their work. 85.1% said an AI publication identification system was 'necessary or partly necessary.'"
+        },
+        {
+          "t": "p",
+          "x": "Under the proposal, AI-assisted and AI-generated publications, aside from purely human works, would note on the copyright page and elsewhere how much human control and verification went in. Authors would disclose which AI tools they used and how much they shaped the core content, and publishers would agree with authors on the scope of AI use and record it in the contract. The industry sees the system not as a stigma, but as a way to give readers information to judge by and to establish a path for responsibility and correction if problems arise."
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503378.jpg",
+          "cap": "The Publishing-AI Policy Forum held on the 29th at Mapo Central Library in Seoul"
+        },
+        {
+          "t": "p",
+          "x": "Kim Bo-kyung, chair of the policy committee (and head of Jiwain), said the three-tier labeling system is a way for the publishing industry to take the lead in addressing the proliferation of so-called 'one-click books' and the erosion of reader trust, and that it also gives publishers leverage in data contracts with AI companies. Ryu Young-ho, a department head at Kyobo Book Centre, said disclosure alone won't build trust, and called for a process to verify who reviewed what, and to what extent."
+        },
+        {
+          "t": "p",
+          "x": "Translator Hong Han-byul said, 'For translation, the three-tier system may not fit,' adding, 'You can't say a sickle cut some percentage of the rice just because a farmer used it to cut the rice.' That day, 12 groups including the Korean Publishers Association and the Korean Writers' Association released the 'AI Use Principles for Publishers and Authors,' which included the clause that 'AI is used only as a tool and does not hold the status of author or co-author.'"
+        }
+      ]
+    },
+    "books/books-mentat-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212776_323.png",
+          "cap": "Jeon Byung-wook, CEO of Mentat"
+        },
+        {
+          "t": "p",
+          "x": "In an age when AI absorbs the world's knowledge and produces answers, the sense of crisis in the publishing and academic content industry is higher than ever. The print book market is shrinking, even as concerns grow that content will be eroded by Big Tech's unauthorized scraping and data collection with no clear standards."
+        },
+        {
+          "t": "p",
+          "x": "Jeon Byung-wook, CEO of AI book licensing company Mentat, sees this moment as a turning point where a new knowledge distribution market is opening up. He founded the company in 2025, driven by the view that Korean publishers struggle to negotiate with global AI companies on their own. Mentat has signed contracts with more than 80 publishers, securing about 34,000 titles, and has also struck a licensing deal worth 10 billion won with a global tech giant."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212779_840.png",
+          "cap": "The nameplate at Mentat's headquarters in Mapo-gu, Seoul"
+        },
+        {
+          "t": "p",
+          "x": "The core idea is separating use cases. Mentat splits usage into 'training,' 'citation' and 'reference' and settles payment differently for each. Training, whose usage can't be measured, is billed as a flat fee limited by period and model family; reference and citation, where the original text is pulled up at answer time, are logged and billed under a usage-based, token-consumption model. Jeon said, 'Global AI companies' purchases of training data will likely hit a ceiling within the next three years,' and said inference and RAG (retrieval-augmented generation) will be the core going forward."
+        },
+        {
+          "t": "p",
+          "x": "Just as music streaming settles payments per 'stream,' Mentat has introduced a 'won/MT' framework priced per million tokens. It has built a three-layer infrastructure: conversion that turns publishing files into AI-readable text, a registry that blocks unauthorized extraction of the original text, and tamper-proof usage aggregation."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212777_450.jpg",
+          "cap": "CEO Jeon Byung-wook (left) and CDO Kwon Hyuk-geon"
+        },
+        {
+          "t": "p",
+          "x": "If a publisher hands its data over to an AI company wholesale, there's no way to know how much of it is actually used. Through Mentat's API gateway, publishers keep control over their copyrights while checking in real time, via a dashboard, how much their data was cited in which questions, and get paid accordingly. Jeon said participation from specialized books such as college textbooks and reference books is urgently needed."
+        }
+      ]
+    },
+    "books/books-tanapaev-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.err.ee/photo/crop/2025/11/16/3090399h65b9t24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tauno Vahter, editor-in-chief at Estonian publisher Tänapäev, told ERR that AI-written creative manuscripts are still rare, but AI has already made its way into translation and illustration."
+        },
+        {
+          "t": "p",
+          "x": "Manuscripts are usually submitted to several publishers at once, and he believes few of those are AI-written. 'AI has advanced a lot, but there's still no program that can produce ten printer's sheets' worth of a book that you'd keep wanting to read with interest if you asked it to write one. It can write short pieces.'"
+        },
+        {
+          "t": "p",
+          "x": "Abroad, there have been cases where publishers recalled books or canceled publication after deciding they were AI-written. Haitian-Canadian-French author Télisma Aurélien recently became the center of such a controversy. When his book, a Goncourt Prize nominee, was run through detection software, it came back '100% AI.' The author denied it, and some publishers that had begun translating the book stopped work. Vahter personally doubts that it was AI-written."
+        },
+        {
+          "t": "p",
+          "x": "Illustration is a different story. AI showed up first in cover design, and it's used quite a bit in Estonian book production too. These days, plenty of AI-made children's book illustrations are appearing. 'It's cheaper and faster. In principle, a whole book's worth of illustrations can be produced in a few hours. The temptation will be great.' He said AI quality might even surpass some illustrators, and that he's not sure anyone will still be able to recognize AI images five years from now."
+        },
+        {
+          "t": "p",
+          "x": "In translation, it's already a reality. Running the whole text through translation memory at once and then checking it carefully poses no problem. But cases of skimming the review are increasing. In Finland, about four-fifths of books are reportedly already translated this way. Last year, Finland saw its first cases of entire long fantasy novels translated by AI, and the answer from a sizable publisher was, 'Translation is too expensive!' 'AI will probably change translation and illustration first.'"
+        },
+        {
+          "t": "p",
+          "x": "He stressed that AI will eventually reach creative manuscripts too, but hasn't gone deep there yet. He himself uses AI every day, for spell-checking and for gauging manuscripts that arrive in languages he doesn't know, like Portuguese or Italian."
+        }
+      ]
+    }
+  }
+}

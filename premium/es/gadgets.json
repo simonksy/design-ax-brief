@@ -1,0 +1,1204 @@
+{
+  "cards": {
+    "gadgets/gadgets-nanoleaf-mcp-lights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
+          "cap": "Paneles de pared Nanoleaf"
+        },
+        {
+          "t": "p",
+          "x": "Si has instalado varias luces inteligentes en casa, probablemente estés acostumbrado a decir comandos fijos en voz alta. Frases como “apaga la luz del dormitorio” o “baja las luces al 50%” son fáciles de memorizar, pero están lejos de cómo habla la gente normalmente. Nanoleaf se propuso resolver este problema."
+        },
+        {
+          "t": "p",
+          "x": "La empresa, con sede en Toronto, anunció hoy el lanzamiento de un servidor MCP. Los usuarios pueden conectar las luces inteligentes de Nanoleaf a asistentes de IA como ChatGPT y Claude para controlarlas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/nanoleaf-mcp-server-image.jpg",
+          "cap": "Servidor MCP de Nanoleaf"
+        },
+        {
+          "t": "p",
+          "x": "Con Nanoleaf MCP se pueden manejar las luces con lenguaje natural, sin necesidad de abrir una app de hogar inteligente aparte. Si dices “make my room feel like sunset”, Claude o ChatGPT elige con precisión los colores que encajan con ese ambiente de atardecer y los envía a las luces."
+        },
+        {
+          "t": "p",
+          "x": "El servidor MCP también abre la puerta a que las luces reaccionen a información en tiempo real, como el clima. Así se puede crear un ambiente lumínico que cambia a lo largo del día: acogedor durante una tormenta, brillante y animado en un día soleado."
+        },
+        {
+          "t": "p",
+          "x": "Las integraciones de un clic para asistentes de IA como ChatGPT y Claude llegan en octubre. Basta con añadir la integración al asistente que uses para controlar las luces de Nanoleaf de inmediato. Las herramientas MCP para desarrolladores y las guías ya están disponibles desde hoy en el sitio web de Nanoleaf, para crear rutinas personalizadas, conectar APIs de actualización en tiempo real y más."
+        },
+        {
+          "t": "p",
+          "x": "Es una idea agradable: deshacerse de varias apps de iluminación y manejar las luces de casa con ChatGPT o Claude. Solo queda esperar que la integración entienda lo que se quiere aunque se describan el clima y el estado de ánimo de forma desordenada."
+        }
+      ]
+    },
+    "gadgets/gadgets-freckle-kids-phone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sJHMAjnRb9DhtWJJYEm4N3.jpg",
+          "cap": "El Freckle Phone (Imagen: Freckle Phone)"
+        },
+        {
+          "t": "p",
+          "x": "Antes de los teléfonos móviles, los niños iban solos a casa de un amigo y recorrían el arroyo del barrio. Los investigadores creen que la pérdida de ese tipo de autonomía es una de las principales razones del aumento de la ansiedad y la depresión infantil. Sam Terris, creador del Freckle Phone, también creció así, y su respuesta, paradójicamente, es otro teléfono más. Terris lo describe diciendo que es el primer teléfono para niños que fomenta la aventura en el mundo real."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo cuadrado, de unas 3x3 pulgadas y 0,61 pulgadas de grosor, se lleva puesto en el cuerpo. Es un dispositivo 5G que usa la red móvil de Freckle, por lo que tiene número de teléfono, y envía mensajes y hace llamadas solo a los números que aprueban los padres. También tiene dos cámaras, una de 12 millones de píxeles y otra de 5 millones de píxeles, además de micrófono y altavoz. Ahí terminan las similitudes. El sistema operativo basado en Android no permite descargar aplicaciones ni acceder a internet. En su lugar hay herramientas para explorar al aire libre y funciones de IA como Quest, Chat (preguntar a la IA o enviar preguntas difíciles a los padres), Mapa, Walkie-Talkie y Personajes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZJGV77GJyiGNrfn7dWa4R3.jpg",
+          "cap": "Imagen: Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "La IA integrada combina Gemini con modelos locales pequeños. Cuando un niño hace una pregunta o fotografía una planta, un animal o un objeto cercano, se lo explica al instante. Al juntar dos dispositivos por NFC se activa el modo walkie-talkie, y también permite pagos sin contacto a través de una billetera que los padres han recargado. Al final del día, se acumulan Artefactos en la mochila del personaje en pantalla: cosas captadas con la cámara de curiosidad, lugares visitados, historias creadas juntos e insignias ganadas, reunidas como recuerdos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZjkBPhdrosoSeRbAxyW673.jpg",
+          "cap": "Imagen: Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "Los precios comienzan en 199 dólares para el modelo con 4GB de RAM y 64GB de almacenamiento, con una tarifa de servicio de 25 dólares al mes. Viene en verde, azul y naranja quemado, con una correa para el hombro, y tiene certificación IP54, por lo que resiste la lluvia. El periodista de TechRadar que cubrió el dispositivo sugirió que podría terminar siendo otro gadget de IA portátil más. Al preguntarle cómo evita el destino de Humane y el Rabbit R1, Terris respondió que esos productos anteriores no tenían una necesidad clara ni un uso evidente. Según él, Freckle ofrece la utilidad básica de mantenerse en contacto junto con la experiencia de exploración."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRBeZARQXs3ewYz7YweeL3.jpg",
+          "cap": "Imagen: Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "El Freckle Phone se lanza en Estados Unidos en diciembre. Terris dijo que tiene unas 1.000 funciones nuevas guardadas y planea lanzar nuevas funciones cada pocas semanas. Olympia, hija del inversor Alexis Ohanian, participa como probadora beta."
+        }
+      ]
+    },
+    "gadgets/gadgets-peloton-tread-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EwHeYVQhRYuaoMguHX6xNW.jpg",
+          "cap": "Peloton Tread Vision"
+        },
+        {
+          "t": "p",
+          "x": "Peloton lanzará tres cintas de correr a partir del 1 de octubre: la Tread Flex, la Tread Vision y la Tread Vision Plus. La Tread Flex, a 2.195 dólares, es el producto más barato de Peloton y la primera cinta plegable de la empresa. Llegará fuera de Estados Unidos en la primavera de 2027. El director de producto, Nick Caldwell, explicó que ocupa el 46% del espacio de la plataforma base de la Tread Vision y que es muy silenciosa."
+        },
+        {
+          "t": "p",
+          "x": "Una nueva función de software llamada ‘ReRun’ extrae los cambios de altitud de rutas reales y los recrea como inclinaciones en la cinta. Incluye de base un recorrido de la Maratón de Nueva York dividido en cinco tramos, y también se puede subir un archivo GPX de una carrera al aire libre para recrearlo exactamente."
+        },
+        {
+          "t": "p",
+          "x": "La Tread Vision es el modelo con IA de Peloton, desde 3.495 dólares. Tiene una nueva amortiguación y un botón de salto, pero lo central es su ‘cámara de seguimiento de movimiento’. Caldwell dijo: “We've created a new form feedback system for runners”. La cámara cuenta los pasos y la cadencia mediante el desplazamiento vertical, e indica si la forma es correcta y si la eficiencia al correr está en su punto máximo. Combina métricas como la oscilación vertical en una puntuación de eficiencia de carrera y ofrece retroalimentación de IA personalizada. Caldwell dio a entender que es más precisa que métricas similares de dispositivos portátiles como Garmin."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yBdM5yfzt4454YAHEPHqQN.jpg",
+          "cap": "Análisis de carrera de la Tread Vision"
+        },
+        {
+          "t": "p",
+          "x": "La Tread+ Vision, de 6.695 dólares, incorpora ‘Sled Mode’, un ejercicio de empuje de trineo al estilo Hyrox. Todas las cintas incluyen funciones de Peloton IQ como ReRun y el IQ Pace Target, que usa IA para calcular tiempos objetivo por tramo, y también están disponibles en modelos anteriores. La directora de marketing, Megan Imbres, dijo: “The only thing that is gated is the Run Analysis because it uses that Computer Vision camera”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YRAk2ZfvBzpBY6fpycEo3o.jpg",
+          "cap": "Cinta de correr de Peloton"
+        },
+        {
+          "t": "p",
+          "x": "Un periodista de TechRadar corrió 10 minutos en la Tread Vision en la sede de Londres. Introducir la altura y configurar la cámara para captar una postura erguida no tomó mucho tiempo. El resultado fue una puntuación de eficiencia de carrera de 66, junto con un consejo bastante útil para corregir la oscilación vertical. El periodista consideró que la precisión mejoraría con una carrera más larga."
+        }
+      ]
+    },
+    "gadgets/gadgets-yansyn-crying-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/intro-1790191546.jpg",
+          "cap": "Un robot que imita emociones, entre el consuelo y lo inquietante"
+        },
+        {
+          "t": "p",
+          "x": "Los humanoides ya pueden mantener conversaciones, bailar y copiar las expresiones humanas con una precisión escalofriante. Ahora se suma el Yanxin-X2: algo que ningún dispositivo de consumo había logrado hasta ahora, un robot que llora si se le pide. En un video de la Conferencia Inclusion 2026 en Shanghái, un presentador pregunta: “Can you shed tears for me?”. Unos segundos después, una lágrima recorre el rostro del robot."
+        },
+        {
+          "t": "p",
+          "x": "No es solo un espectáculo. Detrás de ese conducto lagrimal está la computación afectiva, un campo de investigación muy activo en robótica: el área que busca que las máquinas reconozcan, interpreten y respondan a las emociones humanas. El objetivo no es hacer creer que el robot está realmente triste, sino que la interacción entre personas y robots resulte más natural. Aun así, una máquina con lágrimas se planta justo en medio del valle inquietante."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-crying-robot-engineering-emotion-1790191547.jpg",
+          "cap": "Un robot llorón diseñado para la emoción"
+        },
+        {
+          "t": "p",
+          "x": "El Yanxin-X2 fue creado por Yanxi Technology, una empresa china de robótica con sede en Ningbo. Según la compañía, funciona en tres etapas. Primero, un algoritmo de IA analiza el contexto y el tono de la conversación para identificar los momentos que requieren una respuesta emocional. Cuando detecta un lenguaje triste o empático, envía una señal a componentes biomiméticos bajo un rostro de silicona de grado médico para cambiar la expresión a tristeza. Por último, un dispositivo microfluídico independiente libera ‘lágrimas’ cerca de los ojos."
+        },
+        {
+          "t": "p",
+          "x": "La versión actual es un modelo fijo que no puede caminar. En su lugar, gira la cabeza, sigue a las personas con la mirada y gesticula con los brazos. A futuro, la empresa planea sustituir los servomotores por músculos biomiméticos para lograr expresiones más fluidas y variadas. Un estudio de 2023 publicado en Frontiers encontró que los robots cuyas expresiones encajaban con la emoción de la conversación resultaban más agradables, confiables y humanos que los robots sin expresión o con expresiones desacopladas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-fast-growing-robotics-landscape-1790191548.jpg",
+          "cap": "El paisaje de la robótica, en rápido crecimiento"
+        },
+        {
+          "t": "p",
+          "x": "El Yanxin-X2 no es el único que destaca. En el CES 2026 aparecieron el CLOiD de LG, que dobla ropa, y el Onero H1 de SwitchBot, que carga la ropa en la lavadora. En los Juegos Mundiales de Robots Humanoides en Pekín, el Tiangong Ultra corrió 100 metros en 9,39 segundos. El NEO de 1X, de 20.000 dólares, se propone aprender tareas domésticas. La industria está impulsando a la vez la velocidad, la destreza, la utilidad y, ahora, la credibilidad emocional."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-callforme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-canyon.jpg?quality=82&strip=all&resize=1200,628",
+          "cap": "Pixel 11 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Google está añadiendo 'Call for Me' a la serie Pixel 11. Es una función de llamadas que sigue a Direct My Call y Hold for Me."
+        },
+        {
+          "t": "p",
+          "x": "Esta función de Gemini Intelligence, que recuerda a Google Duplex, es oficialmente un “experimento inicial”. Google realiza “llamadas cotidianas” en tu nombre, como hacer una reserva, apartar un producto o cambiar la hora de una cita."
+        },
+        {
+          "t": "p",
+          "x": "Los ejemplos que da Google: reservar una mesa en la terraza de un restaurante, comprobar si una ferretería tiene en stock una pieza concreta y cambiar una cita de peluquería al jueves de la próxima semana."
+        },
+        {
+          "t": "p",
+          "x": "Google dijo que “respetará el tiempo de los comercios locales y del personal de recepción que atiende el teléfono”. También explicó que “cuando Gemini llama en tu nombre, es un cliente real haciendo una transacción real”."
+        },
+        {
+          "t": "p",
+          "x": "Google añadió: “dejar que la IA hable en tu nombre es un paso grande que exige confianza real. Por eso diseñamos esta experiencia con el control del usuario en el centro”."
+        },
+        {
+          "t": "p",
+          "x": "Las llamadas se realizan a través de la app de Gemini. El usuario puede ver una transcripción en tiempo real e intervenir en la llamada en cualquier momento. Gemini se presenta primero y continúa la conversación, espera en espera y navega por los menús automáticos cuando es necesario."
+        },
+        {
+          "t": "p",
+          "x": "Google dijo que “empieza en pequeño para perfeccionar la experiencia”. A partir de hoy, una vista previa inicial llega en Estados Unidos a los suscriptores de Gemini que usan el Pixel 11, 11 Pro, 11 Pro XL o 11 Pro Fold y están inscritos en la beta de Phone by Google."
+        }
+      ]
+    },
+    "gadgets/gadgets-create-my-widget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+          "cap": "Ficha de Create My Widget en la Play Store"
+        },
+        {
+          "t": "p",
+          "x": "Google publicó la app Create My Widget en la Play Store. Las capturas de la ficha muestran directamente las categorías de widgets y las plantillas que la app admitirá, además de su aspecto en teléfonos Android y portátiles Googlebook."
+        },
+        {
+          "t": "p",
+          "x": "Google adelantó Create My Widget justo antes de I/O 2026, con la promesa de permitir crear widgets a medida de las necesidades de cada usuario. Tras meses sin noticias, esta ficha le da por fin forma concreta."
+        },
+        {
+          "t": "p",
+          "x": "La ficha, descubierta primero por 9to5Google, incluye varias capturas de la interfaz tanto para teléfonos Android como para portátiles Googlebook. Basta describir el widget deseado en lenguaje natural para que Gemini se encargue del resto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-1.jpg",
+          "cap": "Pantalla para crear un widget con lenguaje natural"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-3.jpg",
+          "cap": "Ideas de widgets por categoría"
+        },
+        {
+          "t": "p",
+          "x": "La app muestra primero categorías como widgets combinados, fechas importantes, avisos del tiempo y resúmenes diarios. Cada categoría incluye varias ideas de widgets como punto de partida. El widget creado puede editarse y pulirse antes de colocarlo en la pantalla de inicio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-5.jpg",
+          "cap": "Pantalla en un portátil Googlebook"
+        },
+        {
+          "t": "p",
+          "x": "En los portátiles Googlebook podrían añadirse categorías como eventos y viajes, hábitos diarios, y herramientas y consejos. El proceso de creación es el mismo: ajustar un preajuste o describir lo que se quiere, y Gemini se encarga del trabajo pesado."
+        },
+        {
+          "t": "p",
+          "x": "La versión publicada en la Play Store es “1.27.983746769.0-desktop_release”, lo que parece una preparación para los portátiles Googlebook que saldrán pronto."
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-copilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+          "cap": "Espacio de demostración de Copilot+ PC en el campus de Microsoft en Redmond, mayo de 2024. Foto: Chona Kasinger/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft ha vendido 'Copilot+ PCs' desde 2024, una estrategia de marketing pensada para identificar fácilmente qué equipos Windows podían ejecutar tareas de IA de forma local. Sin embargo, los nuevos PC Surface anunciados esta semana no llevan la etiqueta Copilot+ PC por ningún lado."
+        },
+        {
+          "t": "p",
+          "x": "Brett Ostrum, vicepresidente corporativo de Surface en Microsoft, dijo a Windows Central que los nuevos Surface «no se llaman Copilot+ PC», aunque cumplen todos los requisitos. «Cumplen todos los criterios que antes fijamos para un dispositivo Copilot+. Seguimos insistiendo en la idea de IA que corre en el borde, una solución híbrida»."
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos de Copilot+ PC son 16GB de RAM, 256GB de almacenamiento y una NPU de 40 TOPS o más. El Surface Pro de 12 pulgadas (2.ª generación) y el Surface Laptop de 13 pulgadas (2.ª generación), que llegan el 13 de octubre, usan el Qualcomm Snapdragon X2 Plus con una NPU Qualcomm Hexagon de 80 TOPS."
+        },
+        {
+          "t": "p",
+          "x": "Kedar Kondap, SVP de cómputo en Qualcomm, dijo algo similar a Windows Central. «El propósito de Copilot+ PC era ofrecer una experiencia de NPU, definiendo una categoría de dispositivo con criterios y métricas fijas, como una NPU de 45 TOPS. Visto así, ahora solo dejamos de usar el término, pero seguimos dando la misma experiencia»."
+        },
+        {
+          "t": "p",
+          "x": "En una página de marketing que seguía activa hasta mayo pasado, Copilot+ PC representaba «una clase de PC y laptops con IA» descrita como «las PC Windows más rápidas e inteligentes jamás hechas». Esa página de destino ahora redirige a una página de 'PC de rendimiento'. Copilot+ PC todavía se menciona ahí, pero de forma mucho menos visible."
+        },
+        {
+          "t": "p",
+          "x": "Las razones son varias. Una es el riesgo de seguridad que persiguió a la función Recall hasta el final, algo que sigue preocupando a los defensores de la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "También existe la lectura de que el marketing ya cumplió su función. Impulsó el concepto de 'PC con IA' cuando las expectativas de la IA generativa estaban en su punto más alto, y dio a la gente una razón para comprar un equipo nuevo justo cuando las ventas de PC caían tras la pandemia. En octubre de 2024, Satya Nadella dijo que los Copilot+ PC «atraían nuevos clientes», y en enero de 2025 señaló que representaron el 15% de las ventas de laptops premium en EE. UU. durante la temporada de fin de año."
+        },
+        {
+          "t": "p",
+          "x": "Dos años después, el concepto de PC con IA ha perdido fuerza. Jitesh Ubrani, de IDC, dijo a Ars Technica en enero que a los fabricantes ya les costaba sostener el mensaje de PC con IA incluso antes de que se sumara la escasez de RAM. «Con tantas opciones en la nube y una utilidad todavía limitada de la IA en el dispositivo, el interés por las PC con IA ha venido flaqueando desde hace tiempo»."
+        },
+        {
+          "t": "p",
+          "x": "Dell también eliminó este año la marca de laptops que había añadido en 2025, y las menciones a PC con IA casi desaparecieron de su línea 2026. La GPU para laptops RTX Spark de Nvidia es otro factor: Microsoft ya confirmó un 'Surface Laptop Ultra' con RTX Spark para este otoño. RTX Spark podría terminar liderando el marketing en lugar del viejo mensaje sobre una PC que corre bien Copilot."
+        }
+      ]
+    },
+    "gadgets/gadgets-blue-yeti2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg",
+          "cap": "Blue Yeti 2. Foto: Logitech"
+        },
+        {
+          "t": "p",
+          "x": "El Blue Yeti se lanzó en 2009 y se convirtió en el micrófono USB preferido por creadores, podcasters y streamers. Ocho años después de que Logitech comprara Blue Microphones, por fin llega un sucesor."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo Yeti 2 tiene un diseño más limpio y añade un sensor de proximidad 3D, reducción de ruido basada en IA y una pantalla integrada. Solo viene en dos colores, negro y blanco, desde 159.99 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Según Logitech, el sensor de proximidad del Yeti 2 rastrea el sonido en 3D y ajusta automáticamente la ganancia, el ecualizador y el patrón polar en tiempo real. Su reductor de ruido con IA filtra sonidos como el repiqueteo del teclado, los clics del ratón y el zumbido del ventilador."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/apv7UKVLn8tepST76TtRbX.jpg",
+          "cap": "Pantalla LED en color de 1.3 pulgadas. Foto: Logitech"
+        },
+        {
+          "t": "p",
+          "x": "La conexión USB que hizo popular al original se mantiene. A eso se suma un mando que facilita cambiar los ajustes al instante. La pantalla LED en color de 1.3 pulgadas muestra una mascota de Yeti en 8 bits que ofrece información y consejos."
+        },
+        {
+          "t": "p",
+          "x": "Basta girar la rueda para ajustar los parámetros o cambiar de preajuste, así que no se necesita software específico. Para un control más profundo, se conecta directamente con Logitech G Hub, lo que permite usar perfiles Blue VO!CE creados por la comunidad o subir tu propio avatar."
+        },
+        {
+          "t": "p",
+          "x": "Junto al micrófono, Logitech también lanzó equipo gaming de la línea G Pro: el ratón Pro X3 Superstrike, la alfombrilla Pro X Control, el teclado Pro X2 Rapid y los auriculares Pro X3 Lightspeed, todos diseñados con aportes de jugadores profesionales de esports."
+        },
+        {
+          "t": "p",
+          "x": "El Pro X3 Superstrike usa la tecnología HITS propia de Logitech y, según la marca, mejora la eficiencia energética en un 50 por ciento. El teclado Pro X2 Rapid incorpora interruptores magnéticos, rapid trigger, prioridad de teclas y una pantalla OLED."
+        }
+      ]
+    },
+    "gadgets/gadgets-optimus-hands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "20.000 robots Optimus por semana: esa es la meta que se propuso Tesla, y no resulta sencilla. The Information informó que el mes pasado Tesla fabricó «varios cientos por semana», tras reconvertir a comienzos de año las líneas del Model S y el Model X para Optimus."
+        },
+        {
+          "t": "p",
+          "x": "Reutilizar esas líneas termina siendo un obstáculo para la producción, empezando por el simple ajuste de las piezas. The Information lo resumió así: «la línea de Optimus es nueva, y sus piezas son mucho más pequeñas y deben encajar con mucha más precisión que las de un automóvil»."
+        },
+        {
+          "t": "p",
+          "x": "La versión actual, el Optimus 'V3', lleva en sus manos y antebrazos «más de 100 tornillos y piezas pequeñas» que, por ahora, los trabajadores deben montar a mano."
+        },
+        {
+          "t": "p",
+          "x": "Estos robots son más ligeros que la generación anterior y tienen más cámaras. Aún les falta el 'guante sensorial' en desarrollo, una pieza que permitiría cambiar solo los sensores táctiles sin reemplazar toda la mano, mejorando su durabilidad."
+        },
+        {
+          "t": "p",
+          "x": "Optimus lleva años de retraso en su cronograma. Mientras tanto, Elon Musk ha asegurado que será «el mayor producto de la historia de Tesla». Por ahora se usa internamente, en áreas limitadas y para tareas específicas: no es de uso general ni se opera a distancia."
+        },
+        {
+          "t": "p",
+          "x": "Tesla planea, al principio, alquilar los robots en lugar de venderlos, para usar los datos recogidos y mejorarlos. El problema es que antes hay que sacarlos al mundo real."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, otros fabricantes están optando por formas menos humanas. A comienzos de este mes también se supo que los reguladores chinos comenzaron a frenar las salidas a bolsa (IPO) de empresas de robots humanoides."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-camera-ai-events": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
+          "cap": "Timbres con video de Apple (Aqara), Ring y Google Nest"
+        },
+        {
+          "t": "p",
+          "x": "Hace unos años, Jennifer Pattison Tuohy, de The Verge, buscaba huevos de Pascua con sus hijos en la playa. El teléfono en su bolsillo no dejaba de sonar, pero las alertas solo decían movimiento detectado. Cuando llegó a casa, el gallinero que no había cerrado bien estaba abierto, y su border terrier ya había matado a cuatro gallinas."
+        },
+        {
+          "t": "p",
+          "x": "Si la primera alerta hubiera dicho un perro pequeño está persiguiendo a las gallinas, habría corrido a casa de inmediato. Hoy ese tipo de alerta ya es posible. Un modelo de visión y lenguaje describe en una frase lo que ve la cámara y la envía antes de que cargue el video. Ring, Google Nest, Blink, Wyze y Arlo ya ofrecen esta función, y este mes Apple también incorporó Apple Intelligence for Home a HomeKit Secure Video con iOS 27."
+        },
+        {
+          "t": "p",
+          "x": "El precio más alto es el de Apple. Ligado a los planes de iCloud+, una cámara cuesta 9.99 dólares al mes, dos cámaras 29.99 dólares, y hasta cinco cámaras 59.99 dólares. Google y Ring cobran 20 dólares al mes sin límite de cámaras, con descripciones de IA, búsqueda de video y reconocimiento facial."
+        },
+        {
+          "t": "p",
+          "x": "Tuohy comparó el Ring Wired Doorbell Pro, el Google Nest Doorbell 2K, y para Apple la Aqara Doorbell Camera G400. Las descripciones más específicas fueron las de Google y Ring. Apple a menudo se quedaba en algo como alguien camina por el patio. Google incluso identificaba qué gato era, como en un gato blanco y negro cruza el porche."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all&w=2400",
+          "cap": "Se puso una máscara de Ghostface y se paró frente a la puerta. Nest envió la alerta más útil."
+        },
+        {
+          "t": "p",
+          "x": "El reconocimiento facial fue más preciso en Ring. Apple a menudo evadía la respuesta con frases como una persona que podría ser Jennifer Pattison Tuohy, y Google confundió a la autora con la amiga de su hija casi la mitad de las veces. Apple tiene funciones propias: la unión de clips, que reconoce al mismo sujeto en varias cámaras y las enlaza en un solo video, y una función que destaca los eventos que parecen importantes sobre la barra de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "Lo que mejor resolvió el exceso de alertas fue la función Actividad inusual de Ring. Cada cámara aprende su escena habitual y solo avisa cuando algo se sale de ella. Las alertas, que antes eran unas 40 al día, bajaron a dos o tres. Se mantiene en silencio cuando su hijo vuelve de la escuela, pero avisa si entra a las 2 de la madrugada."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso es la automatización, en la que la casa actúa según lo que ve la cámara, como encender los aspersores si aparece un mapache en el patio trasero. Google Home añadió una función que activa automatizaciones a partir de alertas de cámara, pero una configuración pensada para alimentar solo a un gato específico se activaba cada vez que aparecía cualquier gato. Lo que importa es la precisión del reconocimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Como Google Home no distinguía entre los gatos, todos terminaron comiendo más."
+        },
+        {
+          "t": "p",
+          "x": "La privacidad sigue siendo un problema. Ring procesa todo el video en la nube por defecto. Con Apple Intelligence activado, los resúmenes de video se descifran y procesan en Private Cloud Compute (PCC), y Apple afirma que borra los datos de forma permanente una vez terminado el procesamiento. Tuohy cree que el procesamiento local de IA es la respuesta correcta."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, se paga la prima de Apple y se recibe menos a cambio. Pagar 10 dólares al mes por una cámara está bien, pero pagar 60 dólares al mes por cinco cámaras solo para recibir un aviso de que un gato se sentó en el porche no tiene sentido. Gracias a la IA, las cámaras ya pueden decir qué pasó. Lo que falta es que digan qué es realmente importante."
+        }
+      ]
+    },
+    "gadgets/gadgets-c2pa-android-app-ai-image-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/new-ai-apps-c2pa-verify-1.jpg",
+          "cap": "Pantalla de la app C2PA Verify"
+        },
+        {
+          "t": "p",
+          "x": "El mayor problema de la IA generativa es lo difícil que resulta distinguir lo real de lo fabricado. A medida que mejoran los modelos, incluso las personas más observadoras tienen problemas para notar la diferencia. Dado el ritmo de avance, no es probable que esto se vuelva más fácil."
+        },
+        {
+          "t": "p",
+          "x": "Una nueva app llamada C2PA Verify busca ayudar con este problema. Es una app para Android que lee las credenciales C2PA (Coalición para la Procedencia y Autenticidad del Contenido) incluidas en una imagen para mostrar de dónde viene y cómo fue editada."
+        },
+        {
+          "t": "p",
+          "x": "La app resume el registro, largo y complejo. Los usuarios pueden ver quién firmó, quién creó la imagen y su línea de tiempo, y abrir los datos originales si lo desean."
+        },
+        {
+          "t": "p",
+          "x": "Tiene límites. Las credenciales C2PA se pueden eliminar. Si una imagen tiene estos datos borrados, la app tampoco puede determinar si fue generada por IA o si es una foto real."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, Android Authority la calificó como una herramienta que vale la pena mantener en el teléfono. Es de código abierto y gratuita, desarrollada por Dark Rock Studios, creadores de la app de privacidad SnapSafe."
+        },
+        {
+          "t": "p",
+          "x": "El mismo artículo presentó otras dos apps de IA. Retirement Planner es una app web programada con vibe coding usando Claude Opus 4.5. Según los datos ingresados, calcula y muestra el patrimonio neto futuro, la tasa de retiro tras la jubilación y los impuestos, pensada para usuarios en Estados Unidos y Canadá."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/new-ai-apps-memoria-android-app-1.jpg",
+          "cap": "La app de galería Memoria"
+        },
+        {
+          "t": "p",
+          "x": "Memoria es una app de galería para Android que admite búsqueda en lenguaje natural mediante IA sin conexión. Usa el modelo MobileCLIP-S0 de Apple, así que tanto la búsqueda como los datos permanecen en el dispositivo. A cambio, el tamaño de instalación supera ampliamente los 250MB. Se puede buscar por texto o por imágenes similares, y también es de código abierto y gratuita."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelmob-ai-workstation-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RuQoU53FTErZhkeNQqaWTX.jpg",
+          "cap": "Estación de trabajo IA portátil PixelMob"
+        },
+        {
+          "t": "p",
+          "x": "TechRadar probó la estación de trabajo IA portátil PixelMob, de UniDrive. Es un equipo pensado para fotógrafos, videógrafos y creadores. En una pequeña caja con pantalla táctil OLED de 7 pulgadas reúne copia de seguridad y gestión de archivos, edición, monitorización y grabación con cable, y se lanzó a través de Kickstarter."
+        },
+        {
+          "t": "p",
+          "x": "Funciona con una versión personalizada de Android y cuenta con 12GB de RAM LPDDR5 y 256GB de almacenamiento. Tiene tres ranuras M.2, por lo que al insertar módulos de 8TB el almacenamiento puede llegar hasta 24TB. Admite CFexpress Type B (hasta 800MB/s), SD, microSD, USB-A/C, entrada y salida HDMI y puerto LAN, y pesa 550g. La batería interna de 11.600mAh dura entre 2 y 3 horas bajo carga alta, y en la parte trasera se puede colocar una batería Sony NP-F para prolongar la autonomía."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hLzyRDNtT3Js5f66ndipnX.jpg",
+          "cap": "Un cuerpo de tamaño entre un teléfono y una tableta"
+        },
+        {
+          "t": "p",
+          "x": "La IA cumple su función en la organización de archivos. Al mover los archivos de la tarjeta a la carpeta Lightbox, la IA integrada los etiqueta automáticamente, agrupa las rachas de disparos similares, reconoce rostros y detecta fotos sobreexpuestas o subexpuestas. También se puede activar el reconocimiento de personas y aves, y la detección de escenas vacías. La carga de miniaturas fue más rápida que en Adobe Bridge."
+        },
+        {
+          "t": "p",
+          "x": "La edición de fotos se hace en la aplicación Cones, donde también se procesan el apilamiento de trazas de estrellas y el de enfoque y exposición. Existe un editor de video, Framebox, pero el autor de la prueba descargó CapCut para usarlo. También se pueden instalar aplicaciones de terceros aprobadas, como Lightroom o las de DJI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aGJDcVdgzV9YokJMjnqgnX.jpg",
+          "cap": "Modo de grabación con cable conectado a la cámara"
+        },
+        {
+          "t": "p",
+          "x": "Al conectarlo a una Sony A7 IV, permite ver la imagen en tiempo real y controlar la toma. La simulación de larga exposición, que combina 30 disparos consecutivos, logró fotos de larga exposición incluso sin filtro ND. En el modo Deck se puede monitorizar la imagen de la cámara por HDMI mientras se graba a hasta 50Mbps y se aplican LUT."
+        },
+        {
+          "t": "p",
+          "x": "También hay puntos débiles. La carcasa tiene un tacto muy plástico, como de prototipo, y la batería NP-F no queda bien fijada. Algunas tarjetas CFexpress Type B de 1TB y 2TB no fueron reconocidas. Tampoco resulta obvio al principio que primero hay que crear la carpeta Lightbox."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el autor de la prueba lo consideró uno de los equipos para creadores más completos que ha visto. Reúne almacenamiento portátil, organización con IA, grabación con cable, edición y monitorización de video en un solo aparato, y dijo que seguirá usándolo."
+        }
+      ]
+    },
+    "gadgets/gadgets-googlebook-magic-pointer-privacy-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Acer-Googlebook-14-Magic-Pointer-16-9-scaled.jpeg",
+          "cap": "Magic Pointer en el Acer Googlebook 14"
+        },
+        {
+          "t": "p",
+          "x": "Google observó el cursor del ratón, uno de los elementos más antiguos del escritorio, y decidió que con Gemini podía hacer mucho más que simples clics. Así nació Magic Pointer, que entiende lo que el usuario resalta en la pantalla de un Googlebook y ayuda a hacer algo con ello."
+        },
+        {
+          "t": "p",
+          "x": "Parece práctico, pero plantea una pregunta importante: ¿en qué momento exacto el contenido de la pantalla deja el portátil y pasa a la nube de Google? Google explicó dónde está esa línea."
+        },
+        {
+          "t": "p",
+          "x": "Alexander Kusher, director senior de productos de portátiles y tabletas de Google, apareció en Android Faithful para explicar cómo funciona Magic Pointer por dentro."
+        },
+        {
+          "t": "video",
+          "yt": "BC3nI--WHBc"
+        },
+        {
+          "t": "p",
+          "x": "Según Kusher (minuto 1:06:37), el primer paso se procesa dentro del Googlebook. Al activar Magic Pointer, el portátil busca y resalta en la pantalla los elementos con los que se puede interactuar, como un correo, una imagen o un bloque de texto."
+        },
+        {
+          "t": "p",
+          "x": "La nube entra en juego solo después de que el usuario elige algo y le encarga la tarea a Gemini. Kusher puso el ejemplo de comprobar si un correo es spam: reconocer que es un correo lo hace el dispositivo, y al pedirle a Gemini que lo analice, el contenido seleccionado pasa al modelo en la nube."
+        },
+        {
+          "t": "p",
+          "x": "Así que la línea es bastante simple. Que el cursor esté activado no significa que el contenido de la pantalla se envíe a Gemini cada vez. Google dice que el cursor con IA no actúa hasta que el usuario lo llama directamente."
+        },
+        {
+          "t": "p",
+          "x": "Parece que Google lleva bastante tiempo estudiando el cursor común. Kusher dijo que, en pruebas internas, algunos empleados movieron el cursor casi un kilómetro y medio en una jornada de trabajo. El equipo tomó esto como confirmación de que el puntero es una señal útil de dónde está la atención del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Antes del lanzamiento, Android Authority investigó Magic Pointer y encontró varias funciones de Gemini que Google estaba probando, y las pruebas prácticas con el Googlebook confirmaron que esta función es el centro de la plataforma. Ahora también se sabe dónde termina el procesamiento local y dónde toma el relevo la nube."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ai-upgrade-five-tips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Csc6K7mBQjMqauktpGQ7mT.jpg",
+          "cap": "Siri AI en iOS 27"
+        },
+        {
+          "t": "p",
+          "x": "Nunca pensé que diría esto, pero en iOS 27, Siri es más útil que nunca. Desde que debutó con el iPhone 4S fue durante mucho tiempo motivo de bromas, quedó por detrás de Amazon Alexa y del asistente de Google, y no tuvo ninguna posibilidad frente a LLM como ChatGPT, Claude y Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Ahora la IA de Apple finalmente se ha puesto al día, con algo de ayuda de Google Gemini. Apple Intelligence, tachada de vaporware tras aquella demostración de hace unos años, funciona correctamente en casi todos los sistemas operativos '27' de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Puede responder preguntas como cuántos mililitros tiene una cucharadita, pero la verdadera fuerza de Siri AI está en que conoce mi contexto personal. El iPhone conoce mis contactos, lee mensajes y correos, y revisa el calendario para ofrecer la información adecuada en el momento oportuno."
+        },
+        {
+          "t": "p",
+          "x": "Antes de empezar hay algo que conviene saber. Siri AI no está disponible en todas las regiones y, en particular, no llegará a la UE por ahora. Hay que activar la función en los ajustes y permitir que la app indexe la información, lo que puede tardar varias horas, así que conviene tener paciencia."
+        },
+        {
+          "t": "p",
+          "x": "Primero, encontrar una canción recomendada. Mis amigos y yo tenemos gustos musicales parecidos, así que en el chat grupal siempre aparecen enlaces de Spotify. Si pregunto '¿cuál era la canción que recomendó Phil la semana pasada?', Siri busca el enlace en la conversación. Sin embargo, al momento de escribir esto, WhatsApp todavía no es compatible con Siri AI."
+        },
+        {
+          "t": "p",
+          "x": "Segundo, planear el día. Si digo 'muéstrame las reuniones de esta semana', reúne y muestra los próximos eventos. Hay que activar cada calendario por separado en los ajustes. Si se olvida el calendario laboral, se puede pasar por alto una reunión importante."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mWR3vpoibFq98uzfZiatMb.png",
+          "cap": "Con Visual Intelligence también se consulta la información nutricional del menú"
+        },
+        {
+          "t": "p",
+          "x": "Tercero, elegir un restaurante. Gracias a la nueva función de reconocimiento de pantalla, Siri ahora entiende lo que se está viendo en el iPhone. Se pueden abrir varias páginas de restaurantes y pedirle que recomiende según las reseñas de los usuarios, o que filtre por tipo de comida. Con Visual Intelligence también se puede traducir el menú al instante o consultar su información nutricional."
+        },
+        {
+          "t": "p",
+          "x": "Cuarto, buscar y ampliar fotos. Si digo 'todas las fotos que tomé en la playa de Altea', las selecciona de la biblioteca de fotos. Si digo 'amplía esta imagen', se activa una herramienta de ampliación basada en IA generativa que rellena los bordes y reajusta la composición."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzkMQv9xzHKQwjc7iFHNwG.jpg",
+          "cap": "Buscar fotos con lenguaje natural en la app de Fotos"
+        },
+        {
+          "t": "p",
+          "x": "Quinto, gestión de archivos. Como pequeño empresario, el autor ahorró bastante tiempo haciendo que Siri buscara archivos perdidos. Encontrar una captura de pantalla específica o la versión más reciente de un archivo funciona no solo en el iPhone, sino también en el iPad y el Mac. Si se pregunta 'Siri, ¿dónde está la presentación de Tom's Guide?', indica la ubicación y también extrae los datos clave del archivo."
+        },
+        {
+          "t": "p",
+          "x": "En los dispositivos con Gemini, muchas de estas cosas ya eran posibles desde hace tiempo. Aun así, si es la primera vez que se usa un asistente de IA como este, hay bastante por aprender. Un solo consejo: probar de todo."
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-snapdragon-x2-local-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En el Snapdragon Summit de Qualcomm en Maui, lo que realmente llamó la atención fue el estand de Surface de Microsoft. Las especificaciones quedaron en segundo plano; el foco estuvo en qué pueden hacer realmente los nuevos dispositivos con Snapdragon, mostrando hacia dónde va la IA local en los PC con Windows, desde pequeños ajustes de interfaz hasta trabajo creativo bastante pesado."
+        },
+        {
+          "t": "p",
+          "x": "La primera demo fue la háptica. La retroalimentación táctil integrada en el touchpad y el lápiz de Surface responde con pequeñas vibraciones al alinear objetos o recorrer una línea de tiempo en Affinity, DaVinci Resolve o PowerPoint. Suena menor, pero se siente distinto al usarlo. El portátil no se vuelve más rápido, pero en apps creativas donde todo es mover y alinear sin parar, esa capa extra resulta bastante útil."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Photos-organized-via-Copilot-CLI-on-the-Microsoft-Surface.jpg?resize=1200%2C720",
+          "cap": "Copilot CLI eligiendo fotos del teléfono y moviéndolas a una carpeta de Surface"
+        },
+        {
+          "t": "p",
+          "x": "También hubo una demo que combinaba Phone Link, un teléfono Android y Copilot CLI. Al pedir en lenguaje normal fotos para una publicación de SNS desde la galería de un teléfono Nothing conectado, la IA analizó las imágenes, eligió las adecuadas y las copió en una carpeta nueva en el Surface. El teléfono solo aportó los datos; el procesamiento pesado corrió localmente en el Surface."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Sketching-a-Football-on-the-Microsoft-Surface-Pro.jpg?resize=1200%2C720",
+          "cap": "Dibujando un balón de fútbol en el Surface Pro"
+        },
+        {
+          "t": "p",
+          "x": "Lo más llamativo fue el flujo de trabajo creativo. Un artista 3D de Microsoft dibujó a mano un balón de fútbol en Photoshop, lo llevó a Blender y la IA lo convirtió en un activo 3D. Tras ajustar el tamaño del modelo y añadir elementos, volvió a Photoshop para retocar luces y sombras, y luego añadió animación y movimiento de cámara. El Surface funcionó todo el tiempo con batería sin trabarse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Generating-a-Football-inside-Blender-on-the-Microsoft-Surface-Pro.jpg?resize=1200%2C720",
+          "cap": "Generando con IA un activo 3D de un balón de fútbol dentro de Blender"
+        },
+        {
+          "t": "p",
+          "x": "El resultado pasó luego a generación de imágenes y se convirtió en una escena de estadio con luces y efectos de ambiente, que a su vez dio pie a un video corto. Ninguna de estas tecnologías es nueva por separado; lo interesante es encadenarlas todas en un 2-in-1 portátil. La NPU del nuevo modelo X2 Plus llega hasta 80 TOPS, pero lo que importaba a quienes miraban no era la cifra, sino si realmente funcionaba. La respuesta se acercó más a un sí."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Microsoft-Ink-Canvas-Demo.jpg?resize=1200%2C720",
+          "cap": "Demo de Ink Canvas"
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a usabilidad, Ink Canvas fue lo más interesante. En vez de describirle una idea a un chatbot con palabras, se parte de un lienzo en blanco. Se arma un moodboard subiendo imágenes, escribiendo notas con el lápiz y marcando resaltados, y luego con la herramienta de lazo se selecciona una parte para generar una imagen con ese contexto u obtener un resumen. Esto reduce el esfuerzo de traducir una idea visual en un prompt de texto elaborado. Ink Canvas viene integrado en los Surface con pantalla táctil, aunque sus funciones generativas requieren conexión a internet y una suscripción a Microsoft 365."
+        },
+        {
+          "t": "p",
+          "x": "Al pedirle que lo comparara con la RTX Spark de Nvidia, un diseñador de Microsoft dio una respuesta realista. Nvidia sigue adelante en cómputo y memoria. Snapdragon apunta a ofrecer suficiente IA local en dispositivos delgados que funcionan con batería. Los creadores profesionales también pueden hacer trabajo serio con un Surface X2 Elite, dijo, y la diferencia está en el techo de rendimiento."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-glasses-fda-hearing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas con IA de Meta incorporarán una función para quienes tienen pérdida auditiva. En Meta Connect, Meta anunció que la función 'Hearing Enhancement' (mejora auditiva) llegará a los dispositivos compatibles antes de fin de año. Al menos al principio, los modelos Ray-Ban quedan excluidos."
+        },
+        {
+          "t": "p",
+          "x": "Está incluida en la suscripción Meta One, o se puede pagar una sola vez 149 dólares si no se está suscrito. Hay una prueba gratuita de 30 días antes de pagar."
+        },
+        {
+          "t": "p",
+          "x": "El software cuenta con aval de la FDA y es elegible para reembolso por HSA/FSA, aunque el reembolso debe confirmarse por separado con cada aseguradora. Se puede configurar en casa sin receta. Para activarla o desactivarla basta un solo comando de voz (“Hey Meta, start Hearing Enhancement”)."
+        },
+        {
+          "t": "p",
+          "x": "Meta ya ofrece un modo de 'enfoque en la conversación' que aclara el habla en lugares ruidosos. La nueva función está dirigida a usuarios con pérdida auditiva leve o moderada que normalmente usarían un audífono. Llega junto con una función de 'respuestas detalladas' mejorada con aportes de la comunidad de personas ciegas y con baja visión, además de nuevos ajustes personalizados de audio y control."
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-ai-fridge-update-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Samsung-AI-fridge.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Samsung detuvo la distribución de una actualización de software SmartThings para refrigeradores. El motivo es que algunos equipos que instalaron la actualización dejaron de funcionar por completo. El problema estalló en la tarde del 22 de septiembre, hora de Corea, pocos días antes del feriado de Chuseok."
+        },
+        {
+          "t": "p",
+          "x": "Según StarNews y SBS News, decenas de publicaciones aparecieron en Samsung Members, la comunidad oficial de Samsung. Describían que el refrigerador se detenía apenas se tocaba el aviso de actualización en SmartThings. Una publicación contaba que, al llegar a casa, la luz interior estaba apagada, el panel táctil no respondía y no había frío. Otra decía que la pantalla se quedaba atascada en 'Actualizando' incluso tras desenchufar y volver a enchufar el equipo. También se sucedieron quejas por tener que tirar la comida de Chuseok."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los equipos afectados son de la serie Bespoke AI de 4 puertas lanzada desde 2024. ZDNet Korea informó que la causa fue un error de sistema que hizo llegar a los clientes un software destinado solo a pruebas internas. Samsung le dijo a ese medio que detuvo la distribución en cuanto detectó el error."
+        },
+        {
+          "t": "p",
+          "x": "Samsung también ofreció una disculpa pública. Pidió a los clientes reservar una visita para que un técnico revisara el producto directamente y recomendó trasladar la comida a una nevera portátil mientras tanto. Algunos usuarios dijeron que incluso el sistema de reservas se volvió lento por la avalancha de conexiones."
+        },
+        {
+          "t": "p",
+          "x": "El calendario de reparaciones generó otra ola de quejas. Algunos clientes dijeron que los centros de servicio les informaron que solo podrían recibir una visita después del feriado. Samsung Electronics Service dijo que mantendría ingenieros y personal de centro de llamadas disponibles durante el feriado para atender fallos urgentes de refrigeración, y SBS reportó esas fechas como el 26 y el 27 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Samsung aún no ha revelado cuántos equipos se vieron afectados ni si compensará la comida dañada. Mientras tanto, los usuarios se las arreglan llenando sus refrigeradores con hielo seco."
+        }
+      ]
+    },
+    "gadgets/gadgets-asus-gb300-dgx-workstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
+          "cap": "Estación de trabajo GB300 de Asus (imagen: StorageReview)"
+        },
+        {
+          "t": "p",
+          "x": "Asus lanzó una estación de trabajo basada en el superchip GB300 Grace Blackwell Ultra de Nvidia, la 'ExpertCenter Pro ET900N G3'. Reúne 72 núcleos Arm, una GPU Blackwell Ultra y 748GB de memoria coherente en un solo chasis. Con 27kg de peso y 584×232×565mm, nunca estuvo pensada para ser portátil."
+        },
+        {
+          "t": "p",
+          "x": "El exterior es de plata cepillada con un frente de malla oscura, y en la parte superior lleva dos asas metálicas gruesas pensadas para que varias personas puedan moverla sin sujetar los paneles laterales. Por dentro, un circuito de refrigeración líquida sellado con placas frías de cobre enfría el superchip, la memoria y las tarjetas de red. Un ventilador dedicado envía aire aparte a los transceptores ópticos que la refrigeración líquida no alcanza."
+        },
+        {
+          "t": "p",
+          "x": "La alimentación la aporta una fuente de 1,600W con certificación 80 PLUS Titanium. El almacenamiento predeterminado combina dos unidades NVMe de 2TB en espejo, con tres ranuras PCIe y dos bahías de expansión vacías."
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, ejecutó 128 flujos simultáneos en el benchmark MiniMax M2.7, generando 4,793 tokens de salida por segundo. Para un modelo grande como GLM-5.2, 215GB de pesos de expertos se enviaron directamente a la memoria coherente. En GPT-OSS-120B, la salida alcanzó 9,280 tokens por segundo, con un rendimiento total que superó los 45,000 tokens por segundo."
+        },
+        {
+          "t": "p",
+          "x": "Los analistas coincidieron en que se parece a la angulosa Mac Pro de Apple, aunque el rendimiento está en otra categoría. Brian Beeler, de StorageReview, dijo: “La GB300 DGX Station es la máquina más potente que hemos puesto sobre un escritorio.” Ejecutar decenas de agentes de codificación a la vez no ralentizó de forma perceptible a ningún agente individual, y escalar de uno a 128 agentes no provocó bloqueos ni retrasos."
+        },
+        {
+          "t": "p",
+          "x": "Al conectar dos puertos de red de 400 gigabits con otra estación GB300 a hasta 800Gb/s se forma un pool de memoria de 1,496GB. El youtuber Alex Ziskind mostró en un video cómo el consumo eléctrico subía a casi 1,000W al ejecutar decenas de agentes de codificación, investigación y escritura a la vez. Asus no ha revelado el precio, con estimaciones de entre 100.000 y 120.000 dólares."
+        }
+      ]
+    },
+    "gadgets/gadgets-android-ai-button-shortcut": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy en día los teléfonos no pueden escapar de las funciones de IA. Las presentaciones de productos giran cada vez más en torno a la IA, y cada marca ofrece su propio asistente de IA. Esa tendencia se nota más que en ningún otro lugar en el botón dedicado de IA. Para Megan Ellis, de Android Authority, el botón de IA era la parte menos bienvenida de su teléfono."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/a-phone-held-in-a-hand-showing-its-side-buttons-1280w-720h.jpg",
+          "cap": "Un teléfono sostenido en la mano mostrando sus botones laterales"
+        },
+        {
+          "t": "p",
+          "x": "El botón de IA está separado de los botones de encendido y volumen, y al pulsarlo abre directamente un asistente o una función de IA. El Motorola Razr Fold y el Motorola Edge lo tienen en el lado izquierdo, y hasta el económico Nothing Phone 4a tiene un botón dedicado. El HONOR 600 Pro, al que Ellis cambió recientemente como teléfono principal, coloca el botón de IA en la parte inferior derecha del marco."
+        },
+        {
+          "t": "p",
+          "x": "Para alguien que no usa IA a diario, ese botón era algo que pulsaba por error y cerraba de inmediato. Gemini, atado a los botones de encendido e inicio, tampoco era bienvenido. Finalmente entró en la configuración buscando una forma de apagar el botón, y en su lugar encontró una forma de hacerlo útil."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-ai-button-settings-menu-on-the-honor-600-pro-1280w-720h.jpg",
+          "cap": "El menú de configuración del botón de IA en el HONOR 600 Pro"
+        },
+        {
+          "t": "p",
+          "x": "El HONOR 600 Pro permite asignar una función distinta a la pulsación larga, la pulsación doble y la pulsación simple. Se pueden elegir funciones sin relación con la IA, como la linterna, la cámara o el cambio de modo de sonido. El verdadero hallazgo fue 'Quick Services'. No solo abre una app, sino que llama directamente a una función específica dentro de ella: crear un evento nuevo en Google Calendar, iniciar el reconocimiento de canciones en Deezer, o abrir el gestor de contraseñas de Firefox, por ejemplo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/quick-services-settings-for-honor-ai-button-1000w-2158h.jpg",
+          "cap": "La pantalla de configuración de Quick Services del botón de IA de HONOR"
+        },
+        {
+          "t": "p",
+          "x": "Ella se decidió por tres usos, mezclando diversión, utilidad y productividad. La pulsación larga abre Pokémon Go, que juega a diario; la pulsación doble abre la app de notas NotesNook; la pulsación simple enciende la linterna, útil para cruzar un cuarto oscuro hasta la cama tras apagar la luz del dormitorio por la noche. Es mucho más rápido que abrir el panel de notificaciones dividido que no le gusta para llegar a la configuración rápida."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/motorol-edge-70-ai-button-options-1280w-720h.jpg",
+          "cap": "Opciones del botón de IA en el Motorola Edge 70"
+        },
+        {
+          "t": "p",
+          "x": "No todos los botones de IA funcionan así. El Motorola Edge 70 que está reseñando actualmente solo permite usar la función de IA o apagar el botón, sin nada intermedio. Ellis cree que si los fabricantes abren este botón como un acceso directo libre, dejaría de ser en gran medida un estorbo molesto. Para quienes disfrutan usando la IA, la función original sigue intacta. Espera que otros fabricantes dejen de mantener el botón cerrado y sigan el ejemplo de HONOR."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-buds-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Buds-2a-Berry.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google prometió una gran actualización de Pixel Buds en septiembre al lanzar el Pixel 11. Los primeros resultados ya se empiezan a ver: la última app complementaria de Pixel Buds incorpora controles de audio con Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Al actualizar la app a la versión 1.0.981607934 aparece @Pixel Buds en la lista de apps conectadas de Gemini. Ajustes como los preajustes de EQ, los modos ANC, la detección de conversación y los controles táctiles pueden cambiarse ahora mediante Gemini. Basta con decir algo como “Hey Google, turn up the bass” o “Hey Google, turn on noise cancellation”."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-3.jpg",
+          "cap": "La superposición de Gemini que aparece al dar una orden"
+        },
+        {
+          "t": "p",
+          "x": "Al dar una orden aparece la superposición de Gemini, que lo confirma por voz junto con el mensaje “Connecting to Pixel Buds”. En los dispositivos sin la actualización, la misma orden solo abre la pantalla de configuración de Bluetooth del sistema. La versión 1.0.981607934 se está distribuyendo ampliamente hoy a través de la Play Store."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las otras tres funciones que Google anunció junto a esta parecen requerir una actualización de firmware aparte. Los Pixel Buds Pro 2 incorporarán ANC dinámico, que corrige el sellado cuando los auriculares se mueven ligeramente dentro del oído. También llegará una función que vincula el sueño del Pixel Watch para pausar la música, desactivar los controles táctiles y silenciar las notificaciones. Además, se podrá tocar los Pixel Buds para activar la interpretación en tiempo real."
+        }
+      ]
+    },
+    "gadgets/gadgets-liminal-walking-meditation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
+          "cap": "Foto: Liminal VR"
+        },
+        {
+          "t": "p",
+          "x": "Liminal, conocida por sus breves experiencias de RV adaptadas a estados emocionales como la calma, el enfoque y la energía, ha trasladado ese saber hacer a las gafas inteligentes. Su nueva app, Liminal: Walking Meditation, usa la cámara de las Meta AI Glasses para fotografiar el entorno mientras caminas y ofrece, casi en tiempo real, una meditación de voz basada en lo que estás viendo. La app para smartphone llega en octubre para iOS y Android."
+        },
+        {
+          "t": "video",
+          "yt": "QUHgalCHs9s"
+        },
+        {
+          "t": "p",
+          "x": "Basta con emparejar la app del teléfono con las gafas, elegir tema, voz y ritmo, y guardar el teléfono en el bolsillo. En el lanzamiento hay 12 temas de meditación, 8 voces y 3 opciones de ritmo. Según el CTO Tin Nguyen, el ajuste de ritmo determina no solo los silencios entre frases, sino también la cantidad de narración y la duración total. Los paseos más cortos duran entre 10 y 13 minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Screenshot-2026-09-23-at-10.47.39---PM.png",
+          "cap": "Foto: Liminal VR"
+        },
+        {
+          "t": "p",
+          "x": "Lo difícil es elegir qué decir. Las primeras versiones mencionaron un cubo de basura unas ocho veces, y una vez improvisaron un relato inesperadamente apasionado sobre un letrero de neón en el escaparate de una tienda para adultos. En lugar de grabar sin parar, la app observa la escena en una sola toma a intervalos durante el paseo. Un periodista de UploadVR que la probó con las Ray-Ban Meta la encontró casi en tiempo real —señalando un árbol justo al pasar frente a él— y los generosos silencios evitaron que resultara agobiante."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_2684.PNG",
+          "cap": "Pantalla de la app para iOS de Liminal: Walking Meditation"
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes se procesan a través del teléfono con Google Gemini. Con la retención de datos desactivada, las imágenes se descartan en cuanto llega una respuesta. La app no solicita acceso al micrófono a propósito. Tampoco hay guía de navegación. El CEO Damiano Moratti dijo que es difícil hacer fiables las advertencias de peligro, así que decidieron dejar fuera la navegación, al menos por ahora."
+        },
+        {
+          "t": "p",
+          "x": "Cuesta 9,99 dólares al mes o 99,99 dólares al año, e incluye 30 paseos contextuales al mes y acceso ilimitado a las versiones de guion sin conexión para cada tema."
+        }
+      ]
+    },
+    "gadgets/gadgets-prismml-snapdragon-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/1e18c1aa155afeddc9975c3c1803af51.jpg",
+          "cap": "Las gafas inteligentes de PrismML probadas en la sala de demostración del Snapdragon Summit (Foto=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "“Esto es una botella de agua.” Al ponerse las gafas y mirar un objeto mientras se pregunta “¿Qué es esto?”, la respuesta llegó de inmediato junto al oído. Son las gafas inteligentes de la startup estadounidense de IA PrismML. Todo el proceso ocurrió en el propio dispositivo, sin ninguna conexión a internet."
+        },
+        {
+          "t": "p",
+          "x": "El día 24 (hora local), en la sala de demostración de 'Snapdragon Summit 2026' celebrada en Maui, Hawái, ZDNet Korea probó en persona tres tipos de gafas de RA: PrismML, SPECS y XREAL."
+        },
+        {
+          "t": "p",
+          "x": "Las gafas de PrismML toman una foto al pulsar el botón físico de la parte superior derecha, y al preguntar sobre el objeto, la IA responde por voz. Al preguntar por el color de una tarjeta coleccionable recibida en el lugar, respondió de inmediato “azul.” La clave está en la plataforma Qualcomm Snapdragon AR1 combinada con la tecnología de compresión de PrismML, que reduce a 1 bit un modelo de IA pesado que funcionaba en 8 bits, superando así los límites de memoria. El vicepresidente senior de Qualcomm, Ziad Asghar, había subrayado en su discurso del día anterior que los modelos de 1 bit pueden ofrecer a las personas con discapacidad visual información en tiempo real sobre su entorno y los objetos."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/9dac62ca23c60bde3350381243f84969.jpg",
+          "cap": "Las gafas de RA de SPECS (Foto=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas de SPECS se manejan solo con gestos de la palma y los dedos, sin controlador. Al abrir la palma vacía aparece un menú en el aire, y al juntar el índice y el pulgar como un pellizco se abre una app. En una demostración de Harry Potter, al hacer un gesto para llamar a la lechuza Hedwig y extender el brazo derecho, el ave se posó suavemente sobre el brazo."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/dadea61ba01efcf10f5fb0ceb68f79e7.jpg",
+          "cap": "Probando las gafas de RA de XREAL (Foto=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "Con las gafas de XREAL se probó la computación espacial. Varios monitores virtuales enormes se desplegaron en el espacio vacío, y se pudieron fijar una ventana de navegador web y otra de video en el lugar deseado, moviéndose entre ellas solo con girar la cabeza. Incluso al mover la cabeza con rapidez no se percibió entrecortamiento de imagen ni mareo."
+        }
+      ]
+    },
+    "gadgets/gadgets-gorgon-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TMSvSLPp4z66kcByzXoL7e-1920-80.jpg",
+          "cap": "GMKtec Evo-X5 Pro (Imagen: GMKtec)"
+        },
+        {
+          "t": "p",
+          "x": "GMKtec ha presentado la mini PC de IA agencial 'Evo-X5 Pro'. Combina el buque insignia de AMD, el Ryzen AI Max+ Pro 495, con 192GB de memoria LPDDR5X-8533. El modelo con SSD PCIe 4.0 de 2TB cuesta 6.799 dólares, y el de 4TB, 7.099 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Este chip, con nombre en código 'Gorgon Halo', es el modelo tope de la familia Ryzen AI Max+ 400. Prescinde de los núcleos Zen 5c, eficientes en espacio, e integra solo 16 núcleos Zen 5 de tamaño completo (32 hilos). Con una frecuencia base de 3.1GHz, un turbo de 5.2GHz y 64MB de caché L3, es en la práctica una versión móvil del Ryzen 9 9950X. El Acemagic F9A y el Minisforum MS-S1 Max-P495 compiten con el mismo chip."
+        },
+        {
+          "t": "p",
+          "x": "Los 192GB de memoria superan el límite de 128GB del GB10 de Nvidia y del Strix Halo de la generación anterior de AMD. Ocho chips de 24GB combinados en una interfaz de 256 bits dan un ancho de banda de unos 273GB/s, de los cuales hasta 160GB pueden destinarse como VRAM para LLM grandes. En modo rendimiento, consume hasta 120W de forma sostenida y hasta 160W en picos."
+        },
+        {
+          "t": "p",
+          "x": "Los compradores super early-bird y early-bird reciben descuentos del 6% y el 3%, respectivamente. El modelo de 4TB baja hasta 6.699 dólares y el de 2TB hasta 6.399 dólares, y el precio super early-bird solo aplica a las primeras 30 unidades. Los descuentos por lotes de 2, 3 o 5 unidades son de apenas 10, 20 y 40 dólares. Tom's Hardware señaló que un descuento del 0.12% no tiene sentido cuando se gastan 32.995 dólares en hardware."
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-toothbrush-era": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/camerajet.jpg",
+          "cap": "Dyson CameraJet (© Dyson)"
+        },
+        {
+          "t": "p",
+          "x": "Cuando Dyson presentó un cepillo de dientes inteligente con IA en la IFA 2026 a principios de este mes, el autor soltó primero un profundo suspiro. Con IA añadida a todo lo demás, era solo cuestión de tiempo que llegara también a los cepillos de dientes."
+        },
+        {
+          "t": "p",
+          "x": "El CameraJet combina un cepillo de dientes con un irrigador bucal. Una cámara en el cabezal del cepillo calcula los espacios entre los dientes y dispara agua en el momento justo. También admite Wi-Fi y una app, y Dyson se tomó la molestia de señalar en su anuncio que las imágenes no se guardan ni en el dispositivo ni en la nube."
+        },
+        {
+          "t": "p",
+          "x": "Esta semana, Philips añadió IA a su 'Next Generation DiamondClean 9900 Prestige'. No tiene cámara. En su lugar, un modelo de IA cambia de modo automáticamente según los hábitos de cepillado y la sensibilidad dental, y divide la boca en 12 zonas para mostrar los puntos que no se cepillaron bien. El cepillo incluso tiene pantalla."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/sonicare2.jpg",
+          "cap": "Cepillo de dientes con IA de Philips (© Philips)"
+        },
+        {
+          "t": "p",
+          "x": "Contando también los productos de startups, ya se ha formado todo un mercado. Sin embargo, según la investigación, ni siquiera los cepillos eléctricos limpian notablemente mejor que un cepillo manual que se puede comprar por $5 en CVS. A lo sumo ayudan a cepillarse con la presión adecuada."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/camerajet-3.jpg",
+          "cap": "Dyson CameraJet (© Dyson)"
+        },
+        {
+          "t": "p",
+          "x": "Desde su primera semana en venta, el CameraJet ha tenido problemas que van desde dejar de funcionar por completo hasta que entre agua en el compartimento de la batería. Dyson dijo a Wired que había “identificado un problema de un solo componente que afectó a algunos lotes iniciales”, pero no especificó cuál."
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más complejo se vuelve un dispositivo, más complejas se vuelven también sus averías. Dado que los cepillos eléctricos no son mucho mejores que los manuales, el autor concluye que es poco probable que añadir IA mejore la salud dental. Es sobre todo un adorno, y ya se ha convertido en un caso de sobreingeniería. Si se quiere saber cómo cepillarse bien, reservar una cita con el dentista es mejor opción, y además más barata."
+        }
+      ]
+    },
+    "gadgets/gadgets-flourish-humanoid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Flourish-1-cleaning.jpg?w=1200",
+          "cap": "Flourish 1 aprende una nueva tarea tras una demostración con el teléfono"
+        },
+        {
+          "t": "p",
+          "x": "Es difícil creer que exista un humanoide por menos de 4.000 dólares. Sin embargo, la startup Flourish Robotics puso un precio de 3.555 dólares a su 'Flourish 1', listo para enviarse de inmediato. Un periodista de CNET dijo que era el humanoide más barato del que había oído hablar."
+        },
+        {
+          "t": "p",
+          "x": "Las reservas para las primeras 50 unidades se abrieron el martes, con envíos previstos para diciembre. La computación en la nube usada en algunas funciones de IA se vende por separado como suscripción opcional. El director ejecutivo Antoine Marcel dijo que esto es el lanzamiento de un producto, no una beta de pago. Explicó que lo que queda no es investigación y desarrollo, sino la cadena de suministro, y que la clave es recibir a tiempo piezas como las baterías, que tardan unos dos meses en conseguirse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/videoframe_12847.png?w=1200",
+          "cap": "El Flourish 1 trabajando"
+        },
+        {
+          "t": "p",
+          "x": "Se encarga de tareas domésticas repetitivas como recoger y ordenar objetos, regar plantas o limpiar el arenero del gato. La empresa afirma que cualquier tarea del hogar puede enseñarse en 30 minutos usando solo una aplicación móvil, sin programar. Un ejemplo es mostrarle el movimiento de empujar un teléfono sobre una mesa para limpiarla. Tras la demostración, el robot tarda alrededor de una hora en aprender el nuevo proceso y luego avisa que puede hacerlo solo."
+        },
+        {
+          "t": "p",
+          "x": "Marcel dice que no se trata solo de grabar un movimiento y repetirlo; la IA ayuda a generalizar dentro de cierto rango. Si se le enseña a poner los zapatos en el zapatero, aprende la tarea en sí, no coordenadas fijas, así que puede encontrarlos aunque estén en un lugar distinto cada día. Afirma que, por lo general, nadie lo controla de forma remota."
+        },
+        {
+          "t": "video",
+          "yt": "SRBAKFKEiLA"
+        },
+        {
+          "t": "p",
+          "x": "Sus límites también son claros. No puede entrar en el agua, no puede cargar objetos de más de 1,5 kg ni nada frágil, y no puede subir escaleras. Tampoco cuida niños. Mide 3 pies 7 pulgadas, pesa 44 libras y funciona durante 12 horas. Se detiene si una persona o un animal entra en su radio de trabajo, y desde la aplicación se puede desactivar el uso compartido de datos para entrenar el modelo."
+        },
+        {
+          "t": "p",
+          "x": "CNET consideró que el precio es optimista. El Neo de 1X cuesta 20.000 dólares, y el Isaac 1 de Weave, 7.999 dólares. Marcel dijo que una base con ruedas y brazos ligeros redujeron los costos, y que no lo venden a pérdida. Aun así, la empresa reconoce que, para ir más allá de las primeras 50 unidades, deberá industrializar la producción."
+        }
+      ]
+    },
+    "gadgets/gadgets-eufy-s4-doorbell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-1200-80.jpg",
+          "cap": "벽에 설치하는 유피 S4 비디오 초인종"
+        },
+        {
+          "t": "p",
+          "x": "앤커가 스마트홈 라인업 ‘엣지 5.0’을 공개했다. 그중 유피 비디오 도어벨 S4는 문 앞에 누가 왔는지 VR로 볼 수 있다고 한다. 괴짜 기술 명예의 전당에 새로 오를 만하다."
+        },
+        {
+          "t": "p",
+          "x": "차임 2와 함께 지금 예약 판매 중이고, 10월 말 출하 예정이다. 가격은 299.99달러로 꽤 비싸다. 그래도 테크레이더는 가격과 굳이 필요한지 의문인 간판 기능을 감안해도, 기능이 워낙 많아 최고의 비디오 도어벨 반열에 들 수 있다고 봤다."
+        },
+        {
+          "t": "p",
+          "x": "구독료가 없고 4GB 저장 공간을 내장했다. 이 값이면 기대할 만한 부분이다. 필립스 7000 시리즈 같은 경쟁 제품과 갈리는 지점은 VR 보기다. 앤커는 이런 기능을 갖춘 비디오 도어벨이 세계 최초라고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "초인종이 사람을 감지하면 앤커 유피 앱에서 영상통화 같은 알림이 온다. 열면 가로·세로 모두 180도 화각의 영상이 뜬다. 집 앞을 늘 초광각으로 보여 주니 보안 카메라를 따로 달 필요가 없다. 라이브 화면에서 스마트폰이나 VR 헤드셋을 움직이면 보는 방향도 따라 바뀐다."
+        },
+        {
+          "t": "p",
+          "x": "영상은 3072×3072 해상도의 3K로 찍어 사람 전신이 다 담긴다. 유피의 AI 기반 옴니트랙이 화면 속 인물을 붙잡아 따라가고, 오토 프레이밍이 파노라마 화면을 잘라 그 사람을 늘 가운데에 둔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vDiDFX2K8YmCxYRcdrvXbR-1200-80.png",
+          "cap": "유피 S4의 시야 범위"
+        },
+        {
+          "t": "p",
+          "x": "오경보도 줄였다. 먼 거리는 레이더로 잡고, 문 가까이에서는 듀얼 PIR 센서로 사람 움직임을 가려낸다."
+        },
+        {
+          "t": "p",
+          "x": "알렉사, 구글 홈, 애플 홈킷과 연동된다. 다만 홈킷에서 쓰려면 유피 홈베이스 S380 허브가 필요하다. VR 보기와 옴니트랙은 앤커 유피 앱에서만 되고, 서드파티 플랫폼에서는 고정된 라이브 화면만 나온다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-find-hub-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/gemini-and-find-hub-can-help-you-locate-your-important-documents-heres-how/l-intro-1789834269.jpg",
+          "cap": "Pantalla de un teléfono Android"
+        },
+        {
+          "t": "p",
+          "x": "Google Find Hub no sirve solo para localizar teléfonos Android, etiquetas y dispositivos. Para no perder algo importante, lo más seguro es colocarle una etiqueta compatible. Pero hay objetos, como un certificado de nacimiento, un pasaporte o una tarjeta de seguro social, a los que resulta incómodo ponerles una etiqueta. En esos casos, una función que vincula Gemini y Find Hub permite recordar dónde los guardaste."
+        },
+        {
+          "t": "p",
+          "x": "Primero, comprueba que Find Hub esté activado. Puedes descargar y configurar la app Find Hub, o ir a Configuración > Google > Todos los servicios > Find Hub. Luego, define a Gemini como el asistente del dispositivo. Toca el icono de perfil en la esquina superior derecha de la app de Google y ve a Gemini o Asistente de Google > Asistente digital de Google para elegir Gemini como opción predeterminada."
+        },
+        {
+          "t": "p",
+          "x": "Ahora toca registrar la ubicación de un objeto. Basta con decirle a Gemini algo como: Hey Google, recuerda en Find Hub que puse mi pasaporte en la caja fuerte. Gemini confirmará que guardó la ubicación y mostrará un enlace a Find Hub."
+        },
+        {
+          "t": "p",
+          "x": "Al tocar el enlace aparece el elemento guardado en el hub. Añadir una foto del lugar de almacenamiento facilita recordarlo. Si tienes varias casas o escondites como un apartado postal o una caja de seguridad bancaria, puedes anotar la dirección exacta y agregar una descripción en el campo de notas. También puedes añadirlo directamente desde la app Find Hub: toca el icono de más en la pestaña de elementos recordados y elige entrada manual."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-2OyrAP-1789665544.jpg",
+          "cap": "Pantalla de Find Hub"
+        },
+        {
+          "t": "p",
+          "x": "Con esto termina el registro. Si no recuerdas dónde pusiste un documento, pregúntale a Gemini: Hey Google, ¿dónde puse mi pasaporte? Te devolverá la última ubicación registrada junto con un enlace a Find Hub. También puedes abrir la app Find Hub y revisar la pestaña de elementos recordados. Al tocar un elemento aparecen la foto que añadiste, la ubicación más reciente y cualquier nota."
+        }
+      ]
+    },
+    "gadgets/gadgets-m5-ultra-mac-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
+          "cap": "Apple M5 Ultra Mac Studio"
+        },
+        {
+          "t": "p",
+          "x": "Esta primavera, Apple hizo oficial la discontinuación del Mac Pro. El silicio de Apple, con su CPU rápida, una GPU decente y memoria unificada, se adapta bien a ejecutar modelos de lenguaje y agentes de forma local. Los clientes clave de la Mac Studio M5 Ultra son precisamente esos programadores y diseñadores que usan IA. La demanda de modelos de pesos abiertos, sumada a la escasez de memoria provocada por la IA, ha hecho que estos equipos sean difíciles de comprar desde hace meses."
+        },
+        {
+          "t": "p",
+          "x": "Al no haber existido un M4 Ultra, el procesador saltó dos generaciones. Tiene hasta 12 núcleos super, 24 núcleos P, 80 núcleos de GPU, y un ancho de banda de memoria que supera ligeramente 1.2TB/s, justo el doble de las especificaciones clave del M5 Max. En las pruebas, la CPU fue entre 80% y 90% más rápida que la del M5 Max, y la GPU, entre 50% y 80% más rápida."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3762-1024x683.jpeg",
+          "cap": "Mismo diseño que la Mac mini, pero no tan pequeña"
+        },
+        {
+          "t": "p",
+          "x": "Los precios subieron mucho. La crisis de memoria provocada por la IA llevó a Apple a subir los precios en toda la línea. El M5 Max base subió 500 dólares, a 2.499 dólares, y el M5 Ultra equivalente subió 1.500 dólares, a 5.499 dólares. El modelo con 256GB de RAM y 1TB, que costaba 5.599 dólares hace 18 meses, cuesta ahora 9.499 dólares."
+        },
+        {
+          "t": "p",
+          "x": "En la IA local, las cifras más importantes son la capacidad de memoria de la GPU y el ancho de banda de memoria. Una Mac con silicio de Apple y 64GB tiene más memoria de GPU que cualquier GPU de consumo individual, y una eficiencia energética mucho mejor. Gracias a un acelerador neuronal integrado en la GPU, la generación M5 también redujo mucho el tiempo hasta el primer token (TTFT)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/bankee-doodle-1024x664.png",
+          "cap": "'Bankee Doodle', la app para convertir extractos bancarios que el reseñador creó con vibe coding"
+        },
+        {
+          "t": "p",
+          "x": "El reseñador probó el vibe coding por primera vez con LM Studio Bionic y el modelo Qwen 3.8 27B. Aunque no le gusta la IA generativa, dijo que era la tecnología con la que más se había divertido en mucho tiempo. Hizo que escribiera un script en Python para convertir extractos bancarios en PDF a hojas de cálculo, y luego construyó encima una aplicación web. Lo decisivo fue que los datos financieros nunca salieron de casa."
+        },
+        {
+          "t": "p",
+          "x": "Con el mismo prompt, el M5 Max alcanzó unos 31 tokens por segundo, y el M5 Ultra superó apenas los 50. La configuración revisada cuesta 12.299 dólares. La IA local es divertida y liberadora, escribió, pero es una pena descubrirlo justo cuando los precios de toda la línea Mac Studio subieron más del 25%."
+        }
+      ]
+    },
+    "gadgets/gadgets-translation-earbuds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/l-intro-1790623926.jpg",
+          "cap": "Ajustando un auricular blanco en la oreja"
+        },
+        {
+          "t": "p",
+          "x": "Algún día quizá podamos hablar con fluidez con una persona japonesa sin saber japonés y sin intérprete. Comunicarse con el mundo usando un solo idioma es la promesa que hacen la mayoría de los auriculares de traducción. Con los avances recientes de la IA, esa meta nunca ha estado tan cerca."
+        },
+        {
+          "t": "p",
+          "x": "A simple vista parece sencillo. Con los Apple AirPods Pro, basta conectarlos al iPhone, elegir un idioma en la app de traducción y activar la traducción en tiempo real. Cuando la otra persona habla, se oye en tu idioma en pocos segundos. Algunos productos requieren entregar uno de los auriculares a la otra persona."
+        },
+        {
+          "t": "p",
+          "x": "Por dentro es complicado. Pasa por tres etapas principales: reconocimiento de voz, traducción automática (procesamiento de audio) y síntesis de voz. Primero, un micrófono capta la voz. Los productos de gama alta aíslan la voz del ruido de fondo. El Soundcore Liberty 5 Pro usa ocho micrófonos, dos sensores de conducción ósea y un modelo de IA dedicado. Otros productos logran un efecto similar con micrófonos duales o de formación de haz."
+        },
+        {
+          "t": "p",
+          "x": "A continuación viene el procesamiento de audio, que ocurre en el teléfono conectado, en la nube, o en ambos, según la marca. Con los AirPods Pro, si descargas un paquete de idioma, todo el procesamiento se hace en el iPhone. Los Google Pixel Buds traducen en la nube, por lo que necesitan conexión a internet. En esta etapa, que convierte el habla en texto y lo traslada al idioma de destino, el procesamiento de lenguaje natural (NLP) capta el significado y el contexto de la frase. Algunos productos refuerzan el contexto con un LLM como ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Por último, el texto traducido se convierte en voz sintetizada y se envía al teléfono, que lo transmite a los auriculares por Bluetooth. Algunos productos, como los AirPods Pro y los Galaxy Buds Pro, procesan todo el proceso sin conexión, así que conviene comprobarlo antes de comprar si eso te importa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/how-well-translation-earbuds-work-1790623927.jpg",
+          "cap": "Auriculares blancos y estuche sobre una superficie rosa"
+        },
+        {
+          "t": "p",
+          "x": "Han mejorado mucho desde los primeros modelos. Aun así, las cifras de precisión del 95 y el 99 % que se anuncian son, al menos por ahora, una exageración de marketing. El 99 % no es mentira, pero requiere condiciones casi perfectas que rara vez se dan fuera del laboratorio del fabricante."
+        },
+        {
+          "t": "p",
+          "x": "La velocidad y la precisión también son obstáculos habituales. Incluso en buenas condiciones tarda unos segundos, y más si son malas, lo que alarga la conversación. La traducción se confunde ante pronunciaciones poco claras, dialectos desconocidos, jerga, homónimos, expresiones idiomáticas y ruido intenso, y los errores son más frecuentes en pares de idiomas menos comunes."
+        },
+        {
+          "t": "p",
+          "x": "El modo sin conexión también tiene límites. Timekettle ofrece 14 pares de idiomas sin conexión, los dos primeros gratis y el resto a 10 dólares cada uno. La traducción de medios, las llamadas y las funciones avanzadas de IA necesitan internet. Muchos de estos productos también funcionan como auriculares para llamadas o música, así que revisar qué funciones necesitas evita comprar dos pares."
+        }
+      ]
+    }
+  }
+}

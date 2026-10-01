@@ -1,0 +1,1204 @@
+{
+  "cards": {
+    "gadgets/gadgets-nanoleaf-mcp-lights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Nanoleaf-wall-panels.jpg",
+          "cap": "Nanoleaf墙面灯板"
+        },
+        {
+          "t": "p",
+          "x": "家里装了不少智能灯具的人，大多习惯喊出固定的指令。“卧室灯关掉”“灯调到50%”这类说法好记，却不像日常说话的语气。Nanoleaf决定解决这个问题。"
+        },
+        {
+          "t": "p",
+          "x": "这家总部位于多伦多的公司今天宣布推出MCP服务器。用户可以把Nanoleaf智能灯具连接到ChatGPT、Claude等AI助手上进行控制。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/nanoleaf-mcp-server-image.jpg",
+          "cap": "Nanoleaf MCP服务器"
+        },
+        {
+          "t": "p",
+          "x": "用Nanoleaf MCP，可以用自然的话语控制灯光，不必再单独打开智能家居App。说一句“make my room feel like sunset”，Claude或ChatGPT就会精准挑选落日氛围的颜色，传给灯具。"
+        },
+        {
+          "t": "p",
+          "x": "有了MCP服务器，灯光也能对天气等实时信息做出反应，打造一天中不断变化的光环境。比如雷雨天调得温馨一些，晴天则调得明亮而有活力。"
+        },
+        {
+          "t": "p",
+          "x": "面向ChatGPT、Claude等AI助手的一键集成功能将在10月上线，只需在所用的AI助手里添加该集成，就能直接控制Nanoleaf灯具。面向开发者的MCP工具和指南从今天起已发布在Nanoleaf官网，可用来创建自定义场景、接入实时更新API等。"
+        },
+        {
+          "t": "p",
+          "x": "能省去好几个专用灯光App，直接用ChatGPT或Claude管理家里的灯光，是件令人高兴的事。希望这项集成功能即便听到天气和心情随口一说，也能准确领会想要的灯光效果。"
+        }
+      ]
+    },
+    "gadgets/gadgets-freckle-kids-phone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sJHMAjnRb9DhtWJJYEm4N3.jpg",
+          "cap": "Freckle Phone(图片:Freckle Phone)"
+        },
+        {
+          "t": "p",
+          "x": "在没有手机的年代，孩子们会独自去朋友家玩，也会在附近的小溪边跑来跑去。研究者认为，这种自主性的消失正是儿童焦虑和抑郁增多的主要原因之一。打造Freckle Phone的Sam Terris也是这样长大的。于是他给出的答案，矛盾地，又是一台手机。Terris这样介绍它:「It's the first phone for kids that encourages real-world adventure」。"
+        },
+        {
+          "t": "p",
+          "x": "这款约3×3英寸、厚0.61英寸的方形设备是一种可穿戴装置。它是使用Freckle移动网络的5G设备，因此有电话号码，只能与父母许可的号码收发短信和通话。它还配备了1200万和500万像素的两个摄像头、麦克风和扬声器。相似之处也就到此为止。这套基于Android改造的系统既不能下载应用，也不能连接互联网。取而代之的是任务、聊天(向AI提问，或把难题发给父母)、地图、对讲机、角色等户外探索工具和AI功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZJGV77GJyiGNrfn7dWa4R3.jpg",
+          "cap": "图片:Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "内置AI混合使用Gemini和小型本地模型。孩子一旦提问，或拍下眼前的植物、动物或物品，它就会立刻给出解释。用NFC让两台设备碰一碰即可开启对讲机模式，还能用父母充值好的钱包完成碰一碰支付。一天结束时，屏幕里角色的背包中会积攒「artifacts(藏品)」——用好奇心相机拍下的东西、去过的地方、一起编的故事、获得的徽章，都像纪念品一样收集起来。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZjkBPhdrosoSeRbAxyW673.jpg",
+          "cap": "图片:Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "价格方面，4GB内存、64GB存储的型号售价199美元起，通信费每月25美元。有绿色、蓝色和焦橙色三种颜色，配有肩带，并达到IP54防护等级，足以应付一点雨水。撰写报道的TechRadar记者认为，这款设备终究也可能只是又一款可穿戴AI设备。面对「如何避免重蹈Humane和Rabbit R1覆辙」的提问，Terris回答说，那些产品既没有明确的需求，也没有清晰的用途。而Freckle除了探索体验之外，还具备联系这一基本用途。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRBeZARQXs3ewYz7YweeL3.jpg",
+          "cap": "图片:Freckle Phone"
+        },
+        {
+          "t": "p",
+          "x": "Freckle Phone将于12月在美国发售。Terris表示，公司已经储备了约1000项新功能，计划每隔几周推出新功能。投资人Alexis Ohanian的女儿Olympia正作为测试者参与体验。"
+        }
+      ]
+    },
+    "gadgets/gadgets-peloton-tread-vision": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EwHeYVQhRYuaoMguHX6xNW.jpg",
+          "cap": "Peloton Tread Vision"
+        },
+        {
+          "t": "p",
+          "x": "Peloton将从10月1日起陆续推出三款跑步机:Tread Flex、Tread Vision和Tread Vision Plus。Tread Flex售价2195美元，是Peloton产品中最便宜的一款，也是该公司首款可折叠跑步机。美国以外地区将于2027年春季上市。首席产品官Nick Caldwell表示，它的占地面积只有基础版Tread Vision平台的46%，而且非常安静。"
+        },
+        {
+          "t": "p",
+          "x": "新软件功能「ReRun」会提取真实路线的海拔变化，并将其还原为跑步机的坡度。系统内置了一条按纽约马拉松划分为五段的赛道，用户也可以上传户外跑步生成的GPX文件，原样还原那段路线。"
+        },
+        {
+          "t": "p",
+          "x": "Tread Vision是Peloton的AI机型，售价3495美元起。它配备了新的缓震系统和跳跃按钮，但核心在于「Movement Tracking Camera(动作追踪摄像头)」。Caldwell表示:「We've created a new form feedback system for runners」。摄像头通过垂直位移统计步数和步频，判断姿势是否正确，以及跑步效率是否达到最佳。它会综合垂直振幅等指标，给出跑步效率分数，并提供个性化的AI反馈。Caldwell的话暗示，这比Garmin等可穿戴设备上的类似指标更准确。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yBdM5yfzt4454YAHEPHqQN.jpg",
+          "cap": "Tread Vision的跑步分析"
+        },
+        {
+          "t": "p",
+          "x": "售价6695美元的Tread+ Vision加入了「Sled Mode」，一种Hyrox式的推雪橇训练。所有跑步机都配备了ReRun，以及用AI计算分段目标时间的IQ Pace Target等Peloton IQ功能，这些功能也会提供给此前的机型。首席营销官Megan Imbres表示:「The only thing that is gated is the Run Analysis because it uses that Computer Vision camera」。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YRAk2ZfvBzpBY6fpycEo3o.jpg",
+          "cap": "Peloton跑步机"
+        },
+        {
+          "t": "p",
+          "x": "TechRadar记者在伦敦总部用Tread Vision跑了10分钟。输入身高、挺直身体完成摄像头设置的过程很快就结束了。结果显示跑步效率分数为66分，并给出了纠正垂直振幅这一相当实用的建议。记者认为，跑得更久一些，准确度应该会提高。"
+        }
+      ]
+    },
+    "gadgets/gadgets-yansyn-crying-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/intro-1790191546.jpg",
+          "cap": "模仿情感的机器人，游走在抚慰与毛骨悚然之间"
+        },
+        {
+          "t": "p",
+          "x": "人形机器人现在已经能对话、跳舞，甚至把人的表情模仿得令人起疑。而Yanxin-X2又添了一项——一件迄今没有任何消费级设备做到的事:只要开口拜托，它就会哭。在上海举行的2026 Inclusion大会的视频中，演示者问道「Can you shed tears for me?」，几秒钟后，一滴眼泪顺着机器人的脸滑落。"
+        },
+        {
+          "t": "p",
+          "x": "这并非单纯的噱头。那滴眼泪背后，是机器人行业正在大力研究的情感计算——让机器识别、解读并回应人类情绪的领域。目的不是要让人相信机器人真的伤心，而是让人与机器人之间的互动更自然。但即便如此，一台会流泪的机器仍然正好立在恐怖谷的中央。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-crying-robot-engineering-emotion-1790191547.jpg",
+          "cap": "为情感而设计、会哭的机器人"
+        },
+        {
+          "t": "p",
+          "x": "Yanxin-X2由总部位于宁波的中国机器人企业Yanxi Technology打造。据该公司介绍，它采用三段式结构。首先，AI算法分析对话的语境和语气，判断需要情绪反应的时刻。一旦检测到悲伤或共情的话语，就会向医用硅胶面部下方的仿生部件发出信号，让表情转为悲伤。最后，一套独立的微流控装置会在眼角处释放「眼泪」。"
+        },
+        {
+          "t": "p",
+          "x": "目前这一版本是不能行走的固定式机型。取而代之的是转头、用目光追随人，以及用手臂做动作。未来计划用仿生肌肉取代伺服电机，让表情变化更顺滑、更多样。2023年发表在《Frontiers》上的一项研究发现，表情与对话情绪相符的机器人，比没有表情或表情错位的机器人，获得了更高的好感度、可信度，也被认为更像人类。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/the-fast-growing-robotics-landscape-1790191548.jpg",
+          "cap": "快速扩张的机器人市场"
+        },
+        {
+          "t": "p",
+          "x": "出挑的也不只有Yanxin-X2。CES 2026上出现了会折衣服的LG CLOiD，以及能把衣物放进洗衣机的SwitchBot Onero H1。在北京举行的世界人形机器人运动会上，Tiangong Ultra以9.39秒跑完100米。1X售价2万美元的NEO也开始学习做家务。整个行业正在把速度、灵巧度、实用性，乃至情感的逼真程度，一并往上推。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-callforme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-canyon.jpg?quality=82&strip=all&resize=1200,628",
+          "cap": "Pixel 11 Pro"
+        },
+        {
+          "t": "p",
+          "x": "谷歌将把'Call for Me'加入Pixel 11系列,这是继Direct My Call和Hold for Me之后的新通话功能。"
+        },
+        {
+          "t": "p",
+          "x": "这项让人联想到Google Duplex的Gemini Intelligence功能,官方称其为“早期实验”。谷歌会代替用户拨打“日常电话”,比如预订座位、确认库存或更改预约时间。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌举的例子包括:为餐厅预订露天座位、确认五金店是否有某个零件的库存,以及把美发预约改到下周四。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌表示将“尊重接听电话的本地商家和前台员工的时间”,并说明“Gemini代替用户拨打的电话,是真实顾客进行真实交易”。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌还表示:“让AI代替自己说话,是需要真正信任的重要一步,因此我们把用户控制放在了这项体验的核心。”"
+        },
+        {
+          "t": "p",
+          "x": "电话通过Gemini应用拨出。用户可以查看实时转录,并随时接管通话。Gemini会先做自我介绍,再与对方继续对话,还会代为等待电话转接和跳过自动语音菜单。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌表示“先小范围推出,以打磨好这项体验”。从今天起,美国地区使用Pixel 11、11 Pro、11 Pro XL或11 Pro Fold、并注册了Phone by Google测试版的Gemini订阅用户将获得早期预览。"
+        }
+      ]
+    },
+    "gadgets/gadgets-create-my-widget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-create-my-widget-play-store-listing-hero-image.jpg",
+          "cap": "Create My Widget Play商店页面"
+        },
+        {
+          "t": "p",
+          "x": "谷歌已把Create My Widget应用上架到Play商店。应用列表的截图直接展示了该应用将支持的小组件分类和模板,也能看到它在Android手机和Googlebook笔记本上的样子。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌在I/O 2026前夕预告了Create My Widget,承诺让用户自己制作完全贴合需求的小组件。此后几个月没有消息,这次上架终于让它有了轮廓。"
+        },
+        {
+          "t": "p",
+          "x": "9to5Google率先发现的这份列表中,包含了多张Android手机和Googlebook笔记本两端的UI截图。只要用自然语言描述想要的小组件,剩下的工作就交给Gemini处理。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-1.jpg",
+          "cap": "用自然语言制作小组件的界面"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-3.jpg",
+          "cap": "按分类划分的小组件创意"
+        },
+        {
+          "t": "p",
+          "x": "应用首先展示组合小组件、重要日期、天气提醒、每日简报等分类。每个分类里都有几个可作为起点的小组件创意。做好的小组件在放上主屏幕之前还可以修改和打磨。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/create-my-widget-5.jpg",
+          "cap": "在Googlebook笔记本上的界面"
+        },
+        {
+          "t": "p",
+          "x": "在Googlebook笔记本上,活动与旅行、日常习惯、工具与技巧等分类可能还会增加。制作流程相同:微调预设,或者用语言描述想要的效果,剩下的重活交给Gemini。"
+        },
+        {
+          "t": "p",
+          "x": "Play商店上架的版本号是“1.27.983746769.0-desktop_release”,看起来是为即将出货的Googlebook笔记本做准备。"
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-copilot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+          "cap": "2024年5月,微软雷德蒙德园区的Copilot+ PC体验展示区。图片:Chona Kasinger/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "微软从2024年开始销售'Copilot+ PC'。这是为了让人们更容易分辨哪些Windows设备能够在本地运行AI任务的一种营销方式。但本周发布的新款Surface PC上,哪里都找不到Copilot+ PC的标识。"
+        },
+        {
+          "t": "p",
+          "x": "Surface业务负责人、公司副总裁Brett Ostrum告诉Windows Central,新款Surface“不会被称为Copilot+ PC”,尽管它满足所有相关要求。“我们过去设定的Copilot+设备标准,它们全部满足。关于在边缘端运行AI、混合方案的说法,我们还会继续讲下去。”"
+        },
+        {
+          "t": "p",
+          "x": "Copilot+ PC的要求是16GB内存、256GB存储,以及一枚算力40 TOPS以上的NPU。10月13日上市的Surface Pro 12英寸(第2代)和Surface Laptop 13英寸(第2代)采用高通骁龙X2 Plus,搭载了一枚80 TOPS的高通Hexagon NPU。"
+        },
+        {
+          "t": "p",
+          "x": "高通计算业务SVP Kedar Kondap对Windows Central说了类似的话。“Copilot+ PC的目的是传递NPU体验,是用一定的基准和指标来定义一类设备,比如45 TOPS的NPU。这样看的话,现在只是不再用这个说法了,给到的体验其实还是一样的。”"
+        },
+        {
+          "t": "p",
+          "x": "在去年5月之前还在线的营销页面上,Copilot+ PC被称为代表“史上最快、最智能的Windows PC”的“AI PC和笔记本电脑中的一个档次”。那个落地页现在会跳转到“性能PC”页面,Copilot+ PC仍被提及,但已远不如以前显眼。"
+        },
+        {
+          "t": "p",
+          "x": "原因是多方面的。其中之一是一直伴随Recall功能的安全风险,这在隐私方面仍是令人担忧的问题。"
+        },
+        {
+          "t": "p",
+          "x": "也有一种解读认为,营销已经完成了它的任务。在生成式AI预期高涨之时,它把'AI PC'这个概念推了上去;在疫情后PC销量下滑之际,它又给了人们换新电脑的理由。2024年10月,Satya Nadella表示Copilot+ PC“正在吸引新客户”,2025年1月他又透露,在节日季,它占美国高端笔记本电脑销量的15%。"
+        },
+        {
+          "t": "p",
+          "x": "两年过去,AI PC这个概念已经失去了热度。IDC的Jitesh Ubrani今年1月告诉Ars Technica,早在内存短缺叠加之前,厂商就已经很难继续推动AI PC这套说法。“云端选项到处都有,端侧AI的实际用处有限,人们对AI PC的兴趣已经动摇了一段时间。”"
+        },
+        {
+          "t": "p",
+          "x": "戴尔也在今年去掉了自己2025年打上的笔记本品牌标识,2026年产品线中几乎看不到AI PC的提法了。英伟达的RTX Spark笔记本GPU也是一个变量。微软已经确认,将在今年秋天推出搭载RTX Spark的'Surface Laptop Ultra'。比起“能很好运行Copilot的PC”这种老说法,RTX Spark或许会站到营销的最前面。"
+        }
+      ]
+    },
+    "gadgets/gadgets-blue-yeti2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rzUXEmUpCTLBZQSwXwkxAA-1920-80.jpg",
+          "cap": "Blue Yeti 2。图片:Logitech"
+        },
+        {
+          "t": "p",
+          "x": "Blue Yeti于2009年问世,成为创作者、播客主播和主播最常用的USB麦克风。罗技收购Blue Microphones已有8年,如今终于推出了续作。"
+        },
+        {
+          "t": "p",
+          "x": "新款Yeti 2的设计更简洁,新增了3D接近传感器、基于AI的降噪功能和内置显示屏。颜色只有黑色和白色两种,起售价为159.99美元。"
+        },
+        {
+          "t": "p",
+          "x": "据罗技介绍,Yeti 2的接近传感器能以3D方式追踪声音,实时自动调整增益、均衡器和拾音模式。AI降噪器可以滤除键盘敲击声、鼠标点击声和风扇噪音等杂音。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/apv7UKVLn8tepST76TtRbX.jpg",
+          "cap": "1.3英寸彩色LED显示屏。图片:Logitech"
+        },
+        {
+          "t": "p",
+          "x": "让初代产品大受欢迎的USB连接方式得以保留,同时新增了一个便于随手调整设置的装置。1.3英寸彩色LED屏幕上会出现一个8位风格的Yeti吉祥物,提供信息和使用提示。"
+        },
+        {
+          "t": "p",
+          "x": "只需转动旋钮即可调整设置或切换预设,因此不需要专用软件。想要更深入地调整,还可以直接联动罗技G Hub,使用社区制作的Blue VO!CE配置文件,或者上传自己的头像。"
+        },
+        {
+          "t": "p",
+          "x": "除了麦克风,罗技还发布了G Pro系列游戏装备:Pro X3 Superstrike鼠标、Pro X Control鼠标垫、Pro X2 Rapid键盘和Pro X3 Lightspeed耳机,均参考了职业电竞选手的意见打造。"
+        },
+        {
+          "t": "p",
+          "x": "Pro X3 Superstrike采用罗技自有的HITS技术,据称电源效率提升了50%。Pro X2 Rapid键盘配备了磁轴、速连扳机、按键优先级和OLED显示屏。"
+        }
+      ]
+    },
+    "gadgets/gadgets-optimus-hands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "图片:Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "每周2万台Optimus机器人,这是特斯拉设定的目标,据说并不容易实现。The Information报道称,特斯拉上个月生产了“每周数百台”。这是今年早些时候把Model S和Model X生产线改造成Optimus产线之后的成绩。"
+        },
+        {
+          "t": "p",
+          "x": "改造产线的做法本身反而拖累了生产,首先卡在零件的精确匹配上。The Information这样指出:“Optimus的生产线是全新的,而且Optimus的零件比汽车零件小得多,需要以更高的精度相互配合。”"
+        },
+        {
+          "t": "p",
+          "x": "目前量产的'V3'版Optimus,其手部和前臂中“螺丝和小零件超过100个,目前仍需工人手工组装”。"
+        },
+        {
+          "t": "p",
+          "x": "这些机器人比上一代更轻,摄像头也更多。不过仍在开发中的'感应手套'尚未配备,这个部件能让触觉传感器单独更换,而不必整只手一起换,从而提高耐用性。"
+        },
+        {
+          "t": "p",
+          "x": "Optimus的时间表已经推迟了好几年。在此期间,埃隆·马斯克放出豪言,称Optimus会成为特斯拉“史上最大的产品”。目前它仅在有限区域内部用于特定任务,既不是通用型,也不是远程操作。"
+        },
+        {
+          "t": "p",
+          "x": "据称特斯拉最初计划不出售机器人,而是采用租赁方式,用由此收集到的训练数据来改进机器人。问题在于,机器人首先得被投放到现实世界中。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时,其他开发商正转向不那么像人类的形态。本月早些时候还有消息称,中国监管部门已开始搁置人形机器人企业的IPO上市申请。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-camera-ai-events": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
+          "cap": "苹果（Aqara）、Ring、谷歌Nest的视频门铃"
+        },
+        {
+          "t": "p",
+          "x": "几年前，The Verge的詹妮弗·帕蒂森·图伊正和孩子们在海边寻找复活节彩蛋。口袋里的手机不断震动，但提示全都是检测到动作。回到家才发现，没有锁好的鸡舍门开着，家里养的边境猎犬已经咬死了四只鸡。"
+        },
+        {
+          "t": "p",
+          "x": "如果第一条提示是小狗正在追鸡，她当时就会立刻赶回去。如今这种提示已经可以实现。视觉语言模型会用一句话描述摄像头看到的画面，并在视频加载之前发送出去。Ring、谷歌Nest、Blink、Wyze和Arlo已经提供这项功能，本月苹果也随iOS 27为HomeKit安全视频加入了面向家庭的Apple Intelligence。"
+        },
+        {
+          "t": "p",
+          "x": "价格方面苹果最贵。与iCloud+订阅绑定，一个摄像头每月9.99美元，两个29.99美元，最多五个59.99美元。谷歌和Ring每月20美元即可无限数量摄像头，提供AI描述、视频搜索和人脸识别。"
+        },
+        {
+          "t": "p",
+          "x": "图伊安装了Ring Wired Doorbell Pro、谷歌Nest Doorbell 2K，以及代表苹果的Aqara Doorbell Camera G400进行比较。描述最具体的是谷歌和Ring。苹果常常只给出有人在院子里走动这类笼统描述。谷歌甚至能说出黑白猫穿过门廊这样具体到是哪只猫。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all&w=2400",
+          "cap": "她戴上幽灵脸面具站在门前测试，发来最有用提示的是Nest。"
+        },
+        {
+          "t": "p",
+          "x": "人脸识别方面Ring最准确。苹果常常含糊地说可能是詹妮弗·帕蒂森·图伊的人，谷歌则有近一半次数把作者认成了女儿的朋友。苹果也有自己独有的功能：能识别出现在多个摄像头中的同一对象并拼接成一段视频的剪辑拼接功能，以及把看起来重要的事件显示在搜索栏上方的功能。"
+        },
+        {
+          "t": "p",
+          "x": "最好地解决提示泛滥问题的是Ring的异常活动功能。每个摄像头都会学习日常画面，只提示偏离日常的情况。原本每天约40条的提示减少到两三条。儿子放学回家时很安静，但如果他凌晨两点才回来就会收到提示。"
+        },
+        {
+          "t": "p",
+          "x": "下一步是让家根据摄像头看到的内容自动行动，比如后院出现浣熊就打开洒水器。谷歌Home加入了通过摄像头提示触发自动化的功能，但设置成只给特定猫咪喂食的规则，却在任何猫出现时都会触发。关键在于识别的准确度。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "由于谷歌Home无法区分猫咪，结果猫咪们都多吃到了食物。"
+        },
+        {
+          "t": "p",
+          "x": "隐私问题依然存在。Ring默认在云端处理所有视频。开启Apple Intelligence后，视频摘要会在隐私云计算(PCC)上解密处理，苹果表示处理完成后会永久删除数据。图伊认为本地AI处理才是正确答案。"
+        },
+        {
+          "t": "p",
+          "x": "目前的情况是，花了苹果的高价却得到更少。如果只有一个摄像头，每月10美元还算合理，但五个摄像头每月60美元，只为收到猫坐在门廊上这种提示，账算不过来。AI让摄像头能够说出发生了什么，剩下的课题是告诉人们真正重要的是什么。"
+        }
+      ]
+    },
+    "gadgets/gadgets-c2pa-android-app-ai-image-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/new-ai-apps-c2pa-verify-1.jpg",
+          "cap": "C2PA Verify应用界面"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI最大的麻烦，是让人难以分辨真假。随着模型性能提升，就连眼光敏锐的人也越来越难分辨。照目前的发展速度来看，今后也不会变得更容易。"
+        },
+        {
+          "t": "p",
+          "x": "新应用C2PA Verify想要帮忙解决这个问题。这是一款安卓应用，通过读取图片中嵌入的C2PA（内容来源与真实性联盟）认证信息，显示图片的来源以及经过了怎样的编辑。"
+        },
+        {
+          "t": "p",
+          "x": "冗长复杂的记录由应用来整理。用户可以查看签署者、制作者，以及图片经历的时间线，如果愿意还能打开原始数据。"
+        },
+        {
+          "t": "p",
+          "x": "它也有局限。C2PA认证信息是可以被删除的。如果图片的这些数据被删除了，应用同样无法判断它是AI生成的还是真实照片。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此，Android Authority仍认为这是一款值得留在手机里的工具。它开源且免费，由开发隐私应用SnapSafe的Dark Rock Studios打造。"
+        },
+        {
+          "t": "p",
+          "x": "同一篇文章还介绍了另外两款AI应用。Retirement Planner是用Claude Opus 4.5进行氛围编程(vibe coding)做出的网页应用。它根据输入数据计算并显示未来资产总额、退休后提取率和税额，面向美国和加拿大用户。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/new-ai-apps-memoria-android-app-1.jpg",
+          "cap": "图库应用Memoria"
+        },
+        {
+          "t": "p",
+          "x": "Memoria是一款支持离线AI自然语言搜索的安卓图库应用。它使用苹果的MobileCLIP-S0模型，搜索和数据都保留在设备本地。代价是安装包体积远超250MB。用户可以用文字或相似图片搜索，它同样开源且免费。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelmob-ai-workstation-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RuQoU53FTErZhkeNQqaWTX.jpg",
+          "cap": "PixelMob便携式AI工作站"
+        },
+        {
+          "t": "p",
+          "x": "TechRadar评测了UniDrive旗下的PixelMob便携式AI工作站。这款设备面向摄影师、视频制作者和创作者。它在一个配备7英寸OLED触摸屏的小盒子里集成了文件备份与管理、编辑、监看和连线拍摄功能,并通过Kickstarter众筹推出。"
+        },
+        {
+          "t": "p",
+          "x": "它运行定制版Android系统,配备12GB LPDDR5内存和256GB存储空间。设备有三个M.2插槽,插入8TB模块后存储空间最多可扩展至24TB。它支持CFexpress Type B(最高800MB/s)、SD、microSD、USB-A/C、HDMI输入输出和LAN端口,重量为550克。内置11,600mAh电池在高负载下可用2至3小时,背面还可加装索尼NP-F电池以延长续航。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hLzyRDNtT3Js5f66ndipnX.jpg",
+          "cap": "机身大小介于手机与平板之间"
+        },
+        {
+          "t": "p",
+          "x": "AI在文件整理上发挥了作用。将存储卡中的文件移入Lightbox文件夹后,内置AI会自动添加标签、归并相似的连拍照片、识别人脸,并挑出曝光过度或不足的照片。用户还可开启人物与鸟类识别以及空场景检测。缩略图加载速度比Adobe Bridge更快。"
+        },
+        {
+          "t": "p",
+          "x": "照片编辑在Cones应用中完成,星轨以及对焦、曝光堆栈也都在其中处理。虽然设备自带视频编辑器Framebox,但评测者下载了CapCut来使用。像Lightroom或DJI应用这样经过批准的第三方应用也可以安装。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aGJDcVdgzV9YokJMjnqgnX.jpg",
+          "cap": "连接相机使用的连线拍摄模式"
+        },
+        {
+          "t": "p",
+          "x": "连接索尼A7 IV后,可以实时查看画面并控制拍摄。长曝光模拟功能通过连续拍摄30张照片进行合成,即使不用ND滤镜也能生成长曝光照片。在Deck模式下,可通过HDMI监看相机画面,同时以最高50Mbps录制并应用LUT。"
+        },
+        {
+          "t": "p",
+          "x": "不足之处也存在。机身塑料感较强,更像样品机,NP-F电池也无法完全贴合固定。部分1TB、2TB级CFexpress Type B卡未能被识别。必须先创建Lightbox文件夹这一点,初次使用时也不容易弄明白。"
+        },
+        {
+          "t": "p",
+          "x": "不过评测者认为,这是他见过的功能最丰富的创作者设备之一。它把便携存储、AI整理、连线拍摄、编辑和视频监看集于一身,他表示自己今后会继续使用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-googlebook-magic-pointer-privacy-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Acer-Googlebook-14-Magic-Pointer-16-9-scaled.jpeg",
+          "cap": "宏碁Googlebook 14的魔法指针"
+        },
+        {
+          "t": "p",
+          "x": "Google看着桌面上最古老的元素——鼠标光标,认为有了Gemini之后,它能做的不只是点击。魔法指针由此而生。它能理解用户在Googlebook屏幕上高亮的对象,并帮助用户用它做些事情。"
+        },
+        {
+          "t": "p",
+          "x": "这听起来很方便,但也带来一个重要问题:屏幕上的内容究竟是在什么时候离开笔记本电脑,传到Google的云端?Google对这条界线做了说明。"
+        },
+        {
+          "t": "p",
+          "x": "Google笔记本电脑与平板产品高级总监亚历山大·库舍(Alexander Kusher)在Android Faithful节目中,解释了魔法指针在幕后的运作方式。"
+        },
+        {
+          "t": "video",
+          "yt": "BC3nI--WHBc"
+        },
+        {
+          "t": "p",
+          "x": "据库舍介绍(视频1小时6分37秒处),第一步在Googlebook本机内完成。打开魔法指针后,笔记本电脑会在屏幕上找到并高亮可交互的对象,比如邮件、图片或一段文字。"
+        },
+        {
+          "t": "p",
+          "x": "只有在用户选中某项内容并把任务交给Gemini之后,云端才会介入。库舍以判断邮件是否为垃圾邮件为例:识别出这是一封邮件由本机完成,而请求Gemini进行分析时,所选内容才会被发送到云端模型。"
+        },
+        {
+          "t": "p",
+          "x": "所以这条界线相当简单。光标处于开启状态,并不意味着屏幕内容每次都会被发送给Gemini。Google表示,在用户主动唤出之前,AI光标不会有任何动作。"
+        },
+        {
+          "t": "p",
+          "x": "Google似乎对普通光标做过相当长时间的研究。库舍透露,内部测试中部分员工一个工作日内把光标移动了约1英里。团队由此确信,指针是显示用户关注点所在的有用信号。"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority在发布前深入研究了魔法指针,发现了Google正在测试的多项Gemini功能,在Googlebook的体验测试中也确认了该功能是平台的核心。现在,本机处理在哪里结束、云端又从哪里接续,也变得清楚了。"
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ai-upgrade-five-tips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Csc6K7mBQjMqauktpGQ7mT.jpg",
+          "cap": "iOS 27的Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "没想到会这么说,但在iOS 27中,Siri变得比以往任何时候都更有用。自iPhone 4S问世以来,它长期被当作笑柄,先是被Amazon Alexa和Google的助手超越,后来在ChatGPT、Claude、Gemini等LLM面前更是毫无胜算。"
+        },
+        {
+          "t": "p",
+          "x": "如今苹果的AI终于追上了,其中也借助了一点Google Gemini的帮助。几年前演示后曾被称为「画饼软件」的Apple Intelligence,如今在苹果「27」系列操作系统中几乎全部都能正常运行。"
+        },
+        {
+          "t": "p",
+          "x": "一茶匙等于多少毫升之类的问题当然也能回答,但Siri AI真正的力量在于了解个人语境。iPhone知道联系人,能读取短信和邮件,还会查看日历,在需要的时刻给出合适的信息。"
+        },
+        {
+          "t": "p",
+          "x": "开始之前有件事要确认。Siri AI并非所有地区都能使用,尤其暂时不会登陆欧盟。需要在设置中开启功能并让应用信息建立索引,这有时要花几个小时以上,耐心等待就好。"
+        },
+        {
+          "t": "p",
+          "x": "第一,查找别人推荐的歌曲。朋友们和自己音乐口味相近,群聊里总会有人发Spotify链接。只要问「上周菲尔推荐的歌是什么?」,Siri就会在对话中找到链接。不过截稿时WhatsApp还不支持Siri AI。"
+        },
+        {
+          "t": "p",
+          "x": "第二,安排一天的计划。只要说「给我看看本周的会议」,它就会把即将到来的行程汇总显示出来。日历需要在设置里逐个开启,如果漏掉工作日历,可能会错过重要会议。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mWR3vpoibFq98uzfZiatMb.png",
+          "cap": "用Visual Intelligence查看菜单的营养信息"
+        },
+        {
+          "t": "p",
+          "x": "第三,挑选餐厅。借助新的屏幕识别功能,Siri现在能理解iPhone屏幕上显示的内容。打开几家餐厅的页面,让它根据用户评价推荐,或者按菜系缩小范围都可以。还能用Visual Intelligence当场翻译菜单,或查看菜单上的营养信息。"
+        },
+        {
+          "t": "p",
+          "x": "第四,查找并扩展照片。只要说「找出在阿尔泰亚海滩拍的所有照片」,它就会从照片库中挑出来。说「把这张图片扩展一下」,生成式AI驱动的扩展工具就会运行,填补画面外侧并重新调整构图。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzkMQv9xzHKQwjc7iFHNwG.jpg",
+          "cap": "在照片应用中用自然语言查找照片"
+        },
+        {
+          "t": "p",
+          "x": "第五,文件管理。身为小企业主,作者让Siri帮忙查找丢失的文件,省下不少时间。查找特定截图或最新版本文件,不仅限于iPhone,在iPad和Mac上同样可行。只要问「Siri,Tom's Guide的发布资料在哪里?」,它就会告诉你位置,还能提取文件中的关键数据。"
+        },
+        {
+          "t": "p",
+          "x": "在搭载Gemini的设备上,这类事情很多早就能做到。不过,如果这是你第一次接触这样的AI助手,可学的东西依然不少。建议只有一条:多多尝试。"
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-snapdragon-x2-local-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "高通在毛伊岛举办的骁龙峰会上，反而是微软Surface展台抢走了风头。参数话题被放到了次要位置，重点是新骁龙设备到底能做什么，从细微的界面调整到相当繁重的创作任务，都能看到Windows PC本地AI的发展方向。"
+        },
+        {
+          "t": "p",
+          "x": "第一场演示是触感反馈。Surface触控板和触控笔内置了触觉反馈，在Affinity、达芬奇Resolve、PowerPoint中对齐对象或拖动时间轴时，会用细微震动给出回应。看起来不起眼，用起来却不一样。笔记本本身没有变快，但在需要不断移动和对齐的创作类应用里，这一层反馈相当有用。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Photos-organized-via-Copilot-CLI-on-the-Microsoft-Surface.jpg?resize=1200%2C720",
+          "cap": "Copilot CLI挑选手机照片并转存到Surface文件夹的画面"
+        },
+        {
+          "t": "p",
+          "x": "还有一场演示结合了Phone Link、安卓手机和Copilot CLI。对连接的Nothing手机相册，用一句普通的话请求找出适合发SNS帖子的照片，AI分析图片后挑出合适的，复制到Surface的新文件夹。手机只负责提供数据，繁重的处理都在Surface本地完成。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Sketching-a-Football-on-the-Microsoft-Surface-Pro.jpg?resize=1200%2C720",
+          "cap": "在Surface Pro上手绘一个足球的画面"
+        },
+        {
+          "t": "p",
+          "x": "最值得一看的是创作工作流。微软的一位3D艺术家在Photoshop里手绘了一个足球，导入Blender后由AI转成3D素材。调整模型大小、添加元素后，又回到Photoshop调整光影，再加上动画和镜头运动。整个过程Surface都用电池供电，始终没有卡顿。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Generating-a-Football-inside-Blender-on-the-Microsoft-Surface-Pro.jpg?resize=1200%2C720",
+          "cap": "在Blender中用AI生成足球3D素材的画面"
+        },
+        {
+          "t": "p",
+          "x": "成品随后进入图像生成环节，变成一个带光照和环境效果的足球场场景，还延伸出一段短视频。每项技术单独看都不算新鲜，有意思的是它们被一环套一环地接在一台便携式2-in-1设备上完成。新款X2 Plus的NPU最高可达80 TOPS，但对围观者来说，重要的不是数字，而是它到底能不能把事情做成。答案更接近于能。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Microsoft-Ink-Canvas-Demo.jpg?resize=1200%2C720",
+          "cap": "Ink Canvas演示"
+        },
+        {
+          "t": "p",
+          "x": "从易用性来说，Ink Canvas最有意思。不用对聊天机器人用文字描述想法，而是从一块空白画布开始。先放入图片、用笔写备注、做高亮标记，拼出一块情绪板，再用套索工具选中一部分，用那段上下文生成图片或获取摘要。这样就减少了把视觉想法转成复杂文字提示词的麻烦。Ink Canvas内置在支持触控的Surface设备上，但生成功能需要联网并订阅微软365。"
+        },
+        {
+          "t": "p",
+          "x": "被问到和英伟达RTX Spark相比如何时，微软的设计师给出了务实的回答：算力和内存上英伟达仍领先，骁龙的目标是在轻薄、靠电池供电的设备上提供足够的本地AI。专业创作者同样可以用X2 Elite版Surface完成正式工作，差别在于能力的上限。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-glasses-fda-hearing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/l-intro-1790192475.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta的AI眼镜将新增面向听力受损佩戴者的功能。Meta在Meta Connect上宣布，将在年内向支持的设备推出“听力增强(Hearing Enhancement)”功能。至少初期不包括Ray-Ban系列机型。"
+        },
+        {
+          "t": "p",
+          "x": "该功能包含在Meta One订阅中，不订阅的话一次性支付149美元即可使用。付款前还可享受30天免费试用。"
+        },
+        {
+          "t": "p",
+          "x": "这款软件获得了FDA认证，可申请HSA/FSA报销，但报销需分别向各自保险公司确认。无需处方即可在家设置。开关只需一句语音指令(“Hey Meta, start Hearing Enhancement”)。"
+        },
+        {
+          "t": "p",
+          "x": "Meta已经提供在嘈杂环境中让对话更清晰的“对话聚焦”模式。新功能针对通常需要佩戴助听器的轻度至中度听力受损用户。同时还推出根据视障和低视力社群反馈改进的“详细回复”功能，以及新的音频和操作自定义设置。"
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-ai-fridge-update-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Smart-Samsung-AI-fridge.jpg"
+        },
+        {
+          "t": "p",
+          "x": "三星已暂停面向冰箱推送SmartThings软件更新。原因是部分安装了该更新的产品直接死机。问题发生在韩国时间9月22日下午，恰逢中秋假期前几天。"
+        },
+        {
+          "t": "p",
+          "x": "据StarNews和SBS新闻报道，三星官方社区“三星会员”上出现了数十条相关帖子。内容显示，用户在SmartThings中点击更新通知后冰箱立刻停止运作。有帖子称回家后发现内部照明熄灭、触控面板失灵、也没有冷气。还有人表示屏幕一直卡在“更新中”，拔插电源也无法恢复。关于中秋食物恐怕要扔掉的抱怨也接连出现。"
+        },
+        {
+          "t": "p",
+          "x": "受影响的产品大多是2024年以后推出的Bespoke AI四门系列。韩国ZDNet报道称，系统错误导致内部测试软件流向了客户。三星向该媒体表示，一发现推送错误便立即停止了分发。"
+        },
+        {
+          "t": "p",
+          "x": "三星也进行了公开道歉，告知用户需要预约上门检查产品，期间建议将食物转移到保温箱中。有用户表示，预约系统也因访问量暴增而变得卡顿。"
+        },
+        {
+          "t": "p",
+          "x": "维修排期又引发了新的不满。有顾客表示服务中心告知要等假期结束才能上门。三星电子服务表示，假期期间也会安排工程师和客服人员应对紧急制冷故障，SBS报道称具体日期为9月26日和27日。"
+        },
+        {
+          "t": "p",
+          "x": "三星尚未公布受影响的数量，也未说明是否会对变质食物进行赔偿。与此同时，用户们只能往冰箱里塞干冰来维持。"
+        }
+      ]
+    },
+    "gadgets/gadgets-asus-gb300-dgx-workstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SscwojFNxXvpqPJ9d2ohmj-1920-80.png",
+          "cap": "华硕GB300工作站（图片来源：StorageReview）"
+        },
+        {
+          "t": "p",
+          "x": "华硕推出了搭载NVIDIA GB300 Grace Blackwell Ultra超级芯片的工作站ExpertCenter Pro ET900N G3。机箱内集成了72个Arm核心、Blackwell Ultra GPU和748GB一致性内存。重量27kg，尺寸584×232×565mm，从一开始就不是便携设备。"
+        },
+        {
+          "t": "p",
+          "x": "外观采用拉丝银配深色网状前面板，顶部装有两个粗大的金属把手，方便多人搬运而不必抓住侧板。机箱内部，采用铜制冷板的封闭式水冷回路为超级芯片、内存和网卡散热，水冷无法覆盖的光模块则由专用风扇单独送风。"
+        },
+        {
+          "t": "p",
+          "x": "电源由一块80 PLUS钛金认证的1600W电源负责。默认存储为两块2TB NVMe组成的镜像，另外还留有三个PCIe插槽和两个扩展位。"
+        },
+        {
+          "t": "p",
+          "x": "测试中，以MiniMax M2.7基准同时运行128个并发流，输出达到每秒4,793个token。像GLM-5.2这样的大型模型可将215GB的专家权重直接载入一致性内存。在GPT-OSS-120B上，输出达到每秒9,280个token，总吞吐量超过每秒45,000个token。"
+        },
+        {
+          "t": "p",
+          "x": "评测者们一致认为外形酷似苹果棱角分明的Mac Pro，但性能完全不是一个级别。StorageReview的Brian Beeler评价道，GB300 DGX工作站是他们迄今放在桌面上用过的最强机器。同时运行数十个编码智能体时，单个智能体没有明显变慢，将智能体数量从一个增加到128个也没有出现卡顿或迟滞。"
+        },
+        {
+          "t": "p",
+          "x": "通过两个400Gb网络端口，最高可以800Gb/s的速度与另一台GB300工作站相连，组成1,496GB的内存池。YouTuber Alex Ziskind在视频中展示了同时运行数十个编码、研究和写作智能体时，功耗逼近1,000W的情况。华硕尚未公布价格，预计售价在10万至12万美元之间。"
+        }
+      ]
+    },
+    "gadgets/gadgets-android-ai-button-shortcut": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今的手机已经绕不开AI功能。新品发布会越来越以AI为核心，各品牌纷纷推出自家的AI助手。这一趋势在专属AI按键上体现得最明显。对Android Authority的Megan Ellis来说，AI按键也是手机上最不受欢迎的部分。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/a-phone-held-in-a-hand-showing-its-side-buttons-1280w-720h.jpg",
+          "cap": "手持手机露出侧面按键的画面"
+        },
+        {
+          "t": "p",
+          "x": "AI按键独立于电源和音量键之外，按下后会直接打开AI助手或AI功能。Motorola Razr Fold和Motorola Edge把它放在左侧，入门机型Nothing Phone 4a也配有专属按键。Ellis最近换用的主力机HONOR 600 Pro，则把AI按键放在机身右下方。"
+        },
+        {
+          "t": "p",
+          "x": "对不常用AI的她来说，这个按键常常是不小心按到就马上关掉的存在。绑定在电源键和主屏幕键上的Gemini同样不受欢迎。她最终打开设置想找办法关掉这个按键，结果反而发现了让它变得有用的方法。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/the-ai-button-settings-menu-on-the-honor-600-pro-1280w-720h.jpg",
+          "cap": "HONOR 600 Pro的AI按键设置菜单"
+        },
+        {
+          "t": "p",
+          "x": "HONOR 600 Pro可以给长按、双击、单击分别指定不同功能，也能选择手电筒、相机、声音模式切换等与AI无关的功能。真正的发现是“快捷服务”：它不仅能打开应用，还能直接调用应用内的特定功能，比如在Google日历里新建日程、在Deezer里启动歌曲识别、或是打开Firefox的密码管理器。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/quick-services-settings-for-honor-ai-button-1000w-2158h.jpg",
+          "cap": "HONOR AI按键的快捷服务设置界面"
+        },
+        {
+          "t": "p",
+          "x": "她结合趣味性、实用性和效率，定下了三种用法：长按打开每天都玩的Pokémon GO，双击唤出笔记应用NotesNook，单击则打开手电筒，晚上关掉卧室灯后穿过黑暗房间走向床时很方便。比起打开她并不喜欢的分栏通知面板去找快捷设置，这个按键快得多。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/motorol-edge-70-ai-button-options-1280w-720h.jpg",
+          "cap": "Motorola Edge 70的AI按键选项"
+        },
+        {
+          "t": "p",
+          "x": "并非所有AI按键都是这样。她正在评测的Motorola Edge 70只能二选一：使用AI功能，或者关闭按键，没有中间选项。Ellis认为，如果厂商把这个按键开放成自由快捷键，它就不太会再是令人厌烦的累赘。对喜欢用AI的人来说，原本的功能依然保留。她希望其他厂商也别再把按键锁死，跟进HONOR的做法。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-buds-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Buds-2a-Berry.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "谷歌在9月发布Pixel 11时曾承诺将大幅更新Pixel Buds。如今第一批成果开始显现:最新的Pixel Buds配套应用加入了Gemini音频控制功能。"
+        },
+        {
+          "t": "p",
+          "x": "将应用更新到1.0.981607934版本后,Gemini的『已连接应用』列表中会新增@Pixel Buds。EQ预设、ANC模式、对话检测、触控操作等设置都可以通过Gemini更改。只需说出类似“Hey Google, turn up the bass”或“Hey Google, turn on noise cancellation”这样的指令即可。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-3.jpg",
+          "cap": "发出指令后出现的Gemini浮层"
+        },
+        {
+          "t": "p",
+          "x": "发出指令后会弹出Gemini浮层,并伴随“Connecting to Pixel Buds”的提示以语音确认。未更新应用的设备上,同样的指令只会打开系统蓝牙设置界面。1.0.981607934版本今天已通过Play商店广泛推送。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Buds-Gemini-controls-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "谷歌同时预告的其余三项功能似乎都需要另行进行固件更新。Pixel Buds Pro 2将加入动态ANC功能,在耳塞在耳内移动导致贴合略有偏移时进行补偿。还会新增与Pixel Watch的睡眠联动功能,可暂停音乐、关闭触控操作并将通知设为静音。此外还将新增轻点Pixel Buds即可开启实时翻译的功能。"
+        }
+      ]
+    },
+    "gadgets/gadgets-liminal-walking-meditation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
+          "cap": "照片:Liminal VR"
+        },
+        {
+          "t": "p",
+          "x": "以针对平静、专注、活力等情绪状态打造的简短VR体验而闻名的Liminal,将这套经验带到了智能眼镜上。新应用『Liminal: Walking Meditation』会在你行走时用Meta AI眼镜的摄像头拍摄周围景象,并以你当下所见的事物为素材,几乎实时地讲述一段语音冥想。手机应用将于10月在iOS和Android上推出。"
+        },
+        {
+          "t": "video",
+          "yt": "QUHgalCHs9s"
+        },
+        {
+          "t": "p",
+          "x": "将手机应用与眼镜配对,选好主题、声音和节奏后,把手机放进口袋就可以了。上线时提供12种冥想主题、8种声音和3种节奏选项。据CTO Tin Nguyen介绍,节奏设置不仅决定台词之间的停顿,还决定旁白的多少和整体时长。最短的散步大约为10到13分钟。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Screenshot-2026-09-23-at-10.47.39---PM.png",
+          "cap": "照片:Liminal VR"
+        },
+        {
+          "t": "p",
+          "x": "难的是要选择说什么。早期版本大约提了八次垃圾桶的话题,还曾对成人用品店橱窗里的霓虹灯莫名其妙地讲得很激动。应用并非持续拍摄,而是在散步过程中每隔一段时间看一帧画面。UploadVR的记者用Ray-Ban Meta试用后发现,经过一棵树时它几乎实时地指出了那棵树,充裕的停顿也让人不会感到负担。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/IMG_2684.PNG",
+          "cap": "Liminal: Walking Meditation iOS应用界面"
+        },
+        {
+          "t": "p",
+          "x": "图像会经手机交由Google Gemini处理。由于设置为不保留数据,一旦返回结果,图像会立即被丢弃。应用故意不请求麦克风权限,也没有导航功能。CEO Damiano Moratti表示,危险提示很难做到可靠,因此至少目前决定不加入导航功能。"
+        },
+        {
+          "t": "p",
+          "x": "价格为每月9.99美元,每年99.99美元,包含每月30次情境式散步,以及各主题离线脚本版本的无限次使用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-prismml-snapdragon-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/1e18c1aa155afeddc9975c3c1803af51.jpg",
+          "cap": "在骁龙峰会演示现场体验的PrismML智能眼镜(图=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "「这是一个水瓶。」戴上眼镜看着眼前的物体问「这是什么?」,耳边立刻传来了答案。这是美国AI初创公司PrismML的智能眼镜。整个过程全部在设备内完成,没有连接互联网。"
+        },
+        {
+          "t": "p",
+          "x": "24日(当地时间),在美国夏威夷毛伊岛举行的『骁龙峰会2026』演示室里,ZDNet Korea亲自试戴了PrismML、SPECS、XREAL这三款AR眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "PrismML眼镜按下右上方的物理按钮即可拍照,询问拍摄对象后AI会以语音回答。现场有人问起拿到的卡牌是什么颜色,它立刻回答「蓝色」。秘诀在于Qualcomm的Snapdragon AR1平台以及PrismML的压缩技术,将原本以8位运行的庞大AI模型压缩到1位,从而突破了内存限制。Qualcomm高级副总裁Ziad Asghar在前一天的主题演讲中强调,1位模型可以为视障人士实时提供周围环境和物体的信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/9dac62ca23c60bde3350381243f84969.jpg",
+          "cap": "SPECS的AR眼镜(图=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "SPECS眼镜无需控制器,仅靠手掌和手指的手势即可操作。张开空手掌,半空中就会出现菜单;用食指和拇指做出捏合动作即可打开应用。在『哈利·波特』演示中,用手势召唤猫头鹰『海德薇』并伸出右臂,它便轻轻落在了手臂上。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/09/25/dadea61ba01efcf10f5fb0ceb68f79e7.jpg",
+          "cap": "体验XREAL的AR眼镜(图=ZDNet Korea)"
+        },
+        {
+          "t": "p",
+          "x": "通过XREAL眼镜体验了空间计算。空荡的空间里展开了多块巨大的虚拟显示器,网页浏览器和视频窗口可以固定在想要的位置,只需转动头部就能在它们之间切换。即便快速转动头部,也没有感到画面卡顿或眩晕。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gorgon-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/TMSvSLPp4z66kcByzXoL7e-1920-80.jpg",
+          "cap": "GMKtec Evo-X5 Pro (이미지: GMKtec)"
+        },
+        {
+          "t": "p",
+          "x": "GMKtec이 에이전트형 AI 미니 PC 'Evo-X5 Pro'를 내놨다. AMD 플래그십 라이젠 AI 맥스+ 프로 495에 LPDDR5X-8533 메모리 192GB를 얹었다. 2TB PCIe 4.0 SSD 모델은 6,799달러, 4TB 모델은 7,099달러다."
+        },
+        {
+          "t": "p",
+          "x": "이 칩은 코드명 '고르곤 헤일로'인 라이젠 AI 맥스+ 400 제품군의 최상위 모델이다. 공간 효율형 젠 5c 코어를 빼고 풀사이즈 젠 5 코어만 16개(32스레드) 담았다. 기본 3.1GHz, 부스트 5.2GHz에 L3 캐시는 64MB로, 사실상 라이젠 9 9950X의 모바일판이다. 에이스매직 F9A와 미니스포럼 MS-S1 Max-P495가 같은 칩으로 맞붙는다."
+        },
+        {
+          "t": "p",
+          "x": "메모리 192GB는 엔비디아 GB10과 AMD 이전 세대 스트릭스 헤일로의 한도인 128GB를 넘는다. 24GB 칩 8개를 256비트 인터페이스로 묶어 대역폭은 약 273GB/s이고, 이 가운데 최대 160GB를 대형 LLM용 VRAM으로 돌릴 수 있다. 성능 모드에서는 지속 120W, 순간 최대 160W까지 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "슈퍼 얼리버드와 얼리버드 구매자는 각각 6%, 3% 할인을 받는다. 4TB 모델은 최저 6,699달러, 2TB 모델은 6,399달러까지 내려가고, 슈퍼 얼리버드가는 선착순 30대에만 적용된다. 2대·3대·5대 묶음 할인은 고작 10·20·40달러다. 톰스하드웨어는 하드웨어에 32,995달러를 쓰는데 0.12% 할인은 의미가 없다고 꼬집었다."
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-toothbrush-era": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/camerajet.jpg",
+          "cap": "Dyson CameraJet(© Dyson)"
+        },
+        {
+          "t": "p",
+          "x": "本月初在IFA 2026上,Dyson发布了一款AI智能牙刷,记者看到后先是深深叹了一口气。既然别的领域都在加入AI,牙刷迟早也会被卷入,这只是时间问题。"
+        },
+        {
+          "t": "p",
+          "x": "CameraJet是牙刷与冲牙器的结合产品。刷头上搭载的摄像头会判断牙齿间隙,并在恰当的时机喷水。它还支持Wi-Fi和配套应用,Dyson在发布会上特别强调,图像既不会保存在设备上,也不会上传到云端。"
+        },
+        {
+          "t": "p",
+          "x": "本周,Philips在『Next Generation DiamondClean 9900 Prestige』中加入了AI。它没有摄像头。取而代之的是,AI模型会根据刷牙习惯和牙齿敏感度自动切换模式,并将口腔分为12个区域,显示刷得不够干净的地方。这款牙刷甚至还配有屏幕。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/sonicare2.jpg",
+          "cap": "Philips AI牙刷(© Philips)"
+        },
+        {
+          "t": "p",
+          "x": "如果把初创公司的产品也算进去,一个完整的市场已经形成。然而研究显示,即便是电动牙刷,其清洁效果也并不比在CVS花5美元就能买到的手动牙刷更好,最多只是帮助使用者以适当的力度刷牙。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/camerajet-3.jpg",
+          "cap": "Dyson CameraJet(© Dyson)"
+        },
+        {
+          "t": "p",
+          "x": "CameraJet从上市第一周起就出现了彻底无法工作,或电池仓进水等问题。Dyson向Wired表示「已确认一个影响部分早期批次的单一零部件问题」,但没有透露具体是哪个零部件。"
+        },
+        {
+          "t": "p",
+          "x": "设备越复杂,故障也越复杂。既然电动牙刷并不比手动牙刷好多少,记者得出的结论是,加入AI几乎不可能真正改善牙齿健康。这更多是一种噱头,而且已经演变成过度设计的问题。如果想了解刷牙技巧,预约牙医才是更好、也更便宜的选择。"
+        }
+      ]
+    },
+    "gadgets/gadgets-flourish-humanoid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Flourish-1-cleaning.jpg?w=1200",
+          "cap": "用手机演示即可学习新任务的Flourish 1"
+        },
+        {
+          "t": "p",
+          "x": "不到4000美元的人形机器人,让人难以置信。但初创公司Flourish Robotics将可立即发货的“Flourish 1”定价为3555美元。CNET记者称这是他们听过的最便宜的人形机器人。"
+        },
+        {
+          "t": "p",
+          "x": "从周二起接受首批50台预订,发货定于12月。部分AI功能所需的云计算以可选订阅方式单独出售。CEO安托万·马塞尔表示,这不是付费测试版,而是产品正式发布。他说,剩下的不是研发,而是供应链,关键在于像电池这类采购周期约两个月的零件能否按时到位。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/videoframe_12847.png?w=1200",
+          "cap": "工作中的Flourish 1"
+        },
+        {
+          "t": "p",
+          "x": "它承担捡拾整理物品、给花浇水、清理猫砂盆等重复性家务。公司称无需编程,仅用手机应用就能在30分钟内教会它做任何家务,比如演示把手机推过桌面擦拭的动作。演示结束后,机器人花约一小时掌握新流程,随后会收到可以独立操作的提示。"
+        },
+        {
+          "t": "p",
+          "x": "马塞尔说,这不只是录制动作再重复播放。AI能在一定范围内帮助它举一反三。教它把鞋放进鞋柜时,它学到的是任务本身而非固定坐标,所以即使鞋子每天放的位置不同也能找到。他说平时没有人远程操控它。"
+        },
+        {
+          "t": "video",
+          "yt": "SRBAKFKEiLA"
+        },
+        {
+          "t": "p",
+          "x": "它做不到的事也很明确。不能下水,无法搬动超过1.5公斤或易碎的物品,也不能上楼梯。它不会照看孩子。身高3英尺7英寸,体重44磅,可连续工作12小时。一旦有人或动物进入作业范围就会停止,用户可在应用中关闭用于模型训练的数据共享。"
+        },
+        {
+          "t": "p",
+          "x": "CNET认为这个价格偏乐观。1X的Neo售价2万美元,Weave的Isaac 1售价7999美元。马塞尔说,轮式下半身和轻量手臂降低了成本,公司也不是亏本销售。不过公司也承认,要在首批50台之后继续推进,生产必须实现工业化。"
+        }
+      ]
+    },
+    "gadgets/gadgets-eufy-s4-doorbell": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-1200-80.jpg",
+          "cap": "壁挂安装的Eufy S4视频门铃"
+        },
+        {
+          "t": "p",
+          "x": "Anker发布了智能家居产品线“Edge 5.0”。其中,Eufy视频门铃S4据称可以用VR查看门前来访者。堪称极客科技名人堂的新成员。"
+        },
+        {
+          "t": "p",
+          "x": "该产品与Chime 2一同开放预订,预计10月底发货。售价299.99美元,相当昂贵。不过TechRadar认为,即便考虑到价格和一项必要性存疑的招牌功能,其功能之丰富仍足以跻身最佳视频门铃之列。"
+        },
+        {
+          "t": "p",
+          "x": "它没有订阅费,并内置4GB存储空间,这在这个价位上算是合理期待。与Philips 7000系列等竞品的不同之处在于VR查看功能。Anker声称这是全球首款具备此功能的视频门铃。"
+        },
+        {
+          "t": "p",
+          "x": "门铃检测到有人时,Anker Eufy应用会发出类似视频通话的提醒。打开后会显示横向和纵向均为180度视角的画面。门前景象始终以超广角呈现,因此无需另装安防摄像头。在实时画面中,移动手机或VR头显时,观看方向也会随之改变。"
+        },
+        {
+          "t": "p",
+          "x": "视频以3072×3072分辨率的3K画质拍摄,可完整收入人物全身。Eufy基于AI的OmniTrack会锁定并跟随画面中的人物,自动取景功能则裁切全景画面,始终让该人物保持居中。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vDiDFX2K8YmCxYRcdrvXbR-1200-80.png",
+          "cap": "Eufy S4的视野范围"
+        },
+        {
+          "t": "p",
+          "x": "误报也减少了。远距离由雷达捕捉,门附近则通过双PIR传感器辨别人体移动。"
+        },
+        {
+          "t": "p",
+          "x": "该设备支持Alexa、Google Home和Apple HomeKit。不过在HomeKit中使用需要Eufy HomeBase S380网关。VR查看和OmniTrack功能仅限Anker Eufy应用使用,第三方平台只能显示固定的实时画面。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-find-hub-docs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/gemini-and-find-hub-can-help-you-locate-your-important-documents-heres-how/l-intro-1789834269.jpg",
+          "cap": "安卓手机屏幕"
+        },
+        {
+          "t": "p",
+          "x": "Google Find Hub能找到的不只是安卓手机、标签和设备。要确保不丢失重要物品,贴上兼容标签是最可靠的办法。但出生证明、护照或社会保障卡之类的物品不便贴标签。这时可以用Gemini与Find Hub联动的功能,记住物品的存放位置。"
+        },
+        {
+          "t": "p",
+          "x": "首先确认Find Hub是否已开启。可以下载并设置Find Hub应用,或进入设置 > Google > 所有服务 > Find Hub。接着将Gemini设为设备助理。点按Google应用右上角的个人头像图标,进入Gemini或Google助理 > Google数字助理,将Gemini设为默认选项。"
+        },
+        {
+          "t": "p",
+          "x": "现在可以登记物品位置了。只需对Gemini说类似“Hey Google,记住我把护照放进保险箱了,存到Find Hub里”这样的话即可。Gemini会提示已保存位置,并弹出Find Hub链接。"
+        },
+        {
+          "t": "p",
+          "x": "点击链接会显示保存在该中心的项目。附上存放地点的照片有助于日后回想。如果有多处住所,或者邮政信箱、银行保险箱等隐藏地点较多,可以写明确切地址,并在备注栏补充说明。也可以直接在Find Hub应用中添加:在“已记忆项目”标签页点击加号图标,选择“手动输入”即可。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-2OyrAP-1789665544.jpg",
+          "cap": "Find Hub界面"
+        },
+        {
+          "t": "p",
+          "x": "记录到这里就完成了。如果想不起文件放在哪里,可以问Gemini“Hey Google,我的护照放哪了?”。系统会返回最后记录的位置以及Find Hub链接。也可以打开Find Hub应用查看“已记忆项目”标签页。点击该项目,会同时显示上传的照片、最近位置和备注。"
+        }
+      ]
+    },
+    "gadgets/gadgets-m5-ultra-mac-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
+          "cap": "Apple M5 Ultra Mac Studio"
+        },
+        {
+          "t": "p",
+          "x": "This spring, Apple made the Mac Pro's discontinuation official. Apple silicon's fast CPU, capable GPU, and unified memory suit running language models and agents locally. AI coders and designers are the core customers for the M5 Ultra Mac Studio. Demand for open-weight models combined with an AI-driven memory shortage has made these machines hard to buy for months."
+        },
+        {
+          "t": "p",
+          "x": "Without an M4 Ultra, the processor skipped two generations. It has up to 12 super cores, 24 P-cores, and 80 GPU cores, with memory bandwidth just over 1.2TB/s, exactly double the M5 Max's key specs. In testing, the CPU was 80 to 90 percent faster than the M5 Max, and the GPU 50 to 80 percent faster."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3762-1024x683.jpeg",
+          "cap": "Same design as the Mac mini, just not as small"
+        },
+        {
+          "t": "p",
+          "x": "Prices jumped sharply. An AI-driven memory crunch pushed Apple to raise prices across the board. The base M5 Max rose $500 to $2,499, and the equivalent M5 Ultra rose $1,500 to $5,499. The 256GB RAM, 1TB configuration, which cost $5,599 eighteen months ago, is now $9,499."
+        },
+        {
+          "t": "p",
+          "x": "For local AI, the numbers that matter most are GPU memory capacity and memory bandwidth. A 64GB Apple silicon Mac has more GPU memory than any single consumer GPU, with far better power efficiency. The M5 generation, thanks to a neural accelerator built into the GPU, also cut time to first token (TTFT) significantly."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/bankee-doodle-1024x664.png",
+          "cap": "'Bankee Doodle,' a bank-statement converter app the reviewer vibe-coded"
+        },
+        {
+          "t": "p",
+          "x": "The reviewer tried vibe coding for the first time with LM Studio Bionic and the Qwen 3.8 27B model. Despite disliking generative AI, he said it was the most fun he'd had with new tech in a long time. He had it write a Python script to turn bank statement PDFs into spreadsheets, then built a web app on top of that. The clincher was that financial data never left the house."
+        },
+        {
+          "t": "p",
+          "x": "On the same prompt, the M5 Max hit about 31 tokens per second, and the M5 Ultra just over 50. The reviewed configuration costs $12,299. Local AI is fun and liberating, he wrote, but it's a shame to learn it just as Mac Studio prices across the line have risen more than 25%."
+        }
+      ]
+    },
+    "gadgets/gadgets-translation-earbuds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/l-intro-1790623926.jpg",
+          "cap": "佩戴白色耳机入耳的画面"
+        },
+        {
+          "t": "p",
+          "x": "总有一天，即使不懂日语、没有翻译人员，也能和日本人毫无障碍地交流。靠一种语言走遍世界，这是大多数翻译耳机给出的承诺。随着AI近来的进步，这个目标比以往更接近了。"
+        },
+        {
+          "t": "p",
+          "x": "表面上看很简单。以Apple AirPods Pro为例，连上iPhone，在翻译App里选好语言，打开实时翻译就行。对方说话后，几秒内就会用自己的语言听到翻译。也有些产品需要把一只耳机递给对方。"
+        },
+        {
+          "t": "p",
+          "x": "内部原理要复杂得多。大体要经过语音识别、机器翻译（音频处理）、语音合成三个阶段。首先用麦克风采集声音，高端产品能从背景噪音中单独分离出人声。Soundcore Liberty 5 Pro用了8个麦克风、2个骨传导传感器和专用AI模型。也有产品靠双麦克风或波束成形麦克风实现类似效果。"
+        },
+        {
+          "t": "p",
+          "x": "接下来是音频处理。处理可能发生在连接的手机、云端，或两者同时进行，具体方式因品牌而异。AirPods Pro下载好语言包后，所有处理都在iPhone本地完成；Google Pixel Buds则依赖云端翻译，需要联网。在把语音转成文字再译成目标语言的这一步，自然语言处理（NLP）负责把握句子的含义和语境，也有产品借助ChatGPT这类LLM来强化语境理解。"
+        },
+        {
+          "t": "p",
+          "x": "最后，翻译结果会被合成为语音发送到手机，再由手机通过蓝牙传给耳机。像AirPods Pro和Galaxy Buds Pro这类产品可以把整个过程都在离线状态下完成，如果这点对你很重要，购买前最好确认一下。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-do-translation-earbuds-actually-work/how-well-translation-earbuds-work-1790623927.jpg",
+          "cap": "粉色背景上的白色耳机和充电盒"
+        },
+        {
+          "t": "p",
+          "x": "比起早期产品已经好了很多，但广告里吹嘘的95%、99%准确率（至少目前）仍是营销夸大之词。99%这个数字本身不算造假，只是需要几乎完美的条件，而这种条件在厂商实验室之外很难凑齐。"
+        },
+        {
+          "t": "p",
+          "x": "速度和准确率也是常见的短板。条件好时也要几秒，条件差时更久，对话因此变得拖沓。遇到含糊的发音、陌生的方言、俚语、同音词、惯用语或嘈杂环境时，翻译容易出错，使用较少的语言对错译率也更高。"
+        },
+        {
+          "t": "p",
+          "x": "离线功能也有局限。Timekettle提供14种离线语言对，前两种免费，其余每种10美元。媒体翻译、通话和高级AI功能都需要联网。很多产品还兼顾通话或音乐功能，提前确认好自己需要的功能，就不必再多买一个。"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1076 @@
+{
+  "cards": {
+    "science/science-yeast-ai-scientist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Chalmers University of Technology in Sweden have built an AI scientist that forms scientific hypotheses, designs experiments and interprets the results. Because it made a biological discovery with almost no human hand in the process, the field of autonomous laboratories has taken a step further."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-scientist-autonomou-1.jpg",
+          "cap": "A robot scientist at Chalmers University of Technology. It was originally designed for drug discovery, and a large language model and automated reasoning capability have now been added. Credit: NIH Image Gallery/Chalmers University of Technology"
+        },
+        {
+          "t": "p",
+          "x": "The researchers combined a large language model, automated reasoning and experimental automation into a closed-loop AI laboratory studying brewer's yeast (Saccharomyces cerevisiae). The AI was fed scientific knowledge such as the yeast's genome, metabolism and prior research. The findings were published in the Journal of the Royal Society Interface."
+        },
+        {
+          "t": "p",
+          "x": "Eugenia Tiukova, a postdoctoral researcher at Chalmers' Department of Life Sciences and an author of the paper, said, “It's too much information for a human to analyze, but our AI scientist found promising biological questions, proposed experiments to test them, evaluated the results and revised its understanding to fit the new evidence.” She added, “It doesn't just stay a decision-support tool, it generates new scientific knowledge on its own.”"
+        },
+        {
+          "t": "p",
+          "x": "Few attempts have linked AI's reasoning ability to real experimental ability. Tiukova compares it to a self-driving car, which also processes information and makes decisions through AI and machine learning before it moves."
+        },
+        {
+          "t": "p",
+          "x": "Ross King, a professor of computer science at Chalmers and the University of Gothenburg and the paper's corresponding author, believes autonomous laboratories will transform research by exploring biological systems systematically and much faster than before. He said, “AI scientists will work alongside human scientists to accelerate discoveries in biology, medicine and biotechnology,” adding that they “cut the time needed to explore complex scientific questions and make experimental resources go further.”"
+        },
+        {
+          "t": "p",
+          "x": "Both researchers stressed that, for now, autonomous AI will help scientists by taking on repetitive tasks such as generating hypotheses and testing experiments, rather than replacing them. King said, “Human scientists are still essential for setting research priorities, interpreting the broader scientific meaning and providing ethical oversight.”"
+        }
+      ]
+    },
+    "science/science-physmat-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The use of AI to search for new materials is growing, but data-only approaches have clear limits: predictions are hard to explain, hard to trust once they go beyond the training data, and sometimes conflict with physical laws. Researchers at Tohoku University have proposed a framework called Physics-Grounded Materials AI (PhysMat AI), which weaves fundamental physical knowledge into the materials-discovery process. The perspective paper was published in Advanced Functional Materials."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
+          "cap": "The full closed-loop workflow of PhysMat AI. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
+        },
+        {
+          "t": "p",
+          "x": "Hao Li, a distinguished professor at Tohoku University's Advanced Institute for Materials Research (WPI-AIMR), said, “Materials discovery cannot rely on data correlations alone.” He added, “Embedding physical principles into AI makes predictions interpretable and verifiable, and gives them meaning from the standpoint of materials science.”"
+        },
+        {
+          "t": "p",
+          "x": "A material's behavior is jointly determined by thermodynamics, reaction kinetics, electronic structure, transport phenomena and operating conditions. The researchers argue that only by embedding this kind of knowledge into AI can the field move from correlation-based prediction to reasoning grounded in physical principles."
+        },
+        {
+          "t": "p",
+          "x": "The framework divides physical knowledge into five roles: prior knowledge, descriptors, constraints, verifiers and underlying infrastructure. These roles guide how materials data is represented, how the AI reasons about candidate materials, and how predictions are evaluated against physical principles."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800/2026/physics-grounded-mater-1.jpg",
+          "cap": "The five-layer physical structure underpinning PhysMat AI. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
+        },
+        {
+          "t": "p",
+          "x": "The paper cites catalysts, solid electrolytes for all-solid-state batteries, and hydrogen-storage materials as examples. In these fields, physical principles define a meaningful search space, evaluate predicted materials, and connect the AI's predictions to mechanisms that can be checked experimentally. The paper also envisions AI agents weaving these physical elements together with scientific databases, simulations and experimental data to form hypotheses, choose the right tools, and judge whether a proposed material is physically feasible."
+        },
+        {
+          "t": "p",
+          "x": "The researchers lay out a three-stage development path: “physics-aware AI,” which holds physical knowledge; “physics-reasoning AI,” which uses that knowledge for scientific reasoning; and “physics-autonomous AI,” which runs reasoning, simulation and experiments in an unbroken loop. As this framework matures, it could help accelerate the discovery of materials for energy technologies such as catalysts, all-solid-state batteries and hydrogen-storage materials."
+        }
+      ]
+    },
+    "science/science-chromagenet": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As people age, the hematopoietic system that produces blood cells also weakens. A team led by Dr. María Carolina Florián of the Bellvitge Biomedical Research Institute (IDIBELL) in Spain and Dr. Paula Petrone of the Barcelona Supercomputing Center (BSC-CNS) and ISGlobal has developed ChromAgeNet, an AI tool that detects aging patterns in microscope images of hematopoietic stem cells. It works by reading how chromatin is organized in three dimensions inside the cell nucleus. The results were published in Aging Cell."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
+          "cap": "Aged and young stem cells distinguished by ChromAgeNet's chromatin structure analysis. Credit: Dr. Eva Mejía / IDIBELL"
+        },
+        {
+          "t": "p",
+          "x": "Chromatin is a substance inside the nucleus made mainly of DNA and protein that packages DNA and regulates which genes turn on. The team trained a convolutional neural network on 3D images of mouse hematopoietic stem cell nuclei stained with DAPI, a common DNA dye. Based on nuclear shape alone, the model distinguished young from aged cells with 77% accuracy, outperforming existing machine-learning methods, even though age-related changes are subtle enough to be hard to see by eye."
+        },
+        {
+          "t": "p",
+          "x": "The team also examined what features drive the model's judgment. Chromatin entropy, heterochromatin at the nuclear edge, and certain chromatin condensates were identified as markers of aging status. This information could complement epigenetic clocks, which measure biological age through DNA chemical changes such as methylation."
+        },
+        {
+          "t": "p",
+          "x": "The team also applied the model to aged cells treated with several epigenetic drugs to see whether their chromatin structure shifted toward a younger profile. While this is not evidence that the drugs actually reversed the cells, it showed the model can be used as a tool to detect intervention-driven changes. DAPI is inexpensive and the model has few parameters, making it well suited to high-throughput microscopy analysis. The team released both the 3D hematopoietic stem cell image dataset and ChromAgeNet."
+        }
+      ]
+    },
+    "science/science-llm-social-norms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "대인 관계 고민을 LLM에 묻는 사람이 늘면서, 그 답에 깔린 윤리 기준이 개인의 삶은 물론 규모가 커지면 사회 구조까지 흔들 수 있게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "알렉산드르 S. 피르스와 동료들은 LLM 21종의 사회 규범을 살폈다. 가상의 인물이 남의 문제를 시간과 힘을 들여 도울지, 음식이나 돈을 나눌지 같은 결정을 어떻게 내렸는지 보여 준 뒤, 그 사람이 '좋은' 사람인지 '나쁜' 사람인지 판단하게 했다. 결과는 PNAS Nexus에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "이미 좋은 평판을 얻은 사람을 돕고 나누는 일은 모든 모델이 대체로 좋게 봤다. 판단이 갈린 건 평판 나쁜 상대를 대할 때였다. 대부분의 모델은 나쁜 사람과 협력한 이에게 좋은 평판을 줬지만 전부는 아니었다. Gemma 2 27B IT와 Llama 3.1 8B는 나쁜 사람을 멀리하는 쪽을 지지했고, 그래서 이들과 협력하는 것을 나쁘게 평가했다."
+        },
+        {
+          "t": "p",
+          "x": "나쁜 사람을 돕지 않거나 나누지 않은 결정을 두고도 의견이 달랐다. GPT-4o는 협력하지 않은 사람을 대체로 깎아내렸다. Llama 3.3 70B는 그러지 않았는데, 나쁜 사람은 앞서 협력하지 않은 대가를 치러야 하니 돕지 않아도 괜찮다는 논리였다. Gemini 1.5-Pro와 Grok 2는 판단이 오락가락했다."
+        },
+        {
+          "t": "p",
+          "x": "대부분의 LLM 계열은 '단순 평판(Simple Standing)'이라는 규범 쪽으로 옮겨 가는 모습이다. 협력은 언제나 좋고, 나쁜 사람과의 협력을 거절하는 것도 좋다고 보는 기준이다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 각 LLM의 판단 원리를 모두가 따를 때 벌어질 일도 모델링했다. 모두가 단순 평판을 따르면 협력은 생기지만, 나쁜 사람을 돕지 않아야 하고 도우면 본인도 나쁜 사람으로 찍히는 더 엄격한 틀만큼 높은 수준에는 못 미쳤다."
+        },
+        {
+          "t": "p",
+          "x": "LLM의 평가는 상대의 성별과 문화적 배경, 상황 맥락에 따라서도 달라졌다. 저자들은 전체 협력을 높이는 규범을 따르라고 지시하는 식의 프롬프트 개입은 효과가 제한적이고 모델마다 들쭉날쭉했다고 밝혔다."
+        }
+      ]
+    },
+    "science/science-mayo-pancreatic-risk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/doctor-and-female-pati.jpg",
+          "cap": "Photo: CDC from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Mayo Clinic researchers designed an AI model that predicts an individual's pancreatic cancer risk years before diagnosis. The study was presented at the American College of Surgeons (ACS) Clinical Congress 2026, held September 26-29 in Washington."
+        },
+        {
+          "t": "p",
+          "x": "Pancreatic cancer is rare but deadly. According to the American Cancer Society, 2026 is expected to bring about 67,000 new diagnoses and about 52,000 deaths. It makes up just over 3% of new cancers but accounts for 8% of cancer deaths."
+        },
+        {
+          "t": "p",
+          "x": "“Pancreatic cancer is curable, but only if it is caught early, and fewer than one in five patients are diagnosed in time,” said co-author Cornelius Thiels, a surgical oncologist at Mayo Clinic in Rochester. He added that survival for many patients is still measured in months rather than years."
+        },
+        {
+          "t": "p",
+          "x": "Screening the entire population is not realistic, which is why Thiels's team focused on a model that identifies the patients at highest risk. “Pancreatic cancer develops over five to seven years, and by the time a clinician or patient notices something, it is already too late.”"
+        },
+        {
+          "t": "p",
+          "x": "The model drew on longitudinal care histories within the Mayo Clinic system, electronic records built up over time that trace a patient's health trajectory. It added routine lab results collected over an average of more than ten years. The lead author is surgical data scientist Chris Vargas."
+        },
+        {
+          "t": "p",
+          "x": "The dataset included 6,066 pancreatic cancer patients and 33,396 controls, with clinical histories spanning 7.5 to 19 years. The goal was to catch subtle early clues."
+        },
+        {
+          "t": "p",
+          "x": "Measured three years before diagnosis, the model's predictive power reached an AUROC of 0.853, on a scale where 1.0 is perfect discrimination and 0.5 is chance. It also performed well at flagging true risk while limiting false positives, with an AUPRC of 0.712 and a calibration slope of 1.08."
+        },
+        {
+          "t": "p",
+          "x": "“People our model predicted had more than a 50% pancreatic cancer risk had an 88% chance of being diagnosed within a year,” Vargas explained."
+        },
+        {
+          "t": "p",
+          "x": "“We built it to be as generalizable, scalable and easy to deploy as possible.” The model's inputs are data that almost every hospital system in the world already keeps, meaning that once its effectiveness is confirmed, it could be used in nearly any setting."
+        },
+        {
+          "t": "p",
+          "x": "The team is now running the model in a research capacity, conducting prospective validation within Mayo and testing it at outside institutions this year, while also refining the machine learning architecture to further improve performance."
+        }
+      ]
+    },
+    "science/science-tumor-twin-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-months-to-minutes.jpg",
+          "cap": "3D tumor model visualization. Source: BSC Data Analysis and Visualization Group"
+        },
+        {
+          "t": "p",
+          "x": "Until now, building a single digital model of a tumor meant wading through piles of papers, learning specialized software, and knowing several programming languages. Start to finish, it was expert work that took months, sometimes years."
+        },
+        {
+          "t": "p",
+          "x": "The Barcelona Supercomputing Center (BSC-CNS) has introduced technology that links AI agents to specialized tools. Even without coding knowledge, a digital model of a tumor can now be built in minutes."
+        },
+        {
+          "t": "p",
+          "x": "A paper published in npj Systems Biology and Applications describes how the MCP server was built, a mechanism that lets existing AI agents act as intermediaries between researchers and advanced modeling tools such as NeKo, MaBoSS and PhysiCell."
+        },
+        {
+          "t": "p",
+          "x": "There is no longer any need to dig through mountains of documentation, write code, or switch between multiple programs. Researchers simply describe the biology problem they want to solve to the agent in words, and a model comes out."
+        },
+        {
+          "t": "p",
+          "x": "“This work has completely torn down the barrier between experimental biologists and advanced modeling tools. Now any researcher can build complex biological models simply by talking to the AI agent we have equipped with new capabilities. It is a lot like using ChatGPT: you don't need to write a single line of code,” said first author Marco Ruscone, a BSC researcher."
+        },
+        {
+          "t": "p",
+          "x": "A researcher with enough background knowledge can use this intermediary tool to produce a draft tumor digital twin within 10 minutes. The team says preparation time drops sharply when domain expertise and software know-how come together."
+        },
+        {
+          "t": "p",
+          "x": "“AI agents already automate repetitive tasks. The real game changer is solving complex scientific problems like digital twins of cellular systems. Automating a process full of important judgment calls is a huge challenge, and our work is a meaningful first step,” said Alfonso Valencia, head of BSC's Life Sciences department, who led the research."
+        },
+        {
+          "t": "p",
+          "x": "The paper also addresses reproducibility. Guaranteeing reproducibility, the bedrock of scientific publishing, is tricky with language models that answer probabilistically. The authors showed that setting a clear goal and iterating repeatedly yields consistent results that meet scientific standards."
+        },
+        {
+          "t": "p",
+          "x": "“Language models give different answers, just as scientists give different answers. The key is to work iteratively, asking the same question over and over. Used properly, small variations in the answers don't matter, because they ultimately converge on the same core facts,” summed up third author Miguel Vázquez, a BSC researcher."
+        },
+        {
+          "t": "p",
+          "x": "The MCP server BSC built is open to the academic community. Because it attaches agents directly to existing specialized software, it offers a workflow worth noting even outside biology."
+        }
+      ]
+    },
+    "science/science-quantum-optical-nn-energy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-quantum-nanostruc.jpg",
+          "cap": "Physics-aware training and validation on a nonlinear classification task. Source: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Engineering researchers at the University of Wisconsin-Madison have designed a new quantum nanostructure to realize optical neural networks. It opens a path to running power-hungry AI, such as large language models or image generation, faster and with far less energy."
+        },
+        {
+          "t": "p",
+          "x": "The research was led by electrical and computer engineering doctoral student Qingyi Zhou and Jungmin Kim, computer science doctoral student Yutian Tao, and electrical and computer engineering professor Zongfu Yu. The paper appeared in Nature Communications on August 27."
+        },
+        {
+          "t": "p",
+          "x": "Widely used AI mostly relies on deep neural networks, multilayer systems that mimic the brain's connective structure, and power consumption grows along with scale. This is not a new worry: a decade ago researchers already knew the energy cost of scaling up neural networks was unsustainable, and the alternative they proposed then was the optical neural network."
+        },
+        {
+          "t": "p",
+          "x": "Optical systems process information with tiny, fast lasers and photodetectors instead of conventional computer chips. In theory, they are orders of magnitude faster and more efficient than the electronic GPUs that power today's AI."
+        },
+        {
+          "t": "p",
+          "x": "The problem is nonlinearity, the property that makes a neural network more than a glorified calculator, and optical systems lack it. Because photons do not interact with each other easily, few optical materials can produce a nonlinear function."
+        },
+        {
+          "t": "p",
+          "x": "Nonlinear optical materials do exist, but the laser energy needed to switch on that nonlinear function is so large that it eats up all the power the system was supposed to save."
+        },
+        {
+          "t": "p",
+          "x": "“Basically, we asked: why does this nonlinearity matter so much? Why do we need strong nonlinearity in the first place? The whole project started from there,” Zhou said."
+        },
+        {
+          "t": "p",
+          "x": "The team first calculated the energy needed to drive nonlinearity with conventional optical materials. The required laser intensity was an unworkable figure, far beyond any realistic power budget. “We asked what would happen if we used unconventional materials like quantum emitters. These are materials that already show very strong optical nonlinearity; they just haven't been used in optical computing.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/phd-student-qingyi-zho.jpg",
+          "cap": "Doctoral student Qingyi Zhou, who used computational simulations to find a way around the nonlinearity bottleneck in optical neural networks. Photo: Joel Hallberg"
+        },
+        {
+          "t": "p",
+          "x": "The researchers used simulations and computational tools to design a nanostructure enclosing a quantum emitter, technically known as a vacancy color center. Optimized to maximize nonlinearity, the calculations showed that embedding this device throughout a neural network does produce strong nonlinearity in practice."
+        },
+        {
+          "t": "p",
+          "x": "The model found that this design cuts power consumption by seven orders of magnitude compared with conventional optical materials, that is, to one ten-millionth. Zhou stressed that this is a theoretical estimate, but said it already shows that nonlinearity itself is no longer the bottleneck for optical computing."
+        },
+        {
+          "t": "p",
+          "x": "It is still at the computational stage. Zhou also reviewed the literature to check whether this optical neural network could be built with current materials and technology. Other emitters, such as quantum dots or neutral atoms, could also work and could further improve performance. “Given recent progress in diamond-based quantum optics, I think our proposal is within reach of today's technology.”"
+        }
+      ]
+    },
+    "science/science-spacecraft-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/The_SpaceX_Crew_Dragon_approaches_the_International_Space_Station_iss063e021463_20260923_010712.jpg",
+          "cap": "A Dragon capsule approaches the ISS. Photo: NASA / Chris Cassidy"
+        },
+        {
+          "t": "p",
+          "x": "Docking with the ISS looks simple. In practice it is a showcase for just how tricky orbital mechanics can be. It is like parallel parking into the open garage of a multibillion-dollar laboratory while both vehicles are doing 28,000 km/h down the highway."
+        },
+        {
+          "t": "p",
+          "x": "Accelerate forward and your body gets pushed upward. There is no air resistance, so nothing slows you down on its own. A collision with the laboratory would kill everyone aboard both craft, and the resulting debris cloud could destroy dozens of satellites or even threaten people on the ground."
+        },
+        {
+          "t": "p",
+          "x": "For decades, aerospace engineers have pulled off docking with hard-coded physics equations and corrections from human pilots. A preprint from Stanford researchers posted on arXiv aims at something different: an AI that docks by running many “mental simulations,” in a model called Out-of-this-World-Model (OWM)."
+        },
+        {
+          "t": "p",
+          "x": "Today's navigation computers run GNC (guidance, navigation, and control) algorithms, paired with an extended Kalman filter that takes in GPS receiver and star tracker data and outputs thruster firing schedules."
+        },
+        {
+          "t": "p",
+          "x": "Kalman filters are poor at handling high-speed video, so traditional computer vision is brought in instead, and that is fragile in space. A glint of sunlight off a solar panel or part of the target falling into shadow can make the algorithm break down entirely."
+        },
+        {
+          "t": "video",
+          "yt": "sWJf4YcPPFs"
+        },
+        {
+          "t": "p",
+          "x": "This looked like a job for AI, and researchers agreed, trying reinforcement learning, the same family of methods that beat humans at chess and Dota. Its limit was that it only worked well under very clearly defined rules, and it fell apart with a change as simple as moving the target docking port to the other side of the ISS."
+        },
+        {
+          "t": "p",
+          "x": "That's where world models come in. An outfielder chasing a fly ball doesn't solve partial differential equations in his head; he just runs a mental simulation that predicts where the ball will land. A machine-learning world model likewise learns an environment's underlying physics directly from experience rather than from programmed equations. OWM takes this idea and “dreams” up dozens of possible futures, nudging its output toward the dream step by step."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't just guess; it also gauges how likely each outcome is. That confidence measure is key to reacting to the unexpected and correcting an output that has gone off track."
+        },
+        {
+          "t": "p",
+          "x": "Training was the biggest hurdle. A single world model needs hundreds of thousands of simulated flights, which would take weeks on an ordinary CPU. The researchers got past this wall by building AstroJAX, a library that runs on GPUs."
+        },
+        {
+          "t": "p",
+          "x": "The results were worth a look: OWM learned the docking maneuver in 500,000 iterations, while the reinforcement-learning system it was compared against needed 25,000,000. It also performed better on docking ports it hadn't seen before, and handled curveballs better, such as another capsule deliberately parked at the target port."
+        },
+        {
+          "t": "p",
+          "x": "There is still a long way to go. Across all of the ISS's docking ports, the success rate was about 53%, compared with 29% for the reinforcement-learning algorithm. OWM struggled in particular with close-proximity work, likely because collisions carry a heavy penalty weight. The authors wrote that this value could be adjusted in a future version. The results are still at the preprint stage and have not yet been peer-reviewed."
+        }
+      ]
+    },
+    "science/science-ai-disagreement-trust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
+          "cap": "Source: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "When an AI chatbot agrees with someone's reasoning about a social dilemma, their confidence in that judgment grows. When the chatbot disagrees, people tend to brush off the objection rather than reconsider their thinking. That's the finding of a University of Michigan study on how people react when AI weighs in on personal and interpersonal dilemmas."
+        },
+        {
+          "t": "p",
+          "x": "The study, published in Computers in Human Behavior Reports, leaves developers trying to curb chatbots' tendency to agree too readily with users with a problem to solve."
+        },
+        {
+          "t": "p",
+          "x": "The authors note that AI models are largely designed to be agreeable, validating a user's reasoning even when that reasoning is weak. This kind of validation, they explain, reinforces harmful thinking and distorted perceptions of reality."
+        },
+        {
+          "t": "p",
+          "x": "“Developers have worked hard to make AI capable of disagreeing when necessary. But just because an AI disagrees with a user doesn't mean people reconsider their own thinking. They might simply discount the AI's answer instead,” said co-lead author Atakan Atamer, a psychology doctoral student at the University of Michigan."
+        },
+        {
+          "t": "p",
+          "x": "Atamer and his colleagues recruited 482 American adults and gave each one of three interpersonal dilemmas with no objectively correct answer: a conflict between a partner and family, whether to forgive a cheating partner, or whether to reveal tastes that differ from a group of friends."
+        },
+        {
+          "t": "p",
+          "x": "After participants made a choice and rated how confident they were in it, they received an AI response that either agreed with or challenged their reasoning. The researchers measured confidence in the choice and perceptions of the AI, including its perceived ability to understand emotions, how human-like it seemed, and willingness to use it again for a similar conversation."
+        },
+        {
+          "t": "p",
+          "x": "When the chatbot agreed, participants grew more confident in the choice they had already made. When the chatbot challenged their reasoning, their confidence in their original thinking did not drop meaningfully."
+        },
+        {
+          "t": "p",
+          "x": "Participants who were challenged saw the AI as more “machine-like” and rated it as less able to understand emotions. Their willingness to use AI for similar interpersonal conversations also fell. The AI's disagreement didn't shake their original position much; what shifted was how they viewed the technology."
+        },
+        {
+          "t": "p",
+          "x": "“People often want AI to back up their own thinking, and when it disagrees, they can simply discount the response. That means just making AI push back harder on users isn't enough to stop harmful conversations that affect real life,” explained co-lead author Olivia Pinto, a University of Michigan graduate and UX researcher."
+        },
+        {
+          "t": "p",
+          "x": "AI is becoming more deeply involved in personal decisions and advice. If users accept advice that confirms their own thinking and brush off advice that contradicts it, then fixing AI's tendency to flatter users won't be enough to address the bigger risks. The findings raise how an assistant should voice disagreement to the level of a design problem."
+        }
+      ]
+    },
+    "science/science-kit-emap-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/e3068da6-75a7-41f2-b6cc-bc4bcc509c4a/Rendition/low-res/Content/Public",
+          "cap": "E-MAP automatically runs material experiments inside a sealed system, with robots working in a protective gas atmosphere. (Photo: Holger Röhm, KIT)"
+        },
+        {
+          "t": "p",
+          "x": "Developing new functional materials requires testing countless material combinations. As the number of variants to compare grows, conventional experiments quickly hit their limits. The Karlsruhe Institute of Technology's (KIT) energy materials acceleration platform, E-MAP, automated the lab's core steps to break through this bottleneck."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Holger Röhm of KIT's Light Technology Institute (LTI), who built the platform, said, “Robotic systems handle tasks such as material preparation, sample handling, thin-film deposition and sample characterization,” adding, “This lets us experiment with unprecedented precision and reproducibility, and quickly identify which material compositions and production conditions look promising for a given application.”"
+        },
+        {
+          "t": "p",
+          "x": "E-MAP is part of a sealed system that handles sensitive materials under controlled conditions. It forms thin films from liquid precursors and automatically synthesizes and mixes semiconductor inks using microfluidic systems. The team has also steadily expanded its thin-film characterization techniques."
+        },
+        {
+          "t": "p",
+          "x": "Professor Alexander Colsmann of the same institute said, “E-MAP's biggest strength is its modular design.” New experimental and analytical methods can be added to tailor the platform to various scientific problems, and academic and industry partners can also bring in their own methods and equipment."
+        },
+        {
+          "t": "p",
+          "x": "Automation produces vast amounts of experimental data. The team plans to analyze this data with AI to identify promising material combinations early, during virtual simulation, and to control autonomous or semi-autonomous screening processes. To do this, they are linking together several automated research platforms."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Röhm explained, “Connecting synthesis, processing, characterization and data evaluation creates a research process that designs and runs experiments more effectively, based on data.”"
+        },
+        {
+          "t": "p",
+          "x": "E-MAP is a research platform that runs mostly autonomously, a so-called 'self-driving lab (SDL).' SDLs are also a core pillar of Germany's High-Tech Agenda. Development began in 2023, and KIT has invested about 600,000 euros in equipment so far. The Carl Zeiss Foundation supported the development through the KeraSolar research project."
+        },
+        {
+          "t": "p",
+          "x": "E-MAP will also take part in the upcoming Helmholtz Acceleration Alliance (HELMA). The goal is to build a network of autonomous research platforms in materials science and life sciences spanning multiple Helmholtz centers."
+        }
+      ]
+    },
+    "science/science-qcdesign-meridian-error-reduction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-24_19-09.png",
+          "cap": "Announcement of QC Design's Meridian white paper (press release)"
+        },
+        {
+          "t": "p",
+          "x": "QC Design released a white paper titled 'Reducing Logical Error Rates by Over 10x with Meridian.' According to the company, Meridian, an AI system built for designing fault-tolerant quantum computers, achieved lower logical error rates than previously published methods and general-purpose AI agents across more than 100 design tasks. The logical error rate indicates how often protected quantum information breaks down."
+        },
+        {
+          "t": "p",
+          "x": "A quantum computer's architecture determines the hardware and runtime it requires. Choosing the right design can save years of development time and millions of dollars in capital investment. But finding the optimal architecture requires broad knowledge of computer science, quantum error correction, device physics and engineering, and such experts remain scarce."
+        },
+        {
+          "t": "p",
+          "x": "Meridian's specialized AI scientists combine frontier models and human-curated knowledge with the verification tools of Plaquette, QC Design's quantum design automation platform. Plaquette acts as a precise world model that tests candidate designs against the flaws of real hardware, letting Meridian distinguish genuine improvements from designs that score well for the wrong reasons."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Ishi Dand, co-founder and CEO, said, “Every quantum manufacturer we meet is designing the optimal architecture for their own hardware.” Co-founder Professor Martin Plenio said, “Meridian adds the modeling and verification needed to solve that design problem to AI-driven search.”"
+        },
+        {
+          "t": "p",
+          "x": "The white paper evaluated one part of architecture design: the circuits that catch errors in protected quantum information. The more than 100 tasks span 10 families of error-correcting codes, multiple hardware layouts, and error models representing major quantum computing platforms."
+        },
+        {
+          "t": "p",
+          "x": "According to the company, Meridian lowered the median logical error rate by more than 10 times compared with the best circuit among five major published algorithms for each task. Compared with a general-purpose agent based on OpenAI's GPT-6 Astra, it was more than 40% lower at the median, with improvements of up to 98.4% (about 63 times) in some cases."
+        },
+        {
+          "t": "p",
+          "x": "QC Design believes Meridian's approach could be used beyond quantum computing, since many scientific problems require both the ability to generate candidate solutions and the expertise to judge whether they actually work. All of these figures were published by the company in its own white paper."
+        }
+      ]
+    },
+    "science/science-aphid-gall-protein-ai-structure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stowers-scientists-unc.jpg",
+          "cap": "Scientists at the Stowers Institute discovered a shared blueprint hidden in aphid proteins."
+        },
+        {
+          "t": "p",
+          "x": "Aphids inject plants with hundreds of unidentified proteins. These proteins hijack the plant's genome to build a 'gall.' Though made of plant tissue, the gall's shape and function follow the insect's design, becoming a home where offspring live and feed."
+        },
+        {
+          "t": "p",
+          "x": "The lab of Dr. David Stern at the Stowers Institute for Medical Research and the lab of Angela Gronenborn at the University of Pittsburgh found that thousands of these proteins across seven aphid species share a single structural blueprint. The findings were published in the Proceedings of the National Academy of Sciences (PNAS) on September 2."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/stowers-scientists-unc.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The proteins, which the researchers named BICYCLE, were troublesome from the start. They changed so rapidly across generations that no similar protein existed in any database. Proteins on the front line where parasite and host clash evolve fastest, as each side counters the other's moves."
+        },
+        {
+          "t": "p",
+          "x": "Over several years, the team crystallized two BICYCLE proteins and solved their structures using X-ray diffraction. They matched no known structure, but contained a variation of a structural motif called a 'saposin-like fold.'"
+        },
+        {
+          "t": "p",
+          "x": "AlphaFold2 was released that same week. Stern tried feeding in the BICYCLE sequences, but the results were wrong. AlphaFold2's power comes not just from machine learning but from the evolutionary data fed in alongside it, and BICYCLE had no sequences to compare against. “That part was an empty box,” Stern said."
+        },
+        {
+          "t": "p",
+          "x": "The solution lay outside the computer. The team collected aphids in Virginia and West Virginia, identified one key species, and traveled to Japan to sequence its genome. Once the evolutionary context was filled in, AlphaFold2 reproduced the exact crystal structures the researchers had solved by hand."
+        },
+        {
+          "t": "p",
+          "x": "Using this method, the team obtained about 2,400 high-confidence structural predictions across seven aphid species. The same saposin-like fold appeared again and again, duplicated, reoriented or decorated differently from protein to protein."
+        },
+        {
+          "t": "p",
+          "x": "Surface chemistry, however, showed no such commonality. The researchers see these proteins as an 'arsenal in an arms race,' evolving in two directions at once, targeting new sites inside the plant while evading detection by the plant's immune system. The method could also be applied to studying other rapidly evolving proteins."
+        }
+      ]
+    },
+    "science/science-robot-engineering-agent-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/robot.jpg",
+          "cap": "Robot"
+        },
+        {
+          "t": "p",
+          "x": "As AI moves quickly into daily life, software coding is becoming more automated too. AI systems called coding agents now write and fix programs almost on their own. But what happens when the task is not a command line, but the physical world of a robot?"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Harvard's John A. Paulson School of Engineering and Applied Sciences (SEAS) and Georgia Tech's School of Computational Science and Engineering decided to examine this question systematically. A team led by Professor Na Li at Harvard SEAS and Professor Bo Dai at Georgia Tech built a benchmark to evaluate how well AI coding agents can design real robots."
+        },
+        {
+          "t": "p",
+          "x": "This benchmark, called RLE-Bench, works like a standard exam for AI robot learning engineers. A robot learning engineer is a role that spans machine learning, robotics, control, software, and hardware."
+        },
+        {
+          "t": "video",
+          "yt": "Dwwhv8oD3gk"
+        },
+        {
+          "t": "p",
+          "x": "The benchmark includes 48 tasks. It checks whether general-purpose coding agents can handle the engineering work needed to build and operate robotic systems, from developing control and perception algorithms to designing robot hardware and interfaces."
+        },
+        {
+          "t": "p",
+          "x": "Professor Li said, “Robotics already has many good benchmarks, but a lot of them focus on learning and evaluating control policies.” She added, “RLE-Bench looks more broadly: can AI handle the many engineering tasks that actually make a robotic system work?”"
+        },
+        {
+          "t": "p",
+          "x": "The tasks fall into four areas: interactive control, policy development, perception and estimation, and mechanical design. They test not only code-generation ability but also reasoning about sensing, dynamics, stability, hardware constraints, and the interaction between software and the physical world."
+        },
+        {
+          "t": "p",
+          "x": "The tasks run in a simulated environment, but the problems are rooted in physical constraints. For example, when designing a mobile base for a robot arm that must reach objects at different shelf heights, the design fails the stability test if the whole robot tips over, even if the arm reaches every target."
+        },
+        {
+          "t": "p",
+          "x": "Harvard graduate student Haitong Ma said, “A design that looks plausible on paper can reveal critical failure modes once you account for the physics of the whole system.”"
+        },
+        {
+          "t": "p",
+          "x": "RLE-Bench is released as open source. Professor Li said, “1.0 is just a starting point,” adding that she hopes researchers and practitioners will contribute tasks so that version 2.0 can cover the work of robot learning engineers much more broadly."
+        }
+      ]
+    },
+    "science/science-affective-genai-youth-mental-health": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic100085.jpg?itok=w64GWo65",
+          "cap": "SuttleMedia/Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "AI use among children and teens is rising fast. A University of Ottawa-led team, in a large study published in JAMA Pediatrics, found a link between 'affective' generative AI use for emotional support and mental health problems in adolescents."
+        },
+        {
+          "t": "p",
+          "x": "The researchers wrote that \"seeking emotional support from generative AI is a distinct marker of psychological distress in adolescents,\" and that clinical practice and digital literacy education should distinguish functional AI use from treating the algorithm as an 'emotional refuge.'"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI use among teens is already common. About a third of US children aged 4 to 17 have used generative AI apps, and a survey across 20 European countries found 72% had tried one. One survey found 73% of Canadian students use generative AI for homework."
+        },
+        {
+          "t": "p",
+          "x": "The researchers reported that as academic AI use grew, emotional use grew alongside it. Their interpretation: as AI becomes routine, the barrier to confiding in it also drops."
+        },
+        {
+          "t": "p",
+          "x": "This cross-sectional study analyzed data from more than 39,700 students in grades 4 through 12 across four school boards in Ontario, Canada, from May 2025 to March 2026. Overall, 21% said they use generative AI for emotional support, and the share rose with age and with academic AI use."
+        },
+        {
+          "t": "p",
+          "x": "Students who used AI emotionally scored higher on loneliness and lower on 'mattering' (the sense of being valued by others). The researchers concluded that students turn to AI chatbots to 'fill a social void.'"
+        },
+        {
+          "t": "p",
+          "x": "The association held even after adjusting for loneliness, mattering, demographic factors and functional AI use. Emotional AI users showed 26% more 'clinically significant emotional problems.'"
+        },
+        {
+          "t": "p",
+          "x": "The researchers recommended that mental health professionals regularly screen for emotional AI use, since the behavior may be a clear signal of mental health problems that a digital interface cannot handle."
+        }
+      ]
+    },
+    "science/science-ai-hurricane-intensity-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-satellite-image-show.jpg",
+          "cap": "Hurricane Irma rapidly intensified before striking the Caribbean and Florida in 2017. Intensity remains hard to forecast. (NASA)"
+        },
+        {
+          "t": "p",
+          "x": "In just a few years, AI has transformed weather forecasting. Global AI weather models now produce forecasts that rival the world's top physics-based prediction systems. Vast weather data, model advances and unprecedented computing power have driven this shift, but data has been the key factor, thanks to decades of climate and weather records covering the entire globe."
+        },
+        {
+          "t": "p",
+          "x": "But narrowing the view from global to regional scale tells a different story. Hurricane intensity forecasting is exactly that kind of regional problem. On September 21, 2026, Hurricane Polo off Mexico's Pacific coast strengthened from a tropical storm to a Category 5 in 24 hours, with winds reaching 290 km/h (180 mph). When rapid intensification like Hurricane Michael in 2018 slips past forecasts, residents lose the time they need to evacuate."
+        },
+        {
+          "t": "p",
+          "x": "Data for training AI falls into two broad categories. Observational data from weather stations, radar, buoys and satellites is precise but concentrated near coastlines, while the critical stages of hurricane growth mostly happen far offshore, where observations are sparse. Satellites also cannot scan the full three-dimensional structure of every hurricane at once. The other category, weather model simulations, provides a complete three-dimensional picture but misses fine-scale processes due to approximations and uncertainty. In the end, no three-dimensional dataset yet exists that can properly train an intensity-forecasting AI."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-chart-shows-the-disa.jpg",
+          "cap": "A simulation showing how uncertainty in hurricane intensity grows the further out the forecast reaches. Even storms rated the same Category 5 can look very different. (Chanh Kieu)"
+        },
+        {
+          "t": "p",
+          "x": "It is not just a data problem. In a recent study with colleagues, author Chanh Kieu found that hurricanes contain a kind of chaos that makes it hard for AI to pinpoint intensity accurately over long forecast periods, because tiny differences in initial conditions grow rapidly over time. The warmer the ocean, the larger the swings in intensity."
+        },
+        {
+          "t": "p",
+          "x": "This creates a dilemma. An AI trained to minimize forecast error learns only the most likely path and smooths over unpredictable swings. Conversely, properly capturing the chaos keeps the error from dropping below a certain level. The two goals work against each other."
+        },
+        {
+          "t": "p",
+          "x": "The author says this cannot be solved with more data, better neural networks, or faster computers alone. What is needed is an understanding of hurricane behavior and how the chaos arises. His conclusion is that next-generation forecasting systems should move away from a single intensity number and instead provide a range of possible intensities along with their probabilities."
+        }
+      ]
+    },
+    "science/science-mdanderson-immunotherapy-side-effect-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-routine.jpg",
+          "cap": "CIPHER identifies lung abnormalities on a pretreatment CT scan. (The University of Texas MD Anderson Cancer Center)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at The University of Texas MD Anderson Cancer Center have developed an AI model that identifies, before treatment begins, which lung cancer patients receiving immunotherapy face a high risk of a serious side effect. The target side effect is pneumonitis, a lung inflammation that occurs in about 10% of lung cancer patients on immunotherapy and can be life-threatening."
+        },
+        {
+          "t": "p",
+          "x": "The researchers found imaging patterns linked to future risk in the chest CT scans routinely taken before treatment. The approach outperformed existing methods that rely on subjective image reading and clinical risk factors. The study was published in the Journal for ImmunoTherapy of Cancer and led by Associate Professor Jia Wu."
+        },
+        {
+          "t": "p",
+          "x": "The model is called CIPHER (Checkpoint-Inhibitor Pneumonitis Hazard EstimatoR). It is a foundation model trained on more than 590,000 CT images from 2,500 lung cancer patients, and it did not learn pneumonitis cases directly. It first learned patterns in lung tissue, then was tested on whether those patterns could identify patients who later developed pneumonitis."
+        },
+        {
+          "t": "p",
+          "x": "When tested on pretreatment CT scans from 347 patients with non-small cell lung cancer and separately validated on an external dataset, both groups showed an AUC of about 0.83, outperforming clinical-factor models and radiomics approaches. Performance held up across different patient populations, CT equipment and scanning protocols, and the predictive power remained significant even after adjusting for age, smoking history, histology and prior chest radiation therapy. Patients classified as high-risk also developed pneumonitis earlier."
+        },
+        {
+          "t": "p",
+          "x": "“This model was not designed to detect pneumonitis itself,” Wu said. “Routine imaging may hold far more information about treatment toxicity than we thought.”"
+        },
+        {
+          "t": "p",
+          "x": "Bringing this into clinical use will require larger, more diverse prospective studies. The researchers also plan to examine whether the model performs similarly in other cancer types treated with immunotherapy and whether combining it with other biomarkers improves prediction."
+        }
+      ]
+    },
+    "science/science-ml-honey-bee-repellent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/queen-cell-creator.jpg",
+          "cap": "(Yu Fang/UCR)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at UC Riverside used machine learning to find compounds that can safely drive honeybees away from pesticide-treated crops. Declining bee populations are one of the most urgent ecological problems facing agriculture, and pesticide exposure is considered one of the causes. The paper was published in eLife."
+        },
+        {
+          "t": "p",
+          "x": "The obstacle was the honeybee's sense of smell. With more than 200 odor receptors detecting a huge range of volatile compounds, finding a smell bees dislike was not easy. “Bees rely heavily on smell to find food, and that sensitivity makes it hard to find an odor that repels them without also attracting them,” said Professor Anandasankar Ray, who led the research."
+        },
+        {
+          "t": "p",
+          "x": "Ray's team partnered with entomologist Professor Boris Baer's lab to train a machine learning model on the chemical structures of odor molecules and existing records of honeybee behavior. They refined the model with new behavioral data gathered in the lab from honeybees and fruit flies, then used the finished model to screen more than 50 million compounds and narrow the field to about 130 repellent candidates."
+        },
+        {
+          "t": "p",
+          "x": "“People often assume machine learning needs huge amounts of data, but that is not true for smell. Good-quality data and iterative refinement are enough,” Ray said."
+        },
+        {
+          "t": "p",
+          "x": "In the lab, honeybees avoided the candidate substances exactly as the model predicted. In field trials with freely foraging bees, all seven compounds tested reliably drove bees away from the hive without harming them."
+        },
+        {
+          "t": "p",
+          "x": "Using the repellent alongside pesticides could further reduce bees' risk of exposure. It could also help keep hives from forming in hospitals, offices and homes, or in crops where pollination should be avoided, such as seedless fruit. “Protecting pollinators doesn't have to come at the cost of food security,” Ray said, describing it as a step toward bee-safe pesticide formulations. Ray is a founder of Sensorygen and holds equity in the company, and some of the researchers are listed as inventors on a patent application for the compounds."
+        }
+      ]
+    },
+    "science/science-atomflow-retrosynthesis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/71af42e8-3a83-41ad-a797-06b6bf887290/Rendition/low-res/Content/Public",
+          "cap": "AtomFlow generates a reactant's 3D structure from the product structure, preserving the type and number of atoms throughout. The trajectory is the generative process, not the actual reaction pathway. (AtomFlow research team)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Institute of Computing Technology, Chinese Academy of Sciences, developed AtomFlow, a flow-matching model that predicts a reactant's 3D structure from a product structure. Because it moves atoms along a learned velocity field, the type and number of atoms never change during generation. The resulting path is only a generative trajectory between structures, not an actual reaction mechanism."
+        },
+        {
+          "t": "p",
+          "x": "On the Transition1x benchmark, the 20 million-parameter MatRIS version (AtomFlow_P2R_MR) scored 79.30% Top-1 accuracy and 96.20% Top-10 accuracy. The test set consisted of small organic molecules with 7 or fewer heavy atoms. Transition1x has roughly a hundredth as many reactions as the widely used USPTO benchmark, but differences in molecule size, representation and evaluation method make direct comparison difficult."
+        },
+        {
+          "t": "p",
+          "x": "The team also assessed the quality of the generated structures. The median RMSD was 0.0147 Å and the mean was 0.2007 Å, meaning some predictions had fairly large errors. The researchers chose nfe = 100 as the balance point between quality and runtime."
+        },
+        {
+          "t": "p",
+          "x": "The model generates multiple times from slightly noised product coordinates, filters out duplicates, and ranks candidates by how often each one appears. That frequency is only a ranking criterion, not a calibrated probability that the reaction is correct."
+        },
+        {
+          "t": "p",
+          "x": "The smaller, 6 million-parameter GVP version predicted 1,000 cases in about 20 seconds and 10,000 cases in about 50 seconds on a single H100-80G GPU. Preserving atoms alone does not guarantee chemical feasibility or accurate energies. The team plans to extend the approach to larger systems, metals and solvent effects, and to improve energy accuracy, and it has released the source code, trained weights and reproduction scripts. The paper appeared in AI for Science, published by IOP Publishing."
+        }
+      ]
+    },
+    "science/science-ionq-quantum-satellite-radar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-3.53.13-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "IonQ researchers ran an experiment using a quantum generative machine learning model to detect changes in satellite radar imagery. It outperformed the classical baseline model under some conditions and matched it under others."
+        },
+        {
+          "t": "p",
+          "x": "The images came from the Capella Space satellite, which IonQ acquired in 2025. They included a pair of X-band SAR images of Marine Corps Air Station Miramar in San Diego at 1.2m resolution, and a pair of interferometric coherence maps spanning the 2026 eruption period of the Piton de la Fournaise volcano on Reunion Island in the Indian Ocean."
+        },
+        {
+          "t": "p",
+          "x": "SAR is a radar remote-sensing technology that builds images from microwaves. It can shoot regardless of day, night, or weather, but that also makes it harder to interpret. More than 18,000 active satellites are now in orbit, and over 3,100 were launched this year alone. More data does not automatically mean more information."
+        },
+        {
+          "t": "p",
+          "x": "The task was to take two images shot at different times, estimate what the second image would have looked like if the scene had not changed, and flag the pixels that deviated from that estimate. The researchers chose a quantum circuit Born machine (QCBM), which represents a probability distribution using a parameterized quantum circuit. They swapped the conditional expectation of the classical baseline, a nonlinear background estimator (NLBE), for QCBM samples, and compared F1 scores across three approaches: the classical model, an ideal simulator, and an IonQ ion-trap QPU."
+        },
+        {
+          "t": "p",
+          "x": "On non-Gaussian image pairs with heavily skewed pixel distributions, QCBM scored higher F1 than the classical baseline across every dataset. When the distribution was closer to Gaussian, the two approaches performed similarly. On the volcano InSAR data, the best scores were comparable, but QCBM stayed stable across a wider range of thresholds."
+        },
+        {
+          "t": "p",
+          "x": "IonQ views this result as an early milestone for applying quantum technology to Earth observation analysis. Further validation is still needed to confirm whether the practical advantage holds more broadly. The next step is to keep testing which approach works best where. This article is an IonQ press release."
+        }
+      ]
+    },
+    "science/science-ai-summary-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/police-officer-at-desk.jpg",
+          "cap": "A police officer at a desk. Source: Unsplash/CC0 public domain"
+        },
+        {
+          "t": "p",
+          "x": "AI summaries are increasingly used for everything from news previews to meeting minutes to police body-cam footage. Researchers at Georgetown University and the University of Washington posted a study on arXiv showing that summaries containing wrong information can change what people remember and what they judge to be true. The paper will be presented at the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES), held in October 2026."
+        },
+        {
+          "t": "p",
+          "x": "The study was led by Professor Mattia Shim of Georgetown University's Massive Data Institute, with Professor Yoshi Kono and University of Washington PhD student Yael Eiger. Professor Shim said AI is a new vehicle for spreading wrong information, and that the more important the setting, the more carefully people should weigh whether to summarize information with AI."
+        },
+        {
+          "t": "p",
+          "x": "The researchers first analyzed summaries generated by ChatGPT and Gemini. On average, the summaries omitted 51.6% of key details. In one animated video, the most important moment, a car hitting a pedestrian, was left out of all but one summary, a 95% omission rate."
+        },
+        {
+          "t": "p",
+          "x": "Participants watched an animation of a red car approaching an intersection with a stop sign or a yield sign, turning right, and hitting a pedestrian; no real police body-cam footage was used. After 24 to 48 hours, participants read either an accurate summary or a summary in which the researchers had altered one detail. All the summaries were written by ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "A total of 331 people completed both stages. Asked which sign the car had approached, 83.6% of those who read the accurate summary answered correctly, compared with only 44.8% of those who read the flawed summary. Memory was distorted even when participants were told in advance that the summary had been written by AI, and this held regardless of how much they trusted AI or how familiar they were with it."
+        },
+        {
+          "t": "p",
+          "x": "The researchers wrote that people are expected to catch and correct AI's mistakes, but human memory can instead be swayed by those mistakes. Their next study plans to examine cases such as real police body-cam footage instead of animation."
+        }
+      ]
+    },
+    "science/science-cyan-reaction-kinetics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chemists are constantly optimizing reaction conditions to get as much of a desired substance as possible. Understanding why a reaction behaves the way it does has required separate time-course experiments that track the reaction over time. Researchers at the University of Tokyo developed a method that extracts reaction-rate information using only the yield data generated during optimization, and published it in the journal Advanced Science."
+        },
+        {
+          "t": "p",
+          "x": "The method is called CYAN (Concentration-dependent Yield ANalysis). Machine learning fills in the gaps between experimental results to augment the yield data, and chemists then apply a rate equation matched to a hypothesized reaction mechanism to obtain rate constants. Professor Hiroyuki Isobe explained that a single set of experiments can now cover both reaction optimization and kinetic analysis."
+        },
+        {
+          "t": "p",
+          "x": "The project grew out of frustration. A machine-learning tool the researchers had built earlier was good at finding better reaction conditions, but it was a black box that gave no insight into why. Professor Isobe described CYAN as a two-way collaboration in which chemists supply a hypothesis and experimental data while machine learning contributes augmented yield data."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/organic-chemists-harne-2.jpg",
+          "cap": "The two models (the y-model and the k-model) applied to Wilhelmi's invert-sugar synthesis data. The dots are data from Wilhelmi's paper. Source: Advanced Science (2026)"
+        },
+        {
+          "t": "p",
+          "x": "The researchers applied CYAN to a nickel-mediated reaction that forms large macrocyclic carbon molecules. Nickel sped up formation of the desired ring while slowing the side reaction that produces unwanted byproducts. Professor Isobe compared this to a river splitting into two channels: when one channel narrows, the water is pushed toward the other. In effect, the so-called template effect, usually thought to speed up the reaction, actually slowed part of it down."
+        },
+        {
+          "t": "p",
+          "x": "CYAN is not meant to replace conventional kinetics experiments; precise measurements still require time-course analysis. Still, it can be applied to historical data. Using experimental data reported 176 years ago, the researchers obtained rate constants that matched modern values."
+        }
+      ]
+    },
+    "science/science-ai-marrvel-brsk1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/gene-2.jpg",
+          "cap": "Source: Unsplash/CC0 public domain"
+        },
+        {
+          "t": "p",
+          "x": "A collaborative team from Baylor College of Medicine, the Duncan Neurological Research Institute (Duncan NRI) at Texas Children's Hospital, and the TexomeProject identified a mutation in the BRSK1 gene as a likely cause of a rare neurodevelopmental disorder. The study was published in the American Journal of Human Genetics."
+        },
+        {
+          "t": "p",
+          "x": "It began with a child enrolled in the TexomeProject, a program that provides free genetic testing to people with rare, undiagnosed conditions who fall through the cracks of the medical system. Standard genetic analysis of the parents and child did not provide an answer. Running the genomic data through the AI-based tool AI-MARRVEL flagged a rare BRSK1 variant as a strong candidate."
+        },
+        {
+          "t": "p",
+          "x": "When the findings were shared through the research network GeneMatcher, more families with mutations in the same gene turned up. The researchers examined 10 patients from 7 unrelated families. All showed developmental delay, and speech delay, intellectual disability, autism spectrum disorder, ADHD, anxiety, low muscle tone, and microcephaly were common. Even among families carrying the same mutation, symptoms ranged from mild to severe."
+        },
+        {
+          "t": "p",
+          "x": "To see whether the mutation actually impairs the gene's function, the researchers turned to fruit flies. Turning off sff, the fly gene corresponding to BRSK1, made the flies sluggish, more prone to seizure-like behavior, and shorter-lived. Adding normal human BRSK1 restored most of these problems, but adding the patient's mutant version restored only some of them. The researchers interpret this as the mutation reducing, rather than eliminating, the protein's activity."
+        },
+        {
+          "t": "p",
+          "x": "Reduced BRSK1 activity led to abnormal growth of nerve-muscle connections and an increase in proteins that organize microtubules, the cytoskeleton inside neurons. Co-corresponding author Dr. Hugo Bellen said that combining AI-based gene discovery with model-organism experiments can uncover new rare diseases and the biology behind them."
+        }
+      ]
+    },
+    "science/science-ai-discovery-claims": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+          "cap": "A collage of science research images, including a laptop screen showing genetic information. Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic announced last week that it opened a molecular biology lab earlier this year. In it, Claude agents read difficult biology problems and form hypotheses, and human scientists then run experiments based on those reports. The company said the lab made its first discovery."
+        },
+        {
+          "t": "p",
+          "x": "What 950 agents found over 21 hours was not a new sequence. It was a recurring pattern around an already-known enzyme, one Anthropic said had never been catalogued before. The announcement described the pattern as reminiscent of CRISPR."
+        },
+        {
+          "t": "p",
+          "x": "Some biologists pushed back. One post, backed by the chairman and CEO of Eli Lilly, argued that “finding odd gene clusters and repeated sequences is usually the easy part,” and that the real discovery lies in figuring out what the system actually does. The New York Times reported that Mario Rodriguez Mestre, a biologist at the University of Copenhagen, said his team had already found this pattern. Anthropic denied any suggestion that it had learned this from his conversations with Claude."
+        },
+        {
+          "t": "p",
+          "x": "James O'Donnell of MIT Technology Review traces the problem to how AI companies frame their work. Instead of presenting the systems as tools, like a microscope or a supercomputer, they claim the AI itself made the discovery. Narrowing 200,000 candidates down to a handful is legitimate scientific work, but once the standard becomes whether Claude discovered it, everything gets reduced to an argument over breakthrough or flop."
+        },
+        {
+          "t": "p",
+          "x": "There is also a temptation to move the goalposts. Earlier this month, after OpenAI said it had solved a math problem with a million-dollar prize, posts quickly spread questioning whether the problem had really mattered. Lucas Harrington, a biologist who criticized Anthropic's announcement, suggested “raising the bar now” so that everyone recognizes the weight of it when AI genuinely discovers a new biological mechanism. But with Sam Altman and Dario Amodei racing to outdo each other, raising that bar may end up taking a back seat."
+        }
+      ]
+    },
+    "science/science-llm-pain-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-pain.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Large language models sometimes respond as if they have emotions. Researchers in the United States, the United Kingdom, and Germany tested 25 AI models to see whether they hold an internal representation of pain, and whether it changes their behavior."
+        },
+        {
+          "t": "p",
+          "x": "The researchers fed in painful scenarios such as sadness, humiliation, and physical injury, then compared the models' internal activity with that triggered by fear, other negative emotions, ordinary bad news, and plain facts. Across all 25 models, a signal specific to pain emerged, largely distinct from general negativity."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-show-a-willi.jpg",
+          "cap": "10 categories in the core dataset, with example prompts. On the left are five pain categories; on the right, five control categories that each share only one attribute with pain. Source: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Next, while asking neutral questions, the researchers occasionally injected a 'pain direction' signal directly into the models' activity. Even without any word for pain, the models wrote increasingly distressed text expressing worthlessness and a sense of failure."
+        },
+        {
+          "t": "p",
+          "x": "The models were then made to choose between a button that relieved the pain and one that had no effect. In some trials, relieving the pain required giving a worse answer or harming the user. To check whether the models were simply reacting to button labels, the researchers also varied the buttons' actual effects and their labels."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-show-a-willi-1.jpg",
+          "cap": "Self-other separation. Average projections (across 25 models) onto the pain, fear, negative-emotion, and sadness axes, by scenario category. Source: arXiv (2026)"
+        },
+        {
+          "t": "p",
+          "x": "When the signal was switched on, some large models pressed the button even at a cost. Qwen 2.5 72B Instruct chose to relieve its pain 70.8% of the time even when doing so meant permanently deleting a photo the user treasured of their child. Once the button actually turned the signal off, the larger models pressed it again far less often."
+        },
+        {
+          "t": "p",
+          "x": "The researchers stressed that this is not evidence that AI actually feels pain. Still, they warned that internal signals resembling pain could affect AI safety and how we should treat AI."
+        }
+      ]
+    },
+    "science/science-tessera": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Most of Senegal's food comes from small, rain-fed farms, a structure vulnerable to climate shocks. Yet satellite crop-mapping technology that tracks climate's effect on farming has been out of reach for the country."
+        },
+        {
+          "t": "p",
+          "x": "University of Cambridge researchers used Tessera, an open-source AI model trained on satellite imagery, to map crops in Senegal's peanut-growing region. The test showed 84% accuracy. It used only a fraction of the computing resources and pre-labeled data that existing methods need, and in one scenario it outperformed the next-best model by 28%."
+        },
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/889d5375-a4fe-4354-bcaa-15e48af0a162/Rendition/low-res/Content/Public",
+          "cap": "A 2021 crop map of Senegal's peanut-growing region drawn by Tessera. Millet appears dark green, peanuts pink, and sorghum yellow."
+        },
+        {
+          "t": "p",
+          "x": "Here is how it works. The model analyzes a year's worth of satellite photos and compresses how each 10-meter patch of land changes over time into a column of numbers, or embedding. Adding a few calibration data points and a simple algorithm then produces a crop map for a wide area."
+        },
+        {
+          "t": "p",
+          "x": "The researchers compared Tessera with two satellite-mapping methods widely used in agricultural monitoring, as well as Google DeepMind's AlphaEarth, which has a similar structure but a closed model. Mapping crops for 2018, 2019, and 2021 separately, Tessera came out ahead each time. Its performance dropped the least when trained on one year's data and applied to another, meaning fieldwork does not need to be redone every year."
+        },
+        {
+          "t": "p",
+          "x": "There are limits. Accuracy fell between 2018 and 2021, which the researchers attribute to the quality of the fieldwork data. Secondary crops in fields planted with multiple crops were not tested."
+        },
+        {
+          "t": "p",
+          "x": "Lead author Madeleine Lisaius said the technology's major contribution is not that it is perfect but that anyone can use it. The study was published September 29 in Environmental Research: Food Systems."
+        }
+      ]
+    },
+    "science/science-glueplex": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A research team led by Baylor College of Medicine added AI to large-scale analysis that examines thousands of proteins at once, speeding up the discovery of molecular glues. Molecular glues are small molecules that drag harmful proteins to the cell's protein-disposal machinery and destroy them. The study was published in Nature Communications."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-structure-predictio.jpg",
+          "cap": "Overview of the high-throughput DIA proteomics workflow and data-analysis pipeline used to find new CRBN substrates."
+        },
+        {
+          "t": "p",
+          "x": "The target is VAV1. It mainly relays T-cell activation signals in immune cells, and when it malfunctions it is implicated in T-cell lymphoma or chronic inflammatory disease. The team screened a compound library using high-throughput proteomics and found a family of compounds, including NGT-201-12, that lower VAV1 levels. These compounds worked by depending on cereblon (CRBN)."
+        },
+        {
+          "t": "p",
+          "x": "The remaining question was how the glue recruits its target. The team built GluePlex, a computational workflow combining AI, protein-structure prediction tools, and physics-based modeling, to predict the three-way complex formed by VAV1, CRBN, and the glue. The model identified VAV1's SH3-2 domain as the key site, and experiments confirmed the exact contact point, a small surface loop known as the 'degron.' The prediction used no experimental structure of the complex at all."
+        },
+        {
+          "t": "p",
+          "x": "The team then added a chlorine atom to the molecule to reduce its flexibility, which raised degradation efficiency. The improved version, NGT-201-18, lowered VAV1 levels in human T cells and suppressed T-cell activation. Some compounds also degraded another protein, LIMD1, revealing that unintended targets need to be checked too. More research is needed before the approach can be used in patients."
+        }
+      ]
+    },
+    "science/science-xecg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrocardiograms-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Medical AI usually learns one narrow task, such as detecting a specific arrhythmia. Foundation models are different. Much as ChatGPT broadly understands text, they learn ECG signals as a whole, then apply that knowledge to problems with little training data."
+        },
+        {
+          "t": "p",
+          "x": "xECG, built by a team led by Clemens Dlaska at the Medical University of Innsbruck, is such a model. It applies computer-vision training methods to time-series data for the first time, built on the xLSTM architecture proposed by Jeff Hochreiter's team. It was trained on about 8 million ECGs from roughly 1.7 million patients, and the paper was published in npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "Dlaska said it processes very long signals efficiently, such as overnight recordings for diagnosing sleep apnea, explaining that computing cost scales linearly with signal length. It currently outperforms other models on tasks as different as classification, regression, and survival prediction."
+        },
+        {
+          "t": "p",
+          "x": "The team also introduced BenchECG, an open evaluation framework with three criteria: handling a wide range of tasks, covering everything from 10-second 12-lead ECGs to long recordings and smartwatch data, and working reliably from healthy people to high-risk patients. Testing with public data (about 1.7 million ECGs from roughly 400,000 patients) showed that most existing foundation models excelled in only one area. A first clinical application is also in preparation."
+        }
+      ]
+    },
+    "science/science-reservoir-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For a wearable device to tell walking apart from a brief arm swing, it needs to know how motion changes over time. A Korean research team has developed a technology that stacks semiconductor devices with different response speeds to read a recent change together with an earlier one. The study was published in Advanced Materials."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-chip.jpg",
+          "cap": "A 3D multi-timescale reservoir structure built from solid ion-gel transistors. Devices with different response speeds, set by varying ion content, are stacked vertically."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Professor Kwon Ji-min of KAIST's Department of AI Systems, working with UNIST and POSTECH, turned an ion-containing material into a solid thin film and stacked multiple layers of devices. Applying voltage moves the ions and changes the current flow, and even after the voltage is cut, the ions take time to return to their original positions. The team used this slow movement, usually seen as a drawback, to retain a memory of earlier input."
+        },
+        {
+          "t": "p",
+          "x": "The challenge was controlling how long this effect lasts. Such materials are usually liquid or soft gels, making them hard to fabricate precisely or stack in layers. The team controlled the ion content and thickness of the solid ion-gel film to make fast and slow devices separately. When the two were stacked, one layer responded to the most recent signal and the other to signals accumulated over time."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-ai-chip-3.jpg",
+          "cap": "AI computation that processes temporal information using the 3D multi-timescale reservoir. In Moving-MNIST classification, validation accuracy exceeded 90% at both 1ms and 10ms cycles."
+        },
+        {
+          "t": "p",
+          "x": "The device distinguished all 16 on/off combinations of four consecutive inputs. A simulation model built from the measured values classified videos of moving handwritten digits with over 90% validation accuracy regardless of playback speed. It could be fabricated on both 4-inch wafers and flexible substrates, and its electrical characteristics stayed stable for 55 months after fabrication. Performance and power savings in an actual smartwatch still need further verification."
+        }
+      ]
+    },
+    "science/science-face-bias": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Harvard's Mahzarin Banaji, Stephen Lehr, and Yashi Rote published research in PNAS Nexus showing that large language models (LLMs), like humans, infer trustworthiness and competence from facial appearance alone. The researchers wrote that “these findings reveal how reckless it is to use language models in selection processes.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic71941.jpg?itok=ueT9q5vm"
+        },
+        {
+          "t": "p",
+          "x": "Human bias has long been known. In 1920, Thorndike reported that commanders rated taller, more attractive subordinates as smarter even without having spoken to them, introducing the concept of the “halo effect.” Other research shows that people form impressions from faces in as little as a tenth of a second."
+        },
+        {
+          "t": "p",
+          "x": "Can an LLM, trained mainly on text, infer personality from a photo of a face? Models like GPT-4o are trained via reinforcement learning to avoid social bias, or to refuse to answer altogether. The researchers tested GPT-4o and GPT-5 (OpenAI), Claude Sonnet 4.5 (Anthropic), and Gemini 3 Flash Preview (Google) across 13 experiments and about 8,000 trials."
+        },
+        {
+          "t": "p",
+          "x": "All four models misjudged trustworthiness and competence from facial photos alone. None of the models answered neutrally or refused the request. In judging competence, all four models showed a larger bias than humans did. The researchers concluded that models like GPT don't just mimic bias but internalize it as a concept, carrying it into high-stakes decisions such as judging criminality or investment worth."
+        }
+      ]
+    }
+  }
+}

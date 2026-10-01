@@ -1,0 +1,1047 @@
+{
+  "cards": {
+    "games/games-ryzachat-input-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp"
+        },
+        {
+          "t": "p",
+          "x": "基于Atelier Ryza的聊天机器人RPG《RyzaChat:AI》开发商Spiral AI宣布，将在10月的AI模型更新中限制用户输入。原因是有人担心部分玩家的滥用行为会损害Atelier系列及角色的声誉。"
+        },
+        {
+          "t": "p",
+          "x": "Spiral AI重新公布了使用条款，表示不会容忍“贬低原作或损害原作完整性”的行为。企图让莱莎的角色AI说出违反公共秩序和良俗的话，以及扭曲游戏内容的篡改、伪造截图，都属于此类行为。"
+        },
+        {
+          "t": "p",
+          "x": "游戏已经设有三层监控机制。输入首先由游戏主AI接收，拆解内容并过滤不当词语，再交给角色AI。莱莎的角色AI被设定为不回应与角色或游戏设定无关的话题，生成的回答中若出现不当表达会立即删除。不当内容也不会保存在角色AI的记忆中。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此，用户仍通过提示词注入等方式绕过了过滤器。从10月更新起，将限制与莱莎对话时可输入的内容。官方还在考虑字数限制等进一步措施，并将持续关注情况。"
+        },
+        {
+          "t": "p",
+          "x": "针对扭曲游戏内容的篡改截图，官方已开始向各平台提出删除请求和举报。鉴于对角色完整性如此重视，即将推出的新作《SophieChat: AI》(主角为Atelier Sophie的苏菲·诺伊恩米勒)很可能也会加入同样的限制。RyzaChat:AI目前已在iOS和Android上线。"
+        }
+      ]
+    },
+    "games/games-tsuda-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "出演《咒术回战》《电锯人》等人气动画的资深配音演员津田健次郎，在起诉TikTok的官司中败诉。这起诉讼要求删除用生成式AI模仿他声音制作的视频。据日经报道，东京地方法院于9月30日以视频已从平台删除为由驳回了诉求。不过，判决内容为日本今后如何在法律上保护配音演员和名人的声音留下了重要先例。"
+        },
+        {
+          "t": "p",
+          "x": "这起诉讼于2025年11月提起，今年5月被曝光，要求立即删除一个粉丝超过21万人的匿名个人账号发布的180多个视频。这些视频用与津田极为相似的AI配音讲述冷知识或都市传说类故事，月收入约3000至4700美元。"
+        },
+        {
+          "t": "p",
+          "x": "津田一方主张，这些视频让观众把AI声音误认为是他本人的声音，构成对日本《反不正当竞争法》的违反，并侵犯了形象权(保护名人身份所具有的商业价值的权利)。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "TikTok一方则反驳称，旁白是「普通男性的声音」，上传者使用的是在外部网站上「用朋友声音训练出的AI」。TikTok认为既没有违法，也没有侵犯津田的权利。该账号已于5月被删除，数据也未保留在TikTok服务器上。被告方以没有继续诉讼的法律利益为由，请求驳回诉求。"
+        },
+        {
+          "t": "p",
+          "x": "法院以视频已被删除为由驳回了诉求，但在判决书中明确指出人的声音属于形象权的保护对象，日本媒体将此评价为新的先例。"
+        },
+        {
+          "t": "p",
+          "x": "近年来，利用生成式AI未经授权使用名人声音和肖像的案例不断出现，但日本并没有直接保护声音权利的法律。随着问题日益突出，配音演员团体等一直强烈要求修法。法务省和经济产业省曾提出指导方案，认为声音也可像肖像一样受形象权和《反不正当竞争法》保护，但此前从未有判决承认过声音权利受到侵犯。这正是本次判决具有分量的原因。"
+        }
+      ]
+    },
+    "games/games-borderless-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Over the past week, the Steam app Borderless Gaming added two features: frame generation and DLSS 5 neural rendering. According to developer Andrew Sampson (creator of the streaming tech Rainway), frame generation is a general-purpose implementation trained on “tens of thousands of hours of gameplay,” so it does not need to touch the game. The DLSS 5 effect also uses the BGFX mode introduced earlier this year, which captures the game window at the compositor stage and processes it through a GPU effects pipeline."
+        },
+        {
+          "t": "p",
+          "x": "Unlike existing injection tools, it does not require swapping game DLLs, patching files, or hunting for game-specific mods. You install the effect, pick a preset, and apply it to a running game — that's it. This works because it never calls NVIDIA's software at all. Sampson said he quantized the model, restructured how it runs, and removed internal bottlenecks in the neural network so it runs on a much wider range of GPUs than the latest GeForce RTX cards. NVIDIA officially supports only the RTX 50 series, but this version can target around 30FPS on an RTX 3090 depending on the game and settings."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-Comparison-scaled.jpg",
+          "cap": "Borderless Gaming DLSS 5 effect comparison"
+        },
+        {
+          "t": "p",
+          "x": "Sampson stressed that the DLSS 5 effect is not bundled with the update, and does not turn on by default or run in the background. The effect is a single shader file hosted on GitHub, and this update added the ability to paste a repository URL to install effects and presets. Once installed, you can adjust intensity, lighting, structure, style, and processing resolution."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech noted that since the model itself was modified and it processes a captured compositor-stage image, it would be more accurate to call this a “DLSS 5 derivative” rather than NVIDIA's 3D-guided neural rendering itself. Still, it observed that amid the controversy, the continuing attempts to attach this technology to games and other tools outside of games show the appeal of DLSS 5."
+        }
+      ]
+    },
+    "games/games-logitech-replay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UfHwHWLHYecS3jxR7kvSH9.jpg",
+          "cap": "Logitech G Hub Replay界面"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer的Jacob上周在华沙第一次看到了Logitech的新软件Replay，目前是测试版。录制游戏后，它会用深度学习找出精彩瞬间并拼接起来。演示看起来很不错，但他亲自在《反恐精英2》里试用后发现，距离好用还有很长的路要走。"
+        },
+        {
+          "t": "p",
+          "x": "录制了一场CS2死斗模式和半场娱乐模式比赛后，成品里没有什么出色的画面。确实有几个击杀入选，但都不算精彩。尤其是死斗模式只选中了两三个片段，而后半段出现的沙鹰击杀、侦察兵快速瞄准、甩狗普等场面反而被漏掉了。于是他又单独录制了一场死斗模式，再次比较AI选出的片段。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbGNp497xsyrfyASYHtsH9.jpg",
+          "cap": "Replay片段编辑界面"
+        },
+        {
+          "t": "p",
+          "x": "幸好可以直接从完整录像里自己挑选和修改画面。用同一场比赛的录像花五分钟左右调整后，成片明显好了很多。这只是在一局CS2里浅尝的结果。Logitech目前公布兼容44款游戏，可以免费下载试用。"
+        },
+        {
+          "t": "p",
+          "x": "除了核心的AI片段选择功能，软件本身相当不错。启动游戏后会弹出一个小提示并自动开始录制，退出游戏后可以自由添加或删除片段进行编辑。还可以设置存储空间上限，达到上限后会先删除最早的录像。录制过程中没有感觉到性能下降，不过这是在高配置PC上得出的结果，具体情况可能因设备而异。"
+        }
+      ]
+    },
+    "games/games-nis-ai-quality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-shot.jpg",
+          "cap": "日本一软件提供图片。© Nippon Ichi Software"
+        },
+        {
+          "t": "p",
+          "x": "越来越多公司公开承认游戏的很大一部分由AI制作完成，但仍有一些公司保持谨慎。制作《魔界战记》并发行《轨迹》《伊苏》系列的日本一软件似乎就是其中之一。"
+        },
+        {
+          "t": "p",
+          "x": "几周前，Kotaku在PAX West采访了日本一CEO兼NIS美国总裁猿桥贤三。采访最初围绕游戏翻译与本地化展开，随后转向AI话题。猿桥除担任日本一CEO外，近期还兼任NIS美国总裁，其目标之一是让两个组织更紧密地结合，在西方市场推出更多游戏。公司希望摆脱在日本发行数月后才推出西方版的做法，增加全球同步发行。为此首先要提升公司内部的本地化能力。"
+        },
+        {
+          "t": "p",
+          "x": "以目前的氛围来看，很容易让人想在这类工作中使用生成式AI，不少公司确实在高调宣传。但至少在动画领域，使用AI极不受欢迎，成果也常常很糟糕。于是Kotaku询问日本一目前是否在本地化中使用AI，得到的回答如下。"
+        },
+        {
+          "t": "p",
+          "x": "“目前我们并没有特别在用。不过我们在做研究，因为知道现在有很多公司在用AI。这并不意味着我们打算把本地化责任完全交给AI，我们更想确保品质。如果要用，我们希望确认品质也能同时得到保证。所以现在是在研究这是否可行的阶段。就我个人而言，并不认为使用AI一定能让工作变快。”"
+        },
+        {
+          "t": "p",
+          "x": "我们又问这一标准是否适用于整体业务，得到的回答大体上是肯定的。"
+        },
+        {
+          "t": "p",
+          "x": "“首先要说，我们确实能感觉到整个创作行业都在承受来自AI的某种压力。和其他开发者谈到这个问题时，常听到的结论是：归根结底，目标是为粉丝制作出高品质的游戏。在这种情况下，我们不能完全无视AI。所以至少应该把它当作未来的一种可能性加以研究，我也同意这种想法。如果要应用AI，最好的方式是真正提升游戏的品质。我们并不只是从效率的角度来看待这件事，我认为那不是该看的方向。应该看的是“是否提升了最终成果的品质”。”"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku也加了一句提醒：在不少公司，“正在研究”往往是迈向正式AI内容制作的第一步，日本游戏工作室尤其如此。Level-5使用AI一事的余波也尚未平息。所以这番话也该带着一些怀疑来听。不过记者补充说，眼下至少可以放心去玩《Village in the Shade》。"
+        }
+      ]
+    },
+    "games/games-dlss5-melee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-Super-Smash-Bros-Melee.jpg",
+          "cap": "经典游戏《任天堂明星大乱斗DX》装上了英伟达DLSS 5。结果确实耐人寻味。"
+        },
+        {
+          "t": "p",
+          "x": "英伟达DLSS 5神经渲染本月初发布后,用户们把它用到了各种游戏上,效果参差不齐。神经渲染在写实风格的美术中表现最好,甚至让FromSoftware的《黑暗之魂3》这类老游戏呈现出翻拍级的画面。不过在风格迥异的老游戏上,它偶尔也能出人意料地奏效。任天堂的GameCube经典《任天堂明星大乱斗DX》就是如此。"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5神经渲染最近加入了《Melee Unlocked》0.6.61版本。这是大乱斗DX的免费原生Windows移植版,把PowerPC代码静态重新编译为C++,运行在原生D3D12渲染器上。实现相当扎实,尽管仍是实验性版本,强度、表面细节、光照和色调都可以在游戏内直接调节。"
+        },
+        {
+          "t": "video",
+          "yt": "qZXsNr7HmAo"
+        },
+        {
+          "t": "p",
+          "x": "新版本发布后,开发者Hero88go发布了一段YouTube视频,展示了这套DLSS 5神经渲染实现的运作方式。说实话,期待并不高,因为这项技术目前看起来并不太适合风格化的画面。但视频显示,它其实可能相当契合。"
+        },
+        {
+          "t": "p",
+          "x": "开启DLSS 5后,画面明显变暗,色彩也不那么鲜艳,噪点也很明显。不过角色模型和场地大体看起来还不错,调好参数应该会更好。大概没人会真的这样玩大乱斗,但作为实验依然很有趣。"
+        },
+        {
+          "t": "p",
+          "x": "除了实验性的DLSS 5神经渲染支持外,这款非官方PC移植版《Melee Unlocked》还有几项进阶功能,这也是它成为体验任天堂平台格斗系列中这款至今仍被视为最佳作品的好方式的原因。"
+        },
+        {
+          "t": "p",
+          "x": "最具代表性的是解除帧率上限。游戏逻辑仍保持在60Hz,中间帧不是靠图像插值生成,而是用游戏自身的动画和物理数据计算出来,因此不会增加延迟。还加入了基于回滚的在线多人对战,并兼容Slippi Netplay。此外还支持DLSS/DLAA、帧生成、Reflex、HD材质包,以及GameCube、DualSense、Switch Pro和Xbox控制器的原生支持。"
+        },
+        {
+          "t": "p",
+          "x": "《Melee Unlocked》可以在GitHub上下载。为避免法律问题,其中不包含任何游戏数据,所以必须自行准备大乱斗DX NTSC 1.02版ISO才能游玩。"
+        }
+      ]
+    },
+    "games/games-rgg-tupac-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/09/Tupac-2.jpg",
+          "cap": "图帕克·沙克尔的形象被用在了名为阿马鲁的角色身上。"
+        },
+        {
+          "t": "p",
+          "x": "RGG工作室的《Stranger Than Heaven》名副其实。将已故说唱歌手图帕克·沙克尔以角色形式复活的决定，在Summer Game Fest首次公布时曾被认为十分怪异。"
+        },
+        {
+          "t": "p",
+          "x": "在本次更新中，RGG工作室更详细地公开了登场角色，并附上了关于如何复活沙克尔的简短说明。方式是传统的资料调查。关键在于，这家制作《如龙》系列的开发商明确表示没有使用AI技术，从而避免了选角引发更大的争议。"
+        },
+        {
+          "t": "p",
+          "x": "“RGG工作室怀着对他遗产最大的尊重来处理这项工作，包括基于影像资料和照片制作的角色设计，所有元素都是通过密切协作、不借助AI完成的。”工作室如此说明。关于使用沙克尔形象的角色阿马鲁的更多细节将在稍后公布。"
+        },
+        {
+          "t": "p",
+          "x": "据RGG工作室负责人横山昌义介绍，正是史努比·道格本人提议让图帕克出演这个角色。史努比·道格本人也会出现在《Stranger Than Heaven》中。根据官方角色介绍，他饰演周游世界的商人俄耳甫斯，对自己所卖货品的合法性持“开放态度”。在游戏中，俄耳甫斯发现主角大门偷偷登上了自己的船，并在1915年前往日本的途中，向他讲述等待着他的艰苦生活。"
+        },
+        {
+          "t": "p",
+          "x": "其余演员也来自世界各地。音乐人托瑞·凯利与藤原纯，《将军》演员西冈德马，知名配音演员大冢明夫都名列其中。在跟随这部跨越50年历史的故事时，玩家将与他们全部相遇。"
+        },
+        {
+          "t": "p",
+          "x": "在游戏中使用名人形象的并非只有图帕克·沙克尔一人。卡普空的《鬼武者:斩之道》借用了已故演员三船敏郎的外形与动作。正如横山所说，这种做法在日本已经很常见，通常不会招致非议。他在今年早些时候对GameSpot表示:“在日本，人们对这个问题不太敏感。这已经是日本游戏文化的一部分长达20多年了。无论演员在世还是已故，以其为原型制作角色的人都非常多。”"
+        },
+        {
+          "t": "p",
+          "x": "《Stranger Than Heaven》将于2027年1月15日登陆PC、Xbox Series X|S和PS5平台，并可在Xbox Game Pass首日畅玩。"
+        }
+      ]
+    },
+    "games/games-gamescom-3d-tech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_1200x630.jpg",
+          "cap": "科隆游戏展2026年3D美术与技术回顾。图片来源:80 Level"
+        },
+        {
+          "t": "p",
+          "x": "科隆游戏展通常让人记住的是预告片和可试玩的演示,但它同样是大量改变游戏制作方式的技术汇聚的场合。今年突出的3D趋势包括更实用的光线追踪、更密集的实时几何体、日益专精的自研引擎,以及缩短从创意到可用素材之间距离的工具。"
+        },
+        {
+          "t": "p",
+          "x": "英伟达公布了用于DLSS 4.5光线重建的第二代Transformer模型。据称新模型的算力提升了35%,参数量增加了20%。在不大幅影响性能的前提下,它提升了光线追踪与路径追踪游戏的细节与时间稳定性。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/4d/images/6aae39e2f0296/widen_1840x0.jpg",
+          "cap": "《战争机器:E日》"
+        },
+        {
+          "t": "p",
+          "x": "这一点在画面运动时尤为重要,因为光线采样不足会产生残影、模糊和表面抖动。光线重建仍不是完全消除实时路径追踪折衷的方案,但这次更新很好地说明了神经渲染正以多快的速度成为现代图形管线的基本组成部分。"
+        },
+        {
+          "t": "p",
+          "x": "英伟达还通过《战争机器:E日》介绍了RTX超级几何体技术。该技术让在细节几何体极其密集的场景中使用光线追踪变得更加现实,可以更高效地同时处理密集素材、动态破坏和精细光照。从美术师的角度看,这意味着原始素材在抵达可玩场景时能保留更多细节。"
+        },
+        {
+          "t": "p",
+          "x": "在流程中的素材制作环节,Tripo AI挺身而出。它展示了生成式3D工具正从单纯产出单个模型,转向支撑更广泛制作流程的方向。该公司目前涉及的范围包括素材生成与优化、团队协作、流程自动化,以及导出到如Unity等引擎。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b6/images/6ab4eab8dfd58/contain_1240x826.jpeg",
+          "cap": "图片来源:Tripo AI / 80 Level"
+        },
+        {
+          "t": "p",
+          "x": "最新的3D原生基础模型Tripo P2.0可生成原生四边形网格。它在科隆游戏展上以预览形式亮相,此后正式发布,还有几项值得关注的新功能。它可以从单个概念生成最多四个素材变体,供美术师和开发者在投入更多制作时间之前先行挑选。新的网格编辑工具只重新生成模型的特定部分,无需从头重做整个素材。借助多视角参考输入,素材可以基于正面、背面与侧面图像构建,而不只是单一角度。"
+        },
+        {
+          "t": "p",
+          "x": "将Tripo与OpenAI的Astra相结合的工作流程也引发了热烈反响。据Tripo近期发布的文章,利用Tripo制作的素材加上不到5,000行代码,大约4小时就完成了一款可玩的3D游戏。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b5/images/6aae3950979ef/widen_1840x0.jpeg",
+          "cap": "4A Games"
+        },
+        {
+          "t": "p",
+          "x": "引擎开发方面同样出现了引人注目的消息。Creative Assembly介绍称,新引擎War-Core让《全面战争:战锤40,000》得以扩展到行星与星系级别的规模,改善了渲染、素材处理、动画模块化、破坏、爆炸,以及该世界观所需的大量弹射物处理。Crystal Dynamics表示,由于原始源代码已全部遗失,他们必须在Unreal Engine 5中从零重建《古墓丽影:亚特兰蒂斯遗产》,并为Nanite和Lumen搭配了自研的物理与动画技术。"
+        },
+        {
+          "t": "p",
+          "x": "游戏相关的消息本身十分庞杂,但技术层面的亮点相对集中。《地铁2039》凭借4A引擎的最新进化获得最佳视觉效果奖,《控制:共鸣》展示了Remedy的Northlight渲染与破坏系统,《战争机器:E日》则成为超级几何体技术的实战案例。"
+        }
+      ]
+    },
+    "games/games-warhorse-15th-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hvSJcRbsGwZTVCu9B4wQzU-1920-80.jpg",
+          "cap": "Warhorse工作室迎来成立15周年。图片来源：PC Gamer"
+        },
+        {
+          "t": "p",
+          "x": "马丁·克利马是个打破常规的人。作为Warhorse工作室联合创始人，他主导开发了过去十年里最厚重、最另类也最出色的RPG之一《天国：拯救2》，一款其他工作室大概不会做的游戏。他曾是旧东欧阵营的学生运动人士，是业内唯一一个能说自己曾出力推翻过一个政府的人。"
+        },
+        {
+          "t": "p",
+          "x": "他的经历比做游戏还早。他为了读原版《魔戒》而自学英语，还想把从西方传入的D&D基础套装翻译出来做地下出版。1989年11月17日的一场示威中，他代表学生组织STUHA发表演讲。与警察的冲突让很多人被打得很重，这件事让学生乃至整个国家都变得激进。一周后爆发了总罢工，到12月底瓦茨拉夫·哈韦尔成为捷克斯洛伐克总统，这就是天鹅绒革命。"
+        },
+        {
+          "t": "p",
+          "x": "资本主义到来后，他对SF和游戏的爱好变成了职业。TSR一直没有回信，他便在已经做好的翻译基础上，自己设计了职业、种族和战斗系统。因为没办法做出20面骰，他只用了6面和10面骰。由此诞生的《Dračí Doupě》大获成功。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2faH65jEF3CoDaP2jCwgqc.jpg",
+          "cap": "Warhorse正同时开发新的《天国》和一款《魔戒》游戏。图片来源：Warhorse / Wizards of the Coast"
+        },
+        {
+          "t": "p",
+          "x": "Warhorse成立于2011年。《天国：拯救》跑遍了三个大陆的50多家发行商，却没人感兴趣，最终走上了Kickstarter，集齐了35384名支持者。克利马认为这要归功于“给成年人的RPG”这个想法：他自己也厌倦了那种“你就是天选之人”的RPG。如今Warhorse把团队分给了两个项目：一款《魔戒》游戏和新的《天国》。"
+        },
+        {
+          "t": "p",
+          "x": "可整个行业却正处于几十年来最黑暗的时期，裁员和不光彩的取消接连不断。克利马的诊断很简单：游戏市场的增长已经撞上了无法逾越的天花板，而技术却不断要求更多人力去追更炫、更大的目标。人多了游戏就更贵，更贵就必须卖得更多，生意才能转得动。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9SieU3JpSSPX34eMduXqsW.jpg",
+          "cap": "克利马认为《GTA 6》或许会为游戏涨价打开一条路。图片来源：Rockstar Games"
+        },
+        {
+          "t": "p",
+          "x": "扩大市场本是最容易的路，但早就到了天花板。砍掉零售中间商这件事也已经做过了。“我们摧毁了零售业，把他们的钱全拿走了，”克利马打趣道。剩下的办法就是提高单价，可大家都怕。他说：“真希望GTA能打开这条路，但感觉选项已经用完了。”他看到的另一条路是把开发转移到成本更低的国家：中东欧、中国、印度、东亚。这对身在捷克的Warhorse不算坏事，却给北美和西欧的开发前景蒙上阴影。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XXCgJuUTiiPoGyavAJqSBg.jpg",
+          "cap": "图片来源：Deep Silver"
+        },
+        {
+          "t": "p",
+          "x": "多数管理层欢迎的解法当然是AI。在克利马看来，他们对如何引入AI抱有一种“简化的心理模型”，而这种模型在现实中并不好用。据PC Gamer转述，这个模型是这样的：如果AI是5倍的生产力放大器，200人的团队就能缩减到40人。就算每个开发者配一个AI，且一个AI的成本和一个开发者相当，算下来80人的人力成本也能完成200人的工作量。"
+        },
+        {
+          "t": "p",
+          "x": "先不论AI产出的质量问题，克利马并不认为事情会这样运作。如果200人借助神奇的AI把产出提高5倍，玩家就会开始期待1000人团队才能做出的游戏。“AI不是让你直接出狱的那张牌。它不会降低游戏的成本，而是会让你用同样的成本做出更大的游戏。”"
+        },
+        {
+          "t": "p",
+          "x": "作者写道，他对此相当怀疑。但克利马和Warhorse显然已经认真思考这个问题很久了。当被问到他所说的AI放大效应会不会在Warhorse的下一款游戏中发挥作用时，整场长谈中始终有问必答的克利马第一次沉默了。“这个我不能说。”无论是中洲还是波希米亚，答案都要等下次造访才会揭晓。"
+        }
+      ]
+    },
+    "games/games-meshy-mora-71-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 3D生成平台Meshy详细公布了「Mora(Multimodal Open-world Real-time Architecture)」。其构想是生成一个完整世界，让人们可以实时漫游、游玩并与之互动。早期演示版Mora 1任何人都可以在mora.fun上体验。其中包含空间解谜、多人平台跳跃、建造、竞速、体育等内容，视觉风格也可以更改。"
+        },
+        {
+          "t": "p",
+          "x": "业界此前大多采用让单一视频模型从头到尾模拟整个世界的方式。但这种方式在保持空间一致性和支撑复杂互动方面仍然力不从心。Mora的思路不同：世界应该先构建，然后再渲染。"
+        },
+        {
+          "t": "p",
+          "x": "因此，他们将工作按层划分。驱动世界运转的逻辑和机制由编程智能体编写，空间结构和素材由Meshy的3D生成负责制作，最终画面和声音则由实时视频模型呈现。游戏规则得以保留，空间得以维持，而画质会随着视频模型迭代而提升。由于各层分别演进，无论编程智能体、3D生成还是视频模型哪一方取得进展，都会在Mora中不断积累。"
+        },
+        {
+          "t": "p",
+          "x": "Mora 1是用于验证这一架构的早期研究演示。通用世界制作工具是更长远的目标，Mora 2正在开发中。"
+        },
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS1992445/20260921044342EDT_image_1.jpg?id=OA2959914",
+          "cap": "由一张图片生成的Meshy 7.1结果，并列比较了标准、Ultra 2K、Ultra 4K三种输出。"
+        },
+        {
+          "t": "p",
+          "x": "9月16日，Meshy还推出了旗舰图像转3D模型的新版本Meshy 7.1。所有注册用户均可使用，并新增了高细节模式「Ultra 2K」和「Ultra 4K」。"
+        },
+        {
+          "t": "p",
+          "x": "在Ultra 4K模式下，几何体以4096³的体素分辨率生成。简化前的原始网格最多可达8000万个三角面。Meshy表示这是首个达到4096³分辨率的生成式3D模型。缝线痕迹、织物纹理乃至每一片鳞片，都以网格形状而非纹理方式呈现，适用于3D打印或数字雕刻工作。"
+        },
+        {
+          "t": "p",
+          "x": "在公司新建的「细节丰富度基准」内部评测中，Meshy 7.1在五个图像转3D模型里，三种渲染分辨率均排名第一。使用Ultra模式及下载7.1模型均需付费订阅。Ultra 2K支持单视图与多视图生成，Ultra 4K目前仅支持单视图。"
+        }
+      ]
+    },
+    "games/games-pixverse-r2-world-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一般的AI视频生成是一次性的过程：接收提示词，生成固定长度的片段后便停止。若要修改，就必须用新的提示词从头再来。实时世界模型则不同，它不生成片段，而是生成一个只要用户停留就会持续运行的世界，生成过程中输入的内容会改变接下来的画面。"
+        },
+        {
+          "t": "p",
+          "x": "PixVerse于2026年1月推出了首个实时世界模型R1，而此次的R2是其升级版。它在更长的会话中依然保持一致性，能记住并延续会话中发生的事情，并在同一个世界中接收文本、参考图、音频与动作操作。"
+        },
+        {
+          "t": "p",
+          "x": "关键在于输入会被保留下来。以往输入只在那一瞬间产生影响，随后便消失。而在R2中，提示词、动作或音频信号会改变世界本身的状态，进而左右角色之后的行为方式以及情况如何发展。"
+        },
+        {
+          "t": "video",
+          "src": "https://media.pixverse.ai/asset/media/pixverse-introduces-r2-real-time-world-model-highlight-remix.mp4"
+        },
+        {
+          "t": "p",
+          "x": "玩家用WASD键控制角色、方向键控制摄像机，在世界中移动。移动过程中还可以用提示词添加元素或改变环境。"
+        },
+        {
+          "t": "p",
+          "x": "创作者小笼包用R2制作的互动电影游戏《零标记》中，一个怪物挡住了道路并索要礼物。给它一条龙还是一片叶子，反应会截然不同，模型会当场生成结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-zero-mark.png?x-oss-process=style/cover-webp-large",
+          "cap": "《零标记》中同一场景，根据给予龙或叶子分出两种不同走向。"
+        },
+        {
+          "t": "p",
+          "x": "速度与性能通常相互制约。R2没有二者取一，而是将工作拆分为两个阶段：「Omni Causal AR」作为持续学习的主干网络提升性能，实时加速层则压缩同一模型以实现实时运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-scaling-architecture-v2.png?x-oss-process=style/cover-webp-large",
+          "cap": "R2的架构，用一个持续学习的单一模型加实时压缩，取代了此前在多个阶段中不断损失画质的训练流程。"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CEO Changhu Wang表示：“大语言模型已经证明，扩展规模是通往性能提升的可靠路径”，并称R2正是实时世界模型也能走上这条路的证据。7月首次推出的PixVerse Game Engine现已运行在R2之上，创作者制作的世界可以在world.pixverse.video上探索。"
+        }
+      ]
+    },
+    "games/games-everboard-evervibe-console": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "只需给Everboard全新的21.5英寸平板电脑三个词，比如“会耍寿司的猫”，就能生成一款可以立即上手的新游戏。基于生成式AI的「EverVibe Game Creator」制作的游戏，介于桌游与手机游戏之间。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/5c203b6d-850f-46ee-9e9f-da876d2bf687.png"
+        },
+        {
+          "t": "p",
+          "x": "Everboard于周四上午发布，是一款售价499.99美元的数字游戏桌，今年年底将在Best Buy独家销售。该设备是一块21.5英寸1080p触屏，放置于桌子中央。支持10点触控，可供最多6人从四个方向一起游玩，并内置电池，可随身携带。"
+        },
+        {
+          "t": "p",
+          "x": "玩家可以说出或输入想玩的游戏，也可以从菜单中选择主题、规则、操作方式和视觉风格。EverVibe会询问人数、座位位置、是否需要电脑对手以及操作方式等几个问题。该公司表示，规则、回合结构、计分和胜利条件均可更改，棋盘、角色、画风、音效和音乐同样可以调整。"
+        },
+        {
+          "t": "p",
+          "x": "制作好的游戏可以用“再快一点”“加一个能力提升”之类的简单话语来调整。每次修改都会保存为新版本，如果AI走偏了方向，只需回退到之前的版本即可。设备还配有四张隐私贴膜，用于在共享屏幕上遮挡玩家的手牌。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bestbuybanner-tablet-1920x1080.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI模型来自Everboard仅称为“现有商用供应商”的机构，公司并未透露具体是哪一家。设备的设置由成年人负责，是否开启EverVibe以及谁可以使用也由成年人决定。公司表示不会用玩家的提示词和创作内容来训练AI。"
+        },
+        {
+          "t": "p",
+          "x": "费用并不止于硬件本身。设备包含一个月的EverPass订阅服务，可使用完整游戏库并每月生成5次Game Creator内容。EverPass价格为3个月29美元或1年99美元。EverPass Premium每年多付50美元，可将“生成量”提升五倍，每月最多可生成25款快速游戏或5款高级游戏，或二者混合。该上限可能会调整。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bby-05.jpg"
+        },
+        {
+          "t": "p",
+          "x": "即使不订阅，也能畅玩10款免费基础游戏。上市时游戏库将超过50款，已确定包含Hasbro的Monopoly、Connect 4、Chutes and Ladders和Scrabble。不过，创作行业对生成式AI的质疑依然存在，而这款代替人工制作规则、美术和音乐的工具，也很难摆脱这一质疑。"
+        }
+      ]
+    },
+    "games/games-ukge-convention-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg"
+        },
+        {
+          "t": "p",
+          "x": "英国最大的桌游展会——英国游戏博览会（UKGE）本周公布了针对AI制作游戏的新规定。此前曾因与AI关系过密而受到批评的主办方转变方向，决定在极少数例外情况之外禁止AI游戏参展。"
+        },
+        {
+          "t": "p",
+          "x": "新规定写道：“主办方保留完全自主裁量权，可要求展示、陈列或销售此类物品的参展商将其撤除。若拒绝配合，展位可能被关闭，并可能被禁止未来参展。”"
+        },
+        {
+          "t": "p",
+          "x": "UKGE始于2007年，每年夏天在伯明翰举办，是桌游行业最重要的展会之一。据Rascal记者Kyle Hoon Chan报道，UKGE如同Gen Con等海外大型展会一样，在展场内禁止AI生成作品。这一决定是长期不满积累的结果。除了有展商抱怨必须与销售低质量AI产品的商家共用展位之外，UKGE还在2025年因在赞助社交媒体帖子中宣传AI制作的《Gates of Crystalia》而遭到猛烈批评。如今工作人员可以将AI展品请出展场，其他展商的作品也不会因此受到更多怀疑。"
+        },
+        {
+          "t": "p",
+          "x": "唯一的例外是：将AI用于“轻度编辑、制作辅助和无障碍功能”不在禁止范围内。尽管游戏和商业娱乐行业的巨头们大力推动AI，桌游领域却并未出现同样的趋势。一些行业最大的公司反而态度强硬。《战锤》制造商Games Workshop禁止员工在工作中使用AI（尽管关于其使用AI的质疑仍在持续）。其他游戏行业高管希望借助AI削减人力和开发成本，但桌游玩家或许对手绘的哥布林美术和可以握在手中的实体模型，有着更为特别的情感。"
+        }
+      ]
+    },
+    "games/games-steam-needle-haystack-clones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
+          "cap": "《Needle in a Haystack Simulator》（图片：Polden Publishing）"
+        },
+        {
+          "t": "p",
+          "x": "多人合作PC模拟游戏《Needle in a Haystack Simulator》名字就是游戏内容本身。今年夏天该作在社交媒体上走红，随之而来的是一波又一波的仿制品。"
+        },
+        {
+          "t": "p",
+          "x": "游戏内容就是和朋友一起在一堆巨大的干草中找出一根针——和老话一模一样，只是干草总共约有500万根。走红之后，仅上周前半段就有约八款仿制品登上Steam，如今数量更多。"
+        },
+        {
+          "t": "p",
+          "x": "仿制品数量多到在Twitter上都被提及，也被原作者注意到了。面对一张拍下十几款仿制品的截图，Studio Bitdot的Nas回复道：“作为那款走红游戏的开发者，我正式向Steam商店道歉。”这话又好笑又带点苦涩。有评论将其称为“Steam的Roblox化”。"
+        },
+        {
+          "t": "p",
+          "x": "就像Roblox上充斥着《Mecha Chameleon》等爆款的仿制品一样，如今Steam似乎也堆满了仿制品。"
+        },
+        {
+          "t": "p",
+          "x": "亲自搜索后发现，《Needle in a Haystack》的仿制品数量众多，其中不少都带有明显依赖生成式AI的痕迹。这可谓是画蛇添足的最后一笔。对Valve这个平台来说并不好看，但要加以控制也并不容易。"
+        },
+        {
+          "t": "p",
+          "x": "一旦某个东西火起来，就会到处可见其身影。问题在于它是否会挤掉真正的原作，或者直接盗用创意。这次的许多仿制品看起来更接近后者。这些仿制品是否会被下架还有待观察。原作将在今年内发布。"
+        }
+      ]
+    },
+    "games/games-arc-raiders-ml-bully-enemy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-first-person-mode-header.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "你知道吗，ARC Raiders地面上遇到的敌人「收割者（Reaper）」是通过机器学习来学会行动的。Embark Studios机器学习研究负责人马丁·辛-布洛姆（Martin Singh-Blom）在今年的GDC上解释说，收割者是通过奖励和感知来学习的。正因如此，收割者的动作显得自然，即便失去一条腿也能自行应对。"
+        },
+        {
+          "t": "p",
+          "x": "虽然还不能说是由AI主导，但两者之间确实有相似之处。使用这种方式的敌人并不只有收割者，但凭借修长的腿和动作，收割者最为引人注目。10月8日随史上最大规模的更新「Frozen Trail」上线时，还会加入一个拥有同样机器学习能力的新敌人，名叫「霸凌者（Bully）」。"
+        },
+        {
+          "t": "p",
+          "x": "顾名思义，它富有攻击性且力量强大。在Frozen Trail公布之前，Polygon在面向媒体与创作者的线上预览活动中见到了霸凌者的动态。它体型不如收割者庞大，但是一种极为壮实的地面型敌人。它会不给玩家喘息的机会，一直追击到底。和收割者一样，它的设计目标是在战斗中摇晃、跌倒并撞向玩家，营造出富有动感的瞬间。"
+        },
+        {
+          "t": "p",
+          "x": "执行制作人亚历山大·格伦达尔（Alexander Grondahl）表示：「机器学习仍是一项刚刚起步的新技术，对我们来说依然接近于高级研究课题。有趣的是，我们并不能把它控制得十分精确。即便想教它某种行为，它有时也会做出完全不合理的动作，这时就需要更新模型来修正具体问题。」"
+        },
+        {
+          "t": "p",
+          "x": "他解释说，机器学习敌人是「在阵容中填补原型角色」的存在。「随着技术进步、我们了解得越多，就会以最好的方式加以运用，打造出独特的体验。」"
+        },
+        {
+          "t": "p",
+          "x": "谈到霸凌者，他说「因为是地面型，所以它会试图越过任何地形」。「所有机器学习敌人都基于物理引擎运动，借助新加入的系绳系统，玩家可以用全新的方式体验这些敌人的物理特性。机器学习敌人有腿，最适合用来学习行走。看它们在失去一条腿、被卡住，或是跌倒打滚时如何适应，是很有趣的。」"
+        },
+        {
+          "t": "p",
+          "x": "Frozen Trail将于10月8日星期四作为免费更新上线，登陆PS5、Windows PC和Xbox Series X。"
+        }
+      ]
+    },
+    "games/games-sony-ai-tech-support-patch-patent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "主机用久了，总会遇到需要修复的技术性错误。索尼想用AI技术支持代理来绕开这个问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "在索尼这项专利中，AI会监控系统，一旦发现异常信号，就用LLM编写补丁。这个补丁可以提前修复问题，或者向索尼的工程师发送报告。问题在于，如果这项功能无法关闭，PlayStation上处理的所有数据都可能被这个代理看到。因为要不漏地监控硬件和软件问题，几乎需要拥有全部权限。"
+        },
+        {
+          "t": "p",
+          "x": "这也有把小问题变大的风险。Patently发现的专利文字中也写道：「向客厅设备发送维修指令的自动化系统，需要谨慎的防护机制，以免小问题演变成更大的问题。」PS5（或许PS6也一样）归根结底只是一台专用计算机。笔者自己也不止一次，在试图修复本可以放着不管的小问题时，把东西弄坏了。"
+        },
+        {
+          "t": "p",
+          "x": "如果LLM的训练和防护机制不够牢靠，临时生成的补丁中混入错误，也可能把PlayStation变成一块「砖」。"
+        },
+        {
+          "t": "p",
+          "x": "这项专利会在何时、甚至是否真的会变成实际的AI技术支持代理，目前还不清楚。不过，一旦PS6取消光驱，下一代主机很可能从一开始就要求保持常态联网。如果主机一直与索尼服务器通信，加入这种AI系统并不难。笔者认为这项功能会率先出现在下一代平台上。希望在那之前，还有时间解决远程AI监控带来的运营与隐私问题。"
+        }
+      ]
+    },
+    "games/games-disgaea-niikawa-no-ai-stories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/05/20250530-48534-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Disgaea的创作者新川宗平曾任日本一软件(Nippon Ichi Software)社长，现任SuperNIS CEO。他近日在电击在线(Dengeki Online)的采访中谈到了游戏开发中生成式AI的应用。"
+        },
+        {
+          "t": "p",
+          "x": "新川宗平认为AI不是威胁，而是一种“工具”。用它来提高生产效率没有问题，但他坚决反对侵犯版权等非法使用。他目前暂不打算在自己的创作中使用AI，写作方面更是如此。"
+        },
+        {
+          "t": "p",
+          "x": "“你可以只构思一个大纲交给AI，把剩下的故事都交给它来写。现在应该已经有很多人这样做了。我完全不想否定这种方式，只是会想，这样做真的有趣吗。”"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/08/20260827-71564-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI或许是大量生产的好工具，但大批量制作游戏并不是他的目标。“我有一种根本的渴望，就是想创造出自己想看到的故事和角色。如果不是一点一点亲手打造，就没有乐趣。如果不是亲自把每一个字串联起来，就感觉不到快乐。”"
+        },
+        {
+          "t": "p",
+          "x": "这是他不在创作中使用AI的最大原因。他表示，AI在取角色名字或查找资料时或许有用，但“完全没有兴趣让AI代替自己写故事”。“我也不想让AI给我列出十个好卖的故事，我认为价值就在于自己挑选感兴趣的主题并亲自动笔。”"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/06/20260625-68758-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新川宗平目前正在负责多款新作的剧本与制作，包括速通训练SRPG《Demons’ Night Fever》和时间循环恐怖潜行动作冒险游戏《Noroi Ayashi: The ∞th Oddity》。概念与剧本全部由人工完成。《Demons’ Night Fever》将于2026年10月22日登陆PC（Steam）、PS5与Nintendo Switch，《Noroi Ayashi》预计2027年登陆PC（Steam）、Nintendo Switch与Switch 2。"
+        }
+      ]
+    },
+    "games/games-tenebris-somnia-practical-effects-horror": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Di2XT3mqvhI"
+        },
+        {
+          "t": "p",
+          "x": "你看过阿根廷恐怖电影吗？笔者看过，真的很吓人。PC游戏展·东京直面会2026的迷你纪录片，必须用一只手遮着眼睛才能看下去。《Tenebris Somnia》将2D生存恐怖玩法与屡获殊荣的阿根廷电影团队拍摄的实拍过场动画结合在一起。妆造和特效出色到让人害怕的程度。"
+        },
+        {
+          "t": "p",
+          "x": "复古2D画面与实拍过场衔接得十分娴熟。走在阴森斑斓的走廊里，下一秒就会看到真人的脸以无法用常理解释的方式扭曲变形。发行商New Blood Interactive的CEO戴夫·奥希里对特效团队赞不绝口，但笔者不禁怀疑他们是不是真找来了恶魔来演。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "总制作人埃尔多夫说，这种感觉就像在玩别人的噩梦。游戏里还会出现脸下藏着另一张脸、以及共用一个嘴的怪物。这些效果大多用实物材料制作，因此才显得如此逼真。奥希里说：“这么说吧，AI绝对做不出《Tenebris Somnia》。”"
+        },
+        {
+          "t": "p",
+          "x": "生存要素同样值得期待。“体力永远只会刚好够用，弹药也永远只会刚好够用，很多时候你都得靠扳手或管子撑过去。”奥希里在影片中手持扳手这样解释道。"
+        },
+        {
+          "t": "p",
+          "x": "据说这个故事能让任何经历过艰难恋爱的人产生共鸣。“你会笑、会哭，还会给前任打电话。”这是目前公开内容里最可怕的一点。《Tenebris Somnia》将配合万圣节于2026年10月16日发售。"
+        }
+      ]
+    },
+    "games/games-starform-ai-native-26-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Starform于2023年11月发布了《Metal Storm》。这家西雅图工作室在2024年底从Bitkraft获得600万美元投资时，这款5v5空战游戏在App Store、Google Play和Epic Games Store上合计拥有300万玩家。CEO兼联合创始人卢·帕斯库利如今认为这个数字已达到1500万。PocketGamer.biz在SLICE 2026上采访了他。"
+        },
+        {
+          "t": "p",
+          "x": "帕斯库利没有夸大工作室给自己贴的标签。“AI原生更像是一段旅程，而不是一种状态。我不会说AI让我们做到了以前做不到的事。”真正改变的是产量。“我们推出了更多功能，也吸收了更多玩家反馈，最终让游戏体验变得更好。”团队内部把事情分成两端来看：一端是简单重复的工作，另一端是判断。团队成员在判断与创造力这一端停留的时间越长，小团队也能拥有更大的野心。"
+        },
+        {
+          "t": "p",
+          "x": "他也明确指出了局限。针对一句提示词就能生成一整款游戏的演示，他数了数《Metal Storm》里一架战机所包含的决定：比如加速曲线、急转弯时能量消耗的程度、在800米距离上轮廓是否容易辨认等等。他认为，放到整款游戏里，这类决定多达数万个。“只要有一项没有定下来，模型就会自己瞎编。如果只是做原型，那倒也无妨。”"
+        },
+        {
+          "t": "video",
+          "yt": "N7BOMP2Cahs"
+        },
+        {
+          "t": "p",
+          "x": "谈到团队规模，他认为“适合游戏的规模和适合公司的规模可能并不相同”，并以文化和共同的愿景作为标准。“如果团队大到无法消化参与上一次《Halo》更新的2100人的反馈，那么一个人的声音和贡献就会变得微不足道。”团队变大，盈亏平衡点也会随之上升。“我认为双A不是一个目标，而是一种成本结构。”"
+        },
+        {
+          "t": "p",
+          "x": "《Metal Storm》早期一个模拟要素很重的版本让新玩家反应严重分化，于是Starform没有只做10%的改进，而是彻底翻新了所有机制。帕斯库利表示工作室目前并未在融资，并说“让游戏活下去的不是我们，而是热爱这款游戏的玩家”。至于26人为何能同时运营《Metal Storm》并规划下一款作品，他的解释是花钱的重点已经转移。“被称为游戏玩法创新的发现和研发并不贵，贵的是把它一路做到底、扩大生产规模并交付给玩家。”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141399/89849/metalstorm_1200.jpg",
+          "cap": "Starform于9月13日宣布，《Metal Storm》将于2026年秋季在Steam正式发售。"
+        }
+      ]
+    },
+    "games/games-ubisoft-motherbrain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片:育碧"
+        },
+        {
+          "t": "p",
+          "x": "育碧在内部将其最新生成式AI项目称为「母脑(Motherbrain)」。没错,就是任天堂《银河战士》系列中那个邪恶超级计算机,后来变成瓶中丑陋脑怪物的那个名字。这一事实来自《刺客信条》和《孤岛惊魂》开发商的商标申请。"
+        },
+        {
+          "t": "p",
+          "x": "The Game File首先报道,Kotaku随后跟进。该公司近期提交的多份商标申请都用这个略显不祥的名字来指代其各类生成式AI计划。"
+        },
+        {
+          "t": "p",
+          "x": "报道称,一份商标写明「用于制作视频游戏和互动内容的人工智能(AI)下载型计算机软件」。另一份商标则涵盖同时用于「数据分析与人机交互」的AI服务,以及「利用人工智能的软件」的研究与设计。"
+        },
+        {
+          "t": "p",
+          "x": "育碧尚未公开提及母脑这一名称,目前看来仅限内部使用。不过该公司很早就公开表示过对这项备受争议的技术及其在游戏开发中应用的热情。"
+        },
+        {
+          "t": "p",
+          "x": "2023年,育碧推出了一款生成式AI代笔工具,据称可帮助撰写游戏内NPC的背景台词,名字就直白地叫做Ghostwriter。去年年底,CEO伊夫·吉耐莫表示生成式AI已在公司全面推行,称其为堪比2D转3D的「革命」。今年夏天,育碧表示将「加速」对射击游戏Teammates的投资,称其为育碧「首个可玩的生成式AI体验」。"
+        },
+        {
+          "t": "p",
+          "x": "这个项目日后是否会变成尖头独眼的脑子,还有待观察。"
+        },
+        {
+          "t": "p",
+          "x": "育碧今年1月通过所谓的大规模重组关闭了两家工作室,取消了六个项目,并裁掉了开发人员。几个月前,育碧又关闭了两家工作室并重组了一家,裁员约380人。"
+        }
+      ]
+    },
+    "games/games-mario-galaxy-human-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "任天堂Wii名作《超级马力欧银河》已完成100%反编译。游戏社区成员透露,非官方PC移植版也即将问世。"
+        },
+        {
+          "t": "p",
+          "x": "游戏反编译是2020年代PC游戏圈的一大潮流。把从未登上PC的游戏移植为原生版本并加以改进,比单纯使用模拟器更有价值。这也让PC玩家终于能够体验《恶魔城:月下夜想曲》或《蓝龙》这类经典作品。"
+        },
+        {
+          "t": "p",
+          "x": "遗憾的是,和如今许多事情一样,这个领域也被生成式AI搅浑了水。继《大金刚64》和《马力欧赛车Wii》之后,连笔者尤其失望的《怪物猎人携带版3rd》也出现了氛围编程的尝试。模拟器也不例外,最知名的PS3模拟器RPCS3开发团队曾向贡献者呼吁“别再提交AI糊弄代码了”。每当新项目出现,人们先起疑心也在情理之中。幸运的是,这个同样基于Wii马力欧游戏的项目,大方举起了“100%人工编写代码”的旗号。"
+        },
+        {
+          "t": "p",
+          "x": "模组社区Luma's Workshop在名为《the next step…》的视频中透露,《超级马力欧银河》的反编译已接近100%。据评论区的更新,100%是在六小时后达成的。他们同时公布了PC移植的进展,项目名为Astrocore,并展示了实际运行画面。开发团队表示“预计很快就会发布”,并让大家到Discord上关注消息。"
+        },
+        {
+          "t": "video",
+          "yt": "SmcFvSgLKr8"
+        },
+        {
+          "t": "p",
+          "x": "续作的消息也一并曝光。开发团队表示“Luma's Workshop的反编译团队完成收尾工作后,将转向《超级马力欧银河2》”。这款(或许更出色的)续作的PC移植版,看起来也不会让人等太久。"
+        }
+      ]
+    },
+    "games/games-dlss5-amd-rx9070xt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-75-FPS-Cyberpunk-2077-featured.jpg",
+          "cap": "Radeon RX 9070 XT's average 75.19FPS result in Cyberpunk 2077"
+        },
+        {
+          "t": "p",
+          "x": "A developer used a single runtime tool to more than double the RX 9000 series' DLSS 5 performance within days."
+        },
+        {
+          "t": "p",
+          "x": "Unofficial as it is, this implementation now lets unsupported hardware hit 60FPS with DLSS 5. Developer Daniel has been picking up the pace on improving AMD hardware performance lately. Just days ago, running the latest demanding games smoothly with DLSS 5 was nearly impossible — but he pulled it off."
+        },
+        {
+          "t": "p",
+          "x": "Two days ago came news that he had boosted performance by nearly 74% in a single day. That wasn't the end of it. Over the following two days he put out several major updates to the DLSS-NR-on-AMD runtime tool. Alpha 0.4.0 raised performance about 42%, and the following Alpha 0.4.1 was 8% faster than 0.4.0."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-0.4.1.jpg",
+          "cap": "Alpha 0.4.1 release notes: 8% improvement over 0.4.0"
+        },
+        {
+          "t": "p",
+          "x": "A new priority queue mode added another 9% in heavy gameplay sections. Alpha 0.4.2, released yesterday, added 15% over 0.4.1 — an improvement for the Fast mode used by the RX 9000 series. Fast mode is now the default on Radeon RX 9000 GPUs and uses less costly arithmetic operations."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-version.jpg",
+          "cap": "Alpha 0.4.2 release notes: 15% improvement over 0.4.1 in Fast mode"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-0.4.3.jpg",
+          "cap": "Alpha 0.4.3 release notes: 20% improvement over 0.4.2, 75FPS in Cyberpunk at 1080p"
+        },
+        {
+          "t": "p",
+          "x": "According to the developer, even though Fast mode gives the GPU less work to do, the image quality difference from Reference mode is still hard to spot. Radeon RX 7000 still defaults to Reference mode. A few hours ago came another major update, Alpha 0.4.3 — a big one, nearly 20% faster than 0.4.2 in Reference mode and about 18% faster in Fast mode."
+        },
+        {
+          "t": "p",
+          "x": "Across the three most recent releases, Radeon GPU performance improved by 46-49% overall. As a result, the Radeon RX 9070 XT runs Cyberpunk 2077 at 1080p, DLSS 5 Fast mode, at 75FPS — a GPU that used to struggle even at 30FPS. With performance up more than 200% in just days, the latest games with DLSS 5 turned on are now plenty playable on AMD hardware."
+        }
+      ]
+    },
+    "games/games-twitch-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/EDITORIAL-CANVA-39-1024x576.png"
+        },
+        {
+          "t": "p",
+          "x": "越来越多平台开始推行生成式AI披露规定,但Twitch首席执行官丹·克兰西认为,作为直播平台的Twitch没必要急着跟进。这是他在9月17日发表主题演讲的东京电玩展2026现场接受GamesBeat采访时表达的看法。他承认披露规定对其他平台很重要,但表示促成这类规定出现的行为,在Twitch上还远称不上普遍。"
+        },
+        {
+          "t": "p",
+          "x": "「如果出现那种情况,我们当然也会采取类似措施。在YouTube上没办法知道视频是不是AI制作的,所以用户知道内容是否真实很重要。」克兰西说。「如果主播让AI替自己上场变得普遍,以至于大家开始想‘这真的是那个主播本人吗?’,那我们当然得这么做。但目前还没有出现这种情况。」"
+        },
+        {
+          "t": "p",
+          "x": "AI披露政策在过去一年里迅速普及。YouTube、TikTok、Instagram都要求在使用逼真的AI视频或音频时进行标注或披露。Valve要求在Steam上架前披露生成式AI的使用情况,并在2026年1月完善了政策,使其同时适用于游戏内内容和商店页面的宣传素材。直播平台Kick也在2026年3月的社区准则中加入了对AI生成内容的严格披露义务。"
+        },
+        {
+          "t": "p",
+          "x": "克兰西是在德克萨斯大学奥斯汀分校获得人工智能博士学位的AI专家。过去一年里,生成式AI在Twitch上的存在感也不断增强。上个月,创作者们发现一项利用其内容训练亚马逊生成式AI模型的功能默认已被开启同意。"
+        },
+        {
+          "t": "p",
+          "x": "「我们一直都在使用AI。Twitch的基础功能Automod早在2013年就已经使用AI了。我们有责任通过不断改进内容审核与推荐来利用AI让产品变得更好。很多人真正关心的,应该是出现在直播画面里的那种AI。」"
+        },
+        {
+          "t": "p",
+          "x": "他表示,Twitch直播中也会用到生成式AI,但大多数情况下观众很容易分辨出来。他举的例子是知名主播团队「Esfand」的埃斯潘迪亚里。Esfand在部分内容中积极使用了Sora 2制作的视频,让观众制作自己做搞笑事情的视频,再在直播中一起观看并排名。克兰西表示「AI反而提升了社区的创作力」,并称「这是与社区共同创作的成果,绝非任何意义上的替代」。"
+        },
+        {
+          "t": "p",
+          "x": "克兰西明确表示,只要判断有必要,他随时有意愿也有能力推出生成式AI披露政策。但他对提前制定的政策能否真正照顾到直播创作者特有的情况持怀疑态度。「针对假设情境来写政策一直都很难。实际上政策总会出错,因为无论发生什么,都会和我的假设不一样。」"
+        }
+      ]
+    },
+    "games/games-ff7-revelation-pssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
+          "cap": "The best console version of Final Fantasy VII Revelation looks set to be the PS5 Pro edition"
+        },
+        {
+          "t": "p",
+          "x": "If there's one feature that sets the PS5 Pro apart from the base model, it's the PSSR (PlayStation Spectral Super Resolution) upscaler, alongside enhanced ray tracing. It's Sony's machine-learning-based upscaling technology, the main driver pushing the limits of this generation's console games. Thanks to PSSR's improved new version from earlier this year, the PS5 Pro looks set to be the answer for enjoying Final Fantasy VII Revelation at 4K resolution and 60 frames per second."
+        },
+        {
+          "t": "p",
+          "x": "“On PS5 Pro, we've implemented a mode that delivers both 4K visuals and 60FPS gameplay using PlayStation Spectral Super Resolution (PSSR).” That's what series director Naoki Hamaguchi confirmed on X. “For those who want both better visuals and smooth performance, the PS5 Pro will be one of the recommended ways to enjoy REVELATION.”"
+        },
+        {
+          "t": "p",
+          "x": "This kind of enthusiastic talk about a particular game's PS5 Pro version has come up many times over the past few years. In many cases it didn't really hold up, since there was little improvement over the base PS5 version. Still, there's good reason to believe Hamaguchi's words."
+        },
+        {
+          "t": "p",
+          "x": "I played Final Fantasy VII Revelation's open-world demo myself at Gamescom, and it did run on an actual PS5 Pro. I mostly play games on PC, so I rarely find myself impressed by a console version. But I clearly remember being struck by this demo's clean visuals, high resolution and smooth performance. It dipped below 60FPS here and there, but that's understandable with the game still months from release. Overall, the technical polish was impressive."
+        },
+        {
+          "t": "p",
+          "x": "For context, I was playing — and still am — Final Fantasy VII Rebirth on PC with mods like Shader Injector at the time. If there had been a big technical gap, I would have noticed it immediately."
+        },
+        {
+          "t": "p",
+          "x": "With GTA 6 also promising its best experience on this device from launch, the PS5 Pro is becoming an increasingly appealing option for anyone who wants to properly enjoy console gaming. Purely on technical terms, a high-end PC that can run mods is still the best choice. Recent price hikes have raised the barrier compared to launch, but Sony's mid-generation refresh model should keep pulling its weight going forward."
+        }
+      ]
+    },
+    "games/games-meta-horizon-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta unveiled two AI game-making tools at its Connect event: Horizon Create, for mobile, and Horizon Studio, for browsers. Both run on the agentic creation features of the Meta Horizon Engine and share a backend, so assets, systems, and edit history carry over between the two tools."
+        },
+        {
+          "t": "p",
+          "x": "Using them is simple. Describe the game you want in a text prompt, and the Horizon Engine builds a playable game that can be posted directly to Facebook and Instagram. Meta said that “traditional game development requires months of work, expensive equipment, and specialized skills,” and that the two tools make it “easier to turn ideas into playable 2D and 3D games.”"
+        },
+        {
+          "t": "p",
+          "x": "According to MobileGamerBiz, some creators backed by the Meta Horizon Creator Fund are currently testing the app. Early access will roll out in stages, and in-game monetization details will be announced later. Earlier this year, Roblox also added an agentic AI feature to Roblox Studio that turns text prompts into game design documents and then implements and tests them directly."
+        },
+        {
+          "t": "p",
+          "x": "VR glasses were also announced at the event. They are five times lighter than the Meta Quest 3 and feature a micro-OLED-based 5K display. Unity 6.6 supports them via OpenXR from day one, letting existing Quest projects be ported over. They launch in spring 2027 at $1,299.99."
+        }
+      ]
+    },
+    "games/games-secretsauce-labs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "WeAreMighty已停止游戏开发，并改名为Secretsauce Labs。此后将只专注于面向品牌的AI内容技术。其前身是制作了《迪士尼大乱斗》（Disney Melee Mania）和《奶油皇室》（Butter Royal）的Mighty Bear Games，该公司于2026年1月已改名为WeAreMighty。"
+        },
+        {
+          "t": "p",
+          "x": "一切始于游戏制作现场的一个难题。2022年底，首席执行官西蒙·戴维斯（Simon Davis）和联合创始人本（Ben）正在制作一款需要约2500万个符合品牌形象的头像的游戏。靠人工根本做不到，而当时的生成式AI结果也参差不齐。戴维斯回忆说：“同一个角色让它生成两次，脸或衣服就会变样，有时还会多长出一根手指。”此后，团队花了三年时间，打造能让AI产出用于实际制作流程的基础设施。"
+        },
+        {
+          "t": "p",
+          "x": "他认为核心问题是品牌一致性。“很多工具都能让你上传标志、过往素材和风格指南。但还没解决的是，把每一个新生成的结果逐一与这些资料对照，在被人看到之前就揪出不一致之处。”他说，在规模、品牌和成本这三者中，品牌偏差是最难解决的，因为成本是预算问题，而品牌偏差是研究问题。"
+        },
+        {
+          "t": "p",
+          "x": "他也反驳了“AI能省时间”的说法。如果生成10个素材只能用上2个，那就谈不上快。条件合适时，6人的美术团队花三个月做的工作，一个人一天就能完成，但前提是产出能直接拿来用。他还批评生成式AI游戏工具所说的“创意控制”大多只是“表演”。戴维斯说：“难的不是生成，而是记忆和判断”，并表示“我们卖的不是转售推理，而是结果”。"
+        }
+      ]
+    },
+    "games/games-onestore-ai-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ONE Store将其今年8月推出的AI游戏专区“AI Games”向所有开发者开放。开发者中心“ONEconsole”已开始接受基于AI的游戏注册。10月初，该专区将改名为“AI游戏”，并加入App底部菜单。"
+        },
+        {
+          "t": "p",
+          "x": "这一举措旨在为使用生成式AI的个人和小型开发者打通分发渠道并对接用户。即使没有编程经验或专门的开发团队，只要是通过与AI对话制作的游戏就可以注册。在ONEconsole上架产品时标明是AI制作的游戏，即可成为“AI游戏”菜单的推荐对象。ONE Store计划优先向用户展示注册作品中完成度较高的游戏。"
+        },
+        {
+          "t": "p",
+          "x": "首先支持无需安装即可畅玩的网页游戏(HTML5)。接入ONE Store网页游戏SDK后，可通过应用内购买和应用内广告实现盈利。"
+        },
+        {
+          "t": "p",
+          "x": "10月初改版的“AI游戏”菜单将常驻App底部，无论在哪个页面都能一键进入。今年8月起参与内容策划的Buseight的游戏，将与开发者自行上传的作品一同展示。"
+        },
+        {
+          "t": "p",
+          "x": "ONE Store首席执行官张铉国（Chang Hyun-kook）表示：“AI模型的飞速发展正在加速一场范式转变——高质量、有趣的AI游戏正以惊人的速度不断涌现”，并表示“ONE Store将积极拥抱这一变化，成为AI游戏的移动分发平台”。ONE Store计划先在韩国国内提供服务，之后再将AI游戏的提供范围扩大到全球。"
+        }
+      ]
+    },
+    "games/games-hive-axil": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform在日本东京举行的AI游戏开发活动上发布了新一代后端平台“Hive Axyl”。该平台将于9月30日正式上线，负责从游戏后端设置、功能对接到实时运营的全过程。"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Holdings的子公司Com2uS Platform于28日在“Tokyo AI (TAI) | OpenAI: 100-Hour Game Builder Challenge”决赛现场公布了Hive Axyl。该挑战赛由Tokyo AI(TAI)主办、OpenAI支持，参赛团队用OpenAI Codex在100小时内制作了AI原生游戏和游戏制作用AI工具。"
+        },
+        {
+          "t": "p",
+          "x": "在决赛现场发表演讲的Com2uS Japan代表金振龙（Kim Jin-yong）提出了“Build with Codex, Play with Hive”的愿景。他还分享了8月在首尔由Com2uS和OpenAI共同举办的“OpenAI Game Builders Seoul”的经验。现场有Krit Ventures、LY株式会社等韩日IT业界人士出席。"
+        },
+        {
+          "t": "p",
+          "x": "金代表说明，Hive Axyl“让开发者摆脱复杂的后端工作，专注于内容创作”。他还表示，希望当天制作的游戏在上线时能得到Hive Axyl的助力。"
+        },
+        {
+          "t": "p",
+          "x": "面向AI游戏开发打造的Hive Axyl支持Codex插件连接。通过自然语言提示下达指令，即可快速对接后端设置、身份验证、支付、数据分析、实时运营等主要功能。正式上线后，开发者可按照开发者网站的指南安装插件使用。"
+        }
+      ]
+    },
+    "games/games-brood-war-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1150333oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg"
+        },
+        {
+          "t": "p",
+          "x": "43分钟内消耗推理token 11,138个,下达指令6次,战斗单位0个——这是将推理强度调到最高档(xhigh)的Grok 4.6在《星际争霸:母巢之战》中交出的成绩单。排行榜另一端,GPT-6的阿斯特拉18战全胜,胜率100%。这份“母巢之战基准”排行榜最近在Hacker News上引发热议。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_04c9c2d9776e41d0824fdf1a2f2a9b3b@000000_oswg116121oswg1080oswg734_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "母巢之战基准榜前10名。处于最高推理档位的阿斯特拉18战全胜。"
+        },
+        {
+          "t": "p",
+          "x": "开发者本·斯沃德洛最初做了一个由AI代理全权操作的《星际争霸》,拿来和朋友们一起玩。几乎没玩过星际争霸的朋友,只需打出“进攻”一个指令,AI就能自行处理生产、集结和交战,打得不输老玩家。那如果人完全不插手会怎样?GPT、Claude、Grok系列共19个AI玩家聚在一起,总共打了171场比赛。"
+        },
+        {
+          "t": "p",
+          "x": "即时战略游戏不会等模型想完才动。Grok在G043这场比赛里,43分钟只下达了6次指令,平均约7分钟一次;在最高推理档位下战绩是2胜15负,资源富余却始终按兵不动。阿斯特拉则靠骚扰取胜,只派一名工人深入敌阵,就让对手AI陷入长达数十秒的纠结。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_ac8c9901fba24c08af4e8fc3ff047077@5091053_img_gif?x-oss-process=image/quality,q_90",
+          "cap": "阿斯特拉的一名工人和一名狂热者攻破了Grok的主基地。Grok当时没有任何战斗单位,却囤积了928点矿产。"
+        },
+        {
+          "t": "p",
+          "x": "打法最像人类的是Fable。它稳扎稳打地发展经济和科技,以83.3%的胜率排名第三,但在一场比赛中因过度点科技而被Claude Opus 5击溃。成本也值得关注:阿斯特拉在最高档位下每分钟操作12.6次、每场花费10.54美元,在最低档位下每分钟操作25.7次、花费21.07美元——动作更少、花费更少,却赢得最多。"
+        },
+        {
+          "t": "p",
+          "x": "不过斯沃德洛的判断很冷静:即便是不败冠军阿斯特拉,也赢不了人类新手。这与2019年形成对比——当年DeepMind的AlphaStar两度以5比0完胜职业选手TLO和MaNa,还在欧洲天梯上冲到了前0.2%的宗师段位。"
+        }
+      ]
+    }
+  }
+}

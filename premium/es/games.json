@@ -1,0 +1,1047 @@
+{
+  "cards": {
+    "games/games-ryzachat-input-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260806-458678-header.webp"
+        },
+        {
+          "t": "p",
+          "x": "Spiral AI, desarrolladora del RPG de chat 'RyzaChat:AI' basado en Atelier Ryza, anunció que restringirá la entrada de los usuarios en la actualización del modelo de IA de octubre. La medida responde a la preocupación de que el abuso de algunos jugadores pudiera dañar la reputación de la serie Atelier y de sus personajes."
+        },
+        {
+          "t": "p",
+          "x": "Spiral AI volvió a publicar sus términos de servicio y dijo que no toleraría actos que “menosprecien la obra original o dañen su integridad”. Esto incluye intentos de hacer que la IA de personaje de Ryza diga cosas contrarias al orden público y las buenas costumbres, así como capturas de pantalla manipuladas o falsificadas que distorsionan el contenido del juego."
+        },
+        {
+          "t": "p",
+          "x": "El juego ya cuenta con un sistema de vigilancia de tres etapas. La entrada llega primero a una IA maestra de juego, que descompone el contenido y filtra palabras inapropiadas antes de pasarlo a la IA de personaje. La IA de personaje de Ryza está diseñada para no responder a temas ajenos al personaje o al escenario del juego, y borra de inmediato cualquier expresión inapropiada en una respuesta generada. El contenido inapropiado tampoco se guarda en la memoria de la IA de personaje."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, los usuarios lograron eludir los filtros con métodos como la inyección de prompts. A partir de la actualización de octubre se restringirá lo que se puede escribir al hablar con Ryza. La compañía planea seguir observando la situación mientras evalúa medidas adicionales, como un límite de caracteres."
+        },
+        {
+          "t": "p",
+          "x": "Spiral AI ha comenzado a enviar solicitudes de eliminación y denuncias a cada plataforma por las capturas de pantalla manipuladas que distorsionan el juego. Dado el peso que da a la integridad de los personajes, es probable que la misma restricción se extienda a la próxima 'SophieChat: AI', protagonizada por Sophie Neuenmuller, la protagonista de Atelier Sophie. RyzaChat:AI está disponible en iOS y Android."
+        }
+      ]
+    },
+    "games/games-tsuda-voice-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tsuda Kenjiro, un veterano actor de voz conocido por papeles en animes populares como Jujutsu Kaisen y Chainsaw Man, perdió una demanda contra TikTok. La demanda pedía eliminar videos que usaban IA generativa para imitar su voz. Según un informe de Nikkei, el Tribunal de Distrito de Tokio desestimó la demanda el 30 de septiembre porque los videos ya habían sido eliminados de la plataforma. Aun así, el fallo sentó un precedente importante sobre cómo Japón protegerá legalmente la voz de actores de voz y famosos."
+        },
+        {
+          "t": "p",
+          "x": "Presentada en noviembre de 2025 y conocida públicamente en mayo de este año, la demanda pedía la eliminación inmediata de unos 180 videos de una cuenta personal anónima con más de 210.000 seguidores. Los videos narraban historias de curiosidades o leyendas urbanas con una narración de IA muy similar a la voz de Tsuda, y generaban entre unos 3.000 y 4.700 dólares al mes."
+        },
+        {
+          "t": "p",
+          "x": "La parte de Tsuda argumentó que los videos hacían que los espectadores confundieran la voz de la IA con la suya, y alegó una violación de la Ley de Prevención de la Competencia Desleal de Japón y una infracción del derecho de imagen (el derecho que protege el valor comercial de la identidad de una persona famosa)."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/09/20260930-73150-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "TikTok respondió que la narración era una “voz masculina común” y que quien subió los videos había usado “una IA entrenada con la voz de un amigo” obtenida en un sitio externo. Sostuvo que no había ninguna violación de la ley ni infracción de los derechos de Tsuda. La cuenta ya había sido eliminada en mayo y no quedaban datos en los servidores de TikTok. La defensa pidió la desestimación, alegando que no había interés legal en continuar con la demanda."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal desestimó la demanda porque los videos habían sido eliminados. Aun así, declaró en el fallo que la voz de una persona está protegida por el derecho de imagen, y los medios japoneses lo consideran un nuevo precedente."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años se han repetido los casos de uso no autorizado de voces e imágenes de famosos mediante IA generativa, pero Japón no tiene una ley que proteja directamente los derechos de voz. A medida que el problema crecía, los grupos de actores de voz y otros han exigido con fuerza una reforma legal. El Ministerio de Justicia y el Ministerio de Economía, Comercio e Industria publicaron un borrador de directrices según el cual la voz, igual que la imagen, podría protegerse mediante el derecho de imagen y la ley de competencia desleal, pero hasta ahora ningún fallo había reconocido una infracción de los derechos de voz, lo que da peso a esta sentencia."
+        }
+      ]
+    },
+    "games/games-borderless-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-HD-1920x1080.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Durante la última semana, la app de Steam Borderless Gaming añadió dos funciones: generación de fotogramas y renderizado neuronal DLSS 5. Según el desarrollador Andrew Sampson (creador de la tecnología de streaming Rainway), la generación de fotogramas es una implementación genérica entrenada con “decenas de miles de horas de partidas”, por lo que no necesita tocar el juego. El efecto DLSS 5 también usa el modo BGFX introducido a comienzos de este año, que captura la ventana del juego en la etapa del compositor y la procesa mediante una canalización de efectos de GPU."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de las herramientas de inyección existentes, no hace falta cambiar las DLL del juego, modificar archivos ni buscar mods específicos para cada juego. Basta instalar el efecto, elegir un preset y aplicarlo al juego en ejecución. Esto es posible porque nunca llama al software de NVIDIA. Sampson explicó que cuantizó el modelo y rediseñó su estructura de ejecución, eliminando cuellos de botella internos de la red neuronal, para que funcione en una gama de GPU mucho más amplia que las últimas GeForce RTX. NVIDIA solo admite oficialmente la serie RTX 50, pero esta versión puede rondar los 30FPS en una RTX 3090 según el juego y la configuración."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Borderless-Gaming-DLSS-5-Comparison-scaled.jpg",
+          "cap": "Comparación del efecto DLSS 5 de Borderless Gaming"
+        },
+        {
+          "t": "p",
+          "x": "Sampson dejó claro que el efecto DLSS 5 no viene incluido en la actualización y que no se activa por defecto ni se ejecuta en segundo plano. El efecto es un único archivo de shader alojado en GitHub, y esta actualización añadió la posibilidad de pegar la URL de un repositorio para instalar efectos y presets. Una vez instalado, se pueden ajustar la intensidad, la iluminación, la estructura, el estilo y la resolución de procesamiento."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech señaló que, dado que se modificó el propio modelo y procesa una imagen capturada en la etapa del compositor, sería más exacto llamarlo un “derivado de DLSS 5” que el propio renderizado neuronal guiado en 3D de NVIDIA. Aun así, observó que, en medio de la polémica, los intentos continuos de incorporar esta tecnología a juegos y a otras herramientas fuera de los juegos muestran el atractivo de DLSS 5."
+        }
+      ]
+    },
+    "games/games-logitech-replay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UfHwHWLHYecS3jxR7kvSH9.jpg",
+          "cap": "Pantalla de Logitech G Hub Replay"
+        },
+        {
+          "t": "p",
+          "x": "Jacob, de PC Gamer, vio por primera vez el nuevo software de Logitech, Replay, la semana pasada en Varsovia. Por ahora está en beta. Si grabas tus partidas, usa aprendizaje profundo para encontrar las buenas jugadas y las une en un solo video. La demostración se veía convincente, pero al probarlo él mismo en Counter-Strike 2, vio que todavía le queda camino por recorrer."
+        },
+        {
+          "t": "p",
+          "x": "Tras grabar una partida de deathmatch de CS2 y la mitad de una partida casual, el resultado no tenía ninguna jugada destacada. Entraron algunas bajas, pero ninguna impresionante. En el deathmatch en particular, solo se eligieron un par de clips, mientras que momentos posteriores como una baja con deagle, un quickscope de Scout y un flick no-scope quedaron fuera. Por eso grabó por separado una partida de deathmatch para comparar de nuevo las jugadas elegidas por la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/dbGNp497xsyrfyASYHtsH9.jpg",
+          "cap": "Pantalla de edición de clips de Replay"
+        },
+        {
+          "t": "p",
+          "x": "Por suerte, se pueden elegir y corregir las escenas directamente desde la grabación completa. Dedicar unos cinco minutos a editar la grabación de la misma partida dio como resultado un video mucho mejor. Esto es apenas el resultado de probar un solo juego de CS2, y no muy a fondo. Logitech indica actualmente 44 juegos compatibles, y el software se puede descargar y probar gratis."
+        },
+        {
+          "t": "p",
+          "x": "Si se deja de lado la función clave de selección de clips por IA, el software en sí es bastante bueno. Al iniciar un juego, empieza a grabar automáticamente junto con una pequeña ventana emergente, y al cerrar el juego se puede editar libremente agregando y quitando clips. También se puede fijar un límite de almacenamiento, y al alcanzarlo se borran primero las grabaciones más antiguas. No notó caída de rendimiento mientras grababa, pero esto se probó en un PC de alta gama, así que los resultados pueden variar según el equipo."
+        }
+      ]
+    },
+    "games/games-nis-ai-quality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-shot.jpg",
+          "cap": "Imagen cortesía de Nippon Ichi Software. © Nippon Ichi Software"
+        },
+        {
+          "t": "p",
+          "x": "Cada vez más empresas admiten abiertamente que una parte considerable de un juego fue hecha con IA. Aun así, algunas siguen siendo cautelosas. Nippon Ichi Software, que crea Disgaea y publica las series Trails e Ys, parece ser una de ellas."
+        },
+        {
+          "t": "p",
+          "x": "Kotaku se reunió hace unas semanas con Kenzo Saruhashi, CEO de Nippon Ichi y presidente de NIS America, en el PAX West. La conversación comenzó con preguntas sobre traducción y localización de videojuegos antes de pasar a la IA. Saruhashi, que además de CEO de Nippon Ichi asumió recientemente la presidencia de NIS America, busca entre otras cosas unir más estrechamente a ambas organizaciones y lanzar más juegos en mercados occidentales. El objetivo es abandonar la práctica de sacar la versión occidental meses después del lanzamiento en Japón y aumentar los lanzamientos simultáneos a nivel mundial. Para ello hace falta primero reforzar la capacidad interna de localización."
+        },
+        {
+          "t": "p",
+          "x": "Dado el ambiente actual, sería comprensible querer usar IA generativa para este trabajo, y no pocas empresas hablan en voz alta sobre ello. Pero el uso de IA ha sido sumamente impopular, al menos en animación, y los resultados han sido a menudo un desastre. Por eso Kotaku preguntó si Nippon Ichi está usando IA en localización ahora mismo. Esta fue la respuesta."
+        },
+        {
+          "t": "p",
+          "x": "“Ahora mismo no la estamos usando de forma particular. Pero sí la estamos investigando, porque sabemos que muchas empresas utilizan IA en estos días. Eso no significa que pensemos entregarle a la IA toda la responsabilidad de la localización; buscamos asegurar la calidad. Si llegamos a usarla, queremos confirmar que la calidad también se pueda mantener. Por eso ahora estamos en una etapa de investigación para ver si eso es posible. Personalmente, no creo que usar IA haga el trabajo necesariamente más rápido.”"
+        },
+        {
+          "t": "p",
+          "x": "Volvimos a preguntar si este criterio se aplica a todo el negocio. La respuesta fue que, en general, sí."
+        },
+        {
+          "t": "p",
+          "x": "“Antes que nada, sentimos claramente que toda la industria creativa percibe cierta presión por parte de la IA. Una conclusión que escucho a menudo al hablar de esto con otros desarrolladores es que, al final, el objetivo es hacer juegos de buena calidad para los fans. En medio de eso, no podemos ignorar la IA por completo. Así que, como posibilidad futura, al menos deberíamos investigarla, y estoy de acuerdo con esa idea. Si se aplica la IA, la mejor manera es que realmente eleve la calidad del juego. No lo estamos viendo solo desde el punto de vista de la eficiencia; no creo que esa sea la dirección correcta. Hay que verlo como: ¿eleva la calidad del resultado final?”"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku añadió una salvedad: en varias empresas, 'estar investigando' ha sido el primer paso hacia la producción plena de contenido con IA, algo especialmente cierto en los estudios japoneses. El caso del uso de IA en Level-5 también sigue fresco. Así que conviene escuchar esta declaración también con cierto escepticismo. Aun así, el periodista añadió que por ahora parece seguro disfrutar de Village in the Shade sin preocupaciones."
+        }
+      ]
+    },
+    "games/games-dlss5-melee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-DLSS-5-Super-Smash-Bros-Melee.jpg",
+          "cap": "El clásico 'Super Smash Bros. Melee' ahora cuenta con NVIDIA DLSS 5. El resultado es, sin duda, interesante."
+        },
+        {
+          "t": "p",
+          "x": "Desde que el renderizado neuronal DLSS 5 de NVIDIA salió a comienzos de este mes, los usuarios lo han probado en todo tipo de juegos, con resultados dispares. El renderizado neuronal funciona mejor con estilos artísticos realistas. Hubo casos en los que juegos antiguos, como 'Dark Souls III' de From Software, obtuvieron visuales de nivel remake. Pero a veces también funciona sorprendentemente bien en juegos antiguos con un estilo gráfico distinto. Ese fue el caso del clásico de GameCube de Nintendo, 'Super Smash Bros. Melee'."
+        },
+        {
+          "t": "p",
+          "x": "El renderizado neuronal DLSS 5 se añadió recientemente a la versión 0.6.61 de 'Melee Unlocked'. Es un port nativo gratuito para Windows de Melee, que recompila estáticamente el código de PowerPC a C++ y lo ejecuta en un renderizador D3D12 nativo. La implementación es bastante sólida. Aunque es una build experimental, permite ajustar la intensidad, el detalle de superficie, la iluminación y el tono directamente dentro del juego."
+        },
+        {
+          "t": "video",
+          "yt": "qZXsNr7HmAo"
+        },
+        {
+          "t": "p",
+          "x": "Tras el lanzamiento de la última versión, el desarrollador Hero88go publicó un video en YouTube que muestra cómo funciona esta implementación de renderizado neuronal DLSS 5. Sinceramente, las expectativas no eran altas, porque en su estado actual esta tecnología no parecía adaptarse bien a visuales estilizados. El video mostró que, en realidad, podría ajustarse bastante bien."
+        },
+        {
+          "t": "p",
+          "x": "Al activar DLSS 5, la imagen se oscurece bastante y los colores pierden intensidad. También se nota el ruido. Aun así, los modelos de los personajes y los escenarios se ven en general bien, y ajustando los valores correctamente podría mejorar más. Es poco probable que alguien juegue Melee así, pero como experimento sigue siendo interesante."
+        },
+        {
+          "t": "p",
+          "x": "Más allá del soporte experimental de renderizado neuronal DLSS 5, el port no oficial para PC Melee Unlocked tiene algunas funciones avanzadas más. Por eso es una buena forma de disfrutar un juego que sigue considerado el mejor de la serie de luchadores de plataformas de Nintendo."
+        },
+        {
+          "t": "p",
+          "x": "Un ejemplo destacado es la eliminación del límite de fotogramas. La lógica del juego se mantiene en 60Hz como siempre, y los fotogramas intermedios no se crean por interpolación de imagen, sino con los propios datos de animación y física del juego. Por eso no se añade latencia. También incluye multijugador en línea con rollback, compatible con Slippi Netplay. Además hay DLSS/DLAA, generación de fotogramas, Reflex, paquetes de texturas HD, y soporte nativo para mandos de GameCube, DualSense, Switch Pro y Xbox."
+        },
+        {
+          "t": "p",
+          "x": "Melee Unlocked se puede descargar desde GitHub. Para evitar problemas legales no incluye ningún dato del juego, así que para jugar se necesita una ISO de Melee NTSC 1.02 obtenida por cuenta propia."
+        }
+      ]
+    },
+    "games/games-rgg-tupac-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/09/Tupac-2.jpg",
+          "cap": "El aspecto de Tupac Shakur se usó para un personaje llamado Amaru."
+        },
+        {
+          "t": "p",
+          "x": "Stranger Than Heaven, de RGG Studio, hace honor a su nombre. La decisión de revivir como personaje al fallecido rapero Tupac Shakur fue recibida con extrañeza cuando se anunció por primera vez en el Summer Game Fest."
+        },
+        {
+          "t": "p",
+          "x": "En esta actualización, RGG Studio reveló más detalles sobre el reparto, junto con una breve explicación de cómo recrearon a Shakur. El método fue la investigación tradicional. El punto clave es que el estudio detrás de Yakuza y Like a Dragon afirmó con claridad que no usó tecnología de IA, evitando así que el reparto se convirtiera en una controversia mayor."
+        },
+        {
+          "t": "p",
+          "x": "“RGG Studio está tratando este trabajo con el máximo respeto por su legado, y cada elemento, incluido el diseño del personaje basado en material de archivo y fotografías, se está creando mediante una colaboración estrecha, sin IA”, señaló el estudio en su explicación. Más detalles sobre Amaru, el personaje que lleva el aspecto de Shakur, se revelarán más adelante."
+        },
+        {
+          "t": "p",
+          "x": "Según Masayoshi Yokoyama, responsable de RGG Studio, fue el propio Snoop Dogg quien propuso a Tupac para este papel. Snoop Dogg también aparece en Stranger Than Heaven. Según la descripción oficial del personaje, interpreta a Orfeo, un comerciante que viaja por el mundo y mantiene una “mente abierta” sobre la legalidad de lo que vende. En el juego, Orfeo descubre que el protagonista Daito se ha escondido en su barco y le enseña la dura vida que le espera en el camino hacia Japón en 1915."
+        },
+        {
+          "t": "p",
+          "x": "El resto del reparto también se reunió de distintas partes del mundo. Los músicos Tori Kelly y Satoshi Fujihara, el actor de Shogun Tokuma Nishioka y el reconocido actor de voz Akio Otsuka figuran en la lista. Los conoceremos a todos a lo largo de una historia que abarca 50 años."
+        },
+        {
+          "t": "p",
+          "x": "Tupac Shakur no es el único rostro famoso usado en un videojuego. Onimusha: Way of the Sword, de Capcom, tomó el aspecto y los movimientos del fallecido actor Toshiro Mifune. Como explicó Yokoyama, esto se ha vuelto común en Japón y por lo general no genera críticas. Así lo dijo a GameSpot a principios de este año: “En Japón la gente no es tan sensible con este tema. Ha sido prácticamente parte de la cultura de los videojuegos japoneses durante más de 20 años. Muchas personas han creado personajes basados en actores, vivos o fallecidos.”"
+        },
+        {
+          "t": "p",
+          "x": "Stranger Than Heaven se lanza el 15 de enero de 2027 para PC, Xbox Series X|S y PS5. También estará disponible en Xbox Game Pass desde el primer día."
+        }
+      ]
+    },
+    "games/games-gamescom-3d-tech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/50284/images/6aae39efbbe19/contain_1200x630.jpg",
+          "cap": "Un resumen del arte y la tecnología 3D en la Gamescom 2026. Fuente de la imagen: 80 Level"
+        },
+        {
+          "t": "p",
+          "x": "La Gamescom suele recordarse por sus trailers y demos jugables, pero también es un lugar donde se reúne gran cantidad de tecnología que cambia la forma de hacer videojuegos. Las tendencias 3D más destacadas este año fueron un ray tracing más práctico, una geometría en tiempo real más densa, motores propios cada vez más especializados y herramientas que acortan la distancia entre una idea y un asset utilizable."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia presentó un modelo transformer de segunda generación para DLSS 4.5 Ray Reconstruction. Según la compañía, el nuevo modelo tiene un 35% más de capacidad de cómputo y un 20% más de parámetros. Mejora el detalle y la estabilidad temporal en juegos con ray tracing y path tracing sin afectar demasiado el rendimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/4d/images/6aae39e2f0296/widen_1840x0.jpg",
+          "cap": "Gears of War: E-Day"
+        },
+        {
+          "t": "p",
+          "x": "Esto importa especialmente cuando la pantalla está en movimiento, ya que una muestra insuficiente de rayos provoca estelas, manchas y temblores en las superficies. Ray Reconstruction todavía no es una solución que elimine por completo las concesiones del path tracing en tiempo real. Pero esta actualización muestra con claridad lo rápido que el renderizado neuronal se está convirtiendo en una pieza básica del pipeline gráfico moderno."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia también presentó RTX Mega Geometry a través de Gears of War: E-Day, una tecnología que hace más viable usar ray tracing en escenas con una cantidad enorme de geometría detallada. Permite mover juntos, de forma más eficiente, assets densos, destrucción dinámica e iluminación sofisticada. Desde el punto de vista de un artista, eso significa que sobrevive más detalle del asset original hasta llegar a la escena jugable."
+        },
+        {
+          "t": "p",
+          "x": "En el lado de producción de assets del pipeline, Tripo AI dio un paso adelante. Demostró que las herramientas de 3D generativo están pasando de producir modelos individuales a sostener un flujo de trabajo más amplio. El alcance que la empresa cubre actualmente va desde la generación y optimización de assets hasta la colaboración en equipo, la automatización del pipeline y la exportación del trabajo a motores como Unity."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b6/images/6ab4eab8dfd58/contain_1240x826.jpeg",
+          "cap": "Fuente de la imagen: Tripo AI / 80 Level"
+        },
+        {
+          "t": "p",
+          "x": "El último modelo de base nativo en 3D, Tripo P2.0, genera mallas cuádricas nativas. Se mostró como vista previa en la Gamescom y luego se lanzó por completo, con algunas funciones adicionales que vale la pena mencionar. Puede generar hasta cuatro variaciones de un asset a partir de un solo concepto, para que artistas y desarrolladores elijan antes de invertir más tiempo de producción. Una nueva herramienta de edición de mallas regenera solo una parte específica del modelo, sin necesidad de rehacer todo el asset desde cero. Al usar una entrada de referencia multivista, el asset se construye a partir de imágenes frontales, posteriores y laterales en lugar de un solo ángulo."
+        },
+        {
+          "t": "p",
+          "x": "Un flujo de trabajo que combina Tripo con Astra de OpenAI también generó una fuerte reacción. Según una publicación reciente de Tripo, se completó un juego 3D jugable en unas cuatro horas usando assets hechos con Tripo y menos de 5.000 líneas de código."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b5/images/6aae3950979ef/widen_1840x0.jpeg",
+          "cap": "4A Games"
+        },
+        {
+          "t": "p",
+          "x": "También hubo noticias destacadas en el desarrollo de motores. Creative Assembly explicó que su nuevo motor War Core permite que Total War: Warhammer 40,000 se amplíe a la escala de planetas y sistemas estelares, mejorando el renderizado, la manipulación de assets, la modularización de animaciones, la destrucción, las explosiones y el manejo de la enorme cantidad de proyectiles que exige este universo. Crystal Dynamics dijo que, al no quedar nada del código fuente original, tuvo que reconstruir Tomb Raider: Legacy of Atlantis desde cero en Unreal Engine 5, sumando tecnología propia de física y animación sobre Nanite y Lumen."
+        },
+        {
+          "t": "p",
+          "x": "Las noticias de juegos en sí fueron abundantes, pero los aspectos técnicos destacados fueron más acotados. Metro 2039 se llevó el premio al mejor apartado visual como la última evolución del motor 4A, Control Resonant mostró el renderizado Northlight y los sistemas de destrucción de Remedy, y Gears of War: E-Day se convirtió en el caso práctico de Mega Geometry."
+        }
+      ]
+    },
+    "games/games-warhorse-15th-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hvSJcRbsGwZTVCu9B4wQzU-1920-80.jpg",
+          "cap": "Warhorse Studios celebra su 15.º aniversario. Crédito de imagen: PC Gamer"
+        },
+        {
+          "t": "p",
+          "x": "Martin Klíma es un iconoclasta. Como cofundador de Warhorse Studios, fue responsable de Kingdom Come: Deliverance 2, uno de los RPG más densos, peculiares y sobresalientes de la última década, un juego que ningún otro estudio habría hecho. Antiguo activista estudiantil del viejo bloque del Este, es la única persona en la industria que puede decir que ayudó a derribar un gobierno."
+        },
+        {
+          "t": "p",
+          "x": "Su historia empieza antes de los videojuegos. Aprendió inglés porque quería leer El señor de los anillos en su idioma original, y trató de traducir, para publicación clandestina, un set básico de D&D llegado de Occidente. El 17 de noviembre de 1989 habló en una protesta en representación del grupo estudiantil STUHA. Los choques con la policía dejaron a la gente muy golpeada, y eso radicalizó a los estudiantes y a todo el país. Una semana después llegó la huelga general, y a finales de diciembre Václav Havel se convirtió en presidente de Checoslovaquia. Fue la Revolución de Terciopelo."
+        },
+        {
+          "t": "p",
+          "x": "Con la llegada del capitalismo, su afición por la SF y los videojuegos se convirtió en trabajo. TSR nunca respondió, así que creó sus propias clases, razas y sistema de combate sobre la traducción que ya había hecho. No había forma de fabricar un dado de 20 caras, así que solo usó dados de 6 y de 10. El resultado, Dračí Doupě, fue un gran éxito."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2faH65jEF3CoDaP2jCwgqc.jpg",
+          "cap": "Warhorse está desarrollando a la vez un nuevo Kingdom Come y un juego de El señor de los anillos. Crédito de imagen: Warhorse / Wizards of the Coast"
+        },
+        {
+          "t": "p",
+          "x": "Warhorse se fundó en 2011. Kingdom Come pasó por más de 50 editoras en tres continentes y a nadie le interesó. Terminó en Kickstarter, donde se sumaron 35.384 mecenas. Klíma lo atribuye a la idea de un “RPG para adultos”: él mismo estaba cansado de los RPG en los que “tú eres el elegido”. Ahora Warhorse ha dividido su equipo en dos proyectos: un juego de El señor de los anillos y un nuevo Kingdom Come."
+        },
+        {
+          "t": "p",
+          "x": "La industria en su conjunto vive su momento más oscuro en décadas. Los despidos y las cancelaciones vergonzosas no cesan. El diagnóstico de Klíma es uno solo: el crecimiento del mercado de los videojuegos ha tocado un techo que no puede superar, mientras la tecnología sigue exigiendo más gente para metas cada vez más vistosas y ambiciosas. Sumar más gente encarece los juegos, y si son más caros hay que vender más para que el negocio funcione."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9SieU3JpSSPX34eMduXqsW.jpg",
+          "cap": "Klíma cree que GTA 6 podría abrir la puerta a precios más altos. Crédito de imagen: Rockstar Games"
+        },
+        {
+          "t": "p",
+          "x": "Hacer crecer el mercado es el camino más fácil, pero tocó techo hace mucho. Eliminar a los intermediarios de la distribución también ya se hizo. “Destruimos el negocio minorista y nos llevamos todo su dinero”, bromea Klíma. Lo que queda es subir el precio de cada copia, y todo el mundo le tiene miedo a eso. “Ojalá GTA abra ese camino, pero parece que ya agotamos las opciones”, dice. El otro camino que ve es trasladar el desarrollo a países más baratos: Europa central y del este, China, India, Asia oriental. No es malo para Warhorse, que está en Chequia, pero es un panorama sombrío para el desarrollo en Norteamérica y Europa occidental."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XXCgJuUTiiPoGyavAJqSBg.jpg",
+          "cap": "Crédito de imagen: Deep Silver"
+        },
+        {
+          "t": "p",
+          "x": "La solución que celebran muchos directivos es, por supuesto, la IA. Según Klíma, tienen un “modelo mental simplificado” de cómo incorporar la IA, y ese modelo no funciona bien en la realidad. El modelo, tal como lo cuenta PC Gamer, es así: si la IA es un multiplicador de productividad de 5x, un equipo de 200 personas podría reducirse a 40. Incluso si cada desarrollador tiene una IA y esa IA cuesta lo mismo que un desarrollador, la cuenta dice que el trabajo de 200 personas podría hacerse con el salario de 80."
+        },
+        {
+          "t": "p",
+          "x": "Dejando de lado la calidad de lo que produce la IA, Klíma no cree que funcione así. Si 200 personas usan una IA mágica para multiplicar su producción por 5, los jugadores empezarán a querer el juego que haría un equipo de 1.000 personas. “La IA no es una carta para salir de la cárcel gratis. No va a reducir el costo de los juegos. En cambio, permitirá hacer juegos más grandes por el mismo costo.”"
+        },
+        {
+          "t": "p",
+          "x": "El periodista escribe que es bastante escéptico al respecto. Aun así, está claro que Klíma y Warhorse llevan mucho tiempo pensando en esta pregunta. Al preguntarle si el efecto amplificador de la IA que describió tendrá un papel en el próximo juego de Warhorse, Klíma, que no había dudado en toda la larga conversación, se contuvo por primera vez. “Eso no puedo decirlo.” Ya sea en la Tierra Media o en Bohemia, eso se sabrá en la próxima visita."
+        }
+      ]
+    },
+    "games/games-meshy-mora-71-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La plataforma de generación 3D con IA Meshy ha presentado en detalle 'Mora' (Multimodal Open-world Real-time Architecture). La idea es generar un mundo completo en el que las personas puedan recorrer, jugar e interactuar en tiempo real. La demo inicial, Mora 1, está disponible para cualquiera en mora.fun. Incluye puzles espaciales, plataformas multijugador, construcción, carreras y deportes, y también permite cambiar el estilo visual."
+        },
+        {
+          "t": "p",
+          "x": "La industria ha optado en general por hacer que un único modelo de video simule el mundo entero de principio a fin. Pero este enfoque sigue teniendo dificultades para mantener el espacio coherente y sostener interacciones complejas. La idea de Mora es distinta: el mundo debe construirse primero y renderizarse después."
+        },
+        {
+          "t": "p",
+          "x": "Por eso dividieron el trabajo en capas. Un agente de código escribe la lógica y la mecánica que hacen funcionar el mundo, mientras que la generación 3D de Meshy crea la estructura espacial y los activos. Un modelo de video en tiempo real aplica la imagen y el sonido finales. Las reglas del juego se mantienen y el espacio permanece, y la calidad de imagen mejora a medida que el modelo de video avanza de generación en generación. Como cada capa evoluciona por separado, cualquier avance en el agente de código, la generación 3D o el modelo de video se acumula dentro de Mora."
+        },
+        {
+          "t": "p",
+          "x": "Mora 1 es una demo de investigación temprana para validar esta arquitectura. Una herramienta de creación de mundos de uso general queda como un objetivo más lejano, y Mora 2 está en desarrollo."
+        },
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS1992445/20260921044342EDT_image_1.jpg?id=OA2959914",
+          "cap": "Resultado de Meshy 7.1 generado a partir de una sola imagen, comparando lado a lado las salidas Standard, Ultra 2K y Ultra 4K."
+        },
+        {
+          "t": "p",
+          "x": "El 16 de septiembre, Meshy también lanzó Meshy 7.1, una nueva versión de su modelo principal de imagen a 3D. Está disponible para todos los usuarios registrados e incorpora nuevos modos de alto detalle, 'Ultra 2K' y 'Ultra 4K'."
+        },
+        {
+          "t": "p",
+          "x": "En Ultra 4K, la geometría se genera con una resolución de vóxeles de 4096³. La malla original antes de simplificar llega hasta 80 millones de triángulos. Meshy afirmó que es el primer modelo 3D generativo en alcanzar una resolución de 4096³. Detalles como costuras, tejidos de tela e incluso escamas individuales se construyen como geometría de malla en lugar de texturas, lo que resulta útil para impresión 3D o escultura digital."
+        },
+        {
+          "t": "p",
+          "x": "En una evaluación interna del nuevo 'Benchmark de Riqueza de Detalle' de la compañía, Meshy 7.1 ocupó el primer lugar entre cinco modelos de imagen a 3D en las tres resoluciones de renderizado evaluadas. Los modos Ultra y la descarga del modelo 7.1 requieren una suscripción de pago. Ultra 2K admite generación de vista única y múltiple, mientras que Ultra 4K actualmente solo admite vista única."
+        }
+      ]
+    },
+    "games/games-pixverse-r2-world-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La generación de video con IA habitual es un proceso de una sola vez. Recibe un prompt, produce un clip de duración fija y se detiene. Para corregir algo, hay que empezar de nuevo con un nuevo prompt. Los modelos de mundo en tiempo real son distintos. En lugar de un clip, generan un mundo que sigue funcionando mientras el usuario permanece en él, y las entradas que llegan durante la generación cambian la siguiente escena."
+        },
+        {
+          "t": "p",
+          "x": "PixVerse lanzó su primer modelo de mundo en tiempo real, R1, en enero de 2026. R2 es su actualización. Mantiene la coherencia en sesiones mucho más largas, recuerda y continúa lo ocurrido dentro de una sesión, y acepta controles de texto, referencia, audio y acción dentro del mismo mundo."
+        },
+        {
+          "t": "p",
+          "x": "La clave es que la entrada persiste. Antes, una entrada solo afectaba ese instante y luego desaparecía. En R2, un prompt, una acción o una señal de audio cambian el propio estado del mundo, determinando cómo se comportarán los personajes más adelante y cómo se resolverán las situaciones."
+        },
+        {
+          "t": "video",
+          "src": "https://media.pixverse.ai/asset/media/pixverse-introduces-r2-real-time-world-model-highlight-remix.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores se mueven por el mundo usando las teclas WASD para controlar al personaje y las flechas para controlar la cámara. También pueden añadir elementos o cambiar el entorno con prompts mientras se desplazan."
+        },
+        {
+          "t": "p",
+          "x": "En 'Zero Mark', un juego cinematográfico interactivo que el creador Xiaolongbao hizo con R2, un monstruo bloquea el camino y exige un regalo. Darle un dragón o una hoja provoca reacciones completamente distintas, y el modelo genera el resultado en el momento."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-zero-mark.png?x-oss-process=style/cover-webp-large",
+          "cap": "La misma escena de 'Zero Mark' se bifurca en dos según se le dé un dragón o una hoja."
+        },
+        {
+          "t": "p",
+          "x": "Velocidad y rendimiento suelen limitarse entre sí. En lugar de elegir uno, R2 divide el trabajo en dos etapas. 'Omni Causal AR' amplía el rendimiento como una base que aprende de forma continua, mientras una capa de aceleración en tiempo real comprime ese mismo modelo para ejecutarlo en tiempo real."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pixverse.ai/asset/blog/pixverse-introduces-r2-real-time-world-model-scaling-architecture-v2.png?x-oss-process=style/cover-webp-large",
+          "cap": "La arquitectura de R2 sustituye una canalización de entrenamiento que perdía calidad en varias etapas por un único modelo de aprendizaje continuo más compresión en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "El cofundador y CEO Changhu Wang dijo que “los grandes modelos de lenguaje demostraron que escalar es un camino fiable hacia el rendimiento”, y añadió que R2 es prueba de que los modelos de mundo en tiempo real pueden seguir ese mismo camino. El PixVerse Game Engine, presentado por primera vez en julio, ahora funciona sobre R2, y los mundos creados por los creadores pueden explorarse en world.pixverse.video."
+        }
+      ]
+    },
+    "games/games-everboard-evervibe-console": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Basta con darle a la nueva tablet de 21.5 pulgadas de Everboard tres palabras, como “gato haciendo malabares con sushi”, para obtener un nuevo juego listo para jugar. El 'EverVibe Game Creator', basado en IA generativa, crea juegos que se sitúan entre el juego de mesa y el juego móvil."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/5c203b6d-850f-46ee-9e9f-da876d2bf687.png"
+        },
+        {
+          "t": "p",
+          "x": "Everboard se presentó el jueves por la mañana como una mesa de juego digital de $499.99, que se venderá en exclusiva en Best Buy a finales de este año. El dispositivo es una pantalla táctil de 21.5 pulgadas y 1080p pensada para colocarse en el centro de una mesa. Admite toque de 10 puntos para hasta seis personas desde cuatro direcciones, y tiene batería integrada para poder llevarla de un lugar a otro."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores pueden decir o escribir el juego que quieren, o elegir tema, reglas, controles y estilo visual desde un menú. EverVibe hace algunas preguntas sobre cuántas personas juegan, dónde se sientan, si se necesita un oponente controlado por la computadora y cómo deben funcionar los controles. La empresa explica que se pueden cambiar las reglas, la estructura de turnos, la puntuación y las condiciones de victoria, además del tablero, los personajes, el arte, el sonido y la música."
+        },
+        {
+          "t": "p",
+          "x": "Los juegos creados se pulen con frases sencillas como “más rápido” o “añade una mejora”. Cada edición se guarda como una nueva versión, así que si la IA se desvía, basta con volver a una versión anterior. También incluye cuatro láminas de privacidad para ocultar las cartas de un jugador en la pantalla compartida."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bestbuybanner-tablet-1920x1080.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El modelo de IA proviene de lo que Everboard describe únicamente como un “proveedor comercial existente”. La empresa no ha revelado de cuál se trata. Un adulto se encarga de configurar el dispositivo y decide si se activa EverVibe y quién puede usarlo. La compañía afirma que no entrenará su IA con los prompts ni las creaciones de los jugadores."
+        },
+        {
+          "t": "p",
+          "x": "El costo no termina con el hardware. El dispositivo incluye un mes de la suscripción EverPass, que desbloquea toda la biblioteca y cinco generaciones de Game Creator al mes. EverPass cuesta $29 por tres meses o $99 por un año. EverPass Premium, por $50 más al año, multiplica por cinco el 'límite de generación', permitiendo hasta 25 juegos rápidos o cinco juegos avanzados al mes, o una combinación de ambos. Este límite puede cambiar."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bby-05.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Incluso sin suscripción, se pueden disfrutar 10 juegos básicos gratuitos. La biblioteca tendrá más de 50 títulos en el lanzamiento, con Monopoly, Connect 4, Chutes and Ladders y Scrabble de Hasbro ya confirmados. Aun así, el escepticismo hacia la IA generativa persiste en las industrias creativas, y una herramienta que genera reglas, arte y música en su lugar no escapa fácilmente a esa pregunta."
+        }
+      ]
+    },
+    "games/games-ukge-convention-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/shadowrunanightswork.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La UK Games Expo (UKGE), la mayor convención de juegos de mesa de Gran Bretaña, presentó esta semana una nueva política sobre juegos hechos con IA. Los organizadores, que habían sido criticados por su cercanía con la IA, cambiaron de rumbo y decidieron vetar los juegos de IA del evento, con una excepción muy limitada."
+        },
+        {
+          "t": "p",
+          "x": "La nueva política establece: “Los organizadores se reservan el derecho, a su entera discreción, de exigir a los expositores que muestren, exhiban o vendan dichos artículos que los retiren. Negarse a cumplir puede dar lugar al cierre del estánd y a la prohibición de participar en el futuro.”"
+        },
+        {
+          "t": "p",
+          "x": "UKGE, que comenzó en 2007 y se celebra cada verano en Birmingham, es uno de los eventos más importantes de la industria de juegos de mesa. Según la información de Kyle Hoon Chan en Rascal, UKGE prohíbe las obras generadas por IA en el recinto, siguiendo el ejemplo de grandes eventos extranjeros como Gen Con. La decisión llega tras un descontento acumulado. Además de las quejas por tener que compartir el recinto con vendedores de productos de IA de baja calidad, en 2025 UKGE recibió duras críticas por promocionar el juego hecho con IA 'Gates of Crystalia' en una publicación patrocinada en redes sociales. Ahora el personal puede retirar las exhibiciones de IA del recinto, y los demás expositores enfrentan menos sospechas sobre su propio trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Hay una sola excepción: usar IA para “edición leve, asistencia de producción y accesibilidad” no está prohibido. Mientras los grandes nombres de los videojuegos y el entretenimiento comercial impulsan la IA con fuerza, esa misma tendencia no se ha visto en el mundo de los juegos de mesa. Algunas de las mayores empresas del sector adoptan, en cambio, una postura firme. Games Workshop, creador de Warhammer, prohíbe a sus empleados usar IA en su trabajo (aunque persisten acusaciones de que la ha utilizado). Otros directivos de la industria esperan reducir personal y costos de desarrollo con IA, pero los jugadores de mesa quizá sientan un apego especial por el arte de goblins dibujado a mano y por figuras que se pueden sostener con las manos."
+        }
+      ]
+    },
+    "games/games-steam-needle-haystack-clones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8MS8qtiT2U3ffFTuqyXu3f-1920-80.jpg",
+          "cap": "Needle in a Haystack Simulator (Imagen: Polden Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "El juego cooperativo de simulación para PC 'Needle in a Haystack Simulator' es exactamente lo que su nombre indica. Se volvió viral en redes sociales este verano, y, como era de esperar, llegó una oleada de clones."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es encontrar una sola aguja en un pajar enorme junto a amigos, tal como dice el viejo refrán, salvo que el heno suma unas 5 millones de hebras. En cuanto se volvió viral, aparecieron unos ocho imitadores en Steam solo en la primera parte de la semana pasada, y ahora hay muchos más."
+        },
+        {
+          "t": "p",
+          "x": "Hubo tantos que generaron publicaciones en Twitter y llamaron la atención del creador original. Al responder a una captura de pantalla con una decena de clones, Nas, de Studio Bitdot, escribió: “Como desarrollador del juego que se volvió viral, me disculpo formalmente con la tienda Steam.” Resulta gracioso, pero también un poco sombrío. Un comentario lo llamó la 'Robloxificación de Steam'."
+        },
+        {
+          "t": "p",
+          "x": "Así como Roblox está lleno de clones de títulos de moda como 'Mecha Chameleon', ahora Steam también parece estar repleto de imitadores."
+        },
+        {
+          "t": "p",
+          "x": "Una búsqueda rápida arroja muchísimos clones de Needle in a Haystack, y buena parte de ellos muestra señales claras de apoyarse, en cierta medida, en IA generativa. Es el toque final. No es una buena imagen para la plataforma de Valve, pero tampoco es fácil de controlar."
+        },
+        {
+          "t": "p",
+          "x": "Cuando algo se vuelve popular, aparece por todas partes. El problema surge cuando desplaza al original de verdad o directamente le roba la idea. Muchos de estos clones parecen acercarse más a lo segundo. Queda por verse si los imitadores serán retirados. El original saldrá más adelante este año."
+        }
+      ]
+    },
+    "games/games-arc-raiders-ml-bully-enemy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/arc-raiders-first-person-mode-header.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "¿Sabías que Reaper, el enemigo terrestre que se encuentra en ARC Raiders, aprende su comportamiento mediante aprendizaje automático? Martin Singh-Blom, líder de investigación en aprendizaje automático de Embark Studios, explicó en la GDC de este año que Reaper aprende a través de recompensas y percepción. Gracias a eso, Reaper se mueve de forma natural y puede adaptarse por sí mismo incluso cuando pierde una pata."
+        },
+        {
+          "t": "p",
+          "x": "No se puede decir que esté impulsado por IA, pero sin duda hay un parecido. Reaper no es el único enemigo que usa este método, pero sus largas patas y su movimiento lo hacen el más llamativo. Con la actualización Frozen Trail, la más grande hasta la fecha, que llega el 8 de octubre, se añade otro enemigo con la misma capacidad de aprendizaje automático. Se llama Bully."
+        },
+        {
+          "t": "p",
+          "x": "Tal como indica su nombre, Bully es agresivo y poderoso. Polygon vio a Bully en movimiento en una sesión informativa en línea para prensa y creadores previa a la presentación de Frozen Trail. No es tan grande como Reaper, pero es un enemigo terrestre de constitución muy robusta. Persigue al jugador sin darle tregua. Como Reaper, el objetivo es que tropiece, caiga y choque con el jugador durante el combate para crear momentos dinámicos."
+        },
+        {
+          "t": "p",
+          "x": "El productor ejecutivo Alexander Grondahl dijo: “El aprendizaje automático es todavía una tecnología incipiente, y para nosotros sigue siendo casi un tema de investigación avanzada. Lo interesante es que no se puede controlar con gran precisión. Aunque intentemos enseñarle un comportamiento, a veces se mueve de una forma que no tiene ningún sentido, y tenemos que actualizar el modelo para corregir un problema concreto.”"
+        },
+        {
+          "t": "p",
+          "x": "Explicó que los enemigos de aprendizaje automático “cumplen un papel arquetípico dentro del plantel”. “Cuanto más mejore la tecnología y más aprendamos, mejor la usaremos para crear una experiencia única.”"
+        },
+        {
+          "t": "p",
+          "x": "Sobre Bully, dijo: “Es un enemigo terrestre, así que intenta superar cualquier terreno”. “Todos los enemigos de aprendizaje automático se mueven según la física, y gracias al nuevo sistema de amarre, los jugadores pueden experimentar la física de estos enemigos de una forma totalmente nueva. Los enemigos de aprendizaje automático funcionan mejor cuando tienen patas con las que aprender a caminar. Es divertido ver cómo se adaptan cuando pierden una pata, se quedan atrapados, o caen y ruedan.”"
+        },
+        {
+          "t": "p",
+          "x": "Frozen Trail llega como actualización gratuita el jueves 8 de octubre para PS5, PC con Windows y Xbox Series X."
+        }
+      ]
+    },
+    "games/games-sony-ai-tech-support-patch-patent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si usas una consola el tiempo suficiente, en algún momento te encuentras con un error técnico que hay que solucionar. Sony quiere evitar ese problema con un agente de soporte técnico con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "En la patente de Sony, la IA vigila el sistema y, si detecta alguna señal anómala, escribe un parche usando un LLM. Con ese parche corrige el problema por adelantado o envía un informe a un ingeniero de Sony. El problema es que, si la función no se puede desactivar, todos los datos procesados en la PlayStation podrían quedar visibles para este agente. Vigilar sin excepción todos los problemas de hardware y software requeriría, en la práctica, acceso total."
+        },
+        {
+          "t": "p",
+          "x": "También existe el riesgo de agravar un problema pequeño. El propio texto de la patente, encontrado por Patently, dice que “un sistema automatizado que envía instrucciones de reparación a un dispositivo del salón necesita barreras de seguridad cuidadosas para que los problemas pequeños no se conviertan en problemas mayores”. La PS5 (y probablemente la PS6) no es, al final, más que una computadora especializada. El autor también ha roto algo más de una vez al intentar corregir un problema pequeño que podría haber dejado como estaba."
+        },
+        {
+          "t": "p",
+          "x": "Si el entrenamiento y las barreras de seguridad del LLM no son suficientemente sólidos, un error en un parche improvisado podría dejar inservible una PlayStation."
+        },
+        {
+          "t": "p",
+          "x": "No se sabe cuándo, ni siquiera si, esta patente llegará a convertirse en un verdadero agente de soporte técnico con IA. Aun así, si la PS6 elimina el disco, la consola de próxima generación probablemente exigirá desde el inicio una conexión permanente a internet. Si está siempre comunicándose con los servidores de Sony, incorporar un sistema de IA así no sería difícil. El autor cree que esta función aparecerá primero en la próxima plataforma. Hasta entonces, esperemos que haya tiempo para resolver los problemas operativos y de privacidad que trae consigo la supervisión remota con IA."
+        }
+      ]
+    },
+    "games/games-disgaea-niikawa-no-ai-stories": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2025/05/20250530-48534-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Niikawa Souhei, creador de Disgaea, fue presidente de Nippon Ichi Software y actualmente es CEO de SuperNIS. En una entrevista reciente con Dengeki Online, habló sobre el uso de la IA generativa en el desarrollo de videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "Niikawa no ve la IA como una amenaza, sino como una “herramienta”. Está de acuerdo con usarla para aumentar la productividad, pero se opone firmemente a usos ilegales como la infracción de derechos de autor. Por ahora no piensa usar la IA en su propio trabajo, y mucho menos en la escritura."
+        },
+        {
+          "t": "p",
+          "x": "“Se podría esbozar solo la trama y dejar que la IA escriba el resto de la historia. Seguramente muchas personas ya lo hacen así. No tengo intención de criticar ese método, pero me pregunto si realmente resulta interesante.”"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/08/20260827-71564-header.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA puede ser una buena herramienta para la producción masiva, pero su objetivo no es fabricar juegos en grandes cantidades. “Tengo el deseo fundamental de crear las historias y los personajes que quiero ver. Si no los modelo con mis propias manos, pieza por pieza, no me resulta divertido. Si no hilo cada palabra yo mismo, no lo disfruto.”"
+        },
+        {
+          "t": "p",
+          "x": "Esta es la principal razón por la que no usa IA en la creación. Dijo que podría ser útil para pensar nombres de personajes o buscar información, pero que “no tiene ningún interés en que la IA escriba la historia en su lugar”. “Tampoco quiero pedirle a la IA diez historias que se vendan bien. Encuentro valor en elegir yo mismo los temas que me parecen interesantes y escribirlos.”"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/06/20260625-68758-001.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Niikawa está a cargo del guion y la producción de varios proyectos nuevos, entre ellos el SRPG de entrenamiento de speedrun Demons’ Night Fever y la aventura de acción y sigilo de terror con bucle temporal Noroi Ayashi: The ∞th Oddity. El concepto y el guion son creados íntegramente por personas. Demons’ Night Fever saldrá el 22 de octubre de 2026 para PC (Steam), PS5 y Nintendo Switch, y Noroi Ayashi está previsto para 2027 en PC (Steam), Nintendo Switch y Switch 2."
+        }
+      ]
+    },
+    "games/games-tenebris-somnia-practical-effects-horror": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Di2XT3mqvhI"
+        },
+        {
+          "t": "p",
+          "x": "¿Has visto alguna vez una película de terror argentina? Yo sí, y da mucho miedo. El mini documental del PC Gaming Show Tokyo Direct 2026 había que verlo con una mano tapándose los ojos. Tenebris Somnia combina jugabilidad de horror de supervivencia en 2D con escenas de acción real filmadas por un equipo de cine argentino galardonado. El maquillaje y los efectos especiales son tan buenos que asustan."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes retro en 2D y las escenas de acción real se combinan con destreza. Un momento estás caminando por un pasillo inquietante y colorido, y al siguiente ves el rostro de una persona real deformarse de una manera que desafía toda lógica. Dave Oshry, CEO de la editora New Blood Interactive, elogia al equipo de efectos especiales, pero a mí me hace pensar que tal vez contrataron a un demonio real."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BxougBzPwa5pAKshZyu6BZ-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El productor ejecutivo Airdorf dijo que se siente como jugar dentro de la pesadilla de alguien. Aparecen monstruos con otra cara debajo de la cara, y otros conectados por una sola boca. La mayoría de estos efectos se hicieron con materiales físicos, por eso resultan tan convincentes. Oshry dijo: “Digamos simplemente que la IA nunca podría hacer Tenebris Somnia.”"
+        },
+        {
+          "t": "p",
+          "x": "El lado de la supervivencia también promete. “Siempre tendrás exactamente la salud que necesitas. También tendrás siempre exactamente la munición que necesitas. Habrá muchos momentos en los que tendrás que depender de una llave inglesa o un caño.” Oshry explica esto en el video mientras sostiene una llave inglesa."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que la historia resonará en cualquiera que haya pasado por una relación difícil. “Vas a reír, vas a llorar y vas a llamar a tu ex.” Eso es lo más aterrador revelado hasta ahora. Tenebris Somnia se lanza el 16 de octubre de 2026, coincidiendo con Halloween."
+        }
+      ]
+    },
+    "games/games-starform-ai-native-26-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Starform lanzó Metal Storm en noviembre de 2023. Cuando este estudio de Seattle recaudó 6 millones de dólares de Bitkraft a finales de 2024, el juego de combate aéreo 5 contra 5 tenía 3 millones de jugadores combinando App Store, Google Play y Epic Games Store. Lou Pasculli, CEO y cofundador, sitúa ahora esa cifra en 15 millones. PocketGamer.biz se reunió con él en SLICE 2026."
+        },
+        {
+          "t": "p",
+          "x": "Pasculli no exagera la etiqueta que el propio estudio se puso. “Ser nativo de IA es más un camino que un estado. No diría que la IA nos permitió hacer cosas que antes no podíamos hacer.” Lo que cambió fue el rendimiento. “Lanzamos muchas más funciones e incorporamos muchos más comentarios de los jugadores. Al final, la experiencia de juego mejoró.” Dentro del equipo piensan en un extremo con el trabajo repetitivo simple y en el otro con el criterio. Cuanto más tiempo pasan los miembros del equipo en el lado del criterio y la creatividad, más ambición puede tener incluso un equipo pequeño."
+        },
+        {
+          "t": "p",
+          "x": "También señala límites con claridad. Ante demos que crean un juego entero a partir de un solo prompt, contó las decisiones que entran en un solo caza de Metal Storm: cosas como la curva de aceleración, cuánta energía se pierde en un giro brusco o qué tan reconocible es su silueta a 800 metros. Para todo el juego, calcula que eso suma decenas de miles. “Si no defines ni una de ellas, el modelo simplemente la inventa. Para un prototipo, eso está bien.”"
+        },
+        {
+          "t": "video",
+          "yt": "N7BOMP2Cahs"
+        },
+        {
+          "t": "p",
+          "x": "Sobre el tamaño del equipo, dice que “el tamaño adecuado para el juego y el tamaño adecuado para la empresa probablemente sean distintos”, y usa la cultura y una visión compartida como referencia. “Si el equipo crece tanto que no puede asimilar los comentarios de las 2.100 personas que participaron en la última actualización de Halo, la voz y la contribución de una sola persona se reducen casi a nada.” Un equipo más grande también eleva el punto de equilibrio. “Pienso en el doble A como una estructura de costos, no como un destino.”"
+        },
+        {
+          "t": "p",
+          "x": "Cuando las reacciones de los nuevos jugadores se dividieron fuertemente ante una versión temprana de Metal Storm con fuertes elementos de simulación, Starform rehízo todas las mecánicas en lugar de aplicar una mejora del 10%. Pasculli dice que el estudio no está buscando inversión en este momento y añade: “No somos nosotros quienes mantenemos vivo el juego, son los jugadores que lo aman.” Señala un cambio en dónde está lo costoso como la razón por la que 26 personas pueden operar Metal Storm y planear el próximo título a la vez. “El descubrimiento y la investigación y desarrollo que llamamos innovación de jugabilidad no son caros. Lo caro es llevarlo todo hasta el final y ampliar la producción lo suficiente para entregarlo a los jugadores.”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141399/89849/metalstorm_1200.jpg",
+          "cap": "Starform anunció el 13 de septiembre que Metal Storm se lanzará por completo en Steam en el otoño de 2026."
+        }
+      ]
+    },
+    "games/games-ubisoft-motherbrain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/RaymanLegendsRetold_06.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Imagen: Ubisoft"
+        },
+        {
+          "t": "p",
+          "x": "Internamente, Ubisoft llama a su último proyecto de IA generativa 'Motherbrain'. Sí, el mismo nombre de la supercomputadora malvada de la saga Metroid de Nintendo, que luego se convirtió en un monstruo cerebral deforme dentro de un frasco. El dato surge de una solicitud de marca de la empresa creadora de Assassin's Creed y Far Cry."
+        },
+        {
+          "t": "p",
+          "x": "The Game File lo informó primero y Kotaku lo recogió después. Varias solicitudes de marca recientes usan este nombre, un tanto siniestro, para referirse a los distintos planes de IA generativa de la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Según la información, una de las marcas menciona 'software informático descargable que utiliza inteligencia artificial (IA) para la creación de videojuegos y contenido interactivo'. Otra marca abarca servicios de IA usados tanto para 'análisis de datos' como para 'la interacción con personas', además de la investigación y el diseño de 'software que utiliza inteligencia artificial'."
+        },
+        {
+          "t": "p",
+          "x": "Ubisoft todavía no ha mencionado Motherbrain en público. Por ahora, parece ser un nombre de uso exclusivamente interno. Aun así, la empresa lleva bastante tiempo mostrando un entusiasmo abierto por esta tecnología, tan polémica, y por su uso en el desarrollo de videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "En 2023 lanzó una herramienta de IA generativa para redactar textos, pensada para ayudar a escribir diálogos de fondo de los NPC, con el nombre, bastante directo, de Ghostwriter. A finales del año pasado, el CEO Yves Guillemot dijo que la IA generativa se había adoptado en toda la empresa y la calificó de 'revolución' comparable al paso de 2D a 3D. Este verano, la empresa dijo que 'acelerará' la inversión en Teammates, un shooter descrito como la 'primera experiencia jugable de IA generativa' de Ubisoft."
+        },
+        {
+          "t": "p",
+          "x": "Queda por ver si este plan terminará algún día convertido en un cerebro puntiagudo y de un solo ojo."
+        },
+        {
+          "t": "p",
+          "x": "En enero de este año, Ubisoft cerró dos estudios, canceló seis proyectos y despidió a desarrolladores en lo que se llamó una gran reestructuración. Unos meses antes, cerró dos estudios más y reorganizó otro, recortando alrededor de 380 puestos."
+        }
+      ]
+    },
+    "games/games-mario-galaxy-human-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pEivnkr2qtuo4cjZHWnJtV-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El clásico de Nintendo Wii Super Mario Galaxy ha sido decompilado al 100%. Miembros de la comunidad de videojuegos anunciaron que un puerto no oficial para PC también está por llegar."
+        },
+        {
+          "t": "p",
+          "x": "La decompilación de videojuegos ha sido una de las grandes tendencias de los juegos de PC en la década de 2020. Portar juegos que nunca salieron en PC permite ejecutarlos de forma nativa e incluso mejorarlos, lo que resulta mucho más útil que limitarse a usar un emulador. Gracias a esto, los usuarios de PC finalmente pudieron disfrutar de clásicos como Castlevania: Symphony of the Night o Blue Dragon."
+        },
+        {
+          "t": "p",
+          "x": "Por desgracia, como ocurre con muchas cosas hoy en día, la IA generativa también está enturbiando este terreno. Los intentos de 'vibe coding' se acumulan, desde Donkey Kong 64 y Mario Kart Wii hasta Monster Hunter Portable 3rd, que decepcionó especialmente al autor. Los emuladores tampoco son la excepción. Los desarrolladores de RPCS3, el emulador de PS3 más conocido, pidieron a los colaboradores que 'dejen de enviar código basura generado por IA'. No es de extrañar que cada nuevo proyecto despierte sospechas de entrada. Por suerte, este nuevo proyecto, también un juego de Mario para Wii, exhibe con orgullo la bandera de 'código 100% escrito por humanos'."
+        },
+        {
+          "t": "p",
+          "x": "La comunidad de modding Luma's Workshop anunció en un video titulado 'the next step…' que la decompilación de Super Mario Galaxy había llegado casi al 100%. Según una actualización en los comentarios, el 100% se alcanzó seis horas después. El grupo también compartió noticias sobre el puerto para PC, llamado Astrocore, y mostró incluso su funcionamiento real. Los desarrolladores dijeron que 'esperan lanzarlo pronto' y remitieron a Discord para más novedades."
+        },
+        {
+          "t": "video",
+          "yt": "SmcFvSgLKr8"
+        },
+        {
+          "t": "p",
+          "x": "También se habló de una posible secuela. Los desarrolladores afirmaron que 'el equipo de decompilación de Luma's Workshop pasará a Super Mario Galaxy 2 una vez termine el trabajo de limpieza'. Un puerto para PC de la (quizá mejor) secuela también podría llegar antes de lo esperado."
+        }
+      ]
+    },
+    "games/games-dlss5-amd-rx9070xt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/RX-9070-XT-75-FPS-Cyberpunk-2077-featured.jpg",
+          "cap": "Resultado promedio de 75.19FPS en Cyberpunk 2077 con la Radeon RX 9070 XT"
+        },
+        {
+          "t": "p",
+          "x": "Con una sola herramienta en tiempo de ejecución, un desarrollador más que duplicó el rendimiento de DLSS 5 en la serie RX 9000 en pocos días."
+        },
+        {
+          "t": "p",
+          "x": "Aunque es una implementación no oficial, ahora permite alcanzar 60FPS con DLSS 5 en hardware que ya no recibe soporte oficial. El desarrollador Daniel ha acelerado últimamente la mejora del rendimiento en hardware de AMD. Hace apenas unos días, ejecutar con fluidez los juegos exigentes más recientes con DLSS 5 era casi imposible, pero él lo logró."
+        },
+        {
+          "t": "p",
+          "x": "Hace dos días se informó que había mejorado el rendimiento casi un 74% en un solo día. Y eso no fue todo. En los dos días siguientes lanzó varias actualizaciones importantes de la herramienta en tiempo de ejecución DLSS-NR-on-AMD. Alpha 0.4.0 elevó el rendimiento alrededor de un 42%, y la posterior Alpha 0.4.1 fue un 8% más rápida que 0.4.0."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-0.4.1.jpg",
+          "cap": "Notas de la versión Alpha 0.4.1: mejora del 8% respecto a 0.4.0"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo modo de cola con prioridad añadió otro 9% en las secciones de juego más exigentes. Alpha 0.4.2, lanzada ayer, sumó un 15% respecto a 0.4.1, una mejora para el modo Fast que usa la serie RX 9000. El modo Fast es ahora el predeterminado en las GPU Radeon RX 9000 y usa operaciones aritméticas menos costosas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-version.jpg",
+          "cap": "Notas de la versión Alpha 0.4.2: mejora del 15% respecto a 0.4.1 en modo Fast"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alpha-0.4.3.jpg",
+          "cap": "Notas de la versión Alpha 0.4.3: mejora del 20% respecto a 0.4.2, 75FPS en Cyberpunk a 1080p"
+        },
+        {
+          "t": "p",
+          "x": "Según el desarrollador, aunque el modo Fast reduce la carga de trabajo de la GPU, la diferencia de calidad de imagen frente al modo Reference sigue siendo difícil de notar. Las Radeon RX 7000 siguen usando el modo Reference por defecto. Hace unas horas llegó otra gran actualización, Alpha 0.4.3, con una mejora considerable: casi un 20% más rápida que 0.4.2 en modo Reference y alrededor de un 18% en modo Fast."
+        },
+        {
+          "t": "p",
+          "x": "Con los tres últimos lanzamientos, el rendimiento de las GPU Radeon mejoró en conjunto entre un 46% y un 49%. Como resultado, la Radeon RX 9070 XT ejecuta Cyberpunk 2077 a 1080p en modo Fast de DLSS 5 a 75FPS, una GPU que antes apenas lograba 30FPS. Con un aumento de más del 200% en pocos días, los juegos más recientes con DLSS 5 activado ya son perfectamente jugables en hardware de AMD."
+        }
+      ]
+    },
+    "games/games-twitch-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/EDITORIAL-CANVA-39-1024x576.png"
+        },
+        {
+          "t": "p",
+          "x": "Cada vez más plataformas adoptan reglas de divulgación de IA generativa, pero el CEO de Twitch, Dan Clancy, no cree que esta plataforma de transmisión en vivo necesite apresurarse a seguirlas. Compartió esta idea en una entrevista con GamesBeat en el Tokyo Game Show 2026, donde dio una conferencia magistral el 17 de septiembre. Reconoció que las reglas de divulgación son importantes para otras plataformas, pero dijo que el comportamiento que las motivó todavía está lejos de ser común en Twitch."
+        },
+        {
+          "t": "p",
+          "x": "“Si eso llegara a pasar, obviamente tomaríamos medidas similares. En YouTube no hay forma de saber si un video es de IA o no, así que para los usuarios es importante saber qué es real.” Son palabras de Clancy. “Si se volviera común que los streamers pusieran una IA en su lugar, al punto de que la gente empiece a preguntarse ‘¿es realmente ese streamer?’, por supuesto tendríamos que hacerlo. Pero eso no está pasando.”"
+        },
+        {
+          "t": "p",
+          "x": "Las políticas de divulgación de IA se han extendido rápidamente durante el último año. YouTube, TikTok e Instagram exigen etiquetar o divulgar el uso de video o audio de IA realista. Valve exige la divulgación del uso de IA generativa antes del lanzamiento en Steam, y en enero de 2026 ajustó su política para que se aplique tanto al contenido dentro del juego como al material promocional de la página de la tienda. La plataforma de transmisión en vivo Kick también añadió en marzo de 2026 requisitos estrictos de divulgación para contenido generado por IA en sus normas de comunidad."
+        },
+        {
+          "t": "p",
+          "x": "Clancy es un experto en IA con un doctorado en inteligencia artificial de la Universidad de Texas en Austin. La presencia de la IA generativa en Twitch también ha crecido durante el último año. El mes pasado, los creadores notaron que una función que permite usar su contenido para entrenar los modelos de IA generativa de Amazon venía activada por defecto."
+        },
+        {
+          "t": "p",
+          "x": "“Siempre hemos usado IA. Automod, uno de los pilares de Twitch, ya usaba IA en 2013. Tenemos la responsabilidad de usar IA para mejorar el producto, siguiendo con las mejoras en moderación y recomendaciones. Lo que a mucha gente le interesa es, probablemente, la IA que aparece dentro de la transmisión.”"
+        },
+        {
+          "t": "p",
+          "x": "Dijo que también se usa IA generativa en las transmisiones de Twitch, pero que la mayoría de los espectadores la detecta con facilidad. Como ejemplo mencionó al conocido equipo de streamers “Esfand” Esfandiari. Esfand hizo un uso intensivo de videos creados con Sora 2 en parte de su contenido, pidiendo a los espectadores que crearan videos de él haciendo cosas graciosas y luego viéndolos y clasificándolos juntos en la transmisión. Clancy dijo que “la IA en realidad potenció la creatividad de la comunidad”, y añadió que “se hizo junto con la comunidad, y no fue un reemplazo en ningún sentido”."
+        },
+        {
+          "t": "p",
+          "x": "Clancy dejó claro que tiene tanto la voluntad como la capacidad de introducir una política de divulgación de IA generativa en cuanto lo considere necesario. Pero se muestra escéptico sobre si una política redactada de antemano reflejaría bien las circunstancias propias de los creadores en vivo. “Escribir una política para una situación hipotética siempre es difícil. En la práctica, la política termina equivocada, porque lo que realmente ocurra será distinto de lo que yo supuse.”"
+        }
+      ]
+    },
+    "games/games-ff7-revelation-pssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Final-Fantasy-VII-Revelation-PS5-Pro-1920x1080.jpg",
+          "cap": "La mejor versión de consola de Final Fantasy VII Revelation parece que será la edición para PS5 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Si hay una función que distingue a la PS5 Pro del modelo base, es el escalador PSSR (PlayStation Spectral Super Resolution), junto con un ray tracing mejorado. Se trata de la tecnología de escalado basada en aprendizaje automático de Sony, la principal responsable de llevar al límite los juegos de consola de esta generación. Gracias a la nueva versión mejorada de PSSR de principios de este año, la PS5 Pro parece ser la respuesta para disfrutar de Final Fantasy VII Revelation a resolución 4K y 60 fotogramas por segundo."
+        },
+        {
+          "t": "p",
+          "x": "“En PS5 Pro implementamos un modo que ofrece tanto imágenes en 4K como jugabilidad a 60FPS gracias a PlayStation Spectral Super Resolution (PSSR).” Así lo confirmó en X el director de la serie, Naoki Hamaguchi. “Para quienes quieran disfrutar a la vez de mejores imágenes y un rendimiento fluido, la PS5 Pro será una de las formas recomendadas de disfrutar REVELATION.”"
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años se han escuchado varias veces este tipo de declaraciones entusiastas sobre la versión para PS5 Pro de algún juego en particular. En muchos casos no se cumplieron del todo, ya que la mejora frente a la versión base de PS5 era escasa. Aun así, hay buenas razones para creer en las palabras de Hamaguchi."
+        },
+        {
+          "t": "p",
+          "x": "Probé personalmente la demo de mundo abierto de Final Fantasy VII Revelation en la Gamescom, y en efecto se ejecutaba en una PS5 Pro real. Yo juego sobre todo en PC, así que rara vez una versión de consola me impresiona. Pero recuerdo con claridad haberme sorprendido por la imagen limpia, la alta resolución y el rendimiento fluido de esta demo. Hubo caídas por debajo de 60FPS en algunos momentos, algo comprensible dado que al juego todavía le quedan varios meses para su lanzamiento. En general, el nivel de pulido técnico fue impresionante."
+        },
+        {
+          "t": "p",
+          "x": "Para contextualizar, en ese momento y todavía ahora juego Final Fantasy VII Rebirth en PC con mods como Shader Injector. Si hubiera existido una gran diferencia técnica, la habría notado de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Como GTA 6 también promete la mejor experiencia en este dispositivo desde su lanzamiento, la PS5 Pro se vuelve una opción cada vez más atractiva para quien quiera disfrutar bien los juegos de consola. En términos puramente técnicos, una PC de alto rendimiento capaz de usar mods sigue siendo la mejor opción. Las recientes subidas de precio han elevado la barrera de entrada respecto al lanzamiento, pero el modelo de refresco de mitad de generación de Sony seguirá cumpliendo su papel en adelante."
+        }
+      ]
+    },
+    "games/games-meta-horizon-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta presentó dos herramientas de creación de videojuegos con IA en su evento Connect: Horizon Create, para móviles, y Horizon Studio, para navegadores. Ambas se basan en las funciones de creación agéntica del Meta Horizon Engine y comparten un backend, por lo que los recursos, los sistemas y el historial de ediciones pasan directamente de una herramienta a la otra."
+        },
+        {
+          "t": "p",
+          "x": "El uso es simple. Se describe el juego deseado mediante una instrucción de texto y el Horizon Engine crea un juego jugable que se puede publicar directamente en Facebook e Instagram. Meta afirmó que “el desarrollo de videojuegos tradicional requiere meses de trabajo, equipos costosos y conocimientos especializados”, y que las dos herramientas “facilitan convertir ideas en videojuegos 2D y 3D jugables”."
+        },
+        {
+          "t": "p",
+          "x": "Según MobileGamerBiz, por ahora algunos creadores respaldados por el Meta Horizon Creator Fund están probando la aplicación. El acceso anticipado se abrirá por etapas y los detalles de la monetización dentro del juego se anunciarán más adelante. A principios de este año, Roblox también incorporó a Roblox Studio una función de IA agéntica que convierte instrucciones de texto en documentos de diseño de juegos y luego los implementa y prueba directamente."
+        },
+        {
+          "t": "p",
+          "x": "En el mismo evento se presentaron también unas gafas de realidad virtual. Pesan cinco veces menos que las Meta Quest 3 y tienen una pantalla 5K basada en micro-OLED. Unity 6.6 las admite mediante OpenXR desde el primer día, lo que permite trasladar proyectos existentes de Quest. Su lanzamiento será en la primavera de 2027, con un precio de 1.299,99 dólares."
+        }
+      ]
+    },
+    "games/games-secretsauce-labs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141567/89946/simondavis-secretsaucelabs_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "WeAreMighty dejó de desarrollar videojuegos y cambió su nombre a Secretsauce Labs. De ahora en adelante se dedicará únicamente a la tecnología de contenido con IA para marcas. Su antecesora, Mighty Bear Games, creadora de Disney Melee Mania y Butter Royal, había cambiado su nombre a WeAreMighty en enero de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Todo comenzó como un dolor de cabeza en la producción. A finales de 2022, el CEO Simon Davis y el cofundador Ben estaban creando un juego que necesitaba unos 25 millones de avatares ajustados a la marca. Hacerlo a mano era imposible, y la IA generativa de la época daba resultados irregulares. Davis recordó: “Si pedías el mismo personaje dos veces, la cara o la ropa cambiaban, y a veces aparecía un dedo de más”. El equipo pasó los siguientes tres años construyendo la infraestructura necesaria para usar los resultados de la IA en un flujo de producción real."
+        },
+        {
+          "t": "p",
+          "x": "Para él, la clave está en la consistencia de marca. “Hay muchas herramientas que permiten subir un logotipo, materiales anteriores y una guía de estilo. Lo que aún no está resuelto es comparar cada resultado recién generado con ese material, uno por uno, para detectar las discrepancias antes de que las vea una persona”, dijo. De entre escala, marca y costo, la desviación de marca fue, de lejos, lo más difícil, porque el costo es un problema de presupuesto, mientras que la desviación de marca es un problema de investigación."
+        },
+        {
+          "t": "p",
+          "x": "También pone en duda la idea de que “la IA ahorra tiempo”. Si generas 10 recursos y solo puedes usar 2, eso no es rápido. En las condiciones adecuadas, un equipo de arte de seis personas que tardaba tres meses puede terminar el trabajo en un día con una sola persona, pero solo cuando el resultado se puede usar de inmediato. También criticó que gran parte de lo que las herramientas de videojuegos con IA generativa llaman “control creativo” es, en su mayoría, “teatro”. Davis dijo: “Lo difícil no era generar, sino la memoria y el juicio”, y añadió: “No revendemos inferencia, vendemos resultados”."
+        }
+      ]
+    },
+    "games/games-onestore-ai-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ONE Store abrió a todos los desarrolladores su sección de juegos con IA, “AI Games”, presentada el pasado agosto. Su centro para desarrolladores, ONEconsole, ha comenzado a aceptar el registro de juegos basados en IA. A principios de octubre, la sección cambiará de nombre a “AI Game” y se añadirá al menú inferior de la aplicación."
+        },
+        {
+          "t": "p",
+          "x": "La idea es conectar a desarrolladores individuales y pequeños que usan IA generativa con un canal de distribución y con los usuarios. Sin experiencia en programación ni un equipo de desarrollo propio, se puede registrar un juego siempre que se haya creado conversando con una IA. Al publicar un producto en ONEconsole, indicar que es un juego hecho con IA lo hace elegible para el menú “AI Game”. ONE Store planea presentar primero a los usuarios los juegos registrados con mayor nivel de acabado."
+        },
+        {
+          "t": "p",
+          "x": "Primero admitirá juegos web (HTML5) que se pueden disfrutar sin instalación. Al integrar el SDK de juegos web de ONE Store, se puede generar ingresos mediante compras dentro de la aplicación y publicidad dentro de la aplicación."
+        },
+        {
+          "t": "p",
+          "x": "El menú “AI Game”, que se renueva a principios de octubre, permanecerá fijo en la parte inferior de la aplicación para poder acceder a él desde cualquier pantalla con un solo toque. Mostrará juntos los juegos de Buseight, que participa en la curación desde el pasado agosto, y las obras que los propios desarrolladores suban."
+        },
+        {
+          "t": "p",
+          "x": "Chang Hyun-kook, CEO de ONE Store, dijo que “el rápido avance de los modelos de IA está acelerando un cambio de paradigma en el que juegos de IA de buena calidad y divertidos aparecen a una velocidad enorme”, y añadió que “ONE Store adoptará activamente este cambio para convertirse en la plataforma de distribución móvil de los juegos de IA”. ONE Store planea ofrecer primero el servicio en el mercado nacional y luego ampliar la disponibilidad de juegos de IA al resto del mundo."
+        }
+      ]
+    },
+    "games/games-hive-axil": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform presentó su plataforma de backend de nueva generación, Hive Axyl, en un evento de desarrollo de videojuegos con IA en Tokio, Japón. Se lanzará oficialmente el 30 de septiembre y se encargará de todo, desde la configuración del backend y la integración de funciones hasta las operaciones en vivo."
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform, filial de Com2uS Holdings, presentó Hive Axyl el día 28 en la final del “Tokyo AI (TAI) | OpenAI: 100-Hour Game Builder Challenge”. En este desafío, organizado por Tokyo AI (TAI) y respaldado por OpenAI, los equipos participantes usaron OpenAI Codex para crear, durante 100 horas, juegos nativos de IA y herramientas de IA para la creación de juegos."
+        },
+        {
+          "t": "p",
+          "x": "En la presentación de la final, el CEO de Com2uS Japan, Kim Jin-yong, expuso la visión “Build with Codex, Play with Hive”. También compartió la experiencia de “OpenAI Game Builders Seoul”, un evento organizado conjuntamente por Com2uS y OpenAI en Seúl en agosto. Entre los asistentes había representantes de la industria tecnológica de Corea y Japón, como Krit Ventures y LY Corporation."
+        },
+        {
+          "t": "p",
+          "x": "El CEO Kim explicó que Hive Axyl “ofrece a los desarrolladores un entorno en el que pueden concentrarse en la creación de contenido en lugar de en tareas complejas de backend”. También dijo que espera que Hive Axyl sea de ayuda cuando se lancen los juegos creados ese día."
+        },
+        {
+          "t": "p",
+          "x": "Diseñado para el desarrollo de videojuegos con IA, Hive Axyl admite la integración de un plugin de Codex. Con instrucciones en lenguaje natural se pueden conectar rápidamente funciones clave como la configuración del backend, la autenticación, los pagos, el análisis de datos y las operaciones en vivo. Tras el lanzamiento oficial, los desarrolladores solo tienen que instalar el plugin siguiendo la guía del sitio para desarrolladores."
+        }
+      ]
+    },
+    "games/games-brood-war-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1150333oswg2848oswg1600_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En 43 minutos: 11,138 tokens de razonamiento, seis órdenes y cero unidades de combate. Ese es el resultado que obtuvo Grok 4.6 en 'StarCraft: Brood War' con su intensidad de razonamiento ajustada al nivel más alto (xhigh). En el otro extremo de la misma tabla, Astra, de GPT-6, ganó sus 18 partidas, con un 100% de victorias. La tabla de 'Brood War Bench' se volvió tema de conversación recientemente en Hacker News."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_04c9c2d9776e41d0824fdf1a2f2a9b3b@000000_oswg116121oswg1080oswg734_img_000?x-oss-process=image/format,jpg/interlace,1",
+          "cap": "Los 10 primeros de Brood War Bench. Astra, en el nivel de razonamiento más alto, ganó sus 18 partidas."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Ben Swardlow creó primero una versión de StarCraft en la que un agente manejaba todos los controles, y jugaba con amigos por diversión. Incluso amigos que casi nunca habían jugado StarCraft podían escribir una sola orden, 'atacar', y la IA se encargaba de la producción, la concentración de tropas y los combates como un veterano. ¿Y qué pasa si las personas se retiran por completo? 19 jugadores de IA de las familias GPT, Claude y Grok se reunieron y disputaron en total 171 partidas."
+        },
+        {
+          "t": "p",
+          "x": "Un juego de estrategia en tiempo real no espera a que un modelo termine de pensar. En la partida G043, Grok dio solo seis órdenes en 43 minutos, una cada siete minutos en promedio, y en su nivel de razonamiento más alto terminó con 2 victorias y 15 derrotas, con recursos de sobra que nunca usó. Astra, en cambio, ganó con hostigamiento, enviando a un solo trabajador al territorio enemigo para dejar a la IA rival pensando durante decenas de segundos."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20260923/v2_ac8c9901fba24c08af4e8fc3ff047077@5091053_img_gif?x-oss-process=image/quality,q_90",
+          "cap": "Un trabajador y un zealot de Astra derribaron la base de Grok. Grok tenía acumulados 928 de minerales sin una sola unidad de combate."
+        },
+        {
+          "t": "p",
+          "x": "Fable fue quien jugó de forma más humana. Desarrolló su economía y su tecnología paso a paso y terminó tercero con un 83.3% de victorias, aunque en una partida se volcó demasiado en tecnología y cayó ante Claude Opus 5. El costo también llama la atención: Astra realizó 12.6 acciones por minuto y gastó 10.54 dólares por partida en su nivel más alto, frente a 25.7 acciones por minuto y 21.07 dólares en su nivel más bajo. Hizo menos movimientos, gastó menos y ganó más que nadie."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, el veredicto de Swardlow es mesurado: ni siquiera Astra, el campeón invicto, puede vencer a un principiante humano. Esto contrasta con 2019, cuando AlphaStar, de DeepMind, venció 5 a 0 dos veces a los jugadores profesionales TLO y MaNa, y llegó a Gran Maestro, el 0.2% superior de la escala europea."
+        }
+      ]
+    }
+  }
+}

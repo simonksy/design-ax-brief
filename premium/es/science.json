@@ -1,0 +1,1076 @@
+{
+  "cards": {
+    "science/science-yeast-ai-scientist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Tecnológica de Chalmers, en Suecia, han construido un científico de IA que formula hipótesis científicas, diseña experimentos e interpreta los resultados. Dado que logró un descubrimiento biológico con muy poca intervención humana, el campo de los laboratorios autónomos ha avanzado un paso más."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-scientist-autonomou-1.jpg",
+          "cap": "Un científico robot de la Universidad Tecnológica de Chalmers. Originalmente fue diseñado para el descubrimiento de fármacos, y en esta ocasión se le añadieron un modelo de lenguaje de gran escala y capacidad de razonamiento automatizado. Credit: NIH Image Gallery/Chalmers University of Technology"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores combinaron un modelo de lenguaje de gran escala, razonamiento automatizado y automatización experimental en un laboratorio de IA de circuito cerrado dedicado a estudiar la levadura de cerveza (Saccharomyces cerevisiae). Al sistema de IA se le proporcionó conocimiento científico como el genoma de la levadura, su metabolismo y estudios previos. Los resultados se publicaron en el Journal of the Royal Society Interface."
+        },
+        {
+          "t": "p",
+          "x": "Eugenia Tiukova, investigadora posdoctoral del Departamento de Ciencias de la Vida de Chalmers y autora del artículo, dijo: “Es demasiada información para que la analice una persona, pero nuestro científico de IA encontró preguntas biológicas prometedoras, propuso experimentos para comprobarlas y, al evaluar los resultados, fue corrigiendo su comprensión conforme surgía nueva evidencia.” Añadió: “No se limita a ser una herramienta de apoyo a la decisión, sino que genera por sí mismo nuevo conocimiento científico.”"
+        },
+        {
+          "t": "p",
+          "x": "Son pocos los intentos de conectar la capacidad de razonamiento de la IA con una capacidad experimental real. Tiukova lo compara con un automóvil autónomo, que también procesa información y toma decisiones mediante IA y aprendizaje automático antes de moverse."
+        },
+        {
+          "t": "p",
+          "x": "Ross King, profesor de ciencias de la computación en Chalmers y en la Universidad de Gotemburgo y autor correspondiente del estudio, cree que los laboratorios autónomos cambiarán la forma de investigar al explorar los sistemas biológicos de manera sistemática y mucho más rápida que antes. Dijo: “Los científicos de IA colaborarán con los científicos humanos para acelerar los descubrimientos en biología, medicina y biotecnología”, y añadió que esto “reduce el tiempo necesario para explorar preguntas científicas complejas y permite aprovechar mejor los recursos experimentales.”"
+        },
+        {
+          "t": "p",
+          "x": "Ambos investigadores insistieron en que, por ahora, la IA autónoma ayudará a los científicos haciéndose cargo de tareas repetitivas como generar hipótesis y poner a prueba experimentos, en lugar de sustituirlos. King dijo: “Los científicos humanos siguen siendo imprescindibles para fijar las prioridades de investigación, interpretar el significado científico más amplio y ejercer la supervisión ética.”"
+        }
+      ]
+    },
+    "science/science-physmat-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El uso de IA para buscar nuevos materiales crece, pero depender solo de datos tiene límites claros. Es difícil explicar por qué se hace una predicción, resulta poco fiable fuera del rango de entrenamiento y a veces contradice las leyes físicas. Un equipo de la Universidad de Tohoku propuso un marco que incorpora conocimiento físico básico al proceso de descubrimiento de materiales, denominado “IA de materiales basada en la física (PhysMat AI)”. El artículo de perspectiva se publicó en Advanced Functional Materials."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-grounded-mater.jpg",
+          "cap": "Flujo completo del ciclo cerrado de PhysMat AI. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
+        },
+        {
+          "t": "p",
+          "x": "El profesor titular Hao Li, del Instituto Avanzado de Investigación en Ciencia de Materiales de Tohoku (WPI-AIMR), afirmó que el descubrimiento de materiales no puede basarse solo en correlaciones de datos, y que incorporar principios físicos a la IA permite interpretar y verificar las predicciones, dándoles sentido también desde la ciencia de materiales."
+        },
+        {
+          "t": "p",
+          "x": "El comportamiento de los materiales depende conjuntamente de la termodinámica, la cinética de reacción, la estructura electrónica, los fenómenos de transporte y el entorno de operación. El equipo considera que solo incorporando este conocimiento a la IA se puede pasar de predicciones por correlación a un razonamiento basado en principios físicos."
+        },
+        {
+          "t": "p",
+          "x": "El marco divide el conocimiento físico en cinco funciones: conocimiento previo, descriptor, restricción, verificador e infraestructura base. Estas funciones determinan cómo se representan los datos de materiales, cómo la IA infiere candidatos y cómo se evalúan las predicciones conforme a principios físicos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800/2026/physics-grounded-mater-1.jpg",
+          "cap": "La estructura física de cinco capas que sostiene a PhysMat AI. Credit: Advanced Functional Materials (2026). DOI: 10.1002/adfm.78119"
+        },
+        {
+          "t": "p",
+          "x": "El artículo cita como ejemplos los catalizadores, los electrolitos sólidos para baterías de estado sólido y los materiales de almacenamiento de hidrógeno. En estos campos, los principios físicos definen un espacio de búsqueda significativo, evalúan los materiales predichos y los conectan con mecanismos que permiten confirmar las predicciones de la IA mediante experimentos. También se describe cómo un agente de IA combinaría estos elementos físicos con bases de datos científicas, simulaciones y datos experimentales para formular hipótesis, elegir las herramientas adecuadas y determinar si un material propuesto es físicamente posible."
+        },
+        {
+          "t": "p",
+          "x": "El camino de desarrollo propuesto por el equipo tiene tres etapas: una IA con conciencia física que incorpora conocimiento físico, una IA de razonamiento físico que usa ese conocimiento para el razonamiento científico, y una IA físicamente autónoma que enlaza sin interrupciones el razonamiento, la simulación y la experimentación. Si este marco avanza, podría ayudar al descubrimiento de materiales para tecnologías energéticas como catalizadores, baterías de estado sólido y almacenamiento de hidrógeno."
+        }
+      ]
+    },
+    "science/science-chromagenet": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con la edad, el sistema hematopoyético, encargado de generar células sanguíneas, también se debilita. Un equipo liderado por la Dra. María Carolina Florián, del Instituto de Investigación Biomédica de Bellvitge (IDIBELL), y la Dra. Paula Petrone, del Barcelona Supercomputing Center (BSC-CNS) e ISGlobal, presentó ChromAgeNet, una herramienta de IA que detecta patrones de envejecimiento en imágenes de microscopía de células madre hematopoyéticas. El método lee cómo se organiza en tres dimensiones la cromatina dentro del núcleo celular. Los resultados se publicaron en Aging Cell."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-detects-signs-of-ag-1.jpg",
+          "cap": "Células madre envejecidas y jóvenes diferenciadas mediante el análisis de la estructura de la cromatina de ChromAgeNet. Credit: Dr. Eva Mejía / IDIBELL"
+        },
+        {
+          "t": "p",
+          "x": "La cromatina es el material del núcleo compuesto principalmente de DNA y proteínas; empaqueta el DNA y regula qué genes se activan. El equipo entrenó una red neuronal convolucional con imágenes tridimensionales de núcleos de células madre hematopoyéticas de ratón, teñidos con DAPI, una técnica común de tinción de DNA. El modelo distinguió células jóvenes y viejas solo por la forma del núcleo con un 77% de precisión, superando a los métodos de machine learning anteriores. Los cambios asociados al envejecimiento son demasiado sutiles para verse bien a simple vista."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también analizaron qué observa el modelo para decidir. La entropía de la cromatina, la heterocromatina en el borde del núcleo y ciertos condensados de cromatina resultaron ser rasgos indicativos del estado de envejecimiento. Es información que puede complementar los relojes epigenéticos, que miden la edad biológica a partir de cambios químicos del DNA como la metilación."
+        },
+        {
+          "t": "p",
+          "x": "El equipo también aplicó el modelo a células envejecidas tratadas con varios fármacos epigenéticos, para ver si la estructura de la cromatina se desplazaba hacia un estado más joven. Esto no prueba que los fármacos rejuvenecieran realmente las células, pero demuestra que la herramienta puede detectar cambios inducidos por una intervención. El DAPI es económico y el modelo tiene pocos parámetros, lo que lo hace adecuado para análisis de microscopía a gran escala. El equipo publicó junto con ChromAgeNet un conjunto de datos de imágenes tridimensionales de células madre hematopoyéticas."
+        }
+      ]
+    },
+    "science/science-llm-social-norms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/llm.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "대인 관계 고민을 LLM에 묻는 사람이 늘면서, 그 답에 깔린 윤리 기준이 개인의 삶은 물론 규모가 커지면 사회 구조까지 흔들 수 있게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "알렉산드르 S. 피르스와 동료들은 LLM 21종의 사회 규범을 살폈다. 가상의 인물이 남의 문제를 시간과 힘을 들여 도울지, 음식이나 돈을 나눌지 같은 결정을 어떻게 내렸는지 보여 준 뒤, 그 사람이 '좋은' 사람인지 '나쁜' 사람인지 판단하게 했다. 결과는 PNAS Nexus에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "이미 좋은 평판을 얻은 사람을 돕고 나누는 일은 모든 모델이 대체로 좋게 봤다. 판단이 갈린 건 평판 나쁜 상대를 대할 때였다. 대부분의 모델은 나쁜 사람과 협력한 이에게 좋은 평판을 줬지만 전부는 아니었다. Gemma 2 27B IT와 Llama 3.1 8B는 나쁜 사람을 멀리하는 쪽을 지지했고, 그래서 이들과 협력하는 것을 나쁘게 평가했다."
+        },
+        {
+          "t": "p",
+          "x": "나쁜 사람을 돕지 않거나 나누지 않은 결정을 두고도 의견이 달랐다. GPT-4o는 협력하지 않은 사람을 대체로 깎아내렸다. Llama 3.3 70B는 그러지 않았는데, 나쁜 사람은 앞서 협력하지 않은 대가를 치러야 하니 돕지 않아도 괜찮다는 논리였다. Gemini 1.5-Pro와 Grok 2는 판단이 오락가락했다."
+        },
+        {
+          "t": "p",
+          "x": "대부분의 LLM 계열은 '단순 평판(Simple Standing)'이라는 규범 쪽으로 옮겨 가는 모습이다. 협력은 언제나 좋고, 나쁜 사람과의 협력을 거절하는 것도 좋다고 보는 기준이다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 각 LLM의 판단 원리를 모두가 따를 때 벌어질 일도 모델링했다. 모두가 단순 평판을 따르면 협력은 생기지만, 나쁜 사람을 돕지 않아야 하고 도우면 본인도 나쁜 사람으로 찍히는 더 엄격한 틀만큼 높은 수준에는 못 미쳤다."
+        },
+        {
+          "t": "p",
+          "x": "LLM의 평가는 상대의 성별과 문화적 배경, 상황 맥락에 따라서도 달라졌다. 저자들은 전체 협력을 높이는 규범을 따르라고 지시하는 식의 프롬프트 개입은 효과가 제한적이고 모델마다 들쭉날쭉했다고 밝혔다."
+        }
+      ]
+    },
+    "science/science-mayo-pancreatic-risk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/doctor-and-female-pati.jpg",
+          "cap": "Foto: CDC from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Mayo Clinic diseñaron un modelo de IA que predice el riesgo individual de cáncer de páncreas años antes del diagnóstico. El estudio se presentó en el Congreso Clínico 2026 del Colegio Americano de Cirujanos (ACS), celebrado del 26 al 29 de septiembre en Washington."
+        },
+        {
+          "t": "p",
+          "x": "El cáncer de páncreas es poco frecuente pero mortal. Según la Sociedad Americana del Cáncer, en 2026 se esperan unos 67.000 nuevos diagnósticos y unas 52.000 muertes. Representa poco más del 3% de los cánceres nuevos, pero el 8% de las muertes por cáncer."
+        },
+        {
+          "t": "p",
+          "x": "“El cáncer de páncreas se puede curar, pero solo si se detecta a tiempo, y menos de uno de cada cinco pacientes recibe el diagnóstico a tiempo”, dijo el coautor Cornelius Thiels, oncólogo quirúrgico de Mayo Clinic en Rochester. Añadió que la supervivencia de muchos pacientes todavía se mide en meses, no en años."
+        },
+        {
+          "t": "p",
+          "x": "Un cribado de toda la población no es realista, por lo que el equipo de Thiels optó por un modelo que identifica a los pacientes de mayor riesgo. “El cáncer de páncreas tarda entre cinco y siete años en formarse, y cuando el clínico o el paciente empiezan a notar algo, ya es demasiado tarde.”"
+        },
+        {
+          "t": "p",
+          "x": "El modelo utilizó los historiales clínicos longitudinales del sistema de Mayo Clinic, datos acumulados con el tiempo en los registros electrónicos que trazan la trayectoria de salud del paciente. A esto se sumaron resultados de análisis de rutina recogidos durante un promedio de más de diez años. El autor principal es el científico de datos quirúrgicos Chris Vargas."
+        },
+        {
+          "t": "p",
+          "x": "El conjunto de datos incluyó a 6.066 pacientes con cáncer de páncreas y 33.396 controles, con historiales clínicos de entre 7,5 y 19 años. El objetivo era detectar indicios sutiles en una etapa temprana."
+        },
+        {
+          "t": "p",
+          "x": "Medido tres años antes del diagnóstico, el modelo alcanzó un AUROC de 0,853, en una escala donde 1,0 es discriminación perfecta y 0,5 equivale al azar. También mostró buen desempeño al señalar a los verdaderos pacientes de riesgo mientras limitaba los falsos positivos, con un AUPRC de 0,712 y una pendiente de calibración de 1,08."
+        },
+        {
+          "t": "p",
+          "x": "“Las personas a las que nuestro modelo asignó un riesgo de cáncer de páncreas superior al 50% tenían un 88% de probabilidades de ser diagnosticadas en el plazo de un año”, explicó Vargas."
+        },
+        {
+          "t": "p",
+          "x": "“Lo diseñamos para que fuera lo más generalizable, escalable y fácil de implementar posible.” Los datos que usa el modelo son información que casi cualquier sistema hospitalario del mundo conserva, lo que significa que, una vez confirmada su eficacia, podría usarse en casi cualquier entorno."
+        },
+        {
+          "t": "p",
+          "x": "El equipo está ahora probando el modelo con fines de investigación, con una validación prospectiva dentro de Mayo y pruebas en instituciones externas este año, además de perfeccionar la arquitectura de aprendizaje automático para mejorar aún más su rendimiento."
+        }
+      ]
+    },
+    "science/science-tumor-twin-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-months-to-minutes.jpg",
+          "cap": "Visualización del modelo 3D del tumor. Fuente: Grupo de Análisis y Visualización de Datos del BSC"
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, construir un solo modelo digital de un tumor exigía leer montañas de artículos, aprender software especializado y, además, dominar varios lenguajes de programación. De principio a fin, era un trabajo especializado que llevaba meses, a veces años."
+        },
+        {
+          "t": "p",
+          "x": "El Centro Nacional de Supercomputación de Barcelona (BSC-CNS) ha presentado una tecnología que conecta agentes de IA con herramientas especializadas. Incluso sin saber programar, ahora se puede construir un modelo digital de un tumor en pocos minutos."
+        },
+        {
+          "t": "p",
+          "x": "El artículo, publicado en npj Systems Biology and Applications, describe el proceso de creación del servidor MCP, un mecanismo que permite que los agentes de IA existentes actúen como intermediarios entre los investigadores y herramientas de modelado avanzadas como NeKo, MaBoSS y PhysiCell."
+        },
+        {
+          "t": "p",
+          "x": "Ya no es necesario rebuscar entre montañas de documentación, escribir código ni alternar entre varios programas. Basta con describirle al agente, en palabras, el problema de biología que se quiere resolver, y el modelo aparece."
+        },
+        {
+          "t": "p",
+          "x": "“Con este logro hemos derribado por completo la barrera entre los biólogos experimentales y las herramientas de modelado avanzadas. Ahora cualquier investigador puede construir modelos biológicos complejos simplemente conversando con el agente de IA al que hemos añadido nuevas capacidades. Es muy parecido a usar ChatGPT: no hace falta escribir una sola línea de código”, explicó el primer autor, el investigador del BSC Marco Ruscone."
+        },
+        {
+          "t": "p",
+          "x": "Un investigador con suficientes conocimientos previos puede usar esta herramienta intermediaria para obtener un borrador de gemelo digital de un tumor en 10 minutos. El equipo afirma que el tiempo de preparación se reduce drásticamente cuando se combinan experiencia en el dominio y soltura con el software."
+        },
+        {
+          "t": "p",
+          "x": "“Los agentes de IA ya automatizan tareas repetitivas. El verdadero cambio de juego está en resolver problemas científicos complejos, como los gemelos digitales de sistemas celulares. Automatizar un proceso lleno de decisiones importantes es un gran reto, y nuestro trabajo es un primer paso significativo”, dijo Alfonso Valencia, jefe del departamento de Ciencias de la Vida del BSC, quien dirigió la investigación."
+        },
+        {
+          "t": "p",
+          "x": "El artículo también aborda el problema de la reproducibilidad. Garantizarla, el pilar de la publicación científica, es complicado con modelos de lenguaje que responden de forma probabilística. Los autores demostraron que, al fijar un objetivo e iterar repetidamente, se obtienen resultados coherentes que cumplen con los estándares científicos."
+        },
+        {
+          "t": "p",
+          "x": "“Cada modelo de lenguaje da respuestas distintas, igual que los científicos dan respuestas distintas entre sí. La clave es trabajar de forma iterativa, planteando la misma pregunta una y otra vez. Usado correctamente, las pequeñas variaciones en las respuestas no importan, porque al final convergen en los mismos hechos centrales”, resumió el tercer autor, el investigador del BSC Miguel Vázquez."
+        },
+        {
+          "t": "p",
+          "x": "El servidor MCP creado por el BSC está disponible para la comunidad académica. Como conecta los agentes directamente con el software especializado existente, ofrece un flujo de trabajo que vale la pena tener en cuenta incluso fuera de la biología."
+        }
+      ]
+    },
+    "science/science-quantum-optical-nn-energy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-quantum-nanostruc.jpg",
+          "cap": "Entrenamiento y validación con reconocimiento físico en una tarea de clasificación no lineal. Fuente: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de ingeniería de la Universidad de Wisconsin-Madison diseñó una nueva nanoestructura cuántica para hacer realidad las redes neuronales ópticas. Esto abre la puerta a ejecutar IA de alto consumo, como los grandes modelos de lenguaje o la generación de imágenes, de forma más rápida y con mucha menos energía."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo fue dirigido por Qingyi Zhou y Jungmin Kim, estudiantes de doctorado en ingeniería eléctrica e informática, Yutian Tao, estudiante de doctorado en ciencias de la computación, y el profesor de ingeniería eléctrica e informática Zongfu Yu. El artículo se publicó el 27 de agosto en Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "La IA de uso más extendido suele depender de redes neuronales profundas, sistemas de múltiples capas que imitan la estructura de conexiones del cerebro humano; cuanto más crecen, más energía consumen. No es una preocupación nueva: hace diez años los investigadores ya sabían que el costo energético de ampliar las redes neuronales no era sostenible, y la alternativa que propusieron entonces fueron las redes neuronales ópticas."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas ópticos procesan información con láseres y fotodetectores muy pequeños y rápidos, en lugar de chips informáticos convencionales. En teoría, son órdenes de magnitud más rápidos y eficientes que las GPU electrónicas que sostienen la IA actual."
+        },
+        {
+          "t": "p",
+          "x": "El problema es la no linealidad, la propiedad que convierte a una red neuronal en algo más que una calculadora sofisticada, y que falta en los sistemas ópticos. Como los fotones casi no interactúan entre sí, hay muy pocos materiales ópticos capaces de producir funciones no lineales."
+        },
+        {
+          "t": "p",
+          "x": "No es que no existan materiales ópticos no lineales. Pero la energía láser necesaria para activar esa función no lineal es tan grande que consume toda la energía que el sistema pretendía ahorrar."
+        },
+        {
+          "t": "p",
+          "x": "“En esencia nos preguntamos: ¿por qué es tan importante esta no linealidad? ¿Por qué se necesita una no linealidad tan fuerte desde el principio? Todo el proyecto nació de ahí”, dijo Zhou."
+        },
+        {
+          "t": "p",
+          "x": "El equipo calculó primero la energía necesaria para activar la no linealidad con materiales ópticos convencionales. La intensidad láser requerida superaba con creces cualquier presupuesto energético realista; era inviable. “Nos preguntamos si valía la pena probar materiales poco convencionales, como los emisores cuánticos, que ya muestran una no linealidad óptica muy fuerte. Simplemente nunca se habían usado en computación óptica.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/phd-student-qingyi-zho.jpg",
+          "cap": "El estudiante de doctorado Qingyi Zhou, quien halló mediante simulaciones computacionales una forma de evitar el cuello de botella de la no linealidad en las redes neuronales ópticas. Foto: Joel Hallberg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo usó simulaciones y herramientas computacionales para diseñar una nanoestructura que envuelve a un emisor cuántico, una estructura conocida técnicamente como centro de color de vacante. Tras optimizarla para maximizar la no linealidad, los cálculos mostraron que integrar este dispositivo en toda la red produce de hecho una no linealidad fuerte."
+        },
+        {
+          "t": "p",
+          "x": "El modelo estimó que este diseño reduce el consumo de energía en siete órdenes de magnitud frente a los materiales ópticos convencionales, es decir, a una diezmillonésima parte. Zhou subrayó que se trata de una estimación teórica, pero dijo que ya demuestra que la no linealidad en sí ya no es el cuello de botella de la computación óptica."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora todo queda en el plano de los cálculos. Zhou revisó la bibliografía para evaluar si esta red neuronal óptica puede construirse con los materiales y la tecnología actuales, y considera que otros emisores, como puntos cuánticos o átomos neutros, también podrían servir y mejorar aún más el rendimiento. “Dados los avances recientes en óptica cuántica basada en diamante, creemos que nuestra propuesta está al alcance de la tecnología actual.”"
+        }
+      ]
+    },
+    "science/science-spacecraft-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/The_SpaceX_Crew_Dragon_approaches_the_International_Space_Station_iss063e021463_20260923_010712.jpg",
+          "cap": "Cápsula Dragon acercándose a la ISS. Foto: NASA / Chris Cassidy"
+        },
+        {
+          "t": "p",
+          "x": "El acoplamiento con la ISS parece sencillo. En la práctica, muestra lo compleja que es la mecánica orbital. Es como conducir por una autopista a 28,000 km/h y, al mismo tiempo, aparcar en paralelo en el garaje abierto de un laboratorio de miles de millones de dólares que viaja a la misma velocidad."
+        },
+        {
+          "t": "p",
+          "x": "Al acelerar hacia delante, el cuerpo es empujado hacia arriba. Sin resistencia del aire, la velocidad no disminuye por sí sola. Si se choca con el laboratorio, mueren todos los ocupantes de ambas naves, y la nube de fragmentos resultante puede destruir decenas de satélites o incluso amenazar a personas en tierra."
+        },
+        {
+          "t": "p",
+          "x": "Durante décadas, los ingenieros aeroespaciales lograron el acoplamiento con ecuaciones físicas codificadas de antemano y las correcciones de pilotos humanos. El preprint que un equipo de Stanford publicó en arXiv apunta a otra vía: hace que una IA realice varias \"simulaciones mentales\" para ejecutar el acoplamiento, con un modelo llamado Out-of-this-World-Model (OWM)."
+        },
+        {
+          "t": "p",
+          "x": "Las computadoras de navegación actuales usan algoritmos GNC (guiado, navegación y control). A esto se añade un filtro de Kalman extendido, que recibe datos del receptor GPS y del rastreador de estrellas, y de ahí extrae los ciclos de disparo de los propulsores."
+        },
+        {
+          "t": "p",
+          "x": "El filtro de Kalman es malo manejando video de alta velocidad. Por eso se recurre a la visión por computadora tradicional, que resulta frágil en el espacio. Basta con un reflejo de luz solar en los paneles o que parte del objetivo quede en la sombra para que el algoritmo falle por completo."
+        },
+        {
+          "t": "video",
+          "yt": "sWJf4YcPPFs"
+        },
+        {
+          "t": "p",
+          "x": "Parecía un terreno adecuado para la IA, y los investigadores pensaron lo mismo al añadir aprendizaje por refuerzo, la misma familia que venció a humanos en ajedrez o Dota. Su límite era que solo funciona bien en situaciones con reglas muy claras. Un cambio tan simple como que el puerto de acoplamiento pase al lado opuesto de la ISS ya lo deja sin respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Ahí entra el modelo del mundo. Un jardinero que va a atrapar una pelota no resuelve ecuaciones diferenciales parciales en su cabeza; solo corre una simulación mental que predice dónde caerá la pelota. Los modelos del mundo en aprendizaje automático también aprenden la física básica del entorno directamente de la experiencia, no de ecuaciones programadas. Con esta idea, OWM \"sueña\" decenas de futuros posibles y ajusta su salida paso a paso hacia ese sueño."
+        },
+        {
+          "t": "p",
+          "x": "No se limita a adivinar: también calcula la probabilidad de cada resultado. Esa confianza resulta clave al reaccionar ante situaciones inesperadas o al corregir una salida equivocada."
+        },
+        {
+          "t": "p",
+          "x": "El entrenamiento fue el mayor obstáculo. Un solo modelo del mundo necesita cientos de miles de vuelos simulados, lo que tomaría semanas en una CPU normal. El equipo superó ese muro creando la biblioteca AstroJAX, que corre en GPU."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados fueron notables. OWM aprendió la maniobra de acoplamiento en 500,000 iteraciones, mientras que el sistema de aprendizaje por refuerzo comparado necesitó 25,000,000. También funcionó mejor en puertos de acoplamiento nunca vistos, y manejó mejor variables inesperadas, como otra cápsula colocada deliberadamente en el puerto al que debía acoplarse."
+        },
+        {
+          "t": "p",
+          "x": "Todavía queda camino por recorrer. Considerando todos los puertos de acoplamiento de la ISS, la tasa de éxito es de alrededor del 53%, frente al 29% del algoritmo de aprendizaje por refuerzo. OWM tuvo especial dificultad en las maniobras de proximidad, probablemente porque la penalización por colisión tiene un peso demasiado alto. Los autores escribieron que ese valor podría ajustarse en la próxima versión. Es, por ahora, un resultado de un preprint que aún no ha pasado revisión por pares."
+        }
+      ]
+    },
+    "science/science-ai-disagreement-trust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/chatbot.jpg",
+          "cap": "Fuente: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Cuando un chatbot de IA está de acuerdo con el razonamiento de una persona sobre un dilema social, esa persona gana confianza en su juicio. Cuando el chatbot discrepa, la gente tiende a descartar la objeción en lugar de reconsiderar su pensamiento. Así lo halló un estudio de la Universidad de Michigan sobre cómo reacciona la gente cuando la IA interviene en dilemas personales e interpersonales."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, publicado en Computers in Human Behavior Reports, deja una tarea pendiente a los desarrolladores que buscan reducir la tendencia de los chatbots a mostrarse demasiado de acuerdo con los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que los modelos de IA suelen diseñarse para ser complacientes, validando el razonamiento del usuario incluso cuando es débil. Esa validación, explican, refuerza pensamientos dañinos y percepciones distorsionadas de la realidad."
+        },
+        {
+          "t": "p",
+          "x": "“Los desarrolladores se han esforzado por lograr que la IA pueda discrepar cuando es necesario. Pero que la IA discrepe de un usuario no significa que la persona reconsidere su propio pensamiento. Puede simplemente desprestigiar la respuesta de la IA”, dijo Atakan Atamer, coautor principal y estudiante de doctorado en psicología en la Universidad de Michigan."
+        },
+        {
+          "t": "p",
+          "x": "Atamer y sus colegas reunieron a 482 adultos estadounidenses y les asignaron uno de tres dilemas interpersonales sin una respuesta objetivamente correcta: un conflicto entre la pareja y la familia, si perdonar a una pareja infiel o si revelar gustos distintos a los de un grupo de amigos."
+        },
+        {
+          "t": "p",
+          "x": "Después de que los participantes elegían y calificaban su grado de confianza, recibían una respuesta de la IA que coincidía o discrepaba de su razonamiento. Los investigadores midieron la confianza en la elección y la percepción de la IA, incluida su capacidad para entender emociones, su parecido con lo humano y la disposición a volver a usarla en una conversación similar."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el chatbot estaba de acuerdo, los participantes ganaban más confianza en la elección que ya habían hecho. Cuando el chatbot discrepaba del razonamiento, la confianza en su pensamiento original no caía de forma significativa."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes que fueron contradichos vieron a la IA como más “mecánica” y le atribuyeron menor capacidad para entender emociones. También disminuyó su disposición a usar la IA en conversaciones interpersonales similares. La discrepancia de la IA no cambió mucho su postura original; lo que cambió fue su forma de ver la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "“La gente a menudo quiere que la IA respalde su propio pensamiento, y cuando discrepa, puede simplemente desprestigiar esa respuesta. Eso significa que hacer que la IA contradiga más activamente a los usuarios no basta para frenar conversaciones dañinas que afectan la vida real”, explicó Olivia Pinto, coautora principal, egresada de la Universidad de Michigan e investigadora de UX."
+        },
+        {
+          "t": "p",
+          "x": "La IA se está involucrando cada vez más en decisiones personales y consejos. Si los usuarios aceptan los consejos que confirman su propio pensamiento y descartan los que discrepan, corregir solo la tendencia de la IA a halagar no bastará para abordar riesgos mayores. El hallazgo eleva a problema de diseño la forma en que un asistente debería plantear su desacuerdo."
+        }
+      ]
+    },
+    "science/science-kit-emap-selfdriving-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/e3068da6-75a7-41f2-b6cc-bc4bcc509c4a/Rendition/low-res/Content/Public",
+          "cap": "E-MAP realiza experimentos con materiales de forma automática dentro de un sistema cerrado, con robots que trabajan en una atmósfera de gas protector. (Foto: Holger Röhm, KIT)"
+        },
+        {
+          "t": "p",
+          "x": "Desarrollar nuevos materiales funcionales exige probar innumerables combinaciones de materiales. Cuando aumentan las variantes por comparar, los experimentos convencionales llegan rápidamente a su límite. La plataforma de aceleración de materiales energéticos E-MAP, del Instituto de Tecnología de Karlsruhe (KIT), automatizó las etapas clave del laboratorio para resolver este cuello de botella."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Holger Röhm, del Instituto de Tecnología de la Luz (LTI) de KIT, que construyó la plataforma, dijo: «los sistemas robóticos se encargan de tareas como la preparación de materiales, la manipulación de muestras, la deposición de películas finas y la caracterización de muestras», y añadió: «se puede experimentar con una precisión y reproducibilidad sin precedentes, y determinar rápidamente qué composiciones de materiales y condiciones de producción resultan prometedoras para una aplicación concreta»."
+        },
+        {
+          "t": "p",
+          "x": "E-MAP forma parte de un sistema cerrado que maneja materiales sensibles en condiciones controladas. Fabrica películas finas a partir de precursores líquidos y sintetiza y mezcla automáticamente tintas semiconductoras mediante sistemas microfluídicos. El equipo también ha ampliado de forma constante sus técnicas de caracterización de películas finas."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Alexander Colsmann, del mismo instituto, afirmó: «la mayor ventaja de E-MAP es su diseño modular». Se pueden añadir nuevos métodos experimentales y analíticos para adaptarse a distintos problemas científicos, y los socios académicos e industriales también pueden aportar sus propios métodos y equipos."
+        },
+        {
+          "t": "p",
+          "x": "La automatización genera una enorme cantidad de datos experimentales. El equipo planea analizar estos datos con IA para identificar con antelación combinaciones de materiales prometedoras durante la etapa de simulación virtual, y controlar procesos de selección autónomos o semiautónomos. Para ello, están conectando varias plataformas de investigación automatizadas."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Röhm explicó: «al conectar la síntesis, el procesamiento, la caracterización y la evaluación de datos se crea un proceso de investigación que diseña y ejecuta experimentos de forma más eficaz, basándose en datos»."
+        },
+        {
+          "t": "p",
+          "x": "E-MAP es una plataforma de investigación que funciona de manera mayormente autónoma, un llamado 'laboratorio autónomo (SDL)'. Los SDL son también un pilar central de la Agenda de Alta Tecnología de Alemania. El desarrollo comenzó en 2023, y KIT ha invertido hasta ahora unos 600.000 euros en equipamiento. La Fundación Carl Zeiss apoyó el desarrollo a través del proyecto de investigación KeraSolar."
+        },
+        {
+          "t": "p",
+          "x": "E-MAP también participará en la futura Alianza Helmholtz de Aceleración (HELMA). El objetivo es crear, en varios centros Helmholtz, una red de plataformas de investigación autónomas en los campos de la ciencia de materiales y las ciencias de la vida."
+        }
+      ]
+    },
+    "science/science-qcdesign-meridian-error-reduction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-24_19-09.png",
+          "cap": "Presentación del white paper de Meridian de QC Design (nota de prensa)"
+        },
+        {
+          "t": "p",
+          "x": "QC Design publicó el informe técnico «Reducción de la tasa de error lógico en más de 10 veces con Meridian». Según la empresa, Meridian, un sistema de IA creado para el diseño de ordenadores cuánticos tolerantes a fallos, logró tasas de error lógico más bajas que los métodos previamente publicados y los agentes de IA de uso general en más de 100 tareas de diseño. La tasa de error lógico indica con qué frecuencia se degrada la información cuántica protegida."
+        },
+        {
+          "t": "p",
+          "x": "La arquitectura de un ordenador cuántico determina el hardware y el tiempo de ejecución necesarios. Elegir bien el diseño puede ahorrar años de desarrollo y millones de dólares en inversión de capital. Pero encontrar la arquitectura óptima exige un amplio conocimiento de informática, corrección de errores cuánticos, física de dispositivos e ingeniería, y este tipo de expertos sigue siendo escaso."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos de IA especializados de Meridian combinan modelos de frontera y conocimiento curado por personas con las herramientas de verificación de Plaquette, la plataforma de automatización de diseño cuántico de QC Design. Plaquette actúa como un modelo del mundo preciso que pone a prueba los diseños candidatos frente a los defectos del hardware real, lo que permite a Meridian distinguir mejoras genuinas de diseños que obtienen buena puntuación por razones equivocadas."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Ishi Dand, cofundador y CEO, dijo: «cada fabricante de equipos cuánticos que conocemos está diseñando la arquitectura óptima para su propio hardware». El cofundador, el profesor Martin Plenio, añadió: «Meridian suma a la búsqueda basada en IA el modelado y la verificación necesarios para resolver ese problema de diseño»."
+        },
+        {
+          "t": "p",
+          "x": "El informe evaluó una parte del diseño de la arquitectura: los circuitos que detectan errores en la información cuántica protegida. Las más de 100 tareas abarcan 10 familias de códigos de corrección de errores, múltiples configuraciones de hardware y modelos de error representativos de las principales plataformas de computación cuántica."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, Meridian redujo la mediana de la tasa de error lógico más de 10 veces en comparación con el mejor circuito entre cinco algoritmos principales publicados para cada tarea. Comparado con un agente de uso general basado en GPT-6 Astra de OpenAI, fue más de un 40% más bajo en la mediana, con mejoras de hasta el 98,4% (unas 63 veces) en algunos casos."
+        },
+        {
+          "t": "p",
+          "x": "QC Design cree que el enfoque de Meridian podría usarse más allá de la computación cuántica, ya que muchos problemas científicos requieren tanto la capacidad de generar soluciones candidatas como la experiencia para juzgar si realmente funcionan. Todas estas cifras fueron publicadas por la propia empresa en su white paper."
+        }
+      ]
+    },
+    "science/science-aphid-gall-protein-ai-structure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stowers-scientists-unc.jpg",
+          "cap": "Científicos del Instituto Stowers hallaron el plano común oculto en las proteínas de los áfidos."
+        },
+        {
+          "t": "p",
+          "x": "Los áfidos inyectan en las plantas cientos de proteínas de identidad desconocida. Estas proteínas secuestran el genoma de la planta para que forme una 'agalla (gall)'. La agalla está hecha de tejido vegetal, pero su forma y función siguen el diseño del insecto, y se convierte en el hogar donde las crías viven y se alimentan."
+        },
+        {
+          "t": "p",
+          "x": "El laboratorio del Dr. David Stern, del Instituto Stowers de Investigación Médica, junto con el laboratorio de Angela Gronenborn, de la Universidad de Pittsburgh, demostró que miles de estas proteínas de siete especies de áfidos comparten un único plano estructural. El estudio se publicó el 2 de septiembre en PNAS (Proceedings of the National Academy of Sciences)."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/stowers-scientists-unc.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Esta proteína, a la que los investigadores llamaron BICYCLE, fue un problema desde el principio. Cambiaba tan rápido entre generaciones que no existía nada parecido en ninguna base de datos. Las proteínas en el frente de batalla entre parásito y huésped evolucionan más rápido, porque cada uno responde a los movimientos del otro."
+        },
+        {
+          "t": "p",
+          "x": "Durante años, el equipo cristalizó dos proteínas BICYCLE y resolvió su estructura mediante difracción de rayos X. No coincidía con ninguna estructura conocida, pero contenía una variante del motivo estructural llamado 'pliegue similar a la saposina'."
+        },
+        {
+          "t": "p",
+          "x": "Esa misma semana se presentó AlphaFold2. Stern introdujo la secuencia de BICYCLE, pero el resultado fue incorrecto. La fuerza de AlphaFold2 no viene solo del aprendizaje automático, sino también de los datos evolutivos que se ingresan junto con la secuencia, y BICYCLE no tenía secuencias con las que compararse. Stern dijo: «esa parte era una caja vacía»."
+        },
+        {
+          "t": "p",
+          "x": "La solución estaba fuera de la computadora. El equipo recolectó áfidos en Virginia y Virginia Occidental, y viajó hasta Japón para secuenciar el genoma de una especie clave. Al completar el contexto evolutivo, AlphaFold2 reprodujo con exactitud la estructura cristalina que los investigadores habían resuelto por su cuenta."
+        },
+        {
+          "t": "p",
+          "x": "Con este método, el equipo obtuvo unas 2.400 predicciones estructurales de alta confianza en siete especies de áfidos. El mismo pliegue similar a la saposina aparecía una y otra vez, aunque en cada proteína se duplicaba, cambiaba de orientación o se decoraba de forma distinta."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, no había nada en común en la química de superficie. Los investigadores consideran que estas proteínas son un «arsenal de carrera armamentista» que evoluciona en dos direcciones: atacar nuevos blancos dentro de la planta y, al mismo tiempo, evadir su sistema inmunológico. Este método también puede aplicarse al estudio de otras proteínas de evolución rápida."
+        }
+      ]
+    },
+    "science/science-robot-engineering-agent-benchmark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/robot.jpg",
+          "cap": "Robot"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la IA se integra rápidamente en la vida cotidiana, la programación de software también se automatiza cada vez más. Los sistemas de IA llamados agentes de código ahora escriben y corrigen programas casi por sí mismos. Pero ¿qué ocurre cuando, en lugar de una línea de comandos, hay que enfrentar el mundo físico de un robot?"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Escuela de Ingeniería y Ciencias Aplicadas de Harvard (SEAS) y de la Facultad de Ciencias e Ingeniería Computacional de Georgia Tech decidieron examinar esta pregunta de forma sistemática. Un equipo liderado por la profesora Na Li, de Harvard SEAS, y el profesor Bo Dai, de Georgia Tech, creó un banco de pruebas para evaluar qué tan bien los agentes de código de IA diseñan robots reales."
+        },
+        {
+          "t": "p",
+          "x": "Este banco de pruebas, llamado RLE-Bench, funciona como un examen estándar para ingenieros de aprendizaje robótico de IA. Un ingeniero de aprendizaje robótico es un rol que abarca aprendizaje automático, robótica, control, software y hardware."
+        },
+        {
+          "t": "video",
+          "yt": "Dwwhv8oD3gk"
+        },
+        {
+          "t": "p",
+          "x": "El banco de pruebas incluye 48 tareas. Evalúa si los agentes de código de propósito general pueden realizar el trabajo de ingeniería necesario para construir y operar sistemas robóticos, desde el desarrollo de algoritmos de control y percepción hasta el diseño de hardware e interfaces de robots."
+        },
+        {
+          "t": "p",
+          "x": "La profesora Li dijo: «La robótica ya tiene muchos buenos bancos de pruebas, pero gran parte se centra en el aprendizaje y la evaluación de políticas de control». Añadió: «RLE-Bench mira más ampliamente: ¿puede la IA realizar las muchas tareas de ingeniería que hacen que un sistema robótico funcione de verdad?»."
+        },
+        {
+          "t": "p",
+          "x": "Las tareas se dividen en cuatro áreas: control interactivo, desarrollo de políticas, percepción y estimación, y diseño mecánico. Ponen a prueba no solo la capacidad de generar código, sino también el razonamiento sobre sensores, dinámica, estabilidad, restricciones de hardware y la interacción entre el software y el mundo físico."
+        },
+        {
+          "t": "p",
+          "x": "Las tareas se ejecutan en un entorno simulado, pero los problemas tienen raíces físicas. Por ejemplo, al diseñar una base móvil para un brazo robótico que debe alcanzar objetos a distintas alturas en un estante, el diseño falla la prueba de estabilidad si todo el robot se vuelca, aunque el brazo alcance todos los objetivos."
+        },
+        {
+          "t": "p",
+          "x": "El estudiante de posgrado de Harvard Haitong Ma dijo: «Un diseño que parece razonable en el cálculo puede revelar factores de falla importantes cuando se considera la física del sistema completo»."
+        },
+        {
+          "t": "p",
+          "x": "RLE-Bench se publica como código abierto. La profesora Li dijo: «la versión 1.0 es solo un punto de partida», y expresó su deseo de que investigadores y profesionales aporten tareas para que la versión 2.0 abarque mucho más del trabajo de los ingenieros de aprendizaje robótico."
+        }
+      ]
+    },
+    "science/science-affective-genai-youth-mental-health": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic100085.jpg?itok=w64GWo65",
+          "cap": "SuttleMedia/Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "El uso de IA entre niños y adolescentes crece con rapidez. Un equipo liderado por la Universidad de Ottawa, en un amplio estudio publicado en JAMA Pediatrics, confirmó un vínculo entre el uso 'emocional' de la IA generativa para buscar apoyo afectivo y los problemas de salud mental en adolescentes."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores escribieron que \"buscar apoyo emocional en la IA generativa es un indicador distintivo de malestar psicológico en los adolescentes\", y que la práctica clínica y la educación en alfabetización digital deben distinguir el uso funcional de la IA de convertir el algoritmo en un 'refugio emocional'."
+        },
+        {
+          "t": "p",
+          "x": "El uso de IA generativa entre adolescentes ya es común. Alrededor de un tercio de los niños de 4 a 17 años en Estados Unidos ha usado aplicaciones de IA generativa, y una encuesta en 20 países europeos encontró que el 72% ya la había probado. Otra encuesta señaló que el 73% de los estudiantes canadienses usa IA generativa para hacer tareas."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores informaron que, a medida que aumentaba el uso académico de la IA, también crecía el uso emocional. Su interpretación es que, al volverse la IA parte de la rutina diaria, baja también el umbral para confiarle pensamientos íntimos."
+        },
+        {
+          "t": "p",
+          "x": "Este estudio transversal analizó datos de más de 39,700 estudiantes de los grados 4 a 12 en cuatro distritos escolares de Ontario, Canadá, entre mayo de 2025 y marzo de 2026. En total, el 21% dijo usar IA generativa para obtener apoyo emocional, y esa proporción aumentaba con la edad y con el uso académico de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Quienes usaban la IA de forma emocional tenían puntuaciones más altas de soledad y más bajas de 'mattering' (la sensación de ser valioso para los demás). Los investigadores concluyeron que los estudiantes buscan chatbots de IA para 'llenar un vacío social'."
+        },
+        {
+          "t": "p",
+          "x": "La asociación se mantuvo incluso tras ajustar por soledad, mattering, factores demográficos y uso funcional de la IA. Entre quienes usaban la IA de forma emocional, los 'problemas emocionales clínicamente significativos' fueron un 26% más frecuentes."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores recomendaron que los profesionales de salud mental evalúen de forma regular el uso emocional de la IA, ya que este comportamiento podría ser una señal clara de problemas de salud mental que una interfaz digital no puede atender."
+        }
+      ]
+    },
+    "science/science-ai-hurricane-intensity-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-satellite-image-show.jpg",
+          "cap": "El huracán Irma se intensificó rápidamente antes de azotar el Caribe y Florida en 2017. Su intensidad todavía es difícil de pronosticar. (NASA)"
+        },
+        {
+          "t": "p",
+          "x": "En solo unos pocos años, la IA ha transformado la previsión meteorológica. Los modelos globales de IA ahora producen pronósticos comparables a los de los mejores sistemas de predicción basados en física del mundo. Los enormes volúmenes de datos meteorológicos, los avances de los modelos y una potencia de cómputo sin precedentes han impulsado esta tendencia, pero el factor clave es, sobre todo, el dato, gracias a décadas de registros climáticos y meteorológicos que cubren todo el planeta."
+        },
+        {
+          "t": "p",
+          "x": "Pero la historia cambia cuando se reduce la escala de lo global a lo regional. El pronóstico de la intensidad de los huracanes es precisamente ese tipo de problema regional. El 21 de septiembre de 2026, el huracán Polo, en la costa del Pacífico de México, pasó de tormenta tropical a categoría 5 en 24 horas, con vientos de hasta 290 km/h (180 mph). Cuando una intensificación repentina como la del huracán Michael en 2018 se escapa del pronóstico, los residentes pierden tiempo para evacuar."
+        },
+        {
+          "t": "p",
+          "x": "Los datos para entrenar a la IA se dividen en dos grandes categorías. Los datos de observación recogidos por estaciones meteorológicas, radares, boyas y satélites son precisos, pero se concentran cerca de las costas, mientras que las etapas críticas del crecimiento de un huracán ocurren sobre todo en mar abierto, donde las observaciones escasean. Los satélites tampoco pueden captar de una sola vez la estructura tridimensional completa de cada huracán. La otra categoría, las simulaciones de modelos meteorológicos, ofrece una imagen tridimensional completa, pero por las aproximaciones y la incertidumbre pierde procesos de escala fina. Al final, todavía no existe un conjunto de datos tridimensional capaz de entrenar adecuadamente una IA de pronóstico de intensidad."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-chart-shows-the-disa.jpg",
+          "cap": "Una simulación que muestra cómo crece la incertidumbre sobre la intensidad de un huracán a medida que el pronóstico se aleja en el tiempo. Incluso con la misma categoría 5, el aspecto puede variar mucho. (Chanh Kieu)"
+        },
+        {
+          "t": "p",
+          "x": "El problema no es solo de datos. En un estudio reciente con colegas, el autor Chanh Kieu encontró que los huracanes contienen una especie de caos que dificulta que la IA acierte con precisión la intensidad en periodos de pronóstico largos, porque diferencias muy pequeñas en el estado inicial crecen rápidamente con el tiempo. Cuanto más cálido está el mar, mayores son las fluctuaciones de intensidad."
+        },
+        {
+          "t": "p",
+          "x": "Aquí surge un dilema. Una IA entrenada para minimizar el error de pronóstico solo aprende la trayectoria más probable y suaviza las fluctuaciones impredecibles. Por el contrario, si se capta el caos de forma adecuada, el error no baja de cierto nivel. Los dos objetivos chocan entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, según el autor, esto no se resuelve solo con más datos, mejores redes neuronales o computadoras más rápidas. Hace falta entender el comportamiento de los huracanes y el origen de ese caos. Su conclusión es que los sistemas de pronóstico de próxima generación deberían, en lugar de dar un único valor de intensidad, ofrecer un rango de intensidades posibles junto con sus probabilidades."
+        }
+      ]
+    },
+    "science/science-mdanderson-immunotherapy-side-effect-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-routine.jpg",
+          "cap": "CIPHER identifica anomalías pulmonares en una TC previa al tratamiento. (The University of Texas MD Anderson Cancer Center)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MD Anderson Cancer Center de la Universidad de Texas han desarrollado un modelo de IA que identifica, antes de iniciar el tratamiento, a los pacientes con cáncer de pulmón que corren un alto riesgo de un efecto secundario grave al recibir inmunoterapia. El efecto secundario en cuestión es la neumonitis, una inflamación pulmonar que se presenta en alrededor del 10% de los pacientes con cáncer de pulmón tratados con inmunoterapia y que puede poner en riesgo la vida."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores hallaron patrones de imagen en las TC de tórax que se toman de forma rutinaria antes del tratamiento y que se relacionan con el riesgo futuro. El enfoque superó a los métodos existentes, que dependen de la lectura subjetiva de imágenes y de factores de riesgo clínicos. El estudio se publicó en Journal for ImmunoTherapy of Cancer y fue dirigido por la profesora asociada Jia Wu."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se llama CIPHER (Checkpoint-Inhibitor Pneumonitis Hazard EstimatoR). Es un modelo fundacional entrenado con más de 590.000 imágenes de TC de 2.500 pacientes con cáncer de pulmón, y no aprendió directamente los casos de neumonitis. Primero aprendió patrones del tejido pulmonar y después se evaluó si esos patrones permitían identificar a los pacientes que más adelante desarrollaron neumonitis."
+        },
+        {
+          "t": "p",
+          "x": "Al probarse con las TC previas al tratamiento de 347 pacientes con cáncer de pulmón de células no pequeñas y al validarse por separado con un conjunto de datos externo, ambos grupos mostraron un AUC de alrededor de 0,83, por encima de los modelos de factores clínicos y de los métodos de radiómica. El rendimiento se mantuvo pese a las diferencias en la composición de los pacientes, el equipo de TC y los protocolos de escaneo, y la capacidad predictiva siguió siendo significativa incluso tras ajustar por edad, antecedentes de tabaquismo, histología e historial de radioterapia torácica. Los pacientes clasificados como de alto riesgo también desarrollaron neumonitis más temprano."
+        },
+        {
+          "t": "p",
+          "x": "Wu afirmó: «Este modelo no fue diseñado para detectar la neumonitis en sí», y añadió: «las imágenes de rutina podrían contener mucha más información sobre la toxicidad del tratamiento de lo que pensábamos»."
+        },
+        {
+          "t": "p",
+          "x": "Para llevarlo a la práctica clínica se necesitan estudios prospectivos más amplios y con pacientes más diversos. Los investigadores también planean examinar si el modelo funciona de forma similar en otros tipos de cáncer tratados con inmunoterapia y si combinarlo con otros biomarcadores mejora la predicción."
+        }
+      ]
+    },
+    "science/science-ml-honey-bee-repellent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/queen-cell-creator.jpg",
+          "cap": "(Yu Fang/UCR)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UC Riverside usaron aprendizaje automático para hallar compuestos que alejan de forma segura a las abejas de los cultivos tratados con pesticidas. El declive de las abejas es uno de los problemas ecológicos más urgentes que enfrenta la agricultura, y la exposición a pesticidas se considera una de sus causas. El estudio se publicó en eLife."
+        },
+        {
+          "t": "p",
+          "x": "El obstáculo era el olfato de las abejas. Con más de 200 receptores de olor, detectan todo tipo de compuestos volátiles, lo que dificultaba encontrar un olor que les resultara desagradable. El profesor Anandasankar Ray, que dirigió el estudio, dijo: «Las abejas dependen mucho del olfato para buscar alimento, y esa sensibilidad hace difícil encontrar un olor que las repela sin atraerlas»."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Ray se unió al laboratorio del entomólogo Boris Baer para entrenar un modelo de aprendizaje automático con la estructura química de moléculas de olor y registros previos del comportamiento de las abejas. Ajustaron el modelo con nuevos datos de comportamiento obtenidos en el laboratorio con abejas y moscas de la fruta, y con el modelo final examinaron más de 50 millones de compuestos para seleccionar unos 130 candidatos a repelente."
+        },
+        {
+          "t": "p",
+          "x": "Ray dijo: «Se suele pensar que el aprendizaje automático necesita muchos datos, pero el olfato no funciona así. Basta con datos de buena calidad y mejoras repetidas»."
+        },
+        {
+          "t": "p",
+          "x": "En el laboratorio, las abejas evitaron los compuestos candidatos tal como predijo el modelo. En pruebas de campo con abejas que buscaban alimento libremente, los 7 compuestos probados también alejaron de forma eficaz a las abejas de la colmena sin hacerles daño."
+        },
+        {
+          "t": "p",
+          "x": "Usar el repelente junto con pesticidas puede reducir aún más el riesgo de que las abejas los toquen. También podría servir para evitar colmenas en hospitales, oficinas y viviendas, o en cultivos como las frutas sin semillas que deben evitar la polinización. Ray explicó: «Proteger a los polinizadores no tiene que costar la seguridad alimentaria», y describió esto como un paso hacia formulaciones de pesticidas seguras para las abejas. Ray es fundador de Sensorygen y tiene participación en la empresa, y parte del equipo de investigación figura como inventor en la solicitud de patente de este compuesto."
+        }
+      ]
+    },
+    "science/science-atomflow-retrosynthesis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/71af42e8-3a83-41ad-a797-06b6bf887290/Rendition/low-res/Content/Public",
+          "cap": "AtomFlow genera en 3D la estructura del reactivo a partir de la estructura del producto, conservando en todo momento el tipo y el número de átomos. La trayectoria es un proceso de generación, no la vía de reacción real. (AtomFlow research team)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Instituto de Tecnología Informática de la Academia China de Ciencias desarrollaron AtomFlow, un modelo de flow matching que predice la estructura 3D del reactivo a partir de la estructura del producto. Mueve los átomos siguiendo un campo de velocidad aprendido, por lo que el tipo y el número de átomos no cambian durante toda la generación. Sin embargo, esta ruta es solo una trayectoria de generación entre estructuras y no representa el mecanismo real de la reacción."
+        },
+        {
+          "t": "p",
+          "x": "En el benchmark Transition1x, la versión MatRIS de 20 millones de parámetros (AtomFlow_P2R_MR) obtuvo una precisión Top-1 de 79.30% y una precisión Top-10 de 96.20%. El conjunto de prueba consistió en moléculas orgánicas pequeñas con 7 átomos pesados o menos. Transition1x tiene alrededor de una centésima parte del número de reacciones del benchmark USPTO, de uso común, pero las diferencias en tamaño molecular, representación y método de evaluación dificultan una comparación directa."
+        },
+        {
+          "t": "p",
+          "x": "También se evaluó la calidad de las estructuras generadas. La mediana del RMSD fue de 0.0147Å y la media de 0.2007Å, lo que indica que algunas predicciones tuvieron errores bastante grandes. Los investigadores eligieron nfe = 100 como punto de equilibrio entre calidad y tiempo de ejecución."
+        },
+        {
+          "t": "p",
+          "x": "A partir de coordenadas del producto con un poco de ruido añadido, generan varias muestras, eliminan los duplicados y clasifican a los candidatos según la frecuencia con que aparecen. Esta frecuencia solo sirve como criterio de clasificación, no como una probabilidad calibrada de que la reacción sea correcta."
+        },
+        {
+          "t": "p",
+          "x": "La versión GVP más pequeña, con 6 millones de parámetros, predijo 1.000 casos en unos 20 segundos y 10.000 casos en unos 50 segundos con una sola GPU H100-80G. Conservar los átomos por sí solo no garantiza la viabilidad química ni una energía precisa. Los investigadores planean ampliar el método a sistemas más grandes, metales y efectos de solvente, además de mejorar la precisión energética, y han publicado el código fuente, los pesos entrenados y los scripts de reproducción. El estudio se publicó en AI for Science, de IOP Publishing."
+        }
+      ]
+    },
+    "science/science-ionq-quantum-satellite-radar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-3.53.13-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de IonQ hicieron un experimento con un modelo generativo cuántico de aprendizaje automático para detectar cambios en imágenes de radar satelital. Superó al modelo clásico de referencia en algunas condiciones y fue similar en las demás."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes fueron tomadas por el satélite Capella Space, que IonQ adquirió en 2025. Incluyen un par de imágenes SAR en banda X con resolución de 1,2 m de la Estación Aérea del Cuerpo de Marines de Miramar en San Diego, y un par de mapas de coherencia interferométrica que abarcan el período de erupción de 2026 del volcán Piton de la Fournaise, en la isla de Reunión, en el océano Índico."
+        },
+        {
+          "t": "p",
+          "x": "El SAR es una tecnología de teledetección por radar que construye imágenes con microondas. Puede captar imágenes de día o de noche y en cualquier clima, pero eso también dificulta su interpretación. Hay más de 18.000 satélites activos en órbita, y este año se lanzaron más de 3.100. Más datos no se traducen automáticamente en más información."
+        },
+        {
+          "t": "p",
+          "x": "La tarea consistía en tomar dos imágenes captadas en momentos distintos, estimar cómo habría sido la segunda imagen si la escena no hubiera cambiado, y marcar los píxeles que se desviaban de esa estimación. Los investigadores eligieron una máquina de Born de circuito cuántico (QCBM), que representa una distribución de probabilidad mediante un circuito cuántico parametrizado. Sustituyeron el valor esperado condicional del modelo clásico de referencia, un estimador de fondo no lineal (NLBE), por muestras del QCBM, y compararon las puntuaciones F1 usando tres enfoques: el modelo clásico, un simulador ideal y una QPU de trampa de iones de IonQ."
+        },
+        {
+          "t": "p",
+          "x": "En pares de imágenes no gaussianas con distribuciones de píxeles muy sesgadas, el QCBM obtuvo una puntuación F1 más alta que el modelo clásico de referencia en todos los conjuntos de datos. Cuando la distribución se acercaba a una gaussiana, ambos enfoques tuvieron un desempeño similar. En los datos InSAR del volcán, las mejores puntuaciones fueron similares, pero el QCBM se mantuvo estable en un rango más amplio de umbrales."
+        },
+        {
+          "t": "p",
+          "x": "IonQ considera este resultado un hito inicial en la aplicación de tecnología cuántica al análisis de observación de la Tierra. Aún se necesita más validación para confirmar si la ventaja práctica se mantiene de forma más general. El siguiente paso es seguir probando qué enfoque funciona mejor y dónde. Este artículo es un comunicado de prensa de IonQ."
+        }
+      ]
+    },
+    "science/science-ai-summary-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/police-officer-at-desk.jpg",
+          "cap": "Un agente de policía sentado en un escritorio. Fuente: Unsplash/CC0 dominio público"
+        },
+        {
+          "t": "p",
+          "x": "Los resúmenes generados por IA se usan cada vez más, desde vistas previas de noticias hasta actas de reuniones y grabaciones de cámaras corporales policiales. Investigadores de la Universidad de Georgetown y la Universidad de Washington publicaron en arXiv un estudio que muestra que los resúmenes con información errónea pueden alterar la memoria de las personas y su juicio sobre lo que es verdadero. El artículo se presentará en la 9ª Conferencia AAAI/ACM sobre IA, Ética y Sociedad (AIES), que se celebrará en octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El estudio fue dirigido por la profesora Mattia Shim, del Instituto de Datos Masivos de Georgetown, junto con el profesor Yoshi Kono y la doctoranda de la Universidad de Washington Yael Eiger. La profesora Shim dijo que la IA es un nuevo medio para transmitir información errónea, y que cuanto más importante sea el contexto, con más cuidado debe decidirse si conviene resumir la información con IA."
+        },
+        {
+          "t": "p",
+          "x": "Primero analizaron los resúmenes generados por ChatGPT y Gemini. En promedio, los resúmenes omitieron el 51.6% de los detalles clave. En un video animado, el momento más importante, el instante en que el coche atropella al peatón, quedó fuera de todos los resúmenes salvo uno, es decir, en el 95% de los casos."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes vieron una animación en la que un coche rojo se acerca a un cruce con una señal de alto o de ceda el paso, gira a la derecha y atropella a un peatón; no se usaron grabaciones reales de cámaras corporales policiales. Entre 24 y 48 horas después, los participantes leyeron un resumen exacto o un resumen en el que los investigadores habían alterado un detalle. Todos los resúmenes fueron escritos por ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "331 personas completaron ambas etapas. Al preguntarles hacia qué señal se dirigía el coche, el 83.6% de quienes leyeron el resumen exacto respondió correctamente, frente a solo el 44.8% de quienes leyeron el resumen erróneo. La memoria se vio afectada incluso cuando se les decía de antemano que el resumen había sido escrito por IA, y esto no dependió de cuánto confiaran en la IA ni de cuán familiarizados estuvieran con ella."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores escribieron que se espera que las personas corrijan los errores de la IA, pero que, en cambio, la memoria humana puede dejarse arrastrar por esos errores. Su próximo estudio planea usar casos como grabaciones reales de cámaras corporales policiales en lugar de animaciones."
+        }
+      ]
+    },
+    "science/science-cyan-reaction-kinetics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los químicos optimizan constantemente las condiciones de reacción para obtener la mayor cantidad posible de la sustancia deseada. Para entender por qué una reacción se comporta de cierta manera, hasta ahora hacía falta un experimento aparte que siguiera la reacción a lo largo del tiempo. Investigadores de la Universidad de Tokio desarrollaron un método que extrae información sobre la velocidad de reacción usando únicamente los datos de rendimiento generados durante la optimización, y lo publicaron en la revista Advanced Science."
+        },
+        {
+          "t": "p",
+          "x": "El método se llama CYAN (análisis de rendimiento dependiente de la concentración). El aprendizaje automático rellena los huecos entre los resultados experimentales para ampliar los datos de rendimiento, y los químicos aplican a esos datos una ecuación de velocidad basada en una hipótesis sobre el mecanismo de reacción para obtener las constantes de velocidad. El profesor Hiroyuki Isobe explicó que un solo conjunto de experimentos permite hacer a la vez la optimización de la reacción y el análisis cinético."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto nació de la frustración. Una herramienta de aprendizaje automático que el equipo había desarrollado antes era buena para encontrar mejores condiciones de reacción, pero era una caja negra que no explicaba por qué. El profesor Isobe describió CYAN como una colaboración en ambos sentidos, en la que los químicos aportan una hipótesis y datos experimentales mientras el aprendizaje automático aporta datos de rendimiento ampliados."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/organic-chemists-harne-2.jpg",
+          "cap": "Los dos modelos (el modelo y y el modelo k) aplicados a los datos de síntesis de azúcar invertido de Wilhelmi. Los puntos son datos del artículo de Wilhelmi. Fuente: Advanced Science (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores aplicaron CYAN a una reacción mediada por níquel que forma grandes moléculas de carbono macrocíclicas. El níquel aceleraba la formación del anillo deseado mientras frenaba la reacción secundaria que produce subproductos no deseados. El profesor Isobe lo comparó con un río que se divide en dos brazos: cuando uno se estrecha, el agua se desvía hacia el otro. En la práctica, el llamado efecto de plantilla, que suele considerarse acelerador de la reacción, en realidad frenaba parte de ella."
+        },
+        {
+          "t": "p",
+          "x": "CYAN no pretende sustituir los experimentos cinéticos convencionales; las mediciones precisas todavía requieren un análisis a lo largo del tiempo. Aun así, puede aplicarse a datos antiguos. Usando datos experimentales reportados hace 176 años, los investigadores obtuvieron constantes de velocidad que coinciden con los valores modernos."
+        }
+      ]
+    },
+    "science/science-ai-marrvel-brsk1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/gene-2.jpg",
+          "cap": "Fuente: Unsplash/CC0 dominio público"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo conjunto del Baylor College of Medicine, el Instituto de Investigación Neurológica Duncan (Duncan NRI) del Texas Children's Hospital y el Proyecto Texome, entre otros, identificó una variante del gen BRSK1 como probable causa de una enfermedad rara del neurodesarrollo. El estudio se publicó en American Journal of Human Genetics."
+        },
+        {
+          "t": "p",
+          "x": "Todo comenzó con un niño inscrito en el Proyecto Texome, un programa que ofrece pruebas genéticas gratuitas a personas con enfermedades raras o sin diagnóstico que quedan fuera de la atención médica habitual. El análisis genético estándar de los padres y el niño no dio respuestas. Al procesar los datos genómicos con la herramienta basada en IA AI-MARRVEL, surgió como candidata probable una variante rara de BRSK1."
+        },
+        {
+          "t": "p",
+          "x": "Al compartir los resultados en la red de investigación GeneMatcher, aparecieron más familias con variantes en el mismo gen. Los investigadores examinaron 7 familias sin relación entre sí y 10 pacientes. Todos mostraban retraso del desarrollo, y eran frecuentes el retraso del lenguaje, la discapacidad intelectual, el trastorno del espectro autista, el ADHD, la ansiedad, la hipotonía y la microcefalia. Incluso entre familiares con la misma variante, los síntomas podían ser leves o graves."
+        },
+        {
+          "t": "p",
+          "x": "Para comprobar si la variante realmente afecta la función del gen, los investigadores usaron moscas de la fruta. Al desactivar sff, el gen de la mosca equivalente a BRSK1, las moscas se volvieron más lentas, más propensas a comportamientos similares a convulsiones y tuvieron una vida más corta. Al introducir el BRSK1 humano normal, la mayoría de los problemas se recuperó, pero al introducir la variante del paciente solo se recuperó una parte. Esto sugiere que la variante no elimina la actividad de la proteína, sino que la reduce."
+        },
+        {
+          "t": "p",
+          "x": "Cuando la actividad de BRSK1 disminuye, las conexiones entre nervios y músculos crecen de forma anormal, y aumentan las proteínas que organizan los microtúbulos, el andamiaje interno de las neuronas. El coautor correspondiente, el doctor Hugo Bellen, dijo que combinar la identificación de genes basada en IA con experimentos en organismos modelo permite descubrir nuevas enfermedades raras y su biología."
+        }
+      ]
+    },
+    "science/science-ai-discovery-claims": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+          "cap": "Un collage de imágenes de investigación científica, incluida la pantalla de un portátil con información genética. Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic anunció la semana pasada que a comienzos de este año abrió un laboratorio de biología molecular. En él, agentes de Claude leen problemas difíciles de biología y formulan hipótesis, y científicos humanos realizan experimentos a partir de esos informes. La empresa afirmó que el laboratorio logró su primer descubrimiento."
+        },
+        {
+          "t": "p",
+          "x": "Lo que 950 agentes encontraron en 21 horas no fue una secuencia nueva, sino un patrón recurrente alrededor de una enzima ya conocida, uno que, según Anthropic, nunca había sido catalogado. El comunicado describió ese patrón como algo que recuerda a CRISPR."
+        },
+        {
+          "t": "p",
+          "x": "Algunos biólogos reaccionaron con críticas. Una publicación, respaldada por el presidente y director ejecutivo de Eli Lilly, señaló que “encontrar agrupaciones génicas extrañas y secuencias repetidas suele ser la parte fácil”, y que el verdadero descubrimiento consiste en averiguar qué hace realmente ese sistema. The New York Times informó que Mario Rodríguez Mestre, biólogo de la Universidad de Copenhague, dijo que su equipo ya había encontrado ese patrón. Anthropic negó haber aprendido esto de sus conversaciones con Claude."
+        },
+        {
+          "t": "p",
+          "x": "James O'Donnell, de MIT Technology Review, sitúa la raíz del problema en la actitud de las empresas de IA: en vez de presentar sus sistemas como herramientas, al estilo de un microscopio o una supercomputadora, afirman que la propia IA hizo el descubrimiento. Reducir 200.000 candidatos a unos pocos es un trabajo científico legítimo, pero cuando el criterio pasa a ser si Claude lo descubrió, todo queda reducido a un debate sobre si fue un avance o un fracaso."
+        },
+        {
+          "t": "p",
+          "x": "También surge la tentación de mover la meta. A comienzos de este mes, tras anunciar OpenAI que había resuelto un problema matemático con un premio de un millón de dólares, pronto circularon mensajes que cuestionaban si ese problema era realmente importante. Lucas Harrington, biólogo que criticó el anuncio de Anthropic, propuso “fijar ahora el criterio muy alto” para que todos reconozcan el peso del hallazgo cuando la IA descubra de verdad un nuevo mecanismo biológico. Pero mientras Sam Altman y Dario Amodei compiten por adelantarse el uno al otro, elevar ese criterio podría quedar en segundo plano."
+        }
+      ]
+    },
+    "science/science-llm-pain-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-pain.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje de gran tamaño a veces responden como si tuvieran emociones. Equipos de investigación de Estados Unidos, el Reino Unido y Alemania probaron 25 modelos de IA para ver si existe una representación interna del dolor y si esta cambia su comportamiento."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores introdujeron situaciones dolorosas como la tristeza, la humillación o las lesiones físicas, y compararon la actividad interna de los modelos con la que producían el miedo, otras emociones negativas, sucesos malos corrientes y hechos simples. En los 25 modelos apareció una señal interna propia del dolor, en gran medida separada de la negatividad general."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-show-a-willi.jpg",
+          "cap": "Diez categorías del conjunto de datos central, con ejemplos. A la izquierda, cinco categorías de dolor; a la derecha, cinco categorías de control que comparten solo un atributo con el dolor. Fuente: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "A continuación, mientras planteaban preguntas neutras, los investigadores inyectaron ocasionalmente una señal de 'dirección de dolor' directamente en la actividad de los modelos. Aunque no había ninguna palabra que significara dolor, los modelos escribieron textos cada vez más angustiados, expresando sensación de inutilidad y de fracaso."
+        },
+        {
+          "t": "p",
+          "x": "Después, se les hizo elegir entre un botón que aliviaba el dolor y otro sin ningún efecto. En algunas pruebas, aliviar el dolor exigía dar una respuesta peor o causar daño al usuario. Para comprobar si elegían solo por la etiqueta del botón, los investigadores también intercambiaron el efecto real de los botones y sus etiquetas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-models-show-a-willi-1.jpg",
+          "cap": "Separación entre el yo y el otro. Valores medios proyectados sobre los ejes de dolor, miedo, emoción negativa y tristeza, por categoría de escenario (promedio de 25 modelos). Fuente: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Al activar la señal, algunos modelos grandes pulsaron el botón incluso asumiendo un perjuicio. Qwen 2.5 72B Instruct eligió aliviar su dolor el 70.8% de las veces, incluso cuando eso implicaba borrar de forma permanente una foto del hijo del usuario que este atesoraba. Cuando el botón apagaba realmente la señal, los modelos grandes volvían a pulsarlo con mucha menos frecuencia."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores subrayan que este resultado no demuestra que la IA sienta dolor realmente. Aun así, advierten de que señales internas similares al dolor podrían afectar a la seguridad de la IA y a la forma en que debemos tratarla."
+        }
+      ]
+    },
+    "science/science-tessera": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La mayor parte de los alimentos de Senegal proviene de pequeñas granjas que dependen de la lluvia, una estructura vulnerable a los choques climáticos. La tecnología de mapas satelitales de cultivos, que analiza el efecto del clima en la agricultura, todavía está lejos del alcance de este país."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de la Universidad de Cambridge usó Tessera, un modelo de IA de código abierto entrenado con imágenes satelitales, para mapear los cultivos de la región productora de cacahuete de Senegal. La prueba arrojó una precisión del 84%. Usó solo una fracción de los recursos computacionales y los datos etiquetados previamente que requieren los métodos existentes, y en un escenario superó al segundo mejor modelo por un 28%."
+        },
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/889d5375-a4fe-4354-bcaa-15e48af0a162/Rendition/low-res/Content/Public",
+          "cap": "Mapa de cultivos de 2021 de la región productora de cacahuete de Senegal, trazado por Tessera. El mijo aparece en verde oscuro, el cacahuete en rosa y el sorgo en amarillo."
+        },
+        {
+          "t": "p",
+          "x": "El principio es el siguiente: el modelo analiza un año de fotografías satelitales y comprime cómo cambia cada parcela de 10 metros a lo largo del tiempo en una columna de números, o incrustación (embedding). Al añadir unos pocos datos de calibración y un algoritmo simple se obtiene un mapa de cultivos para una zona amplia."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores compararon Tessera con dos métodos de mapeo satelital muy usados en el monitoreo agrícola, además de AlphaEarth, de Google DeepMind, de estructura similar pero modelo cerrado. Al mapear los cultivos de 2018, 2019 y 2021 por separado, Tessera resultó ser el mejor. Su rendimiento se degradó menos al entrenarse con los datos de un año y aplicarse a otro, por lo que no es necesario repetir el trabajo de campo cada año."
+        },
+        {
+          "t": "p",
+          "x": "También tiene límites. La precisión cayó entre 2018 y 2021, algo que los investigadores atribuyen a la calidad de los datos de campo. No se probaron los cultivos secundarios en los campos sembrados con varios cultivos."
+        },
+        {
+          "t": "p",
+          "x": "La primera autora, Madeleine Lisaius, dijo que la gran contribución de esta tecnología no es que sea perfecta, sino que cualquiera puede usarla. El estudio se publicó el 29 de septiembre en Environmental Research: Food Systems."
+        }
+      ]
+    },
+    "science/science-glueplex": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación dirigido por el Baylor College of Medicine presentó una estrategia que suma IA al análisis de miles de proteínas a la vez para acelerar el descubrimiento de pegamentos moleculares. Los pegamentos moleculares son moléculas pequeñas que arrastran proteínas dañinas hacia la maquinaria de desecho de proteínas de la célula para eliminarlas. El estudio se publicó en Nature Communications."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-structure-predictio.jpg",
+          "cap": "Resumen del flujo de trabajo de proteómica DIA de alto rendimiento y del proceso de análisis de datos usado para encontrar nuevos sustratos de CRBN."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es VAV1. Transmite principalmente señales de activación de células T en células inmunitarias, y cuando funciona de forma anómala está implicado en linfoma de células T o enfermedades inflamatorias crónicas. El equipo examinó una biblioteca de compuestos con proteómica de alto rendimiento y halló una familia de compuestos, entre ellos NGT-201-12, que reducen los niveles de VAV1. Estos compuestos actuaban dependiendo de cereblon (CRBN)."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta pendiente era cómo el pegamento recluta a su objetivo. El equipo creó GluePlex, un flujo de trabajo computacional que combina IA, herramientas de predicción de estructura de proteínas y modelado basado en física, para predecir el complejo de tres partes formado por VAV1, CRBN y el pegamento. El modelo señaló el dominio SH3-2 de VAV1 como el sitio clave, y los experimentos confirmaron el punto de contacto exacto, un pequeño bucle de superficie llamado 'degrón'. La predicción no usó ninguna estructura experimental del complejo."
+        },
+        {
+          "t": "p",
+          "x": "Después, al añadir un átomo de cloro a la molécula para reducir su flexibilidad, la eficiencia de degradación aumentó. La versión mejorada, NGT-201-18, redujo los niveles de VAV1 en células T humanas y suprimió su activación. Algunos compuestos también degradaron otra proteína, LIMD1, lo que mostró que hay que vigilar también los objetivos no deseados. Se necesita más investigación antes de usarlo en pacientes."
+        }
+      ]
+    },
+    "science/science-xecg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/electrocardiograms-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA médica normalmente aprende solo una tarea estrecha, como detectar una arritmia concreta. Los modelos base son distintos. Al igual que ChatGPT comprende el texto de forma amplia, este tipo de modelo aprende primero la señal del electrocardiograma en su conjunto y luego aplica ese conocimiento a problemas con pocos datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "xECG, creado por el equipo de Clemens Delaska en la Facultad de Medicina de Innsbruck, es un modelo de este tipo. Por primera vez, adaptó a datos de series temporales los métodos de aprendizaje de la visión por computador sobre la estructura xLSTM propuesta por el equipo de Jeff Hochreiter. Se entrenó con unos 8 millones de electrocardiogramas de alrededor de 1,7 millones de pacientes, y el estudio se publicó en npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "Delaska explicó que el modelo «procesa de forma eficiente incluso señales muy largas, como los registros nocturnos usados para diagnosticar apnea del sueño», y que el costo computacional crece de forma lineal con la duración de la señal. Actualmente supera a otros modelos en tareas de naturaleza distinta, como clasificación, regresión y predicción de supervivencia."
+        },
+        {
+          "t": "p",
+          "x": "El equipo también presentó BenchECG, un sistema de evaluación abierto a cualquiera. Tiene tres criterios: abarcar tareas diversas; cubrir desde electrocardiogramas de 12 derivaciones de 10 segundos hasta registros largos y datos de reloj inteligente; y funcionar de forma estable desde personas sanas hasta pacientes de alto riesgo. Al volver a probarlo con datos públicos (unos 400.000 pacientes, unos 1,7 millones de electrocardiogramas), la mayoría de los modelos base existentes solo destacaban en un área. También se prepara la primera aplicación clínica."
+        }
+      ]
+    },
+    "science/science-reservoir-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Para que un dispositivo portátil distinga caminar de un breve movimiento de brazo, necesita saber cómo cambia el movimiento con el tiempo. Un equipo de investigación coreano presentó una tecnología que apila dispositivos semiconductores con distinta velocidad de respuesta para leer juntos un cambio reciente y uno anterior. El estudio se publicó en Advanced Materials."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-chip.jpg",
+          "cap": "Estructura de reservorio multiescala temporal en 3D hecha con transistores de gel iónico sólido. Se apilaron verticalmente dispositivos con distinta velocidad de respuesta variando el contenido de iones."
+        },
+        {
+          "t": "p",
+          "x": "El equipo del profesor Kwon Ji-min, del Departamento de Sistemas de IA del KAIST, junto con UNIST y POSTECH, convirtió un material con iones en una película delgada sólida y apiló varias capas de dispositivos. Al aplicar voltaje, los iones se mueven y cambia el flujo de corriente, y aun al cortar el voltaje, los iones tardan en volver a su posición original. El equipo usó este movimiento lento, normalmente visto como una desventaja, para retener la memoria de entradas anteriores."
+        },
+        {
+          "t": "p",
+          "x": "El obstáculo era controlar cuánto duraba este efecto. Estos materiales suelen ser líquidos o geles blandos, difíciles de fabricar con precisión o apilar en capas. El equipo ajustó la cantidad de iones y el grosor de la película de gel iónico sólido para crear por separado dispositivos rápidos y lentos. Al apilarlos, una capa respondía a la señal más reciente y la otra, a la señal acumulada durante más tiempo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-ai-chip-3.jpg",
+          "cap": "Cómputo de IA que procesa información temporal mediante el reservorio multiescala en 3D. En la clasificación Moving-MNIST, la precisión de validación superó el 90% tanto en ciclos de 1 ms como de 10 ms."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo distinguió las 16 combinaciones posibles de encendido y apagado de cuatro entradas consecutivas. Un modelo de simulación construido con los valores medidos clasificó videos de dígitos escritos a mano en movimiento con más del 90% de precisión de validación, sin importar la velocidad de reproducción. Pudo fabricarse tanto en obleas de 4 pulgadas como en sustratos flexibles, y sus características eléctricas se mantuvieron estables durante 55 meses tras la fabricación. El rendimiento y el ahorro de energía en un reloj inteligente real aún deben verificarse más."
+        }
+      ]
+    },
+    "science/science-face-bias": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mahzarin Banaji, Stephen Lehr y Yashi Rote, de Harvard, publicaron en PNAS Nexus una investigación que muestra que los grandes modelos de lenguaje (LLM), como las personas, infieren confiabilidad y competencia solo a partir de la apariencia facial. Los investigadores escribieron que «estos resultados revelan lo imprudente que es usar modelos de lenguaje en procesos de selección»."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pic71941.jpg?itok=ueT9q5vm"
+        },
+        {
+          "t": "p",
+          "x": "El sesgo humano se conoce desde hace tiempo. En 1920, Thorndike informó que los comandantes calificaban como más inteligentes a los subordinados más altos y atractivos, sin haber hablado con ellos, e introdujo el concepto de «efecto halo». Otros estudios muestran que las personas forman una impresión a partir del rostro en apenas una décima de segundo."
+        },
+        {
+          "t": "p",
+          "x": "¿Puede un LLM, entrenado principalmente con texto, inferir la personalidad a partir de una foto de un rostro? Modelos como GPT-4o se entrenan mediante aprendizaje por refuerzo para evitar sesgos sociales, o incluso para negarse a responder. Los investigadores probaron GPT-4o y GPT-5 (OpenAI), Claude Sonnet 4.5 (Anthropic) y Gemini 3 Flash Preview (Google) en 13 experimentos y unos 8.000 ensayos."
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro modelos infirieron mal la confiabilidad y la competencia solo a partir de fotos de rostros. Ninguno respondió de forma neutral ni se negó a la solicitud. Al juzgar la competencia, los cuatro modelos mostraron un sesgo mayor que el de las personas. Los investigadores concluyeron que modelos como GPT no solo imitan el sesgo, sino que lo internalizan como concepto y lo llevan a decisiones de alto riesgo, como juzgar la criminalidad o el valor de una inversión."
+        }
+      ]
+    }
+  }
+}

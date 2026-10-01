@@ -1,0 +1,1122 @@
+{
+  "cards": {
+    "design/design-photoshop-relight-beta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+          "cap": "在Photoshop测试版中,用Relight图层添加光源的画面。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe在桌面版Photoshop测试版中加入了生成式AI功能Relight。它可以为图像添加可交互、非破坏性的全新光照,相当于在拍摄完成后重新布光。用户可以移动光源位置,调整强度、颜色和扩散程度,并实时查看效果。"
+        },
+        {
+          "t": "p",
+          "x": "Relight会先抹去图像原有的光照,再用生成式AI重新生成光照。最多可以添加三个人工光源,并逐一单独调节。全部关闭后只保留环境光或原始光线,每个光源的开关方式都和真实照明一样。"
+        },
+        {
+          "t": "p",
+          "x": "社交媒体上发布的早期实验反响不一。有人认为它可以取代手工光绘,至少能成为一个很好的起点,大幅加快工作进度。但也有人指出质感被抹平,结果看起来更像3D虚拟形象,而不是写实的人像照片。像其他AI编辑工具一样,它也容易在无意间改变人物的样貌。围绕NVIDIA DLSS 5的争论,究竟是保留原图还是生成新画面,在这里又重演了一次。"
+        },
+        {
+          "t": "p",
+          "x": "这种不自然的感觉,可以通过把Relight当作调整图层使用,并手动混合结果来恢复原始质感来减轻。它还只是刚刚上线的测试版功能,正式发布前很可能会继续调整。"
+        },
+        {
+          "t": "p",
+          "x": "要使用它,需更新到最新测试版(Version: 27.10.0 202600802.m.3625),打开图像后在图层菜单中选择New Relight layer。屏幕正中央会出现一个默认的白色光源,可以拖到画布内外移动。图层面板中会单独出现一个Relight Layer,原始像素保持不变。调整完成后点击Done,就会以原始分辨率生成最终结果。不过每点一次Done都会消耗30个积分。"
+        }
+      ]
+    },
+    "design/design-runway-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
+          "cap": "Runway Ads发布时的配图。"
+        },
+        {
+          "t": "p",
+          "x": "Runway发布了新产品Runway Ads,从头到尾运营并优化付费广告的创意环节。只要连接广告账户和品牌素材包,它就能制作视频和图片素材,并把通过审核的变体直接发布到Meta、Google和TikTok。它会从同一平台读取成效数据,并基于真正带来预算的素材制作下一轮素材。"
+        },
+        {
+          "t": "p",
+          "x": "效果广告往往是投放量越大越有利。但大多数广告主只会把预算真正投向他们制作的一小部分广告。没有持续迭代和稳定投放,就无法从正在运行的项目中榨取全部价值。找到有效的广告与其说取决于审美或判断,不如说取决于团队能做出多少变体。不论规模大小,拖住一家公司的往往不是分析或直觉,而是制作足够素材的能力。"
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads把制作、观察和修正效果广告系列的过程整合成一体来解决这个问题。对于大规模投放全球广告系列的大公司,测试会更快,变体会更多,本地化也更一致。小团队也可以每周投放数千条广告,并每天转向效果更好的方向。小商户和个人创作者则能在不占用主业时间的情况下进入新的渠道。"
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads以Runway的智能体技术为基础,自动完成广告生成与投放过程中的关键步骤,但所有权和审批仍保留在人的手中。"
+        },
+        {
+          "t": "p",
+          "x": "Runway把这款产品建立在自身用于发展效果营销、尤其是Meta和TikTok广告的基础设施之上。7月以来,周广告投放量从77条增长到约900条,广告支出回报率翻了一倍。转化率上升约34%,点击率保持不变。尽管为扩大规模而增加了支出,同期每位订阅者的成本仍下降了41%。"
+        },
+        {
+          "t": "p",
+          "x": "Runway联合CEO阿纳斯塔西斯·格尔马尼迪斯(Anastasis Germanidis)说,我们做Runway Ads是因为我们自己需要它。他还说,把广告的生成、发布和衡量放进一个系统,而不是拼接三个独立工具,让我们的付费广告效率一目了然,也让我们能更快行动、尝试更多方案,从而抢占市场份额。"
+        },
+        {
+          "t": "p",
+          "x": "Runway目前正与部分企业客户试运行Runway Ads。告知其付费广告项目后,企业销售团队会主动联系。"
+        }
+      ]
+    },
+    "design/design-owlcad-parametric-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
+          "cap": "用OwlCAD制作的行星齿轮箱。"
+        },
+        {
+          "t": "p",
+          "x": "Spare Matter Corp发布了用于3D打印的参数化CAD软件OwlCAD测试版。它完全在浏览器中运行,无需安装或账户。几何引擎在用户的电脑上处理模型,无需等待服务器响应。包含所有导出格式的完整编辑器免费使用,即使出售打印成品和文件也不收取许可费用。AI功能以及通过MCP服务器实现的代理访问,包含在每月12美元、每年120美元的Pro套餐中。"
+        },
+        {
+          "t": "p",
+          "x": "AI 3D生成器一直以来都能在屏幕上做出看似可信的形状。问题出现在需要把一个孔扩大0.4mm的时候——三角形网格无法记住那原本是个孔。OwlCAD提出了一个更朴素但实用的方案:尺寸保持可编辑,编辑历史也会保留。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/2-editor-dimensions-1536x960.png",
+          "cap": "可以直接修改尺寸的编辑器界面。"
+        },
+        {
+          "t": "p",
+          "x": "只要用文字描述零件,参数化模式就会返回由基本实体、布尔运算和变换组成的节点树,所有尺寸都可以持续修改。把30mm改成32mm,整个零件会重新生成,也能像其他编辑一样撤销。“Modify with AI”功能所做的修改也不会固化在形状里,而是累积在模型历史中。公司的说法很简单:网格记住的是看起来像什么,参数化模型记住的是如何被造出来的。"
+        },
+        {
+          "t": "p",
+          "x": "AI之下是一套完整的编辑器。它使用约束草图、拉伸·旋转·扫描·放样、按边设置的圆角与倒角、带配合与BOM的装配体、变量与公式,以及齿轮、螺纹、铰链、外壳、Gridfinity收纳盒等33种生成器。面向打印,还提供自定义公差预设、悬垂·薄壁·水密性检查、打印机配置文件、自动摆放方向以及质量与成本估算。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/4-print-check-1536x960.png",
+          "cap": "打印前检查悬垂和壁厚的界面。"
+        },
+        {
+          "t": "p",
+          "x": "使用托管的MCP服务器,Claude Code、Claude Desktop、Cursor等通过HTTP通信的MCP客户端,无需CAD应用即可创建和修改模型。借助29个工具,代理可以搭建模型树、渲染预览自行检查、确认悬垂与打印体积、计算所需耗材量和成本。较大的零件还可以拆分为用销钉、卡槽、定位针和螺丝连接的两部分。公司公布的基准测试显示,Gemini 3.6 Flash制作并验证了一个带四个孔的80×60×5mm安装板,并估算其耗费PLA 18.5g。"
+        }
+      ]
+    },
+    "design/design-core77-designer-judgment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
+          "cap": "摆放着草图和模型的设计工作台。"
+        },
+        {
+          "t": "p",
+          "x": "在帕森斯设计学院任教近30年的教授史蒂文·彭姆(Steven Pum),长期以来把年轻设计师的价值归于技术熟练度,绘图、制作、渲染、打样,以及掌握新数字工具的能力。如今几分钟就能产出光滑的图像、演示文稿,甚至视觉方向。当生产变得普遍,别的东西就变得稀缺。"
+        },
+        {
+          "t": "p",
+          "x": "他认为,竞争力已经转移到了上游。美丽的图像不再稀缺,知道哪种图像值得做才变得重要。设计师在做一把椅子之前,先要决定这把椅子是否真的需要、谁会用它、它要传达什么。AI可以帮忙动手制作,却无法为决定承担责任。正因如此,作品集往往不是靠完成作品,而是靠失败的实验、放弃的概念以及背后的思考过程,展现出更多东西。"
+        },
+        {
+          "t": "p",
+          "x": "研究结果也并不一致。2025年一项针对5172名客服人员的研究发现,生成式AI辅助工具平均将生产力提高了15%,经验较少的人获益更大。相比之下,2024年一项有60人参与的实验发现,使用AI图像生成器的一方设计固化更严重,想法的数量、多样性和原创性都更低。2025年,一项针对某科技咨询公司250名员工的现场实验发现,AI带来的创造力提升在元认知策略较强的人身上最为明显。"
+        },
+        {
+          "t": "p",
+          "x": "彭姆并不是要把设计师和AI分开,而是主张谨慎决定AI该在什么时候介入流程。审查作品时,他会问设计师选择了哪个问题、放弃了哪些方案、原因是什么。在引入AI之前,他会留出时间观察客户、了解背景,让设计师自己定义问题。如果是改善医院导视系统的委托,做法是先问患者为什么会迷路,而不是先出设计稿。培养专业能力所需的摩擦,有时值得保留。"
+        },
+        {
+          "t": "p",
+          "x": "他设想的未来设计师,不是熟悉所有AI工具的人,而是知道何时使用、该问什么、该怀疑什么、何时不该用的人。一个小时能产出100个概念的设计师可能更高产;能察觉其中99个都在解决错误问题的设计师可能更有价值。他的结论是,组织评估的标准也不该只有速度、数量和完成度,还应该包括问题定义、判断力和实验精神。"
+        }
+      ]
+    },
+    "design/design-adam-migrations": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/09/Adam-Migrations.jpg",
+          "cap": "Adam发布的Migrations"
+        },
+        {
+          "t": "p",
+          "x": "Adam发布了最新工具Migrations。AI代理会在新的CAD系统中从零开始重建CAD模型的参数化特征历史。该公司提出的目标是“终结供应商锁定”。"
+        },
+        {
+          "t": "p",
+          "x": "据Adam介绍,Migrations会在几何层面验证每一步。每个重建的步骤都会与原始模型进行比对,这种验证会在整个迁移过程中持续进行。"
+        },
+        {
+          "t": "p",
+          "x": "模型的元数据也会一并转移。迁移后的CAD模型仍保持可编辑状态,历史记录也不会中断,可以继续处理。"
+        },
+        {
+          "t": "p",
+          "x": "目前支持的对象包括达索系统(Dassault Systèmes)的Solidworks和Catia、PTC的Creo和Onshape、欧特克(Autodesk)的Fusion和Inventor,以及西门子(Siemens)的NX。"
+        },
+        {
+          "t": "p",
+          "x": "在正式作业之前,Adam会先用一个代表性模型检查源系统和目标系统。这是让用户亲自确认重建过程所需数据是否齐全的步骤。"
+        },
+        {
+          "t": "p",
+          "x": "CAD转换工具本身已经有多种形式。而Adam是第一家推出专用AI软件、能够处理包括PMI数据的复杂转换的公司。"
+        },
+        {
+          "t": "p",
+          "x": "Adam首席执行官Zach Dive表示:“我们的AI代理现在能在CAD工具之间逐个特征地迁移模型。”他还说:“过去几个月我们一直在做这件事,终于能分享出来,我们很激动。供应商锁定已经结束了。”"
+        }
+      ]
+    },
+    "design/design-vercel-skills-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7hxPZ4nBE0Mnsn1dkdGofj/dc36258e2b82650482ec34d48c33a628/skills-cumulative-installs-and-catalogue-web-light.png",
+          "cap": "skills.sh的累计技能数与安装数"
+        },
+        {
+          "t": "p",
+          "x": "Vercel基于skills.sh注册库的汇总数据发布了首份报告。7个月内,代理技能(agent skills)数量达到100万个,安装量接近2.8亿次。报告指出人们在教代理什么、实际安装的是什么,以及价值正流向何处。"
+        },
+        {
+          "t": "p",
+          "x": "技能是处理特定任务的一组可复用指令。代理虽然能力强,但是通用的——它们几乎什么都能做,却不知道某个人、团队或公司具体希望这件事怎么做。技能正好填补这部分缺失的上下文,哪怕只是一份用平实语言写成的文件。Anthropic于2025年10月推出Agent Skills,三个月后Vercel上线了skills.sh。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZVzqIm2zX1BcLdWSUY7vo/e1ac442a733ba6e9f42ba666a6b8ccee/skills-time-to-one-million-web-light.png",
+          "cap": "达到100万个技能:skills.sh用了7个月,GitHub仓库用了27个月,App Store应用用了63个月,npm软件包用了117个月"
+        },
+        {
+          "t": "p",
+          "x": "使用技能意味着把隐藏在任务中的判断显性化:按什么顺序做、好结果是什么样子、用什么来评估。底层能力已经由代理和工具提供,这正是技能的制作速度远超传统软件的原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/712lycy79IeHLvzvmIiV5T/b81ce8d1fd594a8a35566e9eb6e9812e/skills-function-share-web-light.png",
+          "cap": "上架数量以软件工程最多,而安装量中超过五分之四流向其他领域。"
+        },
+        {
+          "t": "p",
+          "x": "供给偏向技术类。超过一半的上架技能教的是软件工程、代理工作流、数据、基础设施和安全,软件工程单项就占约四分之一。需求则分散得多,没有一个类别超过五分之一:软件工程18%,代理工作流15%,业务运营和写作各接近11%。"
+        },
+        {
+          "t": "p",
+          "x": "若按每个上架条目的安装量来看,排序会反转。业务运营类技能的安装量比平均水平高74%,写作与文档高50%,云与基础设施高42%。软件工程比平均水平低约30%,教育与生产力低39%,研究低55%。"
+        },
+        {
+          "t": "p",
+          "x": "在已分类的数据中,代理工作流与自动化占安装量的14.8%,仅次于软件工程。如果只看安装量超过10万次的上架条目,这个类别规模最大——相当于人们在用代理来打造代理。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6w0Y4IuwoNRSNYUQgf4ofF/57a4b36cfacf2f42dfcec936189d6deb/skills-install-concentration-logx-web-light.png",
+          "cap": "排名前375个技能占安装量的62%,后98.8%合计不到6%"
+        },
+        {
+          "t": "p",
+          "x": "集中度很高。近一半的技能只被安装过一次。另一端,375个技能——占注册库的0.04%——占据安装量的62%,前1.2%则拿下94%。不过也没有一家独大:即便安装量最高的技能,也没有超过总安装量的1%。选定一个报销技能后没有理由再装第二个,但电子表格、研究和演示文稿类技能却会被并行使用。"
+        },
+        {
+          "t": "p",
+          "x": "不区分行业的技能占分类对象的66%、安装量的87.5%,平均每个上架条目的安装量是行业专用技能的3.6倍。Vercel认为,如果说前100万个技能教的是大家都知道的东西,那么下一个100万个教的将是只有各自才知道的东西。衡量技能的标准也正从安装数量转向实际效果——用测试和基准来检验,做这件事时用了这个技能是否真的比不用更好。"
+        }
+      ]
+    },
+    "design/design-flux-pcb-enclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/Flux-adds-AI-tools-for-3D-printable-PCB-enclosures-scaled.jpg",
+          "cap": "Flux推出的PCB外壳设计工具"
+        },
+        {
+          "t": "p",
+          "x": "Flux推出了一款用于设计印刷电路板(PCB)外壳的AI工具。在Flux的聊天窗口中描述想要的外壳,就能生成与电路板形状匹配的设计。"
+        },
+        {
+          "t": "p",
+          "x": "在此之前,外壳设计需要借助机械工程师或机械CAD(mCAD)软件来完成,哪怕PCB只有细微改动,也要重新调整机械设计。"
+        },
+        {
+          "t": "p",
+          "x": "新功能把PCB设计和外壳设计连成一条流程,读取电路板的形状后生成可用于3D打印的外壳模型。"
+        },
+        {
+          "t": "p",
+          "x": "模型中包含卡扣、螺丝孔、安装特征、曲面边缘、通风口和端口开孔。可以先预览,再要求修改外观或功能,最后以标准3D打印格式导出。"
+        },
+        {
+          "t": "p",
+          "x": "如果在PCB上移动或更换元件,Flux会相应地修改外壳,并同步更新制造和组装说明。"
+        },
+        {
+          "t": "p",
+          "x": "完成的外壳可用于在正式量产前,把PCB放到实际使用环境中进行检查。"
+        },
+        {
+          "t": "p",
+          "x": "该功能包含在Flux的所有套餐中。详情见flux.ai。"
+        }
+      ]
+    },
+    "design/design-opus55-website-showdown": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "L0-ezCnX0gs"
+        },
+        {
+          "t": "p",
+          "x": "The AI Advantage频道发布了实际试用Claude Opus 5.5的视频。时长14分19秒，发布日期为2026年9月25日。"
+        },
+        {
+          "t": "p",
+          "x": "主持人Igor的内容分为两部分。前半部分是五个创意应用，后半部分是围绕50个网站与ChatGPT 6 Astra展开的对决。"
+        },
+        {
+          "t": "p",
+          "x": "应用篇从制作交互式3D世界开始（2分00秒）。接着把机械草图变成动画（4分45秒），再制作产品广告（6分30秒）。"
+        },
+        {
+          "t": "p",
+          "x": "把照片变成乐高模型的部分出现在7分08秒，旧金山城市模拟出现在7分59秒。乐高模型应用是Claude分享的演示，旧金山模拟则是Matthew Berman介绍的结果。"
+        },
+        {
+          "t": "p",
+          "x": "8分55秒比较了Claude和GPT的价格。随后从9分50秒开始展开50个网站的对决。全部50个作品都原样发布在fable-blind-lab.vercel.app/opus.html上，可以直接对比查看。"
+        },
+        {
+          "t": "p",
+          "x": "13分20秒是Igor的总体评价，13分45秒简单介绍了新推出的ChatGPT语音功能。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5的官方公告发布在Anthropic网站上。"
+        }
+      ]
+    },
+    "design/design-copilot-super-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&strip=all&crop=0.024975024975028%2C0%2C99.95004995005%2C100&w=2400",
+          "cap": "图片:Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft正式发布了上月预告的“超级应用”。全新设计的Copilot应用把聊天、编程和代理三项功能整合到一个界面中。今年Build大会推出的AI个人助理Scout,这次改名为Autopilot。"
+        },
+        {
+          "t": "p",
+          "x": "标签页共有三个:Home、Code和Autopilot。Home是整合了Copilot Chat和Cowork的默认界面,还将加入名为Today的功能,汇总重要邮件、会议邀请和Teams消息线程。"
+        },
+        {
+          "t": "p",
+          "x": "负责企业AI营销的Jared Spataro这样介绍Home:“Home是你确定方向的地方。你可以浏览最近的活动,获得Copilot能帮上忙的建议,并从上次停下的地方直接继续。”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Code标签页。图片:Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Code标签页是这款“超级应用”中出人意料的一招。任何人都可以创建应用、追踪器、仪表盘或自动化流程,托管在云端,像内部应用一样与同事共享。Spataro表示:“Code运行在与GitHub Copilot相同的底层技术上,在沙盒环境中执行,并安全托管在你的租户内。”"
+        },
+        {
+          "t": "p",
+          "x": "Autopilot是Spataro称之为“数字团队成员”的新功能。它最初以旧名Scout作为桌面应用推出,Autopilot则是其云端版本。即使用户休息时它也会持续运行,拥有自己的云计算实例,负责监控Teams频道、执行重复性任务或处理后续事项。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Autopilot.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Autopilot会被赋予名字和外观。图片:Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "与其他AI代理的区别在于企业级设计,目标是那些业务已建立在Office和身份管理产品线之上的公司。Spataro解释说:“Autopilot拥有自己的身份、记忆、计算机和工作空间,存在于你的租户内。它建立在Microsoft IQ之上,因此能理解你的组织实际如何运作。”它会出现在人们已经在使用的Teams、Outlook和文档中,像同事一样被@提及,并由权限、审计和治理机制作为支撑。"
+        },
+        {
+          "t": "p",
+          "x": "计费方式也发生了变化。Cowork、Code和Autopilot按使用量计费,长时间运行的代理任务或使用Astra、Fable等模型会按用量收费。现有用户的订阅许可证仍可使用Chat、Word、Excel、PowerPoint、Outlook和Teams中的Copilot。IT管理员可以通过新推出的FinOps for AI来管理AI支出。"
+        },
+        {
+          "t": "p",
+          "x": "Home和Code标签页将在“几周内”向早期访问计划Frontier开放。Autopilot本月进入私密预览,Code则将在今年内向Microsoft 365 Premium和Pro订阅用户开放预览。"
+        },
+        {
+          "t": "p",
+          "x": "Satya Nadella在X上写道:“我们正在把Copilot打造成跨越所有模型、所有形态、所有任务的全新工作操作系统。”Spataro补充说:“正如Office定义了PC时代的工作方式,新的Copilot旨在定义AI时代的工作方式。”The Verge指出,AI时代的竞争程度远非PC时代可比。Microsoft目前落后于Google、OpenAI、Anthropic和Meta。"
+        }
+      ]
+    },
+    "design/design-octanerender-2027-1-alpha3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+          "cap": "AI光源2.0应用前后对比。光源较多的场景中噪点减少了。"
+        },
+        {
+          "t": "p",
+          "x": "OTOY已开始公开发布GPU渲染器OctaneRender的下一个主要版本2027.1的Alpha测试版。这是独立于稳定版OctaneRender 2026之外的实验性版本。"
+        },
+        {
+          "t": "p",
+          "x": "最大的变化是实时神经渲染模式。该功能发展自OctaneRender 2026中引入的神经辐射缓存（NRC），并结合了NVIDIA DLSS的光线重建技术与OTOY自身的研究。OTOY表示，即便在复杂光照下，所需采样数也远低于传统路径追踪，可实现几乎没有噪点的交互式渲染。目前仅支持Windows和Linux，Mac版Octane X会在之后加入。"
+        },
+        {
+          "t": "p",
+          "x": "升级采样方面新增了DLSS 4和AMD FSR 3。由于OctaneRender基于CUDA，FSR 3也只能在NVIDIA GPU上运行。"
+        },
+        {
+          "t": "p",
+          "x": "用于对多个光源采样的AI光源功能自OctaneRender 4.0首次推出以来迎来首次重大更新。现在每个发光基元都会同时考虑空间与方向信息，即便采样数相同，噪点也更少。"
+        },
+        {
+          "t": "p",
+          "x": "USD现在不仅支持导入，也支持几何体导出。独立版新增了USD舞台编辑器，MaterialX也新增了三个EDF节点。每个基元的UV贴图上限从3个提高到10个。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_PhysicalOpticsMaterial-960x201.jpg",
+          "cap": "用Alpha 2的物理光学材质制作的虹彩表面"
+        },
+        {
+          "t": "p",
+          "x": "Alpha 2加入了可重现衍射、薄膜干涉、双折射等波动光学效应的物理光学材质，能表现肥皂泡、发丝纹金属、全息贴纸乃至CD表面。此外还新增了可将光线直接反射回光源方向的逆反射材质，类似交通标志或荧光安全服的效果。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260924_OctaneRender20271_Alpha3_BakeSDF-960x480.jpg",
+          "cap": "Alpha 3新增的SDF网格烘焙功能"
+        },
+        {
+          "t": "p",
+          "x": "Alpha 3新增了将包含Vectron基元的SDF烘焙为多边形网格的功能，用于生成散射或物理模拟所需的代理几何体，同时也支持OCIO 2.5。"
+        },
+        {
+          "t": "p",
+          "x": "在正式版发布前，还将加入动画・素描渲染器、3D高斯溅射渲染、内置PBR材质生成等AI功能，以及与OTOY Studio的整合。首个Alpha版于2026年3月发布，因此正式版预计将在年底前后推出。Studio+订阅费用为每月23.95欧元，每年239.88欧元。"
+        }
+      ]
+    },
+    "design/design-mcp-ui-svg-servers-8-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqw8zw67iordk5fzsgaz.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "想让编码代理为应用界面、图标或插画绘制SVG,该接入哪种MCP服务器?这篇最先发布在SVG Lab上的文章,把自家的SVG Lab MCP列在首位——阅读时最好留意这一点。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为,选错服务器类型是最常见的失误。设计类MCP服务器分为三类:一次请求即可返回完整排版结果的设计引擎;像Figma、Penpot、SVGator那样让模型直接操作你已在使用的应用文档的编辑器连接器;以及每次提示只输出一个SVG文件的生成器(SVGMaker、SVG Genie、SVG AI、CleanVector)。"
+        },
+        {
+          "t": "p",
+          "x": "对代理而言,差异十分明显。生成器只提供文件,其余搭建工作都要由代理自己完成。编辑器连接器需要具备对应的编辑器,通常还需要付费席位。设计引擎则会把完成的结果保存在自己的项目空间中。"
+        },
+        {
+          "t": "p",
+          "x": "SVG Lab MCP可以把移动端和网页界面、组件、图标集、插画、图表制作成SVG。间距、对齐和文字排版由引擎负责,模型只需填充内容。它不支持动画和图像矢量化,需要Plus(每月20美元,5,000次)或Max(每月40美元,15,000次)方案。"
+        },
+        {
+          "t": "p",
+          "x": "Figma的远程服务器原本只用于读取代码生成所需的设计上下文,现在则可以直接把帧、组件、变量和自动布局写入文件。画布写入功能在测试期间免费,之后将改为按使用量计费,并需要Full席位。开源的Penpot可以读取并修改文件中的组件、样式和令牌,但需要保持Penpot标签页处于打开状态。SVGator面向的是动效,而不是界面排版。"
+        },
+        {
+          "t": "p",
+          "x": "在生成器中,SVGMaker是基于MIT许可证的开源产品,SVG Genie只对成功生成的结果收费。要在SVG AI中使用MCP需要付费账户,CleanVector则把MCP功能放进了Plus和Pro方案。此外,名单之外的Canva也在运行自己的MCP服务器,连接本身免费,只有部分功能需要付费方案。"
+        }
+      ]
+    },
+    "design/design-adobe-max-2026-lineup-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+          "cap": "Adobe MAX活动现场(图片:Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq的Tom May回想起2023年MAX主题演讲中的一幕。Adobe数字媒体业务总裁David Wadhwani自豪地宣布,Firefly推出后生成的图像已超过30亿张,可台下回应他的不是欢呼,而是一片寂静。那一刻暴露出一线创作者面对生成式AI时的真实心声。"
+        },
+        {
+          "t": "p",
+          "x": "今年的MAX将于11月10日至12日在迈阿密海滩举行,届时会发布什么还是未知数。不过208场会议的名单已经公开,May通读之后梳理出了Adobe当下的关注点。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe依然把全部精力投入生成式AI。不同的是,如今他们已经知道有些人会反感这一点。由25场会议组成的AI主题板块里,反复出现“并非要取代手艺”“是创作伙伴而非拐杖”之类的说法,甚至还有一场会议题为“AI不是我们的泰坦尼克号”。"
+        },
+        {
+          "t": "p",
+          "x": "再往下看AI相关会议,主要听众并不是个人设计师或自由职业者,而是大量采购软件的营销负责人、代理商老板和采购经理。Firefly Graph主打“治理、可扩展性与责任豁免”,Omnicom则展示其“代理式运营模型”。一家代理商夸口说已为eBay、Spotify、Just Eat等品牌制作了超过100万个素材。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cZhQ9DYE3Dc87qUjxZonxL.jpg",
+          "cap": "以“AI时代的创意未来”为主题的Adobe舞台(图片:Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "对比最鲜明的是Toni Harman那场插画师全天实训,宣传语写着要“不借助AI”学习传统技法。如今不用AI反倒成了例外。当然,像Aaron Draplin的标志设计讲座、David Blatner的InDesign技巧、Lightroom高阶蒙版这类会议,依然会吸引一线从业者排队参加。"
+        },
+        {
+          "t": "p",
+          "x": "在May看来,设计师想要的并不是替自己完成创作的AI,而是像在Premiere里消除噪点、在Lightroom里为天空做蒙版那样分担杂活的AI,以及对价格和训练数据坦诚相待的态度。然而整体趋势却在向规模、产量和企业采购方倾斜。一场会议抛出问题:“如果人人都能制作,那重要的是谁来制作?”May写道,Adobe现在的答案似乎是“购买企业授权的那一方”。"
+        }
+      ]
+    },
+    "design/design-meta-muse-charm-kawaii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612532-meta-muse-charm.jpg",
+          "cap": "Meta Muse Charm"
+        },
+        {
+          "t": "p",
+          "x": "围绕AI的舆论并不友好,担心大规模失业甚至人类灭绝的声音越来越大。Meta在新AI代理Muse及其专属设备上减少了恐惧感,强化了可爱感,把“卡哇伊”当作向大众出售AI硬件的卡牌。"
+        },
+        {
+          "t": "p",
+          "x": "Meta首席执行官马克·扎克伯格周三在Meta Connect上发布了便携设备Muse Charm。它看起来像未来版电子宠物机,屏幕上的聊天机器人以圆润的米色毛绒吉祥物形象出现,名字由用户自己来起。Instagram的亚当·莫塞里给自己的取名为“Max”。"
+        },
+        {
+          "t": "p",
+          "x": "扎克伯格表示:“我们把从实时语音到虚拟形象技术栈的整个Muse体验,都塞进了一个钥匙扣大小的设备里,随时都能对它说话。”"
+        },
+        {
+          "t": "p",
+          "x": "它不是Siri那样发光的球体,也不是ChatGPT那样的光标和文字。Meta选择了一个可爱的怪兽形象作为化身,这表明大型科技公司正在普及竞赛中诉诸柔软的情感。"
+        },
+        {
+          "t": "p",
+          "x": "Muse可以读邮件、预订课程、起草文档,甚至还能购物,但在亚马逊上行不通。要交出多个账户权限需要信任,而这一向是Meta等社交媒体公司的薄弱环节。不过,如果Muse成功,也能证明比起没有形体的声音或球体,吉祥物更能缓解人们对AI的不安。"
+        },
+        {
+          "t": "p",
+          "x": "可爱感在交通领域也有体现。Zoox的机器人出租车、亚马逊的配送货车,以及DoorDash的配送机器人“Dot”,外形都设计得圆润而不具威胁感。研究表明,可爱会激发人们想要关爱和照料的冲动,这与许多美国人对AI的恐惧感恰恰相反。"
+        },
+        {
+          "t": "p",
+          "x": "扎克伯格把Muse Charm定位为一款不需解锁手机或打开应用就能使用的设备。材料和零部件仍在最终定型,价格尚未定,但Meta计划赶在年底假期季上市。目前还不清楚需求会有多大。"
+        },
+        {
+          "t": "p",
+          "x": "本周Meta还发布了去掉摄像头的下一代智能眼镜,这是寻求摆脱偷拍争议的设备的一部分。借助住在圆角方形设备里的可爱吉祥物,Meta正试图磨平消费者所害怕的那把技术利刃。"
+        }
+      ]
+    },
+    "design/design-matlab-simulink-2026b": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s44869.pcdn.co/wp-content/uploads/2026/09/matlab-simulink-mathworks-2026.png",
+          "cap": "Simulink Copilot聊天界面"
+        },
+        {
+          "t": "p",
+          "x": "MathWorks发布了MATLAB和Simulink的2026b版本(R2026b)。新产品包括Simulink Variant Manager、Visual Inspection Toolbox和Polyspace Test Server,航空航天、嵌入式、AI、认知、音频及统计分析功能也得到了扩展。"
+        },
+        {
+          "t": "p",
+          "x": "背景是复杂度的提升。随着软件、电子设备与AI在同一系统中交织,团队需要管理和验证的设计变体不断增多。R2026b通过配置管理、视觉检测、自动测试和系统验证工具来应对这一负担。"
+        },
+        {
+          "t": "p",
+          "x": "Visual Inspection Toolbox结合AI与图像处理技术,帮助开发和部署制造及工业现场的视觉检测应用。Point Cloud Toolbox新增了激光雷达、摄像头、雷达和SLAM工作流程。"
+        },
+        {
+          "t": "p",
+          "x": "Simulink Variant Manager是一款跨模型与系统架构管理产品变体的工具,可在产品系列或平台化设计中保持一致性与可追溯性。Polyspace Test Server能在CI环境中自动运行C/C++嵌入式软件的测试与代码覆盖率分析。"
+        },
+        {
+          "t": "p",
+          "x": "Simulink加入了来自Simulink Copilot的AI性能分析洞察。此外还新增了无需重新构建即可复用的发布模型,以及用于源码管理的JSON数据字典。Deep Learning Toolbox新增了面向时间序列AI的Time Series Modeler应用,并可在MATLAB与Simulink中同时运行PyTorch模型。"
+        },
+        {
+          "t": "p",
+          "x": "硬件与软件协同设计由SoC Blockset for AMD负责,针对AMD自适应SoC与FPGA的功能有所增加。MATLAB本身获得了基于TOML的项目文件、File Exchange包管理以及Google表格集成。"
+        }
+      ]
+    },
+    "design/design-google-stitch-brand-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techgenyz.com/wp-content/uploads/2026/03/Stitch_Keyword.webp"
+        },
+        {
+          "t": "p",
+          "x": "谷歌展示了AI UI设计工具Stitch的新用法，核心是把真实的品牌资产放在AI设计的中心。"
+        },
+        {
+          "t": "p",
+          "x": "Stitch官方账号在9月24日的帖子中演示了将品牌套件和产品图片拖入提示框的工作流程，所用模型为Gemini 3.8 Flash。Stitch从品牌资产中提取设计系统信息和风格，再生成营销页面和产品页面的布局。产品照片不再是塞进固定模板的文件，而是自然融入布局的素材。"
+        },
+        {
+          "t": "p",
+          "x": "这并非全新功能。Stitch自2025年推出之初就支持图片输入，2026年的更新又加入了基于URL的设计系统提取，以及用于交换可复用设计规则的DESIGN.md。Gemini 3.8 Flash也已在9月初成为Stitch的默认模型。"
+        },
+        {
+          "t": "p",
+          "x": "值得注意的是，AI生成的界面不仅自身看起来可信，还有助于与现有品牌保持一致。比起'高端又现代'之类的描述，这种方式直接交出定义品牌的视觉素材，对电商团队或制作活动页面的设计师尤其有用。"
+        },
+        {
+          "t": "p",
+          "x": "反馈并非全是正面的。有人质疑它是否也能理解品牌的'禁止规则'，比如绝不能放置标志的位置，也有用户把结果称为'AI slop'。谷歌尚未透露它提取哪些设计令牌和规则、支持的文件格式与上传上限、覆盖范围，以及需要多少人工修改。"
+        },
+        {
+          "t": "p",
+          "x": "真正的考验终究在光鲜演示之外。Stitch能否遵守细小的品牌规则、减少人工修饰，还需进一步观察。"
+        }
+      ]
+    },
+    "design/design-adobe-photoshop-lightroom-in-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_11e188d386cd64d138c6fb8d51892c64e59f6459c.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe宣布将自家软件和工具直接引入谷歌的AI平台Gemini，这是继ChatGPT、Claude、Slack、Copilot之后的又一步。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini是月活用户超过10亿的AI助手。借助新推出的'Adobe in Gemini'，用户可以让Gemini调用Photoshop、Lightroom、Express、Firefly的专业级工具完成多项任务，整个过程都通过与Gemini的对话完成。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌GDM与Gemini全球合作伙伴关系负责人尼尔·潘乔利（Neal Pancholi）表示：'我们很高兴扩大与Adobe的合作，把业界领先的创意工具直接带入Gemini。现在任何人都能在聊天中构思、编辑并把想法变成现实。'"
+        },
+        {
+          "t": "p",
+          "x": "Adobe给出的示例是：一次上传多张照片，Gemini就会用Adobe的校正工具统一色调与色彩，调整光线和颜色，裁剪成所需尺寸并备好直接使用；还能制作保留公司品牌调性和氛围的社交媒体版本，或按需生成新的Express模板。"
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_150b784ac116ab0312114fc41e21dbf3cb1e204ef.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe称此次上线是其与谷歌关系中迈出的'第一步'。Adobe已经在自家应用中嵌入代理型AI，如今看来也在积极用AI帮助用户在不打开应用的情况下更快得到想要的结果。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe解释说：'AI聊天机器人平台让把想法变成实际成果比以往更容易，但要达到真正想要的结果还需要更多东西。'并补充道：'图片需要精修，设计需要定制，内容需要按渠道调整，这正是我们工具深度所在之处。'"
+        },
+        {
+          "t": "p",
+          "x": "Adobe in Gemini已开始推出，可在所有Gemini套餐中使用，但需要一个Adobe账户。"
+        }
+      ]
+    },
+    "design/design-ai-photo-editor-capability-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvrzobw16sgxfz6mi2tjx.png"
+        },
+        {
+          "t": "p",
+          "x": "AI图片编辑器的界面很简单：上传、输入提示词、调整设置、生成，仅此而已。但实现起来要难得多，因为每一个控件都被不断变化的'能力契约（capability contract）'牵动着。作者表示先借助AI写出草稿，再对照ArtDo的实际工作流程做了修改。"
+        },
+        {
+          "t": "p",
+          "x": "该问的问题不是'怎么再往下拉菜单里加一个模型'，而是如何让界面从一开始就不给出所选工作流无法处理的请求，并让结果之后能被检查。"
+        },
+        {
+          "t": "p",
+          "x": "因此，请求被当作一种状态来处理，而不是松散的输入表单。如果不明确划分未选源、校验、加载能力信息、选择兼容设置、准备请求、生成中、等待检查、修改/下载等阶段，用户在选好分辨率后切换模式的瞬间，当前模型不支持的组合就可能直接被提交。只有当来源、模型、设置、账户状态与最新能力数据全部吻合时，提交按钮才会亮起。"
+        },
+        {
+          "t": "p",
+          "x": "模型列表、图片数量、比例、分辨率、积分费用等数值经常变动。把它们写进说明文案会造成真相出现两个来源：文案只解释工作流和限制，实际可选项由实时能力数据绘制，最终请求再由服务器重新检查一次。"
+        },
+        {
+          "t": "p",
+          "x": "切换模型导致其他设置失效时，应保留有效的值，把无效的值恢复为受支持的默认值。悄悄留下无效值是最危险的做法。重新加载能力信息期间应禁止提交，也不能把上一个模型的选项当作当前模型的选项展示。"
+        },
+        {
+          "t": "p",
+          "x": "提示词同样是校验的一部分。把需要改变的、需要保留的、容易出偏差的部分一并写明，更容易判断结果是否满足条件。生成完成和检查完成也被视为不同状态。应让原图与结果、提示词、设置并排比对，只有在人工确认脸部、小字、手部、反光等脆弱环节之后，才能进入下载环节。"
+        },
+        {
+          "t": "p",
+          "x": "失败同样是产品的一部分。不能把校验、服务商、安全、账户、网络错误都压缩成一条消息，而要告诉用户该修改输入、登录还是重试。归根结底，真正能守住的契约比'完美编辑任何内容'要窄得多：只展示兼容的选项，诚实标出生成与失败，并把结果交给人工检查。"
+        }
+      ]
+    },
+    "design/design-claude-blender-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://video.howtogeekimages.com/2026/09/an-animated-video-of-a-robot-in-an-alien-world-created-using-claude-and-blender-1790245329.mp4"
+        },
+        {
+          "t": "p",
+          "x": "如果你曾经打开Blender，被复杂的界面吓到，几分钟内就关掉了它，作者也是如此。看过完全用Blender制作、获得2025年奥斯卡最佳动画长片奖的电影《Flow》后，他想挑战一下，却总在面板、菜单和几百项设置面前放弃。"
+        },
+        {
+          "t": "p",
+          "x": "这道墙正在被打破。Blender今年早些时候推出了官方MCP（Model Context Protocol）服务器，可以把Claude或ChatGPT之类的AI模型接入Blender，让它们直接在应用内工作。只要用语言描述想要的画面，聊天机器人就能把它做出来——至少完成大部分。作者正是靠这种方式，在从未用过Blender的情况下，大约三四个小时就做出了一段45秒的动画。"
+        },
+        {
+          "t": "p",
+          "x": "他用low effort模式调用Claude Opus 5.5，消耗了20美元Pro套餐单次会话用量的约26%。四个小时里，亲自动手的时间不到一小时；大部分时间用来看结果、重新说明想要的效果，其余时间Claude会独自工作数小时。公开的视频是第三个版本，因为镜头运动、角色模型和背景深度都出过问题，来回调整了好几轮。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/wide-shot-of-the-blender-built-world-with-mountains-winding-rivers-a-lake-and-scattered-teal-and-pink-foliage.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Claude用Blender搭建的世界全景"
+        },
+        {
+          "t": "p",
+          "x": "他也学到了工作顺序。一开始让它从一小块区域开始，再拉远展现全貌，结果越拉远细节越空。于是改为先让它尽可能细致地搭建整个世界，再聚焦某一点往外走，这与写故事时先画好世界地图和设定、再处理人物的做法类似。"
+        },
+        {
+          "t": "p",
+          "x": "设置只需10分钟。Claude的'电脑使用'功能也能操作Blender，但那样就要把整台电脑的控制权交出去，而且不断截屏会消耗大量token。用MCP服务器则可以让Claude和Blender分开运行，同时做别的事。只需在Blender 5.1及以上版本安装MCP插件，在偏好设置里开启在线访问并启动服务器；在Claude一侧下载.mcpb文件并作为扩展安装即可。Blender窗口不能最小化，必须保持打开。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/robot-leaning-over-the-pink-flower-with-its-head-clipping-through-the-petals.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "机器人头部穿过花瓣之类的瑕疵也留了下来"
+        },
+        {
+          "t": "p",
+          "x": "视频并不完美：机器人毫无缘由地悬浮在地面上方，碰到花时头部还会穿进去。不过作者认为，一个一直害怕Blender的人能坐下来四个小时、学会这套界面，这件事本身就有意义。他表示，AI slop是把低质量成果直接推给消费者时才会出现的问题，而用AI来学习新工具则是另一回事。"
+        }
+      ]
+    },
+    "design/design-nasa-brand-trust-ai-imagery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在克罗地亚奥博尼扬岛举行的Frontify Paradigms大会上,最有意思的演讲并非来自设计工作室,而是来自一家联邦机构的创意总监。NASA创意总监David Rager讲述了他如何管理NASA的视觉品牌与平面设计标准手册,以及2020年复活的“虫形(worm)”标志的故事。"
+        },
+        {
+          "t": "p",
+          "x": "他的履历并非一条直线。他曾在乐队活动中制作传单和专辑封面,由此进入平面设计领域,此后辗转于博物馆、代理公司、巴黎的建筑设计工作室和迪士尼。2019年他进入喷气推进实验室(JPL)工作,完成了复活1992年被废弃的虫形标志这一大项目后,从2023年起在NASA总部全职工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m6HvK9EYCBeHa5GgR9y9yG.jpg",
+          "cap": "“肉丸”(左)与“虫形”(右)"
+        },
+        {
+          "t": "p",
+          "x": "1992年新上任的局长不喜欢虫形标志,重新启用了阿波罗时代的徽标“肉丸”。Rager说,那段时间他的工作之一就是撰写两种标志之间的“和平条约”。如今已年过90的虫形标志设计师原以为再也见不到这个标志,但它如今已成为纽约现代艺术博物馆(MoMA)的永久馆藏。"
+        },
+        {
+          "t": "p",
+          "x": "老品牌很容易在内部员工眼中变成墙纸。因此Rager把大量时间花在内部团队培训上,传达品牌价值和一致沟通的意义。他说,NASA卖的不是产品,而是乐观与人性,而由于NASA靠纳税人的钱运营,就必须证明这笔投入是值得的。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7Kzwc4chMwguwHXbMzEVJi.jpg",
+          "cap": "NASA 1975年品牌指南中的一页"
+        },
+        {
+          "t": "p",
+          "x": "面对AI与虚假信息时代的信任问题,他的答案很明确。“我禁止使用AI图像。”尽管精通技术的员工反对声很大,但他强调NASA品牌建立在信任之上。人们看到NASA的图像时,需要知道那是真实的,可以按眼前所见去相信,因为已经有太多人在寻找不相信某件事的理由。"
+        },
+        {
+          "t": "p",
+          "x": "NASA的传播宣言规定,必须优先使用真实存在的素材。Rager这样说:“我们拥有大量出色的图像、艺术作品和精彩的照片。AI想要创造的那类素材,我们本来就有。”"
+        }
+      ]
+    },
+    "design/design-coreldraw-text-to-vector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Cc7Agjdq4cD8sy3c8yjz6f-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Corel在CorelDRAW Graphics Suite 2026年9月更新中加入了Text-to-Vector功能。今年早些时候首次加入的AI并非基于矢量,而这次的工具不同。它可以根据文本提示词,或插画、标志、产品设计、照片等参考资料生成矢量作品,并将结果以对象、曲线、节点的形式交付。颜色、形状和各个元素之后都可以像手绘图稿一样修改。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VFQa5nt5aBA9ZghwZp5Hrb.jpg",
+          "cap": "将自己的作品作为参考输入,还能用Text-to-Vector生成更多可编辑的素材。(图片:Corel)"
+        },
+        {
+          "t": "p",
+          "x": "在负责CorelDRAW产品管理的Jenny John的演示中,令人印象深刻的不是简单的提示词,而是参考工作流程。输入插画师Pawel Pergol的作品(约600个对象)后,要求以同样风格制作兔子、鸟、蛇图标,结果在对象面板中打开,连曲线和节点都能查看。John说:\"插画师的工作正是从那里开始的。\"测试阶段的用户也主要用它从现有标志和插画中衍生新作品。"
+        },
+        {
+          "t": "p",
+          "x": "模型共有三种。Vector Spark负责图标、剪贴画等简单工作,Vector Craft是通用型,Vector Master负责复杂设计和基于参考的变体。参考图像的细节不保证完全保留,因此仍有需要手动修改的部分。据John介绍,测试阶段的插画师对描摹类工作比较挑剔,但对用于构思创意的AI\"真的很喜欢\"。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nNbgWmSiqunhZau6enJ4ub.jpg",
+          "cap": "(图片:Corel)"
+        },
+        {
+          "t": "p",
+          "x": "PowerTRACE也进行了改进。描摹速度最快提升4倍,对象结构和色彩处理也有改善,并加入了AI背景移除功能。生成功能在云端运行,而非依赖显卡。使用Nvidia等GPU运行的本地AI不在路线图中。Text-to-Vector还将加入CorelDRAW Go和CorelDRAW Technical Suite 2026。"
+        },
+        {
+          "t": "p",
+          "x": "CorelDRAW Graphics Suite年费269美元(319英镑),永久授权为549美元(659英镑)。为庆祝发布,一周内可无限次使用Vector Craft和Vector Master生成。"
+        }
+      ]
+    },
+    "design/design-usertesting-mcp-servers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fifynx.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fusertesting-mcp-servers-ai-research-work-hero-20260928091425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月25日,UserTesting发布了面向自身平台和User Interviews的Model Context Protocol(MCP)服务器。产品、设计、UX和研究团队可以在ChatGPT、Claude、Figma Make、Gemini等兼容MCP的AI应用中招募参与者、创建调研、启动测试,甚至直接获取反馈。据MarTech Series报道,目前仍处于抢先体验阶段,两家服务合计的参与者网络覆盖34个国家、超过700万人。"
+        },
+        {
+          "t": "p",
+          "x": "UserTesting的观点是:AI能快速产出概念,但结果总是趋向于熟悉的方向。要打造真正与众不同的产品,离不开真实的人类情感与判断力。"
+        },
+        {
+          "t": "p",
+          "x": "文章作者iFynx建议在智能体工作流程中设置\"研究关卡\"——在信息架构(IA)方案提出后、微文案草稿完成后,以及像支付确认这类高风险界面设计完成后,都要经过规定数量的目标市场用户会话,智能体才能把工单标记为\"可开发\"。缺少这一流程,就会出现调研滥用、结果被忽略,以及敏感的原型文案泄露给不相关参与者群体的问题。"
+        },
+        {
+          "t": "p",
+          "x": "iFynx的结论是,MCP只是管道,治理才是真正的产品。团队首先要明确谁可以在智能体会话中启动付费调研,哪些个人信息绝不能写入提示词。在Figma Make中从原型到测试再到修改的流程,也应该是连续的一体,而不是上下文断裂的三个独立工具。文章还建议,面向中东和北非(MENA)市场时,调研必须纳入使用海湾方言和埃及阿拉伯语的用户,以及使用中低价位Android设备的用户。"
+        }
+      ]
+    },
+    "design/design-google-flow-nano-banana-2-1-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/09/Google-Flow-----Sept-24-00-52-09-25-2026_10_28_PM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It looks like Google is preparing yet another update to its image model, Nano Banana. A Google Flow web build originally showed the label 'Nano Banana 2.5 Flash,' but that name has now simply changed to 'Nano Banana 2.1.'"
+        },
+        {
+          "t": "p",
+          "x": "The name change suggests Nano Banana 2.1 could be the official product name. Still, it's worth tempering expectations about the scope of the upgrade — going from 2 to 2.1 is usually an incremental improvement, a far cry from the leap that '2.5 Flash' implied."
+        },
+        {
+          "t": "p",
+          "x": "If it ships under this name, Nano Banana 2.1 could land across several Google products, including Gemini, Google AI Studio, and Google Flow, which would also fit how Google rolls out releases these days. Nano Banana 2's official name is Gemini 3.1 Flash Image, and Nano Banana 2 Lite has already been deployed to both developer-facing and consumer services."
+        },
+        {
+          "t": "p",
+          "x": "No release timeline has surfaced for Nano Banana 2.1, and Google hasn't disclosed what changes from Nano Banana 2. Creators and developers want to know one thing: whether there's a noticeable improvement in generation quality, editing, consistency, and latency — or just a new checkpoint swapped in."
+        },
+        {
+          "t": "p",
+          "x": "Attention is also shifting toward Google's next-generation Gemini Pro. Google hasn't announced a release date for Gemini 4 Pro, but TestingCatalog expects the next Pro-tier model to arrive before December."
+        }
+      ]
+    },
+    "design/design-react-ai-reasoning-states": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdexj40y4ucz5iqs06ba7.png"
+        },
+        {
+          "t": "p",
+          "x": "如果人类运维人员无法实时了解AI智能体的想法,这个智能体就没有用。作者所在团队打造了一个React仪表盘,展示智能体的推理、记忆命中和恢复操作,运维人员的信任度发生了明显变化。"
+        },
+        {
+          "t": "p",
+          "x": "最初的界面只是一张列出事件的简单表格,能看到发生了什么,却看不出为什么会这样。运维人员无法分辨智能体是调用了Hindsight记忆,还是用LLM重新推理得出的结果。内部调研的信任度为10分中的2分。看不到置信度,运维人员就会推翻判断——如果每次都要推翻,那养一个智能体也没有意义。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq4ds23wnlt1r8pz240b0.png"
+        },
+        {
+          "t": "p",
+          "x": "解决办法是把推理过程展示出来。MemoryHitBadge组件用两种颜色区分每个解决方案的来源:紫色表示直接从Hindsight记忆中调用(LLM令牌为0),橙色表示通过ReAct重新推理,并将该playbook存入记忆。徽章上还会显示耗时和置信度(%)。"
+        },
+        {
+          "t": "p",
+          "x": "团队还用@xyflow/react加入了实时拓扑图,展示整个微服务结构和状态;一旦发生事件,受影响的服务就会亮起,不用翻日志也能一眼看出影响范围。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fworlkn1zg3j39pj274g2.png"
+        },
+        {
+          "t": "p",
+          "x": "仪表盘每3秒轮询一次BFF(Backend-For-Frontend)。TanStack Query中\"refetchIntervalInBackground: false\"这一项设置,就能在标签页不活跃时停止轮询,没人查看时后台流量几乎降为零。团队测试中,渲染延迟从2.5秒降到150毫秒,运维人员信任度从2分升到8分,UI页面数量从1个增加到11个。"
+        },
+        {
+          "t": "p",
+          "x": "置信度徽章比日志文件读得快,拓扑图比指标转储读得快。所以作者认为,构建AI智能体时应该为界面留出足够的工程时间——界面不是装饰,而是智能体的推理与人类判断相遇的地方。"
+        }
+      ]
+    },
+    "design/design-viral-ai-animation-character-controversy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI和动画一旦结合,反应总是两极分化。由于对失业和版权的担忧反复出现,动画圈对AI的反弹尤为强烈。当创作者Antrofrog的AI动画最近走红时,敌意同样没有消退。由于画风混杂着某种似曾见过的感觉,剧情又显得古怪,观众很快就认出这是AI作品,并毫不掩饰地发泄不满。"
+        },
+        {
+          "t": "p",
+          "x": "随着Sade的《Smooth Operator》响起,一个撑着雨伞的高个子男人穿行在城市中。他接住从窗口掉落的花盆,救下爬到树上的猫,表情却一直淡定。乍看之下顽皮又无害,但细看就能发现裂缝。画风本身就五花八门:主人公看起来像是掉进经典迪士尼电影里的日本动画反派,背景人物则混合了童书插画和老派《纽约客》漫画的风格。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bHVsNwwbNTX3zmvGcZGM6K.png",
+          "cap": "Antrofrog发在X上的动画中,撑雨伞的男人和拿冰淇淋的孩子。(图片:Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "甚至有人指出角色设计是抄袭来的。一条评论指着拿冰淇淋的男孩写道:\"那不是《海洋之歌》里的本吗?\"剧情也遭到质疑。主人公把骑滑板车的孩子撞到车道上,还毁掉了陌生人的画作。一位X用户吐槽:\"基本的叙事能力根本不存在。\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/twbekTKEMQPEEkgaNcYNeV.png",
+          "cap": "Antrofrog的AI动画中出现的两名身穿西装的男子。(图片:Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "也有反应说:\"AI艺术的悲剧不在于它丑,而在于它让人开始怀疑人。\"一旦开始纠结某个动作、节奏或停顿是刻意设计还是程序计算概率产生的幻觉,沉浸感就会被打破。随着工具变得越来越精巧、越来越易用,更多人也在追问:什么才算得上人类的创造力?用提示词做出来的作品,能否与人类的作品站在同一个舞台上?"
+        }
+      ]
+    },
+    "design/design-adobe-chatgpt-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1047d7d7a561478527243a678cd2c060c7aa018f9.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "只修改图片的一部分,再用色相、饱和度控制调整结果。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe配合OpenAI DevDay 2026发布,为ChatGPT版Adobe插件加入了交互式编辑功能。图片、设计和PDF现在可以由用户直接操作。"
+        },
+        {
+          "t": "p",
+          "x": "做法是:选中图片的一部分交给ChatGPT修改,再用新增的控制项细致调整结果。在编辑器与对话之间切换也不会打断工作上下文。编辑器显示在ChatGPT的侧边面板中,只呈现与当前编辑相匹配的控制项。比如想改变某个物体的颜色,就会出现只作用于该选区的颜色控制。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI负责ChatGPT生态产品的负责人Vibhor Chhabra表示:\"我们希望人们能把想法直接变成可用或可分享的成果,同时仍能把握住过程中的细节。\""
+        },
+        {
+          "t": "p",
+          "x": "图片与设计编辑器运行在Photoshop和Adobe Express之上。选中物体或用画笔涂抹,就能只修改那一部分,再用滑块调整色相、饱和度和对比度。如果社交用的拿铁照片里混入了一张纸巾,用画笔涂抹纸巾并说\"把桌上的纸巾去掉\"即可。接着再涂一次杯子,要求调整亮度和对比度,两个滑块会立刻出现。"
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1493980922a87edd8afc41840096ba07374b50dd7.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "对话与直接编辑在ChatGPT内来回切换。"
+        },
+        {
+          "t": "p",
+          "x": "在编辑器里改动的内容会回到对话中成为上下文,不需要重新说明任务或重新上传文件。想快就用对话,想精细就用直接操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1552fe260a254737147ca7e0ff777ff412e92312a.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "用Acrobat工具可以直接在文档内修改PDF文字。"
+        },
+        {
+          "t": "p",
+          "x": "PDF由Acrobat工具处理。在侧边面板打开文档,修改文字,给段落加高亮。比如在自由职业合同里高亮付款条款段落,再要求它找出更多与结算、账单相关的部分,Acrobat就会在文档中标出这些段落。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe最近把ChatGPT、Claude和Slack上的创意与生产力工具整合进了同一个插件。此次更新从发布当天起在ChatGPT网页版和应用上向全球分阶段推出。"
+        }
+      ]
+    },
+    "design/design-claude-sonnet-5-5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic于9月28日发布了Claude 5.5系列的第二款模型——Claude Sonnet 5.5。相比Sonnet 5有明显提升,速度快30%以上,大多数任务的成本最高降低30%。"
+        },
+        {
+          "t": "p",
+          "x": "Sonnet 5.5是支撑Opus 5.5的更快、更便宜的模型。如果说Opus 5.5承担需要谨慎判断的复杂工作,那么Sonnet 5.5最擅长范围明确的日常任务、修复漏洞,以及制作高完成度的文档、幻灯片和表格。Anthropic还表示它具备\"敏锐的设计眼光\"。面向大批量、低成本场景的Claude Haiku 5.5将在几周内加入。"
+        },
+        {
+          "t": "p",
+          "x": "性能差距很大。在智能体编码评测Terminal-Bench 4.0中,它拿到了70.6%,而Sonnet 5只有10.3%。在GDPval-AA中,它仅比Opus 5.5低2分,也是首个仅凭截图就通关《宝可梦:红》的Sonnet模型。"
+        },
+        {
+          "t": "p",
+          "x": "价格与Sonnet 5相同:每百万输入token 2美元,输出10美元,缓存读取0.20美元。由于完成同样的工作所需token大幅减少,单任务成本最高下降了30%。"
+        },
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cf0eae4b26b6fbe29e370d300ecac766cb94bc2d-1600x1000.png",
+          "cap": "针对\"用一个HTML文件呈现400只椋鸟的群飞\"这一提示,Sonnet 5.5给出的结果。"
+        },
+        {
+          "t": "p",
+          "x": "早期测试者特别提到了它的设计感。据反馈,它能为用户界面增加完成度,按模板做出几乎不需要修改的幻灯片。在内部测试中,给它一家上市公司的季度财报资料、通话记录和幻灯片模板,让它制作一份10页的运营回顾报告,两位专家认为初稿可以直接发送。"
+        },
+        {
+          "t": "p",
+          "x": "其网络安全能力已接近Opus 5,是首款配备与旗舰模型相同网络防护机制的Sonnet模型。"
+        }
+      ]
+    },
+    "design/design-de-slopify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*8HZbm_CuQ7CumOwEIQYm4w.png"
+        },
+        {
+          "t": "p",
+          "x": "这是给做vibe coding的人的建议。作者Maya Brennan说,在AI slop(AI式粗制品)泛滥的当下,她得出了三个结论:人们能认出slop,讨厌它,却不知道怎么修正。认出糟糕的设计和修正它,是完全不同的两件事。"
+        },
+        {
+          "t": "p",
+          "x": "但这不意味着所有AI产出都是slop。如今大多数界面至少部分是通过vibe coding做出来的,AI也催生了不少富有表现力的设计。slop指的是没有思考、没有投入、没有品质,往往是批量产出的结果。它省略了经过推敲的决定,只堆砌多余的装饰,把所有内容都讲成同一个样子。"
+        },
+        {
+          "t": "p",
+          "x": "第一步是分析。不要止步于\"看起来就是很糙\",而要逐一找出究竟是哪些元素让它看起来像slop。作者还附上了一份汇总vibe coding界面\"slop信号\"的清单。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*KcCqIaBkPQUYxDwSsQElOA.png",
+          "cap": "vibe coding界面中暴露出的slop信号。"
+        },
+        {
+          "t": "p",
+          "x": "去除的过程分阶段进行。第0级是一句话提示词。不给任何参考风格,要求生成一套知识问答之夜用的Y2K风格幻灯片,slop信号会原样出现。要求它看起来\"不那么像vibe coding\"也没什么效果。"
+        },
+        {
+          "t": "p",
+          "x": "第1级是整理:去掉多余的元素,具体指定颜色、字体和图形。仅使用Coolors配色、Google Fonts字体和Lucide图标,界面就会明显更精致,再加上Unsplash的照片,就能有一种模拟质感。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*7aVvNcPVCmRKLfWfJDPTdg.png",
+          "cap": "指定字体和配色后重新生成的幻灯片。"
+        },
+        {
+          "t": "p",
+          "x": "第2级是确定美学方向:附上参考图片,或用文字描述风格。AI在有机、富有表现力的风格上较弱,风格越\"数字化\"就还原得越好。不过作者也划出一条界限:未经许可把别人的作品放进去用于复制,是不对的。"
+        },
+        {
+          "t": "p",
+          "x": "第3级才是真正的设计。如果是像网站这样的大型成果,就要从Dribbble和Mobbin获取灵感,手绘线框图,在Figma里亲自搭建画框,再把那份设计当作AI实现要达到的标准。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*YkvrMVytpXb_MUDAoWcbow.png",
+          "cap": "让AI原样还原Figma文件的结果。"
+        },
+        {
+          "t": "p",
+          "x": "以上这些阶段是针对一次性设计的。如果涉及整个产品或品牌,就还需要引入智能体工作流和设计系统。"
+        }
+      ]
+    },
+    "design/design-openai-dots-mascots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/1-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI发布了名为\"Dots\"的新AI智能体产品线。它们的样子仿佛是从儿童动画片里跑出来的。在9月29日于旧金山举行的第四届DevDay上约20项发布中,Dots是主角。Dots是运行在最新模型GPT-6 Astra上的常驻智能体。"
+        },
+        {
+          "t": "p",
+          "x": "Dots没有沿用OpenAI标志性的\"Void\"图标,而是每个都换上了可爱柔软的角色形象,比如打着蝴蝶结的三角形、戴耳机的兔子、戴贝雷帽的云朵。"
+        },
+        {
+          "t": "p",
+          "x": "Dots使用自己专属的云端计算机,通过反馈不断学习,并借助插件生态连接超过4000个应用。你可以像对同事那样在ChatGPT、Slack或Teams里向它提问、给反馈,也支持语音通话。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/2-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "用户先为自己主要使用的Dot命名,再按用途进行装饰。示例中出现了胖胖的微笑青蛙Todd、戴墨镜的爱心Jojo,以及软乎乎的蓝色云朵Felipe。"
+        },
+        {
+          "t": "p",
+          "x": "Fast Company认为这种可爱并非偶然,因为当下人们对AI智能体的不安情绪格外强烈。正如Meta本月初推出拟人化的Muse智能体一样,分析认为OpenAI也在很大程度上依赖角色设计来化解信任问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/5-openai-embargo-news.jpg"
+        }
+      ]
+    },
+    "design/design-meta-hologram-avatars": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta即将在几个月内推出其长期预告的写实风格头像,名为\"Hologram\"。Road to VR的Scott Hayden在Meta Connect现场亲自体验了一番。"
+        },
+        {
+          "t": "p",
+          "x": "Hologram首先会搭载在右眼装有一块透明显示屏的Meta Ray-Ban Display上,此前的名称是\"Codec Avatars\"。它也会登陆新发布的Meta VR眼镜,但那个版本要到2027年春季才上市。"
+        },
+        {
+          "t": "p",
+          "x": "严格来说这并非3D光场全息图,而是一种融入AI的沉浸式头像,更接近2.5D。制作方式也和Apple Persona不同:不需要用Vision Pro的传感器扫描面部,只需用Meta手机应用和前置摄像头按几个步骤操作——当场回答最喜欢哪一天、面带微笑读一句短句、左右转动头部。"
+        },
+        {
+          "t": "p",
+          "x": "显示屏版本只靠语音驱动,因此AI要做大量工作。目前先在美国以早期体验方式推出,仅限WhatsApp视频通话使用。作者的头像和本人并不完全一样,但足以骗过不认识他的人。"
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/gYimxV0l/hologram-vr-glasses-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "到了VR眼镜上,情况就不同了。头显下方的传感器追踪眼睛和面部,头像以全身形式从头到脚呈现。它有立体感,却没有真正的深度,所以无法在房间里走动或互相碰拳。手部姿态、头发和衬衫下摆的动作全部由AI生成。"
+        },
+        {
+          "t": "p",
+          "x": "那它比Apple Persona更好吗?作者表示这要看\"更好\"的标准是什么。Persona依然是一个悬浮的头部,但拥有真正的3D深度,Vision Pro的面部追踪精准得令人发毛。"
+        }
+      ]
+    }
+  }
+}

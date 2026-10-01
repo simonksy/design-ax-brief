@@ -1,0 +1,996 @@
+{
+  "cards": {
+    "books/books-kpa-ai-data-mou": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51607_824.png",
+          "cap": "El boligrafo permanece detenido ante la firma. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "La Asociacion Coreana de Cultura Editorial (KPA) envio a las editoriales una 'guia de solicitud del memorando de entendimiento (MOU) para el proyecto de provision de datos de entrenamiento de IA'. La asociacion afirma que creara un 'Centro de Datos Editoriales de IA' para negociar con las empresas de IA a traves de una unica ventanilla y gestionar los derechos, y resume el proyecto como 'proteccion de derechos, negociacion conjunta, suministro controlado y reparto de ingresos'. La KPA no se unio a los principios de uso de IA que anunciaron 12 organizaciones el 29 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Por su estructura, no se trata de una entrega incondicional. Si la editorial presenta su intencion de participar y el alcance de los derechos, la asociacion negocia precio, plazo, uso y limites de salida, y el contrato final solo se firma si la editorial y el autor estan de acuerdo. Como dice la guia, 'la firma del MOU no implica ni obligacion ni costo'."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51608_917.png",
+          "cap": "Sobre un compromiso sin fuerza vinculante, la lista ya empieza a atar. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "Lo que preocupa al editor Park Chul-woong es la lista. Por ahora solo hay que entregar el titulo y el ISBN, pero tambien fue el ISBN lo que determino la elegibilidad de los reclamos en el acuerdo de 1500 millones de dolares de Bartz contra Anthropic. Cuanto mas antiguo o descatalogado es un libro, mas confuso resulta el titular de los derechos, y el autor solo aparece en la ultima linea."
+        },
+        {
+          "t": "p",
+          "x": "La palabra 'entrenamiento' tambien es demasiado amplia. El preentrenamiento, la busqueda RAG y los servicios de tutoria y consulta con IA quedan agrupados en una sola categoria, y no hay ningun criterio para la 'depuracion AI-Safe'. Tampoco se ve una formula para fijar el precio, un pago minimo garantizado ni condiciones de retiro. El contrato entre HarperCollins y Microsoft dura tres anos, paga 5000 dolares por libro repartidos a la mitad con el autor y limita la salida a 200 palabras o el 5% del texto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.ilemonde.com/news/photo/202609/30690_51610_1056.png",
+          "cap": "El precio se paga una sola vez, y la respuesta fluye decenas de millones de veces. © PSTPHNS"
+        },
+        {
+          "t": "p",
+          "x": "Por eso el articulo dice que antes de firmar hay que hacer seis preguntas: la definicion y el alcance del entrenamiento de IA, el consentimiento y precio por separado segun el tipo de uso, el derecho del autor a rechazar, retirar y renegociar, un mecanismo para borrar los datos despues del entrenamiento, la compensacion por los datos ya usados sin permiso, y quien supervisa todo este proceso. El articulo concluye que la respuesta de este proyecto debe ser mucho mas precisa que un simple MOU."
+        }
+      ]
+    },
+    "books/books-chatgpt-book-recs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1400/azure/dazed-prod/1450/6/1456127.png",
+          "cap": "Eternal Sunshine of the Spotless Mind"
+        },
+        {
+          "t": "p",
+          "x": "Natalie Beacroft, que trabaja en una librería de Londres, ayudaba la semana pasada a una clienta a elegir un libro sobre senderismo. La clienta de repente tecleó en su teléfono y preguntó: «ChatGPT recomendó este libro, ¿lo tienen?». Encontraron el libro, pero la conversación se desvaneció."
+        },
+        {
+          "t": "p",
+          "x": "Cada vez más clientes llegan mostrando libros recomendados por un LLM. Con cerca de seis de cada diez adultos británicos usando ya IA, Beacroft se pregunta si se ha acabado lo de explorar las estanterías. Danielle Moylan, de Lalla Books, conoció a una clienta que leyó dos libros recomendados por IA y quedó decepcionada: «Era el mismo género, pero no tenía el alma emocional del primer libro»."
+        },
+        {
+          "t": "p",
+          "x": "Las recomendaciones de IA también se equivocan. El año pasado, la lista de lecturas de verano del Chicago Sun-Times incluía libros inventados por un chatbot. Como los algoritmos impulsan libros que ya son populares, las editoriales independientes, las primeras novelas, los autores de color y la literatura traducida quedan rezagados. El texto cita también el caso de una biblioteca coreana donde la IA genera listas de lectura personalizadas sin pasar por un bibliotecario."
+        },
+        {
+          "t": "p",
+          "x": "Madeline, que trabaja en una librería, admite que la IA ha bajado el umbral de entrada a la lectura, pero dice que «la IA arruina el gusto individual». Si todos los que escriben que les gustó Demon Copperhead reciben la misma recomendación, la cultura termina en manos de unos pocos autores de bestsellers."
+        },
+        {
+          "t": "p",
+          "x": "La solución es simple: elegir una conversación en lugar de un chatbot. Como dicen los libreros de Funny Weather: «Recomendar un libro es, al final, recomendar una emoción. La IA no puede sentir, pero un librero sí»."
+        }
+      ]
+    },
+    "books/books-dutch-meta-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2019/02/depositphotos_85000222_l-2015.jpg?h=02abf47d",
+          "cap": "Facebook - Credit: goglik83 / DepositPhotos"
+        },
+        {
+          "t": "p",
+          "x": "Escritores y periodistas protestarán el martes frente a la sede neerlandesa de Facebook contra el uso de sus textos para entrenar modelos de IA. La protesta se celebra un día antes de que abra, el miércoles, la Semana del Libro Infantil. La organizan la fundación de derechos de autor Stichting Lira, el sindicato de escritores neerlandés Auteursbond y la Asociación de Periodistas de los Países Bajos (NVJ)."
+        },
+        {
+          "t": "p",
+          "x": "Afirman que sus textos se almacenan y comparten en las llamadas bibliotecas en la sombra: repositorios en línea ilegales que copian y difunden libros y textos protegidos por derechos de autor sin el permiso de sus titulares."
+        },
+        {
+          "t": "p",
+          "x": "Según Marketing Tribune, escritores, columnistas y periodistas conocidos, entre ellos Sheila Sitalsing, Philip Dröge, Anja Sieckinga y Emy Koopman, respaldan públicamente la campaña o se presentan en el lugar."
+        },
+        {
+          "t": "p",
+          "x": "Lo que piden estas organizaciones es «un acuerdo colectivo que incluya una compensación justa, control sobre la propia obra y transparencia por parte de las grandes tecnológicas». Dijeron que la protesta forma parte de una demanda colectiva contra Meta que se está preparando."
+        },
+        {
+          "t": "p",
+          "x": "Lira, Auteursbond y NVJ enviaron a Meta una carta formal de exigencias el 27 de febrero, pidiéndole que deje de usar las obras de escritores, traductores y periodistas neerlandeses y que no ofrezca en Europa modelos de IA entrenados con datos ilegales. Las organizaciones dijeron que la respuesta de Meta no abrió la puerta a la negociación."
+        },
+        {
+          "t": "p",
+          "x": "En mayo, más de 600 escritores, traductores y periodistas respondieron a una solicitud para comprobar si su obra estaba en el conjunto de datos de entrenamiento de Meta, según Auteursbond. Lisette van Zuunen, presidenta de Auteursbond, dijo entonces: «No estamos en contra de los grandes modelos de lenguaje. Pero la industria de la IA es un negocio de miles de millones de dólares... los escritores no son un recurso gratuito para la IA»."
+        }
+      ]
+    },
+    "books/books-guild-anthropic-share": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131741-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Mientras los 1500 millones de dólares del acuerdo de derechos de autor con Anthropic se reparten entre editoriales, autores y abogados, el gremio de autores (Authors Guild) pidió que las editoriales repartan de forma más justa algunas de las reclamaciones."
+        },
+        {
+          "t": "p",
+          "x": "En un boletín del 25 de septiembre, el gremio de autores dijo que, para libros que llevan mucho tiempo agotados, las editoriales deberían renunciar voluntariamente a sus reclamaciones aunque no haya pruebas de que los derechos contractuales se devolvieron formalmente al autor. A un autor que lleva décadas sin reimpresión y sin ningún contacto con su editorial le parece \"demasiado\" que la editorial siga reclamando el 50% del dinero del acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "Mary Rasenberger, directora general del gremio de autores, dijo en una entrevista con PW el 9 de septiembre que el problema más habitual es la incertidumbre sobre si los derechos fueron devueltos, porque los registros de las editoriales suelen estar incompletos o no existir. El boletín decía: \"Estemos de acuerdo, por favor, en que ese derecho ya debería haberse devuelto y que el autor debería recibir el 100%\"."
+        },
+        {
+          "t": "p",
+          "x": "Otra queja son los libros excluidos del acuerdo porque las editoriales no los registraron a tiempo, ya que solo se compensan los libros registrados en la Oficina de Derechos de Autor de EE. UU. y que Anthropic realmente descargó. El gremio de autores pidió que, para los libros publicados antes de las fechas límite de descarga fijadas por el acuerdo (julio de 2021, agosto de 2022), que ahora están en LibGen o en la Pirate Mirror Library, y que las editoriales tenían la obligación de registrar pero no lo hicieron, las editoriales paguen a los autores el 50% de la compensación por libro."
+        },
+        {
+          "t": "p",
+          "x": "El gremio de autores señaló que, mientras muchas editoriales reciben grandes sumas del acuerdo, la mayoría de los autores no llega a más que \"unas vacaciones modestas o el pago de algunas facturas\". También dijo que, incluso mientras continúan los acuerdos y los litigios, \"los modelos de IA siguen devorando libros sin el consentimiento de autores ni editoriales, ahora mediante escaneos destructivos\"."
+        },
+        {
+          "t": "p",
+          "x": "El boletín también incluyó novedades sobre el proceso de reclamación. Los autores ahora tienen 60 días, no 30, desde que reciben el aviso de reclamación para presentar la documentación. Cuando una editorial reclamó erróneamente el 100%, el administrador del acuerdo ha estado enviando correos de corrección desde la semana del 14 de septiembre. Las cinco grandes editoriales han abierto buzones dedicados a las consultas de los autores."
+        }
+      ]
+    },
+    "books/books-storytel-recaps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_298/crop_fill,w_1200,h_628/f_auto/39-17102726aafff26d7881/1789919621",
+          "cap": "Susi Aubinen cree que los resúmenes de Recaps no ayudan mucho a los oyentes. Foto: Mikko Koski / Yle"
+        },
+        {
+          "t": "p",
+          "x": "El servicio de audiolibros Storytel activó una función de resumen de trama creada por IA llamada ‘Recaps’. Resume en pocas frases lo que ha ocurrido en los últimos 5 a 15 minutos del libro que se está escuchando. El lanzamiento de la función se anunció a principios de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "El responsable de producto y tecnología de Storytel, Johan Stolle, dice: ‘El objetivo del resumen breve es ayudar a los usuarios a terminar el libro que empezaron y a leer más libros. Los clientes están más contentos cuando terminan un libro.’"
+        },
+        {
+          "t": "p",
+          "x": "La escritora y periodista Susi Aubinen se sorprendió la semana pasada al hojear la app y encontrar un resumen de IA en su propio libro. Un libro publicado por la propia Storytel llevaba un resumen añadido, sin aviso previo. ‘Que yo sepa, nunca di permiso para que mi escritura fuera procesada por IA’, dijo."
+        },
+        {
+          "t": "img",
+          "src": "https://img.img-cdn.yle.fi/crop_extract,w_1080,h_607,x_0,y_302/crop_fill,w_767,h_431,ar_16:9,dpr_1/f_auto/39-17112416ab26825dfdac/1790077167",
+          "cap": "La pantalla de resumen de IA del libro de Aubinen ‘Unitarinoita’ en la app de Storytel. Foto: Storytel, editada por Miia Anttila / Yle"
+        },
+        {
+          "t": "p",
+          "x": "Lo que preocupa a Aubinen son las alucinaciones. Cuando la IA no logra ‘entender’ el texto que resume, inventa huecos, y así se mezclan errores. ‘El contenido de la obra puede cambiar en el resumen. El lector ya no puede saber si ese resumen coincide con el libro original.’"
+        },
+        {
+          "t": "p",
+          "x": "Ville Huotonen, presidente de la Unión de Escritores de Finlandia, cree que los resúmenes de IA alteran incluso el carácter literario de la obra original. ‘Ahí, la aportación del autor queda reducida a la mera estructura de la trama. Para un escritor es una idea desagradable. La literatura seria trata de mucho más que el resumen de la trama: el lenguaje, la profundidad psicológica de los personajes y otros elementos que a la IA le cuesta lograr.’ Huotonen añadió que el historial de modelos de IA entrenados sin permiso con obras protegidas por derechos de autor aumenta la desconfianza de los escritores."
+        },
+        {
+          "t": "p",
+          "x": "Stolle dijo que entiende la preocupación de los autores. La empresa afirma que, hasta ahora, los comentarios negativos de los autores han sido muy escasos. ‘Los autores son artistas. Es natural y razonable preocuparse por el avance de la IA: ¿quién no lo haría? Intentamos respetar el texto original al máximo.’ Explicó que, al ser los resúmenes breves, también hay menos espacio para alucinaciones."
+        },
+        {
+          "t": "p",
+          "x": "Stolle dice que se avisó a las editoriales con un mes de antelación y se les dio la opción de rechazarlo. El razonamiento es que las editoriales representan a los autores, por lo que la empresa no negocia con cada autor por separado. Huotonen dijo que no ha oído que la empresa haya avisado directamente a los autores. La empresa sueca Storytel opera actualmente en más de 20 países."
+        },
+        {
+          "t": "p",
+          "x": "Aubinen no confía en que se respeten los derechos de autor, ya que no se avisó a los autores ni se reveló cómo se elaboran realmente los resúmenes. ‘Esta ambigüedad es el problema’, dijo. Espera que autores, editoriales y servicios de streaming abran un debate conjunto para fijar reglas claras. ‘El método actual de actuar primero y aclarar las cosas después no funciona.’"
+        }
+      ]
+    },
+    "books/books-mangaplus-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurv2.png",
+          "cap": "Captura de pantalla: Siliconera"
+        },
+        {
+          "t": "p",
+          "x": "Shueisha, editorial de Shonen Jump, lanzó una encuesta que pregunta sobre la traducción por IA. La encuesta de Manga Plus permanece abierta hasta el 27 de septiembre de 2026. Shueisha no ha decidido adoptarla, pero la sola encuesta ha reavivado el debate sobre la traducción automática de manga."
+        },
+        {
+          "t": "p",
+          "x": "Surgió una serie de preocupaciones: ruido y contaminación por combustible, empleo, privacidad, salud mental y robo de propiedad intelectual. Pero el argumento de Siliconera se mueve en otro nivel: que los grandes modelos de lenguaje de IA no son aptos, desde el principio, para la traducción y la localización."
+        },
+        {
+          "t": "p",
+          "x": "No es una cuestión de necesitar más datos de entrenamiento ni algo que se pulirá con el tiempo, insiste el medio. El argumento es que la forma en que funciona la traducción automática choca con la naturaleza de ese trabajo."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de lo que repiten los directores de tecnológicas, la IA no tiene conciencia ni percepción. Solo sustituye una palabra por otra marcada como similar en una base de datos. El significado que sobrevive es producto del azar. La IA no puede juzgar si esa palabra o frase es un sustituto adecuado, ni cuánta implicación conserva, porque no puede juzgar el significado en sí. El problema es que el significado lo es todo en la traducción."
+        },
+        {
+          "t": "img",
+          "src": "https://www.siliconera.com/wp-content/uploads/2026/09/aisurveybig.png?w=1024&resize=1024%2C576",
+          "cap": "La pregunta sobre traducción por IA incluida en la encuesta. Captura de pantalla: Siliconera"
+        },
+        {
+          "t": "p",
+          "x": "El lenguaje tiene una densidad informativa alta. El tono, el tema, el significado, las referencias y el contexto amplio se tocan entre sí. Trasladar algo tan complejo como una historia sin perder nada es casi imposible. Por eso el trabajo del traductor es, en buena parte, una labor de selección: decidir qué significados conservar y cuáles dejar de lado. La traductora Sarah Moon, en un video sobre el anime ‘Chihayafuru’, señaló las decisiones que el equipo de traducción y localización tuvo que asumir para lograr legibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Las restricciones también pueden generar creatividad. Los traductores humanos llenan las brechas culturales por caminos inesperados. Yangus, de Dragon Quest VIII, es un ejemplo. En el original japonés, Yangus habla como un matón yakuza y llama al protagonista ‘aniki’. La versión en inglés le dio un acento cockney o de Estuary, que condensa a la vez su pasado criminal, su personalidad simple y su papel de alivio cómico."
+        },
+        {
+          "t": "p",
+          "x": "Siliconera traduce así una línea del texto de Jost Zetzsche publicado en el ATA Chronicle: ‘Las máquinas traducen palabras; las personas traducen significado.’ La conclusión del medio es que, al tratar algo más complejo que un tuit, los traductores humanos no son un lujo sino una necesidad."
+        }
+      ]
+    },
+    "books/books-japan-usedbooks-scan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aimatters.co.kr/wp-content/uploads/2026/09/10_japan-used-books-ai.jpg",
+          "cap": "Fuente de la imagen: generada con Ideogram"
+        },
+        {
+          "t": "p",
+          "x": "Las ventas diarias de las librerías de libros usados en Japón se han multiplicado hasta por cinco, según informó Tom's Hardware el 24 de septiembre, hora local, citando un reportaje de Nippon TV."
+        },
+        {
+          "t": "p",
+          "x": "El aumento se debe a la aparición de compradores que adquieren libros anteriores a 2022 por toneladas, con el objetivo de conseguir datos de entrenamiento para modelos de IA."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué 2022? Las publicaciones posteriores a 2022, cuando la IA generativa se popularizó, pueden contener frases escritas o editadas por IA, lo que reduce su valor como datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Las estadísticas de comercio muestran que una filial de una gran distribuidora editorial japonesa ha exportado a EE. UU. más de 50 toneladas bajo la categoría 'JAPANESE BOOKS' desde el año pasado, el equivalente a unos 100.000 ejemplares. Tom's Hardware informó que este volumen parece dirigirse a una instalación que escanea los libros y luego los destruye."
+        },
+        {
+          "t": "p",
+          "x": "El escaneo destructivo consiste en cortar la encuadernación del libro, separarlo en hojas sueltas y fotografiarlas a alta velocidad. Es mucho más rápido que escanear página por página, pero no queda ningún ejemplar original."
+        },
+        {
+          "t": "p",
+          "x": "También hay una razón para fijarse en las publicaciones. El japonés cuenta con muchos menos corpus públicos de gran tamaño que el inglés. Un corpus es un conjunto de documentos reunidos para entrenar un modelo de lenguaje, y la cantidad de texto japonés que se puede extraer de la web es relativamente limitada."
+        },
+        {
+          "t": "p",
+          "x": "¿Y la ley? El artículo 30-4 de la ley de propiedad intelectual de Japón permite ampliamente el uso de obras protegidas con fines de análisis de información, pero el debate sobre el alcance de esa disposición continúa. Aunque los libros usados se hayan comprado de forma legítima, si está permitido usar los datos escaneados para entrenar un modelo es una cuestión distinta."
+        }
+      ]
+    },
+    "books/books-naverwebtoon-byus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/eb3d3a460a5de7.jpg",
+          "cap": "Foto: Naver Webtoon"
+        },
+        {
+          "t": "p",
+          "x": "El chat de IA de Naver Webtoon, 'byUs', ha superado los 14 millones de conversaciones acumuladas apenas 10 semanas después de su lanzamiento, según cifras reveladas por la compañía el día 25. El servicio se lanzó en julio pasado y está disponible en el menú 'Más' de la aplicación."
+        },
+        {
+          "t": "p",
+          "x": "Así funciona: el lector se convierte en el protagonista de la historia y construye su propia narrativa. Su particularidad es que usa propiedad intelectual (IP) aprobada por el autor original, y la creación derivada se desarrolla sobre escenarios revisados por el propio autor."
+        },
+        {
+          "t": "p",
+          "x": "Hay varios títulos de contenido conversacional basados en webtoons, y entre ellos el basado en 'Diario de cambio de empleo' llamó la atención al superar los 3,2 millones de conversaciones acumuladas."
+        },
+        {
+          "t": "p",
+          "x": "La nueva experiencia también repercutió en el consumo de la obra original. Aunque 'Diario de cambio de empleo' estaba en pausa, al comparar la semana previa y posterior al lanzamiento del servicio se registró un aumento del 67% en las vistas de la obra original y del 105% en nuevos usuarios."
+        },
+        {
+          "t": "p",
+          "x": "También se incorporaron medidas de seguridad: se filtran de antemano el lenguaje vulgar y las expresiones sexuales, y durante la fase de creación de contenido un análisis de palabras clave con IA bloquea escenarios inapropiados."
+        },
+        {
+          "t": "p",
+          "x": "Naver Webtoon también está evaluando un lanzamiento en el extranjero, incluido Japón, apoyándose en su experiencia de operación nacional."
+        },
+        {
+          "t": "p",
+          "x": "Un representante de Naver Webtoon dijo que los webtoons están avanzando más allá de ser contenido para 'ver' hacia un terreno 'interactivo' en el que los fans participan en el universo de la historia y lo amplían, y añadió que la empresa busca crear un círculo virtuoso en el que se redescubra el atractivo de la obra original, se profundice el apego a la propiedad intelectual y se refuerce su ciclo de vida."
+        },
+        {
+          "t": "p",
+          "x": "La idea es dar disfrute a los lectores y, a los autores, nuevas oportunidades de generar ingresos."
+        }
+      ]
+    },
+    "books/books-goncourt-orelien": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/805a53985eeaa5d325b415cdf6ae98f6c248b5b3/624_0_6240_4994/master/6240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05efab51d806894329a2065c5d120180",
+          "cap": "Télisson Aurélien. Su libro 'C'était ça ou mourir' ha vendido unos 35,000 ejemplares. Fotografía: Joel Saget/AFP/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los organizadores del premio literario más prestigioso de Francia retiraron de su primera lista de finalistas la novela de un autor canadiense-haitiano, después de que una cuenta anónima en internet afirmara que el libro había sido escrito “casi por completo” por una IA."
+        },
+        {
+          "t": "p",
+          "x": "El viernes, la Académie Goncourt, con sede en París, declaró que su decisión de retirar la novela de Télisson Aurélien 'C'était ça ou mourir' (Eso o la muerte) se tomó “para proteger la integridad del Premio Goncourt y de la propia Academia”. La Academia escribió que su papel central es “dar a conocer y honrar la literatura escrita por mujeres y hombres”."
+        },
+        {
+          "t": "p",
+          "x": "El libro de este autor nacido en Haití es un relato en primera persona de un profesor de historia y geografía que huye de un país sumido en la violencia de las pandillas, atraviesa 12 países y busca refugio en Canadá. Publicado en agosto por Grasset en Francia, ha vendido unos 35,000 ejemplares, y sus derechos de traducción se han vendido en más de 20 países."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/f706bd5d45cabade0c52f0a21e0444d455ed3068/514_0_5140_4116/master/5140.jpg?width=445&dpr=1&s=none&crop=none",
+          "cap": "La novela expuesta en una librería de París. Fotografía: Sarah Meyssonnier/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "La acusación de que fue escrito por IA surgió en X el 21 de septiembre, el mismo día en que el libro ganó el premio a la mejor novela de Fnac. Una cuenta anónima llamada 'Balance ton Claude', un nombre que alude al agente de IA de Anthropic, afirmó que al pasar la novela por el software de detección de IA Pangram, este determinó que había sido escrita “casi por completo” por inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "La acusación aún no se ha probado. Se han planteado dudas sobre la precisión de Pangram, y medios franceses encontraron otros programas de detección de IA que calificaron el mismo libro como muy probablemente escrito por un humano."
+        },
+        {
+          "t": "p",
+          "x": "Aurélien, de 38 años, negó las acusaciones y dijo que tenían una motivación racial. “Siempre he amado crear y escribir. ¿Por qué usaría una máquina?”. A Libération le dijo que había usado el lenguaje y los ritmos tradicionales de Haití y el Caribe. “Las imágenes, la repetición, el ritmo son un lenguaje vivo, y es mío”."
+        },
+        {
+          "t": "p",
+          "x": "Se reveló que el dueño de la cuenta anónima era, en las páginas del diario de centroderecha Le Figaro, su propio columnista, Samuel Fitoussi. Escribió en X que era un “optimista tecnológico” que, aun así, inició la campaña por temor a que la IA “hiciera desaparecer la lectura y la escritura”."
+        },
+        {
+          "t": "p",
+          "x": "El miércoles, el presidente de la Académie Goncourt, Philippe Claudel, pidió prudencia al tratar las acusaciones. Lo que parece haber cambiado el ánimo es una acusación de plagio distinta, informada por separado por medios franceses: Libération sostuvo que Aurélien plagió, en un relato premiado, el prólogo del libro del periodista francés Louis Pauwels 'La mañana de los magos' (publicado por primera vez en 1960)."
+        },
+        {
+          "t": "p",
+          "x": "El comunicado de la Academia mencionó tanto “plagios cometidos por el autor a lo largo del tiempo y que apenas ahora salen a la luz” como el hecho de que “varios análisis de investigadores y periodistas fiables convergen en que es muy probable que este libro sea, en gran medida, producto de la inteligencia artificial”. Añadió que quería dejar claro que “no apoya ni tolera de ninguna manera la creación de textos con ayuda de la IA”."
+        },
+        {
+          "t": "p",
+          "x": "Boréal, la editorial canadiense que publicó originalmente el libro, dijo al Guardian que “en esta etapa no puede confirmar ni negar” las acusaciones contra el autor. “Sin pruebas concretas y fiables, no nos corresponde a nosotros decidir si este libro tiene derecho a existir”. Expresó “preocupación” por las acusaciones de plagio, pero dijo que “condena claramente” los mensajes de odio y los ataques personales de los últimos días."
+        },
+        {
+          "t": "p",
+          "x": "Aurélien dijo que no añadiría nada más. El jueves, en el festival literario Rencontres de la Correspondance de Manosque, en el sur de Francia, dijo que “existe un deseo de atacar no solo el libro, sino especialmente mi voz, para silenciarme”, y que daría un paso atrás y esperaría a que la situación se calmara. La Academia anunciará su lista final de finalistas el 6 de octubre y el ganador el 4 de noviembre."
+        }
+      ]
+    },
+    "books/books-oxford-bodleian-openai-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b74d7555c5ff03c9f1d0748fdc68055e",
+          "cap": "OpenAI ha digitalizado materiales de la Biblioteca Bodleian de Oxford para usarlos como datos de entrenamiento. Foto AP"
+        },
+        {
+          "t": "p",
+          "x": "La Universidad de Oxford ha permitido a OpenAI entrenar modelos de IA con textos históricos de la Biblioteca Bodleian. La medida se produce mientras las empresas tecnológicas rastrean el mundo académico en busca de nuevos datos. Documentos internos indican que el material de la Bodleian digitalizado por OpenAI se usó para “llenar los conjuntos de entrenamiento de OpenAI”."
+        },
+        {
+          "t": "p",
+          "x": "Oxford anunció su colaboración con OpenAI en marzo de 2025, afirmando que usaría el software de OpenAI para digitalizar sus colecciones y facilitar el acceso a estudiantes e investigadores. Sin embargo, el anuncio no mencionaba que ese material se usaría para entrenar modelos."
+        },
+        {
+          "t": "p",
+          "x": "Las actas de reuniones internas obtenidas mediante una solicitud de acceso a la información recogen la preocupación del personal, incluidos miembros del comité directivo de la Bodleian. Temen que asociarse con OpenAI pueda dañar la reputación de la universidad, y que contratar con una tecnología que consume mucha energía choque con los compromisos medioambientales de la institución."
+        },
+        {
+          "t": "p",
+          "x": "La web se ha saturado cada vez más de texto generado por IA, lo que reduce su valor para el entrenamiento. Por eso las empresas desarrolladoras recurren a colecciones físicas, en especial libros antiguos. A través de su proyecto NextGenAI, OpenAI ha firmado acuerdos similares con la Biblioteca Pública de Boston, Caltech, el MIT y la Universidad de Míchigan. Oxford es la única institución del Reino Unido que participa."
+        },
+        {
+          "t": "p",
+          "x": "Hasta junio de 2025, la Bodleian había entregado 125.000 imágenes a OpenAI. Incluyen tesis doctorales de universidades europeas y estadounidenses de los siglos XIX y XX, y 10.000 “broadside ballads” del siglo XVI que circulaban por las calles en la época Tudor. Las actas también mencionan la posibilidad de digitalizar masivamente toda la colección de 23 millones de piezas, y planes para un chatbot llamado “Ask the Bod”."
+        },
+        {
+          "t": "p",
+          "x": "La universidad afirmó que la escala de la digitalización “no es grande” y que solo abarca material cuyos derechos de autor ya han expirado. La Bodleian conserva los derechos de las copias digitalizadas, que publicará en línea en pocos meses. También negó haber ocultado el propósito de entrenamiento, y explicó que la digitalización fue la prioridad, y que el hecho de que el material también se usaría como datos de entrenamiento se compartió desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo no daña la colección. Anthropic ha gastado decenas de millones de dólares comprando libros, cortando sus lomos para escanearlos y luego desechándolos. Oxford, en cambio, afirmó que no compra ni destruye libros raros ni antiguos."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de OpenAI dijo sentirse “orgulloso” de ayudar a que “los modelos de IA de hoy preserven el conocimiento histórico del mundo para el futuro”."
+        }
+      ]
+    },
+    "books/books-illustrator-genai-cover-concepts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Illustrator_c_Shutterstock.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Daniela Frongia, ilustradora británica de libros infantiles y premiada artista de aerografía hiperrealista, escribió una columna para The Bookseller. Su título es “Si la IA imagina antes que nosotros, ¿qué le queda al ilustrador?”."
+        },
+        {
+          "t": "p",
+          "x": "Frongia apunta a la práctica de las editoriales de generar las primeras ideas de diseño con IA generativa. Examina cómo cambia el papel del ilustrador cuando la IA se adelanta en la primera etapa de la imaginación, y los problemas que eso plantea."
+        },
+        {
+          "t": "p",
+          "x": "El texto completo de la columna solo está disponible para los miembros de The Bookseller. Aquí se resume a partir del extracto publicado y la biografía de la autora."
+        }
+      ]
+    },
+    "books/books-ai-fiction-detection-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.platum.kr/wp-content/uploads/2026/09/image-87-1024x683.png"
+        },
+        {
+          "t": "p",
+          "x": "Lo que ayudó a distinguir si un relato había sido escrito por una persona o por IA no fue la cantidad de lectura literaria, sino la experiencia usando IA. Aun así, entre todos los participantes, el porcentaje de aciertos sobre el autor fue similar o inferior al del azar."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores Sydney Sears y Deena Skolnick Weisberg, de la Universidad de Villanova, en EE. UU., publicaron estos resultados en la revista Judgment and Decision Making el 4 de agosto. Hicieron leer a adultos de entre 18 y 81 años tres relatos breves escritos por humanos y publicados en revistas literarias o antologías, junto con tres relatos generados con ChatGPT que correspondían a cada uno de ellos."
+        },
+        {
+          "t": "p",
+          "x": "La prueba de identificar al autor se realizó dos veces. 424 y 481 participantes leyeron, en cada ronda, dos relatos sin conocer la identidad del autor y eligieron uno; los porcentajes de acierto fueron del 39,93% y del 51,97%. El primero quedó por debajo de lo esperado por azar, y el segundo no mostró diferencias."
+        },
+        {
+          "t": "p",
+          "x": "Lo que marcó la diferencia en la precisión fue la experiencia y la alfabetización en IA. Quienes dijeron conocer bien la IA, y quienes obtuvieron puntuaciones más altas en una escala validada de alfabetización en IA, acertaron más. Declarar un amplio contacto con la literatura no supuso ninguna diferencia. La profesora Weisberg sugirió que las personas familiarizadas con la IA pudieron fijarse en pistas como el uso frecuente de rayas o estructuras de frase del tipo “no solo X sino Y”."
+        },
+        {
+          "t": "p",
+          "x": "Un experimento de evaluación arrojó resultados distintos. Cuando se informó a 1.682 personas, con veracidad o con engaño, sobre la identidad del autor, y luego se les pidió calificar la calidad y el grado de inmersión, los relatos generados por IA obtuvieron puntuaciones más altas en ambos aspectos. El relato con mayor puntuación fue uno escrito por IA pero presentado como obra de un humano."
+        },
+        {
+          "t": "p",
+          "x": "La profesora Weisberg interpretó esto como un sesgo a favor de las historias atribuidas a un humano. Atribuyó las puntuaciones más altas de los relatos de IA a una escritura clara y directa. Las versiones de IA exponían el tema de forma explícita, mientras que los originales dejaban que el significado emergiera a través de las palabras y acciones de los personajes."
+        },
+        {
+          "t": "p",
+          "x": "La muestra es limitada, con solo tres relatos por grupo y un único modelo, ChatGPT. Conviene leer el resultado no como que la IA escribe mejor ficción, sino como que la capacidad de identificar al autor de un relato breve estuvo más relacionada con la experiencia en IA que con la experiencia literaria."
+        }
+      ]
+    },
+    "books/books-gemini-tts-30sec-voice-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/hero-4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo modelo de voz de Google clona una voz a partir de solo 30 segundos de grabación. Antes de eso, el propietario de la voz debe dar su consentimiento hablando en voz alta. Para los actores de doblaje, este proceso de consentimiento, junto con la lista de regiones donde Google no habilita la función en absoluto, son los puntos más destacados de este anuncio."
+        },
+        {
+          "t": "p",
+          "x": "Google presentó el 23 de septiembre “Gemini 3.8 Flash TTS” y “Gemini 3.8 Flash-Lite TTS”. Flash TTS está pensado para la dirección interpretativa en videojuegos, audiolibros inmersivos y pódcasts, mientras que Flash-Lite se orienta al doblaje masivo y a agentes de voz. Los guiones pueden incluir indicaciones interpretativas como risas o suspiros, y el modelo ofrece más de 2.000 voces predefinidas en más de 100 idiomas y dialectos. Google afirma que el tono apenas varía incluso en audios que duran varias horas."
+        },
+        {
+          "t": "p",
+          "x": "Las salvaguardas de la función de clonación funcionan así: el usuario debe presentar una grabación con el consentimiento oral del propietario de la voz, que debe coincidir con el hablante de referencia, y el sistema compara ambas voces. Si no coinciden, no hay clonación. Todo audio generado lleva una marca de agua SynthID, y las voces clonadas también incluyen credenciales de contenido C2PA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voiceoverherald.com/wp-content/uploads/2026/09/inside-en-1.png",
+          "cap": "Las cinco etapas de la clonación de voz de Google: una muestra de 30 segundos, el consentimiento oral del propietario de la voz, la comparación de voces, el etiquetado con SynthID y C2PA, y las regiones donde no se ofrece."
+        },
+        {
+          "t": "p",
+          "x": "Hay un detalle a pie de página que llama la atención. La clonación de voz en AI Studio no puede usarse en Illinois, Texas, el Espacio Económico Europeo, el Reino Unido, Suiza e India. Google no explicó el motivo, pero esas regiones cuentan con leyes que protegen las huellas de voz como datos biométricos."
+        },
+        {
+          "t": "p",
+          "x": "Para los actores de doblaje, el mayor competidor no es la clonación, sino las bibliotecas de voces predefinidas y las herramientas que diseñan nuevas voces a partir de texto. El consentimiento oral ahora funciona casi como un trámite. Si al final de una grabación una petición de leer “una línea más” suena como un permiso, conviene preguntar antes por el uso, la plataforma, la duración y el pago."
+        },
+        {
+          "t": "p",
+          "x": "Google mencionó a Figma, HeyGen y Wondercraft entre sus socios, y situó el doblaje y la localización como mercados clave. Aún no se sabe cuánto trabajo pasará a manos de las máquinas. Pero ha quedado claro que las grandes empresas de IA ahora actúan asumiendo que deben obtener consentimiento."
+        }
+      ]
+    },
+    "books/books-nonfiction-slump-publishers-turn-literary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/697/imgdb/original/2026/0916/20260916501373.jpg",
+          "cap": "Sucursal de Kyobo Book Centre en Hapjeong, distrito de Mapo, Seúl. Su rincón “Hot Pick” está dedicado sobre todo a novela de género y otras obras literarias."
+        },
+        {
+          "t": "p",
+          "x": "En medio de una crisis editorial, las principales editoriales surcoreanas están ampliando rápidamente su negocio hacia la literatura. El mercado de la no ficción general se ha reducido, mientras que la literatura todavía se vende. En el primer semestre de 2024, solo un título literario figuraba en la lista de “los 10 más vendidos”; este año esa cifra subió a nueve."
+        },
+        {
+          "t": "p",
+          "x": "Según una investigación de Hankyoreh, editoriales como Sahoipyoungnon y Huembooks están impulsando negocios de libros literarios. Sahoipyoungnon, que se consolidó con libros divulgativos y académicos, libros infantiles y manuales de inglés, publicará una antología de poesía a finales de este año y una serie de colecciones de relatos el próximo. Huembooks está preparando un sello literario llamado “Tilda” y ha firmado contratos con una decena de autores de género y narrativa breve."
+        },
+        {
+          "t": "p",
+          "x": "El trasfondo principal es el declive de la “no ficción de conocimiento”. El director de una editorial de divulgación dijo: “En la era de la IA, con tanta oferta de información y conocimiento, ha llegado el momento de reconstruir los niveles de la divulgación, pero cuesta encontrar el rumbo”. Un responsable de una editorial generalista señaló que, como las editoriales literarias dominantes ya tienen prioridad sobre los autores nacionales, también están explorando la literatura extranjera."
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/433/imgdb/original/2026/0916/20260916501376.jpg",
+          "cap": "Infografía del “Informe de datos de ventas de la Red Integrada de Distribución Editorial” (junio de 2026)."
+        },
+        {
+          "t": "p",
+          "x": "Un informe de la Agencia de Promoción de la Industria de la Publicación de Corea también concluyó que el centro de gravedad del mercado se está desplazando hacia la literatura. La cuota de ventas de novela subió del 5,8% en 2024 al 7,3% en 2025 y al 8,4% este año. En cambio, la cuota de ventas y los ingresos cayeron con fuerza en autoayuda, ciencias sociales, arte y filosofía/religión, por ese orden."
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales más recientes aprovechan que autores de literatura pura “salen de su género”. Rabbit Hole publicó la primera novela histórica de misterio de Park Sang-young, y Woorischool publicó la primera novela juvenil de Park Seo-ryeon. También ha aumentado el número de editoriales que empiezan con novela de género “porque los ensayos simplemente no se venden”."
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/350/518/imgdb/original/2026/0916/20260916501375.jpg",
+          "cap": "Portada del primer número de “Munhak-rim”, una revista trimestral lanzada este mes por Yolimwon."
+        },
+        {
+          "t": "p",
+          "x": "Tras su serie de colecciones de relatos, su premio literario y su colección de poesía, Yolimwon lanza la revista trimestral “Munhak-rim”. Aun así, publicar literatura no es fácil: incluso las editoriales literarias dominantes solo reimprimen el 20% de sus novedades. Yoo Jung-yeon, directora de Huembooks, dijo: “No es que entremos en la literatura porque necesariamente haya mercado”, y añadió que el esfuerzo por acercar lectores a los libros debe continuar."
+        }
+      ]
+    },
+    "books/books-sudowrite-character-portraits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Le dieron un nombre, un sueño, una historia e incluso quizás una herida que no necesitaba. Ahora es el turno de darle un rostro al personaje."
+        },
+        {
+          "t": "p",
+          "x": "Story Bible de Sudowrite ya cuenta con una función de retratos de personajes. Se puede generar un retrato directamente desde la ficha del personaje o subir una imagen existente, para tener siempre una referencia visual de cada personaje."
+        },
+        {
+          "t": "p",
+          "x": "El retrato se genera a partir de la descripción de apariencia ya escrita en el personaje. No es necesario escribir un prompt de imagen aparte. Basta con abrir la ficha del personaje, pulsar la casilla de retrato vacía, elegir un estilo y pulsar generar."
+        },
+        {
+          "t": "p",
+          "x": "Los estilos básicos son cuatro: pictórico, realismo cinematográfico, editorial luminoso y libro ilustrado. Se puede elegir solo uno, o los cuatro a la vez para generar varias versiones de golpe. Un villano sombrío puede resultar sorprendentemente adorable en el estilo de libro ilustrado."
+        },
+        {
+          "t": "p",
+          "x": "Si se quiere un vestuario, una expresión o un fondo concretos, basta con escribir instrucciones en los detalles de apariencia. También se puede subir una imagen de referencia y describir qué tomar de ella, por ejemplo la chaqueta que debería llevar el personaje."
+        },
+        {
+          "t": "p",
+          "x": "Para controlar el estilo con más precisión, se pueden desactivar todos los preajustes básicos y escribir el estilo deseado directamente. Se puede probar desde un dibujo a lápiz en blanco y negro hasta un aspecto marcado de novela gráfica."
+        },
+        {
+          "t": "p",
+          "x": "Los retratos generados se guardan automáticamente en la galería de cada personaje. Se pueden reunir varias versiones y compararlas más adelante. Si ya existe una imagen que gusta, subirla la añade directamente a la galería."
+        },
+        {
+          "t": "p",
+          "x": "Al elegir una imagen favorita y fijarla como miniatura, ese rostro aparece junto al nombre incluso con la ficha plegada, lo que facilita reconocer una cara conocida en una Story Bible llena de personajes. La miniatura se puede cambiar en cualquier momento, y los retratos que no se necesiten se pueden borrar."
+        }
+      ]
+    },
+    "books/books-novelcrafter-live-manuscript-org": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lo9p8bVnDxE"
+        },
+        {
+          "t": "p",
+          "x": "Novelcrafter realizó una transmisión en vivo titulada 'Liberarse del bloqueo del escritor' el 27 de septiembre. La emisión duró poco más de 55 minutos."
+        },
+        {
+          "t": "p",
+          "x": "El presentador empieza diciendo que se ha topado con el bloqueo del escritor. El punto de partida de la transmisión es probar varios modelos de IA recién lanzados para desatascar la escritura."
+        },
+        {
+          "t": "p",
+          "x": "La transmisión también revela brevemente una opción de organización de manuscritos que llegará pronto a Novelcrafter. El equipo la presentó como un adelanto de una nueva función de organización."
+        }
+      ]
+    },
+    "books/books-apex-covantage-eden-copyediting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS1994083/33.jpg?id=OA2964297&p=facebook",
+          "cap": "El motor de corrección de IA de Apex CoVantage, Eden"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de servicios de conversión de contenido y datos Apex CoVantage anunció su motor de corrección con IA, Eden (eden), el 23 de septiembre. Pensado para las exigencias de la edición de libros y la publicación académica, se presentará por primera vez en la Feria del Libro de Frankfurt el 7 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Eden está diseñado para trabajar junto a correctores profesionales y expertos en la materia. Usa IA para detectar errores e incoherencias que los correctores ortográficos y gramaticales habituales no detectan. La idea es ampliar el alcance de la experiencia editorial, dejando siempre la decisión final en manos del editor profesional."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de las herramientas de escritura de uso general, Eden está orientado a lo que realmente requiere la corrección editorial: detectar errores que exigen conocer el tema del texto, no solo la gramática. En pruebas iniciales con correctores profesionales, se adoptó entre el 80 y el 90% de las sugerencias de Eden, y la corrección fue unas 3 veces más rápida que cuando la hace una sola persona."
+        },
+        {
+          "t": "p",
+          "x": "Greg Suprock, director de arquitectura de soluciones, dijo: “Cualquier corrector sabe cuánto trabajo queda invisible para el autor hasta que se escapa un error. He visto a los editores cargar con esa presión durante años, y Eden es el primer producto que realmente alivia esa carga. Ha llegado el día en que un modelo de lenguaje de IA puede potenciar la capacidad del corrector y también aumentar la satisfacción del autor.”"
+        },
+        {
+          "t": "p",
+          "x": "Eden deja el control en manos del editor humano de principio a fin. No sustituye a los correctores ni a los expertos en la materia, sino que presenta sugerencias y deja en sus manos aceptarlas, corregirlas o descartarlas. Según la empresa, este diseño explica la alta tasa de adopción de sus sugerencias."
+        },
+        {
+          "t": "p",
+          "x": "El CEO Pardha Karamsetty dijo: “El futuro de la edición no está en que la IA sustituya la experiencia humana, sino en lo que se vuelve posible cuando ambas trabajan juntas”, y añadió: “Con Eden vamos a construir un nuevo modelo de corrección que suma el juicio y la experiencia de los editores profesionales a la velocidad y la escala de la IA.”"
+        },
+        {
+          "t": "p",
+          "x": "Eden se podrá ver del 7 al 11 de octubre en el estand de Apex CoVantage (H70) en la Feria del Libro de Frankfurt. Las demostraciones presenciales u online se pueden solicitar en el sitio web de la empresa."
+        }
+      ]
+    },
+    "books/books-sudowrite-opus55-gpt6-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fue un día agitado para la industria de la IA. Claude Opus 5.5 de Anthropic, junto con GPT-6 Sol y GPT-6 Luna de OpenAI, se lanzaron el mismo día, y los tres ya están disponibles en Sudowrite."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5 es el primer modelo lanzado de la nueva familia Claude 5.5 de Anthropic. Anthropic afirma que ofrece un rendimiento similar al de Fable 5.1 en la mayoría de las tareas, siendo más de un 30% más rápido que Opus 5. Según la compañía, su prosa es más clara y sigue mejor las instrucciones; un probador temprano dijo: “Escribe como yo escribo.”"
+        },
+        {
+          "t": "p",
+          "x": "GPT-6 Sol y GPT-6 Luna ocupan el nivel por debajo de Astra en la familia GPT-6 de OpenAI. Sol es agudo y comete aproximadamente la mitad de errores factuales que el modelo anterior, lo que lo hace bueno para seguir fielmente una Story Bible, y también funciona bien para el plugin. Luna es rápido y económico, adecuado para hacer muchos intentos o volcar ideas que se filtrarán más tarde."
+        },
+        {
+          "t": "p",
+          "x": "Los tres modelos consumen menos créditos que sus predecesores. En una comparación temprana con el mismo párrafo y la misma entrada, GPT-6 Sol costó un 40% menos que GPT-5.6 Sol, y GPT-6 Luna costó un 10% menos que GPT-5.6 Luna. Opus 5.5 fue solo un poco más económico que Opus 5."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia entre los modelos es grande. El costo en créditos de Sol es aproximadamente un tercio del de Opus 5.5, y el de Luna, aproximadamente un séptimo."
+        },
+        {
+          "t": "p",
+          "x": "Son muchos números para un servicio de escritura. Al final, lo que importa es si la prosa que producen estos modelos gusta o no. Los tres modelos ya están disponibles en Write, Draft y el plugin."
+        }
+      ]
+    },
+    "books/books-kenya-ai-textbook-alarm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/d8UfxHh7UAF3aj9kyHetJaIhNIBrWsKxbS8M5PgV.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales kenianas han expresado preocupación por el uso creciente de IA entre los autores que escriben libros de texto y materiales de estudio. La advertencia es que el contenido generado por máquinas podría dañar la autenticidad y la calidad de los libros que leen los estudiantes."
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales dicen que cada vez más autores presentan contenido producido con herramientas de IA. Por eso están reforzando la revisión editorial y formando a los editores para identificar textos generados por IA."
+        },
+        {
+          "t": "p",
+          "x": "Henry Mogoba, director de la Asociación de Editoriales de Kenia, dijo que el uso de IA se ha extendido más allá de la escritura creativa hasta la publicación educativa. Dijo: “Hay autores perezosos que usan IA para generar información y la meten incluso en los libros de texto, y son muy fáciles de detectar.”"
+        },
+        {
+          "t": "p",
+          "x": "La advertencia llega antes de la 27ª Feria Internacional del Libro de Nairobi, un evento anual donde editoriales, autores, librerías y lectores se reúnen para presentar libros y debatir las tendencias del sector."
+        },
+        {
+          "t": "p",
+          "x": "Mogoba dijo que le preocupan especialmente los autores que usan la IA no solo para investigar o generar ideas, sino para producir la obra creativa en sí. “Usar IA para investigar o conseguir ideas no es un problema. Pero ¿cómo puede la IA contar la historia de nuestro pueblo?”"
+        },
+        {
+          "t": "p",
+          "x": "Dijo que algunos autores han sido descalificados recientemente por el uso de IA, y añadió: “Muchos escritores han quedado fuera por este motivo.” También preguntó cómo podría la IA crear personajes reales como un keniano, una persona mijikenda o alguien del centro de Kenia."
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales están trabajando con los editores para evitar que los libros hechos con IA lleguen al mercado. Mogoba dijo: “Se está perdiendo mucho por la IA. Aconsejamos a los autores que no la usen.”"
+        },
+        {
+          "t": "p",
+          "x": "Los libros de texto deben ser no solo originales, sino también precisos y adecuados para los estudiantes. Las editoriales se preguntan dónde trazar la línea entre usar la IA como herramienta y dejar el trabajo del autor en sus manos."
+        }
+      ]
+    },
+    "books/books-mvb-snackz-metadata": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta es una línea del resumen semanal de noticias editoriales que Carlo Carrenho elabora para Publishing Perspectives. La editorial alemana MVB incorpora la herramienta de IA de Snackz a su propio sistema. Es una herramienta que, a partir de un manuscrito o una propuesta de libro, genera categorías, palabras clave y textos para la optimización en buscadores (SEO). Lo informó primero la revista especializada alemana Börsenblatt."
+        }
+      ]
+    },
+    "books/books-ai-secrecy-authors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/678/Robot_hand_typingC_Shutterstock.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La autora y editora Madeline F. White escribió una columna para The Bookseller. A su juicio, la forma en que el sector editorial trata hoy la IA empuja a los autores hacia el secretismo."
+        },
+        {
+          "t": "p",
+          "x": "Si el sector quiere que el uso de la IA sea transparente, sostiene, primero debe hacer que decirlo abiertamente sea más seguro que ocultarlo."
+        },
+        {
+          "t": "p",
+          "x": "White es poeta, autora y editora, nacida en Alemania con raíces en Canadá y el Reino Unido. Su primera novela, Mother Of Floods, la publicó Crowsnest Books, y su nueva novela, No One, se publicará en 2027 con Constellations Press."
+        }
+      ]
+    },
+    "books/books-soundgrab-cinema-audiobook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/09/22/news-p.v1.20260922.a81bb6dd9c1b489896bd1871866eb7da_P1.png",
+          "cap": "Logo de Hybrid Cinema Audiobook"
+        },
+        {
+          "t": "p",
+          "x": "El estudio de posproduccion de audio SoundGrab y la empresa de voz de IA VoiceGrab anunciaron el dia 22 el lanzamiento de 'Hybrid Cinema Audiobook', un formato que combina una mezcla de sonido de nivel hollywoodense con voces de IA."
+        },
+        {
+          "t": "p",
+          "x": "El mercado de audiolibros crece rapido, pero para las editoriales usar varios actores de voz implica costos de produccion mas altos y calendarios mas largos. Los oyentes, por su parte, quieren un sonido mas dramatico que una simple lectura."
+        },
+        {
+          "t": "p",
+          "x": "SoundGrab dirigio la produccion de los audiolibros del thriller 'La mate', de la autora Jung Hae-yeon, y de 'La espiral transparente', de Keigo Higashino, ambos publicados en Millie's Library. Elevo la inmersion con efectos de sonido envolventes, musica original para cada escena y un tratamiento vocal que conserva los matices de los actores. Este nuevo producto reune el conocimiento acumulado en ese trabajo."
+        },
+        {
+          "t": "p",
+          "x": "La empresa tambien incorporo personal que trabajo como ingenieros de re-grabacion de peliculas y grandes contenidos mediaticos en Estados Unidos. Segun explican, al aplicar los estandares de sonoridad y la mezcla envolvente espacial que se usan en la produccion de cine y OTT, el oyente percibe un sonido como si estuviera en medio de una sala de cine, incluso solo con auriculares."
+        },
+        {
+          "t": "p",
+          "x": "La clave es la division del trabajo. Los actores de voz profesionales interpretan a los personajes principales, donde la actuacion emocional importa, mientras que las voces de IA personalizadas de VoiceGrab leen las extensas acotaciones y narraciones. Las editoriales pudieron ahorrar mas del 50% en costos de produccion y reducir a la mitad el tiempo de produccion frente al uso de varios actores de voz."
+        },
+        {
+          "t": "p",
+          "x": "Esta temporada de otono, las dos empresas amplian sus alianzas B2B con editoriales de literatura de genero como misterio, thriller y fantasia romantica, ademas de grandes editoriales. Tambien planean ayudar a expandir la propiedad intelectual editorial hacia trailers de webtoons, novelas web, dramas de formato corto y guiones de audio previos a la adaptacion audiovisual. SoundGrab tiene su sede en el Pangyo Virtual Fusion Industry Hub, un proyecto impulsado por el Ministerio de Ciencia y TIC y la NIPA."
+        }
+      ]
+    },
+    "books/books-translator-ai-post-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mediatoday.co.kr/news/photo/202609/337377_483867_243.jpg",
+          "cap": "El traductor Noh Seung-young presenta en un coloquio del Centro de Información Estratégica Internacional de la Biblioteca de la Asamblea Nacional, el 17 de septiembre. Foto: periodista Kim Ye-ri"
+        },
+        {
+          "t": "p",
+          "x": "El traductor Noh Seung-young participó el día 17 como ponente en el coloquio de expertos La traducción en la era de la inteligencia artificial: leer el sentido más allá de las fronteras del idioma, celebrado en el Centro de Información Estratégica Internacional de la Biblioteca de la Asamblea Nacional. Dijo: “La traducción automática por inteligencia artificial no es sostenible a corto plazo. Se necesita intervención humana.” Con 21 años de trayectoria, ganó en 2024 el Premio de Traducción de la Cultura Editorial de Corea por su traducción de The Substance of All Things, de Suji Sihi."
+        },
+        {
+          "t": "p",
+          "x": "La interpretación y la traducción se consideran un campo muy afectado por la IA. Microsoft, en un informe que analiza datos de usuarios de Copilot, señaló a los intérpretes y traductores como la profesión con mayor probabilidad de aplicación de IA. En la práctica se extiende con rapidez la MTPE (posedición de traducción automática), en la que una persona pule el resultado de la máquina. Un medio estadounidense influyente, al buscar traductor al coreano, no pedía a alguien que tradujera los artículos directamente, sino a alguien que adaptara el texto traducido por máquina al contexto coreano."
+        },
+        {
+          "t": "p",
+          "x": "¿Eso facilitó el trabajo? Su respuesta es la contraria. Antes se mezclaban frases fáciles y difíciles, pero editar y revisar un resultado de traducción automática exige estar en alerta todo el tiempo. Para ganar lo que ganaba antes, ahora debe trabajar más horas. Lo describió como “una persona que ajusta su ritmo al de la IA, una persona que se convierte en herramienta de la máquina.”"
+        },
+        {
+          "t": "p",
+          "x": "Entre los límites de la traducción por IA, señaló que resulta difícil lograr una traducción por encima del promedio y seguir el ritmo de un idioma que cambia constantemente, como ocurre con los neologismos. La traducción automática persigue el promedio; las personas, la excelencia. También advirtió que si la IA desplaza a las personas y aumenta el material traducido por máquina en el mercado, la IA volverá a aprender de ese material y la información acabará degradándose: lo llamó “la trampa del Uróboros”, por la serpiente que se come su propia cola."
+        },
+        {
+          "t": "p",
+          "x": "Él ve la traducción menos como descifrar un código y más como restaurar una intención. Cita como ejemplo la frase “Love is happiness”. Si imaginara esa frase como algo traducido del coreano, dice que él la habría escrito como “amar es ser feliz”, y añade: “Todavía quiero creer que la IA no puede traducir así.”"
+        }
+      ]
+    },
+    "books/books-grandmaslop-ai-storybooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con herramientas como Gemini, Claude y ChatGPT al alcance de cualquiera, surgió un nuevo término: “grandmaslop”. Describe a los abuelos que convierten fotos de sus nietos en versiones de IA para llenar álbumes familiares y enviárselas a sus hijos. La brecha generacional es marcada en el uso de IA generativa con fotos familiares."
+        },
+        {
+          "t": "p",
+          "x": "Un usuario de Reddit escribió: “Soy de la generación X, y mi madre, de la generación del baby boom, hizo un libro entero con IA para mis dos hijos. Fue extraño.” Otros preguntaron que, si una foto es una forma de guardar un instante como recuerdo, qué es entonces una imagen de IA que retrata un instante que nunca ocurrió."
+        },
+        {
+          "t": "p",
+          "x": "Al volverse más fáciles las herramientas, los abuelos empezaron a crear cuentos enteros protagonizados por sus nietos y a enviarlos por correo a sus hijos. Surgieron quejas: “Los libros son pésimos. Todo es el mismo estilo de caricatura de IA genérica, las historias no tienen sentido y las rimas ni siquiera riman.” Algunos señalaron que libros pensados para rimar contenían palabras que no rimaban en absoluto."
+        },
+        {
+          "t": "p",
+          "x": "En el trabajo, la historia es distinta. Según un informe de Randstad, el 50% de los millennials usa IA en su trabajo, por delante de los baby boomers (19%) y la generación X (34%). Pero cuando se trata de sus propios hijos, parecen querer dejar la IA fuera."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/n8CZCZFtGvzzrDJXRnWVFD.jpg",
+          "cap": "Crédito de imagen: Shutterstock / Studio Romantic"
+        },
+        {
+          "t": "p",
+          "x": "El hilo de Reddit pronto se convirtió en quejas sobre abuelos que no se esfuerzan por sus nietos. El autor sostiene que el rechazo al grandmaslop quizá revele menos sobre la IA en sí que sobre una tensión generacional económica y cultural. Una imagen de IA de un nieto montando un dinosaurio no tiene nada de malo, y a algunos niños les encantaría. Pero cuando abuelos que casi no se muestran envían en su lugar un cuento hecho con IA, parece solo otro atajo más. El punto central es que la IA generativa ya puede imitar el esfuerzo que los padres quieren que sus hijos reciban de verdad."
+        }
+      ]
+    },
+    "books/books-demarque-elevenlabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131766-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "De Marque, distribuidora de Quebec, Canadá, ha permitido que las editoriales que usan su paquete de servicios digitales Cantook publiquen audiolibros con la empresa de voz IA ElevenLabs. El proceso se realiza a través de la plataforma de ElevenLabs, ElevenReader."
+        },
+        {
+          "t": "p",
+          "x": "El catálogo de Cantook abarca 1,8 millones de títulos en varios idiomas, incluidos el inglés y el español. Las editoriales eligen los libros que desean y los dejan en manos de la narración automática de ElevenReader, lo que les permite publicar más audiolibros."
+        },
+        {
+          "t": "p",
+          "x": "Según el anuncio, esta alianza busca reducir la 'brecha crónica' entre la publicación de audio en inglés y en otros idiomas. Según datos públicos, las editoriales estadounidenses han publicado más de 750.000 títulos en audiolibro, mientras que las francesas apenas llegan a unos 20.000. ElevenReader admite ahora más de 90 idiomas, incluidos el francés, el inglés, el español y el portugués."
+        },
+        {
+          "t": "p",
+          "x": "Marc Boutet, presidente de De Marque, dijo que las editoriales con las que trabajan llevan años preguntando por el audio, y añadió: 'La respuesta sincera siempre fue la misma: la mayor parte del catálogo no era rentable.'"
+        },
+        {
+          "t": "p",
+          "x": "De Marque ha declarado que usa herramientas de IA para reducir las barreras de la lectura digital. También se asoció con la plataforma de comercio electrónico Supadu para ayudar a sus clientes a crear tiendas que venden directamente a los lectores. En ese momento, Boutet explicó que la medida buscaba reducir los 'obstáculos técnicos y comerciales' que enfrentan las editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Cada editorial decide si participa. Los títulos participantes se pueden escuchar en la aplicación de escucha por suscripción de ElevenReader."
+        }
+      ]
+    },
+    "books/books-bisg-ai-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/cached/ARTICLE_PHOTO/photo/000/000/131/131772-v1-600x.JPG"
+        },
+        {
+          "t": "p",
+          "x": "El uso organizacional de IA en la industria editorial de Norteamérica ha aumentado considerablemente en el último año. El uso personal, en cambio, ha disminuido. Así lo indica el segundo informe anual sobre IA del Book Industry Study Group (BISG) y BookNet Canada."
+        },
+        {
+          "t": "p",
+          "x": "Una encuesta a 771 personas que trabajan en el sector editorial encontró que el uso organizacional de IA en las editoriales saltó del 48% al 63%. El uso personal cayó del 46% en 2025 al 38% actual."
+        },
+        {
+          "t": "p",
+          "x": "La industria parece estar dividiéndose según una línea de fractura clara. Las editoriales incorporan la IA con políticas y flujos de trabajo controlados, reforzando la supervisión. Las personas que hacen el trabajo, en cambio, dan un paso atrás y se acercan con cautela."
+        },
+        {
+          "t": "p",
+          "x": "Alison Belan, directora ejecutiva de BISG, dijo en el informe: 'La conversación sobre la IA en el sector editorial se está volviendo mucho más matizada y práctica.' 'Las organizaciones están evaluando dónde estas herramientas realmente generan valor, dando más peso a las políticas, los flujos de trabajo controlados y la gestión de riesgos. Estos resultados dejan más claro dónde se encuentra la industria ahora, tanto a nivel organizacional como individual, y dónde se necesita más orientación y aprendizaje compartido.'"
+        },
+        {
+          "t": "p",
+          "x": "El 72% de los encuestados que usan IA dijo que mejoró la eficiencia o la productividad. Los usos más comunes fueron las tareas administrativas y operativas (46% personal, 56% organizacional) y el marketing (44% personal, 54% organizacional). El uso de IA para análisis de datos e informes fue más alto a nivel organizacional, con un 41%, frente al 36% a nivel personal."
+        },
+        {
+          "t": "p",
+          "x": "Las mayores preocupaciones citadas fueron la falta de mecanismos para regular el uso de material protegido por derechos de autor, la inexactitud del contenido generado por IA y la avalancha de libros de IA fraudulentos o de baja calidad en las principales plataformas de distribución."
+        },
+        {
+          "t": "p",
+          "x": "La adopción plena se recibe con cautela. Solo el 33% de los encuestados estuvo de acuerdo en que la industria debe adaptarse a la nueva tecnología y adoptar la IA con cuidado. Aun sin llegar a la adopción, el 79% coincidió en que los cambios de la IA deben seguir vigilándose de cerca. La cautela va por delante del entusiasmo."
+        }
+      ]
+    },
+    "books/books-ai-label-korea": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503377.webp",
+          "cap": "El 29, Hong Young-wan, presidente de la Asociación de Editores de Corea (a la derecha), presenta los 'Principios de Uso de IA de Editoriales y Autores para los Lectores'"
+        },
+        {
+          "t": "p",
+          "x": "Voces del sector editorial han pedido adoptar activamente un sistema de etiquetado que indique cuánta IA se usó en publicaciones como libros impresos, libros electrónicos y audiolibros. Si se introduce el 'sistema de etiquetado de publicaciones con IA', los autores también informarán a las editoriales qué IA usaron en el manuscrito y en qué medida, y eso quedará registrado en el contrato."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación de Editores de Corea celebró el 29 un debate titulado 'Foro de Política de Publicación e IA: más allá de la crisis, hacia la coexistencia', en la Biblioteca Central de Mapo, en Seúl. La profesora Park Jeong-in, de la Universidad Femenina Duksung, que dio la ponencia principal, propuso dividir las publicaciones en obras humanas, obras asistidas por IA y publicaciones generadas por IA, e indicar cuánto control y verificación humana hubo en cada caso. Según una encuesta de la profesora Park realizada en julio a 188 editoriales nacionales, el 76,1% había probado o ya usaba IA generativa en su trabajo. El 85,1% dijo que un sistema de identificación de publicaciones con IA era 'necesario o parcialmente necesario'."
+        },
+        {
+          "t": "p",
+          "x": "Según la propuesta, las publicaciones asistidas o generadas por IA, aparte de las obras puramente humanas, indicarían en la página de derechos de autor, entre otros lugares, cuánto control y verificación humana se aplicó. Los autores revelarían qué herramientas de IA usaron y en qué medida influyeron en el contenido central, y las editoriales acordarían con los autores el alcance del uso de IA y lo registrarían en el contrato. El sector ve este sistema no como un estigma, sino como una forma de dar a los lectores información para juzgar y de establecer una vía de responsabilidad y corrección si surgen problemas."
+        },
+        {
+          "t": "img",
+          "src": "https://flexible.img.hani.co.kr/flexible/normal/1200/800/imgdb/original/2026/0929/20260929503378.jpg",
+          "cap": "El Foro de Política de Publicación e IA, celebrado el 29 en la Biblioteca Central de Mapo, en Seúl"
+        },
+        {
+          "t": "p",
+          "x": "Kim Bo-kyung, presidenta del comité de políticas (y directora de Jiwain), dijo que el sistema de etiquetado de tres niveles es una forma de que el sector editorial responda de manera proactiva a la proliferación de los llamados 'libros de un clic' y a la erosión de la confianza de los lectores, y que también da a las editoriales más poder de negociación en los contratos de datos con empresas de IA. Ryu Young-ho, jefe de departamento en Kyobo Book Centre, dijo que la divulgación por sí sola no genera confianza, y pidió un proceso para verificar quién revisó qué, y hasta qué punto."
+        },
+        {
+          "t": "p",
+          "x": "La traductora Hong Han-byul dijo: 'En el caso de la traducción, el sistema de tres niveles puede no ser adecuado', y añadió: 'No se puede decir que una hoz cortó un determinado porcentaje del arroz solo porque un agricultor la usó para cortarlo.' Ese día, 12 organizaciones, entre ellas la Asociación de Editores de Corea y la Asociación de Escritores de Corea, presentaron los 'Principios de Uso de IA de Editoriales y Autores', que incluían la cláusula de que 'la IA se usa solo como herramienta y no tiene la condición de autor ni coautor.'"
+        }
+      ]
+    },
+    "books/books-mentat-licensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212776_323.png",
+          "cap": "Jeon Byung-wook, CEO de Mentat"
+        },
+        {
+          "t": "p",
+          "x": "En una era en la que la IA absorbe el conocimiento del mundo y produce respuestas, la sensación de crisis en la industria editorial y de contenidos académicos es más alta que nunca. El mercado del libro impreso se reduce, mientras crece la preocupación de que las grandes tecnológicas erosionen los contenidos mediante scraping no autorizado y recolección de datos sin criterios claros."
+        },
+        {
+          "t": "p",
+          "x": "Jeon Byung-wook, director ejecutivo de Mentat, una empresa de licencias de libros con IA, ve este momento como un punto de inflexión en el que se abre un nuevo mercado de distribución del conocimiento. Fundó la empresa en 2025, convencido de que las editoriales coreanas tienen dificultades para negociar solas con las grandes empresas globales de IA. Mentat ha firmado contratos con más de 80 editoriales, asegurando unos 34.000 títulos, y también cerró un acuerdo de licencia por 10.000 millones de wones con una gran tecnológica global."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212779_840.png",
+          "cap": "La placa de la sede de Mentat en Mapo-gu, Seúl"
+        },
+        {
+          "t": "p",
+          "x": "La clave está en separar los usos. Mentat divide el uso en 'entrenamiento', 'cita' y 'referencia', y liquida cada uno de forma distinta. El entrenamiento, cuyo volumen de uso no se puede medir, se cobra con una tarifa fija limitada por período y familia de modelos; la referencia y la cita, que recuperan el texto original al momento de responder, se registran mediante logs y se cobran bajo un modelo por consumo de tokens. Jeon dijo que 'las compras de datos de entrenamiento por parte de las grandes empresas de IA probablemente alcanzarán un límite en los próximos tres años', y que la inferencia y el RAG (generación aumentada por recuperación) serán el núcleo del futuro."
+        },
+        {
+          "t": "p",
+          "x": "Así como el streaming de música liquida pagos por 'reproducción', Mentat ha presentado un marco de 'wones/MT', con un precio por cada millón de tokens. Ha construido una infraestructura de tres capas: una conversión que transforma los archivos editoriales en texto legible por IA, un registro que bloquea la extracción no autorizada del texto original y un sistema de recuento de uso a prueba de manipulaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.kyosu.net/news/photo/202609/210681_212777_450.jpg",
+          "cap": "El CEO Jeon Byung-wook (izquierda) y el CDO Kwon Hyuk-geon"
+        },
+        {
+          "t": "p",
+          "x": "Si una editorial entrega todos sus datos a una empresa de IA, no hay forma de saber cuánto se usan realmente. A través de la pasarela API de Mentat, las editoriales conservan el control de sus derechos de autor mientras comprueban en tiempo real, mediante un panel, cuánto se citaron sus datos y en qué preguntas, y reciben el pago correspondiente. Jeon dijo que se necesita con urgencia la participación de libros especializados, como manuales universitarios y libros de referencia."
+        }
+      ]
+    },
+    "books/books-tanapaev-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.err.ee/photo/crop/2025/11/16/3090399h65b9t24.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tauno Vahter, editor jefe de la editorial estonia Tänapäev, dijo a ERR que los manuscritos creativos escritos con IA son todavía raros, pero que la IA ya se ha abierto paso en la traducción y la ilustración."
+        },
+        {
+          "t": "p",
+          "x": "Los manuscritos suelen enviarse a varias editoriales a la vez, y él cree que pocos de ellos están escritos con IA. 'La IA ha avanzado mucho, pero todavía no existe un programa capaz de producir diez pliegos de imprenta de un libro que uno quiera seguir leyendo con interés si se le pide que escriba uno. Textos cortos sí puede escribir.'"
+        },
+        {
+          "t": "p",
+          "x": "En el extranjero ha habido casos en que las editoriales retiraron libros o cancelaron su publicación al concluir que habían sido escritos por IA. Recientemente, el autor haitiano-canadiense-francés Télisma Aurélien se convirtió en el centro de una controversia de este tipo. Al pasar su libro, nominado al premio Goncourt, por un software de detección, el resultado fue '100% IA'. El autor lo negó, y algunas editoriales que habían empezado a traducirlo detuvieron el trabajo. Vahter tiene dudas personales de que fuera escrito por IA."
+        },
+        {
+          "t": "p",
+          "x": "Con la ilustración la situación es distinta. La IA apareció primero en el diseño de portadas y se usa bastante también en la producción de libros en Estonia. Hoy en día aparecen muchas ilustraciones de libros infantiles hechas con IA. 'Es más barato y más rápido. En principio, en unas horas se puede producir la ilustración de todo un libro. La tentación será grande.' Dijo que la calidad de la IA podría incluso superar a la de algunos ilustradores, y que no sabe si dentro de cinco años todavía se podrán reconocer las imágenes generadas por IA."
+        },
+        {
+          "t": "p",
+          "x": "En la traducción ya es una realidad. Pasar el texto completo de una vez por la memoria de traducción y luego revisarlo a fondo no presenta problemas. Pero cada vez son más los casos en que se revisa por encima. En Finlandia, se dice que alrededor de cuatro quintas partes de los libros ya se traducen así. El año pasado, Finlandia vio sus primeros casos de novelas de fantasía extensas traducidas íntegramente por IA, y la respuesta de una editorial no precisamente pequeña fue: '¡Traducir es demasiado caro!' 'La IA probablemente cambiará primero la traducción y la ilustración.'"
+        },
+        {
+          "t": "p",
+          "x": "Subrayó que la IA acabará llegando también a los manuscritos creativos, pero que todavía no ha profundizado en ese terreno. Él mismo usa la IA todos los días, para revisar la ortografía y para evaluar manuscritos que llegan en idiomas que no conoce, como el portugués o el italiano."
+        }
+      ]
+    }
+  }
+}

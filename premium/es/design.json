@@ -1,0 +1,1122 @@
+{
+  "cards": {
+    "design/design-photoshop-relight-beta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+          "cap": "Pantalla de la beta de Photoshop con una luz añadida mediante una capa Relight."
+        },
+        {
+          "t": "p",
+          "x": "Adobe añadió Relight, una función de IA generativa, a la beta de Photoshop de escritorio. Permite añadir a una imagen una iluminación nueva, interactiva y no destructiva, es decir, reiluminar una toma después de haberla hecho. Se mueve la posición de la fuente de luz y se cambia su intensidad, color y difusión mientras se ve el resultado en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Relight borra la iluminación existente de la imagen y crea una nueva con IA generativa. Se pueden añadir hasta tres fuentes de luz artificial y ajustar cada una por separado. Si se apagan todas, solo queda la luz ambiental u original, y encender o apagar cada fuente funciona como una luz real."
+        },
+        {
+          "t": "p",
+          "x": "Los primeros experimentos publicados en redes sociales han generado reacciones divididas. Algunos creen que puede eliminar el light painting manual, o al menos ser un buen punto de partida que adelante mucho el trabajo. Otros señalan que la textura se difumina y el resultado se parece más a un avatar 3D que a un retrato realista. Como otras herramientas de edición con IA, también tiende a cambiar los rasgos de una persona de forma no deseada. El mismo debate que rodeó al DLSS 5 de Nvidia, sobre si se conserva el original o se genera una imagen nueva, se repite aquí."
+        },
+        {
+          "t": "p",
+          "x": "Esa sensación artificial puede reducirse usando Relight como una capa de ajuste y mezclando el resultado a mano para recuperar la textura original. Es una función recién lanzada en beta, así que es probable que se pula antes del lanzamiento definitivo."
+        },
+        {
+          "t": "p",
+          "x": "Para usarla, hay que actualizar a la última versión beta (Version: 27.10.0 202600802.m.3625), abrir una imagen y elegir New Relight layer en el menú Layer. Aparece una luz blanca por defecto en el centro de la pantalla, que se puede arrastrar dentro o fuera del lienzo. En el panel de capas aparece una 'Relight Layer' aparte, y los píxeles originales quedan intactos. Al terminar los ajustes y pulsar 'Done' se genera el resultado final a la resolución original. Cada vez que se pulsa Done, eso sí, cuesta 30 créditos."
+        }
+      ]
+    },
+    "design/design-runway-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
+          "cap": "Imagen del anuncio de Runway Ads."
+        },
+        {
+          "t": "p",
+          "x": "Runway presentó Runway Ads, un nuevo producto que gestiona y optimiza de principio a fin la parte creativa de la publicidad de pago. Al conectarlo a una cuenta publicitaria y un kit de marca, genera materiales en video e imagen y publica directamente en Meta, Google y TikTok las variantes aprobadas. Vuelve a leer el rendimiento en esas mismas plataformas y crea la siguiente ronda de materiales a partir de lo que realmente atrajo presupuesto."
+        },
+        {
+          "t": "p",
+          "x": "La publicidad de rendimiento premia el volumen. Pero la mayoría de los anunciantes solo ponen presupuesto real detrás de una parte de los anuncios que crean. Sin iteración constante y una ejecución sostenida, no se extrae todo el valor posible de un programa en marcha. Encontrar lo que funciona depende menos del gusto o el criterio que de cuántas variantes puede producir un equipo. Sea cual sea su tamaño, lo que frena a una empresa no es el análisis ni la intuición, sino la capacidad de producir suficiente material."
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads resuelve esto uniendo en un solo proceso la creación, el seguimiento y la corrección de campañas de publicidad de rendimiento. En grandes empresas que ejecutan campañas globales a gran escala, las pruebas se aceleran, aumentan las variantes y la localización se mantiene consistente. Los equipos pequeños también pueden ejecutar miles de anuncios por semana y ajustar el rumbo cada día hacia lo que funciona. Los pequeños negocios y creadores individuales entran en canales nuevos sin restar tiempo a su trabajo principal."
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads automatiza los pasos clave de la generación y compra de anuncios, apoyándose en el trabajo de agentes de Runway, pero deja la propiedad y la aprobación en manos de las personas."
+        },
+        {
+          "t": "p",
+          "x": "Runway construyó el producto sobre la infraestructura que usó para hacer crecer su propio marketing de rendimiento, en particular los anuncios de Meta y TikTok. Desde julio, su número semanal de anuncios pasó de 77 a unos 900, y el retorno sobre el gasto publicitario se duplicó. La tasa de conversión subió alrededor de un 34% mientras el porcentaje de clics se mantuvo estable. Aunque el gasto aumentó para escalar, el costo por suscriptor cayó un 41% en el mismo período."
+        },
+        {
+          "t": "p",
+          "x": "El co-CEO de Runway, Anastasis Germanidis, dijo: \"Construimos Runway Ads porque nosotros mismos lo necesitábamos.\" Añadió que, \"en lugar de unir tres herramientas distintas para crear, publicar y medir anuncios, meterlo todo en un solo sistema hizo visible de un vistazo la eficiencia de nuestra publicidad de pago, y nos permitió movernos más rápido y probar más para ganar cuota de mercado\"."
+        },
+        {
+          "t": "p",
+          "x": "Runway está probando Runway Ads con algunos socios empresariales. Quien comparta su programa de publicidad de pago recibirá contacto del equipo de ventas empresariales."
+        }
+      ]
+    },
+    "design/design-owlcad-parametric-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
+          "cap": "Una caja de engranajes planetarios hecha con OwlCAD."
+        },
+        {
+          "t": "p",
+          "x": "Spare Matter Corp presentó en beta OwlCAD, un programa CAD paramétrico para impresión 3D. Funciona por completo en el navegador, sin instalación ni cuenta. El motor de geometría procesa el modelo en el equipo del usuario, así que no hay que esperar respuesta de un servidor. El editor completo, con todos los formatos de exportación, es gratuito, y no hay ninguna tarifa de licencia aunque se vendan las piezas impresas o los archivos. Las funciones de IA y el acceso de agentes a través del servidor MCP están incluidos en el plan Pro, de 12 dólares al mes o 120 dólares al año."
+        },
+        {
+          "t": "p",
+          "x": "Los generadores de IA en 3D llevan tiempo produciendo formas convincentes en pantalla. El problema aparece cuando hay que ampliar un agujero 0.4 mm: la malla triangular no recuerda que eso era un agujero. OwlCAD propone algo más modesto pero práctico: un modelo con dimensiones vivas y un historial de ediciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/2-editor-dimensions-1536x960.png",
+          "cap": "La pantalla del editor permite corregir las dimensiones directamente."
+        },
+        {
+          "t": "p",
+          "x": "Al describir una pieza con palabras, el modo paramétrico devuelve un árbol de nodos formado por sólidos básicos, operaciones booleanas y transformaciones, y todas las dimensiones siguen siendo editables. Si se cambian 30 mm a 32 mm, toda la pieza se regenera y, como cualquier otra edición, se puede deshacer. Los cambios hechos con la función Modify with AI tampoco quedan fijados en la forma, sino que se acumulan en el historial del modelo. La explicación de la empresa es sencilla: una malla recuerda cómo se ve algo, un modelo paramétrico recuerda cómo se construyó."
+        },
+        {
+          "t": "p",
+          "x": "Bajo la IA hay un editor completo. Usa bocetos con restricciones, extrusión, revolución, barrido y loft, redondeos y chaflanes por arista, ensamblajes con acoplamientos y BOM, variables y fórmulas, y 33 generadores para engranajes, roscas, bisagras, carcasas y cajones Gridfinity, entre otros. Para la impresión incluye perfiles de tolerancia personalizados, comprobaciones de voladizos, paredes finas y estanqueidad, perfiles de impresora, orientación automática y estimaciones de masa y costo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/4-print-check-1536x960.png",
+          "cap": "Una pantalla revisa los voladizos y el grosor de las paredes antes de imprimir."
+        },
+        {
+          "t": "p",
+          "x": "Con el servidor MCP alojado, clientes MCP que se comunican por HTTP, como Claude Code, Claude Desktop o Cursor, crean y modifican modelos sin necesidad de la aplicación CAD. Con 29 herramientas, un agente construye el árbol del modelo, renderiza vistas previas para revisarlas por sí mismo, comprueba voladizos y volumen de impresión, y calcula el uso y el costo del filamento. Una pieza grande también puede dividirse en dos partes unidas con espigas, ranuras, pasadores de posición y tornillos. En un benchmark publicado por la empresa, Gemini 3.6 Flash creó y validó una placa de montaje de 80×60×5 mm con cuatro agujeros y estimó que usaría 18.5 g de PLA."
+        }
+      ]
+    },
+    "design/design-core77-designer-judgment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
+          "cap": "Una mesa de trabajo de diseño con bocetos y modelos."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Steven Pum, que lleva casi 30 años enseñando en Parsons School of Design, situó durante mucho tiempo el valor de un diseñador joven en la destreza técnica: dibujar, fabricar, renderizar, crear prototipos y aprender nuevas herramientas digitales. Hoy, en unos minutos se producen imágenes pulidas, presentaciones e incluso una dirección visual. Cuando la producción se vuelve común, otra cosa se vuelve escasa."
+        },
+        {
+          "t": "p",
+          "x": "Él considera que la ventaja competitiva se ha desplazado río arriba. Una imagen bonita ya no es escasa; lo que importa ahora es saber qué imagen merece la pena hacer. Antes de fabricar una silla, el diseñador decide si esa silla es necesaria, quién la usará y qué debe comunicar. La IA puede ayudar a fabricar, pero no puede asumir la responsabilidad de la decisión. Por eso un portafolio suele revelar más mostrando experimentos fallidos, conceptos descartados y el pensamiento detrás de ellos que mostrando trabajo terminado."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados de investigación también son mixtos. Un estudio de 2025 con 5.172 agentes de atención al cliente encontró que las herramientas de IA generativa elevaron la productividad un 15% en promedio, con mayores beneficios para las personas con menos experiencia. En cambio, un experimento de 2024 con 60 participantes encontró que quienes usaban un generador de imágenes con IA mostraban más fijación de diseño, con menor cantidad, diversidad y originalidad de ideas en todos los casos. En un experimento de campo de 2025 con 250 empleados de una consultora tecnológica, el beneficio creativo de la IA destacó más entre las personas con estrategias metacognitivas fuertes."
+        },
+        {
+          "t": "p",
+          "x": "Pum no propone separar a los diseñadores de la IA, sino decidir con cuidado cuándo entra la IA en el proceso. Al revisar un trabajo, pregunta qué problema se eligió y qué alternativas se descartaron, y por qué. Antes de introducir la IA, da tiempo para observar a los clientes y el contexto, de modo que el problema se defina por cuenta propia. Ante un encargo para mejorar la señalización de un hospital, eso significa preguntar antes por qué se pierden los pacientes, en lugar de sacar borradores de inmediato. La fricción que construye experiencia a veces merece conservarse."
+        },
+        {
+          "t": "p",
+          "x": "Él imagina al diseñador del futuro no como alguien que conoce todas las herramientas de IA, sino como alguien que sabe cuándo usarla, qué preguntar, qué dudar y cuándo no usarla en absoluto. Un diseñador que produce 100 conceptos por hora puede ser más productivo. Un diseñador que nota que 99 de ellos resuelven el problema equivocado puede ser más valioso. Su conclusión es que las organizaciones también deberían evaluar la definición del problema, el criterio y la experimentación, y no solo la velocidad, el volumen y el acabado."
+        }
+      ]
+    },
+    "design/design-adam-migrations": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/09/Adam-Migrations.jpg",
+          "cap": "Migrations, presentada por Adam"
+        },
+        {
+          "t": "p",
+          "x": "Adam ha lanzado su nueva herramienta, Migrations. Un agente de IA reconstruye desde cero el historial de funciones paramétricas de un modelo CAD dentro de un nuevo sistema CAD. El objetivo declarado por la empresa es acabar con el bloqueo de proveedor."
+        },
+        {
+          "t": "p",
+          "x": "Según Adam, Migrations verifica cada paso a nivel geométrico. Cada paso reconstruido se compara con el original, y esa verificación se repite durante toda la migración."
+        },
+        {
+          "t": "p",
+          "x": "Los metadatos del modelo también se transfieren. El modelo CAD migrado sigue siendo totalmente editable, y su historial permanece intacto para poder seguir trabajando sin interrupciones."
+        },
+        {
+          "t": "p",
+          "x": "Los destinos actualmente compatibles incluyen Solidworks y Catia de Dassault Systèmes, Creo y Onshape de PTC, Fusion e Inventor de Autodesk, y NX de Siemens."
+        },
+        {
+          "t": "p",
+          "x": "Antes del trabajo principal, Adam revisa primero el sistema de origen y el de destino usando un modelo representativo. Es un paso en el que el usuario confirma que no falta ningún dato necesario para la reconstrucción."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de conversión CAD ya existen en varias formas. Adam es la primera en lanzar software de IA dedicado que maneja conversiones difíciles, incluidos los datos PMI."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Adam, Zach Dive, dijo: \"Nuestros agentes de IA ahora mueven modelos entre herramientas CAD función por función.\" Y añadió: \"Llevamos meses trabajando en esto, y estamos encantados de compartirlo por fin. El bloqueo de proveedor se ha terminado.\""
+        }
+      ]
+    },
+    "design/design-vercel-skills-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7hxPZ4nBE0Mnsn1dkdGofj/dc36258e2b82650482ec34d48c33a628/skills-cumulative-installs-and-catalogue-web-light.png",
+          "cap": "Skills acumuladas e instalaciones en skills.sh"
+        },
+        {
+          "t": "p",
+          "x": "Vercel publicó su primer informe con datos agregados del registro skills.sh. En siete meses, las skills de agentes superaron el millón y las instalaciones se acercaron a los 280 millones. El informe examina qué le enseña la gente a los agentes, qué se instala realmente y hacia dónde se desplaza el valor."
+        },
+        {
+          "t": "p",
+          "x": "Una skill es un conjunto reutilizable de instrucciones para realizar una tarea específica. Los agentes son capaces pero genéricos: pueden hacer casi cualquier cosa, pero no saben cómo una persona, equipo o empresa en particular quiere que se haga esa tarea. Las skills llenan ese contexto faltante, y pueden ser tan simples como un único archivo escrito en lenguaje llano. Anthropic presentó Agent Skills en octubre de 2025, y Vercel lanzó skills.sh tres meses después."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZVzqIm2zX1BcLdWSUY7vo/e1ac442a733ba6e9f42ba666a6b8ccee/skills-time-to-one-million-web-light.png",
+          "cap": "Tiempo hasta el millón: skills.sh tardó 7 meses, los repositorios de GitHub 27 meses, las apps de App Store 63 meses y los paquetes de npm 117 meses"
+        },
+        {
+          "t": "p",
+          "x": "Usar una skill implica exponer el criterio que hay detrás de una tarea: en qué orden hacerla, cómo se ve un buen resultado y con qué se evalúa. La capacidad subyacente ya la aportan los agentes y las herramientas, por lo que se pueden crear mucho más rápido que el software convencional."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/712lycy79IeHLvzvmIiV5T/b81ce8d1fd594a8a35566e9eb6e9812e/skills-function-share-web-light.png",
+          "cap": "Las publicaciones se inclinan hacia ingeniería de software; más de cuatro de cada cinco instalaciones van a otras áreas."
+        },
+        {
+          "t": "p",
+          "x": "La oferta se inclina hacia lo técnico. Más de la mitad de las publicaciones enseñan ingeniería de software, flujos de trabajo de agentes, datos, infraestructura o seguridad, y la ingeniería de software por sí sola representa alrededor de un cuarto. La demanda está mucho más repartida: ninguna categoría supera un quinto, con ingeniería de software en 18%, flujos de trabajo de agentes en 15%, y operaciones de negocio y escritura cerca del 11% cada una."
+        },
+        {
+          "t": "p",
+          "x": "Las instalaciones por publicación invierten ese orden. Las skills de operaciones de negocio se instalan un 74% más que el promedio, las de escritura y documentación un 50% más, y las de nube/infraestructura un 42% más. La ingeniería de software queda alrededor de un 30% por debajo del promedio, educación/productividad un 39% por debajo, e investigación un 55% por debajo."
+        },
+        {
+          "t": "p",
+          "x": "Los flujos de trabajo de agentes y la automatización se llevan el 14.8% de las instalaciones entre los datos categorizados, en segundo lugar tras ingeniería de software. Entre las publicaciones que superan las 100,000 instalaciones, es la categoría más grande: gente usando agentes para construir agentes."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6w0Y4IuwoNRSNYUQgf4ofF/57a4b36cfacf2f42dfcec936189d6deb/skills-install-concentration-logx-web-light.png",
+          "cap": "Las 375 principales acumulan el 62% de las instalaciones; el 98.8% restante, menos del 6%."
+        },
+        {
+          "t": "p",
+          "x": "La concentración es marcada. Casi la mitad de todas las skills se instalaron una sola vez. En el otro extremo, 375 skills —el 0.04% del registro— acumulan el 62% de las instalaciones, y el 1.2% superior se lleva el 94%. Aun así, no hay un ganador absoluto: incluso la skill más instalada no supera el 1% del total de instalaciones. Si ya elegiste una skill de informes de gastos, no hay motivo para instalar una segunda, pero las skills de hojas de cálculo, investigación y presentaciones se usan en paralelo."
+        },
+        {
+          "t": "p",
+          "x": "Las skills agnósticas de industria representan el 66% de las publicaciones clasificadas y el 87.5% de las instalaciones, con instalaciones por publicación 3.6 veces más altas que las skills específicas de una industria. Vercel considera que si el primer millón de skills enseñó lo que todos ya sabían, el próximo millón enseñará lo que solo cada uno sabe. El criterio para medir las skills también está pasando del número de instalaciones a la efectividad, con pruebas y benchmarks que evalúan si la tarea se hace mejor con la skill que sin ella."
+        }
+      ]
+    },
+    "design/design-flux-pcb-enclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/Flux-adds-AI-tools-for-3D-printable-PCB-enclosures-scaled.jpg",
+          "cap": "La nueva herramienta de diseño de carcasas PCB de Flux"
+        },
+        {
+          "t": "p",
+          "x": "Flux ha lanzado una herramienta de IA para diseñar carcasas de placas de circuito impreso (PCB). Describe la carcasa que quieres en la ventana de chat de Flux, y genera un diseño ajustado a la forma de la placa."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, diseñar la carcasa requería un ingeniero mecánico o software de CAD mecánico (mCAD), y hasta un cambio pequeño en el PCB obligaba a rehacer el diseño mecánico."
+        },
+        {
+          "t": "p",
+          "x": "La nueva función conecta el diseño del PCB y el de la carcasa en un solo flujo: lee la forma de la placa y genera un modelo de carcasa listo para impresión 3D."
+        },
+        {
+          "t": "p",
+          "x": "El modelo incluye pestillos, orificios para tornillos, elementos de montaje, bordes curvos, rejillas de ventilación y recortes para puertos. Puedes previsualizarlo, pedir cambios de forma o función, y luego exportarlo en un formato estándar de impresión 3D."
+        },
+        {
+          "t": "p",
+          "x": "Si se mueve o se cambia un componente en el PCB, Flux ajusta la carcasa en consecuencia, junto con las instrucciones de fabricación y montaje."
+        },
+        {
+          "t": "p",
+          "x": "La carcasa terminada se usa para comprobar el PCB en su entorno real antes de entrar en producción completa."
+        },
+        {
+          "t": "p",
+          "x": "La función está incluida en todos los planes de Flux. Más detalles en flux.ai."
+        }
+      ]
+    },
+    "design/design-opus55-website-showdown": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "L0-ezCnX0gs"
+        },
+        {
+          "t": "p",
+          "x": "El canal The AI Advantage publicó un video práctico probando Claude Opus 5.5. Dura 14 minutos 19 segundos y se publicó el 25 de septiembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El presentador Igor divide el video en dos partes: primero cinco usos creativos, después un duelo de 50 sitios web contra ChatGPT 6 Astra."
+        },
+        {
+          "t": "p",
+          "x": "La sección de usos empieza creando un mundo 3D interactivo (2:00), luego convierte un boceto mecánico en una animación (4:45) y crea un anuncio de producto (6:30)."
+        },
+        {
+          "t": "p",
+          "x": "Convertir una foto en un modelo de bloques aparece en 7:08, y una simulación de la ciudad de San Francisco en 7:59. La app de modelos de bloques es una demo compartida por Claude, y la simulación de San Francisco fue presentada por Matthew Berman."
+        },
+        {
+          "t": "p",
+          "x": "En 8:55 se comparan los precios de Claude y GPT. Luego, desde 9:50, se desarrolla el duelo de 50 sitios web; los 50 resultados están publicados en fable-blind-lab.vercel.app/opus.html para compararlos directamente."
+        },
+        {
+          "t": "p",
+          "x": "Igor da su valoración general en 13:20, y en 13:45 cubre brevemente la nueva función de voz de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio oficial de Claude Opus 5.5 está publicado en el sitio de Anthropic."
+        }
+      ]
+    },
+    "design/design-copilot-super-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&strip=all&crop=0.024975024975028%2C0%2C99.95004995005%2C100&w=2400",
+          "cap": "Imagen: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft presentó oficialmente la 'super app' que había anunciado el mes pasado. La app Copilot, rediseñada, combina chat, programación y agentes en una sola pantalla. Scout, el asistente personal de IA presentado en el Build de este año, ha sido renombrado como Autopilot."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres pestañas: Home, Code y Autopilot. Home es la pantalla principal que fusiona Copilot Chat y Cowork, y también incluirá una función llamada Today que reúne correos importantes, solicitudes de reunión e hilos de Teams."
+        },
+        {
+          "t": "p",
+          "x": "Jared Spataro, quien lidera el marketing de IA para el trabajo, describe Home así: \"Home es donde te orientas. Revisas la actividad reciente, recibes sugerencias de en qué puede ayudarte Copilot, y continúas justo donde lo dejaste.\""
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "La pestaña Code. Imagen: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "La pestaña Code es la jugada sorpresa de esta 'super app.' Cualquiera puede crear una app, un rastreador, un panel o una automatización, alojarla en la nube y compartirla con sus colegas como una app interna. Spataro dijo: \"Code funciona sobre la misma tecnología subyacente que GitHub Copilot, se ejecuta en un entorno aislado (sandbox) y se hospeda de forma segura dentro de tu tenant.\""
+        },
+        {
+          "t": "p",
+          "x": "Autopilot es la nueva función que Spataro llama un 'compañero de equipo digital.' Primero apareció como app de escritorio bajo el antiguo nombre Scout, y Autopilot es su versión en la nube. Sigue funcionando incluso mientras el usuario duerme, con su propia instancia de computación en la nube que vigila canales de Teams, ejecuta tareas repetitivas o gestiona seguimientos."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Autopilot.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "A Autopilot se le asigna un nombre y una apariencia. Imagen: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Lo que lo distingue de otros agentes de IA es su diseño de nivel empresarial, dirigido a compañías cuyo trabajo ya depende de Office y de los productos de gestión de identidad. Spataro explicó: \"Autopilot tiene su propia identidad, memoria, computadora y espacio de trabajo, y vive dentro de tu tenant. Está construido sobre Microsoft IQ, así que entiende cómo funciona realmente tu organización.\" Aparece en Teams, Outlook y los documentos donde la gente ya trabaja, se le menciona con @ como a un colega, y está respaldado por permisos, auditoría y gobernanza."
+        },
+        {
+          "t": "p",
+          "x": "La forma de facturar también cambió. Cowork, Code y Autopilot se cobran por uso: las tareas de agentes de larga duración o el uso de modelos como Astra y Fable se facturan según el consumo. Las licencias de suscripción de usuario existentes siguen cubriendo Copilot en Chat, Word, Excel, PowerPoint, Outlook y Teams. Los administradores de TI pueden controlar el gasto en IA con el nuevo FinOps for AI."
+        },
+        {
+          "t": "p",
+          "x": "Home y Code llegarán al programa de acceso anticipado Frontier 'en pocas semanas.' Autopilot entra en vista previa privada este mes, y Code llegará a una vista previa para suscriptores de Microsoft 365 Premium y Pro más adelante este año."
+        },
+        {
+          "t": "p",
+          "x": "Satya Nadella escribió en X: \"Estamos construyendo Copilot como el nuevo sistema operativo para el trabajo, que abarca todos los modelos, todos los formatos y todas las tareas.\" Spataro añadió: \"Así como Office definió el trabajo en la era del PC, el nuevo Copilot está hecho para definir el trabajo en la era de la IA.\" The Verge señala que la competencia en la era de la IA no tiene comparación con la era del PC. Microsoft va por detrás de Google, OpenAI, Anthropic y Meta."
+        }
+      ]
+    },
+    "design/design-octanerender-2027-1-alpha3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+          "cap": "Comparación antes y después de AI Light 2.0. El ruido se reduce en escenas con muchas fuentes de luz."
+        },
+        {
+          "t": "p",
+          "x": "Otoy ha comenzado a publicar una alfa pública de OctaneRender 2027.1, la próxima versión mayor de su renderizador GPU. Es una compilación experimental distinta de la versión estable, OctaneRender 2026."
+        },
+        {
+          "t": "p",
+          "x": "El mayor cambio es un modo de 'renderizado neuronal' en tiempo real. Mejora el Neural Radiance Cache (NRC) incorporado en OctaneRender 2026, combinándolo con la reconstrucción de rayos de DLSS de Nvidia y con investigación propia de Otoy. Otoy explica que esto permite un \"renderizado interactivo casi sin ruido\" con muchas menos muestras que el trazado de rayos tradicional, incluso con iluminación compleja. Por ahora es exclusivo de Windows y Linux; llegará más tarde a Octane X para Mac."
+        },
+        {
+          "t": "p",
+          "x": "En el apartado de escalado se han añadido DLSS 4 y AMD FSR 3. Como OctaneRender se basa en CUDA, FSR 3 también funciona solo en GPU de Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "AI Light, que muestrea varias fuentes de luz, ha tenido su primer gran cambio desde que debutó en OctaneRender 4.0. Ahora tiene en cuenta la información espacial y direccional de cada primitiva emisiva, por lo que hay menos ruido con el mismo número de muestras."
+        },
+        {
+          "t": "p",
+          "x": "USD ahora admite exportar geometría además de importarla. La versión independiente incorpora un editor de stage USD, y MaterialX añade tres nuevos nodos EDF. El límite de mapas UV por primitiva también sube de 3 a 10."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_PhysicalOpticsMaterial-960x201.jpg",
+          "cap": "Superficies iridiscentes creadas con el material Physical Optics de la alfa 2"
+        },
+        {
+          "t": "p",
+          "x": "La alfa 2 incorporó un material Physical Optics que reproduce efectos de óptica ondulatoria como difracción, interferencia de película fina y birrefringencia, desde burbujas de jabón hasta metal cepillado, pegatinas holográficas y superficies de CD. También se añadió un material retrorreflectante que devuelve la luz directamente hacia su fuente, como las señales de tráfico o la ropa de seguridad fluorescente."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260924_OctaneRender20271_Alpha3_BakeSDF-960x480.jpg",
+          "cap": "Horneado de malla SDF añadido en la alfa 3"
+        },
+        {
+          "t": "p",
+          "x": "La alfa 3 añade la posibilidad de hornear SDF, incluidas las primitivas Vectron, en mallas de polígonos, para crear geometría proxy destinada a dispersión o simulación física. También admite OCIO 2.5."
+        },
+        {
+          "t": "p",
+          "x": "Antes de la versión estable, Otoy planea añadir más funciones, como renderizadores de anime/boceto, renderizado de splats gaussianos 3D, funciones de IA como la generación integrada de materiales PBR, e integración con Otoy Studio. Como la primera alfa llegó en marzo de 2026, la versión estable probablemente llegue hacia fin de año. La suscripción Studio+ cuesta 23,95 euros al mes o 239,88 euros al año."
+        }
+      ]
+    },
+    "design/design-mcp-ui-svg-servers-8-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqw8zw67iordk5fzsgaz.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "¿Qué servidor MCP conectar para que un agente de código dibuje pantallas de apps, iconos o ilustraciones como SVG? Este artículo, publicado primero en SVG Lab, coloca su propio SVG Lab MCP en el primer lugar; conviene tenerlo en cuenta al leerlo."
+        },
+        {
+          "t": "p",
+          "x": "El autor considera que elegir el tipo de servidor equivocado es el error más común. Los servidores MCP de diseño se dividen en tres categorías: motores de diseño que devuelven un resultado ya maquetado a partir de una sola solicitud; conectores de editor —como Figma, Penpot o SVGator— con los que el modelo manipula directamente documentos de una app que ya usas; y generadores (SVGMaker, SVG Genie, SVG AI, CleanVector) que entregan un archivo SVG por cada prompt."
+        },
+        {
+          "t": "p",
+          "x": "Para un agente, la diferencia es clara. Un generador solo entrega el archivo, y el resto de la configuración queda en manos del agente. Un conector de editor exige tener ese editor a mano, por lo general con una plaza de pago. Un motor de diseño guarda el resultado terminado en su propio espacio de proyecto."
+        },
+        {
+          "t": "p",
+          "x": "SVG Lab MCP convierte en SVG pantallas móviles y web, componentes, conjuntos de iconos, ilustraciones y gráficos. El motor se encarga del espaciado, la alineación y el ajuste de texto, y el modelo solo completa el contenido. No permite animación ni vectorizar imágenes, y requiere un plan Plus (20 $/mes, 5.000 usos) o Max (40 $/mes, 15.000 usos)."
+        },
+        {
+          "t": "p",
+          "x": "El servidor remoto de Figma originalmente solo leía el contexto de diseño para generar código. Ahora escribe directamente marcos, componentes, variables y auto layout en los archivos. La escritura en el lienzo es gratuita durante la beta y después pasará a facturarse por uso, y requerirá una plaza Full. El Penpot de código abierto lee y edita los componentes, estilos y tokens de un archivo, pero necesita tener abierta una pestaña de Penpot. SVGator está pensado para movimiento, no para maquetar pantallas."
+        },
+        {
+          "t": "p",
+          "x": "Entre los generadores, SVGMaker es de código abierto con licencia MIT, y SVG Genie solo cobra por las generaciones exitosas. Usar MCP con SVG AI requiere una cuenta de pago, y CleanVector ha incorporado MCP a sus planes Plus y Pro. Fuera de esta lista, Canva también opera un servidor MCP: conectarlo es gratis, y solo algunas funciones requieren un plan de pago."
+        }
+      ]
+    },
+    "design/design-adobe-max-2026-lineup-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+          "cap": "Recinto de Adobe MAX (Imagen: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Tom May, de Creative Bloq, recuerda un momento de la keynote de MAX en 2023. David Wadhwani, presidente de medios digitales de Adobe, se jactó de que se habían generado más de 3.000 millones de imágenes desde el lanzamiento de Firefly, pero el público respondió con silencio en lugar de aplausos. Fue un momento que dejó ver lo que de verdad piensan los creativos sobre la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "El MAX de este año se celebra del 10 al 12 de noviembre en Miami Beach. Aún no se sabe qué se anunciará, pero ya se ha publicado la lista de 208 sesiones, y May la leyó entera para identificar las prioridades actuales de Adobe."
+        },
+        {
+          "t": "p",
+          "x": "Adobe sigue apostando con todo por la IA generativa. Lo que ha cambiado es que ahora sabe que a la gente puede no gustarle. La pista de IA, formada por 25 sesiones, repite frases como \"no buscamos sustituir el oficio\" o \"un socio creativo, no una muleta\". Hay incluso una sesión titulada 'AI Is Not Our Titanic'."
+        },
+        {
+          "t": "p",
+          "x": "Si se avanza más en las sesiones de IA, el público principal no son diseñadores individuales ni freelancers, sino responsables de marketing, directivos de agencias y personal de compras que adquieren software a gran escala. Firefly Graph destaca \"gobernanza, escalabilidad e indemnización\", y Omnicom presenta un \"modelo operativo agéntico\". Una agencia se jacta de haber creado más de un millón de activos para marcas como eBay, Spotify y Just Eat."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cZhQ9DYE3Dc87qUjxZonxL.jpg",
+          "cap": "Un escenario de Adobe bajo el lema 'El futuro de la creatividad en la era de la IA' (Imagen: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "El contraste más claro es el taller de un día completo de Illustrator de Toni Harmer, presentado como aprender técnicas tradicionales 'sin IA'. Prescindir de la IA es ahora la excepción. Por supuesto, hay muchas sesiones pensadas para profesionales en activo, como la charla de logotipos de Aaron Draplin, los consejos de InDesign de David Blatner o una sesión a fondo sobre máscaras en Lightroom."
+        },
+        {
+          "t": "p",
+          "x": "Según May, lo que quieren los diseñadores no es una IA que haga el trabajo por ellos. Quieren una IA que se encargue de tareas tediosas —quitar ruido en Premiere, enmascarar cielos en Lightroom— y honestidad sobre precios y datos de entrenamiento. Pero la tendencia general se inclina hacia la escala, el volumen y los compradores corporativos. Una sesión pregunta: \"Si todos pueden crear, ¿qué importa es quién lo hace?\". May escribe que la respuesta actual de Adobe parece ser 'quien compre la licencia corporativa'."
+        }
+      ]
+    },
+    "design/design-meta-muse-charm-kawaii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612532-meta-muse-charm.jpg",
+          "cap": "Meta Muse Charm"
+        },
+        {
+          "t": "p",
+          "x": "La opinión pública sobre la IA se ha agriado, con temores crecientes de desempleo masivo e incluso de la extinción humana. Meta ha reducido lo inquietante y aumentado lo adorable en su nuevo agente de IA, Muse, y en su dispositivo dedicado. Apuesta por lo 'kawaii' como baza para vender hardware de IA al público general."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Meta, Mark Zuckerberg, presentó el miércoles en Meta Connect el dispositivo portátil Muse Charm. Tiene el aspecto de un Tamagotchi futurista, y el chatbot que aparece en su pantalla es una mascota peluda, redondeada y de color beige. El nombre lo elige cada usuario; Adam Mosseri, de Instagram, llamó al suyo 'Max'."
+        },
+        {
+          "t": "p",
+          "x": "Zuckerberg dijo: \"Hemos metido toda la experiencia de Muse, desde la voz en tiempo real hasta el sistema de avatares, en un dispositivo del tamaño de un llavero, para que puedas hablarle en cualquier momento\"."
+        },
+        {
+          "t": "p",
+          "x": "No es una esfera luminosa como Siri, ni un cursor y texto como ChatGPT. Meta eligió en cambio un avatar de monstruo adorable, una señal de que las grandes tecnológicas están apelando a la emoción suave en la carrera por llegar al público masivo."
+        },
+        {
+          "t": "p",
+          "x": "Muse lee correos, reserva clases, redacta borradores de documentos e incluso compra, aunque esto último está bloqueado en Amazon. Ceder permisos sobre varias cuentas exige confianza, y ese ha sido siempre un punto débil para Meta y otras empresas de redes sociales. Aun así, si Muse tiene éxito, podría demostrar que una mascota calma mejor la ansiedad hacia la IA que una voz o una esfera sin forma."
+        },
+        {
+          "t": "p",
+          "x": "Lo adorable también aparece en el transporte. El robotaxi de Zoox, las furgonetas de reparto de Amazon y el robot de reparto Dot de DoorDash están diseñados para parecer redondeados y poco amenazantes. Las investigaciones sugieren que lo adorable despierta el deseo de cuidar, justo el sentimiento opuesto al miedo que muchos estadounidenses sienten hacia la IA."
+        },
+        {
+          "t": "p",
+          "x": "Zuckerberg presentó Muse Charm como un dispositivo que se usa sin desbloquear el teléfono ni abrir una app. Los materiales y componentes aún se están definiendo y el precio no está fijado, pero Meta planea lanzarlo a tiempo para la temporada de fiestas de fin de año. Todavía no se sabe cuánta demanda tendrá."
+        },
+        {
+          "t": "p",
+          "x": "Esta semana Meta también presentó sus gafas inteligentes de próxima generación sin cámara, parte de la búsqueda de un dispositivo libre de la polémica de la grabación encubierta. Con una mascota adorable que vive dentro de un gadget rectangular y redondeado, Meta intenta suavizar el filo de una tecnología que los consumidores temen."
+        }
+      ]
+    },
+    "design/design-matlab-simulink-2026b": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s44869.pcdn.co/wp-content/uploads/2026/09/matlab-simulink-mathworks-2026.png",
+          "cap": "Pantalla de chat de Simulink Copilot"
+        },
+        {
+          "t": "p",
+          "x": "MathWorks anunció la versión 2026b de MATLAB y Simulink (R2026b). Los nuevos productos incluyen Simulink Variant Manager, Visual Inspection Toolbox y Polyspace Test Server, además de funciones ampliadas en aeroespacial, sistemas embebidos, IA, cognición, audio y análisis estadístico."
+        },
+        {
+          "t": "p",
+          "x": "El trasfondo es la complejidad. A medida que el software, la electrónica y la IA se entrelazan en un mismo sistema, ha crecido el número de variantes de diseño que los equipos deben gestionar y verificar. R2026b aborda esa carga con herramientas de gestión de configuración, inspección visual, pruebas automáticas y verificación de sistemas."
+        },
+        {
+          "t": "p",
+          "x": "Visual Inspection Toolbox combina IA y técnicas de procesamiento de imágenes para desarrollar e implementar aplicaciones de inspección visual en entornos de manufactura e industria. Point Cloud Toolbox sumó flujos de trabajo para lidar, cámaras, radar y SLAM."
+        },
+        {
+          "t": "p",
+          "x": "Simulink Variant Manager es una herramienta para gestionar variantes de producto en modelos y arquitecturas de sistema, manteniendo coherencia y trazabilidad en diseños de familias de productos o plataformas. Polyspace Test Server ejecuta automáticamente pruebas y análisis de cobertura de código para software embebido en C/C++ en entornos de integración continua."
+        },
+        {
+          "t": "p",
+          "x": "Simulink incorporó información de perfilado basada en IA de Simulink Copilot. También llegaron modelos publicados que se reutilizan sin volver a compilar, y un diccionario de datos JSON para el control de versiones. Deep Learning Toolbox añadió la aplicación Time Series Modeler para IA de series temporales, y ahora se pueden ejecutar modelos de PyTorch junto con MATLAB y Simulink."
+        },
+        {
+          "t": "p",
+          "x": "El codiseño de hardware y software corresponde a SoC Blockset for AMD, que ganó más funciones para SoC adaptativos y FPGA de AMD. El propio MATLAB obtuvo archivos de proyecto basados en TOML, gestión de paquetes de File Exchange e integración con Google Sheets."
+        }
+      ]
+    },
+    "design/design-google-stitch-brand-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techgenyz.com/wp-content/uploads/2026/03/Stitch_Keyword.webp"
+        },
+        {
+          "t": "p",
+          "x": "Google presento una nueva forma de usar Stitch, su herramienta de diseno de UI con IA. La idea central es poner los activos reales de marca en el centro del diseno con IA."
+        },
+        {
+          "t": "p",
+          "x": "En una publicacion del 24 de septiembre, la cuenta oficial de Stitch mostro un flujo de trabajo en el que se arrastran el kit de marca y las imagenes de producto al cuadro de instrucciones. El modelo usado es Gemini 3.8 Flash. Stitch extrae informacion del sistema de diseno y el estilo a partir de los activos de marca, y luego crea disenos de paginas de marketing y de producto. Las fotos de producto no se insertan en una plantilla fija, sino que se usan como material integrado de forma natural en el diseno."
+        },
+        {
+          "t": "p",
+          "x": "No se trata de una funcion totalmente nueva. Stitch acepta entradas de imagen desde su lanzamiento en 2025, y una actualizacion de 2026 anadio la extraccion de sistemas de diseno basada en URL y DESIGN.md, que intercambia reglas de diseno reutilizables. Gemini 3.8 Flash ya se habia convertido en el modelo predeterminado de Stitch a principios de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Lo destacable es que las pantallas creadas por IA no solo resultan convincentes por si mismas, sino que ayudan a mantener la coherencia con la marca existente. En lugar de frases como 'premium y moderno', se entregan directamente los materiales visuales que definen la marca, lo que resulta especialmente util para equipos de comercio electronico o disenadores que crean paginas de campana."
+        },
+        {
+          "t": "p",
+          "x": "La reaccion no ha sido del todo positiva. Algunos preguntaron si la herramienta tambien entiende las 'reglas prohibidas' de una marca, como los lugares donde nunca debe ir un logotipo, y algunos usuarios calificaron los resultados de 'AI slop'. Google aun no ha revelado que tokens y reglas de diseno extrae, los formatos de archivo y limites de carga admitidos, el alcance de la funcion ni cuanto ajuste humano se necesita."
+        },
+        {
+          "t": "p",
+          "x": "La verdadera prueba esta mas alla de la demostracion pulida. Todavia queda por ver si Stitch puede respetar incluso las reglas de marca mas pequenas y reducir el retoque humano."
+        }
+      ]
+    },
+    "design/design-adobe-photoshop-lightroom-in-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_11e188d386cd64d138c6fb8d51892c64e59f6459c.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe anuncio que lleva su software y sus herramientas directamente a Gemini, la plataforma de IA de Google. Es un paso similar al dado con ChatGPT, Claude, Slack y Copilot."
+        },
+        {
+          "t": "p",
+          "x": "Gemini es un asistente de IA con mas de mil millones de usuarios mensuales. Con el nuevo 'Adobe in Gemini', se puede indicar a Gemini que use las herramientas profesionales de Photoshop, Lightroom, Express y Firefly para realizar diversas tareas. Todo el proceso ocurre mediante una conversacion con Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Neal Pancholi, responsable de las asociaciones globales de GDM y Gemini en Google, afirmo: \"Nos complace ampliar nuestra asociacion con Adobe para llevar herramientas creativas lideres en la industria directamente a Gemini. Ahora cualquiera puede crear, editar y hacer realidad sus ideas dentro del chat\"."
+        },
+        {
+          "t": "p",
+          "x": "Adobe puso este ejemplo: si se suben varias fotos a la vez, Gemini usa las herramientas de correccion de Adobe para unificar el tono y el color. Ajusta la iluminacion y el color, recorta al tamano deseado y lo deja listo para usar de inmediato. Tambien puede crear versiones para redes sociales que mantengan la identidad de marca y el tono propios de la empresa, o generar nuevas plantillas de Express a medida."
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_150b784ac116ab0312114fc41e21dbf3cb1e204ef.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe describio este lanzamiento como un 'primer paso' en su relacion con Google. Adobe, que ya integra IA agentica dentro de sus propias apps, parece decidida a usar la IA de forma activa para que la gente llegue mas rapido al resultado que busca sin abrir una app."
+        },
+        {
+          "t": "p",
+          "x": "Adobe explico: \"Gracias a las plataformas de chatbots de IA, nunca ha sido tan facil convertir una idea en un resultado tangible. Pero llegar al resultado que realmente se busca requiere mas\", y anadio: \"las imagenes hay que pulirlas, los disenos hay que personalizarlos y el contenido hay que ajustarlo a cada canal. Ahi es donde brilla la profundidad de nuestras herramientas\"."
+        },
+        {
+          "t": "p",
+          "x": "Adobe in Gemini ya ha comenzado a implementarse y esta disponible en todos los planes de Gemini, aunque requiere una cuenta de Adobe."
+        }
+      ]
+    },
+    "design/design-ai-photo-editor-capability-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvrzobw16sgxfz6mi2tjx.png"
+        },
+        {
+          "t": "p",
+          "x": "La pantalla de un editor de fotos con IA parece simple: subir, escribir el prompt, ajustar y generar, listo. Pero la implementacion es mucho mas compleja, porque cada control esta ligado a un 'contrato de capacidades' que cambia constantemente. El autor dice haber escrito un borrador con ayuda de IA y luego lo corrigio comparandolo con el flujo de trabajo real de ArtDo."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta no es 'como anado un modelo mas al menu desplegable'. Es como evitar que la interfaz llegue a ofrecer una solicitud que el flujo elegido no puede procesar, y como permitir revisar el resultado mas adelante."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la solicitud se trata como un estado, no como un formulario de entrada suelto. Si no se definen etapas explicitas -- sin fuente seleccionada, validacion, carga de datos de capacidad, seleccion de ajustes compatibles, preparacion de la solicitud, generando, esperando revision, corregir/descargar --, una combinacion que el modelo actual no admite puede enviarse mientras el usuario elige una resolucion y luego cambia de modo. El boton de enviar solo se activa cuando la fuente, el modelo, los ajustes, el estado de la cuenta y los datos de capacidad mas recientes coinciden."
+        },
+        {
+          "t": "p",
+          "x": "Valores como la lista de modelos, el numero de imagenes, la proporcion, la resolucion y el costo en creditos cambian con frecuencia. Si se fijan en un texto informativo, se crean dos fuentes de verdad. El texto solo debe explicar el flujo de trabajo y sus limites; las opciones reales deben dibujarse con datos de capacidad en tiempo real, y la solicitud final debe revisarse una vez mas en el servidor."
+        },
+        {
+          "t": "p",
+          "x": "Cuando cambiar de modelo invalida otros ajustes, los valores validos deben conservarse y los invalidos deben volver a un valor predeterminado compatible. Dejar un valor invalido en silencio es lo mas peligroso. Mientras se recargan los datos de capacidad, debe bloquearse el envio, y las opciones del modelo anterior nunca deben mostrarse como si fueran las del modelo actual."
+        },
+        {
+          "t": "p",
+          "x": "El prompt tambien forma parte de la validacion. Anotar que debe cambiar, que debe mantenerse y que tiende a desviarse facilita juzgar si el resultado cumplio las condiciones. La generacion completa y la revision completa tambien se tratan como estados distintos. Hay que comparar el original y el resultado, el prompt y los ajustes uno junto al otro, y solo despues de que una persona revise puntos vulnerables -- rostros, texto pequeno, manos, reflejos -- debe pasar a la descarga."
+        },
+        {
+          "t": "p",
+          "x": "El fallo tambien es parte del producto. Los errores de validacion, proveedor, seguridad, cuenta y red no deben reducirse a un solo mensaje; hay que indicar si corresponde corregir la entrada, iniciar sesion o reintentar. Al final, el contrato que realmente se puede sostener es mucho mas limitado que 'editar cualquier cosa a la perfeccion'. Consiste en mostrar solo opciones compatibles, senalar con honestidad la generacion y el fallo, y devolver un resultado para que una persona lo revise."
+        }
+      ]
+    },
+    "design/design-claude-blender-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://video.howtogeekimages.com/2026/09/an-animated-video-of-a-robot-in-an-alien-world-created-using-claude-and-blender-1790245329.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Si alguna vez abriste Blender y lo cerraste a los pocos minutos, abrumado por su interfaz compleja, la autora pasó por lo mismo. Quería intentarlo después de ver la película Flow, hecha enteramente en Blender y ganadora del Óscar a mejor película de animación en 2025, pero siempre se rendía ante los paneles, los menús y los cientos de ajustes."
+        },
+        {
+          "t": "p",
+          "x": "Ese muro se está derrumbando. A principios de este año, Blender lanzó un servidor MCP (Model Context Protocol) oficial. Permite conectar modelos de IA como Claude o ChatGPT a Blender para que trabajen directamente dentro de la aplicación. Basta describir la escena deseada en palabras para que el chatbot la cree, o al menos haga la mayor parte. Así, sin haber usado Blender antes, la autora creó una animación de 45 segundos en unas tres o cuatro horas."
+        },
+        {
+          "t": "p",
+          "x": "Usó Claude Opus 5.5 en modo low effort, y el proceso consumió alrededor del 26% del uso de sesión del plan Pro de 20 dólares. De las cuatro horas, dedicó menos de una hora a trabajar directamente; la mayor parte del tiempo la pasó revisando los resultados y explicando de nuevo lo que quería, mientras Claude trabajaba solo durante horas. El video publicado es la tercera versión, ya que hubo que corregir varias veces el movimiento de cámara, el modelo del personaje y la profundidad del fondo."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/wide-shot-of-the-blender-built-world-with-mountains-winding-rivers-a-lake-and-scattered-teal-and-pink-foliage.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Vista amplia del mundo construido en Blender por Claude"
+        },
+        {
+          "t": "p",
+          "x": "También aprendió el orden de trabajo. Al principio pidió empezar por una zona pequeña y alejar la cámara para revelar todo el escenario, pero cuanto más se alejaba, más vacíos quedaban los detalles. Así que hizo que Claude construyera primero el mundo entero con el mayor detalle posible, y luego se centrara en un punto y se alejara desde ahí. Es similar a escribir una historia: primero el mapa y el trasfondo del mundo, y después los personajes."
+        },
+        {
+          "t": "p",
+          "x": "La configuración toma diez minutos. También se puede controlar Blender con la función 'uso de computadora' de Claude, pero eso implica cederle el control total del equipo y consume muchos más tokens por las capturas de pantalla constantes. Con el servidor MCP, Claude y Blender pueden mantenerse separados mientras se hace otra cosa. Hay que instalar el complemento MCP en Blender 5.1 o posterior, activar el acceso en línea desde las preferencias y arrancar el servidor. Del lado de Claude, basta descargar el archivo .mcpb e instalarlo como extensión. La ventana de Blender debe permanecer abierta, no minimizada."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/robot-leaning-over-the-pink-flower-with-its-head-clipping-through-the-petals.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "También quedaron fallos, como la cabeza del robot atravesando los pétalos de una flor"
+        },
+        {
+          "t": "p",
+          "x": "El video no es perfecto. El robot flota sobre el suelo sin motivo, y su cabeza se hunde en la flor al tocarla. Aun así, la autora valora haber pasado cuatro horas sentada aprendiendo la interfaz de un programa que siempre le dio miedo. El AI slop, dice, es el problema de sacar al público resultados de baja calidad sin más; usar IA para aprender una herramienta nueva es otra historia."
+        }
+      ]
+    },
+    "design/design-nasa-brand-trust-ai-imagery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En la conferencia Paradigms de Frontify, celebrada en la isla croata de Obonjan, la charla mas interesante no vino de un estudio de diseno, sino del director creativo de una agencia federal. David Rager, director creativo de la NASA, hablo sobre la gestion de la marca visual y el manual de estandares graficos de la agencia, y sobre la historia del logotipo 'worm', revivido en 2020."
+        },
+        {
+          "t": "p",
+          "x": "Su trayectoria no fue un camino recto. Empezo en el diseno grafico haciendo volantes y portadas de albumes para una banda, y despues paso por museos, agencias, un estudio de arquitectura y diseno en Paris, y Disney. Se incorporo al Jet Propulsion Laboratory (JPL) en 2019 y, tras terminar un gran proyecto para revivir el logotipo worm -- retirado en 1992 --, trabaja a tiempo completo en la sede de la NASA desde 2023."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m6HvK9EYCBeHa5GgR9y9yG.jpg",
+          "cap": "El 'meatball' (izquierda) y el 'worm' (derecha)"
+        },
+        {
+          "t": "p",
+          "x": "En 1992, un nuevo administrador que no soportaba el worm recupero el 'meatball', el emblema de la era Apolo. Rager dice que, durante un tiempo, su trabajo consistio en redactar un 'tratado de paz' entre ambos logotipos. El diseñador del worm, que ya pasa de los 90 anos, nunca espero volver a ver el logo, que ahora forma parte de la coleccion permanente del MoMA."
+        },
+        {
+          "t": "p",
+          "x": "Una marca antigua puede acabar pareciendo papel tapiz para quienes trabajan dentro de ella. Por eso Rager dedica mucho tiempo a ensenar a los equipos internos el valor de la marca y el significado de una comunicacion coherente. Lo que la NASA vende no es un producto, sino optimismo y humanidad compartida, y como se financia con impuestos publicos, debe demostrar que esa inversion vale la pena."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7Kzwc4chMwguwHXbMzEVJi.jpg",
+          "cap": "Una pagina de las directrices de marca de la NASA de 1975"
+        },
+        {
+          "t": "p",
+          "x": "Ante la pregunta sobre la confianza en la era de la IA y la desinformacion, su respuesta es clara: \"Prohibi el uso de imagenes de IA\". Hubo mucho rechazo entre el personal mas afin a la tecnologia, pero insistio en que la marca de la NASA se sostiene sobre la confianza. La gente debe saber que, al ver una imagen de la NASA, es real y puede creer lo que ve, porque ya hay suficientes personas buscando excusas para no creer algo."
+        },
+        {
+          "t": "p",
+          "x": "El manifiesto de comunicacion de la NASA exige escribir primero sobre lo que realmente existe. Rager lo resume asi: \"Tenemos de sobra imagenes magnificas, obras de arte y fotografias espectaculares. Tenemos el tipo de material que la IA quiere crear\"."
+        }
+      ]
+    },
+    "design/design-coreldraw-text-to-vector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Cc7Agjdq4cD8sy3c8yjz6f-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Corel ha añadido Text-to-Vector a la actualización de septiembre de 2026 de CorelDRAW Graphics Suite. La IA introducida a principios de este año no se basaba en vectores, pero esta herramienta es diferente. Genera obras vectoriales a partir de prompts de texto o material de referencia como ilustraciones, logotipos, diseños de producto y fotografías, y entrega el resultado en objetos, curvas y nodos. Los colores, las formas y los elementos individuales se pueden corregir después, como en un dibujo hecho a mano."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VFQa5nt5aBA9ZghwZp5Hrb.jpg",
+          "cap": "Se puede introducir una obra propia como referencia y usar Text-to-Vector para generar más activos editables. (Imagen: Corel)"
+        },
+        {
+          "t": "p",
+          "x": "En la demostración de Jenny John, responsable de gestión de producto de CorelDRAW, lo que impresionó no fue un simple prompt, sino el flujo de trabajo con referencias. Al introducir una ilustración del artista Pawel Pergol (unos 600 objetos) y pedir iconos de conejo, pájaro y serpiente en el mismo estilo, el resultado se abrió en el panel de objetos, con curvas y nodos que se podían examinar. John dijo: \"El trabajo del artista empieza justo ahí\". Los probadores beta también lo usaron sobre todo para extraer nuevas piezas a partir de logotipos e ilustraciones existentes."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres modelos. Vector Spark se ocupa de trabajos simples como iconos y clip art, Vector Craft es de uso general y Vector Master se encarga de diseños complejos y variaciones basadas en referencias. No hay garantía de que todos los detalles de la imagen de referencia se conserven, así que queda trabajo manual por hacer. Según John, los artistas beta son exigentes con los trabajos de calcado, pero \"adoran\" la IA para generar ideas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nNbgWmSiqunhZau6enJ4ub.jpg",
+          "cap": "(Imagen: Corel)"
+        },
+        {
+          "t": "p",
+          "x": "También se mejoró PowerTRACE. El calcado es hasta cuatro veces más rápido, la estructura de objetos y el tratamiento del color mejoraron, y se añadió la eliminación de fondo con IA. Las funciones de generación se ejecutan en la nube, no en la tarjeta gráfica; una IA local que use GPU, como las de Nvidia, no está en la hoja de ruta. Text-to-Vector también llegará a CorelDRAW Go y a CorelDRAW Technical Suite 2026."
+        },
+        {
+          "t": "p",
+          "x": "CorelDRAW Graphics Suite cuesta 269 dólares (319 libras) al año, o 549 dólares (659 libras) con licencia perpetua. Para celebrar el lanzamiento, ofrece generaciones ilimitadas de Vector Craft y Vector Master durante una semana."
+        }
+      ]
+    },
+    "design/design-usertesting-mcp-servers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fifynx.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fusertesting-mcp-servers-ai-research-work-hero-20260928091425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 25 de septiembre de 2026, UserTesting anunció servidores de Model Context Protocol (MCP) para su propia plataforma y para User Interviews. Los equipos de producto, diseño, UX e investigación pueden reclutar participantes, crear estudios, lanzar pruebas e incluso recibir comentarios desde dentro de aplicaciones de IA compatibles con MCP como ChatGPT, Claude, Figma Make y Gemini. Según MarTech Series, esto se encuentra actualmente en acceso anticipado, y la red combinada de participantes de ambos servicios supera los 7 millones de personas en 34 países."
+        },
+        {
+          "t": "p",
+          "x": "El argumento de UserTesting es el siguiente: la IA puede producir conceptos rápidamente, pero los resultados tienden a inclinarse hacia lo ya conocido. Crear un producto realmente distintivo requiere emoción y criterio humanos reales."
+        },
+        {
+          "t": "p",
+          "x": "iFynx, autor del artículo, recomienda colocar 'puertas de investigación' en los flujos de trabajo de los agentes: exigir un número determinado de sesiones con el mercado objetivo después de una propuesta de arquitectura de la información (IA), después de un borrador de microcopy y después de diseñar pantallas de alto riesgo como la confirmación de pago, antes de que un agente pueda marcar un ticket como 'listo para desarrollo'. Sin este proceso, los estudios se lanzan sin control, los resultados se pasan por alto y textos sensibles de prototipos pueden filtrarse al grupo de participantes equivocado."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de iFynx es que MCP es solo la tubería; la gobernanza es el verdadero producto. Antes hay que decidir quién puede lanzar un estudio pagado desde una sesión de agente y qué tipo de información personal nunca debe entrar en un prompt. El proceso de prototipado, prueba y revisión en Figma Make también debería ser un solo flujo continuo, no tres herramientas que pierden el contexto entre sí. El texto también aconseja que, para el mercado de Oriente Medio y el Norte de África (MENA), los estudios incluyan siempre usuarios de dialectos del Golfo y árabe egipcio, además de usuarios de dispositivos Android de gama media y baja."
+        }
+      ]
+    },
+    "design/design-google-flow-nano-banana-2-1-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/09/Google-Flow-----Sept-24-00-52-09-25-2026_10_28_PM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Parece que Google está preparando otra actualización de su modelo de imágenes, Nano Banana. Una build web de Google Flow mostraba originalmente la etiqueta 'Nano Banana 2.5 Flash', pero ese nombre ahora ha cambiado simplemente a 'Nano Banana 2.1'."
+        },
+        {
+          "t": "p",
+          "x": "El cambio de nombre sugiere que Nano Banana 2.1 podría ser el nombre oficial del producto. Aun así, conviene moderar las expectativas sobre el alcance de la mejora: pasar de 2 a 2.1 suele ser una mejora incremental, lejos del salto que sugería '2.5 Flash'."
+        },
+        {
+          "t": "p",
+          "x": "Si se lanza con este nombre, Nano Banana 2.1 podría llegar a varios productos de Google, como Gemini, Google AI Studio y Google Flow, lo que también coincide con la forma en que Google despliega sus lanzamientos actualmente. El nombre oficial de Nano Banana 2 es Gemini 3.1 Flash Image, y Nano Banana 2 Lite ya se ha desplegado tanto en servicios para desarrolladores como para consumidores."
+        },
+        {
+          "t": "p",
+          "x": "No ha surgido un calendario de lanzamiento para Nano Banana 2.1, y Google no ha revelado qué cambia respecto a Nano Banana 2. Creadores y desarrolladores quieren saber una sola cosa: si hay una mejora perceptible en la calidad de generación, la edición, la consistencia y la latencia, o si solo se trata de un nuevo checkpoint."
+        },
+        {
+          "t": "p",
+          "x": "La atención también se está desplazando hacia el próximo Gemini Pro de Google. Google no ha anunciado una fecha de lanzamiento para Gemini 4 Pro, pero TestingCatalog espera que el próximo modelo de nivel Pro llegue antes de diciembre."
+        }
+      ]
+    },
+    "design/design-react-ai-reasoning-states": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdexj40y4ucz5iqs06ba7.png"
+        },
+        {
+          "t": "p",
+          "x": "Si un operador humano no puede saber en tiempo real qué piensa un agente de IA, ese agente no sirve de nada. El equipo del autor construyó un panel en React que muestra el razonamiento del agente, los aciertos de memoria y las acciones de recuperación, y la confianza de los operadores cambió de forma notable."
+        },
+        {
+          "t": "p",
+          "x": "La primera interfaz era una simple tabla de incidentes. Mostraba qué había pasado, pero no por qué. Los operadores no podían distinguir si el agente había recuperado memoria de Hindsight o si había razonado de nuevo con el LLM. En una encuesta interna, la confianza obtuvo 2 de 10 puntos. Sin una señal de confianza visible, el operador anula la decisión. Y si siempre la anula, no tiene sentido tener un agente."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq4ds23wnlt1r8pz240b0.png"
+        },
+        {
+          "t": "p",
+          "x": "La solución fue mostrar el razonamiento. El componente MemoryHitBadge distingue con dos colores el origen de cada solución: morado cuando se recupera directamente de la memoria Hindsight (0 tokens de LLM), y naranja cuando se razona de nuevo con ReAct y ese playbook se guarda en la memoria. La insignia también muestra el tiempo empleado y el porcentaje de confianza."
+        },
+        {
+          "t": "p",
+          "x": "También añadieron un grafo de topología en tiempo real con @xyflow/react. Mantiene visible toda la estructura y el estado de los microservicios, y cuando ocurre un incidente, los servicios afectados se iluminan. El alcance del daño se ve de un vistazo, sin tener que revisar registros."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fworlkn1zg3j39pj274g2.png"
+        },
+        {
+          "t": "p",
+          "x": "El panel consulta el BFF (Backend-For-Frontend) cada 3 segundos. Con un solo ajuste, refetchIntervalInBackground: false en TanStack Query, el sondeo se detiene cuando la pestaña está inactiva, y el tráfico en segundo plano cae casi a cero cuando nadie está mirando. En las pruebas del equipo, la latencia de renderizado bajó de 2.5 segundos a 150 ms y la confianza de los operadores subió de 2 a 8 puntos. Las páginas de la interfaz pasaron de 1 a 11."
+        },
+        {
+          "t": "p",
+          "x": "Una insignia de confianza se lee más rápido que un archivo de registro, y un diagrama de topología, más rápido que un volcado de métricas. Por eso el autor dice que, si se va a construir un agente de IA, hay que dedicar bastante tiempo de ingeniería a la interfaz. La interfaz no es decoración: es el lugar donde se encuentran el razonamiento del agente y el juicio humano."
+        }
+      ]
+    },
+    "design/design-viral-ai-animation-character-controversy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cuando la IA y la animación se encuentran, las reacciones siempre se dividen. Con las preocupaciones por el empleo y los derechos de autor repitiéndose, el sector de la animación es especialmente hostil hacia la IA. Cuando la animación con IA del artista Antrofrog se hizo viral hace poco, la hostilidad tampoco se calmó. La mezcla de estilos extrañamente familiares, sumada a una trama rara, hizo que el público reconociera de inmediato que era obra de IA, y no dudó en expresar sus quejas."
+        },
+        {
+          "t": "p",
+          "x": "Al ritmo de 'Smooth Operator' de Sade, un hombre alto con un paraguas recorre la ciudad. Atrapa una maceta que cae de una ventana y salva a un gato subido a un árbol, con una expresión impasible todo el tiempo. A primera vista parece juguetón e inofensivo, pero al mirar de cerca aparecen las grietas. El estilo artístico en sí es inconsistente: el protagonista parece un villano de animación japonesa caído en una película clásica de Disney, mientras que los personajes de fondo mezclan ilustración de libro infantil con viejas caricaturas de The New Yorker."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bHVsNwwbNTX3zmvGcZGM6K.png",
+          "cap": "El hombre del paraguas y un niño con un helado, en la animación que Antrofrog publicó en X. (Imagen: Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "También surgieron acusaciones de robo de diseños de personajes. Un comentario, señalando al niño con el helado, decía: \"¿Ese no es Ben de 'El cantar del mar' (Song of the Sea)?\". La trama también quedó en entredicho. El protagonista hace que un niño en patinete salga despedido hacia la calzada y hasta arruina el dibujo de un desconocido. Un usuario de X comentó: \"No hay absolutamente ninguna narrativa básica\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/twbekTKEMQPEEkgaNcYNeV.png",
+          "cap": "Dos hombres con traje aparecen en la animación con IA de Antrofrog. (Imagen: Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "También hubo reacciones como esta: \"La tragedia del arte con IA no es que se vea feo, sino que te hace desconfiar de las personas\". La inmersión se rompe en cuanto empiezas a preguntarte si un gesto, un ritmo o una pausa fueron intencionados o solo una alucinación surgida de un cálculo de probabilidades. A medida que las herramientas se vuelven más sofisticadas y fáciles de usar, también crecen las voces que preguntan qué cuenta como creatividad humana, y si una obra hecha con prompts puede compartir el mismo escenario que una obra humana."
+        }
+      ]
+    },
+    "design/design-adobe-chatgpt-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1047d7d7a561478527243a678cd2c060c7aa018f9.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "Se retoca solo una parte de la imagen y el resultado se ajusta con controles de tono y saturación."
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha añadido edición interactiva a su plugin de Adobe para ChatGPT, coincidiendo con el anuncio de OpenAI en DevDay 2026. Ahora los usuarios pueden retocar directamente imágenes, diseños y PDF."
+        },
+        {
+          "t": "p",
+          "x": "El método consiste en seleccionar parte de una imagen, encargar la edición a ChatGPT y luego ajustar el resultado con nuevos controles. Pasar del editor a la conversación no interrumpe el contexto del trabajo. El editor aparece en un panel lateral de ChatGPT y muestra solo los controles que corresponden a la edición que se quiere hacer. Si se quiere cambiar el color de un objeto, aparece un control de color que afecta solo a esa selección."
+        },
+        {
+          "t": "p",
+          "x": "Vibhor Chhabra, responsable de producto del ecosistema ChatGPT en OpenAI, dijo: \"Queremos que la gente pase de una idea a algo que pueda usar o compartir, sin perder el control de los detalles en el camino\"."
+        },
+        {
+          "t": "p",
+          "x": "El editor de imágenes y diseño funciona sobre Photoshop y Adobe Express. Se selecciona un objeto o se pinta con un pincel para retocar solo esa parte, y el tono, la saturación y el contraste se ajustan con deslizadores. Si una servilleta aparece en una foto de un café con leche para redes sociales, basta pintar la servilleta con el pincel y decir \"quita la servilleta de la mesa\". Luego, al repintar la taza y pedir ajustes de brillo y contraste, aparecen dos deslizadores de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1493980922a87edd8afc41840096ba07374b50dd7.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "La conversación y la edición directa se alternan dentro de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Lo que se retoca en el editor vuelve a la conversación como contexto. No es necesario explicar la tarea de nuevo ni volver a subir el archivo. Se puede pasar a la conversación cuando importa la rapidez, y a la manipulación directa cuando importa la precisión."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1552fe260a254737147ca7e0ff777ff412e92312a.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "Las herramientas de Acrobat permiten corregir texto de un PDF directamente en el documento."
+        },
+        {
+          "t": "p",
+          "x": "Los PDF los gestionan las herramientas de Acrobat. El documento se abre en el panel lateral, se corrige el texto y se resaltan pasajes. Si se resalta el párrafo de condiciones de pago de un contrato freelance y se pide buscar más secciones sobre facturación y pagos, Acrobat marca esos pasajes en el documento."
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha unificado recientemente sus herramientas creativas y de productividad en un solo plugin para ChatGPT, Claude y Slack. Esta actualización se despliega hoy mismo en todo el mundo, de forma escalonada, en la web y la app de ChatGPT."
+        }
+      ]
+    },
+    "design/design-claude-sonnet-5-5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic presentó el 28 de septiembre Claude Sonnet 5.5, el segundo modelo de la familia Claude 5.5. Supone una mejora clara sobre Sonnet 5, es más del 30% más rápido y, en la mayoría de tareas, cuesta hasta un 30% menos."
+        },
+        {
+          "t": "p",
+          "x": "Sonnet 5.5 es el modelo más rápido y económico que respalda a Opus 5.5. Mientras Opus 5.5 se encarga del trabajo complejo que exige un juicio cuidadoso, Sonnet 5.5 destaca en tareas cotidianas de alcance claro, corrección de errores y la elaboración de documentos, diapositivas y hojas de cálculo muy pulidos. Anthropic también lo describe con \"un ojo agudo para el diseño\". Claude Haiku 5.5, pensado para uso masivo y de bajo coste, se incorporará a la familia en unas semanas."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia de rendimiento es grande. Obtuvo un 70,6% en Terminal-Bench 4.0, una evaluación de programación agéntica, frente al 10,3% de Sonnet 5. En GDPval-AA quedó solo 2 puntos por debajo de Opus 5.5, y es el primer modelo Sonnet en superar Pokémon Rojo usando solo capturas de pantalla."
+        },
+        {
+          "t": "p",
+          "x": "El precio no cambia respecto a Sonnet 5: 2 dólares por millón de tokens de entrada, 10 dólares por millón de tokens de salida y 0,20 dólares por lectura de caché. Como termina el mismo trabajo con muchos menos tokens, el coste por tarea ha bajado hasta un 30%."
+        },
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cf0eae4b26b6fbe29e370d300ecac766cb94bc2d-1600x1000.png",
+          "cap": "Resultado de Sonnet 5.5 para el prompt \"una bandada de 400 estorninos en un solo archivo HTML\"."
+        },
+        {
+          "t": "p",
+          "x": "Los primeros usuarios destacaron especialmente su sentido del diseño. Según dicen, añade pulido a las interfaces de usuario y genera presentaciones que, siguiendo la plantilla, casi no necesitan retoques. En pruebas internas, al darle los resultados trimestrales de una empresa cotizada, la transcripción de una llamada y una plantilla de diapositivas, y pedirle una revisión operativa de 10 páginas, dos expertos consideraron que el primer borrador podía enviarse tal cual."
+        },
+        {
+          "t": "p",
+          "x": "Su capacidad en ciberseguridad ya se acerca a la de Opus 5, y es el primer modelo Sonnet que llega con las mismas protecciones cibernéticas que los modelos principales."
+        }
+      ]
+    },
+    "design/design-de-slopify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*8HZbm_CuQ7CumOwEIQYm4w.png"
+        },
+        {
+          "t": "p",
+          "x": "Este consejo es para quienes hacen vibe coding. La autora, Maya Brennan, dice haber llegado a tres conclusiones en medio de la avalancha actual de AI slop: la gente reconoce el slop, lo detesta, pero no sabe cómo corregirlo. Reconocer un mal diseño y corregirlo son habilidades completamente distintas."
+        },
+        {
+          "t": "p",
+          "x": "Eso no significa que todo resultado de IA sea slop. Hoy la mayoría de las interfaces se construyen, al menos en parte, con vibe coding, y la IA también ha producido mucho diseño expresivo. El slop es un resultado hecho sin pensamiento, esfuerzo ni calidad, por lo general producido en masa. Le faltan decisiones meditadas, se le añaden adornos innecesarios y cuenta cualquier historia de la misma manera."
+        },
+        {
+          "t": "p",
+          "x": "El primer paso es analizar. En lugar de quedarse en \"simplemente se ve descuidado\", hay que identificar exactamente qué elementos hacen que algo parezca slop. La autora incluye también una lista de \"señales de slop\" propias de las interfaces hechas con vibe coding."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*KcCqIaBkPQUYxDwSsQElOA.png",
+          "cap": "Señales de slop que aparecen en interfaces hechas con vibe coding."
+        },
+        {
+          "t": "p",
+          "x": "Eliminarlo ocurre por etapas. El nivel 0 es un prompt de una sola línea. Si se pide una presentación estilo Y2K para una noche de trivia sin ningún estilo de referencia, las señales de slop aparecen intactas. Pedirle que se vea \"menos vibe-coded\" tampoco cambia mucho las cosas."
+        },
+        {
+          "t": "p",
+          "x": "El nivel 1 es la limpieza: quitar elementos innecesarios y especificar color, tipografía y gráficos de forma concreta. Con solo usar una paleta de Coolors, Google Fonts y los iconos de Lucide, la interfaz gana mucho en acabado, y añadir fotos de Unsplash le da un toque analógico."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*7aVvNcPVCmRKLfWfJDPTdg.png",
+          "cap": "Una diapositiva regenerada tras especificar tipografía y paleta."
+        },
+        {
+          "t": "p",
+          "x": "El nivel 2 consiste en fijar una estética: adjuntar imágenes de referencia o describir el estilo con palabras. La IA es débil con estilos orgánicos y expresivos, y reproduce mejor cuanto más \"digital\" es el estilo. Eso sí, la autora marca un límite: no está bien usar el trabajo de otra persona sin permiso solo para copiarlo."
+        },
+        {
+          "t": "p",
+          "x": "El nivel 3 es el diseño real. Para algo tan grande como un sitio web, hay que inspirarse en Dribbble y Mobbin, dibujar wireframes a mano, construir los frames uno mismo en Figma y usar ese diseño como el estándar que debe cumplir la implementación con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*YkvrMVytpXb_MUDAoWcbow.png",
+          "cap": "El resultado de pedirle que reproduzca fielmente un archivo de Figma."
+        },
+        {
+          "t": "p",
+          "x": "Estas etapas están pensadas para diseños puntuales. Para un producto o una marca completa, hay que incorporar además flujos de trabajo con agentes y un sistema de diseño."
+        }
+      ]
+    },
+    "design/design-openai-dots-mascots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/1-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI presentó una nueva línea de agentes de IA llamada \"Dots\". Su aspecto parece salido de un dibujo animado infantil. Dots fue el protagonista entre los cerca de 20 anuncios del cuarto DevDay, celebrado el 29 de septiembre en San Francisco. Los Dots son agentes siempre activos que funcionan con el modelo más reciente, GPT-6 Astra."
+        },
+        {
+          "t": "p",
+          "x": "Los Dots no siguen el logo icónico de OpenAI, \"Void\". En su lugar, cada uno lleva su propio personaje, tierno y de formas suaves: un triángulo con pajarita, un conejo con auriculares, una nube con boina."
+        },
+        {
+          "t": "p",
+          "x": "Cada Dot usa su propio ordenador en la nube, aprende de la retroalimentación y se conecta a más de 4.000 aplicaciones a través de un ecosistema de plugins. Se le puede preguntar y dar retroalimentación como a un compañero de trabajo, en ChatGPT, Slack o Teams, e incluso admite llamadas de voz."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/2-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Primero, el usuario le pone nombre a su Dot principal y lo personaliza según el uso que le dará. Entre los ejemplos mostrados había a Todd, una rana sonriente y rechoncha; Jojo, un corazón con gafas de sol; y Felipe, una mullida nube azul."
+        },
+        {
+          "t": "p",
+          "x": "Fast Company no cree que esta ternura sea casual: llega en un momento en que la inquietud hacia los agentes de IA es especialmente alta. Al igual que Meta lanzó a principios de este mes su agente antropomorfizado Muse, el análisis sugiere que OpenAI también se apoya mucho en el diseño de personajes para abordar los problemas de confianza."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/5-openai-embargo-news.jpg"
+        }
+      ]
+    },
+    "design/design-meta-hologram-avatars": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta lanzará en unos meses el avatar fotorrealista que lleva tiempo anunciando. Se llama \"Hologram\". Scott Hayden, de Road to VR, lo probó en persona en Meta Connect."
+        },
+        {
+          "t": "p",
+          "x": "Hologram debuta primero en las Meta Ray-Ban Display, que tienen una única pantalla transparente sobre el ojo derecho. Antes se llamaba \"Codec Avatars\". También llegará a las nuevas gafas VR de Meta recién anunciadas, aunque esa versión no se lanzará hasta la primavera de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Estrictamente hablando, no es un holograma 3D de campo de luz. Es un avatar inmersivo con IA integrada, más cercano a 2.5D. La forma de crearlo también difiere del Persona de Apple: en lugar de escanear la cara con el sensor de Vision Pro, basta seguir unos pasos con la app móvil de Meta y la cámara frontal, como responder en el momento cuál es tu día favorito, leer una frase corta sonriendo y girar la cabeza de un lado a otro."
+        },
+        {
+          "t": "p",
+          "x": "La versión para las gafas con pantalla se mueve solo con la voz, así que la IA hace gran parte del trabajo. Se lanza primero en Estados Unidos, en acceso anticipado limitado a videollamadas de WhatsApp. El avatar del autor no era idéntico a él, pero podía engañar a alguien que no lo conociera."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/gYimxV0l/hologram-vr-glasses-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Con las gafas VR la cosa cambia. Los sensores de la parte inferior del visor siguen los ojos y la cara, y el avatar aparece de cuerpo entero, de la cabeza a los pies. Tiene sensación de volumen pero no profundidad real, así que no se puede caminar por una habitación ni chocar los puños. Las poses de las manos, el pelo y el movimiento de la camisa los genera todos la IA."
+        },
+        {
+          "t": "p",
+          "x": "¿Es entonces mejor que el Persona de Apple? El autor responde que depende de qué se entienda por \"mejor\". Persona sigue siendo una cabeza flotante, pero tiene profundidad 3D real, y el seguimiento facial de Vision Pro es inquietantemente preciso."
+        }
+      ]
+    }
+  }
+}

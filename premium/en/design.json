@@ -1,0 +1,1122 @@
+{
+  "cards": {
+    "design/design-photoshop-relight-beta": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1440-80.webp",
+          "cap": "A screen in Photoshop beta where a light has been added with a Relight layer."
+        },
+        {
+          "t": "p",
+          "x": "Adobe has added Relight, a generative AI feature, to desktop Photoshop beta. It lets you add new, interactive, non-destructive lighting to an image, effectively relighting a shot after it's already taken. You move the light source, change its intensity, color and diffusion, and watch the result update in real time."
+        },
+        {
+          "t": "p",
+          "x": "Relight erases an image's existing lighting, then creates new lighting with generative AI. You can add up to three artificial light sources and adjust each one separately. Turning all of them off leaves only ambient or original light, and switching each source on and off works like real lighting."
+        },
+        {
+          "t": "p",
+          "x": "Early experiments posted on social media have drawn mixed reactions. Some say it could replace manual light painting, or at least give a strong starting point that speeds up the work considerably. Others say the texture gets mushy, making the result look more like a 3D avatar than a realistic portrait. Like other AI editing tools, it also tends to change a person's features in unintended ways. The same debate that surrounded Nvidia's DLSS 5, over whether it preserves the original or generates a new picture, is repeating itself here."
+        },
+        {
+          "t": "p",
+          "x": "The unnatural look can be reduced by using Relight like an adjustment layer and hand-blending the result to bring back the original texture. It's still a feature that just launched in beta, so it's likely to be refined before the full release."
+        },
+        {
+          "t": "p",
+          "x": "To use it, update to the latest beta build (Version: 27.10.0 202600802.m.3625), open an image, and choose New Relight layer from the Layer menu. A default white light appears in the center of the screen, which you can drag inside or outside the canvas. A separate 'Relight Layer' appears in the Layers panel, leaving the original pixels untouched. Pressing 'Done' after adjusting produces the final result at the original resolution. Each time you press Done, though, it costs 30 credits."
+        }
+      ]
+    },
+    "design/design-runway-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/09/092826-runwayads-blogpost-band-flank-a12dbf4e-80c0-41f0-b3e1-79471c65f728.png",
+          "cap": "Image from the Runway Ads announcement."
+        },
+        {
+          "t": "p",
+          "x": "Runway announced Runway Ads, a new product that runs and optimizes the creative side of paid advertising from start to finish. Connect it to an ad account and brand kit, and it produces video and image creative, then publishes approved variants directly to Meta, Google and TikTok. It reads performance back from the same platforms and makes the next round of creative based on what actually pulled in budget."
+        },
+        {
+          "t": "p",
+          "x": "Performance advertising rewards volume. But most advertisers put real budget behind only a fraction of the ads they make. Without constant iteration and steady execution, you don't extract the full value available from a running program. Finding what works has less to do with taste or judgment than with how many variants a team can produce. Regardless of size, what holds a company back isn't analysis or intuition but the capacity to produce enough creative."
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads solves this by combining the process of creating, watching and fixing performance ad campaigns into one. For large companies running global campaigns at scale, testing gets faster, variation increases and localization stays consistent. Small teams can also run thousands of ads a week and shift toward what's working every day. Small businesses and individual creators get into new channels without taking time away from their core work."
+        },
+        {
+          "t": "p",
+          "x": "Runway Ads automates the key steps of ad generation and buying, building on Runway's agent work, while leaving ownership and approval with people."
+        },
+        {
+          "t": "p",
+          "x": "Runway built the product on the infrastructure it used to grow its own performance marketing, especially on Meta and TikTok ads. Since July, its weekly ad count grew from 77 to roughly 900, and return on ad spend doubled. Conversion rate rose about 34% while click-through rate stayed flat. Even as spending rose to scale up, cost per subscriber fell 41% over the same period."
+        },
+        {
+          "t": "p",
+          "x": "Runway co-CEO Anastasis Germanidis said, \"We built Runway Ads because we needed it ourselves.\" He added that, \"instead of stitching together three separate tools for creating, publishing and measuring ads, putting it all in one system made our paid ad efficiency visible at a glance, and let us move faster and try more to take market share.\""
+        },
+        {
+          "t": "p",
+          "x": "Runway is piloting Runway Ads with select enterprise partners. Enterprise sales will reach out to advertisers who share their paid ad program."
+        }
+      ]
+    },
+    "design/design-owlcad-parametric-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/hero-2x1-planetary.png",
+          "cap": "A planetary gearbox made with OwlCAD."
+        },
+        {
+          "t": "p",
+          "x": "Spare Matter Corp has released OwlCAD, a parametric CAD program for 3D printing, in beta. It runs entirely in the browser, so there's nothing to install and no account needed. The geometry engine processes the model on the user's own computer, so there's no waiting on server responses. The full editor, including every export format, is free, and there's no license fee even if you sell the prints or files. AI features and agent access through the MCP server are part of the Pro plan, at $12 a month or $120 a year."
+        },
+        {
+          "t": "p",
+          "x": "AI 3D generators have been producing plausible-looking shapes on screen for a while now. The problem shows up when you need to widen a hole by 0.4mm. A triangle mesh doesn't remember that it was ever a hole. OwlCAD offers something more modest but practical: a model with live dimensions and a preserved edit history."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/2-editor-dimensions-1536x960.png",
+          "cap": "The editor screen, where dimensions can be edited directly."
+        },
+        {
+          "t": "p",
+          "x": "Describe a part in words, and parametric mode returns a node tree built from basic solids, boolean operations and transforms, with every dimension still editable. Change 30mm to 32mm and the whole part regenerates, and like any other edit, it can be undone. Edits made through the Modify with AI feature don't bake into the geometry either, they're added to the model's history. The company's own explanation is simple: a mesh remembers what something looks like; a parametric model remembers how it was built."
+        },
+        {
+          "t": "p",
+          "x": "Underneath the AI is a full editor. It uses constraint-based sketching, extrude/revolve/sweep/loft, per-edge fillets and chamfers, assemblies with mates and a BOM, variables and formulas, and 33 generators covering gears, threads, hinges, enclosures and Gridfinity bins, among others. For printing, it adds custom tolerance presets, overhang/thin-wall/watertightness checks, printer profiles, automatic orientation, and mass and cost estimates."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/09/4-print-check-1536x960.png",
+          "cap": "A screen checking overhangs and wall thickness before printing."
+        },
+        {
+          "t": "p",
+          "x": "With the hosted MCP server, MCP clients that talk over HTTP, such as Claude Code, Claude Desktop and Cursor, can build and fix models without a CAD app. With 29 tools, an agent assembles the model tree, renders a preview to review its own work, checks overhangs and print volume, and calculates filament use and cost. A large part can also be split into two pieces joined with dowels, slots, locating pins or screws. In a benchmark the company published, Gemini 3.6 Flash built and validated an 80×60×5mm mounting plate with four holes, then estimated it would use 18.5g of PLA."
+        }
+      ]
+    },
+    "design/design-core77-designer-judgment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851456_title__145488_TYLXM2RXa.jpg",
+          "cap": "A design workbench with sketches and models."
+        },
+        {
+          "t": "p",
+          "x": "Professor Steven Pum, who has taught at Parsons School of Design for nearly 30 years, long located a young designer's value in technical skill: drawing, making, rendering, prototyping, and learning new digital tools. Now, a few minutes can produce polished images, presentations, and even a visual direction. When production becomes common, something else becomes scarce."
+        },
+        {
+          "t": "p",
+          "x": "He sees the competitive edge as having moved upstream. A beautiful image is no longer scarce; knowing which image is worth making has become what matters. Before making a chair, a designer decides whether that chair is needed, who will use it, and what it should communicate. AI can help with the making, but it can't take responsibility for the decision. That's why a portfolio often reveals more through failed experiments, abandoned concepts, and the thinking behind them than through finished work."
+        },
+        {
+          "t": "p",
+          "x": "The research results are mixed. A 2025 study of 5,172 customer service agents found that generative AI assistance raised productivity by an average of 15%, with bigger gains for less experienced people. By contrast, a 2024 experiment with 60 participants found that those using an AI image generator showed more design fixation, with lower counts, diversity and originality of ideas across the board. In a 2025 field experiment with 250 employees at a technology consulting firm, AI's creative benefit stood out most among people with strong metacognitive strategies."
+        },
+        {
+          "t": "p",
+          "x": "Pum isn't arguing for separating designers from AI, but for carefully deciding when AI enters the process. When reviewing work, he asks which problem was chosen and which alternatives were dropped, and why. Before bringing in AI, he gives time to observe customers and context so the problem can be defined independently. For a request to improve hospital wayfinding signage, that means asking why patients get lost before pulling up drafts. The friction that builds expertise is sometimes worth protecting."
+        },
+        {
+          "t": "p",
+          "x": "He pictures the designer of the future not as someone who knows every AI tool, but as someone who knows when to use it, what to ask, what to doubt, and when not to use it at all. A designer who produces 100 concepts an hour may be more productive. A designer who notices that 99 of them are solving the wrong problem may be more valuable. His conclusion is that organizations, too, should evaluate problem definition and judgment and experimentation, not just speed, volume and polish."
+        }
+      ]
+    },
+    "design/design-adam-migrations": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/09/Adam-Migrations.jpg",
+          "cap": "Migrations, unveiled by Adam"
+        },
+        {
+          "t": "p",
+          "x": "Adam has released its newest tool, Migrations. An AI agent rebuilds a CAD model's parametric feature history from scratch inside a new CAD system. The company's stated goal is to end vendor lock-in."
+        },
+        {
+          "t": "p",
+          "x": "According to Adam, Migrations verifies each step geometrically. Every rebuilt step is checked against the original, and that verification repeats throughout the migration."
+        },
+        {
+          "t": "p",
+          "x": "The model's metadata carries over as well. The migrated CAD model remains fully editable, and its history stays intact so work can continue uninterrupted."
+        },
+        {
+          "t": "p",
+          "x": "Supported targets currently include Dassault Systèmes Solidworks and Catia, PTC Creo and Onshape, Autodesk Fusion and Inventor, and Siemens NX."
+        },
+        {
+          "t": "p",
+          "x": "Before the main migration, Adam first reviews the source and destination systems using one representative model. It's a step where users confirm that no data needed for the rebuild is missing."
+        },
+        {
+          "t": "p",
+          "x": "CAD conversion tools already exist in several forms. Adam is the first to release dedicated AI software that handles difficult conversions, including PMI data."
+        },
+        {
+          "t": "p",
+          "x": "Adam CEO Zach Dive said, \"Our AI agents now move models between CAD tools feature by feature.\" He added, \"We've been working on this for months, and we're thrilled to finally share it. Vendor lock-in is over.\""
+        }
+      ]
+    },
+    "design/design-vercel-skills-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7hxPZ4nBE0Mnsn1dkdGofj/dc36258e2b82650482ec34d48c33a628/skills-cumulative-installs-and-catalogue-web-light.png",
+          "cap": "Cumulative skills and installs on skills.sh"
+        },
+        {
+          "t": "p",
+          "x": "Vercel has published its first report using aggregate data from the skills.sh registry. In seven months, agent skills passed one million while installs neared 280 million. The report looks at what people teach agents, what actually gets installed, and where value is shifting."
+        },
+        {
+          "t": "p",
+          "x": "A skill is a reusable set of instructions for handling a specific task. Agents are capable but generic: they can do almost anything, yet don't know how a particular person, team, or company wants a given task done. Skills fill that missing context, and can be as simple as a single plain-language file. Anthropic introduced Agent Skills in October 2025, and Vercel launched skills.sh three months later."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2ZVzqIm2zX1BcLdWSUY7vo/e1ac442a733ba6e9f42ba666a6b8ccee/skills-time-to-one-million-web-light.png",
+          "cap": "Time to one million: skills.sh took 7 months, GitHub repositories 27 months, App Store apps 63 months, npm packages 117 months"
+        },
+        {
+          "t": "p",
+          "x": "Using a skill means surfacing the judgment embedded in a task: what order to do things in, what a good result looks like, and how it's evaluated. The underlying capability is already provided by agents and tools, which is why skills can be built so much faster than conventional software."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/712lycy79IeHLvzvmIiV5T/b81ce8d1fd594a8a35566e9eb6e9812e/skills-function-share-web-light.png",
+          "cap": "Listings skew most toward software engineering; more than four in five installs go elsewhere."
+        },
+        {
+          "t": "p",
+          "x": "Supply leans technical. More than half of listings teach software engineering, agent workflows, data, infrastructure, or security, with software engineering alone accounting for about a quarter. Demand is far more scattered: no category exceeds a fifth, with software engineering at 18%, agent workflows at 15%, and business operations and writing each near 11%."
+        },
+        {
+          "t": "p",
+          "x": "Installs per listing flip that order. Business operations skills get installed 74% more than average, writing and documentation 50% more, and cloud/infrastructure 42% more. Software engineering runs about 30% below average, education/productivity 39% below, and research 55% below."
+        },
+        {
+          "t": "p",
+          "x": "Agent workflows and automation take 14.8% of installs among categorized data, second only to software engineering. Among listings that passed 100,000 installs, it's the largest category — people using agents to build agents."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6w0Y4IuwoNRSNYUQgf4ofF/57a4b36cfacf2f42dfcec936189d6deb/skills-install-concentration-logx-web-light.png",
+          "cap": "The top 375 account for 62% of installs; the bottom 98.8% account for less than 6%."
+        },
+        {
+          "t": "p",
+          "x": "Concentration is steep. Nearly half of all skills were installed only once. At the other extreme, 375 skills — 0.04% of the registry — account for 62% of installs, and the top 1.2% take 94%. Still, there's no single runaway winner: even the most-installed skill stays under 1% of total installs. Pick one expense-report skill and there's no reason to add a second, but spreadsheet, research, and presentation skills get used side by side."
+        },
+        {
+          "t": "p",
+          "x": "Industry-agnostic skills make up 66% of classified listings and 87.5% of installs, with installs per listing 3.6 times higher than industry-specific skills. Vercel sees the first million skills as teaching what everyone already knows; it expects the next million to teach what only each person or team knows. The yardstick for skills is also shifting from install counts to effectiveness — tests and benchmarks that ask whether a task is done better with the skill than without it."
+        }
+      ]
+    },
+    "design/design-flux-pcb-enclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/Flux-adds-AI-tools-for-3D-printable-PCB-enclosures-scaled.jpg",
+          "cap": "Flux's new PCB enclosure design tool"
+        },
+        {
+          "t": "p",
+          "x": "Flux has released an AI tool for designing printed circuit board (PCB) enclosures. Describe the enclosure you want in the Flux chat window, and it produces a design matched to the board's shape."
+        },
+        {
+          "t": "p",
+          "x": "Until now, enclosure design required a mechanical engineer or mechanical CAD (mCAD) software, and even a small PCB change meant reworking the mechanical design."
+        },
+        {
+          "t": "p",
+          "x": "The new feature links PCB design and enclosure design into one flow, reading the board's shape to produce a 3D-printable enclosure model."
+        },
+        {
+          "t": "p",
+          "x": "The model includes latches, screw holes, mounting features, curved edges, vents, and port cutouts. You can preview it, request shape or function changes, then export it in a standard 3D printing format."
+        },
+        {
+          "t": "p",
+          "x": "If a component moves or gets swapped on the PCB, Flux updates the enclosure to match, along with the manufacturing and assembly instructions."
+        },
+        {
+          "t": "p",
+          "x": "The finished enclosure is used to check the PCB in its real-world placement before full production."
+        },
+        {
+          "t": "p",
+          "x": "The feature is included in every Flux plan. More details are available at flux.ai."
+        }
+      ]
+    },
+    "design/design-opus55-website-showdown": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "L0-ezCnX0gs"
+        },
+        {
+          "t": "p",
+          "x": "The AI Advantage channel posted a hands-on video of Claude Opus 5.5. It runs 14 minutes 19 seconds and was published on September 25, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Host Igor splits the video into two parts: five creative use cases first, then a 50-website showdown against ChatGPT 6 Astra."
+        },
+        {
+          "t": "p",
+          "x": "The use-case section opens with building an interactive 3D world (2:00), then turns a mechanical sketch into an animation (4:45) and creates a product ad (6:30)."
+        },
+        {
+          "t": "p",
+          "x": "Turning a photo into a brick model appears at 7:08, and a San Francisco city simulation at 7:59. The brick-model app is a demo Claude shared, and the San Francisco simulation was presented by Matthew Berman."
+        },
+        {
+          "t": "p",
+          "x": "At 8:55, the video compares Claude and GPT pricing. The 50-website showdown then runs from 9:50; all 50 results are posted at fable-blind-lab.vercel.app/opus.html for direct comparison."
+        },
+        {
+          "t": "p",
+          "x": "Igor gives his overall verdict at 13:20, then briefly covers ChatGPT's new voice feature at 13:45."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5's official announcement is posted on Anthropic's site."
+        }
+      ]
+    },
+    "design/design-copilot-super-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/copilothed.jpg?quality=90&strip=all&crop=0.024975024975028%2C0%2C99.95004995005%2C100&w=2400",
+          "cap": "Image: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft has officially unveiled the 'super app' it teased last month. The redesigned Copilot app combines chat, coding, and agents into a single screen. Scout, the AI personal assistant introduced at this year's Build, has been renamed Autopilot."
+        },
+        {
+          "t": "p",
+          "x": "There are three tabs: Home, Code, and Autopilot. Home is the default screen that merges Copilot Chat and Cowork, and will also include a Today feature that gathers important emails, meeting requests, and Teams threads."
+        },
+        {
+          "t": "p",
+          "x": "Jared Spataro, who leads marketing for workplace AI, describes Home this way: \"Home is where you get oriented. You scan recent activity, get suggestions for what Copilot can help with, and pick up right where you left off.\""
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "The Code tab. Image: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "The Code tab is the surprise move of this 'super app.' Anyone can build an app, tracker, dashboard, or automation, host it in the cloud, and share it with colleagues like an internal app. Spataro said, \"Code runs on the same underlying technology as GitHub Copilot, executes in a sandboxed environment, and is hosted securely inside your tenant.\""
+        },
+        {
+          "t": "p",
+          "x": "Autopilot is the new feature Spataro calls a 'digital teammate.' It first launched as a desktop app under the old name Scout, and Autopilot is its cloud version. It keeps running even while the user sleeps, with its own cloud compute instance that watches Teams channels, runs repetitive tasks, or handles follow-ups."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Autopilot.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Autopilot agents get a name and an appearance. Image: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "What sets it apart from other AI agents is its enterprise-grade design, aimed at companies with work already built on Office and identity-management products. Spataro explained, \"Autopilot has its own identity, memory, computer, and workspace, and it lives inside your tenant. It's built on top of Microsoft IQ, so it understands how your organization actually operates.\" It shows up in Teams, Outlook, and documents where people already work, gets @mentioned like a colleague, and is backed by permissions, auditing, and governance."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is changing too. Cowork, Code, and Autopilot are billed by usage — long-running agent tasks or model use like Astra and Fable are charged based on consumption. Existing user subscription licenses still cover Copilot in Chat, Word, Excel, PowerPoint, Outlook, and Teams. IT admins can track AI spending with the new FinOps for AI."
+        },
+        {
+          "t": "p",
+          "x": "Home and Code will roll out to the early-access Frontier program 'within weeks.' Autopilot enters private preview this month, and Code reaches preview for Microsoft 365 Premium and Pro subscribers later this year."
+        },
+        {
+          "t": "p",
+          "x": "Satya Nadella wrote on X, \"We're building Copilot as the new OS for work — spanning every model, every form factor, and every task.\" Spataro added, \"Just as Office defined work for the PC era, the new Copilot is built to define work for the AI era.\" The Verge notes that competition in the AI era dwarfs the PC era. Microsoft trails Google, OpenAI, Anthropic, and Meta."
+        }
+      ]
+    },
+    "design/design-octanerender-2027-1-alpha3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260316_OctaneRender20271_AILight.jpg",
+          "cap": "Before and after AI Light 2.0. Noise drops in scenes with many light sources."
+        },
+        {
+          "t": "p",
+          "x": "Otoy has begun releasing a public alpha of OctaneRender 2027.1, the next major version of its GPU renderer. It is an experimental build separate from the stable OctaneRender 2026."
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is a real-time 'neural rendering' mode. It builds on the Neural Radiance Cache (NRC) added in OctaneRender 2026, combining Nvidia DLSS Ray Reconstruction with Otoy's own research. Otoy says this allows \"near noise-free interactive rendering\" with far fewer samples than traditional path tracing, even in complex lighting. For now it is Windows and Linux only; Octane X for Mac will get it later."
+        },
+        {
+          "t": "p",
+          "x": "On upscaling, DLSS 4 and AMD FSR 3 have been added. Because OctaneRender is CUDA-based, FSR 3 also only runs on Nvidia GPUs."
+        },
+        {
+          "t": "p",
+          "x": "AI Light, which samples multiple light sources, has had its first major change since debuting in OctaneRender 4.0. It now factors in both spatial and directional information for each emissive primitive, so there is less noise at the same sample count."
+        },
+        {
+          "t": "p",
+          "x": "USD now supports geometry export as well as import. The standalone version gets a USD stage editor, and MaterialX adds three new EDF nodes. The per-primitive UV map limit has also risen from 3 to 10."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/03/260728_OctaneRender20271Alpha2_PhysicalOpticsMaterial-960x201.jpg",
+          "cap": "Iridescent surfaces made with Alpha 2's Physical Optics material"
+        },
+        {
+          "t": "p",
+          "x": "Alpha 2 added a Physical Optics material that reproduces wave-optics effects such as diffraction, thin-film interference, and birefringence, covering everything from soap bubbles to brushed metal, holographic stickers, and CD surfaces. A retroreflective material that sends light straight back toward its source was also added — think traffic signs or reflective safety vests."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/07/260924_OctaneRender20271_Alpha3_BakeSDF-960x480.jpg",
+          "cap": "SDF mesh baking added in Alpha 3"
+        },
+        {
+          "t": "p",
+          "x": "Alpha 3 adds the ability to bake SDFs, including Vectron primitives, into polygon meshes, for creating proxy geometry used in scattering or physics simulation. It also supports OCIO 2.5."
+        },
+        {
+          "t": "p",
+          "x": "Before the stable release, Otoy plans to add more features, including anime/sketch renderers, 3D Gaussian splat rendering, AI functions such as built-in PBR material generation, and Otoy Studio integration. Since the first alpha arrived in March 2026, the stable release is likely around year-end. An Octane Studio+ subscription costs €23.95 a month or €239.88 a year."
+        }
+      ]
+    },
+    "design/design-mcp-ui-svg-servers-8-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmqw8zw67iordk5fzsgaz.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Which MCP server should you connect so a coding agent can draw app screens, icons, or illustrations as SVG? This piece, first published by SVG Lab, puts its own SVG Lab MCP at the top of the list — worth keeping in mind while reading."
+        },
+        {
+          "t": "p",
+          "x": "The author sees picking the wrong type of server as the most common mistake. Design MCP servers fall into three categories: design engines that return a fully laid-out result from a single request; editor connectors — like Figma, Penpot, and SVGator — where the model directly manipulates documents in an app you already use; and generators (SVGMaker, SVG Genie, SVG AI, CleanVector) that spit out one SVG file per prompt."
+        },
+        {
+          "t": "p",
+          "x": "The difference matters to an agent. A generator hands over only a file, leaving the rest of the setup to the agent. An editor connector requires having that editor on hand, usually with a paid seat. A design engine saves the finished result in its own project space."
+        },
+        {
+          "t": "p",
+          "x": "SVG Lab MCP turns mobile and web screens, components, icon sets, illustrations, and charts into SVG. The engine handles spacing, alignment, and text fitting, while the model only fills in content. It can't animate or vectorize images, and requires a Plus ($20/month, 5,000 generations) or Max ($40/month, 15,000 generations) plan."
+        },
+        {
+          "t": "p",
+          "x": "Figma's remote server originally only read design context for code generation. Now it writes frames, components, variables, and auto layout directly into files. Canvas writes are free during the beta and will later switch to usage-based pricing, requiring a Full seat. The open-source Penpot reads and edits a file's components, styles, and tokens, but needs a Penpot tab open. SVGator is built for motion, not screen layout."
+        },
+        {
+          "t": "p",
+          "x": "Among the generators, SVGMaker is open source under the MIT license, and SVG Genie only charges for successful generations. Using MCP with SVG AI requires a paid account, and CleanVector has folded MCP into its Plus and Pro plans. Outside this list, Canva also runs an MCP server — connecting is free, with only some features requiring a paid plan."
+        }
+      ]
+    },
+    "design/design-adobe-max-2026-lineup-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1120-80.jpg",
+          "cap": "Adobe MAX venue (Image: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq's Tom May recalls a moment from the 2023 MAX keynote. Adobe Digital Media president David Wadhwani boasted that more than 3 billion images had been generated since Firefly's launch, but the crowd responded with silence rather than cheers. It was a moment that revealed how working creatives really feel about generative AI."
+        },
+        {
+          "t": "p",
+          "x": "This year's MAX runs November 10–12 in Miami Beach. What will be announced isn't known yet, but the list of 208 sessions has been published, and May read through all of them to work out Adobe's current priorities."
+        },
+        {
+          "t": "p",
+          "x": "Adobe is still putting its full weight behind generative AI. What's changed is that it now knows people may dislike it. The AI track, made up of 25 sessions, repeats lines like \"we're not trying to replace craft\" and \"a creative partner, not a crutch.\" There's even a session titled 'AI Is Not Our Titanic.'"
+        },
+        {
+          "t": "p",
+          "x": "Scroll further down the AI sessions and the main audience isn't individual designers or freelancers. It's marketing leads, agency heads, and procurement staff buying software in bulk. Firefly Graph pitches \"governance, scalability, and indemnification,\" and Omnicom is showing off an \"agentic operating model.\" One agency boasts of producing over a million assets for brands like eBay, Spotify, and Just Eat."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cZhQ9DYE3Dc87qUjxZonxL.jpg",
+          "cap": "An Adobe stage under the banner 'The Future of Creativity in the Age of AI' (Image: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "The sharpest contrast is Toni Harmer's all-day Illustrator workshop, billed as learning traditional skills 'without AI.' Going without AI is now the exception. Plenty of sessions still cater to working pros, of course — Aaron Draplin's logo talk, David Blatner's InDesign tips, and a deep dive into Lightroom masking among them."
+        },
+        {
+          "t": "p",
+          "x": "What May thinks designers actually want isn't AI that does the work for them. It's AI that takes care of grunt work — removing noise in Premiere, masking skies in Lightroom — plus honesty about pricing and training data. But the overall direction leans toward scale, volume, and enterprise buyers. One session asks, \"If everyone can make things, what matters is who does?\" May writes that Adobe's current answer looks like 'whoever buys the enterprise license.'"
+        }
+      ]
+    },
+    "design/design-meta-muse-charm-kawaii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91612532-meta-muse-charm.jpg",
+          "cap": "Meta Muse Charm"
+        },
+        {
+          "t": "p",
+          "x": "Public opinion on AI is souring, with growing worries about mass unemployment and even human extinction. Meta is dialing down the scariness and turning up the cuteness in its new AI agent Muse and its dedicated device. It's betting on 'kawaii' as its pitch for selling AI hardware to the public."
+        },
+        {
+          "t": "p",
+          "x": "Meta CEO Mark Zuckerberg unveiled the handheld device Muse Charm at Meta Connect on Wednesday. It looks like a futuristic Tamagotchi, and the chatbot on its screen appears as a round, beige, furry mascot. Users choose its name; Instagram's Adam Mosseri named his 'Max.'"
+        },
+        {
+          "t": "p",
+          "x": "Zuckerberg said, \"We've packed the entire Muse experience — down to real-time voice and the avatar stack — into a device the size of a keychain, so you can talk to it anytime.\""
+        },
+        {
+          "t": "p",
+          "x": "It's not a glowing orb like Siri, nor a cursor and text like ChatGPT. Meta chose a cute monster avatar instead — a sign that big tech companies are appealing to soft emotion in the race to go mainstream."
+        },
+        {
+          "t": "p",
+          "x": "Muse reads emails, books classes, drafts documents, and even shops. It's blocked on Amazon. Handing over multiple account permissions requires trust, which has long been a weak spot for Meta and other social media companies. Still, if Muse succeeds, it could prove that a mascot eases AI anxiety better than a disembodied voice or orb."
+        },
+        {
+          "t": "p",
+          "x": "Cuteness shows up in transportation, too. Zoox's robotaxi, Amazon's delivery vans, and DoorDash's delivery robot Dot are all designed to look round and unthreatening. Research suggests cuteness triggers a desire to nurture — the opposite feeling from the fear many Americans hold toward AI."
+        },
+        {
+          "t": "p",
+          "x": "Zuckerberg pitched Muse Charm as a device you use without unlocking your phone or opening an app. The materials and components are still being finalized and pricing isn't set, but Meta plans to launch it in time for the year-end holiday season. How much demand there will be remains unknown."
+        },
+        {
+          "t": "p",
+          "x": "This week Meta also unveiled its next-generation smart glasses without a camera, part of a push to offer a device free of covert-recording controversy. With a cute mascot living inside a rounded rectangular gadget, Meta is trying to dull the edge of a technology consumers fear."
+        }
+      ]
+    },
+    "design/design-matlab-simulink-2026b": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s44869.pcdn.co/wp-content/uploads/2026/09/matlab-simulink-mathworks-2026.png",
+          "cap": "Simulink Copilot chat screen"
+        },
+        {
+          "t": "p",
+          "x": "MathWorks has announced MATLAB and Simulink release 2026b (R2026b). New products include Simulink Variant Manager, Visual Inspection Toolbox, and Polyspace Test Server, alongside expanded capabilities for aerospace, embedded systems, AI, cognition, audio, and statistical analysis."
+        },
+        {
+          "t": "p",
+          "x": "The backdrop is complexity. As software, electronics, and AI become intertwined in a single system, the number of design variants teams must manage and verify has grown. R2026b targets that burden with configuration management, vision inspection, automated testing, and system verification tools."
+        },
+        {
+          "t": "p",
+          "x": "Visual Inspection Toolbox combines AI with image processing techniques to let users develop and deploy vision inspection applications for manufacturing and industrial sites. Point Cloud Toolbox gained workflows for lidar, cameras, radar, and SLAM."
+        },
+        {
+          "t": "p",
+          "x": "Simulink Variant Manager is a tool for managing product variants across models and system architectures, keeping consistency and traceability in product-line or platform-based design. Polyspace Test Server automatically runs testing and code coverage analysis for C/C++ embedded software in CI environments."
+        },
+        {
+          "t": "p",
+          "x": "Simulink now includes AI-based profiling insights from Simulink Copilot. It also gained published models that can be reused without rebuilding, and a JSON data dictionary for source control. Deep Learning Toolbox added a Time Series Modeler app for time-series AI, and PyTorch models can now run alongside MATLAB and Simulink."
+        },
+        {
+          "t": "p",
+          "x": "Hardware-software co-design falls to SoC Blockset for AMD, which gained more capabilities for AMD adaptive SoCs and FPGAs. MATLAB itself picked up TOML-based project files, File Exchange package management, and Google Sheets integration."
+        }
+      ]
+    },
+    "design/design-google-stitch-brand-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techgenyz.com/wp-content/uploads/2026/03/Stitch_Keyword.webp"
+        },
+        {
+          "t": "p",
+          "x": "Google has shown a new way to use its AI UI design tool Stitch. The core idea is to put real brand assets at the center of AI design."
+        },
+        {
+          "t": "p",
+          "x": "In a September 24 post, Stitch's official account demonstrated dragging a brand kit and product images into the prompt box. The model is Gemini 3.8 Flash. Stitch pulls design-system information and style from the brand assets, then builds layouts for marketing and product pages. Product photos aren't treated as files dropped into a fixed template, but as material woven naturally into the layout."
+        },
+        {
+          "t": "p",
+          "x": "This isn't an entirely new feature launch. Stitch has accepted image input since it first launched in 2025, and a 2026 update added URL-based design-system extraction and DESIGN.md, which exchanges reusable design rules. Gemini 3.8 Flash also became Stitch's default model in early September."
+        },
+        {
+          "t": "p",
+          "x": "What stands out is that the AI-made screens aren't just convincing on their own -- they help stay consistent with the existing brand. Instead of phrases like 'premium and modern,' you hand over the visuals that actually define the brand, which is especially useful for e-commerce teams or designers building campaign pages."
+        },
+        {
+          "t": "p",
+          "x": "The reaction hasn't been all positive. Some asked whether it also understands a brand's 'forbidden rules,' like spots where a logo must never go, and some users called the results 'AI slop.' Google hasn't yet disclosed which design tokens and rules it extracts, supported file formats and upload limits, how broad the coverage is, or how much human cleanup is needed."
+        },
+        {
+          "t": "p",
+          "x": "The real test lies beyond the polished demo. Whether Stitch can honor even small brand rules and cut down on human touch-up remains to be seen."
+        }
+      ]
+    },
+    "design/design-adobe-photoshop-lightroom-in-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_11e188d386cd64d138c6fb8d51892c64e59f6459c.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe announced it is bringing its software and tools directly into Google's AI platform Gemini. This follows similar moves with ChatGPT, Claude, Slack and Copilot."
+        },
+        {
+          "t": "p",
+          "x": "Gemini is an AI assistant with over a billion monthly users. The new 'Adobe in Gemini' lets people direct Gemini to use professional-grade tools from Photoshop, Lightroom, Express and Firefly for a range of tasks. The entire process happens through conversation with Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Neal Pancholi, who leads GDM and Gemini global partnerships at Google, said: \"We're excited to expand our partnership with Adobe to bring industry-leading creative tools directly into Gemini. Now anyone can create, edit, and bring ideas to life right within chat.\""
+        },
+        {
+          "t": "p",
+          "x": "Adobe gave this example: upload several photos at once, and Gemini uses Adobe's correction tools to unify their tone and color. It refines lighting and color, crops to the size you want, and prepares the result for immediate use. It can also create social-media versions that keep a company's own branding and mood, or build custom Express templates on the fly."
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/09/media_150b784ac116ab0312114fc41e21dbf3cb1e204ef.jpg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe called this launch a 'first step' in its relationship with Google. Adobe, which is already embedding agentic AI inside its own apps, appears intent on using AI to help people reach the result they want quickly without opening an app."
+        },
+        {
+          "t": "p",
+          "x": "Adobe explained: \"AI chatbot platforms have made it easier than ever to turn an idea into a tangible output. But reaching the result you actually want takes more than that,\" adding, \"Images need refining, designs need customizing, and content needs adjusting for each channel. That's where the depth of our tools shows.\""
+        },
+        {
+          "t": "p",
+          "x": "Adobe in Gemini has begun rolling out and is available on every Gemini plan, though it requires an Adobe account."
+        }
+      ]
+    },
+    "design/design-ai-photo-editor-capability-contract": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvrzobw16sgxfz6mi2tjx.png"
+        },
+        {
+          "t": "p",
+          "x": "An AI photo editor's screen looks simple: upload, prompt, settings, generate -- done. But the implementation is far trickier, because every single control is tied to a 'capability contract' that keeps changing. The author says they wrote a draft with AI's help, then revised it against ArtDo's actual workflow."
+        },
+        {
+          "t": "p",
+          "x": "The question to ask isn't 'how do I add one more model to the dropdown.' It's how to keep the UI from ever offering a request the chosen workflow can't handle, and how to make sure the result can be reviewed later."
+        },
+        {
+          "t": "p",
+          "x": "So the request is treated as a state, not a loose input form. Without explicitly defining stages -- no source selected, validating, loading capability info, selecting compatible settings, preparing the request, generating, awaiting review, revise/download -- a combination the current model doesn't support can slip through while a user picks a resolution and then switches modes. The submit button only lights up when source, model, settings, account status, and the latest capability data all line up."
+        },
+        {
+          "t": "p",
+          "x": "Values like the model list, image count, aspect ratio, resolution, and credit cost change often. Baking them into copy creates two sources of truth. The copy should only explain the workflow and its limits, the actual choices should be drawn from live capability data, and the final request should be checked once more on the server."
+        },
+        {
+          "t": "p",
+          "x": "When switching models invalidates other settings, valid values should be kept and invalid ones reset to a supported default. Quietly leaving an invalid value in place is the most dangerous option. While capability info is reloading, submission should be blocked, and a previous model's options should never be shown as if they belonged to the current one."
+        },
+        {
+          "t": "p",
+          "x": "The prompt is also part of validation. Writing down what should change, what should stay, and what tends to drift makes it easier to judge whether the result met the conditions. Generation-complete and review-complete are treated as separate states too. The original and the result, the prompt, and the settings should be compared side by side, and only after a human checks vulnerable spots -- faces, small text, hands, reflections -- should it move on to download."
+        },
+        {
+          "t": "p",
+          "x": "Failure is part of the product too. Validation, provider, safety, account, and network errors shouldn't be flattened into one message -- users need to know whether to fix the input, log in, or retry. In the end, the contract you can actually defend is far narrower than 'edit anything perfectly.' It means showing only compatible choices, honestly marking generation and failure, and handing back a result for a human to review."
+        }
+      ]
+    },
+    "design/design-claude-blender-animation": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://video.howtogeekimages.com/2026/09/an-animated-video-of-a-robot-in-an-alien-world-created-using-claude-and-blender-1790245329.mp4"
+        },
+        {
+          "t": "p",
+          "x": "If you've ever opened Blender, been overwhelmed by its complex interface, and closed it within minutes, so has the author. After watching Flow -- made entirely in Blender and winner of the 2025 Academy Award for Best Animated Feature -- they wanted to try it, but kept giving up in the face of panels, menus, and hundreds of settings."
+        },
+        {
+          "t": "p",
+          "x": "That wall is coming down. Earlier this year, Blender released an official MCP (Model Context Protocol) server, which connects AI models like Claude or ChatGPT to Blender so they can work directly inside the app. Describe the scene you want in words, and the chatbot builds it -- or at least most of it. Using this approach, the author, who had never used Blender before, made a 45-second animation in about three to four hours."
+        },
+        {
+          "t": "p",
+          "x": "They used Claude Opus 5.5 in low effort mode, which cost about 26% of a session's usage on the $20 Pro plan. Of the four hours, less than one hour was spent hands-on; most of it went to reviewing results and re-describing what they wanted, while Claude worked alone for stretches of several hours the rest of the time. The published video is the third version -- camera movement, the character model, and background depth all had issues that took several rounds to fix."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/wide-shot-of-the-blender-built-world-with-mountains-winding-rivers-a-lake-and-scattered-teal-and-pink-foliage.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "A wide view of the world Claude built in Blender"
+        },
+        {
+          "t": "p",
+          "x": "They also learned a working order. At first they asked Claude to start in a small area and zoom out to reveal the whole scene, but detail thinned out the farther it pulled back. So instead they had it build out the entire world in as much detail as possible first, then focus on one point and pull out from there -- similar to mapping out a world and its setting before handling characters in a story."
+        },
+        {
+          "t": "p",
+          "x": "Setup takes about 10 minutes. Claude's 'computer use' feature can also control Blender, but that requires handing over the whole computer and burns a lot of tokens on constant screenshots. With the MCP server, Claude and Blender can run separately while you do other things. Install the MCP add-on on Blender 5.1 or later, turn on online access in preferences, and start the server. On Claude's side, just download the .mcpb file and install it as an extension. The Blender window needs to stay open, not minimized."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/robot-leaning-over-the-pink-flower-with-its-head-clipping-through-the-petals.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Flaws remained too, like the robot's head clipping through flower petals"
+        },
+        {
+          "t": "p",
+          "x": "The video isn't perfect. The robot floats off the ground for no reason, and its head sinks into a flower when it touches one. Still, the author finds meaning in the fact that someone who'd always been intimidated by Blender sat with the interface for four hours and learned it. AI slop is a problem of shipping low-quality output straight to consumers, they say; using AI to learn a new tool is a different story."
+        }
+      ]
+    },
+    "design/design-nasa-brand-trust-ai-imagery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At Frontify's Paradigms conference on the Croatian island of Obonjan, the most interesting talk came not from a design studio but from the creative director of a federal agency. NASA creative director David Rager spoke about managing NASA's visual brand and graphic standards manual, and about the 'worm' logo, revived in 2020."
+        },
+        {
+          "t": "p",
+          "x": "His career hasn't followed a straight path. He got into graphic design while playing in a band, making flyers and album covers, and went on to work at museums, agencies, a Paris architecture and design studio, and Disney. He started at the Jet Propulsion Laboratory (JPL) in 2019, and after finishing the major project of reviving the worm logotype, retired in 1992, he has worked full-time at NASA headquarters since 2023."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m6HvK9EYCBeHa5GgR9y9yG.jpg",
+          "cap": "'The Meatball' (left) and 'The Worm' (right)"
+        },
+        {
+          "t": "p",
+          "x": "In 1992, a newly arrived administrator disliked the worm and brought back 'the Meatball,' the Apollo-era insignia. Rager says that for a while, part of his job was writing a 'peace treaty' between the two logos. The worm's designer, now in his 90s, never expected to see the logo again, but it has since become a permanent part of the Museum of Modern Art's (MoMA) collection."
+        },
+        {
+          "t": "p",
+          "x": "An old brand can easily start to look like wallpaper to the people inside it. That's why Rager spends a lot of time training internal teams on the brand's values and what consistent communication means. NASA isn't selling a product, he says, but optimism and humanity, and since it runs on taxpayer money, it has to show that investment is worth it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7Kzwc4chMwguwHXbMzEVJi.jpg",
+          "cap": "A page from NASA's 1975 brand guidelines"
+        },
+        {
+          "t": "p",
+          "x": "On the question of trust in an age of AI and misinformation, his answer is clear: \"I've banned the use of AI imagery.\" Tech-savvy staff pushed back hard, but he stressed that NASA's brand stands on trust. People need to know that when they see a NASA image, it's real and can be believed at face value, because there are already plenty of people looking for excuses not to believe something."
+        },
+        {
+          "t": "p",
+          "x": "NASA's communications manifesto requires using what actually exists first. As Rager puts it: \"We have an abundance of great imagery, artwork, and amazing photography. We already have the kind of material AI wants to create.\""
+        }
+      ]
+    },
+    "design/design-coreldraw-text-to-vector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Cc7Agjdq4cD8sy3c8yjz6f-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Corel has added Text-to-Vector to the CorelDRAW Graphics Suite's September 2026 update. The AI introduced earlier this year wasn't vector-based, but this tool is different. It generates vector artwork from text prompts or reference material such as illustrations, logos, product designs, and photos, and hands over the result as objects, curves, and nodes. Colors, shapes, and individual elements can be edited afterward, just like a hand-drawn piece."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VFQa5nt5aBA9ZghwZp5Hrb.jpg",
+          "cap": "You can feed in your own work as a reference and use Text-to-Vector to generate more editable assets. (Image: Corel)"
+        },
+        {
+          "t": "p",
+          "x": "In a demo by Jenny John, who handles CorelDRAW product management, what stood out was the reference workflow rather than simple prompting. When an illustration by artist Pawel Pergol (around 600 objects) was fed in and the tool was asked to make rabbit, bird, and snake icons in the same style, the result opened in the objects panel, down to editable curves and nodes. John said, \"That's exactly where the artist's work begins.\" Beta testers mostly used it to generate new pieces from existing logos and illustrations."
+        },
+        {
+          "t": "p",
+          "x": "There are three models. Vector Spark handles simple work like icons and clip art, Vector Craft is general-purpose, and Vector Master covers complex designs and reference-based variations. There's no guarantee every detail of a reference image survives, so some manual fixing remains. According to John, beta artists are picky about tracing-type work but \"really love\" the AI for idea generation."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nNbgWmSiqunhZau6enJ4ub.jpg",
+          "cap": "(Image: Corel)"
+        },
+        {
+          "t": "p",
+          "x": "PowerTRACE was also reworked. Tracing is up to four times faster, object structure and color handling have improved, and AI background removal has been added. The generation features run in the cloud, not on a graphics card; a local AI running on GPUs like Nvidia's is not on the roadmap. Text-to-Vector is also coming to CorelDRAW Go and CorelDRAW Technical Suite 2026."
+        },
+        {
+          "t": "p",
+          "x": "CorelDRAW Graphics Suite costs $269 (£319) a year, or $549 (£659) for a perpetual license. To mark the launch, unlimited Vector Craft and Vector Master generations are offered for free for one week."
+        }
+      ]
+    },
+    "design/design-usertesting-mcp-servers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fifynx.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fusertesting-mcp-servers-ai-research-work-hero-20260928091425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On September 25, 2026, UserTesting announced Model Context Protocol (MCP) servers for its own platform and for User Interviews. Product, design, UX, and research teams can recruit participants, build studies, launch tests, and even receive feedback from inside MCP-compatible AI apps such as ChatGPT, Claude, Figma Make, and Gemini. According to MarTech Series, this is currently in early access, and the combined participant network of the two services spans more than 7 million people across 34 countries."
+        },
+        {
+          "t": "p",
+          "x": "UserTesting's argument runs like this: AI can produce concepts quickly, but the results keep gravitating toward the familiar. Building a genuinely distinctive product requires real human emotion and judgment."
+        },
+        {
+          "t": "p",
+          "x": "iFynx, who wrote the piece, recommends placing 'research gates' in agent workflows — requiring a set number of target-market sessions after an information architecture (IA) proposal, after a microcopy draft, and after designing high-risk screens like payment confirmation, before an agent can mark a ticket 'ready for development.' Without such a process, studies get launched indiscriminately, results get skimmed over, and sensitive prototype copy can leak out to the wrong participant pool."
+        },
+        {
+          "t": "p",
+          "x": "iFynx's conclusion is that MCP is just plumbing — governance is the real product. Teams need to decide first who can launch a paid study from an agent session, and what kinds of personal information should never go into a prompt. The flow from prototyping to testing to revision in Figma Make should also be one continuous process, not three tools that lose context between them. The piece also advises that for the Middle East and North Africa (MENA) market, studies should always include users of Gulf dialects and Egyptian Arabic, as well as users on lower- and mid-tier Android devices."
+        }
+      ]
+    },
+    "design/design-google-flow-nano-banana-2-1-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/09/Google-Flow-----Sept-24-00-52-09-25-2026_10_28_PM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It looks like Google is preparing yet another update to its image model, Nano Banana. A Google Flow web build originally showed the label 'Nano Banana 2.5 Flash,' but that name has now simply changed to 'Nano Banana 2.1.'"
+        },
+        {
+          "t": "p",
+          "x": "The name change suggests Nano Banana 2.1 could be the official product name. Still, it's worth tempering expectations about the scope of the upgrade — going from 2 to 2.1 is usually an incremental improvement, a far cry from the leap that '2.5 Flash' implied."
+        },
+        {
+          "t": "p",
+          "x": "If it ships under this name, Nano Banana 2.1 could land across several Google products, including Gemini, Google AI Studio, and Google Flow, which would also fit how Google rolls out releases these days. Nano Banana 2's official name is Gemini 3.1 Flash Image, and Nano Banana 2 Lite has already been deployed to both developer-facing and consumer services."
+        },
+        {
+          "t": "p",
+          "x": "No release timeline has surfaced for Nano Banana 2.1, and Google hasn't disclosed what changes from Nano Banana 2. Creators and developers want to know one thing: whether there's a noticeable improvement in generation quality, editing, consistency, and latency — or just a new checkpoint swapped in."
+        },
+        {
+          "t": "p",
+          "x": "Attention is also shifting toward Google's next-generation Gemini Pro. Google hasn't announced a release date for Gemini 4 Pro, but TestingCatalog expects the next Pro-tier model to arrive before December."
+        }
+      ]
+    },
+    "design/design-react-ai-reasoning-states": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdexj40y4ucz5iqs06ba7.png"
+        },
+        {
+          "t": "p",
+          "x": "If a human operator can't tell what an AI agent is thinking in real time, that agent isn't useful. The writer's team built a React dashboard that shows the agent's reasoning, memory hits, and recovery actions, and operator trust shifted noticeably."
+        },
+        {
+          "t": "p",
+          "x": "The first UI was a simple table listing incidents. It showed what happened but not why. Operators couldn't tell whether the agent had pulled from Hindsight memory or reasoned fresh with an LLM. Internal survey trust scored 2 out of 10. When confidence isn't visible, operators override the call — and if they're going to override it every time, there's no point having an agent."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq4ds23wnlt1r8pz240b0.png"
+        },
+        {
+          "t": "p",
+          "x": "The fix was to expose the reasoning. The MemoryHitBadge component marks the source of every solution with one of two colors: purple for a direct pull from Hindsight memory (zero LLM tokens), orange for fresh ReAct reasoning that then gets saved to memory as a playbook. The badge also shows elapsed time and a confidence percentage."
+        },
+        {
+          "t": "p",
+          "x": "A real-time topology graph built with @xyflow/react was added too. It keeps the whole microservice structure and status on screen, and when an incident hits, the affected services light up — no need to dig through logs to see the blast radius."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fworlkn1zg3j39pj274g2.png"
+        },
+        {
+          "t": "p",
+          "x": "The dashboard polls a BFF (Backend-For-Frontend) every three seconds. A single TanStack Query setting, refetchIntervalInBackground: false, stops polling when a tab is inactive, dropping background traffic to near zero when nobody's watching. In the team's testing, render latency fell from 2.5 seconds to 150ms, and operator trust rose from 2 to 8. The number of UI pages grew from 1 to 11."
+        },
+        {
+          "t": "p",
+          "x": "A confidence badge reads faster than a log file, and a topology diagram reads faster than a metrics dump. That's why the writer says anyone building an AI agent should budget plenty of engineering time for the UI — it isn't decoration, it's where the agent's reasoning meets human judgment."
+        }
+      ]
+    },
+    "design/design-viral-ai-animation-character-controversy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zxY6jnnHDgAvHyFjMJYiSY-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI and animation together tend to split opinion. With job and copyright worries recurring, animation in particular has pushed back hard against AI. When artist Antrofrog's AI animation recently went viral, the hostility didn't let up either. The mix of oddly familiar styles and a strange plot made viewers quickly recognize it as AI work, and they aired their complaints without hesitation."
+        },
+        {
+          "t": "p",
+          "x": "A tall man carrying an umbrella moves through the city to Sade's 'Smooth Operator.' He catches a falling flowerpot from a window and rescues a cat stuck in a tree, his expression flat throughout. At first glance it's playful and harmless, but look closer and cracks appear. The art style itself is inconsistent: the protagonist looks like a Japanese anime villain dropped into a classic Disney film, while background characters mix storybook illustration with old New Yorker cartoons."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bHVsNwwbNTX3zmvGcZGM6K.png",
+          "cap": "The umbrella-carrying man and a child holding ice cream, from the animation Antrofrog posted on X. (Image: Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "Accusations of stolen character designs followed. One comment pointed at the boy holding ice cream and asked, \"Isn't that Ben from 'Song of the Sea'?\" The plot also came under fire. The protagonist knocks a kid on a scooter into the street and even ruins a stranger's painting. One X user remarked, \"There's basically no storytelling fundamentals here at all.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/twbekTKEMQPEEkgaNcYNeV.png",
+          "cap": "Two men in suits appear in Antrofrog's AI animation. (Image: Antrofrog via X)"
+        },
+        {
+          "t": "p",
+          "x": "There was also this reaction: \"The tragedy of AI art isn't that it looks ugly — it's that it makes you distrust people.\" Once you start questioning whether a gesture, a pace, or a pause was intentional or just a hallucination from a probability calculation, the immersion breaks. As the tools get more sophisticated and easier to use, more voices are asking what counts as human creativity, and whether prompt-made work belongs on the same stage as human-made work."
+        }
+      ]
+    },
+    "design/design-adobe-chatgpt-editing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1047d7d7a561478527243a678cd2c060c7aa018f9.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "Selecting only part of an image, then refining the result with hue and saturation controls."
+        },
+        {
+          "t": "p",
+          "x": "Adobe has added interactive editing to its Adobe plugin for ChatGPT, timed to OpenAI's DevDay 2026 announcement. Users can now directly touch up images, designs, and PDFs."
+        },
+        {
+          "t": "p",
+          "x": "The approach: select part of an image, hand the edit to ChatGPT, then fine-tune the result with new controls. Moving between the editor and the conversation doesn't break the work's context. The editor appears in a ChatGPT side panel and surfaces only the controls that match the edit you're making. Say you want to change an object's color, and a color control appears that applies only to that selection."
+        },
+        {
+          "t": "p",
+          "x": "Vibhor Chhabra, OpenAI's product lead for the ChatGPT ecosystem, said, \"We want people to go from an idea straight to something they can use or share, while still being able to hold onto the details along the way.\""
+        },
+        {
+          "t": "p",
+          "x": "The image and design editor runs on Photoshop and Adobe Express. Select an object or paint over it with a brush to touch up just that part, then use sliders to adjust hue, saturation, and contrast. If a napkin ends up in a latte photo meant for social media, paint over the napkin with the brush and say, \"remove the napkin from the table.\" Then paint the cup again and ask for brightness and contrast adjustments, and two sliders appear right away."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1493980922a87edd8afc41840096ba07374b50dd7.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "Conversation and direct editing move back and forth inside ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Whatever gets touched up in the editor carries back into the conversation as context. There's no need to re-explain the task or re-upload the file. Switch to conversation when speed matters, and to direct manipulation when precision does."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.adobe.com/en/publish/2026/09/29/media_1552fe260a254737147ca7e0ff777ff412e92312a.png?width=1200&format=pjpg&optimize=medium",
+          "cap": "Acrobat tools let you fix PDF text right inside the document."
+        },
+        {
+          "t": "p",
+          "x": "PDFs are handled by Acrobat tools. Open a document in the side panel, fix text, and highlight passages. Highlight the payment-terms paragraph in a freelance contract and ask it to find more sections about billing and payments, and Acrobat marks those passages in the document."
+        },
+        {
+          "t": "p",
+          "x": "Adobe recently combined its creative and productivity tools into a single plugin across ChatGPT, Claude, and Slack. This update rolls out worldwide starting today on ChatGPT web and app, in stages."
+        }
+      ]
+    },
+    "design/design-claude-sonnet-5-5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic unveiled Claude Sonnet 5.5 on September 28, the second model in the Claude 5.5 lineup. It is a clear step up from Sonnet 5, more than 30% faster, and up to 30% cheaper for most tasks."
+        },
+        {
+          "t": "p",
+          "x": "Sonnet 5.5 is the faster, cheaper model that supports Opus 5.5. While Opus 5.5 handles complex work that needs careful judgment, Sonnet 5.5 is strongest at everyday tasks with clear scope, bug fixes, and producing polished documents, slides, and spreadsheets. Anthropic also describes it as having \"a sharp eye for design.\" Claude Haiku 5.5, built for high-volume, low-cost use, joins the lineup in a few weeks."
+        },
+        {
+          "t": "p",
+          "x": "The performance gap is large. It scored 70.6% on Terminal-Bench 4.0, an agentic coding evaluation, versus 10.3% for Sonnet 5. On GDPval-AA it fell only 2 points short of Opus 5.5, and it's the first Sonnet model to beat Pokémon Red using only screenshots."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is unchanged from Sonnet 5: $2 per million input tokens, $10 per million output tokens, and $0.20 for cache reads. Because it finishes the same work in far fewer tokens, the cost per task has dropped by up to 30%."
+        },
+        {
+          "t": "img",
+          "src": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cf0eae4b26b6fbe29e370d300ecac766cb94bc2d-1600x1000.png",
+          "cap": "Sonnet 5.5's output for the prompt, \"a murmuration of 400 starlings in a single HTML file.\""
+        },
+        {
+          "t": "p",
+          "x": "Early testers singled out its design sense. They say it adds polish to user interfaces and produces slide decks that need almost no touch-up beyond the template. In internal testing, given a public company's quarterly earnings materials, a call transcript, and a slide template, and asked to produce a 10-page operating review, two experts judged the first draft good enough to send as is."
+        },
+        {
+          "t": "p",
+          "x": "Its cybersecurity capability is now close to Opus 5, and it's the first Sonnet model to ship with the same cyber safeguards as the flagship models."
+        }
+      ]
+    },
+    "design/design-de-slopify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*8HZbm_CuQ7CumOwEIQYm4w.png"
+        },
+        {
+          "t": "p",
+          "x": "This is advice for people who vibe code. The author, Maya Brennan, says she has landed on three conclusions amid today's flood of AI slop: people can spot slop, they dislike it, but they don't know how to fix it. Recognizing bad design and fixing it are entirely different skills."
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean every AI output is slop. Most interfaces today are built at least partly through vibe coding, and AI has also produced plenty of expressive design. Slop is output made with no thought, effort, or quality, usually churned out at volume. It skips considered decisions, piles on clutter, and tells every story the same way."
+        },
+        {
+          "t": "p",
+          "x": "The first step is analysis. Instead of stopping at \"it just looks off,\" you need to pin down exactly which elements make something look like slop. The author includes a cheat sheet of \"slop signals\" to watch for in vibe-coded UI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*KcCqIaBkPQUYxDwSsQElOA.png",
+          "cap": "Slop signals that show up in vibe-coded UI."
+        },
+        {
+          "t": "p",
+          "x": "Removing it happens in stages. Level 0 is a one-line prompt. Ask for a Y2K slide deck for trivia night with no reference style, and the slop signals come through fully intact. Asking it to look \"less vibe-coded\" doesn't do much either."
+        },
+        {
+          "t": "p",
+          "x": "Level 1 is cleanup: strip out unnecessary elements and specify color, font, and graphics explicitly. Even just using a Coolors palette, Google Fonts, and Lucide icons makes an interface noticeably more polished, and adding Unsplash photos gives it an analog feel."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*7aVvNcPVCmRKLfWfJDPTdg.png",
+          "cap": "A slide regenerated after specifying a font and palette."
+        },
+        {
+          "t": "p",
+          "x": "Level 2 is setting an aesthetic: attach reference images or describe a style in words. AI is weak with organic, expressive styles and reproduces \"digital\" styles better. The author does draw one line, though — don't feed in someone else's work without permission just to have it copied."
+        },
+        {
+          "t": "p",
+          "x": "Level 3 is real design. For something as large as a website, draw inspiration from Dribbble and Mobbin, sketch wireframes by hand, build the frames yourself in Figma, and then use that design as the standard the AI implementation has to meet."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*YkvrMVytpXb_MUDAoWcbow.png",
+          "cap": "The result of having it faithfully reproduce a Figma file."
+        },
+        {
+          "t": "p",
+          "x": "These stages are meant for one-off designs. For a whole product or brand, you also need to bring in agent workflows and a design system."
+        }
+      ]
+    },
+    "design/design-openai-dots-mascots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/1-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI unveiled a new AI agent product line called \"Dots.\" They look like something straight out of a children's cartoon. Dots was the centerpiece among roughly 20 announcements at the fourth DevDay, held September 29 in San Francisco. Dots are always-on agents running on the latest model, GPT-6 Astra."
+        },
+        {
+          "t": "p",
+          "x": "Dots don't follow OpenAI's signature \"Void\" logo. Instead, each one wears its own cute, soft-edged character — a bow-tied triangle, a rabbit in headphones, a cloud in a beret."
+        },
+        {
+          "t": "p",
+          "x": "Each Dot uses its own cloud computer, learns from feedback, and connects to more than 4,000 apps through a plugin ecosystem. You can ask it questions and give it feedback the way you would a coworker, in ChatGPT, Slack, or Teams, and voice calls work too."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/2-openai-embargo-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Users first name their main Dot and style it to fit how they'll use it. Examples shown included Todd, a chubby, smiling frog; Jojo, a heart wearing sunglasses; and Felipe, a soft blue cloud."
+        },
+        {
+          "t": "p",
+          "x": "Fast Company doesn't see the cuteness as accidental. It comes at a moment when anxiety about AI agents is especially high. Just as Meta rolled out its anthropomorphized Muse agent earlier this month, the analysis suggests OpenAI is also leaning heavily on character design to address trust concerns."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/09/5-openai-embargo-news.jpg"
+        }
+      ]
+    },
+    "design/design-meta-hologram-avatars": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/09/meta-hologram-connect-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta is bringing its long-promised photorealistic avatar within a few months. It's called \"Hologram.\" Road to VR's Scott Hayden tried it in person at Meta Connect."
+        },
+        {
+          "t": "p",
+          "x": "Hologram debuts first in Meta Ray-Ban Display, which has a single transparent display over the right eye. It was previously called \"Codec Avatars.\" It's also coming to the newly announced Meta VR glasses, but that version doesn't launch until spring 2027."
+        },
+        {
+          "t": "p",
+          "x": "Strictly speaking, it's not a 3D lightfield hologram. It's an AI-infused immersive avatar, closer to 2.5D. The creation process also differs from Apple's Persona. Instead of scanning your face with a Vision Pro sensor, you follow a few prompts using the Meta mobile app and the selfie camera — answering what your favorite day is on the spot, reading a short sentence while smiling, and turning your head side to side."
+        },
+        {
+          "t": "p",
+          "x": "The display version moves using voice alone, so AI does a lot of the work. It's rolling out first in the US, in early access limited to WhatsApp video calls. The author's avatar wasn't identical to him, but it could fool someone who didn't know him."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/gYimxV0l/hologram-vr-glasses-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "It's a different story with the VR glasses. Sensors on the bottom of the headset track your eyes and face, and the avatar appears full-body, head to toe. It has a sense of dimension but not real depth, so you can't walk around a room or fist-bump in it. Hand poses, hair, and shirt movement are all generated by AI."
+        },
+        {
+          "t": "p",
+          "x": "So is it better than Apple's Persona? The author says it depends on what you mean by \"better.\" Persona is still a floating head, but it has real 3D depth, and Vision Pro's face tracking is eerily accurate."
+        }
+      ]
+    }
+  }
+}
