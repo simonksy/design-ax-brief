@@ -15,6 +15,15 @@ def mini_card(c):
         d["image"] = c["image"]
     if c.get("full"):            # the translated article, so the opened card can flip to Read
         d["full"] = c["full"]
+    for k in ("source_lang", "i18n_status"):
+        if c.get(k):
+            d[k] = c[k]
+    if c.get("text"):            # every language keeps its own one-line deck headline
+        d["text"] = {}
+        for lang, t in c["text"].items():
+            t = dict(t)
+            t["headline"] = t.pop("mini_headline", None) or (t.get("headline") or "").replace("\n", " ")
+            d["text"][lang] = t
     return d
 
 def roll(data, cards, media):

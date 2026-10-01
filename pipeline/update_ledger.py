@@ -47,6 +47,21 @@ def build_story_ledger(ledger, base, out_path):
             e = src.setdefault(u, {"title": "", "excerpt": ""})
             e["title"] = e["title"] or p.get("title") or p.get("headline") or ""
             e["excerpt"] = e["excerpt"] or (p.get("excerpt") or "")[:600]
+    # Prefer the card's own source-language summary (news_data's `text`) over the
+    # English curator/librarian title above — story_dedup should compare like with like.
+    try:
+        from i18n_text import source_fields
+        news_path = os.path.join(base, "news_data.json")
+        for sec in (json.load(open(news_path, encoding="utf-8")).get("sections") or {}).values():
+            for day in [sec.get("today") or {}] + (sec.get("days") or []):
+                for c in day.get("cards", []):
+                    if c.get("text") and c.get("url"):
+                        f, _ = source_fields(c)
+                        e = src.setdefault(c["url"].strip(), {"title": "", "excerpt": ""})
+                        e["title"] = e["title"] or (f.get("headline") or "").replace("\n", " ")
+                        e["excerpt"] = e["excerpt"] or f.get("body") or ""
+    except (OSError, ValueError):
+        pass
     ko = {}
     try:
         for c in json.load(open(os.path.join(base, "archive.json"), encoding="utf-8"))["cards"]:

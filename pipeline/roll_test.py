@@ -90,4 +90,20 @@ deck_vid = r5["days"][-1]["cards"][0]
 assert "video" not in deck_vid and "webm" not in deck_vid, deck_vid  # deck is still-only
 assert deck_vid["image"] == "pipeline/media/vid.jpg", deck_vid       # still survives on deck
 
+# --- i18n: deck cards keep text/source_lang/i18n_status; per-language deck headline is one line
+d5 = tempfile.mkdtemp()
+prev_card = {"id": "p", "tool": "T", "eyebrow": "AI NEWS", "headline": "한\n줄", "body": "b",
+             "source": "S", "url": "https://p", "accent": "#000", "motif": "frame",
+             "source_lang": "en", "i18n_status": {"ja": "fallback"},
+             "text": {"en": {"headline": "Two\nlines", "mini_headline": "Mini", "body": "eb"},
+                      "ko": {"headline": "한\n줄", "body": "b"}}}
+json.dump(wrap({"date": "2026-06-21", "cards": [prev_card]}, []), open(f"{d5}/news_data.json", "w"), ensure_ascii=False)
+json.dump({"date": "2026-06-22", "cards": [dict(prev_card, id="n", url="https://n")]}, open(f"{d5}/cards.json", "w"), ensure_ascii=False)
+json.dump({"media": []}, open(f"{d5}/media.json", "w"))
+subprocess.run(["python3", os.path.abspath("roll.py"), "--no-story-check", "--data", f"{d5}/news_data.json",
+                "--cards", f"{d5}/cards.json", "--media", f"{d5}/media.json"], check=True)
+deck = g(json.load(open(f"{d5}/news_data.json", encoding="utf-8")))["days"][-1]["cards"][0]
+assert deck["source_lang"] == "en" and deck["i18n_status"] == {"ja": "fallback"}
+assert deck["text"]["en"]["headline"] == "Mini" and deck["text"]["ko"]["headline"] == "한 줄"
+
 print("roll OK")
