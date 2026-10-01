@@ -4,9 +4,9 @@
 
 **Goal:** 카드뉴스 요약·전문과 UI를 en/ko/ja/zh/es 5개 언어로 발행하고, 사이트에서 언어를 골라 읽게 한다.
 
-**Architecture:** 카드는 언어 무관 필드 + `text[lang]` 맵을 갖는다. 작성 단계가 원문 언어로 요약하고, `translate.py`(Claude API)가 나머지 언어로 번역·검증한다. 빌드는 언어마다 기존과 같은 모양의 평탄화된 산출물(`axbrief-data.{lang}.js` 등)을 내므로 앱은 데이터 모양을 바꾸지 않고 로드할 파일과 UI 사전만 바꾼다. Worker가 `/{lang}/*` 경로를 같은 HTML로 서빙하며 언어를 주입한다.
+**Architecture:** 카드는 언어 무관 필드 + `text[lang]` 맵을 갖는다. 작성 단계가 원문 언어로 요약하고, Claude Code 서브에이전트(`ax-translator`)가 나머지 언어로 번역하며 `translate.py`가 작업 파일을 만들고 결과를 검증·반영한다(API 호출·API 키 없음). 빌드는 언어마다 기존과 같은 모양의 평탄화된 산출물(`axbrief-data.{lang}.js` 등)을 내므로 앱은 데이터 모양을 바꾸지 않고 로드할 파일과 UI 사전만 바꾼다. Worker가 `/{lang}/*` 경로를 같은 HTML로 서빙하며 언어를 주입한다.
 
-**Tech Stack:** Python 3 표준 라이브러리(파이프라인, 테스트는 assert 스크립트), Claude Messages API + Message Batches API(urllib), Cloudflare Workers + HTMLRewriter, vitest(`@cloudflare/vitest-pool-workers`), React 18 UMD + Babel standalone(앱).
+**Tech Stack:** Python 3 표준 라이브러리(파이프라인, 테스트는 assert 스크립트), Claude Code 서브에이전트(번역, API 크레딧 미사용), Cloudflare Workers + HTMLRewriter, vitest(`@cloudflare/vitest-pool-workers`), React 18 UMD + Babel standalone(앱).
 
 **Spec:** `docs/superpowers/specs/2026-10-01-multilingual-design.md`
 
@@ -16,7 +16,7 @@
 - 폴백 순서(카드 텍스트): 요청 언어 → `source_lang`(풀 안일 때) → `en` → 최상위 필드(`ko`).
 - 길이 한도: ko/ja/zh 헤드라인 줄당 ≤ 14자, 본문 28–46자 한 문장 / en/es 헤드라인 줄당 ≤ 32자, 본문 70–120자 한 문장 (en/es 값은 Task 12에서 렌더로 확정). 헤드라인은 `\n` 정확히 1개.
 - 사실·수치·날짜·인용·고유명사 불변. 이미지·영상 블록은 `cap` 외 불변.
-- 번역 모델 `claude-sonnet-5`, `anthropic-version: 2023-06-01`. 재시도 최대 2회. 병렬 호출 ≤ 8.
+- 번역은 Claude Code 서브에이전트 `ax-translator`가 한다 — API 호출·API 키 없음. 작업(카드×언어)당 최대 3회 시도(최초 + 재시도 2), 실패는 `i18n_status[lang] = "fallback"`. 같은 대상 파일에 대한 `apply`는 순차 실행(병렬 금지).
 - 기존 공유 링크 `/s/{section}/{id}`와 `axbrief-data.js`·`premium/full.json`은 유지(ko).
 - 쿠키: 언어 `ax_lang`(1년), 비공개 플래그 `ax_i18n=1`. 공개 스위치는 Worker env `I18N_PUBLIC="1"`.
 - 파이썬 테스트는 `pipeline/*_test.py`(assert 스크립트, `cd pipeline && python3 X_test.py`), Worker 테스트는 `npm test`.
@@ -28,7 +28,7 @@
 2. **`zh-TW`/`zh-HK`·`es-419`·`pt-BR` 같은 브라우저 언어** — zh-*는 zh, es-*는 es, 풀 밖은 en으로 가야 한다. → Task 7 테스트.
 3. **`text`가 없는 옛 카드와 일부 언어만 있는 카드가 섞인 덱** — 빌드·롤·아카이브가 깨지지 않고 해당 칸만 `untranslated` 표시. → Task 1·4·5·6 테스트.
 4. **`/en/` 아래 상대 경로 자산** (`_ds/...`, `axbrief-app.jsx`) — `<base href="/">` 주입으로 루트 기준 로드돼야 한다. → Task 7 테스트.
-5. **Claude가 JSON을 코드펜스로 감싸거나 앞뒤에 말을 붙여 응답** — 파서가 견디고, 진짜 깨진 응답은 재시도로 간다. → Task 3 테스트.
+5. **번역 에이전트가 답을 코드펜스·문자열로 쓰거나 일부 job을 빠뜨림** — `apply`가 견디고, 빠지거나 깨진 답은 재시도 작업으로 간다. → Task 3 테스트.
 
 ---
 
@@ -38,7 +38,8 @@
 |---|---|
 | `pipeline/i18n_text.py` (신규) | 언어 풀, 카드 텍스트 해석·폴백, 언어별 평탄화 |
 | `pipeline/translate_check.py` (신규) | 번역 검증기(숫자·브랜드 토큰·블록 구조·길이) |
-| `pipeline/translate.py` (신규) | Claude 호출, 카드/뉴스 데이터/UI 사전 번역 CLI, 배치 백필 |
+| `pipeline/translate.py` (신규) | 번역 작업 파일 생성(jobs)·답 검증 반영(apply)·재검증(check) — 카드/뉴스/UI/아카이브 대상 |
+| `.claude/agents/ax-translator.md` (신규) | 작업 파일을 읽고 답 파일을 쓰는 번역 서브에이전트 |
 | `pipeline/roll.py` (수정) | 덱 이동 시 `text`/`source_lang`/`i18n_status` 보존 |
 | `pipeline/update_ledger.py` (수정) | 스토리 원장이 원문 언어 요약을 우선 사용 |
 | `pipeline/build_data.py` (수정) | 언어별 데이터 JS·프리미엄 분할·언어별 공유 페이지 |
@@ -346,22 +347,32 @@ git commit -m "feat(i18n): 번역 검증기 — 숫자 값·브랜드 토큰·�
 
 ---
 
-### Task 3: 번역기 코어 (`translate.py` — 카드 번역)
+### Task 3: 번역 작업 파일·판정 (`translate.py jobs/apply`) + 번역 에이전트
+
+번역은 API 호출 없이 Claude Code 서브에이전트(`ax-translator`)가 한다. 이 스크립트는 **작업 파일을 만들고(jobs)**, 에이전트가 쓴 **답 파일을 검증해 반영(apply)**할 뿐이다.
 
 **Files:**
 - Create: `pipeline/translate.py`
+- Create: `.claude/agents/ax-translator.md`
 - Test: `pipeline/translate_test.py`
 
 **Interfaces:**
-- Consumes: `i18n_text.LANGS`, `i18n_text.source_fields`, `translate_check.check`
+- Consumes: `i18n_text.LANGS`, `i18n_text.TEXT_FIELDS`, `i18n_text.source_fields`, `translate_check.LIMITS`, `translate_check.check`
 - Produces:
-  - `MODEL = "claude-sonnet-5"`
-  - `call_claude(prompt: str, *, api_key: str, model: str = MODEL, max_tokens: int = 4000) -> str`
-  - `build_prompt(src: dict, src_lang: str, lang: str, errors: list[str] | None = None) -> str`
-  - `parse_reply(text: str) -> dict` — 코드펜스·앞뒤 잡문 제거 후 첫 JSON 객체. 실패 시 `ValueError`
-  - `translate_fields(src: dict, src_lang: str, lang: str, call) -> tuple[dict | None, list[str]]` — `call(prompt) -> str`. 최대 3번 시도(최초 + 재시도 2), 마지막 오류 반환
-  - `translate_card(card: dict, call, langs=LANGS) -> dict` — 새 dict. `text` 채움, 실패 언어는 `i18n_status[lang] = "fallback"`, 최상위 텍스트 필드 = `text["ko"]`(있으면)
-  - CLI `python3 translate.py --cards FILE` — 파일 안 모든 카드를 번역해 제자리 저장, 언어별 결과 요약 출력. 키는 `ANTHROPIC_API_KEY`. 키 없으면 종료코드 3 + "no API key" 메시지(파일 불변)
+  - `MAX_ATTEMPTS = 3` (최초 + 재시도 2)
+  - `NAMES: dict[str, str]` (언어 코드 → 영어 언어명), `STYLE: dict[str, str]`
+  - `build_prompt(src: dict, src_lang: str, lang: str, errors: list[str] | None = None) -> str` — 에이전트가 그대로 따를 완결된 지시문(입력 JSON 포함). 재시도면 `"Your previous answer failed these checks — fix them: …"` 줄 포함
+  - `parse_reply(reply: str | dict) -> dict` — dict면 그대로, 문자열이면 코드펜스·앞뒤 잡문 제거 후 첫 JSON 객체. 실패 시 `ValueError`
+  - `ensure_source(card: dict) -> tuple[dict, str]` — **카드를 수정**: 원문 언어 요약을 `text[src_lang]`(풀 안) 또는 `text["_src"]`(풀 밖, `lang` 키 포함)에 넣고 `(src, src_lang)` 반환
+  - `make_job(key, src, src_lang, lang, attempt=1, errors=None) -> dict` — `{"job_id": f"{key}|{lang}", "key", "src_lang", "lang", "attempt", "src", "prompt"}`
+  - `card_jobs(card: dict, key: str, langs=LANGS) -> list[dict]` — 카드를 수정하지 않음. `text`에 없고 `i18n_status[lang] != "fallback"`인 언어만
+  - `judge(job: dict, reply) -> tuple[dict | None, list[str]]` — `None` 답 = `["no answer"]`
+  - `apply_to_card(card: dict, jobs: list[dict], answers: dict) -> list[dict]` — 카드를 수정, 재시도 job 목록 반환. 성공 → `text[lang]`; 실패 & `attempt < MAX_ATTEMPTS` → `make_job(..., attempt+1, errs)`; 실패 & 마지막 → `i18n_status[lang] = "fallback"`. 끝에 최상위 텍스트 필드 = `text["ko"]`(있으면)
+  - `TARGETS: dict[str, callable]` — `kind` → `(doc, **kw) -> dict[key, card]` (수정 가능한 참조). 이 태스크는 `"cards"`(key = 카드 `id`)만. Task 12가 `"news"`, Task 14가 `"archive"`를 추가
+  - 작업 파일 형식: `{"kind": "cards", "target": "<abs path>", "jobs": [job, …]}` / 답 파일: `{"<job_id>": {번역 객체} | "<문자열>"}`
+  - CLI (`argparse` 서브커맨드):
+    - `python3 translate.py jobs --cards FILE --out JOBS` → 작업 수 출력, 종료코드 0
+    - `python3 translate.py apply --jobs JOBS --answers ANSWERS [--retry-out PATH]` → 대상 파일을 제자리 갱신. 모두 해결 = 종료코드 0 (`all jobs resolved`), 재시도 남음 = 종료코드 10 + `JOBS`의 `.json`을 `.retry.json`으로 바꾼 경로(이미 `.retry.json`이면 덮어씀)에 재시도 작업 파일
 
 - [ ] **Step 1: Write the failing test**
 
@@ -377,7 +388,8 @@ KO = {"headline": "FTC, OpenAI\n안전성 조사 착수",
       "body": "FTC는 OpenAI 제품의 20억 달러 규모 안전 위험을 조사 중이라고 확인했다.",
       "full": {"mode": "summary", "blocks": [{"t": "p", "x": "FTC는 민사 조사 요구서를 보냈다."}]}}
 
-# parse_reply: fenced / chatty replies
+# parse_reply: dict, fenced and chatty replies
+assert tr.parse_reply(KO) == KO
 assert tr.parse_reply("```json\n" + json.dumps(KO, ensure_ascii=False) + "\n```") == KO
 assert tr.parse_reply("Here you go:\n" + json.dumps(KO, ensure_ascii=False) + "\nDone.") == KO
 try:
@@ -386,39 +398,46 @@ except ValueError:
     pass
 
 p = tr.build_prompt(SRC, "en", "ko", ["body length 10 not in 28-46"])
-assert "Korean" in p and "body length 10" in p and "OpenAI" in p
+assert "Korean" in p and "body length 10" in p and "OpenAI" in p and "previous answer failed" in p
 
-# translate_fields retries with the checker's errors, then gives up
-calls = []
-def flaky(prompt):
-    calls.append(prompt)
-    return "garbage" if len(calls) == 1 else json.dumps(KO, ensure_ascii=False)
-out, errs = tr.translate_fields(SRC, "en", "ko", flaky)
-assert out == KO and errs == [] and len(calls) == 2
-calls.clear()
-out, errs = tr.translate_fields(SRC, "en", "ko", lambda p: (calls.append(p), "garbage")[1])
-assert out is None and errs and len(calls) == 3
-
-# translate_card: source language kept verbatim, failed language marked fallback
+# card_jobs: one job per missing language, input untouched
 card = dict(SRC, id="ftc", url="https://x", source_lang="en")
-def fake(prompt):
-    if "Japanese" in prompt:
-        return "garbage"
-    return json.dumps(KO, ensure_ascii=False)   # 다른 언어도 KO로 응답 → ko만 길이 통과
-res = tr.translate_card(card, fake, langs=["en", "ko", "ja"])
-assert res["text"]["en"]["headline"] == SRC["headline"]
-assert res["text"]["ko"] == KO and "ja" not in res["text"]
-assert res["i18n_status"] == {"ja": "fallback"}
-assert res["headline"] == KO["headline"] and res["body"] == KO["body"]   # 최상위 = ko
-assert card.get("text") is None                                            # 입력 불변
+jobs = tr.card_jobs(card, "ftc")
+assert [j["lang"] for j in jobs] == ["ko", "ja", "zh", "es"] and all(j["attempt"] == 1 for j in jobs)
+assert jobs[1]["job_id"] == "ftc|ja" and "Japanese" in jobs[1]["prompt"]
+assert card.get("text") is None
 
-# CLI without a key: exit 3, file untouched
-d = tempfile.mkdtemp(); f = os.path.join(d, "cards_x.json")
+# apply_to_card: pass / garbage / missing / fails checks -> retries with errors, then fallback
+c = json.loads(json.dumps(card))
+answers = {"ftc|ko": KO, "ftc|ja": "garbage", "ftc|es": json.dumps(KO, ensure_ascii=False)}
+retry = tr.apply_to_card(c, jobs, answers)
+assert c["text"]["en"]["headline"] == SRC["headline"] and c["text"]["ko"] == KO
+assert sorted(j["lang"] for j in retry) == ["es", "ja", "zh"] and all(j["attempt"] == 2 for j in retry)
+assert "previous answer failed" in next(j for j in retry if j["lang"] == "es")["prompt"]
+assert c["headline"] == KO["headline"] and c["body"] == KO["body"] and "i18n_status" not in c
+assert tr.apply_to_card(c, [dict(j, attempt=3) for j in retry], {}) == []
+assert c["i18n_status"] == {"ja": "fallback", "zh": "fallback", "es": "fallback"}
+assert tr.card_jobs(c, "ftc") == []          # done + fallback languages are not re-queued
+
+# out-of-pool source language goes to text["_src"], never to a visible language
+de = {"id": "de", "source_lang": "de", "headline": "Dt\nKopf", "body": "Dt"}
+src, sl = tr.ensure_source(de)
+assert sl == "de" and de["text"]["_src"]["lang"] == "de" and "de" not in de["text"]
+
+# CLI round trip
+d = tempfile.mkdtemp()
+f, j, a = (os.path.join(d, n) for n in ("cards_x.json", "jobs_x.json", "answers_x.json"))
 json.dump({"date": "2026-10-02", "cards": [card]}, open(f, "w"))
-env = {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"}
-r = subprocess.run(["python3", "translate.py", "--cards", f], capture_output=True, text=True, env=env)
-assert r.returncode == 3 and "no API key" in (r.stdout + r.stderr)
-assert json.load(open(f))["cards"][0].get("text") is None
+run = lambda *args: subprocess.run(["python3", "translate.py", *args], capture_output=True, text=True)
+r = run("jobs", "--cards", f, "--out", j)
+assert r.returncode == 0, r.stderr
+assert len(json.load(open(j))["jobs"]) == 4 and json.load(open(j))["kind"] == "cards"
+json.dump({"ftc|ko": KO}, open(a, "w"), ensure_ascii=False)
+r = run("apply", "--jobs", j, "--answers", a)
+assert r.returncode == 10, r.stdout + r.stderr
+saved = json.load(open(f))["cards"][0]
+assert saved["text"]["ko"] == KO and saved["body"] == KO["body"]
+assert len(json.load(open(os.path.join(d, "jobs_x.retry.json")))["jobs"]) == 3
 print("translate OK")
 ```
 
@@ -431,29 +450,30 @@ Expected: FAIL — `ModuleNotFoundError: No module named 'translate'`
 
 ```python
 # pipeline/translate.py
-"""Translate card copy from the original-language summary into the site languages.
+"""Translate card copy from the original-language summary into the site languages —
+with no API calls. Claude Code subagents (.claude/agents/ax-translator.md) do the
+translating inside the normal pipeline run; this script prepares the work and judges it:
 
-    python3 translate.py --cards cards_<section>.json      # new cards, in place
-(later tasks add --check, --news, --ui, --batch)
-
-Needs ANTHROPIC_API_KEY. Each card x language is one call; the reply is checked by
-translate_check.check() and retried (max 2) with the errors fed back. A language
-that still fails is left out of `text` and recorded in `i18n_status` — the build
-then serves the fallback language with an "untranslated" label."""
+    python3 translate.py jobs  --cards cards_<S>.json --out jobs_<S>.json
+    (ax-translator: reads jobs_<S>.json, writes answers_<S>.json)
+    python3 translate.py apply --jobs jobs_<S>.json --answers answers_<S>.json
+        exit 0  = every job resolved (translated, or recorded as fallback)
+        exit 10 = some answers failed translate_check -> jobs_<S>.retry.json (errors fed
+                  back into each prompt); run ax-translator on it and apply again.
+A job gets MAX_ATTEMPTS tries; a language that still fails is recorded in
+`i18n_status` and the build serves the fallback language with an "untranslated" label."""
 import argparse
 import json
 import os
 import re
 import sys
-import urllib.request
-from concurrent.futures import ThreadPoolExecutor
 
 from i18n_text import LANGS, TEXT_FIELDS, source_fields
 from translate_check import LIMITS, check
 
-MODEL = "claude-sonnet-5"
-NAMES = {"en": "English", "ko": "Korean", "ja": "Japanese",
-         "zh": "Simplified Chinese", "es": "Spanish", "de": "German", "fr": "French"}
+MAX_ATTEMPTS = 3
+NAMES = {"en": "English", "ko": "Korean", "ja": "Japanese", "zh": "Simplified Chinese",
+         "es": "Spanish", "de": "German", "fr": "French"}
 STYLE = {
     "ko": "Calm Korean editorial voice. No 번역투, no stacked passives, end sentences with 다.",
     "ja": "Calm Japanese editorial voice (だ・である調). Avoid literal translationese.",
@@ -461,18 +481,6 @@ STYLE = {
     "en": "Calm, plain English editorial voice. No hype words.",
     "es": "Calm, neutral Spanish editorial voice (no regionalisms). No hype words.",
 }
-
-
-def call_claude(prompt, *, api_key, model=MODEL, max_tokens=4000):
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=json.dumps({"model": model, "max_tokens": max_tokens,
-                         "messages": [{"role": "user", "content": prompt}]}).encode(),
-        headers={"content-type": "application/json", "x-api-key": api_key,
-                 "anthropic-version": "2023-06-01"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        data = json.load(r)
-    return "".join(c.get("text", "") for c in data.get("content", []))
 
 
 def build_prompt(src, src_lang, lang, errors=None):
@@ -487,15 +495,17 @@ def build_prompt(src, src_lang, lang, errors=None):
         "full.blocks: same blocks in the same order; translate only `x` and `cap`; "
         "copy every other key (src, yt, t) unchanged.",
         STYLE[lang],
-        "Reply with ONLY the JSON object, same keys as the input.",
+        "Answer with ONLY the JSON object, same keys as the input.",
     ]
     if errors:
         rules.append("Your previous answer failed these checks — fix them: " + "; ".join(errors))
     return "\n".join("- " + r for r in rules) + "\n\nINPUT:\n" + json.dumps(src, ensure_ascii=False)
 
 
-def parse_reply(text):
-    t = re.sub(r"^```(?:json)?\s*|\s*```$", "", (text or "").strip(), flags=re.M)
+def parse_reply(reply):
+    if isinstance(reply, dict):
+        return reply
+    t = re.sub(r"^```(?:json)?\s*|\s*```$", "", (reply or "").strip(), flags=re.M)
     start = t.find("{")
     if start < 0:
         raise ValueError("no JSON object in reply")
@@ -505,81 +515,132 @@ def parse_reply(text):
     return obj
 
 
-def translate_fields(src, src_lang, lang, call):
-    errors = None
-    for _ in range(3):
-        try:
-            out = parse_reply(call(build_prompt(src, src_lang, lang, errors)))
-        except (ValueError, OSError) as e:
-            errors = [f"invalid reply: {e}"]
-            continue
-        out = {k: v for k, v in out.items() if k in TEXT_FIELDS}
-        errors = check(src, out, lang)
-        if not errors:
-            return out, []
-    return None, errors
-
-
-def translate_card(card, call, langs=LANGS):
-    card = json.loads(json.dumps(card))          # deep copy — never mutate the input
+def ensure_source(card):
     src, src_lang = source_fields(card)
     src = {k: v for k, v in src.items() if k in TEXT_FIELDS}
-    text = dict(card.get("text") or {})
+    text = card.setdefault("text", {})
     if src_lang in LANGS:
-        text[src_lang] = src
+        text.setdefault(src_lang, src)
     else:
-        text["_src"] = dict(src, lang=src_lang)
+        text.setdefault("_src", dict(src, lang=src_lang))
+    return src, src_lang
+
+
+def make_job(key, src, src_lang, lang, attempt=1, errors=None):
+    return {"job_id": f"{key}|{lang}", "key": key, "src_lang": src_lang, "lang": lang,
+            "attempt": attempt, "src": src, "prompt": build_prompt(src, src_lang, lang, errors)}
+
+
+def card_jobs(card, key, langs=LANGS):
+    c = json.loads(json.dumps(card))
+    src, src_lang = ensure_source(c)
+    status = c.get("i18n_status") or {}
+    return [make_job(key, src, src_lang, l) for l in langs
+            if l not in c["text"] and status.get(l) != "fallback"]
+
+
+def judge(job, reply):
+    if reply is None:
+        return None, ["no answer"]
+    try:
+        out = parse_reply(reply)
+    except ValueError as e:
+        return None, [f"invalid reply: {e}"]
+    out = {k: v for k, v in out.items() if k in TEXT_FIELDS}
+    errs = check(job["src"], out, job["lang"])
+    return (None, errs) if errs else (out, [])
+
+
+def apply_to_card(card, jobs, answers):
+    ensure_source(card)
     status = dict(card.get("i18n_status") or {})
-    todo = [l for l in langs if l not in text]
-
-    def one(lang):
-        return lang, translate_fields(src, src_lang, lang, call)
-
-    with ThreadPoolExecutor(max_workers=min(8, max(1, len(todo)))) as ex:
-        for lang, (out, errs) in ex.map(one, todo):
-            if out:
-                text[lang] = out
-                status.pop(lang, None)
-            else:
-                status[lang] = "fallback"
-                print(f"  [{card.get('id')}] {lang} fallback: {'; '.join(errs)}", file=sys.stderr)
-    card["text"] = text
+    retry = []
+    for job in jobs:
+        out, errs = judge(job, answers.get(job["job_id"]))
+        if out:
+            card["text"][job["lang"]] = out
+            status.pop(job["lang"], None)
+        elif job["attempt"] < MAX_ATTEMPTS:
+            retry.append(make_job(job["key"], job["src"], job["src_lang"], job["lang"],
+                                  job["attempt"] + 1, errs))
+        else:
+            status[job["lang"]] = "fallback"
+            print(f"  [{job['key']}] {job['lang']} fallback: {'; '.join(errs)}", file=sys.stderr)
     if status:
         card["i18n_status"] = status
     else:
         card.pop("i18n_status", None)
-    if text.get("ko"):
-        card.update({k: v for k, v in text["ko"].items() if k in TEXT_FIELDS})
-    return card
+    if card["text"].get("ko"):
+        card.update({k: v for k, v in card["text"]["ko"].items() if k in TEXT_FIELDS})
+    return retry
 
 
-def _caller():
-    key = os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        print("translate: no API key (ANTHROPIC_API_KEY) — skipped, file unchanged", file=sys.stderr)
-        sys.exit(3)
-    return lambda prompt: call_claude(prompt, api_key=key)
+def _cards_index(doc, **_):
+    return {c.get("id"): c for c in doc.get("cards", [])}
 
 
-def cmd_cards(path, call):
-    doc = json.load(open(path, encoding="utf-8"))
-    doc["cards"] = [translate_card(c, call) for c in doc.get("cards", [])]
-    json.dump(doc, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    for c in doc["cards"]:
-        got = [l for l in LANGS if l in c["text"]]
-        print(f"{c.get('id')}: {','.join(got)}" + (f"  fallback={list(c['i18n_status'])}"
-                                                    if c.get("i18n_status") else ""))
+TARGETS = {"cards": _cards_index}
+
+
+def _load(path, default=None):
+    if default is not None and not os.path.exists(path):
+        return default
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _save(path, obj):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+
+
+def cmd_jobs(kind, path, out, **kw):
+    doc = _load(path)
+    jobs = [j for key, c in TARGETS[kind](doc, **kw).items() for j in card_jobs(c, key)]
+    _save(out, {"kind": kind, "target": os.path.abspath(path), "jobs": jobs})
+    print(f"{len(jobs)} job(s) -> {out}")
+    return 0
+
+
+def cmd_apply(jobs_path, answers_path, retry_out=None):
+    jf = _load(jobs_path)
+    answers = _load(answers_path, default={})
+    doc = _load(jf["target"])
+    index = TARGETS[jf["kind"]](doc)
+    by_key = {}
+    for job in jf["jobs"]:
+        by_key.setdefault(job["key"], []).append(job)
+    retry = []
+    for key, jobs in by_key.items():
+        card = index.get(key)
+        if card is None:
+            print(f"  [{key}] not found in {jf['target']} — skipped", file=sys.stderr)
+            continue
+        retry += apply_to_card(card, jobs, answers)
+    _save(jf["target"], doc)
+    if retry:
+        rp = retry_out or re.sub(r"(\.retry)?\.json$", ".retry.json", jobs_path)
+        _save(rp, {"kind": jf["kind"], "target": jf["target"], "jobs": retry})
+        print(f"{len(retry)} job(s) need another pass -> {rp}")
+        return 10
+    print("all jobs resolved")
+    return 0
 
 
 def main(argv):
     ap = argparse.ArgumentParser()
-    ap.add_argument("--cards")
-    a = ap.parse_args(argv)
-    if a.cards:
-        cmd_cards(a.cards, _caller())
-        return 0
-    ap.print_help()
-    return 2
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    j = sub.add_parser("jobs")
+    j.add_argument("--cards", required=True)
+    j.add_argument("--out", required=True)
+    a = sub.add_parser("apply")
+    a.add_argument("--jobs", required=True)
+    a.add_argument("--answers", required=True)
+    a.add_argument("--retry-out")
+    args = ap.parse_args(argv)
+    if args.cmd == "jobs":
+        return cmd_jobs("cards", args.cards, args.out)
+    return cmd_apply(args.jobs, args.answers, args.retry_out)
 
 
 if __name__ == "__main__":
@@ -588,20 +649,48 @@ if __name__ == "__main__":
 
 - [ ] **Step 4: Run test to verify it passes**
 
-Run: `cd pipeline && python3 translate_test.py`
-Expected: `translate OK` (stderr에 `ja fallback` 줄이 보이는 것이 정상)
+Run: `cd pipeline && python3 translate_test.py && for t in *_test.py; do python3 $t >/dev/null || echo FAIL $t; done`
+Expected: `translate OK` (stderr에 `fallback` 3줄이 보이는 것이 정상), FAIL 줄 없음
 
-- [ ] **Step 5: Live smoke test (API 키가 있을 때만)**
+- [ ] **Step 5: 번역 에이전트 정의** — `.claude/agents/ax-translator.md` 생성:
 
-Run: `cd pipeline && cp runs/2026-10-01/politics/cards_politics.json /tmp/ax_smoke.json && python3 -c "import json;d=json.load(open('/tmp/ax_smoke.json'));d['cards']=d['cards'][:1];json.dump(d,open('/tmp/ax_smoke.json','w'),ensure_ascii=False)" && python3 translate.py --cards /tmp/ax_smoke.json`
-Expected: `politics-…: en,ko,ja,zh,es` 한 줄. fallback이 나오면 stderr의 검증 오류를 보고 Task 2 한도/정규식이 과한지 판단해 기록만 남긴다(Task 12에서 한도 확정).
+```markdown
+---
+name: ax-translator
+description: Translate Design AX Brief card copy or UI strings listed in a jobs file into their target languages, writing one answers file. Needs no web access.
+tools: Read, Write
+---
+
+You are the translator (번역가) agent for the Design AX Brief.
+
+Your prompt gives you two paths: a JOBS file (input) and an ANSWERS file (output).
+
+1. Read the JOBS file. It is JSON: {"kind": …, "target": …, "jobs": [ … ]}.
+2. For EVERY job in `jobs`: its `prompt` field is the complete instruction for that job,
+   including the input JSON at the end. Produce exactly the JSON object it asks for.
+3. Write the ANSWERS file once, as ONE JSON object mapping each `job_id` to your answer
+   object: {"<job_id>": { … }, "<job_id>": { … }}. Values are JSON objects (not strings).
+   Nothing else in the file — no comments, no markdown.
+
+Rules that hold for every job (they are also in each prompt):
+- Facts, numbers, dates, quotes and proper nouns stay exactly as in the input; add nothing.
+- Brand and product names keep their original Latin spelling (OpenAI, GPT-6, FTC).
+- Same keys as the input. In `full.blocks`, keep every block in the same order and
+  translate only `x` and `cap`; copy `t`, `src`, `yt` unchanged.
+- Length and line rules in the prompt are hard limits — count the characters of each
+  headline line and of the body before you write them.
+- If a prompt says "Your previous answer failed these checks", fix exactly those problems.
+- Never skip a job. If one is hard, still write your best attempt — the checker decides.
+```
 
 - [ ] **Step 6: Commit**
 
 ```bash
-git add pipeline/translate.py pipeline/translate_test.py
-git commit -m "feat(i18n): translate.py — 카드 번역·검증·재시도·폴백 기록"
+git add pipeline/translate.py pipeline/translate_test.py .claude/agents/ax-translator.md
+git commit -m "feat(i18n): translate.py jobs/apply — 번역 작업 파일·판정·재시도·폴백 + ax-translator 에이전트"
 ```
+
+- [ ] **Step 7 (컨트롤러 전용 — 구현자는 건너뜀): 실제 에이전트 스모크** — 컨트롤러가 오늘자 카드 1장으로 `translate.py jobs` → `ax-translator` 디스패치 → `translate.py apply`를 돌려 통과율과 실패 유형을 원장에 기록한다(한도 조정 근거, Task 12 Step 6에서 사용).
 
 ---
 
@@ -1406,73 +1495,95 @@ git commit -m "refactor(i18n): UI 한국어 문구를 i18n/ko.json 사전으로 
 **Interfaces:**
 - Consumes: `window.t`, `window.axSetLang`, `window.AX_I18N_ON`, 카드의 `untranslated`·`lang` (Task 5 평탄화 결과), `/api/premium/full` 응답의 `lang`
 - Produces:
-  - `translate.py --ui` — `i18n/ko.json`의 키 중 각 언어 파일에 없는 것만 번역해 `i18n/{lang}.json`에 병합(기존 번역 보존), 그 뒤 `build_i18n.py` 실행. 보간 토큰 `{name}` 보존을 검증(빠지면 재시도).
+  - `ui_jobs(root, langs=None) -> list[dict]` — 언어마다 `i18n/ko.json` 키 중 그 언어 파일에 없는 것만 담은 job 1개(`job_id` = `ui|{lang}`)
+  - `apply_ui(root, jobs, answers) -> list[dict]` — 키 누락·보간 토큰(`{name}`) 손실이면 재시도 job, 통과분은 `i18n/{lang}.json`에 병합(기존 번역 보존)
+  - CLI: `translate.py jobs --ui [--root R] --out J` (kind `"ui"`), `apply`가 kind `"ui"`를 처리하고 성공 시 `build_i18n.py` 실행
   - 새 사전 키: `lang.menu`(“Language”), `card.untranslated`(“번역 준비 중”)
 
 - [ ] **Step 1: Write the failing test** — `pipeline/translate_test.py`의 `print("translate OK")` 위에:
 
 ```python
-# --ui: only missing keys are translated, {placeholders} must survive
+# UI dictionary jobs: only missing keys are sent, {placeholders} must survive, existing kept
 d2 = tempfile.mkdtemp(); os.makedirs(f"{d2}/i18n")
 json.dump({"a.x": "구독하기", "a.y": "{date} 소식 보는 중"}, open(f"{d2}/i18n/ko.json", "w"), ensure_ascii=False)
 json.dump({"a.x": "Subscribe (kept)"}, open(f"{d2}/i18n/en.json", "w"))
-seen = []
-def ui_fake(prompt):
-    seen.append(prompt)
-    if "Japanese" in prompt and len([p for p in seen if "Japanese" in p]) == 1:
-        return json.dumps({"a.x": "購読", "a.y": "ニュースを表示中"}, ensure_ascii=False)  # {date} 누락 → 재시도
-    if "Japanese" in prompt:
-        return json.dumps({"a.x": "購読", "a.y": "{date}のニュースを表示中"}, ensure_ascii=False)
-    return json.dumps({"a.y": "Viewing {date}", "a.x": "X"}, ensure_ascii=False)
-tr.translate_ui(d2, ui_fake, langs=["en", "ja"])
-en = json.load(open(f"{d2}/i18n/en.json")); ja = json.load(open(f"{d2}/i18n/ja.json"))
-assert en == {"a.x": "Subscribe (kept)", "a.y": "Viewing {date}"}
-assert ja["a.y"] == "{date}のニュースを表示中"
-assert not any('"a.x"' in p for p in seen if "English" in p)      # 이미 있는 키는 안 보냄
+uj = tr.ui_jobs(d2, langs=["en", "ja"])
+assert [(x["job_id"], sorted(x["src"])) for x in uj] == [("ui|en", ["a.y"]), ("ui|ja", ["a.x", "a.y"])]
+assert "Japanese" in uj[1]["prompt"] and "{placeholder}" in uj[1]["prompt"]
+retry = tr.apply_ui(d2, uj, {"ui|en": {"a.y": "Viewing {date}"},
+                             "ui|ja": {"a.x": "購読", "a.y": "ニュースを表示中"}})   # {date} lost
+assert json.load(open(f"{d2}/i18n/en.json")) == {"a.x": "Subscribe (kept)", "a.y": "Viewing {date}"}
+assert [x["job_id"] for x in retry] == ["ui|ja"] and "placeholder" in retry[0]["prompt"]
+assert not os.path.exists(f"{d2}/i18n/ja.json")
+assert tr.apply_ui(d2, retry, {"ui|ja": {"a.x": "購読", "a.y": "{date}のニュースを表示中"}}) == []
+assert json.load(open(f"{d2}/i18n/ja.json"))["a.y"] == "{date}のニュースを表示中"
+r = run("jobs", "--ui", "--root", d2, "--out", os.path.join(d2, "jobs_ui.json"))
+assert r.returncode == 0 and json.load(open(os.path.join(d2, "jobs_ui.json")))["kind"] == "ui"
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
 
 Run: `cd pipeline && python3 translate_test.py`
-Expected: FAIL — `AttributeError: module 'translate' has no attribute 'translate_ui'`
+Expected: FAIL — `AttributeError: module 'translate' has no attribute 'ui_jobs'`
 
-- [ ] **Step 3: Implement `translate_ui`** — `pipeline/translate.py`에 추가하고 `main`에 `--ui` 연결:
+- [ ] **Step 3: Implement UI jobs** — `pipeline/translate.py`에 추가:
 
 ```python
-def translate_ui(root, call, langs=None):
-    """Translate i18n/ko.json keys missing from each i18n/<lang>.json; keep existing ones."""
+UI_RULES = ("- Translate these UI strings of a calm news-briefing website from Korean into {lang}. "
+            "Short, natural UI wording.\n- Keep every {{placeholder}} token (like {{date}}) exactly.\n"
+            "- Answer with ONLY a JSON object with exactly the same keys.\n")
+
+
+def _ui_job(lang, todo, attempt=1, errors=None):
+    prompt = UI_RULES.format(lang=NAMES[lang])
+    if errors:
+        prompt += "- Your previous answer failed these checks — fix them: " + "; ".join(errors) + "\n"
+    return {"job_id": f"ui|{lang}", "key": "ui", "lang": lang, "attempt": attempt, "src": todo,
+            "prompt": prompt + "\nINPUT:\n" + json.dumps(todo, ensure_ascii=False)}
+
+
+def ui_jobs(root, langs=None):
     d = os.path.join(root, "i18n")
-    ko = json.load(open(os.path.join(d, "ko.json"), encoding="utf-8"))
+    ko = _load(os.path.join(d, "ko.json"))
+    jobs = []
     for lang in (langs or [l for l in LANGS if l != "ko"]):
-        p = os.path.join(d, f"{lang}.json")
-        cur = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+        cur = _load(os.path.join(d, f"{lang}.json"), default={})
         todo = {k: v for k, v in ko.items() if k not in cur}
-        if not todo:
-            continue
-        errors = None
-        for _ in range(3):
-            prompt = ("- Translate these UI strings of a calm news-briefing website from Korean into "
-                      f"{NAMES[lang]}. Short, natural UI wording.\n"
-                      "- Keep every {placeholder} token exactly.\n- Reply with ONLY a JSON object, same keys.\n"
-                      + (f"- Fix: {'; '.join(errors)}\n" if errors else "")
-                      + "\nINPUT:\n" + json.dumps(todo, ensure_ascii=False))
-            try:
-                out = parse_reply(call(prompt))
-            except ValueError as e:
-                errors = [str(e)]
-                continue
-            errors = [f"{k}: missing" for k in todo if k not in out] + [
-                f"{k}: placeholder lost" for k in todo
-                if k in out and sorted(re.findall(r"\{\w+\}", todo[k])) != sorted(re.findall(r"\{\w+\}", out[k]))]
-            if not errors:
-                cur.update({k: out[k] for k in todo})
-                break
+        if todo:
+            jobs.append(_ui_job(lang, todo))
+    return jobs
+
+
+def apply_ui(root, jobs, answers):
+    d = os.path.join(root, "i18n")
+    retry = []
+    for job in jobs:
+        todo, lang = job["src"], job["lang"]
+        try:
+            out = parse_reply(answers[job["job_id"]]) if job["job_id"] in answers else None
+        except ValueError as e:
+            out, errs = None, [f"invalid reply: {e}"]
+        if out is None and job["job_id"] not in answers:
+            errs = ["no answer"]
+        elif out is not None:
+            ph = lambda s: sorted(re.findall(r"\{\w+\}", s or ""))
+            errs = [f"{k}: missing" for k in todo if k not in out] + \
+                   [f"{k}: placeholder lost" for k in todo if k in out and ph(todo[k]) != ph(out[k])]
+        if out is not None and not errs:
+            p = os.path.join(d, f"{lang}.json")
+            cur = _load(p, default={})
+            cur.update({k: out[k] for k in todo})
+            _save(p, cur)
+        elif job["attempt"] < MAX_ATTEMPTS:
+            retry.append(_ui_job(lang, todo, job["attempt"] + 1, errs))
         else:
-            print(f"[{lang}] UI translation failed: {'; '.join(errors)}", file=sys.stderr)
-        json.dump(cur, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+            print(f"  [ui] {lang} failed: {'; '.join(errs)} — Korean shown for these keys", file=sys.stderr)
+    return retry
 ```
 
-`main`: `ap.add_argument("--ui", action="store_true")`; `if a.ui: translate_ui(os.path.dirname(HERE_DIR), _caller()); subprocess.run([sys.executable, os.path.join(HERE_DIR, "build_i18n.py")]); return 0` (`HERE_DIR = os.path.dirname(os.path.abspath(__file__))`, `import subprocess`).
+`cmd_jobs`/`cmd_apply`/`main` 연결:
+- `jobs` 서브커맨드: `--cards`를 `required=False`로 바꾸고 `--ui`(flag)와 `--root`(기본 저장소 루트 = `os.path.dirname(os.path.dirname(os.path.abspath(__file__)))`) 추가. `--ui`면 `_save(out, {"kind": "ui", "target": os.path.abspath(root), "jobs": ui_jobs(root)})` 후 작업 수 출력.
+- `cmd_apply`: `jf["kind"] == "ui"`면 `retry = apply_ui(jf["target"], jf["jobs"], answers)`로 처리하고(대상 문서 로드/저장 생략), 재시도 파일/종료코드 규칙은 카드와 같게. 성공 시 `subprocess.run([sys.executable, os.path.join(HERE, "build_i18n.py"), "--root", jf["target"]])` (`HERE = os.path.dirname(os.path.abspath(__file__))`, `import subprocess`).
 
 Run: `cd pipeline && python3 translate_test.py` → `translate OK`
 
@@ -1483,11 +1594,7 @@ Run: `cd pipeline && python3 translate_test.py` → `translate OK`
   - **insights:** `/api/insights/summary` POST body에 `lang: window.AX_LANG || 'ko'` 추가 (`archive.html`의 호출부).
   - 새 키 `lang.menu`, `card.untranslated`를 `i18n/ko.json`에 추가.
 
-- [ ] **Step 5: UI 사전 번역 실행 + 사람 검토**
-
-Run: `cd pipeline && ANTHROPIC_API_KEY=$(security find-generic-password -s axbrief-anthropic -w) python3 translate.py --ui && python3 build_i18n.py --check`
-Expected: 종료코드 0, `i18n/{en,ja,zh,es}.json` 생성. 키가 없으면(사용자가 Task 11 Step 1을 아직 안 했으면) 이 스텝은 Task 11 뒤로 미루고 표시해 둔다.
-그다음 `git diff i18n/en.json`을 사용자에게 보여주고 어색한 문구를 함께 고친다(사람 검토 = 스펙 요구사항).
+- [ ] **Step 5 (컨트롤러): UI 사전 번역 + 사람 검토** — `python3 pipeline/translate.py jobs --ui --out pipeline/jobs_ui.json` → `ax-translator`(JOBS=`pipeline/jobs_ui.json`, ANSWERS=`pipeline/answers_ui.json`) → `python3 pipeline/translate.py apply --jobs pipeline/jobs_ui.json --answers pipeline/answers_ui.json` (종료코드 10이면 `.retry.json`으로 최대 2번 더) → `python3 pipeline/build_i18n.py --check` 종료코드 0. 그다음 `git diff i18n/en.json`을 사용자에게 보여주고 어색한 문구를 함께 고친다(사람 검토 = 스펙 요구사항).
 
 - [ ] **Step 6: 렌더 검증 (5개 언어)**
 
@@ -1512,40 +1619,35 @@ git commit -m "feat(i18n): 언어 메뉴(미리보기 플래그)·미번역 라�
 - Modify: `pipeline/translate.py` (`--check` 추가), `pipeline/translate_test.py`
 
 **Interfaces:**
-- Consumes: `translate.py --cards` (Task 3)
+- Consumes: `translate.py jobs/apply`, `ax-translator` (Task 3)
 - Produces:
   - 작성 단계 산출물 `cards_S.json`: 최상위 텍스트 필드가 **원문 언어**, 각 카드에 `source_lang`.
-  - `translate.py --check FILE` — 각 카드의 `text[lang]`(ko 포함)을 원천 대비 `check()`로 재검증. 실패 언어는 `text`에서 빼고 `i18n_status`에 `fallback`. 최상위 필드를 `text["ko"]`로 동기화. 한국어 윤문(사람/에이전트 편집) 뒤에 반드시 실행.
+  - `translate.py check FILE` — 각 카드의 `text[lang]`(ko 포함)을 원천 대비 `check()`로 재검증. 실패 언어는 `text`에서 빼고 `i18n_status`에 `fallback`. 최상위 필드를 `text["ko"]`로 동기화. 한국어 윤문(사람/에이전트 편집) 뒤에 반드시 실행.
 
-- [ ] **Step 1 (사용자 작업): API 키 등록** — 사용자에게 다음을 요청하고 완료를 기다린다:
-
-```
-! security add-generic-password -s axbrief-anthropic -a axbrief -w
-```
-(프롬프트에 Anthropic API 키 입력. Console의 키 — Worker의 `ANTHROPIC_API_KEY` 시크릿과 같은 키를 써도 된다.)
+- [ ] **Step 1: (삭제됨 — 서브에이전트 번역이라 API 키 불필요)**
 
 - [ ] **Step 2: Write the failing test** — `pipeline/translate_test.py`의 `print("translate OK")` 위에:
 
 ```python
-# --check: re-validate after Korean humanize edits; broken language -> fallback; top-level = ko
+# check: re-validate after Korean humanize edits; broken language -> fallback; top-level = ko
 d3 = tempfile.mkdtemp(); f3 = os.path.join(d3, "cards_y.json")
 c3 = dict(card, text={"en": SRC, "ko": dict(KO, body="짧다.")})
 json.dump({"date": "2026-10-02", "cards": [c3]}, open(f3, "w"), ensure_ascii=False)
-assert tr.main(["--check", f3]) == 0
+assert tr.main(["check", f3]) == 0
 c3o = json.load(open(f3))["cards"][0]
 assert "ko" not in c3o["text"] and c3o["i18n_status"] == {"ko": "fallback"}
 c4 = dict(card, text={"en": SRC, "ko": KO})
 json.dump({"date": "2026-10-02", "cards": [c4]}, open(f3, "w"), ensure_ascii=False)
-tr.main(["--check", f3])
+tr.main(["check", f3])
 assert json.load(open(f3))["cards"][0]["body"] == KO["body"]
 ```
 
 - [ ] **Step 3: Run test to verify it fails**
 
 Run: `cd pipeline && python3 translate_test.py`
-Expected: FAIL — `--check` 미지원(argparse 오류, SystemExit 2)
+Expected: FAIL — argparse `invalid choice: 'check'` (SystemExit 2)
 
-- [ ] **Step 4: Implement `--check`** — `pipeline/translate.py`:
+- [ ] **Step 4: Implement `check`** — `pipeline/translate.py`:
 
 ```python
 def recheck_card(card):
@@ -1565,7 +1667,7 @@ def recheck_card(card):
     return card
 ```
 
-`main`에 `ap.add_argument("--check")`, `if a.check: doc = json.load(open(a.check, encoding="utf-8")); doc["cards"] = [recheck_card(c) for c in doc.get("cards", [])]; json.dump(doc, open(a.check, "w", encoding="utf-8"), ensure_ascii=False, indent=2); return 0`.
+`main`에 서브커맨드 `check`(위치 인자 `path`) 추가: `doc = _load(path); doc["cards"] = [recheck_card(c) for c in doc.get("cards", [])]; _save(path, doc); return 0`.
 
 Run: `cd pipeline && python3 translate_test.py` → `translate OK`
 
@@ -1582,25 +1684,24 @@ Run: `cd pipeline && python3 translate_test.py` → `translate OK`
   - Step 6b 첫 문장: `full` = 원문 언어 그대로의 구조 미러 요약(번역하지 않음). 사실 검증은 같은 언어로 원문과 대조. 마지막의 humanize 문장 삭제.
   - Step 6c 신설:
     ```
-    6c. **translate** — `ANTHROPIC_API_KEY=… python3 pipeline/translate.py --cards pipeline/cards_S.json`
-        → fills `text[en|ko|ja|zh|es]` (source language kept verbatim), failed languages → `i18n_status`.
-        Then humanize **only `text.ko`** with the humanize-korean skill (facts byte-identical), and run
-        `python3 pipeline/translate.py --check pipeline/cards_S.json` (re-validates every language and
-        syncs the top-level fields to ko). Exit code 3 = no API key → publish anyway (ko/source only)
-        and say so in the report.
+    6c. **translate (no API — subagents)** —
+        python3 pipeline/translate.py jobs --cards pipeline/cards_S.json --out pipeline/jobs_S.json
+        → dispatch **ax-translator** with JOBS=pipeline/jobs_S.json, ANSWERS=pipeline/answers_S.json
+        → python3 pipeline/translate.py apply --jobs pipeline/jobs_S.json --answers pipeline/answers_S.json
+        Exit 10 = some answers failed the checks: dispatch ax-translator again on
+        pipeline/jobs_S.retry.json (ANSWERS=pipeline/answers_S.retry.json) and apply that; at most
+        2 retry passes — whatever still fails is recorded as fallback and publishes with the label.
+        Then humanize **only `text.ko`** with the humanize-korean skill (facts byte-identical) and run
+        python3 pipeline/translate.py check pipeline/cards_S.json  (re-validates every language and
+        syncs the top-level fields to ko).
     ```
   - Step 9 build 문단에 `python3 pipeline/build_i18n.py` 추가, `node --check`를 `axbrief-data.{en,ko,ja,zh,es}.js archive-data.{…}.js`까지.
   - 하단 "Korean voice" 문단: 대상이 `text.ko`임을 명시.
 
-- [ ] **Step 7: 자동 실행 스크립트** — `~/.design-ax-brief/automation/run_daily_news.sh`:
-  - `export LANG=…` 줄 다음에:
-    ```zsh
-    export ANTHROPIC_API_KEY="$(security find-generic-password -s axbrief-anthropic -w 2>/dev/null)"
-    [ -z "$ANTHROPIC_API_KEY" ] && echo "[warn] translate key missing — ko/source only" >> "$LOGDIR/daily-news.log"
-    ```
-  - 프롬프트 (4) 문장 교체: `(4) 각 섹션 Step 5~10(큐레이터 → 원문 언어 작성 → full 페이로드(원문 언어)·사실 검증 → translate.py 5개 언어 번역 → text.ko만 humanize-korean 윤문 → translate.py --check → 미디어 → roll → 아카이브)을 완주한다.`
-  - 프롬프트 (10) 보고에 `언어별 폴백 수(i18n_status)` 한 줄 추가.
-  - `zsh -n`으로 문법 확인. (주의: 이 파일은 홈 디렉터리라 git 커밋 대상 아님.)
+- [ ] **Step 7: 자동 실행 스크립트 (병합 후 적용 — 원장 Ruling)** — `~/.design-ax-brief/automation/run_daily_news.sh`의 프롬프트만 고친다(API 키 불필요):
+  - (4) 문장 교체: `(4) 각 섹션 Step 5~10(큐레이터 → 원문 언어 작성 → full 페이로드(원문 언어)·사실 검증 → translate.py jobs → ax-translator → translate.py apply(재시도 최대 2회) → text.ko만 humanize-korean 윤문 → translate.py check → 미디어 → roll → 아카이브)을 완주한다.`
+  - (10) 보고에 `언어별 폴백 수(i18n_status)` 한 줄 추가.
+  - `zsh -n`으로 문법 확인. (홈 디렉터리 파일이라 git 커밋 대상 아님.)
 
 - [ ] **Step 8: Commit**
 
@@ -1614,82 +1715,91 @@ git commit -m "feat(i18n): 파이프라인 편입 — 원문 언어 작성, 5개
 ### Task 12: 최근 노출분 백필 + 길이 한도 확정 + 미리보기 배포
 
 **Files:**
-- Modify: `pipeline/translate.py` (`--news` 추가), `pipeline/translate_test.py`
-- Modify: `pipeline/translate_check.py` (`LIMITS` en/es 확정값)
+- Modify: `pipeline/translate.py` (`--news`·`--days`·`--limit`·`--offset`), `pipeline/translate_test.py`
+- Modify: `pipeline/translate_check.py` (`LIMITS` en/es 확정값), `pipeline/translate_check_test.py`
 - Generated: `pipeline/news_data.json`, `axbrief-data.*.js`, `archive-data.*.js`, `premium/*/`, `s/*/`, `i18n/*.js`
 
 **Interfaces:**
-- Consumes: `translate_card` (Task 3), 빌드(Task 5·6·9)
-- Produces: `translate.py --news FILE [--days N]` — `sections.*.today` + 최근 N개 `days`의 카드 중 `text`에 빠진 언어가 있는 카드만 번역해 제자리 저장. 옛 카드(원천=최상위 ko)도 같은 경로.
+- Consumes: `card_jobs`, `apply_to_card`, `TARGETS`, `cmd_jobs`/`cmd_apply` (Task 3), 빌드(Task 5·6·9)
+- Produces:
+  - `TARGETS["news"](doc, days=None)` — key `"{section}/{id}"` → 카드 참조. `days=N`이면 각 섹션 `today` + 마지막 N개 `days`, `None`이면 전부(apply는 항상 전부로 찾는다)
+  - `jobs --news FILE [--days 5] [--limit N] [--offset K]` — 작업 목록을 만든 뒤 `[offset:offset+limit]`만 저장(병렬 에이전트용 분할). 이미 모든 언어가 있거나 fallback인 카드는 작업이 없다 → 같은 명령을 반복하면 남은 것만 나온다
+  - 옛 카드(원천 = 최상위 ko)는 `source_lang`이 없으므로 원천 언어 ko로 번역된다(스펙 §8 백필; 원문 재수집 없음)
 
-- [ ] **Step 1: Write the failing test** — `pipeline/translate_test.py`:
+- [ ] **Step 1: Write the failing test** — `pipeline/translate_test.py`의 `print("translate OK")` 위에:
 
 ```python
-# --news: only cards missing languages, only today + last N days
-d4 = tempfile.mkdtemp(); f4 = os.path.join(d4, "news_data.json")
+# news target: only today + last N days, only cards missing languages; limit/offset split
+d4 = tempfile.mkdtemp(); f4 = os.path.join(d4, "news_data.json"); j4 = os.path.join(d4, "jobs_n.json")
 old_card = {"id": "o", "url": "https://o", "headline": KO["headline"], "body": KO["body"], "full": KO["full"]}
 done = dict(card, id="d", url="https://d", text={l: KO for l in ["en", "ko", "ja", "zh", "es"]})
 nd = {"sections": {"design": {"today": {"date": "2026-10-02", "cards": [old_card, done]},
                               "days": [{"date": "2026-09-01", "cards": [dict(old_card, id="far")]},
                                        {"date": "2026-10-01", "cards": [dict(old_card, id="near")]}]}}}
 json.dump(nd, open(f4, "w"), ensure_ascii=False)
-asked = []
-tr.translate_news(f4, lambda p: (asked.append(p), json.dumps(KO, ensure_ascii=False))[1], days=1)
+r = run("jobs", "--news", f4, "--days", "1", "--out", j4)
+assert r.returncode == 0, r.stderr
+jobs4 = json.load(open(j4))["jobs"]
+assert {x["key"] for x in jobs4} == {"design/o", "design/near"} and len(jobs4) == 8   # 4 langs each (src ko)
+assert all(x["src_lang"] == "ko" for x in jobs4)
+r = run("jobs", "--news", f4, "--days", "1", "--limit", "3", "--offset", "6", "--out", j4)
+assert len(json.load(open(j4))["jobs"]) == 2
+r = run("jobs", "--news", f4, "--days", "1", "--out", j4)
+ans = {x["job_id"]: KO for x in json.load(open(j4))["jobs"] if x["lang"] in ("ja", "zh")}
+json.dump(ans, open(os.path.join(d4, "a.json"), "w"), ensure_ascii=False)
+r = run("apply", "--jobs", j4, "--answers", os.path.join(d4, "a.json"))
+assert r.returncode == 10                                         # en/es unanswered -> retry
 res = json.load(open(f4))["sections"]["design"]
-assert "text" in res["today"]["cards"][0] and res["days"][1]["cards"][0].get("text")
-assert res["days"][0]["cards"][0].get("text") is None            # 범위 밖(N=1)
-assert all('"d"' not in p for p in asked)                          # 이미 완료된 카드 재요청 없음
+assert res["today"]["cards"][0]["text"]["ja"] == KO and res["days"][1]["cards"][0]["text"]["zh"] == KO
+assert res["days"][0]["cards"][0].get("text") is None             # outside --days
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
 
 Run: `cd pipeline && python3 translate_test.py`
-Expected: FAIL — `no attribute 'translate_news'`
+Expected: FAIL — argparse `unrecognized arguments: --news`
 
-- [ ] **Step 3: Implement `translate_news`**
+- [ ] **Step 3: Implement the news target**
 
 ```python
-def translate_news(path, call, days=5):
-    data = json.load(open(path, encoding="utf-8"))
-    n = 0
-    for sec in (data.get("sections") or {}).values():
-        groups = [sec.get("today") or {}] + (sec.get("days") or [])[-days:] if days else [sec.get("today") or {}]
+def _news_index(doc, days=None, **_):
+    out = {}
+    for sec, s in (doc.get("sections") or {}).items():
+        all_days = s.get("days") or []
+        groups = [s.get("today") or {}] + (all_days[-days:] if days else all_days)
         for day in groups:
-            for i, c in enumerate(day.get("cards", [])):
-                if all(l in (c.get("text") or {}) for l in LANGS):
-                    continue
-                day["cards"][i] = translate_card(c, call)
-                n += 1
-        json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)  # 섹션마다 저장(중단 대비)
-    print(f"translated {n} card(s)")
-    return n
+            for c in day.get("cards", []):
+                if c.get("id"):
+                    out[f"{sec}/{c['id']}"] = c
+    return out
+
+
+TARGETS["news"] = _news_index
 ```
 
-`main`에 `ap.add_argument("--news")`, `ap.add_argument("--days", type=int, default=5)`, `if a.news: translate_news(a.news, _caller(), a.days); return 0`.
+`cmd_jobs(kind, path, out, limit=None, offset=0, **kw)`: 작업 목록을 만든 뒤 `jobs = jobs[offset: offset + limit] if limit else jobs[offset:]`. `jobs` 서브커맨드에 `--news`, `--days`(int, 기본 5), `--limit`(int), `--offset`(int, 기본 0) 추가; `--news`면 `cmd_jobs("news", args.news, args.out, days=args.days, limit=args.limit, offset=args.offset)`. `cmd_apply`는 `TARGETS[kind](doc)`(days=None → 전부)를 그대로 쓴다.
 
 Run: `cd pipeline && python3 translate_test.py` → `translate OK`
 
-- [ ] **Step 4: 백필 실행 (최근 노출분)**
+- [ ] **Step 4 (컨트롤러): 백필 실행 (최근 노출분)** — 구현자가 아니라 컨트롤러가 돌린다(에이전트 디스패치 필요):
+  1. `cp pipeline/news_data.json pipeline/runs/news_data.pre-i18n.json`
+  2. `python3 pipeline/translate.py jobs --news pipeline/news_data.json --days 5 --out /tmp/ax_jobs_all.json` → 총 작업 수 확인(약 240장 × 4 = 960).
+  3. 20개씩 나눠 `--limit 20 --offset 0/20/40/60`으로 4개 작업 파일 생성 → `ax-translator` 4개를 **동시에** 디스패치(각자 다른 JOBS/ANSWERS 경로) → 끝나면 `apply`를 **순서대로** 실행(같은 news_data.json을 고치므로 병렬 금지).
+  4. `.retry.json`이 생기면 같은 방식으로 재시도 패스. 2번이 끝나면 다음 묶음(`jobs`를 다시 만들면 완료분은 빠진다)으로 반복, 작업 0개가 될 때까지.
+  5. 진행은 원장에 묶음 단위로 기록(중단 시 재개 지점).
 
-Run:
-```bash
-cd /Users/leopard/Projects/design-ax-brief/pipeline && cp news_data.json runs/news_data.pre-i18n.json && \
-ANTHROPIC_API_KEY=$(security find-generic-password -s axbrief-anthropic -w) python3 translate.py --news news_data.json --days 5
-```
-Expected: `translated ~240 card(s)` 근처. stderr의 fallback 줄 수를 센다.
-
-- [ ] **Step 5: 한국어 윤문 + 재검증** — 백필로 새로 생긴 `text.ko`는 원천이 기존 ko 카드이므로 대부분 원문 그대로다(원천 언어 = ko → 번역 안 함). 따라서 윤문 대상 없음. `python3 translate.py --check`는 카드 파일용이므로 여기선 생략하고, 대신 fallback 비율을 확인한다:
+- [ ] **Step 5: 폴백 비율 확인**
 
 ```bash
 python3 -c "
-import json,collections;d=json.load(open('news_data.json'))['sections'];c=collections.Counter();t=0
+import json,collections;d=json.load(open('pipeline/news_data.json'))['sections'];c=collections.Counter();t=0
 for s in d.values():
   for day in [s['today']]+s['days']:
     for x in day['cards']:
       t+=1;[c.update([l]) for l in (x.get('i18n_status') or {})]
 print('cards',t,'fallback',dict(c))"
 ```
-Expected: 언어별 fallback이 카드 수의 5% 이하. 넘으면 stderr 오류 유형을 모아 Step 6에서 한도를 조정하고 `--news`를 다시 돌린다(완료 카드는 건너뛰므로 실패분만 재시도된다 — 재시도 전에 해당 카드의 `i18n_status`를 지워야 다시 시도된다: 위 스크립트에 `x.pop('i18n_status',None)` 저장 버전을 쓴다).
+Expected: 언어별 fallback이 카드 수의 5% 이하. 넘으면 stderr 오류 유형을 모아 Step 6에서 한도를 조정한 뒤, 해당 카드들의 `i18n_status`를 지우고 Step 4를 다시 돈다(fallback 언어는 작업에서 빠지므로 지워야 재시도된다).
 
 - [ ] **Step 6: en/es 길이 한도 확정** — 빌드 후 5개 언어 렌더(Task 10 Step 6 명령)에서 en/es 카드 본문이 2줄을 넘거나 1줄로 끝나는지 본다. 화면 기준으로 `translate_check.LIMITS["en"|"es"]`를 고치고, `translate_check_test.py`를 그 값에 맞게 갱신해 통과시킨다. 고친 값은 스펙 §2 표에도 반영.
 
@@ -1741,101 +1851,100 @@ git commit -m "feat(i18n): 다국어 공개 — / 언어 감지 리다이렉트 
 
 ---
 
-### Task 14: 전체 아카이브 백필 (Batch API)
+### Task 14: 전체 아카이브 백필 (서브에이전트, 여러 날에 나눠 실행)
 
 **Files:**
-- Modify: `pipeline/translate.py` (`--batch`), `pipeline/translate_test.py`
-- Modify: `pipeline/archive.json` (생성)
+- Modify: `pipeline/translate.py` (`archive` 대상), `pipeline/translate_test.py`
+- Modify (생성): `pipeline/archive.json`, `premium/{lang}/{section}.json`
 
 **Interfaces:**
-- Consumes: `build_prompt`, `parse_reply`, `check`, `translate_fields`
-- Produces: `translate.py --batch --archive pipeline/archive.json` — 아카이브 레코드(헤드라인·본문 티저) + `premium/full.json`의 ko 전문을 원천으로, 빠진 언어를 Message Batches API로 일괄 번역. 결과는 `archive.json`의 `text`(headline/body)와 `premium/{lang}/{section}.json`(전문)에 병합. 검증 실패분은 `translate_fields`(동기, 재시도 2)로 한 번 더, 그래도 실패면 그대로 둔다(아카이브 화면은 폴백 라벨).
-  - `batch_requests(items: list[tuple[str, dict, str, str]]) -> list[dict]` — `(custom_id, src, src_lang, lang)` → Batches API `requests` 항목
-  - `run_batch(requests, *, api_key, poll=60) -> dict[str, str]` — 제출→폴링→결과 JSONL 파싱 → `{custom_id: reply_text}`
+- Consumes: `card_jobs`, `apply_to_card`, `cmd_jobs`의 `limit/offset` (Task 3·12), `build_data.merge_premium` (Task 5)
+- Produces:
+  - `archive_cards(root: str) -> tuple[dict, dict[str, dict]]` — (`archive.json` 문서, key `"{section}/{id}"` → 가상 카드). 가상 카드 = 레코드의 `headline`·`body`·`text`·`source_lang`·`i18n_status` + 전문 `full`(원천 언어 `premium/{src}/{section}.json`, 없으면 `premium/full.json`의 ko 전문). 전문이 없는 레코드는 `full` 없이.
+  - `commit_archive(root, archive, vcards) -> None` — 각 가상 카드의 `text[lang]`에서 `headline`·`body`만 레코드 `text`로(`_src` 제외), `i18n_status` 반영; `full`이 있으면 `merge_premium(f"{root}/premium/{lang}/{section}.json", {key: {"blocks": …}})`; `archive.json` 저장
+  - `jobs --archive [--root ROOT] [--limit N] [--offset K] --out JOBS` (kind `"archive"`, target = root), `apply`는 kind `"archive"`면 `archive_cards` → `apply_to_card` → `commit_archive` 후 `python3 build_archive.py` 실행
 
-- [ ] **Step 1: Write the failing test**
+- [ ] **Step 1: Write the failing test** — `pipeline/translate_test.py`의 `print("translate OK")` 위에:
 
 ```python
-# --batch helpers (no network): request shape + result merge
-reqs = tr.batch_requests([("design/a|en", SRC, "ko", "en")])
-assert reqs[0]["custom_id"] == "design/a|en" and reqs[0]["params"]["model"] == tr.MODEL
-assert reqs[0]["params"]["messages"][0]["content"].startswith("- Translate")
-merged = tr.merge_batch_results({"design/a|ko": json.dumps(KO, ensure_ascii=False), "design/b|ko": "garbage"},
-                                {"design/a": (SRC, "en"), "design/b": (SRC, "en")})
-assert merged["ok"] == {"design/a": {"ko": KO}} and merged["retry"] == [("design/b", "ko")]
+# archive target: teaser text into archive.json, full into premium/<lang>/<section>.json
+d5 = tempfile.mkdtemp(); os.makedirs(f"{d5}/pipeline"); os.makedirs(f"{d5}/premium")
+json.dump({"cards": [{"id": "o", "section": "design", "date": "2026-08-01", "url": "https://o",
+                      "headline": KO["headline"], "body": KO["body"]}]},
+          open(f"{d5}/pipeline/archive.json", "w"), ensure_ascii=False)
+json.dump({"cards": {"design/o": {"blocks": KO["full"]["blocks"]}}}, open(f"{d5}/premium/full.json", "w"), ensure_ascii=False)
+arch, vc = tr.archive_cards(d5)
+assert vc["design/o"]["full"]["blocks"] == KO["full"]["blocks"]
+aj = [x for k, c in vc.items() for x in tr.card_jobs(c, k)]
+assert {x["lang"] for x in aj} == {"en", "ja", "zh", "es"}
+ja = next(x for x in aj if x["lang"] == "ja")
+assert tr.apply_to_card(vc["design/o"], [ja], {ja["job_id"]: KO}) == []
+tr.commit_archive(d5, arch, vc)
+rec = json.load(open(f"{d5}/pipeline/archive.json"))["cards"][0]
+assert rec["text"]["ja"] == {"headline": KO["headline"], "body": KO["body"]} and "_src" not in rec["text"]
+assert json.load(open(f"{d5}/premium/ja/design.json"))["cards"]["design/o"]["blocks"] == KO["full"]["blocks"]
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
 
 Run: `cd pipeline && python3 translate_test.py`
-Expected: FAIL — `no attribute 'batch_requests'`
+Expected: FAIL — `no attribute 'archive_cards'`
 
 - [ ] **Step 3: Implement**
 
 ```python
-def batch_requests(items):
-    return [{"custom_id": cid, "params": {"model": MODEL, "max_tokens": 4000,
-             "messages": [{"role": "user", "content": build_prompt(src, sl, lang)}]}}
-            for cid, src, sl, lang in items]
+def archive_cards(root):
+    archive = _load(os.path.join(root, "pipeline", "archive.json"))
+    prem = lambda name: (_load(os.path.join(root, "premium", name), default={}).get("cards") or {})
+    legacy = prem("full.json")
+    cache = {}
+    vcards = {}
+    for rec in archive.get("cards", []):
+        key = f"{rec['section']}/{rec['id']}"
+        vc = {k: rec[k] for k in ("headline", "body", "text", "source_lang", "i18n_status") if rec.get(k)}
+        src = rec.get("source_lang") or "ko"
+        part = cache.setdefault(f"{src}/{rec['section']}", prem(f"{src}/{rec['section']}.json"))
+        full = part.get(key) or legacy.get(key)
+        if full and full.get("blocks"):
+            vc["full"] = {"blocks": full["blocks"]}
+            if vc.get("text", {}).get(src) is not None:
+                vc["text"][src] = dict(vc["text"][src], full=vc["full"])
+        vcards[key] = vc
+    return archive, vcards
 
 
-def _api(method, path, api_key, body=None):
-    req = urllib.request.Request("https://api.anthropic.com" + path, method=method,
-                                 data=json.dumps(body).encode() if body is not None else None,
-                                 headers={"content-type": "application/json", "x-api-key": api_key,
-                                          "anthropic-version": "2023-06-01"})
-    with urllib.request.urlopen(req, timeout=300) as r:
-        return r.read().decode()
-
-
-def run_batch(requests, *, api_key, poll=60):
-    import time
-    out = {}
-    for i in range(0, len(requests), 10000):           # Batches API: ≤ 10,000 requests per batch
-        b = json.loads(_api("POST", "/v1/messages/batches", api_key, {"requests": requests[i:i + 10000]}))
-        while b.get("processing_status") != "ended":
-            time.sleep(poll)
-            b = json.loads(_api("GET", f"/v1/messages/batches/{b['id']}", api_key))
-            print(f"batch {b['id']}: {b.get('request_counts')}", file=sys.stderr)
-        for line in _api("GET", f"/v1/messages/batches/{b['id']}/results", api_key).splitlines():
-            r = json.loads(line)
-            if r.get("result", {}).get("type") == "succeeded":
-                out[r["custom_id"]] = "".join(c.get("text", "") for c in r["result"]["message"]["content"])
-    return out
-
-
-def merge_batch_results(replies, sources):
-    ok, retry = {}, []
-    for cid, text in replies.items():
-        key, lang = cid.rsplit("|", 1)
-        src, sl = sources[key]
-        try:
-            out = {k: v for k, v in parse_reply(text).items() if k in TEXT_FIELDS}
-        except ValueError:
-            retry.append((key, lang)); continue
-        if check(src, out, lang):
-            retry.append((key, lang)); continue
-        ok.setdefault(key, {})[lang] = out
-    return {"ok": ok, "retry": retry}
+def commit_archive(root, archive, vcards):
+    from build_data import merge_premium
+    by_key = {f"{r['section']}/{r['id']}": r for r in archive.get("cards", [])}
+    fulls = {}
+    for key, vc in vcards.items():
+        rec = by_key[key]
+        text = {l: {k: t[k] for k in ("headline", "body") if t.get(k)}
+                for l, t in (vc.get("text") or {}).items() if l != "_src"}
+        if text:
+            rec["text"] = text
+        if vc.get("i18n_status"):
+            rec["i18n_status"] = vc["i18n_status"]
+        for l, t in (vc.get("text") or {}).items():
+            blocks = ((t or {}).get("full") or {}).get("blocks")
+            if l != "_src" and blocks:
+                fulls.setdefault(f"{l}/{rec['section']}", {})[key] = {"blocks": blocks}
+    for name, part in fulls.items():
+        merge_premium(os.path.join(root, "premium", f"{name}.json"), part)
+    _save(os.path.join(root, "pipeline", "archive.json"), archive)
 ```
 
-`cmd_batch_archive(archive_path, api_key)`:
-1. `archive.json` 레코드마다 `key = f"{section}/{id}"`, 원천 = `source_fields(rec)` + `premium/full.json`의 `key` 전문(`full`), 원천 언어가 ko가 아닌 레코드는 `premium/{src}/{section}.json`에서 전문.
-2. 레코드 `text`에 없는 풀 언어마다 `(f"{key}|{lang}", src, src_lang, lang)`.
-3. `run_batch` → `merge_batch_results` → `retry`는 `translate_fields(..., _caller())`로 동기 재시도.
-4. 성공분: `rec["text"][lang] = {"headline", "body"}`, 전문은 `merge_premium(f"premium/{lang}/{section}.json", {key: {"blocks": out["full"]["blocks"]}})`(Task 5의 `build_data.merge_premium` import).
-5. `archive.json` 저장 후 `python3 build_archive.py` 실행.
-`main`: `--batch` + `--archive PATH`.
+CLI: `jobs`에 `--archive`(flag)와 `--root`(Task 10과 공유) — `vcards`로 작업을 만들고 `limit/offset` 적용, `{"kind": "archive", "target": root, ...}` 저장. `cmd_apply`에서 kind `"archive"`면 `archive, vcards = archive_cards(target)` → 키별 `apply_to_card(vcards[key], jobs, answers)` → `commit_archive(target, archive, vcards)` → `subprocess.run([sys.executable, os.path.join(HERE, "build_archive.py")])`. 재시도 파일·종료코드 규칙은 같다.
 
 Run: `cd pipeline && python3 translate_test.py` → `translate OK`
 
-- [ ] **Step 4: 소규모 실배치 (20장)** — `archive.json`을 복사해 레코드 20개만 남긴 임시 파일로 `--batch --archive /tmp/ax_arch20.json` 실행, 결과 검증 통과율 확인(≥ 95%). 비용·시간을 사용자에게 보고하고 전체 실행 승인을 받는다.
-
-- [ ] **Step 5: 전체 실행 + 배포** — `python3 translate.py --batch --archive archive.json` → 빌드(Task 12 Step 7 명령) → 커밋 → push → `deploy.sh`. 확인: `/en/archive`에서 미번역 라벨 비율(브라우저 콘솔 `AX_ARCHIVE.filter(c=>c.untranslated).length`)이 0 또는 재시도 실패분만.
-
-- [ ] **Step 6: Commit**
+- [ ] **Step 4: Commit**
 
 ```bash
-git add pipeline/translate.py pipeline/translate_test.py pipeline/archive.json archive-data*.js premium/
-git commit -m "feat(i18n): 아카이브 전체 5개 언어 백필 (Batch API)"
+git add pipeline/translate.py pipeline/translate_test.py
+git commit -m "feat(i18n): 아카이브 백필 대상 — 티저는 archive.json, 전문은 언어별 premium"
 ```
+
+- [ ] **Step 5 (컨트롤러): 소규모 실행 (20장 = 80작업)** — `jobs --archive --limit 80 --out /tmp/ax_arch_1.json` → ax-translator 4개 병렬(20작업씩, `--offset`) → apply 순차 → 재시도. 통과율(≥ 95%)·소요 시간·사용량을 사용자에게 보고하고 전체 일정(하루 몇 묶음)을 합의한다.
+
+- [ ] **Step 6 (컨트롤러): 전체 실행** — 합의한 일정대로 여러 날에 걸쳐 묶음 반복(작업 0개가 될 때까지). 매 묶음 뒤 `node --check archive-data.*.js`, 하루 끝에 커밋 → push → `deploy.sh`. 확인: `/en/archive`에서 `AX_ARCHIVE.filter(c=>c.untranslated).length`가 0 또는 fallback분만.
