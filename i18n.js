@@ -83,7 +83,9 @@
       "@media (prefers-reduced-motion:reduce){#ax-pro{animation:none;}#ax-pro::after{display:none;}}" +
       "@media (max-width:720px){#ax-globe{top:10px;right:10px;}" +
       "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}" +
-      "#ax-login{top:10px;}#ax-login .ax-login-full{display:none;}#ax-login .ax-login-short{display:inline;}}";
+      // 폰에서는 로고 옆에 알약 셋이 들어가지 않는다 — Login이 로고를 파고들었다.
+      // 헤더에서는 빼고, 로그인 입구는 구독 팝업 안의 링크로 둔다(거기서 모두 닿는다).
+      "#ax-login{display:none!important;}}";
     document.head.appendChild(css);
     var box = document.createElement("div");
     box.id = "ax-globe";

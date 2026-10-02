@@ -19,6 +19,7 @@ window.AX_I18N = {
  "archive.tab_all": "All",
  "archive.view_list": "List",
  "archive.view_network": "Network",
+ "auth.already": "이미 구독 중이신가요?",
  "auth.login": "Login",
  "auth.login_body": "가입하신 이메일로 로그인 링크를 보내드립니다. 비밀번호는 없습니다.",
  "auth.login_short": "로그인",
