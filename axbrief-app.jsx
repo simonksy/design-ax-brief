@@ -1947,17 +1947,16 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
       boxShadow: stuckTitle ? '0 6px 18px -12px rgba(60,40,30,.5)' : 'none',
       transition: 'box-shadow .25s ease' }}>
       {/* row 1 — 로고(왼쪽) + 버튼 묶음(오른쪽) */}
-      <div ref={titleRef} style={{ padding: `11px ${g}px 9px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+      <div ref={titleRef} style={{ padding: `11px ${g}px 9px`, display: 'flex', alignItems: 'center', gap: 10 }}>
         {/* 왼쪽: 로고와 날짜가 한 덩어리. 오른쪽: 더보기 버튼 하나(i18n.js가 꽂는다) —
             Login·Pro·지구본을 그 안의 사이드바로 모았다. 버튼 셋이 나란히 있으면
             좁은 화면에서 줄이 복잡해진다. */}
-        <div style={{ display: 'flex', alignItems: 'baseline', gap: 9, minWidth: 0 }}>
-          <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
-            fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 19,
-            color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
-          <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1,
-            overflow: 'hidden', textOverflow: 'ellipsis' }}>{tx('masthead.daily_brief')} · {ds}</div>
-        </div>
+        <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
+          fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 19,
+          color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
+        {/* 날짜는 로고에 붙이지 않고 오른쪽 끝(더보기 버튼 바로 왼쪽)으로 민다 */}
+        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1,
+          marginLeft: 'auto', overflow: 'hidden', textOverflow: 'ellipsis' }}>{tx('masthead.daily_brief')} · {ds}</div>
         <div id="ax-actions-m" style={{ display: 'flex', alignItems: 'center', gap: 6, flex: '0 0 auto' }} />
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
