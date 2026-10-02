@@ -60,13 +60,16 @@ if (!document.getElementById('ax-styles')) {
      touch-action:pan-x;}
   .ax-snap::-webkit-scrollbar{display:none;}
   .ax-snapslide{flex:0 0 100%;min-width:100%;height:100%;scroll-snap-align:center;scroll-snap-stop:always;}
-  .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:600;
-     letter-spacing:-0.02em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
-  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:400;letter-spacing:-0.01em;margin:0;
+  /* 본문 400 + 음수 자간은 맥에서는 단정하지만 윈도우에서는 가늘고 흩어져 보인다.
+     윈도우는 글자를 얇게 그리는 데다 한글 웹폰트는 힌팅이 약해 더 성글어진다.
+     본문을 500으로 올리고 자간을 0으로 되돌린다 — 맥에서도 읽기가 나빠지지 않는다. */
+  .ax-hl{font-family:'Pretendard',var(--font-sans);white-space:pre-line;font-weight:700;
+     letter-spacing:-0.015em;text-wrap:balance;margin:0;word-break:keep-all;overflow-wrap:break-word;}
+  .ax-body{font-family:'Pretendard',var(--font-sans);font-weight:500;letter-spacing:0;margin:0;
      word-break:keep-all;overflow-wrap:break-word;}
-  .ax-eyebrow{font-family:var(--font-mono);font-size:11px;line-height:16px;letter-spacing:.07em;
-     text-transform:uppercase;font-weight:500;}
-  .ax-src{font-family:var(--font-mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;
+  .ax-eyebrow{font-family:var(--font-mono);font-size:11.5px;line-height:16px;letter-spacing:.06em;
+     text-transform:uppercase;font-weight:600;}
+  .ax-src{font-family:var(--font-mono);font-size:11.5px;letter-spacing:.04em;text-transform:uppercase;
      text-decoration:none;display:inline-flex;align-items:center;gap:6px;transition:opacity .15s;}
   .ax-src:hover{opacity:.6;}
   /* ---- weekly deck timeline ---- */
