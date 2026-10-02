@@ -3435,6 +3435,328 @@
           "x": "Meta's approach is closer to the “Front only” mode mentioned above. The translated speech plays through the glasses' open-ear speakers, while the other person reads translated subtitles that appear on the user's smartphone."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-transcribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google has released Gemini 3.5 Transcribe. It is described as “the most accurate speech-to-text model yet,” and it is already running inside several of the company's own products."
+        },
+        {
+          "t": "p",
+          "x": "“Unlike existing speech recognition models that struggle with background noise, complex jargon, and cleaning up stutters, Gemini 3.5 Transcribe turns raw audio directly into accurate, polished, formatted text.”"
+        },
+        {
+          "t": "p",
+          "x": "Google describes it as a model built to “capture natural speech patterns to better understand intent and recognize custom vocabulary.” As seen in Gboard's Rambler, it handles self-corrections like “let's meet Tuesday, no, Wednesday” and strips filler words such as “um” and “uh” from the output. It also handles formatting on its own, and users can edit sentences by voice."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini 3.5 Transcribe running in Gboard's Rambler"
+        },
+        {
+          "t": "p",
+          "x": "Google also cited the following figures. The word error rate (WER), as measured by Artificial Analysis, averages 4.0% for streaming and 2.6% for non-streaming. It accurately captures alphanumeric strings like zip codes and order numbers even in noisy real-world settings. Adding custom vocabulary lets it recognize jargon and unusual spellings. It automatically detects and transcribes more than 85 languages, and for pre-recorded audio it can distinguish up to three speakers with timestamps. Handling more than three speakers is still experimental."
+        },
+        {
+          "t": "p",
+          "x": "Google calls the performance “a big step forward” compared with its 2025 Chirp 3 transcription model, with a lower word error rate and noticeably reduced latency."
+        },
+        {
+          "t": "p",
+          "x": "“As measured by Artificial Analysis, time to final transcript is down 70%. It also outperforms Chirp 3 on the FLEURS benchmark covering major languages and locales, posting a word error rate of 5.50% for streaming and 5.04% for non-streaming.”"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/gemini-3.5-audio-transcribe-1.webp",
+          "cap": "Material Google released on Gemini 3.5 Transcribe"
+        },
+        {
+          "t": "p",
+          "x": "Another goal is “getting things done by voice.” With function calling attached, it hands off heavier tasks like image generation or file analysis to other Gemini models. Speak to Window in the macOS Gemini app is one example."
+        },
+        {
+          "t": "p",
+          "x": "Beyond the macOS Gemini app and Android's Gboard Rambler, it is also available through the microphone in Google Antigravity's prompt window. There, with user permission, it reads screen context and conversation history together, accurately transcribing file names, the agent's reasoning, and open documents. Chrome is next. In any text field on the web, users will be able to speak to type replies or write text, and to enter prompts into Gemini inside Chrome."
+        },
+        {
+          "t": "p",
+          "x": "Developers can use it in public preview through the Gemini API in Google AI Studio and Google Antigravity. Enterprises can access it in preview on the Gemini Enterprise Agent Platform, and it will soon come to Gemini Enterprise for Customer Experience."
+        }
+      ]
+    },
+    "gadgets/gadgets-lg-cloid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LG and Nvidia are significantly expanding their robotics partnership in Seoul. A newly built data factory at LG's Yangjae research campus will produce 100,000 hours of training data before the end of 2026. LG blends data from manufacturing, logistics, and real-world robot deployments with synthetic data, while Nvidia contributes its Omniverse, Cosmos, and Isaac robotics platforms."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_01_cr.jpg",
+          "cap": "LG's AI robot CLOiD greeting a visitor in Seoul"
+        },
+        {
+          "t": "p",
+          "x": "LG's CLOiD robot learns inside full-scale replicas of living spaces and simulated manufacturing and logistics workflows. One point where it diverges from Tesla's or BYD's approach is legs: CLOiD does not walk on two feet but moves on a wheeled base."
+        },
+        {
+          "t": "p",
+          "x": "The data collected this way feeds into LG's Robot Foundation Model to expand what its humanoid robots can do. CLOiD already practices household tasks like taking milk out of the fridge, operating an oven, and folding and stacking clothes. It has two arms, each with seven degrees of freedom, and five fingers on each hand that each generate force independently. 1X NEO also targets the home, while Agility's Digit and Apptronik's Apollo are closer to logistics and industrial use."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_04_cr.jpg",
+          "cap": "LG's robot data factory built in Yangjae"
+        },
+        {
+          "t": "p",
+          "x": "LG itself is growing its robotics business. In July, it established a center dedicated to robotics and plans to launch home robots in addition to industrial and service ones. Meanwhile, competition is heating up in China and the United States. Tesla is building the general-purpose humanoid Optimus, BYD is pushing Xiaodi for manufacturing tasks, Xpeng has Iron, and UBTech is promoting the industrial Walker S2. Unitree, maker of the G1 and H2, is also one of China's leading robotics companies."
+        },
+        {
+          "t": "p",
+          "x": "The 100,000-hour target is meant to sustain an unbroken loop of real-world robot deployment, simulation, and AI training. LG aims to get robots ready for complex tasks faster and lay the groundwork for entering the home robot market. Still, this partnership does not by itself guarantee an imminent mass rollout of fully autonomous home robots."
+        }
+      ]
+    },
+    "gadgets/gadgets-luffu-link": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "James Park and Eric Friedman, co-founders who left after Google acquired Fitbit, shifted their focus from individual health to the health of the whole family. That vessel is a startup called Luffu, and an AI app that tracks medications and logs meals to ease the mental load on caregivers and parents. Their new release, Luffu Link, pushes that idea a step further, adding a few wrinkles to Fitbit Air-level health tracking so it doesn't stay just another fitness band."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Luffu-Link-1200x675.jpg",
+          "cap": "Luffu Link, a wearable with no screen"
+        },
+        {
+          "t": "p",
+          "x": "Luffu Link packs a button, sensors, an LED, a microphone, and a speaker into a square metal housing, strapped to the wrist with a silicone band. The first thing that sets it apart from other wearables is voice logging. Users hold the button and say what they just ate or which medication they took, and can also log intangible things like their mood or something they don't want to forget. That recorded speech moves to the Luffu app along with heart rate, sleep, and activity tracking data, and over time the AI returns patterns it has found."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/luffu-app-1.jpg",
+          "cap": "Logs piling up in the Luffu app © Luffu"
+        },
+        {
+          "t": "p",
+          "x": "The second point of difference is GPS and free LTE. Family members can see where the wearer has been, and pressing the button twice immediately shares the current location. Thanks to LTE, the wearer can call for help from a designated family member even without a phone nearby."
+        },
+        {
+          "t": "p",
+          "x": "With no screen, Link joins a growing group of screenless wearables like the Oura Ring 5 or the Whoop 5.0. Luffu co-founder James Park told TechCrunch: “There's a trend in these new wearables toward removing the screen, and here it's very intentional. We want to be in the background. We designed Link to be a quiet guardian on the wrist all day, and we didn't want it to feel like an existing wearable at all—not a common fabric-brand item, not a wrist device with a screen, not a clunky pendant you wear around your neck for emergencies.”"
+        },
+        {
+          "t": "video",
+          "yt": "riGMmE35u4Y"
+        },
+        {
+          "t": "p",
+          "x": "Luffu Link can now be preordered for $250, $50 off its $300 list price, with shipping starting in early 2027. The LTE is “free,” but using it requires a Luffu Family Plan: up to four family members for $20 a month, or $200 a year. That's a steep entry fee for a healthy family, more so if each person buys their own. Whether Luffu's software is worth that price remains to be seen."
+        }
+      ]
+    },
+    "gadgets/gadgets-android-ram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "RAM prices are rising. Google didn't wait to see how bad things would get. It attached new memory rules to Android apps distributed through the Play Store, with a deadline set for developers to clean up their code. As prices rise, people are choosing lower-spec devices, and memory-hungry apps degrade the experience for everyone on those devices."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/android-apps.jpg?resize=1200%2C630",
+          "cap": "Android apps now subject to memory rules"
+        },
+        {
+          "t": "p",
+          "x": "Starting in February 2027, apps will need to meet new memory standards in three areas. Dynamic memory usage measures the private data storage an app uses while running or sitting in the background. Bitmap memory covers what images and graphics take up — the standard is not to hold onto that memory while it's off-screen. DEX code optimization trims app code to make it run faster and use less memory."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/memory-usage-android-apps-playstore.jpg?resize=1021%2C476",
+          "cap": "The three memory metrics the Play Store now measures"
+        },
+        {
+          "t": "p",
+          "x": "Google is adding new tools to Play Console so bloated code gets caught early. Apps that exceed the limits won't be removed. Instead, they'll see reduced store visibility and some distribution features blocked."
+        },
+        {
+          "t": "p",
+          "x": "Buried in the same announcement is an item useful to anyone switching devices. Zero-tap sign-in requires apps to automatically restore logins when moving to a new Android device, so there's no need to re-enter passwords app by app after a device switch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/04/google-sign-up-mockup.jpg?resize=2000%2C1200",
+          "cap": "Zero-tap sign-in restores logins even after switching devices"
+        },
+        {
+          "t": "p",
+          "x": "The rule takes effect in April 2027. Games are exempt for now, with separate guidance for game logins coming out sometime in 2027. Google has already cut the RAM in its Pixel 11 Pro lineup from 16GB to 12GB — a sign of how deeply the shortage has spread across the industry. Android 17 will also add a privacy feature that blocks internet carriers from tracking which sites and apps a device visits."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is patching a hole in its AI smart glasses. The workaround let people keep recording while covering the front LED. Alex Himel, Meta's vice president of augmented reality, wrote on Threads that “covering the light while recording now stops the camera.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "The recording light on the Ray-Ban Meta second generation"
+        },
+        {
+          "t": "p",
+          "x": "Meta smart glasses already turned off the built-in camera if you covered the recording light. The light blinks to tell people nearby that recording or capturing is underway. But some wearers found that covering the LED after recording had already started let them get around the restriction. This fix comes just over a month after Meta made physically touching the light turn the camera off."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Capture-LED-Education-Campaign-Los-Angeles-Billboard.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "The outdoor ad Meta put up in Los Angeles"
+        },
+        {
+          "t": "p",
+          "x": "Himel said Meta will “keep shipping updates like this so the capture LED reliably tells people around you the moment something lands in someone's camera roll — photo or video.” “Very few people are trying to get around the safeguard, and the fact that they have to go to such lengths is itself proof that our effort is working.”"
+        },
+        {
+          "t": "p",
+          "x": "Meta's smart glasses have drawn privacy and harassment controversy. Some wearers filmed others without consent, or recorded social-media “prank” videos targeting strangers on the street. Combined with reports that Meta plans to add facial recognition, that fueled an opposition campaign against the glasses that spread worldwide."
+        },
+        {
+          "t": "p",
+          "x": "Meta is now moving to publicize the recording LED instead. Meta spokesperson Albert Aydin told The Verge the company has launched its own “awareness” campaign in regions where the glasses have sold well. A billboard in Los Angeles shows the smart glasses alongside the line “The camera captures the moment. The light lets everyone around know it happened.” A video Meta released also says the recording LED “lets you know when the glasses are capturing photos and video” and that “no light, no capture.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you measure a robot's success by cuteness, Microduck is the best thing to come along in a while. Pollen Robotics unveiled it this week — a division of the AI company Hugging Face, yes, that Hugging Face. It's a 25-centimeter-tall educational robot that arrives with movement, balance, and personality already built in."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg",
+          "cap": "Microduck, unveiled by Pollen Robotics"
+        },
+        {
+          "t": "p",
+          "x": "Preorders opened on August 27 at a price of $399 — an introductory rate. It's a fully assembled, duck-shaped robot weighing about 1.7 pounds, with a mouth that doubles as a gripper and a voice like a duck's quack. It has 15 degrees of freedom. Motors let it walk, waddle, and turn its head, and two IMUs help it keep from falling over when pushed."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m2MWnWGSUJLedEqgszrUNU-1200-80.jpg",
+          "cap": "The 25-centimeter robot whose mouth doubles as a gripper"
+        },
+        {
+          "t": "p",
+          "x": "A single-eye camera paired with lidar scans its surroundings, and may even recognize its owner. Camera resolution hasn't been disclosed yet. It has a speaker for its voice and a microphone for listening. Its brain is a low-power Rockchip RK3566 ARM chip with 1GB of RAM and 32GB of storage. It has Wi-Fi, Bluetooth, and NFC, and a small 2600mAh battery that runs for about an hour."
+        },
+        {
+          "t": "p",
+          "x": "The specs aren't impressive. Even so, the robot in the teaser video is hard to look away from, especially the moments where it gets up on its own after falling or being pushed. Many of its movements are pre-loaded, but a good deal of the cuteness comes from the open-source platform and whatever users program themselves. The kit comes with a virtual training environment, learning scripts, tools, and an SDK with a “proven sim-to-real workflow.” It is, after all, an educational robot."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VyD9E93UUdFXfySmMnCaPU-1200-80.jpg",
+          "cap": "A pose reminiscent of Disney's BDX droids"
+        },
+        {
+          "t": "p",
+          "x": "It resembles the BDX droids from Disney and Star Wars. Both stand on two legs, keep a low posture, and have a big head. That's where the resemblance ends. The BDX droids, which move via semi-autonomy and remote control, are much larger and far more expensive, and for now only roam inside Disney World. There are no plans for a consumer release."
+        },
+        {
+          "t": "p",
+          "x": "The $399 price covers the basic package. Sold separately are a $39 charging pack, a $119 dev pack with spare motors, cables, and a battery, and an accessory pack with a laser pointer, roller skates Microduck can wear and ride on, and ten NFC tags. Microduck is Pollen Robotics' second educational robot. The first, Reachy Mini, was more of a desktop companion, and the company says it has sold 10,000 units."
+        },
+        {
+          "t": "p",
+          "x": "The question is how much of that charm shows up the moment you open the box, and how much coding you'll have to do yourself. You can remote-control it with a game controller, so faking it at first is an option. The real fun starts once the robot begins responding in unexpected ways. What's left to see is how many people will pay close to $400 for a semi-autonomous plastic duck robot. Shipping is set for before Christmas, in four colors: cream, graphite, lavender, and sky."
+        }
+      ]
+    },
+    "gadgets/gadgets-plaud-one": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last year I made a flat statement: there's no reason to invent a new AI wearable, because the best wearable is something you already own. I mean headphones — the thing most of us have used for decades."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Comp_Export.jpg",
+          "cap": "Plaud's latest wearable, the Plaud One"
+        },
+        {
+          "t": "p",
+          "x": "Plaud, often called the biggest AI note-taking company in the world, seems to think the same way. It has packed what counts as industry-leading agentic AI into a pair of headphones. The reveal comes just before IFA 2026 in Berlin next week, where I'll see these headphones in person for the first time."
+        },
+        {
+          "t": "p",
+          "x": "At a glance, it doesn't look different from any other earbuds — a sleek, unassuming design in off-white. How it fits and how it sounds are things I want to check alongside its AI performance."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Hero-image-02.png",
+          "cap": "The Plaud One, which looks no different from any other earbuds"
+        },
+        {
+          "t": "p",
+          "x": "Plaud is known for a wallet-thin device that sticks discreetly to the back of a phone, and a pin you clip to clothing. Both are hardware gateways into the company's real weapon: its agentic AI and software platform. The Plaud One headphones carry the same software."
+        },
+        {
+          "t": "p",
+          "x": "These headphones capture and upload conversations and calls happening nearby. They use 4G LTE through a built-in eSIM. It's good practice to tell others you're using a recording device, and in some U.S. states, recording a call without the consent of everyone involved can be illegal."
+        },
+        {
+          "t": "p",
+          "x": "Plaud's software automatically transcribes meetings and turns that record into summaries, follow-up actions, or reports. The agent connects directly to tools you're likely already using, like Google, Gmail, Slack, and Notion."
+        },
+        {
+          "t": "p",
+          "x": "Plaud co-founder and CEO Nathan Xu said, “AI agents only become useful once they understand the context in which human intent is formed.” “That context lives in conversation.”"
+        },
+        {
+          "t": "p",
+          "x": "The bonus with the Plaud One is two-way conversation. You can talk to the agent directly to ask something or give it instructions — something earlier Plaud devices couldn't do. To wake it, you either say “Hey Plaud” while wearing the earbuds, or press and hold the agent button on the case."
+        },
+        {
+          "t": "p",
+          "x": "The Plaud One Explorer Edition is now available for preorder at £229 ($311). It comes with £150 ($204) worth of Plaud credits. Shipping begins later this fall."
+        }
+      ]
+    },
+    "gadgets/gadgets-whoop-meridian": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Whoop's wearables are designed to scrape up as much data as possible — the company even built a separate battery that charges the device without taking it off. What held it back for a long time was how it looked. Even though it was less flashy than an Apple Watch, it still looked like a device, specifically a fitness device. Whoop's answer is the $149 Meridian band — a new body for its fifth-generation sensor, aiming for a look closer to jewelry."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1200x675.jpg",
+          "cap": "Whoop's new Meridian band"
+        },
+        {
+          "t": "p",
+          "x": "Meridian comes in four finishes: gold, silver, matte black, and rose gold. The material is titanium, prized by today's premium wearables for being tough and long-lasting. Like Whoop's fabric bands, it's adjustable in length, and the top carries the company's “W.” What catches the eye first is the Milanese mesh — the style Apple sells as its “Milanese Loop” for smartwatches, a weave known to wearable fans, made by interlacing metal threads one by one in an old watch-strap style. It's more flexible than a link bracelet while matching it in refinement."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1.jpg",
+          "cap": "The Milanese mesh structure, woven from metal thread"
+        },
+        {
+          "t": "p",
+          "x": "The new band fits the Whoop 5.0 and Whoop MG, and can be added to an order when starting a new subscription. Meridian makes sense in that it lets you wear Whoop's sensor comfortably even outside the gym. It's also a way to raise the cost of wearing Whoop. Whoop sells its wearables only as a subscription — the device stops working the moment you stop paying. That tight subscription structure is what makes the $99 Fitbit Ace or the $200 Garmin Cirqa stand out. Both screen-free devices improve with a subscription, but they also work without one."
+        },
+        {
+          "t": "p",
+          "x": "Whoop's plans come in several tiers. The cheapest is $199 a year. You can get a discount by trading in another company's wearable, or offset the cost with FSA or HSA funds. Even so, staying on long enough means spending more than you would on a competitor's product — though that may not matter much to someone who'd buy the Meridian band in the first place."
+        }
+      ]
     }
   }
 }

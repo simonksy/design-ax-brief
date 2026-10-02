@@ -3498,6 +3498,151 @@
           "x": "Unlike most AI tools, Theia isn't instant, because everything is verified by a person. “We return about 75% of the parts we handle within a day,” Manning said. “Our view is this: it will take longer, but we'll deliver it at much higher quality, and maybe at a higher price.”"
         }
       ]
+    },
+    "design/design-fusion-forward": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Most Fusion Forward judges look at what's possible with Autodesk's tools. Luke Mihelcic is one of the people who made those tools. As Autodesk's head of product marketing, he has moved in turn through roles as an educator, application engineer, technical marketer and product marketer. He knows firsthand where Fusion's tools sit in the journey that carries a design idea from concept to physical object. That's a rare vantage point on a judging panel."
+        },
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/1847503_4_145176_hs9BXPIRS.png",
+          "cap": "Luke Mihelcic, Senior Manager, Product & Technical Marketing, Autodesk"
+        },
+        {
+          "t": "p",
+          "x": "That background shapes how he judges. Having spent decades where design and engineering skills overlap, he looks at creativity, technical execution, usability and real-world impact through an industry lens. He judges not whether a concept looks plausible, but whether it holds up."
+        },
+        {
+          "t": "p",
+          "x": "Asked what excites him most these days, he points to possibility itself. “As technology, design tools, AI, simulation, manufacturing and collaboration advance, doors that simply didn't exist before are opening. Problems that once felt too complex or out of reach are coming within new kinds of reach.” For him, that expanding range of what can be imagined and realized is the most thrilling part of design."
+        },
+        {
+          "t": "p",
+          "x": "His optimism comes with a caveat. What worries him isn't AI as a tool, but what happens when designers lean on it too much. “We might start outsourcing too much of our creativity and critical thinking to AI. Design isn't just about making something fast and beautiful. It's about judgment, context, empathy, taste, curiosity, and the ability to understand why something needs to exist in the first place.”"
+        },
+        {
+          "t": "p",
+          "x": "He makes clear the worry isn't the technology itself. “It's complacency — letting convenience replace curiosity, and automation replace intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "His advice to anyone preparing an entry doubles as what he'll be looking for. “Design for possibility, not novelty. The best work won't stop at layering on technology or making an interesting shape. It will show how thoughtful design, an understanding of materials, and computational tools can make everyday life at home easier, more beautiful and more sustainable.”"
+        },
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/1847513_4_145176_4R8IMPt_d.jpg",
+          "cap": "Fusion Forward: Design for Home competition"
+        },
+        {
+          "t": "p",
+          "x": "Fusion Forward: Design for Home is now open for entries. There are three categories, with total prize money of $9,750. The deadline is September 28."
+        },
+        {
+          "t": "p",
+          "x": "Source: Core77 — Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition, 2026-08-27."
+        }
+      ]
+    },
+    "design/design-photoshop-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
+          "cap": "The AI Assisted Editor, released in beta"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has rolled out a Photoshop update. Built around choice and control, it places precision tools on one side and prompt-based editing on the other. The headline additions are new Light Adjustment Layers, Firefly-powered Instruct Edit with Masks, and the AI Assisted Editor, which arrives in beta."
+        },
+        {
+          "t": "p",
+          "x": "Deepa Subramaniam, vice president of product marketing for Creative Professional, said in the announcement: “Whether you're refining details with precision tools or exploring ideas with prompts, this update makes you more efficient and confident in your work. You can stay focused on your creative vision from start to finish.”"
+        },
+        {
+          "t": "p",
+          "x": "Light Adjustment Layers move professional-grade lighting controls — exposure, contrast, highlights, shadows, whites and blacks — into a new non-destructive adjustment layer. It delivers Camera Raw-level results without leaving the layer workflow."
+        },
+        {
+          "t": "p",
+          "x": "Instruct Edit with Masks runs on Firefly Image 5. Because it reads the full context of the image, you don't have to mark exactly where to fix something. You can simply write out the edit you want, such as opening closed eyes or putting a hat on a specific person's head. Areas left unmasked stay untouched, so faces, logos and brand assets remain intact. A new markup feature lets you draw directly on the image to show the model your intent — selecting an area to recolor, drawing an arrow to indicate placement, or roughly sketching a new element to add. It cuts down on the ambiguity that text-only instructions can leave behind."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
+          "cap": "Instruct Edit used together with masks"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text, Shapes and Paths extends Photoshop's Dynamic Text to any custom shape or path, letting text flow automatically along curves or free-form layouts. Stock panel integration brings more than 900 million Adobe Stock assets into Photoshop through a dockable panel."
+        },
+        {
+          "t": "p",
+          "x": "The beta AI Assisted Editor is an optional dedicated interface with a natural-language prompt bar. It comes bundled with generative tools powered by leading AI models: Prompt to Edit, Remove Background, Generative Expand, Remove tool, Generative Fill, Generative Upscale, and AI Markup."
+        },
+        {
+          "t": "p",
+          "x": "For those who stay in the Pro Editor, Prompt to Edit has also been added to the Contextual Task Bar. It changes the entire image using only a text prompt, with no selection required. Every result stacks into the layer stack as a generative layer, keeping edits organized and non-destructive."
+        },
+        {
+          "t": "p",
+          "x": "The update is available in Photoshop now."
+        },
+        {
+          "t": "p",
+          "x": "Source: Animation World Network — Adobe Unveils New Photoshop AI Tools, Dan Sarto, 2026-08-27."
+        }
+      ]
+    },
+    "design/design-system-control-plane": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In AI-assisted dev environments, frontend code comes fast. Ask for a form, a dashboard widget, a settings page, or a modal flow, and a working draft comes back in seconds."
+        },
+        {
+          "t": "img",
+          "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg",
+          "cap": "O'Reilly Radar — the design system as the control plane for AI-generated UI"
+        },
+        {
+          "t": "p",
+          "x": "The problem speed creates isn't obvious at first. When every AI-built feature brings its own components, styles, interaction patterns, and accessibility judgment calls, the frontend drifts apart fast: forms that handle errors differently, modals that move differently, buttons that look roughly alike but behave differently. Small differences pile up and get expensive."
+        },
+        {
+          "t": "p",
+          "x": "Author Niharika P. Pujari reframes the design system's role here. Beyond a device for keeping visual consistency, it becomes the control plane for generated UI — the layer that decides how interfaces get built, which patterns are allowed, and which decisions don't need to be reinvented every time. Accessibility, interaction behavior, content guidelines, component boundaries, and safe defaults are all encoded there."
+        },
+        {
+          "t": "p",
+          "x": "An agent given the prompt “build me a filter panel” satisfies only the request in front of it. The result may run fine on its own, but it drifts from how the rest of the product handles filtering, validation, loading states, and keyboard behavior. The question to ask isn't “can AI build a working dropdown,” but “should this feature use the existing dropdown pattern, and does that pattern already handle the behavior it needs.”"
+        },
+        {
+          "t": "p",
+          "x": "A component library alone isn't enough. A button isn't a styled element — it's a bundle of decisions about hierarchy, state, labeling, disabled behavior, loading behavior, and focus visibility. A modal carries decisions about focus movement, escape behavior, headings, accessible names, and whether the background can be interacted with. If these rules only live in people's heads, AI has no way to know them."
+        },
+        {
+          "t": "p",
+          "x": "Writing the rules out in every prompt doesn't hold up over time. Someone forgets, someone writes it too short. Whether it's CLAUDE.md or an agent's startup file, design system rules need to sit in the agent's standing project context — known before any feature code gets written."
+        },
+        {
+          "t": "p",
+          "x": "Review changes weight, too. If an approved modal component was used, focus handling doesn't need to be litigated from scratch every time. The question shifts from “did the generated code invent this pattern correctly” to “was the right pattern used correctly.”"
+        },
+        {
+          "t": "p",
+          "x": "The hard part isn't the technology — it's discipline. The right path has to be easier than the wrong one. That doesn't mean blocking every new pattern, but a new pattern has to be intentional, has to go through review, and if it's reusable, has to make its way back into the system. Without that discipline, near-standard components pile up — things that look like the system but behave differently, and are harder to clean up than code that's openly custom."
+        },
+        {
+          "t": "p",
+          "x": "The frontend engineer's job shifts toward architecture: defining component APIs, documenting patterns, setting accessibility standards, writing agent guidelines, and reviewing generated code. AI can produce code fast, but it can't decide on its own what frontend system it should have. Pujari closes on this note: the future of AI-assisted frontend development won't be decided by better prompts alone. It will be decided by the system those prompts run against."
+        },
+        {
+          "t": "p",
+          "x": "Source: O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari, 2026-08-25."
+        }
+      ]
     }
   }
 }

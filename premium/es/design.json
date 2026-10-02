@@ -3400,6 +3400,105 @@
           "x": "Funciona en Blender 4.2 y versiones posteriores, en Windows, Linux y macOS. Cuesta 15 dólares."
         }
       ]
+    },
+    "design/design-photoshop-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
+          "cap": "El AI Assisted Editor, presentado en beta"
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha lanzado una actualización de Photoshop. Construida en torno a la elección y el control, coloca herramientas de precisión en un lado y edición por prompt en el otro. Las novedades principales son las nuevas Light Adjustment Layers, Instruct Edit with Masks basado en Firefly, y el AI Assisted Editor, que llega en beta."
+        },
+        {
+          "t": "p",
+          "x": "Deepa Subramaniam, vicepresidenta de marketing de producto para Creative Professional, dijo en el anuncio: “Ya sea que estén perfeccionando detalles con herramientas de precisión o explorando ideas con prompts, esta actualización les permite trabajar con más eficiencia y confianza. Pueden mantenerse concentrados en su visión creativa de principio a fin.”"
+        },
+        {
+          "t": "p",
+          "x": "Light Adjustment Layers traslada controles de iluminación de nivel profesional —exposición, contraste, luces, sombras, blancos y negros— a una nueva capa de ajuste no destructiva. Ofrece resultados de nivel Camera Raw sin salir del flujo de trabajo por capas."
+        },
+        {
+          "t": "p",
+          "x": "Instruct Edit with Masks funciona con Firefly Image 5. Como lee el contexto completo de la imagen, no es necesario marcar con exactitud dónde corregir algo. Basta con escribir la edición deseada, como abrir unos ojos cerrados o poner un sombrero en la cabeza de una persona concreta. Las áreas sin máscara no se tocan, por lo que las caras, los logotipos y los recursos de marca permanecen intactos. Una nueva función de marcado permite dibujar directamente sobre la imagen para mostrarle al modelo la intención: seleccionar un área para cambiar de color, dibujar una flecha para indicar la ubicación, o esbozar a grandes rasgos un elemento nuevo que añadir. Esto reduce la ambigüedad que puede dejar una instrucción solo de texto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
+          "cap": "Instruct Edit usado junto con máscaras"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text, Shapes and Paths extiende el Dynamic Text de Photoshop a cualquier forma o trazado personalizado, haciendo que el texto fluya automáticamente por curvas o diseños libres. La integración del panel de Stock incorpora a Photoshop más de 900 millones de recursos de Adobe Stock a través de un panel acoplable."
+        },
+        {
+          "t": "p",
+          "x": "El AI Assisted Editor, en beta, es una interfaz dedicada y opcional con una barra de prompts en lenguaje natural. Viene con herramientas generativas impulsadas por los principales modelos de IA: Prompt to Edit, Remove Background, Generative Expand, la herramienta Remove, Generative Fill, Generative Upscale y AI Markup."
+        },
+        {
+          "t": "p",
+          "x": "Para quienes permanecen en el Editor Pro, Prompt to Edit también se ha añadido a la Barra de Tareas Contextual. Cambia toda la imagen usando solo un prompt de texto, sin necesidad de selección. Todos los resultados se apilan en la pila de capas como una capa generativa, de modo que la edición queda organizada y no destructiva."
+        },
+        {
+          "t": "p",
+          "x": "La actualización ya está disponible en Photoshop."
+        },
+        {
+          "t": "p",
+          "x": "Fuente: Animation World Network — Adobe Unveils New Photoshop AI Tools, Dan Sarto, 2026-08-27."
+        }
+      ]
+    },
+    "design/design-system-control-plane": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En entornos de desarrollo asistidos por IA, el código de frontend aparece muy rápido. Se pide un formulario, un widget de panel, una página de configuración o un flujo modal, y en segundos llega un borrador que funciona."
+        },
+        {
+          "t": "img",
+          "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg",
+          "cap": "O'Reilly Radar — el sistema de diseño como plano de control para UI generada por IA"
+        },
+        {
+          "t": "p",
+          "x": "El problema que crea la velocidad no se ve al principio. Cuando cada función construida por IA trae sus propios componentes, estilos, patrones de interacción y decisiones de accesibilidad, el frontend se desalinea enseguida: formularios que manejan los errores de forma distinta, modales que se mueven de forma distinta, botones que se ven parecidos pero se comportan diferente. Las pequeñas diferencias se acumulan y salen caras."
+        },
+        {
+          "t": "p",
+          "x": "La autora Niharika P. Pujari redefine aquí el lugar del sistema de diseño. Más allá de un mecanismo para mantener la coherencia visual, se convierte en el plano de control de la interfaz generada: la capa que decide cómo se construyen las interfaces, qué patrones se permiten y qué decisiones no hace falta reinventar cada vez. La accesibilidad, el comportamiento de interacción, las guías de contenido, los límites de los componentes y los valores predeterminados seguros quedan fijados ahí."
+        },
+        {
+          "t": "p",
+          "x": "Un agente que recibe el prompt “hazme un panel de filtros” solo satisface la petición que tiene delante. El resultado puede funcionar por sí solo, pero se desalinea de cómo el resto del producto maneja el filtrado, la validación, los estados de carga y el comportamiento del teclado. La pregunta que hay que hacerse no es “¿puede la IA construir un desplegable que funcione?”, sino “¿debería esta función usar el patrón de desplegable existente, y ese patrón ya maneja el comportamiento necesario?”."
+        },
+        {
+          "t": "p",
+          "x": "Una biblioteca de componentes no basta por sí sola. Un botón no es un elemento con estilo; es un conjunto de decisiones sobre jerarquía, estado, etiquetado, comportamiento deshabilitado, comportamiento de carga y visibilidad del foco. Un modal lleva consigo decisiones sobre el movimiento del foco, el comportamiento de la tecla escape, los encabezados, los nombres accesibles y si se puede interactuar con el fondo. Si estas reglas solo existen en la cabeza de las personas, la IA no tiene forma de conocerlas."
+        },
+        {
+          "t": "p",
+          "x": "Escribir las reglas de nuevo en cada prompt no se sostiene con el tiempo. Alguien las olvida, alguien las escribe demasiado breves. Ya sea en un CLAUDE.md o en el archivo de inicio del agente, las reglas del sistema de diseño deben formar parte del contexto permanente del proyecto para el agente, es decir, deben conocerse antes de escribir el código de cualquier función."
+        },
+        {
+          "t": "p",
+          "x": "El peso de la revisión también cambia. Si se usó un componente modal aprobado, no hace falta discutir el manejo del foco desde cero cada vez. La pregunta pasa de “¿el código generado inventó bien este patrón?” a “¿se usó el patrón correcto de la forma correcta?”."
+        },
+        {
+          "t": "p",
+          "x": "Lo difícil no es la tecnología, es la disciplina. El camino correcto tiene que ser más fácil que el incorrecto. Esto no significa bloquear todo patrón nuevo, pero un patrón nuevo debe ser intencional, debe pasar por revisión y, si es reutilizable, debe volver al sistema. Sin esa disciplina, se acumulan componentes casi estándar que parecen el sistema pero se comportan de otra manera, más difíciles de limpiar que el código abiertamente a medida."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo del ingeniero de frontend se desplaza hacia la arquitectura: definir las API de los componentes, documentar patrones, establecer estándares de accesibilidad, escribir directrices para agentes y revisar el código generado. La IA puede producir código rápido, pero no puede decidir por sí sola qué sistema de frontend debería tener. Pujari cierra con esta idea: el futuro del desarrollo de frontend asistido por IA no lo decidirán solo mejores prompts. Lo decidirá el sistema sobre el que esos prompts funcionan."
+        },
+        {
+          "t": "p",
+          "x": "Fuente: O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari, 2026-08-25."
+        }
+      ]
     }
   }
 }

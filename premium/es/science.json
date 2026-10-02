@@ -2865,6 +2865,149 @@
           "x": "Barrett y Miller piden abandonar el modelo en el que las categorías se guardan como documentos archivados en un gabinete llamado cerebro. La categorización, sostienen, no es tarea de ninguna región específica, sino un principio organizador que recorre todo el sistema nervioso."
         }
       ]
+    },
+    "science/science-aintibody": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-new-antibod-1.jpg",
+          "cap": "Esquema del método ganador, AuraBind (Aureka). Usa un pairformer que lee la estructura y Direct Preference Optimization (DPO) para explorar el paisaje de aptitud. Fuente: Nature Biotechnology (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigadores de UTHealth Houston, que compitió como el equipo Novamab AI, quedó entre los cinco primeros en el AIntibody Challenge internacional. Fue un referente prospectivo a ciegas, y los resultados se publicaron en Nature Biotechnology."
+        },
+        {
+          "t": "p",
+          "x": "El artículo se titula “A blinded, prospective benchmark of in-silico antibody discovery anchored to experimental affinity and developability”. Evaluó plataformas de inteligencia artificial que diseñan anticuerpos terapéuticos mediante síntesis de laboratorio y caracterización experimental."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque fue distinto al de los referentes computacionales retrospectivos, que puntúan modelos frente a conjuntos de datos históricos. El AIntibody Challenge exigió a los equipos participantes diseñar secuencias de anticuerpos completamente nuevas. Los diseños enviados fueron sintetizados de forma independiente por un tercero, y se midieron experimentalmente la afinidad de unión y la “developability” (facilidad de desarrollo), las propiedades fisicoquímicas que debe tener un candidato clínico."
+        },
+        {
+          "t": "p",
+          "x": "Novamab AI ajustó un modelo de lenguaje de proteínas con datos de preferencia experimentales. En vez de confiar solo en puntuaciones teóricas de secuencia, optó por priorizar candidatos cuya actividad biológica y developability estuvieran confirmadas experimentalmente."
+        },
+        {
+          "t": "p",
+          "x": "Este referente internacional reunió a 166 participantes de universidades y empresas de biotecnología líderes en todo el mundo, que enviaron 527 propuestas. En la categoría de espacio de secuencias (sequence-space) en la que compitió Novamab AI se evaluaron 58 propuestas de instituciones de investigación, y quedó entre las cinco primeras. El experimento confirmó de forma independiente que el aprendizaje automático puede señalar candidatos terapéuticos viables antes de entrar en un cribado de laboratorio costoso."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Bradbury (MD, Ph.D.), quien dirigió el AIntibody Challenge internacional, dijo: “El AIntibody Challenge se creó para ofrecer la primera evaluación rigurosa y prospectiva, verificada de forma independiente por terceros, de si la inteligencia artificial mejora el descubrimiento de anticuerpos. Construido sobre una canalización real de descubrimiento de anticuerpos in vitro, enfrentó las predicciones y diseños de IA en condiciones experimentales a ciegas, ofreciendo un estándar objetivo para juzgar cuán eficaz es la IA en el descubrimiento de anticuerpos. Esto acelerará el ritmo al que surgirán enfoques de IA más fiables y eficaces en el descubrimiento de fármacos.”"
+        },
+        {
+          "t": "p",
+          "x": "Información del artículo — M. Frank Erasmus et al, A blinded, prospective benchmark of in silico antibody discovery anchored to experimental affinity and developability, Nature Biotechnology (2026). DOI: 10.1038/s41587-026-03238-6"
+        }
+      ]
+    },
+    "science/science-crysvcd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-Valence-01-press.jpg",
+          "cap": "“Tanto los modelos de difusión actuales como los que vengan después, los insertamos donde sea que no salgan suficientes materiales estables, para elevar la estabilidad”, dice Mingda Li. Imagen: MIT News; iStock"
+        },
+        {
+          "t": "p",
+          "x": "Hoy en día, con un modelo de IA suficientemente grande, cualquiera puede generar millones de diseños de nuevos materiales en pocos minutos. Pero el número de materiales nuevos capaces de mejorar el rendimiento de chips de computadora o cohetes no ha crecido tanto."
+        },
+        {
+          "t": "p",
+          "x": "Una de las causas es que los modelos actuales no evalúan bien la estabilidad química de los materiales que generan. Un material inestable no sirve en la práctica. Como resultado, la industria gasta enormes presupuestos de cómputo filtrando lo inestable de la avalancha de diseños, y en algunos casos solo sobrevive una fracción mínima."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores del MIT presentaron un marco que se coloca al principio del proceso de generación. Mantiene las propiedades buscadas mientras eleva mucho la proporción de resultados estables. Antes de la costosa etapa de generación, obliga a que todo diseño cumpla las reglas centrales de la química relacionadas con los electrones alrededor de los átomos. El equipo lo llama Generador de Cristales con Diseño Restringido por Valencia, o CrysVCD por sus siglas."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado el día 26 en Nature Computational Science, los investigadores informaron que, gracias a CrysVCD, varios modelos de materiales muy utilizados respetaron con más frecuencia las reglas de capa de valencia. La estabilidad dinámica de red, una prueba exigente, se logró en cerca del 70% de los resultados generados computacionalmente. También fue posible diseñar materiales con propiedades deseadas, como alta conductividad térmica o una constante dieléctrica elevada."
+        },
+        {
+          "t": "p",
+          "x": "“Si el modelo generativo de materiales es el DVD, nosotros somos el reproductor de DVD”, dice Mingda Li, profesor asociado de ciencia e ingeniería nuclear."
+        },
+        {
+          "t": "p",
+          "x": "“Generar la estructura de un material en sí mismo se está volviendo más fácil”, dice Mouyang Cheng. “El problema es la validación, sobre todo probar la estabilidad. El costo computacional es enorme: representa alrededor del 90% del costo de cómputo necesario para producir un material utilizable, y puede tardar semanas o meses.”"
+        },
+        {
+          "t": "p",
+          "x": "“Ejecutar un modelo y luego seleccionar los resultados estables es ineficiente y computacionalmente costoso”, explica Heather Kulik. “Pero colocar un modelo de lenguaje al frente del proceso para restringir la generación eleva mucho la proporción de materiales estables que se obtienen.”"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores combinaron un modelo de difusión con un modelo de lenguaje. En la primera etapa, el modelo de lenguaje produce una fórmula químicamente válida; en la segunda, el modelo de difusión construye la estructura atómica del material cristalino a partir de esa fórmula. Un proceso de difusión típico para generar materiales toma unos 1.000 pasos por material y es lento, pero al colocar este modelo al frente se reduce a unos cinco pasos, explican los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento quedó reflejado en cifras. Comparado con un enfoque de generar y luego filtrar, produjo materiales estables unas diez veces más eficientemente. Al afinarlo con métricas de estabilidad, alcanzó un 68% de estabilidad mecánica y un 85% de metaestabilidad. La metaestabilidad mide si un material permanece en un estado estable cuando no se lo perturba."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también usaron este enfoque para generar materiales candidatos con alta conductividad térmica que se polarizan fácilmente bajo un campo eléctrico. “Los materiales útiles para la industria de semiconductores, y los de alta conductividad térmica, están directamente relacionados con la refrigeración de centros de datos”, dice Ju Li, señalando que el uso de energía de esa industria ha crecido mucho, y que alrededor del 30% se destina a la refrigeración."
+        },
+        {
+          "t": "p",
+          "x": "El método no funciona para todos los materiales. Rinde mejor en estructuras sólidas con un arreglo interno bien ordenado. “No solo generamos materiales estables: también priorizamos el rendimiento”, dice Cheng. Con dos objetivos a la vez, es un campo en el que superar el 50% en cualquiera de los dos ya resulta difícil."
+        }
+      ]
+    },
+    "science/science-hydrogym": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hydrogym-trains-assess.jpg",
+          "cap": "Resumen del aprendizaje por transferencia basado en conocimiento físico. Fuente: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigación internacional formado por la Universidad de Washington, la Facultad de Ingeniería de la Universidad de Michigan, la RWTH de Aquisgrán y la Universidad Técnica de Múnich ha presentado HydroGym, una plataforma para entrenar y comparar modelos de aprendizaje automático que controlan activamente el flujo de fluidos."
+        },
+        {
+          "t": "p",
+          "x": "La dinámica de fluidos tiene un muro desde hace mucho tiempo. Hay tantas variables que calcular directamente cómo se moverá un fluido en situaciones realistas resulta imposible. HydroGym rodea ese muro con aprendizaje por refuerzo, el mismo enfoque que ya ha transformado el plegamiento de proteínas y la fusión nuclear, para entrenar agentes de IA que alteran activamente el flujo sobre una superficie."
+        },
+        {
+          "t": "p",
+          "x": "“El flujo de fluidos está en el centro de varias industrias de billones de dólares, entre ellas la energía, el transporte, la salud y la defensa”, dice Steven Brunton, autor principal correspondiente y catedrático Boeing de ingeniería basada en IA y datos en la Universidad de Washington. “Entender y controlar mejor este flujo tendría un impacto enorme tanto en la economía como en la ecología.”"
+        },
+        {
+          "t": "p",
+          "x": "Una de las claves de HydroGym es que incorpora conocimiento físico en el proceso de entrenamiento. Este enfoque basado en la física redujo hasta en un 65% el ensayo y error necesario para optimizar las estrategias de control por aprendizaje por refuerzo."
+        },
+        {
+          "t": "p",
+          "x": "“Nos aleja de construir un controlador distinto para cada problema de flujo aislado, sin un marco común de comparación”, dice Christian Lagemann, primer autor y antiguo investigador postdoctoral en la Universidad de Washington. “Se puede estudiar cuánto se transfieren las estrategias de control entre geometrías y tipos de flujo distintos, y se puede entrenar en un entorno sustituto barato para luego probar en un escenario mucho más realista.”"
+        },
+        {
+          "t": "p",
+          "x": "El control activo que maneja la plataforma incluye deformación de forma, pequeños flaps, elementos giratorios y sistemas de chorro que cancelan o redirigen la turbulencia."
+        },
+        {
+          "t": "p",
+          "x": "La demostración comenzó con un canal perforado parecido a una mesa de air hockey. Entrenaron un modelo de aprendizaje automático para controlar el flujo de aire que entra y sale por los orificios mientras mantiene el equilibrio. Luego colocaron ese mismo controlador, sin cambios, en un escenario mucho más complejo: la sección transversal simulada de un ala de avión. Los resultados fueron claros: la fricción superficial del ala bajó un 38% y el arrastre total bajó un 11%. Entrenar en el entorno simple fue 100 veces más rápido y 10.000 veces más barato que entrenar directamente en el ala."
+        },
+        {
+          "t": "p",
+          "x": "“Uno de los hallazgos clave es la transferencia de cero disparos: aprender de una geometría simple, extraer la física central y luego aplicar ese modelo a una geometría mucho más compleja con un rendimiento de control muy alto”, dice Ricardo Vinuesa, coautor correspondiente y profesor asociado de ingeniería aeroespacial en la Universidad de Michigan. Si la transferencia de cero disparos funciona, abre el camino hacia un único modelo de dinámica de fluidos que trate tanto líquidos como gases, incluso con distintas intensidades de turbulencia y formas de superficie."
+        },
+        {
+          "t": "p",
+          "x": "HydroGym admite tanto arquitecturas de control centralizadas como distribuidas. En el enfoque distribuido, varios controladores se encargan cada uno de una zona de la superficie y se coordinan con sus vecinos, una estructura indispensable para superficies grandes demasiado exigentes de gestionar de forma centralizada."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de depender de conjuntos de datos históricos, genera datos de simulación sobre la marcha y ofrece varias estrategias de modelado físico, como lattice Boltzmann, volúmenes finitos, elementos espectrales y elementos finitos. Varios solvers, entre ellos JAX-Fluids, admiten diferenciación automática y se conectan directamente al bucle de entrenamiento. La plataforma incluye más de 60 entornos de prueba con distintas estrategias de control, superficies y condiciones de flujo, y su código y documentación están disponibles en GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Artículo — Christian Lagemann et al, Nature (2026). DOI: 10.1038/s41586-026-10917-6"
+        }
+      ]
     }
   }
 }

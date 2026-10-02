@@ -3036,6 +3036,199 @@
           "x": "A partir de la sección Speak To… que sigue, el acceso queda limitado a los suscriptores de Sound On Sound."
         }
       ]
+    },
+    "music/music-elevenmusic-composer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/elevenlabs-suno-rival-elevenmusic-launches-composer-song-editor.png"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs ha lanzado Composer, un editor de canciones por secciones que se integra en ElevenMusic, la plataforma de música generativa con IA que presentó a principios de este año."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida es libre: puedes traer tu propia letra o pista, empezar con una sola línea de prompt, o partir de una pantalla en blanco. A partir de ahí, se afina la pieza, sección por sección."
+        },
+        {
+          "t": "p",
+          "x": "“Ahora los artistas y creadores pueden reescribir un verso, cambiar el coro, ralentizar el puente y probar varias versiones, sin tocar las partes que ya funcionan”, dijo un portavoz de ElevenLabs."
+        },
+        {
+          "t": "p",
+          "x": "“En pocas palabras, esta herramienta permite corregir una canción como se corrige un documento.”"
+        },
+        {
+          "t": "p",
+          "x": "La propia empresa lo explica así: “La música rara vez queda terminada de una sola vez. Puede que te guste el verso pero quieras un coro distinto, o que la melodía esté bien pero haya que cambiar la letra.”"
+        },
+        {
+          "t": "p",
+          "x": "“Composer permite tratar esas decisiones por separado. Puedes editar y regenerar cada sección de una pista sin cambiar el resto, ajustando el estilo, el tempo, la energía, la instrumentación, la tonalidad y la duración de la sección en la que trabajas, mientras el resto queda en su lugar.”"
+        },
+        {
+          "t": "p",
+          "x": "La estructura general también queda al alcance. Se puede cambiar el puente, duplicar el coro, añadir un outro y reordenar las piezas sección por sección."
+        },
+        {
+          "t": "p",
+          "x": "La noticia llega tras superar ElevenLabs los 500 millones de dólares de ingresos anuales a principios de este año. Su ronda Serie D sumó como nuevos inversores a los actores Jamie Foxx y Eva Longoria, al director Hwang Dong-hyuk, creador de “El juego del calamar”, y a BlackRock, la mayor gestora de activos del mundo."
+        },
+        {
+          "t": "p",
+          "x": "Esto acerca a ElevenLabs a sus mayores rivales, Suno y Udio. La ronda de financiación se conoció por primera vez en febrero, con una valoración de 11.000 millones de dólares."
+        }
+      ]
+    },
+    "music/music-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los instrumentos virtuales sinfónicos se escuchan en series y, a veces, en bandas sonoras de grandes producciones. Su uso no se limita a eso. También aportan secciones de cuerda y viento en arreglos de hip-hop, rock y pop con presupuestos ajustados."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, estas herramientas tenían un costo. Son complejas de aprender y pesadas de ejecutar. Era habitual cargar varios terabytes de muestras mientras solo se usaban unas pocas articulaciones y posiciones de micrófono. El disco duro, la CPU y el límite de la tarjeta se derretían juntos."
+        },
+        {
+          "t": "p",
+          "x": "Dreamtonics completó su trilogía de instrumentos virtuales con Instrument X. Se presenta como una plataforma profesional de modelado acústico neuronal. Genera sonido dentro del DAW mediante síntesis neuronal y actuaciones de intérpretes con licencia ética. No usa ni una sola muestra."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/373d3ef9-05ba-4ac1-a5e3-2365d841643d/Inst+X-12.jpg",
+          "cap": "Dreamtonics Instrument X genera sonido sin usar muestras."
+        },
+        {
+          "t": "p",
+          "x": "El requisito es 8GB de RAM. Los paquetes de expansión de instrumentos llegan hasta 15, y ninguno supera los 150MB. Se ofrece como aplicación independiente y como plugin, con soporte para formatos estándar y ARA. Dreamtonics recomienda un modo de puente ARA que conecta una instancia ARA a una pista de audio con audio ficticio."
+        },
+        {
+          "t": "p",
+          "x": "Las articulaciones no tienen keyswitches. Cambian automáticamente según la altura y la duración, y la expresión apilada permite combinar técnicas especiales. Las retomas con IA permiten regenerar toda la secuencia o ajustar solo valores como la deriva tímbrica, la curva de tono y la intensidad dinámica."
+        },
+        {
+          "t": "video",
+          "yt": "ibqsm4RMBA0"
+        },
+        {
+          "t": "p",
+          "x": "El mezclador espacial procesa configuraciones de micrófono de 8 a 11 canales mediante acústica neuronal. Se puede elegir entre posiciones que van desde micrófonos cercanos hasta un árbol Decca o un par de sala ambiental. La espacialidad que usa no es reverberación algorítmica, sino un perfil acústico real que Dreamtonics capturó en un “estudio de grabación de alta gama” en Tokio."
+        },
+        {
+          "t": "p",
+          "x": "Recibe MusicXML y traslada el tempo, el compás, la articulación y la dinámica directamente a los datos de interpretación. También se conecta con Synthesizer V Studio 2 Pro y Vocoflex. Dicho esto, este artículo es contenido patrocinado de Production Expert. Es mejor juzgar escuchando uno mismo."
+        }
+      ]
+    },
+    "music/music-sonible-smartchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
+          "cap": "sonible smart:chain (foto cortesía de sonible)"
+        },
+        {
+          "t": "p",
+          "x": "En sonible smart:chain, la cadena de procesamiento extrae información de varias instancias dentro del DAW, lo que ofrece un nivel de control que antes no existía."
+        },
+        {
+          "t": "p",
+          "x": "La desarrolladora austríaca sonible es conocida por sus plugins de procesamiento asistido por IA para mezcla y mastering. Bajo Audiotonix, forma parte del mismo grupo que SSL y Harrison Audio, y recientemente ha colaborado en proyectos como el autoSeries de SSL."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez, sonible ha ampliado su línea insignia smart Series de plugins de procesamiento sensibles al contenido añadiendo smart:chain. Es un procesador de mezcla inteligente que funciona como varios nodos en todo el DAW. Reúne compresión, EQ, gating, saturación, gain riding, eliminación de siseo y auto nivelación en una sola pantalla, de forma sencilla, dejando en primer plano los elementos que importan en la mezcla."
+        },
+        {
+          "t": "video",
+          "yt": "GPF0SxiCxGc"
+        },
+        {
+          "t": "p",
+          "x": "Los plugins de tira de canal no son nada nuevo, pero smart:chain toma un enfoque distinto. En vez de que cada cadena de procesamiento funcione por su cuenta, las instancias del plugin se interconectan para fijar un punto de partida adecuado para cada módulo. También incluye un estratificado de profundidad inteligente, que empuja los elementos hacia adelante, el medio o el fondo de la mezcla para crear equilibrio, separación y profundidad."
+        },
+        {
+          "t": "p",
+          "x": "El Auto Leveling, que funciona en toda la sesión, también resulta útil. Lee las relaciones entre los elementos de la mezcla y fija una mezcla preliminar adecuada al estilo musical. Para ajustes canal por canal, hay un control de trim dedicado. Dentro de smart:chain se puede moverse entre canales individuales, gestionar grupos de canales y ajustar las instancias del plugin una por una desde una pantalla central de control de sesión."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-1024x565.jpg",
+          "cap": "sonible smart:chain (foto cortesía de sonible)"
+        },
+        {
+          "t": "p",
+          "x": "La competencia en este terreno también se ha vuelto interesante. El Instance List de FabFilter permite acceder rápidamente a todas las instancias de plugins dentro del DAW, pero sonible ha ido un paso más allá: en vez de que cada plugin procese por su cuenta, actúa sobre la mezcla en conjunto."
+        },
+        {
+          "t": "p",
+          "x": "El plugin sonible smart:chain está a la venta a un precio de lanzamiento de 99 euros (precio regular 179 euros) hasta el 28 de septiembre de 2026. También existe un crossgrade para quienes ya tienen plugins de la smart Series."
+        }
+      ]
+    },
+    "music/music-quad-cortex-coros": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mexQr39ddZwN2wbuJW49qV-1920-80.jpg",
+          "cap": "Neural DSP Quad Cortex (foto: Neural DSP)"
+        },
+        {
+          "t": "p",
+          "x": "Neural DSP lanzó su mayor actualización de CorOS hasta la fecha, añadiendo sonidos y funciones a Quad Cortex, su plataforma de modelado de amplificadores y multiefectos, y ampliando la compatibilidad con plugins de guitarra."
+        },
+        {
+          "t": "p",
+          "x": "CorOS 4.1.0 es gratuito tanto para usuarios de Quad Cortex como de Quad Cortex Mini. Hay mucho que explorar, pero lo más destacado son los ocho nuevos dispositivos virtuales."
+        },
+        {
+          "t": "p",
+          "x": "Incluyen el armonizador Multivoicer, el delay granular Glitch, Ring Modulator, Arpeggio Delay, Crystal Delay, Vintage Digital Reverb, y el compresor Douglas Shining junto con el EQ Plugin Parametric-4, ambos basados en el Hyper Luminal de Dark Glass Electronics."
+        },
+        {
+          "t": "p",
+          "x": "También ha crecido el número de plugins X que se pueden ejecutar de forma nativa en el dispositivo. Los paquetes Archetype de firma de Tim Henson, John Mayer, John Petrucci, Rabea Massaad y Misha Mansoor se añadieron a la lista de compatibilidad."
+        },
+        {
+          "t": "p",
+          "x": "También son nuevas las Dual Footswitch Assignments, que hacen que el Stomp Mode de Quad Cortex sea más práctico en el escenario. Cortex Control 4.1.0 tampoco es una actualización menor: permite controlar varios dispositivos a la vez desde un mismo ordenador, con cada unidad identificada por nombre para cambiar entre ellas sin tocar un cable."
+        },
+        {
+          "t": "video",
+          "yt": "NSDRgQ0qxz0"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iQHvCaTAZwGHbUv5usCMpb.jpg",
+          "cap": "Neural DSP Quad Cortex Mini"
+        },
+        {
+          "t": "p",
+          "x": "Puede que lo más interesante sea Device Presets. Permite guardar la configuración de cualquier dispositivo virtual de tu rig y llevarla a otro preset."
+        },
+        {
+          "t": "p",
+          "x": "Si tienes un amplificador de válvulas limpio de estilo boutique estadounidense bien ajustado en un preset, puedes extraerlo y cargarlo directamente en otro preset. Lo mismo ocurre con los gabinetes de altavoces virtuales, los drives, los efectos y las utilidades. Encontrar un nuevo tono de guitarra eléctrica se ha vuelto un poco más sencillo. CorOS 4.1.0 incluye 2.000 Device Presets de fábrica."
+        },
+        {
+          "t": "p",
+          "x": "Francisco Cresp, CPO y cofundador de Neural DSP, lo calificó como un “hito importante” para el ecosistema de Quad Cortex, que da “a los músicos más libertad para crear, experimentar y moverse entre software y hardware sin concesiones.”"
+        },
+        {
+          "t": "p",
+          "x": "Cortex Control 4.1.0 también recibió mejoras de flujo de trabajo. Junto con Device Presets, admite I/O Settings Presets y Global EQ Presets."
+        },
+        {
+          "t": "p",
+          "x": "El CEO y cofundador Douglas Castro dijo: “Cada versión de CorOS convierte a Quad Cortex en una plataforma creativa más potente. Esta actualización es la más grande que hemos lanzado, no solo por la cantidad de funciones nuevas, sino porque cambia de forma fundamental la rapidez con la que los músicos pueden crear sonidos, moverse entre dispositivos y llevar todo nuestro ecosistema de plugins a un flujo de trabajo de hardware.”"
+        },
+        {
+          "t": "p",
+          "x": "La actualización es gratuita."
+        }
+      ]
     }
   }
 }

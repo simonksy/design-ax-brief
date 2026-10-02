@@ -3098,6 +3098,392 @@
           "x": "The statement closes this way: “This looks like a case that exploits a structural weakness in streaming service platforms. Given past instances where unreleased, unofficial tracks were reproduced by ear and distributed, we're considering some form of response.”"
         }
       ]
+    },
+    "games/games-horii-slimey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+          "cap": "Dragon Quest 10. Image credit: Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Yuji Horii, creator of Dragon Quest, said he is a fan of AI. He said AI has advanced noticeably in recent years and now “barely makes things up.” The remark came when he was asked about the Gemini-based chatbot recently added to the series' MMO."
+        },
+        {
+          "t": "p",
+          "x": "The Dragon Quest series is considered one of the games with one of the earliest AI systems in gaming history. In 1990's Dragon Quest 4, players gave party members rough instructions and AI chose each character's actions. This latest AI addition has not been welcomed nearly as warmly."
+        },
+        {
+          "t": "p",
+          "x": "Dragon Quest 10, an MMO that runs only in Japan, recently released its seventh and final expansion, Lost Children of Time and Space, and opinions were split over a new feature in it: a companion called Oshaberi Slimey, literally “chatty slime,” the series' iconic blue slime wearing a jester's hat. Fans were disappointed to learn this Slimey runs on a Google Gemini-based chatbot."
+        },
+        {
+          "t": "p",
+          "x": "In an interview with Famitsu, carried by GamesRadar+, Horii explained why he added Slimey and shared his view of AI. “These days, AI is really smart, so it's fun,” he said. “No matter what you ask it, it barely makes things up now.”"
+        },
+        {
+          "t": "p",
+          "x": "AI often runs into trouble with factual accuracy, since it tends to give an answer even when it lacks the needed information. This game designer, synonymous with Square Enix, has had the same experience. “A while back I asked AI about myself, and it told me I was a 'Nintendo employee,'” he said, laughing."
+        },
+        {
+          "t": "p",
+          "x": "Still, he defended AI this way: “AI is evolving, and these days there's a lot you can do with it. Since Slimey is someone to talk to, I think it lowers the barrier to engaging with AI.”"
+        }
+      ]
+    },
+    "games/games-ironmace-aura": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "IRONMACE, maker of Dark and Darker, has shared how it used Aura. A designer with no technical background touched the game's codebase directly, prototyped a tutorial system, and worked with engineers, finishing in just a few weeks what the studio estimated would take 5-6 weeks."
+        },
+        {
+          "t": "video",
+          "yt": "au1qwSYq4vA"
+        },
+        {
+          "t": "p",
+          "x": "Using AI in game development goes well beyond generative art, and some studios are already testing new techniques outside the spotlight. For IRONMACE, that meant seeing whether a designer with little programming experience could directly contribute to implementing a major new feature with the AI coding assistant Aura."
+        },
+        {
+          "t": "p",
+          "x": "The test subject was something Dark and Darker notably lacked: a proper tutorial. Its absence had been explained away by the extraction dungeon crawler's “hardcore” identity, but the real obstacle was development resources. Building a tutorial would have meant pulling developers off urgent work to focus on new-player onboarding."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Image credit: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "In the words of IRONMACE CEO and co-founder Terence Park: “My background is in game design and production. I dabble in scripting and know data structures, but programming isn't my strength.” Normally, this would have meant assembling a dedicated team with staff for each role, more meetings, and managing an unwieldy pipeline."
+        },
+        {
+          "t": "p",
+          "x": "In practice, things stayed flexible. The initial meeting sketched out the idea, after which Park made the big decisions and filled in the detailed context with Aura. Once the team decided on a checkpoint-style tutorial, Park built each checkpoint together with Aura."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Image credit: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "They ran things through a collaboration chat room, uploading example assets to a repository instead of writing documents. Since team members worked across different time zones, Park would log on in his own time zone, use Aura to catch up on what was newly added, and immediately start building content. Leaving a desired feature in the group chat usually meant the new feature was there by the next day."
+        },
+        {
+          "t": "p",
+          "x": "For a few complex tutorial triggers that didn't get finished in time, Park had Aura write the code directly. The section of the tutorial where players learn to pick up bandages from a skeleton corpse was made that way."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Image credit: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "Verification and testing were still done by people inside the game editor. The UI widgets and logic connections Aura produced were usable, but artists handled the final polish."
+        },
+        {
+          "t": "p",
+          "x": "“I believe in it now,” is Park's conclusion. An engineer who didn't know the codebase well built a substantial part of the basic system, and work expected to take 5-6 weeks was finished in half that time thanks to Aura."
+        }
+      ]
+    },
+    "games/games-ludoai-keyframe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+          "cap": "Ludo AI's Keyframe Animation. Image credit: PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI has released Keyframe Animation, a tool that lets developers directly control AI-generated sprite animation, while also expanding its existing animation features covering both 2D and 3D assets."
+        },
+        {
+          "t": "p",
+          "x": "It works in the Ludo app, the API, and the MCP server. Developers set up to three key poses, and Ludo fills in the frames in between."
+        },
+        {
+          "t": "p",
+          "x": "One-click 3D rigging has also been added. It attaches an engine-ready skeleton to a model with no external software or manual work."
+        },
+        {
+          "t": "p",
+          "x": "Developers set the start, middle, and end poses. They can use their own images or Ludo's built-in pose generation feature. Once the keyframes are set, a text prompt is optional, since the poses drive the animation instead."
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI said it generates up to 64 frames and lets users adjust length, size, and resolution. It supports character sprites, visual effects, and UI assets, and loops seamlessly by default."
+        },
+        {
+          "t": "p",
+          "x": "Once a model is rigged, it can move using Ludo's library of ready-made motions. Users can also write out the motion they want in text to add custom motion. Custom animations come out in four variations, which can be previewed on the model before being exported as a single animation file."
+        },
+        {
+          "t": "p",
+          "x": "Jorge Carvalho Gomes, co-founder and CTO of Ludo.ai, said: “Anyone can make sprite animation with AI now. That part is basically solved. The hard part is getting the exact animation you had in your head.”"
+        },
+        {
+          "t": "p",
+          "x": "“With Keyframe Animation, you don't describe a motion and hope it comes out right. You set the exact poses the animation will pass through, and Ludo fills in the rest.”"
+        }
+      ]
+    },
+    "games/games-ryzachat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+          "cap": "Ryza in RyzaChat: AI. Image credit: Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "Koei Tecmo and Gust's Atelier series has exploded in popularity worldwide in recent years. Atelier Ryza's success and its heroine's design played a part; the team itself has admitted it made the character deliberately sensual to draw in more players. The developers moved on to other stories through several new titles without Ryza, but her popularity and look eventually made her the subject of Koei Tecmo's latest generative AI experiment: a plan to channel fans' parasocial feelings into a free-to-start AI chatbot RPG."
+        },
+        {
+          "t": "p",
+          "x": "With more than half of Japanese game companies already experimenting with AI, it's not surprising that Koei Tecmo teamed up with Japanese AI startup Spiral AI to put out a project like this. The new mobile spinoff bundles that experiment into an AI RPG led by Ryza, the series' most beloved character: Ryza heading out on one more adventure, or simply Ryza as a conversation partner."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Ryza-AI.jpg",
+          "cap": "RyzaChat: AI. Image credit: Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "RyzaChat: AI, released today in Japan for iOS and Android, returns to Kukkien Island, the setting of the original Atelier Ryza. Through an open-ended chatbot, players role-play what the developers describe as nearly endless, personalized generated quests with Ryza and other characters from the series. Besides the RPG mode, there is a “free chat” mode for getting to know Ryza through open-ended conversation. For those who want this character's synthetic voice whispering in their ear, there's even an ASMR mode."
+        },
+        {
+          "t": "p",
+          "x": "The team calls this project an ethical AI adventure. Conversation logs from the game are not used to train future AI models, and Ryza's voice was trained solely on recordings from the original Japanese voice actor. No generative AI art or models were put into the game; the original artists returned to draw new art."
+        },
+        {
+          "t": "p",
+          "x": "Even so, it runs on a subscription model with subscriber-only outfits like bikinis, and once the free tokens run out, continuing the conversation requires a separate payment. It's designed for a very narrow slice of the series' fans, and there is plenty of room for exploitation of people who become attached to companion Ryza."
+        },
+        {
+          "t": "p",
+          "x": "A global release is also planned. The Japanese version of the app already supports several languages, including English, but an overseas release date has not yet been set."
+        }
+      ]
+    },
+    "games/games-sega-crazytaxi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+          "cap": "Crazy Taxi: World Tour. Image credit: Sega"
+        },
+        {
+          "t": "p",
+          "x": "Crazy Taxi: World Tour's multiplayer mode was revealed for the first time on Tuesday at Gamescom ONL. If AI use during development made it hard to fully welcome the revival of Sega's series, there's some good news: Sega has again clarified exactly where it used AI in developing Crazy Taxi, and while it's not perfect, it's a lot better than what was first known."
+        },
+        {
+          "t": "p",
+          "x": "When that iconic “Yeah yeah yeah yeah yeah” played in the World Tour reveal trailer at the Xbox Games Showcase, I hit the ceiling right along with everyone else. Crazy Taxi was back, the soundtrack was intact, and the brief footage looked good."
+        },
+        {
+          "t": "p",
+          "x": "The problem came right after. Once a game is revealed, the first thing people do these days is open its Steam page to check for AI disclosures. The World Tour page did in fact carry an AI use notice, and people who had been excited just minutes earlier turned against it."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg?q=90&fit=crop&w=1200",
+          "cap": "Crazy Taxi: World Tour. Image credit: Sega"
+        },
+        {
+          "t": "p",
+          "x": "The notice was even vague, confirming only that AI had not replaced the game's performers. Sega took note of the backlash and, as Automaton spotted, revised the AI disclosure on the World Tour page to spell out exactly how it used generative AI in development."
+        },
+        {
+          "t": "p",
+          "x": "The bad news is that AI was used, and there's no getting around that. The good news is that it was used only “as part of the ideation process for background objects.” There's even better news: Sega has promised to remove all of the AI-generated content used to aid ideation, and whatever remains of it in those background objects, before the final version launches."
+        },
+        {
+          "t": "p",
+          "x": "It's not perfect, but it's a big improvement over the earlier vague “AI was used.” It isn't clear exactly when Sega revised the wording; it may have been updated around a month ago. People only noticed on Tuesday, when they revisited the page after the new trailer dropped."
+        },
+        {
+          "t": "p",
+          "x": "That puts World Tour alongside other games in recent years that used AI for ideation or placeholder material and got out without serious damage. Crimson Desert ran into trouble when Pearl Abyss left problematic AI art in the final game, and Clair Obscur: Expedition 33 lost an award it had won over similar AI use during development."
+        }
+      ]
+    },
+    "games/games-gamescom-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop",
+          "cap": "Geoff Keighley on stage at Gamescom Opening Night Live. Image credit: TheGamer"
+        },
+        {
+          "t": "p",
+          "x": "This year's Gamescom Opening Night Live was a two-hour highlight reel of disappointment. Aside from the occasional item like Warlock: Dungeons & Dragons or Metro 2039, the biggest reveals were a remaster of a 10-year-old game and a remake of a 29-year-old one."
+        },
+        {
+          "t": "p",
+          "x": "The showcase carried another kind of unease, too: a thin film of AI stretched over the whole thing."
+        },
+        {
+          "t": "p",
+          "x": "It wasn't an illusion. Thirteen of the 55 games revealed — 23.64% — used AI somewhere in development or marketing. TheGamer combed through developer interviews, official blogs, and Steam disclosures for every reveal, and cross-checked the findings against a similar list posted by Reddit user FrostyMagazine9918."
+        },
+        {
+          "t": "p",
+          "x": "1666 Amsterdam used AI placeholder assets in the game and in marketing, and Panache Digital said it would strip them out before launch. Aion 2 disclosed on Steam that AI generated some Arcana card designs and a number of icons. Ananta used AI for NPC interactions, and Aniimo used it in “multiple ways,” including testing. Crazy Taxi: World Tour used it “for reference” during development, and Like or Die used it “to assist with the creation of some assets.” Crimson Desert: Enhanced Edition had some AI used for placeholders carry over into the launch build."
+        },
+        {
+          "t": "p",
+          "x": "Once Human uses AI-generated assets in its marketing. Petit Planet includes an AI chatbot, and HoYoverse has invested $14.6 billion in AI. PUBG Ded.Net wrote on Steam that it “uses AI tools to help develop some in-game content.” The Blood of the Dawnwalker's generative AI voice work is a placeholder, and Rebel Wolves said it will be replaced with actor voices before launch. Train Sim World 7 used ElevenLabs' text-to-speech for its announcements, and Zoopunk lets players use AI in customization."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg",
+          "cap": "Image credit: Sega"
+        },
+        {
+          "t": "p",
+          "x": "23.64% is a generous figure — it only counts games that admitted to using AI."
+        },
+        {
+          "t": "p",
+          "x": "Capcom said it would use AI “aggressively” in development. Saber Interactive CEO Matthew Karch is an AI advocate, and the recently revealed Rideshare 'Stimulator' used AI-generated voice work for everything from missions to localized dialogue and music. Given the studios' interest, Monster Hunter Outlanders and Turok Origins likely used AI at some point in development too."
+        },
+        {
+          "t": "p",
+          "x": "In many cases, AI was used only for placeholder assets — which is just as controversial among players. Placeholders aren't created in a vacuum; they're meant to give direction to the people building the final product. That's also why Larian Studios drew heavy scrutiny last year after admitting it used AI in the early stages of Divinity."
+        },
+        {
+          "t": "p",
+          "x": "A recent BCG study found that 20% of new titles in Q3 2025 disclosed AI use, but the actual share of studios using AI in development is estimated at roughly half. Recalling that Geoff Keighley opened the showcase by mentioning soaring computing prices, it's rather ironic that the stage ended up filled with games that used AI."
+        }
+      ]
+    },
+    "games/games-gta6-no-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_02.jpg",
+          "cap": "Grand Theft Auto VI. Image credit: GameSpot"
+        },
+        {
+          "t": "p",
+          "x": "Grand Theft Auto VI is the most anticipated game of the year, maybe of all time. Netflix aired a 27-minute extended trailer, and a wave of coverage followed. Several outlets visited Rockstar North in Scotland, and according to one of them, GTA VI will have no microtransactions at launch and was developed without generative AI."
+        },
+        {
+          "t": "p",
+          "x": "On the Kinda Funny Gamecast, Andy Cortez and Greg Miller asked Rockstar North co-studio head Rob Nelson two questions: whether there's room for microtransactions in GTA, and whether generative AI was used in development. Both said the answer was simply “no.”"
+        },
+        {
+          "t": "p",
+          "x": "“Can you buy things in the game with real money? No monetization.” That's Cortez. Miller followed up: “We asked point blank. 'Is there AI in the game?' No AI.”"
+        },
+        {
+          "t": "p",
+          "x": "The lack of generative AI also appears in The New York Times' Grand Theft Auto VI feature, published the same day. Citing Rockstar, the article said GTA VI's animations number well over 600,000. Grand Theft Auto V had 55,000, and Red Dead Redemption 2 had 300,000. The article also confirmed that Rockstar emphasized the new game's “handcrafted” work."
+        }
+      ]
+    },
+    "games/games-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Image credit: Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta has released Meta XR Operator, an experimental tool that lets AI coding agents build, test, and debug VR apps on their own, and then check the screen to confirm the result."
+        },
+        {
+          "t": "p",
+          "x": "Developers have already sped up reading and writing code with AI agents, and running tests and fixing bugs was no different. What was missing was a step that confirmed whether any of it actually worked."
+        },
+        {
+          "t": "p",
+          "x": "XR Operator is an OpenXR API layer. It ships as an experimental-stage component in Meta XR SDK v205."
+        },
+        {
+          "t": "p",
+          "x": "Any agent that supports the Model Context Protocol (MCP) can see, move through, and interact with a VR app running in the Meta XR Simulator. According to Meta, the agent can build and run a Unity scene directly, take screenshots to spot problems, fix them, and then confirm the fix is correct."
+        },
+        {
+          "t": "p",
+          "x": "Natural-language testing is included too. A developer writes out a test scenario in words, the agent runs it as written, and returns pass/fail evidence with screenshots attached."
+        },
+        {
+          "t": "p",
+          "x": "Early testing involved teams building with the Meta XR SDK, including Beat Games, the studio behind Beat Saber. One of the earliest experiments was building a tic-tac-toe app in VR: the agent wrote the game logic, aimed a virtual controller at a square, pressed the A button to place a mark, and played the board out until the game was won or lost."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "It isn't a complete verification tool. It can't hear sound, and it can't properly judge animation or motion. It also can't use finger-level tracking and will miss subtle visual flaws. It's too slow to keep up with real-time interaction, so it struggles with moving controls too. Meta said it works best in “static, deterministic scenarios.”"
+        },
+        {
+          "t": "p",
+          "x": "Support is still narrow, too. It only runs on the Meta XR Core SDK for Unity. For other OpenXR engines like Godot or Unreal Engine, developers have to download a standalone package and wire it in themselves."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR sees Meta as positioning itself to “build a better shovel” rather than mine the gold itself — a different choice from the approach it took from the Rift era in 2016 through the end of this spring with Quest, buying up VR studios and pouring millions of dollars into exclusive content. More of the story is expected at Meta Connect 2026, which opens September 22."
+        },
+        {
+          "t": "p",
+          "x": "Early results from AI game development are already showing up. Indie modders are using AI to bring flat PC games into VR, and the list keeps growing by the day. With a lower barrier to entry, mods are coming out better and faster."
+        }
+      ]
+    },
+    "games/games-side-modlai-qa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "From left: Teppei Tachibana, Benedikte Mikkelsen, Martin McBride, Christoffer Holmgård. Image credit: Modl.ai/Side"
+        },
+        {
+          "t": "p",
+          "x": "Game services company Side has signed a memorandum of understanding with Danish AI firm Modl.ai. The binding agreement runs six months, during which the two companies will build an AI-based quality assurance system together. Side has long operated in the services market under the name PTW, while Modl.ai is a newer company, founded in 2018 and having raised $1.7 million in seed funding two years later."
+        },
+        {
+          "t": "p",
+          "x": "Martin McBride, Side's chief commercial officer, said that “what's currently considered the crown jewel, the holy grail, in the games industry is better augmenting QA services with AI technology.” “Nobody has really cracked it. We think we have.”"
+        },
+        {
+          "t": "p",
+          "x": "Earlier AI QA technology only worked if developers handed over the entire build. Modl.ai's previous approach was also “integration-based,” attaching plugins and SDKs, which required source code. Friction was high, and as founder Christoffer Holmgard put it, “it got harder over time.”"
+        },
+        {
+          "t": "p",
+          "x": "The new system doesn't look inside. “We take the product as-is, as if we were handing it to a QA tester, and put it on a similar or identical device. Then our solution looks at the screen and plays the game, simulating key flows, and turns everything that happens into a dataset. A second AI system goes through that, finds bugs, escalates them to a human level, and asks whether they need action,” Holmgard explained."
+        },
+        {
+          "t": "p",
+          "x": "The first step is building what Modl.ai calls “game knowledge.” Developers upload project assets and talk with the AI. “It's all done in natural language. Sometimes images get attached, sometimes game design documents get uploaded.” Next comes deciding what to test, a stage that still needs human expertise to refine the prompts so the agent behaves correctly."
+        },
+        {
+          "t": "p",
+          "x": "After that, the system turns the data from a single run into a bug report. “We get all the text, along with what we call evidence — short clips and log data. That goes to a human QA expert. That person reviews it and decides how it gets handled in the rest of production.” The sense of what counts as a bug versus a feature in a given game also seeps into the system as tester feedback accumulates."
+        },
+        {
+          "t": "p",
+          "x": "Side envisions a future where QA staff move into AI engineering roles. McBride said “the nice thing about programs like this is that it moves our people up the value chain.” Instead of climbing from tester to senior tester, someone becomes an AI engineer, gets paid more for it, and that also opens room to bring jobs back to countries they'd left because of labor costs."
+        },
+        {
+          "t": "p",
+          "x": "Benedikte Mikkelsen, Modl.ai's chief product officer, pointed to cutting out repetition. “You don't need a person to repeat the same flow over and over. That person can do far more valuable work.” McBride was also clear that AI doesn't replace QA staff. Side sees AI as a “sliding scale.” “Humans will always be in the loop. That's our ethos.”"
+        },
+        {
+          "t": "p",
+          "x": "Still, the games this technology can currently handle are limited. Side's chief operating officer Oliver Deslandes was candid: “Puzzle games, card games, things that aren't too fast. Things with repeatable mechanics. Something very fast like a fighting game is more of a later conversation.” It's aimed at small experiences rather than 3D open worlds."
+        }
+      ]
     }
   }
 }

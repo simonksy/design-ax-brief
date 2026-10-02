@@ -3311,6 +3311,383 @@
           "x": "El método de Meta se acerca más al modo «Front only» mencionado antes. El habla traducida se reproduce por los altavoces de oído abierto de las gafas, y la otra persona lee los subtítulos traducidos que aparecen en el teléfono del usuario."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-transcribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google ha presentado Gemini 3.5 Transcribe. Se describe como “el modelo de voz a texto más preciso hasta la fecha” y ya funciona en varios de sus propios productos."
+        },
+        {
+          "t": "p",
+          "x": "“A diferencia de los modelos de reconocimiento de voz existentes, que tienen dificultades con el ruido de fondo, la jerga compleja y la corrección de tartamudeos, Gemini 3.5 Transcribe convierte el audio sin procesar directamente en texto preciso, pulido y con formato.”"
+        },
+        {
+          "t": "p",
+          "x": "Según Google, es un modelo creado para “captar la forma natural de hablar, comprender mejor la intención y reconocer vocabulario personalizado”. Como se ve en Rambler de Gboard, procesa autocorrecciones como “quedemos el martes, no, el miércoles” y elimina del resultado muletillas como “eh” o “um”. También ajusta el formato por sí solo y permite corregir frases con la voz."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini 3.5 Transcribe funcionando en Rambler de Gboard"
+        },
+        {
+          "t": "p",
+          "x": "Google también destacó estas cifras. La tasa de error de palabras (WER), medida por Artificial Analysis, promedia 4.0% en streaming y 2.6% sin streaming. Capta con precisión expresiones alfanuméricas como códigos postales o números de pedido incluso en entornos ruidosos reales. Con vocabulario personalizado, reconoce incluso jerga y ortografías particulares. Detecta y transcribe automáticamente más de 85 idiomas y, en audio pregrabado, distingue hasta tres interlocutores con marcas de tiempo. Para más de tres personas, sigue siendo experimental."
+        },
+        {
+          "t": "p",
+          "x": "Google califica el rendimiento como “un gran avance” frente a su modelo de transcripción Chirp 3 de 2025, con una tasa de error de palabras menor y una latencia notablemente reducida."
+        },
+        {
+          "t": "p",
+          "x": "“Según la medición de Artificial Analysis, el tiempo hasta la transcripción final se redujo un 70%. También supera a Chirp 3 en el benchmark FLEURS, que agrupa los principales idiomas y locales, con una tasa de error de palabras de 5.50% en streaming y 5.04% sin streaming.”"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/gemini-3.5-audio-transcribe-1.webp",
+          "cap": "Material publicado por Google sobre Gemini 3.5 Transcribe"
+        },
+        {
+          "t": "p",
+          "x": "Otro objetivo es “hacer tareas con la voz”. Mediante llamadas a funciones, delega trabajos pesados como la generación de imágenes o el análisis de archivos a otros modelos Gemini. Speak to Window, en la app de Gemini para macOS, es un ejemplo de ello."
+        },
+        {
+          "t": "p",
+          "x": "Además de la app de Gemini para macOS y Rambler en Gboard para Android, también se puede usar desde el micrófono de la ventana de instrucciones de Google Antigravity. Allí, con el permiso del usuario, combina el contexto de la pantalla y el historial de conversación para transcribir con precisión nombres de archivos, el razonamiento del agente e incluso los documentos abiertos. Lo siguiente es el navegador Chrome: en cualquier campo de texto de la web se podrá hablar para escribir respuestas o textos, y para introducir instrucciones al Gemini integrado en Chrome."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores pueden usarlo en vista previa pública a través de la API de Gemini en Google AI Studio y Google Antigravity. Las empresas pueden probarlo en vista previa en Gemini Enterprise Agent Platform, y pronto llegará también a Gemini Enterprise for Customer Experience."
+        }
+      ]
+    },
+    "gadgets/gadgets-lg-cloid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LG y Nvidia están ampliando de forma considerable su colaboración en robótica en Seúl. Una nueva fábrica de datos construida en el campus de investigación de LG en Yangjae producirá 100.000 horas de datos de entrenamiento antes de que termine 2026. LG combina datos de manufactura, logística y despliegues reales de robots con datos sintéticos, mientras Nvidia aporta sus plataformas de robótica Omniverse, Cosmos e Isaac."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_01_cr.jpg",
+          "cap": "El robot de IA de LG, CLOiD, recibiendo a un visitante en Seúl"
+        },
+        {
+          "t": "p",
+          "x": "El robot CLOiD de LG aprende dentro de réplicas a tamaño real de espacios habitables y de procesos de manufactura y logística creados mediante simulación. Un punto en el que se diferencia del enfoque de Tesla o BYD son las piernas: CLOiD no camina sobre dos pies, sino que se mueve sobre una base con ruedas."
+        },
+        {
+          "t": "p",
+          "x": "Los datos recopilados de esta forma alimentan el Robot Foundation Model de LG para ampliar las habilidades de sus robots humanoides. CLOiD ya practica tareas domésticas como sacar leche del refrigerador, manejar un horno y doblar y apilar ropa. Tiene dos brazos, cada uno con siete grados de libertad, y cinco dedos en cada mano capaces de generar fuerza de forma independiente. 1X NEO también apunta al hogar, mientras que Digit de Agility y Apollo de Apptronik están más orientados a la logística y la industria."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-Data-Factory_04_cr.jpg",
+          "cap": "La fábrica de datos de robótica construida por LG en Yangjae"
+        },
+        {
+          "t": "p",
+          "x": "LG también está haciendo crecer su propio negocio de robótica. En julio creó un centro dedicado a la robótica y planea lanzar robots domésticos además de los industriales y de servicio. Mientras tanto, la competencia se intensifica en China y Estados Unidos. Tesla está desarrollando el humanoide de uso general Optimus, BYD impulsa Xiaodi para tareas de manufactura, Xpeng tiene Iron y UBTech promueve el Walker S2 para uso industrial. Unitree, creador del G1 y el H2, es también una de las empresas de robótica líderes de China."
+        },
+        {
+          "t": "p",
+          "x": "La cifra de 100.000 horas busca sostener un ciclo ininterrumpido de despliegue real de robots, simulación y entrenamiento de IA. El objetivo de LG es preparar a sus robots más rápido para tareas complejas y sentar las bases para entrar en el mercado de robots domésticos. Sin embargo, esta colaboración por sí sola no garantiza un lanzamiento masivo inminente de robots domésticos totalmente autónomos."
+        }
+      ]
+    },
+    "gadgets/gadgets-luffu-link": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "James Park y Eric Friedman, cofundadores que dejaron la empresa tras la adquisición de Fitbit por Google, trasladaron su interés de la salud individual a la salud de toda la familia. Ese vehículo es una startup llamada Luffu, y una aplicación de IA que controla la medicación y registra las comidas para aliviar la carga mental de cuidadores y padres. Su nuevo lanzamiento, Luffu Link, lleva esa idea un paso más allá, añadiendo algunos matices al seguimiento de salud de nivel Fitbit Air para no quedarse en una banda de fitness más."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Luffu-Link-1200x675.jpg",
+          "cap": "Luffu Link, un wearable sin pantalla"
+        },
+        {
+          "t": "p",
+          "x": "Luffu Link integra un botón, sensores, un LED, un micrófono y un altavoz en una carcasa metálica cuadrada, sujeta a la muñeca con una banda de silicona. Lo primero que lo distingue de otros wearables es el registro por voz. Basta mantener pulsado el botón y decir lo que se acaba de comer o la medicación que se tomó, y también se pueden registrar cosas intangibles como el estado de ánimo o algo que no se quiere olvidar. Ese habla recogida pasa a la app de Luffu junto con los datos de frecuencia cardíaca, sueño y actividad, y con el tiempo la IA devuelve los patrones que ha encontrado."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/luffu-app-1.jpg",
+          "cap": "Registros acumulándose en la app de Luffu © Luffu"
+        },
+        {
+          "t": "p",
+          "x": "El segundo punto de diferencia es el GPS y el LTE gratuito. La familia puede ver dónde ha estado el usuario, y al pulsar el botón dos veces se comparte de inmediato la ubicación actual. Gracias al LTE, el usuario puede pedir ayuda a un familiar designado incluso sin el teléfono cerca."
+        },
+        {
+          "t": "p",
+          "x": "Al no tener pantalla, Link se suma al creciente grupo de wearables sin pantalla, como el Oura Ring 5 o el Whoop 5.0. El cofundador de Luffu, James Park, declaró a TechCrunch: “Hay una tendencia en estos nuevos wearables a eliminar la pantalla, y aquí es muy intencional. Queremos estar en un segundo plano. Diseñamos Link para que sea un guardián silencioso en la muñeca durante todo el día, y no queríamos que se sintiera como un wearable existente en absoluto: ni un producto común de marca textil, ni un dispositivo de muñeca con pantalla, ni un colgante tosco que se lleva al cuello para emergencias.”"
+        },
+        {
+          "t": "video",
+          "yt": "riGMmE35u4Y"
+        },
+        {
+          "t": "p",
+          "x": "Luffu Link ya puede reservarse por 250 dólares, 50 dólares menos que su precio de lista de 300 dólares, con envíos a partir de inicios de 2027. El LTE es “gratuito”, pero usarlo exige un Luffu Family Plan: hasta cuatro familiares por 20 dólares al mes, o 200 dólares al año. Es una entrada cara para una familia sana, más aún si cada persona compra la suya. Queda por ver si el software de Luffu justifica ese precio."
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-pim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A principios de este mes, Samsung presentó la primera memoria LPDDR5X-PIM del sector, incorporando lógica de cómputo dentro de un estándar de memoria de bajo consumo. En Hot Chips 2026 detalló esta tecnología, hasta ahora vista solo en pilas de HBM."
+        },
+        {
+          "t": "p",
+          "x": "PIM significa Processing-in-Memory, una tecnología que calcula dentro de la propia memoria. Samsung ya la demostró en 2021 y la probó en las pilas de HBM de los aceleradores de AMD. Una pequeña lógica situada junto a las celdas de DRAM procesa las operaciones básicas directamente dentro de la memoria. Esto elimina el cuello de botella que suponía el procesador y acelera especialmente la inferencia de IA. Samsung afirma que, en tareas de inferencia, LPDDR5X-PIM es 2.28 veces más rápida que la LPDDR5X normal."
+        },
+        {
+          "t": "p",
+          "x": "La razón para añadir cómputo a la LPDDR5X es clara: la HBM es demasiado cara. Un día antes, Micron también advirtió en Hot Chips de que la demanda de obleas de HBM sigue empeorando, y Samsung abrió su presentación con un hecho que todos conocen: la mayor parte del costo de los chips de IA es la memoria, y esa proporción sigue creciendo. Si a esto se suma la carga de energía de la DDR5, y más aún de la HBM, la LPDDR5X resulta el lugar idóneo para añadir PIM."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ngfRpqo23NHKjK2VZ7eKZB.jpg",
+          "cap": "Estructura básica de PIM integrado en LPDDR5X (fuente: Samsung)"
+        },
+        {
+          "t": "p",
+          "x": "Samsung ya había planteado el concepto de LPDDR5X-PIM junto con HBM-PIM en 2023. Lo mostrado en Hot Chips no es un concepto, sino un producto real ya verificado. Samsung también está estudiando LPDDR6X-PIM y dijo que espera obtener especificaciones iniciales de JEDEC dentro de este año."
+        },
+        {
+          "t": "p",
+          "x": "En la arquitectura, cada banco de memoria tiene su propio PIM, un avance respecto a HBM-PIM, que debía recortar parte del banco para encajar la lógica. El banco y el archivo de registros empujan los datos hacia un árbol MAC paralelo, y la salida final se escribe en un archivo de registros vectoriales."
+        },
+        {
+          "t": "p",
+          "x": "Esta LPDDR5X funciona en dos modos: banco único (DRAM convencional) y banco múltiple (PIM). Usa el mismo controlador de DRAM existente, alternando entre lecturas/escrituras normales y lecturas/escrituras de PIM según el modo. El obstáculo que Samsung señaló fue la reordenación propia de la DRAM convencional, que evita mediante el Address Align Mode (AAM)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vvTcEhimJrGa9g4hdbkHyA.jpg",
+          "cap": "Diapositiva de especificaciones de LPDDR5X-PIM (fuente: Samsung)"
+        },
+        {
+          "t": "p",
+          "x": "Por fuera, no se diferencia mucho de la LPDDR5X: el mismo empaquetado en matriz de 561 bolas, y un módulo de 16GB con dos rangos de 64 bits. La clave está en el ancho de banda. La LPDDR5X-9600 alcanza un máximo de 76.8GB/s, pero PIM reduce el movimiento de datos y procesa las operaciones básicas en el propio lugar, elevando esa cifra ocho veces hasta 614GB/s."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r8UsbsgDbedQmciQZRxczA.jpg",
+          "cap": "Diapositiva de rendimiento publicada por Samsung (fuente: Samsung)"
+        },
+        {
+          "t": "p",
+          "x": "En pruebas preliminares, el tiempo de ejecución del modelo mejoró 2.28 veces y los tokens por segundo (TPS) mejoraron 3.01 veces. Samsung midió esto ejecutando el modelo Llama 3.1 de 8.000 millones de parámetros en un acelerador de IA de borde. ¿Y el consumo de energía? Como PIM consume energía en ráfagas, el consumo máximo es “mucho mayor”, pero se espera que el consumo total sea menor que con la DRAM convencional, debido a que se reducen los desplazamientos entre la DRAM y el host. “No hay un aumento significativo de energía”, dijo Karam Hwang, de Samsung."
+        },
+        {
+          "t": "p",
+          "x": "Hasta hace poco, la LPDDR5X solo se usaba en productos de consumo. Pero gracias al módulo intercambiable SOCAMM2, Nvidia eligió LPDDR5X como memoria para su CPU Vera, e Intel también la usa en su nuevo acelerador de IA Crescent Island. Incluso con PIM añadido, no se acerca al ancho de banda de HBM, pero hay mucho margen de uso."
+        }
+      ]
+    },
+    "gadgets/gadgets-android-ram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El precio de la RAM está subiendo. Google no esperó a ver hasta qué punto empeoraría la situación. Añadió nuevas reglas de memoria a las apps de Android distribuidas a través de la Play Store, con un plazo fijado para que los desarrolladores depuren su código. Al subir los precios, la gente elige dispositivos de gama más baja, y las apps que consumen mucha memoria deterioran la experiencia de todos los que usan esos dispositivos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/android-apps.jpg?resize=1200%2C630",
+          "cap": "Apps de Android ahora sujetas a reglas de memoria"
+        },
+        {
+          "t": "p",
+          "x": "A partir de febrero de 2027, las apps deberán cumplir nuevos estándares de memoria en tres áreas. El uso de memoria dinámica mide el espacio de almacenamiento de datos privados que usa una app mientras se ejecuta o permanece en segundo plano. La memoria de bitmaps es la que ocupan las imágenes y los gráficos: el estándar es no retener esa memoria mientras no está en pantalla. La optimización del código DEX reduce el código de la app para que se ejecute más rápido y use menos memoria."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/memory-usage-android-apps-playstore.jpg?resize=1021%2C476",
+          "cap": "Las tres métricas de memoria que ahora mide la Play Store"
+        },
+        {
+          "t": "p",
+          "x": "Google está añadiendo nuevas herramientas a Play Console para detectar a tiempo el código hinchado. Las apps que superen los límites no serán retiradas. En su lugar, perderán visibilidad en la tienda y verán bloqueadas algunas funciones de distribución."
+        },
+        {
+          "t": "p",
+          "x": "En el mismo anuncio hay un detalle útil para quienes cambian de dispositivo. El inicio de sesión sin pulsaciones exige que las apps restauren automáticamente la sesión al pasar a un nuevo dispositivo Android, de modo que no haga falta volver a introducir la contraseña app por app tras el cambio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/04/google-sign-up-mockup.jpg?resize=2000%2C1200",
+          "cap": "Inicio de sesión sin pulsaciones que restaura la sesión al cambiar de dispositivo"
+        },
+        {
+          "t": "p",
+          "x": "La regla entra en vigor en abril de 2027. Los juegos quedan exentos por ahora, y las directrices para el inicio de sesión en juegos llegarán por separado en algún momento de 2027. Google ya ha reducido la RAM de su línea Pixel 11 Pro de 16GB a 12GB, una señal de hasta qué punto la escasez se ha extendido por toda la industria. Android 17 también incorporará una función de privacidad que impide a los operadores de internet rastrear qué sitios y apps visita un dispositivo."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-led": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta está corrigiendo un fallo en sus gafas inteligentes con IA. El truco permitía seguir grabando mientras se cubría el LED frontal. Alex Himel, vicepresidente de realidad aumentada de Meta, escribió en Threads que “cubrir la luz durante la grabación ahora detiene la cámara”."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "La luz de grabación de las Ray-Ban Meta de segunda generación"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas inteligentes de Meta ya apagaban la cámara integrada si se cubría la luz de grabación. Esa luz parpadea para avisar a quienes están cerca de que se está grabando o capturando algo. Pero algunos usuarios descubrieron que, si cubrían el LED después de haber empezado a grabar, podían saltarse la restricción. Esta corrección llega poco más de un mes después de que Meta hiciera que tocar físicamente la luz apagara la cámara."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Capture-LED-Education-Campaign-Los-Angeles-Billboard.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "El anuncio exterior que Meta colocó en Los Ángeles"
+        },
+        {
+          "t": "p",
+          "x": "Himel dijo que Meta “seguirá sacando actualizaciones como esta para que el LED de captura avise con fiabilidad a la gente de alrededor en el momento en que una foto o un video entra en la galería de alguien”. “Muy pocas personas intentan evitar esta protección, y el hecho de que tengan que llegar a tales extremos es en sí mismo prueba de que nuestro esfuerzo funciona.”"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas inteligentes de Meta han generado controversia por privacidad y acoso. Algunos usuarios grabaron a otras personas sin su consentimiento, o filmaron videos de “bromas” para redes sociales a desconocidos en la calle. Esto, sumado a informes de que Meta planea añadir reconocimiento facial, alimentó una campaña de oposición contra las gafas que se extendió por el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Meta ahora se mueve hacia dar a conocer el LED de grabación. El portavoz de Meta, Albert Aydin, dijo a The Verge que la empresa lanzó su propia campaña de “concienciación” en las regiones donde las gafas se han vendido bien. Una valla publicitaria en Los Ángeles muestra las gafas inteligentes junto con el texto “La cámara capta el momento. La luz le avisa de ese momento a todos los que están alrededor”. Un video publicado por Meta también dice que el LED de grabación “avisa cuando las gafas están captando fotos y video” y que “sin luz, no hay captura”."
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si el éxito de un robot se mide por su ternura, Microduck es lo mejor que ha aparecido en mucho tiempo. Pollen Robotics lo presentó esta semana: una división de la empresa de IA Hugging Face, sí, esa misma Hugging Face. Es un robot educativo de 25 centímetros de alto que llega ya con movimiento, equilibrio y personalidad incorporados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NQ4VdVv5uX2tma7U8JQrsU-2000-80.jpg",
+          "cap": "Microduck, presentado por Pollen Robotics"
+        },
+        {
+          "t": "p",
+          "x": "Las reservas comenzaron el 27 de agosto y el precio es de 399 dólares, un precio de lanzamiento. Es un robot con forma de pato, totalmente montado, con un peso de unas 1,7 libras; su boca funciona también como pinza y emite una voz similar a un graznido. Tiene 15 grados de libertad. Los motores le permiten caminar, andar como un pato y girar la cabeza, y dos IMU lo ayudan a no caerse cuando lo empujan."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m2MWnWGSUJLedEqgszrUNU-1200-80.jpg",
+          "cap": "El robot de 25 centímetros cuya boca funciona también como pinza"
+        },
+        {
+          "t": "p",
+          "x": "Una cámara de un solo ojo combinada con lidar vigila el entorno, y puede incluso reconocer a su propietario. La resolución de la cámara aún no se ha revelado. Tiene un altavoz para emitir voz y un micrófono para escuchar. Su cerebro es un chip ARM Rockchip RK3566 de bajo consumo, con 1GB de RAM y 32GB de almacenamiento. Incluye Wi-Fi, Bluetooth y NFC, y una batería pequeña de 2600mAh que dura alrededor de una hora."
+        },
+        {
+          "t": "p",
+          "x": "Las especificaciones no son impresionantes. Aun así, el robot del video teaser es difícil de dejar de ver, especialmente cuando se levanta solo tras caerse o ser empujado. Muchos de sus movimientos están precargados, pero buena parte de su encanto viene de la plataforma de código abierto y de lo que programen los propios usuarios. El kit incluye un entorno de entrenamiento virtual, scripts de aprendizaje, herramientas y un SDK con un “flujo de trabajo sim-to-real comprobado”. Al fin y al cabo, es un robot educativo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VyD9E93UUdFXfySmMnCaPU-1200-80.jpg",
+          "cap": "Una postura que recuerda a los droides BDX de Disney"
+        },
+        {
+          "t": "p",
+          "x": "Se parece a los droides BDX de Disney y Star Wars. Ambos se sostienen sobre dos patas, mantienen una postura baja y tienen una cabeza grande. Ahí termina el parecido. Los droides BDX, que se mueven mediante semiautonomía y control remoto, son mucho más grandes y mucho más caros, y por ahora solo circulan dentro de Disney World. No hay planes de lanzamiento para el consumidor."
+        },
+        {
+          "t": "p",
+          "x": "Los 399 dólares corresponden al paquete básico. Se venden por separado un pack de carga de 39 dólares, un pack de desarrollo de 119 dólares con motores, cables y batería de repuesto, y un pack de accesorios con un puntero láser, unos patines que Microduck puede llevar y usar para desplazarse, y diez etiquetas NFC. Microduck es el segundo robot educativo de Pollen Robotics. El primero, Reachy Mini, era más bien un compañero de escritorio, y la empresa afirma haber vendido 10.000 unidades."
+        },
+        {
+          "t": "p",
+          "x": "La clave está en cuánto se nota esa simpatía en el momento de abrir la caja, y en cuánto código habrá que escribir uno mismo. Se puede controlar a distancia con un mando de videojuegos, así que al principio se puede simular. La verdadera diversión llega cuando el robot empieza a reaccionar de forma inesperada. Queda por ver cuánta gente estará dispuesta a pagar casi 400 dólares por un robot de pato semiautónomo hecho de plástico. El envío está previsto antes de Navidad, en cuatro colores: crema, grafito, lavanda y cielo."
+        }
+      ]
+    },
+    "gadgets/gadgets-plaud-one": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El año pasado afirmé algo tajante: no hay razón para inventar un nuevo wearable con IA, porque el mejor wearable es algo que ya tienes. Me refiero a los auriculares, lo que la mayoría de nosotros ha usado durante décadas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Comp_Export.jpg",
+          "cap": "El último wearable de Plaud, el Plaud One"
+        },
+        {
+          "t": "p",
+          "x": "Plaud, considerada a menudo la mayor empresa de toma de notas con IA del mundo, parece pensar lo mismo. Ha metido lo que puede llamarse IA agéntica líder del sector en un par de auriculares. La presentación llega justo antes de IFA 2026 en Berlín la próxima semana, donde veré estos auriculares en persona por primera vez."
+        },
+        {
+          "t": "p",
+          "x": "A simple vista, no se ve distinto de cualquier otro auricular: un diseño discreto y pulido, en color off-white. Cómo se ajusta y cómo suena son cosas que quiero comprobar junto con su rendimiento de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Hero-image-02.png",
+          "cap": "El Plaud One, que no se ve distinto de cualquier otro auricular"
+        },
+        {
+          "t": "p",
+          "x": "Plaud es conocido por un dispositivo fino como una cartera que se pega discretamente a la parte de atrás del teléfono, y por un pin que se sujeta a la ropa. Ambos son puertas de hardware hacia la verdadera arma de la empresa: su IA agéntica y su plataforma de software. Los auriculares Plaud One llevan el mismo software."
+        },
+        {
+          "t": "p",
+          "x": "Estos auriculares capturan y suben las conversaciones y llamadas que ocurren alrededor. Usan 4G LTE mediante un eSIM integrado. Es buena práctica avisar a la otra persona de que se está usando un dispositivo de grabación, y en algunos estados de EE. UU. grabar una llamada sin el consentimiento de todos los participantes puede ser ilegal."
+        },
+        {
+          "t": "p",
+          "x": "El software de Plaud transcribe automáticamente las reuniones y convierte ese registro en resúmenes, acciones de seguimiento o informes. El agente se conecta directamente a herramientas que probablemente ya usas, como Google, Gmail, Slack y Notion."
+        },
+        {
+          "t": "p",
+          "x": "Nathan Xu, cofundador y director ejecutivo de Plaud, dijo: “Los agentes de IA solo se vuelven útiles cuando entienden el contexto en el que se forma la intención humana.” “Ese contexto vive en la conversación.”"
+        },
+        {
+          "t": "p",
+          "x": "El plus del Plaud One es la conversación en ambos sentidos. Se puede hablar directamente con el agente para preguntarle algo o darle instrucciones, algo que los dispositivos Plaud anteriores no podían hacer. Para despertarlo, se dice “Hey Plaud” con los auriculares puestos, o se mantiene pulsado el botón del agente en el estuche."
+        },
+        {
+          "t": "p",
+          "x": "El Plaud One Explorer Edition ya está disponible en reserva por 229 libras (311 dólares). Incluye créditos Plaud por valor de 150 libras (204 dólares). El envío comienza más adelante este otoño."
+        }
+      ]
+    },
+    "gadgets/gadgets-whoop-meridian": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los wearables de Whoop están diseñados para recopilar la mayor cantidad posible de datos; la empresa incluso fabricó una batería independiente que carga el dispositivo sin necesidad de quitárselo. Lo que lo frenó durante mucho tiempo fue su aspecto. Aunque era menos llamativo que un Apple Watch, seguía pareciendo un dispositivo, y en concreto un dispositivo deportivo. La respuesta de Whoop es la correa Meridian, de 149 dólares: un cuerpo nuevo para su sensor de quinta generación, con un aspecto que busca acercarse más a una joya."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1200x675.jpg",
+          "cap": "La nueva correa Meridian de Whoop"
+        },
+        {
+          "t": "p",
+          "x": "Meridian viene en cuatro acabados: oro, plata, negro mate y oro rosa. El material es titanio, apreciado por los wearables de gama alta actuales por su resistencia y durabilidad. Como las correas de tela de Whoop, se puede ajustar en longitud, y en la parte superior lleva la “W” de la empresa. Lo primero que llama la atención es la malla milanesa, el estilo que Apple vende como su “Milanese Loop” para relojes inteligentes, conocido entre los aficionados a los wearables, hecho entrelazando hilos metálicos uno a uno siguiendo un estilo antiguo de correa de reloj. Es más flexible que una pulsera de eslabones sin perder refinamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Whoop-Meridian-Band-1.jpg",
+          "cap": "La estructura de malla milanesa tejida con hilo metálico"
+        },
+        {
+          "t": "p",
+          "x": "La nueva correa es compatible con el Whoop 5.0 y el Whoop MG, y se puede añadir al pedido al iniciar una nueva suscripción. Meridian tiene sentido porque permite llevar el sensor de Whoop con comodidad incluso fuera del gimnasio. Al mismo tiempo, es una forma de elevar el costo de usar Whoop. Whoop vende sus wearables únicamente por suscripción: el dispositivo deja de funcionar en el momento en que se deja de pagar. Esa estructura de suscripción tan rígida es lo que hace atractivos al Fitbit Ace de 99 dólares o al Garmin Cirqa de 200 dólares. Ambos dispositivos sin pantalla mejoran con una suscripción, pero también funcionan sin ella."
+        },
+        {
+          "t": "p",
+          "x": "Los planes de Whoop se dividen en varios niveles. El más barato cuesta 199 dólares al año. Se puede obtener un descuento devolviendo el wearable de otra empresa, o aliviar el costo con fondos de FSA o HSA. Aun así, mantenerse suscrito a largo plazo significa gastar más que con el producto de un competidor, aunque eso quizá no le importe mucho a alguien dispuesto a comprar la correa Meridian."
+        }
+      ]
     }
   }
 }

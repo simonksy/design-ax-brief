@@ -2869,6 +2869,347 @@
           "x": "声明的结尾写道：“这看起来像是一个利用流媒体平台结构性漏洞的案例。鉴于此前也有未公开的非官方曲目被凭耳朵还原并流传出去的先例，我们正考虑以某种形式作出回应。”"
         }
       ]
+    },
+    "games/games-horii-slimey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+          "cap": "Dragon Quest 10。图片来源:Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Dragon Quest之父堀井雄二表示，自己是AI的支持者。他说这几年AI进步明显，现在已经“几乎不会胡编了”。这是他在被问及该系列MMO最近加入的Gemini聊天机器人时给出的回答。"
+        },
+        {
+          "t": "p",
+          "x": "Dragon Quest系列被认为是游戏史上最早引入AI系统的作品之一。在1990年的《勇者斗恶龙IV》中，玩家只需给队友下达大致指示，AI就会为每个角色选择行动。而这次加入的AI，受欢迎程度却远不及当年。"
+        },
+        {
+          "t": "p",
+          "x": "仅在日本上线的MMO《勇者斗恶龙X》最近推出了第七部也是最后一部扩展包《Lost Children of Time and Space》，其中新增的一项内容引发了褒贬不一的评价：一个名为Oshaberi Slimey（字面意思是“多嘴史莱姆”）的同伴，造型是戴着小丑帽的Dragon Quest标志性蓝色史莱姆。得知这个Slimey由Google Gemini驱动的聊天机器人运行后，粉丝们感到失望。"
+        },
+        {
+          "t": "p",
+          "x": "在接受Famitsu采访时，堀井谈到了加入Slimey的原因，以及自己对AI的看法。以下内容由GamesRadar+转述。“最近的AI真的很聪明，很有意思，”他说道。“不管问什么，现在它几乎不会胡编了。”"
+        },
+        {
+          "t": "p",
+          "x": "AI在事实准确性上其实常出问题，因为它往往在缺乏所需信息的情况下也会先给出答案。这位与Square Enix密不可分的游戏设计师也遇到过同样的事。“很久以前我问AI关于我自己的事，它说我是‘Nintendo的员工’，”他笑着说道。"
+        },
+        {
+          "t": "p",
+          "x": "但他仍然这样为AI辩护：“AI在不断进化，现在用AI能做的事情很多。Slimey是一个可以对话的对象，所以我认为它能降低人们接触AI的门槛。”"
+        }
+      ]
+    },
+    "games/games-ironmace-aura": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dark and Darker的开发商IRONMACE公开了自己如何使用Aura。一位没有技术背景的设计师直接动手修改游戏代码库、对教程系统进行原型设计，并与工程师沟通，把工作室预估需要5~6周的工作，只用了短短几周就完成了。"
+        },
+        {
+          "t": "video",
+          "yt": "au1qwSYq4vA"
+        },
+        {
+          "t": "p",
+          "x": "在游戏开发中使用AI的路径，远不止生成式美术这一种，已经有工作室在不显山露水的地方试验新技术。对IRONMACE来说，这意味着要看看一位编程经验不多的设计师，能否借助AI编程助手Aura，直接参与一项重大新功能的实现。"
+        },
+        {
+          "t": "p",
+          "x": "这次实验的对象，是Dark and Darker一直明显缺少的东西：一套正式的教程。此前，团队一直用这款撤离类地牢爬行游戏的“硬核”定位来解释教程的缺失，但真正的阻碍其实是开发资源。要做教程，就得把开发者从眼下紧急的任务中抽出来，投入到新玩家引导上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg",
+          "cap": "Dark and Darker。图片来源:IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "IRONMACE首席执行官兼联合创始人Terence Park这样说道：“我的背景是游戏设计和制作人。我会碰一点脚本，也懂数据结构，但编程不是我的强项。”换作以往，这件事需要按角色组建专门团队，会议会变多，还要管理一条难以驾驭的流程。"
+        },
+        {
+          "t": "p",
+          "x": "实际推进过程相当灵活。第一次会议定下了想法的大致框架，之后Park做出大的决定，细节上的脉络则由Aura来补全。一旦决定采用检查点式教程，团队就和Aura一起逐个搭建每一个检查点。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg",
+          "cap": "Dark and Darker。图片来源:IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "团队开了一个协作聊天室，用在仓库里上传示例素材的方式运作，而不是写文档。由于成员时差不同，Park会在自己所在时区上线，用Aura查看新上传的内容，然后立刻开始制作内容。只要在群聊里留言说明想要的功能，通常第二天新功能就会出现。"
+        },
+        {
+          "t": "p",
+          "x": "几个没能按时完成的复杂教程触发器，Park直接让Aura编写代码。教程中“从骸骨尸体上捡绷带”的学习环节，就是这样做出来的。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg",
+          "cap": "Dark and Darker。图片来源:IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "验证和测试仍然由人在游戏编辑器里完成。Aura生成的UI控件和逻辑连接可以直接使用，但最后的打磨工作由美术人员负责。"
+        },
+        {
+          "t": "p",
+          "x": "“现在我信了。”这是Park的结论。一位对代码库并不熟悉的工程师，完成了基础系统的大部分工作，原本需要5~6周的任务，借助Aura在一半时间内就完成了。"
+        }
+      ]
+    },
+    "games/games-ludoai-keyframe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+          "cap": "Ludo AI的Keyframe Animation。图片来源:PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI推出了Keyframe Animation。这是一款让开发者可以直接控制AI生成的精灵动画的工具，同时也拓展了原本覆盖2D和3D素材的动画功能。"
+        },
+        {
+          "t": "p",
+          "x": "它可以在Ludo应用、API和MCP服务器中使用。开发者最多设置三个关键姿势，中间的帧由Ludo来填补。"
+        },
+        {
+          "t": "p",
+          "x": "一键式3D绑定也是新加入的功能。无需外部软件或手动操作，就能给模型装上可直接在引擎中使用的骨架。"
+        },
+        {
+          "t": "p",
+          "x": "开始、中间和结束姿势由开发者决定。可以使用自己的图片，也可以使用Ludo内置的姿势生成功能。只要设定好关键帧，文本提示就是可选项，由姿势来主导动画。"
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI表示最多可生成64帧，并可调整长度、尺寸和分辨率。它支持角色精灵、视觉特效和UI素材，默认情况下循环会衔接得很顺滑。"
+        },
+        {
+          "t": "p",
+          "x": "绑定完成的模型，可以使用Ludo自带的现成动作库来运动。也可以用文字写下想要的动作，加入自定义动作。自定义动画会生成四种变体，套在模型上预览后，导出为一个动画文件。"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai联合创始人兼CTO Jorge Carvalho Gomes这样说道：“现在任何人都能用AI做出精灵动画，这一步基本已经解决了。难的是，拿到脑子里设想的那个动画本身。”"
+        },
+        {
+          "t": "p",
+          "x": "“在Keyframe Animation里，你不是描述一个动作、然后期望它正好做出来。你来设定动画要经过的精确姿势，剩下的由Ludo来填补。”"
+        }
+      ]
+    },
+    "games/games-ryzachat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+          "cap": "RyzaChat: AI中的莱莎。图片来源:Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "Koei Tecmo和Gust的「炼金工房」系列近几年在全球范围内人气爆发。『莱莎的炼金工房』的成功和主角设计功不可没——制作团队自己也承认，为了吸引更多玩家，故意把这个角色设计得带有性感元素。开发团队后来推出了多部不含莱莎的新作，转向了其他故事，但莱莎的人气和外形，最终让她成为Koei Tecmo最新生成式AI实验的对象：一个把粉丝的拟社会情感，引向免费起步的AI聊天机器人RPG的企划。"
+        },
+        {
+          "t": "p",
+          "x": "日本超过一半的游戏公司都在试验AI，所以Koei Tecmo与日本AI创业公司Spiral AI联手推出这样的项目并不令人意外。这款新的手游衍生作，把那场实验打包成一款以系列中最受喜爱的角色莱莎为主角的AI RPG：既可以是再次出发冒险的莱莎，也可以只是作为聊天对象的莱莎。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Ryza-AI.jpg",
+          "cap": "RyzaChat: AI。图片来源:Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "今天在日本以iOS和Android形式上线的『RyzaChat: AI』，回到了原作『莱莎的炼金工房』的舞台库肯岛。玩家通过一个开放式的聊天机器人，与莱莎和系列中的其他角色互动，按开发团队的说法，进行几乎无限的个性化生成任务角色扮演。除了RPG模式之外，「自由聊天」模式可以让玩家在没有特定主题的情况下，与莱莎增进感情、随意聊天。如果想要这个角色在耳边低语的人工合成声音，甚至还有ASMR模式。"
+        },
+        {
+          "t": "p",
+          "x": "团队把这个项目称为一次合乎道德的AI冒险。游戏中产生的对话记录不会用于今后AI模型的训练，莱莎的声音只用原作日语配音演员的录音进行训练。游戏中也没有加入生成式AI美术或模型，而是请回了原作的美术师来绘制新的美术内容。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此，这仍然是一个带有比基尼之类订阅者专属服装的订阅制模式，一旦用完免费赠送的token，要继续对话就得另外付费。这套设计瞄准的是系列粉丝中非常狭窄的一部分人群，对那些沉迷于「伴侣莱莎」的人来说，被利用的空间相当大。"
+        },
+        {
+          "t": "p",
+          "x": "全球上线也已经在计划之中。日文版应用已经支持包括英语的多种语言，但海外上线日期尚未确定。"
+        }
+      ]
+    },
+    "games/games-sega-crazytaxi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+          "cap": "Crazy Taxi: World Tour。图片来源:Sega"
+        },
+        {
+          "t": "p",
+          "x": "《疯狂的士：世界巡游》(Crazy Taxi: World Tour)的多人模式周二在Gamescom ONL上首次公开。如果你之前因为开发过程中使用了AI，而难以全心欢迎世嘉这款系列的复活，那么有个好消息：世嘉再次说明了自己在开发Crazy Taxi时究竟在哪些地方用了AI，虽然不算完美，但比最初公开的情况好得多。"
+        },
+        {
+          "t": "p",
+          "x": "在Xbox Games Showcase上播放的『World Tour』预告片里，那段标志性的“Yeah yeah yeah yeah yeah”响起的那一刻，我和大家一样激动得要冲破天花板。Crazy Taxi回来了，原声音乐没有变，短暂展示的画面也很不错。"
+        },
+        {
+          "t": "p",
+          "x": "问题出在那之后。游戏一公开，人们最先做的事就是打开Steam页面确认是否使用了AI。『World Tour』的页面上确实挂着AI使用说明，几分钟前还兴奋不已的人们立刻掉头离开。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg?q=90&fit=crop&w=1200",
+          "cap": "Crazy Taxi: World Tour。图片来源:Sega"
+        },
+        {
+          "t": "p",
+          "x": "那份说明甚至还很含糊，只确认了游戏中的演出者没有被AI替代。世嘉注意到了这股反弹情绪，并如Automaton所报道的那样，修改了『World Tour』页面上的AI说明，明确交代了生成式AI在开发中究竟是怎么被使用的。"
+        },
+        {
+          "t": "p",
+          "x": "坏消息是确实用了AI，这一点无法回避。好消息是，它“只是作为背景物体构思过程的一部分”被使用。还有更好的消息：世嘉承诺，在最终版本发售之前，会把用于辅助构思的AI生成内容，以及残留在那些背景物体上的部分，全部清除干净。"
+        },
+        {
+          "t": "p",
+          "x": "尽管不算完美，但比之前那种含糊的“用了AI”说法已经有了很大改善。世嘉究竟是什么时候修改了这段措辞并不清楚，也许一个月前就已经改过。人们注意到，是在新预告片公开后、周二再次打开页面的时候。"
+        },
+        {
+          "t": "p",
+          "x": "这样一来，『World Tour』就和近年来那些在构思阶段或用占位素材时用过AI、却没有因此受到重大打击的游戏站到了一起。『Crimson Desert』曾因Pearl Abyss把有问题的AI美术留在了最终游戏里而翻车，『Clair Obscur: Expedition 33』也因为开发过程中类似的AI使用，丢掉了曾获得的一项奖项。"
+        }
+      ]
+    },
+    "games/games-gamescom-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop",
+          "cap": "站在Gamescom Opening Night Live舞台上的Geoff Keighley。图片来源：TheGamer"
+        },
+        {
+          "t": "p",
+          "x": "今年的Gamescom Opening Night Live是一场长达两个小时、令人失望的集锦。除了偶尔穿插的Warlock: Dungeons & Dragons或Metro 2039之类的作品，最大的公开内容是一款10年前游戏的重制版，以及一款29年前游戏的重制版。"
+        },
+        {
+          "t": "p",
+          "x": "这场发布会还带着另一种不对劲：整体上笼罩着一层薄薄的AI色彩。"
+        },
+        {
+          "t": "p",
+          "x": "这不是错觉。在公开的55部作品中，有13部——也就是23.64%——在开发或营销中使用了AI。TheGamer逐一查阅了每部作品的开发者采访、官方博客和Steam公告，并与Reddit用户frostymagazine9918发布的类似清单进行了交叉核对。"
+        },
+        {
+          "t": "p",
+          "x": "1666 Amsterdam在游戏和营销中使用了AI占位素材，Panache Digital表示会在发行前将其移除。Aion 2在Steam上披露，Arcana卡牌设计和部分图标是用AI制作的。Ananta在NPC互动中使用了AI，Aniimo在包括测试的“多种方式”中使用了AI。Crazy Taxi: World Tour在开发过程中将其用作“参考”，Like or Die则用于“辅助制作部分素材”。Crimson Desert: Enhanced Edition用于占位素材的部分AI内容一直留到了发行版本中。"
+        },
+        {
+          "t": "p",
+          "x": "Once Human在营销中使用AI生成的素材。Petit Planet内置了AI聊天机器人，HoYoverse已向AI投资146亿美元。PUBG Ded.Net在Steam上写道，它“使用AI工具协助开发部分游玩内容”。The Blood of the Dawnwalker中生成式AI配音只是占位，Rebel Wolves表示会在发行前换成真人演员的声音。Train Sim World 7用ElevenLabs的文字转语音制作了广播播报，Zoopunk则允许玩家在自定义时使用AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg",
+          "cap": "图片来源：Sega"
+        },
+        {
+          "t": "p",
+          "x": "23.64%已经是个相当宽容的数字——它只统计了承认使用AI的游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Capcom表示会在开发中“积极”使用AI。Saber Interactive的CEO Matthew Karch是AI的支持者，最近公布的Rideshare《'Stimulator'》中，从任务到本地化台词、音乐，都用上了AI生成的配音。从各工作室表现出的兴趣来看，Monster Hunter Outlanders和Turok Origins很可能也在开发的某个阶段使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "在很多情况下，AI只用在了占位素材上——但这在玩家之间同样引发争议。占位素材并不是凌空产生的，它们的作用是为最终制作成果的人指明方向。这也是为什么Larian Studios去年承认在《Divinity》早期阶段使用了AI之后，招来了激烈的审视。"
+        },
+        {
+          "t": "p",
+          "x": "BCG最近的一项研究显示，2025年第三季度的新作中有20%披露了AI使用情况，但实际上大约有一半的工作室在开发中使用AI。回想一下Geoff Keighley在发布会开场时提到计算成本飙升，而这场发布会最终却被使用AI的游戏填满，这其中的讽刺意味相当明显。"
+        }
+      ]
+    },
+    "games/games-gta6-no-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_02.jpg",
+          "cap": "Grand Theft Auto VI。图片来源：GameSpot"
+        },
+        {
+          "t": "p",
+          "x": "Grand Theft Auto VI是今年、甚至可能是有史以来最受期待的游戏。Netflix播出了一段27分钟的加长预告片，随后相关报道蜂拥而至。多家媒体探访了位于苏格兰的Rockstar North，其中一家报道称，GTA VI在发行时不会有微交易，开发过程中也没有使用生成式AI。"
+        },
+        {
+          "t": "p",
+          "x": "在Kinda Funny Gamecast节目中，Andy Cortez和Greg Miller向Rockstar North联合工作室负责人Rob Nelson提出了两个问题：GTA是否还有加入微交易的空间，开发中是否用过生成式AI。两人都表示，得到的答案就是一个“没有”。"
+        },
+        {
+          "t": "p",
+          "x": "“能用真钱购买游戏里的东西吗？没有内购。”这是Cortez说的。Miller接着说：“我们直接问了。‘游戏里有AI吗？’没有AI。”"
+        },
+        {
+          "t": "p",
+          "x": "没有使用生成式AI这一事实，同样出现在当天刊出的The New York Times的Grand Theft Auto VI特别报道中。该文章援引Rockstar的说法称，GTA VI的动画数量远超60万个。Grand Theft Auto V是5.5万个，Red Dead Redemption 2是30万个。文章还证实，Rockstar强调了新作“由人手完成”的制作工艺。"
+        }
+      ]
+    },
+    "games/games-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "图片来源：Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta推出了Meta XR Operator，这是一款实验性工具，能让AI编程代理自行构建、测试、调试VR应用，并查看屏幕来确认结果。"
+        },
+        {
+          "t": "p",
+          "x": "一直以来，开发者借助AI代理提升了读写代码的速度，运行测试、修复漏洞也是如此。但缺少的是确认这些东西是否真的能跑起来的那一步。"
+        },
+        {
+          "t": "p",
+          "x": "XR Operator是一个OpenXR API层，作为实验阶段组件加入了Meta XR SDK v205。"
+        },
+        {
+          "t": "p",
+          "x": "支持Model Context Protocol（MCP）的代理，可以查看、移动并操作在Meta XR Simulator中运行的VR应用。据Meta介绍，代理可以直接创建并运行Unity场景，截图找出问题、修复问题，并进一步确认修复是否正确。"
+        },
+        {
+          "t": "p",
+          "x": "系统中也包含自然语言测试。开发者用文字写出测试场景，代理会照原样执行，并返回附带截图的通过/不通过依据。"
+        },
+        {
+          "t": "p",
+          "x": "早期测试中参与的团队包括Beat Saber的开发商Beat Games等使用Meta XR SDK进行开发的团队。最早的实验之一，是在VR中做一个井字棋应用：代理编写了游戏逻辑，把虚拟控制器对准格子后按下A键落子，直到分出胜负为止。"
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "这不是一个完备的验证工具。它听不到声音，也无法正确评估动画和动作，还用不了手指级别的追踪，会漏掉细微的视觉瑕疵。它的速度跟不上实时交互，因此在应对移动操作时也比较吃力。Meta表示它在“静态、确定性的场景”中表现最好。"
+        },
+        {
+          "t": "p",
+          "x": "支持范围目前也还很窄，只能在Unity版的Meta XR Core SDK上运行。对于像Godot或Unreal Engine这类同样使用OpenXR的其他引擎，开发者需要自行下载独立软件包并手动接入。"
+        },
+        {
+          "t": "p",
+          "x": "Road to VR认为，Meta站在了“打造更好的铁锹”而不是亲自去挖金子的一边——这与它从2016年Rift时代开始、到今年初在Quest上结束的那种收购VR工作室、在独占内容上砸下数百万美元的做法不同。更多细节预计会在9月22日开幕的Meta Connect 2026上公布。"
+        },
+        {
+          "t": "p",
+          "x": "AI游戏开发的早期成果已经显现。独立模组制作者正在用AI把平面PC游戏搬进VR，相关列表每天都在增加。随着入门门槛降低，模组的质量和速度都在提升。"
+        }
+      ]
     }
   }
 }

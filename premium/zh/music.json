@@ -2855,6 +2855,93 @@
           "x": "想进一步了解这项研究，可以前往《Nature Machine Intelligence》网站。那里还提供了一个网页应用，可以直接浏览每位钢琴家的演奏风格。"
         }
       ]
+    },
+    "music/music-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "交响乐虚拟乐器常见于电视剧，偶尔也出现在大片的原声带中。它的用途不仅限于此。预算有限的嘻哈、摇滚和流行编曲也会调用弦乐和铜管声部。"
+        },
+        {
+          "t": "p",
+          "x": "到目前为止，这些工具都有代价。学习复杂，运行沉重。即便只用到几种演奏法和几个麦克风位置，也常常要装下数TB的样本。硬盘、CPU和信用卡额度一起被耗尽。"
+        },
+        {
+          "t": "p",
+          "x": "Dreamtonics凭借Instrument X完成了虚拟乐器三部曲。它自称是专业级神经声学建模平台，通过神经合成和经过伦理授权的演奏者表演，在DAW内直接生成声音，不使用任何样本。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/373d3ef9-05ba-4ac1-a5e3-2365d841643d/Inst+X-12.jpg",
+          "cap": "不使用样本生成声音的Dreamtonics Instrument X。"
+        },
+        {
+          "t": "p",
+          "x": "所需配置为8GB内存。乐器扩展包最多15种，每个不超过150MB。它同时提供独立版和插件版，支持标准格式和ARA。Dreamtonics建议使用ARA桥接模式，将ARA实例挂载在带有虚拟音频的音轨上。"
+        },
+        {
+          "t": "p",
+          "x": "演奏法没有按键切换。它会根据音高和时长自动变化，也支持叠加特殊奏法的堆叠表情。AI重录可以重新生成整个乐句，也可以只调整音色漂移、音高曲线、力度强弱等数值。"
+        },
+        {
+          "t": "video",
+          "yt": "ibqsm4RMBA0"
+        },
+        {
+          "t": "p",
+          "x": "空间混音器可以将8到11通道的麦克风配置通过神经声学处理。你可以在近距离麦克风、Decca树形麦克风阵列和环境房间对麦克风之间权衡位置。这里使用的空间感并非算法混响，而是Dreamtonics在东京一间「高端录音棚」实录的真实声学特征。"
+        },
+        {
+          "t": "p",
+          "x": "它接收MusicXML，将速度、拍号、演奏法和力度原样转换为演奏数据，还能与Synthesizer V Studio 2 Pro、Vocoflex对接。不过这篇文章是Production Expert的合作内容，最好亲自试听后再做判断。"
+        }
+      ]
+    },
+    "music/music-sonible-smartchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
+          "cap": "sonible smart:chain（图片提供：sonible）"
+        },
+        {
+          "t": "p",
+          "x": "在sonible smart:chain中，处理链会从DAW内的多个实例中提取信息，带来前所未有的控制力。"
+        },
+        {
+          "t": "p",
+          "x": "奥地利开发商sonible以用于混音和母带处理的AI辅助处理插件闻名。作为Audiotonix旗下品牌，它与SSL、Harrison Audio同属一个大家庭，近期还共同参与了SSL autoSeries等项目。"
+        },
+        {
+          "t": "p",
+          "x": "这一次，sonible扩展了旗舰smart Series内容感知处理插件系列，加入了smart:chain。这是一款在整个DAW中以多节点方式运行的智能混音处理器。它将压缩、EQ、门限、饱和、增益驾驭、除嘶声和自动调平简洁地整合到一个界面中，让你能把混音中真正重要的元素推到前面。"
+        },
+        {
+          "t": "video",
+          "yt": "GPF0SxiCxGc"
+        },
+        {
+          "t": "p",
+          "x": "声道条插件大家都用过，但smart:chain的思路不同。各处理链不再各自独立运行，插件实例会相互联动，为每个模块设定合适的起点。它还带有智能深度分层，把元素推向混音的前、中、后方，形成平衡、分离感和纵深。"
+        },
+        {
+          "t": "p",
+          "x": "贯穿整个会话的Auto Leveling也很实用。它会读取混音中各元素之间的关系，按音乐风格给出一个粗混版本。如果想按声道单独调整，还有专用的微调控制。在smart:chain内，你可以在各个声道间切换、管理声道组，并在中央会话控制界面中逐个调整插件实例。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-1024x565.jpg",
+          "cap": "sonible smart:chain（图片提供：sonible）"
+        },
+        {
+          "t": "p",
+          "x": "这个领域的竞争也变得有趣起来。FabFilter的Instance List能让你快速访问DAW中的所有插件实例，而sonible又往前走了一步：不是让各个插件各自处理，而是让它作用于整个混音。"
+        },
+        {
+          "t": "p",
+          "x": "sonible smart:chain插件的上市价为99欧元（原价179欧元），销售截止至2026年9月28日。已拥有smart系列插件的用户还可以申请跨级升级。"
+        }
+      ]
     }
   }
 }

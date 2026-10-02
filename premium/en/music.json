@@ -3146,6 +3146,256 @@
           "x": "From the following Speak To… section onward, access is limited to Sound On Sound subscribers."
         }
       ]
+    },
+    "music/music-elevenmusic-composer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/elevenlabs-suno-rival-elevenmusic-launches-composer-song-editor.png"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs has released Composer, a section-based song editor built into ElevenMusic, the generative AI music platform it launched earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is open: bring your own lyrics or track, start from a single-line prompt, or begin with a blank screen. From there, you refine the piece section by section."
+        },
+        {
+          "t": "p",
+          "x": "“Now artists and creators can rewrite a verse, change the chorus, slow down the bridge, and try different versions, without touching the parts that already work,” said an ElevenLabs spokesperson."
+        },
+        {
+          "t": "p",
+          "x": "“Put simply, this tool lets you edit a song the way you edit a document.”"
+        },
+        {
+          "t": "p",
+          "x": "In the company's own words: “Music is rarely finished in one pass. You might like the verse but want a different chorus, or the melody is right but the lyrics need to change.”"
+        },
+        {
+          "t": "p",
+          "x": "“Composer lets you handle those decisions separately. You can edit and regenerate any section of a track without changing the rest, adjusting the style, tempo, energy, instrumentation, key, and length of the section you're working on while leaving everything else in place.”"
+        },
+        {
+          "t": "p",
+          "x": "The overall structure is also within reach. You can swap in a new bridge, double the chorus, add an outro, and rearrange the order section by section."
+        },
+        {
+          "t": "p",
+          "x": "The news comes as ElevenLabs passed $500 million in annual revenue earlier this year. Its Series D round brought in actors Jamie Foxx and Eva Longoria, Hwang Dong-hyuk, the director of “Squid Game,” and BlackRock, the world's largest asset manager, as new investors."
+        },
+        {
+          "t": "p",
+          "x": "This puts ElevenLabs a step closer to its biggest rivals, Suno and Udio. The funding round was first reported in February at an $11 billion valuation."
+        }
+      ]
+    },
+    "music/music-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Symphonic virtual instruments are heard in dramas and, occasionally, in blockbuster soundtracks. Their use isn't limited to that. They also bring in strings and horns for hip-hop, rock, and pop arrangements without a big budget."
+        },
+        {
+          "t": "p",
+          "x": "Until now, these tools came with a cost. They are complex to learn and heavy to run. It was common to load terabytes of samples while using only a handful of articulations and mic positions. Hard drives, CPUs, and credit card limits all melted together."
+        },
+        {
+          "t": "p",
+          "x": "Dreamtonics has wrapped up its virtual instrument trilogy with Instrument X. It calls itself a professional neural acoustic modeling platform. It builds sound inside the DAW using neural synthesis and ethically licensed performer performances. It doesn't use a single sample."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/373d3ef9-05ba-4ac1-a5e3-2365d841643d/Inst+X-12.jpg",
+          "cap": "Dreamtonics Instrument X, which makes sound without samples."
+        },
+        {
+          "t": "p",
+          "x": "The requirement is 8GB of RAM. Instrument expansion packs number up to 15, and none exceeds 150MB. It comes as a standalone and a plugin, supporting both standard formats and ARA. Dreamtonics recommends an ARA bridge mode that attaches an ARA instance to an audio track carrying dummy audio."
+        },
+        {
+          "t": "p",
+          "x": "Articulations have no keyswitches. They shift automatically based on pitch and length, and stack expression lets you layer special techniques. AI retakes let you regenerate an entire sequence or tweak only values like timbre drift, pitch curve, and dynamic intensity."
+        },
+        {
+          "t": "video",
+          "yt": "ibqsm4RMBA0"
+        },
+        {
+          "t": "p",
+          "x": "The spatial mixer runs 8 to 11 channel mic configurations through neural acoustics. You can weigh positions from close mics to a Decca tree to ambient room pairs. The spatial character here isn't algorithmic reverb; it's a real acoustic profile Dreamtonics captured at a “high-end tracking studio” in Tokyo."
+        },
+        {
+          "t": "p",
+          "x": "It takes in MusicXML and carries tempo, time signature, articulation, and dynamics straight into performance data. It also connects with Synthesizer V Studio 2 Pro and Vocoflex. That said, this article is partner content from Production Expert. It's better to judge by listening for yourself."
+        }
+      ]
+    },
+    "music/music-sonible-smartchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-ft.jpg",
+          "cap": "sonible smart:chain (photo courtesy of sonible)"
+        },
+        {
+          "t": "p",
+          "x": "In sonible smart:chain, the processing chain pulls information from multiple instances across the DAW, giving a level of control that hasn't existed before."
+        },
+        {
+          "t": "p",
+          "x": "The Austrian developer sonible is known for AI-assisted processing plugins for mixing and mastering. Under Audiotonix, it sits alongside SSL and Harrison Audio, and has recently collaborated on projects like SSL's autoSeries."
+        },
+        {
+          "t": "p",
+          "x": "This time, sonible has expanded its flagship smart Series line of content-aware processing plugins by adding smart:chain. It's an intelligent mixing processor that works as multiple nodes across the whole DAW. It gathers compression, EQ, gating, saturation, gain riding, de-hissing, and auto leveling cleanly into one screen, letting you bring forward the elements that matter in the mix."
+        },
+        {
+          "t": "video",
+          "yt": "GPF0SxiCxGc"
+        },
+        {
+          "t": "p",
+          "x": "Channel strip plugins are nothing new, but smart:chain takes a different approach. Instead of each processing chain running on its own, the plugin instances interlock to set an appropriate starting point for each module. It also comes with intelligent depth layering, pushing elements to the front, middle, or back of the mix to create balance, separation, and depth."
+        },
+        {
+          "t": "p",
+          "x": "Auto Leveling, which runs across the whole session, is also useful. It reads the relationships between elements in the mix and sets a rough mix suited to the musical style. For channel-by-channel tweaks, there's a dedicated trim control. Inside smart:chain, you move between individual channels, manage channel groups, and adjust plugin instances one by one from a central session control screen."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/sonible-smart-chain-1024x565.jpg",
+          "cap": "sonible smart:chain (photo courtesy of sonible)"
+        },
+        {
+          "t": "p",
+          "x": "Competition in this space has gotten interesting too. FabFilter's Instance List gives quick access to every plugin instance in the DAW, but sonible has gone a step further: instead of individual plugins each processing on their own, it acts on the mix as a whole."
+        },
+        {
+          "t": "p",
+          "x": "The sonible smart:chain plugin is on sale at an introductory price of 99 euros (regular price 179 euros) until September 28, 2026. A crossgrade is also available for those who already own smart Series plugins."
+        }
+      ]
+    },
+    "music/music-soundon-gina-jones": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/08/DSC_8879-scaled-e1787663500167.jpeg",
+          "cap": "Gina Jones (photo courtesy of SoundOn)"
+        },
+        {
+          "t": "p",
+          "x": "“TikTok is signing AI music creators now? Saw that coming.” That's the kind of reaction you might hear from some corners of the music industry at today's news that SoundOn, TikTok's distribution arm, has signed a new deal."
+        },
+        {
+          "t": "p",
+          "x": "But the story of Gina Jones, who lives in Tennessee, and her “Gina's Pet Bangers” series is more complicated than that. It's also a snapshot of just how tricky it has become to draw the line between what is and isn't “AI music” in 2026."
+        },
+        {
+          "t": "p",
+          "x": "Start with Gina herself. Her bio says she has “worked as a Nashville songwriter for over 30 years, signed three record deals, and been mentored by legends like country songwriter Harland Howard.”"
+        },
+        {
+          "t": "p",
+          "x": "Recently, she has taken a sharp turn. Written with her daughter and granddaughter, these are “songs where country meets hip-hop, inspired by ugly-but-cute dogs.” Tracks like “Chippy Dippy Doppie Duck” and “Leeda Beeda Boda Butt” fall into this category."
+        },
+        {
+          "t": "p",
+          "x": "Anyone who has followed the AI music trend over the past two years might hear it for the first time and think, “That's definitely made with Suno.”"
+        },
+        {
+          "t": "p",
+          "x": "Jones herself describes her method as “an AI hybrid production approach that combines my original songwriting and melodies with modern production and voice-cloning technology.”"
+        },
+        {
+          "t": "p",
+          "x": "After her songs gained traction on TikTok, she posted a video laying out her process in more detail. “I bring in family members and we write the lyrics together. I come up with the melody myself. I sing and play it, then put it into an AI program.”"
+        },
+        {
+          "t": "p",
+          "x": "What comes next is the key part. “I clone my voice into that program, type in the melody, and specify everything a producer would do — the sound I want, the BPM — line by line.” She made clear she has never hidden the fact that she uses AI."
+        },
+        {
+          "t": "p",
+          "x": "There's one more layer that feels distinctly 2026: Genni, an influencer marketing firm for music and entertainment. Known as Songfluencer until a year ago, it has handled campaigns for Sabrina Carpenter, Tate McRae, and Doja Cat, and this time it pushed the virality of the “Pet Bangers” series."
+        },
+        {
+          "t": "p",
+          "x": "Jones' monthly Spotify listeners have just topped 42,000, and her most-streamed track on the platform, “Emerald Jade Green Ball,” has racked up 723,000 plays. Her TikTok account, Gina's Pet Bangers, has 12,500 followers."
+        },
+        {
+          "t": "p",
+          "x": "That leaves a question. Under the “AI-generated” and “AI-assisted” labeling scheme recently proposed by industry groups, where would these songs fall? By Jones' own account, it would be the latter, but the groups' definition — “lead vocal performance AI-generated, core instrumental performance AI-generated” — points to the former. There's also the chart rules' requirement that a track be “meaningfully human-created” and that “any generative AI service used must be properly authorized and lawful.”"
+        },
+        {
+          "t": "p",
+          "x": "What today's news shows is that this issue can't be reduced to a simple yes-or-no on “AI music.” As Suno and its rivals keep changing at the pace of AI, uncertainty is only growing at the very moment the industry is trying to pin down the rules."
+        }
+      ]
+    },
+    "music/music-quad-cortex-coros": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/mexQr39ddZwN2wbuJW49qV-1920-80.jpg",
+          "cap": "Neural DSP Quad Cortex (photo: Neural DSP)"
+        },
+        {
+          "t": "p",
+          "x": "Neural DSP has released its biggest-ever CorOS update, adding sounds and features to the Quad Cortex amp modeler and multi-effects platform, and expanding guitar plugin compatibility."
+        },
+        {
+          "t": "p",
+          "x": "CorOS 4.1.0 is free for both Quad Cortex and Quad Cortex Mini users. There's a lot to dig into, but the headline is eight new virtual devices."
+        },
+        {
+          "t": "p",
+          "x": "They include the Multivoicer harmonizer, the Glitch granular delay, Ring Modulator, Arpeggio Delay, Crystal Delay, Vintage Digital Reverb, and the Douglas Shining compressor and Plugin Parametric-4 EQ, both based on Dark Glass Electronics' Hyper Luminal."
+        },
+        {
+          "t": "p",
+          "x": "The number of X plugins that can run natively on the device has also grown. Signature Archetype bundles from Tim Henson, John Mayer, John Petrucci, Rabea Massaad and Misha Mansoor have been added to the compatibility list."
+        },
+        {
+          "t": "p",
+          "x": "Dual Footswitch Assignments is also new, making Quad Cortex's Stomp Mode more usable onstage. Cortex Control 4.1.0 is no small update either: it can control multiple devices from one computer at once, with each unit named so you can switch between them without touching a cable."
+        },
+        {
+          "t": "video",
+          "yt": "NSDRgQ0qxz0"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iQHvCaTAZwGHbUv5usCMpb.jpg",
+          "cap": "Neural DSP Quad Cortex Mini"
+        },
+        {
+          "t": "p",
+          "x": "Device Presets might be the most interesting part. You can save the settings of any virtual device in your rig and pull them into a different preset."
+        },
+        {
+          "t": "p",
+          "x": "If you have a US-style boutique clean tube amp dialed in on one preset, you can pull it out and load it directly into another preset. The same goes for virtual speaker cabinets, drives, effects and utilities. Finding a new electric guitar tone has gotten a bit easier. CorOS 4.1.0 ships with 2,000 factory Device Presets."
+        },
+        {
+          "t": "p",
+          "x": "Francisco Cresp, Neural DSP's CPO and co-founder, called it a “major milestone” for the Quad Cortex ecosystem, giving “musicians more freedom to create, experiment and move between software and hardware without compromise.”"
+        },
+        {
+          "t": "p",
+          "x": "Cortex Control 4.1.0 also got a workflow refresh. Along with Device Presets, it supports I/O Settings Presets and Global EQ Presets."
+        },
+        {
+          "t": "p",
+          "x": "CEO and co-founder Douglas Castro said: “Every CorOS release makes Quad Cortex a more powerful creative platform. This update is the biggest one we've shipped — not just because of the number of new features, but because it fundamentally changes how fast musicians can create sounds, move between devices, and bring our entire plugin ecosystem into a hardware workflow.”"
+        },
+        {
+          "t": "p",
+          "x": "The update is free."
+        }
+      ]
     }
   }
 }

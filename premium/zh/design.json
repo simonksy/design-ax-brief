@@ -3350,6 +3350,188 @@
           "x": "需要Blender 4.2及以上版本，在Windows、Linux和macOS上运行，价格为15美元。"
         }
       ]
+    },
+    "design/design-fusion-forward": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "大多数Fusion Forward评委关注的是用Autodesk的工具能做到什么，而Luke Mihelcic正是打造这些工具的人。作为Autodesk的产品营销负责人，他先后担任过教育者、应用工程师、技术营销人员和产品营销人员。他清楚地知道，在设计理念从概念走向实物的过程中，Fusion的工具处于哪个位置——这在评委席上是一种罕见的视角。"
+        },
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/1847503_4_145176_hs9BXPIRS.png",
+          "cap": "Autodesk产品与技术营销高级经理Luke Mihelcic"
+        },
+        {
+          "t": "p",
+          "x": "这段经历塑造了他的评判方式。在设计与工程技能交汇的地方工作了数十年，他以行业的眼光看待创造力、技术完成度、可用性和实际影响力。他看的不是概念是否看起来可行，而是它能否真正站得住。"
+        },
+        {
+          "t": "p",
+          "x": "被问到最近什么最让他感兴趣时，他给出的答案是可能性本身。“随着技术、设计工具、AI、仿真、制造和协作不断推进，一些以前根本不存在的门正在打开。曾经让人觉得过于复杂或遥不可及的问题，正以新的方式变得可以触及。”在他看来，能够想象和实现的范围不断扩大，正是设计中最令人兴奋的部分。"
+        },
+        {
+          "t": "p",
+          "x": "乐观的背后也有前提。他担心的不是作为工具的AI，而是设计师过度依赖它之后会发生的事。“我们可能会开始把创造力和批判性思考过多地外包给AI。设计不只是快速、漂亮地做出某件东西，它关乎判断力、语境、共情、品味、好奇心，以及理解这件事为什么首先要存在的能力。”"
+        },
+        {
+          "t": "p",
+          "x": "他明确表示，让他担心的不是技术本身。“是安于现状——是让便利取代好奇心，让自动化取代智识。”"
+        },
+        {
+          "t": "p",
+          "x": "他给准备投稿的人的建议，正是他评判时会看的地方。“请为可能性而设计，而不是为新奇而设计。最好的作品不会止步于叠加技术或做出有趣的造型，它会展示周到的设计、对材料的理解，以及计算工具如何让家庭日常生活变得更简单、更美、更可持续。”"
+        },
+        {
+          "t": "img",
+          "src": "https://s3files.core77.com/blog/images/1847513_4_145176_4R8IMPt_d.jpg",
+          "cap": "Fusion Forward：Design for Home 设计大赛"
+        },
+        {
+          "t": "p",
+          "x": "Fusion Forward：Design for Home现已开放报名。共设三个类别，奖金总额9,750美元，截止日期为9月28日。"
+        },
+        {
+          "t": "p",
+          "x": "来源：Core77 —— Autodesk's Own Luke Mihelcic on Judging the Fusion Forward Competition，2026-08-27。"
+        }
+      ]
+    },
+    "design/design-google-flow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google在I/O上为Google Flow加入了Gemini Omni Flash，视频编辑功能也是从那时首次出现的。这一次，更新带来的是Gemini Omni 1.1 Flash。创意控制范围进一步扩大，让用户可以在Flow内部直接制作出更精细、接近成片水准的视频。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-1440x810.png",
+          "cap": "Google Flow——全新创意控制功能"
+        },
+        {
+          "t": "p",
+          "x": "通过起始帧和结束帧，可以更精确地把控镜头。在帧与帧之间按照意图切换的同时，人物和叙事也不会被打乱。"
+        },
+        {
+          "t": "p",
+          "x": "把粗剪提升为成片。以1080p或4K清晰导出后，可以直接接入高端数字、社交和广播剪辑工作流程。"
+        },
+        {
+          "t": "p",
+          "x": "先快速出草稿，画质留到后面再提升。先用消耗积分更少的360p测试创意和构图，再进行全分辨率渲染。看到满意的片段后，可以下载720p版本。这在Google Flow应用中尤其好用：外出途中用手机先出草稿，再挑出满意的版本升级画质。"
+        },
+        {
+          "t": "p",
+          "x": "新功能从今天起在Google Flow上向所有人开放。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/Omni_1.1_X-2_6.mp4"
+        },
+        {
+          "t": "p",
+          "x": "来源：Google — Google Flow brings new creative control features to enhance video editing，2026-08-27。"
+        }
+      ]
+    },
+    "design/design-photoshop-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
+          "cap": "测试版发布的AI Assisted Editor"
+        },
+        {
+          "t": "p",
+          "x": "Adobe推出了Photoshop的更新。以选择和控制为主轴，一边是精确工具，另一边是提示词编辑。主打功能是全新的Light Adjustment Layers、基于Firefly的Instruct Edit with Masks，以及以测试版形式登场的AI Assisted Editor。"
+        },
+        {
+          "t": "p",
+          "x": "Creative Professional产品营销副总裁Deepa Subramaniam在公告中表示：“无论是用精确工具打磨细节，还是用提示词探索想法，这次更新都能让你的工作更高效、更有把握。你可以从头到尾专注于自己的创意构想。”"
+        },
+        {
+          "t": "p",
+          "x": "Light Adjustment Layers把曝光、对比度、高光、阴影、白色、黑色等专业级灯光调整，搬进了新的非破坏性调整图层。无需离开图层工作流程，就能获得Camera Raw级别的效果。"
+        },
+        {
+          "t": "p",
+          "x": "Instruct Edit with Masks由Firefly Image 5驱动。它能读取图像的整体语境，因此不必逐一精确标出要修改的位置。只需用一句话写出想要的修改即可，比如让闭着的眼睛睁开，或给某个人的头上戴一顶帽子。未被遮罩的区域不会被改动，因此人脸、标志和品牌素材都能保持原样。新的标记功能让你直接在图像上作画，向模型展示意图：选定要改色的区域，用箭头标出位置，再用粗略的形状画出要添加的新元素。这减少了仅靠文字指示时留下的模糊空间。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
+          "cap": "与蒙版配合使用的Instruct Edit"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text, Shapes and Paths把Photoshop的Dynamic Text扩展到任意自定义形状或路径，文字会沿着曲线或自由排布的版式自动流动。Stock面板集成把超过9亿个Adobe Stock素材，通过一个可固定的面板直接带入Photoshop。"
+        },
+        {
+          "t": "p",
+          "x": "测试版的AI Assisted Editor是一个可选的专用界面，配有自然语言提示词栏，并搭配由主流AI模型驱动的生成工具：Prompt to Edit、Remove Background、Generative Expand、Remove工具、Generative Fill、Generative Upscale和AI Markup。"
+        },
+        {
+          "t": "p",
+          "x": "对于留在Pro Editor中工作的人，Prompt to Edit也被加入了Contextual Task Bar。无需选区，仅用文字提示词即可改变整张图像。所有结果都会作为生成图层叠加进图层堆栈，编辑保持整理有序且非破坏性。"
+        },
+        {
+          "t": "p",
+          "x": "这项更新现已在Photoshop中可用。"
+        },
+        {
+          "t": "p",
+          "x": "来源：Animation World Network —— Adobe Unveils New Photoshop AI Tools，Dan Sarto，2026-08-27。"
+        }
+      ]
+    },
+    "design/design-system-control-plane": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在接入AI的开发环境中，前端代码很快就能生成。只要提出表单、仪表盘小组件、设置页面或弹窗流程的需求，几秒钟内就能拿到一份可运行的草稿。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/The-Design-System-as-the-Control-Plane-for-AI-Generated-UI-1600x1244.jpg",
+          "cap": "O'Reilly Radar——设计系统是AI生成UI的控制平面"
+        },
+        {
+          "t": "p",
+          "x": "速度带来的问题起初并不明显。当AI生成的每个功能都带着自己的组件、样式、交互模式和无障碍判断时，前端很快就会变得四分五裂：错误处理方式不同的表单，动作不同的弹窗，外观相近但行为不同的按钮。微小的差异不断累积，代价也随之上升。"
+        },
+        {
+          "t": "p",
+          "x": "作者Niharika P. Pujari在此重新界定了设计系统的位置。它不只是保持视觉一致性的工具，而是成为生成式UI的控制平面——这一层决定界面如何被构建、哪些模式被允许、哪些决策不必每次都重新发明。无障碍、交互行为、内容规范、组件边界和安全的默认值，都被写进这一层。"
+        },
+        {
+          "t": "p",
+          "x": "收到“帮我做一个筛选面板”这样提示的智能体，只会满足眼前这一个请求。结果单独运行也许没问题，但会与产品其余部分处理筛选、验证、加载状态和键盘操作的方式脱节。真正该问的问题不是“AI能不能做出一个能用的下拉菜单”，而是“这个功能该不该用现有的下拉菜单模式，那个模式是否已经处理了所需的行为”。"
+        },
+        {
+          "t": "p",
+          "x": "仅有组件库是不够的。按钮不是一个套了样式的元素，而是关于层级、状态、标签、禁用行为、加载行为和焦点可见性的一整套决策。弹窗承载着焦点转移、Esc键行为、标题、可访问名称，以及背景是否可交互等决策。如果这些规则只存在于人的脑子里，AI就无从知晓。"
+        },
+        {
+          "t": "p",
+          "x": "每次在提示词里重新写一遍规则，这种做法长久不了。总有人会忘记，总有人会写得过于简略。无论是CLAUDE.md还是智能体的启动文件，设计系统的规则都必须进入智能体常驻的项目上下文——也就是说，在写功能代码之前就要先知道这些规则。"
+        },
+        {
+          "t": "p",
+          "x": "评审的重心也会随之改变。如果用的是已获批准的弹窗组件，就不必每次都从零开始讨论焦点处理问题。问题会从“生成的代码是否正确地发明了这个模式”转变为“是否正确地使用了正确的模式”。"
+        },
+        {
+          "t": "p",
+          "x": "真正困难的不是技术，而是纪律。正确的路径必须比错误的路径更容易走。这不是说要封死所有新模式，但新模式必须是有意为之的，必须经过评审，如果可复用，就应该回流到系统中。没有这种纪律，看起来像系统、实际行为却不同的准标准组件就会不断堆积，比明显的定制代码更难清理。"
+        },
+        {
+          "t": "p",
+          "x": "前端工程师的工作重心正转向架构层面：定义组件API、为模式写文档、制定无障碍标准、撰写智能体指南，以及评审生成的代码。AI能快速写出代码，但它自己无法决定应该拥有什么样的前端系统。Pujari如此收尾：AI辅助前端开发的未来，不会只由更好的提示词决定，而是由那些提示词所运行的系统决定。"
+        },
+        {
+          "t": "p",
+          "x": "来源：O'Reilly Radar —— The Design System as the Control Plane for AI-Generated UI，Niharika P. Pujari，2026-08-25。"
+        }
+      ]
     }
   }
 }

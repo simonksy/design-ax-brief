@@ -20,8 +20,7 @@
   },
   "vars": {
     "BASE_URL": "https://axitnow.com",
-    "I18N_MENU": "1",
-    "PATREON_CLIENT_ID": "En9WUM2-Pdq56jtOwF6kGZwDqppxQxE92MHR-d1XLcR7886AKQVDDgJuNy32794s"
+    "I18N_MENU": "1"
   },
   "d1_databases": [
     { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "a82e6d9c-8393-4a6e-9d7b-4cfcbe08ea44" }

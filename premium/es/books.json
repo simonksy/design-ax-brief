@@ -2673,6 +2673,105 @@
           "x": "El boletín cierra con una encuesta a los lectores, pidiéndoles que tracen ellos mismos la línea de qué cuenta como texto escrito por IA."
         }
       ]
+    },
+    "books/books-ai-ghost-authors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas.jpg",
+          "cap": "Autores que nunca existieron"
+        },
+        {
+          "t": "p",
+          "x": "“Elena Vasquez y Marcus Chen han aparecido como vulcanólogos, como astronautas, como protagonistas de thrillers, como presentadores de pódcast, como coautores de artículos académicos en cientos de documentos generados por IA. Sin haber vivido jamás.” Es una frase de un nuevo preprint de investigadores de Samsung y la Universidad de Varsovia."
+        },
+        {
+          "t": "p",
+          "x": "El artículo reunió nombres que han aparecido como coautores en cientos de artículos, textos y libros generados por IA. Son personas que no existen, nombres que los modelos de lenguaje de gran tamaño producen una y otra vez cuando se les pide inventar a un experto de un campo determinado."
+        },
+        {
+          "t": "p",
+          "x": "El título es 「The Ghost Couple: Correlated LLM Name Priors and Their Haunting of the Web and Academic Publishing」. En junio pasado, 404 Media informó que ChatGPT, Gemini y Claude prefieren el nombre Elias Sohn al escribir ficción, y que ese personaje suele ser un farero. También se observó que ChatGPT produce Marcus Chen cuando se le pide inventar a un desarrollador de software."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/08/vas2.png",
+          "cap": "Del artículo 「The Ghost Couple」"
+        },
+        {
+          "t": "p",
+          "x": "Lo que mostraron los investigadores va más allá de nombres repetidos. Los modelos generan “conjuntos de personajes correlacionados”, es decir, ciertos nombres tienen una alta probabilidad de aparecer juntos. También aparecieron de forma repetida la Elena Amara Okafor de Claude, el Aris Sohn y la Lena Petrova de Gemini, y la Elara Voss de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, 404 Media cubrió el caso de Research Gold. Se presentaba como investigación médica hecha por humanos, pero todo había sido generado por IA, y el nombre de su fundadora y metodóloga principal era Elena Vasquez. Tras la noticia, la empresa eliminó ese nombre de su sitio web. En los rumores de Facebook que circularon tras la muerte de Alex Pretti a manos de agentes de la Patrulla Fronteriza de EE. UU. en enero, Snopes informó que las afirmaciones falsas también se atribuyeron a una inexistente “directora Elena Vasquez”."
+        },
+        {
+          "t": "p",
+          "x": "El primer autor, Michał Brzozowski, también revisó bases de datos académicas. “En Zenodo, que opera el CERN y emite DOI reales de DataCite, confirmamos 1.655 registros de autores fantasma que inventaban revistas inexistentes y falsificaban fechas de publicación.” Cualquiera con una cuenta gratuita puede generar un DOI, pero el problema es que ese DOI se propaga hacia afuera. “Es un DOI real que cualquier recolector académico puede rastrear. Ya existe la base para contaminar el registro académico a gran escala. (…) El registro académico está siendo poseído silenciosamente por fantasmas.” Los nombres fantasma forman grupos de investigación sintéticos en ResearchGate y se indexan sin verificación en Google Scholar y Semantic Scholar."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores creen que, como estos nombres aparecen de forma tan consistente entre modelos y versiones, pueden usarse para rastrear el origen del slop de IA. Elena Vasquez apareció con especial frecuencia en textos generados por Claude Sonnet 4. Sin embargo, Brzozowski señaló que esta precisión podría no durar, porque el material generado por IA con estos nombres está inundando internet y volviendo a ser absorbido como datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "La historia de que la IA sacude la publicación académica no es nueva. Ya se había informado de casos de revistas científicas que publicaron frases escritas por IA, de efectos sobre la revisión por pares, y de la decisión del repositorio de preprints arXiv de prohibir durante un año a autores de envíos generados por IA. La utilidad de este estudio está en que estos nombres sirven como pista para detectar más fácilmente el contenido generado por IA."
+        }
+      ]
+    },
+    "books/books-amazon-vgt3-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/1784159289498--2-.jpg",
+          "cap": "Entrada a las instalaciones VGT3 de Amazon"
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, 404 Media informó sobre un almacén donde Amazon escanea y luego desecha miles de libros para obtener datos de entrenamiento de IA. A continuación, una entrevista con un empleado de Amazon que trabajó en ese almacén. Como no tiene autorización para hablar con la prensa, se mantiene en el anonimato. Editado por extensión y claridad."
+        },
+        {
+          "t": "p",
+          "x": "Este empleado trabajó en el almacén VGT3 de Amazon. Comparte edificio con LAS8, que opera un negocio de impresión por demanda, y ambos forman parte del complejo de instalaciones de Amazon en Las Vegas, Nevada. 404 Media colocó un rastreador en un envío de libros raros de una librería de segunda mano que sospechaba estaba siendo comprado por una empresa de IA anónima, y el envío viajó a través de Estados Unidos hasta llegar a VGT3."
+        },
+        {
+          "t": "p",
+          "x": "— ¿Qué hace cuando llega a trabajar a VGT3?"
+        },
+        {
+          "t": "p",
+          "x": "“Hay que caminar hasta el fondo del almacén. Ahí vi los escáneres por primera vez y me pregunté para qué servían. Cuando le pregunté a alguien, me dijo que ni siquiera las personas que trabajaban ahí parecían saber qué estaban haciendo. Al acercarme y juntar las piezas, me fui haciendo una idea. También vi cómo cortaban el lomo de los libros. Cuando termina el escaneo, las hojas sueltas se tiran a un contenedor móvil grande. Todo se mezcla, así que no hay forma de volver a armar un libro.”"
+        },
+        {
+          "t": "p",
+          "x": "— ¿Qué tipo de libros son?"
+        },
+        {
+          "t": "p",
+          "x": "“Llega de todo. Al principio había muchos libros nuevos, y también usados. Algunos claramente parecían descartes de bibliotecas. También recibimos cajas de Londres, muchas con libros de la Universidad de Londres. Había documentos sujetos con grapas; decían que habían sido presentados al Parlamento en nombre de Su Majestad. Vi muchos libros en alemán y en ruso, y los libros en japonés llegaban por tarimas completas. También había libros nuevos y sellados.”"
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro trabajo era abrir las cajas. Sinceramente, aquello se veía como un caos. No había gestión ni organización, y el proceso cambiaba cada día. Metíamos los libros en cajas de transporte y los pasábamos a escaneo y clasificación, y luego otras personas cortaban la encuadernación. Un día nos tocó tirar los duplicados y los libros marcados como ‘esto no se necesita’ a otro contenedor móvil. No se colocaban con cuidado, simplemente se tiraban. Dicen que se devuelven a los proveedores, pero cuando están apilados así en un contenedor de seis o siete pies, dudo que el proveedor evalúe el valor de cada uno.”"
+        },
+        {
+          "t": "p",
+          "x": "— ¿Cómo es la escena de cortar los lomos?"
+        },
+        {
+          "t": "p",
+          "x": "“Es una máquina operada por una persona. Parece una pequeña estación de trabajo, con una persona por máquina. Tiene una cubierta y un lugar separado para empujar el libro, así que es bastante seguro. Se retira la mano, se presiona un botón y la cuchilla baja y corta. Hay al menos veinte escáneres, y hasta unos veinticinco como máximo. Parecen máquinas de contar billetes y pasan las páginas muy rápido. Se ve una pantalla donde las páginas escaneadas pasan a una velocidad increíble.”"
+        },
+        {
+          "t": "p",
+          "x": "— ¿Qué opina de que Amazon haga esto?"
+        },
+        {
+          "t": "p",
+          "x": "“Al principio dijeron que era para Kindle, y no lo creí. Pensé que no podía ser, por los problemas de derechos de publicación y de autor. Después supe que era para IA. Lo que no me gusta es que yo no puedo llevarme estos libros. El conocimiento que contienen es enorme, y algunos parecen ejemplares raros. De hecho, oí que piden libros raros a propósito. Lo que me preocupa es que después ni siquiera se puedan reutilizar: eso significa que hay menos libros que otras personas puedan ver.”"
+        }
+      ]
     }
   }
 }

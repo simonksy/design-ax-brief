@@ -2809,6 +2809,341 @@
           "x": "It's not hands-on yet, though. Since it hasn't been released, Wolfe said he's watching and waiting too."
         }
       ]
+    },
+    "movies/movies-busan-innoasia": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Busan International Film Festival's market, the Asian Contents & Film Market, is holding InnoAsia 2026, a program built around the meeting point of film and new technology."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Busan-ACFM-poster.jpg?w=1000&h=563&crop=1",
+          "cap": "Poster for the Busan Asian Contents & Film Market."
+        },
+        {
+          "t": "p",
+          "x": "This year's roster of participants includes Amazon Web Services, Kling AI, Google DeepMind, and Alibaba Group, alongside other technology and content companies and startups. The program is built around the idea of film and technology growing side by side, spanning everything from brand film collaborations to the fast-growing micro-drama business."
+        },
+        {
+          "t": "p",
+          "x": "ACFM and global marketing agency Innocean are co-hosting a newly launched competition, Cinema by Brand 2026. Selection and production management are handled by the Korea Producers Association. It connects brand clients with filmmakers from around the world to turn an advertising message into an independent film with a narrative, rather than an ordinary ad. This year's assignment is a 20-minute short on the theme of Hanwha Group's “space-based solar power.” First-round selection takes place in early September, final pitches at the end of that month, and the winner is announced during ACFM. Selected teams receive production funding, and the finished work is screened for domestic and international audiences."
+        },
+        {
+          "t": "p",
+          "x": "On the AI technology side, participants include AWS, Google DeepMind, BytePlus, Alibaba Cloud, Netflix's VFX studio Eyeline Studios, Megazone Cloud, OPIM Digital, the Korean Film Archive's VFX trading platform i.AM, Kling AI, and Inshorts. On the content production side, France's Atlas V joins Korea's Matteo AI Studio, MBC C&I, Climax Studio, Four Entertainment, K-Dragon, and Moam, while micro-drama platforms MangoTV, FlickReels, and Biglu round out the list."
+        },
+        {
+          "t": "p",
+          "x": "The seven Korean startups selected through open recruitment were chosen jointly by the Busan Center for Creative Economy & Innovation and AWS. Lumicraft's AI casting tool CastLink pairs actor discovery with contracting and settlement, while Reproduction's Pre-Flow handles scenario analysis and production data sharing. Voithru's Totus offers AI dubbing in 29 languages, and XL8 presents MediaCAT and EventCAT. Digion Cinema shows an online cinema platform and AR smart glasses for watching films, MyStarChain presents the blockchain voting platform MyStarPick, and Hystranger presents Insight Flow, which reads audience emotional response through biosignals."
+        },
+        {
+          "t": "p",
+          "x": "InnoAsia 2026 runs from October 10 to 13 at BEXCO Exhibition Center 2 in Busan, alongside the 31st Busan International Film Festival, which runs from October 6 to 15, and the 21st Asian Contents & Film Market, held over the same period."
+        }
+      ]
+    },
+    "movies/movies-flow-studio-3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk's Flow Studio has moved beyond simply generating video from prompts. The new workflow targets something generative AI has rarely offered: control a director can actually touch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+          "cap": "Autodesk Flow Studio's new 3D Editor and Canvas."
+        },
+        {
+          "t": "p",
+          "x": "This episode of fxpodcast featured Nikola Todorovic, Wonder Dynamics co-founder now at Autodesk. The topic was Flow Studio's new 3D Editor and Canvas, which bundle together hands-on 3D scene building and the output of generative 2D video models."
+        },
+        {
+          "t": "p",
+          "x": "The design intent isn't making a film from a single prompt. It's inserting AI into the production pipeline. It targets both individual filmmakers working in crews of three to five and much larger studios."
+        },
+        {
+          "t": "video",
+          "yt": "Kn93P0LREcU"
+        },
+        {
+          "t": "p",
+          "x": "The premise is simple. Filmmakers direct in three dimensions: they place the camera, block actors, refine performances, and decide where a shot lands. Trying to convey all of that through text prompts or marks on a flat 2D image was always going to run into obvious limits."
+        },
+        {
+          "t": "p",
+          "x": "In the 3D Editor, a shot is assembled from characters, animation, motion capture data, camera tracks, and generated environments. A performance can come from one reference clip, camera movement from another, or the camera can be keyframed directly. Spatially consistent environments, such as Gaussian splat worlds made with World Labs' Marble, are used for blocking, layout, and camera design."
+        },
+        {
+          "t": "p",
+          "x": "Next comes Canvas, a node-based 2D environment where the final image is generated and refined. This is where today's AI video models already do well: integrating lighting, atmosphere, simulation effects, and a cinematic finish."
+        },
+        {
+          "t": "p",
+          "x": "The 3D scene itself doesn't produce the final pixels. It sets the performance, staging, composition, and camera movement that guide the generated result. If speed matters, you can stay inside Canvas alone, and move into 3D only when a shot needs precise direction."
+        },
+        {
+          "t": "p",
+          "x": "Todorovic talks about generative AI's 80/20 rule. A prompt and an AI model get the first 80 percent of an image done astonishingly fast. The problem comes when a director asks for a precise fix: move this object, change that performance, adjust the camera path, but don't touch what already looks good."
+        },
+        {
+          "t": "p",
+          "x": "That last 20 percent is where prompt-only work becomes unpredictable. It's also where the “AI slop” criticism comes from. Without a way to reach directly into the shot, what artists get back is whatever interpretation the model judged statistically safest."
+        }
+      ]
+    },
+    "movies/movies-human-gen-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hollywood filmmakers, executives, and actors have been meeting privately with Silicon Valley executives for the past three years, trying to settle a question the industry has carried for a long time: where does AI become useful within a creative process that people control?"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
+          "cap": "Photo: Getty Images for Disney."
+        },
+        {
+          "t": "p",
+          "x": "The meetings were first convened by Lucasfilm's Kathleen Kennedy and American Film Institute dean Susan Ruskin, in November 2023. At a gathering of around 120 people last weekend, the coalition arrived at a single framework. It maps out where AI has already entered the film industry, sets out how people can retain control in the remaining use cases, and addresses the scope for AI to produce copyrightable work."
+        },
+        {
+          "t": "p",
+          "x": "The framework was first reported by The Ankler. According to Page Six Hollywood, attendees included actor and InterPositive co-founder Ben Affleck, A24 partner Scott Belsky, CAA agent Greg Siegel, Paramount+ originals executive Chris Parnell, “Stutz” producer Diane Becker, 30 Ninjas CEO Zade Weintraub, and director John Avnet."
+        },
+        {
+          "t": "p",
+          "x": "The document is called Human Generative Workflows. In its first public statement, the coalition said it was meant to “spark industry discussion and provide a shared vocabulary for thinking about authorship in the generative AI era.” It drew a line against tackling more urgent issues like how models are trained or how jobs will be affected."
+        },
+        {
+          "t": "p",
+          "x": "“This conversation is bigger than AI,” the coalition said of the framework. “The future of entertainment won't be built by AI alone. It will be built by the choices we make about how to integrate AI into the creative process.”"
+        },
+        {
+          "t": "p",
+          "x": "The document first takes issue with how the industry talks about AI today, pointing out that the abbreviation “AI” covers everything from DaVinci Resolve's color grading assist to prompt-based synthetic performances that replace actors, in a single breath. So it proposes a classification system that sorts the AI already on set into categories, one that could eventually be used with audiences as well."
+        },
+        {
+          "t": "p",
+          "x": "It also lists machine-learning-based tools that already produce copyrightable work. Items on the list of AI-assisted tasks include “upscaling and sharpening” and “markerless motion capture.”"
+        },
+        {
+          "t": "p",
+          "x": "The dividing line is AI-generated assets like voices and likenesses. The document defines these as tools that “replace human creative work,” distinguishing between “a set of tools and processes that serve a human's creative vision, versus prompt-based generative tools that replace it.” In the coalition's judgment, this latter category does not carry copyright."
+        }
+      ]
+    },
+    "movies/movies-lineo-producers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lineo, aimed at commercial production, has released a production management platform that runs a job from first bid to final wrap in one place. It covers budgets, calendars, bid letters, bid packages, purchase orders, payroll, and petty cash ledgers, with actual spend visible to the whole team in real time. It was built by working producers Corwin Carroll, Erik McCaslin, and Austin Beckford."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Calendar_UI_Laptop-1.jpg",
+          "cap": "Lineo's production calendar screen."
+        },
+        {
+          "t": "p",
+          "x": "“Commercial production has never been squeezed harder than it is now. Deliverables keep growing, budgets keep shrinking,” says co-founder Carroll. “The only way out is working smarter. After more than a year of use by executive producers, line producers, and coordinators, Lineo has cut bidding time, which lets us work three times faster. We put that saved time back into the work itself.”"
+        },
+        {
+          "t": "p",
+          "x": "Production teams usually run on a dozen or so tools that don't talk to each other. Lineo says it has folded all of that into a single operating screen. At the bidding stage, producers build real-time, collaboratively edited budgets using the AICP/APA formats they already use, with support for the world's top 20 currencies. The planning stage brings calendars and resources onto one screen so the whole team sees the same picture."
+        },
+        {
+          "t": "p",
+          "x": "At the package stage, you pull in a past budget, polish the bid letter with AI, brand the calendar, and export a single PDF bid package without ever leaving the app. At the settlement stage, AI scans and parses purchase orders, payroll, and petty cash to log them, and the result flows into actual spend figures that accounting software can read."
+        },
+        {
+          "t": "p",
+          "x": "Production Assistant is an AI that pulls this job's data on the spot. “List unpaid purchase orders over $5,000.” “What's the deadline for the Taft-Hartley filing?” You can upload bid specs, scripts, and treatments and ask directly. Outside the assistant too, AI reads invoices, payroll documents, and receipts to fill in purchase order, payroll, and petty cash ledgers on its own, removing the window that used to produce the most mistakes at wrap."
+        },
+        {
+          "t": "p",
+          "x": "The macOS desktop app runs fully offline. You can use it on a plane or on location and it syncs the moment you're back online. Security includes end-to-end encryption, tenant isolation with row-level permissions, payments handled only through Stripe, AI document processing that retains no data, and personal information that's automatically erased."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is split between an individual-producer plan and a production-team plan. Coming add-ons include ReelFlow, for sharing reels and libraries with collaborators, and Accounting Sync, for exporting directly to Xero and QuickBooks."
+        },
+        {
+          "t": "p",
+          "x": "“After running a production company for a long time, what I needed most was for owners, executives, and accounting to see the situation in real time,” explains co-founder Beckford. “Because finding out a month later, there's nothing left you can do about it.”"
+        }
+      ]
+    },
+    "movies/movies-cocomelon-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Moonbug Entertainment, the children's content studio behind Cocomelon, Little Baby Bum, Blippi and Mia's Magic Playground, has asked its in-house animators to try using AI when making its shows, according to 404 Media."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png",
+          "cap": "Moonbug Entertainment"
+        },
+        {
+          "t": "p",
+          "x": "A generative AI policy and a 'Studio AI Bible' obtained by 404 Media show the company is still in the early stages of experimentation, with multiple layers of guardrails set up because of the legal and copyright issues that come with deeper AI use."
+        },
+        {
+          "t": "p",
+          "x": "“Keep a human in the loop when using AI. AI is a tool to assist the artist, not the artist,” one part of the guidelines reads. “Copyright only applies to human-made work. So the final output must contain substantial human creativity. Core IP — meaning primary characters, signature worlds, and important backgrounds — must reflect human creative intent.”"
+        },
+        {
+          "t": "p",
+          "x": "Moonbug's shows have hundreds of millions of subscribers on YouTube. A Cocomelon spinoff airs on Netflix, a Cocomelon movie with Universal is in the works, and the series is moving to Disney+ next year."
+        },
+        {
+          "t": "p",
+          "x": "A spokesperson told 404 Media that “generative AI is not currently used in our content episodes.” The guidelines ban AI from generating major creative elements from scratch, such as new characters, core storylines, or song lyrics. All output goes through human-led quality control, including frame-by-frame visual review, the spokesperson said."
+        },
+        {
+          "t": "p",
+          "x": "The guidelines allow AI in brainstorming, scriptwriting, storyboarding, design and animation, but attach conditions at every stage. Altering a voice actor's or performer's delivery without legal sign-off is not allowed. AI can polish a human-written draft but cannot ghostwrite one. Parts considered the 'soul' of the story — character arcs, key twists, and song lyrics — are left to humans. Feeding a 100% AI-made design straight into the production pipeline is also blocked."
+        },
+        {
+          "t": "p",
+          "x": "The details are quite strict. AI can be used for 'generic' background designs and textures — like trees or furniture — swapping character outfits, and turning a human-drawn 2D character into a 3D turnaround. New characters are, in principle, made by humans. The same goes for unique props that get major attention in a series, like a clubhouse."
+        },
+        {
+          "t": "p",
+          "x": "Each tool must receive individual legal approval. Employees first test tools on non-Moonbug-IP test assets. All AI use, including prompts, is logged and kept, and AI-made assets are stored in separate folders from human-made ones. The company calls this approach 'provenance and isolation.'"
+        },
+        {
+          "t": "p",
+          "x": "The prompt guide says to upload a human-drawn sketch or Moonbug-owned IP as a structural reference, then use AI to add texture and lighting. Text-to-image prompts are banned outside brainstorming and research. Style mimicry, such as “in the style of Pixar” or “in the style of Ghibli,” is also blocked. Instead, the guidance calls for descriptive language, like “hand-painted watercolor feel.”"
+        },
+        {
+          "t": "p",
+          "x": "Last May, IATSE workers on the live-action Cocomelon spinoff went on strike over wages and benefits."
+        },
+        {
+          "t": "p",
+          "x": "“We see AI as a tool that expands what talented creators can do, not something that replaces the people who make the stories,” the spokesperson said."
+        }
+      ]
+    },
+    "movies/movies-media-composer-2026-8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Avid Media Composer 2026.8 already caused a stir with the announcement that third-party bin locking is effectively being moved to a premium tier starting with this version. Now that the full feature set has been revealed, there turns out to be more in this release than that."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg",
+          "cap": "Avid Ready to Edit"
+        },
+        {
+          "t": "p",
+          "x": "The release date is September 1. Avid says 2026.8 expands collaboration and storage options for Shared Projects. Avid NEXIS can now be used with Shared Projects starting at the Standard tier. As previously reported, the Enterprise tier gets verified third-party storage support, which is absent from the tiers below it."
+        },
+        {
+          "t": "p",
+          "x": "Media Composer First, the free entry-level tier, is also being expanded for students and beginner editors. Details have not yet been released."
+        },
+        {
+          "t": "p",
+          "x": "Ready to Edit is a new agentic feature that automates content preparation before editing begins. The connection between Media Composer and Avid Content Core is also getting tighter. A new Content Core panel lets users import and publish assets without leaving Media Composer."
+        },
+        {
+          "t": "p",
+          "x": "There are also updates shared across the Standard, Ultimate and Enterprise tiers. PhraseFindAI Multicam Auto Cut picks multicam angles based on who is speaking and places cuts at pauses in speech. Transcript Tools gained undo for transcript edits, segment splitting, and continuous playback in the viewer. The OpenTimelineIO 2.0 adapter improves accuracy when moving between third-party tools. A new What's New window links out to documentation and learning materials."
+        },
+        {
+          "t": "p",
+          "x": "Also added: Bin Column Search, audio track replacement for subclips, Titler+ keyframe correction, and expanded APIs for automation and integration."
+        },
+        {
+          "t": "p",
+          "x": "At IBC, there's also a first preview of a browser-based Media Composer workflow, starting from web editing in Avid Content Core. It could be a fairly big change for Avid editors. A new embedded AI preview, powered by a Google Gemini panel, is being unveiled alongside it."
+        }
+      ]
+    },
+    "movies/movies-scantic-3dgs": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Software developer Sebastian Beyer has released Scantic, an iPhone app that creates 3D Gaussian splats of objects and spaces using nothing but ordinary phone camera footage."
+        },
+        {
+          "t": "p",
+          "x": "Training takes “under a minute.” Unusually for this kind of app, processing happens entirely on the phone: scan data is never uploaded to the cloud. The basic app is free, and higher-quality export modes are unlocked with payment."
+        },
+        {
+          "t": "p",
+          "x": "3D Gaussian splatting reconstructs real objects from images or video into a fast-rendering, high-quality 3D representation. Scantic works the same way as other tools: once a scan starts, circling the subject while filming generates a splat from the captured images. A small scan takes “under a minute” to process, and the result can be exported in PLY format for use in DCC apps that support 3DGS."
+        },
+        {
+          "t": "p",
+          "x": "CG Channel has also covered mobile 3D scanning apps like Kiri Engine and Polycam. Both have more features and include tools for trimming and editing scan data. What sets Scantic apart is that processing finishes entirely on the user's phone, avoiding security concerns and cutting out a time-consuming step. Beyer says that by the time other apps finish uploading data, Scantic has already finished training the splat."
+        },
+        {
+          "t": "p",
+          "x": "Beyer's background is in software engineering, not CG art — he uses Blender for personal projects. Scantic grew out of a self-assigned summer project: using AI coding tools, without being a 3DGS expert, to speed up an existing 3D Gaussian splatting workflow."
+        },
+        {
+          "t": "p",
+          "x": "The first splat he made from iPhone footage using the open-source Brush engine took more than three hours to train on a MacBook Air. With help from the Claude Fable 5 model, he steadily improved performance, eventually reaching up to 260 times faster. He then gradually moved the pipeline onto the iPhone. It became an iPhone-only app “almost by accident.”"
+        },
+        {
+          "t": "p",
+          "x": "Going forward, he plans to let splats train from existing footage rather than just live capture, and to add SPZ format export. A macOS companion app is possible, but there are no plans for an Android version. “Apple's hardware range is relatively controlled,” he says. “On Android, it would only run well on some high-end devices, and the experience would be poor on the rest.”"
+        },
+        {
+          "t": "p",
+          "x": "Scantic requires iOS 17.0 or later and an A12 Bionic chip or newer, meaning it runs on the iPhone XS from 2018 onward. The free basic app unlocks standard-quality export, which produces a thinned-down, lower-resolution version of the scan. The highest-quality export requires a subscription of 29.99 euros (about $35) per year. Exporting a single scan at the highest quality is also possible, at 4.99 euros per scan."
+        }
+      ]
+    },
+    "movies/movies-wonka-gene-wilder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netflix has released the official trailer for a bizarre reality competition series based on Willy Wonka & the Chocolate Factory."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810",
+          "cap": "Netflix's Wonka's The Golden Ticket"
+        },
+        {
+          "t": "p",
+          "x": "The title is Wonka's The Golden Ticket. It's a nine-episode unscripted series in which contestants wander a colorful 'factory' and compete in challenges drawn from Roald Dahl's original novel. Netflix acquired the Roald Dahl Story Company in 2021."
+        },
+        {
+          "t": "video",
+          "yt": "kGVuOT6h11c"
+        },
+        {
+          "t": "p",
+          "x": "In the trailer, contestants cheerfully endure all kinds of chaos, led by the voice of the late actor Gene Wilder — the actor who played Willy Wonka in the 1971 film. Netflix and production company Eureka Productions revived the voice with AI company ElevenLabs, with permission from Wilder's family. It's not an entirely comfortable choice, and some may find it disrespectful or, worse, unsettling."
+        },
+        {
+          "t": "p",
+          "x": "The official description reads: “Twelve lucky Golden Ticket winners, each with a partner of their choosing, step through the doors of Wonka's chocolate factory into a world of pure imagination, sweet mischief, and unexpected challenges. Once inside, contestants must navigate Wonka's games, trials, and temptations, designed to test their strength, intellect, and morality. In this high-stakes social experiment, contestants adapt, strategize, and endure the unknown as they move through the factory's wondrous and unpredictable landscape. They must prove the intuition, resilience, and character needed to survive the chaos. Only the one who remains at the end wins Wonka's life-changing prize.”"
+        },
+        {
+          "t": "p",
+          "x": "Regarding the use of the voice, Gene Wilder's wife, Karen B. Wilder, released a statement on behalf of his estate. “It's been over fifty years since Gene brought Willy Wonka to life, yet people around the world, of every age and background, still find joy, laughter and inspiration in his performance. Gene had a singular gift for bringing humor, wonder and heart into people's lives, and that connection has carried across generations. We're delighted that Wonka's The Golden Ticket honors the warmth and imagination he brought to the role, passing that magic on to a new generation while also paying tribute to the fans who have treasured it for decades.”"
+        },
+        {
+          "t": "p",
+          "x": "Alongside the revived voice, Rusty Goffe, who played an Oompa Loompa in the 1971 film, also appears."
+        },
+        {
+          "t": "p",
+          "x": "Chris Culvenor, Paul Franklin, Rikki Proost, David Tibballs, Allison Holloway and Emer Harkin serve as executive producers. It premieres September 23."
+        }
+      ]
     }
   }
 }

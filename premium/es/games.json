@@ -2932,6 +2932,347 @@
           "x": "El comunicado termina así: “Esto parece ser un caso que explota una debilidad estructural de las plataformas de streaming. Dado que ya hubo casos previos de pistas no oficiales e inéditas reproducidas de oído y distribuidas, estamos considerando alguna forma de respuesta.”"
         }
       ]
+    },
+    "games/games-horii-slimey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EADR8yQe57SZzFdAZnAkq9-1920-80.jpg",
+          "cap": "Dragon Quest 10. Crédito de imagen: Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Yuji Horii, creador de Dragon Quest, dijo que es fan de la IA. Afirmó que la IA ha avanzado mucho en los últimos años y que ahora “casi no se inventa nada”. El comentario surgió cuando le preguntaron por el chatbot basado en Gemini añadido recientemente al MMO de la serie."
+        },
+        {
+          "t": "p",
+          "x": "La serie Dragon Quest se considera una de las que incorporó uno de los sistemas de IA más tempranos en la historia de los videojuegos. En Dragon Quest 4, de 1990, los jugadores daban instrucciones generales a los miembros del grupo y la IA elegía las acciones de cada uno. Esta nueva incorporación de IA no ha sido recibida con el mismo entusiasmo."
+        },
+        {
+          "t": "p",
+          "x": "Dragon Quest 10, un MMO que solo opera en Japón, lanzó recientemente su séptima y última expansión, Lost Children of Time and Space, y las opiniones se dividieron sobre una nueva función incluida en ella: un compañero llamado Oshaberi Slimey, literalmente “slime parlanchín”, el icónico slime azul de Dragon Quest con sombrero de bufón. Los fans se decepcionaron al saber que este Slimey funciona con un chatbot basado en Google Gemini."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con Famitsu, recogida por GamesRadar+, Horii explicó por qué añadió a Slimey y compartió su visión sobre la IA. “Hoy en día la IA es realmente inteligente, así que es divertida”, dijo. “Sin importar qué le preguntes, ahora casi no se inventa nada.”"
+        },
+        {
+          "t": "p",
+          "x": "La IA suele tener problemas de precisión factual, porque tiende a dar una respuesta incluso cuando no tiene la información necesaria. Este diseñador de videojuegos, sinónimo de Square Enix, ha vivido lo mismo. “Hace tiempo le pregunté a la IA sobre mí mismo, y me dijo que era 'empleado de Nintendo'”, contó entre risas."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, defendió la IA de esta manera: “La IA está evolucionando, y hoy en día se puede hacer mucho con ella. Como Slimey es un interlocutor, creo que reduce la barrera para relacionarse con la IA.”"
+        }
+      ]
+    },
+    "games/games-ironmace-aura": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "IRONMACE, creador de Dark and Darker, ha contado cómo usó Aura. Un diseñador sin formación técnica tocó directamente el código base del juego, prototipó un sistema de tutorial y se coordinó con ingenieros, terminando en solo unas semanas lo que el estudio estimaba que tomaría de 5 a 6 semanas."
+        },
+        {
+          "t": "video",
+          "yt": "au1qwSYq4vA"
+        },
+        {
+          "t": "p",
+          "x": "El uso de la IA en el desarrollo de videojuegos va mucho más allá del arte generativo, y ya hay estudios probando nuevas técnicas fuera de la vista del público. Para IRONMACE, eso significaba ver si un diseñador con poca experiencia en programación podía contribuir directamente a implementar una gran funcionalidad nueva con la ayuda del asistente de codificación de IA, Aura."
+        },
+        {
+          "t": "p",
+          "x": "El objeto del experimento fue algo que Dark and Darker notablemente no tenía: un tutorial propiamente dicho. Hasta ahora, su ausencia se había explicado apelando a la identidad “hardcore” de este crawler de mazmorras de extracción, pero el verdadero obstáculo eran los recursos de desarrollo. Hacer un tutorial habría exigido sacar a los desarrolladores de tareas urgentes para dedicarlos a la incorporación de nuevos jugadores."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Crédito de imagen: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "En palabras del CEO y cofundador de IRONMACE, Terence Park: “Mi formación es en diseño de juegos y producción. Toco algo de scripting y conozco estructuras de datos, pero la programación no es mi punto fuerte.” Normalmente, esto habría significado armar un equipo dedicado con personal para cada rol, más reuniones y la gestión de un pipeline difícil de manejar."
+        },
+        {
+          "t": "p",
+          "x": "En la práctica, el proceso fue flexible. La primera reunión definió el esqueleto de la idea, y después Park tomaba las grandes decisiones mientras Aura completaba el contexto detallado. Una vez decidido ir con un tutorial por puntos de control, cada punto de control se construyó junto con Aura."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Crédito de imagen: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "El equipo funcionó a través de una sala de chat de colaboración, subiendo activos de ejemplo a un repositorio en lugar de documentos. Como los miembros del equipo trabajaban en distintas zonas horarias, Park se conectaba en su propio horario, usaba Aura para ver qué se había añadido y se ponía a crear contenido de inmediato. Si dejaba la función deseada en el chat del grupo, por lo general la nueva función aparecía al día siguiente."
+        },
+        {
+          "t": "p",
+          "x": "Para algunos disparadores de tutorial complejos que no se terminaron a tiempo, Park hizo que Aura escribiera el código directamente. Así se creó, por ejemplo, la sección del tutorial en la que se aprende a recoger vendas del cadáver de un esqueleto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg",
+          "cap": "Dark and Darker. Crédito de imagen: IRONMACE"
+        },
+        {
+          "t": "p",
+          "x": "La verificación y las pruebas las siguió haciendo una persona dentro del editor del juego. Los widgets de interfaz y las conexiones lógicas que generaba Aura eran utilizables, pero el acabado final quedó en manos de los artistas."
+        },
+        {
+          "t": "p",
+          "x": "“Ahora confío en esto”, concluye Park. Un ingeniero que no conocía bien el código base construyó buena parte del sistema básico, y un trabajo que se esperaba que tomara de 5 a 6 semanas se terminó en la mitad de ese tiempo gracias a Aura."
+        }
+      ]
+    },
+    "games/games-ludoai-keyframe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141132/89718/ludoai_l1200.jpg",
+          "cap": "Keyframe Animation de Ludo AI. Crédito de imagen: PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI ha lanzado Keyframe Animation, una herramienta que permite a los desarrolladores controlar directamente la animación de sprites generada por IA, al mismo tiempo que amplía sus funciones de animación existentes, que ya cubrían assets 2D y 3D."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en la app de Ludo, la API y el servidor MCP. Los desarrolladores fijan hasta tres poses clave, y Ludo rellena los fotogramas intermedios."
+        },
+        {
+          "t": "p",
+          "x": "También se añadió un rigging 3D con un solo clic. Coloca sobre el modelo un esqueleto listo para el motor, sin software externo ni trabajo manual."
+        },
+        {
+          "t": "p",
+          "x": "Las poses de inicio, intermedia y final las define el desarrollador. Se pueden usar imágenes propias o la función de generación de poses integrada en Ludo. Una vez fijados los keyframes, el texto de aviso es opcional, ya que son las poses las que guían la animación."
+        },
+        {
+          "t": "p",
+          "x": "Ludo AI dijo que genera hasta 64 fotogramas y permite ajustar duración, tamaño y resolución. Admite sprites de personajes, efectos visuales y assets de interfaz, y el bucle se cierra de forma fluida por defecto."
+        },
+        {
+          "t": "p",
+          "x": "Una vez rigged, el modelo se mueve con la biblioteca de movimientos predefinidos de Ludo. También se puede escribir el movimiento deseado en texto para añadir movimiento personalizado. Las animaciones personalizadas salen en cuatro variantes, que se pueden previsualizar sobre el modelo antes de exportarlas como un único archivo de animación."
+        },
+        {
+          "t": "p",
+          "x": "Jorge Carvalho Gomes, cofundador y CTO de Ludo.ai, dijo lo siguiente: “Ahora cualquiera puede crear animación de sprites con IA. Esa parte está prácticamente resuelta. Lo difícil es conseguir exactamente la animación que tenías en la cabeza.”"
+        },
+        {
+          "t": "p",
+          "x": "“Con Keyframe Animation no describes un movimiento y esperas que salga bien. Tú fijas las poses exactas por las que pasará la animación, y Ludo rellena el resto.”"
+        }
+      ]
+    },
+    "games/games-ryzachat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/sleeping.jpg",
+          "cap": "Ryza en RyzaChat: AI. Crédito de imagen: Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "La serie Atelier de Koei Tecmo y Gust ha explotado en popularidad mundial en los últimos años. El éxito de Atelier Ryza y el diseño de su protagonista tuvieron parte en ello; el propio equipo admitió haber hecho al personaje deliberadamente sensual para atraer a más jugadores. Los desarrolladores siguieron adelante con otras historias en varios títulos nuevos sin Ryza, pero su popularidad y su aspecto finalmente la convirtieron en el objeto del último experimento de IA generativa de Koei Tecmo: un plan para canalizar los sentimientos parasociales de los fans hacia un RPG de chatbot de IA gratuito para empezar."
+        },
+        {
+          "t": "p",
+          "x": "Con más de la mitad de las compañías japonesas de videojuegos ya experimentando con IA, no sorprende que Koei Tecmo se haya unido a la startup japonesa de IA Spiral AI para lanzar un proyecto así. El nuevo spinoff móvil empaqueta ese experimento en un RPG de IA protagonizado por Ryza, el personaje más querido de la serie: Ryza saliendo de nuevo a la aventura, o simplemente Ryza como compañera de conversación."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Ryza-AI.jpg",
+          "cap": "RyzaChat: AI. Crédito de imagen: Koei Tecmo"
+        },
+        {
+          "t": "p",
+          "x": "RyzaChat: AI, lanzado hoy en Japón para iOS y Android, vuelve a la isla de Kukkien, el escenario del Atelier Ryza original. A través de un chatbot abierto, los jugadores interpretan lo que los desarrolladores describen como misiones generadas y personalizadas casi infinitas con Ryza y otros personajes de la serie. Además del modo RPG, hay un modo de “chat libre” para conocer a Ryza mediante conversación sin tema fijo. Para quienes quieran la voz sintética de este personaje susurrándoles al oído, hay incluso un modo ASMR."
+        },
+        {
+          "t": "p",
+          "x": "El equipo llama a este proyecto una aventura de IA ética. Los registros de conversación del juego no se usan para entrenar futuros modelos de IA, y la voz de Ryza se entrenó únicamente con grabaciones de la actriz de voz japonesa original. No se incluyó arte ni modelos de IA generativa en el juego; los artistas originales volvieron para dibujar arte nuevo."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, funciona con un modelo de suscripción que incluye trajes exclusivos para suscriptores, como bikinis, y una vez agotados los tokens gratuitos, seguir la conversación exige un pago aparte. Está diseñado para una franja muy estrecha de los fans de la serie, y hay amplio margen para la explotación de quienes se encariñan con la compañera Ryza."
+        },
+        {
+          "t": "p",
+          "x": "También se planea un lanzamiento global. La versión japonesa de la app ya admite varios idiomas, incluido el inglés, pero aún no se ha fijado una fecha de lanzamiento en el extranjero."
+        }
+      ]
+    },
+    "games/games-sega-crazytaxi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/ss_c213e51098f46b7466d5526b05335efe20e7ab7f-1920x1080.jpg?w=1600&h=900&fit=crop",
+          "cap": "Crazy Taxi: World Tour. Crédito de imagen: Sega"
+        },
+        {
+          "t": "p",
+          "x": "El modo multijugador de Crazy Taxi: World Tour se reveló por primera vez el martes en Gamescom ONL. Si el uso de IA durante el desarrollo dificultó dar la bienvenida sin reservas al regreso de esta serie de Sega, hay buenas noticias: Sega ha vuelto a aclarar exactamente dónde usó IA al desarrollar Crazy Taxi, y aunque no es perfecto, es mucho mejor que lo que se sabía al principio."
+        },
+        {
+          "t": "p",
+          "x": "Cuando sonó ese icónico “Yeah yeah yeah yeah yeah” en el tráiler de presentación de World Tour en el Xbox Games Showcase, salté de emoción igual que todos los demás. Crazy Taxi había vuelto, la banda sonora seguía intacta y las breves imágenes mostradas se veían bien."
+        },
+        {
+          "t": "p",
+          "x": "El problema vino justo después. Cuando se revela un juego, lo primero que hace la gente hoy en día es abrir su página de Steam para comprobar si se usó IA. La página de World Tour sí llevaba un aviso de uso de IA, y quienes minutos antes estaban entusiasmados le dieron la espalda."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg?q=90&fit=crop&w=1200",
+          "cap": "Crazy Taxi: World Tour. Crédito de imagen: Sega"
+        },
+        {
+          "t": "p",
+          "x": "El aviso era incluso vago: solo confirmaba que la IA no había sustituido a los artistas del juego. Sega tomó nota de la reacción negativa y, como detectó Automaton, revisó el aviso de IA en la página de World Tour para explicar con precisión cómo se usó la IA generativa en el desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "La mala noticia es que se usó IA, y eso no se puede evitar. La buena noticia es que se usó solo “como parte del proceso de ideación de objetos de fondo”. Hay una noticia aún mejor: Sega ha prometido eliminar por completo, antes del lanzamiento de la versión final, el contenido generado por IA usado para ayudar en la ideación y lo que quede de él en esos objetos de fondo."
+        },
+        {
+          "t": "p",
+          "x": "No es perfecto, pero es una gran mejora respecto al vago “se usó IA” anterior. No está claro cuándo revisó Sega el texto; puede haberlo actualizado hace alrededor de un mes. La gente solo lo notó el martes, al volver a la página tras la publicación del nuevo tráiler."
+        },
+        {
+          "t": "p",
+          "x": "Con esto, World Tour se suma a otros juegos de los últimos años que usaron IA para ideación o material provisional y salieron sin daños graves. Crimson Desert se metió en problemas cuando Pearl Abyss dejó arte de IA problemático en el juego final, y Clair Obscur: Expedition 33 perdió un premio que había ganado por un uso similar de IA durante el desarrollo."
+        }
+      ]
+    },
+    "games/games-gamescom-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/geoff-keighley-on-stage-at-gamescom-onl-holding-a-mic.jpg?w=1600&h=900&fit=crop",
+          "cap": "Geoff Keighley en el escenario de Gamescom Opening Night Live. Crédito de imagen: TheGamer"
+        },
+        {
+          "t": "p",
+          "x": "La Opening Night Live de Gamescom de este año fue un resumen de decepciones de dos horas. Salvo alguna excepción ocasional como Warlock: Dungeons & Dragons o Metro 2039, los anuncios más importantes fueron el remaster de un juego de 10 años y el remake de uno de 29 años."
+        },
+        {
+          "t": "p",
+          "x": "El showcase tenía también otro tipo de incomodidad: una fina capa de IA cubría todo el evento."
+        },
+        {
+          "t": "p",
+          "x": "No era una impresión equivocada. Trece de los 55 juegos anunciados —un 23,64%— usaron IA en el desarrollo o en el marketing. TheGamer revisó entrevistas a desarrolladores, blogs oficiales y avisos de Steam para cada anuncio, y cruzó los resultados con una lista similar publicada por el usuario de Reddit FrostyMagazine9918."
+        },
+        {
+          "t": "p",
+          "x": "1666 Amsterdam usó assets de relleno generados por IA en el juego y en el marketing, y Panache Digital dijo que los retirará antes del lanzamiento. Aion 2 reveló en Steam que la IA generó algunos diseños de cartas Arcana y varios iconos. Ananta usó IA para las interacciones con NPC, y Aniimo la usó de “varias formas”, incluidas las pruebas. Crazy Taxi: World Tour la usó “como referencia” durante el desarrollo, y Like or Die la usó “para ayudar en la creación de algunos assets”. En Crimson Desert: Enhanced Edition, parte de la IA usada para los assets de relleno terminó filtrándose a la versión de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Once Human usa assets generados por IA en su marketing. Petit Planet incluye un chatbot de IA, y HoYoverse ha invertido 14.600 millones de dólares en IA. PUBG Ded.Net escribió en Steam que “usa herramientas de IA para ayudar a desarrollar parte del contenido dentro del juego”. El trabajo de voz de IA generativa de The Blood of the Dawnwalker es un marcador de posición, y Rebel Wolves dijo que lo sustituirá con voces de actores antes del lanzamiento. Train Sim World 7 usó la conversión de texto a voz de ElevenLabs para sus anuncios, y Zoopunk permite a los jugadores usar IA en la personalización."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/mixcollage-08-jun-2026-10-14-am-9919.jpg",
+          "cap": "Crédito de imagen: Sega"
+        },
+        {
+          "t": "p",
+          "x": "El 23,64% es una cifra generosa: solo cuenta los juegos que admitieron haber usado IA."
+        },
+        {
+          "t": "p",
+          "x": "Capcom dijo que usará IA “de forma agresiva” en el desarrollo. Matthew Karch, CEO de Saber Interactive, es defensor de la IA, y el recién revelado Rideshare 'Stimulator' incluyó trabajo de voz generado por IA en todo, desde misiones hasta diálogos localizados y música. A juzgar por el interés mostrado por los estudios, Monster Hunter Outlanders y Turok Origins probablemente también usaron IA en algún punto del desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "En muchos casos, la IA solo se usó en assets de relleno, lo cual resulta igualmente polémico entre los jugadores. Los assets de relleno no se crean en el vacío: están pensados para orientar a quienes construyen el resultado final. Por eso Larian Studios recibió una mirada tan dura el año pasado tras admitir que usó IA en las primeras etapas de Divinity."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio reciente de BCG encontró que el 20% de los títulos nuevos del tercer trimestre de 2025 declararon el uso de IA, pero se estima que en realidad cerca de la mitad de los estudios usan IA en el desarrollo. Recordando que Geoff Keighley abrió el showcase mencionando el aumento de los precios de la computación, resulta bastante irónico que el escenario terminara lleno de juegos que usaron IA."
+        }
+      ]
+    },
+    "games/games-gta6-no-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_02.jpg",
+          "cap": "Grand Theft Auto VI. Crédito de imagen: GameSpot"
+        },
+        {
+          "t": "p",
+          "x": "Grand Theft Auto VI es el juego más esperado del año, quizás de toda la historia. Netflix emitió un tráiler extendido de 27 minutos, y después llegó una ola de coberturas. Varios medios visitaron Rockstar North en Escocia, y según uno de ellos, GTA VI no tendrá microtransacciones al lanzamiento y se desarrolló sin inteligencia artificial generativa."
+        },
+        {
+          "t": "p",
+          "x": "En el Kinda Funny Gamecast, Andy Cortez y Greg Miller le preguntaron a Rob Nelson, codirector de estudio de Rockstar North, dos cosas: si hay margen para microtransacciones en GTA, y si se usó IA generativa en el desarrollo. Ambos dijeron que la respuesta fue simplemente “no”."
+        },
+        {
+          "t": "p",
+          "x": "“¿Se pueden comprar cosas del juego con dinero real? Sin monetización.” Son palabras de Cortez. Miller continuó: “Lo preguntamos sin rodeos. '¿Hay IA en el juego?' Sin IA.”"
+        },
+        {
+          "t": "p",
+          "x": "El hecho de que no se usara IA generativa también aparece en el reportaje especial sobre Grand Theft Auto VI de The New York Times, publicado el mismo día. El artículo, citando a Rockstar, dice que las animaciones de GTA VI superan ampliamente las 600.000. Grand Theft Auto V tenía 55.000, y Red Dead Redemption 2, 300.000. El artículo también confirmó que Rockstar destacó el “trabajo artesanal hecho a mano” del nuevo juego."
+        }
+      ]
+    },
+    "games/games-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Crédito de imagen: Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta lanzó Meta XR Operator, una herramienta experimental que permite a los agentes de codificación con IA compilar, probar y depurar apps de VR por sí mismos, y luego revisar la pantalla para confirmar el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores ya habían acelerado la lectura y escritura de código con agentes de IA, y lo mismo pasaba con ejecutar pruebas y corregir errores. Lo que faltaba era un paso que confirmara si todo eso realmente funcionaba."
+        },
+        {
+          "t": "p",
+          "x": "XR Operator es una capa de API de OpenXR. Llega como componente en fase experimental en Meta XR SDK v205."
+        },
+        {
+          "t": "p",
+          "x": "Cualquier agente que admita el Model Context Protocol (MCP) puede ver, moverse por y manipular una app de VR que se ejecuta en Meta XR Simulator. Según Meta, el agente puede crear y ejecutar directamente una escena de Unity, tomar capturas de pantalla para detectar problemas, corregirlos y después confirmar que la corrección es correcta."
+        },
+        {
+          "t": "p",
+          "x": "También incluye pruebas en lenguaje natural. El desarrollador escribe un escenario de prueba con palabras, el agente lo ejecuta tal cual, y devuelve evidencia de aprobado o rechazado con capturas de pantalla adjuntas."
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas iniciales incluyeron a equipos que desarrollan con el Meta XR SDK, entre ellos Beat Games, el estudio detrás de Beat Saber. Uno de los primeros experimentos fue crear una app de tres en raya en VR: el agente escribió la lógica del juego, apuntó un mando virtual a una casilla, pulsó el botón A para colocar una marca, y jugó la partida hasta que hubo un resultado."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "No es una herramienta de verificación completa. No puede oír sonido, y no evalúa bien las animaciones ni el movimiento. Tampoco puede usar el seguimiento a nivel de dedos y se le pasan fallos visuales sutiles. Es demasiado lenta para seguir la interacción en tiempo real, así que también le cuesta con los controles en movimiento. Meta dijo que funciona mejor en “escenarios estáticos y deterministas”."
+        },
+        {
+          "t": "p",
+          "x": "El soporte sigue siendo limitado. Solo funciona con el Meta XR Core SDK para Unity. Para otros motores que usan OpenXR, como Godot o Unreal Engine, los desarrolladores deben descargar un paquete independiente y conectarlo ellos mismos."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR ve a Meta posicionándose para “fabricar una pala mejor” en lugar de extraer el oro ella misma, una elección distinta al enfoque que siguió desde la era de Rift en 2016 hasta principios de este año con Quest, comprando estudios de VR y volcando millones de dólares en contenido exclusivo. Se espera más información en Meta Connect 2026, que abre el 22 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Los primeros resultados del desarrollo de juegos con IA ya se están notando. Modders independientes están usando IA para llevar juegos de PC planos a VR, y la lista sigue creciendo cada día. Con una barrera de entrada más baja, los mods salen mejores y más rápido."
+        }
+      ]
     }
   }
 }

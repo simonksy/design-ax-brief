@@ -2665,6 +2665,267 @@
           "x": "Por ahora no se puede probar directamente. Como todavía no se ha publicado, Wolfe dijo que también está esperando y observando."
         }
       ]
+    },
+    "movies/movies-flow-studio-3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Flow Studio, de Autodesk, ha dado un paso más allá de simplemente generar video a partir de prompts. El nuevo flujo de trabajo apunta a algo que la IA generativa rara vez ha ofrecido: un control que el director puede tocar de verdad."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/fxg-featured-Flow.jpg",
+          "cap": "El nuevo 3D Editor y Canvas de Autodesk Flow Studio."
+        },
+        {
+          "t": "p",
+          "x": "Este episodio de fxpodcast contó con Nikola Todorovic, cofundador de Wonder Dynamics y ahora en Autodesk. El tema fue el nuevo 3D Editor y Canvas de Flow Studio, que combinan la construcción manual de escenas 3D con el resultado de los modelos de video 2D generativos."
+        },
+        {
+          "t": "p",
+          "x": "La intención del diseño no es hacer una película con un solo prompt, sino insertar la IA dentro del proceso de producción. Apunta tanto a cineastas individuales que trabajan en equipos de tres a cinco personas como a estudios mucho más grandes."
+        },
+        {
+          "t": "video",
+          "yt": "Kn93P0LREcU"
+        },
+        {
+          "t": "p",
+          "x": "La premisa es simple: los cineastas dirigen en tres dimensiones. Colocan la cámara, hacen el blocking de los actores, pulen la actuación y deciden dónde cae un plano. Transmitir todo eso solo con prompts de texto o marcas sobre una imagen 2D plana siempre iba a tener límites evidentes."
+        },
+        {
+          "t": "p",
+          "x": "En el 3D Editor, un plano se construye a partir de personajes, animación, datos de captura de movimiento, trayectorias de cámara y entornos generados. La actuación puede venir de un clip de referencia, el movimiento de cámara de otro, o la cámara puede animarse directamente con keyframes. Entornos espacialmente coherentes, como los mundos de Gaussian splats hechos con Marble de World Labs, se usan para el blocking, el layout y el diseño de cámara."
+        },
+        {
+          "t": "p",
+          "x": "Luego viene Canvas, un entorno 2D basado en nodos donde se genera y pule la imagen final. Aquí es donde ya destacan los modelos de video de IA actuales: integración de iluminación, atmósfera, efectos de simulación y un acabado cinematográfico."
+        },
+        {
+          "t": "p",
+          "x": "La escena 3D en sí no produce los píxeles finales. Define la actuación, la puesta en escena, la composición y el movimiento de cámara que guían el resultado generado. Si la velocidad es lo urgente, se puede permanecer solo dentro de Canvas, y entrar en 3D únicamente cuando un plano necesita una dirección precisa."
+        },
+        {
+          "t": "p",
+          "x": "Todorovic habla de la regla 80/20 de la IA generativa. Un prompt y la IA logran el primer 80 por ciento de una imagen con una rapidez sorprendente. El problema llega cuando el director pide un ajuste preciso: mover un objeto, cambiar una actuación, retocar la trayectoria de cámara, sin tocar lo que ya quedó bien."
+        },
+        {
+          "t": "p",
+          "x": "Ese último 20 por ciento es el tramo impredecible del trabajo solo con prompts. De ahí también sale la crítica del “AI slop”. Sin una forma de meter la mano directamente en el plano, lo que recibe el artista es la interpretación que el modelo juzgó estadísticamente más segura."
+        }
+      ]
+    },
+    "movies/movies-human-gen-workflows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cineastas, ejecutivos y actores de Hollywood se han reunido en privado con ejecutivos de Silicon Valley durante los últimos tres años, en un intento de resolver una pregunta que la industria arrastra desde hace tiempo: dónde se vuelve útil la IA dentro de un proceso creativo controlado por personas."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2210325176.jpg?crop=0px%2C127px%2C5000px%2C2812px&resize=1000%2C563",
+          "cap": "Foto: Getty Images for Disney."
+        },
+        {
+          "t": "p",
+          "x": "Las reuniones las convocaron por primera vez Kathleen Kennedy, de Lucasfilm, y Susan Ruskin, decana del American Film Institute, en noviembre de 2023. En un encuentro de unas 120 personas el fin de semana pasado, la coalición llegó a un marco único. En él se detalla dónde ha entrado ya la IA en la industria del cine, se define cómo mantener el control humano en los demás usos, y se aborda hasta qué punto la IA puede producir obras con derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "El marco se publicó primero en The Ankler. Según Page Six Hollywood, entre los asistentes estuvieron el actor y cofundador de InterPositive Ben Affleck, el socio de A24 Scott Belsky, el agente de CAA Greg Siegel, el ejecutivo de originales de Paramount+ Chris Parnell, la productora de “Stutz” Diane Becker, el CEO de 30 Ninjas Zade Weintraub y el director John Avnet."
+        },
+        {
+          "t": "p",
+          "x": "El documento se llama Human Generative Workflows. En su primera declaración pública, la coalición dijo que buscaba “impulsar el debate de la industria y ofrecer un vocabulario común para pensar la autoría en la era de la IA generativa”. Aclaró que no pretendía abordar cuestiones más urgentes, como la forma en que se entrenan los modelos o el impacto en los empleos."
+        },
+        {
+          "t": "p",
+          "x": "“Esta conversación es más grande que la IA”, dijo la coalición sobre el marco. “El futuro del entretenimiento no lo construirá la IA por sí sola. Lo construirán las decisiones que tomemos sobre cómo integrar la IA en el proceso creativo.”"
+        },
+        {
+          "t": "p",
+          "x": "El documento cuestiona primero la forma en que la industria habla hoy de la IA, señalando que la sigla “IA” engloba en un mismo aliento desde la asistencia de gradación de color de DaVinci Resolve hasta la actuación sintética basada en prompts que sustituye a los actores. Por eso propone un sistema de clasificación que ordena por categorías la IA ya presente en los rodajes, uno que algún día podría usarse también de cara al público."
+        },
+        {
+          "t": "p",
+          "x": "También recoge las herramientas basadas en aprendizaje automático que ya producen resultados con derechos de autor. En la lista de tareas asistidas por IA aparecen elementos como “escalado y enfoque” y “captura de movimiento sin marcadores”."
+        },
+        {
+          "t": "p",
+          "x": "El criterio que marca la diferencia son los activos generados por IA, como voces y semejanzas. El documento los define como aquello que “sustituye el trabajo creativo humano”, con esta formulación: la diferencia entre “un conjunto de herramientas y procesos al servicio de la visión creativa humana” y “las herramientas generativas basadas en prompts que la sustituyen”. Según el juicio de la coalición, esta última categoría no tiene derechos de autor."
+        }
+      ]
+    },
+    "movies/movies-cocomelon-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Moonbug Entertainment, el estudio de contenido infantil detrás de Cocomelon, Little Baby Bum, Blippi y Mia's Magic Playground, pidió a sus animadores internos que probaran el uso de IA al crear sus producciones, según confirmó 404 Media."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/CleanShot-2026-08-27-at-07.55.58@2x.png",
+          "cap": "Moonbug Entertainment"
+        },
+        {
+          "t": "p",
+          "x": "Una política de IA generativa y una 'Studio AI Bible' obtenidas por 404 Media muestran que la empresa aún está en una etapa temprana de experimentación, con varias capas de salvaguardas establecidas por los problemas legales y de derechos de autor que conlleva un uso más profundo de la IA."
+        },
+        {
+          "t": "p",
+          "x": "“Mantén a una persona en el proceso al usar IA. La IA es una herramienta que ayuda al artista, no el artista”, dice un fragmento de las directrices. “Los derechos de autor solo surgen de obras hechas por personas. Por eso, el resultado final debe contener una creación humana sustancial. El IP principal —es decir, los personajes centrales, el universo característico y los escenarios importantes— debe reflejar la intención creativa humana”."
+        },
+        {
+          "t": "p",
+          "x": "Las producciones de Moonbug tienen cientos de millones de suscriptores en YouTube. Un spin-off de Cocomelon se emite en Netflix, una película de Cocomelon con Universal está en desarrollo, y la serie pasará a Disney+ el próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz dijo a 404 Media que “actualmente la IA generativa no se usa en los episodios de nuestro contenido”. Las directrices prohíben que la IA genere desde cero elementos creativos principales, como nuevos personajes, tramas centrales o letras de canciones. Todo el resultado pasa por un control de calidad liderado por personas, incluida una revisión visual cuadro por cuadro, según dijo."
+        },
+        {
+          "t": "p",
+          "x": "Las directrices permiten el uso de IA en la generación de ideas, la escritura de guiones, el storyboard, el diseño y la animación, pero imponen condiciones en cada etapa. No se puede alterar la interpretación de un actor de voz o actor sin autorización legal. La IA puede pulir un borrador escrito por una persona, pero no puede escribirlo por ella. Partes consideradas el 'alma' de la narrativa —arcos de personajes, giros clave y letras de canciones— quedan en manos humanas. Tampoco se permite introducir directamente en el pipeline de producción un diseño hecho 100% por IA."
+        },
+        {
+          "t": "p",
+          "x": "Los detalles son bastante estrictos. La IA puede usarse para diseños y texturas 'genéricos' de fondo, como árboles o muebles, para cambiar el vestuario de los personajes y para convertir un personaje 2D dibujado por una persona en un giro 3D. Los nuevos personajes, en principio, los crean personas. Lo mismo ocurre con los objetos únicos que tienen un papel destacado en la serie, como una casa club."
+        },
+        {
+          "t": "p",
+          "x": "Cada herramienta debe recibir aprobación legal individual. Los empleados primero prueban con activos de prueba que no son propiedad intelectual de Moonbug. Todo uso de IA, incluidos los prompts, queda registrado y conservado, y los activos generados por IA se guardan en carpetas distintas de los hechos por personas. La empresa llama a este enfoque 'procedencia y aislamiento' (provenance and isolation)."
+        },
+        {
+          "t": "p",
+          "x": "La guía de prompts indica subir un boceto dibujado por una persona o un IP propiedad de Moonbug como referencia estructural, y luego usar IA para añadir textura e iluminación. Los prompts de texto a imagen están prohibidos fuera de la lluvia de ideas y la investigación. También se prohíbe imitar estilos, como “al estilo de Pixar” o “al estilo de Ghibli”. En su lugar, se pide usar un lenguaje descriptivo, como “sensación de acuarela pintada a mano”."
+        },
+        {
+          "t": "p",
+          "x": "El pasado mes de mayo, trabajadores de IATSE del spin-off de acción real de Cocomelon fueron a la huelga por salarios y beneficios."
+        },
+        {
+          "t": "p",
+          "x": "“Vemos la IA como una herramienta que amplía lo que pueden hacer los creadores talentosos, no como algo que sustituye a quienes crean las historias”, dijo el portavoz."
+        }
+      ]
+    },
+    "movies/movies-media-composer-2026-8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Avid Media Composer 2026.8 ya había causado un revuelo por el anuncio de que el bloqueo de bins de terceros pasa, en la práctica, a un nivel premium a partir de esta versión. Ahora que se revelaron todas las funciones, resulta que esta versión trae más que eso."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Avid%20ready%20to%20edit.jpg",
+          "cap": "Avid Ready to Edit"
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento es el 1 de septiembre. Avid dice que 2026.8 amplía las opciones de colaboración y almacenamiento de Shared Projects. Avid NEXIS ya puede usarse con Shared Projects desde el nivel Standard. Como se informó antes, el nivel Enterprise obtiene soporte de almacenamiento de terceros verificado, algo que no está disponible en los niveles inferiores."
+        },
+        {
+          "t": "p",
+          "x": "Media Composer First, el nivel gratuito de entrada, también se amplía para estudiantes y editores principiantes. Aún no se han revelado los detalles."
+        },
+        {
+          "t": "p",
+          "x": "Ready to Edit es una nueva función agéntica que automatiza la preparación de contenido antes de empezar a editar. La conexión entre Media Composer y Avid Content Core también se hace más estrecha. Un nuevo panel de Content Core permite importar y publicar activos sin salir de Media Composer."
+        },
+        {
+          "t": "p",
+          "x": "También hay actualizaciones comunes a los niveles Standard, Ultimate y Enterprise. PhraseFindAI Multicam Auto Cut elige ángulos multicámara según quién habla y coloca los cortes en las pausas del habla. Transcript Tools incorporó deshacer en la edición de transcripciones, división de segmentos y reproducción continua en el visor. El adaptador OpenTimelineIO 2.0 mejora la precisión al pasar a herramientas de terceros. También se añadió una ventana What's New que enlaza con documentación y material de aprendizaje."
+        },
+        {
+          "t": "p",
+          "x": "También se añadieron Bin Column Search, el reemplazo de pistas de audio en subclips, la corrección de keyframes de Titler+, y una API ampliada para automatización e integración."
+        },
+        {
+          "t": "p",
+          "x": "En IBC también se presenta la primera vista previa de un flujo de trabajo de Media Composer basado en navegador, a partir de la edición web en Avid Content Core. Podría ser un cambio bastante grande para los editores de Avid. Junto con ello se presenta una vista previa de IA integrada, impulsada por un nuevo panel de Google Gemini."
+        }
+      ]
+    },
+    "movies/movies-scantic-3dgs": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de software Sebastian Beyer presentó Scantic, una aplicación para iPhone que crea Gaussian splats 3D de objetos y espacios usando solo imágenes de una cámara de teléfono normal."
+        },
+        {
+          "t": "p",
+          "x": "El entrenamiento toma “menos de un minuto”. A diferencia de la mayoría de apps de este tipo, el procesamiento ocurre por completo en el teléfono: los datos del escaneo nunca se suben a la nube. La aplicación básica es gratuita, y los modos de exportación de mayor calidad se desbloquean con un pago."
+        },
+        {
+          "t": "p",
+          "x": "El Gaussian splatting 3D reconstruye objetos reales a partir de imágenes o video en una representación 3D de renderizado rápido y alta calidad. Scantic funciona igual que otras herramientas: tras iniciar un escaneo, se rodea el objeto en círculo mientras se grava, y se genera un splat a partir de las imágenes captadas. Un escaneo pequeño toma “menos de un minuto” en procesarse, y el resultado se puede exportar en formato PLY para usarlo en apps DCC compatibles con 3DGS."
+        },
+        {
+          "t": "p",
+          "x": "CG Channel también ha cubierto apps de escaneo 3D móvil como Kiri Engine y Polycam. Ambas tienen más funciones e incluyen herramientas para recortar y editar los datos del escaneo. Lo que distingue a Scantic es que el procesamiento termina por completo en el teléfono del usuario, lo que evita problemas de seguridad y elimina un paso que consume tiempo. Beyer dice que, mientras otras apps todavía están subiendo datos, Scantic ya terminó de entrenar el splat."
+        },
+        {
+          "t": "p",
+          "x": "La formación de Beyer es en ingeniería de software, no en arte CG; usa Blender para sus proyectos personales. Scantic surgió de un proyecto de verano que él mismo se propuso: usar herramientas de codificación con IA, sin ser un experto en 3DGS, para acelerar un flujo de trabajo existente de Gaussian splatting 3D."
+        },
+        {
+          "t": "p",
+          "x": "El primer splat que hizo a partir de video de iPhone con el motor de código abierto Brush tardó más de tres horas en entrenarse en una MacBook Air. Con la ayuda del modelo Claude Fable 5, mejoró el rendimiento de forma constante, llegando a ser hasta 260 veces más rápido. Después fue trasladando poco a poco el flujo de trabajo al iPhone. Se convirtió en una app exclusiva de iPhone “casi por accidente”."
+        },
+        {
+          "t": "p",
+          "x": "De cara al futuro, planea permitir que los splats se entrenen a partir de video existente, no solo de captura en vivo, y añadir exportación en formato SPZ. Una app complementaria para macOS es posible, pero no hay planes de una versión para Android. “La gama de hardware de Apple está relativamente controlada”, dice. “En Android, solo funcionaría bien en algunos dispositivos de gama alta, y la experiencia sería mala en el resto.”"
+        },
+        {
+          "t": "p",
+          "x": "Scantic requiere iOS 17.0 o posterior y un chip A12 Bionic o más reciente, lo que significa que funciona desde el iPhone XS de 2018 en adelante. La app básica gratuita desbloquea la exportación de calidad estándar, que produce una versión de menor resolución y con datos reducidos del escaneo. La exportación de máxima calidad requiere una suscripción de 29.99 euros (unos 35 dólares) al año. También es posible exportar un solo escaneo en máxima calidad, a 4.99 euros por escaneo."
+        }
+      ]
+    },
+    "movies/movies-wonka-gene-wilder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Netflix ha publicado el tráiler oficial de una extraña serie de competencia de reality basada en Willy Wonka & the Chocolate Factory."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Wonka.png?crop=0px%2C95px%2C2772px%2C1551px&resize=1440%2C810",
+          "cap": "Netflix: Wonka's The Golden Ticket"
+        },
+        {
+          "t": "p",
+          "x": "El título es Wonka's The Golden Ticket. Es una serie no guionada de nueve episodios en la que los concursantes recorren una colorida 'fábrica' y compiten en retos tomados de la novela original de Roald Dahl. Netflix adquirió la Roald Dahl Story Company en 2021."
+        },
+        {
+          "t": "video",
+          "yt": "kGVuOT6h11c"
+        },
+        {
+          "t": "p",
+          "x": "En el tráiler, los concursantes soportan con buen humor toda clase de caos, guiados por la voz del difunto actor Gene Wilder, quien interpretó a Willy Wonka en la película de 1971. Netflix y la productora Eureka Productions revivieron la voz junto con la empresa de IA ElevenLabs, con permiso de la familia de Wilder. No es una decisión del todo cómoda, y a algunos podría parecerles una falta de respeto o, peor aún, inquietante."
+        },
+        {
+          "t": "p",
+          "x": "La descripción oficial dice: “Doce afortunados ganadores de un Golden Ticket, cada uno con un compañero de su elección, cruzan las puertas de la fábrica de chocolate de Wonka hacia un mundo de pura imaginación, travesuras dulces y retos inesperados. Una vez dentro, los concursantes deben superar los juegos, pruebas y tentaciones de Wonka, diseñados para poner a prueba su fuerza, su inteligencia y su moral. En este experimento social de alto riesgo, los concursantes se adaptan, trazan estrategias y soportan lo desconocido mientras avanzan por el paisaje maravilloso e impredecible de la fábrica. Deben demostrar la intuición, la resiliencia y el carácter necesarios para sobrevivir al caos. Solo quien quede al final se lleva el premio de Wonka, capaz de cambiarle la vida.”"
+        },
+        {
+          "t": "p",
+          "x": "Sobre el uso de la voz, la esposa de Gene Wilder, Karen B. Wilder, hizo una declaración en representación de su legado. “Han pasado más de cincuenta años desde que Gene le dio vida a Willy Wonka, pero personas de todo el mundo, de todas las edades y orígenes, siguen encontrando alegría, risas e inspiración en su actuación. Gene tenía un don especial para llevar humor, asombro y corazón a la vida de la gente, y esa conexión se ha mantenido a través de generaciones. Nos alegra que Wonka's The Golden Ticket honre la calidez y la imaginación que él aportó al papel, transmitiendo esa magia a una nueva generación y, al mismo tiempo, rindiendo homenaje a los fans que lo han apreciado durante décadas.”"
+        },
+        {
+          "t": "p",
+          "x": "Junto con la voz revivida, también aparece Rusty Goffe, quien interpretó a un Oompa Loompa en la película de 1971."
+        },
+        {
+          "t": "p",
+          "x": "Chris Culvenor, Paul Franklin, Rikki Proost, David Tibballs, Allison Holloway y Emer Harkin son los productores ejecutivos. Se estrena el 23 de septiembre."
+        }
+      ]
     }
   }
 }

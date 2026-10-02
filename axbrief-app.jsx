@@ -421,11 +421,6 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
-/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no
-   in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
-   the Patreon membership checkout in a new tab (no email, no /api call; unlock
-   comes later when payment webhooks are wired). */
-const SUBSCRIBE_URL = 'https://www.patreon.com/join/axitnow';  // 멤버십 선택 페이지 (Pro 설명 + 무료체험 버튼)
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
    transformed, and position:fixed inside a transformed ancestor anchors to that
    ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
@@ -443,16 +438,9 @@ function SubscribeModal({ onClose, t }) {
           {tx('paywall.modal_body')}
         </p>
         <AxPill label={tx('paywall.subscribe')} t={t}
-          onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
+          onClick={onClose} />
         <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
           {tx('paywall.new_tab')}
-        </p>
-        <p style={{ margin: '12px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center',
-          fontFamily: 'Pretendard, system-ui' }}>
-          {tx('paywall.already')}{' '}
-          <a href="/api/auth/patreon" style={{ color: '#a09890', textDecoration: 'underline' }}>
-            {tx('paywall.login')}
-          </a>
         </p>
       </div>
     </div>,

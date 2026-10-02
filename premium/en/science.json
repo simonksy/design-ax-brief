@@ -2959,6 +2959,194 @@
           "x": "Barrett and Miller call for moving away from the model in which categories sit filed away like documents in a cabinet called the brain. Categorization, they argue, is not the job of any specific region but an organizing principle woven through the entire nervous system."
         }
       ]
+    },
+    "science/science-aintibody": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designs-new-antibod-1.jpg",
+          "cap": "Overview of the winning method, AuraBind (Aureka). It uses a structure-reading pairformer and Direct Preference Optimization (DPO) to scan the fitness landscape. Source: Nature Biotechnology (2026)"
+        },
+        {
+          "t": "p",
+          "x": "A research team at UTHealth Houston, competing as team Novamab AI, placed in the top five in the international AIntibody Challenge. It was a blinded, prospective benchmark, and the results were published in Nature Biotechnology."
+        },
+        {
+          "t": "p",
+          "x": "The paper is titled “A blinded, prospective benchmark of in-silico antibody discovery anchored to experimental affinity and developability.” It evaluated artificial intelligence platforms that design therapeutic antibodies through lab synthesis and experimental characterization."
+        },
+        {
+          "t": "p",
+          "x": "The approach differed from retrospective computational benchmarks that score models against historical datasets. The AIntibody Challenge required participating teams to design entirely new antibody sequences. The submitted designs were independently synthesized by a third party, and binding affinity and developability — the physicochemical properties a clinical drug candidate must have — were measured experimentally."
+        },
+        {
+          "t": "p",
+          "x": "Novamab AI fine-tuned a protein language model on experimental preference data. Instead of relying solely on theoretical sequence scores, it chose to prioritize candidates whose biological activity and developability had been experimentally confirmed."
+        },
+        {
+          "t": "p",
+          "x": "The international benchmark drew 166 participants from leading universities and biotech companies worldwide, who submitted 527 entries. In the sequence-space track that Novamab AI competed in, 58 entries from research institutions were evaluated, and it placed in the top five. The experiment independently confirmed that machine learning can identify viable therapeutic candidates before they enter costly lab screening."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Bradbury, MD, Ph.D., who led the international AIntibody Challenge, said: “The AIntibody Challenge was created to provide the first rigorous, prospective, independently third-party-verified assessment of whether artificial intelligence improves antibody discovery. Built on top of a real in vitro antibody discovery pipeline, it pitted AI predictions and designs against each other under blinded experimental conditions, giving an objective standard for judging how effective AI is in antibody discovery. It will accelerate the pace at which more reliable and effective AI approaches emerge in therapeutic discovery.”"
+        },
+        {
+          "t": "p",
+          "x": "Paper information — M. Frank Erasmus et al, A blinded, prospective benchmark of in silico antibody discovery anchored to experimental affinity and developability, Nature Biotechnology (2026). DOI: 10.1038/s41587-026-03238-6"
+        }
+      ]
+    },
+    "science/science-crysvcd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-Valence-01-press.jpg",
+          "cap": "“Whether it's existing diffusion models or ones that come later, we slot in wherever stable materials aren't coming out often enough, to boost stability,” says Mingda Li. Image: MIT News; iStock"
+        },
+        {
+          "t": "p",
+          "x": "These days, anyone with a large enough AI model can generate millions of new material designs in a matter of minutes. But the number of new materials that could actually boost the performance of computer chips or rockets hasn't grown nearly as much."
+        },
+        {
+          "t": "p",
+          "x": "One reason is that today's models don't properly account for the chemical stability of the materials they generate. An unstable material is useless in the field. As a result, industry spends enormous computing budgets filtering the unstable ones out of a flood of designs, and in some cases only a tiny fraction survives."
+        },
+        {
+          "t": "p",
+          "x": "MIT researchers have introduced a framework that sits at the very front of the generation process. It keeps the targeted properties intact while sharply raising the share of stable outputs. Before the expensive generation step begins, it forces every design to satisfy chemistry's core rules governing the electrons around atoms. The team calls it the Valence-Constrained Design Crystal Generator, or CrysVCD for short."
+        },
+        {
+          "t": "p",
+          "x": "In a paper published in Nature Computational Science on the 26th, the researchers reported that CrysVCD helped several widely used materials models follow valence-shell rules far more often. Lattice dynamical stability, a demanding test, was achieved in close to 70% of the computationally generated outputs. The method could also target desired properties, such as materials with high thermal conductivity or a large dielectric constant."
+        },
+        {
+          "t": "p",
+          "x": "“If the materials generative model is the DVD, we're the DVD player,” says Mingda Li, associate professor of nuclear science and engineering."
+        },
+        {
+          "t": "p",
+          "x": "“Generating a material structure itself is getting easier,” says Mouyang Cheng. “The problem is validation, especially testing for stability. The computational cost is enormous — about 90% of the computing cost involved in producing a usable material — and it can take weeks to months.”"
+        },
+        {
+          "t": "p",
+          "x": "“Running a model and then picking out the stable ones is inefficient and computationally expensive,” explains Heather Kulik. “But placing a language model ahead of the process to constrain generation sharply raises the share of stable materials that come out.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers paired a diffusion model with a language model. In stage one, the language model produces a chemically valid formula; in stage two, the diffusion model builds the crystal material's atomic structure from that formula. A typical materials-generation diffusion process takes around 1,000 steps per material and is slow, but putting this model in front cuts that to roughly five steps, the researchers explain."
+        },
+        {
+          "t": "p",
+          "x": "The performance shows up in the numbers. Compared with a generate-then-filter approach, it produced stable materials about ten times more efficiently. When fine-tuned on stability metrics, it reached 68% mechanical stability and 85% metastability. Metastability measures whether a material stays in a stable state when left undisturbed."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also used this approach to generate candidate materials with high thermal conductivity that polarize easily under an electric field. “Materials useful for the semiconductor industry, and ones with high thermal conductivity, connect directly to data center cooling,” says Ju Li, noting that the industry's energy use has grown sharply, with about 30% of it going to cooling."
+        },
+        {
+          "t": "p",
+          "x": "The method doesn't work for every material. It performs best on solid structures with a well-ordered internal arrangement. “We're not just generating stable materials — we're pushing performance alongside stability,” says Cheng. With two goals at once, it's a field where clearing 50% on either one is already difficult."
+        }
+      ]
+    },
+    "science/science-hydrogym": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hydrogym-trains-assess.jpg",
+          "cap": "Overview of physics-informed transfer learning. Source: Nature (2026)"
+        },
+        {
+          "t": "p",
+          "x": "An international research team spanning the University of Washington, University of Michigan's College of Engineering, RWTH Aachen University, and the Technical University of Munich has released HydroGym, a platform for training and benchmarking machine learning models that actively control fluid flow."
+        },
+        {
+          "t": "p",
+          "x": "Fluid dynamics has a long-standing wall. There are so many variables that directly computing how a fluid will move in realistic situations is impossible. HydroGym routes around this wall with reinforcement learning, the same approach that has already transformed protein folding and fusion, to train AI agents that actively alter flow over a surface."
+        },
+        {
+          "t": "p",
+          "x": "“Fluid flow sits at the center of several trillion-dollar industries, including energy, transportation, health, and defense,” says Steven Brunton, lead co-corresponding author and the Boeing Endowed Professor in AI and data-driven engineering at the University of Washington. “Understanding and controlling this flow better would have an enormous impact on both the economy and the ecology.”"
+        },
+        {
+          "t": "p",
+          "x": "One key feature of HydroGym is that it builds physics knowledge into the training process. This physics-informed approach cut the trial and error needed to optimize reinforcement learning control strategies by up to 65%."
+        },
+        {
+          "t": "p",
+          "x": "“It moves away from building a separate controller for each isolated flow problem with no common frame for comparison,” says Christian Lagemann, first author and a former postdoctoral researcher at the University of Washington. “You can study how well control strategies transfer across different geometries and types of flow, and you can train in a cheap surrogate environment and then test in a far more realistic setting.”"
+        },
+        {
+          "t": "p",
+          "x": "The active control the platform handles includes shape deformation, small flaps, rotating elements, and jet systems that cancel out turbulence or redirect it."
+        },
+        {
+          "t": "p",
+          "x": "The demonstration started with a perforated channel resembling an air hockey table. The team trained a machine learning model to control airflow through the holes while maintaining balance. They then placed this same controller, unchanged, onto a far more complex setting: a simulated airplane wing cross-section. The results were clear. Surface friction on the wing dropped 38%, and total drag dropped 11%. Training in the simple setting was 100 times faster and 10,000 times cheaper than training directly on the wing."
+        },
+        {
+          "t": "p",
+          "x": "“One key finding is zero-shot transfer: learning from simple geometry, extracting the core physics, and then deploying that model on far more complex geometry with very high control performance,” says Ricardo Vinuesa, co-corresponding author and associate professor of aerospace engineering at the University of Michigan. Zero-shot transfer opens a path toward a single fluid dynamics model that handles both liquids and gases, even with different turbulence intensities and surface shapes."
+        },
+        {
+          "t": "p",
+          "x": "HydroGym supports both centralized and distributed control architectures. In the distributed approach, multiple controllers each take responsibility for a section of the surface and coordinate with their neighbors — a structure that's essential for large surfaces too computationally demanding to manage centrally."
+        },
+        {
+          "t": "p",
+          "x": "Rather than relying on historical datasets, it generates simulation data on the fly and offers several physics modeling strategies, including lattice Boltzmann, finite volume, spectral element, and finite element methods. Several solvers, including JAX-Fluids, support automatic differentiation and plug directly into the training loop. The platform includes more than 60 test environments varying control strategy, surface, and flow conditions, and its code and documentation are available on GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Paper — Christian Lagemann et al, Nature (2026). DOI: 10.1038/s41586-026-10917-6"
+        }
+      ]
+    },
+    "science/science-tensor-networks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/08/21-8-26-tn-nohora.jpg",
+          "cap": "Diagram of a tensor network. Each tensor is drawn as an N-dimensional array matching its number of indices, and connecting legs (indices) lets it hold the Hamiltonian or state of a many-body system. Image: Lucy Reading-Ikkanda/Simons Foundation"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Flatiron Institute in New York simulated how an Ising spin glass evolves over time using a new tensor network (TN) method. This classical approach was more accurate in many cases than a state-of-the-art quantum annealer running the same problem. The result held in both two and three dimensions, nudging the baseline up a notch in the long-running contest between classical and quantum computing."
+        },
+        {
+          "t": "p",
+          "x": "Quantum many-body systems are a good testing ground for comparing computational techniques, since complexity grows exponentially as particle count increases. In theory, quantum computers hold an advantage rooted in entanglement and superposition. On a classical computer, a spin is stored in a bit that's either 0 or 1, but on a quantum computer, it's carried on a qubit holding a superposition of up and down — a representation much closer to what the object actually does."
+        },
+        {
+          "t": "p",
+          "x": "Not long ago, a quantum computing research team simulated Ising spin glass dynamics on D-Wave's Advantage2 quantum annealer and claimed that classical computers couldn't keep up. Joseph Tindall and his colleagues at the Flatiron Institute showed that a classical approach can match that performance, and sometimes beat it."
+        },
+        {
+          "t": "p",
+          "x": "An Ising spin glass is a model in which spins on a lattice each point in their own direction, with the disorder arising because the interaction differs for every neighboring pair of spins. It gets harder as the system grows, making it a good yardstick for measuring classical versus quantum performance."
+        },
+        {
+          "t": "p",
+          "x": "The tensors used here are a lot like Lego pieces. Just as Lego bricks have studs and holes, tensors have legs — bond indices — that connect through a process called contraction to form a network. In a many-body simulation, a single tensor holds one site and that site's physical properties. Widening the legs, that is, increasing the bond dimension, captures correlations more accurately."
+        },
+        {
+          "t": "p",
+          "x": "What Tindall's team built is a tensor network representation that holds both the Hamiltonian and the wavefunction of the Ising spin glass together. The former defines the interactions between spins, the latter the state of the spins. But there's a catch: as the TN wavefunction evolves over time, entanglement builds up, and keeping pace with growing correlations means continually widening the bond index. The computational cost balloons, and sometimes the calculation becomes untenable."
+        },
+        {
+          "t": "p",
+          "x": "The researchers used belief propagation (BP) message passing for the contraction. Instead of counting every contribution exactly one by one, each tensor receives a compressed summary of how the rest of the network looks from its own position. As Tindall explains it, assuming that information coming from neighbors is independent amounts to applying a mean-field approximation to each tensor's environment."
+        },
+        {
+          "t": "p",
+          "x": "With this TN–BP implementation, the classical calculation evolved the system to far later times than conventional TN methods could reach, extending into the regime where quantum annealers operate. The researchers measured two-point correlation functions while varying time and system size on 2D and 3D lattices with cylindrical, diamond, and cubic geometries. On the cylindrical lattice, once the bond dimension grew large enough, the classical error was clearly lower than the quantum error. On the diamond lattice, the classical error was also lower, while on the cubic lattice, the error sizes were similar to each other at a fixed annealing time."
+        },
+        {
+          "t": "p",
+          "x": "The study, published in Science, shows how quickly classical simulation of quantum physics is advancing, and how the contest between classical and quantum computing pushes that progress forward. Tindall and his colleagues maintain an open-source tensor network quantum simulator library, and are applying TN–BP to interacting electron systems like the Hubbard model while extending it to finite-temperature problems."
+        }
+      ]
     }
   }
 }
