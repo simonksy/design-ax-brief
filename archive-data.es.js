@@ -16515,10 +16515,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
-  "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma delegó Code Connect\na un ejército de agentes",
+  "body": "Figma muestra cómo escribir y gestionar archivos de Code Connect con varios agentes de código.",
+  "lang": "es"
  },
  {
   "id": "design-atomica-thermal-microstructures",
@@ -16531,10 +16530,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
-  "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Atomica lanzó una plataforma\npara enfriar hardware de IA",
+  "body": "Atomica presentó una nueva plataforma de microestructuras para gestionar el calor del hardware de IA.",
+  "lang": "es"
  },
  {
   "id": "design-ai-websites-look-same",
@@ -16547,10 +16545,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
-  "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Por qué los sitios con IA\nse parecen y cómo escapar",
+  "body": "Explica por qué los sitios creados con IA convergen en los mismos degradados y tarjetas.",
+  "lang": "es"
  },
  {
   "id": "books-manga-million-translation",
@@ -16563,10 +16560,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "슈에이샤가 미번역 만화\n300편을 다섯 언어로 옮긴다",
-  "body": "슈에이샤가 영어판 없던 만화 300편을 다섯 언어로 한꺼번에 푸는 플랫폼을 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Shueisha traducirá 300 mangas\ninéditos a cinco idiomas",
+  "body": "Shueisha lanzó una plataforma que publica a la vez 300 mangas sin versión en inglés en cinco idiomas.",
+  "lang": "es"
  },
  {
   "id": "books-copyright-registration-gap",
@@ -16579,10 +16575,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "저작권 등록 누락이\n합의금 자격을 가른다",
-  "body": "출판사가 저작권 등록을 빠뜨린 탓에 일부 작가가 앤스로픽 합의 대상에서 제외됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Los registros de copyright\nfaltantes deciden el acuerdo",
+  "body": "Las editoriales omitieron el registro de derechos y algunos autores quedaron fuera del acuerdo con Anthropic.",
+  "lang": "es"
  },
  {
   "id": "books-childrens-book-slop",
@@ -16595,10 +16590,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "값싼 AI 삽화가 그림책의\n손맛을 밀어내고 있다",
-  "body": "조악한 AI 그림책이 서점과 도서관 매대까지 파고들자 부모와 작가들이 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Las ilustraciones de IA baratas\ndesplazan el oficio del álbum",
+  "body": "Libros ilustrados de IA de baja calidad llegaron a librerías y bibliotecas, y padres y autores reaccionaron.",
+  "lang": "es"
  },
  {
   "id": "books-bartz-ai-thriller",
@@ -16611,10 +16605,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽을 고소한 작가가\n이번엔 AI 스릴러를 쓴다",
-  "body": "앤스로픽 소송의 원고 안드레아 바츠가 챗봇에 소설을 맡긴 작가의 이야기를 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La autora que demandó a\nAnthropic escribe un thriller",
+  "body": "Andrea Bartz, demandante en el caso contra Anthropic, escribe sobre una escritora que encarga una novela a un chatbot.",
+  "lang": "es"
  },
  {
   "id": "books-academic-ai-screening",
@@ -16626,10 +16619,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "Academic publishing built\nAI screening tools and guides",
-  "body": "Academic publishing built AI screening tools and guidelines before trade publishing, which struggles with AI slop.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "La edición académica creó\nherramientas y guías de IA antes",
+  "body": "La edición académica ya tiene herramientas y pautas de revisión de IA, antes que la comercial.",
+  "lang": "es"
  },
  {
   "id": "science-quera-claude",
@@ -17103,9 +17095,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
-  "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다.",
-  "lang": "ko",
+  "headline": "AIA adds an AI assistant\nto standard contract forms",
+  "body": "AIA unveiled an AI assistant for its industry-standard contract documents and named a new CTO.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17119,10 +17111,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "봇이 책을 쓰기 시작한 출판 현장",
-  "body": "초고부터 매대에 오르는 기계 집필서까지, 출판 공정이 어디까지 바뀌었는지 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La edición entra en una era\ndonde escriben los bots",
+  "body": "Desde el primer borrador hasta libros escritos por máquinas en librerías, esto repasa cuánto cambió la edición.",
+  "lang": "es"
  },
  {
   "id": "books-naver-webtoon-byus",
@@ -17135,10 +17126,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "웹툰 주인공과 대화하는\n네이버웹툰의 AI 스토리챗",
-  "body": "주인공과 대화하는 AI 챗을 붙이자 휴재작 조회수가 일주일 만에 67% 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El chat de IA de Naver Webtoon\npermite hablar con personajes",
+  "body": "Al añadir un chat de IA que habla con el protagonista, las vistas de una obra en pausa subieron un 67% en una semana.",
+  "lang": "es"
  },
  {
   "id": "books-kindle-catalog-dilution",

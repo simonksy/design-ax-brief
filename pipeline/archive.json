@@ -45648,7 +45648,29 @@
    "image": "pipeline/media/books-naver-webtoon-byus.jpg",
    "date": "2026-08-29",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "웹툰 주인공과 대화하는\n네이버웹툰의 AI 스토리챗",
+     "body": "주인공과 대화하는 AI 챗을 붙이자 휴재작 조회수가 일주일 만에 67% 올랐다."
+    },
+    "en": {
+     "headline": "Naver Webtoon's AI chat lets\nreaders talk to characters",
+     "body": "After adding an AI chat with its characters, a paused webtoon's views rose 67% in a week."
+    },
+    "ja": {
+     "headline": "ネイバーウェブトゥーンの\nAIストーリーチャット",
+     "body": "主人公と話せるAIチャット導入で、休載作の閲覧数が1週間で67%増えた。"
+    },
+    "zh": {
+     "headline": "能与主角对话\nAI剧情聊天上线",
+     "body": "推出与主角对话的AI聊天后，暂停连载作品的点击量一周内增长67%。"
+    },
+    "es": {
+     "headline": "El chat de IA de Naver Webtoon\npermite hablar con personajes",
+     "body": "Al añadir un chat de IA que habla con el protagonista, las vistas de una obra en pausa subieron un 67% en una semana."
+    }
+   }
   },
   {
    "id": "books-when-bots-write",
@@ -45662,7 +45684,29 @@
    "image": "pipeline/media/books-when-bots-write.jpg",
    "date": "2026-08-29",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "봇이 책을 쓰기 시작한 출판 현장",
+     "body": "초고부터 매대에 오르는 기계 집필서까지, 출판 공정이 어디까지 바뀌었는지 짚는다."
+    },
+    "en": {
+     "headline": "Publishing enters an era\nwhere bots write books",
+     "body": "The piece traces how far publishing has changed, from first drafts to machine-written books on store shelves."
+    },
+    "ja": {
+     "headline": "本を書き始めた\nボットと出版現場",
+     "body": "草稿からAI執筆本の店頭販売まで、出版工程の変化を追う。"
+    },
+    "zh": {
+     "headline": "机器人开始写书\n的出版现场",
+     "body": "从初稿到上架的机器写作书，本文梳理出版流程发生了多大变化。"
+    },
+    "es": {
+     "headline": "La edición entra en una era\ndonde escriben los bots",
+     "body": "Desde el primer borrador hasta libros escritos por máquinas en librerías, esto repasa cuánto cambió la edición."
+    }
+   }
   },
   {
    "id": "design-aia-contract-assistant",
@@ -45676,7 +45720,21 @@
    "image": "pipeline/media/design-aia-contract-assistant.jpg",
    "date": "2026-08-29",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
+     "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다."
+    },
+    "en": {
+     "headline": "AIA adds an AI assistant\nto standard contract forms",
+     "body": "AIA unveiled an AI assistant for its industry-standard contract documents and named a new CTO."
+    },
+    "ja": {
+     "headline": "AIAが標準契約書に\nAIアシスタント導入",
+     "body": "AIAが業界標準契約書向けAIアシスタントを発表し、新CTOも発表した。"
+    }
+   }
   },
   {
    "id": "design-android-xr-listening-area",
@@ -46198,6 +46256,14 @@
     "ja": {
      "headline": "学術出版が先行\nAI審査ツールと指針",
      "body": "AIスロップに苦しむ単行本より、学術出版が先に審査ツールと指針を整えた。"
+    },
+    "zh": {
+     "headline": "学术出版社率先\n打造AI审稿工具规范",
+     "body": "比起深陷AI劣质内容的大众图书,学术出版更早建立了审查工具和准则。"
+    },
+    "es": {
+     "headline": "La edición académica creó\nherramientas y guías de IA antes",
+     "body": "La edición académica ya tiene herramientas y pautas de revisión de IA, antes que la comercial."
     }
    }
   },
@@ -46213,7 +46279,29 @@
    "image": "pipeline/media/books-bartz-ai-thriller.jpg",
    "date": "2026-08-30",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "앤스로픽을 고소한 작가가\n이번엔 AI 스릴러를 쓴다",
+     "body": "앤스로픽 소송의 원고 안드레아 바츠가 챗봇에 소설을 맡긴 작가의 이야기를 쓴다."
+    },
+    "en": {
+     "headline": "The author suing Anthropic\nis now writing an AI thriller",
+     "body": "Andrea Bartz, plaintiff in the Anthropic lawsuit, is writing about a writer who hands a novel to a chatbot."
+    },
+    "ja": {
+     "headline": "アンソロピックを\n訴えた作家、AI小説へ",
+     "body": "アンソロピック訴訟の原告アンドレア・バーツが、チャットボットに小説を託す作家を描く。"
+    },
+    "zh": {
+     "headline": "起诉Anthropic的作家\n这次写AI惊悚小说",
+     "body": "Anthropic诉讼原告安德里亚·巴茨要写一个把小说托付给聊天机器人的作家的故事。"
+    },
+    "es": {
+     "headline": "La autora que demandó a\nAnthropic escribe un thriller",
+     "body": "Andrea Bartz, demandante en el caso contra Anthropic, escribe sobre una escritora que encarga una novela a un chatbot."
+    }
+   }
   },
   {
    "id": "books-childrens-book-slop",
@@ -46227,7 +46315,29 @@
    "image": "pipeline/media/books-childrens-book-slop.jpg",
    "date": "2026-08-30",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "값싼 AI 삽화가 그림책의\n손맛을 밀어내고 있다",
+     "body": "조악한 AI 그림책이 서점과 도서관 매대까지 파고들자 부모와 작가들이 반발했다."
+    },
+    "en": {
+     "headline": "Cheap AI illustrations are\npushing out picture books' craft",
+     "body": "Shoddy AI picture books have pushed into bookstores and libraries, drawing backlash from parents and writers."
+    },
+    "ja": {
+     "headline": "安いAI挿絵が絵本の\n手触りを奪っている",
+     "body": "粗悪なAI絵本が書店や図書館にまで広がり、親や作家が反発した。"
+    },
+    "zh": {
+     "headline": "廉价AI插画正挤走\n绘本的手工质感",
+     "body": "粗劣的AI绘本挤进书店和图书馆货架,引发家长和作家反弹。"
+    },
+    "es": {
+     "headline": "Las ilustraciones de IA baratas\ndesplazan el oficio del álbum",
+     "body": "Libros ilustrados de IA de baja calidad llegaron a librerías y bibliotecas, y padres y autores reaccionaron."
+    }
+   }
   },
   {
    "id": "books-copyright-registration-gap",
@@ -46241,7 +46351,25 @@
    "image": "pipeline/media/books-copyright-registration-gap.jpg",
    "date": "2026-08-30",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "저작권 등록 누락이\n합의금 자격을 가른다",
+     "body": "출판사가 저작권 등록을 빠뜨린 탓에 일부 작가가 앤스로픽 합의 대상에서 제외됐다."
+    },
+    "en": {
+     "headline": "Missing copyright filings\ndecide who gets settlement pay",
+     "body": "Because publishers skipped copyright registration, some authors were excluded from the Anthropic settlement."
+    },
+    "ja": {
+     "headline": "著作権登録漏れが\n和解金資格分ける",
+     "body": "出版社の登録漏れで、一部作家がアンソロピック和解の対象から外れた。"
+    },
+    "es": {
+     "headline": "Los registros de copyright\nfaltantes deciden el acuerdo",
+     "body": "Las editoriales omitieron el registro de derechos y algunos autores quedaron fuera del acuerdo con Anthropic."
+    }
+   }
   },
   {
    "id": "books-manga-million-translation",
@@ -46255,7 +46383,29 @@
    "image": "pipeline/media/books-manga-million-translation.jpg",
    "date": "2026-08-30",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "슈에이샤가 미번역 만화\n300편을 다섯 언어로 옮긴다",
+     "body": "슈에이샤가 영어판 없던 만화 300편을 다섯 언어로 한꺼번에 푸는 플랫폼을 열었다."
+    },
+    "en": {
+     "headline": "Shueisha to translate 300\ntitles into five languages",
+     "body": "Shueisha launched a platform releasing 300 manga titles without English editions in five languages at once."
+    },
+    "ja": {
+     "headline": "集英社が未訳漫画\n300作を5言語に",
+     "body": "集英社が英語版のなかった漫画300作を5言語で一斉配信するプラットフォームを開設した。"
+    },
+    "zh": {
+     "headline": "集英社将300部\n未译漫画译5语",
+     "body": "集英社开设平台,一次性将300部无英译漫画译成五种语言。"
+    },
+    "es": {
+     "headline": "Shueisha traducirá 300 mangas\ninéditos a cinco idiomas",
+     "body": "Shueisha lanzó una plataforma que publica a la vez 300 mangas sin versión en inglés en cinco idiomas."
+    }
+   }
   },
   {
    "id": "design-ai-websites-look-same",
@@ -46269,7 +46419,29 @@
    "image": "pipeline/media/design-ai-websites-look-same.png",
    "date": "2026-08-30",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
+     "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다."
+    },
+    "en": {
+     "headline": "Why prompted sites look alike\nand how to escape the defaults",
+     "body": "It explains why AI-prompted websites converge on the same gradients and card layouts."
+    },
+    "ja": {
+     "headline": "似たサイトが並ぶ理由\n既定値からの脱出法",
+     "body": "プロンプトで作ったサイトが同じ配色と構成に集まる理由を探る。"
+    },
+    "zh": {
+     "headline": "提示词建站为何趋同\n如何跳出默认值",
+     "body": "探讨用提示词生成的网站为何都收敛成相同的渐变与卡片样式。"
+    },
+    "es": {
+     "headline": "Por qué los sitios con IA\nse parecen y cómo escapar",
+     "body": "Explica por qué los sitios creados con IA convergen en los mismos degradados y tarjetas."
+    }
+   }
   },
   {
    "id": "design-atomica-thermal-microstructures",
@@ -46283,7 +46455,29 @@
    "image": "pipeline/media/design-atomica-thermal-microstructures.jpg",
    "date": "2026-08-30",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
+     "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다."
+    },
+    "en": {
+     "headline": "Atomica launched a platform\nfor cooling AI hardware heat",
+     "body": "Atomica introduced a new microstructure platform for managing heat in AI hardware."
+    },
+    "ja": {
+     "headline": "Atomicaが発熱を\n抑える微細構造へ",
+     "body": "AtomicaがAIハードウェアの熱を扱う微細構造プラットフォームを新たに発表した。"
+    },
+    "zh": {
+     "headline": "Atomica推出\n控热微结构平台",
+     "body": "Atomica推出全新微结构平台,用于应对AI硬件发热问题。"
+    },
+    "es": {
+     "headline": "Atomica lanzó una plataforma\npara enfriar hardware de IA",
+     "body": "Atomica presentó una nueva plataforma de microestructuras para gestionar el calor del hardware de IA."
+    }
+   }
   },
   {
    "id": "design-figma-agent-army",
@@ -46297,7 +46491,29 @@
    "image": "pipeline/media/design-figma-agent-army.jpg",
    "date": "2026-08-30",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
+     "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다."
+    },
+    "en": {
+     "headline": "Figma handed off Code Connect\nwriting to an agent army",
+     "body": "Figma shows how to write and manage Code Connect files with a fleet of coding agents."
+    },
+    "ja": {
+     "headline": "Code Connectは\n作成をAIが担当",
+     "body": "Code Connectの作成と管理をAI群に任せる方法をFigmaが示す。"
+    },
+    "zh": {
+     "headline": "Code Connect编写\n交给AI代理军团",
+     "body": "Figma展示了如何用多个编程智能体编写和管理Code Connect文件。"
+    },
+    "es": {
+     "headline": "Figma delegó Code Connect\na un ejército de agentes",
+     "body": "Figma muestra cómo escribir y gestionar archivos de Code Connect con varios agentes de código."
+    }
+   }
   },
   {
    "id": "design-openai-cursor-cutoff",

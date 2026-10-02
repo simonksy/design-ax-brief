@@ -3561,6 +3561,110 @@
           "x": "来源：Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27。"
         }
       ]
+    },
+    "design/design-ai-websites-look-same": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如果你最近用AI做过网站,大概会发现结果莫名地熟悉:巨大的主视觉标题、从紫到蓝流动的渐变、圆角卡片、悬浮的仪表盘效果图、整齐排列的功能区块。把同一个想法输入不同的生成工具,结果也惊人地相似。"
+        },
+        {
+          "t": "p",
+          "x": "作者并不把原因归结为AI缺乏创造力。他认为这是工具学到的模式、所依赖的组件、设计好的默认值,以及我们写提示词的方式叠加在一起的结果。大语言模型本质上是预测系统,一旦要求含糊,它就会给出最常见的答案。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/rvyy9aha9yno4ed06fc7.png",
+          "cap": "AI建站工具为何不断给出相似设计。"
+        },
+        {
+          "t": "p",
+          "x": "“现代、简洁、专业”这类说法,在人耳里像是方向,但对模型来说只是一个宽泛的类别。多款工具共用Tailwind CSS、shadcn/ui之类的通用部件,也助长了这种趋同。"
+        },
+        {
+          "t": "p",
+          "x": "作者用同一条提示词,分别在Lovable、Google AI Studio和v0上生成个人理财应用的落地页,只比较了主视觉区块。实现方式各不相同,但层级、留白和布局呈现出同样熟悉的视觉语言。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xu5frjmr4zkjq7xhwekb.png",
+          "cap": "用同一条通用提示词,Lovable生成的理财落地页。"
+        },
+        {
+          "t": "p",
+          "x": "解决办法是收窄方向:把目标读者、他们感受到的问题、视觉参考和需要避免的东西一并写明。作者用一个虚构的植物养护应用Mfon试了编辑风、野兽派、复古植物学三个方向,连色彩代码和字体都一一指定。"
+        },
+        {
+          "t": "p",
+          "x": "最重要的一条规则是说出你不想要什么。明确要求不要紫蓝渐变、玻璃拟态、悬浮仪表盘截图、三栏卡片,模型就必须找到不同于熟悉套路的答案。把字体、颜色、间距规则写进系统指令,整个项目周期内都能起到护栏作用。"
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/iojolkul6yqjmca34fo7.png",
+          "cap": "Google AI Studio的系统指令界面。"
+        },
+        {
+          "t": "p",
+          "x": "第一版输出是草稿,不是成品。作者建议自问:去掉logo后是否仍然像自己的品牌,换上竞争对手的logo是否也毫无违和感。AI负责搭建网站,但视角要由人来提供。"
+        }
+      ]
+    },
+    "design/design-atomica-thermal-microstructures": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "美国微加工代工厂Atomica推出了AI Thermal Microstructures Platform。目标客户是为高密度AI计算、先进封装、光子系统等硬件开发热管理结构的厂商。这是继AI Optical Connectivity、AI Optical Source、AI Photonic Integration之后的第四个平台。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
+          "cap": "Atomica的AI Thermal Microstructures Platform把AI硬件中的散热拉近到热源附近。"
+        },
+        {
+          "t": "p",
+          "x": "AI计算系统密度越高,在更小空间里产生的热量也越多,密集封装内部尤其棘手。风冷、散热片、冷板和数据中心散热仍各司其职,但局部热点和温度梯度需要封装层面的专门方案。"
+        },
+        {
+          "t": "p",
+          "x": "该平台把微流体冷却、导热路径、中介层、传感结构、键合和晶圆级封装整合在一起。通过把冷却液引到热量集中处附近、分散热量、测量压力和流量、把对温度敏感的元件分离开,来控制先进封装内部的温度。"
+        },
+        {
+          "t": "p",
+          "x": "目标应用范围很广,液冷AI加速器模块、GPU和芯粒封装、高带宽内存集成、光子中介层、光引擎、共封装与近封装光学器件、外部激光光源系统、边缘AI、工业电子、国防以及高可靠性传感器模块都在其列。"
+        },
+        {
+          "t": "p",
+          "x": "在光集成领域,热同样是个麻烦。激光器和光引擎越靠近处理器和交换机,温度梯度和热漂移就越会影响性能和稳定性。由微加工制成的热结构能在狭小的光学系统内压制这种影响。"
+        },
+        {
+          "t": "p",
+          "x": "客户可以从可行性验证结构或热测试载具起步,逐步推进到工程样品、功能原型、认证批次,再到量产。"
+        }
+      ]
+    },
+    "design/design-figma-agent-army": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "KhyLHeGpWFA"
+        },
+        {
+          "t": "p",
+          "x": "Figma开发者布道师Jake Albaugh主持的Dev Mindset系列新一期,标题就是“My agent army writes Code Connect”。节目用6分42秒讲述如何让智能体编写和管理Code Connect文件。"
+        },
+        {
+          "t": "p",
+          "x": "Figma Code Connect把设计组件直接对接到生产代码。有了这层连接,智能体读取Figma文件时,看到的是真正的组件名称和props,而不是无法触碰的原始样式数据。"
+        },
+        {
+          "t": "p",
+          "x": "这样一来,智能体编程变得更准确、更快。节省的是时间,更重要的是节省了AI额度。"
+        },
+        {
+          "t": "p",
+          "x": "过去的障碍是每个组件都要手写Code Connect文件。现在这些文件改由智能体代写和维护,几乎不用动手也能照样拿到上述好处。"
+        }
+      ]
     }
   }
 }

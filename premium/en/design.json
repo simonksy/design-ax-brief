@@ -3672,6 +3672,138 @@
           "x": "Source: Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
         }
       ]
+    },
+    "design/design-aia-contract-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIA Contract Documents (ACD) unveiled an AI assistant that offers in-app guidance for contracts. It also redesigned its document editor to speed up contract work."
+        },
+        {
+          "t": "p",
+          "x": "The same day, it announced the hiring of Arijit “AJ” Saha as chief technology officer. He will lead ACD's technology and AI strategy, continuing to push product innovation and customer value."
+        },
+        {
+          "t": "p",
+          "x": "Saha has led engineering, data, AI and cloud organizations for more than 23 years, from startups to large enterprises. He has worked at Infosys, Goldman Sachs and Noodle AI (now Daybreak), and most recently served as chief technology officer at Redica Systems."
+        },
+        {
+          "t": "p",
+          "x": "At ACD, his work will focus on next-generation tools that streamline key tasks across the construction lifecycle, helping architecture, engineering and construction (AEC) firms align teams, manage risk and keep projects running from start to finish."
+        },
+        {
+          "t": "p",
+          "x": "ACD is built on more than 300 standard contract documents, and the company is reworking the experience around them, aiming to reduce the effort needed from template to signed contract. The new editor simplifies document work, and the AI assistant answers users whenever they call on it at any point in the contracting process. Features to help gauge project risk and finish contract-related tasks faster are also in development."
+        },
+        {
+          "t": "p",
+          "x": "More than 45,000 companies use ACD, producing more than 1.2 million contracts each year, making it a key part of how construction projects run across the United States. More details are available at aiacontracts.com."
+        }
+      ]
+    },
+    "design/design-ai-websites-look-same": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you've built a website with AI recently, the result probably looked oddly familiar: a huge hero headline, a gradient flowing from purple to blue, rounded cards, a floating dashboard mockup, feature sections lined up neatly. Feed the same idea into a different builder and the result is strikingly similar."
+        },
+        {
+          "t": "p",
+          "x": "The author doesn't blame a lack of creativity in AI. He sees it as the overlap of patterns the tools learned, the components they lean on, the defaults they were designed with, and the way we write prompts. Large language models are prediction systems, so a loose request gets the most common answer."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/rvyy9aha9yno4ed06fc7.png",
+          "cap": "Why AI website builders keep producing similar designs."
+        },
+        {
+          "t": "p",
+          "x": "A phrase like 'modern, clean, and professional' sounds like direction to a human ear, but to a model it's just a broad category. The fact that many tools share common parts like Tailwind CSS and shadcn/ui also feeds the convergence."
+        },
+        {
+          "t": "p",
+          "x": "The author ran the same prompt for a personal finance app landing page through Lovable, Google AI Studio, and v0, and compared only the hero sections. The implementations differed, but the hierarchy, whitespace, and composition all came out in the same familiar visual language."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xu5frjmr4zkjq7xhwekb.png",
+          "cap": "A finance landing page Lovable made from the same generic prompt."
+        },
+        {
+          "t": "p",
+          "x": "The remedy is narrowing the direction: write down the audience, the problem they feel, visual references, and what to avoid. For a fictional plant-care app called Mfon, he tests three directions, editorial, brutalist, and retro botanical, specifying even color codes and typefaces."
+        },
+        {
+          "t": "p",
+          "x": "One of the biggest rules is to state what you don't want. Explicitly ruling out the purple-blue gradient, glassmorphism, floating dashboard screenshots, and three-column cards forces the model to find a different answer instead of the familiar pattern. Locking typeface, color, and spacing rules into the system instructions keeps them as guardrails throughout the project."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/iojolkul6yqjmca34fo7.png",
+          "cap": "The system instructions screen in Google AI Studio."
+        },
+        {
+          "t": "p",
+          "x": "The first output is a draft, not a finished product. The author suggests asking yourself whether it still looks like your brand with the logo removed, and whether it wouldn't feel out of place with a competitor's logo on it instead. AI builds the website, but people supply the point of view."
+        }
+      ]
+    },
+    "design/design-atomica-thermal-microstructures": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "U.S. micro-fabrication foundry Atomica has unveiled the AI Thermal Microstructures Platform. It targets customers developing thermal management structures for hardware such as high-density AI computing, advanced packaging, and photonic systems. It is the fourth platform, following AI Optical Connectivity, AI Optical Source, and AI Photonic Integration."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
+          "cap": "Atomica's AI Thermal Microstructures Platform pulls cooling closer to the heat source in AI hardware."
+        },
+        {
+          "t": "p",
+          "x": "As the density of AI computing systems rises, more heat is generated in tighter spaces. The inside of dense packages becomes especially difficult. Air cooling, heat sinks, cold plates, and data center cooling still do their job, but localized hot spots and temperature gradients call for solutions at the package level."
+        },
+        {
+          "t": "p",
+          "x": "The platform combines microfluidic cooling, heat-transfer paths, interposers, sensing structures, bonding, and wafer-level packaging. It controls temperature inside advanced packages by routing coolant close to heat-concentration points, spreading heat, measuring pressure and flow rate, and separating out temperature-sensitive components."
+        },
+        {
+          "t": "p",
+          "x": "The targeted applications are broad: liquid-cooled AI accelerator modules, GPU and chiplet packages, high-bandwidth memory integration, photonic interposers, optical engines, co-packaged and near-packaged optics, external laser light source systems, edge AI, industrial electronics, defense, and high-reliability sensor modules all made the list."
+        },
+        {
+          "t": "p",
+          "x": "Heat is a headache in optical integration too. The closer lasers and optical engines sit to processors and switches, the more temperature gradients and thermal drift shake performance and stability. Thermal structures made with micro-fabrication suppress that effect inside tight optical systems."
+        },
+        {
+          "t": "p",
+          "x": "Customers can start with feasibility-validation structures or thermal test vehicles and move step by step through engineering samples, functional prototypes, qualification lots, and mass production."
+        }
+      ]
+    },
+    "design/design-figma-agent-army": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "KhyLHeGpWFA"
+        },
+        {
+          "t": "p",
+          "x": "A new episode of the Dev Mindset series hosted by Figma developer advocate Jake Albaugh. The title alone says it: 'My agent army writes Code Connect.' Over 6 minutes and 42 seconds, it covers how to have agents write and manage Code Connect files."
+        },
+        {
+          "t": "p",
+          "x": "Figma Code Connect links design components directly to production code. With that connection in place, when an agent reads a Figma file, it sees real component names and props instead of raw style data it can't touch."
+        },
+        {
+          "t": "p",
+          "x": "That makes agentic coding more accurate and faster. Time is saved, and more importantly, AI credits are saved."
+        },
+        {
+          "t": "p",
+          "x": "The sticking point was having to hand-write a Code Connect file for every component. Now agents write and manage those files instead. You get the same benefits with almost no manual work."
+        }
+      ]
     }
   }
 }

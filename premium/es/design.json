@@ -3528,6 +3528,110 @@
           "x": "Fuente: Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
         }
       ]
+    },
+    "design/design-ai-websites-look-same": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si construiste un sitio web con IA hace poco, el resultado probablemente te resultó extrañamente familiar: un gran titular hero, un degradado que fluye de morado a azul, tarjetas redondeadas, una maqueta de panel flotante, secciones de funciones alineadas en orden. Si metes la misma idea en otro generador, el resultado es sorprendentemente similar."
+        },
+        {
+          "t": "p",
+          "x": "El autor no atribuye la causa a una falta de creatividad de la IA. La ve como la superposición de los patrones que aprendió la herramienta, los componentes en los que se apoya, los valores predeterminados con los que fue diseñada, y la forma en que escribimos los prompts. Los modelos de lenguaje grandes son sistemas de predicción, así que una solicitud vaga recibe la respuesta más común."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/rvyy9aha9yno4ed06fc7.png",
+          "cap": "Por qué los generadores de sitios con IA siguen produciendo diseños similares."
+        },
+        {
+          "t": "p",
+          "x": "Una frase como 'moderno, limpio y profesional' suena a dirección para un oído humano, pero para el modelo es solo una categoría amplia. Que varias herramientas compartan piezas comunes como Tailwind CSS y shadcn/ui también alimenta esa convergencia."
+        },
+        {
+          "t": "p",
+          "x": "El autor ejecutó el mismo prompt para la landing page de una app de finanzas personales en Lovable, Google AI Studio y v0, y comparó solo las secciones hero. Las implementaciones variaron, pero la jerarquía, el espacio en blanco y la composición salieron con el mismo lenguaje visual familiar."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/xu5frjmr4zkjq7xhwekb.png",
+          "cap": "Una landing page de finanzas que Lovable creó con el mismo prompt genérico."
+        },
+        {
+          "t": "p",
+          "x": "La receta consiste en acotar la dirección: anotar el público, el problema que siente, referencias visuales y lo que se debe evitar. Para una app ficticia de cuidado de plantas llamada Mfon, prueba tres direcciones, editorial, brutalista y botánica retro, especificando incluso códigos de color y tipografías."
+        },
+        {
+          "t": "p",
+          "x": "Una de las reglas más importantes es decir lo que no se quiere. Descartar explícitamente el degradado morado-azul, el glassmorphism, las capturas de panel flotante y las tarjetas de tres columnas obliga al modelo a buscar una respuesta distinta en lugar del patrón habitual. Fijar las reglas de tipografía, color y espaciado en las instrucciones del sistema las mantiene como barandillas durante todo el proyecto."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/iojolkul6yqjmca34fo7.png",
+          "cap": "La pantalla de instrucciones del sistema en Google AI Studio."
+        },
+        {
+          "t": "p",
+          "x": "El primer resultado es un borrador, no un producto terminado. El autor sugiere preguntarse si, sin el logotipo, sigue pareciendo tu marca, y si no resultaría extraño con el logotipo de un competidor en su lugar. La IA construye el sitio web, pero el punto de vista lo aporta la persona."
+        }
+      ]
+    },
+    "design/design-atomica-thermal-microstructures": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La fundición de microfabricación estadounidense Atomica presentó la AI Thermal Microstructures Platform. Está dirigida a clientes que desarrollan estructuras de gestión térmica para hardware como computación de IA de alta densidad, empaquetado avanzado y sistemas fotónicos. Es la cuarta plataforma, tras AI Optical Connectivity, AI Optical Source y AI Photonic Integration."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/Atomica-introduces-AI-Thermal-Microstructures-Platform.jpg",
+          "cap": "La AI Thermal Microstructures Platform de Atomica acerca la refrigeración a la fuente de calor en el hardware de IA."
+        },
+        {
+          "t": "p",
+          "x": "A medida que aumenta la densidad de los sistemas de computación de IA, se genera más calor en espacios más reducidos. El interior de los empaquetados densos resulta especialmente complicado. La refrigeración por aire, los disipadores, las placas frías y la refrigeración de centros de datos siguen cumpliendo su función, pero los puntos calientes localizados y los gradientes de temperatura exigen soluciones propias a nivel de empaquetado."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma combina refrigeración microfluidica, rutas de transferencia de calor, interpositores, estructuras de detección, uniones y empaquetado a nivel de oblea. Controla la temperatura dentro de los empaquetados avanzados haciendo circular refrigerante cerca de los puntos de concentración de calor, dispersando el calor, midiendo presión y caudal, y separando los componentes sensibles a la temperatura."
+        },
+        {
+          "t": "p",
+          "x": "Las aplicaciones a las que apunta son amplias: módulos aceleradores de IA refrigerados por líquido, empaquetados de GPU y chiplets, integración de memoria de alto ancho de banda, interpositores fotónicos, motores ópticos, óptica coempaquetada y casi empaquetada, sistemas de fuente láser externa, IA de borde, electrónica industrial, defensa y módulos de sensores de alta fiabilidad, todos figuran en la lista."
+        },
+        {
+          "t": "p",
+          "x": "El calor también es un problema en la integración óptica. Cuanto más cerca están los láseres y los motores ópticos de los procesadores y conmutadores, más afectan los gradientes de temperatura y la deriva térmica al rendimiento y la estabilidad. Las estructuras térmicas hechas con microfabricación contienen ese efecto dentro de sistemas ópticos reducidos."
+        },
+        {
+          "t": "p",
+          "x": "Los clientes pueden empezar con estructuras de validación de viabilidad o vehículos de prueba térmica, y avanzar paso a paso por muestras de ingeniería, prototipos funcionales, lotes de calificación y producción en serie."
+        }
+      ]
+    },
+    "design/design-figma-agent-army": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "KhyLHeGpWFA"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo episodio de la serie Dev Mindset, presentada por el defensor de desarrolladores de Figma Jake Albaugh. El título ya lo dice todo: 'My agent army writes Code Connect.' En 6 minutos y 42 segundos, aborda cómo hacer que los agentes escriban y gestionen archivos de Code Connect."
+        },
+        {
+          "t": "p",
+          "x": "Figma Code Connect conecta los componentes de diseño directamente con el código de producción. Con esa conexión en marcha, cuando un agente lee un archivo de Figma, ve los nombres reales de los componentes y sus props en lugar de datos de estilo en bruto que no puede tocar."
+        },
+        {
+          "t": "p",
+          "x": "Eso hace que la programación agentic sea más precisa y más rápida. Se ahorra tiempo y, más importante aún, se ahorran créditos de IA."
+        },
+        {
+          "t": "p",
+          "x": "El obstáculo era tener que escribir a mano un archivo de Code Connect para cada componente. Ahora los agentes escriben y gestionan esos archivos. Se obtienen los mismos beneficios con casi ninguna intervención manual."
+        }
+      ]
     }
   }
 }

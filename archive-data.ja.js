@@ -16522,10 +16522,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
-  "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Code Connectは\n作成をAIが担当",
+  "body": "Code Connectの作成と管理をAI群に任せる方法をFigmaが示す。",
+  "lang": "ja"
  },
  {
   "id": "design-atomica-thermal-microstructures",
@@ -16538,10 +16537,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
-  "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Atomicaが発熱を\n抑える微細構造へ",
+  "body": "AtomicaがAIハードウェアの熱を扱う微細構造プラットフォームを新たに発表した。",
+  "lang": "ja"
  },
  {
   "id": "design-ai-websites-look-same",
@@ -16554,10 +16552,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
-  "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "似たサイトが並ぶ理由\n既定値からの脱出法",
+  "body": "プロンプトで作ったサイトが同じ配色と構成に集まる理由を探る。",
+  "lang": "ja"
  },
  {
   "id": "books-manga-million-translation",
@@ -16570,10 +16567,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "슈에이샤가 미번역 만화\n300편을 다섯 언어로 옮긴다",
-  "body": "슈에이샤가 영어판 없던 만화 300편을 다섯 언어로 한꺼번에 푸는 플랫폼을 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "集英社が未訳漫画\n300作を5言語に",
+  "body": "集英社が英語版のなかった漫画300作を5言語で一斉配信するプラットフォームを開設した。",
+  "lang": "ja"
  },
  {
   "id": "books-copyright-registration-gap",
@@ -16586,10 +16582,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "저작권 등록 누락이\n합의금 자격을 가른다",
-  "body": "출판사가 저작권 등록을 빠뜨린 탓에 일부 작가가 앤스로픽 합의 대상에서 제외됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "著作権登録漏れが\n和解金資格分ける",
+  "body": "出版社の登録漏れで、一部作家がアンソロピック和解の対象から外れた。",
+  "lang": "ja"
  },
  {
   "id": "books-childrens-book-slop",
@@ -16602,10 +16597,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "값싼 AI 삽화가 그림책의\n손맛을 밀어내고 있다",
-  "body": "조악한 AI 그림책이 서점과 도서관 매대까지 파고들자 부모와 작가들이 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "安いAI挿絵が絵本の\n手触りを奪っている",
+  "body": "粗悪なAI絵本が書店や図書館にまで広がり、親や作家が反発した。",
+  "lang": "ja"
  },
  {
   "id": "books-bartz-ai-thriller",
@@ -16618,10 +16612,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽을 고소한 작가가\n이번엔 AI 스릴러를 쓴다",
-  "body": "앤스로픽 소송의 원고 안드레아 바츠가 챗봇에 소설을 맡긴 작가의 이야기를 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "アンソロピックを\n訴えた作家、AI小説へ",
+  "body": "アンソロピック訴訟の原告アンドレア・バーツが、チャットボットに小説を託す作家を描く。",
+  "lang": "ja"
  },
  {
   "id": "books-academic-ai-screening",
@@ -17107,10 +17100,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
-  "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIAが標準契約書に\nAIアシスタント導入",
+  "body": "AIAが業界標準契約書向けAIアシスタントを発表し、新CTOも発表した。",
+  "lang": "ja"
  },
  {
   "id": "books-when-bots-write",
@@ -17123,10 +17115,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "봇이 책을 쓰기 시작한 출판 현장",
-  "body": "초고부터 매대에 오르는 기계 집필서까지, 출판 공정이 어디까지 바뀌었는지 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本を書き始めた\nボットと出版現場",
+  "body": "草稿からAI執筆本の店頭販売まで、出版工程の変化を追う。",
+  "lang": "ja"
  },
  {
   "id": "books-naver-webtoon-byus",
@@ -17139,10 +17130,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "웹툰 주인공과 대화하는\n네이버웹툰의 AI 스토리챗",
-  "body": "주인공과 대화하는 AI 챗을 붙이자 휴재작 조회수가 일주일 만에 67% 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ネイバーウェブトゥーンの\nAIストーリーチャット",
+  "body": "主人公と話せるAIチャット導入で、休載作の閲覧数が1週間で67%増えた。",
+  "lang": "ja"
  },
  {
   "id": "books-kindle-catalog-dilution",

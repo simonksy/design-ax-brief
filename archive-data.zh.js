@@ -16526,10 +16526,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
-  "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Code Connect编写\n交给AI代理军团",
+  "body": "Figma展示了如何用多个编程智能体编写和管理Code Connect文件。",
+  "lang": "zh"
  },
  {
   "id": "design-atomica-thermal-microstructures",
@@ -16542,10 +16541,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
-  "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Atomica推出\n控热微结构平台",
+  "body": "Atomica推出全新微结构平台,用于应对AI硬件发热问题。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-websites-look-same",
@@ -16558,10 +16556,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
-  "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "提示词建站为何趋同\n如何跳出默认值",
+  "body": "探讨用提示词生成的网站为何都收敛成相同的渐变与卡片样式。",
+  "lang": "zh"
  },
  {
   "id": "books-manga-million-translation",
@@ -16574,10 +16571,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "슈에이샤가 미번역 만화\n300편을 다섯 언어로 옮긴다",
-  "body": "슈에이샤가 영어판 없던 만화 300편을 다섯 언어로 한꺼번에 푸는 플랫폼을 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "集英社将300部\n未译漫画译5语",
+  "body": "集英社开设平台,一次性将300部无英译漫画译成五种语言。",
+  "lang": "zh"
  },
  {
   "id": "books-copyright-registration-gap",
@@ -16590,9 +16586,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "저작권 등록 누락이\n합의금 자격을 가른다",
-  "body": "출판사가 저작권 등록을 빠뜨린 탓에 일부 작가가 앤스로픽 합의 대상에서 제외됐다.",
-  "lang": "ko",
+  "headline": "Missing copyright filings\ndecide who gets settlement pay",
+  "body": "Because publishers skipped copyright registration, some authors were excluded from the Anthropic settlement.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16606,10 +16602,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "값싼 AI 삽화가 그림책의\n손맛을 밀어내고 있다",
-  "body": "조악한 AI 그림책이 서점과 도서관 매대까지 파고들자 부모와 작가들이 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "廉价AI插画正挤走\n绘本的手工质感",
+  "body": "粗劣的AI绘本挤进书店和图书馆货架,引发家长和作家反弹。",
+  "lang": "zh"
  },
  {
   "id": "books-bartz-ai-thriller",
@@ -16622,10 +16617,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽을 고소한 작가가\n이번엔 AI 스릴러를 쓴다",
-  "body": "앤스로픽 소송의 원고 안드레아 바츠가 챗봇에 소설을 맡긴 작가의 이야기를 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "起诉Anthropic的作家\n这次写AI惊悚小说",
+  "body": "Anthropic诉讼原告安德里亚·巴茨要写一个把小说托付给聊天机器人的作家的故事。",
+  "lang": "zh"
  },
  {
   "id": "books-academic-ai-screening",
@@ -16637,10 +16631,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "Academic publishing built\nAI screening tools and guides",
-  "body": "Academic publishing built AI screening tools and guidelines before trade publishing, which struggles with AI slop.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "学术出版社率先\n打造AI审稿工具规范",
+  "body": "比起深陷AI劣质内容的大众图书,学术出版更早建立了审查工具和准则。",
+  "lang": "zh"
  },
  {
   "id": "science-quera-claude",
@@ -17114,9 +17107,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
-  "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다.",
-  "lang": "ko",
+  "headline": "AIA adds an AI assistant\nto standard contract forms",
+  "body": "AIA unveiled an AI assistant for its industry-standard contract documents and named a new CTO.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17130,10 +17123,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "봇이 책을 쓰기 시작한 출판 현장",
-  "body": "초고부터 매대에 오르는 기계 집필서까지, 출판 공정이 어디까지 바뀌었는지 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机器人开始写书\n的出版现场",
+  "body": "从初稿到上架的机器写作书，本文梳理出版流程发生了多大变化。",
+  "lang": "zh"
  },
  {
   "id": "books-naver-webtoon-byus",
@@ -17146,10 +17138,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "웹툰 주인공과 대화하는\n네이버웹툰의 AI 스토리챗",
-  "body": "주인공과 대화하는 AI 챗을 붙이자 휴재작 조회수가 일주일 만에 67% 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "能与主角对话\nAI剧情聊天上线",
+  "body": "推出与主角对话的AI聊天后，暂停连载作品的点击量一周内增长67%。",
+  "lang": "zh"
  },
  {
   "id": "books-kindle-catalog-dilution",
