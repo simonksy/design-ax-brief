@@ -820,11 +820,17 @@ function SubscribeModal({ onClose, t, initialPhase }) {
     <div onClick={(e) => { e.stopPropagation(); onClose(); }}
       style={{ position: 'fixed', inset: 0, background: 'rgba(20,16,12,.62)',
       backdropFilter: 'blur(4px)', WebkitBackdropFilter: 'blur(4px)',
-      display: 'flex', alignItems: 'center', justifyContent: 'center',
-      padding: '24px 16px', boxSizing: 'border-box', overflowY: 'auto',
+      /* align-items:center + 넘치는 내용 = 위쪽이 잘리고 스크롤로도 닿지 않는다.
+         flex-start로 두고 자식에 margin:auto를 주면, 들어갈 땐 가운데 정렬이고
+         넘칠 땐 위에서부터 스크롤된다. overscroll-behavior는 팝업 끝에서 스크롤이
+         뒤 페이지로 넘어가는 것을 막는다 — 폰에서 배경만 움직이던 원인. */
+      display: 'flex', alignItems: 'flex-start', justifyContent: 'center',
+      padding: '20px 14px', boxSizing: 'border-box',
+      overflowY: 'auto', WebkitOverflowScrolling: 'touch', overscrollBehavior: 'contain',
       zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
-        padding: 26, width: 580, maxWidth: '94vw', fontFamily: 'Pretendard, system-ui' }}>
+        padding: 26, width: 580, maxWidth: '94vw', margin: 'auto',
+        fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>
           {phase === 'login' && loginFor === 'signin' ? tx('auth.login_title')
             : phase === 'choose' && me && me.entitled ? tx('status.title')
@@ -851,6 +857,18 @@ function SubscribeModal({ onClose, t, initialPhase }) {
                   <Plan plan="monthly" price={planPrice('monthly')} />
                   <Plan plan="yearly" price={planPrice('yearly')} highlight
                     discount={tx('paywall.plan_yearly_note')} />
+                  {/* 이미 구독한 사람의 입구. 폰에서는 헤더에 Login 알약이 들어갈
+                      자리가 없어 여기가 유일한 길이다 — 데스크톱에서도 해가 없다. */}
+                  {!(me && me.loggedIn) && (
+                    <p style={{ margin: '12px 0 0', textAlign: 'center', fontSize: 13, color: '#5a5450' }}>
+                      {tx('auth.already')}{' '}
+                      <button type="button" onClick={() => { setLoginFor('signin'); setPhase('login'); }}
+                        style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer',
+                          font: 'inherit', fontWeight: 700, color: '#7928ca', textDecoration: 'underline' }}>
+                        {tx('auth.login')}
+                      </button>
+                    </p>
+                  )}
                 </React.Fragment>
               )}
             </React.Fragment>

@@ -19,6 +19,7 @@ window.AX_I18N = {
  "archive.tab_all": "All",
  "archive.view_list": "リスト",
  "archive.view_network": "ネットワーク",
+ "auth.already": "すでにご購読中ですか？",
  "auth.login": "Login",
  "auth.login_body": "ご登録のメールアドレスにログインリンクをお送りします。パスワードはありません。",
  "auth.login_short": "ログイン",

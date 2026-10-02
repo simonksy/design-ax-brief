@@ -19,6 +19,7 @@ window.AX_I18N = {
  "archive.tab_all": "All",
  "archive.view_list": "List",
  "archive.view_network": "Network",
+ "auth.already": "Already subscribed?",
  "auth.login": "Login",
  "auth.login_body": "We'll email you a sign-in link. There's no password.",
  "auth.login_short": "Login",
