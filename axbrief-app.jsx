@@ -172,8 +172,13 @@ if (!document.getElementById('ax-styles')) {
   .ax-flip{position:relative;width:100%;height:100%;
      transition:transform .62s cubic-bezier(.4,0,.2,1);}
   .ax-flip.flipped{transform:rotateY(180deg);}
-  .ax-flip-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
-     overflow:hidden;border-radius:inherit;}
+  .ax-flip-face{position:absolute;inset:0;overflow:hidden;border-radius:inherit;}
+  /* backface-visibility는 뒤집는 동안에만 건다. 상시로 걸어 두면 카드가 영구 합성
+     레이어가 되고, 윈도우 크롬은 합성 레이어 안에서 서브픽셀 안티에일리어싱
+     (ClearType)을 끈다 — 맥에서는 원래 그레이스케일이라 티가 안 나지만 윈도우에서는
+     본문 글씨가 자글자글해 보인다. 쉬고 있는 카드의 뒷면은 visibility:hidden으로
+     이미 가려지므로 이 속성이 없어도 앞면 위로 비치지 않는다. */
+  .ax-flip-wrap.is3d .ax-flip-face{backface-visibility:hidden;-webkit-backface-visibility:hidden;}
   .ax-flip-back{transform:rotateY(180deg);display:flex;flex-direction:column;}
   /* full-article scroll region (the fixed text box) */
   .ax-full{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:24px 26px 26px;}
@@ -609,19 +614,27 @@ function ProCompareTable({ t }) {
    주의: 이 날짜는 Paddle 가격에 "1개월 무료 체험"이 설정돼 있다는 전제에서만 맞다.
    그 설정이 바뀌면 이 계산도 함께 바꿔야 한다 — 그러지 않으면 사용자에게 거짓
    결제일을 보여주게 된다. */
-function firstChargeDate() {
+/* 체험 기간은 플랜마다 다르다 — 월간 7일, 연간 1개월. 이 값은 Paddle의 가격에
+   설정된 trial_period와 반드시 같아야 한다. 어긋나면 사이트가 약속한 날짜와 실제
+   청구일이 갈린다. pipeline/paddle_price_check.html로 양쪽을 대조할 수 있다. */
+const TRIAL = { monthly: { days: 7 }, yearly: { months: 1 } };
+
+function firstChargeDate(plan) {
+  const t = TRIAL[plan] || TRIAL.yearly;
   const d = new Date();
+  if (t.days) { d.setDate(d.getDate() + t.days); return d; }
+  // setMonth는 말일을 넘기면 다음 달로 샌다(1/31 → 3/3) — 해당 달의 마지막 날로 깎는다.
   const day = d.getDate();
   d.setDate(1);
-  d.setMonth(d.getMonth() + 1);
+  d.setMonth(d.getMonth() + t.months);
   const lastDay = new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate();
   d.setDate(Math.min(day, lastDay));
   return d;
 }
-function firstChargeLabel() {
+function firstChargeLabel(plan) {
   try {
     const dateStr = new Intl.DateTimeFormat(window.AX_LANG_TAG,
-      { year: 'numeric', month: 'long', day: 'numeric' }).format(firstChargeDate());
+      { year: 'numeric', month: 'long', day: 'numeric' }).format(firstChargeDate(plan));
     return tx('paywall.first_charge', { date: dateStr });
   } catch { return ''; }
 }
@@ -715,10 +728,10 @@ function SubscribeModal({ onClose, t }) {
       {discount && <span className="ax-sticker" aria-label={discount}>-17%</span>}
       <span style={{ display: 'block', fontSize: 16, fontWeight: 700, color: '#fff' }}>{price}</span>
       <span style={{ display: 'block', marginTop: 4, fontSize: 12, color: 'rgba(255,255,255,.85)' }}>
-        {tx('paywall.trial')}
+        {tx('paywall.trial_' + plan)}
       </span>
       <span style={{ display: 'block', marginTop: 2, fontSize: 11.5, color: 'rgba(255,255,255,.72)' }}>
-        {firstChargeLabel()}
+        {firstChargeLabel(plan)}
       </span>
     </button>
   );
@@ -1096,7 +1109,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   // (no perspective/preserve-3d → no compositing layer → vertical touch scrolls the page).
   const use3d = flipped || flipping;
   return (
-    <div className="ax-flip-wrap" style={{ perspective: use3d ? '1800px' : 'none' }}>
+    <div className={'ax-flip-wrap' + (use3d ? ' is3d' : '')} style={{ perspective: use3d ? '1800px' : 'none' }}>
       <div className={'ax-flip' + (flipped ? ' flipped' : '')} style={{ transformStyle: use3d ? 'preserve-3d' : 'flat' }}>
         <div className="ax-flip-face">
           <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}

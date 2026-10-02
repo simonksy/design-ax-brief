@@ -26,7 +26,7 @@ for key in ("monthly", "yearly"):
 # 6) 새 문구 키가 5개 언어에 모두 있다
 need = ["paywall.plan_monthly", "paywall.plan_yearly", "paywall.plan_yearly_note",
         "paywall.plan_monthly_fmt", "paywall.plan_yearly_fmt",
-        "paywall.trial", "paywall.login_first", "paywall.confirming",
+        "paywall.trial_monthly", "paywall.trial_yearly", "paywall.login_first", "paywall.confirming",
         "paywall.confirm_slow", "paywall.checkout_failed"]
 for lang in ("ko", "en", "ja", "zh", "es"):
     d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
