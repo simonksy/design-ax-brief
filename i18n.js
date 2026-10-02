@@ -62,10 +62,28 @@
       "#ax-pro>span{position:relative;z-index:1;}" +
       "#ax-pro:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-pro .ax-pro-short{display:none;}" +
+      // 이미 구독한 사람이 새 기기에서 들어오면 로그인할 입구가 있어야 한다.
+      // 로그인 상태를 알기 전/로그인한 뒤에는 감춘다 — right 값은 Pro 버튼의
+      // 실제 너비를 재서 JS가 정한다(문구 길이가 언어마다 다르다).
+      "#ax-login{position:absolute;top:14px;z-index:200;display:none;align-items:center;" +
+      "justify-content:center;height:34px;padding:0 13px;border-radius:17px;" +
+      "border:1px solid rgba(23,23,23,.14);background:rgba(255,255,255,.72);" +
+      "-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);color:#4a4540;" +
+      "cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:600;" +
+      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
+      "#ax-login.on{display:flex;}" +
+      "#ax-login:hover{border-color:rgba(23,23,23,.35);}" +
+      "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
+      "#ax-login .ax-login-short{display:none;}" +
+      // 구독 중일 때 Pro 버튼 — 모션을 멈추고 차분한 완료 상태로 바꾼다.
+      "#ax-pro.is-pro{animation:none;background:linear-gradient(110deg,#7928ca,#0070f3);" +
+      "background-size:100% 100%;}" +
+      "#ax-pro.is-pro::after{display:none;}" +
       // 모션을 줄여 달라는 설정은 존중한다 — 색만 남기고 움직임은 멈춘다.
       "@media (prefers-reduced-motion:reduce){#ax-pro{animation:none;}#ax-pro::after{display:none;}}" +
       "@media (max-width:720px){#ax-globe{top:10px;right:10px;}" +
-      "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}}";
+      "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}" +
+      "#ax-login{top:10px;}#ax-login .ax-login-full{display:none;}#ax-login .ax-login-short{display:inline;}}";
     document.head.appendChild(css);
     var box = document.createElement("div");
     box.id = "ax-globe";
@@ -97,17 +115,53 @@
     proBtn.querySelector(".ax-pro-short").textContent = window.t("pro.cta_short");
     proBtn.onclick = function () { window.dispatchEvent(new CustomEvent("ax:subscribe")); };
     document.body.appendChild(proBtn);
-    // Mobile: centre the globe + Pro button on the logo's horizontal midline (the
-    // logo is rendered by React after load, so re-measure on resize and for a few
-    // frames). Both elements move together so they never drift apart.
+
+    // 로그인 버튼 — 이미 구독한 사람이 새 기기에서 들어왔을 때의 입구.
+    var loginBtn = document.createElement("button");
+    loginBtn.id = "ax-login";
+    loginBtn.type = "button";
+    loginBtn.innerHTML = '<span class="ax-login-full"></span><span class="ax-login-short"></span>';
+    loginBtn.querySelector(".ax-login-full").textContent = window.t("auth.login");
+    loginBtn.querySelector(".ax-login-short").textContent = window.t("auth.login_short");
+    loginBtn.onclick = function () { window.dispatchEvent(new CustomEvent("ax:login")); };
+    document.body.appendChild(loginBtn);
+
+    // 가로 위치: 로그인 버튼은 Pro 버튼 왼쪽에 붙는다. Pro 버튼의 너비는 문구
+    // 길이(언어마다 다름)와 화면 폭에 따라 달라지므로 실측해서 정한다.
+    var placeLogin = function () {
+      var proRight = window.innerWidth <= 720 ? 52 : 56;
+      loginBtn.style.right = (proRight + proBtn.offsetWidth + 8) + "px";
+    };
+
+    // React가 /api/me를 읽고 나면 이걸 불러 준다. 로그인 상태를 모르는 동안에는
+    // 로그인 버튼을 감춰 둔다 — Pro 구독자에게 잠깐 떴다 사라지는 게 더 어색하다.
+    window.axSetAuthUI = function (auth) {
+      var entitled = !!(auth && auth.entitled);
+      var loggedIn = !!(auth && auth.loggedIn);
+      proBtn.classList.toggle("is-pro", entitled);
+      proBtn.querySelector(".ax-pro-full").textContent =
+        window.t(entitled ? "pro.cta_active" : "pro.cta");
+      proBtn.querySelector(".ax-pro-short").textContent =
+        window.t(entitled ? "pro.cta_active_short" : "pro.cta_short");
+      loginBtn.classList.toggle("on", !loggedIn);
+      placeLogin();
+    };
+
+    // Mobile: centre the globe + Pro/Login buttons on the logo's horizontal midline
+    // (the logo is rendered by React after load, so re-measure on resize and for a
+    // few frames). They move together so they never drift apart.
     var align = function () {
+      placeLogin();
       var logo = document.querySelector("[data-ax-logo]");
-      if (!logo || window.innerWidth > 720) { box.style.top = ""; proBtn.style.top = ""; return; }
+      if (!logo || window.innerWidth > 720) {
+        box.style.top = ""; proBtn.style.top = ""; loginBtn.style.top = ""; return;
+      }
       var r = logo.getBoundingClientRect();
       if (!r.height) return;
       var mid = r.top + window.scrollY + r.height / 2;
       box.style.top = Math.round(mid - box.offsetHeight / 2) + "px";
       proBtn.style.top = Math.round(mid - proBtn.offsetHeight / 2) + "px";
+      loginBtn.style.top = Math.round(mid - loginBtn.offsetHeight / 2) + "px";
     };
     window.addEventListener("resize", align);
     var tries = 0, tick = setInterval(function () { align(); if (++tries > 40) clearInterval(tick); }, 100);
