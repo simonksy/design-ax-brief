@@ -1216,8 +1216,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
       <div className="ax-heroin" ref={viewportRef} style={{ flex: 1, minHeight: 0, overflow: 'clip',
         touchAction: 'pan-y',   // browser owns vertical (page / article); JS owns horizontal
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        background: mobile ? t.cardSolid : t.cardBg,
-        WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur }}>
+        background: t.cardSolid || t.cardBg }}>
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
@@ -1383,7 +1382,7 @@ function MiniCard({ card, i, mode, t, onEnter, onClick }) {
     <div className="ax-mini" onMouseEnter={() => onEnter(i)} onClick={(e) => onClick(i, e)} style={{
       width: w, height: h, zIndex: z, transform: `translateX(-50%) translateX(${x}px) rotate(${rot}deg)`,
       borderRadius: 13, overflow: 'hidden', cursor: 'pointer',
-      background: t.feedBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur, border: t.feedBorder,
+      background: t.feedSolid || t.feedBg, border: t.feedBorder,
       boxShadow: front ? '0 28px 60px -16px rgba(80,50,40,.55)' : '0 10px 24px -12px rgba(80,50,40,.5)',
     }}>
       <div style={{ position: 'relative', height: front ? '50%' : '46%', overflow: 'hidden' }}>
@@ -1513,7 +1512,7 @@ function WeeklyTimeline({ t, onOpen, days, entitled, hasSubscription }) {
     <section style={{ paddingTop: 92 }} onMouseLeave={clear}>
       <div style={{ textAlign: 'center', marginBottom: 8 }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '7px 16px',
-          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>{tx('deck.past_days')}</span>
+          borderRadius: 100, border: t.cardBorder, background: t.cardSolid || t.cardBg }}>{tx('deck.past_days')}</span>
         <h2 className="ax-hl" style={{ fontSize: 30, lineHeight: 1.18, color: t.hl, margin: '18px 0 8px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 15, color: t.body, margin: 0 }}>
           {entitled
@@ -1564,8 +1563,7 @@ function HeroDeckIntro({ day, cardIdx, t, onDone, mobile }) {
           <div key={i} style={{ position: 'absolute', inset: 0, transform: `translateY(${dy}px) scale(${sc})`, opacity: op,
             transition: `transform .6s cubic-bezier(.2,.8,.25,1) ${oi * 0.07}s, opacity .5s ease ${oi * 0.07}s` }}>
             <div style={{ height: '100%', borderRadius: t.radius, overflow: 'hidden',
-              background: mobile ? (t.cardSolid || t.cardBg) : t.cardBg,
-              WebkitBackdropFilter: mobile ? 'none' : t.blur, backdropFilter: mobile ? 'none' : t.blur,
+              background: t.cardSolid || t.cardBg,
               border: t.cardBorder, boxShadow: t.cardShadow }}>
               <LayoutEditorial item={day.cards[i]} index={i} total={day.cards.length} active={isClk} t={t} mobile={mobile} />
             </div>
@@ -1613,7 +1611,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
     <section style={{ paddingTop: 30 }}>
       <div style={{ textAlign: 'center', marginBottom: 6, padding: '0 16px' }}>
         <span className="ax-eyebrow" style={{ display: 'inline-block', color: t.mute, padding: '6px 14px',
-          borderRadius: 100, border: t.cardBorder, background: t.cardBg, WebkitBackdropFilter: t.blur, backdropFilter: t.blur }}>{tx('deck.past_days')}</span>
+          borderRadius: 100, border: t.cardBorder, background: t.cardSolid || t.cardBg }}>{tx('deck.past_days')}</span>
         <h2 className="ax-hl" style={{ fontSize: 23, lineHeight: 1.2, color: t.hl, margin: '13px 0 6px' }}>{tx('deck.title')}</h2>
         <p className="ax-body" style={{ fontSize: 13.5, color: t.body, margin: 0 }}>
           {entitled ? tx('deck.hint_mobile')
@@ -2725,8 +2723,8 @@ function ThemedPage({ themeKey }) {
         {!insightsOn && hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
             <button onClick={backToToday} className="ax-eyebrow" style={{ cursor: 'pointer',
-              border: t.cardBorder, background: t.cardBg, color: t.hl, padding: '7px 15px', borderRadius: 100,
-              WebkitBackdropFilter: t.blur, backdropFilter: t.blur, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
+              border: t.cardBorder, background: t.cardSolid || t.cardBg, color: t.hl, padding: '7px 15px',
+              borderRadius: 100, display: 'inline-flex', alignItems: 'center', gap: 7 }}>
               <span aria-hidden>←</span> {tx('deck.back_to_today')}
               <span style={{ color: t.faint }}>· {viewing}</span>
             </button>
